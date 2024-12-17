@@ -191,7 +191,7 @@ rakArakke ottannu baLasalaguttade. ettugege: sukha \> suka, kxShi \>
 kruSi, kaShTa \> kaSTa, karnATaka \> karnATaka. EkI ‘ellarakannaDa’?
 
 
-**halmiDi inscription **
+### halmiDi inscription
 
 The transcription from kadamba script into kannada from the Wiki on
 halmiDi is transcribed into Eke here.
@@ -206,7 +206,6 @@ halmiDi is transcribed into Eke here.
 ಕಾದೆಱದು ಪೆತ್ತಜಯನಾ ವಿಜ ಅರಸಂಗೆ ಬಾಳ್ಗೞ್ಚು ಪಲ್ಮಡಿಉಂ ಮೂಱುವಳ್ಳಿಉಂ ಕೊಟ್ಟಾರ್ ಬಟಾರಿ ಕುಲದೊನಳ
 ಕದಂಬನ್ ಕೞ್ದೋನ್ ಮಹಾಪಾತಕನ್ ಸ್ವಸ್ತಿ ಭಟ್ಟರ್ಗ್ಗೀಗೞ್ದೆ ಒಡ್ಡಲಿ ಆ ಪತ್ತೊನ್ದಿ ವಿಟ್ಟಾರಕರ
 
-Potential Eke Transcription:
 
 jayati SrI pariSvarGga SyArGga \[vyA\]natir achyutaH dAnakSer
 yugAntAgniH \[Si\]STAnAntu sudarSanH namaH SrImat kadambapan tyAga
