@@ -177,35 +177,35 @@ If it is a direct transliteration from any text, without any
 alterations, the term "Eke" is used.
 
 ## Consonants
-sections/Eke_consants.md
+[sections/Eke_consants.md](https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/sections/Eke_Consonants.md)
 
 ## Consonants of ellara kannaDa in Eke
-sections/Eke_Consonants_Table.md
+[sections/Eke_Consonants_Table.md](https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/sections/Eke_Consonants_Table.md)
 
 ## Additional consonants in formal or legacy kannaDa in Eke
-sections/Eke_Consonants_Table_Extended.md
+[sections/Eke_Consonants_Table_Extended.md](https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/sections/Eke_Consonants_Table_Extended.md)
 
 
 
 ## Vowels
 
 ### All vowels
-sections/Eke_Vowels.md
+[sections/Eke_Vowels.md](https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/sections/Eke_Vowels.md)
 
 ## Eke from English/Latin alphabet to kannaDa
-sections/Eke_EnglishAlphToKannadaAks.md
+[sections/Eke_EnglishAlphToKannadaAks.md](https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/sections/Eke_EnglishAlphToKannadaAks.md)
 
 ## Eke from English/Latin alphabet combinations to kannaDa
-sections/Eke_EnglishCombAlphToKannadaAks.md
+[sections/Eke_EnglishCombAlphToKannadaAks.md](https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/sections/Eke_EnglishAlphCombToKannadaAks.md)
 
 ## diphthongs
-sections/Eke_Diphthongs.md
+[sections/Eke_Diphthongs.md](https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/sections/Eke_Diphthongs.md)
 
 ## ellara kannaDada akSaragaLu
-sections/Eke_akSaragaLu.md
+[sections/Eke_akSaragaLu.md](https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/sections/Eke_aksaragaLu.md)
 
 ## Remaining/Formal kannaDa akSaras / uLida akSaragaLu
-sections/Eke_formal_akSaragalu.md
+[sections/Eke_formal_akSaragalu.md](https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/sections/Eke_formal_akSaragaLu.md)
 
 ## Character distributions
 
@@ -228,11 +228,11 @@ Frequency tables are listed for EK representations only. As expected
 ottulis fall below every EK consonant in the frequency distribution of
 characters in words found in the alar dictionary.
 
-sections/Eke_char_distributions_consonants.md
-
+[sections/Eke_char_distributions_consonants.md
+](https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/sections/Eke_char_distributions_consonants.md)
 
 ### Eke vowels
-sections/Eke_char_distributions_vowels.md
+[sections/Eke_char_distributions_vowels.md](https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/sections/Eke_char_distributions_vowels.md)
 
 # ellara kannaDa ottakSaragaLu
 
@@ -286,7 +286,7 @@ The following table contains a comprehensive distribution of all ottakSara combi
 The below table has character counts for ottakSaras that occur 100 or more times in alar.
 The table also shows mapping from formal to ek ottaksaras and its counts as well.
 
-sections/Eke_ottakSaras_100_or_more.md
+[sections/Eke_ottakSaras_100_or_more.md](https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/sections/Eke_ottakSaras_100_or_more.md)
 
 The below table summarizes the spread of ottakSaras in kannaDa and EK.
 The top 100/1296 account for an overwhelming 91% of all ottakSaras in
