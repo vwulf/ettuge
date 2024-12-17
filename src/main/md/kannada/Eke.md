@@ -447,8 +447,11 @@ alterations, the term "Eke" is used.
 Interesting character distributions of words in Alar.
 
 ### Raw
-Kannada_distributions.md
 
+Raw dsitributions of the kannaDa akSaras in the Alar dictionary can be found here:
+[Kannada_distributions.md](https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/sections/Kannada_distributions.md)
+
+It includes consonants, vowels (as full characters), modifiers(or half charactoers, most of the vowels) and consonants as modifiers (ottakSaras). 
 
 ### Eke consonants
 
@@ -564,11 +567,19 @@ in dictionaries are not indicative of actual usage.
 
 
 ## kannaDa ottakSaragaLu distributions
-ottakSaras_stats.md
+The following table contains a comprehensive distribution of all ottakSara combinations that are found in the alar dictionary.
+
+[ottakSaras_stats.md
+](https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/sections/ottakSara_stats.md)
 
 ## Top 100 ottakSaras
 #
-ottakSaras_stats.md
+
+The below table summarizes the spread of ottakSaras in kannaDa and EK.
+The top 100/1296 account for an overwhelming 91% of all ottakSaras in
+kannaDa. The top 100/441 account for 94% of all ottakSaras.
+
+
 |     |                   |       |      |          |       |                       |                           |
 |-----|-------------------|-------|------|----------|-------|-----------------------|---------------------------|
 | Num | kannaDa ottakSara | count | Eke  | Eke(ek)  | count | "ellara kannada" / ek | Likely kannaDa / samskxta |
@@ -670,9 +681,6 @@ ottakSaras_stats.md
 | 96  | ಕ್ಲ                | 105   | kl   | kl       | 105   | ಕ್ಲ                    | samskxta                  |
 | 97  | ಣ್ಗ                | 104   | Ng   | Ng       | 104   | ಣ್ಗ                    | kannaDa                   |
 
-The below table summarizes the spread of ottakSaras in kannaDa and EK.
-The top 100/1296 account for an overwhelming 91% of all ottakSaras in
-kannaDa. The top 100/441 account for 94% of all ottakSaras.
 
 Given that ottakSaras form 6% of the total characters (12% of the
 consonants), we can see why obscure combinations and sparseness of the
