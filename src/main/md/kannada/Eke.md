@@ -696,17 +696,17 @@ for consonants.
 ## Examples
 
 ### From some commmon Indian sources
-Eke_Examples.md
+[Eke_Examples.md](https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/sections/Eke_examples.md)
 
 ### From English
-Eke_Examples_English.md
+[Eke_Examples_English.md](https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/sections/Eke_examples_English.md)
 
 ### Using Notebook LLM
-Eke_Examples_notebook.md
+[Eke_Examples_notebook.md](https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/sections/Eke_examples_notebook.md)
 
 
 ### References
-References.md
+[References.md](https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/sections/References.md)
 
 
 ## Consonant Clusters
@@ -719,8 +719,9 @@ simplifications suggested by "ellara kannada" itself. It can be applied
 to most dravidian languages without loss of precision.
 
 ### Consonant cluster combinations
+TBD
 ### Consontant Vowel combinations
-
+TBD
 
 ## English
-
+TBD
