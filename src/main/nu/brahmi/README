@@ -1,0 +1,40 @@
+brahmi contains nushell scripts to auto generate wiki tables for
+  1. consonant and vowel combinations
+  2. consonant and consonant combinations
+
+for a variety of brahmic scripts like:
+1. Asokan brahmi
+2. kannaDa
+3. devanAgari
+4. grantha
+5. tamiZ
+
+It includes extensions to generate mappings for scripts used for standardization:
+  1. ISO
+  2. HK
+  3. IPA (WIP)
+  4. IAST (WIP)
+
+Further it provides ability to provide suggested mappings for:
+  1. ellara kannaDa
+  2. Eke for ellara kannaDa.
+
+It was primarily written to auto generate mappings for the Eke proposal to
+transliterate Indic languages to English script.
+
+Each script is tabularized in a nushell module with the intention of displaying
+each scripts permutations in a table that resembles the brahmic ordering used
+commonly in Indic scripts.
+
+Install nushell as shown in : https://www.nushell.sh/
+
+It can be run using:
+nu brahmi.nu
+
+WIP:
+1. Refactor consonant and vowel mapping generation code into smaller functions
+2. Remove hardcodings for wiki format and support wiki/git md format
+3. Add more scripts as drop in - malayalam, telugu etc.
+4. Fix bug in Ellara Kannada combination generator for nga/nya.
+
+WIP
