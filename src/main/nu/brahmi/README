@@ -36,5 +36,4 @@ WIP:
 2. Remove hardcodings for wiki format and support wiki/git md format
 3. Add more scripts as drop in - malayalam, telugu etc.
 4. Fix bug in Ellara Kannada combination generator for nga/nya.
-
-WIP
+5. Make script callable with different options.
