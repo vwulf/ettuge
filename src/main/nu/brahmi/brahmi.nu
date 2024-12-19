@@ -1,3 +1,21 @@
+use table/emitters e_table_outer
+use scripts/Eke EKE_CONSONANTS
+use scripts/Eke EKE_VOWELS
+use scripts/Ekeek EKEEK_CONSONANTS
+use scripts/Ekeek EKEEK_VOWELS
+use scripts/kannada KANNADA_CONSONANTS
+use scripts/kannada KANNADA_VOWELS
+use scripts/iso ISO_CONSONANTS
+use scripts/ek EK_CONSONANTS
+use scripts/ek EK_VOWELS
+use scripts/brahmi BRAHMI_CONSONANTS
+use scripts/brahmi BRAHMI_VOWELS
+use scripts/devanAgari DEVANAGARI_CONSONANTS
+use scripts/devanAgari DEVANAGARI_VOWELS
+use scripts/grantha GRANTHA_CONSONANTS
+#use scripts/grantha GRANTHA_VOWELS
+
+
 let $positions = ([
 	"velar", 
 	"palatal",
@@ -21,31 +39,6 @@ let $scrnames = ([
 	"grantha"
 ])
 
-let nested = false 
-let span = 6
-
-let nmlst = ([
-	"t2",
-	"t3",
- 	"v2",
-	"v3"
-])
-
-use scripts/Eke EKE_CONSONANTS
-use scripts/Eke EKE_VOWELS
-use scripts/Ekeek EKEEK_CONSONANTS
-use scripts/Ekeek EKEEK_VOWELS
-use scripts/kannada KANNADA_CONSONANTS
-use scripts/kannada KANNADA_VOWELS
-use scripts/iso ISO_CONSONANTS
-use scripts/ek EK_CONSONANTS
-use scripts/ek EK_VOWELS
-use scripts/brahmi BRAHMI_CONSONANTS
-use scripts/brahmi BRAHMI_VOWELS
-use scripts/devanAgari DEVANAGARI_CONSONANTS
-use scripts/devanAgari DEVANAGARI_VOWELS
-use scripts/grantha GRANTHA_CONSONANTS
-#use scripts/grantha GRANTHA_VOWELS
 
 
 let $scrs = ([
@@ -192,87 +185,7 @@ mut t1 = []
     #print ($t1 | to md)
 })
 
-def fld [f1 outer] {
-    let f1t = ($f1 | describe)
-    let fldtype = ($f1t | split row '<' | get 0) 
-    #print "FIELD: " $f1t $fldtype
-    match ($fldtype) {
-        "list" => {lst $f1}
-        "record" => {rcd $f1 $outer}
-        "table" => {tbl $f1 $outer}
-        _ => {print -n $f1}
-    }
-}
 
-
-def rcd [r1 outer] {
-    let r1t = ($r1 | describe)
-    let x = ($r1 | default "1" span).span
-    let nm = ($r1 | default "" name).name 
-    if ($nested or
-	$outer or
- 	($nmlst |
-	 any {|e| $e == $nm})) {
-        print ""
-        print "|-"
-        print -n $"| colspan = \"($span)\" | "
-        #print -n $"| colspan = \"($x)\" | "
-    }
-    ($r1 |
-      reject -i span |
-      reject -i name |
-      values |
-      each {|field|
-        print -n " || "
-        fld $field false
-      })
-    if ($nested or
-	$outer or
-        ($nmlst |
-          any {|e| $e == $nm})) {
-        print ""
-    }
-}
-
-def lst [l1] {
-    let l1t = $l1 | describe
-    if ($nested) {
-        print ""
-        print "|-"
-        print -n "| "
-    }
-    ($l1 |
-      each {|field|
-        fld $field false
-        print -n " || "
-      })
-    if ($nested) {
-        print ""
-    }
-}
-
-def tbl [t1 outer] {
-    let t1t = $t1 | describe
-    if ($nested or $outer) {
-        print ""
-        print "|-"
-        print -n "| "
-    }
-    $t1 | each {|row|
-        if ($outer and not $nested) {
-            print ""
-            print "|-"
-            print -n "| "
-        }
-        fld $row $outer
-        if ($nested or $outer) {
-            print ""
-        }
-    }
-    if ($nested or $outer) {
-        print ""
-    }
-}
 
 let scrnamesv = (["Eke",
 # "ISO",
@@ -400,20 +313,12 @@ if ($corv == "c") {
     '''
     Consonant cluster tables
     '''
-    let outer = true
     print "== Consonant Clusters / ottakSaragaLu =="
-    print "{| class=\"wikitable Unicode\" style=\"text-align:center; font-size:100%;\""
-    tbl $t1 $outer 
-    print "|}"
+    e_table_outer $t1
 } else {
     '''
     Consonant vowel combination tables
     '''
-    let outer = true
     print "== Consonant Vowel combinations / akSaragaLu =="
-    print "{| class=\"wikitable Unicode\" style=\"text-align:center; font-size:100%;\""
-    print "|-"
-    print -n "| "
-    tbl $v1 $outer 
-    print "|}"
+    e_table_outer $v1
 }
