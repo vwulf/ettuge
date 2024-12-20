@@ -8,6 +8,24 @@ const e_name_list = ([
 	"v3"
 ])
 
+def e_rec_beg [colspan x] {
+    print ""
+    print "|-"
+    print -n $"| colspan = \"($span)\" | "
+    #print -n $"| colspan = \"($x)\" | "
+}
+
+def e_rec_bef_field [] {
+    print -n " || "
+}
+
+def e_rec_aft_field [] {
+}
+
+def e_rec_end [] {
+    print ""
+}
+
 def e_record [r1 outer] {
     let r1t = ($r1 | describe)
     let x = ($r1 | default "1" span).span
@@ -16,24 +34,22 @@ def e_record [r1 outer] {
 	$outer or
  	($e_name_list |
 	 any {|e| $e == $nm})) {
-        print ""
-        print "|-"
-        print -n $"| colspan = \"($span)\" | "
-        #print -n $"| colspan = \"($x)\" | "
+        e_rec_beg $span $x
     }
     ($r1 |
       reject -i span |
       reject -i name |
       values |
       each {|field|
-        print -n " || "
+        e_rec_bef_field
         e_field $field false
+        e_rec_aft_field
       })
     if ($nested or
 	$outer or
         ($e_name_list |
           any {|e| $e == $nm})) {
-        print ""
+        e_rec_end
     }
 }
 
