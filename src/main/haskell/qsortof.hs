@@ -1,16 +1,19 @@
 {-# LANGUAGE ScopedTypeVariables #-}
 
 import Control.Monad
+import Data.Monoid
 import Data.Typeable
 
 qsort :: (Ord a) => [a] -> [a]
 qsort [] = []
-qsort ns = (qsort s) ++ m ++ (qsort l) where
+qsort ns = qsort s ++ m ++ qsort l where
   x = head ns
+  empty = mempty :: [a]
+  emptysml = (empty, empty, empty)
   (s, m, l) = foldl (\(s, m, l) e ->
                   if e < x then (e:s, m, l)
-                  else if e == x then (s, e:m, l) 
-                  else (s, m, e:l)) ([],[],[]) ns
+                  else if e == x then (s, e:m, l)
+                  else (s, m, e:l)) emptysml ns
 
 main = do
   putStrLn $ "Enter List of integers in [p,q,r,] format"
@@ -18,4 +21,4 @@ main = do
   forM_ (lines inputs) $ \aline -> do
     let input = aline
     let y :: [Int] = read input
-    putStrLn $ "Sort of " ++ input ++ " is " ++ show(qsort y)
+    putStrLn $ "Sort of " ++ input ++ " is " ++ show (qsort y)
