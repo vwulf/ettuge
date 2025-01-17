@@ -165,10 +165,10 @@ for the full sort. This is interesting indeed.
 Below, you can read $ as ( with closing bracket ) at end of the line. Just more readable than ().
 
 ```
-ghci> take 3 $ qsort $ unless 10 (<) 0 (-) 1 id
+ghci> take 3 $ qsort $ unless 1000000 (<) 0 (-) 1 id
 [1,2,3]
 still works at reasonable pace compared to full sort
-ghci> qsort $ unless 10 (<) 0 (-) 1 id
+ghci> qsort $ unless 1000000 (<) 0 (-) 1 id
 which takes far longer.
 ```
 
