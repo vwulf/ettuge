@@ -1,3 +1,6 @@
+## unfolding min k lazily
+
+### Problem
 Solving min-K or max-k is an interesting programming problem by itself: https://leetcode.com/problems/kth-largest-element-in-an-array/description/
 
 For a list of size n, where the minimum k elements need to be obtained: 
@@ -9,14 +12,17 @@ It can be improved to n log k using one of the following methods:
 quick sort sorts in some m steps by dividing the list into a lesser and larger sublist around a pivot element (which can be the first element in the sub list if there's no random access).
 For finding the k minimum numbers we don't need a total sort. If the smallest sublist that contains the k elements are sorted, we don't really need to sort the rest.
 
+### Motivation
 This write-up started on a 1-liner in "Real World Haskell" that "take" composed with "sort" is idiomatic in haskell unlike strict languages.
 
+### History
 I played around a qsort that I had written earlier and cleaned it up to use a fold and went down a rabbit hole of foldl v/s foldl' v/s foldr.
 https://github.com/vwulf/ettuge/blob/master/src/main/haskell/qsortof.hs
 
 Earlier I had done it using list comprehension. s, m, l are lists that represent less, equal and more than the pivot element - which is
 nominally picked as the head.
 
+```
 qsort :: (Ord a) => [a] -> [a]
 qsort [] = []
 qsort ns = (qsort s) ++ m ++ (qsort l) where
@@ -24,7 +30,7 @@ qsort ns = (qsort s) ++ m ++ (qsort l) where
   s = [n | n <- ns, n < x]
   l = [n | n <- ns, n > x]
   m = [n | n <- ns, n == x]
-
+```
 
 The cool part is that qsort can be done so simply and elegantly with some differences:
 1. This is not in-place unlike the classic imperative one. It might negate the reason why quick sort is preferred in the imperative version over other sorts
@@ -36,7 +42,7 @@ Rewriting to tail recursive or switch to trampolining to put the intermediates o
 Let's say I try to address just Point 3. I tried to reduce it to 2 passes as is before realizing that recursive steps are needed only for s and l.
 1 pass would seem sufficient with a loop, or a slightly contorted comprehension. I decided to use fold instead.
 
-
+```
 qsort :: (Ord a) => [a] -> [a]
 qsort [] = []
 qsort elems = qsort lt ++ eq ++ qsort gt where
@@ -50,8 +56,9 @@ qsort elems = qsort lt ++ eq ++ qsort gt where
                   else
                     (lt, eq, elem:gt)
                   ) emptysml elems
+```
 
-Notes on Fold
+### Notes on Fold
 
 See https://github.com/vwulf/ettuge/blob/master/src/main/md/haskell/%E0%B2%95%E0%B2%B3%E0%B3%8D%E0%B2%B3.md discussion on folds and recursion schemes for more details.
 
@@ -61,32 +68,38 @@ In short, use foldr in general in Haskell. foldl' in special cases. foldl never.
 In scala, use foldl most of the time unless you want to rewrite in imperative loop style for performance and remember to add the @tailrecursive tag to have the compiler check that it is indeed tail recursive. 
 foldr - almost never - unless you are dealing with streams or infinite lists. More on that as I dig more in to comonads.
 
-Notes on Unfold
+### Notes on Unfold
 
 Basically "unfold" takes a terminating condition and can keep generating a recursive structure till that condition is met. It is an anamporphism. It is the dual to "fold" which can take a recursive structure and reduce it to a simple or complex value. The datastructure generated can be infinite if there is no terminating condition for the generating function.
 
 List - like many other structures provides an unfoldr.
 
+```
 unfoldr :: (b -> Maybe (a, b)) -> b -> [a]
+```
 
 If Nothing is returned, the list generation terminates. Otherwise it recursively adds whatever value of type 'a' is returned by the function i.e. 'a' in Maybe(a, b).
 
 The convention of using 'b' for this type and 'a' for the returned type is also the reverse of what you would see in a fold.
 
+### unless and until
 A short wrapper around unfold (generating functions) helped me do some interesting things. Here it seemed interesting that classic programming language control path-like things like "until" (called "unless" to avoid clashing with the standard library) can be created.
 
 Here the parameters for "unless" are pun intended.
 So that you can read the subsequent calls in the same style.
 
+```
 unless counter reaches end step init f =
   unfoldr (tillcount reaches end step init f) counter where
   tillcount reaches end step init f counter =
     if counter `reaches` end
     then Nothing
     else Just(f counter, counter `step` init)
+```
 
 So that you can use it like:
 
+```
 ghci> unless 0 (==) 10 (+) 1 id
 [0,1,2,3,4,5,6,7,8,9]
 -- "id" does nothing, i.e a -> a
@@ -95,9 +108,11 @@ ghci> unless 0 (==) 10 (+) 1 id
 ghci> unless 0 (==) 10 (+) 1 (*2)
 [0,2,4,6,8,10,12,14,16,18]
 -- unless 0 equals 10 add 1 until we get 10, multiply the result by 2
+```
 
 Let's see the type signatures a bit
 
+```
 unless :: (Ord b) =>       -- Precondition: Input type b must be ordinal
       b ->                 -- counter, LHS of Comparison,    10
       (b -> b -> Bool) ->  -- reaches, Comparison operator, (==)
@@ -118,22 +133,30 @@ tillcount ::               -- A lamda func to be supplied to unfoldr
                            -- and returns Maybe (a,b)
  
 unfoldr :: (b -> Maybe (a, b)) -> b -> [a]
+```
 
 Great for generating test cases - declaratively.
+
+```
 ghci> unless 10 (<) 0 (-) 1 id 
 [10,9,8,7,6,5,4,3,2,1,0]
 ghci> unless 10 (>=) 0 (-) 1 (*2)
 []
 ghci> unless 10 (<) 0 (-) 1 (*2)
 [20,18,16,14,12,10,8,6,4,2,0]
+```
 
 \ in haskell is shorthand for λ as in λ functions. Just replace the parameter in the function body.
 Here, I am ignoring init parameter of step, since sqrt takes only 1 input.
+
+```
 ghci> unless (10.0^^20) (<) (sqrtFloat 2.0) (\x _ -> sqrtFloat x) 1 id
 [1.0e20,1.0e10,100000.0,316.22775,17.782793,4.2169647,2.053525,1.4330126]
+```
 
 This can be cleaned up to have more specific function signatures where id, step are skipped and 1 param function is taken. However the λ helps shoehorn it for now.
 
+### Continuing
 Coming back to the original problem, qsort is not tail recursive and lazily evaluated, it does give some interesting side effects (punintended).
 
 When this function is composed with another one that takes a subset like "take 3", the funnction returns when the 3 least elements are known instead of waiting
@@ -141,15 +164,17 @@ for the full sort. This is interesting indeed.
 
 Below, you can read $ as ( with closing bracket ) at end of the line. Just more readable than ().
 
+```
 ghci> take 3 $ qsort $ unless 10 (<) 0 (-) 1 id
 [1,2,3]
 still works at reasonable pace compared to full sort
 ghci> qsort $ unless 10 (<) 0 (-) 1 id
 which takes far longer.
+```
 
 This means "take 3" works on the partially sorted values due to laziness - unlike strict languages which would have fully sorted and then taken the first few values.
 
-Not extending to Infinite Lists:
+### but not too much or Not extending to Infinite Lists:
 
 I thought this interesting property can be extended to infinite lists but algorithmically it can't since sort ends up looking at every element.
 If I restrict the problem to min k only:
@@ -157,31 +182,32 @@ With integers and reals that's not guaranteed looking at the types. With natural
 
 E.g. An arbitrary list of natural numbers with no repeats, with the 0, 1 and the prime numbers in ascending order - [0, 1, 2, 3, 5, 4, 7, 6, ...]. However this guarantee needs to be encoded in the type before a min K can be made to work on infinite lists. Otherwise, the program won't terminate in the general case. Since this seems very restrictive, I'll not go in the infinite list case any more other than noting that when you deal with streams do not peek too far into it.
 
-Summary:
+### Summary
 The naive approach being idiomatic in haskell was still surprising to me even though I knew haskell was lazy. In a sense laziness in calculating the sort is buying the ability to compose/chain it with take and aborting when the list is partially sorted enough.
 
-References:
-https://stackoverflow.com/questions/2394684/in-haskell-how-can-you-sort-a-list-of-infinite-lists-of-strings#2395508
-https://en.wikipedia.org/wiki/Tail_call
-https://www.scala-exercises.org/scala_tutorial/tail_recursion
-https://stackoverflow.com/questions/5696179/use-of-recursion-in-scala-when-run-in-the-jvm
-https://stackoverflow.com/questions/4785502/why-wont-the-scala-compiler-apply-tail-call-optimization-unless-a-method-is-fin
-https://discord.com/channels/632150470000902164/632150470000902166/1175837264195113052
-https://discord.com/channels/632150470000902164/632150470000902166/1271116087492087942
-https://www.scala-lang.org/api/2.13.4/scala/util/control/TailCalls$.html
-https://eed3si9n.com/herding-cats/stackless-scala-with-free-monads.html
-https://stackoverflow.com/questions/76182328/how-to-do-tail-call-optimisation-in-scala3
-https://www.reddit.com/r/haskell/comments/f97qok/enforcing_tail_recursion_in_haskell/
-http://debasishg.blogspot.com/2009/01/to-tail-recurse-or-not-part-2-follow-up.html
-https://stackoverflow.com/questions/8219054/my-scala-code-does-not-get-tcoed-though-it-passes-tailrec
-https://paul.bone.id.au/blog/2017/03/16/tail-recursion/
-https://free.cofree.io/2017/11/13/recursion/
-https://stackoverflow.com/questions/28652452/what-is-the-correct-definition-of-unfold-for-an-untagged-tree
-https://stackoverflow.com/questions/46716122/haskell-length-runtime-o1-or-on
-https://ris.utwente.nl/ws/portalfiles/portal/6142049/meijer91functional.pdf
-https://stackoverflow.com/questions/6119225/overloading-function-signatures-haskell
-https://medium.com/p/1b7a709fb71f#efe2
-https://en.m.wikibooks.org/wiki/Haskell/Graph_reduction
-https://hmac.dev/posts/2019-03-09-graph-reduction.html
-https://www.microsoft.com/en-us/research/wp-content/uploads/1992/01/student.pdf
+### References
+1. https://learnyouahaskell.com/
+1. https://stackoverflow.com/questions/2394684/in-haskell-how-can-you-sort-a-list-of-infinite-lists-of-strings#2395508
+1. https://en.wikipedia.org/wiki/Tail_call
+1. https://www.scala-exercises.org/scala_tutorial/tail_recursion
+1. https://stackoverflow.com/questions/5696179/use-of-recursion-in-scala-when-run-in-the-jvm
+1. https://stackoverflow.com/questions/4785502/why-wont-the-scala-compiler-apply-tail-call-optimization-unless-a-method-is-fin
+1. https://discord.com/channels/632150470000902164/632150470000902166/1175837264195113052
+1. https://discord.com/channels/632150470000902164/632150470000902166/1271116087492087942
+1. https://www.scala-lang.org/api/2.13.4/scala/util/control/TailCalls$.html
+1. https://eed3si9n.com/herding-cats/stackless-scala-with-free-monads.html
+1. https://stackoverflow.com/questions/76182328/how-to-do-tail-call-optimisation-in-scala3
+1. https://www.reddit.com/r/haskell/comments/f97qok/enforcing_tail_recursion_in_haskell/
+1. http://debasishg.blogspot.com/2009/01/to-tail-recurse-or-not-part-2-follow-up.html
+1. https://stackoverflow.com/questions/8219054/my-scala-code-does-not-get-tcoed-though-it-passes-tailrec
+1. https://paul.bone.id.au/blog/2017/03/16/tail-recursion/
+1. https://free.cofree.io/2017/11/13/recursion/
+1. https://stackoverflow.com/questions/28652452/what-is-the-correct-definition-of-unfold-for-an-untagged-tree
+1. https://stackoverflow.com/questions/46716122/haskell-length-runtime-o1-or-on
+1. https://ris.utwente.nl/ws/portalfiles/portal/6142049/meijer91functional.pdf
+1. https://stackoverflow.com/questions/6119225/overloading-function-signatures-haskell
+1. https://medium.com/p/1b7a709fb71f#efe2
+1. https://en.m.wikibooks.org/wiki/Haskell/Graph_reduction
+1. https://hmac.dev/posts/2019-03-09-graph-reduction.html
+1. https://www.microsoft.com/en-us/research/wp-content/uploads/1992/01/student.pdf
 https://www.microsoft.com/en-us/research/wp-content/uploads/1987/01/slpj-book-1987-small.pdf
