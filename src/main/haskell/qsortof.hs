@@ -20,27 +20,27 @@ qsort elems = qsort lt ++ eq ++ qsort gt where
                     (lt, eq, elem:gt)
                   ) emptysml elems
 
-tillcount :: (Ord a) => (a -> a -> Bool) ->
-                    a ->
-                    (a -> a -> a) ->
-                    a ->
-                    (a -> b) ->
-                    a ->
-                    Maybe (b, a)
-tillcount reaches end step init f counter =
-  if counter `reaches` end
-  then Nothing
-  else Just(f counter, counter `step` init)
-
-unless :: (Ord a) => a ->
-                     (a -> a -> Bool) ->
-                     a ->
-                     (a -> a -> a) ->
-                     a ->
-                     (a -> b) ->
-                     [b]
+unless :: (Ord b) => b ->
+                     (b -> b -> Bool) ->
+                     b ->
+                     (b -> b -> b) ->
+                     b ->
+                     (b -> a) ->
+                     [a]
 unless counter reaches end step init f =
-  unfoldr (tillcount reaches end step init f) counter
+  unfoldr (tillcount reaches end step init f) counter where
+  tillcount :: (b -> b -> Bool) ->
+               b ->
+               (b -> b -> b) ->
+               b ->
+               (b -> a) ->
+               b ->
+               Maybe (a, b)
+  tillcount reaches end step init f counter =
+    if counter `reaches` end
+    then Nothing
+    else Just(f counter, counter `step` init)
+    
 
 main :: IO ()
 main = do
