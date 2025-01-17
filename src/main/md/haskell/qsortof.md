@@ -8,7 +8,7 @@ The naive approach is to sort it first using an efficient n log n algorithm (say
 
 It can be improved to n log k using one of the following methods:
 1. Use a heap of size k. Scan the n elements and add each element to the heap of size k. If the heap is full, and a new element needs to be inserted,  toss the largest element in favor of the new smaller element. Each insertion is order log k and there are n such insertions to consider.
-2. Use a variation of quick sort.
+1. Use a variation of quick sort.
 quick sort sorts in some m steps by dividing the list into a lesser and larger sublist around a pivot element (which can be the first element in the sub list if there's no random access).
 For finding the k minimum numbers we don't need a total sort. If the smallest sublist that contains the k elements are sorted, we don't really need to sort the rest.
 
@@ -35,8 +35,8 @@ qsort ns = (qsort s) ++ m ++ (qsort l) where
 The cool part is that qsort can be done so simply and elegantly with some differences:
 1. This is not in-place unlike the classic imperative one. It might negate the reason why quick sort is preferred in the imperative version over other sorts
 because it is in-place.
-2. It is not tail-recursive and won't work well for larger numbers on eagerly evaluated languages. This is due to work being done after the recursive step. In eagerly evaluated languages this won't fly.
-3. There are 3 passes to get s,m and l which seems excessive.
+1. It is not tail-recursive and won't work well for larger numbers on eagerly evaluated languages. This is due to work being done after the recursive step. In eagerly evaluated languages this won't fly.
+1. There are 3 passes to get s,m and l which seems excessive.
 Rewriting to tail recursive or switch to trampolining to put the intermediates on the heap rather than the stack are rabbit holes. See the rabbit holes section in the end. All I'll note is that in Haskell, it's not as critical to make it tail recursive. In scala, you pretty much have to. Addressing Point 2 gets into classic writeups on tail recursion. Addressing point 1 gets into classic imperative quick sort implementations where there may be nothing new.
 
 Let's say I try to address just Point 3. I tried to reduce it to 2 passes as is before realizing that recursive steps are needed only for s and l.
@@ -122,7 +122,7 @@ unless :: (Ord b) =>       -- Precondition: Input type b must be ordinal
       (b -> a) ->          -- f(o/p) prior to ins in [a], id, (*2) etc
       [a]                  -- returned list of type a
 
-tillcount ::               -- A lamda func to be supplied to unfoldr 
+tillcount ::               -- A lambda func to be supplied to unfoldr 
       (b -> b -> Bool) ->  -- reaches
       b ->                 -- end
       (b -> b -> b) ->     -- step 
@@ -159,7 +159,7 @@ This can be cleaned up to have more specific function signatures where id, step 
 ### Continuing
 Coming back to the original problem, qsort is not tail recursive and lazily evaluated, it does give some interesting side effects (punintended).
 
-When this function is composed with another one that takes a subset like "take 3", the funnction returns when the 3 least elements are known instead of waiting
+When this function is composed with another one that takes a subset like "take 3", the function returns when the 3 least elements are known instead of waiting
 for the full sort. This is interesting indeed.
 
 Below, you can read $ as ( with closing bracket ) at end of the line. Just more readable than ().
