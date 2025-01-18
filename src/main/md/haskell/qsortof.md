@@ -1,16 +1,27 @@
-## unfolding min k lazily
+## unfolding min k elements lazily
 
 ### Problem
-Solving min-K or max-k is an interesting programming problem by itself: https://leetcode.com/problems/kth-largest-element-in-an-array/description/
+
+Finding the min k or max k elements:
+https://stackoverflow.com/questions/5380568/algorithm-to-find-k-smallest-numbers-in-array-of-n-items
+in contrast to finding the min kth or max th element:
+https://leetcode.com/problems/kth-largest-element-in-an-array/description/
+are slightly different problems.
+
+We'll focus on the former.
 
 For a list of size n, where the minimum k elements need to be obtained: 
-The naive approach is to sort it first using an efficient n log n algorithm (say quick sort) and then picking the first k elements. So it's O(n log n + k) => O(n log n).
+The naive approach is to sort it first using an efficient n log n algorithm (say quick sort) and then picking the first k elements. So it's O(k + n log n) => O(n log n).
 
 It can be improved to n log k using one of the following methods:
 1. Use a heap of size k. Scan the n elements and add each element to the heap of size k. If the heap is full, and a new element needs to be inserted,  toss the largest element in favor of the new smaller element. Each insertion is order log k and there are n such insertions to consider.
 1. Use a variation of quick sort.
 quick sort sorts in some m steps by dividing the list into a lesser and larger sublist around a pivot element (which can be the first element in the sub list if there's no random access).
 For finding the k minimum numbers we don't need a total sort. If the smallest sublist that contains the k elements are sorted, we don't really need to sort the rest.
+
+Variation 2 above can be retrofitted to provide a linear time solution, if you are interested only in the min kth element, instead of the minimum k elements but that's a different topic.
+
+This is mostly about an exploration of folds and unfolds in the context of the stated problem.
 
 ### Motivation
 This write-up started on a 1-liner in "Real World Haskell" that "take" composed with "sort" is idiomatic in haskell unlike strict languages.
