@@ -19,7 +19,7 @@ It can be improved to n log k using one of the following methods:
 quick sort sorts in some m steps by dividing the list into a lesser and larger sublist around a pivot element (which can be the first element in the sub list if there's no random access).
 For finding the k minimum numbers we don't need a total sort. If the smallest sublist that contains the k elements are sorted, we don't really need to sort the rest.
 
-Variation 2 above can be retrofitted to provide a linear time solution, if you are interested only in the min kth element, instead of the minimum k elements but that's a different topic.
+Variation 2 above can be retrofitted to provide a linear time solution, if you are interested only in the min kth element using QuickSelect. A subsequent filtering of all elements <=k can be done to achieve it in linear time but that's a different topic.
 
 This is mostly about an exploration of folds and unfolds in the context of the stated problem.
 
