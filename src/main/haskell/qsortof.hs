@@ -5,13 +5,16 @@ import Data.Monoid ()
 import Data.Typeable ()
 import Data.List ( foldl', unfoldr )
 import GHC.Float (sqrtDouble, sqrtFloat)
+import qualified Data.Bifunctor (first, second)
+import Data.Bifunctor (Bifunctor(first), Bifunctor(second), Bifunctor (bimap))
+import Debug.Trace (traceShow)
 
 qsort :: (Ord a) => [a] -> [a]
 qsort [] = []
 qsort elems = qsort lt ++ eq ++ qsort gt where
   pivot = head elems
   emptysml = (mempty, mempty, mempty)
-  (lt, eq, gt) = foldl' (\(lt, eq, gt) elem ->
+  (lt, eq, gt) = foldr (\ elem (lt, eq, gt) ->
                   if elem < pivot
                     then (elem:lt, eq, gt)
                   else if elem == pivot
@@ -39,8 +42,58 @@ unless counter reaches end step init f =
   tillcount reaches end step init f counter =
     if counter `reaches` end
     then Nothing
-    else Just(f counter, counter `step` init)
-    
+    else Just (f counter, counter `step` init)
+
+qsel :: (Show a, Ord a, Show b, Ord b, Num b) => [a] -> b -> [a]
+qsel elems k = qsel' elems k 0 where
+  qsel' :: (Show a, Ord a, Show b, Ord b, Num b) => [a] -> b -> b -> [a]
+  qsel' [] k off = []
+  qsel' elems k off = 
+    --traceShow("pivot: ", pivot, "k: ", k, "off: ", off, "ltc: ", ltc, "eqc: ", eqc, "gtc: ", gtc)
+    (if k < ltc then
+       qsel' ltl k off
+    else ltl) ++
+     eql ++
+     (if k >= ltc + eqc then
+        qsel' gtl k (off + ltc + eqc)
+     else []) where
+    pivot = head elems
+    emptysml = ((mempty, 0), (mempty, 0), (mempty, 0))
+    filt x po =
+       if k >= off + po then x else ([], 0)
+    (lt, eq, gt) =
+       foldr (\elem (lt, eq, gt) ->
+          let (ltl, eql, gtl) = (fst lt, fst eq, fst gt)
+              (ltc, eqc, gtc) = (snd lt, snd eq, snd gt) in
+          if elem < pivot
+            then
+              let ltc' = ltc + 1
+                  eqpo = ltc'
+                  gtpo = ltc' + eqc
+                  in
+              (filt (elem:ltl, ltc') 0,
+               filt eq eqpo,
+               filt gt gtpo)
+          else if elem == pivot
+            then
+              let eqc' = eqc + 1
+                  eqpo = ltc
+                  gtpo = ltc + eqc' in
+              (filt lt 0,
+               filt (elem:eql, eqc') eqpo,
+               filt gt gtpo)
+          else
+            let gtc' = gtc + 1
+                eqpo = ltc
+                gtpo = ltc + eqc in
+            (filt lt 0,
+             filt eq eqpo,
+             filt (elem:gtl, gtc') gtpo)
+          ) emptysml elems
+    (ltl, eql, gtl) = (fst lt, fst eq, fst gt)
+    (ltc, eqc, gtc) = (snd lt, snd eq, snd gt)
+
+
 
 main :: IO ()
 main = do
