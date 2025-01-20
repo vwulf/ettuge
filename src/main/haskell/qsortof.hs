@@ -1,6 +1,6 @@
 {-# LANGUAGE ScopedTypeVariables #-}
 
-import Control.Monad ( forM_ )
+import Control.Monad ( forM_, foldM )
 import Data.Monoid ()
 import Data.Typeable ()
 import Data.List ( foldl', unfoldr )
@@ -14,7 +14,7 @@ qsort [] = []
 qsort elems = qsort lt ++ eq ++ qsort gt where
   pivot = head elems
   emptysml = (mempty, mempty, mempty)
-  (lt, eq, gt) = foldr (\ elem (lt, eq, gt) ->
+  (lt, eq, gt) = foldl' (\ (lt, eq, gt) elem ->
                   if elem < pivot
                     then (elem:lt, eq, gt)
                   else if elem == pivot
@@ -44,18 +44,18 @@ unless counter reaches end step init f =
     then Nothing
     else Just (f counter, counter `step` init)
 
-qsel :: (Show a, Ord a, Show b, Ord b, Num b) => [a] -> b -> [a]
-qsel elems k = qsel' elems k 0 where
-  qsel' :: (Show a, Ord a, Show b, Ord b, Num b) => [a] -> b -> b -> [a]
-  qsel' [] k off = []
-  qsel' elems k off = 
+qsort1 :: (Show a, Ord a, Show b, Ord b, Num b) => [a] -> b -> [a]
+qsort1 elems k = qsort1' elems k 0 where
+  qsort1' :: (Show a, Ord a, Show b, Ord b, Num b) => [a] -> b -> b -> [a]
+  qsort1' [] k off = []
+  qsort1' elems k off =
     --traceShow("pivot: ", pivot, "k: ", k, "off: ", off, "ltc: ", ltc, "eqc: ", eqc, "gtc: ", gtc)
     (if k < ltc then
-       qsel' ltl k off
+       qsort1' ltl k off
     else ltl) ++
      eql ++
      (if k >= ltc + eqc then
-        qsel' gtl k (off + ltc + eqc)
+        qsort1' gtl k (off + ltc + eqc)
      else []) where
     pivot = head elems
     emptysml = ((mempty, 0), (mempty, 0), (mempty, 0))
@@ -92,6 +92,59 @@ qsel elems k = qsel' elems k 0 where
           ) emptysml elems
     (ltl, eql, gtl) = (fst lt, fst eq, fst gt)
     (ltc, eqc, gtc) = (snd lt, snd eq, snd gt)
+
+
+
+data H a b = H {
+  h_lst :: [a],
+  h_cnt :: b,
+  h_min :: Maybe b,
+  h_max :: Maybe b,
+  h_wmid :: Maybe b
+}
+
+qsel :: (Show a, Ord a, Show b, Ord b, Num b) => [a] -> b -> a
+qsel elems k = qsel' elems k 0 (head elems) where
+  qsel' :: (Show a, Ord a, Show b, Ord b, Num b) => [a] -> b -> b -> a -> a
+  qsel' (x:xs) k off pivot
+    | k < off + ltc =
+      traceShow("pivot: ", pivot, "k: ", k, "off: ", off, "ltc: ", ltc, "eqc: ", eqc, "gtc: ", gtc)
+      qsel' ltl k off pivotl
+    | k > off + ltc + eqc =
+      traceShow("pivot: ", pivot, "k: ", k, "off: ", off, "ltc: ", ltc, "eqc: ", eqc, "gtc: ", gtc)
+      qsel' gtl k (off + ltc + eqc) pivotr
+    |
+      traceShow("pivot: ", pivot, "k: ", k, "off: ", off, "ltc: ", ltc, "eqc: ", eqc, "gtc: ", gtc)
+      otherwise = pivota
+    where
+      pivota = pivot
+      emptysml = ((mempty, 0), (mempty, 0), (mempty, 0))
+      emptyH = (
+        H {h_lst = mempty, h_cnt = 0, h_min = Nothing, h_max = Nothing, h_wmid = Nothing},
+        H {h_lst = mempty, h_cnt = 0, h_min = Nothing, h_max = Nothing, h_wmid = Nothing},
+        H {h_lst = mempty, h_cnt = 0, h_min = Nothing, h_max = Nothing, h_wmid = Nothing}
+        )
+      (lt, eq, gt)
+        = foldl'
+            (\ (lt, eq, gt) elem
+               -> let
+                    (ltl, eql, gtl) = (fst lt, fst eq, fst gt)
+                    (ltc, eqc, gtc) = (snd lt, snd eq, snd gt)
+                  in
+                    if elem < pivot then
+                        ((elem : ltl, ltc + 1), eq, gt)
+                    else
+                        if elem == pivot then
+                            (lt, (elem : eql, eqc + 1), gt)
+                        else
+                            (lt, eq, (elem : gtl, gtc + 1)))
+            emptysml (x:xs) 
+      (ltl, eql, gtl) = (fst lt, fst eq, fst gt)
+      (ltc, eqc, gtc) = (snd lt, snd eq, snd gt)
+      pivotl = head ltl
+      pivotr = head gtl
+  qsel' [] k off pivot = pivot
+
 
 
 
