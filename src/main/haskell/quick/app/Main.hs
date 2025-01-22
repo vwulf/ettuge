@@ -1,9 +1,10 @@
 {-# LANGUAGE ScopedTypeVariables #-}
 module Main where
 
+import GHC.Float (sqrtDouble, sqrtFloat)
 import Control.Monad ( forM_, foldM )
 import Lib (greet)
-import Qsortof(qsort)
+import Qsortof(qsort, unless, qsel)
 
 main :: IO ()
 main = do

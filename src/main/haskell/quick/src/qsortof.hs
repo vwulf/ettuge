@@ -1,17 +1,15 @@
 {-# LANGUAGE InstanceSigs #-}
 {-# LANGUAGE FlexibleContexts #-}
-module Qsortof where
 {-# LANGUAGE ScopedTypeVariables #-}
+module Qsortof where
 import Data.Monoid ()
 import Data.Typeable ()
 import Data.List ( foldl', unfoldr )
-import GHC.Float (sqrtDouble, sqrtFloat)
 import Data.Bifunctor (Bifunctor(first), Bifunctor(second), Bifunctor (bimap))
 import Data.Biapplicative (Biapplicative (bipure), Biapplicative ((<<*>>)))
 import Debug.Trace (traceShow)
 import Data.Maybe (listToMaybe, fromMaybe)
 import Data.Bifunctor.Biff (Biff)
-import GHC.RTS.Flags (TraceFlags(traceScheduler), DebugFlags (weak))
 
 
 qsort :: (Ord a) => [a] -> [a]
@@ -222,11 +220,11 @@ calcH elem h = let
   h_sum = fmap (+ elem) (h_sum h)
 }
 
-qsel :: (Show a, Ord a, Integral a, Show b, Ord b, Num b, Integral b) =>
-  [a] -> b -> a
+qsel :: (Show a, Ord a, Integral a) =>
+  [a] -> a -> a
 qsel elems k = qsel' elems k 0 (head elems) where
-  qsel' :: (Show a, Ord a, Integral a, Show b, Ord b, Num b, Integral b) =>
-    [a] -> b -> b -> a -> a
+  qsel' :: (Show a, Ord a, Integral a) =>
+    [a] -> a -> a -> a -> a
   qsel' [] k off pivot = pivot
   qsel' (x:xs) k off pivot
     | k < off + ltc =
