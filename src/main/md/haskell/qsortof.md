@@ -28,7 +28,7 @@ This write-up started on a 1-liner in "Real World Haskell" that "take" composed 
 
 ### History
 I played around a qsort that I had written earlier and cleaned it up to use a fold and went down a rabbit hole of foldl v/s foldl' v/s foldr.
-https://github.com/vwulf/ettuge/blob/master/src/main/haskell/qsortof.hs
+[https://github.com/vwulf/ettuge/blob/master/src/main/haskell/qsortof.hs](https://github.com/vwulf/ettuge/blob/master/src/main/haskell/quick/src/qsortof.hs)
 
 Earlier I had done it using list comprehension. s, m, l are lists that represent less, equal and more than the pivot element - which is
 nominally picked as the head.
