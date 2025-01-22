@@ -103,7 +103,7 @@ data H a b = H {
   h_max :: Maybe a,
   h_wmid :: Maybe a,
   h_sum :: Maybe a
-} deriving (Show, Eq, Ord)
+} deriving (Ord, Eq, Show)
 
 instance (Ord a, Integral a, Num b, Ord b) => Semigroup (H a b) where
   (<>) :: H a b -> H a b -> H a b
@@ -142,7 +142,8 @@ instance Functor (H a) where
 
 instance Bifunctor H where
   bimap :: (a -> c) -> (b -> d) -> H a b -> H c d
-  bimap f g h = H {
+  bimap f g h =
+    H {
     h_lst = map f (h_lst h),
     h_cnt = g (h_cnt h),
     h_min = fmap f (h_min h),
@@ -217,7 +218,7 @@ calcH elem h = let
   h_min = h_min_,
   h_max = h_max_,
   h_wmid = calcWmid h_min_ h_max_ (h_wmid h) (Just elem),
-  h_sum = fmap (+ elem) (h_sum h)
+  h_sum = maybeOp (+) (Just elem) (h_sum h)
 }
 
 qsel :: (Show a, Ord a, Integral a) =>
@@ -240,8 +241,8 @@ qsel elems k = qsel' elems k 0 (head elems) where
       pivota = pivot
       emptysml = (mempty, mempty, mempty)
       (lt, eq, gt) =
-        foldl'
-          ( \(lt, eq, gt) elem ->
+        foldr
+          ( \elem (lt, eq, gt) ->
                if elem < pivot then
                  (calcH elem lt, eq, gt)
                else
