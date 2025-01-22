@@ -1,0 +1,35 @@
+name: quick
+version: 0.1.0.0
+license: MIT
+author: "vwulf"
+maintainer: "vwulf@github.com"
+github: "vwulf/ettuge/"
+extra-source-files:
+  - README.md
+
+library:
+  quick-lib:
+    source-dirs: src
+    exposed-modules:
+      - Lib
+
+executables:
+  quick-exe:
+    main: Main.hs
+    source-dirs:
+      - app
+      - src
+    other-modules:
+      - Lib
+
+tests:
+  quick-test:
+    main: Spec.hs
+    source-dirs: test
+    dependencies:
+      - quick
+      - hspec
+
+dependencies:
+  - base >= 4.7 && < 5
+  - bifunctors >= 5.6.2
