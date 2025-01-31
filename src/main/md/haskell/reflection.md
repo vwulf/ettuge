@@ -1,8 +1,12 @@
+# An interactive session to read types
+
+## Code for this session
+
 https://github.com/vwulf/ettuge/blob/master/src/main/haskell/reflection.hs
 
 provides an introduction to haskell. You could run it or alternatively ask Copilot what it would do.
 
----
+## Session
 
 I don't really believe what copilot says. How do I run this?
 
@@ -111,7 +115,8 @@ join => Monad. While currying freely, you learnt about ..
 "Just another mapping to Kleisli.."
 "Happy B'day again!"
 ```
----
+
+## Copilot explanation
 
 Copilot generates the following response:
 
@@ -306,10 +311,11 @@ join => Monad. While currying freely, you learnt about ..
 
 This output assumes that all the functions and print statements execute without errors. For the actual output, you would need to run the Haskell script in an appropriate environment.
 
----
+## Notes on implementation
 
 When asked to explain the code copilot says the following:
 
+```
 The Haskell code in reflection.hs is designed to demonstrate various Haskell types, type inference, and values through interactive prompts and explanations. Here's a breakdown of the main components:
 
     Imports: The code imports several Haskell modules such as Control.Monad, Control.Arrow, Data.Typeable, and Language.Haskell.TH.
@@ -338,8 +344,8 @@ The Haskell code in reflection.hs is designed to demonstrate various Haskell typ
 The code is educational, providing a mixture of explanations and Haskell code examples to illustrate concepts. You can view the file here.
 
 https://github.com/vwulf/ettuge/blob/master/src/main/haskell/reflection.hs
+```
 
----
 
 
 The output slightly differs from what copilot shows (which is inaccurate in parts, even though its explanations are useful).
