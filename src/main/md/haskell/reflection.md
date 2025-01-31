@@ -1,4 +1,4 @@
-# An interactive session to read types
+# Reflecting on an interactive session to read types
 
 ## Code for this session
 
