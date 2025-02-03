@@ -177,7 +177,7 @@ If it is a direct transliteration from any text, without any
 alterations, the term "Eke" is used.
 
 ## Consonants
-[sections/Eke_consants.md](https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/sections/Eke_Consonants.md)
+[sections/Eke_consonants.md](https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/sections/Eke_Consonants.md)
 
 ## Consonants of ellara kannaDa in Eke
 [sections/Eke_Consonants_Table.md](https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/sections/Eke_Consonants_Table.md)
