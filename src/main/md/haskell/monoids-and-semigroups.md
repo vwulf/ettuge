@@ -71,7 +71,10 @@ One of the fixes for this:
 cat list-of-files | xargs pandoc -o Eke.md
 ```
 
-just works since the act of joining md files is an associative operation. See [^5]
+just works since the act of joining md files is an associative operation and hence forms a semigroup.
+So doing the operation with a list of inputs vs doing it one file at a time yields the same result.
+
+See [^5] for the actual command.
 
 At the end, I have the single .md file which contains all the sections instead of having to navigate back and forth.
 To see the differences, see [^2] and [^6] on your browser and scroll down.
