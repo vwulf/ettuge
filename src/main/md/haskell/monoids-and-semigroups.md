@@ -37,7 +37,7 @@ qsort :: (Ord a) => [a] -> [a]
 
 This might still seem arcane but these are other common monoids
 1. Strings with concatenation, where "" is the 0 element.
-2. text files with concatenation, where /dev/null can be considered the 0 element.
+2. text files with concatenation, where the empty file can be considered the 0 element.
 3. Lists of anything, where the empty list is the 0 element and list concat is the operation.
 4. markdown files.
 
