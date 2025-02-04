@@ -16,7 +16,7 @@ then such a structure is called a monoiod.
 
 Semigroups are everywhere and so are monoids.
 
-1. ℕ \ {0} i.e. ℕ₁ is a semigroup under +, but not a monoid
+1. ℕ[^1] \ {0} i.e. ℕ₁ is a semigroup under +, but not a monoid
 1. ℕ with 0 i.e. ℕ₀ is a semigroup and a monoid under +
 1. The set of positive integers ℤ⁺ is a semigroup under +, but not a monoid
 1. ℤ = ℤ⁺ ⋃ {0} is a monoid and a semigroup under +
@@ -49,7 +49,7 @@ pandoc helped me convert some really intricate sections into github markdown (al
 and it was likely that I did not supply the formats correctly).
 
 The .md file in question [^2] was easier to edit and correct if it was in smaller chunks. So refactored the original
-wikimedia file into a bunch of .md file into sections [^3] and added links to the section in [^2]. However I noticed
+wikimedia file into a bunch of .md file into sections [^3] and added links to the section in [^6]. However I noticed
 that browsing these files in github was a pain - you lose context when you navigate back and forth between links.
 What was easy to write and edit was not easy to edit. So I decided to regenerate the original monolithic content
 using pandoc. I created a list of files [^4] and then supplied the list of files as input to pandoc:
@@ -71,16 +71,16 @@ One of the fixes for this:
 cat list-of-files | xargs pandoc -o Eke.md
 ```
 
-just works since the act of joining md files is an associative operation.
+just works since the act of joining md files is an associative operation. See [^5]
 
 At the end, I have the single .md file which contains all the sections instead of having to navigate back and forth.
 To see the differences, see [^2] and [^6] on your browser and scroll down.
 
 References:
 
-1. https://en.wikipedia.org/wiki/Natural_number
-1. https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/Eke.md
-1. https://github.com/vwulf/ettuge/tree/master/src/main/md/kannada/sections
-1. https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/sections/list_of_files.txt
-1. https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/sections/pandoc_cmd.nu
-1. https://github.com/vwulf/ettuge/blob/e2d17c832b90c29e076d3a56fc0626a82497b286/src/main/md/kannada/Eke.md   
+[^1]: https://en.wikipedia.org/wiki/Natural_number
+[^2]: https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/Eke.md
+[^3]: https://github.com/vwulf/ettuge/tree/master/src/main/md/kannada/sections
+[^4]: https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/sections/list_of_files.txt
+[^5]: https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/sections/pandoc_cmd.nu
+[^6]: https://github.com/vwulf/ettuge/blob/e2d17c832b90c29e076d3a56fc0626a82497b286/src/main/md/kannada/Eke.md   
