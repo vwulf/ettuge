@@ -30,6 +30,7 @@ done using typeclasses and constraints supplied in the type parameter.
 
 // Scala
 def combine[A: Monoid]
+
 def sort[A: Ordering]
 
 // haskell
