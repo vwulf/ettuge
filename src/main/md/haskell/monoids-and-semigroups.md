@@ -73,6 +73,8 @@ cat list-of-files | xargs pandoc -o Eke.md
 
 just works since the act of joining md files is an associative operation.
 
+At the end, I have the single .md file which contains all the sections instead of having to navigate back and forth.
+
 References:
 
 1. https://en.wikipedia.org/wiki/Natural_number
