@@ -29,11 +29,13 @@ The monoid and semigroup abstractions are actually useful to provide as a constr
 done using typeclasses and constraints supplied in the type parameter.
 
 // Scala
+
 def combine[A: Monoid]
 
 def sort[A: Ordering]
 
 // haskell
+
 qsort :: (Ord a) => [a] -> [a]
 
 This might still seem arcane but these are other common monoids
