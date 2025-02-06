@@ -199,18 +199,10 @@ The naive approach being idiomatic in haskell was still surprising to me even th
 ### References
 1. https://learnyouahaskell.com/
 1. https://stackoverflow.com/questions/2394684/in-haskell-how-can-you-sort-a-list-of-infinite-lists-of-strings#2395508
-1. https://en.wikipedia.org/wiki/Tail_call
-1. https://www.scala-exercises.org/scala_tutorial/tail_recursion
-1. https://stackoverflow.com/questions/5696179/use-of-recursion-in-scala-when-run-in-the-jvm
-1. https://stackoverflow.com/questions/4785502/why-wont-the-scala-compiler-apply-tail-call-optimization-unless-a-method-is-fin
-1. https://discord.com/channels/632150470000902164/632150470000902166/1175837264195113052
-1. https://discord.com/channels/632150470000902164/632150470000902166/1271116087492087942
-1. https://www.scala-lang.org/api/2.13.4/scala/util/control/TailCalls$.html
 1. https://eed3si9n.com/herding-cats/stackless-scala-with-free-monads.html
 1. https://stackoverflow.com/questions/76182328/how-to-do-tail-call-optimisation-in-scala3
 1. https://www.reddit.com/r/haskell/comments/f97qok/enforcing_tail_recursion_in_haskell/
 1. http://debasishg.blogspot.com/2009/01/to-tail-recurse-or-not-part-2-follow-up.html
-1. https://stackoverflow.com/questions/8219054/my-scala-code-does-not-get-tcoed-though-it-passes-tailrec
 1. https://paul.bone.id.au/blog/2017/03/16/tail-recursion/
 1. https://free.cofree.io/2017/11/13/recursion/
 1. https://stackoverflow.com/questions/28652452/what-is-the-correct-definition-of-unfold-for-an-untagged-tree
@@ -221,4 +213,4 @@ The naive approach being idiomatic in haskell was still surprising to me even th
 1. https://en.m.wikibooks.org/wiki/Haskell/Graph_reduction
 1. https://hmac.dev/posts/2019-03-09-graph-reduction.html
 1. https://www.microsoft.com/en-us/research/wp-content/uploads/1992/01/student.pdf
-https://www.microsoft.com/en-us/research/wp-content/uploads/1987/01/slpj-book-1987-small.pdf
+1.  https://www.microsoft.com/en-us/research/wp-content/uploads/1987/01/slpj-book-1987-small.pdf
