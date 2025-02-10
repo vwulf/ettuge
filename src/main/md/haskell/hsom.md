@@ -10,6 +10,16 @@ categorical concepts. However nothing advanced is needed to play with music.
 I used it to write a simple song like "Twinkle Twinkle Little Star" [^1] [^5] from some sheet music that's
 generally available.
 
+```
+twinkle1 =
+  line (map pcToQN [C, C, G, G, A, A]) :+: g 4 hn :+:
+  line (map pcToQN [F, F, E, E, D, D]) :+: c 4 hn :+:
+  line (map pcToQN [G, G, F, F, E, E]) :+: d 4 hn :+:
+  line (map pcToQN [G, G, F, F, E, E]) :+: d 4 hn :+:
+  line (map pcToQN [C, C, G, G, A, A]) :+: g 4 hn :+:
+  line (map pcToQN [F, F, E, E, D, D]) :+: c 4 hn 
+```
+
 ## Rangapura Vihara by Agam
 However I enjoy carnatic music as well as certain kinds of fusion with jazz, blues and
 rock [^7]. In the time of playing around with Euterpea - the most complicated of which was to get an installation
