@@ -1,0 +1,35 @@
+# From Euterpea to Rangapura Vihara
+
+A while back I ran in to [^6] and thought this would be an interesting way to learn music.
+The sections on using basic functional programming and a literate DSL to represent sheet notation
+appealed to me. More advanced parts of the book connects the structure of music to some intricate
+categorical concepts. However nothing advanced is needed to play with music.
+
+I used it to write a simple song like "Twinkle Twinkle Little Star" [^1] [^5] from some sheet music that's
+generally available. However I enjoy carnatic music as well as certain kinds of fusion with jazz, blues and
+rock [^7]. In the time of playing around with Euterpea - the most complicated of which was to get an installation
+working, I was introduced to a fusion version of "Rangapura Vihara" [^8] which held my attention for a while.
+Although this version uses 2 different songs from 2 different sources. "Rangapura Vihara" [^2] was written by Muthuswamy Dikshitar [^2].
+He was known to compose exclusively in Sanskrit and have at least 1 self-reference to the underlying raga in his compositions.
+The underlying raga being Brindāvana Sārangā is referenced in the song itself.
+The puzzling beginning portion of the song (which is not in Sanskrit) sung by Agam is from a different composer [^12] [^13]
+with a rich history as well.
+
+The idea of generating the basic song from notes seemed interesting. Carnatic notation is not as universal as sheet notation.
+So I stuck to the original. Digging into [^3], [^4] without any musical training and trying to convert them to sheet notation wasn't easy.
+In fact, it went nowhere and sounded nothing like the original.
+
+[^1]: https://github.com/vwulf/ettuge/blob/master/src/main/haskell/euterpea/twinkle.hs
+[^2]: https://en.wikipedia.org/wiki/Rangapura_Vihara
+[^3]: http://www.shivkumar.org/music/basics/ramesh/gentle-intro-ramesh-mahadevan-I.htm
+[^4]: http://www.shivkumar.org/music/rangapura.pdf
+[^5]: https://github.com/vwulf/ettuge/blob/master/src/main/haskell/euterpea/twinkle.m4a
+[^6]: https://www.cs.yale.edu/homes/hudak/Papers/HSoM.pdf
+[^7]: https://en.wikipedia.org/wiki/R._Prasanna
+[^8]: https://youtu.be/c3O0PhhD6B4?si=LQbJRKrH7HZcbtIZ
+[^9]: https://stackoverflow.com/questions/40869437/installation-of-haskell-package-euterpea-fails-on-nixos
+[^10]: https://github.com/bartschuller/euterpea-scala3
+[^11]: https://en.wikipedia.org/wiki/Muthuswami_Dikshitar
+[^12]: https://en.wikipedia.org/wiki/Thondaradippodi_Alvar
+[^13]: https://sujamusic.wordpress.com/2013/12/31/pacchai-ma-malai/
+[^14]: https://sujamusic.wordpress.com/2012/02/08/rangapura-vihara/
