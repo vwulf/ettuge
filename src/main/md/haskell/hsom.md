@@ -29,7 +29,7 @@ working, I was introduced to a fusion version of "Rangapura Vihara" [^8] which h
 
 Although this version uses 2 different songs from 2 different sources.
 
-"Rangapura Vihara" [^2] was written by Muthuswamy Dikshitar [^3].
+"Rangapura Vihara" [^2][^14] was written by Muthuswamy Dikshitar [^3].
 He was known to compose exclusively in Sanskrit and have at least 1 self-reference to the underlying raga in his compositions.
 The underlying raga being Brindāvana Sārangā is referenced in the song itself.
 
