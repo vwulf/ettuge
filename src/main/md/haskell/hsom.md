@@ -1,4 +1,4 @@
-# From Euterpea to Rangapura Vihara
+# From Euterpea to rangapura vihAra
 
 ## Euterpea / HSOM
 A while back I ran in to [^6] and thought this would be an interesting way to learn music.
