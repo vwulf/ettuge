@@ -44,6 +44,7 @@ So I stuck to the original. There's extensive information on Carnatic and its ma
 Digging into [^4] without any musical training and trying to convert them to sheet notation wasn't easy.
 In fact, it went nowhere and sounded nothing like the original. A project that I have left for later.
 
+## Alternates to Euterpea
 While attempting to summarize this earlier work, I also saw some interesting attempts to port HSOM/Euterpea to scala 3 [^10].
 The original writer of HSOM - Paul Hudak is no more and the current maintainer has mentioned in some forums that the underlying
 design is not being changed [^15] but just being maintained. It would be interesting to try the scala variant to see if the installation issues are less prevalent.
