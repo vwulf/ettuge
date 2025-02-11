@@ -29,7 +29,7 @@ working, I was introduced to a fusion version of "Rangapura Vihara" [^8] which h
 
 Although this version uses 2 different songs from 2 different sources.
 
-"Rangapura Vihara" [^2] was written by Muthuswamy Dikshitar [^2].
+"Rangapura Vihara" [^2] was written by Muthuswamy Dikshitar [^3].
 He was known to compose exclusively in Sanskrit and have at least 1 self-reference to the underlying raga in his compositions.
 The underlying raga being Brindāvana Sārangā is referenced in the song itself.
 
@@ -47,7 +47,8 @@ In fact, it went nowhere and sounded nothing like the original. A project that I
 ## Alternates to Euterpea
 While attempting to summarize this earlier work, I also saw some interesting attempts to port HSOM/Euterpea to scala 3 [^10].
 The original writer of HSOM - Paul Hudak is no more and the current maintainer has mentioned in some forums that the underlying
-design is not being changed [^15] but just being maintained. It would be interesting to try the scala variant to see if the installation issues are less prevalent.
+design is not being changed [^15] but just being maintained. It would be interesting to try the scala variant to see if the installation issues
+along the line that I ran into [^9] are less prevalent.
 
 ## References
 
