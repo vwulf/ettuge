@@ -20,7 +20,7 @@ twinkle1 =
   line (map pcToQN [F, F, E, E, D, D]) :+: c 4 hn 
 ```
 
-## Rangapura Vihara by Agam
+## rangapura vihAra by Agam
 However I enjoy carnatic music as well as certain kinds of fusion with jazz, blues and
 rock [^7]. In the time of playing around with Euterpea - the most complicated of which was to get an installation
 working, I was introduced to a fusion version of "Rangapura Vihara" [^8] which held my attention for a while.
