@@ -49,6 +49,8 @@ While attempting to summarize this earlier work, I also saw some interesting att
 The original writer of HSOM - Paul Hudak is no more and the current maintainer has mentioned in some forums that the underlying
 design is not being changed [^15] but just being maintained. It would be interesting to try the scala variant to see if the installation issues are less prevalent.
 
+## References
+
 [^1]: https://github.com/vwulf/ettuge/blob/master/src/main/haskell/euterpea/twinkle.hs
 [^2]: https://en.wikipedia.org/wiki/Rangapura_Vihara
 [^3]: http://www.shivkumar.org/music/basics/ramesh/gentle-intro-ramesh-mahadevan-I.htm
