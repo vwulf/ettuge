@@ -1,0 +1,32 @@
+[^1] is the best introduction to λ calculus I have seen.
+
+If you remember this there was a practical reason to do some research on lambda calculus (postfix) for a usecase I had, I chanced upon the De bruijn index : https://loup-vaillant.fr/articles/programming-ring
+
+From which I translated the pun:
+ಏಕೆ = [ [೧ (೦ ೦)] [೧ (೦ ೦)] ]
+Eke = [ [1 (0 0)] [1 (0 0)] ]
+
+In the standard form,
+Y = λf. (λx. f (x x)) λx. f (x x)
+
+can be written as:
+ಏಕೆ = ॐಅ . (ॐಉ . ಅ (ಉ ಉ)) ॐಉ . ಅ (ಉ ಉ)
+Eke = Om a . (Om u . a (u u)) Om u . a (u u)
+Without any semantic change.
+
+Haskell uses \ for λ and -> for .
+
+Pretty cool to use as a basis for any generative language.
+
+If that’s too abstract, see this:
+To see how easily program structure is derived from lambda calculus.
+
+[^1]: https://youtu.be/eis11j_iGMs?si=sM5lTjltqQrGGfPN
+[^2]: https://github.com/andrejbauer/plzoo/blob/master/src/lambda/example.lambda
+[^3]: https://www.youtube.com/watch?v=43XaZEn2aLc&list=PL1a1q1zrmyEwpA2PvYcM1UqE18zekujW-&index=17
+[^4]: https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/Eke.md
+[^5]: https://loup-vaillant.fr/articles/programming-ring
+[^6]: https://dev.to/dannypsnl/de-bruijn-index-why-and-how-32f6
+[^7]: https://cs.stackexchange.com/questions/109954/writing-a-grammar-for-lambda-calculus
+[^8]: https://youtu.be/09-9LltqWLY?si=CJ1TbuAjvMGPwUX8
+[^9]: https://www.youtube.com/watch?v=43XaZEn2aLc&list=PL1a1q1zrmyEwpA2PvYcM1UqE18zekujW-&index=17
