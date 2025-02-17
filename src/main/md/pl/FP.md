@@ -1,5 +1,17 @@
 # Forays into Functional Programming
 
+## Multiplication tables
+## Arithmetic
+## Algebra
+## Calculator
+## Bash
+## Math in Signals
+## Naive recursion in C++
+### Trees and lists
+## Template programming in C++
+## Structure and Interpretation of Computer Programs
+
+## 
 My introduction to functional programming was though Lisp in compiler and AI classes, later scheme and then
 ML for an undergraduate course on programming languages where I wrote frontends astonishingly easily in ML
 (OCaml without any of the Object parts). I went on to TA an undergraduate CS honors programming language course
