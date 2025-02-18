@@ -1,14 +1,15 @@
 # Forays into Functional Programming
 
-## Multiplication tables
-## Arithmetic
-## Algebra
-## Calculator
+## Normal course of exposure
+### Multiplication tables
+### Arithmetic
+### Algebra
+### Calculator
 ## Bash
 ## Math in Signals
 ## Naive recursion in C++
 ### Trees and lists
-## Template programming in C++
+### Template programming in C++
 ## Structure and Interpretation of Computer Programs
 
 ## 
