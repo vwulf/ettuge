@@ -1,7 +1,7 @@
 ## Terminology
 
-|         |               |       |       |       |       |  |
-|---------|---------------|-------|-------|-------|-------|---|
+|         |               |       |       |       |       |  |    |
+|---------|---------------|-------|-------|-------|-------|---|---|
 | **Num** | **English** | **samskxta** | **Formal Kannada**  | ** Eke(Kan) ** | ** ellara kannaDa ** | ** Eke(ek)** | Notes |
 | 0       | Letter      |   |  | akShara  |  | barige | could mean writing, sometimes akSara is used. |
 | 1       | Word        |   | | pada     |     | pada     | |
@@ -50,14 +50,14 @@
 | 44 | Brahmi | | | | | | |
 | 45 | Asokan Brahmi | | | | | | |
 | 46 | Tamil Brahmi | | | | | | |
-| 47 | | | | | | Case 1 |
-| 48 | | | | | | Case 2 |
-| 49 | | | | | | Case 3 |
-| 50 | | | | | | Case 4 |
-| 51 | | | | | | Case 5 |
-| 52 | | | | | | Case 6 |
-| 53 | | | | | | Case 7 |
-| 54 | | | | | | Case 1a |
+| 47 | | | | | | | Case 1 |
+| 48 | | | | | | | Case 2 |
+| 49 | | | | | | | Case 3 |
+| 50 | | | | | | | Case 4 |
+| 51 | | | | | | | Case 5 |
+| 52 | | | | | | | Case 6 |
+| 53 | | | | | | | Case 7 |
+| 54 | | | | | | | Case 1a |
 
 
 
