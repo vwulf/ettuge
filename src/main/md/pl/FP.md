@@ -46,7 +46,7 @@ Approaching algorithm writing in a functional programming language is a differen
 
 Although I studied [^18] in parallel to using scala's immutable libraries, from the perspective of building applications or systems code needs familiarity with well known functional idioms. Doing recursion naively, converting to tail recursion for real world needs can get tedious. That's roughly when you need an introduction to using higher order functions and combinators - like map, filter and fold.
 
-At this time, I went through [^13] in parallel to [^12] to understand functors, applicatives, monoids and monads. After I went through
+At this time, I went through [^13] in parallel to [^12][^19] to understand functors, applicatives, monoids and monads. After I went through
 the whole thing, it seemed straight forward in retrospective but it was quite a learning curve. Even here, there's a big gap between learning to use the above algebraic structures to defining your own.
 
 Later I had encountered recursion schemes through this fantastic talk by tpolecat [^11]. This was much
@@ -64,4 +64,5 @@ writing compiler frontends in ocaml.
 [^16]: https://www.cs.cmu.edu/~rwh/students/okasaki.pdf
 [^17]: https://drive.google.com/file/d/1nuRlrqrRRsxMhX20NTd9YTPVANQi5Of-/view?pli=1
 [^18]: https://www.cambridge.org/core/books/purely-functional-data-structures/0409255DA1B48FA731859AC72E34D494
+[^19]: https://youtu.be/6t6bsWVOIzs?si=KxRYX5VRfgK-MMRd
 
