@@ -1,18 +1,26 @@
 ### lotr
 
+English and Eke equivalents
+
+```
 Gandalf : \[to Saruman\] There is only one Lord of the Ring, only one
 who can bend it to his will, and he does not share power.
 
 gyAnDAhlf : \[Tu sArumAn\] dEr is onli on lAhrD Ahf da ring, onli on hu
 kAhn benD iT Tu his will, AhnD hi daz nAhT SEr pAhwar.
-
+```
+```
 Saruman : So you have chosen... death.
 
 sArumAn : so yU hahv cOsan... Det.
+```
 
 ### da sTAr spAhngalD bahnar
 
-The Star-Spangled Banner'''
+#### English
+
+```
+The Star-Spangled Banner
 
 Say, can you see
 
@@ -40,9 +48,12 @@ That our flag was still there
 
 O say, does that star-spangled banner yet wave
 
-O'er the land of the free and the home of the brave '''
+O'er the land of the free and the home of the brave
+```
 
-'''
+#### Eke
+
+```
 
 **da sTAr spAhngalD bahnar**
 
@@ -74,15 +85,22 @@ o sE, Das daT sTAr-spAhngalD bAhnar yeT wEv
 
 Owar da lAhnD Ahf da frE anD da lAhnD Ahf da brEv
 
-'''
+```
 
 ### ArTikal on
 
+#### English
+
+```
 All human beings are born free and equal in dignity and rights. They are
 endowed with reason and conscience and should act towards one another in
 a spirit of brotherhood.
+```
 
+#### Eke
+
+```
 All hyUman bEings Ar bAhrn frI AhnD Ikwal in Digniti AhnD rAiTs. De Ar
 enDOD wit rIzan AhnD shuD Ahct tuwarDs on anater in ah spiriT Ahf
 bradarhuD.
-
+```
