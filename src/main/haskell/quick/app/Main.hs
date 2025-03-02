@@ -1,10 +1,96 @@
 {-# LANGUAGE ScopedTypeVariables #-}
+{-# LANGUAGE LambdaCase #-}
 module Main where
 
 import GHC.Float (sqrtDouble, sqrtFloat)
 import Control.Monad ( forM_, foldM )
 import Lib (greet)
 import Qsortof(qsort, unless, qsel)
+
+import Data.Functor.Foldable (refold)
+import qualified Data.Foldable as List
+import qualified Data.Foldable as Int
+import qualified Data.List as List
+import Debug.Trace (traceShow, trace)
+import GHC.Natural
+import Data.Fixed (Nano)
+import Control.Monad.Fix (fix)
+import Control.Concurrent
+
+
+f :: Int -> Int -> Int
+f x sum =
+  let
+    m = x `mod` 10
+    sum' = sum + m
+    x' = x `div` 10
+  in
+    if x' == 0
+      then sum'
+      else f x' sum'
+
+g :: Int -> [Int]
+g x =
+  let
+    m = x `mod` 10
+    x' = x `div` 10
+  in
+    if x' == 0
+      then [m]
+      else m : g x'
+
+h :: Natural -> [Natural]
+h x
+  | x == 0 = [m]
+  | otherwise = m : h (x `div` 10)
+  where
+    m = x `mod` 10
+
+s :: Natural -> Natural
+s = refold List.sum h
+
+i :: Natural -> [Natural]
+i = fix (\f x ->
+      let m = (x `mod` 10) in
+      case x of
+        0 ->
+          traceShow ("m", m)
+          []
+        _ ->
+          traceShow (m, x `div` 10)
+          m : f (x `div` 10))
+
+j :: Natural -> Maybe (Natural, Natural)
+j x = case x of
+   0 -> Nothing
+   x -> Just (x `mod` 10, x `div` 10)
+{--
+sumd :: Natural -> Natural
+sumd = refold List.sum $ fix (\f x ->
+    let m = (x `mod` 10) in
+      case x of
+        0 -> 
+          traceShow ("m", m) 
+          []
+        _ ->
+          traceShow (m, x `div` 10) 
+          m : f (x `div` 10))
+--}
+
+l1 :: Maybe (Natural, Natural) -> Maybe Natural
+l1 = fmap fst
+
+l = l1 . j
+
+sum1 = sum . fst
+
+sumd :: Natural -> Natural
+sumd = refold sum1 (\case
+  0 -> [] 
+  x ->
+    let x' = x `mod` 10 in
+      traceShow ("x: ", x)
+      [(x', x `div` 10)])
 
 main :: IO ()
 main = do
