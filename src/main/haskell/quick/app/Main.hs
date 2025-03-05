@@ -1,5 +1,6 @@
 {-# LANGUAGE ScopedTypeVariables #-}
 {-# LANGUAGE LambdaCase #-}
+{-# LANGUAGE TupleSections #-}
 module Main where
 
 import GHC.Float (sqrtDouble, sqrtFloat)
@@ -7,7 +8,7 @@ import Control.Monad ( forM_, foldM )
 import Lib (greet)
 import Qsortof(qsort, unless, qsel)
 
-import Data.Functor.Foldable (refold)
+import Data.Functor.Foldable (refold, ListF (Nil, Cons), fold, unfold)
 import qualified Data.Foldable as List
 import qualified Data.Foldable as Int
 import qualified Data.List as List
@@ -16,6 +17,7 @@ import GHC.Natural
 import Data.Fixed (Nano)
 import Control.Monad.Fix (fix)
 import Control.Concurrent
+import qualified GHC.Base as Data
 
 
 f :: Int -> Int -> Int
@@ -80,17 +82,83 @@ sumd = refold List.sum $ fix (\f x ->
 l1 :: Maybe (Natural, Natural) -> Maybe Natural
 l1 = fmap fst
 
+
 l = l1 . j
 
-sum1 = sum . fst
+sum1 l = fst . head l
+
+ll :: [(Natural, Natural)]
+ll = [(1, 2)]
+
+l3 :: [Natural]
+l3 = fmap fst ll
+
+g1 :: (Natural, Natural) -> [(Natural, Natural)]
+g1 = \case
+          (x, 0) ->
+            traceShow ("x: ", x)
+            []
+          (x, y) ->
+            traceShow ("x: y: ", (x, y))
+            [(y `mod` 10, y `div` 10)]
+
+f1 :: [(Natural, Natural)] -> (Natural, Natural)
+f1 = List.foldl' (\(acc1, acc2) (elem1, elem2) ->
+      traceShow ("acc1: acc2: elem1: elem2: ", (acc1, acc2, elem1, elem2))
+      (acc1 + elem1, acc2 + elem2)
+      ) (0, 0)
+
+sumd' :: (Natural, Natural) -> (Natural, Natural)
+sumd' = refold f1 g1
+sumd1 :: Natural -> Natural
+sumd1 x = (fst . sumd') (x, x)
+
+g2i :: Natural -> ListF Natural Natural
+g2i =
+  \case
+      0 -> Nil
+      x ->
+        ( let x' = x `mod` 10
+              y' = x `div` 10
+           in traceShow
+                ("x': y': z: ", (x', y', Cons y' x'))
+                Cons
+                x'
+                y'
+        )
+
+g2 :: Natural -> [Natural]
+g2 = unfold g2i
+
+f2i :: ListF Natural Natural -> Natural
+f2i =
+  \case
+    Nil -> 0
+    Cons acc elem ->
+        traceShow
+          ("acc: elem: ", (acc, elem))
+          acc
+          + elem
+
+f2 :: [Natural] -> Natural
+f2 = fold f2i
+
+sumd3 :: Natural -> Natural
+sumd3 = refold f2i g2i
+
+sumd4 :: Natural -> Natural
+sumd4 = refold
+          (\case
+            Nil -> 0
+            Cons x y -> x + y)
+          (\case
+            0 -> Nil
+            x -> Cons (x `mod` 10) (x `div` 10))
 
 sumd :: Natural -> Natural
-sumd = refold sum1 (\case
-  0 -> [] 
-  x ->
-    let x' = x `mod` 10 in
-      traceShow ("x: ", x)
-      [(x', x `div` 10)])
+sumd = refold (\case Nil -> 0; Cons x y -> x + y)
+              (\case 0 -> Nil; x -> Cons (x `mod` 10) (x `div` 10))
+
 
 main :: IO ()
 main = do
