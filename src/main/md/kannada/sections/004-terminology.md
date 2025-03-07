@@ -50,14 +50,14 @@
 | 44 | Brahmi | | | | | | |
 | 45 | Asokan Brahmi | | | | | | |
 | 46 | Tamil Brahmi | | | | | | |
-| 47 | | | | | | | Case 1 |
-| 48 | | | | | | | Case 2 |
-| 49 | | | | | | | Case 3 |
-| 50 | | | | | | | Case 4 |
-| 51 | | | | | | | Case 5 |
-| 52 | | | | | | | Case 6 |
-| 53 | | | | | | | Case 7 |
-| 54 | | | | | | | Case 1a |
+| 47 | Nominative case | pratama vibhakti | | | | | Case 1 |
+| 48 | Accusative case | dvitIya vibhakti| | | | | Case 2 |
+| 49 | Instrumental case | txtIya vibhakti | | | | | Case 3 |
+| 50 | Dative case | caturthI vibhakti | | | | | Case 4 |
+| 51 | Ablative case | pancami vibhakti | | | | | Case 5 |
+| 52 | Genitive case | ShaShTi vibhakti | | | | | Case 6 |
+| 53 | Locative case | saptamu vibhakthi | | | | | Case 7 |
+| 54 | Vocative case | sambOdana vibhakti | | | | | Case 1a |
 
 
 
