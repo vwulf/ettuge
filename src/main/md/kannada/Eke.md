@@ -197,6 +197,91 @@ for kannaDa and the recent exhaustive work of Sankara BaT in writing a
 grammar for kannaDa from first principles which have resulted in a
 grammar which doesn't follow the same template of Samskxrta.
 
+This proposal itself began due to various cultural factors:
+
+1.  A lot of peers of the author could speak kannaDa but were lacking in
+    ability to read, write or type kannaDa.
+
+2.  Experts in kannaDa in offline media - Reading, Writing were still
+    experts in typing on a standard keyboard. Phone keyboards do much
+    better, but still the gap remains.
+
+3.  Urban vocabulary and a little bit of rural consists a large part of
+    English words which are intermixed.
+
+4.  Online interactions are mostly done in kanglish or English. The same
+    is observed to be true of other Indic language speakers.
+
+5.  Typing diacritics on specialized keyboards requires some explicit
+    prep that most people don't seem to do.
+
+6.  Programming Environments are so tuned to English that Unicode is
+    often an afterthought. Indic scripts use more Unicde combinations
+    than other non-English alphabets.
+
+7.  A lot of Indic language understanding falls neatly into language
+    families. When expressed in a script that one can read (e.g.
+    English) kannaDa, tamiZ, malayALam, tulu and telugu speakers (and
+    even 1 brahui speaker anecdotally) seem to be able to read and
+    follow along.
+
+8.  People who speak Non-Dravidian languages (Hindi, Marathi etc) are
+    more exposed to English than the scripts of the South.
+
+9.  Northern Indian scripts are closer to each other than Southern
+    Indian scripts due to the shared nagAri heritage. Southern Indian
+    scripts have a long and wide history of writing and the statistics
+    on Inscriptions found shows the same. E.g. tamiZ and kannaDa
+    inscriptions outrank evey other inscription found in India [^2]. Due
+    to the long history of usage, the divergence in scripts is higher.
+    This makes it harder for people to read each others' scripts even
+    though there is reasonable legibility across languages.
+
+10. The author, found to his surprise, that he could read 2 languages
+    from a different part of the world: i. Old Persian (a dead language
+    in the middle east, written in Cuneiform [^3]) and ii. Avestan (a
+    liturgical language of the Parsis who arrived in India a few
+    centuries ago [^4]). The author was unaware of the closer relations
+    between these languages and Sanskrit even after years of studying
+    Sanskrit in school - due to the difference in scripts. In
+    transliterated English, it can easily be seen that people who can
+    read and understand Sanskrit can make out these languages as well.
+
+11. A more common fact that the author discovered later than expected:
+    Hindi and Urdu are 2 registers of the same language. The author
+    often saw 2 completely different scripts and did not know that
+    grammatically they are the same language till he heard an Urdu
+    speaker from a different country and wondered why he was able to
+    understand them. They are considered different languages only due to
+    cultural and political factors. Vocabulary differences alone do not
+    separate languages. E.g. a 20% difference in vocabulary may make
+    speech unintelligble. Such differences often occur in dialects or
+    registers of the same language. To be considered different
+    languages, require unintelligibility and substantial changes in
+    grammatical structure.
+
+12. In India, there's lot of blind adherence to scripts as being part of
+    the language or culture. It is part of the culture. However one
+    needs to remember that writing in India arrived rather late. There's
+    a gap of a millenium between IVC script and the brAhmi scripts.
+    Brahmi scripts became widespread only in the Asokan period of 2300
+    years ago. However most Indian languages have a spoken history that
+    can be traced to up to 4 - 5000 years using the techniques of
+    Phonology (predicted changes in sounds), Phylogeny and Proto
+    language construction. Using these techniques, words for Proto Indo
+    European as Proto Dravidian languages have been constructed that are
+    far older than written artefacts. The vocabulary available here is
+    far richer than written artefacts which are often sparse and are
+    surviving royal edicts on stones.
+
+13. An English transliteration may well become a "link language" of
+    South India - even if each language speaker wrote their own language
+    in Eke.
+
+14. ISO, IAST, HK are all other possible choices. The author notes the
+    prevalence of plain English text on all online channels to show why
+    scripts with diacritics will not gain wide acceptance.
+
 ## A guide to writing in ellara kannaDa - EK
 
 ## Goals and Non goals
@@ -1682,7 +1767,7 @@ response.
 
 ## References
 
-[^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30][^31]
+[^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30][^31][^32][^33][^34][^35][^36][^37][^38]
 
 ## Consonant Clusters
 
@@ -1707,62 +1792,76 @@ TBD
 
 [^1]: <https://tinyurl.com/indicprogramming>
 
-[^2]: <http://dnshankarabhat.net/dr-d-n-shankara-bhat/>
+[^2]: <https://www.avesta.org/yasna/index.html#y0>
 
-[^3]: <https://honalu.net/%e0%b2%8e%e0%b2%b2%e0%b3%8d%e0%b2%b2%e0%b2%b0%e0%b2%95%e0%b2%a8%e0%b3%8d%e0%b2%a8%e0%b2%a1/>
+[^3]: <https://www.livius.org/sources/content/behistun-persian-text/behistun-t-01/>
 
-[^4]: <https://en.wikipedia.org/wiki/ARPABET>
+[^4]: <https://www.avesta.org/yasna/index.html#y0>
 
-[^5]: <https://en.wikipedia.org/wiki/Pronunciation_respelling_for_English>
+[^5]: <http://dnshankarabhat.net/dr-d-n-shankara-bhat/>
 
-[^6]: <https://anglish.org/wiki/Anglish>
+[^6]: <https://honalu.net/%e0%b2%8e%e0%b2%b2%e0%b3%8d%e0%b2%b2%e0%b2%b0%e0%b2%95%e0%b2%a8%e0%b3%8d%e0%b2%a8%e0%b2%a1/>
 
-[^7]: <https://kn.wiktionary.org/wiki/%E0%B2%AE%E0%B3%81%E0%B2%96%E0%B3%8D%E0%B2%AF_%E0%B2%AA%E0%B3%81%E0%B2%9F>
+[^7]: <https://en.wikipedia.org/wiki/ARPABET>
 
-[^8]: <https://alar.ink/>
+[^8]: <https://en.wikipedia.org/wiki/Pronunciation_respelling_for_English>
 
-[^9]: <https://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration>
+[^9]: <https://anglish.org/wiki/Anglish>
 
-[^10]: <https://en.wikipedia.org/wiki/Harvard-Kyoto>
+[^10]: <https://kn.wiktionary.org/wiki/%E0%B2%AE%E0%B3%81%E0%B2%96%E0%B3%8D%E0%B2%AF_%E0%B2%AA%E0%B3%81%E0%B2%9F>
 
-[^11]: <https://en.wikipedia.org/wiki/International_Phonetic_Alphabet>
+[^11]: <https://alar.ink/>
 
-[^12]: <https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key>
+[^12]: <https://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration>
 
-[^13]: <https://en.wikipedia.org/wiki/Brahmic_scripts>
+[^13]: <https://en.wikipedia.org/wiki/Harvard-Kyoto>
 
-[^14]: <https://en.wikipedia.org/wiki/ISO_15919>
+[^14]: <https://en.wikipedia.org/wiki/International_Phonetic_Alphabet>
 
-[^15]: <https://en.wikipedia.org/wiki/Kannada_script>
+[^15]: <https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key>
 
-[^16]: <https://wordalla.online/>
+[^16]: <https://en.wikipedia.org/wiki/Brahmic_scripts>
 
-[^17]: <https://www.bolochant.com/blog/sanskrit-pronunciation?srsltid=AfmBOoo4xJI5AgtG15ArUM_XFhj0cQFh1Pa27NCNLguGITuLwpzl-rjs>
+[^17]: <https://en.wikipedia.org/wiki/ISO_15919>
 
-[^18]: <https://theleaflet.in/leaflet-specials/plain-languages-in-a-complex-country>
+[^18]: <https://en.wikipedia.org/wiki/Kannada_script>
 
-[^19]: <https://timesofindia.indiatimes.com/city/bengaluru/drive-to-sanitise-kannadalanguage-kicks-up-a-row/articleshow/88798079.cms>
+[^19]: <https://wordalla.online/>
 
-[^20]: <https://en.wikipedia.org/wiki/Dravidian_languages>
+[^20]: <https://www.bolochant.com/blog/sanskrit-pronunciation?srsltid=AfmBOoo4xJI5AgtG15ArUM_XFhj0cQFh1Pa27NCNLguGITuLwpzl-rjs>
 
-[^21]: <https://en.wikipedia.org/wiki/Proto-Dravidian_language>
+[^21]: <https://theleaflet.in/leaflet-specials/plain-languages-in-a-complex-country>
 
-[^22]: <https://en.wiktionary.org/wiki/Appendix:Proto-Dravidian_reconstructions>
+[^22]: <https://timesofindia.indiatimes.com/city/bengaluru/drive-to-sanitise-kannadalanguage-kicks-up-a-row/articleshow/88798079.cms>
 
-[^23]: <https://en.wikipedia.org/wiki/Kadamba_script>
+[^23]: <https://en.wikipedia.org/wiki/Dravidian_languages>
 
-[^24]: <https://mythicsociety.github.io/AksharaBhandara/#/learn/Varnamale>
+[^24]: <https://en.wikipedia.org/wiki/Proto-Dravidian_language>
 
-[^25]: <https://en.wikipedia.org/wiki/Abugida>
+[^25]: <https://en.wiktionary.org/wiki/Appendix:Proto-Dravidian_reconstructions>
 
-[^26]: <https://en.wikipedia.org/wiki/Mankuthimmana_Kagga>
+[^26]: <https://en.wikipedia.org/wiki/Kadamba_script>
 
-[^27]: <https://kn.wikisource.org/wiki/%E0%B2%89%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B2%B5%E0%B2%B0%E0%B3%81_%E0%B2%B6%E0%B2%BF%E0%B2%B5%E0%B2%BE%E0%B2%B2%E0%B2%AF_%E0%B2%AE%E0%B2%BE%E0%B2%A1%E0%B2%BF%E0%B2%B9%E0%B2%B0%E0%B3%81>
+[^27]: <https://mythicsociety.github.io/AksharaBhandara/#/learn/Varnamale>
 
-[^28]: <https://en.wikipedia.org/wiki/Romanization_of_Japanese>
+[^28]: <https://en.wikipedia.org/wiki/Abugida>
 
-[^29]: <https://honalu.net/2013/05/29/%E0%B2%B6%E0%B2%AC%E0%B3%8D%E0%B2%A6%E0%B2%AE%E0%B2%A3%E0%B2%BF%E0%B2%A6%E0%B2%B0%E2%80%8D%E0%B3%8D%E0%B2%AA%E0%B2%A3%E0%B2%A6%E0%B2%B2%E0%B3%8D%E0%B2%B2%E0%B2%BF-%E0%B2%A4%E0%B2%B3%E0%B2%AE-3/>
+[^29]: <https://en.wikipedia.org/wiki/Mankuthimmana_Kagga>
 
-[^30]: <https://theswissbay.ch/pdf/Books/Linguistics/Mega%20linguistics%20pack/Dravidian/Kannada%2C%20A%20Generative%20Grammar%20of%20%28Ramanujan%29.pdf>
+[^30]: <https://kn.wikisource.org/wiki/%E0%B2%89%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B2%B5%E0%B2%B0%E0%B3%81_%E0%B2%B6%E0%B2%BF%E0%B2%B5%E0%B2%BE%E0%B2%B2%E0%B2%AF_%E0%B2%AE%E0%B2%BE%E0%B2%A1%E0%B2%BF%E0%B2%B9%E0%B2%B0%E0%B3%81>
 
-[^31]: <https://tinyurl.com/indicprogramming>
+[^31]: <https://en.wikipedia.org/wiki/Romanization_of_Japanese>
+
+[^32]: <https://honalu.net/2013/05/29/%E0%B2%B6%E0%B2%AC%E0%B3%8D%E0%B2%A6%E0%B2%AE%E0%B2%A3%E0%B2%BF%E0%B2%A6%E0%B2%B0%E2%80%8D%E0%B3%8D%E0%B2%AA%E0%B2%A3%E0%B2%A6%E0%B2%B2%E0%B3%8D%E0%B2%B2%E0%B2%BF-%E0%B2%A4%E0%B2%B3%E0%B2%AE-3/>
+
+[^33]: <https://theswissbay.ch/pdf/Books/Linguistics/Mega%20linguistics%20pack/Dravidian/Kannada%2C%20A%20Generative%20Grammar%20of%20%28Ramanujan%29.pdf>
+
+[^34]: <https://tinyurl.com/indicprogramming>
+
+[^35]: <https://www.livius.org/sources/content/behistun-persian-text/behistun-t-01/>
+
+[^36]: <https://www.avesta.org/yasna/index.html#y0>
+
+[^37]: <https://x.com/ybharath77/status/1563245639667896321?s=61>
+
+[^38]: <https://www.whatisindia.com/inscriptions/>
