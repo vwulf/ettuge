@@ -1,5 +1,5 @@
 ## References
-[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30][^31][^32][^33][^34][^35][^36][^37][^38][^39][^40][^41][^42][^43][^44][^45][^46][^47][^48][^49][^50][^51]
+[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30][^31][^32][^33][^34][^35][^36][^37][^38][^39][^40][^41][^42][^43][^44][^45][^46][^47][^48][^49][^50][^51][^52][^53][^54][^55][^56]
 
 [^1]: <http://dnshankarabhat.net/dr-d-n-shankara-bhat/>
 
@@ -102,3 +102,13 @@
 [^50]: https://en.wikipedia.org/wiki/ISO_15919
 
 [^51]: https://en.wikipedia.org/wiki/Indo-Aryan_languages
+
+[^52]: https://en.wikipedia.org/wiki/Aspirated_consonant
+
+[^53]: https://en.wikipedia.org/wiki/Voice_(phonetics)
+
+[^54]: https://en.wikipedia.org/wiki/Voicelessness
+
+[^55]: https://en.wikipedia.org/wiki/Tenuis_consonant
+
+[^56]: https://en.wikipedia.org/wiki/Kannada#Writing_system
