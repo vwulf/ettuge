@@ -1,5 +1,5 @@
 ## References
-[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30][^31][^32][^33][^34][^35][^36][^37][^38][^39][^40][^41][^42][^43][^44][^45][^46][^47][^48][^49][^50][^51][^52][^53][^54][^55][^56][^57]
+[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30][^31][^32][^33][^34][^35][^36][^37][^38][^39][^40][^41][^42][^43][^44][^45][^46][^47][^48][^49][^50][^51][^52][^53][^54][^55][^56][^57][^58][^59][^60]
 
 [^1]: <http://dnshankarabhat.net/dr-d-n-shankara-bhat/>
 
@@ -116,3 +116,7 @@
 [^57]: https://github.com/vwulf/ettuge/blob/master/src/main/md/haskell/%E0%B2%95%E0%B2%B3%E0%B3%8D%E0%B2%B3.md#the-state-of-indic-languages-as-programming-tools
 
 [^58]: https://github.com/vwulf/ettuge/tree/master/src/main/nu
+
+[^59]: https://zerodha.tech/blog/alar-the-making-of-an-open-source-dictionary/
+
+[^60]: https://bangaloremirror.indiatimes.com/bangalore/others/kannada-wiktionary-wordsmiths-techies-vivek-shankar-prashant-soratur-sandeep-kambi-ratheesha-ratnakara/articleshow/45063040.cms
