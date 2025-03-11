@@ -13,9 +13,9 @@
 | 7       | syllable    | | | prANa    |  | uli | |
 | 8       | consonant   | | | vyanjana |  | taDeyuli | |
 | 9       | vowel       | | | svara    |  | tereyuli | |
-| 10      | Aspirated Consonant | | | mahAprANa | | ottuli | |
-| 11      | Short Consonant     | | | alpaprANa | | kiriduli | |
-| 12      | Consonant cluster | | | ottakShara | | ottakSara | |
+| 10      | Aspirated Consonant | | | mahAprANa | | ottuli | [^52] |
+| 11      | Short Consonant     | | | alpaprANa | | kiriduli | Not aspirated, may or may not be voiced [^53] [^54]|
+| 12      | Consonant cluster | | | ottakShara | | ottakSara | Also called Compound character [^56] |
 | 13 | Language |  | | bhAShe | | nuDi  | | 
 | 14 | Grammar | | | vyAkaraNa | | sollarime | |
 | 15 | Structure | | | rachane   | | iTTaLa | |
@@ -29,12 +29,12 @@
 | 23 | First Person | | | uttama puruSha | | ADuga | |
 | 24 | Mood | | | | | ADugana niluvu | |
 | 25 | Personal Pronoun | | | | | ADupada | | 
-| 26 | Velar | | | | | | [^42]|
-| 27 | palatal | | | | | | [^41] |
-| 28 | retroflex | | | | | | [^40] |
-| 29 | dental | | | | | | [^38] |
-| 30 | labial | | | | | | [^37] |
-| 31 | diphtongs | | | | | | [^49] |
+| 26 | Velar | | | kanThya | | | [^42] [^16]|
+| 27 | palatal | | | tAlavya | | | [^41] [^16] |
+| 28 | retroflex | | | mUrdhanya | | | [^40] [^16] |
+| 29 | dental | | | dantya | | | [^38] [^16] |
+| 30 | labial | | | OShThya | | | [^37] [^16] |
+| 31 | diphtongs | | | sandhyAkShara | | | [^49] [^16]|
 | 32 | ISO | | | | | | The ISO 15919 standard [^50] |
 | 33 | IPA | | | | | | International Phonetic Alphabet [^10]|
 | 34 | Eke | | | | | | Eke transliteration scheme, as is.|
@@ -59,6 +59,9 @@
 | 53 | Locative case | saptami vibhakthi | | | | | Case 7 |
 | 54 | Vocative case | sambOdana vibhakti | | | | | Case 1a |
 | 55 | Kadamba script | | | | | kadamba lipi | The oldest script used to write old kannaDa - a flavor of brAhmi [^22]|
+| 56 | IAST | | | | | | International Alphabet for Sanskrit Transliteration [^8]|
+| 57 | HK | | | | | | Harvard Kyoto Protocol [^9]|
+
 
 
 
