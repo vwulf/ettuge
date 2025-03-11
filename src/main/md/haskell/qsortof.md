@@ -77,7 +77,7 @@ foldr - almost never - unless you are dealing with streams or infinite lists. Mo
 
 ### Notes on Unfold
 
-Basically "unfold" takes a terminating condition and can keep generating a recursive structure till that condition is met. It is an anamporphism. It is the dual to "fold" which can take a recursive structure and reduce it to a simple or complex value. The datastructure generated can be infinite if there is no terminating condition for the generating function.
+Basically "unfold" takes a terminating condition and can keep generating a recursive structure till that condition is met. It is an anamorphism. It is the dual to "fold" which can take a recursive structure and reduce it to a simple or complex value. The datastructure generated can be infinite if there is no terminating condition for the generating function.
 
 List - like many other structures provides an unfoldr.
 
