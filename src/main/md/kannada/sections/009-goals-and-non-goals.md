@@ -1,14 +1,14 @@
 ## Goals and Non goals
 
-Eke prioritizes ellara kannaDa over formal kannaDa given its simplicity
+Eke prioritizes ellara kannaDa[^2] over formal kannaDa given its simplicity
 and implicit appeal to ease of use. Eke doesn't have the same goals as
-HK. HK aims to faithfully retain the original spelling in devanAgari
+HK[^9]. HK aims to faithfully retain the original spelling in devanAgari
 i.e. the original spelling in devaNagari can be reconstructed from text
 in HK.
 
 Eke also does not attempt to solve the spelling problems of English.
-Although there are several attempts to do so like Arpabet, wiki
-pronunciation for English there's no clear consensus. IPA is quite
+Although there are several attempts to do so like Arpabet[^3], wiki
+pronunciation for English[^4] there's no clear consensus. IPA [^10] is quite
 complete but complex to learn and the extensive use of diacritics makes
 it difficult to use on standard desktop and phone keyboards.
 
@@ -24,7 +24,7 @@ This simplification is automatically obtained in usage of an alphabet
 set (without diacritics). There is a reduction in precision in certain
 cases. Eke, like HK goes down this line with only slight modifications.
 
-Eke will use 31 symbols for all of ellara kannaDa, 41 symbols for formal
+Eke will use 31 symbols for all of ellara kannaDa(ek), 41 symbols for formal
 kannada including historical symbols and 44 to incorporate english f, w,
 z.
 
