@@ -44,6 +44,16 @@ This proposal itself began due to various cultural factors:
 1. Programming Environments are so tuned to English that Unicode is often an afterthought. Indic scripts use more Unicode combinations than other 
 non-English alphabets.
 
+1. Digital environments are only catching up to non-English content. Existing content is due to extraordinary efforts by individuals rather than any degree of naturalness. See the story on Alar: [^59] and kannaDa wiktionary: [^60]
+
+1. Most of the letter counts/statistics in this write up came up due to a mixture of
+   - Playing wordalla: [^15] and switching between phone and laptop keyboards
+   - Finding out that getting straightforward answers like - give me all 3 letter words is non-trivial in kannaDa (and any Indic language) even with an excellent online dictionary like Alar [^7]
+   - Discovering that 80% of 5 letter words are Sanskrit and highly obscure; later writing some wiki table generators for this writeup [^58]
+   - Reading DNS Bhat [^1] and discovering that the character count stats seem to support the linguistic claims
+   - Playing with nushell after being frustrated with unicode support in various terminal emulators [^57]
+   - Discovering how hard it is to use unicode in a programming language and write code that looks natural in kannaDa [^57] 
+
 1. A lot of Indic language understanding falls neatly into language families. When expressed in a script that one can read (e.g. English) 
 kannaDa, tamiZ, malayALam, tulu and telugu speakers (and even 1 brahui speaker anecdotally) seem to be able to read and follow along.
 
