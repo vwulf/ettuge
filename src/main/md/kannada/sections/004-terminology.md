@@ -29,35 +29,36 @@
 | 23 | First Person | | | uttama puruSha | | ADuga | |
 | 24 | Mood | | | | | ADugana niluvu | |
 | 25 | Personal Pronoun | | | | | ADupada | | 
-| 26 | Velar | | | | | | |
-| 27 | palatal | | | | | | |
-| 28 | retroflex | | | | | | |
-| 29 | dental | | | | | | |
-| 30 | labial | | | | | | |
-| 31 | diphtongs | | | | | | |
-| 32 | ISO | | | | | | |
-| 33 | IPA | | | | | | |
-| 34 | Eke | | | | | | |
-| 35 | ellara kannada | | | | | | |
-| 36 | Eke (ek) | | | | | | |
-| 37 | abugida | | | | | | | |
-| 38 | syllabary | | | | | | |
-| 39 | alphasyllabary | | | | | | |
-| 40 | PIE | | | | | | |
-| 41 | Dravidian | | | | | | |
-| 42 | Proto Dravidian | | | | | | |
-| 43 | Indo Aryan | | | | | | |
-| 44 | Brahmi | | | | | | |
-| 45 | Asokan Brahmi | | | | | | |
-| 46 | Tamil Brahmi | | | | | | |
+| 26 | Velar | | | | | | [^42]|
+| 27 | palatal | | | | | | [^41] |
+| 28 | retroflex | | | | | | [^40] |
+| 29 | dental | | | | | | [^38] |
+| 30 | labial | | | | | | [^37] |
+| 31 | diphtongs | | | | | | [^49] |
+| 32 | ISO | | | | | | The ISO 15919 standard [^50] |
+| 33 | IPA | | | | | | International Phonetic Alphabet [^10]|
+| 34 | Eke | | | | | | Eke transliteration scheme, as is.|
+| 35 | ellara kannada | | | | | | A linguistic movement created by DNS Bhat [^2] |
+| 36 | Eke (ek) | | | | | | Eke transliteration using ellara kannaDa simplifications i.e. drop the h when appropriate |
+| 37 | abugida | Alpha-syllabary | | | akShara | | akSara/barige | [^24]|
+| 38 | syllabary | | | | | | Scripts that use symbols for syllables [^36]|
+| 39 | alphasyllabary | | | | | | Same as abugida or akSara |
+| 40 | PIE | | | | | | Proto Indo European [^35] |
+| 41 | Dravidian | | | drAviDa | | drAviDa | A term with a lot of baggage, usually indicates a language family [^19] |
+| 42 | Proto Dravidian | | | | | | A reconstructed proto language [^20]|
+| 43 | Indo Aryan | | | | | | Indo Aryan Languages [^51] |
+| 44 | Brahmi | | | | | | The script to which most Indic scripts trace their lineage from [^12]|
+| 45 | Asokan Brahmi | | | | | | The variant of brAhmi used in aSokan edicts |
+| 46 | Tamil Brahmi | | | | | | The variant of brAhmi used for old tamiZ |
 | 47 | Nominative case | pratama vibhakti | | | | | Case 1 |
 | 48 | Accusative case | dvitIya vibhakti| | | | | Case 2 |
 | 49 | Instrumental case | txtIya vibhakti | | | | | Case 3 |
 | 50 | Dative case | caturthI vibhakti | | | | | Case 4 |
 | 51 | Ablative case | pancami vibhakti | | | | | Case 5 |
 | 52 | Genitive case | ShaShTi vibhakti | | | | | Case 6 |
-| 53 | Locative case | saptamu vibhakthi | | | | | Case 7 |
+| 53 | Locative case | saptami vibhakthi | | | | | Case 7 |
 | 54 | Vocative case | sambOdana vibhakti | | | | | Case 1a |
+| 55 | Kadamba script | | | | | kadamba lipi | The oldest script used to write old kannaDa - a flavor of brAhmi [^22]|
 
 
 
