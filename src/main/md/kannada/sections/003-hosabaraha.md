@@ -1,4 +1,4 @@
-## ಹೊಸಬರಹ
+## ಹೊಸಬರಹ / hosabaraha
 
 The gist of ಹೊಸಬರಹ is to address the disconnect in how common people
 speak and (mostly can’t) read/write Kannada. Note that EK's a holistic
@@ -8,7 +8,7 @@ rely on external techniques like Sanskrit along with the orthography of
 ಹೊಸಬರಹ. We use EK interchangably with ಹೊಸಬರಹ in the remaining portion of
 the article.
 
-For otthaksharas, 35x35 consonant symbols are reduced to 21x21 symbols.
+For ottakSaras, 35x35 consonant symbols are reduced to 21x21 symbols.
 These would be combined with the following 10 vowels and 3 modifiers
 instead of 16 vowels and 5 modifiers.
 
@@ -17,7 +17,7 @@ symbols. Its about a 77% reduction in symbols, greatly simplifying
 reading/writing without any loss of fidelity for pronunciation in
 Kannada (but not classical or Vedic Sanskrit).
 
-Aspiration (mahapraana) from phonology perspective is the same as ಹ
+Aspiration (mahAprANa) from phonology perspective is the same as ಹ
 otthu.
 
 So ಕ ಖ ಗ ಘ = ಕ ಕ್ಹ ಗ ಗ್ಹ
@@ -37,8 +37,7 @@ used.
 
 Coming to vowels ಅಆಇಈಉಊಎಏಒಓ are retained.
 
-ಋೠಌೡಐಔಅಃ are not. See
-<https://www.bolochant.com/blog/sanskrit-pronunciation> for correct
+ಋೠಌೡಐಔಅಃ are not. See [^16] for correct
 pronunciation of these in Sanskrit. It’s not important/relevant in
 Kannada.
 
