@@ -61,7 +61,7 @@
 | 55 | Kadamba script | | | | | kadamba lipi | The oldest script used to write old kannaDa - a flavor of brAhmi [^22]|
 | 56 | IAST | | | | | | International Alphabet for Sanskrit Transliteration [^8]|
 | 57 | HK | | | | | | Harvard Kyoto Protocol [^9]|
-
+| 58 | IK | | | | | | Informal kannaDa - adhoc transliteration into English. Varies with the person's background. |
 
 
 
