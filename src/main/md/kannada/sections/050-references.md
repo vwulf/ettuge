@@ -1,5 +1,5 @@
 ## References
-[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30][^31][^32][^33][^34]
+[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30][^31][^32][^33][^34][^35][^36][^37][^38][^39][^40][^41][^42][^43][^44][^45][^46][^47][^48][^49][^50][^51]
 
 [^1]: <http://dnshankarabhat.net/dr-d-n-shankara-bhat/>
 
@@ -68,3 +68,37 @@
 [^33]: https://x.com/ybharath77/status/1563245639667896321?s=61
 
 [^34]: https://www.whatisindia.com/inscriptions/
+
+[^35]: https://en.wikipedia.org/wiki/Proto-Indo-European_language
+
+[^36]: https://en.wikipedia.org/wiki/Syllabary
+
+[^37]: https://en.wikipedia.org/wiki/Labial_consonant
+
+[^38]: https://en.wikipedia.org/wiki/Dental_consonant
+
+[^39]: https://en.wikipedia.org/wiki/Alveolar_consonant
+
+[^40]: https://en.wikipedia.org/wiki/Retroflex_consonant
+
+[^41]: https://en.wikipedia.org/wiki/Palatal_consonant
+
+[^42]: https://en.wikipedia.org/wiki/Velar_consonant
+
+[^43]: https://en.wikipedia.org/wiki/Glottal_consonant
+
+[^44]: https://en.wikipedia.org/wiki/Nasal_consonant
+
+[^45]: https://en.wikipedia.org/wiki/Plosive
+
+[^46]: https://en.wikipedia.org/wiki/Semivowel
+
+[^47]: https://en.wikipedia.org/wiki/Rhotic_consonant
+
+[^48]: https://en.wikipedia.org/wiki/Lateral_consonant
+
+[^49]: https://en.wikipedia.org/wiki/Diphthong
+
+[^50]: https://en.wikipedia.org/wiki/ISO_15919
+
+[^51]: https://en.wikipedia.org/wiki/Indo-Aryan_languages
