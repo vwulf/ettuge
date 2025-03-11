@@ -12,7 +12,7 @@ a potpourri of opinions.
 The commonly held viewpoint on languages often differs completely from
 the academic consensus. On the flip side, there are traditions in
 linguistic understanding that are more a couple of thousand years old,
-the most impactful being pAnini and the schools of study of pANinian
+the most impactful being pANini and the schools of study of pANinian
 grammar.
 
 Although there is value in these traditions, we should also be mindful
@@ -25,7 +25,7 @@ applied by pANini for samskxrta.
 It's only with the advent of modern linguistics, etymology and phylogeny
 that alternates have emerged. Although there's been many that are not
 mentioned here, AK rAmAnujan's attempts to write a generative grammar
-for kannaDa and the recent exhaustive work of Sankara BaT in writing a
+for kannaDa[^29] and the recent exhaustive work of Sankara BaT [^1] in writing a
 grammar for kannaDa from first principles which have resulted in a
 grammar which doesn't follow the same template of Samskxrta.
 
@@ -33,7 +33,7 @@ This proposal itself began due to various cultural factors:
 
 1. A lot of peers of the author could speak kannaDa but were lacking in ability to read, write or type kannaDa.
 
-1. Experts in kannaDa in offline media - Reading, Writing were still experts in typing on a standard keyboard. Phone keyboards do much better, but still the gap remains.
+1. Experts in kannaDa in offline media - Reading, Writing were still non-experts in typing on a standard keyboard. Phone keyboards do much better, but still the gap remains.
 
 1. Urban vocabulary and a little bit of rural consists a large part of English words which are intermixed.
 
@@ -41,7 +41,7 @@ This proposal itself began due to various cultural factors:
 
 1. Typing diacritics on specialized keyboards requires some explicit prep that most people don't seem to do.
 
-1. Programming Environments are so tuned to English that Unicode is often an afterthought. Indic scripts use more Unicde combinations than other 
+1. Programming Environments are so tuned to English that Unicode is often an afterthought. Indic scripts use more Unicode combinations than other 
 non-English alphabets.
 
 1. A lot of Indic language understanding falls neatly into language families. When expressed in a script that one can read (e.g. English) 
@@ -55,7 +55,7 @@ kannaDa, tamiZ, malayALam, tulu and telugu speakers (and even 1 brahui speaker a
 
 1. A more common fact that the author discovered later than expected: Hindi and Urdu are 2 registers of the same language. The author often saw 2 completely different scripts and did not know that grammatically they are the same language till he heard an Urdu speaker from a different country and wondered why he was able to understand them. They are considered different languages only due to cultural and political factors. Vocabulary differences alone do not separate languages. E.g. a 20% difference in vocabulary may make speech unintelligble. Such differences often occur in dialects or registers of the same language. To be considered different languages, require unintelligibility and substantial changes in grammatical structure.
 
-1. In India, there's lot of blind adherence to scripts as being part of the language or culture. It is part of the culture. However one needs to remember that writing in India arrived rather late. There's a gap of a millenium between IVC script and the brAhmi scripts. Brahmi scripts became widespread only in the Asokan period of 2300 years ago. However most Indian languages have a spoken history that can be traced to up to 4 - 5000 years using the techniques of Phonology (predicted changes in sounds), Phylogeny and Proto language construction. Using these techniques, words for Proto Indo European as Proto Dravidian languages have been constructed that are far older than written artefacts. The vocabulary available here is far richer than written artefacts which are often sparse and are surviving royal edicts on stones.
+1. In India, there's lot of blind adherence to scripts as being part of the language or culture. It is part of the culture. However one needs to remember that writing in India arrived rather late. There's a gap of a millenium between IVC script and the brAhmi scripts. Brahmi scripts became widespread only in the Asokan period of 2300 years ago. However most Indian languages have a spoken history that can be traced to up to 4 - 6000 years using the techniques of Phonology (predicted changes in sounds), Phylogeny and Proto language construction. Using these techniques, words for Proto Indo European as Proto Dravidian languages have been constructed that are far older than written artefacts. The vocabulary available here is far richer than written artefacts which are often sparse and are surviving royal edicts on stones.
 
 1. An English transliteration may well become a "link language" of South India - even if each language speaker wrote their own language in Eke. 
 
