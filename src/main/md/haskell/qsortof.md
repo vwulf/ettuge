@@ -2,11 +2,7 @@
 
 ### Problem
 
-Finding the min k or max k elements:
-https://stackoverflow.com/questions/5380568/algorithm-to-find-k-smallest-numbers-in-array-of-n-items
-in contrast to finding the min kth or max th element:
-https://leetcode.com/problems/kth-largest-element-in-an-array/description/
-are slightly different problems.
+Finding the min k or max k elements: [^1] in contrast to finding the min kth or max kth element: [^19] are slightly different problems.
 
 We'll focus on the former.
 
@@ -28,7 +24,7 @@ This write-up started on a 1-liner in "Real World Haskell" that "take" composed 
 
 ### History
 I played around a qsort that I had written earlier and cleaned it up to use a fold and went down a rabbit hole of foldl v/s foldl' v/s foldr.
-[https://github.com/vwulf/ettuge/blob/master/src/main/haskell/qsortof.hs](https://github.com/vwulf/ettuge/blob/master/src/main/haskell/quick/src/qsortof.hs)
+[^20]
 
 Earlier I had done it using list comprehension. s, m, l are lists that represent less, equal and more than the pivot element - which is
 nominally picked as the head.
@@ -46,9 +42,9 @@ qsort ns = (qsort s) ++ m ++ (qsort l) where
 The cool part is that qsort can be done so simply and elegantly with some differences:
 1. This is not in-place unlike the classic imperative one. It might negate the reason why quick sort is preferred in the imperative version over other sorts
 because it is in-place.
-1. It is not tail-recursive and won't work well for larger numbers on eagerly evaluated languages. This is due to work being done after the recursive step. In eagerly evaluated languages this won't fly.
+1. It is not tail-recursive and won't work well for larger numbers on eagerly evaluated languages. This is due to work being done after the recursive step. In eagerly evaluated languages this won't fly. [^21] discusses that gradation from naive -> tail recursive -> immutable stack/queue -> imperative.
 1. There are 3 passes to get s,m and l which seems excessive.
-Rewriting to tail recursive or switch to trampolining to put the intermediates on the heap rather than the stack are rabbit holes. See the rabbit holes section in the end. All I'll note is that in Haskell, it's not as critical to make it tail recursive. In scala, you pretty much have to. Addressing Point 2 gets into classic writeups on tail recursion. Addressing point 1 gets into classic imperative quick sort implementations where there may be nothing new.
+Rewriting to tail recursive or switch to trampolining to put the intermediates on the heap rather than the stack are rabbit holes [^4][^5][^6]. See the rabbit holes section in the end. All I'll note is that in Haskell, it's not as critical to make it tail recursive. In scala, you pretty much have to. Addressing Point 2 gets into classic writeups on tail recursion. Addressing point 1 gets into classic imperative quick sort implementations where there may be nothing new. See [^21].
 
 Let's say I try to address just Point 3. I tried to reduce it to 2 passes as is before realizing that recursive steps are needed only for s and l.
 1 pass would seem sufficient with a loop, or a slightly contorted comprehension. I decided to use fold instead.
@@ -71,9 +67,9 @@ qsort elems = qsort lt ++ eq ++ qsort gt where
 
 ### Notes on Fold
 
-See https://github.com/vwulf/ettuge/blob/master/src/main/md/haskell/%E0%B2%95%E0%B2%B3%E0%B3%8D%E0%B2%B3.md discussion on folds and recursion schemes for more details.
+See  discussion on folds and recursion schemes for more details: [^22].
 
-Here I just tried foldr, foldl and foldl'. foldr is idiomatic in haskell and is amenable for infinite lists but not tail-recursive. foldl is tail-recursive but can't handle infinite lists. foldl' is the same as foldl but avoids the space leaks of foldl - due to Haskell being a lazy language - it builds up code thunks for each element in the list - that are more expensive than the primitive number itself. foldl' uses "seq" to forces the eager evaluation of the constructor to Weak Head Normal Form. See Rabbit hole section below for details.
+Here I just tried foldr, foldl and foldl'. foldr is idiomatic in haskell and is amenable for infinite lists but not tail-recursive. foldl is tail-recursive but can't handle infinite lists. foldl' is the same as foldl but avoids the space leaks of foldl - due to Haskell being a lazy language - it builds up code thunks for each element in the list - that are more expensive than the primitive number itself. foldl' uses "seq" to forces the eager evaluation of the constructor to Weak Head Normal Form. See [^7][^8][^9][^15][^16] for details.
 
 In short, use foldr in general in Haskell. foldl' in special cases. foldl never.
 In scala, use foldl most of the time unless you want to rewrite in imperative loop style for performance and remember to add the @tailrecursive tag to have the compiler check that it is indeed tail recursive. 
@@ -191,26 +187,118 @@ I thought this interesting property can be extended to infinite lists but algori
 If I restrict the problem to min k only:
 With integers and reals that's not guaranteed looking at the types. With natural numbers, you could theoretically do it, if there are no repeats. Even then E.g. 0 could wait forever before coming in. You need to guarantee that minimum k elements are in a finite sublist of the list, preceded by finite number of elements.
 
-E.g. An arbitrary list of natural numbers with no repeats, with the 0, 1 and the prime numbers in ascending order - [0, 1, 2, 3, 5, 4, 7, 6, ...]. However this guarantee needs to be encoded in the type before a min K can be made to work on infinite lists. Otherwise, the program won't terminate in the general case. Since this seems very restrictive, I'll not go in the infinite list case any more other than noting that when you deal with streams do not peek too far into it.
+E.g. An arbitrary list of natural numbers with no repeats, with the 0, 1 and the prime numbers in ascending order - [0, 1, 2, 3, 5, 4, 7, 6, ...]. However this guarantee needs to be encoded in the type before a min K can be made to work on infinite lists. Otherwise, the program won't terminate in the general case. Since this seems very restrictive, I'll not go in the infinite list case any more other than noting that when you deal with streams do not peek too far into it [^15]
 
 ### Summary
 The naive approach being idiomatic in haskell was still surprising to me even though I knew haskell was lazy. In a sense laziness in calculating the sort is buying the ability to compose/chain it with take and aborting when the list is partially sorted enough.
 
+### A continuation to recursion schemes
+As noted in [^22] there's more to recursion schemes than fold and unfold. 
+
+You can look at them as an alternate control flow theory where you may want to write immutable code
+- Imperative constructs like loops are not feasible
+- Unstructured constructs like goto are best avoided
+- Hand coding recursion can be error-prone
+- Writing tail recursion to avoid the stack overflow pitfalls is good, but seems less elegant than the simple recursive idea.
+
+It turns out there's an excellent library to get you started beyond the theory in [^22] - the recursion-schemes library: [^23]
+
+An excellent flowchart from there provides a handy guide on when to use what:
+
+
+![alt text](https://github.com/recursion-schemes/recursion-schemes/blob/master/docs/flowchart.svg?raw=true "A guide to recursion schemes")
+
+Let's take a simpler problem. Let's say we want to find the sum of digits of a natural number [^24] in a functional style.
+
+The naive approach would be recursive. You could make it tail recursive. With some thought, it looks like a variation of a fold or unfold.
+
+Using unfoldr:
+
+```
+sumd1 :: Natural -> Natural
+sumd1 = sum . unfoldr \case
+    0 -> Nothing
+    x -> Just (x `mod` 10, x `div` 10) 
+```
+
+However one would still need to think whether the terms that are expanded by unfold are collapsed by sum (which is defined as a fold with (+)). Instead of manually combining an unfold (anamorphism) and a fold (catamorphism), one can directly use a refold (hylomorphism). The intermediate structures are then guaranteed not to be created and then collapsed. The definitions for hylo(refold), cata(unfold) and ana(fold) from recursion-schemes are provided here for clarity. See [^27] for details.
+
+```
+cata :: (Base t a -> a) -> t -> a
+cata f = c where c = f . fmap c . project
+
+-- | An alias for 'unfold'.
+ana
+  :: (a -> Base t a) -- ^ a (Base t)-coalgebra
+  -> a               -- ^ seed
+  -> t               -- ^ resulting fixed point
+ana g = a where a = embed . fmap a . g
+
+-- | An alias for 'refold'.
+hylo :: Functor f => (f b -> b) -> (a -> f a) -> a -> b
+hylo f g = h where h = f . fmap h . g
+
+```
+
+Unlike the prelude, recursion-schemes uses a slightly different structure for defining the base cases. Note the "(Base t a -> a)". Instead of using a Maybe to construct/destruct a list, it uses a Cons structure that is more amenable to handle recursion schemes. E.g. See [^28]
+
+```
+data ListF a b = Nil | Cons a b
+```
+Here b is the recursive structure. a is the thing that goes in to the list - the base case. This structure helps extract/create the base case for folding/unfolding/refolding.
+
+Using this the sum of digits can be written as: [^26]
+
+```
+sumd :: Natural -> Natural
+sumd = refold (\case Nil -> 0; Cons x y -> x + y)
+              (\case 0 -> Nil; x -> Cons (x `mod` 10) (x `div` 10))
+
+ghci> sumd 102348
+18
+```
+
+This can be more nicely explained by plugging into chat GPT.
+
+```
+That’s a nice use of refold! It looks like you’re defining sumd to compute the sum of digits of a natural number using a refold, which essentially mirrors an unfold-followed-by-a-fold pattern.
+
+Your unfold (\case 0 -> Nil; x -> Cons (x mod 10) (x div 10)) breaks the number into its digits, and the fold (\case Nil -> 0; Cons x y -> x + y) sums them up. Very elegant!
+```
+
+And voila - recursion without hand coding. And further, using hylomorphism guarantees no extraneous temporary structures. It's a bit magical!
+
+There is a quick sort example in [^27] which uses a hylomorphism to transform the sublists on a pivot into Trees that notionally exist only for the sake of merging. It does not do an in-place imperative quick sort but avoids creating a full-fledged tree and then collapsing it. Instead it builds one step of a Tree at a time and collapses into a list, sorting along the way.
+
+
 ### References
-1. https://learnyouahaskell.com/
-1. https://stackoverflow.com/questions/2394684/in-haskell-how-can-you-sort-a-list-of-infinite-lists-of-strings#2395508
-1. https://eed3si9n.com/herding-cats/stackless-scala-with-free-monads.html
-1. https://stackoverflow.com/questions/76182328/how-to-do-tail-call-optimisation-in-scala3
-1. https://www.reddit.com/r/haskell/comments/f97qok/enforcing_tail_recursion_in_haskell/
-1. http://debasishg.blogspot.com/2009/01/to-tail-recurse-or-not-part-2-follow-up.html
-1. https://paul.bone.id.au/blog/2017/03/16/tail-recursion/
-1. https://free.cofree.io/2017/11/13/recursion/
-1. https://stackoverflow.com/questions/28652452/what-is-the-correct-definition-of-unfold-for-an-untagged-tree
-1. https://stackoverflow.com/questions/46716122/haskell-length-runtime-o1-or-on
-1. https://ris.utwente.nl/ws/portalfiles/portal/6142049/meijer91functional.pdf
-1. https://stackoverflow.com/questions/6119225/overloading-function-signatures-haskell
-1. https://medium.com/p/1b7a709fb71f#efe2
-1. https://en.m.wikibooks.org/wiki/Haskell/Graph_reduction
-1. https://hmac.dev/posts/2019-03-09-graph-reduction.html
-1. https://www.microsoft.com/en-us/research/wp-content/uploads/1992/01/student.pdf
-1.  https://www.microsoft.com/en-us/research/wp-content/uploads/1987/01/slpj-book-1987-small.pdf
+[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22]
+
+[^1]: https://stackoverflow.com/questions/5380568/algorithm-to-find-k-smallest-numbers-in-array-of-n-items
+[^2]: https://learnyouahaskell.com/
+[^3]: https://stackoverflow.com/questions/2394684/in-haskell-how-can-you-sort-a-list-of-infinite-lists-of-strings#2395508
+[^4]: https://eed3si9n.com/herding-cats/stackless-scala-with-free-monads.html
+[^5]: https://stackoverflow.com/questions/76182328/how-to-do-tail-call-optimisation-in-scala3
+[^6]: https://www.reddit.com/r/haskell/comments/f97qok/enforcing_tail_recursion_in_haskell/
+[^7]: http://debasishg.blogspot.com/2009/01/to-tail-recurse-or-not-part-2-follow-up.html
+[^8]: https://paul.bone.id.au/blog/2017/03/16/tail-recursion/
+[^9]: https://free.cofree.io/2017/11/13/recursion/
+[^10]: https://stackoverflow.com/questions/28652452/what-is-the-correct-definition-of-unfold-for-an-untagged-tree
+[^11]: https://stackoverflow.com/questions/46716122/haskell-length-runtime-o1-or-on
+[^12]: https://ris.utwente.nl/ws/portalfiles/portal/6142049/meijer91functional.pdf
+[^13]: https://stackoverflow.com/questions/6119225/overloading-function-signatures-haskell
+[^14]: https://medium.com/p/1b7a709fb71f#efe2
+[^15]: https://en.m.wikibooks.org/wiki/Haskell/Graph_reduction
+[^16]: https://hmac.dev/posts/2019-03-09-graph-reduction.html
+[^17]: https://www.microsoft.com/en-us/research/wp-content/uploads/1992/01/student.pdf
+[^18]: https://www.microsoft.com/en-us/research/wp-content/uploads/1987/01/slpj-book-1987-small.pdf
+[^19]: https://leetcode.com/problems/kth-largest-element-in-an-array/description/
+[^20]: https://github.com/vwulf/ettuge/blob/master/src/main/haskell/quick/src/qsortof.hs
+[^21]: https://github.com/vwulf/ettuge/blob/master/src/main/scala/quick/main.scala
+[^22]: https://github.com/vwulf/ettuge/blob/master/src/main/md/haskell/%E0%B2%95%E0%B2%B3%E0%B3%8D%E0%B2%B3.md
+[^23]: https://github.com/recursion-schemes/recursion-schemes/tree/master
+[^24]: https://x.com/chshersh/status/1895135789727526920?s=61
+[^25]: https://x.com/sampocino/status/1895168609262915682?s=61
+[^26]: https://x.com/vishwasms/status/1897230479088296057?s=61
+[^27]: https://github.com/recursion-schemes/recursion-schemes/blob/master/src/Data/Functor/Foldable.hs
+[^28]: https://github.com/recursion-schemes/recursion-schemes/blob/master/src/Data/Functor/Base.hs
