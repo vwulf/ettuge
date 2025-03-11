@@ -46,7 +46,7 @@ programming languages and scripting tools. Lack of full unicode support
 in programming editors, command lines make them harder to use. See [^1]
 for details.
 
-## ಹೊಸಬರಹ
+## ಹೊಸಬರಹ / hosabaraha
 
 The gist of ಹೊಸಬರಹ is to address the disconnect in how common people
 speak and (mostly can’t) read/write Kannada. Note that EK's a holistic
@@ -56,7 +56,7 @@ rely on external techniques like Sanskrit along with the orthography of
 ಹೊಸಬರಹ. We use EK interchangably with ಹೊಸಬರಹ in the remaining portion of
 the article.
 
-For otthaksharas, 35x35 consonant symbols are reduced to 21x21 symbols.
+For ottakSaras, 35x35 consonant symbols are reduced to 21x21 symbols.
 These would be combined with the following 10 vowels and 3 modifiers
 instead of 16 vowels and 5 modifiers.
 
@@ -65,7 +65,7 @@ symbols. Its about a 77% reduction in symbols, greatly simplifying
 reading/writing without any loss of fidelity for pronunciation in
 Kannada (but not classical or Vedic Sanskrit).
 
-Aspiration (mahapraana) from phonology perspective is the same as ಹ
+Aspiration (mahAprANa) from phonology perspective is the same as ಹ
 otthu.
 
 So ಕ ಖ ಗ ಘ = ಕ ಕ್ಹ ಗ ಗ್ಹ
@@ -85,10 +85,8 @@ used.
 
 Coming to vowels ಅಆಇಈಉಊಎಏಒಓ are retained.
 
-ಋೠಌೡಐಔಅಃ are not. See
-<https://www.bolochant.com/blog/sanskrit-pronunciation> for correct
-pronunciation of these in Sanskrit. It’s not important/relevant in
-Kannada.
+ಋೠಌೡಐಔಅಃ are not. See [^2] for correct pronunciation of these in
+Sanskrit. It’s not important/relevant in Kannada.
 
 ಐಔ (diphthongs) need special mention. In Sanskrit only ai, ou occurs
 frequently, hence the special symbols. In Kannada ಆಯ್, ಎಯ್, ಏಯ್, ಓಯ್ etc are
@@ -117,9 +115,9 @@ za, bank, odd etc.
 | 7       | syllable            |                    |                    | prANa              |                          | uli              |                                                                                             |
 | 8       | consonant           |                    |                    | vyanjana           |                          | taDeyuli         |                                                                                             |
 | 9       | vowel               |                    |                    | svara              |                          | tereyuli         |                                                                                             |
-| 10      | Aspirated Consonant |                    |                    | mahAprANa          |                          | ottuli           | [^2]                                                                                        |
-| 11      | Short Consonant     |                    |                    | alpaprANa          |                          | kiriduli         | Not aspirated, may or may not be voiced [^3] [^4]                                           |
-| 12      | Consonant cluster   |                    |                    | ottakShara         |                          | ottakSara        | Also called Compound character [^5]                                                         |
+| 10      | Aspirated Consonant |                    |                    | mahAprANa          |                          | ottuli           | [^3]                                                                                        |
+| 11      | Short Consonant     |                    |                    | alpaprANa          |                          | kiriduli         | Not aspirated, may or may not be voiced [^4] [^5]                                           |
+| 12      | Consonant cluster   |                    |                    | ottakShara         |                          | ottakSara        | Also called Compound character [^6]                                                         |
 | 13      | Language            |                    |                    | bhAShe             |                          | nuDi             |                                                                                             |
 | 14      | Grammar             |                    |                    | vyAkaraNa          |                          | sollarime        |                                                                                             |
 | 15      | Structure           |                    |                    | rachane            |                          | iTTaLa           |                                                                                             |
@@ -133,25 +131,25 @@ za, bank, odd etc.
 | 23      | First Person        |                    |                    | uttama puruSha     |                          | ADuga            |                                                                                             |
 | 24      | Mood                |                    |                    |                    |                          | ADugana niluvu   |                                                                                             |
 | 25      | Personal Pronoun    |                    |                    |                    |                          | ADupada          |                                                                                             |
-| 26      | Velar               |                    |                    | kanThya            |                          |                  | [^6] [^7]                                                                                   |
-| 27      | palatal             |                    |                    | tAlavya            |                          |                  | [^8] [^9]                                                                                   |
-| 28      | retroflex           |                    |                    | mUrdhanya          |                          |                  | [^10] [^11]                                                                                 |
-| 29      | dental              |                    |                    | dantya             |                          |                  | [^12] [^13]                                                                                 |
-| 30      | labial              |                    |                    | OShThya            |                          |                  | [^14] [^15]                                                                                 |
-| 31      | diphtongs           |                    |                    | sandhyAkShara      |                          |                  | [^16] [^17]                                                                                 |
-| 32      | ISO                 |                    |                    |                    |                          |                  | The ISO 15919 standard [^18]                                                                |
-| 33      | IPA                 |                    |                    |                    |                          |                  | International Phonetic Alphabet [^19]                                                       |
+| 26      | Velar               |                    |                    | kanThya            |                          |                  | [^7] [^8]                                                                                   |
+| 27      | palatal             |                    |                    | tAlavya            |                          |                  | [^9] [^10]                                                                                  |
+| 28      | retroflex           |                    |                    | mUrdhanya          |                          |                  | [^11] [^12]                                                                                 |
+| 29      | dental              |                    |                    | dantya             |                          |                  | [^13] [^14]                                                                                 |
+| 30      | labial              |                    |                    | OShThya            |                          |                  | [^15] [^16]                                                                                 |
+| 31      | diphtongs           |                    |                    | sandhyAkShara      |                          |                  | [^17] [^18]                                                                                 |
+| 32      | ISO                 |                    |                    |                    |                          |                  | The ISO 15919 standard [^19]                                                                |
+| 33      | IPA                 |                    |                    |                    |                          |                  | International Phonetic Alphabet [^20]                                                       |
 | 34      | Eke                 |                    |                    |                    |                          |                  | Eke transliteration scheme, as is.                                                          |
-| 35      | ellara kannada      |                    |                    |                    |                          |                  | A linguistic movement created by DNS Bhat [^20]                                             |
+| 35      | ellara kannada      |                    |                    |                    |                          |                  | A linguistic movement created by DNS Bhat [^21]                                             |
 | 36      | Eke (ek)            |                    |                    |                    |                          |                  | Eke transliteration using ellara kannaDa simplifications i.e. drop the h when appropriate   |
-| 37      | abugida             | Alpha-syllabary    |                    | akShara            |                          | akSara/barige    | [^21]                                                                                       |
-| 38      | syllabary           |                    |                    |                    |                          |                  | Scripts that use symbols for syllables [^22]                                                |
+| 37      | abugida             | Alpha-syllabary    |                    | akShara            |                          | akSara/barige    | [^22]                                                                                       |
+| 38      | syllabary           |                    |                    |                    |                          |                  | Scripts that use symbols for syllables [^23]                                                |
 | 39      | alphasyllabary      |                    |                    |                    |                          |                  | Same as abugida or akSara                                                                   |
-| 40      | PIE                 |                    |                    |                    |                          |                  | Proto Indo European [^23]                                                                   |
-| 41      | Dravidian           |                    |                    | drAviDa            |                          | drAviDa          | A term with a lot of baggage, usually indicates a language family [^24]                     |
-| 42      | Proto Dravidian     |                    |                    |                    |                          |                  | A reconstructed proto language [^25]                                                        |
-| 43      | Indo Aryan          |                    |                    |                    |                          |                  | Indo Aryan Languages [^26]                                                                  |
-| 44      | Brahmi              |                    |                    |                    |                          |                  | The script to which most Indic scripts trace their lineage from [^27]                       |
+| 40      | PIE                 |                    |                    |                    |                          |                  | Proto Indo European [^24]                                                                   |
+| 41      | Dravidian           |                    |                    | drAviDa            |                          | drAviDa          | A term with a lot of baggage, usually indicates a language family [^25]                     |
+| 42      | Proto Dravidian     |                    |                    |                    |                          |                  | A reconstructed proto language [^26]                                                        |
+| 43      | Indo Aryan          |                    |                    |                    |                          |                  | Indo Aryan Languages [^27]                                                                  |
+| 44      | Brahmi              |                    |                    |                    |                          |                  | The script to which most Indic scripts trace their lineage from [^28]                       |
 | 45      | Asokan Brahmi       |                    |                    |                    |                          |                  | The variant of brAhmi used in aSokan edicts                                                 |
 | 46      | Tamil Brahmi        |                    |                    |                    |                          |                  | The variant of brAhmi used for old tamiZ                                                    |
 | 47      | Nominative case     | pratama vibhakti   |                    |                    |                          |                  | Case 1                                                                                      |
@@ -162,9 +160,9 @@ za, bank, odd etc.
 | 52      | Genitive case       | ShaShTi vibhakti   |                    |                    |                          |                  | Case 6                                                                                      |
 | 53      | Locative case       | saptami vibhakthi  |                    |                    |                          |                  | Case 7                                                                                      |
 | 54      | Vocative case       | sambOdana vibhakti |                    |                    |                          |                  | Case 1a                                                                                     |
-| 55      | Kadamba script      |                    |                    |                    |                          | kadamba lipi     | The oldest script used to write old kannaDa - a flavor of brAhmi [^28]                      |
-| 56      | IAST                |                    |                    |                    |                          |                  | International Alphabet for Sanskrit Transliteration [^29]                                   |
-| 57      | HK                  |                    |                    |                    |                          |                  | Harvard Kyoto Protocol [^30]                                                                |
+| 55      | Kadamba script      |                    |                    |                    |                          | kadamba lipi     | The oldest script used to write old kannaDa - a flavor of brAhmi [^29]                      |
+| 56      | IAST                |                    |                    |                    |                          |                  | International Alphabet for Sanskrit Transliteration [^30]                                   |
+| 57      | HK                  |                    |                    |                    |                          |                  | Harvard Kyoto Protocol [^31]                                                                |
 | 58      | IK                  |                    |                    |                    |                          |                  | Informal kannaDa - adhoc transliteration into English. Varies with the person's background. |
 
 ## Background phonics, linguistics
@@ -196,11 +194,11 @@ PIE language families have been studied with the same scheme that
 applied by pANini for samskxrta.
 
 It's only with the advent of modern linguistics - language
-reconstruction [^31], notions of Sound change [^32], etymology [^33] and
-phylogeny [^34] that alternates have emerged. Although there's been many
+reconstruction [^32], notions of Sound change [^33], etymology [^34] and
+phylogeny [^35] that alternates have emerged. Although there's been many
 that are not mentioned here, AK rAmAnujan's attempts to write a
-generative grammar for kannaDa[^35] and the recent exhaustive work of
-Sankara BaT [^36] in writing a grammar for kannaDa from first principles
+generative grammar for kannaDa[^36] and the recent exhaustive work of
+Sankara BaT [^37] in writing a grammar for kannaDa from first principles
 which have resulted in a grammar which doesn't follow the same template
 of Samskxrta.
 
@@ -228,26 +226,26 @@ This proposal itself began due to various cultural factors:
 
 7.  Digital environments are only catching up to non-English content.
     Existing content is due to extraordinary efforts by individuals
-    rather than any degree of naturalness. See the story on Alar: [^37]
-    and kannaDa wiktionary: [^38]
+    rather than any degree of naturalness. See the story on Alar: [^38]
+    and kannaDa wiktionary: [^39]
 
 8.  Most of the letter counts/statistics in this write up came up due to
     a mixture of
 
-    - Playing wordalla: [^39] and switching between phone and laptop
+    - Playing wordalla: [^40] and switching between phone and laptop
       keyboards
     - Finding out that getting straightforward answers like - give me
       all 3 letter words is non-trivial in kannaDa (and any Indic
-      language) even with an excellent online dictionary like Alar [^40]
+      language) even with an excellent online dictionary like Alar [^41]
     - Discovering that 80% of 5 letter words are Sanskrit and highly
       obscure; later writing some wiki table generators for this writeup
-      [^41]
-    - Reading DNS Bhat [^42] and discovering that the character count
+      [^42]
+    - Reading DNS Bhat [^43] and discovering that the character count
       stats seem to support the linguistic claims
     - Playing with nushell after being frustrated with unicode support
-      in various terminal emulators [^43]
+      in various terminal emulators [^44]
     - Discovering how hard it is to use unicode in a programming
-      language and write code that looks natural in kannaDa [^44]
+      language and write code that looks natural in kannaDa [^45]
 
 9.  A lot of Indic language understanding falls neatly into language
     families. When expressed in a script that one can read (e.g.
@@ -262,16 +260,16 @@ This proposal itself began due to various cultural factors:
     Indian scripts due to the shared nagAri heritage. Southern Indian
     scripts have a long and wide history of writing and the statistics
     on Inscriptions found shows the same. E.g. tamiZ and kannaDa
-    inscriptions outrank evey other inscription found in India [^45].
+    inscriptions outrank evey other inscription found in India [^46].
     Due to the long history of usage, the divergence in scripts is
     higher. This makes it harder for people to read each others' scripts
     even though there is reasonable legibility across languages.
 
 12. The author, found to his surprise, that he could read 2 languages
     from a different part of the world: i. Old Persian (a dead language
-    in the middle east, written in Cuneiform [^46]) and ii. Avestan (a
+    in the middle east, written in Cuneiform [^47]) and ii. Avestan (a
     liturgical language of the Parsis who arrived in India a few
-    centuries ago [^47]). The author was unaware of the closer relations
+    centuries ago [^48]). The author was unaware of the closer relations
     between these languages and Sanskrit even after years of studying
     Sanskrit in school - due to the difference in scripts. In
     transliterated English, it can easily be seen that people who can
@@ -316,15 +314,15 @@ This proposal itself began due to various cultural factors:
 
 ## Goals and Non goals
 
-Eke prioritizes ellara kannaDa[^48] over formal kannaDa given its
+Eke prioritizes ellara kannaDa[^49] over formal kannaDa given its
 simplicity and implicit appeal to ease of use. Eke doesn't have the same
-goals as HK[^49]. HK aims to faithfully retain the original spelling in
+goals as HK[^50]. HK aims to faithfully retain the original spelling in
 devanAgari i.e. the original spelling in devaNagari can be reconstructed
 from text in HK.
 
 Eke also does not attempt to solve the spelling problems of English.
-Although there are several attempts to do so like Arpabet[^50], wiki
-pronunciation for English[^51] there's no clear consensus. IPA [^52] is
+Although there are several attempts to do so like Arpabet[^51], wiki
+pronunciation for English[^52] there's no clear consensus. IPA [^53] is
 quite complete but complex to learn and the extensive use of diacritics
 makes it difficult to use on standard desktop and phone keyboards.
 
@@ -1820,104 +1818,106 @@ TBD
 
 [^1]: <https://tinyurl.com/indicprogramming>
 
-[^2]: <https://en.wikipedia.org/wiki/Aspirated_consonant>
+[^2]: <https://www.bolochant.com/blog/sanskrit-pronunciation?srsltid=AfmBOoo4xJI5AgtG15ArUM_XFhj0cQFh1Pa27NCNLguGITuLwpzl-rjs>
 
-[^3]: <https://en.wikipedia.org/wiki/Voice_(phonetics)>
+[^3]: <https://en.wikipedia.org/wiki/Aspirated_consonant>
 
-[^4]: <https://en.wikipedia.org/wiki/Voicelessness>
+[^4]: <https://en.wikipedia.org/wiki/Voice_(phonetics)>
 
-[^5]: <https://en.wikipedia.org/wiki/Kannada#Writing_system>
+[^5]: <https://en.wikipedia.org/wiki/Voicelessness>
 
-[^6]: <https://en.wikipedia.org/wiki/Velar_consonant>
+[^6]: <https://en.wikipedia.org/wiki/Kannada#Writing_system>
 
-[^7]: <https://www.bolochant.com/blog/sanskrit-pronunciation?srsltid=AfmBOoo4xJI5AgtG15ArUM_XFhj0cQFh1Pa27NCNLguGITuLwpzl-rjs>
+[^7]: <https://en.wikipedia.org/wiki/Velar_consonant>
 
-[^8]: <https://en.wikipedia.org/wiki/Palatal_consonant>
+[^8]: <https://www.bolochant.com/blog/sanskrit-pronunciation?srsltid=AfmBOoo4xJI5AgtG15ArUM_XFhj0cQFh1Pa27NCNLguGITuLwpzl-rjs>
 
-[^9]: <https://www.bolochant.com/blog/sanskrit-pronunciation?srsltid=AfmBOoo4xJI5AgtG15ArUM_XFhj0cQFh1Pa27NCNLguGITuLwpzl-rjs>
+[^9]: <https://en.wikipedia.org/wiki/Palatal_consonant>
 
-[^10]: <https://en.wikipedia.org/wiki/Retroflex_consonant>
+[^10]: <https://www.bolochant.com/blog/sanskrit-pronunciation?srsltid=AfmBOoo4xJI5AgtG15ArUM_XFhj0cQFh1Pa27NCNLguGITuLwpzl-rjs>
 
-[^11]: <https://www.bolochant.com/blog/sanskrit-pronunciation?srsltid=AfmBOoo4xJI5AgtG15ArUM_XFhj0cQFh1Pa27NCNLguGITuLwpzl-rjs>
+[^11]: <https://en.wikipedia.org/wiki/Retroflex_consonant>
 
-[^12]: <https://en.wikipedia.org/wiki/Dental_consonant>
+[^12]: <https://www.bolochant.com/blog/sanskrit-pronunciation?srsltid=AfmBOoo4xJI5AgtG15ArUM_XFhj0cQFh1Pa27NCNLguGITuLwpzl-rjs>
 
-[^13]: <https://www.bolochant.com/blog/sanskrit-pronunciation?srsltid=AfmBOoo4xJI5AgtG15ArUM_XFhj0cQFh1Pa27NCNLguGITuLwpzl-rjs>
+[^13]: <https://en.wikipedia.org/wiki/Dental_consonant>
 
-[^14]: <https://en.wikipedia.org/wiki/Labial_consonant>
+[^14]: <https://www.bolochant.com/blog/sanskrit-pronunciation?srsltid=AfmBOoo4xJI5AgtG15ArUM_XFhj0cQFh1Pa27NCNLguGITuLwpzl-rjs>
 
-[^15]: <https://www.bolochant.com/blog/sanskrit-pronunciation?srsltid=AfmBOoo4xJI5AgtG15ArUM_XFhj0cQFh1Pa27NCNLguGITuLwpzl-rjs>
+[^15]: <https://en.wikipedia.org/wiki/Labial_consonant>
 
-[^16]: <https://en.wikipedia.org/wiki/Diphthong>
+[^16]: <https://www.bolochant.com/blog/sanskrit-pronunciation?srsltid=AfmBOoo4xJI5AgtG15ArUM_XFhj0cQFh1Pa27NCNLguGITuLwpzl-rjs>
 
-[^17]: <https://www.bolochant.com/blog/sanskrit-pronunciation?srsltid=AfmBOoo4xJI5AgtG15ArUM_XFhj0cQFh1Pa27NCNLguGITuLwpzl-rjs>
+[^17]: <https://en.wikipedia.org/wiki/Diphthong>
 
-[^18]: <https://en.wikipedia.org/wiki/ISO_15919>
+[^18]: <https://www.bolochant.com/blog/sanskrit-pronunciation?srsltid=AfmBOoo4xJI5AgtG15ArUM_XFhj0cQFh1Pa27NCNLguGITuLwpzl-rjs>
 
-[^19]: <https://en.wikipedia.org/wiki/International_Phonetic_Alphabet>
+[^19]: <https://en.wikipedia.org/wiki/ISO_15919>
 
-[^20]: <https://honalu.net/%e0%b2%8e%e0%b2%b2%e0%b3%8d%e0%b2%b2%e0%b2%b0%e0%b2%95%e0%b2%a8%e0%b3%8d%e0%b2%a8%e0%b2%a1/>
+[^20]: <https://en.wikipedia.org/wiki/International_Phonetic_Alphabet>
 
-[^21]: <https://en.wikipedia.org/wiki/Abugida>
+[^21]: <https://honalu.net/%e0%b2%8e%e0%b2%b2%e0%b3%8d%e0%b2%b2%e0%b2%b0%e0%b2%95%e0%b2%a8%e0%b3%8d%e0%b2%a8%e0%b2%a1/>
 
-[^22]: <https://en.wikipedia.org/wiki/Syllabary>
+[^22]: <https://en.wikipedia.org/wiki/Abugida>
 
-[^23]: <https://en.wikipedia.org/wiki/Proto-Indo-European_language>
+[^23]: <https://en.wikipedia.org/wiki/Syllabary>
 
-[^24]: <https://en.wikipedia.org/wiki/Dravidian_languages>
+[^24]: <https://en.wikipedia.org/wiki/Proto-Indo-European_language>
 
-[^25]: <https://en.wikipedia.org/wiki/Proto-Dravidian_language>
+[^25]: <https://en.wikipedia.org/wiki/Dravidian_languages>
 
-[^26]: <https://en.wikipedia.org/wiki/Indo-Aryan_languages>
+[^26]: <https://en.wikipedia.org/wiki/Proto-Dravidian_language>
 
-[^27]: <https://en.wikipedia.org/wiki/Brahmic_scripts>
+[^27]: <https://en.wikipedia.org/wiki/Indo-Aryan_languages>
 
-[^28]: <https://en.wikipedia.org/wiki/Kadamba_script>
+[^28]: <https://en.wikipedia.org/wiki/Brahmic_scripts>
 
-[^29]: <https://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration>
+[^29]: <https://en.wikipedia.org/wiki/Kadamba_script>
 
-[^30]: <https://en.wikipedia.org/wiki/Harvard-Kyoto>
+[^30]: <https://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration>
 
-[^31]: <https://en.wikipedia.org/wiki/Linguistic_reconstruction>
+[^31]: <https://en.wikipedia.org/wiki/Harvard-Kyoto>
 
-[^32]: <https://en.wikipedia.org/wiki/Sound_change>
+[^32]: <https://en.wikipedia.org/wiki/Linguistic_reconstruction>
 
-[^33]: <https://www.etymonline.com/>
+[^33]: <https://en.wikipedia.org/wiki/Sound_change>
 
-[^34]: <https://en.wikipedia.org/wiki/Phylogenetic_tree>
+[^34]: <https://www.etymonline.com/>
 
-[^35]: <https://theswissbay.ch/pdf/Books/Linguistics/Mega%20linguistics%20pack/Dravidian/Kannada%2C%20A%20Generative%20Grammar%20of%20%28Ramanujan%29.pdf>
+[^35]: <https://en.wikipedia.org/wiki/Phylogenetic_tree>
 
-[^36]: <http://dnshankarabhat.net/dr-d-n-shankara-bhat/>
+[^36]: <https://theswissbay.ch/pdf/Books/Linguistics/Mega%20linguistics%20pack/Dravidian/Kannada%2C%20A%20Generative%20Grammar%20of%20%28Ramanujan%29.pdf>
 
-[^37]: <https://zerodha.tech/blog/alar-the-making-of-an-open-source-dictionary/>
+[^37]: <http://dnshankarabhat.net/dr-d-n-shankara-bhat/>
 
-[^38]: <https://bangaloremirror.indiatimes.com/bangalore/others/kannada-wiktionary-wordsmiths-techies-vivek-shankar-prashant-soratur-sandeep-kambi-ratheesha-ratnakara/articleshow/45063040.cms>
+[^38]: <https://zerodha.tech/blog/alar-the-making-of-an-open-source-dictionary/>
 
-[^39]: <https://wordalla.online/>
+[^39]: <https://bangaloremirror.indiatimes.com/bangalore/others/kannada-wiktionary-wordsmiths-techies-vivek-shankar-prashant-soratur-sandeep-kambi-ratheesha-ratnakara/articleshow/45063040.cms>
 
-[^40]: <https://alar.ink/>
+[^40]: <https://wordalla.online/>
 
-[^41]: <https://github.com/vwulf/ettuge/tree/master/src/main/nu>
+[^41]: <https://alar.ink/>
 
-[^42]: <http://dnshankarabhat.net/dr-d-n-shankara-bhat/>
+[^42]: <https://github.com/vwulf/ettuge/tree/master/src/main/nu>
 
-[^43]: <https://github.com/vwulf/ettuge/blob/master/src/main/md/haskell/%E0%B2%95%E0%B2%B3%E0%B3%8D%E0%B2%B3.md#the-state-of-indic-languages-as-programming-tools>
+[^43]: <http://dnshankarabhat.net/dr-d-n-shankara-bhat/>
 
 [^44]: <https://github.com/vwulf/ettuge/blob/master/src/main/md/haskell/%E0%B2%95%E0%B2%B3%E0%B3%8D%E0%B2%B3.md#the-state-of-indic-languages-as-programming-tools>
 
-[^45]: <https://www.avesta.org/yasna/index.html#y0>
+[^45]: <https://github.com/vwulf/ettuge/blob/master/src/main/md/haskell/%E0%B2%95%E0%B2%B3%E0%B3%8D%E0%B2%B3.md#the-state-of-indic-languages-as-programming-tools>
 
-[^46]: <https://www.livius.org/sources/content/behistun-persian-text/behistun-t-01/>
+[^46]: <https://www.avesta.org/yasna/index.html#y0>
 
-[^47]: <https://www.avesta.org/yasna/index.html#y0>
+[^47]: <https://www.livius.org/sources/content/behistun-persian-text/behistun-t-01/>
 
-[^48]: <https://honalu.net/%e0%b2%8e%e0%b2%b2%e0%b3%8d%e0%b2%b2%e0%b2%b0%e0%b2%95%e0%b2%a8%e0%b3%8d%e0%b2%a8%e0%b2%a1/>
+[^48]: <https://www.avesta.org/yasna/index.html#y0>
 
-[^49]: <https://en.wikipedia.org/wiki/Harvard-Kyoto>
+[^49]: <https://honalu.net/%e0%b2%8e%e0%b2%b2%e0%b3%8d%e0%b2%b2%e0%b2%b0%e0%b2%95%e0%b2%a8%e0%b3%8d%e0%b2%a8%e0%b2%a1/>
 
-[^50]: <https://en.wikipedia.org/wiki/ARPABET>
+[^50]: <https://en.wikipedia.org/wiki/Harvard-Kyoto>
 
-[^51]: <https://en.wikipedia.org/wiki/Pronunciation_respelling_for_English>
+[^51]: <https://en.wikipedia.org/wiki/ARPABET>
 
-[^52]: <https://en.wikipedia.org/wiki/International_Phonetic_Alphabet>
+[^52]: <https://en.wikipedia.org/wiki/Pronunciation_respelling_for_English>
+
+[^53]: <https://en.wikipedia.org/wiki/International_Phonetic_Alphabet>
