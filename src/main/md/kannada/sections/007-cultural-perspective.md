@@ -22,7 +22,7 @@ apabramhSAs (or corrupted speech). In the drive for standardization, non
 PIE language families have been studied with the same scheme that
 applied by pANini for samskxrta.
 
-It's only with the advent of modern linguistics, etymology and phylogeny
+It's only with the advent of modern linguistics - language reconstruction [^64], notions of Sound change [^63], etymology [^62] and phylogeny [^61]
 that alternates have emerged. Although there's been many that are not
 mentioned here, AK rAmAnujan's attempts to write a generative grammar
 for kannaDa[^29] and the recent exhaustive work of Sankara BaT [^1] in writing a
