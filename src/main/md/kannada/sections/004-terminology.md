@@ -40,7 +40,7 @@
 | 34 | Eke | | | | | | Eke transliteration scheme, as is.|
 | 35 | ellara kannada | | | | | | A linguistic movement created by DNS Bhat [^2] |
 | 36 | Eke (ek) | | | | | | Eke transliteration using ellara kannaDa simplifications i.e. drop the h when appropriate |
-| 37 | abugida | Alpha-syllabary | | | akShara | | akSara/barige | [^24]|
+| 37 | abugida | Alpha-syllabary | | akShara |  | akSara/barige | [^24]|
 | 38 | syllabary | | | | | | Scripts that use symbols for syllables [^36]|
 | 39 | alphasyllabary | | | | | | Same as abugida or akSara |
 | 40 | PIE | | | | | | Proto Indo European [^35] |
