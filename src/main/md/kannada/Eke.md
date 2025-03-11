@@ -195,12 +195,14 @@ apabramhSAs (or corrupted speech). In the drive for standardization, non
 PIE language families have been studied with the same scheme that
 applied by pANini for samskxrta.
 
-It's only with the advent of modern linguistics, etymology and phylogeny
-that alternates have emerged. Although there's been many that are not
-mentioned here, AK rAmAnujan's attempts to write a generative grammar
-for kannaDa[^31] and the recent exhaustive work of Sankara BaT [^32] in
-writing a grammar for kannaDa from first principles which have resulted
-in a grammar which doesn't follow the same template of Samskxrta.
+It's only with the advent of modern linguistics - language
+reconstruction [^31], notions of Sound change [^32], etymology [^33] and
+phylogeny [^34] that alternates have emerged. Although there's been many
+that are not mentioned here, AK rAmAnujan's attempts to write a
+generative grammar for kannaDa[^35] and the recent exhaustive work of
+Sankara BaT [^36] in writing a grammar for kannaDa from first principles
+which have resulted in a grammar which doesn't follow the same template
+of Samskxrta.
 
 This proposal itself began due to various cultural factors:
 
@@ -226,26 +228,26 @@ This proposal itself began due to various cultural factors:
 
 7.  Digital environments are only catching up to non-English content.
     Existing content is due to extraordinary efforts by individuals
-    rather than any degree of naturalness. See the story on Alar: [^33]
-    and kannaDa wiktionary: [^34]
+    rather than any degree of naturalness. See the story on Alar: [^37]
+    and kannaDa wiktionary: [^38]
 
 8.  Most of the letter counts/statistics in this write up came up due to
     a mixture of
 
-    - Playing wordalla: [^35] and switching between phone and laptop
+    - Playing wordalla: [^39] and switching between phone and laptop
       keyboards
     - Finding out that getting straightforward answers like - give me
       all 3 letter words is non-trivial in kannaDa (and any Indic
-      language) even with an excellent online dictionary like Alar [^36]
+      language) even with an excellent online dictionary like Alar [^40]
     - Discovering that 80% of 5 letter words are Sanskrit and highly
       obscure; later writing some wiki table generators for this writeup
-      [^37]
-    - Reading DNS Bhat [^38] and discovering that the character count
+      [^41]
+    - Reading DNS Bhat [^42] and discovering that the character count
       stats seem to support the linguistic claims
     - Playing with nushell after being frustrated with unicode support
-      in various terminal emulators [^39]
+      in various terminal emulators [^43]
     - Discovering how hard it is to use unicode in a programming
-      language and write code that looks natural in kannaDa [^40]
+      language and write code that looks natural in kannaDa [^44]
 
 9.  A lot of Indic language understanding falls neatly into language
     families. When expressed in a script that one can read (e.g.
@@ -260,16 +262,16 @@ This proposal itself began due to various cultural factors:
     Indian scripts due to the shared nagAri heritage. Southern Indian
     scripts have a long and wide history of writing and the statistics
     on Inscriptions found shows the same. E.g. tamiZ and kannaDa
-    inscriptions outrank evey other inscription found in India [^41].
+    inscriptions outrank evey other inscription found in India [^45].
     Due to the long history of usage, the divergence in scripts is
     higher. This makes it harder for people to read each others' scripts
     even though there is reasonable legibility across languages.
 
 12. The author, found to his surprise, that he could read 2 languages
     from a different part of the world: i. Old Persian (a dead language
-    in the middle east, written in Cuneiform [^42]) and ii. Avestan (a
+    in the middle east, written in Cuneiform [^46]) and ii. Avestan (a
     liturgical language of the Parsis who arrived in India a few
-    centuries ago [^43]). The author was unaware of the closer relations
+    centuries ago [^47]). The author was unaware of the closer relations
     between these languages and Sanskrit even after years of studying
     Sanskrit in school - due to the difference in scripts. In
     transliterated English, it can easily be seen that people who can
@@ -314,15 +316,15 @@ This proposal itself began due to various cultural factors:
 
 ## Goals and Non goals
 
-Eke prioritizes ellara kannaDa[^44] over formal kannaDa given its
+Eke prioritizes ellara kannaDa[^48] over formal kannaDa given its
 simplicity and implicit appeal to ease of use. Eke doesn't have the same
-goals as HK[^45]. HK aims to faithfully retain the original spelling in
+goals as HK[^49]. HK aims to faithfully retain the original spelling in
 devanAgari i.e. the original spelling in devaNagari can be reconstructed
 from text in HK.
 
 Eke also does not attempt to solve the spelling problems of English.
-Although there are several attempts to do so like Arpabet[^46], wiki
-pronunciation for English[^47] there's no clear consensus. IPA [^48] is
+Although there are several attempts to do so like Arpabet[^50], wiki
+pronunciation for English[^51] there's no clear consensus. IPA [^52] is
 quite complete but complex to learn and the extensive use of diacritics
 makes it difficult to use on standard desktop and phone keyboards.
 
@@ -1795,7 +1797,7 @@ response.
 
 ## References
 
-[^49][^50][^51][^52][^53][^54][^55][^56][^57][^58][^59][^60][^61][^62][^63][^64][^65][^66][^67][^68][^69][^70][^71][^72][^73][^74][^75][^76][^77][^78][^79][^80][^81][^82][^83][^84][^85][^86][^87][^88][^89][^90][^91][^92][^93][^94][^95][^96][^97][^98][^99][^100][^101][^102][^103][^104][^105][^106][^107][^108]
+[^53][^54][^55][^56][^57][^58][^59][^60][^61][^62][^63][^64][^65][^66][^67][^68][^69][^70][^71][^72][^73][^74][^75][^76][^77][^78][^79][^80][^81][^82][^83][^84][^85][^86][^87][^88][^89][^90][^91][^92][^93][^94][^95][^96][^97][^98][^99][^100][^101][^102][^103][^104][^105][^106][^107][^108][^109][^110][^111][^112][^113][^114][^115][^116]
 
 ## Consonant Clusters
 
@@ -1878,158 +1880,174 @@ TBD
 
 [^30]: <https://en.wikipedia.org/wiki/Harvard-Kyoto>
 
-[^31]: <https://theswissbay.ch/pdf/Books/Linguistics/Mega%20linguistics%20pack/Dravidian/Kannada%2C%20A%20Generative%20Grammar%20of%20%28Ramanujan%29.pdf>
+[^31]: <https://en.wikipedia.org/wiki/Linguistic_reconstruction>
 
-[^32]: <http://dnshankarabhat.net/dr-d-n-shankara-bhat/>
+[^32]: <https://en.wikipedia.org/wiki/Sound_change>
 
-[^33]: <https://zerodha.tech/blog/alar-the-making-of-an-open-source-dictionary/>
+[^33]: <https://www.etymonline.com/>
 
-[^34]: <https://bangaloremirror.indiatimes.com/bangalore/others/kannada-wiktionary-wordsmiths-techies-vivek-shankar-prashant-soratur-sandeep-kambi-ratheesha-ratnakara/articleshow/45063040.cms>
+[^34]: <https://en.wikipedia.org/wiki/Phylogenetic_tree>
 
-[^35]: <https://wordalla.online/>
+[^35]: <https://theswissbay.ch/pdf/Books/Linguistics/Mega%20linguistics%20pack/Dravidian/Kannada%2C%20A%20Generative%20Grammar%20of%20%28Ramanujan%29.pdf>
 
-[^36]: <https://alar.ink/>
+[^36]: <http://dnshankarabhat.net/dr-d-n-shankara-bhat/>
 
-[^37]: <https://github.com/vwulf/ettuge/tree/master/src/main/nu>
+[^37]: <https://zerodha.tech/blog/alar-the-making-of-an-open-source-dictionary/>
 
-[^38]: <http://dnshankarabhat.net/dr-d-n-shankara-bhat/>
+[^38]: <https://bangaloremirror.indiatimes.com/bangalore/others/kannada-wiktionary-wordsmiths-techies-vivek-shankar-prashant-soratur-sandeep-kambi-ratheesha-ratnakara/articleshow/45063040.cms>
 
-[^39]: <https://github.com/vwulf/ettuge/blob/master/src/main/md/haskell/%E0%B2%95%E0%B2%B3%E0%B3%8D%E0%B2%B3.md#the-state-of-indic-languages-as-programming-tools>
+[^39]: <https://wordalla.online/>
 
-[^40]: <https://github.com/vwulf/ettuge/blob/master/src/main/md/haskell/%E0%B2%95%E0%B2%B3%E0%B3%8D%E0%B2%B3.md#the-state-of-indic-languages-as-programming-tools>
+[^40]: <https://alar.ink/>
 
-[^41]: <https://www.avesta.org/yasna/index.html#y0>
+[^41]: <https://github.com/vwulf/ettuge/tree/master/src/main/nu>
 
-[^42]: <https://www.livius.org/sources/content/behistun-persian-text/behistun-t-01/>
+[^42]: <http://dnshankarabhat.net/dr-d-n-shankara-bhat/>
 
-[^43]: <https://www.avesta.org/yasna/index.html#y0>
+[^43]: <https://github.com/vwulf/ettuge/blob/master/src/main/md/haskell/%E0%B2%95%E0%B2%B3%E0%B3%8D%E0%B2%B3.md#the-state-of-indic-languages-as-programming-tools>
 
-[^44]: <https://honalu.net/%e0%b2%8e%e0%b2%b2%e0%b3%8d%e0%b2%b2%e0%b2%b0%e0%b2%95%e0%b2%a8%e0%b3%8d%e0%b2%a8%e0%b2%a1/>
+[^44]: <https://github.com/vwulf/ettuge/blob/master/src/main/md/haskell/%E0%B2%95%E0%B2%B3%E0%B3%8D%E0%B2%B3.md#the-state-of-indic-languages-as-programming-tools>
 
-[^45]: <https://en.wikipedia.org/wiki/Harvard-Kyoto>
+[^45]: <https://www.avesta.org/yasna/index.html#y0>
 
-[^46]: <https://en.wikipedia.org/wiki/ARPABET>
+[^46]: <https://www.livius.org/sources/content/behistun-persian-text/behistun-t-01/>
 
-[^47]: <https://en.wikipedia.org/wiki/Pronunciation_respelling_for_English>
+[^47]: <https://www.avesta.org/yasna/index.html#y0>
 
-[^48]: <https://en.wikipedia.org/wiki/International_Phonetic_Alphabet>
+[^48]: <https://honalu.net/%e0%b2%8e%e0%b2%b2%e0%b3%8d%e0%b2%b2%e0%b2%b0%e0%b2%95%e0%b2%a8%e0%b3%8d%e0%b2%a8%e0%b2%a1/>
 
-[^49]: <http://dnshankarabhat.net/dr-d-n-shankara-bhat/>
+[^49]: <https://en.wikipedia.org/wiki/Harvard-Kyoto>
 
-[^50]: <https://honalu.net/%e0%b2%8e%e0%b2%b2%e0%b3%8d%e0%b2%b2%e0%b2%b0%e0%b2%95%e0%b2%a8%e0%b3%8d%e0%b2%a8%e0%b2%a1/>
+[^50]: <https://en.wikipedia.org/wiki/ARPABET>
 
-[^51]: <https://en.wikipedia.org/wiki/ARPABET>
+[^51]: <https://en.wikipedia.org/wiki/Pronunciation_respelling_for_English>
 
-[^52]: <https://en.wikipedia.org/wiki/Pronunciation_respelling_for_English>
+[^52]: <https://en.wikipedia.org/wiki/International_Phonetic_Alphabet>
 
-[^53]: <https://anglish.org/wiki/Anglish>
+[^53]: <http://dnshankarabhat.net/dr-d-n-shankara-bhat/>
 
-[^54]: <https://kn.wiktionary.org/wiki/%E0%B2%AE%E0%B3%81%E0%B2%96%E0%B3%8D%E0%B2%AF_%E0%B2%AA%E0%B3%81%E0%B2%9F>
+[^54]: <https://honalu.net/%e0%b2%8e%e0%b2%b2%e0%b3%8d%e0%b2%b2%e0%b2%b0%e0%b2%95%e0%b2%a8%e0%b3%8d%e0%b2%a8%e0%b2%a1/>
 
-[^55]: <https://alar.ink/>
+[^55]: <https://en.wikipedia.org/wiki/ARPABET>
 
-[^56]: <https://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration>
+[^56]: <https://en.wikipedia.org/wiki/Pronunciation_respelling_for_English>
 
-[^57]: <https://en.wikipedia.org/wiki/Harvard-Kyoto>
+[^57]: <https://anglish.org/wiki/Anglish>
 
-[^58]: <https://en.wikipedia.org/wiki/International_Phonetic_Alphabet>
+[^58]: <https://kn.wiktionary.org/wiki/%E0%B2%AE%E0%B3%81%E0%B2%96%E0%B3%8D%E0%B2%AF_%E0%B2%AA%E0%B3%81%E0%B2%9F>
 
-[^59]: <https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key>
+[^59]: <https://alar.ink/>
 
-[^60]: <https://en.wikipedia.org/wiki/Brahmic_scripts>
+[^60]: <https://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration>
 
-[^61]: <https://en.wikipedia.org/wiki/ISO_15919>
+[^61]: <https://en.wikipedia.org/wiki/Harvard-Kyoto>
 
-[^62]: <https://en.wikipedia.org/wiki/Kannada_script>
+[^62]: <https://en.wikipedia.org/wiki/International_Phonetic_Alphabet>
 
-[^63]: <https://wordalla.online/>
+[^63]: <https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key>
 
-[^64]: <https://www.bolochant.com/blog/sanskrit-pronunciation?srsltid=AfmBOoo4xJI5AgtG15ArUM_XFhj0cQFh1Pa27NCNLguGITuLwpzl-rjs>
+[^64]: <https://en.wikipedia.org/wiki/Brahmic_scripts>
 
-[^65]: <https://theleaflet.in/leaflet-specials/plain-languages-in-a-complex-country>
+[^65]: <https://en.wikipedia.org/wiki/ISO_15919>
 
-[^66]: <https://timesofindia.indiatimes.com/city/bengaluru/drive-to-sanitise-kannadalanguage-kicks-up-a-row/articleshow/88798079.cms>
+[^66]: <https://en.wikipedia.org/wiki/Kannada_script>
 
-[^67]: <https://en.wikipedia.org/wiki/Dravidian_languages>
+[^67]: <https://wordalla.online/>
 
-[^68]: <https://en.wikipedia.org/wiki/Proto-Dravidian_language>
+[^68]: <https://www.bolochant.com/blog/sanskrit-pronunciation?srsltid=AfmBOoo4xJI5AgtG15ArUM_XFhj0cQFh1Pa27NCNLguGITuLwpzl-rjs>
 
-[^69]: <https://en.wiktionary.org/wiki/Appendix:Proto-Dravidian_reconstructions>
+[^69]: <https://theleaflet.in/leaflet-specials/plain-languages-in-a-complex-country>
 
-[^70]: <https://en.wikipedia.org/wiki/Kadamba_script>
+[^70]: <https://timesofindia.indiatimes.com/city/bengaluru/drive-to-sanitise-kannadalanguage-kicks-up-a-row/articleshow/88798079.cms>
 
-[^71]: <https://mythicsociety.github.io/AksharaBhandara/#/learn/Varnamale>
+[^71]: <https://en.wikipedia.org/wiki/Dravidian_languages>
 
-[^72]: <https://en.wikipedia.org/wiki/Abugida>
+[^72]: <https://en.wikipedia.org/wiki/Proto-Dravidian_language>
 
-[^73]: <https://en.wikipedia.org/wiki/Mankuthimmana_Kagga>
+[^73]: <https://en.wiktionary.org/wiki/Appendix:Proto-Dravidian_reconstructions>
 
-[^74]: <https://kn.wikisource.org/wiki/%E0%B2%89%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B2%B5%E0%B2%B0%E0%B3%81_%E0%B2%B6%E0%B2%BF%E0%B2%B5%E0%B2%BE%E0%B2%B2%E0%B2%AF_%E0%B2%AE%E0%B2%BE%E0%B2%A1%E0%B2%BF%E0%B2%B9%E0%B2%B0%E0%B3%81>
+[^74]: <https://en.wikipedia.org/wiki/Kadamba_script>
 
-[^75]: <https://en.wikipedia.org/wiki/Romanization_of_Japanese>
+[^75]: <https://mythicsociety.github.io/AksharaBhandara/#/learn/Varnamale>
 
-[^76]: <https://honalu.net/2013/05/29/%E0%B2%B6%E0%B2%AC%E0%B3%8D%E0%B2%A6%E0%B2%AE%E0%B2%A3%E0%B2%BF%E0%B2%A6%E0%B2%B0%E2%80%8D%E0%B3%8D%E0%B2%AA%E0%B2%A3%E0%B2%A6%E0%B2%B2%E0%B3%8D%E0%B2%B2%E0%B2%BF-%E0%B2%A4%E0%B2%B3%E0%B2%AE-3/>
+[^76]: <https://en.wikipedia.org/wiki/Abugida>
 
-[^77]: <https://theswissbay.ch/pdf/Books/Linguistics/Mega%20linguistics%20pack/Dravidian/Kannada%2C%20A%20Generative%20Grammar%20of%20%28Ramanujan%29.pdf>
+[^77]: <https://en.wikipedia.org/wiki/Mankuthimmana_Kagga>
 
-[^78]: <https://tinyurl.com/indicprogramming>
+[^78]: <https://kn.wikisource.org/wiki/%E0%B2%89%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B2%B5%E0%B2%B0%E0%B3%81_%E0%B2%B6%E0%B2%BF%E0%B2%B5%E0%B2%BE%E0%B2%B2%E0%B2%AF_%E0%B2%AE%E0%B2%BE%E0%B2%A1%E0%B2%BF%E0%B2%B9%E0%B2%B0%E0%B3%81>
 
-[^79]: <https://www.livius.org/sources/content/behistun-persian-text/behistun-t-01/>
+[^79]: <https://en.wikipedia.org/wiki/Romanization_of_Japanese>
 
-[^80]: <https://www.avesta.org/yasna/index.html#y0>
+[^80]: <https://honalu.net/2013/05/29/%E0%B2%B6%E0%B2%AC%E0%B3%8D%E0%B2%A6%E0%B2%AE%E0%B2%A3%E0%B2%BF%E0%B2%A6%E0%B2%B0%E2%80%8D%E0%B3%8D%E0%B2%AA%E0%B2%A3%E0%B2%A6%E0%B2%B2%E0%B3%8D%E0%B2%B2%E0%B2%BF-%E0%B2%A4%E0%B2%B3%E0%B2%AE-3/>
 
-[^81]: <https://x.com/ybharath77/status/1563245639667896321?s=61>
+[^81]: <https://theswissbay.ch/pdf/Books/Linguistics/Mega%20linguistics%20pack/Dravidian/Kannada%2C%20A%20Generative%20Grammar%20of%20%28Ramanujan%29.pdf>
 
-[^82]: <https://www.whatisindia.com/inscriptions/>
+[^82]: <https://tinyurl.com/indicprogramming>
 
-[^83]: <https://en.wikipedia.org/wiki/Proto-Indo-European_language>
+[^83]: <https://www.livius.org/sources/content/behistun-persian-text/behistun-t-01/>
 
-[^84]: <https://en.wikipedia.org/wiki/Syllabary>
+[^84]: <https://www.avesta.org/yasna/index.html#y0>
 
-[^85]: <https://en.wikipedia.org/wiki/Labial_consonant>
+[^85]: <https://x.com/ybharath77/status/1563245639667896321?s=61>
 
-[^86]: <https://en.wikipedia.org/wiki/Dental_consonant>
+[^86]: <https://www.whatisindia.com/inscriptions/>
 
-[^87]: <https://en.wikipedia.org/wiki/Alveolar_consonant>
+[^87]: <https://en.wikipedia.org/wiki/Proto-Indo-European_language>
 
-[^88]: <https://en.wikipedia.org/wiki/Retroflex_consonant>
+[^88]: <https://en.wikipedia.org/wiki/Syllabary>
 
-[^89]: <https://en.wikipedia.org/wiki/Palatal_consonant>
+[^89]: <https://en.wikipedia.org/wiki/Labial_consonant>
 
-[^90]: <https://en.wikipedia.org/wiki/Velar_consonant>
+[^90]: <https://en.wikipedia.org/wiki/Dental_consonant>
 
-[^91]: <https://en.wikipedia.org/wiki/Glottal_consonant>
+[^91]: <https://en.wikipedia.org/wiki/Alveolar_consonant>
 
-[^92]: <https://en.wikipedia.org/wiki/Nasal_consonant>
+[^92]: <https://en.wikipedia.org/wiki/Retroflex_consonant>
 
-[^93]: <https://en.wikipedia.org/wiki/Plosive>
+[^93]: <https://en.wikipedia.org/wiki/Palatal_consonant>
 
-[^94]: <https://en.wikipedia.org/wiki/Semivowel>
+[^94]: <https://en.wikipedia.org/wiki/Velar_consonant>
 
-[^95]: <https://en.wikipedia.org/wiki/Rhotic_consonant>
+[^95]: <https://en.wikipedia.org/wiki/Glottal_consonant>
 
-[^96]: <https://en.wikipedia.org/wiki/Lateral_consonant>
+[^96]: <https://en.wikipedia.org/wiki/Nasal_consonant>
 
-[^97]: <https://en.wikipedia.org/wiki/Diphthong>
+[^97]: <https://en.wikipedia.org/wiki/Plosive>
 
-[^98]: <https://en.wikipedia.org/wiki/ISO_15919>
+[^98]: <https://en.wikipedia.org/wiki/Semivowel>
 
-[^99]: <https://en.wikipedia.org/wiki/Indo-Aryan_languages>
+[^99]: <https://en.wikipedia.org/wiki/Rhotic_consonant>
 
-[^100]: <https://en.wikipedia.org/wiki/Aspirated_consonant>
+[^100]: <https://en.wikipedia.org/wiki/Lateral_consonant>
 
-[^101]: <https://en.wikipedia.org/wiki/Voice_(phonetics)>
+[^101]: <https://en.wikipedia.org/wiki/Diphthong>
 
-[^102]: <https://en.wikipedia.org/wiki/Voicelessness>
+[^102]: <https://en.wikipedia.org/wiki/ISO_15919>
 
-[^103]: <https://en.wikipedia.org/wiki/Tenuis_consonant>
+[^103]: <https://en.wikipedia.org/wiki/Indo-Aryan_languages>
 
-[^104]: <https://en.wikipedia.org/wiki/Kannada#Writing_system>
+[^104]: <https://en.wikipedia.org/wiki/Aspirated_consonant>
 
-[^105]: <https://github.com/vwulf/ettuge/blob/master/src/main/md/haskell/%E0%B2%95%E0%B2%B3%E0%B3%8D%E0%B2%B3.md#the-state-of-indic-languages-as-programming-tools>
+[^105]: <https://en.wikipedia.org/wiki/Voice_(phonetics)>
 
-[^106]: <https://github.com/vwulf/ettuge/tree/master/src/main/nu>
+[^106]: <https://en.wikipedia.org/wiki/Voicelessness>
 
-[^107]: <https://zerodha.tech/blog/alar-the-making-of-an-open-source-dictionary/>
+[^107]: <https://en.wikipedia.org/wiki/Tenuis_consonant>
 
-[^108]: <https://bangaloremirror.indiatimes.com/bangalore/others/kannada-wiktionary-wordsmiths-techies-vivek-shankar-prashant-soratur-sandeep-kambi-ratheesha-ratnakara/articleshow/45063040.cms>
+[^108]: <https://en.wikipedia.org/wiki/Kannada#Writing_system>
+
+[^109]: <https://github.com/vwulf/ettuge/blob/master/src/main/md/haskell/%E0%B2%95%E0%B2%B3%E0%B3%8D%E0%B2%B3.md#the-state-of-indic-languages-as-programming-tools>
+
+[^110]: <https://github.com/vwulf/ettuge/tree/master/src/main/nu>
+
+[^111]: <https://zerodha.tech/blog/alar-the-making-of-an-open-source-dictionary/>
+
+[^112]: <https://bangaloremirror.indiatimes.com/bangalore/others/kannada-wiktionary-wordsmiths-techies-vivek-shankar-prashant-soratur-sandeep-kambi-ratheesha-ratnakara/articleshow/45063040.cms>
+
+[^113]: <https://en.wikipedia.org/wiki/Phylogenetic_tree>
+
+[^114]: <https://www.etymonline.com/>
+
+[^115]: <https://en.wikipedia.org/wiki/Sound_change>
+
+[^116]: <https://en.wikipedia.org/wiki/Linguistic_reconstruction>
