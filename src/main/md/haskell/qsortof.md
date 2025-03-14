@@ -300,10 +300,10 @@ ghci>:set +t
 ghci> import System.Random
 ghci> pureGen = mkStdGen 137
 ghci> rs = take 10000000 randomRs (10, 10000) pureGen
-ghci> qsort ra
+ghci> qsort rs
 ghci> qsort' rs
 ```
-However interestingly the naive version outperforms the version with recursion-schemes as the inputs grow: an issue that needs more profiling to get to the bottom of.
+However interestingly the naive version outperforms the version with recursion-schemes as the inputs grow: an issue that needs more profiling to get to the bottom of. Its good to know that neither version overflows the stack even though the laptop - a first generation mac m1 gets quite warm churning all those numbers.
 
 ### References
 [^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22]
