@@ -240,6 +240,8 @@ hylo f g = h where h = f . fmap h . g
 
 ```
 
+To understand recursion schemes from a theoretical perspective F* algebras are helpful. A category theoretic explanation is provided here: [^29]. However this is not necessarily a design overview of the recurion-schemes library itself.
+
 Unlike the prelude, recursion-schemes uses a slightly different structure for defining the base cases. Note the "(Base t a -> a)". Instead of using a Maybe to construct/destruct a list, it uses a Cons structure that is more amenable to handle recursion schemes. E.g. See [^28]
 
 ```
@@ -270,6 +272,38 @@ And voila - recursion without hand coding. And further, using hylomorphism guara
 
 There is a quick sort example in [^27] which uses a hylomorphism to transform the sublists on a pivot into Trees that notionally exist only for the sake of merging. It does not do an in-place imperative quick sort but avoids creating a full-fledged tree and then collapsing it. Instead it builds one step of a Tree at a time and collapses into a list, sorting along the way.
 
+Given that a solution for avoiding stack overflow for very large numbers was in sight - Things that recurse multiple times are usually harder to
+make tail recursive. The solutions in [^21] make use of an explicit auxiliary data structure like an immutable list, stack or queue to ensure that it can be made tail recursive. However with recursion-schemes, we can just use the library appropriately and get the results we need.
+
+This code is mostly the version in the example with minor modifications using the internal methods developed earlier. This is going to be useful for parameterizing the sort by different pivot strategies.
+
+```
+data BinTreeF a b = Tip | Branch b a b deriving (Functor)
+
+qsort' :: (Ord a) => [a] -> [a]
+qsort' = refold merge split where
+  merge :: (Ord a) => BinTreeF a [a] -> [a]
+  merge Tip = []
+  merge (Branch lt x gt) = lt ++ [x] ++ gt
+
+  split :: (Ord a) => [a] -> BinTreeF a [a]
+  split [] = Tip
+  split (x:xs) = Branch lt x gt where
+    (lt, gt) = foldl'
+                  (\ (lt, gt) elem ->
+                     if elem < x then (elem:lt, gt) else (lt, elem:gt)) 
+                  ([], []) xs
+```
+
+```
+ghci>:set +t
+ghci> import System.Random
+ghci> pureGen = mkStdGen 137
+ghci> rs = take 10000000 randomRs (10, 10000) pureGen
+ghci> qsort ra
+ghci> qsort' rs
+```
+However interestingly the naive version outperforms the version with recursion-schemes as the inputs grow: an issue that needs more profiling to get to the bottom of.
 
 ### References
 [^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22]
@@ -302,3 +336,4 @@ There is a quick sort example in [^27] which uses a hylomorphism to transform th
 [^26]: https://x.com/vishwasms/status/1897230479088296057?s=61
 [^27]: https://github.com/recursion-schemes/recursion-schemes/blob/master/src/Data/Functor/Foldable.hs
 [^28]: https://github.com/recursion-schemes/recursion-schemes/blob/master/src/Data/Functor/Base.hs
+[^29]: https://bartoszmilewski.com/2017/02/28/f-algebras/
