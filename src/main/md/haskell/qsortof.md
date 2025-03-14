@@ -301,6 +301,8 @@ qsort' = refold merge split where
                   ([], [], []) xs```
 
 ```
+
+```
 ghci>:set +t
 ghci> import System.Random
 ghci> pureGen = mkStdGen 137
@@ -310,6 +312,7 @@ ghci> qsort rs
 ghci> qsort' rs
 (169.55 secs, 99,502,972,936 bytes)
 ```
+
 The naive and the recursion-schemes perfomrm almost identically once similar logic is used in both. Its good to know that neither version overflows the stack (primarily due to haskell's graph reduction scheme unlike strict languages) even though the laptop - a first generation mac m1 gets quite warm churning all those numbers.
 
 More general morphisms are discussed in [^30]
