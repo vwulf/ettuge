@@ -305,6 +305,8 @@ ghci> qsort' rs
 ```
 However interestingly the naive version outperforms the version with recursion-schemes as the inputs grow: an issue that needs more profiling to get to the bottom of. Its good to know that neither version overflows the stack even though the laptop - a first generation mac m1 gets quite warm churning all those numbers.
 
+More general morphisms are discussed in [^30]
+
 ### References
 [^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22]
 
@@ -337,3 +339,4 @@ However interestingly the naive version outperforms the version with recursion-s
 [^27]: https://github.com/recursion-schemes/recursion-schemes/blob/master/src/Data/Functor/Foldable.hs
 [^28]: https://github.com/recursion-schemes/recursion-schemes/blob/master/src/Data/Functor/Base.hs
 [^29]: https://bartoszmilewski.com/2017/02/28/f-algebras/
+[^30]: https://blog.sumtypeofway.com/posts/recursion-schemes-part-5.html
