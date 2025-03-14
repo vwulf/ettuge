@@ -272,28 +272,33 @@ And voila - recursion without hand coding. And further, using hylomorphism guara
 
 There is a quick sort example in [^27] which uses a hylomorphism to transform the sublists on a pivot into Trees that notionally exist only for the sake of merging. It does not do an in-place imperative quick sort but avoids creating a full-fledged tree and then collapsing it. Instead it builds one step of a Tree at a time and collapses into a list, sorting along the way.
 
-Given that a solution for avoiding stack overflow for very large numbers was in sight - Things that recurse multiple times are usually harder to
-make tail recursive. The solutions in [^21] make use of an explicit auxiliary data structure like an immutable list, stack or queue to ensure that it can be made tail recursive. However with recursion-schemes, we can just use the library appropriately and get the results we need.
+Given that a solution for avoiding direct recursion altogether was in sight - Things that recurse multiple times are usually harder to
+make tail recursive - I decided to just complete the quick sort using recursion-schemes. The solutions in [^21] make use of an explicit auxiliary data structure like an immutable list, stack or queue to ensure that it can be made tail recursive. However with recursion-schemes, we can just use the library appropriately and get the results we need.
 
-This code is mostly the version in the example with minor modifications using the internal methods developed earlier. This is going to be useful for parameterizing the sort by different pivot strategies.
+This code is mostly the version in the example with minor modifications using the internal methods developed earlier.
 
 ```
 data BinTreeF a b = Tip | Branch b a b deriving (Functor)
 
 qsort' :: (Ord a) => [a] -> [a]
 qsort' = refold merge split where
-  merge :: (Ord a) => BinTreeF a [a] -> [a]
+  merge :: (Ord a) => BinTreeF [a] [a] -> [a]
   merge Tip = []
-  merge (Branch lt x gt) = lt ++ [x] ++ gt
+  merge (Branch lt xs gt) = lt ++ xs ++ gt
 
-  split :: (Ord a) => [a] -> BinTreeF a [a]
+  split :: (Ord a) => [a] -> BinTreeF [a] [a]
   split [] = Tip
-  split (x:xs) = Branch lt x gt where
-    (lt, gt) = foldl'
-                  (\ (lt, gt) elem ->
-                     if elem < x then (elem:lt, gt) else (lt, elem:gt)) 
-                  ([], []) xs
-```
+  split (x:xs) = Branch lt xs' gt where
+    (lt, xs', gt) = foldl'
+                  (\(lt, xs', gt) elem ->
+                     if elem < x then
+                         (elem:lt, xs', gt)
+                       else
+                        if elem > x then
+                          (lt, xs', elem:gt)
+                        else
+                          (lt, elem:xs', gt)) 
+                  ([], [], []) xs```
 
 ```
 ghci>:set +t
@@ -301,9 +306,11 @@ ghci> import System.Random
 ghci> pureGen = mkStdGen 137
 ghci> rs = take 10000000 randomRs (10, 10000) pureGen
 ghci> qsort rs
+(169.63 secs, 100,863,083,848 bytes)
 ghci> qsort' rs
+(169.55 secs, 99,502,972,936 bytes)
 ```
-However interestingly the naive version outperforms the version with recursion-schemes as the inputs grow: an issue that needs more profiling to get to the bottom of. Its good to know that neither version overflows the stack even though the laptop - a first generation mac m1 gets quite warm churning all those numbers.
+The naive and the recursion-schemes perfomrm almost identically once similar logic is used in both. Its good to know that neither version overflows the stack (primarily due to haskell's graph reduction scheme unlike strict languages) even though the laptop - a first generation mac m1 gets quite warm churning all those numbers.
 
 More general morphisms are discussed in [^30]
 
