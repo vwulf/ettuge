@@ -1,12 +1,13 @@
 {-# LANGUAGE ScopedTypeVariables #-}
 {-# LANGUAGE LambdaCase #-}
-{-# LANGUAGE TupleSections #-}
+
+{-# LANGUAGE BlockArguments #-}
 module Main where
 
 import GHC.Float (sqrtDouble, sqrtFloat)
 import Control.Monad ( forM_, foldM )
 import Lib (greet)
-import Qsortof(qsort, unless, qsel)
+import Qsortof(qsort, unless, qsel, qsort')
 
 import Data.Functor.Foldable (refold, ListF (Nil, Cons), fold, unfold)
 import qualified Data.Foldable as List
@@ -159,6 +160,11 @@ sumd :: Natural -> Natural
 sumd = refold (\case Nil -> 0; Cons x y -> x + y)
               (\case 0 -> Nil; x -> Cons (x `mod` 10) (x `div` 10))
 
+naSTam :: Natural -> [Char]
+naSTam = unfold (\case 1 -> Nil
+                       n1 -> --traceShow n1
+                             Cons (if even n1 then 'l' else 'g')
+                                   ((n1 + 1) `div` 2))
 
 main :: IO ()
 main = do

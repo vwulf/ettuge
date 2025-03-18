@@ -2,6 +2,7 @@
 {-# LANGUAGE FlexibleContexts #-}
 {-# LANGUAGE ScopedTypeVariables #-}
 {-# LANGUAGE OverloadedRecordDot #-}
+{-# LANGUAGE DeriveFunctor #-}
 module Qsortof where
 import Data.Monoid ()
 import Data.Typeable ()
@@ -10,6 +11,8 @@ import Data.Bifunctor (Bifunctor(first), Bifunctor(second), Bifunctor (bimap))
 import Data.Biapplicative (Biapplicative (bipure), Biapplicative ((<<*>>)))
 import Debug.Trace (traceShow)
 import Data.Maybe (listToMaybe, fromMaybe)
+import Data.Functor.Foldable
+    (refold, ListF(Nil, Cons), fold, unfold)
 
 
 qsort :: (Ord a) => [a] -> [a]
@@ -25,6 +28,29 @@ qsort elems = qsort lt ++ eq ++ qsort gt where
                   else
                     (lt, eq, elem:gt)
                   ) emptysml elems
+
+data BinTreeF a b = Tip | Branch b a b deriving (Functor)
+
+qsort' :: (Ord a) => [a] -> [a]
+qsort' = refold merge split where
+  merge :: (Ord a) => BinTreeF [a] [a] -> [a]
+  merge Tip = []
+  merge (Branch lt xs gt) = lt ++ xs ++ gt
+
+  split :: (Ord a) => [a] -> BinTreeF [a] [a]
+  split [] = Tip
+  split (x:xs) = Branch lt xs' gt where
+    (lt, xs', gt) = foldl'
+                  (\(lt, xs', gt) elem ->
+                     if elem < x then
+                         (elem:lt, xs', gt)
+                       else
+                        if elem > x then
+                          (lt, xs', elem:gt)
+                        else
+                          (lt, elem:xs', gt)) 
+                  ([], [], []) xs
+
 
 unless :: (Ord b) => b ->
                      (b -> b -> Bool) ->
@@ -221,7 +247,7 @@ calcH elem h = let
     h_sum = maybeOp (+) (Just elem) h.h_sum
   }
 
-pivotnk :: (Integral a) => 
+pivotnk :: (Integral a) =>
             H a a ->
             a ->
             a ->
@@ -238,7 +264,7 @@ pivotnk h k off defp form =
       listToMaybe h.h_lst
     else
       return pivot'
- 
+
 
 qsel :: (Show a, Ord a, Integral a) =>
   [a] -> a -> Maybe (a, [a])
@@ -266,7 +292,7 @@ qsel elems k = ret where
            (lt, calcH elem eq, gt)
          else
            (lt, eq, calcH elem gt)
- 
+
   emptysml :: (Integral a) => (H a a, H a a, H a a)
   emptysml = (mempty, mempty, mempty)
 
