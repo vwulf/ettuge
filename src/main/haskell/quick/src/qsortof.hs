@@ -5,7 +5,7 @@
 {-# LANGUAGE DeriveFunctor #-}
 module Qsortof where
 import Data.Monoid ()
-import Data.Typeable ()
+import Data.Typeable (trLiftedRep)
 import Data.List ( foldl', unfoldr )
 import Data.Bifunctor (Bifunctor(first), Bifunctor(second), Bifunctor (bimap))
 import Data.Biapplicative (Biapplicative (bipure), Biapplicative ((<<*>>)))
@@ -13,6 +13,7 @@ import Debug.Trace (traceShow)
 import Data.Maybe (listToMaybe, fromMaybe)
 import Data.Functor.Foldable
     (refold, ListF(Nil, Cons), fold, unfold)
+import qualified Qsortof as ltq
 
 
 qsort :: (Ord a) => [a] -> [a]
@@ -48,7 +49,7 @@ qsort' = refold merge split where
                         if elem > x then
                           (lt, xs', elem:gt)
                         else
-                          (lt, elem:xs', gt)) 
+                          (lt, elem:xs', gt))
                   ([], [], []) xs
 
 
@@ -264,6 +265,131 @@ pivotnk h k off defp form =
       listToMaybe h.h_lst
     else
       return pivot'
+
+data QSEL_F a = QSEL_F {
+  qsel_f_fld :: QSEL_FLD a,
+  qsel_f_off :: Int,
+  qsel_f_k :: Int,
+  qsel_op_lst :: [a],
+  qsel_op_lst_len :: Int
+} deriving (Show)
+
+data QSEL_FLD a = QSEL_FLD {
+  qsel_fld_lst :: [a],
+  qsel_fld_lst_len :: Int
+} deriving (Show)
+
+data QSEL_A a = QSEL_A {
+  qsel_a_lst :: [a],
+  qsel_a_k :: Int,
+  qsel_a_off :: Int
+} deriving (Show)
+
+data QSEL_B' a = QSEL_B' {
+  qsel_b_lst :: [a],
+  qsel_b_off :: Int,
+  qsel_b_kth :: a
+} deriving (Show)
+
+type (QSEL_B a) = Maybe (QSEL_B' a)
+
+data BinTF a b = Leaf a | Br b a b deriving (Functor)
+
+showBinTF :: (Show a, Show b) => BinTF a b -> String
+showBinTF (Leaf a) = show a
+showBinTF (Br lt eq gt) = concat ["Br ", show lt, " ", show eq, " ", show gt]
+
+qselrs :: (Show a, Ord a, Integral a) =>
+  QSEL_F a -> QSEL_F a
+qselrs = refold merge split where
+  merge :: (Show a, Ord a, Integral a) =>
+   BinTF (QSEL_F a) (QSEL_F a) -> QSEL_F a
+  merge (Leaf l) =
+    traceShow ("merge leaf: ", show l)
+    l
+  merge (Br lt eq gt)
+    | lt.qsel_f_off + lt.qsel_f_fld.qsel_fld_lst_len >= lt.qsel_f_k =
+        traceShow (concat ["merge less than pivot: ", show lt, " off: ", show lt.qsel_f_off,
+                   " k: ", show lt.qsel_f_k, "len: : ", show lt.qsel_f_fld.qsel_fld_lst_len])
+        lt
+    | gt.qsel_f_off <= gt.qsel_f_k =
+        traceShow (concat ["merge greater than pivot: ", show gt, " off: ", show gt.qsel_f_off,
+                   " k: ", show gt.qsel_f_k, "len: : ", show gt.qsel_op_lst_len])
+        gt
+    | otherwise =
+        traceShow (concat ["merge equal pivot: ", show eq, " off: ", show eq.qsel_f_off,
+                   " k: ", show eq.qsel_f_k])
+        eq
+
+  split :: (Show a, Ord a, Integral a) =>
+    QSEL_F a -> BinTF (QSEL_F a) (QSEL_F a)
+  split (QSEL_F fld off k oplst oplst_len)
+    | null fld.qsel_fld_lst =
+       traceShow (concat ["split null pivot: ", show fld, " off: ", show off,
+                  " k: ", show k, " oplst: ", show oplst,
+                  " oplst_len: ", show oplst_len])
+       Leaf (QSEL_F fld off k oplst oplst_len)
+    | off > fld.qsel_fld_lst_len =
+      traceShow (concat ["split off > len pivot: ", show fld, " off: ", show off,
+                 " k: ", show k, " oplst: ", show oplst,
+                 " oplst_len: ", show oplst_len])
+      Leaf (QSEL_F fld off k oplst oplst_len)
+    | otherwise =
+      traceShow (concat ["split Br pivot: ", show fld, " off: ", show off,
+                 " k: ", show k, " oplst: ", show oplst,
+                 " oplst_len: ", show oplst_len])
+      traceShow (concat ["lt: ", show lt, " eq: ", show eq, " gt: ", show gt])
+      Br lt eq gt where
+      (x:xs) = fld.qsel_fld_lst
+      qempty = QSEL_FLD {
+        qsel_fld_lst = mempty,
+        qsel_fld_lst_len = 0
+      }
+      (ltq, eqq, gtq) =
+        foldl'
+          ( \(ltq, eqq, gtq) elem ->
+              if elem < x
+                then
+                  (QSEL_FLD
+                    (elem : ltq.qsel_fld_lst) (ltq.qsel_fld_lst_len + 1),
+                   eqq, gtq)
+                else
+                  if elem > x
+                    then
+                      (ltq, eqq,
+                       QSEL_FLD
+                        (elem : gtq.qsel_fld_lst) (gtq.qsel_fld_lst_len + 1))
+                    else
+                      (ltq,
+                        QSEL_FLD
+                          (elem : eqq.qsel_fld_lst) (eqq.qsel_fld_lst_len + 1),
+                        gtq)
+          ) (qempty, qempty, qempty) xs
+      (lt, eq, gt) =
+        (if k > off then
+           traceShow (concat ["k > off k: ", show k, " off: ", show off])
+           QSEL_F ltq off k oplst oplst_len
+          else
+           traceShow (concat ["k <= off k: ", show k, " off: ", show off])
+           QSEL_F qempty off k (oplst ++ ltq.qsel_fld_lst) (oplst_len + ltq.qsel_fld_lst_len),
+         if k > (off + ltq.qsel_fld_lst_len) then
+           traceShow (concat ["k > off + ltq.qsel_fld_lst_len k: ", show k, " off : ", show off])
+           QSEL_F
+             eqq (off + ltq.qsel_fld_lst_len) k
+             (oplst ++ ltq.qsel_fld_lst) (oplst_len + ltq.qsel_fld_lst_len)
+         else
+           QSEL_F qempty (off + ltq.qsel_fld_lst_len) k oplst oplst_len,
+         if k > (off + ltq.qsel_fld_lst_len + eqq.qsel_fld_lst_len) then
+           QSEL_F
+             gtq (off + ltq.qsel_fld_lst_len + eqq.qsel_fld_lst_len) k
+             (oplst ++ ltq.qsel_fld_lst ++ eqq.qsel_fld_lst)
+             (oplst_len + ltq.qsel_fld_lst_len + eqq.qsel_fld_lst_len)
+         else
+            QSEL_F qempty (off + ltq.qsel_fld_lst_len + eqq.qsel_fld_lst_len) k oplst oplst_len
+          )
+
+
+
 
 
 qsel :: (Show a, Ord a, Integral a) =>
