@@ -25,6 +25,10 @@ trait Foldable[F[_]]:
   extension [A, B] (fa: F[A])
     def foldLeft(z: B)(f: (B, A) => B): B
 
+trait Unfoldable[F[_]]:
+  extension [A, B] (b: B)
+    def unfold(f: B => Option[(A, B)]): F[A]
+
 trait Paramorphism[P[_]]:
   def para[A, B](fa: P[A], b: B, f: (=> A, => P[A], B) => B): B
 
