@@ -1,0 +1,4 @@
+Video Link: https://www.youtube.com/watch?v=YwxRXyKUQFI
+Video ID: YwxRXyKUQFI
+
+ERROR: Error: type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts'
