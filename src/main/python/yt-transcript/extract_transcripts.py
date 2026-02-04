@@ -4,13 +4,13 @@ Script to extract transcripts from YouTube videos listed in malatibhat_dns_bhat_
 and save them as text files with the original link.
 
 QUICK START:
-    1. Install dependencies: pip install youtube-transcript-api
-    2. Run the script from repository root: python3 src/main/python/kannada/extract_transcripts.py
+    1. Install dependencies: pip install -r src/main/python/yt-transcript/requirements.txt
+    2. Run the script from repository root: python3 src/main/python/yt-transcript/extract_transcripts.py
     3. Transcripts will be saved in: src/main/md/kannada/transcripts/
 
 REQUIREMENTS:
     - Python 3.6+
-    - youtube-transcript-api library
+    - youtube-transcript-api library (see requirements.txt)
     - Internet access to YouTube
 
 FEATURES:
@@ -33,7 +33,7 @@ from youtube_transcript_api._errors import (
 
 # File paths - relative to script location
 SCRIPT_DIR = Path(__file__).parent
-# Navigate up to repository root: kannada -> python -> main -> src -> repo_root
+# Navigate up to repository root: yt-transcript -> python -> main -> src -> repo_root
 REPO_ROOT = SCRIPT_DIR.parent.parent.parent.parent
 INPUT_FILE = REPO_ROOT / 'src/main/md/kannada/malatibhat_dns_bhat_videos_links.txt'
 OUTPUT_DIR = REPO_ROOT / 'src/main/md/kannada/transcripts'

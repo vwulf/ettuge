@@ -1,6 +1,6 @@
 # YouTube Video Transcript Extraction
 
-This directory contains scripts and transcripts for videos from the MALATIBHAT YouTube channel.
+This directory contains the script and configuration to extract transcripts from videos in the MALATIBHAT YouTube channel.
 
 ## ⚠️ Important Note
 
@@ -8,9 +8,11 @@ This directory contains scripts and transcripts for videos from the MALATIBHAT Y
 
 ## Files
 
-- `malatibhat_dns_bhat_videos_links.txt` - Contains 349 YouTube video links from the MALATIBHAT channel
-- `../../python/kannada/extract_transcripts.py` - Python script to extract transcripts from the videos
-- `transcripts/` - Directory where extracted transcripts are saved
+- `extract_transcripts.py` - Python script to extract transcripts from the videos
+- `requirements.txt` - Python dependencies (youtube-transcript-api)
+- `README.md` - This file
+- Video links are in: `../../md/kannada/malatibhat_dns_bhat_videos_links.txt`
+- Transcripts are saved to: `../../md/kannada/transcripts/`
 
 ## Requirements
 
@@ -21,7 +23,12 @@ To run the transcript extraction script, you need:
 
 Install the required library:
 ```bash
-pip install youtube-transcript-api
+pip install -r requirements.txt
+```
+
+Or from the repository root:
+```bash
+pip install -r src/main/python/yt-transcript/requirements.txt
 ```
 
 ## Usage
@@ -30,13 +37,13 @@ pip install youtube-transcript-api
 
 From the repository root:
 ```bash
-python3 src/main/python/kannada/extract_transcripts.py
+python3 src/main/python/yt-transcript/extract_transcripts.py
 ```
 
 Or make it executable and run directly:
 ```bash
-chmod +x src/main/python/kannada/extract_transcripts.py
-./src/main/python/kannada/extract_transcripts.py
+chmod +x src/main/python/yt-transcript/extract_transcripts.py
+./src/main/python/yt-transcript/extract_transcripts.py
 ```
 
 ### Script Features
@@ -84,7 +91,7 @@ Common error messages:
 
 ## Script Location
 
-The extraction script is located at: `src/main/python/kannada/extract_transcripts.py`
+The extraction script is located at: `src/main/python/yt-transcript/extract_transcripts.py`
 
 It can be run from the repository root, and it's configured to:
 - Read from: `src/main/md/kannada/malatibhat_dns_bhat_videos_links.txt`
