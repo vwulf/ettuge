@@ -9,7 +9,7 @@ This directory contains scripts and transcripts for videos from the MALATIBHAT Y
 ## Files
 
 - `malatibhat_dns_bhat_videos_links.txt` - Contains 349 YouTube video links from the MALATIBHAT channel
-- `extract_transcripts.py` - Python script to extract transcripts from the videos
+- `../../python/kannada/extract_transcripts.py` - Python script to extract transcripts from the videos
 - `transcripts/` - Directory where extracted transcripts are saved
 
 ## Requirements
@@ -30,13 +30,13 @@ pip install youtube-transcript-api
 
 From the repository root:
 ```bash
-python3 extract_transcripts.py
+python3 src/main/python/kannada/extract_transcripts.py
 ```
 
 Or make it executable and run directly:
 ```bash
-chmod +x extract_transcripts.py
-./extract_transcripts.py
+chmod +x src/main/python/kannada/extract_transcripts.py
+./src/main/python/kannada/extract_transcripts.py
 ```
 
 ### Script Features
@@ -84,9 +84,9 @@ Common error messages:
 
 ## Script Location
 
-The extraction script is located at the repository root: `/extract_transcripts.py`
+The extraction script is located at: `src/main/python/kannada/extract_transcripts.py`
 
-It can be run from any location, but it's configured to:
+It can be run from the repository root, and it's configured to:
 - Read from: `src/main/md/kannada/malatibhat_dns_bhat_videos_links.txt`
 - Save to: `src/main/md/kannada/transcripts/`
 

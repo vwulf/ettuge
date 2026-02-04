@@ -5,7 +5,7 @@ and save them as text files with the original link.
 
 QUICK START:
     1. Install dependencies: pip install youtube-transcript-api
-    2. Run the script: python3 extract_transcripts.py
+    2. Run the script from repository root: python3 src/main/python/kannada/extract_transcripts.py
     3. Transcripts will be saved in: src/main/md/kannada/transcripts/
 
 REQUIREMENTS:
@@ -33,8 +33,10 @@ from youtube_transcript_api._errors import (
 
 # File paths - relative to script location
 SCRIPT_DIR = Path(__file__).parent
-INPUT_FILE = SCRIPT_DIR / 'src/main/md/kannada/malatibhat_dns_bhat_videos_links.txt'
-OUTPUT_DIR = SCRIPT_DIR / 'src/main/md/kannada/transcripts'
+# Navigate up to repository root: kannada -> python -> main -> src -> repo_root
+REPO_ROOT = SCRIPT_DIR.parent.parent.parent.parent
+INPUT_FILE = REPO_ROOT / 'src/main/md/kannada/malatibhat_dns_bhat_videos_links.txt'
+OUTPUT_DIR = REPO_ROOT / 'src/main/md/kannada/transcripts'
 
 # Create API instance once at module level for efficiency
 api = YouTubeTranscriptApi()

@@ -6,12 +6,12 @@ Readable docs are in:
 
 ## YouTube Transcript Extraction
 
-This repository includes a script to extract transcripts from YouTube videos. See [extract_transcripts.py](extract_transcripts.py) and the [README](src/main/md/kannada/README_transcripts.md) for details.
+This repository includes a script to extract transcripts from YouTube videos. See [extract_transcripts.py](src/main/python/kannada/extract_transcripts.py) and the [README](src/main/md/kannada/README_transcripts.md) for details.
 
 **Quick Start:**
 ```bash
 pip install -r requirements.txt
-python3 extract_transcripts.py
+python3 src/main/python/kannada/extract_transcripts.py
 ```
 
 Some interesting ones:
