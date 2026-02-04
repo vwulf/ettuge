@@ -31,6 +31,14 @@ from youtube_transcript_api._errors import (
     VideoUnavailable
 )
 
+# File paths - relative to script location
+SCRIPT_DIR = Path(__file__).parent
+INPUT_FILE = SCRIPT_DIR / 'src/main/md/kannada/malatibhat_dns_bhat_videos_links.txt'
+OUTPUT_DIR = SCRIPT_DIR / 'src/main/md/kannada/transcripts'
+
+# Create API instance once at module level for efficiency
+api = YouTubeTranscriptApi()
+
 
 def extract_video_id(url):
     """Extract video ID from YouTube URL."""
@@ -54,9 +62,6 @@ def get_transcript(video_id):
     Returns transcript text or None if unavailable.
     """
     try:
-        # Create API instance
-        api = YouTubeTranscriptApi()
-        
         # Try to get transcript in any available language
         # Try Kannada (kn) first, then English (en), then Hindi (hi), then any available
         transcript_list = api.list(video_id)
@@ -65,12 +70,12 @@ def get_transcript(video_id):
         try:
             transcript = transcript_list.find_manually_created_transcript(['kn', 'en', 'hi'])
             transcript_data = transcript.fetch()
-        except:
+        except NoTranscriptFound:
             # If no manual transcript, get any generated transcript
             try:
                 transcript = transcript_list.find_generated_transcript(['kn', 'en', 'hi'])
                 transcript_data = transcript.fetch()
-            except:
+            except NoTranscriptFound:
                 # Get any available transcript
                 transcript = next(iter(transcript_list))
                 transcript_data = transcript.fetch()
@@ -90,11 +95,11 @@ def get_transcript(video_id):
 
 
 def main():
-    # Input file path
-    input_file = Path('/home/runner/work/ettuge/ettuge/src/main/md/kannada/malatibhat_dns_bhat_videos_links.txt')
+    # Use module-level constants for file paths
+    input_file = INPUT_FILE
+    output_dir = OUTPUT_DIR
     
-    # Output directory for transcripts
-    output_dir = Path('/home/runner/work/ettuge/ettuge/src/main/md/kannada/transcripts')
+    # Create output directory if it doesn't exist
     output_dir.mkdir(exist_ok=True)
     
     # Read video links
@@ -133,7 +138,7 @@ def main():
         output_file = output_dir / f"{video_id}.txt"
         if output_file.exists():
             print(f"{i}. Transcript already exists for {video_id}, skipping...")
-            success_count += 1
+            skipped_count += 1
             continue
         
         print(f"{i}. Processing video {video_id}...")
