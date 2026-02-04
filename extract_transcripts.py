@@ -59,7 +59,7 @@ def extract_video_id(url):
 def get_transcript(video_id):
     """
     Get transcript for a video ID.
-    Returns transcript text or None if unavailable.
+    Returns tuple: (transcript_text, error_msg) where error_msg is None on success.
     """
     try:
         # Try to get transcript in any available language
@@ -82,7 +82,7 @@ def get_transcript(video_id):
         
         # Combine all transcript segments into one text
         full_text = ' '.join([entry['text'] for entry in transcript_data])
-        return full_text
+        return full_text, None
         
     except TranscriptsDisabled:
         return None, "Transcripts are disabled for this video"
@@ -143,22 +143,18 @@ def main():
         
         print(f"{i}. Processing video {video_id}...")
         
-        # Get transcript
-        result = get_transcript(video_id)
+        # Get transcript (returns tuple: transcript_text, error_msg)
+        transcript, error_msg = get_transcript(video_id)
         
-        if isinstance(result, tuple):
-            transcript, error_msg = result
-            if transcript is None:
-                print(f"   ERROR: {error_msg}")
-                error_count += 1
-                # Save error info
-                with open(output_file, 'w', encoding='utf-8') as f:
-                    f.write(f"Video Link: {line}\n")
-                    f.write(f"Video ID: {video_id}\n")
-                    f.write(f"\nERROR: {error_msg}\n")
-                continue
-        else:
-            transcript = result
+        if error_msg is not None:
+            print(f"   ERROR: {error_msg}")
+            error_count += 1
+            # Save error info
+            with open(output_file, 'w', encoding='utf-8') as f:
+                f.write(f"Video Link: {line}\n")
+                f.write(f"Video ID: {video_id}\n")
+                f.write(f"\nERROR: {error_msg}\n")
+            continue
         
         # Save transcript with original link
         try:
