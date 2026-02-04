@@ -1,0 +1,25 @@
+Video Link: https://www.youtube.com/watch?v=EXAMPLE123
+Video ID: EXAMPLE123
+
+================================================================================
+TRANSCRIPT:
+================================================================================
+
+This is an example transcript file format.
+
+When you run the extract_transcripts.py script with internet access,
+it will download transcripts from YouTube videos and save them in this format.
+
+Each transcript file will:
+1. Include the original video link at the top
+2. Include the video ID
+3. Contain the full transcript text extracted from the video
+4. Prefer Kannada (kn) transcripts, then English (en), then Hindi (hi)
+5. Fall back to any available transcript language if the preferred ones aren't available
+
+The script handles:
+- Videos without transcripts (saves error message)
+- Auto-generated vs manually created transcripts
+- Multiple language preferences
+- Resume capability (skips already downloaded transcripts)
+- UTF-8 encoding for Kannada text support

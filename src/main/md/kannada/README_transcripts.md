@@ -2,6 +2,10 @@
 
 This directory contains scripts and transcripts for videos from the MALATIBHAT YouTube channel.
 
+## ⚠️ Important Note
+
+**The transcript extraction script requires internet access to YouTube to function.** You will need to run this script in your local environment or any environment with unrestricted internet access. The transcripts directory is currently empty and will be populated when you run the script.
+
 ## Files
 
 - `malatibhat_dns_bhat_videos_links.txt` - Contains 349 YouTube video links from the MALATIBHAT channel
