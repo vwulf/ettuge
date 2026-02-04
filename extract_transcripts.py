@@ -99,8 +99,8 @@ def main():
     input_file = INPUT_FILE
     output_dir = OUTPUT_DIR
     
-    # Create output directory if it doesn't exist
-    output_dir.mkdir(exist_ok=True)
+    # Create output directory if it doesn't exist (including parent directories)
+    output_dir.mkdir(parents=True, exist_ok=True)
     
     # Read video links
     with open(input_file, 'r') as f:
