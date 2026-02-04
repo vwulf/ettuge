@@ -4,6 +4,16 @@ For general shared examples:
 Readable docs are in:
 [mds](https://github.com/vwulf/ettuge/blob/master/src/main/md)
 
+## YouTube Transcript Extraction
+
+This repository includes a script to extract transcripts from YouTube videos. See [extract_transcripts.py](src/main/python/yt-transcript/extract_transcripts.py) and the [README](src/main/python/yt-transcript/README.md) for details.
+
+**Quick Start:**
+```bash
+pip install -r src/main/python/yt-transcript/requirements.txt
+python3 src/main/python/yt-transcript/extract_transcripts.py
+```
+
 Some interesting ones:
 1. [Eke](https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/Eke.md)
 1. [Reading types in haskell](https://github.com/vwulf/ettuge/blob/master/src/main/md/haskell/reflection.md)

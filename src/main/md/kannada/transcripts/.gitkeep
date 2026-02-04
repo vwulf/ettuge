@@ -1,0 +1,10 @@
+# Transcript files will be saved here
+
+This directory is for storing extracted transcripts from YouTube videos.
+
+Run `python3 extract_transcripts.py` from the repository root to populate this directory.
+
+Each transcript will be saved as `{video_id}.txt` containing:
+- The original video link
+- The video ID
+- The full transcript text
