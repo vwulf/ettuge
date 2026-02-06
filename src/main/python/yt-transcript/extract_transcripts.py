@@ -23,8 +23,11 @@ FEATURES:
 
 import re
 import os
+import time
+import random
 from pathlib import Path
 from youtube_transcript_api import YouTubeTranscriptApi
+from youtube_transcript_api.proxies import GenericProxyConfig
 from youtube_transcript_api._errors import (
     TranscriptsDisabled,
     NoTranscriptFound,
@@ -38,8 +41,52 @@ REPO_ROOT = SCRIPT_DIR.parent.parent.parent.parent
 INPUT_FILE = REPO_ROOT / 'src/main/md/kannada/malatibhat_dns_bhat_videos_links.txt'
 OUTPUT_DIR = REPO_ROOT / 'src/main/md/kannada/transcripts'
 
-# Create API instance once at module level for efficiency
-api = YouTubeTranscriptApi()
+# Rate limiting settings
+MIN_DELAY = 8   # Minimum seconds between requests (increased for safety)
+MAX_DELAY = 15  # Maximum seconds between requests (randomized to avoid detection)
+
+# Session rotation settings
+REQUESTS_PER_SESSION = 6  # Rotate IP after this many requests
+
+# Smartproxy configuration - using sticky sessions (port 10001) with session ID rotation
+SMARTPROXY_USER = os.environ.get('SMARTPROXY_USER', 'spn3qfngzn')
+SMARTPROXY_PASS = os.environ.get('SMARTPROXY_PASS', 'i~b4jNtj59FWQ9swgj')
+SMARTPROXY_HOST = 'gate.smartproxy.com'
+SMARTPROXY_PORT = 10001  # Sticky session port (maintains same IP per session ID)
+
+# Global API instance and session tracking
+api = None
+current_session_id = None
+requests_in_session = 0
+
+
+def generate_session_id():
+    """Generate a random session ID for sticky sessions."""
+    import string
+    return ''.join(random.choices(string.ascii_lowercase + string.digits, k=8))
+
+
+def get_proxy_url(session_id):
+    """Get proxy URL for Smartproxy residential with sticky session."""
+    # Format: user-session-XXXX:password@host:port
+    return f"http://{SMARTPROXY_USER}-session-{session_id}:{SMARTPROXY_PASS}@{SMARTPROXY_HOST}:{SMARTPROXY_PORT}"
+
+
+def get_api():
+    """Get or create API instance, rotating session if needed."""
+    global api, current_session_id, requests_in_session
+
+    # Check if we need a new session
+    if api is None or requests_in_session >= REQUESTS_PER_SESSION:
+        current_session_id = generate_session_id()
+        proxy_url = get_proxy_url(current_session_id)
+        proxy_config = GenericProxyConfig(https_url=proxy_url)
+        api = YouTubeTranscriptApi(proxy_config=proxy_config)
+        requests_in_session = 0
+        print(f"   [New session: {current_session_id}]")
+
+    requests_in_session += 1
+    return api
 
 
 def extract_video_id(url):
@@ -64,9 +111,12 @@ def get_transcript(video_id):
     Returns tuple: (transcript_text, error_msg) where error_msg is None on success.
     """
     try:
+        # Get API instance (may rotate session if needed)
+        current_api = get_api()
+
         # Try to get transcript in any available language
         # Try Kannada (kn) first, then English (en), then Hindi (hi), then any available
-        transcript_list = api.list(video_id)
+        transcript_list = current_api.list(video_id)
         
         # Try to get manually created transcript first
         try:
@@ -83,7 +133,8 @@ def get_transcript(video_id):
                 transcript_data = transcript.fetch()
         
         # Combine all transcript segments into one text
-        full_text = ' '.join([entry['text'] for entry in transcript_data])
+        # Note: newer API uses .text attribute, older uses ['text'] dict access
+        full_text = ' '.join([entry.text if hasattr(entry, 'text') else entry['text'] for entry in transcript_data])
         return full_text, None
         
     except TranscriptsDisabled:
@@ -144,7 +195,12 @@ def main():
             continue
         
         print(f"{i}. Processing video {video_id}...")
-        
+
+        # Add random delay to avoid rate limiting
+        delay = random.uniform(MIN_DELAY, MAX_DELAY)
+        print(f"   Waiting {delay:.1f}s before request...")
+        time.sleep(delay)
+
         # Get transcript (returns tuple: transcript_text, error_msg)
         transcript, error_msg = get_transcript(video_id)
         
