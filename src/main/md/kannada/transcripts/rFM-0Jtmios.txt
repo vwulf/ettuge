@@ -1,13 +1,8 @@
 Video Link: https://www.youtube.com/watch?v=rFM-0Jtmios
 Video ID: rFM-0Jtmios
 
-ERROR: Error: 
-Could not retrieve a transcript for the video https://www.youtube.com/watch?v=rFM-0Jtmios! This is most likely caused by:
+================================================================================
+TRANSCRIPT:
+================================================================================
 
-YouTube is blocking your requests, despite you using proxies. Keep in mind that a proxy is just a way to hide your real IP behind the IP of that proxy, but there is no guarantee that the IP of that proxy won't be blocked as well.
-
-The only truly reliable way to prevent IP blocks is rotating through a large pool of residential IPs, by using a provider like Webshare (https://www.webshare.io/?referral_code=w0xno53eb50g), which provides you with a pool of >30M residential IPs (make sure to purchase "Residential" proxies, NOT "Proxy Server" or "Static Residential"!).
-
-You will find more information on how to easily integrate Webshare here: https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#using-webshare
-
-If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+पड़गलु मत तो सल्लू गण नमा मार्जिनल्ली बड़ा सा बल्ले वह अंबू नम्मती को इधर ए प्राणी विरुद्ध दादा विद्या विद्या हिंदी हेलो पैदा रूप वर्णन बेंगलुरु बेंगलुरु [प्रशंसा] माटी के कल जादू मेरे प्राणिगणों ग मंत्र ₹940 * होली गाना उदाहरण ने कहा की सुन लो हेड अनुसार गागा बेकार गुप्ता देवी उदाहरण

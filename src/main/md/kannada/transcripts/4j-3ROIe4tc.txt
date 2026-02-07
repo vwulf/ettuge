@@ -1,13 +1,8 @@
 Video Link: https://www.youtube.com/watch?v=4j-3ROIe4tc
 Video ID: 4j-3ROIe4tc
 
-ERROR: Error: 
-Could not retrieve a transcript for the video https://www.youtube.com/watch?v=4j-3ROIe4tc! This is most likely caused by:
+================================================================================
+TRANSCRIPT:
+================================================================================
 
-YouTube is blocking your requests, despite you using proxies. Keep in mind that a proxy is just a way to hide your real IP behind the IP of that proxy, but there is no guarantee that the IP of that proxy won't be blocked as well.
-
-The only truly reliable way to prevent IP blocks is rotating through a large pool of residential IPs, by using a provider like Webshare (https://www.webshare.io/?referral_code=w0xno53eb50g), which provides you with a pool of >30M residential IPs (make sure to purchase "Residential" proxies, NOT "Proxy Server" or "Static Residential"!).
-
-You will find more information on how to easily integrate Webshare here: https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#using-webshare
-
-If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+शंकर भट्ट यू नंबर देचू आदरणीय घंटा घंटा आधार इंडिया सौंदर्यगण उल्टा ग बल्लू एम्बुलेन्नू गुप्ता कनाडा लिपि या तो अंदर आओ तो पप्पू यादव अर्थव्यवस्था [संगीत] कनाडा कनाडा पता करना लिमिटेड बाबा के गाना संस्कृत दीनदयाल पड़े के [प्रशंसा] कनाडा सामान्य वर्ग टीला अवश्य विद्यालय यह पुस्तक आंध्र होस भरावन अवश्य भारत गाना है सर गाड़ो बालाकृष्णन कृष्णमूर्ति गौड़ा मतलब आधा इंतहा हनी सिंह वरना तो चित्रादल लेकर आगे
