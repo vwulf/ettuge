@@ -1,0 +1,4 @@
+Video Link: https://www.youtube.com/watch?v=PFviQ-mm4Gw
+Video ID: PFviQ-mm4Gw
+
+ERROR: Error: HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /api/timedtext?v=PFviQ-mm4Gw&ei=s4aGad2nBIWR-LAPsYm2WQ&caps=asr&opi=112496729&xoaf=5&xowf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1770449187&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=43D8887E87A0FA4F3AEFF1DB97CB73CEB2E303ED.2472B5FF2C85D969806777B6F931C5EF636DD2C7&key=yt8&kind=asr&lang=hi (Caused by ProxyError('Unable to connect to proxy', ConnectionResetError(54, 'Connection reset by peer')))
