@@ -1,4 +1,8 @@
 Video Link: https://www.youtube.com/watch?v=4gVW_iMtKgs
 Video ID: 4gVW_iMtKgs
 
-ERROR: Error: HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=4gVW_iMtKgs (Caused by ProxyError('Unable to connect to proxy', ConnectionResetError(54, 'Connection reset by peer')))
+================================================================================
+TRANSCRIPT (transliterated from hi):
+================================================================================
+
+ಪುಕಾರ ಎ ಕರ ಕರೊ ಭೆರೂಗಢ [ಪ್ರಶಂಸಾ] ಮೆಲ ಪ್ಲಸ
