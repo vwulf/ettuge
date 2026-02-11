@@ -32,10 +32,7 @@
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-is a famous linguist who got many awards like kannada Joshi Etc today his wife bharti but will read one of his books kannada mahaprada Canada foreign foreign [Music] foreign foreign foreign thank you foreign foreign TV foreign [Music] today is foreign foreign foreign foreign you know hello foreign birthday Elizabeth foreign foreign today foreign foreign foreign foreign [Music] foreign an articles [Music] foreign [Music] [Music] what do you do foreign foreign foreign foreign okay foreign foreign foreign foreign [Music] foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign [Music] foreign [Music] the room one two anusarga foreign foreign foreign type TV radio Dr Duty English foreign foreign foreign [Music] [Applause] [Music] foreign foreign foreign foreign foreign foreign foreign hello foreign pop foreign foreign foreign [Applause] foreign foreign foreign foreign foreign foreign celebrity yakara foreign today is foreign foreign foreign today foreign foreign thank you foreign foreign foreign foreign support foreign foreign foreign foreign possible foreign foreign foreign
+TRANSCRIPT: ================================================================================ is a famous linguist who got many awards like kannada Joshi Etc today his wife bharti but will read one of his books kannada mahaprada Canada foreign foreign [Music] foreign foreign foreign thank you foreign foreign TV foreign [Music] today is foreign foreign foreign foreign you know hello foreign birthday Elizabeth foreign foreign today foreign foreign foreign foreign [Music] foreign an articles [Music] foreign [Music] [Music] what do you do foreign foreign foreign foreign okay foreign foreign foreign foreign [Music] foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign [Music] foreign [Music] the room one two anusarga foreign foreign foreign type TV radio Dr Duty English foreign foreign foreign [Music] [Applause] [Music] foreign foreign foreign foreign foreign foreign foreign hello foreign pop foreign foreign foreign [Applause] foreign foreign foreign foreign foreign foreign celebrity yakara foreign today is foreign foreign foreign today foreign foreign thank you foreign foreign foreign foreign support foreign foreign foreign foreign possible foreign foreign foreign
 
 ---
 
@@ -44,10 +41,7 @@ is a famous linguist who got many awards like kannada Joshi Etc today his wife b
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-قناه انت [تصفيق] هى الطبيعي سامعني ابراهيم هلو [موسيقى] قليل انتهى اندونيسيا بودي بطي بطيبه بهايا العلوم اندونيسيا كوستا اما انت هي انتهى الله النور عمي ريال انتم ولبنى عندنا فقدنا اراد البنيان البانيا موديلات الو عامل ايه مراتي كله الطبيعي متشاقه بسيطه انا سامسونج برسل عليك هذا [تصفيق] انك هذا [موسيقى] انتهى [تصفيق] [موسيقى] ولبنه منطقه اليوم [تصفيق] قناه انت ايه [تصفيق] نريد [موسيقى] قالوا انا لبناني دهرين [موسيقى] الى [موسيقى] قالوا لنا [تصفيق] في ادناه لله [تصفيق] اذا لديك كيلو مكه عندكم سامسونج اوكي وينكم لذلك كان [موسيقى] دبي لله [موسيقى] يجي هندي كله [موسيقى] سامسونج سنتي هنا ريناتو رقصت شيره كيرا كبير كانوا انتهى [موسيقى] النونه [موسيقى] [موسيقى] الله احذفتهم قليل براده النهايه قطه انتهى كلامك الرياده انتهى [موسيقى] [موسيقى] مكه خبراء انه خليتك امي مكتوبه لها بعرضها اردد الليل بيكتب [تصفيق] [موسيقى] [تصفيق]
+TRANSCRIPT: ================================================================================ قناه انت [تصفيق] هى الطبيعي سامعني ابراهيم هلو [موسيقى] قليل انتهى اندونيسيا بودي بطي بطيبه بهايا العلوم اندونيسيا كوستا اما انت هي انتهى الله النور عمي ريال انتم ولبنى عندنا فقدنا اراد البنيان البانيا موديلات الو عامل ايه مراتي كله الطبيعي متشاقه بسيطه انا سامسونج برسل عليك هذا [تصفيق] انك هذا [موسيقى] انتهى [تصفيق] [موسيقى] ولبنه منطقه اليوم [تصفيق] قناه انت ايه [تصفيق] نريد [موسيقى] قالوا انا لبناني دهرين [موسيقى] الى [موسيقى] قالوا لنا [تصفيق] في ادناه لله [تصفيق] اذا لديك كيلو مكه عندكم سامسونج اوكي وينكم لذلك كان [موسيقى] دبي لله [موسيقى] يجي هندي كله [موسيقى] سامسونج سنتي هنا ريناتو رقصت شيره كيرا كبير كانوا انتهى [موسيقى] النونه [موسيقى] [موسيقى] الله احذفتهم قليل براده النهايه قطه انتهى كلامك الرياده انتهى [موسيقى] [موسيقى] مكه خبراء انه خليتك امي مكتوبه لها بعرضها اردد الليل بيكتب [تصفيق] [موسيقى] [تصفيق]
 
 ---
 
@@ -56,10 +50,7 @@ TRANSCRIPT:
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-is a famous linguist who got many awards like kannada Joshi Etc today his wife bharti but will read one of his books kannada police foreign [Music] foreign foreign
+TRANSCRIPT: ================================================================================ is a famous linguist who got many awards like kannada Joshi Etc today his wife bharti but will read one of his books kannada police foreign [Music] foreign foreign
 
 ---
 
@@ -68,10 +59,7 @@ is a famous linguist who got many awards like kannada Joshi Etc today his wife b
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-كاميرا مراتي برجر [موسيقى] انت موديلات كلام ها هكذا وين هلا ترى القاهره
+TRANSCRIPT: ================================================================================ كاميرا مراتي برجر [موسيقى] انت موديلات كلام ها هكذا وين هلا ترى القاهره
 
 ---
 
@@ -80,10 +68,7 @@ TRANSCRIPT:
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-ولكن قليل انجلش توكلت لك اليوم قبل ان تخبر ني انه قليل [موسيقى] قريبك يه اللي تنبات قليل [موسيقى] قليل [موسيقى] [موسيقى] [موسيقى]
+TRANSCRIPT: ================================================================================ ولكن قليل انجلش توكلت لك اليوم قبل ان تخبر ني انه قليل [موسيقى] قريبك يه اللي تنبات قليل [موسيقى] قليل [موسيقى] [موسيقى] [موسيقى]
 
 ---
 
@@ -99,10 +84,7 @@ TRANSCRIPT:
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-انا بريود قليل الطبيعي الا باماتنا امريكا لدى [موسيقى] [موسيقى] انتهى مالك
+TRANSCRIPT: ================================================================================ انا بريود قليل الطبيعي الا باماتنا امريكا لدى [موسيقى] [موسيقى] انتهى مالك
 
 ---
 
@@ -118,10 +100,7 @@ TRANSCRIPT:
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-عارفه طبيعي هذا [تصفيق] هنا شغاله شكاره بيره انتهى اما انتهى نساره مش شيشه اما انتقام دوري اي او سريعه هذا كمان ايلاف وكان كلامي اي نقلبو ها يقولون
+TRANSCRIPT: ================================================================================ عارفه طبيعي هذا [تصفيق] هنا شغاله شكاره بيره انتهى اما انتهى نساره مش شيشه اما انتقام دوري اي او سريعه هذا كمان ايلاف وكان كلامي اي نقلبو ها يقولون
 
 ---
 
@@ -130,10 +109,7 @@ TRANSCRIPT:
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-قليل السلام عليكم عليكم الايميل
+TRANSCRIPT: ================================================================================ قليل السلام عليكم عليكم الايميل
 
 ---
 
@@ -149,10 +125,7 @@ TRANSCRIPT:
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-اندونيسيا اندونيسيا اما انت غبي اريد كبيره وانا هذا عاصم على البانيا البانيا موديلات وصبروا تركيز
+TRANSCRIPT: ================================================================================ اندونيسيا اندونيسيا اما انت غبي اريد كبيره وانا هذا عاصم على البانيا البانيا موديلات وصبروا تركيز
 
 ---
 
@@ -168,10 +141,7 @@ TRANSCRIPT:
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-سامسونج كمان [تصفيق] هذا ضروري [تصفيق] ثم بالنسبه لي لكن [موسيقى] انتهى [تصفيق] الجمال
+TRANSCRIPT: ================================================================================ سامسونج كمان [تصفيق] هذا ضروري [تصفيق] ثم بالنسبه لي لكن [موسيقى] انتهى [تصفيق] الجمال
 
 ---
 
@@ -180,10 +150,7 @@ TRANSCRIPT:
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-في منطقي الله [موسيقى] يبقى عليه [تصفيق] انت [تصفيق] هذا [موسيقى] كله [موسيقى]
+TRANSCRIPT: ================================================================================ في منطقي الله [موسيقى] يبقى عليه [تصفيق] انت [تصفيق] هذا [موسيقى] كله [موسيقى]
 
 ---
 
@@ -192,10 +159,7 @@ TRANSCRIPT:
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-كلامه [موسيقى] قالوا كوريا [تصفيق] في ادناه وانت ما قدرته فوق ميله [تصفيق] اذا لديك مكه
+TRANSCRIPT: ================================================================================ كلامه [موسيقى] قالوا كوريا [تصفيق] في ادناه وانت ما قدرته فوق ميله [تصفيق] اذا لديك مكه
 
 ---
 
@@ -211,10 +175,7 @@ TRANSCRIPT:
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-كلامك قريتهم ما قد كلامك نهايه ترى واجباته انتهى كلامك بقره ادم قليله وراء الثراء وراء انتهى [موسيقى] [موسيقى] مكه امي
+TRANSCRIPT: ================================================================================ كلامك قريتهم ما قد كلامك نهايه ترى واجباته انتهى كلامك بقره ادم قليله وراء الثراء وراء انتهى [موسيقى] [موسيقى] مكه امي
 
 ---
 
@@ -223,9 +184,6 @@ TRANSCRIPT:
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-ميلينا كنت اكي [تصفيق] اريد [موسيقى] [تصفيق]
+TRANSCRIPT: ================================================================================ ميلينا كنت اكي [تصفيق] اريد [موسيقى] [تصفيق]
 
 ---

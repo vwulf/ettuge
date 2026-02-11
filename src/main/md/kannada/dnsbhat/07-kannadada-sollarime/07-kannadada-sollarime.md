@@ -36,10 +36,7 @@
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-is a famous linguist who got many awards like kannada Joshi Etc today his daughter multi Bert is going to read one of his books foreign foreign foreign foreign foreign mood is foreign foreign [Applause] swara demonstrates relations constituent questions foreign method foreign today today is foreign today is a large day foreign foreign foreign foreign today foreign foreign foreign foreign foreign [Music] today foreign today foreign foreign today foreign foreign today foreign today today today foreign foreign foreign foreign foreign foreign foreign [Applause] foreign today is foreign foreign foreign cutie I do is urita foreign foreign foreign thank you foreign foreign foreign thank you yes foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign rtk foreign foreign foreign so [Applause] foreign foreign foreign foreign today foreign foreign today foreign foreign [Applause] foreign today foreign foreign foreign foreign foreign today foreign foreign foreign foreign foreign foreign foreign foreign foreign today foreign foreign foreign today today foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign today is today foreign foreign foreign foreign [Music] foreign foreign at T2 is today foreign TV foreign [Applause] eBay foreign foreign foreign foreign
+TRANSCRIPT: ================================================================================ is a famous linguist who got many awards like kannada Joshi Etc today his daughter multi Bert is going to read one of his books foreign foreign foreign foreign foreign mood is foreign foreign [Applause] swara demonstrates relations constituent questions foreign method foreign today today is foreign today is a large day foreign foreign foreign foreign today foreign foreign foreign foreign foreign [Music] today foreign today foreign foreign today foreign foreign today foreign today today today foreign foreign foreign foreign foreign foreign foreign [Applause] foreign today is foreign foreign foreign cutie I do is urita foreign foreign foreign thank you foreign foreign foreign thank you yes foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign rtk foreign foreign foreign so [Applause] foreign foreign foreign foreign today foreign foreign today foreign foreign [Applause] foreign today foreign foreign foreign foreign foreign today foreign foreign foreign foreign foreign foreign foreign foreign foreign today foreign foreign foreign today today foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign today is today foreign foreign foreign foreign [Music] foreign foreign at T2 is today foreign TV foreign [Applause] eBay foreign foreign foreign foreign
 
 ---
 
@@ -48,10 +45,7 @@ is a famous linguist who got many awards like kannada Joshi Etc today his daught
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-is a famous linguist who got many awards like kannada Joshi Etc today his daughter multi Bert is going to read one of his books is foreign money yes okay foreign foreign foreign foreign thank you foreign foreign foreign foreign two three days foreign today is foreign foreign today foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign hello foreign foreign [Music] foreign foreign foreign today foreign foreign foreign foreign foreign foreign today is foreign today yes foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign today foreign foreign foreign salilah is I don't know today today foreign foreign foreign foreign today [Music] foreign today is today today foreign today foreign foreign foreign foreign foreign foreign holiday s foreign today thank you foreign foreign today is today today is today foreign though is today foreign hello baby yes foreign Liberty TV series foreign foreign foreign foreign thank you yes thank you foreign foreign today foreign foreign foreign foreign foreign foreign foreign foreign foreign thank you today foreign sorry foreign today foreign [Music] foreign foreign foreign foreign
+TRANSCRIPT: ================================================================================ is a famous linguist who got many awards like kannada Joshi Etc today his daughter multi Bert is going to read one of his books is foreign money yes okay foreign foreign foreign foreign thank you foreign foreign foreign foreign two three days foreign today is foreign foreign today foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign hello foreign foreign [Music] foreign foreign foreign today foreign foreign foreign foreign foreign foreign today is foreign today yes foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign today foreign foreign foreign salilah is I don't know today today foreign foreign foreign foreign today [Music] foreign today is today today foreign today foreign foreign foreign foreign foreign foreign holiday s foreign today thank you foreign foreign today is today today is today foreign though is today foreign hello baby yes foreign Liberty TV series foreign foreign foreign foreign thank you yes thank you foreign foreign today foreign foreign foreign foreign foreign foreign foreign foreign foreign thank you today foreign sorry foreign today foreign [Music] foreign foreign foreign foreign
 
 ---
 
@@ -60,10 +54,7 @@ is a famous linguist who got many awards like kannada Joshi Etc today his daught
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-is a famous linguist who got many awards like kannada Joshi Etc today his daughter malthi Burt is going to read one of his books foreign foreign thank you go do this is foreign
+TRANSCRIPT: ================================================================================ is a famous linguist who got many awards like kannada Joshi Etc today his daughter malthi Burt is going to read one of his books foreign foreign thank you go do this is foreign
 
 ---
 
@@ -72,10 +63,7 @@ is a famous linguist who got many awards like kannada Joshi Etc today his daught
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-foreign foreign foreign foreign [Applause] exclamatory sentence foreign method
+TRANSCRIPT: ================================================================================ foreign foreign foreign foreign [Applause] exclamatory sentence foreign method
 
 ---
 
@@ -91,10 +79,7 @@ foreign foreign foreign foreign [Applause] exclamatory sentence foreign method
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-العقيده [موسيقى] بارودي لا بيكي قال لي متولي ‏hello يا مطواه ينبع
+TRANSCRIPT: ================================================================================ العقيده [موسيقى] بارودي لا بيكي قال لي متولي ‏hello يا مطواه ينبع
 
 ---
 
@@ -124,10 +109,7 @@ TRANSCRIPT:
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-foreign today foreign today foreign foreign
+TRANSCRIPT: ================================================================================ foreign today foreign today foreign foreign
 
 ---
 
@@ -136,10 +118,7 @@ foreign today foreign today foreign foreign
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-[音楽] 移動するゴリマとジャガイヤがいいな ティラノパダワーギーバラケーは 痩せ方の店でレッド系が決まるのは あるがパンガラで グリーンバイランドもリリースカバー がしてバラバラなど のテニスは 奥山や酒場など 顎がパンがして バンダルキと シルバーパンクが バラけソニー 陰謀型からなモットー の終わりと言わんのメロンパンクが粘土を がらばラッキー 青のユニバで喋んなきゃ 青の氾濫の温度ラジスリンダー 泡のマネール は 泡ノーマットかを言ったら番号 Google ウォルチャーソンに何 ラジエスキルダリング が回ったらグリッドが プラスする マラリンダハンの 顎がプレッシャー がっぽからアイドルがいる 泡の何々のかんだ 青の祓魔師 が 青のJBL icaヘッジの屋酒場だがロウいい派で 脆い選び 丸がいるだろう
+TRANSCRIPT: ================================================================================ [音楽] 移動するゴリマとジャガイヤがいいな ティラノパダワーギーバラケーは 痩せ方の店でレッド系が決まるのは あるがパンガラで グリーンバイランドもリリースカバー がしてバラバラなど のテニスは 奥山や酒場など 顎がパンがして バンダルキと シルバーパンクが バラけソニー 陰謀型からなモットー の終わりと言わんのメロンパンクが粘土を がらばラッキー 青のユニバで喋んなきゃ 青の氾濫の温度ラジスリンダー 泡のマネール は 泡ノーマットかを言ったら番号 Google ウォルチャーソンに何 ラジエスキルダリング が回ったらグリッドが プラスする マラリンダハンの 顎がプレッシャー がっぽからアイドルがいる 泡の何々のかんだ 青の祓魔師 が 青のJBL icaヘッジの屋酒場だがロウいい派で 脆い選び 丸がいるだろう
 
 ---
 
@@ -148,10 +127,7 @@ TRANSCRIPT:
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-كلو انتهى عجيب مباراه العجوز يوجد رادوني النيار النبره للدار عورون الناجيين ينتهى مصر الا بئر ينبع رعد
+TRANSCRIPT: ================================================================================ كلو انتهى عجيب مباراه العجوز يوجد رادوني النيار النبره للدار عورون الناجيين ينتهى مصر الا بئر ينبع رعد
 
 ---
 
@@ -160,10 +136,7 @@ TRANSCRIPT:
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-foreign foreign today is today foreign foreign foreign foreign [Music] foreign foreign attitude today foreign TV foreign [Applause] eBay foreign foreign foreign foreign
+TRANSCRIPT: ================================================================================ foreign foreign today is today foreign foreign foreign foreign [Music] foreign foreign attitude today foreign TV foreign [Applause] eBay foreign foreign foreign foreign
 
 ---
 
@@ -172,10 +145,7 @@ foreign foreign today is today foreign foreign foreign foreign [Music] foreign f
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-today foreign money yes okay foreign foreign foreign foreign thank you foreign foreign foreign foreign two three years foreign
+TRANSCRIPT: ================================================================================ today foreign money yes okay foreign foreign foreign foreign thank you foreign foreign foreign foreign two three years foreign
 
 ---
 
@@ -184,10 +154,7 @@ today foreign money yes okay foreign foreign foreign foreign thank you foreign f
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-Video Link: https://www.youtube.com/watch?v=bwDvWCuZfH0
-Video ID: bwDvWCuZfH0
-
-ERROR: Transcripts are disabled for this video
+Video Link: https://www.youtube.com/watch?v=bwDvWCuZfH0 Video ID: bwDvWCuZfH0 ERROR: Transcripts are disabled for this video
 
 ---
 
@@ -203,10 +170,7 @@ ERROR: Transcripts are disabled for this video
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-today foreign foreign foreign foreign foreign today is today foreign today yes foreign today is foreign foreign
+TRANSCRIPT: ================================================================================ today foreign foreign foreign foreign foreign today is today foreign today yes foreign today is foreign foreign
 
 ---
 
@@ -222,10 +186,7 @@ today foreign foreign foreign foreign foreign today is today foreign today yes f
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-وكاله الله سيري كلابي [موسيقى] لا برابيلا نونيل
+TRANSCRIPT: ================================================================================ وكاله الله سيري كلابي [موسيقى] لا برابيلا نونيل
 
 ---
 
@@ -241,10 +202,7 @@ TRANSCRIPT:
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-foreign foreign foreign hello baby yes foreign foreign TV series foreign foreign foreign thank you Google series
+TRANSCRIPT: ================================================================================ foreign foreign foreign hello baby yes foreign foreign TV series foreign foreign foreign thank you Google series
 
 ---
 
@@ -253,10 +211,7 @@ foreign foreign foreign hello baby yes foreign foreign TV series foreign foreign
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign today foreign sorry
+TRANSCRIPT: ================================================================================ foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign today foreign sorry
 
 ---
 
@@ -265,9 +220,6 @@ foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign 
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-Video Link: https://www.youtube.com/watch?v=v-TAxQLwbpc
-Video ID: v-TAxQLwbpc
-
-ERROR: Transcripts are disabled for this video
+Video Link: https://www.youtube.com/watch?v=v-TAxQLwbpc Video ID: v-TAxQLwbpc ERROR: Transcripts are disabled for this video
 
 ---

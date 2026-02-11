@@ -26,10 +26,7 @@
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-is a famous linguist who got many awards like kannada Joshi Etc today his daughter multi Bert is going to read one of his books [Applause] Linda foreign foreign foreign foreign foreign foreign foreign today is foreign foreign foreign foreign today foreign foreign foreign foreign foreign foreign foreign hello neighbor again foreign foreign foreign foreign foreign foreign foreign today away foreign foreign foreign foreign talu Haku is foreign foreign foreign [Applause] today is foreign foreign foreign [Applause] foreign foreign foreign foreign [Applause] foreign Guri here is foreign foreign foreign thank you foreign Jade Jada [Music] foreign sutu today foreign foreign foreign foreign Tamil is aloko yeah foreign foreign good day foreign foreign foreign today is kudal kuntal muru moonroof kannada foreign foreign foreign foreign foreign foreign foreign foreign today foreign jaru Google foreign foreign foreign turuko is foreign foreign karagu karage either foreign foreign foreign you today is to gide foreign foreign foreign today turantana today is foreign foreign [Music] foreign foreign today is foreign foreign foreign foreign Anta foreign foreign foreign foreign foreign any two foreign [Music]
+TRANSCRIPT: ================================================================================ is a famous linguist who got many awards like kannada Joshi Etc today his daughter multi Bert is going to read one of his books [Applause] Linda foreign foreign foreign foreign foreign foreign foreign today is foreign foreign foreign foreign today foreign foreign foreign foreign foreign foreign foreign hello neighbor again foreign foreign foreign foreign foreign foreign foreign today away foreign foreign foreign foreign talu Haku is foreign foreign foreign [Applause] today is foreign foreign foreign [Applause] foreign foreign foreign foreign [Applause] foreign Guri here is foreign foreign foreign thank you foreign Jade Jada [Music] foreign sutu today foreign foreign foreign foreign Tamil is aloko yeah foreign foreign good day foreign foreign foreign today is kudal kuntal muru moonroof kannada foreign foreign foreign foreign foreign foreign foreign foreign today foreign jaru Google foreign foreign foreign turuko is foreign foreign karagu karage either foreign foreign foreign you today is to gide foreign foreign foreign today turantana today is foreign foreign [Music] foreign foreign today is foreign foreign foreign foreign Anta foreign foreign foreign foreign foreign any two foreign [Music]
 
 ---
 
@@ -38,10 +35,7 @@ is a famous linguist who got many awards like kannada Joshi Etc today his daught
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-is a famous linguist who got many awards like kannada Joshi Etc today his daughter multi Bert is going to read one of his book s [Applause] foreign foreign foreign foreign foreign [Music] foreign today [Music] foreign foreign foreign foreign foreign foreign foreign hurry kiwi foreign Colo foreign [Applause] though TOTA here is today buddy foreign today Kanna [Music] foreign foreign foreign foreign takkadi foreign foreign foreign foreign foreign foreign foreign today is today hero pale hello foreign foreign foreign foreign foreign Charo galike is foreign foreign foreign today is today foreign foreign foreign foreign foreign foreign foreign foreign [Music] foreign foreign foreign hello Bebo mean foreign foreign marangar foreign foreign benoli is foreign foreign foreign Bunda horadu one do you know hello today foreign foreign beiru foreign foreign [Applause] foreign foreign today is what did they do foreign foreign foreign foreign foreign only day ombay is foreign foreign foreign foreign Banda Tina is foreign foreign foreign foreign foreign today foreign foreign foreign foreign foreign today how is today foreign foreign foreign foreign today analysis foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign today foreign foreign foreign foreign foreign today foreign foreign foreign foreign
+TRANSCRIPT: ================================================================================ is a famous linguist who got many awards like kannada Joshi Etc today his daughter multi Bert is going to read one of his book s [Applause] foreign foreign foreign foreign foreign [Music] foreign today [Music] foreign foreign foreign foreign foreign foreign foreign hurry kiwi foreign Colo foreign [Applause] though TOTA here is today buddy foreign today Kanna [Music] foreign foreign foreign foreign takkadi foreign foreign foreign foreign foreign foreign foreign today is today hero pale hello foreign foreign foreign foreign foreign Charo galike is foreign foreign foreign today is today foreign foreign foreign foreign foreign foreign foreign foreign [Music] foreign foreign foreign hello Bebo mean foreign foreign marangar foreign foreign benoli is foreign foreign foreign Bunda horadu one do you know hello today foreign foreign beiru foreign foreign [Applause] foreign foreign today is what did they do foreign foreign foreign foreign foreign only day ombay is foreign foreign foreign foreign Banda Tina is foreign foreign foreign foreign foreign today foreign foreign foreign foreign foreign today how is today foreign foreign foreign foreign today analysis foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign today foreign foreign foreign foreign foreign today foreign foreign foreign foreign
 
 ---
 
@@ -57,10 +51,7 @@ is a famous linguist who got many awards like kannada Joshi Etc today his daught
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-averlo bere bere bere secondo voi aghi da rugannare da Bari gay bere la barrica di cantaluporiche che c'ha tirava anche te Yellow parecchie canarino Napoli - Juve un lido di ravennanotizie.it che è alla pari che hanno sotto idee a dare il dottor driver di Demo a tutti Hello gum nudi ad accentati Ravera Linda muriban die antwo yuppina Tillo vuole l'IKEA Luca bolongaro know what cannonate Google hanno Birba alice's muchia birming l'anno che con la laghi ed è mondo tengo lì ma non riusciranno molto bene Si ulidavano De Gea alla rene IKEA Girl ottenute in bocca talella Bakery House là Brasile e Real Time sua Avant regala Lilly embare quando un drago da rubati indabel le domande di idee Varu and dagli dei muro un battello Teresa di calli e Tenco driver da lì Mondragone da poi andò a ottobre che ago da dare alle Canarie da puppen telucum molto bene Dragoni ortopedia Agata Ortona Guarda YouTube e manda a cagare cosa cantare da degli ito o tu un botanno Ti risulta cachi you Ma che yogurt a Locarno cui tengo Ma tu mandano regali buttati i cara matto e caracalo i riti otto seri raga e cara. Uh cara ma tu o cara uh uh Doretta de Imar parodontitele l'unica galline le di là cannellate Hello gutù marantzù bare you raiu Guarda che lo nu curu da gru di con la vè grovi al ragù da ragù un driver da te devo dirglielo Mondragone da lì e u o mateu e Emma ma tu i e u u fatto Ah e Ma i dotelli regalo camminare download vaiegata mondali che crinali che mele i gli uu non dove e e e oh oh che era che teorica D'Annunzio Mario raga vai te Ridi ridi che modello multiuliballano raga vai e giocare i miei Mucci rotta di agagendo karea la Cut the hill il gli Elmo D'Annunzio Mario Raga ma Alighieri mumbaca e andremo in nali che vai a Melba di ieri rotta de ho fatto Uh e l'aveu E mo danunte Mario raga maliki a invaga andare che vai a mail vado a vedere ottenuto lì bere mucchiolii nella su nel blu era lu il Barù vede vita Neil Ciao cara bandiera su Turi che tieni su Turi che sono Rue patate a lui emba Portogallo cibo che tu tu mi tu Midi Nur morì netaru nere Neto caco i barbarighetto anzi con l'hotelè vero che la balica augala o Little cachi seri si trova Uh Caravan Daga adolescenti con Lodi la mele e modellini colpivu matto mitu Ella lì in Little aghi serie si rubava Uh Caravan di idee muro muro e andavo do gli erano Voodoo cannella di li e embodaghi Markt che aghi Imar parlano di che cantava Novoli carte cattivi e c'è Riccardo mele coltivata patate idee il libro un drago ed era un papa nota mi Lugli con le idee molto ulicanteiro va a patagala li Imar parlo nelle dilla è un modello Sky by coi Nai vai e manda a patagarelli Carati
+TRANSCRIPT: ================================================================================ averlo bere bere bere secondo voi aghi da rugannare da Bari gay bere la barrica di cantaluporiche che c'ha tirava anche te Yellow parecchie canarino Napoli - Juve un lido di ravennanotizie.it che è alla pari che hanno sotto idee a dare il dottor driver di Demo a tutti Hello gum nudi ad accentati Ravera Linda muriban die antwo yuppina Tillo vuole l'IKEA Luca bolongaro know what cannonate Google hanno Birba alice's muchia birming l'anno che con la laghi ed è mondo tengo lì ma non riusciranno molto bene Si ulidavano De Gea alla rene IKEA Girl ottenute in bocca talella Bakery House là Brasile e Real Time sua Avant regala Lilly embare quando un drago da rubati indabel le domande di idee Varu and dagli dei muro un battello Teresa di calli e Tenco driver da lì Mondragone da poi andò a ottobre che ago da dare alle Canarie da puppen telucum molto bene Dragoni ortopedia Agata Ortona Guarda YouTube e manda a cagare cosa cantare da degli ito o tu un botanno Ti risulta cachi you Ma che yogurt a Locarno cui tengo Ma tu mandano regali buttati i cara matto e caracalo i riti otto seri raga e cara. Uh cara ma tu o cara uh uh Doretta de Imar parodontitele l'unica galline le di là cannellate Hello gutù marantzù bare you raiu Guarda che lo nu curu da gru di con la vè grovi al ragù da ragù un driver da te devo dirglielo Mondragone da lì e u o mateu e Emma ma tu i e u u fatto Ah e Ma i dotelli regalo camminare download vaiegata mondali che crinali che mele i gli uu non dove e e e oh oh che era che teorica D'Annunzio Mario raga vai te Ridi ridi che modello multiuliballano raga vai e giocare i miei Mucci rotta di agagendo karea la Cut the hill il gli Elmo D'Annunzio Mario Raga ma Alighieri mumbaca e andremo in nali che vai a Melba di ieri rotta de ho fatto Uh e l'aveu E mo danunte Mario raga maliki a invaga andare che vai a mail vado a vedere ottenuto lì bere mucchiolii nella su nel blu era lu il Barù vede vita Neil Ciao cara bandiera su Turi che tieni su Turi che sono Rue patate a lui emba Portogallo cibo che tu tu mi tu Midi Nur morì netaru nere Neto caco i barbarighetto anzi con l'hotelè vero che la balica augala o Little cachi seri si trova Uh Caravan Daga adolescenti con Lodi la mele e modellini colpivu matto mitu Ella lì in Little aghi serie si rubava Uh Caravan di idee muro muro e andavo do gli erano Voodoo cannella di li e embodaghi Markt che aghi Imar parlano di che cantava Novoli carte cattivi e c'è Riccardo mele coltivata patate idee il libro un drago ed era un papa nota mi Lugli con le idee molto ulicanteiro va a patagala li Imar parlo nelle dilla è un modello Sky by coi Nai vai e manda a patagarelli Carati
 
 ---
 
@@ -88,7 +79,9 @@ averlo bere bere bere secondo voi aghi da rugannare da Bari gay bere la barrica 
 ## Part 7
 [Watch on YouTube](https://www.youtube.com/watch?v=cFoeWBM3RNY)
 
-ಮುಂದೆ ಇಂದ ಕರೆಯಲು ಬಂದಿದ್ದೇವೆ. ಇಲ್ಲಿ ನೋಡಿ. ಹೌದು, ಗಾನ. ಹಿಂದೆ ಮೇಂ ಪಶು ಕೆ ಲಿಯೆ ಎಂದು ಹೇಳಿದೆವು. ಮಂದಿರ ಮದನ. ಕನ್ನಡದಲ್ಲಿ ಕನ್ನಡದಲ್ಲಿ ಕರಾವಳಿಯಲ್ಲಿ ಬೆರೆಯುವ ಲಲ್ಲು. ಕನ್ನಡದಲ್ಲಿ ಕನ್ನಡದಲ್ಲಿ ಹೀರೋ ಹೀರೋಯಿನ್. ಭಾರಿ ಭಾರಿ.
+ಮುಂದೆ ಇಂದ ಕರೆಯಲು ಬಂದಿದ್ದೇವೆ. ಇಲ್ಲಿ ನೋಡಿ. ಹೌದು, ಗಾನ. ಹಿಂದೆ ಮೇಂ ಪಶು ಕೆ ಲಿಯೆ ಎಂದು ಹೇಳಿದೆವು. ಮಂದಿರ ಮದನ.
+
+ಕನ್ನಡದಲ್ಲಿ ಕನ್ನಡದಲ್ಲಿ ಕರಾವಳಿಯಲ್ಲಿ ಬೆರೆಯುವ ಲಲ್ಲು. ಕನ್ನಡದಲ್ಲಿ ಕನ್ನಡದಲ್ಲಿ ಹೀರೋ ಹೀರೋಯಿನ್. ಭಾರಿ ಭಾರಿ.
 
 ---
 
@@ -97,10 +90,7 @@ averlo bere bere bere secondo voi aghi da rugannare da Bari gay bere la barrica 
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-[Música] Carol ali agora galera O cara matou o cara calabresa de cá o cara mais perto dele Adorei o cara lá Guimar parte dele o cara virou olha aqui escapou acabou o cara virou pata ganhou canta essa música do muro de canteiro ali o mapa da Galileia e do Hugo amar parou ali não agora não liga
+TRANSCRIPT: ================================================================================ [Música] Carol ali agora galera O cara matou o cara calabresa de cá o cara mais perto dele Adorei o cara lá Guimar parte dele o cara virou olha aqui escapou acabou o cara virou pata ganhou canta essa música do muro de canteiro ali o mapa da Galileia e do Hugo amar parou ali não agora não liga
 
 ---
 
@@ -116,10 +106,11 @@ TRANSCRIPT:
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
+TRANSCRIPT: ================================================================================ UD . . . . , ur , ur , , , , ID 8 ur 9 .
 
-UD . . . . , ur , ur , , , , ID 8 ur 9 . emb 3 . 0 , 0 . . . 5 6 ill ID ID ill 7 emb EM . . . 1 . 2 . emb 8 3 .
+emb 3 . 0 , 0 . . . 5 6 ill ID ID ill 7 emb EM .
+
+. . 1 . 2 . emb 8 3 .
 
 ---
 

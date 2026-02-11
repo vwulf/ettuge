@@ -34,10 +34,7 @@
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-is a famous linguist who got many awards like kannada Joshi Etc today his daughter multi Bert is going to read one of his books is foreign foreign foreign foreign foreign foreign foreign today foreign foreign foreign foreign [Applause] foreign TV channels foreign foreign foreign foreign foreign [Applause] foreign foreign foreign foreign foreign foreign foreign today foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign today foreign foreign foreign today today today foreign today today foreign foreign foreign foreign foreign foreign foreign foreign today today foreign foreign foreign foreign today Marathi Telugu models today foreign foreign foreign foreign today is foreign foreign foreign foreign foreign today is today foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign today foreign foreign foreign foreign today is foreign today foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign today foreign foreign
+TRANSCRIPT: ================================================================================ is a famous linguist who got many awards like kannada Joshi Etc today his daughter multi Bert is going to read one of his books is foreign foreign foreign foreign foreign foreign foreign today foreign foreign foreign foreign [Applause] foreign TV channels foreign foreign foreign foreign foreign [Applause] foreign foreign foreign foreign foreign foreign foreign today foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign today foreign foreign foreign today today today foreign today today foreign foreign foreign foreign foreign foreign foreign foreign today today foreign foreign foreign foreign today Marathi Telugu models today foreign foreign foreign foreign today is foreign foreign foreign foreign foreign today is today foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign today foreign foreign foreign foreign today is foreign today foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign today foreign foreign
 
 ---
 
@@ -46,13 +43,7 @@ is a famous linguist who got many awards like kannada Joshi Etc today his daught
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-Video Link: https://www.youtube.com/watch?v=enhh0H-Rt4s
-Video ID: enhh0H-Rt4s
-
-NO_INDIAN_SCRIPT: Content in en, no Kannada/Devanagari found
-
-Original content:
-is a famous linguist who got many awards like kannada Joshi Etc today his daughter multi Bert is going to read one of his books is foreign foreign foreign foreign foreign foreign foreign foreign TV foreign foreign [Music] foreign foreign foreign no no no today foreign Tamma foreign foreign foreign today foreign foreign foreign foreign foreign foreign today today foreign foreign today foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign [Music] foreign today here it is foreign foreign English today foreign today foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign [Applause] foreign today today is foreign foreign Allah subscribe foreign foreign foreign hello foreign foreign foreign foreign foreign never know English words foreign foreign mother s today foreign no yeah today today is foreign [Applause] foreign foreign foreign foreign foreign foreign one day today you know today foreign today foreign today foreign foreign foreign foreign foreign foreign today foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign today is foreign TV Cameroon foreign foreign foreign foreign today foreign foreign
+Video Link: https://www.youtube.com/watch?v=enhh0H-Rt4s Video ID: enhh0H-Rt4s NO_INDIAN_SCRIPT: Content in en, no Kannada/Devanagari found Original content: is a famous linguist who got many awards like kannada Joshi Etc today his daughter multi Bert is going to read one of his books is foreign foreign foreign foreign foreign foreign foreign foreign TV foreign foreign [Music] foreign foreign foreign no no no today foreign Tamma foreign foreign foreign today foreign foreign foreign foreign foreign foreign today today foreign foreign today foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign [Music] foreign today here it is foreign foreign English today foreign today foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign [Applause] foreign today today is foreign foreign Allah subscribe foreign foreign foreign hello foreign foreign foreign foreign foreign never know English words foreign foreign mother s today foreign no yeah today today is foreign [Applause] foreign foreign foreign foreign foreign foreign one day today you know today foreign today foreign today foreign foreign foreign foreign foreign foreign today foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign today is foreign TV Cameroon foreign foreign foreign foreign today foreign foreign
 
 ---
 
@@ -89,10 +80,7 @@ is a famous linguist who got many awards like kannada Joshi Etc today his daught
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-foreign foreign today today foreign foreign foreign
+TRANSCRIPT: ================================================================================ foreign foreign today today foreign foreign foreign
 
 ---
 
@@ -101,10 +89,7 @@ foreign foreign today today foreign foreign foreign
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-كاليتي ماما لدينا انت انت يا كندريلا كراميلي انت هى
+TRANSCRIPT: ================================================================================ كاليتي ماما لدينا انت انت يا كندريلا كراميلي انت هى
 
 ---
 
@@ -113,10 +98,7 @@ TRANSCRIPT:
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-calificable el libro colocamos a la tienda y cartelera su rutina
+TRANSCRIPT: ================================================================================ calificable el libro colocamos a la tienda y cartelera su rutina
 
 ---
 
@@ -132,10 +114,7 @@ calificable el libro colocamos a la tienda y cartelera su rutina
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-ولكن كلها او بلديه موديل يا عندها عمي
+TRANSCRIPT: ================================================================================ ولكن كلها او بلديه موديل يا عندها عمي
 
 ---
 
@@ -144,10 +123,7 @@ TRANSCRIPT:
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-ventaja ahora miren en el hierro Linares y billete de salud modelo cariño TV chalia Aguilar [Música] no obligando la rusa abandonarnos América mató
+TRANSCRIPT: ================================================================================ ventaja ahora miren en el hierro Linares y billete de salud modelo cariño TV chalia Aguilar [Música] no obligando la rusa abandonarnos América mató
 
 ---
 
@@ -156,10 +132,7 @@ ventaja ahora miren en el hierro Linares y billete de salud modelo cariño TV ch
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-Антанта
+TRANSCRIPT: ================================================================================ Антанта
 
 ---
 
@@ -168,10 +141,7 @@ TRANSCRIPT:
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-لانه جايبه هاجاجي اوروبا تشيكا انه سيدي لانه برادا لبروبليبيكا هنا التاريخ ايضا انتهى
+TRANSCRIPT: ================================================================================ لانه جايبه هاجاجي اوروبا تشيكا انه سيدي لانه برادا لبروبليبيكا هنا التاريخ ايضا انتهى
 
 ---
 
@@ -222,9 +192,6 @@ TRANSCRIPT:
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-النمره روما سعيد
+TRANSCRIPT: ================================================================================ النمره روما سعيد
 
 ---

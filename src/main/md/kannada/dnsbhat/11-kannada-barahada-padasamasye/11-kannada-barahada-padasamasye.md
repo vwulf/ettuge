@@ -38,10 +38,7 @@
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-is a famous linguist who got many awards like kannada Joshi Etc today his wife bharti bird will read one of his books foreign foreign today
+TRANSCRIPT: ================================================================================ is a famous linguist who got many awards like kannada Joshi Etc today his wife bharti bird will read one of his books foreign foreign today
 
 ---
 
@@ -50,13 +47,7 @@ is a famous linguist who got many awards like kannada Joshi Etc today his wife b
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-Video Link: https://www.youtube.com/watch?v=aK1CRXoBTlE
-Video ID: aK1CRXoBTlE
-
-NO_INDIAN_SCRIPT: Content in ar, no Kannada/Devanagari found
-
-Original content:
-وبركاته وانتم اذا لديك ليش
+Video Link: https://www.youtube.com/watch?v=aK1CRXoBTlE Video ID: aK1CRXoBTlE NO_INDIAN_SCRIPT: Content in ar, no Kannada/Devanagari found Original content: وبركاته وانتم اذا لديك ليش
 
 ---
 
@@ -65,10 +56,7 @@ Original content:
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-لكن يلا [تصفيق] وانت [موسيقى] [تصفيق] اذا الذيب له انك لي سميع دليل تيك توك [موسيقى] [تصفيق] وحشه
+TRANSCRIPT: ================================================================================ لكن يلا [تصفيق] وانت [موسيقى] [تصفيق] اذا الذيب له انك لي سميع دليل تيك توك [موسيقى] [تصفيق] وحشه
 
 ---
 
@@ -77,10 +65,7 @@ TRANSCRIPT:
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-هلا والله الثوم داله نكشه [موسيقى] هذه الو
+TRANSCRIPT: ================================================================================ هلا والله الثوم داله نكشه [موسيقى] هذه الو
 
 ---
 
@@ -89,10 +74,7 @@ TRANSCRIPT:
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-كله يا ترى اي اي قران وذلك اليوم اريد دينا دينا البيت
+TRANSCRIPT: ================================================================================ كله يا ترى اي اي قران وذلك اليوم اريد دينا دينا البيت
 
 ---
 
@@ -101,10 +83,7 @@ TRANSCRIPT:
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-طيبين رئيس بابا ارانو لتايمر
+TRANSCRIPT: ================================================================================ طيبين رئيس بابا ارانو لتايمر
 
 ---
 
@@ -113,10 +92,7 @@ TRANSCRIPT:
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-كانوا رجالي يجب [موسيقى] الطبيعي اذا لديك انت
+TRANSCRIPT: ================================================================================ كانوا رجالي يجب [موسيقى] الطبيعي اذا لديك انت
 
 ---
 
@@ -139,10 +115,7 @@ TRANSCRIPT:
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-جنانك ظاهر [موسيقى] كوكو [موسيقى] الطريق [موسيقى] ولا ولا انتهى [موسيقى]
+TRANSCRIPT: ================================================================================ جنانك ظاهر [موسيقى] كوكو [موسيقى] الطريق [موسيقى] ولا ولا انتهى [موسيقى]
 
 ---
 
@@ -151,10 +124,7 @@ TRANSCRIPT:
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-から指揮者が実家になりバラファンの パイスからのチャリを上げるおやすみ クラシックなども削り合わで 周りほど待って大勢 はあげまわれる から アドバンス 100円でね お願いします [音楽] インターヘッジなき車両のカリスは おっしゃることに アイスクリームからさ 犬の一つの メーカー電流北海道 だけから インターハイデルサー
+TRANSCRIPT: ================================================================================ から指揮者が実家になりバラファンの パイスからのチャリを上げるおやすみ クラシックなども削り合わで 周りほど待って大勢 はあげまわれる から アドバンス 100円でね お願いします [音楽] インターヘッジなき車両のカリスは おっしゃることに アイスクリームからさ 犬の一つの メーカー電流北海道 だけから インターハイデルサー
 
 ---
 
@@ -163,10 +133,7 @@ TRANSCRIPT:
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-انتهى مكتوب [موسيقى] انتهى انا [موسيقى] كاميرا لو باقي للطريق ولا لا وانا [موسيقى] ليه لكن
+TRANSCRIPT: ================================================================================ انتهى مكتوب [موسيقى] انتهى انا [موسيقى] كاميرا لو باقي للطريق ولا لا وانا [موسيقى] ليه لكن
 
 ---
 
@@ -182,10 +149,7 @@ TRANSCRIPT:
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-foreign [Music] foreign foreign distributive English language foreign foreign foreign
+TRANSCRIPT: ================================================================================ foreign [Music] foreign foreign distributive English language foreign foreign foreign
 
 ---
 
@@ -194,10 +158,7 @@ foreign [Music] foreign foreign distributive English language foreign foreign fo
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-مكتوب يجي ره بيراج الوقارنه مكتوب [موسيقى] اذا كبدلوكو توتو عندنا حلو [تصفيق] كيف يعني الرئيس
+TRANSCRIPT: ================================================================================ مكتوب يجي ره بيراج الوقارنه مكتوب [موسيقى] اذا كبدلوكو توتو عندنا حلو [تصفيق] كيف يعني الرئيس
 
 ---
 
@@ -206,10 +167,7 @@ TRANSCRIPT:
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-ظاهر عادي [موسيقى] الاسود كده انهلك ظاهر انت الطبيعي [موسيقى] ظاهر انا جيت عندنا بوميه سته سته دي كان مكتوب عندنا
+TRANSCRIPT: ================================================================================ ظاهر عادي [موسيقى] الاسود كده انهلك ظاهر انت الطبيعي [موسيقى] ظاهر انا جيت عندنا بوميه سته سته دي كان مكتوب عندنا
 
 ---
 
@@ -218,10 +176,7 @@ TRANSCRIPT:
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-ولكن [موسيقى] انت [موسيقى] كريم انت مبروك نعم الطبيعي [موسيقى]
+TRANSCRIPT: ================================================================================ ولكن [موسيقى] انت [موسيقى] كريم انت مبروك نعم الطبيعي [موسيقى]
 
 ---
 
@@ -230,10 +185,7 @@ TRANSCRIPT:
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-انا [موسيقى] الو [تصفيق] الى بالله [موسيقى] التعادل اودعانك يا متننا يا مدالي مننا انا
+TRANSCRIPT: ================================================================================ انا [موسيقى] الو [تصفيق] الى بالله [موسيقى] التعادل اودعانك يا متننا يا مدالي مننا انا
 
 ---
 
@@ -242,10 +194,7 @@ TRANSCRIPT:
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-Video Link: https://www.youtube.com/watch?v=E1B_gyAhDOc
-Video ID: E1B_gyAhDOc
-
-ERROR: Transcripts are disabled for this video
+Video Link: https://www.youtube.com/watch?v=E1B_gyAhDOc Video ID: E1B_gyAhDOc ERROR: Transcripts are disabled for this video
 
 ---
 
@@ -254,10 +203,7 @@ ERROR: Transcripts are disabled for this video
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-قليل [موسيقى] كيفيه اشتركوا عندنا هذا اللي انتهى بالطريق [تصفيق] كلمه [موسيقى] ودواء
+TRANSCRIPT: ================================================================================ قليل [موسيقى] كيفيه اشتركوا عندنا هذا اللي انتهى بالطريق [تصفيق] كلمه [موسيقى] ودواء
 
 ---
 
@@ -266,10 +212,7 @@ TRANSCRIPT:
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-هلا [تصفيق] هذا الواقع طمني انجيش نوركم ابتدائي [موسيقى] هذا الفيديو
+TRANSCRIPT: ================================================================================ هلا [تصفيق] هذا الواقع طمني انجيش نوركم ابتدائي [موسيقى] هذا الفيديو
 
 ---
 
@@ -278,10 +221,7 @@ TRANSCRIPT:
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-foreign foreign Jerry please foreign birthday is foreign foreign foreign foreign [Music] foreign maximize very difficult anodes foreign foreign foreign birthday foreign foreign
+TRANSCRIPT: ================================================================================ foreign foreign Jerry please foreign birthday is foreign foreign foreign foreign [Music] foreign maximize very difficult anodes foreign foreign foreign birthday foreign foreign
 
 ---
 
@@ -290,10 +230,7 @@ foreign foreign Jerry please foreign birthday is foreign foreign foreign foreign
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-وجبتك م متبارده قناه انا الديني [تصفيق] ولكن
+TRANSCRIPT: ================================================================================ وجبتك م متبارده قناه انا الديني [تصفيق] ولكن
 
 ---
 
@@ -302,10 +239,7 @@ TRANSCRIPT:
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-وانتم ينبع نا منه والنبي لما سمانا لله هكذا تمام [موسيقى]
+TRANSCRIPT: ================================================================================ وانتم ينبع نا منه والنبي لما سمانا لله هكذا تمام [موسيقى]
 
 ---
 
@@ -314,9 +248,6 @@ TRANSCRIPT:
 
 *Note: This transcript has not been cleaned and may contain errors.*
 
-TRANSCRIPT:
-================================================================================
-
-بعيد قناه
+TRANSCRIPT: ================================================================================ بعيد قناه
 
 ---
