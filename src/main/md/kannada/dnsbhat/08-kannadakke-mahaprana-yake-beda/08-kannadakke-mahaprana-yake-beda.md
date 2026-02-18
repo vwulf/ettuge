@@ -33,6 +33,8 @@
 *Note: This transcript has not been cleaned and may contain errors.*
 
 TRANSCRIPT: ================================================================================ is a famous linguist who got many awards like kannada Joshi Etc today his wife bharti but will read one of his books kannada mahaprada Canada foreign foreign [Music] foreign foreign foreign thank you foreign foreign TV foreign [Music] today is foreign foreign foreign foreign you know hello foreign birthday Elizabeth foreign foreign today foreign foreign foreign foreign [Music] foreign an articles [Music] foreign [Music] [Music] what do you do foreign foreign foreign foreign okay foreign foreign foreign foreign [Music] foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign [Music] foreign [Music] the room one two anusarga foreign foreign foreign type TV radio Dr Duty English foreign foreign foreign [Music] [Applause] [Music] foreign foreign foreign foreign foreign foreign foreign hello foreign pop foreign foreign foreign [Applause] foreign foreign foreign foreign foreign foreign celebrity yakara foreign today is foreign foreign foreign today foreign foreign thank you foreign foreign foreign foreign support foreign foreign foreign foreign possible foreign foreign foreign
+ಹಿಂದಿ, ತೆಲುಗು, ಸಂಸ್ಕೃತ, ಕನ್ನಡ ಹಾಡುಗಳು, ಇಂಗ್ಲಿಷ್ ಮಾತ್ರ ಸಂಸ್ಕೃತಿ. ಸಾಮಾನ್ಯವಾಗಿ ಮತ್ತು ಸರಸ್ವತಿ. ಹಲೋ ಕನ್ನಡ ಹಾಡುಗಳು. ಕನ್ನಡ ಹಾಡುಗಳು. ಸಂಸ್ಕೃತ ದೇವಿ.
+
 
 ---
 
