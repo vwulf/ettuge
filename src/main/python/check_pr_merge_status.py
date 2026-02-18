@@ -15,6 +15,12 @@ import json
 from typing import Dict, List, Set, Optional
 
 
+# Configuration constants
+MAX_COMMITS_TO_SEARCH = 100  # Limit search to recent commits for performance
+MIN_PATCH_LENGTH_FOR_SIMILARITY = 100  # Minimum patch size to consider for similarity matching
+PATCH_SIMILARITY_THRESHOLD = 0.9  # 90% similarity required for patch matching
+
+
 def run_git_command(args: List[str]) -> str:
     """Run a git command and return its output."""
     try:
@@ -78,7 +84,7 @@ def find_commit_in_base(commit_sha: str, base_branch: str) -> Optional[str]:
     base_commits = run_git_command([
         'rev-list',
         base_branch,
-        '-100'  # Limit to recent 100 commits for performance
+        f'-{MAX_COMMITS_TO_SEARCH}'  # Limit to recent commits for performance
     ])
     
     if not base_commits:
@@ -92,15 +98,15 @@ def find_commit_in_base(commit_sha: str, base_branch: str) -> Optional[str]:
         base_patch = get_commit_patch(base_commit)
         base_subject = get_commit_subject(base_commit)
         
-        # Match by patch content (only if patch is non-empty)
+        # Match by patch content (only if patch is non-empty and non-trivial)
         if pr_patch and base_patch and pr_patch == base_patch:
             return base_commit
-        elif pr_subject == base_subject and pr_patch and len(pr_patch) > 100:
+        elif pr_subject == base_subject and pr_patch and len(pr_patch) > MIN_PATCH_LENGTH_FOR_SIMILARITY:
             # If subjects match and patches are similar (and non-trivial), consider it a match
             # This handles cases where patches might differ slightly due to context
             pr_lines = set(pr_patch.split('\n'))
             base_lines = set(base_patch.split('\n'))
-            if pr_lines and len(pr_lines & base_lines) / len(pr_lines) > 0.9:
+            if len(pr_lines) > 0 and len(pr_lines & base_lines) / len(pr_lines) > PATCH_SIMILARITY_THRESHOLD:
                 return base_commit
     
     return None
