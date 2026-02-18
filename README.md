@@ -12,6 +12,21 @@ Readable docs are in:
 - **Issue #7**: Revision needed to use DNS Bhat's word formation system
 - **Next Steps**: Revise translation to follow native Kannada methodology
 
+## PR Merge Status Checker
+
+Check if an open Pull Request's code has already been merged into the base branch. Useful for identifying PRs that can be closed because their changes were incorporated through other means (cherry-picking, rebasing, etc.).
+
+**Quick Start:**
+```bash
+# Check if a PR branch is merged into master
+python3 src/main/python/check_pr_merge_status.py <pr-branch> master
+
+# Example: Check current PR
+python3 src/main/python/check_pr_merge_status.py copilot/check-open-pr-status master
+```
+
+See [README_PR_MERGE_CHECK.md](src/main/python/README_PR_MERGE_CHECK.md) for detailed documentation.
+
 ## YouTube Transcript Extraction
 
 This repository includes a script to extract transcripts from YouTube videos. See [extract_transcripts.py](src/main/python/yt-transcript/extract_transcripts.py) and the [README](src/main/python/yt-transcript/README.md) for details.
