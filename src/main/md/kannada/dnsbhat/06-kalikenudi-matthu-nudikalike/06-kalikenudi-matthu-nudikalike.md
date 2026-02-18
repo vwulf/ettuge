@@ -35,6 +35,8 @@
 *Note: This transcript has not been cleaned and may contain errors.*
 
 TRANSCRIPT: ================================================================================ is a famous linguist who got many awards like kannada Joshi Etc today his daughter multi Bert is going to read one of his books is foreign foreign foreign foreign foreign foreign foreign today foreign foreign foreign foreign [Applause] foreign TV channels foreign foreign foreign foreign foreign [Applause] foreign foreign foreign foreign foreign foreign foreign today foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign today foreign foreign foreign today today today foreign today today foreign foreign foreign foreign foreign foreign foreign foreign today today foreign foreign foreign foreign today Marathi Telugu models today foreign foreign foreign foreign today is foreign foreign foreign foreign foreign today is today foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign today foreign foreign foreign foreign today is foreign today foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign today foreign foreign
+ಇಲ್ಲಿ ಏ ಜೈಕಾಲೇಶ್ವರ ಲಿಮಿಟೇಡ್ ಆಗಿ ಅಕಾಲಿ ಕೇಸರಿಯಾ ಕೀ ಮುಂಡಕ ಕೆಹುವಾ ತರಹ ಇಂಗ್ಲಿಶ್ ಹುಕುಮ್ ಇಂಗ್ಲಿಶ್ ಹೋಲಿ
+
 
 ---
 

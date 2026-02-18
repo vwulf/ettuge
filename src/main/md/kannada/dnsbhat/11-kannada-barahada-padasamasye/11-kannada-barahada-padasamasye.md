@@ -39,6 +39,8 @@
 *Note: This transcript has not been cleaned and may contain errors.*
 
 TRANSCRIPT: ================================================================================ is a famous linguist who got many awards like kannada Joshi Etc today his wife bharti bird will read one of his books foreign foreign today
+ಮೈಂದ್ರ ಅಕ್ಷರ ವಿದ್ಯಾಲಯದಲ್ಲಿ ಕಾರಣ ನಿರ್ದೇಶಿತ ಕ್ರಿಯಾಪದಗಳು ಇಂಗ್ಲಿಷ್ ಮತ್ತು ಕನ್ನಡದಲ್ಲಿ ನಾನಾ ರೀತಿಯಲ್ಲಿ ವಿತರಣೆಯಾಗುತ್ತವೆ ಮತ್ತು ಅವುಗಳ ಸಮಯ
+
 
 ---
 

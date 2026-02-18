@@ -37,6 +37,8 @@
 *Note: This transcript has not been cleaned and may contain errors.*
 
 TRANSCRIPT: ================================================================================ is a famous linguist who got many awards like kannada Joshi Etc today his daughter multi Bert is going to read one of his books foreign foreign foreign foreign foreign mood is foreign foreign [Applause] swara demonstrates relations constituent questions foreign method foreign today today is foreign today is a large day foreign foreign foreign foreign today foreign foreign foreign foreign foreign [Music] today foreign today foreign foreign today foreign foreign today foreign today today today foreign foreign foreign foreign foreign foreign foreign [Applause] foreign today is foreign foreign foreign cutie I do is urita foreign foreign foreign thank you foreign foreign foreign thank you yes foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign rtk foreign foreign foreign so [Applause] foreign foreign foreign foreign today foreign foreign today foreign foreign [Applause] foreign today foreign foreign foreign foreign foreign today foreign foreign foreign foreign foreign foreign foreign foreign foreign today foreign foreign foreign today today foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign today is today foreign foreign foreign foreign [Music] foreign foreign at T2 is today foreign TV foreign [Applause] eBay foreign foreign foreign foreign
+ಪಾಣಿ ಚರ್ಚೆ ೯ ಮಾರ್ಚ್ ದಲ್ಲಿ ಹೀಗೆ ಏನು ಪತ್ತೆ ಆಯಿತು ಪತ್ತೆ ಮಾಡಲೇಂಗೆ ಇದು ಹೋಟೆಲ್ ಲೇಖನದಲ್ಲಿ ಅಂಕಿತ ದಿಲ್ಲಿ ಗುರುಗ್ರಾಮ ಕೊನೆಯಲ್ಲಿ ಹೀಗೆ ಯಾಕೆ ಬದಲಾಗುತ್ತೋ ಪಾಣಿ ಪರಿಚಯ
+
 
 ---
 
