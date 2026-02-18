@@ -84,7 +84,7 @@ IAST ಮತ್ತು ಇತರ ವರ್ಣಮಾಲೆಗಳನ್ನು ಬ್
 | 24      | ಮನಃಸ್ಥಿತಿ (Mood)                |                    |                    |                    |                          | ADugana niluvu   |                                                                                             |
 | 25      | ವ್ಯಕ್ತಿವಾಚಕ ಸರ್ವನಾಮ (Personal Pronoun)    |                    |                    |                    |                          | ADupada          |                                                                                             |
 
-## ಹಿನ್ನೆಲೆ ಧ್ವನಿಶಾಸ್ತ್ರ, ಭಾಷಾಶಾಸ್ತ್ರ (Background phonics, linguistics)
+## ಹಿನ್ನೆಲೆ ಧ್ವನಿಶಾಸ್ತ್ರ, ಭಾಷಾಶಾಸ್ತ್ರ (Background phonetics, linguistics)
 
 ## ಕನ್ನಡ ಮತ್ತು ಸಂಸ್ಕೃತದ ನಡುವಿನ ವ್ಯತ್ಯಾಸಗಳು (Differences between kannaDa and samskxta)
 
