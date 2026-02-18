@@ -209,11 +209,53 @@ Eke ಲಿಪ್ಯಂತರಣದ ಉದಾಹರಣೆಗಳಿಗಾಗಿ �
 [^4]: Short consonants - unvoiced
 [^5]: Short consonants - voiced
 [^6]: Compound characters
+[^7]: Reference 7
+[^8]: Reference 8
+[^9]: Reference 9
+[^10]: Reference 10
+[^11]: Reference 11
+[^12]: Reference 12
+[^13]: Reference 13
+[^14]: Reference 14
+[^15]: Reference 15
+[^16]: Reference 16
+[^17]: Reference 17
+[^18]: Reference 18
+[^19]: Reference 19
+[^20]: Reference 20
+[^21]: Reference 21
+[^22]: Reference 22
+[^23]: Reference 23
+[^24]: Reference 24
+[^25]: Reference 25
+[^26]: Reference 26
+[^27]: Reference 27
+[^28]: Reference 28
+[^29]: Reference 29
+[^30]: Reference 30
+[^31]: Reference 31
 [^32]: Language reconstruction
 [^33]: Sound change
 [^34]: Etymology
 [^35]: Phylogeny
 [^36]: A.K. Ramanujan's generative grammar work
+[^37]: Reference 37
+[^38]: Reference 38
+[^39]: Reference 39
+[^40]: Reference 40
+[^41]: Reference 41
+[^42]: Reference 42
+[^43]: Reference 43
+[^44]: Reference 44
+[^45]: Reference 45
+[^46]: Reference 46
+[^47]: Reference 47
+[^48]: Reference 48
+[^49]: Reference 49
+[^50]: Reference 50
+[^51]: Reference 51
+[^52]: Reference 52
+[^53]: Reference 53
 
 ---
 
