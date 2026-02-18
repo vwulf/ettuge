@@ -122,7 +122,7 @@ Eke ಯನ್ನು ಎಲ್ಲರ ಕನ್ನಡ (ek) ಸರಳೀಕರಣ�
 
 ## ವ್ಯಂಜನಗಳು (Consonants)
 
-ಪೂರ್ಣ ವಿವರಗಳಿಗೆ ನೋಡಿ: [sections/Eke_consonants.md](https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/sections/Eke_Consonants.md)
+ಪೂರ್ಣ ವಿವರಗಳಿಗೆ ನೋಡಿ: [sections/Eke_Consonants.md](sections/Eke_Consonants.md)
 
 ### ಎಲ್ಲರ ಕನ್ನಡದಲ್ಲಿ Eke ವ್ಯಂಜನಗಳು (Consonants of ellara kannaDa in Eke)
 
