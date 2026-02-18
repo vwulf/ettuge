@@ -194,10 +194,12 @@ def update_book_with_cleaned_transcripts(book_path: Path, dry_run: bool = False)
     return stats
 
 
-def main():
+def main(dry_run=False):
     """Main function to process all books."""
     print("=" * 80)
     print("Cleaning up dnsbhat books with transcripts_cleaned content")
+    if dry_run:
+        print("(DRY RUN MODE - no files will be modified)")
     print("=" * 80)
     print()
     
@@ -221,8 +223,12 @@ def main():
         book_path = book_files[0]
         print(f"Processing: {book_path.relative_to(REPO_ROOT)}")
         
-        stats = update_book_with_cleaned_transcripts(book_path, dry_run=False)
+        stats = update_book_with_cleaned_transcripts(book_path, dry_run=dry_run)
         all_stats.append(stats)
+        
+        if stats['video_ids']:
+            print(f"  Found {len(stats['video_ids'])} video ID(s) in book")
+            print(f"  {len(stats['cleaned_available'])} cleaned transcript(s) available")
         
         if stats['updated']:
             print(f"  ✓ Updated {stats['sections_replaced']} section(s)")
@@ -257,4 +263,9 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    import sys
+    
+    # Check for --dry-run flag
+    dry_run = "--dry-run" in sys.argv
+    
+    main(dry_run=dry_run)
