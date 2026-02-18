@@ -283,7 +283,7 @@ Kannada has ONE productive suffix for creating new verbs: -ಇಸು. It can be 
 | inter- / mid- | ಒಡ / ನಡು | international→ಒಡನಾಡಿನ, interval→ನಡುಬಿಡುವು |
 | out- / ex- (outside) | ಹೊರ | outdoor→ಹೊರಾಂಗಣ, export→ಹೊರಸಾಗಣೆ |
 | over- / super- (above) | ಮೇಲ್ | overcoat→ಮೇಲುಡುಪು, surface→ಮೇಲ್ಮಯ್ |
-| sub- / under- (below) | ಒಳ / ಕೆಳ | submarine→ಒಳನಾಡಿಗೆ, subtitle→ಕೆಳಗಂಡಿಗೆ |
+| sub- / under- (below) | ಒಳ / ಕೆಳ | submarine→ಒಳನೀರಿಗೆ, subtitle→ಕೆಳಗಂಡಿಗೆ |
 | trans- (across) | ಆಚೆ | transcontinental→ಆಚೆಖಂಡದ |
 | tele- (far) | ಗೆಂಟು | television→ಗೆಂಟುನೋಟ, telephone→ಗೆಂಟುಲಿಕ |
 | circum- (around) | ಸುತ್ತ | circumference→ಸುತ್ತಳತೆ |
