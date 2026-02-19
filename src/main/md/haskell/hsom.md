@@ -42,7 +42,7 @@ The idea of generating the basic song from notes seemed interesting. Carnatic no
 So I stuck to the original. There's extensive information on Carnatic and its mappings to Sheet music on Prof Shivkumar's website [^3]
 
 Digging into [^4] without any musical training and trying to convert them to sheet notation wasn't easy.
-In fact, it went nowhere and sounded nothing like the original. A project that I have left for later.
+In fact, it went nowhere and sounded nothing like the original. A basic encoding of the raga scale and opening phrases has been added [^16], as an approximation without gamakas or microtonal ornaments.
 
 ## Alternates to Euterpea
 While attempting to summarize this earlier work, I also saw some interesting attempts to port HSOM/Euterpea to scala 3 [^10].
@@ -67,3 +67,4 @@ along the line that I ran into [^9] are less prevalent.
 [^13]: https://sujamusic.wordpress.com/2013/12/31/pacchai-ma-malai/
 [^14]: https://sujamusic.wordpress.com/2012/02/08/rangapura-vihara/
 [^15]: https://github.com/Euterpea/Euterpea2
+[^16]: https://github.com/vwulf/ettuge/blob/master/src/main/haskell/euterpea/rangapura.hs
