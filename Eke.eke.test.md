@@ -1,6 +1,6 @@
-# Eke (ಏಕೆ) - kannaDavannu baraha badalAvaNe mADalu ondu munnuDi
+# Eke (Eke) - kannaDavannu baraha badalAvaNe mADalu ondu munnuDi
 
-I munnuDiyu kaTTaleyillada kannaDa barahadalli IgAgalE internet‌na bErebEre dArigaLalli baLakeyalliruva saNNa bEratanavannu tiddalu paDuttade. idu Harvard Kyoto protocol (HK) na saNNa bEratanavAgiddu kannaDakke aLavaDisalAgide.
+I munnuDiyu kaTTaleyillada kannaDa barahadalli IgAgalE internet‌na bErebEre dArigaLalli baLakeyalliruva saNNa bEratanavannu tiddalu paDuttade. idu hArWord kyOTO prOTokAl (HK) na saNNa bEratanavAgiddu kannaDakke aLavaDisalAgide.
 
 oLLeya padada korategAgi, kannaDavannu baraha badalAvaNe mADalu IgAgalE kaTTaleyillada bageyondu baLakeyallide. idannu IK (kaTTaleyillada kannaDa - informal kannaDa) endu kareyONa. Eke yu IK mattu HK naDuve ondu gereyannu naDesuttade.
 
