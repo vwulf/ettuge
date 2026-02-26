@@ -9,6 +9,7 @@ Ettuge is a linguistic research project focused on native Kannada language prese
 - Translation work using **DNS Bhat's native Kannada word formation methodology**
 - YouTube transcript extraction and processing for linguistics research
 - Functional programming examples in Haskell, Scala, and Kojo
+- Personal reading catalog (Books)
 
 **Repository:** https://github.com/vwulf/ettuge (public)
 
@@ -33,6 +34,10 @@ ettuge/
     │   │   ├── transcripts/     # Raw YouTube transcripts (349+ files)
     │   │   ├── transcripts_cleaned/  # AI-cleaned transcripts (130+ files)
     │   │   └── sections/        # Extracted transcript sections
+    │   ├── Books/               # Personal reading catalog
+    │   │   ├── Books.md         # Index of influential books (by author, with summaries)
+    │   │   ├── Books-Top.md     # Modern Library Top 100 novels list with summaries
+    │   │   └── influential/     # Individual book files (Summary, Critical Takeaways, My Takeaways)
     │   ├── haskell/             # Haskell/FP documentation
     │   ├── kojo/                # Kojo programming articles
     │   ├── nihongo/             # Japanese language docs
@@ -119,6 +124,17 @@ Eke (Ellara Kannada) is a simplified romanization designed for native Kannada sp
 - **Retroflexes preserved:** ಟ→T, ಡ→D, ಣ→N, ಳ→L
 - **Velar nasals:** ಙ→G, ಞ→Y
 - Full mappings documented in `Eke.md`
+
+---
+
+## Books
+
+Personal reading catalog located in `src/main/md/Books/`:
+- **`Books.md`** — Master index of influential books, organized by author with inline summaries. Categories include: Western Fiction, Kannada/Indian Literature, Indian Classical Texts, D. N. Shankara Bhat linguistics works, Science & Biology, History & Biography, Math & Computing, Martial Arts & Physical Practice, Economics & Ideas.
+- **`Books-Top.md`** — Modern Library Top 100 novels list with summaries.
+- **`influential/`** — Individual files for each book with: Summary, Critical Takeaways, and My Takeaways sections.
+
+Two sections in `Books.md` are yet to be populated: "Read but Not That Influential" and "Want to Read".
 
 ---
 
