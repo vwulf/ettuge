@@ -392,8 +392,6 @@ Smart Nora review (sleepfoundation.org)
 
 Nasal Involvement in OSA Syndrome
 
-OAT mandibular appliance — CPT code 21085
-
 Influence of Nasal Resistance on Oral Appliance Treatment
 
 OSA and Cardiovascular Disease (NCBI)
