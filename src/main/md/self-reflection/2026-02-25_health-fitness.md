@@ -1,12 +1,12 @@
 ---
 title: Health, Fitness & Martial Arts
 created: 2026-02-25
-source: ../self.md
+source: self.md (not in repository)
 ---
 
 # Health, Fitness & Martial Arts
 
-> Derived from [`self.md`](../self.md) · Created: 2026-02-25
+> Derived from `self.md` · Created: 2026-02-25
 
 Personal fitness logs, climbing progress, pull-up training, VO2 max data, nutrition, and martial arts notes.
 

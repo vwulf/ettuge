@@ -1,12 +1,12 @@
 ---
 title: Machine Learning & AI
 created: 2026-02-25
-source: ../self.md
+source: self.md (not in repository)
 ---
 
 # Machine Learning & AI
 
-> Derived from [`self.md`](../self.md) · Created: 2026-02-25
+> Derived from `self.md` · Created: 2026-02-25
 
 Links, notes, papers, and code snippets on LLMs, RAG, fine-tuning, neural architectures, and AI infrastructure.
 

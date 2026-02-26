@@ -1,12 +1,12 @@
 ---
 title: Mathematics & Science
 created: 2026-02-25
-source: ../self.md
+source: self.md (not in repository)
 ---
 
 # Mathematics & Science
 
-> Derived from [`self.md`](../self.md) · Created: 2026-02-25
+> Derived from `self.md` · Created: 2026-02-25
 
 Links and notes on mathematics, physics, biology, and science discoveries.
 

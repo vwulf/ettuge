@@ -1,12 +1,12 @@
 ---
 title: Kannada Language & Linguistics
 created: 2026-02-25
-source: ../self.md
+source: self.md (not in repository)
 ---
 
 # Kannada Language & Linguistics
 
-> Derived from [`self.md`](../self.md) · Created: 2026-02-25
+> Derived from `self.md` · Created: 2026-02-25
 
 Notes, links, and resources on Kannada linguistics, etymology, script, Proto-Dravidian, and related languages.
 
