@@ -167,7 +167,7 @@ Books that have reshaped how I think, see, or act. Organized by author.
 | Book | Summary |
 |------|---------|
 | [MaraLi maNNige (ಮರಳಿ ಮಣ್ಣಿಗೆ)](influential/marali-mannige.md) | Shivarama Karanth's 1942 novel follows an educated man who returns to his coastal Karnataka village and must negotiate a life between the world his education has opened and the world he comes from. Karanth renders the Tulu Nadu landscape, its yakshagana culture, and its social hierarchies with the intimacy of a lifetime of documentation. One of the defining novels of the Navodaya period of Kannada fiction. |
-| [nAgarahAvu (ನಾಗರಹಾವು)](influential/nagarahavu.md) | Triveni's 1959 Kannada novel follows three women whose lives are damaged by the same charismatic, emotionally unavailable man across years of love, betrayal, and consequence. Among the first major Kannada women novelists, Triveni brought sustained attention to women's inner lives. The most widely-read Kannada novel ever written; adapted into one of the most successful Kannada films of the 1970s. |
+| [nAgarahAvu (ನಾಗರಹಾವು)](influential/nagarahavu.md) | ta ra subba rao's 1959 Kannada novel follows three women whose lives are damaged by the same charismatic, emotionally unavailable man across years of love, betrayal, and consequence. Among the first major Kannada writers, ta ra subba rao brought sustained attention to women's inner lives. The most widely-read Kannada novel ever written; adapted into one of the most successful Kannada films of the 1970s. |
 
 ---
 
