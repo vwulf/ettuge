@@ -1,12 +1,12 @@
 ---
 title: Books, Literature & Miscellaneous
 created: 2026-02-25
-source: ../self.md
+source: self.md (not in repository)
 ---
 
 # Books, Literature & Miscellaneous
 
-> Derived from [`self.md`](../self.md) · Created: 2026-02-25
+> Derived from `self.md` · Created: 2026-02-25
 
 Diverse links and notes that don't fit neatly in other categories: books, art, culture, travel, current events, personal notes, and observations.
 

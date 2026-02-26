@@ -1,12 +1,12 @@
 ---
 title: Data Engineering
 created: 2026-02-25
-source: ../self.md
+source: self.md (not in repository)
 ---
 
 # Data Engineering
 
-> Derived from [`self.md`](../self.md) · Created: 2026-02-25
+> Derived from `self.md` · Created: 2026-02-25
 
 Links, notes, and resources on data pipelines, system design, databases, and data infrastructure.
 

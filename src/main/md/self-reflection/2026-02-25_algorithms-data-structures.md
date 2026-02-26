@@ -1,12 +1,12 @@
 ---
 title: Algorithms & Data Structures
 created: 2026-02-25
-source: ../self.md
+source: self.md (not in repository)
 ---
 
 # Algorithms & Data Structures
 
-> Derived from [`self.md`](../self.md) · Created: 2026-02-25
+> Derived from `self.md` · Created: 2026-02-25
 
 LeetCode solutions, algorithm resources, and data structure notes from the source log.
 

@@ -1,13 +1,13 @@
 ---
 title: self.md — Categorized Index
 created: 2026-02-25
-source: ../self.md
+source: self.md (not in repository)
 ---
 
 # self.md — Categorized Index
 
 > Created: **2026-02-25**  
-> Source file: [`self.md`](../self.md) (≈ 1 MB, 24 500+ lines)
+> Source file: `self.md` (≈ 1 MB, 24 500+ lines; not stored in this repository)
 
 ---
 
@@ -61,12 +61,9 @@ Entries that could not be reliably categorised are in *Miscellaneous*.
 - **Not categorised:** deleted messages (`This message was deleted.`), bare
   phone numbers, partial medical notes, and similar personal ephemera.
 - **Related files in this repo:**
-  - [`src/main/md/books.md`](../books.md) — book notes
-  - [`src/main/md/git.md`](../git.md) — git tips
-  - [`src/main/md/nix.md`](../nix.md) — Nix notes
-  - [`src/main/md/categoryTheoryNotes.md`](../categoryTheoryNotes.md) — category theory
-  - [`src/main/md/rabbitholes.md`](../rabbitholes.md) — rabbit-hole links
-  - [`src/main/md/self_reflection.md`](../self_reflection.md) — personal reflection notes
+  - [`src/main/md/Books/Books.md`](../Books/Books.md) — book notes
+  - [`src/main/md/pl/FP.md`](../pl/FP.md) — functional programming & category theory notes
+  - [`src/main/md/haskell/reflection.md`](../haskell/reflection.md) — Haskell reflection session
   - [`src/main/md/kannada/`](../kannada/) — Kannada-specific files
 
 ---

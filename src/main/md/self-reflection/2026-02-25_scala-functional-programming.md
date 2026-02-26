@@ -1,12 +1,12 @@
 ---
 title: Scala & Functional Programming
 created: 2026-02-25
-source: ../self.md
+source: self.md (not in repository)
 ---
 
 # Scala & Functional Programming
 
-> Derived from [`self.md`](../self.md) · Created: 2026-02-25
+> Derived from `self.md` · Created: 2026-02-25
 
 Collected links, notes, and code snippets on Scala 3, ZIO, Kyo, Haskell, Rust, functional effects, type theory, and related FP topics.
 
