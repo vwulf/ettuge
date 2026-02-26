@@ -61,12 +61,7 @@ Entries that could not be reliably categorised are in *Miscellaneous*.
 - **Not categorised:** deleted messages (`This message was deleted.`), bare
   phone numbers, partial medical notes, and similar personal ephemera.
 - **Related files in this repo:**
-  - [`src/main/md/books.md`](../books.md) — book notes
-  - [`src/main/md/git.md`](../git.md) — git tips
-  - [`src/main/md/nix.md`](../nix.md) — Nix notes
-  - [`src/main/md/categoryTheoryNotes.md`](../categoryTheoryNotes.md) — category theory
-  - [`src/main/md/rabbitholes.md`](../rabbitholes.md) — rabbit-hole links
-  - [`src/main/md/self_reflection.md`](../self_reflection.md) — personal reflection notes
+  - [`src/main/md/Books/Books.md`](../Books/Books.md) — book notes
   - [`src/main/md/kannada/`](../kannada/) — Kannada-specific files
 
 ---
