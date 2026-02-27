@@ -249,7 +249,7 @@ Collectively, this cluster demonstrates that the paper is not proposing new phys
 - [Universal consciousness as foundational field — AIP Advances (Primary)](https://pubs.aip.org/aip/adv/article/15/11/115319/3372193/Universal-consciousness-as-foundational-field-A)
 - [Advaita Vedānta — Wikipedia (Secondary)](https://en.wikipedia.org/wiki/Advaita_Vedanta)
 
--  Gemini said
+-  Supplementary references from the original paper
 
 Below are the available URLs for the references cited in the article "Universal consciousness as foundational field: A theoretical bridge between quantum physics and non-dual philosophy" (AIP Advances, 2025).
 
