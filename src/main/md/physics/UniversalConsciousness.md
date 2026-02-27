@@ -215,3 +215,73 @@ Liberation is the immediate intuition (anubhava) where the distinctions between 
 
 - [Universal consciousness as foundational field — AIP Advances (Primary)](https://pubs.aip.org/aip/adv/article/15/11/115319/3372193/Universal-consciousness-as-foundational-field-A)
 - [Advaita Vedānta — Wikipedia (Secondary)](https://en.wikipedia.org/wiki/Advaita_Vedanta)
+
+-  Gemini said
+
+Below are the available URLs for the references cited in the article "Universal consciousness as foundational field: A theoretical bridge between quantum physics and non-dual philosophy" (AIP Advances, 2025).
+
+Note: Many academic references (especially books) do not have direct web URLs but are identified by DOIs. Where a direct link or DOI was provided in the source, it is listed below:
+
+    Ref 4: https://doi.org/10.1186/1471-2202-5-42
+
+    Ref 6: https://doi.org/10.1093/oso/9780195093360.001.0001
+
+    Ref 12: https://doi.org/10.1016/0378-4754(96)80476-9
+
+    Ref 13: https://doi.org/10.1016/j.plrev.2013.08.002
+
+    Ref 20: https://doi.org/10.1103/PhysRevD.23.347
+
+    Ref 22: https://doi.org/10.1007/BF00670705
+
+    Ref 23: https://doi.org/10.1103/PhysRevD.28.1218
+
+    Ref 24: https://doi.org/10.1016/0370-2693(82)91219-9
+
+    Ref 25: https://doi.org/10.1016/0370-2693(82)90373-2
+
+    Ref 26: https://doi.org/10.1103/PhysRevLett.48.1220
+
+    Ref 29: https://doi.org/10.1103/PhysRevLett.80.1582
+
+    Ref 30: https://doi.org/10.1103/PhysRevD.42.2483
+
+    Ref 32: https://doi.org/10.1103/PhysRevD.15.2752
+
+    Ref 33: https://doi.org/10.1103/PhysRevD.35.3723
+
+    Ref 34: https://doi.org/10.1103/PhysRevD.46.2384
+
+    Ref 35: https://doi.org/10.1088/0264-9381/11/9/011
+
+    Ref 36: https://doi.org/10.1038/nature05637
+
+    Ref 37: https://doi.org/10.1103/PhysRevLett.99.130404
+
+    Ref 39: https://doi.org/10.1038/s41598-023-40431-y
+
+    Ref 40: https://doi.org/10.1063/5.0164855
+
+    Ref 41: https://doi.org/10.1016/0370-2693(89)91557-X
+
+    Ref 42: https://doi.org/10.1016/0550-3213(82)90071-6
+
+    Ref 43: https://doi.org/10.1103/PhysRevLett.48.1437
+
+    Ref 44: https://doi.org/10.1103/PhysRevD.27.2848
+
+    Ref 45: https://doi.org/10.1103/PhysRevLett.53.631
+
+    Ref 47: https://doi.org/10.1016/j.physletb.2014.05.013
+
+    Ref 49: https://doi.org/10.1016/j.aop.2004.11.010
+
+    Ref 51: https://doi.org/10.1103/PhysRevD.5.2419
+
+    Ref 52: https://doi.org/10.1103/PhysRevD.33.2257
+
+Supplementary Material References (available via the article's Figshare):
+
+    Author ORCID: https://orcid.org/0000-0002-5496-9664
+
+    Full Article DOI: https://doi.org/10.1063/5.0290984
