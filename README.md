@@ -16,4 +16,4 @@ Some interesting ones:
 1. [Forays into FP](src/main/md/pl/FP.md)
 
 Deep dive:
-./CLAUDE.md
+* https://github.com/vwulf/ettuge/blob/master/CLAUDE.md
