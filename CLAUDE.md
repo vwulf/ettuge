@@ -26,8 +26,8 @@ ettuge/
     ├── md/
     │   ├── kannada/             # PRIMARY: Kannada linguistic work
     │   │   ├── Eke.md           # Main Eke specification (153KB)
-    │   │   ├── Eke.kn.md        # Kannada translation (active PR #6)
-    │   │   ├── Eke.eke.md       # Eke system variant
+    │   │   ├── Eke.kn.md        # Kannada translation (complete, DNS Bhat compliant)
+    │   │   ├── Eke.eke.md       # Eke romanization of Eke.kn.md
     │   │   ├── brahmi-*.md      # Script history documentation
     │   │   ├── malatibhat_*.md  # Video references & analysis
     │   │   ├── dnsbhat/         # DNS Bhat word formation articles & prompts
@@ -41,7 +41,9 @@ ettuge/
     │   ├── haskell/             # Haskell/FP documentation
     │   ├── kojo/                # Kojo programming articles
     │   ├── nihongo/             # Japanese language docs
-    │   └── pl/                  # Programming language theory
+    │   ├── physics/             # Unified field theory / Advaita philosophy (UniversalConsciousness.md)
+    │   ├── pl/                  # Programming language theory
+    │   └── self-reflection/     # Dated personal reflection documents (index.md + YYYY-MM-DD_topic.md)
     ├── haskell/                 # Haskell source files
     │   ├── euterpea/            # Music composition (rangapura.hs, twinkle.hs)
     │   └── quick/               # Quick Haskell project (Stack)
@@ -54,17 +56,48 @@ ettuge/
 
 ## Active Development
 
-### Current Status (check TRANSLATION_STATUS.md for latest)
-- **PR #6**: Kannada translation of `Eke.md` → pending revision for DNS Bhat compliance
-- **Issue #7**: Requires DNS Bhat methodology applied throughout translations
+### Current Status
+
+All issues and PRs are currently closed. The Eke translation work is complete:
+- **PR #6**: Initial Kannada translation of `Eke.md` (merged 2026-02-18)
+- **PR #9**: DNS Bhat native terminology applied (merged 2026-02-18)
+- **PR #12, #15**: Further Sanskrit → native Kannada replacements (merged 2026-02-18 and 2026-02-19)
+- **PR #14**: Transliteration of `Eke.kn.md` → `Eke.eke.md` (merged 2026-02-19)
+- **PR #16**: Euterpea encoding of Rangapura Vihara (merged 2026-02-19)
+- **PR #17**: Brahmi lineage markdown cleanup (merged 2026-02-24)
+- **PR #18**: Kannada mnemonic table added (merged 2026-02-24)
+- **PR #19**: Fixed author attribution in `Books.md` (merged 2026-02-26)
+- **PR #22**: Added auto-assign workflow for new issues (merged 2026-02-26)
+- **PR #23, #24**: `UniversalConsciousness.md` added/updated in `physics/` (merged 2026-02-27)
 - **Ongoing**: Processing YouTube transcripts (349+ videos, 130+ cleaned)
+- **New content**: `physics/` and `self-reflection/` directories added
+
+`Eke.kn.md` (Kannada translation) and `Eke.eke.md` (Eke romanization) are complete and DNS Bhat compliant.
 
 ### DNS Bhat Methodology
 All translation work must follow DNS Bhat's native Kannada word formation system:
 - Reference: `src/main/md/kannada/dnsbhat/DNS_BHAT_WORD_FORMATION_PROMPT.md`
-- Articles: `src/main/md/kannada/dnsbhat/01-13/` (13 translated articles)
+- Books: `src/main/md/kannada/dnsbhat/` — 13 book directories (01–13):
+  - 01-idu-kannadade-vyakarana
+  - 02-kannadalle-hosapadagalannu-kattuva-bage
+  - 03-kannada-padagala-olarachane
+  - 04-mathu-matthu-barahada-naduvina-gondala
+  - 05-mathina-olaguttu
+  - 06-kalikenudi-matthu-nudikalike
+  - 07-kannadada-sollarime
+  - 08-kannadakke-mahaprana-yake-beda
+  - 09-havyaka-kannada
+  - 10-kannada-nudiya-hinnadavali
+  - 11-kannada-barahada-padasamasye
+  - 12-kannada-bhasheya-kalpita-charitre
+  - 13-dharege-doddavaru
+- Analysis files:
+  - `dns-bhat-analysis.md`
+  - `kannada-content-landscape.md`
+  - `kannada-knowledge-gap-analysis.md`
+  - `swadesh-bhat-prompt-and-analysis.md`
+  - `wiktionary-cost-analysis-kimi-k2.5.md`
 - The Eke system removes aspirated consonants — prefer native Kannada (Dravidian) roots over Sanskrit-derived terms
-- PR #6 needs revision to use DNS Bhat word formation rather than standard formal Kannada
 
 ---
 
@@ -138,10 +171,24 @@ Two sections in `Books.md` are yet to be populated: "Read but Not That Influenti
 
 ---
 
+## Physics
+
+Located in `src/main/md/physics/`:
+- **`UniversalConsciousness.md`** — Explores a unified field theory of universal consciousness with Advaitic (non-dual) philosophical foundations, blending quantum field theory with Vedanta concepts.
+
+---
+
+## Self-Reflection
+
+Located in `src/main/md/self-reflection/`:
+- **`index.md`** — Navigation index for all reflection documents.
+- Dated files follow the `YYYY-MM-DD_topic.md` naming convention. Topics covered include: Kannada linguistics, Indian history/culture, functional programming (Scala/Haskell), machine learning/AI, mathematics, algorithms, data engineering, infrastructure/DevOps, health/fitness, and miscellaneous.
+
+---
+
 ## Important Notes
 
 1. **DNS Bhat is the reference standard** — when discussing Kannada vocabulary or creating translations, always prefer DNS Bhat's native (Dravidian-root) word choices over Sanskrit-derived terms.
 2. **Transcripts have two versions** — `transcripts/` (raw, may be garbled) and `transcripts_cleaned/` (AI-processed). Always prefer cleaned versions for linguistic analysis.
 3. **Rate limiting** — the Python YouTube scripts use proxy rotation and delays; do not bypass these.
 4. **Session transcripts** in `src/main/claude/kannada/` document prior AI conversations — useful context for ongoing linguistic decisions.
-5. **PR #6 revision needed** — `Eke.kn.md` should be revised to use DNS Bhat word formation system before merging.
