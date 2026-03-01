@@ -15,5 +15,6 @@ Some interesting ones:
 1. [ॐλ](https://github.com/vwulf/ettuge/blob/master/src/main/md/pl/%E0%A5%90%CE%BB.md)
 1. [Forays into FP](src/main/md/pl/FP.md)
 1. [Self reflection](https://github.com/vwulf/ettuge/blob/master/src/main/md/self-reflection/index.md)
+1. [Books](https://github.com/vwulf/ettuge/blob/master/src/main/md/Books/Books.md)
 
 * [Deep dive](https://github.com/vwulf/ettuge/blob/master/CLAUDE.md)
