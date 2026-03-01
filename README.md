@@ -15,5 +15,4 @@ Some interesting ones:
 1. [ॐλ](https://github.com/vwulf/ettuge/blob/master/src/main/md/pl/%E0%A5%90%CE%BB.md)
 1. [Forays into FP](src/main/md/pl/FP.md)
 
-Deep dive:
-* https://github.com/vwulf/ettuge/blob/master/CLAUDE.md
+* [Deep dive](https://github.com/vwulf/ettuge/blob/master/CLAUDE.md)
