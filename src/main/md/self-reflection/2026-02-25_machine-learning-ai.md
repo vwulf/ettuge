@@ -381,7 +381,7 @@ huggingface.co — https://huggingface.co/ai4bharat/
 
 **Pralekha Indic document alignment**
 Tool for aligning Indic language documents for parallel corpus creation; Dec 2024.
-github.com — https://github.com/
+github.com — https://github.com/AI4Bharat/Pralekha
 
 **Ollama deepseek-r1 local deployment**
 Running DeepSeek-R1 with Ollama; Jan 2025.

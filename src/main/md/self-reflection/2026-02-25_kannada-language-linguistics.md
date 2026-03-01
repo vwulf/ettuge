@@ -381,7 +381,7 @@ Personal note: summary of the Eke Kannada romanization scheme in 5 slide format;
 
 **Kannada Akshara Bhandara**
 Resource on the Kannada script character inventory; Nov 2024.
-github.com — https://github.com/
+github.com — https://github.com/mythicsociety/AksharaBhandara
 
 **Kannada Script evolution**
 Historical overview of how the Kannada script developed from Brahmi; Dec 2024.
