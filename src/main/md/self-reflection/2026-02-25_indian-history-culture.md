@@ -270,7 +270,7 @@ Mesopotamian bricks unveil Earth's ancient magnetic field
 
 **Kadlekai Parishe 2024 (Groundnut Fair, Bengaluru)**
 Annual groundnut fair at Bull Temple, Bengaluru; Nov 2024.
-deccanherald.com — https://www.deccanherald.com/
+deccanherald.com — https://www.deccanherald.com/india/karnataka/bengaluru/kadlekai-parishe-2024-all-you-need-to-know-about-bengalurus-unique-groundnut-festival-3292433
 
 **How I discovered celestial geometry (Indian temples)**
 Article on geometric precision in ancient Indian temple construction; Nov 2024.
@@ -278,11 +278,11 @@ thehindu.com — https://www.thehindu.com/
 
 **Socially Distanced Layout of World's Oldest Cities (IVC)**
 Research on surprisingly uniform spacing of Indus Valley cities; Oct 2024.
-smithsonianmag.com — https://www.smithsonianmag.com/
+phys.org — https://phys.org/news/2024-10-socially-distanced-layout-world-oldest.html
 
 **Behind the emblems — Karnataka dynasties**
 Article on the symbols and emblems of Karnataka's historical dynasties; Dec 2024.
-deccanherald.com — https://www.deccanherald.com/
+deccanherald.com — https://www.deccanherald.com/india/karnataka/behind-the-emblems-3303790
 
 **Mathematics of the Vedas**
 Video on the mathematics embedded in Vedic literature; Dec 2024.
@@ -298,7 +298,7 @@ en.wikipedia.org — https://en.wikipedia.org/wiki/M._H._Krishna
 
 **India's Iron Age — Tamil Nadu**
 Evidence for early Iron Age in Tamil Nadu; Jan 2025.
-thehindu.com — https://www.thehindu.com/
+thehindu.com — https://www.thehindu.com/news/national/tamil-nadu/iron-age-began-in-tn-in-first-quarter-of-4th-millennium-bce-stalin/article69130715.ece
 
 **Massive reservoir at Rakhigarhi / Saraswati basin**
 Archaeological discovery of a large water management system at Rakhigarhi; Jan 2025.
@@ -330,7 +330,7 @@ smithsonianmag.com — https://www.smithsonianmag.com/
 
 **Indo-European Origins new solution**
 New genetic/archaeological synthesis on Indo-European origins; Feb 2025.
-arxiv.org — https://arxiv.org/
+nature.com — https://www.nature.com/articles/s41586-024-08531-5
 
 **Marija Gimbutas Wikipedia**
 Wikipedia article on Marija Gimbutas, archaeologist of Old Europe and PIE origins.
@@ -338,23 +338,23 @@ en.wikipedia.org — https://en.wikipedia.org/wiki/Marija_Gimbutas
 
 **Lead pollution ancient Rome caused IQ loss**
 Research on widespread lead contamination in ancient Rome and cognitive effects; Jan 2025.
-scientificamerican.com — https://www.scientificamerican.com/
+smithsonianmag.com — https://www.smithsonianmag.com/smart-news/ancient-romans-breathed-in-enough-lead-to-lower-their-iqs-study-finds-did-that-toxin-contribute-to-the-empires-fall-180985781/
 
 **Ancient DNA — sheep and humans (co-migration)**
 Study on sheep domestication spreading alongside human migration; Jan 2025.
-nature.com — https://www.nature.com/
+science.org — https://www.science.org/doi/10.1126/science.adn2094
 
 **Mammoths in North America during Ice Age**
 Article on the last mammoth populations in North America; Dec 2024.
-smithsonianmag.com — https://www.smithsonianmag.com/
+smithsonianmag.com — https://www.smithsonianmag.com/smart-news/an-ice-age-infants-bones-reveal-early-americans-ate-woolly-mammoths-as-a-protein-staple-180985618/
 
 **Japan ancient sea voyage 30,000 years ago**
 Research on ancient seafarers reaching Japan 30,000 years ago; Jun 2025.
-phys.org — https://phys.org/
+phys.org — https://phys.org/news/2025-06-ancient-canoe-replica-paleolithic-migration.html
 
 **Okinawans in Hawaii**
 Article on Okinawan immigration history and culture in Hawaii; Jun 2025.
-honolulumagazine.com — https://www.honolulumagazine.com/
+honolulumagazine.com — https://www.honolulumagazine.com/okinawan-festival/
 
 **Coorg genetic study**
 Genetic study on the Kodava (Coorg) people's origins and unique haplogroups; May 2025.
@@ -398,7 +398,7 @@ bhavana.org.in — https://bhavana.org.in/mathematics-in-india-6/
 
 **Recursion and combinatorics in Chandashashtra**
 Prosody treatise Chandashashtra contains early combinatorics; Mar 2025.
-arxiv.org — https://arxiv.org/
+arxiv.org — https://arxiv.org/abs/math/0703658
 
 **Sanskrit analysis tools (Dharmamitra, Ashtadhyayi simulator)**
 Online tools for Sanskrit morphological analysis and Paninian grammar.
@@ -422,7 +422,7 @@ en.wikipedia.org — https://en.wikipedia.org/wiki/Behistun_inscription
 
 **Black Marigolds (Bilhana's Chaurapanchasika)**
 English translation of Bilhana's Sanskrit love poem; Feb 2025.
-archive.org — https://archive.org/
+archive.org — https://archive.org/details/lfhk_chaura-panchashika-of-bilhana-by-s.-n.-tadpatrikar-series-no.-86-puna-oriental-series
 
 **Thondaradippodi Alvar Wikipedia**
 Wikipedia article on the Vaishnava poet-saint Thondaradippodi Alvar; Feb 2025.
@@ -438,7 +438,7 @@ youtube.com — https://www.youtube.com/
 
 **Humans Almost Went Extinct 930,000 Years Ago**
 Research on a severe bottleneck in human population nearly 1 million years ago; Apr 2025.
-science.org — https://www.science.org/
+science.org — https://www.science.org/doi/10.1126/science.abq7487
 
 **Ancient DNA reveals most Europeans had dark skin until 3,000 years ago**
 Genetic study showing pale skin became dominant in Europe surprisingly recently; Nov 2025.

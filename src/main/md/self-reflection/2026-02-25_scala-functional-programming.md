@@ -560,7 +560,7 @@ youtube.com — https://www.youtube.com/user/TheCatsters
 
 **Comonads are objects (Haskell)**
 Blog post connecting comonads to OOP-style objects.
-haskellforall.com — https://www.haskellforall.com/
+haskellforall.com — https://www.haskellforall.com/2013/02/you-could-have-invented-comonads.html
 
 **WHNF (Weak Head Normal Form) — StackOverflow**
 Explanation of lazy evaluation and WHNF in Haskell.
@@ -568,7 +568,7 @@ stackoverflow.com — https://stackoverflow.com/questions/6872898/
 
 **Nobody Gets Fired for JSON (serialisation comparison)**
 Article comparing JSON vs Thrift/Protobuf/MessagePack for production systems.
-steveklabnik.com — https://steveklabnik.com/
+steveklabnik.com — https://steveklabnik.com/writing/nobody-gets-fired-for-json
 
 **Type Classes in Scala 3**
 Tutorial on Scala 3's given/using typeclass mechanism.
@@ -604,7 +604,7 @@ getkyo.io — https://getkyo.io/
 
 **Algebraic Effects from Scratch — Kyo talk**
 Talk on implementing algebraic effects in Scala without monadic stacks.
-youtube.com — https://www.youtube.com/
+youtube.com — https://www.youtube.com/watch?v=qPvPdRbTF-E
 
 **Data.Conduit.Combinators (Haskell)**
 Haskell streaming library Conduit combinators documentation.
@@ -688,7 +688,7 @@ ocharles.org.uk — https://ocharles.org.uk/
 
 **Open-sourcing Haxl (Facebook)**
 Facebook's Haskell library for efficient batched data fetching.
-engineering.fb.com — https://engineering.fb.com/
+engineering.fb.com — https://engineering.fb.com/2014/06/10/open-source/open-sourcing-haxl-a-library-for-haskell/
 
 **Applicative Effects and Free Monads**
 Comparison of applicative and monadic effect handling strategies.
@@ -716,7 +716,7 @@ bartoszmilewski.com — https://bartoszmilewski.com/
 
 **Free monad blog (Reasonably Polymorphic)**
 Practical guide to free monads as an effect encoding strategy.
-reasonablypolymorphic.com — https://reasonablypolymorphic.com/
+reasonablypolymorphic.com — https://reasonablypolymorphic.com/blog/freer-monads/
 
 **Haskell Fix and recursion**
 Using `fix` for recursive definitions in Haskell without `let rec`.
@@ -752,7 +752,7 @@ github.com — https://github.com/composewell/streamly
 
 **Pavel Fatin: Design Patterns in Scala**
 Applying Gang of Four patterns in idiomatic Scala.
-pavelfatin.com — https://pavelfatin.com/
+pavelfatin.com — https://pavelfatin.com/design-patterns-in-scala/
 
 **Alexis King blog**
 Deep technical posts on Haskell, effects, and type system topics.
@@ -812,7 +812,7 @@ hazel.org — https://hazel.org/
 
 **Zig and Rust comparison (matklad)**
 Matklad's thoughtful comparison of Zig and Rust design choices.
-matklad.github.io — https://matklad.github.io/
+matklad.github.io — https://matklad.github.io/2023/03/26/zig-and-rust.html
 
 **GitHub: Developer-Y/cs-video-courses**
 Comprehensive list of CS courses with freely available video lectures.

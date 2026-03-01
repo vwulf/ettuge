@@ -241,7 +241,7 @@ huggingface.co — https://huggingface.co/nvidia/Llama-3.1-Nemotron-70B-Instruct
 
 **TapeAgent AI framework**
 Framework for structured, tape-based agentic AI workflows.
-github.com — https://github.com/
+github.com — https://github.com/ServiceNow/TapeAgents
 
 **Santiago: RAG pipelines tweet**
 Multi-step RAG pipeline explanation with evaluation strategies.
@@ -249,7 +249,7 @@ x.com — https://x.com/svpino/
 
 **DeepSeek-R1 PDF**
 Full technical report for DeepSeek-R1 reasoning model; Jan 2025.
-arxiv.org — https://arxiv.org/
+arxiv.org — https://arxiv.org/abs/2501.12948
 
 **Scale test-time compute (HuggingFace)**
 HuggingFace blog on scaling inference-time computation for better reasoning.
@@ -277,11 +277,11 @@ x.com — https://x.com/
 
 **RAT — Retrieval Augmented Thinking**
 New prompting technique combining retrieval with chain-of-thought reasoning.
-arxiv.org — https://arxiv.org/
+arxiv.org — https://arxiv.org/abs/2403.05313
 
 **Open Thoughts reasoning dataset**
 Open-source dataset for training reasoning models; Jan 2025.
-github.com — https://github.com/
+github.com — https://github.com/open-thoughts/open-thoughts
 
 **One Hot Encoding in ML**
 Explanation of one-hot encoding for categorical features.
@@ -301,7 +301,7 @@ oreilly.com — https://www.oreilly.com/
 
 **Create apps without code using DeepSeek + RooCode**
 Tutorial on using agentic coding tools with local models; Jan 2025.
-youtube.com — https://www.youtube.com/
+youtube.com — https://www.youtube.com/watch?v=2Frayo_8ovQ
 
 **GitHub: Roo-Code**
 Open-source agentic coding assistant.
@@ -341,7 +341,7 @@ quantamagazine.org — https://www.quantamagazine.org/
 
 **Demystifying DeepSeek**
 Accessible explanation of what makes DeepSeek models architecturally different.
-huggingface.co — https://huggingface.co/
+huggingface.co — https://huggingface.co/blog/demystifying-deepseek
 
 **Google AI Toolbox introduction**
 Google's new toolbox for building production AI applications; Feb 2025.
@@ -353,7 +353,7 @@ arxiv.org — https://arxiv.org/
 
 **Building ML Systems: trillion FLOPS talk**
 Talk on infrastructure considerations for training trillion-parameter models.
-youtube.com — https://www.youtube.com/
+youtube.com — https://www.youtube.com/watch?v=139UPjoq7Kw
 
 **Where Does Meaning Live — Category Theory and LLMs**
 Connecting categorical semantics to how language models encode meaning; Apr 2025.
@@ -425,7 +425,7 @@ github.com — https://github.com/lampless/LLM-Generated-Lean4-Proofs/blob/main/
 
 **Model Context Protocol intro**
 Anthropic's MCP standard for connecting AI models to data sources and tools; Feb 2025.
-anthropic.com — https://www.anthropic.com/
+anthropic.com — https://www.anthropic.com/news/model-context-protocol
 
 **OpenClaw 21 use cases (Matthew Berman)**
 Thread on 21 practical use cases for OpenClaw (Claude Code agentic workflow tool).
