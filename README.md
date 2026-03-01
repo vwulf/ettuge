@@ -4,7 +4,6 @@ For general shared examples:
 Readable docs are in:
 [mds](https://github.com/vwulf/ettuge/blob/master/src/main/md)
 
-
 Some interesting ones:
 1. [Eke](https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/Eke.md)
 1. [Reading types in haskell](https://github.com/vwulf/ettuge/blob/master/src/main/md/haskell/reflection.md)
@@ -15,3 +14,6 @@ Some interesting ones:
 1. [Kojo](https://github.com/vwulf/ettuge/blob/master/src/main/md/kojo/cloud_flowers_and.md)
 1. [ॐλ](https://github.com/vwulf/ettuge/blob/master/src/main/md/pl/%E0%A5%90%CE%BB.md)
 1. [Forays into FP](src/main/md/pl/FP.md)
+
+Deep dive:
+./CLAUDE.md
