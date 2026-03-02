@@ -30,6 +30,19 @@ The biography reconstructs the intellectual context—Warren Weaver's popular ex
 3. The noisy channel coding theorem—that it is always possible to transmit information reliably at any rate below channel capacity, regardless of noise—is one of the most surprising results in applied mathematics. Shannon proved existence without constructing the codes; the practical codes took decades to find.
 4. The story of the 1948 paper—written over years, essentially complete in Shannon's head, then produced in its final form relatively quickly—is a model for a certain kind of mathematical achievement: long gestation, rapid articulation.
 
+Claude Shannon biography notes (personal, Jun 2, 2024):
+1. No hierarchy
+2. infinitely curious
+3. lazy to publish
+4. ability to abstract into math while engineering
+5. could ride unicycles (including off center one) and penny farthings. Juggled, wrote about the math of juggling, wanted a funeral with coffin carried by 6 unicyclists,
+6. has the law of entropy on the other side of his gravestone,
+7. grew a beard, took to running everyday in middle age,
+8. died of Alzheimer's.
+9. With Ed Thorpe, made the first wearable computer to win roulette
+10. designed a (bouncing) juggling clown, a mouse to solve a maze, a chess robot that could do end games — before transistors, a Rubik's cube solver
+11. lasted 42 moves against world number 1 chess player.
+
 ---
 
 ## Footnotes
