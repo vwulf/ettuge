@@ -50,3 +50,4 @@ The book surveys successful script reforms in Korean, Indonesian, Turkish, Germa
 - [Video series on YouTube (Parts P1–17)](https://www.youtube.com/watch?v=JRhErUXyoZk)
 - [Wikipedia — D. N. Shankara Bhat](https://en.wikipedia.org/wiki/D._N._Shankara_Bhat)
 - [Author's website](http://dnshankarabhat.net/dr-d-n-shankara-bhat/)
+- [Archived ebook](https://archive.org/details/arn.kannadakkemahaap0000dnsh/mode/1up)
