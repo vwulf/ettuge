@@ -191,7 +191,7 @@ Books that have reshaped how I think, see, or act. Organized by author.
 | [kannaDakke bEku kannaDadde vyAkaraNa](http://dnshankarabhat.net/dr-d-n-shankara-bhat/) | Bhat's argument for a Kannada-internal grammar of Kannada—rejecting the imposition of Sanskrit grammatical categories on a language with fundamentally different typological properties. One of the most important contributions to Kannada grammatical thought. |
 | [kannaDa baravaNigeyannu saripadisONa](http://dnshankarabhat.net/dr-d-n-shankara-bhat/) | A study of Kannada orthography and script reform—examining how the written conventions of Kannada could be rationalized to better represent spoken Kannada while preserving the script's aesthetic and cultural heritage. |
 | [kannaDa sollarime](http://dnshankarabhat.net/dr-d-n-shankara-bhat/) | Bhat's exploration of Kannada vocabulary—its Dravidian base, its Sanskrit borrowings, its native innovations—as a window into the history of Kannada culture and the intellectual lives of its speakers. |
-
+| [kannaDakke mshAprANa yAke bEDa](https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/dnsbhat/08-kannadakke-mahaprana-yake-beda/08-kannadakke-mahaprana-yake-beda-en.md) | |
 ---
 
 ### Science and Biology
