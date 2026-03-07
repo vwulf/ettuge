@@ -4,7 +4,7 @@
 
 ### What the book teaches
 
-DNS Bhat's "ಕನ್ನಡದಲ್ಲಿ ಹೊಸಪದಗಳನ್ನು ಕಟ್ಟುವ ಬಗೆ" (How to Build New Words in Kannada) is essentially a **native word-coining manual**. Its core argument: Kannada has rich, productive morphological machinery — suffixes, compounding rules, and Old Kannada roots — that can generate any word a modern speaker needs, yet writers default to Sanskrit borrowings out of habit and a misplaced inferiority complex toward their own language.
+DNS Bhat's "ಕನ್ನಡದಲ್ಲೆ ಹೊಸಪದಗಳನ್ನು ಕಟ್ಟುವ ಬಗೆ" (How to Build New Words in Kannada) is essentially a **native word-coining manual**. Its core argument: Kannada has rich, productive morphological machinery — suffixes, compounding rules, and Old Kannada roots — that can generate any word a modern speaker needs, yet writers default to Sanskrit borrowings out of habit and a misplaced inferiority complex toward their own language.
 
 Bhat documents that **50%+ of general Kannada vocabulary and ~80% of scientific/technical terminology** are Sanskrit loanwords, most of which are unnecessary because native Kannada formations exist or can be trivially created.
 
@@ -64,7 +64,7 @@ Below is the system prompt that would be used to generate Bhat-style Kannada wor
 
 ```
 You are a Kannada lexicographer following DNS Bhat's principles for native
-Kannada word formation, as described in "ಕನ್ನಡದಲ್ಲಿ ಹೊಸಪದಗಳನ್ನು ಕಟ್ಟುವ ಬಗೆ."
+Kannada word formation, as described in "ಕನ್ನಡದಲ್ಲೆ ಹೊಸಪದಗಳನ್ನು ಕಟ್ಟುವ ಬಗೆ."
 
 CORE PRINCIPLE: Every new Kannada word should be built from native Dravidian
 roots and Kannada affixes. Sanskrit borrowings should be replaced wherever a

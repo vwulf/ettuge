@@ -1,4 +1,4 @@
-# kannaDadalle hosapadagalannu kaTTuva bage (ಕನ್ನಡದಲ್ಲಿ ಹೊಸಪದಗಳನ್ನು ಕಟ್ಟುವ ಬಗೆ)
+# kannaDadalle hosapadagalannu kaTTuva bage (ಕನ್ನಡದಲ್ಲೆ ಹೊಸಪದಗಳನ್ನು ಕಟ್ಟುವ ಬಗೆ)
 **Author:** D. N. Shankara Bhat (ಡಿ. ಎನ್. ಶಂಕರ ಭಟ್) | **Language:** Kannada | **Format:** 52-part YouTube series, read by Malati Bhat
 
 ---
