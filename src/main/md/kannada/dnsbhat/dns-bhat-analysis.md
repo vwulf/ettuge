@@ -9,7 +9,7 @@ This analysis covers 13 markdown files containing YouTube video transcripts of *
 | # | Title | Topic | Lines | Transcript Quality |
 |---|-------|-------|-------|-------------------|
 | 01 | Idu Kannadade Vyakarana | Kannada's own grammar | 49 | Good |
-| 02 | Kannadalle Hosapadagalannu Kattuva Bage | Creating new words in Kannada | 519 | Good |
+| 02 | Kannadadalle Hosapadagalannu Kattuva Bage | Creating new words in Kannada | 519 | Good |
 | 03 | Kannada Padagala Olarachane | Internal structure of Kannada words | 575 | Good |
 | 04 | Mathu Matthu Barahada Naduvina Gondala | Confusion between speech and writing | 519 | Partial (corrupted after Part 3) |
 | 05 | Mathina Olaguttu | The mystery/complexity of language | 539 | Good |
@@ -50,7 +50,7 @@ A persistent thread through the collection is Bhat's call to minimize unnecessar
 
 **Evidence across files:**
 
-- **File 02 (Kannadalle Hosapadagalannu Kattuva Bage):** This entire work is dedicated to the mechanics of creating new Kannada words. Bhat presents striking statistics: over 50% of general Kannada vocabulary consists of Sanskrit loanwords, and in scientific terminology the ratio reaches 80%. He argues this is unnecessary, since Kannada has productive native suffixes like "-ga" (agent nouns), "-gara" (agent designation), and prefixes like "mun-" (before/forward) and "hin-" (behind/after) that can generate needed terminology. He provides systematic documentation of these patterns and calls on writers to use them.
+- **File 02 (Kannadadalle Hosapadagalannu Kattuva Bage):** This entire work is dedicated to the mechanics of creating new Kannada words. Bhat presents striking statistics: over 50% of general Kannada vocabulary consists of Sanskrit loanwords, and in scientific terminology the ratio reaches 80%. He argues this is unnecessary, since Kannada has productive native suffixes like "-ga" (agent nouns), "-gara" (agent designation), and prefixes like "mun-" (before/forward) and "hin-" (behind/after) that can generate needed terminology. He provides systematic documentation of these patterns and calls on writers to use them.
 
 - **File 01 (Idu Kannadade Vyakarana):** Bhat introduces Kannada-native grammatical terminology to replace Sanskrit-derived terms: "hesaru pada" for nouns, "hesaka pada" for verbs, "paricharana pada" for adjectives, "adu pada" for pronouns, "toru pada" for demonstratives, "enikke pada" for numerals. This is itself a demonstration of his argument that Kannada can generate its own technical vocabulary.
 
@@ -68,7 +68,7 @@ Bhat consistently argues that written Kannada has become an elite domain, inacce
 
 - **File 04 (Mathu Matthu Barahada Naduvina Gondala):** Addresses the confusion between spoken and written language, arguing that speech is primary and writing is secondary. Many people incorrectly treat written language as the "true" or "superior" form, when in fact speech is the foundation. Written Kannada has become artificially Sanskritized, creating a gap between what people speak and what they read.
 
-- **File 02 (Kannadalle Hosapadagalannu Kattuva Bage):** Argues that if Kannada writing is to reach all Kannada speakers, writers must use more authentically Kannada words. The current heavy reliance on Sanskrit borrowings creates barriers to comprehension for ordinary speakers.
+- **File 02 (Kannadadalle Hosapadagalannu Kattuva Bage):** Argues that if Kannada writing is to reach all Kannada speakers, writers must use more authentically Kannada words. The current heavy reliance on Sanskrit borrowings creates barriers to comprehension for ordinary speakers.
 
 - **File 05 (Mathina Olaguttu):** Proposes simplifying Kannada spelling conventions to match actual pronunciation, making literacy more accessible. Notes that Kannada's writing system is more regular than English's, but Sanskrit-derived orthographic rules add unnecessary complexity.
 
@@ -109,7 +109,7 @@ Several works address the historical development of Kannada, using comparative a
 
 The foundational text of the collection. Bhat's central thesis is that existing Kannada grammars impose Sanskrit or English frameworks instead of describing Kannada's own internal rules. The work consolidates research from 2010–2019 (originally seven volumes). It introduces native Kannada grammatical terminology, proposes script simplification, and provides a complete structural account of Kannada grammar covering: sentence structure (vakya ittala), word categories (hesaru/hesaka/paricharana pada), word forms (padaroopagalu), verb usage (hesaka padagala balake), noun phrases (hesaru kantigala ittala), verb arguments (paangittala), negation (allagalita), questions (kelvi vakyagalu), and more. The detailed analysis of the "-ge" suffix allomorphy serves as a model for how grammar should work: describing patterns all speakers already follow unconsciously.
 
-### File 02: Kannadalle Hosapadagalannu Kattuva Bage
+### File 02: Kannadadalle Hosapadagalannu Kattuva Bage
 **"On Creating New Words in Kannada"**
 
 A practical guide to Kannada word formation. Documents that 50%+ of general vocabulary and 80% of scientific terms are Sanskrit borrowings. Systematically catalogs Kannada's native suffixes (-ga, -gara, -itti, -ti, -kara, -ya, -aali) and prefixes (mun-, hin-) for creating new words. Argues that Kannada writers should use these resources instead of defaulting to Sanskrit. Includes comparative analysis showing how English affixes (fore-, pre-, post-, pro-, ex-) have functional Kannada equivalents. Calls for standardized guidelines for using native affixes and thorough documentation of Kannada's natural word-formation tendencies (olavu).

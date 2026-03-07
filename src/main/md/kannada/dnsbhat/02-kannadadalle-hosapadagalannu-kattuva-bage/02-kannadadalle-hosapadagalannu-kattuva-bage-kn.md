@@ -1,9 +1,9 @@
-# ಕನ್ನಡದಲ್ಲಿ ಹೊಸಪದಗಳನ್ನು ಕಟ್ಟುವ ಬಗೆ
+# ಕನ್ನಡದಲ್ಲೆ ಹೊಸಪದಗಳನ್ನು ಕಟ್ಟುವ ಬಗೆ
 
 **ಲೇಖಕರು:** ಡಿ. ಎನ್. ಶಂಕರ ಭಟ್
 **ಮಾಲಿಕೆ:** ಡಿ.ಎನ್.ಶಂಕರ ಭಟ್ ನುಡಿಯರಿಮೆ ಮಾಲಿಕೆ
 
-> ಇಂಗ್ಲಿಶ್ ವಿಶ್ಲೇಷಣೆ: [`02-kannadalle-hosapadagalannu-kattuva-bage-en.md`](./02-kannadalle-hosapadagalannu-kattuva-bage-en.md)
+> ಇಂಗ್ಲಿಶ್ ವಿಶ್ಲೇಷಣೆ: [`02-kannadadalle-hosapadagalannu-kattuva-bage-en.md`](./02-kannadadalle-hosapadagalannu-kattuva-bage-en.md)
 
 ---
 

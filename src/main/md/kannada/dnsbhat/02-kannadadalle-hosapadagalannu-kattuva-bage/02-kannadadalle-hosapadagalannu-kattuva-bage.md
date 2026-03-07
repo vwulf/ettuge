@@ -1,5 +1,5 @@
-# KANNADALLE HOSAPADAGALANNU KATTUVA BAGE
-## ಕನ್ನಡದಲ್ಲಿ ಹೊಸಪದಗಳನ್ನು ಕಟ್ಟುವ ಬಗೆ
+# KANNADADALLE HOSAPADAGALANNU KATTUVA BAGE
+## ಕನ್ನಡದಲ್ಲೆ ಹೊಸಪದಗಳನ್ನು ಕಟ್ಟುವ ಬಗೆ
 
 *Part of DNS Bhat's writings read by Malati Bhat*
 
