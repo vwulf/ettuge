@@ -1,4 +1,4 @@
-# kannaDalle hosapadagalannu kaTTuva bage (ಕನ್ನಡದಲ್ಲಿ ಹೊಸಪದಗಳನ್ನು ಕಟ್ಟುವ ಬಗೆ)
+# kannaDadalle hosapadagalannu kaTTuva bage (ಕನ್ನಡದಲ್ಲಿ ಹೊಸಪದಗಳನ್ನು ಕಟ್ಟುವ ಬಗೆ)
 **Author:** D. N. Shankara Bhat (ಡಿ. ಎನ್. ಶಂಕರ ಭಟ್) | **Language:** Kannada | **Format:** 52-part YouTube series, read by Malati Bhat
 
 ---
@@ -26,7 +26,7 @@
 
 ## Summary
 
-*Kannadalle Hosapadagalannu Kattuva Bage* ("How to Build New Words in Kannada") is D. N. Shankara Bhat's practical handbook for creating new Kannada vocabulary using native Dravidian morphology rather than Sanskrit borrowings. The book addresses a concrete crisis: more than half of the words in everyday Kannada dictionaries are Sanskrit loans, and in scientific and technical registers the proportion rises above eighty percent. This is not an inevitable consequence of Kannada's expressive limits — it is the result of a habit. When writers and scholars needed new words, they reached for Sanskrit roots and Sanskrit affixes, because Sanskrit had cultural prestige and because few people were aware that Kannada's own morphological toolkit was equally powerful. Bhat's book is the corrective: a systematic demonstration that native Kannada roots, suffixes, and prefixes can build any word that English, Sanskrit, or any other language can build.
+*Kannadadalle Hosapadagalannu Kattuva Bage* ("How to Build New Words in Kannada") is D. N. Shankara Bhat's practical handbook for creating new Kannada vocabulary using native Dravidian morphology rather than Sanskrit borrowings. The book addresses a concrete crisis: more than half of the words in everyday Kannada dictionaries are Sanskrit loans, and in scientific and technical registers the proportion rises above eighty percent. This is not an inevitable consequence of Kannada's expressive limits — it is the result of a habit. When writers and scholars needed new words, they reached for Sanskrit roots and Sanskrit affixes, because Sanskrit had cultural prestige and because few people were aware that Kannada's own morphological toolkit was equally powerful. Bhat's book is the corrective: a systematic demonstration that native Kannada roots, suffixes, and prefixes can build any word that English, Sanskrit, or any other language can build.
 
 The book is organized as a complete word-formation grammar in accessible form. Part 1 establishes the philosophical basis: Kannada's native morphology is not impoverished; it is underused. Parts 2 through 18 systematically document the entire toolkit — three word classes (ಹೆಸರುಪದ, ಎಸಕಪದ, ಪರಿಚೆಪದ), two basic methods (suffixation ಕಟ್ಟುಪದ and compounding ಜೋಡುಪದ), and four prefix groups covering quantity/degree, spatial relations, temporal relations, and negation. Each suffix and prefix category is explained with its phonological conditions, semantic scope, and worked examples drawn from Old Kannada texts and current usage. A chapter on zero derivation makes explicit what is often missed: Kannada cannot borrow English's trick of using verb forms directly as nouns — each semantic role (agent, instrument, action, result) requires its own suffix, and this constraint is the source of Kannada's morphological richness rather than a limitation.
 
@@ -59,8 +59,8 @@ Parts 19 through 52 are the application chapters, working through English vocabu
 
 ## Footnotes
 
-- [English summary →](../../kannada/dnsbhat/02-kannadalle-hosapadagalannu-kattuva-bage/02-kannadalle-hosapadagalannu-kattuva-bage-en.md)
-- [Kannada text →](../../kannada/dnsbhat/02-kannadalle-hosapadagalannu-kattuva-bage/02-kannadalle-hosapadagalannu-kattuva-bage-kn.md)
+- [English summary →](../../kannada/dnsbhat/02-kannadadalle-hosapadagalannu-kattuva-bage/02-kannadadalle-hosapadagalannu-kattuva-bage-en.md)
+- [Kannada text →](../../kannada/dnsbhat/02-kannadadalle-hosapadagalannu-kattuva-bage/02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md)
 - [YouTube playlist (Parts 1–52, read by Malati Bhat)](https://www.youtube.com/watch?v=zQ_fDKwmd18)
 - [Author's website](http://dnshankarabhat.net/dr-d-n-shankara-bhat/)
 - [DNS Bhat Word Formation Prompt →](../../kannada/dnsbhat/DNS_BHAT_WORD_FORMATION_PROMPT.md)

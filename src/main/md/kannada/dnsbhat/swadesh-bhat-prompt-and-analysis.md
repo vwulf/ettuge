@@ -1,6 +1,6 @@
 # DNS Bhat-Style Word Coining: Prompt Design & Swadesh List Application
 
-## Part 1: The Prompt — Summarized from "Kannadalle Hosapadagalannu Kattuva Bage"
+## Part 1: The Prompt — Summarized from "Kannadadalle Hosapadagalannu Kattuva Bage"
 
 ### What the book teaches
 

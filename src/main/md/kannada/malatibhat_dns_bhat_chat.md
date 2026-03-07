@@ -45,7 +45,7 @@ Key discovery from the video descriptions:
 | # | Book Title | Episodes |
 |---|-----------|----------|
 | 1 | **IDU KANNADADE VYAKARANA** (ಇದು ಕನ್ನಡದೆ ವ್ಯಾಕರಣ) | 3 parts |
-| 2 | **KANNADALLE HOSAPADAGALANNU KATTUVA BAGE** (ಕನ್ನಡದಲ್ಲಿ ಹೊಸಪದಗಳನ್ನು ಕಟ್ಟುವ ಬಗೆ) | 52 parts |
+| 2 | **KANNADADALLE HOSAPADAGALANNU KATTUVA BAGE** (ಕನ್ನಡದಲ್ಲಿ ಹೊಸಪದಗಳನ್ನು ಕಟ್ಟುವ ಬಗೆ) | 52 parts |
 | 3 | **KANNADA PADAGALA OLARACHANE** (ಕನ್ನಡ ಪದಗಳ ಒಳರಚನೆ) | 55 parts |
 | 4 | **MATHU MATTHU BARAHADA NADUVINA GONDALA** (ಮಾತು ಮತ್ತು ಬರಹದ ನಡುವಿನ ಗೊಂದಲ) | 44 parts |
 | 5 | **MATHINA OLAGUTTU** (ಮಾತಿನ ಒಳಗುಟ್ಟು) | 37 parts |
@@ -102,7 +102,7 @@ Extracted video IDs for each series using grep on the yt-dlp output, then constr
 | 2 | https://www.youtube.com/watch?v=h5VFWQQfPO8 |
 | 3 | https://www.youtube.com/watch?v=6EBf9mJG4qI |
 
-#### 2. KANNADALLE HOSAPADAGALANNU KATTUVA BAGE (ಕನ್ನಡದಲ್ಲಿ ಹೊಸಪದಗಳನ್ನು ಕಟ್ಟುವ ಬಗೆ) - 52 parts
+#### 2. KANNADADALLE HOSAPADAGALANNU KATTUVA BAGE (ಕನ್ನಡದಲ್ಲಿ ಹೊಸಪದಗಳನ್ನು ಕಟ್ಟುವ ಬಗೆ) - 52 parts
 
 | # | Link |
 |---|------|

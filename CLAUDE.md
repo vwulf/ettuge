@@ -79,7 +79,7 @@ All translation work must follow DNS Bhat's native Kannada word formation system
 - Reference: `src/main/md/kannada/dnsbhat/DNS_BHAT_WORD_FORMATION_PROMPT.md`
 - Books: `src/main/md/kannada/dnsbhat/` — 13 book directories (01–13):
   - 01-idu-kannadade-vyakarana
-  - 02-kannadalle-hosapadagalannu-kattuva-bage
+  - 02-kannadadalle-hosapadagalannu-kattuva-bage
   - 03-kannada-padagala-olarachane
   - 04-mathu-matthu-barahada-naduvina-gondala
   - 05-mathina-olaguttu

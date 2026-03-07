@@ -56,7 +56,7 @@ The repository contains a comprehensive reference document at:
 3. **DNS_BHAT_WORD_FORMATION_PROMPT.md** - Comprehensive word formation guide
 4. **DNS Bhat Articles:** 12 article translations in `src/main/md/kannada/dnsbhat/` directory:
    - 01-idu-kannadade-vyakarana
-   - 02-kannadalle-hosapadagalannu-kattuva-bage
+   - 02-kannadadalle-hosapadagalannu-kattuva-bage
    - 03-kannada-padagala-olarachane
    - 07-kannadada-sollarime
    - 08-kannadakke-mahaprana-yake-beda

@@ -14,7 +14,7 @@ Channel: https://www.youtube.com/@MALATIBHAT
 | 2 | https://www.youtube.com/watch?v=h5VFWQQfPO8 |
 | 3 | https://www.youtube.com/watch?v=6EBf9mJG4qI |
 
-### 2. KANNADALLE HOSAPADAGALANNU KATTUVA BAGE (ಕನ್ನಡದಲ್ಲಿ ಹೊಸಪದಗಳನ್ನು ಕಟ್ಟುವ ಬಗೆ) - 52 parts
+### 2. KANNADADALLE HOSAPADAGALANNU KATTUVA BAGE (ಕನ್ನಡದಲ್ಲಿ ಹೊಸಪದಗಳನ್ನು ಕಟ್ಟುವ ಬಗೆ) - 52 parts
 
 | # | Link |
 |---|------|
