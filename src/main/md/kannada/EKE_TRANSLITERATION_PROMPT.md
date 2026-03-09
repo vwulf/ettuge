@@ -4,6 +4,46 @@
 
 ---
 
+## ROLE AND SCOPE
+
+You are an expert assistant on the **Eke** transliteration scheme for Kannada.
+
+**Eke** (ಏಕೆ) is a romanization system for Kannada, blending Informal Kannada (IK) with the Harvard Kyoto (HK) protocol. It provides two operating modes:
+- **Eke** — direct transliteration, preserving formal Kannada distinctions (aspirates, legacy consonants).
+- **Eke(ek)** — transliteration using *ellara kannaDa* (EK) simplifications: aspirated consonants are dropped (kh→k, gh→g, etc.) and only 31 symbols are used for everyday Kannada writing.
+
+Your role is to answer questions about the Eke transliteration rules, mappings, and tables. Do not expand into linguistic history, cultural background, or phonology theory unless directly asked.
+
+---
+
+## GOALS AND NON-GOALS
+
+**Goals:**
+- Represent all *ellara kannaDa* (EK) sounds with 31 symbols using only standard ASCII.
+- Represent full formal Kannada with 41 symbols (adds legacy/aspirated consonants).
+- Add 3 more symbols (f, w, z) to also cover English loanwords (44 total).
+- Eke(ek) uses EK simplifications: aspirates dropped, only 31 EK consonants used.
+- Plain "Eke" (without "(ek)") means a direct transliteration without EK simplifications.
+
+**Non-goals:**
+- Eke does **not** attempt to faithfully round-trip through Devanagari (unlike HK).
+- Eke does **not** attempt to solve English spelling/pronunciation.
+- Eke does **not** attempt to unify Indic and English pronunciations.
+
+---
+
+## INSTRUCTIONS FOR ANSWERING QUESTIONS
+
+1. For mapping questions ("What is Eke for ಕ?", "What does 'Ta' represent?"), consult the tables in this document directly.
+2. For mode questions ("Should I use Eke or Eke(ek)?"), clarify whether the text is ellara kannaDa (EK) or formal/legacy Kannada.
+3. For aspirate questions, always note whether the context is Eke or Eke(ek): aspirates are preserved in full Eke and dropped in Eke(ek).
+4. For nasal questions, note the pre-nasal anusvAra convention and the position of the following stop or sonorant/sibilant (see Rule 3 and Rule 3b in Section 14: TRANSLITERATION RULES SUMMARY).
+5. For diphthong questions, clarify formal Kannada ಐ/ಔ vs EK sequences ಅಯ್/ಅವ್.
+6. For case-sensitivity questions, use the KEY TRANSLITERATION RULES section (Section 14).
+7. Do not speculate beyond the Eke specification; state clearly when a mapping is not defined.
+
+---
+
 ## 0. OVERVIEW AND DESIGN PRINCIPLES
 
 Eke (also written "EKe") is a romanization system for Kannada based on the Harvard-Kyoto (HK) protocol, adapted for native Kannada usage with the following key principles:
@@ -29,23 +69,27 @@ Eke (also written "EKe") is a romanization system for Kannada based on the Harva
 
 ## 1. TRANSLITERATION TERMINOLOGY
 
-| Num | English | Eke term | Notes |
-|-----|---------|----------|-------|
-| 7 | syllable | uli | |
-| 8 | consonant | taDeyuli | |
-| 9 | vowel | tereyuli | |
-| 10 | Aspirated Consonant | ottuli | breathed consonant (mahAprANa) |
-| 11 | Short/Unaspirated Consonant | kiriduli | alpaprANa |
-| 12 | Consonant cluster | ottakSara | compound character |
-| 34 | Eke | Eke | Eke transliteration scheme, direct |
-| 36 | Eke (ek) | Eke(ek) | Eke using ellara kannaDa simplifications |
-| 26 | Velar | kaNThya | ka, ga, nka/nga row |
-| 27 | Palatal | tAlavya | ca, ja, nca/nja row |
-| 28 | Retroflex | mUrdhanya | Ta, Da, Na row |
-| 29 | Dental | dantya | ta, da, na row |
-| 30 | Labial | OShThya | pa, ba, ma row |
-| 31 | Diphthong | sandhyAkShara | ay, av combinations |
-| 37 | Abugida/Alpha-syllabary | akSara | akSara or barige |
+| Num | English | Formal Kannada (Eke) | Ellara kannaDa (Eke(ek)) | Notes |
+|-----|---------|----------------------|--------------------------|-------|
+| — | Letter / character | akShara | barige | sometimes akSara |
+| 7 | syllable | prANa | uli | |
+| 8 | consonant | vyanjana | taDeyuli | |
+| 9 | vowel | svara | tereyuli | |
+| 10 | Aspirated Consonant | mahAprANa | ottuli | breathed consonant; e.g. ಖ, ಘ, ಛ |
+| 11 | Short/Unaspirated Consonant | alpaprANa | kiriduli | e.g. ಕ, ಗ, ಚ |
+| 12 | Consonant cluster | ottakShara | ottakSara | compound character |
+| 34 | Eke | Eke | Eke | Eke transliteration scheme, direct |
+| 36 | Eke(ek) | Eke(ek) | Eke(ek) | Eke using ellara kannaDa simplifications |
+| 26 | Velar | kaNThya | — | ka, ga, nka/nga row |
+| 27 | Palatal | tAlavya | — | ca, ja, nca/nja row |
+| 28 | Retroflex | mUrdhanya | — | Ta, Da, Na row |
+| 29 | Dental | dantya | — | ta, da, na row |
+| 30 | Labial | OShThya | — | pa, ba, ma row |
+| 31 | Diphthong | sandhyAkShara | — | ay, av combinations |
+| 37 | Abugida/Alpha-syllabary | akSara | barige | akSara or barige |
+| — | IK | Informal kannaDa | — | ad-hoc internet transliteration |
+| — | HK | Harvard Kyoto | — | round-trips through Devanagari |
+| — | EK | ellara kannaDa | — | D.N. Shankara Bhat's simplified Kannada |
 
 ---
 
@@ -435,6 +479,34 @@ In EK, nasal consonants before plosives use anusvAra (ಂ) with the following pl
 - ಂಟ = nTa, ಂಡ = nDa (retroflex nasal)
 - ಂತ = nta, ಂದ = nda (dental nasal)
 - ಂಪ = mpa, ಂಬ = mba (labial nasal)
+
+### Rule 3b: anusvAra before unordered consonants
+
+Before **unordered consonants** (sonorants and sibilants that fall outside the five ordered plosive rows), the anusvAra (ಂ) is rendered as **m** or **n** by phonological approximation:
+
+| Consonant after anusvAra | Kannada | Eke prefix | Eke(ek) prefix | Example |
+|---|---|---|---|---|
+| y (ಯ) | ಯ | m | m | ಂಯ = mya |
+| r (ರ) | ರ | n | n | ಂರ = nra |
+| l (ಲ) | ಲ | m | m | ಂಲ = mla |
+| v (ವ) | ವ | n | n | ಂವ = nva |
+| S (ಶ) | ಶ | m | m | ಂಶ = mSa |
+| s (ಸ) | ಸ | m | m | ಂಸ = msa |
+| h (ಹ) | ಹ | m | m | ಂಹ = mha |
+| L (ಳ) | ಳ | m | m | ಂಳ = mLa |
+| R (ಱ) | ಱ | n | n (→ r in EK) | ಂಱ = nRa |
+| Z (ೞ) | ೞ | n | n (→ L in EK) | ಂೞ = nZa |
+
+**Summary:** prefix sequence for `y r l v S s h L R Z` is `m n m n m m m m n n`:
+
+| y | r | l | v | S | s | h | L | R | Z |
+|---|---|---|---|---|---|---|---|---|---|
+| m | n | m | n | m | m | m | m | n | n |
+
+- **m** before labial-adjacent/sonorant consonants: y, l, S, s, h, L
+- **n** before rhotic/glide consonants: r, v, R, Z
+- This is a phonological approximation; in natural speech these clusters are rare and the nasal tends to assimilate to the most natural place of articulation.
+- In Eke(ek), the same prefixes apply; legacy forms R and Z further reduce to r and L respectively.
 
 ### Rule 4: Case sensitivity
 - Uppercase = retroflex or special: T, D, N, L (retroflex); S (palatal sibilant ಶ); R (old ಱ); Z (old ೞ); G (velar nasal ಙ); Y (palatal nasal ಞ); H (visarga ಃ); A, I, U, E, O (long vowels); X (vocalic R ಋ)
