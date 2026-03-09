@@ -1,92 +1,165 @@
 # Eke Romanization Reference
 
-Eke (Ellara Kannada Encoding) is the romanization system for Kannada used in this project. It's designed for native Kannada speakers — simplified, phonetic, and aspiration-free.
+Eke (ಏಕೆ) is the romanization system for Kannada used in this project. It blends Informal Kannada (IK) with the Harvard-Kyoto (HK) protocol, adapted for native Kannada usage. It provides **two modes**:
 
-## Core Principle
+- **Eke** — direct transliteration, preserving all formal distinctions (aspirates, legacy consonants), 41 symbols
+- **Eke(ek)** — transliteration using *ellara kannaDa* (EK) simplifications: aspirates dropped, 31 symbols
 
-Kannada does not natively have aspirated consonants (mahapranas). These exist in the script only to spell Sanskrit loanwords. Eke drops them.
+**For word-coining work, use Eke(ek)** — we coin native EK words, which have no aspirates.
 
-## Consonant Mapping
+---
 
-### Stops and Affricates
+## Case Sensitivity
 
-| Kannada | IPA | Eke | Note |
-|---------|-----|-----|------|
-| ಕ | k | k | |
-| ಖ | kʰ | k | aspirate → k |
-| ಗ | g | g | |
-| ಘ | gʱ | g | aspirate → g |
-| ಙ | ŋ | G | velar nasal |
-| ಚ | tɕ | c | |
-| ಛ | tɕʰ | c | aspirate → c |
-| ಜ | dʑ | j | |
-| ಝ | dʑʱ | j | aspirate → j |
-| ಞ | ɲ | Y | palatal nasal |
-| ಟ | ʈ | T | retroflex (PRESERVED) |
-| ಠ | ʈʰ | T | retroflex aspirate → T |
-| ಡ | ɖ | D | retroflex (PRESERVED) |
-| ಢ | ɖʱ | D | retroflex aspirate → D |
-| ಣ | ɳ | N | retroflex nasal (PRESERVED) |
-| ತ | t | t | |
-| ಥ | tʰ | t | aspirate → t |
-| ದ | d | d | |
-| ಧ | dʱ | d | aspirate → d |
-| ನ | n | n | |
-| ಪ | p | p | |
-| ಫ | pʰ | p | aspirate → p |
-| ಬ | b | b | |
-| ಭ | bʱ | b | aspirate → b |
-| ಮ | m | m | |
+Uppercase = retroflex, special, or long:
 
-### Approximants and Fricatives
+| Uppercase | Meaning | Lowercase | Meaning |
+|-----------|---------|-----------|---------|
+| T | retroflex ಟ | t | dental ತ |
+| D | retroflex ಡ | d | dental ದ |
+| N | retroflex ಣ | n | dental ನ |
+| L | retroflex ಳ | l | dental ಲ |
+| S | palatal sibilant ಶ | s | alveolar ಸ |
+| A | long ಆ | a | short ಅ |
+| I | long ಈ | i | short ಇ |
+| U | long ಊ | u | short ಉ |
+| E | long ಏ | e | short ಎ |
+| O | long ಓ | o | short ಒ |
+| R | old ಱ (→ r in EK) | r | ರ |
+| Z | old ೞ (→ L in EK) | — | — |
+| G | velar nasal ಙ | g | ಗ |
+| Y | palatal nasal ಞ | y | ಯ |
+| H | visarga ಃ | h | ಹ |
+| X | vocalic ಋ | — | — |
 
-| Kannada | IPA | Eke | Note |
-|---------|-----|-----|------|
-| ಯ | j | y | |
-| ರ | r | r | |
-| ಱ | r | r | old Kannada r |
-| ಲ | l | l | |
-| ಳ | ɭ | L | retroflex lateral (PRESERVED) |
-| ವ | v/w | v | |
-| ಶ | ɕ | S | |
-| ಷ | ʂ | S | both → S |
-| ಸ | s | s | |
-| ಹ | h | h | |
+**Key distinction**: S = ಶ (palatal sibilant), NOT a generic "sh". s = ಸ (alveolar). These are different sounds.
 
-## Vowel Mapping
+---
 
-| Kannada | IPA | Eke |
-|---------|-----|-----|
-| ಅ | a | a |
-| ಆ | aː | A |
-| ಇ | i | i |
-| ಈ | iː | I |
-| ಉ | u | u |
-| ಊ | uː | U |
-| ಋ | r̩ | x (rarely used) |
-| ಎ | e | e |
-| ಏ | eː | E |
-| ಐ | ai | ai |
-| ಒ | o | o |
-| ಓ | oː | O |
-| ಔ | au | au |
+## EK Consonants (Eke(ek) — 21 consonants)
 
-## Key Rules
+Place of articulation × voicing, plus sonorants:
 
-1. **Long vowels** are uppercase: a→a, A→ā
-2. **Retroflexes** are uppercase: T, D, N, L
-3. **Aspirates are dropped**: ಖ→k, ಘ→g, ಥ→t, ಧ→d, ಫ→p, ಭ→b, ಛ→c, ಝ→j
-4. **No special treatment** for anusvara (ಂ) — use m or n depending on context
+|           | voiceless | voiced | nasal   | pre-nasal (anusvAra) |
+|-----------|-----------|--------|---------|----------------------|
+| velar     | ka ಕ      | ga ಗ   |         | nka ಂಕ / nga ಂಗ      |
+| palatal   | ca ಚ      | ja ಜ   |         | nca ಂಚ / nja ಂಜ      |
+| retroflex | Ta ಟ      | Da ಡ   | Na ಣ    | nTa ಂಟ / nDa ಂಡ      |
+| dental    | ta ತ      | da ದ   | na ನ    | nta ಂತ / nda ಂದ      |
+| labial    | pa ಪ      | ba ಬ   | ma ಮ    | mpa ಂಪ / mba ಂಬ      |
 
-## Examples
+Sonorants: ya ಯ, ra ರ, la ಲ, va ವ
 
-| Kannada | Eke |
-|---------|-----|
-| ಕನ್ನಡ | kannaDa |
-| ಸಿರಿಗನ್ನಡ | sirigannaDa |
-| ನುಡಿ | nuDi |
-| ಹೆಣ್ಣು | heNNu |
-| ಮಂದಿ | mandi |
-| ಒಳನೀರಿಗೆ | oLanIrige |
-| ಉಸಿರಿಯರಿಮೆ | usiriyarime |
-| ಗೆಂಟುತೋರ್ಪುಕ | genTutOrpuka |
+Sibilants/fricatives: Sa ಶ, sa ಸ, ha ಹ, La ಳ
+
+---
+
+## Aspirates (Eke vs Eke(ek))
+
+In full Eke, aspirates use digraphs. In Eke(ek), drop the `h`:
+
+| Eke | Eke(ek) | Kannada |
+|-----|---------|---------|
+| kha | ka (→k) | ಖ |
+| gha | ga (→g) | ಘ |
+| cha | ca (→c) | ಛ |
+| jha | ja (→j) | ಝ |
+| Tha | Ta (→T) | ಠ |
+| Dha | Da (→D) | ಢ |
+| tha | ta (→t) | ಥ |
+| dha | da (→d) | ಧ |
+| pha | pa (→p) | ಫ |
+| bha | ba (→b) | ಭ |
+| Sha | Sa (→S) | ಷ → ಶ |
+
+**Parenthetical notation**: When an aspirate is optional (allowed in EK but not required), show it in parentheses: `kaS(h)TagaLa`, `vid(h)i`.
+
+---
+
+## Vowels
+
+| Kannada | EK equivalent | Eke | Note |
+|---------|---------------|-----|------|
+| ಅ | ಅ | a | short |
+| ಆ | ಆ | A | long |
+| ಇ | ಇ | i | short |
+| ಈ | ಈ | I | long |
+| ಉ | ಉ | u | short |
+| ಊ | ಊ | U | long |
+| ಎ | ಎ | e | short |
+| ಏ | ಏ | E | long |
+| ಒ | ಒ | o | short |
+| ಓ | ಓ | O | long |
+| ಐ | ಅಯ್ | ay | diphthong (EK: ay not ai) |
+| ಔ | ಅವ್ | av | diphthong (EK: av not au) |
+| ಋ | (ri/ru) | x | vocalic R, Sanskrit only |
+| ಃ | — | H | visarga, rare in EK |
+
+---
+
+## Diphthongs
+
+In EK, the formal diphthong vowels ಐ and ಔ are written as sequences:
+- ಐ → ಅಯ್ → **ay**
+- ಔ → ಅವ್ → **av**
+
+Other vowel+glide combinations: iy, Iy, uy, Uy, ey, Ey, oy, Oy (with ಯ್); iv, Iv, uv, Uv, ev, Ev, ov, Ov (with ವ್).
+
+---
+
+## Nasal Assimilation (anusvAra Rules)
+
+The anusvAra ಂ before a plosive is written as the nasal+plosive combination:
+
+**Before ordered plosives** (Rule 3):
+| anusvAra + | Eke(ek) | Kannada |
+|------------|---------|---------|
+| ಕ | nka | ಂಕ |
+| ಗ | nga | ಂಗ |
+| ಚ | nca | ಂಚ |
+| ಜ | nja | ಂಜ |
+| ಟ | nTa | ಂಟ |
+| ಡ | nDa | ಂಡ |
+| ತ | nta | ಂತ |
+| ದ | nda | ಂದ |
+| ಪ | mpa | ಂಪ |
+| ಬ | mba | ಂಬ |
+
+**Before sonorants/sibilants** (Rule 3b) — use m or n by phonological approximation:
+
+| after anusvAra | prefix |
+|----------------|--------|
+| y, l, S, s, h, L | **m** |
+| r, v, R, Z | **n** |
+
+Examples: ಂಶ = mSa, ಂಸ = msa, ಂರ = nra, ಂವ = nva
+
+---
+
+## Six Transliteration Rules Summary
+
+1. **Aspirates (Eke(ek))**: Drop `h` in aspirate digraphs: kh→k, gh→g, ch→c, jh→j, Th→T, Dh→D, th→t, dh→d, ph→p, bh→b, Sh→S
+2. **Old Kannada letters (Eke(ek))**: ಱ (Ra) → ra; ೞ (Za) → La
+3. **Nasal assimilation**: anusvAra before plosives → nasal+plosive pairs (nka, nca, nTa, nta, mpa, etc.)
+4. **Case sensitivity**: Uppercase = retroflex or special; S = ಶ (not sh); long vowels uppercase (A, I, U, E, O)
+5. **Inherent vowel**: Every consonant has inherent `a`; suppressed by virama ್ in clusters
+6. **Parenthetical optional aspirate**: `kaS(h)TagaLa` — `h` in parens = can be dropped in Eke(ek)
+
+---
+
+## Examples — Coined Words
+
+| Kannada | Eke(ek) | Meaning |
+|---------|---------|---------|
+| ಕನ್ನಡ | kannaDa | Kannada |
+| ಎಲ್ಲರಾಳ್ವಿಕೆ | ellarALvike | democracy (rule of all) |
+| ಉಸಿರಿಯರಿಮೆ | usiriyarime | biology (study of life) |
+| ಗೆಂಟುತೋರ್ಪುಕ | genTutOrpuka | telescope (far-shower) |
+| ಬಿಸಿಯಳಕ | bisiyaLaka | thermometer (heat-measurer) |
+| ಬಾನಹಾಯ್ಗ | bAnahAyga | astronaut (sky-navigator) |
+| ಬೆಳಕುಬರಹ | beLakubaraha | photograph (light-writing) |
+| ತಿಳಿಯರಿಮೆ | tiLiyarime | algorithm (clarity-knowledge) |
+| ಕಣಜ | kaNaja | database (storehouse) |
+| ಹೆಜ್ಜೆಗಾರ | hejjegAra | programmer (step-maker) |
+
+Note: `genTutOrpuka` — the capital T is retroflex ಟ, capital O is long ಓ; `bAnahAyga` — capital A is long ಆ.
