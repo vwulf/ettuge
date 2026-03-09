@@ -1,0 +1,23 @@
+{
+  "eval_id": 3,
+  "eval_name": "cs-tech-terms-coining",
+  "prompt": "I need to write a Kannada tech article. Help me coin Dravidian words for: software, programmer, algorithm, database, and artificial intelligence.",
+  "assertions": [
+    {
+      "name": "covers-all-five-cs-terms",
+      "description": "Output addresses all 5 CS terms"
+    },
+    {
+      "name": "no-english-loanwords-unexplained",
+      "description": "Does not simply transliterate English (e.g. no ಸಾಫ್ಟ್ವೇರ್ as the answer)"
+    },
+    {
+      "name": "includes-eke-romanization",
+      "description": "Output includes Eke romanization"
+    },
+    {
+      "name": "explains-formation-strategy",
+      "description": "Explains why suffix vs compound strategy was chosen"
+    }
+  ]
+}

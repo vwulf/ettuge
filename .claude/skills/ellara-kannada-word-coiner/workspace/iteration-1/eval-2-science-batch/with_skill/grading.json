@@ -1,0 +1,34 @@
+{
+  "eval_id": 2,
+  "run": "with_skill",
+  "assertions": [
+    {
+      "text": "covers-all-five-terms",
+      "passed": true,
+      "evidence": "biology, telescope, thermometer, astronaut, photograph all present in table"
+    },
+    {
+      "text": "uses-usiri-for-bio",
+      "passed": true,
+      "evidence": "ಉಸಿರಿಯರಿಮೆ / usiriyarime explicitly shown"
+    },
+    {
+      "text": "uses-gentu-for-tele",
+      "passed": true,
+      "evidence": "ಗೆಂಟುತೋರ್ಪುಕ / genTutOrpuka explicitly shown"
+    },
+    {
+      "text": "uses-bisi-for-thermo",
+      "passed": true,
+      "evidence": "ಬಿಸಿಯಳಕ / bisiyaLaka explicitly shown"
+    },
+    {
+      "text": "includes-breakdowns",
+      "passed": true,
+      "evidence": "Every term has breakdown column showing root+suffix analysis"
+    }
+  ],
+  "pass_count": 5,
+  "total_count": 5,
+  "pass_rate": 1.0
+}

@@ -1,0 +1,34 @@
+{
+  "eval_id": 2,
+  "run": "without_skill",
+  "assertions": [
+    {
+      "text": "covers-all-five-terms",
+      "passed": true,
+      "evidence": "biology, telescope, thermometer, astronaut, photograph all present"
+    },
+    {
+      "text": "uses-usiri-for-bio",
+      "passed": false,
+      "evidence": "Uses ಜೀವವಿಜ್ಞಾನ (jiva = Sanskrit for life); does NOT use ಉಸಿರಿ"
+    },
+    {
+      "text": "uses-gentu-for-tele",
+      "passed": false,
+      "evidence": "Uses ದೂರದರ್ಶಕ (dura = Sanskrit for far, darshaka = Sanskrit for shower); does NOT use ಗೆಂಟು"
+    },
+    {
+      "text": "uses-bisi-for-thermo",
+      "passed": false,
+      "evidence": "Uses ಉಷ್ಣಮಾಪಕ (ushna = Sanskrit for heat); does NOT use ಬಿಸಿ"
+    },
+    {
+      "text": "includes-breakdowns",
+      "passed": true,
+      "evidence": "Has 'Literal Meaning' column but no morphological breakdown of suffixes"
+    }
+  ],
+  "pass_count": 2,
+  "total_count": 5,
+  "pass_rate": 0.4
+}

@@ -1,0 +1,29 @@
+{
+  "eval_id": 3,
+  "run": "without_skill",
+  "assertions": [
+    {
+      "text": "covers-all-five-cs-terms",
+      "passed": true,
+      "evidence": "software, programmer, algorithm, database, artificial intelligence all present"
+    },
+    {
+      "text": "no-english-loanwords-unexplained",
+      "passed": true,
+      "evidence": "No raw English transliterations; uses Kannada coinages throughout"
+    },
+    {
+      "text": "includes-eke-romanization",
+      "passed": false,
+      "evidence": "Uses standard transliteration (Tantramsha, Kramavali) not Eke; no uppercase retroflexes, no long vowel markers"
+    },
+    {
+      "text": "explains-formation-strategy",
+      "passed": false,
+      "evidence": "Has etymology column but no explanation of why compound vs suffix strategy was chosen; no morphological reasoning"
+    }
+  ],
+  "pass_count": 2,
+  "total_count": 4,
+  "pass_rate": 0.5
+}

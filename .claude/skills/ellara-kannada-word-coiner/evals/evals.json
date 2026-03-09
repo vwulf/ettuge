@@ -1,0 +1,107 @@
+{
+  "skill_name": "ellara-kannada-word-coiner",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "What's a native Kannada word for 'democracy'? I want the DNS Bhat style — no Sanskrit borrowings.",
+      "expected_output": "Should produce ಮಂದಿಯಾಳ್ವಿಕೆ (mandiyALvike), with breakdown: ಮಂದಿ (people) + ಆಳ್ವಿಕೆ (rule/governance). Should include Eke romanization and morphological analysis.",
+      "files": [],
+      "assertions": [
+        {
+          "name": "contains-kannada-script",
+          "description": "Output contains Kannada script characters",
+          "type": "contains_pattern",
+          "pattern": "[\\u0C80-\\u0CFF]"
+        },
+        {
+          "name": "contains-eke-romanization",
+          "description": "Output includes Eke romanization (should not contain kh, gh, bh, ph, dh, th aspirates)",
+          "type": "not_contains",
+          "value": "kh"
+        },
+        {
+          "name": "contains-morphological-breakdown",
+          "description": "Output explains the component roots and suffixes",
+          "type": "contains_any",
+          "values": ["ಮಂದಿ", "ಆಳ್ವಿಕೆ", "mandi", "ALvike", "people", "rule"]
+        },
+        {
+          "name": "no-sanskrit-borrowing",
+          "description": "Output does NOT use ಪ್ರಜಾಪ್ರಭುತ್ವ (Sanskrit-derived democracy term)",
+          "type": "not_contains",
+          "value": "ಪ್ರಜಾಪ್ರಭುತ್ವ"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "prompt": "Can you give me Ellara Kannada words for a batch of science terms: biology, telescope, thermometer, astronaut, photograph?",
+      "expected_output": "Should produce native Kannada equivalents for all 5 terms using neo-classical root mappings: bio→ಉಸಿರಿ, tele→ಗೆಂಟು, thermo→ಬಿಸಿ, astro→ಬಾನ್, photo→ಬೆಳಕು. Should include a table or structured list with Eke romanizations and breakdowns.",
+      "files": [],
+      "assertions": [
+        {
+          "name": "covers-all-five-terms",
+          "description": "Output addresses all 5 requested terms",
+          "type": "contains_all",
+          "values": ["biology", "telescope", "thermometer", "astronaut", "photograph"]
+        },
+        {
+          "name": "uses-usiri-for-bio",
+          "description": "Uses ಉಸಿರಿ root for biology",
+          "type": "contains_any",
+          "values": ["ಉಸಿರಿ", "usiri"]
+        },
+        {
+          "name": "uses-gentu-for-tele",
+          "description": "Uses ಗೆಂಟು root for telescope",
+          "type": "contains_any",
+          "values": ["ಗೆಂಟು", "genTu", "gentu"]
+        },
+        {
+          "name": "uses-bisi-for-thermo",
+          "description": "Uses ಬಿಸಿ root for thermometer",
+          "type": "contains_any",
+          "values": ["ಬಿಸಿ", "bisi"]
+        },
+        {
+          "name": "includes-breakdowns",
+          "description": "Output includes morphological breakdown for at least some terms",
+          "type": "contains_any",
+          "values": ["ಅರಿಮೆ", "ಅಳಕ", "ಹಾಯ್ಗ", "ಬರಹ", "arime", "aLaka", "hAyga", "baraha"]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "prompt": "I need to write a Kannada tech article. Help me coin Dravidian words for: software, programmer, algorithm, database, and artificial intelligence.",
+      "expected_output": "Should produce creative native coinages for all 5 CS terms using DNS Bhat methodology. No Sanskrit borrowings. Should show strategy selection (suffix vs compound), pick native roots, apply morphological rules, and provide Eke romanization with breakdown.",
+      "files": [],
+      "assertions": [
+        {
+          "name": "covers-all-five-cs-terms",
+          "description": "Output addresses all 5 CS terms",
+          "type": "contains_all",
+          "values": ["software", "programmer", "algorithm", "database", "artificial intelligence"]
+        },
+        {
+          "name": "no-english-loanwords-unexplained",
+          "description": "Output does not simply transliterate the English words",
+          "type": "not_contains",
+          "value": "ಸಾಫ್ಟ್ವೇರ್"
+        },
+        {
+          "name": "includes-eke-romanization",
+          "description": "Output includes Eke romanization (lowercase with uppercase retroflexes)",
+          "type": "contains_pattern",
+          "pattern": "[TNDLnl][aeiouAEIOU]"
+        },
+        {
+          "name": "explains-formation-strategy",
+          "description": "Output explains why certain formation strategies were chosen",
+          "type": "contains_any",
+          "values": ["suffix", "compound", "ಜೋಡು", "ಕಟ್ಟು", "root", "ಮೂಲ"]
+        }
+      ]
+    }
+  ]
+}
