@@ -26,11 +26,11 @@ Use **Eke romanization** alongside Kannada script in all outputs (see romanizati
 
 | Bhat's Term | Sanskrit Term | English |
 |-------------|---------------|---------|
-| ಹೆಸರುಪದ (hesarupada) | Naama pada | Noun |
-| ಎಸಕಪದ (esakapada) | Kriya pada | Verb |
-| ಪರಿಚೆಪದ (paricepada) | Visheshana | Adjective/Modifier |
-| ಅದುಪದ (adupada) | Sarvanama | Pronoun |
-| ಎಣಿಕೆಪದ (eNikepada) | Sankhya | Numeral |
+| ಹೆಸರುಪದ (hesarupada) | Naama pada (nAmapada) | Noun |
+| ಎಸಕಪದ (esakapada) | Kriya pada (kriyApada) | Verb |
+| ಪರಿಚೆಪದ (paricepada) | Visheshana (viShESaNa) ) | Adjective/Modifier |
+| ಆಡುಪದ (ADupada) | Sarvanama (sarvanAma)| Pronoun |
+| ಎಣಿಕೆಪದ (eNikepada) | Sankhya (sankhya) | Numeral |
 
 ---
 
