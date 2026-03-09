@@ -1,0 +1,29 @@
+{
+  "eval_id": 3,
+  "run": "with_skill",
+  "assertions": [
+    {
+      "text": "covers-all-five-cs-terms",
+      "passed": true,
+      "evidence": "software, programmer, algorithm, database, artificial intelligence all in table"
+    },
+    {
+      "text": "no-english-loanwords-unexplained",
+      "passed": true,
+      "evidence": "All terms coined from native roots; no ಸಾಫ್ಟ್ವೇರ್ or similar transliterations"
+    },
+    {
+      "text": "includes-eke-romanization",
+      "passed": true,
+      "evidence": "naDasubaraha, eNikebarega, hejjesAlu, tiLivukaNaja, kaTTarivu — all with correct Eke conventions"
+    },
+    {
+      "text": "explains-formation-strategy",
+      "passed": true,
+      "evidence": "Each entry in breakdown column shows root+suffix analysis; sample sentences demonstrate usage"
+    }
+  ],
+  "pass_count": 4,
+  "total_count": 4,
+  "pass_rate": 1.0
+}

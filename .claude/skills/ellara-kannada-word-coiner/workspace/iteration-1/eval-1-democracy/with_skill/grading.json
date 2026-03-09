@@ -1,0 +1,29 @@
+{
+  "eval_id": 1,
+  "run": "with_skill",
+  "assertions": [
+    {
+      "text": "contains-kannada-script",
+      "passed": true,
+      "evidence": "Output contains ಮಂದಿಯಾಳ್ವಿಕೆ and multiple other Kannada script characters throughout"
+    },
+    {
+      "text": "contains-morphological-breakdown",
+      "passed": true,
+      "evidence": "Explicitly shows: ಮಂದಿ (people) + ಆಳ್ವಿಕೆ (rule/governance) with full breakdown table"
+    },
+    {
+      "text": "no-sanskrit-borrowing",
+      "passed": true,
+      "evidence": "ಪ್ರಜಾಪ್ರಭುತ್ವ is listed in the 'rejected' table, confirming the skill actively avoids it"
+    },
+    {
+      "text": "includes-eke-romanization",
+      "passed": true,
+      "evidence": "Provides mandiyALvike with correct Eke conventions (uppercase L for retroflex)"
+    }
+  ],
+  "pass_count": 4,
+  "total_count": 4,
+  "pass_rate": 1.0
+}

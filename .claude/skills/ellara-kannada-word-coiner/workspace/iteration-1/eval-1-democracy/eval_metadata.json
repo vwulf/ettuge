@@ -1,0 +1,23 @@
+{
+  "eval_id": 1,
+  "eval_name": "single-word-democracy",
+  "prompt": "What's a native Kannada word for 'democracy'? I want the DNS Bhat style — no Sanskrit borrowings.",
+  "assertions": [
+    {
+      "name": "contains-kannada-script",
+      "description": "Output contains Kannada script characters"
+    },
+    {
+      "name": "contains-morphological-breakdown",
+      "description": "Output explains the component roots (ಮಂದಿ=people, ಆಳ್ವಿಕೆ=rule)"
+    },
+    {
+      "name": "no-sanskrit-borrowing",
+      "description": "Output does NOT use ಪ್ರಜಾಪ್ರಭುತ್ವ (Sanskrit democracy term)"
+    },
+    {
+      "name": "includes-eke-romanization",
+      "description": "Output includes Eke romanization alongside Kannada script"
+    }
+  ]
+}

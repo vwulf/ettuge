@@ -1,13 +1,16 @@
-# DNS Bhat Transcript Collection: Comprehensive Analysis
+# DNS Bhat Collection: Comprehensive Analysis
 
 ## Overview
 
-This analysis covers 13 markdown files containing YouTube video transcripts of **D.N. Shankar Bhat's** writings on Kannada language and linguistics, read aloud by **Malati Bhat**. The files are numbered 01–13 and organized into individual folders. All files were created on February 11, 2026.
+This analysis covers the DNS Bhat linguistics collection in this repository. It includes:
+- **13 YouTube video transcript files** (books 01–13): Malati Bhat reading DNS Bhat's writings aloud; created February 11, 2026
+- **Book 14** (*Nijakku Halegannada Vyakarana Entahadu?*): Full Kannada text + English translation added via Copilot PRs #34/#36 on March 4, 2026 — **not from YouTube transcripts**; sourced from the Internet Archive ebook
 
 ### Collection at a Glance
 
-| # | Title | Topic | Lines | Transcript Quality |
-|---|-------|-------|-------|-------------------|
+| # | Title | Topic | Lines | Source/Quality |
+|---|-------|-------|-------|----------------|
+| 14 | Nijakku Halegannada Vyakarana Entahadu? | What is Old Kannada Grammar Really? — Sanskrit vs Dravidian grammatical principles | 9469 (kn) + 601 (en) | Full ebook text — **excellent quality** |
 | 01 | Idu Kannadade Vyakarana | Kannada's own grammar | 49 | Good |
 | 02 | Kannadadalle Hosapadagalannu Kattuva Bage | Creating new words in Kannada | 519 | Good |
 | 03 | Kannada Padagala Olarachane | Internal structure of Kannada words | 575 | Good |

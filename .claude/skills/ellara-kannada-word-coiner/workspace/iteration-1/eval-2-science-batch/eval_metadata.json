@@ -1,0 +1,27 @@
+{
+  "eval_id": 2,
+  "eval_name": "science-terms-batch",
+  "prompt": "Can you give me Ellara Kannada words for a batch of science terms: biology, telescope, thermometer, astronaut, photograph?",
+  "assertions": [
+    {
+      "name": "covers-all-five-terms",
+      "description": "Output addresses all 5 requested terms"
+    },
+    {
+      "name": "uses-usiri-for-bio",
+      "description": "Uses ಉಸಿರಿ (usiri) root for biology"
+    },
+    {
+      "name": "uses-gentu-for-tele",
+      "description": "Uses ಗೆಂಟು (genTu) root for telescope"
+    },
+    {
+      "name": "uses-bisi-for-thermo",
+      "description": "Uses ಬಿಸಿ (bisi) root for thermometer"
+    },
+    {
+      "name": "includes-breakdowns",
+      "description": "Output includes morphological breakdown for terms"
+    }
+  ]
+}

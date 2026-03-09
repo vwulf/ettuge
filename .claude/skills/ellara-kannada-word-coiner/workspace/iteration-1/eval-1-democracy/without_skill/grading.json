@@ -1,0 +1,29 @@
+{
+  "eval_id": 1,
+  "run": "without_skill",
+  "assertions": [
+    {
+      "text": "contains-kannada-script",
+      "passed": true,
+      "evidence": "Output contains ಎಲ್ಲರಾಳ್ವಿಕೆ and other Kannada script characters"
+    },
+    {
+      "text": "contains-morphological-breakdown",
+      "passed": true,
+      "evidence": "Shows ಎಲ್ಲರ (everyone, genitive) + ಆಳ್ವಿಕೆ (governance) with explanation"
+    },
+    {
+      "text": "no-sanskrit-borrowing",
+      "passed": true,
+      "evidence": "ಪ್ರಜಾತಂತ್ರ explicitly rejected; final answer uses native roots"
+    },
+    {
+      "text": "includes-eke-romanization",
+      "passed": false,
+      "evidence": "Uses ellaraaLvike — not proper Eke (should be ellarALvike with uppercase A for long vowel). Also lacks systematic Eke table."
+    }
+  ],
+  "pass_count": 3,
+  "total_count": 4,
+  "pass_rate": 0.75
+}
