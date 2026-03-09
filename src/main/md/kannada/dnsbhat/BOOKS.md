@@ -1,9 +1,14 @@
 # ಡಾ. ಡಿ. ಎನ್. ಶಂಕರ ಬಟ್ — ಹೊತ್ತಗೆಗಳ ಸೂಚಿ
 # Dr. D. N. Shankara Bhat — Complete Book Catalog
 
-**Last updated:** 2026-03-09 (revised with CDX sitemap discovery)
+**Last updated:** 2026-03-09 (revised with blog content collection)
 **Scope:** All known DNS Bhat works, with emphasis on Kannada linguistics
 **Sources:** dnshankarabhat.net (CDX sitemap — 91 unique pages found), archive.org, Google Drive, YouTube transcripts, Google Books
+
+**Blog collection status:** Blog posts fetched from dnshankarabhat.net and saved as `*-blog.md` files:
+- **Book 02** — 15 parts of *ಇಂಗ್ಲಿಶ್ ನುಡಿ* series (parts 4–18) ✅
+- **Book 14** — 7 parts of *ಶಬ್ದಮಣಿದರ್ಪಣ* series ✅
+- **Book 18** — 13 parts of *ನುಡಿಯರಿಮೆಯ ಇಣುಕುನೋಟ* series (parts 1–3, 10, 14, 18, 20, 23, 27, 28, 29, 33, 35) ✅
 
 ---
 
@@ -12,7 +17,7 @@
 | # | Short Title | Language | Year | Format Available | Text Available |
 |---|-------------|----------|------|-----------------|----------------|
 | 01 | Idu Kannadade Vyakarana | Kannada | 2021 | YouTube | ✅ Transcript |
-| 02 | Kannadalle Hosapadagalannu Kattuva Bage | Kannada | — | YouTube | ✅ Transcript |
+| 02 | Kannadalle Hosapadagalannu Kattuva Bage | Kannada | — | YouTube + Blog | ✅ Transcript + 15 blog posts |
 | 03 | Kannada Padagala Olarachane | Kannada | — | YouTube | ✅ Transcript |
 | 04 | Mathu Matthu Barahada Naduvina Gondala | Kannada | — | YouTube | ⚠️ Partial |
 | 05 | Mathina Olaguttu | Kannada | — | YouTube | ✅ Transcript |
@@ -24,11 +29,11 @@
 | 11 | Kannada Barahada Padasamasye | Kannada | — | YouTube | ❌ Corrupted |
 | 12 | Kannada Bhasheya Kalpita Charitre | Kannada | — | YouTube | ✅ Transcript |
 | 13 | Dharege Doddavaru | Kannada | — | YouTube | ❌ Corrupted |
-| 14 | Nijakku Halegannada Vyakarana Entahadu | Kannada | 2005/2015 | PDF + DjVu | ✅ Full text |
+| 14 | Nijakku Halegannada Vyakarana Entahadu | Kannada | 2005/2015 | PDF + DjVu + Blog | ✅ Full text + 7 blog posts |
 | 15 | Inglish Kannada Padanerake | Kannada | — | Website | ❌ Not collected |
 | 16 | Samskruta Padagalige Kannadade Padagalu | Kannada | — | Website | ❌ Not collected |
 | 17 | Kannada Nudi Nadedu Banda Dari | Kannada | — | Website | ❌ Not collected |
-| 18 | Kannada Nudiya Bagege Chintane | Kannada | — | Website | ❌ Not collected |
+| 18 | Kannada Nudiya Bagege Chintane | Kannada | — | Website + Blog | ✅ 13 blog posts (Inukunota series) |
 | 19 | The Koraga Language | English | 1971 | PDF | ❌ Not extracted |
 | 20 | An Outline Grammar of Havyaka | English | 1971 | PDF + DjVu | ✅ Full text |
 | 21 | Pronouns (Oxford) | English | 2004 | PDF | ❌ Not extracted |
@@ -62,9 +67,23 @@
 
 - **ಭಾಷೆ / Language:** Kannada
 - **ವಿಶಯ / Topic:** Word-formation in Kannada using native Dravidian roots and affixes
-- **ಮೂಲ / Source:** YouTube transcript
-- **ಗುಣಮಟ್ಟ / Quality:** Good (519 lines)
+- **ಮೂಲ / Source:** YouTube transcript + dnshankarabhat.net blog (Wayback Machine)
+- **ಗುಣಮಟ್ಟ / Quality:** Good (519 lines transcript + **6,469 lines blog text**)
 - **ಕಡತ / Folder:** [02-kannadadalle-hosapadagalannu-kattuva-bage/](./02-kannadadalle-hosapadagalannu-kattuva-bage/)
+
+**Files in folder:**
+| File | Contents |
+|------|----------|
+| `02-...-youtube.md` | YouTube transcript |
+| `02-...-blog.md` | **15 blog posts** — *ಇಂಗ್ಲಿಶ್ ಪದಗಳಿಗೆ ಸಾಟಿಯಾಗಿ ಕನ್ನಡದಲ್ಲೇ ಹೊಸ ಪದಗಳನ್ನು ಕಟ್ಟುವ ಬಗೆ* series (parts 4–18) |
+
+**Blog series coverage:** Parts 4–18 collected (parts 1–3 not found in Wayback Machine)
+- Parts 4–5: ಎಸಕ ಪದಗಳಿಂದ / ಎಸಕವನ್ನು ಗುರುತಿಸುವ ಬಗೆ
+- Parts 6–7: ಒಟ್ಟುಗಳಿಲ್ಲದೆ ಎಸಕಪದ / ಹೆಸರು ಪದ → ಬೇರೆ ಹೆಸರು ಪದ
+- Parts 8–11: ಮುನ್ನೊಟ್ಟು series (*mun-*, *imba-*, *hotta-*, *allagaletya-* prefixes)
+- Parts 12–13: ಅಲ್ಲಗಳೆಯುವ (negation word-formation)
+- Parts 14–15: ಇಂಗ್ಲಿಶ್ ಜೋಡುಪದಗಳು (English compound words)
+- Parts 16–18: ಇಂಗ್ಲಿಶ್ ಹೆಸರುಗಳು / ಎಸಕ ಪದ / ಪರಿಚೆ ಪದ equivalents
 
 **Key Content:**
 - Over 50% of Kannada vocabulary = Sanskrit loanwords; 80% in scientific writing
@@ -241,9 +260,24 @@
 
 - **ಭಾಷೆ / Language:** Kannada
 - **ವಿಶಯ / Topic:** Reflections on Kannada's status, future, and the responsibilities of its speakers
-- **ಮೂಲ / Source:** dnshankarabhat.net (offline)
-- **ಗುಣಮಟ್ಟ / Quality:** ❌ Not yet collected
+- **ಮೂಲ / Source:** dnshankarabhat.net (Wayback Machine — blog posts)
+- **ಗುಣಮಟ್ಟ / Quality:** ✅ **13 blog posts collected** (883 lines, 206,239 bytes)
 - **ಕಡತ / Folder:** [18-kannada-nudiya-bagege-chintane/](./18-kannada-nudiya-bagege-chintane/)
+
+**Files in folder:**
+| File | Contents |
+|------|----------|
+| `18-...-blog.md` | **13 blog posts** — *ನುಡಿಯರಿಮೆಯ ಇಣುಕುನೋಟ* series (parts 1–3, 10, 14, 18, 20, 23, 27–29, 33, 35) |
+
+**Blog series:** *ನುಡಿಯರಿಮೆಯ ಇಣುಕುನೋಟ* ("A Glimpse into Linguistics") — a multi-part series of popular Kannada linguistics articles
+- **Part 1** — ಅರಿಮೆಯ ಪದಗಳಿಗೆ ಕನ್ನಡವೇ ಮೇಲು (Kannada terms are better for science concepts)
+- **Parts 2–3** — Early series covering writing systems and language basics
+- **Parts 10, 14** — Dravidian language family and historical phonology
+- **Parts 18, 20** — Language and society; speech vs. writing distinctions
+- **Parts 23, 27–29** — Kannada grammar from a native perspective
+- **Parts 33, 35** — Advanced linguistics topics
+
+**Missing parts:** 4–9, 11–13, 15–17, 19, 21–22, 24–26, 30–32, 34, 36+ (not archived in Wayback Machine or Cloudflare-blocked)
 
 ---
 
@@ -305,8 +339,8 @@
 - **ಪ್ರಕಾಶಕರು / Publisher:** Raveendra Pustakalaya, Sagar, Shimoga
 - **ಪುಟಗಳು / Pages:** 224
 - **ಬೆಲೆ / Price:** ₹200
-- **ಮೂಲ / Source:** [Internet Archive](https://archive.org/details/arn.nijakkuhaleganna0000dnsh) — PDF + DjVu OCR
-- **ಗುಣಮಟ್ಟ / Quality:** ✅ **Full text available** (11,791 lines book.md + 7,033 lines djvu.md)
+- **ಮೂಲ / Source:** [Internet Archive](https://archive.org/details/arn.nijakkuhaleganna0000dnsh) — PDF + DjVu OCR + dnshankarabhat.net blog
+- **ಗುಣಮಟ್ಟ / Quality:** ✅ **Full text available** (11,791 lines book.md + 7,033 lines djvu.md + **425 lines blog**)
 - **ಕಡತ / Folder:** [14-nijakku-halegannada-vyakarana-entahadu/](./14-nijakku-halegannada-vyakarana-entahadu/)
 
 **Files in folder:**
@@ -317,6 +351,11 @@
 | `14-...-en.md` | English analysis/summary |
 | `14-...-djvu.md` | DjVu OCR text (new — March 2026) |
 | `nijakku-...-claude-prompt.md` | Analysis prompt |
+| `14-...-blog.md` | **7 blog posts** — *ಶಬ್ದಮಣಿದರ್ಪಣದಲ್ಲಿ ತಳಮಟ್ಟದ ತಪ್ಪುಗಳು* series (May–June 2017) |
+
+**Blog series:** 7-part series *ಶಬ್ದಮಣಿದರ್ಪಣದಲ್ಲಿ ತಳಮಟ್ಟದ ತಪ್ಪುಗಳು* ("Fundamental Errors in Shabdamani Darpana")
+- Bhat's critical analysis of Kesiraja's 13th-century Old Kannada grammar
+- Argues that the medieval grammarians misapplied Sanskrit categories to Kannada data
 
 **Key Thesis:** The traditional description of Old Kannada grammar is mistaken because it applies Sanskrit grammatical categories. Bhat argues Old Kannada was structurally Dravidian from the beginning — the grammatical categories that scholars mistook for Sanskrit-derived were actually native Kannada patterns being described in Sanskrit meta-language.
 
@@ -468,17 +507,22 @@ These works are referenced in collected texts or found in the CDX sitemap but no
 
 ## Collection Statistics
 
-| Category | Count | Full Text | Partial | Not Collected |
-|----------|-------|-----------|---------|---------------|
-| Kannada popular books (collected) | 14 | 4 | 5 | 5 |
-| Kannada popular books (not collected) | 4 | 0 | 0 | 4 |
-| English academic monographs | 3 | 1 | 0 | 2 |
-| **Total** | **21** | **5** | **5** | **11** |
+| Category | Count | Full Text | Blog Content | Partial | Not Collected |
+|----------|-------|-----------|--------------|---------|---------------|
+| Kannada popular books (collected) | 14 | 4 | 3 | 4 | 3 |
+| Kannada popular books (not collected) | 4 | 0 | 0 | 0 | 4 |
+| English academic monographs | 3 | 1 | 0 | 0 | 2 |
+| **Total** | **21** | **5** | **3** | **4** | **9** |
 
 **Full text available (best quality):**
-- 08 — Kannadakke Mahaprana Yake Beda (102 pp, 2017)
-- 14 — Nijakku Halegannada Vyakarana Entahadu (224 pp, 2005/2015)
-- 20 — An Outline Grammar of Havyaka (151 pp, 1971)
+- 08 — Kannadakke Mahaprana Yake Beda (102 pp, 2017) — PDF + DjVu
+- 14 — Nijakku Halegannada Vyakarana Entahadu (224 pp, 2005/2015) — PDF + DjVu + **7 blog posts**
+- 20 — An Outline Grammar of Havyaka (151 pp, 1971) — DjVu
+
+**Blog content collected (from dnshankarabhat.net via Wayback Machine):**
+- 02 — Kannadalle Hosapadagalannu Kattuva Bage — 15 blog posts (6,469 lines, parts 4–18)
+- 14 — Nijakku Halegannada Vyakarana Entahadu — 7 blog posts (425 lines, Shabdamani series)
+- 18 — Kannada Nudiya Bagege Chintane — 13 blog posts (883 lines, Inukunota parts 1–3, 10, 14, 18, 20, 23, 27–29, 33, 35)
 
 ---
 
