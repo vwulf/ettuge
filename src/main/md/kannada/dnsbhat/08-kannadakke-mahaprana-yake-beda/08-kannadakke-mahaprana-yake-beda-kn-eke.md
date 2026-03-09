@@ -74,7 +74,7 @@ valli I barigegaLu toDakugaLAgive.
 
 sumAru eraDu sAvira varragaLaSpu hinde, kannaDakke
 barahavondannu aLavaDisuva samayadalli kannaDada
-tiLivigaru samsu tada mElidda mElarimeyindAgi kanna Da
+tiLivigaru samskrutada mElidda mElarimeyindAgi kanna Da
 barahakke bEDadiddarU samskxta i padagaLannu adaralliddam te
 kannaDa barahagaLalli baLasalu toDagiddaru. mundinavarU
 idannE munduvarisuttA bandiddu, ivattigU ade
@@ -87,7 +87,7 @@ kannaDada kantAgihapha kILarimeyannu nAvu “ivattu
 toreyabEkAgide. namma maTTige namma nADina
 nuDiyAgiruva kannaDavE bEre ellA nuDigaLigintalU
 mElina nuDiyAgirabEku, mattu hindi, ingliS‌, marATi
-modalAda bEre nuDigaLa hAge, samsu tavU ondu
+modalAda bEre nuDigaLa hAge, samskrutavU ondu
 horagina nuDiyaSTE AgirabEku. adara
 padagaLannu ingliS‌, “Endi modalAdavugaLinda paDeda
 padagaLa hAge eravalu padagaLendaSTE tiLiyabEku.
@@ -1904,7 +1904,7 @@ dilla. hAgAgi, avannu barahadalli baLasadiruvudE
 kannaDigara maTTige sariyAda mattu sulabavAda dAri.
 hAge mADidalli, I eravalu padagaLannu uliyuva
 hAgeyE bareyuva kAraNa, ivattina hAge, Sha, ya,
-mahAprANa modalAda barigegaLu. mUla samssu tada
+mahAprANa modalAda barigegaLu. mUla samskrutada
 yAva pa padagaLalli mattu yAva jAgadalli baruttave
 embudannu nenapinalli irisikoLLabEkAguvudilla.
 kannaDadalli e-E mattu o-O tereyuligaLa naDuve
@@ -2157,7 +2157,7 @@ oLLeyadu.
 
 
 sumAru eraDu sAvira vara gaLindalU intaha samskxtada
-eravalugaLannu samsthu tadalli ruva hAgeyE kannaDadalli
+eravalugaLannu samskrutadalli ruva hAgeyE kannaDadalli
 bareyalAguttide; aditi yAke Iga badalAyisalu
 horaDabEku emba kELvi kelavarinda mUDibandide.
 
@@ -2412,7 +2412,7 @@ koLLuvante mADalAgittu:
 tatsama tadbava tatsama tadbava
 
 rAkShasa rakkasa kShIra kIra
-samska ata sakkada jvira jara
+samskxta sakkada jvara jara
 addi addi dhhasi dasi
 adha aySna addika sthA sa tANa
 
