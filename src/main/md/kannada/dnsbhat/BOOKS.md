@@ -1,7 +1,7 @@
 # ಡಾ. ಡಿ. ಎನ್. ಶಂಕರ ಬಟ್ — ಹೊತ್ತಗೆಗಳ ಸೂಚಿ
 # Dr. D. N. Shankara Bhat — Complete Book Catalog
 
-**Last updated:** 2026-03-09 (revised with blog content collection)
+**Last updated:** 2026-03-10 (10 new PDFs from Google Drive; 3 new books discovered)
 **Scope:** All known DNS Bhat works, with emphasis on Kannada linguistics
 **Sources:** dnshankarabhat.net (CDX sitemap — 91 unique pages found), archive.org, Google Drive, YouTube transcripts, Google Books
 
@@ -9,6 +9,12 @@
 - **Book 02** — 15 parts of *ಇಂಗ್ಲಿಶ್ ನುಡಿ* series (parts 4–18) ✅
 - **Book 14** — 7 parts of *ಶಬ್ದಮಣಿದರ್ಪಣ* series ✅
 - **Book 18** — 13 parts of *ನುಡಿಯರಿಮೆಯ ಇಣುಕುನೋಟ* series (parts 1–3, 10, 14, 18, 20, 23, 27, 28, 29, 33, 35) ✅
+
+**PDF collection status (2026-03-10):** 10 new PDFs downloaded to Google Drive `DNS-Bhat/` folder:
+- **Books 03, 07(vol1+2), 17, 25** — Full PDFs now available (⚠️ old WX font encoding — text not directly usable, needs OCR/re-encoding)
+- **Books 27, 28, 29** — Three newly discovered books (full PDFs; ⚠️ old WX font encoding)
+- **Book 15** — Sample PDF (53 pages, pre-print prelims; partially readable)
+- Books 27–29 used old Ghostscript/PageMaker Kannada fonts — pdftotext output is garbled; awaiting Unicode-aware OCR
 
 ---
 
@@ -18,11 +24,11 @@
 |---|-------------|----------|------|-----------------|----------------|
 | 01 | Idu Kannadade Vyakarana | Kannada | 2021 | YouTube | ✅ Transcript |
 | 02 | Kannadalle Hosapadagalannu Kattuva Bage | Kannada | — | YouTube + Blog | ✅ Transcript + 15 blog posts |
-| 03 | Kannada Padagala Olarachane | Kannada | — | YouTube | ✅ Transcript |
+| 03 | Kannada Padagala Olarachane | Kannada | 2014 | YouTube + **PDF** | ✅ Transcript + ⚠️ PDF (WX font) |
 | 04 | Mathu Matthu Barahada Naduvina Gondala | Kannada | — | YouTube | ⚠️ Partial |
 | 05 | Mathina Olaguttu | Kannada | — | YouTube | ✅ Transcript |
 | 06 | Kalikenudi Matthu Nudikalike | Kannada | — | YouTube | ❌ Corrupted |
-| 07 | Kannadada Sollarime (7 vols) | Kannada | 2010–2019 | Website + YouTube | ⚠️ Partial |
+| 07 | Kannadada Sollarime (7 vols) | Kannada | 2010–2019 | Website + YouTube + **PDF vol1+2** | ⚠️ PDF (WX font) |
 | 08 | Kannadakke Mahaprana Yake Beda | Kannada | 2017 | PDF + DjVu | ✅ Full text |
 | 09 | Havyaka Kannada (popular) | Kannada | — | YouTube | ⚠️ Partial |
 | 10 | Kannada Nudiya Hinnadavali | Kannada | — | YouTube | ⚠️ Partial |
@@ -30,9 +36,9 @@
 | 12 | Kannada Bhasheya Kalpita Charitre | Kannada | — | YouTube | ✅ Transcript |
 | 13 | Dharege Doddavaru | Kannada | — | YouTube | ❌ Corrupted |
 | 14 | Nijakku Halegannada Vyakarana Entahadu | Kannada | 2005/2015 | PDF + DjVu + Blog | ✅ Full text + 7 blog posts |
-| 15 | Inglish Kannada Padanerake | Kannada | — | Website | ❌ Not collected |
+| 15 | Inglish Kannada Padanerake | Kannada | — | **PDF sample** (53p) | ⚠️ Sample only (pre-print prelims) |
 | 16 | Samskruta Padagalige Kannadade Padagalu | Kannada | — | Website | ❌ Not collected |
-| 17 | Kannada Nudi Nadedu Banda Dari | Kannada | — | Website | ❌ Not collected |
+| 17 | Kannada Nudi Nadedu Banda Dari | Kannada | 2014 | **PDF** | ⚠️ PDF (WX font, 405p) |
 | 18 | Kannada Nudiya Bagege Chintane | Kannada | — | Website + Blog | ✅ 13 blog posts (Inukunota series) |
 | 19 | The Koraga Language | English | 1971 | PDF | ❌ Not extracted |
 | 20 | An Outline Grammar of Havyaka | English | 1971 | PDF + DjVu | ✅ Full text |
@@ -40,8 +46,11 @@
 | 22 | Sound Change | English | 2001 | Google Books | ❌ Not extracted |
 | 23 | A Grammar of Manipuri | English/Kn | — | Website | ❌ Not collected |
 | 24 | Grammatical Relations | English | — | Website | ❌ Not collected |
-| 25 | Kannada Vakyagala Olarachane | Kannada | 2016/2019 | Website | ❌ Not collected |
+| 25 | Kannada Vakyagala Olarachane | Kannada | 2014 | **PDF** | ⚠️ PDF (WX font, 289p) |
 | 26 | ಉಲಿ-ಮಾರ್ಪಾಡಿನ-ಗೆರೆಗಳು (Sound Change Laws) | Kannada | 2024 | Website | ❌ Cloudflare blocked |
+| 27 | Baasheya Bagge *(ಭಾಷೆಯ ಬಗ್ಗೆ)* | Kannada | 1970/2010 | **PDF** (4th ed.) | ⚠️ PDF (WX font, 208p) — **NEW** |
+| 28 | Kannadakke Beku *(ಕನ್ನಡಕ್ಕೆ ಬೇಕು)* | Kannada | 2000/2013 | **PDF** (7th ed.) | ⚠️ PDF (WX font, 253p) — **NEW** |
+| 29 | Kannada Vyakarana Yaake Beku *(ಕನ್ನಡ ವ್ಯಾಕರಣ ಯಾಕೆ ಬೇಕು?)* | Kannada | 2009 | **PDF** | ⚠️ PDF (WX font, 260p) — **NEW** |
 
 ---
 
@@ -484,6 +493,59 @@
 
 ---
 
+## Section K — Newly Discovered Books (Google Drive, 2026-03-10)
+
+### 27 — ಭಾಷೆಯ ಬಗ್ಗೆ
+**Baasheya Bagge** *(About Language / What Do You Know About Language?)*
+
+- **ಭಾಷೆ / Language:** Kannada
+- **ಪ್ರಕಟಣೆ / Year:** 1970 (1st edition); 1998 (2nd rev.); 2002 (3rd expanded); 2010 (4th edition)
+- **ಪ್ರಕಾಶಕರು / Publisher:** Bhasha Prakashan, Heggodu, Sagara
+- **ಪುಟಗಳು / Pages:** 208
+- **ವಿಶಯ / Topic:** General introduction to linguistics — what language is, how it works, diversity of languages
+- **ಮೂಲ / Source:** PDF in Google Drive (`baasheyaBagge.pdf`) — 4th edition
+- **ಗುಣಮಟ್ಟ / Quality:** ⚠️ PDF extracted but old WX Kannada font — text garbled; awaiting OCR
+- **ಕಡತ / Folder:** [27-baasheya-bagge/](./27-baasheya-bagge/)
+
+**Full title:** *ಭಾಷೆಯ ಬಗ್ಗೆ ನೀವೇನು ಬಲ್ಲಿರಿ?* (Baasheya Bagege Niivenu Balliri?)
+**Significance:** Bhat's popular introduction to linguistics for Kannada-speaking general audiences. One of his earliest and most reprinted works (4 editions over 40 years). Covers language universals, the Dravidian family, and Kannada's place among world languages.
+
+---
+
+### 28 — ಕನ್ನಡಕ್ಕೆ ಬೇಕು
+**Kannadakke Beku** *(Kannada Needs Its Own Grammar)*
+
+- **ಭಾಷೆ / Language:** Kannada
+- **ಪ್ರಕಟಣೆ / Year:** 2000 (1st edition); 2013 (7th edition)
+- **ಪ್ರಕಾಶಕರು / Publisher:** © DNS Bhat (self-published)
+- **ಪುಟಗಳು / Pages:** 253
+- **ವಿಶಯ / Topic:** Advocacy for a Kannada-native grammar — critique of Sanskrit-based grammatical tradition
+- **ಮೂಲ / Source:** PDF in Google Drive (`kannadakkeBeku.pdf`) — 7th edition
+- **ಗುಣಮಟ್ಟ / Quality:** ⚠️ PDF extracted but old WX Kannada font — text garbled; awaiting OCR
+- **ಕಡತ / Folder:** [28-kannadakke-beku/](./28-kannadakke-beku/)
+
+**Full title:** *ಕನ್ನಡಕ್ಕೆ ಬೇಕು ಕನ್ನಡದ್ದೇ ವ್ಯಾಕರಣ* (Kannadakke Beku Kannadaddee Vyaakarana)
+**Significance:** Popular advocacy booklet that went to 7 editions — one of Bhat's most widely read works. Argues that Kannada needs its own grammar built from Kannada-internal structure (the position developed formally in the Sollarime series). Companion to Book 29.
+
+---
+
+### 29 — ಕನ್ನಡ ವ್ಯಾಕರಣ ಯಾಕೆ ಬೇಕು?
+**Kannada Vyakarana Yaake Beku** *(Why Do We Need Kannada Grammar?)*
+
+- **ಭಾಷೆ / Language:** Kannada
+- **ಪ್ರಕಟಣೆ / Year:** 2009 (1st edition)
+- **ಪ್ರಕಾಶಕರು / Publisher:** Bhasha Prakashan, Heggodu, Sagara
+- **ಪುಟಗಳು / Pages:** 260
+- **ವಿಶಯ / Topic:** Motivating case for studying Kannada grammar — who needs it, why, and how it should differ from Sanskrit grammar
+- **ಮೂಲ / Source:** PDF in Google Drive (`kannadavyakaranayaakebeku.pdf`) — written in *hosa baraha* (new script)
+- **ಗುಣಮಟ್ಟ / Quality:** ⚠️ PDF extracted but old WX Kannada font — text garbled; awaiting OCR
+- **ಕಡತ / Folder:** [29-kannada-vyakarana-yaake-beku/](./29-kannada-vyakarana-yaake-beku/)
+
+**Note:** This book is written in *hosa baraha* (Bhat's simplified Kannada orthography without mahapranas). PDF metadata confirms it.
+**Significance:** Companion to Book 28. Where Book 28 argues *what kind* of grammar Kannada needs, Book 29 argues *why* grammar matters at all — aimed at skeptical general readers. Together they form the popular-level introduction to the Sollarime project.
+
+---
+
 ## Section J — Other Known Works (Not Yet Collected)
 
 These works are referenced in collected texts or found in the CDX sitemap but not yet fully collected:
@@ -507,12 +569,15 @@ These works are referenced in collected texts or found in the CDX sitemap but no
 
 ## Collection Statistics
 
-| Category | Count | Full Text | Blog Content | Partial | Not Collected |
-|----------|-------|-----------|--------------|---------|---------------|
-| Kannada popular books (collected) | 14 | 4 | 3 | 4 | 3 |
-| Kannada popular books (not collected) | 4 | 0 | 0 | 0 | 4 |
-| English academic monographs | 3 | 1 | 0 | 0 | 2 |
-| **Total** | **21** | **5** | **3** | **4** | **9** |
+| Category | Count | Full Text | Blog Content | PDF (WX) | Partial | Not Collected |
+|----------|-------|-----------|--------------|----------|---------|---------------|
+| Kannada popular books (collected) | 17 | 4 | 3 | 8 | 4 | 1 |
+| Kannada popular books (not collected) | 1 | 0 | 0 | 0 | 0 | 1 |
+| English academic monographs | 3 | 1 | 0 | 0 | 0 | 2 |
+| **Newly discovered books (27–29)** | **3** | **0** | **0** | **3** | **0** | **0** |
+| **Total** | **24** | **5** | **3** | **11** | **4** | **3** |
+
+> ⚠️ **WX font PDFs** — Books extracted from old Ghostscript/PageMaker PDFs have garbled text due to non-Unicode Kannada font encoding. A Unicode-aware OCR pass (e.g. Tesseract with Kannada model) is needed to recover clean text.
 
 **Full text available (best quality):**
 - 08 — Kannadakke Mahaprana Yake Beda (102 pp, 2017) — PDF + DjVu
@@ -540,6 +605,16 @@ Location: `My Drive/Books/DNS-Bhat/`
 | `09-havyaka-outline-grammar-1971-djvu.txt` | 20 | DjVu OCR text |
 | `the-koraga-language.pdf` | 19 | PDF |
 | `DNS-Bhat-Pronouns-Oxford.pdf` | 21 | PDF |
+| `KannadaPadagalaOlarachane.pdf` | 03 | PDF (239p, 2014) — ⚠️ WX font |
+| `KannadaVakyagalaOlaracane.pdf` | 25 | PDF (289p, 2014) — ⚠️ WX font |
+| `kannada-nudi-nadedu-banda-dari.pdf` | 17 | PDF (405p, 2014) — ⚠️ WX font |
+| `sollarime-1.pdf` | 07 vol.1 | PDF (327p, 2010) — ⚠️ WX font |
+| `sollarime-2.pdf` | 07 vol.2 | PDF (301p, 2014) — ⚠️ WX font |
+| `sollarime_5_limited.pdf` | 07 vol.5 | PDF (30p sample, 2015) |
+| `baasheyaBagge.pdf` | **27** | PDF (208p, 4th ed. 2010) — ⚠️ WX font |
+| `kannadakkeBeku.pdf` | **28** | PDF (253p, 7th ed. 2013) — ⚠️ WX font |
+| `kannadavyakaranayaakebeku.pdf` | **29** | PDF (260p, 2009) — ⚠️ WX font |
+| `English-KannadaPadanerakeSample.pdf` | 15 | PDF sample/prelims (53p, 2015) |
 
 ---
 

@@ -5,6 +5,7 @@
 
 > ಮೂಲ ಪುಸ್ತಕದ ಸಂಪೂರ್ಣ ಪಠ್ಯ: [`nijakku-halegannada-vyakarana-entahadu-book.md`](./nijakku-halegannada-vyakarana-entahadu-book.md)
 > ಇಂಗ್ಲಿಶ್ ವಿಶ್ಲೇಷಣೆ: [`14-nijakku-halegannada-vyakarana-entahadu-en.md`](./14-nijakku-halegannada-vyakarana-entahadu-en.md)
+> Eke ರೋಮನೀಕರಣ: [`14-nijakku-halegannada-vyakarana-entahadu-kn-eke.md`](./14-nijakku-halegannada-vyakarana-entahadu-kn-eke.md)
 
 ---
 

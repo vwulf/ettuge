@@ -593,9 +593,27 @@ The final section situates the book within the broader project of Dravidian ling
 
 ---
 
-## Cross-References
+## File Index
 
-- [Kannada section index →](14-nijakku-halegannada-vyakarana-entahadu-kn.md)
-- [Raw book source →](nijakku-halegannada-vyakarana-entahadu-book.md)
-- [Author's website](http://dnshankarabhat.net/)
-- [Internet Archive source](https://archive.org/details/arn.nijakkuhaleganna0000dnsh)
+| File | Contents |
+|------|----------|
+| [`nijakku-...-book.md`](./nijakku-halegannada-vyakarana-entahadu-book.md) | Full Kannada book text (archive.org, 11,791 lines) |
+| [`14-...-kn.md`](./14-nijakku-halegannada-vyakarana-entahadu-kn.md) | Structured Kannada with TOC and section anchors |
+| [`14-...-kn-eke.md`](./14-nijakku-halegannada-vyakarana-entahadu-kn-eke.md) | Eke romanisation |
+| [`14-...-djvu.md`](./14-nijakku-halegannada-vyakarana-entahadu-djvu.md) | DjVu OCR text (alternative source) |
+| [`14-...-blog.md`](./14-nijakku-halegannada-vyakarana-entahadu-blog.md) | 7 blog posts — ಶಬ್ದಮಣಿದರ್ಪಣ critique series |
+| [`14-...-claude-prompt.md`](./14-nijakku-halegannada-vyakarana-entahadu-claude-prompt.md) | AI assistant prompt for Q&A about this book |
+| [Internet Archive](https://archive.org/details/arn.nijakkuhaleganna0000dnsh) | Original PDF + DjVu source |
+
+---
+
+## Cross-References to Other DNS Bhat Works
+
+| Related Book | Connection |
+|---|---|
+| [01 — Idu Kannadade Vyakarana](../01-idu-kannadade-vyakarana/) | The positive grammar that corrects the errors diagnosed here; synthesises Dravidian-first approach |
+| [07 — Kannada Barahada Sollarime](../07-kannadada-sollarime/) | The modern comprehensive grammar reform that Book 14 historically contextualises |
+| [08 — Kannadakke Mahaprana Yake Beda](../08-kannadakke-mahaprana-yake-beda/) | Historical argument: when/why Sanskrit letters entered Kannada writing |
+| [03 — Kannada Padagala Olarachane](../03-kannada-padagala-olarachane/) | Word structure / morphology — the Dravidian-correct framework Book 14 argues for |
+| [22 — Sound Change](../22-sound-change/) | Theoretical backbone: comparative method used to evaluate Old Kannada phonology |
+| [Blog series in this folder](./14-nijakku-halegannada-vyakarana-entahadu-blog.md) | 7-part companion blog posts specifically on Shabdamani Darpana errors |
