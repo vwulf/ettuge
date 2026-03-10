@@ -4,6 +4,7 @@
 **ಮಾಲಿಕೆ:** ಡಿ.ಎನ್.ಶಂಕರ ಭಟ್ ನುಡಿಯರಿಮೆ ಮಾಲಿಕೆ
 
 > ಇಂಗ್ಲಿಶ್ ವಿಶ್ಲೇಷಣೆ: [`02-kannadadalle-hosapadagalannu-kattuva-bage-en.md`](./02-kannadadalle-hosapadagalannu-kattuva-bage-en.md)
+> Eke rOmanIkaraNa: [`02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md`](./02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md)
 
 ---
 

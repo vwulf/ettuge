@@ -450,7 +450,7 @@
 - **Quality:** ❌ Not yet collected (snapshot at 2024-06-21 blocked)
 - **Folder:** [26-uli-marpadina-geregalu/](./26-uli-marpadina-geregalu/)
 
-**Why it matters:** Bhat's Kannada-language popularization of sound change theory — the companion to the English *Sound Change* textbook. Published in 2024, this is among his very last writings before his death.
+**Why it matters:** Bhat's Kannada-language popularization of sound change theory — the companion to the English *Sound Change* textbook. Published in 2024, one of his most recent writings.
 
 ---
 
@@ -645,7 +645,7 @@ Location: `My Drive/Books/DNS-Bhat/`
 
 ### Theme 6: Sound Change & Historical Phonology
 - **22** — Sound Change (primary textbook, English)
-- **26** — ಉಲಿ-ಮಾರ್ಪಾಡಿನ-ಗೆರೆಗಳು (Kannada, 2024 — last writings)
+- **26** — ಉಲಿ-ಮಾರ್ಪಾಡಿನ-ಗೆರೆಗಳು (Kannada, 2024)
 - **08** — Mahaprana Yake Beda (applied: aspiration merger in Kannada)
 - **14** — Nijakku Halegannada Vyakarana (historical: Old Kannada phonology)
 - **19** — The Koraga Language (comparative Dravidian phonology)
@@ -657,9 +657,9 @@ Location: `My Drive/Books/DNS-Bhat/`
 
 ---
 
-## About Dr. D. N. Shankara Bhat (1931–2024)
+## About Dr. D. N. Shankara Bhat
 
-D. N. Shankara Bhat was a towering figure in Indian linguistics. He combined
+D. N. Shankara Bhat is a towering figure in Indian linguistics, combining
 rigorous academic work with passionate language advocacy for Kannada.
 
 **Academic positions:** Deccan College (Poona), Trivandrum, Manipur, Leeds, Stanford, Antwerp, Max Planck Institute, La Trobe
