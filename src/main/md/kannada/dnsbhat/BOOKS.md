@@ -1,7 +1,7 @@
 # ಡಾ. ಡಿ. ಎನ್. ಶಂಕರ ಬಟ್ — ಹೊತ್ತಗೆಗಳ ಸೂಚಿ
 # Dr. D. N. Shankara Bhat — Complete Book Catalog
 
-**Last updated:** 2026-03-10 (10 new PDFs from Google Drive; 3 new books discovered)
+**Last updated:** 2026-03-10 (OCR complete for 8 books; WX→Unicode decoding done)
 **Scope:** All known DNS Bhat works, with emphasis on Kannada linguistics
 **Sources:** dnshankarabhat.net (CDX sitemap — 91 unique pages found), archive.org, Google Drive, YouTube transcripts, Google Books
 
@@ -10,11 +10,19 @@
 - **Book 14** — 7 parts of *ಶಬ್ದಮಣಿದರ್ಪಣ* series ✅
 - **Book 18** — 13 parts of *ನುಡಿಯರಿಮೆಯ ಇಣುಕುನೋಟ* series (parts 1–3, 10, 14, 18, 20, 23, 27, 28, 29, 33, 35) ✅
 
-**PDF collection status (2026-03-10):** 10 new PDFs downloaded to Google Drive `DNS-Bhat/` folder:
-- **Books 03, 07(vol1+2), 17, 25** — Full PDFs now available (⚠️ old WX font encoding — text not directly usable, needs OCR/re-encoding)
-- **Books 27, 28, 29** — Three newly discovered books (full PDFs; ⚠️ old WX font encoding)
-- **Book 15** — Sample PDF (53 pages, pre-print prelims; partially readable)
-- Books 27–29 used old Ghostscript/PageMaker Kannada fonts — pdftotext output is garbled; awaiting Unicode-aware OCR
+**Sarvam OCR status (2026-03-10):** 8 books OCR'd via Sarvam Vision API (`kn-IN`):
+- **Book 03** ✅ Clean Unicode Kannada (12,264 lines, 957 KB, 292k Kannada chars)
+- **Book 07 vol.1** ✅ WX-decoded (24,825 lines → 340k Kannada chars after decode)
+- **Book 07 vol.2** ✅ WX-decoded (15,300 lines → 369k Kannada chars after decode)
+- **Book 17** ✅ WX-decoded (22,230 lines → 287k Kannada chars after decode)
+- **Book 25** ✅ WX-decoded (14,409 lines → 319k Kannada chars after decode)
+- **Book 27** ✅ Clean Unicode Kannada (9,098 lines, 971 KB, 287k Kannada chars)
+- **Book 28** ✅ WX-decoded (12,789 lines → 304k Kannada chars after decode)
+- **Book 29** ✅ WX-decoded (10,039 lines → 304k Kannada chars after decode)
+
+**WX→Unicode decode:** Books 07, 17, 25, 28, 29 used old Nudi/KGP font encoding. Decoded with `wx_decode.py` (Nudi→Unicode lookup table, based on aravindavk/ascii2unicode). Total: 1.9M Kannada Unicode chars decoded across 6 files.
+
+**Book 15** — Sample PDF (53 pages, pre-print prelims; partially readable) — not OCR'd yet
 
 ---
 
