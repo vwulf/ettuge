@@ -1,5 +1,5 @@
 # DNS Bhat Ettuge Project — Recap
-*Last updated: 2026-03-12*
+*Last updated: 2026-03-13*
 
 ---
 
@@ -219,6 +219,23 @@ Created `en.md` + `kn-eke.md` + `claude-prompt.md` for all 5 remaining unprocess
 - `en.md` — English analysis with **10 word-formation pattern sections**: N+N compounding, verb-derived nouns (-ta/-ike/-uge/-me/-vu), agent nouns (-ga/-uga/-gAra), ಅರಿಮೆ domain names, ಮನೆ institutions, ಗಾಳಿ air-cluster, ಮಾಂಜುಗೆ therapy compounds, productive prefixes, and more
 - `claude-prompt.md` — Rich AI primer: 6-step word-generation decision tree, 11 domain-specific head-noun cluster tables, 100 curated entries by domain, common mistakes table (Sanskrit vs native), philosophical frame
 
+### Phase 8 — Cross-link Audit & Fixes; Book 15 kn-eke Restructure (2026-03-13)
+
+**Cross-link audit** — systematic review of all processed books revealed inconsistent cross-linking in `en.md` files:
+
+| Issue | Books affected | Fix applied |
+|-------|---------------|-------------|
+| `[ಕನ್ನಡ →]` links present but no `[Eke →]` links | 02, 08, 14 | Appended `\| [Eke →](kn-eke.md#anchor)` to every existing section link (43 + 33 + 61 links) |
+| No cross-links at all (bulk-processed books) | 07, 17, 25, 27, 28, 29 | Inserted `[ಕನ್ನಡ →](book.md) \| [Eke →](kn-eke.md#anchor)` after each chapter heading (60 total links across 6 files) |
+| Broken links to non-existent `kn.md` | 03 | Retargeted 9 links to `book.md` (bare) + added `[Eke →]` with correct kn-eke.md anchors; fixed footer reference |
+
+All `en.md` files now follow the Book 14 template: every chapter/section heading has a `[ಕನ್ನಡ →] | [Eke →]` cross-link pair on the line immediately below.
+
+**Book 15 kn-eke.md restructured** — original file mixed analytical pattern sections (N+N compounds, suffix tables, etc.) derived from `en.md` work with source-text romanisation. Restructured to be a proper romanisation of the source text:
+- Removed: analytical kaTTaNe pattern tables (those belong in `en.md`)
+- Retained: Eke romanisation of actual munnuDi (preface), irusarikegaLu (conventions), and all A–Az dictionary entries with usage examples
+- Title updated to `ingliS-kannaDa padanerake — Eke mUla` to make the source-text nature explicit
+
 ---
 
 ## Eke Romanisation System
@@ -370,7 +387,7 @@ dnsbhat/
 │   └── 14-...-claude-prompt.md       # ★ AI primer
 ├── 15-inglish-kannada-padanerake/
 │   ├── 15-...-book.md                # ★ Hybrid extraction (53p sample, A–Az)
-│   ├── 15-...-kn-eke.md              # ★ Eke romanisation (preface + patterns + entries)
+│   ├── 15-...-kn-eke.md              # ★ Eke romanisation of source text (munnuDi + conventions + A–Az entries)
 │   ├── 15-...-en.md                  # ★ English analysis (10 word-formation patterns)
 │   └── 15-...-claude-prompt.md       # ★ AI primer (decision tree, cluster tables, 100 entries)
 ├── 17-kannada-nudi-nadedu-banda-dari/

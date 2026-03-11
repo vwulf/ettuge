@@ -1,7 +1,7 @@
 # ಡಾ. ಡಿ. ಎನ್. ಶಂಕರ ಬಟ್ — ಹೊತ್ತಗೆಗಳ ಸೂಚಿ
 # Dr. D. N. Shankara Bhat — Complete Book Catalog
 
-**Last updated:** 2026-03-12 (Book 15 hybrid extraction + processing complete)
+**Last updated:** 2026-03-13 (cross-link audit complete; Book 15 kn-eke restructured)
 **Scope:** All known DNS Bhat works, with emphasis on Kannada linguistics
 **Sources:** dnshankarabhat.net (CDX sitemap — 91 unique pages found), archive.org, Google Drive, YouTube transcripts, Google Books
 
@@ -23,6 +23,8 @@
 **WX→Unicode decode:** Books 07, 17, 25, 28, 29 used old Nudi/KGP font encoding. Decoded with `wx_decode.py` (Nudi→Unicode lookup table, based on aravindavk/ascii2unicode). Total: 1.9M Kannada Unicode chars decoded across 6 files.
 
 **Book 15** — Sample PDF (53 pages, pre-print prelims; letter A only) — hybrid extracted (pdfminer ASCII + wx_decode) ✅ book.md, en.md, kn-eke.md, claude-prompt.md all created
+
+**Cross-linking status (2026-03-13):** All processed books now have per-section `[ಕನ್ನಡ →] | [Eke →]` links in their `en.md` files. Books 02, 08, 14 had `[ಕನ್ನಡ →]` only — `[Eke →]` links added. Books 07, 17, 25, 27, 28, 29 had no links — both added. Book 03 had broken links to a non-existent `kn.md` — retargeted to `book.md` + `[Eke →]` added.
 
 ---
 
@@ -316,7 +318,7 @@
 | File | Contents |
 |------|----------|
 | `15-...-book.md` | Hybrid-extracted text from 53-page sample (letter A only) |
-| `15-...-kn-eke.md` | ★ Eke romanisation (preface, conventions, pattern tables, ~100 A–Az entries) |
+| `15-...-kn-eke.md` | ★ Eke romanisation of source text — munnuDi (preface) + irusarikegaLu (conventions) + A–Az dictionary entries with usage |
 | `15-...-en.md` | ★ English analysis — 10 word-formation patterns documented |
 | `15-...-claude-prompt.md` | ★ AI primer — 6-step decision tree, 11 domain cluster tables, 100 curated entries |
 
