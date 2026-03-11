@@ -1,7 +1,7 @@
 # ಡಾ. ಡಿ. ಎನ್. ಶಂಕರ ಬಟ್ — ಹೊತ್ತಗೆಗಳ ಸೂಚಿ
 # Dr. D. N. Shankara Bhat — Complete Book Catalog
 
-**Last updated:** 2026-03-10 (OCR complete for 8 books; WX→Unicode decoding done)
+**Last updated:** 2026-03-12 (Book 15 hybrid extraction + processing complete)
 **Scope:** All known DNS Bhat works, with emphasis on Kannada linguistics
 **Sources:** dnshankarabhat.net (CDX sitemap — 91 unique pages found), archive.org, Google Drive, YouTube transcripts, Google Books
 
@@ -22,7 +22,7 @@
 
 **WX→Unicode decode:** Books 07, 17, 25, 28, 29 used old Nudi/KGP font encoding. Decoded with `wx_decode.py` (Nudi→Unicode lookup table, based on aravindavk/ascii2unicode). Total: 1.9M Kannada Unicode chars decoded across 6 files.
 
-**Book 15** — Sample PDF (53 pages, pre-print prelims; partially readable) — not OCR'd yet
+**Book 15** — Sample PDF (53 pages, pre-print prelims; letter A only) — hybrid extracted (pdfminer ASCII + wx_decode) ✅ book.md, en.md, kn-eke.md, claude-prompt.md all created
 
 ---
 
@@ -44,7 +44,7 @@
 | 12 | Kannada Bhasheya Kalpita Charitre | Kannada | — | YouTube | ✅ Transcript |
 | 13 | Dharege Doddavaru | Kannada | — | YouTube | ❌ Corrupted |
 | 14 | Nijakku Halegannada Vyakarana Entahadu | Kannada | 2005/2015 | PDF + DjVu + Blog | ✅ Full text + 7 blog posts |
-| 15 | Inglish Kannada Padanerake | Kannada | — | **PDF sample** (53p) | ⚠️ Sample only (pre-print prelims) |
+| 15 | Inglish Kannada Padanerake | Kannada | 2015 | **PDF sample** (53p) | ✅ Hybrid extracted (A–Az, 84k chars) + en/kn-eke/claude-prompt |
 | 16 | Samskruta Padagalige Kannadade Padagalu | Kannada | — | Website | ❌ Not collected |
 | 17 | Kannada Nudi Nadedu Banda Dari | Kannada | 2014 | **PDF** | ⚠️ PDF (WX font, 405p) |
 | 18 | Kannada Nudiya Bagege Chintane | Kannada | — | Website + Blog | ✅ 13 blog posts (Inukunota series) |
@@ -304,10 +304,34 @@
 **Inglish Kannada Padanerake** *(English-Kannada Word Correspondence)*
 
 - **ಭಾಷೆ / Language:** Kannada
+- **ಪ್ರಕಟಣೆ / Year:** 2015
+- **ಲೇಖಕರು / Authors:** D. N. Shankara Bhat, Y. Bharath Kumar, Vivek Shankar
+- **ಪುಟಗಳು / Pages:** 730+ (full book); 53-page sample (pre-print prelims, letter A)
 - **ವಿಶಯ / Topic:** English words and their native Kannada equivalents (without Sanskrit mediation)
-- **ಮೂಲ / Source:** dnshankarabhat.net (offline)
-- **ಗುಣಮಟ್ಟ / Quality:** ❌ Not yet collected
+- **ಮೂಲ / Source:** PDF sample (`English-KannadaPadanerakeSample.pdf`) — hybrid extraction (pdfminer + wx_decode)
+- **ಗುಣಮಟ್ಟ / Quality:** ⚠️ **Sample only** — covers A–Az (84,475 Kannada chars, 3,454 lines); full 730-page book not yet obtained
 - **ಕಡತ / Folder:** [15-inglish-kannada-padanerake/](./15-inglish-kannada-padanerake/)
+
+**Files in folder:**
+| File | Contents |
+|------|----------|
+| `15-...-book.md` | Hybrid-extracted text from 53-page sample (letter A only) |
+| `15-...-kn-eke.md` | ★ Eke romanisation (preface, conventions, pattern tables, ~100 A–Az entries) |
+| `15-...-en.md` | ★ English analysis — 10 word-formation patterns documented |
+| `15-...-claude-prompt.md` | ★ AI primer — 6-step decision tree, 11 domain cluster tables, 100 curated entries |
+
+**Part-of-speech abbreviations used:**
+- **ಹೆ** = ಹೆಸರುಪದ (noun)
+- **ಎ** = ಎಸಕಪದ (verb)
+- **ಪ** = ಪರಿಚೆಪದ (adjective/qualifier)
+
+**Key word-formation patterns documented (from A–Az sample):**
+- N+N ಜೋಡುಪದ compounds (ಅಭ್ಯಾಸ+ಮನೆ → ಅಭ್ಯಾಸಮನೆ)
+- Verb-derived nouns: *-ta, -ike, -uge, -me, -vu* suffixes
+- Agent nouns: *-ga, -uga, -gAra*
+- ಅರಿಮೆ discipline names (ಅಣ್ವರಿಮೆ = atomic science)
+- ಮನೆ institution names (ಅಡಿಗೆಮನೆ = kitchen)
+- ಗಾಳಿ air-cluster (ಅರ್ಭಟಗಾಳಿ = hurricane)
 
 ---
 
@@ -579,11 +603,14 @@ These works are referenced in collected texts or found in the CDX sitemap but no
 
 | Category | Count | Full Text | Blog Content | PDF (WX) | Partial | Not Collected |
 |----------|-------|-----------|--------------|----------|---------|---------------|
-| Kannada popular books (collected) | 17 | 4 | 3 | 8 | 4 | 1 |
+| Kannada popular books (collected) | 17 | 4 | 3 | 8 | 3 | 1 |
 | Kannada popular books (not collected) | 1 | 0 | 0 | 0 | 0 | 1 |
 | English academic monographs | 3 | 1 | 0 | 0 | 0 | 2 |
 | **Newly discovered books (27–29)** | **3** | **0** | **0** | **3** | **0** | **0** |
-| **Total** | **24** | **5** | **3** | **11** | **4** | **3** |
+| **Book 15 — hybrid extracted sample** | **1** | **0** | **0** | **0** | **1 (A only)** | **0** |
+| **Total** | **25** | **5** | **3** | **11** | **4** | **4** |
+
+> ℹ️ Book 15 counting: moved from "Partial" to its own row. 53-page sample (letter A) is hybrid-extracted and fully processed (en/kn-eke/claude-prompt). Full 730-page book not yet obtained.
 
 > ⚠️ **WX font PDFs** — Books extracted from old Ghostscript/PageMaker PDFs have garbled text due to non-Unicode Kannada font encoding. A Unicode-aware OCR pass (e.g. Tesseract with Kannada model) is needed to recover clean text.
 
