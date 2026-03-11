@@ -76,6 +76,9 @@ The book's central argument is that ordinary people hold many misconceptions abo
 
 ## Part One — The Nature of Language
 
+
+[ಕನ್ನಡ →](./27-baasheya-bagge-book.md) | [Eke →](./27-baasheya-bagge-kn-eke.md#11)
+
 ### 1.1 No language is superior or inferior
 
 We apply many value-laden adjectives to languages — "easy", "hard", "melodious", "harsh", "primitive", "developed" — but linguistics research shows none of these qualities are inherent properties of languages themselves. They are subjective reactions of listeners shaped by their upbringing. No language is objectively difficult or easy; difficulty is always relative to what the learner already knows. A Chinese speaker finds Chinese much easier than Kannada. Sanskrit has a notoriously complex grammar, but that complexity is in the grammatical description, not in the language as spoken by its native users. Attempts by linguists to rank languages by objective complexity have all failed. When one aspect (word structure) is simple, another (sentence structure) tends to be complex; overall, languages balance out. There is no linguistic hierarchy.
@@ -107,6 +110,9 @@ Number systems vary dramatically across the world's languages. Most use a base-1
 ---
 
 ## Part Two — Grammar and Learning
+
+
+[ಕನ್ನಡ →](./27-baasheya-bagge-book.md) | [Eke →](./27-baasheya-bagge-kn-eke.md#21)
 
 ### 2.1 The magic of first language acquisition
 
@@ -152,6 +158,9 @@ Even people who are literate in Kannada often read very little beyond necessity.
 
 ## Part Three — Speech and Writing
 
+
+[ಕನ್ನಡ →](./27-baasheya-bagge-book.md) | [Eke →](./27-baasheya-bagge-kn-eke.md#31)
+
 ### 3.1 A photograph of speech
 
 Writing is a "photograph" of speech — a way of capturing and transmitting spoken language visually. The essay introduces the spectrogram (a scientific instrument that creates a visual record of sound waves) as an illustration of what speech actually is physically. Bhat then traces the independent invention of writing in at least three ancient civilisations — Egypt, China, and the Maya — and explains the two main types of writing systems: logographic (one symbol per word, like Chinese characters) and phonographic (one symbol per sound unit, like the alphabet or the Kannada syllabary).
@@ -180,6 +189,9 @@ A summary essay distinguishing speech (ಮಾತು) from writing (ಬರಹ). S
 
 ## Part Four — The Nature of the Kannada Language
 
+
+[ಕನ್ನಡ →](./27-baasheya-bagge-book.md) | [Eke →](./27-baasheya-bagge-kn-eke.md#41)
+
 ### 4.1 The three faces of Kannada
 
 Kannada exists in at least three distinct forms: (a) the spoken colloquial dialect(s) of everyday life, which differ by region, caste, and generation; (b) the written formal standard (*grantha Kannada*), which is conservative and Sanskrit-influenced; and (c) the many regional and social dialects (Havyaka, Kodava, Gulla, Tulu-influenced coastal Kannada, Badaga, etc.). Bhat argues that all three "faces" are equally valid as linguistic systems. The prestige gap between written formal Kannada and spoken colloquial Kannada is a social product, not a linguistic fact.
@@ -207,6 +219,9 @@ How should Kannada develop vocabulary for science, technology, and modern life? 
 ---
 
 ## Part Five — Languages of the World
+
+
+[ಕನ್ನಡ →](./27-baasheya-bagge-book.md) | [Eke →](./27-baasheya-bagge-kn-eke.md#51)
 
 ### 5.1 Languages of India
 

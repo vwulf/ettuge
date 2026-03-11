@@ -43,6 +43,9 @@ The book is also a sustained demonstration of DNS Bhat's native Kannada grammati
 
 *(ಮುನ್ನೋಟ)*
 
+
+[ಕನ್ನಡ →](./17-kannada-nudi-nadedu-banda-dari-book.md) | [Eke →](./17-kannada-nudi-nadedu-banda-dari-kn-eke.md#munnOTa)
+
 ### 1.1 The Dravidian Family and South Dravidian
 
 The opening chapter situates Kannada within the Dravidian language family, which comprises approximately 26 languages spoken primarily across South and Central India. Dravidian languages are classified into three or four sub-groups: South Dravidian (ತೆಂಕುದ್ರಾವಿಡ), Central Dravidian, and North Dravidian. Kannada belongs to the South Dravidian sub-branch alongside Tamil, Malayalam, Kodagu, Tulu, Toda, Kota, Irula, Kurumba, and Badaga. The author explains how the reconstruction of Proto-Dravidian forms is possible through the comparative method: by identifying systematic correspondences among the modern Dravidian languages, linguists can posit the ancestral form from which all the modern forms descended.
@@ -60,6 +63,9 @@ The chapter concludes by stating the book's method: reconstruction of Proto-Drav
 ## Chapter 2 — Root Vowels
 
 *(ಬೇರಿನ ಸ್ವರಗಳು)*
+
+
+[ಕನ್ನಡ →](./17-kannada-nudi-nadedu-banda-dari-book.md) | [Eke →](./17-kannada-nudi-nadedu-banda-dari-kn-eke.md#bErina-svarugaLu)
 
 ### 2.1 The Proto-Dravidian Vowel System
 
@@ -83,6 +89,9 @@ The chapter also discusses the development of the low central vowel *a: Proto-Dr
 
 *(ಒಟ್ಟಿನ ಸ್ವರಗಳು)*
 
+
+[ಕನ್ನಡ →](./17-kannada-nudi-nadedu-banda-dari-book.md) | [Eke →](./17-kannada-nudi-nadedu-banda-dari-kn-eke.md#oTTina-svarugaLu)
+
 ### 3.1 The Proto-Dravidian Affix Vowel System
 
 Proto-Dravidian allowed only three vowels in suffix (affix) position: *a, *i, and *u. The mid vowels *e and *o did not occur in Proto-Dravidian suffixes. This constraint — which the author calls the "affix vowel restriction" — is important because the presence of *e or *o in a suffix in a modern Dravidian language is always the result of a later change, not inherited directly. Understanding this principle is a key to distinguishing archaic from innovative suffix forms across the Dravidian languages.
@@ -100,6 +109,9 @@ Additional changes include: the shortening of long affix vowels in certain envir
 ## Chapter 4 — Stops
 
 *(ತಡೆಯುಲಿಗಳು)*
+
+
+[ಕನ್ನಡ →](./17-kannada-nudi-nadedu-banda-dari-book.md) | [Eke →](./17-kannada-nudi-nadedu-banda-dari-kn-eke.md#taDeyuligaLu)
 
 ### 4.1 The Proto-Dravidian Stop System
 
@@ -123,6 +135,9 @@ The chapter concludes (4.5 ತಿರುಳು) by summarising how the phonemic v
 
 *(ಇತರ ವ್ಯಂಜನಗಳು)*
 
+
+[ಕನ್ನಡ →](./17-kannada-nudi-nadedu-banda-dari-book.md) | [Eke →](./17-kannada-nudi-nadedu-banda-dari-kn-eke.md#itara-vyaMjanagaLu)
+
 ### 5.1 The Nasal Consonants
 
 Proto-Dravidian had four nasal consonants: labial (m), dental (n), retroflex (ṇ), and palatal (ñ). Of these, ñ (the palatal nasal) lost its distinctive phonemic function in Kannada: in most Kannada varieties ñ merged with n. The labial m was stable. The dental n and retroflex ṇ were generally preserved, though in word-medial and final positions there were some environment-specific changes. The author documents these changes with comparative data from Tamil and Telugu, which in many cases preserve the original Proto-Dravidian nasals more faithfully, enabling reconstruction.
@@ -140,6 +155,9 @@ Proto-Dravidian had two glides — y (palatal) and v (labial). These were genera
 ## Chapter 6 — Internal Structure of Words
 
 *(ಪದಗಳ ಒಳರಚನೆ)*
+
+
+[ಕನ್ನಡ →](./17-kannada-nudi-nadedu-banda-dari-book.md) | [Eke →](./17-kannada-nudi-nadedu-banda-dari-kn-eke.md#padagaLa-oLaracane)
 
 ### 6.1 Three Root Types
 
@@ -159,6 +177,9 @@ Proto-Dravidian had a productive system of compounding — joining two words to 
 
 *(ಕ್ರಿಯಾಪದಗಳ ಒಳರಚನೆ)*
 
+
+[ಕನ್ನಡ →](./17-kannada-nudi-nadedu-banda-dari-book.md) | [Eke →](./17-kannada-nudi-nadedu-banda-dari-kn-eke.md#kriyA-padagaLa-oLaracane)
+
 ### 7.1 The Fundamental Verb Distinction: Aguvike and Maduvike
 
 The most important distinction in the Kannada verb system is not the transitive/intransitive (sakarmaka/akarmaka) distinction used in Sanskrit grammar, but rather the distinction between verbs describing processes that happen spontaneously (ಆಗುವಿಕೆ, Aguvike — "happenings") and verbs describing actions done intentionally by an agent (ಮಾಡುವಿಕೆ, mADuvike — "doings"). This distinction is fundamental in Proto-Dravidian and is preserved in Kannada. The author argues at length that applying the Sanskrit transitive/intransitive distinction to Kannada systematically misrepresents how Kannada verbal semantics and morphology work.
@@ -176,6 +197,9 @@ Comparing Old Kannada inscriptions with modern Kannada reveals systematic change
 ## Chapter 8 — Verb Forms
 
 *(ಕ್ರಿಯಾರೂಪಗಳು)*
+
+
+[ಕನ್ನಡ →](./17-kannada-nudi-nadedu-banda-dari-book.md) | [Eke →](./17-kannada-nudi-nadedu-banda-dari-kn-eke.md#kriyArUpagaLu)
 
 ### 8.1 The Structure of Verb Forms
 
@@ -195,6 +219,9 @@ Proto-Dravidian also had a negative suffix *-A (a long negative vowel) that nega
 
 *(ನಾಮಪದಗಳು)*
 
+
+[ಕನ್ನಡ →](./17-kannada-nudi-nadedu-banda-dari-book.md) | [Eke →](./17-kannada-nudi-nadedu-banda-dari-kn-eke.md#nAmapadagaLu)
+
 ### 9.1 Noun Formation
 
 Nouns in Kannada can be formed from all three root types: directly from noun-roots, from verb-roots by suffixation, and from qualifier-roots by direct use or suffixation. The chapter surveys noun-forming suffixes and traces which ones are inherited from Proto-Dravidian and which are innovations. Several Proto-Dravidian noun-forming suffixes are reconstructable: *-m (which gave -vu in Kannada), *-i, and various others. The suffixes visible in modern Kannada nouns are often reduced, merged, or reanalysed forms of these Proto-Dravidian originals.
@@ -213,6 +240,9 @@ Proto-Dravidian had a system of case suffixes: genitive, dative, accusative, loc
 
 *(ಆಡುಗ ಮತ್ತು ತೋರುಗ ಪದಗಳು)*
 
+
+[ಕನ್ನಡ →](./17-kannada-nudi-nadedu-banda-dari-book.md) | [Eke →](./17-kannada-nudi-nadedu-banda-dari-kn-eke.md#ADuga-mattu-tOruga-padagaLu)
+
 ### 10.1 Personal Pronouns
 
 Proto-Dravidian personal pronouns are reconstructable with reasonable confidence from comparison across Dravidian languages. The first person singular was *yān (I), which gave Kannada nānu (the initial *y- became n- through a sound change). The second person singular was *nīn (you), preserved in Kannada as nīnu. The third person forms were demonstrative in origin (see section 10.2). The first person plural showed the inclusive/exclusive distinction: *yām (exclusive we) and *nām (inclusive we). In inland Kannada and the literary standard these two have merged into a single form nāvu, erasing the inclusive/exclusive distinction that is typologically significant in Proto-Dravidian.
@@ -227,6 +257,9 @@ Proto-Dravidian had a three-way demonstrative system: proximate (near the speake
 
 *(ಗುಣಪದಗಳು)*
 
+
+[ಕನ್ನಡ →](./17-kannada-nudi-nadedu-banda-dari-book.md) | [Eke →](./17-kannada-nudi-nadedu-banda-dari-kn-eke.md#guNapadagaLu)
+
 ### 11.1 Two Types of Qualifier
 
 Kannada qualifiers (ಗುಣಪದ, guNapada) fall into two types with distinct historical origins. The first type — nominal qualifiers (ನಾಮ-ಗುಣಪದ, nAma-guNapada) — modifies nouns and expresses the stable properties of entities (colour, size, shape, quality). The second type — verbal qualifiers (ಕ್ರಿಯಾ-ಗುಣಪದ, kriyA-guNapada) — modifies verbs and expresses manner, degree, or circumstance of an action. This two-part distinction is grounded in Proto-Dravidian: both types can be traced to source forms in the ancestor language. A third functional type — imitative words (ಅಣಕಿಸುವ ಪದ) — also functions as a qualifier, expressing the manner of an action through phonetic iconicity (onomatopoeia and sound symbolism).
@@ -240,6 +273,9 @@ Qualifiers in Kannada can be derived from all three root types: from qualifier-r
 ## Chapter 12 — Sentence Structure
 
 *(ವಾಕ್ಯಗಳ ಒಳರಚನೆ)*
+
+
+[ಕನ್ನಡ →](./17-kannada-nudi-nadedu-banda-dari-book.md) | [Eke →](./17-kannada-nudi-nadedu-banda-dari-kn-eke.md#sthiti-vAkyagaLa-oLaracane)
 
 ### 12.1 Action Sentences and State Sentences
 

@@ -76,6 +76,9 @@ Volume 2 turns from words to sentences. Chapter 5 treats verb usage in depth: ho
 
 *(ಮುನ್ನೋಟ)*
 
+
+[ಕನ್ನಡ →](./07-kannadada-sollarime-vol1-book.md) | [Eke →](./07-kannadada-sollarime-kn-eke.md#munnOTa)
+
 ### 1.1 Grammar and Sollarime
 
 The chapter opens with a direct challenge to received Kannada grammar. The Sanskrit term *vyakarana*, Bhat argues, has become associated in the minds of Kannada learners with useless, tangled complexity — and this is no accident, because the rules in existing Kannada grammars are not Kannada rules but Sanskrit rules awkwardly adapted to Kannada data. Bhat replaces *vyakarana* with his own coinage *sollarime* (ಸೊಲ್ಲರಿಮೆ) — built from *sollu* (sentence/utterance) and *arime* (knowledge/understanding) — to signal both what grammar is really about (understanding the rules we all implicitly use when we speak or write) and what it should not be (an exercise in applying foreign categories). Grammar is not mysterious: every fluent Kannada speaker already knows hundreds of rules; they simply cannot articulate them. The book aims to make those unconscious rules explicit and accessible.
@@ -103,6 +106,9 @@ Sections 1.5–1.7 cover the phonological and orthographic details. Section 1.5 
 ## Chapter 2 — Word Structure: Nouns
 
 *(ಪದಗಳ ಇಟ್ಟಳ: ಹೆಸರುಪದಗಳು)*
+
+
+[ಕನ್ನಡ →](./07-kannadada-sollarime-vol1-book.md) | [Eke →](./07-kannadada-sollarime-kn-eke.md#hesarupada-iTTaLa)
 
 ### 2.1 Overview
 
@@ -148,6 +154,9 @@ Section 2.5 covers all three major types of Kannada compound words (ಜೋಡು
 
 *(ಪದಗಳ ಇಟ್ಟಳ: ಉಳಿದ ಪದಗಳು)*
 
+
+[ಕನ್ನಡ →](./07-kannadada-sollarime-vol1-book.md) | [Eke →](./07-kannadada-sollarime-kn-eke.md#uLida-pada-iTTaLa)
+
 ### 3.2 Verbs
 
 Chapter 3 opens with an overview noting that, unlike nouns, most primary Kannada verbs have no internal morphological structure — they are mono-morphemic roots. The chapter therefore focuses on derived and compound verbs. Section 3.2.1 covers verb-deriving suffixes:
@@ -181,6 +190,9 @@ Section 3.5 covers demonstrative words (ಆಡುಪದ, *ADupada* — words lik
 
 *(ಪದರೂಪಗಳ ಇಟ್ಟಳ)*
 
+
+[ಕನ್ನಡ →](./07-kannadada-sollarime-vol1-book.md) | [Eke →](./07-kannadada-sollarime-kn-eke.md#padarUpa-iTTaLa)
+
 ### 4.1 Sandhi in Inflection
 
 Chapter 4 is the systematic treatment of all inflectional forms — the *padarUpa* (ಪದರೂಪ, word-form) paradigms for verbs and nouns. Section 4.1 restates the three most important sandhi rules that apply throughout inflectional morphology: (1) deletion of final *-u*; (2) insertion of *-y-* before vowels; (3) deletion of *-a* before vowels. These three rules, applied in the right order, explain the majority of the surface phonological variation in Kannada inflectional forms.
@@ -207,6 +219,9 @@ Section 4.8 describes the inflectional paradigm of nouns. Kannada nouns inflect 
 
 *(ಎಸಕಪದಗಳ ಬಳಕೆ)*
 
+
+[ಕನ್ನಡ →](./07-kannadada-sollarime-vol1-book.md) | [Eke →](./07-kannadada-sollarime-kn-eke.md#esaka-baLake)
+
 ### 5.1 Overview of Verb Forms and Auxiliaries
 
 Chapter 5 opens Volume 2 by distinguishing two major categories of verbs in Kannada sentences: *tiruLesakapada* (ತಿರುಳೆಸಕಪದ, "main/central verb") and *neravesakapada* (ನೆರವೆಸಕಪದ, "auxiliary verb"). Main verbs carry the core predicate meaning of the sentence; auxiliary verbs (such as *iru* "be," *Agu* "become," *bahu du* "may," *bEku* "must," *bal* "know how to," *Ar* "unable to," *ol* "unwilling to") modify the meaning of the main verb in the dimensions of aspect and modality. The section notes important asymmetries between main verbs and auxiliaries in their form inventories: main verbs have the full 36-form paradigm, whereas most auxiliaries have a restricted subset of forms. The auxiliary *iru* is unique in having three tense distinctions (past, present, future) where most verbs have only two (past and non-past), giving it 42 forms in total. The section explains why *illa* "there is not / not" is analysed as a separate lexical item rather than as the negative form of *iru*, invoking both synchronic distributional evidence and diachronic Dravidian etymology (*iru* derives from Proto-Dravidian *\*ir-*, *illa* from *\*cil-*).
@@ -229,6 +244,9 @@ Section 5.3 analyses the three types of *temporal aspect* (ಹೊತ್ತಿನ
 
 *(ಪದಕಂತೆಗಳ ಇಟ್ಟಳ)*
 
+
+[ಕನ್ನಡ →](./07-kannadada-sollarime-vol1-book.md) | [Eke →](./07-kannadada-sollarime-kn-eke.md#padakante-iTTaLa)
+
 ### 6.1–6.3 Verb Arguments and Semantic Roles
 
 Chapter 6 examines the structure of noun phrases (ಪದಕಂತೆ, *padakante*) and their relationship to the verbs that select them. Section 6.1 introduces the concept of *pAngu* (ಪಾಂಗು, semantic participant/argument role): every verb in Kannada requires a specific set of participants to complete its meaning. The *mADuga* (ಮಾಡುಗ, agent — the entity that performs the action) and the *paDuvaga* (ಪಡುವಗ, patient — the entity that undergoes the action) are the two most basic roles, but Kannada verbs can require additional roles: recipient, location, source, goal, instrument. The chapter systematically maps the set of possible semantic roles and shows which case suffixes (inflectional endings) mark each role.
@@ -245,6 +263,9 @@ Sections 6.4–6.6 provide a detailed semantic analysis of each of Kannada's cas
 
 *(ಸುಳುಸೊಲ್ಲುಗಳ ರಚನೆ)*
 
+
+[ಕನ್ನಡ →](./07-kannadada-sollarime-vol1-book.md) | [Eke →](./07-kannadada-sollarime-kn-eke.md#suLusoLLu-racane)
+
 ### 7.1–7.3 Basic Sentence Patterns
 
 Chapter 7 turns from words and phrases to sentences. A Kannada *sulu sollu* (ಸುಳುಸೊಲ್ಲು, simple sentence) consists of a main verb and its required arguments. The basic canonical word order is SOV: Subject — Object — Verb, e.g., *rAju mane-ge hOda* "Raju went home." However, Bhat notes that this order is not rigid; Kannada allows significant word-order flexibility motivated by information structure (topic and focus), discussed in Chapter 8. Section 7.1 establishes the sentence-types distinguished by their main verb and its participant structure: intransitive sentences, transitive sentences, experiencer sentences, copular sentences (using the verb *iru* "to be/exist"), and equative sentences. Section 7.2 surveys the different sentence-final forms that correspond to different *illocutionary types*: declarative (*tiLivurUpa*), imperative/directive (*arikErUpa*), and interrogative (expressed by the question particle *-A* or *-E* or by question words). Section 7.3 examines the interaction between tense, negation, and sentence-final form.
@@ -258,6 +279,9 @@ Adjunct expressions — those that add information to a sentence without being r
 ## Chapter 8 — Complex Sentences
 
 *(ಅಡಕ ಮತ್ತು ಜೋಡು ಸೊಲ್ಲುಗಳು)*
+
+
+[ಕನ್ನಡ →](./07-kannadada-sollarime-vol1-book.md) | [Eke →](./07-kannadada-sollarime-kn-eke.md#aDaka-jODu-soLLu)
 
 ### 8.1 Compound Sentences
 
@@ -276,6 +300,9 @@ Section 8.3 examines how Kannada sentences express *information structure* — t
 ## Chapter 9 — Writing and Speech
 
 *(ಬರಹ ಮತ್ತು ಮಾತು)*
+
+
+[ಕನ್ನಡ →](./07-kannadada-sollarime-vol1-book.md) | [Eke →](./07-kannadada-sollarime-kn-eke.md#baraha-mAtu)
 
 Chapter 9 returns to and deepens the theoretical discussion of Chapter 1.3 on the differences between written and spoken Kannada. Bhat identifies several systematic dimensions along which written Kannada (ಕನ್ನಡ ಬರಹ) and spoken Kannada (ಕನ್ನಡ ಮಾತು) diverge. Written Kannada preserves older phonological distinctions (e.g., the retroflex lateral *-L-* and the distinction between some short and long vowel pairs) that have been neutralised or lost in many spoken dialects. Written Kannada uses longer and more complex sentences with heavier use of participial relative clauses and nominalised embedded clauses — constructions that are less frequent in spontaneous speech. Written Kannada has a much higher proportion of Sanskrit-derived vocabulary (tatsama forms) than spoken Kannada. The chapter argues that these differences do not mean written Kannada is superior — it is simply differently suited to the communicative purposes for which writing is used (permanence, distance, precision, formality). The chapter closes with a defence of orthographic reform (*hosa baraha*): if writing is to serve all Kannadigas, not just the educated elite, the orthographic system should be simplified to match modern phonology, and the unnecessary proliferation of letters that encode sounds long lost from spoken Kannada should be retired.
 

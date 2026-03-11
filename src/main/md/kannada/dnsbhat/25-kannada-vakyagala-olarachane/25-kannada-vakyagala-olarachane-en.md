@@ -43,6 +43,9 @@ The book covers ten substantive chapters (Chapters 2–10) plus an introductory 
 
 *(ಪೀಠಿಕೆ)*
 
+
+[ಕನ್ನಡ →](./25-kannada-vakyagala-olarachane-book.md) | [Eke →](./25-kannada-vakyagala-olarachane-kn-eke.md#pITike)
+
 ### 1.1 Speech Acts (ಮಾತಿನ ಕೆಲಸಗಳು)
 
 The chapter opens by noting that in daily life we use sentences to perform many different kinds of "speech acts" (ಮಾತಿನ ಕೆಲಸಗಳು, mAtina kasagas): informing others about known events, asking questions about unknown facts, requesting actions, expressing approval or disapproval, indicating possibility, and so on. The same event can be described through sentences performing each of these functions: *ರಾಜು ಪೇಟೆಗೆ ಹೋಗಿದ್ದಾನೆ* (Raju has gone to the market — declarative), *ರಾಜು ಪೇಟೆಗೆ ಹೋಗಿದ್ದಾನೋ?* (Has Raju gone to the market? — question), *ರಾಜು ಪೇಟೆಗೆ ಹೋಗಿರಬಹುದು* (Raju may have gone to the market — epistemic), and so on. The book focuses on declarative (informing) sentences as the basic form from which all other sentence types are derived through modifications, and chapters 2–9 analyse the structure of these declarative sentences.
@@ -60,6 +63,9 @@ The remaining sections of Chapter 1 provide an overview of the topics to be deve
 ## Chapter 2 — Internal Structure of Action Sentences
 
 *(ಕ್ರಿಯಾವಾಕ್ಯಗಳ ಒಳರಚನೆ)*
+
+
+[ಕನ್ನಡ →](./25-kannada-vakyagala-olarachane-book.md) | [Eke →](./25-kannada-vakyagala-olarachane-kn-eke.md#kriyAvAkyagaLa-oLaracane)
 
 ### 2.1 Introduction — Verb Forms and Constituents
 
@@ -79,6 +85,9 @@ A central classification divides events into ಆಗುವಿಕೆಗಳು (Agu
 
 *(ವಿಷಯವಾಕ್ಯಗಳ ಒಳರಚನೆ)*
 
+
+[ಕನ್ನಡ →](./25-kannada-vakyagala-olarachane-book.md) | [Eke →](./25-kannada-vakyagala-olarachane-kn-eke.md#viSayavAkyagaLa-oLaracane)
+
 ### 3.1–3.2 Overview and Existential Sentences
 
 Stative sentences (ವಿಷಯವಾಕ್ಯ) use the verb ಇರು to assert that some state of affairs exists at some place and time. The chapter begins by noting that ಇರು uniquely has three tense forms — ಇತ್ತು (past), ಇದೆ (present), ಇರುತ್ತದೆ (future) — which is one of the structural features distinguishing stative from action sentences. Section 3.2 examines existential sentences (ಇರುವಿಕೆಯ ವಾಕ್ಯಗಳು), where ಇರು asserts the existence of an object, person, or situation at a particular place or time.
@@ -97,6 +106,9 @@ Relational sentences express the relationship between an entity and one of its a
 
 *(ನಾಮಪದಗಳ ಕಂತೆಗಳು)*
 
+
+[ಕನ್ನಡ →](./25-kannada-vakyagala-olarachane-book.md) | [Eke →](./25-kannada-vakyagala-olarachane-kn-eke.md#nAmapada-kantegaLu)
+
 ### 4.1–4.2 Words vs. Phrases; Identifying vs. Describing
 
 Noun phrases (ನಾಮಪದಕಂತೆ, nAmapada kante) are syntactic groups larger than a single noun. The chapter distinguishes two basic functions that noun phrases serve in identifying participants: naming/identifying (ಹೆಸರಿಸುವುದು) and describing (ವರ್ಣಿಸುವುದು). These correspond to two broad types of noun phrase. Further distinctions are drawn between new vs. old information (how a participant is being introduced for the first time or referred back to) and known vs. unknown information.
@@ -114,6 +126,9 @@ The chapter summarises that nouns in sentences function either to identify parti
 ## Chapter 5 — Verb Forms
 
 *(ಕ್ರಿಯಾಪದಗಳ ಪದರೂಪಗಳು)*
+
+
+[ಕನ್ನಡ →](./25-kannada-vakyagala-olarachane-book.md) | [Eke →](./25-kannada-vakyagala-olarachane-kn-eke.md#kriyApada-padarUpagaLu)
 
 ### 5.1–5.2 Tense and Person/Gender/Number Suffixes
 
@@ -137,6 +152,9 @@ When clauses are joined within a complex sentence, the non-final verb appears in
 
 *(ಗುಣಪದಗಳ ಬಳಕೆ)*
 
+
+[ಕನ್ನಡ →](./25-kannada-vakyagala-olarachane-book.md) | [Eke →](./25-kannada-vakyagala-olarachane-kn-eke.md#guNapadagaLa-baLake)
+
 ### 6.1–6.2 Shared Properties of Qualifiers
 
 Chapter 6 examines how qualifiers/adverbs (ಗುಣಪದಗಳು) modify verbs and predicates. The chapter opens by surveying what qualifiers have in common: they can all appear in sentences expressing degree (*ಬಹಳ*, *ಸ್ವಲ್ಪ*), comparison (*ಇದಕ್ಕಿಂತ ದೊಡ್ಡ* — bigger than this), and exclamation (*ಎಷ್ಟು* — how! what!). The shared properties include their behaviour in degree constructions, comparative constructions, and exclamative constructions.
@@ -150,6 +168,9 @@ Despite these shared features, qualifiers divide into sub-classes based on sever
 ## Chapter 7 — Embedded Clauses
 
 *(ಒಳವಾಕ್ಯಗಳು)*
+
+
+[ಕನ್ನಡ →](./25-kannada-vakyagala-olarachane-book.md) | [Eke →](./25-kannada-vakyagala-olarachane-kn-eke.md#oLavAkyagaLu)
 
 ### 7.2–7.3 Quotative and Describing Embedded Clauses
 
@@ -165,6 +186,9 @@ The chapter details how embedded clauses function as modifiers within noun phras
 
 *(ವಾಕ್ಯಗಳ ಜೋಡಣೆ)*
 
+
+[ಕನ್ನಡ →](./25-kannada-vakyagala-olarachane-book.md) | [Eke →](./25-kannada-vakyagala-olarachane-kn-eke.md#vAkyagaLa-jODaNe)
+
 ### 8.1–8.2 Coordination vs. Subordination
 
 Chapter 8 addresses the coordination (ಜೋಡಣೆ) of two sentences into a single complex sentence. The chapter distinguishes coordination (two sentences combined at the same level) from embedding/subordination (one sentence inserted inside another). The main resources for coordination are: the conjunction ಮತ್ತು (and), the suffix ಊ (also/and) attached to a constituent, and the connective verb form (ಜೋಡಿಸುವ ರೂಪ) of one of the verbs. The chapter establishes important grammatical constraints on connective-form coordination: when the connective form is used, both events must typically be controlled by the same agent if they are volitional events. If one or both events are uncontrolled (ಆಗುವಿಕೆ), coordination by the connective form is freer.
@@ -178,6 +202,9 @@ Three logically distinct relationships between coordinated sentences are identif
 ## Chapter 9 — Focusing and Negation
 
 *(ಸಂಬಂಧಿಸುವುದು ಮತ್ತು ಅಲ್ಲಗಳೆಯುವುದು)*
+
+
+[ಕನ್ನಡ →](./25-kannada-vakyagala-olarachane-book.md) | [Eke →](./25-kannada-vakyagala-olarachane-kn-eke.md#sambandisuvudu-mattu-allagaLeyuvudu)
 
 ### 9.2 Focus Sentences (ಸಂಬಂಧಿಸುವ ವಾಕ್ಯಗಳು)
 
@@ -193,6 +220,9 @@ Negation in Kannada is expressed by the particle ಇಲ್ಲ (illa). To negate 
 
 *(ಮಾತಿನ ಕೆಲಸಗಳು)*
 
+
+[ಕನ್ನಡ →](./25-kannada-vakyagala-olarachane-book.md) | [Eke →](./25-kannada-vakyagala-olarachane-kn-eke.md#mAtina-kasagagaLu)
+
 ### 10.2–10.3 Performative Particles and Questions
 
 Non-declarative speech acts in Kannada are created by modifying the verb form of the underlying declarative sentence. Questions divide into two types: yes/no questions (ವಾಕ್ಯಕೇಳ್ವಿ, vAkyakeLvi), which ask whether the whole sentence is true, and constituent questions (ವಾಕ್ಯಾಂಗ ಕೇಳ್ವಿ, vAkyAnga keLvi), which ask about one specific constituent of the sentence. Yes/no questions are formed by adding ಓ, ಆ, or ಏ (dialect variants) at the end of the declarative sentence and/or by raising intonation at the end: *ರಘು ಇವತ್ತು ಜಾನಕಿಯ ಮನೆಗೆ ಹೋಗಿದ್ದನೋ?* (Did Raghu go to Janaki's house today?). Notably, intonation alone (without the suffix) is sufficient to convert a declarative into a yes/no question. Constituent questions replace the unknown constituent with an interrogative pronoun (ಯಾರು who, ಏನು what, ಯಾಕೆ why, ಎಲ್ಲಿ where, ಎಷ್ಟು how much, ಯಾವಾಗ when): *ರಾಜು ಹರಿಗೆ ಏನು ಕೊಟ್ಟ?* (What did Raju give Hari?).
@@ -206,6 +236,9 @@ Imperative/command sentences (ಕೆಲಸ ಮಾಡಿಸುವ ವಾಕ್ಯ
 ## Chapter 11 — Typological Features of Kannada
 
 *(ಕನ್ನಡದ ಕೆಲವು ವೈಶಿಷ್ಟ್ಯಗಳು)*
+
+
+[ಕನ್ನಡ →](./25-kannada-vakyagala-olarachane-book.md) | [Eke →](./25-kannada-vakyagala-olarachane-kn-eke.md#kannaDigaLa-keLavu-vaiSiSTyagaLu)
 
 ### 11.1–11.4 Kannada in Cross-Linguistic Perspective
 
