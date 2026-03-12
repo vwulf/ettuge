@@ -6,8 +6,8 @@ This directory contains topic-based derivatives of `self.md` and `self-1.md`, pe
 
 ## Structure
 
-- **`README.md`** — Project recap covering the three phases: cleanup → categorize → enrich+split.
-- **`index.md`** — Master navigation index listing all topic files with descriptions.
+- **`README.md`** — Master navigation index listing all topic files with descriptions (displayed automatically on GitHub).
+- **`project-recap.md`** — Project recap covering the four phases: cleanup → categorize → enrich+split → consolidate.
 - **`YYYY-MM-DD_topic.md`** — Individual topic files, all derived from `self.md`/`self-1.md` on 2026-02-25.
 
 ### Current Topic Files
@@ -39,7 +39,7 @@ This directory contains topic-based derivatives of `self.md` and `self-1.md`, pe
 2. **Naming convention:** `YYYY-MM-DD_topic-slug.md` — date reflects when the file was derived.
 3. **Cross-linking:** if a note fits multiple categories, it lives in the most specific file and cross-links to others using the `[→]` tag.
 4. **`miscellaneous.md`** is retired — all residual entries have been moved to the 16 topic files.
-5. **`index.md`** must be kept in sync whenever new topic files are added.
+5. **`README.md`** (the index) must be kept in sync whenever new topic files are added.
 
 ---
 
@@ -49,4 +49,4 @@ When deriving new files from updated `self.md`/`self-1.md` content:
 1. Use the date of derivation as the filename prefix (`YYYY-MM-DD`).
 2. Add a frontmatter block with `title`, `created`, and `source`.
 3. Group by primary subject domain.
-4. Add a row to the table in `index.md` and this `CLAUDE.md` table above.
+4. Add a row to the table in `README.md` and this `CLAUDE.md` table above.
