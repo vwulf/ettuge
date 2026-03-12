@@ -39,7 +39,7 @@ His central argument, developed over 50 years: **Kannada grammar must be built f
 
 ## The Catalogue: 29 Known Works
 
-The full registry is in [`BOOKS.md`](./BOOKS.md). Summary:
+The full registry is in [`README.md`](./README.md). Summary:
 
 | # | Short Title | Language | Key Topic | Text Status | Processed |
 |---|-------------|----------|-----------|-------------|-----------|
@@ -345,7 +345,7 @@ Books 16, 22, 23, 24, 26 — website stubs only.
 
 ```
 dnsbhat/
-├── BOOKS.md                          # Master catalogue — 29 books, annotated
+├── README.md                         # Master catalogue — 29 books, annotated
 ├── PROJECT-RECAP.md                  # This file
 ├── dns-bhat-analysis.md              # Early analysis document
 ├── kannada-content-landscape.md      # Content survey

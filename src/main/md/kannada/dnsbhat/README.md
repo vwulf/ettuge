@@ -26,6 +26,8 @@
 
 **Cross-linking status (2026-03-13):** All processed books now have per-section `[ಕನ್ನಡ →] | [Eke →]` links in their `en.md` files. Books 02, 08, 14 had `[ಕನ್ನಡ →]` only — `[Eke →]` links added. Books 07, 17, 25, 27, 28, 29 had no links — both added. Book 03 had broken links to a non-existent `kn.md` — retargeted to `book.md` + `[Eke →]` added.
 
+> For the full project arc — phases, pipeline, tools, pending work, and intellectual themes — see [PROJECT-RECAP.md](./PROJECT-RECAP.md).
+
 ---
 
 ## Quick Reference
