@@ -1,12 +1,12 @@
 ---
 title: Scala & Functional Programming
 created: 2026-02-25
-source: self.md (not in repository)
+source: personal notes (self.md, self-1.md)
 ---
 
 # Scala & Functional Programming
 
-> Derived from `self.md` · Created: 2026-02-25
+> Derived from personal notes · Created: 2026-02-25
 
 Collected links, notes, and code snippets on Scala 3, ZIO, Kyo, Haskell, Rust, functional effects, type theory, and related FP topics.
 
@@ -14,164 +14,244 @@ Collected links, notes, and code snippets on Scala 3, ZIO, Kyo, Haskell, Rust, f
 
 ## ZIO / Scala Effect Systems
 
-ZIO Actors
+**ZIO Actors (John De Goes tweet)**
+John De Goes's tweet introducing or discussing ZIO Actors — a library for building actor-based concurrent systems on top of ZIO's fiber runtime. Actors provide location-transparent message passing as an alternative to direct functional composition.
+**[→ scala-functional-programming]**
 https://twitter.com/jdegoes/status/1600917565625270272
 
-ZIO Telemetry
+**ZIO Telemetry**
+OpenTelemetry integration for ZIO applications: tracing, metrics, and logging emitted via the OpenTelemetry standard. ZIO Telemetry enables distributed tracing across fiber-based services without manual instrumentation plumbing.
+**[→ scala-functional-programming; infrastructure-devops]**
 https://github.com/zio/zio-telemetry
 
-ZIO NIO
+**ZIO NIO**
+Non-blocking I/O for ZIO built on Java NIO, providing purely functional wrappers for channels, selectors, and file operations. ZIO NIO allows building high-performance I/O pipelines that compose cleanly with other ZIO effects.
+**[→ scala-functional-programming; infrastructure-devops]**
 https://github.com/zio/zio-nio
 
-Alvin Alexander on LinkedIn: GitHub - zio/zio-direct: Direct-Style Programming for ZIO
-On Twitter I was asked a great question: What are the benefits of ZIO and FP?
+**Alvin Alexander: What Are the Benefits of ZIO and FP? — ZIO Direct**
+Alvin Alexander's LinkedIn post prompted by a Twitter question on ZIO/FP benefits, using ZIO Direct as the entry point. ZIO Direct enables direct-style (non-monadic) Scala code that desugars to proper ZIO effect composition, lowering the learning curve significantly.
+**[→ scala-functional-programming]**
 https://www.linkedin.com/posts/alvinalexander_github-ziozio-direct-direct-style-programming-activity-7247368581145923584-gS3l
 
-ZIO 2.x migration guide — zio.dev
+**ZIO 2.x Migration Guide — zio.dev**
+Official migration guide for upgrading from ZIO 1.x to ZIO 2.x: API changes, renamed combinators, the new ZIO Layer model, and the removal of Has type-class wiring. Essential reference for any production ZIO 1 codebase planning a version upgrade.
+**[→ scala-functional-programming]**
 https://zio.dev/guides/migrate/zio-2.x-migration-guide/
 
-ZIO Schema
+**ZIO Schema**
+ZIO Schema enables automatic derivation of serialization, validation, migration, and diffing logic from data type definitions, without runtime reflection. It is a core component of the Kyo AI project for JSON schema derivation from Scala case classes.
+**[→ scala-functional-programming; data-engineering]**
 https://zio.dev/zio-schema/
 
-Zymposium: ZIO 2.0 (John De Goes, Adam Fraser)
+**Zymposium: ZIO 2.0 (John De Goes, Adam Fraser)**
+In-depth technical presentation of ZIO 2.0 by its creators: the new fiber-based runtime, performance improvements, the Layer model replacing manual dependency injection, and API simplifications. Essential viewing for Scala engineers planning a ZIO 2 adoption.
+**[→ scala-functional-programming]**
 https://www.youtube.com/watch?v=6A1SA5Be9qw
 
-John De Goes — Reimagining Functional Type Classes
+**John De Goes — Reimagining Functional Type Classes**
+John De Goes's exploration of how to redesign functional type class hierarchies from scratch, addressing coherence, orphan instances, and deriving. A deep dive into the theoretical tensions and practical trade-offs of type class design in Scala.
+**[→ scala-functional-programming]**
 https://www.youtube.com/watch?v=oluPEFlXumw
 
-Scala + ZIO = Functional Scala (multiple playlist links)
-
-Streams in ZIO
+**Streams in ZIO (John De Goes tweet)**
+Tweet discussing ZIO Streams — the ZIO library's composable streaming abstraction built on fibers. ZIO Streams unify streaming and effect composition in a way that avoids the separate streaming monad transformer stacks required in other functional ecosystems.
+**[→ scala-functional-programming]**
 https://twitter.com/jdegoes/status/1565001020918034432
 
-The Effect Pattern — Michael Arnaldi
+**The Effect Pattern — Michael Arnaldi (effectful.co)**
+Michael Arnaldi's framework for thinking about effects in functional programming: the idea that effects represent descriptions of computations rather than executions, enabling compositional and testable programs. Arnaldi later developed the Effect TypeScript library based on these ideas.
+**[→ scala-functional-programming]**
 https://effectful.co
 
-Compositional resource management in Scala 3 with ZIO
+**Compositional Resource Management in Scala 3 with ZIO**
+Blog post by Pierre Ricadat on managing resources (database connections, file handles, HTTP clients) in a composable way using ZIO's scoped resources and ZLayer. Demonstrates how resource lifecycle integrates naturally with ZIO's effect composition.
+**[→ scala-functional-programming]**
 https://blog.pierre-ricadat.com/compositional-resource-management-in-scala-3-with-zio
+
+---
 
 ## Kyo Effect System
 
-Kyo — Scala 3 effect system (Flavio Brasil)
+**Kyo — Scala 3 Effect System (Flavio Brasil)**
+Kyo is a novel Scala 3 effect system by Flavio Brasil that encodes algebraic effects without monad transformers, using an intersection type approach for effect composition. Unlike ZIO's monadic stack, Kyo effects are composable through normal function calls, enabling direct-style code without desugaring steps.
+**[→ scala-functional-programming]**
 https://github.com/getkyo/kyo
 
-kyo-chatgpt example
+**kyo-chatgpt Example**
+A small application demonstrating Kyo effects integrated with OpenAI's ChatGPT API, showing how AI interactions compose with other effects (IO, error, concurrency) in a Kyo application. Predecessor to the kyo-ai project.
+**[→ scala-functional-programming; machine-learning-ai]**
 https://github.com/fwbrasil/kyo/tree/main/kyo-chatgpt
 
-Kyo: Crafting Scala's Futuristic Effects
+**Kyo: Crafting Scala's Futuristic Effects (YouTube)**
+Conference talk by Flavio Brasil introducing Kyo's intersection-type effect encoding, explaining why it avoids the monadic composition tax and how it achieves performance competitive with direct IO implementations.
+**[→ scala-functional-programming]**
 https://www.youtube.com/watch?v=cyGSLCXR4Bo
+
+---
 
 ## Safe Direct-Style Scala / Structured Concurrency
 
-Safe direct-style Scala: Ox 0.1.0 released (SoftwareMill)
+**Safe Direct-Style Scala: Ox 0.1.0 Released (SoftwareMill)**
+Ox is a SoftwareMill library for structured concurrency in Scala 3 using direct style — no monads, no futures, just blocking fibers with structured lifetime scopes. The 0.1.0 release announcement explains the design goals and how Ox compares to ZIO and cats-effect.
+**[→ scala-functional-programming]**
 https://softwaremill.com/ox-0-1-0-released-safe-direct-style-scala/
 
-Comparing Approaches to Structured Concurrency by James Ward and Adam Hearn (LambdaConf 2024)
+**Comparing Approaches to Structured Concurrency (LambdaConf 2024)**
+James Ward and Adam Hearn compare structured concurrency models across Scala (ZIO, cats-effect, Ox), Kotlin coroutines, and Go, examining how each handles cancellation, error propagation, and resource safety. Provides a vendor-neutral framework for evaluating concurrency abstractions.
+**[→ scala-functional-programming]**
 https://www.youtube.com/watch?v=g6dyLhAublQ
 
-EasyRacer LambdaConf 2024 (James Ward)
+**EasyRacer LambdaConf 2024 (James Ward)**
+EasyRacer is a benchmark comparing how different frameworks and languages implement ten concurrent racing scenarios — selecting the first successful result from parallel tasks. Used in the LambdaConf talk to objectively compare ZIO, cats-effect, Ox, Akka, and other approaches.
+**[→ scala-functional-programming]**
 https://jamesward.github.io/easyracer/
 
-Coroutines and effects (without.boats)
+**Coroutines and Effects (without.boats)**
+Withoutboats's essay examining the relationship between coroutines (as in Rust async/await) and algebraic effects, arguing that coroutines are a restricted form of effects that compile down to state machines. Essential context for understanding why Rust chose coroutines over a more general effect system.
+**[→ scala-functional-programming]**
 https://without.boats/blog/coroutines-and-effects/
+
+---
 
 ## Scala 3 Language Features & Patterns
 
-Scala HTMX web apps (Igal Tabachnik tweet, RockTheJVM)
+**Scala HTMX Web Apps (Igal Tabachnik, RockTheJVM)**
+Igal Tabachnik's Twitter discussion and RockTheJVM content on building server-side web applications in Scala using HTMX — a hypermedia-driven approach that eliminates the need for a JavaScript frontend framework while still delivering dynamic UI interactions.
+**[→ scala-functional-programming; infrastructure-devops]**
 https://twitter.com/igal_tabachnik
 
-Scala 3 — end markers, given instances, sealed traits
+**Scala 3 — End Markers, Given Instances, Sealed Traits (official docs)**
+Official Scala 3 reference documentation for language features introduced in Scala 3: end markers for large blocks, given/using for type class instances, and sealed trait exhaustivity checking. Core reading for any developer migrating from Scala 2 to Scala 3.
+**[→ scala-functional-programming]**
 https://docs.scala-lang.org/scala3/reference/
 
-Scala CLI
+**Scala CLI**
+Scala CLI is a modern command-line tool for running, compiling, testing, and packaging Scala code without a full SBT project setup. It enables single-file Scala scripts, inline dependencies, and rapid prototyping — significantly lowering the barrier for writing quick Scala utilities.
+**[→ scala-functional-programming]**
 https://scala-cli.virtuslab.org/
 
-sbt-assembly
+**sbt-assembly**
+SBT plugin for creating fat JARs (assembly JARs) by merging all dependencies into a single deployable artifact. Essential for deploying Scala applications to environments without Maven dependency resolution, including many data engineering and streaming platforms.
+**[→ scala-functional-programming; data-engineering]**
 https://github.com/sbt/sbt-assembly
 
-The Evolution of Effects (Haskell'23 keynote, Nicolas Wu)
+**The Evolution of Effects (Haskell'23 Keynote, Nicolas Wu)**
+Nicolas Wu's Haskell Symposium 2023 keynote tracing the evolution of effect systems from Haskell's IO monad through monad transformers, free monads, and algebraic effects — contextualizing where algebraic effect systems like Kyo fit in the intellectual history of functional programming.
+**[→ scala-functional-programming]**
 https://icfp23.sigplan.org/details/haskellsymp-2023/10/The-Evolution-of-Effects
 
-What is so unique about Unison? (Etienne Torreborre blog)
+**What Is So Unique About Unison? (Etienne Torreborre blog)**
+Torreborre — specs2 author — explains what makes the Unison programming language unusual: content-addressed code, no dependency hell, abilities (algebraic effects), and distributed computing built into the language semantics. A thoughtful comparison with Haskell and Scala.
+**[→ scala-functional-programming]**
 https://etorreborre.blog/
 
-Unison is crack for backend software engineers
-An laborious attempt at describing the value I see in Unison, specifically around packaging/deployment
+**Unison Is Crack for Backend Software Engineers (neander.tech)**
+A detailed personal account of why Unison's packaging and deployment model is uniquely compelling for backend engineers, eliminating dependency conflicts and enabling code to be deployed to the cloud as a first-class language operation rather than an infrastructure concern.
+**[→ scala-functional-programming; infrastructure-devops]**
 https://neander.tech/2024-07-31-unison-is-crack
 
-FUNARCH 2024 — Functional Architecture
-"Functional Software Architecture" refers to methods of construction and structure of large and long-lived software projects
+**FUNARCH 2024 — Functional Architecture**
+The Functional Software Architecture workshop at ICFP 2024, focused on methods for structuring large, long-lived software projects using functional programming principles. Covers DDD with FP, hexagonal architecture in FP, and effect system design for scalable codebases.
+**[→ scala-functional-programming]**
 https://functional-architecture.org/events/funarch-2024/
 
-KEYNOTE: FP Meets OS: The Case Of I/O by Vitaly Bragilevsky (LambdaConf 2024)
+**FP Meets OS: The Case of I/O — Vitaly Bragilevsky (LambdaConf 2024)**
+Keynote examining how functional programming abstractions map onto operating system I/O primitives: how the IO monad, fibers, and async effects relate to kernel system calls, epoll, and OS scheduling. Bridges FP abstraction theory with systems programming reality.
+**[→ scala-functional-programming; infrastructure-devops]**
 https://www.youtube.com/watch?v=ZGyIp8oalmE
 
-What does it mean that a language has an "effect system"?
+**What Does It Mean That a Language Has an "Effect System"? (langdev.stackexchange.com)**
+Stack Exchange language design discussion explaining effect systems to those unfamiliar with the concept: what effects are tracked, how the type system encodes them, and how effect systems compare to monadic I/O and algebraic effects in terms of expressivity and ergonomics.
+**[→ scala-functional-programming]**
 https://langdev.stackexchange.com/questions/3726/what-does-it-mean-that-a-language-has-an-effect-system
 
-Higher Order Company / HVM / Bend language
+**Higher Order Company / HVM / Bend Language**
+Higher Order Company's HVM (Higher-order Virtual Machine) is a parallel runtime based on interaction nets that can execute functional programs on many CPU cores or GPU threads without explicit parallelism annotations. Bend is the high-level language targeting HVM.
+**[→ scala-functional-programming; machine-learning-ai]**
 https://higherorderco.com/
+
+---
 
 ## Rust
 
-Rust design patterns (rust-unofficial.github.io)
+**Rust Design Patterns (rust-unofficial.github.io)**
+Community-maintained book of idiomatic Rust patterns: RAII guards, type state machines, builder pattern, newtype wrappers, and anti-patterns to avoid. Essential reference for writing Rust code that leverages the borrow checker's guarantees rather than fighting them.
+**[→ scala-functional-programming]**
 https://rust-unofficial.github.io/patterns/
 
-Rust cheat sheet
+**Rust Cheat Sheet**
+Quick-reference guide to Rust syntax: lifetimes, trait bounds, closures, iterators, pattern matching, and common standard library APIs. Useful as a desktop companion for developers who know Rust but need to recall specific syntax during coding sessions.
+**[→ scala-functional-programming]**
 https://upsuper.github.io/rust-cheatsheet/
 
-Type-level Programming in Rust (Will Crichton)
+**Type-Level Programming in Rust (Will Crichton)**
+Will Crichton's guide to expressing invariants and constraints in Rust's type system: phantom data, zero-sized types, associated types, and const generics for encoding state machines and API contracts at compile time rather than at runtime.
+**[→ scala-functional-programming]**
 https://willcrichton.net/rust-api-type-patterns/
 
-graydon2: Notes on Rust, mutable aliasing and formal verification
+**graydon2: Notes on Rust, Mutable Aliasing, and Formal Verification**
+Graydon Hoare's — Rust's original creator — blog on the relationship between Rust's aliasing rules and formal verification: how the borrow checker's guarantees enable both safe concurrency and machine-checkable correctness proofs.
+**[→ scala-functional-programming; mathematics-science]**
 https://graydon2.dreamwidth.org/
 
-Rust formal verification (xav.io)
+**Rust Formal Verification (xav.io)**
+Resource on formally verifying Rust programs using tools like Kani, Creusot, and Prusti — leveraging Rust's ownership model to make verification tractable. An active research area connecting Rust's type system to formal methods.
+**[→ scala-functional-programming; mathematics-science]**
 https://xav.io/
 
-100 Exercises To Learn Rust
+**100 Exercises To Learn Rust (rust-exercises.com)**
+Structured curriculum of 100 progressive Rust exercises, starting from basic types and ownership through iterators, traits, and error handling. Particularly effective because it provides a compiler-driven feedback loop — exercises only pass when the Rust code is correct.
+**[→ scala-functional-programming]**
 https://rust-exercises.com/02_basic_calculator/00_intro
 
-A Basic Calculator - 100 Exercises To Learn Rust
-rust-exercises.com
-https://rust-exercises.com/02_basic_calculator/00_intro
-
-Learning Rust (quinedot.github.io)
-https://quinedot.github.io/rust-learning/
-
-Rust Design Patterns PDF
-https://rust-unofficial.github.io/patterns/
-
-Rust Atomics and Locks by Mara Bos
-Low-level Concurrency in Practice
+**Rust Atomics and Locks — Mara Bos**
+Comprehensive book on low-level concurrent programming in Rust: memory ordering, atomic operations, spinlocks, mutexes, and condition variables implemented from first principles. Required reading for systems programmers building lock-free data structures in Rust.
+**[→ scala-functional-programming; infrastructure-devops]**
 https://marabos.nl/atomics/
 
-Implementing (parts of) git from scratch in Rust (Jon Gjengset, YouTube)
+**Implementing Git from Scratch in Rust (Jon Gjengset, YouTube)**
+Jon Gjengset's extended live-coding session implementing a significant portion of git in Rust, demonstrating how to apply Rust idioms to a real-world systems project: object storage, pack files, delta compression, and the ref system.
+**[→ scala-functional-programming; algorithms-data-structures]**
 https://www.youtube.com/watch?v=u0VotuGzD_w
 
-Golem's Rust transaction API (blog.vigoo.dev)
+**Golem's Rust Transaction API (blog.vigoo.dev)**
+Daniel Vigovszky's blog on building a transactional API in Rust for the Golem platform — a distributed computing runtime. Covers how Rust's ownership model interacts with distributed system guarantees and durable execution primitives.
+**[→ scala-functional-programming; infrastructure-devops]**
 https://blog.vigoo.dev/
 
-LogLog Games: Leaving Rust Gamedev
+**LogLog Games: Leaving Rust Gamedev**
+LogLog Games' post-mortem on choosing to leave Rust for game development: the cognitive overhead of the borrow checker in game entity system patterns, compile times, and the ergonomic friction of dynamic dispatch in performance-critical game loops. A balanced critique from practitioners.
+**[→ scala-functional-programming]**
 https://loglog.games/blog/leaving-rust-gamedev/
 
-Google hails move to Rust for huge drop in memory vulnerabilities
+**Google Hails Move to Rust for Drop in Memory Vulnerabilities**
+Google's report on the measurable security improvement from migrating Android and other components from C++ to Rust: memory safety vulnerabilities in migrated code dropped to near zero, validating Rust's ownership model as a practical security engineering tool.
+**[→ scala-functional-programming; infrastructure-devops]**
 https://www.yahoo.com/tech/google-hails-move-rust-huge-180100292.html
 
-Introducing Distill CLI: An efficient, Rust-powered tool for media summarization
-After a few code reviews from Rustaceans at Amazon and a bit of polishing, I'm ready to share the Distill CLI
+**Introducing Distill CLI — Rust-Powered Media Summarization (allthingsdistributed.com)**
+Werner Vogels (AWS CTO) introduces Distill CLI — an efficient Rust tool for summarizing media files using LLMs — with a code review story about learning Rust from Amazon Rustaceans. A pragmatic example of Rust adoption for performance-sensitive CLI tooling.
+**[→ scala-functional-programming; machine-learning-ai]**
 https://www.allthingsdistributed.com/2024/06/introducing-distill-cli.html
 
-Hands-on Data Structures and Algorithms With Rust — San Mateo County Libraries
+**Hands-On Data Structures and Algorithms With Rust (San Mateo County Libraries)**
+Library record for a book implementing classic data structures and algorithms in Rust: trees, graphs, sorting, and dynamic programming. Bridges algorithmic fundamentals with Rust-specific ownership patterns.
+**[→ scala-functional-programming; algorithms-data-structures]**
 https://smcl.bibliocommons.com/v2/record/S76C3254158
 
-Breaking out of the fold (Ethan Kent's dev blog)
-Addresses the problem: we sometimes want to break out of the iteration within fold, but it is not easy to do in many languages
+**Breaking Out of the Fold (Ethan Kent's Dev Blog)**
+Essay on the problem of early termination within fold/reduce operations in functional languages: the challenge of short-circuiting without exceptions, using techniques like returning early via Option, Either, or lazy evaluation. Examines how different languages handle this.
+**[→ scala-functional-programming]**
 https://ethankent.dev/posts/breaking_fold/
+
+---
 
 ## Rust LeetCode Solutions (Knight's Tour)
 
-Rust implementation of Check Valid Grid (Knight's Tour validation)
+**Rust: Check Valid Grid (Knight's Tour Validation)**
+Rust implementation of LeetCode's knight's tour grid validation problem, using fold for traversal and custom Move/Rc structs for position tracking. The optimized version eliminates the visited array by leveraging the grid's value sequence as implicit state.
+**[→ scala-functional-programming; algorithms-data-structures]**
 ```rust
 impl Solution {
     pub fn check_valid_grid(grid: Vec<Vec<i32>>) -> bool {
@@ -220,9 +300,16 @@ impl Solution {
 ```
 Runtime 710ms Beats 100.00%
 
+---
+
 ## Scala LeetCode Solutions
 
 ### Knight's Tour Validation (Scala)
+
+**Scala: Check Valid Grid — Version 1 and Version 2**
+Two Scala implementations of the knight's tour grid validation problem: Version 1 uses an explicit visited buffer (774ms, 50th percentile); Version 2 eliminates the visited set by relying on monotonically increasing step values in the grid (710ms, 100th percentile). The optimization illustrates how understanding problem constraints eliminates unnecessary bookkeeping.
+**[→ scala-functional-programming; algorithms-data-structures]**
+Submitted as "kodebale" at Sep 25, 2024
 
 Version 1 (with visited tracking, 774ms Beats 50%):
 ```scala
@@ -306,47 +393,64 @@ object Solution {
 }
 ```
 
-Submitted as "kodebale" at Sep 25, 2024
+---
 
 ## Haskell
 
-Euterpea — Music composition DSL in Haskell
+**Euterpea — Music Composition DSL in Haskell**
+Euterpea is a Haskell library for algorithmic music composition developed at Yale, built on Paul Hudak's work connecting functional programming and music theory. It provides abstractions for notes, chords, instruments, and musical transformations that compose like any other Haskell functions.
+**[→ scala-functional-programming]**
 https://www.haskell.org/euterpea/
 
-Unison programming language (Haskell / Stack)
+**Unison Programming Language (Haskell / Stack)**
+Unison is a programming language designed and implemented in Haskell using the Stack build tool. Its content-addressed code model, algebraic abilities (effects), and built-in distributed computing make it a unique laboratory for exploring what programming could look like with a clean slate.
+**[→ scala-functional-programming]**
 https://github.com/unisonweb/unison
 
-What is so unique about Unison? (etorreborre.blog)
-https://etorreborre.blog/
+---
 
 ## Nushell
 
-Writing shell scripts in Nushell (jpospisil.com)
+**Writing Shell Scripts in Nushell (jpospisil.com)**
+Tutorial on using Nushell's structured data model for scripting: how Nushell represents command output as tables rather than plain text, enabling pipelines that process data without awk/sed parsing. Demonstrates practical Nushell scripting patterns for common automation tasks.
+**[→ scala-functional-programming; infrastructure-devops]**
 https://jpospisil.com/2023/writing-shell-scripts-in-nushell
 
-Exploring Nushell (LogRocket)
+**Exploring Nushell (LogRocket)**
+LogRocket's introduction to Nushell for developers familiar with bash: the type system, plugin architecture, and how structured pipelines simplify operations like filtering JSON or processing CSV that require jq/awk in traditional shells.
+**[→ scala-functional-programming; infrastructure-devops]**
 https://blog.logrocket.com/exploring-nushell/
 
-In praise of Nushell (lars.yencken.org)
+**In Praise of Nushell (lars.yencken.org)**
+Personal essay arguing for Nushell as a superior shell for data-oriented scripting: the comparison to PowerShell's object pipelines, how structured data eliminates fragile text parsing, and why Nushell's learning curve is worth the investment.
+**[→ scala-functional-programming; infrastructure-devops]**
 https://lars.yencken.org/in-praise-of-nushell
 
-nushell ArchWiki
+**Nushell ArchWiki**
+Arch Linux wiki page on installing and configuring Nushell, including integration with system utilities, prompt configuration, and environment variable management. The ArchWiki is often the most concise and accurate reference for shell configuration details.
+**[→ scala-functional-programming; infrastructure-devops]**
 https://wiki.archlinux.org/title/Nushell
 
-Solene Nushell intro article (dataswamp.org)
+**Solene: Nushell Intro Article (dataswamp.org)**
+Solène Rapenne's introduction to Nushell from an OpenBSD/sysadmin perspective, focusing on practical day-to-day shell replacement use cases and how Nushell handles the POSIX compatibility trade-offs that prevent it from being a drop-in bash replacement.
+**[→ scala-functional-programming; infrastructure-devops]**
 https://dataswamp.org/~solene/
 
-Unleashing the Power of NuShell: Mastering CSV
-
-GitHub - casey/just: command runner
+**casey/just — Command Runner**
+`just` is a command runner (not a build tool) that provides a cleaner Makefile alternative for project-specific commands: no implicit dependencies, better error messages, and shell-agnostic syntax. Useful for documenting and standardizing developer workflows.
+**[→ scala-functional-programming; infrastructure-devops]**
 https://github.com/casey/just
 
-### Nushell command: parse alar.txt linkchecker output to JSON
+### Nushell Command: Parse alar.txt Linkchecker Output to JSON
+Nushell regex pipeline for parsing linkchecker output from the alar.ink Kannada dictionary tool into structured JSON — extracting URL, Name, Parent URL, and Real URL fields. Demonstrates Nushell's `parse -r` for regex-based structured extraction and `to json` for output.
+**[→ scala-functional-programming; kannada-language-linguistics; data-engineering]**
 ```nushell
 open alar.txt | parse -r '(((URL *\x60(?P<Url>[^\x27]*)\x27)\n)|((Name *\x60(?P<Name>.*)\x27)\n)|(Parent URL *(?P<Purl>(?P<phttp>[^,]*), line (?P<pline>[^,]*), col (?P<pcol>[^\n]*))\n)|((Real URL *(?P<Rurl>.*))\n)){4}' | select Url Name Rurl phttp pline pcol| to json | save -f "alar-url.txt"
 ```
 
-### Nushell Kannada character class variables (for alar.ink analysis)
+### Nushell Kannada Character Class Variables (for alar.ink Analysis)
+Nushell environment variable setup defining Kannada character class regex patterns for analyzing the alar.ink Kannada dictionary corpus — vowel blocks, consonant blocks, conjunct consonants — and grepping for words of specific syllable structures.
+**[→ scala-functional-programming; kannada-language-linguistics; data-engineering]**
 ```nushell
 $env.vowelfull = $env.vowel + $env.vowelend
 $env.consnooth = $env.cons + $env.consend
@@ -357,42 +461,66 @@ egrep $"\^($env.block){5}[್]?\$" alar-212-sorted-uniq-2.txt | save -f alar-5.t
 # Result: 21416 words of 5+ syllables
 ```
 
-## The life and times of an Abstract Syntax Tree
+---
 
-The life and times of an Abstract Syntax Tree (blog.trailofbits.com)
+## The Life and Times of an Abstract Syntax Tree
+
+**The Life and Times of an Abstract Syntax Tree (blog.trailofbits.com)**
+Trail of Bits' deep dive into how compilers and analysis tools represent and transform Abstract Syntax Trees: construction, traversal, transformation patterns, and the practical challenges of maintaining source location information through optimization passes.
+**[→ scala-functional-programming; algorithms-data-structures]**
 https://blog.trailofbits.com/
+
+---
 
 ## Logic / Formal Verification
 
-CPSC-298 Logic in Software Engineering (Lean) — HackMD
-Lean Co-pilot (Anima Anandkumar tweets)
-LeanDojo oral presentation NeurIPS 2023
+**CPSC-298: Logic in Software Engineering (Lean), LeanDojo, and Lean Copilot**
+Resources on using the Lean 4 theorem prover for formal verification in software engineering: course materials, LeanDojo's environment for training ML-based proof search, and Anima Anandkumar's Lean Copilot for LLM-assisted theorem proving.
+**[→ scala-functional-programming; mathematics-science; machine-learning-ai]**
 
-A pilot project in universal algebra to explore new ways to collaborate and use machine assistance? (Terry Tao blog)
-Traditionally, mathematics research projects are conducted by a small number of expert mathematicians. New approaches using machine assistance.
+**Terry Tao: Pilot Project in Universal Algebra with Machine Assistance**
+Terry Tao's blog post on a collaborative mathematics research project exploring universal algebra theorems with machine assistance, describing how crowd-sourced human expertise combined with automated verification tools can tackle problems too large for individual mathematicians.
+**[→ scala-functional-programming; mathematics-science]**
 https://terrytao.wordpress.com/2024/09/25/a-pilot-project-in-universal-algebra-to-explore-new-ways-to-collaborate-and-use-machine-assistance/
+
+---
 
 ## Concurrency / OS
 
-Rearchitecting core services at X (Mike, @cambridgemike)
+**Rearchitecting Core Services at X (Mike @cambridgemike)**
+Tweet thread by a senior X (Twitter) engineer on the architectural decisions involved in rebuilding core services at X: database choices, service decomposition, and the performance characteristics of their infrastructure at massive scale.
+**[→ scala-functional-programming; infrastructure-devops]**
 https://x.com/cambridgemike/status/1835774409786986572
 
-1: TinyURL + PasteBin — Systems Design Interview Questions With Ex-Google SWE
+**TinyURL + PasteBin — Systems Design Interview (YouTube)**
+Classic system design interview walkthrough for two foundational distributed systems: URL shortener (TinyURL) and text/code sharing (PasteBin). Covers distributed ID generation, sharding, caching, and CDN strategies applicable across many backend service designs.
+**[→ scala-functional-programming; algorithms-data-structures; infrastructure-devops]**
 https://youtu.be/5V6Lam8GZo4
 
-GitHub - Coder-World04/Complete-System-Design
+**GitHub: Coder-World04/Complete-System-Design**
+Comprehensive system design reference repository covering distributed systems patterns: consistent hashing, CAP theorem, load balancing, sharding strategies, and case studies of how real systems (Netflix, Uber, WhatsApp) implement them.
+**[→ scala-functional-programming; algorithms-data-structures; infrastructure-devops]**
 https://github.com/Coder-World04/Complete-System-Design
 
-GitHub - Coder-World04/Tech-Interview-Important-Topics-and-Techniques
-This repository contains everything you need to become tech interview ready with most important tips and techniques
+**GitHub: Coder-World04/Tech-Interview-Important-Topics**
+Repository covering the most important topics and techniques for technical interviews at top tech companies: data structures, algorithms, system design, behavioral patterns, and company-specific patterns at Google, Amazon, Meta, and similar firms.
+**[→ scala-functional-programming; algorithms-data-structures]**
 https://github.com/Coder-World04/Tech-Interview-Important-Topics-and-Techniques
 
-Neo Kim (@systemdesign42): I spent 5+ hours studying how Instagram scaled to 2.5 billion users
+**Neo Kim: How Instagram Scaled to 2.5 Billion Users (@systemdesign42)**
+Detailed Twitter thread from systemdesign42 covering Instagram's scaling journey: from single-server Django app to global multi-region infrastructure — database sharding, CDN, media storage, and the architectural pivots made at each order-of-magnitude growth stage.
+**[→ scala-functional-programming; infrastructure-devops]**
 https://x.com/systemdesign42/status/1800491019663970354
+
+---
 
 ## Java
 
 ### Dining Philosophers (LeetCode, Java)
+
+**Java: Dining Philosophers Solution**
+Classic synchronization problem implementation in Java using ReentrantLocks with a resource hierarchy to prevent deadlock: philosophers always acquire the lower-numbered fork first, breaking circular wait. Demonstrates Java concurrent locking primitives in a canonical CS problem.
+**[→ scala-functional-programming; algorithms-data-structures]**
 ```java
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
@@ -411,498 +539,620 @@ class DiningPhilosophers {
 ```
 https://leetcode.com/problems/the-dining-philosophers/
 
+---
+
 ## Algorithms & Interview Prep
 
-Algorithms by Jeff Erickson
+**Algorithms by Jeff Erickson**
+Jeff Erickson's (UIUC) comprehensive open textbook on algorithm design: sorting, searching, graph algorithms, dynamic programming, NP-completeness, and randomized algorithms. One of the most mathematically rigorous free algorithm textbooks available online.
+**[→ scala-functional-programming; algorithms-data-structures]**
 https://jeffe.cs.illinois.edu/teaching/algorithms/
 
-GitHub - ossu/computer-science: Path to a free self-taught education in Computer Science
+**GitHub: ossu/computer-science**
+Open Source Society University's structured path to a free, self-taught computer science education: curated MIT, Stanford, and other university course materials organized into a coherent CS degree curriculum covering math, algorithms, systems, and theory.
+**[→ scala-functional-programming; algorithms-data-structures]**
 https://github.com/ossu/computer-science
 
-Arpit Adlakha (@arpit20adlakha): One of the finest roadmaps for Senior Software Interviews (Uber L5A/L5B or Google L5/L6 levels)
+**Arpit Adlakha: Senior Software Interview Roadmap (@arpit20adlakha)**
+A detailed Twitter thread outlining the roadmap for clearing senior software engineer interviews at Uber L5A/L5B and Google L5/L6: algorithm patterns, system design topics, behavioral interview frameworks, and resource recommendations with approximate time investment.
+**[→ scala-functional-programming; algorithms-data-structures]**
 https://x.com/arpit20adlakha/status/1805084468870521100
 
-Ashish Pratap Singh (@ashishps_1): LeetCode was HARD until I Learned these 15 Patterns:
-1. Prefix Sum 2. Two Pointers 3. Sliding Window 4. Fast & Slow Pointers 5. LinkedList In-place Reversal 6. Monotonic Stack 7. Top 'K' Elements 8. Overlapping Intervals 9. Modified Binary Search 10. Binary Tree Traversal 11. ...
+**Ashish Pratap Singh: 15 LeetCode Patterns (@ashishps_1)**
+Twitter thread listing fifteen algorithmic patterns that cover the majority of LeetCode problems: Prefix Sum, Two Pointers, Sliding Window, Fast & Slow Pointers, In-place LinkedList Reversal, Monotonic Stack, Top K Elements, Overlapping Intervals, Modified Binary Search, and more. A structural framework for approaching unknown problems.
+**[→ scala-functional-programming; algorithms-data-structures]**
 https://x.com/ashishps_1/status/1814884401249198569
 
-Alex Xu tweet: Recommended materials for technical interview
+---
 
 ## Nix
 
-The Determinate Nix Installer · Zero to Nix
+**The Determinate Nix Installer — Zero to Nix**
+Zero to Nix's guide to the Determinate Systems Nix installer — a more reliable, multi-user Nix installation experience than the official installer. Zero to Nix provides the most beginner-friendly introduction to the Nix ecosystem and its reproducible build guarantees.
+**[→ scala-functional-programming; infrastructure-devops]**
 https://zero-to-nix.com/concepts/nix-installer
+
+---
 
 ## Miscellaneous Programming
 
-Edward Kmett: Ask yourself why B-trees exist and are provably optimal for so many applications
+**Edward Kmett: Why B-Trees Exist and Are Provably Optimal (@kmett)**
+Edward Kmett's tweet explaining the information-theoretic and cache-hierarchy reasons why B-trees are provably optimal for many applications — connecting the physical constraints of memory hierarchies to the mathematical analysis of tree branching factors.
+**[→ scala-functional-programming; algorithms-data-structures; mathematics-science]**
 https://x.com/kmett/status/1811904210021286014
 
-Erik Meijer (@headinthebox): Real life case of law of excluded middle
-A: Hallucination is Inevitable / Not-A: guarantees accuracy and eliminates hallucinations
+**Erik Meijer: Real Life Case of Law of Excluded Middle — Hallucination (@headinthebox)**
+Erik Meijer applies classical logic to the LLM hallucination debate: "Hallucination is Inevitable" vs "AI guarantees accuracy and eliminates hallucinations" — demonstrating how the law of excluded middle forces a choice between these incompatible propositions and what it implies about formal verification of AI systems.
+**[→ scala-functional-programming; machine-learning-ai; mathematics-science]**
 https://x.com/headinthebox/status/1801087634200199464
 
-Satnam Singh (@satnam6502): Erik Meijer tames AI with lambda calculus and big step semantics
+**Satnam Singh: Erik Meijer Tames AI with Lambda Calculus and Big-Step Semantics**
+Tweet referencing Erik Meijer's work applying lambda calculus and operational semantics to constrain and reason about AI model behavior. A perspective on formal methods as a framework for AI reliability rather than purely for traditional software.
+**[→ scala-functional-programming; machine-learning-ai; mathematics-science]**
 https://x.com/satnam6502/status/1817243947800129956
 
-Bounties | Algora — open source bounties on Scala
+**Bounties on Scala Open Source (algora.io)**
+Algora's bounty console for Scala open source projects: financial incentives for fixing issues, adding features, or improving documentation in the Scala ecosystem. Useful for both finding paid contribution opportunities and incentivizing work on projects you depend on.
+**[→ scala-functional-programming]**
 https://console.algora.io/bounties/t/scala
 
-Why, after 6 years, I'm over GraphQL (bessey.dev)
+**Why, After 6 Years, I'm Over GraphQL (bessey.dev)**
+A candid post-mortem from a long-time GraphQL practitioner explaining the accumulated frustrations: N+1 query problems at scale, authorization complexity, schema stitching nightmares, and the cases where REST and JSON:API would have been simpler. A useful counterweight to GraphQL evangelism.
+**[→ scala-functional-programming; data-engineering; infrastructure-devops]**
 https://bessey.dev/
 
-Mathematics in India (bhavana.org.in)
+**Mathematics in India (bhavana.org.in)**
+Bhavana journal's series on the history of mathematics in India: zero, the decimal system, infinite series, combinatorics, and the Āryabhaṭa tradition. Bridges Indian mathematical history with modern number theory and analysis.
+**[→ scala-functional-programming; mathematics-science; indian-history-culture]**
 https://bhavana.org.in/mathematics-in-india-6/
 
 ---
 
 ## From self-1.md (Oct 2024 – Feb 2026)
 
-**NammaYatri / Haskell open source**
-Haskell-based ride-sharing platform open sourced by Juspay, Oct 2024.
-juspay.io — https://nammayatri.in/
+**NammaYatri / Haskell Open Source**
+NammaYatri is a Bengaluru-based open-source ride-sharing platform built by Juspay entirely in Haskell, demonstrating that Haskell is viable for large-scale production systems beyond academia. Open-sourced in Oct 2024, it is one of the largest public Haskell codebases.
+**[→ scala-functional-programming; kannada-language-linguistics]**
+nammayatri.in — https://nammayatri.in/
 
-**Yoneda Perspective (YouTube)**
-Video lecture on the Yoneda lemma and its deep significance in category theory and functional programming.
-youtu.be — https://youtu.be/
+**Yoneda Perspective (YouTube Playlist)**
+Video lecture series on the Yoneda lemma — one of the most profound results in category theory — and its significance for functional programming: how it explains the naturality of `fmap`, the representability of functors, and the deep connection between data types and their transformations.
+**[→ scala-functional-programming; mathematics-science]**
+https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_
 
-**Graham Hutton publications**
-Research papers and books by Graham Hutton on functional programming.
+**Graham Hutton Publications**
+Research papers and books by Graham Hutton on functional programming: most famously "Programming in Haskell" and his work on fold/unfold as universal recursive operators. Hutton's publications are among the clearest formal treatments of functional programming principles.
+**[→ scala-functional-programming]**
 cs.nott.ac.uk — http://www.cs.nott.ac.uk/~pszgmh/
 
-**GitHub openai/lean-gym**
-OpenAI's Lean 4 environment for training theorem-proving agents.
+**GitHub: openai/lean-gym**
+OpenAI's Lean 4 reinforcement learning environment for training AI agents to generate and verify mathematical proofs. Lean-gym was a key infrastructure piece behind the AlphaProof and related neural theorem prover research directions.
+**[→ scala-functional-programming; mathematics-science; machine-learning-ai]**
 github.com — https://github.com/openai/lean-gym
 
-**leandojo.org**
-LeanDojo: open-source toolkit for machine learning on Lean proofs.
+**LeanDojo**
+LeanDojo is an open-source toolkit providing a Lean 4 proof environment, tactic state extraction, and dataset generation infrastructure for training machine learning models on formal mathematics. Used as the basis for multiple neural theorem prover research projects.
+**[→ scala-functional-programming; mathematics-science; machine-learning-ai]**
 leandojo.org — https://leandojo.org/
 
 **Fermat's Last Theorem in Lean**
-Formalisation project for Fermat's Last Theorem using Lean 4.
+Ongoing Lean 4 formalization project aiming to produce a machine-checkable proof of Fermat's Last Theorem — Andrew Wiles's 1994 proof — covering hundreds of pages of advanced number theory. A landmark in the computer formalization of modern mathematics.
+**[→ scala-functional-programming; mathematics-science]**
 leanprover-community.github.io — https://leanprover-community.github.io/
 
 **Domain Modelling Made Functional (Scott Wlaschin)**
-Book on applying DDD and F# functional patterns; referenced Dec 2024.
+Scott Wlaschin's book applying Domain-Driven Design to F# functional programming, using algebraic data types (discriminated unions) to make illegal states unrepresentable. The DDD/FP synthesis applies equally to Scala, Haskell, and other strongly typed functional languages.
+**[→ scala-functional-programming]**
 fsharpforfunandprofit.com — https://fsharpforfunandprofit.com/books/
 
-**Finger Trees paper (Hinze & Paterson)**
-Classic functional data structure paper — 2-3 finger trees for sequences.
+**Finger Trees Paper (Hinze & Paterson)**
+The classic 2006 paper introducing 2-3 finger trees — a purely functional sequence data structure with amortized O(1) operations at both ends and O(log n) splits and concatenations. Finger trees underlie many persistent sequence implementations in functional languages including Haskell's `Data.Sequence`.
+**[→ scala-functional-programming; algorithms-data-structures]**
 staff.city.ac.uk — http://staff.city.ac.uk/~ross/papers/FingerTree.html
 
-**RRB Trees**
-Relaxed Radix Balanced Trees — efficient persistent vector implementation.
+**RRB Trees — Relaxed Radix Balanced Trees**
+Phil Bagwell and Tiark Rompf's EPFL paper on Relaxed Radix Balanced Trees — the persistent vector data structure powering Scala's immutable Vector and Clojure's PersistentVector. RRB trees provide efficient O(log₃₂ n) operations and O(log n) concatenation for functional sequences.
+**[→ scala-functional-programming; algorithms-data-structures]**
 infoscience.epfl.ch — https://infoscience.epfl.ch/record/169879
 
 **Hylomorphisms**
-Recursion schemes combining anamorphisms and catamorphisms.
+A hylomorphism is a recursion scheme combining an anamorphism (unfold, building up a structure) with a catamorphism (fold, consuming the structure) — a pattern that naturally expresses divide-and-conquer algorithms. Mergesort is the canonical hylomorphism example.
+**[→ scala-functional-programming; algorithms-data-structures; mathematics-science]**
 blog.sumtypeofway.com — https://blog.sumtypeofway.com/posts/recursion-schemes-part-4-5.html
 
-**Recursion schemes intro (Sum Type of Way)**
-Practical introduction to recursion schemes in functional programming.
+**Recursion Schemes Intro (Sum Type of Way)**
+Patrick Thomson's approachable introduction to recursion schemes: cata (fold over structure), ana (unfold into structure), and para (fold with access to original subtrees). Demonstrates how to eliminate explicit recursion and express structural algorithms as pattern-matched scheme applications.
+**[→ scala-functional-programming]**
 blog.sumtypeofway.com — https://blog.sumtypeofway.com/posts/introduction-to-recursion-schemes.html
 
 **Catamorphisms (HaskellWiki)**
-Wiki page on catamorphisms and folds in Haskell.
+HaskellWiki's reference on catamorphisms — the generalization of fold to arbitrary algebraic data types defined as initial algebras of functors. Explains the F-algebra formulation and how GHC's `Data.Fix` and libraries like `recursion-schemes` express catamorphisms in practice.
+**[→ scala-functional-programming; mathematics-science]**
 wiki.haskell.org — https://wiki.haskell.org/Catamorphisms
 
-**"Oh, the morphisms you'll see!" (Patrick Thomson)**
-Survey of recursion schemes: hylo, chrono, zygo, histo, and more.
+**"Oh, the Morphisms You'll See!" (Patrick Thomson)**
+Patrick Thomson's survey of exotic recursion schemes beyond cata and ana: histomorphism (history), futumorphism (future), zygomorphism (co-recursion), chronomorphism, and their applications. Demonstrates that virtually any recursive algorithm corresponds to a named morphism in the scheme taxonomy.
+**[→ scala-functional-programming; mathematics-science]**
 blog.sumtypeofway.com — https://blog.sumtypeofway.com/posts/recursion-schemes-part-6.html
 
-**FP jargon**
-Plain-English definitions of functional programming terminology (monad, functor, etc.).
+**FP Jargon Glossary**
+Plain-English definitions of functional programming terminology: monad, functor, applicative, semigroup, monoid, natural transformation, free monad, and more. Useful onboarding reference for developers encountering FP abstractions for the first time in Scala or Haskell codebases.
+**[→ scala-functional-programming]**
 github.com — https://github.com/hemanth/functional-programming-jargon
 
-**Ralf Hinze publications**
-Academic papers on functional data structures and generic programming.
+**Ralf Hinze Publications**
+Academic papers by Ralf Hinze on functional data structures and generic programming: finger trees, generalized tries, and the `Data.Generics` approach to polytypic programming in Haskell. A core contributor to the theoretical foundations of functional data structures.
+**[→ scala-functional-programming; algorithms-data-structures]**
 cs.ox.ac.uk — https://www.cs.ox.ac.uk/ralf.hinze/
 
 **Constraints Liberate, Liberties Constrain (Runar Bjarnason)**
-Talk on how type constraints lead to composable, reusable code.
-youtube.com — https://www.youtube.com/watch?v=GqmsQeSzMdw
+Runar Bjarnason's influential talk arguing that more constrained types lead to more polymorphic, composable, and reusable functions — a counter-intuitive thesis that is central to the Haskell and Scala functional programming philosophy. The "parametricity" argument in accessible form.
+**[→ scala-functional-programming]**
+https://www.youtube.com/watch?v=GqmsQeSzMdw
 
 **Simple Made Easy (Rich Hickey)**
-Classic talk distinguishing simplicity from ease in software design.
-youtube.com — https://www.youtube.com/watch?v=LKtk3HCgTa8
+Rich Hickey's seminal talk distinguishing "simple" (not complex, not interleaved) from "easy" (near, familiar, easy to reach): arguing that programming culture's pursuit of ease over simplicity produces incidental complexity that compounds over time. One of the most cited talks in the software engineering community.
+**[→ scala-functional-programming]**
+https://www.youtube.com/watch?v=LKtk3HCgTa8
 
 **Haskell Notes for Professionals**
-Free Haskell reference book compiled from Stack Overflow.
+Free Haskell reference book compiled from Stack Overflow answers: type classes, monads, concurrency, Template Haskell, and common GHC extensions. A quick-reference companion to the Haskell Report for working Haskell programmers.
+**[→ scala-functional-programming]**
 goalkicker.com — https://goalkicker.com/HaskellBook/
 
 **SplinterDB**
-VMware's key-value store research project with novel B-tree design.
+VMware Research's high-performance key-value store with a novel B-tree variant (SplinterTree) designed to reduce write amplification in SSDs. Represents active research at the intersection of functional data structures, disk I/O optimization, and storage engine design.
+**[→ scala-functional-programming; algorithms-data-structures; data-engineering]**
 github.com — https://github.com/vmware/splinterdb
 
-**MoonBit language**
-New compiled functional language targeting WASM from MoonBit team.
+**MoonBit Language**
+MoonBit is a new statically-typed, functional-style programming language targeting WebAssembly (WASM) with an emphasis on performance, small binary size, and developer experience. Designed as a practical alternative to Rust for WASM compilation.
+**[→ scala-functional-programming]**
 moonbitlang.com — https://www.moonbitlang.com/
 
-**Mind-bending GPU language Bend**
-Bend: a high-level language that runs on GPUs using interaction nets.
+**Mind-Bending GPU Language — Bend**
+Bend is a high-level functional language by Higher Order Company that compiles to their HVM parallel runtime, executing on many CPU/GPU cores via interaction nets without explicit parallel annotations. Represents a novel approach to massively parallel functional programming.
+**[→ scala-functional-programming; machine-learning-ai]**
 github.com — https://github.com/HigherOrderCO/Bend
 
-**8 months of OCaml after Haskell (chshersh)**
-Personal retrospective on switching from Haskell to OCaml; Jan 2025.
+**8 Months of OCaml After Haskell (chshersh)**
+Dmitrii Kovanikov's retrospective on switching from Haskell to OCaml after 8 months: what OCaml does better (pragmatic tooling, type inference, effect handlers), what is worse (less expressive type classes, fewer category theory abstractions), and the culture differences between the two communities.
+**[→ scala-functional-programming]**
 chshersh.com — https://chshersh.com/blog/2023-12-16-ocaml-after-haskell.html
 
-**Static search trees — 40x faster than binary search**
-Blog post on cache-oblivious Eytzinger layout for search trees.
+**Static Search Trees — 40x Faster Than Binary Search (algorithmica.org)**
+Algorithmica's explanation of the cache-oblivious Eytzinger layout for static sorted arrays: by rearranging elements in BFS order, prefetching eliminates memory latency bottlenecks, achieving 40x throughput versus naive binary search on modern CPUs. A profound example of hardware-aware algorithm design.
+**[→ scala-functional-programming; algorithms-data-structures]**
 algorithmica.org — https://algorithmica.org/en/eytzinger
 
-**Unison docs — abilities (effects)**
-Unison language documentation on its algebraic effects system.
+**Unison Docs — Abilities (Effects)**
+Official Unison language documentation on "abilities" — Unison's name for algebraic effects. The abilities system is a core language feature that distinguishes Unison from Haskell/Scala effect libraries: effects are first-class types rather than library-level abstractions.
+**[→ scala-functional-programming]**
 unison-lang.org — https://www.unison-lang.org/learn/fundamentals/abilities/
 
-**Category Theory Catsters (YouTube)**
-Eugenia Cheng's category theory lecture series.
-youtube.com — https://www.youtube.com/user/TheCatsters
+**Category Theory Catsters (YouTube — Eugenia Cheng)**
+Eugenia Cheng's lecture series on category theory for mathematicians: functors, natural transformations, adjunctions, limits, colimits, and monoidal categories. One of the best video resources connecting pure category theory to the abstractions used in functional programming.
+**[→ scala-functional-programming; mathematics-science]**
+https://www.youtube.com/user/TheCatsters
 
-**Comonads are objects (Haskell)**
-Blog post connecting comonads to OOP-style objects.
+**Comonads Are Objects (haskellforall.com)**
+Gabriel Gonzalez's blog post demonstrating that comonads — the categorical dual of monads — are precisely what OOP calls "objects": they package state with behavior, offering a rigorous categorical foundation for object-oriented programming from a functional perspective.
+**[→ scala-functional-programming; mathematics-science]**
 haskellforall.com — https://www.haskellforall.com/2013/02/you-could-have-invented-comonads.html
 
 **WHNF (Weak Head Normal Form) — StackOverflow**
-Explanation of lazy evaluation and WHNF in Haskell.
+The authoritative Stack Overflow explanation of Haskell's lazy evaluation strategy: what Weak Head Normal Form means, how GHC's runtime evaluates expressions to WHNF, and why understanding WHNF is essential for reasoning about space leaks and forcing strategies in Haskell.
+**[→ scala-functional-programming]**
 stackoverflow.com — https://stackoverflow.com/questions/6872898/
 
-**Nobody Gets Fired for JSON (serialisation comparison)**
-Article comparing JSON vs Thrift/Protobuf/MessagePack for production systems.
-steveklabnik.com — https://steveklabnik.com/writing/nobody-gets-fired-for-json
+**Nobody Gets Fired for JSON — Serialisation Comparison (mcyoung.xyz)**
+Article comparing JSON with binary serialization formats (Protobuf, MessagePack, Thrift, CBOR) for production systems: parsing cost, schema evolution, human readability trade-offs, and the "nobody gets fired" cultural inertia that keeps JSON dominant despite its inefficiencies.
+**[→ scala-functional-programming; data-engineering]**
+mcyoung.xyz — https://mcyoung.xyz/2024/12/10/json-sucks/
 
 **Type Classes in Scala 3**
-Tutorial on Scala 3's given/using typeclass mechanism.
+Official Scala 3 documentation on implementing and using type classes via the `given`/`using` mechanism: defining instances, conditional derivation, and how the new implicit system improves on Scala 2's implicit evidence pattern.
+**[→ scala-functional-programming]**
 docs.scala-lang.org — https://docs.scala-lang.org/scala3/book/ca-type-classes.html
 
 **Recursion Schemes in Scala**
-Deep dive into catamorphisms and anamorphisms using Scala.
-medium.com — https://medium.com/
+Deep dive implementing catamorphisms and anamorphisms in Scala using the Matryoshka library: how to define Fix-point types, write algebra functions, and apply recursion schemes to JSON, AST, and custom data type traversals.
+**[→ scala-functional-programming]**
+medium.com — https://medium.com/@wiemzin/getting-started-with-recursion-schemes-using-matryoshka-f5b5ec01bb
 
-**Mill Scala build tool**
-Comparison of Mill vs SBT for Scala projects.
+**Mill Scala Build Tool**
+Mill is a build tool for Scala, Java, and other JVM languages that competes with SBT: faster incremental compilation, simpler build scripts using plain Scala objects, and a more intuitive task dependency model. Comparison article with SBT for choosing a build tool.
+**[→ scala-functional-programming]**
 mill-build.com — https://mill-build.com/
 
-**Type Class Derivation Scala 3**
-Scala 3 docs on automatic typeclass derivation with Mirror.
+**Type Class Derivation in Scala 3**
+Official Scala 3 documentation on automatic type class derivation using `Mirror`: how the compiler generates `derived` instances for Show, Eq, Codec, and custom type classes using compile-time generic programming without macro libraries.
+**[→ scala-functional-programming]**
 docs.scala-lang.org — https://docs.scala-lang.org/scala3/reference/contextual/derivation.html
 
-**Monad is Monoid in Category of Endofunctors**
-Explanation of the famous categorical characterisation of monads.
+**Monad is a Monoid in the Category of Endofunctors (StackOverflow)**
+The famous Stack Overflow thread explaining the categorical identity "a monad is a monoid in the category of endofunctors" — what it means precisely, why it is true, and how it connects Haskell monads to mathematical category theory. One of the most read mathematical explanations on Stack Overflow.
+**[→ scala-functional-programming; mathematics-science]**
 stackoverflow.com — https://stackoverflow.com/questions/3870088/
 
-**Kleisli — Typelevel docs**
-Cats library documentation on the Kleisli data type.
+**Kleisli — Typelevel Cats Docs**
+Cats library documentation on the Kleisli data type: a wrapper for functions `A => F[B]` that composes monadic functions sequentially. Kleisli is foundational for building modular, composable service layers in Scala where each step may fail or perform effects.
+**[→ scala-functional-programming]**
 typelevel.org — https://typelevel.org/cats/datatypes/kleisli.html
 
 **Y Combinator in Lambda Calculus**
-Derivation and explanation of the Y combinator for anonymous recursion.
+Derivation and explanation of the Y combinator — the fixed-point combinator that enables anonymous recursion in pure lambda calculus without named recursion. Essential to understanding the denotational semantics of recursive programs and their formalization.
+**[→ scala-functional-programming; mathematics-science]**
 blog.klipse.tech — https://blog.klipse.tech/lambda/2016/08/10/pure-functional-programming.html
 
-**Kyo getkyo.io**
-Kyo effect system for Scala 3 — official site and documentation.
+**Kyo getkyo.io — Official Site and Documentation**
+Official website and documentation for the Kyo effect system for Scala 3: API reference, getting started guides, and explanations of Kyo's intersection-type effect encoding. The primary reference for building applications with Kyo effects.
+**[→ scala-functional-programming]**
 getkyo.io — https://getkyo.io/
 
-**Algebraic Effects from Scratch — Kyo talk**
-Talk on implementing algebraic effects in Scala without monadic stacks.
-youtube.com — https://www.youtube.com/watch?v=qPvPdRbTF-E
+**Algebraic Effects from Scratch — Kyo Talk (YouTube)**
+Talk demonstrating how to implement algebraic effects in Scala 3 without relying on monad transformer stacks: the direct encoding via intersection types that underlies Kyo's approach. Explains why this produces better ergonomics than Free monad or MTL-style effect composition.
+**[→ scala-functional-programming]**
+https://www.youtube.com/watch?v=qPvPdRbTF-E
 
 **Data.Conduit.Combinators (Haskell)**
-Haskell streaming library Conduit combinators documentation.
+Haskell Conduit library's streaming combinators documentation: source, conduit, and sink combinators for building resource-safe streaming pipelines. Conduit's backpressure and resource safety guarantees made it a predecessor to similar ideas in ZIO Streams and fs2.
+**[→ scala-functional-programming]**
 hackage.haskell.org — https://hackage.haskell.org/package/conduit-extra
 
 **Bifunctors (Haskell/Scala)**
-Explanation of the Bifunctor typeclass and its uses.
+Explanation of the Bifunctor type class — types with two type parameters that can be independently mapped over. Common instances include Either and tuples; Bifunctor generalizes Functor to binary containers in a way useful for error-handling types and product types.
+**[→ scala-functional-programming]**
 hackage.haskell.org — https://hackage.haskell.org/package/base/docs/Data-Bifunctor.html
 
-**Turtle Haskell shell scripting**
-Haskell library for shell-script-style programming.
+**Turtle — Haskell Shell Scripting Library**
+Turtle is a Haskell library for writing shell scripts in Haskell: file operations, process execution, and pipeline composition using Haskell's type system. An alternative to Nushell for those who prefer Haskell as their scripting language.
+**[→ scala-functional-programming; infrastructure-devops]**
 hackage.haskell.org — https://hackage.haskell.org/package/turtle
 
-**FP with TypeScript playlist**
-Video series on functional programming patterns using TypeScript.
-youtube.com — https://www.youtube.com/
+**FP with TypeScript Playlist (YouTube)**
+Video series on applying functional programming patterns in TypeScript: Option, Either, Task, IO monad, and the fp-ts library. Useful for developers wanting to apply Haskell/Scala FP ideas in the TypeScript ecosystem.
+**[→ scala-functional-programming]**
+youtube.com — https://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo
 
-**Haskell Dijkstra (generalized)**
-Implementing Dijkstra's shortest path in Haskell idiomatically.
-stackoverflow.com — https://stackoverflow.com/questions/
+**Haskell Dijkstra (Generalized)**
+Stack Overflow discussion of implementing Dijkstra's shortest path algorithm idiomatically in Haskell: priority queue selection, mutable vs immutable approaches, and the trade-offs between functional purity and the imperative efficiency of the original algorithm.
+**[→ scala-functional-programming; algorithms-data-structures]**
+stackoverflow.com
 
-**Haskell tail recursion and deforestation**
-Article on tail recursion optimization and stream fusion in Haskell.
-debasishg.blogspot.com — https://debasishg.blogspot.com/
+**Haskell Tail Recursion and Deforestation**
+Article on tail recursion optimization and stream fusion (deforestation) in Haskell: how GHC's `foldr`/`build` fusion eliminates intermediate list allocations in producer-consumer pipelines, and when tail recursion is and is not automatically optimized.
+**[→ scala-functional-programming; algorithms-data-structures]**
+debasishg.blogspot.com — http://debasishg.blogspot.com/2009/01/to-tail-recurse-or-not-part-2-follow-up.html
 
-**Lambda calculus blog (klipse)**
-Introduction to untyped lambda calculus and reduction rules.
+**Lambda Calculus Blog (klipse)**
+Introduction to untyped lambda calculus, alpha-equivalence, beta-reduction, and Church encodings for numbers and booleans, with live in-browser evaluation. A hands-on route into the theoretical foundation of all functional programming languages.
+**[→ scala-functional-programming; mathematics-science]**
 blog.klipse.tech — https://blog.klipse.tech/lambda/
 
-**Haskell arrows**
-Introduction to Haskell arrows as a generalisation of monads.
+**Haskell Arrows**
+Haskell arrows are a generalization of monads for computation with static structure (arrows can be analyzed without executing them), enabling efficient compilation and static analysis. Arrows underlie Haskell's `proc` notation for arrow-style programming.
+**[→ scala-functional-programming]**
 haskell.org — https://www.haskell.org/arrows/
 
-**Haskell unfold / anamorphism**
-Building lists and trees from seeds using unfold / ana.
+**Haskell Unfold / Anamorphism (Data.List.unfoldr)**
+Documentation and tutorial on `Data.List.unfoldr` — the Haskell unfold operator — and its generalization as an anamorphism: building potentially infinite data structures from a seed value using a step function. The dual of fold/catamorphism.
+**[→ scala-functional-programming]**
 hackage.haskell.org — https://hackage.haskell.org/package/base/docs/Data-List.html#v:unfoldr
 
-**Most Influential CS Papers**
-Curated list of landmark computer science research papers.
+**Most Influential CS Papers — Papers We Love**
+The Papers We Love repository curating landmark computer science research papers across algorithms, distributed systems, programming languages, and machine learning. A community-maintained reading list for engineers who want to understand the intellectual foundations of their field.
+**[→ scala-functional-programming; algorithms-data-structures]**
 github.com — https://github.com/papers-we-love/papers-we-love
 
-**A 2025 Scala stack**
-Blog post recommending a modern Scala 3 technology stack for production.
-blog.rockthejvm.com — https://blog.rockthejvm.com/
+**A 2025 Scala Stack (dimitarg.github.io)**
+Blog post recommending a modern Scala 3 production technology stack: http4s or tapir for HTTP, Skunk for Postgres, Doobie for JDBC, cats-effect for effects, and circe for JSON. A practical guide to the current Typelevel ecosystem best practices.
+**[→ scala-functional-programming; infrastructure-devops]**
+dimitarg.github.io — https://dimitarg.github.io/scala-stack/
 
-**Building Robust Applications with Kyo**
-Guide to error handling and resource management using the Kyo effect system.
-getkyo.io — https://getkyo.io/
+**Building Robust Applications with Kyo (scala.io)**
+Scala.io Paris 2024 session on error handling, resource management, and resilience patterns using Kyo: how Kyo's pending effects model leads to naturally robust application code without requiring explicit effect stacking or complex monad transformer compositions.
+**[→ scala-functional-programming]**
+scala.io — https://scala.io/sessions/paris-2024/building-robust-applications-with-kyo
 
-**Writing Modular Apps with Kyo**
-Blog on modular application design using Kyo's algebraic effects.
-getkyo.io — https://getkyo.io/
+**Writing Modular Apps with Kyo (scalamatters.io)**
+Blog post on designing modular, testable applications using Kyo's algebraic effects: how to define capability interfaces as Kyo effects and provide test versus production interpreters without dependency injection frameworks.
+**[→ scala-functional-programming]**
+scalamatters.io — https://www.scalamatters.io/post/writing-modular-applications-using-the-kyo-library
 
-**Kyo — Functional Scala 2023 talk**
-Conference talk introducing Kyo's effect system design.
-youtube.com — https://www.youtube.com/
+**Kyo — Functional Scala 2023 Talk (YouTube)**
+Conference talk introducing Kyo's design to the Functional Scala community: the intersection-type encoding, performance benchmarks against ZIO and cats-effect, and the vision for algebraic effects as the basis for a new generation of Scala libraries.
+**[→ scala-functional-programming]**
+youtube.com — https://www.youtube.com/watch?v=FXkYKQRC9LI
 
-**Scala 3 extension methods**
-Official docs on extension methods in Scala 3.
+**Scala 3 Extension Methods (official docs)**
+Official documentation on Scala 3 extension methods: adding methods to existing types without modifying them, with better ergonomics than Scala 2 implicit classes. Extension methods are fundamental to the Scala 3 typeclass pattern and library extension conventions.
+**[→ scala-functional-programming]**
 docs.scala-lang.org — https://docs.scala-lang.org/scala3/book/ca-extension-methods.html
 
-**etorreborre blog: 2024 in review**
-Year-in-review from a prominent Scala/specs2 contributor.
-etorreborre.blogspot.com — https://etorreborre.blogspot.com/
+**etorreborre Blog: 2024 in Review**
+Year-in-review post from Étienne Torreborre — creator of specs2 and prominent Scala/Haskell contributor — reflecting on 2024 developments in the Scala ecosystem, functional programming trends, and his own open-source work.
+**[→ scala-functional-programming]**
+etorreborre.blog — https://etorreborre.blog/2024-in-review
 
 **Typed Tagless Final for Real (Oleg Kiselyov)**
-Oleg Kiselyov's typed tagless final interpreter approach.
+Oleg Kiselyov's authoritative resource on the typed tagless final (TTF) approach to embedding DSLs: representing terms as functions over type class algebras rather than as algebraic data types, enabling multiple interpreters without committing to a single representation.
+**[→ scala-functional-programming]**
 okmij.org — https://okmij.org/ftp/tagless-final/
 
-**What is so unique about Unison**
-Blog on Unison's content-addressed code and abilities system.
-unison-lang.org — https://www.unison-lang.org/
-
-**Unison cloud platform**
-Unison's cloud-native distributed computing platform.
+**Unison Cloud Platform**
+Unison's cloud-native distributed computing platform built on the Unison language's first-class distributed computing semantics: deploying code to the cloud is a language operation, not a deployment pipeline step. An ambitious attempt to make distributed programming as natural as local programming.
+**[→ scala-functional-programming; infrastructure-devops]**
 unison.cloud — https://www.unison.cloud/
 
-**Profunctors, Arrows, and Static Analysis**
-Connecting profunctors to arrow-based static analysis in Haskell.
-ocharles.org.uk — https://ocharles.org.uk/
+**Profunctors, Arrows, and Static Analysis (elvishjerricco.github.io)**
+Technical blog post connecting profunctors — contravariant in the input, covariant in the output — to Haskell arrows and their application in building computations that can be statically analyzed before execution. Important for understanding selective applicative functors and arrow-based analysis.
+**[→ scala-functional-programming; mathematics-science]**
+elvishjerricco.github.io — https://elvishjerricco.github.io/2017/03/10/profunctors-arrows-and-static-analysis.html
 
-**Open-sourcing Haxl (Facebook)**
-Facebook's Haskell library for efficient batched data fetching.
-engineering.fb.com — https://engineering.fb.com/2014/06/10/open-source/open-sourcing-haxl-a-library-for-haskell/
+**Open-Sourcing Haxl (Facebook Engineering)**
+Facebook's announcement of open-sourcing Haxl — a Haskell library for efficient batched and concurrent data fetching that automatically batches independent requests, deduplicates fetches, and caches results. The inspiration for GraphQL's DataLoader and similar patterns.
+**[→ scala-functional-programming; data-engineering]**
+engineering.fb.com — https://engineering.fb.com/2014/06/10/web/open-sourcing-haxl-a-library-for-haskell/
 
-**Applicative Effects and Free Monads**
-Comparison of applicative and monadic effect handling strategies.
-blog.functorial.com — https://blog.functorial.com/
+**Applicative Effects and Free Monads (blog.functorial.com)**
+Comparison of applicative and monadic effect strategies: how Applicative enables static analysis of effects (known before execution) while Monad enables data-dependent sequential effects. Connects to Free Applicative and Free Monad as explicit reifications of each strategy.
+**[→ scala-functional-programming]**
+blog.functorial.com — https://blog.functorial.com/posts/2017-07-01-FreeAp-Is-A-Comonad.html
 
-**lens (ekmett/lens)**
-Haskell's premier optics library.
+**lens (ekmett/lens) — Haskell Optics Library**
+Edward Kmett's premier Haskell optics library: lenses, prisms, traversals, folds, and isos for composable, typed data access and modification. The lens library demonstrates how profunctor optics encode complex data transformation patterns with minimal boilerplate.
+**[→ scala-functional-programming]**
 github.com — https://github.com/ekmett/lens
 
-**PRE-SIP: suspended functions in Scala**
-Proposal for coroutine-style suspended functions in Scala.
+**PRE-SIP: Suspended Functions in Scala**
+A Scala Improvement Proposal for coroutine-style suspended functions — adding language-level support for suspending computations without explicit monad wrappers. Would potentially reduce the ergonomic gap between Scala's monadic effects and Kotlin's suspend functions.
+**[→ scala-functional-programming]**
 github.com — https://github.com/scala/improvement-proposals
 
-**Capture Checking in Scala 3**
-Scala 3 experimental feature for tracking object capabilities via capture sets.
+**Capture Checking in Scala 3 (Experimental)**
+Scala 3's experimental capture checking feature: a type system extension that tracks which capabilities (IO, network, memory) a function captures in its closure, enabling purely functional API boundaries to be enforced by the compiler without runtime overhead.
+**[→ scala-functional-programming]**
 docs.scala-lang.org — https://docs.scala-lang.org/scala3/reference/experimental/cc.html
 
-**Haskell kinds and HKTs (Serokell)**
-Tutorial on kind polymorphism and higher-kinded types in Haskell.
+**Haskell Kinds and Higher-Kinded Types (Serokell)**
+Serokell's tutorial on kind polymorphism and higher-kinded types in Haskell: how `* -> *` kinds express type constructors like `Maybe` and `[]`, and how kind polymorphism via `forall k` enables highly generic abstractions like `Functor`, `Monad`, and `Applicative` to work across type-level structures.
+**[→ scala-functional-programming]**
 serokell.io — https://serokell.io/blog/
 
-**Comonad can be monad**
-Mathematical exploration of comonads as dual structures to monads.
-bartoszmilewski.com — https://bartoszmilewski.com/
+**Comonad Can Be Monad (Bartosz Milewski)**
+Bartosz Milewski's mathematical exploration of comonads as the categorical dual of monads: how `extend`/`extract` correspond to `bind`/`return`, the relationship to cellular automata and context-dependent computations, and how comonads model "objects with environment."
+**[→ scala-functional-programming; mathematics-science]**
+bartoszmilewski.com — https://bartoszmilewski.com/2017/01/02/comonads/
 
-**Free monad blog (Reasonably Polymorphic)**
-Practical guide to free monads as an effect encoding strategy.
+**Free Monad Blog (Reasonably Polymorphic)**
+Sandy Maguire's practical guide to free monads as an effect encoding strategy: building an effect algebra as a functor, lifting it into a Free monad, and providing multiple interpreters. Explains both the appeal and the performance overhead relative to tagless final.
+**[→ scala-functional-programming]**
 reasonablypolymorphic.com — https://reasonablypolymorphic.com/blog/freer-monads/
 
-**Haskell Fix and recursion**
-Using `fix` for recursive definitions in Haskell without `let rec`.
+**Haskell Fix and Recursion**
+Documentation and tutorial on Haskell's `fix` combinator — the fixed-point operator for defining recursive values and functions without explicit `let rec`. `fix` is the lambda calculus Y combinator expressed in Haskell's type system.
+**[→ scala-functional-programming; mathematics-science]**
 hackage.haskell.org — https://hackage.haskell.org/package/base/docs/Data-Function.html#v:fix
 
-**Recursion schemes in Rust**
-Applying catamorphisms and anamorphisms in Rust.
-github.com — https://github.com/
+**Recursion Schemes in Rust (inanna-malick)**
+Implementation of catamorphisms and anamorphisms in Rust using trait-based F-algebra encoding, demonstrating that recursion schemes are a language-agnostic pattern applicable outside Haskell/Scala to any sufficiently expressive type system.
+**[→ scala-functional-programming]**
+github.com — https://github.com/inanna-malick/recursion
 
 **Understanding F-Algebras (Bartosz Milewski)**
-Category-theoretic explanation of F-algebras and recursion.
+Bartosz Milewski's category-theoretic explanation of F-algebras: the mathematical structure underlying recursion schemes, where a functor F applied to a carrier type A plus an evaluation function `F A -> A` defines the semantics of recursive computations.
+**[→ scala-functional-programming; mathematics-science]**
 bartoszmilewski.com — https://bartoszmilewski.com/2013/06/10/understanding-f-algebras/
 
 **unfoldable (Hackage)**
-Haskell package for unfoldable data structures.
+Haskell package providing a type class for data structures that can be built from an unfold operation: a generalization of `Data.List.unfoldr` to trees, rose trees, and other branching structures. The dual of `Foldable` in the recursion scheme sense.
+**[→ scala-functional-programming]**
 hackage.haskell.org — https://hackage.haskell.org/package/unfoldable
 
-**Existential types in Haskell**
-Explanation of existential quantification in Haskell type system.
+**Existential Types in Haskell**
+HaskellWiki explanation of existential quantification in Haskell types: how `forall a. (Constraint a) => T a` enables heterogeneous containers, dynamic dispatch, and information hiding at the type level without requiring type erasure or runtime type tags.
+**[→ scala-functional-programming]**
 wiki.haskell.org — https://wiki.haskell.org/Existential_type
 
-**A gentle run-through of CPS**
-Continuation-passing style explained from first principles.
+**A Gentle Run-Through of CPS (matt.might.net)**
+Matt Might's explanation of continuation-passing style from first principles: transforming direct-style programs to CPS, what CPS reveals about control flow, and how CPS transformation is used in compilers for tail-call optimization and first-class continuation support.
+**[→ scala-functional-programming; mathematics-science]**
 matt.might.net — https://matt.might.net/articles/
 
-**Haskell book recommendations (Reddit)**
-Community curated list of Haskell learning resources.
-reddit.com — https://www.reddit.com/r/haskell/
-
-**Quick Overview Haskell Streamly**
-Introduction to Streamly, a high-performance Haskell streaming library.
+**Quick Overview: Haskell Streamly**
+Introduction to Streamly — a high-performance Haskell streaming library that competes with Conduit and pipes, claiming better throughput through stream fusion and a simpler API. Relevant for high-throughput data processing pipelines in Haskell.
+**[→ scala-functional-programming; data-engineering]**
 github.com — https://github.com/composewell/streamly
 
 **Pavel Fatin: Design Patterns in Scala**
-Applying Gang of Four patterns in idiomatic Scala.
+Pavel Fatin's guide to implementing classic Gang of Four design patterns in idiomatic Scala: how patterns like Strategy, Decorator, and Visitor map naturally to type classes, higher-order functions, and case class hierarchies — and when FP eliminates the need for the pattern entirely.
+**[→ scala-functional-programming]**
 pavelfatin.com — https://pavelfatin.com/design-patterns-in-scala/
 
-**Alexis King blog**
-Deep technical posts on Haskell, effects, and type system topics.
+**Alexis King Blog**
+Alexis King's deep technical blog on Haskell, algebraic effects, and type system design: posts on "Effects for Less" (the basis for the `eff` library), delimited continuations, and the theory behind efficient algebraic effect implementations.
+**[→ scala-functional-programming]**
 lexi-lambda.github.io — https://lexi-lambda.github.io/
 
 **Kyo Memory.scala**
-Memory management abstraction in the Kyo effect system source.
+The Memory management module in the Kyo effect system source code — providing Kyo-native memory allocation and management effects that integrate with Kyo's pending effect tracking. Relevant for performance-sensitive Kyo applications managing native or off-heap memory.
+**[→ scala-functional-programming]**
 github.com — https://github.com/getkyo/kyo
 
-**Tweag named routes**
-Named route pattern for type-safe web APIs in Haskell/Servant.
-tweag.io — https://www.tweag.io/
+**Tweag Named Routes**
+Tweag's blog on named route patterns in Haskell's Servant library: using type-level symbols to refer to routes by name rather than position, enabling refactoring-safe API client generation. The pattern is influential for type-safe API design in both Haskell and Scala http4s/tapir.
+**[→ scala-functional-programming; infrastructure-devops]**
+tweag.io — https://www.tweag.io/blog/2022-02-24-named-routes/
 
-**Noel welsh tagless final talk**
-Conference talk on tagless final interpreters in Scala.
-youtube.com — https://www.youtube.com/
+**Noel Welsh: Tagless Final for Humans (Scalar Conference)**
+Noel Welsh's pragmatic Scalar Conference talk making tagless final interpreters accessible to mainstream Scala developers: focusing on the practical benefits (testability, multiple interpreters) while de-emphasizing the category theory motivation that makes the pattern seem inaccessible.
+**[→ scala-functional-programming]**
+scalar-conf.com — https://www.scalar-conf.com/talk/tagless-final-for-humans
 
-**Expression problem**
-Classic extensibility problem in programming language design.
+**The Expression Problem**
+Philip Wadler's classic extensibility challenge: how to extend a language with new data types and new operations simultaneously without modifying existing code. Functional languages solve it one way (new operations easy), OOP another (new types easy); tagless final and open unions offer general solutions.
+**[→ scala-functional-programming]**
 wiki.haskell.org — https://wiki.haskell.org/Expression_problem
 
-**Scala 3 REST API with ZIO**
-Tutorial on building REST APIs using ZIO and http4s.
-blog.rockthejvm.com — https://blog.rockthejvm.com/
+**Scala 3 REST API with ZIO (rockthejvm.com)**
+RockTheJVM tutorial on building REST APIs in Scala 3 using ZIO HTTP (formerly ZIO HTTP4S): route definition, JSON encoding/decoding via ZIO JSON, dependency injection via ZLayer, and testing with ZIO Test. A practical end-to-end production REST API walkthrough.
+**[→ scala-functional-programming; infrastructure-devops]**
+blog.rockthejvm.com — https://blog.rockthejvm.com/zio-http/
 
-**Compiler tagless final / okmij tagless final**
-Oleg Kiselyov's authoritative reference on tagless final interpreters.
+**Compiler Tagless Final / Oleg Kiselyov Tagless Final**
+Oleg Kiselyov's authoritative collection of tagless final papers and implementations: the initial vs final encoding comparison, the role of type classes as effect algebras, and the symantics approach to embedded DSL implementation. The theoretical bedrock of modern Scala effect systems.
+**[→ scala-functional-programming]**
 okmij.org — https://okmij.org/ftp/tagless-final/
 
-**Scala distributed system from scratch**
-Building a simple distributed system in Scala 3.
-github.com — https://github.com/
+**Scala Distributed System from Scratch (bridgefour)**
+Christian Hollinger's open-source project building a simple distributed system in Scala 3 from scratch: master/worker coordination, job distribution, failure handling, and recovery — without using Akka or ZIO, demonstrating the raw mechanics of distributed coordination.
+**[→ scala-functional-programming; infrastructure-devops]**
+github.com — https://github.com/chollinger93/bridgefour
 
-**GitHub capture checking (experimental)**
-Tracking the experimental capture checking feature in Scala 3 compiler.
-github.com — https://github.com/scala/scala3
-
-**Whiteboxish Named Tuples (Scala 3) — Scalar 2025**
-Conference talk on named tuple improvements in Scala 3.
+**Whiteboxish Named Tuples in Scala 3 — Scalar 2025**
+Scalar Conference 2025 talk on named tuple improvements in Scala 3: how named tuples improve API expressiveness compared to anonymous tuples or case classes, and the compiler implementation challenges around whitebox macro interactions.
+**[→ scala-functional-programming]**
 scalar-conf.com — https://scalar-conf.com/
 
-**Evaluating AI on Haskell tasks**
-Benchmark study on LLM performance writing correct Haskell code.
-github.com — https://github.com/
+**Evaluating AI on Haskell Tasks — Benchmark Study**
+Research benchmarking LLM performance on writing correct Haskell code: comparing GPT-4, Claude, and Gemini on type class usage, monad transformer stacks, and Haskell-specific idioms. Provides data on where AI assistance is most and least reliable for Haskell development.
+**[→ scala-functional-programming; machine-learning-ai]**
+github.com — https://github.com/MercuryTechnologies/haskell_llm_benchmark
 
-**Parsley Scala parser combinator library**
-Scala 3 parser combinator library with Haskell-like interface.
+**Parsley — Scala 3 Parser Combinator Library**
+Parsley is a Scala 3 parser combinator library with a Haskell-like interface, featuring optimistic parsing, Parsec-style combinators, and automatic left-recursion handling. Provides better performance than naive recursive descent through combinator fusion.
+**[→ scala-functional-programming]**
 github.com — https://github.com/j-mie6/Parsley
 
-**LSUG Parsley talk**
-London Scala User Group talk on the Parsley library.
-youtube.com — https://www.youtube.com/
+**LSUG: Parsley Talk (YouTube)**
+London Scala User Group talk presenting the Parsley parser combinator library: its design goals, performance characteristics, and comparison with other Scala parsing libraries (Cats Parse, Fastparse). Practical guidance on choosing a parser combinator for production Scala projects.
+**[→ scala-functional-programming]**
+youtube.com
 
-**Hazel live functional programming**
-Live programming environment for Hazel, a functional language with holes.
+**Hazel Live Functional Programming Environment**
+Hazel is a live programming environment for a functional language with "holes" — incomplete programs that still execute and provide meaningful feedback. Designed to make the development experience of functional programming more interactive and exploratory.
+**[→ scala-functional-programming]**
 hazel.org — https://hazel.org/
 
-**Zig and Rust comparison (matklad)**
-Matklad's thoughtful comparison of Zig and Rust design choices.
+**Zig and Rust Comparison (matklad)**
+Aleksey Kladov (matklad)'s thoughtful comparison of Zig and Rust: where Zig's simpler model (no borrowing, explicit allocators, comptime) makes it preferable for systems programming, and where Rust's ownership guarantees remain irreplaceable. A nuanced view from a Rust core team alum.
+**[→ scala-functional-programming]**
 matklad.github.io — https://matklad.github.io/2023/03/26/zig-and-rust.html
 
 **GitHub: Developer-Y/cs-video-courses**
-Comprehensive list of CS courses with freely available video lectures.
+Comprehensive curated list of computer science video courses freely available online: algorithms, programming languages theory, systems, distributed systems, compilers, and machine learning from MIT, Stanford, CMU, and other institutions.
+**[→ scala-functional-programming; algorithms-data-structures]**
 github.com — https://github.com/Developer-Y/cs-video-courses
 
-**Legalizing Comonad Composition**
-Mathematical treatment of composing comonads correctly.
-blog.functorial.com — https://blog.functorial.com/
+**Legalizing Comonad Composition (Bartosz Milewski)**
+Bartosz Milewski's 2025 blog post on the mathematical conditions under which two comonads can be composed — a problem symmetric to monad composition but with different constraints. Relevant to understanding the categorical limits of comonad-based object composition.
+**[→ scala-functional-programming; mathematics-science]**
+bartoszmilewski.com — https://bartoszmilewski.com/2025/01/04/legalizing-comonad-composition/
 
-**Hylomorphism and refold code snippets**
-Code examples exploring hylomorphisms implemented in Scala/Haskell.
-github.com — https://github.com/
+**Hylomorphism and Refold Code Snippets (GitHub Gist)**
+Code examples implementing hylomorphisms (refold) in Scala and Haskell: demonstrating how to express algorithms like merge sort, tree evaluation, and expression folding as explicit unfold-then-fold compositions using recursion scheme combinators.
+**[→ scala-functional-programming; algorithms-data-structures]**
+gist.github.com — https://gist.github.com/yuwki0131/db2dcc08d8b6b086d055182dc32c0300
 
-**PL Zoo**
-Programming language implementations collection for learning PL theory.
+**PL Zoo — Programming Language Implementations Collection**
+Andrej Bauer's collection of small programming language implementations for learning programming language theory: untyped lambda calculus, typed PCF, System F, and more, each implemented in OCaml with clear separation of parser, type checker, and evaluator.
+**[→ scala-functional-programming; mathematics-science]**
 plzoo.andrej.com — https://plzoo.andrej.com/
 
-**De Bruijn index**
-Wikipedia article on De Bruijn indices for name-free lambda calculus.
+**De Bruijn Index (Wikipedia)**
+Wikipedia article on De Bruijn indices — a name-free representation of lambda calculus terms using natural numbers to denote binding depth rather than variable names. De Bruijn indices eliminate alpha-equivalence as a concern and simplify substitution in lambda calculus implementations.
+**[→ scala-functional-programming; mathematics-science]**
 en.wikipedia.org — https://en.wikipedia.org/wiki/De_Bruijn_index
 
-**tree-sitter**
-Parser generator tool for building syntax trees for any language.
+**tree-sitter — Incremental Parser Generator**
+tree-sitter is a parser generator tool and incremental parsing library used to build syntax-aware editors and analysis tools: it produces concrete syntax trees for any language, updates them incrementally as code changes, and powers syntax highlighting in Neovim, Helix, and GitHub's Linguist.
+**[→ scala-functional-programming; infrastructure-devops]**
 tree-sitter.github.io — https://tree-sitter.github.io/tree-sitter/
 
-**Rhombus lang**
-New Racket-based language with improved syntax from the Racket team.
+**Rhombus Lang — Racket-Based Language**
+Rhombus is a new language built on the Racket platform with improved syntax (non-S-expression) and a revised macro system, designed to be Racket's more approachable successor for language-oriented programming. It preserves Racket's language extensibility while removing the syntactic barrier.
+**[→ scala-functional-programming]**
 github.com — https://github.com/racket/rhombus-prototype
 
-**Which programming languages are most token-efficient?**
-Analysis of token counts across 19 languages on RosettaCode — Clojure vs C shows 2.6x difference.
+**Which Programming Languages Are Most Token-Efficient? (martinalderson.com)**
+Analysis of token counts across 19 programming languages on RosettaCode benchmarks: Clojure and other Lisps are most token-efficient, C/C++ least efficient, with Scala and Haskell in the middle. The 2.6x Clojure vs C difference has implications for LLM coding costs and context window usage.
+**[→ scala-functional-programming; machine-learning-ai]**
 martinalderson.com — https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/
 
-**LLM-Generated Lean 4 Proofs (research paper)**
-Study comparing GPT-5, Gemini, and other LLMs on formal Lean 4 proof generation.
+**LLM-Generated Lean 4 Proofs — Research Paper**
+Study comparing GPT-4, Gemini, and other LLMs on formal Lean 4 proof generation tasks: success rates, error types, and the strategies that improve proof generation quality. Represents the state of AI-assisted formal mathematics as of early 2025.
+**[→ scala-functional-programming; mathematics-science; machine-learning-ai]**
 github.com — https://github.com/lampless/LLM-Generated-Lean4-Proofs/blob/main/Dylan%20Miller_%20LLM-Generated%20Lean4%20Proofs.pdf
 
-**Rust replaces Java/Scala at xAI (tweet)**
-xAI's x-algorithm repo uses Rust where Java/Scala were expected.
+**Rust Replaces Java/Scala at xAI (Tweet)**
+Tweet noting that xAI's x-algorithm repository — where Java or Scala might be expected — uses Rust as its primary language, signaling an industry shift toward Rust even in domains traditionally dominated by JVM languages for their ecosystem and tooling advantages.
+**[→ scala-functional-programming; infrastructure-devops]**
 x.com — https://x.com/ForrestPKnight/status/2018768871474315761
 
-**GitHub: duolingo/slack-mcp**
-Duolingo's OAuth-based multi-user Slack MCP server with HTTP transport.
+**GitHub: duolingo/slack-mcp — OAuth Multi-User Slack MCP Server**
+Duolingo's open-source Model Context Protocol (MCP) server for Slack, implementing OAuth-based multi-user authentication and HTTP transport to support team-wide AI assistant integrations with Slack. A reference implementation for multi-user MCP server design.
+**[→ scala-functional-programming; machine-learning-ai; infrastructure-devops]**
 github.com — https://github.com/duolingo/slack-mcp
 
-**Kyo issue tracker**
-Active Kyo issues and feature discussions on GitHub.
+**Kyo Issue Tracker (GitHub)**
+Active Kyo development discussion thread tracking a specific issue or feature request in the Kyo effect system repository. A reference for following the evolution of the Kyo API and understanding design trade-offs being actively debated by the core team.
+**[→ scala-functional-programming]**
 github.com — https://github.com/getkyo/kyo/issues/1419
 
-**Agentic Reasoning for Large Language Models (survey)**
-Comprehensive arxiv survey organizing agentic reasoning — foundational, self-evolving, multi-agent.
+**Agentic Reasoning for Large Language Models — Survey (arxiv)**
+Comprehensive survey paper organizing the landscape of agentic LLM reasoning: foundational reasoning (chain-of-thought, reflection), self-evolving reasoning (reinforcement learning, online adaptation), and multi-agent coordination patterns. A reference for building LLM-based agent systems.
+**[→ scala-functional-programming; machine-learning-ai]**
 arxiv.org — https://arxiv.org/abs/2601.12538
 
-**Intelligent AI Delegation (arxiv)**
-Framework for adaptive task allocation and authority transfer in multi-agent AI systems.
+**Intelligent AI Delegation — Framework (arxiv)**
+Research paper proposing a framework for adaptive task allocation and authority transfer in multi-agent AI systems: how to decide when to delegate to a subagent, how to transfer context, and how to aggregate results with appropriate uncertainty calibration.
+**[→ scala-functional-programming; machine-learning-ai]**
 arxiv.org — https://arxiv.org/abs/2602.11865
 
-**Claude Code design decisions talk (Tech with Mak)**
-45-minute talk by the Claude Code creator on design decisions and future direction.
+**Claude Code Design Decisions Talk (Tech with Mak)**
+45-minute talk by the Claude Code creator on the design decisions behind Claude Code: why it uses a CLI interface, how tool use is structured, the permissions model, and the future direction of AI coding assistants. Relevant to both Claude Code users and developers building similar tools.
+**[→ scala-functional-programming; machine-learning-ai]**
 x.com — https://x.com/techNmak/status/2024041443837526375
 
-**User personal note: Eke project plan**
-Project priorities: Haskell unfold, Kyo integration, Wiktionary parsing, Alar dictionary; referenced Jan–Feb 2025.
+**User Personal Note: Eke Project Plan**
+Personal project priority notes: Haskell unfold implementation for Eke word structure analysis, Kyo effect system integration for the ettuge project, Wiktionary parsing for etymology data, and alar.ink dictionary corpus analysis work planned for Jan–Feb 2025.
+**[→ scala-functional-programming; kannada-language-linguistics]**
 
-**User observation: Claude for Kannada DNS Bhat analysis**
-Claude used for Kannada video transcription and DNS Bhat book analysis — better than NotebookLM for discovery. Generated output that would have required extensive hand-coding.
+**User Observation: Claude for Kannada DNS Bhat Analysis**
+Personal note on using Claude for Kannada video transcription and DNS Bhat grammar book analysis — finding Claude superior to NotebookLM for cross-document discovery and synthesis. The generated analysis output would have required extensive hand-coding to produce otherwise.
+**[→ scala-functional-programming; kannada-language-linguistics; machine-learning-ai]**
 github.com — https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/malatibhat_dns_bhat_chat.md
 
-**ettuge/dnsbhat Kannada grammar chapters (GitHub)**
-Series of markdown notes translating DNS Bhat's Kannada grammar chapters.
+**ettuge/dnsbhat Kannada Grammar Chapters (GitHub)**
+Series of markdown notes in the ettuge repository translating and summarizing chapters from DNS Bhat's Kannada grammar books: morphology, phonology, and syntax analysis of the Kannada language using the Ellara Kannada (pure Dravidian) framework.
+**[→ scala-functional-programming; kannada-language-linguistics]**
 github.com — https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/dnsbhat/
 
-**mEStre Kannada AI app concept**
-Personal product idea: Kannada AI assistant that code-switches between pure Kannada and Kanglish, with autocomplete, agent integrations, and ad platform; Feb 2026.
+**mEsṭre Kannada AI App Concept**
+Personal product concept: a Kannada AI assistant that code-switches intelligently between pure Dravidian Kannada, standard literary Kannada, and Kanglish depending on context — with autocomplete, agent integrations (calendar, mail), and an Eke romanization keyboard. Designed as a culturally authentic Kannada AI experience.
+**[→ scala-functional-programming; kannada-language-linguistics; machine-learning-ai]**
 
-**Ship an MCP server/agent**
-Personal architectural note: shipping an MCP server makes downstream integrations compose automatically.
+**Ship an MCP Server/Agent — Architectural Note**
+Personal architectural insight: shipping an MCP (Model Context Protocol) server makes all downstream AI integrations compose automatically — any Claude or other MCP-compatible AI client gains access to the server's capabilities without additional integration work.
+**[→ scala-functional-programming; machine-learning-ai; infrastructure-devops]**
 
-**Skill graph for memory (tweet)**
-A network of skill files connected with wikilinks — useful pattern for AI agent memory systems.
+**Skill Graph for Memory — Tweet (rohit4verse)**
+Tweet proposing a network of skill files connected via wikilinks as a useful pattern for AI agent memory systems: the graph structure enables semantic navigation between related skills rather than linear search, mirroring how knowledge graphs outperform flat key-value memory.
+**[→ scala-functional-programming; machine-learning-ai]**
 x.com — https://x.com/rohit4verse/status/2024031053103366528
 
-**RAG architecture selection guide (Tech with Mak)**
-Which RAG variant to pick by use case: standard, agentic, graph, modular, or long-term memory.
+**RAG Architecture Selection Guide (Tech with Mak)**
+Practical guide to selecting the right RAG (Retrieval-Augmented Generation) variant by use case: standard vector RAG for factual Q&A, agentic RAG for multi-step reasoning, graph RAG for entity-relationship queries, modular RAG for hybrid approaches, and long-term memory RAG for persistent personalization.
+**[→ scala-functional-programming; machine-learning-ai; data-engineering]**
 x.com — https://x.com/techNmak/status/2023978105606676821
 
-**Transformers use 6D helical manifolds for counting (Anthropic)**
-Reverse-engineering Claude 3.5 Haiku reveals it tracks numbers via geometric manifolds, not registers.
+**Transformers Use 6D Helical Manifolds for Counting (Anthropic)**
+Anthropic mechanistic interpretability research revealing that Claude 3.5 Haiku represents numerical values on six-dimensional helical manifolds in its residual stream — a geometric representation that enables robust counting and arithmetic rather than a lookup-table approach.
+**[→ scala-functional-programming; machine-learning-ai; mathematics-science]**
 x.com — https://x.com/che_shr_cat/status/2023729615055782140
 
-**Scala 3 'break' and 'continue' equivalents**
-How to express early exit patterns idiomatically in Scala 3.
+**Scala 3 'break' and 'continue' Equivalents (rockthejvm.com)**
+RockTheJVM's explanation of how to express early loop termination idiomatically in Scala 3 — using boundary/break from scala.util.boundary (Scala 3.3+), tailrec with Option, or functional approaches with takeWhile/find. Scala 3 finally provides a principled break/continue via the boundary API.
+**[→ scala-functional-programming]**
 blog.rockthejvm.com — https://blog.rockthejvm.com/
