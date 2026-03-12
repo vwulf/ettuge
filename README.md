@@ -6,21 +6,19 @@ All readable documents live under [`src/main/md`](https://github.com/vwulf/ettug
 
 ---
 
-## Language & Script
+## Reflection & Books
 
-### [Eke — a romanization proposal for Kannada](https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/Eke.md)
+### [Self reflection](https://github.com/vwulf/ettuge/blob/master/src/main/md/self-reflection/README.md)
 
-Informal Kannada writing on the internet has drifted into a loose collection of ad-hoc conventions. *Eke* (ಏಕೆ) is a principled yet lightweight romanization scheme that bridges the gap between these informal habits and the more rigorous Harvard-Kyoto protocol. It is inspired by D. N. Shankara Bhat's *Ellara Kannada* movement, which advocates for a written form closer to how the language is actually spoken — dropping aspirated consonants that do not exist in natural speech and favoring native Dravidian roots over Sanskrit borrowings. Whether you type Kannada on a phone or a terminal, Eke offers a consistent, typable representation that stays faithful to the spoken word.
+A large, sprawling personal notes file — links, snippets, ideas, and observations accumulated from 2021 to 2024 — has been distilled into topic-based files here. Subjects range across Kannada linguistics and Indian history, functional programming and machine learning, mathematics and algorithms, infrastructure and health. Think of it as a public externalisation of a working mind: not polished essays, but the connective tissue between reading, thinking, and building.
 
-### [Dr. D. N. Shankara Bhat — digital archive](https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/dnsbhat/)
+### [Books](https://github.com/vwulf/ettuge/blob/master/src/main/md/Books/Books.md)
 
-Dr. D. N. Shankara Bhat (1931–) is the towering figure in modern Kannada linguistics — winner of the Pampa Award, holder of positions at Stanford, the Max Planck Institute, Oxford, and Deccan College, and the author of 29 known works spanning native Kannada grammar, script reform, historical phonology, word formation, and international typology. His central argument, developed over 50 years, is that Kannada grammar must be built from Kannada's own structure rather than borrowed Sanskrit or English frameworks.
-
-This repository contains a systematic effort to collect, digitise, and make accessible his complete works: YouTube transcripts, blog posts recovered from dnshankarabhat.net via the Wayback Machine, full-text extractions from archive.org, and Sarvam Vision OCR runs on 8 PDFs using the `kn-IN` model (totalling ~1.9 million Kannada Unicode characters). Each processed book has four companion files — a structured Kannada text, an Eke romanisation, an English summary, and an AI context primer. The [book catalogue](https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/dnsbhat/README.md) covers all 29 works with collection status; the [project recap](https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/dnsbhat/PROJECT-RECAP.md) documents the full pipeline — OCR, WX font decoding, cross-link audit, and Eke romanisation methodology.
+A curated catalog of books that have genuinely changed how the author thinks — organized by author with inline summaries and links to individual files containing deeper analysis and personal takeaways. The list spans Western fiction (Camus, Hemingway, Fitzgerald), Kannada and Indian literature, classical Indian texts, D. N. Shankara Bhat's linguistics works, science, history, mathematics, and martial arts. It is as much a record of an intellectual biography as it is a reading list.
 
 ---
 
-## Functional Programming
+## Functional Programming, Category Theory & Programming Languages
 
 This repository doubles as a running notebook for functional programming ideas, worked out mostly in Haskell but drawing on Scala, lambda calculus, and category theory wherever they illuminate the concept best.
 
@@ -54,23 +52,25 @@ Lambda calculus is the bedrock beneath every functional language — a system so
 
 ---
 
+## Language & DNS Bhat
+
+### [Eke — a romanization proposal for Kannada](https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/Eke.md)
+
+Informal Kannada writing on the internet has drifted into a loose collection of ad-hoc conventions. *Eke* (ಏಕೆ) is a principled yet lightweight romanization scheme designed by Vishwas, bridging the gap between these informal habits and the more rigorous Harvard-Kyoto protocol. It draws on the principles of D. N. Shankara Bhat's *Ellara Kannada* movement and the *Hosabaraha* orthography — which advocate for a written form closer to how the language is actually spoken, dropping aspirated consonants that do not exist in natural speech. Whether you type Kannada on a phone or a terminal, Eke offers a consistent, typable representation that stays faithful to the spoken word.
+
+### [Dr. D. N. Shankara Bhat — digital archive](https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/dnsbhat/)
+
+Dr. D. N. Shankara Bhat (1931–) is the towering figure in modern Kannada linguistics — winner of the Pampa Award, holder of positions at Stanford, the Max Planck Institute, Oxford, and Deccan College, and the author of 29 known works spanning native Kannada grammar, script reform, historical phonology, word formation, and international typology. His central argument, developed over 50 years, is that Kannada grammar must be built from Kannada's own structure rather than borrowed Sanskrit or English frameworks.
+
+This repository contains a systematic effort to collect, digitise, and make accessible his complete works: YouTube transcripts, blog posts recovered from dnshankarabhat.net via the Wayback Machine, full-text extractions from archive.org, and Sarvam Vision OCR runs on 8 PDFs using the `kn-IN` model (totalling ~1.9 million Kannada Unicode characters). Each processed book has four companion files — a structured Kannada text, an Eke romanisation, an English summary, and an AI context primer. The [book catalogue](https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/dnsbhat/README.md) covers all 29 works with collection status; the [project recap](https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/dnsbhat/PROJECT-RECAP.md) documents the full pipeline — OCR, WX font decoding, cross-link audit, and Eke romanisation methodology.
+
+---
+
 ## Visual Creativity
 
 ### [Kojo](https://github.com/vwulf/ettuge/blob/master/src/main/md/kojo/cloud_flowers_and.md)
 
 Kojo is a Scala-based learning environment that descends from Logo — the turtle-graphics language that introduced a generation of children to programming through drawing. This section collects generated images: clouds and flowers, random polygons, ladder patterns, and a worm. The code is simple enough for a beginner and playful enough to remind experienced programmers why they fell in love with the craft. Kojo also serves as a gentle on-ramp to Scala's functional idioms in a visual context.
-
----
-
-## Reflection
-
-### [Self reflection](https://github.com/vwulf/ettuge/blob/master/src/main/md/self-reflection/README.md)
-
-A large, sprawling personal notes file — links, snippets, ideas, and observations accumulated from 2021 to 2024 — has been distilled into topic-based files here. Subjects range across Kannada linguistics and Indian history, functional programming and machine learning, mathematics and algorithms, infrastructure and health. Think of it as a public externalisation of a working mind: not polished essays, but the connective tissue between reading, thinking, and building.
-
-### [Books](https://github.com/vwulf/ettuge/blob/master/src/main/md/Books/Books.md)
-
-A curated catalog of books that have genuinely changed how the author thinks — organized by author with inline summaries and links to individual files containing deeper analysis and personal takeaways. The list spans Western fiction (Camus, Hemingway, Fitzgerald), Kannada and Indian literature, classical Indian texts, D. N. Shankara Bhat's linguistics works, science, history, mathematics, and martial arts. It is as much a record of an intellectual biography as it is a reading list.
 
 ---
 

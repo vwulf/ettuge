@@ -5,7 +5,7 @@ This file provides guidance to Claude Code when working in this repository.
 ## Overview
 
 Ettuge is a linguistic research project focused on native Kannada language preservation. It combines:
-- Documentation of the **Eke** (Ellara Kannada) romanization system
+- Documentation of the **Eke** romanization system (designed by Vishwas, inspired by Hosabaraha and Harvard-Kyoto)
 - Translation work using **DNS Bhat's native Kannada word formation methodology**
 - YouTube transcript extraction and processing for linguistics research
 - Functional programming examples in Haskell, Scala, and Kojo
@@ -77,20 +77,7 @@ All issues and PRs are currently closed. The Eke translation work is complete:
 ### DNS Bhat Methodology
 All translation work must follow DNS Bhat's native Kannada word formation system:
 - Reference: `src/main/md/kannada/dnsbhat/DNS_BHAT_WORD_FORMATION_PROMPT.md`
-- Books: `src/main/md/kannada/dnsbhat/` — 13 book directories (01–13):
-  - 01-idu-kannadade-vyakarana
-  - 02-kannadadalle-hosapadagalannu-kattuva-bage
-  - 03-kannada-padagala-olarachane
-  - 04-mathu-matthu-barahada-naduvina-gondala
-  - 05-mathina-olaguttu
-  - 06-kalikenudi-matthu-nudikalike
-  - 07-kannadada-sollarime
-  - 08-kannadakke-mahaprana-yake-beda
-  - 09-havyaka-kannada
-  - 10-kannada-nudiya-hinnadavali
-  - 11-kannada-barahada-padasamasye
-  - 12-kannada-bhasheya-kalpita-charitre
-  - 13-dharege-doddavaru
+- Books: `src/main/md/kannada/dnsbhat/` — 29 book directories (01–29); see `dnsbhat/README.md` for the full annotated catalogue
 - Analysis files:
   - `dns-bhat-analysis.md`
   - `kannada-content-landscape.md`

@@ -33,6 +33,7 @@ Before writing anything, read the target book folder:
 ```
 
 Check which files exist:
+- `README.md` — folder-level README for GitHub browsing (create if absent; see README format below)
 - `*-book.md` — full book text (highest quality, use first)
 - `*-blog.md` — blog posts (use if no book.md)
 - `*-kn.md` — structured Kannada (use for chapter structure)
@@ -40,6 +41,40 @@ Check which files exist:
 - `*-en.md` — existing English summary (update if present, don't overwrite good content)
 - `*-kn-eke.md` — existing Eke file (update if present)
 - `*-claude-prompt.md` — AI prompt (separate from what we produce here)
+
+**README.md format** (create if absent):
+```markdown
+# [NN] — {Kannada title}
+**{English title}**
+
+> {One-sentence description of the book's argument and significance.}
+
+**{✅ Fully processed / ⚠️ Partial / ❌ Not collected}** · {year} · {publisher} · {N} pages
+
+---
+
+## Files in This Folder
+
+| File | Contents |
+|------|----------|
+| [`{NN}-{slug}-book.md`](./{NN}-{slug}-book.md) | Raw OCR text — ... |
+| [`{NN}-{slug}-kn-eke.md`](./{NN}-{slug}-kn-eke.md) | Eke romanisation |
+| [`{NN}-{slug}-en.md`](./{NN}-{slug}-en.md) | English summaries |
+| [`{NN}-{slug}-claude-prompt.md`](./{NN}-{slug}-claude-prompt.md) | AI context primer |
+
+---
+
+## Where to Start
+
+- **Don't read Kannada?** → [`{NN}-{slug}-en.md`](./{NN}-{slug}-en.md)
+- **Want the phonetics?** → [`{NN}-{slug}-kn-eke.md`](./{NN}-{slug}-kn-eke.md)
+- **AI context primer?** → [`{NN}-{slug}-claude-prompt.md`](./{NN}-{slug}-claude-prompt.md)
+- **Full Kannada text?** → [`{NN}-{slug}-book.md`](./{NN}-{slug}-book.md)
+
+---
+
+[← Back to catalogue](../README.md)
+```
 
 Read the primary source file **and** `*-kn.md` if it exists (for chapter structure). For books with a `*-claude-prompt.md`, read it too — it has the chapter outline.
 
@@ -158,7 +193,7 @@ The English file has:
 
 ## Eke Romanisation Rules
 
-Eke is DNS Bhat's romanisation system. Use **Eke(ek)** mode (ellara kannaDa — simplified, no aspirates).
+Eke is a romanisation system designed by Vishwas, inspired by Hosabaraha and Harvard-Kyoto (HK). Use **Eke(ek)** mode (ellara kannaDa — simplified, no aspirates).
 
 ### Vowels
 | Kannada | Eke | | Kannada | Eke |
@@ -257,6 +292,7 @@ See `references/book-cross-references.md` for the full thematic index to populat
 
 | File | Naming |
 |------|--------|
+| Folder README | `README.md` |
 | English summary | `{NN}-{slug}-en.md` |
 | Eke romanisation | `{NN}-{slug}-kn-eke.md` |
 | Kannada structured | `{NN}-{slug}-kn.md` |
