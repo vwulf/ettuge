@@ -79,12 +79,33 @@ Each new file carries explicit cross-links to the existing 9 topic files for ent
 
 ---
 
+## Phase 4: Consolidation — Retiring `miscellaneous.md`
+
+**What happened:** After Phase 3, `miscellaneous.md` still held four thematic sections that belonged in the original 9 topic files (not the 6 new split files): Karnataka & Kannada Culture, History/Archaeology/Anthropology, Science & Nature, and Food & Nutrition. These were appended to the appropriate existing files:
+
+| Section from `miscellaneous.md` | Destination |
+|----------------------------------|-------------|
+| Karnataka & Kannada Culture | `kannada-language-linguistics.md` |
+| History, Archaeology & Anthropology | `indian-history-culture.md` |
+| Science & Nature (science entries) | `mathematics-science.md` |
+| Science & Nature (health entries) | `health-fitness.md` |
+| Food & Nutrition (general/health) | `health-fitness.md` |
+| Food & Nutrition (Karnataka food) | `kannada-language-linguistics.md` |
+| Food & Nutrition (Indian history) | `indian-history-culture.md` |
+| Single entries (Grigory Sapunov) | `machine-learning-ai.md` |
+
+Duplicate detection was required — several entries (Humans Almost Went Extinct, River Drought Harappan, Indo-Iranians Sintashta, etc.) had already been captured during Phase 3a enrichment. Only genuinely new entries were appended.
+
+`miscellaneous.md` is now a retired stub pointing to its destination files.
+
+---
+
 ## Outcome
 
-**16 structured topic files** covering:
-- Technical domains (algorithms, data engineering, ML, Scala/FP, infra)
-- Cultural domains (Kannada linguistics, Indian history, arts/music/film, cricket)
-- Personal domains (health, travel, books, career, current events)
+**15 active topic files** (+ 1 retired stub):
+- Technical: algorithms, data engineering, ML/AI, Scala/FP, infrastructure
+- Cultural: Kannada linguistics, Indian history, arts/music/film, cricket
+- Personal: health, travel, books, career, current events, mathematics/science
 
 **The key design decision:** rather than flattening everything into a single searchable database, the routing-hint system (`[→ category]`) makes the *intended home* of each entry explicit in the text itself. This means the file can be re-split, re-merged, or queried differently in the future without losing categorical intent.
 
@@ -94,11 +115,12 @@ Each new file carries explicit cross-links to the existing 9 topic files for ent
 
 ## Observations
 
-- **Categorization entropy is real.** The `miscellaneous.md` overflow wasn't a failure — it was the honest residual of a single-pass categorization. Phase 3's split addressed it by letting the *content itself* (the descriptions) do the routing.
+- **Categorization entropy is real.** The `miscellaneous.md` overflow wasn't a failure — it was the honest residual of a single-pass categorization. Phases 3 and 4 addressed it by letting the *content itself* (the descriptions) do the routing.
 - **Prose descriptions as metadata.** The paragraph enrichment step was the highest-leverage intervention. A bare URL is nearly useless 6 months later. A 3-sentence description with a cross-link is permanently useful.
+- **Duplicate detection is necessary.** When appending sections from the overflow to existing files, some entries had already been captured independently during the enrichment pass. The `[→ category]` tags and content comparison made deduplication tractable.
 - **The Signal inbox model works.** Low-friction capture to a single channel, periodic structured export, periodic enrichment — a sustainable personal knowledge pipeline that doesn't require discipline at point-of-capture.
 - **Code and personal notes coexist.** The same file can hold a Java Dining Philosophers implementation and a personal note about watching a Led Zeppelin documentary. The routing hint system separates them without losing either.
 
 ---
 
-*16 files · source: Signal "self" channel · phases: cleanup → categorize → enrich → split*
+*15 active files · source: Signal "self" channel · phases: cleanup → categorize → enrich → split → consolidate*

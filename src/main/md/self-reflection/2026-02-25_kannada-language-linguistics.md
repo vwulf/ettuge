@@ -1172,3 +1172,126 @@ A personal concept for a Kannada AI assistant named *mEsṭre* ("master/teacher"
 Project priorities for the *ettuge* Eke/Ellara Kannada initiative: (1) extended Wiktionary using DNS Bhat methodology for etymological entries; (2) autocomplete hinter suggesting native Kannada words as alternatives to Sanskrit/English loanwords; (3) team-of-rivals approach where multiple models debate the best native Kannada coinage for a concept; (4) newsfeed auto-summarization in native Kannada.
 
 **[→ kannada-language-linguistics; machine-learning-ai]**
+
+---
+
+## Karnataka Culture & History
+
+**Not the 'city of boiled beans': Bengaluru's name origin**
+hindustantimes.com — https://www.hindustantimes.com/cities/bengaluru-news/not-the-city-of-boiled-beans-a-relook-at-the-origin-of-bengaluru-s-name-101630306063095.html
+
+A Hindustan Times article debunking the popular folk etymology of Bengaluru as "Bendakāluru" (town of boiled beans), arguing the name predates the legend and likely derives from the beṅga tree (Pterocarpus marsupium). **[→ kannada-language-linguistics]**
+
+**English and the 'bhashas'**
+deccanherald.com — https://www.deccanherald.com/opinion/english-and-the-bhashas-3260559
+
+A Deccan Herald opinion piece examining the relationship between English and India's classical and regional languages (*bhāṣā*), discussing questions of linguistic prestige, medium of instruction, and the survival of Indian languages in a globalized world. **[→ kannada-language-linguistics]**
+
+**Kadlekai Parishe 2024 — Bengaluru's unique groundnut festival**
+deccanherald.com — https://www.deccanherald.com/india/karnataka/bengaluru/kadlekai-parishe-2024-all-you-need-to-know-about-bengalurus-unique-groundnut-festival-3292433
+
+Coverage of the Kadlekai Parishe (groundnut fair), an annual festival held outside the Bull Temple in Basavanagudi, Bengaluru — one of the city's oldest traditions where farmers offer the first groundnut harvest to the Nandi bull deity. **[→ kannada-language-linguistics]**
+
+**Congress peanuts renamed Modi masala? Nope, not true**
+deccanherald.com — https://www.deccanherald.com/india/karnataka/bengaluru/congress-peanuts-renamed-modi-masala-nope-not-true-738503.html
+
+A Deccan Herald fact-check on a social media claim that the famous Congress groundnuts (kadlekai) sold at Basavanagudi's Congress party bakery were renamed "Modi Masala" — false, as confirmed by the Sreenivasa Brahmins Bakery. **[→ kannada-language-linguistics; fact-check angle → current-events-politics]**
+
+**Bengaluru Explorer: Musings of a New Zealander in Bengaluru**
+deccanherald.com — https://www.deccanherald.com/india/karnataka/bengaluru/roaming-around-in-bengaluru-musings-through-the-eyes-of-a-new-zealander-3755495
+
+A travelogue-style piece in Deccan Herald about an outsider's (New Zealander's) experience discovering Bengaluru — its neighbourhoods, food, culture, and contradictions. **[→ kannada-language-linguistics; travel angle → travel-outdoors]**
+
+**No Language Like Kannada — Tamil Selvi's Powerful Statement**
+https://youtu.be/TU2aF-ML-dA?si=QI7UvKThvyerToH
+
+A YouTube video featuring Tamil Selvi making a passionate statement about the power and uniqueness of the Kannada language — perhaps in the context of language rights or the Rajyotsava celebrations. **[→ kannada-language-linguistics]**
+
+**Why Does Marathi Sound So Unique?**
+https://youtu.be/tUDqGC_ITeg
+
+A linguistic/cultural YouTube video exploring the phonology, vocabulary, and musical quality of Marathi — the Indo-Aryan language of Maharashtra. Useful comparative material for understanding how Marathi differs from neighboring Kannada. **[→ kannada-language-linguistics]**
+
+**Why is Kannada so Kasturi?**
+https://youtu.be/c7M6n3YUDro
+
+A YouTube video celebrating the distinctiveness and beauty of the Kannada language — the title uses *kasturi* (musk, fragrance) as a metaphor for linguistic richness. **[→ kannada-language-linguistics]**
+
+**Misconceptions about Kannada and Sanskrit**
+thenewsminute.com — https://www.thenewsminute.com/features/misconceptions-about-kannada-and-sanskrit-26222
+
+A The News Minute article debunking myths about Kannada being derived from Sanskrit, arguing for Kannada's independence as a Dravidian language with its own ancient literary tradition. **[→ kannada-language-linguistics]**
+
+**Sangam Poetry — Translations by A.K.Ramanujan**
+tamilliterature.in — https://tamilliterature.in/sangam-poetry-translations-k-ramanujan/
+
+A resource for A. K. Ramanujan's English translations of Classical Tamil Sangam poetry — a body of literature (c. 3rd century BCE–3rd century CE) considered among the finest in world literature. Ramanujan's translations are the standard English versions. **[→ kannada-language-linguistics; Dravidian literature]**
+
+**All of Proto-Indo-European in less than 12 minutes**
+https://youtu.be/kzP5Lq9fYi8?si=4oKm3oa0wgLYU5AY
+
+A concise YouTube video summarizing the reconstructed Proto-Indo-European language — its phonology, morphology, vocabulary, and daughter languages — in under 12 minutes. A rapid overview useful for understanding the ancestor of Sanskrit, Greek, Latin, Germanic, and Celtic languages. **[→ kannada-language-linguistics; Indo-European origins → indian-history-culture]**
+
+**History of the Indo-Aryan Languages**
+https://youtu.be/DyAZiBcW6aU?si=wuZoWDrPdep-1Lz2
+
+A comprehensive YouTube video tracing the history of the Indo-Aryan branch of Indo-European — from Vedic Sanskrit through Middle Indo-Aryan (Prakrits, Pali) to modern languages like Hindi, Bengali, Marathi, and Punjabi. Essential context for understanding how Sanskrit became the classical ancestor of North Indian languages. **[→ kannada-language-linguistics; history → indian-history-culture]**
+
+**Tamil loanwords in Ancient Greek — Wikipedia**
+en.wikipedia.org — https://en.wikipedia.org/wiki/Tamil_loanwords_in_Ancient_Greek
+
+The Wikipedia article documenting Tamil loanwords in Ancient Greek — evidence of direct trade contact between Tamil-speaking South India and the Graeco-Roman Mediterranean world (c. 1st century BCE–3rd century CE). **[→ kannada-language-linguistics]**
+
+**Scholar throws light on the origin, evolution of Kannada numerals**
+thehindu.com — https://www.thehindu.com/news/national/karnataka/scholar-throws-light-on-the-origin-evolution-of-kannada-numerals/article20811692.ece
+
+A The Hindu article on a scholar's research into the historical development of Kannada numerals — exploring how the numeral system evolved from Brahmi, through Kannada inscriptions, to modern form. **[→ kannada-language-linguistics; mathematics history → mathematics-science]**
+
+**Cousin Marriage is a Lot Deeper Than You Think | Dravidian Kinship**
+https://youtu.be/TlvLIKrjOlg
+
+A detailed YouTube video exploring Dravidian kinship terminology and the practice of cross-cousin and uncle-niece marriage in South Indian culture — explaining why terms like *māma* (maternal uncle) can also mean father-in-law. A deep dive into South Asian kinship systems. **[→ kannada-language-linguistics; anthropology → indian-history-culture]**
+
+**Bukka Raya's 1368 Kalya inscription highlights religious harmony in Karnataka**
+deccanherald.com — https://www.deccanherald.com/india/karnataka/bukka-rayas-inscription-at-karnatakas-kalya-3886672
+
+A Deccan Herald article about a 14th-century Vijayanagara-era inscription from Kalya, Karnataka, attributed to Bukka Raya I — cited as evidence of religious pluralism between Hindu and Jain communities under the Vijayanagara Empire. **[→ kannada-language-linguistics; epigraphy → indian-history-culture]**
+
+**Basavanagudi inscriptions and hero stones — Wikipedia**
+en.wikipedia.org — https://en.wikipedia.org/wiki/Basavanagudi_inscriptions_and_hero_stones?wprov=sfti1
+
+The Wikipedia article on inscriptions and hero stones (*vīragallu*) found in Basavanagudi, one of Bengaluru's oldest neighbourhoods. Hero stones are commemorative monoliths for warriors who died in battle, a distinctive Karnataka historical tradition. **[→ kannada-language-linguistics; epigraphy → indian-history-culture]**
+
+**'Bengaluru was named after the Benga tree'**
+newindianexpress.com — https://www.newindianexpress.com/cities/chennai/2019/Oct/23/bengaluru-was-named-after-the-benga-tree-2051495.html
+
+A New Indian Express article presenting the "beṅga tree" (Pterocarpus marsupium, Indian kino tree) etymology for Bengaluru — an alternative to the folk "boiled beans" story that is supported by inscriptional and botanical evidence. **[→ kannada-language-linguistics]**
+
+**Baba Budan — Wikipedia (coffee history)**
+en.wikipedia.org
+
+The Wikipedia article on Baba Budan, the 17th-century Sufi saint who is credited with smuggling seven coffee beans from Mocha (Yemen) into India — planting them in the hills of Chikmagalur, Karnataka, beginning India's coffee cultivation. **[→ kannada-language-linguistics; coffee history → indian-history-culture]**
+
+---
+
+## Karnataka Food Culture
+
+**Bonda Soup Recipe: Bengaluru's Comfort Classic**
+deccanherald.com — https://www.deccanherald.com/lifestyle/food-and-drink/cuisines-of-karnataka/crispy-bonda-dal-soup-bengalurus-beloved-bonda-soup-recipe-3760588
+
+A Deccan Herald recipe feature for Bengaluru's iconic bonda soup — the unique combination of crispy batata vada (bonda) dropped into a thin, spiced dal (lentil) soup, a street food staple unique to Bengaluru's udupi hotels. **[→ kannada-language-linguistics; food]**
+
+**100 dishes in 40 days: India's epic wedding feast**
+bbc.com — https://www.bbc.com/travel/article/20251003-100-dishes-in-40-days-indias-epic-wedding-feast
+
+A BBC Travel article on the extravagant multi-day wedding feast traditions of southern India, where a 700-year-old custom involves serving over 100 dishes across 40 days of celebration. Documents a living culinary tradition. **[→ kannada-language-linguistics; food culture → indian-history-culture]**
+
+**4 ಟೊಮ್ಯಾಟೊ ಕಾಯಿ — Uttara Karnataka roti thali recipe**
+https://youtu.be/CCHifkwAFS8
+
+A YouTube video featuring a traditional Uttara Karnataka-style roti thali recipe, likely featuring jowar or ragi roti with a four-tomato-based curry (*tomato kaayi*). North Karnataka cuisine is distinct from South Karnataka's udupi tradition. **[→ kannada-language-linguistics; food; recipe]**
+
+**Wordalla statistics note (personal)**
+"75%+ of 5 letter Kannada words in Wordalla are Sanskrit. Alar itself has 20,000+ 5 letter words."
+
+A personal linguistic observation from daily Wordalla play — quantifying the Sanskrit vs. native Dravidian proportion in five-letter Kannada words. **[→ kannada-language-linguistics]**

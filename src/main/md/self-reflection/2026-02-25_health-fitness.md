@@ -1326,3 +1326,45 @@ humehealthai.com — https://humehealthai.com/
 **Iron Deficiency and Plant-Based Diet (Nov 2025)**
 Comprehensive review of iron deficiency prevalence in plant-based eaters: testing strategies (ferritin, transferrin saturation, hemoglobin), supplementation dosing (iron bisglycinate vs ferrous sulfate), and food-based strategies for maximizing iron intake and absorption.
 **[→ health-fitness]**
+
+---
+
+## Mind & Mental Health
+
+**Meditation And Mindfulness Can Have a Dark Side**
+sciencealert.com — https://www.sciencealert.com/meditation-and-mindfulness-can-have-a-dark-side-that-we-dont-talk-about
+
+A Science Alert article on documented adverse effects of meditation and mindfulness practice — including depersonalization, anxiety, depression, and psychotic episodes — particularly in intensive retreat settings. Counters the uncritical wellness-culture promotion of meditation. **[→ health-fitness]**
+
+**How Our Longest Nerve Orchestrates the Mind-Body Connection (vagus nerve)**
+quantamagazine.org — https://www.quantamagazine.org/how-our-longest-nerve-orchestrates-the-mind-body-connection-20240826/
+
+A Quanta Magazine explainer on the vagus nerve — the longest cranial nerve, connecting the brain to the heart, lungs, gut, and immune system — and its role as a two-way information highway mediating the mind-body connection. **[→ health-fitness; neuroscience → mathematics-science]**
+
+---
+
+## Cold Exposure & Physiology
+
+**A Week of Swimming in Cold Water Can Change You on a Cellular Level**
+sciencealert.com — https://www.sciencealert.com/a-week-of-swimming-in-cold-water-can-change-you-on-a-cellular-level
+
+A Science Alert article on research showing that consistent cold-water immersion (a week or more) produces measurable cellular-level changes — including altered gene expression, metabolic adaptations, and anti-inflammatory effects. **[→ health-fitness]**
+
+**Croatian Freediver Shatters Record For Longest-Held Breath**
+sciencealert.com — https://www.sciencealert.com/croatian-freediver-shatters-record-for-longest-held-breath
+
+A Science Alert article on a new freediving breath-hold record by a Croatian athlete — combining extreme physical training with the physiology of the mammalian dive reflex, hypoxia tolerance, and voluntary apnea. **[→ health-fitness; physiology → mathematics-science]**
+
+---
+
+## Food & Nutrition
+
+**The foods that make you smell more attractive**
+bbc.com — https://www.bbc.com/future/article/20251031-the-foods-that-make-you-smell-more-attractive
+
+A BBC Future article on research examining how diet affects body odour in ways that influence attractiveness — covering the effects of garlic, alcohol, red meat, and fasting on volatile organic compounds emitted through skin and breath. **[→ health-fitness; food]**
+
+**The True History Of Kettlebells**
+https://youtu.be/NHdXYfArFAM
+
+A YouTube video on the history of the kettlebell — from its origins as a Russian farming/measurement tool in the 18th century through its adoption by the Tsarist military and eventual global spread as a fitness implement. **[→ health-fitness]**

@@ -762,3 +762,148 @@ Coccidioidomycosis (Valley Fever), caused by the soil fungus *Coccidioides*, is 
 cdc.gov — https://www.cdc.gov/fungal/diseases/coccidioidomycosis/
 
 **[→ health-fitness; mathematics-science]**
+
+---
+
+## Mathematics
+
+**The three-dimensional Kakeya conjecture**
+terrytao.wordpress.com — https://terrytao.wordpress.com/2025/02/25/the-three-dimensional-kakeya-conjecture-after-wang-and-zahl/
+
+Terence Tao's blog post on the breakthrough proof of the three-dimensional Kakeya conjecture by Hong Wang and Joshua Zahl (2025) — a long-open problem in harmonic analysis asking about the minimum volume needed to rotate a unit line segment in all directions in 3D space. **[→ mathematics-science]**
+
+**Dimension 126 Contains Strangely Twisted Shapes, Mathematicians Prove**
+quantamagazine.org — https://www.quantamagazine.org/dimension-126-contains-strangely-twisted-shapes-mathematicians-prove-20250505/
+
+A Quanta Magazine article on a mathematical proof establishing that 126-dimensional space contains exotic "twisted" topological structures (related to exotic smooth structures) — building on homotopy theory and the classification of manifolds. **[→ mathematics-science]**
+
+**For Algorithms, a Little Memory Outweighs a Lot of Time (CS theory)**
+quantamagazine.org — https://www.quantamagazine.org/for-algorithms-a-little-memory-outweighs-a-lot-of-time-20250521/
+
+A Quanta Magazine piece on a new result in computational complexity showing that in certain problem classes, a small amount of memory (space) can substitute for enormous computation time — a relationship relevant to the P vs PSPACE question. **[→ mathematics-science; algorithms → algorithms-data-structures]**
+
+**Prime numbers: now technology is revolutionizing the search for them**
+theconversation.com — https://theconversation.com/prime-numbers-the-building-blocks-of-mathematics-have-fascinated-for-centuries-now-technology-is-revolutionizing-the-search-for-them-249223
+
+A The Conversation explainer on how modern computing — including distributed networks and ML-assisted sieving — is transforming the search for large primes, including Mersenne primes and their role in cryptography. **[→ mathematics-science]**
+
+**Mathematicians discover clever new way to identify prime numbers without dividing**
+thebrighterside.news — https://www.thebrighterside.news/post/mathematicians-discover-clever-new-way-to-identify-prime-numbers-without-dividing/
+
+An article on a newly discovered primality test that doesn't rely on trial division — using algebraic or number-theoretic properties to identify primes more efficiently than trial factorization. **[→ mathematics-science]**
+
+**This New Shape Breaks an 'Unbreakable' 3D Geometry Rule (noperthedron)**
+scientificamerican.com — https://www.scientificamerican.com/article/mathematicians-make-surprising-breakthrough-in-3d-geometry-with-noperthedron/
+
+A Scientific American article on the "noperthedron" — a newly discovered 3D shape that violates what was previously thought to be an absolute rule about convex polyhedra. A genuine mathematical surprise. **[→ mathematics-science]**
+
+**A New Bridge Links the Strange Math of Infinity to Computer Science**
+quantamagazine.org — https://www.quantamagazine.org/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science-20251121/
+
+A Quanta Magazine article connecting set-theoretic results about infinite cardinals to problems in computational complexity — a surprising bridge between two seemingly distant mathematical domains. **[→ mathematics-science]**
+
+**The Molecular Bond That Helps Secure Your Memories**
+quantamagazine.org — https://www.quantamagazine.org/the-molecular-bond-that-helps-secure-your-memories-20250507/
+
+A Quanta Magazine piece on new research identifying the molecular mechanism by which memories are stabilized in synaptic connections — a breakthrough in understanding long-term potentiation and memory consolidation. **[→ mathematics-science; health/neuroscience → health-fitness]**
+
+---
+
+## Biological Sciences
+
+**Scientists are using AI technology to speak whale**
+ctpublic.org — https://www.ctpublic.org/show/where-we-live/2025-02-24/scientists-are-using-ai-technology-to-speak-whale
+
+A Connecticut Public Radio segment on Project CETI (Cetacean Translation Initiative), which uses machine learning to decode sperm whale click communication (coda sequences), with the eventual goal of two-way communication. **[→ mathematics-science; AI angle → machine-learning-ai]**
+
+**AI is helping to decode animals' speech. Will it also let us talk with them?**
+nature.com — https://www.nature.com/articles/d41586-025-02917-9
+
+A Nature news feature examining the broader field of AI-assisted animal communication research — including work with elephants, bats, whales, and prairie dogs — and asking whether genuine interspecies communication is achievable. **[→ mathematics-science; AI angle → machine-learning-ai]**
+
+**AI-generated birdsongs may shed new light on human language**
+earth.com — https://www.earth.com/news/ai-generated-birdsongs-may-shed-new-light-on-human-language/
+
+An Earth.com article on research using AI-generated birdsong to study how birds learn and produce vocalizations — with implications for understanding the evolutionary origins of human language, since birdsong and human speech share developmental mechanisms. **[→ mathematics-science; language → kannada-language-linguistics; AI → machine-learning-ai]**
+
+**Scientists Put a Human Language Gene Into Mice and Changed Their Voice**
+sciencealert.com — https://www.sciencealert.com/scientists-put-a-human-language-gene-into-mice-and-changed-their-voice
+
+A Science Alert article on research inserting the FOXP2 gene (associated with speech and language in humans) into mice — and observing changes in their vocalizations. FOXP2 is sometimes called the "language gene" though the reality is more complex. **[→ mathematics-science; language evolution → kannada-language-linguistics]**
+
+**When did humans first develop language? Scientists think they know**
+earth.com — https://www.earth.com/news/when-did-humans-first-develop-language-scientists-think-they-know/
+
+An Earth.com article synthesizing recent evidence — from genetics, archaeology, and comparative cognition — to argue that complex human language emerged approximately 135,000 years ago in Africa, earlier than many previous estimates. **[→ mathematics-science; language → kannada-language-linguistics]**
+
+**Intelligence on Earth Evolved Independently at Least Twice**
+wired.com — https://www.wired.com/story/intelligence-evolved-at-least-twice-in-vertebrate-animals/
+
+A Wired article on research suggesting that complex cognition — tool use, problem solving, social learning — evolved independently in at least two vertebrate lineages (mammals and corvids/parrots), implying that intelligence is an evolutionary convergence, not a unique mammalian invention. **[→ mathematics-science; cognition]**
+
+**Back-scratching bovine leads scientists to reassess intelligence of cows**
+theguardian.com — https://www.theguardian.com/science/2026/jan/19/back-scratching-cow-veronika-bovine-intelligence
+
+A Guardian science article about Veronika the cow, whose spontaneous back-scratching behaviour led researchers to reconsider the cognitive complexity of bovine social life. A charming example of how unexpected observations drive scientific revision. **[→ mathematics-science; animal cognition]**
+
+**Sargassum Was a Caribbean Disaster and Now is Pure Gold**
+https://youtu.be/X4rxSz8Oze0
+
+A YouTube video on the transformation of Sargassum seaweed — which has plagued Caribbean beaches in enormous quantities — into a valuable biomaterial resource for building, fertilizer, and packaging. An ecological and economic turnaround story. **[→ mathematics-science; ecology]**
+
+---
+
+## Physics & Astronomy
+
+**MIT Snaps Stunning First Photos of Atoms Interacting in Open Space**
+scitechdaily.com — https://scitechdaily.com/mit-snaps-stunning-first-photos-of-atoms-interacting-in-open-space/
+
+A SciTech Daily article on MIT's achievement of photographing individual atoms in open space (not embedded in a solid or using traditional microscopy) — a breakthrough in quantum imaging with implications for quantum computing and materials science. **[→ mathematics-science]**
+
+**'Impossible' Particle That Crashed into Earth With 100,000 Times the Energy of the LHC**
+zmescience.com — https://www.zmescience.com/space/neutrino-2023-event-exploding-black-hole/
+
+A ZME Science article about an ultra-high-energy neutrino detected by IceCube (South Pole neutrino observatory) carrying energy 100,000 times greater than the LHC's maximum — traced back to a blazing active galactic nucleus (black hole jet). **[→ mathematics-science]**
+
+**Incredible Photo Captures Rare Sprite And ELVE Lightning**
+iflscience.com — https://www.iflscience.com/spectacular-photo-captures-two-rare-atmospheric-phenomena-at-the-same-time-81897
+
+An IFL Science article featuring a photograph simultaneously capturing a sprite (a red upper-atmospheric electrical discharge) and an ELVE (Emission of Light and Very Low Frequency from Electromagnetic Pulse Sources) — two transient luminous events rarely caught in the same frame. **[→ mathematics-science; atmospheric physics]**
+
+**"CHASING ICE" — Largest glacier calving ever filmed**
+https://youtu.be/hC3VTgIPoGU
+
+A YouTube clip from the documentary *Chasing Ice* (2012) showing the largest glacier calving event ever recorded on film — a 75-minute sequence where an area the size of Manhattan breaks off the Greenland ice sheet. Viscerally powerful climate science communication. **[→ mathematics-science; climate; arts-music-film for documentary]**
+
+---
+
+## Technology & Computing
+
+**After Three Years, Modular's CUDA Alternative Is Ready**
+eetimes.com — https://www.eetimes.com/after-three-years-modulars-cuda-alternative-is-ready/
+
+An EE Times article on Modular's GPU computing platform (the Mojo language ecosystem) reaching production readiness as a CUDA alternative — aimed at enabling GPU programming without NVIDIA's proprietary toolchain. **[→ mathematics-science; ML infrastructure → machine-learning-ai]**
+
+**Inside arXiv**
+wired.com — https://www.wired.com/story/inside-arxiv-most-transformative-code-science/
+
+A Wired profile of arXiv, the preprint server that has transformed scientific communication — covering its history, the Cornell Library, Paul Ginsparg's founding vision, and how open preprints reshaped physics, mathematics, and now AI research. **[→ mathematics-science; academic publishing]**
+
+---
+
+## Geology
+
+**10 Oldest Geological Features On Earth**
+listverse.com — https://listverse.com/2016/12/12/10-oldest-geological-features-on-earth/
+
+A Listverse article covering the oldest preserved geological structures on Earth — including Jack Hills zircons (4.4 billion years), Acasta Gneiss (4.0 billion years), and other ancient crustal remnants. A good primer on deep geological time. **[→ mathematics-science; geology]**
+
+**9 Oldest Mountain Ranges in the World**
+oldest.org — https://www.oldest.org/nature/mountain-ranges/
+
+An oldest.org article ranking the world's oldest mountain ranges by age — including the Barberton Greenstone Belt (South Africa, 3.5 billion years), the Watarru Hills (Australia), and other Precambrian ranges. **[→ mathematics-science; geology]**
+
+**Geologists may have solved mystery of Green River's 'uphill' route**
+phys.org — https://phys.org/news/2026-01-geologists-mystery-green-river-uphill.html
+
+A Phys.org article on new research explaining how the Green River (Wyoming/Colorado/Utah) appears to flow "uphill" through the Uinta Mountains — proposing that the river predates the mountain uplift and carved its canyon as the range rose beneath it. **[→ mathematics-science; geology]**

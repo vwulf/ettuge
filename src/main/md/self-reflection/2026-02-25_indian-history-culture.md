@@ -1222,3 +1222,91 @@ The story of Deepak Kumar — a Hindu man who, invoking his own religious duty o
 https://www.youtube.com/watch?v=UNsYkWL2-dY
 
 **[→ indian-history-culture]**
+
+---
+
+## Archaeology & Prehistory
+
+**India's Iron Age began in Tamil Nadu 5,300 years ago**
+deccanherald.com — https://www.deccanherald.com//india/tamil-nadu/indias-iron-age-began-in-tamil-nadu-5300-years-ago-report-3370356
+
+A Deccan Herald article reporting new archaeological findings suggesting India's Iron Age began in Tamil Nadu around 3300 BCE — much earlier than previously thought, predating the mainstream Iron Age narrative by over a millennium. **[→ indian-history-culture]**
+
+**Massive reservoir found at Rakhigarhi**
+theprint.in — https://theprint.in/ground-reports/massive-reservoir-found-at-rakhigarhi-is-giving-us-more-clues-on-saraswati-river/2447317/
+
+A ThePrint ground report on the discovery of a massive water reservoir at Rakhigarhi (Haryana), one of the largest Harappan sites — second only to Dholavira's. The reservoir provides new evidence for the role of the Saraswati/Ghaggar river in sustaining the Indus Valley Civilization. **[→ indian-history-culture]**
+
+**Indo-European Origins: A new Solution to an old Puzzle**
+communities.springernature.com — https://communities.springernature.com/posts/indo-european-origins-a-new-solution-to-an-old-puzzle
+
+A Springer Nature community post summarizing a landmark Nature study on Indo-European language origins, presenting genetic and archaeological evidence for the Yamnaya-steppe origin thesis combined with the Anatolian farmer contribution — synthesizing previously competing hypotheses. **[→ indian-history-culture; linguistics → kannada-language-linguistics]**
+
+**Marija Gimbutas — Wikipedia**
+en.wikipedia.org
+
+The Wikipedia article on Marija Gimbutas (1921–1994), the Lithuanian-American archaeologist who proposed the Kurgan hypothesis for Proto-Indo-European homeland on the Pontic steppe, and who studied pre-Indo-European "Old European" cultures. **[→ indian-history-culture]**
+
+**Pig ancestors, 5,000 years ago — Indus Valley era farmers domesticated wild boars**
+telegraphindia.com — https://www.telegraphindia.com/science-tech/pig-ancestors-5000-years-ago-study-reveals-indus-valley-era-farmers-domesticated-wild-boars-prnt/cid/2086631
+
+A Telegraph India report on a study finding that Indus Valley era farmers in North India independently domesticated wild boars around 5,000 years ago — one of at least six independent pig domestication events globally. **[→ indian-history-culture]**
+
+**We just rebuilt the ancient Indus Valley Civilization in glorious 3D**
+https://youtu.be/bBbE4iOm4cs?si=D22l1Mfz-JK1__6U
+
+A YouTube video presenting a 3D reconstruction of Indus Valley Civilization cities — Mohenjo-Daro or Harappa — using archaeological data and visualization technology. Makes the ancient urban planning tangible and visually impressive. **[→ indian-history-culture]**
+
+**Ancient Sea Routes: Scientists Recreate 30,000-Year-Old Voyage to Japan**
+deccanherald.com — https://www.deccanherald.com/specials/scientists-retrace-30000-year-old-sea-voyage-in-a-hollowed-out-log-3603469
+
+A Deccan Herald article about scientists building a replica dugout canoe to recreate the 30,000-year-old sea voyage that first brought humans to Japan from the Asian mainland — demonstrating that Paleolithic humans had advanced seafaring capability. **[→ indian-history-culture; maritime history]**
+
+**How was the wheel invented? Computer simulations reveal the unlikely birth of a technology**
+theconversation.com — https://theconversation.com/how-was-the-wheel-invented-computer-simulations-reveal-the-unlikely-birth-of-a-world-changing-technology-nearly-6-000-years-ago-244038
+
+A The Conversation article using computational simulations to model how the wheel may have been invented approximately 6,000 years ago — revealing that the key innovation was the axle, not the wheel itself, and that the combination was not intuitive. **[→ indian-history-culture; technology history → mathematics-science]**
+
+**New Findings Suggest Greek Alphabet Is Older Than Previously Thought**
+greekreporter.com
+
+Research pushing back the date of the earliest known Greek alphabetic writing, with implications for the timeline of literacy and writing system diffusion from Phoenicia to Greece. **[→ indian-history-culture; writing systems → kannada-language-linguistics]**
+
+**Why did the peoples of the New World fail to invent the wheel?**
+straightdope.com — https://www.straightdope.com/21341399/why-did-the-peoples-of-the-new-world-fail-to-invent-the-wheel
+
+The Straight Dope examines why pre-Columbian Americas had no practical wheel despite the concept existing in toy form — likely because draft animals capable of pulling wheeled vehicles were absent. **[→ indian-history-culture; anthropology]**
+
+**Wootz — The True Damascus Steel?**
+knifesteelnerds.com — https://knifesteelnerds.com/2024/04/22/wootz-the-true-damascus-steel/
+
+A deep-dive metallurgical article examining Wootz steel — the high-carbon crucible steel developed in South India (especially Tamil Nadu and Karnataka) that became the source material for the legendary Damascus blades traded to the Islamic world and medieval Europe. **[→ indian-history-culture; materials science → mathematics-science]**
+
+**How the Himalayas Changed the World**
+https://youtu.be/Mto0ih2pvC8?si=hrTEwdsTkVuyCH3v
+
+A YouTube video on the geological and climatic impact of the Himalayas — how the uplift of the Tibetan Plateau reshaped monsoon patterns, created the river systems that support billions of people, and influenced human evolution and civilization in Asia. **[→ indian-history-culture; geology → mathematics-science]**
+
+**Western Ghats: The Range of Steps!**
+https://youtu.be/4328L2UVI84?si=i26kjyi1MKoDmRc-
+
+A YouTube video on the Western Ghats — the ancient mountain range along India's western coast, one of the world's eight "hottest hotspots" of biodiversity. The name "Range of Steps" alludes to the dramatic escarpment facing the Arabian Sea. **[→ indian-history-culture; ecology; travel → travel-outdoors]**
+
+---
+
+## Indian Food History
+
+**Poori: The Origin Of One Of India's Favourite Bread**
+slurrp.com — https://www.slurrp.com/article/poori-the-origin-of-one-of-india%E2%80%99s-favourite-bread-1634728442142
+
+A Slurrp article on the history and regional variations of puri (poori), the deep-fried unleavened wheat bread ubiquitous across Indian cuisine. Traces its origins and how it varies from North to South India. **[→ indian-history-culture; food culture]**
+
+**Do Hindus Eat Pork?**
+faithinspires.org — https://faithinspires.org/do-hindus-eat-pork/
+
+An article examining Hindu dietary practices around pork consumption — noting that unlike Islam and some forms of Judaism, Hinduism has no universal prohibition on pork, though regional, caste, and community practices vary widely. **[→ indian-history-culture; food]**
+
+**Celebrating Pakhala Dibasa — Deep dive into Odia cuisine**
+avtans.com — https://avtans.com/2025/03/20/celebrating-pakhala-dibasa-a-deep-dive-into-odia-cuisine/
+
+An article on Pakhala Dibasa (Pakhala Day, March 20), a celebration of Odisha's traditional fermented rice water dish (*pakhala*) — part of a broader revival of interest in regional Indian cuisines. **[→ indian-history-culture; Odia culture; food]**

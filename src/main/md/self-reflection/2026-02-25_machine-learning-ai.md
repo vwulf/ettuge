@@ -1008,3 +1008,12 @@ isotopes.ai — https://isotopes.ai/#about-us
 A collection of personal project ideas captured in notes: (1) procrastination agent — an AI that monitors and nudges against procrastination patterns; (2) Eke subtitle generation — generating romanized Kannada subtitles for Kannada video content; (3) extended Wiktionary from DNS Bhat methodology — using Ellara Kannada word-coining principles to generate etymological entries; (4) self-history clustering — clustering personal notes into an indexed searchable book; (5) research paper translation to Ellara Kannada; (6) team-of-rivals approach for vocabulary (multiple models debating the best native Kannada word for a concept); (7) newsfeed auto-summarization in Kannada.
 
 **[→ machine-learning-ai; kannada-language-linguistics]**
+
+---
+
+## Mechanistic Interpretability
+
+**Grigory Sapunov: Anthropic reverse-engineered Claude 3.5 Haiku — 6D helical manifolds**
+x.com — https://x.com/che_shr_cat/status/2023729615055782140?s=20
+
+A tweet by Grigory Sapunov (an AI researcher) discussing research claiming to reverse-engineer the internal representation structure of Claude 3.5 Haiku — finding that features are organized in 6-dimensional helical manifolds. A fascinating mechanistic interpretability result. **[→ machine-learning-ai]**
