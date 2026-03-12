@@ -1,9 +1,9 @@
-# 28 — ಕನ್ನಡಕ್ಕೆ ಬೇಕು
-**Kannada Needs Its Own Grammar** *(full title: ಕನ್ನಡಕ್ಕೆ ಬೇಕು ಕನ್ನಡದ್ದೇ ವ್ಯಾಕರಣ)*
+# [28] — ಕನ್ನಡಕ್ಕೆ ಬೇಕು
+**Kannada Needs Its Own Grammar**
 
-> Popular advocacy booklet that went to 7 editions — one of Bhat's most widely read works. Argues that Kannada needs a grammar built from Kannada-internal structure rather than borrowed Sanskrit frameworks. Second book in the popular advocacy trilogy; where Book 29 argues *why* grammar matters at all, this book argues *what kind* of grammar Kannada needs.
+> Popular advocacy booklet that went to 7 editions — Bhat’s most widely read work. Argues that Kannada needs a grammar built from Kannada-internal structure, the position developed formally in the Sollarime series (Book 07). Second book in the popular advocacy trilogy.
 
-**✅ Fully processed** · 2000 (1st ed.) · 2013 (7th ed.) · Self-published · 253 pages · Source: Google Drive PDF (7th ed.), Sarvam Vision OCR + WX-decoded — 12,789 lines, 304k Kannada chars
+**✅ Fully processed** · 2000 (1st ed.), 2013 (7th ed.) · © DNS Bhat (self-published) · 253 pages
 
 ---
 
@@ -11,19 +11,19 @@
 
 | File | Contents |
 |------|----------|
-| `28-kannadakke-beku-book.md` | Sarvam Vision OCR + WX-decoded output — 12,789 lines |
-| `28-kannadakke-beku-kn-eke.md` | Eke romanisation — readable without Kannada script — 14 KB |
-| `28-kannadakke-beku-en.md` | English summaries — start here if you don't read Kannada — 25 KB |
-| `28-kannadakke-beku-claude-prompt.md` | AI context primer: key terms, thesis, chapter map — 20 KB |
+| [`28-kannadakke-beku-book.md`](./28-kannadakke-beku-book.md) | Raw OCR text — Sarvam Vision API + WX-decoded output (12,789 lines, 304k Kannada chars) |
+| [`28-kannadakke-beku-kn-eke.md`](./28-kannadakke-beku-kn-eke.md) | Eke romanisation — readable without Kannada script (14 KB) |
+| [`28-kannadakke-beku-en.md`](./28-kannadakke-beku-en.md) | English summaries — start here if you don’t read Kannada (25 KB) |
+| [`28-kannadakke-beku-claude-prompt.md`](./28-kannadakke-beku-claude-prompt.md) | AI context primer: key terms, thesis, chapter map (20 KB) |
 
 ---
 
 ## Where to Start
 
-- **Don't read Kannada?** → [`-en.md`](./28-kannadakke-beku-en.md) — English summaries (25 KB)
-- **Want the phonetics?** → [`-kn-eke.md`](./28-kannadakke-beku-kn-eke.md) — Eke romanisation (14 KB)
-- **Full Kannada text?** → [`-book.md`](./28-kannadakke-beku-book.md) — complete OCR output
-- **AI context primer?** → [`-claude-prompt.md`](./28-kannadakke-beku-claude-prompt.md)
+- **Don’t read Kannada?** → [`28-kannadakke-beku-en.md`](./28-kannadakke-beku-en.md) — English summaries
+- **Want the phonetics?** → [`28-kannadakke-beku-kn-eke.md`](./28-kannadakke-beku-kn-eke.md) — Eke romanisation
+- **AI context primer?** → [`28-kannadakke-beku-claude-prompt.md`](./28-kannadakke-beku-claude-prompt.md)
+- **Full Kannada text?** → [`28-kannadakke-beku-book.md`](./28-kannadakke-beku-book.md)
 
 ---
 
