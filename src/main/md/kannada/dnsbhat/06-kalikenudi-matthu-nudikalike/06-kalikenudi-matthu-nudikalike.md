@@ -49,12 +49,16 @@ Video Link: https://www.youtube.com/watch?v=enhh0H-Rt4s Video ID: enhh0H-Rt4s NO
 
 ---
 
+<a id="part-1"></a>
+
 ## Part 1
 [Watch on YouTube](https://www.youtube.com/watch?v=mclGOqYupR4)
 
 ಹರಿ ಮತ್ತು ಯಾರು ಛೋಟ ಕೊ ಕಟ್ಟತಾ ಗಾಡೋ ನಲ್ಲಿ ಕೊ ನೂಡೀ ಕಾಲೀ ಕೆ ನ ಶಂಕರ ಭಟ್ಟ ಇಂಗ್ಲಿಷ್ ಕೆ ಉತ್ತರ ವಿಜ್ಞಾನ ಬಾದಲ ಅಭಿಷೇಕ ಲತಾ ಮಂಗೇಶ್ಕರ ನಿರಹುಆ ಸೈಕಲ್ ವೀಡಿಯೋ ಗಣಿತ ವಿಜ್ಞಾನ ಅಧ್ಯಾಯ ಗಾನ ಅಭಿಷೇಕ ಕೀ ಕರಿಶ್ಮಾ
 
 ---
+
+<a id="part-2"></a>
 
 ## Part 2
 [Watch on YouTube](https://www.youtube.com/watch?v=rDm3X5ZWpRc)
@@ -63,6 +67,8 @@ Video Link: https://www.youtube.com/watch?v=enhh0H-Rt4s Video ID: enhh0H-Rt4s NO
 
 ---
 
+<a id="part-3"></a>
+
 ## Part 3
 [Watch on YouTube](https://www.youtube.com/watch?v=T-A3CjbxCWY)
 
@@ -70,12 +76,16 @@ Video Link: https://www.youtube.com/watch?v=enhh0H-Rt4s Video ID: enhh0H-Rt4s NO
 
 ---
 
+<a id="part-4"></a>
+
 ## Part 4
 [Watch on YouTube](https://www.youtube.com/watch?v=g_RBjxmF5gw)
 
 ಮಹಾರಾಷ್ಟ್ರ ಮಹಾರಾಷ್ಟ್ರ ವ್ಯಾಕರಣ ದಲ್ಲಿ ಅವಶ್ಯ ಹೀಗೆ ಮಾ ಪಹಾಡ ಲಾಗಿದೆ ಧೀರೆ-ಧೀರೆ ಈ ದೋನು ಸಮಯ ಬರುತ್ತೆ ಸಮಯ ಯದಿ ಪ್ರತಿ ಒಂದು ಕನ್ನಡದಲ್ಲಿ ಹೇಗೆ ರೂಪ ಗಳಿದೆ ಎಂಬ ಕೋಟಿ ಕಂಡೆ ಮಾತ್ರ ಯುಗಾಂಡದ ಹಿಂದಿ ಅನುವಾದ ಮತ್ತು ಮತ್ತು ಮೈಡಲ್ ಗೆ ಗಿಡ ಮಾಡುತ್ತೇವೆ ಹೇಗೆ ಆದರೂ ಮಾರೆ ತಾರೆ ತೊ ಎ ಮಿಲೆ ದಾಗಿ ದಾವ ದಿದ್ದಿ ತೆಲುಗು ವ್ಯಾಕರಣ ಮಾಡುವ ತಮ್ಮ ತಮಿಳು ವ್ಯಾಕರಣ ವಾಗಲು [ಪ್ರಶಂಸೆ] ಸ್ವಭಾವಿಕ ಕಾನೂನು ಮಾಡಿ ಪಡೆದ ಬಲ್ಲೆ ಇಲ್ಲಿ ನವಂಬರ ಸಂಗತಿ ಉದಾಹರಣೆ ಗೆ ಅಮೆರಿಕ ಡಾ ಹವಾಯಿ ಭಿ ಪಕಡ ಲೀ ಜಪಾನ್ ಚೀನ ಕೊರಿಯಾ ಪೋರ್ಚುಗಲ್ ಜಿಂದಾಬಾದ್ ಹವಾಯಿಯನ್ ಸಂಪರ್ಕ
 
 ---
+
+<a id="part-5"></a>
 
 ## Part 5
 [Watch on YouTube](https://www.youtube.com/watch?v=Lx3KxNn5WW4)
@@ -86,6 +96,8 @@ TRANSCRIPT: ====================================================================
 
 ---
 
+<a id="part-6"></a>
+
 ## Part 6
 [Watch on YouTube](https://www.youtube.com/watch?v=QsFV_yIRn-w)
 
@@ -94,6 +106,8 @@ TRANSCRIPT: ====================================================================
 TRANSCRIPT: ================================================================================ كاليتي ماما لدينا انت انت يا كندريلا كراميلي انت هى
 
 ---
+
+<a id="part-7"></a>
 
 ## Part 7
 [Watch on YouTube](https://www.youtube.com/watch?v=TjtcJkQlhGY)
@@ -104,12 +118,16 @@ TRANSCRIPT: ====================================================================
 
 ---
 
+<a id="part-8"></a>
+
 ## Part 8
 [Watch on YouTube](https://www.youtube.com/watch?v=7A7atZR1BfQ)
 
 ಧೀರೆ-ಧೀರೆ ಧೀರೆ-ಧೀರೆ ಗಮನ ಕೊಡಿ ಕೊಡಿ ಕ್ರಮವಾಗಿ ಎಲ್ಲವನ್ನು ಹೇಳಿ ಗೊತ್ತಾಗುವಂತೆ ಧೀರೆ-ಧೀರೆ ಧೀರೆ-ಧೀರೆ
 
 ---
+
+<a id="part-9"></a>
 
 ## Part 9
 [Watch on YouTube](https://www.youtube.com/watch?v=H4_SQg-rc18)
@@ -120,6 +138,8 @@ TRANSCRIPT: ====================================================================
 
 ---
 
+<a id="part-10"></a>
+
 ## Part 10
 [Watch on YouTube](https://www.youtube.com/watch?v=JDxUQBb0ACg)
 
@@ -128,6 +148,8 @@ TRANSCRIPT: ====================================================================
 TRANSCRIPT: ================================================================================ ventaja ahora miren en el hierro Linares y billete de salud modelo cariño TV chalia Aguilar [Música] no obligando la rusa abandonarnos América mató
 
 ---
+
+<a id="part-11"></a>
 
 ## Part 11
 [Watch on YouTube](https://www.youtube.com/watch?v=-8dFeUUZ2_o)
@@ -138,6 +160,8 @@ TRANSCRIPT: ====================================================================
 
 ---
 
+<a id="part-12"></a>
+
 ## Part 12
 [Watch on YouTube](https://www.youtube.com/watch?v=-T09dkqV6KE)
 
@@ -147,12 +171,16 @@ TRANSCRIPT: ====================================================================
 
 ---
 
+<a id="part-13"></a>
+
 ## Part 13
 [Watch on YouTube](https://www.youtube.com/watch?v=MgvDbmyYvM4)
 
 ಅಭಿವೃದ್ಧಿ ದಿಲ್ಲಿ ಸಾಲ ಇಂಟರ್ನೆಟ್ ಇಂಟರ್ನೆಟ್ ಕಾಲೇಜು ಹಾಸ್ಟೆಲ್ ಆದರಣೀಯ ಹಲೋ ಸಂಶೋಧನೆ ಮಾಡೋ ಇಂಗ್ಲಿಷ್
 
 ---
+
+<a id="part-14"></a>
 
 ## Part 14
 [Watch on YouTube](https://www.youtube.com/watch?v=WsC8OqKO8sY)
@@ -161,12 +189,16 @@ TRANSCRIPT: ====================================================================
 
 ---
 
+<a id="part-15"></a>
+
 ## Part 15
 [Watch on YouTube](https://www.youtube.com/watch?v=HRX_xCTZpaI)
 
 ನಾವು ವೀಡಿಯೊ ಪ್ರಶಂಸೆ ಮೂಲ ಮೂಲ ಮತ್ತು ಹಿಂದಿ ವೀಡಿಯೊ
 
 ---
+
+<a id="part-16"></a>
 
 ## Part 16
 [Watch on YouTube](https://www.youtube.com/watch?v=wy63HbHd0As)
@@ -175,6 +207,8 @@ TRANSCRIPT: ====================================================================
 
 ---
 
+<a id="part-17"></a>
+
 ## Part 17
 [Watch on YouTube](https://www.youtube.com/watch?v=kH7s2LDPFjo)
 
@@ -182,12 +216,16 @@ TRANSCRIPT: ====================================================================
 
 ---
 
+<a id="part-18"></a>
+
 ## Part 18
 [Watch on YouTube](https://www.youtube.com/watch?v=TA5PRus2K7Q)
 
 ಇಲ್ಲಿ ಏ ಜೈಕಾಲೇಶ್ವರ ಲಿಮಿಟೇಡ್ ಆಗಿ ಅಕಾಲಿ ಕೇಸರಿಯಾ ಕೀ ಮುಂಡಕ ಕೆಹುವಾ ತರಹ ಇಂಗ್ಲಿಶ್ ಹುಕುಮ್ ಇಂಗ್ಲಿಶ್ ಹೋಲಿ
 
 ---
+
+<a id="part-19"></a>
 
 ## Part 19
 [Watch on YouTube](https://www.youtube.com/watch?v=mFZbqdhuEbg)

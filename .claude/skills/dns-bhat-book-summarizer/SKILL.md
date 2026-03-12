@@ -14,13 +14,14 @@ description: >
 
 # DNS Bhat Book Summarizer
 
-You produce two kinds of output for DNS Bhat linguistics books in:
+You produce three kinds of output for DNS Bhat linguistics books in:
 `/Users/vishwas/code/ettuge/src/main/md/kannada/dnsbhat/`
 
-1. **`{NN}-{slug}-en.md`** — Chapter-wise English summary with cross-links to Kannada source and Eke romanisation
-2. **`{NN}-{slug}-kn-eke.md`** — Eke romanisation of the Kannada content, structured with section anchors
+1. **`{NN}-{slug}-kn.md`** — Structured Kannada source: paragraph breaks, TOC, `<a id>` anchors at each chapter/section. Created from the raw `-book.md` or `-blog.md` if not already present.
+2. **`{NN}-{slug}-en.md`** — Chapter-wise English summary with cross-links to `-kn.md` anchors and Eke romanisation
+3. **`{NN}-{slug}-kn-eke.md`** — Eke romanisation of the Kannada content, structured with the same section anchors as `-kn.md`
 
-These are companion files to the existing Kannada source (`-kn.md` or `-blog.md` or `-book.md`). They make the content accessible to non-Kannada-readers while preserving precise links back to the original.
+The `-kn.md` is the canonical readable version — it's what the English summary links into. The raw `-book.md` or `-blog.md` is the OCR archive and is not modified.
 
 ---
 
@@ -80,7 +81,54 @@ Read the primary source file **and** `*-kn.md` if it exists (for chapter structu
 
 ---
 
-## Step 2: Produce the Eke romanisation file (`*-kn-eke.md`)
+## Step 2: Produce the structured Kannada file (`*-kn.md`) — if absent
+
+If no `-kn.md` exists, create one from the raw `-book.md` or `-blog.md`. The `-kn.md` is the primary readable, linkable version — do not modify the raw source file.
+
+**Paragraph detection in `-book.md` OCR output:**
+- Paragraphs typically begin with a 4-space indent
+- Lines are hard-wrapped at ~65 chars — a paragraph is multiple consecutive lines followed by a blank line or the next indented line
+- Chapter headings are usually short standalone lines (often numbered or in all-caps Kannada)
+- Section subheadings may have a number prefix (e.g., `೧.`, `೨.`) or be formatted distinctively
+
+**`-kn.md` structure:**
+```markdown
+# {Kannada title}
+
+**ಲೇಖಕರು:** ಡಿ. ಎನ್. ಶಂಕರ ಬಟ್
+**ಪ್ರಕಟಣೆ:** {year}, {publisher}
+
+> ಮೂಲ ಪಠ್ಯ: [`{NN}-{slug}-book.md`](./{NN}-{slug}-book.md)
+> ಇಂಗ್ಲಿಶ್ ವಿಶ್ಲೇಷಣೆ: [`{NN}-{slug}-en.md`](./{NN}-{slug}-en.md)
+
+---
+
+## ಒಳಪಿಡಿ
+
+- [ಅಧ್ಯಾಯ ೧ — {title}](#ch1)
+  - [೧.೧ {section}](#sec-1-1)
+
+---
+
+<a id="ch1"></a>
+
+# ಅಧ್ಯಾಯ ೧ — {title}
+[↑ ಒಳಪಿಡಿಗೆ ಹಿಂತಿರುಗಿ](#ಒಳಪಿಡಿ)
+
+---
+
+<a id="sec-1-1"></a>
+
+## ೧.೧ {section title}
+
+{paragraph text with blank lines between paragraphs}
+```
+
+See book 08's `-kn.md` as the reference implementation.
+
+---
+
+## Step 3: Produce the Eke romanisation file (`*-kn-eke.md`)
 
 The Eke file has:
 - Same chapter/section structure as the Kannada source

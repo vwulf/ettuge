@@ -47,6 +47,8 @@ TRANSCRIPT: ====================================================================
 
 ---
 
+<a id="part-1"></a>
+
 ## Part 1
 [Watch on YouTube](https://www.youtube.com/watch?v=_yywGdjvPHQ)
 
@@ -55,6 +57,8 @@ TRANSCRIPT: ====================================================================
 TRANSCRIPT: ================================================================================ is a famous linguist who got many awards like kannada Joshi Etc today his wife bharti but will read one of his books kannada police foreign [Music] foreign foreign
 
 ---
+
+<a id="part-2"></a>
 
 ## Part 2
 [Watch on YouTube](https://www.youtube.com/watch?v=rjQKR_NJgKM)
@@ -65,6 +69,8 @@ TRANSCRIPT: ====================================================================
 
 ---
 
+<a id="part-3"></a>
+
 ## Part 3
 [Watch on YouTube](https://www.youtube.com/watch?v=ZCeqhooYVoQ)
 
@@ -74,12 +80,16 @@ TRANSCRIPT: ====================================================================
 
 ---
 
+<a id="part-4"></a>
+
 ## Part 4
 [Watch on YouTube](https://www.youtube.com/watch?v=zy1RgBHaILs)
 
 ಇಂಗ್ಲಿಷ್ ವಿಷಯವೊಂದು ಬರುವಾಗ ಕನ್ನಡದಲ್ಲಿ ಅದನ್ನು ಹೇಗೆ ಕನ್ನಡ ಸಾಂಗ್
 
 ---
+
+<a id="part-5"></a>
 
 ## Part 5
 [Watch on YouTube](https://www.youtube.com/watch?v=PpXhpYEnPDo)
@@ -90,12 +100,16 @@ TRANSCRIPT: ====================================================================
 
 ---
 
+<a id="part-6"></a>
+
 ## Part 6
 [Watch on YouTube](https://www.youtube.com/watch?v=Ea6W1QIr3NQ)
 
 ಮತ್ತು ಭಾಯಿ ಭಾಯಿ ಇಂಗ್ಲಿಷ್ ವಿಡಿಯೋ [ಸಂಗೀತ] [ಪ್ರಶಂಸೆ] ಇಂಗ್ಲಿಷ್ ಪ್ರೊಡಕ್ಷನ್ ಡಿಸ್ಟ್ರಿಬ್ಯೂಷನ್ ಹಿಂದಿ ಮರಾಠಿ ಉರ್ದು ತಮಿಳು ಯಾ ಕೇಂದ್ರ ಕನ್ನಡ
 
 ---
+
+<a id="part-7"></a>
 
 ## Part 7
 [Watch on YouTube](https://www.youtube.com/watch?v=dYHi4eGD39M)
@@ -106,6 +120,8 @@ TRANSCRIPT: ====================================================================
 
 ---
 
+<a id="part-8"></a>
+
 ## Part 8
 [Watch on YouTube](https://www.youtube.com/watch?v=aXjOIhOKnfw)
 
@@ -115,12 +131,16 @@ TRANSCRIPT: ====================================================================
 
 ---
 
+<a id="part-9"></a>
+
 ## Part 9
 [Watch on YouTube](https://www.youtube.com/watch?v=4ERWE_gKRTI)
 
 ಹಿಂದಿ, ಮಾರವಾಡಿ, ಭಾರಿ ಭಾರಿ ಹೋಲಿಕೆ ಗುಣಾ, ಚೈನೀಸ್ ಚೈನೀಸ್ ಪಂಜಾಬಿ ಗುಣಾ ಪಂಜಾಬಿ ಭಾರತ ಕೃಪೆ ಕೃಷ್ಣ ಕೃಷ್ಣ ದೃಷ್ಟಿ ದೃಶ್ಯ ಋಷಿ ಇಲ್ಲಿ ಲಾಯ್ ದೆ ಪಂಜಾಬಿ ಸಂಪ್ರದಾಯ ಸಂಸ್ಕೃತಿ ಸಂಸ್ಕೃತಿ
 
 ---
+
+<a id="part-10"></a>
 
 ## Part 10
 [Watch on YouTube](https://www.youtube.com/watch?v=MdcQouKBmj0)
@@ -131,12 +151,16 @@ TRANSCRIPT: ====================================================================
 
 ---
 
+<a id="part-11"></a>
+
 ## Part 11
 [Watch on YouTube](https://www.youtube.com/watch?v=dABNPe9wCSE)
 
 ಮರಾಠಿ ಪಂಜಾಬಿ ಅಸ್ಸಾಮೀಸ್ ವಿದ್ಯೆಯಲ್ಲಿ ಅಸ್ಸಾಮೀಸ್ ಭಾರತದ ಅಸ್ಸಾಮೀಸ್ ಯುಗದಲ್ಲಿ ವಿಷಯ ವಿಷಯ ವಿಶೇಷ ಎಂದು ಸಾಗರ ಹಿಂದಿ ಮರಾಠಿ ಪಂಜಾಬಿ
 
 ---
+
+<a id="part-12"></a>
 
 ## Part 12
 [Watch on YouTube](https://www.youtube.com/watch?v=z9S9O4ajuzY)
@@ -147,6 +171,8 @@ TRANSCRIPT: ====================================================================
 
 ---
 
+<a id="part-13"></a>
+
 ## Part 13
 [Watch on YouTube](https://www.youtube.com/watch?v=rdJquejIyM0)
 
@@ -155,6 +181,8 @@ TRANSCRIPT: ====================================================================
 TRANSCRIPT: ================================================================================ في منطقي الله [موسيقى] يبقى عليه [تصفيق] انت [تصفيق] هذا [موسيقى] كله [موسيقى]
 
 ---
+
+<a id="part-14"></a>
 
 ## Part 14
 [Watch on YouTube](https://www.youtube.com/watch?v=Aq_k6LMKo-I)
@@ -165,12 +193,16 @@ TRANSCRIPT: ====================================================================
 
 ---
 
+<a id="part-15"></a>
+
 ## Part 15
 [Watch on YouTube](https://www.youtube.com/watch?v=M_nULm0oUzk)
 
 ಹಿಂದಿ, ತೆಲುಗು, ಸಂಸ್ಕೃತ, ಕನ್ನಡ ಹಾಡುಗಳು, ಇಂಗ್ಲಿಷ್ ಮಾತ್ರ ಸಂಸ್ಕೃತಿ. ಸಾಮಾನ್ಯವಾಗಿ ಮತ್ತು ಸರಸ್ವತಿ. ಹಲೋ ಕನ್ನಡ ಹಾಡುಗಳು. ಕನ್ನಡ ಹಾಡುಗಳು. ಸಂಸ್ಕೃತ ದೇವಿ.
 
 ---
+
+<a id="part-16"></a>
 
 ## Part 16
 [Watch on YouTube](https://www.youtube.com/watch?v=W6y11I85CIU)
@@ -180,6 +212,8 @@ TRANSCRIPT: ====================================================================
 TRANSCRIPT: ================================================================================ كلامك قريتهم ما قد كلامك نهايه ترى واجباته انتهى كلامك بقره ادم قليله وراء الثراء وراء انتهى [موسيقى] [موسيقى] مكه امي
 
 ---
+
+<a id="part-17"></a>
 
 ## Part 17
 [Watch on YouTube](https://www.youtube.com/watch?v=808vV-3N33g)

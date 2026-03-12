@@ -33,6 +33,8 @@
 
 ---
 
+<a id="part-1"></a>
+
 ## Part 1
 [Watch on YouTube](https://www.youtube.com/watch?v=lkx-LmOhI6I)
 
@@ -44,6 +46,8 @@ TRANSCRIPT: ====================================================================
 
 ---
 
+<a id="part-2"></a>
+
 ## Part 2
 [Watch on YouTube](https://www.youtube.com/watch?v=aK1CRXoBTlE)
 
@@ -52,6 +56,8 @@ TRANSCRIPT: ====================================================================
 Video Link: https://www.youtube.com/watch?v=aK1CRXoBTlE Video ID: aK1CRXoBTlE NO_INDIAN_SCRIPT: Content in ar, no Kannada/Devanagari found Original content: وبركاته وانتم اذا لديك ليش
 
 ---
+
+<a id="part-3"></a>
 
 ## Part 3
 [Watch on YouTube](https://www.youtube.com/watch?v=597P4tU0h40)
@@ -62,6 +68,8 @@ TRANSCRIPT: ====================================================================
 
 ---
 
+<a id="part-4"></a>
+
 ## Part 4
 [Watch on YouTube](https://www.youtube.com/watch?v=xP6WmqsqGzs)
 
@@ -70,6 +78,8 @@ TRANSCRIPT: ====================================================================
 TRANSCRIPT: ================================================================================ هلا والله الثوم داله نكشه [موسيقى] هذه الو
 
 ---
+
+<a id="part-5"></a>
 
 ## Part 5
 [Watch on YouTube](https://www.youtube.com/watch?v=g5m0hguKACU)
@@ -80,6 +90,8 @@ TRANSCRIPT: ====================================================================
 
 ---
 
+<a id="part-6"></a>
+
 ## Part 6
 [Watch on YouTube](https://www.youtube.com/watch?v=mCN6yLbt9-Q)
 
@@ -88,6 +100,8 @@ TRANSCRIPT: ====================================================================
 TRANSCRIPT: ================================================================================ طيبين رئيس بابا ارانو لتايمر
 
 ---
+
+<a id="part-7"></a>
 
 ## Part 7
 [Watch on YouTube](https://www.youtube.com/watch?v=BCPfiTsUvmA)
@@ -98,6 +112,8 @@ TRANSCRIPT: ====================================================================
 
 ---
 
+<a id="part-8"></a>
+
 ## Part 8
 [Watch on YouTube](https://www.youtube.com/watch?v=NpsS0ZSx7II)
 
@@ -105,12 +121,16 @@ TRANSCRIPT: ====================================================================
 
 ---
 
+<a id="part-9"></a>
+
 ## Part 9
 [Watch on YouTube](https://www.youtube.com/watch?v=CQYMk6PB3uA)
 
 ಕನ್ನಡ ವ್ಯಾಕರಣ ದೇಶ ಹೈ ಇಂಗ್ಲಿಷ್ ಅಧ್ಯಯನ ಸಂಘಟನೆ ಬಂದೇ ಬೇಟೆ
 
 ---
+
+<a id="part-10"></a>
 
 ## Part 10
 [Watch on YouTube](https://www.youtube.com/watch?v=sVJH-Dom5bY)
@@ -121,6 +141,8 @@ TRANSCRIPT: ====================================================================
 
 ---
 
+<a id="part-11"></a>
+
 ## Part 11
 [Watch on YouTube](https://www.youtube.com/watch?v=1eC_B1cizv0)
 
@@ -129,6 +151,8 @@ TRANSCRIPT: ====================================================================
 TRANSCRIPT: ================================================================================ から指揮者が実家になりバラファンの パイスからのチャリを上げるおやすみ クラシックなども削り合わで 周りほど待って大勢 はあげまわれる から アドバンス 100円でね お願いします [音楽] インターヘッジなき車両のカリスは おっしゃることに アイスクリームからさ 犬の一つの メーカー電流北海道 だけから インターハイデルサー
 
 ---
+
+<a id="part-12"></a>
 
 ## Part 12
 [Watch on YouTube](https://www.youtube.com/watch?v=uCkKbncJyuo)
@@ -139,12 +163,16 @@ TRANSCRIPT: ====================================================================
 
 ---
 
+<a id="part-13"></a>
+
 ## Part 13
 [Watch on YouTube](https://www.youtube.com/watch?v=zy-xGxBRZSc)
 
 ಮೈಂದ್ರ ಅಕ್ಷರ ವಿದ್ಯಾಲಯದಲ್ಲಿ ಕಾರಣ ನಿರ್ದೇಶಿತ ಕ್ರಿಯಾಪದಗಳು ಇಂಗ್ಲಿಷ್ ಮತ್ತು ಕನ್ನಡದಲ್ಲಿ ನಾನಾ ರೀತಿಯಲ್ಲಿ ವಿತರಣೆಯಾಗುತ್ತವೆ ಮತ್ತು ಅವುಗಳ ಸಮಯ
 
 ---
+
+<a id="part-14"></a>
 
 ## Part 14
 [Watch on YouTube](https://www.youtube.com/watch?v=2SyjtbOrdQs)
@@ -155,6 +183,8 @@ TRANSCRIPT: ====================================================================
 
 ---
 
+<a id="part-15"></a>
+
 ## Part 15
 [Watch on YouTube](https://www.youtube.com/watch?v=9oolaEaFFkw)
 
@@ -163,6 +193,8 @@ TRANSCRIPT: ====================================================================
 TRANSCRIPT: ================================================================================ مكتوب يجي ره بيراج الوقارنه مكتوب [موسيقى] اذا كبدلوكو توتو عندنا حلو [تصفيق] كيف يعني الرئيس
 
 ---
+
+<a id="part-16"></a>
 
 ## Part 16
 [Watch on YouTube](https://www.youtube.com/watch?v=raiT6C_6DW0)
@@ -173,6 +205,8 @@ TRANSCRIPT: ====================================================================
 
 ---
 
+<a id="part-17"></a>
+
 ## Part 17
 [Watch on YouTube](https://www.youtube.com/watch?v=4W8nzMdPjeg)
 
@@ -181,6 +215,8 @@ TRANSCRIPT: ====================================================================
 TRANSCRIPT: ================================================================================ ولكن [موسيقى] انت [موسيقى] كريم انت مبروك نعم الطبيعي [موسيقى]
 
 ---
+
+<a id="part-18"></a>
 
 ## Part 18
 [Watch on YouTube](https://www.youtube.com/watch?v=a0xUwIZGzAk)
@@ -191,6 +227,8 @@ TRANSCRIPT: ====================================================================
 
 ---
 
+<a id="part-19"></a>
+
 ## Part 19
 [Watch on YouTube](https://www.youtube.com/watch?v=E1B_gyAhDOc)
 
@@ -199,6 +237,8 @@ TRANSCRIPT: ====================================================================
 Video Link: https://www.youtube.com/watch?v=E1B_gyAhDOc Video ID: E1B_gyAhDOc ERROR: Transcripts are disabled for this video
 
 ---
+
+<a id="part-20"></a>
 
 ## Part 20
 [Watch on YouTube](https://www.youtube.com/watch?v=krNQIH2GQlo)
@@ -209,6 +249,8 @@ TRANSCRIPT: ====================================================================
 
 ---
 
+<a id="part-21"></a>
+
 ## Part 21
 [Watch on YouTube](https://www.youtube.com/watch?v=aReQJ5_L2wA)
 
@@ -217,6 +259,8 @@ TRANSCRIPT: ====================================================================
 TRANSCRIPT: ================================================================================ هلا [تصفيق] هذا الواقع طمني انجيش نوركم ابتدائي [موسيقى] هذا الفيديو
 
 ---
+
+<a id="part-22"></a>
 
 ## Part 22
 [Watch on YouTube](https://www.youtube.com/watch?v=vG70TIoGink)
@@ -227,6 +271,8 @@ TRANSCRIPT: ====================================================================
 
 ---
 
+<a id="part-23"></a>
+
 ## Part 23
 [Watch on YouTube](https://www.youtube.com/watch?v=-vPeBijXr1Y)
 
@@ -236,6 +282,8 @@ TRANSCRIPT: ====================================================================
 
 ---
 
+<a id="part-24"></a>
+
 ## Part 24
 [Watch on YouTube](https://www.youtube.com/watch?v=bn3KCtLtXq0)
 
@@ -244,6 +292,8 @@ TRANSCRIPT: ====================================================================
 TRANSCRIPT: ================================================================================ وانتم ينبع نا منه والنبي لما سمانا لله هكذا تمام [موسيقى]
 
 ---
+
+<a id="part-25"></a>
 
 ## Part 25
 [Watch on YouTube](https://www.youtube.com/watch?v=2uPu36Unvwc)

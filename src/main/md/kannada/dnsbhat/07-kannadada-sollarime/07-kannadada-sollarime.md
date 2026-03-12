@@ -51,6 +51,8 @@ TRANSCRIPT: ====================================================================
 
 ---
 
+<a id="part-1"></a>
+
 ## Part 1
 [Watch on YouTube](https://www.youtube.com/watch?v=HFLrH6eg49I)
 
@@ -59,6 +61,8 @@ TRANSCRIPT: ====================================================================
 TRANSCRIPT: ================================================================================ is a famous linguist who got many awards like kannada Joshi Etc today his daughter malthi Burt is going to read one of his books foreign foreign thank you go do this is foreign
 
 ---
+
+<a id="part-2"></a>
 
 ## Part 2
 [Watch on YouTube](https://www.youtube.com/watch?v=E7Rvg4XgpW8)
@@ -69,12 +73,16 @@ TRANSCRIPT: ====================================================================
 
 ---
 
+<a id="part-3"></a>
+
 ## Part 3
 [Watch on YouTube](https://www.youtube.com/watch?v=Uj3Lfg0JpFc)
 
 ಸೋನು ಗಾನ ನಿರ್ಹುವ ನಿರ್ಹುವ ಗಲ್ಲಿ ಗಲ್ಲಿ ಅಲಿಗಢ್ ಅಲಿಗಢ್
 
 ---
+
+<a id="part-4"></a>
 
 ## Part 4
 [Watch on YouTube](https://www.youtube.com/watch?v=NKbcmr2GQQQ)
@@ -85,12 +93,16 @@ TRANSCRIPT: ====================================================================
 
 ---
 
+<a id="part-5"></a>
+
 ## Part 5
 [Watch on YouTube](https://www.youtube.com/watch?v=PFviQ-mm4Gw)
 
 ಪರಿಚಯ ಪರಿಚಯ ಬರೆದು ಕೊಳ್ಳಿ ಅಂತ ಮಂದಿರ ಪ್ರಶ್ನೆ ಮಾಡುವ ಮಂದಿರ ಪರಿಚಯ ಉಂದು ಉದಾಹರಣೆ ಠೀಕ ಹೈ ಪರಿಚಯ ತನ್ನ ಔಟೋಗ್ರಾಫ್ ಮಾಂತ್ರೋ ಗಾಡೀ ಆತ ಗಾರಿಕ ಹಟ್ ಕೆ ಉದ್ಘಾಟನ ಕೆ
 
 ---
+
+<a id="part-6"></a>
 
 ## Part 6
 [Watch on YouTube](https://www.youtube.com/watch?v=MKfCYjlbr5o)
@@ -99,12 +111,16 @@ TRANSCRIPT: ====================================================================
 
 ---
 
+<a id="part-7"></a>
+
 ## Part 7
 [Watch on YouTube](https://www.youtube.com/watch?v=4gVW_iMtKgs)
 
 ಪ್ರಕಾರ ಏ ಕ್ರಿಯೆ ಕರೊ ಭೇದಗಳು [ಪ್ರಶ್ನೆ] ಮೇಲೆ ಪ್ಲಸ್
 
 ---
+
+<a id="part-8"></a>
 
 ## Part 8
 [Watch on YouTube](https://www.youtube.com/watch?v=YLWEwp5mN3s)
@@ -115,6 +131,8 @@ TRANSCRIPT: ====================================================================
 
 ---
 
+<a id="part-9"></a>
+
 ## Part 9
 [Watch on YouTube](https://www.youtube.com/watch?v=UC8FbIUjPoA)
 
@@ -123,6 +141,8 @@ TRANSCRIPT: ====================================================================
 TRANSCRIPT: ================================================================================ [音楽] 移動するゴリマとジャガイヤがいいな ティラノパダワーギーバラケーは 痩せ方の店でレッド系が決まるのは あるがパンガラで グリーンバイランドもリリースカバー がしてバラバラなど のテニスは 奥山や酒場など 顎がパンがして バンダルキと シルバーパンクが バラけソニー 陰謀型からなモットー の終わりと言わんのメロンパンクが粘土を がらばラッキー 青のユニバで喋んなきゃ 青の氾濫の温度ラジスリンダー 泡のマネール は 泡ノーマットかを言ったら番号 Google ウォルチャーソンに何 ラジエスキルダリング が回ったらグリッドが プラスする マラリンダハンの 顎がプレッシャー がっぽからアイドルがいる 泡の何々のかんだ 青の祓魔師 が 青のJBL icaヘッジの屋酒場だがロウいい派で 脆い選び 丸がいるだろう
 
 ---
+
+<a id="part-10"></a>
 
 ## Part 10
 [Watch on YouTube](https://www.youtube.com/watch?v=4TdAjUNCT-Q)
@@ -133,6 +153,8 @@ TRANSCRIPT: ====================================================================
 
 ---
 
+<a id="part-11"></a>
+
 ## Part 11
 [Watch on YouTube](https://www.youtube.com/watch?v=H5iY_dPH4YU)
 
@@ -141,6 +163,8 @@ TRANSCRIPT: ====================================================================
 TRANSCRIPT: ================================================================================ foreign foreign today is today foreign foreign foreign foreign [Music] foreign foreign attitude today foreign TV foreign [Applause] eBay foreign foreign foreign foreign
 
 ---
+
+<a id="part-12"></a>
 
 ## Part 12
 [Watch on YouTube](https://www.youtube.com/watch?v=jZ1w0f9pleU)
@@ -151,6 +175,8 @@ TRANSCRIPT: ====================================================================
 
 ---
 
+<a id="part-13"></a>
+
 ## Part 13
 [Watch on YouTube](https://www.youtube.com/watch?v=bwDvWCuZfH0)
 
@@ -160,12 +186,16 @@ Video Link: https://www.youtube.com/watch?v=bwDvWCuZfH0 Video ID: bwDvWCuZfH0 ER
 
 ---
 
+<a id="part-14"></a>
+
 ## Part 14
 [Watch on YouTube](https://www.youtube.com/watch?v=f1OnB7cd7UA)
 
 ಪರಿಚಯ ಪತ್ರ ಬಗ್ಗೆ ನೋಟಿಫಿಕೇಶನ್ ಪರಿಚಯ ಪತ್ರ ಪರಿಚಯ ಸೀರಿಯಲ್ [ಸಂಗೀತ] ಪರಿಚಯ ಪರಿಚಯ ಪರಿಚಯ ಪತ್ತಾ ಕರಣ
 
 ---
+
+<a id="part-15"></a>
 
 ## Part 15
 [Watch on YouTube](https://www.youtube.com/watch?v=DZ_6ic6zZzc)
@@ -176,12 +206,16 @@ TRANSCRIPT: ====================================================================
 
 ---
 
+<a id="part-16"></a>
+
 ## Part 16
 [Watch on YouTube](https://www.youtube.com/watch?v=Z7u0JAW43Rc)
 
 ದೇನೆ ವಾಲೆ ಗೇಮ್ ಕೀ ರೀತಿ ವಾಂಟ್ಸ್ ಒನ್ಲೀ ಮಾರ್ವಾಡೀ ಉರ್ದೂ ಉರ್ದೂ ಗಜಲ್ ಪರಿಚಯ
 
 ---
+
+<a id="part-17"></a>
 
 ## Part 17
 [Watch on YouTube](https://www.youtube.com/watch?v=4Ik-Uj_LDUo)
@@ -192,12 +226,16 @@ TRANSCRIPT: ====================================================================
 
 ---
 
+<a id="part-18"></a>
+
 ## Part 18
 [Watch on YouTube](https://www.youtube.com/watch?v=6MtCQBk6o_c)
 
 ಪಾಣಿ ಚರ್ಚೆ ೯ ಮಾರ್ಚ್ ದಲ್ಲಿ ಹೀಗೆ ಏನು ಪತ್ತೆ ಆಯಿತು ಪತ್ತೆ ಮಾಡಲೇಂಗೆ ಇದು ಹೋಟೆಲ್ ಲೇಖನದಲ್ಲಿ ಅಂಕಿತ ದಿಲ್ಲಿ ಗುರುಗ್ರಾಮ ಕೊನೆಯಲ್ಲಿ ಹೀಗೆ ಯಾಕೆ ಬದಲಾಗುತ್ತೋ ಪಾಣಿ ಪರಿಚಯ
 
 ---
+
+<a id="part-19"></a>
 
 ## Part 19
 [Watch on YouTube](https://www.youtube.com/watch?v=9hQ9knfzTKs)
@@ -208,6 +246,8 @@ TRANSCRIPT: ====================================================================
 
 ---
 
+<a id="part-20"></a>
+
 ## Part 20
 [Watch on YouTube](https://www.youtube.com/watch?v=eMSIqhl-MkY)
 
@@ -216,6 +256,8 @@ TRANSCRIPT: ====================================================================
 TRANSCRIPT: ================================================================================ foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign today foreign sorry
 
 ---
+
+<a id="part-21"></a>
 
 ## Part 21
 [Watch on YouTube](https://www.youtube.com/watch?v=v-TAxQLwbpc)
