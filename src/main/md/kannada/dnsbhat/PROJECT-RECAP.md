@@ -250,7 +250,7 @@ All `en.md` files now follow the Book 14 template: every chapter/section heading
 
 ## Eke Romanisation System
 
-**Ellara KannaDa (Eke)** is DNS Bhat's own romanisation of Kannada, designed to be learnable by any Indian and usable by non-Kannada readers. It is the romanisation used throughout the `-kn-eke.md` files.
+**Ellara KannaDa (Eke)** is a romanisation of Kannada devised by Vishwas - inspired by HK protocol and DNS Bhat's ideas, designed to be learnable by any Indian and usable by non-Kannada readers. It is the romanisation used throughout the `-kn-eke.md` files.
 
 ### Core Rules
 
