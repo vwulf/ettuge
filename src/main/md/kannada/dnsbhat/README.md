@@ -134,10 +134,24 @@
 **Mathu Matthu Barahada Naduvina Gondala** *(The Confusion Between Speech and Writing)*
 
 - **ಭಾಷೆ / Language:** Kannada
+- **ಪ್ರಕಟಣೆ / Year:** 2011
+- **ಪ್ರಕಾಶಕರು / Publisher:** ಭಾಷಾ ಪ್ರಕಾಶನ (Bhasha Prakashana), Heggodu, Sagara
+- **ಪುಟಗಳು / Pages:** 142
 - **ವಿಶಯ / Topic:** The fundamental distinction between spoken language and written script
-- **ಮೂಲ / Source:** YouTube transcript
-- **ಗುಣಮಟ್ಟ / Quality:** Partial — corrupted after Part 3 (519 lines)
+- **ಮೂಲ / Source:** YouTube transcript (44 parts)
+- **ಗುಣಮಟ್ಟ / Quality:** ⚠️ Partial — ~25/44 parts cleaned (~57%); Parts 10, 15, 25, 33, 35 disabled; many garbled
 - **ಕಡತ / Folder:** [04-mathu-matthu-barahada-naduvina-gondala/](./04-mathu-matthu-barahada-naduvina-gondala/)
+
+**Files in folder:**
+| File | Contents |
+|------|----------|
+| `04-...-transcript.md` | YouTube transcript (44 parts, ~519 lines — partial) |
+| `04-...-website.md` | Author's website description (stub) |
+| `04-...-en.md` | English thematic summary (7 themes) |
+| `04-...-kn-eke.md` | Eke romanisation of key passages |
+| `04-...-claude-prompt.md` | AI context primer |
+
+**Key Thesis:** Language IS speech — writing is a secondary, artificial representation of speech (*krutaka rUpa*). Kannada has existed as spoken language for millennia; the script is a historical addition. Understanding this distinction is essential for both linguistics and script reform.
 
 ---
 
@@ -145,10 +159,24 @@
 **Mathina Olaguttu** *(The Mystery/Complexity of Language)*
 
 - **ಭಾಷೆ / Language:** Kannada
-- **ವಿಶಯ / Topic:** The deep structure of human language — what makes language work
-- **ಮೂಲ / Source:** YouTube transcript
-- **ಗುಣಮಟ್ಟ / Quality:** Good (539 lines)
+- **ಪ್ರಕಟಣೆ / Year:** 2013 (2nd reprint)
+- **ಪ್ರಕಾಶಕರು / Publisher:** ಭಾಷಾ ಪ್ರಕಾಶನ (Bhasha Prakashana), Heggodu, Sagara
+- **ಪುಟಗಳು / Pages:** 130
+- **ವಿಶಯ / Topic:** Popular introduction to general linguistics for Kannada readers
+- **ಮೂಲ / Source:** YouTube transcript (37 parts)
+- **ಗುಣಮಟ್ಟ / Quality:** ✅ Good — ~27/37 parts cleaned (~73%); Parts 4, 6, 12, 15, 22, 29, 30, 35 disabled or garbled
 - **ಕಡತ / Folder:** [05-mathina-olaguttu/](./05-mathina-olaguttu/)
+
+**Files in folder:**
+| File | Contents |
+|------|----------|
+| `05-...-transcript.md` | YouTube transcript (37 parts, ~539 lines) |
+| `05-...-website.md` | Author's website description (stub) |
+| `05-...-en.md` | English thematic summary (8 themes) |
+| `05-...-kn-eke.md` | Eke romanisation of key passages |
+| `05-...-claude-prompt.md` | AI context primer |
+
+**Key Thesis:** Kannada must be understood on its own terms — not through Sanskrit grammar or English grammatical categories. Covers phonology, word classes, dialect variation, neurolinguistics, and writing systems from a Kannada-first perspective.
 
 ---
 
@@ -222,11 +250,23 @@
 **Havyaka Kannada** *(The Havyaka Dialect of Kannada)*
 
 - **ಭಾಷೆ / Language:** Kannada (popular version)
-- **ವಿಶಯ / Topic:** A popular Kannada-language account of the Havyaka dialect
-- **ಮೂಲ / Source:** YouTube transcript
-- **ಗುಣಮಟ್ಟ / Quality:** ⚠️ Mostly corrupted (387 lines)
+- **ಪ್ರಕಟಣೆ / Year:** 2017 (self-published)
+- **ವಿಶಯ / Topic:** Popular Kannada account of the Havyaka dialect, its geography, history, and phonological/morphological features
+- **ಮೂಲ / Source:** YouTube transcript (43 parts: P1–P6 preamble + Parts 1–37)
+- **ಗುಣಮಟ್ಟ / Quality:** ⚠️ Partial — ~72/88 transcript slots cleaned (~82%); early parts (1–14) most affected; best content in Parts 11, 27–29
 - **ಕಡತ / Folder:** [09-havyaka-kannada/](./09-havyaka-kannada/)
 - **See also:** [20 — Havyaka Outline Grammar 1971](./20-havyaka-outline-grammar/) (academic English version)
+
+**Files in folder:**
+| File | Contents |
+|------|----------|
+| `09-...-transcript.md` | YouTube transcript (43 parts, ~387 lines) |
+| `09-...-website.md` | Author's website description (stub) |
+| `09-...-en.md` | English thematic summary (5 themes) |
+| `09-...-kn-eke.md` | Eke romanisation of key passages |
+| `09-...-claude-prompt.md` | AI context primer |
+
+**Key Thesis:** Havyaka Kannada is a fully independent dialect that preserves Proto-Dravidian phonological and morphological features absent from written Kannada — making it an irreplaceable source for reconstructing Kannada's linguistic history. DNS Bhat was born into the Havyaka community.
 
 ---
 

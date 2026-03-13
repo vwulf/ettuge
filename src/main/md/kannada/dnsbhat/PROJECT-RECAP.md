@@ -46,12 +46,12 @@ The full registry is in [`README.md`](./README.md). Summary:
 | 01 | Idu Kannadade Vyakarana | Kn | Native grammar framework | ✅ Transcript | ❌ |
 | 02 | Hosapadagalannu Kattuva Bage | Kn | Word formation | ✅ Transcript + 15 blog posts | ✅ full |
 | 03 | Kannada Padagala Olarachane | Kn | Morphology | ✅ Transcript + OCR | ✅ full |
-| 04 | Mathu Matthu Barahada Gondala | Kn | Speech vs. writing | ⚠️ Partial | ❌ |
-| 05 | Mathina Olaguttu | Kn | Deep structure of language | ✅ Transcript | ❌ |
+| 04 | Mathu Matthu Barahada Gondala | Kn | Speech vs. writing | ⚠️ Partial (25/44 parts) | ✅ full |
+| 05 | Mathina Olaguttu | Kn | Deep structure of language | ✅ Transcript (27/37 parts) | ✅ full |
 | 06 | Kalikenudi Matthu Nudikalike | Kn | Language acquisition | ❌ Corrupted | ❌ |
 | 07 | Kannadada Sollarime (7 vols) | Kn | Complete grammar | ⚠️ Partial + OCR vol1+2 | ✅ full |
 | 08 | Kannadakke Mahaprana Yake Beda | Kn | Script reform (aspirates) | ✅ Full text | ✅ full |
-| 09 | Havyaka Kannada | Kn | Havyaka dialect (popular) | ⚠️ Corrupted | ❌ |
+| 09 | Havyaka Kannada | Kn | Havyaka dialect (popular) | ⚠️ Partial (72/88 slots) | ✅ full |
 | 10 | Kannada Nudiya Hinnadavali | Kn | History of Kannada | ⚠️ Corrupted | ❌ |
 | 11 | Kannada Barahada Padasamasye | Kn | Orthographic problems | ❌ Corrupted | ❌ |
 | 12 | Kannada Bhasheya Kalpita Charitre | Kn | Reconstructed history | ✅ Short excerpt | ❌ |
@@ -219,7 +219,7 @@ Created `en.md` + `kn-eke.md` + `claude-prompt.md` for all 5 remaining unprocess
 - `en.md` — English analysis with **10 word-formation pattern sections**: N+N compounding, verb-derived nouns (-ta/-ike/-uge/-me/-vu), agent nouns (-ga/-uga/-gAra), ಅರಿಮೆ domain names, ಮನೆ institutions, ಗಾಳಿ air-cluster, ಮಾಂಜುಗೆ therapy compounds, productive prefixes, and more
 - `claude-prompt.md` — Rich AI primer: 6-step word-generation decision tree, 11 domain-specific head-noun cluster tables, 100 curated entries by domain, common mistakes table (Sanskrit vs native), philosophical frame
 
-### Phase 8 — Cross-link Audit & Fixes; Book 15 kn-eke Restructure (2026-03-13)
+### Phase 8 — Cross-link Audit & Fixes; Book 15 kn-eke Restructure; Transcript Book Processing (2026-03-13)
 
 **Cross-link audit** — systematic review of all processed books revealed inconsistent cross-linking in `en.md` files:
 
@@ -235,6 +235,16 @@ All `en.md` files now follow the Book 14 template: every chapter/section heading
 - Removed: analytical kaTTaNe pattern tables (those belong in `en.md`)
 - Retained: Eke romanisation of actual munnuDi (preface), irusarikegaLu (conventions), and all A–Az dictionary entries with usage examples
 - Title updated to `ingliS-kannaDa padanerake — Eke mUla` to make the source-text nature explicit
+
+**Transcript books 04, 05, 09 fully processed** — first systematic processing of YouTube-transcript-only books. Each had only a raw `.md` transcript and a website stub; now all three have a complete set of structured files:
+
+| Book | Source Quality | en.md | kn-eke.md | claude-prompt.md |
+|------|----------------|-------|-----------|-----------------|
+| 04 — Mathu Matthu Barahada Gondala | ~25/44 parts (~57%) | ✅ 7 themes | ✅ key passages | ✅ AI primer |
+| 05 — Mathina Olaguttu | ~27/37 parts (~73%) | ✅ 8 themes | ✅ key passages | ✅ AI primer |
+| 09 — Havyaka Kannada | ~72/88 slots (~82%) | ✅ 5 themes | ✅ key passages | ✅ AI primer |
+
+**Methodology for transcript books:** Unlike OCR books, transcript books have no continuous chapter text — only partial lecture recordings with gaps. The `en.md` files use a "Thematic Structure (Replacing Table of Contents)" format with coverage notes per section indicating which parts are readable vs. garbled. The `kn-eke.md` files extract and romanise the best available passages (rather than attempting whole-book coverage). The `claude-prompt.md` files follow the standard template adapted for transcript-quality sources, including explicit source limitation notes.
 
 ---
 
@@ -277,7 +287,7 @@ All `en.md` files now follow the Book 14 template: every chapter/section heading
 
 ---
 
-## Current File Status (2026-03-11)
+## Current File Status (2026-03-13)
 
 ### ✅ Fully processed (en.md + kn-eke.md + claude-prompt.md)
 
@@ -285,10 +295,13 @@ All `en.md` files now follow the Book 14 template: every chapter/section heading
 |------|--------------|
 | 02 — Hosapadagalannu Kattuva Bage | book-website + blog + kn + kn-eke + en + claude-prompt |
 | 03 — Padagala Olarachane | book + kn-eke + en + claude-prompt |
-| 15 — Inglish Kannada Padanerake | book (53p sample) + kn-eke + en + claude-prompt |
+| 04 — Mathu Matthu Barahada Gondala | transcript + website + kn-eke + en + claude-prompt |
+| 05 — Mathina Olaguttu | transcript + website + kn-eke + en + claude-prompt |
 | 07 — Kannadada Sollarime | vol1-book + vol2-book + kn-eke + en + claude-prompt |
 | 08 — Mahaprana Yake Beda | book + djvu + kn + kn-eke + en + claude-prompt |
+| 09 — Havyaka Kannada | transcript + website + kn-eke + en + claude-prompt |
 | 14 — Nijakku Halegannada | book + djvu + blog + kn + kn-eke + en + claude-prompt |
+| 15 — Inglish Kannada Padanerake | book (53p sample) + kn-eke + en + claude-prompt |
 | 17 — Nudi Nadedu Banda Dari | book + kn-eke + en + claude-prompt |
 | 18 — Nudiya Bagege Chintane | blog + kn-eke + en + claude-prompt |
 | 20 — Havyaka Outline Grammar | djvu + en + claude-prompt |
@@ -299,7 +312,7 @@ All `en.md` files now follow the Book 14 template: every chapter/section heading
 
 ### ❌ Not yet processed — no PDF source available
 
-Books 01, 04, 05, 06, 09, 10, 11, 12, 13 — YouTube transcripts only, too corrupted/short for full processing.
+Books 01, 06, 10, 11, 12, 13 — YouTube transcripts only, too corrupted/short for full processing.
 
 ### ❌ PDFs exist in Google Drive but text not yet extracted
 
@@ -364,6 +377,24 @@ dnsbhat/
 │   ├── 03-...-kn-eke.md              # ★ Eke romanisation
 │   ├── 03-...-en.md                  # ★ English summaries
 │   └── 03-...-claude-prompt.md       # ★ AI primer
+├── 04-mathu-matthu-barahada-naduvina-gondala/
+│   ├── 04-....md                     # YouTube transcript (~519 lines, 25/44 parts)
+│   ├── 04-...-website.md             # Author's website stub
+│   ├── 04-...-kn-eke.md              # ★ Eke romanisation of key passages
+│   ├── 04-...-en.md                  # ★ English thematic summary (7 themes)
+│   └── 04-...-claude-prompt.md       # ★ AI primer
+├── 05-mathina-olaguttu/
+│   ├── 05-....md                     # YouTube transcript (~539 lines, 27/37 parts)
+│   ├── 05-...-website.md             # Author's website stub
+│   ├── 05-...-kn-eke.md              # ★ Eke romanisation of key passages
+│   ├── 05-...-en.md                  # ★ English thematic summary (8 themes)
+│   └── 05-...-claude-prompt.md       # ★ AI primer
+├── 09-havyaka-kannada/
+│   ├── 09-....md                     # YouTube transcript (~387 lines, 72/88 slots)
+│   ├── 09-...-website.md             # Author's website stub
+│   ├── 09-...-kn-eke.md              # ★ Eke romanisation of key passages
+│   ├── 09-...-en.md                  # ★ English thematic summary (5 themes)
+│   └── 09-...-claude-prompt.md       # ★ AI primer
 ├── 07-kannadada-sollarime/
 │   ├── 07-...-vol1-book.md           # ★ Sarvam OCR (327 pages)
 │   ├── 07-...-vol2-book.md           # ★ Sarvam OCR (301 pages)
