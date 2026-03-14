@@ -258,9 +258,9 @@ All `en.md` files now follow the Book 14 template: every chapter/section heading
 |---------|-----------|---------|
 | Short vowels | lowercase | a i u e o |
 | Long vowels | UPPERCASE | A I U E O |
-| No aspirates | ಭ→b, ಧ→d, ಖ→k, ಥ→t, ಫ→p | bAsha, baddu |
-| Retroflexes | UPPERCASE consonant | T D N L S (ಟ ಡ ಣ ಳ ಷ) |
-| ಶ | s | sollarime |
+| No aspirates | ಭ→b, ಧ→d, ಖ→k, ಥ→t, ಫ→p | bhASha, karnATaka |
+| Retroflexes | UPPERCASE consonant | T D N L (ಟ ಡ ಣ ಳ) |
+| ಶ | S | SiLLe |
 | ಹ | h | hesaru |
 | Anusvara assimilation | context-sensitive nasal | ಂಕ→nk, ಂಗ→ng, ಂತ→nt, ಂದ→nd, ಂಪ→mp, ಂಬ→mb |
 
