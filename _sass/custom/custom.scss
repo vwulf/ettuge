@@ -1,0 +1,27 @@
+// Custom font overrides for ettuge — serif body, monospace for Eke romanisation
+
+// Body text: serif for clear I / l / L distinction
+.main-content {
+  font-family: Georgia, "Times New Roman", "Noto Serif", serif;
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+// Code / inline code: monospaced for Eke romanisation
+.main-content code,
+.main-content pre,
+.main-content pre code {
+  font-family: "Cascadia Code", "JetBrains Mono", "Fira Code",
+               "Source Code Pro", "Courier New", monospace;
+}
+
+// Tables: slightly smaller, readable
+.main-content table {
+  font-size: 14px;
+}
+
+// Sidebar nav: keep sans-serif (navigation doesn't need serif)
+.site-nav,
+.site-header {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
