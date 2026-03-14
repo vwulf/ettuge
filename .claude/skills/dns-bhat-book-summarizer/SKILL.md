@@ -252,7 +252,8 @@ Eke is a romanisation system designed by Vishwas, inspired by Hosabaraha and Har
 | ಎ | e | | ಏ | E |
 | ಒ | o | | ಓ | O |
 | ಐ | ay | | ಔ | av |
-| ಂ (anusvara) | M (or nasal+following C) | | ಃ visarga | H |
+| ಋ / ೃ (vocalic r, short) | **x** | | ೠ / ೄ (vocalic r, long) | **X** |
+| ಂ (anusvara) | nasal+C *(always assimilated — never M; see Anusvara section below)* | | ಃ visarga | H |
 
 ### Consonants — case rule: **uppercase = retroflex or special**
 | Kannada | Eke | | Kannada | Eke |
@@ -264,8 +265,9 @@ Eke is a romanisation system designed by Vishwas, inspired by Hosabaraha and Har
 | ಪ | p | | ಬ | b |
 | ಮ | m | | ನ | n |
 | ಣ | **N** | | ಯ | y |
-| ರ | r | | ಲ | l |
+| ರ | r *(always lowercase — **R is exclusively ಱ, never ರ**)* | | ಲ | l |
 | ಳ | **L** | | ವ | v |
+| ಱ | **R** *(archaic retroflex ṟ — extremely rare in modern Kannada)* | | | |
 | ಸ | s | | ಶ | **S** |
 | ಹ | h | | ಷ | **S** (same as ಶ in EK) |
 

@@ -106,9 +106,9 @@ hAlakI kannaDadalli sa kAra, ca kAra vAgatade. gauDa kannaDadalli I mArupADu aga
 | sAru | cAru | "cannagiruva / sariyAda" |
 | seDila | ceDala | — |
 | tabu → sAka | cAka / naka | (a → u mArupADu) |
-| caMdA | caMdA | — |
+| candA | candA | — |
 | cappar | ceppar | — |
-| caMDe | ceMDe | — |
+| canDe | cenDe | — |
 | callu | cellu | — |
 | jagalI | jagalI | — |
 

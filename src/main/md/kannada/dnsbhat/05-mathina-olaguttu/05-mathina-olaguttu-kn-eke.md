@@ -15,10 +15,10 @@
 - [viShaya 2 — svana vyavasthe mattu svanima vargIkaraNa](#theme-2)
 - [viShaya 3 — vyAkaraNa, pada vargIkaraNa mattu arta](#theme-3)
 - [viShaya 4 — karnATakada oLanuDigaLa vividate](#theme-4)
-- [viShaya 5 — nuDi kutumba mattu saMskruta mUla mita](#theme-5)
+- [viShaya 5 — nuDi kutumba mattu samskxta mUla mita](#theme-5)
 - [viShaya 6 — miduLu mattu mAtu — nuDigijjAna](#theme-6)
 - [viShaya 7 — lipi mattu baraha vyavasthe](#theme-7)
-- [viShaya 8 — saMskruta Adalikegaula mattu baraha takarar](#theme-8)
+- [viShaya 8 — samskxta Adalikegaula mattu baraha takarar](#theme-8)
 
 ---
 
@@ -34,7 +34,7 @@
 
 mAnava mAtina vyavaste bahaLa sankIrNavAda vyavaste. prani mAtinalli ee rIti vyavaste illa. mAnava mAtinalli eraDu staragai keLasa naDeyuttade — artavilla svanima staragai mattu artavulla pada-vAkya staragai.
 
-kannaDa bASeyalli sumAru mUvattu svanimegaLive. ee cikit svanima gaLinda lekshaM padagaLa nirmANa sADyavAguttade. praNi saMkEtagaLalli ee dvistara vyavasthe illa.
+kannaDa bASeyalli sumAru mUvattu svanimegaLive. ee cikit svanima gaLinda leksham padagaLa nirmANa sADyavAguttade. praNi sankEtagaLalli ee dvistara vyavasthe illa.
 
 > *(bagagaLu 3, 5 kannaDavagalilla; baga 6 dorakalavillDa)*
 
@@ -50,9 +50,9 @@ kannaDa bASeyalli sumAru mUvattu svanimegaLive. ee cikit svanima gaLinda lekshaM
 
 **baga 10 (muKya viShaya — kannaDa svalaksaNa):**
 
-kannaDa bASeyalli vAkya ramaNe Subject-Object-Verb (SOV) krameya anuDuttade. ee ramaNe saMskruta mattu ingliSinalli iruva ramaNege binna. saMskruta ramaNe ingliS ramaNe — yAvuDU kannaDa ramaNeyE alla.
+kannaDa bASeyalli vAkya ramaNe Subject-Object-Verb (SOV) krameya anuDuttade. ee ramaNe samskxta mattu ingliSinalli iruva ramaNege binna. samskxta ramaNe ingliS ramaNe — yAvuDU kannaDa ramaNeyE alla.
 
-kannaDa bASeyalli nAmapada anantara vibakti pratyaya bAruttade (oTTu pada). ee svalakSaNa draviDa bASegaLige sAdAraNa. saMskruta vyAkaraNa padDate kannaDakke sari hOguvudilla. kannaDa bASeyanu kannaDa bASeyE dRuShTikONadalli ariabEku.
+kannaDa bASeyalli nAmapada anantara vibakti pratyaya bAruttade (oTTu pada). ee svalakSaNa draviDa bASegaLige sAdAraNa. samskxta vyAkaraNa padDate kannaDakke sari hOguvudilla. kannaDa bASeyanu kannaDa bASeyE druShTikONadalli ariabEku.
 
 **baga 11 (svana badalAvaNe):**
 
@@ -72,13 +72,13 @@ kannaDa bASeyalli badalAvaNegaLu niyamitavAgi naDeyuttave. pratyeka oLanuDiyalli
 
 **baga 13 (pada vargIkaraNa):**
 
-kannaDa bASeyalli padagaLu vivida vargagaLalli bAruttave — nAmapada, kriyApada, mattu vibakti/upasarga padagaLu. ee vargIkaraNa saMskruta mattu ingliSina padagaLa vargIkaraNakke bhinna.
+kannaDa bASeyalli padagaLu vivida vargagaLalli bAruttave — nAmapada, kriyApada, mattu vibakti/upasarga padagaLu. ee vargIkaraNa samskxta mattu ingliSina padagaLa vargIkaraNakke bhinna.
 
 nAma mattu kriyA padagaLu "tereda varga" — haLe padagaLu hOgi haLe padagaLu baruttave. vibakti mattu sAmIpya padagaLu "mUDida varga" — ivugaLa seNe niScitagoni irutte.
 
 **baga 14 (sandarbha mattu arta):**
 
-padagaLa arta sandarbhavE nirNayisuttade. ekAki padavondu niScitoLLa arta hoMdiruvudilla. mAtanADuvAga sandarbhavu padada artavanu nirdESisuttade. ee satyavu kannaDa vyAkaraNa adyayanadalli muKyavAdudu.
+padagaLa arta sandarbhavE nirNayisuttade. ekAki padavondu niScitoLLa arta hondiruvudilla. mAtanADuvAga sandarbhavu padada artavanu nirdESisuttade. ee satyavu kannaDa vyAkaraNa adyayanadalli muKyavAdudu.
 
 > *(bagagaLu 13, 14, 15 dorakide)*
 
@@ -110,19 +110,19 @@ oLanuDigaLalli kAla rUpagaLu bhinnA bhinnA irutte. karAvaLi oLanuDi rUpagaLu bar
 
 <a id="theme-5"></a>
 
-## viShaya 5 — nuDi kutumba mattu saMskruta mUla mita
+## viShaya 5 — nuDi kutumba mattu samskxta mUla mita
 
 *bagagaLu 20–21*
 
 [📼 bagagaLu 20–21 →](./05-mathina-olaguttu.md#part-20)
 
-**baga 20 (muKya viShaya — saMskruta mUla tarku):**
+**baga 20 (muKya viShaya — samskxta mUla tarku):**
 
-namma nADinalli kelavar kannaDakke saMskruta mUlavide annuttAre. I tiLuvAlike tappAda tiLuvAlike.
+namma nADinalli kelavar kannaDakke samskxta mUlavide annuttAre. I tiLuvAlike tappAda tiLuvAlike.
 
-saMskrutadinda hindi, marATi, gujarAti, panjAbi, bAngalA moDalAdavu bandive. I rIti saMskrutadinda kannaDa bandide endu hELuvudu sADyavilla. kAraNa kannaDa mattu saMskruta naDuve vyAkaraNadalli halavAru vyatyAsagaLive.
+samskxtadinda hindi, marATi, gujarAti, panjAbi, bAngalA moDalAdavu bandive. I rIti samskxtadinda kannaDa bandide endu hELuvudu sADyavilla. kAraNa kannaDa mattu samskxta naDuve vyAkaraNadalli halavAru vyatyAsagaLive.
 
-kannaDa draviDa bASeyA SAKe. isaragu saMskruta kaDe AbimAna iDikoNDiruvudu sAMskrtika kAraNakke. adarE bASAvaijJAnika dRuShTikONadalli — saMskrutadinda kannaDa baralavillDa.
+kannaDa draviDa bASeyA SAKe. isaragu samskxta kaDe AbimAna iDikonDiruvudu sAmskrtika kAraNakke. adarE bASAvaijJAnika druShTikONadalli — samskxtadinda kannaDa baralavillDa.
 
 > *(baga 21 heccAgi kannaDavagalilla; muKya vicAra sandarbhadinda tILisida)*
 
@@ -138,15 +138,15 @@ kannaDa draviDa bASeyA SAKe. isaragu saMskruta kaDe AbimAna iDikoNDiruvudu sAMsk
 
 **baga 26 (muKya viShaya — bAyina raNe):**
 
-manga mattu mAnava naDuve mAtinalli bheda yAke? mangana bAyina banAvaTu mAnava bAyina banAvaTige bhinnA. mAnava kanTadalli grAsanALa mattu SnaSanALa bEreppaDuva jAga mAnavakke heccina sthAna nIDuttade — eelagA heccina svara mattu vyanjana uNTu mADuva jAga siguttade.
+manga mattu mAnava naDuve mAtinalli bheda yAke? mangana bAyina banAvaTu mAnava bAyina banAvaTige bhinnA. mAnava kanTadalli grAsanALa mattu SnaSanALa bEreppaDuva jAga mAnavakke heccina sthAna nIDuttade — eelagA heccina svara mattu vyanjana unTu mADuva jAga siguttade.
 
-mangana bAyiyalli ee bAguvada jAga koraccu iruvudinda avanu mAnava mAtina pUrNa svara-vyanjana saMkEtavannu uNTu mADabaruvatilla.
+mangana bAyiyalli ee bAguvada jAga koraccu iruvudinda avanu mAnava mAtina pUrNa svara-vyanjana sankEtavannu unTu mADabaruvatilla.
 
 **baga 27 (miduLu viBajane):**
 
-namma talege eraDu bAgaLive — bala miduLu, eDa miduLu. eDa bAgavu namma dEhada bala bAgavannu niyaMtrisuttade; bala bAgavu eDa bAgavannu niyaMtrisuttade.
+namma talege eraDu bAgaLive — bala miduLu, eDa miduLu. eDa bAgavu namma dEhada bala bAgavannu niyantrisuttade; bala bAgavu eDa bAgavannu niyantrisuttade.
 
-bala miduLinallli parSvavAyu mattu ee rOgagaLu bandAga avara mAtinalli takarar AguttavE hogi sariyAgi bEre kElasagaLalli takarar Aguvudilla. I sOdhanegaLu miduLu mattu mAtina saMbandavannu spashTa padisuttade.
+bala miduLinallli parSvavAyu mattu ee rOgagaLu bandAga avara mAtinalli takarar AguttavE hogi sariyAgi bEre kElasagaLalli takarar Aguvudilla. I sOdhanegaLu miduLu mattu mAtina sambandavannu spashTa padisuttade.
 
 **baga 28 (canna kannaDa — baraha mattu mAtu):**
 
@@ -168,21 +168,21 @@ eraDu oLaginavarU nADigaLannu kaLitukondavara makkaLu — eka bAShEya makkaLige 
 
 **baga 31 (muKya viShaya — baraha vargagaLu):**
 
-mAtu modalu, baraha anantara. kannaDa mAtannu bareyuva kElasa sumAru eraDu sAvira varSagaLa hindE AraMbhavAyitu. adarE mAtu halavAru sAvira varSagaLinda svantaMtra nuDiyAgi iDe.
+mAtu modalu, baraha anantara. kannaDa mAtannu bareyuva kElasa sumAru eraDu sAvira varSagaLa hindE ArambhavAyitu. adarE mAtu halavAru sAvira varSagaLinda svantantra nuDiyAgi iDe.
 
-bAratada bahutEka nuDigaLu inDO-yUrOpiyaN, drAviDa, munDA mattu TibeTo-barmaN enba nAlku mukya mUlagaLinda bEre bEre bandive. adarE bAratada heccina nuDigaLa lipigaLu ee nAlku mUlagaLiMda bEre bandilla — heccina bAratIya nuDigaLu brAmI lipiyinda beLedu bandivE. kOri prAkruta-saMskruta bALakeyalli bandida ee lipi.
+bAratada bahutEka nuDigaLu inDO-yUrOpiyaN, drAviDa, munDA mattu TibeTo-barmaN enba nAlku mukya mUlagaLinda bEre bEre bandive. adarE bAratada heccina nuDigaLa lipigaLu ee nAlku mUlagaLinda bEre bandilla — heccina bAratIya nuDigaLu brAmI lipiyinda beLedu bandivE. kOri prAkruta-samskxta bALakeyalli bandida ee lipi.
 
 **baga 32 (bAratIya lipiya svalakSaNa):**
 
-brAmI lipiMda beLedu bandida dEvAnAgari, kannaDa, teLugu, oDiyA moDalAda lipigaLu uccAraNa aDipAyada mEle vyanjana gaLannu paTTi mADide: ka ka ga ga Na / ca ca ja ja ja / Ta Ta Da Da Na / ta ta da da na / pa pa ba ba ma. ee vaiJJAnika rIti.
+brAmI lipinda beLedu bandida dEvAnAgari, kannaDa, teLugu, oDiyA moDalAda lipigaLu uccAraNa aDipAyada mEle vyanjana gaLannu paTTi mADide: ka ka ga ga Na / ca ca ja ja ja / Ta Ta Da Da Na / ta ta da da na / pa pa ba ba ma. ee vaiJJAnika rIti.
 
 adarE rOman lipi bErE prameyadalli heccina anukULa: rOman lipiya akSaragaLu eLabareyalu sADAraNa. bAratIya lipiyalli halavAru akSaravannu bEresu bEresi bareyabEkAguttade — ee kAraNa halavAru samaya tEgeDukoLLuttade.
 
 **baga 33 (baraha takarar):**
 
-mAtinalli badalAvaNegaLu AgiddarU baraha hAganE kaDeyaguttade. ingliSinalli ee samasyave: bareyuva niyama mattu uccAraNe naDuve dUrida kAraNa I lipinalli heccina takarar. kannaDa birasAru ee samasyeyinda heccAgi tappisikoNDarU — kannaDa padagaLannu uccAraNEga anugaNave bareyuvudu.
+mAtinalli badalAvaNegaLu AgiddarU baraha hAganE kaDeyaguttade. ingliSinalli ee samasyave: bareyuva niyama mattu uccAraNe naDuve dUrida kAraNa I lipinalli heccina takarar. kannaDa birasAru ee samasyeyinda heccAgi tappisikonDarU — kannaDa padagaLannu uccAraNEga anugaNave bareyuvudu.
 
-adarE saMskruta Adalike padagaLannu saMskruta lipiyalli baredare — mAtu-baraha naDuve takarar uguttade.
+adarE samskxta Adalike padagaLannu samskxta lipiyalli baredare — mAtu-baraha naDuve takarar uguttade.
 
 > *(bagagaLu 31, 32, 33 dorakide)*
 
@@ -190,16 +190,16 @@ adarE saMskruta Adalike padagaLannu saMskruta lipiyalli baredare — mAtu-baraha
 
 <a id="theme-8"></a>
 
-## viShaya 8 — saMskruta Adalikegaula mattu baraha takarar
+## viShaya 8 — samskxta Adalikegaula mattu baraha takarar
 
 *bagagaLu 34–37*
 
 [📼 bagagaLu 34–37 →](./05-mathina-olaguttu.md#part-34)
 
-**baga 36 (saMskruta Adalikegaulu):**
+**baga 36 (samskxta Adalikegaulu):**
 
-kannaDa bASe eraDu sahasra varSagaLinda saMskruta padagaLannu tannalli tagonDidE. ee Adalike padagaLu eraDu bAgava: (1) kannaDa svana vyavastEge hondikonda padagaLu mattu (2) saMskruta uccAraNeyanu kaDeyAgisikondiruvA padagaLu.
+kannaDa bASe eraDu sahasra varSagaLinda samskxta padagaLannu tannalli tagonDidE. ee Adalike padagaLu eraDu bAgava: (1) kannaDa svana vyavastEge hondikonda padagaLu mattu (2) samskxta uccAraNeyanu kaDeyAgisikondiruvA padagaLu.
 
-eraDanEya bAgada padagaLalli baraha-mAtu bhEdavannu makkaLu kaLiyabEku — ee kaSTakara. DNS baT avara mita: saMskruta Adalike padagaLannu kannaDa uccAraNe pratinidisuvaMte bareyabEku. ee vicAravannu avaru pustakami 08 dalli (mahAprANa) adhika vyAkhyAnisuttAre.
+eraDanEya bAgada padagaLalli baraha-mAtu bhEdavannu makkaLu kaLiyabEku — ee kaSTakara. DNS baT avara mita: samskxta Adalike padagaLannu kannaDa uccAraNe pratinidisuvante bareyabEku. ee vicAravannu avaru pustakami 08 dalli (mahAprANa) adhika vyAkhyAnisuttAre.
 
 > *(bagagaLu 34, 37 kannaDavagalilla; baga 35 dorakalavillDa)*

@@ -1,9 +1,9 @@
 # kannaDigge bEku kannaDigdE sollarime — Di. En. sankara baT
 
-**mukyavAda viSaya:** kannaD sollarime-paramparE, saMskRita/yurOpiya/amErikan sollarime-caukaTTugaLa vimarse, kannaD-svagata sollarime kaTTuvuva pakSavAda
-**kaRtaru:** Di. En. sankara baT
+**mukyavAda viSaya:** kannaD sollarime-paramparE, samskxta/yurOpiya/amErikan sollarime-caukaTTugaLa vimarse, kannaD-svagata sollarime kaTTuvuva pakSavAda
+**kartaru:** Di. En. sankara baT
 **prakaTane:** 2000 (modalina mudraNa); 2013 (ELaneyadu tirutti mudraNa — ee OCR)
-**mudraka:** Di. En. sankara baT (kaRtaru-prakaTita); naVakarNATaka prakASana (vitaraNa), beNgaLUru
+**mudraka:** Di. En. sankara baT (kartaru-prakaTita); naVakarNATaka prakASana (vitaraNa), bengaLUru
 **paTagaLu:** ~245 (ELaneyadu mudraNa)
 **nuDi:** kannaD (mAnaka baraha — hosa baraha alla)
 **mUla:** [English](./28-kannadakke-beku-en.md)
@@ -17,7 +17,7 @@
 3. [padavagragaLu](#padavagragaLu)
 4. [padagaLa oLaracane](#padagaLa-oLaracane)
 5. [samAsagaLu](#samAsagaLu)
-6. [liNga mattu vacanagaLu](#liNga-mattu-vacanagaLu)
+6. [linga mattu vacanagaLu](#linga-mattu-vacanagaLu)
 7. [vibaktigaLu mattu kArakagaLu](#vibaktigaLu-mattu-kArakagaLu)
 8. [vibaktigaLu](#vibaktigaLu)
 9. [vibaktipaLLaTa](#vibaktipaLLaTa)
@@ -31,7 +31,7 @@
 
 *(ಮುನ್ನೋಟ)*
 
-ee aDDyAya pustakadinaduva mUla tarkavannu spaSTagoLisuttade: kannaDigaLige kannaDigdE sollarime bEku, paraDesada caukaTTu sAladU. baT avaru mUru sollarime-paramparEgaLannu gurtisuttAre — saMskRita paramparE (kEsirAjara Sabdamani darpaNa mattu adara utrADikArAru), 19nEya nURAdina yurOpiya-miSanari paramparE (iMgliSinalli baredada kannaD vyAkaraNagaLu), mattu 20nEya nURAdina amErikan vaRNanAtmaka paramparE — mattu mUru idE tappiMdide eMdu vAdisutte: pratiyu oMdu, gAdiya-javalina sollarime-sAmAna harattukoMDu kannaDigge tattarisutta, kannaD hEge naDeyuttade eMbadannu kaMDupidiyu prayatna mADalilla. nita-kannaDigaLige kannaDigdE tacita-sollarime idE — pratiyu prabudda kannaD mAtanADuvavanu vibakti-oTTugannu tappillade upayOgisuttAne — Adare A tacita-jnAnannu spaSTA artiMda bareyuvadale ee mUru paramparEgaLe tikkaTTADiddave. pustaka modalige ee mUru paramparEgaLa tikkATa vivisuttade, naMtara aDDyAya-aDDyAyavAgi koMDu koMDu viSayadalli kannaD-svagata varaNe hEgirattade eMbu maruguttade.
+ee aDDyAya pustakadinaduva mUla tarkavannu spaSTagoLisuttade: kannaDigaLige kannaDigdE sollarime bEku, paraDesada caukaTTu sAladU. baT avaru mUru sollarime-paramparEgaLannu gurtisuttAre — samskxta paramparE (kEsirAjara Sabdamani darpaNa mattu adara utrADikArAru), 19nEya nUrAdina yurOpiya-miSanari paramparE (ingliSinalli baredada kannaD vyAkaraNagaLu), mattu 20nEya nUrAdina amErikan varNanAtmaka paramparE — mattu mUru idE tappindide endu vAdisutte: pratiyu ondu, gAdiya-javalina sollarime-sAmAna harattukonDu kannaDigge tattarisutta, kannaD hEge naDeyuttade embadannu kanDupidiyu prayatna mADalilla. nita-kannaDigaLige kannaDigdE tacita-sollarime idE — pratiyu prabudda kannaD mAtanADuvavanu vibakti-oTTugannu tappillade upayOgisuttAne — Adare A tacita-jnAnannu spaSTA artinda bareyuvadale ee mUru paramparEgaLe tikkaTTADiddave. pustaka modalige ee mUru paramparEgaLa tikkATa vivisuttade, nantara aDDyAya-aDDyAyavAgi konDu konDu viSayadalli kannaD-svagata varaNe hEgirattade embu maruguttade.
 
 ---
 
@@ -39,7 +39,7 @@ ee aDDyAya pustakadinaduva mUla tarkavannu spaSTagoLisuttade: kannaDigaLige kann
 
 *(ಸೇರಿಕೆಯ ನಿಯಮಗಳು)*
 
-saMskRita sErike-niyamagaLu (sandhi) kannaDigge tattaruvudilla eMbu ee aDDyAya tORisuttade. SAlA-vyAkaraNa pustakadinaduVu saMskRita sErike-niyamagaLannu modalige koDuttave, naMtara kannaD udAharaNegaLannu hoDeyuttave — kannaD udAharaNa sikkAdAga saMskRita-eravalu padagaLannu "kannaD sErike"ya dAKalEyAgi koDuttave. ee paddhati talakaravaravAda eMdu baT vAdisutte: praSne kannaD mAtu-mAtanADuvavaru saMdhiya eDali hEge naDeyuttAre eMbadu — adannu saMskRita-niyamagaLinda yAvudu tattaruvudilla yAvudu tattaruvudilla eMbu hOlisuvadale, kannaD dAKalEgaLinda niyamagaLannu kaDedabiDabahudu. kannaD svara-vyavasthE saMskRita svara-vyavasthEgiMta bEre — kannaD "e/E" bEda, "o/O" bEda saMskRitalli iddaMtE illa; saMskRita "ai", "au" svarugaLu kannaDigaLilli kAryanirvahistuvudilla. sErike-niyamagaLannu kannaD dAKalEgaLinda kaDeyabahudu eMbu ee aDDyAya mugisutte.
+samskxta sErike-niyamagaLu (sandhi) kannaDigge tattaruvudilla embu ee aDDyAya tOrisuttade. SAlA-vyAkaraNa pustakadinaduVu samskxta sErike-niyamagaLannu modalige koDuttave, nantara kannaD udAharaNegaLannu hoDeyuttave — kannaD udAharaNa sikkAdAga samskxta-eravalu padagaLannu "kannaD sErike"ya dAKalEyAgi koDuttave. ee paddhati talakaravaravAda endu baT vAdisutte: praSne kannaD mAtu-mAtanADuvavaru sandhiya eDali hEge naDeyuttAre embadu — adannu samskxta-niyamagaLinda yAvudu tattaruvudilla yAvudu tattaruvudilla embu hOlisuvadale, kannaD dAKalEgaLinda niyamagaLannu kaDedabiDabahudu. kannaD svara-vyavasthE samskxta svara-vyavasthEginta bEre — kannaD "e/E" bEda, "o/O" bEda samskxtalli iddantE illa; samskxta "ai", "au" svarugaLu kannaDigaLilli kAryanirvahistuvudilla. sErike-niyamagaLannu kannaD dAKalEgaLinda kaDeyabahudu embu ee aDDyAya mugisutte.
 
 ---
 
@@ -47,7 +47,7 @@ saMskRita sErike-niyamagaLu (sandhi) kannaDigge tattaruvudilla eMbu ee aDDyAya t
 
 *(ಪದವಗ್ರಗಳು)*
 
-kannaDigaLalli mUru mukhya pada-vargagaLu ive: hesarupada (noun), esakapada (verb), mattu paricepada/guNapada (qualifier). ee mUru vargagaLu kannaD vAkyadi mUru bEre bEre kArya nirvahisuttave. mukhyavAda vIseSateyeMdare parice padagaLu kannaDigaLilli vibakti, linga, vacana eMdu yAvaduU badalaAguvudilla — saMskRita guNa-padagaLa hAge alla. saMskRitalli "sundarI", "sundara", "sundaraM" eMdu guNa-padagaLu linga-badavAguttave; kannaDigaLalli "sogasAda" eMba parice pada ella linga-vacanagaLige onEE rUpadi nittisuttade. aDDyAya tatsama (saMskRita mUla, parimuTTuvaDiga badalaAgada) mattu tadbava (saMskRita mUla, kannaD dvanigaLige hAdikeMDu pUrNa badalaAgida) naDuvina bedavannu vivEcisuttade — ee bEda mukhya, yAkeMdare tatsama padagaLu koMDu sAri saMskRita-guNagaLannu (oLaracane, jODupada-sadasyatva) kannaDiggE kaRedukoMDu baruttave.
+kannaDigaLalli mUru mukhya pada-vargagaLu ive: hesarupada (noun), esakapada (verb), mattu paricepada/guNapada (qualifier). ee mUru vargagaLu kannaD vAkyadi mUru bEre bEre kArya nirvahisuttave. mukhyavAda vIseSateyendare parice padagaLu kannaDigaLilli vibakti, linga, vacana endu yAvaduU badalaAguvudilla — samskxta guNa-padagaLa hAge alla. samskxtalli "sundarI", "sundara", "sundaraM" endu guNa-padagaLu linga-badavAguttave; kannaDigaLalli "sogasAda" emba parice pada ella linga-vacanagaLige onEE rUpadi nittisuttade. aDDyAya tatsama (samskxta mUla, parimuTTuvaDiga badalaAgada) mattu tadbava (samskxta mUla, kannaD dvanigaLige hAdikenDu pUrNa badalaAgida) naDuvina bedavannu vivEcisuttade — ee bEda mukhya, yAkendare tatsama padagaLu konDu sAri samskxta-guNagaLannu (oLaracane, jODupada-sadasyatva) kannaDiggE karedukonDu baruttave.
 
 ---
 
@@ -55,7 +55,7 @@ kannaDigaLalli mUru mukhya pada-vargagaLu ive: hesarupada (noun), esakapada (ver
 
 *(ಪದಗಳ ಒಳರಚನೆ)*
 
-oMdu pada hesarisu mADuttadE yA varisuttadE eMba bEdada mEle ee aDDyAya nele-nittuttade. hesarupada oMdu eMdare oMdu vyakti, vastu, nele, yA biMduvannu "hesarisu" mADuttade — adara dharmagaLannu pUrNa kaMteyAgi kaReyuttade. paricepada oMdE oMdu dharmavannu "varisu" mADuttade. ee bEdakke oLaracaneyalli nEraLa pariNAmagaLu ive: hesarupada mattu paricepada bEre bEre rItiyanalli prattayagaLonDige sErutte, bEre bEre rItiyanalla jODupadagaLannu sRiSTimADisuttave. "-ike/-ige" oTTu kannaDigaLalli adika utpAdaka, idu saMskRita "krit" yA "taddhita" vargIkaraNeyalli artavAttAgi sEruvudilla — adare kannaD-svagata oTTugaLu kannaD-svagata vargIkaraNe bEku eMbu ee aDDyAya hELuttade. jODupada mattu pada-kaMte (noun phrase) naDuvina bEdavannu sparSi, jODupada oMde pada yAgiruvadale pada-kaMte vyAkaraNa-mArga sEridagilisuttade eMdu vivisuttade.
+ondu pada hesarisu mADuttadE yA varisuttadE emba bEdada mEle ee aDDyAya nele-nittuttade. hesarupada ondu endare ondu vyakti, vastu, nele, yA binduvannu "hesarisu" mADuttade — adara dharmagaLannu pUrNa kanteyAgi kareyuttade. paricepada ondE ondu dharmavannu "varisu" mADuttade. ee bEdakke oLaracaneyalli nEraLa pariNAmagaLu ive: hesarupada mattu paricepada bEre bEre rItiyanalli prattayagaLonDige sErutte, bEre bEre rItiyanalla jODupadagaLannu sxSTimADisuttave. "-ike/-ige" oTTu kannaDigaLalli adika utpAdaka, idu samskxta "krit" yA "taddhita" vargIkaraNeyalli artavAttAgi sEruvudilla — adare kannaD-svagata oTTugaLu kannaD-svagata vargIkaraNe bEku embu ee aDDyAya hELuttade. jODupada mattu pada-kante (noun phrase) naDuvina bEdavannu sparSi, jODupada onde pada yAgiruvadale pada-kante vyAkaraNa-mArga sEridagilisuttade endu vivisuttade.
 
 ---
 
@@ -63,15 +63,15 @@ oMdu pada hesarisu mADuttadE yA varisuttadE eMba bEdada mEle ee aDDyAya nele-nit
 
 *(ಸಮಾಸಗಳು)*
 
-saMskRita samAsa-vargIkaraNe (tatpuruSa, dvaMdva, bahuvrIhi, avyayibhAva, karmadharAya) kannaD jODupadagaLige tattaruvudilla eMbu ee aDDyAya vistAravAgi tORisuttade. nAlku mukhya bEdagaLu ive: saMskRita jODupadagaLu oLagE vibakti-oTTannu kaLeyuttave, kannaDigaLu bALuttave yA bEre rUpadi sErutte; saMskRitalli jODupada-oLagE sADya eMbuvaNtu vividha vAkya-saMbaMdhagaLu kannaDigaLalli sADyavAguvudilla; "viSaya" yA "viSayatva" eMba saMskRita-mAnagaLu kannaD jODupadagaLige aNalAguvadittu; mattu nita kannaDigaLalli kANuva dravIDiya-svagata jODupada-bageya saMskRita-vargIkaraNeyalli artavAttAgi sEruvudilla. baT avaru kannaD-svagata jODupada-vargIkaraNe sUcisuttAre: modalina aMsada pada-varga-mAnadaDi — hesarupada-modalina jODupadagaLu, esakapada-modalina jODupadagaLu, mattu paricepada-modalina jODupadagaLu. ee vargIkaraNa kannaD jODupada hEge naDeyuttade eMbadannu sariyadAgi pratiNidhisutte.
+samskxta samAsa-vargIkaraNe (tatpuruSa, dvandva, bahuvrIhi, avyayibhAva, karmadharAya) kannaD jODupadagaLige tattaruvudilla embu ee aDDyAya vistAravAgi tOrisuttade. nAlku mukhya bEdagaLu ive: samskxta jODupadagaLu oLagE vibakti-oTTannu kaLeyuttave, kannaDigaLu bALuttave yA bEre rUpadi sErutte; samskxtalli jODupada-oLagE sADya embuvantu vividha vAkya-sambandhagaLu kannaDigaLalli sADyavAguvudilla; "viSaya" yA "viSayatva" emba samskxta-mAnagaLu kannaD jODupadagaLige aNalAguvadittu; mattu nita kannaDigaLalli kANuva dravIDiya-svagata jODupada-bageya samskxta-vargIkaraNeyalli artavAttAgi sEruvudilla. baT avaru kannaD-svagata jODupada-vargIkaraNe sUcisuttAre: modalina amsada pada-varga-mAnadaDi — hesarupada-modalina jODupadagaLu, esakapada-modalina jODupadagaLu, mattu paricepada-modalina jODupadagaLu. ee vargIkaraNa kannaD jODupada hEge naDeyuttade embadannu sariyadAgi pratiNidhisutte.
 
 ---
 
-## 6. liNga mattu vacanagaLu {#liNga-mattu-vacanagaLu}
+## 6. linga mattu vacanagaLu {#linga-mattu-vacanagaLu}
 
 *(ಲಿಂಗ ಮತ್ತು ವಚನಗಳು)*
 
-kannaDigaLalli liNga-vyavasthE saMskRita mUru-baga liNga-vyavasthEgiMta mUlabhUtavAgi bEre eMbu ee aDDyAya tORisuttade. saMskRitalli puM-liNga, strI-liNga, napuMsaka-liNga — ee mUru vyAkaraNa-baddavAda liNgagaLu, koMDu sAri nijavaAda linga-sambaMda illadiruvuDU irutte. kannaDigaLalli eraDu bageya bEda irutte: mAnava (jIvi/buddiyuLLa) mattu amAnava (nijIvi/buddiyilLada). ee bEda prAnava-sarvanAmagaLannu, koMDu kriyA-rUpagaLannu, mattu dAtuvina (dative) vibakti-oTTannu niyantrIsutte — mAnava: "-ige", amAnava: "-kke". mukhyavAda viSaya: parice padagaLu linga-vadavAguvudilla kannaDigaLilli. vacana-viSayadalli kannaDigaLu ekavacana-bahuvacanagaLannu bEdisuttave, Adare bahuvacanada aMkana saMskRita yA iMgliSigiMta adika kaDimE anivArya — saMdarbha spaSTagoLisiddare aMkana illade biDabahudu.
+kannaDigaLalli linga-vyavasthE samskxta mUru-baga linga-vyavasthEginta mUlabhUtavAgi bEre embu ee aDDyAya tOrisuttade. samskxtalli pum-linga, strI-linga, napumsaka-linga — ee mUru vyAkaraNa-baddavAda lingagaLu, konDu sAri nijavaAda linga-sambanda illadiruvuDU irutte. kannaDigaLalli eraDu bageya bEda irutte: mAnava (jIvi/buddiyuLLa) mattu amAnava (nijIvi/buddiyilLada). ee bEda prAnava-sarvanAmagaLannu, konDu kriyA-rUpagaLannu, mattu dAtuvina (dative) vibakti-oTTannu niyantrIsutte — mAnava: "-ige", amAnava: "-kke". mukhyavAda viSaya: parice padagaLu linga-vadavAguvudilla kannaDigaLilli. vacana-viSayadalli kannaDigaLu ekavacana-bahuvacanagaLannu bEdisuttave, Adare bahuvacanada ankana samskxta yA ingliSiginta adika kaDimE anivArya — sandarbha spaSTagoLisiddare ankana illade biDabahudu.
 
 ---
 
@@ -79,7 +79,7 @@ kannaDigaLalli liNga-vyavasthE saMskRita mUru-baga liNga-vyavasthEgiMta mUlabhUt
 
 *(ವಿಭಕ್ತಿಗಳು ಮತ್ತು ಕಾರಕಗಳು)*
 
-saMskRita kAraka-paddhati — kriyeyoMdige saMbaMdhisuva nAmapada-pAtragaLa (karta, karma, karaNa, sampradAna, apAdAna, adhikaraNa) artha-baddavAda vargIkaraNe — kannaDigge tattarAbEku yAvudO eMbadannu ee aDDyAya parISilisuttade. saMskRitalli kAraka oMdu artha-viSaya; vibakti oMdu vyAkaraNa-rUpa — ondu kAraka bEre bEre saMdarbhadalli bEre bEre vibaktigaLonDige bALatande. kannaDigaLilli vibakti-oTTugaLu artha-saMbaMdhagaLonDige bEre rItiyanalla kAryanirvahistave eMdu baT vAdisutte. kannaDigaLu tama vAkyagaLannu saMskRitagiMta bEre rItiyanalla janisuttAre — "viSaya" yA "anubhavakartA" eMba bEda kannaDigaLilli bEre rItiyanalla pratiNidhi Aguttade. ee kAraNakke kannaD sollarime kAraka-paddhati baDiyAgi bENDirada eMbu ee aDDyAya mugisutte.
+samskxta kAraka-paddhati — kriyeyondige sambandhisuva nAmapada-pAtragaLa (karta, karma, karaNa, sampradAna, apAdAna, adhikaraNa) artha-baddavAda vargIkaraNe — kannaDigge tattarAbEku yAvudO embadannu ee aDDyAya parISilisuttade. samskxtalli kAraka ondu artha-viSaya; vibakti ondu vyAkaraNa-rUpa — ondu kAraka bEre bEre sandarbhadalli bEre bEre vibaktigaLonDige bALatande. kannaDigaLilli vibakti-oTTugaLu artha-sambandhagaLonDige bEre rItiyanalla kAryanirvahistave endu baT vAdisutte. kannaDigaLu tama vAkyagaLannu samskxtaginta bEre rItiyanalla janisuttAre — "viSaya" yA "anubhavakartA" emba bEda kannaDigaLilli bEre rItiyanalla pratiNidhi Aguttade. ee kAraNakke kannaD sollarime kAraka-paddhati baDiyAgi bEnDirada embu ee aDDyAya mugisutte.
 
 ---
 
@@ -87,7 +87,7 @@ saMskRita kAraka-paddhati — kriyeyoMdige saMbaMdhisuva nAmapada-pAtragaLa (kar
 
 *(ವಿಭಕ್ತಿಗಳು)*
 
-kannaD vibakti-oTTugaLannu saMskRita eTTu vibaktigaLonDige holisuva prayatna tappu eMbu ee aDDyAya tORisuttade. saMskRitalla prathama, dvitIya, tRitIya, caturthI, paMcamI, saSthi, saptamI, saMbOdana — eTTu vibaktigaLu. kannaDigaLilli iSTu vibaktigaLu kannaDigaLilli kAryanirvahistuvudilla; koMDu saMskRita vibaktigaLu gabbigaLAgiddave (mErgeDAde), koMDu sAri bEre niyamagaLaDiyalli kAryanirvahistave. mukhyavAda udAharaNa: dAtuvina oTTu mAnava/amAnava bEdadaDi badalaAguttade — mAnava hesarupadagaLige "-ige", amAnava hesarupadagaLige "-kke". idu saMskRita caturthI (dative) vibaktiyalli kANuvudilla. saptamI (locative) vibakti saMskRitalli bEre-bEre rUpagaLonDige bALatande, kannaDigaLilli "-alli" oMdE oTTu adara kAryanirvahistade. ee beDAikyagaLu kannaD-svagata vibakti-varaNe kaReyuttave.
+kannaD vibakti-oTTugaLannu samskxta eTTu vibaktigaLonDige holisuva prayatna tappu embu ee aDDyAya tOrisuttade. samskxtalla prathama, dvitIya, txtIya, caturthI, pancamI, saSthi, saptamI, sambOdana — eTTu vibaktigaLu. kannaDigaLilli iSTu vibaktigaLu kannaDigaLilli kAryanirvahistuvudilla; konDu samskxta vibaktigaLu gabbigaLAgiddave (mErgeDAde), konDu sAri bEre niyamagaLaDiyalli kAryanirvahistave. mukhyavAda udAharaNa: dAtuvina oTTu mAnava/amAnava bEdadaDi badalaAguttade — mAnava hesarupadagaLige "-ige", amAnava hesarupadagaLige "-kke". idu samskxta caturthI (dative) vibaktiyalli kANuvudilla. saptamI (locative) vibakti samskxtalli bEre-bEre rUpagaLonDige bALatande, kannaDigaLilli "-alli" ondE oTTu adara kAryanirvahistade. ee beDAikyagaLu kannaD-svagata vibakti-varaNe kareyuttave.
 
 ---
 
@@ -95,7 +95,7 @@ kannaD vibakti-oTTugaLannu saMskRita eTTu vibaktigaLonDige holisuva prayatna tap
 
 *(ವಿಭಕ್ತಿಪಲ್ಲಟ)*
 
-vibaktipaLLaTa eMdare ondu kriyEyannu badalaagade ondu hesarude bEre bEre vibaktigaLonDige bALuvudu, Adare artha koMDu badelAguttade. "avanu UriGE hOdanu" mattu "avanu UrinALLI hOdanu" — kriyE ondu, vibakti bEre; artha sUkSmavAgi bEre. baT avaru ee vibaktipaLLaTa sADya AguvuDu yAvyAvuDu saMdarbhadalli eMbu paTTi mADuttAre: kArya-pUrNate yA apUrNate (accusative vs locative), svecCEya kArya yA bali-baMda kArya, hattira-iruva yA sAraLa-biMdu (adjacency vs directionality). saMskRitalli kAraka-paLLaTa (bEre bEre kAraka-bEdadi ondu oTTannu upayOgisu) irutte, Adare kannaDigaLa vibaktipaLLaTa adariMda mUlabhUtavAgi bErE — kannaD sUkSma-artha-bEdagaLu saMskRita kAraka-nirdharaNeyalla kANuvudilla. hIgAgi kannaD-svagata varaNe kaReyuttade.
+vibaktipaLLaTa endare ondu kriyEyannu badalaagade ondu hesarude bEre bEre vibaktigaLonDige bALuvudu, Adare artha konDu badelAguttade. "avanu UriGE hOdanu" mattu "avanu UrinALLI hOdanu" — kriyE ondu, vibakti bEre; artha sUkSmavAgi bEre. baT avaru ee vibaktipaLLaTa sADya AguvuDu yAvyAvuDu sandarbhadalli embu paTTi mADuttAre: kArya-pUrNate yA apUrNate (accusative vs locative), svecCEya kArya yA bali-banda kArya, hattira-iruva yA sAraLa-bindu (adjacency vs directionality). samskxtalli kAraka-paLLaTa (bEre bEre kAraka-bEdadi ondu oTTannu upayOgisu) irutte, Adare kannaDigaLa vibaktipaLLaTa adarinda mUlabhUtavAgi bErE — kannaD sUkSma-artha-bEdagaLu samskxta kAraka-nirdharaNeyalla kANuvudilla. hIgAgi kannaD-svagata varaNe kareyuttade.
 
 ---
 
@@ -103,7 +103,7 @@ vibaktipaLLaTa eMdare ondu kriyEyannu badalaagade ondu hesarude bEre bEre vibakt
 
 *(ಸರ್ವನಾಮಗಳು ಮತ್ತು ಎಣಿಕೆಯ ಪದಗಳು)*
 
-kannaD sarvanAma-vyavasthE mUru-mATTa-dUri-bEda hoDagisuttade: hattira (idu, ivanu, ivaLu), madhyama (adu, avanu, avaLu), dUra (adaru/avaru). saMskRita sarvanAma-vargIkaraNe ee mUru-baga dUri-bEdannu gurtisuvudilla — saMskRitalli prathama/dvitIya/tRitIya-puruSa mattu liNga-bEda anivArya, dUri-bEda anivArya alla. kannaDigaLilli prathama-puruSa bahuvacanadalli sErisuvavara-bEda irutte: "nAvu" (kELugArannu sEridukOMDu — inclusive) mattu "nAvu" yA bEre rUpa (kELugArannu seridakOMDu — exclusive). ee sErisuvavara/seridakOMDa-bEda saMskRitalli kAryanirvahistuvudilla. eNikeya padagaLu (numerals) kannaDigaLilli vibakti-badavAguvudilla — saMskRitalli saMkhyA-vAcaka-padagaLu linga mattu vibaktigaLige badalaAguvuDu, kannaDigaLilli avugaLu hesarupadada hAge nittisuttave. ee sUkSma-bEdagaLu kannaD-svagata varaNe kaReyuttave.
+kannaD sarvanAma-vyavasthE mUru-mATTa-dUri-bEda hoDagisuttade: hattira (idu, ivanu, ivaLu), madhyama (adu, avanu, avaLu), dUra (adaru/avaru). samskxta sarvanAma-vargIkaraNe ee mUru-baga dUri-bEdannu gurtisuvudilla — samskxtalli prathama/dvitIya/txtIya-puruSa mattu linga-bEda anivArya, dUri-bEda anivArya alla. kannaDigaLilli prathama-puruSa bahuvacanadalli sErisuvavara-bEda irutte: "nAvu" (kELugArannu sEridukOnDu — inclusive) mattu "nAvu" yA bEre rUpa (kELugArannu seridakOnDu — exclusive). ee sErisuvavara/seridakOnDa-bEda samskxtalli kAryanirvahistuvudilla. eNikeya padagaLu (numerals) kannaDigaLilli vibakti-badavAguvudilla — samskxtalli sankhyA-vAcaka-padagaLu linga mattu vibaktigaLige badalaAguvuDu, kannaDigaLilli avugaLu hesarupadada hAge nittisuttave. ee sUkSma-bEdagaLu kannaD-svagata varaNe kareyuttave.
 
 ---
 
@@ -111,7 +111,7 @@ kannaD sarvanAma-vyavasthE mUru-mATTa-dUri-bEda hoDagisuttade: hattira (idu, iva
 
 *(ಕ್ರಿಯಾರೂಪಗಳು)*
 
-kannaD kriyA-vyavasthE adika viSiSTavAda dravIDiya lakSaNagaLannu hoDagisuttade. kAla-bEda: bhUta, vartamAna, bhaviSyat — ee mUrE kAlagaLu. saMskRita daSa lAkAragaLu (bhUta, vartamAna, bhaviSyat mattu bEre bEre prkaraNagaLu) kannaDigge tattaruvudilla. saMskRita "parasmaipada" (kartari) mattu "AtmanEpada" (karmaNi/svArtha) eMba bEda kannaD AraMbhika kannaDigaLalli koMDu aNalAgi bididdarU, nita kannaDigaLilli ee bEdakke arthapUrNa vyAkaraNa-kArya illE. mukhyavAda viSaya: kannaDigaLilli nErA mattu praSna-rUpagaLu kriyEyanaDiyalli rUpagolLuttave — "avanilla" eMba nErA-vibakti kriyE-oLagE bAruttade, "bande?" aMtAha praSna-rUpagaLu "baMda" diMda vibakti-oTTu serisi rUpagolLuttave. ee vyavasthE saMskRita kriyA-vyavasthEgiMta mUlabhUtavAgi bErE.
+kannaD kriyA-vyavasthE adika viSiSTavAda dravIDiya lakSaNagaLannu hoDagisuttade. kAla-bEda: bhUta, vartamAna, bhaviSyat — ee mUrE kAlagaLu. samskxta daSa lAkAragaLu (bhUta, vartamAna, bhaviSyat mattu bEre bEre prkaraNagaLu) kannaDigge tattaruvudilla. samskxta "parasmaipada" (kartari) mattu "AtmanEpada" (karmaNi/svArtha) emba bEda kannaD Arambhika kannaDigaLalli konDu aNalAgi bididdarU, nita kannaDigaLilli ee bEdakke arthapUrNa vyAkaraNa-kArya illE. mukhyavAda viSaya: kannaDigaLilli nErA mattu praSna-rUpagaLu kriyEyanaDiyalli rUpagolLuttave — "avanilla" emba nErA-vibakti kriyE-oLagE bAruttade, "bande?" antAha praSna-rUpagaLu "banda" dinda vibakti-oTTu serisi rUpagolLuttave. ee vyavasthE samskxta kriyA-vyavasthEginta mUlabhUtavAgi bErE.
 
 ---
 
@@ -119,7 +119,7 @@ kannaD kriyA-vyavasthE adika viSiSTavAda dravIDiya lakSaNagaLannu hoDagisuttade.
 
 *(ಮುಕ್ತಾಯ)*
 
-kaDEya aDDyAya pustakadinAduvuva mUla tarkavannu sErisuttade mattu hOraTadaDi bOdhegaLannu kaDeyuttade. mUla kAraNa: paraDesada caukaTTugaLannu kannaDigge baDiyAgi tattarisuvudu. mUru sollarime-paramparEgaLu — saMskRita-beddavAda, yurOpiya-miSanari-beddavAda, amErikan vaRNanAtmaka-beddavAda — ondu koMDu tiLivAnti sAmAnyateyalli honduttave: avugaLella paraDesada nuDiyartu-pustakadinAduvuva sAdhana-gArannu kaRedukoMDu kannaDigge tattarisuttave, kannaD-svagata dAKalEgaLinda kaTTale kaDeyuva prayatna mADuvudilla. SAlE mattu viSvaviDyAlayagaLalli badalaAvaNeya kaReyuttade: SAlA vyAkaraNa paTagaLu nita kannaD-racane kaDeyabEku, saMskRita-racane kannaD-dAKalEyAgi tORisabAradu. viSvaviDyAlaya saMSOdhanE nita kannaD dAKalEgaLinda AraMbhavAgi, vaRNanAtmaka nuDiyarimeyA naDeyabEku. ee pakSadaDi ee pustaka kaDEya biDisuvANi mADuttade.
+kaDEya aDDyAya pustakadinAduvuva mUla tarkavannu sErisuttade mattu hOraTadaDi bOdhegaLannu kaDeyuttade. mUla kAraNa: paraDesada caukaTTugaLannu kannaDigge baDiyAgi tattarisuvudu. mUru sollarime-paramparEgaLu — samskxta-beddavAda, yurOpiya-miSanari-beddavAda, amErikan varNanAtmaka-beddavAda — ondu konDu tiLivAnti sAmAnyateyalli honduttave: avugaLella paraDesada nuDiyartu-pustakadinAduvuva sAdhana-gArannu karedukonDu kannaDigge tattarisuttave, kannaD-svagata dAKalEgaLinda kaTTale kaDeyuva prayatna mADuvudilla. SAlE mattu viSvaviDyAlayagaLalli badalaAvaNeya kareyuttade: SAlA vyAkaraNa paTagaLu nita kannaD-racane kaDeyabEku, samskxta-racane kannaD-dAKalEyAgi tOrisabAradu. viSvaviDyAlaya samSOdhanE nita kannaD dAKalEgaLinda ArambhavAgi, varNanAtmaka nuDiyarimeyA naDeyabEku. ee pakSadaDi ee pustaka kaDEya biDisuvANi mADuttade.
 
 ---
 
@@ -141,7 +141,7 @@ kaDEya aDDyAya pustakadinAduvuva mUla tarkavannu sErisuttade mattu hOraTadaDi bO
 | ತದ್ಭವ | tadbava | nativised Sanskrit loan |
 | ವಿಭಕ್ತಿ | vibakti | case suffix |
 | ಕಾರಕ | kAraka | semantic case role |
-| ಲಿಂಗ | liNga | gender |
+| ಲಿಂಗ | linga | gender |
 | ವಚನ | vacana | number (singular/plural) |
 | ಕ್ರಿಯಾರೂಪ | kriyArUpa | verb form |
 | ವಿಭಕ್ತಿಪಲ್ಲಟ | vibaktipaLLaTa | case alternation |
@@ -156,4 +156,4 @@ kaDEya aDDyAya pustakadinAduvuva mUla tarkavannu sErisuttade mattu hOraTadaDi bO
 
 ---
 
-*ee dastavEju Di. En. sankara baT avara "kannaDigge bEku kannaDigdE vyAkaraNa" (2000/2013) pustakadinaduva Eke baraha-rUpadi saMyOjita saraMsa. kannaDigaLa mAnaka baraha — hosa baraha alla. mUla English saraMsa [28-kannadakke-beku-en.md](./28-kannadakke-beku-en.md) dalli mattu anuvArdhita kArya-pustaka [29-kannada-vyakarana-yaake-beku](../29-kannada-vyakarana-yaake-beku/29-kannada-vyakarana-yaake-beku-kn-eke.md) dalli kANabahudu.*
+*ee dastavEju Di. En. sankara baT avara "kannaDigge bEku kannaDigdE vyAkaraNa" (2000/2013) pustakadinaduva Eke baraha-rUpadi samyOjita saramsa. kannaDigaLa mAnaka baraha — hosa baraha alla. mUla English saramsa [28-kannadakke-beku-en.md](./28-kannadakke-beku-en.md) dalli mattu anuvArdhita kArya-pustaka [29-kannada-vyakarana-yaake-beku](../29-kannada-vyakarana-yaake-beku/29-kannada-vyakarana-yaake-beku-kn-eke.md) dalli kANabahudu.*

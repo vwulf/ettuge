@@ -1,7 +1,7 @@
 # kannaD nuDi naDeDu banda dAri — Di. En. sankara baT
 
-**mukyavAda viSaya:** mUladravIDadiMda naDugannaDigaLavarige kannaD nuDiya dvani-caritra mattu vyAkaraNa-caritra
-**kaRtaru:** Di. En. sankara baT
+**mukyavAda viSaya:** mUladravIDadinda naDugannaDigaLavarige kannaD nuDiya dvani-caritra mattu vyAkaraNa-caritra
+**kartaru:** Di. En. sankara baT
 **prakaTane:** 2007
 **mudraka:** bASa prakasana
 **nuDi:** kannaD (hosa baraha)
@@ -15,7 +15,7 @@
 2. [bErina svarugaLu](#bErina-svarugaLu)
 3. [oTTina svarugaLu](#oTTina-svarugaLu)
 4. [taDeyuligaLu](#taDeyuligaLu)
-5. [itara vyaMjanagaLu](#itara-vyaMjanagaLu)
+5. [itara vyanjanagaLu](#itara-vyanjanagaLu)
 6. [padagaLa oLaracane](#padagaLa-oLaracane)
 7. [kriyA padagaLa oLaracane](#kriyA-padagaLa-oLaracane)
 8. [kriyArUpagaLu](#kriyArUpagaLu)
@@ -30,7 +30,7 @@
 
 *(ಮುನ್ನೋಟ)*
 
-ee aDDyAya pustakada pITike Agi dravIDa nuDi-kuTuMbada viMgaDane mattu hOrake mADuttade. dravIDa kuTuMbadi tenku-dravIDa (tenkudravIDa) guMpu mukyavAda sthAna hoMdide — adu kannaD, tamiL, teluugu, tuLu aMtAha nuDigaLannu oLagoMDide. baT avaru hOlike-mArga (comparative method) — eraDu yA adikka nuDigaLa rUpagaLannu hOlisi mUla-rUpa kaLeyuvudu — eMba arikaRRannu sanki vyAkaraNa ariva-davarige vivarisi koDisuttAre. oLanuDigaLa (dialect) vIrupadavu mukyavAda: karAvaLi (havyaka) kannaD naaDina bayaLu-seeme kannaDigaLigiMta hEge bEre eMbadannu tORuttade. baDaga nuDiyu kannaDigaLa oru upa-oLanuDi eMdu baT avaru vAdisutte, adu oMdu svataMindriya nuDi alla.
+ee aDDyAya pustakada pITike Agi dravIDa nuDi-kuTumbada vingaDane mattu hOrake mADuttade. dravIDa kuTumbadi tenku-dravIDa (tenkudravIDa) gumpu mukyavAda sthAna hondide — adu kannaD, tamiL, teluugu, tuLu antAha nuDigaLannu oLagonDide. baT avaru hOlike-mArga (comparative method) — eraDu yA adikka nuDigaLa rUpagaLannu hOlisi mUla-rUpa kaLeyuvudu — emba arikarrannu sanki vyAkaraNa ariva-davarige vivarisi koDisuttAre. oLanuDigaLa (dialect) vIrupadavu mukyavAda: karAvaLi (havyaka) kannaD naaDina bayaLu-seeme kannaDigaLiginta hEge bEre embadannu tOruttade. baDaga nuDiyu kannaDigaLa oru upa-oLanuDi endu baT avaru vAdisutte, adu ondu svatamindriya nuDi alla.
 
 ---
 
@@ -38,7 +38,7 @@ ee aDDyAya pustakada pITike Agi dravIDa nuDi-kuTuMbada viMgaDane mattu hOrake mA
 
 *(ಬೇರಿನ ಸ್ವರಗಳು)*
 
-mUladravIDadi hattU svarugaLu (a, A, i, I, u, U, e, E, o, O) idduve eMdu hOlike-mArga tORisuttade. ee aDDyAya mUla svarugaLu kannaDigaLa bEre padagaLalli (root words) hEge kANisuttave eMbadannu paTTi-rUpadi vivEcisuttade. bayaLu-seeme kannaDigaLalli svara-mElErike (vowel raising) eMba viSeSa dvani-badala jaruguttade: *e mattu *o eMba mUladravIDa svarugaLu, adara naMtarakkAguvudu uMNa svara iddAga, i mattu u eMdu badaLAguttave. karAvaLi kannaD ee badalAvaNeyannu mADuvudilla, hIgAgi adu hale-sthitiya adika tattirave eMdu gaNisuttade. bayaLu-seeme mattu karAvaLi oLanuDigaLa naDuvina ee vIrupadavu mUladravIDa bErina svarugaLannu paricayisalu mukyavAda sAkSiyu.
+mUladravIDadi hattU svarugaLu (a, A, i, I, u, U, e, E, o, O) idduve endu hOlike-mArga tOrisuttade. ee aDDyAya mUla svarugaLu kannaDigaLa bEre padagaLalli (root words) hEge kANisuttave embadannu paTTi-rUpadi vivEcisuttade. bayaLu-seeme kannaDigaLalli svara-mElErike (vowel raising) emba viSeSa dvani-badala jaruguttade: *e mattu *o emba mUladravIDa svarugaLu, adara nantarakkAguvudu unNa svara iddAga, i mattu u endu badaLAguttave. karAvaLi kannaD ee badalAvaNeyannu mADuvudilla, hIgAgi adu hale-sthitiya adika tattirave endu gaNisuttade. bayaLu-seeme mattu karAvaLi oLanuDigaLa naDuvina ee vIrupadavu mUladravIDa bErina svarugaLannu paricayisalu mukyavAda sAkSiyu.
 
 ---
 
@@ -46,7 +46,7 @@ mUladravIDadi hattU svarugaLu (a, A, i, I, u, U, e, E, o, O) idduve eMdu hOlike-
 
 *(ಒಟ್ಟಿನ ಸ್ವರಗಳು)*
 
-oTTugaLalli (suffixes) kANisuvudu svarugaLannu "oTTina svarugaLu" eMdu ee aDDyAya viSESavAgi nODuttade. mUladravIDa oTTu-saMcaradi mukyavAda badala: *-ay > -e eMba parivarttane — hale-kaala haLegannaDada rUpagaLalli mattu itara dravIDa nuDigaLali ivanu gurtisabahudu. oTTina svarugaLu bErina svarugaLa hAge svataMindriya caraNe mADuvudilla — avugaLa hAraDisuva (restriction) niyamavE bEre eMdu baT avaru vAdisuttAre. mUladravIDa oTTu-saMcarada paTTiyannu kaTTi, kannaD oTTugaLannu avuMDe kaNavannu aDDyAya taruttade.
+oTTugaLalli (suffixes) kANisuvudu svarugaLannu "oTTina svarugaLu" endu ee aDDyAya viSESavAgi nODuttade. mUladravIDa oTTu-sancaradi mukyavAda badala: *-ay > -e emba parivarttane — hale-kaala haLegannaDada rUpagaLalli mattu itara dravIDa nuDigaLali ivanu gurtisabahudu. oTTina svarugaLu bErina svarugaLa hAge svatamindriya caraNe mADuvudilla — avugaLa hAraDisuva (restriction) niyamavE bEre endu baT avaru vAdisuttAre. mUladravIDa oTTu-sancarada paTTiyannu kaTTi, kannaD oTTugaLannu avunDe kaNavannu aDDyAya taruttade.
 
 ---
 
@@ -54,15 +54,15 @@ oTTugaLalli (suffixes) kANisuvudu svarugaLannu "oTTina svarugaLu" eMdu ee aDDyAy
 
 *(ತಡೆಯುಲಿಗಳು)*
 
-kannaD taDeyuligaLu (stops) aiMtu sthAnagaLalli (bilabial, dental, alveolar/retroflex, palatal, velar) uTpattiyAguttave. mUladravIDadi koraLisida (voiced) mattu koraLisada (voiceless) eMda bedave iralagillaveMdu, ee bedavu naMtara, suttamuttaNa dvani-parisar (conditioning environments) dvArA baMteMdu baT avaru vAdisuttAre. taDeyuligaLu eraDu svarasandigaLa naDuvE baMdAga koraLidu (lenition), modalige iddAga yA oTTaguMdAga (geminate) koraLisade uLidive. havyaka kannaD ee niyamannu vicitraggOLisuttade: adu hale-sthitiya oTTu-taDeyuligaLannu kApADisiruvudu, bayaLu-seeme kannaD avannU kaDime-mADide.
+kannaD taDeyuligaLu (stops) aintu sthAnagaLalli (bilabial, dental, alveolar/retroflex, palatal, velar) uTpattiyAguttave. mUladravIDadi koraLisida (voiced) mattu koraLisada (voiceless) enda bedave iralagillavendu, ee bedavu nantara, suttamuttaNa dvani-parisar (conditioning environments) dvArA bantendu baT avaru vAdisuttAre. taDeyuligaLu eraDu svarasandigaLa naDuvE bandAga koraLidu (lenition), modalige iddAga yA oTTagundAga (geminate) koraLisade uLidive. havyaka kannaD ee niyamannu vicitraggOLisuttade: adu hale-sthitiya oTTu-taDeyuligaLannu kApADisiruvudu, bayaLu-seeme kannaD avannU kaDime-mADide.
 
 ---
 
-## 5. itara vyaMjanagaLu {#itara-vyaMjanagaLu}
+## 5. itara vyanjanagaLu {#itara-vyanjanagaLu}
 
 *(ಇತರ ವ್ಯಂಜನಗಳು)*
 
-taDeyuligaLa aMcige kannaD eraDu mUguli (nasals: m, n, N, G), eraDu pakkaduli (laterals: l, L), oru hoDeyuli (flap/trill: r), mattu eraDu hOraDi (glides: v, y) sERisuttade. ee aDDyAya adalli L (muMDika pakkaduli) vyaMjanada viSESa sthAnavannu paDeyuttade: mUladravIDa *L uLidiruvudu karAvaLi kannaDigaLalli, bayaLu-seemedalli adu bErE dvani-rUpakke badaLAgide. muMDika-sEDi (retroflex series: T, D, N, L, S) mUladravIDa bEruMDide eMdu baT avaru vAdisuttAre — idu dravIDa-sIdda (Dravidian-native) viSESate, saMskRita-inda eravalu alla. nAsikya (nasal), pakkaduli, hoDeyuli mattu hOraDi vargIsudEle ee aDDyAyada pramukha kArya.
+taDeyuligaLa ancige kannaD eraDu mUguli (nasals: m, n, N, G), eraDu pakkaduli (laterals: l, L), oru hoDeyuli (flap/trill: r), mattu eraDu hOraDi (glides: v, y) sErisuttade. ee aDDyAya adalli L (munDika pakkaduli) vyanjanada viSESa sthAnavannu paDeyuttade: mUladravIDa *L uLidiruvudu karAvaLi kannaDigaLalli, bayaLu-seemedalli adu bErE dvani-rUpakke badaLAgide. munDika-sEDi (retroflex series: T, D, N, L, S) mUladravIDa bErunDide endu baT avaru vAdisuttAre — idu dravIDa-sIdda (Dravidian-native) viSESate, samskxta-inda eravalu alla. nAsikya (nasal), pakkaduli, hoDeyuli mattu hOraDi vargIsudEle ee aDDyAyada pramukha kArya.
 
 ---
 
@@ -70,7 +70,7 @@ taDeyuligaLa aMcige kannaD eraDu mUguli (nasals: m, n, N, G), eraDu pakkaduli (l
 
 *(ಪದಗಳ ಒಳರಚನೆ)*
 
-dravIDa padagaLannu mUru bEru-vargagaLalli vargIsabahudu: nAma bEru (noun root), kriyA bEru (verb root), mattu guNa bEru (qualifier root). ee mUru vargagaLu mUladravIDa kAladiMdanE idduve eMdu baT avaru vAdisuttAre. pada-sRiSTiya vicAravAgi, kannaD oTTugaLu bEru + oTTu eMba racane hondivave; oTTugaLU bEruUgaLU bEre-bEre uLikattinaduva eMdu tORisuttade. jODike (compounding) mattu oTTu-sERike (affixation) eraDu mukhya pada-sRiSTiya mArgagaLu. aDDyAya ee mURu vargagaLa naDuvina saMbaMda mattu pada-sRiSTiya niyamagaLannu mUladravIDa sAkSiyu saha vivarisi, kannaD pada-racaneya mUla-svarUpannu hORupadisuttade.
+dravIDa padagaLannu mUru bEru-vargagaLalli vargIsabahudu: nAma bEru (noun root), kriyA bEru (verb root), mattu guNa bEru (qualifier root). ee mUru vargagaLu mUladravIDa kAladindanE idduve endu baT avaru vAdisuttAre. pada-sxSTiya vicAravAgi, kannaD oTTugaLu bEru + oTTu emba racane hondivave; oTTugaLU bEruUgaLU bEre-bEre uLikattinaduva endu tOrisuttade. jODike (compounding) mattu oTTu-sErike (affixation) eraDu mukhya pada-sxSTiya mArgagaLu. aDDyAya ee mUru vargagaLa naDuvina sambanda mattu pada-sxSTiya niyamagaLannu mUladravIDa sAkSiyu saha vivarisi, kannaD pada-racaneya mUla-svarUpannu hOrupadisuttade.
 
 ---
 
@@ -78,7 +78,7 @@ dravIDa padagaLannu mUru bEru-vargagaLalli vargIsabahudu: nAma bEru (noun root),
 
 *(ಕ್ರಿಯಾಪದಗಳ ಒಳರಚನೆ)*
 
-kannaD kriyA padagaLu eraDu mukhya bheTagaLu: Aguvike (happening — antaKkriyA, agentless) mattu mADuvike (doing — sAkAriya, agent-needed). ee bedavu mUladravIDa kAladiMdanE iddeMdu, baT avaru itara dravIDa nuDigaLa sAkSiyiMda tORisuttAre. mUladravIDa *-t eMba kArakA-oTTu (causative) naMtara kannaDigaLalli -isu eMdu badaLAyitu. haLegannaDada kriyArUpagaLu — mADida, mADuva, mADalu aMtAhavugaLu — ee mUla-racaneya cihne kANisuttave. aDDyAya eraDu kriyA-vargagaLa naDuvina aRta-beda mattu oTTu-racaneya vIrupadavannu vivEcisi, kannaD kriyA-rUpagaLu mUladravIDa vyAkaraNakke hEge seri eMbadannu sparSisuttade.
+kannaD kriyA padagaLu eraDu mukhya bheTagaLu: Aguvike (happening — antaKkriyA, agentless) mattu mADuvike (doing — sAkAriya, agent-needed). ee bedavu mUladravIDa kAladindanE iddendu, baT avaru itara dravIDa nuDigaLa sAkSiyinda tOrisuttAre. mUladravIDa *-t emba kArakA-oTTu (causative) nantara kannaDigaLalli -isu endu badaLAyitu. haLegannaDada kriyArUpagaLu — mADida, mADuva, mADalu antAhavugaLu — ee mUla-racaneya cihne kANisuttave. aDDyAya eraDu kriyA-vargagaLa naDuvina arta-beda mattu oTTu-racaneya vIrupadavannu vivEcisi, kannaD kriyA-rUpagaLu mUladravIDa vyAkaraNakke hEge seri embadannu sparSisuttade.
 
 ---
 
@@ -86,7 +86,7 @@ kannaD kriyA padagaLu eraDu mukhya bheTagaLu: Aguvike (happening — antaKkriyA,
 
 *(ಕ್ರಿಯಾರೂಪಗಳು)*
 
-mUladravIDadi kAla-vAcaka oTTugaLu: *-nt- (keLe-kAla, past) mattu *-v(p)- (keLadu-kAla, non-past). ee eraDU mUla-oTTugaLu kannaDigaLalli ivEre rUpagaLalli uLidive — haLegannaDa mattu naDugannaDa eraDarallU ivugaLa cihne kANisabahudu. karta-sAmya (person agreement) eraDu vyAkaraNa-linga bedagaLa mEle jaruguttade: oLagoLLuva (inclusive) mattu oLagoLLada (exclusive) eMba 1aMa puruSa eraDu-vacana bedavu dravIDa kuTuMbakke viSeSavAda viSaya — adu kannaDigaLa bayaLu-seeme oLanuDigaLalli kaDime-Agattu-iruvudu baT avaru nODuttAre. nEDu-nArE (negative) rUpagaLu saha mUladravIDadiMda kadiyabahudu eMdu aDDyAya sparSisuttade.
+mUladravIDadi kAla-vAcaka oTTugaLu: *-nt- (keLe-kAla, past) mattu *-v(p)- (keLadu-kAla, non-past). ee eraDU mUla-oTTugaLu kannaDigaLalli ivEre rUpagaLalli uLidive — haLegannaDa mattu naDugannaDa eraDarallU ivugaLa cihne kANisabahudu. karta-sAmya (person agreement) eraDu vyAkaraNa-linga bedagaLa mEle jaruguttade: oLagoLLuva (inclusive) mattu oLagoLLada (exclusive) emba 1ama puruSa eraDu-vacana bedavu dravIDa kuTumbakke viSeSavAda viSaya — adu kannaDigaLa bayaLu-seeme oLanuDigaLalli kaDime-Agattu-iruvudu baT avaru nODuttAre. nEDu-nArE (negative) rUpagaLu saha mUladravIDadinda kadiyabahudu endu aDDyAya sparSisuttade.
 
 ---
 
@@ -94,7 +94,7 @@ mUladravIDadi kAla-vAcaka oTTugaLu: *-nt- (keLe-kAla, past) mattu *-v(p)- (keLad
 
 *(ನಾಮಪದಗಳು)*
 
-kannaD nAmapadagaLa sRiSTi mattu avugaLa vibakti-oTTugaLa caritra ee aDDyAyada viSaya. linga-vyavasthe dravIDa-sIdda: manujanu (human) mattu manuja-alla (non-human) eMba eraDu linga-bedavu, saMskRita mUru-linga-bedake (puMlinga, strIlinga, napuMsaka-linga) binna. nAmapadagaLu hesarisuvudu (referring) mattu varisuvudu (describing) eMda eraDu kAryagaLannu mADuttave. vibakti-oTTugaLu mUladravIDa mUladiMda kadiyabahudu eMdu baT avaru dravIDa-sArAdra hOlikeyu mUlaka tORisuttAre. nAma-sRiSTiya oTTugaLu, pada-guMpu-rUpagaLu, mattu nAmapadagaLa mUru bEru-vargagaLiMda uttpattiyannu aDDyAya vivEcisuttade.
+kannaD nAmapadagaLa sxSTi mattu avugaLa vibakti-oTTugaLa caritra ee aDDyAyada viSaya. linga-vyavasthe dravIDa-sIdda: manujanu (human) mattu manuja-alla (non-human) emba eraDu linga-bedavu, samskxta mUru-linga-bedake (punlinga, strIlinga, napumsaka-linga) binna. nAmapadagaLu hesarisuvudu (referring) mattu varisuvudu (describing) enda eraDu kAryagaLannu mADuttave. vibakti-oTTugaLu mUladravIDa mUladinda kadiyabahudu endu baT avaru dravIDa-sArAdra hOlikeyu mUlaka tOrisuttAre. nAma-sxSTiya oTTugaLu, pada-gumpu-rUpagaLu, mattu nAmapadagaLa mUru bEru-vargagaLinda uttpattiyannu aDDyAya vivEcisuttade.
 
 ---
 
@@ -102,7 +102,7 @@ kannaD nAmapadagaLa sRiSTi mattu avugaLa vibakti-oTTugaLa caritra ee aDDyAyada v
 
 *(ಆಡುಗ ಮತ್ತು ತೋರುಗ ಪದಗಳು)*
 
-ADuga padagaLu (personal pronouns) — adu 1aMa mattu 2aMa puruSa — mattu tOruga padagaLu (demonstrative pronouns) ee aDDyAyada viSaya. mUladravIDadi mUru-bageya tOruga-padagaLu idduve: hattira (proximal), aLLe (medial, addressee-near), mattu dUra (distal). kannaDigaLa naDugannaDa bayaLu-seeme oLanuDigaLalli ee mUru-bageyu eraDu-bageya rUpakke kaDime-Agattu (2-way demonstrative collapse): iMtAhikke "I/A" eMda eraDu mAtra. ADuga padagaLa caritra vivEcisuttu, 1aMa puruSa eraDu-vacanadi oLagoLLuva/oLagoLLada bedavu mUladravIDadiMda baMdeMdu muMde avaru sthApisi, ee bedavu bayaLu-seeme kannaDigaLalli aLisogade hOgiruvadarella aDDyAya spurisuttade.
+ADuga padagaLu (personal pronouns) — adu 1ama mattu 2ama puruSa — mattu tOruga padagaLu (demonstrative pronouns) ee aDDyAyada viSaya. mUladravIDadi mUru-bageya tOruga-padagaLu idduve: hattira (proximal), aLLe (medial, addressee-near), mattu dUra (distal). kannaDigaLa naDugannaDa bayaLu-seeme oLanuDigaLalli ee mUru-bageyu eraDu-bageya rUpakke kaDime-Agattu (2-way demonstrative collapse): intAhikke "I/A" enda eraDu mAtra. ADuga padagaLa caritra vivEcisuttu, 1ama puruSa eraDu-vacanadi oLagoLLuva/oLagoLLada bedavu mUladravIDadinda bandendu munde avaru sthApisi, ee bedavu bayaLu-seeme kannaDigaLalli aLisogade hOgiruvadarella aDDyAya spurisuttade.
 
 ---
 
@@ -110,7 +110,7 @@ ADuga padagaLu (personal pronouns) — adu 1aMa mattu 2aMa puruSa — mattu tOru
 
 *(ಗುಣಪದಗಳು)*
 
-guNapadagaLu (qualifiers) eraDu bageya: nAma-sRiSTiya guNapadagaLu (nominal qualifiers, hesarugaLiMda bandavugaLu) mattu kriyA-sRiSTiya guNapadagaLu (verbal qualifiers, esaka-padagaLiMda bandavugaLu). aDDyAya eraDarallU kANisuvudu mUru bEru-vargagaLiMda (nAma, kriyA, guNa) uttpattiyAguttave eMbadannu — ee mUru-bEru vyavasthe mUladravIDadiMda kaDiyabahudu. anugAmi padagaLu (imitative/ideophonic words) saha kannaD guNapada-sRiSTiyalli ondu viSeSa sthAna hoMdivave eMdu baT avaru vivEcisuttAre. guNapadagaLu saMskRita guNa-padagaLa hAge linga-vacana-vibaktikke baddalAguvudilla — idu dravIDa-sIdda svabhAvada mukyavAda ciha.
+guNapadagaLu (qualifiers) eraDu bageya: nAma-sxSTiya guNapadagaLu (nominal qualifiers, hesarugaLinda bandavugaLu) mattu kriyA-sxSTiya guNapadagaLu (verbal qualifiers, esaka-padagaLinda bandavugaLu). aDDyAya eraDarallU kANisuvudu mUru bEru-vargagaLinda (nAma, kriyA, guNa) uttpattiyAguttave embadannu — ee mUru-bEru vyavasthe mUladravIDadinda kaDiyabahudu. anugAmi padagaLu (imitative/ideophonic words) saha kannaD guNapada-sxSTiyalli ondu viSeSa sthAna hondivave endu baT avaru vivEcisuttAre. guNapadagaLu samskxta guNa-padagaLa hAge linga-vacana-vibaktikke baddalAguvudilla — idu dravIDa-sIdda svabhAvada mukyavAda ciha.
 
 ---
 
@@ -118,7 +118,7 @@ guNapadagaLu (qualifiers) eraDu bageya: nAma-sRiSTiya guNapadagaLu (nominal qual
 
 *(ಸ್ಥಿತಿ / ವಾಕ್ಯಗಳ ಒಳರಚನೆ)*
 
-esakada vAkya (action sentence — kartu + karma + kriyA) mattu irikeya vAkya (state sentence — nAmapadada gurupadi) eMda eraDu mukhya vAkya-bageya bedavannu ee aDDyAya mADuttade. kannaD SOV (kartu-karma-kriyA) kramava heraLuttade — idu mUladravIDa kAlada muMde iddeMdu hELabahudu. aDDyAya oDDu-tALuva rUpagaLu (subordinating forms) mattu aneka-vAkya racaneyali avugaLa kArya vivEcisuttade. punarAmati (reconstruction) eMba vicAravAgi: nAvE kannaD caritra-vyAkaraNadi hEgaLavarege hOgabahudu eMba mItigaLannu baT avaru nERavAgi hELuttAre — ee mUru-sAkSi mArga-gArannu (dvani-sAkSi, pada-sAkSi, vyAkaraNa-sAkSi) ellarU mADabahudu alla eMdu sparSisuttade.
+esakada vAkya (action sentence — kartu + karma + kriyA) mattu irikeya vAkya (state sentence — nAmapadada gurupadi) enda eraDu mukhya vAkya-bageya bedavannu ee aDDyAya mADuttade. kannaD SOV (kartu-karma-kriyA) kramava heraLuttade — idu mUladravIDa kAlada munde iddendu hELabahudu. aDDyAya oDDu-tALuva rUpagaLu (subordinating forms) mattu aneka-vAkya racaneyali avugaLa kArya vivEcisuttade. punarAmati (reconstruction) emba vicAravAgi: nAvE kannaD caritra-vyAkaraNadi hEgaLavarege hOgabahudu emba mItigaLannu baT avaru nEravAgi hELuttAre — ee mUru-sAkSi mArga-gArannu (dvani-sAkSi, pada-sAkSi, vyAkaraNa-sAkSi) ellarU mADabahudu alla endu sparSisuttade.
 
 ---
 
@@ -159,4 +159,4 @@ esakada vAkya (action sentence — kartu + karma + kriyA) mattu irikeya vAkya (s
 
 ---
 
-*ee dastavEju Di. En. sankara baT avarA "kannaD nuDi naDeDu banda dAri" (2007) pustakadinaduva Eke baraha-rUpadi saMyOjita saraMsa. English saraMsa [17-kannada-nudi-nadedu-banda-dari-en.md](./17-kannada-nudi-nadedu-banda-dari-en.md) dalli kANabahudu.*
+*ee dastavEju Di. En. sankara baT avarA "kannaD nuDi naDeDu banda dAri" (2007) pustakadinaduva Eke baraha-rUpadi samyOjita saramsa. English saramsa [17-kannada-nudi-nadedu-banda-dari-en.md](./17-kannada-nudi-nadedu-banda-dari-en.md) dalli kANabahudu.*

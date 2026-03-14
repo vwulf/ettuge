@@ -25,12 +25,12 @@ Uppercase = retroflex, special, or long:
 | U | long ಊ | u | short ಉ |
 | E | long ಏ | e | short ಎ |
 | O | long ಓ | o | short ಒ |
-| R | old ಱ (→ r in EK) | r | ರ |
+| R | ಱ (archaic retroflex ṟ — preserved in Eke romanisation; in EK speech sounds like r) | r | ರ (common r — **always lowercase**) |
 | Z | old ೞ (→ L in EK) | — | — |
 | G | velar nasal ಙ | g | ಗ |
 | Y | palatal nasal ಞ | y | ಯ |
 | H | visarga ಃ | h | ಹ |
-| X | vocalic ಋ | — | — |
+| X | ೠ / ೄ (vocalic ṝ, long — very rare) | x | ಋ / ೃ (vocalic ṛ, short) |
 
 **Key distinction**: S = ಶ (palatal sibilant), NOT a generic "sh". s = ಸ (alveolar). These are different sounds.
 
@@ -92,7 +92,8 @@ In full Eke, aspirates use digraphs. In Eke(ek), drop the `h`:
 | ಓ | ಓ | O | long |
 | ಐ | ಅಯ್ | ay | diphthong (EK: ay not ai) |
 | ಔ | ಅವ್ | av | diphthong (EK: av not au) |
-| ಋ | (ri/ru) | x | vocalic R, Sanskrit only |
+| ಋ / ೃ | — | x | vocalic ṛ (short), Sanskrit loanwords — e.g. ಸಂಸ್ಕೃತ→`samskxta`, ಸೃಷ್ಟಿ→`sxSTi` |
+| ೠ / ೄ | — | X | vocalic ṝ (long) — extremely rare |
 | ಃ | — | H | visarga, rare in EK |
 
 ---
@@ -134,14 +135,16 @@ The anusvAra ಂ before a plosive is written as the nasal+plosive combination:
 
 Examples: ಂಶ = mSa, ಂಸ = msa, ಂರ = nra, ಂವ = nva
 
+> **Critical disambiguation**: `N` (uppercase) is **exclusively** retroflex ಣ. Never write N as anusvara before stop consonants — `linga` not `liNga`, `tunDu` not `tuNDu`. The anusvara before g/k/d/t/b/p/c/j always uses lowercase `n` or `m`.
+
 ---
 
 ## Six Transliteration Rules Summary
 
 1. **Aspirates (Eke(ek))**: Drop `h` in aspirate digraphs: kh→k, gh→g, ch→c, jh→j, Th→T, Dh→D, th→t, dh→d, ph→p, bh→b, Sh→S
-2. **Old Kannada letters (Eke(ek))**: ಱ (Ra) → ra; ೞ (Za) → La
-3. **Nasal assimilation**: anusvAra before plosives → nasal+plosive pairs (nka, nca, nTa, nta, mpa, etc.)
-4. **Case sensitivity**: Uppercase = retroflex or special; S = ಶ (not sh); long vowels uppercase (A, I, U, E, O)
+2. **Old Kannada letters**: ಱ → `R` in Eke romanisation (preserved to mark the archaic retroflex ṟ; in EK speech it sounds like r); ೞ (Za) → `L`
+3. **Nasal assimilation — never M**: anusvAra ಂ always written as the assimilated nasal+C pair. Before labials (b,p,m,v,h,y) → **m**; before all others → **n**. Examples: `kamba`, `kankaNa`, `samskxta`. N (uppercase) is exclusively ಣ (retroflex nasal) — never use N as anusvara.
+4. **Case sensitivity**: Uppercase = retroflex or special; S = ಶ/ಷ (not sh); long vowels uppercase (A, I, U, E, O); x = ಋ/ೃ (vocalic ṛ short), X = ೠ/ೄ (vocalic ṝ long)
 5. **Inherent vowel**: Every consonant has inherent `a`; suppressed by virama ್ in clusters
 6. **Parenthetical optional aspirate**: `kaS(h)TagaLa` — `h` in parens = can be dropped in Eke(ek)
 

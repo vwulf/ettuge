@@ -1,5 +1,5 @@
 # DNS Bhat Ettuge Project — Recap
-*Last updated: 2026-03-13*
+*Last updated: 2026-03-13 (Phase 9)*
 
 ---
 
@@ -246,11 +246,38 @@ All `en.md` files now follow the Book 14 template: every chapter/section heading
 
 **Methodology for transcript books:** Unlike OCR books, transcript books have no continuous chapter text — only partial lecture recordings with gaps. The `en.md` files use a "Thematic Structure (Replacing Table of Contents)" format with coverage notes per section indicating which parts are readable vs. garbled. The `kn-eke.md` files extract and romanise the best available passages (rather than attempting whole-book coverage). The `claude-prompt.md` files follow the standard template adapted for transcript-quality sources, including explicit source limitation notes.
 
+### Phase 9 — Eke Romanisation Bug-Fix Passes (2026-03-13)
+
+Systematic correction of four romanisation errors propagated across all processed `kn-eke.md` files. Errors originated from LLM generation using HK-adjacent conventions instead of Eke rules.
+
+| Pass | Error pattern | Correct Eke | Files | Instances |
+|------|--------------|-------------|-------|-----------|
+| 1 — Anusvara (M) | `M` used for anusvāra (HK style) | Assimilated nasal+C: `mb, mp, nk, ng, nc, nt, nd…` — **never standalone M** | 14 files | ~1,511 |
+| 2 — N as anusvara | `N` (retroflex ಣ) used before stop consonants | `n` before stop consonants; N reserved exclusively for ಣ | 12 files | ~69 |
+| 3 — R as ರ | `R` (exclusively ಱ) incorrectly used for common ರ | Lowercase `r` for all ರ; R kept exclusively for ಱ | 9 files | ~230 |
+| 4 — Vocalic ṛ as ri/ru | `kRi/sri/kri/kru` used for ೃ/ಋ (vocalic ṛ) | Eke `x` (short ṛ = ಋ/ೃ); Eke `X` (long ṝ = ೠ/ೄ) | all files | ~400+ |
+
+**Pass 4 specific word families fixed:**
+
+| Wrong | Correct | Kannada | Count |
+|-------|---------|---------|-------|
+| `samskrita / samskruta / samskrta` | `samskxta` | ಸಂಸ್ಕೃತ | ~400 |
+| `sriSTi` | `sxSTi` | ಸೃಷ್ಟಿ | ~30 |
+| `driSTi` | `dxSTi` | ದೃಷ್ಟಿ | ~10 |
+| `driSya` | `dxSya` | ದೃಶ್ಯ | 3 |
+| `srijana` | `sxjana` | ಸೃಜನ | 1 |
+| `mrita` | `mxta` | ಮೃತ | 1 |
+| `tritIya` | `txtIya` | ತೃತೀಯ | 2 |
+
+**Caution applied:** Words where original Kannada genuinely has ಕ್ರ + ಉ/ಇ (consonant r + vowel) were not changed. Examples: `krutaka` (ಕ್ರುತಕ), `krudanta`, `krullingagaLa`, `kriyA` (ಕ್ರಿಯಾ) — all verified to use consonant r, not ೃ sign.
+
+**Skill files updated** — both `dns-bhat-book-summarizer/SKILL.md` and `dns-bhat-transcript-summarizer/SKILL.md` vowel/consonant tables corrected with all four rules. `ellara-kannada-word-coiner/SKILL.md` and `references/eke-romanization.md` also updated.
+
 ---
 
 ## Eke Romanisation System
 
-**Ellara KannaDa (Eke)** is a romanisation of Kannada devised by Vishwas - inspired by HK protocol and DNS Bhat's ideas, designed to be learnable by any Indian and usable by non-Kannada readers. It is the romanisation used throughout the `-kn-eke.md` files.
+**Ellara KannaDa (Eke)** is a romanisation of Kannada devised by Vishwas — inspired by HK protocol and DNS Bhat's ideas, designed to be learnable by any Indian and usable by non-Kannada readers. It is the romanisation used throughout the `-kn-eke.md` files.
 
 ### Core Rules
 
@@ -258,11 +285,16 @@ All `en.md` files now follow the Book 14 template: every chapter/section heading
 |---------|-----------|---------|
 | Short vowels | lowercase | a i u e o |
 | Long vowels | UPPERCASE | A I U E O |
-| No aspirates | ಭ→b, ಧ→d, ಖ→k, ಥ→t, ಫ→p | bhASha, karnATaka |
+| No aspirates | ಭ→b, ಧ→d, ಖ→k, ಥ→t, ಫ→p | bAsha, baddu |
 | Retroflexes | UPPERCASE consonant | T D N L (ಟ ಡ ಣ ಳ) |
-| ಶ | S | SiLLe |
+| ಶ | S | viSwAsa |
+| ಷ | Sh | santOSha |
 | ಹ | h | hesaru |
-| Anusvara assimilation | context-sensitive nasal | ಂಕ→nk, ಂಗ→ng, ಂತ→nt, ಂದ→nd, ಂಪ→mp, ಂಬ→mb |
+| Anusvara assimilation | context-sensitive nasal — **never M** | ಂಕ→nk, ಂಗ→ng, ಂತ→nt, ಂದ→nd, ಂಪ→mp, ಂಬ→mb |
+| N | **exclusively ಣ** (retroflex nasal) — never anusvara | kaNNu, maNNu |
+| r vs R | lowercase `r` = ರ; uppercase `R` = ಱ (archaic, rare) | `hesaru`, `nuDi` — never `hesaRu` |
+| ಋ / ೃ | `x` (short vocalic ṛ) | `samskxta`, `sxSTi`, `dxSTi` |
+| ೠ / ೄ | `X` (long vocalic ṝ, extremely rare) | — |
 
 ### Key Terminology in Eke
 

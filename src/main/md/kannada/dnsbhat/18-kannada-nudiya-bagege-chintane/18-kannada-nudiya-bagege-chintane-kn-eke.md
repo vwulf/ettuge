@@ -29,7 +29,7 @@ Companion files:
 1. [iNukunOTa 11 — arimeyinda nuDi](#inukunota-11)
 2. [iNukunOTa 2 — maneya horagaDe](#inukunota-2)
 3. [iNukunOTa 3 — Oduvante bareya](#inukunota-3)
-4. [iNukunOTa 10 — Oduvante bareyuvudu (muMde)](#inukunota-10)
+4. [iNukunOTa 10 — Oduvante bareyuvudu (munde)](#inukunota-10)
 5. [iNukunOTa 14 — barahakke mElme](#inukunota-14)
 6. [iNukunOTa 18 — nuDigaLa naDuvina nantastike](#inukunota-18)
 7. [iNukunOTa 20 — barahadalli yAvudu sari](#inukunota-20)
@@ -51,7 +51,7 @@ arimeyinda padagaLige kannaDavE mElu
 
 [English →](./18-kannada-nudiya-bagege-chintane-en.md#inukunota-11)
 
-kannaDa nuDi arimeyinda padagaLige tana mUlada padagaLannu balaside sariyAdu, samskrtadinda sAla taredukOLLuva Avashyakata illa. yurupada nuDigaLige grIk mattu lATin satta nuDigaLu — avugaLu badalaAguvudiLLa, adakkarinDa tOlaguvudu neDi. Adare samskrta ippattikku jivantu nuDi; adara baLakeyalli jAti mattu mellana kELumE sangatavannu kannaDigarige nenapisuttade. kannaDadalle svastha taLahadi mEle hosamATugaLannu kaTTabahudu. samskrtada mATugaLannu Oyuva paddhati kannaDadiM kaLe mADuttade.
+kannaDa nuDi arimeyinda padagaLige tana mUlada padagaLannu balaside sariyAdu, samskxtadinda sAla taredukOLLuva Avashyakata illa. yurupada nuDigaLige grIk mattu lATin satta nuDigaLu — avugaLu badalaAguvudiLLa, adakkarinDa tOlaguvudu neDi. Adare samskxta ippattikku jivantu nuDi; adara baLakeyalli jAti mattu mellana kELumE sangatavannu kannaDigarige nenapisuttade. kannaDadalle svastha taLahadi mEle hosamATugaLannu kaTTabahudu. samskxtada mATugaLannu Oyuva paddhati kannaDadim kaLe mADuttade.
 
 ---
 
@@ -62,7 +62,7 @@ maneya horagaDe aDigemane pAkashAlEyAgabEkE?
 
 [English →](./18-kannada-nudiya-bagege-chintane-en.md#inukunota-2)
 
-maneyalli "aDigemane" eMdu hELuva kannaDiga haMgada satkarada kelasadalli "pAkashAle" eMdu hELuttAne — Eke? Bhat idu nuDigana kILarimeya (inferiority complex) uLLuvakke guri eMdu tOrisuttAre. sAmAjika hemmELida nURu varushagaLu kannaDiganu tana nuDiya hoMdige mATugaLu samskrtakkintha tIrA mErege kaDideva eMba nambike koduvantE mADisive. rasikaTTu, patrikE, shrIkA kElasada mattu kalikayanalla samskrtada sAla padagaLu tiMdire nAvina mATugaLigE mEle bIDuttade. Bhat idu nIsaraNeyAgabEku eMdu hELuttAre.
+maneyalli "aDigemane" endu hELuva kannaDiga hangada satkarada kelasadalli "pAkashAle" endu hELuttAne — Eke? Bhat idu nuDigana kILarimeya (inferiority complex) uLLuvakke guri endu tOrisuttAre. sAmAjika hemmELida nUru varushagaLu kannaDiganu tana nuDiya hondige mATugaLu samskxtakkintha tIrA mErege kaDideva emba nambike koduvantE mADisive. rasikaTTu, patrikE, shrIkA kElasada mattu kalikayanalla samskxtada sAla padagaLu tindire nAvina mATugaLigE mEle bIDuttade. Bhat idu nIsaraNeyAgabEku endu hELuttAre.
 
 ---
 
@@ -73,7 +73,7 @@ padagaLannu Oduvante bareyabEku
 
 [English →](./18-kannada-nudiya-bagege-chintane-en.md#inukunota-3)
 
-samskrtadinda baMda padagaLannu kannaDigaru kannaDa uccaraNeyalli hELuttAre, Adare baraha samskrtada rItiyallE irutte — idu eMtu seriyAdadu? Bhat aIMdu nEradinda tOruttAre: (1) baraha kalika kaSTavAgutte; (2) kannaDa uccaraNe "caDDa" eMba nimisannu nIDutte; (3) samskrtakke kannaDa barahadalli prAmanIkata koDutte; (4) kannaDa tana barahada niyamagaLannu hobide; (5) samskrtada kali irdavarge nEyda pradhAnatavannu koDutte. Bhat hELuttAre: kannaDadalli baredante Odu, barahu.
+samskxtadinda banda padagaLannu kannaDigaru kannaDa uccaraNeyalli hELuttAre, Adare baraha samskxtada rItiyallE irutte — idu entu seriyAdadu? Bhat aIndu nEradinda tOruttAre: (1) baraha kalika kaSTavAgutte; (2) kannaDa uccaraNe "caDDa" emba nimisannu nIDutte; (3) samskxtakke kannaDa barahadalli prAmanIkata koDutte; (4) kannaDa tana barahada niyamagaLannu hobide; (5) samskxtada kali irdavarge nEyda pradhAnatavannu koDutte. Bhat hELuttAre: kannaDadalli baredante Odu, barahu.
 
 ---
 
@@ -84,18 +84,18 @@ Oduvante bareyuvudu
 
 [English →](./18-kannada-nudiya-bagege-chintane-en.md#inukunota-10)
 
-iNukunOTa 3 ra melinda muMduvarisutte, Bhat vAsana barahadalli samskrtada rIti yAke uLidukonDitu eMba eradA prashneyannu kai hoDiyuttAre: aitihaAsika kAraNa mattu samskrta-kalitagarU lEkhakarAgi irdabahudu. Adare I kAraNagaLu ippattikku sariyagiduve? kOriya mattu turkiya nuDigaLu avugaLa barahada sudhAraNe maadi (20nE shatabdadalli) uccaraNakke hattirada baraha taMdukoDida udAharaNa koDuttAre. kannaDakku oMdu nETa, sarala baraha paDeyuvudu sAdya mattu sahAya — adakkarinDa sAmAnya kannaDiganu nanmayannu paDeyuttAne.
+iNukunOTa 3 ra melinda munduvarisutte, Bhat vAsana barahadalli samskxtada rIti yAke uLidukonDitu emba eradA prashneyannu kai hoDiyuttAre: aitihaAsika kAraNa mattu samskxta-kalitagarU lEkhakarAgi irdabahudu. Adare I kAraNagaLu ippattikku sariyagiduve? kOriya mattu turkiya nuDigaLu avugaLa barahada sudhAraNe maadi (20nE shatabdadalli) uccaraNakke hattirada baraha tandukoDida udAharaNa koDuttAre. kannaDakku ondu nETa, sarala baraha paDeyuvudu sAdya mattu sahAya — adakkarinDa sAmAnya kannaDiganu nanmayannu paDeyuttAne.
 
 ---
 
 ### iNukunOTa 14 {#inukunota-14}
 
 **ಬರಹಕ್ಕೆ ಮೇಲ್ಮೆ ಬಂದುದು ಹೇಗೆ?**
-barahakke mElme baMdudu hEge?
+barahakke mElme bandudu hEge?
 
 [English →](./18-kannada-nudiya-bagege-chintane-en.md#inukunota-14)
 
-baraha oru kala mattu yaMtra — nUru varushagaLu, sAvirada varushagaLa hinde nuDi barahakku muMcAda uLide. Bhat hELuttAre: barahakke mElme baMdudu mudraNavE kAraNa. mudraNavu barahavanna nerene haMcuttade, "sariyAda" baraha mattu vyAkaraNavannu nelegoLisuttade, mattu bAyi nuDiya "rUpa" adu "tappu" eMba nambike haTTuttade. Bhat mUlabhUta sUtravannu nenapisuttAre: bAyi nuDi mudala, baraha adu pratibiMba. pratibiMbakke nERa tuLiyuvudu adara mUla alla. Odige mattu prajAtaMtra naDuvina saMbaMdavannu kUDa bareyuttAre — Odida manushya saMpUrNa prAjAnEdya bhAgIdAriyAda sakka.
+baraha oru kala mattu yantra — nUru varushagaLu, sAvirada varushagaLa hinde nuDi barahakku muncAda uLide. Bhat hELuttAre: barahakke mElme bandudu mudraNavE kAraNa. mudraNavu barahavanna nerene hancuttade, "sariyAda" baraha mattu vyAkaraNavannu nelegoLisuttade, mattu bAyi nuDiya "rUpa" adu "tappu" emba nambike haTTuttade. Bhat mUlabhUta sUtravannu nenapisuttAre: bAyi nuDi mudala, baraha adu pratibimba. pratibimbakke nEra tuLiyuvudu adara mUla alla. Odige mattu prajAtantra naDuvina sambandavannu kUDa bareyuttAre — Odida manushya sampUrNa prAjAnEdya bhAgIdAriyAda sakka.
 
 ---
 
@@ -106,7 +106,7 @@ nuDigaLa naDuvina nantastike
 
 [English →](./18-kannada-nudiya-bagege-chintane-en.md#inukunota-18)
 
-eraDu nuDigaLu "nentA" eMdu hEgE teeguvudu? Bhat spaShTamAgi hELuttAre: saMskrtika saMparka, haMcidukOLLida sAla padagaLu, yA bhugoLadalli hattirada nuDigaLu — ivugaLu sAku alla. vijJAniya rIti: niyamita svara-vyaMjana saMbaMdagaLannu paDeyabedu. kannaDa drAviDa nuDigaLa kuLadAgi, samskrtakku sEridaddalla. eraDara naDuvina sAla padagaLu saMparkadinda baMda padagaLu, gOtrasiMdha saMbaMdavannu tOruvudu alla. Bhat hELuttAre: eraDu nuDigaLu nEntA eMdu hELalu oMdu haMtada niyamita svara-badalavannu tOrisabEku.
+eraDu nuDigaLu "nentA" endu hEgE teeguvudu? Bhat spaShTamAgi hELuttAre: samskxtika samparka, hancidukOLLida sAla padagaLu, yA bhugoLadalli hattirada nuDigaLu — ivugaLu sAku alla. vijJAniya rIti: niyamita svara-vyanjana sambandagaLannu paDeyabedu. kannaDa drAviDa nuDigaLa kuLadAgi, samskxtakku sEridaddalla. eraDara naDuvina sAla padagaLu samparkadinda banda padagaLu, gOtrasindha sambandavannu tOruvudu alla. Bhat hELuttAre: eraDu nuDigaLu nEntA endu hELalu ondu hantada niyamita svara-badalavannu tOrisabEku.
 
 ---
 
@@ -117,7 +117,7 @@ barahadalli yAvudu sari, yAvudu tappu?
 
 [English →](./18-kannada-nudiya-bagege-chintane-en.md#inukunota-20)
 
-kannaDadalli "sari" eMbude kannaDa vyAkaraNadiM tIrmanisabEku — samskrta vyAkaraNadiM alla. samskrtadinda baMda padagaLu kannaDada uccaraNa, saMdhi, rUpagaLannu paDeyuvAga kannaDa niyamagaLu hattuttave. jana-nuDigaLa naDuvina bhedagaLu niyamita mattu sahaja — adannu "tappAda" eMbu kelasavilla. kannaDigarA sAtantryavE Adara, nAligeyaradu beredikEreyalla. Bhat hELuttAre: kannaDigana bAyi nuDi sahaja guri, baraha adu kENdra alla.
+kannaDadalli "sari" embude kannaDa vyAkaraNadim tIrmanisabEku — samskxta vyAkaraNadim alla. samskxtadinda banda padagaLu kannaDada uccaraNa, sandhi, rUpagaLannu paDeyuvAga kannaDa niyamagaLu hattuttave. jana-nuDigaLa naDuvina bhedagaLu niyamita mattu sahaja — adannu "tappAda" embu kelasavilla. kannaDigarA sAtantryavE Adara, nAligeyaradu beredikEreyalla. Bhat hELuttAre: kannaDigana bAyi nuDi sahaja guri, baraha adu kEndra alla.
 
 ---
 
@@ -128,7 +128,7 @@ kannaDa nuDi eSTu haLeyadu?
 
 [English →](./18-kannada-nudiya-bagege-chintane-en.md#inukunota-23)
 
-"kannaDa nuDi" mattu "kannaDa lipi" eraDu bEre bEre vishayagaLu. muMcina shilaashAsanagaLu 5–6nE shatabdadavu — adu lipi, nuDi alla. nuDigaLu barahakku muMce sAvirada varushagaLinDa irabahudAgitta. drAviDa nuDigaLa kula avugaLu prAcIna drAviDadiMda bErpaDida samayavannu hELuttade: kannaDada shAkhe tamiLintha muMcE bErpaTTitu. Bhat glottochronologyA udAharaNavannu balaside hELuttAre: kannaDa nuDi sAvaira varushagaLu haLeyadu, gODeyAdAru.
+"kannaDa nuDi" mattu "kannaDa lipi" eraDu bEre bEre vishayagaLu. muncina shilaashAsanagaLu 5–6nE shatabdadavu — adu lipi, nuDi alla. nuDigaLu barahakku munce sAvirada varushagaLinDa irabahudAgitta. drAviDa nuDigaLa kula avugaLu prAcIna drAviDadinda bErpaDida samayavannu hELuttade: kannaDada shAkhe tamiLintha muncE bErpaTTitu. Bhat glottochronologyA udAharaNavannu balaside hELuttAre: kannaDa nuDi sAvaira varushagaLu haLeyadu, gODeyAdAru.
 
 ---
 
@@ -139,7 +139,7 @@ pada mattu adara huruLu
 
 [English →](./18-kannada-nudiya-bagege-chintane-en.md#inukunota-27)
 
-oMTe dhvanigaLigE (phonemes) huruLu illad — huruLu padada maTTadalli uTTutade. oru pada halavu huruLugaLannu hOgaLabahudu: saMdarbhavannu nODi huruLannu ariguttEve. Bhat eraDu guri-vEdhagaLannu (referential mattu attributive identification) tOrisuttAre. upakaraNa mattu pratimE (metaphor) mUlaka padagaLu hoMdiku mATugaLannu beLeyutte. nuDi-arimeya (semantics) phOnolojiyanashTE vijJAniya vijnAna eMbu Bhat hELuttAre.
+onTe dhvanigaLigE (phonemes) huruLu illad — huruLu padada maTTadalli uTTutade. oru pada halavu huruLugaLannu hOgaLabahudu: sandarbhavannu nODi huruLannu ariguttEve. Bhat eraDu guri-vEdhagaLannu (referential mattu attributive identification) tOrisuttAre. upakaraNa mattu pratimE (metaphor) mUlaka padagaLu hondiku mATugaLannu beLeyutte. nuDi-arimeya (semantics) phOnolojiyanashTE vijJAniya vijnAna embu Bhat hELuttAre.
 
 ---
 
@@ -150,7 +150,7 @@ eNikeyallu halavu balegaLive
 
 [English →](./18-kannada-nudiya-bagege-chintane-en.md#inukunota-28)
 
-"hattarakke eNikE" (decimal) sarvavyApaka alla — hala nuDigaLu bEre eNike paddhati balasutte. Bhat bODO (Boro) nuDiya udAharaNavannu koduttAre: adu nAlkara mattu ippattu taLahadiyalli eNiyuttu. kannaDa mattu drAviDa nuDigaLa eNikeya padagaLu svastha drAviDa mUlagaLu — samskrtadinda sAla alla. eNikeyinda nuDiya tarkadalli bhedavAgutte eMbu Bhat hELuttAre.
+"hattarakke eNikE" (decimal) sarvavyApaka alla — hala nuDigaLu bEre eNike paddhati balasutte. Bhat bODO (Boro) nuDiya udAharaNavannu koduttAre: adu nAlkara mattu ippattu taLahadiyalli eNiyuttu. kannaDa mattu drAviDa nuDigaLa eNikeya padagaLu svastha drAviDa mUlagaLu — samskxtadinda sAla alla. eNikeyinda nuDiya tarkadalli bhedavAgutte embu Bhat hELuttAre.
 
 ---
 
@@ -161,7 +161,7 @@ padagaLa hinnaDavaLiyannu ariyuva bage
 
 [English →](./18-kannada-nudiya-bagege-chintane-en.md#inukunota-29)
 
-"ellA kannaDa padagaLU samskrtadinda" eMba vaadavanu Bhat kaTTunirAkaraNE mADuttAre. I vAdagAraru svara-badalada niyamagaLannu (sound change laws) balasirade, hengAdaru hOlikEyannu tOrisi "nentA" eMbu hELuttAre. nijamAda hinnaDavaLi: niyamita svara-badaladinda padagaLa nEntavannu tOrisabEku. kannaDakke eraDu pada-sancaya: (1) svastha drAviDa padagaLu mattu (2) samskrtadinda sAla padagaLu — I eraDu sancoyadannu bErekaNasuva rItiyannu Bhat tOrisuttAre.
+"ellA kannaDa padagaLU samskxtadinda" emba vaadavanu Bhat kaTTunirAkaraNE mADuttAre. I vAdagAraru svara-badalada niyamagaLannu (sound change laws) balasirade, hengAdaru hOlikEyannu tOrisi "nentA" embu hELuttAre. nijamAda hinnaDavaLi: niyamita svara-badaladinda padagaLa nEntavannu tOrisabEku. kannaDakke eraDu pada-sancaya: (1) svastha drAviDa padagaLu mattu (2) samskxtadinda sAla padagaLu — I eraDu sancoyadannu bErekaNasuva rItiyannu Bhat tOrisuttAre.
 
 ---
 
@@ -172,7 +172,7 @@ kannaDa nuDiya sogaDu
 
 [English →](./18-kannada-nudiya-bagege-chintane-en.md#inukunota-33)
 
-kannaDa nuDi tannadu eMbu tOrisu mattE svastha sogaDu (character) irade. samskrtakku illada dhvanigaLu kannaDalli ive: haLa (L, retroflex lateral), haLa-Na (N, retroflex nasal), prAraMbhada haLa-Da (D). samskrtadalli iru mAhAprANagaLu (kh, gh, ch, jh, pMgaira) svastha kannaDa padagaLalli illada — idu sAtantryada guri. sandhi niyamagaLu, pada-nirmaaNa rIti, dhvani-guchChagaLu — ivugaLallella kannaDa drAviDa mattu samskrta saMpUrNa bEre. I sogaDu kannaDada kula-bhaUmika — samskrtada koDataLa alla.
+kannaDa nuDi tannadu embu tOrisu mattE svastha sogaDu (character) irade. samskxtakku illada dhvanigaLu kannaDalli ive: haLa (L, retroflex lateral), haLa-Na (N, retroflex nasal), prArambhada haLa-Da (D). samskxtadalli iru mAhAprANagaLu (kh, gh, ch, jh, pMgaira) svastha kannaDa padagaLalli illada — idu sAtantryada guri. sandhi niyamagaLu, pada-nirmaaNa rIti, dhvani-guchChagaLu — ivugaLallella kannaDa drAviDa mattu samskxta sampUrNa bEre. I sogaDu kannaDada kula-bhaUmika — samskxtada koDataLa alla.
 
 ---
 
@@ -183,7 +183,7 @@ drAviDa nuDigaLu aidu alla, ippattu-Aru!
 
 [English →](./18-kannada-nudiya-bagege-chintane-en.md#inukunota-35)
 
-drAviDa nuDigaLa kuLadalli aidE nuDigaLu (kannaDa, telugu, tamiL, maLayALam, tuLu) eMba tappAda nambike hala janarige ide. Bhat tOruttAre: nUru nUru vijJAnigaru 26 drAviDa nuDigaLannu gaNisuttAre — nAlku upakuLagaLAgi: dakshinA drAviDa, dakshinottara drAviDa, kEMdrIya drAviDa, uttara drAviDa. balucu (pAkistAnadalli)da brAhUyi nuDi drAviDa kuLada — lipiyu, bhugoLavu nuDigaLa nEtannu nirdharisi alla. drAviDa nuDigaLu svara-badalada niyamitateyu bErakonDu tOruttade.
+drAviDa nuDigaLa kuLadalli aidE nuDigaLu (kannaDa, telugu, tamiL, maLayALam, tuLu) emba tappAda nambike hala janarige ide. Bhat tOruttAre: nUru nUru vijJAnigaru 26 drAviDa nuDigaLannu gaNisuttAre — nAlku upakuLagaLAgi: dakshinA drAviDa, dakshinottara drAviDa, kEndrIya drAviDa, uttara drAviDa. balucu (pAkistAnadalli)da brAhUyi nuDi drAviDa kuLada — lipiyu, bhugoLavu nuDigaLa nEtannu nirdharisi alla. drAviDa nuDigaLu svara-badalada niyamitateyu bErakonDu tOruttade.
 
 ---
 

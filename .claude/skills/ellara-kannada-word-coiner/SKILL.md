@@ -165,18 +165,34 @@ For technical vocabulary from Greek/Latin:
 
 ## Eke Romanization
 
-All output must include Eke transliteration alongside Kannada script.
+All output must include Eke transliteration alongside Kannada script. For full mappings see `references/eke-romanization.md`. Critical rules:
 
-**Aspirates removed** (these don't exist in natural Kannada speech):
-kh→k, gh→g, ch→c (not ch→ch), jh→j, th→t, dh→d, ph→p, bh→b
+**Aspirates removed** (Eke(ek) mode — no aspirates in natural Kannada speech):
+ಖ→k, ಘ→g, ಛ→c, ಝ→j, ಠ→T, ಢ→D, ಥ→t, ಧ→d, ಫ→p, ಭ→b
 
-**Retroflexes preserved** (important phonemic distinctions):
-ಟ→T, ಡ→D, ಣ→N, ಳ→L
+**Retroflexes — UPPERCASE** (important phonemic distinctions):
+ಟ→T, ಡ→D, ಣ→N, ಳ→L, ಶ/ಷ→S
+
+**Long vowels — UPPERCASE:**
+ಆ→A, ಈ→I, ಊ→U, ಏ→E, ಓ→O
+
+**Vocalic ṛ** (Sanskrit loanwords with ೃ/ಋ sign):
+ಋ / ೃ → **x** (short), ೠ / ೄ → **X** (long, very rare)
+Examples: ಸಂಸ್ಕೃತ → `samskxta`, ಸೃಷ್ಟಿ → `sxSTi`, ಕೃಷಿ → `kxSi`
 
 **Velar nasals:**
 ಙ→G, ಞ→Y
 
-For full mappings, see `references/eke-romanization.md`.
+**Anusvara ಂ — always assimilated, never written as M:**
+Before labials (b, p, m, v, h, y): → **m** | Before others (k, g, c, j, T, D, t, d, n, r, l, S, s, L): → **n**
+Examples: ಕಂಬ → `kamba`, ಕಂಕಣ → `kankaNa`, ಸಂಸ್ಕೃತ → `samskxta`
+
+**N is exclusively ಣ** — never use N as anusvara before stop consonants:
+`linga` not `liNga`, `tunDu` not `tuNDu`
+
+**r vs R:**
+- Lowercase `r` = ರ (always) — e.g., `hesaru`, `nuDi`
+- Uppercase `R` = ಱ (archaic retroflex, extremely rare in modern Kannada)
 
 ---
 

@@ -28,22 +28,22 @@
 
 ---
 
-*ingliS padagaLige kannadaddE padagaLu* emba 2008ralli hora banda kaDatannu neLeyAgirisikONDu I padanerakeyannu unTumADalAgide. idara guriyU A kaDatada guriyE Agide: ingliS nuDiyannu sAkaSTu tiLididdu, adaralli baruva padagaLige samanAgiruvante kannadaddE Agina padagaLu yAvuvive embaduvannu maTTu antaha padagaLannu hosa kannaDatalli baLasuvabAge hEgeMbaduvannu tiLiyabEkeMdiruvavaruge neravavannu nIDuvaduE I padanerakeya guriyU Agide.
+*ingliS padagaLige kannadaddE padagaLu* emba 2008ralli hora banda kaDatannu neLeyAgirisikOnDu I padanerakeyannu unTumADalAgide. idara guriyU A kaDatada guriyE Agide: ingliS nuDiyannu sAkaSTu tiLididdu, adaralli baruva padagaLige samanAgiruvante kannadaddE Agina padagaLu yAvuvive embaduvannu maTTu antaha padagaLannu hosa kannaDatalli baLasuvabAge hEgembaduvannu tiLiyabEkendiruvavaruge neravavannu nIDuvaduE I padanerakeya guriyU Agide.
 
 **triSanku padagaLu yAke?**
 
-kannaDakke hosa padagaLu bEkADagalellA avannnu saMskRutada pada maTTu oTTu(prataya)gaLannu baLasi unTumADikOLLuva vADikeyu kannaDada baragAraralli maTTu panDitaralli palavAru varSagaLiMda beLedubaMdide. nijakkU avaru unTumADiruva padagaLu kannadavU alla, saMskRutadavU alla. avannU `triSaMku' padagaLeMdu kaLeyabahudu. I triSanku padagaLu kannaDatalli tumbitugukuttireveMdu baT heLastAre.
+kannaDakke hosa padagaLu bEkADagalellA avannnu samskxtada pada maTTu oTTu(prataya)gaLannu baLasi unTumADikOLLuva vADikeyu kannaDada baragAraralli maTTu panDitaralli palavAru varSagaLinda beLedubandide. nijakkU avaru unTumADiruva padagaLu kannadavU alla, samskxtadavU alla. avannU `triSanku' padagaLendu kaLeyabahudu. I triSanku padagaLu kannaDatalli tumbitugukuttirevendu baT heLastAre.
 
 **triSanku padagaLa toDakuku eraDu kAraNagaLu:**
 
-1. hosa padagaLannu unTumADalu bEkAguvante padagaLu maTTu oTTugaLu kannaDadalli illaveMba anisike — iMdu tappu.
-2. saMskRuta padagaLige iruva maryAde kannaDa padagaLigillavennuvaMtaha kannaDada mEliruva kILarime — iMdu tappu.
+1. hosa padagaLannu unTumADalu bEkAguvante padagaLu maTTu oTTugaLu kannaDadalli illavemba anisike — indu tappu.
+2. samskxta padagaLige iruva maryAde kannaDa padagaLigillavennuvantaha kannaDada mEliruva kILarime — indu tappu.
 
 **parihAra:**
 
-kannaDada bErina padagaLannu hosa binanadalli baLasidarE, A padagaLa huruLugaLu hecutvA hOguttave. ingliSinalli `part' emba padakke tuMDu, bAgu, pAtra eMba heccina huruLugaLiruva hAge. kannaDada `tuMDu' O `pAlu' O heccina huruLukkE beLeyalu avasaravAguva kaDegaLalli kannaDa baragAraru saMskRuta padagaLannu baLasuttAre — iMdAgiye A kannaDa padagaLu beLeyuvudilla.
+kannaDada bErina padagaLannu hosa binanadalli baLasidarE, A padagaLa huruLugaLu hecutvA hOguttave. ingliSinalli `part' emba padakke tunDu, bAgu, pAtra emba heccina huruLugaLiruva hAge. kannaDada `tunDu' O `pAlu' O heccina huruLukkE beLeyalu avasaravAguva kaDegaLalli kannaDa baragAraru samskxta padagaLannu baLasuttAre — indAgiye A kannaDa padagaLu beLeyuvudilla.
 
-beLavaNigeyannu paDeda ingliSnanTaha nuDigaLa padanerakeagaLalli palavAru padagaLige ELenTu huruLugaLiruvaduannu kANabahudu. Adare, kannaDada padanerakeayalli antahavE padagaLige onDeraDu huruLugaLaSTEiruttave. iMdu kannaDatalli padagaLu bEra-bEra binanadalli baLasuvudilla — avugaLa huruLugaLu heccuvudilla.
+beLavaNigeyannu paDeda ingliSnanTaha nuDigaLa padanerakeagaLalli palavAru padagaLige ELenTu huruLugaLiruvaduannu kANabahudu. Adare, kannaDada padanerakeayalli antahavE padagaLige onDeraDu huruLugaLaSTEiruttave. indu kannaDatalli padagaLu bEra-bEra binanadalli baLasuvudilla — avugaLa huruLugaLu heccuvudilla.
 
 nijakkU ingliSina yAva padakku sATiyAguvanTaha padavannu kannadaDallEnE unTumADalu baruttade; idannnu torisikoDuvakakaAgiye I padanerake unTumADisalAgide.
 
@@ -58,9 +58,9 @@ nijakkU ingliSina yAva padakku sATiyAguvanTaha padavannu kannadaDallEnE unTumADa
 
 I padanerakeya vacanasaraNigaLu:
 
-**sollarimeyaMSagaLu** (kannaDa padakke saMbaMdisidar, ingliS padakke alla):
+**sollarimeyamSagaLu** (kannaDa padakke sambandisidar, ingliS padakke alla):
 
-| aMSa | Eke | kannaDa | artha |
+| amSa | Eke | kannaDa | artha |
 |------|-----|---------|-------|
 | **he** | he | ಹೆಸರುಪದ | noun |
 | **e** | e | ಎಸಕಪದ | verb |
@@ -68,25 +68,25 @@ I padanerakeya vacanasaraNigaLu:
 
 **sankhye** (1, 2, 3…): ondu padakke heccina huruLugaLidarE.
 
-**areaTe** (,): OMdu huruLige palavAru padagaLidarE, aretaDeyal bErapaDisutvAre.
+**areaTe** (,): Ondu huruLige palavAru padagaLidarE, aretaDeyal bErapaDisutvAre.
 
-**tUrigeli** `()': padada baLake tiLisuva padakaMte, jODupada, solla — ivugaLannu tUrigeninalli koDalAgide.
+**tUrigeli** `()': padada baLake tiLisuva padakante, jODupada, solla — ivugaLannu tUrigeninalli koDalAgide.
 
-**bEru (-aMdiga guruta)**: keLavu ingliS padagaLige kannaDada bErugaLannu koDalAgide. uMtuge: *charge* emba padakke `hEr-, her-' eMba bErugaLannu koDalAgide.
+**bEru (-andiga guruta)**: keLavu ingliS padagaLige kannaDada bErugaLannu koDalAgide. untuge: *charge* emba padakke `hEr-, her-' emba bErugaLannu koDalAgide.
 
-**niyama 1**: seMta sollarimeyaMSagaLu (he, e, pa) — avugaLa naMtara baruva kannaDa padagaLige saMbaMdisuttave, ingliS padakke alla.
+**niyama 1**: senta sollarimeyamSagaLu (he, e, pa) — avugaLa nantara baruva kannaDa padagaLige sambandisuttave, ingliS padakke alla.
 
-**niyama 2**: ondu ingliS padakke onDakiMta hecca huruLugaLidarE, 1, 2, 3... aMdAgi guruta mADalAgide.
+**niyama 2**: ondu ingliS padakke onDakinta hecca huruLugaLidarE, 1, 2, 3... andAgi guruta mADalAgide.
 
-**niyama 3**: OMdu huruLige palavAru kannaDa padagaLidarE, aretaDe (,) biTTu bErapaDisalAgide.
+**niyama 3**: Ondu huruLige palavAru kannaDa padagaLidarE, aretaDe (,) biTTu bErapaDisalAgide.
 
-**niyama 4**: baLake tiLisuva padakaMte, jODupada, solla eMbuvugaLannu tUrigeli ()yalli koDalAgide; avugaLannu arEkOne (;) biTTu bErapaDisalAgide.
+**niyama 4**: baLake tiLisuva padakante, jODupada, solla embuvugaLannu tUrigeli ()yalli koDalAgide; avugaLannu arEkOne (;) biTTu bErapaDisalAgide.
 
 **niyama 5**: keLavu ingliS padagaLige kannaDada bErugaLu (roots) koDalAgive. bErugaLannu aDagere (-) biTTu bErapaDisalAgide.
 
-**uMtuge (book.md iMda)**:
+**untuge (book.md inda)**:
 
-*abuse* e bayyU (baydATa), jare (itararannella jaredu tannannu hogaLikOLLuttiddAne), jabbarisu, tegaLu **he** 1 koMDe, tiTTu, uTTi, cunna, pare, bayguLu 2 kILbaLake, tappubaLake
+*abuse* e bayyU (baydATa), jare (itararannella jaredu tannannu hogaLikOLLuttiddAne), jabbarisu, tegaLu **he** 1 konDe, tiTTu, uTTi, cunna, pare, bayguLu 2 kILbaLake, tappubaLake
 
 ---
 
@@ -102,15 +102,15 @@ I padanerakeya vacanasaraNigaLu:
 
 ```
 a little     pa  nasu (nasu mAsida rekke, nasugattaLe, nasunage),
-                 iLi (iLiyaSTAdaru koDi), Enikke, koMca
-                 (koMca hottAyitu), kITu, tusu (avanu
+                 iLi (iLiyaSTAdaru koDi), Enikke, konca
+                 (konca hottAyitu), kITu, tusu (avanu
                  tusu hottu mAtanADade kuLitidda; tusunagu)
 
-abacinate    e   miMcuguruDisu (sereyALugaLannu
-                 miMcuguruDislAyitu), hoLapuguruDisu
+abacinate    e   mincuguruDisu (sereyALugaLannu
+                 mincuguruDislAyitu), hoLapuguruDisu
 
-abacination  he  miMcuguruDu (sereArug sereyALugaLige
-                 miMcuguruDina muypu koTTa),
+abacination  he  mincuguruDu (sereArug sereyALugaLige
+                 mincuguruDina muypu koTTa),
                  hoLapuguruDu
 
 abacus       he  eNNupaTTi (AvattinA paDapannu lekkahAkalu
@@ -119,10 +119,10 @@ abacus       he  eNNupaTTi (AvattinA paDapannu lekkahAkalu
 abandon      e   1 tolagu (avanu yAvAga tolagihOguttAne?)
                  2 nIgu (koTTa mAtannu nIgida; nIgADu),
                  biTTukoDu, kaybIDu, kaLe, tore (ivaru
-                 ellavannu toredu maMjubeTTakke hOdavaru)
+                 ellavannu toredu manjubeTTakke hOdavaru)
              he  toreta, nIgike
 
-abandoned    pa  aMketappida (maMdiya aMketappida
+abandoned    pa  anketappida (mandiya anketappida
                  halavu nAygaLu kADinalli tirugADuttive),
                  hiDatavillada, kADu
 
@@ -134,7 +134,7 @@ abarticulation he jArukIlu (kILeNNe hAkidare jArukIlu
 
 abashed      pa  madipukeTTa, galibiligonDa, nAcida
 
-abate        e   kuggu (nere kuggalu suruvAgide), kuMdu,
+abate        e   kuggu (nere kuggalu suruvAgide), kundu,
                  taggu
 
 abattoir     he  kollumane (mudi hasugaLannu Ata
@@ -149,8 +149,8 @@ abbot        he  mElbiDuga (kiriya biDugarige tiLuvaLike
 abbreviate   e   kiridumADu, aDakamADu (nimma
                  barahavannu tusu aDakagOLisi koDi)
 
-abbreviation he  aDakame (kuppaLLi veNkaTappa puTTappa
-                 emba hesarina aDakame kuveMpu;
+abbreviation he  aDakame (kuppaLLi venkaTappa puTTappa
+                 emba hesarina aDakame kuvempu;
                  I barahadalli baLasiruva aDakamegaLa
                  biDisuvikeyannu hottageya koLeyanalli
                  koDalAgide)
@@ -161,12 +161,12 @@ abdicate     e   tore (arasu gaddugeyannu toredu
 abdomen      he  hoTTe (hoTTenOvu; hoTTebaru)
 
 abduct       e   hArisu (avara makkhaLannu yArO
-                 hArisikoMDu hOgiddAre), ettiAku, egarisu
+                 hArisikonDu hOgiddAre), ettiAku, egarisu
 
 abductor     he  hArisuga (hArisugaru tumba
                  biDubelleyannu kELuttiddAre)
 
-aberrate     e   pATigeDA (nAvu tiLisida hoLabiniMda
+aberrate     e   pATigeDA (nAvu tiLisida hoLabininda
                  avaru pATigeTTiddAre)
 
 aberration   he  tappubaLake, haLitappike, pATigEDu
@@ -178,10 +178,10 @@ abettor      he  oDaseraga (Atana koleyanalli ivanu
                  obbanu oDaseraganAgidda)
 
 abeyance     he  taDehiDike (kaTaLeya taDehiDikekkAgi
-                 ivaru ottAyisuttiddAre), hiMdiDuge
+                 ivaru ottAyisuttiddAre), hindiDuge
 
 abhor        e   hEsu (Ata yAvudakkU hEsadavanu),
-                 kisuRisu
+                 kisurisu
 
 abhorrent    pa  hEsikeyda (hEsikeya kelasa),
                  ciTTuhiDiva, rOsihOguva
@@ -190,7 +190,7 @@ abide        e   1 oppu (oppinaDe) 2 aLiyadiru,
                  aLiyaduLi (adOndanu nenappu Atanalli
                  aLiyaduLidide)
 
-abiding      pa  bALuva (bALuva naMbike),
+abiding      pa  bALuva (bALuva nambike),
                  aLiyaduLiyuva
 
 ability      he  balme (ATada balme), Arme, aLavike
@@ -210,12 +210,12 @@ abjuct       pa  madipukeDisuva (madipukeDisuva baDatana),
                  keccillada (keccillada naDavaLike)
 
 abjure       e   ANeyiDu, sUruLisu (yAvattU I
-                 mAtike tappuvudillaveMdu sUruLisida)
+                 mAtike tappuvudillavendu sUruLisida)
 
 ablaze       pa  dagadagane uriyuva (dagadagane uriyuva
                  kaTTaDada hattira yArU hOgalAru)
 
-able         e   tIru (adu ninniMda tIrada kelasa),
+able         e   tIru (adu ninninda tIrada kelasa),
                  bal (mADaballe), Aru (koDalAre;
                  hOgalAre; Aradavanu), ari
                  (mADalariyada huDuga), ammu (mADalamme)
@@ -224,12 +224,12 @@ able         e   tIru (adu ninniMda tIrada kelasa),
 
 abnegation   he  toreta, nIgike
 
-abnormal     pa  OjetappidA, eMdinaDallade (I maguvinu
-                 eMdinaDallade beLavaNige kANisuttide),
+abnormal     pa  OjetappidA, endinaDallade (I maguvinu
+                 endinaDallade beLavaNige kANisuttide),
                  haduLatappuva, kaTTaletappuva
 
-abnormality  he  OjetappikE (Atanalli huTTiniMdalE
-                 ondu OjetappikE mUDubaMditu)
+abnormality  he  OjetappikE (Atanalli huTTinindalE
+                 ondu OjetappikE mUDubanditu)
 
 abode        he  niluvu (I makkhaLa niluvellideyO
                  tiLiyadu), mane, neLe (neLeyilladavaru),
@@ -248,19 +248,19 @@ abolition    he  nIgANike, konegANike (eLemaduvegaLa
 abominable   pa  hEsigeya (A seremaneyalli sereyALugaLannu
                  naDesikoLLuva bage hEsigeyAgide)
 
-abominate    e   hagemADu, kisuRisu, kaMDarAgadiru
-                 (Akege bekkugaLannu kaMDarAguvudilla)
+abominate    e   hagemADu, kisurisu, kanDarAgadiru
+                 (Akege bekkugaLannu kanDarAguvudilla)
 
 aboriginal   pa  buDakaTTina (Ake ondu buDakaTTina
-                 janara nuDiyannu kaliyabEkeMdiddALe)
-             he  buDakaTTina maMdi
+                 janara nuDiyannu kaliyabEkendiddALe)
+             he  buDakaTTina mandi
 
 abort        e   mayyiLisu, basiriLisu (magu koreyuLLu-
-                 dendU gottAdudariMda Akege
+                 dendU gottAdudarinda Akege
                  basiriLisabEkAyitu)
 
-abortion     he  mayyiLita (Akege aydanE tiMgaLalli
-                 mayyiLitavuMTAyitu), basiRiLita
+abortion     he  mayyiLita (Akege aydanE tingaLalli
+                 mayyiLitavunTAyitu), basiriLita
 
 abortionist  he  basiriLisuga (Ake yArigU tiLiyada
                  hAge basiriLisugana llige hOgiddaLu)
@@ -279,14 +279,14 @@ abrade       e   kere (nelakke hiDida kesarannu
                  keredu tegeda), kiruku, ujju
 
 abrasion     he  1 kereta, ujjike 2 ujjugAya
-                 (baMDiyiMda keLage biddavanige
+                 (banDiyinda keLage biddavanige
                  ujjugAyavAgitu)
 
 abrasive     pa  1 oraTu (oraTu baTTe) 2 kanikaravilla,
                  birusu (birusu nuDi)
 
 abreast      pa  1 oTToTTige (ibbaru oTToTTige
-                 baMdaru) 2 iMdinarivu
+                 bandaru) 2 indinarivu
 
 abridge      e   aDakamADu, aDakagOLisu (nimma
                  katteyannu tusu aDakagOLisabbEku),
@@ -315,11 +315,11 @@ abundant     pa  tumbidAda
 abuse        e   bayyu (baydATa), jare (itararannella
                  jaredu tannannu hogaLikOLLuttiddAne),
                  jabbarisu, tegaLu
-             he  1 koMDe (Atana koMDeyamu kELalAgadu;
-                 koMDisu), tiTTu, uTTi (uTTi mAtu),
+             he  1 konDe (Atana konDeyamu kELalAgadu;
+                 konDisu), tiTTu, uTTi (uTTi mAtu),
                  cunna (cunnavADu; ULigadavara
                  kayyalli nannannu cunnavADisidalLu;
-                 cunnaMaDu), pare,
+                 cunnamaDu), pare,
                  bayguLu (keTTa bayguLu)
              2   kILbaLake (avaru maddannu kILbaLake
                  mADuttiddAre), tappubaLake
@@ -330,7 +330,7 @@ abyss        he  agataDa, gambIrataDa
 
 academy      he  kalimane (ige A kalimaneyu baLalAgide)
 
-accelerate   e   vEgadeMdu noDa
+accelerate   e   vEgadendu noDa
 
 accept       e   oppikOLLu, oppikO
 
@@ -338,7 +338,7 @@ accessible   pa  tegaduballa
 
 accident     he  terahina agu
 
-accolade     he  meccu, kodugeya UraMDe
+accolade     he  meccu, kodugeya UranDe
 
 accomplish   e   tIru, geluvu
 
@@ -360,7 +360,7 @@ acquaintance he  paricitagaLu
 
 acquire      e   paDedukO, gOLisu, tOru
 
-action       he  esage, kelaskaaMte
+action       he  esage, kelaskaante
 
 activity     he  esage, toDagu
 
@@ -386,9 +386,9 @@ adept        he  ariga, ceccariga
 
 adduce       e   1 etuge koDu 2 saluvu koDu
 
-adjourn      e   muMdUDu, muMde hAku
+adjourn      e   mundUDu, munde hAku
 
-adjournment  he  niluvali, muMdUDike
+adjournment  he  niluvali, mundUDike
 
 adjust       e   1 sarimADu, saripaDisu 2 honDikoLLu
 
@@ -413,7 +413,7 @@ alarm        he  eccaraganTe, bedarike, digilu,
 
 album        he  1 tiTTakaData 2 hADukaData
 
-alcohol      he  heMDa
+alcohol      he  henDa
 
 algebra      he  bittENikeyarime, sariyENikeyarime
 
@@ -431,9 +431,9 @@ alley        he  ONi
 
 alliance     he  honDANike
 
-allot        e   haMcu
+allot        e   hancu
 
-allotment    he  haMcike
+allotment    he  hancike
 
 alphabet     he  baragucu
 
@@ -456,7 +456,7 @@ announce     e   toDisuvu
 answer       he  uTTara, pratiuTTara
              e   uTTarikoDu
 
-anxiety      he  aMjike, taLamaLa
+anxiety      he  anjike, taLamaLa
 
 apathy       he  aLuke, nirasahe
 
@@ -476,18 +476,18 @@ argue        e   bakkuDigaTTu, dUsarIyu
 argument     he  bakkuDi
 
 arid         pa  oNa, kIcu
-             he  beMgADu
+             he  bengADu
 
-arise        e   uMTAgu, huTTu, uNmu, taledOru, mUDu
+arise        e   unTAgu, huTTu, uNmu, taledOru, mUDu
 
 army         he  paDe, pALeya, oDDaNa
 
-aroma        he  kaMpu
+aroma        he  kampu
 
 arrange      e   1 Erpapu 2 sAvagisu 3 hUDu,
                  aNigOLisu
 
-arrangement  he  ErpADu, niruge, pOMka, aTTaNe
+arrangement  he  ErpADu, niruge, pOnka, aTTaNe
 
 arrogance    he  sokku, kobbu, pappa, puggu, malepu
 
@@ -495,23 +495,23 @@ arrive       e   eytaru, eydu, talapu, baru
 
 arson        he  kiccIDuge, kiccikkike
 
-art          he  kale, kANkeyyta
+art          he  kale, kAnkeyyta
 
 axe          he  maccu, koDali (koDaliyalli mara kaDida)
 
 axis         he  naDugere (neLa tanna naDugereyya mEle
                  tiruguttade tirugugere
 
-axle         he  irasu (baMDiya irasu muridide),
-                 cakradaMDa
+axle         he  irasu (banDiya irasu muridide),
+                 cakradanDa
 
 axon         he  narada nAru (narada nArina mukhya
-                 kelasavenaMdare)
+                 kelasavenandare)
 
 azeotrope    he  nilmEbesavu
 
 azimuth      he  kOnaLate (idara kOnaLatE sumAru
-                 muvattu-Aru aMSa)
+                 muvattu-Aru amSa)
 
 azure        pa  kaDunIli (I kaDunIli baNNada hU tumba
                  sogasAgide)
@@ -519,14 +519,14 @@ azure        pa  kaDunIli (I kaDunIli baNNada hU tumba
 
 ---
 
-## Eke lEkhana niyamgaLu (saMkSepa)
+## Eke lEkhana niyamgaLu (sankSepa)
 
-| Eke niyama | uMtuge |
+| Eke niyama | untuge |
 |------------|--------|
-| dIrga svara = UPPERCASE: A, I, U, E, O | mAne (house), nIru (water), mUga (mute), pEDe, hOgu |
-| murucuLi = UPPERCASE: T, D, N, L, S | naDu, TaDe, Nana, kaLe, Siva |
+| dIrga svara = UPPErCASE: A, I, U, E, O | mAne (house), nIru (water), mUga (mute), pEDe, hOgu |
+| murucuLi = UPPErCASE: T, D, N, L, S | naDu, TaDe, Nana, kaLe, Siva |
 | mAhAprANa = hAku — Eke(ek)dall | Ba→b, Ga→g, Pa→p, etc. (aspirates dropped) |
-| anusvAra + vyaMjanada muMde = nasal | aMka, saMga, haMcike |
+| anusvAra + vyanjanada munde = nasal | anka, sanga, hancike |
 | -ga, -uga (esakakAra) | hArisuga, tIrpugAra, ADaLitagAra |
-| -ta, -ike, -vu (hesara) | toreta, haMcike, eLtaravu |
+| -ta, -ike, -vu (hesara) | toreta, hancike, eLtaravu |
 | jODupada | kollumane, biDugamane, eNNupaTTi |
