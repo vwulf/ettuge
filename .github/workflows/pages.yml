@@ -27,6 +27,7 @@ jobs:
           rm -rf docs/dnsbhat || true
           mkdir -p docs/dnsbhat
           cp -R src/main/md/kannada/dnsbhat/. docs/dnsbhat/
+          mv docs/dnsbhat/README.md docs/dnsbhat/index.md
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
