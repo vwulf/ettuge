@@ -41,7 +41,7 @@
   - [4.5 ippuruLininda tondareyEnilla](#sec-4-5)
   - [4.6 mArpADu barahadallallade nuDiyallalla](#sec-4-6)
   - [4.7 kannaDada OdU samskxta OdinantirabEkE?](#sec-4-7)
-  - [4.8 eraDu sAvira varmagaLa parampare](#sec-4-8)
+  - [4.8 eraDu sAvira varSagaLa parampare](#sec-4-8)
   - [4.9 samskxtakke hindidda hirime indilla](#sec-4-9)
   - [4.10 baraha mattu samskxti](#sec-4-10)
 - [adhyAya 5 — muktAya](#ch5)
@@ -72,7 +72,7 @@ hAge ivattu mADalEbEkAgide. yAkendare, kannaDa
 barahavannu ellA vargada janarU baLasuva hAge mADu
 valli I barigegaLu toDakugaLAgive.
 
-sumAru eraDu sAvira varragaLaSpu hinde, kannaDakke
+sumAru eraDu sAvira varSagaLaSpu hinde, kannaDakke
 barahavondannu aLavaDisuva samayadalli kannaDada
 tiLivigaru samskxtada mElidda mElarimeyindAgi kanna Da
 barahakke bEDadiddarU samskxta i padagaLannu adaralliddam te
@@ -291,14 +291,14 @@ koLLuttade.
 
 cikka makkaLa kalikeyU barahada toDakannu
 avalambisiraballudu. baravaNige tumbA sulabavAgide
-yAdalli, eraDu mUru varka kalita mEle SAleyannu
+yAdalli, eraDu mUru varSa kalita mEle SAleyannu
 biTTu hOguvavarU adara baLakeyannu munduvarisa
 ballaru; adu toDakinadAgideyAdalli, avarige adara
 svalpa samayada kalikeyinda yAva prayOjanavannU
 paDeyalu baruvudilla; yAkendare, dinapatrike, vArapatrike
 gaLantahavannu Odalu barabEkiddarU avaru antaha
 
-baravaNigeyannu biDade halavu varragaLa varege kalitira
+baravaNigeyannu biDade halavu varSagaLa varege kalitira
 bEkAguttade.
 
 hAgAgi, bEre toDukugaLa hAge, intaha baravaNigeya
@@ -388,7 +388,7 @@ gaLannu eraDu-mUru tingaLugaLallE salIsAgi Odalu
 kaliyabahudu; Adare, bareyuvudakkU OduvudakkU
 naDuve tumbA vyatyAsagaLiruva ingliS‌, arEbik‌nantaha
 baravaNigegaLannu Odalu kaliyabEkiddalli adakke mUru-
-nAlku varragaLE bEkAguttave.
+nAlku varSagaLE bEkAguttave.
 
 ondu baravaNigeyalli bareyuvudakkU OduvudakkU
 naDuviruva vyatyAsavannu baravaNigeya aLa embudAgi
@@ -578,7 +578,7 @@ neleyalli hELuttiddEnallade mElmElina avalOkanada
 illa vE Uheya neleyalli hELuttilla.
 nAnu uliyaripeyalli (phoneTiks‌-dvanivijnAnadalli)
 
-sAkaSTu pariNatiyannu paDediddE nema matta halavu varka
+sAkaSTu pariNatiyannu paDediddE nema matta halavu varSa
 adannu em‌. e. kaligarige kalisi siddEne. adara mEle
 halavu samSOdanegaLannU (inglenDina lIDs‌
 yunivarliTiyalli mattu amerikAda sTAn‌pharD‌ yuni
@@ -1178,7 +1178,7 @@ avugaLa eNikeyannu hatOTiyalli irisikoLLalAgide.
 
 idallade, toDaku toDakAgiruva eravalu padagaLannu
 uLisikonDiruva kelavu nuDigaLallU makkaLige barahavannu
-kalisuvAga, modalina nAlkaydu varragaLalli antaha
+kalisuvAga, modalina nAlkaydu varSagaLalli antaha
 eravalu padagaLannu avara kalikeyinda horage
 irisalAguttade, mattu makkaLu baravaNigeyalli sAkaSTu
 paLagida mElaSTE avannu avara kalikeyalli sErisikoLLa
@@ -1215,7 +1215,7 @@ sUcisuttave embudannu kaliyuvavaru gamanisuvante
 mADalu I barevaNigeyalli tumbA sulaba. hAgAgi,
 doDDavaru hangul‌nalli bareda barahagaLannu ondE
 dinadalli Odalu kaliyaballaru. makkaLigU idannu
-kaliyalu heccu kaSa vAguvudilla; ondu varradoLage
+kaliyalu heccu kaSa vAguvudilla; ondu varSadoLage
 adaralli bareda. yAva barahavannu bEkiddarU avaru
 Odalu "kalitubiDuttA re.
 
@@ -1224,7 +1224,7 @@ barigegaLu nEravAgi uligaLige sambandisilla. ondondu
 padakkU intaha ondondu barigeyiruttade. hAgAgi,
 avannella ondondAgi kalitu nenapinalli risikoLLa
 bEkAguttade. intaha barigegaLannu kaliyalu makkaLige
-halavu varyagaLE bEkAguttave.
+halavu varSagaLE bEkAguttave.
 
 I eraDanE bageya barigegaLindAguva tondareyannu
 illavAgisalu, baDagu koriyAdalli caynIs‌
@@ -1458,7 +1458,7 @@ baraha ellara sottAguvantAyitu.
 TarkiS‌ nuDiyannADuva janaru musli marAgi matAntara
 gonDAgalEnE rirEbik‌ barigegaLannu tamma nuDiya
 baravaNigege aLavaDisikonDirabEku. hAgAgi, A barigegaLa
-baLakege Tarkiyalli sAvira varmagaLigintalU heccina
+baLakege Tarkiyalli sAvira varSagaLigintalU heccina
 hinnaDavaLi(caritre)yide. Adare, A barigegaLannu baLasi
 TarkiS‌ padagaLa ulipannu sariyAgi tiLisalu baruttiralilla.
 
@@ -2153,7 +2153,7 @@ oLLeyadu.
 
 <a id="sec-4-8"></a>
 
-## 4.8 eraDu sAvira varmagaLa parampare
+## 4.8 eraDu sAvira varSagaLa parampare
 
 
 sumAru eraDu sAvira vara gaLindalU intaha samskxtada
@@ -2163,7 +2163,7 @@ horaDabEku emba kELvi kelavarinda mUDibandide.
 
 adannu ivattu badalAyisabEkAgiruvudakke ondu
 tumbA mukyavAda kAraNavide; adEnendare, kaLeda eraDu
-sAvira varyagaLallU kelavE kelavu mandi mElva rada
+sAvira varSagaLallU kelavE kelavu mandi mElva rada
 makkaLu mAtra barahavannu kaliyutti ddaru; ivarella
 samskxtavannU 'kaliyutti ddudarinda A A rIti 2 bareyuvudu
 avari ondu toDakendu anisilla.
@@ -2292,7 +2292,7 @@ padagaLa ulipu uilla vE baravaNige mattu samskxtigaLa
 naDuve yAva sambandavU illa. mEle tiLisida esse
 padagaLa ulipu badalAguttA hOguvudu nuDi
 yondara jIvantikeyannu sUcisuttade. eraDu sAvira
-varragaLaSpu hinde padagaLa ulipu mattu baravaNige
+varSagaLaSpu hinde padagaLa ulipu mattu baravaNige
 samskxtadalli hEgittO hAgeyE ivattU adannu
 uLisikoLLabE kendu. bayasuvudu jIvantikeya
 lakkaNavalla."
