@@ -35,7 +35,7 @@ jobs:
           find docs/dnsbhat -name "*.md" | while read f; do
             first=$(head -1 "$f")
             if [ "$first" != "---" ]; then
-              { printf -- '---\n---\n\n'; cat "$f"; } > /tmp/fm_temp.md && mv /tmp/fm_temp.md "$f"
+              { printf -- '---\nnav_exclude: true\n---\n\n'; cat "$f"; } > /tmp/fm_temp.md && mv /tmp/fm_temp.md "$f"
             fi
           done
 
