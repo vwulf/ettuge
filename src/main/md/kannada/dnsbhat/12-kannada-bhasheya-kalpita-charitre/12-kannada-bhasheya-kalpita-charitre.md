@@ -1,3 +1,8 @@
+---
+title: "12 — Kannada Bhasheya Kalpita Charitre"
+nav_order: 112
+---
+
 # KANNADA BHASHEYA KALPITA CHARITRE
 ## ಕನ್ನಡ ಭಾಷೆಯ ಕಲ್ಪಿತ ಚರಿತ್ರೆ
 

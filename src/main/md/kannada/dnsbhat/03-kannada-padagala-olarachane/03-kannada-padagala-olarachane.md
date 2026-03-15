@@ -1,3 +1,8 @@
+---
+title: "03 — Kannada Padagala Olarachane"
+nav_order: 103
+---
+
 # KANNADA PADAGALA OLARACHANE
 ## ಕನ್ನಡ ಪದಗಳ ಒಳರಚನೆ
 

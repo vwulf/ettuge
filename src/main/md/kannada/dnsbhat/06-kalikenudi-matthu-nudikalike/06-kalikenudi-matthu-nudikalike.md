@@ -1,3 +1,8 @@
+---
+title: "06 — Kalikenudi Matthu Nudikalike"
+nav_order: 106
+---
+
 # KALIKENUDI MATTHU NUDIKALIKE
 ## ಕಲಿಕೆನುಡಿ ಮತ್ತು ನುಡಿಕಲಿಕೆ
 

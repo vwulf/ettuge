@@ -1,3 +1,8 @@
+---
+title: "23 — Manipuri Grammar"
+nav_order: 123
+---
+
 # A Grammar of Manipuri
 
 **Title:** A Grammar of Manipuri (also: *Manipuri Grammar, Kn* — a Kannada version exists)

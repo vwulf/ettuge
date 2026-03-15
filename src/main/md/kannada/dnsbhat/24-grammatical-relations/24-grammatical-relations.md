@@ -1,3 +1,8 @@
+---
+title: "24 — Grammatical Relations"
+nav_order: 124
+---
+
 # Grammatical Relations: The Evidence Against Their Necessity and Universality
 
 **Title:** Grammatical Relations: The Evidence Against Their Necessity and Universality

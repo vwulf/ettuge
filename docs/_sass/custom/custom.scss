@@ -1,0 +1,28 @@
+// Serif body font — clear I / l / L distinction for Eke romanisation
+.main-content {
+  font-family: Georgia, "Noto Serif", "Times New Roman", serif;
+  font-size: 16px;
+  line-height: 1.75;
+}
+
+// Monospaced for inline code and code blocks (Eke romanisation uses backticks)
+.main-content code,
+.main-content pre,
+.main-content pre code {
+  font-family: "Cascadia Code", "JetBrains Mono", "Fira Code",
+               "Source Code Pro", Consolas, "Courier New", monospace;
+  font-size: 0.9em;
+}
+
+// Tables — slightly tighter, keep readable
+.main-content table {
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+// Keep sidebar and header sans-serif
+.site-nav,
+.site-header,
+.site-footer {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+}

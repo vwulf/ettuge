@@ -1,3 +1,8 @@
+---
+title: "11 — Kannada Barahada Padasamasye"
+nav_order: 111
+---
+
 # KANNADA BARAHADA PADASAMASYE
 ## ಕನ್ನಡ ಬರಹದ ಪದಸಮಸ್ಯೆ
 

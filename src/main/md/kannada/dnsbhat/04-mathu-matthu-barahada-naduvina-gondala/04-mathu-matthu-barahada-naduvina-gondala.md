@@ -1,3 +1,8 @@
+---
+title: "04 — Mathu Matthu Barahada Naduvina Gondala"
+nav_order: 104
+---
+
 # MATHU MATTHU BARAHADA NADUVINA GONDALA
 ## ಮಾತು ಮತ್ತು ಬರಹದ ನಡುವಿನ ಗೊಂದಲ
 

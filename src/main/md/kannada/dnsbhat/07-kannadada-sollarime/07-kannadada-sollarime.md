@@ -1,3 +1,8 @@
+---
+title: "07 — Kannadada Sollarime"
+nav_order: 107
+---
+
 # KANNADADA SOLLARIME
 ## ಕನ್ನಡದ ಸೊಲ್ಲರಿಮೆ
 

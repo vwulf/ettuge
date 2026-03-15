@@ -1,3 +1,8 @@
+---
+title: "01 — Idu Kannadade Vyakarana"
+nav_order: 101
+---
+
 # IDU KANNADADE VYAKARANA
 ## ಇದು ಕನ್ನಡದೆ ವ್ಯಾಕರಣ
 

@@ -1,3 +1,8 @@
+---
+title: "13 — Dharege Doddavaru"
+nav_order: 113
+---
+
 # DHAREGE DODDAVARU
 ## by Meti Mallikarjun
 

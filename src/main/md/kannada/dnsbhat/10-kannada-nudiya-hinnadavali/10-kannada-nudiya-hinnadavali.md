@@ -1,3 +1,8 @@
+---
+title: "10 — Kannada Nudiya Hinnadavali"
+nav_order: 110
+---
+
 # KANNADA NUDIYA HINNADAVALI
 ## ಕನ್ನಡ ನುಡಿಯ ಹಿನ್ನಡವಳಿ
 

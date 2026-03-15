@@ -1,3 +1,8 @@
+---
+title: "05 — Mathina Olaguttu"
+nav_order: 105
+---
+
 # MATHINA OLAGUTTU
 ## ಮಾತಿನ ಒಳಗುಟ್ಟು
 

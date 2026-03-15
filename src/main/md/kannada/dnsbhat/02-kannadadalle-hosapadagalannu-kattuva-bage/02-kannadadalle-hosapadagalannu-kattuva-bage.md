@@ -1,3 +1,8 @@
+---
+title: "02 — Kannadadalle Hosapadagalannu Kattuva Bage"
+nav_order: 102
+---
+
 # KANNADADALLE HOSAPADAGALANNU KATTUVA BAGE
 ## ಕನ್ನಡದಲ್ಲೆ ಹೊಸಪದಗಳನ್ನು ಕಟ್ಟುವ ಬಗೆ
 

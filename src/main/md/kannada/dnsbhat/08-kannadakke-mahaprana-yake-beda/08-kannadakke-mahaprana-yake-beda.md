@@ -1,3 +1,8 @@
+---
+title: "08 — Kannadakke Mahaprana Yake Beda"
+nav_order: 108
+---
+
 # KANNADAKKE MAHAPRANA YAKE BEDA
 ## ಕನ್ನಡಕ್ಕೆ ಮಹಾಪ್ರಾಣ ಯಾಕೆ ಬೇಡ
 
