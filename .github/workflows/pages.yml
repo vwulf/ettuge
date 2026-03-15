@@ -30,6 +30,15 @@ jobs:
           mv docs/dnsbhat/README.md docs/dnsbhat/index.md
           printf -- '---\nlayout: default\ntitle: DNS Bhat\nnav_order: 1\nhas_children: true\n---\n\n' | cat - docs/dnsbhat/index.md > /tmp/dnsbhat_index.md && mv /tmp/dnsbhat_index.md docs/dnsbhat/index.md
 
+      - name: Add front matter to content files so Jekyll renders them as HTML
+        run: |
+          find docs/dnsbhat -name "*.md" | while read f; do
+            first=$(head -1 "$f")
+            if [ "$first" != "---" ]; then
+              { printf -- '---\n---\n\n'; cat "$f"; } > /tmp/fm_temp.md && mv /tmp/fm_temp.md "$f"
+            fi
+          done
+
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
