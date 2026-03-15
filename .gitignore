@@ -36,3 +36,11 @@ env/
 # OS
 .DS_Store
 Thumbs.db
+
+# Jekyll build output
+docs/_site/
+docs/.jekyll-cache/
+docs/_config.local.yml
+
+# Jekyll generated collection (workflow regenerates from src/)
+docs/dnsbhat/*/

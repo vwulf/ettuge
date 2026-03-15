@@ -1,11 +1,7 @@
 title: ettuge — DNS Bhat Kannada Linguistics
 description: DNS Bhat lecture series — Eke romanisation and English summaries
 
-# theme: just-the-docs   # remove this
-remote_theme: just-the-docs/just-the-docs
-
-plugins:
-  - jekyll-remote-theme
+theme: just-the-docs
 
 color_scheme: light
 search_enabled: true
@@ -26,6 +22,13 @@ just_the_docs:
       name: DNS Bhat
       nav_fold: true
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
 exclude:
   - Gemfile
   - Gemfile.lock
+  - _config.local.yml

@@ -28,20 +28,28 @@ jobs:
           mkdir -p docs/dnsbhat
           cp -R src/main/md/kannada/dnsbhat/. docs/dnsbhat/
           mv docs/dnsbhat/README.md docs/dnsbhat/index.md
+          printf -- '---\nlayout: default\ntitle: DNS Bhat\nnav_order: 1\nhas_children: true\n---\n\n' | cat - docs/dnsbhat/index.md > /tmp/dnsbhat_index.md && mv /tmp/dnsbhat_index.md docs/dnsbhat/index.md
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+          bundler-cache: true
+          working-directory: docs
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
       - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: docs
-          destination: _site
+        run: bundle exec jekyll build --baseurl "${{ steps.setup-pages.outputs.base_path }}"
+        working-directory: docs
+        env:
+          JEKYLL_ENV: production
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: _site
+          path: docs/_site
 
   deploy:
     runs-on: ubuntu-latest
