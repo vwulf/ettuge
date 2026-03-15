@@ -30,6 +30,180 @@ jobs:
           mv docs/dnsbhat/README.md docs/dnsbhat/index.md
           printf -- '---\nlayout: default\ntitle: DNS Bhat\nnav_order: 1\nhas_children: true\n---\n\n' | cat - docs/dnsbhat/index.md > /tmp/dnsbhat_index.md && mv /tmp/dnsbhat_index.md docs/dnsbhat/index.md
 
+      - name: Generate format-first sidebar and book landing pages
+        run: |
+          python3 - <<'PYEOF'
+          import os, re
+
+          DNSBHAT = 'docs/dnsbhat'
+
+          # ── Sidebar section definitions ───────────────────────────────────
+          SECTIONS = [
+              ('English Summaries',  10, 'english-summaries',
+               'English summaries, DNS Bhat blog posts, and lecture guides.'),
+              ('Kannada Text',       20, 'kannada-text',
+               'Original Kannada text — OCR and book content.'),
+              ('Eke Transliteration', 30, 'eke-transliteration',
+               'Eke phonemic romanisation — readable without Kannada script.'),
+          ]
+
+          def fm(**fields):
+              lines = ['---']
+              for k, v in fields.items():
+                  val = f'"{v}"' if isinstance(v, str) else str(v).lower()
+                  lines.append(f'{k}: {val}')
+              lines.append('---\n')
+              return '\n'.join(lines)
+
+          def strip_fm(text):
+              m = re.match(r'^---\n.*?\n---\n\n?', text, re.DOTALL)
+              return text[m.end():] if m else text
+
+          def read_field(fm_text, key):
+              m = re.search(rf'^{key}:\s*"?(.+?)"?\s*$', fm_text, re.MULTILINE)
+              return m.group(1).strip('"') if m else None
+
+          # ── Create section index pages ────────────────────────────────────
+          for title, order, fname, desc in SECTIONS:
+              with open(os.path.join(DNSBHAT, fname + '.md'), 'w') as f:
+                  f.write(fm(title=title, nav_order=order,
+                             has_children=True, nav_exclude=False))
+                  f.write(f'# {title}\n\n{desc}\n')
+
+          # ── Process each book directory ───────────────────────────────────
+          for book_dir in sorted(os.listdir(DNSBHAT)):
+              book_path = os.path.join(DNSBHAT, book_dir)
+              if not os.path.isdir(book_path):
+                  continue
+
+              main_md   = os.path.join(book_path, book_dir + '.md')
+              readme_md = os.path.join(book_path, 'README.md')
+              if not os.path.exists(main_md):
+                  continue
+
+              with open(main_md) as f:
+                  orig = f.read()
+              if not orig.startswith('---'):
+                  continue
+              fm_match = re.match(r'^---\n(.*?)\n---\n\n?', orig, re.DOTALL)
+              if not fm_match:
+                  continue
+
+              fm_text   = fm_match.group(1)
+              body_orig = orig[fm_match.end():]
+              book_title = read_field(fm_text, 'title') or book_dir
+              raw_order  = int(read_field(fm_text, 'nav_order') or 0)
+              book_num   = raw_order % 100   # 101→1, 108→8
+
+              def p(suffix):
+                  return os.path.join(book_path, book_dir + suffix + '.md')
+              def exists(suffix):
+                  return os.path.exists(p(suffix))
+
+              def write_section_entry(suffix, section_title):
+                  with open(p(suffix)) as f:
+                      content = f.read()
+                  content = strip_fm(content)
+                  with open(p(suffix), 'w') as f:
+                      f.write(fm(title=book_title, parent=section_title,
+                                 nav_order=book_num))
+                      f.write(content)
+
+              # English: en.md > blog.md > main.md (YouTube fallback)
+              if exists('-en'):
+                  write_section_entry('-en', 'English Summaries')
+                  en_fallback = False
+              elif exists('-blog'):
+                  write_section_entry('-blog', 'English Summaries')
+                  en_fallback = False
+              else:
+                  en_fallback = True   # main.md becomes the English entry
+
+              # Kannada Text: kn.md > book.md
+              if exists('-kn'):
+                  write_section_entry('-kn', 'Kannada Text')
+              elif exists('-book'):
+                  write_section_entry('-book', 'Kannada Text')
+
+              # Eke Transliteration
+              if exists('-kn-eke'):
+                  write_section_entry('-kn-eke', 'Eke Transliteration')
+
+              # ── Book landing page (clean — description + links only) ──────
+              kn_title, en_title, desc_line, status_line, yt_toc = '', '', '', '', ''
+
+              if os.path.exists(readme_md):
+                  with open(readme_md) as f:
+                      readme = f.read()
+                  # Kannada title  (# 03 — ...)
+                  m = re.search(r'^# \d+ — (.+)$', readme, re.MULTILINE)
+                  kn_title = m.group(1).strip() if m else ''
+                  # English title  (**...**)  first bold line after heading
+                  m = re.search(r'^\*\*([^*\n]+)\*\*', readme, re.MULTILINE)
+                  en_title = m.group(1) if m else ''
+                  # Description blockquote
+                  m = re.search(r'^> (.+)$', readme, re.MULTILINE)
+                  desc_line = m.group(1) if m else ''
+                  # Status line  (**✅ ...** or **⚠️ ...**)
+                  m = re.search(r'^\*\*((?:✅|⚠️)[^\n]+)\*\*', readme, re.MULTILINE)
+                  status_line = m.group(1) if m else ''
+
+              # YouTube TOC from original body
+              if 'youtube.com' in body_orig:
+                  m = re.search(r'## Table of Contents(.*?)(?=\n## |\Z)',
+                                body_orig, re.DOTALL)
+                  if m:
+                      yt_toc = m.group(1).strip()
+
+              # Build clean landing body
+              body_parts = []
+              if kn_title:
+                  body_parts.append(f'# {kn_title}\n')
+              if en_title:
+                  body_parts.append(f'**{en_title}**\n')
+              if desc_line:
+                  body_parts.append(f'\n> {desc_line}\n')
+              if status_line:
+                  body_parts.append(f'\n*{status_line}*\n')
+
+              # "Read this book" links table
+              link_rows = []
+              if exists('-kn'):
+                  link_rows.append(f'| 📖 Kannada text | [ಕನ್ನಡ](./{book_dir}-kn) |')
+              elif exists('-book'):
+                  link_rows.append(f'| 📖 Kannada text | [ಕನ್ನಡ](./{book_dir}-book) |')
+              if exists('-en'):
+                  link_rows.append(f'| 🇬🇧 English summary | [English](./{book_dir}-en) |')
+              if exists('-kn-eke'):
+                  link_rows.append(f'| 🔤 Eke romanisation | [Eke](./{book_dir}-kn-eke) |')
+              if exists('-blog'):
+                  link_rows.append(f'| 📝 DNS Bhat blog | [Blog](./{book_dir}-blog) |')
+              if yt_toc:
+                  link_rows.append(f'| 🎬 YouTube lectures | [Parts list below](#youtube-lectures) |')
+
+              if link_rows:
+                  body_parts.append('\n---\n\n| Format | Link |\n|--------|------|\n')
+                  body_parts.extend(r + '\n' for r in link_rows)
+
+              if yt_toc:
+                  body_parts.append(f'\n---\n\n## YouTube Lectures\n\n{yt_toc}\n')
+
+              # Front matter for landing page
+              if en_fallback:
+                  # This page IS the English sidebar entry
+                  landing_fm = fm(title=book_title, parent='English Summaries',
+                                  nav_order=book_num)
+              else:
+                  # Accessed from Home page only — not in sidebar
+                  landing_fm = fm(title=book_title, nav_order=raw_order,
+                                  nav_exclude=True)
+
+              with open(main_md, 'w') as f:
+                  f.write(landing_fm + ''.join(body_parts))
+
+          print("Format-first sidebar and landing pages generated.")
+          PYEOF
+
       - name: Add front matter to content files so Jekyll renders them as HTML
         run: |
           find docs/dnsbhat -name "*.md" | while read f; do
