@@ -43,4 +43,7 @@ docs/.jekyll-cache/
 docs/_config.local.yml
 
 # Jekyll generated collection (workflow regenerates from src/)
+# Exclude all loose files and subdirs except the committed index.md
 docs/dnsbhat/*/
+docs/dnsbhat/*.md
+!docs/dnsbhat/index.md
