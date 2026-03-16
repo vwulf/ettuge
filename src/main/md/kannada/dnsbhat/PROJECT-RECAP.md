@@ -1,5 +1,5 @@
 # DNS Bhat Ettuge Project — Recap
-*Last updated: 2026-03-15 (Phase 11)*
+*Last updated: 2026-03-16 (Phase 12)*
 
 ---
 
@@ -334,6 +334,34 @@ The Python script (inline `python3 - <<'PYEOF'` in the workflow):
 
 **Result:** All 29 books appear in the English Summaries section; 16 appear in Kannada Text; 14 appear in Eke Transliteration. Book landing pages are clean reader-facing pages, not developer metadata dumps.
 
+### Phase 12 — mahAprana (Aspirate) Eke Correction (2026-03-16)
+
+Corrected a systematic error in the Eke romanisation rule for aspirated consonants. All `kn-eke.md` files had been generated with the wrong rule "drop aspirates" (ಭ→b, ಧ→d, ಖ→k, ಥ→t, ಫ→p, ಭ→b). The correct rule is "preserve aspirates with h marker" (ಭ→bh, ಧ→dh, ಖ→kh, ಥ→th, ಫ→ph).
+
+The guiding principle: Eke romanises what is *written* in the source. If the source uses ಭ (aspirated labial), the romanisation must write `bh`, not `b` — to faithfully represent what DNS Bhat wrote. (Separately, the word-coining philosophy of *ellara kannaDa* avoids mahapranas in *new* coinages, since they don't occur in native Dravidian speech — but that's a word-formation rule, not a transcription rule.)
+
+**Specific fixes applied (Python `re.sub` + `replace`):**
+
+| Wrong Eke | Correct Eke | Source consonant | Instances |
+|-----------|-------------|-----------------|-----------|
+| `bAShe` | `bhAShe` | ಭ (ಭಾಷೆ) | ~18 files |
+| `bAga` | `bhAga` | ಭ (ಭಾಗ) | multiple |
+| `sankara baT` | `sankara bhaT` | ಭ (ಭಟ್) | all files |
+| `adyAya` | `adhyAya` | ಧ (ಅಧ್ಯಾಯ) | multiple |
+| `sambanda` | `sambandha` | ಧ | multiple |
+| `\badika` | `adhika` | ಧ | multiple |
+| `\bmukya` | `mukhya` | ಖ (ಮುಖ್ಯ) | multiple |
+| `leKana` | `lEkhana` | ಖ (ಲೇಖನ) | multiple |
+| `lEkakaru` | `lEkhakaru` | ಖ (ಲೇಖಕರು) | multiple |
+| `\barta` | `artha` | ಥ (ಅರ್ಥ) | multiple |
+| `\bpATa` | `pATha` | ಠ (ಪಾಠ) | multiple |
+| `bAgya` | `bhAgya` | ಭ (ಭಾಗ್ಯ) | 1 |
+| `dIrga` | `dIrgha` | ಘ (ದೀರ್ಘ) | 2 |
+
+**Commit:** `907ac31` "eke: fix all mahAprANa (aspirate) romanization" — 22 files, 398 insertions/deletions
+
+**Skill files and PROJECT-RECAP** also updated in this phase to reflect the corrected rule.
+
 ---
 
 ## Eke Romanisation System
@@ -346,7 +374,7 @@ The Python script (inline `python3 - <<'PYEOF'` in the workflow):
 |---------|-----------|---------|
 | Short vowels | lowercase | a i u e o |
 | Long vowels | UPPERCASE | A I U E O |
-| No aspirates | ಭ→b, ಧ→d, ಖ→k, ಥ→t, ಫ→p | bAsha, baddu |
+| Aspirates preserved | ಭ→bh, ಧ→dh, ಖ→kh, ಥ→th, ಫ→ph | bhAShe, adhyayana |
 | Retroflexes | UPPERCASE consonant | T D N L (ಟ ಡ ಣ ಳ) |
 | ಶ | S | viSwAsa |
 | ಷ | Sh | santOSha |

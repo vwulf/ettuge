@@ -190,7 +190,7 @@ Romanise **key passages** from the **good (🟢) parts only**. For garbled/disab
 ```markdown
 # {title in Eke}
 
-**lEkhakaru:** Di. en. Sankara baT
+**lEkhakaru:** Di. en. Sankara bhaT
 **mULa:** YouTube udangaLu — {N} bagagaLu
 **odidaravaru:** {reader in Eke, if known}
 
@@ -256,8 +256,8 @@ Eke is a romanisation system designed by Vishwas, inspired by Hosabaraha and Har
 | ಸ | s | | ಶ | **S** |
 | ಹ | h | | ಷ | **S** (same as ಶ in EK) |
 
-### Aspirates (mahapranas) — **drop in Eke(ek)**
-ಖ→k, ಘ→g, ಛ→c, ಝ→j, ಠ→T, ಢ→D, ಥ→t, ಧ→d, ಫ→p, ಭ→b
+### Aspirates (mahapranas) — **preserved in Eke(ek)**
+ಖ→kh, ಘ→gh, ಛ→ch, ಝ→jh, ಠ→Th, ಢ→Dh, ಥ→th, ಧ→dh, ಫ→ph, ಭ→bh
 
 ### Anusvara before plosives — write as nasal+plosive
 ಂಕ→nka, ಂಗ→nga, ಂಚ→nca, ಂಜ→nja, ಂಟ→nTa, ಂಡ→nDa, ಂತ→nta, ಂದ→nda, ಂಪ→mpa, ಂಬ→mba
@@ -274,10 +274,10 @@ Every consonant has inherent `a`. Virama ್ suppresses it in clusters.
 | ಬರಹ | baraha |
 | ಮಾತು | mAtu |
 | ಉಲಿ | uli |
-| ಭಾಷೆ | bASe |
+| ಭಾಷೆ | bhAShe |
 | ವ್ಯಾಕರಣ | vyAkaraNa |
 | ಪದ | pada |
-| ಅರ್ಥ | arta |
+| ಅರ್ಥ | artha |
 | ಸ್ವರ | svara |
 | ವ್ಯಂಜನ | vyanjana |
 | ಕ್ರಿಯಾಪದ | kriyApada |
@@ -287,7 +287,7 @@ Every consonant has inherent `a`. Virama ್ suppresses it in clusters.
 | ಸೊಲ್ಲರಿಮೆ | sollarime |
 | ಒಳರಚನೆ | oLaracane |
 | ಹವ್ಯಕ | havyaka |
-| ಉಪಭಾಷೆ | upabASe |
+| ಉಪಭಾಷೆ | upabhAShe |
 | ಮಾತಿನ | mAtina |
 
 ---

@@ -92,11 +92,11 @@ For Kannada specifically, the book identifies two forces pushing written Kannada
 |---|---|---|
 | ಮಾತು | mAtu | speech |
 | ಬರಹ | baraha | writing |
-| ನುಡಿ / ಭಾಷೆ | nuDi / bASe | language |
+| ನುಡಿ / ಭಾಷೆ | nuDi / bhAShe | language |
 | ಕ್ರುತಕ ರೂಪ | krutaka rUpa | artificial form |
-| ಜೀವಂತ ಭಾಷೆ | jIvanta bASe | living language |
-| ಸತ್ತ ಭಾಷೆ | satta bASe | dead language |
-| ಅಳಿದ ಭಾಷೆ | aLida bASe | extinct language |
+| ಜೀವಂತ ಭಾಷೆ | jIvanta bhAShe | living language |
+| ಸತ್ತ ಭಾಷೆ | satta bhAShe | dead language |
+| ಅಳಿದ ಭಾಷೆ | aLida bhAShe | extinct language |
 | ದ್ರಾವಿಡ | drAviDa | Dravidian |
 | ಮುಂದ್ರಾವಿಡ | mundrAviDa | Proto-Dravidian |
 | ಎರವಲು ಪದ | eravalu pada | borrowed word / loanword |

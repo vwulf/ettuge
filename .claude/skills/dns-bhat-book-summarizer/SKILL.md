@@ -142,7 +142,7 @@ The Eke file has:
 ```markdown
 # {title in Eke}
 
-**lEkhakaru:** Di. en. Sankara baT
+**lEkhakaru:** Di. en. Sankara bhaT
 **saraNi / Source:** {series if any}
 **prakaTaNe / Published:** {year and publisher}
 
@@ -271,8 +271,8 @@ Eke is a romanisation system designed by Vishwas, inspired by Hosabaraha and Har
 | ಸ | s | | ಶ | **S** |
 | ಹ | h | | ಷ | **S** (same as ಶ in EK) |
 
-### Aspirates (mahapranas) — **drop in Eke(ek)**
-ಖ→k, ಘ→g, ಛ→c, ಝ→j, ಠ→T, ಢ→D, ಥ→t, ಧ→d, ಫ→p, ಭ→b
+### Aspirates (mahapranas) — **preserved in Eke(ek)**
+ಖ→kh, ಘ→gh, ಛ→ch, ಝ→jh, ಠ→Th, ಢ→Dh, ಥ→th, ಧ→dh, ಫ→ph, ಭ→bh
 
 ### Anusvara before plosives — write as nasal+plosive
 ಂಕ→nka, ಂಗ→nga, ಂಚ→nca, ಂಜ→nja, ಂಟ→nTa, ಂಡ→nDa, ಂತ→nta, ಂದ→nda, ಂಪ→mpa, ಂಬ→mba

@@ -22,7 +22,7 @@ The core insight: Kannada has its own complete word-formation system. 80%+ of cu
 ## Core Philosophy
 
 - Prefer native Kannada (Dravidian) roots over Sanskrit borrowings
-- Drop aspirated consonants (mahapranas don't exist in natural Kannada): kh→k, gh→g, ch→c, jh→j, th→t, dh→d, ph→p, bh→b
+- Avoid aspirated consonants in native coinages (mahapranas don't occur in native Dravidian Kannada speech): use simple k, g, c, j, T, D, t, d, p, b — but when *romanising* source text that uses aspirated consonants (Sanskrit loans in Bhat's own writing), preserve the aspiration in Eke (ಭ→bh, ಧ→dh, ಖ→kh etc.)
 - Translate the **meaning**, not the word form — "handbook" → ಕಿರುಕಡತ (small-document), not *ಕಯ್ಕಡತ (hand-document)
 - Prefer suffix-derived words (compact) over compounds; prefer compounds over loanwords
 - **When multiple valid coinages exist, prefer the more immediately parseable one** — even over a term coined by an authority. Bhat's goal was accessibility for all Kannada speakers; a word that any speaker can decompose on first reading better serves that goal than one requiring familiarity with a specific root. Example: ಎಲ್ಲರಾಳ್ವಿಕೆ (everyone's-rule) is preferred over Bhat's own ಮಂದಿಯಾಳ್ವಿಕೆ (people's-rule) for democracy, because ಎಲ್ಲರ is universally transparent while ಮಂದಿ in the political sense may not be.
@@ -167,8 +167,8 @@ For technical vocabulary from Greek/Latin:
 
 All output must include Eke transliteration alongside Kannada script. For full mappings see `references/eke-romanization.md`. Critical rules:
 
-**Aspirates removed** (Eke(ek) mode — no aspirates in natural Kannada speech):
-ಖ→k, ಘ→g, ಛ→c, ಝ→j, ಠ→T, ಢ→D, ಥ→t, ಧ→d, ಫ→p, ಭ→b
+**Aspirates preserved** (Eke romanises what is written in the source — if ಭ is used, write `bh`; if ಖ is used, write `kh` etc.):
+ಖ→kh, ಘ→gh, ಛ→ch, ಝ→jh, ಠ→Th, ಢ→Dh, ಥ→th, ಧ→dh, ಫ→ph, ಭ→bh
 
 **Retroflexes — UPPERCASE** (important phonemic distinctions):
 ಟ→T, ಡ→D, ಣ→N, ಳ→L, ಶ/ಷ→S

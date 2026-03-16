@@ -186,6 +186,6 @@ The book covers ten substantive chapters (Chapters 2–10) plus an introductory 
 
 6. Note that this book is part of a series: for morphology (word structure) questions, refer to Book 03; for an introductory overview of Kannada grammar, refer to Book 01 (*Idu Kannadade Vyakarana*); for historical/Old Kannada questions, refer to Book 14.
 
-7. The book's examples are in modern standard written Kannada. When producing Eke romanisation of example sentences or terms, follow the Eke rules: no aspirates (ಭ→b, ಧ→d, ಠ→T etc.), retroflexes UPPERCASE (ಟ→T, ಡ→D, ಣ→N, ಳ→L), long vowels UPPERCASE (A, I, U, E, O). The Eke romanisation summary file is at `25-kannada-vakyagala-olarachane-kn-eke.md`.
+7. The book's examples are in modern standard written Kannada. When producing Eke romanisation of example sentences or terms, follow the Eke rules: aspirates preserved with h (ಭ→bh, ಧ→dh, ಖ→kh, ಥ→th, ಠ→Th etc.), retroflexes UPPERCASE (ಟ→T, ಡ→D, ಣ→N, ಳ→L), long vowels UPPERCASE (A, I, U, E, O). The Eke romanisation summary file is at `25-kannada-vakyagala-olarachane-kn-eke.md`.
 
 8. When a question is about Kannada syntax more broadly and not specifically about claims made in this book, make clear when you are drawing on Bhat's framework versus general Dravidian/Kannada linguistics. The book is analytically rich but focused: it does not cover all aspects of Kannada syntax equally.

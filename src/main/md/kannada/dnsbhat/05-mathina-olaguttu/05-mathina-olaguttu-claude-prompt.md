@@ -104,7 +104,7 @@ The book's unifying argument is that **Kannada must be understood on its own ter
 | ಬರಿಗೆ | barige | letter/grapheme |
 | ಮಾತು | mAtu | speech |
 | ಬರಹ | baraha | writing |
-| ನುಡಿ / ಭಾಷೆ | nuDi / bASe | language |
+| ನುಡಿ / ಭಾಷೆ | nuDi / bhAShe | language |
 | ದ್ರಾವಿಡ | drAviDa | Dravidian |
 | ಮಹಾಪ್ರಾಣ | mahAprANa | aspirated consonant |
 | ಅಲ್ಪಪ್ರಾಣ | alpAprANa | unaspirated consonant |
@@ -113,7 +113,7 @@ The book's unifying argument is that **Kannada must be understood on its own ter
 | ಪರಿಚೆ ಪದ | parice pada | qualifier/adjective |
 | ಸೊಲ್ಲರಿಮೆ | sollarime | grammar (native Kannada term) |
 | ಉಲಿ ವ್ಯವಸ್ಥೆ | uLi vyavasthe | sound system / phonology |
-| ಉಪಭಾಷೆ | upabASe | dialect |
+| ಉಪಭಾಷೆ | upabhAShe | dialect |
 | ಕೀಳರಿಮೆ | kILarime | inferiority complex (toward Kannada) |
 | ಮೇಲರಿಮೆ | mElarime | superiority complex (toward Sanskrit) |
 | ಎರವಲು ಪದ | eravalu pada | loanword |

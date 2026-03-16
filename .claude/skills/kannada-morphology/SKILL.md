@@ -150,7 +150,7 @@ Kannada verbs mark tense (past/non-past) and agreement with subject (person-numb
 When asked whether a word is native Dravidian or Sanskrit-borrowed:
 
 **Sanskrit borrowing signals:**
-- Contains aspirated consonants: kh, gh, th, dh, ph, bh (e.g., ಭಾಷೆ bhASe → Sanskrit)
+- Contains aspirated consonants: kh, gh, th, dh, ph, bh (e.g., ಭಾಷೆ bhAShe → Sanskrit)
 - Repeated consonant clusters from Sanskrit: pr-, tr-, kr-, sth-, etc.
 - Retroflex ಷ (Sha) — rare in native Dravidian
 - Ends in -a with Sanskrit declension feel
@@ -188,7 +188,7 @@ Full text: `src/main/md/kannada/dnsbhat/14-nijakku-halegannada-vyakarana-entahad
 
 - Long vowels → uppercase: a/A, i/I, u/U, e/E, o/O
 - Retroflexes → uppercase: T, D, N, L
-- Aspirates → dropped to their plain equivalent: kh→k, gh→g, th→t, dh→d, ph→p, bh→b
+- Aspirates → preserved with h marker: kh, gh, th, dh, ph, bh (e.g., ಭಾಷೆ → bhAShe, ಅರ್ಥ → artha, ಧರ್ಮ → dharma)
 - sh/Sh → S
 
 ---

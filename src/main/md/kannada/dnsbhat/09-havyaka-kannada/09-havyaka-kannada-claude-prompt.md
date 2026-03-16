@@ -80,7 +80,7 @@ This is a popular work — accessible to literate Kannada readers without lingui
 | Kannada Term | Eke | English Meaning |
 |---|---|---|
 | ಹವ್ಯಕ ಕನ್ನಡ | havyaka kannaDa | Havyaka Kannada dialect |
-| ಉಪಭಾಷೆ | upabASe | dialect |
+| ಉಪಭಾಷೆ | upabhAShe | dialect |
 | ಕನ್ನಡ ಮೂಲ | kannaDa mUla | Kannada (Dravidian) root |
 | ಉಲಿ ಹೋಲಿಕೆ | uLi hOlike | sound correspondence |
 | ಮೂಲ ದ್ರಾವಿಡ | mUla drAviDa | Proto-Dravidian |
