@@ -1,5 +1,5 @@
 ---
-title: "14 — Nijakku Halegannada Vyakarana Entahadu"
+title: "14 — nijakkU haLegannaDa vyAkaraNa entahadu"
 nav_order: 114
 ---
 

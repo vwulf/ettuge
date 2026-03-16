@@ -1,5 +1,5 @@
 ---
-title: "02 — Kannadadalle Hosapadagalannu Kattuva Bage"
+title: "02 — kannaDadalle hosapadagaLannu kaTTuva bage"
 nav_order: 102
 ---
 

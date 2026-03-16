@@ -1,5 +1,5 @@
 ---
-title: "01 — Idu Kannadade Vyakarana"
+title: "01 — idu kannaDaddE vyAkaraNa"
 nav_order: 101
 ---
 

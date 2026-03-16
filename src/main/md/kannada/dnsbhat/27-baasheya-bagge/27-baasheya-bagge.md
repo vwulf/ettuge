@@ -1,5 +1,5 @@
 ---
-title: "27 — Baasheya Bagge"
+title: "27 — bASheya bagge nIvEnu balliri?"
 nav_order: 127
 ---
 

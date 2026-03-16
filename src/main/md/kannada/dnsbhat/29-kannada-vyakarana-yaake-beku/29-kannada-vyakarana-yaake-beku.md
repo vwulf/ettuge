@@ -1,5 +1,5 @@
 ---
-title: "29 — Kannada Vyakarana Yaake Beku"
+title: "29 — kannaDa vyAkaraNa yAke bEku"
 nav_order: 129
 ---
 

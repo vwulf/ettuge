@@ -1,5 +1,5 @@
 ---
-title: "08 — Kannadakke Mahaprana Yake Beda"
+title: "08 — kannaDakke mahAprANa yAke bEDa"
 nav_order: 108
 ---
 

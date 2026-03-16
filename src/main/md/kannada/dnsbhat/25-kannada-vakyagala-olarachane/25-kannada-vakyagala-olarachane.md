@@ -1,5 +1,5 @@
 ---
-title: "25 — Kannada Vakyagala Olarachane"
+title: "25 — kannaDa vAkyagaLa oLaracane"
 nav_order: 125
 ---
 

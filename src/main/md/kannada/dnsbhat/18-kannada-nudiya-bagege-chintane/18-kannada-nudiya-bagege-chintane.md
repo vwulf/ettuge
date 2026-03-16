@@ -1,5 +1,5 @@
 ---
-title: "18 — Kannada Nudiya Bagege Chintane"
+title: "18 — kannaDa nuDiya bagege cintane"
 nav_order: 118
 ---
 

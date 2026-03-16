@@ -1,5 +1,5 @@
 ---
-title: "03 — Kannada Padagala Olarachane"
+title: "03 — kannaDa padagaLa oLaracane"
 nav_order: 103
 ---
 

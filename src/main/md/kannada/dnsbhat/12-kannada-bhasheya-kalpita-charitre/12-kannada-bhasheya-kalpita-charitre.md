@@ -1,5 +1,5 @@
 ---
-title: "12 — Kannada Bhasheya Kalpita Charitre"
+title: "12 — kannaDa bASheya kalpita caritre"
 nav_order: 112
 ---
 

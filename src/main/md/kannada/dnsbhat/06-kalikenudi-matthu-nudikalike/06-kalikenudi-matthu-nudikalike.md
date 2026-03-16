@@ -1,5 +1,5 @@
 ---
-title: "06 — Kalikenudi Matthu Nudikalike"
+title: "06 — kalikenuDi mattu nuDikalike"
 nav_order: 106
 ---
 

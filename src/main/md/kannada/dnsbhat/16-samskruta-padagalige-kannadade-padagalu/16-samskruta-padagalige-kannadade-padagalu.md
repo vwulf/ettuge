@@ -1,5 +1,5 @@
 ---
-title: "16 — Samskruta Padagalige Kannadade Padagalu"
+title: "16 — nuDiyarimeya padagaLige kannaDaddE padagaLu"
 nav_order: 116
 ---
 

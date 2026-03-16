@@ -1,5 +1,5 @@
 ---
-title: "04 — Mathu Matthu Barahada Naduvina Gondala"
+title: "04 — mAtu mattu barahada naDuvina gondala"
 nav_order: 104
 ---
 

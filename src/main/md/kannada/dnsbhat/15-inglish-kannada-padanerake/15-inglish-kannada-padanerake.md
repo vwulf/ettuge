@@ -1,5 +1,5 @@
 ---
-title: "15 — Inglish-Kannada Padanerake"
+title: "15 — ingliS-kannaDa padanerake"
 nav_order: 115
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "13 — Dharege Doddavaru"
+title: "13 — dArege doDDavaru"
 nav_order: 113
 ---
 

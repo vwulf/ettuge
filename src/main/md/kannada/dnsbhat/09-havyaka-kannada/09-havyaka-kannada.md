@@ -1,5 +1,5 @@
 ---
-title: "09 — Havyaka Kannada"
+title: "09 — havyaka kannaDa"
 nav_order: 109
 ---
 

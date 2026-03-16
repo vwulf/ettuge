@@ -1,5 +1,5 @@
 ---
-title: "17 — Kannada Nudi Nadedu Banda Dari"
+title: "17 — kannaDa nuDi naDeDu banda dAri"
 nav_order: 117
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "07 — Kannadada Sollarime"
+title: "07 — kannaDa barahada sollarime"
 nav_order: 107
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "11 — Kannada Barahada Padasamasye"
+title: "11 — kannaDa barahada padasamasye"
 nav_order: 111
 ---
 

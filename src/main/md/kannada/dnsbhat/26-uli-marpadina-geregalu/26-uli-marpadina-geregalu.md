@@ -1,5 +1,5 @@
 ---
-title: "26 — Uli Marpadina Geregalu"
+title: "26 — uli mArpADina geregaLu"
 nav_order: 126
 ---
 

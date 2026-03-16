@@ -1,5 +1,5 @@
 ---
-title: "10 — Kannada Nudiya Hinnadavali"
+title: "10 — kannaDa nuDiya hinnaDavaLi"
 nav_order: 110
 ---
 

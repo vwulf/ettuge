@@ -1,5 +1,5 @@
 ---
-title: "28 — Kannadakke Beku"
+title: "28 — kannaDakke bEku"
 nav_order: 128
 ---
 
