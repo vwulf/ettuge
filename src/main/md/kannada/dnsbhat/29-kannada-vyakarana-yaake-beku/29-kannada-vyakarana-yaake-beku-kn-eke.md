@@ -16,7 +16,7 @@
 2. [Odu-barahada kalike](#Odu-barahada-kalike)
 3. [bareyuvudaralli hecina kalike](#bareyuvudaralli-hecina-kalike)
 4. [arimeya barahagaLu](#arimeya-barahagaLu)
-5. [nalbaragaLu mattu sollarime](#nalbaragaLu-mattu-sollarime)
+5. [nalbarahagaLu mattu sollarime](#nalbarahagaLu-mattu-sollarime)
 6. [ippuruLina toDakugaLu](#ippuruLina-toDakugaLu)
 7. [eraDanE nuDiya kalike](#eraDanE-nuDiya-kalike)
 8. [nuDimArike](#nuDimArike)
@@ -30,7 +30,7 @@
 
 *(ಮುನ್ನೋಟ)*
 
-ondu kannaDiganu huTTidagilindE kannaDiganAgi matanADuttAne — andare adara sollarime avana talayadalli idE. ee oLa-sollarime "mElu-sollarime" (tacit grammar) — svikarisi baLasida, Adare hELala bArada niyama-kaTTale. baT avaru ee pustakadinAdu entaha mElu-sollarimeyanu bEre bEre bEkugaLige hEge upayOgisi biDabahudandu tOrisuttAre: akSarate karpisuvagala, bareyuvudaralli, arimeya-baraha barehuvagala, nalbara barehuvagala, anuvAda mADuvagala, nuDi hammu mADuvagala, mattu mAtina tondaregaLa cikitseyalli.
+ondu kannaDiganu huTTidagilindE kannaDiganAgi matanADuttAne — andare adara sollarime avana talayadalli idE. ee oLa-sollarime "mElu-sollarime" (tacit grammar) — svikarisi baLasida, Adare hELala bArada niyama-kaTTale. baT avaru ee pustakadinAdu entaha mElu-sollarimeyanu bEre bEre bEkugaLige hEge upayOgisi biDabahudandu tOrisuttAre: akSarate karpisuvagala, bareyuvudaralli, arimeya-baraha barehuvagala, nalbaraha barehuvagala, anuvAda mADuvagala, nuDi hammu mADuvagala, mattu mAtina tondaregaLa cikitseyalli.
 
 ee mustakada mukhya kELike: sollarimeyanu tiLiyuvudu niyamagaLannu bAyi-pATa mADuvudu alla — adu nirdishTa vyAvahArika kArya nirvahisuvudu. ee vAyideyanu baT avaru dAtivA oTTida rUpagaLa (vibakti-rUpagaLa) udAharaNadi tOrisuttAre: "-ge" (manege), "-ige" (ArAdige), "-nige" (hAvanige), "-kke" (makkakke) enda nAlku rUpagaLu ellA kannaDigaLige svAbhAvikavAgi bagiyuttave. Adare yAkE bEre rUpagaLu bALuttave embadannu hELala bArA janakke idu "gabarU" — ee gabarUvannu hOgaladisuvudu sollarimeyininda sADya. mAtu mattu baraha naDuvina bedagaLannu kanDupaDisu pasugeyandu mugisutte; mOsata adyAyadinAdu ee pustakadinAdu 11 pasugegaLa oLapiDiyannu koDuttAre.
 
@@ -60,11 +60,11 @@ arimeya baraha (academic writing) kannaDigaLalli entu kaSTavAguttade? samskxta p
 
 ---
 
-## 5. nalbaragaLu mattu sollarime {#nalbaragaLu-mattu-sollarime}
+## 5. nalbarahagaLu mattu sollarime {#nalbarahagaLu-mattu-sollarime}
 
 *(ನಲ್ಬರಹಗಳು ಮತ್ತು ಸೊಲ್ಲರಿಮೆ)*
 
-nalbara (creative literature) barehuvagala lekhakanu gaNaNIyavAgi sollarimeyininda tappakkovADuttAne — ee sankalpa-purvaka "tappa" sollarimeyA Im-tahi avagAhana bEku. nATakagaLalli pAtra-pAtragaLa oLanADu (dialects) tOrisu bEkAguttade — adakke ellA upabAse (oLanuDi)gaLa vyAkaraNa tiLidu biDabEku. kUriyAyisida natanagaLa naDuvina matanADike-samvAda nATakadinAdu spaSTavAgi kANisuvadale sollarimeyA jnAna lEkhakarige sahAya mADuttade. sollu-jODaNe (sentence cohesion) kavita mattu gadyadi bEre bEre rItiyalli kAryanirvahistade — ee bEdavannu tiLida nalbara barehuvagala baT avaru ullEkhisuttAre.
+nalbaraha (creative literature) barehuvagala lekhakanu gaNaNIyavAgi sollarimeyininda tappakkovADuttAne — ee sankalpa-purvaka "tappa" sollarimeyA Im-tahi avagAhana bEku. nATakagaLalli pAtra-pAtragaLa oLanADu (dialects) tOrisu bEkAguttade — adakke ellA upabAse (oLanuDi)gaLa vyAkaraNa tiLidu biDabEku. kUriyAyisida natanagaLa naDuvina matanADike-samvAda nATakadinAdu spaSTavAgi kANisuvadale sollarimeyA jnAna lEkhakarige sahAya mADuttade. sollu-jODaNe (sentence cohesion) kavita mattu gadyadi bEre bEre rItiyalli kAryanirvahistade — ee bEdavannu tiLida nalbaraha barehuvagala baT avaru ullEkhisuttAre.
 
 ---
 
@@ -72,7 +72,7 @@ nalbara (creative literature) barehuvagala lekhakanu gaNaNIyavAgi sollarimeyinin
 
 *(ಇಪ್ಪುರುಳಿನ ತೊಡಕುಗಳು)*
 
-ippuruLu (ambiguity) mUru bageyadadu: pada-ippuruLu (lexical ambiguity), padarUpa-ippuruLu (word-form ambiguity), mattu iTTaLa-ippuruLu (structural ambiguity). dharmika baraha (legal writing) mattu kAnUnu nirdharaNeyalli ippuruLu ghOrAvAda pariNAma tOrisuttade — hIgAgi kAnUnugaLannu bareyuvagala ippuruLu nivarisabahudu endu tiLidukOLLuvudu anivArya. eNNuka (computer) nuDi-arikattu (NLP) ippuruLannu nAviruva mArgadi nivarisabahudu — adakke kannaDigaLa iTTaLada arikattu bEku. nalbaragaLalli ippuruLannu sankalpa-purvakavAgi baLasuvudu kUDa konDu bAvukararige uttama kArya-saAdhana — adannu baT sUcisuttAre.
+ippuruLu (ambiguity) mUru bageyadadu: pada-ippuruLu (lexical ambiguity), padarUpa-ippuruLu (word-form ambiguity), mattu iTTaLa-ippuruLu (structural ambiguity). dharmika baraha (legal writing) mattu kAnUnu nirdharaNeyalli ippuruLu ghOrAvAda pariNAma tOrisuttade — hIgAgi kAnUnugaLannu bareyuvagala ippuruLu nivarisabahudu endu tiLidukOLLuvudu anivArya. eNNuka (computer) nuDi-arikattu (NLP) ippuruLannu nAviruva mArgadi nivarisabahudu — adakke kannaDigaLa iTTaLada arikattu bEku. nalbarahagaLalli ippuruLannu sankalpa-purvakavAgi baLasuvudu kUDa konDu bAvukararige uttama kArya-saAdhana — adannu baT sUcisuttAre.
 
 ---
 
@@ -129,7 +129,7 @@ varNanAtmaka (descriptive), nirdEshAtmaka (prescriptive), SaikShaNika (pedagogic
 | ಇಟ್ಟಳ | iTTaLa | structure |
 | ಪಸುಗೆ | pasuge | chapter (baT avara pada) |
 | ಕುರಳು | kuraLu | paragraph |
-| ನಲ್ಬರಹ | nalbara | creative literature |
+| ನಲ್ಬರಹ | nalbaraha | creative literature |
 | ನುಡಿಮಾರಿಕೆ | nuDimArike | translation |
 | ನುಡಿಹಮ್ಮುಗೆ | nuDihammuge | language planning |
 | ಎಣ್ಣುಕ | eNNuka | computer |
