@@ -7,7 +7,7 @@
 **Read by:** Malati Bhat
 **Language:** Kannada
 **Source quality:** YouTube transcripts — 72/88 transcript slots cleaned (~82%). Many early parts (1–14) are garbled due to poor source audio/auto-captions. Best content in Parts 11, 27–29.
-**Transcript file:** [`09-havyaka-kannada.md`](./09-havyaka-kannada.md)
+**Transcript file:** [`09-havyaka-kannada.md`](./09-havyaka-kannada)
 
 ---
 
@@ -34,7 +34,7 @@ This book introduces the Havyaka Kannada dialect spoken in Puttur, South Kanara,
 
 *Parts P1–P6 of the transcript*
 
-[📼 Parts P1–P6 →](./09-havyaka-kannada.md#part-P1)
+[📼 Parts P1–P6 →](./09-havyaka-kannada#part-P1)
 
 > **Coverage note:** Parts P1–P5 are garbled (poor YouTube auto-captions — Hindi/other language fragments). Part P6 is readable.
 
@@ -50,7 +50,7 @@ This book introduces the Havyaka Kannada dialect spoken in Puttur, South Kanara,
 
 *Parts 1–5 of the transcript*
 
-[📼 Parts 1–5 →](./09-havyaka-kannada.md#part-1)
+[📼 Parts 1–5 →](./09-havyaka-kannada#part-1)
 
 > **Coverage note:** Parts 1–5 are garbled. Content below inferred from official book description and partial keywords visible in transcript.
 
@@ -68,7 +68,7 @@ This book introduces the Havyaka Kannada dialect spoken in Puttur, South Kanara,
 
 *Parts 6–15 of the transcript*
 
-[📼 Parts 6–15 →](./09-havyaka-kannada.md#part-6)
+[📼 Parts 6–15 →](./09-havyaka-kannada#part-6)
 
 > **Coverage note:** Part 11 has excellent content. Parts 6–10 and 12–14 are garbled. Part 15 is disabled.
 
@@ -89,7 +89,7 @@ This book introduces the Havyaka Kannada dialect spoken in Puttur, South Kanara,
 
 *Parts 16–26 of the transcript*
 
-[📼 Parts 16–26 →](./09-havyaka-kannada.md#part-16)
+[📼 Parts 16–26 →](./09-havyaka-kannada#part-16)
 
 > **Coverage note:** Part 27 (see Theme 4) contains the richest phonological data. Parts 16–26 are mostly garbled. Parts 19, 22, 25 are disabled/non-Kannada garbage. Part 27 is read in full below.
 
@@ -114,7 +114,7 @@ This book introduces the Havyaka Kannada dialect spoken in Puttur, South Kanara,
 
 *Parts 27–32 of the transcript*
 
-[📼 Parts 27–32 →](./09-havyaka-kannada.md#part-27)
+[📼 Parts 27–32 →](./09-havyaka-kannada#part-27)
 
 > **Coverage note:** Part 29 has excellent content. Parts 28, 30, 32 are garbled. Part 31 is non-Kannada garbage.
 
@@ -143,7 +143,7 @@ This book introduces the Havyaka Kannada dialect spoken in Puttur, South Kanara,
 
 *Parts 33–37 of the transcript*
 
-[📼 Parts 33–37 →](./09-havyaka-kannada.md#part-33)
+[📼 Parts 33–37 →](./09-havyaka-kannada#part-33)
 
 > **Coverage note:** Part 33 is readable. Parts 34, 36 are fragmentary. Part 35 is non-Kannada garbage. Part 37 is garbled.
 
@@ -189,4 +189,4 @@ This book introduces the Havyaka Kannada dialect spoken in Puttur, South Kanara,
 ## External Links
 
 - **Author's website (archived):** <https://web.archive.org/web/20170425073509/http://dnshankarabhat.net:80/%E0%B2%B9%E0%B2%B5%E0%B3%8D%E0%B2%AF%E0%B2%95-%E0%B2%95%E0%B2%A8%E0%B3%8D%E0%B2%A8%E0%B2%A1/>
-- **YouTube lecture series:** See [Table of Contents](./09-havyaka-kannada.md)
+- **YouTube lecture series:** See [Table of Contents](./09-havyaka-kannada)

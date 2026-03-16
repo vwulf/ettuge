@@ -6,7 +6,7 @@
 **mudraka:** bASa prakasana, heggODu, sAgara
 **samputagaLu:** 2 (samputa 1: aD. 1–4; samputa 2: aD. 5–9)
 **nuDi:** kannaD (hosa baraha)
-**mUla:** [English](./07-kannadada-sollarime-en.md)
+**mUla:** [English](./07-kannadada-sollarime-en)
 
 ---
 
@@ -141,4 +141,4 @@ ee kaDeyA aDDyAya baraha mattu mAtanADuva nuDi naDuvina vyavasthita bedagaLannu 
 
 ---
 
-*ee dastavEju Di. En. sankara baT avarA "kannaData sollarime" (2010, eraDu samputagaLu) pustakadinaduva Eke baraha-rUpadi samyOjita saramsa. mUla kannaD baraha [07-kannadada-sollarime-kn.md](./07-kannadada-sollarime-kn.md) dalli mattu English saramsa [07-kannadada-sollarime-en.md](./07-kannadada-sollarime-en.md) dalli kANabahudu.*
+*ee dastavEju Di. En. sankara baT avarA "kannaData sollarime" (2010, eraDu samputagaLu) pustakadinaduva Eke baraha-rUpadi samyOjita saramsa. mUla kannaD baraha [07-kannadada-sollarime-kn.md](./07-kannadada-sollarime-kn) dalli mattu English saramsa [07-kannadada-sollarime-en.md](./07-kannadada-sollarime-en) dalli kANabahudu.*

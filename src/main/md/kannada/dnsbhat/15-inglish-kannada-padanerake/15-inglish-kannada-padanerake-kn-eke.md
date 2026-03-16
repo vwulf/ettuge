@@ -4,8 +4,8 @@
 **prakaTaNe / Published:** 2015, navakarnATaka prakASana, bengaLUru
 **saraNi / Series:** DNS Bhat Ellara Kannada Collection — Book 15
 
-> mUla paTya (kannaDa lipi): [15-inglish-kannada-padanerake-book.md](./15-inglish-kannada-padanerake-book.md)
-> ingliS viSlESaNe: [15-inglish-kannada-padanerake-en.md](./15-inglish-kannada-padanerake-en.md)
+> mUla paTya (kannaDa lipi): [15-inglish-kannada-padanerake-book.md](./15-inglish-kannada-padanerake-book)
+> ingliS viSlESaNe: [15-inglish-kannada-padanerake-en.md](./15-inglish-kannada-padanerake-en)
 
 ---
 
@@ -97,7 +97,7 @@ I padanerakeya vacanasaraNigaLu:
 
 ---
 
-*mUla paTya (kannaDa): [book.md](./15-inglish-kannada-padanerake-book.md)*
+*mUla paTya (kannaDa): [book.md](./15-inglish-kannada-padanerake-book)*
 *I paTavu A–Az (53 puTada mAdarigucca, ~1163 padagaLu) Eke romanISanu.*
 
 ```

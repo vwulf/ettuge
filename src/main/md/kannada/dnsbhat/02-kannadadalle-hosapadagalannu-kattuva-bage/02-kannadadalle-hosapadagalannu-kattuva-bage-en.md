@@ -53,7 +53,7 @@ This book is the primary source for the `DNS_BHAT_WORD_FORMATION_PROMPT.md` refe
 
 ### 1.1 The Sanskrit Problem in Kannada Writing
 
-[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md#sec-1-1) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md#sec-1-1)
+[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-1-1) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke#sec-1-1)
 
 Bhat opens with a diagnosis of the current state of written Kannada. When Kannada writers and scholars need new words — for concepts in science, administration, technology, or modern social life — they almost invariably reach for Sanskrit: Sanskrit roots, Sanskrit prefixes, Sanskrit suffixes combined into Sanskrit-derived forms. The result is visible in any Kannada dictionary: more than fifty percent of general vocabulary is Sanskrit-derived, and in scientific or technical registers the figure rises above eighty percent.
 
@@ -61,7 +61,7 @@ Bhat's claim is not that Sanskrit loanwords are wrong in Kannada — borrowing b
 
 ### 1.2 Native Kannada Morphology as the Solution
 
-[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md#sec-1-2) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md#sec-1-2)
+[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-1-2) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke#sec-1-2)
 
 Kannada is an agglutinative Dravidian language with a rich system of native roots, suffixes, and prefixes. Old Kannada texts — from inscriptions and literature of the 6th through 12th centuries — preserve productive word-formation patterns that are still regular and recognizable to modern speakers. The forms Bhat demonstrates are not archaisms requiring special learning; they are patterns any native speaker can recognize and use.
 
@@ -69,7 +69,7 @@ The key insight is systemic: Kannada's suffix system covers every semantic role 
 
 ### 1.3 Purpose and Scope of the Book
 
-[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md#sec-1-3) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md#sec-1-3)
+[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-1-3) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke#sec-1-3)
 
 The book has two goals: first, to document the complete native Kannada word-formation system so that writers who *want* to use native vocabulary can do so with confidence; second, to demonstrate the system in action by working through English vocabulary affix by affix, showing the native Kannada equivalent for each English suffix and prefix.
 
@@ -85,7 +85,7 @@ The motivation is accessibility. Written Kannada saturated with Sanskrit borrowi
 
 ### 2.1 Three Word Classes
 
-[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md#sec-2-1) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md#sec-2-1)
+[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-2-1) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke#sec-2-1)
 
 Bhat works with three primary word classes in Kannada:
 
@@ -99,7 +99,7 @@ Word-formation is fundamentally about moving between these classes — turning v
 
 ### 2.2 Two Methods: ಕಟ್ಟುಪದ and ಜೋಡುಪದ
 
-[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md#sec-2-2) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md#sec-2-2)
+[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-2-2) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke#sec-2-2)
 
 Kannada has two fundamental methods of building new words:
 
@@ -111,7 +111,7 @@ The hierarchy is clear: prefer ಕಟ್ಟುಪದ over ಜೋಡುಪದ whe
 
 ### 2.3 Four Prefix Groups
 
-[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md#sec-2-3) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md#sec-2-3)
+[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-2-3) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke#sec-2-3)
 
 Kannada's prefix (ಮುನ್ನೊಟ್ಟು) system is organized into four semantic groups:
 
@@ -136,7 +136,7 @@ Kannada's prefix (ಮುನ್ನೊಟ್ಟು) system is organized into four 
 
 #### 3.1 The Quality Suffix -ತನ
 
-[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md#sec-3-1) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md#sec-3-1)
+[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-3-1) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke#sec-3-1)
 
 The suffix -ತನ is the universal Kannada suffix for converting an adjective or noun to an abstract quality noun — the equivalent of English -ness, -ity, -hood:
 
@@ -150,7 +150,7 @@ The suffix -ತನ is the universal Kannada suffix for converting an adjective o
 
 #### 3.2 The Reverse: Noun to Adjective
 
-[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md#sec-3-2) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md#sec-3-2)
+[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-3-2) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke#sec-3-2)
 
 To go in the reverse direction — converting a noun to an adjective — Kannada uses the possessive form (ಪತ್ತುಗೆ ರೂಪ): add the genitive suffix -ದ to produce an adjectival form. Thus ಚೆಲುವತನ (beauty) → ಚೆಲುವತನದ (of beauty / beautiful).
 
@@ -164,7 +164,7 @@ To go in the reverse direction — converting a noun to an adjective — Kannada
 
 #### 4.1 Agent Nouns: -ಗ / -ಇಗ (Person Who Does)
 
-[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md#sec-4-1) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md#sec-4-1)
+[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-4-1) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke#sec-4-1)
 
 The suffix -ಗ/-ಇಗ attaches to verb roots to form nouns denoting the agent — the person who performs the action. This is the equivalent of English -er/-or when applied to verbs:
 
@@ -179,7 +179,7 @@ Feminine forms add -ಇತ್ತಿ after -ಗ/-ಇಗ: ಆರಯ್ಗ (nurse, 
 
 #### 4.2 Professional Agent Nouns: -ಗಾರ (Noun → Professional)
 
-[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md#sec-4-2) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md#sec-4-2)
+[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-4-2) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke#sec-4-2)
 
 The suffix -ಗಾರ attaches *only* to noun roots (not verb roots) to form professional or habitual agent nouns:
 
@@ -193,13 +193,13 @@ Feminine: -ಗಾರ → -ಗಾರ್ತಿ: ನಲ್ಮೆಗಾರ → ನ�
 
 #### 4.3 The Patient/Recipient Problem (the -ee Gap)
 
-[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md#sec-4-3) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md#sec-4-3)
+[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-4-3) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke#sec-4-3)
 
 Kannada has no direct equivalent of English -ee (the person who is acted upon). Two strategies fill this gap: (A) remove -ಇಸು from a causative verb, apply -ಗ: *trainee* = ತರಬೇತಿಗ; (B) use ಕೊಡು/ಪಡೆ compounds: *payee* = ಪಡೆಗ (one who receives).
 
 #### 4.4 Instrument Nouns: -ಕ (Thing That Does)
 
-[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md#sec-4-4) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md#sec-4-4)
+[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-4-4) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke#sec-4-4)
 
 The suffix -ಕ attaches to verb roots to form instrument nouns — things that perform the action by their nature:
 
@@ -211,7 +211,7 @@ The suffix -ಕ attaches to verb roots to form instrument nouns — things that 
 
 #### 4.5 Abstract Action Nouns: -ಇಕೆ/-ಕೆ and -ತ
 
-[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md#sec-4-5) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md#sec-4-5)
+[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-4-5) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke#sec-4-5)
 
 Two suffixes form abstract action nouns, with phonological conditioning:
 - After verbs ending in -ಉ: use -ಇಕೆ/-ಕೆ: ಎಚ್ಚರು → ಎಚ್ಚರಿಕೆ (notice/alertness), ತಾಳು → ತಾಳಿಕೆ (stamina)
@@ -219,7 +219,7 @@ Two suffixes form abstract action nouns, with phonological conditioning:
 
 #### 4.6 Concrete Result Nouns: -ಗೆ/-ಇಗೆ and -ತೆ
 
-[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md#sec-4-6) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md#sec-4-6)
+[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-4-6) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke#sec-4-6)
 
 Distinct from the abstract action suffixes, -ಗೆ/-ಇಗೆ and -ತೆ form nouns denoting the *tangible result* of an action:
 
@@ -240,7 +240,7 @@ Distinct from the abstract action suffixes, -ಗೆ/-ಇಗೆ and -ತೆ form 
 
 #### 6.1 Why Kannada Cannot Do What English Does
 
-[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md#sec-6-1) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md#sec-6-1)
+[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-6-1) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke#sec-6-1)
 
 English freely uses verb forms as nouns without any morphological change: "a walk", "a cut", "a run", "a find". This zero derivation — converting a word class with no overt marking — is impossible in Kannada. A Kannada verb form cannot function as a noun without a suffix.
 
@@ -261,7 +261,7 @@ Each role has its own suffix; none is left implicit.
 
 #### 7.1 Expert Suffix: -ಅರಿಗ
 
-[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md#sec-7-1) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md#sec-7-1)
+[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-7-1) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke#sec-7-1)
 
 The suffix -ಅರಿಗ forms expert/specialist nouns from field nouns:
 - linguist → ನುಡಿಯರಿಗ (nudi + ariga)
@@ -269,7 +269,7 @@ The suffix -ಅರಿಗ forms expert/specialist nouns from field nouns:
 
 #### 7.2 Advocate Suffix: -ಒಲವಿಗ
 
-[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md#sec-7-2) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md#sec-7-2)
+[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-7-2) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke#sec-7-2)
 
 The suffix -ಒಲವಿಗ forms advocate/supporter nouns:
 - feminist → ಹೆಣ್ಣೊಲವಿಗ
@@ -277,7 +277,7 @@ The suffix -ಒಲವಿಗ forms advocate/supporter nouns:
 
 #### 7.3 Diminutive: ಕಿರು- / ಕಿತ್ತ್-
 
-[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md#sec-7-3) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md#sec-7-3)
+[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-7-3) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke#sec-7-3)
 
 The diminutive prefix has two allomorphs: ಕಿರು before consonants, ಕಿತ್ತ್ before vowels:
 - booklet → ಕಿರುಪೊತ್ತಗೆ
@@ -297,7 +297,7 @@ The diminutive prefix has two allomorphs: ಕಿರು before consonants, ಕಿ
 
 #### 8.1 Numeral Root Prefixes
 
-[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md#sec-8-1) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md#sec-8-1)
+[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-8-1) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke#sec-8-1)
 
 Old Kannada preserves a complete set of numeral root prefixes for international prefixes like mono-, bi-, tri-, quadri-:
 
@@ -314,7 +314,7 @@ Old Kannada preserves a complete set of numeral root prefixes for international 
 
 #### 8.2 Degree Prefixes
 
-[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md#sec-8-2) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md#sec-8-2)
+[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-8-2) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke#sec-8-2)
 
 | English Prefix | Kannada Equivalent | Example |
 |---|---|---|
@@ -335,7 +335,7 @@ Old Kannada preserves a complete set of numeral root prefixes for international 
 
 #### 9.1 The Spatial Prefix System
 
-[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md#sec-9-1) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md#sec-9-1)
+[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-9-1) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke#sec-9-1)
 
 Kannada has a complete system of spatial prefixes drawn from native Kannada directional words:
 
@@ -360,7 +360,7 @@ Kannada has a complete system of spatial prefixes drawn from native Kannada dire
 
 #### 10.1 The Temporal Prefix System
 
-[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md#sec-10-1) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md#sec-10-1)
+[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-10-1) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke#sec-10-1)
 
 | English Prefix | Kannada Equivalent | Example |
 |---|---|---|
@@ -384,7 +384,7 @@ Kannada has a complete system of spatial prefixes drawn from native Kannada dire
 
 #### 11.1 The Core Kannada Negation Distinction: ಇಲ್ಲ vs. ಅಲ್ಲ
 
-[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md#sec-11-1) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md#sec-11-1)
+[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-11-1) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke#sec-11-1)
 
 This is Bhat's most linguistically distinctive analysis in the prefix section, because the distinction has no parallel in English or Sanskrit. Kannada distinguishes two fundamentally different kinds of negation:
 
@@ -397,7 +397,7 @@ Examples: ನೀತಿಯಿಲ್ಲದ (amoral = lacking morality), ಸಮನ�
 
 #### 11.2 Negation Prefix Equivalents
 
-[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md#sec-11-2) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md#sec-11-2)
+[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-11-2) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke#sec-11-2)
 
 | English | Kannada Strategy | Example |
 |---|---|---|
@@ -412,7 +412,7 @@ Examples: ನೀತಿಯಿಲ್ಲದ (amoral = lacking morality), ಸಮನ�
 
 #### 11.3 Additional Negation Patterns
 
-[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md#sec-11-3) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md#sec-11-3)
+[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-11-3) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke#sec-11-3)
 
 | Pattern | Form | Example |
 |---|---|---|
@@ -431,7 +431,7 @@ Examples: ನೀತಿಯಿಲ್ಲದ (amoral = lacking morality), ಸಮನ�
 
 ### 13.1 The Only Productive Verb Suffix: -ಇಸು
 
-[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md#sec-13-1) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md#sec-13-1)
+[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-13-1) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke#sec-13-1)
 
 Kannada has exactly one productive suffix for creating new verbs: -ಇಸು. It can be added to nouns, adjectives, or borrowed foreign words:
 
@@ -442,7 +442,7 @@ Kannada has exactly one productive suffix for creating new verbs: -ಇಸು. It
 
 ### 13.2 Three Participial Forms
 
-[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md#sec-13-2) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md#sec-13-2)
+[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-13-2) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke#sec-13-2)
 
 Verbs generate three participial (adjectival) forms, each with a different tense/polarity:
 
@@ -462,7 +462,7 @@ Verbs generate three participial (adjectival) forms, each with a different tense
 
 ### 14.1 Compound Nouns: ಜೋಡುಪದ
 
-[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md#sec-14-1) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md#sec-14-1)
+[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-14-1) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke#sec-14-1)
 
 Kannada compound nouns always have a noun as the second (head) element. Three first-element types:
 
@@ -489,7 +489,7 @@ Kannada compound nouns always have a noun as the second (head) element. Three fi
 
 ### 14.2 Compound Verbs
 
-[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md#sec-14-2) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md#sec-14-2)
+[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-14-2) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke#sec-14-2)
 
 Compound verbs always have a verb as the second element. Three types:
 
@@ -499,7 +499,7 @@ Compound verbs always have a verb as the second element. Three types:
 
 ### 14.3 The Key Compounding Principle
 
-[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md#sec-14-3) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md#sec-14-3)
+[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-14-3) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke#sec-14-3)
 
 The most important rule in compound formation: translate the **MEANING**, not the word-by-word structure.
 
@@ -508,7 +508,7 @@ The most important rule in compound formation: translate the **MEANING**, not th
 
 ### 15.1 Standalone English Nouns: Decision Hierarchy
 
-[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md#sec-15-1) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md#sec-15-1)
+[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-15-1) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke#sec-15-1)
 
 For English nouns that lack explicit affixes and are not compounds, a four-step decision hierarchy applies:
 
@@ -529,7 +529,7 @@ The hierarchy encodes the book's core value: native before borrowed, simple befo
 
 ### 18.1 Root Mappings
 
-[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md#sec-18-1) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md#sec-18-1)
+[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-18-1) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke#sec-18-1)
 
 Modern technical vocabulary inherits Greek and Latin combining forms that have no direct native Kannada equivalent. Bhat maps each to a native Kannada root:
 
@@ -547,7 +547,7 @@ Modern technical vocabulary inherits Greek and Latin combining forms that have n
 
 ### 18.2 Suffix Mappings
 
-[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md#sec-18-2) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md#sec-18-2)
+[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-18-2) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke#sec-18-2)
 
 | Neo-classical Suffix | Meaning | Kannada Equivalent | Example |
 |---|---|---|---|
@@ -574,7 +574,7 @@ Modern technical vocabulary inherits Greek and Latin combining forms that have n
 
 #### 19.1 Agentive Suffixes: -er/-or, -ist, -eer, -ian
 
-[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md#sec-19-1) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md#sec-19-1)
+[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-19-1) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke#sec-19-1)
 
 English agentive suffixes (-er/-or for verb-based agents; -ist, -eer, -ian for profession/ideology-based agents) map to the Kannada system as follows:
 
@@ -585,7 +585,7 @@ English agentive suffixes (-er/-or for verb-based agents; -ist, -eer, -ian for p
 
 #### 19.2 Abstract Quality Suffixes: -ness, -ity, -ism, -dom, -hood, -ship
 
-[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md#sec-19-2) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md#sec-19-2)
+[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-19-2) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke#sec-19-2)
 
 All English suffixes that convert adjectives or nouns to abstract quality nouns have a single Kannada equivalent: -ತನ.
 
@@ -598,7 +598,7 @@ Exception: after -ಗಾರ or -ಆಟ nouns, use -ಇಕೆ instead: archery �
 
 #### 19.3 Action and Process Suffixes: -tion/-sion, -ment, -ance/-ence, -ure, -age
 
-[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md#sec-19-3) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md#sec-19-3)
+[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-19-3) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke#sec-19-3)
 
 English suffixes that form action nouns from verbs (-tion, -ment, -ance, -ure) map to the Kannada abstract action suffixes:
 
@@ -607,7 +607,7 @@ English suffixes that form action nouns from verbs (-tion, -ment, -ance, -ure) m
 
 #### 19.4 Result and Product Suffixes: -ure, -age (product)
 
-[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md#sec-19-4) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md#sec-19-4)
+[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-19-4) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke#sec-19-4)
 
 When -ure or -age denotes a concrete product or result (not the process), use -ಗೆ/-ಇಗೆ:
 - *mixture* → ಬೆರಕೆ (berake)
@@ -623,7 +623,7 @@ When -ure or -age denotes a concrete product or result (not the process), use -�
 
 #### 29.1 Verb-Forming Suffixes: -ize/-ise, -ify, -en
 
-[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md#sec-29-1) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md#sec-29-1)
+[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-29-1) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke#sec-29-1)
 
 All English verb-forming suffixes (-ize, -ify, -en) that convert nouns or adjectives into verbs map to Kannada's single productive verb suffix -ಇಸು:
 
@@ -633,7 +633,7 @@ All English verb-forming suffixes (-ize, -ify, -en) that convert nouns or adject
 
 #### 29.2 Adjective-Forming Suffixes: -ful, -less, -ous, -ive, -ible/-able, -al, -ic
 
-[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md#sec-29-2) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md#sec-29-2)
+[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-29-2) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke#sec-29-2)
 
 English adjective suffixes translate to Kannada participial or possessive forms:
 
@@ -655,7 +655,7 @@ English adjective suffixes translate to Kannada participial or possessive forms:
 
 #### 37.1 Quantity/Degree Prefixes: hyper-, mega-, micro-, mini-, super-
 
-[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md#sec-37-1) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md#sec-37-1)
+[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-37-1) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke#sec-37-1)
 
 Applied analysis of degree prefixes from the framework (Part 8) to specific English vocabulary:
 
@@ -666,7 +666,7 @@ Applied analysis of degree prefixes from the framework (Part 8) to specific Engl
 
 #### 37.2 Spatial Prefixes: inter-, intra-, extra-, trans-, sub-, super-
 
-[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md#sec-37-2) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md#sec-37-2)
+[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-37-2) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke#sec-37-2)
 
 Applied analysis of spatial prefixes from Part 9:
 
@@ -678,7 +678,7 @@ Applied analysis of spatial prefixes from Part 9:
 
 #### 37.3 Temporal Prefixes: pre-, post-, re-, ex-, neo-, paleo-
 
-[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md#sec-37-3) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md#sec-37-3)
+[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-37-3) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke#sec-37-3)
 
 Applied analysis of temporal prefixes from Part 10:
 
@@ -690,7 +690,7 @@ Applied analysis of temporal prefixes from Part 10:
 
 #### 37.4 Negation Prefixes: dis-, un-, non-, anti-, de-, in-/im-/ir-/il-
 
-[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md#sec-37-4) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md#sec-37-4)
+[ಕನ್ನಡ →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-37-4) | [Eke →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke#sec-37-4)
 
 Applied analysis of negation from Parts 11–12 to specific English prefix vocabulary:
 
@@ -749,8 +749,8 @@ Applied analysis of negation from Parts 11–12 to specific English prefix vocab
 
 ## Cross-References
 
-- [Kannada section index →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md)
-- [Eke romanisation →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md)
-- [YouTube playlist — all 52 parts](02-kannadadalle-hosapadagalannu-kattuva-bage.md)
-- [DNS Bhat Word Formation Prompt (derived from this book)](../DNS_BHAT_WORD_FORMATION_PROMPT.md)
+- [Kannada section index →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn)
+- [Eke romanisation →](02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke)
+- [YouTube playlist — all 52 parts](02-kannadadalle-hosapadagalannu-kattuva-bage)
+- [DNS Bhat Word Formation Prompt (derived from this book)](../DNS_BHAT_WORD_FORMATION_PROMPT)
 - [Author's website](http://dnshankarabhat.net/dr-d-n-shankara-bhat/)

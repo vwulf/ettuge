@@ -77,7 +77,7 @@ The book's central argument is that ordinary people hold many misconceptions abo
 ## Part One — The Nature of Language
 
 
-[ಕನ್ನಡ →](./27-baasheya-bagge-book.md) | [Eke →](./27-baasheya-bagge-kn-eke.md#11)
+[ಕನ್ನಡ →](./27-baasheya-bagge-book) | [Eke →](./27-baasheya-bagge-kn-eke#11)
 
 ### 1.1 No language is superior or inferior
 
@@ -112,7 +112,7 @@ Number systems vary dramatically across the world's languages. Most use a base-1
 ## Part Two — Grammar and Learning
 
 
-[ಕನ್ನಡ →](./27-baasheya-bagge-book.md) | [Eke →](./27-baasheya-bagge-kn-eke.md#21)
+[ಕನ್ನಡ →](./27-baasheya-bagge-book) | [Eke →](./27-baasheya-bagge-kn-eke#21)
 
 ### 2.1 The magic of first language acquisition
 
@@ -159,7 +159,7 @@ Even people who are literate in Kannada often read very little beyond necessity.
 ## Part Three — Speech and Writing
 
 
-[ಕನ್ನಡ →](./27-baasheya-bagge-book.md) | [Eke →](./27-baasheya-bagge-kn-eke.md#31)
+[ಕನ್ನಡ →](./27-baasheya-bagge-book) | [Eke →](./27-baasheya-bagge-kn-eke#31)
 
 ### 3.1 A photograph of speech
 
@@ -190,7 +190,7 @@ A summary essay distinguishing speech (ಮಾತು) from writing (ಬರಹ). S
 ## Part Four — The Nature of the Kannada Language
 
 
-[ಕನ್ನಡ →](./27-baasheya-bagge-book.md) | [Eke →](./27-baasheya-bagge-kn-eke.md#41)
+[ಕನ್ನಡ →](./27-baasheya-bagge-book) | [Eke →](./27-baasheya-bagge-kn-eke#41)
 
 ### 4.1 The three faces of Kannada
 
@@ -221,7 +221,7 @@ How should Kannada develop vocabulary for science, technology, and modern life? 
 ## Part Five — Languages of the World
 
 
-[ಕನ್ನಡ →](./27-baasheya-bagge-book.md) | [Eke →](./27-baasheya-bagge-kn-eke.md#51)
+[ಕನ್ನಡ →](./27-baasheya-bagge-book) | [Eke →](./27-baasheya-bagge-kn-eke#51)
 
 ### 5.1 Languages of India
 
@@ -284,6 +284,6 @@ The book closes by returning to its opening theme: ordinary people know less abo
 ---
 
 *Cross-links:*
-- [Kannada source text (kn)](./27-baasheya-bagge-book.md)
-- [Eke romanisation (kn-eke)](./27-baasheya-bagge-kn-eke.md)
-- [AI system prompt](./27-baasheya-bagge-claude-prompt.md)
+- [Kannada source text (kn)](./27-baasheya-bagge-book)
+- [Eke romanisation (kn-eke)](./27-baasheya-bagge-kn-eke)
+- [AI system prompt](./27-baasheya-bagge-claude-prompt)

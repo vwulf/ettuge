@@ -3,9 +3,9 @@
 **ಲೇಖಕರು:** ಡಿ. ಎನ್. ಶಂಕರ ಭಟ್
 **ಪ್ರಕಟಣೆ:** ೨೦೦೫ (ಮೊದಲ ಮುದ್ರಣ)
 
-> ಮೂಲ ಪುಸ್ತಕದ ಸಂಪೂರ್ಣ ಪಠ್ಯ: [`nijakku-halegannada-vyakarana-entahadu-book.md`](./nijakku-halegannada-vyakarana-entahadu-book.md)
-> ಇಂಗ್ಲಿಶ್ ವಿಶ್ಲೇಷಣೆ: [`14-nijakku-halegannada-vyakarana-entahadu-en.md`](./14-nijakku-halegannada-vyakarana-entahadu-en.md)
-> Eke ರೋಮನೀಕರಣ: [`14-nijakku-halegannada-vyakarana-entahadu-kn-eke.md`](./14-nijakku-halegannada-vyakarana-entahadu-kn-eke.md)
+> ಮೂಲ ಪುಸ್ತಕದ ಸಂಪೂರ್ಣ ಪಠ್ಯ: [`nijakku-halegannada-vyakarana-entahadu-book.md`](./nijakku-halegannada-vyakarana-entahadu-book)
+> ಇಂಗ್ಲಿಶ್ ವಿಶ್ಲೇಷಣೆ: [`14-nijakku-halegannada-vyakarana-entahadu-en.md`](./14-nijakku-halegannada-vyakarana-entahadu-en)
+> Eke ರೋಮನೀಕರಣ: [`14-nijakku-halegannada-vyakarana-entahadu-kn-eke.md`](./14-nijakku-halegannada-vyakarana-entahadu-kn-eke)
 
 ---
 
@@ -9464,7 +9464,7 @@ skrit Series office, Varanasi ಇವರಿಂದ ಪುನಃ ಪ್ರಕಟಿ
 
 ## ಸಂಪರ್ಕ ಕೊಂಡಿಗಳು
 
-- [ಇಂಗ್ಲಿಶ್ ವಿಶ್ಲೇಷಣೆ →](14-nijakku-halegannada-vyakarana-entahadu-en.md)
-- [ಮೂಲ ಪುಸ್ತಕ →](nijakku-halegannada-vyakarana-entahadu-book.md)
+- [ಇಂಗ್ಲಿಶ್ ವಿಶ್ಲೇಷಣೆ →](14-nijakku-halegannada-vyakarana-entahadu-en)
+- [ಮೂಲ ಪುಸ್ತಕ →](nijakku-halegannada-vyakarana-entahadu-book)
 - [ಲೇಖಕರ ತಾಣ](http://dnshankarabhat.net/)
 - [ಇಂಟರ್ನೆಟ್ ಆರ್ಕೈವ್](https://archive.org/details/arn.nijakkuhaleganna0000dnsh)

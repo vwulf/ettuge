@@ -8,7 +8,7 @@
 **Format:** YouTube lecture series — 37 parts
 **Language:** Kannada
 **Source quality:** YouTube transcripts — ~27/37 parts usable (~73%). Parts 6, 29, 35 disabled; Parts 3, 5, 9, 17, 30, 34, 37 garbled. Best content in Parts 2, 4, 7, 8, 10, 11, 13, 14, 15, 16, 18, 19, 20, 26, 28, 31, 32, 33.
-**Transcript file:** [`05-mathina-olaguttu.md`](./05-mathina-olaguttu.md)
+**Transcript file:** [`05-mathina-olaguttu.md`](./05-mathina-olaguttu)
 
 ---
 
@@ -39,7 +39,7 @@
 
 *Parts 1–5 of the transcript*
 
-[📼 Parts 1–5 →](./05-mathina-olaguttu.md#part-1)
+[📼 Parts 1–5 →](./05-mathina-olaguttu#part-1)
 
 > **Coverage note:** Parts 3 and 5 are garbled (auto-caption noise). Part 6 is disabled. Parts 1, 2, and 4 are good.
 
@@ -57,7 +57,7 @@
 
 *Parts 7–11 of the transcript*
 
-[📼 Parts 7–11 →](./05-mathina-olaguttu.md#part-7)
+[📼 Parts 7–11 →](./05-mathina-olaguttu#part-7)
 
 > **Coverage note:** Part 9 is garbled. Parts 7, 8, 10, 11 are good.
 
@@ -75,7 +75,7 @@
 
 *Parts 13–15 of the transcript*
 
-[📼 Parts 13–15 →](./05-mathina-olaguttu.md#part-13)
+[📼 Parts 13–15 →](./05-mathina-olaguttu#part-13)
 
 > **Coverage note:** Parts 13, 14, 15 are all good.
 
@@ -92,7 +92,7 @@
 
 *Parts 16–25 of the transcript*
 
-[📼 Parts 16–25 →](./05-mathina-olaguttu.md#part-16)
+[📼 Parts 16–25 →](./05-mathina-olaguttu#part-16)
 
 > **Coverage note:** Part 17 is garbled. Parts 16, 18, 19 are good. Parts 22–25 are available but have not been read in full.
 
@@ -114,7 +114,7 @@
 
 *Parts 20–21 of the transcript*
 
-[📼 Parts 20–21 →](./05-mathina-olaguttu.md#part-20)
+[📼 Parts 20–21 →](./05-mathina-olaguttu#part-20)
 
 > **Coverage note:** Part 20 is good. Part 21 is partially garbled but the core argument is recoverable.
 
@@ -136,7 +136,7 @@
 
 *Parts 26–28 of the transcript*
 
-[📼 Parts 26–28 →](./05-mathina-olaguttu.md#part-26)
+[📼 Parts 26–28 →](./05-mathina-olaguttu#part-26)
 
 > **Coverage note:** Part 26 is partially garbled but anatomical argument is clear. Part 27 is mixed. Part 28 is good. Part 29 is disabled.
 
@@ -164,7 +164,7 @@
 
 *Parts 31–33 of the transcript*
 
-[📼 Parts 31–33 →](./05-mathina-olaguttu.md#part-31)
+[📼 Parts 31–33 →](./05-mathina-olaguttu#part-31)
 
 > **Coverage note:** Parts 31, 32, 33 are all good.
 
@@ -192,7 +192,7 @@
 
 *Parts 34–37 of the transcript*
 
-[📼 Parts 34–37 →](./05-mathina-olaguttu.md#part-34)
+[📼 Parts 34–37 →](./05-mathina-olaguttu#part-34)
 
 > **Coverage note:** Parts 34 and 37 are garbled. Part 35 is disabled. Part 36 is good.
 
@@ -241,4 +241,4 @@
 ## External Links
 
 - **Author's website (archived):** <https://web.archive.org/web/20170601140053/http://dnshankarabhat.net:80/matina-olagutu/>
-- **YouTube lecture series:** See [Table of Contents](./05-mathina-olaguttu.md)
+- **YouTube lecture series:** See [Table of Contents](./05-mathina-olaguttu)

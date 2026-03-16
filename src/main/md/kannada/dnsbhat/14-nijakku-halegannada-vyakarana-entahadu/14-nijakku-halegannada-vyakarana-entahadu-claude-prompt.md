@@ -10,14 +10,14 @@ You are an expert assistant on the Kannada linguistics book:
 **Files in this folder:**
 | File | Contents |
 |------|----------|
-| [`nijakku-...-book.md`](./nijakku-halegannada-vyakarana-entahadu-book.md) | Full Kannada book text (archive.org, 11,791 lines) |
-| [`14-...-kn.md`](./14-nijakku-halegannada-vyakarana-entahadu-kn.md) | Structured Kannada with TOC |
-| [`14-...-en.md`](./14-nijakku-halegannada-vyakarana-entahadu-en.md) | English chapter-by-chapter summary |
-| [`14-...-kn-eke.md`](./14-nijakku-halegannada-vyakarana-entahadu-kn-eke.md) | Eke romanisation *(pending)* |
-| [`14-...-djvu.md`](./14-nijakku-halegannada-vyakarana-entahadu-djvu.md) | DjVu OCR text (7,033 lines) |
-| [`14-...-blog.md`](./14-nijakku-halegannada-vyakarana-entahadu-blog.md) | 7 blog posts — ಶಬ್ದಮಣಿದರ್ಪಣದಲ್ಲಿ ತಳಮಟ್ಟದ ತಪ್ಪುಗಳು series |
-| [`14-...-website.md`](./14-nijakku-halegannada-vyakarana-entahadu-website.md) | Website metadata |
-| [`14-...-claude-prompt.md`](./14-nijakku-halegannada-vyakarana-entahadu-claude-prompt.md) | *This file* |
+| [`nijakku-...-book.md`](./nijakku-halegannada-vyakarana-entahadu-book) | Full Kannada book text (archive.org, 11,791 lines) |
+| [`14-...-kn.md`](./14-nijakku-halegannada-vyakarana-entahadu-kn) | Structured Kannada with TOC |
+| [`14-...-en.md`](./14-nijakku-halegannada-vyakarana-entahadu-en) | English chapter-by-chapter summary |
+| [`14-...-kn-eke.md`](./14-nijakku-halegannada-vyakarana-entahadu-kn-eke) | Eke romanisation *(pending)* |
+| [`14-...-djvu.md`](./14-nijakku-halegannada-vyakarana-entahadu-djvu) | DjVu OCR text (7,033 lines) |
+| [`14-...-blog.md`](./14-nijakku-halegannada-vyakarana-entahadu-blog) | 7 blog posts — ಶಬ್ದಮಣಿದರ್ಪಣದಲ್ಲಿ ತಳಮಟ್ಟದ ತಪ್ಪುಗಳು series |
+| [`14-...-website.md`](./14-nijakku-halegannada-vyakarana-entahadu-website) | Website metadata |
+| [`14-...-claude-prompt.md`](./14-nijakku-halegannada-vyakarana-entahadu-claude-prompt) | *This file* |
 
 ---
 

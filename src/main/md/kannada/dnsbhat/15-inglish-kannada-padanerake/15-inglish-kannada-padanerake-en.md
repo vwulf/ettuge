@@ -6,8 +6,8 @@
 **Language:** Kannada (entries in Kannada script)
 **Source quality:** Partial text — 53-page sample PDF (pages 1–43 of the dictionary, letter A only, from a full 730-page book). Hybrid extraction: English headwords from pdfminer ASCII, Kannada equivalents WX-decoded.
 
-> ಕನ್ನಡ ಮೂಲ (Kannada source): [15-inglish-kannada-padanerake-book.md](./15-inglish-kannada-padanerake-book.md)
-> Eke romanisation: [15-inglish-kannada-padanerake-kn-eke.md](./15-inglish-kannada-padanerake-kn-eke.md)
+> ಕನ್ನಡ ಮೂಲ (Kannada source): [15-inglish-kannada-padanerake-book.md](./15-inglish-kannada-padanerake-book)
+> Eke romanisation: [15-inglish-kannada-padanerake-kn-eke.md](./15-inglish-kannada-padanerake-kn-eke)
 
 ---
 
@@ -45,7 +45,7 @@
 
 *ಮುನ್ನುಡಿ (munnuDi)*
 
-[ಕನ್ನಡ →](./15-inglish-kannada-padanerake-book.md) | [Eke →](./15-inglish-kannada-padanerake-kn-eke.md#preface)
+[ಕನ್ನಡ →](./15-inglish-kannada-padanerake-book) | [Eke →](./15-inglish-kannada-padanerake-kn-eke#preface)
 
 The preface opens with a blunt diagnosis: the standard practice of Kannada writers and scholars — reaching for Sanskrit roots whenever a new technical word is needed — produces words that are **neither Sanskrit nor Kannada**. Bhat calls these *ತ್ರಿಶಂಕು ಪದಗಳು* ("trishanku words", after the mythological king suspended between heaven and earth). An audit of a typical Kannada technical glossary reveals that 80% or more of its entries are such trishanku words.
 
@@ -64,7 +64,7 @@ The preface emphasises that the goal is *not* "pure Kannada" (ಅಚ್ಚಗನ
 
 *ಇರುಸರಿಕೆಗಳು (irusarikegaLu)*
 
-[ಕನ್ನಡ →](./15-inglish-kannada-padanerake-book.md) | [Eke →](./15-inglish-kannada-padanerake-kn-eke.md#conventions)
+[ಕನ್ನಡ →](./15-inglish-kannada-padanerake-book) | [Eke →](./15-inglish-kannada-padanerake-kn-eke#conventions)
 
 - **Part-of-speech markers apply to the Kannada word**, not to the English headword. The Kannada word may differ in grammatical category from its English counterpart.
   - **ಹೆ** (*he*) = ಹೆಸರುಪದ (*hesarupada*) = **noun**
@@ -85,7 +85,7 @@ The preface emphasises that the goal is *not* "pure Kannada" (ಅಚ್ಚಗನ
 
 *ಅಂಕಿ-ಅಂಶ (anki-ansha)*
 
-[ಕನ್ನಡ →](./15-inglish-kannada-padanerake-book.md) | [Eke →](./15-inglish-kannada-padanerake-kn-eke.md#stats)
+[ಕನ್ನಡ →](./15-inglish-kannada-padanerake-book) | [Eke →](./15-inglish-kannada-padanerake-kn-eke#stats)
 
 The preface includes two notable statistical observations about the dictionary's entries:
 

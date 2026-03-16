@@ -6,7 +6,7 @@
 **mudraka:** bASa prakasana, Araga, tIrtahaLLi
 **paTagaLu:** ~277
 **nuDi:** kannaD
-**mUla:** [English](./25-kannada-vakyagala-olarachane-en.md)
+**mUla:** [English](./25-kannada-vakyagala-olarachane-en)
 
 ---
 
@@ -241,4 +241,4 @@ kaDEyaDDyAya kannaD kALa-vyavasthe (kriyAvAkyakke eraDu; iru vAkyakke mUru), all
 
 ---
 
-*ee dastavEju Di. En. sankara baT avarA "kannaD vAkyagaLa oLaracane" (2004, mUraneyadu mudraNa 2012) pustakadinaduva Eke baraha-rUpadi samyOjita saramsa. mUla kannaD baraha [25-kannada-vakyagala-olarachane-book.md](./25-kannada-vakyagala-olarachane-book.md) dalli mattu English saramsa [25-kannada-vakyagala-olarachane-en.md](./25-kannada-vakyagala-olarachane-en.md) dalli kANabahudu. padagaLa oLaracanege sambandhisida sahOdara pustaka [03-kannada-padagala-olarachane-kn-eke.md](../03-kannada-padagala-olarachane/03-kannada-padagala-olarachane-kn-eke.md) dalli kANabahudu.*
+*ee dastavEju Di. En. sankara baT avarA "kannaD vAkyagaLa oLaracane" (2004, mUraneyadu mudraNa 2012) pustakadinaduva Eke baraha-rUpadi samyOjita saramsa. mUla kannaD baraha [25-kannada-vakyagala-olarachane-book.md](./25-kannada-vakyagala-olarachane-book) dalli mattu English saramsa [25-kannada-vakyagala-olarachane-en.md](./25-kannada-vakyagala-olarachane-en) dalli kANabahudu. padagaLa oLaracanege sambandhisida sahOdara pustaka [03-kannada-padagala-olarachane-kn-eke.md](../03-kannada-padagala-olarachane/03-kannada-padagala-olarachane-kn-eke) dalli kANabahudu.*

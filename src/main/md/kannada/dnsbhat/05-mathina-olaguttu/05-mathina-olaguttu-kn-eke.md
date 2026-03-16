@@ -4,8 +4,8 @@
 **mULa:** YouTube udangaLu — 37 bagagaLu
 **odidaravaru:** malati baT
 
-> mUla paThya (kannaDa lipi): [05-mathina-olaguttu.md](./05-mathina-olaguttu.md)
-> ingliS viSlEShaNe: [05-mathina-olaguttu-en.md](./05-mathina-olaguttu-en.md)
+> mUla paThya (kannaDa lipi): [05-mathina-olaguttu.md](./05-mathina-olaguttu)
+> ingliS viSlEShaNe: [05-mathina-olaguttu-en.md](./05-mathina-olaguttu-en)
 
 ---
 
@@ -28,7 +28,7 @@
 
 *bagagaLu 1–5*
 
-[📼 bagagaLu 1–5 →](./05-mathina-olaguttu.md#part-1)
+[📼 bagagaLu 1–5 →](./05-mathina-olaguttu#part-1)
 
 **baga 2 (canna kannaDa):**
 
@@ -46,7 +46,7 @@ kannaDa bASeyalli sumAru mUvattu svanimegaLive. ee cikit svanima gaLinda leksham
 
 *bagagaLu 7–11*
 
-[📼 bagagaLu 7–11 →](./05-mathina-olaguttu.md#part-7)
+[📼 bagagaLu 7–11 →](./05-mathina-olaguttu#part-7)
 
 **baga 10 (muKya viShaya — kannaDa svalaksaNa):**
 
@@ -68,7 +68,7 @@ kannaDa bASeyalli badalAvaNegaLu niyamitavAgi naDeyuttave. pratyeka oLanuDiyalli
 
 *bagagaLu 13–15*
 
-[📼 bagagaLu 13–15 →](./05-mathina-olaguttu.md#part-13)
+[📼 bagagaLu 13–15 →](./05-mathina-olaguttu#part-13)
 
 **baga 13 (pada vargIkaraNa):**
 
@@ -90,7 +90,7 @@ padagaLa arta sandarbhavE nirNayisuttade. ekAki padavondu niScitoLLa arta hondir
 
 *bagagaLu 16–25*
 
-[📼 bagagaLu 16–25 →](./05-mathina-olaguttu.md#part-16)
+[📼 bagagaLu 16–25 →](./05-mathina-olaguttu#part-16)
 
 **baga 16 (muKya viShaya — oLanuDi hOlike):**
 
@@ -114,7 +114,7 @@ oLanuDigaLalli kAla rUpagaLu bhinnA bhinnA irutte. karAvaLi oLanuDi rUpagaLu bar
 
 *bagagaLu 20–21*
 
-[📼 bagagaLu 20–21 →](./05-mathina-olaguttu.md#part-20)
+[📼 bagagaLu 20–21 →](./05-mathina-olaguttu#part-20)
 
 **baga 20 (muKya viShaya — samskxta mUla tarku):**
 
@@ -134,7 +134,7 @@ kannaDa draviDa bASeyA SAKe. isaragu samskxta kaDe AbimAna iDikonDiruvudu sAmskr
 
 *bagagaLu 26–28*
 
-[📼 bagagaLu 26–28 →](./05-mathina-olaguttu.md#part-26)
+[📼 bagagaLu 26–28 →](./05-mathina-olaguttu#part-26)
 
 **baga 26 (muKya viShaya — bAyina raNe):**
 
@@ -164,7 +164,7 @@ eraDu oLaginavarU nADigaLannu kaLitukondavara makkaLu — eka bAShEya makkaLige 
 
 *bagagaLu 31–33*
 
-[📼 bagagaLu 31–33 →](./05-mathina-olaguttu.md#part-31)
+[📼 bagagaLu 31–33 →](./05-mathina-olaguttu#part-31)
 
 **baga 31 (muKya viShaya — baraha vargagaLu):**
 
@@ -194,7 +194,7 @@ adarE samskxta Adalike padagaLannu samskxta lipiyalli baredare — mAtu-baraha n
 
 *bagagaLu 34–37*
 
-[📼 bagagaLu 34–37 →](./05-mathina-olaguttu.md#part-34)
+[📼 bagagaLu 34–37 →](./05-mathina-olaguttu#part-34)
 
 **baga 36 (samskxta Adalikegaulu):**
 

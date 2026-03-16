@@ -5,7 +5,7 @@
 **prakaTane:** 2007
 **mudraka:** bASa prakasana
 **nuDi:** kannaD (hosa baraha)
-**mUla:** [English](./17-kannada-nudi-nadedu-banda-dari-en.md)
+**mUla:** [English](./17-kannada-nudi-nadedu-banda-dari-en)
 
 ---
 
@@ -159,4 +159,4 @@ esakada vAkya (action sentence — kartu + karma + kriyA) mattu irikeya vAkya (s
 
 ---
 
-*ee dastavEju Di. En. sankara baT avarA "kannaD nuDi naDeDu banda dAri" (2007) pustakadinaduva Eke baraha-rUpadi samyOjita saramsa. English saramsa [17-kannada-nudi-nadedu-banda-dari-en.md](./17-kannada-nudi-nadedu-banda-dari-en.md) dalli kANabahudu.*
+*ee dastavEju Di. En. sankara baT avarA "kannaD nuDi naDeDu banda dAri" (2007) pustakadinaduva Eke baraha-rUpadi samyOjita saramsa. English saramsa [17-kannada-nudi-nadedu-banda-dari-en.md](./17-kannada-nudi-nadedu-banda-dari-en) dalli kANabahudu.*

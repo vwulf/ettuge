@@ -44,7 +44,7 @@ The book is also a sustained demonstration of DNS Bhat's native Kannada grammati
 *(ಮುನ್ನೋಟ)*
 
 
-[ಕನ್ನಡ →](./17-kannada-nudi-nadedu-banda-dari-book.md) | [Eke →](./17-kannada-nudi-nadedu-banda-dari-kn-eke.md#munnOTa)
+[ಕನ್ನಡ →](./17-kannada-nudi-nadedu-banda-dari-book) | [Eke →](./17-kannada-nudi-nadedu-banda-dari-kn-eke#munnOTa)
 
 ### 1.1 The Dravidian Family and South Dravidian
 
@@ -65,7 +65,7 @@ The chapter concludes by stating the book's method: reconstruction of Proto-Drav
 *(ಬೇರಿನ ಸ್ವರಗಳು)*
 
 
-[ಕನ್ನಡ →](./17-kannada-nudi-nadedu-banda-dari-book.md) | [Eke →](./17-kannada-nudi-nadedu-banda-dari-kn-eke.md#bErina-svarugaLu)
+[ಕನ್ನಡ →](./17-kannada-nudi-nadedu-banda-dari-book) | [Eke →](./17-kannada-nudi-nadedu-banda-dari-kn-eke#bErina-svarugaLu)
 
 ### 2.1 The Proto-Dravidian Vowel System
 
@@ -90,7 +90,7 @@ The chapter also discusses the development of the low central vowel *a: Proto-Dr
 *(ಒಟ್ಟಿನ ಸ್ವರಗಳು)*
 
 
-[ಕನ್ನಡ →](./17-kannada-nudi-nadedu-banda-dari-book.md) | [Eke →](./17-kannada-nudi-nadedu-banda-dari-kn-eke.md#oTTina-svarugaLu)
+[ಕನ್ನಡ →](./17-kannada-nudi-nadedu-banda-dari-book) | [Eke →](./17-kannada-nudi-nadedu-banda-dari-kn-eke#oTTina-svarugaLu)
 
 ### 3.1 The Proto-Dravidian Affix Vowel System
 
@@ -111,7 +111,7 @@ Additional changes include: the shortening of long affix vowels in certain envir
 *(ತಡೆಯುಲಿಗಳು)*
 
 
-[ಕನ್ನಡ →](./17-kannada-nudi-nadedu-banda-dari-book.md) | [Eke →](./17-kannada-nudi-nadedu-banda-dari-kn-eke.md#taDeyuligaLu)
+[ಕನ್ನಡ →](./17-kannada-nudi-nadedu-banda-dari-book) | [Eke →](./17-kannada-nudi-nadedu-banda-dari-kn-eke#taDeyuligaLu)
 
 ### 4.1 The Proto-Dravidian Stop System
 
@@ -136,7 +136,7 @@ The chapter concludes (4.5 ತಿರುಳು) by summarising how the phonemic v
 *(ಇತರ ವ್ಯಂಜನಗಳು)*
 
 
-[ಕನ್ನಡ →](./17-kannada-nudi-nadedu-banda-dari-book.md) | [Eke →](./17-kannada-nudi-nadedu-banda-dari-kn-eke.md#itara-vyaMjanagaLu)
+[ಕನ್ನಡ →](./17-kannada-nudi-nadedu-banda-dari-book) | [Eke →](./17-kannada-nudi-nadedu-banda-dari-kn-eke#itara-vyaMjanagaLu)
 
 ### 5.1 The Nasal Consonants
 
@@ -157,7 +157,7 @@ Proto-Dravidian had two glides — y (palatal) and v (labial). These were genera
 *(ಪದಗಳ ಒಳರಚನೆ)*
 
 
-[ಕನ್ನಡ →](./17-kannada-nudi-nadedu-banda-dari-book.md) | [Eke →](./17-kannada-nudi-nadedu-banda-dari-kn-eke.md#padagaLa-oLaracane)
+[ಕನ್ನಡ →](./17-kannada-nudi-nadedu-banda-dari-book) | [Eke →](./17-kannada-nudi-nadedu-banda-dari-kn-eke#padagaLa-oLaracane)
 
 ### 6.1 Three Root Types
 
@@ -178,7 +178,7 @@ Proto-Dravidian had a productive system of compounding — joining two words to 
 *(ಕ್ರಿಯಾಪದಗಳ ಒಳರಚನೆ)*
 
 
-[ಕನ್ನಡ →](./17-kannada-nudi-nadedu-banda-dari-book.md) | [Eke →](./17-kannada-nudi-nadedu-banda-dari-kn-eke.md#kriyA-padagaLa-oLaracane)
+[ಕನ್ನಡ →](./17-kannada-nudi-nadedu-banda-dari-book) | [Eke →](./17-kannada-nudi-nadedu-banda-dari-kn-eke#kriyA-padagaLa-oLaracane)
 
 ### 7.1 The Fundamental Verb Distinction: Aguvike and Maduvike
 
@@ -199,7 +199,7 @@ Comparing Old Kannada inscriptions with modern Kannada reveals systematic change
 *(ಕ್ರಿಯಾರೂಪಗಳು)*
 
 
-[ಕನ್ನಡ →](./17-kannada-nudi-nadedu-banda-dari-book.md) | [Eke →](./17-kannada-nudi-nadedu-banda-dari-kn-eke.md#kriyArUpagaLu)
+[ಕನ್ನಡ →](./17-kannada-nudi-nadedu-banda-dari-book) | [Eke →](./17-kannada-nudi-nadedu-banda-dari-kn-eke#kriyArUpagaLu)
 
 ### 8.1 The Structure of Verb Forms
 
@@ -220,7 +220,7 @@ Proto-Dravidian also had a negative suffix *-A (a long negative vowel) that nega
 *(ನಾಮಪದಗಳು)*
 
 
-[ಕನ್ನಡ →](./17-kannada-nudi-nadedu-banda-dari-book.md) | [Eke →](./17-kannada-nudi-nadedu-banda-dari-kn-eke.md#nAmapadagaLu)
+[ಕನ್ನಡ →](./17-kannada-nudi-nadedu-banda-dari-book) | [Eke →](./17-kannada-nudi-nadedu-banda-dari-kn-eke#nAmapadagaLu)
 
 ### 9.1 Noun Formation
 
@@ -241,7 +241,7 @@ Proto-Dravidian had a system of case suffixes: genitive, dative, accusative, loc
 *(ಆಡುಗ ಮತ್ತು ತೋರುಗ ಪದಗಳು)*
 
 
-[ಕನ್ನಡ →](./17-kannada-nudi-nadedu-banda-dari-book.md) | [Eke →](./17-kannada-nudi-nadedu-banda-dari-kn-eke.md#ADuga-mattu-tOruga-padagaLu)
+[ಕನ್ನಡ →](./17-kannada-nudi-nadedu-banda-dari-book) | [Eke →](./17-kannada-nudi-nadedu-banda-dari-kn-eke#ADuga-mattu-tOruga-padagaLu)
 
 ### 10.1 Personal Pronouns
 
@@ -258,7 +258,7 @@ Proto-Dravidian had a three-way demonstrative system: proximate (near the speake
 *(ಗುಣಪದಗಳು)*
 
 
-[ಕನ್ನಡ →](./17-kannada-nudi-nadedu-banda-dari-book.md) | [Eke →](./17-kannada-nudi-nadedu-banda-dari-kn-eke.md#guNapadagaLu)
+[ಕನ್ನಡ →](./17-kannada-nudi-nadedu-banda-dari-book) | [Eke →](./17-kannada-nudi-nadedu-banda-dari-kn-eke#guNapadagaLu)
 
 ### 11.1 Two Types of Qualifier
 
@@ -275,7 +275,7 @@ Qualifiers in Kannada can be derived from all three root types: from qualifier-r
 *(ವಾಕ್ಯಗಳ ಒಳರಚನೆ)*
 
 
-[ಕನ್ನಡ →](./17-kannada-nudi-nadedu-banda-dari-book.md) | [Eke →](./17-kannada-nudi-nadedu-banda-dari-kn-eke.md#sthiti-vAkyagaLa-oLaracane)
+[ಕನ್ನಡ →](./17-kannada-nudi-nadedu-banda-dari-book) | [Eke →](./17-kannada-nudi-nadedu-banda-dari-kn-eke#sthiti-vAkyagaLa-oLaracane)
 
 ### 12.1 Action Sentences and State Sentences
 
@@ -332,9 +332,9 @@ The chapter and book conclude (12.5 ತಿರುಳು) with an acknowledgement 
 
 ---
 
-*This document is an English-language overview of D. N. Shankara Bhat's* ಕನ್ನಡ ನುಡಿ ನಡೆದು ಬಂದ ದಾರಿ *(2007), based on the original Kannada text in* [17-kannada-nudi-nadedu-banda-dari-book.md](./17-kannada-nudi-nadedu-banda-dari-book.md).
+*This document is an English-language overview of D. N. Shankara Bhat's* ಕನ್ನಡ ನುಡಿ ನಡೆದು ಬಂದ ದಾರಿ *(2007), based on the original Kannada text in* [17-kannada-nudi-nadedu-banda-dari-book.md](./17-kannada-nudi-nadedu-banda-dari-book).
 
 *See also:*
-- *DNS Bhat word formation methodology:* [DNS_BHAT_WORD_FORMATION_PROMPT.md](../DNS_BHAT_WORD_FORMATION_PROMPT.md)
-- *DNS Bhat books analysis:* [dns-bhat-analysis.md](../dns-bhat-analysis.md)
-- *Book 03 (morphology):* [03-kannada-padagala-olarachane-en.md](../03-kannada-padagala-olarachane/03-kannada-padagala-olarachane-en.md)
+- *DNS Bhat word formation methodology:* [DNS_BHAT_WORD_FORMATION_PROMPT.md](../DNS_BHAT_WORD_FORMATION_PROMPT)
+- *DNS Bhat books analysis:* [dns-bhat-analysis.md](../dns-bhat-analysis)
+- *Book 03 (morphology):* [03-kannada-padagala-olarachane-en.md](../03-kannada-padagala-olarachane/03-kannada-padagala-olarachane-en)

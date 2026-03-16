@@ -4,8 +4,8 @@
 **mULa:** YouTube udangaLu — 44 bagagaLu
 **odidaravaru:** malati baT
 
-> mUla paThya (kannaDa lipi): [04-mathu-matthu-barahada-naduvina-gondala.md](./04-mathu-matthu-barahada-naduvina-gondala.md)
-> ingliS viSlEShaNe: [04-mathu-matthu-barahada-naduvina-gondala-en.md](./04-mathu-matthu-barahada-naduvina-gondala-en.md)
+> mUla paThya (kannaDa lipi): [04-mathu-matthu-barahada-naduvina-gondala.md](./04-mathu-matthu-barahada-naduvina-gondala)
+> ingliS viSlEShaNe: [04-mathu-matthu-barahada-naduvina-gondala-en.md](./04-mathu-matthu-barahada-naduvina-gondala-en)
 
 ---
 
@@ -27,7 +27,7 @@
 
 *bagagaLu 1–5*
 
-[📼 bagagaLu 1–5 →](./04-mathu-matthu-barahada-naduvina-gondala.md#part-1)
+[📼 bagagaLu 1–5 →](./04-mathu-matthu-barahada-naduvina-gondala#part-1)
 
 **DNS baT avara hEraDa vAkya (pustakami vebsaiT varNane):**
 
@@ -53,7 +53,7 @@ samskxta halavAru varSagaLinda svalpa badalAvaNe Agilla. adu jIvanta bASeyalla; 
 
 *bagagaLu 6–9*
 
-[📼 bagagaLu 6–9 →](./04-mathu-matthu-barahada-naduvina-gondala.md#part-6)
+[📼 bagagaLu 6–9 →](./04-mathu-matthu-barahada-naduvina-gondala#part-6)
 
 baraha vyavasthe eraDu mukya bAgava: pada lipi (pratipadakke ondu cihne — cIna) mattu svana lipi (svanagaLannu pratiniDuvudu — kannaDa, ingliS).
 
@@ -71,7 +71,7 @@ mAtu modalu; baraha annantara. kannaDa mAtannu bareyuva kElasa sumAru eraDu sAvi
 
 *bagagaLu 13–14*
 
-[📼 bagagaLu 13–14 →](./04-mathu-matthu-barahada-naduvina-gondala.md#part-13)
+[📼 bagagaLu 13–14 →](./04-mathu-matthu-barahada-naduvina-gondala#part-13)
 
 **baga 13 (makkaLu mAtu hEge kaLiyuttAre):**
 
@@ -93,7 +93,7 @@ barehadalli mAtinante sandarbha, hAvabAva, svanakELige illa. barahagAru I antara
 
 *bagagaLu 17–24*
 
-[📼 bagagaLu 17–24 →](./04-mathu-matthu-barahada-naduvina-gondala.md#part-17)
+[📼 bagagaLu 17–24 →](./04-mathu-matthu-barahada-naduvina-gondala#part-17)
 
 **baga 17 (mudraNa yantra mattu baraha badalAvaNe):**
 
@@ -117,7 +117,7 @@ bAyitanada jangaLU barehadha jangaLU eraDU onde samAjadalli iruvAga — barehadh
 
 *bagagaLu 27–32*
 
-[📼 bagagaLu 27–32 →](./04-mathu-matthu-barahada-naduvina-gondala.md#part-27)
+[📼 bagagaLu 27–32 →](./04-mathu-matthu-barahada-naduvina-gondala#part-27)
 
 **baga 27 (canna kannaDa — drAviDa kuTumba):**
 
@@ -143,7 +143,7 @@ samskxta tatsama padagaLu nantara kannaDakke sEriduve; I padagaLu drAviDa uli vy
 
 *bagagaLu 34–38*
 
-[📼 bagagaLu 34–38 →](./04-mathu-matthu-barahada-naduvina-gondala.md#part-34)
+[📼 bagagaLu 34–38 →](./04-mathu-matthu-barahada-naduvina-gondala#part-34)
 
 **baga 38 (canna kannaDa — baraha-mAtu vyatyAsa mattu suDAraNe):**
 
@@ -163,7 +163,7 @@ kannaDada svantada padagaLu samasyEyinda bErE tappisikonDive — kannaDa padagaL
 
 *bagagaLu 39–44*
 
-[📼 bagagaLu 39–44 →](./04-mathu-matthu-barahada-naduvina-gondala.md#part-39)
+[📼 bagagaLu 39–44 →](./04-mathu-matthu-barahada-naduvina-gondala#part-39)
 
 **baga 43 (canna kannaDa — satta bASe mattu aLida bASe):**
 

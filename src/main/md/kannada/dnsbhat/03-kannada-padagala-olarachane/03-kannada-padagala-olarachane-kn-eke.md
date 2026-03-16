@@ -6,7 +6,7 @@
 **mudraka:** bASa prakasana
 **paTagaLu:** 239
 **nuDi:** kannaD
-**mUla:** [English](./03-kannada-padagala-olarachane-en.md)
+**mUla:** [English](./03-kannada-padagala-olarachane-en)
 
 ---
 
@@ -191,4 +191,4 @@ eraDu sahasrama varSagaLu kannaD vyAkaraNakAraru samskxta-vyAkaraNa sAdhana-gAra
 
 ---
 
-*ee dastavEju Di. En. sankara baT avarA "kannaD padagaLa oLaracane" (2014) pustakadinaduva Eke baraha-rUpadi samyOjita saramsa. mUla kannaD baraha [03-kannada-padagala-olarachane-kn.md](./03-kannada-padagala-olarachane-kn.md) dalli mattu English saramsa [03-kannada-padagala-olarachane-en.md](./03-kannada-padagala-olarachane-en.md) dalli kANabahudu.*
+*ee dastavEju Di. En. sankara baT avarA "kannaD padagaLa oLaracane" (2014) pustakadinaduva Eke baraha-rUpadi samyOjita saramsa. mUla kannaD baraha [03-kannada-padagala-olarachane-kn.md](./03-kannada-padagala-olarachane-kn) dalli mattu English saramsa [03-kannada-padagala-olarachane-en.md](./03-kannada-padagala-olarachane-en) dalli kANabahudu.*

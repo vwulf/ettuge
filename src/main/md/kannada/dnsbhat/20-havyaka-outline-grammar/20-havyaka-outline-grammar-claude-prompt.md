@@ -11,11 +11,11 @@
 
 | File | Contents |
 |------|----------|
-| [`20-havyaka-outline-grammar-djvu.md`](./20-havyaka-outline-grammar-djvu.md) | Full OCR text of the grammar (DjVu source, contains OCR errors) |
-| [`20-havyaka-outline-grammar-en.md`](./20-havyaka-outline-grammar-en.md) | English chapter summaries and structural descriptions |
-| [`20-havyaka-outline-grammar-website.md`](./20-havyaka-outline-grammar-website.md) | Website metadata |
-| [`20-havyaka-outline-grammar-claude-prompt.md`](./20-havyaka-outline-grammar-claude-prompt.md) | *This file* |
-| [`20-havyaka-outline-grammar.md`](./20-havyaka-outline-grammar.md) | Collection overview |
+| [`20-havyaka-outline-grammar-djvu.md`](./20-havyaka-outline-grammar-djvu) | Full OCR text of the grammar (DjVu source, contains OCR errors) |
+| [`20-havyaka-outline-grammar-en.md`](./20-havyaka-outline-grammar-en) | English chapter summaries and structural descriptions |
+| [`20-havyaka-outline-grammar-website.md`](./20-havyaka-outline-grammar-website) | Website metadata |
+| [`20-havyaka-outline-grammar-claude-prompt.md`](./20-havyaka-outline-grammar-claude-prompt) | *This file* |
+| [`20-havyaka-outline-grammar.md`](./20-havyaka-outline-grammar) | Collection overview |
 
 ---
 

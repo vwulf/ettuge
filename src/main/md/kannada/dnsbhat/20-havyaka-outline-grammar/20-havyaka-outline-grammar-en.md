@@ -8,7 +8,7 @@
 **Subject:** Havyaka Kannada dialect
 **Source:** DjVu scan (archive.org)
 
-> DjVu source: [`20-havyaka-outline-grammar-djvu.md`](./20-havyaka-outline-grammar-djvu.md)
+> DjVu source: [`20-havyaka-outline-grammar-djvu.md`](./20-havyaka-outline-grammar-djvu)
 
 ---
 
@@ -332,11 +332,11 @@ The grammar concludes with a classified vocabulary (glossary), providing Havyaka
 
 | File | Contents |
 |------|----------|
-| [`20-havyaka-outline-grammar-djvu.md`](./20-havyaka-outline-grammar-djvu.md) | DjVu OCR text (raw, with OCR errors) |
-| [`20-havyaka-outline-grammar-en.md`](./20-havyaka-outline-grammar-en.md) | *This file* — English chapter summaries |
-| [`20-havyaka-outline-grammar-website.md`](./20-havyaka-outline-grammar-website.md) | Website metadata |
-| [`20-havyaka-outline-grammar-claude-prompt.md`](./20-havyaka-outline-grammar-claude-prompt.md) | AI prompt |
-| [`20-havyaka-outline-grammar.md`](./20-havyaka-outline-grammar.md) | Collection overview |
+| [`20-havyaka-outline-grammar-djvu.md`](./20-havyaka-outline-grammar-djvu) | DjVu OCR text (raw, with OCR errors) |
+| [`20-havyaka-outline-grammar-en.md`](./20-havyaka-outline-grammar-en) | *This file* — English chapter summaries |
+| [`20-havyaka-outline-grammar-website.md`](./20-havyaka-outline-grammar-website) | Website metadata |
+| [`20-havyaka-outline-grammar-claude-prompt.md`](./20-havyaka-outline-grammar-claude-prompt) | AI prompt |
+| [`20-havyaka-outline-grammar.md`](./20-havyaka-outline-grammar) | Collection overview |
 | [Internet Archive](https://archive.org/details/unset0000unse_a3v7) | Original DjVu source |
 
 ---
@@ -353,4 +353,4 @@ The grammar concludes with a classified vocabulary (glossary), providing Havyaka
 
 ---
 
-*This document is an English-language summary of D. N. Shankara Bhat's* An Outline Grammar of Havyaka *(1971), based on the DjVu OCR source. The full OCR text (with errors) is in [`20-havyaka-outline-grammar-djvu.md`](./20-havyaka-outline-grammar-djvu.md).*
+*This document is an English-language summary of D. N. Shankara Bhat's* An Outline Grammar of Havyaka *(1971), based on the DjVu OCR source. The full OCR text (with errors) is in [`20-havyaka-outline-grammar-djvu.md`](./20-havyaka-outline-grammar-djvu).*

@@ -8,11 +8,11 @@
 **Files in this folder:**
 | File | Contents |
 |------|----------|
-| [`02-...-blog.md`](./02-kannadadalle-hosapadagalannu-kattuva-bage-blog.md) | **Full blog text** — 15 posts, parts 4–18 (original Kannada, 6,469 lines) |
-| [`02-...-en.md`](./02-kannadadalle-hosapadagalannu-kattuva-bage-en.md) | English summary with chapter pointers |
-| [`02-...-kn.md`](./02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md) | Structured Kannada version |
-| [`02-...-kn-eke.md`](./02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke.md) | Eke romanisation |
-| [`02-...-claude-prompt.md`](./02-kannadadalle-hosapadagalannu-kattuva-bage-claude-prompt.md) | *This file* — AI system prompt / morphology reference |
+| [`02-...-blog.md`](./02-kannadadalle-hosapadagalannu-kattuva-bage-blog) | **Full blog text** — 15 posts, parts 4–18 (original Kannada, 6,469 lines) |
+| [`02-...-en.md`](./02-kannadadalle-hosapadagalannu-kattuva-bage-en) | English summary with chapter pointers |
+| [`02-...-kn.md`](./02-kannadadalle-hosapadagalannu-kattuva-bage-kn) | Structured Kannada version |
+| [`02-...-kn-eke.md`](./02-kannadadalle-hosapadagalannu-kattuva-bage-kn-eke) | Eke romanisation |
+| [`02-...-claude-prompt.md`](./02-kannadadalle-hosapadagalannu-kattuva-bage-claude-prompt) | *This file* — AI system prompt / morphology reference |
 
 ---
 

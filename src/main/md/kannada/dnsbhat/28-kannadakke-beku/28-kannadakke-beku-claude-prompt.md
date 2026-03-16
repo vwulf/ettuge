@@ -152,6 +152,6 @@ The book is organised as a guided chapter-by-chapter tour through the major gram
 ---
 
 **Related books in this series:**
-- [Book 03 — ಕನ್ನಡ ಪದಗಳ ಒಳರಚನೆ (Internal Structure of Kannada Words)](../03-kannada-padagala-olarachane/03-kannada-padagala-olarachane-claude-prompt.md)
-- [Book 25 — ಕನ್ನಡ ವಾಕ್ಯಗಳ ಒಳರಚನೆ (Internal Structure of Kannada Sentences)](../25-kannada-vakyagala-olarachane/25-kannada-vakyagala-olarachane-claude-prompt.md)
-- [Book 29 — ಕನ್ನಡ ವ್ಯಾಕರಣ ಯಾಕೆ ಬೇಕು? (Why Do We Need Kannada Grammar?)](../29-kannada-vyakarana-yaake-beku/29-kannada-vyakarana-yaake-beku-claude-prompt.md)
+- [Book 03 — ಕನ್ನಡ ಪದಗಳ ಒಳರಚನೆ (Internal Structure of Kannada Words)](../03-kannada-padagala-olarachane/03-kannada-padagala-olarachane-claude-prompt)
+- [Book 25 — ಕನ್ನಡ ವಾಕ್ಯಗಳ ಒಳರಚನೆ (Internal Structure of Kannada Sentences)](../25-kannada-vakyagala-olarachane/25-kannada-vakyagala-olarachane-claude-prompt)
+- [Book 29 — ಕನ್ನಡ ವ್ಯಾಕರಣ ಯಾಕೆ ಬೇಕು? (Why Do We Need Kannada Grammar?)](../29-kannada-vyakarana-yaake-beku/29-kannada-vyakarana-yaake-beku-claude-prompt)

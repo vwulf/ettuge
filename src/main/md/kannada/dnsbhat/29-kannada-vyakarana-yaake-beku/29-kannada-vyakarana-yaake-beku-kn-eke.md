@@ -6,7 +6,7 @@
 **mudraka:** bASa prakasana, heggoDu, sAgara
 **nuDi:** kannaD (hosa baraha — ba→b, da→d tara saraLa baraha)
 **TippaNi:** ee pustakadi aDDyAyagaLannu "pasuge" endu keredukoLLuttAre, "aDDyAya" alla
-**mUla:** [English](./29-kannada-vyakarana-yaake-beku-en.md)
+**mUla:** [English](./29-kannada-vyakarana-yaake-beku-en)
 
 ---
 
@@ -151,4 +151,4 @@ varNanAtmaka (descriptive), nirdEshAtmaka (prescriptive), SaikShaNika (pedagogic
 
 ---
 
-*ee dastavEju Di. En. sankara baT avara "kannaD vyAkaraNa yAke bEku?" (2009) pustakadinAdu Eke baraha-rUpadi samyOjita saramsa. mUla kannaD baraha [29-kannada-vyakarana-yaake-beku-book.md](./29-kannada-vyakarana-yaake-beku-book.md) dalli mattu English saramsa [29-kannada-vyakarana-yaake-beku-en.md](./29-kannada-vyakarana-yaake-beku-en.md) dalli kANabahudu.*
+*ee dastavEju Di. En. sankara baT avara "kannaD vyAkaraNa yAke bEku?" (2009) pustakadinAdu Eke baraha-rUpadi samyOjita saramsa. mUla kannaD baraha [29-kannada-vyakarana-yaake-beku-book.md](./29-kannada-vyakarana-yaake-beku-book) dalli mattu English saramsa [29-kannada-vyakarana-yaake-beku-en.md](./29-kannada-vyakarana-yaake-beku-en) dalli kANabahudu.*

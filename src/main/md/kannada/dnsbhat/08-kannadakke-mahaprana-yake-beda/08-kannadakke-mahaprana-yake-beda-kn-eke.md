@@ -4,8 +4,8 @@
 **saraNi:** arimeya cuTuku kaDatagaLu – 3
 **prakaTaNe:** 2017, navakarnATaka prakASana, bengaLUru
 
-> mUla pustakada sampUrNa paThya: [`08-kannadakke-mahaprana-yake-beda-book.md`](./08-kannadakke-mahaprana-yake-beda-book.md)
-> ingliS viSlEShaNe: [`08-kannadakke-mahaprana-yake-beda-en.md`](./08-kannadakke-mahaprana-yake-beda-en.md)
+> mUla pustakada sampUrNa paThya: [`08-kannadakke-mahaprana-yake-beda-book.md`](./08-kannadakke-mahaprana-yake-beda-book)
+> ingliS viSlEShaNe: [`08-kannadakke-mahaprana-yake-beda-en.md`](./08-kannadakke-mahaprana-yake-beda-en)
 
 ---
 

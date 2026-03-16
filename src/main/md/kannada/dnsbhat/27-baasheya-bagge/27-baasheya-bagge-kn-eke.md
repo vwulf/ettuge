@@ -6,7 +6,7 @@
 **mudraka:** bASa prakasana, heggoDu, sAgara
 **paTagaLu:** 208
 **nuDi:** kannaD
-**mUla:** [English](./27-baasheya-bagge-en.md)
+**mUla:** [English](./27-baasheya-bagge-en)
 
 ---
 
@@ -255,4 +255,4 @@ pustaka modalina viSayakke hOguttade: sAmAnya janaru tiLidukOnDiguvudiginta bAsh
 
 ---
 
-*ee dastavEju Di. En. sankara baT avara "bAsheya bagge nIvenu balliri?" (2010) pustakadinaduva Eke baraha-rUpadi samyOjita saramsa. mUla kannaD baraha [27-baasheya-bagge-book.md](./27-baasheya-bagge-book.md) dalli mattu English saramsa [27-baasheya-bagge-en.md](./27-baasheya-bagge-en.md) dalli kANabahudu.*
+*ee dastavEju Di. En. sankara baT avara "bAsheya bagge nIvenu balliri?" (2010) pustakadinaduva Eke baraha-rUpadi samyOjita saramsa. mUla kannaD baraha [27-baasheya-bagge-book.md](./27-baasheya-bagge-book) dalli mattu English saramsa [27-baasheya-bagge-en.md](./27-baasheya-bagge-en) dalli kANabahudu.*

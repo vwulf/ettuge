@@ -4,8 +4,8 @@
 **ಸರಣಿ:** ಅರಿಮೆಯ ಚುಟುಕು ಕಡತಗಳು – ೩
 **ಪ್ರಕಟಣೆ:** ೨೦೧೭, ನವಕರ್ನಾಟಕ ಪ್ರಕಾಶನ, ಬೆಂಗಳೂರು
 
-> ಮೂಲ ಪುಸ್ತಕದ ಸಂಪೂರ್ಣ ಪಠ್ಯ: [`08-kannadakke-mahaprana-yake-beda-book.md`](./08-kannadakke-mahaprana-yake-beda-book.md)
-> ಇಂಗ್ಲಿಶ್ ವಿಶ್ಲೇಷಣೆ: [`08-kannadakke-mahaprana-yake-beda-en.md`](./08-kannadakke-mahaprana-yake-beda-en.md)
+> ಮೂಲ ಪುಸ್ತಕದ ಸಂಪೂರ್ಣ ಪಠ್ಯ: [`08-kannadakke-mahaprana-yake-beda-book.md`](./08-kannadakke-mahaprana-yake-beda-book)
+> ಇಂಗ್ಲಿಶ್ ವಿಶ್ಲೇಷಣೆ: [`08-kannadakke-mahaprana-yake-beda-en.md`](./08-kannadakke-mahaprana-yake-beda-en)
 
 ---
 

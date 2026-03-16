@@ -31,7 +31,7 @@ The article is a Kannada-language blog post published in June 2024 on dnshankara
 
 ## ಸಂಬಂಧಿತ
 
-- [22 — Sound Change (English textbook)](../22-sound-change/22-sound-change.md) — ಇದೇ ವಿಶಯದ ಇಂಗ್ಲಿಶ್ ಗ್ರಂಥ (2001)
+- [22 — Sound Change (English textbook)](../22-sound-change/22-sound-change) — ಇದೇ ವಿಶಯದ ಇಂಗ್ಲಿಶ್ ಗ್ರಂಥ (2001)
 - [08 — ಕನ್ನಡಕ್ಕೆ ಮಹಾಪ್ರಾಣ ಯಾಕೆ ಬೇಡ?](../08-kannadakke-mahaprana-yake-beda/) — ಉಲಿ ಮಾರ್ಪಾಡಿನ ಪ್ರಾಯೋಗಿಕ ಉದಾಹರಣೆ
 
 ---

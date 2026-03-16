@@ -6,7 +6,7 @@
 **mudraka:** Di. En. sankara baT (kartaru-prakaTita); naVakarNATaka prakASana (vitaraNa), bengaLUru
 **paTagaLu:** ~245 (ELaneyadu mudraNa)
 **nuDi:** kannaD (mAnaka baraha — hosa baraha alla)
-**mUla:** [English](./28-kannadakke-beku-en.md)
+**mUla:** [English](./28-kannadakke-beku-en)
 
 ---
 
@@ -156,4 +156,4 @@ kaDEya aDDyAya pustakadinAduvuva mUla tarkavannu sErisuttade mattu hOraTadaDi bO
 
 ---
 
-*ee dastavEju Di. En. sankara baT avara "kannaDigge bEku kannaDigdE vyAkaraNa" (2000/2013) pustakadinaduva Eke baraha-rUpadi samyOjita saramsa. kannaDigaLa mAnaka baraha — hosa baraha alla. mUla English saramsa [28-kannadakke-beku-en.md](./28-kannadakke-beku-en.md) dalli mattu anuvArdhita kArya-pustaka [29-kannada-vyakarana-yaake-beku](../29-kannada-vyakarana-yaake-beku/29-kannada-vyakarana-yaake-beku-kn-eke.md) dalli kANabahudu.*
+*ee dastavEju Di. En. sankara baT avara "kannaDigge bEku kannaDigdE vyAkaraNa" (2000/2013) pustakadinaduva Eke baraha-rUpadi samyOjita saramsa. kannaDigaLa mAnaka baraha — hosa baraha alla. mUla English saramsa [28-kannadakke-beku-en.md](./28-kannadakke-beku-en) dalli mattu anuvArdhita kArya-pustaka [29-kannada-vyakarana-yaake-beku](../29-kannada-vyakarana-yaake-beku/29-kannada-vyakarana-yaake-beku-kn-eke) dalli kANabahudu.*

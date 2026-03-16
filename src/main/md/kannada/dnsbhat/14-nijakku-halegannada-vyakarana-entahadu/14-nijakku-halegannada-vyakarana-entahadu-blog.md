@@ -2,7 +2,7 @@
 
 > **ಲೇಖಕರು:** ಡಾ. ಡಿ. ಎನ್. ಶಂಕರ ಬಟ್  
 > **ಪ್ರಕಟಣೆ:** dnshankarabhat.net (May–June 2017)  
-> **ಸಂಬಂಧಿತ ಗ್ರಂಥ:** [14 — ನಿಜಕ್ಕು ಹಳೆಗನ್ನಡ ವ್ಯಾಕರಣ ಎಂತಹದು?](14-nijakku-halegannada-vyakarana-entahadu.md)  
+> **ಸಂಬಂಧಿತ ಗ್ರಂಥ:** [14 — ನಿಜಕ್ಕು ಹಳೆಗನ್ನಡ ವ್ಯಾಕರಣ ಎಂತಹದು?](14-nijakku-halegannada-vyakarana-entahadu)  
 > **ಸರಣಿ:** 7 ಭಾಗಗಳು
 
 ---
