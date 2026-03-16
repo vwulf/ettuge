@@ -1,7 +1,7 @@
 # havyaka kannaDa
 
 **lEkhakaru:** Di. en. Sankara baT
-**mULa:** YouTube udangaLu — 43 bagagaLu (P1–P6 mattu 1–37)
+**mULa:** YouTube udangaLu — 43 bAgagaLu (P1–P6 mattu 1–37)
 **odidaravaru:** malati baT
 
 > mUla paThya (kannaDa lipi): [09-havyaka-kannada.md](./09-havyaka-kannada)
@@ -24,17 +24,17 @@
 
 ## viShaya 0 — paricaya mattu munnuDi
 
-*bagagaLu P1–P6*
+*bAgagaLu P1–P6*
 
-[📼 bagagaLu P1–P6 →](./09-havyaka-kannada#part-P1)
+[📼 bAgagaLu P1–P6 →](./09-havyaka-kannada#part-P1)
 
-**baga P6 (canna kannaDa):**
+**bAga P6 (canna kannaDa):**
 
 halo halo banDugaLE, indu nAvu kannaDa vyAkaraNada bagge mAtanADONa. kannaDa bASeya vyAkaraNa bahaLa mukyavAdudu. nAvu kannaDa bASeyannu sariyAgi kaliyabEku. indu namma carceyalli padagaLa vibAga, hesaru padagaLu, kriyA padagaLu ivugaLa bagge mAtanADONa. kannaDa vyAkaraNadalli vivida anSagaLive.
 
 nAvu avanu sariyAgi arta maDikOLabEku. karnATakada kannaDa bASe bahaLa SrImantu bASe. idoralli aneka viSeStategalive.
 
-> *(bagagaLu P1–P5 dorakalavillDa / kannaDavagalilla — YouTube auto-captions kannaDavallalike)*
+> *(bAgagaLu P1–P5 dorakalavillDa / kannaDavagalilla — YouTube auto-captions kannaDavallalike)*
 
 ---
 
@@ -42,15 +42,15 @@ nAvu avanu sariyAgi arta maDikOLabEku. karnATakada kannaDa bASe bahaLa SrImantu 
 
 ## viShaya 1 — havyaka samudAya mattu oLanuDi bUgOLa
 
-*bagagaLu 1–5*
+*bAgagaLu 1–5*
 
-[📼 bagagaLu 1–5 →](./09-havyaka-kannada#part-1)
+[📼 bAgagaLu 1–5 →](./09-havyaka-kannada#part-1)
 
 *(mUla paThya dorakalavillDa — viShaya anumAnisida)*
 
 dAkSiNa kannaDa jilleyaa puttUri nalli havyaka kannaDa mAtanADuvavara samudAya mattu bUgOLada paricaya. bareha kannaDa (baraha kannaDa), haLeya kannaDa (haLegannaDa), hAlakI gauDa kannaDa, mattu gauDa kannaDa ivugaLa jOte havyaka kannaDada hOlike.
 
-> *(bagagaLu 1–5 dorakalavillDa — auto-caption doSa)*
+> *(bAgagaLu 1–5 dorakalavillDa — auto-caption doSa)*
 
 ---
 
@@ -58,11 +58,11 @@ dAkSiNa kannaDa jilleyaa puttUri nalli havyaka kannaDa mAtanADuvavara samudAya m
 
 ## viShaya 2 — caritra mattu tuLanAtmaka hinnele
 
-*bagagaLu 6–15*
+*bAgagaLu 6–15*
 
-[📼 bagagaLu 6–15 →](./09-havyaka-kannada#part-6)
+[📼 bAgagaLu 6–15 →](./09-havyaka-kannada#part-6)
 
-**baga 11 (canna kannaDa — muKya viShaya):**
+**bAga 11 (canna kannaDa — muKya viShaya):**
 
 haLeya kannaDa mattu bareha kannaDadalli padagaLa rUpagaLanu nODidare, bareha kannaDadalli haLeya kannaDakkinta tumbA heccina badalAvaNe bandide.
 
@@ -81,7 +81,7 @@ bareha kannaDa mattu haLeya kannaDa rUpagaLu (haLeya kannaDada kriyA rUpagaLu): 
 - avaDu manege hOkan *(havyaka kannaDa)*
 - avanu manege hOdanu *(bareha kannaDa)*
 
-> *(bagagaLu 6–10, 12–14 dorakalavillDa; baga 15 nODalu agalavillDa)*
+> *(bAgagaLu 6–10, 12–14 dorakalavillDa; bAga 15 nODalu agalavillDa)*
 
 ---
 
@@ -89,11 +89,11 @@ bareha kannaDa mattu haLeya kannaDa rUpagaLu (haLeya kannaDada kriyA rUpagaLu): 
 
 ## viShaya 3 — karAvaLi oLanuDigaLa uli hOlike
 
-*bagagaLu 16–26*
+*bAgagaLu 16–26*
 
-[📼 bagagaLu 16–26 →](./09-havyaka-kannada#part-16)
+[📼 bAgagaLu 16–26 →](./09-havyaka-kannada#part-16)
 
-**baga 27 (muKya uLLiTa — uli hOlike):**
+**bAga 27 (muKya uLLiTa — uli hOlike):**
 
 karuve kannaDa mattu vanne kannaDa emba eraDu mukya gumpugaLive. karuve kannaDa vaLayadalli hAlakI gauDa, koDava modalavaru baruttAre.
 
@@ -114,7 +114,7 @@ hAlakI kannaDadalli sa kAra, ca kAra vAgatade. gauDa kannaDadalli I mArupADu aga
 
 ha(vyaka) kannaDada haLeya lEkhana (SAsan) AdaradamELe, A dali mArupADu tOruttade. hAlakI mattu gauDa kannaDadalli bEre rIti mArupADu.
 
-> *(bagagaLu 19, 22, 25 nODalu agalavillDa; bagagaLu 16–26 heccAgi dorakalavillDa)*
+> *(bAgagaLu 19, 22, 25 nODalu agalavillDa; bAgagaLu 16–26 heccAgi dorakalavillDa)*
 
 ---
 
@@ -122,11 +122,11 @@ ha(vyaka) kannaDada haLeya lEkhana (SAsan) AdaradamELe, A dali mArupADu tOruttad
 
 ## viShaya 4 — kriyApada rUpagaLu
 
-*bagagaLu 27–32*
+*bAgagaLu 27–32*
 
-[📼 bagagaLu 27–32 →](./09-havyaka-kannada#part-27)
+[📼 bAgagaLu 27–32 →](./09-havyaka-kannada#part-27)
 
-**baga 29 (muKya pada rUpagaLu):**
+**bAga 29 (muKya pada rUpagaLu):**
 
 gauDa kannaDa, bareha kannaDa, hAlakI kannaDa kriyApada hOlike (mUla paThya gannaATaka — muKya padagaLu mAtra):
 
@@ -145,7 +145,7 @@ gauDa kannaDa, bareha kannaDa, hAlakI kannaDa kriyApada hOlike (mUla paThya gann
 
 DNS baT I rUpagaLannu haLeya kannaDada T, D pratyaya rUpagaLige joDisuttAre.
 
-> *(baga 28: kartana, linga — mUla paThya gannaATaka; bagagaLu 30, 32 dorakalavillDa; baga 31 kannaDavagalilla)*
+> *(bAga 28: kartana, linga — mUla paThya gannaATaka; bAgagaLu 30, 32 dorakalavillDa; bAga 31 kannaDavagalilla)*
 
 ---
 
@@ -153,11 +153,11 @@ DNS baT I rUpagaLannu haLeya kannaDada T, D pratyaya rUpagaLige joDisuttAre.
 
 ## viShaya 5 — pada vargIkaraNa mattu sollarime
 
-*bagagaLu 33–37*
+*bAgagaLu 33–37*
 
-[📼 bagagaLu 33–37 →](./09-havyaka-kannada#part-33)
+[📼 bAgagaLu 33–37 →](./09-havyaka-kannada#part-33)
 
-**baga 33 (canna kannaDa):**
+**bAga 33 (canna kannaDa):**
 
 halo halo banDugaLE, nAnu Di.en.es baT. indu nAvu kannaDa vyAkaraNada bagge carcisONa. kannaDa bASeyalli padagaLa vargIkaraNa mattu avugaLa baLakeya bagge tiLidukOLLONa.
 
@@ -179,4 +179,4 @@ halo halo banDugaLE, nAnu Di.en.es baT. indu nAvu kannaDa vyAkaraNada bagge carc
 | ಪ್ರತ್ಯಯ | pratyaya | kriyA / nAma pratyaya |
 | ಶಾಸನ | SAsan | kalla lEkhana |
 
-> *(bagagaLu 34, 36 gannaATaka mAtra dorakalavillDa; baga 35 kannaDavagalilla; baga 37 dorakalavillDa)*
+> *(bAgagaLu 34, 36 gannaATaka mAtra dorakalavillDa; bAga 35 kannaDavagalilla; bAga 37 dorakalavillDa)*

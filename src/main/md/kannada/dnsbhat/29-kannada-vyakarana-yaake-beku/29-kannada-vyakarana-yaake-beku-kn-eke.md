@@ -1,11 +1,11 @@
-# kannaD vyAkaraNa yAke bEku? — Di. En. sankara baT
+# kannaDa vyAkaraNa yAke bEku? — Di. En. sankara baT
 
-**mukyavAda viSaya:** kannaD sollarime upayOga — akSarate, baraha, anuvAda, nuDihammuge, mAtina tondaregaLu
+**mukyavAda viSaya:** kannaDa sollarime upayOga — akSarate, baraha, anuvAda, nuDihammuge, mAtina tondaregaLu
 **kartaru:** Di. En. sankara baT
 **prakaTane:** 2009
 **mudraka:** bASa prakasana, heggoDu, sAgara
-**nuDi:** kannaD (hosa baraha — ba→b, da→d tara saraLa baraha)
-**TippaNi:** ee pustakadi aDDyAyagaLannu "pasuge" endu keredukoLLuttAre, "aDDyAya" alla
+**nuDi:** kannaDa (hosa baraha — ba→b, da→d tara saraLa baraha)
+**TippaNi:** ee pustakadi adyAyagaLannu "pasuge" endu keredukoLLuttAre, "adyAya" alla
 **mUla:** [English](./29-kannada-vyakarana-yaake-beku-en)
 
 ---
@@ -32,7 +32,7 @@
 
 ondu kannaDiganu huTTidagilindE kannaDiganAgi matanADuttAne — andare adara sollarime avana talayadalli idE. ee oLa-sollarime "mElu-sollarime" (tacit grammar) — svikarisi baLasida, Adare hELala bArada niyama-kaTTale. baT avaru ee pustakadinAdu entaha mElu-sollarimeyanu bEre bEre bEkugaLige hEge upayOgisi biDabahudandu tOrisuttAre: akSarate karpisuvagala, bareyuvudaralli, arimeya-baraha barehuvagala, nalbara barehuvagala, anuvAda mADuvagala, nuDi hammu mADuvagala, mattu mAtina tondaregaLa cikitseyalli.
 
-ee mustakada mukhya kELike: sollarimeyanu tiLiyuvudu niyamagaLannu bAyi-pATa mADuvudu alla — adu nirdishTa vyAvahArika kArya nirvahisuvudu. ee vAyideyanu baT avaru dAtivA oTTida rUpagaLa (vibakti-rUpagaLa) udAharaNadi tOrisuttAre: "-ge" (manege), "-ige" (ArAdige), "-nige" (hAvanige), "-kke" (makkakke) enda nAlku rUpagaLu ellA kannaDigaLige svAbhAvikavAgi bagiyuttave. Adare yAkE bEre rUpagaLu bALuttave embadannu hELala bArA janakke idu "gabarU" — ee gabarUvannu hOgaladisuvudu sollarimeyininda sADya. mAtu mattu baraha naDuvina bedagaLannu kanDupaDisu pasugeyandu mugisutte; mOsata aDDyAyadinAdu ee pustakadinAdu 11 pasugegaLa oLapiDiyannu koDuttAre.
+ee mustakada mukhya kELike: sollarimeyanu tiLiyuvudu niyamagaLannu bAyi-pATa mADuvudu alla — adu nirdishTa vyAvahArika kArya nirvahisuvudu. ee vAyideyanu baT avaru dAtivA oTTida rUpagaLa (vibakti-rUpagaLa) udAharaNadi tOrisuttAre: "-ge" (manege), "-ige" (ArAdige), "-nige" (hAvanige), "-kke" (makkakke) enda nAlku rUpagaLu ellA kannaDigaLige svAbhAvikavAgi bagiyuttave. Adare yAkE bEre rUpagaLu bALuttave embadannu hELala bArA janakke idu "gabarU" — ee gabarUvannu hOgaladisuvudu sollarimeyininda sADya. mAtu mattu baraha naDuvina bedagaLannu kanDupaDisu pasugeyandu mugisutte; mOsata adyAyadinAdu ee pustakadinAdu 11 pasugegaLa oLapiDiyannu koDuttAre.
 
 ---
 
@@ -80,7 +80,7 @@ ippuruLu (ambiguity) mUru bageyadadu: pada-ippuruLu (lexical ambiguity), padarUp
 
 *(ಎರಡನೇ ನುಡಿಯ ಕಲಿಕೆ)*
 
-makkalu tAy-nuDi (mother tongue) kaLeyuvudu mattu doDD janarigE eraDanE nuDi kaLeyuvudu naDuvina bedavannu sollarimeyA dxSTiyalli baT vivEcisuttAre. eraDanE nuDi kalikadinAdu "riNa-vargIkaraNe" (negative transfer) — tAy-nuDi niyama eraDanE nuDige tAppuvudu — ondu mukhya toDaku. kannaDigaLige ingliSu kalipadIsuvagala kannaD sollarime sahAya mADuttadE embu — eraDU nuDi-iTTaLagaLa bedavanu tiLidu karpIsuvudu adhika phalapradata endu baT hELuttAre. tAy-nuDi sollarimeyA jnAna eraDanE nuDi kalisuvagala bAdheyanu hEge kaDimE mADabahudembadannu pasugeyandu vivEcisuttAre.
+makkalu tAy-nuDi (mother tongue) kaLeyuvudu mattu doDD janarigE eraDanE nuDi kaLeyuvudu naDuvina bedavannu sollarimeyA dxSTiyalli baT vivEcisuttAre. eraDanE nuDi kalikadinAdu "riNa-vargIkaraNe" (negative transfer) — tAy-nuDi niyama eraDanE nuDige tAppuvudu — ondu mukhya toDaku. kannaDigaLige ingliSu kalipadIsuvagala kannaDa sollarime sahAya mADuttadE embu — eraDU nuDi-iTTaLagaLa bedavanu tiLidu karpIsuvudu adhika phalapradata endu baT hELuttAre. tAy-nuDi sollarimeyA jnAna eraDanE nuDi kalisuvagala bAdheyanu hEge kaDimE mADabahudembadannu pasugeyandu vivEcisuttAre.
 
 ---
 
@@ -88,7 +88,7 @@ makkalu tAy-nuDi (mother tongue) kaLeyuvudu mattu doDD janarigE eraDanE nuDi kaL
 
 *(ನುಡಿಮಾರಿಕೆ)*
 
-nuDimArike (translation) mAnavi mAtu (human translation) mattu eNNuka-mAtu (machine translation) endu eraDu bageyadadu. eNNuka-nuDimArike (statistical/neural MT) kannaDigaLige tattarisu bEkAdare kannaDigaLa iTTaLavannu (SOV krama, vibaKti-oTTugaLu, padarUpa-vividhate) sariyadAgi maulikavAgi varisabEku. sankramaNa-nuDimArike (transfer approach), antarbhAsha-nuDimArike (interlingual), mattu sAnkhyika-nuDimArike (statistical) — ee mUru mArgagaLannu baT vivarisi, ellA mArgagaLallu kannaD sollarimeyA ondu hiditagE astu-pAtravAgirutte endu vAdisutte. ingliSu mattu kannaDigaLa iTTaLa-bEdagaLu (SVO vs SOV, vibakti-hirimai, kriyA-rUpa-vividhate) nuDimArikeyalli hEge toDakuvAgutte embu tOrisuttAre.
+nuDimArike (translation) mAnavi mAtu (human translation) mattu eNNuka-mAtu (machine translation) endu eraDu bageyadadu. eNNuka-nuDimArike (statistical/neural MT) kannaDigaLige tattarisu bEkAdare kannaDigaLa iTTaLavannu (SOV krama, vibaKti-oTTugaLu, padarUpa-vividhate) sariyadAgi maulikavAgi varisabEku. sankramaNa-nuDimArike (transfer approach), antarbhAsha-nuDimArike (interlingual), mattu sAnkhyika-nuDimArike (statistical) — ee mUru mArgagaLannu baT vivarisi, ellA mArgagaLallu kannaDa sollarimeyA ondu hiditagE astu-pAtravAgirutte endu vAdisutte. ingliSu mattu kannaDigaLa iTTaLa-bEdagaLu (SVO vs SOV, vibakti-hirimai, kriyA-rUpa-vividhate) nuDimArikeyalli hEge toDakuvAgutte embu tOrisuttAre.
 
 ---
 
@@ -96,7 +96,7 @@ nuDimArike (translation) mAnavi mAtu (human translation) mattu eNNuka-mAtu (mach
 
 *(ನುಡಿಹಮ್ಮುಗೆ)*
 
-nuDihammuge (language planning) eraDu mukhya kArya nirvahisuttade: lipi-sarpaDike (script reform) mattu arimeya-pada-sxSTi (terminology development). hosa baraha (simplified Kannada spelling — baT avara sankalpa: mahAprANa tegedu hAki) embadale lipi-sarpaDike sADya. ee kAryakke kannaDigaLa uli-racane (phonological structure) tiLiyuvudu anivArya. hosa kannaD padagaLannu utpAdaka mUla-oTTugaLinda (productive morphology) kaDeyuvudu tantajnAna-pada-sxSTige oru dAriyAda: "nuDiyarime" (linguistics), "nuDihammuge" (language planning), "eNNuka" (computer) antaha padagaLu baT avara swanta kannaD-mUla sxSTigaLE. ee kArya sollarimeyA oLaracane-arimeyillAde (morphological knowledge) sADya illa.
+nuDihammuge (language planning) eraDu mukhya kArya nirvahisuttade: lipi-sarpaDike (script reform) mattu arimeya-pada-sxSTi (terminology development). hosa baraha (simplified Kannada spelling — baT avara sankalpa: mahAprANa tegedu hAki) embadale lipi-sarpaDike sADya. ee kAryakke kannaDigaLa uli-racane (phonological structure) tiLiyuvudu anivArya. hosa kannaDa padagaLannu utpAdaka mUla-oTTugaLinda (productive morphology) kaDeyuvudu tantajnAna-pada-sxSTige oru dAriyAda: "nuDiyarime" (linguistics), "nuDihammuge" (language planning), "eNNuka" (computer) antaha padagaLu baT avara swanta kannaDa-mUla sxSTigaLE. ee kArya sollarimeyA oLaracane-arimeyillAde (morphological knowledge) sADya illa.
 
 ---
 
@@ -112,13 +112,13 @@ mAtina tondaregaLu (speech disorders) eraDu bageyadavu: beLavaNiga-mArga (develo
 
 *(ಮುಕ್ತಾಯ)*
 
-varNanAtmaka (descriptive), nirdEshAtmaka (prescriptive), SaikShaNika (pedagogical), mattu eNNuka-nuDiyarimeyA (computational) — nAlku bageya sollarime-kArya-gArarigU ondu uttama varNanAtmaka kaTTale (descriptive grammar) AdhAravAgi bEku embu muktAya-pasugeyA mukhya vAdu. sollarime sAdhana, lakShya alla; kannaDigaLannu baLasala bAruva matta-nAligeyu ella kannaDigaLa talayadallE ide, adannu bAhirada kaTTagaLu hEruvudu bEDa. SAlEgaLalli bArheyu, kOTa-kAcAlagaLalli kAnUnu, eNNuka nuDimArikeyalli, mattu cikitseyalli — tumbA bEre-bEre keDeyalli sollarimeyA upayOga kANuttade. baT avaru mudisuttAre: kannaD sollarime yaAke bEku endu kELidavarige ee 11 pasugegaLu uttaru koDuttave.
+varNanAtmaka (descriptive), nirdEshAtmaka (prescriptive), SaikShaNika (pedagogical), mattu eNNuka-nuDiyarimeyA (computational) — nAlku bageya sollarime-kArya-gArarigU ondu uttama varNanAtmaka kaTTale (descriptive grammar) AdhAravAgi bEku embu muktAya-pasugeyA mukhya vAdu. sollarime sAdhana, lakShya alla; kannaDigaLannu baLasala bAruva matta-nAligeyu ella kannaDigaLa talayadallE ide, adannu bAhirada kaTTagaLu hEruvudu bEDa. SAlEgaLalli bArheyu, kOTa-kAcAlagaLalli kAnUnu, eNNuka nuDimArikeyalli, mattu cikitseyalli — tumbA bEre-bEre keDeyalli sollarimeyA upayOga kANuttade. baT avaru mudisuttAre: kannaDa sollarime yaAke bEku endu kELidavarige ee 11 pasugegaLu uttaru koDuttave.
 
 ---
 
 ## mukhya pari-paLa-sUci (Key Terms Glossary)
 
-| kannaD baraha | Eke baraha | artha |
+| kannaDa baraha | Eke baraha | artha |
 |---|---|---|
 | ಸೊಲ್ಲರಿಮೆ | sollarime | grammar |
 | ಸೊಲ್ಲು | sollu | sentence |
@@ -133,7 +133,7 @@ varNanAtmaka (descriptive), nirdEshAtmaka (prescriptive), SaikShaNika (pedagogic
 | ನುಡಿಮಾರಿಕೆ | nuDimArike | translation |
 | ನುಡಿಹಮ್ಮುಗೆ | nuDihammuge | language planning |
 | ಎಣ್ಣುಕ | eNNuka | computer |
-| ಎಲ್ಲರ ಕನ್ನಡ | ellara kannaD | standard Kannada |
+| ಎಲ್ಲರ ಕನ್ನಡ | ellara kannaDa | standard Kannada |
 | ಆಡುನುಡಿ | ADunuDi | spoken dialect |
 | ಒಳನುಡಿ | oLanuDi | dialect (sub-variety) |
 | ಅರಿಮೆ | arime | science / knowledge |
@@ -151,4 +151,4 @@ varNanAtmaka (descriptive), nirdEshAtmaka (prescriptive), SaikShaNika (pedagogic
 
 ---
 
-*ee dastavEju Di. En. sankara baT avara "kannaD vyAkaraNa yAke bEku?" (2009) pustakadinAdu Eke baraha-rUpadi samyOjita saramsa. mUla kannaD baraha [29-kannada-vyakarana-yaake-beku-book.md](./29-kannada-vyakarana-yaake-beku-book) dalli mattu English saramsa [29-kannada-vyakarana-yaake-beku-en.md](./29-kannada-vyakarana-yaake-beku-en) dalli kANabahudu.*
+*ee dastavEju Di. En. sankara baT avara "kannaDa vyAkaraNa yAke bEku?" (2009) pustakadinAdu Eke baraha-rUpadi samyOjita saramsa. mUla kannaDa baraha [29-kannada-vyakarana-yaake-beku-book.md](./29-kannada-vyakarana-yaake-beku-book) dalli mattu English saramsa [29-kannada-vyakarana-yaake-beku-en.md](./29-kannada-vyakarana-yaake-beku-en) dalli kANabahudu.*

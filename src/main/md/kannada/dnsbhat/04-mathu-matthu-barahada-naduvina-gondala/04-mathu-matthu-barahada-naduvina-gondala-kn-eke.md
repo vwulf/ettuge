@@ -1,7 +1,7 @@
 # mAtu mattu barahada naDuvina gondala
 
 **lEkhakaru:** Di. en. Sankara baT
-**mULa:** YouTube udangaLu — 44 bagagaLu
+**mULa:** YouTube udangaLu — 44 bAgagaLu
 **odidaravaru:** malati baT
 
 > mUla paThya (kannaDa lipi): [04-mathu-matthu-barahada-naduvina-gondala.md](./04-mathu-matthu-barahada-naduvina-gondala)
@@ -25,9 +25,9 @@
 
 ## viShaya 1 — nuDi mAtu: baraha nuDiyalla
 
-*bagagaLu 1–5*
+*bAgagaLu 1–5*
 
-[📼 bagagaLu 1–5 →](./04-mathu-matthu-barahada-naduvina-gondala#part-1)
+[📼 bAgagaLu 1–5 →](./04-mathu-matthu-barahada-naduvina-gondala#part-1)
 
 **DNS baT avara hEraDa vAkya (pustakami vebsaiT varNane):**
 
@@ -35,15 +35,15 @@ nuDi embudu mAtallade barahavalla; nudiya illave mAtina ondu krutaka rUpavE bara
 
 barahavanu makkaLige kalisabEkAguttade — AdakaLena, adu samaya kaLedante ella hecca hecca krutakavAguttA hOgi, tanna jIvantikeyanu kaLedukoLLuttade. adaralli jIvantike tumbalu adakkU mAtikU naDuviruva antaravanu barahagAraru kaDime mADuttirabbEkAguttade.
 
-**baga 5 (mUla viShaya — mAtu munda, baraha nantara):**
+**bAga 5 (mUla viShaya — mAtu munda, baraha nantara):**
 
 ingliSinalli "language" emba pada lATin "lingua" (nAlige) indinda bandiruvu. I ettugeyu nuDi embudu mAtu embudanu tOruttade. baraha sumAru nAlku sAvira varSagaLa hindE SumEra mattu cIneyalli ArambavAyitu. kanna Dada mAtu A himde halavAru sAvira varSagaLu hanneya. mAtu modalu; baraha nantara.
 
-**baga 3 (samskxta — satta bASe):**
+**bAga 3 (samskxta — satta bASe):**
 
 samskxta halavAru varSagaLinda svalpa badalAvaNe Agilla. adu jIvanta bASeyalla; baraha mAtra. kannaDa bASe kAla kALakke badalAvaNe AnOnDiruttade — haLeya kannaDa, naaDu kannaDa, nUtana kannaDa — ivu sAkSi. samskxta pANinIya vyAkaraNa niyama avanu "ninda biDuttade" — jIvanta bASe hAgeya sADyavilla.
 
-> *(baga 1 kannaDavagalilla; baga 2 svalpa kannaDavagalilla — muKya bhAvagaLu dorakive)*
+> *(bAga 1 kannaDavagalilla; bAga 2 svalpa kannaDavagalilla — muKya bhAvagaLu dorakive)*
 
 ---
 
@@ -51,9 +51,9 @@ samskxta halavAru varSagaLinda svalpa badalAvaNe Agilla. adu jIvanta bASeyalla; 
 
 ## viShaya 2 — baraha caritra: baraha hEge banditu
 
-*bagagaLu 6–9*
+*bAgagaLu 6–9*
 
-[📼 bagagaLu 6–9 →](./04-mathu-matthu-barahada-naduvina-gondala#part-6)
+[📼 bAgagaLu 6–9 →](./04-mathu-matthu-barahada-naduvina-gondala#part-6)
 
 baraha vyavasthe eraDu mukya bAgava: pada lipi (pratipadakke ondu cihne — cIna) mattu svana lipi (svanagaLannu pratiniDuvudu — kannaDa, ingliS).
 
@@ -61,7 +61,7 @@ bAratadalli heccina lipigaLu brAmI lipiyinda beLedubandive. brAmI lipi uccAraNa 
 
 mAtu modalu; baraha annantara. kannaDa mAtannu bareyuva kElasa sumAru eraDu sAvira varSagaLa hindE ArambavAyitu. adarE mAtu halavAru sAvira varSagaLinda svantantra nuDiyAgi iDe.
 
-> *(bagagaLu 6–9 dorakide adarE I viShayada sariyAda paThya nODalu sADyavAgalilla)*
+> *(bAgagaLu 6–9 dorakide adarE I viShayada sariyAda paThya nODalu sADyavAgalilla)*
 
 ---
 
@@ -69,17 +69,17 @@ mAtu modalu; baraha annantara. kannaDa mAtannu bareyuva kElasa sumAru eraDu sAvi
 
 ## viShaya 3 — bASe kalika: svAbAvika mAtu, kaLisa baraha
 
-*bagagaLu 13–14*
+*bAgagaLu 13–14*
 
-[📼 bagagaLu 13–14 →](./04-mathu-matthu-barahada-naduvina-gondala#part-13)
+[📼 bAgagaLu 13–14 →](./04-mathu-matthu-barahada-naduvina-gondala#part-13)
 
-**baga 13 (makkaLu mAtu hEge kaLiyuttAre):**
+**bAga 13 (makkaLu mAtu hEge kaLiyuttAre):**
 
 makkaLu mAtannu yAru kalisade kalikoLLuttAre. munce babbala — nantara ondu pada — nantara eraDu pada — nantara pUrNa vAkya. I krama prateya makkaLalli ondE AguturuttaDE. vAtavaraNavE kalisuttade; tAyi-tanDe vyAkaraNa padaDi kaLisuvudilla.
 
 baraha ante alla: barahavanu innobbaru kaLisabbEku — I kALaka, I kattu, I niyamada mULaka. makkaLige baraha kalisuvudu varSagaLa kAlasa.
 
-**baga 14 (mAtu mattu baraha: bErE bErE kArya):**
+**bAga 14 (mAtu mattu baraha: bErE bErE kArya):**
 
 mAtanADida vAkya hAgeyE hOguttade — tidukkalu sADyavilla. baredadu uLiyuttade — tidukkabEku, pararA talaupabEku, bEre kALakke upayogisabEku.
 
@@ -91,23 +91,23 @@ barehadalli mAtinante sandarbha, hAvabAva, svanakELige illa. barahagAru I antara
 
 ## viShaya 4 — baraha mattu AlOcane badalAvaNe
 
-*bagagaLu 17–24*
+*bAgagaLu 17–24*
 
-[📼 bagagaLu 17–24 →](./04-mathu-matthu-barahada-naduvina-gondala#part-17)
+[📼 bAgagaLu 17–24 →](./04-mathu-matthu-barahada-naduvina-gondala#part-17)
 
-**baga 17 (mudraNa yantra mattu baraha badalAvaNe):**
+**bAga 17 (mudraNa yantra mattu baraha badalAvaNe):**
 
 mudraNa yantra (15ane shatabmAna) baraha samskxtige heccina mArupADu tanditu. A munce illade iruvavugaLu bandive: shIrSike, upaShIrSike, pucca sakkhyegaLu, paDi sUci, sutra vAkya, paragrapagaLu. pustaka arjitavAgitu; odi bahujanara kElase AyItu.
 
 mudraNa baraha "prAmANikate" — hELabahudu: I naDavina lEkhanagaLu sari, baLuvAda kannaDigarE odi mElike bAruvudu. I badalAvaNe baraha citrakke heccina shakyate koDitu.
 
-**bagagaLu 18–20 (bAyitana samAja mattu barehadha samAja):**
+**bAgagaLu 18–20 (bAyitana samAja mattu barehadha samAja):**
 
 bAyitana samAjadalli jJAna kathEgaLu, gurutugaLu, paramparagaLalli sangrahamAguttade. barehadha samAjadalli jJAna "vastu" AguturuttaDE: sUci mADabahudAda, vargIkarisabahudu, bErE bErE vargadalli joDisabahudu.
 
 bAyitanada jangaLU barehadha jangaLU eraDU onde samAjadalli iruvAga — barehadhavarE sAdhAraNa DaniyuLLavarAgiddarindu — bAyitanadavarE tondareyu anubhavisuttAre.
 
-> *(bagagaLu 21, 22 kannaDavagalilla; baga 25 dorakalavillDa — SSL doSa)*
+> *(bAgagaLu 21, 22 kannaDavagalilla; bAga 25 dorakalavillDa — SSL doSa)*
 
 ---
 
@@ -115,11 +115,11 @@ bAyitanada jangaLU barehadha jangaLU eraDU onde samAjadalli iruvAga — barehadh
 
 ## viShaya 5 — drAviDa bASe kuTumba
 
-*bagagaLu 27–32*
+*bAgagaLu 27–32*
 
-[📼 bagagaLu 27–32 →](./04-mathu-matthu-barahada-naduvina-gondala#part-27)
+[📼 bAgagaLu 27–32 →](./04-mathu-matthu-barahada-naduvina-gondala#part-27)
 
-**baga 27 (canna kannaDa — drAviDa kuTumba):**
+**bAga 27 (canna kannaDa — drAviDa kuTumba):**
 
 kannaDa mattu tamiLu eraDU drAviDa bASe — ondE mUla drAviDa bASeyindinda bandive. kannaDa munce bErEyAyitu — A nantara tamiLu, maLayALa, tuLu, koDagu ivugaLu bErEyAyiduve.
 
@@ -127,13 +127,13 @@ I sambanda hEge sAbitAguttade? stira uli hOlike mULaka: kannaDadalli reTroflex T
 
 samskxtadinda kannaDa bandide embudu tappAda tiLuvALike. kAraNa: kannaDa mattu samskxta naDuve vyAkaraNa, uli, mUla padakoSa — eliaDaLU vyatyAsa bahaLa dUra. kannaDa drAviDa bASe; samskxta indo-yUrOpiyan bASe.
 
-**bagagaLu 29–32 (drAviDa pada hOlike):**
+**bAgagaLu 29–32 (drAviDa pada hOlike):**
 
 mUla drAviDa padakoSadalli: nAvu, nIvu, avanu emba sarvanamagaLu; hELu, koDu, malaugu emba kriyApada gaLu; biLi, kappu, hosi, haLe emba viSeSana padagaLu — ivellA samskxtEtara, drAviDa mUlada.
 
 samskxta tatsama padagaLu nantara kannaDakke sEriduve; I padagaLu drAviDa uli vyavastEge sAmaJasyagondilla — avugaLannu kannaDa uccAraNEge anugaNave bareyabEku.
 
-> *(baga 26 kannaDavagalilla)*
+> *(bAga 26 kannaDavagalilla)*
 
 ---
 
@@ -141,11 +141,11 @@ samskxta tatsama padagaLu nantara kannaDakke sEriduve; I padagaLu drAviDa uli vy
 
 ## viShaya 6 — baraha suDAraNe: mAtu-baraha antaravanu kaDime mADuvu
 
-*bagagaLu 34–38*
+*bAgagaLu 34–38*
 
-[📼 bagagaLu 34–38 →](./04-mathu-matthu-barahada-naduvina-gondala#part-34)
+[📼 bAgagaLu 34–38 →](./04-mathu-matthu-barahada-naduvina-gondala#part-34)
 
-**baga 38 (canna kannaDa — baraha-mAtu vyatyAsa mattu suDAraNe):**
+**bAga 38 (canna kannaDa — baraha-mAtu vyatyAsa mattu suDAraNe):**
 
 I rIti vyatyAsagaLu eLLade AguturuttaDE: baraha ondu kALadalli sthiragOnDabiDuttade, mAtu badalAguttA hOguttade. ingliSinalli ee samasyave: "knight", "rough", "though" — baraha 15ne ShatabmAnada uccAraNeyanu haniDiruvu, nantara mAtu badalAyitu, baraha badalAgalilla.
 
@@ -153,7 +153,7 @@ pOrcugiS likhana panDigaLu sUDhAraNe mADi baraha-mAtu antaravanu kaDime mADigidd
 
 kannaDada svantada padagaLu samasyEyinda bErE tappisikonDive — kannaDa padagaLannu uccAraNEga anugaNave bareyuvudu. adarE samskxta Adalike padagaLannu samskxta baraha niyamadale bareyabEku annuvudu kaSTada niyama. makkaLige ee padagaLa baraha kaLisuvaLLi heccina kaTTa aguttade.
 
-> *(baga 35 dorakalavillDa; bagagaLu 36, 37 kannaDavagalilla)*
+> *(bAga 35 dorakalavillDa; bAgagaLu 36, 37 kannaDavagalilla)*
 
 ---
 
@@ -161,11 +161,11 @@ kannaDada svantada padagaLu samasyEyinda bErE tappisikonDive — kannaDa padagaL
 
 ## viShaya 7 — bASe jIvanta mattu sAvu
 
-*bagagaLu 39–44*
+*bAgagaLu 39–44*
 
-[📼 bagagaLu 39–44 →](./04-mathu-matthu-barahada-naduvina-gondala#part-39)
+[📼 bAgagaLu 39–44 →](./04-mathu-matthu-barahada-naduvina-gondala#part-39)
 
-**baga 43 (canna kannaDa — satta bASe mattu aLida bASe):**
+**bAga 43 (canna kannaDa — satta bASe mattu aLida bASe):**
 
 bASe jIvantavAguvarEge makkaLu avanu tAyinuDiyAgi kalidukoLLuttAre — talaemArininda talaemArige badalAvaNE terukonDu sAguturuttaDE. ee rIti sAguva bASe "jIvanta bASe".
 
@@ -175,7 +175,7 @@ lATin kUDa satta bASe — satta endudarE aLidilla: vATikan, kaTolik cerci, viduv
 
 tamiLunADu sarkAru samskxta satta bASe endu hELidadu sari. cennay ucca nyAyAlaya tIrpAvu tappAda tIrpAvu.
 
-**baga 44 (samAropti — eraDu suDAraNegaLu):**
+**bAga 44 (samAropti — eraDu suDAraNegaLu):**
 
 kannaDa bareha mAtininda dUra sAritide — eraDu kAraNagaLindinda:
 (1) samskxta eravalu padagaLa heccu — kannaDigaru eraDanEya bASe ivugaLa hAke bALasuttide
@@ -187,7 +187,7 @@ eraDu mArpADigaLannu mADidale:
 
 ee mArpADigaLu kannaDa bareha kalivaLLi mattu baLasivaLLi sUlabavAgabahu — eLLara kannaDigarige bareha talaupuvante mADuvudu sAmAjika nyadha.
 
-> *(bagagaLu 39, 40, 41, 42 kannaDavagalilla; baga 44 svalpa kannaDavagalilla adarE samAropti viShaya dorakuttade)*
+> *(bAgagaLu 39, 40, 41, 42 kannaDavagalilla; bAga 44 svalpa kannaDavagalilla adarE samAropti viShaya dorakuttade)*
 
 ---
 

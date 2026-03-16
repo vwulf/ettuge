@@ -1,11 +1,11 @@
-# kannaD padagaLa oLaracane — Di. En. sankara baT
+# kannaDa padagaLa oLaracane — Di. En. sankara baT
 
-**mukyavAda viSaya:** kannaD padagaLa oLaracane, pada-gumpugaLu, prattayagaLu, jODupadagaLu
+**mukyavAda viSaya:** kannaDa padagaLa oLaracane, pada-gumpugaLu, prattayagaLu, jODupadagaLu
 **kartaru:** Di. En. sankara baT
 **prakaTane:** 2014
 **mudraka:** bASa prakasana
 **paTagaLu:** 239
-**nuDi:** kannaD
+**nuDi:** kannaDa
 **mUla:** [English](./03-kannada-padagala-olarachane-en)
 
 ---
@@ -44,7 +44,7 @@ ondu jODupadada amsu swatamindriya-pada endare, adu bErE kaDeyalli svatamindriya
 
 ### 1.5–1.8 padavoTTu mattu padarUpada oTTu; utpAdaka racane (ಪದದೊಟ್ಟು ಮತ್ತು ಪದರೂಪದೊಟ್ಟು)
 
-1.5–1.7 kanDagaLu padavoTTu (lexical affix) mattu padarUpada oTTu (inflectional affix) enda eraDara naDuvina aru bedagaLannu koDuttave: (a) padavoTTu hosa pada kaDeyuttade, anaivArya alla; padarUpada oTTu anivArya. (b) padavoTTu kelavu padagaLige mAtra tattaruttade; padarUpada oTTu ellA padagaLige tattaruttade. (c) padavoTTu paritigaLannu mADuvudilla; padarUpada oTTu paritigaLannu (paradigm) mADuttade. (d) padavoTTannu bErE nuDigaLinda eravalu mADabahudu; padarUpada oTTannu eravalu mADuvudilla. (e) padavoTTige ekavIDa artha iruvadittu; padarUpada oTTige sthira artha irutte. (f) padavoTTu eravalu padagaLige tattaruvudilla sADAraNatah. 1.7 kanDavu utpAdaka mattu anutpAdaka racane-vIrupadannu vivarisi, 1.8 idu kannaDigaLa svalpa (Dravidian-native) padagaLa arikattu upayOgisi kannaD vyAkaraNa barevudAgide endu hELuttade.
+1.5–1.7 kanDagaLu padavoTTu (lexical affix) mattu padarUpada oTTu (inflectional affix) enda eraDara naDuvina aru bedagaLannu koDuttave: (a) padavoTTu hosa pada kaDeyuttade, anaivArya alla; padarUpada oTTu anivArya. (b) padavoTTu kelavu padagaLige mAtra tattaruttade; padarUpada oTTu ellA padagaLige tattaruttade. (c) padavoTTu paritigaLannu mADuvudilla; padarUpada oTTu paritigaLannu (paradigm) mADuttade. (d) padavoTTannu bErE nuDigaLinda eravalu mADabahudu; padarUpada oTTannu eravalu mADuvudilla. (e) padavoTTige ekavIDa artha iruvadittu; padarUpada oTTige sthira artha irutte. (f) padavoTTu eravalu padagaLige tattaruvudilla sADAraNatah. 1.7 kanDavu utpAdaka mattu anutpAdaka racane-vIrupadannu vivarisi, 1.8 idu kannaDigaLa svalpa (Dravidian-native) padagaLa arikattu upayOgisi kannaDa vyAkaraNa barevudAgide endu hELuttade.
 
 ---
 
@@ -54,19 +54,19 @@ ondu jODupadada amsu swatamindriya-pada endare, adu bErE kaDeyalli svatamindriya
 
 ### 2.1 munnOTa (ಮುನ್ನೋಟ)
 
-ee aDDyAya kannaDigaLa mUru bageya pada-gumpugaLannu sthApisi, mondina aDDyAyagaLige nele haradi: hesaru pada (ಹೆಸರುಪದ, noun), esaka pada (ಎಸಕಪದ, verb), parice pada (ಪರಿಚೆಪದ, qualifier/adjective). ee mUru gumpugaLu kannaD vAkyadi mUru bEre bEre kArya nirvahisuttave: hesaru padagaLu vyakti, vastugaLu, nele, mattu bindugaLannu gurtisuttave; esaka padagaLu kAryagaLannu yA nelegaLannu prAti-gattisuttave; parice padagaLu hesaru padagaLa dharmagaLannu varisuttave.
+ee adyAya kannaDigaLa mUru bageya pada-gumpugaLannu sthApisi, mondina adyAyagaLige nele haradi: hesaru pada (ಹೆಸರುಪದ, noun), esaka pada (ಎಸಕಪದ, verb), parice pada (ಪರಿಚೆಪದ, qualifier/adjective). ee mUru gumpugaLu kannaDa vAkyadi mUru bEre bEre kArya nirvahisuttave: hesaru padagaLu vyakti, vastugaLu, nele, mattu bindugaLannu gurtisuttave; esaka padagaLu kAryagaLannu yA nelegaLannu prAti-gattisuttave; parice padagaLu hesaru padagaLa dharmagaLannu varisuttave.
 
 ### 2.2 pada-gumpugaLalli vyatyAsagaLu (ಪದಗುಂಪುಗಳಲ್ಲಿ ವ್ಯತ್ಯಾಸಗಳು)
 
-nuDigaLu pada-gumpugaLannu hEge vargIsuttave embude bEre bEre. dravIDa, inDO-AriyA, tibe-barma, AsTrO-eshiyA emba nAlku nADina nAlku nuDi-kuTumbagaLu pada-gumpugaLannu bEre bEre rIti-yalli vibhajisuttave. samskxtadi svarUpadaDi baLasudE bEre guNa-pada (adjective) varga iruvadittu alla — samskxt guNa-padagaLu viBakti, linga, vacana endella hesaru-pada-samAge baddalAguttave. kannaD parice padagaLu, intAhikke, vibakti yA vacanakke baddalAguvudilla.
+nuDigaLu pada-gumpugaLannu hEge vargIsuttave embude bEre bEre. dravIDa, inDO-AriyA, tibe-barma, AsTrO-eshiyA emba nAlku nADina nAlku nuDi-kuTumbagaLu pada-gumpugaLannu bEre bEre rIti-yalli vibhajisuttave. samskxtadi svarUpadaDi baLasudE bEre guNa-pada (adjective) varga iruvadittu alla — samskxt guNa-padagaLu viBakti, linga, vacana endella hesaru-pada-samAge baddalAguttave. kannaDa parice padagaLu, intAhikke, vibakti yA vacanakke baddalAguvudilla.
 
 ### 2.3 pada-gumpugaLa mUru bEre guNagaLu (ಪರಿಚೆಧರ್ಮಗಳಲ್ಲಿ ವ್ಯತ್ಯಾಸ)
 
-ee kanDavu aDDyAyada mAhitivina mOLe. baT avaru eDu bEre bEre vivEcanA parIkSegaLannu koDuttAre: (1) nEraLa upayOga: parice padagaLu mattu hesaru padagaLu nEraLakke hesaru-pada mundE bandu varisi biDabahudu; esaka padagaLige idu sADya alla. (2) artha-bedagaLu: hesaru padagaLu vyakti-uddesha mADuttave; parice padagaLu ningaDa svalpa dharma varisuttave. (3) hOlikeyalli: parice padagaLu mAtra hOlikeyalli bALuttave (eg: "idu A maneginta doDD mane"). (4) vismaya-vAkyadi: "eSTu doDD mane!" emballi mAtra parice padagaLu bALuttave. (5) mArdani-pada sxSTiyalli: mArdani padagaLannu (echo words) hesaru mattu esaka padagaLinda mADabahudu, parice padagaLinda alla. (6) svatamindriya upayOgadi: parice padagaLu hesaru mattu esaka padagaLa hAge svatamindriya yAgi bALuvudilla. (7) sthira vs. cala dharmagaLu: parice padagaLu sthira dharmagaLannu varisuttave; esaka padagaLu acala/cAra-kAlIna nelegaLannu hELuttave.
+ee kanDavu adyAyada mAhitivina mOLe. baT avaru eDu bEre bEre vivEcanA parIkSegaLannu koDuttAre: (1) nEraLa upayOga: parice padagaLu mattu hesaru padagaLu nEraLakke hesaru-pada mundE bandu varisi biDabahudu; esaka padagaLige idu sADya alla. (2) artha-bedagaLu: hesaru padagaLu vyakti-uddesha mADuttave; parice padagaLu ningaDa svalpa dharma varisuttave. (3) hOlikeyalli: parice padagaLu mAtra hOlikeyalli bALuttave (eg: "idu A maneginta doDD mane"). (4) vismaya-vAkyadi: "eSTu doDD mane!" emballi mAtra parice padagaLu bALuttave. (5) mArdani-pada sxSTiyalli: mArdani padagaLannu (echo words) hesaru mattu esaka padagaLinda mADabahudu, parice padagaLinda alla. (6) svatamindriya upayOgadi: parice padagaLu hesaru mattu esaka padagaLa hAge svatamindriya yAgi bALuvudilla. (7) sthira vs. cala dharmagaLu: parice padagaLu sthira dharmagaLannu varisuttave; esaka padagaLu acala/cAra-kAlIna nelegaLannu hELuttave.
 
 ### 2.4–2.5 pada-gumpu sadasyatva mattu sArAmsa
 
-kenDagaLu 2.4–2.5 hesarisuttade: konDu padagaLu eraDu gumpugaLa naDuvE iddarU iruttave; pada-gumpu-sadasyatva sampUrNa sthira alla. Adare mUru-vibhajana kannaD vyAkaraNakke AdhAra-bhUta mattu aDDyAyagaLalli hOguvudakke anaivArya endu aDDyAya mugisutte.
+kenDagaLu 2.4–2.5 hesarisuttade: konDu padagaLu eraDu gumpugaLa naDuvE iddarU iruttave; pada-gumpu-sadasyatva sampUrNa sthira alla. Adare mUru-vibhajana kannaDa vyAkaraNakke AdhAra-bhUta mattu adyAyagaLalli hOguvudakke anaivArya endu adyAya mugisutte.
 
 ---
 
@@ -74,11 +74,11 @@ kenDagaLu 2.4–2.5 hesarisuttade: konDu padagaLu eraDu gumpugaLa naDuvE iddarU 
 
 *(ನಾಮಪದಗಳ ಒಳರಚನೆ)*
 
-kannaD hesaru padagaLu eraDu kArya mADuttave: vyaktigaLannu gurtisu (hEsarisu) yA avara dharmagaLannu vari (varisu). aDDyAya modalige ee eraDu kArya beda-beda endu tOrisi, nantara jODupada mattu hesaru-pada-kante (noun phrase) naDuvina bedavannu sparSisuttade. jODupada (ಜೋಡುಪದ) ondu svalpa padindIya artha iruva pada, ante; hesaru-pada-kante (ಹೆಸರುಪದ ಕಂತೆ) vyAkaraNavalla sErisida artha-kante.
+kannaDa hesaru padagaLu eraDu kArya mADuttave: vyaktigaLannu gurtisu (hEsarisu) yA avara dharmagaLannu vari (varisu). adyAya modalige ee eraDu kArya beda-beda endu tOrisi, nantara jODupada mattu hesaru-pada-kante (noun phrase) naDuvina bedavannu sparSisuttade. jODupada (ಜೋಡುಪದ) ondu svalpa padindIya artha iruva pada, ante; hesaru-pada-kante (ಹೆಸರುಪದ ಕಂತೆ) vyAkaraNavalla sErisida artha-kante.
 
 jODupada mattu hesaru-pada-kante naDuvina bedannu gurtisalu, baT avaru Edu vivEcanA parIkSegaLannu koDuttAre: (1) utpAdakata — hosa kanteyanu swEcChegE sxSTisabahuduvo yA kevaLa smriti-pada Agi iDabahuduvo? (2) dharma-aD-ike — jODupadadi amsugaLa yAvu dharmagaLu uLidiruttave? (3) artha-viparyAsa — jODupada mUla amsugaLa kuDAmi-arthadinda bEre artha paDeyuttadeyE? (4) vyApti-mIti — amsugaLannu bEre bEre mArgadi parisarisi biDabahuduvo? (5) dvani-badala — amsugaLu sEruvAga sandhi yA dvani-badala Aguttadeyē? (6) krama-mIti — amsugaLu bEre kramadi bAruvududu sADya-vE? (7) hesaru-pada jODupada mattu hesaru-pada-hesaru-pada-kante naDuvina sambandha.
 
-aDDyAya rUDhanAma (proper nouns) mattu ankitanAma (common nouns) naDuvina bedavannu kanDukoLLuttade — rUDhanAma parimANa mattu niScarita-artha-vivEcaneyalli bEre dharmagaLannu tOrisuttade.
+adyAya rUDhanAma (proper nouns) mattu ankitanAma (common nouns) naDuvina bedavannu kanDukoLLuttade — rUDhanAma parimANa mattu niScarita-artha-vivEcaneyalli bEre dharmagaLannu tOrisuttade.
 
 ---
 
@@ -86,7 +86,7 @@ aDDyAya rUDhanAma (proper nouns) mattu ankitanAma (common nouns) naDuvina bedava
 
 *(ಪ್ರತ್ಯಯವಿರುವ ನಾಮಪದಗಳು)*
 
-ee aDDyAya pustakadinaduva maha-vistAradadu. idu esaka padagaLinda hesaru padagaLannu, hesaru padagaLinda hesaru padagaLannu, parice padagaLinda hesaru padagaLannu tOLeda utpAdaka padavoTTugaLannu vistAravAgi vargIsuttade. kenDa 4.3 adalli paTTi 10 oTTugaLannu vivarisi esaka-mUlinda hesaru padagaLannu tOLedukOLLuttade:
+ee adyAya pustakadinaduva maha-vistAradadu. idu esaka padagaLinda hesaru padagaLannu, hesaru padagaLinda hesaru padagaLannu, parice padagaLinda hesaru padagaLannu tOLeda utpAdaka padavoTTugaLannu vistAravAgi vargIsuttade. kenDa 4.3 adalli paTTi 10 oTTugaLannu vivarisi esaka-mUlinda hesaru padagaLannu tOLedukOLLuttade:
 
 - **-ike/-ige (ಇಕೆ/ಇಗೆ):** ee oTTu kannaDigaLali adhika utpAdaka mattu anek-artha. kArya-hesarugaLannu (hogaLike "praise"), pariNAma-hesarugaLannu (kettike "carving"), sAdhana/vastu-hesarugaLannu (moLake "sprout") sxSTisuttade. ee oTTu konDu vivEcaneyalli vibakti oTTAgiyu bALuttade.
 - **-ta/-t (ತ/ತ್):** kArya-hesarugaLannu sxSTisuttade (kuNita "dancing", nageta "laughter").
@@ -107,11 +107,11 @@ kenDa 4.4 hesaru-padinda hesaru-pada-sxSTi (noun-from-noun derivation) vivarisi,
 
 *(ಜೋಡುಪದಗಳು)*
 
-ee aDDyAya kannaDigaLalli jODike (compounding) emba vistAradavAda cintane mADuttade. modalina kenDagaLu (5.1–5.3) jODupada mattu ee mUru viSayagaLa naDuvina viparyAsagaLannu sparSisuttave: (a) kevaLa eraDu padagaLannu jODisida kantegaLu, (b) prattaya iruva padagaLu, mattu (c) mAlu-nuDi/dvandvagaLu. aDDyAya nantara nAlku vargIkaraNa mAnagaLannu koDuttade.
+ee adyAya kannaDigaLalli jODike (compounding) emba vistAradavAda cintane mADuttade. modalina kenDagaLu (5.1–5.3) jODupada mattu ee mUru viSayagaLa naDuvina viparyAsagaLannu sparSisuttave: (a) kevaLa eraDu padagaLannu jODisida kantegaLu, (b) prattaya iruva padagaLu, mattu (c) mAlu-nuDi/dvandvagaLu. adyAya nantara nAlku vargIkaraNa mAnagaLannu koDuttade.
 
-amsagaLa sankhyeyinda vargIkaraNa (5.6.1): kannaD jODupadagaLu eraDu-amsagaLavAgirutte (binary). modalina amsada pada-gumpininda vargIkaraNa (5.6.2): ee adika mukyavAda mAna, mUru mukhya bageya jODupadagaLu sriSTAvAguttave: (a) hesaru + hesaru yA hesaru + esaka (modalina amsu hesaru pada), (b) esaka + hesaru yA esaka + esaka (modalina amsu esaka pada), mattu (c) parice + hesaru (modalina amsu parice pada). eraDaneyada amsada vividhateyinda vargIkaraNa (5.6.3). "kEndra-bindu" (head) sthAnada vargIkaraNa (5.6.4): kannaD jODupadagaLalli kEndra-bindu kaDeya amsu Agirabahudu (right-headed), Adare konDu jODupadagaLu "bahirstha" (exocentric) Agiruttave — kEndra-bindu eraDU amsugaLAgiruvadittu.
+amsagaLa sankhyeyinda vargIkaraNa (5.6.1): kannaDa jODupadagaLu eraDu-amsagaLavAgirutte (binary). modalina amsada pada-gumpininda vargIkaraNa (5.6.2): ee adika mukyavAda mAna, mUru mukhya bageya jODupadagaLu sriSTAvAguttave: (a) hesaru + hesaru yA hesaru + esaka (modalina amsu hesaru pada), (b) esaka + hesaru yA esaka + esaka (modalina amsu esaka pada), mattu (c) parice + hesaru (modalina amsu parice pada). eraDaneyada amsada vividhateyinda vargIkaraNa (5.6.3). "kEndra-bindu" (head) sthAnada vargIkaraNa (5.6.4): kannaDa jODupadagaLalli kEndra-bindu kaDeya amsu Agirabahudu (right-headed), Adare konDu jODupadagaLu "bahirstha" (exocentric) Agiruttave — kEndra-bindu eraDU amsugaLAgiruvadittu.
 
-kenDa 5.7 padagaLu jODuvAga jaraguva dvani-badala-gOnnu vivisuttade: eraDaneyada padakkAguvudu (5.7.1) mattu modalina padakkAguvudu (5.7.2). kenDa 5.8 samskxta-samAsa-vargIkaraNe (tatpuruSa, dvandva, bahuvrIhi, avyayibhAva, karmadhaAraya) kannaD jODupadagaLige hEge tattalAguvudilla mattu hEge kannaD vAstavadannu virUpagOLisuttade endu vimarsa-saha vivEcisuttade.
+kenDa 5.7 padagaLu jODuvAga jaraguva dvani-badala-gOnnu vivisuttade: eraDaneyada padakkAguvudu (5.7.1) mattu modalina padakkAguvudu (5.7.2). kenDa 5.8 samskxta-samAsa-vargIkaraNe (tatpuruSa, dvandva, bahuvrIhi, avyayibhAva, karmadhaAraya) kannaDa jODupadagaLige hEge tattalAguvudilla mattu hEge kannaDa vAstavadannu virUpagOLisuttade endu vimarsa-saha vivEcisuttade.
 
 ---
 
@@ -119,9 +119,9 @@ kenDa 5.7 padagaLu jODuvAga jaraguva dvani-badala-gOnnu vivisuttade: eraDaneyada
 
 *(ಕ್ರಿಯಾಪದಗಳ ಒಳರಚನೆ)*
 
-kannaD esaka padagaLu hesaru padagaLiginta rachane-dxSTiyalli bEre. adhika prAthamika esaka padagaLu oLaracane illada mUla-rUpagaLe. aDDyAya 6.1 esaka padagaLa kArya-yA-nele-sxSTiyannu vivarisi, avukke bALatanarivu (agent, patient, location, time) bEkAguttade endu hELuttade. samskxta "kriyasamAsa" emba tatta kannaDigaLige hEge mIti-tattalAguttade endU konDu gantavyannu tOrisuttade.
+kannaDa esaka padagaLu hesaru padagaLiginta rachane-dxSTiyalli bEre. adhika prAthamika esaka padagaLu oLaracane illada mUla-rUpagaLe. adyAya 6.1 esaka padagaLa kArya-yA-nele-sxSTiyannu vivarisi, avukke bALatanarivu (agent, patient, location, time) bEkAguttade endu hELuttade. samskxta "kriyasamAsa" emba tatta kannaDigaLige hEge mIti-tattalAguttade endU konDu gantavyannu tOrisuttade.
 
-kenDa 6.2 oLaracane-illada esaka padagaLannu (simplex verbs) varisuttade — indinA kannaDigaLalli pratyekaLa utpatti kANada mUla-rUpagaLu. kenDa 6.3 purAtana oTTugaLannu (fossil affixes) vivarisi, onde kArya mADuttiddAga -cu antAha oTTugaLu indu utpAdaka alladannu hELuttade. kenDa 6.4 sAdyava utpAdaka -isu antAha kAraka-oTTannu varisuttade — antaKkriyA esaka padagaLinda kAraka-esaka padagaLannu sxSTisuttade (muLugu "to sink" → muLugisu "to cause to sink"). kenDa 6.5 kUDupadagaLannu (ಕೂಡುಪದಗಳು / verbal compounds) vivarisi, hesaru yA parice amsagaLu esaka padadi sEraganuvagina aDDyAya-5 da jODupadagaLiginta bEre rItiyalli artha-sxSTi mADuttave endu tOrisuttade.
+kenDa 6.2 oLaracane-illada esaka padagaLannu (simplex verbs) varisuttade — indinA kannaDigaLalli pratyekaLa utpatti kANada mUla-rUpagaLu. kenDa 6.3 purAtana oTTugaLannu (fossil affixes) vivarisi, onde kArya mADuttiddAga -cu antAha oTTugaLu indu utpAdaka alladannu hELuttade. kenDa 6.4 sAdyava utpAdaka -isu antAha kAraka-oTTannu varisuttade — antaKkriyA esaka padagaLinda kAraka-esaka padagaLannu sxSTisuttade (muLugu "to sink" → muLugisu "to cause to sink"). kenDa 6.5 kUDupadagaLannu (ಕೂಡುಪದಗಳು / verbal compounds) vivarisi, hesaru yA parice amsagaLu esaka padadi sEraganuvagina adyAya-5 da jODupadagaLiginta bEre rItiyalli artha-sxSTi mADuttave endu tOrisuttade.
 
 ---
 
@@ -129,7 +129,7 @@ kenDa 6.2 oLaracane-illada esaka padagaLannu (simplex verbs) varisuttade — ind
 
 *(ಗುಣಪದಗಳ ಒಳರಚನೆ)*
 
-parice padagaLu (ಪರಿಚೆಪದ / ಗುಣಪದ) mUru mukhya pada-gumpugaLalli adika saraLavAda oLaracane hondivave. kannaD parice padagaLu prAthamika (mUla, sriSTA-illada) Agirabahudu — biLi (white), doDD (big), oLLe (good) antAhavugaLu — yA hesaru mattu esaka padagaLinda svalpa-prattayagaLa mUlaka sxSTi Agirabahudu. kenDa 7.1 kannaD parice padagaLu linga, vacana, vibaktikkAgE baddalAguvadittu endu mukyavAda tatta-dxSTiyalli tOrisuttade — idu samskxta guNa-padagaLiginta pramukha bedavAda viSaya.
+parice padagaLu (ಪರಿಚೆಪದ / ಗುಣಪದ) mUru mukhya pada-gumpugaLalli adika saraLavAda oLaracane hondivave. kannaDa parice padagaLu prAthamika (mUla, sriSTA-illada) Agirabahudu — biLi (white), doDD (big), oLLe (good) antAhavugaLu — yA hesaru mattu esaka padagaLinda svalpa-prattayagaLa mUlaka sxSTi Agirabahudu. kenDa 7.1 kannaDa parice padagaLu linga, vacana, vibaktikkAgE baddalAguvadittu endu mukyavAda tatta-dxSTiyalli tOrisuttade — idu samskxta guNa-padagaLiginta pramukha bedavAda viSaya.
 
 kenDa 7.2 parice pada upa-bheTagaLa naDuvina sUkShma bedagaLannu — sthira dharmagaLannu varisuvavugaLu (kappu "black") mattu hEra-krama-sambandhita dharmagaLannu varisuvavugaLu naDuvina bedannu — vivarisi. kenDa 7.3 parice padagaLu tALuva mUla rUpagaLannu varisuttade: hala ekamAtravAgide; konDu mAlu-nuDigaLAgide; konDu hesaru padagaLinda -a yA bErE oTTu sErisidiruttave. kenDa 7.4 bErE pada-gumpugaLinda parice padagaLannu sxSTisalu upayOgavAguvudu dEra svalpa oTTugaLannu — hesaru-sxSTi oTTugaLa sankhyeyinta adika kaDime endu — vivarsi.
 
@@ -139,9 +139,9 @@ kenDa 7.2 parice pada upa-bheTagaLa naDuvina sUkShma bedagaLannu — sthira dhar
 
 *(ಎರವಲಾಗಿ ಬಂದ ಪದಗಳ ಒಳರಚನೆ)*
 
-ee aDDyAya bErE nuDigaLinda, mukhyavAgi samskxtinda, kannaDigaLige eravalu banda padagaLannu sparSisuttade. kenDa 8.1 eravalu (borrowing) sAmAnya vidindamannu vivEcisi: bEre bEre bageya eravalugaLannu (8.1.1) vivarisi, tatsama padagaLu (samskxta-mUla dvani-badala illa upayogi padagaLu) mattu tadbava padagaLu (samskxta-mUla dvani-sampUrNa kannaDigaLIkaraNa padagaLu) naDuvina bedannu (8.1.2) hELi, eravalu padagaLalli dvani-badalakkAguvudu yAkE embu (8.1.3) vivarisi, eravalu mADuvAga pada-gumpu saDasyatva hEge baddalAgutte endU (8.1.4) sparSisuttade.
+ee adyAya bErE nuDigaLinda, mukhyavAgi samskxtinda, kannaDigaLige eravalu banda padagaLannu sparSisuttade. kenDa 8.1 eravalu (borrowing) sAmAnya vidindamannu vivEcisi: bEre bEre bageya eravalugaLannu (8.1.1) vivarisi, tatsama padagaLu (samskxta-mUla dvani-badala illa upayogi padagaLu) mattu tadbava padagaLu (samskxta-mUla dvani-sampUrNa kannaDigaLIkaraNa padagaLu) naDuvina bedannu (8.1.2) hELi, eravalu padagaLalli dvani-badalakkAguvudu yAkE embu (8.1.3) vivarisi, eravalu mADuvAga pada-gumpu saDasyatva hEge baddalAgutte endU (8.1.4) sparSisuttade.
 
-kenDa 8.2 eravalu padagaLa oLaracane vivarisi: (8.2.1) avara oLaracane native kannaD padagaLa oLaracaneyinta hEge bEre Agirabahudu, (8.2.2) mUla-nuDiya vyAkaraNa-niyama eravalu-rUpada oLagE hEge uLidiruttade, mattu (8.2.3) kannaD-native vivEcanA-mAnagaLu eravalu padagaLannu hEge vAyuttave embadannu. kenDa 8.3 viSeSatah samskxta eravalugannu keLibam: (8.3.1) samskxta mattu kannaD upayOgadi ondu mUlada bEre pada-gumpu sadasyatva, (8.3.2) samskxta munnoTTugaLu mattu prattayagaLu eravalundi kannaDigaLige senDuvudu, (8.3.3) esaka-mUlada bedagaLu, mattu (8.3.4) eravalu samskxta prattayagaLa kannaDigaLalli utpAdakata. kenDagaLu 8.4–8.6 eravalu prattaya-pada (munnoTTu 8.4.1, prattaya 8.4.2, dvani-badala 8.4.3), eravalu esaka pada (8.5), mattu eravalu jODupada (8.6) sparSisuttade.
+kenDa 8.2 eravalu padagaLa oLaracane vivarisi: (8.2.1) avara oLaracane native kannaDa padagaLa oLaracaneyinta hEge bEre Agirabahudu, (8.2.2) mUla-nuDiya vyAkaraNa-niyama eravalu-rUpada oLagE hEge uLidiruttade, mattu (8.2.3) kannaDa-native vivEcanA-mAnagaLu eravalu padagaLannu hEge vAyuttave embadannu. kenDa 8.3 viSeSatah samskxta eravalugannu keLibam: (8.3.1) samskxta mattu kannaDa upayOgadi ondu mUlada bEre pada-gumpu sadasyatva, (8.3.2) samskxta munnoTTugaLu mattu prattayagaLu eravalundi kannaDigaLige senDuvudu, (8.3.3) esaka-mUlada bedagaLu, mattu (8.3.4) eravalu samskxta prattayagaLa kannaDigaLalli utpAdakata. kenDagaLu 8.4–8.6 eravalu prattaya-pada (munnoTTu 8.4.1, prattaya 8.4.2, dvani-badala 8.4.3), eravalu esaka pada (8.5), mattu eravalu jODupada (8.6) sparSisuttade.
 
 ---
 
@@ -149,15 +149,15 @@ kenDa 8.2 eravalu padagaLa oLaracane vivarisi: (8.2.1) avara oLaracane native ka
 
 *(ಮುಕ್ತಾಯ)*
 
-muktAya aDDyAya pustakadinaduva mukhya tIrmAnagaLannu sErisuttade mattu kannaD-native vyAkaraNa-parampareyanu kaTTalu naDeyuva doDDa yOjaneyalli idu elli nintu embadannu dOrisuttade. baT avaru hEge pratiyu pada-gumpu — hesaru padagaLu, esaka padagaLu, parice padagaLu — avara svanta raci-vyavasthe, avara svanta utpAdaka prattayagaLu, avara svanta jODike-vicAragaLu hondivave endu sArAmsa mADuttAre. hesaru pada-racaneyalli (aDDyAyagaLu 3–5) vividhatA mattu utpAdakata parice-pada-racaneyalli (aDDyAya 7) mattu kArana-prErita esaka-pada-racaneyalli (aDDyAya 6) adika saraLavAda racaneginta virodhISAhavAda vyatyAsavannu tOrisuttade.
+muktAya adyAya pustakadinaduva mukhya tIrmAnagaLannu sErisuttade mattu kannaDa-native vyAkaraNa-parampareyanu kaTTalu naDeyuva doDDa yOjaneyalli idu elli nintu embadannu dOrisuttade. baT avaru hEge pratiyu pada-gumpu — hesaru padagaLu, esaka padagaLu, parice padagaLu — avara svanta raci-vyavasthe, avara svanta utpAdaka prattayagaLu, avara svanta jODike-vicAragaLu hondivave endu sArAmsa mADuttAre. hesaru pada-racaneyalli (adyAyagaLu 3–5) vividhatA mattu utpAdakata parice-pada-racaneyalli (adyAya 7) mattu kArana-prErita esaka-pada-racaneyalli (adyAya 6) adika saraLavAda racaneginta virodhISAhavAda vyatyAsavannu tOrisuttade.
 
-eraDu sahasrama varSagaLu kannaD vyAkaraNakAraru samskxta-vyAkaraNa sAdhana-gArannu (pANinIya lOpa, AgAma, AdEsa; samAsa-vargIkaraNe; kAraka-paddhati) upayogi-mADuttA bandidare. ee sAdhana-gAru, baT avaru vAdisuvarente, kannaD hEge naDeyuttade embadale vyavasthita virUpagaLannu sxSTisiddave. ee pustakadinaduva kaDedabiTTa kannaD-native oLaracane-vicAra — oTTu, padoTTu, padarUpadoTTu, jODupada, hesaru pada / esaka pada / parice pada anta svalpa parigaLannu upayOgisi — dravIDiya varNanAtmaka nuDi-arikattu (descriptive linguistics) kaDe ondu adangU. pustaka biblio-graphy mattu viSaya-nirdeshadondige mugiyuttade.
+eraDu sahasrama varSagaLu kannaDa vyAkaraNakAraru samskxta-vyAkaraNa sAdhana-gArannu (pANinIya lOpa, AgAma, AdEsa; samAsa-vargIkaraNe; kAraka-paddhati) upayogi-mADuttA bandidare. ee sAdhana-gAru, baT avaru vAdisuvarente, kannaDa hEge naDeyuttade embadale vyavasthita virUpagaLannu sxSTisiddave. ee pustakadinaduva kaDedabiTTa kannaDa-native oLaracane-vicAra — oTTu, padoTTu, padarUpadoTTu, jODupada, hesaru pada / esaka pada / parice pada anta svalpa parigaLannu upayOgisi — dravIDiya varNanAtmaka nuDi-arikattu (descriptive linguistics) kaDe ondu adangU. pustaka biblio-graphy mattu viSaya-nirdeshadondige mugiyuttade.
 
 ---
 
 ## mukhya pari-paLa-sUci (Key Terms Glossary)
 
-| kannaD baraha | Eke baraha | artha |
+| kannaDa baraha | Eke baraha | artha |
 |---|---|---|
 | ಒಳರಚನೆ | oLaracane | internal structure |
 | ಪದ | pada | word |
@@ -191,4 +191,4 @@ eraDu sahasrama varSagaLu kannaD vyAkaraNakAraru samskxta-vyAkaraNa sAdhana-gAra
 
 ---
 
-*ee dastavEju Di. En. sankara baT avarA "kannaD padagaLa oLaracane" (2014) pustakadinaduva Eke baraha-rUpadi samyOjita saramsa. mUla kannaD baraha [03-kannada-padagala-olarachane-kn.md](./03-kannada-padagala-olarachane-kn) dalli mattu English saramsa [03-kannada-padagala-olarachane-en.md](./03-kannada-padagala-olarachane-en) dalli kANabahudu.*
+*ee dastavEju Di. En. sankara baT avarA "kannaDa padagaLa oLaracane" (2014) pustakadinaduva Eke baraha-rUpadi samyOjita saramsa. mUla kannaDa baraha [03-kannada-padagala-olarachane-kn.md](./03-kannada-padagala-olarachane-kn) dalli mattu English saramsa [03-kannada-padagala-olarachane-en.md](./03-kannada-padagala-olarachane-en) dalli kANabahudu.*

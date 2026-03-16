@@ -258,7 +258,7 @@ mandigaLannu hesarisuvA hosa padagaLannu unTumADuvuddakkAgi kannaDadalli hecca b
 
 [kannaDa →](./02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-4-3) | [ingliS →](./02-kannadadalle-hosapadagalannu-kattuva-bage-en#parts-45--verb-to-noun)
 
--ga/-iga oTTu "esaka naDasuva" mandigaLannu hesarisuttade. Adare "esaka naDediddavannu" hesarisuvA kannadakkE -ee (trainee, employee) ge sATiyAda ondu oTTilla. ingliSalli eraDu baga: naDasuva (doer) mattu naDedidda (done-to). kannaDadalli heccina "naDesu" — rUDidalli OdugoLgA — esaka padagaLige -ga/-iga oTTu sErisidaga "naDasuva" mandiyannu hesarisuttade. hAgAgi "oLagAguga" (receiver, passive participant) hesarisuvAgaLu innu arimeyalli carceyAguttide.
+-ga/-iga oTTu "esaka naDasuva" mandigaLannu hesarisuttade. Adare "esaka naDediddavannu" hesarisuvA kannadakkE -ee (trainee, employee) ge sATiyAda ondu oTTilla. ingliSalli eraDu bAga: naDasuva (doer) mattu naDedidda (done-to). kannaDadalli heccina "naDesu" — rUDidalli OdugoLgA — esaka padagaLige -ga/-iga oTTu sErisidaga "naDasuva" mandiyannu hesarisuttade. hAgAgi "oLagAguga" (receiver, passive participant) hesarisuvAgaLu innu arimeyalli carceyAguttide.
 
 ---
 
@@ -358,7 +358,7 @@ hesarupadadinda "tajJa" illi "paricaya" mandiyannu hesarisuvA hesarupada kaTTuva
 
 [kannaDa →](./02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-7-2) | [ingliS →](./02-kannadadalle-hosapadagalannu-kattuva-bage-en#part-7--noun-to-noun)
 
-hesarupadadinda bEre hesarupadakke baDalAyisikoLLalubaruva -olaviga oTTu "olava uLLavanu" enbA huruLu koDuttade. udAharaNakke: kannaDa + olaviga = kannaDOlaviga (Kannada-lover), nuDi + olaviga = nuDiolaviga (language enthusiast). hesarupada gurtisuvA pAngigu mattu adakke oTTu sErisi paDeda kaTTupada gurtisuvA mandigu naDuvinalliruva sambandavannu hecca khacitavAgi tiLisalIkke hesarupadadondige hesaka padavannu balasuLagabbadu.
+hesarupadadinda bEre hesarupadakke baDalAyisikoLLalubaruva -olaviga oTTu "olava uLLavanu" enbA huruLu koDuttade. udAharaNakke: kannaDa + olaviga = kannaDaOlaviga (Kannada-lover), nuDi + olaviga = nuDiolaviga (language enthusiast). hesarupada gurtisuvA pAngigu mattu adakke oTTu sErisi paDeda kaTTupada gurtisuvA mandigu naDuvinalliruva sambandavannu hecca khacitavAgi tiLisalIkke hesarupadadondige hesaka padavannu balasuLagabbadu.
 
 ---
 
@@ -480,7 +480,7 @@ hottige sambandiside ingliSalli ex, fore, post, pre, inter, re, neo, paleo mattu
 
 [kannaDa →](./02-kannadadalle-hosapadagalannu-kattuva-bage-kn#sec-11-1) | [ingliS →](./02-kannadadalle-hosapadagalannu-kattuva-bage-en#parts-1112--negation-prefixes)
 
-allageLeta munnOTTugaLu: ingliSalli ondu pada tiLisuvA huruLannu allageLeyala illi adara eduru huruLannu tiLisala in, anti, de, dis, in, no, non mattu un enbA Elu munnOTTugaLannu baLasuLaguttave. kannaDadalli eraDu baga: "illa" (absolute absence) mattu "alla" (contrastive negation). I eraDarA naDuvina viSiSTa vyatyAsavannu kannaDa allagaLeyata viSlESaNeyalli kAyabEku. ingliSalli bitta "not" onduE; kannaDadalli "illada" vs "allada" eraDU baLakeyalliruva paristhiti — I dakke sATiyAda vyavasthe bEre nuDigaLalli illavendu baT tOriskoDuttAre.
+allageLeta munnOTTugaLu: ingliSalli ondu pada tiLisuvA huruLannu allageLeyala illi adara eduru huruLannu tiLisala in, anti, de, dis, in, no, non mattu un enbA Elu munnOTTugaLannu baLasuLaguttave. kannaDadalli eraDu bAga: "illa" (absolute absence) mattu "alla" (contrastive negation). I eraDarA naDuvina viSiSTa vyatyAsavannu kannaDa allagaLeyata viSlESaNeyalli kAyabEku. ingliSalli bitta "not" onduE; kannaDadalli "illada" vs "allada" eraDU baLakeyalliruva paristhiti — I dakke sATiyAda vyavasthe bEre nuDigaLalli illavendu baT tOriskoDuttAre.
 
 ---
 

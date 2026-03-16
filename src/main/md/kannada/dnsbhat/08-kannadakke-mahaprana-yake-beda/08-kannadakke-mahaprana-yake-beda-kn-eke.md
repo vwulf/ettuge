@@ -11,12 +11,12 @@
 
 ## oLapiDi
 
-- [adhyAya 1 — munnOTa](#ch1)
+- [adyAya 1 — munnOTa](#ch1)
   - [1.1 kannaDa barahadalli bEDadiruva barigegaLu](#sec-1-1)
   - [1.2 Oduva mattu bareyuva aLavu](#sec-1-2)
   - [1.3 barahavannu kaliyadiralu kAraNagaLu](#sec-1-3)
   - [1.4 baravaNigeya toDaku](#sec-1-4)
-- [adhyAya 2 — Oduva hAge bareyuvudu](#ch2)
+- [adyAya 2 — Oduva hAge bareyuvudu](#ch2)
   - [2.1 baravaNigeya ALa](#sec-2-1)
   - [2.2 kannaDa baravaNigeya ALa](#sec-2-2)
   - [2.3 kannaDa barahadalli samskxta padagaLu](#sec-2-3)
@@ -25,7 +25,7 @@
   - [2.6 samskxtada eravalu padagaLa baravaNige](#sec-2-6)
   - [2.7 hanta hantavAgi baLakege taruvudu](#sec-2-7)
   - [2.8 samskxta padagaLu mArbaDade uLidilla](#sec-2-8)
-- [adhyAya 3 — baravaNigeyannu saripaDisikonDiruva nuDigaLu](#ch3)
+- [adyAya 3 — baravaNigeyannu saripaDisikonDiruva nuDigaLu](#ch3)
   - [3.1 munnOTa](#sec-3-1)
   - [3.2 koriyan nuDiya baravaNige](#sec-3-2)
   - [3.3 panjAbi nuDiya baravaNige](#sec-3-3)
@@ -33,7 +33,7 @@
   - [3.5 jarman nuDiya baravaNige](#sec-3-5)
   - [3.6 TarkiS nuDiya baravaNige](#sec-3-6)
   - [3.7 asamIs nuDiya baravaNige](#sec-3-7)
-- [adhyAya 4 — saripaDikeya edurikegaLu](#ch4)
+- [adyAya 4 — saripaDikeya edurikegaLu](#ch4)
   - [4.1 saripaDikeya prayOjanagaLu](#sec-4-1)
   - [4.2 tusuhottina tondaregaLu](#sec-4-2)
   - [4.3 heccu barigegaLiruvudu SrImantikeyalla](#sec-4-3)
@@ -44,7 +44,7 @@
   - [4.8 eraDu sAvira varSagaLa parampare](#sec-4-8)
   - [4.9 samskxtakke hindidda hirime indilla](#sec-4-9)
   - [4.10 baraha mattu samskxti](#sec-4-10)
-- [adhyAya 5 — muktAya](#ch5)
+- [adyAya 5 — muktAya](#ch5)
   - [5.1 sAmAjika nyAya](#sec-5-1)
   - [5.2 kannaDaddE Ada padagaLa baLake](#sec-5-2)
   - [5.3 kaliyuva oLa ottaDa](#sec-5-3)
@@ -54,7 +54,7 @@
 
 <a id="ch1"></a>
 
-# adhyAya 1 — munnOTa
+# adyAya 1 — munnOTa
 [↑ oLapiDige hintirugi](#oLapiDi)
 
 ---
@@ -363,7 +363,7 @@ pasuge(adyAya)gaLalli tiLisalAgide.
 
 <a id="ch2"></a>
 
-# adhyAya 2 — Oduva hAge bareyuvudu
+# adyAya 2 — Oduva hAge bareyuvudu
 
 
 [↑ oLapiDige hintirugi](#oLapiDi)
@@ -1155,7 +1155,7 @@ avannu A rIti Odalu baruvudillavalla!
 
 <a id="ch3"></a>
 
-# adhyAya 3 — baravaNigeyannu saripaDisikonDiruva nuDigaLu
+# adyAya 3 — baravaNigeyannu saripaDisikonDiruva nuDigaLu
 [↑ oLapiDige hintirugi](#oLapiDi)
 
 ---
@@ -1314,7 +1314,7 @@ yallU badalAguttave:
 | samskxta | panjAbi | samskxta | panjAbi |
 |---|---|---|---|
 | Sabda | Sabada | vidyA | vidia |
-| Sakti | Sakati | adhyAya | adhiAya |
+| Sakti | Sakati | adyAya | adhiAya |
 | bhakti | bhakati | anta | anta |
 
 samskxtada ottu barigegaLalli baruva yakAra panjAbi
@@ -1664,7 +1664,7 @@ mADiruva I badalAvaNegaLu oLLeya ettugegaLAgive.
 
 <a id="ch4"></a>
 
-# adhyAya 4 — saripaDikeya edurikegaLu
+# adyAya 4 — saripaDikeya edurikegaLu
 
 
 [↑ oLapiDige hintirugi](#oLapiDi)
@@ -2461,7 +2461,7 @@ kannaDa barahagaLalli illa vAgiDe.
 
 <a id="ch5"></a>
 
-# adhyAya 5 — muktAya
+# adyAya 5 — muktAya
 
 [↑ oLapiDige hintirugi](#oLapiDi)
 
