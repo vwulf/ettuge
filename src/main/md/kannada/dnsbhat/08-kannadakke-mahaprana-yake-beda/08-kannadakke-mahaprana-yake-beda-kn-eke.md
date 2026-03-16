@@ -1555,7 +1555,7 @@ sAdyavAyitendu hELalAguttide.
 sAkaSTu cannAgidda ondu nuDiya baravaNigeyannu kelavu
 panDitaru sErikonDu, nuDiya kuritAgi tammallidda
 ajnAnadindAgi, tumbA sikkalu sikkalAda baravaNigeyAgi
-mArbaDisiruvudakke asamIs‌ (basomiya) nuDiya
+mArbaDisiruvudakke asamIs‌ (bhAShomiya) nuDiya
 baravaNige ondu oLLeya ettugeyAgaballudu.
 
 asamIs‌ baravaNigeyannu kriSciyan‌ miSanarigaLu A
@@ -1565,7 +1565,7 @@ adannu kalisuvudakkAgi oLLeya kalikepustakagaLannU avaru
 tayArisiddaru. idaralli padagaLannu Oduva hAgeyE
 bareyalAguttittu.
 
-Adare, bAratakke svAtantrya banda mEle, kelavaru
+Adare, bhAratakke svAtantrya banda mEle, kelavaru
 asamIs‌ panDitaru o ra sEri, miSanarigaLu baLasu
 ttiruva baravaNigeyalli asamIs‌ padagaLigiruva
 samskxtada mUlarUpavannu sariyAgi sUcisalAguvudilla
@@ -2087,7 +2087,7 @@ uligaLE illa. hAgAgi, avannu kannaDa nuDiyalli
 mArbaDisuva illavE kannaDa nuDiyinda tegedu hAkuva
 praSneyE illi ELuvudilla.
 
-nuDi illavE bASe embudu mukhyavAgi mAtallade
+nuDi illavE bhAShe embudu mukhyavAgi mAtallade
 barahavalla. hAgAgi, barahadalli mADuva yAva
 vyatyAsavU nEravAgi mAtannu illavE nuDiyannu
 tAguvudilla. idallade, mEle sUcisida mArbADugaLu
@@ -2353,7 +2353,7 @@ ankuka amSusa amiSha amisa
 siSkamSa sissanka dOSha dOsa
 papu pasu nimiSha simisa
 SarSara sakkare kESha sEsa
-aSAka arasa bhAShe bAs‌
+aSAka arasa bhAShe bhASh‌
 
 haLegannaDadalli mahAprANa barigegaLiralilla. hAgAgi,
 samskxta padagaLalli kANisuva mahAprANa barigegaLannu

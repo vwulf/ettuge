@@ -30,9 +30,9 @@
 
 **bhAga P6 (canna kannaDa):**
 
-halo halo banDugaLE, indu nAvu kannaDa vyAkaraNada bagge mAtanADONa. kannaDa bASeya vyAkaraNa bahaLa mukhyavAdudu. nAvu kannaDa bASeyannu sariyAgi kaliyabEku. indu namma carceyalli padagaLa vibhAga, hesaru padagaLu, kriyA padagaLu ivugaLa bagge mAtanADONa. kannaDa vyAkaraNadalli vivida anSagaLive.
+halo halo banDugaLE, indu nAvu kannaDa vyAkaraNada bagge mAtanADONa. kannaDa bhASheya vyAkaraNa bahaLa mukhyavAdudu. nAvu kannaDa bhASheyannu sariyAgi kaliyabEku. indu namma carceyalli padagaLa vibhAga, hesaru padagaLu, kriyA padagaLu ivugaLa bagge mAtanADONa. kannaDa vyAkaraNadalli vivida anSagaLive.
 
-nAvu avanu sariyAgi artha maDikOLabEku. karnATakada kannaDa bASe bahaLa SrImantu bASe. idoralli aneka viSeStategalive.
+nAvu avanu sariyAgi artha maDikOLabEku. karnATakada kannaDa bhAShe bahaLa SrImantu bhAShe. idoralli aneka viSeStategalive.
 
 > *(bhAgagaLu P1–P5 dorakalavillDa / kannaDavagalilla — YouTube auto-captions kannaDavallalike)*
 
@@ -159,14 +159,14 @@ DNS baT I rUpagaLannu haLeya kannaDada T, D pratyaya rUpagaLige joDisuttAre.
 
 **bhAga 33 (canna kannaDa):**
 
-halo halo banDugaLE, nAnu Di.en.es baT. indu nAvu kannaDa vyAkaraNada bagge carcisONa. kannaDa bASeyalli padagaLa vargIkaraNa mattu avugaLa baLakeya bagge tiLidukOLLONa.
+halo halo banDugaLE, nAnu Di.en.es baT. indu nAvu kannaDa vyAkaraNada bagge carcisONa. kannaDa bhASheyalli padagaLa vargIkaraNa mattu avugaLa baLakeya bagge tiLidukOLLONa.
 
 **muKya parikaLpanegaLu (Eke):**
 
 | kannaDa lipi | Eke | artha |
 |---|---|---|
 | ಹವ್ಯಕ ಕನ್ನಡ | havyaka kannaDa | havyaka kannaDa oLanuDi |
-| ಒಳನುಡಿ | oLanuDi | oLanuDi / upabASe |
+| ಒಳನುಡಿ | oLanuDi | oLanuDi / upabhAShe |
 | ಹಳೆಗನ್ನಡ | haLegannaDa | haLeya kannaDa |
 | ಬರೆಹ ಕನ್ನಡ | bareha kannaDa | baraha / prayoga kannaDa |
 | ಹಾಲಕೀ ಕನ್ನಡ | hAlakI kannaDa | hAlakI gauDa kannaDa |

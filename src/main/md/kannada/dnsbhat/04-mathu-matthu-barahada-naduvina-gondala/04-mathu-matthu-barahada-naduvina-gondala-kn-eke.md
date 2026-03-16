@@ -13,11 +13,11 @@
 
 - [viShaya 1 — nuDi mAtu: baraha nuDiyalla](#theme-1)
 - [viShaya 2 — baraha caritra: baraha hEge banditu](#theme-2)
-- [viShaya 3 — bASe kalika: svAbAvika mAtu, kaLisa baraha](#theme-3)
+- [viShaya 3 — bhAShe kalika: svAbAvika mAtu, kaLisa baraha](#theme-3)
 - [viShaya 4 — baraha mattu AlOcane badalAvaNe](#theme-4)
-- [viShaya 5 — drAviDa bASe kuTumba](#theme-5)
+- [viShaya 5 — drAviDa bhAShe kuTumba](#theme-5)
 - [viShaya 6 — baraha suDAraNe: mAtu-baraha antaravanu kaDime mADuvu](#theme-6)
-- [viShaya 7 — bASe jIvanta mattu sAvu](#theme-7)
+- [viShaya 7 — bhAShe jIvanta mattu sAvu](#theme-7)
 
 ---
 
@@ -39,9 +39,9 @@ barahavanu makkaLige kalisabEkAguttade — AdakaLena, adu samaya kaLedante ella 
 
 ingliSinalli "language" emba pada lATin "lingua" (nAlige) indinda bandiruvu. I ettugeyu nuDi embudu mAtu embudanu tOruttade. baraha sumAru nAlku sAvira varSagaLa hindE SumEra mattu cIneyalli ArambavAyitu. kanna Dada mAtu A himde halavAru sAvira varSagaLu hanneya. mAtu modalu; baraha nantara.
 
-**bhAga 3 (samskxta — satta bASe):**
+**bhAga 3 (samskxta — satta bhAShe):**
 
-samskxta halavAru varSagaLinda svalpa badalAvaNe Agilla. adu jIvanta bASeyalla; baraha mAtra. kannaDa bASe kAla kALakke badalAvaNe AnOnDiruttade — haLeya kannaDa, naaDu kannaDa, nUtana kannaDa — ivu sAkSi. samskxta pANinIya vyAkaraNa niyama avanu "ninda biDuttade" — jIvanta bASe hAgeya sADyavilla.
+samskxta halavAru varSagaLinda svalpa badalAvaNe Agilla. adu jIvanta bhASheyalla; baraha mAtra. kannaDa bhAShe kAla kALakke badalAvaNe AnOnDiruttade — haLeya kannaDa, naaDu kannaDa, nUtana kannaDa — ivu sAkSi. samskxta pANinIya vyAkaraNa niyama avanu "ninda biDuttade" — jIvanta bhAShe hAgeya sADyavilla.
 
 > *(bhAga 1 kannaDavagalilla; bhAga 2 svalpa kannaDavagalilla — muKya bhAvagaLu dorakive)*
 
@@ -57,7 +57,7 @@ samskxta halavAru varSagaLinda svalpa badalAvaNe Agilla. adu jIvanta bASeyalla; 
 
 baraha vyavasthe eraDu mukhya bhAgava: pada lipi (pratipadakke ondu cihne — cIna) mattu svana lipi (svanagaLannu pratiniDuvudu — kannaDa, ingliS).
 
-bAratadalli heccina lipigaLu brAmI lipiyinda beLedubandive. brAmI lipi uccAraNa aDipAyada mElE kankara vyanjana gaLannu paTTi mADide: ka ga Na / ca ja Na / Ta Da Na / ta da na / pa ba ma. I vaiJJAnika rIti.
+bhAratadalli heccina lipigaLu brAmI lipiyinda beLedubandive. brAmI lipi uccAraNa aDipAyada mElE kankara vyanjana gaLannu paTTi mADide: ka ga Na / ca ja Na / Ta Da Na / ta da na / pa ba ma. I vaiJJAnika rIti.
 
 mAtu modalu; baraha annantara. kannaDa mAtannu bareyuva kElasa sumAru eraDu sAvira varSagaLa hindE ArambavAyitu. adarE mAtu halavAru sAvira varSagaLinda svantantra nuDiyAgi iDe.
 
@@ -67,7 +67,7 @@ mAtu modalu; baraha annantara. kannaDa mAtannu bareyuva kElasa sumAru eraDu sAvi
 
 <a id="theme-3"></a>
 
-## viShaya 3 — bASe kalika: svAbAvika mAtu, kaLisa baraha
+## viShaya 3 — bhAShe kalika: svAbAvika mAtu, kaLisa baraha
 
 *bhAgagaLu 13–14*
 
@@ -113,7 +113,7 @@ bAyitanada jangaLU barehadha jangaLU eraDU onde samAjadalli iruvAga — barehadh
 
 <a id="theme-5"></a>
 
-## viShaya 5 — drAviDa bASe kuTumba
+## viShaya 5 — drAviDa bhAShe kuTumba
 
 *bhAgagaLu 27–32*
 
@@ -121,11 +121,11 @@ bAyitanada jangaLU barehadha jangaLU eraDU onde samAjadalli iruvAga — barehadh
 
 **bhAga 27 (canna kannaDa — drAviDa kuTumba):**
 
-kannaDa mattu tamiLu eraDU drAviDa bASe — ondE mUla drAviDa bASeyindinda bandive. kannaDa munce bErEyAyitu — A nantara tamiLu, maLayALa, tuLu, koDagu ivugaLu bErEyAyiduve.
+kannaDa mattu tamiLu eraDU drAviDa bhAShe — ondE mUla drAviDa bhASheyindinda bandive. kannaDa munce bErEyAyitu — A nantara tamiLu, maLayALa, tuLu, koDagu ivugaLu bErEyAyiduve.
 
 I sambandha hEge sAbitAguttade? stira uli hOlike mULaka: kannaDadalli reTroflex T iruvade, tamiLudalli t AguturuttaDE — I hOlike krama (niyamita). I niyamita uli hOlikeyE kuTumba sambandhada sAkSi.
 
-samskxtadinda kannaDa bandide embudu tappAda tiLuvALike. kAraNa: kannaDa mattu samskxta naDuve vyAkaraNa, uli, mUla padakoSa — eliaDaLU vyatyAsa bahaLa dUra. kannaDa drAviDa bASe; samskxta indo-yUrOpiyan bASe.
+samskxtadinda kannaDa bandide embudu tappAda tiLuvALike. kAraNa: kannaDa mattu samskxta naDuve vyAkaraNa, uli, mUla padakoSa — eliaDaLU vyatyAsa bahaLa dUra. kannaDa drAviDa bhAShe; samskxta indo-yUrOpiyan bhAShe.
 
 **bhAgagaLu 29–32 (drAviDa pada hOlike):**
 
@@ -149,7 +149,7 @@ samskxta tatsama padagaLu nantara kannaDakke sEriduve; I padagaLu drAviDa uli vy
 
 I rIti vyatyAsagaLu eLLade AguturuttaDE: baraha ondu kALadalli sthiragOnDabiDuttade, mAtu badalAguttA hOguttade. ingliSinalli ee samasyave: "knight", "rough", "though" — baraha 15ne ShatabmAnada uccAraNeyanu haniDiruvu, nantara mAtu badalAyitu, baraha badalAgalilla.
 
-pOrcugiS likhana panDigaLu sUDhAraNe mADi baraha-mAtu antaravanu kaDime mADigiddAre. jarmani, DAniSH bASe gaLallu sarkar baraha suDAraNegaLu naDeyisidave.
+pOrcugiS likhana panDigaLu sUDhAraNe mADi baraha-mAtu antaravanu kaDime mADigiddAre. jarmani, DAniSH bhAShe gaLallu sarkar baraha suDAraNegaLu naDeyisidave.
 
 kannaDada svantada padagaLu samasyEyinda bErE tappisikonDive — kannaDa padagaLannu uccAraNEga anugaNave bareyuvudu. adarE samskxta Adalike padagaLannu samskxta baraha niyamadale bareyabEku annuvudu kaSTada niyama. makkaLige ee padagaLa baraha kaLisuvaLLi heccina kaTTa aguttade.
 
@@ -159,26 +159,26 @@ kannaDada svantada padagaLu samasyEyinda bErE tappisikonDive — kannaDa padagaL
 
 <a id="theme-7"></a>
 
-## viShaya 7 — bASe jIvanta mattu sAvu
+## viShaya 7 — bhAShe jIvanta mattu sAvu
 
 *bhAgagaLu 39–44*
 
 [📼 bhAgagaLu 39–44 →](./04-mathu-matthu-barahada-naduvina-gondala#part-39)
 
-**bhAga 43 (canna kannaDa — satta bASe mattu aLida bASe):**
+**bhAga 43 (canna kannaDa — satta bhAShe mattu aLida bhAShe):**
 
-bASe jIvantavAguvarEge makkaLu avanu tAyinuDiyAgi kalidukoLLuttAre — talaemArininda talaemArige badalAvaNE terukonDu sAguturuttaDE. ee rIti sAguva bASe "jIvanta bASe".
+bhAShe jIvantavAguvarEge makkaLu avanu tAyinuDiyAgi kalidukoLLuttAre — talaemArininda talaemArige badalAvaNE terukonDu sAguturuttaDE. ee rIti sAguva bhAShe "jIvanta bhAShe".
 
-samskxta makkaLige shAlEgaLalli kaLisuttAre — adarE avaru A bASeyanu biTTu tamma tAyinuDige tiruguttAre. samskxta pANinI vyAkaraNa niyama biddukOnDiruvudu — badalAvaNE AguvudillE. AdakaLena adu "satta bASe".
+samskxta makkaLige shAlEgaLalli kaLisuttAre — adarE avaru A bhASheyanu biTTu tamma tAyinuDige tiruguttAre. samskxta pANinI vyAkaraNa niyama biddukOnDiruvudu — badalAvaNE AguvudillE. AdakaLena adu "satta bhAShe".
 
-lATin kUDa satta bASe — satta endudarE aLidilla: vATikan, kaTolik cerci, viduvanmanDali adu bareyuttidE. adarE yAru makkaLu lATinnu tAyinuDiyAgi kalidukoLLuvudilla.
+lATin kUDa satta bhAShe — satta endudarE aLidilla: vATikan, kaTolik cerci, viduvanmanDali adu bareyuttidE. adarE yAru makkaLu lATinnu tAyinuDiyAgi kalidukoLLuvudilla.
 
-tamiLunADu sarkAru samskxta satta bASe endu hELidadu sari. cennay ucca nyAyAlaya tIrpAvu tappAda tIrpAvu.
+tamiLunADu sarkAru samskxta satta bhAShe endu hELidadu sari. cennay ucca nyAyAlaya tIrpAvu tappAda tIrpAvu.
 
 **bhAga 44 (samAropti — eraDu suDAraNegaLu):**
 
 kannaDa bareha mAtininda dUra sAritide — eraDu kAraNagaLindinda:
-(1) samskxta eravalu padagaLa heccu — kannaDigaru eraDanEya bASe ivugaLa hAke bALasuttide
+(1) samskxta eravalu padagaLa heccu — kannaDigaru eraDanEya bhAShe ivugaLa hAke bALasuttide
 (2) ee eravalu padagaLannu samskxta baraha niyamadale bareyabEku enba kaTraLe — makkaLige ee padagaLa baraha kalisuvaLLi heccina kaTTa AguttAre
 
 eraDu mArpADigaLannu mADidale:
@@ -197,11 +197,11 @@ ee mArpADigaLu kannaDa bareha kalivaLLi mattu baLasivaLLi sUlabavAgabahu — eLL
 |---|---|---|
 | ಮಾತು ಮತ್ತು ಬರಹ | mAtu mattu baraha | mAtu mattu baraha |
 | ಗೊಂದಲ | gondala | gondala / takarar |
-| ನುಡಿ / ಭಾಷೆ | nuDi / bASe | bASe |
+| ನುಡಿ / ಭಾಷೆ | nuDi / bhAShe | bhAShe |
 | ಕ್ರುತಕ ರೂಪ | krutaka rUpa | krutaka rUpa (artificial form) |
-| ಜೀವಂತ ಭಾಷೆ | jIvanta bASe | jIvanta bASe |
-| ಸತ್ತ ಭಾಷೆ | satta bASe | satta bASe (dead language) |
-| ಅಳಿದ ಭಾಷೆ | aLida bASe | aLida bASe (extinct language) |
+| ಜೀವಂತ ಭಾಷೆ | jIvanta bhAShe | jIvanta bhAShe |
+| ಸತ್ತ ಭಾಷೆ | satta bhAShe | satta bhAShe (dead language) |
+| ಅಳಿದ ಭಾಷೆ | aLida bhAShe | aLida bhAShe (extinct language) |
 | ದ್ರಾವಿಡ | drAviDa | drAviDa |
 | ಮಾರ್ಪಾಡು | mArpADu | mArpADu / badalAvaNe |
 | ಎರವಲು ಪದ | eravalu pada | Adalike pada |

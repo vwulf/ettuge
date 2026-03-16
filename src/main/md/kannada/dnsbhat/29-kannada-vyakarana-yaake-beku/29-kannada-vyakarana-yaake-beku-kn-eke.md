@@ -3,7 +3,7 @@
 **mukhyavAda viSaya:** kannaDa sollarime upayOga — akSarate, baraha, anuvAda, nuDihammuge, mAtina tondaregaLu
 **kartaru:** Di. En. sankara bhaT
 **prakaTane:** 2009
-**mudraka:** bASa prakasana, heggoDu, sAgara
+**mudraka:** bhASha prakasana, heggoDu, sAgara
 **nuDi:** kannaDa (hosa baraha — ba→b, da→d tara saraLa baraha)
 **TippaNi:** ee pustakadi adhyAyagaLannu "pasuge" endu keredukoLLuttAre, "adhyAya" alla
 **mUla:** [English](./29-kannada-vyakarana-yaake-beku-en)
@@ -40,7 +40,7 @@ ee mustakada mukhya kELike: sollarimeyanu tiLiyuvudu niyamagaLannu bAyi-pATha mA
 
 *(ಓದು-ಬರಹದ ಕಲಿಕೆ)*
 
-akSarate karpuvagala sollarimeyA jnAna yAke upayOgavAguttade? uli (phoneme) mattu barige (grapheme) naDuvina sambandha tiLiyuvudu — idu bAseyarimeya viSaya, adannu akSarate-guruvarigE tiLivuvudu nantara bEdA endu baT vAdisutte. ADunuDi (mAtanADuvuDu) mattu baraha naDuvina bedavanu tiLidu makkLige karpisu bEku — makkLa oLanADu tappalla, kElpa-nuDigaLa bEdadantarA baraha-mAnaka adana kannaDigaLa nuDiyannu "tappu" endu tOrisuvudu bAseyarime dxSTiyalli tappAdade. doDD makkaLige akSarate karpuvagala oLanADu (dialect) mattu baraha-nuDi (standard/written form) naDuvina bedannu spaSTapadisidarE kali-bhAra adhika salavasAguttade. uli-barige jODi gurtisala bAseyarimeya neleyu doDD sahAya mADuttade endu baT hELuttAre.
+akSarate karpuvagala sollarimeyA jnAna yAke upayOgavAguttade? uli (phoneme) mattu barige (grapheme) naDuvina sambandha tiLiyuvudu — idu bhASheyarimeya viSaya, adannu akSarate-guruvarigE tiLivuvudu nantara bEdA endu baT vAdisutte. ADunuDi (mAtanADuvuDu) mattu baraha naDuvina bedavanu tiLidu makkLige karpisu bEku — makkLa oLanADu tappalla, kElpa-nuDigaLa bEdadantarA baraha-mAnaka adana kannaDigaLa nuDiyannu "tappu" endu tOrisuvudu bhASheyarime dxSTiyalli tappAdade. doDD makkaLige akSarate karpuvagala oLanADu (dialect) mattu baraha-nuDi (standard/written form) naDuvina bedannu spaSTapadisidarE kali-bhAra adhika salavasAguttade. uli-barige jODi gurtisala bhASheyarimeya neleyu doDD sahAya mADuttade endu baT hELuttAre.
 
 ---
 
@@ -56,7 +56,7 @@ akSarate karpuvagala sollarimeyA jnAna yAke upayOgavAguttade? uli (phoneme) matt
 
 *(ಅರಿಮೆಯ ಬರಹಗಳು)*
 
-arimeya baraha (academic writing) kannaDigaLalli entu kaSTavAguttade? samskxta pada (Sanskrit loanword) adhika baLasuvudu, sikkalusollugaLu (tangled sentences), mattu mArpuruLu (passive voice) timbidantAda kararu (text) odugarige gabarUvAgi biDuttade. arimeya pada (technical terms) barehuvagala sollarimeyA arime bEku — arimeya padakke ella bEkAdaru artha-nirdishTateyirirutande, sikkala-sollu allade spaSTa sollu rachisabEku embu. sollarime kannaDigaLalliruva mArpuruLu-nirmANa (passive construction) hEge jaruguttade embu tiLidukovudale barehuvagala ee tondare nivarisabahudu. konDu bAvukaru samskxta padagaLannu aTTu kaDiyadE baLasuttAre — adU ondu tantragArike endu eNisabahudAdarU — adannu kaviyondE saripadisabahudu.
+arimeya baraha (academic writing) kannaDigaLalli entu kaSTavAguttade? samskxta pada (Sanskrit loanword) adhika baLasuvudu, sikkalusollugaLu (tangled sentences), mattu mArpuruLu (passive voice) timbidantAda kararu (text) odugarige gabarUvAgi biDuttade. arimeya pada (technical terms) barehuvagala sollarimeyA arime bEku — arimeya padakke ella bEkAdaru artha-nirdishTateyirirutande, sikkala-sollu allade spaSTa sollu rachisabEku embu. sollarime kannaDigaLalliruva mArpuruLu-nirmANa (passive construction) hEge jaruguttade embu tiLidukovudale barehuvagala ee tondare nivarisabahudu. konDu bhAvukaru samskxta padagaLannu aTTu kaDiyadE baLasuttAre — adU ondu tantragArike endu eNisabahudAdarU — adannu kaviyondE saripadisabahudu.
 
 ---
 
@@ -64,7 +64,7 @@ arimeya baraha (academic writing) kannaDigaLalli entu kaSTavAguttade? samskxta p
 
 *(ನಲ್ಬರಹಗಳು ಮತ್ತು ಸೊಲ್ಲರಿಮೆ)*
 
-nalbaraha (creative literature) barehuvagala lekhakanu gaNaNIyavAgi sollarimeyininda tappakkovADuttAne — ee sankalpa-purvaka "tappa" sollarimeyA Im-tahi avagAhana bEku. nATakagaLalli pAtra-pAtragaLa oLanADu (dialects) tOrisu bEkAguttade — adakke ellA upabAse (oLanuDi)gaLa vyAkaraNa tiLidu biDabEku. kUriyAyisida natanagaLa naDuvina matanADike-samvAda nATakadinAdu spaSTavAgi kANisuvadale sollarimeyA jnAna lEkhakarige sahAya mADuttade. sollu-jODaNe (sentence cohesion) kavita mattu gadyadi bEre bEre rItiyalli kAryanirvahistade — ee bEdavannu tiLida nalbaraha barehuvagala baT avaru ullEkhisuttAre.
+nalbaraha (creative literature) barehuvagala lekhakanu gaNaNIyavAgi sollarimeyininda tappakkovADuttAne — ee sankalpa-purvaka "tappa" sollarimeyA Im-tahi avagAhana bEku. nATakagaLalli pAtra-pAtragaLa oLanADu (dialects) tOrisu bEkAguttade — adakke ellA upabhAShe (oLanuDi)gaLa vyAkaraNa tiLidu biDabEku. kUriyAyisida natanagaLa naDuvina matanADike-samvAda nATakadinAdu spaSTavAgi kANisuvadale sollarimeyA jnAna lEkhakarige sahAya mADuttade. sollu-jODaNe (sentence cohesion) kavita mattu gadyadi bEre bEre rItiyalli kAryanirvahistade — ee bEdavannu tiLida nalbaraha barehuvagala baT avaru ullEkhisuttAre.
 
 ---
 

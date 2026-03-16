@@ -3,7 +3,7 @@
 **mukhyavAda viSaya:** kannaDa padagaLa oLaracane, pada-gumpugaLu, prattayagaLu, jODupadagaLu
 **kartaru:** Di. En. sankara bhaT
 **prakaTane:** 2014
-**mudraka:** bASa prakasana
+**mudraka:** bhASha prakasana
 **paTagaLu:** 239
 **nuDi:** kannaDa
 **mUla:** [English](./03-kannada-padagala-olarachane-en)

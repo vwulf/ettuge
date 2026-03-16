@@ -3,7 +3,7 @@
 **mukhyavAda viSaya:** kannaData baragada sollarime, pada-gumpugaLu, padarUpagaLu, sOLLugaLa iTTaLa
 **kartaru:** Di. En. sankara bhaT
 **prakaTane:** 2010 (eraDU samputagaLU)
-**mudraka:** bASa prakasana, heggODu, sAgara
+**mudraka:** bhASha prakasana, heggODu, sAgara
 **samputagaLu:** 2 (samputa 1: aD. 1–4; samputa 2: aD. 5–9)
 **nuDi:** kannaDa (hosa baraha)
 **mUla:** [English](./07-kannadada-sollarime-en)

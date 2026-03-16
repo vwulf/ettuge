@@ -255,15 +255,15 @@ aboriginal   pa  buDakaTTina (Ake ondu buDakaTTina
                  janara nuDiyannu kaliyabEkendiddALe)
              he  buDakaTTina mandi
 
-abort        e   mayyiLisu, basiriLisu (magu koreyuLLu-
+abort        e   mayyiLisu, bhAShiriLisu (magu koreyuLLu-
                  dendU gottAdudarinda Akege
-                 basiriLisabEkAyitu)
+                 bhAShiriLisabEkAyitu)
 
 abortion     he  mayyiLita (Akege aydanE tingaLalli
-                 mayyiLitavunTAyitu), basiriLita
+                 mayyiLitavunTAyitu), bhAShiriLita
 
-abortionist  he  basiriLisuga (Ake yArigU tiLiyada
-                 hAge basiriLisugana llige hOgiddaLu)
+abortionist  he  bhAShiriLisuga (Ake yArigU tiLiyada
+                 hAge bhAShiriLisugana llige hOgiddaLu)
 
 abortive     pa  gellada, tErada, tErgedeyAgada,
                  paDapu dorakada

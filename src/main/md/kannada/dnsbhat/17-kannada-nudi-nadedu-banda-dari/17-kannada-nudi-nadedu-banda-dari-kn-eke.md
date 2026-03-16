@@ -3,7 +3,7 @@
 **mukhyavAda viSaya:** mUladravIDadinda naDugannaDigaLavarige kannaDa nuDiya dvani-caritra mattu vyAkaraNa-caritra
 **kartaru:** Di. En. sankara bhaT
 **prakaTane:** 2007
-**mudraka:** bASa prakasana
+**mudraka:** bhASha prakasana
 **nuDi:** kannaDa (hosa baraha)
 **mUla:** [English](./17-kannada-nudi-nadedu-banda-dari-en)
 

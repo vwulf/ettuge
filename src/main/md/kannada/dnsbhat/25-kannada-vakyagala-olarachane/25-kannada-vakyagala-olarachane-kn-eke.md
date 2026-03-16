@@ -3,7 +3,7 @@
 **mukhyavAda viSaya:** kannaDa vAkyagaLa oLaracane, kriyAvAkya, viSayavAkya, gaTakagaLu, oLavAkyagaLu, jODaNe
 **kartaru:** Di. En. sankara bhaT
 **prakaTane:** 2004 (modalina mudraNa), 2006 (eraDaneyadu), 2012 (mUraneyadu)
-**mudraka:** bASa prakasana, Araga, tIrtahaLLi
+**mudraka:** bhASha prakasana, Araga, tIrtahaLLi
 **paTagaLu:** ~277
 **nuDi:** kannaDa
 **mUla:** [English](./25-kannada-vakyagala-olarachane-en)
