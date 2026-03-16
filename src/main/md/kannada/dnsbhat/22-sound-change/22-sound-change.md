@@ -69,10 +69,10 @@ Sound change is central to understanding:
 
 | Work | Connection |
 |------|-----------|
-| [08 — Kannadakke Mahaprana Yake Beda](../08-kannadakke-mahaprana-yake-beda/) | Applied phonology: merger of aspirated/unaspirated in Kannada |
-| [14 — Nijakku Halegannada Vyakarana](../14-nijakku-halegannada-vyakarana-entahadu/) | Historical: Old Kannada phonological system |
+| [08 — Kannadakke Mahaprana Yake Beda](../08-kannaDakke-mahAprANa-yAke-bEDa/) | Applied phonology: merger of aspirated/unaspirated in Kannada |
+| [14 — Nijakku Halegannada Vyakarana](../14-nijakkU-haLegannaDa-vyAkaraNa-entahadu/) | Historical: Old Kannada phonological system |
 | [19 — The Koraga Language](../19-the-koraga-language/) | Applied: comparative Koraga-Tulu-Dravidian phonology |
-| [26 — ಉಲಿ-ಮಾರ್ಪಾಡಿನ ಗೆರೆಗಳು](../26-uli-marpadina-geregalu/) | Kannada popular version of the same theory |
+| [26 — ಉಲಿ-ಮಾರ್ಪಾಡಿನ ಗೆರೆಗಳು](../26-uli-mArpADina-geregaLu/) | Kannada popular version of the same theory |
 
 ## Collection Status
 

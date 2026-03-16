@@ -28,6 +28,9 @@ defaults:
     values:
       layout: "default"
 
+plugins:
+  - jekyll-redirect-from
+
 exclude:
   - Gemfile
   - Gemfile.lock

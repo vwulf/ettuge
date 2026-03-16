@@ -345,10 +345,10 @@ The grammar concludes with a classified vocabulary (glossary), providing Havyaka
 
 | Related Book | Connection |
 |---|---|
-| [09 — Havyaka Kannada](../09-havyaka-kannada/) | Companion Kannada-language popular work on the same dialect by the same author |
+| [09 — Havyaka Kannada](../09-havyaka-kannaDa/) | Companion Kannada-language popular work on the same dialect by the same author |
 | [19 — The Koraga Language](../19-the-koraga-language/) | Companion 1971 monograph from the same fieldwork period and same Deccan College series |
-| [03 — Kannada Padagala Olarachane](../03-kannada-padagala-olarachane/) | Bhat's word-morphology framework, applicable to the nominal derivation described here |
-| [25 — Kannada Vakyagala Olarachane](../25-kannada-vakyagala-olarachane/) | Bhat's sentence-structure framework, relevant to the syntax section |
+| [03 — Kannada Padagala Olarachane](../03-kannaDa-padagaLa-oLaracane/) | Bhat's word-morphology framework, applicable to the nominal derivation described here |
+| [25 — Kannada Vakyagala Olarachane](../25-kannaDa-vAkyagaLa-oLaracane/) | Bhat's sentence-structure framework, relevant to the syntax section |
 | [24 — Grammatical Relations](../24-grammatical-relations/) | Theoretical framework Bhat later developed, rooted in fieldwork like this |
 
 ---

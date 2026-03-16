@@ -50,8 +50,14 @@ jobs:
           def fm(**fields):
               lines = ['---']
               for k, v in fields.items():
-                  val = f'"{v}"' if isinstance(v, str) else str(v).lower()
-                  lines.append(f'{k}: {val}')
+                  if isinstance(v, list):
+                      lines.append(f'{k}:')
+                      for item in v:
+                          lines.append(f'  - {item}')
+                  elif isinstance(v, str):
+                      lines.append(f'{k}: "{v}"')
+                  else:
+                      lines.append(f'{k}: {str(v).lower()}')
               lines.append('---\n')
               return '\n'.join(lines)
 
@@ -62,6 +68,18 @@ jobs:
           def read_field(fm_text, key):
               m = re.search(rf'^{key}:\s*"?(.+?)"?\s*$', fm_text, re.MULTILINE)
               return m.group(1).strip('"') if m else None
+
+          def get_redirect_from(content):
+              """Extract redirect_from list from frontmatter, or None."""
+              if not content.startswith('---\n'):
+                  return None
+              m = re.match(r'^---\n(.*?)\n---\n', content, re.DOTALL)
+              if not m:
+                  return None
+              rf_m = re.search(r'^redirect_from:\n((?:  - .+\n?)+)', m.group(1), re.MULTILINE)
+              if rf_m:
+                  return re.findall(r'  - (.+)', rf_m.group(0))
+              return None
 
           # ── Create section index pages ────────────────────────────────────
           for title, order, fname, desc in SECTIONS:
@@ -103,10 +121,14 @@ jobs:
               def write_section_entry(suffix, section_title):
                   with open(p(suffix)) as f:
                       content = f.read()
+                  redirect_from = get_redirect_from(content)
                   content = strip_fm(content)
+                  fm_args = dict(title=book_title, parent=section_title,
+                                 nav_order=book_num)
+                  if redirect_from:
+                      fm_args['redirect_from'] = redirect_from
                   with open(p(suffix), 'w') as f:
-                      f.write(fm(title=book_title, parent=section_title,
-                                 nav_order=book_num))
+                      f.write(fm(**fm_args))
                       f.write(content)
 
               # English: en.md > blog.md > main.md (YouTube fallback)
@@ -188,15 +210,19 @@ jobs:
               if yt_toc:
                   body_parts.append(f'\n---\n\n## YouTube Lectures\n\n{yt_toc}\n')
 
-              # Front matter for landing page
+              # Front matter for landing page — preserve redirect_from if present
+              redirect_from_landing = get_redirect_from(orig)
               if en_fallback:
                   # This page IS the English sidebar entry
-                  landing_fm = fm(title=book_title, parent='English Summaries',
-                                  nav_order=book_num)
+                  lf_args = dict(title=book_title, parent='English Summaries',
+                                 nav_order=book_num)
               else:
                   # Accessed from Home page only — not in sidebar
-                  landing_fm = fm(title=book_title, nav_order=raw_order,
-                                  nav_exclude=True)
+                  lf_args = dict(title=book_title, nav_order=raw_order,
+                                 nav_exclude=True)
+              if redirect_from_landing:
+                  lf_args['redirect_from'] = redirect_from_landing
+              landing_fm = fm(**lf_args)
 
               with open(main_md, 'w') as f:
                   f.write(landing_fm + ''.join(body_parts))

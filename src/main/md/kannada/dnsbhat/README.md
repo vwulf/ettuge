@@ -76,7 +76,7 @@
 - **ವಿಶಯ / Topic:** A unified Kannada grammar described from Kannada's own structural logic — not Sanskrit or English
 - **ಮೂಲ / Source:** YouTube transcript (Malati Bhat reading)
 - **ಗುಣಮಟ್ಟ / Quality:** Good (49 lines — partial transcript)
-- **ಕಡತ / Folder:** [01-idu-kannadade-vyakarana/](./01-idu-kannadade-vyakarana/)
+- **ಕಡತ / Folder:** [01-idu-kannaDaddE-vyAkaraNa/](./01-idu-kannaDaddE-vyAkaraNa/)
 - **ಸಂಬಂಧ / Relation:** Synthesizes all 7 volumes of *Kannada Barahada Sollarime* (→ 07)
 
 **Key Thesis:** Existing Kannada grammars are not truly Kannada grammars — they impose Sanskrit frameworks on a language with fundamentally different structure. Bhat introduces native Kannada grammatical terminology: *hesaru pada* (noun), *esaka pada* (verb), *paricharana pada* (adjective).
@@ -90,7 +90,7 @@
 - **ವಿಶಯ / Topic:** Word-formation in Kannada using native Dravidian roots and affixes
 - **ಮೂಲ / Source:** YouTube transcript + dnshankarabhat.net blog (Wayback Machine)
 - **ಗುಣಮಟ್ಟ / Quality:** Good (519 lines transcript + **6,469 lines blog text**)
-- **ಕಡತ / Folder:** [02-kannadadalle-hosapadagalannu-kattuva-bage/](./02-kannadadalle-hosapadagalannu-kattuva-bage/)
+- **ಕಡತ / Folder:** [02-kannaDadalle-hosapadagaLannu-kaTTuva-bage/](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage/)
 
 **Files in folder:**
 | File | Contents |
@@ -121,7 +121,7 @@
 - **ವಿಶಯ / Topic:** Morphology — how Kannada words are internally structured
 - **ಮೂಲ / Source:** YouTube transcript
 - **ಗುಣಮಟ್ಟ / Quality:** Good (605 lines)
-- **ಕಡತ / Folder:** [03-kannada-padagala-olarachane/](./03-kannada-padagala-olarachane/)
+- **ಕಡತ / Folder:** [03-kannaDa-padagaLa-oLaracane/](./03-kannaDa-padagaLa-oLaracane/)
 
 **Key Content:**
 - Kannada has three independent base categories: nouns, verbs, adjectives (unlike Sanskrit's verb-root primacy)
@@ -140,7 +140,7 @@
 - **ವಿಶಯ / Topic:** The fundamental distinction between spoken language and written script
 - **ಮೂಲ / Source:** YouTube transcript (44 parts)
 - **ಗುಣಮಟ್ಟ / Quality:** ⚠️ Partial — ~25/44 parts cleaned (~57%); Parts 10, 15, 25, 33, 35 disabled; many garbled
-- **ಕಡತ / Folder:** [04-mathu-matthu-barahada-naduvina-gondala/](./04-mathu-matthu-barahada-naduvina-gondala/)
+- **ಕಡತ / Folder:** [04-mAtu-mattu-barahada-naDuvina-gondala/](./04-mAtu-mattu-barahada-naDuvina-gondala/)
 
 **Files in folder:**
 | File | Contents |
@@ -165,7 +165,7 @@
 - **ವಿಶಯ / Topic:** Popular introduction to general linguistics for Kannada readers
 - **ಮೂಲ / Source:** YouTube transcript (37 parts)
 - **ಗುಣಮಟ್ಟ / Quality:** ✅ Good — ~27/37 parts cleaned (~73%); Parts 4, 6, 12, 15, 22, 29, 30, 35 disabled or garbled
-- **ಕಡತ / Folder:** [05-mathina-olaguttu/](./05-mathina-olaguttu/)
+- **ಕಡತ / Folder:** [05-mAtina-oLaguTTu/](./05-mAtina-oLaguTTu/)
 
 **Files in folder:**
 | File | Contents |
@@ -187,7 +187,7 @@
 - **ವಿಶಯ / Topic:** Language acquisition — how children learn language vs. how adults learn second languages
 - **ಮೂಲ / Source:** YouTube transcript
 - **ಗುಣಮಟ್ಟ / Quality:** ❌ Heavily corrupted (197 lines — mostly garbled)
-- **ಕಡತ / Folder:** [06-kalikenudi-matthu-nudikalike/](./06-kalikenudi-matthu-nudikalike/)
+- **ಕಡತ / Folder:** [06-kalikenuDi-mattu-nuDikalike/](./06-kalikenuDi-mattu-nuDikalike/)
 
 ---
 
@@ -200,7 +200,7 @@
 - **Website URLs:** Volumes 1, 2, and 7 linked on dnshankarabhat.net
 - **ಮೂಲ / Source:** Website (offline) + YouTube transcripts
 - **ಗುಣಮಟ್ಟ / Quality:** ⚠️ Partial/corrupted (227 lines; website offline)
-- **ಕಡತ / Folder:** [07-kannadada-sollarime/](./07-kannadada-sollarime/)
+- **ಕಡತ / Folder:** [07-kannaDa-barahada-sollarime/](./07-kannaDa-barahada-sollarime/)
 
 **Volume Structure:**
 - Vol. 1: Phonology — sounds and scripts (*Kannada Barahada Sollarime 1*)
@@ -222,7 +222,7 @@
 - **ಪುಟಗಳು / Pages:** 102
 - **ಮೂಲ / Source:** [Internet Archive](https://archive.org/details/arn.kannadakkemahaap0000dnsh) — PDF + DjVu OCR
 - **ಗುಣಮಟ್ಟ / Quality:** ✅ **Full text available** (4,243 lines book.md + 1,965 lines djvu.md)
-- **ಕಡತ / Folder:** [08-kannadakke-mahaprana-yake-beda/](./08-kannadakke-mahaprana-yake-beda/)
+- **ಕಡತ / Folder:** [08-kannaDakke-mahAprANa-yAke-bEDa/](./08-kannaDakke-mahAprANa-yAke-bEDa/)
 
 **Files in folder:**
 | File | Contents |
@@ -254,7 +254,7 @@
 - **ವಿಶಯ / Topic:** Popular Kannada account of the Havyaka dialect, its geography, history, and phonological/morphological features
 - **ಮೂಲ / Source:** YouTube transcript (43 parts: P1–P6 preamble + Parts 1–37)
 - **ಗುಣಮಟ್ಟ / Quality:** ⚠️ Partial — ~72/88 transcript slots cleaned (~82%); early parts (1–14) most affected; best content in Parts 11, 27–29
-- **ಕಡತ / Folder:** [09-havyaka-kannada/](./09-havyaka-kannada/)
+- **ಕಡತ / Folder:** [09-havyaka-kannaDa/](./09-havyaka-kannaDa/)
 - **See also:** [20 — Havyaka Outline Grammar 1971](./20-havyaka-outline-grammar/) (academic English version)
 
 **Files in folder:**
@@ -279,7 +279,7 @@
 - **ವಿಶಯ / Topic:** Historical development of Kannada — its Dravidian roots, Sanskrit influence, and evolution
 - **ಮೂಲ / Source:** YouTube transcript
 - **ಗುಣಮಟ್ಟ / Quality:** ⚠️ Heavily corrupted (131 lines)
-- **ಕಡತ / Folder:** [10-kannada-nudiya-hinnadavali/](./10-kannada-nudiya-hinnadavali/)
+- **ಕಡತ / Folder:** [10-kannaDa-nuDiya-hinnaDavaLi/](./10-kannaDa-nuDiya-hinnaDavaLi/)
 
 ---
 
@@ -290,7 +290,7 @@
 - **ವಿಶಯ / Topic:** Orthographic problems in Kannada — the script vs. the language
 - **ಮೂಲ / Source:** YouTube transcript
 - **ಗುಣಮಟ್ಟ / Quality:** ❌ Heavily corrupted (253 lines)
-- **ಕಡತ / Folder:** [11-kannada-barahada-padasamasye/](./11-kannada-barahada-padasamasye/)
+- **ಕಡತ / Folder:** [11-kannaDa-barahada-padasamasye/](./11-kannaDa-barahada-padasamasye/)
 
 ---
 
@@ -301,7 +301,7 @@
 - **ವಿಶಯ / Topic:** A speculative/reconstructed history of Kannada and its speakers
 - **ಮೂಲ / Source:** YouTube transcript
 - **ಗುಣಮಟ್ಟ / Quality:** ✅ Good (29 lines — short excerpt)
-- **ಕಡತ / Folder:** [12-kannada-bhasheya-kalpita-charitre/](./12-kannada-bhasheya-kalpita-charitre/)
+- **ಕಡತ / Folder:** [12-kannaDa-bhASheya-kalpita-caritre/](./12-kannaDa-bhASheya-kalpita-caritre/)
 
 ---
 
@@ -312,7 +312,7 @@
 - **ವಿಶಯ / Topic:** The historical journey of Kannada from Proto-Dravidian to the present
 - **ಮೂಲ / Source:** dnshankarabhat.net (offline; not yet archived in Wayback Machine)
 - **ಗುಣಮಟ್ಟ / Quality:** ❌ Not yet collected
-- **ಕಡತ / Folder:** [17-kannada-nudi-nadedu-banda-dari/](./17-kannada-nudi-nadedu-banda-dari/)
+- **ಕಡತ / Folder:** [17-kannaDa-nuDi-naDeDu-banda-dAri/](./17-kannaDa-nuDi-naDeDu-banda-dAri/)
 
 ---
 
@@ -323,7 +323,7 @@
 - **ವಿಶಯ / Topic:** Reflections on Kannada's status, future, and the responsibilities of its speakers
 - **ಮೂಲ / Source:** dnshankarabhat.net (Wayback Machine — blog posts)
 - **ಗುಣಮಟ್ಟ / Quality:** ✅ **13 blog posts collected** (883 lines, 206,239 bytes)
-- **ಕಡತ / Folder:** [18-kannada-nudiya-bagege-chintane/](./18-kannada-nudiya-bagege-chintane/)
+- **ಕಡತ / Folder:** [18-kannaDa-nuDiya-bagege-cintane/](./18-kannaDa-nuDiya-bagege-cintane/)
 
 **Files in folder:**
 | File | Contents |
@@ -354,7 +354,7 @@
 - **ವಿಶಯ / Topic:** English words and their native Kannada equivalents (without Sanskrit mediation)
 - **ಮೂಲ / Source:** PDF sample (`English-KannadaPadanerakeSample.pdf`) — hybrid extraction (pdfminer + wx_decode)
 - **ಗುಣಮಟ್ಟ / Quality:** ⚠️ **Sample only** — covers A–Az (84,475 Kannada chars, 3,454 lines); full 730-page book not yet obtained
-- **ಕಡತ / Folder:** [15-inglish-kannada-padanerake/](./15-inglish-kannada-padanerake/)
+- **ಕಡತ / Folder:** [15-ingliS-kannaDa-padanerake/](./15-ingliS-kannaDa-padanerake/)
 
 **Files in folder:**
 | File | Contents |
@@ -387,7 +387,7 @@
 - **ವಿಶಯ / Topic:** Native Kannada replacements for Sanskrit-derived linguistic terminology
 - **ಮೂಲ / Source:** dnshankarabhat.net (offline)
 - **ಗುಣಮಟ್ಟ / Quality:** ❌ Not yet collected
-- **ಕಡತ / Folder:** [16-samskruta-padagalige-kannadade-padagalu/](./16-samskruta-padagalige-kannadade-padagalu/)
+- **ಕಡತ / Folder:** [16-nuDiyarimeya-padagaLige-kannaDaddE-padagaLu/](./16-nuDiyarimeya-padagaLige-kannaDaddE-padagaLu/)
 
 **Known Terminology (from cross-references in other works):**
 | Sanskrit | Bhat's Kannada | English |
@@ -412,7 +412,7 @@
 - **ವಿಶಯ / Topic:** Survey of historical Kannada grammar and literature
 - **ಮೂಲ / Source:** YouTube transcript
 - **ಗುಣಮಟ್ಟ / Quality:** ❌ Heavily corrupted (49 lines)
-- **ಕಡತ / Folder:** [13-dharege-doddavaru/](./13-dharege-doddavaru/)
+- **ಕಡತ / Folder:** [13-dArege-doDDavaru/](./13-dArege-doDDavaru/)
 
 ---
 
@@ -426,7 +426,7 @@
 - **ಬೆಲೆ / Price:** ₹200
 - **ಮೂಲ / Source:** [Internet Archive](https://archive.org/details/arn.nijakkuhaleganna0000dnsh) — PDF + DjVu OCR + dnshankarabhat.net blog
 - **ಗುಣಮಟ್ಟ / Quality:** ✅ **Full text available** (11,791 lines book.md + 7,033 lines djvu.md + **425 lines blog**)
-- **ಕಡತ / Folder:** [14-nijakku-halegannada-vyakarana-entahadu/](./14-nijakku-halegannada-vyakarana-entahadu/)
+- **ಕಡತ / Folder:** [14-nijakkU-haLegannaDa-vyAkaraNa-entahadu/](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu/)
 
 **Files in folder:**
 | File | Contents |
@@ -524,7 +524,7 @@
 - **Year:** June 2024 *(one of Bhat's last publications)*
 - **Source:** dnshankarabhat.net (Wayback snapshot exists but Cloudflare-blocked)
 - **Quality:** ❌ Not yet collected (snapshot at 2024-06-21 blocked)
-- **Folder:** [26-uli-marpadina-geregalu/](./26-uli-marpadina-geregalu/)
+- **Folder:** [26-uli-mArpADina-geregaLu/](./26-uli-mArpADina-geregaLu/)
 
 **Why it matters:** Bhat's Kannada-language popularization of sound change theory — the companion to the English *Sound Change* textbook. Published in 2024, one of his most recent writings.
 
@@ -539,7 +539,7 @@
 - **Year:** 2016 (original), 2019 (expanded: + ಅರ್ಥ ವ್ಯವಸ್ಥೆ)
 - **Source:** dnshankarabhat.net (archived 2016, 2019 — not yet fetched)
 - **Quality:** ❌ Not yet collected
-- **Folder:** [25-kannada-vakyagala-olarachane/](./25-kannada-vakyagala-olarachane/)
+- **Folder:** [25-kannaDa-vAkyagaLa-oLaracane/](./25-kannaDa-vAkyagaLa-oLaracane/)
 
 **Why it matters:** Completes the grammar trilogy alongside word-structure (→ 03) and grammar (→ 01): phonology → morphology → **syntax**.
 
@@ -581,7 +581,7 @@
 - **ವಿಶಯ / Topic:** General introduction to linguistics — what language is, how it works, diversity of languages
 - **ಮೂಲ / Source:** PDF in Google Drive (`baasheyaBagge.pdf`) — 4th edition
 - **ಗುಣಮಟ್ಟ / Quality:** ⚠️ PDF extracted but old WX Kannada font — text garbled; awaiting OCR
-- **ಕಡತ / Folder:** [27-baasheya-bagge/](./27-baasheya-bagge/)
+- **ಕಡತ / Folder:** [27-bhASheya-bagge/](./27-bhASheya-bagge/)
 
 **Full title:** *ಭಾಷೆಯ ಬಗ್ಗೆ ನೀವೇನು ಬಲ್ಲಿರಿ?* (Baasheya Bagege Niivenu Balliri?)
 **Significance:** Bhat's popular introduction to linguistics for Kannada-speaking general audiences. One of his earliest and most reprinted works (4 editions over 40 years). Covers language universals, the Dravidian family, and Kannada's place among world languages.
@@ -598,7 +598,7 @@
 - **ವಿಶಯ / Topic:** Advocacy for a Kannada-native grammar — critique of Sanskrit-based grammatical tradition
 - **ಮೂಲ / Source:** PDF in Google Drive (`kannadakkeBeku.pdf`) — 7th edition
 - **ಗುಣಮಟ್ಟ / Quality:** ⚠️ PDF extracted but old WX Kannada font — text garbled; awaiting OCR
-- **ಕಡತ / Folder:** [28-kannadakke-beku/](./28-kannadakke-beku/)
+- **ಕಡತ / Folder:** [28-kannaDakke-bEku/](./28-kannaDakke-bEku/)
 
 **Full title:** *ಕನ್ನಡಕ್ಕೆ ಬೇಕು ಕನ್ನಡದ್ದೇ ವ್ಯಾಕರಣ* (kannaDakke bEku kannaDaddE vyAkaraNa)
 **Significance:** Popular advocacy booklet that went to 7 editions — one of Bhat's most widely read works. Argues that Kannada needs its own grammar built from Kannada-internal structure (the position developed formally in the Sollarime series). Companion to Book 29.
@@ -615,7 +615,7 @@
 - **ವಿಶಯ / Topic:** Motivating case for studying Kannada grammar — who needs it, why, and how it should differ from Sanskrit grammar
 - **ಮೂಲ / Source:** PDF in Google Drive (`kannadavyakaranayaakebeku.pdf`) — written in *hosa baraha* (new script)
 - **ಗುಣಮಟ್ಟ / Quality:** ⚠️ PDF extracted but old WX Kannada font — text garbled; awaiting OCR
-- **ಕಡತ / Folder:** [29-kannada-vyakarana-yaake-beku/](./29-kannada-vyakarana-yaake-beku/)
+- **ಕಡತ / Folder:** [29-kannaDa-vyAkaraNa-yAke-bEku/](./29-kannaDa-vyAkaraNa-yAke-bEku/)
 
 **Note:** This book is written in *hosa baraha* (Bhat's simplified Kannada orthography without mahapranas). PDF metadata confirms it.
 **Significance:** Companion to Book 28. Where Book 28 argues *what kind* of grammar Kannada needs, Book 29 argues *why* grammar matters at all — aimed at skeptical general readers. Together they form the popular-level introduction to the Sollarime project.
@@ -676,17 +676,17 @@ Location: `My Drive/Books/DNS-Bhat/`
 
 | File | Book # | Format |
 |------|--------|--------|
-| `08-kannadakke-mahaprana-yake-beda.pdf` | 08 | PDF (4.5 MB) |
-| `08-kannadakke-mahaprana-yake-beda-djvu.txt` | 08 | DjVu OCR text |
-| `14-nijakku-halegannada-vyakarana-entahadu.pdf` | 14 | PDF (16.8 MB) |
-| `14-nijakku-halegannada-vyakarana-entahadu-djvu.txt` | 14 | DjVu OCR text |
+| `08-kannaDakke-mahAprANa-yAke-bEDa.pdf` | 08 | PDF (4.5 MB) |
+| `08-kannaDakke-mahAprANa-yAke-bEDa-djvu.txt` | 08 | DjVu OCR text |
+| `14-nijakkU-haLegannaDa-vyAkaraNa-entahadu.pdf` | 14 | PDF (16.8 MB) |
+| `14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-djvu.txt` | 14 | DjVu OCR text |
 | `09-havyaka-outline-grammar-1971.pdf` | 20 | PDF |
 | `09-havyaka-outline-grammar-1971-djvu.txt` | 20 | DjVu OCR text |
 | `the-koraga-language.pdf` | 19 | PDF |
 | `DNS-Bhat-Pronouns-Oxford.pdf` | 21 | PDF |
 | `KannadaPadagalaOlarachane.pdf` | 03 | PDF (239p, 2014) — ⚠️ WX font |
 | `KannadaVakyagalaOlaracane.pdf` | 25 | PDF (289p, 2014) — ⚠️ WX font |
-| `kannada-nudi-nadedu-banda-dari.pdf` | 17 | PDF (405p, 2014) — ⚠️ WX font |
+| `kannaDa-nuDi-naDeDu-banda-dAri.pdf` | 17 | PDF (405p, 2014) — ⚠️ WX font |
 | `sollarime-1.pdf` | 07 vol.1 | PDF (327p, 2010) — ⚠️ WX font |
 | `sollarime-2.pdf` | 07 vol.2 | PDF (301p, 2014) — ⚠️ WX font |
 | `sollarime_5_limited.pdf` | 07 vol.5 | PDF (30p sample, 2015) |

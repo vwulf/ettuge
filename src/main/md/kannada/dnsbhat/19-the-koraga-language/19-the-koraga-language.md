@@ -58,6 +58,6 @@ This is one of DNS Bhat's early English-language academic works, documenting an 
 
 ## Related Works
 
-- [09 — Havyaka Kannada](../09-havyaka-kannada/) *(another regional language study)*
+- [09 — Havyaka Kannada](../09-havyaka-kannaDa/) *(another regional language study)*
 - [20 — Havyaka Outline Grammar 1971](../20-havyaka-outline-grammar/) *(companion academic work from same year)*
 - [21 — Pronouns (Oxford)](../21-dns-bhat-pronouns/) *(later major academic work)*

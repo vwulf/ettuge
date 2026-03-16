@@ -54,5 +54,5 @@ Dravidian pronoun systems, including:
 - The inclusive/exclusive *we* distinction in Kannada
 - The Kannada case system as it applies to pronouns
 
-See [01 — Idu Kannadade Vyakarana](../01-idu-kannadade-vyakarana/) for his
+See [01 — Idu Kannadade Vyakarana](../01-idu-kannaDaddE-vyAkaraNa/) for his
 Kannada-language treatment of the pronoun system using native Kannada terminology.

@@ -68,5 +68,5 @@ the DjVu OCR text (may contain OCR errors).
 
 ## Related Works
 
-- [09 — Havyaka Kannada (popular Kannada version)](../09-havyaka-kannada/)
+- [09 — Havyaka Kannada (popular Kannada version)](../09-havyaka-kannaDa/)
 - [19 — The Koraga Language](../19-the-koraga-language/) *(companion 1971 work)*

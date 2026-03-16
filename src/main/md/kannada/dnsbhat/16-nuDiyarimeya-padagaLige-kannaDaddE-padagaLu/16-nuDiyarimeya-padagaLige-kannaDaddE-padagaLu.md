@@ -1,0 +1,50 @@
+---
+title: "16 — nuDiyarimeya padagaLige kannaDaddE padagaLu"
+nav_order: 116
+redirect_from:
+  - /dnsbhat/16-samskruta-padagalige-kannadade-padagalu/16-samskruta-padagalige-kannadade-padagalu
+---
+
+# ನುಡಿಯರಿಮೆಯ ಪದಗಳಿಗೆ ಕನ್ನಡದ್ದೇ ಪದಗಳು
+
+**ಕನ್ನಡ ಶೀರ್ಷಿಕೆ:** ನುಡಿಯರಿಮೆಯ ಪದಗಳಿಗೆ ಕನ್ನಡದ್ದೇ ಪದಗಳು
+*(ಅಥವಾ: ಸಂಸ್ಕೃತ ಪದಗಳಿಗೆ ಕನ್ನಡದ್ದೇ ಪದಗಳು)*
+**ಇಂಗ್ಲಿಶ್ ಶೀರ್ಷಿಕೆ:** Kannada Alternatives to Sanskrit / Linguistic Terms
+**ಲೇಖಕರು:** ಡಾ. ಡಿ. ಎನ್. ಶಂಕರ ಬಟ್
+**ಭಾಷೆ:** ಕನ್ನಡ
+**ಬಿಡುಗಡೆ:** ದಿ. ಡಿ. ಎನ್. ಶಂಕರ ಬಟ್ ವೆಬ್‌ಸೈಟ್‌ನಲ್ಲಿ ಮತ್ತು ಮುದ್ರಣ ರೂಪದಲ್ಲಿ
+**ವೆಬ್‌ಸೈಟ್:** [dnshankarabhat.net](https://dnshankarabhat.net/samskruta-padagaḷige-kannaḍadde-padagaḷu/) *(ಈಗ ಲಭ್ಯವಿಲ್ಲ)*
+**ಸ್ಥಿತಿ:** ಪಠ್ಯ ಇನ್ನೂ ಸಂಗ್ರಹಿಸಲಾಗಿಲ್ಲ
+
+---
+
+## ಪರಿಚಯ
+
+ಕನ್ನಡ ನುಡಿಯರಿಮೆ (linguistics) ಮತ್ತು ವ್ಯಾಕರಣದಲ್ಲಿ ಬಳಸಲಾಗುವ ಸಂಸ್ಕೃತ ಪದಗಳಿಗೆ ಬದಲಾಗಿ ಡ್ರಾವಿಡ ಮೂಲದ ಕನ್ನಡ ಪದಗಳನ್ನು ಬಟ್ ಅವರು ಇಲ್ಲಿ ಸೂಚಿಸುತ್ತಾರೆ.
+
+**ಗಮನಾರ್ಹ ಉದಾಹರಣೆಗಳು (ಬಟ್ ಅವರ ಪದಾವಳಿ):**
+
+| ಸಂಸ್ಕೃತ ಪದ | ಬಟ್ ಅವರ ಕನ್ನಡ ಪದ | ಇಂಗ್ಲಿಶ್ |
+|---|---|---|
+| ನಾಮಪದ | ಹೆಸರು ಪದ | Noun |
+| ಕ್ರಿಯಾಪದ | ಎಸಕ ಪದ | Verb |
+| ವಿಶೇಷಣ | ಪರಿಚರಣ ಪದ | Adjective |
+| ಸರ್ವನಾಮ | ಅದ ಪದ | Pronoun |
+| ವ್ಯಾಕರಣ | ಸೊಲ್ಲರಿಮೆ | Grammar |
+| ಭಾಷಾಶಾಸ್ತ್ರ | ನುಡಿಯರಿಮೆ | Linguistics |
+| ಧ್ವನಿ | ಉಲಿ | Sound/Phoneme |
+| ಅಕ್ಷರ | ಬರಿಗೆ | Letter/Character |
+| ಪ್ರತ್ಯಯ | ಮಾರ್ಪು | Suffix |
+| ಸಂಧಿ | ಕೂಡ್ಕೆ | Sandhi/Junction |
+
+## ಸಂಗ್ರಹ ಸ್ಥಿತಿ
+
+- [ ] ವೆಬ್‌ಸೈಟ್ ಪಠ್ಯ ಸಂಗ್ರಹ (ವೆಬ್‌ಸೈಟ್ ಲಭ್ಯವಿಲ್ಲ — Wayback Machine ಪರಿಶೀಲಿಸಿ)
+- [ ] ಮುದ್ರಣ ರೂಪದ PDF ಲಭ್ಯತೆ
+- [ ] ಪೂರ್ಣ ಪಠ್ಯ ಸೇರ್ಪಡೆ
+
+## ಸಂಬಂಧಿತ
+
+- [15 — ಇಂಗ್ಲಿಶ್ ಕನ್ನಡ ಪದನೆರಕೆ](../15-ingliS-kannaDa-padanerake/)
+- [02 — ಕನ್ನಡದಲ್ಲಿ ಹೊಸಪದಗಳನ್ನು ಕಟ್ಟುವ ಬಗೆ](../02-kannaDadalle-hosapadagaLannu-kaTTuva-bage/)
+- [01 — ಇದು ಕನ್ನಡದ್ದೇ ವ್ಯಾಕರಣ](../01-idu-kannaDaddE-vyAkaraNa/)

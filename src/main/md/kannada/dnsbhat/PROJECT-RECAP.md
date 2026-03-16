@@ -284,7 +284,7 @@ Targeted fix for a systematic OCR misread in book 08 (*Kannadakke Mahaprana Yake
 | `varyagaL*` | `varSagaL*` | 2 |
 | `varka` | `varSa` | 2 |
 
-**Files fixed:** `08-kannadakke-mahaprana-yake-beda-kn-eke.md` (13 instances) and `08-kannadakke-mahaprana-yake-beda-kn.md` (matching Kannada script corrections: ವರ್ರ, ವರ್ಮ, ವರ್ಯ, ವರ್ಕ → ವರ್ಷ). No other books contained these patterns.
+**Files fixed:** `08-kannaDakke-mahAprANa-yAke-bEDa-kn-eke.md` (13 instances) and `08-kannaDakke-mahAprANa-yAke-bEDa-kn.md` (matching Kannada script corrections: ವರ್ರ, ವರ್ಮ, ವರ್ಯ, ವರ್ಕ → ವರ್ಷ). No other books contained these patterns.
 
 ### Phase 11 — GitHub Pages / Jekyll Deployment (2026-03-14–15)
 
@@ -487,49 +487,49 @@ dnsbhat/
 ├── swadesh-bhat-prompt-and-analysis.md
 ├── wiktionary-cost-analysis-kimi-k2.5.md
 │
-├── 02-kannadadalle-hosapadagalannu-kattuva-bage/
+├── 02-kannaDadalle-hosapadagaLannu-kaTTuva-bage/
 │   ├── 02-...-blog.md                # 15 blog posts
 │   ├── 02-...-kn.md                  # ★ Structured Kannada (547 lines)
 │   ├── 02-...-kn-eke.md              # ★ Eke romanisation (830 lines, 43KB)
 │   ├── 02-...-en.md                  # ★ English summaries
 │   └── 02-...-claude-prompt.md       # ★ AI primer
-├── 03-kannada-padagala-olarachane/
+├── 03-kannaDa-padagaLa-oLaracane/
 │   ├── 03-...-book.md                # ★ Sarvam OCR output (239 pages)
 │   ├── 03-...-kn-eke.md              # ★ Eke romanisation
 │   ├── 03-...-en.md                  # ★ English summaries
 │   └── 03-...-claude-prompt.md       # ★ AI primer
-├── 04-mathu-matthu-barahada-naduvina-gondala/
+├── 04-mAtu-mattu-barahada-naDuvina-gondala/
 │   ├── 04-....md                     # YouTube transcript (~519 lines, 25/44 parts)
 │   ├── 04-...-website.md             # Author's website stub
 │   ├── 04-...-kn-eke.md              # ★ Eke romanisation of key passages
 │   ├── 04-...-en.md                  # ★ English thematic summary (7 themes)
 │   └── 04-...-claude-prompt.md       # ★ AI primer
-├── 05-mathina-olaguttu/
+├── 05-mAtina-oLaguTTu/
 │   ├── 05-....md                     # YouTube transcript (~539 lines, 27/37 parts)
 │   ├── 05-...-website.md             # Author's website stub
 │   ├── 05-...-kn-eke.md              # ★ Eke romanisation of key passages
 │   ├── 05-...-en.md                  # ★ English thematic summary (8 themes)
 │   └── 05-...-claude-prompt.md       # ★ AI primer
-├── 09-havyaka-kannada/
+├── 09-havyaka-kannaDa/
 │   ├── 09-....md                     # YouTube transcript (~387 lines, 72/88 slots)
 │   ├── 09-...-website.md             # Author's website stub
 │   ├── 09-...-kn-eke.md              # ★ Eke romanisation of key passages
 │   ├── 09-...-en.md                  # ★ English thematic summary (5 themes)
 │   └── 09-...-claude-prompt.md       # ★ AI primer
-├── 07-kannadada-sollarime/
+├── 07-kannaDa-barahada-sollarime/
 │   ├── 07-...-vol1-book.md           # ★ Sarvam OCR (327 pages)
 │   ├── 07-...-vol2-book.md           # ★ Sarvam OCR (301 pages)
 │   ├── 07-...-kn-eke.md              # ★ Eke romanisation (9KB)
 │   ├── 07-...-en.md                  # ★ English summaries (41KB)
 │   └── 07-...-claude-prompt.md       # ★ AI primer (18KB)
-├── 08-kannadakke-mahaprana-yake-beda/
+├── 08-kannaDakke-mahAprANa-yAke-bEDa/
 │   ├── 08-...-book.md                # Full text (archive.org)
 │   ├── 08-...-djvu.md                # DjVu OCR
 │   ├── 08-...-kn.md                  # ★ Structured Kannada
 │   ├── 08-...-kn-eke.md              # ★ Eke romanisation (template book)
 │   ├── 08-...-en.md                  # ★ English analysis
 │   └── 08-...-claude-prompt.md       # ★ AI primer
-├── 14-nijakku-halegannada-vyakarana-entahadu/
+├── 14-nijakkU-haLegannaDa-vyAkaraNa-entahadu/
 │   ├── nijakku-...-book.md           # Full text (archive.org)
 │   ├── 14-...-djvu.md                # DjVu OCR
 │   ├── 14-...-blog.md                # 7 blog posts
@@ -537,17 +537,17 @@ dnsbhat/
 │   ├── 14-...-kn-eke.md              # ★ Eke romanisation
 │   ├── 14-...-en.md                  # ★ English summary
 │   └── 14-...-claude-prompt.md       # ★ AI primer
-├── 15-inglish-kannada-padanerake/
+├── 15-ingliS-kannaDa-padanerake/
 │   ├── 15-...-book.md                # ★ Hybrid extraction (53p sample, A–Az)
 │   ├── 15-...-kn-eke.md              # ★ Eke romanisation of source text (munnuDi + conventions + A–Az entries)
 │   ├── 15-...-en.md                  # ★ English analysis (10 word-formation patterns)
 │   └── 15-...-claude-prompt.md       # ★ AI primer (decision tree, cluster tables, 100 entries)
-├── 17-kannada-nudi-nadedu-banda-dari/
+├── 17-kannaDa-nuDi-naDeDu-banda-dAri/
 │   ├── 17-...-book.md                # ★ Sarvam OCR (405 pages)
 │   ├── 17-...-kn-eke.md              # ★ Eke romanisation (12KB)
 │   ├── 17-...-en.md                  # ★ English summaries (35KB)
 │   └── 17-...-claude-prompt.md       # ★ AI primer (20KB)
-├── 18-kannada-nudiya-bagege-chintane/
+├── 18-kannaDa-nuDiya-bagege-cintane/
 │   ├── 18-...-blog.md                # 13 blog posts
 │   ├── 18-...-kn-eke.md              # ★ Eke romanisation
 │   ├── 18-...-en.md                  # ★ English summaries (29KB)
@@ -556,22 +556,22 @@ dnsbhat/
 │   ├── 20-...-djvu.md                # Full DjVu text
 │   ├── 20-...-en.md                  # ★ English chapter summaries
 │   └── 20-...-claude-prompt.md       # ★ AI primer
-├── 25-kannada-vakyagala-olarachane/
+├── 25-kannaDa-vAkyagaLa-oLaracane/
 │   ├── 25-...-book.md                # ★ Sarvam OCR (289 pages)
 │   ├── 25-...-kn-eke.md              # ★ Eke romanisation (19KB)
 │   ├── 25-...-en.md                  # ★ English summaries (30KB)
 │   └── 25-...-claude-prompt.md       # ★ AI primer (25KB)
-├── 27-baasheya-bagge/
+├── 27-bhASheya-bagge/
 │   ├── 27-...-book.md                # ★ Sarvam OCR (208 pages)
 │   ├── 27-...-kn-eke.md              # ★ Eke romanisation
 │   ├── 27-...-en.md                  # ★ English summaries
 │   └── 27-...-claude-prompt.md       # ★ AI primer
-├── 28-kannadakke-beku/
+├── 28-kannaDakke-bEku/
 │   ├── 28-...-book.md                # ★ Sarvam OCR (253 pages)
 │   ├── 28-...-kn-eke.md              # ★ Eke romanisation (14KB)
 │   ├── 28-...-en.md                  # ★ English summaries (25KB)
 │   └── 28-...-claude-prompt.md       # ★ AI primer (20KB)
-├── 29-kannada-vyakarana-yaake-beku/
+├── 29-kannaDa-vyAkaraNa-yAke-bEku/
 │   ├── 29-...-book.md                # ★ Sarvam OCR (260 pages)
 │   ├── 29-...-kn-eke.md              # ★ Eke romanisation (12KB)
 │   ├── 29-...-en.md                  # ★ English summaries (28KB)

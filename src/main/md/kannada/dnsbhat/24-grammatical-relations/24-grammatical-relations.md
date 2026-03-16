@@ -40,10 +40,10 @@ This connects directly to:
 
 ## Related Works
 
-- [01 — Idu Kannadade Vyakarana](../01-idu-kannadade-vyakarana/) — practical application
-- [14 — Nijakku Halegannada Vyakarana](../14-nijakku-halegannada-vyakarana-entahadu/) — case system
+- [01 — Idu Kannadade Vyakarana](../01-idu-kannaDaddE-vyAkaraNa/) — practical application
+- [14 — Nijakku Halegannada Vyakarana](../14-nijakkU-haLegannaDa-vyAkaraNa-entahadu/) — case system
 - [21 — Pronouns (Oxford)](../21-dns-bhat-pronouns/) — typological framework
-- [25 — Kannada Vakyagala Olarachane](../25-kannada-vakyagala-olarachane/) — Kannada sentence structure
+- [25 — Kannada Vakyagala Olarachane](../25-kannaDa-vAkyagaLa-oLaracane/) — Kannada sentence structure
 
 ## Collection Status
 

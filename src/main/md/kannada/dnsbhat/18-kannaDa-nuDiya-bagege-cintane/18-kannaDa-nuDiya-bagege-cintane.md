@@ -1,0 +1,31 @@
+---
+title: "18 — kannaDa nuDiya bagege cintane"
+nav_order: 118
+redirect_from:
+  - /dnsbhat/18-kannada-nudiya-bagege-chintane/18-kannada-nudiya-bagege-chintane
+---
+
+# ಕನ್ನಡ ನುಡಿಯ ಬಗೆಗೆ ಚಿಂತನೆ
+
+**ಕನ್ನಡ ಶೀರ್ಷಿಕೆ:** ಕನ್ನಡ ನುಡಿಯ ಬಗೆಗೆ ಚಿಂತನೆ
+**ಇಂಗ್ಲಿಶ್ ಶೀರ್ಷಿಕೆ:** Reflections on the Kannada Language
+**ಲೇಖಕರು:** ಡಾ. ಡಿ. ಎನ್. ಶಂಕರ ಬಟ್
+**ಭಾಷೆ:** ಕನ್ನಡ
+**ವೆಬ್‌ಸೈಟ್:** [dnshankarabhat.net](https://dnshankarabhat.net/kannaḍa-nuḍiya-bagege-chintane/) *(ಈಗ ಲಭ್ಯವಿಲ್ಲ)*
+**ಸ್ಥಿತಿ:** ಪಠ್ಯ ಇನ್ನೂ ಸಂಗ್ರಹಿಸಲಾಗಿಲ್ಲ
+
+---
+
+## ಪರಿಚಯ
+
+ಕನ್ನಡ ಭಾಷೆಯ ಭವಿಷ್ಯ, ಅದರ ಸಂರಕ್ಷಣೆ, ಮತ್ತು ಅದನ್ನು ಬಲಗೊಳಿಸುವ ಬಗ್ಗೆ ಬಟ್ ಅವರ ಆಲೋಚನೆಗಳ ಸಂಗ್ರಹ.
+
+## ಸಂಬಂಧಿತ
+
+- [17 — ಕನ್ನಡ ನುಡಿ ನಡೆದು ಬಂದ ದಾರಿ](../17-kannaDa-nuDi-naDeDu-banda-dAri/)
+- [10 — ಕನ್ನಡ ನುಡಿಯ ಹಿನ್ನಡವಳಿ](../10-kannaDa-nuDiya-hinnaDavaLi/)
+
+## ಸಂಗ್ರಹ ಸ್ಥಿತಿ
+
+- [ ] ವೆಬ್‌ಸೈಟ್ ಪಠ್ಯ ಸಂಗ್ರಹ
+- [ ] ಪೂರ್ಣ ಪಠ್ಯ ಸೇರ್ಪಡೆ
