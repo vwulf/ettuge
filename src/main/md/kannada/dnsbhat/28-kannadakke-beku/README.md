@@ -1,4 +1,4 @@
-# [28] — ಕನ್ನಡಕ್ಕೆ ಬೇಕು
+# [28] — ಕನ್ನಡಕ್ಕೆ ಬೇಕು ಕನ್ನಡದ್ದೇ ವ್ಯಾಕರಣ
 **Kannada Needs Its Own Grammar**
 
 > Popular advocacy booklet that went to 7 editions — Bhat’s most widely read work. Argues that Kannada needs a grammar built from Kannada-internal structure, the position developed formally in the Sollarime series (Book 07). Second book in the popular advocacy trilogy.

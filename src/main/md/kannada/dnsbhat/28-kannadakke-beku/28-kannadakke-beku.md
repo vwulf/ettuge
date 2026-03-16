@@ -1,9 +1,9 @@
 ---
-title: "28 — kannaDakke bEku"
+title: "28 — kannaDakke bEku kannaDaddE vyAkaraNa"
 nav_order: 128
 ---
 
-# 28 — Kannadakke Beku
+# 28 — kannaDakke bEku kannaDaddE vyAkaraNa
 
 | Format | Link |
 |--------|------|

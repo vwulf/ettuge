@@ -1,4 +1,4 @@
-# kannaDigge bEku kannaDigdE sollarime — Di. En. sankara baT
+# kannaDakke bEku kannaDaddE vyAkaraNa — Di. En. sankara baT
 
 **mukyavAda viSaya:** kannaDa sollarime-paramparE, samskxta/yurOpiya/amErikan sollarime-caukaTTugaLa vimarse, kannaDa-svagata sollarime kaTTuvuva pakSavAda
 **kartaru:** Di. En. sankara baT

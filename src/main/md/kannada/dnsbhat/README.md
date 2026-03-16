@@ -61,7 +61,7 @@
 | 25 | Kannada Vakyagala Olarachane | Kannada | 2014 | **PDF** | ⚠️ PDF (WX font, 289p) |
 | 26 | ಉಲಿ-ಮಾರ್ಪಾಡಿನ-ಗೆರೆಗಳು (Sound Change Laws) | Kannada | 2024 | Website | ❌ Cloudflare blocked |
 | 27 | Baasheya Bagge *(ಭಾಷೆಯ ಬಗ್ಗೆ)* | Kannada | 1970/2010 | **PDF** (4th ed.) | ⚠️ PDF (WX font, 208p) — **NEW** |
-| 28 | Kannadakke Beku *(ಕನ್ನಡಕ್ಕೆ ಬೇಕು)* | Kannada | 2000/2013 | **PDF** (7th ed.) | ⚠️ PDF (WX font, 253p) — **NEW** |
+| 28 | kannaDakke bEku kannaDaddE vyAkaraNa *(ಕನ್ನಡಕ್ಕೆ ಬೇಕು ಕನ್ನಡದ್ದೇ ವ್ಯಾಕರಣ)* | Kannada | 2000/2013 | **PDF** (7th ed.) | ⚠️ PDF (WX font, 253p) — **NEW** |
 | 29 | Kannada Vyakarana Yaake Beku *(ಕನ್ನಡ ವ್ಯಾಕರಣ ಯಾಕೆ ಬೇಕು?)* | Kannada | 2009 | **PDF** | ⚠️ PDF (WX font, 260p) — **NEW** |
 
 ---
@@ -588,8 +588,8 @@
 
 ---
 
-### 28 — ಕನ್ನಡಕ್ಕೆ ಬೇಕು
-**Kannadakke Beku** *(Kannada Needs Its Own Grammar)*
+### 28 — ಕನ್ನಡಕ್ಕೆ ಬೇಕು ಕನ್ನಡದ್ದೇ ವ್ಯಾಕರಣ
+**kannaDakke bEku kannaDaddE vyAkaraNa** *(Kannada Needs Its Own Grammar)*
 
 - **ಭಾಷೆ / Language:** Kannada
 - **ಪ್ರಕಟಣೆ / Year:** 2000 (1st edition); 2013 (7th edition)
@@ -600,7 +600,7 @@
 - **ಗುಣಮಟ್ಟ / Quality:** ⚠️ PDF extracted but old WX Kannada font — text garbled; awaiting OCR
 - **ಕಡತ / Folder:** [28-kannadakke-beku/](./28-kannadakke-beku/)
 
-**Full title:** *ಕನ್ನಡಕ್ಕೆ ಬೇಕು ಕನ್ನಡದ್ದೇ ವ್ಯಾಕರಣ* (Kannadakke Beku Kannadaddee Vyaakarana)
+**Full title:** *ಕನ್ನಡಕ್ಕೆ ಬೇಕು ಕನ್ನಡದ್ದೇ ವ್ಯಾಕರಣ* (kannaDakke bEku kannaDaddE vyAkaraNa)
 **Significance:** Popular advocacy booklet that went to 7 editions — one of Bhat's most widely read works. Argues that Kannada needs its own grammar built from Kannada-internal structure (the position developed formally in the Sollarime series). Companion to Book 29.
 
 ---

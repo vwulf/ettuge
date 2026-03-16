@@ -1,8 +1,8 @@
-# Kannadigge bEku kannaDigdE vyAkaraNa
+# kannaDakke bEku kannaDaddE vyAkaraNa
 ## Kannada Needs Its Own Grammar
 
 **Title (Kannada):** ಕನ್ನಡಕ್ಕೆ ಬೇಕು ಕನ್ನಡದ್ದೇ ವ್ಯಾಕರಣ
-**Title (Eke):** kannaDigge bEku kannaDigdE vyAkaraNa
+**Title (Eke):** kannaDakke bEku kannaDaddE vyAkaraNa
 **Author:** D. N. Shankara Bhat (ಡಿ. ಎನ್. ಶಂಕರ ಭಟ್)
 **Year:** 2000 (1st edition); 2013 (7th revised edition — this OCR)
 **Publisher:** D. N. Shankara Bhat (author-published); Navakarnataaka Prakashan (distributor), Bengaluru
