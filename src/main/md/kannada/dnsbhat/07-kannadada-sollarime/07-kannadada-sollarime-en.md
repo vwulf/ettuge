@@ -1,4 +1,4 @@
-# Kannadada Sollarime
+# kannaDa barahada sollarime
 ## A Grammar of Kannada Writing (This Is Kannada's Own Grammar)
 
 **Title (Kannada):** ಕನ್ನಡ ಬರಹದ ಸೊಲ್ಲರಿಮೆ (ಇದು ಕನ್ನಡದ್ದೇ ವ್ಯಾಕರಣ)

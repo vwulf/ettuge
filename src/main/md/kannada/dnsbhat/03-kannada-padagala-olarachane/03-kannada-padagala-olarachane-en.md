@@ -1,4 +1,4 @@
-# Kannada Padagala Olarachane
+# kannaDa padagaLa oLaracane
 ## Internal Structure of Kannada Words
 
 **Title (Kannada):** ಕನ್ನಡ ಪದಗಳ ಒಳರಚನೆ

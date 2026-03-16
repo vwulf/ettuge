@@ -1,4 +1,4 @@
-# Havyaka Kannada — English Summary
+# havyaka kannaDa — English Summary
 ## ಹವ್ಯಕ ಕನ್ನಡ
 
 **Author:** D. N. Shankara Bhat (ಡಿ. ಎನ್. ಶಂಕರ ಬಟ್)

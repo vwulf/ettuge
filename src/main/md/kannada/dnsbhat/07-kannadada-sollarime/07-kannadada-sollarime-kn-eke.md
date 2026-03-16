@@ -1,4 +1,4 @@
-# kannaData sollarime — Di. En. sankara baT
+# kannaDa barahada sollarime — Di. En. sankara baT
 
 **mukyavAda viSaya:** kannaData baragada sollarime, pada-gumpugaLu, padarUpagaLu, sOLLugaLa iTTaLa
 **kartaru:** Di. En. sankara baT

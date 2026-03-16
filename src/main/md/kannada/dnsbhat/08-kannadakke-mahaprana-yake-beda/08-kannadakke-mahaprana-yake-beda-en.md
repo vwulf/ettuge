@@ -1,4 +1,4 @@
-# Kannadakke Mahaprana Yake Beda?
+# kannaDakke mahAprANa yAke bEDa?
 ## Why Does Kannada Not Need Aspirated Stops?
 
 **Author:** D. N. Shankara Bhat (ಡಿ. ಎನ್. ಶಂಕರ ಬಟ್)

@@ -1,4 +1,4 @@
-# Nijakku Halegannada Vyakarana Entahadu?
+# nijakkU haLegannaDa vyAkaraNa entahadu?
 ## What is Old Kannada Grammar Really Like?
 
 **Author:** D. N. Shankara Bhat (ಡಿ. ಎನ್. ಶಂಕರ ಭಟ್)

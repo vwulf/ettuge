@@ -1,4 +1,4 @@
-# Kannada Nudi Nadedu Banda Dari
+# kannaDa nuDi naDeDu banda dAri
 ## The Path Travelled by the Kannada Language
 
 **Title (Kannada):** ಕನ್ನಡ ನುಡಿ ನಡೆದು ಬಂದ ದಾರಿ

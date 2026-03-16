@@ -1,4 +1,4 @@
-# Kannada Vakyagala Olarachane
+# kannaDa vAkyagaLa oLaracane
 ## Internal Structure of Kannada Sentences
 
 **Title (Kannada):** ಕನ್ನಡ ವಾಕ್ಯಗಳ ಒಳರಚನೆ

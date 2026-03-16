@@ -1,4 +1,4 @@
-# bAsheya bagge nIvenu balliri? — Di. En. sankara baT
+# bASheya bagge nIvEnu balliri? — Di. En. sankara baT
 
 **mukyavAda viSaya:** bAshe svarUpa, vyAkaraNa-kalika, mAtu mattu baraha, kannaDa bAshe, jagattina bAsegaLu
 **kartaru:** Di. En. sankara baT (D.N. Shankara Bhat)

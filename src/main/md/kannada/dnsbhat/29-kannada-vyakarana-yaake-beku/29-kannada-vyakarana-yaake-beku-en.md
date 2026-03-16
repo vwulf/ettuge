@@ -1,4 +1,4 @@
-# kannaD vyAkaraNa yAke bEku?
+# kannaDa vyAkaraNa yAke bEku?
 ## Why Do We Need Kannada Grammar?
 
 **Title (Kannada):** ಕನ್ನಡ ವ್ಯಾಕರಣ ಯಾಕೆ ಬೇಕು?

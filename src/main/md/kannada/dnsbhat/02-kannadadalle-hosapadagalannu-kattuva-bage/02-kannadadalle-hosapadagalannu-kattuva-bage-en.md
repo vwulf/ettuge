@@ -1,4 +1,4 @@
-# Kannadadalle Hosapadagalannu Kattuva Bage
+# kannaDadalle hosapadagaLannu kaTTuva bage
 ## How to Build New Words in Kannada
 
 **Author:** D. N. Shankara Bhat (ಡಿ. ಎನ್. ಶಂಕರ ಭಟ್)

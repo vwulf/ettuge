@@ -1,4 +1,4 @@
-# Kannada nuDiya bagege cintane — English Summary
+# kannaDa nuDiya bagege cintane — English Summary
 
 **ಕನ್ನಡ ನುಡಿಯ ಬಗೆಗೆ ಚಿಂತನೆ** (Kannada nuDiya bagege cintane)
 *Reflections on the Kannada Language*
