@@ -45,7 +45,7 @@
 | 09 | havyaka kannaDa (popular) | Kannada | — | YouTube | ⚠️ Partial |
 | 10 | kannaDa nuDiya hinnaDavaLi | Kannada | — | YouTube | ⚠️ Partial |
 | 11 | kannaDa barahada padasamasye | Kannada | — | YouTube | ❌ Corrupted |
-| 12 | kannaDa bASheya kalpita caritre | Kannada | — | YouTube | ✅ Transcript |
+| 12 | kannaDa bhASheya kalpita caritre | Kannada | — | YouTube | ✅ Transcript |
 | 13 | dArege doDDavaru | Kannada | — | YouTube | ❌ Corrupted |
 | 14 | nijakkU haLegannaDa vyAkaraNa entahadu | Kannada | 2005/2015 | PDF + DjVu + Blog | ✅ Full text + 7 blog posts |
 | 15 | ingliS-kannaDa padanerake | Kannada | 2015 | **PDF sample** (53p) | ✅ Hybrid extracted (A–Az, 84k chars) + en/kn-eke/claude-prompt |
@@ -60,7 +60,7 @@
 | 24 | Grammatical Relations | English | — | Website | ❌ Not collected |
 | 25 | kannaDa vAkyagaLa oLaracane | Kannada | 2014 | **PDF** | ⚠️ PDF (WX font, 289p) |
 | 26 | uli mArpADina geregaLu | Kannada | 2024 | Website | ❌ Cloudflare blocked |
-| 27 | bASheya bagge *(ಭಾಷೆಯ ಬಗ್ಗೆ)* | Kannada | 1970/2010 | **PDF** (4th ed.) | ⚠️ PDF (WX font, 208p) — **NEW** |
+| 27 | bhASheya bagge *(ಭಾಷೆಯ ಬಗ್ಗೆ)* | Kannada | 1970/2010 | **PDF** (4th ed.) | ⚠️ PDF (WX font, 208p) — **NEW** |
 | 28 | kannaDakke bEku kannaDaddE vyAkaraNa *(ಕನ್ನಡಕ್ಕೆ ಬೇಕು ಕನ್ನಡದ್ದೇ ವ್ಯಾಕರಣ)* | Kannada | 2000/2013 | **PDF** (7th ed.) | ⚠️ PDF (WX font, 253p) — **NEW** |
 | 29 | kannaDa vyAkaraNa yAke bEku *(ಕನ್ನಡ ವ್ಯಾಕರಣ ಯಾಕೆ ಬೇಕು?)* | Kannada | 2009 | **PDF** | ⚠️ PDF (WX font, 260p) — **NEW** |
 
@@ -295,7 +295,7 @@
 ---
 
 ### 12 — ಕನ್ನಡ ಭಾಷೆಯ ಕಲ್ಪಿತ ಚರಿತ್ರೆ
-**kannaDa bASheya kalpita caritre** *(Reconstructed/Imagined History of Kannada)*
+**kannaDa bhASheya kalpita caritre** *(Reconstructed/Imagined History of Kannada)*
 
 - **ಭಾಷೆ / Language:** Kannada
 - **ವಿಶಯ / Topic:** A speculative/reconstructed history of Kannada and its speakers
@@ -572,7 +572,7 @@
 ## Section K — Newly Discovered Books (Google Drive, 2026-03-10)
 
 ### 27 — ಭಾಷೆಯ ಬಗ್ಗೆ
-**bASheya bagge nIvEnu balliri?** *(About Language / What Do You Know About Language?)*
+**bhASheya bagge nIvEnu balliri?** *(About Language / What Do You Know About Language?)*
 
 - **ಭಾಷೆ / Language:** Kannada
 - **ಪ್ರಕಟಣೆ / Year:** 1970 (1st edition); 1998 (2nd rev.); 2002 (3rd expanded); 2010 (4th edition)

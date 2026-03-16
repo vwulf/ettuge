@@ -1,9 +1,9 @@
 ---
-title: "12 — kannaDa bASheya kalpita caritre"
+title: "12 — kannaDa bhASheya kalpita caritre"
 nav_order: 112
 ---
 
-# KANNADA BHASHEYA KALPITA CHARITRE
+# 12 — kannaDa bhASheya kalpita caritre
 ## ಕನ್ನಡ ಭಾಷೆಯ ಕಲ್ಪಿತ ಚರಿತ್ರೆ
 
 *Part of DNS Bhat's writings read by Malati Bhat*

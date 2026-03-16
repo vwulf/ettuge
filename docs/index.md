@@ -62,10 +62,10 @@ All Kannada text is also available in **Eke** — a phonemic romanisation for Ka
 | # | Title | Kannada | English | Eke |
 |---|-------|---------|---------|-----|
 | 10 | kannaDa nuDiya hinnaDavaLi — *History of the Kannada Language* | [ಕನ್ನಡ](dnsbhat/10-kannada-nudiya-hinnadavali/10-kannada-nudiya-hinnadavali) | | |
-| 12 | kannaDa bASheya kalpita caritre — *An Imagined History of Kannada* | [ಕನ್ನಡ](dnsbhat/12-kannada-bhasheya-kalpita-charitre/12-kannada-bhasheya-kalpita-charitre) | | |
+| 12 | kannaDa bhASheya kalpita caritre — *An Imagined History of Kannada* | [ಕನ್ನಡ](dnsbhat/12-kannada-bhasheya-kalpita-charitre/12-kannada-bhasheya-kalpita-charitre) | | |
 | 17 | kannaDa nuDi naDeDu banda dAri — *How Kannada Speech Evolved* | [ಕನ್ನಡ](dnsbhat/17-kannada-nudi-nadedu-banda-dari/17-kannada-nudi-nadedu-banda-dari) | [English](dnsbhat/17-kannada-nudi-nadedu-banda-dari/17-kannada-nudi-nadedu-banda-dari-en) | [Eke](dnsbhat/17-kannada-nudi-nadedu-banda-dari/17-kannada-nudi-nadedu-banda-dari-kn-eke) |
 | 18 | kannaDa nuDiya bagege cintane — *Reflections on the Kannada Language* | [ಕನ್ನಡ](dnsbhat/18-kannada-nudiya-bagege-chintane/18-kannada-nudiya-bagege-chintane) | [English](dnsbhat/18-kannada-nudiya-bagege-chintane/18-kannada-nudiya-bagege-chintane-en) | [Eke](dnsbhat/18-kannada-nudiya-bagege-chintane/18-kannada-nudiya-bagege-chintane-kn-eke) |
-| 27 | bASheya bagge — *About Language* | [ಕನ್ನಡ](dnsbhat/27-baasheya-bagge/27-baasheya-bagge) | [English](dnsbhat/27-baasheya-bagge/27-baasheya-bagge-en) | [Eke](dnsbhat/27-baasheya-bagge/27-baasheya-bagge-kn-eke) |
+| 27 | bhASheya bagge — *About Language* | [ಕನ್ನಡ](dnsbhat/27-baasheya-bagge/27-baasheya-bagge) | [English](dnsbhat/27-baasheya-bagge/27-baasheya-bagge-en) | [Eke](dnsbhat/27-baasheya-bagge/27-baasheya-bagge-kn-eke) |
 | 06 | kalikenuDi mattu nuDikalike — *Language Learning and Learning to Speak* | [ಕನ್ನಡ](dnsbhat/06-kalikenudi-matthu-nudikalike/06-kalikenudi-matthu-nudikalike) | | |
 | 13 | dArege doDDavaru — *Those Who Stepped Forward* | [ಕನ್ನಡ](dnsbhat/13-dharege-doddavaru/13-dharege-doddavaru) | | |
 

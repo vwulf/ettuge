@@ -1,7 +1,7 @@
-# bASheya bagge nIvEnu balliri? — Di. En. sankara baT
+# bhASheya bagge nIvEnu balliri? — Di. En. sankara bhaT
 
-**mukyavAda viSaya:** bAshe svarUpa, vyAkaraNa-kalika, mAtu mattu baraha, kannaDa bAshe, jagattina bAsegaLu
-**kartaru:** Di. En. sankara baT (D.N. Shankara Bhat)
+**mukhyavAda viSaya:** bAshe svarUpa, vyAkaraNa-kalika, mAtu mattu baraha, kannaDa bAshe, jagattina bAsegaLu
+**kartaru:** Di. En. sankara bhaT (D.N. Shankara Bhat)
 **prakaTane:** 1970 (modalina mudraNa); 1998 (eraDaneyadu); 2002 (mUraneyadu); 2010 (nAlkaneyadu — ee OCR)
 **mudraka:** bASa prakasana, heggoDu, sAgara
 **paTagaLu:** 208
@@ -12,7 +12,7 @@
 
 ## viSaya-paTTi
 
-### bAga ondu — bAsheya svarUpa
+### bhAga ondu — bAsheya svarUpa
 - [1.1 yAvu bAse mElu yA kILu alla](#11)
 - [1.2 bAsegaLa huTTu mattu sAvugaLu](#12)
 - [1.3 bAsegaLalli hata mattu hosa — bAse-badalu](#13)
@@ -21,11 +21,11 @@
 - [1.6 kAla (vartamAna kAla)](#16)
 - [1.7 encuvudu kUDa bEre bEre bAsegaLalli bEre bEre AgiruttadE](#17)
 
-### bAga eraDu — vyAkaraNa mattu kalika
+### bhAga eraDu — vyAkaraNa mattu kalika
 - [2.1 mAtru-bAse kaLeyuva mAyA](#21)
 - [2.2 kannaDa makkaLige kannaDa karpisu](#22)
 - [2.3 vyAkaraNa — kalliNa kaDale?](#23)
-- [2.4 nUdoL-baraha-pATemadina modalina pATa](#24)
+- [2.4 nUdoL-baraha-pATemadina modalina pATha](#24)
 - [2.5 kannaDa vyAkaraNadalli samskxtada baralu](#25)
 - [2.6 kannaDigaLalli samskxta samAsagaLu iveyE?](#26)
 - [2.7 kannaDa makkaLige ingliSu karpisu](#27)
@@ -33,7 +33,7 @@
 - [2.9 ondu ganTeyalli eTTu paTagaLu ODuttIri?](#29)
 - [2.10 ODalAguvAga kUDa janaru yAke ODuvudilla?](#210)
 
-### bAga mUru — mAtu mattu baraha
+### bhAga mUru — mAtu mattu baraha
 - [3.1 mAtina citra](#31)
 - [3.2 bAratakke ondE lipi bEkE?](#32)
 - [3.3 Ra-kArada (ಋ) uLidukoLLuvudu](#33)
@@ -41,7 +41,7 @@
 - [3.5 kannaDigaLige "hosa baraha"](#35)
 - [3.6 bAse mattu baraha](#36)
 
-### bAga nAlku — kannaDa bAsheya svarUpa
+### bhAga nAlku — kannaDa bAsheya svarUpa
 - [4.1 kannaDigaLa mUru mukha](#41)
 - [4.2 kannaDigaLa upabAsegaLu](#42)
 - [4.3 kannaDigaLa vyAkaraNa paramparE](#43)
@@ -49,7 +49,7 @@
 - [4.5 doDD samskxta panDitaru tappannu mADidAga](#45)
 - [4.6 tantrajnAna-padagaLa sxSTi](#46)
 
-### bAga aidu — jagattina bAsegaLu
+### bhAga aidu — jagattina bAsegaLu
 - [5.1 bAratada bAsegaLu](#51)
 - [5.2 Esiyada bAsegaLu](#52)
 - [5.3 yurOpina bAsegaLu](#53)
@@ -61,7 +61,7 @@
 
 ---
 
-## bAga ondu — bAsheya svarUpa
+## bhAga ondu — bAsheya svarUpa
 
 ### 1.1 yAvu bAse mElu yA kILu alla {#11}
 
@@ -93,7 +93,7 @@ jagattina bAsegaLalli encu-paddhati natana-nATakIya vividhateyondu tOrisuttade. 
 
 ---
 
-## bAga eraDu — vyAkaraNa mattu kalika
+## bhAga eraDu — vyAkaraNa mattu kalika
 
 ### 2.1 mAtru-bAse kaLeyuva mAyA {#21}
 
@@ -101,15 +101,15 @@ makkaLu huTTida 2–3 varSagaLalliyadarE tama mAtru-bAseyalli pUrNa hidiTagaLann
 
 ### 2.2 kannaDa makkaLige kannaDa karpisu {#22}
 
-karnATakadalli nUdoLu kannaDa tAy-nuDiyanavarige kannaDa karpuvagalu adiguru-kAlattim modalE kaLiyuttAru embante — vyAkaraNa-niyama-paTTi, vibakti-pATa, tappa-tirupisuva abhyAsagaLa mUlaka. baT ee paddhati tappu endu vAdisutte: makkaLige mAtuvannaDE kannaDa iddE; nUdoLu mADabEkAdudE bAraha-sAmarThya mattu grama-sthara-vibheddagaLannu beLesikoLLudu, avara svAbhAvika mAtuvannu "tirupisuvadittu". makkaLu nUdoLige teruva mAtu mattu avaru bareyabEkAda baraha naDuva abaddhakke suttu-variya yocanE-sUkshmacintanE bEku endu nibandha hELuttade; adakke bEku adika vyAkaraNa-DrillAgalla.
+karnATakadalli nUdoLu kannaDa tAy-nuDiyanavarige kannaDa karpuvagalu adiguru-kAlattim modalE kaLiyuttAru embante — vyAkaraNa-niyama-paTTi, vibakti-pATha, tappa-tirupisuva abhyAsagaLa mUlaka. baT ee paddhati tappu endu vAdisutte: makkaLige mAtuvannaDE kannaDa iddE; nUdoLu mADabEkAdudE bAraha-sAmarThya mattu grama-sthara-vibheddagaLannu beLesikoLLudu, avara svAbhAvika mAtuvannu "tirupisuvadittu". makkaLu nUdoLige teruva mAtu mattu avaru bareyabEkAda baraha naDuva abaddhakke suttu-variya yocanE-sUkshmacintanE bEku endu nibandha hELuttade; adakke bEku adhika vyAkaraNa-DrillAgalla.
 
 ### 2.3 vyAkaraNa — kalliNa kaDale? {#23}
 
-"kalliNa kaDale" andare cUttige tinnagAgi kANuttade Adare tinnalavAguvudalla enda kannaDa nANNuDi. baT nUdoLu kannaDigaLalli karpuva vyAkaraNa intahude endu vAdisutte. SAlA-vyAkaraNagaLu bAseyanu samskxta-vargagaLalli varisuttave (nAmapada/hesaru pada, kriyApada/esaka pada itara) — ee vargagaLu kannaDa hEgE kAryanirvahistade embadannu sariyadAgi varisuttavalla. svAbhAvikavAgi kannaDigaLu anusarisu niyamagaLannu karputtave, kannaDigaLannu satyanAgi racisi biDuva niyamagaLannu tapputtave. pariNAma: makkaLu adika barehuve, heccAgi oDuttAre yA bAshe-maramU arthavAttAgi tiLiyuttAre embante vyAkaraNa-kalika sahAya mADuvudilla.
+"kalliNa kaDale" andare cUttige tinnagAgi kANuttade Adare tinnalavAguvudalla enda kannaDa nANNuDi. baT nUdoLu kannaDigaLalli karpuva vyAkaraNa intahude endu vAdisutte. SAlA-vyAkaraNagaLu bAseyanu samskxta-vargagaLalli varisuttave (nAmapada/hesaru pada, kriyApada/esaka pada itara) — ee vargagaLu kannaDa hEgE kAryanirvahistade embadannu sariyadAgi varisuttavalla. svAbhAvikavAgi kannaDigaLu anusarisu niyamagaLannu karputtave, kannaDigaLannu satyanAgi racisi biDuva niyamagaLannu tapputtave. pariNAma: makkaLu adhika barehuve, heccAgi oDuttAre yA bAshe-maramU arthavAttAgi tiLiyuttAre embante vyAkaraNa-kalika sahAya mADuvudilla.
 
-### 2.4 nUdoL-baraha-pATemadina modalina pATa {#24}
+### 2.4 nUdoL-baraha-pATemadina modalina pATha {#24}
 
-baT konDu pramANita kannaDa SAlA-vyAkaraNa pustakadinaduva modalina adyAyannu viSlESisi, ellA pustakadinaduvu "bAse" endare endu anta suttuvELEyanalli yA tappudAriyalli vivarisi, nantara tiTTanE samskxta-mUla pada-vargagaLa paTTi sErisuttave endu kANuttAre. ee modalina pATa tappu chApAnnu taDeyutte: kannaDigaLa racane samskxtada racaneyannu kANisuttade embantE, intalla. baT satiyanAda modalina pATa entiruttade — kannaDigaLu nita nijavaAgi mAtanADuvAgala mattEnu mADuttAre emba AdhAradi uttaru koLLuva ondu pATa — endU hELuttAre.
+baT konDu pramANita kannaDa SAlA-vyAkaraNa pustakadinaduva modalina adhyAyannu viSlESisi, ellA pustakadinaduvu "bAse" endare endu anta suttuvELEyanalli yA tappudAriyalli vivarisi, nantara tiTTanE samskxta-mUla pada-vargagaLa paTTi sErisuttave endu kANuttAre. ee modalina pATha tappu chApAnnu taDeyutte: kannaDigaLa racane samskxtada racaneyannu kANisuttade embantE, intalla. baT satiyanAda modalina pATha entiruttade — kannaDigaLu nita nijavaAgi mAtanADuvAgala mattEnu mADuttAre emba AdhAradi uttaru koLLuva ondu pATha — endU hELuttAre.
 
 ### 2.5 kannaDa vyAkaraNadalli samskxtada baralu {#25}
 
@@ -137,7 +137,7 @@ akSara-jnAna iruva kannaDigaLu kUDa anivAryadE heccAgi kanDu ODuvudilla. baT sAm
 
 ---
 
-## bAga mUru — mAtu mattu baraha
+## bhAga mUru — mAtu mattu baraha
 
 ### 3.1 mAtina citra {#31}
 
@@ -153,11 +153,11 @@ samskxta svara *ṛ* (ಋ) mAtu-kannaDigaLalli sangata dvani-dhAra illa — kann
 
 ### 3.4 tarkiyA lipi krAnti {#34}
 
-1928ralli tarkiyA arabi-lipiyanu (Ottoman Turkishge upayOgisuttiddadu) LaTin-mUla akSaramAlEyondige badaliside — onde talE-mAruge sAmAnya-jnAna adika-prAya sADisitu. baT ee aitihAsika udAharaNavannu upayOgisi lipi-sarpaDike sADyavA mattu phalakArivA endu tOrisuttAre. tarkiyA prakaraNavannu tOrisuttade: (a) rAjakIya icChA-bala iruvAgala onde talE-mAruge pUrNa lipi-badalu sADyavAguttade; (b) sAhityika-paramparE nAmsuvudilla (adannu hosa-lipigE parivartisubahudAdu); mattu (c) baraha-vyavastheyA saraLI-karaNa nATakIya akSaratA-labdhiyannu taDedukoDuttade. kannaDa lipi-sarpaDikeya pakSadalli ee udAharaNavannu bEre bEre kaDeyalli hOlisutte.
+1928ralli tarkiyA arabi-lipiyanu (Ottoman Turkishge upayOgisuttiddadu) LaTin-mUla akSaramAlEyondige badaliside — onde talE-mAruge sAmAnya-jnAna adhika-prAya sADisitu. baT ee aitihAsika udAharaNavannu upayOgisi lipi-sarpaDike sADyavA mattu phalakArivA endu tOrisuttAre. tarkiyA prakaraNavannu tOrisuttade: (a) rAjakIya icChA-bala iruvAgala onde talE-mAruge pUrNa lipi-badalu sADyavAguttade; (b) sAhityika-paramparE nAmsuvudilla (adannu hosa-lipigE parivartisubahudAdu); mattu (c) baraha-vyavastheyA saraLI-karaNa nATakIya akSaratA-labdhiyannu taDedukoDuttade. kannaDa lipi-sarpaDikeya pakSadalli ee udAharaNavannu bEre bEre kaDeyalli hOlisutte.
 
 ### 3.5 kannaDigaLige "hosa baraha" {#35}
 
-mUranesarha adyAyagaLa mEle badisi ee nibandha bAga-mUrana kEndriya nibandha. baT avaru "hosa baraha" endu ambuvudannu kaDeyuttAre: idu kannaDa-aksaramAlEyinda hattu mabAprANa-aksaragaLannu (Ka, Ga, Ca, Ja, Ta, Da, Ta, Da, Fa, Ba), retrOphlex sibilant (Sa), mattu bEre konDu samskxta-eravalu padagaLige tattalAguvavE hordadu kannaDigaLalli phOnOlOjikala kArya mADada konDu aksaragaLannu taLLedubiDuvudu. avarA vAdu: mUla kannaDa padagaLu ee dvanigaLannu viSiSTavAgi upayOgisuvudilla; ee aksaragaLu kevaLa eravalu padagaLa samskxta-barehugE uLisikOnDiruttave. aksaramAlEyannu 31–34 aksaragaLige (indinA 49+dinda) saraLisuvadale kalika-bArannu kaDimE mADi akSaratEyannu heccisuttade.
+mUranesarha adhyAyagaLa mEle badisi ee nibandha bhAga-mUrana kEndriya nibandha. baT avaru "hosa baraha" endu ambuvudannu kaDeyuttAre: idu kannaDa-aksaramAlEyinda hattu mabAprANa-aksaragaLannu (Ka, Ga, Ca, Ja, Ta, Da, Ta, Da, Fa, Ba), retrOphlex sibilant (Sa), mattu bEre konDu samskxta-eravalu padagaLige tattalAguvavE hordadu kannaDigaLalli phOnOlOjikala kArya mADada konDu aksaragaLannu taLLedubiDuvudu. avarA vAdu: mUla kannaDa padagaLu ee dvanigaLannu viSiSTavAgi upayOgisuvudilla; ee aksaragaLu kevaLa eravalu padagaLa samskxta-barehugE uLisikOnDiruttave. aksaramAlEyannu 31–34 aksaragaLige (indinA 49+dinda) saraLisuvadale kalika-bArannu kaDimE mADi akSaratEyannu heccisuttade.
 
 ### 3.6 bAse mattu baraha {#36}
 
@@ -165,7 +165,7 @@ mAtu (ಮಾತು) mattu baraha (ಬರಹ) naDuvina bEdavanu kanTuvAda niBandh
 
 ---
 
-## bAga nAlku — kannaDa bAsheya svarUpa
+## bhAga nAlku — kannaDa bAsheya svarUpa
 
 ### 4.1 kannaDigaLa mUru mukha {#41}
 
@@ -181,7 +181,7 @@ kannaDa vyAkaraNa-barEyuva itihAsAvAda sarvEkSaNe — uLidiruvalla mattu haLeyad
 
 ### 4.4 oru nUru varSagaLa kannaDa vyAkaraNa sam-sOdane {#44}
 
-19nEya nUrAdina kelavindA kalpitage briiTiSu aDikarArigaLu (KiTTeL, Rice), yurOpina dravIDa-jnAnigaLu (CaldveL, ZvElEbil), mattu bharatIya jnAnigaLu (B.D. SatyAnArAyaNa, T.V. VenkaTacala SaSTri, mattu baT swayam) sEridante kannaDa bASika pAnDityannu vivisuttade. baT pratigONAde pratigONu ella aDiyali nATkiyAdadu mattu tappAdadu endu maulyAnkana mADuttAre, samskxta-vargagaLu baDiyA raci-pantaga-paddhatiyannu upayOgisida jnAnigaLu kannaDigaLa adikasariyAda varNanegaLannu nIDuttAre endu vAdisutte.
+19nEya nUrAdina kelavindA kalpitage briiTiSu aDikarArigaLu (KiTTeL, Rice), yurOpina dravIDa-jnAnigaLu (CaldveL, ZvElEbil), mattu bharatIya jnAnigaLu (B.D. SatyAnArAyaNa, T.V. VenkaTacala SaSTri, mattu baT swayam) sEridante kannaDa bASika pAnDityannu vivisuttade. baT pratigONAde pratigONu ella aDiyali nATkiyAdadu mattu tappAdadu endu maulyAnkana mADuttAre, samskxta-vargagaLu baDiyA raci-pantaga-paddhatiyannu upayOgisida jnAnigaLu kannaDigaLa adhikasariyAda varNanegaLannu nIDuttAre endu vAdisutte.
 
 ### 4.5 doDD samskxta panDitaru tappannu mADidAga {#45}
 
@@ -193,15 +193,15 @@ vijnyAna, tantrajnAna, mattu adhunika-jIvitakke kannaDa pada-kOsavannu hEge beLe
 
 ---
 
-## bAga aidu — jagattina bAsegaLu
+## bhAga aidu — jagattina bAsegaLu
 
 ### 5.1 bAratada bAsegaLu {#51}
 
-bArata jagattina adika bASika-vividhate iruva desha, 700 hEccu bAsegaLonDige. baT nAlku mukhya bArata-bAse-kuTumbagaLannu sarvEkSisuttAre: dravIDa (kannaDa, tamiLu, teLugu, maLALam, mattu halavAru cinna bAsegaLu), inDO-AriyA (hindi, bangALi, marATi, gujarAti, itara), TibetO-burma (maNipuri, boDO, mattu EsAnE bharatada hala bAsegaLu), mattu AusTrO-eshiyAtika (santAli, munDAri, khAsi). "bASika kSEtra" (India samAgrata: retroflexion, SOV krama, eravalu-pada-kOsa) viSayavanu vivEcisuttAre. "hindi bAratada "rASTrabhASA"" emba mithyeyannu virOdhisuttAre — adu kevaLa sumbAru 40% janarige tAy-nuDi.
+bArata jagattina adhika bASika-vividhate iruva desha, 700 hEccu bAsegaLonDige. baT nAlku mukhya bArata-bAse-kuTumbagaLannu sarvEkSisuttAre: dravIDa (kannaDa, tamiLu, teLugu, maLALam, mattu halavAru cinna bAsegaLu), inDO-AriyA (hindi, bangALi, marATi, gujarAti, itara), TibetO-burma (maNipuri, boDO, mattu EsAnE bharatada hala bAsegaLu), mattu AusTrO-eshiyAtika (santAli, munDAri, khAsi). "bASika kSEtra" (India samAgrata: retroflexion, SOV krama, eravalu-pada-kOsa) viSayavanu vivEcisuttAre. "hindi bAratada "rASTrabhASA"" emba mithyeyannu virOdhisuttAre — adu kevaLa sumbAru 40% janarige tAy-nuDi.
 
 ### 5.2 Esiyada bAsegaLu {#52}
 
-Esiyada mukhya bAse-kuTumbagaLa sarvEkSaNe: SinO-TibeTan (cIni, TibeTan, birma), JapOnik (jApAni), kOrEAN, Altaik (tarkI, mangOliyA, mAncu), sEmITik (arabi, hibrU), IrAniyA (phArsi, pashTO), mattu ekakulA (jApAni, kOrIyan). Esiya jagattinalli adhikajalanu mAtanADuvavara bAsegaLannu (manDarIna cIni, hindi, arabi) mattu racane-rItyalli adika viShESavAda konDu bAsegaLannu (jApAni, adara viSEdavAda gaurava-vyavasthE mattu viSaya-pratikriyA-racane) hoDagisuttade endu baT TippaNi mADuttAre.
+Esiyada mukhya bAse-kuTumbagaLa sarvEkSaNe: SinO-TibeTan (cIni, TibeTan, birma), JapOnik (jApAni), kOrEAN, Altaik (tarkI, mangOliyA, mAncu), sEmITik (arabi, hibrU), IrAniyA (phArsi, pashTO), mattu ekakulA (jApAni, kOrIyan). Esiya jagattinalli adhikajalanu mAtanADuvavara bAsegaLannu (manDarIna cIni, hindi, arabi) mattu racane-rItyalli adhika viShESavAda konDu bAsegaLannu (jApAni, adara viSEdavAda gaurava-vyavasthE mattu viSaya-pratikriyA-racane) hoDagisuttade endu baT TippaNi mADuttAre.
 
 ### 5.3 yurOpina bAsegaLu {#53}
 
@@ -255,4 +255,4 @@ pustaka modalina viSayakke hOguttade: sAmAnya janaru tiLidukOnDiguvudiginta bAsh
 
 ---
 
-*ee dastavEju Di. En. sankara baT avara "bAsheya bagge nIvenu balliri?" (2010) pustakadinaduva Eke baraha-rUpadi samyOjita saramsa. mUla kannaDa baraha [27-baasheya-bagge-book.md](./27-baasheya-bagge-book) dalli mattu English saramsa [27-baasheya-bagge-en.md](./27-baasheya-bagge-en) dalli kANabahudu.*
+*ee dastavEju Di. En. sankara bhaT avara "bAsheya bagge nIvenu balliri?" (2010) pustakadinaduva Eke baraha-rUpadi samyOjita saramsa. mUla kannaDa baraha [27-baasheya-bagge-book.md](./27-baasheya-bagge-book) dalli mattu English saramsa [27-baasheya-bagge-en.md](./27-baasheya-bagge-en) dalli kANabahudu.*

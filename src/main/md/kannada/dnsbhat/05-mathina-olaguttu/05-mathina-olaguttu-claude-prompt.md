@@ -100,7 +100,7 @@ The book's unifying argument is that **Kannada must be understood on its own ter
 | Kannada Term | Eke | English Meaning |
 |---|---|---|
 | ಉಲಿ / ಸ್ವನ | uLi / svana | phoneme / sound |
-| ಅರ್ಥ | arta | meaning |
+| ಅರ್ಥ | artha | meaning |
 | ಬರಿಗೆ | barige | letter/grapheme |
 | ಮಾತು | mAtu | speech |
 | ಬರಹ | baraha | writing |

@@ -1,11 +1,11 @@
-# kannaDa vyAkaraNa yAke bEku? — Di. En. sankara baT
+# kannaDa vyAkaraNa yAke bEku? — Di. En. sankara bhaT
 
-**mukyavAda viSaya:** kannaDa sollarime upayOga — akSarate, baraha, anuvAda, nuDihammuge, mAtina tondaregaLu
-**kartaru:** Di. En. sankara baT
+**mukhyavAda viSaya:** kannaDa sollarime upayOga — akSarate, baraha, anuvAda, nuDihammuge, mAtina tondaregaLu
+**kartaru:** Di. En. sankara bhaT
 **prakaTane:** 2009
 **mudraka:** bASa prakasana, heggoDu, sAgara
 **nuDi:** kannaDa (hosa baraha — ba→b, da→d tara saraLa baraha)
-**TippaNi:** ee pustakadi adyAyagaLannu "pasuge" endu keredukoLLuttAre, "adyAya" alla
+**TippaNi:** ee pustakadi adhyAyagaLannu "pasuge" endu keredukoLLuttAre, "adhyAya" alla
 **mUla:** [English](./29-kannada-vyakarana-yaake-beku-en)
 
 ---
@@ -32,7 +32,7 @@
 
 ondu kannaDiganu huTTidagilindE kannaDiganAgi matanADuttAne — andare adara sollarime avana talayadalli idE. ee oLa-sollarime "mElu-sollarime" (tacit grammar) — svikarisi baLasida, Adare hELala bArada niyama-kaTTale. baT avaru ee pustakadinAdu entaha mElu-sollarimeyanu bEre bEre bEkugaLige hEge upayOgisi biDabahudandu tOrisuttAre: akSarate karpisuvagala, bareyuvudaralli, arimeya-baraha barehuvagala, nalbaraha barehuvagala, anuvAda mADuvagala, nuDi hammu mADuvagala, mattu mAtina tondaregaLa cikitseyalli.
 
-ee mustakada mukhya kELike: sollarimeyanu tiLiyuvudu niyamagaLannu bAyi-pATa mADuvudu alla — adu nirdishTa vyAvahArika kArya nirvahisuvudu. ee vAyideyanu baT avaru dAtivA oTTida rUpagaLa (vibakti-rUpagaLa) udAharaNadi tOrisuttAre: "-ge" (manege), "-ige" (ArAdige), "-nige" (hAvanige), "-kke" (makkakke) enda nAlku rUpagaLu ellA kannaDigaLige svAbhAvikavAgi bagiyuttave. Adare yAkE bEre rUpagaLu bALuttave embadannu hELala bArA janakke idu "gabarU" — ee gabarUvannu hOgaladisuvudu sollarimeyininda sADya. mAtu mattu baraha naDuvina bedagaLannu kanDupaDisu pasugeyandu mugisutte; mOsata adyAyadinAdu ee pustakadinAdu 11 pasugegaLa oLapiDiyannu koDuttAre.
+ee mustakada mukhya kELike: sollarimeyanu tiLiyuvudu niyamagaLannu bAyi-pATha mADuvudu alla — adu nirdishTa vyAvahArika kArya nirvahisuvudu. ee vAyideyanu baT avaru dAtivA oTTida rUpagaLa (vibakti-rUpagaLa) udAharaNadi tOrisuttAre: "-ge" (manege), "-ige" (ArAdige), "-nige" (hAvanige), "-kke" (makkakke) enda nAlku rUpagaLu ellA kannaDigaLige svAbhAvikavAgi bagiyuttave. Adare yAkE bEre rUpagaLu bALuttave embadannu hELala bArA janakke idu "gabarU" — ee gabarUvannu hOgaladisuvudu sollarimeyininda sADya. mAtu mattu baraha naDuvina bedagaLannu kanDupaDisu pasugeyandu mugisutte; mOsata adhyAyadinAdu ee pustakadinAdu 11 pasugegaLa oLapiDiyannu koDuttAre.
 
 ---
 
@@ -40,7 +40,7 @@ ee mustakada mukhya kELike: sollarimeyanu tiLiyuvudu niyamagaLannu bAyi-pATa mAD
 
 *(ಓದು-ಬರಹದ ಕಲಿಕೆ)*
 
-akSarate karpuvagala sollarimeyA jnAna yAke upayOgavAguttade? uli (phoneme) mattu barige (grapheme) naDuvina sambanda tiLiyuvudu — idu bAseyarimeya viSaya, adannu akSarate-guruvarigE tiLivuvudu nantara bEdA endu baT vAdisutte. ADunuDi (mAtanADuvuDu) mattu baraha naDuvina bedavanu tiLidu makkLige karpisu bEku — makkLa oLanADu tappalla, kElpa-nuDigaLa bEdadantarA baraha-mAnaka adana kannaDigaLa nuDiyannu "tappu" endu tOrisuvudu bAseyarime dxSTiyalli tappAdade. doDD makkaLige akSarate karpuvagala oLanADu (dialect) mattu baraha-nuDi (standard/written form) naDuvina bedannu spaSTapadisidarE kali-bhAra adika salavasAguttade. uli-barige jODi gurtisala bAseyarimeya neleyu doDD sahAya mADuttade endu baT hELuttAre.
+akSarate karpuvagala sollarimeyA jnAna yAke upayOgavAguttade? uli (phoneme) mattu barige (grapheme) naDuvina sambandha tiLiyuvudu — idu bAseyarimeya viSaya, adannu akSarate-guruvarigE tiLivuvudu nantara bEdA endu baT vAdisutte. ADunuDi (mAtanADuvuDu) mattu baraha naDuvina bedavanu tiLidu makkLige karpisu bEku — makkLa oLanADu tappalla, kElpa-nuDigaLa bEdadantarA baraha-mAnaka adana kannaDigaLa nuDiyannu "tappu" endu tOrisuvudu bAseyarime dxSTiyalli tappAdade. doDD makkaLige akSarate karpuvagala oLanADu (dialect) mattu baraha-nuDi (standard/written form) naDuvina bedannu spaSTapadisidarE kali-bhAra adhika salavasAguttade. uli-barige jODi gurtisala bAseyarimeya neleyu doDD sahAya mADuttade endu baT hELuttAre.
 
 ---
 
@@ -48,7 +48,7 @@ akSarate karpuvagala sollarimeyA jnAna yAke upayOgavAguttade? uli (phoneme) matt
 
 *(ಬರೆಯುವುದರಲ್ಲಿ ಹೆಚ್ಚಿನ ಕಲಿಕೆ)*
 
-"baraha" endare lEkhakanu odugarige arthavannu taruvudu — idakke sollarimeyA jnAna anivArya. iTTaLa (sentence structure), kuraLu-kaTTale (paragraph cohesion), mattu tOruga padagaLu (cohesive devices) sandarbhadi baraha-kalika upalabdavAguttade. lEkhaka-oduga sambanda ondu samyukta vyavahAra: oduganu artha paDeyuvudu lEkhakanininda avalabiside; adu lEkhakana baraha-rItige sambandapaDidE. sollu (sentence) hEge kaTTalAgutte, sollu hEge eraDu sollugaLu sErakkonDu kuraLu Aguttave embadannu tiLidu bareyuvudaralli hoddike gurutu (punctuation) hEge baLasabEku embadannu tiLidukOLLuvadale hecca kalika sADya. baraha-tirupu (revision) mADuvudu kUDa sollarimeyA dxSTi bEku — biTTabaDuva artha-gabarU saripadisu bEku.
+"baraha" endare lEkhakanu odugarige arthavannu taruvudu — idakke sollarimeyA jnAna anivArya. iTTaLa (sentence structure), kuraLu-kaTTale (paragraph cohesion), mattu tOruga padagaLu (cohesive devices) sandarbhadi baraha-kalika upalabdavAguttade. lEkhaka-oduga sambandha ondu samyukta vyavahAra: oduganu artha paDeyuvudu lEkhakanininda avalabiside; adu lEkhakana baraha-rItige sambandhapaDidE. sollu (sentence) hEge kaTTalAgutte, sollu hEge eraDu sollugaLu sErakkonDu kuraLu Aguttave embadannu tiLidu bareyuvudaralli hoddike gurutu (punctuation) hEge baLasabEku embadannu tiLidukOLLuvadale hecca kalika sADya. baraha-tirupu (revision) mADuvudu kUDa sollarimeyA dxSTi bEku — biTTabaDuva artha-gabarU saripadisu bEku.
 
 ---
 
@@ -56,7 +56,7 @@ akSarate karpuvagala sollarimeyA jnAna yAke upayOgavAguttade? uli (phoneme) matt
 
 *(ಅರಿಮೆಯ ಬರಹಗಳು)*
 
-arimeya baraha (academic writing) kannaDigaLalli entu kaSTavAguttade? samskxta pada (Sanskrit loanword) adika baLasuvudu, sikkalusollugaLu (tangled sentences), mattu mArpuruLu (passive voice) timbidantAda kararu (text) odugarige gabarUvAgi biDuttade. arimeya pada (technical terms) barehuvagala sollarimeyA arime bEku — arimeya padakke ella bEkAdaru artha-nirdishTateyirirutande, sikkala-sollu allade spaSTa sollu rachisabEku embu. sollarime kannaDigaLalliruva mArpuruLu-nirmANa (passive construction) hEge jaruguttade embu tiLidukovudale barehuvagala ee tondare nivarisabahudu. konDu bAvukaru samskxta padagaLannu aTTu kaDiyadE baLasuttAre — adU ondu tantragArike endu eNisabahudAdarU — adannu kaviyondE saripadisabahudu.
+arimeya baraha (academic writing) kannaDigaLalli entu kaSTavAguttade? samskxta pada (Sanskrit loanword) adhika baLasuvudu, sikkalusollugaLu (tangled sentences), mattu mArpuruLu (passive voice) timbidantAda kararu (text) odugarige gabarUvAgi biDuttade. arimeya pada (technical terms) barehuvagala sollarimeyA arime bEku — arimeya padakke ella bEkAdaru artha-nirdishTateyirirutande, sikkala-sollu allade spaSTa sollu rachisabEku embu. sollarime kannaDigaLalliruva mArpuruLu-nirmANa (passive construction) hEge jaruguttade embu tiLidukovudale barehuvagala ee tondare nivarisabahudu. konDu bAvukaru samskxta padagaLannu aTTu kaDiyadE baLasuttAre — adU ondu tantragArike endu eNisabahudAdarU — adannu kaviyondE saripadisabahudu.
 
 ---
 
@@ -104,7 +104,7 @@ nuDihammuge (language planning) eraDu mukhya kArya nirvahisuttade: lipi-sarpaDik
 
 *(ಮಾತಿನ ತೊಂದರೆಗಳು)*
 
-mAtina tondaregaLu (speech disorders) eraDu bageyadavu: beLavaNiga-mArga (developmental disorders — makkaLalli) mattu paDeda tondaregaLu (acquired disorders — doreyuvuDudinanda). kELuvikarateyininda (hearing loss), uli-baDete-tondaregaLu (phonological disorders), mattu mAtina-nAsa (aphasia — ondu bAgadinanda mAtina keLuvike kaDimeyAguvudu) kannaDigaLalli kUDa irutte. karnATakadalli mAtina-cikitse (speech therapy) mADuvavarigu kannaDigaLa sollarimeyA ondu klinikala nirdEshana-grantha (clinical reference) illa — idu ondu prajA-ārOgya-lOpavE endu baT hELuttAre. uggumAtu (stuttering) mattu bErE mAtina baDete-tondaregaLannu cikitseyalli kannaDigaLa uli-kaTTale mattu sollu-kaTTale tiLidukOLLuvudu anivArya.
+mAtina tondaregaLu (speech disorders) eraDu bageyadavu: beLavaNiga-mArga (developmental disorders — makkaLalli) mattu paDeda tondaregaLu (acquired disorders — doreyuvuDudinanda). kELuvikarateyininda (hearing loss), uli-baDete-tondaregaLu (phonological disorders), mattu mAtina-nAsa (aphasia — ondu bhAgadinanda mAtina keLuvike kaDimeyAguvudu) kannaDigaLalli kUDa irutte. karnATakadalli mAtina-cikitse (speech therapy) mADuvavarigu kannaDigaLa sollarimeyA ondu klinikala nirdEshana-grantha (clinical reference) illa — idu ondu prajA-ārOgya-lOpavE endu baT hELuttAre. uggumAtu (stuttering) mattu bErE mAtina baDete-tondaregaLannu cikitseyalli kannaDigaLa uli-kaTTale mattu sollu-kaTTale tiLidukOLLuvudu anivArya.
 
 ---
 
@@ -151,4 +151,4 @@ varNanAtmaka (descriptive), nirdEshAtmaka (prescriptive), SaikShaNika (pedagogic
 
 ---
 
-*ee dastavEju Di. En. sankara baT avara "kannaDa vyAkaraNa yAke bEku?" (2009) pustakadinAdu Eke baraha-rUpadi samyOjita saramsa. mUla kannaDa baraha [29-kannada-vyakarana-yaake-beku-book.md](./29-kannada-vyakarana-yaake-beku-book) dalli mattu English saramsa [29-kannada-vyakarana-yaake-beku-en.md](./29-kannada-vyakarana-yaake-beku-en) dalli kANabahudu.*
+*ee dastavEju Di. En. sankara bhaT avara "kannaDa vyAkaraNa yAke bEku?" (2009) pustakadinAdu Eke baraha-rUpadi samyOjita saramsa. mUla kannaDa baraha [29-kannada-vyakarana-yaake-beku-book.md](./29-kannada-vyakarana-yaake-beku-book) dalli mattu English saramsa [29-kannada-vyakarana-yaake-beku-en.md](./29-kannada-vyakarana-yaake-beku-en) dalli kANabahudu.*

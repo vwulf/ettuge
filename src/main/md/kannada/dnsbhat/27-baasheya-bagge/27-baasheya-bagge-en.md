@@ -1,4 +1,4 @@
-# bASheya bagge — About Language
+# bhASheya bagge — About Language
 ## ಭಾಷೆಯ ಬಗ್ಗೆ ನೀವೇನು ಬಲ್ಲಿರಿ? (What Do You Know About Language?)
 
 **Title (Kannada):** ಭಾಷೆಯ ಬಗ್ಗೆ ನೀವೇನು ಬಲ್ಲಿರಿ?

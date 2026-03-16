@@ -95,7 +95,7 @@ barahakke mElme bandudu hEge?
 
 [English →](./18-kannada-nudiya-bagege-chintane-en#inukunota-14)
 
-baraha oru kala mattu yantra — nUru varushagaLu, sAvirada varushagaLa hinde nuDi barahakku muncAda uLide. Bhat hELuttAre: barahakke mElme bandudu mudraNavE kAraNa. mudraNavu barahavanna nerene hancuttade, "sariyAda" baraha mattu vyAkaraNavannu nelegoLisuttade, mattu bAyi nuDiya "rUpa" adu "tappu" emba nambike haTTuttade. Bhat mUlabhUta sUtravannu nenapisuttAre: bAyi nuDi mudala, baraha adu pratibimba. pratibimbakke nEra tuLiyuvudu adara mUla alla. Odige mattu prajAtantra naDuvina sambandavannu kUDa bareyuttAre — Odida manushya sampUrNa prAjAnEdya bhAgIdAriyAda sakka.
+baraha oru kala mattu yantra — nUru varushagaLu, sAvirada varushagaLa hinde nuDi barahakku muncAda uLide. Bhat hELuttAre: barahakke mElme bandudu mudraNavE kAraNa. mudraNavu barahavanna nerene hancuttade, "sariyAda" baraha mattu vyAkaraNavannu nelegoLisuttade, mattu bAyi nuDiya "rUpa" adu "tappu" emba nambike haTTuttade. Bhat mUlabhUta sUtravannu nenapisuttAre: bAyi nuDi mudala, baraha adu pratibimba. pratibimbakke nEra tuLiyuvudu adara mUla alla. Odige mattu prajAtantra naDuvina sambandhavannu kUDa bareyuttAre — Odida manushya sampUrNa prAjAnEdya bhAgIdAriyAda sakka.
 
 ---
 
@@ -106,7 +106,7 @@ nuDigaLa naDuvina nantastike
 
 [English →](./18-kannada-nudiya-bagege-chintane-en#inukunota-18)
 
-eraDu nuDigaLu "nentA" endu hEgE teeguvudu? Bhat spaShTamAgi hELuttAre: samskxtika samparka, hancidukOLLida sAla padagaLu, yA bhugoLadalli hattirada nuDigaLu — ivugaLu sAku alla. vijJAniya rIti: niyamita svara-vyanjana sambandagaLannu paDeyabedu. kannaDa drAviDa nuDigaLa kuLadAgi, samskxtakku sEridaddalla. eraDara naDuvina sAla padagaLu samparkadinda banda padagaLu, gOtrasindha sambandavannu tOruvudu alla. Bhat hELuttAre: eraDu nuDigaLu nEntA endu hELalu ondu hantada niyamita svara-badalavannu tOrisabEku.
+eraDu nuDigaLu "nentA" endu hEgE teeguvudu? Bhat spaShTamAgi hELuttAre: samskxtika samparka, hancidukOLLida sAla padagaLu, yA bhugoLadalli hattirada nuDigaLu — ivugaLu sAku alla. vijJAniya rIti: niyamita svara-vyanjana sambandhagaLannu paDeyabedu. kannaDa drAviDa nuDigaLa kuLadAgi, samskxtakku sEridaddalla. eraDara naDuvina sAla padagaLu samparkadinda banda padagaLu, gOtrasindha sambandhavannu tOruvudu alla. Bhat hELuttAre: eraDu nuDigaLu nEntA endu hELalu ondu hantada niyamita svara-badalavannu tOrisabEku.
 
 ---
 

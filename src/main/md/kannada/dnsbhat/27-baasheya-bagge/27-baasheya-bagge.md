@@ -1,9 +1,9 @@
 ---
-title: "27 — bASheya bagge nIvEnu balliri?"
+title: "27 — bhASheya bagge nIvEnu balliri?"
 nav_order: 127
 ---
 
-# 27 — Baasheya Bagge
+# 27 — bhASheya bagge nIvEnu balliri?
 
 | Format | Link |
 |--------|------|

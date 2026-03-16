@@ -1,7 +1,7 @@
-# kannaDa vAkyagaLa oLaracane — Di. En. sankara baT
+# kannaDa vAkyagaLa oLaracane — Di. En. sankara bhaT
 
-**mukyavAda viSaya:** kannaDa vAkyagaLa oLaracane, kriyAvAkya, viSayavAkya, gaTakagaLu, oLavAkyagaLu, jODaNe
-**kartaru:** Di. En. sankara baT
+**mukhyavAda viSaya:** kannaDa vAkyagaLa oLaracane, kriyAvAkya, viSayavAkya, gaTakagaLu, oLavAkyagaLu, jODaNe
+**kartaru:** Di. En. sankara bhaT
 **prakaTane:** 2004 (modalina mudraNa), 2006 (eraDaneyadu), 2012 (mUraneyadu)
 **mudraka:** bASa prakasana, Araga, tIrtahaLLi
 **paTagaLu:** ~277
@@ -30,15 +30,15 @@
 
 ### 1.1 mAtina kasagagaLu (ಮಾತಿನ ಕೆಲಸಗಳು)
 
-nAvu dinanavU mAtannu bEre bEre kArya mADalu upayOgisuttEve: tili-hELuvudu, keLuvudu, kAryisuvudu, yEne-keLuvudu, hIge hala bageya "mAtina kasagagaLu" mADuttEve. ee baT avarA modalina adyAya vAkyagaLu hEge mAhitigAgi yA kArya-kAraNakAgi bALuttave endu vivEcisi, sarvE-sAmAnya vAkyagaLannu (tiLivina vAkyagaLannu) mUla rUpagAgi eTTikOLLuttade. tiLivina vAkyagaLa oLaracaneyE adyAyagaLu 2–9 raLLi vistAravAgi vicArisaLAguttade. ee adyAya iDiya pustakadaLLi bALuva sAnkEtika paribASeyannu ondondAgI paricayisuttade.
+nAvu dinanavU mAtannu bEre bEre kArya mADalu upayOgisuttEve: tili-hELuvudu, keLuvudu, kAryisuvudu, yEne-keLuvudu, hIge hala bageya "mAtina kasagagaLu" mADuttEve. ee baT avarA modalina adhyAya vAkyagaLu hEge mAhitigAgi yA kArya-kAraNakAgi bALuttave endu vivEcisi, sarvE-sAmAnya vAkyagaLannu (tiLivina vAkyagaLannu) mUla rUpagAgi eTTikOLLuttade. tiLivina vAkyagaLa oLaracaneyE adhyAyagaLu 2–9 raLLi vistAravAgi vicArisaLAguttade. ee adhyAya iDiya pustakadaLLi bALuva sAnkEtika paribASeyannu ondondAgI paricayisuttade.
 
 ### 1.2 kriyAvAkyagaLu mattu viSayavAkyagaLu (ಕ್ರಿಯಾವಾಕ್ಯ ಮತ್ತು ವಿಷಯವಾಕ್ಯ)
 
-tiLivina vAkyagaLa naDuvE pramukha eraDu bAga kANuttEve: "kriyAvAkya" embavugaLu ondu kArya naDeyitu yA naDeyuttade endu hELuttave; "viSayavAkya" embavugaLu ondu nele iruvadate yA guNa iruvadate endu "iru" kriyApada upayOgisi hELuttave. ee eraDara naDuvE tense sadhyateyalli bedavide — kriyAvAkyagaLu kEvaLa hecci/hinde emba eraDe bEda tOrisidare, viSayavAkyagaLu "ittu/ide/iruttade" emba mUru bEda tOrisuttave. ee mUlabhUta bedavE pUrtiya pustakadaLLi ondu nEL nELa nuDiyuttade.
+tiLivina vAkyagaLa naDuvE pramukha eraDu bhAga kANuttEve: "kriyAvAkya" embavugaLu ondu kArya naDeyitu yA naDeyuttade endu hELuttave; "viSayavAkya" embavugaLu ondu nele iruvadate yA guNa iruvadate endu "iru" kriyApada upayOgisi hELuttave. ee eraDara naDuvE tense sadhyateyalli bedavide — kriyAvAkyagaLu kEvaLa hecci/hinde emba eraDe bEda tOrisidare, viSayavAkyagaLu "ittu/ide/iruttade" emba mUru bEda tOrisuttave. ee mUlabhUta bedavE pUrtiya pustakadaLLi ondu nEL nELa nuDiyuttade.
 
 ### 1.3–1.7 gaTakagaLu, guNapadagaLu, oLavAkyagaLu, jODaNe, vaiSiSTyagaLu
 
-uLida kenDagaLu mondina adyAyagaLige rogge hAki, pustakadinaduva mUru mukyavAda vistAragaLannu paricayisuttave: (1) vAkyagaLa oLagiruvudu gaTakagaLu — muKya gaTakagaLu mattu muKyavallada gaTakagaLu; (2) guNapadagaLu hEge kriyApada yA hesarinu padagaLa guNagaLannu varisuttave; (3) oLavAkyagaLu hEge doDD vAkyadoLage eDegu vAkyagaLannu sErutte embadu; (4) eraDu vAkyagaLannu ondAgI jODisuva kramagaLu; (5) kannaDa nuDiyalli kANuva vaiSiSTya lakSaNagaLu. ee adyAya iDiya pustakakke ondu nakSe.
+uLida kenDagaLu mondina adhyAyagaLige rogge hAki, pustakadinaduva mUru mukhyavAda vistAragaLannu paricayisuttave: (1) vAkyagaLa oLagiruvudu gaTakagaLu — muKya gaTakagaLu mattu muKyavallada gaTakagaLu; (2) guNapadagaLu hEge kriyApada yA hesarinu padagaLa guNagaLannu varisuttave; (3) oLavAkyagaLu hEge doDD vAkyadoLage eDegu vAkyagaLannu sErutte embadu; (4) eraDu vAkyagaLannu ondAgI jODisuva kramagaLu; (5) kannaDa nuDiyalli kANuva vaiSiSTya lakSaNagaLu. ee adhyAya iDiya pustakakke ondu nakSe.
 
 ---
 
@@ -56,7 +56,7 @@ kriyApada yAva bageya kAryavannu varisuttade embadara mEle gaTakagaLa sankhye av
 
 ### 2.3–2.6 kArya-bageya vargIkaraNa mattu gaTakagaLa kArya
 
-kAryagaLu eraDu muKya bagede: "mADuvikegaLu" (volicAdAyi ondu kAryavannu naDeyisidAga) mattu "AguvikegaLu" (kAryavannu yaArU naDeyisade kEvaLa naDedAga). ee bedavannu noredu vAkya-racaneyannu vicArisi biDuvarE vibakti-prattayada DApaTu hOgutte. suruvannu sUcisuvudu (suru gaTaka), koneyannu sUcisuvudu (kone gaTaka), jAga sUcisuvudu (jAga gaTaka) emba vibhAjanegaLannu viSaya mattu hinneLi emba vimarsa-maTTada bedagaLannu ee adyAya sEri vivEcisuttade.
+kAryagaLu eraDu muKya bagede: "mADuvikegaLu" (volicAdAyi ondu kAryavannu naDeyisidAga) mattu "AguvikegaLu" (kAryavannu yaArU naDeyisade kEvaLa naDedAga). ee bedavannu noredu vAkya-racaneyannu vicArisi biDuvarE vibakti-prattayada DApaTu hOgutte. suruvannu sUcisuvudu (suru gaTaka), koneyannu sUcisuvudu (kone gaTaka), jAga sUcisuvudu (jAga gaTaka) emba vibhAjanegaLannu viSaya mattu hinneLi emba vimarsa-maTTada bedagaLannu ee adhyAya sEri vivEcisuttade.
 
 ---
 
@@ -72,9 +72,9 @@ viSayavAkyagaLu "iru" emba kriyApada bALisi ondu nele iruvadate yA ondu guNa ond
 
 guNavAkyagaLu ondu vastuvinoLage ondu guNa iruvadate hELuttave. kannaDa illi mUru rItiyAgi guNavannu hELuttave: "-age" oTTukoLLuva mUlika guNapadagaLinda (kempage, beLLage, nuNNage, dunDage, mellage entAhavugaLu); "Agi" iru emba sErisida rUpagaLinda ("A kereya nIru yAvAgalU bisiyAgi iruttade"); yA nAmapada kanteyoLage "-a" prattaya konDu sErisida rUpagaLinda. ee mUlakagaLa naDuvE vAkya bEda niyamitavAgi Aguttade.
 
-### 3.4 sambanda vAkyagaLu (ಸಂಬಂಧ ವಾಕ್ಯಗಳು)
+### 3.4 sambandha vAkyagaLu (ಸಂಬಂಧ ವಾಕ್ಯಗಳು)
 
-sambandavAkyagaLu ondu kAryakke sambandisida ondu viSeSa gaTakavannu kEndrikrisuttave: "rAju hOdaddu bengaLUruge" emba vAkyadi rAju hOda jAgavannu munde tOruttEve. ee rIti kriyAvAkyagaLa nEraLa varivigE virodhavAda ondu viSeSa rUpa; intAha vAkyagaLalli "iru" kriyApada sEridiruvudu muKyavAda lakSaNa.
+sambandhavAkyagaLu ondu kAryakke sambandisida ondu viSeSa gaTakavannu kEndrikrisuttave: "rAju hOdaddu bengaLUruge" emba vAkyadi rAju hOda jAgavannu munde tOruttEve. ee rIti kriyAvAkyagaLa nEraLa varivigE virodhavAda ondu viSeSa rUpa; intAha vAkyagaLalli "iru" kriyApada sEridiruvudu muKyavAda lakSaNa.
 
 ---
 
@@ -88,11 +88,11 @@ sambandavAkyagaLu ondu kAryakke sambandisida ondu viSeSa gaTakavannu kEndrikrisu
 
 ### 4.3 vivaraNAtmaka nAmapada kantegaLu
 
-vivaraNAtmaka kantegaLalli guNapadagaLu, enNikeya padagaLu, aLateya padagaLu, mattu oLavAkyagaLu sELuttave. kannaDa enNikeyalli eraDu niyama kADuttave: "-a" oTTu sEridarE "kUDisuva" artha (ipattondu = 20+1); nEraLa sEridarE "guNIsuvudu" artha (ippattu = 2×10). krama-enNikeyannu "-nE/-nEya" sErisi mADuttare (nAlkanE huDuga). aLateya padagaLalli yAthArtha aLate (gENU, moLa, ke.ji.) mattu tarkaTa aLate (bahaLa, svaLpa, hala, keLavu) enda eraDu bAga kANuttEve.
+vivaraNAtmaka kantegaLalli guNapadagaLu, enNikeya padagaLu, aLateya padagaLu, mattu oLavAkyagaLu sELuttave. kannaDa enNikeyalli eraDu niyama kADuttave: "-a" oTTu sEridarE "kUDisuva" artha (ipattondu = 20+1); nEraLa sEridarE "guNIsuvudu" artha (ippattu = 2×10). krama-enNikeyannu "-nE/-nEya" sErisi mADuttare (nAlkanE huDuga). aLateya padagaLalli yAthArtha aLate (gENU, moLa, ke.ji.) mattu tarkaTa aLate (bahaLa, svaLpa, hala, keLavu) enda eraDu bhAga kANuttEve.
 
 ### 4.4 sArAmsa
 
-nAmapada kantegaLu vAkyadi kArya-pAlgArarannu yA viSaya-vastugaLannu sūcisuttave — hEsarisuvudu yA varisuvudu enda eraDu kArya mADuttave. varisuvAga, kanteyu guNapada, enNikeya pada, aLateya pada mattu oLavAkya emba nAlku bageya amsagaLannu kerigokkabahudu. ee adyAya pustaka-vistArada mUlabhUta.
+nAmapada kantegaLu vAkyadi kArya-pAlgArarannu yA viSaya-vastugaLannu sūcisuttave — hEsarisuvudu yA varisuvudu enda eraDu kArya mADuttave. varisuvAga, kanteyu guNapada, enNikeya pada, aLateya pada mattu oLavAkya emba nAlku bageya amsagaLannu kerigokkabahudu. ee adhyAya pustaka-vistArada mUlabhUta.
 
 ---
 
@@ -106,15 +106,15 @@ vAkyada muKya kriyApada eraDu oTTugaLannu keriguttade: kALa-oTTu (kArya hinde yA
 
 ### 5.3 gaTakava sUcisuvudu — vibakti prattayagaLu (ಘಟಕ ಸೂಚಿಸುವ ಪ್ರತ್ಯಯ)
 
-nAmapada kantegaLu vAkyadi yAva kArya mADuttave embadannu vibakti prattayagaLu sUcisuttave: "-annu" (karma yA Aguga sUcaka), "-aLLi" (jAga sUcaka), "-ige" (svikaraNa yA guri sUcaka), "-inda" (mUla yA kAraNA sUcaka), "-a" (sambanda sUcaka). ee prattayagaLa artha kriyApada sUcisuvudu kArya-svabhAvakke anugaNisi badalalAguttade.
+nAmapada kantegaLu vAkyadi yAva kArya mADuttave embadannu vibakti prattayagaLu sUcisuttave: "-annu" (karma yA Aguga sUcaka), "-aLLi" (jAga sUcaka), "-ige" (svikaraNa yA guri sUcaka), "-inda" (mUla yA kAraNA sUcaka), "-a" (sambandha sUcaka). ee prattayagaLa artha kriyApada sUcisuvudu kArya-svabhAvakke anugaNisi badalalAguttade.
 
 ### 5.4 kAraka oTTu "-isu"
 
-"-isu" emba utpAdaka oTTu, kriyApadada mUladinda "kArayisuvudu" emba hosa artha koLLuva hosa pada sxSTisuttade: "muLugu" → "muLugisu" (tombisi muLugisu). ee oTTu hosa "prEraka" gaTakakke jAga mADuttade. ee prEraka — tAnu kAryavannu naDeyisi biDuvudu yA innondannu kAryakke prErisi naDeyisuvadate enda bedavannu ee adyAya vivarisi, prEraka-vAkyagaLa oLaracaneyannu vyAkhyAnisuttade.
+"-isu" emba utpAdaka oTTu, kriyApadada mUladinda "kArayisuvudu" emba hosa artha koLLuva hosa pada sxSTisuttade: "muLugu" → "muLugisu" (tombisi muLugisu). ee oTTu hosa "prEraka" gaTakakke jAga mADuttade. ee prEraka — tAnu kAryavannu naDeyisi biDuvudu yA innondannu kAryakke prErisi naDeyisuvadate enda bedavannu ee adhyAya vivarisi, prEraka-vAkyagaLa oLaracaneyannu vyAkhyAnisuttade.
 
 ### 5.5–5.6 adE-kriyE illada rUpagaLu mattu kUDupada
 
-vAkyagaLannu jODisuvAga, modalina kriyApada "jODisuva rUpa" keriguttade — "-i" oTTukonDu sxSTi. ee rUpa oDane, nantara, yA OtA ondE kALadalli naDedadu enda mUru sambandha tOrisuttade. kUDupadagaLu (serial verb constructions) embuvudu "jODisuva rUpa" + "iru" yA "koLLu" jODisiduvugaLu: "koLLu" kAryavu tannisannu sUcisuttade ("rAju mUru puTa barede" vs. "rAju mUru puTa baredukonDa" — svasantarpa). ee rUpagaLa oLaracane mattu artha vivEcane ee adyAyadi pramukha viSaya.
+vAkyagaLannu jODisuvAga, modalina kriyApada "jODisuva rUpa" keriguttade — "-i" oTTukonDu sxSTi. ee rUpa oDane, nantara, yA OtA ondE kALadalli naDedadu enda mUru sambandha tOrisuttade. kUDupadagaLu (serial verb constructions) embuvudu "jODisuva rUpa" + "iru" yA "koLLu" jODisiduvugaLu: "koLLu" kAryavu tannisannu sUcisuttade ("rAju mUru puTa barede" vs. "rAju mUru puTa baredukonDa" — svasantarpa). ee rUpagaLa oLaracane mattu artha vivEcane ee adhyAyadi pramukha viSaya.
 
 ---
 
@@ -128,7 +128,7 @@ guNapadagaLu (ಗುಣಪದ) hesarupadagaLa guNagaLannu yA kriyApadagaLa rItiy
 
 ### 6.3–6.6 guNapadagaLa upa-bEda mattu sthAna
 
-guNapadagaLu kEvala ondu bageya alla — konDu guNapadagaLu sthira guNa varisuttave (kappu, biLi), itonDu bageya guNapadagaLu hEra-krama sambandhita guNa varisuttave (doDD, ciKka). "E" mattu "U" prattayagaLannu guNapadakke sErici biDabahuduvo alla embadu ondu bedada mAna. jAga sUcisuvudu (iLLi, aLLi, ee kuDe, A kuDe entAhavugaLu) mattu kALa sUcisuvudu (indu, ninne, nALe entAhavugaLu) enda eraDu viSeSa bEda-gumpu guNapadagaLa bEde viSayavAda ee adyAya vivEcisuttade.
+guNapadagaLu kEvala ondu bageya alla — konDu guNapadagaLu sthira guNa varisuttave (kappu, biLi), itonDu bageya guNapadagaLu hEra-krama sambandhita guNa varisuttave (doDD, ciKka). "E" mattu "U" prattayagaLannu guNapadakke sErici biDabahuduvo alla embadu ondu bedada mAna. jAga sUcisuvudu (iLLi, aLLi, ee kuDe, A kuDe entAhavugaLu) mattu kALa sUcisuvudu (indu, ninne, nALe entAhavugaLu) enda eraDu viSeSa bEda-gumpu guNapadagaLa bEde viSayavAda ee adhyAya vivEcisuttade.
 
 ---
 
@@ -138,7 +138,7 @@ guNapadagaLu kEvala ondu bageya alla — konDu guNapadagaLu sthira guNa varisutt
 
 ### 7.2–7.3 eTTi hELuva mattu varisuvudu
 
-ondu vAkyavannu mattondu vAkyada oLage sErisuvudE "oLavAkya" embuvudu. ee kanDadinaduva eraDu muKya bAga: (1) "eTTi hELuva rUpa" (quotative embedding) — "ante" emba pada sErisi yA oLavAkya rUpa kerigonDu (rAju "nALe bare" ante hELida); (2) "varIsuvudu" (descriptive embedding) — kriyApadakke nAlku bEre prattayagaLannu sErisidE oLavAkya sxSTi mADuttEve: "-O" rUpa, "-a" rUpa, "-ada" rUpa, yA "emba/ennuvA" pada sErisuvudu (jAnaki maIsUrininda tandidda sIre — "-a" rUpa; yAva sIreyAgi jAnaki maIsUrininda tandiddalO A sIre — "-O" rUpa). ee vividatEyu kannaDa vyAkaraNada oLavAkya-vyavastEyannu spaSTavAgi tOrisuttade.
+ondu vAkyavannu mattondu vAkyada oLage sErisuvudE "oLavAkya" embuvudu. ee kanDadinaduva eraDu muKya bhAga: (1) "eTTi hELuva rUpa" (quotative embedding) — "ante" emba pada sErisi yA oLavAkya rUpa kerigonDu (rAju "nALe bare" ante hELida); (2) "varIsuvudu" (descriptive embedding) — kriyApadakke nAlku bEre prattayagaLannu sErisidE oLavAkya sxSTi mADuttEve: "-O" rUpa, "-a" rUpa, "-ada" rUpa, yA "emba/ennuvA" pada sErisuvudu (jAnaki maIsUrininda tandidda sIre — "-a" rUpa; yAva sIreyAgi jAnaki maIsUrininda tandiddalO A sIre — "-O" rUpa). ee vividatEyu kannaDa vyAkaraNada oLavAkya-vyavastEyannu spaSTavAgi tOrisuttade.
 
 ### 7.4 nAmapada kanteyoLage oLavAkya
 
@@ -156,7 +156,7 @@ eraDu vAkyagaLannu ondAgI sErisuva mArga eraDu: (1) jODaNe (coordination) — er
 
 ### 8.3–8.4 mUru bageya jODaNe
 
-jODaNe mUru bageya sambandha tOrisuttade: (1) kUDistuvudu — eraDU gaTanegaLU onde kALadalli naDedavu; (2) kramAnugata — ondu gaTane matte ondara nantara naDeditu; (3) virodhAbhAsI — ondu gaTane innondarondige virodhavAgi bAruttade (allagaLeyuvudu rUpagaLinda). intAha jODaNe, adyAya 5 raLLi vicArisida kUDupada mattu oLavAkya-sErikeyondige hEge bEre embadannu ee adyAya sparSisuttade.
+jODaNe mUru bageya sambandha tOrisuttade: (1) kUDistuvudu — eraDU gaTanegaLU onde kALadalli naDedavu; (2) kramAnugata — ondu gaTane matte ondara nantara naDeditu; (3) virodhAbhAsI — ondu gaTane innondarondige virodhavAgi bAruttade (allagaLeyuvudu rUpagaLinda). intAha jODaNe, adhyAya 5 raLLi vicArisida kUDupada mattu oLavAkya-sErikeyondige hEge bEre embadannu ee adhyAya sparSisuttade.
 
 ---
 
@@ -166,11 +166,11 @@ jODaNe mUru bageya sambandha tOrisuttade: (1) kUDistuvudu — eraDU gaTanegaLU o
 
 ### 9.2 muKyAmsa vAkyagaLu (ಸಂಬಂಧಿಸುವ ವಾಕ್ಯ)
 
-muKyAmsa vAkyagaLu (focus sentences) ondu vAkyadalli ondu viSeSa gaTakavannu munde tOruttave: kriyApadakke "-udu" sErisi nAmapada mADi, A gaTakavannu predicate Agi iDuttEve. udAharaNe: "rAju hOdaddu bengaLUruge" (rAju hOdudE bengaLUruge). ee krama kriyAvAkyagaLige mattu viSayavAkyagaLige eraDakkU sADya. muKyAmsa-rUpagaLu vAkyada ondu viSeSa viSayavannu "nELa-muKyAmsa" (focus) Agi tOruttave — intonation yA krama sampUrNa sambandavannu tOrisuvudilla.
+muKyAmsa vAkyagaLu (focus sentences) ondu vAkyadalli ondu viSeSa gaTakavannu munde tOruttave: kriyApadakke "-udu" sErisi nAmapada mADi, A gaTakavannu predicate Agi iDuttEve. udAharaNe: "rAju hOdaddu bengaLUruge" (rAju hOdudE bengaLUruge). ee krama kriyAvAkyagaLige mattu viSayavAkyagaLige eraDakkU sADya. muKyAmsa-rUpagaLu vAkyada ondu viSeSa viSayavannu "nELa-muKyAmsa" (focus) Agi tOruttave — intonation yA krama sampUrNa sambandhavannu tOrisuvudilla.
 
 ### 9.3 allagaLeyuvudu (ಅಲ್ಲಗಳೆಯುವ ವಾಕ್ಯ)
 
-kannaDigaLalli allagaLeyuvudakke "illa" emba pada bALuttEve. hindina kArya-vAkyavannu allagaLeyadarE, muKya kriyApada "jODisuva rUpa + alla" Aguttade: "jAnaki aDige mADidaLu" → "jAnaki aDige mADalilla". mondina/niyamita kArya-vAkyavannu allagaLeyadarE, kriyApada "-uvudu" rUpa keridukOnDu "illa" sELuttade: "rAju upparigeyalli malaguttAne" → "rAju upparigeyalli malaguvudilla". viSayavAkyagaLannu (iru vAkyagaLannu) allagaLeyadarE "illa/iruvudilla" sELuttade. ee adyAya eraDaDe allagaLeyuvudu, mAna-allagaLeyuvudu (scalar negation), mattu viSeSa viSayadalli nakarAtmaka padasandarbhagaLannu vivEcisuttade.
+kannaDigaLalli allagaLeyuvudakke "illa" emba pada bALuttEve. hindina kArya-vAkyavannu allagaLeyadarE, muKya kriyApada "jODisuva rUpa + alla" Aguttade: "jAnaki aDige mADidaLu" → "jAnaki aDige mADalilla". mondina/niyamita kArya-vAkyavannu allagaLeyadarE, kriyApada "-uvudu" rUpa keridukOnDu "illa" sELuttade: "rAju upparigeyalli malaguttAne" → "rAju upparigeyalli malaguvudilla". viSayavAkyagaLannu (iru vAkyagaLannu) allagaLeyadarE "illa/iruvudilla" sELuttade. ee adhyAya eraDaDe allagaLeyuvudu, mAna-allagaLeyuvudu (scalar negation), mattu viSeSa viSayadalli nakarAtmaka padasandarbhagaLannu vivEcisuttade.
 
 ---
 
@@ -180,11 +180,11 @@ kannaDigaLalli allagaLeyuvudakke "illa" emba pada bALuttEve. hindina kArya-vAkya
 
 ### 10.2–10.3 pUrNa prattayagaLu mattu keLvigaLu
 
-tiLivina vAkyagaLinda bEre bageya mAtina kasagaLannu sxSTisalu kriyApada rUpannu badalAyisuttEve. keLvigaLu eraDu bAga: "vAkya keLvi" (yes/no keLvi — iDiya vAkya nija yA asatya endu kELuttade; "O/A/E" prattaya sErisi yA intonation ecci mADuttEve), mattu "vAkyAnga keLvi" (ondu viSeSa gaTakavannu kELuvudu; "yAru/Enu/yAke/eLLi/eStu/yAvAga" enta prAsnika parabhEda padagaLannu upayOgisuttEve). intAha keLvigaLa oLaracane mattu avugaLu tiLivina vAkyagaLinda hEge bEre embadannu ee adyAya vivEcisuttade.
+tiLivina vAkyagaLinda bEre bageya mAtina kasagaLannu sxSTisalu kriyApada rUpannu badalAyisuttEve. keLvigaLu eraDu bhAga: "vAkya keLvi" (yes/no keLvi — iDiya vAkya nija yA asatya endu kELuttade; "O/A/E" prattaya sErisi yA intonation ecci mADuttEve), mattu "vAkyAnga keLvi" (ondu viSeSa gaTakavannu kELuvudu; "yAru/Enu/yAke/eLLi/eStu/yAvAga" enta prAsnika parabhEda padagaLannu upayOgisuttEve). intAha keLvigaLa oLaracane mattu avugaLu tiLivina vAkyagaLinda hEge bEre embadannu ee adhyAya vivEcisuttade.
 
 ### 10.5–10.6 kArya-vAkyagaLu mattu bEra-keLvi vAkyagaLu
 
-ājJEya vAkyagaLu (imperatives) bEre bEre rUpagaLannu bALisuttave: ondane vibhaktigE (singular) bare-kriyApada rUpa; garSite rUpakke "-i" yA "-iri" prattaya; "ONA" (nAvella mADONA — hortative); "ALi" (adu naDeyali — optative). bEra vAkyagaLu "eStu" emba mATTa padavannu bALisi bErapaTTa yA aDambara tOrisuttave. ee adyAya paricayisida mAtina kasagaLu kaDEyondige pITike adyAyadalli hELida viSayavannu pUrNagOLisuttade.
+ājJEya vAkyagaLu (imperatives) bEre bEre rUpagaLannu bALisuttave: ondane vibhaktigE (singular) bare-kriyApada rUpa; garSite rUpakke "-i" yA "-iri" prattaya; "ONA" (nAvella mADONA — hortative); "ALi" (adu naDeyali — optative). bEra vAkyagaLu "eStu" emba mATTa padavannu bALisi bErapaTTa yA aDambara tOrisuttave. ee adhyAya paricayisida mAtina kasagaLu kaDEyondige pITike adhyAyadalli hELida viSayavannu pUrNagOLisuttade.
 
 ---
 
@@ -194,11 +194,11 @@ tiLivina vAkyagaLinda bEre bageya mAtina kasagaLannu sxSTisalu kriyApada rUpannu
 
 ### 11.1–11.4 kannaDa nuDiya bEre nuDigaLondige hOlike
 
-kaDEyadyAya kannaDa vAkya-vyavastheyanu jAgatikaduva bEre nuDigaLondige hOlisi tOrisuttade. eraDu muKya bedagaLu kANuttEve: pUrvaja-bhASeinda banduruva bEda (dravIDa-bhAsEyu Indo-EshiyA bhAsEginta bEreyadE) mattu kALa-kramadinda nantara naDeda bEda. kannaDa ondu "koDEya" (head-final) bhASe: nAmapada kanteyalli guNapada monde (doDD pustaka); vAkyadi kriyApada kaDe nilLuttade; puravacana (postposition) bALuttade, mumvacana (preposition) alla. kannaDigaLu mUru pada-gumpugaLannu (nAmapada, kriyApada, guNapada) kaLLige bILuvAdi vivEcisuttave — samskxtakkinta bEre.
+kaDEyadhyAya kannaDa vAkya-vyavastheyanu jAgatikaduva bEre nuDigaLondige hOlisi tOrisuttade. eraDu muKya bedagaLu kANuttEve: pUrvaja-bhASeinda banduruva bEda (dravIDa-bhAsEyu Indo-EshiyA bhAsEginta bEreyadE) mattu kALa-kramadinda nantara naDeda bEda. kannaDa ondu "koDEya" (head-final) bhASe: nAmapada kanteyalli guNapada monde (doDD pustaka); vAkyadi kriyApada kaDe nilLuttade; puravacana (postposition) bALuttade, mumvacana (preposition) alla. kannaDigaLu mUru pada-gumpugaLannu (nAmapada, kriyApada, guNapada) kaLLige bILuvAdi vivEcisuttave — samskxtakkinta bEre.
 
 ### 11.5–11.9 kALa, allagaLeyuvudu, keLvi mattu muktAya
 
-kaDEyadyAya kannaDa kALa-vyavasthe (kriyAvAkyakke eraDu; iru vAkyakke mUru), allagaLeyuvudu krama, mattu keLvi-rUpagaLannu jAgatikaduva hOlikeyinda vivEcisuttade. pustakada muktAyadi, baT avaru nADu pustakadinaduva vicAra-mArgavannu gurtisuttAre: kannaDa vAkya-vyavastheyannu kannaDigaLa svanta paribASeyinda (dravIDa-mUla padagaLinda) sUcisi, samskxta sAhitya-paribASe nereyadE, ee paristhitiyannu nIgisidde ee pustakadinaduva yogadAna. adyAya-kDE paribASeya paTTi, AkarasUci, mattu viSayasUcidondige pustaka mugisutte.
+kaDEyadhyAya kannaDa kALa-vyavasthe (kriyAvAkyakke eraDu; iru vAkyakke mUru), allagaLeyuvudu krama, mattu keLvi-rUpagaLannu jAgatikaduva hOlikeyinda vivEcisuttade. pustakada muktAyadi, baT avaru nADu pustakadinaduva vicAra-mArgavannu gurtisuttAre: kannaDa vAkya-vyavastheyannu kannaDigaLa svanta paribASeyinda (dravIDa-mUla padagaLinda) sUcisi, samskxta sAhitya-paribASe nereyadE, ee paristhitiyannu nIgisidde ee pustakadinaduva yogadAna. adhyAya-kDE paribASeya paTTi, AkarasUci, mattu viSayasUcidondige pustaka mugisutte.
 
 ---
 
@@ -241,4 +241,4 @@ kaDEyadyAya kannaDa kALa-vyavasthe (kriyAvAkyakke eraDu; iru vAkyakke mUru), all
 
 ---
 
-*ee dastavEju Di. En. sankara baT avarA "kannaDa vAkyagaLa oLaracane" (2004, mUraneyadu mudraNa 2012) pustakadinaduva Eke baraha-rUpadi samyOjita saramsa. mUla kannaDa baraha [25-kannada-vakyagala-olarachane-book.md](./25-kannada-vakyagala-olarachane-book) dalli mattu English saramsa [25-kannada-vakyagala-olarachane-en.md](./25-kannada-vakyagala-olarachane-en) dalli kANabahudu. padagaLa oLaracanege sambandhisida sahOdara pustaka [03-kannada-padagala-olarachane-kn-eke.md](../03-kannada-padagala-olarachane/03-kannada-padagala-olarachane-kn-eke) dalli kANabahudu.*
+*ee dastavEju Di. En. sankara bhaT avarA "kannaDa vAkyagaLa oLaracane" (2004, mUraneyadu mudraNa 2012) pustakadinaduva Eke baraha-rUpadi samyOjita saramsa. mUla kannaDa baraha [25-kannada-vakyagala-olarachane-book.md](./25-kannada-vakyagala-olarachane-book) dalli mattu English saramsa [25-kannada-vakyagala-olarachane-en.md](./25-kannada-vakyagala-olarachane-en) dalli kANabahudu. padagaLa oLaracanege sambandhisida sahOdara pustaka [03-kannada-padagala-olarachane-kn-eke.md](../03-kannada-padagala-olarachane/03-kannada-padagala-olarachane-kn-eke) dalli kANabahudu.*

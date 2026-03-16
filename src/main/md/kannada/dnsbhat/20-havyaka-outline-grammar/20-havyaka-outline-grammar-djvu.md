@@ -8662,7 +8662,7 @@ collecting  mango  fruits,  cashewnut  seeds  etc.  They  had  no  fear  of
 anything.
 
 ondu  dina  a:  makkoge  ka:dili  da:ri  tappittu.  i.^varane:  ha:rjga-
-ppale  mukya  ka:rana.  ava  annanda  munde  ho:vutte  he:ji  oidigondu
+ppale  mukhya  ka:rana.  ava  annanda  munde  ho:vutte  he:ji  oidigondu
 ho:gi  da:ri  tapsi  haikida.  matte  da:ri  tappittu  he: ji  hudkigondu
 ho:ddu  ellelligo:  a:tu.
 

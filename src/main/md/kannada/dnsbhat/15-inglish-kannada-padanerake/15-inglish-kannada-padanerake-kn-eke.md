@@ -523,7 +523,7 @@ azure        pa  kaDunIli (I kaDunIli baNNada hU tumba
 
 | Eke niyama | untuge |
 |------------|--------|
-| dIrga svara = UPPErCASE: A, I, U, E, O | mAne (house), nIru (water), mUga (mute), pEDe, hOgu |
+| dIrgha svara = UPPErCASE: A, I, U, E, O | mAne (house), nIru (water), mUga (mute), pEDe, hOgu |
 | murucuLi = UPPErCASE: T, D, N, L, S | naDu, TaDe, Nana, kaLe, Siva |
 | mAhAprANa = hAku — Eke(ek)dall | Ba→b, Ga→g, Pa→p, etc. (aspirates dropped) |
 | anusvAra + vyanjanada munde = nasal | anka, sanga, hancike |
