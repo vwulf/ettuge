@@ -241,7 +241,7 @@ anukramaNike
 
 <a id="part-1"></a>
 
-[English →](./27-bhASheya-bagge-en#part-one--the-nature-of-language) | [Eke →](./27-bhASheya-bagge-kn-eke#part-1)
+[English →](./27-bhASheya-bagge-en#part-one--the-nature-of-language) | [ಕನ್nnaDa →](./27-bhASheya-bagge-kn#part-1)
 
 ## bhAga ondubhASeya svarUpa
 
@@ -1520,7 +1520,7 @@ vAdItallavE?
 
 <a id="part-2"></a>
 
-[English →](./27-bhASheya-bagge-en#part-two--grammar-and-learning) | [Eke →](./27-bhASheya-bagge-kn-eke#part-2)
+[English →](./27-bhASheya-bagge-en#part-two--grammar-and-learning) | [ಕನ್nnaDa →](./27-bhASheya-bagge-kn#part-2)
 
 ## bhAga eraDukalike mattu vyAkaraNa
 
@@ -3420,7 +3420,7 @@ labhisabahudu.
 
 <a id="part-3"></a>
 
-[English →](./27-bhASheya-bagge-en#part-three--speech-and-writing) | [Eke →](./27-bhASheya-bagge-kn-eke#part-3)
+[English →](./27-bhASheya-bagge-en#part-three--speech-and-writing) | [ಕನ್nnaDa →](./27-bhASheya-bagge-kn#part-3)
 
 ## bhAga mUrumAtu mattu baraha
 
@@ -4803,7 +4803,7 @@ bhASeya bagege nIvEnu balliri?
 
 <a id="part-4"></a>
 
-[English →](./27-bhASheya-bagge-en#part-four--the-nature-of-the-kannada-language) | [Eke →](./27-bhASheya-bagge-kn-eke#part-4)
+[English →](./27-bhASheya-bagge-en#part-four--the-nature-of-the-kannada-language) | [ಕನ್nnaDa →](./27-bhASheya-bagge-kn#part-4)
 
 bhAga nAlku
 kannaDa bhASeya svarUpa
@@ -6695,7 +6695,7 @@ gaLAgiddare sAku, varNanegaLAgirabEkendEnU illa.
 
 <a id="part-5"></a>
 
-[English →](./27-bhASheya-bagge-en#part-five--languages-of-the-world) | [Eke →](./27-bhASheya-bagge-kn-eke#part-5)
+[English →](./27-bhASheya-bagge-en#part-five--languages-of-the-world) | [ಕನ್nnaDa →](./27-bhASheya-bagge-kn#part-5)
 
 ## bhAga aydujagattina bhASegaLu
 
