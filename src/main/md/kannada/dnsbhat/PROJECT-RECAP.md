@@ -1,5 +1,5 @@
 # DNS Bhat Ettuge Project — Recap
-*Last updated: 2026-03-17 (Phase 13)*
+*Last updated: 2026-03-17 (Phase 14)*
 
 ---
 
@@ -420,6 +420,52 @@ The guiding principle: Eke romanises what is *written* in the source. If the sou
 
 **Skill files and PROJECT-RECAP** also updated in this phase to reflect the corrected rule.
 
+### Phase 14 — Bulk OCR Cleanup: Books 03, 07, 17, 25, 27 (2026-03-17)
+
+Character-level and structural cleanup of the five remaining uncleaned OCR books, producing `-kn.md` files for each and regenerating all six `-kn-eke.md` files. All books now have 0 residual Kannada characters in their Eke output.
+
+**Two OCR error classes, two fix scripts:**
+
+| Book(s) | OCR source | Error type | Fix script |
+|---------|-----------|-----------|-----------|
+| 03, 27 | Sarvam Vision OCR | Structural artifacts only (page numbers, `---` separators, running headers) | `fix_books_sarvam.py` |
+| 07, 17, 25 | Sarvam OCR + WX-decode | Character-level garbling + structural artifacts | `fix_books_wx.py` |
+
+**WX character-level errors fixed (books 07, 17, 25):**
+
+| Error class | Pattern | Scope |
+|------------|---------|-------|
+| Arka-ottu reversal | `ಣ್ರ→ರ್ಣ`, `ಥ್ರ→ರ್ಥ`, `ಮ್ರ→ರ್ಮ`, `ಯ್ರ→ರ್ಯ`, `ಧ್ರ→ರ್ಧ` | All 3 books |
+| Ç-fix (garbled aa-mathrā U+00C7) | `\u0CC6\u00C7\u0CBF` → `\u0CCB` (oo-sign); `\u0CC6\u00C7` → `\u0CCA` (o-sign) | All 3 books |
+| Ya-garble | `0iÉ` (U+0030+U+0069+U+00C9) → `ಯ`; 159 occurrences | Book 17 only |
+| Word-specific | `ನಿದ್ರಿಷ್ಟ→ನಿರ್ದಿಷ್ಟ`, `ನಿದ್ರೇಶ→ನಿರ್ದೇಶ`, `¦ÃpPÉ→ಪೀಠಿಕೆ`, `ದೀಘ್ರ→ದೀರ್ಘ` | Book 25 only |
+
+**Key decisions on safe vs. unsafe replacements:**
+- `ದ್ರ→ರ್ದ` blanket fix is **UNSAFE** — legitimate in `ಕೇಂದ್ರ`, `ದ್ರಾವಿಡ`, `ಚಂದ್ರ` etc.; targeted word-level fixes only
+- `ನ್ರ` in `ಏನ್ರಿ` is legitimate colloquial Kannada — not an arka-ottu error
+- `ಧ್ರ` in books 03/27 (Sarvam OCR) is legitimate (`ಆಂಧ್ರ`, `ಉತ್ತರಧ್ರುವ`) — Sarvam OCR was correct
+
+**Multi-pass dependency fix:** The `ಸಾಮಥ್ಯ್ರ` problem: `ಯ್ರ→ರ್ಯ` creates `ಥ್ರ` *after* `ಥ್ರ→ರ್ಥ` has already run. Solved by `apply_char_fixes()` iterating up to `max_passes=3` until text is stable. A single pass was insufficient for this class of chained reversal.
+
+**Critical structural insight:** Char fixes must be applied to the **entire file** (including TOC, acknowledgements, index sections before the first `<a id="adhyAya-N">` anchor), not only the body. An earlier version that split header/body first and fixed only the body left hundreds of errors in front matter and prefatory sections.
+
+**Results — book.md → kn.md line counts:**
+
+| Book | book.md | kn.md | Lines removed | Notes |
+|------|---------|-------|---------------|-------|
+| 03 — Padagala Olarachane | 12,319 | 11,437 | 882 | Sarvam OCR; 653 structural lines deleted |
+| 07 vol1 — Sollarime | 24,861 | 20,475 | 4,386 | WX; Ç-fix |
+| 07 vol2 — Sollarime | 15,324 | 13,928 | 1,396 | WX; Ç-fix |
+| 17 — Nudi Nadedu Banda Dari | 22,312 | 16,883 | 5,429 | WX; ya-fix + Ç-fix + 1,539 zero-Kannada lines removed |
+| 25 — Vakyagala Olarachane | 14,485 | 11,676 | 2,809 | WX; word-level fixes + zero-Kannada lines removed |
+| 27 — Baasheya Bagge | 9,138 | 8,245 | 893 | Sarvam OCR; 545 structural lines deleted |
+
+**kn-eke.md generation (generic `gen_kn_eke.py`):**
+
+A single generic transliterator replaced the book-28-specific `kn_to_eke.py`. Key fix over earlier stubs: `<td>` and `<th>` table cell content is now transliterated (matched by regex `>[^<]*<` inside HTML lines) rather than passed through verbatim. This eliminated 7,201 residual Kannada chars in book 03's previous stub (book 03 is table-heavy). All 6 books now output 0 residual Kannada characters.
+
+**Commit:** `d8e037a` "Phase 14: OCR cleanup + kn.md + kn-eke.md for books 03, 07, 17, 25, 27" — 12 files (6 new kn.md + 6 kn-eke.md regenerated)
+
 ---
 
 ## Eke Romanisation System
@@ -473,21 +519,21 @@ The guiding principle: Eke romanises what is *written* in the source. If the sou
 | Book | Files present |
 |------|--------------|
 | 02 — Hosapadagalannu Kattuva Bage | book-website + blog + kn + kn-eke + en + claude-prompt |
-| 03 — Padagala Olarachane | book + kn-eke + en + claude-prompt |
+| 03 — Padagala Olarachane | book + **kn** (OCR-cleaned, 11,437L) + kn-eke + en + claude-prompt |
 | 04 — Mathu Matthu Barahada Gondala | transcript + website + kn-eke + en + claude-prompt |
 | 05 — Mathina Olaguttu | transcript + website + kn-eke + en + claude-prompt |
-| 07 — Kannadada Sollarime | vol1-book + vol2-book + kn-eke + en + claude-prompt |
+| 07 — Kannadada Sollarime | vol1-book + **vol1-kn** (20,475L) + vol2-book + **vol2-kn** (13,928L) + kn-eke + en + claude-prompt |
 | 08 — Mahaprana Yake Beda | book + djvu + kn + kn-eke + en + claude-prompt |
 | 09 — Havyaka Kannada | transcript + website + kn-eke + en + claude-prompt |
 | 14 — Nijakku Halegannada | book + djvu + blog + kn + kn-eke + en + claude-prompt |
 | 15 — Inglish Kannada Padanerake | book (53p sample) + kn-eke + en + claude-prompt |
-| 17 — Nudi Nadedu Banda Dari | book + kn-eke + en + claude-prompt |
+| 17 — Nudi Nadedu Banda Dari | book + **kn** (OCR-cleaned, 16,883L) + kn-eke + en + claude-prompt |
 | 18 — Nudiya Bagege Chintane | blog + kn-eke + en + claude-prompt |
 | 20 — Havyaka Outline Grammar | djvu + en + claude-prompt |
-| 25 — Vakyagala Olarachane | book + kn-eke + en + claude-prompt |
-| 27 — Baasheya Bagge | book + kn-eke + en + claude-prompt |
+| 25 — Vakyagala Olarachane | book + **kn** (OCR-cleaned, 11,676L) + kn-eke + en + claude-prompt |
+| 27 — Baasheya Bagge | book + **kn** (OCR-cleaned, 8,245L) + kn-eke + en + claude-prompt |
 | 28 — Kannadakke Beku | book + **kn** (OCR-cleaned, 9,517L) + kn-eke + en (13 anchors) + claude-prompt |
-| 29 — Kannada Vyakarana Yaake Beku | book + **kn** (OCR-cleaned) + kn-eke + en (12 anchors) + claude-prompt |
+| 29 — Kannada Vyakarana Yaake Beku | book + **kn** (OCR-cleaned, 11 ch. anchors) + kn-eke + en (12 anchors) + claude-prompt |
 
 ### ❌ Not yet processed — no PDF source available
 
@@ -553,7 +599,8 @@ dnsbhat/
 │   └── 02-...-claude-prompt.md       # ★ AI primer
 ├── 03-kannaDa-padagaLa-oLaracane/
 │   ├── 03-...-book.md                # ★ Sarvam OCR output (239 pages)
-│   ├── 03-...-kn-eke.md              # ★ Eke romanisation
+│   ├── 03-...-kn.md                  # ★ OCR-cleaned Kannada (11,437L; structural artifact removal)
+│   ├── 03-...-kn-eke.md              # ★ Eke romanisation (0 residual Kannada chars)
 │   ├── 03-...-en.md                  # ★ English summaries
 │   └── 03-...-claude-prompt.md       # ★ AI primer
 ├── 04-mAtu-mattu-barahada-naDuvina-gondala/
@@ -576,7 +623,9 @@ dnsbhat/
 │   └── 09-...-claude-prompt.md       # ★ AI primer
 ├── 07-kannaDa-barahada-sollarime/
 │   ├── 07-...-vol1-book.md           # ★ Sarvam OCR (327 pages)
+│   ├── 07-...-vol1-kn.md             # ★ OCR-cleaned Kannada vol1 (20,475L; Ç-fix + arka-ottu)
 │   ├── 07-...-vol2-book.md           # ★ Sarvam OCR (301 pages)
+│   ├── 07-...-vol2-kn.md             # ★ OCR-cleaned Kannada vol2 (13,928L; Ç-fix + arka-ottu)
 │   ├── 07-...-kn-eke.md              # ★ Eke romanisation (9KB)
 │   ├── 07-...-en.md                  # ★ English summaries (41KB)
 │   └── 07-...-claude-prompt.md       # ★ AI primer (18KB)
@@ -602,6 +651,7 @@ dnsbhat/
 │   └── 15-...-claude-prompt.md       # ★ AI primer (decision tree, cluster tables, 100 entries)
 ├── 17-kannaDa-nuDi-naDeDu-banda-dAri/
 │   ├── 17-...-book.md                # ★ Sarvam OCR (405 pages)
+│   ├── 17-...-kn.md                  # ★ OCR-cleaned Kannada (16,883L; ya-fix + Ç-fix + 1,539 zero-KN lines removed)
 │   ├── 17-...-kn-eke.md              # ★ Eke romanisation (12KB)
 │   ├── 17-...-en.md                  # ★ English summaries (35KB)
 │   └── 17-...-claude-prompt.md       # ★ AI primer (20KB)
@@ -616,11 +666,13 @@ dnsbhat/
 │   └── 20-...-claude-prompt.md       # ★ AI primer
 ├── 25-kannaDa-vAkyagaLa-oLaracane/
 │   ├── 25-...-book.md                # ★ Sarvam OCR (289 pages)
+│   ├── 25-...-kn.md                  # ★ OCR-cleaned Kannada (11,676L; word-level fixes + zero-KN lines)
 │   ├── 25-...-kn-eke.md              # ★ Eke romanisation (19KB)
 │   ├── 25-...-en.md                  # ★ English summaries (30KB)
 │   └── 25-...-claude-prompt.md       # ★ AI primer (25KB)
 ├── 27-bhASheya-bagge/
 │   ├── 27-...-book.md                # ★ Sarvam OCR (208 pages)
+│   ├── 27-...-kn.md                  # ★ OCR-cleaned Kannada (8,245L; structural artifact removal)
 │   ├── 27-...-kn-eke.md              # ★ Eke romanisation
 │   ├── 27-...-en.md                  # ★ English summaries
 │   └── 27-...-claude-prompt.md       # ★ AI primer
