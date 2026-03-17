@@ -44,12 +44,14 @@ The book covers eleven chapters (called ಪಸುಗೆ rather than ಅಧ್ಯ
 
 ---
 
+<a id="chapter-1--preview"></a>
+
 ## Chapter 1 — Preview
 
 *(ಮುನ್ನೋಟ)*
 
 
-[ಕನ್ನಡ →](./29-kannaDa-vyAkaraNa-yAke-bEku-book) | [Eke →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn-eke#munnOTa)
+[ಕನ್ನಡ →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn#adhyAya-1) | [Eke →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn-eke#munnOTa)
 
 The opening chapter distinguishes two senses of the word "grammar" and argues that confusion between them is a major reason why people resist grammar education. The first sense is tacit grammatical knowledge (ಅರಿವಿಗೆ ಎಟಕದ ಕಟ್ಟಲೆಗಳು) — the rules that every fluent Kannada speaker already applies perfectly below the threshold of conscious awareness, acquired naturally in early childhood as part of language development. The second sense is explicit grammatical knowledge (ಅರಿವಿಗೆ ಎಟಕುವ ಸೊಲ್ಲರಿಮೆ) — the rules written in grammar books by linguists who have made those unconscious patterns explicit. Grammar in the second sense is what this book discusses.
 
@@ -57,12 +59,14 @@ The chapter introduces the author's native Kannada terminology: ಸೊಲ್ಲ�
 
 ---
 
+<a id="chapter-2--learning-to-read-and-write"></a>
+
 ## Chapter 2 — Learning to Read and Write
 
 *(ಓದು-ಬರಹದ ಕಲಿಕೆ)*
 
 
-[ಕನ್ನಡ →](./29-kannaDa-vyAkaraNa-yAke-bEku-book) | [Eke →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn-eke#Odu-barahada-kalike)
+[ಕನ್ನಡ →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn#adhyAya-2) | [Eke →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn-eke#Odu-barahada-kalike)
 
 Chapter 2 examines the role of grammatical knowledge in teaching literacy to children. Children arrive at school already knowing their spoken language (their dialect of Kannada, ಆಡುಗನ್ನಡ) fluently; the task of the school is to teach them the standard written form (ಎಲ್ಲರ ಕನ್ನಡ) and the skills of reading and writing. The author makes a strong point that these are different tasks: learning to speak standard Kannada is relatively easy for children because speech-learning draws on innate language capacity; learning to read and write is not innate and must be explicitly taught, like swimming or cycling. The chapter argues that treating spoken dialect forms as "wrong Kannada" and standard written forms as "correct Kannada" is linguistically incorrect and socially harmful, particularly for children from lower-caste and working-class backgrounds whose home dialects are systematically stigmatised.
 
@@ -70,12 +74,14 @@ The technical section (2.3) on learning to read examines the cognitive processes
 
 ---
 
+<a id="chapter-3--advanced-writing"></a>
+
 ## Chapter 3 — Advanced Writing
 
 *(ಬರೆಯುವುದರಲ್ಲಿ ಹೆಚ್ಚಿನ ಕಲಿಕೆ)*
 
 
-[ಕನ್ನಡ →](./29-kannaDa-vyAkaraNa-yAke-bEku-book) | [Eke →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn-eke#bareyuvudaralli-hecina-kalike)
+[ಕನ್ನಡ →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn#adhyAya-3) | [Eke →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn-eke#bareyuvudaralli-hecina-kalike)
 
 This chapter addresses the needs of writers who have already achieved basic literacy and wish to write well. The author distinguishes two types of writers (3.1.1): those who write to communicate ideas to their readers (functional writers) and those who also attend to the craft of writing itself. Both types need to understand the relationship between writer and reader (3.2), which differs fundamentally from the relationship between speaker and listener: the reader is absent when the writer writes, the reader cannot ask for clarification, and feedback reaches the writer only after the piece is complete. These conditions require the writer to anticipate the reader's perspective and make the text as clear and well-organised as possible without the corrective feedback loop that spoken conversation provides.
 
@@ -83,12 +89,14 @@ The chapter provides specific guidance on sentence structure (3.2.1–3.2.5): ho
 
 ---
 
+<a id="chapter-4--academic-writing"></a>
+
 ## Chapter 4 — Academic Writing
 
 *(ಅರಿಮೆಯ ಬರಹಗಳು)*
 
 
-[ಕನ್ನಡ →](./29-kannaDa-vyAkaraNa-yAke-bEku-book) | [Eke →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn-eke#arimeya-barahagaLu)
+[ಕನ್ನಡ →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn#adhyAya-4) | [Eke →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn-eke#arimeya-barahagaLu)
 
 Chapter 4 addresses the specific demands of academic and scientific writing in Kannada, arguing that this is where the absence of a genuine Kannada-native grammar causes the most damage. Academic writing requires precise terminology, exact definitions, and sentences that encode complex logical and causal relationships. The author shows that Kannada academic writing has two major problems: first, the over-reliance on Sanskrit loans for technical vocabulary (ಅರಿಮೆಯ ಪದಗಳು / ಪಾರಿಬಾಷಿಕ ಪದಗಳು), which makes texts inaccessible to ordinary educated readers and which often imports Sanskrit grammatical structure along with the borrowed vocabulary; and second, the construction of complex sentences (ಸಿಕ್ಕಲು ಸೊಲ್ಲುಗಳು — literally "tangled sentences") that embed multiple subordinate clauses in ways that exceed the reader's processing capacity.
 
@@ -96,12 +104,14 @@ The chapter examines the grammar metalanguage itself (4.3.2): to discuss grammar
 
 ---
 
+<a id="chapter-5--creative-writing-and-grammar"></a>
+
 ## Chapter 5 — Creative Writing and Grammar
 
 *(ನಲ್ಬರಹಗಳು ಮತ್ತು ಸೊಲ್ಲರಿಮೆ)*
 
 
-[ಕನ್ನಡ →](./29-kannaDa-vyAkaraNa-yAke-bEku-book) | [Eke →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn-eke#nalbaragaLu-mattu-sollarime)
+[ಕನ್ನಡ →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn#adhyAya-5) | [Eke →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn-eke#nalbaragaLu-mattu-sollarime)
 
 This chapter examines the role of grammatical knowledge in literature (ನಲ್ಬರಹ — stories, poetry, drama, and related creative forms). The central argument is that creative writing uses grammar in a special way: whereas functional writing aims to communicate clearly within the conventions of standard grammar, creative writing sometimes deliberately violates standard conventions to achieve aesthetic effects — and the ability to violate conventions skillfully requires knowing what the conventions are. The chapter distinguishes between two types of grammatical usage in literature: foregrounded grammatical deviation (deliberately marked, unusual patterns that draw the reader's attention to the form of the text) and backgrounded grammatical usage (ordinary grammatical patterns that the reader processes automatically without noticing).
 
@@ -109,12 +119,14 @@ The chapter gives special attention to drama dialogue (5.3). In drama, character
 
 ---
 
+<a id="chapter-6--the-problems-of-ambiguity"></a>
+
 ## Chapter 6 — The Problems of Ambiguity
 
 *(ಇಪ್ಪುರುಳಿನ ತೊಡಕುಗಳು)*
 
 
-[ಕನ್ನಡ →](./29-kannaDa-vyAkaraNa-yAke-bEku-book) | [Eke →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn-eke#ippuruLinA-toDakugaLu)
+[ಕನ್ನಡ →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn#adhyAya-6) | [Eke →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn-eke#ippuruLinA-toDakugaLu)
 
 Chapter 6 examines ambiguity (ಇಪ್ಪುರುಳು — literally "double-meaning") in Kannada writing, classifying the sources of ambiguity and discussing when ambiguity is a problem to be resolved and when it is a resource to be exploited. Three types of ambiguity are distinguished: lexical ambiguity (ಪದದ ಇಪ್ಪುರುಳು), where a single word has two or more distinct meanings; word-form ambiguity (ಪದರೂಪದ ಇಪ್ಪುರುಳು), where a single inflected form can be parsed in two different grammatical ways; and structural ambiguity (ಇಟ್ಟಳದ ಇಪ್ಪುರುಳು), where a sentence has two distinct syntactic structures that yield different interpretations. Examples of all three types are worked through in detail with Kannada sentences.
 
@@ -122,12 +134,14 @@ The chapter then distinguishes contexts where ambiguity is problematic from cont
 
 ---
 
+<a id="chapter-7--learning-a-second-language"></a>
+
 ## Chapter 7 — Learning a Second Language
 
 *(ಎರಡನೇ ನುಡಿಯ ಕಲಿಕೆ)*
 
 
-[ಕನ್ನಡ →](./29-kannaDa-vyAkaraNa-yAke-bEku-book) | [Eke →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn-eke#eraDanE-nuDiya-kalike)
+[ಕನ್ನಡ →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn#adhyAya-7) | [Eke →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn-eke#eraDanE-nuDiya-kalike)
 
 This chapter examines the role of grammar in second-language learning, with particular attention to two situations common in Karnataka: learning English as a second language, and learning Kannada as a second language (by speakers of other Indian languages). The chapter distinguishes child second-language acquisition from adult second-language learning: children learning a second language in an immersive environment acquire it through the same tacit mechanisms they used to learn their first language, while adults learning a second language in a classroom setting depend more heavily on explicit grammatical knowledge. The chapter argues that this is why grammar instruction is more appropriate and more effective for adult learners than for young children.
 
@@ -135,12 +149,14 @@ On English learning (7.2), the chapter argues against the widespread practice of
 
 ---
 
+<a id="chapter-8--translation"></a>
+
 ## Chapter 8 — Translation
 
 *(ನುಡಿಮಾರಿಕೆ)*
 
 
-[ಕನ್ನಡ →](./29-kannaDa-vyAkaraNa-yAke-bEku-book) | [Eke →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn-eke#nuDimArike)
+[ಕನ್ನಡ →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn#adhyAya-8) | [Eke →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn-eke#nuDimArike)
 
 Chapter 8 examines translation (ನುಡಿಮಾರಿಕೆ — literally "language-changing"), covering both human literary translation and machine translation. The chapter begins by distinguishing two types of translation problem: problems arising from incomplete understanding of the source text (ಮೂಲ ಬರಹದ ತಿಳಿವು), and problems arising from the grammatical differences between the source and target languages. On the first type, the chapter discusses how dialect vocabulary, idiomatic expressions, and culturally specific references in the source text require the translator to know not just the standard form of the source language but also its register variation and cultural context. On the second type, the chapter examines how the structural differences between Kannada and English — particularly differences in word order, the Kannada verb-final pattern, the Kannada case-suffix system, and the expression of tense and aspect — create systematic translation challenges.
 
@@ -148,12 +164,14 @@ The section on machine translation (8.5) is particularly rich. The author explai
 
 ---
 
+<a id="chapter-9--language-planning"></a>
+
 ## Chapter 9 — Language Planning
 
 *(ನುಡಿಹಮ್ಮುಗೆ)*
 
 
-[ಕನ್ನಡ →](./29-kannaDa-vyAkaraNa-yAke-bEku-book) | [Eke →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn-eke#nuDihammuge)
+[ಕನ್ನಡ →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn#adhyAya-9) | [Eke →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn-eke#nuDihammuge)
 
 This chapter covers language planning (ನುಡಿಹಮ್ಮುಗೆ) — the deliberate modification of a language by institutions or communities to meet new communicative needs. The chapter identifies four planning activities where grammatical knowledge is essential: script reform (ಬರಿಗೆ ಹಮ್ಮುಗೆ), terminology development (ಪದನೆರಕೆಯ ಹಮ್ಮುಗೆ), grammatical standardisation (ಸೊಲ್ಲರಿಮೆಯ ಹಮ್ಮುಗೆ), and status planning (ಬೆಳವಣಿಗೆಯ ಹಮ್ಮುಗೆ — promoting the use of Kannada in new domains).
 
@@ -161,12 +179,14 @@ On script reform, the chapter discusses the hosa baraha system used in this very
 
 ---
 
+<a id="chapter-10--speech-disorders"></a>
+
 ## Chapter 10 — Speech Disorders
 
 *(ಮಾತಿನ ತೊಂದರೆಗಳು)*
 
 
-[ಕನ್ನಡ →](./29-kannaDa-vyAkaraNa-yAke-bEku-book) | [Eke →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn-eke#mAtina-tondaregaLu)
+[ಕನ್ನಡ →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn#adhyAya-10) | [Eke →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn-eke#mAtina-tondaregaLu)
 
 The penultimate chapter examines speech and language disorders (ಮಾತಿನ ತೊಂದರೆಗಳು), connecting grammatical knowledge to clinical speech-language pathology. The chapter distinguishes developmental disorders (disorders that arise in childhood language acquisition) from acquired disorders (disorders that result from brain injury or stroke in adults who previously had normal speech). Developmental disorders discussed include: hearing loss and its consequences for language development (ಕಿವಿ ಕೇಳಿಸದ ಮಕ್ಕಳು), phonological disorders (ಉಲಿಯ ತೊಂದರೆಗಳು), grammatical-morphological disorders (ಸೊಲ್ಲರಿಮೆಯ ತೊಂದರೆಗಳು), reading disorders/dyslexia (ಓದಿನ ತೊಂದರೆಗಳು), and stuttering (ಉಗ್ಗುಮಾತು). Among adult acquired disorders, the chapter briefly addresses aphasia — the partial or total loss of language ability following brain damage.
 
@@ -174,18 +194,22 @@ The chapter argues that effective diagnosis and therapy for all these conditions
 
 ---
 
+<a id="chapter-11--conclusion"></a>
+
 ## Chapter 11 — Conclusion
 
 *(ಮುಕ್ತಾಯ)*
 
 
-[ಕನ್ನಡ →](./29-kannaDa-vyAkaraNa-yAke-bEku-book) | [Eke →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn-eke#muktAya)
+[ಕನ್ನಡ →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn#adhyAya-11) | [Eke →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn-eke#muktAya)
 
 The concluding chapter draws together the ten domains covered in the preceding chapters into a unified argument. The author distinguishes multiple types of grammar relevant to different user communities: descriptive grammar (describing what speakers do), prescriptive grammar (prescribing what writers should do), pedagogical grammar (teaching grammar to learners), and computational grammar (encoding grammar for use by machines). These are not competing approaches but complementary ones — each is needed by a different set of users, and all ultimately depend on a good descriptive grammar of Kannada as their foundation.
 
 The chapter returns to the book's opening theme — that Kannada speakers already have perfect grammar in the tacit sense, and that what they need is to make parts of that grammar explicit for specific practical purposes. The key insight is that making tacit grammar explicit is always a means to an end, never an end in itself: the point of explicit grammar is to help people read better, write better, translate better, plan language change better, and teach language better. The chapter criticises the tradition of teaching grammar as an end in itself — as a set of definitions and rules to be memorised — and argues that grammar instruction becomes genuinely valuable only when it is anchored to a specific task where the grammatical knowledge makes a visible practical difference. The book ends with a short glossary of the native Kannada terms used throughout (ಕೆಲವು ಪದಗಳ ಹುರುಳುಗಳು) and a bibliography (ಸುಟ್ಟುಗೆ).
 
 ---
+
+<a id="key-terms-glossary"></a>
 
 ## Key Terms Glossary
 
