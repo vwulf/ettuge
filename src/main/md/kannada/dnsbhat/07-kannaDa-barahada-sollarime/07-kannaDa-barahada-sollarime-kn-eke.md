@@ -96,7 +96,7 @@ ee adhyAya vAkyadi esakapadakke bEkAda pAngugaLannu (valences/arguments) vivaris
 
 ## 7. suLusoLLugaLa racane {#suLusoLLu-racane}
 
-[English →](./07-kannaDa-barahada-sollarime-en#chapter-7--simple-sentences)
+[ಕನ್nnaDa →](./07-kannaDa-barahada-sollarime-vol2-kn) | [English →](./07-kannaDa-barahada-sollarime-en#chapter-7--simple-sentences)
 
 *(ಸುಳುಸೊಲ್ಲುಗಳ ರಚನೆ)*
 
@@ -106,7 +106,7 @@ ee adhyAya suLusoLLu (ondu esakapada mattu adakke sambandisida hesarupada-kanteg
 
 ## 8. aDaka mattu jODu soLLugaLu {#aDaka-jODu-soLLu}
 
-[English →](./07-kannaDa-barahada-sollarime-en#chapter-8--complex-sentences)
+[ಕನ್nnaDa →](./07-kannaDa-barahada-sollarime-vol2-kn) | [English →](./07-kannaDa-barahada-sollarime-en#chapter-8--complex-sentences)
 
 *(ಅಡಕ ಮತ್ತು ಜೋಡು ಸೊಲ್ಲುಗಳು)*
 
@@ -116,7 +116,7 @@ ee adhyAya eraDu bageya sankIrNa sOLLu-racaneyanu vivarisi. jODusoLLugaLu (compo
 
 ## 9. baraha mattu mAtu {#baraha-mAtu}
 
-[English →](./07-kannaDa-barahada-sollarime-en#chapter-9--writing-and-speech)
+[ಕನ್nnaDa →](./07-kannaDa-barahada-sollarime-vol2-kn) | [English →](./07-kannaDa-barahada-sollarime-en#chapter-9--writing-and-speech)
 
 *(ಬರಹ ಮತ್ತು ಮಾತು)*
 

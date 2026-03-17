@@ -13,6 +13,9 @@ redirect_from:
 
 - [adhyAya 5 — esakapadagaLa baLake](#adhyAya-5)
 - [adhyAya 6 — hesarukantegaLa iTTaLa](#adhyAya-6)
+- ~~adhyAya 7 — suLusoLLugaLa racane~~ *(OCR paTha labhyavilla)*
+- ~~adhyAya 8 — aDaka mattu jODu soLLugaLu~~ *(OCR paTha labhyavilla)*
+- ~~adhyAya 9 — baraha mattu mAtu~~ *(OCR paTha labhyavilla)*
 
 ---
 
