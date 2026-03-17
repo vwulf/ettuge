@@ -82,7 +82,7 @@ Volume 2 turns from words to sentences. Chapter 5 treats verb usage in depth: ho
 *(ಮುನ್ನೋಟ)*
 
 
-[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol1-book) | [Eke →](./07-kannaDa-barahada-sollarime-kn-eke#munnOTa)
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol1-book#adhyAya-1) | [Eke →](./07-kannaDa-barahada-sollarime-kn-eke#munnOTa)
 
 ### 1.1 Grammar and Sollarime
 
@@ -113,7 +113,7 @@ Sections 1.5–1.7 cover the phonological and orthographic details. Section 1.5 
 *(ಪದಗಳ ಇಟ್ಟಳ: ಹೆಸರುಪದಗಳು)*
 
 
-[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol1-book) | [Eke →](./07-kannaDa-barahada-sollarime-kn-eke#hesarupada-iTTaLa)
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol1-book#adhyAya-2) | [Eke →](./07-kannaDa-barahada-sollarime-kn-eke#hesarupada-iTTaLa)
 
 ### 2.1 Overview
 
@@ -160,7 +160,7 @@ Section 2.5 covers all three major types of Kannada compound words (ಜೋಡು
 *(ಪದಗಳ ಇಟ್ಟಳ: ಉಳಿದ ಪದಗಳು)*
 
 
-[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol1-book) | [Eke →](./07-kannaDa-barahada-sollarime-kn-eke#uLida-pada-iTTaLa)
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol1-book#adhyAya-3) | [Eke →](./07-kannaDa-barahada-sollarime-kn-eke#uLida-pada-iTTaLa)
 
 ### 3.2 Verbs
 
@@ -196,7 +196,7 @@ Section 3.5 covers demonstrative words (ಆಡುಪದ, *ADupada* — words lik
 *(ಪದರೂಪಗಳ ಇಟ್ಟಳ)*
 
 
-[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol1-book) | [Eke →](./07-kannaDa-barahada-sollarime-kn-eke#padarUpa-iTTaLa)
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol1-book#adhyAya-4) | [Eke →](./07-kannaDa-barahada-sollarime-kn-eke#padarUpa-iTTaLa)
 
 ### 4.1 Sandhi in Inflection
 
@@ -225,7 +225,7 @@ Section 4.8 describes the inflectional paradigm of nouns. Kannada nouns inflect 
 *(ಎಸಕಪದಗಳ ಬಳಕೆ)*
 
 
-[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol1-book) | [Eke →](./07-kannaDa-barahada-sollarime-kn-eke#esaka-baLake)
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-book#adhyAya-5) | [Eke →](./07-kannaDa-barahada-sollarime-kn-eke#esaka-baLake)
 
 ### 5.1 Overview of Verb Forms and Auxiliaries
 
@@ -250,7 +250,7 @@ Section 5.3 analyses the three types of *temporal aspect* (ಹೊತ್ತಿನ
 *(ಪದಕಂತೆಗಳ ಇಟ್ಟಳ)*
 
 
-[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol1-book) | [Eke →](./07-kannaDa-barahada-sollarime-kn-eke#padakante-iTTaLa)
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-book#adhyAya-6) | [Eke →](./07-kannaDa-barahada-sollarime-kn-eke#padakante-iTTaLa)
 
 ### 6.1–6.3 Verb Arguments and Semantic Roles
 
@@ -269,7 +269,7 @@ Sections 6.4–6.6 provide a detailed semantic analysis of each of Kannada's cas
 *(ಸುಳುಸೊಲ್ಲುಗಳ ರಚನೆ)*
 
 
-[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol1-book) | [Eke →](./07-kannaDa-barahada-sollarime-kn-eke#suLusoLLu-racane)
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-book) | [Eke →](./07-kannaDa-barahada-sollarime-kn-eke#suLusoLLu-racane)
 
 ### 7.1–7.3 Basic Sentence Patterns
 
@@ -286,7 +286,7 @@ Adjunct expressions — those that add information to a sentence without being r
 *(ಅಡಕ ಮತ್ತು ಜೋಡು ಸೊಲ್ಲುಗಳು)*
 
 
-[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol1-book) | [Eke →](./07-kannaDa-barahada-sollarime-kn-eke#aDaka-jODu-soLLu)
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-book) | [Eke →](./07-kannaDa-barahada-sollarime-kn-eke#aDaka-jODu-soLLu)
 
 ### 8.1 Compound Sentences
 
@@ -307,7 +307,7 @@ Section 8.3 examines how Kannada sentences express *information structure* — t
 *(ಬರಹ ಮತ್ತು ಮಾತು)*
 
 
-[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol1-book) | [Eke →](./07-kannaDa-barahada-sollarime-kn-eke#baraha-mAtu)
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-book) | [Eke →](./07-kannaDa-barahada-sollarime-kn-eke#baraha-mAtu)
 
 Chapter 9 returns to and deepens the theoretical discussion of Chapter 1.3 on the differences between written and spoken Kannada. Bhat identifies several systematic dimensions along which written Kannada (ಕನ್ನಡ ಬರಹ) and spoken Kannada (ಕನ್ನಡ ಮಾತು) diverge. Written Kannada preserves older phonological distinctions (e.g., the retroflex lateral *-L-* and the distinction between some short and long vowel pairs) that have been neutralised or lost in many spoken dialects. Written Kannada uses longer and more complex sentences with heavier use of participial relative clauses and nominalised embedded clauses — constructions that are less frequent in spontaneous speech. Written Kannada has a much higher proportion of Sanskrit-derived vocabulary (tatsama forms) than spoken Kannada. The chapter argues that these differences do not mean written Kannada is superior — it is simply differently suited to the communicative purposes for which writing is used (permanence, distance, precision, formality). The chapter closes with a defence of orthographic reform (*hosa baraha*): if writing is to serve all Kannadigas, not just the educated elite, the orthographic system should be simplified to match modern phonology, and the unnecessary proliferation of letters that encode sounds long lost from spoken Kannada should be retired.
 

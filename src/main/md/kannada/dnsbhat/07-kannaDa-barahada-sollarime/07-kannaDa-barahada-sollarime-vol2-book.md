@@ -10,6 +10,11 @@ redirect_from:
 
 ---
 
+
+<a id="adhyAya-5"></a>
+
+[English →](./07-kannaDa-barahada-sollarime-en#chapter-5--verb-usage) | [Eke →](./07-kannaDa-barahada-sollarime-kn-eke#esaka-baLake)
+
 5. ಎಸಕಪದಗಳ ಬಳಕೆ 
 
 5.1 ಮುನ್ನೋಟ 
@@ -6076,6 +6081,11 @@ vÀÛzÉ.
 ಬಿ ಡಾ. ಡಿ. ಎನ್ ಶಂಕರಬಟ್. ಎಲ್ಲಾ ಹಕ್ಕುಗಳನ್ನೂ ಕಾದಿರಿಸಿದೆ. 
 
  
+
+<a id="adhyAya-6"></a>
+
+[English →](./07-kannaDa-barahada-sollarime-en#chapter-6--noun-phrase-structure) | [Eke →](./07-kannaDa-barahada-sollarime-kn-eke#padakante-iTTaLa)
+
 6. ಹೆಸರುಕಂತೆಗಳ ಇಟ್ಟಳ 
 
 6.1 ಮುನ್ನೋಟ 

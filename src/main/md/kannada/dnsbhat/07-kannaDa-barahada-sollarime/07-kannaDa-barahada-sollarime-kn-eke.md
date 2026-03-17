@@ -36,6 +36,8 @@ redirect_from:
 
 ## 1. munnOTa {#munnOTa}
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol1-book#adhyAya-1) | [English →](./07-kannaDa-barahada-sollarime-en#chapter-1--preview)
+
 *(ಮುನ್ನೋಟ)*
 
 ee adhyAya sollarime emba arimeya kSetravu samskxta-mUlada vyAkaraNa tattvagaLinda hEge bEre embadannu tOrisi, kannaData nuDiyarikattu-mAnagaLalli bEku endu baT avaru vAdisuttAre. kannaDa baragada nuDi, mAtanADuva nuDi, mattu nuDiyarimeya beSa nuDigaLannu bEridu kOrisuttade. lEkhana-paddatiyannu (baravaNige, sandhi, viramacihne) vivarisi, vAkyada iTTaLavannu mElagaNa mADi, uligaLu mattu barigegaLa naDuvina sambandhavannu sparSisuttade. hosa baraha embude baragada saripaDikeya prayOjanagaLannu sankSiptagOLisuttade.
@@ -43,6 +45,8 @@ ee adhyAya sollarime emba arimeya kSetravu samskxta-mUlada vyAkaraNa tattvagaLin
 ---
 
 ## 2. padagaLa iTTaLa: hesarupadagaLu {#hesarupada-iTTaLa}
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol1-book#adhyAya-2) | [English →](./07-kannaDa-barahada-sollarime-en#chapter-2--word-structure-nouns)
 
 *(ಪದಗಳ ಇಟ್ಟಳ: ಹೆಸರುಪದಗಳು)*
 
@@ -52,6 +56,8 @@ ee adhyAya kannaData hesarupadagaLa oLaracaneyalla savisatarAvAda 11 sandhi-niya
 
 ## 3. padagaLa iTTaLa: uLida padagaLu {#uLida-pada-iTTaLa}
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol1-book#adhyAya-3) | [English →](./07-kannaDa-barahada-sollarime-en#chapter-3--word-structure-remaining-word-classes)
+
 *(ಪದಗಳ ಇಟ್ಟಳ: ಉಳಿದ ಪದಗಳು)*
 
 ee adhyAya esakapadagaLu, paricepaDagaLu, sUcakagaLu, sankhyegaLu mattu eravalu padagaLa oLaracaneyanu vivarisi. -isu kAraka-oTTu esakapadagaLinda hosa esakapadagaLannu hEge sxSTisuttade embadannu kOrisuttade. 12 mukhyavAda kUDupada-neravesakapadagaLannu (udA: biDu, koDu, koLLu, hogu) paTTi mADuttade — ee neravesakapadagaLu artha-mArpu mattu bALike-pAngugaLannu koLLuttave. paricepaDagaLa mUru bhAgIya rUpagaLannu (kriya-parice, nAma-parice, mattu prAthamika parice) sparSisuttade. sankhyeyuva padagaLu mattu sUcaka padagaLa saviseyannu kOrisuttade. eravalu padagaLannu kannaData uligaLa mUlakavanE hEge bareyabEku embadannu vivEcisuttade.
@@ -59,6 +65,8 @@ ee adhyAya esakapadagaLu, paricepaDagaLu, sUcakagaLu, sankhyegaLu mattu eravalu 
 ---
 
 ## 4. padarUpagaLa iTTaLa {#padarUpa-iTTaLa}
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol1-book#adhyAya-4) | [English →](./07-kannaDa-barahada-sollarime-en#chapter-4--inflectional-forms)
 
 *(ಪದರೂಪಗಳ ಇಟ್ಟಳ)*
 
@@ -68,6 +76,8 @@ ee adhyAya samputa 1 ra mahatvaputAda adhyAya. kannaData esakapadagaLa 36 padarU
 
 ## 5. esakapadagaLa baLake {#esaka-baLake}
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-book#adhyAya-5) | [English →](./07-kannaDa-barahada-sollarime-en#chapter-5--verb-usage)
+
 *(ಎಸಕಪದಗಳ ಬಳಕೆ)*
 
 ee adhyAya samputa 2 ru toDaguttade — esakapadagaLu vAkyadi hEge baLakeyAgutte embadannu vivarisi. tiruLesakapada (mukhya esaka) mattu neravesakapada (sahAyaka esaka) naDuvina bedannu viSadagOLisuttade. sollu paTTuge (utterance time) mattu esaka pATTuge (event time) emba eraDu kAla-sUcane-mAnagaLannu upayOgi hottu-nirdESavannu vivEcisuttade. iru-kriya mattu modalEsaka, mArEsaka, oDanEsaka rUpagaLu sEridAga artha-pAngu (aspect) hEge rUpalaguttade embadannu tOrisuttade. modal neravesakapadagaLu, nEraLa-nijagaLu, mattu niSedu-rUpagaLu sparSisuttade.
@@ -75,6 +85,8 @@ ee adhyAya samputa 2 ru toDaguttade — esakapadagaLu vAkyadi hEge baLakeyAgutte
 ---
 
 ## 6. padakantegaLa iTTaLa {#padakante-iTTaLa}
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-book#adhyAya-6) | [English →](./07-kannaDa-barahada-sollarime-en#chapter-6--noun-phrase-structure)
 
 *(ಪದಕಂತೆಗಳ ಇಟ್ಟಳ)*
 
@@ -84,6 +96,8 @@ ee adhyAya vAkyadi esakapadakke bEkAda pAngugaLannu (valences/arguments) vivaris
 
 ## 7. suLusoLLugaLa racane {#suLusoLLu-racane}
 
+[English →](./07-kannaDa-barahada-sollarime-en#chapter-7--simple-sentences)
+
 *(ಸುಳುಸೊಲ್ಲುಗಳ ರಚನೆ)*
 
 ee adhyAya suLusoLLu (ondu esakapada mattu adakke sambandisida hesarupada-kantegaLu iruva sOLLu) ra racaneyannu vivarisi. hELike-sOLLu, praSne-sOLLu, adesige-sOLLu, mattu ucchara-sOLLu emba nAlku illocutionary bheTagaLannu vivEcisuttade. viSeSaNa-kantegaLu (adjuncts) hEge sOLLige sErikOLLuttave embadannu tOrisi, artha-tOrike (implicature) mattu munnotipu (presupposition) naDuvina bedannu viSadagOLisuttade. esakapadada sthAna (SOV krama) mattu hesarupada-kantegaLa krama kannaData suLusoLLuda mUlabhUta lakShaNagaLu endu baT avaru tOrisuttAre.
@@ -92,6 +106,8 @@ ee adhyAya suLusoLLu (ondu esakapada mattu adakke sambandisida hesarupada-kanteg
 
 ## 8. aDaka mattu jODu soLLugaLu {#aDaka-jODu-soLLu}
 
+[English →](./07-kannaDa-barahada-sollarime-en#chapter-8--complex-sentences)
+
 *(ಅಡಕ ಮತ್ತು ಜೋಡು ಸೊಲ್ಲುಗಳು)*
 
 ee adhyAya eraDu bageya sankIrNa sOLLu-racaneyanu vivarisi. jODusoLLugaLu (compound sentences) sErike-soLLuTTugaLu upayOgi racaLAguttave; avugaLalli sAmAnyavAga oru-sandarbha-tattva (co-referentiality constraint) pALaneyAgutte embadannu baT avaru tOrisuttAre. aDakasoLLugaLu (embedded clauses) hesarupada-kante, parice-kante, yA adesige-kanteyAgi vAkyadi oLagE sErikOLLuvudannu vivarisi. viSaya-muncoLLu (topicalization) mattu nEmaka-muncoLLu (focus) emba samvAda-tattva-vAda vivEcisuttade. SOV-krama kannaData mULa-iTTaLa endu, mattu hesarupada-munde baruvudu (pre-nominal modification) kannaDatada mELa-kattu (head-finality) ra lakShaNa endu baT avaru vAdisuttAre.
@@ -99,6 +115,8 @@ ee adhyAya eraDu bageya sankIrNa sOLLu-racaneyanu vivarisi. jODusoLLugaLu (compo
 ---
 
 ## 9. baraha mattu mAtu {#baraha-mAtu}
+
+[English →](./07-kannaDa-barahada-sollarime-en#chapter-9--writing-and-speech)
 
 *(ಬರಹ ಮತ್ತು ಮಾತು)*
 
