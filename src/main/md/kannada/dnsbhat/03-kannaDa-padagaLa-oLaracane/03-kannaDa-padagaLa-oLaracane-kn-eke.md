@@ -31,6 +31,8 @@ redirect_from:
 
 ## 1. pITike {#pITike}
 
+[ಕನ್ನಡ →](./03-kannaDa-padagaLa-oLaracane-book#adhyAya-1) | [English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-1--introduction)
+
 ### 1.1 oLaracane (ಒಳರಚನೆ)
 
 kannaDigaLali eraDu bageya padagaLu idave: oLaracane iruva padagaLu mattu oLaracane illada padagaLu. "munnuDi" emba padavu "munde" mattu "nuDi" emba eraDu padagaLu sEridagilive — ide adu oLaracane iruva pada. "tale" emba padavu oLaracane illada pada; adanu munde "tala" mattu innondu pada endu bida-bida mADalAguvudilla. "kuNita" emba pada "kuNi" (verb) mattu "ta" (hesaravAgu mADuva prattaya) endu bidu-bidu mADalAguvudu. oLaracane ariyadE pada upayOgisabahudu, Adare oLaracane ariyadiddare hosa padagaLa artha honde terakOLLuvudu, hosa padagaLannu kaDedabiDuvudu, mattu anuvAdakke sahAyavAguvudu.
@@ -55,6 +57,8 @@ ondu jODupadada amsu swatamindriya-pada endare, adu bErE kaDeyalli svatamindriya
 
 ## 2. kannaDigaLa pada-gumpugaLu {#pada-gumpugaLu}
 
+[ಕನ್ನಡ →](./03-kannaDa-padagaLa-oLaracane-book#adhyAya-2) | [English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-2--word-classes-in-kannada)
+
 *(ಕನ್ನಡದ ಪದಗುಂಪುಗಳು)*
 
 ### 2.1 munnOTa (ಮುನ್ನೋಟ)
@@ -77,6 +81,8 @@ kenDagaLu 2.4–2.5 hesarisuttade: konDu padagaLu eraDu gumpugaLa naDuvE iddarU 
 
 ## 3. hesaru padagaLa oLaracane {#hesaru-padagaLa-oLaracane}
 
+[ಕನ್ನಡ →](./03-kannaDa-padagaLa-oLaracane-book#adhyAya-3) | [English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-3--internal-structure-of-nouns)
+
 *(ನಾಮಪದಗಳ ಒಳರಚನೆ)*
 
 kannaDa hesaru padagaLu eraDu kArya mADuttave: vyaktigaLannu gurtisu (hEsarisu) yA avara dharmagaLannu vari (varisu). adhyAya modalige ee eraDu kArya beda-beda endu tOrisi, nantara jODupada mattu hesaru-pada-kante (noun phrase) naDuvina bedavannu sparSisuttade. jODupada (ಜೋಡುಪದ) ondu svalpa padindIya artha iruva pada, ante; hesaru-pada-kante (ಹೆಸರುಪದ ಕಂತೆ) vyAkaraNavalla sErisida artha-kante.
@@ -88,6 +94,8 @@ adhyAya rUDhanAma (proper nouns) mattu ankitanAma (common nouns) naDuvina bedava
 ---
 
 ## 4. prattayaviruva hesaru padagaLu {#prattayaviruva-hesaru-padagaLu}
+
+[ಕನ್ನಡ →](./03-kannaDa-padagaLa-oLaracane-book#adhyAya-4) | [English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-4--nouns-with-suffixes)
 
 *(ಪ್ರತ್ಯಯವಿರುವ ನಾಮಪದಗಳು)*
 
@@ -110,6 +118,8 @@ kenDa 4.4 hesaru-padinda hesaru-pada-sxSTi (noun-from-noun derivation) vivarisi,
 
 ## 5. jODupadagaLu {#jODupadagaLu}
 
+[ಕನ್ನಡ →](./03-kannaDa-padagaLa-oLaracane-book#adhyAya-5) | [English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-5--compound-nouns)
+
 *(ಜೋಡುಪದಗಳು)*
 
 ee adhyAya kannaDigaLalli jODike (compounding) emba vistAradavAda cintane mADuttade. modalina kenDagaLu (5.1–5.3) jODupada mattu ee mUru viSayagaLa naDuvina viparyAsagaLannu sparSisuttave: (a) kevaLa eraDu padagaLannu jODisida kantegaLu, (b) prattaya iruva padagaLu, mattu (c) mAlu-nuDi/dvandvagaLu. adhyAya nantara nAlku vargIkaraNa mAnagaLannu koDuttade.
@@ -122,6 +132,8 @@ kenDa 5.7 padagaLu jODuvAga jaraguva dvani-badala-gOnnu vivisuttade: eraDaneyada
 
 ## 6. kriyA padagaLa oLaracane {#kriyA-padagaLa-oLaracane}
 
+[ಕನ್ನಡ →](./03-kannaDa-padagaLa-oLaracane-book#adhyAya-6) | [English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-6--internal-structure-of-verbs)
+
 *(ಕ್ರಿಯಾಪದಗಳ ಒಳರಚನೆ)*
 
 kannaDa esaka padagaLu hesaru padagaLiginta rachane-dxSTiyalli bEre. adhika prAthamika esaka padagaLu oLaracane illada mUla-rUpagaLe. adhyAya 6.1 esaka padagaLa kArya-yA-nele-sxSTiyannu vivarisi, avukke bALatanarivu (agent, patient, location, time) bEkAguttade endu hELuttade. samskxta "kriyasamAsa" emba tatta kannaDigaLige hEge mIti-tattalAguttade endU konDu gantavyannu tOrisuttade.
@@ -131,6 +143,8 @@ kenDa 6.2 oLaracane-illada esaka padagaLannu (simplex verbs) varisuttade — ind
 ---
 
 ## 7. guNa padagaLa oLaracane {#guNa-padagaLa-oLaracane}
+
+[ಕನ್ನಡ →](./03-kannaDa-padagaLa-oLaracane-book#adhyAya-7) | [English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-7--internal-structure-of-qualifiers)
 
 *(ಗುಣಪದಗಳ ಒಳರಚನೆ)*
 
@@ -142,6 +156,8 @@ kenDa 7.2 parice pada upa-bheTagaLa naDuvina sUkShma bedagaLannu — sthira dhar
 
 ## 8. eravalu padagaLa oLaracane {#eravalu-padagaLa-oLaracane}
 
+[ಕನ್ನಡ →](./03-kannaDa-padagaLa-oLaracane-book#adhyAya-8) | [English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-8--internal-structure-of-loanwords)
+
 *(ಎರವಲಾಗಿ ಬಂದ ಪದಗಳ ಒಳರಚನೆ)*
 
 ee adhyAya bErE nuDigaLinda, mukhyavAgi samskxtinda, kannaDigaLige eravalu banda padagaLannu sparSisuttade. kenDa 8.1 eravalu (borrowing) sAmAnya vidindamannu vivEcisi: bEre bEre bageya eravalugaLannu (8.1.1) vivarisi, tatsama padagaLu (samskxta-mUla dvani-badala illa upayogi padagaLu) mattu tadbava padagaLu (samskxta-mUla dvani-sampUrNa kannaDigaLIkaraNa padagaLu) naDuvina bedannu (8.1.2) hELi, eravalu padagaLalli dvani-badalakkAguvudu yAkE embu (8.1.3) vivarisi, eravalu mADuvAga pada-gumpu saDasyatva hEge baddalAgutte endU (8.1.4) sparSisuttade.
@@ -151,6 +167,8 @@ kenDa 8.2 eravalu padagaLa oLaracane vivarisi: (8.2.1) avara oLaracane native ka
 ---
 
 ## 9. muktAya {#muktAya}
+
+[ಕನ್ನಡ →](./03-kannaDa-padagaLa-oLaracane-book#adhyAya-9) | [English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-9--conclusion)
 
 *(ಮುಕ್ತಾಯ)*
 
