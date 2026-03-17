@@ -345,7 +345,7 @@ viSayasUci
 
 <a id="adhyAya-1"></a>
 
-[English →](./28-kannaDakke-bEku-en#chapter-1--preview) | [Eke →](./28-kannaDakke-bEku-kn-eke#munnOTa)
+[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-1) | [English →](./28-kannaDakke-bEku-en#chapter-1--preview)
 
 ## 1. munnOTa {#munnOTa}
 
@@ -963,7 +963,7 @@ I pustakadalli mADalAgide. vyanjana g  endAguttade
 
 <a id="adhyAya-2"></a>
 
-[English →](./28-kannaDakke-bEku-en#chapter-2--sandhi-rules) | [Eke →](./28-kannaDakke-bEku-kn-eke#sErikeya-niyamagaLu)
+[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-2) | [English →](./28-kannaDakke-bEku-en#chapter-2--sandhi-rules)
 
 ## 2. sErikeya niyamagaLu {#sErikeya-niyamagaLu}
 2.1 munnOTa 
@@ -1895,7 +1895,7 @@ vAguttade.
 
 <a id="adhyAya-3"></a>
 
-[English →](./28-kannaDakke-bEku-en#chapter-3--word-classes) | [Eke →](./28-kannaDakke-bEku-kn-eke#padavagragaLu)
+[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-3) | [English →](./28-kannaDakke-bEku-en#chapter-3--word-classes)
 
 ## 3. padavagragaLu {#padavagragaLu}
 
@@ -2860,7 +2860,7 @@ adhyAyadalli nODiruvevu.
 
 <a id="adhyAya-4"></a>
 
-[English →](./28-kannaDakke-bEku-en#chapter-4--internal-structure-of-words) | [Eke →](./28-kannaDakke-bEku-kn-eke#padagaLa-oLaracane)
+[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-4) | [English →](./28-kannaDakke-bEku-en#chapter-4--internal-structure-of-words)
 
 ## 4. padagaLa oLaracane {#padagaLa-oLaracane}
 
@@ -3697,7 +3697,7 @@ oLaracane emba nanna pustakavannu (bhaT 2002) nODabahudu.
 
 <a id="adhyAya-5"></a>
 
-[English →](./28-kannaDakke-bEku-en#chapter-5--compounds) | [Eke →](./28-kannaDakke-bEku-kn-eke#samAsagaLu)
+[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-5) | [English →](./28-kannaDakke-bEku-en#chapter-5--compounds)
 
 ## 5. samAsagaLu {#samAsagaLu}
 
@@ -5168,7 +5168,7 @@ padagaLigU I vibhajane anvayisuttade.
 
 <a id="adhyAya-6"></a>
 
-[English →](./28-kannaDakke-bEku-en#chapter-6--gender-and-number) | [Eke →](./28-kannaDakke-bEku-kn-eke#linga-mattu-vacanagaLu)
+[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-6) | [English →](./28-kannaDakke-bEku-en#chapter-6--gender-and-number)
 
 ## 6. linga mattu vacanagaLu {#linga-mattu-vacanagaLu}
 
@@ -5629,7 +5629,7 @@ vudu avaSya.
 
 <a id="adhyAya-7"></a>
 
-[English →](./28-kannaDakke-bEku-en#chapter-7--case-markers-and-karaka) | [Eke →](./28-kannaDakke-bEku-kn-eke#vibhaktigaLu-mattu-kArakagaLu)
+[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-7) | [English →](./28-kannaDakke-bEku-en#chapter-7--case-markers-and-karaka)
 
 ## 7. vibhaktigaLu mattu kArakagaLu {#vibhaktigaLu-mattu-kArakagaLu}
 
@@ -6442,7 +6442,7 @@ koLLalu prayatnisidalli halavu samasyegaLannu edurisabEkAguttade.
 
 <a id="adhyAya-8"></a>
 
-[English →](./28-kannaDakke-bEku-en#chapter-8--case-suffixes) | [Eke →](./28-kannaDakke-bEku-kn-eke#vibhaktigaLu)
+[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-8) | [English →](./28-kannaDakke-bEku-en#chapter-8--case-suffixes)
 
 ## 8. vibhaktigaLu {#vibhaktigaLu}
 
@@ -7375,7 +7375,7 @@ sUcisuvudilla.
 
 <a id="adhyAya-9"></a>
 
-[English →](./28-kannaDakke-bEku-en#chapter-9--case-alternation) | [Eke →](./28-kannaDakke-bEku-kn-eke#vibhaktipallaTa)
+[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-9) | [English →](./28-kannaDakke-bEku-en#chapter-9--case-alternation)
 
 ## 9. vibhaktipallaTa {#vibhaktipallaTa}
 
@@ -7845,7 +7845,7 @@ vyatyAsavannu kannaDada vayyAkaraNigaLu gamanisidantilla.
 
 <a id="adhyAya-10"></a>
 
-[English →](./28-kannaDakke-bEku-en#chapter-10--pronouns-and-numerals) | [Eke →](./28-kannaDakke-bEku-kn-eke#sarvanAmagaLu-mattu-eNikeya-padagaLu)
+[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-10) | [English →](./28-kannaDakke-bEku-en#chapter-10--pronouns-and-numerals)
 
 ## 10. savranAmagaLu mattu eNikeya padagaLu {#sarvanAmagaLu-mattu-eNikeya-padagaLu}
 
@@ -8345,7 +8345,7 @@ baruvuvAdarU bEre kelavu viSayagaLalli guNapadagaLa hAge baruttave.
 
 <a id="adhyAya-11"></a>
 
-[English →](./28-kannaDakke-bEku-en#chapter-11--verb-forms) | [Eke →](./28-kannaDakke-bEku-kn-eke#kriyArUpagaLu)
+[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-11) | [English →](./28-kannaDakke-bEku-en#chapter-11--verb-forms)
 
 ## 11. kriyArUpagaLu {#kriyArUpagaLu}
 
@@ -9194,7 +9194,7 @@ mAtra kannaDada I kriyArUpagaLannu vivarisalu sAdhya.
 
 <a id="adhyAya-12"></a>
 
-[English →](./28-kannaDakke-bEku-en#chapter-12--conclusion) | [Eke →](./28-kannaDakke-bEku-kn-eke#muktAya)
+[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-12) | [English →](./28-kannaDakke-bEku-en#chapter-12--conclusion)
 
 ## 12. muktAya {#muktAya}
 

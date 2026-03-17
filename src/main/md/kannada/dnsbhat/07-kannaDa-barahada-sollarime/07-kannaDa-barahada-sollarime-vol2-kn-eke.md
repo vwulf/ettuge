@@ -22,7 +22,7 @@ redirect_from:
 
 <a id="adhyAya-5"></a>
 
-[ಕನ್nnaDa →](./07-kannaDa-barahada-sollarime-vol2-kn#adhyAya-5) | [English →](./07-kannaDa-barahada-sollarime-en#chapter-5--verb-usage)
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#adhyAya-5) | [English →](./07-kannaDa-barahada-sollarime-en#chapter-5--verb-usage)
 
 5. esakapadagaLa baLake 
 
@@ -5599,7 +5599,7 @@ bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside.
  
 <a id="adhyAya-6"></a>
 
-[ಕನ್nnaDa →](./07-kannaDa-barahada-sollarime-vol2-kn#adhyAya-6) | [English →](./07-kannaDa-barahada-sollarime-en#chapter-6--noun-phrase-structure)
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#adhyAya-6) | [English →](./07-kannaDa-barahada-sollarime-en#chapter-6--noun-phrase-structure)
 
 6. hesarukantegaLa iTTaLa 
 

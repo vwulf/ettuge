@@ -598,7 +598,7 @@ bi DA. Di. en Sankara baT. ellA hakkugaLannU kAdiriside.
  
 <a id="adhyAya-1"></a>
 
-[English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-1--introduction) | [Eke →](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke#pITike)
+[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#adhyAya-1) | [English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-1--introduction)
 
 adhyAya ondu 
 pIThike 
@@ -1304,7 +1304,7 @@ bi DA. Di. en Sankara baT. ellA hakkugaLannU kAdiriside.
  
 <a id="adhyAya-2"></a>
 
-[English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-2--internal-structure-of-action-sentences) | [Eke →](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke#kriyAvAkyagaLa-oLaracane)
+[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#adhyAya-2) | [English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-2--internal-structure-of-action-sentences)
 
 adhyAya eraDu 
 kriyAvAkyagaLa oLaracane 
@@ -2712,7 +2712,7 @@ bi DA. Di. en Sankara baT. ellA hakkugaLannU kAdiriside.
  
 <a id="adhyAya-3"></a>
 
-[English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-3--internal-structure-of-stative-sentences) | [Eke →](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke#viSayavAkyagaLa-oLaracane)
+[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#adhyAya-3) | [English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-3--internal-structure-of-stative-sentences)
 
 adhyAya mUru 
 viSayavAkyagaLa oLaracane 
@@ -3522,7 +3522,7 @@ bi DA. Di. en Sankara baT. ellA hakkugaLannU kAdiriside.
  
 <a id="adhyAya-4"></a>
 
-[English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-4--noun-phrases) | [Eke →](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke#nAmapada-kantegaLu)
+[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#adhyAya-4) | [English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-4--noun-phrases)
 
 adhyAya nAlku 
 nAmapadagaLa kantegaLu 
@@ -4379,7 +4379,7 @@ bi DA. Di. en Sankara baT. ellA hakkugaLannU kAdiriside.
  
 <a id="adhyAya-5"></a>
 
-[English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-5--verb-forms) | [Eke →](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke#kriyApada-padarUpagaLu)
+[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#adhyAya-5) | [English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-5--verb-forms)
 
 adhyAya aydu 
 kriyApadagaLa padarUpagaLu 
@@ -6047,7 +6047,7 @@ bi DA. Di. en Sankara baT. ellA hakkugaLannU kAdiriside.
  
 <a id="adhyAya-6"></a>
 
-[English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-6--use-of-qualifiers) | [Eke →](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke#guNapadagaLa-baLake)
+[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#adhyAya-6) | [English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-6--use-of-qualifiers)
 
 adhyAya Aru 
 guNapadagaLa baLake 
@@ -6664,7 +6664,7 @@ bi DA. Di. en Sankara baT. ellA hakkugaLannU kAdiriside.
   
 <a id="adhyAya-7"></a>
 
-[English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-7--embedded-clauses) | [Eke →](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke#oLavAkyagaLu)
+[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#adhyAya-7) | [English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-7--embedded-clauses)
 
 adhyAya ELu 
 oLavAkyagaLu 
@@ -7884,7 +7884,7 @@ bi DA. Di. en Sankara baT. ellA hakkugaLannU kAdiriside.
  
 <a id="adhyAya-8"></a>
 
-[English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-8--sentence-coordination) | [Eke →](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke#vAkyagaLa-jODaNe)
+[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#adhyAya-8) | [English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-8--sentence-coordination)
 
 adhyAya enTu 
 vAkyagaLa jODaNe 
@@ -8520,7 +8520,7 @@ bi DA. Di. en Sankara baT. ellA hakkugaLannU kAdiriside.
  
 <a id="adhyAya-9"></a>
 
-[English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-9--focusing-and-negation) | [Eke →](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke#sambandisuvudu-mattu-allagaLeyuvudu)
+[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#adhyAya-9) | [English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-9--focusing-and-negation)
 
 adhyAya ombattu 
 sambandhisuvudu mattu 
@@ -9141,7 +9141,7 @@ bi DA. Di. en Sankara baT. ellA hakkugaLannU kAdiriside.
  
 <a id="adhyAya-10"></a>
 
-[English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-10--speech-acts) | [Eke →](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke#mAtina-kasagagaLu)
+[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#adhyAya-10) | [English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-10--speech-acts)
 
 adhyAya hattu 
 mAtina kelasagaLu 
@@ -10559,7 +10559,7 @@ bi DA. Di. en Sankara baT. ellA hakkugaLannU kAdiriside.
  
 <a id="adhyAya-11"></a>
 
-[English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-11--typological-features-of-kannada) | [Eke →](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke#kannaDigaLa-keLavu-vaiSiSTyagaLu)
+[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#adhyAya-11) | [English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-11--typological-features-of-kannada)
 
 adhyAya hannondu 
 kannaDada kelavu vaySiSTyagaLu 

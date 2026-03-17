@@ -227,7 +227,7 @@ viSayasUci 236
 
 <a id="adhyAya-1"></a>
 
-[English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-1--introduction) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#pITike)
+[ಕನ್ನಡ →](./03-kannaDa-padagaLa-oLaracane-kn#adhyAya-1) | [English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-1--introduction)
 
 ## 1.1 oLaracane
 kannaDada sollugaLalli mukyavAgi eraDu rItiya padagaLu baLakeyallive.
@@ -1051,7 +1051,7 @@ kANabahudu.
 
 <a id="adhyAya-2"></a>
 
-[English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-2--word-classes-in-kannada) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#pada-gumpugaLu)
+[ಕನ್ನಡ →](./03-kannaDa-padagaLa-oLaracane-kn#adhyAya-2) | [English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-2--word-classes-in-kannada)
 
 ## 2.1 munnOTa
 nuDiyondaralli baruva padagaLannu avugaLa huruLu mattu
@@ -1990,7 +1990,7 @@ nAmapadagaLa oLaracane
 
 <a id="adhyAya-3"></a>
 
-[English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-3--internal-structure-of-nouns) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#hesaru-padagaLa-oLaracane)
+[ಕನ್ನಡ →](./03-kannaDa-padagaLa-oLaracane-kn#adhyAya-3) | [English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-3--internal-structure-of-nouns)
 
 ## 3.1 hesarisuvudu mattu varNisuvudu
 vAkyada mUlaka ondu ghaTaneyannu tiLisabEkAdalli, illavE
@@ -3269,7 +3269,7 @@ vyatyAsa.
 
 <a id="adhyAya-4"></a>
 
-[English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-4--nouns-with-suffixes) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#prattayaviruva-hesaru-padagaLu)
+[ಕನ್ನಡ →](./03-kannaDa-padagaLa-oLaracane-kn#adhyAya-4) | [English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-4--nouns-with-suffixes)
 
 ## adhyAya nAlkupratyayaviruva nAmapadagaLu
 
@@ -5229,7 +5229,7 @@ kANisuva pratyayagaLa mAdariyalli tayArAdavugaLa hAgive.
 
 <a id="adhyAya-5"></a>
 
-[English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-5--compound-nouns) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#jODupadagaLu)
+[ಕನ್ನಡ →](./03-kannaDa-padagaLa-oLaracane-kn#adhyAya-5) | [English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-5--compound-nouns)
 
 adhyAya aydu
 jODupadagaLu
@@ -7491,7 +7491,7 @@ gaLa varNane kannaDada maTTige aSTondu txptikaravAgilla.
 
 <a id="adhyAya-6"></a>
 
-[English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-6--internal-structure-of-verbs) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#kriyA-padagaLa-oLaracane)
+[ಕನ್ನಡ →](./03-kannaDa-padagaLa-oLaracane-kn#adhyAya-6) | [English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-6--internal-structure-of-verbs)
 
 ## adhyAya ArukriyApadagaLa oLaracane
 
@@ -8742,7 +8742,7 @@ kannaDada kriyApadagaLa innondu vaySiSTya.
 
 <a id="adhyAya-7"></a>
 
-[English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-7--internal-structure-of-qualifiers) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#guNa-padagaLa-oLaracane)
+[ಕನ್ನಡ →](./03-kannaDa-padagaLa-oLaracane-kn#adhyAya-7) | [English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-7--internal-structure-of-qualifiers)
 
 adhyAya ELu
 guNapadagaLa oLaracane
@@ -9135,7 +9135,7 @@ vantaha padagaLa baLakeyalli mAtra.
 
 <a id="adhyAya-8"></a>
 
-[English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-8--internal-structure-of-loanwords) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#eravalu-padagaLa-oLaracane)
+[ಕನ್ನಡ →](./03-kannaDa-padagaLa-oLaracane-kn#adhyAya-8) | [English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-8--internal-structure-of-loanwords)
 
 ## adhyAya enTueravalu padagaLa oLaracane
 
@@ -11113,7 +11113,7 @@ viSayada AdhArada mEle vingaDisuvudE heccu txptikaravAda vidhAna.
 
 <a id="adhyAya-9"></a>
 
-[English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-9--conclusion) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#muktAya)
+[ಕನ್ನಡ →](./03-kannaDa-padagaLa-oLaracane-kn#adhyAya-9) | [English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-9--conclusion)
 
 ## adhyAya ombattumuktAya
 

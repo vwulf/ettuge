@@ -760,7 +760,7 @@ viSayasUci
 <a id="adhyAya-1"></a>
 <a id="munnOTa"></a>
 
-[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-1--overview) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#munnOTa)
+[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn#adhyAya-1) | [English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-1--overview)
 
 1. munnOTa 
 
@@ -1657,7 +1657,7 @@ baLakeyAgiruva pAribASika padagaLannu koneyalli vivarisalAgide.
 <a id="adhyAya-2"></a>
 <a id="bErina-svarugaLu"></a>
 
-[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-2--root-vowels) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#bErina-svarugaLu)
+[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn#adhyAya-2) | [English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-2--root-vowels)
 
 2. bErina svaragaLu 
 
@@ -3607,7 +3607,7 @@ embudannu mundina adyAyadalli vivarisalAguvudu.
 <a id="adhyAya-3"></a>
 <a id="oTTina-svarugaLu"></a>
 
-[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-3--affix-vowels) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#oTTina-svarugaLu)
+[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn#adhyAya-3) | [English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-3--affix-vowels)
 
 3. oTTina svaragaLu 
 
@@ -4388,7 +4388,7 @@ ivugaLalli mukyavAda badalAvaNegaLu.
 <a id="adhyAya-4"></a>
 <a id="taDeyuligaLu"></a>
 
-[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-4--stops) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#taDeyuligaLu)
+[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn#adhyAya-4) | [English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-4--stops)
 
 4. taDeyuligaLu 
 
@@ -6747,7 +6747,7 @@ taDeyuligaLAgi uLidukonDive.
 <a id="adhyAya-5"></a>
 <a id="itara-vyanjanagaLu"></a>
 
-[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-5--other-consonants) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#itara-vyanjanagaLu)
+[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn#adhyAya-5) | [English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-5--other-consonants)
 
 5. itara vyanjanagaLu 
 
@@ -8661,7 +8661,7 @@ samSOdanegaLannu
 <a id="adhyAya-6"></a>
 <a id="padagaLa-oLaracane"></a>
 
-[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-6--internal-structure-of-words) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#padagaLa-oLaracane)
+[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn#adhyAya-6) | [English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-6--internal-structure-of-words)
 
 6. padagaLa oLaracane 
 
@@ -9055,7 +9055,7 @@ vivaravAgi mundina adyAyagaLalli sUcisalAguvudu.
 <a id="adhyAya-7"></a>
 <a id="kriyA-padagaLa-oLaracane"></a>
 
-[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-7--internal-structure-of-verbs) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#kriyA-padagaLa-oLaracane)
+[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn#adhyAya-7) | [English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-7--internal-structure-of-verbs)
 
 7. kriyApadagaLa oLaracane 
 
@@ -10793,7 +10793,7 @@ rUpabEdagaLannu
 <a id="adhyAya-8"></a>
 <a id="kriyArUpagaLu"></a>
 
-[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-8--verb-forms) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#kriyArUpagaLu)
+[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn#adhyAya-8) | [English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-8--verb-forms)
 
 8. kriyArUpagaLu 
 
@@ -12767,7 +12767,7 @@ amSa innU bahaLaSTu ide embudannu illi nenapisuvudu avaSya.
 <a id="adhyAya-9"></a>
 <a id="nAmapadagaLu"></a>
 
-[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-9--nouns) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#nAmapadagaLu)
+[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn#adhyAya-9) | [English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-9--nouns)
 
 9. nAmapadagaLu 
 
@@ -14516,7 +14516,7 @@ tOrisuvalli
 <a id="adhyAya-10"></a>
 <a id="ADuga-mattu-tOruga-padagaLu"></a>
 
-[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-10--personal-and-demonstrative-pronouns) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#ADuga-mattu-tOruga-padagaLu)
+[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn#adhyAya-10) | [English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-10--personal-and-demonstrative-pronouns)
 
 10. ADuga mattu tOruga 
 padagaLu  
@@ -15155,7 +15155,7 @@ padagaLu mAtra uLidukonDive.
 <a id="adhyAya-11"></a>
 <a id="guNapadagaLu"></a>
 
-[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-11--qualifiers) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#guNapadagaLu)
+[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn#adhyAya-11) | [English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-11--qualifiers)
 
 11. guNapadagaLu 
 
@@ -16083,7 +16083,7 @@ avaSyakateyide.
 <a id="adhyAya-12"></a>
 <a id="sthiti-vAkyagaLa-oLaracane"></a>
 
-[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-12--sentence-structure) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sthiti-vAkyagaLa-oLaracane)
+[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn#adhyAya-12) | [English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-12--sentence-structure)
 
 12. vAkyagaLa oLaracane 
 
