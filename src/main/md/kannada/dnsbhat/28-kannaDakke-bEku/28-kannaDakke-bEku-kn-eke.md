@@ -347,7 +347,7 @@ viSayasUci
 
 [English →](./28-kannaDakke-bEku-en#chapter-1--preview) | [Eke →](./28-kannaDakke-bEku-kn-eke#munnOTa)
 
-## 1. munnOTa
+## 1. munnOTa {#munnOTa}
 
 1.1 vyAkaraNa parampare 
 kannaDa  vyAkaraNada  kalikege  ondu  sAvira  varSagaLigintalU  heccu 
@@ -965,7 +965,7 @@ I pustakadalli mADalAgide. vyanjana g  endAguttade
 
 [English →](./28-kannaDakke-bEku-en#chapter-2--sandhi-rules) | [Eke →](./28-kannaDakke-bEku-kn-eke#sErikeya-niyamagaLu)
 
-## 2. sErikeya niyamagaLu
+## 2. sErikeya niyamagaLu {#sErikeya-niyamagaLu}
 2.1 munnOTa 
 ondu  padadondige  innondu  padavannu  illavE  pratyayavannu  sErisi 
 dAga A padadalli illavE pratyayadalli kANisikoLLuva badalAvaNegaLannu 
@@ -1897,7 +1897,7 @@ vAguttade.
 
 [English →](./28-kannaDakke-bEku-en#chapter-3--word-classes) | [Eke →](./28-kannaDakke-bEku-kn-eke#padavagragaLu)
 
-## 3. padavagragaLu
+## 3. padavagragaLu {#padavagragaLu}
 
 3.1 munnOTa 
 bhASeyondaralli  baruva  padagaLannu  avugaLa  artha  mattu  vAkyagaLalli 
@@ -2862,7 +2862,7 @@ adhyAyadalli nODiruvevu.
 
 [English →](./28-kannaDakke-bEku-en#chapter-4--internal-structure-of-words) | [Eke →](./28-kannaDakke-bEku-kn-eke#padagaLa-oLaracane)
 
-## 4. padagaLa oLaracane
+## 4. padagaLa oLaracane {#padagaLa-oLaracane}
 
 4.1 munnOTa 
 kannaDadalli  mukhyavAgi  nAmapadagaLu,  kriyApadagaLu  mattu  guNapada 
@@ -3699,7 +3699,7 @@ oLaracane emba nanna pustakavannu (bhaT 2002) nODabahudu.
 
 [English →](./28-kannaDakke-bEku-en#chapter-5--compounds) | [Eke →](./28-kannaDakke-bEku-kn-eke#samAsagaLu)
 
-## 5. samAsagaLu
+## 5. samAsagaLu {#samAsagaLu}
 
 5.1 munnOTa 
 kannaDa  vayyAkaraNigaLalli  heccinavarU  kannaDa  samAsagaLannu  varNisuva 
@@ -5170,7 +5170,7 @@ padagaLigU I vibhajane anvayisuttade.
 
 [English →](./28-kannaDakke-bEku-en#chapter-6--gender-and-number) | [Eke →](./28-kannaDakke-bEku-kn-eke#linga-mattu-vacanagaLu)
 
-## 6. linga mattu vacanagaLu
+## 6. linga mattu vacanagaLu {#linga-mattu-vacanagaLu}
 
 6.1 munnOTa 
 kannaDa  vAkyagaLa  oLaracaneyalli  linga  mattu  vacana  emba  I  eraDu 
@@ -5631,7 +5631,7 @@ vudu avaSya.
 
 [English →](./28-kannaDakke-bEku-en#chapter-7--case-markers-and-karaka) | [Eke →](./28-kannaDakke-bEku-kn-eke#vibhaktigaLu-mattu-kArakagaLu)
 
-## 7. vibhaktigaLu mattu kArakagaLu
+## 7. vibhaktigaLu mattu kArakagaLu {#vibhaktigaLu-mattu-kArakagaLu}
 
 7.1 munnOTa 
 samskxta  vyAkaraNagaLalli  vibhakti  mattu  kAraka  embudAgi  eraDu 
@@ -6444,7 +6444,7 @@ koLLalu prayatnisidalli halavu samasyegaLannu edurisabEkAguttade.
 
 [English →](./28-kannaDakke-bEku-en#chapter-8--case-suffixes) | [Eke →](./28-kannaDakke-bEku-kn-eke#vibhaktigaLu)
 
-## 8. vibhaktigaLu
+## 8. vibhaktigaLu {#vibhaktigaLu}
 
 8.1 munnOTa 
 kannaDa mattu samskxta bhASegaLa naDuve vibhaktigaLa baLakeyalli kANisuva 
@@ -7377,7 +7377,7 @@ sUcisuvudilla.
 
 [English →](./28-kannaDakke-bEku-en#chapter-9--case-alternation) | [Eke →](./28-kannaDakke-bEku-kn-eke#vibhaktipallaTa)
 
-## 9. vibhaktipallaTa
+## 9. vibhaktipallaTa {#vibhaktipallaTa}
 
 9.1 munnOTa 
 kannaDa vyAkaraNagaLalli `vibhaktipallaTa' emba vibhAgavondiruttade. ondE 
@@ -7847,7 +7847,7 @@ vyatyAsavannu kannaDada vayyAkaraNigaLu gamanisidantilla.
 
 [English →](./28-kannaDakke-bEku-en#chapter-10--pronouns-and-numerals) | [Eke →](./28-kannaDakke-bEku-kn-eke#sarvanAmagaLu-mattu-eNikeya-padagaLu)
 
-## 10. savranAmagaLu mattu eNikeya padagaLu
+## 10. savranAmagaLu mattu eNikeya padagaLu {#sarvanAmagaLu-mattu-eNikeya-padagaLu}
 
 10.1 munnOTa 
 kannaDadalli  nAmapada  mattu  kriyApadagaLembudAgi  eraDu  mukhya  pada 
@@ -8347,7 +8347,7 @@ baruvuvAdarU bEre kelavu viSayagaLalli guNapadagaLa hAge baruttave.
 
 [English →](./28-kannaDakke-bEku-en#chapter-11--verb-forms) | [Eke →](./28-kannaDakke-bEku-kn-eke#kriyArUpagaLu)
 
-## 11. kriyArUpagaLu
+## 11. kriyArUpagaLu {#kriyArUpagaLu}
 
 11.1 munnOTa 
 kannaDada kriyArUpagaLu samskxtada kriyArUpagaLiginta  halavu viSaya 
@@ -9196,7 +9196,7 @@ mAtra kannaDada I kriyArUpagaLannu vivarisalu sAdhya.
 
 [English →](./28-kannaDakke-bEku-en#chapter-12--conclusion) | [Eke →](./28-kannaDakke-bEku-kn-eke#muktAya)
 
-## 12. muktAya
+## 12. muktAya {#muktAya}
 
 12.1 vyatyAsagaLa mUla 
 kannaDakke  adaradE  Ada  vyAkaraNa  parampareyondannu  siddhapaDisuvudu 
