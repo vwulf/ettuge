@@ -184,7 +184,7 @@ Examples: ಸಂಸ್ಕೃತ → `samskxta`, ಸೃಷ್ಟಿ → `sxSTi`, 
 ಙ→G, ಞ→Y
 
 **Anusvara ಂ — always assimilated, never written as M:**
-Before labials (b, p, m, v, h, y): → **m** | Before others (k, g, c, j, T, D, t, d, n, r, l, S, s, L): → **n**
+Before labials + sonorants/sibilants (b, p, m, v, y, l, S, s, h, L): → **m** | Before velars, palatals, retroflexes, dentals, r (k, g, c, j, T, D, t, d, n, r): → **n**
 Examples: ಕಂಬ → `kamba`, ಕಂಕಣ → `kankaNa`, ಸಂಸ್ಕೃತ → `samskxta`
 
 **N is exclusively ಣ** — never use N as anusvara before stop consonants:

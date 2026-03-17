@@ -20,7 +20,7 @@ All Kannada text is also available in **Eke** — a phonemic romanisation for Ka
 | Long vowels | Uppercase | `A I U E O` → ಆ ಈ ಊ ಏ ಓ |
 | Retroflexes | Uppercase | `T D N L S` → ಟ ಡ ಣ ಳ ಶ/ಷ |
 | Vocalic ṛ | `x` / `X` | `samskxta` → ಸಂಸ್ಕೃತ |
-| Archaic ṟ | `R` | `vaRNa` → ವರ್ಣ (rare) |
+| Archaic ṟ | `R` | `eRagu` → ಎಱಗು (Old Kan.) |
 | Anusvara | assimilated | `nk ng nc nT nt mb ms` |
 
 ---
