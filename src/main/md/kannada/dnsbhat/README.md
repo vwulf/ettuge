@@ -1,7 +1,7 @@
 # ಡಾ. ಡಿ. ಎನ್. ಶಂಕರ ಬಟ್ — ಹೊತ್ತಗೆಗಳ ಸೂಚಿ
 # Dr. D. N. Shankara Bhat — Complete Book Catalog
 
-**Last updated:** 2026-03-13 (cross-link audit complete; Book 15 kn-eke restructured)
+**Last updated:** 2026-03-17 (Books 28 + 29 OCR-cleaned kn.md; en.md anchors + kn#adhyAya-N cross-links; kannada-ocr-cleaner skill)
 **Scope:** All known DNS Bhat works, with emphasis on Kannada linguistics
 **Sources:** dnshankarabhat.net (CDX sitemap — 91 unique pages found), archive.org, Google Drive, YouTube transcripts, Google Books
 

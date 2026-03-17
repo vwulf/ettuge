@@ -1,5 +1,5 @@
 # DNS Bhat Ettuge Project — Recap
-*Last updated: 2026-03-16 (Phase 12)*
+*Last updated: 2026-03-17 (Phase 13)*
 
 ---
 
@@ -334,6 +334,64 @@ The Python script (inline `python3 - <<'PYEOF'` in the workflow):
 
 **Result:** All 29 books appear in the English Summaries section; 16 appear in Kannada Text; 14 appear in Eke Transliteration. Book landing pages are clean reader-facing pages, not developer metadata dumps.
 
+### Phase 13 — Book 28 OCR Deep-Clean + kn.md + Anchors (2026-03-17)
+
+Full multi-pass OCR cleanup of book 28 (*ಕನ್ನಡಕ್ಕೆ ಬೇಕು ಕನ್ನಡದ್ದೇ ವ್ಯಾಕರಣ*), creation of a clean `kn.md` (both books 28 and 29), anchor scaffolding, and cross-link updates. Also documented the full OCR-cleaning methodology in a new `kannada-ocr-cleaner` skill.
+
+**OCR character-level fixes — book 28 (three-pass pipeline)**
+
+The raw `-book.md` OCR text used the legacy Nudi/KGP font encoding (WX-decoded to Unicode by `wx_decode.py`, but with residual character-level errors). Three targeted fix scripts ran in sequence:
+
+| Script | What it fixed | Instances |
+|--------|--------------|-----------|
+| `fix_arka_ottu.py` | arka-ottu reversals: `ಣ್ರ→ರ್ಣ`, `ಥ್ರ→ರ್ಥ`, `ಮ್ರ→ರ್ಮ`, `ಯ್ರ→ರ್ಯ`, `ದೀಘ್ರ→ದೀರ್ಘ`; word-specific `ತ್ರ/ಧ್ರ` cases; `ಙõï/ÂÐ→ಙ್`; `ಬಹÅ→ಬಹು` | ~500+ |
+| `fix_residual_ocr.py` | Residual long-e `ಯುೀ→ಯೇ` (59×); archaic diphthong `0iÀiï→ಯ್` (2×); proper name `ತಾರಾಪೆÇರೆವಾಲಾ→ತಾರಾಪೋರ್ವಾಲಾ`; bibliography English garbling (`ಖಿhe → The`, `ಆeಟhi → Delhi`, etc.) | ~75 |
+| `fix_page_fragments.py` | Structural: orphaned fragments before section headings (12 cases); standalone running chapter headers (8 cases — 4 with fragments, 4 without) | 96 lines deleted |
+
+**OCR structural artifacts (new class discovered)**
+
+The most interesting class of errors was purely structural, not character-level: page-break artifacts where the last words of a print page ended up as isolated blank-line-separated lines just before the next subsection heading. Example before fix:
+```
+ಹೇಳಿ ಕೊಡುವುದು ಹೇಗೆ ತಪ್ಪಾಗುತ್ತದೆಯೋ ಹಾಗೆಯೇ ಇದೂ ಕೂಡ.
+
+ವ್ಯಾಕರಣವೆಂಬುದು
+
+ನುಡಿಯಿಂದ
+
+ನುದಿಗೆ
+
+1.2  ವ್ಯಾಕರಣದ ಉದ್ದೇಶ
+```
+After fix: `ಹೇಳಿ ಕೊಡುವುದು ಹೇಗೆ ತಪ್ಪಾಗುತ್ತದೆಯೋ ಹಾಗೆಯೇ ಇದೂ ಕೂಡ. ವ್ಯಾಕರಣವೆಂಬುದು ನುಡಿಯಿಂದ ನುದಿಗೆ`
+
+Running chapter headers (chapter titles printed at the top of each print page, OCR'd into the body) were deleted — the 12 chapter names (`ಮುನ್ನೋಟ`, `ಸೇರಿಕೆಯ ನಿಯಮಗಳು`, …, `ಮುಕ್ತಾಯ`) were built into a `RUNNING_HEADERS` set and matched exactly. The key detection rule: a line is an orphaned fragment *only if preceded by a blank line* — this guards against misidentifying normal wrapped paragraph lines (which are not preceded by blanks).
+
+Total effect: 9,613 → 9,517 lines (96 lines removed, 16 modified).
+
+**kn.md creation (books 28 + 29)**
+
+New `kn.md` files created from the cleaned OCR for both books, with:
+- Jekyll front matter (nav_order, title, parent, redirect_from)
+- `<a id="adhyAya-N"></a>` anchors before each `## N. ChapterTitle` heading
+- 12 chapter anchors for book 28 (`adhyAya-1` through `adhyAya-12`)
+- 11 chapter anchors for book 29 (`adhyAya-1` through `adhyAya-11`)
+- Cross-navigation links: `[English →](en#chapter-N--...) | [Eke →](kn-eke#anchor)` before each chapter heading
+
+**en.md anchors + cross-links (books 28 + 29)**
+
+Both `-en.md` files updated with:
+- 13 `<a id="chapter-N--...">` anchors in book 28 (chapters 1–12 + key-terms-glossary)
+- 12 `<a id="chapter-N--...">` anchors in book 29 (chapters 1–11 + key-terms-glossary)
+- All `[ಕನ್ನಡ →]` links updated from bare `-book` targets to `-kn#adhyAya-N` fragment URLs
+
+**kannada-ocr-cleaner skill created**
+
+New Claude skill at `.claude/skills/kannada-ocr-cleaner/SKILL.md` documenting all four classes of error and the methodology:
+- Class 1: Vowel-sign/consonant garbling (ಯ, ಯೇ, ಯ್, ಙ್, ಬಹು patterns)
+- Class 2: Arka-ottu reversal (global-safe + word-specific replacements)
+- Class 3: English text garbled through legacy font (bibliography, titles)
+- Class 4: OCR page-break structural artifacts (orphaned fragments + running headers) — added in this phase, with the full three-pass fix script pattern
+
 ### Phase 12 — mahAprana (Aspirate) Eke Correction (2026-03-16)
 
 Corrected a systematic error in the Eke romanisation rule for aspirated consonants. All `kn-eke.md` files had been generated with the wrong rule "drop aspirates" (ಭ→b, ಧ→d, ಖ→k, ಥ→t, ಫ→p, ಭ→b). The correct rule is "preserve aspirates with h marker" (ಭ→bh, ಧ→dh, ಖ→kh, ಥ→th, ಫ→ph).
@@ -408,7 +466,7 @@ The guiding principle: Eke romanises what is *written* in the source. If the sou
 
 ---
 
-## Current File Status (2026-03-15)
+## Current File Status (2026-03-17)
 
 ### ✅ Fully processed (en.md + kn-eke.md + claude-prompt.md)
 
@@ -428,8 +486,8 @@ The guiding principle: Eke romanises what is *written* in the source. If the sou
 | 20 — Havyaka Outline Grammar | djvu + en + claude-prompt |
 | 25 — Vakyagala Olarachane | book + kn-eke + en + claude-prompt |
 | 27 — Baasheya Bagge | book + kn-eke + en + claude-prompt |
-| 28 — Kannadakke Beku | book + kn-eke + en + claude-prompt |
-| 29 — Kannada Vyakarana Yaake Beku | book + kn-eke + en + claude-prompt |
+| 28 — Kannadakke Beku | book + **kn** (OCR-cleaned, 9,517L) + kn-eke + en (13 anchors) + claude-prompt |
+| 29 — Kannada Vyakarana Yaake Beku | book + **kn** (OCR-cleaned) + kn-eke + en (12 anchors) + claude-prompt |
 
 ### ❌ Not yet processed — no PDF source available
 
@@ -567,14 +625,16 @@ dnsbhat/
 │   ├── 27-...-en.md                  # ★ English summaries
 │   └── 27-...-claude-prompt.md       # ★ AI primer
 ├── 28-kannaDakke-bEku/
-│   ├── 28-...-book.md                # ★ Sarvam OCR (253 pages)
-│   ├── 28-...-kn-eke.md              # ★ Eke romanisation (14KB)
-│   ├── 28-...-en.md                  # ★ English summaries (25KB)
+│   ├── 28-...-book.md                # ★ Sarvam OCR (253 pages, raw WX-decoded)
+│   ├── 28-...-kn.md                  # ★ OCR-cleaned Kannada (9,517L; 3-pass OCR fixes + structural artifact removal)
+│   ├── 28-...-kn-eke.md              # ★ Eke romanisation (regenerated from kn.md)
+│   ├── 28-...-en.md                  # ★ English summaries (25KB; 13 chapter anchors added)
 │   └── 28-...-claude-prompt.md       # ★ AI primer (20KB)
 ├── 29-kannaDa-vyAkaraNa-yAke-bEku/
-│   ├── 29-...-book.md                # ★ Sarvam OCR (260 pages)
+│   ├── 29-...-book.md                # ★ Sarvam OCR (260 pages, raw WX-decoded)
+│   ├── 29-...-kn.md                  # ★ OCR-cleaned Kannada (11 chapter anchors)
 │   ├── 29-...-kn-eke.md              # ★ Eke romanisation (12KB)
-│   ├── 29-...-en.md                  # ★ English summaries (28KB)
+│   ├── 29-...-en.md                  # ★ English summaries (28KB; 12 chapter anchors added)
 │   └── 29-...-claude-prompt.md       # ★ AI primer (19KB)
 └── [... 11 more folders with website stubs or transcripts ...]
 ```
