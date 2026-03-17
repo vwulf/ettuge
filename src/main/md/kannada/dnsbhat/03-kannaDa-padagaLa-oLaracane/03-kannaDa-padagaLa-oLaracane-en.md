@@ -45,7 +45,7 @@ The book is also a sustained methodological argument for describing Kannada on i
 
 *(ಪೀಠಿಕೆ)*
 
-[ಕನ್ನಡ →](./03-kannaDa-padagaLa-oLaracane-book) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#pITike)
+[ಕನ್ನಡ →](./03-kannaDa-padagaLa-oLaracane-book#adhyAya-1) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#pITike)
 
 ### 1.1 Internal Structure (ಒಳರಚನೆ)
 
@@ -77,7 +77,7 @@ Sections 1.5–1.7 systematically lay out six diagnostic properties that disting
 
 *(ಕನ್ನಡದ ಪದಗುಂಪುಗಳು)*
 
-[ಕನ್ನಡ →](./03-kannaDa-padagaLa-oLaracane-book) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#pada-gumpugaLu)
+[ಕನ್ನಡ →](./03-kannaDa-padagaLa-oLaracane-book#adhyAya-2) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#pada-gumpugaLu)
 
 ### 2.1 Overview (ಮುನ್ನೋಟ)
 
@@ -109,7 +109,7 @@ Section 2.4 notes that class membership is not always categorical — some words
 
 *(ನಾಮಪದಗಳ ಒಳರಚನೆ)*
 
-[ಕನ್ನಡ →](./03-kannaDa-padagaLa-oLaracane-book) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#hesaru-padagaLa-oLaracane)
+[ಕನ್ನಡ →](./03-kannaDa-padagaLa-oLaracane-book#adhyAya-3) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#hesaru-padagaLa-oLaracane)
 
 Nouns in Kannada identify referents — they "name" (ಹೆಸರಿಸು) entities or describe (ವರಿಸು) their properties. The chapter begins by distinguishing these two functions and then explores how compound nouns differ from noun phrases: a compound noun (ಜೋಡುಪದ) is a single lexical item whose overall meaning is not necessarily predictable from the sum of its parts, whereas a noun phrase (ನಾಮಪದ ಕಂತೆ) is a compositional phrase assembled in syntax.
 
@@ -123,7 +123,7 @@ The chapter also examines proper nouns (ರೂಢನಾಮ) versus common nouns 
 
 *(ಪ್ರತ್ಯಯವಿರುವ ನಾಮಪದಗಳು)*
 
-[ಕನ್ನಡ →](./03-kannaDa-padagaLa-oLaracane-book) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#prattayaviruva-hesaru-padagaLu)
+[ಕನ್ನಡ →](./03-kannaDa-padagaLa-oLaracane-book#adhyAya-4) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#prattayaviruva-hesaru-padagaLu)
 
 This chapter is the most detailed in the book, cataloguing the productive lexical suffixes that derive nouns from verbs, from other nouns, and from qualifiers. The central section (4.3) analyses ten suffixes that derive nouns from verbal bases:
 
@@ -146,7 +146,7 @@ Section 4.4 examines noun-to-noun derivation (where one noun is derived from ano
 
 *(ಜೋಡುಪದಗಳು)*
 
-[ಕನ್ನಡ →](./03-kannaDa-padagaLa-oLaracane-book) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#jODupadagaLu)
+[ಕನ್ನಡ →](./03-kannaDa-padagaLa-oLaracane-book#adhyAya-5) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#jODupadagaLu)
 
 This chapter gives the fullest treatment of compounding (ಜೋಡಿಕೆ) in Kannada, first clarifying what compounds are and are not, then classifying them exhaustively. The opening sections (5.1–5.3) address potential confusions between compound words and: (a) noun phrases that merely juxtapose two words, (b) affixed words, and (c) reduplications. The chapter then provides four classification criteria for Kannada compounds.
 
@@ -160,7 +160,7 @@ Section 5.7 describes the phonological changes that occur when words join in com
 
 *(ಕ್ರಿಯಾಪದಗಳ ಒಳರಚನೆ)*
 
-[ಕನ್ನಡ →](./03-kannaDa-padagaLa-oLaracane-book) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#kriyA-padagaLa-oLaracane)
+[ಕನ್ನಡ →](./03-kannaDa-padagaLa-oLaracane-book#adhyAya-6) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#kriyA-padagaLa-oLaracane)
 
 Kannada verbs are structurally different from nouns. Most primary (simple) verbs have no internal morphological structure — they are unanalysable root forms. The chapter begins (6.1) by describing the function of verbs in sentences: they predicate actions, states, or processes and require participants to complete their meaning (agent, patient, location, time). Section 6.1.2 briefly notes the Sanskrit concept of "kriyasamasa" (verbal compound) and its limited applicability to Kannada.
 
@@ -172,7 +172,7 @@ Section 6.2 describes simplex verbs (ಒಳರಚನೆಯಿಲ್ಲದ ಕ್
 
 *(ಗುಣಪದಗಳ ಒಳರಚನೆ)*
 
-[ಕನ್ನಡ →](./03-kannaDa-padagaLa-oLaracane-book) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#guNa-padagaLa-oLaracane)
+[ಕನ್ನಡ →](./03-kannaDa-padagaLa-oLaracane-book#adhyAya-7) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#guNa-padagaLa-oLaracane)
 
 Qualifiers (ಪರಿಚೆಪದ / ಗುಣಪದ) have the simplest internal structure of the three major word classes. Most Kannada qualifiers are either primary (underived) — such as ಬಿಳಿ (white), ದೊಡ್ಡ (big), ಒಳ್ಳೆ (good) — or derived from nouns and verbs through a small set of suffixes. The chapter (7.1) begins by noting that qualifiers in Kannada do not inflect for gender, number, or case — a major typological difference from Sanskrit adjectives, which must agree with their head noun. This non-inflecting nature has direct consequences for their internal structure: there are no paradigmatic inflectional affixes to analyse.
 
@@ -184,7 +184,7 @@ Section 7.2 discusses subtle differences between qualifier sub-types: qualifiers
 
 *(ಎರವಲಾಗಿ ಬಂದ ಪದಗಳ ಒಳರಚನೆ)*
 
-[ಕನ್ನಡ →](./03-kannaDa-padagaLa-oLaracane-book) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#eravalu-padagaLa-oLaracane)
+[ಕನ್ನಡ →](./03-kannaDa-padagaLa-oLaracane-book#adhyAya-8) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#eravalu-padagaLa-oLaracane)
 
 This chapter deals with words borrowed into Kannada from other languages, principally from Sanskrit. Section 8.1 surveys the general phenomenon of borrowing (ಎರವಲು): it describes different types of borrowing across languages (8.1.1), distinguishes tatsama words (Sanskrit words adopted with minimal phonological change) from tadbhava words (Sanskrit-derived words that have undergone extensive phonological nativisation) (8.1.2), explains the reasons for phonological changes in borrowed words (8.1.3), and discusses how a word's word-class membership can change in the borrowing process (8.1.4).
 
@@ -196,7 +196,7 @@ Section 8.2 examines the internal structure of borrowed words: how their interna
 
 *(ಮುಕ್ತಾಯ)*
 
-[ಕನ್ನಡ →](./03-kannaDa-padagaLa-oLaracane-book) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#muktAya)
+[ಕನ್ನಡ →](./03-kannaDa-padagaLa-oLaracane-book#adhyAya-9) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#muktAya)
 
 The concluding chapter draws together the book's major findings and situates them within the broader project of building a Kannada-native grammatical tradition. The author summarises how each word class — nouns, verbs, and qualifiers — has its own characteristic internal structure, its own set of productive lexical affixes, and its own compound-formation patterns. The diversity and productivity of noun morphology (chapters 3–5) contrasts with the relative simplicity of qualifier morphology (chapter 7) and the causative-focused verb morphology (chapter 6).
 
