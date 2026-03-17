@@ -13,6 +13,11 @@ redirect_from:
 **nuDi:** kannaDa (hosa baraha)
 **mUla:** [English](./07-kannaDa-barahada-sollarime-en)
 
+> **gurti:** ee pauta adhyAya-vAru sankSipta saramsa — pUrNa Eke baraha paTha:
+> [sampuTa 1 (aD. 1–4) →](./07-kannaDa-barahada-sollarime-vol1-kn-eke) |
+> [sampuTa 2 (aD. 5–6) →](./07-kannaDa-barahada-sollarime-vol2-kn-eke)
+> *(aD. 7–9 OCR paTha labhyavilla)*
+
 ---
 
 ## viSaya-paTTi
@@ -36,7 +41,7 @@ redirect_from:
 
 ## 1. munnOTa {#munnOTa}
 
-[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol1-book#adhyAya-1) | [English →](./07-kannaDa-barahada-sollarime-en#chapter-1--preview)
+[ಕನ್nnaDa →](./07-kannaDa-barahada-sollarime-vol1-kn#adhyAya-1) | [English →](./07-kannaDa-barahada-sollarime-en#chapter-1--preview) | [ಪೂರ್ಣ Eke →](./07-kannaDa-barahada-sollarime-vol1-kn-eke#adhyAya-1)
 
 *(ಮುನ್ನೋಟ)*
 
@@ -46,7 +51,7 @@ ee adhyAya sollarime emba arimeya kSetravu samskxta-mUlada vyAkaraNa tattvagaLin
 
 ## 2. padagaLa iTTaLa: hesarupadagaLu {#hesarupada-iTTaLa}
 
-[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol1-book#adhyAya-2) | [English →](./07-kannaDa-barahada-sollarime-en#chapter-2--word-structure-nouns)
+[ಕನ್nnaDa →](./07-kannaDa-barahada-sollarime-vol1-kn#adhyAya-2) | [English →](./07-kannaDa-barahada-sollarime-en#chapter-2--word-structure-nouns) | [ಪೂರ್ಣ Eke →](./07-kannaDa-barahada-sollarime-vol1-kn-eke#adhyAya-2)
 
 *(ಪದಗಳ ಇಟ್ಟಳ: ಹೆಸರುಪದಗಳು)*
 
@@ -56,7 +61,7 @@ ee adhyAya kannaData hesarupadagaLa oLaracaneyalla savisatarAvAda 11 sandhi-niya
 
 ## 3. padagaLa iTTaLa: uLida padagaLu {#uLida-pada-iTTaLa}
 
-[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol1-book#adhyAya-3) | [English →](./07-kannaDa-barahada-sollarime-en#chapter-3--word-structure-remaining-word-classes)
+[ಕನ್nnaDa →](./07-kannaDa-barahada-sollarime-vol1-kn#adhyAya-3) | [English →](./07-kannaDa-barahada-sollarime-en#chapter-3--word-structure-remaining-word-classes) | [ಪೂರ್ಣ Eke →](./07-kannaDa-barahada-sollarime-vol1-kn-eke#adhyAya-3)
 
 *(ಪದಗಳ ಇಟ್ಟಳ: ಉಳಿದ ಪದಗಳು)*
 
@@ -66,7 +71,7 @@ ee adhyAya esakapadagaLu, paricepaDagaLu, sUcakagaLu, sankhyegaLu mattu eravalu 
 
 ## 4. padarUpagaLa iTTaLa {#padarUpa-iTTaLa}
 
-[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol1-book#adhyAya-4) | [English →](./07-kannaDa-barahada-sollarime-en#chapter-4--inflectional-forms)
+[ಕನ್nnaDa →](./07-kannaDa-barahada-sollarime-vol1-kn#adhyAya-4) | [English →](./07-kannaDa-barahada-sollarime-en#chapter-4--inflectional-forms) | [ಪೂರ್ಣ Eke →](./07-kannaDa-barahada-sollarime-vol1-kn-eke#adhyAya-4)
 
 *(ಪದರೂಪಗಳ ಇಟ್ಟಳ)*
 
@@ -76,7 +81,7 @@ ee adhyAya samputa 1 ra mahatvaputAda adhyAya. kannaData esakapadagaLa 36 padarU
 
 ## 5. esakapadagaLa baLake {#esaka-baLake}
 
-[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-book#adhyAya-5) | [English →](./07-kannaDa-barahada-sollarime-en#chapter-5--verb-usage)
+[ಕನ್nnaDa →](./07-kannaDa-barahada-sollarime-vol2-kn#adhyAya-5) | [English →](./07-kannaDa-barahada-sollarime-en#chapter-5--verb-usage) | [ಪೂರ್ಣ Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#adhyAya-5)
 
 *(ಎಸಕಪದಗಳ ಬಳಕೆ)*
 
@@ -86,7 +91,7 @@ ee adhyAya samputa 2 ru toDaguttade — esakapadagaLu vAkyadi hEge baLakeyAgutte
 
 ## 6. padakantegaLa iTTaLa {#padakante-iTTaLa}
 
-[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-book#adhyAya-6) | [English →](./07-kannaDa-barahada-sollarime-en#chapter-6--noun-phrase-structure)
+[ಕನ್nnaDa →](./07-kannaDa-barahada-sollarime-vol2-kn#adhyAya-6) | [English →](./07-kannaDa-barahada-sollarime-en#chapter-6--noun-phrase-structure) | [ಪೂರ್ಣ Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#adhyAya-6)
 
 *(ಪದಕಂತೆಗಳ ಇಟ್ಟಳ)*
 

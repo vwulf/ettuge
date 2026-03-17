@@ -24,7 +24,7 @@ redirect_from:
 
 <a id="adhyAya-5"></a>
 
-[English →](./07-kannaDa-barahada-sollarime-en#chapter-5--verb-usage) | [Eke →](./07-kannaDa-barahada-sollarime-kn-eke#esaka-baLake)
+[English →](./07-kannaDa-barahada-sollarime-en#chapter-5--verb-usage) | [Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#adhyAya-5)
 
 5. ಎಸಕಪದಗಳ ಬಳಕೆ 
 
@@ -5601,7 +5601,7 @@ vÀÛzÉ.
  
 <a id="adhyAya-6"></a>
 
-[English →](./07-kannaDa-barahada-sollarime-en#chapter-6--noun-phrase-structure) | [Eke →](./07-kannaDa-barahada-sollarime-kn-eke#padakante-iTTaLa)
+[English →](./07-kannaDa-barahada-sollarime-en#chapter-6--noun-phrase-structure) | [Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#adhyAya-6)
 
 6. ಹೆಸರುಕಂತೆಗಳ ಇಟ್ಟಳ 
 
