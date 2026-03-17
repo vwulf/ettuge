@@ -8,6 +8,14 @@ redirect_from:
 **ಲೇಖಕರು:** ಡಿ. ಎನ್. ಶಂಕರ ಭಟ್
 **ಮೂಲ:** PDF (Google Drive)
 
+
+## ಪರಿವಿಡಿ (ಸಂಪುಟ ೨)
+
+[← ಸಂಪುಟ ೧](./07-kannaDa-barahada-sollarime-vol1-book)
+
+- [ಅಧ್ಯಾಯ 5 — ಎಸಕಪದಗಳ ಬಳಕೆ](#adhyAya-5)
+- [ಅಧ್ಯಾಯ 6 — ಹೆಸರುಕಂತೆಗಳ ಇಟ್ಟಳ](#adhyAya-6)
+
 ---
 
 

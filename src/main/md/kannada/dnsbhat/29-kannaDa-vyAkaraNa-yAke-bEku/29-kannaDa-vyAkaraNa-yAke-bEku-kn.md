@@ -11,6 +11,21 @@ redirect_from:
 > ಇಂಗ್ಲಿಶ್ ವಿಶ್ಲೇಷಣೆ: [29-kannaDa-vyAkaraNa-yAke-bEku-en](./29-kannaDa-vyAkaraNa-yAke-bEku-en)
 > Eke ರೋಮನೀಕರಣ: [29-kannaDa-vyAkaraNa-yAke-bEku-kn-eke](./29-kannaDa-vyAkaraNa-yAke-bEku-kn-eke)
 
+
+## ಪರಿವಿಡಿ
+
+- [ಅಧ್ಯಾಯ 1 — ಮುನ್ನೋಟ](#adhyAya-1)
+- [ಅಧ್ಯಾಯ 2 — ಓದು-ಬರಹದ ಕಲಿಕೆ](#adhyAya-2)
+- [ಅಧ್ಯಾಯ 3 — ಬರೆಯುವುದರಲ್ಲಿ ಹೆಚ್ಚಿನ ಕಲಿಕೆ](#adhyAya-3)
+- [ಅಧ್ಯಾಯ 4 — ಅರಿಮೆಯ ಬರಹಗಳು](#adhyAya-4)
+- [ಅಧ್ಯಾಯ 5 — ನಲ್ಬರಹಗಳು ಮತ್ತು ಸೊಲ್ಲರಿಮೆ](#adhyAya-5)
+- [ಅಧ್ಯಾಯ 6 — ಇಪ್ಪುರುಳಿನ ತೊಡಕುಗಳು](#adhyAya-6)
+- [ಅಧ್ಯಾಯ 7 — ಎರಡನೇ ನುಡಿಯ ಕಲಿಕೆ](#adhyAya-7)
+- [ಅಧ್ಯಾಯ 8 — ನುಡಿಮಾರಿಕೆ](#adhyAya-8)
+- [ಅಧ್ಯಾಯ 9 — ನುಡಿಹಮ್ಮುಗೆ](#adhyAya-9)
+- [ಅಧ್ಯಾಯ 10 — ಮಾತಿನ ತೊಂದರೆಗಳು](#adhyAya-10)
+- [ಅಧ್ಯಾಯ 11 — ಮುಕ್ತಾಯ](#adhyAya-11)
+
 ---
 
 
