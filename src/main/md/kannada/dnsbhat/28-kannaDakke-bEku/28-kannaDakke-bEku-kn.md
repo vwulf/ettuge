@@ -883,6 +883,8 @@ E-mail: <bhatdns@rediffmail.com>
  
 <a id="adhyAya-1"></a>
 
+[English →](./28-kannaDakke-bEku-en#chapter-1--preview) | [Eke →](./28-kannaDakke-bEku-kn-eke#munoTa)
+
 ## 1. ಮುನ್ನೋಟ
 
 
@@ -1582,6 +1584,8 @@ E-mail: <bhatdns@rediffmail.com>
  
  
 <a id="adhyAya-2"></a>
+
+[English →](./28-kannaDakke-bEku-en#chapter-2--sandhi-rules) | [Eke →](./28-kannaDakke-bEku-kn-eke#sErikeya-niyamagaLu)
 
 ## 2. ಸೇರಿಕೆಯ ನಿಯಮಗಳು
 
@@ -2820,6 +2824,8 @@ t
  
 <a id="adhyAya-3"></a>
 
+[English →](./28-kannaDakke-bEku-en#chapter-3--word-classes) | [Eke →](./28-kannaDakke-bEku-kn-eke#padavagragaLu)
+
 ## 3. ಪದವಗ್ರಗಳು
 
 
@@ -3944,6 +3950,8 @@ t
  
 <a id="adhyAya-4"></a>
 
+[English →](./28-kannaDakke-bEku-en#chapter-4--internal-structure-of-words) | [Eke →](./28-kannaDakke-bEku-kn-eke#padagaLa-oLaracane)
+
 ## 4. ಪದಗಳ ಒಳರಚನೆ
 
 
@@ -5037,6 +5045,8 @@ t
  
  
 <a id="adhyAya-5"></a>
+
+[English →](./28-kannaDakke-bEku-en#chapter-5--compounds) | [Eke →](./28-kannaDakke-bEku-kn-eke#samAsagaLu)
 
 ## 5. ಸಮಾಸಗಳು
 
@@ -6743,6 +6753,8 @@ t
  
 <a id="adhyAya-6"></a>
 
+[English →](./28-kannaDakke-bEku-en#chapter-6--gender-and-number) | [Eke →](./28-kannaDakke-bEku-kn-eke#linga-mattu-vacanagaLu)
+
 ## 6. ಲಿಂಗ ಮತ್ತು ವಚನಗಳು
 
 
@@ -7311,6 +7323,8 @@ t
 
  
 <a id="adhyAya-7"></a>
+
+[English →](./28-kannaDakke-bEku-en#chapter-7--case-markers-and-karaka) | [Eke →](./28-kannaDakke-bEku-kn-eke#vibaktigaLu-mattu-kArakagaLu)
 
 ## 7. ವಿಭಕ್ತಿಗಳು ಮತ್ತು ಕಾರಕಗಳು
 
@@ -8254,6 +8268,8 @@ heಡಿ ಎಂಬುದು she ಎಂದಾಗಿದೆ. ಆದರೆ ಕನ್
  
  
 <a id="adhyAya-8"></a>
+
+[English →](./28-kannaDakke-bEku-en#chapter-8--case-suffixes) | [Eke →](./28-kannaDakke-bEku-kn-eke#vibaktigaLu)
 
 ## 8. ವಿಭಕ್ತಿಗಳು
 
@@ -9394,6 +9410,8 @@ heಡಿ ಎಂಬುದು she ಎಂದಾಗಿದೆ. ಆದರೆ ಕನ್
  
 <a id="adhyAya-9"></a>
 
+[English →](./28-kannaDakke-bEku-en#chapter-9--case-alternation) | [Eke →](./28-kannaDakke-bEku-kn-eke#vibaktipaLLaTa)
+
 ## 9. ವಿಭಕ್ತಿಪಲ್ಲಟ
 
 
@@ -9945,6 +9963,8 @@ heಡಿ ಎಂಬುದು she ಎಂದಾಗಿದೆ. ಆದರೆ ಕನ್
  
  
 <a id="adhyAya-10"></a>
+
+[English →](./28-kannaDakke-bEku-en#chapter-10--pronouns-and-numerals) | [Eke →](./28-kannaDakke-bEku-kn-eke#sarvanAmagaLu-mattu-eNikeya-padagaLu)
 
 ## 10. ಸವ್ರನಾಮಗಳು ಮತ್ತು ಎಣಿಕೆಯ ಪದಗಳು
 
@@ -10557,6 +10577,8 @@ F
  
  
 <a id="adhyAya-11"></a>
+
+[English →](./28-kannaDakke-bEku-en#chapter-11--verb-forms) | [Eke →](./28-kannaDakke-bEku-kn-eke#kriyArUpagaLu)
 
 ## 11. ಕ್ರಿಯಾರೂಪಗಳು
 
@@ -11616,6 +11638,8 @@ F
  
  
 <a id="adhyAya-12"></a>
+
+[English →](./28-kannaDakke-bEku-en#chapter-12--conclusion) | [Eke →](./28-kannaDakke-bEku-kn-eke#muktAya)
 
 ## 12. ಮುಕ್ತಾಯ
 

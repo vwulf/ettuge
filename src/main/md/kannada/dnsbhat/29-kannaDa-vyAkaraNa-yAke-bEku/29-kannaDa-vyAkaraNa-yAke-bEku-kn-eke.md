@@ -33,6 +33,8 @@ redirect_from:
 
 ## 1. munnOTa {#munnOTa}
 
+[ಕನ್ನಡ →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn#adhyAya-1) | [English →](./29-kannaDa-vyAkaraNa-yAke-bEku-en#chapter-1--preview)
+
 *(ಮುನ್ನೋಟ)*
 
 ondu kannaDiganu huTTidagilindE kannaDiganAgi matanADuttAne — andare adara sollarime avana talayadalli idE. ee oLa-sollarime "mElu-sollarime" (tacit grammar) — svikarisi baLasida, Adare hELala bArada niyama-kaTTale. baT avaru ee pustakadinAdu entaha mElu-sollarimeyanu bEre bEre bEkugaLige hEge upayOgisi biDabahudandu tOrisuttAre: akSarate karpisuvagala, bareyuvudaralli, arimeya-baraha barehuvagala, nalbaraha barehuvagala, anuvAda mADuvagala, nuDi hammu mADuvagala, mattu mAtina tondaregaLa cikitseyalli.
@@ -43,6 +45,8 @@ ee mustakada mukhya kELike: sollarimeyanu tiLiyuvudu niyamagaLannu bAyi-pATha mA
 
 ## 2. Odu-barahada kalike {#Odu-barahada-kalike}
 
+[ಕನ್ನಡ →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn#adhyAya-2) | [English →](./29-kannaDa-vyAkaraNa-yAke-bEku-en#chapter-2--learning-to-read-and-write)
+
 *(ಓದು-ಬರಹದ ಕಲಿಕೆ)*
 
 akSarate karpuvagala sollarimeyA jnAna yAke upayOgavAguttade? uli (phoneme) mattu barige (grapheme) naDuvina sambandha tiLiyuvudu — idu bhASheyarimeya viSaya, adannu akSarate-guruvarigE tiLivuvudu nantara bEdA endu baT vAdisutte. ADunuDi (mAtanADuvuDu) mattu baraha naDuvina bedavanu tiLidu makkLige karpisu bEku — makkLa oLanADu tappalla, kElpa-nuDigaLa bEdadantarA baraha-mAnaka adana kannaDigaLa nuDiyannu "tappu" endu tOrisuvudu bhASheyarime dxSTiyalli tappAdade. doDD makkaLige akSarate karpuvagala oLanADu (dialect) mattu baraha-nuDi (standard/written form) naDuvina bedannu spaSTapadisidarE kali-bhAra adhika salavasAguttade. uli-barige jODi gurtisala bhASheyarimeya neleyu doDD sahAya mADuttade endu baT hELuttAre.
@@ -50,6 +54,8 @@ akSarate karpuvagala sollarimeyA jnAna yAke upayOgavAguttade? uli (phoneme) matt
 ---
 
 ## 3. bareyuvudaralli hecina kalike {#bareyuvudaralli-hecina-kalike}
+
+[ಕನ್ನಡ →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn#adhyAya-3) | [English →](./29-kannaDa-vyAkaraNa-yAke-bEku-en#chapter-3--advanced-writing)
 
 *(ಬರೆಯುವುದರಲ್ಲಿ ಹೆಚ್ಚಿನ ಕಲಿಕೆ)*
 
@@ -59,6 +65,8 @@ akSarate karpuvagala sollarimeyA jnAna yAke upayOgavAguttade? uli (phoneme) matt
 
 ## 4. arimeya barahagaLu {#arimeya-barahagaLu}
 
+[ಕನ್ನಡ →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn#adhyAya-4) | [English →](./29-kannaDa-vyAkaraNa-yAke-bEku-en#chapter-4--academic-writing)
+
 *(ಅರಿಮೆಯ ಬರಹಗಳು)*
 
 arimeya baraha (academic writing) kannaDigaLalli entu kaSTavAguttade? samskxta pada (Sanskrit loanword) adhika baLasuvudu, sikkalusollugaLu (tangled sentences), mattu mArpuruLu (passive voice) timbidantAda kararu (text) odugarige gabarUvAgi biDuttade. arimeya pada (technical terms) barehuvagala sollarimeyA arime bEku — arimeya padakke ella bEkAdaru artha-nirdishTateyirirutande, sikkala-sollu allade spaSTa sollu rachisabEku embu. sollarime kannaDigaLalliruva mArpuruLu-nirmANa (passive construction) hEge jaruguttade embu tiLidukovudale barehuvagala ee tondare nivarisabahudu. konDu bhAvukaru samskxta padagaLannu aTTu kaDiyadE baLasuttAre — adU ondu tantragArike endu eNisabahudAdarU — adannu kaviyondE saripadisabahudu.
@@ -66,6 +74,8 @@ arimeya baraha (academic writing) kannaDigaLalli entu kaSTavAguttade? samskxta p
 ---
 
 ## 5. nalbarahagaLu mattu sollarime {#nalbarahagaLu-mattu-sollarime}
+
+[ಕನ್ನಡ →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn#adhyAya-5) | [English →](./29-kannaDa-vyAkaraNa-yAke-bEku-en#chapter-5--creative-writing-and-grammar)
 
 *(ನಲ್ಬರಹಗಳು ಮತ್ತು ಸೊಲ್ಲರಿಮೆ)*
 
@@ -75,6 +85,8 @@ nalbaraha (creative literature) barehuvagala lekhakanu gaNaNIyavAgi sollarimeyin
 
 ## 6. ippuruLinA toDakugaLu {#ippuruLinA-toDakugaLu}
 
+[ಕನ್ನಡ →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn#adhyAya-6) | [English →](./29-kannaDa-vyAkaraNa-yAke-bEku-en#chapter-6--the-problems-of-ambiguity)
+
 *(ಇಪ್ಪುರುಳಿನ ತೊಡಕುಗಳು)*
 
 ippuruLu (ambiguity) mUru bageyadadu: pada-ippuruLu (lexical ambiguity), padarUpa-ippuruLu (word-form ambiguity), mattu iTTaLa-ippuruLu (structural ambiguity). dharmika baraha (legal writing) mattu kAnUnu nirdharaNeyalli ippuruLu ghOrAvAda pariNAma tOrisuttade — hIgAgi kAnUnugaLannu bareyuvagala ippuruLu nivarisabahudu endu tiLidukOLLuvudu anivArya. eNNuka (computer) nuDi-arikattu (NLP) ippuruLannu nAviruva mArgadi nivarisabahudu — adakke kannaDigaLa iTTaLada arikattu bEku. nalbarahagaLalli ippuruLannu sankalpa-purvakavAgi baLasuvudu kUDa konDu bAvukararige uttama kArya-saAdhana — adannu baT sUcisuttAre.
@@ -82,6 +94,8 @@ ippuruLu (ambiguity) mUru bageyadadu: pada-ippuruLu (lexical ambiguity), padarUp
 ---
 
 ## 7. eraDanE nuDiya kalike {#eraDanE-nuDiya-kalike}
+
+[ಕನ್ನಡ →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn#adhyAya-7) | [English →](./29-kannaDa-vyAkaraNa-yAke-bEku-en#chapter-7--learning-a-second-language)
 
 *(ಎರಡನೇ ನುಡಿಯ ಕಲಿಕೆ)*
 
@@ -91,6 +105,8 @@ makkalu tAy-nuDi (mother tongue) kaLeyuvudu mattu doDD janarigE eraDanE nuDi kaL
 
 ## 8. nuDimArike {#nuDimArike}
 
+[ಕನ್ನಡ →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn#adhyAya-8) | [English →](./29-kannaDa-vyAkaraNa-yAke-bEku-en#chapter-8--translation)
+
 *(ನುಡಿಮಾರಿಕೆ)*
 
 nuDimArike (translation) mAnavi mAtu (human translation) mattu eNNuka-mAtu (machine translation) endu eraDu bageyadadu. eNNuka-nuDimArike (statistical/neural MT) kannaDigaLige tattarisu bEkAdare kannaDigaLa iTTaLavannu (SOV krama, vibaKti-oTTugaLu, padarUpa-vividhate) sariyadAgi maulikavAgi varisabEku. sankramaNa-nuDimArike (transfer approach), antarbhAsha-nuDimArike (interlingual), mattu sAnkhyika-nuDimArike (statistical) — ee mUru mArgagaLannu baT vivarisi, ellA mArgagaLallu kannaDa sollarimeyA ondu hiditagE astu-pAtravAgirutte endu vAdisutte. ingliSu mattu kannaDigaLa iTTaLa-bEdagaLu (SVO vs SOV, vibakti-hirimai, kriyA-rUpa-vividhate) nuDimArikeyalli hEge toDakuvAgutte embu tOrisuttAre.
@@ -98,6 +114,8 @@ nuDimArike (translation) mAnavi mAtu (human translation) mattu eNNuka-mAtu (mach
 ---
 
 ## 9. nuDihammuge {#nuDihammuge}
+
+[ಕನ್ನಡ →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn#adhyAya-9) | [English →](./29-kannaDa-vyAkaraNa-yAke-bEku-en#chapter-9--language-planning)
 
 *(ನುಡಿಹಮ್ಮುಗೆ)*
 
@@ -107,6 +125,8 @@ nuDihammuge (language planning) eraDu mukhya kArya nirvahisuttade: lipi-sarpaDik
 
 ## 10. mAtina tondaregaLu {#mAtina-tondaregaLu}
 
+[ಕನ್ನಡ →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn#adhyAya-10) | [English →](./29-kannaDa-vyAkaraNa-yAke-bEku-en#chapter-10--speech-disorders)
+
 *(ಮಾತಿನ ತೊಂದರೆಗಳು)*
 
 mAtina tondaregaLu (speech disorders) eraDu bageyadavu: beLavaNiga-mArga (developmental disorders — makkaLalli) mattu paDeda tondaregaLu (acquired disorders — doreyuvuDudinanda). kELuvikarateyininda (hearing loss), uli-baDete-tondaregaLu (phonological disorders), mattu mAtina-nAsa (aphasia — ondu bhAgadinanda mAtina keLuvike kaDimeyAguvudu) kannaDigaLalli kUDa irutte. karnATakadalli mAtina-cikitse (speech therapy) mADuvavarigu kannaDigaLa sollarimeyA ondu klinikala nirdEshana-grantha (clinical reference) illa — idu ondu prajA-ārOgya-lOpavE endu baT hELuttAre. uggumAtu (stuttering) mattu bErE mAtina baDete-tondaregaLannu cikitseyalli kannaDigaLa uli-kaTTale mattu sollu-kaTTale tiLidukOLLuvudu anivArya.
@@ -114,6 +134,8 @@ mAtina tondaregaLu (speech disorders) eraDu bageyadavu: beLavaNiga-mArga (develo
 ---
 
 ## 11. muktAya {#muktAya}
+
+[ಕನ್ನಡ →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn#adhyAya-11) | [English →](./29-kannaDa-vyAkaraNa-yAke-bEku-en#chapter-11--conclusion)
 
 *(ಮುಕ್ತಾಯ)*
 

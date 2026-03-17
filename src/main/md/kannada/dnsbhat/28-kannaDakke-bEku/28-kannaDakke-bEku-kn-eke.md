@@ -34,6 +34,8 @@ redirect_from:
 
 ## 1. munoTa {#munoTa}
 
+[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-1) | [English →](./28-kannaDakke-bEku-en#chapter-1--preview)
+
 *(ಮುನ್ನೋಟ)*
 
 ee adhyAya pustakadinaduva mUla tarkavannu spaSTagoLisuttade: kannaDigaLige kannaDigdE sollarime bEku, paraDesada caukaTTu sAladU. baT avaru mUru sollarime-paramparEgaLannu gurtisuttAre — samskxta paramparE (kEsirAjara Sabdamani darpaNa mattu adara utrADikArAru), 19nEya nUrAdina yurOpiya-miSanari paramparE (ingliSinalli baredada kannaDa vyAkaraNagaLu), mattu 20nEya nUrAdina amErikan varNanAtmaka paramparE — mattu mUru idE tappindide endu vAdisutte: pratiyu ondu, gAdiya-javalina sollarime-sAmAna harattukonDu kannaDigge tattarisutta, kannaDa hEge naDeyuttade embadannu kanDupidiyu prayatna mADalilla. nita-kannaDigaLige kannaDigdE tacita-sollarime idE — pratiyu prabudda kannaDa mAtanADuvavanu vibakti-oTTugannu tappillade upayOgisuttAne — Adare A tacita-jnAnannu spaSTA artinda bareyuvadale ee mUru paramparEgaLe tikkaTTADiddave. pustaka modalige ee mUru paramparEgaLa tikkATa vivisuttade, nantara adhyAya-adhyAyavAgi konDu konDu viSayadalli kannaDa-svagata varaNe hEgirattade embu maruguttade.
@@ -41,6 +43,8 @@ ee adhyAya pustakadinaduva mUla tarkavannu spaSTagoLisuttade: kannaDigaLige kann
 ---
 
 ## 2. sErikeya niyamagaLu {#sErikeya-niyamagaLu}
+
+[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-2) | [English →](./28-kannaDakke-bEku-en#chapter-2--sandhi-rules)
 
 *(ಸೇರಿಕೆಯ ನಿಯಮಗಳು)*
 
@@ -50,6 +54,8 @@ samskxta sErike-niyamagaLu (sandhi) kannaDigge tattaruvudilla embu ee adhyAya tO
 
 ## 3. padavagragaLu {#padavagragaLu}
 
+[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-3) | [English →](./28-kannaDakke-bEku-en#chapter-3--word-classes)
+
 *(ಪದವಗ್ರಗಳು)*
 
 kannaDigaLalli mUru mukhya pada-vargagaLu ive: hesarupada (noun), esakapada (verb), mattu paricepada/guNapada (qualifier). ee mUru vargagaLu kannaDa vAkyadi mUru bEre bEre kArya nirvahisuttave. mukhyavAda vIseSateyendare parice padagaLu kannaDigaLilli vibakti, linga, vacana endu yAvaduU badalaAguvudilla — samskxta guNa-padagaLa hAge alla. samskxtalli "sundarI", "sundara", "sundaraM" endu guNa-padagaLu linga-badavAguttave; kannaDigaLalli "sogasAda" emba parice pada ella linga-vacanagaLige onEE rUpadi nittisuttade. adhyAya tatsama (samskxta mUla, parimuTTuvaDiga badalaAgada) mattu tadbava (samskxta mUla, kannaDa dvanigaLige hAdikenDu pUrNa badalaAgida) naDuvina bedavannu vivEcisuttade — ee bEda mukhya, yAkendare tatsama padagaLu konDu sAri samskxta-guNagaLannu (oLaracane, jODupada-sadasyatva) kannaDiggE karedukonDu baruttave.
@@ -57,6 +63,8 @@ kannaDigaLalli mUru mukhya pada-vargagaLu ive: hesarupada (noun), esakapada (ver
 ---
 
 ## 4. padagaLa oLaracane {#padagaLa-oLaracane}
+
+[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-4) | [English →](./28-kannaDakke-bEku-en#chapter-4--internal-structure-of-words)
 
 *(ಪದಗಳ ಒಳರಚನೆ)*
 
@@ -66,6 +74,8 @@ ondu pada hesarisu mADuttadE yA varisuttadE emba bEdada mEle ee adhyAya nele-nit
 
 ## 5. samAsagaLu {#samAsagaLu}
 
+[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-5) | [English →](./28-kannaDakke-bEku-en#chapter-5--compounds)
+
 *(ಸಮಾಸಗಳು)*
 
 samskxta samAsa-vargIkaraNe (tatpuruSa, dvandva, bahuvrIhi, avyayibhAva, karmadharAya) kannaDa jODupadagaLige tattaruvudilla embu ee adhyAya vistAravAgi tOrisuttade. nAlku mukhya bEdagaLu ive: samskxta jODupadagaLu oLagE vibakti-oTTannu kaLeyuttave, kannaDigaLu bALuttave yA bEre rUpadi sErutte; samskxtalli jODupada-oLagE sADya embuvantu vividha vAkya-sambandhagaLu kannaDigaLalli sADyavAguvudilla; "viSaya" yA "viSayatva" emba samskxta-mAnagaLu kannaDa jODupadagaLige aNalAguvadittu; mattu nita kannaDigaLalli kANuva dravIDiya-svagata jODupada-bageya samskxta-vargIkaraNeyalli arthavAttAgi sEruvudilla. baT avaru kannaDa-svagata jODupada-vargIkaraNe sUcisuttAre: modalina amsada pada-varga-mAnadaDi — hesarupada-modalina jODupadagaLu, esakapada-modalina jODupadagaLu, mattu paricepada-modalina jODupadagaLu. ee vargIkaraNa kannaDa jODupada hEge naDeyuttade embadannu sariyadAgi pratiNidhisutte.
@@ -73,6 +83,8 @@ samskxta samAsa-vargIkaraNe (tatpuruSa, dvandva, bahuvrIhi, avyayibhAva, karmadh
 ---
 
 ## 6. linga mattu vacanagaLu {#linga-mattu-vacanagaLu}
+
+[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-6) | [English →](./28-kannaDakke-bEku-en#chapter-6--gender-and-number)
 
 *(ಲಿಂಗ ಮತ್ತು ವಚನಗಳು)*
 
@@ -82,6 +94,8 @@ kannaDigaLalli linga-vyavasthE samskxta mUru-bhAga linga-vyavasthEginta mUlabhUt
 
 ## 7. vibaktigaLu mattu kArakagaLu {#vibaktigaLu-mattu-kArakagaLu}
 
+[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-7) | [English →](./28-kannaDakke-bEku-en#chapter-7--case-markers-and-karaka)
+
 *(ವಿಭಕ್ತಿಗಳು ಮತ್ತು ಕಾರಕಗಳು)*
 
 samskxta kAraka-paddhati — kriyeyondige sambandhisuva nAmapada-pAtragaLa (karta, karma, karaNa, sampradAna, apAdAna, adhikaraNa) artha-baddavAda vargIkaraNe — kannaDigge tattarAbEku yAvudO embadannu ee adhyAya parISilisuttade. samskxtalli kAraka ondu artha-viSaya; vibakti ondu vyAkaraNa-rUpa — ondu kAraka bEre bEre sandarbhadalli bEre bEre vibaktigaLonDige bALatande. kannaDigaLilli vibakti-oTTugaLu artha-sambandhagaLonDige bEre rItiyanalla kAryanirvahistave endu baT vAdisutte. kannaDigaLu tama vAkyagaLannu samskxtaginta bEre rItiyanalla janisuttAre — "viSaya" yA "anubhavakartA" emba bEda kannaDigaLilli bEre rItiyanalla pratiNidhi Aguttade. ee kAraNakke kannaDa sollarime kAraka-paddhati baDiyAgi bEnDirada embu ee adhyAya mugisutte.
@@ -89,6 +103,8 @@ samskxta kAraka-paddhati — kriyeyondige sambandhisuva nAmapada-pAtragaLa (kart
 ---
 
 ## 8. vibaktigaLu {#vibaktigaLu}
+
+[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-8) | [English →](./28-kannaDakke-bEku-en#chapter-8--case-suffixes)
 
 *(ವಿಭಕ್ತಿಗಳು)*
 
@@ -98,6 +114,8 @@ kannaDa vibakti-oTTugaLannu samskxta eTTu vibaktigaLonDige holisuva prayatna tap
 
 ## 9. vibaktipaLLaTa {#vibaktipaLLaTa}
 
+[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-9) | [English →](./28-kannaDakke-bEku-en#chapter-9--case-alternation)
+
 *(ವಿಭಕ್ತಿಪಲ್ಲಟ)*
 
 vibaktipaLLaTa endare ondu kriyEyannu badalaagade ondu hesarude bEre bEre vibaktigaLonDige bALuvudu, Adare artha konDu badelAguttade. "avanu UriGE hOdanu" mattu "avanu UrinALLI hOdanu" — kriyE ondu, vibakti bEre; artha sUkSmavAgi bEre. baT avaru ee vibaktipaLLaTa sADya AguvuDu yAvyAvuDu sandarbhadalli embu paTTi mADuttAre: kArya-pUrNate yA apUrNate (accusative vs locative), svecCEya kArya yA bali-banda kArya, hattira-iruva yA sAraLa-bindu (adjacency vs directionality). samskxtalli kAraka-paLLaTa (bEre bEre kAraka-bEdadi ondu oTTannu upayOgisu) irutte, Adare kannaDigaLa vibaktipaLLaTa adarinda mUlabhUtavAgi bErE — kannaDa sUkSma-artha-bEdagaLu samskxta kAraka-nirdharaNeyalla kANuvudilla. hIgAgi kannaDa-svagata varaNe kareyuttade.
@@ -105,6 +123,8 @@ vibaktipaLLaTa endare ondu kriyEyannu badalaagade ondu hesarude bEre bEre vibakt
 ---
 
 ## 10. sarvanAmagaLu mattu eNikeya padagaLu {#sarvanAmagaLu-mattu-eNikeya-padagaLu}
+
+[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-10) | [English →](./28-kannaDakke-bEku-en#chapter-10--pronouns-and-numerals)
 
 *(ಸರ್ವನಾಮಗಳು ಮತ್ತು ಎಣಿಕೆಯ ಪದಗಳು)*
 
@@ -114,6 +134,8 @@ kannaDa sarvanAma-vyavasthE mUru-mATTa-dUri-bEda hoDagisuttade: hattira (idu, iv
 
 ## 11. kriyArUpagaLu {#kriyArUpagaLu}
 
+[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-11) | [English →](./28-kannaDakke-bEku-en#chapter-11--verb-forms)
+
 *(ಕ್ರಿಯಾರೂಪಗಳು)*
 
 kannaDa kriyA-vyavasthE adhika viSiSTavAda dravIDiya lakSaNagaLannu hoDagisuttade. kAla-bEda: bhUta, vartamAna, bhaviSyat — ee mUrE kAlagaLu. samskxta daSa lAkAragaLu (bhUta, vartamAna, bhaviSyat mattu bEre bEre prkaraNagaLu) kannaDigge tattaruvudilla. samskxta "parasmaipada" (kartari) mattu "AtmanEpada" (karmaNi/svArtha) emba bEda kannaDa Arambhika kannaDigaLalli konDu aNalAgi bididdarU, nita kannaDigaLilli ee bEdakke arthapUrNa vyAkaraNa-kArya illE. mukhyavAda viSaya: kannaDigaLilli nErA mattu praSna-rUpagaLu kriyEyanaDiyalli rUpagolLuttave — "avanilla" emba nErA-vibakti kriyE-oLagE bAruttade, "bande?" antAha praSna-rUpagaLu "banda" dinda vibakti-oTTu serisi rUpagolLuttave. ee vyavasthE samskxta kriyA-vyavasthEginta mUlabhUtavAgi bErE.
@@ -121,6 +143,8 @@ kannaDa kriyA-vyavasthE adhika viSiSTavAda dravIDiya lakSaNagaLannu hoDagisuttad
 ---
 
 ## 12. muktAya {#muktAya}
+
+[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-12) | [English →](./28-kannaDakke-bEku-en#chapter-12--conclusion)
 
 *(ಮುಕ್ತಾಯ)*
 
