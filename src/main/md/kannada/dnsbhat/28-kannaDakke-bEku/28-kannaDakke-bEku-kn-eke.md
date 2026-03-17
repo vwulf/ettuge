@@ -33,6 +33,7 @@ redirect_from:
 ---
 
 
+
 ## 1. munoTa {#munoTa}
 
 [ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-1) | [English →](./28-kannaDakke-bEku-en#chapter-1--preview)
@@ -11125,6 +11126,8 @@ Motilal Banarsidass, Delhi.
 
  
 
+
+---
 
 ---
 
