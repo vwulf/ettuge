@@ -33,6 +33,8 @@ redirect_from:
 
 ## 1. pITike {#pITike}
 
+[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-book#adhyAya-1) | [English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-1--introduction)
+
 ### 1.1 mAtina kasagagaLu (ಮಾತಿನ ಕೆಲಸಗಳು)
 
 nAvu dinanavU mAtannu bEre bEre kArya mADalu upayOgisuttEve: tili-hELuvudu, keLuvudu, kAryisuvudu, yEne-keLuvudu, hIge hala bageya "mAtina kasagagaLu" mADuttEve. ee baT avarA modalina adhyAya vAkyagaLu hEge mAhitigAgi yA kArya-kAraNakAgi bALuttave endu vivEcisi, sarvE-sAmAnya vAkyagaLannu (tiLivina vAkyagaLannu) mUla rUpagAgi eTTikOLLuttade. tiLivina vAkyagaLa oLaracaneyE adhyAyagaLu 2–9 raLLi vistAravAgi vicArisaLAguttade. ee adhyAya iDiya pustakadaLLi bALuva sAnkEtika paribASeyannu ondondAgI paricayisuttade.
@@ -48,6 +50,8 @@ uLida kenDagaLu mondina adhyAyagaLige rogge hAki, pustakadinaduva mUru mukhyavAd
 ---
 
 ## 2. kriyAvAkyagaLa oLaracane {#kriyAvAkyagaLa-oLaracane}
+
+[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-book#adhyAya-2) | [English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-2--internal-structure-of-action-sentences)
 
 *(ಕ್ರಿಯಾವಾಕ್ಯಗಳ ಒಳರಚನೆ)*
 
@@ -67,6 +71,8 @@ kAryagaLu eraDu muKya bagede: "mADuvikegaLu" (volicAdAyi ondu kAryavannu naDeyis
 
 ## 3. viSayavAkyagaLa oLaracane {#viSayavAkyagaLa-oLaracane}
 
+[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-book#adhyAya-3) | [English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-3--internal-structure-of-stative-sentences)
+
 *(ವಿಷಯವಾಕ್ಯಗಳ ಒಳರಸನೆ)*
 
 ### 3.1–3.2 iruva-vAkyagaLu (ಇರುವಿಕೆಯ ವಾಕ್ಯಗಳು)
@@ -85,6 +91,8 @@ sambandhavAkyagaLu ondu kAryakke sambandisida ondu viSeSa gaTakavannu kEndrikris
 
 ## 4. nAmapada kantegaLu {#nAmapada-kantegaLu}
 
+[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-book#adhyAya-4) | [English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-4--noun-phrases)
+
 *(ನಾಮಪದಗಳ ಕಂತೆಗಳು)*
 
 ### 4.1–4.2 ondu pada vs. pada-kante; hEsarisuvudu vs. varisuvudu
@@ -102,6 +110,8 @@ nAmapada kantegaLu vAkyadi kArya-pAlgArarannu yA viSaya-vastugaLannu sūcisuttav
 ---
 
 ## 5. kriyApada padarUpagaLu {#kriyApada-padarUpagaLu}
+
+[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-book#adhyAya-5) | [English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-5--verb-forms)
 
 *(ಕ್ರಿಯಾಪದಗಳ ಪದರೂಪಗಳು)*
 
@@ -125,6 +135,8 @@ vAkyagaLannu jODisuvAga, modalina kriyApada "jODisuva rUpa" keriguttade — "-i"
 
 ## 6. guNapadagaLa baLake {#guNapadagaLa-baLake}
 
+[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-book#adhyAya-6) | [English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-6--use-of-qualifiers)
+
 *(ಗುಣಪದಗಳ ಬಳಕೆ)*
 
 ### 6.1–6.2 guNapadagaLa sAmAnya lakSaNagaLu
@@ -138,6 +150,8 @@ guNapadagaLu kEvala ondu bageya alla — konDu guNapadagaLu sthira guNa varisutt
 ---
 
 ## 7. oLavAkyagaLu {#oLavAkyagaLu}
+
+[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-book#adhyAya-7) | [English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-7--embedded-clauses)
 
 *(ಒಳವಾಕ್ಯಗಳು)*
 
@@ -153,6 +167,8 @@ oLavAkyagaLu nAmapada kanteyoLage tirugatiruga eDeguttave — ondu nAmapadannu v
 
 ## 8. vAkyagaLa jODaNe {#vAkyagaLa-jODaNe}
 
+[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-book#adhyAya-8) | [English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-8--sentence-coordination)
+
 *(ವಾಕ್ಯಗಳ ಜೋಡಣೆ)*
 
 ### 8.1–8.2 jODaNe vs. oLavAkya-sErike
@@ -166,6 +182,8 @@ jODaNe mUru bageya sambandha tOrisuttade: (1) kUDistuvudu — eraDU gaTanegaLU o
 ---
 
 ## 9. sambandisuvudu mattu allagaLeyuvudu {#sambandisuvudu-mattu-allagaLeyuvudu}
+
+[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-book#adhyAya-9) | [English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-9--focusing-and-negation)
 
 *(ಸಂಬಂಧಿಸುವುದು ಮತ್ತು ಅಲ್ಲಗಳೆಯುವುದು)*
 
@@ -181,6 +199,8 @@ kannaDigaLalli allagaLeyuvudakke "illa" emba pada bALuttEve. hindina kArya-vAkya
 
 ## 10. mAtina kasagagaLu {#mAtina-kasagagaLu}
 
+[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-book#adhyAya-10) | [English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-10--speech-acts)
+
 *(ಮಾತಿನ ಕೆಲಸಗಳು)*
 
 ### 10.2–10.3 pUrNa prattayagaLu mattu keLvigaLu
@@ -194,6 +214,8 @@ tiLivina vAkyagaLinda bEre bageya mAtina kasagaLannu sxSTisalu kriyApada rUpannu
 ---
 
 ## 11. kannaDigaLa keLavu vaiSiSTyagaLu {#kannaDigaLa-keLavu-vaiSiSTyagaLu}
+
+[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-book#adhyAya-11) | [English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-11--typological-features-of-kannada)
 
 *(ಕನ್ನಡದ ಕೆಲವು ವೈಶಿಷ್ಟ್ಯಗಳು)*
 

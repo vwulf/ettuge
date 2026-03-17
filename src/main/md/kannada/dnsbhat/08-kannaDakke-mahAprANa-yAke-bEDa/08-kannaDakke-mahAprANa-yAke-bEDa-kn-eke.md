@@ -59,12 +59,16 @@ redirect_from:
 
 <a id="ch1"></a>
 
+[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#ch1) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-1--preview)
+
 # adhyAya 1 — munnOTa
 [↑ oLapiDige hintirugi](#oLapiDi)
 
 ---
 
 <a id="sec-1-1"></a>
+
+[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-1-1) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-1--preview)
 
 ## 1.1 kannaDa barahadalli bEDadiruva barigegaLu
 
@@ -129,6 +133,8 @@ baruttade.
 ---
 
 <a id="sec-1-2"></a>
+
+[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-1-2) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-1--preview)
 
 ## 1.2 Oduva mattu bareyuva aLavu
 
@@ -204,6 +210,8 @@ EnAdarU mADalu horaDabEku.
 
 <a id="sec-1-3"></a>
 
+[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-1-3) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-1--preview)
+
 ## 1.3 barahavannu kaliyadiralu kAraNagaLu
 
 
@@ -248,6 +256,8 @@ yinda tIra bErAgiruvudu innondu kAraNa.
 ---
 
 <a id="sec-1-4"></a>
+
+[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-1-4) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-1--preview)
 
 ## 1.4 baravaNigeya toDaku
 
@@ -368,6 +378,8 @@ pasuge(adhyAya)gaLalli tiLisalAgide.
 
 <a id="ch2"></a>
 
+[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#ch2) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-2--writing-as-it-is-pronounced)
+
 # adhyAya 2 — Oduva hAge bareyuvudu
 
 
@@ -376,6 +388,8 @@ pasuge(adhyAya)gaLalli tiLisalAgide.
 ---
 
 <a id="sec-2-1"></a>
+
+[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-2-1) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-2--writing-as-it-is-pronounced)
 
 ## 2.1 baravaNigeya ALa
 
@@ -444,6 +458,8 @@ vAgi tOraballudu.
 
 <a id="sec-2-2"></a>
 
+[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-2-2) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-2--writing-as-it-is-pronounced)
+
 ## 2.2 kannaDa baravaNigeya ALa
 
 
@@ -490,6 +506,8 @@ padagaLu aDDiyAguttave.
 ---
 
 <a id="sec-2-3"></a>
+
+[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-2-3) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-2--writing-as-it-is-pronounced)
 
 ## 2.3 kannaDa barahadalli samskxta padagaLu
 
@@ -626,6 +644,8 @@ bahaLa maTTige selling‌ samasyeyilla da barahadAgaballu du.
 
 <a id="sec-2-4"></a>
 
+[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-2-4) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-2--writing-as-it-is-pronounced)
+
 ## 2.4 kannaDa baravaNigeya hinnaDavaLi (caritre)
 
 
@@ -667,6 +687,8 @@ hAgeyE bareyabEkAgide.
 ---
 
 <a id="sec-2-5"></a>
+
+[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-2-5) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-2--writing-as-it-is-pronounced)
 
 ## 2.5 eravalu padagaLa baravaNige
 
@@ -775,6 +797,8 @@ kalisuvudakkAgi avannu cikka makkaLa mEle hEralAguttade.
 ---
 
 <a id="sec-2-6"></a>
+
+[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-2-6) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-2--writing-as-it-is-pronounced)
 
 ## 2.6 samskxtada eravalu padagaLa baravaNige
 
@@ -1020,6 +1044,8 @@ bEkAguvudilla.
 
 <a id="sec-2-7"></a>
 
+[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-2-7) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-2--writing-as-it-is-pronounced)
+
 ## 2.7 hanta hantavAgi baLakege taruvudu
 
 
@@ -1056,6 +1082,8 @@ kalike ivattina hAge heccu tondare koDuvudilla.
 ---
 
 <a id="sec-2-8"></a>
+
+[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-2-8) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-2--writing-as-it-is-pronounced)
 
 ## 2.8 samskxta padagaLu mArbaDade uLidilla
 
@@ -1160,12 +1188,16 @@ avannu A rIti Odalu baruvudillavalla!
 
 <a id="ch3"></a>
 
+[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#ch3) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-3--other-languages-that-have-reformed)
+
 # adhyAya 3 — baravaNigeyannu saripaDisikonDiruva nuDigaLu
 [↑ oLapiDige hintirugi](#oLapiDi)
 
 ---
 
 <a id="sec-3-1"></a>
+
+[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-3-1) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-3--other-languages-that-have-reformed)
 
 ## 3.1 munnOTa
 bEre nuDigaLinda padagaLannu eravalAgi paDeyuvAga,
@@ -1194,6 +1226,8 @@ lAguttade.
 ---
 
 <a id="sec-3-2"></a>
+
+[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-3-2) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-3--other-languages-that-have-reformed)
 
 ## 3.2 koriyan nuDiya baravaNige
 
@@ -1261,6 +1295,8 @@ baLasalAguttade.
 ---
 
 <a id="sec-3-3"></a>
+
+[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-3-3) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-3--other-languages-that-have-reformed)
 
 ## 3.3 panjAbi nuDiya baravaNige
 
@@ -1342,6 +1378,8 @@ kaliyuva mattu baLasuva kelasa heccu sulabavAgide.
 
 <a id="sec-3-4"></a>
 
+[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-3-4) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-3--other-languages-that-have-reformed)
+
 ## 3.4 inDonESiyan nuDiya baravaNige
 inDonESiyan‌ barahadalli sAkaSTu samskxtada eravalu
 padagaLu baLakeyAguttave; idallade, hesa padagaLannu
@@ -1392,6 +1430,8 @@ bareyuvalli neravAgive.
 ---
 
 <a id="sec-3-5"></a>
+
+[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-3-5) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-3--other-languages-that-have-reformed)
 
 ## 3.5 jarman nuDiya baravaNige
 
@@ -1449,6 +1489,8 @@ adu baLakege baratoDagide.
 ---
 
 <a id="sec-3-6"></a>
+
+[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-3-6) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-3--other-languages-that-have-reformed)
 
 ## 3.6 TarkiS nuDiya baravaNige
 
@@ -1554,6 +1596,8 @@ sAdyavAyitendu hELalAguttide.
 ---
 
 <a id="sec-3-7"></a>
+
+[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-3-7) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-3--other-languages-that-have-reformed)
 
 ## 3.7 asamIs nuDiya baravaNige
 
@@ -1669,6 +1713,8 @@ mADiruva I badalAvaNegaLu oLLeya ettugegaLAgive.
 
 <a id="ch4"></a>
 
+[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#ch4) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-4--objections-to-the-reform)
+
 # adhyAya 4 — saripaDikeya edurikegaLu
 
 
@@ -1677,6 +1723,8 @@ mADiruva I badalAvaNegaLu oLLeya ettugegaLAgive.
 ---
 
 <a id="sec-4-1"></a>
+
+[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-4-1) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-4--objections-to-the-reform)
 
 ## 4.1 saripaDikeya prayOjanagaLu
 
@@ -1784,6 +1832,8 @@ heccu jIvantavAgi kANisuttade.
 
 <a id="sec-4-2"></a>
 
+[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-4-2) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-4--objections-to-the-reform)
+
 ## 4.2 tusuhottina tondaregaLu
 
 
@@ -1842,6 +1892,8 @@ ivugaLalli mukhyavAda kelavannu keLage vivarisalAgide:
 ---
 
 <a id="sec-4-3"></a>
+
+[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-4-3) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-4--objections-to-the-reform)
 
 ## 4.3 heccu barigegaLiruvudu SrImantikeyalla
 
@@ -1955,6 +2007,8 @@ tappu vAdavalla de bErEnalla.
 
 <a id="sec-4-4"></a>
 
+[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-4-4) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-4--objections-to-the-reform)
+
 ## 4.4 uligaLa baLakeyalli vyatyAsagaLu
 
 
@@ -2013,6 +2067,8 @@ baLasikoLLuttidAre. Adare, ellarU ivannu. baLasuvudilla.
 ---
 
 <a id="sec-4-5"></a>
+
+[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-4-5) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-4--objections-to-the-reform)
 
 ## 4.5 ippuruLininda tondareyEnilla
 
@@ -2076,6 +2132,8 @@ emba vAdakke yAva AdAravU illa.
 
 <a id="sec-4-6"></a>
 
+[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-4-6) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-4--objections-to-the-reform)
+
 ## 4.6 mArpADu barahadallallade nuDiyallalla
 
 
@@ -2109,6 +2167,8 @@ emba tappu kalpaneyannu avaru hondiddAre.
 ---
 
 <a id="sec-4-7"></a>
+
+[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-4-7) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-4--objections-to-the-reform)
 
 ## 4.7 kannaDada OdU samskxta OdinantirabEkE?
 
@@ -2158,6 +2218,8 @@ oLLeyadu.
 
 <a id="sec-4-8"></a>
 
+[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-4-8) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-4--objections-to-the-reform)
+
 ## 4.8 eraDu sAvira varSagaLa parampare
 
 
@@ -2189,6 +2251,8 @@ ivattu naDesalEbEkAgide.
 ---
 
 <a id="sec-4-9"></a>
+
+[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-4-9) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-4--objections-to-the-reform)
 
 ## 4.9 samskxtakke hindidda hirime indilla
 
@@ -2280,6 +2344,8 @@ tiLiyabEkAgilla.
 ---
 
 <a id="sec-4-10"></a>
+
+[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-4-10) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-4--objections-to-the-reform)
 
 ## 4.10 baraha mattu samskxti
 
@@ -2466,6 +2532,8 @@ kannaDa barahagaLalli illa vAgiDe.
 
 <a id="ch5"></a>
 
+[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#ch5) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-5--conclusion)
+
 # adhyAya 5 — muktAya
 
 [↑ oLapiDige hintirugi](#oLapiDi)
@@ -2473,6 +2541,8 @@ kannaDa barahagaLalli illa vAgiDe.
 ---
 
 <a id="sec-5-1"></a>
+
+[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-5-1) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-5--conclusion)
 
 ## 5.1 sAmAjika nyAya
 
@@ -2543,6 +2613,8 @@ baravaNigeya viSayadalli antaha kaScavEnilla.
 
 <a id="sec-5-2"></a>
 
+[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-5-2) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-5--conclusion)
+
 ## 5.2 kannaDaddE Ada padagaLa baLake
 
 
@@ -2583,6 +2655,8 @@ eravalugaLa eNike kaDimeyAgaballu du.
 ---
 
 <a id="sec-5-3"></a>
+
+[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-5-3) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-5--conclusion)
 
 ## 5.3 kaliyuva oLa ottaDa
 
@@ -2636,6 +2710,8 @@ bEkAgide.
 ---
 
 <a id="sec-5-4"></a>
+
+[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-5-4) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-5--conclusion)
 
 ## 5.4 mukhyavAda prayOjanagaLu
 

@@ -49,7 +49,7 @@ The book is also a sustained demonstration of DNS Bhat's native Kannada grammati
 *(ಮುನ್ನೋಟ)*
 
 
-[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-book) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#munnOTa)
+[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-book#adhyAya-1) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#munnOTa)
 
 ### 1.1 The Dravidian Family and South Dravidian
 
@@ -70,7 +70,7 @@ The chapter concludes by stating the book's method: reconstruction of Proto-Drav
 *(ಬೇರಿನ ಸ್ವರಗಳು)*
 
 
-[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-book) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#bErina-svarugaLu)
+[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-book#adhyAya-2) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#bErina-svarugaLu)
 
 ### 2.1 The Proto-Dravidian Vowel System
 
@@ -95,7 +95,7 @@ The chapter also discusses the development of the low central vowel *a: Proto-Dr
 *(ಒಟ್ಟಿನ ಸ್ವರಗಳು)*
 
 
-[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-book) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#oTTina-svarugaLu)
+[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-book#adhyAya-3) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#oTTina-svarugaLu)
 
 ### 3.1 The Proto-Dravidian Affix Vowel System
 
@@ -116,7 +116,7 @@ Additional changes include: the shortening of long affix vowels in certain envir
 *(ತಡೆಯುಲಿಗಳು)*
 
 
-[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-book) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#taDeyuligaLu)
+[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-book#adhyAya-4) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#taDeyuligaLu)
 
 ### 4.1 The Proto-Dravidian Stop System
 
@@ -141,7 +141,7 @@ The chapter concludes (4.5 ತಿರುಳು) by summarising how the phonemic v
 *(ಇತರ ವ್ಯಂಜನಗಳು)*
 
 
-[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-book) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#itara-vyaMjanagaLu)
+[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-book#adhyAya-5) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#itara-vyanjanagaLu)
 
 ### 5.1 The Nasal Consonants
 
@@ -162,7 +162,7 @@ Proto-Dravidian had two glides — y (palatal) and v (labial). These were genera
 *(ಪದಗಳ ಒಳರಚನೆ)*
 
 
-[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-book) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#padagaLa-oLaracane)
+[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-book#adhyAya-6) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#padagaLa-oLaracane)
 
 ### 6.1 Three Root Types
 
@@ -183,7 +183,7 @@ Proto-Dravidian had a productive system of compounding — joining two words to 
 *(ಕ್ರಿಯಾಪದಗಳ ಒಳರಚನೆ)*
 
 
-[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-book) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#kriyA-padagaLa-oLaracane)
+[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-book#adhyAya-7) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#kriyA-padagaLa-oLaracane)
 
 ### 7.1 The Fundamental Verb Distinction: Aguvike and Maduvike
 
@@ -204,7 +204,7 @@ Comparing Old Kannada inscriptions with modern Kannada reveals systematic change
 *(ಕ್ರಿಯಾರೂಪಗಳು)*
 
 
-[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-book) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#kriyArUpagaLu)
+[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-book#adhyAya-8) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#kriyArUpagaLu)
 
 ### 8.1 The Structure of Verb Forms
 
@@ -225,7 +225,7 @@ Proto-Dravidian also had a negative suffix *-A (a long negative vowel) that nega
 *(ನಾಮಪದಗಳು)*
 
 
-[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-book) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#nAmapadagaLu)
+[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-book#adhyAya-9) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#nAmapadagaLu)
 
 ### 9.1 Noun Formation
 
@@ -246,7 +246,7 @@ Proto-Dravidian had a system of case suffixes: genitive, dative, accusative, loc
 *(ಆಡುಗ ಮತ್ತು ತೋರುಗ ಪದಗಳು)*
 
 
-[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-book) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#ADuga-mattu-tOruga-padagaLu)
+[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-book#adhyAya-10) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#ADuga-mattu-tOruga-padagaLu)
 
 ### 10.1 Personal Pronouns
 
@@ -263,7 +263,7 @@ Proto-Dravidian had a three-way demonstrative system: proximate (near the speake
 *(ಗುಣಪದಗಳು)*
 
 
-[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-book) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#guNapadagaLu)
+[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-book#adhyAya-11) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#guNapadagaLu)
 
 ### 11.1 Two Types of Qualifier
 
@@ -280,7 +280,7 @@ Qualifiers in Kannada can be derived from all three root types: from qualifier-r
 *(ವಾಕ್ಯಗಳ ಒಳರಚನೆ)*
 
 
-[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-book) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sthiti-vAkyagaLa-oLaracane)
+[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-book#adhyAya-12) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sthiti-vAkyagaLa-oLaracane)
 
 ### 12.1 Action Sentences and State Sentences
 

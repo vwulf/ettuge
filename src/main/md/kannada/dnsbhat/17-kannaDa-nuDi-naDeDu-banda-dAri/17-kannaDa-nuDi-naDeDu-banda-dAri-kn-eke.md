@@ -33,6 +33,8 @@ redirect_from:
 
 ## 1. munnOTa {#munnOTa}
 
+[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-book#adhyAya-1) | [English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-1--overview)
+
 *(ಮುನ್ನೋಟ)*
 
 ee adhyAya pustakada pITike Agi dravIDa nuDi-kuTumbada vingaDane mattu hOrake mADuttade. dravIDa kuTumbadi tenku-dravIDa (tenkudravIDa) gumpu mukhyavAda sthAna hondide — adu kannaDa, tamiL, teluugu, tuLu antAha nuDigaLannu oLagonDide. baT avaru hOlike-mArga (comparative method) — eraDu yA adikka nuDigaLa rUpagaLannu hOlisi mUla-rUpa kaLeyuvudu — emba arikarrannu sanki vyAkaraNa ariva-davarige vivarisi koDisuttAre. oLanuDigaLa (dialect) vIrupadavu mukhyavAda: karAvaLi (havyaka) kannaDa naaDina bayaLu-seeme kannaDigaLiginta hEge bEre embadannu tOruttade. baDaga nuDiyu kannaDigaLa oru upa-oLanuDi endu baT avaru vAdisutte, adu ondu svatamindriya nuDi alla.
@@ -40,6 +42,8 @@ ee adhyAya pustakada pITike Agi dravIDa nuDi-kuTumbada vingaDane mattu hOrake mA
 ---
 
 ## 2. bErina svarugaLu {#bErina-svarugaLu}
+
+[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-book#adhyAya-2) | [English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-2--root-vowels)
 
 *(ಬೇರಿನ ಸ್ವರಗಳು)*
 
@@ -49,6 +53,8 @@ mUladravIDadi hattU svarugaLu (a, A, i, I, u, U, e, E, o, O) idduve endu hOlike-
 
 ## 3. oTTina svarugaLu {#oTTina-svarugaLu}
 
+[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-book#adhyAya-3) | [English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-3--affix-vowels)
+
 *(ಒಟ್ಟಿನ ಸ್ವರಗಳು)*
 
 oTTugaLalli (suffixes) kANisuvudu svarugaLannu "oTTina svarugaLu" endu ee adhyAya viSESavAgi nODuttade. mUladravIDa oTTu-sancaradi mukhyavAda badala: *-ay > -e emba parivarttane — hale-kaala haLegannaDada rUpagaLalli mattu itara dravIDa nuDigaLali ivanu gurtisabahudu. oTTina svarugaLu bErina svarugaLa hAge svatamindriya caraNe mADuvudilla — avugaLa hAraDisuva (restriction) niyamavE bEre endu baT avaru vAdisuttAre. mUladravIDa oTTu-sancarada paTTiyannu kaTTi, kannaDa oTTugaLannu avunDe kaNavannu adhyAya taruttade.
@@ -56,6 +62,8 @@ oTTugaLalli (suffixes) kANisuvudu svarugaLannu "oTTina svarugaLu" endu ee adhyAy
 ---
 
 ## 4. taDeyuligaLu {#taDeyuligaLu}
+
+[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-book#adhyAya-4) | [English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-4--stops)
 
 *(ತಡೆಯುಲಿಗಳು)*
 
@@ -65,6 +73,8 @@ kannaDa taDeyuligaLu (stops) aintu sthAnagaLalli (bilabial, dental, alveolar/ret
 
 ## 5. itara vyanjanagaLu {#itara-vyanjanagaLu}
 
+[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-book#adhyAya-5) | [English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-5--other-consonants)
+
 *(ಇತರ ವ್ಯಂಜನಗಳು)*
 
 taDeyuligaLa ancige kannaDa eraDu mUguli (nasals: m, n, N, G), eraDu pakkaduli (laterals: l, L), oru hoDeyuli (flap/trill: r), mattu eraDu hOraDi (glides: v, y) sErisuttade. ee adhyAya adalli L (munDika pakkaduli) vyanjanada viSESa sthAnavannu paDeyuttade: mUladravIDa *L uLidiruvudu karAvaLi kannaDigaLalli, bayaLu-seemedalli adu bErE dvani-rUpakke badaLAgide. munDika-sEDi (retroflex series: T, D, N, L, S) mUladravIDa bErunDide endu baT avaru vAdisuttAre — idu dravIDa-sIdda (Dravidian-native) viSESate, samskxta-inda eravalu alla. nAsikya (nasal), pakkaduli, hoDeyuli mattu hOraDi vargIsudEle ee adhyAyada pramukha kArya.
@@ -72,6 +82,8 @@ taDeyuligaLa ancige kannaDa eraDu mUguli (nasals: m, n, N, G), eraDu pakkaduli (
 ---
 
 ## 6. padagaLa oLaracane {#padagaLa-oLaracane}
+
+[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-book#adhyAya-6) | [English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-6--internal-structure-of-words)
 
 *(ಪದಗಳ ಒಳರಚನೆ)*
 
@@ -81,6 +93,8 @@ dravIDa padagaLannu mUru bEru-vargagaLalli vargIsabahudu: nAma bEru (noun root),
 
 ## 7. kriyA padagaLa oLaracane {#kriyA-padagaLa-oLaracane}
 
+[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-book#adhyAya-7) | [English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-7--internal-structure-of-verbs)
+
 *(ಕ್ರಿಯಾಪದಗಳ ಒಳರಚನೆ)*
 
 kannaDa kriyA padagaLu eraDu mukhya bheTagaLu: Aguvike (happening — antaKkriyA, agentless) mattu mADuvike (doing — sAkAriya, agent-needed). ee bedavu mUladravIDa kAladindanE iddendu, baT avaru itara dravIDa nuDigaLa sAkSiyinda tOrisuttAre. mUladravIDa *-t emba kArakA-oTTu (causative) nantara kannaDigaLalli -isu endu badaLAyitu. haLegannaDada kriyArUpagaLu — mADida, mADuva, mADalu antAhavugaLu — ee mUla-racaneya cihne kANisuttave. adhyAya eraDu kriyA-vargagaLa naDuvina artha-beda mattu oTTu-racaneya vIrupadavannu vivEcisi, kannaDa kriyA-rUpagaLu mUladravIDa vyAkaraNakke hEge seri embadannu sparSisuttade.
@@ -88,6 +102,8 @@ kannaDa kriyA padagaLu eraDu mukhya bheTagaLu: Aguvike (happening — antaKkriyA
 ---
 
 ## 8. kriyArUpagaLu {#kriyArUpagaLu}
+
+[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-book#adhyAya-8) | [English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-8--verb-forms)
 
 *(ಕ್ರಿಯಾರೂಪಗಳು)*
 
@@ -97,6 +113,8 @@ mUladravIDadi kAla-vAcaka oTTugaLu: *-nt- (keLe-kAla, past) mattu *-v(p)- (keLad
 
 ## 9. nAmapadagaLu {#nAmapadagaLu}
 
+[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-book#adhyAya-9) | [English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-9--nouns)
+
 *(ನಾಮಪದಗಳು)*
 
 kannaDa nAmapadagaLa sxSTi mattu avugaLa vibakti-oTTugaLa caritra ee adhyAyada viSaya. linga-vyavasthe dravIDa-sIdda: manujanu (human) mattu manuja-alla (non-human) emba eraDu linga-bedavu, samskxta mUru-linga-bedake (punlinga, strIlinga, napumsaka-linga) binna. nAmapadagaLu hesarisuvudu (referring) mattu varisuvudu (describing) enda eraDu kAryagaLannu mADuttave. vibakti-oTTugaLu mUladravIDa mUladinda kadiyabahudu endu baT avaru dravIDa-sArAdra hOlikeyu mUlaka tOrisuttAre. nAma-sxSTiya oTTugaLu, pada-gumpu-rUpagaLu, mattu nAmapadagaLa mUru bEru-vargagaLinda uttpattiyannu adhyAya vivEcisuttade.
@@ -104,6 +122,8 @@ kannaDa nAmapadagaLa sxSTi mattu avugaLa vibakti-oTTugaLa caritra ee adhyAyada v
 ---
 
 ## 10. ADuga mattu tOruga padagaLu {#ADuga-mattu-tOruga-padagaLu}
+
+[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-book#adhyAya-10) | [English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-10--personal-and-demonstrative-pronouns)
 
 *(ಆಡುಗ ಮತ್ತು ತೋರುಗ ಪದಗಳು)*
 
@@ -113,6 +133,8 @@ ADuga padagaLu (personal pronouns) — adu 1ama mattu 2ama puruSa — mattu tOru
 
 ## 11. guNapadagaLu {#guNapadagaLu}
 
+[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-book#adhyAya-11) | [English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-11--qualifiers)
+
 *(ಗುಣಪದಗಳು)*
 
 guNapadagaLu (qualifiers) eraDu bageya: nAma-sxSTiya guNapadagaLu (nominal qualifiers, hesarugaLinda bandavugaLu) mattu kriyA-sxSTiya guNapadagaLu (verbal qualifiers, esaka-padagaLinda bandavugaLu). adhyAya eraDarallU kANisuvudu mUru bEru-vargagaLinda (nAma, kriyA, guNa) uttpattiyAguttave embadannu — ee mUru-bEru vyavasthe mUladravIDadinda kaDiyabahudu. anugAmi padagaLu (imitative/ideophonic words) saha kannaDa guNapada-sxSTiyalli ondu viSeSa sthAna hondivave endu baT avaru vivEcisuttAre. guNapadagaLu samskxta guNa-padagaLa hAge linga-vacana-vibaktikke baddalAguvudilla — idu dravIDa-sIdda svabhAvada mukhyavAda ciha.
@@ -120,6 +142,8 @@ guNapadagaLu (qualifiers) eraDu bageya: nAma-sxSTiya guNapadagaLu (nominal quali
 ---
 
 ## 12. sthiti / vAkyagaLa oLaracane {#sthiti-vAkyagaLa-oLaracane}
+
+[ಕನ್ನಡ →](./17-kannaDa-nuDi-naDeDu-banda-dAri-book#adhyAya-12) | [English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-12--sentence-structure)
 
 *(ಸ್ಥಿತಿ / ವಾಕ್ಯಗಳ ಒಳರಚನೆ)*
 

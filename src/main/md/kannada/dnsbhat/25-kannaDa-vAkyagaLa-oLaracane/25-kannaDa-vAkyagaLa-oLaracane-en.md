@@ -49,7 +49,7 @@ The book covers ten substantive chapters (Chapters 2–10) plus an introductory 
 *(ಪೀಠಿಕೆ)*
 
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-book) | [Eke →](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke#pITike)
+[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-book#adhyAya-1) | [Eke →](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke#pITike)
 
 ### 1.1 Speech Acts (ಮಾತಿನ ಕೆಲಸಗಳು)
 
@@ -70,7 +70,7 @@ The remaining sections of Chapter 1 provide an overview of the topics to be deve
 *(ಕ್ರಿಯಾವಾಕ್ಯಗಳ ಒಳರಚನೆ)*
 
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-book) | [Eke →](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke#kriyAvAkyagaLa-oLaracane)
+[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-book#adhyAya-2) | [Eke →](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke#kriyAvAkyagaLa-oLaracane)
 
 ### 2.1 Introduction — Verb Forms and Constituents
 
@@ -91,7 +91,7 @@ A central classification divides events into ಆಗುವಿಕೆಗಳು (Agu
 *(ವಿಷಯವಾಕ್ಯಗಳ ಒಳರಚನೆ)*
 
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-book) | [Eke →](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke#viSayavAkyagaLa-oLaracane)
+[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-book#adhyAya-3) | [Eke →](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke#viSayavAkyagaLa-oLaracane)
 
 ### 3.1–3.2 Overview and Existential Sentences
 
@@ -112,7 +112,7 @@ Relational sentences express the relationship between an entity and one of its a
 *(ನಾಮಪದಗಳ ಕಂತೆಗಳು)*
 
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-book) | [Eke →](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke#nAmapada-kantegaLu)
+[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-book#adhyAya-4) | [Eke →](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke#nAmapada-kantegaLu)
 
 ### 4.1–4.2 Words vs. Phrases; Identifying vs. Describing
 
@@ -133,7 +133,7 @@ The chapter summarises that nouns in sentences function either to identify parti
 *(ಕ್ರಿಯಾಪದಗಳ ಪದರೂಪಗಳು)*
 
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-book) | [Eke →](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke#kriyApada-padarUpagaLu)
+[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-book#adhyAya-5) | [Eke →](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke#kriyApada-padarUpagaLu)
 
 ### 5.1–5.2 Tense and Person/Gender/Number Suffixes
 
@@ -158,7 +158,7 @@ When clauses are joined within a complex sentence, the non-final verb appears in
 *(ಗುಣಪದಗಳ ಬಳಕೆ)*
 
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-book) | [Eke →](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke#guNapadagaLa-baLake)
+[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-book#adhyAya-6) | [Eke →](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke#guNapadagaLa-baLake)
 
 ### 6.1–6.2 Shared Properties of Qualifiers
 
@@ -175,7 +175,7 @@ Despite these shared features, qualifiers divide into sub-classes based on sever
 *(ಒಳವಾಕ್ಯಗಳು)*
 
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-book) | [Eke →](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke#oLavAkyagaLu)
+[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-book#adhyAya-7) | [Eke →](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke#oLavAkyagaLu)
 
 ### 7.2–7.3 Quotative and Describing Embedded Clauses
 
@@ -192,7 +192,7 @@ The chapter details how embedded clauses function as modifiers within noun phras
 *(ವಾಕ್ಯಗಳ ಜೋಡಣೆ)*
 
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-book) | [Eke →](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke#vAkyagaLa-jODaNe)
+[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-book#adhyAya-8) | [Eke →](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke#vAkyagaLa-jODaNe)
 
 ### 8.1–8.2 Coordination vs. Subordination
 
@@ -209,7 +209,7 @@ Three logically distinct relationships between coordinated sentences are identif
 *(ಸಂಬಂಧಿಸುವುದು ಮತ್ತು ಅಲ್ಲಗಳೆಯುವುದು)*
 
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-book) | [Eke →](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke#sambandisuvudu-mattu-allagaLeyuvudu)
+[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-book#adhyAya-9) | [Eke →](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke#sambandisuvudu-mattu-allagaLeyuvudu)
 
 ### 9.2 Focus Sentences (ಸಂಬಂಧಿಸುವ ವಾಕ್ಯಗಳು)
 
@@ -226,7 +226,7 @@ Negation in Kannada is expressed by the particle ಇಲ್ಲ (illa). To negate 
 *(ಮಾತಿನ ಕೆಲಸಗಳು)*
 
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-book) | [Eke →](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke#mAtina-kasagagaLu)
+[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-book#adhyAya-10) | [Eke →](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke#mAtina-kasagagaLu)
 
 ### 10.2–10.3 Performative Particles and Questions
 
@@ -243,7 +243,7 @@ Imperative/command sentences (ಕೆಲಸ ಮಾಡಿಸುವ ವಾಕ್ಯ
 *(ಕನ್ನಡದ ಕೆಲವು ವೈಶಿಷ್ಟ್ಯಗಳು)*
 
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-book) | [Eke →](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke#kannaDigaLa-keLavu-vaiSiSTyagaLu)
+[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-book#adhyAya-11) | [Eke →](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke#kannaDigaLa-keLavu-vaiSiSTyagaLu)
 
 ### 11.1–11.4 Kannada in Cross-Linguistic Perspective
 

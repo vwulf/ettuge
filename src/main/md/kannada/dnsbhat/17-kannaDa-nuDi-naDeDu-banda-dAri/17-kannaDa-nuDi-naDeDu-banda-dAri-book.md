@@ -1296,6 +1296,11 @@ MqÉvÀ
  
  
  
+
+<a id="adhyAya-1"></a>
+
+[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-1--overview) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#munnOTa)
+
 1. ಮುನ್ನೋಟ 
 
 1.1 ನಡೆದು ಬಂದ ದಾರಿ 
@@ -2221,6 +2226,11 @@ JAl£ÉÃ
 ಯಲ್ಲಿ ಎಂತಹ ಬದಲಾವಣೆಗಳನ್ನು ಕನ್ನಡ ಮಾಡಿಕೊಂಡಿದೆ ಎಂಬುದನ್ನು 
 ಹನ್ನೆರಡನೇ  ಅದ್ಯಾಯದಲ್ಲಿ  ಪರಿಶೀಲಿಸಲಾಗಿದೆ.  ಈ  ಪುಸ್ತಕದಲ್ಲಿ 
 ಬಳಕೆಯಾಗಿರುವ ಪಾರಿಬಾಶಿಕ ಪದಗಳನ್ನು ಕೊನೆಯಲ್ಲಿ ವಿವರಿಸಲಾಗಿದೆ. 
+
+
+<a id="adhyAya-2"></a>
+
+[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-2--root-vowels) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#bErina-svarugaLu)
 
 2. ಬೇರಿನ ಸ್ವರಗಳು 
 
@@ -4830,6 +4840,11 @@ jÃw0iÀÄ
 ಬರಬಲ್ಲುವಾಗಿದ್ದುವು  ಮತ್ತು  ಇವು  ಕನ್ನಡದಲ್ಲಿ  ಹೇಗೆ  ಬದಲಾಗಿವೆ 
 ಎಂಬುದನ್ನು ಮುಂದಿನ ಅದ್ಯಾಯದಲ್ಲಿ ವಿವರಿಸಲಾಗುವುದು. 
 
+
+<a id="adhyAya-3"></a>
+
+[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-3--affix-vowels) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#oTTina-svarugaLu)
+
 3. ಒಟ್ಟಿನ ಸ್ವರಗಳು 
 
 3.1 ಮುನ್ನೋಟ 
@@ -5916,6 +5931,11 @@ EgÀÄ
 ಇಲ್ಲವೇ  ಉïಕಾರವಾಗಿ  ಬದಲಾಗುವುದು  ಮತ್ತು  ವ್ಯಂಜನಗಳಲ್ಲಿ 
 ಕೊನೆಗೊಳ್ಳುವ  ಪದಗಳ  ಅನಂತರ  ಉಕಾರವೊಂದು  ಸೇರಿಕೊಳ್ಳುವುದು 
 ಇವುಗಳಲ್ಲಿ ಮುಕ್ಯವಾದ ಬದಲಾವಣೆಗಳು. 
+
+
+<a id="adhyAya-4"></a>
+
+[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-4--stops) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#taDeyuligaLu)
 
 4. ತಡೆಯುಲಿಗಳು 
 
@@ -9303,6 +9323,11 @@ PÁqÀÄ
 ಎರವಲುಗಳಿಂದಾಗಿ  ಅವು  ಹೊಸಗನ್ನಡದಲ್ಲಿ  ಇವತ್ತಿಗೂ  ಪ್ರತ್ಯೇಕ 
 ತಡೆಯುಲಿಗಳಾಗಿ ಉಳಿದುಕೊಂಡಿವೆ.  
 
+
+<a id="adhyAya-5"></a>
+
+[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-5--other-consonants) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#itara-vyanjanagaLu)
+
 5. ಇತರ ವ್ಯಂಜನಗಳು 
 
 5.1 ಮುನ್ನೋಟ 
@@ -12101,6 +12126,11 @@ PÀÄrPÉ
 ಸಂಶೋದನೆಗಳನ್ನು 
 
  
+
+<a id="adhyAya-6"></a>
+
+[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-6--internal-structure-of-words) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#padagaLa-oLaracane)
+
 6. ಪದಗಳ ಒಳರಚನೆ 
 
 6.1 ಮುನ್ನೋಟ 
@@ -12538,6 +12568,11 @@ PÁgÀt,
 ವಿವರವಾಗಿ ಮುಂದಿನ ಅದ್ಯಾಯಗಳಲ್ಲಿ ಸೂಚಿಸಲಾಗುವುದು. 
 
  
+
+<a id="adhyAya-7"></a>
+
+[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-7--internal-structure-of-verbs) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#kriyA-padagaLa-oLaracane)
+
 7. ಕ್ರಿಯಾಪದಗಳ ಒಳರಚನೆ 
 
 7.1 ಮುನ್ನೋಟ 
@@ -14726,6 +14761,11 @@ PÉÆArzÉ.
 ರೂಪಬೇದಗಳನ್ನು 
 
  
+
+<a id="adhyAya-8"></a>
+
+[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-8--verb-forms) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#kriyArUpagaLu)
+
 8. ಕ್ರಿಯಾರೂಪಗಳು 
 
 8.1 ಮುನ್ನೋಟ 
@@ -17097,6 +17137,11 @@ G½¢zÉ.
 ಅಂಶ ಇನ್ನೂ ಬಹಳಶ್ಟು ಇದೆ ಎಂಬುದನ್ನು ಇಲ್ಲಿ ನೆನಪಿಸುವುದು ಅವಶ್ಯ. 
 
  
+
+<a id="adhyAya-9"></a>
+
+[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-9--nouns) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#nAmapadagaLu)
+
 9. ನಾಮಪದಗಳು 
 
 9.1 ಮುನ್ನೋಟ 
@@ -19416,6 +19461,11 @@ DlzÀ
 ತೋರಿಸುವಲ್ಲಿ 
 
  
+
+<a id="adhyAya-10"></a>
+
+[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-10--personal-and-demonstrative-pronouns) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#ADuga-mattu-tOruga-padagaLu)
+
 10. ಆಡುಗ ಮತ್ತು ತೋರುಗ 
 ಪದಗಳು  
 
@@ -20139,6 +20189,11 @@ PÀÄjvÁV
 ಪದಗಳು ಮಾತ್ರ ಉಳಿದುಕೊಂಡಿವೆ. 
 
  
+
+<a id="adhyAya-11"></a>
+
+[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-11--qualifiers) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#guNapadagaLu)
+
 11. ಗುಣಪದಗಳು 
 
 11.1 ಮುನ್ನೋಟ 
@@ -21227,6 +21282,11 @@ F
 ಅವಶ್ಯಕತೆಯಿದೆ.  
 
  
+
+<a id="adhyAya-12"></a>
+
+[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-12--sentence-structure) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sthiti-vAkyagaLa-oLaracane)
+
 12. ವಾಕ್ಯಗಳ ಒಳರಚನೆ 
 
 12.1 ಮುನ್ನೋಟ 

@@ -17,7 +17,10 @@ redirect_from:
 
 ## viSaya-paTTi
 
-### bhAga ondu — bhASheya svarUpa
+### bhAga ondu — bhASheya svarUpa {#part-1}
+
+[ಕನ್ನಡ →](./27-bhASheya-bagge-book#part-1) | [English →](./27-bhASheya-bagge-en#part-one--the-nature-of-language)
+
 - [1.1 yAvu bhAShe mElu yA kILu alla](#11)
 - [1.2 bhAShegaLa huTTu mattu sAvugaLu](#12)
 - [1.3 bhAShegaLalli hata mattu hosa — bhAShe-badalu](#13)
@@ -26,7 +29,10 @@ redirect_from:
 - [1.6 kAla (vartamAna kAla)](#16)
 - [1.7 encuvudu kUDa bEre bEre bhAShegaLalli bEre bEre AgiruttadE](#17)
 
-### bhAga eraDu — vyAkaraNa mattu kalika
+### bhAga eraDu — vyAkaraNa mattu kalika {#part-2}
+
+[ಕನ್ನಡ →](./27-bhASheya-bagge-book#part-2) | [English →](./27-bhASheya-bagge-en#part-two--grammar-and-learning)
+
 - [2.1 mAtru-bhAShe kaLeyuva mAyA](#21)
 - [2.2 kannaDa makkaLige kannaDa karpisu](#22)
 - [2.3 vyAkaraNa — kalliNa kaDale?](#23)
@@ -38,7 +44,10 @@ redirect_from:
 - [2.9 ondu ganTeyalli eTTu paTagaLu ODuttIri?](#29)
 - [2.10 ODalAguvAga kUDa janaru yAke ODuvudilla?](#210)
 
-### bhAga mUru — mAtu mattu baraha
+### bhAga mUru — mAtu mattu baraha {#part-3}
+
+[ಕನ್ನಡ →](./27-bhASheya-bagge-book#part-3) | [English →](./27-bhASheya-bagge-en#part-three--speech-and-writing)
+
 - [3.1 mAtina citra](#31)
 - [3.2 bhAratakke ondE lipi bEkE?](#32)
 - [3.3 Ra-kArada (ಋ) uLidukoLLuvudu](#33)
@@ -46,7 +55,10 @@ redirect_from:
 - [3.5 kannaDigaLige "hosa baraha"](#35)
 - [3.6 bhAShe mattu baraha](#36)
 
-### bhAga nAlku — kannaDa bhASheya svarUpa
+### bhAga nAlku — kannaDa bhASheya svarUpa {#part-4}
+
+[ಕನ್ನಡ →](./27-bhASheya-bagge-book#part-4) | [English →](./27-bhASheya-bagge-en#part-four--the-nature-of-the-kannada-language)
+
 - [4.1 kannaDigaLa mUru mukha](#41)
 - [4.2 kannaDigaLa upabhAShegaLu](#42)
 - [4.3 kannaDigaLa vyAkaraNa paramparE](#43)
@@ -54,7 +66,10 @@ redirect_from:
 - [4.5 doDD samskxta panDitaru tappannu mADidAga](#45)
 - [4.6 tantrajnAna-padagaLa sxSTi](#46)
 
-### bhAga aidu — jagattina bhAShegaLu
+### bhAga aidu — jagattina bhAShegaLu {#part-5}
+
+[ಕನ್ನಡ →](./27-bhASheya-bagge-book#part-5) | [English →](./27-bhASheya-bagge-en#part-five--languages-of-the-world)
+
 - [5.1 bhAratada bhAShegaLu](#51)
 - [5.2 Esiyada bhAShegaLu](#52)
 - [5.3 yurOpina bhAShegaLu](#53)
