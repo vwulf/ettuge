@@ -5665,7 +5665,7 @@ unTumADuvudU nuDiya baLakege sambandisida kelasavAgide.
 
 
 (6)  ondu  nuDiyalli  baLakeyalliruva  hesarugaLannu  (mattu  bEre 
-bagemiÀi padagaLannu) paTTimADabahudu; I kelasavannu nuDiya padanerake 
+bagemy padagaLannu) paTTimADabahudu; I kelasavannu nuDiya padanerake 
 gaLu  naDesuttave.  nuDiya  ADugarigintalU  barahagArarige  mattu 
 barahagaLa  Odugarige  intaha  padanerakegaLu  AgAga  neravige  baruttave. 
 Adare,  ondu  nuDiyalli  baLakeyAguva  (illavE  baLakeyAgaballa) 
@@ -7843,7 +7843,7 @@ padagaLE  intaha  iTTaLadalli,  adarallU  modalaneya  huruLannu
 koDuva  iTTaLadalli  heccu  kANisikoLLuttave.  eraDaneya  huruLinalli 
 bEre bageya paricepadagaLU baraballuvu. 
 
-kelavu paricepadagaLu I rIti immaDi rUpadalli baruvAga sErikemiÀi 
+kelavu paricepadagaLu I rIti immaDi rUpadalli baruvAga sErikemy 
 mArpADugaLige  oLagAguttave.  ururuTuruTu,  anTanTu,  uppuppu 
 embantahavugaLalli  modalanE  padada  koneya  ukAra  bidduhOgide; 
 idakke badalu, oLLoLLe embudaralli modalanE padada koneya ekAra 
@@ -10228,7 +10228,7 @@ lAguttade.
 
 mADidaLu. 
 
-(2ca)  o¨ba  huDuga  tarakAri  tanda,  mattu  obba  huDugi  aDige 
+(2ca)  obba  huDuga  tarakAri  tanda,  mattu  obba  huDugi  aDige 
 
 mADidaLu. 
 
@@ -12840,7 +12840,7 @@ dalli baLasalAgide.
 dondige  baLasalAguttade  (ettara  gODe,  udda  hagga);  Adare, 
 gurutisuva  padavAgi  bandiruva  paricepadavannu  hesarupadadondige 
 baLasabEkiddalli  adakke  pattugeya  a  oTTannu  sErisabEkAguttade 
-(ettarada  gODe,  uddada  hagga).  I  eraDu  bagemiÀi  baLakegaLa  naDuve 
+(ettarada  gODe,  uddada  hagga).  I  eraDu  bagemy  baLakegaLa  naDuve 
 vyatyAsavide embudannu keLage koTTiruva sollugaLalli kANabahudu: 
 
 (41ka)  I ettara gODeginta A ettara gODe cannAgide. 
