@@ -1157,7 +1157,7 @@ ttade,  mattu  idarindAgi  avaru  tamma  kalikeyannu  naDuvinallE  biTTu
 biDuttAre. hosa barahada baLakeyAdalli I tondareyilla. 
 
 (6)  hosa  barahadalli  beraLaccu  mADuvudu  mattu  kampyUTarinalli 
-bareyuvudu  sulaba;  SiphTa  kIyannu  tumbA  kaDime  bAri  otta 
+bareyuvudu  sulaba;  SiphT  kIyannu  tumbA  kaDime  bAri  otta 
 bEkAguttade.  
 
 (7)  padagaLannu  Oduva  hAgeyE  bareyuva  kAraNa,  barahakkU 
@@ -3493,7 +3493,7 @@ phlAS
 
 SijO 
 
-SisTa 
+SisT 
 
  
 
@@ -6378,7 +6378,7 @@ bandiruvudannu
 `tinnuva  bageyannu  aritavanu',  biDu-biDuga  `sanyAsi',  bare-barega 
 `gumAsta',  dATu-dATuga  `dEvaru'  embantaha  padagaLalli  idu 
 heccina huruLannu paDedide; eraDaneyadAgi, kaDi-kaDiga `ili', hIru-
-hIruga  `hIruva  kAgada',  ettu-ettuga  `elivETar,  liphTa', 
+hIruga  `hIruva  kAgada',  ettu-ettuga  `elivETar,  liphT', 
 hudugu-huduga  `hodike',  kalasu-kalasuga  `miksar'  embantaha 
 padagaLalli idu obba vyaktiyannu hesarisuva padalu ondu prANiyannu 
 illavE vastuvannu hesarisuttade. 
