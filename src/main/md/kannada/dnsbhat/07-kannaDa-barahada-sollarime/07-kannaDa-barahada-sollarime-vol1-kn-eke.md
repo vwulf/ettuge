@@ -533,7 +533,7 @@ padarUpagaLa iTTaLa
  
 <a id="adhyAya-1"></a>
 
-[English →](./07-kannaDa-barahada-sollarime-en#chapter-1--preview) | [Eke →](./07-kannaDa-barahada-sollarime-vol1-kn-eke#adhyAya-1)
+[ಕನ್nnaDa →](./07-kannaDa-barahada-sollarime-vol1-kn#adhyAya-1) | [English →](./07-kannaDa-barahada-sollarime-en#chapter-1--preview)
 
 1. munnOTa 
 
@@ -3803,7 +3803,7 @@ kelavu viSayagaLannu vivarisalAgide.
  
 <a id="adhyAya-2"></a>
 
-[English →](./07-kannaDa-barahada-sollarime-en#chapter-2--word-structure-nouns) | [Eke →](./07-kannaDa-barahada-sollarime-vol1-kn-eke#adhyAya-2)
+[ಕನ್nnaDa →](./07-kannaDa-barahada-sollarime-vol1-kn#adhyAya-2) | [English →](./07-kannaDa-barahada-sollarime-en#chapter-2--word-structure-nouns)
 
 2. padagaLa iTTaLa:  
 hesarupadagaLu 
@@ -11707,7 +11707,7 @@ illi gumpisalAgide.
  
 <a id="adhyAya-3"></a>
 
-[English →](./07-kannaDa-barahada-sollarime-en#chapter-3--word-structure-remaining-word-classes) | [Eke →](./07-kannaDa-barahada-sollarime-vol1-kn-eke#adhyAya-3)
+[ಕನ್nnaDa →](./07-kannaDa-barahada-sollarime-vol1-kn#adhyAya-3) | [English →](./07-kannaDa-barahada-sollarime-en#chapter-3--word-structure-remaining-word-classes)
 
 3. padagaLa iTTaLa: 
 uLida padagaLu 
@@ -15715,7 +15715,7 @@ aDakavAgi tiLisalAgide.
  
 <a id="adhyAya-4"></a>
 
-[English →](./07-kannaDa-barahada-sollarime-en#chapter-4--inflectional-forms) | [Eke →](./07-kannaDa-barahada-sollarime-vol1-kn-eke#adhyAya-4)
+[ಕನ್nnaDa →](./07-kannaDa-barahada-sollarime-vol1-kn#adhyAya-4) | [English →](./07-kannaDa-barahada-sollarime-en#chapter-4--inflectional-forms)
 
 4. padarUpagaLa iTTaLa  
 

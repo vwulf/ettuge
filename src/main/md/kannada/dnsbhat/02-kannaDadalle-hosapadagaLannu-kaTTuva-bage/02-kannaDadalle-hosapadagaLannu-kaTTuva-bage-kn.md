@@ -83,6 +83,8 @@ redirect_from:
 
 <a id="ch1"></a>
 
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-1--philosophy-and-core-principles) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#ch1)
+
 ## ಭಾಗ ೧ — ಮುನ್ನುಡಿ — ಕನ್ನಡದ ಒಲವುಗಳು
 
 [↑ ಒಳಪಿಡಿಗೆ ಹಿಂತಿರುಗಿ](#toc)
@@ -92,6 +94,8 @@ redirect_from:
 
 <a id="sec-1-1"></a>
 
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-1--philosophy-and-core-principles) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-1-1)
+
 ### ೧.೧ ಬರಹ ಕನ್ನಡದಲ್ಲಿ ಸಂಸ್ಕೃತದ ಪ್ರಾಬಲ್ಯ
 
 ಮುನ್ನುಡಿ ಕನ್ನಡದ ಬರಹಗಾರರು ಮತ್ತು ಅರಿವಿಗರು ಹೊಸ ಪದಗಳನ್ನು ಕಟ್ಟುವಾಗಲೆಲ್ಲ ಸಂಸ್ಕೃತ ಪದ ಮತ್ತು ಒಟ್ಟು ಎಫಿಕ್ಸ್ ಗಳನ್ನು ಬಳಸುವುದೇ ಹೆಚ್ಚು ಕನ್ನಡದವೇ ಆದ ಪದಗಳನ್ನು ಮತ್ತು ಒಟ್ಟುಗಳನ್ನು ಬಳಸಿಯು ಹೊಸ ಪದಗಳನ್ನು ಕಟ್ಟಲು ಬರುತ್ತದೆ ಎಂಬುದು ಅವರ ಗಮನಕ್ಕೆ ಬರುವುದಿಲ್ಲ ಇದರಿಂದಾಗಿ ಇವತ್ತು ಕನ್ನಡದವೇ ಆದ ಪದಗಳು ಒಂದೊಂದಾಗಿ ಬರಹದ ಬಳಕೆಯಿಂದ ಹೊರಬೀಳುತ್ತಿವೆ ಮತ್ತು ಅವುಗಳ ಜಾಗವನ್ನು ಸಂಸ್ಕೃತ ಎರವಲುಗಳು ತುಂಬುತ್ತಿವೆ ಕನ್ನಡ ಬರಹಗಳು ಸಂಸ್ಕೃತ ಎರವಲುಗಳ ಈ ಹೊರೆಯಿಂದಾಗಿ ಆಡುನುಡಿಯಿಂದ ದೂರ ಹೋಗುತ್ತಿವೆ ಮತ್ತು ತನ್ನತನವನ್ನು
@@ -99,12 +103,16 @@ redirect_from:
 
 <a id="sec-1-2"></a>
 
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-1--philosophy-and-core-principles) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-1-2)
+
 ### ೧.೨ ಪರಿಹಾರ — ಕನ್ನಡದ ನಿಜ ಪದ ಕಟ್ಟುವ ತಾಕತ್ತು
 
 ಬಳಸುವ ಬದಲು ಸಂಸ್ಕೃತದ ಪದ ಮತ್ತು ಒಟ್ಟುಗಳನ್ನು ಬಳಸಿ ಕಟ್ಟಿರುವ ಪದಗಳು ಹಾಗಾಗಿ ಕನ್ನಡದವೇ ಆದ ಪದಗಳನ್ನು ಬಳಸಿ ಬರಹಗಳನ್ನು ಬರೆಯಬೇಕೆಂದಿರುವವರು ಇವತ್ತು ತಾವೇ ಅಂತಹ ಪದಗಳನ್ನು ಹೊಸದಾಗಿ ಕಟ್ಟುವ ಕೆಲಸಕ್ಕೆ ಇಳಿಯಬೇಕಾಗಿದೆ ಆದರೆ ಇದನ್ನು ನಡೆಸುವುದು ಹೇಗೆ ಈ ವಿಷಯದಲ್ಲಿ ಕನ್ನಡದ ಒಲವುಗಳು ಎಂತಹವು ಎಂಬುದು ಹೆಚ್ಚಿನವರಿಗೂ ತಿಳಿದಿರುವುದಿಲ್ಲ ಹಾಗಾಗಿ ಕನ್ನಡದಲ್ಲಿನೇ ಹೊಸ ಪದಗಳನ್ನು ಕಟ್ಟಬೇಕೆಂದಿರುವವರಿಗೆ ಅಂತಹ ತಿಳಿವನ್ನು ಒದಗಿಸಿಕೊಡುವುದೇ ಈ ಕಡತದ ಮುಖ್ಯ ಉದ್ದೇಶವಾಗಿದೆ ಇದರಲ್ಲಿ
 
 
 <a id="sec-1-3"></a>
+
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-1--philosophy-and-core-principles) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-1-3)
 
 ### ೧.೩ ಪುಸ್ತಕದ ಉದ್ದೇಶ ಮತ್ತು ವ್ಯಾಪ್ತಿ
 
@@ -115,6 +123,8 @@ redirect_from:
 
 <a id="ch2"></a>
 
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-2--framework-overview) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#ch2)
+
 ## ಭಾಗ ೨ — ಹೊಸಪದಗಳನ್ನು ಕಟ್ಟುವ ಒಟ್ಟು ಚೌಕಟ್ಟು
 
 [↑ ಒಳಪಿಡಿಗೆ ಹಿಂತಿರುಗಿ](#toc)
@@ -124,6 +134,8 @@ redirect_from:
 
 <a id="sec-2-1"></a>
 
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-2--framework-overview) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-2-1)
+
 ### ೨.೧ ಮೂರು ಪದ ವರ್ಗಗಳು
 
 ಮುನ್ನೋಟ ಕಡತದ ಇಟ್ಟಳ ಈ ಕಡತದ ಪಸುಗೆಗಳನ್ನು ಎರಡು ಮುಖ್ಯ ತುಂಡುಗಳಲ್ಲಿ ಅಣಿಗೊಳಿಸಲಾಗಿದೆ ಮೊದಲನೆಯ ತುಂಡಿನಲ್ಲಿ ಪದಗಳನ್ನು ಕಟ್ಟುವ ಕೆಲಸದಲ್ಲಿ ಕನ್ನಡದ ಒಲವೇನು ಎಂಬುದನ್ನು ವಿವರಿಸಲಾಗಿದೆ ಮತ್ತು ಎರಡನೇ ತುಂಡಿನಲ್ಲಿ ಈ ಹೊಲವನ್ನು ಬಳಸಿ ಇಂಗ್ಲಿಷ್ ಪದಗಳಿಗೆ ಸಾಟಿಯಾಗುವಂತಹ ಹೊಸ ಪದಗಳನ್ನು ಕನ್ನಡದಲ್ಲಿ ಕಟ್ಟುವುದು ಹೇಗೆ ಎಂಬುದನ್ನು ತೋರಿಸಿಕೊಡಲಾಗಿದೆ ಕನ್ನಡದಲ್ಲಿ ಮುಖ್ಯವಾಗಿ ಹೆಸರು ಪದ ನೌನ್ ಎಸಕ ಪದ ವರ್ಬ್ ಮತ್ತು ಪರಿಚಯ ಪದ ಅಡ್ಜೆಕ್ಟಿವ್ ಅಡ್ವರ್ಬ್ ಗಳೆಂಬ ಮೂರು ಬಗೆಯ ಪದಗಳು ಬಳಕೆಯಲ್ಲಿವೆ ಮತ್ತು ಇಂತಹ ಮೂರು ಬಗೆಯ ಪದಗಳನ್ನು ಹೊಸದಾಗಿ
@@ -131,12 +143,16 @@ redirect_from:
 
 <a id="sec-2-2"></a>
 
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-2--framework-overview) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-2-2)
+
 ### ೨.೨ ಎರಡು ವಿಧಾನಗಳು — ಕಟ್ಟುಪದ ಮತ್ತು ಜೋಡುಪದ
 
 ಕನ್ನಡದಲ್ಲಿ ಮುನ್ನೊಟ್ಟುಗಳ ಬಳಕೆ ಇಲ್ಲ ಹೀಗಿದ್ದರೂ ಇಂಗ್ಲಿಷ್ನಲ್ಲಿ ಮುನ್ನೊಟ್ಟುಗಳಿಗೆ ಸಾಟಿಯಾಗುವಂತೆ ಕನ್ನಡದಲ್ಲಿ ಕೆಲವು ಪರಿಚಯ ಬೇರೆ ಹೆಸರು ಪದ ಇಲ್ಲವೇ ಎಸಕ ಪದಗಳ ಮೊದಲು ಬಳಸಿ ಹೊಸ ಪದಗಳನ್ನು ಕಟ್ಟಲು ಬರುತ್ತದೆ ಇಂಗ್ಲಿಷ್ನಲ್ಲಿ ಮುನ್ನೊಟ್ಟುಗಳು ಕೊಡುವ ಹುರುಳುಗಳನ್ನು ಮುಖ್ಯವಾಗಿ ಅಳವಿ ಇಂಬು ಹೊತ್ತು ಮತ್ತು ಅಲ್ಲಗೆಳೆತ ಎಂಬ ನಾಲ್ಕು ಗುಂಪುಗಳಲ್ಲಿ ಗುಂಪಿಸಲು ಬರುತ್ತಿದ್ದು ಈ ನಾಲ್ಕು ಬಗೆಯ ಹುರುಳುಗಳನ್ನು ಕನ್ನಡದಲ್ಲಿ ತಿಳಿಸುವುದು ಹೇಗೆ ಎಂಬುದನ್ನು ಏಳನೇ ಪಸುಗೆಯಲ್ಲಿ ವಿವರಿಸಲಾಗಿದೆ ಎರಡು
 
 
 <a id="sec-2-3"></a>
+
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-2--framework-overview) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-2-3)
 
 ### ೨.೩ ನಾಲ್ಕು ಮುನ್ನೊಟ್ಟು ಗುಂಪುಗಳು
 
@@ -147,6 +163,8 @@ redirect_from:
 
 <a id="ch3"></a>
 
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-3--adjective-to-noun--ತನ) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#ch3)
+
 ## ಭಾಗ ೩ — ಪರಿಚೆಪದದಿಂದ ಹೆಸರುಪದ
 
 [↑ ಒಳಪಿಡಿಗೆ ಹಿಂತಿರುಗಿ](#toc)
@@ -156,12 +174,16 @@ redirect_from:
 
 <a id="sec-3-1"></a>
 
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-3--adjective-to-noun--ತನ) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-3-1)
+
 ### ೩.೧ ಗುಣ ಒಟ್ಟು -ತನ
 
 ಕನ್ನಡದ ಬೆಳವಣಿಗೆಯ ಮೇಲೆ ಪೆಟ್ಟು ಕನ್ನಡ ಬರಹಕ್ಕೆ ಬೇಕಿಲ್ಲದಂತಹ ಈ ಹೊರೆಯಿಂದಾಗಿ ಕನ್ನಡ ಬರಹಗಳ ಮತ್ತು ಅವುಗಳಲ್ಲಿ ಬಳಕೆಯಾಗುವ ಪದಗಳ ಬೆಳವಣಿಗೆಯೇ ನಿಂತು ಹೋಗಿದೆ ಹೊಸ ಹೊಸ ವಿಷಯಗಳನ್ನು ಇಂಗ್ಲಿಷ್ನಲ್ಲಿ ತುಳುವಾಗಿ ವಿವರಿಸಿ ಹೇಳಲು ಬರುತ್ತದೆ ಆದರೆ ಇವನ್ನೇ ಕನ್ನಡದಲ್ಲಿ ವಿವರಿಸಬೇಕೆಂದರೆ ಬರಹ ಮುಂದೆ ಹೋಗುವುದೇ ಇಲ್ಲ ನೀರು ತಿರುಗಿ ಸಂಸ್ಕೃತದ ಎರವಲುಗಳನ್ನು ತಂದು ತುಂಬಬೇಕಾಗುತ್ತದೆ ಇದರಿಂದಾಗಿ ಓದುಗರಿಗೆ ಹಲವೆಡೆಗಳಲ್ಲಿ ಅದು ಕನ್ನಡ ಬರಹವೆಂದೆ ಅನಿಸುವುದಿಲ್ಲ ಕನ್ನಡದ ಒಂದು ಪದನೆರಕೆಯನ್ನು ಇಂಗ್ಲಿಷ್ನ ಒಂದು ಚಿಕ್ಕ ಪದನೆಕೆಯೊಂದಿಗೆ ಹೋಲಿಸಿ
 
 
 <a id="sec-3-2"></a>
+
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-3--adjective-to-noun--ತನ) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-3-2)
 
 ### ೩.೨ ತಿರುಗು ರೀತಿ — ಹೆಸರುಪದದಿಂದ ಪರಿಚೆಪದ
 
@@ -172,6 +194,8 @@ redirect_from:
 
 <a id="ch4"></a>
 
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-45--verb-to-noun) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#ch4)
+
 ## ಭಾಗ ೪–೫ — ಎಸಕಪದದಿಂದ ಹೆಸರುಪದ
 
 [↑ ಒಳಪಿಡಿಗೆ ಹಿಂತಿರುಗಿ](#toc)
@@ -181,12 +205,16 @@ redirect_from:
 
 <a id="sec-4-1"></a>
 
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-45--verb-to-noun) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-4-1)
+
 ### ೪.೧ ಎಸಗುಗ ಒಟ್ಟು -ಗ/-ಇಗ
 
 ತುಂಡು ಒಂದು ಹೊಸ ಪದಗಳನ್ನು ಕಟ್ಟುವಲ್ಲಿ ಕನ್ನಡದ ಒಲವುಗಳು ಎರಡು ಹೊಸ ಹೆಸರು ಪದಗಳನ್ನು ಕಟ್ಟುವ ಬಗೆ ಮಂದಿ ಪುರುಳು ಪರಿಚೆ ಎಸಕ ಮೊದಲಾದವನ್ನು ಹೆಸರಿಸುವುದಕ್ಕಾಗಿ ನಮಗೆ ಹಲವು ರೀತಿ ಪದಗಳು ಬೇಕಾಗುತ್ತವೆ ಸಾಲ ಮಾಡಿದಾತನನ್ನು ಹೆಸರಿಸಲು ಸಾಲಗಾರ ಎಂಬ ಪದ ಬೇಡಲು ಬಂದವನನ್ನು ಹೆಸರಿಸಲು ಬೇಡುಗ ಎಂಬ ಪದ ಸೆರೆ ಸಿಕ್ಕಿದವನನ್ನು ಹೆಸರಿಸಲು ಸೆರೆಯಾಳು ಎಂಬ ಪದ ಹುಚ್ಚು ಹಿಡಿದವನನ್ನು ಹೆಸರಿಸಲು ಹುಚ್ಚ ಎಂಬ ಪದ ಹೀಗೆ ಹಲವು ರೀತಿಯ ಪದಗಳನ್ನು ನಾವು ಈಗಾಗಲೇ ನಮ್ಮ ನುಡಿಯಲ್ಲಿ ಬಳಸುತ್ತಿರುತ್ತೇವೆ ಕೆಲವೊಮ್ಮೆ ನಮ್ಮ ಮನಸ್ಸಿನಲ್ಲಿರುವುದು ಅದನ್ನು
 
 
 <a id="sec-4-2"></a>
+
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-45--verb-to-noun) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-4-2)
 
 ### ೪.೨ ವೃತ್ತಿ ಎಸಗುಗ ಒಟ್ಟು -ಗಾರ
 
@@ -195,12 +223,16 @@ redirect_from:
 
 <a id="sec-4-3"></a>
 
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-45--verb-to-noun) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-4-3)
+
 ### ೪.೩ ಒಳಗಾಗುಗ ಸಮಸ್ಯೆ (-ee ಅಂತರ)
 
 ಹೆಸರಿಸುತ್ತದೆ ಈ ಎರಡು ಬಗೆಯ ಪದಗಳಲ್ಲಿ ಹೆಸಕ ಒಂದನ್ನು ರೂಢಯಲ್ಲಿ ನಡೆಸುವ ಮಂದಿಯನ್ನು ಹೆಸರಿಸುವ ಪದಗಳೇ ಕನ್ನಡದಲ್ಲಿ ಹೆಚ್ಚು ಬಳಕೆಯಲ್ಲಿವೆ ರೂಢಯಲ್ಲಿ ಓದು ಓದುಗ ತಿನ್ನು ತಿನ್ನುಗ ಸುದ್ದಿ ಸುದ್ದಿಗ ಜರೆ ಜರೆಗ ಒಂದು ಬಾರಿ ಗೆಲ್ಲು ಗೆಲ್ಲುಗ ತೊರೆ ತೊರೆಗ ಕೊಬ್ಬು ಕೊಬ್ಬಿಗ ಕೊಂಕು ಕೊಂಕಿಗ ಆದರೆ ಕೆಲವು ಕಡೆಗಳಲ್ಲಿ ಇಂತಹ ಪದಗಳಿಗೆ ಈ ಎರಡು ರೀತಿಯ ಹುರುಳುಗಳು ಇರಬಲ್ಲವು ಎತ್ತುಗೆಗಾಗಿ ಗೆಲ್ಲುಗ ಪದ ಒಮ್ಮೆ ಗೆದ್ದವನನ್ನಾಗಲಿ ಇಲ್ಲವೇ ರೂಢಿಯಲ್ಲಿ
 
 
 <a id="sec-4-4"></a>
+
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-45--verb-to-noun) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-4-4)
 
 ### ೪.೪ ಉಪಕರಣ ಒಟ್ಟು -ಕ
 
@@ -209,12 +241,16 @@ redirect_from:
 
 <a id="sec-4-5"></a>
 
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-45--verb-to-noun) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-4-5)
+
 ### ೪.೫ ಅಮೂರ್ತ ಎಸಕ ಹೆಸರುಪದ ಒಟ್ಟು -ಇಕೆ/-ಕೆ ಮತ್ತು -ತ
 
 ಎಸಕಗಳನ್ನು ಹೆಸರಿಸುವುದು ಒಂದು ಎಸಕ ಪದ ತಿಳಿಸುವ ಯಸಕವನ್ನು ಹೆಸರಿಸುವುದಕ್ಕಾಗಿ ಎಂದರೆ ಹೆಸರು ಪದದ ಮೂಲಕ ಆ ಎಸಕವನ್ನು ಗುರುತಿಸುವುದಕ್ಕಾಗಿ ಎಸಕ ಪದಕ್ಕೆ ಒಂದು ಒಟ್ಟನ್ನು ಸೇರಿಸಿ ಅದನ್ನು ಹೆಸರು ಪದವಾಗಿ ಪಡಿಸಲು ಬರುತ್ತದೆ ಕನ್ನಡದಲ್ಲಿ ಇದಕ್ಕಾಗಿ ಹಲವು ಬಗೆಯ ಒಟ್ಟುಗಳು ಬಳಕೆಯಾಗುತ್ತವೆ ಇವುಗಳಲ್ಲಿ ಇಕೆ ಕೆ ಮತ್ತು ತ ಎಂಬ ಎರಡು ಒಟ್ಟುಗಳು ಮುಖ್ಯವಾದವುಗಳಾಗಿದ್ದು ಇಕೆ ಕೆ ಒಟ್ಟು ಉಕಾರದಲ್ಲಿ ಕೊನೆಗೊಳ್ಳುವ ಯಸಕ ಪದಗಳ ಬಳಿಕ ಬರುತ್ತದೆ ಮತ್ತು ತ ಒಟ್ಟು ಈ ಕಾರ ಇಲ್ಲವೇ ಎಕಾರದಲ್ಲಿ ಕೊನೆಗೊಳ್ಳುವ ಯಸಕ ಪದಗಳ ಬಳಿಕ ಬರುತ್ತದೆ ಈಕೆ ಕೆ ಒಟ್ಟು
 
 
 <a id="sec-4-6"></a>
+
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-45--verb-to-noun) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-4-6)
 
 ### ೪.೬ ಮೂರ್ತ ಫಲ ಹೆಸರುಪದ ಒಟ್ಟು -ಗೆ/-ಇಗೆ ಮತ್ತು -ತೆ
 
@@ -225,6 +261,8 @@ redirect_from:
 
 <a id="ch6"></a>
 
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-6--zero-derivation) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#ch6)
+
 ## ಭಾಗ ೬ — ಶೂನ್ಯ ಕಟ್ಟಣೆ
 
 [↑ ಒಳಪಿಡಿಗೆ ಹಿಂತಿರುಗಿ](#toc)
@@ -233,6 +271,8 @@ redirect_from:
 
 
 <a id="sec-6-1"></a>
+
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-6--zero-derivation) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-6-1)
 
 ### ೬.೧ ಇಂಗ್ಲಿಶ್ ಮಾಡುವಂಥದ್ದು ಕನ್ನಡ ಮಾಡಲಾಗದು
 
@@ -243,6 +283,8 @@ redirect_from:
 
 <a id="ch7"></a>
 
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-7--noun-to-noun) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#ch7)
+
 ## ಭಾಗ ೭ — ಹೆಸರುಪದದಿಂದ ಹೆಸರುಪದ
 
 [↑ ಒಳಪಿಡಿಗೆ ಹಿಂತಿರುಗಿ](#toc)
@@ -252,6 +294,8 @@ redirect_from:
 
 <a id="sec-7-1"></a>
 
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-7--noun-to-noun) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-7-1)
+
 ### ೭.೧ ತಜ್ಞ ಒಟ್ಟು -ಅರಿಗ
 
 ಮಾತುಗಾರಿಕೆ ಆಟಗಾರ ಆಟಗಾರಿಕೆ ಹೊಣೆಗಾರ ಹೊಣೆಗಾರಿಕೆ ಹುಡುಗಾಟ ಹುಡುಗಾಟಿಕೆ ಬೂಟಾಟ ಬೂಟಾಟಿಕೆ ಈ ಹೊಲಬನ್ನು ಬಳಸಿಯು ಪರೀಕ್ಷೆಯನ್ನು ಹೆಸರಿಸುವ ಹೆಸರು ಪದಗಳನ್ನು ಹೊಸದಾಗಿ ಉಂಟುಮಾಡಲು ಬರುತ್ತದೆ ಕೊಲೆಗಾರ ಕೊಲೆಗಾರಿಕೆ ಬಿಲ್ಲುಗಾರ ಬಿಲ್ಲುಗಾರಿಕೆ ಬಳೆಗಾರ ಬಳೆಗಾರಿಕೆ ಕೂಗಾಟ ಕೂಗಾಟಿಕೆ ಹಾರಾಟ ಹಾರಾಟಿಕೆ ತೂರಾಟ ತೂರಾಟಿಕೆ ಬಳೆಗಾರ ಬಳೆಗಾರಿಕೆ ಓಟಗಾರ ಓಟಗಾರಿಕೆ ಮೋಸಗಾರ ಮೋಸಗಾರಿಕೆ ಹೊಡೆದಾಟ ಹೊಡೆದಾಟಿಕೆ ಒದ್ದಾಟ ಒದ್ದಾಟಿಕೆ ಅಲೆದಾಟ ಅಲೆದಾಟಿಕೆ ಮೂರು ಪೂ ಒಟ್ಟಿನ ಬಳಕೆ ಪರಿಚಯ ಪದಗಳಿಗೆ ಇಲ್ಲವೇ ಪರಿಚಯ
@@ -259,12 +303,16 @@ redirect_from:
 
 <a id="sec-7-2"></a>
 
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-7--noun-to-noun) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-7-2)
+
 ### ೭.೨ ಪರ ಒಟ್ಟು -ಒಲವಿಗ
 
 ಪದಗಳನ್ನು ಉಂಟುಮಾಡಲು ಬರುವಂತೆ ತೋರುವುದಿಲ್ಲ ತಿರುಳು ಒಂದು ಮಂದಿಯನ್ನು ಹೆಸರಿಸಲು ಎಸಕ ಪದಗಳಿಗೆ ಗ ಇಗ ಒಟ್ಟನ್ನು ಮತ್ತು ಹೆಸರು ಪದಗಳಿಗೆ ಗ ಇಗ ಇಲ್ಲವೇ ಗಾರ ಒಟ್ಟನ್ನು ಸೇರಿಸಲು ಬರುತ್ತದೆ ಎರಡು ಹೆಸರು ಪದ ಗುರುತಿಸುವ ಪಾಂಗಿಗೂ ಅದಕ್ಕೆ ಒಟ್ಟು ಸೇರಿಸಿ ಪಡೆದ ಕಟ್ಟು ಪದ ಗುರುತಿಸುವ ಮಂದಿಗೂ ನಡುವಿರುವ ಸಂಬಂಧವನ್ನು ಹೆಚ್ಚು ಖಚಿತವಾಗಿ ತಿಳಿಸಲು ಹೆಸರು ಪದದೊಂದಿಗೆ ಹೆಸಕ ಪದವನ್ನು ಬಳಸಲು ಬರುತ್ತದೆ ಮೂರು ಎಸಕವನ್ನು ತನ್ನ
 
 
 <a id="sec-7-3"></a>
+
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-7--noun-to-noun) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-7-3)
 
 ### ೭.೩ ಕಿರಿ ರೂಪ — ಕಿರು-/ಕಿತ್ತ್-
 
@@ -275,6 +323,8 @@ redirect_from:
 
 <a id="ch8"></a>
 
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-8--quantity-and-degree-prefixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#ch8)
+
 ## ಭಾಗ ೮ — ಅಳವಿಯ ಮುನ್ನೊಟ್ಟು
 
 [↑ ಒಳಪಿಡಿಗೆ ಹಿಂತಿರುಗಿ](#toc)
@@ -284,12 +334,16 @@ redirect_from:
 
 <a id="sec-8-1"></a>
 
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-8--quantity-and-degree-prefixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-8-1)
+
 ### ೮.೧ ಎಣಿಕೆ ಬೇರು ಮುನ್ನೊಟ್ಟುಗಳು
 
 ಚ ಎಣಿಕೆ ಬೇರುಗಳ ಬಳಕೆ ಹೆಸರು ಪರಿಚಯ ಬೇರುಗಳ ಹಾಗೆ ಎಣಿಕೆ ಬೇರುಗಳನ್ನು ಹೆಸರು ಪದಗಳೊಂದಿಗೆ ಸೇರಿಸಿ ಅಡಕವಾದ ಜೋಡು ಪದಗಳನ್ನು ಉಂಟುಮಾಡುವಲ್ಲಿ ಬಳಸಲು ಬರುತ್ತದೆ ಇವುಗಳಲ್ಲಿ ಒಂದು ಎರಡು ಮತ್ತು ಮೂರು ಎಂಬ ಹುರುಳಿರುವ ಬೇರುಗಳು ಮತ್ತು ಅರ್ಧ ಎಂಬ ಹುರುಳಿನ ಬೇರು ಮುಖ್ಯವಾದವುಗಳು ಒಂದು ಮತ್ತು ಎರಡು ಎಂಬ ಹುರುಳಿನ ಬೇರುಗಳಿಗೆ ಓರ್ ಒರ್ ಮತ್ತು ಈರ್ ಇರ್ ಎಂಬುದಾಗಿ ಎರಡೆರಡು ರೂಪಗಳಿದ್ದು ಇವುಗಳಲ್ಲಿ ಉದ್ದ ತೆರೆಯುಲಿ ಇರುವ ರೂಪ ತೆರೆಯುಲಿಗಳೆದುರು ಬರುತ್ತದೆ ಮತ್ತು ಗಿಡ್ಡ ತೆರೆಯುಲಿ ಇರುವ ರೂಪ ಮುಚ್ಚುಲಿಗಳೆದುರು ಬರುತ್ತದೆ ಮೂರು ಎಂಬ ಹುರುಳಿನ
 
 
 <a id="sec-8-2"></a>
+
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-8--quantity-and-degree-prefixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-8-2)
 
 ### ೮.೨ ಹಂತ ಮುನ್ನೊಟ್ಟುಗಳು
 
@@ -300,6 +354,8 @@ redirect_from:
 
 <a id="ch9"></a>
 
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-9--spatial-prefixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#ch9)
+
 ## ಭಾಗ ೯ — ಇಂಬಿನ ಮುನ್ನೊಟ್ಟು
 
 [↑ ಒಳಪಿಡಿಗೆ ಹಿಂತಿರುಗಿ](#toc)
@@ -308,6 +364,8 @@ redirect_from:
 
 
 <a id="sec-9-1"></a>
+
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-9--spatial-prefixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-9-1)
 
 ### ೯.೧ ಇಂಬಿನ ಮುನ್ನೊಟ್ಟು ವ್ಯವಸ್ಥೆ
 
@@ -318,6 +376,8 @@ redirect_from:
 
 <a id="ch10"></a>
 
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-10--temporal-prefixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#ch10)
+
 ## ಭಾಗ ೧೦ — ಹೊತ್ತಿನ ಮುನ್ನೊಟ್ಟು
 
 [↑ ಒಳಪಿಡಿಗೆ ಹಿಂತಿರುಗಿ](#toc)
@@ -326,6 +386,8 @@ redirect_from:
 
 
 <a id="sec-10-1"></a>
+
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-10--temporal-prefixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-10-1)
 
 ### ೧೦.೧ ಹೊತ್ತಿನ ಮುನ್ನೊಟ್ಟು ವ್ಯವಸ್ಥೆ
 
@@ -336,6 +398,8 @@ redirect_from:
 
 <a id="ch11"></a>
 
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-1112--negation-prefixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#ch11)
+
 ## ಭಾಗ ೧೧–೧೨ — ಅಲ್ಲಗಳೆಯುವ ಮುನ್ನೊಟ್ಟು
 
 [↑ ಒಳಪಿಡಿಗೆ ಹಿಂತಿರುಗಿ](#toc)
@@ -345,6 +409,8 @@ redirect_from:
 
 <a id="sec-11-1"></a>
 
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-1112--negation-prefixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-11-1)
+
 ### ೧೧.೧ ಇಲ್ಲ ಮತ್ತು ಅಲ್ಲ — ಕನ್ನಡದ ವಿಶಿಷ್ಟ ವ್ಯತ್ಯಾಸ
 
 ಅಲ್ಲಗೆಳೆತದ ಮುನ್ನೊಟ್ಟುಗಳು ಇಂಗ್ಲಿಷ್ನಲ್ಲಿ ಒಂದು ಪದ ತಿಳಿಸುವ ಹುರುಳನ್ನು ಅಲ್ಲಗೆಳೆಯಲು ಇಲ್ಲವೇ ಅದರ ಎದುರು ಹುರುಳನ್ನು ತಿಳಿಸಲು ಮುಖ್ಯವಾಗಿ ಎನ್ ಎನ್ ಟಿ ಐ ಡಿ ಇ ಡಿ ಐ ಎಸ್ ಐ ಎನ್ ಎನ್ ಓ ಎನ್ ಮತ್ತು ಯು ಎನ್ ಎಂಬ ಏಳು ಮುನ್ನೊಟ್ಟುಗಳನ್ನು ಬಳಸಲಾಗುತ್ತದೆ ಎಂ ಎಲ್ ಮತ್ತು ಎಂ ಐ ಎಸ್ ಎಂಬ ಬೇರೆ ಎರಡು ಒಟ್ಟುಗಳು ಇವಕ್ಕೆ ಹತ್ತಿರದ ಹುರುಳನ್ನು ಕೊಡುತ್ತವೆ ಎಂದು ಹೇಳಬಹುದು ಆದರೆ ಇವಕ್ಕೆ ಅಲ್ಲಗೆಳೆಯುವ ಹುರುಳಿಗಿಂತಲೂ ತಪ್ಪು ಇಲ್ಲವೇ ಕೆಟ್ಟ ಎಂಬ ಹುರುಳು ಮತ್ತು ಕೀಳ್ಪಡಿಸುವ ಹುರುಳಿದೆ ಕನ್ನಡದಲ್ಲಿ ಇಂತಹ ಅಲ್ಲಗೆಳೆಯುವ ಇಲ್ಲವೇ ಎದುರು
@@ -352,12 +418,16 @@ redirect_from:
 
 <a id="sec-11-2"></a>
 
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-1112--negation-prefixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-11-2)
+
 ### ೧೧.೨ ಅಲ್ಲಗಳೆಯುವ ಮುನ್ನೊಟ್ಟು ಸಮಾನಗಳು
 
 ನಾಲ್ಕು ಡಿ ಐ ಎಸ್ ಒಟ್ಟು ಈ ಒಟ್ಟಿಗೆ ಕ ಅಲ್ಲಗೆಳೆಯುವ ಹುರುಳು ಮತ್ತು ಚ ಎದುರು ಹುರುಳು ಎಂಬುದಾಗಿ ಎರಡು ಬಗೆಯ ಹುರುಳುಗಳಿವೆ ಅಲ್ಲಗೆಳೆಯುವ ಹುರುಳಿರುವಲ್ಲಿ ಒಂದು ಅದನ್ನು ಎಸಕ ಪದಗಳಿಗೆ ಸೇರಿಸಿದಾಗ ಅದು ಎಸಕವನ್ನು ಅಲ್ಲಗೆಳೆಯುತ್ತದೆ ಮತ್ತು ಎರಡು ಹೆಸರು ಪದ ಇಲ್ಲವೇ ಪರಿಚಯ ಪದಕ್ಕೆ ಸೇರಿಸಿದಾಗ ಅದು ಪಾಂಗಿನ ಇಲ್ಲವೇ ಪರಿಚಯ ಇರವನ್ನು ಅಲ್ಲಗೆಳೆಯುತ್ತದೆ ಕ ಒಂದು ಎಸಕವನ್ನು ಅಲ್ಲಗೆಳೆಯುವುದಿದ್ದಲ್ಲಿ ಅದಕ್ಕೆ ಸಾಟಿಯಾಗುವಂತೆ ಕನ್ನಡದಲ್ಲಿ ಎಸಕ ಪದದ ಅಲ್ಲಗೆಳೆಯುವ ಜೋಡಿಸುವ ರೂಪಕ್ಕೆ ಇರು ಇಲ್ಲವೇ ಆಗು
 
 
 <a id="sec-11-3"></a>
+
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-1112--negation-prefixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-11-3)
 
 ### ೧೧.೩ ಇತರ ಅಲ್ಲಗಳೆಯುವ ರೀತಿಗಳು
 
@@ -368,6 +438,8 @@ redirect_from:
 
 <a id="ch13"></a>
 
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-13-and-17--verb-creation) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#ch13)
+
 ## ಭಾಗ ೧೩ ಮತ್ತು ೧೭ — ಎಸಕಪದಗಳನ್ನು ಕಟ್ಟುವುದು
 
 [↑ ಒಳಪಿಡಿಗೆ ಹಿಂತಿರುಗಿ](#toc)
@@ -377,12 +449,16 @@ redirect_from:
 
 <a id="sec-13-1"></a>
 
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-13-and-17--verb-creation) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-13-1)
+
 ### ೧೩.೧ ಒಂದೇ ಉತ್ಪಾದಕ ಎಸಕಪದ ಒಟ್ಟು — -ಇಸು
 
 ಮೂರು ಹೊಸ ಯಸಕ ಪದಗಳನ್ನು ಕಟ್ಟುವ ಬಗೆ ಹೊಸ ಎಸಕ ಪದ ವರ್ಬ್ ಗಳನ್ನು ಕಟ್ಟುವಲ್ಲಿ ನಮ್ಮ ಮುಂದಿರುವ ಪದದೊಂದಿಗೆ ಒಂದು ಒಟ್ಟುಗಳನ್ನು ಬಳಸಿ ಕಟ್ಟು ಪದಗಳನ್ನು ಕಟ್ಟುವುದು ಇಲ್ಲವೇ ಎರಡು ಎಸಕ ಪದಗಳನ್ನು ಬಳಸಿ ಕೂಡು ಪದಗಳನ್ನು ಕಟ್ಟುವುದು ಎಂಬುದಾಗಿ ಎರಡು ಹೊಲಬುಗಳು ಬಳಕೆಯಲ್ಲಿವೆ ಎತ್ತುಗೆಗಾಗಿ ಹಂಗು ಎಂಬ ಹೆಸರು ಪದಕ್ಕೆ ಇಸು ಒಟ್ಟನ್ನು ಸೇರಿಸಿ ಹಂಗಿಸು ಎಂಬ ಎಸಕ ಪದವನ್ನು ಉಂಟುಮಾಡಲಾಗಿದೆ ಎತ್ತರ ಎಂಬ ಹೆಸರು ಪರೀಕ್ಷೆಗೆ ಇದೆ ಒಟ್ಟನ್ನು ಸೇರಿಸಿ ಎತ್ತರಿಸು ಎಂಬ ಬೇರೊಂದು ಎಸಕ ಪದವನ್ನು ಉಂಟುಮಾಡಲಾಗಿದೆ ಮತ್ತು ಗಮಗಮನೆ ಎಂಬ ಅಣಕಿಸುವ ಪರಿಚಯ ಪದಕ್ಕೆ
 
 
 <a id="sec-13-2"></a>
+
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-13-and-17--verb-creation) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-13-2)
 
 ### ೧೩.೨ ಮೂರು ಭಾಗ ರೂಪಗಳು
 
@@ -393,6 +469,8 @@ redirect_from:
 
 <a id="ch14"></a>
 
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-1416--compound-words-and-standalone-nouns) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#ch14)
+
 ## ಭಾಗ ೧೪–೧೬ — ಜೋಡುಪದ ಮತ್ತು ನಿಂತ ಹೆಸರುಪದ
 
 [↑ ಒಳಪಿಡಿಗೆ ಹಿಂತಿರುಗಿ](#toc)
@@ -402,12 +480,16 @@ redirect_from:
 
 <a id="sec-14-1"></a>
 
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-1416--compound-words-and-standalone-nouns) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-14-1)
+
 ### ೧೪.೧ ಜೋಡು ಹೆಸರುಪದ
 
 ಜೋಡು ಪದಗಳನ್ನು ಕಟ್ಟುವುದು ಕನ್ನಡದಲ್ಲಿ ಹೆಸರು ಪದಗಳ ಮುಂದೆ ಒಂದು ಬೇರೆ ಹೆಸರು ಪದಗಳನ್ನು ಎರಡು ಎಸಕ ಪದಗಳನ್ನು ಇಲ್ಲವೇ ಮೂರು ಪರಿಚಯ ಪದಗಳನ್ನು ಇರಿಸಿ ಹೊಸ ಹೆಸರು ಪದಗಳನ್ನು ಉಂಟುಮಾಡಲು ಬರುತ್ತದೆ ಇದಕ್ಕೆ ಕೆಲವು ಎತ್ತುಗೆಗಳನ್ನು ಕೆಳಗೆ ಕೊಡಲಾಗಿದೆ ಹೆಸರು ಪದ ಪ್ಲಸ್ ಹೆಸರು ಪದ ಮನೆ ಕೆಲಸ ಕಣ್ಣು ಸನ್ನೆ ಕೈ ಕೊಡಲಿ ನೂಲೇಣಿ ಮರಗಾಲು ಜೇನು ಹುಳ ತಪ್ಪು ಕಾಣಿಕೆ ತಲೆಗೂದಲು ಕಣ್ಣೀರು ಎಸಕ ಪದ ಪ್ಲಸ್ ಹೆಸರು ಪದ ಸುರಿಮಳೆ ಜಾರುಬಂಡಿ ಚುಚ್ಚುಮದ್ದು ಬೀಸುಗಲ್ಲು ಸಿಡಿಮದ್ದು ಊರುಗೋಲು ಬಿಡುಮುಡಿ ಹುಟ್ಟುಹಬ್ಬ ಬಿಚ್ಚುಗತ್ತಿ ಪರಿಚಯ ಪದ ಪ್ಲಸ್ ಹೆಸರು
 
 
 <a id="sec-14-2"></a>
+
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-1416--compound-words-and-standalone-nouns) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-14-2)
 
 ### ೧೪.೨ ಜೋಡು ಎಸಕಪದ
 
@@ -416,12 +498,16 @@ redirect_from:
 
 <a id="sec-14-3"></a>
 
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-1416--compound-words-and-standalone-nouns) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-14-3)
+
 ### ೧೪.೩ ಜೋಡಣೆಯ ಮುಖ್ಯ ನಿಯಮ
 
 ಸೇರಿಸಲಾಗಿದೆ ಮತ್ತು ಈ ಪರಿಚಯ ಬೇರು ಎಲ್ಲಿಗೆ ಕರೆಯಲಾಗಿದೆ ಹಿಂದಕ್ಕೆ ಎಂಬುದನ್ನು ಎಂದರೆ ಯಸಕದ ಪರಿಚಯನ್ನು ತಿಳಿಸುತ್ತದೆ ಬೇರೆ ಯಸಕ ಪದಗಳೊಂದಿಗೂ ಇಂತಹ ಹೆಸರು ಪದಗಳನ್ನು ಬಳಸಿ ಹೊಸ ಕೂಡು ಪದಗಳನ್ನು ಉಂಟುಮಾಡಲು ಬರುತ್ತದೆ ಕೂಡು ಪದಗಳಲ್ಲಿ ಪರಿಚಯ ಪದಗಳ ಬಳಕೆ ಹೆಸಕ ಪದಗಳೊಂದಿಗೆ ಪರಿಚಯ ಪದಗಳನ್ನು ಸೇರಿಸಿ ಉಂಟುಮಾಡಿರು ಕೂಡು ಪದಗಳಲ್ಲಿ ಹೆಚ್ಚಿನವುಗಳಲ್ಲೂ ಎಸಕಗಳ ಪರಿಚಯವನ್ನು ತಿಳಿಸುವ ಒಳ ಹೊರ ಮುನ್ ಹಿನ್ ಮೊದಲಾದ ಪರಿಚಯ ಬೇರುಗಳು ಇಲ್ಲವೇ ಪರಿಚಯ ಪದಗಳು
 
 
 <a id="sec-15-1"></a>
+
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-1416--compound-words-and-standalone-nouns) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-15-1)
 
 ### ೧೫.೧ ನಿಂತ ಇಂಗ್ಲಿಶ್ ಹೆಸರುಪದ — ತೀರ್ಮಾನ ಕ್ರಮ
 
@@ -432,6 +518,8 @@ redirect_from:
 
 <a id="ch18"></a>
 
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-18--neo-classical-roots) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#ch18)
+
 ## ಭಾಗ ೧೮ — ನವ-ಶಾಸ್ತ್ರೀಯ ಬೇರುಗಳು
 
 [↑ ಒಳಪಿಡಿಗೆ ಹಿಂತಿರುಗಿ](#toc)
@@ -441,12 +529,16 @@ redirect_from:
 
 <a id="sec-18-1"></a>
 
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-18--neo-classical-roots) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-18-1)
+
 ### ೧೮.೧ ಬೇರು ಸಮಾನಗಳು
 
 ನಾಲ್ಕು ಹೊಸ ಪರಿಚಯ ಪದಗಳನ್ನು ಕಟ್ಟುವ ಬಗೆ ಕನ್ನಡದಲ್ಲಿ ಮುಖ್ಯವಾಗಿ ಎರಡು ಬಗೆಯ ಪರಿಚಯ ಪದಗಳಿದ್ದು ಅವನ್ನು ಹೆಸರು ಪರಿಚಯಗಳು ಮತ್ತು ಎಸಕ ಪರಿಚಯಗಳು ಎಂಬುದಾಗಿ ಕರೆಯಬಹುದು ಇವುಗಳಲ್ಲಿ ಹೆಸರು ಪರಿಚಯಗಳು ಹೆಸರು ಪದಗಳೊಂದಿಗೆ ಅವು ಗುರುತಿಸುವ ಪಾಂಗುಗಳ ಪರಿಚಯ ತಿಳಿಸುವುದಕ್ಕಾಗಿ ಹೆಸರುಕಂತೆಗಳಲ್ಲಿ ಬಳಕೆಯಾಗುತ್ತವೆ ಮತ್ತು ಯಸಕ ಪರಿಚಯಗಳು ಅವು ತಿಳಿಸುವ ಯಸಕದ ಪರಿಚಯನ್ನು ತಿಳಿಸುವುದಕ್ಕಾಗಿ ಸೊಲ್ಲುಗಳಲ್ಲಿ ಬಳಕೆಯಾಗುತ್ತವೆ ಎತ್ತುಗೆಗಾಗಿ ಕಹಿ ಕೆಂಪು ತೆಳು ದೊಡ್ಡ ಮೊದಲಾದವು ಹೆಸರು ಪರಿಚಯಗಳು ಇವನ್ನು ಕಹಿ ತಿಂಡಿ ಕೆಂಪು ಹೂ ತೆಳು ಬಟ್ಟೆ ದೊಡ್ಡ
 
 
 <a id="sec-18-2"></a>
+
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-18--neo-classical-roots) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-18-2)
 
 ### ೧೮.೨ ಒಟ್ಟು ಸಮಾನಗಳು
 
@@ -457,6 +549,8 @@ redirect_from:
 
 <a id="ch19"></a>
 
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-1928--english-noun-forming-suffixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#ch19)
+
 ## ಭಾಗ ೧೯–೫೨ — ಅನ್ವಯ — ಇಂಗ್ಲಿಶ್ ಒಟ್ಟುಗಳ ವಿಶ್ಲೇಷಣೆ
 
 [↑ ಒಳಪಿಡಿಗೆ ಹಿಂತಿರುಗಿ](#toc)
@@ -466,10 +560,14 @@ redirect_from:
 
 <a id="ch19-28"></a>
 
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-1928--english-noun-forming-suffixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#ch19-28)
+
 ### ಭಾಗ ೧೯–೨೮ — ಹೆಸರುಪದ ಕಟ್ಟುವ ಹಿನ್ನೊಟ್ಟುಗಳು
 
 
 <a id="sec-19-1"></a>
+
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-1928--english-noun-forming-suffixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-19-1)
 
 #### ೧೯.೧ ಎಸಗುಗ ಹಿನ್ನೊಟ್ಟುಗಳು — -er/-or, -ist, -eer, -ian
 
@@ -478,6 +576,8 @@ redirect_from:
 
 <a id="sec-19-2"></a>
 
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-1928--english-noun-forming-suffixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-19-2)
+
 #### ೧೯.೨ ಅಮೂರ್ತ ಗುಣ ಹಿನ್ನೊಟ್ಟುಗಳು — -ness, -ity, -ism, -dom, -hood, -ship
 
 ತಿರುಳು ಇಂಗ್ಲಿಷ್ ಪರಿಚಯ ಪದ ಅಡ್ಜೆಕ್ಟಿವ್ ಗಳಿಂದ ಹೆಸರು ಪದ ನೌನ್ ಗಳನ್ನು ಪಡೆಯಲು ಮುಖ್ಯವಾಗಿ ಐ ಟಿ ವೈ ಮತ್ತು ಎನ್ ಇಸ್ ಎಸ್ ಎಂಬ ಎರಡು ಒಟ್ಟುಗಳನ್ನು ಬಳಸಲಾಗುತ್ತದೆ ಈ ಒಟ್ಟುಗಳಿರುವ ಹೆಸರು ಪದಗಳಿಗೆ ಸಾಟಿಯಾಗಬಲ್ಲ ಹೊಸ ಪದಗಳನ್ನು ಕನ್ನಡದಲ್ಲಿ ಕಟ್ಟಲು ತನ ಎಂಬ ಒಟ್ಟು ಬಳಸಲು ಬರುತ್ತದೆ ಆದರೆ ಕೆಲವೆಡೆಗಳಲ್ಲಿ ಇಂಗ್ಲಿಷ್ ಪರಿಚಯ ಪದಗಳಿಗೆ ಸಾಟಿಯಾಗಬಲ್ಲ ಪರಿಚಯ ಪದಗಳು ಕನ್ನಡದಲ್ಲಿ ಸಿಗುವುದಿಲ್ಲ ಇದಕ್ಕೆ ಬದಲು ಪರಿಚಯ ಹೆಸರಿಸುವ ಮತ್ತು ಐ ಟಿ ವೈ ಇಲ್ಲವೇ ಎನ್ ಇ ಎಸ್ ಎಸ್ ಒಟ್ಟುಗಳಿರುವ ಪದಗಳಿಗೆ
@@ -485,12 +585,16 @@ redirect_from:
 
 <a id="sec-19-3"></a>
 
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-1928--english-noun-forming-suffixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-19-3)
+
 #### ೧೯.೩ ಎಸಕ ಮತ್ತು ಕ್ರಿಯೆ ಹಿನ್ನೊಟ್ಟುಗಳು — -tion/-sion, -ment, -ance/-ence, -ure, -age
 
 ಎಸಕ ಪದಗಳಿಂದ ಪಡೆದ ಹೆಸರು ಪದಗಳು ಇಂಗ್ಲಿಷ್ ಎಸಕ ಪದ ವರ್ಬ್ ಗಳಿಂದ ಹೆಸರು ಪದ ನೌನ್ ಗಳನ್ನು ಪಡೆಯುವಲ್ಲಿ ಹಲವು ಹಿನ್ನೊಟ್ಟುಗಳು ಬಳಕೆಯಾಗುತ್ತವೆ ಇವುಗಳಲ್ಲಿ ಈ ಆರ್ ಓ ಆರ್ ಎ ಟಿ ಐ ಓ ಎನ್ ಮತ್ತು ಐ ಎನ್ ಜಿ ಎಂಬವುಗಳು ಮುಖ್ಯವಾದವುಗಳು ಎಸಕ ಪದ ಹೆಸರು ಪದ ಕಿಲ್ ಕಿಲ್ಲರ್ ಸೆಲೆಕ್ಟ್ ಸೆಲೆಕ್ಟರ್ ಮೈಗ್ರೇಟ್ ಮೈಗ್ರೇಶನ್ ಟೀಚ್ ಟೀಚಿಂಗ್ ಇದಲ್ಲದೆ ಎಂ ಇ ಎನ್ ಟಿ ಇ ಎಲ್ ಎನ್ ಟಿ ಇ ಎನ್ ಟಿ ಎ ಜಿ ಇ ಎಂಬಂತಹ ಬೇರೆಯೂ ಕೆಲವು ಹಿನ್ನೊಟ್ಟುಗಳು ಇದೇ ಕೆಲಸದಲ್ಲಿ ಬಳಕೆಯಾಗುತ್ತವೆ ಎಸಕ ಪದ ಹೆಸರು ಪದ ರಿಪ್ಲೇಸ್
 
 
 <a id="sec-19-4"></a>
+
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-1928--english-noun-forming-suffixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-19-4)
 
 #### ೧೯.೪ ಫಲ ಮತ್ತು ಉತ್ಪತ್ತಿ ಹಿನ್ನೊಟ್ಟುಗಳು — -ure, -age (ಫಲ)
 
@@ -501,10 +605,14 @@ redirect_from:
 
 <a id="ch29-36"></a>
 
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-2936--english-verb-and-adjective-suffixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#ch29-36)
+
 ### ಭಾಗ ೨೯–೩೬ — ಎಸಕಪದ ಮತ್ತು ಪರಿಚೆಪದ ಕಟ್ಟುವ ಹಿನ್ನೊಟ್ಟುಗಳು
 
 
 <a id="sec-29-1"></a>
+
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-2936--english-verb-and-adjective-suffixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-29-1)
 
 #### ೨೯.೧ ಎಸಕಪದ ಕಟ್ಟುವ ಹಿನ್ನೊಟ್ಟುಗಳು — -ize/-ise, -ify, -en
 
@@ -512,6 +620,8 @@ redirect_from:
 
 
 <a id="sec-29-2"></a>
+
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-2936--english-verb-and-adjective-suffixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-29-2)
 
 #### ೨೯.೨ ಪರಿಚೆಪದ ಕಟ್ಟುವ ಹಿನ್ನೊಟ್ಟುಗಳು — -ful, -less, -ous, -ive, -ible/-able, -al, -ic
 
@@ -522,10 +632,14 @@ redirect_from:
 
 <a id="ch37-52"></a>
 
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-3752--english-prefixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#ch37-52)
+
 ### ಭಾಗ ೩೭–೫೨ — ಇಂಗ್ಲಿಶ್ ಮುನ್ನೊಟ್ಟುಗಳ ವಿಶ್ಲೇಷಣೆ
 
 
 <a id="sec-37-1"></a>
+
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-3752--english-prefixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-37-1)
 
 #### ೩೭.೧ ಅಳವಿ/ಹಂತ ಮುನ್ನೊಟ್ಟುಗಳು — hyper-, mega-, micro-, mini-, super-
 
@@ -534,6 +648,8 @@ redirect_from:
 
 <a id="sec-37-2"></a>
 
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-3752--english-prefixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-37-2)
+
 #### ೩೭.೨ ಇಂಬಿನ ಮುನ್ನೊಟ್ಟುಗಳು — inter-, intra-, extra-, trans-, sub-, super-
 
 ಇಂಬಿನ ಮುನ್ನೊಟ್ಟುಗಳು ಇಂಬಿನ ಹುರುಳನ್ನು ತಿಳಿಸಲು ಇಂಗ್ಲಿಷ್ನಲ್ಲಿ ಮುಖ್ಯವಾಗಿ ಎಫ್ ಓ ಆರ್ ಇ ಐ ಎನ್ ಟಿ ಇ ಆರ್ ಓ ಯು ಟಿ ಓ ವಿ ಆರ್ ಎಸ್ ಯು ಬಿ ಎಸ್ ಯು ಪಿ ಇ ಆರ್ ಟಿ ಆರ್ ಎನ್ ಎಸ್ ಯು ಎನ್ ಡಿ ಇ ಆರ್ ಇಸ್ ಮತ್ತು ಈ ಎಕ್ಸ್ ಟಿ ಆರ್ ಎ ಎಂಬ 10 ಮುನ್ನೊಟ್ಟುಗಳು ಬಳಕೆಯಾಗಿ ಆಗುತ್ತವೆ ಇವಕ್ಕೆ ಸಾಟಿಯಾಗುವಂತೆ ಕನ್ನಡದಲ್ಲಿ ಎಂತಹ ಪದಗಳನ್ನು ಇಲ್ಲವೇ ಬೇರುಗಳನ್ನು ಬಳಸಲು ಬರುತ್ತದೆ ಎಂಬುದನ್ನು ಕೆಳಗೆ ವಿವರಿಸಲಾಗಿದೆ ಒಂದು ಫೋರ್ ಒಟ್ಟು ಈ ಒಟ್ಟಿಗೆ ಮುಂದಿನ ಎಂಬ ಇಂಬಿನ ಹುರುಳು ಮತ್ತು ಮೊದಲಿನ ಎಂಬ ಹೊತ್ತಿನ
@@ -541,12 +657,16 @@ redirect_from:
 
 <a id="sec-37-3"></a>
 
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-3752--english-prefixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-37-3)
+
 #### ೩೭.೩ ಹೊತ್ತಿನ ಮುನ್ನೊಟ್ಟುಗಳು — pre-, post-, re-, ex-, neo-, paleo-
 
 ಹೊತ್ತಿನ ಮುನ್ನೊಟ್ಟುಗಳು ಹೊತ್ತಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಮುಖ್ಯವಾಗಿ ಈ ಎಕ್ಸ್ ಎಫ್ ಓ ಆರ್ ಇ ಪಿ ಓ ಎಸ್ ಟಿ ಪಿ ಆರ್ ಇ ಎನ್ ಟಿ ಇ ಆರ್ ಇ ಎನ್ ಇ ಓ ಪಿ ಎಲ್ ಇ ಓ ಮತ್ತು ಪಿ ಆರ್ ಓ ಟಿ ಓ ಎಂಬ ಒಂಬತ್ತು ಮುನ್ನೊಟ್ಟುಗಳು ಇಂಗ್ಲಿಷ್ನಲ್ಲಿ ಬಳಕೆಯಲ್ಲಿವೆ ಕನ್ನಡದಲ್ಲಿ ಮುನ್ನೊಟ್ಟುಗಳನ್ನು ಇಲ್ಲದಿದ್ದರೂ ಕೆಲವು ಪದಗಳನ್ನು ಇಲ್ಲವೇ ಬೇರುಗಳನ್ನು ಅವುಗಳ ಜಾಗದಲ್ಲಿ ಇರಿಸಿ ಹೊಸ ಪದಗಳನ್ನು ಉಂಟುಮಾಡಲು ಬರುತ್ತದೆ ಎತ್ತಿಗೆಗಾಗಿ ಇಂಗ್ಲಿಷ್ನ ಎಫ್ ಓ ಆರ್ ಇ ಎಂಬ ಮುನ್ನೊಟ್ಟಿಗೆ ಸಾಟಿಯಾಗಿ ಕನ್ನಡದಲ್ಲಿ ಮುನ್ ಎಂಬ ಬೇರನ್ನು ಅದೇ
 
 
 <a id="sec-37-4"></a>
+
+[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-3752--english-prefixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-37-4)
 
 #### ೩೭.೪ ಅಲ್ಲಗಳೆಯುವ ಮುನ್ನೊಟ್ಟುಗಳು — dis-, un-, non-, anti-, de-, in-/im-/ir-/il-
 

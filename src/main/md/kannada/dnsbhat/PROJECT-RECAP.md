@@ -521,6 +521,68 @@ Fix: Regenerate from `kn.md` using `gen_kn_eke.py`, replacing hand-authored cont
 
 ---
 
+### Phase 16 — Cross-Link Audit + Nav Transformation Fix (2026-03-17)
+
+**Motivation:** After adding cross-links to kn.md files in prior phases, two systemic issues remained:
+1. `kn.md` cross-links used wrong label (`[ingliS →]` — Eke romanisation of "English" — instead of `[English →]`)
+2. `gen_kn_eke.py` passed `[English →] | [Eke →]` nav lines through verbatim, so regenerated `kn-eke.md` files had self-referential `[Eke →]` links pointing at themselves
+3. `02-kn.md` had zero cross-links (the user reported `#ch2` had no navigation to English or Eke)
+
+**Audit of all kn.md files for cross-links:**
+
+| Book | [English →] links | [ingliS →] links | Status |
+|------|-------------------|------------------|--------|
+| 02 | 0 | 0 | ❌ Missing — added 60 |
+| 03 | 9 (1/chapter) | 0 | ✅ |
+| 07 vol1 | 4 (1/chapter) | 0 | ✅ |
+| 07 vol2 | 2 (1/chapter) | 0 | ✅ |
+| 08 | 38 (1/section) | 0 | ✅ |
+| 14 | 0 | 82 | ❌ Wrong label — renamed to [English →] |
+| 17 | 12 | 0 | ✅ |
+| 25 | 11 | 0 | ✅ |
+| 27 | 5 | 0 | ✅ |
+| 28 | 12 (1/chapter) | 0 | ✅ |
+| 29 | 11 (1/chapter) | 0 | ✅ |
+
+**Fix 1 — Book 14 kn.md: rename `[ingliS →]` → `[English →]`** (82 occurrences; kn-eke.md already correct, not regenerated)
+
+**Fix 2 — `gen_kn_eke.py`: proper nav-link transformation**
+
+Previously: `[English →](en) | [Eke →](kn-eke)` was passed through verbatim into kn-eke.md — creating self-referential Eke links.
+
+Now: when generating kn-eke.md, these lines are transformed to the correct perspective:
+```
+[English →](./book-en#en-anchor) | [Eke →](./book-kn-eke#sec-id)
+  ↓  (in kn-eke.md)
+[ಕನ್nnaDa →](./book-kn#sec-id) | [English →](./book-en#en-anchor)
+```
+The kn URL is derived by stripping `-eke` from the Eke filename in the `[Eke →]` link.
+
+**Fix 3 — Book 02 kn.md: 60 cross-links added** (every chapter + section anchor)
+
+Anchor-to-English-anchor mapping (30 unique chapters/sections):
+- ch1, sec-1-[1-3] → `part-1--philosophy-and-core-principles`
+- ch2, sec-2-[1-3] → `part-2--framework-overview`
+- ch3, sec-3-[1-2] → `part-3--adjective-to-noun--ತನ`
+- ch4, sec-4-[1-6] → `parts-45--verb-to-noun`
+- ch6, sec-6-1 → `part-6--zero-derivation`
+- ch7, sec-7-[1-3] → `part-7--noun-to-noun`
+- ch8-ch11, ch13-ch14, ch18-ch19, ch29-36, ch37-52 (and their sections) → most specific en.md anchor
+
+**Regenerations:**
+
+| File | Old lines | New lines | Change |
+|------|-----------|-----------|--------|
+| `02-...-kn-eke.md` | 491 (no nav) | 611 (with nav) | +60 nav links; correct `[ಕನ್nnaDa →]` format |
+| `07-...-vol1-kn-eke.md` | 20,183 | 20,183 | Nav fixed: `[English →]\|[Eke →]` → `[ಕನ್nnaDa →]\|[English →]` |
+| `07-...-vol2-kn-eke.md` | 13,331 | 13,331 | Same nav fix |
+
+**Verbatim content audit (all kn-eke.md files):** All 11 books confirmed verbatim — non-empty line counts match kn.md exactly.
+
+**Commit:** `fix(02,14): add kn.md cross-links, fix ingliS→English, fix kn-eke nav transformation`
+
+---
+
 ## Eke Romanisation System
 
 **Ellara KannaDa (Eke)** is a romanisation of Kannada devised by Vishwas — inspired by HK protocol and DNS Bhat's ideas, designed to be learnable by any Indian and usable by non-Kannada readers. It is the romanisation used throughout the `-kn-eke.md` files.
