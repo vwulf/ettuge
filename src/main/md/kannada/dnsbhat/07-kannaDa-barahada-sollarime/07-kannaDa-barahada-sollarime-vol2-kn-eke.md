@@ -213,7 +213,7 @@ ike-hesarurUpa  emba  nAlku  naDurUpagaLU  ive.  ivellavU
 allagaLeyuva rUpagaLu embudannu gamanisabahudu.  
 
 
-
+
 Agu pada Ayitu, Aguttade, Agadu, Agi, Agada mattu Agade 
 
 emba Aru rUpagaLalli neravesakapadavAgi baLakeyAguttade. 
@@ -308,7 +308,7 @@ ddisiddEne,
 *mADabEkisu); 
 
 
-embantaha rUpagaLiveyAdarU avugaLalli iru pada neravesakapadavAgi 
+embantaha rUpagaLiveyAdarU avugaLalli iru pada neravesakapadavAgi 
 baLakeyAgilla.  
 
 
@@ -991,7 +991,7 @@ padakke kannaDadalli mumbottu (iruttAne), himbottu (idda), mattu
 Ipottu  (iddAne)  embudAgi  mUru  bageya  hottina  rUpagaLive 
 
 
-
+
 embudu  I  vivaraNege  bembala  nIDuttade.  iruha  heccu  hottu 
 uLiyuva kAraNa, adannu gamanisi adara kuritAgi hELikeyannu nIDalu 
 sAkaSTu samaya dorakuttade. 
@@ -2897,7 +2897,7 @@ taTTida'  emba  oLahuruLannu  paDeyalu  baruttade  embudu  I  viSaya
 vannu bembalisuttade. 
 
 
-
+
 koneyesakagaLU 
 
 munduvarikeya  viSayadalli 
@@ -4789,7 +4789,7 @@ Odiddirabahudu);  Adare,  idara  baLika  bahudu  illavE  bEku
 embudu arivina huruLinalli baLakeyAgiruttade (OduttiddirabEku).  
 
 
-
+
 (5) niluvina neravesakapadagaLa baLika nEravAgi iru padavannu adara 
 ittu  rUpadalli  mAtra  baLasaballevu  (OdabEkittu);  Adare,  avugaLa 
 baLika  Agi  padavannu  baLasidevAdalli,  iru  padada  ide  mattu  ittu 
@@ -5354,7 +5354,7 @@ gaLannu baLasalAguttade.
 
 [ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#adhyAya-6) | [English →](./07-kannaDa-barahada-sollarime-en#chapter-6--noun-phrase-structure)
 
-6. hesarukantegaLa iTTaLa 
+6. hesarukantegaLa iTTaLa 
 
 6.1 munnOTa 
 
@@ -5573,7 +5573,7 @@ kogetavannu  baLasi,  adu  gurutisuva  pAngu  yAvudendu  tiLiya
 bEkAguttade. 
 
 
-
+
 (2)  hesarukantegaLalli  kelavu  hesarupadagaLU  baruttiddu,  avugaLa 
 huruLannu, mEle vivarisida hAge, avu entaha pAngannu gurutisuttave 
 embudannu  tiLiyuva  mUlaka  kanDukoLLabEkAguttade;  Adare,  iDI 
@@ -5622,7 +5622,7 @@ yAva pariceyannu bEkiddarU baLasikonDu A vastuvannu gurutisaballa
 hesarukanteyannu unTumADalu baruttade.  
 
 
-
+
 ettugegAgi,  ugibanDi  emba  hesarupadavannu  unTumADuvAga, 
 `adu gurutisuva (hesarisuva) vastu yAvudarinda naDeyuttade' emba 
 viSayavannu adakkAgi Ayke mADalAgittu; idakke badalu, hIrukAgada 
@@ -5663,7 +5663,7 @@ sollugaLannu  unTumADuva  hAge,  hosa  hosa  hesarukantegaLannu
 unTumADuvudU nuDiya baLakege sambandisida kelasavAgide. 
 
 
-
+
 (6)  ondu  nuDiyalli  baLakeyalliruva  hesarugaLannu  (mattu  bEre 
 bagemiÀi padagaLannu) paTTimADabahudu; I kelasavannu nuDiya padanerake 
 gaLu  naDesuttave.  nuDiya  ADugarigintalU  barahagArarige  mattu 
@@ -5753,7 +5753,7 @@ baruttave, mattu jAgavannu tiLisuvavugaLu avakkU modalu baruttave.
 idannu keLagina ettugeyalli kANabahudu: 
 
 
-
+
 (5) 
 
 mEjina mEliruva eraDu hosa pustakagaLu  
@@ -5926,7 +5926,7 @@ idallade,  eNisaballa  mattu  eNisalAgada  padagaLembudAgiyU
 hesarupadagaLannu eraDu gumpugaLalli gumpisalu baruttade.    
 
 
-
+
 Adare, I gumpugaLu ondannondu kattarisuva kAraNa, avannu bEre 
 bErAgi  pariSIlisabEkAguttade.  mukyavAgi,  I  padagaLondige  pada 
 kantegaLalli  entaha  neravu  nuDitagaLu  baraballuvu  embudara  mEle 
@@ -6008,7 +6008,7 @@ hAgAgi,  ondu  koTTahesaru  yAradu  illavE  yAvudaraddu  embu
 dannu tiLidavarige mAtra adannu baLasalu baruttade. 
 
 
-
+
 (6)  kelavomme,  tAvu  baLasuva  koTTahesaru  yArannu  illavE 
 yAvudannu  gurutisuttade  embudu  kELugarige  gottiralArademba 
 samSayaviruvalli,  ADugaru  adarondige  bErondu  hesarukanteyannu 
@@ -6181,7 +6181,7 @@ ettugegAgi,  marada  elegaLannu  suLuvAgi  vingaDisi  ondondAgi
 gurutisi  hesarisabahudu;  hAgAgi,  ele  emba  pada  ottehesarAgi  baLake 
 
 
-
+
 yAguttade;  Adare,  hullina  `ele'gaLannu  aSTu  suLuvAgi  vingaDisi 
 gurutisalu  baruvudilla;  hAgAgi,  hullu  emba  pada  oTTaluhesarAgi 
 baLakeyAguttade. 
@@ -6484,7 +6484,7 @@ parijiruva  mattu  parijillada  padagaLa  naDuvina  kelavu  vyatyAsagaLannu
 keLage vivarisalAgide: 
 
 
-
+
 (1) mEle tiLisida hAge, parijiruva otte padagaLa hAge parijillada 
 otte  padagaLU  halaveNikeya  oTTinondige  baraballuvu  (bayakegaLu, 
 anisikegaLu),  mattu  nEravAgi  eNikeya  padagaLondigU  baraballuvu 
@@ -6613,7 +6613,7 @@ idE  rItiyalli,  ondu  mane  adannu  kaTTida  samayadalli  hattirada
 manegaLindella  hosadAgidda  kAraNa,  adakke  hosamane  emba  hesarannu 
 
 
-
+
 koTTirabahudu;  Adare  AmEle,  hattippattu  varSa  kaLeda  baLika,  sutta 
 mutta  bEre  halavu  `hosa'  manegaLannu  janaru  kaTTirabahudu; 
 hAgiddarU  hosamane  emba  A  maneya  haLeya  hesaru  badalAgade 
@@ -6703,7 +6703,7 @@ hesarupadagaLondige  baruva  paricepadagaLannu,  avugaLa  huruLannu
 avalambisi,  illavE  avu  yAva  rItiyalli  hesarupadagaLige  avugaLa 
 
 
-
+
 gurutisuva  kelasadalli  neravannu  nIDuttave  embudannavalambisi,  halavu 
 bagegaLalli  gumpisalu  baruttade.  ivugaLalli  mukyavAda  kelavu  gumpu 
 gaLannu keLage vivarisalAgide: 
@@ -7582,7 +7582,7 @@ adE padakke `oNa baTTe oddeyAgiruvantaha' ondu esakavannu tiLisuva
 huruLU ide. 
 
 
-
+
 eraDu  huruLugaLannU  koDaballa  paricepadagaLondige  Agu  pada 
 vannu  baLasidAga  ippuruLu  kANisikoLLuttade.  ettugegAgi,  kempAda 
 tuTi embudu `heccu kempillada mattu Iga kempAgiruva' tuTiyannU 
@@ -8951,7 +8951,7 @@ vAgi  takkume  huruLinalli  mAtra  baLasalAguttade  (obbaru  hiriyaru);
 Adare,  obbobbaru  emba  immaDi  rUpada  baLakeyalli  adakke  hala 
 
 
-
+
 veNikeya  huruLU  iruva  hAge  kANisuttade.  yAkendare,  obbobbaru 
 ondondu  haNNu  tandiddAre  embantaha  sollugaLalli  takkumeya 
 huruLu illadiddarU obbaru rUpa bandide. 
@@ -10886,7 +10886,7 @@ gurutisuvikegaLAgibiDuttave.
 gaLannu  baLasiyU  tiLiyalAgada  pAngugaLannu  I  rIti  hosadAgi 
 
 
-
+
 gurutisalu baruttade, mattu halavu, kelavu, tumbA, tusu, heccina 
 modalAda  bEreyU  kelavu  aLaviya  padagaLannu  baLasiyU  pAngu 
 gaLannu  hosadAgi  gurutisalu  baruttade.  idannu  keLage  koTTiruva 
@@ -12945,7 +12945,7 @@ modalAdavugaLalli I rIti ADuga mattu kELugaru kANisikoLLuvudu
 innaSTu heccu. 
 
 
-kelavu arimeya padagaLu 
+kelavu arimeya padagaLu 
 
 arikerUpa  
 arimeya pada 

@@ -537,7 +537,7 @@ C  MlÄÖ  (235),  4. E MlÄÖ (236), 5. G MlÄÖ
 
 [English →](./07-kannaDa-barahada-sollarime-en#chapter-1--preview) | [Eke →](./07-kannaDa-barahada-sollarime-vol1-kn-eke#adhyAya-1)
 
-1. ಮುನ್ನೋಟ 
+1. ಮುನ್ನೋಟ 
 
   ವ್ಯಾಕರಣ 
 
@@ -3807,7 +3807,7 @@ vÀqÉ
 
 [English →](./07-kannaDa-barahada-sollarime-en#chapter-2--word-structure-nouns) | [Eke →](./07-kannaDa-barahada-sollarime-vol1-kn-eke#adhyAya-2)
 
-2. ಪದಗಳ ಇಟ್ಟಳ:  
+2. ಪದಗಳ ಇಟ್ಟಳ:  
 ಹೆಸರುಪದಗಳು 
 
 ಮುಕ್ಯವಾಗಿ 
@@ -11711,7 +11711,7 @@ PÀA§¤
 
 [English →](./07-kannaDa-barahada-sollarime-en#chapter-3--word-structure-remaining-word-classes) | [Eke →](./07-kannaDa-barahada-sollarime-vol1-kn-eke#adhyAya-3)
 
-3. ಪದಗಳ ಇಟ್ಟಳ: 
+3. ಪದಗಳ ಇಟ್ಟಳ: 
 ಉಳಿದ ಪದಗಳು 
 
 3.1 ಮುನ್ನೋಟ 
@@ -15719,7 +15719,7 @@ vÀÛzÉ.
 
 [English →](./07-kannaDa-barahada-sollarime-en#chapter-4--inflectional-forms) | [Eke →](./07-kannaDa-barahada-sollarime-vol1-kn-eke#adhyAya-4)
 
-4. ಪದರೂಪಗಳ ಇಟ್ಟಳ  
+4. ಪದರೂಪಗಳ ಇಟ್ಟಳ  
 
 4.1 ಮುನ್ನೋಟ 
 ಪದಗಳನ್ನು  ಸೊಲ್ಲುಗಳಲ್ಲಿ  ಬಳಸುವಾಗ  ಅವಕ್ಕೆ  ಕೆಲವು  ಒಟ್ಟುಗಳನ್ನು  ಸೇರಿಸಿ 

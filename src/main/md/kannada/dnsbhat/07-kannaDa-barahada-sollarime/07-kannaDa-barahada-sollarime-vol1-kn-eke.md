@@ -535,7 +535,7 @@ padarUpagaLa iTTaLa
 
 [ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol1-kn#adhyAya-1) | [English →](./07-kannaDa-barahada-sollarime-en#chapter-1--preview)
 
-1. munnOTa 
+1. munnOTa 
 
   vyAkaraNa 
 
@@ -3805,7 +3805,7 @@ kelavu viSayagaLannu vivarisalAgide.
 
 [ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol1-kn#adhyAya-2) | [English →](./07-kannaDa-barahada-sollarime-en#chapter-2--word-structure-nouns)
 
-2. padagaLa iTTaLa:  
+2. padagaLa iTTaLa:  
 hesarupadagaLu 
 
 mukyavAgi 
@@ -11709,7 +11709,7 @@ illi gumpisalAgide.
 
 [ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol1-kn#adhyAya-3) | [English →](./07-kannaDa-barahada-sollarime-en#chapter-3--word-structure-remaining-word-classes)
 
-3. padagaLa iTTaLa: 
+3. padagaLa iTTaLa: 
 uLida padagaLu 
 
 3.1 munnOTa 
@@ -15717,7 +15717,7 @@ aDakavAgi tiLisalAgide.
 
 [ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol1-kn#adhyAya-4) | [English →](./07-kannaDa-barahada-sollarime-en#chapter-4--inflectional-forms)
 
-4. padarUpagaLa iTTaLa  
+4. padarUpagaLa iTTaLa  
 
 4.1 munnOTa 
 padagaLannu  sollugaLalli  baLasuvAga  avakke  kelavu  oTTugaLannu  sErisi 
