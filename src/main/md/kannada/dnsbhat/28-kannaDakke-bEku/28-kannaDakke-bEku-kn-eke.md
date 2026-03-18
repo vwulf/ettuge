@@ -347,6 +347,7 @@ viSayasUci
 
 [ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-1) | [English →](./28-kannaDakke-bEku-en#chapter-1--preview)
 
+
 ## 1. munnOTa {#munnOTa}
 
 1.1 vyAkaraNa parampare 
@@ -960,12 +961,10 @@ kaTTalegaLa
 tappudAriyalli sAgide embudannu tOrisikoDuva ondu prayatnavannu 
 I pustakadalli mADalAgide. vyanjana g  endAguttade
 
-
-<a id="adhyAya-2"></a>
-
-[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-2) | [English →](./28-kannaDakke-bEku-en#chapter-2--sandhi-rules)
+---
 
 ## 2. sErikeya niyamagaLu {#sErikeya-niyamagaLu}
+
 2.1 munnOTa 
 ondu  padadondige  innondu  padavannu  illavE  pratyayavannu  sErisi 
 dAga A padadalli illavE pratyayadalli kANisikoLLuva badalAvaNegaLannu 
@@ -1892,10 +1891,7 @@ nijavAdarU kannaDada maTTige vayjYAnikavalla.
 vondannu  siddhapaDisuvudu  eSTu  avaSya  emba  viSaya  idarinda  spaSTa 
 vAguttade. 
 
-
-<a id="adhyAya-3"></a>
-
-[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-3) | [English →](./28-kannaDakke-bEku-en#chapter-3--word-classes)
+---
 
 ## 3. padavagragaLu {#padavagragaLu}
 
@@ -2857,10 +2853,7 @@ vyatyAsada pariNAmavAgi I eraDu bhASegaLa naDuve vyAkaraNada maTTige
 innU  halavAru  vyatyAsagaLu  kANisikoLLuttive  embudannu  nAvu  I 
 adhyAyadalli nODiruvevu. 
 
-
-<a id="adhyAya-4"></a>
-
-[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-4) | [English →](./28-kannaDakke-bEku-en#chapter-4--internal-structure-of-words)
+---
 
 ## 4. padagaLa oLaracane {#padagaLa-oLaracane}
 
@@ -3694,10 +3687,7 @@ lAgide emba viSayavannAdharisi vagrIkarisuvudE kannaDakke  anukUla.
     padagaLa  oLaracaneya  kuritu  heccina  vivaragaLige  kannaDa padagaLa 
 oLaracane emba nanna pustakavannu (bhaT 2002) nODabahudu. 
 
-
-<a id="adhyAya-5"></a>
-
-[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-5) | [English →](./28-kannaDakke-bEku-en#chapter-5--compounds)
+---
 
 ## 5. samAsagaLu {#samAsagaLu}
 
@@ -5165,10 +5155,7 @@ vingaDisuvudu kannaDa vyAkaraNada maTTige atyanta samaprakavAda vidhAna
 vendu  hELabahudu.  samskxtadinda  kannaDakke  eravalAgi  banda  jODu 
 padagaLigU I vibhajane anvayisuttade.  
 
-
-<a id="adhyAya-6"></a>
-
-[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-6) | [English →](./28-kannaDakke-bEku-en#chapter-6--gender-and-number)
+---
 
 ## 6. linga mattu vacanagaLu {#linga-mattu-vacanagaLu}
 
@@ -5626,10 +5613,7 @@ balluvAda kAraNa, pratiyondu bhASeya vyAkaraNadallU A bhASeyalli
 kANisuva  baLake  entahadu  embudannu  pratyEkavAgi  pariSIlisi  vivarisu 
 vudu avaSya.  
 
-
-<a id="adhyAya-7"></a>
-
-[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-7) | [English →](./28-kannaDakke-bEku-en#chapter-7--case-markers-and-karaka)
+---
 
 ## 7. vibhaktigaLu mattu kArakagaLu {#vibhaktigaLu-mattu-kArakagaLu}
 
@@ -6439,10 +6423,7 @@ vyAkaraNa sambandhagaLa avaSyakate kannaDakkilla.
     nijakkU  kannaDa  vyAkaraNagaLalli  antaha  vyAkaraNa  tatvagaLannu  kalpisi 
 koLLalu prayatnisidalli halavu samasyegaLannu edurisabEkAguttade. 
 
-
-<a id="adhyAya-8"></a>
-
-[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-8) | [English →](./28-kannaDakke-bEku-en#chapter-8--case-suffixes)
+---
 
 ## 8. vibhaktigaLu {#vibhaktigaLu}
 
@@ -7372,10 +7353,7 @@ yAkendare, adu eraDu nAmapadagaLa naDuvina sambandhavannu sUcisu
 ttadeyallade  nAmapada  mattu  kriyApada  naDuviruva  sambandhavannu 
 sUcisuvudilla. 
 
-
-<a id="adhyAya-9"></a>
-
-[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-9) | [English →](./28-kannaDakke-bEku-en#chapter-9--case-alternation)
+---
 
 ## 9. vibhaktipallaTa {#vibhaktipallaTa}
 
@@ -7842,12 +7820,9 @@ vivarisuvudu sariyalla.
     samskxta  mattu  kannaDa  bhASegaLa  naDuviruva  I  mukhyavAda 
 vyatyAsavannu kannaDada vayyAkaraNigaLu gamanisidantilla.  
 
+---
 
-<a id="adhyAya-10"></a>
-
-[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-10) | [English →](./28-kannaDakke-bEku-en#chapter-10--pronouns-and-numerals)
-
-## 10. savranAmagaLu mattu eNikeya padagaLu {#sarvanAmagaLu-mattu-eNikeya-padagaLu}
+## 10. sarvanAmagaLu mattu eNikeya padagaLu {#sarvanAmagaLu-mattu-eNikeya-padagaLu}
 
 10.1 munnOTa 
 kannaDadalli  nAmapada  mattu  kriyApadagaLembudAgi  eraDu  mukhya  pada 
@@ -8342,10 +8317,7 @@ baruva savranAmagaLu ondakkinta ondu bhinnavAgive.
     kannaDada eNikeya padagaLu kelavu viSayagaLalli nAmapadagaLa hAge 
 baruvuvAdarU bEre kelavu viSayagaLalli guNapadagaLa hAge baruttave.  
 
-
-<a id="adhyAya-11"></a>
-
-[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-11) | [English →](./28-kannaDakke-bEku-en#chapter-11--verb-forms)
+---
 
 ## 11. kriyArUpagaLu {#kriyArUpagaLu}
 
@@ -9191,10 +9163,7 @@ gaLannu hAgeyE kannaDakke aLavaDisikoLLalu sAdhyavAgadu. samskxtakkinta
 tIra  bhinnavAgiruva  kannaDaddE  Ada  niyamagaLannu  tayArisikonDalli 
 mAtra kannaDada I kriyArUpagaLannu vivarisalu sAdhya.  
 
-
-<a id="adhyAya-12"></a>
-
-[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-12) | [English →](./28-kannaDakke-bEku-en#chapter-12--conclusion)
+---
 
 ## 12. muktAya {#muktAya}
 
@@ -9500,4 +9469,4 @@ vidyAbhyAsada ilAkhe.
 
 Motilal Banarsidass, Delhi. 
 
-
+---
