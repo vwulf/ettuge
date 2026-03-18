@@ -1,5 +1,5 @@
 ---
-title: "13 — dArege doDDavaru"
+title: "dArege doDDavaru"
 nav_order: 113
 redirect_from:
   - /dnsbhat/13-dharege-doddavaru/13-dharege-doddavaru

@@ -1,5 +1,5 @@
 ---
-title: "14 — nijakkU haLegannaDa vyAkaraNa entahadu"
+title: "nijakkU haLegannaDa vyAkaraNa entahadu"
 nav_order: 114
 redirect_from:
   - /dnsbhat/14-nijakku-halegannada-vyakarana-entahadu/14-nijakku-halegannada-vyakarana-entahadu

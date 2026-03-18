@@ -1,5 +1,5 @@
 ---
-title: "12 — kannaDa bhASheya kalpita caritre"
+title: "kannaDa bhASheya kalpita caritre"
 nav_order: 112
 redirect_from:
   - /dnsbhat/12-kannada-bhasheya-kalpita-charitre/12-kannada-bhasheya-kalpita-charitre

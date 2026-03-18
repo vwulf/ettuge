@@ -1,5 +1,5 @@
 ---
-title: "20 — Havyaka Outline Grammar"
+title: "Havyaka Outline Grammar"
 nav_order: 120
 ---
 

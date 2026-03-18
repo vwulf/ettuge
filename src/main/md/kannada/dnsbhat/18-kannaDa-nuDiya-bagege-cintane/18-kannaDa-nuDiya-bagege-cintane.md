@@ -1,5 +1,5 @@
 ---
-title: "18 — kannaDa nuDiya bagege cintane"
+title: "kannaDa nuDiya bagege cintane"
 nav_order: 118
 redirect_from:
   - /dnsbhat/18-kannada-nudiya-bagege-chintane/18-kannada-nudiya-bagege-chintane

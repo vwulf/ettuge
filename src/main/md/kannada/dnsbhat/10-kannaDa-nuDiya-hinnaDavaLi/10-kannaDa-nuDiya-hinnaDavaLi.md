@@ -1,5 +1,5 @@
 ---
-title: "10 — kannaDa nuDiya hinnaDavaLi"
+title: "kannaDa nuDiya hinnaDavaLi"
 nav_order: 110
 redirect_from:
   - /dnsbhat/10-kannada-nudiya-hinnadavali/10-kannada-nudiya-hinnadavali

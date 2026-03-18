@@ -1,5 +1,5 @@
 ---
-title: "07 — kannaDa barahada sollarime"
+title: "kannaDa barahada sollarime"
 nav_order: 107
 redirect_from:
   - /dnsbhat/07-kannadada-sollarime/07-kannadada-sollarime

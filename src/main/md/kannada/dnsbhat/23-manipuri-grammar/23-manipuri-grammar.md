@@ -1,5 +1,5 @@
 ---
-title: "23 — Manipuri Grammar"
+title: "Manipuri Grammar"
 nav_order: 123
 ---
 

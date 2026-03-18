@@ -1,5 +1,5 @@
 ---
-title: "03 — kannaDa padagaLa oLaracane"
+title: "kannaDa padagaLa oLaracane"
 nav_order: 103
 redirect_from:
   - /dnsbhat/03-kannada-padagala-olarachane/03-kannada-padagala-olarachane

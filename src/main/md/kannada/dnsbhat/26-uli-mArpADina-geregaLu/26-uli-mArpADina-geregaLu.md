@@ -1,5 +1,5 @@
 ---
-title: "26 — uli mArpADina geregaLu"
+title: "uli mArpADina geregaLu"
 nav_order: 126
 redirect_from:
   - /dnsbhat/26-uli-marpadina-geregalu/26-uli-marpadina-geregalu

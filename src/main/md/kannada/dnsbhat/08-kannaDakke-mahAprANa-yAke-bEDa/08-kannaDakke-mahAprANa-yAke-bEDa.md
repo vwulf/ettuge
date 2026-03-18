@@ -1,5 +1,5 @@
 ---
-title: "08 — kannaDakke mahAprANa yAke bEDa"
+title: "kannaDakke mahAprANa yAke bEDa"
 nav_order: 108
 redirect_from:
   - /dnsbhat/08-kannadakke-mahaprana-yake-beda/08-kannadakke-mahaprana-yake-beda

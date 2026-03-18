@@ -1,5 +1,5 @@
 ---
-title: "16 — nuDiyarimeya padagaLige kannaDaddE padagaLu"
+title: "nuDiyarimeya padagaLige kannaDaddE padagaLu"
 nav_order: 116
 redirect_from:
   - /dnsbhat/16-samskruta-padagalige-kannadade-padagalu/16-samskruta-padagalige-kannadade-padagalu

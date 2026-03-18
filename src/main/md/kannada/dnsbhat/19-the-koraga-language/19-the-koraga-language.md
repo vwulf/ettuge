@@ -1,5 +1,5 @@
 ---
-title: "19 — The Koraga Language"
+title: "The Koraga Language"
 nav_order: 119
 ---
 

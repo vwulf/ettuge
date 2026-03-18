@@ -1,5 +1,5 @@
 ---
-title: "11 — kannaDa barahada padasamasye"
+title: "kannaDa barahada padasamasye"
 nav_order: 111
 redirect_from:
   - /dnsbhat/11-kannada-barahada-padasamasye/11-kannada-barahada-padasamasye

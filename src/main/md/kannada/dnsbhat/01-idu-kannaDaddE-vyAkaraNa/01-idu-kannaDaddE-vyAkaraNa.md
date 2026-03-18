@@ -1,5 +1,5 @@
 ---
-title: "01 — idu kannaDaddE vyAkaraNa"
+title: "idu kannaDaddE vyAkaraNa"
 nav_order: 101
 redirect_from:
   - /dnsbhat/01-idu-kannadade-vyakarana/01-idu-kannadade-vyakarana

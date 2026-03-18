@@ -1,5 +1,5 @@
 ---
-title: "04 — mAtu mattu barahada naDuvina gondala"
+title: "mAtu mattu barahada naDuvina gondala"
 nav_order: 104
 redirect_from:
   - /dnsbhat/04-mathu-matthu-barahada-naduvina-gondala/04-mathu-matthu-barahada-naduvina-gondala

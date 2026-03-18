@@ -1,5 +1,5 @@
 ---
-title: "06 — kalikenuDi mattu nuDikalike"
+title: "kalikenuDi mattu nuDikalike"
 nav_order: 106
 redirect_from:
   - /dnsbhat/06-kalikenudi-matthu-nudikalike/06-kalikenudi-matthu-nudikalike

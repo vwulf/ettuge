@@ -1,5 +1,5 @@
 ---
-title: "17 — kannaDa nuDi naDeDu banda dAri"
+title: "kannaDa nuDi naDeDu banda dAri"
 nav_order: 117
 redirect_from:
   - /dnsbhat/17-kannada-nudi-nadedu-banda-dari/17-kannada-nudi-nadedu-banda-dari

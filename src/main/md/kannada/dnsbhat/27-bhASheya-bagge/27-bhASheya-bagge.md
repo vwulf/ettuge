@@ -1,5 +1,5 @@
 ---
-title: "27 — bhASheya bagge nIvEnu balliri?"
+title: "bhASheya bagge nIvEnu balliri?"
 nav_order: 127
 redirect_from:
   - /dnsbhat/27-baasheya-bagge/27-baasheya-bagge

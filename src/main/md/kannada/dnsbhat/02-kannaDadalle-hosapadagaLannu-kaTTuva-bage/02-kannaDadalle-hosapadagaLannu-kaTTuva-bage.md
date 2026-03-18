@@ -1,5 +1,5 @@
 ---
-title: "02 — kannaDadalle hosapadagaLannu kaTTuva bage"
+title: "kannaDadalle hosapadagaLannu kaTTuva bage"
 nav_order: 102
 redirect_from:
   - /dnsbhat/02-kannadadalle-hosapadagalannu-kattuva-bage/02-kannadadalle-hosapadagalannu-kattuva-bage

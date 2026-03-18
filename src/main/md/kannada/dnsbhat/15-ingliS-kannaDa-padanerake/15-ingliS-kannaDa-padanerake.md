@@ -1,5 +1,5 @@
 ---
-title: "15 — ingliS-kannaDa padanerake"
+title: "ingliS-kannaDa padanerake"
 nav_order: 115
 redirect_from:
   - /dnsbhat/15-inglish-kannada-padanerake/15-inglish-kannada-padanerake

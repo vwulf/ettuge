@@ -1,5 +1,5 @@
 ---
-title: "09 — havyaka kannaDa"
+title: "havyaka kannaDa"
 nav_order: 109
 redirect_from:
   - /dnsbhat/09-havyaka-kannada/09-havyaka-kannada

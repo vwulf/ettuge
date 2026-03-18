@@ -1,5 +1,5 @@
 ---
-title: "21 — Pronouns"
+title: "Pronouns"
 nav_order: 121
 ---
 

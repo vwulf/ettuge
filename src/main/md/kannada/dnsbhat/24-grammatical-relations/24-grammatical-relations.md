@@ -1,5 +1,5 @@
 ---
-title: "24 — Grammatical Relations"
+title: "Grammatical Relations"
 nav_order: 124
 ---
 

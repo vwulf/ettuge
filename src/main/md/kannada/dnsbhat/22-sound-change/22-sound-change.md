@@ -1,5 +1,5 @@
 ---
-title: "22 — Sound Change"
+title: "Sound Change"
 nav_order: 122
 ---
 

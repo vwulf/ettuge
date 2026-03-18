@@ -1,5 +1,5 @@
 ---
-title: "05 — mAtina oLaguTTu"
+title: "mAtina oLaguTTu"
 nav_order: 105
 redirect_from:
   - /dnsbhat/05-mathina-olaguttu/05-mathina-olaguttu
