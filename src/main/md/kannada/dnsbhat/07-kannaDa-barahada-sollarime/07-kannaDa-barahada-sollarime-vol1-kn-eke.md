@@ -3287,7 +3287,7 @@ cikkarUpa
 A 
  I 
 U 
-I 
+E
 O
 
 u  mattu  U  tereyuligaLa  cikkarUpadalli  a  tereyuliya  cikka 
@@ -3568,7 +3568,7 @@ blaph
 sOlphaTAra 
 
 phEj 
-epiphoIra 
+epiphOra 
 klOrOphil 
 
  
@@ -8779,7 +8779,7 @@ muduka  muduki
 ajji 
 
 daDDa 
-poIra  poIri 
+pOra  pOri 
 
 daDDi 
 
@@ -8911,13 +8911,13 @@ heDDi
 heLavi 
 
 intahadE  ganDasu-hengasu  vyatyAsavannu  tOrisuva  daDDa-daDDi, 
-muduka-muduki,  poIra-poIri,  mattu  mULa-mULi  emba 
+muduka-muduki,  pOra-pOri,  mattu  mULa-mULi  emba 
 bEre  kelavu  hesarupadagaLiddarU  avakke  samanAda  paricepadagaLu 
 baLakeyallilla;  idallade,  eDacu,  agaDu,  ganDu,  gAmpu,  genTu, 
-beppu, baDDu, muruku, hALu, poITu, poIku, pukku, pukkalu, 
+beppu, baDDu, muruku, hALu, pOTu, pOku, pukku, pukkalu, 
 manku  mattu  poTTu  emba  paricepadagaLinda  ganDasannu  hesarisuva 
 eDaca,  agaDa,  ganDa,  gAmpa,  genTa,  beppa,  baDDa,  muruka, 
-(mane)hALa,  poITa,  poIka,  pukka,  pukkala,  manka  mattu  poTTa 
+(mane)hALa,  pOTa,  pOka,  pukka,  pukkala,  manka  mattu  poTTa 
 emba  hesarupadagaLannu  mAtra  unTumADalAgideyallade,  hengasannu 
 hesarisuva padagaLu baLakege bandilla. 
 
@@ -9668,7 +9668,7 @@ kuyilALu
 
 merugeNNe 
 gALimare 
-nenapoIle 
+nenapOle 
 suddihALe 
 
 bAgilALu 
@@ -10053,7 +10053,7 @@ kAvugUDu
 
 (2) guri: 
 
-poITikare  
+pOTikare  
 nENugamba 
 badaloppita 
 
@@ -13891,13 +13891,13 @@ monDubILu  hindebILu
 
 jonguLibILu   tekkebILu 
 baTTibILu 
-poITebILu 
+pOTebILu 
 saribILu  
 bEnebILu  
 heNabILu 
 haLLabILu 
 
-poITubILu 
+pOTubILu 
 
 mElebILu 
 
@@ -14419,7 +14419,7 @@ tikkalu
 
 ingu  ingalu   
 tikku 
-poILu  poILalu  
+pOLu  pOLalu  
 sikkalu 
 sikku 
 kuccalu   
@@ -15633,7 +15633,7 @@ seat
 loot 
 load 
 
-poIlTIsu 
+pOlTIsu 
 gajeTTu 
 jAkITu 
 sITu 
@@ -19417,7 +19417,7 @@ nanTa
 ganDana   
 ganDa 
 muduka  mudukana 
-poIra  poIrana   
+pOra  pOrana   
 nADiga  nADigana 
 tottiga  tottigana  
 

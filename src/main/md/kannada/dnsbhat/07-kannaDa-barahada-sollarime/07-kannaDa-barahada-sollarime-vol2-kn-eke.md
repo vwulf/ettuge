@@ -5475,12 +5475,12 @@ rAju ivattu SAlege hOgalilla.
 (4ka) 
 (4ca)  nIvu koTTa I haNNu tumbA ruciyAgide. 
 
-sapoITa tumbA ruciyAgide. 
+sapOTa tumbA ruciyAgide. 
 
 (3ka)dalli  rAju  emba  koTTahesarannu  baLasalAgide;  mattu  idakke 
 badalu  (3ca)dalli  pakkada  maneya  huDuga  emba  hesarukanteyannu 
 baLasalAgide;  kELuganige  rAju  pada  yArannu  gurutisuttade  embudu 
-gottilladiddalli I rIti mADabEkAdItu; (4ca)dalli sapoITa emba 
+gottilladiddalli I rIti mADabEkAdItu; (4ca)dalli sapOTa emba 
 hesarupadada  badalu  nIvu  koTTa  I  haNNu  emba  hesarukanteyannu 
 baLasalu  ADuganige  A  haNNina  hesaru  maretiruvudu  illavE  tiLidilla 
 diruvudu kAraNavirabahudu. 
@@ -6194,7 +6194,7 @@ hesarAgi baLakege bandirabEku.
 
 haraLugaLinda  jalli  kallugaLu  doDDaviddarU,  haraLu  pada  otte 
 hesarAgi  baLakeyAguttade,  mattu  jalli  pada  oTTaluhesarAgi  baLake 
-yAguttade.  haraLugaLannu  ondondAgi  mAlegaLalli  poINisi  baLasa 
+yAguttade.  haraLugaLannu  ondondAgi  mAlegaLalli  pONisi  baLasa 
 lAguttade,  mattu  jallikallugaLannu  oTTige  buTTigaLalli  aLedu  baLasa 
 lAguttade embudu I vyatyAsakke kAraNavirabahudu. 
 
@@ -6755,7 +6755,7 @@ haligeya  dappa  embantaha  baLakegaLiveyallade,  *kaNiveya  sapura,
    (ca)  manuSyara  paricegaLu:  mayge  sambandisidavu  mattu 
 manassige  sambandisidavu  embudAgi  I  padagaLannu  eraDu  oLagumpu 
 gaLalli irisalu baruttade: kuruDu, kivuDu, kunTu modalAda parice 
-padagaLu modalaneya oLagumpigU, curuku, beppu, heDDu, poIli 
+padagaLu modalaneya oLagumpigU, curuku, beppu, heDDu, pOli 
 modalAdavu eraDaneya oLagumpigU sEruttave. 
 
 (Ta)  vastugaLa  paricegaLu:  manuSyarige  mAtravE  sambandisirade, 
@@ -7637,11 +7637,11 @@ bEkiddalli, sAmAnyavAgi heccu hesarupadagaLondige baraballa paricepada
 gaLu modalu baruttave, mattu kaDime hesarupadagaLondige baraballavu 
 AmEle (endare, hesarupadakke heccu hattiravAgi) baruttave.  
 
-ettugegAgi,  poIli  padadondige  baraballa  hesarupadagaLu  doDDa 
+ettugegAgi,  pOli  padadondige  baraballa  hesarupadagaLu  doDDa 
 padadondige  baraballa  hesarupadagaLiginta  tumbA  kaDime;  hAgAgi, 
 averaDannU  oTTige  baLasabEkAdAga,  doDDa  embudu  modalu 
-baruttade,  mattu  poIli  embudu  AmEle  baruttade  (avanobba 
-doDDa poIli huDuga, *avanobba poIli doDDa huDuga). 
+baruttade,  mattu  pOli  embudu  AmEle  baruttade  (avanobba 
+doDDa pOli huDuga, *avanobba pOli doDDa huDuga). 
 
 uddagala  mattu  baNNagaLannu  tiLisuva  paricepadagaLalli  baNNavannu 
 tiLisuvavu  hesarupadada  hattira  nilluttave:  cikka  biLi  gombe  embudu 
@@ -8355,8 +8355,8 @@ bandiruvalli avu bEre bErAgiruttave:
 
 (46ka)  taDavAgi bandavanu nEravAgi mahaDige hOda.  
 (46ca)  taDavAgi banda avanu nEravAgi mahaDige hOda. 
-(47ka)  kaLLatana mADidavaru poIlIsarige sikkiddAre. 
-(47ca) kaLLatana mADida avaru poIlIsarige sikkiddAre. 
+(47ka)  kaLLatana mADidavaru pOlIsarige sikkiddAre. 
+(47ca) kaLLatana mADida avaru pOlIsarige sikkiddAre. 
 
 (46ka)dalli  taDavAgi  banda  embudu  avanu  padada  haravannu 
 kuggiside;  Adare,  (46ca)dalli  bandiruva  adE  paricerUpa  avanu 
@@ -12373,7 +12373,7 @@ vanu, aLuva cikkavanu, hADida Urinavaru).
 Adare,  avugaLa  modalu  intaha  ondakkinta  heccu  padagaLannu 
 mattu, illavE modalAda padagaLinda bErpaDisi baLasalu baruvudilla: 
 
-(18ka)  *kaLLatana mADida mattu poIlIsara kayge sikkibiddavanu 
+(18ka)  *kaLLatana mADida mattu pOlIsara kayge sikkibiddavanu 
 (18ca) *I Urina mattu I SAleyavaru 
 
 (6)  gurutisuva  sollugaLallU  adu  mattu  idu  emba  eraDu 
