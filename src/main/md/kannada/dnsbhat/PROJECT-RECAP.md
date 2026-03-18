@@ -476,9 +476,9 @@ All `kn-eke.md` files had inconsistent nav-link labels. Patterns found and corre
 
 | Old pattern | Correct | Books affected |
 |-------------|---------|----------------|
-| `[ಕನ್nnaDa →]` (hybrid Eke in Kannada label) | `[ಕನ್nnaDa →]` | 02, 07, 14, 18, 27, 29 |
+| `[ಕನ್ನಡ →]` (hybrid Eke in Kannada label) | `[ಕನ್ನಡ →]` | 02, 07, 14, 18, 27, 29 |
 | `[ingliS →]` (Eke romanisation of "English") | `[English →]` | 02, 14 |
-| `[English →] \| [Eke →](kn-eke#...)` (self-referential) | `[ಕನ್nnaDa →](kn#adhyAya-N) \| [English →](en#...)` | 03, 17, 25, 28 |
+| `[English →] \| [Eke →](kn-eke#...)` (self-referential) | `[ಕನ್ನಡ →](kn#adhyAya-N) \| [English →](en#...)` | 03, 17, 25, 28 |
 
 Total: 12 files, 18,746 insertions across the single holistic commit.
 
@@ -554,7 +554,7 @@ Now: when generating kn-eke.md, these lines are transformed to the correct persp
 ```
 [English →](./book-en#en-anchor) | [Eke →](./book-kn-eke#sec-id)
   ↓  (in kn-eke.md)
-[ಕನ್nnaDa →](./book-kn#sec-id) | [English →](./book-en#en-anchor)
+[ಕನ್ನಡ →](./book-kn#sec-id) | [English →](./book-en#en-anchor)
 ```
 The kn URL is derived by stripping `-eke` from the Eke filename in the `[Eke →]` link.
 
@@ -573,8 +573,8 @@ Anchor-to-English-anchor mapping (30 unique chapters/sections):
 
 | File | Old lines | New lines | Change |
 |------|-----------|-----------|--------|
-| `02-...-kn-eke.md` | 491 (no nav) | 611 (with nav) | +60 nav links; correct `[ಕನ್nnaDa →]` format |
-| `07-...-vol1-kn-eke.md` | 20,183 | 20,183 | Nav fixed: `[English →]\|[Eke →]` → `[ಕನ್nnaDa →]\|[English →]` |
+| `02-...-kn-eke.md` | 491 (no nav) | 611 (with nav) | +60 nav links; correct `[ಕನ್ನಡ →]` format |
+| `07-...-vol1-kn-eke.md` | 20,183 | 20,183 | Nav fixed: `[English →]\|[Eke →]` → `[ಕನ್ನಡ →]\|[English →]` |
 | `07-...-vol2-kn-eke.md` | 13,331 | 13,331 | Same nav fix |
 
 **Verbatim content audit (all kn-eke.md files):** All 11 books confirmed verbatim — non-empty line counts match kn.md exactly.

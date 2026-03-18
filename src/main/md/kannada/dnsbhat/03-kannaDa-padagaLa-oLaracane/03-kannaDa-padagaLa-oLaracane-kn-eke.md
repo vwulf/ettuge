@@ -225,7 +225,7 @@ viSayasUci 236
 
 1. munnOTa
 
-<a id="adhyAya-1"></a>
+<a id="adhyAya-1"></a><a id="pITike"></a>
 
 [ಕನ್ನಡ →](./03-kannaDa-padagaLa-oLaracane-kn#adhyAya-1) | [English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-1--introduction)
 
@@ -1049,7 +1049,7 @@ kANabahudu.
 
 2. kannaDada padagumpugaLu
 
-<a id="adhyAya-2"></a>
+<a id="adhyAya-2"></a><a id="pada-gumpugaLu"></a>
 
 [ಕನ್ನಡ →](./03-kannaDa-padagaLa-oLaracane-kn#adhyAya-2) | [English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-2--word-classes-in-kannada)
 
@@ -1988,7 +1988,7 @@ atyavaSya.
 adhyAya mUru
 nAmapadagaLa oLaracane
 
-<a id="adhyAya-3"></a>
+<a id="adhyAya-3"></a><a id="hesaru-padagaLa-oLaracane"></a>
 
 [ಕನ್ನಡ →](./03-kannaDa-padagaLa-oLaracane-kn#adhyAya-3) | [English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-3--internal-structure-of-nouns)
 
@@ -3267,7 +3267,7 @@ vyatyAsa.
 © DA. Di. en Sankara baT. ellA hakkugaLannU kAdiriside.
 
 
-<a id="adhyAya-4"></a>
+<a id="adhyAya-4"></a><a id="prattayaviruva-hesaru-padagaLu"></a>
 
 [ಕನ್ನಡ →](./03-kannaDa-padagaLa-oLaracane-kn#adhyAya-4) | [English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-4--nouns-with-suffixes)
 
@@ -5227,7 +5227,7 @@ pratyayagaLalli heccinavU samskxtadinda eravalAgi bandiruva padagaLalli
 kANisuva pratyayagaLa mAdariyalli tayArAdavugaLa hAgive.
 
 
-<a id="adhyAya-5"></a>
+<a id="adhyAya-5"></a><a id="jODupadagaLu"></a>
 
 [ಕನ್ನಡ →](./03-kannaDa-padagaLa-oLaracane-kn#adhyAya-5) | [English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-5--compound-nouns)
 
@@ -7489,7 +7489,7 @@ gaLa varNane kannaDada maTTige aSTondu txptikaravAgilla.
 © DA. Di. en Sankara baT. ellA hakkugaLannU kAdiriside.
 
 
-<a id="adhyAya-6"></a>
+<a id="adhyAya-6"></a><a id="kriyA-padagaLa-oLaracane"></a>
 
 [ಕನ್ನಡ →](./03-kannaDa-padagaLa-oLaracane-kn#adhyAya-6) | [English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-6--internal-structure-of-verbs)
 
@@ -8740,7 +8740,7 @@ kannaDada kriyApadagaLa innondu vaySiSTya.
 © DA. Di. en Sankara baT. ellA hakkugaLannU kAdiriside.
 
 
-<a id="adhyAya-7"></a>
+<a id="adhyAya-7"></a><a id="guNa-padagaLa-oLaracane"></a>
 
 [ಕನ್ನಡ →](./03-kannaDa-padagaLa-oLaracane-kn#adhyAya-7) | [English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-7--internal-structure-of-qualifiers)
 
@@ -9133,7 +9133,7 @@ vantaha padagaLa baLakeyalli mAtra.
 © DA. Di. en Sankara baT. ellA hakkugaLannU kAdiriside.
 
 
-<a id="adhyAya-8"></a>
+<a id="adhyAya-8"></a><a id="eravalu-padagaLa-oLaracane"></a>
 
 [ಕನ್ನಡ →](./03-kannaDa-padagaLa-oLaracane-kn#adhyAya-8) | [English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-8--internal-structure-of-loanwords)
 
@@ -11111,7 +11111,7 @@ viSayada AdhArada mEle vingaDisuvudE heccu txptikaravAda vidhAna.
 © DA. Di. en Sankara baT. ellA hakkugaLannU kAdiriside.
 
 
-<a id="adhyAya-9"></a>
+<a id="adhyAya-9"></a><a id="muktAya"></a>
 
 [ಕನ್ನಡ →](./03-kannaDa-padagaLa-oLaracane-kn#adhyAya-9) | [English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-9--conclusion)
 

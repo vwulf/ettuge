@@ -42,6 +42,21 @@ docs/_site/
 docs/.jekyll-cache/
 docs/_config.local.yml
 
+# Ruby / Bundler
+.bundle/
+
+# Scala IDE / build tools
+.bsp/
+.metals/
+.scala-build/
+
+# Claude Code local config
+.claude/launch.json
+
+# Editor backups
+*.bak
+*.bak2
+
 # Jekyll generated collection (workflow regenerates from src/)
 # Exclude all loose files and subdirs except the committed index.md
 docs/dnsbhat/*/

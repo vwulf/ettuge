@@ -596,7 +596,7 @@ bi DA. Di. en Sankara baT. ellA hakkugaLannU kAdiriside.
 bi DA. Di. en Sankara baT. ellA hakkugaLannU kAdiriside. 
 
  
-<a id="adhyAya-1"></a>
+<a id="adhyAya-1"></a><a id="pITike"></a>
 
 [ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#adhyAya-1) | [English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-1--introduction)
 
@@ -1302,7 +1302,7 @@ sampattendu parigaNisabahudu.
 bi DA. Di. en Sankara baT. ellA hakkugaLannU kAdiriside. 
 
  
-<a id="adhyAya-2"></a>
+<a id="adhyAya-2"></a><a id="kriyAvAkyagaLa-oLaracane"></a>
 
 [ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#adhyAya-2) | [English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-2--internal-structure-of-action-sentences)
 
@@ -2710,7 +2710,7 @@ guNadharmagaLannU sUcisaballuvu.
 bi DA. Di. en Sankara baT. ellA hakkugaLannU kAdiriside. 
 
  
-<a id="adhyAya-3"></a>
+<a id="adhyAya-3"></a><a id="viSayavAkyagaLa-oLaracane"></a>
 
 [ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#adhyAya-3) | [English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-3--internal-structure-of-stative-sentences)
 
@@ -3520,7 +3520,7 @@ avugaLondige kelavu amukhya ghaTakagaLU baraballuvu.
 bi DA. Di. en Sankara baT. ellA hakkugaLannU kAdiriside. 
 
  
-<a id="adhyAya-4"></a>
+<a id="adhyAya-4"></a><a id="nAmapada-kantegaLu"></a>
 
 [ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#adhyAya-4) | [English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-4--noun-phrases)
 
@@ -4377,7 +4377,7 @@ ttade.  ondu  iDI  vAkyavU  intaha  padakanteya  angavAgiralu  sAdhya
 bi DA. Di. en Sankara baT. ellA hakkugaLannU kAdiriside. 
 
  
-<a id="adhyAya-5"></a>
+<a id="adhyAya-5"></a><a id="kriyApada-padarUpagaLu"></a>
 
 [ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#adhyAya-5) | [English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-5--verb-forms)
 
@@ -6045,7 +6045,7 @@ munde hattaneya adhyAyadalli vivarisalAguvudu.
 bi DA. Di. en Sankara baT. ellA hakkugaLannU kAdiriside. 
 
  
-<a id="adhyAya-6"></a>
+<a id="adhyAya-6"></a><a id="guNapadagaLa-baLake"></a>
 
 [ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#adhyAya-6) | [English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-6--use-of-qualifiers)
 
@@ -6662,7 +6662,7 @@ guNapadagaLalli heccinavU kannaDadalli aNakisuva padagaLAgi baLakeyallive.
 bi DA. Di. en Sankara baT. ellA hakkugaLannU kAdiriside. 
 
   
-<a id="adhyAya-7"></a>
+<a id="adhyAya-7"></a><a id="oLavAkyagaLu"></a>
 
 [ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#adhyAya-7) | [English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-7--embedded-clauses)
 
@@ -7882,7 +7882,7 @@ vidhAnagaLigella bEre bEre uddESagaLive.
 bi DA. Di. en Sankara baT. ellA hakkugaLannU kAdiriside. 
 
  
-<a id="adhyAya-8"></a>
+<a id="adhyAya-8"></a><a id="vAkyagaLa-jODaNe"></a>
 
 [ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#adhyAya-8) | [English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-8--sentence-coordination)
 
@@ -8518,7 +8518,7 @@ vudE I mUru uddESagaLu.
 bi DA. Di. en Sankara baT. ellA hakkugaLannU kAdiriside. 
 
  
-<a id="adhyAya-9"></a>
+<a id="adhyAya-9"></a><a id="sambandisuvudu-mattu-allagaLeyuvudu"></a>
 
 [ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#adhyAya-9) | [English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-9--focusing-and-negation)
 
@@ -9139,7 +9139,7 @@ badalAvaNegaLannu mADuvudara mUlaka tayArisikoLLalu sAdhyavide.
 bi DA. Di. en Sankara baT. ellA hakkugaLannU kAdiriside. 
 
  
-<a id="adhyAya-10"></a>
+<a id="adhyAya-10"></a><a id="mAtina-kasagagaLu"></a>
 
 [ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#adhyAya-10) | [English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-10--speech-acts)
 
@@ -10557,7 +10557,7 @@ sUcisuvudakkAgiyU kelavu viSiSTavAda vAkyagaLannu baLasalAguttade.
 bi DA. Di. en Sankara baT. ellA hakkugaLannU kAdiriside. 
 
  
-<a id="adhyAya-11"></a>
+<a id="adhyAya-11"></a><a id="kannaDigaLa-keLavu-vaiSiSTyagaLu"></a>
 
 [ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#adhyAya-11) | [English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-11--typological-features-of-kannada)
 
