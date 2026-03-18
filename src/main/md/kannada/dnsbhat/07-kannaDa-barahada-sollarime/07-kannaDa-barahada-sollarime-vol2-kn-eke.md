@@ -13,16 +13,16 @@ redirect_from:
 
 - [adhyAya 5 — esakapadagaLa baLake](#adhyAya-5)
 - [adhyAya 6 — hesarukantegaLa iTTaLa](#adhyAya-6)
-- ~~adhyAya 7 — suLusoLLugaLa racane~~ *(OCR paTha labhyavilla)*
-- ~~adhyAya 8 — aDaka mattu jODu soLLugaLu~~ *(OCR paTha labhyavilla)*
-- ~~adhyAya 9 — baraha mattu mAtu~~ *(OCR paTha labhyavilla)*
+- ~~adhyAya 7 — suLusollugaLa racane~~ *(OCR paThya labhyavilla)*
+- ~~adhyAya 8 — aDaka mattu jODu sollugaLu~~ *(OCR paThya labhyavilla)*
+- ~~adhyAya 9 — baraha mattu mAtu~~ *(OCR paThya labhyavilla)*
 
 ---
 
 
 <a id="adhyAya-5"></a>
 
-[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#adhyAya-5) | [English →](./07-kannaDa-barahada-sollarime-en#chapter-5--verb-usage)
+[English →](./07-kannaDa-barahada-sollarime-en#chapter-5--verb-usage) | [Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#adhyAya-5)
 
 5. esakapadagaLa baLake 
 
@@ -56,10 +56,8 @@ vivarisalAgide.
 tiruLesakapadagaLigU  neravesakapadagaLigU  naDuve,  avugaLigiruva  pada 
 rUpagaLa maTTige, kelavu mukyavAda vyatyAsagaLive:  
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-340 / kannaDa barahada sollarime 
 
 tiruLesakapadagaLige  23  konerUpagaLu  mattu  13  naDurUpagaLu 
 embudAgi oTTu 36 padarUpagaLive embudannu nAvu hindina pasuge 
@@ -114,10 +112,8 @@ himbottinallU  bare  esakapadakke  intahavE  barede,  baredevu,
 baredi,  barediri,  bareda  modalAda  ombattu  konerUpagaLiruvudannu 
 kANabahudu. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 341 
 
 arikerUpagaLu  gurtada  vyatyAsavannAgali,  hottina  vyatyAsavannAgali 
 tOrisuvudilla;  ADuga-kELuga-heratu  vyatyAsa,  mattu  OreNike-hala 
@@ -173,10 +169,8 @@ iruttAne
 iddAne 
 EzÀÝ 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-342 / kannaDa barahada sollarime 
 
 Adare,  iru  padakke  allagaLeyuva  naDurUpagaLilla;  antaha  naDu 
 rUpagaLu  barabEkAdallella  illa  padada  illada,  illade,  illadudu, 
@@ -218,10 +212,8 @@ rUpa,  illadudu  emba  udu-hesarurUpa,  mattu  illadike  emba
 ike-hesarurUpa  emba  nAlku  naDurUpagaLU  ive.  ivellavU 
 allagaLeyuva rUpagaLu embudannu gamanisabahudu.  
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
-esakapadagaLa baLake / 343 
-
+
 Agu pada Ayitu, Aguttade, Agadu, Agi, Agada mattu Agade 
 
 emba Aru rUpagaLalli neravesakapadavAgi baLakeyAguttade. 
@@ -266,10 +258,8 @@ baruttade. (cAritrikavAgi, bahudu padavannU baru esakapadadindalEnE
 (3)  mEle  sUcisida  hAge,  tiruLesakapadagaLige  mumbottu  mattu 
 himbottu  embudAgi  eraDu  bageya  hottina  rUpagaLive;  Adare, 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-344 / kannaDa barahada sollarime 
 
 neravesakapadagaLalli  iru  embudakke  mumbottu,  Ipottu  mattu 
 himbottu  embudAgi  mUru  hottina  rUpagaLive;  Agu  embudakke 
@@ -317,12 +307,10 @@ ddisiddEne,
 
 *mADabEkisu); 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
 embantaha rUpagaLiveyAdarU avugaLalli iru pada neravesakapadavAgi 
 baLakeyAgilla.  
 
-esakapadagaLa baLake / 345 
 
 5.1.3 esakada hottu 
 esakada hottannu pattuge, iTTaLa mattu niluvu emba mUru mukya 
@@ -354,10 +342,8 @@ esakahottigU  naDuviruva  eraDu  bageya  hottina  pattugegaLannu
 tiLisalAguttade.  ettugegAgi,  keLage  koTTiruva  sollugaLannu  gamanisa 
 bahudu:  
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-346 / kannaDa barahada sollarime 
 
 (1ka) jAnaki sanje Aru ganTege hADidaLu. 
 (1ca)  jAnaki sanje Aru ganTege hADuttALe. 
@@ -400,10 +386,8 @@ embudannu  gamanisabahudu.  ettugegAgi,  (2ka)  sollige  hOgi  emba
 jODisuva  padarUpa  tiLisuva  esaka  UTamADide  emba  konerUpa 
 tiLisuva esakakkinta modalu naDedide emba huruLide.  
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 347 
 
 (2) hottina iTTaLa 
 ondu esaka yAvAga naDeyitu illavE naDeyuttade embudAgi adara 
@@ -444,10 +428,8 @@ esakada iTTaLa embudAgi kareyabahudu.
 mAresaka,  mattu  oDanesaka  emba  mUru  bageya  jODisuva  rUpa 
 gaLondige  iru  neravesakapadada  padarUpagaLannu  baLasi,  avugaLa 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-348 / kannaDa barahada sollarime 
 
 toDagike,  munduvarike,  mattu  konegoLLuvike  emba  mUru  bageya 
 hottina  iTTaLagaLannu  tiLisalu  baruttade.  ettugegAgi,  keLage  koTTiruva 
@@ -488,10 +470,8 @@ nija embudara kuritAgi ADugana niluvannu mElina mUru sollugaLu
 tiLisuttave:  adannu  modalE  gottupaDisalAgide  embudannu  (5ka) 
 sollu,  adu  naDeyuvudu  aSTondu  kanDitavalla  embudannu  (5ca) 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 349 
 
 sollu,  mattu  adu  aSTU  kanDitavalla  embudannu  (5Ta)  sollu 
 tiLisuttave.  
@@ -532,10 +512,8 @@ ADugana niluvannu tiLisadiralu baruttade; Adare, hottina pattugeyannu
 avugaLa  ellA  baLakegaLallU  kaDDAyavAgi  tiLisabEkAguttade;  esakapada 
 gaLa  padarUpagaLalli  arikerUpagaLu  allagaLeyuva  rUpagaLu,  mattu 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-350 / kannaDa barahada sollarime 
 
 ike-hesarurUpagaLu  emba  I  mUru  bageya  padarUpagaLalli  mAtra 
 hottina pattugeyannu oTTugaLa mUlaka tiLisuvudilla. 
@@ -576,10 +554,8 @@ villa. ettugegAgi, keLagina sollugaLannu gamanisabahudu:
 (8ka)  avanu ivattu barabahudu. 
 (8ca)  avanu ivattu baruttAnendu tOruttade. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 351 
 
 ADuganalliruva bEhada (5.5.3 nODi) arivannu (7ka)dalli bEku 
 neravasakapadada mUlaka tiLisalAgide, mattu (7ca)dalli adannE kanDita 
@@ -618,10 +594,8 @@ bEku, Are modalAda bEre kelavu neravesakapadagaLannu baLasi, esakada
 kuritAgi  ADugana  niluvannu  tiLisuvudu  emba  I  eraDu  neravesaka 
 padagaLa  baLakegaLu  intaha  ondu  iTTaLavAgide;  idallade,  keLage 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-352 / kannaDa barahada sollarime 
 
 koTTiruva  bEre  mUru  bageya  iTTaLagaLallU  esakapadagaLa 
 jODisuva rUpagaLu baLakeyAguttave: 
@@ -665,10 +639,8 @@ vAgi kelavE kelavu (esaka)padagaLu mAtra baLakeyAgaballuvu. hAgAgi,
 avella  I  mukya  iTTaLadinda  beLedubandiruva  iTTaLagaLendu  tiLiya 
 bahudu. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 353 
 
 esakapadagaLa jODisuva rUpadondige bEre esakapadagaLannu sErisi 
 unTumADiruva I iTTaLagaLannu avu naDesuva kelasada mEle, mattu 
@@ -709,10 +681,8 @@ huruLannu  mattu  avugaLondige  baraballa  pAngugaLa  eNike  mattu
 rUpagaLannu nirdarisaballuvu; idara kuritAgi heccina vivaragaLannu munde 
 ELanE pasugeyalli koDalAguvudu. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-354 / kannaDa barahada sollarime 
 
 esakapadagaLa  sErisuva  rUpagaLallU  avugaLa  jODisuva  rUpa 
 dondige  koLLu  padavannu  baLasalAguttade;  idallade,  kUDupadagaLa 
@@ -752,10 +722,8 @@ sollinalli sErisikoLLabEkAguttade.
 (11Ta) rAju maneyinda horage ODida 
 (11ta)  rAju hAvu kanDu ODida. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 355 
 
 idallade,  sollannu  kELuvavaru  illavE  Oduvavaru  tamma 
 tiLuvaLike,  anubava,  hinde  kELida  illavE  Odida  sollugaLu, 
@@ -797,10 +765,8 @@ nondige  hOlisi  nODabahudu:  (12ka)  sollige  `A  pustakavannu
 nAnu  nimage  koTTiralilla'  emba  oLahuruLide;  A  sollannu  allagaLe 
 dAga, adara huruLinondige I oLahuruLannU allagaLeda hAgAguttade 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-356 / kannaDa barahada sollarime 
 
 embudannu,  (12Ta)  sollinalli  kANabahudu;  adakke  `A  pustakavannu 
 nAnu  nimage  koTTidde'  emba  oLahuruLide,  mattu  adu  (12ka) 
@@ -839,10 +805,8 @@ pariceyannu  tiLisuva  naDurUpagaLa  mUlaka  (bareyuva,  bareda),
 mattu  avugaLa  udu-hesarurUpagaLa  mUlakavU  esakagaLa  hottina 
 pattugeyannu tiLisalu baruttade (bareyuvudu, baredudu). 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
       
-esakapadagaLa baLake / 357 
 
 5.2.1 hottannu tiLisuva bagegaLu 
 nijakkU hottannu tiLisalu neravAguvantaha yAva pariceyU hottina 
@@ -882,10 +846,8 @@ banda emba himbottina esakarUpa bandiddu, adu `avanu puNeyinda
 baruva'  esaka  A  sollannu  ADiruva  hottiginta  modalu  naDedide 
 embudannu tiLisuttade. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-358 / kannaDa barahada sollarime 
 
 kannaDada sollugaLalli baruva hottina parice nuDitagaLu heccukaDime 
 esakarUpagaLu  baLasuva  hottannE  innaSTu  vivaravAgi  tiLisuttave. 
@@ -926,10 +888,8 @@ bErondu pasugeyalli koDalAguvudu. illi esakarUpagaLa mUlaka,
 mattu  avugaLondige  baruva  neravesakarUpagaLa  mUlaka  tiLisalAguva 
 hottina pattugeya vivaragaLannu mAtra koDalAguvudu.  
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 359 
 
 5.2.2 sollupattuge mattu esakapattuge 
 mEle  tiLisida  hAge,  kannaDada  sollugaLalli  esakada  hottannu  tiLisalu 
@@ -977,10 +937,8 @@ oDanesaka  emba  mUru  hottina  oTTugaLa  mUlaka  tiLisalAguttade
 vyatyAsaviruvudannu  gamanisabahudu:  solluhottigU  esakahottigU 
 naDuviruva  pattugeyannu  baLasuvalli  mumbottu  mattu  himbottu 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-360 / kannaDa barahada sollarime 
 
 emba  eraDu  bageya  esakarUpagaLu  mAtra  kANisikoLLuttave;  Adare, 
 sollina  mUlaka  tiLisaliruva  esakada  hottigU  bErondu  esakada 
@@ -1032,10 +990,8 @@ pattugeya badalu hottina iTTaLavannu baLasabEkAguttade.
 padakke kannaDadalli mumbottu (iruttAne), himbottu (idda), mattu 
 Ipottu  (iddAne)  embudAgi  mUru  bageya  hottina  rUpagaLive 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
-esakapadagaLa baLake / 361 
-
+
 embudu  I  vivaraNege  bembala  nIDuttade.  iruha  heccu  hottu 
 uLiyuva kAraNa, adannu gamanisi adara kuritAgi hELikeyannu nIDalu 
 sAkaSTu samaya dorakuttade. 
@@ -1072,10 +1028,8 @@ sollupattugeya baLakeyentahadu embudannu keLage (5.2.2-3)ralli
 vivarisalAgide;  mattu  esakapattugeya  baLakeyentahadu  embudannu 
 munde (5.2.4)ralli vivarisalAguvudu.      
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-362 / kannaDa barahada sollarime 
 
 5.2.3 mumbottina esakarUpagaLa baLake 
 mEle  tiLisida  hAge,  esakapadagaLa  mumbottina  rUpavannu  mukyavAgi 
@@ -1115,10 +1069,8 @@ mattu  (8ca)  sollugaLa  naDuveyU  intahadE  vyatyAsavide.  Adare,
 bEku  embudannu  bahudu  embudakkinta  heccu  kanDitaviruva  (Adare 
 pUrti kanDitavillada) sandarbagaLalli baLasalAguttade (5.5.1 nODi).   
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 363 
 
 (2)  esakapadavannanusarisi,  mumbottina  esakarUpakke  Ipottina 
 huruLU  baraballudu.  ettugegAgi,  keLage  koTTiruva  sollugaLannu 
@@ -1158,10 +1110,8 @@ sollugaLannu gamanisabahudu:
 (11Ta)  mUrakke nAlku sErisidare ELAguttade. 
 (11ta)  I bekku nAyiyannU hedarisuttade. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-364 / kannaDa barahada sollarime 
 
 (11ka)  sollu  solluhottina  baLika  naDeyava  ondu  esakavannu 
 tiLisuttirabahudu;  illavE  `sAmAnyavAgi  SeTTaru  angaDi  bAgilannu 
@@ -1203,10 +1153,8 @@ hesarurUpavannu baLasalu baruttade:
 (13ka)  nALe araLuva moggugaLannu I buTTiyallirisiddAre. 
 (13ca)  nALe araLuvudannu I buTTiyallirisiddAre. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 365 
 
 5.2.4 himbottina esakarUpagaLa baLake 
 esakapadagaLa  himbottina  rUpagaLannu  solluhottiginta  modalu 
@@ -1246,10 +1194,8 @@ jODisuva rUpadondige iru neravesakapadada himbottina rUpavannu
 (idda embudannu) baLasalAgide. hOda emba himbottina suLurUpa 
 vannu I huruLinalli baLasalu baruvudilla.  
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-366 / kannaDa barahada sollarime 
 
 ettugegAgi, mEle koTTiruva (14Ta) sollige avanu (dinAlU) 
 Aru  ganTe  Ti.vi.  nODuttidda  emba  solligiruvantaha  baLakeya 
@@ -1287,10 +1233,8 @@ gaLannu gamanisabahudu:
 (18ka)  A pustaka tumbA cannAgittu. 
 (18ca)  A pustaka ingliSnallittu. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 367 
 
 nijakkU  A  pustaka  IgalU  (endare  sollina  hottinallU)  cannA 
 giruttade,  mattu  mundeyU  adu  cannAgiyE  iruttade;  hAgiddarU, 
@@ -1330,10 +1274,8 @@ koLLabEkAguttade:
 (ka)  yAva  hottinalli  pAngu  iruttadeyO  adu  iruhada 
 hottu;  
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-368 / kannaDa barahada sollarime 
 
 (ca) yAva hottinalli sollannu nuDiyalAgideyO (illavE 
 bareyalAgideyO) adu sollina hottu; mattu 
@@ -1370,10 +1312,8 @@ manege hOdAga avaru maneyalliralilla emba sollinalli tiLivina
 hottu  mattu  iruhada  hottu  ondE  Agiralilla  embudannu,  mattu 
 tiLivina hottu sollina hottiginta hindinadu embudannu tiLisalAgide.   
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 369 
 
 5.2.6 esakahottina baLake 
 ondu  esakada  hottannu  bErondu  esakada  hottinondige 
@@ -1412,10 +1352,8 @@ obbanE  vyakti  (rAju)  naDesiruva  kAraNa,  A  sollu  sariyAgide;
 (21ca)dallU hIgeyE. Adare, (22ka)dalli `marakke hattuva' esakavannu 
 rAju  mADiddu,  `avanige  katti  koDuva'  esakavannu  bErobba  vyakti 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-370 / kannaDa barahada sollarime 
 
 (jAnaki)  mADiruva  kAraNa,  A  eraDu  esakagaLannu  jODisiruva 
 (22ka) sollu sariyalla; (22ca)dallU hIgeyE.  
@@ -1458,10 +1396,8 @@ mumbottu
 
 mattu 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 371 
 
 (25ka)  nAnu avarannu kANuvudu nAlku dinagaLa baLika. 
 (25ca)  nAnu avarannu kanDudu nAlku dinagaLa hinde. 
@@ -1499,10 +1435,8 @@ sikkalu  udu-hesarurUpavannu  baLasalAgide.  intaha  sollugaLalli
 Odida  mattu  kanDudu  embantaha  suLurUpagaLannu  baLasalu  baruvu 
 dilla embudarindAgi (26ca) mattu (27ca) sollugaLu sariyAgilla. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-372 / kannaDa barahada sollarime 
 
 (2)  Adare,  mumbottina  paricerUpa  mattu  udu-hesarurUpa 
 gaLige  solluhottinalli  baLakeyalliruva,  mattu  mundeyU  baLakeya 
@@ -1550,10 +1484,8 @@ lAgide.  I  eraDu  esakarUpagaLu  oTTAgi,  `rAju  manege  hOguva'
 esakada  konegoLLuvike  solluhottina  modalu  naDedide  embudannu 
 tiLisuttave. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 373 
 
 idakke badalu, (1ca)dalli hOgutta emba oDanesakada jODisuva 
 rUpadondige  iru  padada  Ipottina  rUpavannu  baLasalAgide,  mattu 
@@ -1599,10 +1531,8 @@ embudannu tiLisuttade.
 
 rUpadondige  iru 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-374 / kannaDa barahada sollarime 
 
 (2Ta)dalli  mADu  esakapadada  oDanesakada  jODisuva  rUpavAda 
 mADutta  embudarondige  iru  padada  Ipottina  konerUpavannu 
@@ -1646,10 +1576,8 @@ hottina  iTTaLadalliruva  vyatyAsavE  kAraNa.  dATuva  esakakke  ondu
 mugitAya  embudide;  hoLeya  innondu  badiyannu  talapidAga 
 mAtra  I  mugitAya  naDeyuttade.  (4ca)  sollu  I  mugitAyada 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 375 
 
 huruLannu  koDuvudillavAda  kAraNa,  adarinda  avanu  hoLe  dATida' 
 emba oLahuruLannu paDeyalu baruvudilla. 
@@ -1691,10 +1619,8 @@ esakapadagaLa  hottina  iTTaLadalli  hesarupadagaLu  mattu  parice
 padagaLu  entaha  mArpADugaLannella  taraballuvu  embudara  kuritAgi 
 heccina vivaragaLannu mundina pasugegaLalli vivarisalAguvudu. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-376 / kannaDa barahada sollarime 
 
 5.3.1 hottina iTTaLavannu tiLisuva sikkalu rUpagaLu 
 esakapadagaLa  mUru  bageya  jODisuva  rUpagaLondige  iru  padada 
@@ -1752,10 +1678,8 @@ gaLeyuttadeyallade,  avugaLa  hottina  iTTaLada  kuritAgi  EnannU
 hELuvudilla. hAgAgi, antaha mUru bageya sikkalu rUpagaLannu illi 
 parigaNisilla. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 377 
 
 mEle  koTTiruva  ombattu  sikkalurUpagaLalli  iru  neravesakapadada 
 baLakeya  mUlaka  mADu  pada  tiLisuva  esakada  hottina  iTTaLada 
@@ -1801,10 +1725,8 @@ rUpadondige  iru
 
 neravesakapadada 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-378 / kannaDa barahada sollarime 
 
 illavE  naDediruttade  embudannu  tiLisuttade.  idannu  keLagina  sollu 
 gaLalli kANabahudu: 
@@ -1844,10 +1766,8 @@ idallade,  iru  padada  uLikegurtada  Oresaka  rUpavannu  (iruttade
 embudannu) mAtra antaha sollugaLalli baLasalAguttade; idannu keLage 
 koTTiruva sollugaLallU kANabahudu: 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 379 
 
 (9ka)  beLigge Atanige (yAvAgalU) illige baraliruttade. 
 (9ca)  nAnu baruvAgalella Atanige Odaliruttade. 
@@ -1891,10 +1811,8 @@ dondige  baLasidAgalU  adu  mumbottina  huruLannu  mAtravallade,
 baLakeya  huruLannU  koDaballudu;  idannu  keLagina  sollugaLalli 
 kANabahudu: 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-380 / kannaDa barahada sollarime 
 
 (11ka)  nAnu bandAgalella Ata nidde mADiruttAne. 
 (11ca) nAnu bandAgalella Atanige nidde mADaliruttade. 
@@ -1936,10 +1854,8 @@ baLasalu baruttade. idakke kelavu ettugegaLannu keLage koDalAgide:
 
 (14ka)  ninneyE bandiddavarannu modalu kaLiside. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
     
-esakapadagaLa baLake / 381 
 
 (14ca) Oduttiruvavarige tondare koDabEDi. 
 (14Ta) nALe mADaliruva kelasavannu ivattE mADi. 
@@ -1977,10 +1893,8 @@ tiLisuva  konegoLLuvudu,  toDaguvudu,  mattu  munduvariyuvudu
 emba  I  mUru  bageya  hottina  iTTaLagaLa  kuritu  kelavu  heccina 
 vivaragaLannu keLage koDalAgide:  
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-382 / kannaDa barahada sollarime 
 
 5.3.2 konegoLLuva iTTaLa 
 konegoLLuva iTTaLadalli iru padada heccina padarUpagaLannU baLasalu 
@@ -2018,10 +1932,8 @@ liruva    konegoLLuvikeyannu  tiLisaballudu,  illavE  baLakeyalliruva
 konegoLLuvikeyannU  tiLisaballudu;  idakke  badalu,  (18ca)  sollu 
 baLakeyalliruva konegoLLuvikeyannu mAtravE tiLisaballudu; dinAlU 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 383 
 
 emba  hottina  pariceyannu  tiLisuva  padavannu  baLasidudarindAgi 
 adakkidda modalanE huruLu illavAgide. 
@@ -2064,10 +1976,8 @@ illiyU (21ca) solligide embudannu gamanisabahudu.
 iTTaLadalli  baLasalu  baruttade  embudannu  keLagina  sollugaLalli  kANa 
 bahudu: 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-384 / kannaDa barahada sollarime 
 
 (22ka)  nAlku ganTe hottige ellavannU mugisirali. 
 (22ca)  nAvu illige beLiggEnE bandirONa. 
@@ -2106,10 +2016,8 @@ dannu)  esakapadada  himbottina  jODisuva  rUpadondige  baLasidAga,
 esakavannu  solluhottina  varegU  konegoLisillavemba  huruLu  sigu 
 vÀÛzÉ. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 385 
 
 (24ka)  idu nIvu ommeyU kELirada hADu. 
 (24ca)  yArU mADirada kelasavannu nIvu mADabEku. 
@@ -2150,10 +2058,8 @@ modalesakada jODisuva rUpavannu baLasidalli, adara baLika tiLisiruva
 esakavannu  modalaneya  esakavannu  mugisi  tusu  hottina  baLika 
 naDesalAyitemba  huruLu  siguttade;  endare,  illi  iru  pada  tiruLesaka 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-386 / kannaDa barahada sollarime 
 
 padavAgi  baLakeyAgideyallade  neravesakapadavAgi  baLakeyAgiruva  hAge 
 tOruvudilla. 
@@ -2199,10 +2105,8 @@ baLakeyAgideyendu hELabahudu:
 esakapadada  modalesakada  jODisuva  rUpadondige  iru  padada 
 udu-hesarurUpagaLannu baLasiruvalli adara paricerUpagaLannu baLasiru 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 387 
 
 valli kANisidantaha huruLE  kANisuttade; himbottina hesarurUpavannu 
 baLasidalli esakada pariNAma solluhottinalli uLidillavemba huruLu, 
@@ -2244,10 +2148,8 @@ idara  baLika  iru  padada  naDurUpagaLalli  jODisuva  rUpagaLa
 
 baLakeyU tumbA kaDime.  
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-388 / kannaDa barahada sollarime 
 
 (1) iru padada konerUpagaLa baLake 
 esakapadada  mAresakada  jODisuva  rUpadondige  iru  padada 
@@ -2285,10 +2187,8 @@ kkAgi  baralilla'  emba  huruLu  (31ka)  solligide;  uLida  (31ca-ta)
 sollugaLigU  intahavE  allagaLeyuva  huruLiruvudannu  gamanisa 
 bahudu. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 389 
 
 innondu viSayavEnendare, iru padada Ipottina rUpakke sollu 
 hottina  baLika  naDeyaliruva  toDaguvikeyannu  tiLisuva  huruLide. 
@@ -2327,10 +2227,8 @@ bahudu:
 
 allagaLeyuva oLahuruLU ide embudannu gamanisabahudu.  
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-390 / kannaDa barahada sollarime 
 
 iru  padavannu  I  rIti  mAresakada  jODisuva  rUpadondige 
 neravesakapadavAgi baLasuva badalu, A rUpakke kke oTTannu sErisi, adara 
@@ -2370,10 +2268,8 @@ tiruLesakapadada  oDanesakada  jODisuva  rUpadondige  iru  padada
 padarUpagaLannu  baLasi  munduvariyuva  iTTaLavannu  paDeyalAguttade. 
 I iTTaLadalli iru padada heccina padarUpagaLU baLakeyAgaballuvu. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 391 
 
 (1) iru padada konerUpagaLa baLake 
 munduvariyuva iTTaLadalli iru padada himbottu, Ipottu, mattu 
@@ -2413,10 +2309,8 @@ bEDikeya  oLasollannu  nEravAgi  baLasadiddarU,  adu  tiLisuva
 viSaya  sandarbadinda  gottAguva  hAgiddalli  I  iTTaLakke  mElina 
 huruLu baraballudu embudannu keLagina sollinalli kANabahudu: 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-392 / kannaDa barahada sollarime 
 
 (39pa)  nAnu ondu sinemakkAdarU hOguttidde. 
 
@@ -2458,10 +2352,8 @@ baLakeyU tumbA kaDime.
 
 bEDike rUpada baLakeyannu keLagina sollugaLalli kANabahudu: 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 393 
 
 (43ka)  avaru kate hELuttiddare ellarU niddemADadiruttAre. 
 (43ca)  Tivi nODuttiddare avarige UTavU bEDa. 
@@ -2500,10 +2392,8 @@ hottugaLondige  tiLivina  hottu  emba  mUraneyadondu  hottannu
 baLasikonDalli,  esakagaLa  `hottina  iTTaLa'vannU  ondu  bageya 
 `hottina pattuge'yAgi vivarisalu baruttade.  
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-394 / kannaDa barahada sollarime 
 
 Adare, idakkAgi esakada hottina badalu esakakke sambandisida ondu 
 iruhada  hottannu  tiLivina  hottembudAgi  irisikoLLabEkAguttade. 
@@ -2544,13 +2434,11 @@ iruha,  (2)  esaka  toDaguvudakkinta  modalu  kANisikoLLuva  iruha,
 mattu  (3)  esaka  naDeyuttiruvAga  kANisikoLLuva  iruha  embudAgi 
 mUru  bageya  esakakke  sambandisida  iruhagaLannu  tiLivina  hotti 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
 nondige  sambandisalAguttade.  ettugegAgi,  keLage  koTTiruva  sollu 
 gaLannu gamanisabahudu: 
 
-esakapadagaLa baLake / 395 
 
 (46ka)  nAlku ganTe hottige avanu manege hOgidda. 
 (46ca)  nAlku ganTe hottige avanu manege hOgalidda. 
@@ -2588,10 +2476,8 @@ keLagina  sollugaLallU  esakada  mugitAyakkinta  adara  baLikada
 
 iruhavE heccu mukyavAgi kANisuttade: 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-396 / kannaDa barahada sollarime 
 
 (48ka)  I kurci muridide. 
 (48ca)  I vAcu keTTuhOgide. 
@@ -2631,10 +2517,8 @@ sikkalu rUpagaLannu baLasuvalli antaha kaTTupADilla:
 (50ca)  Ata eraDu mUru dinagaLa hinde bandidda. 
 (50Ta)  *Ata eraDu mUru dinagaLa hinde banda. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 397 
 
 `Ata  bandudu  yAvAga'  embudannu  kanDitavAgi  ondu  sollu 
 tiLisadiddalli,  adaralli  banda  embudannu  baLasalu  baruvudilla  embu 
@@ -2676,10 +2560,8 @@ rUpakke I huruLilla.
 (53ka)  sollu  munde  naDeyaliruva  ondu  esakavannu  tiLisa 
 bahudu,  illavE  baLakeyalliruva  ondu  esakavannu  tiLisabahudu; 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-398 / kannaDa barahada sollarime 
 
 Adare,  (53ca)  sollu  idakkinta  bErAgiruva  `AgAga  hOguttAne' 
 emba huruLannu koDuttade. 
@@ -2726,10 +2608,8 @@ himbottina konegoLLuva sikkalu rUpavannu baLasalAguttade:
 (56ka)  avaru manege bandare haNa koDuttEne. 
 (56ca)  avaru manege bandiddare haNa koDuttidde. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 399 
 
 (55ka)dalli munde naDeyabahudAda bEDikeyannu tiLisalu hOde 
 emba suLurUpakke re oTTannu sErisalAgide, mattu (55ca)dalli hinde 
@@ -2769,10 +2649,8 @@ iTTaLavide embudu I eraDu holabugaLa mElU avalambisiruttade;
 endare,  sollugaLalli  baLakeyAguva  sikkalu  rUpagaLige,  avugaLalli 
 bandiruva  tiruLesakapadagaLannavalambisi,  bEre  bEre  bageya  hottina 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-400 / kannaDa barahada sollarime 
 
 iTTaLagaLu  huruLugaLAgi  kANisikoLLaballuvu.  ettugegAgi,  keLage 
 koTTiruva eraDu sollugaLannu hOlisi nODabahudu: 
@@ -2812,10 +2690,8 @@ baLasalu  baruttade,  mattu  intaha  baLakegaLalli  kelavu  esakapadagaLige
 iruhada  huruLu  siguttade.  idakke  kelavu  ettugegaLannu  keLage  koDa 
 ¯ÁVzÉ:  
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 401 
 
 (3ka)  avanige raSyan baruttade. 
 (3ca)  A gellu nanage eTakuttade. 
@@ -2856,10 +2732,8 @@ dAgiyU iraballudu, mattu tumbA doDDadAgiyU iraballudu:
 (6ca)  adu aydu nimiSa kempagittu. 
 (6Ta)  avanu alliddaSTu divasa Akeyannu nambuttidda.  
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-402 / kannaDa barahada sollarime 
 
 (6ka)  tiLisuva  iruha  eraDu  varSagaLaSTu  uddaddu,  mattu  (6ca) 
 tiLisuva  iruha  aydu  nimiSagaLaSTu  cikkadu  embudannu  gamanisa 
@@ -2900,10 +2774,8 @@ adarondige  bEkendE  embudannu  baLasiruva  (8ca)  sollu  sariyA
 gilla;  idakke  badalu,  maneyalli  uLididdAne  mattu  baNNa  haccu 
 ttiddAne  embavu  esakagaLannu  tiLisuttave;  hAgAgi,  avugaLondige 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 403 
 
 bEkendE  embudannu  baLasiruva  (8Ta)  mattu  (8ka)  sollugaLu  sari 
 yAgive. 
@@ -2942,10 +2814,8 @@ baruttade. ettugegAgi, keLage koTTiruva sollugaLannu gamanisabahudu:
 (10ca) sollu `Oduva  esaka munduvariyuttittu' embudannu tiLisu 
 vÀÛzÉ.  
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-404 / kannaDa barahada sollarime 
 
 idE  rItiyalli,  (11ka)  sollu  `kada  taTTuva  esaka  naDeyitu' 
 endiSTE tiLisuttade; Adare, (11ca) sollu A rIti `kada taTTuva esaka 
@@ -2984,10 +2854,8 @@ mAtra,  Ata  hoLe  dATida  endu  hELaballevu.  ivugaLannu  naDesu
 ttiruvavanu  A  esakavannu  naDuveyE  nillisidanAdare,  hAge  hELalu 
 baruvudilla. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 405 
 
 hAgAgi,  avanu  hoLe  dATuttiddAne  emba  (12ca)  sollannu 
 baLasidAga,  `dATuva  esakada  eraDanE  kelasavannu  Ata  naDesuttiddAne' 
@@ -3028,10 +2896,8 @@ paDeda  hAge,  Ata  kada  taTTuttiddAne  emba  sollininda  `Ata  kada
 taTTida'  emba  oLahuruLannu  paDeyalu  baruttade  embudu  I  viSaya 
 vannu bembalisuttade. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
-406 / kannaDa barahada sollarime 
-
+
 koneyesakagaLU 
 
 munduvarikeya  viSayadalli 
@@ -3073,10 +2939,8 @@ baruvudilla.
 naDesida,  Adare  Atanige  dATalu  sAdyavAgalilla'  emba  bErondu 
 huruLinalli baLasabahudendu tOruttade. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 407 
 
 sAguvesaka  mattu  koneyesakagaLa  naDuvina  innondu  bageya 
 
@@ -3116,10 +2980,8 @@ padagaLa baLakeyannu keLage koTTiruva sollugaLalli kANabahudu:
 (20Ta)  Ake nadiyannu dATuttiddaLu. 
 (20ta)  seTTi angaDi bAgilu tereyuttidda. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-408 / kannaDa barahada sollarime 
 
 (1) koneyesakagaLalli esaka mugida mEle doretavemba innondu 
 hanta  iruvavu  mattu  antaha  hanta  illadavu  embudAgi  eraDu  bage 
@@ -3159,10 +3021,8 @@ esakagaLU  naDeyuttiddu,  A  hottinalli  adu  naDeyadeyU  ira
 bahudu:  avanu  iDI  divasa  Oduttidda  (Adare,  UTa,  snAna 
 modalAdavugaLannu naDesuttiddAga Oduttiralilla). 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 409 
 
 (3)  mugitAyavillada  esakagaLu  (sAguvesakagaLu)  svalpamaTTige 
 iruhagaLa hAge kANisuttave: antaha esakada ondu tunDu A esakada 
@@ -3205,10 +3065,8 @@ tirugalu  toDagiddAne;  adare  adannu  innU  mugisilla'  emba  huruLu
 adakkirabahudu,  illavE  `Ata  halavu  suttu  tirugiddAne,  mattu  innU 
 tiruguttiddAne' emba huruLU adakkirabahudu. idakke badalu, (27ca) 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-410 / kannaDa barahada sollarime 
 
 sollige `Ata ELalu toDagiddAne, Adare innU eddilla' emba ondu 
 bageya huruLu mAtra sigaballudu. 
@@ -3246,10 +3104,8 @@ huruLannu  paDeyalu  baruttade;  Adare,  (28ca)  sollininda  A  rIti
 `avanu  kate  bareda'  emba  huruLannu  paDeyalu  baruvudilla.  `kate 
 bareyuva'  esakakkiruva  toDagu,  munduvarisu  mattu  mugisu  emba 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 411 
 
 mUru  hantagaLalli  naDuvinadannu  mAtra  (28ca)  sollu  tiLisuttiru 
 vudE idakke kAraNa. 
@@ -3290,10 +3146,8 @@ idE  rItiyalli  ODuvudu  embudakke  mugitAyavilladiddarU
 aydu  kilO  mITar  ODuvudu  embudakke  mugitAyavide; 
 hAgAgi,  (30ca)dalli  kANisida  hAge,  adarondige  ondu  ganTeyalli 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-412 / kannaDa barahada sollarime 
 
 embudannu  baLasalu  baruttade,  mattu  (30Ta)dalli  kANisida  hAge, 
 ondu ganTe embudannu baLasalu baruvudilla. 
@@ -3330,10 +3184,8 @@ intaha  kaDegaLalli  ADu  embudu  `obbanannobba'  illavE  `obbani
 gobba' emba huruLannu sErisuttade embudannu (33ka) mattu (33ca) 
 sollugaLa naDuvina vyatyAsadinda tiLiyabahudu. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 413 
 
 5.4.4 hottina iTTaLadalli mArpADugaLu 
 mEle  vivarisidantaha  sAguvesaka,  caNadesaka  mattu  koneyesakagaLemba 
@@ -3372,10 +3224,8 @@ hanta naDeyuttideyemba huruLu dorakuttade.
 munduvarikeya  iTTaLadalli  koneyesakavannu  baLasidalli,  adu 
 modalE  suruvAgittu,  Adare  konegonDiralilla  emba  huruLu  sigu 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-414 / kannaDa barahada sollarime 
 
 ttade.  ettugegAgi,  kaliyuttiddAne  embudakke  `kaliyalu  surumADi 
 ddAne, Adare innU kalitAgilla' emba huruLide.   
@@ -3417,10 +3267,8 @@ koneyembudilladiruvudE I vyatyAsakke kAraNa.
 (38ca)  avanu kada taTTiddAne. 
 (38Ta)  avanu hoLe dATiddAne. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 415 
 
 bAgilu  muccuttiddAne  embudakke  `bAgilannu  innU  muccilla' 
 emba  huruLu  baraballudu,  illavE  `bAgilannu  (bEre  yAvanO) 
@@ -3461,10 +3309,8 @@ koTTiruva mUru sollugaLannu gamanisabahudu:
 (1ca)  bassu keTTirabEku. 
 (1Ta)  bassu keTTirabahudu. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-416 / kannaDa barahada sollarime 
 
 mElina mUru sollugaLU `bassu keTTiruva' esakavannu tiLisuttave; 
 Adare,  avugaLalli  (1ca)  mattu  (1Ta)  sollugaLu  hAge  tiLisuvuda 
@@ -3505,10 +3351,8 @@ avanige anisuttade emba horasollina mUlaka tiLisalAgide; (2ca)
 dalli  idannu  A  rIti  tiLisadiddarU  adu  ondu  kaTTaleyemba  huruLu 
 dorakuttade;  (2Ta)dalli  adu  A  dESada  baLake  embudannu  sollina 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 417 
 
 llEnE  tiLisalAgide;  mattu  (2ta)dalli  adu  kaTTaleyU  irabahudu, 
 ADugana niluvU irabahudu.   
@@ -3554,10 +3398,8 @@ nilukuvantaha  viSayagaLannu  innobbarige  tiLisuvudakkAgi  baLakeyAgu
 ttave; idakke badalu, ADugana niluvembudu manassinalli mUDuvantaha 
 anisikegaLannu innobbarige tiLisuvudakkAgi baLakeyAguttade.   
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-418 / kannaDa barahada sollarime 
 
 5.5.1 niluvina neravesakapadagaLu 
 ADugana  niluvannu  tiLisuva  bEku,  bahudu,  bAradu,  bal,  Ar 
@@ -3597,10 +3439,8 @@ ide; I viSayadallU adu bEre arikerUpagaLannu (mADu, mADi,
 mADiri, tinnu, tinni, tinniri) hOluttade embudannu gamanisabahudu. 
 idakke  badalu,  bEku  padakke  intaha  halaveNikeya  rUpagaLilla.  I 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 419 
 
 viSayavU bEku mattu bEDa embavu bEre bEre iTTaLagaLalli baLake 
 yAguva padagaLu embudannu bembalisuttade.  
@@ -3639,10 +3479,8 @@ bAradu embudu tiLisuva allagaLeyuva ottAsege edurAgi esaka
 vondu hinde naDedittu embudannu tiLisuvudakkAgi adarondige ittu 
 illavE Agittu embudannu baLasalAguttade: 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-420 / kannaDa barahada sollarime 
 
 (6ka)  avaru hIge mADabAradittu. 
 (6ca)  nIvu adannella avarige hELabAradAgittu. 
@@ -3682,10 +3520,8 @@ I mUru neravesakapadagaLannU paricerUpadalli baLasalu baruttade;
 Adare,  ivu  hottina  oTTugaLondige  baruvudilla;  hAgAgi,  avakke 
 ondondu parice rUpa mAtra doreyuttade. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 421 
 
 (9ka)  Ata mADaballa kelasa illi ondU illa. 
 (9ca)  akki muDi horalAradavaru illige baruvudu bEDa. 
@@ -3726,10 +3562,8 @@ baruttade. ivugaLige kelavu ettugegaLannu keLage koDalAgide:
 
 hEge? 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-422 / kannaDa barahada sollarime 
 
 ivugaLalli Aguttade mattu Ayitu embavugaLannu baLasi, sollina 
 
@@ -3767,10 +3601,8 @@ emba uLida mUru jODisuva rUpagaLa baLakeyAguvante tOruvu
 (17ta)  *nUrAru kaTTaDagaLannu keDavalAgalide. 
 (17pa) ?nUrAru kaTTaDagaLannu keDavalAgade tondareyAgide. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 423 
 
 (5) bEre holabugaLu 
 ADugana niluvannu tiLisalu mEle vivarisidantaha neravesakapadagaLa baLake 
@@ -3811,10 +3643,8 @@ ottAseyannu  taruvalliyU  iveraDannu  baLasalu  baruttade;  ivallade,
 bAradu,  Agadu,  kUDadu,  mattu  takkaddu  emba  nAlku  heccina 
 padagaLannU  idakkAgi  baLasalAguttade;  mattu,  esakavannu  naDesuvalli 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-424 / kannaDa barahada sollarime 
 
 mADuga  illavE  Aguganigiruva  aLavannu  tiLisalu  bal,  Ar,  Agu 
 mattu ol embavugaLannu baLasalAguttade. ivugaLalli Ar embudannu 
@@ -3854,10 +3684,8 @@ samSaya hecciruvalli baLakeyAguttade:
 (22ka)  avaru manege hOgirabEku. 
 (22ca) avaru manege hOgirabahudu. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 425 
 
 hinde naDediruva ondu esakada kuritAgi ADuganige heccu samSaya 
 villadiruvalli  (22ka)  sollannu,  mattu  samSaya  hecciruvalli  (22ca) 
@@ -3903,10 +3731,8 @@ kANisikoLLuttave.  I  viSayadalli  nuDigaLa  naDuveyU  kelavu  vyatyAsa
 gaLive embudannu kanDuhiDiyalAgide. ettugegAgi, ingliS barahagaLalli 
 kANisikoLLuvaSTu ivu jarman barahagaLalli kANisikoLLuvudilla.   
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-426 / kannaDa barahada sollarime 
 
 bEku mattu bahudu emba I eraDu padagaLa baLakeya kuritAgi 
 
@@ -3952,10 +3778,8 @@ eraDu  sollugaLallU  ADugaru  ondu  esakada  kuritAgi  tamma
 niluvannu tiLisuttiddAre embudannu gamanisabahudu. (28ka-ca) sollu 
 gaLa naDuveyU intahadE vyatyAsavide. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 427 
 
 I  padagaLu  yAva  huruLinalli  baLakeyAgive  embudannu  heccineDe 
 gaLallU avannu baLasiruva sandarbavE tiLisuttade; Adare, kelavomme I 
@@ -4001,10 +3825,8 @@ ottAseya  huruLu  siguttadallade  arivina  (bEhada)  huruLu  siguvu
 (32ka)  avanu elligU hOgadirabahudu. 
 (32ca) avanu elligU hOgadirabEku. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-428 / kannaDa barahada sollarime 
 
 (32ka) sollige ottAseya huruLu mAtravallade arivina huruLU 
 ide;  Adare,  (32ca)  sollige  ottAseya  huruLu  mAtra  ideyallade 
@@ -4048,10 +3870,8 @@ embudAgi tiLisuttade, mattu bahudu embudu `hAge naDesalu oppige
 yide  (Adare  adu  kaDDAyavEnalla)'  embudannu  tiLisuttade.  hAgAgi, 
 bEku embudu tiLisuva ottAseya niluvannu `kaDDAya'da niluvendU, 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 429 
 
 bahudu embudu tiLisuva ottAseya niluvannu `oppita'da niluvendU 
 illi hesarisabahudu. 
@@ -4090,10 +3910,8 @@ bahudu.  ettugegAgi,  (37ka)  sollige  `avaLige  eSTu  dina  ira
 bEkendideyO  aSTu  dina  avaLu  illi  irabahudu'  emba  oppigeya 
 huruLiraballudu, illavE `nimage avaLu eSTu dina irabEkendideyO 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-430 / kannaDa barahada sollarime 
 
 aSTu dina avaLu illiralu tayAriddALe' emba aLavina huruLU ira 
 balludu. 
@@ -4133,10 +3951,8 @@ gaTTiyAguttade embudannu keLagina sollugaLalli kANabahudu:
 (41ka)  ivattu nIvu puNege hOgabahudu. 
 (41ca) *ivattu nIvu puNege hOgalEbahudu. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 431 
 
 (42ka)  jEnutuppavannu kudisabAradu. 
 (42ca) jEnutuppavannu kudisalEbAradu. 
@@ -4176,10 +3992,8 @@ sollugaLallU baLasalu baruttade:
 
 hEge? 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-432 / kannaDa barahada sollarime 
 
 (6)  baLakeya  sandarba:  kelavomme  sollugaLannu  baLasiruva  sandarba 
 gaLu  bEku  embudara  huruLu  tagguvante  mADaballuvu,  mattu 
@@ -4217,10 +4031,8 @@ bahudu:
 kELuganu  Enu  mADabEku  embudannu  (48ka)  sollu  nEravAgi 
 tiLisuttade;  Adare  (48ca)  sollu  A  rIti  nEravAgi  tiLisuva  badalu, 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 433 
 
 `kELuganu oLage hOguva' esakada kuritu ADugana ottAseyide (hAge 
 hOguvudu kaDDAya) embudAgi adannE OreyAgi tiLisuttade. idE 
@@ -4263,10 +4075,8 @@ oppigeyannu A rIti allagaLeyalu baruvudilla.
 (53ka)  nIvu avara manege hOgakUDadu. 
 (53ca) idannu yArU muTTabAradu. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-434 / kannaDa barahada sollarime 
 
 hOgabEDa  embudu  ondu  arikerUpada  hAge  baLakeyAgu 
 ttadeyEnO nija (5.4.1(1) nODi); Adare, adu hOgadirabEku 
@@ -4311,10 +4121,8 @@ endU hELabahudu. idannu keLagina sollugaLalli kANabahudu:
 
 talapabEku. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 435 
 
 (56ca) I  janara  kaTTaleyante,  illi  kattalAguva  modalE 
 
@@ -4362,10 +4170,8 @@ yannu  tiLisuva  bEku  mattu  bahudu  padagaLannu  A  rIti  ondE
 varaseya eraDu hantagaLendu tiLiyalu baruvudilla. yAkendare, oppita 
 eSTu jOrAgiddarU kaDDAyavAgalAradu, mattu kaDDAya eSTu nirbala 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-436 / kannaDa barahada sollarime 
 
 vAgiddarU  oppitavAgalAradu.  hAgAgi,  avannu  eraDu  bEre  bEre 
 varasege sEridavugaLendu tiLiyabEkAguttade.   
@@ -4405,13 +4211,11 @@ mattu ol embudu bayakeyannu tiLisuttade:
 bEku  pada  mukyavAgi  ADugana  ottAseyannu  tiLisalu  baLake 
 yAguttadeyAdarU,  kelavomme  ADugana  bayakeyannu,  illavE  Atana 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
 mEliruva  sandarbada  ottaDavannu  tiLisalu  baLakeyAguttade.  idannu 
 keLagina sollugaLalli kANabahudu: 
 
-esakapadagaLa baLake / 437 
 
 (60ka)  nAnu ivattu puNege hOgabEku. 
 (60ca)  nanage ivattu puNege hOgabEku. 
@@ -4450,10 +4254,8 @@ mADalu  baruttade  emballi  baru  padavannU  aLavannu  tiLisalu
 baLasalAgide;  Adare  illi  aLavu  obba  mADuganadAgirade,  sandarba 
 ddAgideyendu tOruttade.  
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-438 / kannaDa barahada sollarime 
 
 5.5.8 hottina pattuge mattu ADugana niluvu  
 (1)  ADugana  niluvu  mattu  mumbottu  embavugaLa  naDuve  hattirada 
@@ -4507,10 +4309,8 @@ mADadiralolle
 mADadiraballe 
 mADadirabAradu 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 439 
 
 (2) ottAse mattu hottina pattuge: ADugana ottAseyannu tiLisuva 
 sollugaLella  solluhottina  baLika  naDeyuvantaha  esakagaLannu  mAtra 
@@ -4550,10 +4350,8 @@ huruLu  doreyuttade.  uLida  sollugaLigU  intahavE  himbottina
 huruLu  mattu  allagaLeyuva  huruLugaLive  embudannu  gamanisa 
 bahudu.  
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-440 / kannaDa barahada sollarime 
 
 (64ta)dalli  hattu  esakapadada  allagaLeyuva  hattade  rUpavannu 
 baLasiruva  kAraNa,  adakke  naDeyabAradidda  esaka  naDedide  (`guDDakke 
@@ -4594,13 +4392,11 @@ valla) embudannu tiLisuva innondu angavU ide.
 hAgAgi,  intaha  sollugaLalli  allagaLetavannu  eraDu  kaDegaLalli 
 irisalu  baruttade:  adaralliruva  hELikeyannu  allagaLeyabahudu, 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
 illavE  A  hELikeya  kuritAgi  ADuganigiruva  niluvannu  allagaLeya 
 bahudu. I vyatyAsavannu keLagina sollugaLalli kANabahudu: 
 
-esakapadagaLa baLake / 441 
 
 (67ka)  I pustakavannu avanu Odirabahudu. 
 (67ca) I pustakavannu avanu Odadirabahudu. 
@@ -4637,10 +4433,8 @@ embudAgi  hELabahudu;  yAkendare,  `ondu  esaka  naDedilla'  illavE
 `naDeyuvudilla' endu hELuvAga, ADuganu adara iruvikeya kuritu 
 tanna tiLivannu illavE tIrmAnavannu tiLisuttiruttAne.  
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-442 / kannaDa barahada sollarime 
 
 kannaDadalli  esakagaLu  himbottinalli  naDeyadiruvudannu  tiLisalu, 
 mADalilla,  hOgalilla,  bareyalilla  embantaha  baLakegaLalli 
@@ -4680,10 +4474,8 @@ koTTiruva sollugaLU idakke ettugeyAgaballuvu:
 (68ka)dalli  `avaru  maneyalliddAre'  emba  hELike,  mattu  adara 
 kuritAgi `A hELike nijavirabahudu' emba ADugana (iruhada) niluvu 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 443 
 
 embudAgi  eraDu  angagaLive;  ivugaLalli  modalinadannu  (68ca)dalli, 
 eraDaneyadannu  (68Ta)dalli,  mattu  eraDannU  (68ta)dalli  allagaLeya 
@@ -4722,10 +4514,8 @@ nnAgali illavE hELikeyannAgali allagaLeyalu baruttade, mattu ondE
 sollinalli averaDannU allagaLeyalU baruttade; idannu keLagina sollu 
 gaLalli kANabahudu: 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-444 / kannaDa barahada sollarime 
 
 (71ka)  Ita horage hOgabEku. 
 (71ca) Ita horage hOgabEkAgilla. 
@@ -4767,10 +4557,8 @@ mattu hELikegaLeraDannU allagaLeyalu baruttade.
 (73Ta) avaru illige baradirabahudu. 
 (73ta)  avaru illige baradirakUDadu. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 445 
 
 (73ka)dalli  bandiruva  niluvannu 
 
@@ -4820,10 +4608,8 @@ balle mattu Are embavugaLa naDuvina sambanda bEku mattu olle
 
 embavugaLa naDuvina sambandakkinta heccu hattiraddendu tOruttade. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-446 / kannaDa barahada sollarime 
 
 illiyU  esakavannu,  aLavina  hELikeyannu  illavE  averaDannU 
 
@@ -4872,10 +4658,8 @@ allagaLeda hELike + allagaLeda bEku
 
 = 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 447 
 
 Adare, arivina niluvannu tiLisuva kannaDada sollugaLu I Araygara 
 kaTTaleyannu  baLasikoLLuva  hAge  kANisuvudilla;  idannu  keLage 
@@ -4916,10 +4700,8 @@ gaLu  mattu  10  naDurUpagaLive,  Adare,  illa  padakke  ondE  ondu
 konerUpa  (illa),  mattu  nAlku  naDurUpagaLive  (illada,  illade, 
 illadudu, illadike).  
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-448 / kannaDa barahada sollarime 
 
 iru  pada  nAlku  bageya  jODisuva  rUpagaLa  baLikavU  neravesaka 
 padavAgi  baLakeyAgaballudu,  Adare,  illa  pada  mAresakada  illavE 
@@ -4963,10 +4745,8 @@ hOgade embudara baLika, iddu, iralu, bahudu, Agi, mattu ittu
 emba  aydu  neravesakapadarUpagaLa  baLakeyAgide.  I  rIti  yAva 
 neravesakapadagaLu  elli  baLakeyAgaballuvu,  mattu  entaha  OraNadalli 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 449 
 
 avu  baLakeyAgaballuvu  embudara  kuritu  kelavu  kaTTuniTTAda  kaTTale 
 gaLive.  
@@ -5008,10 +4788,8 @@ emba rUpadalli baraballudu (Oduttiddirabahudu, Odaliddirabahudu,
 Odiddirabahudu);  Adare,  idara  baLika  bahudu  illavE  bEku 
 embudu arivina huruLinalli baLakeyAgiruttade (OduttiddirabEku).  
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
-450 / kannaDa barahada sollarime 
-
+
 (5) niluvina neravesakapadagaLa baLika nEravAgi iru padavannu adara 
 ittu  rUpadalli  mAtra  baLasaballevu  (OdabEkittu);  Adare,  avugaLa 
 baLika  Agi  padavannu  baLasidevAdalli,  iru  padada  ide  mattu  ittu 
@@ -5080,10 +4858,8 @@ OduttiddirabEDavAgittu
 esakarUpagaLa  mUlaka  esakagaLa  aLaviyannU  tiLisalu  baruttade; 
 idaralli mukyavAgi (1) esakada oLa iTTaLadalli kANisuva aLaviyannu 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 451 
 
 tiLisuvudu,  mattu  (2)  iDI  esakada  aLaviyannu  tiLisuvudu  embu 
 dAgi eraDu bagegaLiruttave. ettugegAgi, keLage koTTiruva sollugaLannu 
@@ -5124,10 +4900,8 @@ padagaLondige  baLasalu  baruvudilla.  ettugegAgi,  huTTu,  nillu,
 horaDu  modalAda  esakapadagaLondige  hantagaLannu  tiLisuva  pada 
 gaLannu baLasalu baruvudilla: 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-452 / kannaDa barahada sollarime 
 
 *adu tumbA huTTide. 
 
@@ -5164,10 +4938,8 @@ tiLisuva  huruLu  mAtravallade,  baLakeya  esakavannu  tiLisuva  huruLU
 ide embudannu mEle (5.2.2)ralli nODiruvevu. ettugegAgi, keLage 
 koTTiruva (5)nE sollannu gamanisabahudu: 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
     
-esakapadagaLa baLake / 453 
 
 (5)  avanu sAlege bassinalli hOguttAne. 
 (5ka)  avanu ivattu sAlege bassinalli hOguttAne.  
@@ -5209,10 +4981,8 @@ kAraNa, tereyuvudilla.
 tiLisiruvalli  ondu  esaka  halavu  bAri  (dinAlU)  naDeyuttiruttade 
 embudAgi  tiLisalAguttideyAda  kAraNa,  adu  esakagaLigiruva  hottina 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-454 / kannaDa barahada sollarime 
 
 iTTaLavannu  tiLisuttade  embudAgiyU  hELaballevu,  mattu  idannu 
 keLage koTTiruva viSaya bembalisuttade: 
@@ -5254,10 +5024,8 @@ vannu tiLisaballuvu:
 
 baruttiruttEve. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 455 
 
 (4) Ipottina jODisuva rUpadondige iru padada mumbottina 
 rUpavannu  baLasidAga  I  rIti  adakke  Ipottina  baLakeya  esakavannu 
@@ -5296,10 +5064,8 @@ vannu illavAgisalu baruttade:
 (12ka)  I bassu ivattu mUru ganTege horaDuttade. 
 (12ca)  I bassu yAvAgalU mUru ganTege horaDuttade. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-456 / kannaDa barahada sollarime 
 
 (13ka)  nALe beLigge nAnu nAlku ganTege ELuttEne. 
 (13ca)  nAnu dinAlU nAlku ganTege ELuttEne. 
@@ -5339,10 +5105,8 @@ munde naDeyaliruva esaka, baLakeya esaka, nijasangatiya esaka, mattu
 parice  esaka  emba  I  nAlku  bageya  baLakegaLiraballuvu.  idannu  keLage 
 koTTiruva sollugaLalli kANabahudu. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 457 
 
 (ka) mumbottina paricerUpa: 
 
@@ -5387,10 +5151,8 @@ bAgilu muccuttAre.
 nijasangatiyannu tiLisuva (17ka) sollige (17ca)dalli tiLisidantaha 
 huruLide; Adare, baLakeya esakavannu tiLisuva (17Ta) sollige (17ta) 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
   
-458 / kannaDa barahada sollarime 
 
 sollinalli tiLisiruvantaha huruLilla. Adare, I eraDu bageya sollu 
 gaLU halavu bAri naDeyuva esakagaLannu tiLisuttave. 
@@ -5426,10 +5188,8 @@ avugaLondige ADu pada bandiddu, antahavE esakagaLu halavu bAri
 naDediruvudannu tiLisuttave. keLage koTTiruva sollugaLallU ADu pada 
 intahadE aLaviya huruLannu koDuttade:  
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 459 
 
 (21ka)  aysakrIm tandudannu nODi makkaLu kuNidADidaru. 
 (21ca)  sAkaSTu kuDidudarindAgi Ata tUrADuttidda. 
@@ -5468,10 +5228,8 @@ tirutirugi, moLamoLagi embavugaLalli esakapadada koneya barige
 
 kanteyE bidduhOgiruvudannu kANabahudu. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-460 / kannaDa barahada sollarime 
 
 (3)  esakapadada  koneyalli  halaveNikeya  oTTannu  baLasuvuda 
 rindalU adu tiLisuva esaka halavu bAri naDeyuttade emba huruLu 
@@ -5511,10 +5269,8 @@ esakadondige baLasalu baruvudilla:
 (26Ta)  *nAnu arda ganTeyinda tirutirugi ODuttiddEne. 
 (26ta)  nAnu arda ganTeyinda tirutirugi hELuttiddEne. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-esakapadagaLa baLake / 461 
 
 (26Ta) sollannu (26ka) sollina huruLinalli baLasalu baruvudilla; 
 Adare,  (26ta)  sollannu  (26ca)  sollina  huruLinallE  baLasalu 
@@ -5554,10 +5310,8 @@ vivarisalAgide.
 hottina  pattugeyannu  esakapadagaLigiruva  mumbottu  mattu 
 himbottu  emba  eraDu  padarUpagaLa  mUlaka  tiLisalAguttade:  esaka 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-462 / kannaDa barahada sollarime 
 
 solluhottina  baLika  naDeyuttade  embudannu  mumbottina  rUpa 
 tiLisuttade,  mattu  adara  modalu  naDedide  embudannu  himbottina 
@@ -5594,12 +5348,11 @@ esakada  aLaviyannu  tiLisuvudakkAgi  esakapadagaLa  kelavu  padarUpa
 gaLannu,  iru  neravesakapadavannu,  mattu  esakapadagaLa  immaDi  rUpa 
 gaLannu baLasalAguttade.   
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
 <a id="adhyAya-6"></a>
 
-[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#adhyAya-6) | [English →](./07-kannaDa-barahada-sollarime-en#chapter-6--noun-phrase-structure)
+[English →](./07-kannaDa-barahada-sollarime-en#chapter-6--noun-phrase-structure) | [Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#adhyAya-6)
 
 6. hesarukantegaLa iTTaLa 
 
@@ -5635,10 +5388,8 @@ oTTU  bandilla;  nijakkU  adarondige  I  kelasakkAgi  annu  emba
 oTTannu  baLasabahudu;  adare,  sAmAnyavAgi  adannu  baLasadiruvudE 
 heccu;  idE  sollannu,  keLage  (1ka)dalli  kANisida  hAge,  bErondu 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-464 /kannaDa barahada sollarime 
 
 rItiyalli baredare, gombe padadondige annu oTTannu baLasabEkAgu 
 vÀÛzÉ. 
@@ -5688,10 +5439,8 @@ kELuganige
 
 embudu 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 465 
 
 rAjuvina mane, hosa mane, doDDa mane, SAleya edurigiruva 
 mane  embantaha  hesarukantegaLannu  baLasalAguttade.  ivugaLalli  mane 
@@ -5736,10 +5485,8 @@ hesarupadada  badalu  nIvu  koTTa  I  haNNu  emba  hesarukanteyannu
 baLasalu  ADuganige  A  haNNina  hesaru  maretiruvudu  illavE  tiLidilla 
 diruvudu kAraNavirabahudu. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-466 /kannaDa barahada sollarime 
 
 barE  ondu  hesarupadada  badalu  hesarukanteyannu  baLasalu 
 ivakkintalU mukyavAda kelavu kAraNagaLive. ettugegAgi, hesarupadagaLa 
@@ -5779,10 +5526,8 @@ hesarukantegaLu  ondu  kogetavannu  (varNaneyannu)  koDuttiddu,  I
 kogetada mUlaka avu pAngugaLannu gurutisuvantaha kelasavannu naDesu 
 ttave.  idallade,  intaha  kogetagaLannu  koDuvudakkAgi  avu  eraDu 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 467 
 
 illavE  heccu  hesarugaLannu  (mattu  bEre  bageya  padagaLannu)  baLasu 
 ttave.  hAgAgi,  hesarugaLa  baLake  modalaneya  hantadalli  naDeyuttade, 
@@ -5827,10 +5572,8 @@ yannu  gurutisuttade.  I  huruLannu,  endare  adu  tiLisuva  sIreya
 kogetavannu  baLasi,  adu  gurutisuva  pAngu  yAvudendu  tiLiya 
 bEkAguttade. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
-468 /kannaDa barahada sollarime 
-
+
 (2)  hesarukantegaLalli  kelavu  hesarupadagaLU  baruttiddu,  avugaLa 
 huruLannu, mEle vivarisida hAge, avu entaha pAngannu gurutisuttave 
 embudannu  tiLiyuva  mUlaka  kanDukoLLabEkAguttade;  Adare,  iDI 
@@ -5878,10 +5621,8 @@ dAga, I rIti pariceya Aykeyannu naDesabEkAguvudilla. yAkendare,
 yAva pariceyannu bEkiddarU baLasikonDu A vastuvannu gurutisaballa 
 hesarukanteyannu unTumADalu baruttade.  
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
-hesarupadakantegaLa iTTaLa / 469 
-
+
 ettugegAgi,  ugibanDi  emba  hesarupadavannu  unTumADuvAga, 
 `adu gurutisuva (hesarisuva) vastu yAvudarinda naDeyuttade' emba 
 viSayavannu adakkAgi Ayke mADalAgittu; idakke badalu, hIrukAgada 
@@ -5921,10 +5662,8 @@ nuDiyalli  baLakeyAguva  sollugaLannu  hOluttave:  hosa  hosa
 sollugaLannu  unTumADuva  hAge,  hosa  hosa  hesarukantegaLannu 
 unTumADuvudU nuDiya baLakege sambandisida kelasavAgide. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
-470 /kannaDa barahada sollarime 
-
+
 (6)  ondu  nuDiyalli  baLakeyalliruva  hesarugaLannu  (mattu  bEre 
 bagemiÀi padagaLannu) paTTimADabahudu; I kelasavannu nuDiya padanerake 
 gaLu  naDesuttave.  nuDiya  ADugarigintalU  barahagArarige  mattu 
@@ -5968,10 +5707,8 @@ tiruLu  padadondige  baruva  I  neravu  nuDitagaLu  tiruLu  pada
 gurutisuva pAngugaLa kuritAgi avugaLa (1) parice, (2) aLavi, mattu 
 (3)  jAga  embudAgi  mUru  mukya  viSayagaLannu  tiLisuttave.  I 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 471 
 
 mUru  mukya  viSayagaLU  gurutisuva  kelasadalli  tiruLu  padakke  nerava 
 nnodagisuttave. 
@@ -6015,10 +5752,8 @@ avugaLa  modalu  aLaviyannu  tiLisuva  pada  illavE  padakantegaLu
 baruttave, mattu jAgavannu tiLisuvavugaLu avakkU modalu baruttave. 
 idannu keLagina ettugeyalli kANabahudu: 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
-472 /kannaDa barahada sollarime 
-
+
 (5) 
 
 mEjina mEliruva eraDu hosa pustakagaLu  
@@ -6060,10 +5795,8 @@ pAngugaLannu nelegoLisuttade embudAgiyU hELabahudu. manassinalli
 kalpisikonDiruva vyakti, vastu, viSaya modalAdavugaLannu jAga (mattu 
 hottu)  nuDitagaLa  mUlaka  barahagArana,  Odugana,  illavE  bareyu 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 473 
 
 ttiruva  kateya  jAga  mattu  hottugaLondige  hondisikoDuva  kelasa 
 vannu avu mADuttave. 
@@ -6105,10 +5838,8 @@ idE  rItiyalli,  mAtra  pada  (10ka)dalli  rAju  padada  baLika
 bandide,  mattu  adarondige  ondu  padakanteyAgiyU  baLakeyAgide; 
 Adare, (10ca)dalli adu A padada modalu baLakeyAgide, mattu adu 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-474 /kannaDa barahada sollarime 
 
 A padadondige sEri ondu padakanteyAguva badalu, adara modalu 
 bandiruva idannu padadondige sEri bErondu padakanteyAgide. 
@@ -6148,10 +5879,8 @@ heccina vivaragaLannu tiLisuvudE I pasugeya guriyAgide.
 hesarukantegaLa  tiruLupadagaLAgi  baraballa  hesarupadagaLalli  halavu  bage 
 gaLive;  avannu  halavu  gumpugaLalli  vingaDisi  hELalu  baruttade. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 475 
 
 ettugegAgi,  koTTahesaru  mattu  iruvahesaru  embudAgi  hesarupada 
 gaLannu  eraDu  gumpugaLalli  vingaDisabahudu:  jAnaki  embudu  obba 
@@ -6196,10 +5925,8 @@ idallade,  eNisaballa  mattu  eNisalAgada  padagaLembudAgiyU
 
 hesarupadagaLannu eraDu gumpugaLalli gumpisalu baruttade.    
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
-476 /kannaDa barahada sollarime 
-
+
 Adare, I gumpugaLu ondannondu kattarisuva kAraNa, avannu bEre 
 bErAgi  pariSIlisabEkAguttade.  mukyavAgi,  I  padagaLondige  pada 
 kantegaLalli  entaha  neravu  nuDitagaLu  baraballuvu  embudara  mEle 
@@ -6237,10 +5964,8 @@ koDalAgideyembudu  adannu  iruvahesariginta  bErAgiruva  hAge
 mADuttade.  hAgAgi,  adu  halavu  huDugiyara  koTTahesarAgiyE 
 baLakeyAguttadallade iruvahesarAgi baLakeyAguvudilla.  
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 477 
 
 (3)  ondE  koTTahesaru  halavu  bageya  vyakti,  vastu  modalAdu 
 vannU  gurutisuttiraballudu;  ettugegAgi,  kAvEri  embudu  ondu 
@@ -6282,10 +6007,8 @@ illavE  vastuvige  koDalAgide  embudarinda  I  sambanda  unTAgide.
 hAgAgi,  ondu  koTTahesaru  yAradu  illavE  yAvudaraddu  embu 
 dannu tiLidavarige mAtra adannu baLasalu baruttade. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
-478 /kannaDa barahada sollarime 
-
+
 (6)  kelavomme,  tAvu  baLasuva  koTTahesaru  yArannu  illavE 
 yAvudannu  gurutisuttade  embudu  kELugarige  gottiralArademba 
 samSayaviruvalli,  ADugaru  adarondige  bErondu  hesarukanteyannu 
@@ -6327,10 +6050,8 @@ jAnaki  emba  koTTahesarinondige  halavacanada  aru  oTTannU  baLasa
 lAgide;  (2ta)dalli  obbanE  vyaktiya  eraDu  tOrkegaLannu  bErpaDisuvu 
 dakkAgi  rAjIva  padadondige  eraDu  oLasollugaLannu  baLasalAgide; 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 479 
 
 mattu  (2pa)dalli  gAndi  emba  iTTahesarannu  mArpuruLinalli  (`gAndi 
 yantahavanu' emba huruLinalli) baLasalAgide. 
@@ -6371,10 +6092,8 @@ I  kaTTalegiruva  ondu  horapaDikeyendare,  aLateyannu  tiLisuva
 padavannu  kelavomme  baLasadiralU  baruttade,  mattu  antaha  kaDegaLalli 
 oTTalu padagaLu eNikeya padadondige nEravAgi baLakeyAgiruva hAge 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-480 /kannaDa barahada sollarime 
 
 tOruttade.  ettugegAgi,  keLage  koTTiruva  sollugaLannu  gamanisa 
 bahudu: 
@@ -6418,10 +6137,8 @@ kANalu baruttade.
 Adare, otte hesarugaLu gurutisuva pAngugaLa paricegaLannu A rIti 
 ellA  bageya  aLavigaLallU  kANalu  baruvudilla;  ettugegAgi,  ondu 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 481 
 
 kOtige  bAla  ideyendu  hELabahudu,  Adare  kOtigaLa  ondu 
 gumpige bAla ideyendu hELalu baruvudilla.     
@@ -6463,10 +6180,8 @@ gaLannu baLasuva bage modalAda halavu viSayagaLa mEle avalambiside.
 ettugegAgi,  marada  elegaLannu  suLuvAgi  vingaDisi  ondondAgi 
 gurutisi  hesarisabahudu;  hAgAgi,  ele  emba  pada  ottehesarAgi  baLake 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
-482 /kannaDa barahada sollarime 
-
+
 yAguttade;  Adare,  hullina  `ele'gaLannu  aSTu  suLuvAgi  vingaDisi 
 gurutisalu  baruvudilla;  hAgAgi,  hullu  emba  pada  oTTaluhesarAgi 
 baLakeyAguttade. 
@@ -6510,10 +6225,8 @@ padagaLa padarUpagaLu (huDuga bidda, huDugi biddaLu, haNNu bittu;
 huDugaru biddaru, haNNugaLu bidduvu), tOrupadagaLa padarUpagaLu 
 (avanu,  avaLu,  adu,  doDDavanu,  doDDavaLu,  doDDadu), 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 483 
 
 esakapadagaLa  hesarurUpagaLu  (bandavanu,  bandavaLu,  bandudu) 
 modalAdavugaLalli kANalu baruttade. 
@@ -6558,10 +6271,8 @@ hantada  hesarupadagaLondige  jAgada  paricepadagaLannu  ottAyadinda
 sErisi hELalU baruttade. ettugegAgi, Icegina pustaka emba hesaru 
 kanteyalli  modalanE  hantada  pustaka  padadondige  hottina  parice 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-484 /kannaDa barahada sollarime 
 
 yannu  tiLisuva  Icegina  pada  bandide;  Adare,  nijakkU  idu  `Icege 
 barediruva' illavE `Icege accAgiruva' pustakavannu gurutisuttade. 
@@ -6601,10 +6312,8 @@ vyatyAsa. I vyatyAsavannu keLage koTTiruva sollugaLalli kANabahudu:
 padagaLigU naDuviruva innondu vyatyAsavannu keLage koTTiruva sollu 
 gaLalli kANabahudu: 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 485 
 
 (8PÀ) 
 
@@ -6649,10 +6358,8 @@ nEravAgi intaha sollugaLalli baLasalu baruvudilla.
 maduveyannu  naDesidudu  sariyAgilla  ennabahudallade,  nEra 
 vAgi  maduveyE  sariyalla  endu  hELalu  baruvudilla.  hAgiddarU 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-486 /kannaDa barahada sollarime 
 
 ottAyadinda modalanE huruLu siguva hAge (11ca)vannU baLasalu 
 baruttade. 
@@ -6691,10 +6398,8 @@ vAgi  modalanE  hantada  pAngugaLiruva  sollugaLinda  paDeyalAgu
 ttade; ettugegAgi, rAju harige ondu pustaka koTTa emba sollinalli 
 rAju,  hari  mattu  pustaka  emba  mUru  modalanE  hantada 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 487 
 
 pAngugaLu  toDagikonDive;  I  sollininda  rAju  harige  pustaka 
 koTTudu emba eraDanE hantada hesarurUpavannu paDeyabahudu.  
@@ -6733,10 +6438,8 @@ pAngannu gurutisuttade.
 ondanE hantada mara, kallu, nIru, hAlu modalAda hesarupadagaLu 
 gurutisuva  pAngugaLige  avugaLadE  Ada  pariju  (rUpa)  iruttade; 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-488 /kannaDa barahada sollarime 
 
 avannu  kaNNininda  nODabahudu,  illavE  kayyinda  muTTabahudu. 
 Adare,  avugaLinda  mElina  hantagaLalli  (eraDarinda  nAlkara  varegina 
@@ -6780,10 +6483,8 @@ parijiruva  mattu  parijillada  padagaLa  naDuvina  kelavu  vyatyAsagaLannu
 
 keLage vivarisalAgide: 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
-hesarupadakantegaLa iTTaLa / 489 
-
+
 (1) mEle tiLisida hAge, parijiruva otte padagaLa hAge parijillada 
 otte  padagaLU  halaveNikeya  oTTinondige  baraballuvu  (bayakegaLu, 
 anisikegaLu),  mattu  nEravAgi  eNikeya  padagaLondigU  baraballuvu 
@@ -6821,10 +6522,8 @@ baLasalAgiddu, adakke hottina elleyannu hAkalAgide.
 mEle  vivarisida  gumpugaLannu  aDDakke  kattarisuvante  hesarupadagaLannu 
 eNisaballa  mattu  eNisalAgada  padagaLembudAgiyU  bErpaDisalu 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-490 /kannaDa barahada sollarime 
 
 baruttade.  maruka,  bEsara,  gOLu,  madipu  modalAda  halavAru 
 parijillada  (rUpavillada)  padagaLu,  kAvEri,  puNe,  nitin  modalAda 
@@ -6862,10 +6561,8 @@ pAngugaLa  naDuve  avugaLa  pariceyalliruva  halavu  bageya  vyatyAsa
 gaLannu avannu gurutisuvudakkAgi baLakeyAguva hesarupadagaLa huruLu 
 gaLE tiLisuttave:  
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 491 
 
 ettugegAgi, mara mattu giDa padagaLa huruLugaLu avu gurutisuva 
 pAngugaLa  naDuve  harayada  vyatyAsavide  (`marakke  giDakkinta  heccu 
@@ -6915,10 +6612,8 @@ yAguvudilla.
 idE  rItiyalli,  ondu  mane  adannu  kaTTida  samayadalli  hattirada 
 manegaLindella  hosadAgidda  kAraNa,  adakke  hosamane  emba  hesarannu 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
-492 /kannaDa barahada sollarime 
-
+
 koTTirabahudu;  Adare  AmEle,  hattippattu  varSa  kaLeda  baLika,  sutta 
 mutta  bEre  halavu  `hosa'  manegaLannu  janaru  kaTTirabahudu; 
 hAgiddarU  hosamane  emba  A  maneya  haLeya  hesaru  badalAgade 
@@ -6964,10 +6659,8 @@ hesarupadagaLa pariceyannu tiLisuva bage hEge embudannu keLage vivarisa
 paricepadagaLu  esakapada  mattu  hesarupadagaLiginta  tIra  bErAgiruva 
 kelasavannu  naDesabEkAguttade:  esakapadagaLu  esakagaLannu  tiLisuttave, 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
    
-hesarupadakantegaLa iTTaLa / 493 
 
 mattu  hesarupadagaLu  antaha  esakagaLalli  toDagikonDiruva  pAngu 
 gaLannu  gurutisuttave;  Adare,  paricepadagaLu  I  eraDaneya  kelasadalli 
@@ -7009,10 +6702,8 @@ tIra cikka mane).
 hesarupadagaLondige  baruva  paricepadagaLannu,  avugaLa  huruLannu 
 avalambisi,  illavE  avu  yAva  rItiyalli  hesarupadagaLige  avugaLa 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
-494 /kannaDa barahada sollarime 
-
+
 gurutisuva  kelasadalli  neravannu  nIDuttave  embudannavalambisi,  halavu 
 bagegaLalli  gumpisalu  baruttade.  ivugaLalli  mukyavAda  kelavu  gumpu 
 gaLannu keLage vivarisalAgide: 
@@ -7058,10 +6749,8 @@ haligeya  dappa  embantaha  baLakegaLiveyallade,  *kaNiveya  sapura,
 (2ka)  I tantiya udda tusu kaDime ide. 
 (2ca)  *I tantiya giDDa tusu kaDime ide. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
    
-hesarupadakantegaLa iTTaLa / 495 
 
    (ca)  manuSyara  paricegaLu:  mayge  sambandisidavu  mattu 
 manassige  sambandisidavu  embudAgi  I  padagaLannu  eraDu  oLagumpu 
@@ -7110,10 +6799,8 @@ hELabahudu;  ivugaLallU  kUDa,  yAva  eraDu  padagaLU  eduru
 huruLina  jODiyAgi  kANisikoLLuvudilla.  kappu-biLi  embuvakke 
 mAtra svalpa maTTige intaha baLakeyide. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-496 /kannaDa barahada sollarime 
 
 (ta) beleya paricegaLu: vastugaLa beleyannu tiLisuva agga, aNNe, 
 nalla,  nanni,  husi,  holla,  cokka,  cenna,  oLLe  modalAda 
@@ -7153,10 +6840,8 @@ kaDimeyAgiruttade.  yAkendare,  huDuga  pada  yAva    vyaktigaLannella
 gurutisaballudO avaralli cikka emba pariceyiruva vyaktigaLannu mAtra 
 cikka huDuga emba padakante gurutisaballudu. hAgAgi, cikka paricepada 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
   
-hesarupadakantegaLa iTTaLa / 497 
 
 illi  huDuga  hesarupadada  haravannu  kaDime  mADuttade  illavE 
 kuggisuttadeyendu hELabahudu. 
@@ -7196,10 +6881,8 @@ udda  paricepadavannu  hOlikeyannu  tiLisuva  iTTaLadalli  baLasalu
 baruttade;  Adare,  pAngannu  badalAyisuva  suLLu  illavE  husi 
 padavannu antaha iTTaLadalli baLasalu baruvudilla. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-498 /kannaDa barahada sollarime 
 
 tumbA udda kOlu nammallilla. 
 (3PÀ) 
@@ -7248,13 +6931,11 @@ huruLinalli bandilla.
 haravannu  kuggisuva  paricepadagaLigU  pAngannu  badalisuva  paricepada 
 gaLigU  naDuve  avannu  baLasida  sollugaLigiruva  oLahuruLugaLa 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
 maTTigU  vyatyAsagaLive.  ettugegAgi,  keLage  koTTiruva  sollugaLannu 
 gamanisabahudu: 
 
-hesarupadakantegaLa iTTaLa / 499 
 
 nanna kayyalliruvudu biLi cenDu. 
 
@@ -7295,10 +6976,8 @@ gamanisabahudu:  ivu  ondu  jODiyAgi  baLakeyAguttave;  ondu
 viSaya  tappallavAdare,  adannu  sariyendu  hELalu  baruttade,  mattu 
 adu sariyallavAdare tappu endu hELalu baruttade. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-500 /kannaDa barahada sollarime 
 
 (8ka)  idu sari lekkavalla, tappu lekka. 
 (8ca)  avanadu tappu mAtalla, sari mAtu. 
@@ -7340,10 +7019,8 @@ paricepadagaLu  mAtravallade,  naDuve  baruvantaha  innondu  parice
 padavU  iraballudu.  ettugegAgi,  teLu,  dappa  mattu  aLaka  emba 
 mUru  paricepadagaLannu  ondu  paTTiyalli  irisalu  baruttade; 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 501 
 
 ivugaLalli teLu embudu paTTiya ondu koneyallU, dappa embudu 
 innondu  koneyallU  baruttave;  `teLuvU  alla  dappavU  alla'  emba 
@@ -7394,10 +7071,8 @@ kUcu (kUcu gaDDa)
 
 kaDu (kaDu mincu) 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-502 /kannaDa barahada sollarime 
 
 kiru (kirugANike) 
 pEr (pErarasu) 
@@ -7455,10 +7130,8 @@ pIcu (pIcu gaDDa)
 gujju (gujju kAlu) 
 guDDa (guDDa kombu) 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 503 
 
 nITa (nITa bidiru) 
 niDu (niDugoralu) 
@@ -7514,10 +7187,8 @@ tumbA doDDa haNNugaLu illE irali.
 sari,  tappu  modalAda  jODiparicegaLannu  intaha  sollugaLalli 
 baLasalu  baruvudilla  embudannu  mEleyE  6.3.1(2)ralli  vivarisa 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-504 /kannaDa barahada sollarime 
 
 lAgide.  ondu  barahadalli  heccu  illavE  kaDime  tappugaLiveyendu 
 hELaballevallade,  avu  tiLisuva  sari-tappu  pariceyalli  hantagaLannu 
@@ -7558,10 +7229,8 @@ padagaLu  eduruhuruLannu  koDuttiruttave.  ettugegAgi,  odde-oNa
 aLatepaTTiyalli adara eraDu hantagaLannu tiLisuvudakkAgi baLakeyAguva 
 odde mattu oNa emba paricepadagaLu eduruhuruLugaLannu koDuttave. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
      
-hesarupadakantegaLa iTTaLa / 505 
 
 idE rItiyalli, vastuvina hareyavannu tiLisuva paricepaTTiyalli adara 
 eraDu  hantagaLannu  tiLisalu  baLakeyAguva  hosa  mattu  haLe  emba 
@@ -7604,10 +7273,8 @@ gamanisabahudu:
 (12ka)  hari rAmuviginta giDDa. 
 (12ca) rAmu hariginta uddavalla. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-506 /kannaDa barahada sollarime 
 
 (11ka)  sollige  (11ca)  sollu  oLahuruLAgi  baruttade,  mattu 
 
@@ -7652,10 +7319,8 @@ tusu udda hagga
 ------- (naDujAga) 
 tusu giDDa hagga 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 507 
 
 giDDa hagga 
 tumbA giDDa hagga 
@@ -7701,10 +7366,8 @@ bageya  aLateyannu  (uddagalavannu)  tiLisuva  kAraNa,  avannu  (14ka)
 sollinalli  kANisida  hAge,  hOlisalu  baruttade.  Adare,  kappu  mattu 
 giDDa  padagaLa  naDuve  huruLina  sambandavilla;  hAgAgi,  avannu  A  rIti 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-508 /kannaDa barahada sollarime 
 
 hOlisalu  baruvudilla  embudannu  (14ca)  sollu  sariyilla  embu 
 darinda tiLiyabahudu. 
@@ -7744,10 +7407,8 @@ idE  rItiyalli,  cUru  kalakiruva  nIrannu  kalaku  nIru  enna
 bahudu,  Adare  cUru  tiLiyAgiruva  nIrannu  tiLi  nIru  ennalu 
 baruvudilla.  nIru  tiLiyAgide  ennalu  ondu  kanDitavAda  mAdari 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 509 
 
 hantaviddu, nammeduriruva nIru A hantavannu talapidAga mAtra adannu 
 tiLi nIru ennalu baruttade.  
@@ -7789,10 +7450,8 @@ vide.  kappu  embudu  baNNaviruva  ellA  bageya  pAngugaLa  haravannU
 ondE rItiyalli kuggisuttade; avellavannU adu `kappu baNNaviruvavu' 
 mattu  `bEre  baNNagaLiruvavu'  emba  eraDu  gumpugaLalli  irisuva 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-510 /kannaDa barahada sollarime 
 
 mUlaka avugaLa haravannu kuggisuttade. `mAdari kappu baNNa' embudu 
 ellA baLakegaLallU ondE Agiruttade. 
@@ -7838,10 +7497,8 @@ ondE  mAdariya  mattu  halavu  mAdarigaLa  padagaLendu  I
 
 eraDu bageya paricepadagaLannu hesarisabahudu.  
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 511 
 
 (7) orparice mattu halaparicepadagaLu 
 udda,  giDDa,  kempu,  biLi,  bOLu,  bisi,  hosa  modalAda 
@@ -7881,10 +7538,8 @@ bEre  gumpugaLallirisalu  baruttade.  bALikeya  parice  ondu  pAnginadE
 pariceyAgiruttade,  mattu  tusuhottina  parice  adara  ondu  hantakke 
 mAtra sambandisidudAgiruttade.  
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-512 /kannaDa barahada sollarime 
 
 ettugegAgi,  doDDa-cikka,  udda-giDDa,  kappu-biLi  modalAdavu 
 bALikeya  paricegaLu;  avannu  pAngugaLadE  paricegaLendu  tiLiya 
@@ -7926,10 +7581,8 @@ adu  naDesuttade.  Adare,  oddeyAda  baTTe  embudaralli  bandiruva
 adE padakke `oNa baTTe oddeyAgiruvantaha' ondu esakavannu tiLisuva 
 huruLU ide. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
-hesarupadakantegaLa iTTaLa / 513 
-
+
 eraDu  huruLugaLannU  koDaballa  paricepadagaLondige  Agu  pada 
 vannu  baLasidAga  ippuruLu  kANisikoLLuttade.  ettugegAgi,  kempAda 
 tuTi embudu `heccu kempillada mattu Iga kempAgiruva' tuTiyannU 
@@ -7975,10 +7628,8 @@ padada  baLika  banda  vakAra  sErikeya  vakAravalla,  vu  emba  oTTu.  I
 viSaya  I  bella  agga  mattu  I  giDagaLu  cikkavu  emba  sollugaLa 
 naDuvina vyatyAsavannu gamanisidAga gottAguttade. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
   
-514 /kannaDa barahada sollarime 
 
 6.3.2 paricepadagaLa OraNa 
 ondu  hesarupadadondige  ondakkinta  heccu  paricepadagaLannu  baLasa 
@@ -8023,10 +7674,8 @@ ottihELuvudu  ondu  mArpADu;  hAge  mADidAga,  A  OraNa  sari
 endu  tOruttade;  otti  hELida  paricepada  bErAgi  nilluvudE  idakke 
 kAraNavirabEku (hosA cikka kAru). 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 515 
 
 (2) hesarukanteyalli baruva eraDu paricepadagaLalli modalinadannu 
 iru  illavE  Agu  esakapadada  paricerUpadondige  koDuvudu 
@@ -8065,10 +7714,8 @@ baruva paricepada sAmAnyavAgi modalu baruttade.
 badalAyisi,  AmEle  avakke  hesarupattugeya  a  oTTannu  sErisi  baLasa 
 bahudu:  
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-516 /kannaDa barahada sollarime 
 
 mArpaDisida baLake  
 beLLagina doDDa haraLu   
@@ -8112,10 +7759,8 @@ halaveNikeya gaLu oTTannu baLasiruvalli heccu cannAgi kANabahudu.
 ettugegAgi,  kempu  mattu  kappu  haraLugaLu  embudu  `kempu 
 haraLugaLu  mattu  kappu  haraLugaLu'  emba  huruLannu  koDaballudu, 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 517 
 
 illavE  `ondondarallU  kempu  mattu  kappu  baNNagaLiruva  haraLugaLu' 
 emba huruLannU koDaballudu. 
@@ -8163,10 +7808,8 @@ uruTuruTu haNNugaLu  haNNu haNNu mudukiyaru
 
 hosa hosa manegaLu 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
   
-518 /kannaDa barahada sollarime 
 
 dappa dappa elegaLu  uddudda padagaLu 
 oLLoLLe haNNugaLu 
@@ -8211,10 +7854,8 @@ ttave embudannu gamanisabahudu.
 mucculiyalli  modalAguva  kelavu  padagaLU  intaha  sErikeya 
 mArpADugaLannu tOrisuttave. ettugegAgi, hoccahosa embudaralli 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 519 
 
 hosa embudu hocca rUpakke badalAgide. I bageya mArpADugaLu 
 hesaruparicegaLigintalU  esakaparicegaLalli  heccu  kANisikoLLuttave  (kaTTa 
@@ -8254,10 +7895,8 @@ innondu bage.
 (22ka)dalli  `eraDu  gaDigegaLu  doDDa-cikka  aLatepaTTiya  ondE 
 hantadallive'  embudAgi  tiLisalAgide,  mattu  (22ca)dalli  `eraDu 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-520 /kannaDa barahada sollarime 
 
 gaDigegaLu  bEre  bEre  hantagaLallive,  mattu  hOlike  pAngu  mAdari 
 pAngiginta mElina hantadallide' embudAgi tiLisalAgide.  
@@ -8297,10 +7936,8 @@ ondE hantadallive embudAgi tiLisuttade.
 (25ka)  ivanantaha huDuganannu nAnellU nODilla. 
 (25ca) Akeyadu tonDehaNNinantaha tuTi. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 521 
 
 I  iTTaLadalli  aLatepaTTiyannu  tiLisuva  paricepadavannu  hOlike 
 pAngannu  gurutisuva  hesarupadada  paricepadavAgi  baLasalu  baruttade; 
@@ -8343,10 +7980,8 @@ tiLisalu baLasalAgide.
 sollugaLa  hesarurUpagaLannU  baLasalu  baruttade;  ettugegAgi,  keLage 
 koTTiruva sollugaLannu gamanisabahudu:  
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-522 /kannaDa barahada sollarime 
 
 (28ka)  nIvu tandudakkinta doDDa haNNannu avanu tandiddAne. 
 (28ca) nIvu tandudaraSTu doDDa haNNannu avanU tandiddAne. 
@@ -8389,10 +8024,8 @@ paricepadavannu  hUvu  hesarupadadondige  baLasidAga,  adu  A  hesaru
 padakkiruva  huruLige  `kempu  baNNaddu'  emba  huruLannu  sErisuttade, 
 mattu A mUlaka adara huruLannu kuggisuttade. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 523 
 
 Adare,  hesarupadagaLu  ondE  pariceyannu  tiLisuva  badalu,  halavu 
 paricegaLa  ondu  gumpannu  tiLisuttave;  hAgAgi,  avugaLa  pattuge 
@@ -8433,10 +8066,8 @@ ondu  gumpannu  tiLisuttave  embudannu  mEle  nODiruvevu.  hAgAgi,
 avugaLondige  I  eraDu  bageya  nuDitagaLannU  baLasalu  baruvudilla. 
 Adare,  kelavu  hesarupadagaLu  ondE  pariceyannu  tiLisuttiruttave; 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-524 /kannaDa barahada sollarime 
 
 antaha  padagaLa  pattuge  rUpadondige  mElina  eraDu  bageya 
 nuDitagaLannU baLasalu baruttade. 
@@ -8480,10 +8111,8 @@ dannu  munde  6.6.5ralli  nODaliruvevu;  Adare,  I  paricepadagaLa
 pattugerUpadondige hanta mattu hOlikegaLannu tiLisuva nuDitagaLannu 
 baLasalu baruttade; I viSayadalli avu hesarupadagaLinda bErAgive: 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 525 
 
 (35ka)  avara maneyadu tumbA ettarada gODe.  
 (35ca) iSTondu uddada haggavannu nAnellU nODalilla.  
@@ -8523,10 +8152,8 @@ pada  kUDuhuruLina  paricepadakke  heccina  huruLannEnU  sErisuva  hAge
 kANisuvudilla;  adu  A  huruLannu  otti  hELuttade  endaSTE  hELa 
 bahudu. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
   
-526 /kannaDa barahada sollarime 
 
 (4) mEle 6.3.1(9)ralli vivarisida hAge, halavu paricepadagaLannu 
 nEravAgi  Agiru  embudarondige  baLasalu  baruttade,  mattu  intaha 
@@ -8565,10 +8192,8 @@ avugaLondige  baruva  padagaLa  huruLannu  kuggisuva  kelasavannu  avu
 naDesuttave. ettugegAgi, kelavu bageya maragaLannu hesarisuva padagaLannu 
 gamanisabahudu: 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 527 
 
 vÉAUÀÄ:   
 tengina mara 
@@ -8619,10 +8244,8 @@ rAju  bareda  pustaka,  rAju  konDukonDa  pustaka,  rAju  Odu
 ttiruva  pustaka,  rAju  eravalu  paDeda  pustaka  modalAda  halavu 
 bageya  sambandagaLiraballuvu;  Adare,  rAjuvina  aNNa  embudaralli 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-528 /kannaDa barahada sollarime 
 
 rAju  mattu  aNNa  embavugaLa  naDuve  nanTastikeya  ondu  sambanda 
 vaSTE iraballudu.  
@@ -8662,10 +8285,8 @@ tammondige taraballuvu.
 
 ettugegAgi keLage koTTiruva hesarukantegaLannu gamanisabahudu: 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 529 
 
 (43ka)  jAnaki maysUrininda tanda sIre 
 (43ca)  dinAlU taNNIrinalli mIyuva hari 
@@ -8715,10 +8336,8 @@ balluvu. I vyatyAsavannu keLagina sollugaLalli kANabahudu:
 (45ka)  manege hOda huDuga innU maraLi baralilla. 
 (45ca) manege hOda I huDuga innU maraLi baralilla. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-530 /kannaDa barahada sollarime 
 
 (45ka)dalli  manege  hOda  embudu  huDuga  padada  haravannu 
 kaDime  mADuva  mUlaka,  adu  gurutisabEkAgiruva  pAngannu 
@@ -8759,10 +8378,8 @@ paricerUpagaLannu baLasalu baruvudilla.
 (48ka)  *taDavAgi bandivanu nEravAgi mahaDige hOda. 
 (48ca) taDavAgi banda ivanu nEravAgi mahaDige hOda. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 531 
 
 (4)  pAngugaLa  haravannu  kaDime  mADalu  bAradiruva  bEre  kelavu 
 tiruLu  padagaLondigU  esakapadagaLa  paricerUpagaLannu  pariceyannaSTE 
@@ -8804,10 +8421,8 @@ esakapadagaLu heccilla.
 idakke  badalu,  halavu  esakapadagaLa  paricerUpagaLannu  heccu 
 illavE  kaDime  emba  padadondige  sErisi,  tumbA  padadondige 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-532 /kannaDa barahada sollarime 
 
 (tumbA  heccu  koLeta  haNNu,  tumbA  kaDime  hoLeva  oDave) 
 illavE hOlikeyannu tiLisuva nuDitagaLondige baLasalu baruttade: 
@@ -8845,10 +8460,8 @@ kappu  mattu  cikka  emba  paricepadagaLondige  baLasiruva  (55ka-ca)
 sollugaLu  tappAgive.  (avannu  sarimADalu,  Agiruva  embudAgi 
 pariceya iruhavannu tiLisabEkAguttade: 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 533 
 
 (55Ta) avaLa hAge kappAgiruva huDugi namma taragatiyallilla. 
 (55ta)  idara  hAge  cikkadAgiruva  haNNu  bEre  yAva  maradallU 
@@ -8890,10 +8503,8 @@ gaLondigU baLasabahudu:
 
 baruva gADigaLu 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-534 /kannaDa barahada sollarime 
 
 (58ka)dalli  eraDu  paricerUpagaLannu  ondara  baLika  ondarante 
 baLasalAgide;  idakke  badalu,  (58ca)dalli  averaDannu  mattu  padadinda 
@@ -8942,10 +8553,8 @@ hAkiddAre.
 hegalamErisikonDiruva huDuganannu karedukonDu banda 
 avana aNNa horage kAdiddAne. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 535 
 
 6.3.7 esakaparicegaLa pattuge rUpada baLake 
 hesarupadagaLondige kelavu esakaparicegaLannu avugaLa pattuge rUpadalli 
@@ -8994,10 +8603,8 @@ padagaLu  hesarupadagaLu  gurutisuva  pAngina  parice  entahadu  embu
 dannu  tiLisuttave,  mattu  mUraneya  pada  ADuganige  A  pAngina  parice 
 tiLiyadendu hELuttade. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-536 /kannaDa barahada sollarime 
 
 (63ka)  avara  maneyeduriruva  mara  tumbA  doDDadAgide; 
 
@@ -9039,10 +8646,8 @@ yannu  tiLisuvudakkAgi,  ru  halaveNikeya  oTTannu  baLasalAgide;  (1ca)
 dalli  rupAyi  padadondige  idakkAgi  hattu  eNikeya  padavannu 
 baLasalAgide;  (1Ta)dalli  idakkAgi  beNNe  padadondige  eraDu  kilO 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 537 
 
 emba eNikepada mattu aLatepadagaLa jODiyannu baLasalAgide; mattu 
 (1ta)dalli nIru padadondige tumbA aLavipadavannu baLasalAgide. 
@@ -9091,10 +8696,8 @@ gurutisuva  padagaLondigU  gaLu  oTTannE  baLasalAguttade  (katte-
 kattegaLu,  bayake-bayakegaLu,  hakki-hakkigaLu,  tinDi-tinDigaLu, 
 haNNu-haNNugaLu, karu-karugaLu, guDDa-guDDagaLu, mara-maragaLu).  
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-538 /kannaDa barahada sollarime 
 
 (2)  janarannu  horatupaDisi  bEre  bageyavannu  gurutisuva  pada 
 gaLondige  halaveNikeya  oTTannu  baLasalEbEkendEnU  illa;  avugaLa 
@@ -9134,10 +8737,8 @@ baLasalUbahudu, baLasadiralUbahudu.
 (6ka)  avaru maduvege sIregaLannu taralu hOgiddAre. 
 (6ca)  avaru maduvege sIre taralu hOgiddAre. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 539 
 
 (7ka)  danagaLu hullu tinnuttave. 
 (7ca)  dana hullu tinnuttade. 
@@ -9179,10 +8780,8 @@ mElide.
 (10ka)dalli baLasiruva A pennugaLu embudara badalu, (10ca)dalli 
 A  pennu  endiSTE  baLasalAgide;  Adare,  I  padakantege  nEravAgi 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-540 /kannaDa barahada sollarime 
 
 pAngannu gurutisuva huruLide; hAgAgi, gaLu oTTannu tegeduhAkiruva 
 (10ca)da eraDanE sollu tappAgide.  
@@ -9223,10 +8822,8 @@ eraDu  bagegaLiddu  (6.2.2  nODi),  ivugaLalli  ottehesarugaLondige
 mAtra  halaveNikeya  oTTu  baLakeyAguttade;  oTTalu  hesarugaLondige 
 adu  baLakeyAguvudilla  (*mUru  rAgigaLu,  *hattu  maNNugaLu). 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 541 
 
 idakke  horapaDikeyAgi,  oTTaluhesarugaLannu  otte  hesarugaLAgi  baLake 
 mADidalli,  avugaLondige  gaLu  oTTannu  baLasalu  baruttade  (hattu 
@@ -9268,10 +8865,8 @@ oTTalupadagaLondige  eNikepadagaLannu  nEravAgi  baLasalu  baruvudilla
 hesarupadagaLondige  eNikepadagaLannu  baLasuvalli  innU  ondu 
 kaTTupADide: eNisaballa mattu eNisalAgada padagaLembudAgi hesarupada 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-542 /kannaDa barahada sollarime 
 
 gaLannu  bEre  eraDu  gumpugaLalli  bErpaDisalu  baruttade  (6.2.6 
 nODi).  mara,  haNNu,  nIru,  hAlu  modalAdavu  eNisaballa  pada 
@@ -9312,10 +8907,8 @@ keLagina sollugaLalli kANabahudu:
 (14ka)dalli  mandigurtada  padavAda  huDuga  padadondige  Aru 
 eNikepadavannu  mAtravE  baLasalAgide,  (14ca)dalli  gaLu  halaveNikeya 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 543 
 
 oTTannu  mAtravE baLasalAgide, mattu (14Ta)dalli iveraDannU oTTige 
 baLasalAgide  (Aru  huDugaru).  ivugaLalli  eNikeya  padavannu 
@@ -9357,10 +8950,8 @@ idallade,  halaveNikeya  mandigurtada  obbaru  rUpavannu  sAmAnya
 vAgi  takkume  huruLinalli  mAtra  baLasalAguttade  (obbaru  hiriyaru); 
 Adare,  obbobbaru  emba  immaDi  rUpada  baLakeyalli  adakke  hala 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
-544 /kannaDa barahada sollarime 
-
+
 veNikeya  huruLU  iruva  hAge  kANisuttade.  yAkendare,  obbobbaru 
 ondondu  haNNu  tandiddAre  embantaha  sollugaLalli  takkumeya 
 huruLu illadiddarU obbaru rUpa bandide. 
@@ -9402,10 +8993,8 @@ gurtada  padagaLondige  baLasuvudu  aSTondu  cannAgiyU  kANisuvu
 dilla.  adakke  badalu,  avugaLondige  mandi  illavE  jana  emba 
 padavannU  baLasidalli,  adu  heccu  cannAgi  kANisuttade  (hattu  mandi 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 545 
 
 huDugaru,  hattu  jana  huDugaru,  mUru  mandi  huDugiyaru). 
 Adare,  ondu  emba  padavannu  A  rIti  mandi  illavE  jana  pada 
@@ -9450,10 +9039,8 @@ naDuve bEre padagaLannu baLasalu baruvudilla.
 ettugegAgi, eraDu lOTa hAlu emba padakanteyalli bandiruva 
 eraDu  mattu  lOTa  padagaLa  naDuve  lOTada  pariceyannu  tiLisuva 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-546 /kannaDa barahada sollarime 
 
 doDDa  padavannu  baLasalu  baruvudilla  (*eraDu  doDDa  lOTa 
 hAlu); idE rItiyalli, mUru lITar hAlu emba padakanteyalli 
@@ -9491,10 +9078,8 @@ bEre  kaDegaLalli  ottehesarugaLAgi  baruva  padagaLannU  kelaveDegaLalli
 oTTaluhesarugaLAgi  baLasalu  baruttade.  ettugegAgi,  haNNu  pada 
 sAmAnyavAgi  ondu  ottehesarAgi  baLakeyAguttade  (eraDu  haNNu 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 547 
 
 gaLu);  Adare,  I  tinDiyalli  haNNu  jAstiyide  emba  sollinalli 
 adu oTTaluhesarAgi baLakeyAgide. 
@@ -9541,10 +9126,8 @@ mAtravE  baLasalu  baruttade.  oDDi  pada  nAlku  haraLu,  gErubIja
 modalAdavugaLa  gumpannu,  mattu  A  mUlaka  nAlku  emba  eNike 
 yannu  tiLisuttade;  mUroDDi  gErubIja  endare  oTTu  `hanneraDu 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-548 /kannaDa barahada sollarime 
 
 gErubIja'  emba  huruLu  siguttade.  Aru  emba  innondu  pada 
 ettugaLa  jODiyannu  tiLisaballudAdarU,  adannu  eNikeya  pada 
@@ -9586,10 +9169,8 @@ huruLu bandide.
 kap,  lOTa,  buTTi,  cIla,  bakeT  modalAduvu  pAngugaLannu 
 aLeyalu  baLasuva  ondu  vastuvannu  hesarisuttave;  idakke  badalu, 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 549 
 
 lITar,  kilO,  hore,  kaTTu,  aDi,  Digri  modalAduvu  antaha 
 yAva vastuvannU hesarisuvudilla. ondu aLateyannu hesarisuva kelasa 
@@ -9629,10 +9210,8 @@ adaralli kap padavannu nIrina aLateyannu tiLisuvudakkAgi mAtravallade,
 vastuvondannu  gurutisuvudakkAgiyU  baLasalAgide;  idakke  badalu, 
 (21ca)  sollige  `eraDu  kap  aLateya  nIrannu  hAlige  sErisi'  emba 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-550 /kannaDa barahada sollarime 
 
 huruLide; idaralli kap padavannu aLateyannu tiLisuvudakkAgi mAtravE 
 baLasalAgide.  idallade,  (21ka)  solligU  `eraDu  kap  aLateya 
@@ -9677,10 +9256,8 @@ bageya aLatepadagaLa naDuvina vyatyAsa kANisikoLLuttade:
 sollu  `lOTadalli  eSTu  sakkareyide'  embudannu  tiLisuttade;  illi 
 camaca  pada  aLatepadavAgi  baLakeyAgide;  Adare  (25ca)  sollu 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 551 
 
 `mEjina  mEle  eSTu  camacagaLive'  embudannu  tiLisuttadallade,  `alli 
 sakkareyide' embudannu, illavE `eSTu sakkareyide' embudannu tiLisuvu 
@@ -9722,10 +9299,8 @@ Adare,  sAmAnyavAgi  intaha  baLakegaLalli  paricepadavannu  hesaru
 padada  hAge  pattuge  rUpadalli  baLasuvudE  heccu  (mUraDi  uddada 
 hagga, AraDi ettarada gODe). 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-552 /kannaDa barahada sollarime 
 
 idallade,  intaha  baLakeyalli  ellA  paricepadagaLannU  baLasalu 
 baruvudilla. ettugegAgi, udda-giDDa, ettara-taggu, dappa-teLu, bAra-
@@ -9764,10 +9339,8 @@ hesarupadavannu baLasadeyU iralu baruttade:
 (31Ta) nimage eSTu baTTe bEku? eraDu mITar koDi. 
 (31ta)  rEDiyO ripErige nUrayvattu koDabEkAyitu. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 553 
 
 (31ka)dalli  modalaneya  sollinindalE  bEkAgiruvudu  hAlu 
 embudu  tiLiyuvudAda  kAraNa,  adara  eraDaneya  sollinalli  ondu 
@@ -9811,10 +9384,8 @@ diruvudakke kAraNavirabahudu.
 mandigurtada  padagaLondige  baLakeyAdAga,  I  eraDu  padagaLU 
 gurtada rUpadalli baraballuvu (halavaru huDugaru, kelavaru huDugi 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-554 /kannaDa barahada sollarime 
 
 yaru).  idallade,  I  eraDu  rUpagaLannu  mandigurtada  baLikavU 
 baLasalu baruttade (huDugaru halavaru, huDugiyaru kelavaru).  
@@ -9855,10 +9426,8 @@ baLika  baLasalu  baruttade;  I  baLakeyalli  adakke  mandigurtada  pada
 gaLondige  ellaru  emba  rUpa,  mattu  uLikegurtada  padagaLondige 
 ellavu emba rUpa ide: 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 555 
 
 (33ka)  huDugarellarU marada mEliddAre. 
 (33ca) maragaLellavU keLage uruLive. 
@@ -9898,10 +9467,8 @@ ondu  emba  padakke  I  kanDitavallada  huruLu  adannu  eNike
 padagaLondige  baLasidAgalU  baruttade;  eNikepadagaLa  kanDitavAda 
 huruLannu adu I rIti mArpaDisuttade.  
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-556 /kannaDa barahada sollarime 
 
 (38ka)  maduvege nUrayvattu jana bandiddaru. 
 (38ca) maduvege ondu nUrayvattu jana bandiddaru. 
@@ -9940,10 +9507,8 @@ eNikeginta  kaDime  emba  huruLU  ide.  Adare,  heccukaDime  mattu
 sumAru  embavugaLige  adakkinta  heccu  illavE  kaDime  emba  eraDu 
 huruLU baraballudu.  
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 557 
 
 (6)  eNikeya  padagaLige  Aru  oTTannu  sErisi  hELuvudu  aLavi 
 kanDitavalla  embudannu  tiLisuva  innondu  holabu;  Adare  idannu 
@@ -9981,10 +9546,8 @@ ayvattaruvattu, nUrondu modalAda kelavu eNikepadagaLa jODi
 gaLU  kanDitavallada  eNikeyannu  tiLisalu  baLakeyAguttave.  ivu  I 
 eNikepadagaLa  hattirada  eNikeyondannu  tiLisaballuvu;  Adare,  A  eNike 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-558 /kannaDa barahada sollarime 
 
 avugaLalli  baLakeyAgiruva  eraDu  eNikepadagaLalli  yAvudAdarU 
 ondu AgiralEbEkendEnilla. ettugegAgi, nAlkaydu haNNu koLetide 
@@ -10038,10 +9601,8 @@ innayvattu mandi
 illave anE oTTannu baLasalAguttade. I oTTinondige ondu padada 
 badalu modalu padavannU baLasalu baruttade. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 559 
 
 (45ka)  huDuga ondanE taragatiyalli OduttiddAne. 
 (45ca) huDuga modalanE taragatiyalli OduttiddAne. 
@@ -10083,10 +9644,8 @@ tiLisuttave; ettugegAgi mUrUkAlu embudakke `mUru mattu kAlu'
 are'  (3+1/2)  emba  huruLide;  hattUkAlu  embudakke  `hattu  mattu 
 kAlu' (10+1/4) emba huruLide.  
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-560 /kannaDa barahada sollarime 
 
 (4)  aLateyalli  ondu  amSavannaSTE  tiLisabEkiddalli,  aLateyannu 
 tiLisuva  nuDitavannu  alli  (jAga  oTTu)  illavE  oLage  embudaralli 
@@ -10123,10 +9682,8 @@ baruttade:
 (50ka)  avanu nIvu koTTudara eraDu pAlu koDaballa. 
 (50ca)  nimma sambaLada mUru pAlu sambaLa avanige baruttade. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 561 
 
 6.4.6 eNikepadagaLa jAga 
 sAmAnyavAgi, eNikepadagaLannu hesarupadagaLa modalu baLasalAguttade; 
@@ -10164,10 +9721,8 @@ vyatyAsavannu kANabahudu:
 (52ka)  rAjuvina huDugaribbarannu ellarU hogaLuttAre. 
 (52ca) rAjuvina huDugarannu ibbarannu ellarU hogaLuttAre. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-562 /kannaDa barahada sollarime 
 
 Adare,  hesarupadagaLa  modalu  baruva  eNikepadagaLannu  I  rIti 
 
@@ -10205,10 +9760,8 @@ gaLannu,  mattu  mEle  koTTiruva  halavu,  kelavu,  mattu  ella  emba
 padagaLannu  avugaLa  baLika  baLasalu  baruttadallade,  avugaLa  modalu 
 baLasalu baruvudilla. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 563 
 
 (57ka)  avaribbaru illiddAre. 
 (57ca) averaDannu mEjina mElirisi. 
@@ -10245,10 +9798,8 @@ avarige  oTTu  eSTu  rupAyi  sikkide  embudannu  adu  tiLisuvudilla;
 (60ca)  sollininda  I  viSayavannu  tiLiyabEkiddalli  oTTu  eSTu 
 huDugariddaru embudannU tiLiyabEkAguttade. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-564 /kannaDa barahada sollarime 
 
 idE huruLannu innaSTu sariyAgi tiLisabEkiddalli, huDugarige emba 
 padada  badalu,  huDugaralli  obbobbanige  embudAgi  immaDi  eNike 
@@ -10286,10 +9837,8 @@ bahudu:
 (62ka)  huDuga dinAlU eraDeraDu haNNu tinnuttidda. 
 (62ca) huDuga ellA kaDegaLallU eraDeraDu haNNu tinnuttidda. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 565 
 
 (62)nE  sollinalli  bandiruva  eraDeraDu  haNNu  embudaralliruva 
 immaDi  eNikepada  ondu  hancikeyannu  tiLisuttade;  Adare,  adaralli 
@@ -10328,10 +9877,8 @@ pratiyondu  embudu  tiLisuva  innondu  bageya  huruLinalli
 eNikepadada  badalu  hesarupadavannE  immaDirUpadalli  baLasuva 
 holabu kannaDadallide: 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-566 /kannaDa barahada sollarime 
 
 (65ka)  pratiyondu manegU hOgi hELike koTTu banda. 
 (65ca) mane manegU hOgi hELike koTTu banda. 
@@ -10370,10 +9917,8 @@ ivannu ondondAgi baLasiruvallU I vyatyAsa kANisikoLLuttade:
 (69Ta)  nanage svalpa aydara nANyagaLu bEkAgidduvu. 
 (69ta)  nanage aydu nANyagaLu bEkAgidduvu. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 567 
 
 (2)  I  rIti  pattuge  rUpadalli  baLakeyAguva  eNikepadagaLu 
 entaha  pariceyannu  tiLisuttave  embudu  avugaLa  baLika  baruva  hesaru 
@@ -10416,10 +9961,8 @@ bEkAyitu.
 (71ka)dalli  eraDu  kilO  embudannu  moLe  padada  aLaviyannu 
 tiLisalu  baLasalAgide,  mattu  idakkAgi  adannu  a  oTTannu  sErisade 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-568 /kannaDa barahada sollarime 
 
 nEravAgi  hesarupadadondige  baLasalAgide;  idakke  badalu,  mUrincu 
 embudannu  moLe  padada  pariceyannu  tiLisalu  baLasalAgide,  mattu 
@@ -10461,10 +10004,8 @@ gaLannu  bEre  gODegaLinda  bErpaDisuvudakkAgi  mAtra  adannu  baLasa
 Adare,  (73ca)dalli  eraDu  bEre  bEre  ettaragaLalliruva  gODe 
 gaLannu hOlisalAgide, mattu I hOlikeyalli avugaLa ettara eSTu 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 569 
 
 embudu mukyavAgide. ettara gODe embudu gODeya pariceyannu 
 kELugana  gamanakke  taruttade,  mattu  ettarada  gODe  embudu  adara 
@@ -10512,10 +10053,8 @@ bahudu:
 (76ka)  namage idakkinta ardangula dappa halige bEkAgide. 
 (76ca) namage idakkinta ardangula teLu halige bEkAgide. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-570 /kannaDa barahada sollarime 
 
 I  sollugaLalli  eraDu  pAngugaLannu  gurutisalAgiddu,  avugaLa 
 naDuve  vyatyAsa  eSTide  (illavE  irabEku)  embudannu  tiLisalu 
@@ -10552,10 +10091,8 @@ embudannu tiLisuttade. idannu keLagina sollugaLalli kANabahudu:
 (79ka)  idara eraDaraSTu dappa halige nammallide. 
 (79ca) idara ardadaSTu teLu halige nammallide. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 571 
 
 hOlikeyannu  paTTu,  pAlu,  illavE  maDi  padagaLa  baLakeya 
 mUlakavU  tiLisalu  baruttade;  illi  mAdari  pada  adara  pattugerUpa 
@@ -10598,10 +10135,8 @@ nIvu koTTa haNNu kempagide.
 Akeya sIre beLLagide. 
 I nIru kappagide. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-572 /kannaDa barahada sollarime 
 
 Adare, hesarupadagaLa pariceyannu tiLisalu paricepadagaLannu baLasuva 
 hAge  esakapadagaLa  aLaviyannu  tiLisalu  eNikepadagaLannu  nEravAgi 
@@ -10642,10 +10177,8 @@ vastuvina  pariceyondannu  tiLisuva  mUlaka  gurutisuva  kelasakke  neravu
 nIDalAgide,  mattu  ondu  cenDu  embudaralli  vastuvina  eNikeyannu 
 ondu  embudAgi  tiLisuva  mUlaka  I  kelasavannu  naDesalAgide.  I 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 573 
 
 eraDaneya  sandarbadalli  cenDina  Aykeyannu  kELuganige  biTTukoDa 
 ¯ÁVzÉ.  
@@ -10685,10 +10218,8 @@ haLeyadO embudu intaha vyatyAsagaLalli ondu; ettugegAgi, ondu
 pAngannu  modalE  gurutisiddu,  Iga  gurutisuttiruva  pAngu  adE 
 (endare,  hinde  gurutisidantahadu,  haLeyadu)  embudannu  avanu, 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-574 /kannaDa barahada sollarime 
 
 ivanu,  adu  modalAda  kelavu  tOrupadagaLa  mUlaka  tiLisa 
 lAguttade. 
@@ -10731,10 +10262,8 @@ biTTukoDalAgide.
 hesarukantegaLa  baLakeyalli  innondu  bageya  vyatyAsavU  kANisi 
 koLLuttade.  ettugegAgi,  avanige  ondu  mane  bEkAgide  emba 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 575 
 
 sollinalli mane embudu yAvudAdarU ondu maneyannu gurutisu 
 ttirabahudu  (allondu  maneyide,  mattu  adu  Atanige 
@@ -10780,10 +10309,8 @@ tinDiyannu' gurutisuvudilla.
 (5Ta)dalli  bandiruva  huli,  kOti  embavugaLU  hIgeyE.  avu 
 nEravAgi  pAngugaLannu  gurutisalu  hOguvudilla;  Adare,  avu 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-576 /kannaDa barahada sollarime 
 
 pAngugaLannu  gurutisuvudilla  embudAgi  hELuva  badalu,  pAngugaLa 
 bageyannu gurutisuttave embudAgiyU hELabahudu. 
@@ -10820,10 +10347,8 @@ dembudu  tiLidilla'  embudannu  tiLisuva  mUlaka,  `kELuganu  gurutisa
 bEkAgiruva,  mattu  adara  kuritAgi  heccina  sangatigaLannu  tiLisabEkA 
 giruva mane entahadu' embudannaSTE tiLisuttade. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 577 
 
 (ka)  I  mUru  tOrupadagaLU  hesarupadagaLondige  mAtravE 
 baraballuvAgiddu,  yAva  bageya  mArpADugaLigU  oLagAguvudilla. 
@@ -10862,10 +10387,8 @@ gamanisabahudu:
 gamanavannu  seLeyuvudakkAgi  pustaka  padadondige  A  tOrupadavannu 
 baLasalAgide;  idakke  badalu,  (8ca)dalli  eraDu  nAyigaLalli  ondannu 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-578 /kannaDa barahada sollarime 
 
 innondarinda  bErpaDisuvudakkAgi  nAyi  padadondige  A  mattu  I 
 tOrupadagaLannu baLasalAgide. 
@@ -10910,10 +10433,8 @@ rAmu savAri mADuttiruva kudure
 rAmu pantadalli haNa geddiruva kudure 
 rAmu citra biDisiruva kudure 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 579 
 
 rAmu maNNinalli mADida kudure 
 rAmu maradalli kettida kudure 
@@ -10951,10 +10472,8 @@ heccu  pattugerUpagaLannu  baLasidalli,  hesarukante  tumbA  sikkalAgi
 kANisikoLLuttade.  ettugegAgi,  keLage  koTTiruva  sollu  mattu  hesaru 
 kantegaLa jODigaLannu gamanisabahudu: 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-580 /kannaDa barahada sollarime 
 
 (11ka)  jAnaki maNNinalli ondu gombe mADidaLu. 
 (11ca) jAnakiya maNNina gombe 
@@ -10999,10 +10518,8 @@ hUvina giDa
 bAlada huLa 
 hAlina koDa 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 581 
 
 huDugana keccu  
 gODeya ettara 
@@ -11065,10 +10582,8 @@ G¹j
 MqÉAiÀÄ   
 J¤¹PÉ   
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-582 /kannaDa barahada sollarime 
 
 pattugerUpagaLannu baLasuvalli kANisuva I kaTTupADu esakapadagaLa 
 keLage 
@@ -11116,10 +10631,8 @@ paricerUpagaLAgive;  yAkendare,  esakapadagaLu  sollugaLa  tiruLupada
 gaLAgi baLakeyAguva hAge, avugaLa paricerUpagaLU sollugaLa aDaka 
 rUpada tiruLupadagaLAgi baLakeyAguttave. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 583 
 
 esakapadagaLa  paricerUpagaLigU  sollugaLigU  naDuviruva  I 
 
@@ -11158,10 +10671,8 @@ koTTiruva sollinalli kANabahudu:
 
 (19)  huliya bAyige bidda danada karu 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-584 /kannaDa barahada sollarime 
 
 I  hesarukanteyalli  bandiruva  huliya  bAyige  bidda  emba 
 paricerUpa  A  hesarukanteya  tiruLupadavAda  karu  embudara  parice 
@@ -11208,10 +10719,8 @@ bareyalu kaliyada huDuga
 
 (22ca) kaDimege sikkida illavE bEDi tanda ATikegaLu 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 585 
 
 esakapadagaLa  paricerUpagaLa  kuritAgi  heccina  vivaragaLannu  munde 
 
@@ -11250,10 +10759,8 @@ hesarukantegaLu  kELuganige  tiLiyaballa  gurutisuvikeyannU,  ondu
 kere  embudu  kELuganige  tiLiyalAgada  gurutisuvikeyannU  naDesu 
 ttave embudAgi hELabahudu. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-586 /kannaDa barahada sollarime 
 
 I  rIti  tAnu  gurutisuva  pAngannu  kELuganu  tiLiyaballanu 
 embudAgi  ADuganu  tIrmAnisabEkiddalli  adu  entaha  pAngAgirabEku 
@@ -11294,10 +10801,8 @@ adaralli  neravu  nuDitavAgi  bandiruva  obba  geLeya  embudu  tiLiya
 lAgada  pAngannu  gurutisuttideyAdarU,  iDI  hesarukante  tiLiyaballa 
 pAngannE  gurutisuttade;  adara  tiruLupadavAgiruva  maga  embudu 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 587 
 
 obba  embudarondige  bAradiruvudannu  (nanna  obba  geLeyana  obba 
 maga embudAgi hELadiruvudannu) gamanisabahudu. 
@@ -11336,10 +10841,8 @@ ettugegAgi, keLage koTTiruva sollannu gamanisabahudu:
 nODide;  adu  ondu  banDekallina  mEle  kuLitu 
 EnannO tinnuttittu. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-588 /kannaDa barahada sollarime 
 
 illi  ondu  huli  embudu  ADuganu  nODidda  ondu  nijavAda 
 huliyirabahudu;  illavE  adondu  kalpita  huliyAgirabahudu, 
@@ -11382,10 +10885,8 @@ gurutisuvikegaLAgibiDuttave.
 (5)  ondu  emba  padavannu  baLasi  mAtravallade,  bEre  eNikepada 
 gaLannu  baLasiyU  tiLiyalAgada  pAngugaLannu  I  rIti  hosadAgi 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
-hesarupadakantegaLa iTTaLa / 589 
-
+
 gurutisalu baruttade, mattu halavu, kelavu, tumbA, tusu, heccina 
 modalAda  bEreyU  kelavu  aLaviya  padagaLannu  baLasiyU  pAngu 
 gaLannu  hosadAgi  gurutisalu  baruttade.  idannu  keLage  koTTiruva 
@@ -11424,10 +10925,8 @@ koTTa hesarugaLannu baLasuvallU intahadE kaTTupADu kANisikoLLu
 ttade;  maysUru  emba  hesarina  nagara  ondE  ide;  hAgAU,  *avanu 
 ondu  maysUrige  hOda  ennalu  baruvudilla.  Adare,  ondE 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-590 /kannaDa barahada sollarime 
 
 hesarina  ibbaru  illavE  heccu  mandi  iruvalli  intaha  baLakegaLannU 
 kANabahudu: obba gaNapati maysUrige hOgiddAne. 
@@ -11466,10 +10965,8 @@ yannu baLasuva holabU baLakeyallide:
 kAvEri  endiSTE  hELidare  adu  yArannu  (obba  huDugiyannu) 
 illavE  Enannu  (ondu  nadiyannu)  gurutisuttade  emba  viSayadalli 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
    
-hesarupadakantegaLa iTTaLa / 591 
 
 gondalavunTAgaballudu;  hAgAgi,  (31ka)dalli  adarondige  nadi 
 padavannu sErisi hELalAgide.  
@@ -11513,10 +11010,8 @@ nammeduru bandu ninta.
 
 haNNAgilla. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-592 /kannaDa barahada sollarime 
 
 (33Ta)  Ata  horage  hOguvudu  bEDa  endu  hELidda;  Adare, 
 
@@ -11560,10 +11055,8 @@ gaLU hesarupadagaLa modalu mAtravallade baLikavU baraballuvu:
 (35ka)  ellA tAyandirannU SAlege karesiddAre. 
 (35ca) hattu haNNugaLU koLetuhOgive. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 593 
 
 (35Ta) mUvaru huDugiyarannU manege kaLisalAgide. 
 (35ta)  tAyandirellarannU SAlege karesiddAre. 
@@ -11599,10 +11092,8 @@ eraDu  bageya  gurutisuvikegaLannU  hesarukantegaLa  baLakeyalli  kANa
 bahudu.  ettugegAgi,  keLage  koTTiruva  eraDu  sollugaLannu  gamanisa 
 bahudu:  
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-594 /kannaDa barahada sollarime 
 
 (38ka)  ninne rAtri nammallige obba muduka bandidda. 
 (38ca) ninne rAtri nammallige yAvanO obba muduka bandidda. 
@@ -11645,10 +11136,8 @@ sollu tiLisuttade.
 doDane adu kELuganige tiLiyaballudAgi biDuttade. mEle 6.5.1(4) 
 ralli  vivarisida  hAge,  A  pAngu  nijavAdudirabahudu,  suLLAgira 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 595 
 
 bahudu,  illavE  kalpitavAdudirabahudu;  adu  entahadembudannu 
 kELuga  AmEle  tIrmAnisikoLLabahudu;  Adare,  mAtu  salIsAgi 
@@ -11692,10 +11181,8 @@ bandiruva  adE  padakante  gurutisuva  pAngiginta  bErAgiruva
 pAngondannu  mAtravE  gurutisaballudu;  endare,  averaDU  obbanE 
 huDuganannu gurutisuttiralAravu.  
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-596 /kannaDa barahada sollarime 
 
 idakke badalu, ADuganige tiLiyada pAngannu gurutisuva yArO 
 embudu  (40ca)dalli  eraDu  bAri  baLakeyAgiddu,  adu  obbanE  vyakti 
@@ -11739,10 +11226,8 @@ adannu  gurutisuva  hesarukanteyannu  baLasidoDaneyE  tiLiyaballa
 pAngAgibiDuttade; hAgAgi, adara kuritAgi innaSTu heccina sangatigaLannu 
 kELuganige tiLisalEbEkendEnU illa.  
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 597 
 
 (4)  kELuganige  tiLiyaballudu  mattu  tiLiyalAgadudu  embavugaLa 
 naDuvina  vyatyAsa  hesarupadagaLa  mUlaka  ADugaru  naDesuva  pAngugaLa 
@@ -11792,10 +11277,8 @@ Adare,  kELuganige  tiLiyalAgadudannu  gurutisuva  ondu,  obba,
 tumbA,  halavu  modalAda  padagaLu  pAngugaLa  gurutisuvikeyannaSTE 
 naDesaballuvu. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-598 /kannaDa barahada sollarime 
 
 6.5.5 pAngina bageyannu gurutisuvudu 
 sollugaLalli  baLakeyAguva  hesarukantegaLu  nEravAgi  ondu  pAngannu 
@@ -11838,10 +11321,8 @@ Atanu  yAvanobba  vyaktiyannU  manassinallirisikoLLade  (mattu  hesaru
 kanteya  mUlaka  antaha  vyaktiyannu  gurutisahOgade),  tanna  hELike 
 yannu koDabahudu. idannu keLagina sollinalli kANabahudu: 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 599 
 
 (44)  AnegaLu kADinalli oTTige tirugADuttiruttave. 
 
@@ -11886,10 +11367,8 @@ llilla'  emba  huruLideyallade,  `ondu  kempuhUvina  giDa  illavAgide
 gaLannu  gurutisuva  hesarukanteyU  baraballudu,  illavE  pAngugaLa 
 bageyannu  gurutisuva  hesarukanteyU  baraballudu.  endare,  I 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
     
-600 /kannaDa barahada sollarime 
 
 sollige  eraDu  huruLugaLiraballuvu:  `(haTTiyalliruva)  danagaLu  Enu 
 tinnuttive'  embudannu  adu  tiLisaballudu,  illavE  `sAmAnyavAgi 
@@ -11929,10 +11408,8 @@ pada  mumbottina  rUpadalli  mAtra  baraballudu;  himbottina  rUpa
 dalli  bandideyAdare,  adarondige  bandiruva  hesarukantege  pAngina 
 bageyannu gurutisuva huruLu sigalAradu: 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 601 
 
 (49ka)  danagaLu hAlu koDuttave. 
 (49ca)  danagaLu hAlu koTTuvu. 
@@ -11974,10 +11451,8 @@ bEreyE  ondu  kAraNakkAgi  pAngina  bageyannu  gurutisuva  huruLannu
 paDeyuttade:  `rAju  entahavanu'  embudAgi  Atana  pariceyannu 
 tiLisuvudakkAgi  I  sollu  baLakeyAgide;  hAgAgi,  adaralli  bandiruva 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-602 /kannaDa barahada sollarime 
 
 obba  hADugAra  emba  padakantege  pAngina  bageyannu  gurutisuva 
 huruLu mAtravE sigaballudu. 
@@ -12017,10 +11492,8 @@ keLagina sollugaLalli kANabahudu:
 ondu  maNeyannu  gurutisuttade;  hAgAgi,  ADuganu  bayasuva  kelasa 
 vannu kELuganu mADaballanu.  
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 603 
 
 idakke badalu, (53ca)dalli bandiruva ondu maNe embudu nEra 
 vAgi ondu pAngannu gurutisalu hOguvudilla; idakke badalu, adu 
@@ -12062,10 +11535,8 @@ bahudu:
 (54ca) avaLu nanagondu gulAbi koTTaLu. 
 (54Ta) avaLu nanagondu hU koTTaLu. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-604 /kannaDa barahada sollarime 
 
 (54ka)  sollige  (54ca)  mattu  (54Ta)  sollugaLu  oLahuruLu 
 gaLAgaballuvu;  avaLu  nanage  kempu  gulAbi  koTTiddALe  endare, 
@@ -12105,10 +11576,8 @@ idakke  badalu,  (56ka)dalli  ondu  haNNu  embudannu  pAngina  bage
 yannu  gurutisuvudakkAgi  baLasalAgideyAdare,  A  sollige  (56ca) 
 sollu oLahuruLAgaballudu. yAkendare, huLi haNNU ondu haNNE. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 605 
 
 6.5.6 tOrupadagaLinda tiLiyada gurutisuvike 
 yAru, Enu, yAvanu, yAvaLu, yAvudu, mattu eSTu emba 
@@ -12149,10 +11618,8 @@ adaralli  bandiruva  yAvudO  ondu  pustaka  emba  hesarukante
 nEravAgi  ondu  pAngannu  gurutisaballudallade,  ondu  bageya 
 pAngannu  gurutisuva  huruLu  adakke  baralAradu.  idallade,  I 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-606 /kannaDa barahada sollarime 
 
 hesarukanteyalli  bandiruva  yAvudO  (yAvudu+O)  embudu 
 adu  gurutisuva  pAngu  yAvudembudannu  ADuga  tiLidilla  embu 
@@ -12194,13 +11661,11 @@ mElina hesarukantegaLondige U oTTannu baLasuva modalu avakke
 Adare  emba  Agu  esakapadada  bEDikeya  rUpavannu  sErisidevAdare, 
 avakke nEravAgi ondu pAngannu gurutisuva huruLu baruttade, mattu 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
 intaha  pAngu  ADuganige  tiLiyadudu  emba  huruLU  siguttade. 
 ettugegAgi, keLage koTTiruva sollugaLannu gamanisabahudu: 
 
-hesarupadakantegaLa iTTaLa / 607 
 
 (61ka)  avanu yAva huDuganannU kareyalilla. 
 (61ca) avanu yAva huDuganannAdarU kareyabahudu. 
@@ -12235,10 +11700,8 @@ halavu bagegaLalli hesarupadagaLinda bErAgi kANisikoLLuttave.
 ondu  sollannu  ADuttiruva  (illavE  kELuttiruva)  vyaktiyE  adara 
 pAngugaLalli  ondAgideyAdalli  adannu  tiLisalu  nAnu  mattu  nInu 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-608 /kannaDa barahada sollarime 
 
 emba  eraDu  ADupadagaLalli  ondannu  baLasabEkAguttade.  ivugaLalli 
 nAnu embudu sollina pAngugaLalli ondu adara ADuga embudannu 
@@ -12281,10 +11744,8 @@ Ata (hari) adara kELuga' emba viSayavannu tiLisuvudilla.
 I  rIti,  nAnu  mattu  nInu  emba  I  eraDu  ADupadagaLige 
 sollina  ondu  pAngu  adara  ADuga  illavE  kELuga  embudannu 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 609 
 
 tiLisuvantaha  avugaLadE  Ada  kelasavide;  hAgAgi,  avugaLa  baLake 
 hesarupadagaLa  baLakeginta  halavu  viSayagaLalli  bErAgide.  ivugaLalli 
@@ -12333,10 +11794,8 @@ sollina  ADuga  illavE  kELuga  embudannu  tiLisuvudu'  mattu  `A
 pAngannu  hottiruvudu  yAru  embudannu  tiLisuvudu'  emba  I 
 eraDu  kelasagaLannu  ondE  pada  illavE  padakante  naDesalAradu. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-610 /kannaDa barahada sollarime 
 
 ADupadagaLu  ivugaLalli  modalaneya  kelasavannu  naDesalu  baLakeyAgu 
 ttave, mattu hesarupadagaLu hAgU padakantegaLu eraDaneya kelasavannu 
@@ -12389,10 +11848,8 @@ hOgabahudu.
 mElina  sollugaLalli  ADuga  illavE  kELugaru  yArembudannu 
 gurutisuvalli  neravAguva  kalitavaru,  A  mUleyalli  kuLitavanu, 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 611 
 
 mattu  mUranE  taragatiya  huDugaru,  SrInivAsanige,  mESTrE 
 emba  nuDitagaLannu  bEreyE  pada  illave  padakantegaLAgi  irisalAgide; 
@@ -12437,10 +11894,8 @@ bandaddu yAvAga?'
 (6ka)dalli bandiruva eraDu sollugaLannu yAru yArige hELiddu 
 (avugaLa  ADuga  mattu  kELugaru  yAru  embudannu  tiLisalu) 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-612 /kannaDa barahada sollarime 
 
 horasollugaLannu baLasalAgide. ivugaLalli modalanE sollina ADuga 
 mattu kELugaru yAru embudannu rAju manege bandoDane jAnaki 
@@ -12484,10 +11939,8 @@ tiLisuvudakkintalU mukyavAgi sollina ADuga, kELuga mattu bErobba
 embavugaLa  bEre  bEre  kUDikegaLannu  tiLisuttave.  ADupadagaLu  pAngu 
 gaLannu  gurutisalu  baLakeyAguva  badalu  sollugaLalli  yAva  pAngu 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 613 
 
 avugaLa  ADuga  illavE  kELugavAgiruttade  embudannu  tiLisalu  baLake 
 yAguttiruvudE idakke kAraNavirabEku. 
@@ -12530,10 +11983,8 @@ nammibbarannu yArU kareyuvudilla.
 (9Ta)  nimmibbarinda yAva kelasavU Agadu. 
 (9pa)  nammibbaralli obba oLage hOgali. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-614 /kannaDa barahada sollarime 
 
 6.6.2 tOrupadagaLa baLake 
 pAngugaLannu  gurutisuvudakkAgi  baruva  hesarupadagaLa  jAgadalli 
@@ -12608,10 +12059,8 @@ yAvaru
 yAru 
 yAvuvu 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 615 
 
 I  paTTiya  ondondu  sAlinallU  mUru  mUru  padagaLive; 
 ivugaLalli  modala  eraDu  padagaLu  ADuganige  tiLidiruva  pAngannu 
@@ -12651,10 +12100,8 @@ I vyatyAsavannu keLagina sollugaLalli kANabahudu:
 (12ka)  ivaLu Urige bandu mUru vAra kaLeyitu. 
 (12ca) avanige ondu pustaka bEkAgide.  
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-616 /kannaDa barahada sollarime 
 
 ADugana  hattirada  pAngugaLannu  gurutisuva  padagaLa  eduru  nillisi 
 dAga mAtra dUrada padagaLige antaha `dUrada pAngu' emba huruLu 
@@ -12704,10 +12151,8 @@ nAlkaneya  modalAda  padarUpagaLondige  hattirada  padarUpagaLannu
 baLasalu baruvudilla embudannu mEle eraDanE kAlannalliruva nuDita 
 gaLu sariyalla embudarinda tiLiyabahudu. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 617 
 
 I  eraDu  bageya  tOrupadagaLa  naDuve  innondu  vyatyAsavU 
 ide:  ivanu,  ivaLu,  idu  modalAdavu  kELuganige  tiLiyaballu 
@@ -12750,10 +12195,8 @@ vyatyAsavannu keLage koTTiruva sollugaLalli kANabahudu:
 (15ka)  nAnu pETeyinda Enu tarabEku? 
 (15ca) nAnu pETeyinda yAvuvannu tarabEku? 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-618 /kannaDa barahada sollarime 
 
 yAvanu,  yAvaru  modalAda  manuSyarannu  gurutisuva  pada 
 
@@ -12805,10 +12248,8 @@ idu  ivu
 
 baLasalu baruttade; Adare, I viSayadalli kelavu kaTTupADugaLive: 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 619 
 
 (ka)  paricepadagaLu  dUrada  pAngugaLannu  gurutisuva  tOrupada 
 gaLondige mAtra baruttavallade, hattirada mattu tiLiyada pAngugaLannu 
@@ -12864,10 +12305,8 @@ nAnu, *curukina nInu).
 
 baLasuvallU kelavu kaTTupADugaLive: 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-620 /kannaDa barahada sollarime 
 
 (ka)  eNikeya  padagaLu  tOrupadagaLa  baLika  baruttavallade 
 
@@ -12918,10 +12357,8 @@ bEkAguvudilla;  Adare,  dUrada  tOrupadagaLannu  bEre  kelasagaLallU
 baLasabahudAgiddu,  antaha  baLakegaLiruvalli  avugaLondige  bEre 
 nelegoLisuva padagaLannu baLasalu baruttade. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 621 
 
 (ka)  kelavu  paricepadagaLondige,  mattu  pattuge  oTTinondige 
 bandiruva  esaka,  hesaru  illavE  paricepadagaLondige  dUrada  tOru 
@@ -12963,10 +12400,8 @@ eNikeya vyatyAsavannu tOrisabEkAgiruvalli I eraDu tOrupada
 gaLannu  mElina  kelasadalli  baLasalu  baruvudilla  (*idu  namma  mane 
 gaLu,  *adu  nanna  geLeyaru).  Adare,  halaveNikeya  padagaLannu 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-622 /kannaDa barahada sollarime 
 
 takkumeya  huruLinalli  baLasalAgideyAdare,  antaha  kaDegaLalli  avannu 
 baLasalu baruttade (idu nanna tandeyavaru, idu namma gurugaLu). 
@@ -13003,10 +12438,8 @@ uLida  eNikepadagaLalli  eraDarinda  aydaravaregina  padagaLige  mAtra
 manuSyarannu  gurutisuva  ibbaru,  mUvaru,  nAlvaru  mattu  ayvaru 
 emba halaveNikeya heccina rUpagaLive: 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 623 
 
 (21ka)  ibbarannu barahELu. 
 (21ca) nAlvarannu oLage biDalilla. 
@@ -13045,10 +12478,8 @@ bahudu. eNikeyannE nEravAgi gurutisuvalli baLakeyAguva eNikepada
 gaLondige  A,  I,  mattu  yAva  embavugaLannu  horatupaDisi, 
 mElina yAva neravu nuDitagaLU baruvudilla. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-624 /kannaDa barahada sollarime 
 
 (25ka)  I hattannu A ippattakke kUDisi. 
 (25ca) yAva ippattaydannu nIvu idarinda kaLedaddu? 
@@ -13088,10 +12519,8 @@ keLage koDalAgide:
 (27ca) avaLa hADuvikege tumbA cappALe biddide. 
 (27Ta) avaLa hADadikeyinda yArU bEsarapaTTilla. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 625 
 
 (27Ta)dalli  kANisidantaha  allagaLeyuva  ike-rUpa  heccu  baLake 
 yallilla;  Adare,  arimeya  barahagaLige  antaha  aDakavAda  rUpagaLu 
@@ -13140,10 +12569,8 @@ emmeyannu  kareyuvudu  emba  padakanteyalli  kare  esakapadada
 mumbottina  udu-rUpa  bandiddu,  adarondige  emme  hesarupada 
 Aguga pAngAgi annu oTTinondige bandide; idakke badalu, emmeya 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-626 /kannaDa barahada sollarime 
 
 kareyuvike  emba  padakanteyalli  adE  esakapadada  ike-rUpa 
 bandiddu,  adarondige  emme  pada  pattugerUpadalli  a  oTTinondige 
@@ -13190,10 +12617,8 @@ mAtra  uLidukonDiddu,  avellavU
 I kAraNakkAgi avugaLa baLakeyalli ippuruLu kANisikoLLuttade; Adare, 
 ike-rUpagaLu  ivugaLalli  modalaneya  (esakavannu  gurutisuva) 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 627 
 
 kelasavannu mAtra mADuttaveyAda kAraNa, avugaLa baLakeyalli antaha 
 ippuruLu kANisuvudilla. 
@@ -13233,10 +12658,8 @@ sAmAnyavAgi,  pAngugaLa  pariceyannu  tiLisuva  mUlaka  paricepadagaLu
 pAngugaLannu  gurutisuvalli  hesarupadagaLige  neravannu  nIDuttave; 
 ettugegAgi, cikka huDuga emba hesarukanteyalli bandiruva cikka emba 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-628 /kannaDa barahada sollarime 
 
 paricepada  huDuga  emba  pAngina  pariceyondannu  tiLisuva  mUlaka, 
 adannu  gurutisuvalli  huDuga  hesarupadakke  neravannu  nIDuttade.  I 
@@ -13275,10 +12698,8 @@ idE  rItiyalli,  kOlu  padakke  neravannu  nIDuvudakkAgi  (32ka)
 sollinallU,  nEravAgi  `udda'  pariceyannu  gurutisuvudakkAgi  (32ca) 
 sollinallU udda emba paricepadavannu baLasalAgide. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 629 
 
 paricepadagaLannu  I  rIti  nEravAgi  ondu  pAngannu  gurutisuvu 
 dakkAgi  baLasidAga,  avu  ondu  pariceyannu  gurutisuttavallade  A 
@@ -13318,10 +12739,8 @@ tiLisuva pariceyannu ondu pAngAgi gurutisuvalli baLakeyAgaballuvu:
 (34ka)  avana kuruDige maddilla. 
 (34ca)  Akeya huccannu biDisuttEnennuvavaru bandiddAre. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-630 /kannaDa barahada sollarime 
 
 Adare, ivu tiLisuva pariceyannu paDediruva vyaktiyannu gurutisuvu 
 dakkAgi, 2.4.3ralli vivarisida hAge, a `ganDusu' illavE i `hengasu' 
@@ -13366,10 +12785,8 @@ mEle  sUcisida  hAge,  pariceyannu  ondu  pAngAgi  gurutisalu
 baLakeyAgiruva  paricepadagaLu  kelavu  viSayagaLalli  hesarupadagaLige 
 neravannu nIDalu baLakeyAgiruva paricepadagaLiginta bErAgive:  
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 631 
 
 (1) neravu nIDuva paricepadagaLalli halavu hOlikeyannu tiLisuva 
 nuDitagaLondige  baraballuvu;  Adare,  pariceyannu  gurutisuvudakkAgi 
@@ -13410,10 +12827,8 @@ sollu  tappAgide;  Adare,  (40Ta)dalli  gurutisuva  padavAgi  bandiruva
 adE udda paricepadavannu adara mAruli rUpadondige baLasiruvudu 
 sariyendu anisuttade.  
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-632 /kannaDa barahada sollarime 
 
 idallade,  (40ta)dalli  kANisida  hAge,  neravu  padavAgi  bandiruva 
 udda paricepadavannu adara mAruli rUpadondige baLasuvAga, hesaru 
@@ -13456,10 +12871,8 @@ hOlisuva huruLU baraballudu.
 
 kAraNa,  adakke  eraDu 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-hesarupadakantegaLa iTTaLa / 633 
 
 6.6.6 esakapadagaLa baLake 
 halavu esakapadagaLannu avugaLalli yAva mArpADannU mADade hesaru 
@@ -13499,10 +12912,8 @@ pasugeyalli koDalAguvudu.
 I  pasugeyalli  hesarukantegaLa  iTTaLa  entahadu  embudannu  vivarisa 
 lAgide.  sAmAnyavAgi,  hesarukantegaLalli  ondu  hesarupada  tiruLupada 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-634 /kannaDa barahada sollarime 
 
 vAgi baruttade, mattu adarondige halavu bageya padagaLu, padarUpa 
 gaLu, mattu oLasollugaLu neravu nuDitagaLAgi baruttave. 
@@ -13533,7 +12944,6 @@ koLLuttAre  embudu  innondu  kAraNa.  kate,  kAdambari,  nATaka
 modalAdavugaLalli I rIti ADuga mattu kELugaru kANisikoLLuvudu 
 innaSTu heccu. 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
 kelavu arimeya padagaLu 
 
@@ -13623,10 +13033,8 @@ verb
 adverb 
 event time 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-636 /kannaDa barahada sollarime 
 
 oTTaluhesaru 
 MlÄÖ  
@@ -13714,10 +13122,8 @@ location
 compound 
 respect 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-kelavu arimeya padagaLu / 637 
 
 wPÁÌl 
 tiruLupada  
@@ -13805,10 +13211,8 @@ future tense
 consonant 
 presupposition 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
-638 /kannaDa barahada sollarime 
 
 modalesaka  
 sarikatana 
@@ -13883,7 +13287,6 @@ layer
 method 
 comparative 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  
 bASAprakASanada bEre pustakagaLu 
@@ -13924,6 +13327,5 @@ balmaTa, mangaLUru 575 001
 
 dUravANi: 0824-2425161, -2492397 
 
-bi DA. Di. en SankarabaT. ellA hakkugaLannU kAdiriside. 
 
  

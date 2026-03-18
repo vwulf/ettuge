@@ -466,6 +466,59 @@ A single generic transliterator replaced the book-28-specific `kn_to_eke.py`. Ke
 
 **Commit:** `d8e037a` "Phase 14: OCR cleanup + kn.md + kn-eke.md for books 03, 07, 17, 25, 27" — 12 files (6 new kn.md + 6 kn-eke.md regenerated)
 
+### Phase 15 — Holistic kn-eke.md Audit + Nav Fix + Stale-Eke Regeneration (2026-03-17)
+
+**Motivation:** After Phase 14, a cross-book audit revealed two systemic issues that had been fixed one book at a time in prior commits, and two that hadn't been fixed at all.
+
+**Issue 1 — Nav link hygiene (fixed holistically in commit `4964158`)**
+
+All `kn-eke.md` files had inconsistent nav-link labels. Patterns found and corrected:
+
+| Old pattern | Correct | Books affected |
+|-------------|---------|----------------|
+| `[ಕನ್nnaDa →]` (hybrid Eke in Kannada label) | `[ಕನ್nnaDa →]` | 02, 07, 14, 18, 27, 29 |
+| `[ingliS →]` (Eke romanisation of "English") | `[English →]` | 02, 14 |
+| `[English →] \| [Eke →](kn-eke#...)` (self-referential) | `[ಕನ್nnaDa →](kn#adhyAya-N) \| [English →](en#...)` | 03, 17, 25, 28 |
+
+Total: 12 files, 18,746 insertions across the single holistic commit.
+
+**Issue 2 — Book 07 OCR page headers/footers (fixed in commit `98c2c7e`)**
+
+After Phase 14 cleaned `vol1-kn.md` and `vol2-kn.md`, the corresponding `kn-eke.md` files were still stale — generated from the uncleaned source. Transliterated page headers remained:
+
+| File | Lines before | Lines after | Pattern removed |
+|------|-------------|-------------|-----------------|
+| `vol1-kn.md` | 20,475 | 20,185 | `N / kannaDa barahada sollarime`, garbled M¼À |
+| `vol2-kn.md` | 13,928 | 13,333 | copyright line, `N / kannaDa barahada sollarime`, chapter headers |
+
+**Issue 3 — Book 07 kn-eke.md files stale after OCR cleanup (fixed in this phase)**
+
+The `vol1-kn-eke.md` (20,473 lines) and `vol2-kn-eke.md` (13,929 lines) were regenerated from the Phase 14 uncleaned kn.md — before the header/footer removal. After removing those artifacts from kn.md, the kn-eke.md files still contained their transliterated equivalents:
+
+- `4 / kannaDa barahada sollarime` — page headers from left-page running headers
+- Copyright line in Eke form
+- Section separators from chapter titles printed at top of print pages
+
+Fix: Regenerate both from the cleaned kn.md using `gen_kn_eke.py`.
+
+**Issue 4 — Book 02 kn-eke.md was hand-authored summaries, not verbatim Eke (fixed in this phase)**
+
+The earliest `kn-eke.md` in the collection (book 02, *Kannadalle Hosapadagalannu Kattuva Bage*) was written manually as a companion document with explanatory Eke text — not a verbatim transliteration of `kn.md`. At sections like `sec-4-4`, the kn-eke.md had analytical explanation ("esaka padakkE -ka oTTannu sErisi upakaraNavannu hesarisuvA...") while kn.md had verbatim Kannada word lists and body text. The file was 835 lines vs kn.md's 553 lines (52% larger — expanded by hand-authored explanations).
+
+Fix: Regenerate from `kn.md` using `gen_kn_eke.py`, replacing hand-authored content with verbatim Eke.
+
+**Regenerations in this phase (all via `gen_kn_eke.py`, 0 residual Kannada chars):**
+
+| File | Old lines | New lines | Source | Reduction |
+|------|-----------|-----------|--------|-----------|
+| `02-...-kn-eke.md` | 835 (hand-authored) | 491 (verbatim) | `02-...-kn.md` (553L) | −344 (removed summaries) |
+| `07-...-vol1-kn-eke.md` | 20,473 (stale) | 20,183 (clean) | `07-...-vol1-kn.md` (20,185L) | −290 (removed page headers) |
+| `07-...-vol2-kn-eke.md` | 13,929 (stale) | 13,331 (clean) | `07-...-vol2-kn.md` (13,333L) | −598 (removed page headers/footers) |
+
+**Known residual:** `07-...-vol1-kn.md` line 11206 has `(4) M¼À:` — a garbled WX-encoded list entry (1 occurrence). Requires original PDF to determine correct Kannada. All other character-level cleanup is complete.
+
+**Commit:** `fix(02,07): regenerate kn-eke.md verbatim — drop hand-authored summaries and stale page headers`
+
 ---
 
 ## Eke Romanisation System

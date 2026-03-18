@@ -4,79 +4,77 @@ redirect_from:
 ---
 
 # kannaDadalle hosapadagaLannu kaTTuva bage
+**lEkhakaru:** Di. en. Sankara bhaT
+**mAlike:** Di.en.Sankara bhaT nuDiyarime mAlike
 
-**lEkhakaru:** Di. en. Sankara baT
-**mAlika:** Di. en. Sankara baT nuDiyarime mAlika
-
-> mUla paThya (kannaDa lipi): [`02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn.md`](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn)
 > ingliS viSlESaNe: [`02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en.md`](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en)
+> Eke rOmanIkaraNa: [`02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke.md`](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke)
 
 ---
 
 <a id="toc"></a>
 
 ## oLapiDi
-
 - [bhAga 1 — munnuDi — kannaDada olavugaLu](#ch1)
   - [1.1 baraha kannaDadalli samskxtada prAbalya](#sec-1-1)
   - [1.2 parihAra — kannaDada nija pada kaTTuva tAkattu](#sec-1-2)
-  - [1.3 pustakada uddeSa mattu vyApti](#sec-1-3)
-- [bhAga 2 — hosapadagaLannu kaTTuva oTTu caukaTTu](#ch2)
+  - [1.3 pustakada uddESa mattu vyApti](#sec-1-3)
+- [bhAga 2 — hosapadagaLannu kaTTuva oTTu cavkaTTu](#ch2)
   - [2.1 mUru pada vargagaLu](#sec-2-1)
-  - [2.2 eraDu vidAnagaLu — kaTTupada mattu joDupada](#sec-2-2)
-  - [2.3 nAlku munnOTTu gumpugaLu](#sec-2-3)
+  - [2.2 eraDu vidhAnagaLu — kaTTupada mattu jODupada](#sec-2-2)
+  - [2.3 nAlku munnoTTu gumpugaLu](#sec-2-3)
 - [bhAga 3 — paricepadadinda hesarupada](#ch3)
   - [3.1 guNa oTTu -tana](#sec-3-1)
   - [3.2 tirugu rIti — hesarupadadinda paricepada](#sec-3-2)
-- [bhAga 4-5 — esakapadadinda hesarupada](#ch4)
+- [bhAga 4–5 — esakapadadinda hesarupada](#ch4)
   - [4.1 esaguga oTTu -ga/-iga](#sec-4-1)
-  - [4.2 vrtti esaguga oTTu -gAra](#sec-4-2)
+  - [4.2 vxtti esaguga oTTu -gAra](#sec-4-2)
   - [4.3 oLagAguga samasye (-ee antara)](#sec-4-3)
   - [4.4 upakaraNa oTTu -ka](#sec-4-4)
   - [4.5 amUrta esaka hesarupada oTTu -ike/-ke mattu -ta](#sec-4-5)
-  - [4.6 mUrta pala hesarupada oTTu -ge/-ige mattu -te](#sec-4-6)
+  - [4.6 mUrta phala hesarupada oTTu -ge/-ige mattu -te](#sec-4-6)
 - [bhAga 6 — SUnya kaTTaNe](#ch6)
-  - [6.1 ingliS mADuvandaddu kannaDa mADalagadu](#sec-6-1)
+  - [6.1 ingliS mADuvanthaddu kannaDa mADalAgadu](#sec-6-1)
 - [bhAga 7 — hesarupadadinda hesarupada](#ch7)
-  - [7.1 tajJa oTTu -ariga](#sec-7-1)
+  - [7.1 tajYa oTTu -ariga](#sec-7-1)
   - [7.2 para oTTu -olaviga](#sec-7-2)
   - [7.3 kiri rUpa — kiru-/kitt-](#sec-7-3)
-- [bhAga 8 — aLaviya munnOTTu](#ch8)
-  - [8.1 eNike bEru munnOTTugaLu](#sec-8-1)
-  - [8.2 hanta munnOTTugaLu](#sec-8-2)
-- [bhAga 9 — imbina munnOTTu](#ch9)
-  - [9.1 imbina munnOTTu vyavasthe](#sec-9-1)
-- [bhAga 10 — hottina munnOTTu](#ch10)
-  - [10.1 hottina munnOTTu vyavasthe](#sec-10-1)
-- [bhAga 11-12 — allagaLeyuva munnOTTu](#ch11)
+- [bhAga 8 — aLaviya munnoTTu](#ch8)
+  - [8.1 eNike bEru munnoTTugaLu](#sec-8-1)
+  - [8.2 hanta munnoTTugaLu](#sec-8-2)
+- [bhAga 9 — imbina munnoTTu](#ch9)
+  - [9.1 imbina munnoTTu vyavasthe](#sec-9-1)
+- [bhAga 10 — hottina munnoTTu](#ch10)
+  - [10.1 hottina munnoTTu vyavasthe](#sec-10-1)
+- [bhAga 11–12 — allagaLeyuva munnoTTu](#ch11)
   - [11.1 illa mattu alla — kannaDada viSiSTa vyatyAsa](#sec-11-1)
-  - [11.2 allagaLeyuva munnOTTu samAnagaLu](#sec-11-2)
+  - [11.2 allagaLeyuva munnoTTu samAnagaLu](#sec-11-2)
   - [11.3 itara allagaLeyuva rItigaLu](#sec-11-3)
 - [bhAga 13 mattu 17 — esakapadagaLannu kaTTuvudu](#ch13)
   - [13.1 ondE utpAdaka esakapada oTTu — -isu](#sec-13-1)
   - [13.2 mUru bhAga rUpagaLu](#sec-13-2)
-- [bhAga 14-16 — joDupada mattu ninta hesarupada](#ch14)
-  - [14.1 joDu hesarupada](#sec-14-1)
-  - [14.2 joDu esakapada](#sec-14-2)
-  - [14.3 joDaNeyA muKya niyama](#sec-14-3)
+- [bhAga 14–16 — jODupada mattu ninta hesarupada](#ch14)
+  - [14.1 jODu hesarupada](#sec-14-1)
+  - [14.2 jODu esakapada](#sec-14-2)
+  - [14.3 jODaNeya mukhya niyama](#sec-14-3)
   - [15.1 ninta ingliS hesarupada — tIrmAna krama](#sec-15-1)
 - [bhAga 18 — nava-SAstrIya bErugaLu](#ch18)
   - [18.1 bEru samAnagaLu](#sec-18-1)
   - [18.2 oTTu samAnagaLu](#sec-18-2)
-- [bhAga 19-52 — anvaya — ingliS oTTugaLa viSlESaNe](#ch19)
-  - [bhAga 19-28 — hesarupada kaTTuva hinnOTTugaLu](#ch19-28)
-    - [19.1 esaguga hinnOTTugaLu — -er/-or, -ist, -eer, -ian](#sec-19-1)
-    - [19.2 amUrta guNa hinnOTTugaLu — -ness, -ity, -ism, -dom, -hood, -ship](#sec-19-2)
-    - [19.3 esaka mattu kriye hinnOTTugaLu — -tion/-sion, -ment, -ance/-ence, -ure, -age](#sec-19-3)
-    - [19.4 pala mattu utpatti hinnOTTugaLu — -ure, -age (pala)](#sec-19-4)
-  - [bhAga 29-36 — esakapada mattu paricepada kaTTuva hinnOTTugaLu](#ch29-36)
-    - [29.1 esakapada kaTTuva hinnOTTugaLu — -ize/-ise, -ify, -en](#sec-29-1)
-    - [29.2 paricepada kaTTuva hinnOTTugaLu — -ful, -less, -ous, -ive, -ible/-able, -al, -ic](#sec-29-2)
-  - [bhAga 37-52 — ingliS munnOTTugaLa viSlESaNe](#ch37-52)
-    - [37.1 aLavi/hanta munnOTTugaLu — hyper-, mega-, micro-, mini-, super-](#sec-37-1)
-    - [37.2 imbina munnOTTugaLu — inter-, intra-, extra-, trans-, sub-, super-](#sec-37-2)
-    - [37.3 hottina munnOTTugaLu — pre-, post-, re-, ex-, neo-, paleo-](#sec-37-3)
-    - [37.4 allagaLeyuva munnOTTugaLu — dis-, un-, non-, anti-, de-, in-/im-/ir-/il-](#sec-37-4)
+- [bhAga 19–52 — anvaya — ingliS oTTugaLa viSlESaNe](#ch19)
+  - [bhAga 19–28 — hesarupada kaTTuva hinnoTTugaLu](#ch19-28)
+    - [19.1 esaguga hinnoTTugaLu — -er/-or, -ist, -eer, -ian](#sec-19-1)
+    - [19.2 amUrta guNa hinnoTTugaLu — -ness, -ity, -ism, -dom, -hood, -ship](#sec-19-2)
+    - [19.3 esaka mattu kriye hinnoTTugaLu — -tion/-sion, -ment, -ance/-ence, -ure, -age](#sec-19-3)
+    - [19.4 phala mattu utpatti hinnoTTugaLu — -ure, -age (phala)](#sec-19-4)
+  - [bhAga 29–36 — esakapada mattu paricepada kaTTuva hinnoTTugaLu](#ch29-36)
+    - [29.1 esakapada kaTTuva hinnoTTugaLu — -ize/-ise, -ify, -en](#sec-29-1)
+    - [29.2 paricepada kaTTuva hinnoTTugaLu — -ful, -less, -ous, -ive, -ible/-able, -al, -ic](#sec-29-2)
+  - [bhAga 37–52 — ingliS munnoTTugaLa viSlESaNe](#ch37-52)
+    - [37.1 aLavi/hanta munnoTTugaLu — hyper-, mega-, micro-, mini-, super-](#sec-37-1)
+    - [37.2 imbina munnoTTugaLu — inter-, intra-, extra-, trans-, sub-, super-](#sec-37-2)
+    - [37.3 hottina munnoTTugaLu — pre-, post-, re-, ex-, neo-, paleo-](#sec-37-3)
+    - [37.4 allagaLeyuva munnoTTugaLu — dis-, un-, non-, anti-, de-, in-/im-/ir-/il-](#sec-37-4)
 
 ---
 
@@ -84,10 +82,7 @@ redirect_from:
 <a id="ch1"></a>
 
 ## bhAga 1 — munnuDi — kannaDada olavugaLu
-
 [↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#ch1) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-1--philosophy-and-core-principles)
 
 ---
 
@@ -95,49 +90,27 @@ redirect_from:
 <a id="sec-1-1"></a>
 
 ### 1.1 baraha kannaDadalli samskxtada prAbalya
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#sec-1-1) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-1--philosophy-and-core-principles)
-
-baraha kannaDada lekhakaru mattu arivigaru hosa padagaLannu kaTTuvAga ellA samskxta pada mattu oTTugaLannu balasuvaduE hecca. kannaDadavE Ada padagaLannu mattu oTTugaLannu balaside hosapadagaLannu kaTTabahudu enbadu avara gananikke baruvudilla. idarimdAgi ivattu kannaDadavE Ada padagaLu ondondAgi barahada baLakeyinda horabILuttive mattu avugaLa jAgavannu samskxta eravalugaLu tumbuttive. kannaDa barahagaLu samskxta eravalugaLa I horayindAgi ADunuDidinda dUra hOguttive mattu tannatanavanu kaLedukoLLuttive.
-
----
+munnuDi kannaDada barahagAraru mattu arivigaru hosa padagaLannu kaTTuvAgalella samskxta pada mattu oTTu ephiks gaLannu baLasuvudE heccu kannaDadavE Ada padagaLannu mattu oTTugaLannu baLasiyu hosa padagaLannu kaTTalu baruttade embudu avara gamanakke baruvudilla idarindAgi ivattu kannaDadavE Ada padagaLu ondondAgi barahada baLakeyinda horabILuttive mattu avugaLa jAgavannu samskxta eravalugaLu tumbuttive kannaDa barahagaLu samskxta eravalugaLa I horeyindAgi ADunuDiyinda dUra hOguttive mattu tannatanavannu
 
 
 <a id="sec-1-2"></a>
 
 ### 1.2 parihAra — kannaDada nija pada kaTTuva tAkattu
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#sec-1-2) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-1--philosophy-and-core-principles)
-
-kannaDadavE Ada padagaLannu balaside barahagaLannu bareyabEkendiruvavaru ivattu tAvE antaha padagaLannu hosadAgi kaTTuva kelasakkE iLiyabEkAgide. Adare idannu naDasuvadudu hEge, I viSayadalli kannaDada olavugaLu entahavu enbadu heccinavarigu tiLidiruvudilla. hAgAgi kannaDadallIne hosa padagaLannu kaTTabEkendiruvavarige antaha tiLivannu odagisikoDuvaduE I kadatada muKya uddeSavAgide. kannaDada nija pada kaTTuva tAkattu — barahakke sAruvanta pada mattu oTTugaLu, joDu padagaLu — ellavu samskxtakkE kaDimateyAgivalla enbadu baT avaru tOriskoDuttAre.
-
----
+baLasuva badalu samskxtada pada mattu oTTugaLannu baLasi kaTTiruva padagaLu hAgAgi kannaDadavE Ada padagaLannu baLasi barahagaLannu bareyabEkendiruvavaru ivattu tAvE antaha padagaLannu hosadAgi kaTTuva kelasakke iLiyabEkAgide Adare idannu naDesuvudu hEge I viSayadalli kannaDada olavugaLu entahavu embudu heccinavarigU tiLidiruvudilla hAgAgi kannaDadallinE hosa padagaLannu kaTTabEkendiruvavarige antaha tiLivannu odagisikoDuvudE I kaDatada mukhya uddESavAgide idaralli
 
 
 <a id="sec-1-3"></a>
 
-### 1.3 pustakada uddeSa mattu vyApti
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#sec-1-3) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-1--philosophy-and-core-principles)
-
-I kadatadalli baLasida arimeyA padagaLu: allagaLeta (negation), aLavi (quantity), imbu (place), hulikantte (syllable), esaka pada (verb), esaka paricaya (adverb), oTTu (affix), kaTTu pada (derived word), kaDumegOLisu (intensify), kUDu pada (verbal compound), joDu pada (compound nominal), paricaya pada (modifier), paricaya rUpa (adjectival form). I pustaka 52 bhAgagaLalliE — modala bhAgadalli kannaDada pada kaTTuva olavugaLannu, eraDaneya bhAgadalli ingliS padagaLigE sATiyAguvanta hosa padagaLannu kannaDadalli kaTTuvadudu hEge enbadannu toriskoDalAgide.
+### 1.3 pustakada uddESa mattu vyApti
+mattu kannaDa padagaLa aLavannu heccisuvalli I kaData neravAgali embudu nanna hArayke kelavu arimeya padagaLu allagaLeta negESan aLavi kvAnTiTi imbu plEs hulikante silabal esaka pada varb esaka paricaya aDvarb oTTu ephiks kaTTu pada DirayvD varD kaDumegoLisu inTensiphay kUDu pada varbal kAmpavnD jODu pada kAmpavnD nAminal paricaya pada mADiphayyar paricaya rUpa aDjekTayval phArm pAngu
 
 ---
 
 
 <a id="ch2"></a>
 
-## bhAga 2 — hosapadagaLannu kaTTuva oTTu caukaTTu
-
+## bhAga 2 — hosapadagaLannu kaTTuva oTTu cavkaTTu
 [↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#ch2) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-2--framework-overview)
 
 ---
 
@@ -145,38 +118,19 @@ I kadatadalli baLasida arimeyA padagaLu: allagaLeta (negation), aLavi (quantity)
 <a id="sec-2-1"></a>
 
 ### 2.1 mUru pada vargagaLu
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#sec-2-1) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-2--framework-overview)
-
-kannaDadalli muKyavAgi hesaru pada (noun), esaka pada (verb) mattu paricepada (adjective/adverb) enbA mUru bageyA padagaLu baLakeyalliveddu, intaha mUru bageyA padagaLannu hosadAgi kaTTabEkAguvudu. I kadatada pasugegaLannu eraDu muKya tunDugaLalli aNigOLisalAgide: modalanadalli pada kaTTuva kelasadalli kannaDada olavu EnidEndu vivariside, eraDanadalli A olavuvannu balaside ingliS padagaLigE sATiyAguva hosa padagaLannu kaTTuvadudu hEge enbadannu toriskoDalAgide.
-
----
+munnOTa kaDatada iTTaLa I kaDatada pasugegaLannu eraDu mukhya tunDugaLalli aNigoLisalAgide modalaneya tunDinalli padagaLannu kaTTuva kelasadalli kannaDada olavEnu embudannu vivarisalAgide mattu eraDanE tunDinalli I holavannu baLasi ingliS padagaLige sATiyAguvantaha hosa padagaLannu kannaDadalli kaTTuvudu hEge embudannu tOrisikoDalAgide kannaDadalli mukhyavAgi hesaru pada navn esaka pada varb mattu paricaya pada aDjekTiv aDvarb gaLemba mUru bageya padagaLu baLakeyallive mattu intaha mUru bageya padagaLannu hosadAgi
 
 
 <a id="sec-2-2"></a>
 
-### 2.2 eraDu vidAnagaLu — kaTTupada mattu joDupada
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#sec-2-2) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-2--framework-overview)
-
-kannaDadalli eraDu muKya vidAnagaLu balakedalli iveddu: ondu oTTugaLannu balaside kaTTu padagaLannu kaTTuvadudu (suffixation), mattu eraDu eraDu illi hecca padagaLannu jODiscukoDuvadudu (compounding). ingliS munnOTTugaLigE sATiyAguva rItiyalli kannaDadalli kelevu paricaya bErugaLu illi hesaru pada illi esaka padagaLa munnige balasuva mUlaka hosa padagaLannu kaTTagabbadu. ingliS munnOTTugaLu koDuva huruLugaLannu muKyavAgi aLavi, imbu, hottu mattu allageLeta enbA nAlku gumpugaLalli gumpisu barutte.
-
----
+### 2.2 eraDu vidhAnagaLu — kaTTupada mattu jODupada
+kannaDadalli munnoTTugaLa baLake illa hIgiddarU ingliSnalli munnoTTugaLige sATiyAguvante kannaDadalli kelavu paricaya bEre hesaru pada illavE esaka padagaLa modalu baLasi hosa padagaLannu kaTTalu baruttade ingliSnalli munnoTTugaLu koDuva huruLugaLannu mukhyavAgi aLavi imbu hottu mattu allageLeta emba nAlku gumpugaLalli gumpisalu baruttiddu I nAlku bageya huruLugaLannu kannaDadalli tiLisuvudu hEge embudannu ELanE pasugeyalli vivarisalAgide eraDu
 
 
 <a id="sec-2-3"></a>
 
-### 2.3 nAlku munnOTTu gumpugaLu
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#sec-2-3) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-2--framework-overview)
-
-kannaDada arivigaLalli iruva anisikegE viruddavAgi, kannaDadavE Ada padagaLannu mattu oTTugaLannu balaside hosapadagaLannu kaTTabahudu. kelevu kannaDada arimelA padanerekaLalli nUrakke 80 raStu samskxta eravalu padagaLive. nija kannaDada baravaNigeya baraikeyalli padagaLannu balaside kaTTalAgida hosapadagaLu kannaDa nuDiyannu ADunuDigE hattira tOruttave mattu odugarigu suLabavAgi arthavAgutte.
+### 2.3 nAlku munnoTTu gumpugaLu
+kaTTikoLLuttiddAre idarindAgi intaha barahagaLalli samskxta padagaLu tumbi tuLukuttive ettugegAgi kannaDada kelavu arimeya padanegaLalli nUrakke 80 raSTu samskxta eravalu padagaLive nijakkU ivannu kannaDada padanerakegaLendu hELikoLLuttiruvudE ondu accariya sangatiyAgide kannaDa barikegaLannu baLasi accu hAkalAgide embudarindaSTE ivannu kannaDa padane nerakegaLendu hELabEkAgide kannaDada arivigaralliruva mElina anisikege
 
 ---
 
@@ -184,10 +138,7 @@ kannaDada arivigaLalli iruva anisikegE viruddavAgi, kannaDadavE Ada padagaLannu 
 <a id="ch3"></a>
 
 ## bhAga 3 — paricepadadinda hesarupada
-
 [↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#ch3) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-37--noun-suffixes)
 
 ---
 
@@ -195,36 +146,21 @@ kannaDada arivigaLalli iruva anisikegE viruddavAgi, kannaDadavE Ada padagaLannu 
 <a id="sec-3-1"></a>
 
 ### 3.1 guNa oTTu -tana
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#sec-3-1) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-37--noun-suffixes)
-
-paricepadadinda hesarupada kaTTuvadudu — idakkAgi kannaDadalli -tana enbA oTTu muKyavAgi baLakeyalliruttu. udAharaNakke: doDD + tana = doddatana, ciCC + tana = ciccatana, kabbi + tana = kabbinatana. I oTTu guNavannu hesarisuvA "guNa hesarupada" kaTTuttade. ingliS -ness illi -ity oTTugaLigE sATiyAgi I -tana oTTu beLesite. kannaDada baraha baLakeyalli samskxta eravalugaLa horayindAgi kannaDada svanta padagaLa beLevanige ninte hOgide, hosa hosa viSayagaLannu ingliSalli tuLuvAgi vivarisalu baruttade, Adare ivannE kannaDadalli vivarisabEkendare bErE nIru samskxtada eravalugaLannu tandirabEkAguttade.
-
----
+kannaDada beLavaNigeya mEle peTTu kannaDa barahakke bEkilladantaha I horeyindAgi kannaDa barahagaLa mattu avugaLalli baLakeyAguva padagaLa beLavaNigeyE nintu hOgide hosa hosa viSayagaLannu ingliSnalli tuLuvAgi vivarisi hELalu baruttade Adare ivannE kannaDadalli vivarisabEkendare baraha munde hOguvudE illa nIru tirugi samskxtada eravalugaLannu tandu tumbabEkAguttade idarindAgi Odugarige halaveDegaLalli adu kannaDa barahavende anisuvudilla kannaDada ondu padanerakeyannu ingliSna ondu cikka padanekeyondige hOlisi
 
 
 <a id="sec-3-2"></a>
 
 ### 3.2 tirugu rIti — hesarupadadinda paricepada
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#sec-3-2) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-37--noun-suffixes)
-
-hesarupadadinda paricepada kaTTuvadudu — kannaDadalli hesaru pada illi esaka pada (paricaya rUpa)gaLannu pariceyAdAgi balasuvadudu sahajadI. hesarupada mattontara paTTuge rUpagaLu (paricaya rUpa) — uddAharaNakke: maNNina (of soil), ciccatanada (of smallness), hosa (new, used as modifier). ingliS arimeyA barahagaLalli intaha sAvIrAru hesagagaLannu hesarisuvA hesarupada baLakeyanu kANabahudAndu. kannaDada arimeyA barahagaLalli I rItiya kannaDadavE Ada hesarupada badalu samskxtadinda eravalu padagannu balasuLaguttade.
+padavannu arimeya barahagaLalli AgAga baLasalAguttade ingliSna arimeya barahagaLalli intaha sAvirAru hesakagaLannu hesarisuva hesaru padagaLa baLakeyannu kANabahudu mattu intaha heccina hesaru padagaLannu ingliS yasaka padagaLige oTTugaLannu sErisi kaTTiruvudannu kANabahudu Adare kannaDada arimeya baragaLalli I rIti yasakavannu hesarisuva kannaDadavE Ada hesaru padagaLa badalu samskxtadinda eravalu paDeda hesaru padagaLannu baLasalAguttade ettigegAgi
 
 ---
 
 
 <a id="ch4"></a>
 
-## bhAga 4-5 — esakapadadinda hesarupada
-
+## bhAga 4–5 — esakapadadinda hesarupada
 [↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#ch4) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-45--verb-to-noun)
 
 ---
 
@@ -232,77 +168,37 @@ hesarupadadinda paricepada kaTTuvadudu — kannaDadalli hesaru pada illi esaka p
 <a id="sec-4-1"></a>
 
 ### 4.1 esaguga oTTu -ga/-iga
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#sec-4-1) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-45--verb-to-noun)
-
-esaka padadinda "esaguga" hesarupada kaTTuvadudu — esaka padakkE -ga illi -iga oTTannu sErisi. udAharaNakke: ODu + ga = ODuga (runner), tinnu + ga = tinnuga (eater), bEDu + ga = bEDuga (one who begs), geLLu + ga = geLLuga (winner). I oTTu mandigaLannu hesarisuttade. esaka pada + -ga enbA padakrama kannaDadalli bahu porana. kelevu hOrapaDigaLU (apavAdagaLu) ive: tannaLavindaLE esakagaLannu naDasabaLLa upakaraNagaLannu hesarisuvudakkAgiyU I oTTannu baLaside, udAharaNakke "ETTuga" (lift) endu.
-
----
+tunDu ondu hosa padagaLannu kaTTuvalli kannaDada olavugaLu eraDu hosa hesaru padagaLannu kaTTuva bage mandi puruLu parice esaka modalAdavannu hesarisuvudakkAgi namage halavu rIti padagaLu bEkAguttave sAla mADidAtanannu hesarisalu sAlagAra emba pada bEDalu bandavanannu hesarisalu bEDuga emba pada sere sikkidavanannu hesarisalu sereyALu emba pada huccu hiDidavanannu hesarisalu hucca emba pada hIge halavu rItiya padagaLannu nAvu IgAgalE namma nuDiyalli baLasuttiruttEve kelavomme namma manassinalliruvudu adannu
 
 
 <a id="sec-4-2"></a>
 
-### 4.2 vrtti esaguga oTTu -gAra
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#sec-4-2) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-45--verb-to-noun)
-
-mandigaLannu hesarisuvA hosa padagaLannu unTumADuvuddakkAgi kannaDadalli hecca baLakeyalliruva innondu oTTemdare -gAra oTTu. Adare idannu hesarupada + -gAra rItiyalli balasuLaguttade, -ga/-iga rItiyalli esaka padakkE sErisu baLake alla. udAharaNakke: dUru + gAra = dUrugAra (one who complains), mInu + gAra = mInugAra (fisherman), OTa + gAra = OTagAra (runner, as profession). I oTTininda unTumADidA hesarupada hinneyallu esaka ondu aDagiruttade — "mInugAra" padada hinneyalli "mInannu hiDiyuvadudu" enbA esaka adagide.
-
----
+### 4.2 vxtti esaguga oTTu -gAra
+eraDu gAra oTTu janarannu hesarisuva hosa padagaLannu unTumADuvudakkAgi kannaDadalli heccu baLakeyalliruva innondu oTTendare gAra oTTu Adare idannu hesaru padagaLondige mAtra baLasalAguttade ga i ga oTTina hAge esaka padagaLondige idannu baLasalu baruvudilla I oTTininda unTumADiruva hesaru padagaLa hindeyU esaka ondu aDagiruttade ettigegAgi dUru koDuvavanu dUrugAra pantha kaTTuvavanu panthagAra mInu hiDiyuvavanu mInugAra OTa ODuvavanu OTagAra meTTu holiyuvavanu meTTugAra suLLu hELuvavanu suLLugAra
 
 
 <a id="sec-4-3"></a>
 
 ### 4.3 oLagAguga samasye (-ee antara)
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#sec-4-3) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-45--verb-to-noun)
-
--ga/-iga oTTu "esaka naDasuva" mandigaLannu hesarisuttade. Adare "esaka naDediddavannu" hesarisuvA kannadakkE -ee (trainee, employee) ge sATiyAda ondu oTTilla. ingliSalli eraDu bhAga: naDasuva (doer) mattu naDedidda (done-to). kannaDadalli heccina "naDesu" — rUDidalli OdugoLgA — esaka padagaLige -ga/-iga oTTu sErisidaga "naDasuva" mandiyannu hesarisuttade. hAgAgi "oLagAguga" (receiver, passive participant) hesarisuvAgaLu innu arimeyalli carceyAguttide.
-
----
+hesarisuttade I eraDu bageya padagaLalli hesaka ondannu rUDhayalli naDesuva mandiyannu hesarisuva padagaLE kannaDadalli heccu baLakeyallive rUDhayalli Odu Oduga tinnu tinnuga suddi suddiga jare jarega ondu bAri gellu gelluga tore torega kobbu kobbiga konku konkiga Adare kelavu kaDegaLalli intaha padagaLige I eraDu rItiya huruLugaLu iraballavu ettugegAgi gelluga pada omme geddavanannAgali illavE rUDhiyalli
 
 
 <a id="sec-4-4"></a>
 
 ### 4.4 upakaraNa oTTu -ka
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#sec-4-4) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-45--verb-to-noun)
-
-esaka padakkE -ka oTTannu sErisi upakaraNavannu hesarisuvA hesarupadagaLannu kaTTagabbadu — udAharaNakke: suri + ka = surika (knife/razor, that which cuts), bIsalIke / bIsiga (fan, that which fans). I -ka oTTu kannaDadallI poranAgiruva oTTu Adare ivattu kelevu samskxta eravalugaLu I jAgavannu tumbuttave. kannaDada nija -ka oTTU balaside nAvU hosapadagaLannu kaTTabahudu enbadu baT avara mUla vAda.
-
----
+bAri ari ariga toDagu toDaguga baru baruga nelasu nelasuga bILu bILuga ondu esaka padagaLondige bandAga I ga iga oTTu janarannu hesarisuttade emba I kaTTalege kelavu horapaDike apavAdagaLu ive tanna aLavinindalE esakagaLannu naDesaballa upakaraNagaLannu hesarisuvudakkAgi I oTTannu baLasalAgide embudu intaha horapaDikegaLalli mukhyavAdaddu ettugegAgi janarannu mElettalu baLasuva liphT ge mattu vAhanagaLannu
 
 
 <a id="sec-4-5"></a>
 
 ### 4.5 amUrta esaka hesarupada oTTu -ike/-ke mattu -ta
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#sec-4-5) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-45--verb-to-noun)
-
-esaka padada hesagavannu hesarisuvA "amUrta hesarupada" kaTTuvadudu — idakkAgi -ike/-ke mattu -ta enbA eraDu oTTugaLu muKyavAdu. ukAradalli konegoLLuva esaka padagaLa bALi -ike/-ke oTTu varuttade (udAharaNa: uDuru → uDurike, niLLu → niLLike). IkAra illi ekAradalli konegoLLuva illi koneyA hulikantteyalli yakAraviruva esaka padagaLa bALi -ta oTTu varuttade (udAharaNa: cimmu → cimmata, ciguru → ciguruta). ingliS -tion illi -ment oTTugaLigE sATiyAgi I kannaDa oTTugaLu kelasa mADuttave.
-
----
+esakagaLannu hesarisuvudu ondu esaka pada tiLisuva yasakavannu hesarisuvudakkAgi endare hesaru padada mUlaka A esakavannu gurutisuvudakkAgi esaka padakke ondu oTTannu sErisi adannu hesaru padavAgi paDisalu baruttade kannaDadalli idakkAgi halavu bageya oTTugaLu baLakeyAguttave ivugaLalli ike ke mattu ta emba eraDu oTTugaLu mukhyavAdavugaLAgiddu ike ke oTTu ukAradalli konegoLLuva yasaka padagaLa baLika baruttade mattu ta oTTu I kAra illavE ekAradalli konegoLLuva yasaka padagaLa baLika baruttade Ike ke oTTu
 
 
 <a id="sec-4-6"></a>
 
-### 4.6 mUrta pala hesarupada oTTu -ge/-ige mattu -te
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#sec-4-6) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-45--verb-to-noun)
-
-esakada "mUrta pala" illi "dOretava" vannu hesarisuvA hesarupada kaTTuvadudu — idakkAgi -ge/-ige mattu -te oTTugaLu baLakeyalliveddu. udAharaNakke: cimmu → cimmige, ciguru → cigurte. ingliS arimeyA barahagaLalli esaka padadinda palitavA hesarupada mattesaka padadinda esakavannu hesarisuvA hesarupada — eraDonnE oTTininda bArada kelevu samayagaLallu — ondE oTTininda baruttave. Adare kannaDadalli -ike/-ke (abstract action) mattu -ge/-ige (concrete result) eraDannu vibajisidagi arimeyA kelasa sulabavAgutte.
+### 4.6 mUrta phala hesarupada oTTu -ge/-ige mattu -te
+tiLiyabahudu hAgAgi esakavannu hesarisuvantaha hesaru padagaLannu hosadAgi unTumADabEkiruvallella ukAradalli konegoLLuva esaka padagaLa baLi ike ke oTTannu mattu I kAra illavE ekAradalli konegoLLuva illavE koneya hulikanteyalli ya kAraviruva esaka padagaLa baLika ta oTTannu baLasalu baruttade idakke kelavu ettugegaLannu keLage koDalAgide ike ke oTTu uduru udurike nillu nillike odaru odarike cimmu cimmike ciguru
 
 ---
 
@@ -310,23 +206,15 @@ esakada "mUrta pala" illi "dOretava" vannu hesarisuvA hesarupada kaTTuvadudu —
 <a id="ch6"></a>
 
 ## bhAga 6 — SUnya kaTTaNe
-
 [↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#ch6) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-6--zero-derivation)
 
 ---
 
 
 <a id="sec-6-1"></a>
 
-### 6.1 ingliS mADuvandaddu kannaDa mADalagadu
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#sec-6-1) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-6--zero-derivation)
-
-ingliSalli "SUnya kaTTaNe" (zero derivation) enbA oLavu bahu oporana — ondu pada rUpaparivarttane illada kaLeyinda bEre pada vargakkE hOguttade (udAharaNa: "to fish" endu noun fish hesaka padAgi, illi "to run" hesaka → "a run" hesarupada). kannaDadalli I oLavu sahajadAgi naDeyuvudilla — esakavannu hesarisuvAga oTTu sErisabEku. hAgAgi ingliS SUnya kaTTaNe nODidAga kannaDa arivigaru "I oLavu kannaDadalli ella" enda tIDAmAnisamADuvudu saviy sari alla, bEre oTTugaLa mUlaka A huruLannu tIristabEku enbadu baT avara vAda.
+### 6.1 ingliS mADuvanthaddu kannaDa mADalAgadu
+ca hesaru padagaLondige baLasuvudu mEle sUcisida hAge yasaka padagaLa badalu hesaru padagaLige ga iga oTTannu sErisuva mUlaka hosa padagaLannu unTumADikoLLuvudu eraDaneya holavu idannu baLasi unTumADiruva halavu hesaru padagaLu kannaDadalli baLakeyallive ettugegAgi gANa padakke Iga oTTannu sErisiruva gANiga pada nADu padakke adE oTTannu sErisiruva nADiga pada keccu padakke ga oTTannu sErisiruva keccuga pada modalAdavannu gamanisabahudu intaha padagaLalli esaka pada bandillavAdarU yAvudAdarU ondu yasaka avugaLa hinde
 
 ---
 
@@ -334,145 +222,89 @@ ingliSalli "SUnya kaTTaNe" (zero derivation) enbA oLavu bahu oporana — ondu pa
 <a id="ch7"></a>
 
 ## bhAga 7 — hesarupadadinda hesarupada
-
 [↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#ch7) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-7--noun-to-noun)
 
 ---
 
 
 <a id="sec-7-1"></a>
 
-### 7.1 tajJa oTTu -ariga
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#sec-7-1) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-7--noun-to-noun)
-
-hesarupadadinda "tajJa" illi "paricaya" mandiyannu hesarisuvA hesarupada kaTTuvadudu — idakkAgi -ariga oTTu baLakeyalliruttu. udAharaNakke: nuDi + ariga = nuDigariga (linguistics expert), pada + ariga = padariga (word specialist), mAtu + ariga = mAtugariga / mAtugArika. I -ariga oTTu ingliS -ologist illi -expert ge sATi. -gArika oTTu vrttiyA pAngigaLannu hesarisuvA kasabannu sUcisuttade (udAharaNa: ATa + gAra = ATAgAra, ATa + gArika = ATAgArika).
-
----
+### 7.1 tajYa oTTu -ariga
+mAtugArike ATagAra ATagArike hoNegAra hoNegArike huDugATa huDugATike bUTATa bUTATike I holabannu baLasiyu parIkSeyannu hesarisuva hesaru padagaLannu hosadAgi unTumADalu baruttade kolegAra kolegArike billugAra billugArike baLegAra baLegArike kUgATa kUgATike hArATa hArATike tUrATa tUrATike baLegAra baLegArike OTagAra OTagArike mOsagAra mOsagArike hoDedATa hoDedATike oddATa oddATike aledATa aledATike mUru pU oTTina baLake paricaya padagaLige illavE paricaya
 
 
 <a id="sec-7-2"></a>
 
 ### 7.2 para oTTu -olaviga
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#sec-7-2) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-7--noun-to-noun)
-
-hesarupadadinda bEre hesarupadakke baDalAyisikoLLalubaruva -olaviga oTTu "olava uLLavanu" enbA huruLu koDuttade. udAharaNakke: kannaDa + olaviga = kannaDaOlaviga (Kannada-lover), nuDi + olaviga = nuDiolaviga (language enthusiast). hesarupada gurtisuvA pAngigu mattu adakke oTTu sErisi paDeda kaTTupada gurtisuvA mandigu naDuvinalliruva sambandhavannu hecca khacitavAgi tiLisalIkke hesarupadadondige hesaka padavannu balasuLagabbadu.
-
----
+padagaLannu unTumADalu baruvante tOruvudilla tiruLu ondu mandiyannu hesarisalu esaka padagaLige ga iga oTTannu mattu hesaru padagaLige ga iga illavE gAra oTTannu sErisalu baruttade eraDu hesaru pada gurutisuva pAngigU adakke oTTu sErisi paDeda kaTTu pada gurutisuva mandigU naDuviruva sambandhavannu heccu khacitavAgi tiLisalu hesaru padadondige hesaka padavannu baLasalu baruttade mUru esakavannu tanna
 
 
 <a id="sec-7-3"></a>
 
 ### 7.3 kiri rUpa — kiru-/kitt-
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#sec-7-3) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-7--noun-to-noun)
-
-"pEr/hEr" enbA hesaru paricaya "doddadada" enbA huruLuttade. pAr, hEr, per, hEr — nAlku rUpagaLallu pkAradinda modalaAguvaveddu haLegannadada mattu hkAradalli modalaAguvaveddu hosagannaDadavu. kiru- illi kitt- enbA bEru "ciccAda" enbA huruLu koDuttade. udAharaNakke: kiru + nuDi = kirunuDi (dialect, small variety of language), kitt + Anu = kittAnu (small bull). I kiru-/kitt- rUpa ingliS mini- mattu micro- ge sATiyAguttade kannaDa pada kaTTaNavudakke.
+pEr hEr per her I hesaru paricayakke doDDa emba huruLide idakkiruva nAlku rUpagaLalli pakAradinda modalAguvavu haLegannaDadavu mattu ha kAradalli modalAguvavu hosagannaDadavu Adare pakAradalli modalAguvavanannu baLasiruva kelavu jODu padagaLu hosagannaDadallU baLakeyallive hAgAgi avannu hosa padagaLannu kaTTuvalli baLasalu baruttade tereyuli bandiruvalli pEraNaka pErALu pErarasu pEruri hEraDavi hErAne hErALu
 
 ---
 
 
 <a id="ch8"></a>
 
-## bhAga 8 — aLaviya munnOTTu
-
+## bhAga 8 — aLaviya munnoTTu
 [↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#ch8) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-8--quantity-and-degree-prefixes)
 
 ---
 
 
 <a id="sec-8-1"></a>
 
-### 8.1 eNike bEru munnOTTugaLu
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#sec-8-1) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-8--quantity-and-degree-prefixes)
-
-eNike bErugaLannu hesaru padagaLondige sErisi aDakavAda joDupadagaLannu unTumADuvadudu: ivugaLalli ondu, eraDu mattu mUru enbA huruLiruva bErugaLu mattu ardha enbA huruLina bEru muKyavAduvu. "ondu" mattu "eraDu" enbA huruLina bErugaLigE Or/or mattu Ir/ir enbAdAgi eraDeraDu rUpagaLiveddu, ivugaLalli udda tereyuLininda rUpa tereyuLigaLeduru baruttade mattu giDDa tereyuLina rUpa muccuLigaLeduru baruttade. mUru enbA huruLina bEruvannu mUr/mU enbAdAgi baLasuttAre.
-
----
+### 8.1 eNike bEru munnoTTugaLu
+ca eNike bErugaLa baLake hesaru paricaya bErugaLa hAge eNike bErugaLannu hesaru padagaLondige sErisi aDakavAda jODu padagaLannu unTumADuvalli baLasalu baruttade ivugaLalli ondu eraDu mattu mUru emba huruLiruva bErugaLu mattu ardha emba huruLina bEru mukhyavAdavugaLu ondu mattu eraDu emba huruLina bErugaLige Or or mattu Ir ir embudAgi eraDeraDu rUpagaLiddu ivugaLalli udda tereyuli iruva rUpa tereyuligaLeduru baruttade mattu giDDa tereyuli iruva rUpa mucculigaLeduru baruttade mUru emba huruLina
 
 
 <a id="sec-8-2"></a>
 
-### 8.2 hanta munnOTTugaLu
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#sec-8-2) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-8--quantity-and-degree-prefixes)
-
-"hanta" munnOTTugaLu: ingliS hyper- oTTigE sATiyAgi kannaDadalli "migilu" enbA padavannu balasuLagabbadu — udAharaNakke: inflation → ubbara, hyper-inflation → migilUbbara; link → konDi, hyperlink → migilukOnDi. ingliS mini- oTTigE sATiyAgi kannaDadalli "kiru" enbadannu balasuLagabbadu, tereyuLigaLa munnige "kitt" enbA rUpa ittade. ingliS super- oTTigE sATiyAgi kannaDadalli "mElu" enbadannu balasuLagabbadu.
+### 8.2 hanta munnoTTugaLu
+mUru haypar oTTu I oTTannu baLasiruvalli adakke sATiyAgi kannaDadalli migilu emba padavannu baLasalu baruttade inphlESan ubbara haypar inphlESan migilubbara link konDi haypar link migilugonDi mArkeT mArukaTTe haypar haypar mArkeT migilu mArukaTTe sensiTiv nATuva haypar sensiTiv migilu nATuva nAlku mini oTTu I oTTige sATiyAgi kannaDadalli kiru embudannu baLasalu baruttade idakke tereyuligaLa modalige kit emba rUpa ide kyAb
 
 ---
 
 
 <a id="ch9"></a>
 
-## bhAga 9 — imbina munnOTTu
-
+## bhAga 9 — imbina munnoTTu
 [↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#ch9) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-9--spatial-prefixes)
 
 ---
 
 
 <a id="sec-9-1"></a>
 
-### 9.1 imbina munnOTTu vyavasthe
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#sec-9-1) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-9--spatial-prefixes)
-
-imbu (space/place) enbA huruLannu tiLisala ingliSalli muKyavAgi fore, in, inter, out, over, sub, super, trans, under, is mattu extra enbA 10 munnOTTugaLu baLakeyaguttave. ivakke sATiyAguva rItiyalli kannaDadalli entaha padagaLannu illi bErugaLannu baLasabarutte enbadannu vivarisalAgide: mun (fore/front), oLa (in/inner), naDuva (inter/between), hora (out/external), mEla (over/above), keLa/tagg (under/below), dATi (trans/across), nunDa/mUna (sub). I nija kannaDa imbina bErugaLu samskxta "antar-/bahis-" modalAdavakke bEkagillavendu baT tOriskoDuttAre.
+### 9.1 imbina munnoTTu vyavasthe
+imbina munnoTTugaLu imbina huruLannu tiLisalu ingliSnalli mukhyavAgi eph O Ar i ay en Ti i Ar O yu Ti O vi Ar es yu bi es yu pi i Ar Ti Ar en es yu en Di i Ar is mattu I eks Ti Ar e emba 10 munnoTTugaLu baLakeyAgi Aguttave ivakke sATiyAguvante kannaDadalli entaha padagaLannu illavE bErugaLannu baLasalu baruttade embudannu keLage vivarisalAgide ondu phOr oTTu I oTTige mundina emba imbina huruLu mattu modalina emba hottina huruLugaLive ivugaLalli hottina
 
 ---
 
 
 <a id="ch10"></a>
 
-## bhAga 10 — hottina munnOTTu
-
+## bhAga 10 — hottina munnoTTu
 [↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#ch10) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-10--temporal-prefixes)
 
 ---
 
 
 <a id="sec-10-1"></a>
 
-### 10.1 hottina munnOTTu vyavasthe
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#sec-10-1) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-10--temporal-prefixes)
-
-hottige sambandiside ingliSalli ex, fore, post, pre, inter, re, neo, paleo mattu proto enbA ombaH munnOTTugaLu baLakeyalliveddu. kannaDadalli munnOTTugaLannu illadiddarU kelevu padagaLannu illi bErugaLannu avugaLa jAgadalli irisikoDabarutte. udAharaNakke: fore → mun (munnoDal = foreword), re → mara (marakaTTu = re-build), ex → hina (hinapaTTa = ex-minister), post → mEla/ina (inA = post-), neo → hosa (hosagannaDa = neo-Kannada), paleo → haLe (haLegannaDa = old/paleo-Kannada).
+### 10.1 hottina munnoTTu vyavasthe
+hottina munnoTTugaLu hottige sambandhisidante mukhyavAgi I eks eph O Ar i pi O es Ti pi Ar i en Ti i Ar i en i O pi el i O mattu pi Ar O Ti O emba ombattu munnoTTugaLu ingliSnalli baLakeyallive kannaDadalli munnoTTugaLannu illadiddarU kelavu padagaLannu illavE bErugaLannu avugaLa jAgadalli irisi hosa padagaLannu unTumADalu baruttade ettigegAgi ingliSna eph O Ar i emba munnoTTige sATiyAgi kannaDadalli mun emba bErannu adE jAgadalli baLasalu baruttade phOr
 
 ---
 
 
 <a id="ch11"></a>
 
-## bhAga 11-12 — allagaLeyuva munnOTTu
-
+## bhAga 11–12 — allagaLeyuva munnoTTu
 [↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#ch11) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-1112--negation-prefixes)
 
 ---
 
@@ -480,38 +312,19 @@ hottige sambandiside ingliSalli ex, fore, post, pre, inter, re, neo, paleo mattu
 <a id="sec-11-1"></a>
 
 ### 11.1 illa mattu alla — kannaDada viSiSTa vyatyAsa
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#sec-11-1) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-1112--negation-prefixes)
-
-allageLeta munnOTTugaLu: ingliSalli ondu pada tiLisuvA huruLannu allageLeyala illi adara eduru huruLannu tiLisala in, anti, de, dis, in, no, non mattu un enbA Elu munnOTTugaLannu baLasuLaguttave. kannaDadalli eraDu bhAga: "illa" (absolute absence) mattu "alla" (contrastive negation). I eraDarA naDuvina viSiSTa vyatyAsavannu kannaDa allagaLeyata viSlESaNeyalli kAyabEku. ingliSalli bitta "not" onduE; kannaDadalli "illada" vs "allada" eraDU baLakeyalliruva paristhiti — I dakke sATiyAda vyavasthe bEre nuDigaLalli illavendu baT tOriskoDuttAre.
-
----
+allageLetada munnoTTugaLu ingliSnalli ondu pada tiLisuva huruLannu allageLeyalu illavE adara eduru huruLannu tiLisalu mukhyavAgi en en Ti ay Di i Di ay es ay en en O en mattu yu en emba ELu munnoTTugaLannu baLasalAguttade em el mattu em ay es emba bEre eraDu oTTugaLu ivakke hattirada huruLannu koDuttave endu hELabahudu Adare ivakke allageLeyuva huruLigintalU tappu illavE keTTa emba huruLu mattu kILpaDisuva huruLide kannaDadalli intaha allageLeyuva illavE eduru
 
 
 <a id="sec-11-2"></a>
 
-### 11.2 allagaLeyuva munnOTTu samAnagaLu
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#sec-11-2) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-1112--negation-prefixes)
-
-dis- oTTu: kannadakke allagaLeyyuva huruLu (esakavannu allageLeyuvadudu) mattu eduru huruLu — eraDu bageyA huruLugaLiveddu. esakavannu allageLeyuvudu iddaralli: kandaDa esaka padada allagaLeyuva joDisuva rUpakke iru illi Agu sEriskAbEku. un- oTTigE: kannaDadalli "alla-" munnegE balasuLagabbadu illi hesarupada / paricepada + illada rUpa balasuLagabbadu. non- oTTigE: kannaDadalli "alla-" illi "bEda" padavannu munnegE balasuLagabbadu.
-
----
+### 11.2 allagaLeyuva munnoTTu samAnagaLu
+nAlku Di ay es oTTu I oTTige ka allageLeyuva huruLu mattu ca eduru huruLu embudAgi eraDu bageya huruLugaLive allageLeyuva huruLiruvalli ondu adannu esaka padagaLige sErisidAga adu esakavannu allageLeyuttade mattu eraDu hesaru pada illavE paricaya padakke sErisidAga adu pAngina illavE paricaya iravannu allageLeyuttade ka ondu esakavannu allageLeyuvudiddalli adakke sATiyAguvante kannaDadalli esaka padada allageLeyuva jODisuva rUpakke iru illavE Agu
 
 
 <a id="sec-11-3"></a>
 
 ### 11.3 itara allagaLeyuva rItigaLu
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#sec-11-3) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-1112--negation-prefixes)
-
-kannaDadalli "illada" enbA "absence" huruLiruva paricepada rUpa hesarupada mattu esakapada gadaLadinda kaTTagabbadu. udAharaNakke: nuDi + illada = nuDillada (speechless), tALume + illada = tALumEillada (impatient). "allagaLeyuva" oLavina nAlku munnOTTugaLu: alla, illa, bEDa, irada. I nAlku rUpagaLU bEre bEre sammkhyegaLalli allagaLeta munnottugaLa kelasa mADuttave enbadu kannaDa pada kaTTaNavudakke bahu naDa.
+parIkSeyannu hesarisuva hesaru padagaLannu hosadAgi unTumADalu baruttade kolegAra kolegArike billugAra billugArike baLegAra baLegArike kUgATa kUgATike hArATa hArATike tUrATa tUrATike baLegAra baLegArike OTagAra OTagArike mOsagAra mOsagArike hoDedATa hoDedATike oddATa oddATike aledATa aledATike mUru pU oTTina baLake paricaya padagaLige illavE paricaya bErugaLige I oTTannu sErisi avu tiLisuva paricayannu hesarisuvantaha
 
 ---
 
@@ -519,10 +332,7 @@ kannaDadalli "illada" enbA "absence" huruLiruva paricepada rUpa hesarupada mattu
 <a id="ch13"></a>
 
 ## bhAga 13 mattu 17 — esakapadagaLannu kaTTuvudu
-
 [↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#ch13) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-13-and-17--verb-creation)
 
 ---
 
@@ -530,88 +340,47 @@ kannaDadalli "illada" enbA "absence" huruLiruva paricepada rUpa hesarupada mattu
 <a id="sec-13-1"></a>
 
 ### 13.1 ondE utpAdaka esakapada oTTu — -isu
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#sec-13-1) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-13-and-17--verb-creation)
-
-hosa esaka pada kaTTuvadudu: mundiriruva padakke oTTugaLannu balaside kaTTupadagaLannu kaTTuvadudu illi eraDu esaka padagaLannu balaside kUDupadagaLannu kaTTuvadudu enbAdAgi eraDu oLabugaLu baLakeyalliveddu. hesarupada illi paricepada illi esaka padakkE -isu oTTannu sErisidAga hosa esaka pada unTAgutte — udAharaNakke: hangu + isu = hangisu (to taunt), ettara + isu = ettarisu (to raise/elevate), gamgamane + isu = gamgamanisu (to smell nice). ingliS -ize/-ise illi -ify oTTugaLigE sATiyAgi I -isu oTTu kannaDadalli beLesite.
-
----
+mUru hosa yasaka padagaLannu kaTTuva bage hosa esaka pada varb gaLannu kaTTuvalli namma mundiruva padadondige ondu oTTugaLannu baLasi kaTTu padagaLannu kaTTuvudu illavE eraDu esaka padagaLannu baLasi kUDu padagaLannu kaTTuvudu embudAgi eraDu holabugaLu baLakeyallive ettugegAgi hangu emba hesaru padakke isu oTTannu sErisi hangisu emba esaka padavannu unTumADalAgide ettara emba hesaru parIkSege ide oTTannu sErisi ettarisu emba bErondu esaka padavannu unTumADalAgide mattu gamagamane emba aNakisuva paricaya padakke
 
 
 <a id="sec-13-2"></a>
 
 ### 13.2 mUru bhAga rUpagaLu
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#sec-13-2) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-13-and-17--verb-creation)
-
-kUDupadagaLa modalapadavAgi esaka padagaLannu balasubEkiddaralli avanuannu "joDisuva rUpakke" mArpaDisubEkAguttade. udAharaNakke: "hELikoTu" enbA kUDupadadalli hELu mattu koTu — eraDu esaka padagaLannu sErisdE, Adare sErisuvA munnA modalanadda esaka padavannu "hELi" enbA joDisuva rUpakke mArpadisalAgide. kannaDa esaka padagaLigE nAlku bageyA joDisuva rUpagaLiveddu: bandu, baralu, baruttA, berade (baru esaka padakke).
+kUDu padagaLalli esaka padagaLa baLake kUDu padagaLa modalaneya padavAgi esaka padagaLannu baLasabEkiddalli avannu jODisuva rUpakke mArpaDisabEkAguttade ettugegAgi hELikoDu emba kUDu padadalli hELu mattu koDu emba eraDu vyasaka padagaLannu sErisalAgide Adare hIge sErisuva modalu modalanE esaka padavannu hELi emba jODisuva rUpakke mArpaDisalAgide kannaDada esaka padagaLige nAlku bageya jODisuva rUpagaLive ettugegAgi baru emba hesaka padakke bandu baralu baruttA mattu barade emba nAlku
 
 ---
 
 
 <a id="ch14"></a>
 
-## bhAga 14-16 — joDupada mattu ninta hesarupada
-
+## bhAga 14–16 — jODupada mattu ninta hesarupada
 [↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#ch14) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-1416--compound-words-and-standalone-nouns)
 
 ---
 
 
 <a id="sec-14-1"></a>
 
-### 14.1 joDu hesarupada
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#sec-14-1) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-1416--compound-words-and-standalone-nouns)
-
-kannaDadalli hesarupada munnege ondu bEre hesarupada, esaka pada illi paricepada irisikoDabarutte — hosa hesarupada unTAguttade. udAharaNakke (hesarupada + hesarupada): mane + kelasa = manekelasa, kaNNu + sanne = kaNNusanne, nUla + ENi = nULENi; (esaka pada + hesarupada): suri + maLe = surimaLe, jArU + banDi = jArUbanDi; (paricepada + hesarupada): biccukatthi, kALuSaNe. I oLavu ingliS "compound noun" ge sATiyAgiruttu — kannaDadalli samskxta samAsakkE hogirabEkilla, svanta oLavidE intaha joDupadagaLu kaTTagabbadu.
-
----
+### 14.1 jODu hesarupada
+jODu padagaLannu kaTTuvudu kannaDadalli hesaru padagaLa munde ondu bEre hesaru padagaLannu eraDu esaka padagaLannu illavE mUru paricaya padagaLannu irisi hosa hesaru padagaLannu unTumADalu baruttade idakke kelavu ettugegaLannu keLage koDalAgide hesaru pada plas hesaru pada mane kelasa kaNNu sanne kay koDali nUlENi maragAlu jEnu huLa tappu kANike talegUdalu kaNNIru esaka pada plas hesaru pada surimaLe jArubanDi cuccumaddu bIsugallu siDimaddu UrugOlu biDumuDi huTTuhabba biccugatti paricaya pada plas hesaru
 
 
 <a id="sec-14-2"></a>
 
-### 14.2 joDu esakapada
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#sec-14-2) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-1416--compound-words-and-standalone-nouns)
-
-oTTugaLannu balaside kaTTupadagaLannu unTumADuvuddakkintalU hesarupada, paricepada illi esaka padada joDisuva rUpakke bEroru esaka padavannu sErisi kUDupadagaLannu unTumADuvadudu kannaDadalli hecca baLakeyalliruva hammugeya. hAgAgi hosa esaka padagaLannu kaTTuvavarU I hammugeyannu baLasuvudarinda kannaDakke hecca hondikeyAgabaLLa hosa esaka padagaLannu unTumADabaLLarU. kUDupadagaLa modalapadavAgi paricayapadagaLannu baLasiriruva haleEdugaLallu heccinavallu esaka pAngavannu tiLisuvA oLa, hora, mun, hin modalAda paricaya bErugaLu illi paricaya padagaLu baruttave.
-
----
+### 14.2 jODu esakapada
+kUDu padagaLa baLake oTTugaLannu baLasi kaTTu padagaLannu unTumADuvudakkintalU hesaru padagaLige paricaya padagaLige illavE hesaka padagaLa jODisuva rUpagaLige bErondu esaka padavannu sErisi kUDu padagaLannu unTumADuvudE kannaDadalli heccu baLakeyalliruva hammugeyAgide hAgAgi hosadAgi esaka padagaLannu kaTTuvavaru I hammugeyannu baLasuva mUlaka kannaDakke heccu hondikeyAgaballa hosa esaka padagaLannu unTumADaballaru kUDu padagaLa modalaneya padavAgi paricaya padagaLannu baLasiruva halavu kaDegaLalli
 
 
 <a id="sec-14-3"></a>
 
-### 14.3 joDaNeyA muKya niyama
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#sec-14-3) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-1416--compound-words-and-standalone-nouns)
-
-joDupada kaTTaNavudakke muKya niyama: modalapadavannu joDisuva rUpakke mArpaDisubEku (esaka padavAgiddarE). joDupadagaLalli modalapadavannu paricepada bageyAllida joDanadittu, adaru tA tiLisuvA esaka pAngavannu — yA jAgakke karedukoLLalAgidE himdi — enbadannu tiLisuttade. bErE esaka padagaLondige intaha hesarupada joDisi hosa kUDupadagaLannu unTumADabarutte. kUDupadagaLalli pariceyapadagaLa baLake: hesakapadagaLondige paricayapadagaLannu sErisi unTumADida kUDupadagaLallu heccinavallu esakada pAngavannu tiLisuvA oLa, hora, mun, hin modalAda paricaya bErugaLu illi paricaya padagaLu baruttave.
-
----
+### 14.3 jODaNeya mukhya niyama
+sErisalAgide mattu I paricaya bEru ellige kareyalAgide hindakke embudannu endare yasakada paricayannu tiLisuttade bEre yasaka padagaLondigU intaha hesaru padagaLannu baLasi hosa kUDu padagaLannu unTumADalu baruttade kUDu padagaLalli paricaya padagaLa baLake hesaka padagaLondige paricaya padagaLannu sErisi unTumADiru kUDu padagaLalli heccinavugaLallU esakagaLa paricayavannu tiLisuva oLa hora mun hin modalAda paricaya bErugaLu illavE paricaya padagaLu
 
 
 <a id="sec-15-1"></a>
 
 ### 15.1 ninta ingliS hesarupada — tIrmAna krama
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#sec-15-1) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-1416--compound-words-and-standalone-nouns)
-
-"ninta ingliS hesarupada" (standalone English noun) ge kannaDa sATi kanDukoLLuva krama: modalu A padada artha nODabEku, nantara A artha kannadada yava pada illi padagaLinda tiLisabahudu enbadannu nODabEku. keLa/kILa bErugaLigE "keLagina" illi "keLamaTTada" enbA huruLiruttu, pAngina haravavannu kaDigEya mADuva mattu hoDeta tiLisuvA huruLugaLannu kANabahudu. "keLadu" hesarupada (lower lip), "keLabeLeft" hesarupada (lower light), "kILALu" (person of low status) — ivugaLu "pAngina haravavannu kaDigEya mADuttave" enbA oLavina udAharaNagaLu.
+nAlku keL kIL kIL idakke keLagina illavE keLamaTTada emba huruLiddu idara baLakeyallU pAngina haravannu kaDime mADuva mattu hoDetavannu tiLisuva huruLugaLannu kANalu baruttade ettugegAgi keLadu embudu keLagina tuTiyannu tuTiya keLabhAgavannalla keLabeLaku embudu keLagiruva keLagininda baruva beLakannu mattu kILALu embudu keLamaTTada ALannu tiLisuttade ivella pAngina haravannu kaDime mADuttave idakke badalu keLa hoTTe embudu hoTTeya keLabhAgavannu keLamay
 
 ---
 
@@ -619,10 +388,7 @@ joDupada kaTTaNavudakke muKya niyama: modalapadavannu joDisuva rUpakke mArpaDisu
 <a id="ch18"></a>
 
 ## bhAga 18 — nava-SAstrIya bErugaLu
-
 [↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#ch18) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-18--neo-classical-roots)
 
 ---
 
@@ -630,206 +396,96 @@ joDupada kaTTaNavudakke muKya niyama: modalapadavannu joDisuva rUpakke mArpaDisu
 <a id="sec-18-1"></a>
 
 ### 18.1 bEru samAnagaLu
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#sec-18-1) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-18--neo-classical-roots)
-
-kannaDadalli muKyavAgi eraDu bageyA paricayapadagaLiveddu: "hesaru paricayagaLu" (adjectival modifiers within noun phrases) mattu "esaka paricayagaLu" (adverbials in clauses). hesaru paricayagaLu hesaru padagaLondige avU gurtisuvA pAngugaLa paricaya tiLisuvuddakkAgi hesarukantegaLalli baLakeyAgutte; esaka paricayagaLu avU tiLisuvA esakada pAngavannu tiLisuvuddakkAgi soLLugaLalli baLakeyAgutte. ingliS neo-classical bErugaLigE sATiyAda kannaDa nija bErugaLannu kanDukoLLabahudu — udAharaNakke: kahi, kempu, teLu, dodd, mOlu modalAdu hesaru paricayagaLu.
-
----
+nAlku hosa paricaya padagaLannu kaTTuva bage kannaDadalli mukhyavAgi eraDu bageya paricaya padagaLiddu avannu hesaru paricayagaLu mattu esaka paricayagaLu embudAgi kareyabahudu ivugaLalli hesaru paricayagaLu hesaru padagaLondige avu gurutisuva pAngugaLa paricaya tiLisuvudakkAgi hesarukantegaLalli baLakeyAguttave mattu yasaka paricayagaLu avu tiLisuva yasakada paricayannu tiLisuvudakkAgi sollugaLalli baLakeyAguttave ettugegAgi kahi kempu teLu doDDa modalAdavu hesaru paricayagaLu ivannu kahi tinDi kempu hU teLu baTTe doDDa
 
 
 <a id="sec-18-2"></a>
 
 ### 18.2 oTTu samAnagaLu
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#sec-18-2) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-18--neo-classical-roots)
-
-hesarupada paTTuge rUpagaLu (maNNina, sokkina, siTTina) mattu hesakapada paricaya rUpagaLu (cucci + va = cuccuva, kusi + da = kusida, jaggu + da = jaggada) takkaSTu aDakavAgirutte — hosa padagaLu bEkAguvAllellu paricaya rUpagaLannu balasuLagabbadu. ingliS neo-classical oTTugaLigE (bio-, -logy, -gram) sATiyAda kannaDa nija oTTugaLannu mattu bErugaLannu kanDukonDarE kannaDa pada kaTTaNavudakke A oTTugaLannu balasuLoLagabbadu — samskxta "pra-, -kara, -tva" ge tirugaLisabEkAguvudilla.
+bedaralu hasu kaccalu nAyi modalAda padakantegaLalli baLasi tOrisalu baruttade intaha hesaru paricayagaLannu baLasabEku bEkAgiruvalli paricaya rUpagaLannu baLasuvantaha innondu holabu kannaDadalli baLakeyallide embudannu illi gamanisabEku hesaru padagaLa pattuge rUpagaLu maNNu maNNina sokku sokkina siTTu siTTina mattu hesa padagaLa paricaya rUpagaLu cuccu cuccuva kusi kusida jaggu jaggada takkaSTu aDakavAgiddu hosa padagaLu bEkAguva
 
 ---
 
 
 <a id="ch19"></a>
 
-## bhAga 19-52 — anvaya — ingliS oTTugaLa viSlESaNe
-
+## bhAga 19–52 — anvaya — ingliS oTTugaLa viSlESaNe
 [↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#ch19) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-1952--application)
-
-I doddabhAga (bhAga 19 rinda 52) pustakada eraDaneya tunDu. modala tunDadalli vivarisida oLavannu A tunDadalli ingliS hinnOTTugaLu mattu munnOTTugaLa viSlEShaNeyalliE balasuLagalAguttade. pratiyoru ingliS oTTigE sATiyAda kannaDa oTTu illi bErannu — samskxta eravala bEkAgade — kanDukoLLabahudu enbadu I bhAgada muKya tiluvALike.
 
 ---
 
 
 <a id="ch19-28"></a>
 
-### bhAga 19-28 — hesarupada kaTTuva hinnOTTugaLu
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#ch19-28) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-1928--english-noun-forming-suffixes)
-
-ingliSalli hinnOTTugaLannu balaside hala bageyA hesarupadagaLannu unTumADalAgide. ivannU mUru gumpugaLalli gumpisu barutte: paricepadadinda paDeda hesarupadagaLu; esaka padadinda paDeda hesarupadagaLu; mattu bEre hesarupadadinda paDeda hesarupadagaLu. I mUru bageyA hesarupadagaLannu unTumADuvalidE entaha hinnOTTugaLannu baLasuLagalAgide mattu avU entaha huruLugaLannu koDuttave enbadannu, mattu avakke sATiyAgabaLLa kannaDa oTTugaLannu, I bhAgadalli vivarisiLaguttade.
-
----
-
+### bhAga 19–28 — hesarupada kaTTuva hinnoTTugaLu
 
 <a id="sec-19-1"></a>
 
-#### 19.1 esaguga hinnOTTugaLu — -er/-or, -ist, -eer, -ian
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#sec-19-1) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-1928--english-noun-forming-suffixes)
-
-ingliS -er/-or oTTigE sATiyAgi kannaDadalli esaka pada + -ga/-iga baLasabahudu — udAharaNakke: kill → killer, select → selector; OD + uga = ODuga. ingliS -ist, -eer, -ian oTTugaLigE sATiyAgi kannaDadalli hesara pada + -ariga illi -gAra baLasabahudu — udAharaNakke: biology → biologist, nuDi + ariga = nuDigariga. I kannaDa esaguga hinnOTTugaLu bahu hana baLakeyalliveddu, samskxta "-kAra, -jJa, -ka" ge hogirabEkAguvudilla.
-
----
+#### 19.1 esaguga hinnoTTugaLu — -er/-or, -ist, -eer, -ian
+61 ingliS hesaru padagaLa hinnoTTugaLu ingliSnalli hinnoTTugaLannu baLasi halavu bageya hesaru padagaLannu unTumADalAgide ivannu mUru gumpugaLalli gumpisalu baruttade ondu paricaya pada aDjekTiv gaLinda paDeda hesaru padagaLu eraDu esaka pada varb gaLinda paDeda hesaru padagaLu mattu mUru bEre hesaru pada navn gaLinda paDeda hesaru padagaLu I mUru bageya hesaru padagaLannu unTumADuvalli entaha hinnoTTugaLannu baLasalAgide mattu avu entaha huruLugaLannu koDuttave embudannu mattu avakke sATiyAgaballa kannaDa
 
 
 <a id="sec-19-2"></a>
 
-#### 19.2 amUrta guNa hinnOTTugaLu — -ness, -ity, -ism, -dom, -hood, -ship
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#sec-19-2) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-1928--english-noun-forming-suffixes)
-
-ingliS paricepadadinda hesarupada paDeyala muKyavAgi -ity mattu -ness enbA eraDu oTTugaLannu baLasuLaguttave. I oTTugaLiriruva hesarupadagaLigE sATiyAgabaLLa hosa padagaLannu kannaDadalli kaTTala -tana enbA oTTu baLasabahudu. Adare kelevu kannadA paricayapadagaLigE sATiyAda kannaDa paricayapadagaLu siguvudilla — idakkE badalu A paricayavannu hesarisuvA mattu -ity illi -ness oTTugaLiriruva padagaLigE sATiyAda hesarupadagaLannu kannaDadalli kaTTagabbadu.
-
----
+#### 19.2 amUrta guNa hinnoTTugaLu — -ness, -ity, -ism, -dom, -hood, -ship
+tiruLu ingliS paricaya pada aDjekTiv gaLinda hesaru pada navn gaLannu paDeyalu mukhyavAgi ay Ti vay mattu en is es emba eraDu oTTugaLannu baLasalAguttade I oTTugaLiruva hesaru padagaLige sATiyAgaballa hosa padagaLannu kannaDadalli kaTTalu tana emba oTTu baLasalu baruttade Adare kelaveDegaLalli ingliS paricaya padagaLige sATiyAgaballa paricaya padagaLu kannaDadalli siguvudilla idakke badalu paricaya hesarisuva mattu ay Ti vay illavE en i es es oTTugaLiruva padagaLige
 
 
 <a id="sec-19-3"></a>
 
-#### 19.3 esaka mattu kriye hinnOTTugaLu — -tion/-sion, -ment, -ance/-ence, -ure, -age
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#sec-19-3) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-1928--english-noun-forming-suffixes)
-
-ingliS esaka padadinda hesarupada paDeyavAllu hala hinnOTTugaLu baLakeyAgutte — -er/-or, -tion, -ing modalAdvugaLu muKyavAdu. esaka pada → hesarupada: kill → killer; select → selector; migrate → migration; teach → teaching. idalladu -ment, -ent, -ent, -age enbantaha bEre kelevu hinnOTTugaLU idE kelasadalli baLakeyAgutte. I eke ingliS oTTugaLigE sATiyAgi kannaDadalli esaka pada + -ike/-ke illi -ta oTTugaLannu baLasabahudu.
-
----
+#### 19.3 esaka mattu kriye hinnoTTugaLu — -tion/-sion, -ment, -ance/-ence, -ure, -age
+esaka padagaLinda paDeda hesaru padagaLu ingliS esaka pada varb gaLinda hesaru pada navn gaLannu paDeyuvalli halavu hinnoTTugaLu baLakeyAguttave ivugaLalli I Ar O Ar e Ti ay O en mattu ay en ji embavugaLu mukhyavAdavugaLu esaka pada hesaru pada kil killar selekT selekTar maygrET maygrESan TIc TIcing idallade em i en Ti i el en Ti i en Ti e ji i embantaha bEreyU kelavu hinnoTTugaLu idE kelasadalli baLakeyAguttave esaka pada hesaru pada riplEs
 
 
 <a id="sec-19-4"></a>
 
-#### 19.4 pala mattu utpatti hinnOTTugaLu — -ure, -age (pala)
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#sec-19-4) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-1928--english-noun-forming-suffixes)
-
-ingliS esaka padadinda paDeda hesarupadagaLu esakavannu hesarisuttiveyE illi esakada doretavavannu hesarisuttiveyE enbadannu avugaLannu paDeyavaLLi baLakeyAguva oTTugaLu tiLisuvudilla. esakavannu hesarisabaLLa heccina hesarupadagaLU esakada doretavavannu hesarisabaLLuvu. I rItiya padagaLannu unTumADuvalidE -er/-or oTTikintalU -ent/-ent oTTannu hecca baLasuLaguttare. kannaDadalli I "pala hesarupada" kaTTuvadudu esaka pada + -ge/-ige illi -te oTTugaLu mUlaka naDeyuttade.
+#### 19.4 phala mattu utpatti hinnoTTugaLu — -ure, -age (phala)
+eraDu esakavannu illavE esakada doretavannu gurutisuva hesaru padagaLu ingliSna esaka padadinda paDeda hesaru padagaLu esakavannu hesarisuttiveyE illavE esakada doretavannu hesarisuttiveyE embudannu avugaLannu paDeyuvalli baLakeyAguva oTTugaLu tiLisuvudilla yAkendare esakavannu hesarisaballa heccina hesaru padagaLu hesakada doretavannu hesarisaballuvu intaha hesaru padagaLannu unTumADuvalli I Ar O Ar oTTigintalU en Ti i en Ti oTTannu heccu
 
 ---
 
 
 <a id="ch29-36"></a>
 
-### bhAga 29-36 — esakapada mattu paricepada kaTTuva hinnOTTugaLu
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#ch29-36) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-2936--english-verb-and-adjective-suffixes)
-
-ingliSalli hesarupadadinda illi paricepadadinda esaka padagaLannu mattu paricapadagaLannu unTumADuvadudu ingliS pada kaTTaNeyA muKya oLavugaLalli ondu. ivakke sATiyAda kannaDa oTTugaLannu I bhAgadalli vivarisalAguttade.
-
----
-
+### bhAga 29–36 — esakapada mattu paricepada kaTTuva hinnoTTugaLu
 
 <a id="sec-29-1"></a>
 
-#### 29.1 esakapada kaTTuva hinnOTTugaLu — -ize/-ise, -ify, -en
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#sec-29-1) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-2936--english-verb-and-adjective-suffixes)
-
-ingliS -ize/-ise mattu -ify oTTugaLigE sATiyAgi kannaDadalli -isu oTTannu baLasabahudu — udAharaNakke: "ettarisu" (raise-ize = to elevate). hesarupadadinda illi paricepadadinda esaka padagaLannu kaTTuvadudu — ingliS -dom, -ry, -ry, -ing, -ism, -ship, -er, -ess, -ette, -let, -ster, -er, -hood, -ling, -age, -ful modalAda hala oTTugaLannu balaside hesaru padadinda bEre hesarupada kaTTagabbadu. Adare ivugaLannu hesarupada illi paricepada bageyada padagaLendu tiLisabahudu.
-
----
+#### 29.1 esakapada kaTTuva hinnoTTugaLu — -ize/-ise, -ify, -en
+hesaru padagaLinda paDeda bEre hesaru padagaLu ingliS hesaru padagaLige Di O em i Ar vay Ar vay ay en ji ay es em es ec ay pi i Ar i es es i Ti Ti i el i Ti es Ti i Ar i Ar ec O O Di el ay en ji e ji iph yu el embantaha halavu oTTugaLannu sErisi bEre bageya hesaru padagaLannu paDeyalu baruttade idallade en ay es i ay es Ti mattu ay Ti i emba bEre nAlku oTTugaLannu baLasiyu hesaru padagaLinda hesaru padagaLannu paDeyalu baruttade Adare I oTTugaLannu baLasi paDeda padagaLannu hesaru pada
 
 
 <a id="sec-29-2"></a>
 
-#### 29.2 paricepada kaTTuva hinnOTTugaLu — -ful, -less, -ous, -ive, -ible/-able, -al, -ic
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#sec-29-2) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-2936--english-verb-and-adjective-suffixes)
-
-hesarupadadinda "hesaru paricayagaLannu" paDeyala ingliSalli hala oTTugaLannu baLasuLaguttave. ivU padagaLannu onda gumpadinda innondu gampakkE mArpaDisuva kelasamannE naDasutte. Adare avakke sATiyAguva rItiyalli kannaDada hesarupadagaLigE pattugeya -a oTTannu sErisiruva padarUpagaLannu baLasabarutte. Idakkidalu avU hesaru paricayagaLigE kelevu heccina huruLugaLannu sErismuttive — Adare kannaDadalli A huruLu siguvante "tumba uLLa, illada, antaha" enbantaha padagaLannu balasuLoLagabbadu. ingliS -ful → "uLLa", -less → "illada", -ous/-ive → "uLLa/Ada", -able/-ible → "aguvanta/-bantu".
+#### 29.2 paricepada kaTTuva hinnoTTugaLu — -ful, -less, -ous, -ive, -ible/-able, -al, -ic
+tiruLu hesaru padagaLinda hesaru paricayagaLannu paDeyalu ingliSnalli halavu oTTugaLannu baLasalAguttade ivu padagaLannu ondu gumpininda innondu gumpige mArpaDisuva kelasavannaSTE naDesuttive Adare avakke sATiyAguvante kannaDada hesaru padagaLige pattugeya a oTTannu sErisiruva padarUpagaLannu baLasalu baruttade idakke badalu avu hesaru paricayagaLige kelavu heccina huruLugaLannu sErisuttive Adare kannaDadalli antaha huruLu dorakuvante tumbA uLLa illada antaha embantaha
 
 ---
 
 
 <a id="ch37-52"></a>
 
-### bhAga 37-52 — ingliS munnOTTugaLa viSlESaNe
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#ch37-52) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-3752--english-prefixes)
-
-ingliS munnOTTugaLa viSlEShaNe: I bhAgadalli aLavi/hanta, imbu, hottu mattu allagaLeyuva — nAlku gumpugaLa ingliS munnOTTugaLannu viSlEShisidE avakke sATiyAda kannaDa bErugaLannu/padagaLannu tOriskoDalAguttade.
-
----
-
+### bhAga 37–52 — ingliS munnoTTugaLa viSlESaNe
 
 <a id="sec-37-1"></a>
 
-#### 37.1 aLavi/hanta munnOTTugaLu — hyper-, mega-, micro-, mini-, super-
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#sec-37-1) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-3752--english-prefixes)
-
-ingliS hyper- → kannaDa "migilu": migilUbbara (hyper-inflation), migilukOnDi (hyperlink), migilu mArukaTTe (hypermarket). ingliS mini- → kannaDa "kiru" (tereyuLigaLa munnige "kitt"): kirubandi (minibus), kittAnu (mini-bull). ingliS mega- → kannaDa "doDDa" illi "mElu". ingliS micro- → kannaDa "kiri" illi "cicci". ingliS super- → kannaDa "mElu". I kannaDa aLaviya munnOTTugaLu bahu hana baLakeyallive mattu samskxta "maha-, ati-, sUkShma-" ge hogirabEkAguvudilla.
-
----
+#### 37.1 aLavi/hanta munnoTTugaLu — hyper-, mega-, micro-, mini-, super-
+mUru haypar oTTu I oTTannu baLasiruvalli adakke sATiyAgi kannaDadalli migilu emba padavannu baLasalu baruttade inphlESan ubbara haypar inphlESan migilubbara link konDi haypar link migilugonDi mArkeT mArukaTTe haypar haypar mArkeT migilu mArukaTTe sensiTiv nATuva haypar sensiTiv migilu nATuva nAlku mini oTTu I oTTige sATiyAgi kannaDadalli kiru embudannu baLasalu baruttade idakke tereyuligaLa modalige kit emba rUpa ide kyAb
 
 
 <a id="sec-37-2"></a>
 
-#### 37.2 imbina munnOTTugaLu — inter-, intra-, extra-, trans-, sub-, super-
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#sec-37-2) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-3752--english-prefixes)
-
-ingliS inter- → kannaDa "naDuva": naDuva rASTragaLa (inter-national). ingliS intra- → kannaDa "oLa": oLa rASTrada (intra-national). ingliS extra- → kannaDa "hora": hora rASTrada (extra-national). ingliS trans- → kannaDa "dATi": dATi rASTrada (trans-national). ingliS sub- → kannaDa "keLa/tagg": keLa gaNi (sub-mine). ingliS over/super- → kannaDa "mEla": mEla rASTra (supra-national). I nija kannaDa imbina bErugaLu samskxta "antar-, bahis-, prati-" ge hogirabEkAguvudilla.
-
----
+#### 37.2 imbina munnoTTugaLu — inter-, intra-, extra-, trans-, sub-, super-
+imbina munnoTTugaLu imbina huruLannu tiLisalu ingliSnalli mukhyavAgi eph O Ar i ay en Ti i Ar O yu Ti O vi Ar es yu bi es yu pi i Ar Ti Ar en es yu en Di i Ar is mattu I eks Ti Ar e emba 10 munnoTTugaLu baLakeyAgi Aguttave ivakke sATiyAguvante kannaDadalli entaha padagaLannu illavE bErugaLannu baLasalu baruttade embudannu keLage vivarisalAgide ondu phOr oTTu I oTTige mundina emba imbina huruLu mattu modalina emba hottina
 
 
 <a id="sec-37-3"></a>
 
-#### 37.3 hottina munnOTTugaLu — pre-, post-, re-, ex-, neo-, paleo-
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#sec-37-3) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-3752--english-prefixes)
-
-ingliS pre- → kannaDa "mun": munpATaSAle (pre-school), munnoDal (foreword). ingliS post- → kannaDa "ina/mEla": inamudraNa (post-publication). ingliS re- → kannaDa "mara": marakaTTu (rebuild), marabaraha (rewrite). ingliS ex- → kannaDa "hina": hinamuKyamantri (ex-chief-minister). ingliS neo- → kannaDa "hosa": hosagannaDa (neo-Kannada). ingliS paleo- → kannaDa "haLe": haLegannaDa (old/paleo-Kannada). ingliS proto- → kannaDa "mUla" illi "AdyA".
-
----
+#### 37.3 hottina munnoTTugaLu — pre-, post-, re-, ex-, neo-, paleo-
+hottina munnoTTugaLu hottige sambandhisidante mukhyavAgi I eks eph O Ar i pi O es Ti pi Ar i en Ti i Ar i en i O pi el i O mattu pi Ar O Ti O emba ombattu munnoTTugaLu ingliSnalli baLakeyallive kannaDadalli munnoTTugaLannu illadiddarU kelavu padagaLannu illavE bErugaLannu avugaLa jAgadalli irisi hosa padagaLannu unTumADalu baruttade ettigegAgi ingliSna eph O Ar i emba munnoTTige sATiyAgi kannaDadalli mun emba bErannu adE
 
 
 <a id="sec-37-4"></a>
 
-#### 37.4 allagaLeyuva munnOTTugaLu — dis-, un-, non-, anti-, de-, in-/im-/ir-/il-
-
-[↑ oLapiDige hintirugi](#toc)
-
-[ಕನ್ನಡ →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn#sec-37-4) | [English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-3752--english-prefixes)
-
-allageLeta munnOTTugaLigE sATiyAda kannaDa rUpagaLu: ingliS dis- (esakavannu allagaLeyyuvadudu) → kannaDa esaka padada allagaLeyuva rUpakke "iru/Agu" sErisabahudu. ingliS un- (paricaya/hesarupadavannu allagaLeyyuvadudu) → kannaDa "alla-" illi "illada" baLasabahudu. ingliS non- → kannaDa "alla-" illi "bEda". ingliS anti- → kannaDa "eduru-" illi "viruddA". ingliS de- → kannaDa "teg-" illi hesakavannu allagaLeyyuva padA rUpa. ingliS in-/im-/ir-/il- → kannaDa hesarupada/paricepada + "illada" illi "alla-". I allagaLeyuva oLavu kannaDakke sahajadAda — "illa" mattu "alla" eraDU bErE bErE sammkhyegaLalli baLakeyalliruva viSiSTa oLavu.
-
----
+#### 37.4 allagaLeyuva munnoTTugaLu — dis-, un-, non-, anti-, de-, in-/im-/ir-/il-
+allageLetada munnoTTugaLu ingliSnalli ondu pada tiLisuva huruLannu allageLeyalu illavE adara eduru huruLannu tiLisalu mukhyavAgi en en Ti ay Di i Di ay es ay en en O en mattu yu en emba ELu munnoTTugaLannu baLasalAguttade em el mattu em ay es emba bEre eraDu oTTugaLu ivakke hattirada huruLannu koDuttave endu hELabahudu Adare ivakke allageLeyuva huruLigintalU tappu illavE keTTa emba huruLu mattu kILpaDisuva huruLide kannaDadalli intaha
