@@ -1,5 +1,5 @@
 # DNS Bhat Ettuge Project — Recap
-*Last updated: 2026-03-17 (Phase 14)*
+*Last updated: 2026-03-19 (Phase 17)*
 
 ---
 
@@ -583,6 +583,97 @@ Anchor-to-English-anchor mapping (30 unique chapters/sections):
 
 ---
 
+### Phase 17 — Nudi Encoding Cleanup, u' → u^, TOC Restructure, Citation Quote Convention (2026-03-18–19)
+
+Multi-part phase completing Nudi/WX glyph-map artifact cleanup, fixing the unrounded-u Eke marker, restructuring TOCs, removing residual OCR structural artifacts, and establishing a canonical citation-quote convention for the published site.
+
+**Sub-phase A — Nudi character-level cleanup (books 17 and 14)**
+
+Books 17 and 14 were typeset in Nudi legacy font. WX-decoding produced Kannada Unicode text but left unmapped Latin glyph-map residuals that required cross-referencing the original PDF.
+
+*Book 17 — symbols resolved:*
+
+| Symbol | U+ | → | Replacement | Count | Context |
+|--------|----|---|-------------|-------|---------|
+| `ù` | 00F9 | → | ಱ (archaic RA, U+0CB1) | 85 | vowel-displacement pattern |
+| `Â` | 00C2 | → | `ᵒ` (modifier letter small o, U+1D52) | 24 | Havyaka suffix marker |
+| `ï` | 00EF | → | ್ (virama, U+0CCD) | 7 | unrounded-u context |
+| `û` | 00FB | → | ಼ (nukta, U+0CBC) | 3 | — |
+| `Ð` | 00D0 | → | direct reconstructions | 2 | two Tamil loanwords: ಞೆಙ್ಙೋಳ್, ಞಙ್ಙು |
+| `Œ` | 0152 | → | char + ಼ (nukta) | 21 | lowered vowels (ಅ಼, ಎ಼, ಒ಼) — pattern A prefix and B infix |
+
+Additional compound OCR garbles fixed: `ಯುೀ → ಯೇ` (75×), `ೊೀ → ೋ` (37×), `ೂೀ → ೋ` (3×), `ದುು → ದು` (1×).
+
+New Eke rules for book 17's archaic symbols: ಱ → `R/Ra`, ೞ → `Z/Za`, ಙ → `G/Ga`, ಞ → `Y/Ya` (halant/full akshara); ಼ (nukta) → `:` suffix (e.g. ಅ಼ → `a:`); `ᵒ` → pass through as-is; `ಉ್` (unrounded u) → `u^`.
+
+*Book 14 — symbols resolved:*
+
+| Symbol | U+ | Replacement | Count | Context |
+|--------|----|-------------|-------|---------|
+| `«` | 00AB | `<` | 16 | etymological source arrow (§4.6) |
+| `»` | 00BB | `>` (4×) / `,` (7×) | 11 | word-change notation / clause joins |
+| `¢` | 00A2 | vowel extender | 1 | `ಮಧ್ಯದಲ್ಲೆ ¢ → ಮಧ್ಯದಲ್ಲೇ` |
+| `£` | 00A3 | `,` | 1 | clause join (§12.2) |
+| `©` | 00A9 | deleted | 1 | page-break artifact block (§9.1 running header) |
+| `(ಆಕ)` | — | `(೮ಕ)` | 1 | OCR misread of Kannada digit ೮ |
+
+**Sub-phase B — Eke u' → u^ fix (2026-03-18)**
+
+All 8 existing kn-eke.md files (03, 07-vol1, 07-vol2, 14, 17, 25, 27, 28) regenerated with `u^` (caret) for the unrounded-u vowel `ಉ್`, replacing the earlier `u'` (apostrophe). Reason: apostrophe caused rendering ambiguity in citation-quote contexts and Markdown processors. Book 27 and 29 re-regenerated again after the fragment cleanup below. Commit: `9a9b8fe`.
+
+**Sub-phase C — OCR structural artifact removal**
+
+| Commit | Books | What was removed |
+|--------|-------|-----------------|
+| `dc21662` | 27, 28, 29 | Per-page running chapter headers embedded in body text |
+| `66a7c62` | 27 | Page-break orphaned fragments before section headings |
+| `61d2f36` | 29 | Page-split sentence fragment rejoined to its paragraph |
+| `5412429` | 08 | Page-break orphaned fragment lines (3 instances) |
+| `6b072f1` | 03 | Stray `ಚ` page-break fragment isolated before a section heading |
+| `949ed17` | 25 | Entire OCR'd anukaraNike (preface) block removed from body (202 lines) — preface had been OCR'd twice, appearing a second time mid-body |
+
+**Sub-phase D — TOC restructure (all kn.md files)**
+
+All books with kn.md now have a clean ಒಳಪಿಡಿ/ಪರಿವಿಡಿ section with `<a id>` anchors and section-link tables. Books 03 and 27 received new full TOCs in this phase; other books were already clean.
+
+| Book | TOC header | Anchor scheme | Count |
+|------|-----------|--------------|-------|
+| 03 | `## ಒಳಪಿಡಿ` | `sec-N-M`, `sec-N-M-P` | 100 sections, 3 levels |
+| 07 | `## ಒಳಪಿಡಿ` | `adhyAya-N` | 4 (vol1) + 2 (vol2) |
+| 08 | `## ಒಳಪಿಡಿ` | mixed | 38 |
+| 14 | `## ಒಳಪಿಡಿ` | mixed | 164 |
+| 17 | `## ಪರಿವಿಡಿ` | `adhyAya-N` | 12 |
+| 25 | `## ಪರಿವಿಡಿ` | `adhyAya-N` | 11 |
+| 27 | `## ಒಳಪಿಡಿ` | `part-N`, `sec-N-M`, `sub-N-M-K` | 221 (5+32+184) |
+| 28 | `## ಪರಿವಿಡಿ` | `adhyAya-N` | 12 |
+| 29 | `## ಪರಿವಿಡಿ` | `adhyAya-N` | 11 |
+
+Commits: `20bb002` (book 03 — new full 3-level TOC), `ad6be57` (book 27 — new 3-tier TOC with 221 anchors).
+
+**Sub-phase E — Citation quote convention (books 07, 17, 25, 28)**
+
+DNS Bhat's books were typeset with backtick (U+0060) as typographic open-quote and apostrophe (U+0027 or U+2019) as close. Backtick triggers Markdown code-span rendering on the published site.
+
+**Decision:** Replace with curly single quotes `'word'` (U+2018 open / U+2019 close) — the convention already used natively in books 03 and 27 (Sarvam OCR output). The vowel-modification marker `u^` (unrounded-u in Eke) is explicitly **not** a citation quote and is left unchanged.
+
+Close-char per book: U+0027 (ASCII apostrophe) for books 07, 25, 28; U+2019 (right single quotation mark) for book 17.
+
+Implementation: retrieved `HEAD^:{path}` via git to get pre-intermediate-commit state, then applied a DOTALL regex (`\`CONTENT'` → `'CONTENT'`, max 300-char span to handle page-break-split citations) with a double-backtick pass first (`\`\`CONTENT''` → `'CONTENT'` for direct speech). Orphaned opens/closes handled case-by-case.
+
+| Book (file pair) | Quotes converted | Notable edge cases |
+|-----------------|-----------------|-------------------|
+| 07 vol1 kn + eke | ~400 | OCR fix `ನವi್ಮಲ್ಲಿ → ನಮ್ಮಲ್ಲಿ` (+ Eke `navaimalli → nammalli`); double-citation-mark display `(``'')` → `('')`; 1 orphaned-open vocab gloss |
+| 07 vol2 kn + eke | ~300 | 1 orphaned open (parallel entry); 1 nested outer backtick; 2 isolated OCR fragment orphans (backtick removed); 1 orphaned close |
+| 17 kn + eke | 15 | 4 list-gloss items with OCR-dropped close; 1 bibliography backtick before garbled English title (backtick removed) |
+| 25 kn + eke | 4 | 4 double-backtick direct-speech citations; 0 residual backticks after regex |
+| 28 kn + eke | ~30 | 3 translation glosses with OCR-dropped close; 1 number-structure example |
+
+Commits: `500a296` (intermediate `^..^` convention — superseded), `971e918` (final curly single quotes — 10 files across 5 books).
+
+**All Nudi Latin artifacts (0x80–0xFF) now cleared** across all kn.md files except `©` (genuine copyright symbol, preserved in books 03 and 27).
+
+---
+
 ## Eke Romanisation System
 
 **Ellara KannaDa (Eke)** is a romanisation of Kannada devised by Vishwas — inspired by HK protocol and DNS Bhat's ideas, designed to be learnable by any Indian and usable by non-Kannada readers. It is the romanisation used throughout the `-kn-eke.md` files.
@@ -627,7 +718,7 @@ Anchor-to-English-anchor mapping (30 unique chapters/sections):
 
 ---
 
-## Current File Status (2026-03-17)
+## Current File Status (2026-03-19)
 
 ### ✅ Fully processed (en.md + kn-eke.md + claude-prompt.md)
 
@@ -637,17 +728,17 @@ Anchor-to-English-anchor mapping (30 unique chapters/sections):
 | 03 — Padagala Olarachane | book + **kn** (OCR-cleaned, 11,437L) + kn-eke + en + claude-prompt |
 | 04 — Mathu Matthu Barahada Gondala | transcript + website + kn-eke + en + claude-prompt |
 | 05 — Mathina Olaguttu | transcript + website + kn-eke + en + claude-prompt |
-| 07 — Kannadada Sollarime | vol1-book + **vol1-kn** (20,475L) + vol2-book + **vol2-kn** (13,928L) + kn-eke + en + claude-prompt |
+| 07 — Kannadada Sollarime | vol1-book + **vol1-kn** (20,475L) + vol2-book + **vol2-kn** (13,928L) + kn-eke + en + claude-prompt; citation quotes → curly ✅; Nudi-clean ✅ |
 | 08 — Mahaprana Yake Beda | book + djvu + kn + kn-eke + en + claude-prompt |
 | 09 — Havyaka Kannada | transcript + website + kn-eke + en + claude-prompt |
-| 14 — Nijakku Halegannada | book + djvu + blog + kn + kn-eke + en + claude-prompt |
+| 14 — Nijakku Halegannada | book + djvu + blog + kn + kn-eke + en + claude-prompt; Nudi-clean ✅ |
 | 15 — Inglish Kannada Padanerake | book (53p sample) + kn-eke + en + claude-prompt |
-| 17 — Nudi Nadedu Banda Dari | book + **kn** (OCR-cleaned, 16,883L) + kn-eke + en + claude-prompt |
+| 17 — Nudi Nadedu Banda Dari | book + **kn** (OCR-cleaned, 16,883L) + kn-eke + en + claude-prompt; Nudi-clean ✅; citation quotes → curly ✅ |
 | 18 — Nudiya Bagege Chintane | blog + kn-eke + en + claude-prompt |
 | 20 — Havyaka Outline Grammar | djvu + en + claude-prompt |
-| 25 — Vakyagala Olarachane | book + **kn** (OCR-cleaned, 11,676L) + kn-eke + en + claude-prompt |
+| 25 — Vakyagala Olarachane | book + **kn** (OCR-cleaned, 11,676L) + kn-eke + en + claude-prompt; citation quotes → curly ✅; anukaraNike removed from body ✅ |
 | 27 — Baasheya Bagge | book + **kn** (OCR-cleaned, 8,245L) + kn-eke + en + claude-prompt |
-| 28 — Kannadakke Beku | book + **kn** (OCR-cleaned, 9,517L) + kn-eke + en (13 anchors) + claude-prompt |
+| 28 — Kannadakke Beku | book + **kn** (OCR-cleaned, 9,517L) + kn-eke + en (13 anchors) + claude-prompt; citation quotes → curly ✅ |
 | 29 — Kannada Vyakarana Yaake Beku | book + **kn** (OCR-cleaned, 11 ch. anchors) + kn-eke + en (12 anchors) + claude-prompt |
 
 ### ❌ Not yet processed — no PDF source available
