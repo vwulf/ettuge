@@ -766,6 +766,12 @@ Books 16, 22, 23, 24, 26 — website stubs only.
 |------|-------|---------------|
 | Extract Book 19 PDF | 19 | The Koraga Language — pdftotext or Sarvam OCR; create en.md + claude-prompt.md |
 | Extract Book 21 PDF | 21 | Pronouns (Oxford) — likely Unicode PDF; create en.md + claude-prompt.md |
+| Fix nukta rendering — pick correct Kannada font for site | all | ಅ಼ಕಾರವಾಗುವುದು etc. render the nukta (U+0CBC ಼) incorrectly in the browser. Need to select a Kannada web font that supports nukta combinations (e.g. Noto Sans Kannada) and wire it into `docs/_config.yml` or a custom CSS file. |
+| Fix garbled book pages | 25, 15 | [Book 25 kn.md](https://vwulf.github.io/ettuge/dnsbhat/25-kannaDa-vAkyagaLa-oLaracane/25-kannaDa-vAkyagaLa-oLaracane-kn.html) and [Book 15 book.md](https://vwulf.github.io/ettuge/dnsbhat/15-ingliS-kannaDa-padanerake/15-ingliS-kannaDa-padanerake-book.html) render garbled — likely front matter or encoding issue. Audit Jekyll build output for these two files. |
+| Fix OCR word-boundary splits | multiple | Words like `meccuge ay` should be `meccugAy` — OCR split at vowel boundaries. Audit all kn-eke.md files for space-separated suffix artifacts. |
+| Verify cross-links kn → en → eke | all books with kn.md | Now that en.md files have detailed per-section anchors (Phase 16–17), the `[English →]` links in kn.md and the `[ಕನ್nnaDa →]` links in kn-eke.md need a full audit pass to ensure every anchor target resolves correctly. |
+| Update Skills and CLAUDE.md files | — | `.claude/skills/kannada-ocr-cleaner/SKILL.md`, `dns-bhat-book-summarizer/SKILL.md`, `dns-bhat-transcript-summarizer/SKILL.md`, and relevant `CLAUDE.md` files need updating with Phase 17 learnings: nukta symbol (U+0CBC ಼) + Eke `:` suffix rule, archaic RA (ಱ→R), ೞ→Z, ಙ→G, ಞ→Y, Havyaka suffix `ᵒ`, unrounded-u `u^`, curly quote convention, Nudi Latin artifact table. |
+| Expand ettuge home page Eke description | site | [https://vwulf.github.io/ettuge/](https://vwulf.github.io/ettuge/) home page needs a richer Eke description: cover extensions for Havyaka phonemes (ಱ `R`, `ᵒ` suffix, unrounded-u `u^`), lowered vowels (nukta + `:` suffix), archaic stops (ೞ `Z`), and the overall design philosophy (no aspirate loss in *transcription*, aspirate loss only in *word coining*). |
 
 ### Medium priority
 
