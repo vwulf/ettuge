@@ -2400,10 +2400,10 @@ gamanisabahudu:
 (laka) nIm Adityanan‌ iLipa tEjarir‌ (೨.೬೪)
 
 “nIvu Adityanannu tiraskarisuva tEjassuLLavarAgiddIri'
-(Akha) nimmaya dharmada makkaLevu (೧೧.೧೨೮)
+(೮kha) nimmaya dharmada makkaLevu (೧೧.೧೨೮)
 
 (nAvu) nimma dharmada makkaLu'
-(Aga)  Anum penDatiyen‌ Aden‌ (೧.೭೬)
+(೮ga)  Anum penDatiyen‌ Aden‌ (೧.೭೬)
 
 "nAnU hengasAgiddEne'
 
@@ -4285,7 +4285,7 @@ vAkyagaLalli kANisida hAge, nAmapadagaLa jAgadalli barabEku.
 (೮ka) narEndram tanage ondam tandan‌
 "rAjanu tanage ondannu tandanu'
 
-(Akha) tEjOguNam avaroL‌ nelasi nindudu
+(೮kha) tEjOguNam avaroL‌ nelasi nindudu
 "tEjOguNa avaralli sthiravAgi ninditu'
 
 samskxta mattu haLegannaDa bhAShegaLa naDuve intaha vyatyAsavideyAda kAraNa,
@@ -5643,7 +5643,7 @@ vAkyagaLannu gamanisabahudu:
 (೮ka) eraDu agamam iLipantAdudu
 "eraDu beTTagaLannu iLisidantAyitu'
 
-(Akha) padinenTu dharmaSAstrangaLoLam nAlku vEdadoLam AangadoLam
+(೮kha) padinenTu dharmaSAstrangaLoLam nAlku vEdadoLam AangadoLam
 aydu teada mantrangaLoLam Ajum darSanadoLam....
 "hadinenTu dharmaSAstra gaLalliyU, nAlku vEdagaLalliyU, Aru
 angagaLallimSU, aydu rItimya mantragaLallimyU, Aru
@@ -5653,7 +5653,7 @@ darSanagaLalliyU...
 "beTTa' padadondige bahuvacana pratyaya baLakeyAgilla.
 
 I rIti, napumsaka lingadalli vacana pratyayavannu baLasadeyU irabahudu,
-illavE bEkiddalli baLasalU sAdhya emba viShaya mEle (Akha)dalli innaShTu spa ShTavAgide.
+illavE bEkiddalli baLasalU sAdhya emba viShaya mEle (೮kha)dalli innaShTu spa ShTavAgide.
 alli koTTiruva aydu nAmapadagaLondigU eNikeya padagaLannu baLasalAgide, mattu
 I kAraNakkAgi, vEda, anga mattu darSana padagaLondige bahuvacana pratyayavannu
 baLasilla; Adare dharmaSAstra mattu mantra padagaLondige eNikeya pada mAtravallade
@@ -6003,21 +6003,21 @@ ShaShThI mattu saptamI embudAgi hesarisalAgiruva innU Aru vibhaktigaLu samskxtad
 
 (೮ka) danDapAlaH cOram karShati
 "kAvalugAranu kaLLanannu eLeyuttA ne'
-(Akha) vxtram indrO vajrENa ahan‌
+(೮kha) vxtram indrO vajrENa ahan‌
 "indranu vxtranannu vajrAyudhadinda konda'
-(Aga) brAhmaNEbhyO niShkAn‌ dadav
+(೮ga) brAhmaNEbhyO niShkAn‌ dadav
 "brAhmaNarige cinnada nANyagaLannu koTTa'
-(Agha) dhAvatO aSvAt‌ patati
+(೮gha) dhAvatO aSvAt‌ patati
 “ODuttiruva kudureyinda bILuttAne'
 (೮ja) mAtuH smarati
 "tAyannu neneyuttAne'
-(Aca) kasmimScid‌ vanE bhAsurakO nAma simhaH prativasati sma
+(೮ca) kasmimScid‌ vanE bhAsurakO nAma simhaH prativasati sma
 "yAvudO ondu kADinalli bhAsurakanemba simha vAsisuttittu'
 (೮ka)dalli eLeyuva kriyeyinda bAdhitanAgiruva vyaktiyannu dvitIyA vibhaktiya
 mUlakavU, (೮kha)dalli kolluva ghaTaneyalli baLasida Ayudhavannu txtIyA vibhaktiya
 mUlakavU, (Agudalli koTTa vastuvannu paDeda vyaktiyannu caturthI vibhaktiya
 mUlakavU, (೮gha) dalli biddudellinda embudannu pancamI vibhaktiya mUlakavU,
-(Aja) dalli nenedudu yArannu embudannu ShaShThI vibhaktiya mUlakavU, mattu
+(೮ja) dalli nenedudu yArannu embudannu ShaShThI vibhaktiya mUlakavU, mattu
 (A೮ca)dalli vAsisiruva jAgavannu saptamI vibhaktiya mUlakavU sUcisalAgide.
 samskxtadalli vibhakti pratyayagaLu I rIti nAmapadakkUkriyApadakkU naDuviruva
 sambandhagaLannu mAtravallade, vacanabhEdavannU sUcisabEkAgideyAda kAraNa, mEle
@@ -7488,7 +7488,7 @@ keLage kANisida hAge, ante "hAge' padada (upameya) prayOgavide.
 (೮ka) vxShAnkanambu tanuvam paccante konDattu (೮.೧೬)
 "Sivana bANa SarIravannu bhAga mADida hAge oLanuggi tu'
 
-(Akha) urimuTTidaraLeyante ambaram uridattu (೧೦.೩೬)
+(೮kha) urimuTTidaraLeyante ambaram uridattu (೧೦.೩೬)
 "benki tagalida hattiya hAge AkASa uriyitu'
 
 (Agu dEvadundubhi jayaprArambhamam sAjuvante esedattu (೯.೯೬)
@@ -8205,7 +8205,7 @@ racitavAgiruva kriyArUpada arthavU) I kriyArUpakkide.
 “pAnDyanu tOmaradinda hoDedAga aSvatthAmanu (adannu)
 madhyamArgadallE kaDidanu'
 
-(Akha) pAncALarAjatanUjeverasu pAnDavar‌ poTalam poamaDe
+(೮kha) pAncALarAjatanUjeverasu pAnDavar‌ poTalam poamaDe
 purajanangaLella tammoLintendar‌
 "pAnDavaru dravpadiyoDane paTTaNavannu biTTu hOdAga paTTaNada
 janarella tammoLage hIge hELikonDaru'
@@ -8214,7 +8214,7 @@ janarella tammoLage hIge hELikonDaru'
 kaDiyuva ghaTane - iveraDU svEccheyinda naDesuva ghaTanegaLu. ivannu bEre bEre
 vyaktigaLu (pAnDya mattu aSvatthAma) naDesuttiruva kAraNa, I vAkyagaLannu jODisalu
 (೮ka)dalli iDu kriyApadada iTTu rUpada badalu, iDe rUpavannu baLasalAgide.
-(Akha)dallU hIgeyE.
+(೮kha)dallU hIgeyE.
 
 Adare, e pratyayadinda racitavAgiruva I kriyArUpavannu obbanE vyakti
 mADuganAgi naDesuva eraDu vAkyagaLannu jODisuvallU baLasalu sAdhyavide.
