@@ -1800,9 +1800,6 @@ suvudakkintalU avugaLalli yAva vidhAna namma bhASheya barahavannu
 kalisuvalli heccu upayuktavAgaballudu embudannu nirdharisi
 koLLuvudu atyavaSya.
 
-LLala
-
-
 ingliSh‌nalliruvaShTu 'spelling' samasyegaLilladiruva kannaDa baraha
 vannu kalisuvalli mEle koTTiruva modalaneya vidhAnavE heccu
 prayOjanakAriyAgaballudu. idallade, aduvarege OdadE iddantaha
@@ -1997,9 +1994,6 @@ padagaLannE baLasalAguttade.
 namma bhASheya vyAkaraNa I rIti nijakkU namma bhASheya svarUpavEnu
 embudannu kutUhala huTTuvante varNisahoraTalli adara nIrasate
 
-Aha
-
-
 yella iddakkiddante mAyavAdItu. ma embudu 'anunAsika' endu
 hELi 'nAsikeyannu anusarisuvudE anunAsika' endu vivaraNe koTTare
 yArigU EnU arthavAgadu, mattu adu yAra kutUhalavannU
@@ -2039,9 +2033,6 @@ koDabEku. patra baredavanu santOShadalliddanO, kOpadalliddanO,
 bEsaradalliddanO embudannella I vAkyagaLu mattu avugaLalli
 bandiruva bEre bEre padagaLu mattu pratyayagaLu tiLisikoDabEku.
 
-ALa
-
-
 mAtina mUlaka ondu viShayavannu tiLisi hELuvudakkintalU barahada
 mUlaka tiLisi hELuvudu heccu kaShTada kelasavemba viShaya idarinda
 spaShTavAguttade. I kelasavannu txptikaravAgi naDesalu vidyArthigaLu SAle
@@ -2078,9 +2069,6 @@ uLidide.
 
 I sAvira varShagaLalli bErellA SAstragaLallU ententaha badalA
 vaNegaLella naDedu hOgiveyembudannu gamanisidavAdare (cappaTeyidda
-
-AA
-
 
 bhUmi uruTAgide), kannaDada I baDa vyAkaraNaSAstra eShTu hinduLi
 dideyemba viShaya spaShTavAdItu.
@@ -2120,9 +2108,6 @@ hAge barediruttAre.
 kannaDa lipiyalli oTTu hadinAlku svara sanjYegaLiveyAdare (kelavaru
 innU eraDannu sErisikoLLuttAre) kannaDa bhASheyalli oTTu a, A, i,
 I, u, U, e, E, o, mattu O emba hattu svara varNagaLu mAtra
-
-ATa
-
 
 ive. lipiyalli kANisuva x, khU, ay, mattu av emba uLida nAlku
 svara sanjYegaLannu nAvu vyanjanayukta svaragaLannAgi uccarisuvevAda
@@ -2244,9 +2229,6 @@ tudi hindakke maDacikoLLuvudE atyanta mukhyavAda kArya. idannu
 vivarisihELuva badalu avu mUrdhanyagaLu, bAyiya mElbAgadalli
 utpannavAguttave endu baredare avugaLa viSiShTavAda uccAraNe
 vidyArthigaLige hEge gottAdItu?
-
-A
-
 
 kannaDa varNagaLa uccAraNeyannu vivaravAgi varNisahoraTare
 ondu doDDa pustakavannE bareyabahudu. intaha pustakadalli barabahu
@@ -3638,9 +3620,6 @@ cInI bhASheyalli bareda pustakagaLannu Odalu kaDimeyendare
 ELenTu sAvira sankEtagaLannAdarU kalitukoLLabEkAguttade. adara
 sampUrNa padakOSavondaralli oTTu sumAru ayvattu sAvira sankEta
 gaLive! idu vidyArthigaLigondu doDDa talenOvannE tandoDDa
-
-La
-
 
 balludEnO nija; Adare, tamma tamma bhAShegaLannu kaliyuvudarondige
 iShTellA sankEtagaLannU avaru kaDDAyavAgiyE kalitukoLLa bEkAguvu
