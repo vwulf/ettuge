@@ -8570,7 +8570,6 @@ tElibiDu
 heppugaTTi
 
 mucciDu
-ca
 
 eDabiDa(de)
 
