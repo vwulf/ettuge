@@ -1,8 +1,8 @@
-# Ettuge DNS Bhat — Book Primers, Part 1 (Books 02–14)
+# Ettuge DNS Bhat — Book Primers, Part 1 (Books 02–25)
 
-Detailed AI context primers for DNS Bhat books 02–14: thesis, key terms, chapter map, notable examples.
+Detailed AI context primers for DNS Bhat books 02–25: thesis, key terms, chapter map, notable examples.
 For book catalogue and file structure, see `claude-project-instructions.md`.
-For books 15–29 primers, see `claude-book-primers-2.md`.
+For books 27–29 primers, see `claude-book-primers-2.md`.
 
 ---
 ---
@@ -749,6 +749,8 @@ The book also makes a sustained methodological argument: applying Sanskrit gramm
 6. Attribute all opinions and claims clearly to D.N. Shankara Bhat.
 7. Note that this book is part of a trilogy: for syntax questions, refer to Book 25; for an overview grammar, refer to Book 01.
 
+8. **Repository source (Phase 17):** A clean structured Kannada source file `03-kannaDa-padagaLa-oLaracane-kn.md` is available with paragraph breaks, a ಪರಿವಿಡಿ (Table of Contents), and `<a id="adhyAya-N">` anchors at each chapter. It also has deep section anchors (`<a id="sec-N-M">`) added in Phase 17. The Eke romanisation file `03-kannaDa-padagaLa-oLaracane-kn-eke.md` mirrors the same structure. DNS Bhat's typographic quotation marks (backtick open, apostrophe close) have been standardised to curly single quotes `'word'` (U+2018/U+2019) in kn.md and kn-eke.md.
+
 
 ---
 
@@ -1278,6 +1280,8 @@ The book constitutes both a theoretical argument and a practical reference. As a
 7. When asked about comparison with traditional Sanskrit-framework Kannada grammar, note that Bhat systematically argues against applying Sanskrit categories (*vyakarana*, *kaaraka*, *samasa* types, *dhatu*-primacy) to Kannada, and instead uses his native Kannada terminology throughout.
 
 8. Note that this book complements but does not duplicate other books in the series: Book 03 (*Kannada Padagala Olarachane*) covers morphology in greater depth; Book 25 (*Kannada Vakyagala Olarachane*) covers syntax in greater depth; Book 08 (*Kannadakke Mahaprana Yake Beda*) covers script reform in greater depth. This book is the single most integrated and comprehensive reference in the series.
+
+9. **Repository source (Phase 17):** Clean structured Kannada source files now exist: `07-kannaDa-barahada-sollarime-vol1-kn.md` (phonology, Vol. 1) and `07-kannaDa-barahada-sollarime-vol2-kn.md` (morphology+syntax, Vol. 2). Each has a ಒಳಪಿಡಿ TOC and `<a id="adhyAya-N">` chapter anchors. Corresponding Eke files are `vol1-kn-eke.md` and `vol2-kn-eke.md`. DNS Bhat's typographic citation marks (backtick open, apostrophe close) have been standardised to curly single quotes `'word'` (U+2018/U+2019) in kn.md and kn-eke.md. Note: Vols 3–7 PDFs have not been located; only Vol. 1 and Vol. 2 are available in the repository.
 
 
 ---
@@ -2426,6 +2430,8 @@ The book is addressed to an educated Kannada-speaking audience rather than profe
 
 8. This book is part of a series. For **synchronic word structure**, refer to Book 03. For **sentence structure**, refer to Book 25. For **the Kannada sound system** (synchronic phonology), refer to Book 07. For **Havyaka Kannada grammar** in detail, refer to Book 09.
 
+9. **Repository source (Phase 17):** A clean structured Kannada source file `17-kannaDa-nuDi-naDeDu-banda-dAri-kn.md` is available, generated from the Sarvam Vision OCR + WX-decode pipeline with Nudi encoding artefacts resolved. It has a ಪರಿವಿಡಿ TOC and `<a id="adhyAya-N">` chapter anchors. The Eke romanisation file `17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke.md` mirrors the same structure, and includes `u^` markers for ಉ್ (unrounded-u, a Havyaka phoneme). DNS Bhat's typographic citation marks have been standardised to curly single quotes `'word'` (U+2018/U+2019). The book is written in *hosa baraha* (simplified spelling): aspirated consonants are suppressed (ಭ→ಬ, ಧ→ದ, ಥ→ತ, ಫ→ಪ, ಖ→ಕ, ಘ→ಗ, ಷ→ಸ).
+
 
 ---
 
@@ -2819,4 +2825,6 @@ The book covers ten substantive chapters (Chapters 2–10) plus an introductory 
 7. The book's examples are in modern standard written Kannada. When producing Eke romanisation of example sentences or terms, follow the Eke rules: aspirates preserved with h (ಭ→bh, ಧ→dh, ಖ→kh, ಥ→th, ಠ→Th etc.), retroflexes UPPERCASE (ಟ→T, ಡ→D, ಣ→N, ಳ→L), long vowels UPPERCASE (A, I, U, E, O). The Eke romanisation summary file is at `25-kannaDa-vAkyagaLa-oLaracane-kn-eke.md`.
 
 8. When a question is about Kannada syntax more broadly and not specifically about claims made in this book, make clear when you are drawing on Bhat's framework versus general Dravidian/Kannada linguistics. The book is analytically rich but focused: it does not cover all aspects of Kannada syntax equally.
+
+9. **Repository source (Phase 17):** A clean structured Kannada source file `25-kannaDa-vAkyagaLa-oLaracane-kn.md` is available, generated from the Sarvam Vision OCR + WX-decode pipeline with Nudi encoding artefacts resolved. It has a ಪರಿವಿಡಿ TOC and `<a id="adhyAya-N">` chapter anchors. The Eke romanisation file `25-kannaDa-vAkyagaLa-oLaracane-kn-eke.md` mirrors the same structure. DNS Bhat's typographic citation marks have been standardised to curly single quotes `'word'` (U+2018/U+2019) in both kn.md and kn-eke.md. Note: unlike Books 03 and 07, this book (25) is written in standard Kannada orthography, not hosa baraha — aspirated letters (ಭ, ಧ, ಷ etc.) appear as-is in the source text.
 
