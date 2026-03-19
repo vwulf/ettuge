@@ -3,13 +3,14 @@ redirect_from:
   - /dnsbhat/14-nijakku-halegannada-vyakarana-entahadu/14-nijakku-halegannada-vyakarana-entahadu-kn-eke
 ---
 
+
 # nijakkU haLegannaDa vyAkaraNa entahadu?
 
 **lEkhakaru:** Di. en. Sankara bhaT
-**prakaTaNe:** 2005 (modala mudraNa)
+**prakaTaNe:** ೨೦೦೫ (modala mudraNa)
 
 > mUla pustakada sampUrNa paThya: [`nijakkU-haLegannaDa-vyAkaraNa-entahadu-book.md`](./nijakkU-haLegannaDa-vyAkaraNa-entahadu-book)
-> ingliS viSlESaNe: [`14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en.md`](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en)
+> ingliS viSlEShaNe: [`14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en.md`](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en)
 > Eke rOmanIkaraNa: [`14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke.md`](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke)
 
 ---
@@ -19,87 +20,87 @@ redirect_from:
 ## oLapiDi
 
 - [prakASakara mAtu](#pub-note)
-- [adhyAya 1 — pIThike](#ch1)
-  - [1.1 vyAkaraNada uddESa](#sec-1-1)
-  - [1.2 eraDu rItiya vyAkaraNagaLu](#sec-1-2)
-  - [1.3 haLegannaDada vyAkaraNa](#sec-1-3)
-  - [1.4 siddhavAgiruva vyAkaraNagaLu](#sec-1-4)
-  - [1.5 pustakada svarUpa](#sec-1-5)
-- [adhyAya 2 — pAribhASika padagaLa baLake](#ch2)
-  - [2.1 pIThike](#sec-2-1)
-  - [2.2 lOpa, Agama mattu AdESa](#sec-2-2)
-  - [2.3 vyAkaraNa sanjYegaLu](#sec-2-3)
-  - [2.4 pratyaya mattu padarUpa](#sec-2-4)
-  - [2.5 haLegannaDada vyApti](#sec-2-5)
-  - [2.6 pAribhASika padagaLalli kannaDatana](#sec-2-6)
-  - [2.7 sArAmSa](#sec-2-7)
-- [adhyAya 3 — varNagaLa baLake](#ch3)
-  - [3.1 pIThike](#sec-3-1)
-  - [3.2 varNagaLa paTTi](#sec-3-2)
-  - [3.3 varNagaLa anukrama](#sec-3-3)
-  - [3.4 tadbhavagaLalli kANisuva badalAvaNegaLu](#sec-3-4)
-  - [3.5 padagaLa uccAraNe](#sec-3-5)
-  - [3.6 varNagaLa gumpugaLu](#sec-3-6)
-  - [3.7 sErikeya niyamagaLu](#sec-3-7)
-  - [3.8 sArAmSa](#sec-3-8)
-- [adhyAya 4 — padavargagaLu](#ch4)
-  - [4.1 padagaLalli vayvidhya](#sec-4-1)
-  - [4.2 nAmapadakantegaLa racane](#sec-4-2)
-  - [4.3 sarvanAmagaLu](#sec-4-3)
-  - [4.4 praruSapadagaLu](#sec-4-4)
-  - [4.5 sarvapadagaLu](#sec-4-5)
-  - [4.6 eravalAgi banda padagaLu](#sec-4-6)
-  - [4.7 sArAmSa](#sec-4-7)
-- [adhyAya 5 — padagaLa oLaracane](#ch5)
-  - [5.1 pIThike](#sec-5-1)
-  - [5.2 pratyayagaLa baLake](#sec-5-2)
-  - [5.3 samAsagaLu](#sec-5-3)
-  - [5.4 haLegannaDa vyAkaraNagaLalli samAsa](#sec-5-4)
-  - [5.5 sArAmSa](#sec-5-5)
-- [adhyAya 6 — nAmapadagaLa svarUpa](#ch6)
-  - [6.1 nAmapadagaLa vibhajane](#sec-6-1)
-  - [6.2 kxllingagaLa svarUpa](#sec-6-2)
-  - [6.3 sArAmSa](#sec-6-3)
-- [adhyAya 7 — linga mattu vacanagaLu](#ch7)
-  - [7.1 pIThike](#sec-7-1)
-  - [7.2 vibhajaneyalli vyatyAsa](#sec-7-2)
-  - [7.3 vacanada sUcane](#sec-7-3)
-  - [7.4 sArAmSa](#sec-7-4)
-- [adhyAya 8 — vibhaktigaLu mattu kArakagaLu](#ch8)
-  - [8.1 pIThike](#sec-8-1)
-  - [8.2 vibhakti pratyayavannu baLasadiruvudu](#sec-8-2)
-  - [8.3 vibhakti pratyayagaLa sankhye](#sec-8-3)
-  - [8.4 vibhakti pratyayagaLa artha](#sec-8-4)
-  - [8.5 vistxta baLakegaLu](#sec-8-5)
-  - [8.6 vibhakti pratyayagaLu mattu kArakagaLu](#sec-8-6)
-  - [8.7 haLegannaDa vayyAkaraNigaLa samasyegaLu](#sec-8-7)
-  - [8.8 sArAmSa](#sec-8-8)
-- [adhyAya 9 — kriyArUpagaLu](#ch9)
-  - [9.1 kriyArUpagaLa oLaracane](#sec-9-1)
-  - [9.2 samayavannu sUcisuva vidhAnagaLu](#sec-9-2)
-  - [9.3 ghaTakavannu sUcisuvudu](#sec-9-3)
-  - [9.4 gum (kum) pratyayada baLake](#sec-9-4)
-  - [9.5 allagaLeyuva vidhAnagaLu](#sec-9-5)
-  - [9.6 ghaTane mattu sangati](#sec-9-6)
-  - [9.7 sArAmSa](#sec-9-7)
-- [adhyAya 10 — vAkyagaLa jODaNe](#ch10)
-  - [10.1 pIThike](#sec-10-1)
-  - [10.2 haLegannaDada jODisuva kriyArUpagaLu](#sec-10-2)
-  - [10.3 samskxtadalli jODisuva kriyArUpagaLu](#sec-10-3)
-  - [10.4 haLegannaDa vayyAkaraNigaLa samasyegaLu](#sec-10-4)
-  - [10.5 sArAmSa](#sec-10-5)
-- [adhyAya 11 — viSayavAkyagaLu](#ch11)
-  - [11.1 pIThike](#sec-11-1)
-  - [11.2 viSaya vAkyagaLa vibhajane](#sec-11-2)
-  - [11.3 guNavAkyagaLa racane](#sec-11-3)
-  - [11.4 sambandha vAkyagaLa racane](#sec-11-4)
-  - [11.5 iruvikeya vAkyagaLu](#sec-11-5)
-  - [11.6 samskxtada viSayavAkyagaLu](#sec-11-6)
-  - [11.7 sArAmSa](#sec-11-7)
-- [adhyAya 12 — muktAya](#ch12)
-  - [12.1 haLegannaDa vyAkaraNagaLa vimarSegaLu](#sec-12-1)
-  - [12.2 vyAkaraNada sankIrNate](#sec-12-2)
-  - [12.3 vyAkaraNada vayvidhya](#sec-12-3)
+- [adhyAya ೧ — pIThike](#ch1)
+  - [೧.೧ vyAkaraNada uddESa](#sec-1-1)
+  - [೧.೨ eraDu rItiya vyAkaraNagaLu](#sec-1-2)
+  - [೧.೩ haLegannaDada vyAkaraNa](#sec-1-3)
+  - [೧.೪ siddhavAgiruva vyAkaraNagaLu](#sec-1-4)
+  - [೧.೫ pustakada svarUpa](#sec-1-5)
+- [adhyAya ೨ — pAribhAShika padagaLa baLake](#ch2)
+  - [೨.೧ pIThike](#sec-2-1)
+  - [೨.೨ lOpa, Agama mattu AdESa](#sec-2-2)
+  - [೨.೩ vyAkaraNa sanjYegaLu](#sec-2-3)
+  - [೨.೪ pratyaya mattu padarUpa](#sec-2-4)
+  - [೨.೫ haLegannaDada vyApti](#sec-2-5)
+  - [೨.೬ pAribhAShika padagaLalli kannaDatana](#sec-2-6)
+  - [೨.೭ sArAmSa](#sec-2-7)
+- [adhyAya ೩ — varNagaLa baLake](#ch3)
+  - [೩.೧ pIThike](#sec-3-1)
+  - [೩.೨ varNagaLa paTTi](#sec-3-2)
+  - [೩.೩ varNagaLa anukrama](#sec-3-3)
+  - [೩.೪ tadbhavagaLalli kANisuva badalAvaNegaLu](#sec-3-4)
+  - [೩.೫ padagaLa uccAraNe](#sec-3-5)
+  - [೩.೬ varNagaLa gumpugaLu](#sec-3-6)
+  - [೩.೭ sErikeya niyamagaLu](#sec-3-7)
+  - [೩.೮ sArAmSa](#sec-3-8)
+- [adhyAya ೪ — padavargagaLu](#ch4)
+  - [೪.೧ padagaLalli vayvidhya](#sec-4-1)
+  - [೪.೨ nAmapadakantegaLa racane](#sec-4-2)
+  - [೪.೩ sarvanAmagaLu](#sec-4-3)
+  - [೪.೪ praruShapadagaLu](#sec-4-4)
+  - [೪.೫ sarvapadagaLu](#sec-4-5)
+  - [೪.೬ eravalAgi banda padagaLu](#sec-4-6)
+  - [೪.೭ sArAmSa](#sec-4-7)
+- [adhyAya ೫ — padagaLa oLaracane](#ch5)
+  - [೫.೧ pIThike](#sec-5-1)
+  - [೫.೨ pratyayagaLa baLake](#sec-5-2)
+  - [೫.೩ samAsagaLu](#sec-5-3)
+  - [೫.೪ haLegannaDa vyAkaraNagaLalli samAsa](#sec-5-4)
+  - [೫.೫ sArAmSa](#sec-5-5)
+- [adhyAya ೬ — nAmapadagaLa svarUpa](#ch6)
+  - [೬.೧ nAmapadagaLa vibhajane](#sec-6-1)
+  - [೬.೨ kxllingagaLa svarUpa](#sec-6-2)
+  - [೬.೩ sArAmSa](#sec-6-3)
+- [adhyAya ೭ — linga mattu vacanagaLu](#ch7)
+  - [೭.೧ pIThike](#sec-7-1)
+  - [೭.೨ vibhajaneyalli vyatyAsa](#sec-7-2)
+  - [೭.೩ vacanada sUcane](#sec-7-3)
+  - [೭.೪ sArAmSa](#sec-7-4)
+- [adhyAya ೮ — vibhaktigaLu mattu kArakagaLu](#ch8)
+  - [೮.೧ pIThike](#sec-8-1)
+  - [೮.೨ vibhakti pratyayavannu baLasadiruvudu](#sec-8-2)
+  - [೮.೩ vibhakti pratyayagaLa sankhye](#sec-8-3)
+  - [೮.೪ vibhakti pratyayagaLa artha](#sec-8-4)
+  - [೮.೫ vistxta baLakegaLu](#sec-8-5)
+  - [೮.೬ vibhakti pratyayagaLu mattu kArakagaLu](#sec-8-6)
+  - [೮.೭ haLegannaDa vayyAkaraNigaLa samasyegaLu](#sec-8-7)
+  - [೮.೮ sArAmSa](#sec-8-8)
+- [adhyAya ೯ — kriyArUpagaLu](#ch9)
+  - [೯.೧ kriyArUpagaLa oLaracane](#sec-9-1)
+  - [೯.೨ samayavannu sUcisuva vidhAnagaLu](#sec-9-2)
+  - [೯.೩ ghaTakavannu sUcisuvudu](#sec-9-3)
+  - [೯.೪ gum (kum) pratyayada baLake](#sec-9-4)
+  - [೯.೫ allagaLeyuva vidhAnagaLu](#sec-9-5)
+  - [೯.೬ ghaTane mattu sangati](#sec-9-6)
+  - [೯.೭ sArAmSa](#sec-9-7)
+- [adhyAya ೧೦ — vAkyagaLa jODaNe](#ch10)
+  - [೧೦.೧ pIThike](#sec-10-1)
+  - [೧೦.೨ haLegannaDada jODisuva kriyArUpagaLu](#sec-10-2)
+  - [೧೦.೩ samskxtadalli jODisuva kriyArUpagaLu](#sec-10-3)
+  - [೧೦.೪ haLegannaDa vayyAkaraNigaLa samasyegaLu](#sec-10-4)
+  - [೧೦.೫ sArAmSa](#sec-10-5)
+- [adhyAya ೧೧ — viShayavAkyagaLu](#ch11)
+  - [೧೧.೧ pIThike](#sec-11-1)
+  - [೧೧.೨ viShaya vAkyagaLa vibhajane](#sec-11-2)
+  - [೧೧.೩ guNavAkyagaLa racane](#sec-11-3)
+  - [೧೧.೪ sambandha vAkyagaLa racane](#sec-11-4)
+  - [೧೧.೫ iruvikeya vAkyagaLu](#sec-11-5)
+  - [೧೧.೬ samskxtada viShayavAkyagaLu](#sec-11-6)
+  - [೧೧.೭ sArAmSa](#sec-11-7)
+- [adhyAya ೧೨ — muktAya](#ch12)
+  - [೧೨.೧ haLegannaDa vyAkaraNagaLa vimarSegaLu](#sec-12-1)
+  - [೧೨.೨ vyAkaraNada sankIrNate](#sec-12-2)
+  - [೧೨.೩ vyAkaraNada vayvidhya](#sec-12-3)
 - [AkarasUci](#bib)
 
 ---
@@ -111,38 +112,38 @@ redirect_from:
 
 [↑ oLapiDige hintirugi](#toc)
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#pub-note) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#pub-note)
 
 ---
 
 
-50 varSagaLa hinde sarakAri navkari mADikonDidda nAnu adara jotege
+೫೦ varShagaLa hinde sarakAri navkari mADikonDidda nAnu adara jotege
 sAhityada gILannu haccisikonDu nannadE ondu prakASana samstheya mUlaka
 halavAru mavlyAdhArita kxtigaLannu prakaTisi nADina mUle mUlegU talupisalu
-prayatnisuttiddEne. kaLeda ondu varSadinda hELikoLLuvantaha yAvudE prakaTaNege
+prayatnisuttiddEne. kaLeda ondu varShadinda hELikoLLuvantaha yAvudE prakaTaNege
 nAnu kay hAkiralilla. kela dinagaLa hinde nAnu nanna magaLa manege tIrtha haLLige
 hOgiddAga puTTa SAlA bAlAkiyobbaLu ondu haLeya calanacitragIte a A
-i I kannaDada akSaramAle emba hADannu tannaSTakkE tAnE gunugunisuttA
-dAriyalli hOguttiddaLu. eSTu sundaravAda arthagarbhita hADu. kannaDada
-akSaragaLige tammadE Ada vivaraNeyannu koDuva A hADu matte matte nanna
-manassinalli mUDi kannaDa bhASeya bagge mattaSTu hemmepaDuvante mADitu.
-IgAgalE kannaDada halavAru hiriya sAhitigaLa pustakagaLannu prakaTisida santOSa
+i I kannaDada akSharamAle emba hADannu tannaShTakkE tAnE gunugunisuttA
+dAriyalli hOguttiddaLu. eShTu sundaravAda arthagarbhita hADu. kannaDada
+akSharagaLige tammadE Ada vivaraNeyannu koDuva A hADu matte matte nanna
+manassinalli mUDi kannaDa bhASheya bagge mattaShTu hemmepaDuvante mADitu.
+IgAgalE kannaDada halavAru hiriya sAhitigaLa pustakagaLannu prakaTisida santOSha
 omme manassinalli mUDisitu. matte nannalli prakaTaNeya garigedarisitu.
 
-hIge nannalli mUDida bhASeya abhimAna nannannu I kxtiya prakaTaNege
+hIge nannalli mUDida bhASheya abhimAna nannannu I kxtiya prakaTaNege
 kay hAkuvante mADitu. nADOja mattu pampa praSasti paDeda SrIyuta Di. en‌.
-Sankara bhaT‌ avaru IgAgalE sumAru 20 mavlyayuta kxtigaLannu kannaDa
-sAhityalOkakke koTTiddAre. avellavU kannaDa bhASeya kuritAda kxtigaLE Agiruvudu
-hemmeya viSaya. aSTE allade aSTU kxtigaLannu avarE kaSTapaTTu prakaTapaDisiddAre
+Sankara bhaT‌ avaru IgAgalE sumAru ೨೦ mavlyayuta kxtigaLannu kannaDa
+sAhityalOkakke koTTiddAre. avellavU kannaDa bhASheya kuritAda kxtigaLE Agiruvudu
+hemmeya viShaya. aShTE allade aShTU kxtigaLannu avarE kaShTapaTTu prakaTapaDisiddAre
 kUDa. intaha vidvAmsara ondu kxtiyannu namma prakASanadinda prakaTapaDisabEkemba
-hambala nannadAgittu. I Asege avaru nIreredu I modalE 2005ralli
-prakaTavAgidda “nijakkU haLegannaDa vyAkaraNa entahadu?” e0ba kxtiyannu maru
-prakaTisalu hELi namage prOtsAhisiddAre. prakASana samstheya 50nE varSada
-suvarNa sa0bhramOtsavadalli I kxti prakaTavAguttiruvudu namage mattaSTu sa0tasa
-ta0dide. I niTTinalli sahakarisida SrImati mattu SrI Di. en‌. Sa0kara bhaT‌ avarige
+hambala nannadAgittu. I Asege avaru nIreredu I modalE ೨೦೦೫ralli
+prakaTavAgidda “nijakkU haLegannaDa vyAkaraNa entahadu?” e೦ba kxtiyannu maru
+prakaTisalu hELi namage prOtsAhisiddAre. prakASana samstheya ೫೦nE varShada
+suvarNa sa೦bhramOtsavadalli I kxti prakaTavAguttiruvudu namage mattaShTu sa೦tasa
+ta೦dide. I niTTinalli sahakarisida SrImati mattu SrI Di. en‌. Sa೦kara bhaT‌ avarige
 prakASana samstheyinda tumbu hxdayada vandanegaLu.
 
-endinante kxtiyannu andavAgi mudrisida lakSmI mudraNAlayadavarige,
+endinante kxtiyannu andavAgi mudrisida lakShmI mudraNAlayadavarige,
 pustaka vinyAsa mADida Ar‌.es‌. SrIdhara avarige mattu namma kxtigaLannu konDu
 Odi bembalisuttiruva ella OdugarigU anantAnanta dhanyavAdagaLu.
 
@@ -152,11 +153,11 @@ prakASanada paravAgi
 
 <a id="ch1"></a>
 
-# adhyAya 1 — pIThike
+# adhyAya ೧ — pIThike
 
 [↑ oLapiDige hintirugi](#toc)
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#ch1) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-1--introduction)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-1--introduction) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#ch1)
 
 ---
 
@@ -166,53 +167,53 @@ pIThike
 
 <a id="sec-1-1"></a>
 
-## 1.1 vyAkaraNada uddESa
+## ೧.೧ vyAkaraNada uddESa
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-1-1) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-1--introduction)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-1--introduction) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-1-1)
 
 
-ondu bhASeyalli baLakeyalliruva pada, padarUpa, padakante mattu vAkyagaLa
+ondu bhASheyalli baLakeyalliruva pada, padarUpa, padakante mattu vAkyagaLa
 racaneyentahadu embudannu vivarisi hELuvudE vyAkaraNada mukhya udde ೇೀSa. I
-racane bhASeyinda bhASege bEre bEreyAgiruttade. ondu bhASeyannu cannAgi tiLididdarU
-innondu bhASeyalli baLasida vAkyagaLannu artha mADikoLLalu namage sAdhyavAgadiruvu
-dakke A eraDu bhASegaLa naDuviruva intaha vyatyAsagaLE mukhya kAraNa.
+racane bhASheyinda bhAShege bEre bEreyAgiruttade. ondu bhASheyannu cannAgi tiLididdarU
+innondu bhASheyalli baLasida vAkyagaLannu artha mADikoLLalu namage sAdhyavAgadiruvu
+dakke A eraDu bhAShegaLa naDuviruva intaha vyatyAsagaLE mukhya kAraNa.
 
 udAharaNegAgi, samskxtadalli bareda granthagaLannu sulabhavAgi Odi
 arthamADikoLLaballa obba vyakti haLegannaDadalli bareda granthagaLannu Odi artha
-mADikoLLabEkiddalli, A bhASeyannu pratyEkavAgi kalitukoLLuva avaSyakateyide.
+mADikoLLabEkiddalli, A bhASheyannu pratyEkavAgi kalitukoLLuva avaSyakateyide.
 haLegannaDada pada, padarUpa, padakante mattu vAkyagaLa racane samskxtada pada, padarUpa,
 padakante mattu vAkyagaLa racaneginta tIra bhinnavAgiruvudE idakke kAraNa.
 
-ellA bhASegaLallU svara mattu vyanjanagaLannu oTTu sErisi padagaLannu
+ellA bhAShegaLallU svara mattu vyanjanagaLannu oTTu sErisi padagaLannu
 racisalAguttade. Adare, idakkAgi baLakeyAguva svara mattu vyanjanagaLu, mattu
-avugaLa sankhye bhASeyinda bhASege bEre bEreyAgiruttade. udAharaNegAgi, samskxtada
-padagaLalli baLakeyAguva mahAprANAkSaragaLu, mattu khakAra, SakAra, SakAra
+avugaLa sankhye bhASheyinda bhAShege bEre bEreyAgiruttade. udAharaNegAgi, samskxtada
+padagaLalli baLakeyAguva mahAprANAkSharagaLu, mattu khakAra, SakAra, ShakAra
 modalAdavugaLu haLegannaDada padagaLalli baLakeyAguvudilla. idE rItiyalli, haLegannaDa
 padagaLalli baLakeyAguva giDDa (prasta) ekAra-okAragaLu mattu akAra-TakAragaLu
 samskxtada padagaLalli baLakeyAguvudilla.
 
 idallade, yAva svara mattu vyanjanagaLa sErikeyinda ondu pada mattu adara
-padarUpagaLu siddhavAguttave embudU bhASeyinda bhASege bEre bEreyAgiruttade.
+padarUpagaLu siddhavAguttave embudU bhASheyinda bhAShege bEre bEreyAgiruttade.
 udAharaNegAgi "hattu' emba artha koDuva pada haLegannaDadalli pattu embudAgi
 pakAra-akAra-takAra-ukAragaLa sErikeyinda tayArAgideyAdare, samskxtadalli
 daSa embudAgi dakAra-akAra-SakAra-akAragaLa sErikeyinda tayArAgide.
 
-I rIti, eraDu bhASegaLa naDuve padagaLa racaneyalli yAva svara mattu
-vyanjanagaLu hEge baLakeyAguttave emba viSayadalli vyatyAsagaLu kANisikoLLuttave
+I rIti, eraDu bhAShegaLa naDuve padagaLa racaneyalli yAva svara mattu
+vyanjanagaLu hEge baLakeyAguttave emba viShayadalli vyatyAsagaLu kANisikoLLuttave
 mAtravalla, antaha padagaLa mUlaka hosa hosa padagaLannu hEge tayArisalAguttade
-emba viSayadallU vyatyAsagaLu kANisikoLLuttave. idakkAgi baLakeyAguva pratyayagaLu
+emba viShayadallU vyatyAsagaLu kANisikoLLuttave. idakkAgi baLakeyAguva pratyayagaLu
 bEre bEreyAgiruttave mattu A pratyayagaLannu baLasi padagaLannu tayArisuva vidhAnagaLU
 
 bEre bEreyAgiruttave. idallade, eraDu athavA heccu padagaLannu oTTu sErisi
-jODupada (samastapada)gaLannu tayArisuva vidhAnagaLU I bhASegaLalli bEre
+jODupada (samastapada)gaLannu tayArisuva vidhAnagaLU I bhAShegaLalli bEre
 bEreyAgiruttave.
 
 udAharaNegAgi, kriyApadagaLinda nAmapadagaLannu tayArisuvudakkAgi
 haLegannaDadalli ke(ge), e, al‌ modalAda kelavu pratyayagaLannu baLesalAgutta de
 (agal‌-agalke, El‌‌-ETakke, uDu-uDe, bIT‌‌-bITal‌ ityAdi). Adare,
 samskxtadalli ivakkinta bhinnavAgiruva ana, man‌, tra, tx. ita ya, modalAda
-pratyayagaLannu baLasalAgutta de (vac‌-vacana, kx-karman‌, vas‌ -vastra » dA-dAtx,
-puSpa-puSTita, daridra-dAridra ta ityAdi).
+pratyayagaLannu baLasalAgutta de (vac‌-vacana, kx-karman‌, vas‌ -vastra , dA-dAtx,
+puShpa-puShTita, daridra-dAridra ta ityAdi).
 
 idallade, haLegannaDadalli intaha pratyayagaLannu padagaLa koneyalli mAtra
 sErisalu sAdhya; Adare, samskxtadalli avannu padagaLa AdiyallU sErisalu sAdhyavide.
@@ -221,38 +222,38 @@ embavugaLalli pra, a, vi mattu sva pratyayagaLu padagaLa Adiyalli sEriruvudannu
 kANabahudu.
 
 eraDu athavA jAsti padagaLannu oTTu sErisi hosa padagaLannu tayArisuva
-vidhAnagaLU I eraDu bhASegaLalli bEre bEreyAgive, mattu I rIti padagaLige
+vidhAnagaLU I eraDu bhAShegaLalli bEre bEreyAgive, mattu I rIti padagaLige
 pratyayagaLannu illavE bEre padagaLannu sErisi hosa padagaLannu tayArisuvAga
-avugaLalli naDeyuva sErikeya (sandhiya) badalAvaNegaLU I eraDu bhASegaLalli
+avugaLalli naDeyuva sErikeya (sandhiya) badalAvaNegaLU I eraDu bhAShegaLalli
 bEre bEreyAgive.
 
 udAharaNegAgi, ikAradalli konegoLLuva ondu padakke ikAradalli suruvAguva
 bErondu pada sEridAga, samskxtadalli averaDu svaragaLa badalu dIrthasvara (udda
 IkAra) baruttade (kavi*indra-kavIndra, asti*iha-astIha). Adare, haLegannaDadalli
 ondu ikAra biddu hOgi innondu hAgeyE uLiyuttade (illi -iral‌-illiral‌,
-Agi6ire-TaAgire).
+Agi೬ire-TaAgire).
 
-padagaLannu baLasi vAkyagaLannu tayArisuva bage hEge emba viSayadallU
-bhASegaLa naDuve vyatyAsagaLu kANisuttave. haLegannaDada padagaLannu kelavu sandarbhagaLalli
+padagaLannu baLasi vAkyagaLannu tayArisuva bage hEge emba viShayadallU
+bhAShegaLa naDuve vyatyAsagaLu kANisuttave. haLegannaDada padagaLannu kelavu sandarbhagaLalli
 hAgeyE vAkyagaLalli baLasabahudu, mattu bEre kelavu sandarbhagaLalli avakke pratyayagaLannu
 sErisuvudara mUlaka "padarUpa'gaLannu tayArisi baLasabahudu. idallade, bEre
 kelavu sandarbhagaLalli eraDu athavA heccu padagaLannu oTTu sErisi "padakante'gaLannu
 illavE "kUDupada'gaLannu tayArisabahudu.
 
 samskxtadalli avyayagaLannu biTTare uLida yAva pada(Sabda)vannU hAgeyE
-vAkyadalli baLasalu sAdhyavAgadu. avugaLondige kelavu viSiSTavAda pratyayagaLannu
+vAkyadalli baLasalu sAdhyavAgadu. avugaLondige kelavu viSiShTavAda pratyayagaLannu
 ("subanta' illavE "tijanta' pratyayagaLannu) sErisiyE avannu baLasabEkAguttade.
 Adare, haLegannaDadalli nAmapadagaLannu illavE kriyApadagaLannu yAva pratyayada
-sahAyavU illade vAkyagaLalli baLasalu sAdhyavide (8.2 nODi).
+sahAyavU illade vAkyagaLalli baLasalu sAdhyavide (೮.೨ nODi).
 
-— g‌ i7La 1 2 e i‌ iga id‌
+— g‌ i7La 1 ೨ e i‌ iga id‌
 idallade, intaha pratyayagaLa sankhye mattu svarUpagaLU samskxta mattu
 
 haLegannaDagaLalli bEre bEreyAgive. padakante mattu kUDu padagaLa tayArikeyallU
-I eraDu bhASegaLa naDuve halavu rItiya vyatyAsagaLannu kANabahudu.
+I eraDu bhAShegaLa naDuve halavu rItiya vyatyAsagaLannu kANabahudu.
 
 haLegannaDada granthagaLalli halavAru padagaLannu samskxtadinda eravalAgi paDedu
-baLasalAgiddu, idarindAgi I eraDu bhASegaLalli baLakeyAguva vAkyagaLa naDuve
+baLasalAgiddu, idarindAgi I eraDu bhAShegaLalli baLakeyAguva vAkyagaLa naDuve
 kelavu sAmyagaLannu kANabahudu.
 
 Adare, I rIti haLegannaDakke eravalAgi bandiruva padagaLigU haLegannaDadavE
@@ -266,7 +267,7 @@ aSvangaL‌, aSvangaLam, aSvakke modalAda padarUpagaLannu racisikoLLabEkalla de 
 aSvAH, aSvAn‌, aSvAya modalAda padarUpagaLannu hAgeyE baLasalu sAdhyavAgadu.
 
 hAgAgi, intaha eravalAgi banda samskxta padagaLa baLakeyallU haLegannaDa
-mattu samskxta bhASegaLa naDuve vyAkaraNa niyamagaLalli halavu vyatyAsagaLannu kANabahudu.
+mattu samskxta bhAShegaLa naDuve vyAkaraNa niyamagaLalli halavu vyatyAsagaLannu kANabahudu.
 
 I ellA kAraNagaLindAgi, haLegannaDadalli baLakeyAguva pada, padarUpa,
 padakante mattu vAkyagaLa svarUpavannu varNisabEkAgiruva haLegannaDa vyAkaraNagaLu
@@ -278,34 +279,34 @@ samAdhAnakaravAda haLegannaDa vyAkaraNavAgalAradu.
 
 <a id="sec-1-2"></a>
 
-## 1.2 eraDu rItiya vyAkaraNagaLu
+## ೧.೨ eraDu rItiya vyAkaraNagaLu
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-1-2) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-1--introduction)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-1--introduction) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-1-2)
 
 
 "vyAkaraNa' emba padavannu "arivige eTakada niyamAvaLi' mattu "arivige
 eTakuva niyamAvaLi' embudAgi eraDu arthagaLalli baLasalu sAdhyavide. ivugaLalli
-modalaneya arthaviruva "vyAkaraNa'vannu bhASeyannu baLasuvavarella rUtiLidiruttAre
-mattu intaha vyAkaraNagaLu ellA bhASegaLigU iddE iruttave.
+modalaneya arthaviruva "vyAkaraNa'vannu bhASheyannu baLasuvavarella rUtiLidiruttAre
+mattu intaha vyAkaraNagaLu ellA bhAShegaLigU iddE iruttave.
 
 arivige eTakada niyamAvaLiyannu arivige eTakuvante mADuvudakkAgi vidvAmsaru
-vyAkaraNa granthagaLannu racisuttAre. I granthagaLalli ondu bhASeya pada, padarUpa,
+vyAkaraNa granthagaLannu racisuttAre. I granthagaLalli ondu bhASheya pada, padarUpa,
 vAkya modalAdavugaLa tayArikeyalli entaha niyamagaLannella baLasabEkAguttade
 embudannu vivarisi hELalAguttade. ivu mEle sUcisiruva eraDaneya arthada
-vyAkaraNagaLu. intaha vyAkaraNa granthagaLannu sadyakke kelavE kelavu bhASegaLige mAtra
+vyAkaraNagaLu. intaha vyAkaraNa granthagaLannu sadyakke kelavE kelavu bhAShegaLige mAtra
 bareyalu sAdhyavAgide.
 
-mEle sUcisida hAge, pratiyondu bhASegU adannu baLasuva janara arivige
-eTakadantaha ondu "vyAkaraNa' iddE iruttade embudannu keLagina viSayadinda
+mEle sUcisida hAge, pratiyondu bhAShegU adannu baLasuva janara arivige
+eTakadantaha ondu "vyAkaraNa' iddE iruttade embudannu keLagina viShayadinda
 
-Uhisabahudu: ondu bhASeyannu baLasuvavarellarU adaralli vAkyagaLannu
+Uhisabahudu: ondu bhASheyannu baLasuvavarellarU adaralli vAkyagaLannu
 racisuvudakkAgi, mattu bEreyavaru racisida vAkyagaLannu arthamADikoLLuvudakkAgi
 kelavu niyamagaLannu tiLidukonDirabEkAguttade. bEre bEre rItiya padagaLige bEre
 bEre rItiya padarUpagaLiddu, ivannu tayArisuvudu hEge mattu vAkyagaLalli
 baLasuvudu hEge embudannU avarellarU sariyAgiyE tiLidukonDirabEkAguttade.
 
 Adare, I tiLuvaLike avara miduLinalli arivige eTakada rUpadalliruttade,
-mattu adara baLakeyU arivige eTakada rUpadallE naDeyuttiruttade. tamma bhASege
+mattu adara baLakeyU arivige eTakada rUpadallE naDeyuttiruttade. tamma bhAShege
 sambandhisida I vAkyaracaneya niyamagaLannu avaru sandarbhakke takkante
 baLasikoLLaballarEnO nija; Adare, avugaLa nijavAda svarUpa, mattu avannu yAvAga
 elli mattu hEge baLasikoLLabEku emba sangati avara miduLinalli I rIti arivige
@@ -329,39 +330,39 @@ avara miduLinalli I niyamagaLu arivige eTakada rUpadalliruvudE idakke kAraNa.
 sambandhavannu sUcisuva a pratyayada baLakeyalli baruva niyamagaLalli mukhyavAda
 kelavannu keLage koDalAgide.
 
-(1) padagaLu ukAradalli konegoLLutti veyAdare, I pratyayadondige in‌
+(೧) padagaLu ukAradalli konegoLLutti veyAdare, I pratyayadondige in‌
 embudu sErikoLLuttade, mattu padagaLa koneya ukAra bidduhOguttade (kADu-
 kADina, haNNu-haNNina, tengu-tengina, kUdalu-kUdalina).
 
-(2) intaha ukAradalli konegoLLuva padagaLalli eraDu akbaragaLu mAtra iddu
+(೨) intaha ukAradalli konegoLLuva padagaLalli eraDu akbaragaLu mAtra iddu
 averaDU laghuvAgiddalli, padagaLa koneya ukAra biddu hOguvudilla; adakke
 badalu, in‌ embudara modalu vakAravondu sErikoLLuttade (magu-maguvina,
 hasu-hasuvina).
 
-(3) padagaLa koneya ukAra "manuSyEtara' emba artha koDuva du pratyayada
+(೩) padagaLa koneya ukAra "manuShyEtara' emba artha koDuva du pratyayada
 bhAgavAgideyAdalli, in‌ embudara badalu r‌ embudu baruttade (nammadu-
-nammadara, keTTadu-keTTadara, aSTu-aSTara, ondu-ondara).
+nammadara, keTTadu-keTTadara, aShTu-aShTara, ondu-ondara).
 
-(4) hengasarannu sUcisuva Lu pratyayadalli illavE bahuvacanavannu sUcisuva
+(೪) hengasarannu sUcisuva Lu pratyayadalli illavE bahuvacanavannu sUcisuva
 ru illavE gaLu pratyayadalli konegoLLuva padagaLondige bandAga, A padagaLa
 koneyalliruva ukAra biddu hOguttade, Adare in‌ embudu sEruvudilla; a
 pratyayavE nEravAgi sEruttade (avaLu-avaLa, huDugaru-huDugara, janaru-janara,
 maragaLu-maragaLa).
 
-(5) padagaLu ikAra illavE ekAradalli konegoLLuttiveyAdare, a
+(೫) padagaLu ikAra illavE ekAradalli konegoLLuttiveyAdare, a
 pratyayadondige yakAra sErikoLLuttade (guDi-guDiya, rOgi-rOgiya, mane-
 maneya, haTTi-haTTiya, kAge-kAgeya).
 
-(6) padagaLu akAradalli konegoLLutti ddu (ka) manuSyarannu sUcisuttiveyAdare
+(೬) padagaLu akAradalli konegoLLutti ddu (ka) manuShyarannu sUcisuttiveyAdare
 nakAravU (aNNa -aNNa na, akka-akkana), mattu (kha) itara sandarbhagaLalli dakAravU
 (mara-marada, hagga-haggada) I pratyayadondige sErikoLLuttave. garuDa, kONa
-modalAda bEre kelavu akAradalli konegoLLuva padagaLu manuSyarannu sUcisadiddarU
+modalAda bEre kelavu akAradalli konegoLLuva padagaLu manuShyarannu sUcisadiddarU
 nakAradondige baruttiddu, I niyamakke apavAdagaLAgive.
 
-kannaDa bhASeyannu baLasuvavarellarU mEle koTTiruva a pratyayada niyamagaLannu
+kannaDa bhASheyannu baLasuvavarellarU mEle koTTiruva a pratyayada niyamagaLannu
 tiLidiralEbEku. yAkendare avarellarU I pratyayavannu sariyAgiyE baLasaballaru.
-eraDUvare mUru varSada cikka maguvU idannu sariyAgiyE baLasaballudu. I
-niyamagaLannu mattu avannu baLasuva kramavannu ivarellarU bhASeyannu kalitukoLLuva
+eraDUvare mUru varShada cikka maguvU idannu sariyAgiyE baLasaballudu. I
+niyamagaLannu mattu avannu baLasuva kramavannu ivarellarU bhASheyannu kalitukoLLuva
 samayadallEnE paDediruttAre. Adare, ivu avara miduLinalli arivige eTakada
 rUpadalli mAtravE sangrahitavAgiruttave.
 
@@ -371,12 +372,12 @@ mattu avara mAtinalli a pratyaya bEre bEre rItiya nAmapadagaLondige baruvAga
 avugaLalli yAva yAva rItiya badalAvaNegaLella naDeyuttave embudannu kanDuhiDidu,
 mEle sUcisida hAge paTTimADabEku.
 
-intaha bhASege sambandhisida niyamagaLannu mAtravalla de, namma dEhakke sambandhisida
+intaha bhAShege sambandhisida niyamagaLannu mAtravalla de, namma dEhakke sambandhisida
 bEreyU halavu niyamagaLannu nAvu I rIti arivige eTakada rUpadalli paDediruttEve.
 udAharaNegAgi, nAvu namma kayyannu mEle illavE keLage, Ace illavE Ice
 bAgisi, bEre bEre rItiya kelasagaLannu naDesaballevu. idakkAgi nAvu namma miduLininda
-kaygaLalliruva snAyugaLige avu yAvAga mattu eSTu kuggabEku illavE higgabEku
-embudannu spaSTavAgi sUcisaballa sankEtagaLannu kaLuhisabEku.
+kaygaLalliruva snAyugaLige avu yAvAga mattu eShTu kuggabEku illavE higgabEku
+embudannu spaShTavAgi sUcisaballa sankEtagaLannu kaLuhisabEku.
 
 endare, kayyannu bEre bEre rItiyalli bAgisabEkidda lli, adakke sambandhisida
 snAyugaLa higguvike mattu kugguvikege sambandhisidante halavAru "niyama'gaLannu
@@ -394,46 +395,46 @@ naragaLa mUlaka A snAyugaLannu talapabEku embudannu samSOdhanegaLa mUlaka
 kanDuhiDidiruva vijYA; nigaLalli mattu avaru barediruva granthagaLannu Odi tiLidukonDiruva
 vidvAmsaralli mAtra I niyamagaLu arivige eTakuva rUpadalliruttave.
 
-idE rItiyalli, mEle sUcisida hAge ellA bhASegaLigU avannu baLasuva
+idE rItiyalli, mEle sUcisida hAge ellA bhAShegaLigU avannu baLasuva
 janaralli arivige eTakadantaha rUpadalliruva "vyAkaraNa'gaLu illavE niyamAvaLigaLu
 iddE tIrabEku. avu entahavu embudannu kanDuhiDidu, avannu arivige eTakuva
-rUpakke taruva kelasavannu mAtra bhASegaLa mEle vyAkaraNagaLannu bareyuva
+rUpakke taruva kelasavannu mAtra bhAShegaLa mEle vyAkaraNagaLannu bareyuva
 vayyAkaraNigaLu naDesuttAre.
 
-arivige eTakada vyAkaraNa tappAgiralu sAdhyavilla. yAkendare, ondu bhASe
+arivige eTakada vyAkaraNa tappAgiralu sAdhyavilla. yAkendare, ondu bhAShe
 entahadu embudu adannADuva janara miduLinalli entaha niyamAvaLi sidda vAgide
 embudannu avalambiside.
 
 Adare, adannu arivige eTakuvante mADuva viddA rimsanobbana kelasa sariyAgiyU
-iraballudu, sariyAgilladeyU iraballudu. A bhASeyalli baruva pada, padarUpa,
+iraballudu, sariyAgilladeyU iraballudu. A bhASheyalli baruva pada, padarUpa,
 padakante mattu vAkyagaLannu sariyAgi vivarisalu SaktavAgideyAdalli mAtra Ata
-siddhapaDisiruva arivige eTakuva niyamAvaLi (endare A bhASeya mEle Ata racisiruva
+siddhapaDisiruva arivige eTakuva niyamAvaLi (endare A bhASheya mEle Ata racisiruva
 "vyAkaraNa') sariyAdudendu hELalu sAdhya.
 
 
 <a id="sec-1-3"></a>
 
-## 1.3 haLegannaDada vyAkaraNa
+## ೧.೩ haLegannaDada vyAkaraNa
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-1-3) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-1--introduction)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-1--introduction) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-1-3)
 
 
 haLegannaDadalli pada, padarUpa, padakante mattu vAkyagaLannu racisabEkAdalli
 entaha niyamagaLannu baLasabEkAguttade embudannu haLegannaDada vyAkaraNa vivarisi
-hELabEku. Adare intaha niyamagaLannu yArU hosadAgi sxSTisabEkAgilla embudannu
+hELabEku. Adare intaha niyamagaLannu yArU hosadAgi sxShTisabEkAgilla embudannu
 illi gamanisuvudu avaSya. haLegannaDavannu sariyAgi baLasaballavarellarU adakke
-bEkAguva vyAkaraNa niyamagaLannu arivige eTakada rUpadalli A bhASeyannu
+bEkAguva vyAkaraNa niyamagaLannu arivige eTakada rUpadalli A bhASheyannu
 kalitukoLLuvAgalEnE paDediruttAre.
 
-endare, haLegannaDada vyAkaraNa niyamagaLella A bhASe baLakeyAguva
+endare, haLegannaDada vyAkaraNa niyamagaLella A bhAShe baLakeyAguva
 sandarbhadallEnE baLakege bandiruttave. hAgAgi, haLegannaDa vyAkaraNavannu bareyuvavaru
 mADabEkAgiruva kelasavEnendare, arivige eTakada rUpadalliruva I vyAkaraNa
 niyamagaLannu arivige eTakuva rUpakke tandukoDuvudu mAtra.
 
 I vyAkaraNa niyamagaLu entahavu? ivannu kanDuhiDiyuvalli haLegannaDada
-vyAkaraNagaLu eSTara maTTige yaSasviyAgive embudannu pariSIlisuvudE I pustakada
+vyAkaraNagaLu eShTara maTTige yaSasviyAgive embudannu pariSIlisuvudE I pustakada
 
-mukhya uddESa. I viSayadalli haLegannaDa vyAkaraNavannu barediruvavarellarU ondu
+mukhya uddESa. I viShayadalli haLegannaDa vyAkaraNavannu barediruvavarellarU ondu
 doDDa tappu mADiddA re.
 
 nEravAgi haLegannaDada vyAkaraNa niyamagaLu entahavu embudannu haLegannaDada
@@ -443,67 +444,67 @@ mUlaka kanDuhiDiyalu prayatnisuva badalu, ivarella AgalE siddhavAgiruva samskxta
 mattu idarindAgi, ivaru barediruva haLegannaDa vyAkaraNagaLella anavaSyakavAgi bahaLa
 toDaku toDakinadAgive, mattu halaveDegaLalli tappu tappAgive.
 
-samskxtada vyAkaraNa samskxta bhASeya pada, padarUpa mattu vAkyagaLannu
+samskxtada vyAkaraNa samskxta bhASheya pada, padarUpa mattu vAkyagaLannu
 racisabEkidda lli entaha niyamagaLannu pAlisabEku embudannu sariyAgiyE
 vivarisuttirabahudu. Adare haLegannaDada pada, padarUpa mattu vAkyagaLu samskxtada
-pada, padarUpa mattu vAkyagaLiginta bahaLaSTu bhinnavAgiveyAda kAraNa, A niyamagaLannu
-hAgeyE haLegannaDakke aLavaDisalu sAdhyavAgadu. I eraDu bhASegaLu eraDu tIra
+pada, padarUpa mattu vAkyagaLiginta bahaLaShTu bhinnavAgiveyAda kAraNa, A niyamagaLannu
+hAgeyE haLegannaDakke aLavaDisalu sAdhyavAgadu. I eraDu bhAShegaLu eraDu tIra
 bhinnavAda mUlagaLinda beLedu bandiddu, ivu baLasuva niyamAvaLigaLa naDuve
 halavu mUlabhUtavAda vyatyAsagaLive.
 
-prapancada bhASegaLalli heccinavannU inDO-yurOpiyan‌, TibeTO-
+prapancada bhAShegaLalli heccinavannU inDO-yurOpiyan‌, TibeTO-
 barman‌, AphrO-ESiyATik‌, AsTrik‌, inDO-pesiphik‌ modalAda hadinaydippattu
-bhASAkuTumbagaLalli vingaDisi hELalu sAdhya embudAgi bhASAvijYAnigaLu
-abhiprAyapaTTiddAre (bhaT‌ 2002:153 nODi). endare, prapancada bhASegaLalli
+bhAShAkuTumbagaLalli vingaDisi hELalu sAdhya embudAgi bhAShAvijYAnigaLu
+abhiprAyapaTTiddAre (bhaT‌ ೨೦೦೨:೧೫೩ nODi). endare, prapancada bhAShegaLalli
 hecci navU I hadinaydippattu mUlagaLinda beLedu bandavugaLu, mattu hAge beLedu
-baruvAga kavalu kavalugaLAgi oDedu ivattina aydAru sAvira bhASegaLAgi siddha vAdavugaLu
+baruvAga kavalu kavalugaLAgi oDedu ivattina aydAru sAvira bhAShegaLAgi siddha vAdavugaLu
 embudu I vidvAmsara abhiprAyavAgide.
 
-ondu bhASeyu baLasuva vyAkaraNada mUlatatvagaLalli hecci navannU A bhASe
-adu yAva bhASAkuTumbakke sErideyO A kuTumbada mUlabhASeyinda
-AnuvamSikavAgi paDediruttade. kannaDa mattu samskxta bhASegaLu bEre bEre
-bhASAkuTumbagaLige sEriruva bhASegaLu; samskxta bhASe inDO-yurOpiyan‌
-bhASAkuTumbakke sErideyAdare, kannaDa bhASe drAviDa bhASAkuTumbakke sEride; iveraDu
-ondakkinta ondu tIra bhinnavAgiruva bhASAkuTumbagaLu.
+ondu bhASheyu baLasuva vyAkaraNada mUlatatvagaLalli hecci navannU A bhAShe
+adu yAva bhAShAkuTumbakke sErideyO A kuTumbada mUlabhASheyinda
+AnuvamSikavAgi paDediruttade. kannaDa mattu samskxta bhAShegaLu bEre bEre
+bhAShAkuTumbagaLige sEriruva bhAShegaLu; samskxta bhAShe inDO-yurOpiyan‌
+bhAShAkuTumbakke sErideyAdare, kannaDa bhAShe drAviDa bhAShAkuTumbakke sEride; iveraDu
+ondakkinta ondu tIra bhinnavAgiruva bhAShAkuTumbagaLu.
 
-samskxta bhASeyalli baLakeyAguva vyAkaraNada mUlatatvagaLalli hecci navannU
-adu inDO-yurOpiyan‌ mUlabhASeyinda AnuvamSikavAgi paDedide mattu
-kannaDa bhASeyalli baLakeyAguva vyAkaraNada mUlatattagaLalli heccinavannU adu
-drAviDa mUlabhASeyinda AnuvamSikavAgi paDedide. I eraDu mUlabhASegaLu
-ondakkinta ondu tIra bhinnavAgidduvAda kAraNa, avugaLinda I bhASegaLu paDediruva
+samskxta bhASheyalli baLakeyAguva vyAkaraNada mUlatatvagaLalli hecci navannU
+adu inDO-yurOpiyan‌ mUlabhASheyinda AnuvamSikavAgi paDedide mattu
+kannaDa bhASheyalli baLakeyAguva vyAkaraNada mUlatattagaLalli heccinavannU adu
+drAviDa mUlabhASheyinda AnuvamSikavAgi paDedide. I eraDu mUlabhAShegaLu
+ondakkinta ondu tIra bhinnavAgidduvAda kAraNa, avugaLinda I bhAShegaLu paDediruva
 vyAkaraNada mUlatattagaLU ondakkinta ondu tIra bhinnavAgive.
 
-pratiyondu bhASeyallU I mUlatattagaLa baLake sAvirAru varSagaLaSTu
+pratiyondu bhASheyallU I mUlatattagaLa baLake sAvirAru varShagaLaShTu
 
-dIrphavAda avadhiyalli naDediruttade, mattu I avadhiyalli A bhASeyannADuva
+dIrphavAda avadhiyalli naDediruttade, mattu I avadhiyalli A bhASheyannADuva
 janaru bEre bEre rItiya samasyegaLannu edurisabEkAgiddu, avannu pariharisuvudakkAgi
-tamma bhASeyalli halavAru rItiya badalAvaNegaLannu mADikoLLuttA irabEkAguttade.
+tamma bhASheyalli halavAru rItiya badalAvaNegaLannu mADikoLLuttA irabEkAguttade.
 
-intaha badalAvaNegaLalli kelavu A bhASeya mUlatatvagaLa mElU pariNAmavannu
-bIralu sAdhyavide. mUlabhASeyinda beLedu baruvantaha I sAvirAru varSagaLa
-avadhiyalli naDeyuva badalAvaNegaLE ondE kuTumbakke sErida bhASegaLa naDuve
+intaha badalAvaNegaLalli kelavu A bhASheya mUlatatvagaLa mElU pariNAmavannu
+bIralu sAdhyavide. mUlabhASheyinda beLedu baruvantaha I sAvirAru varShagaLa
+avadhiyalli naDeyuva badalAvaNegaLE ondE kuTumbakke sErida bhAShegaLa naDuve
 kANisuva vyatyAsagaLige mUla kAraNa.
 
-udAharaNegAgi, samskxta bhASegU lyATan‌, grIk‌, parSiyan‌, ingliS‌
-modalAda itara inDO-yurOpiyan‌ bhASegaLigU naDuve kANisuva vyatyAsagaLige
-avu tamma mUlabhASeyinda AnuvamSikavAgi paDediruva vyAkaraNada mUlatatvagaLalli
+udAharaNegAgi, samskxta bhAShegU lyATan‌, grIk‌, parSiyan‌, ingliSh‌
+modalAda itara inDO-yurOpiyan‌ bhAShegaLigU naDuve kANisuva vyatyAsagaLige
+avu tamma mUlabhASheyinda AnuvamSikavAgi paDediruva vyAkaraNada mUlatatvagaLalli
 mattu itara vyAkaraNa niyamagaLalli I rIti badalAvaNegaLannu mADikonDiruvudE
 mukhya kAraNa.
 
-idE rItiyalli kannaDa bhASegU tamiLu, malayALa, telugu, tuLu modalAda
-itara drAviDa bhASegaLigU naDuve kANisuva vyatyAsagaLige avu tamma mUla bhASeyinda
+idE rItiyalli kannaDa bhAShegU tamiLu, malayALa, telugu, tuLu modalAda
+itara drAviDa bhAShegaLigU naDuve kANisuva vyatyAsagaLige avu tamma mUla bhASheyinda
 AnuvamSikavAgi paDeda vyAkaraNada mUlatatvagaLalli mattu vyAkaraNa niyamagaLalli
 halavAru badalAvaNegaLannu mADikonDiruvudE mukhya kAraNa.
 
-ellA bhASegaLU tamma samparkakke baruva itara bhASegaLinda padagaLannu eravalAgi
-paDeyuttiruttave. hIge samparkakke baruva bhASegaLu ondE bhASAkuTumbakke
-sEridavugaLirabahudu, illavE bEre bEre bhASAkuTumbagaLige sEridavugaLirabahudu.
+ellA bhAShegaLU tamma samparkakke baruva itara bhAShegaLinda padagaLannu eravalAgi
+paDeyuttiruttave. hIge samparkakke baruva bhAShegaLu ondE bhAShAkuTumbakke
+sEridavugaLirabahudu, illavE bEre bEre bhAShAkuTumbagaLige sEridavugaLirabahudu.
 Adare, I rIti eravalAgi baruva padagaLella sAmAnyavAgi avannu paDediruva
-bhASeya vyAkaraNa niyamagaLiganusAravAgi badalAgadiruvudilla.
+bhASheya vyAkaraNa niyamagaLiganusAravAgi badalAgadiruvudilla.
 
-haLegannaDada kAladallEnE kannaDa bhASe samskxtadinda sAkaSTu padagaLannu eravalAgi
+haLegannaDada kAladallEnE kannaDa bhAShe samskxtadinda sAkaShTu padagaLannu eravalAgi
 paDedukonDide. Adare I padagaLalli heccinavU kannaDa vyAkaraNada mUlatatvagaLige
-hondikeyAguvante badalAvaNegaLigoLagAgi "tadbhava'gaLenisive (SrI-siri, varSa-
+hondikeyAguvante badalAvaNegaLigoLagAgi "tadbhava'gaLenisive (SrI-siri, varSha-
 barisa, akbara-akkara, nitya-nicca ityAdi). idallade, hAge badalAgade uLidiruva
 samskxta padagaLU kannaDa vAkyagaLalli baLakeyAgabEkiddalli kannaDadavE Ada vyAkaraNa
 niyamagaLige oLapaDabEkAguttade.
@@ -512,35 +513,35 @@ udAharaNegAgi, samskxtadinda kannaDakke kriyApadagaLu eravalAgi bandiveyAdare,
 avu tatsamagaLAgirali illavE tada vavagaLAgirali, avannu nEravAgi kannaDa vAkyagaLalli
 kriyApadagaLAgi baLasalu sAdhyavAgadu. avakke isu pratyayavannu sErisuvudara mUlaka
 avannu kannaDadavannAgi mADida mElEnE kannaDa vAkyagaLalli avannu kriyApadagaLAgi
-baLasalu sAdhya (naTisu-naTisuttAne, rakSisu-rakSisida, AlOcisu-AlOcisiddEne
+baLasalu sAdhya (naTisu-naTisuttAne, rakShisu-rakShisida, AlOcisu-AlOcisiddEne
 ityAdi).
 
 samskxtada nAmapadagaLannu kannaDadalli hAgeyE baLasaballevEnO nija; Adare
 avakke kannaDadavE Ada vacana mattu vibhakti pratyayagaLannu sErisabEkAguttade
 
 (samskxtiyannu, samskxtiyinda, samskxtige, kxtigaLu ityAdi). hIge, samskxtadinda
-banda I ellA eravalugaLa naDuveyU kannaDa bhASe vyAkaraNada maTTige tanna
+banda I ellA eravalugaLa naDuveyU kannaDa bhAShe vyAkaraNada maTTige tanna
 svantikeyannu uLisikonDide.
 
 hindina kAladalli prAkxta, pAli, apabhramSa modalAdavugaLa hAge kannaDavU
 samskxtada ondu "vikxta' rUpavemba abhiprAya vidvAmsarallittu. Adare, I abhiprAya
 tappu, kannaDa samskxtakkinta tIra bhinnavAgiruva drAviDa mUladinda beLedu bandiruva
-bhASe embudannu hattombattanE SatamAnadalli kAlD‌vel‌ (kAlD‌vel‌ 1856)
+bhAShe embudannu hattombattanE SatamAnadalli kAlD‌vel‌ (kAlD‌vel‌ ೧೮೫೬)
 tOrisikoTTidda ru.
 
-anantara naDeda bhASAbhyAsagaLu, adarallU emenO mattu barO racisida
-drAviDa jYAtipadakOSa (emenO mattu barO 1961), mattu kxSNamUrti
-ittIcege prakaTisida drAviDa bhASegaLa tavlanika adhyayana (kxSNamUrti 2003) I
-viSayavannu innaSTu spaSTavAgisive.
+anantara naDeda bhAShAbhyAsagaLu, adarallU emenO mattu barO racisida
+drAviDa jYAtipadakOSa (emenO mattu barO ೧೯೬೧), mattu kxShNamUrti
+ittIcege prakaTisida drAviDa bhAShegaLa tavlanika adhyayana (kxShNamUrti ೨೦೦೩) I
+viShayavannu innaShTu spaShTavAgisive.
 
 haLegannaDadalli granthagaLannu racisiruvavarella samskxtadinda dhArALavAgi padagaLannu
 eravalu paDedukonDiddA re. ivugaLalli kelavu samskxtadalliruvanteyE iveyAdare,
 innu kelavu halavu rItiya badalAvaNegaLa mUlaka kannaDatanavannu paDedive. kannaDa
-bhASe samskxtada vikxta rUpavemba abhiprAya mUDibaralu haLegannaDa granthagaLalli
+bhAShe samskxtada vikxta rUpavemba abhiprAya mUDibaralu haLegannaDa granthagaLalli
 intaha eravalAgi banda samskxta padagaLu jAstiyiruvudU ondu kAraNavirabahudu.
 
 Adare, haLegannaDada I granthagaLalli kannaDadavE Ada (endare drAviDa mUladinda
-banda) padagaLU sAkaSTu kANisikoLLutta ve. idallade, mEle sUcisida hAge, samskxtadinda
+banda) padagaLU sAkaShTu kANisikoLLutta ve. idallade, mEle sUcisida hAge, samskxtadinda
 eravalAgi banda padagaLannu kannaDa vAkyagaLalli baLasabEkiddA ga avakke kannaDadavE Ada
 padarUpagaLannu sAdhisikoDabEkAguttade. I padarUpagaLannu baLasi vAkyagaLannu
 tayArisabEkAdAgalU, adakkAgi kannaDada vAkyaracaneya niyamagaLannu
@@ -555,43 +556,43 @@ samskxtadinda eravalAgi bandiruva padagaLu I sannivESadalli hEge
 hondikoLLutta ve embudannu anantara vivarisi hELabahudu. intaha padagaLu kelavu
 barahagaLalli jAstiyirabahudu, mattu bEre kelavu barahagaLalli kaDimeyirabahudu.
 udAharaNegAgi, AnDayyana barahagaLalli kannaDakke aLavaDisadiruva samskxta padagaLannu
-(endare tatsama padagaLannu) AdaSTu kaDime baLasalAgide. kannaDadavE Ada padagaLige
+(endare tatsama padagaLannu) AdaShTu kaDime baLasalAgide. kannaDadavE Ada padagaLige
 anvayisuva vyAkaraNa niyamagaLu I rIti eravalAgi bandiruva padagaLige hEge
 anvayisuttave embudannu pratyEkavAgi tiLidukoLLuva avaSyakateyide.
 
 
 <a id="sec-1-4"></a>
 
-## 1.4 siddhavAgiruva vyAkaraNagaLu
+## ೧.೪ siddhavAgiruva vyAkaraNagaLu
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-1-4) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-1--introduction)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-1--introduction) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-1-4)
 
 
 haLegannaDada mEle hindina kAladavaru racisida vyAkaraNagaLalli namage
-doretiruvavugaLu mukhyavAgi mUru. 11nE SatamAnadalli samskxta bhASeyalli
-racitavAgiruva nAgavarmana karNATaka bhASAbhUSaNa, 13nE SatamAnadalli kannaDadallEnE
-racitavAgiruva kESirAjana Sabda maNidarpaNa, mattu 17nE SatamAnada Adiyalli
+doretiruvavugaLu mukhyavAgi mUru. ೧೧nE SatamAnadalli samskxta bhASheyalli
+racitavAgiruva nAgavarmana karNATaka bhAShAbhUShaNa, ೧೩nE SatamAnadalli kannaDadallEnE
+racitavAgiruva kESirAjana Sabda maNidarpaNa, mattu ೧೭nE SatamAnada Adiyalli
 samskxtadalli racitavAgiruva bhaTTAkaLankana SabdAnuSAsana. nAgavarmanE barediruva
 kAvyAvalOkanavemba innondu granthadallU Sabdasmxti emba bhAgadalli haLegannaDa
-vyAkaraNavannu cuTukAgi vivarisalAgide (heccina vivaragaLige sItArAmayya 1979
+vyAkaraNavannu cuTukAgi vivarisalAgide (heccina vivaragaLige sItArAmayya ೧೯೭೯
 nODi).
 
 I mUru vyAkaraNagaLalli atyanta janapriyavAgiruva vyAkaraNavendare,
 haLegannaDadalli racitavAgiruva kESirAjana Sabda maNidarpaNa. idaralli vyAkaraNa
-niyamagaLannu cuTukAgi kandapadyagaLa mUlakavU, mattu heccu spaSTavAgi I padyagaLa
+niyamagaLannu cuTukAgi kandapadyagaLa mUlakavU, mattu heccu spaShTavAgi I padyagaLa
 anantara vxttirUpadalli baruva gadyagaLa mUlakavU tiLisalAgide. avu tiLisuva
 vyAkaraNa niyamagaLige udAharaNegaLannu itara kavigaLa prayOgagaLannu ettihELuvudara
 mUlaka allallE koDalAgide.
 
 prAcInavendu hELabahudAda I mUru vyAkaraNagaLallU samskxta vyAkaraNavannu
 mAdariyAgirisikonDu haLegannaDada vyAkaraNavannu vivarisi hELuva prayatna naDesalAgide.
-Adare, mEle vivarisida hAge, samskxta mattu kannaDa bhASegaLa naDuve vyAkaraNada
+Adare, mEle vivarisida hAge, samskxta mattu kannaDa bhAShegaLa naDuve vyAkaraNada
 mUlatatvagaLalle €nE halavu mukhyavAda vyatyAsagaLiveyAda kAraNa, kannaDa vyAkaraNavannu
-tayArisuva kelasakke samskxta vyAkaraNa aSTondu uttamavAda mAdariyalla.
+tayArisuva kelasakke samskxta vyAkaraNa aShTondu uttamavAda mAdariyalla.
 
 I mUru prAcIna vyAkaraNagaLa anantara, haLegannaDada mEle racitavAgiruva
 ondu oLLeya vyAkaraNavendare ippattaneya SatamAnada Adiyalli prakaTagonDiruva
-kiTTel‌ avara kannaDa vyAkaraNa (kiTTel‌ 1903). idu ingliS‌ bhASeyalliddu,
+kiTTel‌ avara kannaDa vyAkaraNa (kiTTel‌ ೧೯೦೩). idu ingliSh‌ bhASheyalliddu,
 haLegannaDada vyAkaraNaventahadu embudannu tiLisuvudu mAtravallade, adakkU mattu
 naDugannaDa-hosagannaDagaLigU naDuve entaha vyatyAsagaLella ive embudannU tiLisuttade.
 
@@ -600,56 +601,56 @@ vAgirisikoLLalAgide. hAgAgi, A vyAkaraNada halavu korategaLu idarallU sErikonDiv
 
 kannaDa vyAkaraNavannu yurOpina vyAkaraNagaLige hondisi hELuva prayatnavannU
 kiTTelaru I vyAkaraNadalli naDesiddA re. Adare, samskxta vyAkaraNada hAge yurOpina
-vyAkaraNagaLU grIk‌, lyATin‌ modalAda inDO-yurOpiyan‌ bhASAkuTumbakke
-sErida bhASegaLa niyamAvaLigaLannu varNisuttiveyAda kAraNa, mattu averaDaroLage
+vyAkaraNagaLU grIk‌, lyATin‌ modalAda inDO-yurOpiyan‌ bhAShAkuTumbakke
+sErida bhAShegaLa niyamAvaLigaLannu varNisuttiveyAda kAraNa, mattu averaDaroLage
 mUlabhUta vyatyAsagaLEnU illa; hAgAgi, haLegannaDada vyAkaraNa tattvagaLannu
 horageDahuvalli halaveDe I vyAkaraNavU sOtuhOgide.
 
-ittIcege haLegannaDavannu Adhunika bhASASAstrada dxSTikOnadinda pariSIlisuva
+ittIcege haLegannaDavannu Adhunika bhAShASAstrada dxShTikOnadinda pariSIlisuva
 kelavu prayatnagaLU naDedive. udAharaNegAgi, rAmacandra rAv‌ avara pampabhArata
 
-vyAkaraNa (rAmacandra rAv‌ 1972) intaha ondu prayatna. Adare illU haLegannaDavannu
-adaradE Ada oLaracaneya dxSTikOnadinda pariSIlisuva prayatna naDedilla.
+vyAkaraNa (rAmacandra rAv‌ ೧೯೭೨) intaha ondu prayatna. Adare illU haLegannaDavannu
+adaradE Ada oLaracaneya dxShTikOnadinda pariSIlisuva prayatna naDedilla.
 
-idakke kAraNavEnendare, Adhunika bhASASAstravU ingliS‌, phrenc‌, jarman‌,
-raSyan‌ modalAda inDO-yurOpiyan‌ bhASegaLa pariSIlaneya AdhArada mEle
-beLedubandide. adara mUlatatvagaLella heccu kaDime inDO-yurOpiyan‌ bhASegaLa
-mUlatatvagaLE. hAgAgi, I bhASegaLinda tIra bhinnavAgiruva bhASegaLige avannu
+idakke kAraNavEnendare, Adhunika bhAShASAstravU ingliSh‌, phrenc‌, jarman‌,
+raShyan‌ modalAda inDO-yurOpiyan‌ bhAShegaLa pariSIlaneya AdhArada mEle
+beLedubandide. adara mUlatatvagaLella heccu kaDime inDO-yurOpiyan‌ bhAShegaLa
+mUlatatvagaLE. hAgAgi, I bhAShegaLinda tIra bhinnavAgiruva bhAShegaLige avannu
 nEravAgi anvayisalu sAdhyavAguvudilla.
 
-inDO-yurOpiyan‌ bhASegaLinda tIra bhinnavAgiruva bhASegaLige
+inDO-yurOpiyan‌ bhAShegaLinda tIra bhinnavAgiruva bhAShegaLige
 vyAkaraNavannu sidda paDisalu prayatnisuvavarellarU I samasyeyannu edurisabEkAgide.
-avarige mAdariyAgi siguva vyAkaraNa inDO-yurOpiyan‌ bhASAkuTumbakke
-sEriruva samskxta, lyATin‌, ingliS‌ modalAdavugaLantaha yAvudAdarondu
-janapriya bhASeya vyAkaraNa; illa vE, antaha vyAkaraNada mUlatatvagaLannu hAgeyE
-baLasi tayArisida bErondu bhASeya vyAkaraNa. tAvu varNisuva bhASe ivakkinta
+avarige mAdariyAgi siguva vyAkaraNa inDO-yurOpiyan‌ bhAShAkuTumbakke
+sEriruva samskxta, lyATin‌, ingliSh‌ modalAdavugaLantaha yAvudAdarondu
+janapriya bhASheya vyAkaraNa; illa vE, antaha vyAkaraNada mUlatatvagaLannu hAgeyE
+baLasi tayArisida bErondu bhASheya vyAkaraNa. tAvu varNisuva bhAShe ivakkinta
 tIra bhinnavAda mUlatatvagaLannu baLasikoLLuttide embudannu kanDuhiDiyuvudE
 ivarige ondu doDDa samasyeyAgiruttade.
 
 heccinavarigU I samasyeyannu txptikaravAgi bageharisalu sAdhyavAguvudilla.
-hAgAgi, heccinavarU tAvu varNisuttiruva bhASege janapriya vyAkaraNavondara
+hAgAgi, heccinavarU tAvu varNisuttiruva bhAShege janapriya vyAkaraNavondara
 paDiyacca nnu mAtravE tayArisi koDalu SaktarAguttAre. kelavE kelavu vidvAmsaru
-mAtra, tAvu vivarisuva bhASeya vyAkaraNa mUlatatvagaLallEnE janapriya vyAkaraNagaLiginta
+mAtra, tAvu vivarisuva bhASheya vyAkaraNa mUlatatvagaLallEnE janapriya vyAkaraNagaLiginta
 bhinnavAgideyembudannu gamanisi, adannu bhinnavAgi vivarisi hELalu SaktarAgiruttAre.
 
 haLegannaDada mEle siddha vAgiruva vyAkaraNagaLella I mElina kAraNakkAgi
 asamarpakavAgive. nAgavarma, kESirAja, bhaTTAkaLanka modalAda hindina kAlada
-vidvAmsaru bareda vyAkaraNagaLella A samayadalli janapriyavAgidda samskxta bhASeya
+vidvAmsaru bareda vyAkaraNagaLella A samayadalli janapriyavAgidda samskxta bhASheya
 vyAkaraNagaLa paDiyaccu gaLAgive.
 
-ivugaLalli kESirAjana vyAkaraNa mAtra kelavu viSayagaLalli kannaDa mattu
-samskxta bhASegaLa naDuviruva vyatyAsagaLannu gamanisiruvudu kanDubaruttade. Adare
+ivugaLalli kESirAjana vyAkaraNa mAtra kelavu viShayagaLalli kannaDa mattu
+samskxta bhAShegaLa naDuviruva vyatyAsagaLannu gamanisiruvudu kanDubaruttade. Adare
 Atanu gamanisiruvudu mElininda mEle nODuvAga haLegannaDa mattu samskxtagaLa
-naDuve kANisuva vyatyAsagaLu mAtra. I eraDu bhASegaLa naDuve vyAkaraNada
+naDuve kANisuva vyatyAsagaLu mAtra. I eraDu bhAShegaLa naDuve vyAkaraNada
 mUlatatvagaLallEnE halavu vyatyAsagaLiddu, ivannu gamanisuvalli I vyAkaraNavU
 sOtuhOgide.
 
 
 <a id="sec-1-5"></a>
 
-## 1.5 pustakada svarUpa
+## ೧.೫ pustakada svarUpa
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-1-5) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-1--introduction)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-1--introduction) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-1-5)
 
 
 nijakkU haLegannaDa vyAkaraNa entahadu, adu baLasuva vyAkaraNada mUlatattvagaLu
@@ -662,51 +663,51 @@ pustakada mukhya uddESa.
 
 haLegannaDada prAcIna vayyAkaraNigaLigella samskxta vyAkaraNavE mAdariyAgittu.
 samskxtakke pANini racisida atyuttama vyAkaraNaviddudu idakke ondu kAraNa; Agina
-kAladalli bhAratada ellA viddA rimsarigU samska 2tavE SAstrA: bhyAsakke mAdhyamavAgiddu du
+kAladalli bhAratada ellA viddA rimsarigU samska ೨tavE SAstrA: bhyAsakke mAdhyamavAgiddu du
 innondu kAraNa; haLegannaDakke vyAkaraNavannu racisalu horaDuva modalu ivarellarU
 samskxta vyAkaraNadalli sampUrNavAda pariNatiyannu paDeyuvudu atyavaSyavAgittu
 embudu mattondu kAraNa. I ellA kAraNagaLindAgi, avaru racisida haLegannaDa
 vyAkaraNagaLella samskxta vyAkaraNada paDiyaccu gaLAgibiTTive.
 
-samskxta vyAkaraNakke halavu SatamAnagaLaSTu dIrphavAda caritreyide. vEdagaLannu
+samskxta vyAkaraNakke halavu SatamAnagaLaShTu dIrphavAda caritreyide. vEdagaLannu
 badalAgadante uLisuvudakkAgi avugaLalli baLakeyAguva varNagaLa mattu padagaLa
-vyAsangadinda prArambhavAda I SAstra sampUrNavAgi samskxta bhASeya pariSIlaneya
-mEleyE beLedu bandide. hAgAgi, adara mUlatatvagaLu, pAribhASika padagaLu,
+vyAsangadinda prArambhavAda I SAstra sampUrNavAgi samskxta bhASheya pariSIlaneya
+mEleyE beLedu bandide. hAgAgi, adara mUlatatvagaLu, pAribhAShika padagaLu,
 vyAkaraNa sampradAyagaLu, vyAkaraNAmSagaLannu prakaraNagaLAgi vibhajisi hELuva krama,
-ivellavU samskxta bhASeya vyAkaraNavannu vivarisi hELalu anukUlavAgive.
+ivellavU samskxta bhASheya vyAkaraNavannu vivarisi hELalu anukUlavAgive.
 
 Adare, haLegannaDada vyAkaraNakke intaha dIrthavAda caritre illavE vikAsa
 iruva hAge kANisuvudilla. adu nEravAgi samskxta vyAkaraNavannu kannaDakke
-aLavaDisuvantaha kelavu prayatnagaLa phala mAtra. adara pAribhASika padagaLella nUrakke
+aLavaDisuvantaha kelavu prayatnagaLa phala mAtra. adara pAribhAShika padagaLella nUrakke
 nUrU samskxtadavE. avu haLegannaDadavE Ada vyAkaraNa niyamagaLannu vivarisi
 hELuvudakkAgi vikasitavAduvEnalla. I vyAkaraNagaLalli kanDubaruva vyAkaraNa
 sampradAyavU samskxta (illavE adarinda beLedu bandiruva prAkxta) vyAkaraNada
 sampradAyavE.
 
 I vyAkaraNagaLu vyAkaraNAmSagaLannu bEre bEre paricchEdagaLalli vingaDisuvu
-darallU samskxta vyAkaraNagaLannE anusarisive. I paricchEdagaLalli yAva viSayagaLannu
+darallU samskxta vyAkaraNagaLannE anusarisive. I paricchEdagaLalli yAva viShayagaLannu
 vivarisabEku, mattu hEge vivarisabEku embudakkU avakke samskxta (mattu prAkxta)
 vyAkaraNagaLE mAdariyAgive.
 
 I rIti, samskxta mattu prAkxta vyAkaraNagaLannu mAdariyAgirisikonDu
 haLegannaDa vyAkaraNavannu racisalu prayatnisidudarindAgi, haLegannaDada vayyAkaraNigaLige
-A bhASeya nijavAda vyAkaraNaventahadu embudannu tiLisihELalu sAdhyavAgilla.
+A bhASheya nijavAda vyAkaraNaventahadu embudannu tiLisihELalu sAdhyavAgilla.
 adarallU samskxta vyAkaraNada sUtrarUpavannu hAgeyE uLisikonDiruva mattu
-samskxta bhASeyallEnE tamma vyAkaraNagaLannu racisiruva nAgavarma mattu bhaTTAkaLankara
-mEle samskxta vyAkaraNada prabhAva innaSTu gADhavAgiruva hAge kANisuttade.
+samskxta bhASheyallEnE tamma vyAkaraNagaLannu racisiruva nAgavarma mattu bhaTTAkaLankara
+mEle samskxta vyAkaraNada prabhAva innaShTu gADhavAgiruva hAge kANisuttade.
 
 haLegannaDa vyAkaraNavannu haLegannaDadallEnE bareyalu prayatnisida kESirAjana
 SabdamaNidarpaNa idakke svalpa maTTige apavAdavendu hELabahudu. mEle sUcisida
 
-hAge, idaralli halavu haLegannaDadavE Ada viSayagaLannU prastApisalAgide. Adare,
+hAge, idaralli halavu haLegannaDadavE Ada viShayagaLannU prastApisalAgide. Adare,
 illU mElnOTakke kANuva vyatyAsagaLannu prastA pisalAgideyallade, avannu vivarisuvalli
-haLegannaDa mattu samskxta bhASegaLa naDuve vyAkaraNada mUlatatvagaLallEnE iruvantaha
+haLegannaDa mattu samskxta bhAShegaLa naDuve vyAkaraNada mUlatatvagaLallEnE iruvantaha
 vyatyAsagaLannu baLasikoLLalu sAdhyavAgilla.
 
 I rIti, haLegannaDa vyAkaraNagaLu haLegannaDadavE Ada vyAkaraNada mUlatatvagaLannu
 gamanisuvalli, mattu avannu sariyAgi baLasikoLLuvalli sOtuhOgive embudannu
 tOrisikoDuvudE I pustakada mukhya uddESavAda kAraNa, idaralli modalige
-vyAkaraNada bEre bEre amSagaLalli haLegannaDa mattu samskxta bhASegaLa naDuve entaha
+vyAkaraNada bEre bEre amSagaLalli haLegannaDa mattu samskxta bhAShegaLa naDuve entaha
 vyatyAsagaLella ive embudannu vivarisalAgide.
 
 anantara, antaha pratiyondu vyAkaraNAmSada maTTigU haLegannaDa vyAkaraNagaLu
@@ -714,81 +715,81 @@ hEge I vyatyAsagaLannu parigaNisuvalli sOtuhOgive, mattu idarindAgi hEge I
 vyAkaraNagaLu haLegannaDa vyAkaraNavannu vivarisuvalli halavAru samasyegaLannu
 edurisabEkAgide embudannu tOrisikoDalAgide.
 
-samskxta mattu haLegannaDa bhASegaLa naDuve kANisuva intaha mUlabhUta
+samskxta mattu haLegannaDa bhAShegaLa naDuve kANisuva intaha mUlabhUta
 vyatyAsagaLalli kelavannu keLage koDalAgide.
 
-(1) vyakti, vastu modalAduvannu varNanegaLa mUlaka gurutisuvudakkAgi
-samskxta mattu haLegannaDa bhASegaLu tIra bhinnavAda vyAkaraNa vidhAnagaLannu baLasikoLLuttave.
+(೧) vyakti, vastu modalAduvannu varNanegaLa mUlaka gurutisuvudakkAgi
+samskxta mattu haLegannaDa bhAShegaLu tIra bhinnavAda vyAkaraNa vidhAnagaLannu baLasikoLLuttave.
 samskxtadalli idakkAgi eraDu athavA jAsti nAmapadagaLannu ondE vibhaktiyallirisi
 baLasalAguttade; Adare haLegannaDadalli nAmapadagaLondige guNapadagaLemba bEreyE
 ondu padavargakke sErida padagaLannu baLasalAguttade. I padagaLu nAmapadagaLinda
 bhinnavAduvAda kAraNa, haLegannaDadalli avu vibhakti pratyayagaLondige baruvudilla
-(4.2 nODi).
+(೪.೨ nODi).
 
-(2) vyakti, vastu modalAdavugaLannu hesarisi gurutisuvudu mattu varNisi
-gurutisuvudu embudAgi eraDu rItiya gurutisuva vidhAnagaLu heccina bhASegaLallU
+(೨) vyakti, vastu modalAdavugaLannu hesarisi gurutisuvudu mattu varNisi
+gurutisuvudu embudAgi eraDu rItiya gurutisuva vidhAnagaLu heccina bhAShegaLallU
 baLakeyallive. Adare samskxtadantaha mAtina baLake tappi hOgi bariya grAnthikagaLAgiruva
-kelavu bhASegaLalli I vyatyAsa illa vAgide. samskxta vyAkaraNavannu mAdariyAgirisikonDa
-haLegannaDa vayyAkaraNigaLige I vyatyAsavannu gamanisalu sAdhyavAgilla (5.2-3
+kelavu bhAShegaLalli I vyatyAsa illa vAgide. samskxta vyAkaraNavannu mAdariyAgirisikonDa
+haLegannaDa vayyAkaraNigaLige I vyatyAsavannu gamanisalu sAdhyavAgilla (೫.೨-೩
 nODi).
 
-(3) eraDu padagaLannu oTTusErisi hosa padavondannu unTumADuva samAsa
+(೩) eraDu padagaLannu oTTusErisi hosa padavondannu unTumADuva samAsa
 
 la
 nAma guNapada mattu kriyApadagaLemba mUru bageya padagaLannU
 nAmapadagaLondige sErisi intaha padagaLannu unTumADalu baruttade; idakke
 badalu, samskxtada samAsadalli nAmapadagaLannu mAtravE bErondu nAmapadadondige
-sErisalu baruttade. hAgAgi, I eraDu bhASegaLalli tIra bEre bErAgiruva samAsagaLu
+sErisalu baruttade. hAgAgi, I eraDu bhAShegaLalli tIra bEre bErAgiruva samAsagaLu
 kANisikoLLuttave.
 
-(4) haLegannaDada kriyApadagaLige guNapadagaLa jAgadalli baruva rUpa, mattu
+(೪) haLegannaDada kriyApadagaLige guNapadagaLa jAgadalli baruva rUpa, mattu
 nAmapadagaLa jAgadalli baruva rUpa embudAgi eraDu bhinnavAda rUpagaLive. Adare
 samskxtada kriyApadagaLige nAmapadagaLa jAgadalli baruva rUpagaLu mAtra ive.
 ivakkinta bhinnavAda guNapadagaLa jAgadalli baruva rUpagaLembudilla. samskxtadalli
-guNapadavemba viSiSTavAda padavargavilla diruvudE idakke kAraNa (6.1 nODi).
+guNapadavemba viSiShTavAda padavargavilla diruvudE idakke kAraNa (೬.೧ nODi).
 
-(5) nAmapadagaLannu haLegannaDa mattu samskxta bhASegaLeraDU pullinga, strIlinga
+(೫) nAmapadagaLannu haLegannaDa mattu samskxta bhAShegaLeraDU pullinga, strIlinga
 mattu napumsaka lingagaLemba mUru lingagaLalli vingaDisuttave; Adare, idakkAgi I
-eraDu bhASegaLu baLasuva AdhAra mAtra bEre bEre. haLegannaDadalli nAmapadagaLa
+eraDu bhAShegaLu baLasuva AdhAra mAtra bEre bEre. haLegannaDadalli nAmapadagaLa
 arthavE I vibhajanege AdhAra; Adare, samskxtadalli antaha niScitavAda AdhAravEnU
 illa. hAgAgi, samskxta vyAkaraNagaLalli nAmapadagaLa vibhajaneyannu vivarisuvudakkAgi
-bahaLa kliSTavAda vidhAnavondannu baLasabEkAgide. haLegannaDakke antaha vidhAna bEkAgilla
-(7.2).
+bahaLa kliShTavAda vidhAnavondannu baLasabEkAgide. haLegannaDakke antaha vidhAna bEkAgilla
+(೭.೨).
 
-(6) nAmapadagaLige vacana mattu vibhakti pratyayagaLannu sErisuva krama I eraDu
-bhASegaLalli bhinnavAgide. haLegannaDadalli ivannu bEre bEre pratyayagaLu sUcisutta ve;
+(೬) nAmapadagaLige vacana mattu vibhakti pratyayagaLannu sErisuva krama I eraDu
+bhAShegaLalli bhinnavAgide. haLegannaDadalli ivannu bEre bEre pratyayagaLu sUcisutta ve;
 Adare, samskxtadalli ondE pratyaya sUcisuttade. hAgAgi, samskxtadalli EkavacanavannU
 pratyayavondara mUlaka sUcisabEkAguttade, mattu vibhakti pratyayagaLannu baLasuva
 avaSyavilla dallU vacanavannu sUcisuvudakkAgi avannu baLasabEkAguttade. haLegannaDadalli
 I samasyeyilla; hAgAgi adaralli vibhakti mattu vacana pratyayagaLannu avaSyaviruvalli
-mAtra baLasidare sAku (7.3).
+mAtra baLasidare sAku (೭.೩).
 
-(7) vibhakti pratyayagaLa mUlaka nAmapadakkU kriyApadakkU naDuviruva
-sambandhagaLannu sUcisuva kramavU I eraDu bhASegaLalli bEre bErAgide. haLegannaDadalli
+(೭) vibhakti pratyayagaLa mUlaka nAmapadakkU kriyApadakkU naDuviruva
+sambandhagaLannu sUcisuva kramavU I eraDu bhAShegaLalli bEre bErAgide. haLegannaDadalli
 I pratyayagaLigU avu sUcisuva sambandhagaLigU naDuve nEravAda hondANikeyide,
 Adare samskxtadalli intaha nEravAda hondANikeyilla. I kAraNakkAgi, samskxta
 vyAkaraNadalli kArakagaLemba kalpita ghaTakagaLannu baLasuva avaSyakateyide; Adare, haLegannaDa
-vyAkaraNadalli antaha kalpita ghaTakagaLannu baLasabEkAgilla (8.6).
+vyAkaraNadalli antaha kalpita ghaTakagaLannu baLasabEkAgilla (೮.೬).
 
-(8) kriyArUpagaLalli samaya mattu ghaTakagaLannu sUcisuva kramavU I
-eraDu bhASegaLalli bhinnavAgide. haLegannaDadalli samaya sambandhakke heccina prASasta $vannu
+(೮) kriyArUpagaLalli samaya mattu ghaTakagaLannu sUcisuva kramavU I
+eraDu bhAShegaLalli bhinnavAgide. haLegannaDadalli samaya sambandhakke heccina prASasta $vannu
 koDalAguttadeyAdare, samskxtadalli samaya vyavasthege heccina prASastyavannu
 koDalAguttade.
 
 idallade, haLegannaDada kriyArUpagaLondige samayavannu sUcisuvudakkAgi
-viSiSTavAda pra tyayagaLannu baLasalAgutta de; Adare, samskxtadalli idakkAgi dhAtugaLallEnE
-badalAvaNegaLannu mADalAguttade (9.2).
+viSiShTavAda pra tyayagaLannu baLasalAgutta de; Adare, samskxtadalli idakkAgi dhAtugaLallEnE
+badalAvaNegaLannu mADalAguttade (೯.೨).
 
-(9) kriyArUpagaLalli ghaTakagaLannu sUcisuvudakkAgi baLakeyAguva pratyayagaLU
-I eraDu bhASegaLalli bEre bErAgive. haLegannaDadalli ivu ghaTakagaLa puruSa, vacana
+(೯) kriyArUpagaLalli ghaTakagaLannu sUcisuvudakkAgi baLakeyAguva pratyayagaLU
+I eraDu bhAShegaLalli bEre bErAgive. haLegannaDadalli ivu ghaTakagaLa puruSha, vacana
 
-mattu lingagaLannu sUcisaballuvu; Adare, samskxtadalli puruSa mattu vacanagaLannu
+mattu lingagaLannu sUcisaballuvu; Adare, samskxtadalli puruSha mattu vacanagaLannu
 mAtra sUcisaballuvu.
 
-idallade, samskxtadalli I pratyayagaLu bEreyU kelavu viSayagaLannu
-sUcisaballuvAgiddu, haLegannaDada pratyayagaLinda bhinnavAgive (9.3).
+idallade, samskxtadalli I pratyayagaLu bEreyU kelavu viShayagaLannu
+sUcisaballuvAgiddu, haLegannaDada pratyayagaLinda bhinnavAgive (೯.೩).
 
-(10) eraDu athavA jAsti vAkyagaLannu jODisi hELuva kramadalli (10.1),
+(೧೦) eraDu athavA jAsti vAkyagaLannu jODisi hELuva kramadalli (೧೦.೧),
 mattu intaha bEreyU halavAru vyAkaraNAmSagaLalli samskxtakkU mattu haLegannaDakkU
 naDuve prAmukhyavAda vyatyAsagaLive.
 
@@ -798,54 +799,54 @@ haLegannaDada prAcIna vyAkaraNagaLu hEge aDigaDigU samasyegaLannedurisabEkAgutta
 embudannu I pustakadalli vivarisalAgide.
 
 mEle vivarisidantaha halavu kAraNagaLindAgi, iduvarege haLegannaDada mEle
-sidda vAgiruva vyAkaraNagaLella vU sariyAda aDipAyavillada kaTTaDagaLantive. eSTE
+sidda vAgiruva vyAkaraNagaLella vU sariyAda aDipAyavillada kaTTaDagaLantive. eShTE
 andavAgi kaTTirali, avugaLa aDipAya sariyillavAda kAraNa, vimarSege
 oLapaDisidoDaneyE avu bahaLa sulabhavAgi kusiduhOguttave.
 
 
 <a id="ch2"></a>
 
-# adhyAya 2 — pAribhASika padagaLa baLake
+# adhyAya ೨ — pAribhAShika padagaLa baLake
 
 [↑ oLapiDige hintirugi](#toc)
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#ch2) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-2--use-of-technical-terms)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-2--use-of-technical-terms) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#ch2)
 
 ---
 
-pAribhASika padagaLa baLake
+pAribhAShika padagaLa baLake
 
 
 <a id="sec-2-1"></a>
 
-## 2.1 pIThike
+## ೨.೧ pIThike
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-2-1) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-2--use-of-technical-terms)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-2--use-of-technical-terms) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-2-1)
 
 
 samskxta mattu haLegannaDagaLa naDuve avu baLasuva vyAkaraNada mUla tatvagaLalle €nE
 halavu mukhyavAda vyatyAsagaLive embudannu nAvu mundina adhyAyagaLalli
-nODaliruvevu. vyAkaraNagaLalli baLakeyAguva pAribhASika padagaLalli heccinavU
-intaha mUlatatvagaLa mEle avalambisiruttave. hAgAgi, ondu bhASeya vyAkaraNadalli
-baLakeyAgiruva pAribhASika padagaLalli ellavannU hAgeyE innondu bhASeya
+nODaliruvevu. vyAkaraNagaLalli baLakeyAguva pAribhAShika padagaLalli heccinavU
+intaha mUlatatvagaLa mEle avalambisiruttave. hAgAgi, ondu bhASheya vyAkaraNadalli
+baLakeyAgiruva pAribhAShika padagaLalli ellavannU hAgeyE innondu bhASheya
 vyAkaraNadalli baLasalu sAdhyavAguvudilla 4
 
-Adare, haLegannaDada vayyAkaraNigaLu samskxtada pAribhASika padagaLalli tamage
+Adare, haLegannaDada vayyAkaraNigaLu samskxtada pAribhAShika padagaLalli tamage
 bEkAduvannu mattu halaveDegaLalli bEDavAdavugaLannU tAvu barediruva haLegannaDa
 vyAkaraNagaLalli hesarisi vivarisiddA re. ivugaLalli kelavu nijakkU avaru racisiruva
-vyAkaraNagaLige avaSyavilla; hAgAgi, A vyAkaraNagaLu anavaSyakavAgi tumbAkSi STavAgive.
+vyAkaraNagaLige avaSyavilla; hAgAgi, A vyAkaraNagaLu anavaSyakavAgi tumbAkShi ShTavAgive.
 
-innu kelavu pAribhASika padagaLige avugaLa I baLakeyalli samskxtadallillada
+innu kelavu pAribhAShika padagaLige avugaLa I baLakeyalli samskxtadallillada
 arthagaLU bandiruva hAge kANisuttade. haLegannaDadalli baLakeyAguva vyAkaraNada
 mUlatatvagaLu samskxtadavakkinta tIra bhinnavAgiruvudE idakke kAraNa. idarindAgiyU
-I pAribhASika padagaLa baLake haLegannaDa vyAkaraNagaLalli gondalakkeDemADide.
+I pAribhAShika padagaLa baLake haLegannaDa vyAkaraNagaLalli gondalakkeDemADide.
 
 
 <a id="sec-2-2"></a>
 
-## 2.2 lOpa, Agama mattu AdESa
+## ೨.೨ lOpa, Agama mattu AdESa
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-2-2) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-2--use-of-technical-terms)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-2--use-of-technical-terms) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-2-2)
 
 
 padagaLige pratyayagaLannu sErisidAga, illavE eraDu padagaLannu oTTige sErisidAga,
@@ -880,9 +881,9 @@ baruttade, eraDaneyadu nela, idu (I padada idalu‌‌ emba rUpa), nela modalAda
 padagaLa anantara baruttade, mattu mUraneyadu mara, Olaga, gUnTa modalAda
 padagaLa anantara baruttadeyendU hELalu sAdhyavide. idu "rUpabhEda'gaLa mUlaka
 adE vyatyAsavannu vivarisuva vidhAna. I vidhAnavannu baLasidalli lOpa, Agama
-mattu AdESagaLemba pAribhASika padagaLa avaSyakateyilla.
+mattu AdESagaLemba pAribhAShika padagaLa avaSyakateyilla.
 
-illi nAvu mukhyavAgi gamanisabEkAgiruva viSayavEnendare, pada illavE
+illi nAvu mukhyavAgi gamanisabEkAgiruva viShayavEnendare, pada illavE
 pratyayagaLalli kANisuva I badalAvaNe (illavE vyatyAsa)gaLigU mattu avugaLa
 arthakkU naDuve yAva sambandhavU illa. kADu embudara koneya akAra
 bidduhOdudarindAgi, illavE tuju nAmapadada anantara vakAravondu
@@ -890,26 +891,26 @@ sErikonDudarindAgi adara arthadalli heccu kaDimeyAgilla; adara artha modalidda
 hAgeyE ide.
 
 haLegannaDada prAcIna vayyAkaraNigaLu lOpa, Agama mattu AdESagaLemba
-pAribhASika padagaLannu I rIti pada mattu pratyayagaLu ondaroDanondu sEruvAga
+pAribhAShika padagaLannu I rIti pada mattu pratyayagaLu ondaroDanondu sEruvAga
 avugaLalli kANisikoLLuva vyatyAsagaLannu vivarisuvalli mAtravallade, bEreyU kelavu
 sandarbhagaLalli baLasiddAre. Adare, idarindAgi avara vyAkaraNagaLalli halavu hosa
 samasyegaLu taledOrive.
 
 samskxta vyAkaraNada niyamagaLannu nEravAgi tamma haLegannaDa vyAkaraNagaLalli
 aLavaDisalu prayatnisiruvudE avaru I rIti mADabEkAgi bandiruvudakke mukhya
-kAraNa embudu keLagina pariSIlaneyinda spaSTavAguttade.
+kAraNa embudu keLagina pariSIlaneyinda spaShTavAguttade.
 
 
 <a id="sec-2-2-1"></a>
 
-### 2.2.1 bahuvacana pratyaya
+### ೨.೨.೧ bahuvacana pratyaya
 
 nAmapadagaLondige bahuvacanavannu sUcisuvudakkAgi baruva gaL‌ pratyayavannu
 (toDegaL‌, tOLgaL‌) kESirAjanu vibhakti pratyayagaLa modalu baruva "Agama'vendu
 
 pa
 pT es li
-karediddAne (sU. 105). Adare haLegannaDadalli ivu pratyayagaLallade AgamagaLalla.
+karediddAne (sU. ೧೦೫). Adare haLegannaDadalli ivu pratyayagaLallade AgamagaLalla.
 
 yAkendare, toDegaL‌ embantaha padagaLalli gaL‌ embudu arthavillada
 sErikeyalla; adakke bahuvacanavannu sUcisuva arthavide. toDe rUpa ondu toDeyannu
@@ -923,30 +924,30 @@ striyOH emba rUpaviddu, idaralli OH pratyaya saptamI vibhaktiyannu mAtravallade
 dvivacanavannU sUcisuttade. hAgAgi, I rUpadalli baruva stiy‌ embudannu strI
 embudara rUpabhEdavendAgalI, illavE adara koneya IkArakke ay‌ embudu
 AdESavAgi bandudarindAgi siddavAda rUpavendAgalI hELuvudaralli avcityavide
-(heccina vivaragaLige 7.2 nODi).
+(heccina vivaragaLige ೭.೨ nODi).
 
-vibhakti mattu vacanagaLa sUcaneyalli haLegannaDa mattu samskxta bhASegaLu I
+vibhakti mattu vacanagaLa sUcaneyalli haLegannaDa mattu samskxta bhAShegaLu I
 rIti eraDu tIra bhinnavAda vyAkaraNa vidhAnagaLannu baLasutta ve. haLegannaDadalli averaDannu
 eraDu bEre bEre pratyayagaLa mUlaka sUcisalAguttade; Adare, samskxtadalli
 eraDannU ondE pratyayada mUlaka sUcisalAguttade.
 
 I mUlabhUta vyatyAsavannu kESirAjanE modalAda prAcIna vayyAkaraNigaLu
 gamanisiralilla. hAgAgi, I sandarbhadalli samskxtada vyAkaraNa vidhAnavannu hAgeyE
-haLegannaDakke aLavaDisuvudu sariyallavemba viSaya avara gamanakke baralilla, mattu
+haLegannaDakke aLavaDisuvudu sariyallavemba viShaya avara gamanakke baralilla, mattu
 idarindAgi pratyayavondannu Agamavendu kareyuva samasyege sikki bILabEkAyitu.
 
 
 <a id="sec-2-2-2"></a>
 
-### 2.2.2 Agamada mEle AdESa
+### ೨.೨.೨ Agamada mEle AdESa
 
 
 I rIti pratyayagaLannu AgamagaLendu parigaNisidudarindAgi, kESirAjanu bEreyU
 kelavu samasyegaLannu edurisabEkAgide. udAharaNegAgi, sarvanAma mattu guNavacanagaLige
 bahuvacanadalli baruva I gaL‌ “Agama'kke avu embudu "AdESa'vAgi baruttade
-(sU.105) emba innaSTu vicitravAda vyAkaraNa niyamavannu Atanu sxSTisabEkAgide.
+(sU.೧೦೫) emba innaShTu vicitravAda vyAkaraNa niyamavannu Atanu sxShTisabEkAgide.
 
-gaL‌ mattu avu embavugaLa naDuve arthadalli aSTondu spaSTavAda
+gaL‌ mattu avu embavugaLa naDuve arthadalli aShTondu spaShTavAda
 vyatyAsavillavAda kAraNa, illi "AdESa' emba padada baLake ucitavAgaballudAdarU,
 adu ondu Agamada mEle bandide embudu vicitra.
 
@@ -969,7 +970,7 @@ avakkilla. hAgAgi, avugaLige ondakkinta heccu rUpagaLiveyendAgali, illavE avugaL
 ondu rUpada badalu AdESavAgi innondu rUpa baruttadeyendAgali hELuvudu
 sariyalla.
 
-sUtra 257ra vxttiyalli inegam, udum, annam, aloDam modalAda "SabdagaLu'
+sUtra ೨೫೭ra vxttiyalli inegam, udum, annam, aloDam modalAda "SabdagaLu'
 satisaptamiya ekArakke AdESavAgi baruttave endu kESirAjanu hELiruvudu innondu
 vicitravAda vyAkaraNa niyama. Agamada hAge AdESavU padagaLa baLakeyalli kANisuva
 "arthahIna'vAda vyatyAsagaLannu illavE badalAvaNegaLannu sUcisabEkallade, I rIti
@@ -978,13 +979,13 @@ ondu padadondige baruva innondu pada illavE, padarUpavannu sUcisabAradu.
 
 <a id="sec-2-2-3"></a>
 
-### 2.2.3 pratyaya mattu lOpa
+### ೨.೨.೩ pratyaya mattu lOpa
 
 
 dukArAntavAda guNavacanagaLige bahuvacanadalli avu embudu (gaL‌ "Agama'da
 mElina "AdESa') sEridAga avugaLa koneya akbara (du embudu) lOpavAguttade
 (kariyadu-kariyavu, biLiyadu-biLiyavu) endu kESirAjanu hELiruvalliyU
-(sU.106) arthavattAda vyatyAsavannu sandhiniyamada mUlaka vivarisuva prayatna
+(sU.೧೦೬) arthavattAda vyatyAsavannu sandhiniyamada mUlaka vivarisuva prayatna
 naDedide. haLegannaDada guNavacanagaLalli baruva du (illavE adu) embudu napumsaka-
 Ekavacanavannu sUcisuva linga-vacana pratyaya; intahavE guNavacanagaLalli baruva
 vu (illavE avu) embudu napumsaka-bahuvacanavannu sUcisuva bErondu pratyaya.
@@ -992,9 +993,9 @@ illi ondu pratyayada badalu innondu pratyaya bandideyallade sandhikAryavAda
 "lOpa' naDedilla.
 
 hIgiddarU illi lOpavAgideyendu kESirAja hELiruvudakke samskxta mattu
-haLegannaDa bhASegaLa naDuve vyAkaraNada mUlatatvagaLallEnE vyatyAsaviruvudannu Ata
-gamanisadiruvudE kAraNa. mEle (2.2.1)ralli vivarisida hAge, samskxtadalli vacana-
-vibhaktigaLeraDannU ondE pratyaya sUcisuvudAda kAraNa, A bhASeya vibhaktirUpagaLalli
+haLegannaDa bhAShegaLa naDuve vyAkaraNada mUlatatvagaLallEnE vyatyAsaviruvudannu Ata
+gamanisadiruvudE kAraNa. mEle (೨.೨.೧)ralli vivarisida hAge, samskxtadalli vacana-
+vibhaktigaLeraDannU ondE pratyaya sUcisuvudAda kAraNa, A bhASheya vibhaktirUpagaLalli
 kANisuva intaha vyatyAsagaLannella sandhiniyamagaLa mUlakavE vivarisabEkAguta
 
 po)
@@ -1006,13 +1007,13 @@ vivaraNe haLegannaDada maTTige ucitavalla.
 
 <a id="sec-2-2-4"></a>
 
-### 2.2.4 pratyaya mattu Agama
+### ೨.೨.೪ pratyaya mattu Agama
 
 
 kESirAjanu haLegannaDada kriyArUpagaLa koneyalli baruva am‌, ar‌, ay‌,
-ir‌ modalAduvannu vibhakti(pratyaya)gaLendu karediddAne (sU. 228). Adare
+ir‌ modalAduvannu vibhakti(pratyaya)gaLendu karediddAne (sU. ೨೨೮). Adare
 kriyApadagaLigU I pratyayagaLigU naDuve baruva da, dapa mattu va embavugaLannu
-"Agama'gaLendu karediddAne (sU. 232).
+"Agama'gaLendu karediddAne (sU. ೨೩೨).
 
 idallade, I AgamagaLu "pOda vartisuva barpa kAlangaLge sUcakangaL‌'
 endU hELiddA ne! endare I AgamagaLige kAlabhEdavannu sUcisuva arthavideyendU
@@ -1020,45 +1021,45 @@ hELida hAgAyitu. hAgidda re avannu pratyayagaLendu kareyade AgamagaLendu karedir
 yAke?
 
 idakke uttara samskxta vyAkaraNadallide: samskxtada kriyArUpagaLalli kriyApadada
-(dhAtuvina) baLika puruSa-vacanagaLannu sUcisuva pratyaya mAtra baruttade. kAlabhEdavannu
-sUcisuvudakkAgi adaralli, haLegannaDada hAge, viSiSTavAda pratyayagaLa baLakeyilla.
+(dhAtuvina) baLika puruSha-vacanagaLannu sUcisuva pratyaya mAtra baruttade. kAlabhEdavannu
+sUcisuvudakkAgi adaralli, haLegannaDada hAge, viSiShTavAda pratyayagaLa baLakeyilla.
 kriyApadadallEnE kelavu badalAvaNegaLannu mADuvudara mUlaka kAlabhEdavannu
-sUcisalAguttade (9.2 nODi).
+sUcisalAguttade (೯.೨ nODi).
 
 hAgAgi, samskxtada kriykApadagaLige AkhyAta (tij‌‌) pratyayagaLannu sErisidAga
 avugaLalli kanDubaruva vyatyAsagaLannella sandhiya niyamagaLa mUlakavEnE
 vivarisabEkAguttade. udAharaNegAgi, rudh‌ “taDe' kriyApadakke apUrNArthadalli
-prathamapuruSa-Ekavacanada tijat‌ pratyayavannu sErisidAga, A kriyApadadoLage
+prathamapuruSha-Ekavacanada tijat‌ pratyayavannu sErisidAga, A kriyApadadoLage
 NakAravondu sErikonDu ruNaddi emba rUpa siddhisuttade. I NakAravannu
 apUrNArthavannu sUcisuva pratyayavendu kareyuvudakkintalU Agamavendu
 kareyuvudE samskxtada maTTige sariyAda krama.
 
 yAkendare, bEre kriyApadagaLannu baLasi apUrNArthada kriyArUpagaLannu
-tayArisuvalli I rIti kriyApadadoLage Na illavE bEre akSaragaLu sErikoLLuvudilla ka
+tayArisuvalli I rIti kriyApadadoLage Na illavE bEre akSharagaLu sErikoLLuvudilla ka
 udAharaNegAgi, pac‌ "aDige mADu' dhAtuvige apUrNArthadalli tij‌ pratyayavannu
 sErisidAga pacati rUpa siddhisuttade.
 
 Adare, haLegannaDada kriyArUpagaLa oLaracane idakkinta tIra bhinnavAdudu.
-adara kriyApadagaLa baLika eraDu pratyayagaLu barutti ddu » avugaLalli ondu kAlabhEdavannu
-sUcisuttadeyAdare, innondu puruSa-vacana bhEdavannu sUcisuttade. udAharaNegAgi,
+adara kriyApadagaLa baLika eraDu pratyayagaLu barutti ddu , avugaLalli ondu kAlabhEdavannu
+sUcisuttadeyAdare, innondu puruSha-vacana bhEdavannu sUcisuttade. udAharaNegAgi,
 
 pETban‌ kriyArUpadalli pET‌ kriyApadada baLika hindina (bhUta)kAlavannu sUcisuva
-d‌ mattu prathama puruSa pullinga Ekavacanavannu sUcisuva an‌ embudAgi eraDu
+d‌ mattu prathama puruSha pullinga Ekavacanavannu sUcisuva an‌ embudAgi eraDu
 pratyayagaLu bandive. |
 
 idu haLegannaDakkU samskxtakkU naDuve vyAkaraNada mUla tatvadallEnE iruva
-vyatyAsa. eraDu bhASegaLa naDuve intaha mUlabhUta vyatyAsagaLiralu sAdha, mattu
+vyatyAsa. eraDu bhAShegaLa naDuve intaha mUlabhUta vyatyAsagaLiralu sAdha, mattu
 
 intaha vxttAsagaLanu avugaLa vAkaraNa niyamagaLu patibimbisuvudu avaSa. embudanu
 
 grahisalu sAdhyavAgadudarindAgi, kESirAjanu mEle sUcisida hAge, haLegannaDada
 kAlapratyayagaLannu "Agama'gaLendu kareyabEkAgide.
 
-sU. 45ralli kESirAjanu "pratyaya' mattu "vibhakti' iveraDU paryAya
-padagaLu emba abhiprAya baruva hAge barediruvudu innaSTu samasyegaLige kAraNavAgide
-(biLigiri 1969:129 nODi). gaL‌ mattu da, dapa, vagaLannu pratyayagaLendu
-kareyadiralu idU ondu kAraNavirabahudu. Adare isu embudannu (sU. 64),
-mattu taddhita prakaraNadalli baruva iga, vaLa modalAduvannu (sU. 208-9)
+sU. ೪೫ralli kESirAjanu "pratyaya' mattu "vibhakti' iveraDU paryAya
+padagaLu emba abhiprAya baruva hAge barediruvudu innaShTu samasyegaLige kAraNavAgide
+(biLigiri ೧೯೬೯:೧೨೯ nODi). gaL‌ mattu da, dapa, vagaLannu pratyayagaLendu
+kareyadiralu idU ondu kAraNavirabahudu. Adare isu embudannu (sU. ೬೪),
+mattu taddhita prakaraNadalli baruva iga, vaLa modalAduvannu (sU. ೨೦೮-೯)
 pratyayagaLendu karediruvudu I abhiprAyakke viruddha vAgide.
 
 samayavannu sUcisuva da, dapa, vagaLannu I rIti kESirAjanu pratyayagaLendu
@@ -1066,13 +1067,13 @@ parigaNisade AgamagaLendu karedudarinda, innondu samasyeyannU edurisabEkAgide.
 ondu kriyArUpadalli baruva kriyApadada (kriyAdhAtuvina) svarUpa entahadu
 embudannu sUcisuvudakkAgi Atanu mADidan‌, mADuvan‌ embantaha sAmAnya
 rUpagaLannu baLasuva badalu, mADan‌ embantaha allagaLeyuva rUpagaLannu
-baLasabEkAgide (sU. 227)
+baLasabEkAgide (sU. ೨೨೭)
 
 yAkendare, mADidan‌ embudarinda AkhyAta pratyayavannu (an‌ embudannu)
 tegedAga, mADida embudu siguttadallade mADu siguvudilla.
 
 Adare, I rIti allagaLeyuva kriyArUpadinda dhAtuvina svarUpavannu
-nirdharisahoraTalli bEre halavu samasyegaLu kANisikoLLuttave; Adare, I viSayavannu
+nirdharisahoraTalli bEre halavu samasyegaLu kANisikoLLuttave; Adare, I viShayavannu
 kESirAjanu gamanisiruva hAge tOruvudilla.
 
 udAharaNegAgi, dhAtuprakaraNadalli tar‌ mattu bar‌ embudAgi eraDu
@@ -1080,80 +1081,80 @@ dhAtugaLannu hesarisalAgide; Adare, ivannu tAran‌ mattu bAran‌ emba allagaLe
 rUpagaLinda sAdhisalu sAdhyavAgadu. tAran‌ rUpadinda an‌ pratyayavannu kaLedare
 uLiyuvudu tAr‌ allade tar‌ alla.
 
-idallade, sU. 249ralli I eraDu allagaLeyuva kriyArUpagaLannu
+idallade, sU. ೨೪೯ralli I eraDu allagaLeyuva kriyArUpagaLannu
 sAdhisabEkAdAga, tar‌ mattu bar‌ kriyApadagaLa modala akAra dIrthavAguttadeyendu
 hELiruvudannu nODidare, nijakkU alla gaLeyuva kriyArUpagaLinda AkhyAta pratyayavannu
-tegedu uLiyuva amSa dhAtu endudu 227nE sUtrakke mAtra sImitavAgiruva
-abhiprAyavembudu spaSTavAguttade.
+tegedu uLiyuva amSa dhAtu endudu ೨೨೭nE sUtrakke mAtra sImitavAgiruva
+abhiprAyavembudu spaShTavAguttade.
 
 kESirAjana I vidhAnavannu baLasidAga unTAguva bEre kelavu samasyegaLannu
-sItArAmayya (1979:203) vivarisiddA re.
+sItArAmayya (೧೯೭೯:೨೦೩) vivarisiddA re.
 
 
 <a id="sec-2-2-5"></a>
 
-### 2.2.5 AkhyAta pratyayagaLalli lingabhEda
+### ೨.೨.೫ AkhyAta pratyayagaLalli lingabhEda
 
-haLegannaDa kriyArUpagaLa koneyalli baruva AkhyAta pratyayagaLu puruSa
+haLegannaDa kriyArUpagaLa koneyalli baruva AkhyAta pratyayagaLu puruSha
 
 i)
 
-mattu vacana bhEdagaLannu mAtravallade, prathamapuruSadalli linga bhEdavannU sUcisuttave.
+mattu vacana bhEdagaLannu mAtravallade, prathamapuruShadalli linga bhEdavannU sUcisuttave.
 
 ge
 
 Ekavacanadalli I lingabhEda pullinga, strIlinga, mattu napumsaka linga
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-2-3) | [ae
+[ae
 
 embudAgiddu, idannu sUcisuvudakkAgi am‌, aL‌, mattu udu emba mUru
 
-pratyayagaLu baLakeyAguttave; bahuvacanadalli I lingabhEda manuSya-manuSyEtara
+pratyayagaLu baLakeyAguttave; bahuvacanadalli I lingabhEda manuShya-manuShyEtara
 embudAgiddu, idannu sUcisuvu dakkAgi ar‌ mattu uvu emba eraDu pratyayagaLu
-baLakeyAguttave (9.3 nODi).
+baLakeyAguttave (೯.೩ nODi).
 
 Adare, kESirAjanu ivugaLalli Ekavacanada am‌ mattu bahu vacanada ar‌
-embavugaLannu mAtra prathama puruSada AkhyAta pratyayagaLendu karedu (sU. 228),
-uLida pratyayagaLannu avugaLa mEle baruva "AdESa'gaLendu karediddAne (sU. 236-
-7). illU pratyaya mattu AdESagaLa naDuve vyatyAsavE illadantAgide.
+embavugaLannu mAtra prathama puruShada AkhyAta pratyayagaLendu karedu (sU. ೨೨೮),
+uLida pratyayagaLannu avugaLa mEle baruva "AdESa'gaLendu karediddAne (sU. ೨೩೬-
+೭). illU pratyaya mattu AdESagaLa naDuve vyatyAsavE illadantAgide.
 
 Ata hIge mADiruvudakkU samskxta vyAkaraNada mUlatatvavannu haLegannaDada
 mEle horisiruvudE kAraNa. samskxtada kriyArUpagaLalli baruva tij‌ pratyayagaLu
 lingabhEdavannu sUcisuvudilla.
 
-udAharaNegAgi, prathama puruSa Ekavacanada ti pratyaya (gacchati, bhavati)
+udAharaNegAgi, prathama puruSha Ekavacanada ti pratyaya (gacchati, bhavati)
 lingabhEdavannu sUcisalAradu. adu ellA lingagaLallU badalAgade hAgeyE
 uLiyuttade ("hOguttAne', "hOguttALe' mattu "hOguttade' emba mUru
 arthagaLallU samskxtadalli gacchati embudannE baLasabEkAguttade).
 
 kESirAjanu samskxtada I niyamavannu hAgeyE haLegannaDakkU aLavaDisalu
-prayatnisiddAne; samskxtadalliruva hAge, puruSa mattu vacana bhEdavannu sUcisuva
-pratyayagaLannu mAtra AkhyAta pratyayagaLendu karedu, prathama puruSadalli linga
+prayatnisiddAne; samskxtadalliruva hAge, puruSha mattu vacana bhEdavannu sUcisuva
+pratyayagaLannu mAtra AkhyAta pratyayagaLendu karedu, prathama puruShadalli linga
 bhEdavannu sUcisuva pratyayagaLannu AdESagaLendu karediddAne; endare, samskxtada
-niyamakke hondikeyAgada haLegannaDada vaySiSTa $vannu pratyayagaLa mUlaka varNisuva
+niyamakke hondikeyAgada haLegannaDada vaySiShTa $vannu pratyayagaLa mUlaka varNisuva
 badalu, AdESagaLa mUlaka varNisalu prayatnisiddAne. idarindAgi "AdESa'vembudakke
 vicitravAda artha bandide mAtravalla, haLegannaDa vyAkaraNavU anavaSyakavAgi heccu
-kliSTavAgide.
+kliShTavAgide.
 
 
 <a id="sec-2-2-6"></a>
 
-### 2.2.6 guNapadagaLalli lingabhEda
+### ೨.೨.೬ guNapadagaLalli lingabhEda
 
 
 haLegannaDadalli guNapadagaLu bEreyE padavargadalli baruttiddu, avugaLinda
 nAmapadagaLannu tayArisuvudakkAgi avakke an‌, aL‌, ar‌, udu mattu uvu emba
-linga-vacana pratyayagaLannu sErisabEkAguttade (5.2.1 nODi).
+linga-vacana pratyayagaLannu sErisabEkAguttade (೫.೨.೧ nODi).
 
 Adare, samskxtadalli guNapadakkU nAmapadakkU naDuve vyatyAsavilla; avugaLondige
 linga-vacana vyatyAsavannu sUcisuvudakkAgi pratyayagaLU baruvudilla; vibhakti pratyayagaLa
 rUpabhEdagaLa mUlakavEnE intaha vyatyAsagaLannu sUcisabEkAguttade.
 
-udAharaNegAgi, kxSNa "kappu' pada samskxtadalli mUru lingagaLallU baraballa
-nAmapadavAgiddu, viSiSTavAda ondu baLakeyalli adu yAva lingadallide embudannu
+udAharaNegAgi, kxShNa "kappu' pada samskxtadalli mUru lingagaLallU baraballa
+nAmapadavAgiddu, viSiShTavAda ondu baLakeyalli adu yAva lingadallide embudannu
 adarondige baruva vibhaktipratyayagaLa svarUpadalli mAtravE kANalu sAdhya.
-udAharaNegAgi, adara dvitIyA vibhakti rUpa kxSNam endiddare adu
-pullingadallideyendU, kxSNAm endiddare svIlingadallideyendU tiLidukoLLabahudu.
+udAharaNegAgi, adara dvitIyA vibhakti rUpa kxShNam endiddare adu
+pullingadallideyendU, kxShNAm endiddare svIlingadallideyendU tiLidukoLLabahudu.
 
 kESirAjanu haLegannaDada guNapadagaLannu samskxtada guNapadagaLa hAge varNisalu
 
@@ -1163,18 +1164,18 @@ tyayagaLendu parigaNisade AdESagaLendu parigaNisiddAne.
 idallade, intaha "guNavacana'gaLalli napumsaka-Ekavacanada rUpagaLannu
 mUlarUpagaLembudAgi kalpisikonDu, avugaLinda uLida rUpagaLannu paDeyuva
 prayatnavannu avanu naDesiddAne. udAharaNegAgi, kijudu embudara koneya duvige
-akAravannu AdESavAgi mADuva mUlaka, Atanu ki5yam embudannu sAdhisalu
-prayatnisiddAne (sU. 163).
+akAravannu AdESavAgi mADuva mUlaka, Atanu ki೫yam embudannu sAdhisalu
+prayatnisiddAne (sU. ೧೬೩).
 
 idE rItiyalli, avan‌, Atan‌, avar‌ modalAdavugaLannu adu
 embudarindalU, Avan‌, AvaL‌, Ar‌ modalAduvannu Avudu embudarindalU,
-bEre bEre rItiya AdESagaLa mUlaka paDediddAne (sU. 161-2). illU AdESa
+bEre bEre rItiya AdESagaLa mUlaka paDediddAne (sU. ೧೬೧-೨). illU AdESa
 mattu pratyayagaLa naDuve vyatyAsavE illavAda hAgAgide.
 
 samskxtadalli haLegannaDada hAge vibhakti pratyayagaLiginta bhinnavAda linga-vacana
 pratyayagaLu intaha padagaLondige baruvudillavAda kAraNa, avugaLa vibhaktirUpagaLalli
-tOribaruva vyatyAsagaLannu A bhASeya vyAkaraNadalli Agama mattu AdESagaLemba
-sandhiniyamagaLa mUlaka vivarisalAguttade. Adare haLegannaDadalli viSiSTavAda linga-
+tOribaruva vyatyAsagaLannu A bhASheya vyAkaraNadalli Agama mattu AdESagaLemba
+sandhiniyamagaLa mUlaka vivarisalAguttade. Adare haLegannaDadalli viSiShTavAda linga-
 vacana pratyayagaLiddu, avu vibhakti pratyayagaLiginta bhinnavAgive. hAgAgi, guNavacana,
 sarvanAma, sankhye modalAdavugaLalli kANisuva linga-vacana pratyayagaLannu Agama
 illavE AdESagaLendu parigaNisuvudu haLegannaDada maTTige ucitavalla.
@@ -1184,17 +1185,17 @@ illavE AdESagaLendu parigaNisuvudu haLegannaDada maTTige ucitavalla.
 
 <a id="sec-2-3"></a>
 
-## 2.3 vyAkaraNa sanjYegaLu
+## ೨.೩ vyAkaraNa sanjYegaLu
 
-[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-2--use-of-technical-terms)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-2--use-of-technical-terms) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-2-3)
 
 
 vyAkaraNagaLalli halavu rItiya sanjYe; gaLannu baLasuva avaSyakateyiddu, avugaLalli
-kelavu ondu bhASeya vyAkaraNakkaSTE sImitavAgiruttave; avu A bhASeya pada
-illavE pratyayagaLa svarUpavannavalambisirabahudu, illa vE A bhASeya sandhiniyamagaLa
+kelavu ondu bhASheya vyAkaraNakkaShTE sImitavAgiruttave; avu A bhASheya pada
+illavE pratyayagaLa svarUpavannavalambisirabahudu, illa vE A bhASheya sandhiniyamagaLa
 svarUpavannavalambisirabahudu.
 
-intaha sanjYe gaLannu hAgeyE innondu bhASeya vyAkaraNadalli baLasalu
+intaha sanjYe gaLannu hAgeyE innondu bhASheya vyAkaraNadalli baLasalu
 sAdhyavAgadu. haLegannaDa vayyAkaraNigaLu intaha halavu sanjYegaLannu avu tamma
 vyAkaraNakke avaSyavO alla vO, tamma vyAkaraNakke hondikoLLuttaveyO illavO
 embudannu pariSIlisalu hOgade hAgeyE baLasikonDiddAre.
@@ -1202,12 +1203,12 @@ embudannu pariSIlisalu hOgade hAgeyE baLasikonDiddAre.
 
 <a id="sec-2-3-1"></a>
 
-### 2.3.1 sankSipta rUpagaLu
+### ೨.೩.೧ sankShipta rUpagaLu
 
 
 samskxta vyAkaraNadalli baruva halavu sanjYegaLu pratyayagaLa illavE padagaLa
 paTTiyannu sanklipravAgi sUcisuvudakkAgi tayArisiruva sankEtagaLu. antaha pratyaya
-llavE padagaLannu baLesadiruva bErondu bhASeya vyAkaraNadalli avakke yAva
+llavE padagaLannu baLesadiruva bErondu bhASheya vyAkaraNadalli avakke yAva
 
 23
 
@@ -1215,42 +1216,42 @@ sthAnavU illa. Adare, haLegannaDada vayyAkaraNigaLu intaha sanjYegaLannU tamma
 vyAkaraNagaLalli baLasikonDiddAre.
 
 udAharaNegAgi, samskxtada nAmapadagaLa anantara su, av, jas‌, am, avT‌,
-Sas‌ modalAda oTTu 21 vibhakti pratyayagaLu baralu sAdhyaviddu (8.3 nODi),
+Sas‌ modalAda oTTu ೨೧ vibhakti pratyayagaLu baralu sAdhyaviddu (೮.೩ nODi),
 ivannella cuTukAgi sUcisalu sup‌ sanjYeyannu baLasalAgide. idu I pratyayagaLa
 paTTiyalli modalaneyadAgiruva su pratyayadondige adE paTTiya koneya pratyayavAda
-sup‌ embudara koneya akSaravannu sErisi tayArisida sanjYe
+sup‌ embudara koneya akSharavannu sErisi tayArisida sanjYe
 
 idE rItiyalli, kriyApadagaLa anantara tip‌, tas‌ modalAda pratyayagaLu
 baralu sAdhyaviddu, ivannella cuTukAgi sUcisalu tiju‌ sanjYEH yannu baLasalAgide.
 idu I pratyayagaLa paTTiyalli modalaneyadAgiruva tip‌ pratyayada modalaneya
-akSaradondige koneyadAgiruva mahij‌‌ pratyayada koneya akSaravannu sErisi
+akSharadondige koneyadAgiruva mahij‌‌ pratyayada koneya akSharavannu sErisi
 tayArisida sanjYe
 
 haLegannaDada nAmapada mattu kriyApadagaLa anantara ivakkinta tIra bErAgiruva
 pratyayagaLu baLakeyAguttave: nAmapadagaLa anantara m‌, am‌, im‌ modalAda
 pratyayagaLU, kriyApadagaLa anantara am‌, ar‌, ay‌, ir‌ modalAda pratyayagaLU
-baruvuvendu kESirAjanu (sU. 103, 228) hELiruvudannu illi gamanisabahudu.
+baruvuvendu kESirAjanu (sU. ೧೦೩, ೨೨೮) hELiruvudannu illi gamanisabahudu.
 hAgAgi, mEle koTTiruva samskxta vyAkaraNada sup‌ mattu tij‌‌ sanjYegaLannAgali,
 illavE avannu baLasi racisida subanta mattu tijanta padagaLannAgali hAgeyE
 haLegannaDa vyAkaraNadalli baLasuvudu ucitavAgalAradu.
 
 Adare, bhaTTAkaLankanu tanna vyAkaraNa(SabdAnuSAsana)dalli vibhakti pratyayagaLannu
-sUcisalu sup‌ sanjYeyannU (sU. 202), AkhyAta pratyayagaLannu sUcisalu tij‌‌
-sanjYeyannU (sU. 446) hAgeyE baLasiddAne. haLegannaDadalli intaha sanjYegaLannu
+sUcisalu sup‌ sanjYeyannU (sU. ೨೦೨), AkhyAta pratyayagaLannu sUcisalu tij‌‌
+sanjYeyannU (sU. ೪೪೬) hAgeyE baLasiddAne. haLegannaDadalli intaha sanjYegaLannu
 baLasabEkiddarU avannu haLegannaDada pratyayagaLinda (avugaLa modala mattu koneya
-akSaragaLannu oTTusErisi) tayArisiddare oLLeyadittu.
+akSharagaLannu oTTusErisi) tayArisiddare oLLeyadittu.
 
 haLegannaDa vayyAkaraNigaLa mEle samskxta vyAkaraNa entaha prabhAvavannu
-bIrittu embudannu I viSaya spaSTapaDisuttade.
+bIrittu embudannu I viShaya spaShTapaDisuttade.
 
 <a id="sec-2-3-2"></a>
 
-### 2.3.2 kArakagaLu
+### ೨.೩.೨ kArakagaLu
 
 
 samskxtadalli nAmapada mattu kriyApadagaLa naDuviruva sambandhagaLigU vibhakti
 pratyayagaLigU naDuve nEravAda hondANikeyillavAda kAraNa, antaha sambandhagaLannu
-sUcisalu "kAraka'gaLemba kelavu vyAkaraNa sambandhagaLannu kalpisikoLLabEkAgide (8.6
+sUcisalu "kAraka'gaLemba kelavu vyAkaraNa sambandhagaLannu kalpisikoLLabEkAgide (೮.೬
 nODi).
 
 Adare haLegannaDadalli nAmapada mattu kriyApadagaLa naDuvina sambandhakkU
@@ -1268,13 +1269,13 @@ samskxtada kArakagaLellavU haLegannaDadallU irabEkendu tIrmAnisi, avannu
 sUcisuvudakkAgi haLegannaDadalli vibhakti pratyayagaLannu huDukalu horaTiddAre.
 
 udAharaNegAgi, attaNim emba vAkyAmSavannu ivaru ondu vibhakti pratyayavendu
-karediruvudu (bhaTTAkaLanka, sU. 220 nODi) haLegannaDadalli "apAdAna' kArakavannu
+karediruvudu (bhaTTAkaLanka, sU. ೨೨೦ nODi) haLegannaDadalli "apAdAna' kArakavannu
 sUcisalu "karaNa'vannu sUcisuva im pratyayakkinta bhinnavAda pratyayavilladiruvudE
 kAraNa. Adare, nijakkU attaNim embudu ondu pratyayavE alla; adu attaNa emba
 sarvanAma rUpakke im emba vibhakti pratyayavannu sErisi racisiruva padarUpa.
 
 kESirAjanu bahuSaH I samasyeyannu gamanisi, I pratyayavannu at‌ embudAgi
-nirUpisiddAne (sU. 103). Adare munde sU. 126ralli I pratyayakke atta Nimemba
+nirUpisiddAne (sU. ೧೦೩). Adare munde sU. ೧೨೬ralli I pratyayakke atta Nimemba
 “"nijarUpa'videyendu mattu idarondige txtIyeya im, indam mattu inde
 embavu baruvuvendu Ata hELabEkAgideyAda kAraNa, samasye bageharidilla. pancamI
 vibhakti pratyayadalli txtIyA vibhakti pratyayakke Enu kelasa?
@@ -1282,7 +1283,7 @@ vibhakti pratyayadalli txtIyA vibhakti pratyayakke Enu kelasa?
 
 <a id="sec-2-3-3"></a>
 
-### 2.3.3 upayOgisada sanjYegaLu
+### ೨.೩.೩ upayOgisada sanjYegaLu
 
 
 haLegannaDada vayyAkaraNigaLu bEre kelavu sanjYe; gaLannu tamma vyAkaraNadalli
@@ -1291,7 +1292,7 @@ kAraNakkAgi mAtra avannu tamma vyAkaraNagaLallU udda risi vivarisalu prayatnisid
 
 udAharaNegAgi, kESirAjanu uddharisi vivarisiruva samAna, savarNa
 (anulOma-vilOma), nAmi modalAda halavu sanjYegaLige avana haLegannaDa
-vyAkaraNadalli yAva kelasavU illa (biLigiri 1969:37 nODi).
+vyAkaraNadalli yAva kelasavU illa (biLigiri ೧೯೬೯:೩೭ nODi).
 
 samskxta vyAkaraNadalli a-A, i-I, u-U, ya-khayU emba nAlku svaragaLa
 jODigaLannu savarNagaLendu kareyalAgide; I sanjYe: yinda A vyAkaraNakkiruva
@@ -1304,77 +1305,77 @@ svara illa vE jODiya innondu svara bandideyAdare, averaDara badalu udda
 (dIrtha) svara barutta deyembudE I niyamada sAra. udAharaNegAgi, keLage koTTiruva
 sErikegaLannu gamanisabahudu.
 
-(1ka) atra*asti atrAsti
+(೧ka) atra*asti atrAsti
 atra AsIt‌ atrAsIt‌
 yadA-* asti yadAsti
 
-(1kha) asti*iha astIha
+(೧kha) asti*iha astIha
 nadI*iha nadIha
 
-(1ga) guruupadESa gurUpadESa
+(೧ga) guruupadESa gurUpadESa
 sAdhu-UcuH sAdhUcuH
 
-(1ka)dalli koTTiruva sErikegaLalli a-A jODiya svaragaLeraDu oTTu sEri
-uddasvara (A embudu) sidda vAgide; idakke badalu, (1kha)dalli koTTiruva sErikegaLalli
-i-I jODiyU, (1ga)dalli koTTiruva sErikegaLalli u-U jODiyU I rIti
+(೧ka)dalli koTTiruva sErikegaLalli a-A jODiya svaragaLeraDu oTTu sEri
+uddasvara (A embudu) sidda vAgide; idakke badalu, (೧kha)dalli koTTiruva sErikegaLalli
+i-I jODiyU, (೧ga)dalli koTTiruva sErikegaLalli u-U jODiyU I rIti
 sandhiyAgiruvudannu kANabahudu..
 
 kESirAjanu I jODigaLondige haLegannaDadalli kANisuva (mattu samskxtadalli
 kANisada) e-E mattu o-O jODigaLigU savarNa sanjYe barutta deyendu tiLisiddAne
-(sU. 18). Adare kannaDada sandhi niyamagaLu samskxtada sandhi niyamagaLinda tIra
+(sU. ೧೮). Adare kannaDada sandhi niyamagaLu samskxtada sandhi niyamagaLinda tIra
 bhinnavAgiveyAda kAraNa, avannu vivarisuvalli I sanjYe: yinda yAva prayOjanavU
 illa.
 
 nijakkU haLegannaDada sandhiniyamagaLalli giDDa (hrasva) mattu udda (dIra4)
 svaragaLeraDU ondE rItiyalli badalAguvudilla. giDDa svaragaLu lOpagoLLuttave;
-Adare, udda svaragaLu lOpagoLLuvudilla. kESirAjanE hELiruva hAge (sU. 65)
+Adare, udda svaragaLu lOpagoLLuvudilla. kESirAjanE hELiruva hAge (sU. ೬೫)
 I “idu embudu Ividu endAguttadallade Idu endAguvudilla. hAgAgi, "savarNa'
-emba I pAribhASika pada haLegannaDada vyAkaraNakke anavaSyaka mAtravalla, pratikUlavAgide.
+emba I pAribhAShika pada haLegannaDada vyAkaraNakke anavaSyaka mAtravalla, pratikUlavAgide.
 
-"nAmi' emba innondu pAribhASika padada avaSyakateyU haLegannaDakkilla.
+"nAmi' emba innondu pAribhAShika padada avaSyakateyU haLegannaDakkilla.
 samskxtadalli akAra mattu AkAragaLannu biTTu itara svaragaLannu nAmigaLendu kareyalAgide;
 I eraDu svaragaLannu biTTu itara svaragaLa sAhacaryadalliruva sakAra samskxtadalli
-SakAravAguttade (hariSu, guruSu, kataNxSu, navSu) emba niyamavE I padada
+ShakAravAguttade (hariShu, guruShu, kataNxShu, navShu) emba niyamavE I padada
 baLakege AdhAra. Adare haLegannaDada sandhikAryagaLalli I padada baLakege yAva
-AdhAravU illa (venkaTAcala SAstrI 1994:9-10 nODi).
+AdhAravU illa (venkaTAcala SAstrI ೧೯೯೪:೯-೧೦ nODi).
 
 
 <a id="sec-2-4"></a>
 
-## 2.4 pratyaya mattu padarUpa
+## ೨.೪ pratyaya mattu padarUpa
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-2-4) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-2--use-of-technical-terms)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-2--use-of-technical-terms) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-2-4)
 
 
-padagaLannu mattu padarUpagaLannu vivarisuvAga AdaSTu maTTige avugaLa
+padagaLannu mattu padarUpagaLannu vivarisuvAga AdaShTu maTTige avugaLa
 oLaracaneyEnu embudannu vivarisi hELuvudu vyAkaraNada uddESa. haLegannaDa
 vayyAkaraNigaLu "pratyaya'gaLendu karediruva kelavu vAkyAmSagaLalli ondakkinta jAsti
 pratyayagaLu, sEriruvudannu mattu innu kelavu vAkyAmSagaLalli pratyayagaLondige
 iDI padarUpagaLE sErikonDiruvudannU kANabahudu. nijakkU ivu pratyayagaLalla.
 
-pAribhASika padagaLa baLake
+pAribhAShika padagaLa baLake
 
 83
-([ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-2-5) | [>
+([ >
 
-ivugaLa oLaracaneyentahadu embudannu vyAkaraNagaLu spaSTavAgi "vivarisuva
+ivugaLa oLaracaneyentahadu embudannu vyAkaraNagaLu spaShTavAgi "vivarisuva
 avaSyakateyide.
 
 udAharaNegAgi, vartamAna kAlavannu sUcisuvudakkAgi baruva dapa embudu
 ondu pratyayavalla. hIgiddarU bhaTTAkaLankanu idannu pratyayavendu karediddAne (sU.
-446), mattu kESirAjanu (sU. 232) Agamavendu karediddA ne. nijakkU idaralli
-bhUta mattu bhaviSyat‌gaLemba eraDu pratyayagaLa sErikeyide. idallade, I eraDaneya
-bhaviSyat‌ pratyayadalli Agu emba kriyApadada padarUpavU aDagikonDide (vivaragaLige
-9.2.1 nODi).
+೪೪೬), mattu kESirAjanu (sU. ೨೩೨) Agamavendu karediddA ne. nijakkU idaralli
+bhUta mattu bhaviShyat‌gaLemba eraDu pratyayagaLa sErikeyide. idallade, I eraDaneya
+bhaviShyat‌ pratyayadalli Agu emba kriyApadada padarUpavU aDagikonDide (vivaragaLige
+೯.೨.೧ nODi).
 
-mEle (2.3.2)ralli sUcisida hAge attaNim embudannu (maradattaNim,
+mEle (೨.೩.೨)ralli sUcisida hAge attaNim embudannu (maradattaNim,
 keN‌yattaNim) ondu vibhakti pratyayavendu parigaNisiruvudu mEle vivarisida paristhitige
 innondu udAharaNe. nijakkU idu atta sarvanAmada sambandhisuva rUpakke (attaNa
 embudakke) im pratyayavannu sErisi tayArisida padarUpa. idannu nAmapadada
 sambandhisuva rUpadondige baLasalAguttade (maradattaNim embudaralli attaNim
 padavannu marada embudakke sErisalAgide).
 
-kESirAjanu Sabda maNidarpaNada 162nE sUtradalli Avudu emba iDI padakkEnE
+kESirAjanu Sabda maNidarpaNada ೧೬೨nE sUtradalli Avudu emba iDI padakkEnE
 pullinga Ekavacanadalli Avan‌ embudu, mattu pullinga bahuvacanadalli Ar‌ embudu
 "AdESa'vAgi baruttade endu hELiddAne. Atanu I rIti hELuvAga, I mUru
 rUpagaLallU A embudu badalAgade uLidide embudannu gamanisida hAgilla.
@@ -1383,129 +1384,129 @@ nijakkU illi A embudu aniScitateyannu sUcisuva sarvanAmada (sarvapadada)
 ondu anga. adarondige an‌, ar‌, udu modalAda linga-vacanagaLannu sUcisuva
 pratyayagaLallondannu baLasuva mUlaka A sarvanAmada vyAptiyannu sUcisalAguttade.
 ivu bEre bEre pratyayagaLallade, ondE pratyayada rUpabhEdagaLalla. hAgAgi, AdESa
-padada baLakeyU illi ucitavalla (4.5 nODi).
+padada baLakeyU illi ucitavalla (೪.೫ nODi).
 
-prAcIna haLegannaDa vyAkaraNagaLalli Agama, AdESa, pratyaya modalAda pAribhASika
+prAcIna haLegannaDa vyAkaraNagaLalli Agama, AdESa, pratyaya modalAda pAribhAShika
 padagaLannu I rIti tappAgi baLasiruvudakke bEreyU halavu udAharaNegaLannu
-kANabahudu. bhaTTAkaLankana sU. 588ralli pADuvannam, pADuvudum, pADuvinegam
+kANabahudu. bhaTTAkaLankana sU. ೫೮೮ralli pADuvannam, pADuvudum, pADuvinegam
 embavugaLalli vannam, vudum, vannegam, vinegam emba pratyayagaLu bandiveyendu
-hELalAgide; Adare, nijakkU I padarUpagaLalli kriyApadagaLa baLika bhaviSyadarthada
+hELalAgide; Adare, nijakkU I padarUpagaLalli kriyApadagaLa baLika bhaviShyadarthada
 v‌ pratyayavU, sarvapadagaLa annegam, annam, udum modalAda rUpagaLU bandive.
 
 
 <a id="sec-2-5"></a>
 
-## 2.5 haLegannaDada vyApti
+## ೨.೫ haLegannaDada vyApti
 
-[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-2--use-of-technical-terms)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-2--use-of-technical-terms) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-2-5)
 
 
 kESirAjanu vyAkaraNavannu racisida kAladalli, grantharacaneyalli baLakeyAgutti dda
-haLegannaDa bhASAprabhEda mAtinalli baLakeyallidda prabhEdakkinta bhinnavAgiddirabEku. I
+haLegannaDa bhAShAprabhEda mAtinalli baLakeyallidda prabhEdakkinta bhinnavAgiddirabEku. I
 kAraNakkAgi, Atanu tanna vyAkaraNa niyamagaLige mAtinalli baLakeyAguva vAkyagaLannu
 
 AdhAravAgi koDuva badalu, granthagaLalli kanDubaruva prayOgagaLannu AdhAravAgi
 koDuva avaSyakateyunTAgittu.
 
-biLigiri (1964:12) sUcisida hAge, sumAru 350 varSagaLaSTu dIrphavAda
+biLigiri (೧೯೬೪:೧೨) sUcisida hAge, sumAru ೩೫೦ varShagaLaShTu dIrphavAda
 avadhiyalli racitavAda haLegannaDa granthagaLannu Atanu tanna vyAkaraNakke AkaragaLannAgi
 baLasiddAne. I dIrphavAda avadhiyalli haLegannaDa halavu rItiya badalAvaNegaLannu
 kanDiddu, avugaLalli kelavu I granthagaLannU bAdhisive. Adare, kESirAjanige ivannu
-"bhASeyalli naDeda badalAvaNe'gaLembudAgi parigaNisalu sAdhyavAgiralilla.
+"bhASheyalli naDeda badalAvaNe'gaLembudAgi parigaNisalu sAdhyavAgiralilla.
 
-antaha aytihAsika dxSTiyilladiddudu Atana vyAkaraNakke halavu rItiya
+antaha aytihAsika dxShTiyilladiddudu Atana vyAkaraNakke halavu rItiya
 samasyegaLannu tandoDDi de. Atanu tanna vyAkaraNakke AdhAravAgi baLasidantaha granthagaLalli
 kANisuva "badalAvaNe'gaLalli kelavannu vikalpagaLendu parigaNisiruvanAdare innu kelavannu
 tappu endu sAriddAne; vikalpagaLendu parigaNisiruvallella anavaSyakavAgi vyAkaraNa
-niyamagaLannu kalpisabEkAgideyAda kAraNa, adarindAgi Atana vyAkaraNa kli STavAgide.
+niyamagaLannu kalpisabEkAgideyAda kAraNa, adarindAgi Atana vyAkaraNa kli ShTavAgide.
 
 udAharaNegAgi, pakAra hakAravAguva badalAvaNe kelavu haLegannaDa granthagaLannu
 bAdhiside; Adare, bEre kelavu granthagaLannu bAdhisilla. pampabhAratada kannaDa padagaLalli
 I badalAvaNe kANisuvudilla; Adare, anantarada granthagaLalli kANisikoLLutta de.
 kESirAjanu I rIti pakArakke badalAgi hakAra baLakeyAguvudannu vikalpavendu
-parigaNisiddAne, mattu dESiyalli adu celvu endU hELiddAne (sU. 170).
+parigaNisiddAne, mattu dESiyalli adu celvu endU hELiddAne (sU. ೧೭೦).
 
 Adare beral‌, koral‌, saral‌, oral‌ modalAda padagaLalli rakArada anantara
 baruva lakAravannu LakAravAgi (beraL‌, koraL‌, saraL‌, oraL‌ ityAdiyAgi)
-uccarisuvudannu Atanu niSEdhisiddA ne (sU. 38). nijakkU idu pakAra hakAravAgiruva
+uccarisuvudannu Atanu niShEdhisiddA ne (sU. ೩೮). nijakkU idu pakAra hakAravAgiruva
 hAge kannaDada itihAsadalli naDediruva innondu badalAvaNe.
 
 marangaL‌, polangaL‌, kelangaL‌, payangaL‌ modalAda padagaLalli kANisuva
 bindu lOpagoLLuvudU (maragaL‌, polagaL‌, kelagaL‌, payagaL‌ endAguvudU)
 kannaDada itihAsadalli kANisuva ondu badalAvaNe. Adare, kESirAjanu idannu
 vikalpavendu parigaNisi, adakkAgi vyAkaraNa niyamavondannu kalpi sikonDiddAne (sU.
-113). intaha bEreyU halavu "vyAkaraNa niyama'gaLannu Atana vyAkaraNadalli
+೧೧೩). intaha bEreyU halavu "vyAkaraNa niyama'gaLannu Atana vyAkaraNadalli
 kANabahudu.
 
 
 <a id="sec-2-6"></a>
 
-## 2.6 pAribhASika padagaLalli kannaDatana
+## ೨.೬ pAribhAShika padagaLalli kannaDatana
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-2-6) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-2--use-of-technical-terms)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-2--use-of-technical-terms) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-2-6)
 
 
 haLegannaDa vyAkaraNagaLa mEle samskxta vyAkaraNakke entaha hiDitavittu embudannu,
-mEle (2.1)ralli sUcisida hAge, I vyAkaraNagaLalli baLakeyAguva pAribhASika
+mEle (೨.೧)ralli sUcisida hAge, I vyAkaraNagaLalli baLakeyAguva pAribhAShika
 padagaLE sAri hELuttave; ivu nUrakke nUrU samskxta vyAkaraNadinda eravalAgi
 paDeda padagaLu.
 
 vyAkaraNavondannu samskxtadalli baredideyAdare, adaralli I rIti samskxtadavE
 
 Si
-Ada pAribhASika padagaLannu baLasuvudaralli avcityavide. Adare, kannaDadalli vyAkaraNavannu
+Ada pAribhAShika padagaLannu baLasuvudaralli avcityavide. Adare, kannaDadalli vyAkaraNavannu
 
-bareyuvavaru avaSyaviruva pAribhASika padagaLannella AdaSTu maTTige kannaDadallEnE
+bareyuvavaru avaSyaviruva pAribhAShika padagaLannella AdaShTu maTTige kannaDadallEnE
 tayArisikoLLuva avaSyakateyideyallavE? hAge tayArisalu sAdhyavilladalli mAtra,
-avannu samskxtadinda illavE bErondu bhASeyinda eravalAgi paDedukoLLabEku.
+avannu samskxtadinda illavE bErondu bhASheyinda eravalAgi paDedukoLLabEku.
 
 kannaDadalli haLegannaDakke illavE hosagannaDakke vyAkaraNavannu bareyalu
-prayatnisuvavarellarU I viSayavannu gamanadallirisuvudu avaSya endu nana
+prayatnisuvavarellarU I viShayavannu gamanadallirisuvudu avaSya endu nana
 tOruttade. hIge mADuvudarinda halavu rItiya prayOjanagaLannu paDeyalu
 sAdhyavide.
 
-(1) I rIti sAdhyaviruvallella kannaDadavE Ada pAribhASika padagaLannu
+(೧) I rIti sAdhyaviruvallella kannaDadavE Ada pAribhAShika padagaLannu
 baLasuvudarinda samskxta gottilladavarige kannaDa vyAkaraNavannu artha mADikoLLalu
 sulabhavAguttade. udAharaNegAgi, hrasva mattu dIrphtha svaragaLannu udda mattu giDDa
 svaragaLendu karedalli ivugaLa artha samskxta gottilladavarigU sulabhavAgi tiLiyuttade.
 samastapadagaLannu jODupadagaLendu karedarU intahadE prayOjanavide.
 
-(2) kelavu pAribhASika padagaLu samskxtadalli baLakeyAguva vyAkaraNada mUla
+(೨) kelavu pAribhAShika padagaLu samskxtadalli baLakeyAguva vyAkaraNada mUla
 tatvagaLa mEle avalambitavAgiddu, kannaDa vyAkaraNakke anukUlavAduvalla. avannu
-baLasuvudarinda samskxta mattu kannaDa bhASegaLa naDuve I mUlatatvagaLa maTTige
-vyatyAsavideyemba viSaya spaSTavAguvudilla.
+baLasuvudarinda samskxta mattu kannaDa bhAShegaLa naDuve I mUlatatvagaLa maTTige
+vyatyAsavideyemba viShaya spaShTavAguvudilla.
 
-udAharaNegAgi, tatpuruSa, bahuvrIhi, avyayIbhAva, dvandva modalAda
-samskxta samAsagaLa hesarugaLu A bhASe samastapadagaLannu racisuvalli baLasuva
+udAharaNegAgi, tatpuruSha, bahuvrIhi, avyayIbhAva, dvandva modalAda
+samskxta samAsagaLa hesarugaLu A bhAShe samastapadagaLannu racisuvalli baLasuva
 mUlatatvavannavalambisive. angavAgi bandiruva padagaLalli yAvudu pradhAna embudara
-mEle I pAribhASika padagaLannu tayArisalAgide. Adare kannaDa samastapadagaLa racaneyalli
-idakkinta tIra bhinnavAda mUlatatva baLakeyAguvudAda kAraNa (5.3.2 nODi),
-adara samAsagaLannu hesarisuvalli bEreyE pAribhASika padagaLannu baLasuvudu oLLeyadu.
+mEle I pAribhAShika padagaLannu tayArisalAgide. Adare kannaDa samastapadagaLa racaneyalli
+idakkinta tIra bhinnavAda mUlatatva baLakeyAguvudAda kAraNa (೫.೩.೨ nODi),
+adara samAsagaLannu hesarisuvalli bEreyE pAribhAShika padagaLannu baLasuvudu oLLeyadu.
 
 idE rItiyalli, samskxta vibhaktigaLa hesarugaLu (prathamA, dvitIyA ityAdi),
 kArakagaLa hesarugaLu (katanx, karma, karaNa ityAdi), nAmapadagaLa racaneyalli
-baLakeyAguva pratyayagaLa hesarugaLu (kxt‌ mattu taddhi ta) modalAda pAribhASika
+baLakeyAguva pratyayagaLa hesarugaLu (kxt‌ mattu taddhi ta) modalAda pAribhAShika
 padagaLu samskxta vyAkaraNadalli baLakeyAguva mUlatatvagaLa mEle avalambisive.
 kannaDa ivakkinta tIra bhinnavAda mUlatatvagaLannu baLasuttideyAda kAraNa, avu kannaDa
-vyAkaraNakke anukUlavAda pAribhASika padagaLalla.
+vyAkaraNakke anukUlavAda pAribhAShika padagaLalla.
 
-(3) pada mattu Sabda emberaDu pAribhASika padagaLa naDuviruva vyatyAsa
+(೩) pada mattu Sabda emberaDu pAribhAShika padagaLa naDuviruva vyatyAsa
 innondu rItiyadu. samskxta vyAkaraNadalli sup‌ mattu tij‌ emba eraDu rItiya
 pratyayagaLondige baruvavugaLannu mAtra padagaLendu kareyabEku emba niyamavannu
 mADalAgide. I pratyayagaLu sErilla vAdare, adannu Sabda endu kareyabahudu.
-Adare, samskxtadallEnE I niyamavannu aSTondu kaTTuniTTAgi anusarisilla.
+Adare, samskxtadallEnE I niyamavannu aShTondu kaTTuniTTAgi anusarisilla.
 kelaveDegaLalli Sabda embarthadallU pada embudannu baLasalAguttade.
 
-kannaDa vyAkaraNada maTTige pada emba ondu pAribhASika pada mAtra sAku.
+kannaDa vyAkaraNada maTTige pada emba ondu pAribhAShika pada mAtra sAku.
 
-adakkinta bhinnavAda Sabda padada avaSyakate adakkilla (bhaT‌ 2002:19 nODi).
+adakkinta bhinnavAda Sabda padada avaSyakate adakkilla (bhaT‌ ೨೦೦೨:೧೯ nODi).
 padadondige “padarUpa pratyaya' bandideyAdare avannu padarUpagaLendu kareyalu
 sAdhyavide, mattu hAge kareyuvudu kannaDa vyAkaraNada maTTige heccu anukUlavAdudu.
 
-(4) kannaDadalli baLakeyAguva padagaLalli yAvudu tappu mattu yAvudu sari
-emba viSayadallU kannaDaddE Ada niyamagaLive. ivu samskxtada niyamagaLinda
+(೪) kannaDadalli baLakeyAguva padagaLalli yAvudu tappu mattu yAvudu sari
+emba viShayadallU kannaDaddE Ada niyamagaLive. ivu samskxtada niyamagaLinda
 bhinnavAgiralu sAdhyavideyAda kAraNa, kannaDa barahagaLa mEle samskxtada niyamagaLannu
-hEruvudu sariyalla. halavaru samskxta vidvAmsaru I viSayavannu gamanisuvudilla.
+hEruvudu sariyalla. halavaru samskxta vidvAmsaru I viShayavannu gamanisuvudilla.
 
 udAharaNegAgi, samskxtadalli vayyAkaraNa mattu ve TayAkaraNi emba padagaLa
 naDuve arthadalli vyatyAsavide. vayyAkaraNa embudu pullinga rUpavAgiddu, obba
@@ -1513,33 +1514,33 @@ ganDasannu sUcisuttade, mattu vayyAkaraNi embudu adara stra linga rUpavAgiddu
 obba hengasannu sUcisuttade.
 
 Adare, kannaDadalli I vyatyAsavilla; adaralli I eraDu padagaLannU ondE
-arthadalli baLasalAguttade (kiTTel‌ avara kannaDa-ingliS‌ DikT‌nari nODi). idannu
+arthadalli baLasalAguttade (kiTTel‌ avara kannaDa-ingliSh‌ DikT‌nari nODi). idannu
 gamanisada vidvAmsaru vayyAkaraNi emba padavannu vayyAkaraNa embarthadalli
 (kannaDadalli) baLasuvavaru ajYAnigaLu embudAgi appa Ne koDisuttAre (ranganAtha
-SarmA 2002:2 nODi).
+SarmA ೨೦೦೨:೨ nODi).
 
-kannaDa bhASege eravalAgi bandiruva padagaLige I rIti kannaDadde € Ada vyAkaraNa
-niyamagaLu anvayisuttaveyalla de avannu eravalu koTTiruva samskxta, ingliS‌
-modalAda bhASegaLa vyAkaraNa niyamagaLu anvayisuvudilla. intaha padagaLige bEre
+kannaDa bhAShege eravalAgi bandiruva padagaLige I rIti kannaDadde € Ada vyAkaraNa
+niyamagaLu anvayisuttaveyalla de avannu eravalu koTTiruva samskxta, ingliSh‌
+modalAda bhAShegaLa vyAkaraNa niyamagaLu anvayisuvudilla. intaha padagaLige bEre
 bEre rUpagaLu baLakeyalliralu sAdhyaviddu, avugaLalli yAvudu sari mattu yAvudu
-tappu embudannu kannaDada vyAkaraNa niyamavannu (illavE SiSTa sampradAyavannu)
-anusarisi nirdharisabEkallade, eravalu koTTiruva bhASegaLa niyamagaLannu kannaDada
+tappu embudannu kannaDada vyAkaraNa niyamavannu (illavE SiShTa sampradAyavannu)
+anusarisi nirdharisabEkallade, eravalu koTTiruva bhAShegaLa niyamagaLannu kannaDada
 mEle hEruvudu sariyalla.
 
 
 <a id="sec-2-7"></a>
 
-## 2.7 sArAmSa
+## ೨.೭ sArAmSa
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-2-7) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-2--use-of-technical-terms)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-2--use-of-technical-terms) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-2-7)
 
 
-haLegannaDa vyAkaraNagaLalli baLakeyAgiruva pAribhASika padagaLellavU samskxta
+haLegannaDa vyAkaraNagaLalli baLakeyAgiruva pAribhAShika padagaLellavU samskxta
 vyAkaraNadinda paDedavugaLu. ivu samskxta vyAkaraNavannu vivarisi hELuvudakke
 anukUlavAdantaha kalpanegaLannu pratibimbisuttave. haLegannaDa vyAkaraNavannu vivarisi
 hELuvudakkU ivu anukUlavAgirabEkendEnU illa.
 
-intaha pAribhASika padagaLalli halavu samskxtadalli mAtravE kANisuvantaha
+intaha pAribhAShika padagaLalli halavu samskxtadalli mAtravE kANisuvantaha
 vyAkaraNa niyamagaLannu varNisuvudakkAgi siddha vAgive. avu nijakkU haLegannaDa vyAkaraNakke
 avaSyavilladavugaLu.
 
@@ -1549,7 +1550,7 @@ kelavu badalAvaNegaLannu mADikoLLuva avaSyakateyide. avannu hAgeyE baLasidevAdar
 halavAru samasyegaLu huTTikoLLuttave. haLegannaDa samskxtakkinta tIra bhinnavAda vyAkaraNada
 mUlatatvagaLannu baLasuttiruvudE idakke kAraNa.
 
-intaha badalAvaNegaLannu mADikoLLade samska late vyAkaraNada pAribhASika padagaLannu
+intaha badalAvaNegaLannu mADikoLLade samska late vyAkaraNada pAribhAShika padagaLannu
 nEravAgi haLegannaDa vyAkaraNa niyamagaLannu vivarisuvalli baLasiruva kAraNa, haLegannaDada
 prAcIna vayyAkaraNigaLu hEge tondaregIDAgiddAre embudannu I adhyAyadalli
 vivarisalAgide.
@@ -1557,11 +1558,11 @@ vivarisalAgide.
 
 <a id="ch3"></a>
 
-# adhyAya 3 — varNagaLa baLake
+# adhyAya ೩ — varNagaLa baLake
 
 [↑ oLapiDige hintirugi](#toc)
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#ch3) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-3--use-of-phonemes)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-3--use-of-phonemes) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#ch3)
 
 ---
 
@@ -1570,46 +1571,46 @@ varNagaLa baLake
 
 <a id="sec-3-1"></a>
 
-## 3.1 pIThike
+## ೩.೧ pIThike
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-3-1) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-3--use-of-phonemes)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-3--use-of-phonemes) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-3-1)
 
 
-ellA bhASegaLU varNagaLannu jODisi padagaLannu racisutta veyAdarU, idakkAgi
+ellA bhAShegaLU varNagaLannu jODisi padagaLannu racisutta veyAdarU, idakkAgi
 yAva varNagaLannella baLasalAguttade, mattu avannu yAva anukramadallella
-jODisalAguttade emba viSayadalli bhASegaLoLage sAkaSTu vyatyAsagaLu kanDubarutta ve.
+jODisalAguttade emba viShayadalli bhAShegaLoLage sAkaShTu vyatyAsagaLu kanDubarutta ve.
 mEle pIThikeyalli sUcisida hAge, haLegannaDa mattu samskxtagaLa naDuve padaracanegAgi
 avu baLasuva varNagaLa sankhye, avugaLa svarUpa, mattu padagaLalli avugaLigiruva
-anukrama - I mUru viSayagaLallU halavu mukhyavAda vyatyAsagaLive.
+anukrama - I mUru viShayagaLallU halavu mukhyavAda vyatyAsagaLive.
 
 samskxta vyAkaraNagaLalli baruva varNagaLa paTTi, avugaLa vibhajane, mattu
-adarinda siddhavAguva pAribhASika padagaLu ivannella hAgeyE tamma haLegannaDa
+adarinda siddhavAguva pAribhAShika padagaLu ivannella hAgeyE tamma haLegannaDa
 vyAkaraNagaLallU baLasida prAcIna vayyAkaraNigaLu anavaSyakavAgi haLegannaDa vyAkaraNa
-bahaLa kliSTavAguvante mADiddA re. I ellA viSayagaLallU haLegannaDa tannadE Ada
+bahaLa kliShTavAguvante mADiddA re. I ellA viShayagaLallU haLegannaDa tannadE Ada
 vyAkaraNada mUla tatvagaLannu baLasikoLLuvudAda kAraNa, haLegannaDakke adaradE Ada
-varNagaLa paTTi, vibhajane, mattu pAribhASika padagaLa avaSyakateyide.
+varNagaLa paTTi, vibhajane, mattu pAribhAShika padagaLa avaSyakateyide.
 
 
 <a id="sec-3-2"></a>
 
-## 3.2 varNagaLa paTTi
+## ೩.೨ varNagaLa paTTi
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-3-2) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-3--use-of-phonemes)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-3--use-of-phonemes) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-3-2)
 
 
 samskxtakkU haLegannaDakkU naDuve avu baLasuva varNagaLa maTTige halavu
 vyatyAsagaLiddu, ivugaLalli kelavannu haLegannaDada prAcIna vayyAkaraNigaLu gamanisiddAre;
-bEre kelavannu Adhunika vidvAmsaru (biLigiri 1969, sItArAmayya 1979 nODi)
-vivarisiddAre. hAgAgi, I viSayadalli illi jAsti bareyabEkAgilla.
+bEre kelavannu Adhunika vidvAmsaru (biLigiri ೧೯೬೯, sItArAmayya ೧೯೭೯ nODi)
+vivarisiddAre. hAgAgi, I viShayadalli illi jAsti bareyabEkAgilla.
 
-samskxta padagaLa racaneyalli baLakeyAguva mahAprANAkSaragaLu (kha, cha, Tha,
-tha, phagha mattu gha, ru, Dha, dha, bha), kha, Sa, Sa, ha modalAda halavu varNagaLu
+samskxta padagaLa racaneyalli baLakeyAguva mahAprANAkSharagaLu (kha, cha, Tha,
+tha, phagha mattu gha, ru, Dha, dha, bha), kha, Sa, Sha, ha modalAda halavu varNagaLu
 haLegannaDa padagaLa racaneyalli baLakeyAguvudilla. idakke badalu, haLegannaDa padagaLa
 racaneyalli baLakeyAguva giDDa (prasta) ekAra-okAragaLu mattu a, Ta, La varNagaLu
 samskxta padagaLa racaneyalli baLakeyAguvudilla.
 
-ay mattu avgaLige kannaDa barahadalli viSiSTavAda svarasanjYegaLu iveyAdarU
-avu haLegannaDa bhASeyalli viSiSTavAda svaragaLEnalla. uccAraNeyalli avu ay‌
+ay mattu avgaLige kannaDa barahadalli viSiShTavAda svarasanjYegaLu iveyAdarU
+avu haLegannaDa bhASheyalli viSiShTavAda svaragaLEnalla. uccAraNeyalli avu ay‌
 mattu av‌ emba svara-vyanjana jODigaLiginta bhinnavalla. haLegannaDadalli I eraDu
 svara-vyanjana jODigaLu mAtravallade, geyge, poysu, muyvu, pOytu, kAydu
 
@@ -1617,7 +1618,7 @@ modalAda padagaLalli kANisuva hAge ey‌, oy‌, uy‌, Oy‌, Ay‌ modalAda
 antahavE bEreyU halavu jODigaLive.
 
 hAgAgi, modalina eraDu svara-vyanjana jODigaLannu (ay‌ mattu av‌
-embavugaLannu) sUcisuvudakkAgi mAtra viSiSTavAda svara sanjYe( (ay, av)gaLannu baLasuvudu
+embavugaLannu) sUcisuvudakkAgi mAtra viSiShTavAda svara sanjYe( (ay, av)gaLannu baLasuvudu
 haLegannaDada maTTigantU anavaSyaka.
 
 samskxtadalli ay‌ mattu av‌ emba eraDu jODigaLu mAtra baLakeyallive;
@@ -1627,16 +1628,16 @@ I eraDu jODigaLu samskxtadalli itara svaragaLa hAge kANisikoLLutta vallade svara
 vyanjana jODigaLa hAge kANisuvudilla.
 
 I kAraNagaLigAgi, samskxtada barahadalli ay‌ mattu av‌ embavugaLige
-viSiSTavAda sanjYe] gaLannu kalpisikoLLuvudu mattu adara akbaramAleyalli avannu
+viSiShTavAda sanjYe] gaLannu kalpisikoLLuvudu mattu adara akbaramAleyalli avannu
 svaragaLondige sErisi hELuvudu samarthanIyavAgide.
 
 nAvu baLasuva kannaDa lipi brAhmI lipiyinda beLedu bandide. I lipiyannu
 mukhyavAgi samskxta, mattu pAli, prAkxta modalAda samskxtadantahavE Ada itara
-inDO-Aryan‌ bhASegaLannu barahakke iLisuvudakkAgi tayArisalAgide. hAgAgi, I
-bhASegaLa maTTige samarthanIyavAdarU kannaDada maTTige samarthanIyavalladiruva,
+inDO-Aryan‌ bhAShegaLannu barahakke iLisuvudakkAgi tayArisalAgide. hAgAgi, I
+bhAShegaLa maTTige samarthanIyavAdarU kannaDada maTTige samarthanIyavalladiruva,
 mElina eraDu sanjYe gaLu namma lipiyalli sErikonDive.
 
-ivallade, mEle sUcisida hAge ya, Sa, mahAprANAkSaragaLu modalAda bEre
+ivallade, mEle sUcisida hAge ya, Sha, mahAprANAkSharagaLu modalAda bEre
 kelavu sanjYe; gaLU idE rItiyalli anavaSyakavAgi namma lipiyalli sErikonDive.
 
 avaSyavilladiddarU I hecci na sanjYe gaLannu baLasi abhyAsavAgiruva ivattina
@@ -1652,15 +1653,15 @@ embudu nanagantU arthavAguvudilla.
 
 <a id="sec-3-3"></a>
 
-## 3.3 varNagaLa anukrama
+## ೩.೩ varNagaLa anukrama
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-3-3) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-3--use-of-phonemes)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-3--use-of-phonemes) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-3-3)
 
 
-varNagaLu padagaLalli yAva anukramadallella baraballuvu emba viSayadallU
-samskxta mattu kannaDa bhASegaLa naDuve kelavu mukhyavAda vyatyAsagaLive. udAharaNegAgi,
+varNagaLu padagaLalli yAva anukramadallella baraballuvu emba viShayadallU
+samskxta mattu kannaDa bhAShegaLa naDuve kelavu mukhyavAda vyatyAsagaLive. udAharaNegAgi,
 pampabhAratada kannaDa vyAkaraNavannu ALavAgi samSOdhisida rAmacandra rAyaru
-(1972:9-20) koTTiruva haLegannaDada kelavu niyamagaLannu samskxta niyamagaLondige
+(೧೯೭೨:೯-೨೦) koTTiruva haLegannaDada kelavu niyamagaLannu samskxta niyamagaLondige
 hOlisi nODabahudu.
 
 pampabhAratada haLegannaDa (dESi) padagaLalli samAnavallada eraDu vyanjanagaLu
@@ -1674,12 +1675,12 @@ okkal‌ ityAdi).
 
 Adare, samskxta padagaLalli samAnavallada eraDu vyanjanagaLa sErikeyalli
 modalaneya vyanjanavAgi sparSagaLU baraballuvu. udAharaNegAgi, bhakti, sapta,
-rAkSasa, vatsa embantaha padagaLalli kt‌, pt‌, ks‌ mattu ts‌ emba samAnavallada
+rAkShasa, vatsa embantaha padagaLalli kt‌, pt‌, ks‌ mattu ts‌ emba samAnavallada
 vyanjanakantegaLu bandiddu, ivugaLalli modalaneya vyanjanavAgi ondu sTa rSa (k‌,
 p‌ illavE t‌) bandide.
 
 samskxta padagaLa AdiyallU eraDu vyanjanagaLu oTTAgi baraballuvu;
-udAharaNegAgi, krAnti, kSame, jYAna, jyOti, dvESa, mle ccha modalAda padagaLa
+udAharaNegAgi, krAnti, kShame, jYAna, jyOti, dvESha, mle ccha modalAda padagaLa
 Adiyalli eraDeraDu vyanjanagaLu oTTAgi bandive. Adare, haLegannaDa padagaLa Adiyalli
 I rIti eraDu vyanjanagaLu oTTAgi baralAravu.
 
@@ -1690,9 +1691,9 @@ baraballuvu (viSvajit‌, sarvaSak‌, viT‌).
 
 <a id="sec-3-4"></a>
 
-## 3.4 tadbhavagaLalli kANisuva badalAvaNegaLu
+## ೩.೪ tadbhavagaLalli kANisuva badalAvaNegaLu
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-3-4) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-3--use-of-phonemes)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-3--use-of-phonemes) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-3-4)
 
 
 haLegannaDakke samskxtadinda nUrAru padagaLu eravalAgi bandive. ivugaLalli
@@ -1702,27 +1703,27 @@ pAli, prAkxta modalAduvugaLa mUlaka bandudarindalU intaha padagaLalli kelavu
 samskxta padagaLiginta bhinnavAgive.
 
 samskxtadinda bandiruva I padagaLalli kANisuva badalAvaNegaLalli heccinavakkU
-A bhASeyalli baLakeyAguva varNagaLa sankhye, svarUpa, mattu anukramagaLu
+A bhASheyalli baLakeyAguva varNagaLa sankhye, svarUpa, mattu anukramagaLu
 haLegannaDadalliruvudakkinta bhinnavAgiruvudE mukhya kAraNa. udAharaNegAgi, samskxtadalli
 mahAprANAkTaragaLive; Adare, haLegannaDadallilla. hAgAgi, samskxtadinda eravalAgi
-bandiruva halavu padagaLalli mahAprANAkSaragaLu alpaprANAkTaragaLAgive (mukha-
+bandiruva halavu padagaLalli mahAprANAkSharagaLu alpaprANAkTaragaLAgive (mukha-
 muka, ghanTe-ganTe, kathe-kate, icche-icce, dhUpa-dUpa).
 
-haLegannaDadalli sa-Sa-SagaLa badalu sa embudondE idditAda kAraNa, taddha say vagaLalli
-Sa-SagaLu sa Aguttave (Sanke-sanke, Suci-suci, bhASe-bAse, viSaya-visaya).
+haLegannaDadalli sa-Sa-ShagaLa badalu sa embudondE idditAda kAraNa, taddha say vagaLalli
+Sha-SagaLu sa Aguttave (Sanke-sanke, Suci-suci, bhAShe-bAse, viShaya-visaya).
 
 mEle vivarisida hAge, haLegannaDa padagaLa Adiyalli ondakkinta jAsti vyanjanagaLu
 baralAravu. hAgAgi, modalige eraDu vyanjanagaLu baruva samskxta padagaLalli bEre
 bEre rItiya badalAvaNegaLu naDedu, avugaLalli ondu vyanjana mAtra uLiyuva
-hAgAgide (klAra-kAra, smaSAna-masaNa, prAya-haraya, dhxSTa-diTTa, dhvani-dani,
-tyAgi-cAgi, kSaNa-caNa, SrI-siri, sthAna-tANa).
+hAgAgide (klAra-kAra, smaSAna-masaNa, prAya-haraya, dhxShTa-diTTa, dhvani-dani,
+tyAgi-cAgi, kShaNa-caNa, SrI-siri, sthAna-tANa).
 
 
 <a id="sec-3-5"></a>
 
-## 3.5 padagaLa uccAraNe
+## ೩.೫ padagaLa uccAraNe
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-3-5) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-3--use-of-phonemes)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-3--use-of-phonemes) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-3-5)
 
 
 haLegannaDa mattu samskxtagaLa naDuve padagaLa uccAraNeyallU ondu mukhyavAda
@@ -1738,7 +1739,7 @@ udAharaNegAgi, rAjaputra padadalli koneya svara udAttavAgideyAdare
 “rAjanu maganAgiruvavanu' (endare “rAjana tande') emba artha baruttade.
 
 svaragaLa uccAraNeyalli kANisuva I uccAraNeya vyatyAsa vEda kAlada
-samskxtadalli spaSTavAgittu. anantara idu pANini, patanjali modalAdavara kAladavaregU
+samskxtadalli spaShTavAgittu. anantara idu pANini, patanjali modalAdavara kAladavaregU
 uLidukonDittu. Adare, ELu-enTanE SatamAnada hottige idara baLake mAtininda
 biddu hOgalu Arambhisi, anantarada samskxtadalli pUrti illavAgide. Iginavaru
 vEdamantragaLa uccAraNeyalli mAtra I vyatyAsavannu kANisuttAre.
@@ -1756,75 +1757,75 @@ vyatyAsavannu sUcisabEkendu yArU hELuva hAge kANisuvudilla).
 
 <a id="sec-3-6"></a>
 
-## 3.6 varNagaLa gumpugaLu
+## ೩.೬ varNagaLa gumpugaLu
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-3-6) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-3--use-of-phonemes)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-3--use-of-phonemes) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-3-6)
 
 
-ondu bhASeyalli baruva varNagaLannu yAva rItiya gumpugaLalli vingaDisi
+ondu bhASheyalli baruva varNagaLannu yAva rItiya gumpugaLalli vingaDisi
 hELabEku embudu avugaLa utpAdane, baLake mattu caritreyalli kANisu
-guNadharmagaLannavalambiside. ivu ondu bhASeyinda innondu bhASege bEre
+guNadharmagaLannavalambiside. ivu ondu bhASheyinda innondu bhAShege bEre
 
 bEreyAgiralu sAdhyavideyAda kAraNa, varNagaLannu yAva rItiya gumpugaLalli
-sErisi hELabEku embudU bhASeyinda bhASege bEre bEreyAgiralu sAdhyavide.
+sErisi hELabEku embudU bhASheyinda bhAShege bEre bEreyAgiralu sAdhyavide.
 
 
 <a id="sec-3-6-1"></a>
 
-### 3.6.1 samskxtada svaragaLu
+### ೩.೬.೧ samskxtada svaragaLu
 
 
-inDO-yurOpiyan‌ bhASAkuTumbada mUlabhASeyallidda svaragaLalli
+inDO-yurOpiyan‌ bhAShAkuTumbada mUlabhASheyallidda svaragaLalli
 a, i mattu u emba mUru svaragaLu mAtra samskxtadalli badalAgade uLidive;
 ivu giDDa (prasta) svaragaLirabahudu, illavE udda (dIrpha) svaragaLirabahudu. mUla
-bhASeya ekAra-EkAra mattu okAra-OkAragaLu samskxtadalli akAra-AkAragaLAgi
+bhASheya ekAra-EkAra mattu okAra-OkAragaLu samskxtadalli akAra-AkAragaLAgi
 badalAgive.
 
-I ellA svaragaLannU hAgeyE uLisikonDiruva lyATin‌ bhASeya padagaLondige
-samskxta padagaLannu hOlisi nODidAga I viSaya spaSTavAguttade:
+I ellA svaragaLannU hAgeyE uLisikonDiruva lyATin‌ bhASheya padagaLondige
+samskxta padagaLannu hOlisi nODidAga I viShaya spaShTavAguttade:
 
 samskxta lyATin‌
 
-(1ka) ayas‌ aes‌ "lOha'
+(೧ka) ayas‌ aes‌ "lOha'
 apa ab‌ “Ace'
 hamsa anser‌ "hamsa'
 mAtar‌ mAter‌ “tAyi
 svAdu suAvis‌ "sihi'
 
-(1kha) asti es‌ "ide'
+(೧kha) asti es‌ "ide'
 madhya medius‌ "naDuve'
 ca ke "matu
 rAjan‌ rEks‌ “arasu'
 sAmi sEmi “are'
 
-(1ga) avi ovis‌ "kuri'
+(೧ga) avi ovis‌ "kuri'
 asthi os‌ "elubu'
 jA potis‌ "ganDa, samartha'
 kas‌ kod‌ "yAru'
 As‌ Os‌ "bAyi'
 pA pOtus‌ "kuDi'
 
-mEle (1ka)dalli samskxtada akAra mattu AkAragaLu lyATin‌nalli hAgeyE
-kANisikoLLuttave; Adare, (1kha)dalli avu ekAra-EkAragaLAgi kANisikoLLuttave,
-mattu (1ga)dalli okAra-OkAragaLAgi kANisikoLLuttave.
+mEle (೧ka)dalli samskxtada akAra mattu AkAragaLu lyATin‌nalli hAgeyE
+kANisikoLLuttave; Adare, (೧kha)dalli avu ekAra-EkAragaLAgi kANisikoLLuttave,
+mattu (೧ga)dalli okAra-OkAragaLAgi kANisikoLLuttave.
 
-mUla inDO-yurOpiyan‌nalli (1ka)dalli kANisiruvantaha padagaLalli
-akAra mattu AkAragaLidduvendU, (1kha)dalli kANisiruvantaha padagaLalli ekAra
-mattu EkAragaLidduvendU, mattu (1ga)dalli kANisiruvantaha padagaLalli okAra
-mattu OkAragaLiddu vendU vidA ಿmsaru abhiprAyapaTTiddA re (barO 1955 nODi).
+mUla inDO-yurOpiyan‌nalli (೧ka)dalli kANisiruvantaha padagaLalli
+akAra mattu AkAragaLidduvendU, (೧kha)dalli kANisiruvantaha padagaLalli ekAra
+mattu EkAragaLidduvendU, mattu (೧ga)dalli kANisiruvantaha padagaLalli okAra
+mattu OkAragaLiddu vendU vidA ಿmsaru abhiprAyapaTTiddA re (barO ೧೯೫೫ nODi).
 ivellavU samskxtadalli akAra mattu AkAragaLAgi badalAgive.
 
-samskxtadalli giDDa ekAra mattu okAragaLilladiruvudakke mUla bhASeya ekAra-
+samskxtadalli giDDa ekAra mattu okAragaLilladiruvudakke mUla bhASheya ekAra-
 okAragaLu akAravAgiruva mElina badalAvaNeyE kAraNa. udda EkAra mattu
 okAragaLu samskxta padagaLalli kANisuvuvAdarU avu mUla padagaLalli dda EkAra-
-OkAragaLalla; avugaLalli kelavu mUla bhASeya ai, ei mattu oi emba svarajODigaLu
+OkAragaLalla; avugaLalli kelavu mUla bhASheya ai, ei mattu oi emba svarajODigaLu
 E endAdudarindAgi, mattu au, eu, ou embavugaLu O AdudarindAgi
 kANisikoLLuvavugaLu.
 
-udAharaNegAgi, samskxtada vEda padakke sariyAgi grIk‌ bhASeyalli oida
+udAharaNegAgi, samskxtada vEda padakke sariyAgi grIk‌ bhASheyalli oida
 endide, mattu tE embudakke sariyAgi toi endide; samskxtada Ojas‌ padakke
-sariyAgi lyATin‌nalli augustus‌ endide, mattu SOSa- embudakke sariyAgi
-lithuvEniyan‌ bhASeyalli sausas‌ endide.
+sariyAgi lyATin‌nalli augustus‌ endide, mattu SOSha- embudakke sariyAgi
+lithuvEniyan‌ bhASheyalli sausas‌ endide.
 
 idallade, sErikeya niyamagaLa mUlakavU I eraDu svaragaLu samskxtadalli
 siddhavAguttave. udAharaNegAgi, rAjEndra padadalli kANisuva EkAra rAja padada
@@ -1833,7 +1834,7 @@ mattu sUryOdaya padadalli kANisuva OkAra sUrya padada koneyalli baruva
 akAradondige udaya padada Adiyalliruva ukAra sEridudarindAgi siddha vAgide.
 
 I kAraNakkAgi, E mattu OgaLannu samskxtada vayyAkaraNigaLu a, A, i, I,
-u mattu UgaLinda bhinnavAgiruva "guNAkSara'gaLemba pratyEkavAdondu gumpinalli
+u mattu UgaLinda bhinnavAgiruva "guNAkShara'gaLemba pratyEkavAdondu gumpinalli
 irisuttAre.
 
 idE rItiyalli samskxtada ay mattu avgaLemba bEre eraDu svaragaLU mUla
@@ -1851,14 +1852,14 @@ aykAra Ai svara jODiyindalU bandide.
 
 <a id="sec-3-6-2"></a>
 
-### 3.6.2 haLegannaDada svaragaLu
+### ೩.೬.೨ haLegannaDada svaragaLu
 
 
 svaragaLannu bEre bEre gumpugaLalli sErisuva mElina samskxtada niyamagaLiginta
 kannaDada niyamagaLu tIrA bhinnavAgive. haLegannaDadalli a, i, u, e mattu o emba
 aydu svaragaLU mUla padagaLallEnE kANisikoLLuttave. ivellavU udda mattu giDDa
-embudAgi eraDeraDu rUpagaLalli baruttave. ivellavannU kannaDa bhASe tanna
-mUlabhASeyindalEnE nEravAgi paDedukonDide.
+embudAgi eraDeraDu rUpagaLalli baruttave. ivellavannU kannaDa bhAShe tanna
+mUlabhASheyindalEnE nEravAgi paDedukonDide.
 
 mUladrAviDada I svaragaLalli ikAra-ukAragaLu mAtra kelavu sandarbhagaLalli
 (avugaLa anantara akAra bandAga) ekAra-okAragaLAgi kannaDadalli badalAgive. nillu-
@@ -1868,13 +1869,13 @@ I badalAvaNeya pariNAmavannu kANabahudu.
 bEre kelavu sandarbhagaLalli (ikAra-ukAragaLu anantara bandAga) ekAra-
 okAragaLu ikAra-ukAragaLAgive. biLi-beLLage, kisu-kempu, tuTul‌-toltu, usiru-
 osage modalAda padayugmagaLannu I badalAvaNege udAharaNegaLannAgi koDabahudu
-(jAsti vivaragaLige bhaT‌ 2007 nODi). Adare, I eraDu rItiya badalAvaNegaLU
+(jAsti vivaragaLige bhaT‌ ೨೦೦೭ nODi). Adare, I eraDu rItiya badalAvaNegaLU
 mEle vivarisidantaha samskxtada badalAvaNegaLiginta tIra bhinnavAdavugaLu.
 
 ikAra-ekAragaLu nAligeya mumbhAgadalli huTTuvavugaLAgiddu ondu
 gumpinallU, ukAra-okAragaLu nAligeya himbhAgadalli huTTuvavugaLAgiddu innondu
-gumpinallU sEruttave. nAligeya naDu bhAgadalli huTTuva akAra kelavu viSayagaLalli
-ikAra-ekAragaLa hAge mattu bEre kelavu viSayagaLalli ukAra-okAragaLa hAge
+gumpinallU sEruttave. nAligeya naDu bhAgadalli huTTuva akAra kelavu viShayagaLalli
+ikAra-ekAragaLa hAge mattu bEre kelavu viShayagaLalli ukAra-okAragaLa hAge
 kANisikoLLutta de.
 
 idallade, bAyiyannu svalpavE teredu uccarisuva ikAra-ukAragaLu ondu
@@ -1895,24 +1896,24 @@ yakArada badalu vakAra baruttade (kayduvellam, pUvina).
 
 <a id="sec-3-6-3"></a>
 
-### 3.6.3 vyanjanAkSaragaLu
+### ೩.೬.೩ vyanjanAkSharagaLu
 
 samskxtada vyanjanAkTaragaLannu vargIyagaLu (illavE sparSagaLu) mattu
 avargIyagaLu embudAgi eraDu ುkhakhya gumpugaLalli vingaDisalAgide. ivugaLalli
 
 vargIyagaLannu avugaLa sthA navannAdharisi aydu vargagaLalli vingaDisalAgiddu ; pratiyondu
-vargadallU aghOSa-allaprANa (kacaTatapa), aghOSa-mahAprANa (khacaThathapha),
-ghOSa-alpaprANa (gajaDadaba), ghOSa-mahAprANa (gharuDhadhabha), mattu anunAsika
+vargadallU aghOSha-allaprANa (kacaTatapa), aghOSha-mahAprANa (khacaThathapha),
+ghOSha-alpaprANa (gajaDadaba), ghOSha-mahAprANa (gharuDhadhabha), mattu anunAsika
 (jaiNanama) embudAgi aydu rItiya vyanjanagaLu kANisikoLLutta ve. avargIyagaLannu
-antastha (yaralava) mattu USma (saSaSaha) embudAgi vingaDisalAgide.
+antastha (yaralava) mattu UShma (saSaShaha) embudAgi vingaDisalAgide.
 
 haLegannaDada vyanjanagaLannu I rIti vingaDisuva badalu, bEre rItiyalli
 vingaDisuvudarinda adara sErikeya niyamagaLannu vivarisuva kelasa sulabhavAguttade.
 idallade, samskxtada vargIyagaLalli kANisuva accukaTTu haLegannaDada vargIyagaLalli
-kANisuvudilla. udAharaNegAgi, haLegannaDadalli mahAprANAkSaragaLu illavAda kAraNa,
+kANisuvudilla. udAharaNegAgi, haLegannaDadalli mahAprANAkSharagaLu illavAda kAraNa,
 vargIyagaLalli mUru gumpugaLu mAtra uLiyuttave. illU, mUraneya gumpinalli
 samskxtada hAge aydu anunAsikagaLiruva badalu, mUru anunAsikagaLu (manaNa)
-mAtra ive (rAmacandrarAv‌ 1972 nODi).
+mAtra ive (rAmacandrarAv‌ ೧೯೭೨ nODi).
 
 idallade, haLegannaDada yaralavasa mattu LaTajagaLannu mElina aydu vargagaLallEnE
 sErisi hELuvudarinda, sErikeya niyamagaLannu vivarisuvalli heccina
@@ -1924,20 +1925,20 @@ avaSyakateyide.
 
 <a id="sec-3-6-4"></a>
 
-### 3.6.4 mAhESvara sUtragaLu
+### ೩.೬.೪ mAhESvara sUtragaLu
 
 
-illi gamanisabEkAgiruva mukhyavAda viSayavEnendare, pANiniya "mAhESvara
+illi gamanisabEkAgiruva mukhyavAda viShayavEnendare, pANiniya "mAhESvara
 sUtra'gaLannu, mattu avu sAdhyavAgisuva varNagaLa gumpugaLannu (aN‌, ak‌, ac‌
-modalAduvannu) samskxta bhASeyalli varNagaLa baLake entahadu, mattu sErikeya
+modalAduvannu) samskxta bhASheyalli varNagaLa baLake entahadu, mattu sErikeya
 (sandhiya) niyamagaLu entahavu embudannu sulabhavAgi vivarisalu anukUlavAguvante
 racisalAgide.
 
 udAharaNegAgi, aiuN‌, khayal‌'k‌ emba eraDu mAhESvara sUtragaLu
 sUcisuva ellA svaragaLannU (a, i, u, kha mattu l‌' embavugaLannu) I sUtragaLa
-modalaneya mattu koneya akSaragaLannu oTTige baLasi racisida "ak‌' sanjYeya
-mUlaka sankSiptavAgi sUcisalAguttade. idakke badalu, eraDaneya aksTaradondige
-koneya akSaravannu sErisi racisida "ik‌' sanjYeyannu baLasidalli, adu akAravannuLidu
+modalaneya mattu koneya akSharagaLannu oTTige baLasi racisida "ak‌' sanjYeya
+mUlaka sankShiptavAgi sUcisalAguttade. idakke badalu, eraDaneya aksTaradondige
+koneya akSharavannu sErisi racisida "ik‌' sanjYeyannu baLasidalli, adu akAravannuLidu
 itara svaragaLannu sUcisuttade.
 
 haLegannaDadalli kanDubaruva varNagaLa baLake idakkinta tIra bhinnavAgiruvudAda
@@ -1948,9 +1949,9 @@ I sUtragaLa sahAyadinda paDeyalu sAdhyavAgadu.
 
 <a id="sec-3-7"></a>
 
-## 3.7 sErikeya niyamagaLu
+## ೩.೭ sErikeya niyamagaLu
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-3-7) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-3--use-of-phonemes)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-3--use-of-phonemes) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-3-7)
 
 
 eraDu athavA jAsti pada illavE padarUpagaLannu vAkyagaLalli baLasuvAga,
@@ -1974,14 +1975,14 @@ mattu d‌ embudu k‌ endAgide.
 vAkyagaLalli pada mattu pratyayagaLannu baLasuvalli naDeyuva intaha
 badalAvaNegaLannu samskxta vyAkaraNagaLalli "sandhi niyama'gaLendu kareyalAgide.
 kannaDadalli ivannE "sErikeya niyama'gaLendu kareyabahudu. intaha niyamagaLu
-bEre bEre bhASegaLalli bEre bErAgiruttave. samskxta mattu haLegannaDagaLa naDuve I
-viSayadalli halavu mukhyavAda vyatyAsagaLive. I vyatyAsagaLigella I eraDu bhASegaLu
+bEre bEre bhAShegaLalli bEre bErAgiruttave. samskxta mattu haLegannaDagaLa naDuve I
+viShayadalli halavu mukhyavAda vyatyAsagaLive. I vyatyAsagaLigella I eraDu bhAShegaLu
 baLasuva vyAkaraNada mUlatatvagaLu bEre bErAgiruvudE mukhya kAraNa.
 
 
 <a id="sec-3-7-1"></a>
 
-### 3.7.1 padamadhya sandhi mattu padAntya sandhi
+### ೩.೭.೧ padamadhya sandhi mattu padAntya sandhi
 
 
 samskxta vyAkaraNagaLalli "padamadhya sandhi' mattu “padAntya sandhi' embudAgi
@@ -2009,8 +2010,8 @@ Adare, padamadhya sandhiyalli ivu sAmAnyavAgi hAgeyE uLiyuttave (sarvaSak‌*am-
 sarvaSakam, marut‌*-A - marutA).
 
 haLegannaDadallU intaha padamadhya mattu padAntya sandhiniyamagaLemba eraDu
-bageya niyamagaLiddu, avu kelavu viSayagaLalli ondakkinta ondu bhinnavAgive.
-idallade I eraDu bageya niyamagaLU halavu viSayagaLalli samskxtada padamadhya
+bageya niyamagaLiddu, avu kelavu viShayagaLalli ondakkinta ondu bhinnavAgive.
+idallade I eraDu bageya niyamagaLU halavu viShayagaLalli samskxtada padamadhya
 mattu padAntya sandhiniyamagaLinda bhinnavAgive.
 
 udAharaNegAgi, haLegannaDada kelavu dhAtugaLige vyanjanadalli suruvAguva
@@ -2028,7 +2029,7 @@ idallade, haLegannaDadalli I uddasvara giDDasvaravAguva niyama padamadhya
 sandhiyalli kANisuttideyallade padAntya sandhiyalli kANisuvudilla. intahavE bEreyU
 kelavu niyamagaLannu haLegannaDada padamadhya sandhiyalli mAtravE kANalu sAdhyavide.
 
-kESirAjanu (sU. 60)ralli padamadhyam mattu padadantyam embudAgi eraDu
+kESirAjanu (sU. ೬೦)ralli padamadhyam mattu padadantyam embudAgi eraDu
 bageya sandhigaLiveyendu hELiddA ne; Adare, anantara ellU I vibhajaneyannu
 baLasikonDiruva hAge kANisuvudilla. sandhiniyamagaLige udAharaNegaLannu koDuvAga
 kelavu kaDegaLalli padamadhya sandhiyAgiruvavugaLannu (tOyalum, nOyisidam)
@@ -2038,24 +2039,24 @@ strIyemba) koTTiddAne.
 
 <a id="sec-3-8"></a>
 
-## 3.8 sArAmSa
+## ೩.೮ sArAmSa
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-3-8) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-3--use-of-phonemes)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-3--use-of-phonemes) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-3-8)
 
-haLegannaDa mattu samskxta bhASegaLa naDuve varNagaLa sankhyeyalli mAtravalla,
+haLegannaDa mattu samskxta bhAShegaLa naDuve varNagaLa sankhyeyalli mAtravalla,
 avugaLa baLakeyallU vyatyAsavide. hAgAgi, samskxta vyAkaraNagaLalli baLakeyAguva
 varNagaLa pAThakramavannu hAgeyE haLegannaDa vyAkaraNadalli baLasuvudu hitakaravalla.
-I eraDu bhASegaLu baLasuva sErikeya niyamagaLallU halavu mukhyavAda
+I eraDu bhAShegaLu baLasuva sErikeya niyamagaLallU halavu mukhyavAda
 vyatyAsagaLive. haLegannaDa vyAkaraNadalli ivannu sariyAgi nirUpisuva avaSyakateyide.
 
 
 <a id="ch4"></a>
 
-# adhyAya 4 — padavargagaLu
+# adhyAya ೪ — padavargagaLu
 
 [↑ oLapiDige hintirugi](#toc)
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#ch4) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-4--parts-of-speech)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-4--parts-of-speech) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#ch4)
 
 ---
 
@@ -2065,29 +2066,29 @@ padavargagaLu
 
 <a id="sec-4-1"></a>
 
-## 4.1 padagaLalli vayvidhya
+## ೪.೧ padagaLalli vayvidhya
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-4-1) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-4--parts-of-speech)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-4--parts-of-speech) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-4-1)
 
 
-ondu bhASeyalli entaha padagaLella baLakeyAguttave embudu padakantegaLannu
-mattu vAkyagaLannu racisuvudakkAgi A bhASeyalli entaha vidhAnagaLannu baLasalAgutta de
-embudannavalambiside. I vidhAnagaLu bEre bEre bhASAkuTumbagaLalli bEre
-bEreyAgiralu sAdhyavideyAda kAraNa, eraDu bhASAkuTumbagaLige sErida bhASegaLalli
+ondu bhASheyalli entaha padagaLella baLakeyAguttave embudu padakantegaLannu
+mattu vAkyagaLannu racisuvudakkAgi A bhASheyalli entaha vidhAnagaLannu baLasalAgutta de
+embudannavalambiside. I vidhAnagaLu bEre bEre bhAShAkuTumbagaLalli bEre
+bEreyAgiralu sAdhyavideyAda kAraNa, eraDu bhAShAkuTumbagaLige sErida bhAShegaLalli
 baLakeyAguva padagaLu ondE teranAgirabEkAgilla.
 
-kriyApada mattu nAmapada embudAgi eraDu rItiya padagaLu heccina bhASegaLallU
-baLakeyAguttave (munDAriyantaha kelavu bhASegaLu idakkU apavAdagaLAgiddu,
+kriyApada mattu nAmapada embudAgi eraDu rItiya padagaLu heccina bhAShegaLallU
+baLakeyAguttave (munDAriyantaha kelavu bhAShegaLu idakkU apavAdagaLAgiddu,
 avugaLalli ondu padavargakke sEruva padagaLu mAtra baLakeyallive). sAmAnyavAgi,
 vAkyavondaralli baruva kriyApadagaLu ondu ghaTaneyannU nAmapadagaLu A ghaTaneyalli
-toDagikonDiruva vyakti, vastu, viSaya modalAduvannU sUcisuttaveyendu
+toDagikonDiruva vyakti, vastu, viShaya modalAduvannU sUcisuttaveyendu
 
 bri?
 
 hELabahudu. udAharaNegAgi, keLage koTTiruva haLegannaDa vAkyavannu gamanisabahudu.
-(1ka) arasam pArvange gOvam koTTam
+(೧ka) arasam pArvange gOvam koTTam
 
-(1ka) vAkyadalli arasam, pArvam mattu gOvu emba mUru nAmapadagaLu
+(೧ka) vAkyadalli arasam, pArvam mattu gOvu emba mUru nAmapadagaLu
 mattu kuDu (koT‌) emba ondu kriyApada bandive. ivugaLalli kriyApadavu ondu
 ghaTaneyannU nAmapadagaLu A ghaTaneyalli toDagiruva ibbaru vyaktigaLu mattu
 ondu prANiyannU sUcisuttave.
@@ -2099,7 +2100,7 @@ eraDu nAmapadagaLu mattu rud‌ emba ondu kriyApada baLakeyAgive.
 
 haLegannaDadalli I eraDu rItiya padagaLu mAtravallade, “guNapada'vemba
 averaDakkinta bhinnavAda padavargakke sEruva padagaLU baLakeyallive. udAharaNegAgi,
-haLegannaDada posa, beL‌, teL‌, ki5 modalAda padagaLu halavu viSayagaLalli
+haLegannaDada posa, beL‌, teL‌, ki೫ modalAda padagaLu halavu viShayagaLalli
 kriyApada mattu nAmapadagaLiginta bhinnavAgiveyAda kAraNa, avannu I eraDu
 vargagaLinda bhinnavAda guNapadavemba mUraneya padavargadalli sErisi hELabEkAguttade.
 
@@ -2107,42 +2108,42 @@ Adare, intaha mUraneyadondu padavargakke sEraballa padagaLu samskxtadalli lla.
 
 haLegannaDada guNapadagaLige samAnavAda kxSa, pxthu, mxdu, Sukla, guru modalAda
 padagaLu samskxtadalli nAmapadavarga dallEnE baruttave. idu haLegannaDakkU samskxtakkU
-naDuviruva ondu mukhyavAda vyatyAsa. I eraDu bhASegaLu nAmapadakantegaLannu
+naDuviruva ondu mukhyavAda vyatyAsa. I eraDu bhAShegaLu nAmapadakantegaLannu
 tayArisikoLLuva krama hEge embudannu pariSIlisidAga, ivugaLa naDuve I vyatyAsa
-yAke mUDibandide embudu spaSTavAguttade (4.2 nODi).
+yAke mUDibandide embudu spaShTavAguttade (೪.೨ nODi).
 
 
 <a id="sec-4-2"></a>
 
-## 4.2 nAmapadakantegaLa racane
+## ೪.೨ nAmapadakantegaLa racane
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-4-2) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-4--parts-of-speech)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-4--parts-of-speech) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-4-2)
 
 
-vyakti, vastu modalAduvannu sUcisuvudakkAgi, hecci: na bhASegaLallU hesarisuvudu
-mattu varNisuvudu embudAgi eraDu vidhAnagaLu baLake yAguttave (bhaT‌ 2002:80
+vyakti, vastu modalAduvannu sUcisuvudakkAgi, hecci: na bhAShegaLallU hesarisuvudu
+mattu varNisuvudu embudAgi eraDu vidhAnagaLu baLake yAguttave (bhaT‌ ೨೦೦೨:೮೦
 nODi). sAmAnyavAgi, hesarisuvudakkAgi nAmapadagaLu (rUDhanAmagaLu illavE
 ankitanAmagaLu) baLakeyAguttave, mattu varNisuvudakkAgi nAmapadakantegaLu
 baLakeyAguttave.
 
-udAharaNegAgi, mEle koTTiruva (1ka) vAkyadalli arasam, pArvam mattu
+udAharaNegAgi, mEle koTTiruva (೧ka) vAkyadalli arasam, pArvam mattu
 gOvu emba mUru nAmapadagaLannu baLasalAgiddu, avu hesarisuva vidhAnada
 mUlaka ibbaru vyaktigaLannu mattu ondu prANiyannu gurutisuttave.
 
-keLage koTTiruva (1kha) vAkyadalli pArvam nAmapadada badalu baDa pArvam
+keLage koTTiruva (೧kha) vAkyadalli pArvam nAmapadada badalu baDa pArvam
 emba nAmapadakanteyannu baLasalAgiddu, idu varNisuva vidhAnada mUlaka obba
 vyaktiyannu gurutisuttade.
 
-(1kha) arasam baDa pArvange gOvam koTTam
+(೧kha) arasam baDa pArvange gOvam koTTam
 
 baDa pArvam emba I nAmapadakanteyallU pArvam emba A vyaktiya "hesaru'
 (rUDhanAma) bandideyEnO nija; Adare, adu A vyaktiyannu nEravAgi gurutisuva
 badalu, hAge gurutisuvudakkAgi baLakeyAgiruva ondu varNaneya angavAgi bandide.
 
 vyakti, prANi, vastu modalAduvannu I rIti varNaneya mUlakagurutisuvudakkAgi
-baLakeyAguva padakantegaLannu bEre bEre bhASegaLu bEre bEre rItiyalli tayArisuttave.
-I viSayadalli samskxta mattu kannaDa bhASegaLa naDuve ondu mukhyavAda vyatyAsavide.
-I vyatyAsakke intaha padakantegaLa racanegAgi iveraDu bhASegaLu eraDu tIra bhinnavAda
+baLakeyAguva padakantegaLannu bEre bEre bhAShegaLu bEre bEre rItiyalli tayArisuttave.
+I viShayadalli samskxta mattu kannaDa bhAShegaLa naDuve ondu mukhyavAda vyatyAsavide.
+I vyatyAsakke intaha padakantegaLa racanegAgi iveraDu bhAShegaLu eraDu tIra bhinnavAda
 vyAkaraNada mUlatatvagaLannu baLasuvudE kAraNa.
 
 haLegannaDada padakantegaLallella sAmAnyavAgi ondu pradhAnapada mattu ondu
@@ -2164,16 +2165,16 @@ embudu pradhAna padavAgiddu, adu obba vyaktiyannu hasarisuttada, ma
 embudu sahAyaka padavAgiddu, A vyaktiya guNadharmavondannu ("A vyakti baDava'
 embudannu) sUcisuva mUlaka, Atanannu gurutisuva kelasa sulabhavAguvante mADutta de.
 
-I kAraNakkAgi, haLegannaDakke vyakti, vastu, viSaya modalAduvannu hesarisuvudakkAgi
-baLakeyAguva "nAmapada'gaLu mAtravallade, avugaLa guNadharmagaLannaSTE
+I kAraNakkAgi, haLegannaDakke vyakti, vastu, viShaya modalAduvannu hesarisuvudakkAgi
+baLakeyAguva "nAmapada'gaLu mAtravallade, avugaLa guNadharmagaLannaShTE
 sUcisuvudakkAgi baLakeyAguva "guNapada'gaLU bEkAguttave. hAgAgi, haLegannaDadalli
 nAmapada mattu guNapadagaLemba eraDu vargagaLige sEruva padagaLu kANisikoLLuttave.
 
 samskxtadalli nAmapadakantegaLannu tayArisuvudakkAgi idakkinta tIra bhinnavAda
-vidhAnavondu baLakeyallide. I vidhAnada baLakeyalli A bhASege "nAmapada'vemba
+vidhAnavondu baLakeyallide. I vidhAnada baLakeyalli A bhAShege "nAmapada'vemba
 ondu padavargakke sEruva padagaLu mAtra bEkAgutta ve; "guNapada'vemba innondu
 padavargakke sEruva padagaLa avaSyakate unTAguvudilla. hAgAgi, antaha padagaLu A
-bhASeyalli kANisuvudU illa.
+bhASheyalli kANisuvudU illa.
 
 samskxtada nAmapadakantegaLalli baruva padagaLalli heccinavU pradhAna padagaLE
 Agiddu, A padagaLalli pratiyondU svatantravAgi mattu bEre bErAgi vyakti, vastu
@@ -2183,35 +2184,35 @@ avu gurutisuva vyakti, vastu modalAdavu bEre bEralla, ondE vyakti illavE vastu
 emba artha dorakuttade. udAharaNegAgi, keLage koTTiruva samskxta vAkyavannu
 gamanisabahudu:
 
-(2ka) hari: Ekam kxSNam sarpam apaSyat‌
+(೨ka) hari: Ekam kxShNam sarpam apaSyat‌
 “hari ondu kappu hAvannu nODida'
 
-I (25) vAkyadalli Ekam kxSNam sarpam emba padakante bandide. I padakanteyalli
-Ekam, kxSNam mattu sarpam emba mUru padagaLive. I mUru padagaLU svatantravAgi
+I (೨5) vAkyadalli Ekam kxShNam sarpam emba padakante bandide. I padakanteyalli
+Ekam, kxShNam mattu sarpam emba mUru padagaLive. I mUru padagaLU svatantravAgi
 mUru bEre bEre vyakti, prANi illavE vastuvannu gurutisaballuvu. Adare, mElina
 vAkyadalli avellavU ondE linga-vacana-vibhaktiyalli bandiveyAda kAraNa, avellavU
 oTTAgi ondE prA Niyannu bEre bEre rItiyalli (endare, adu ondAgiruva
 prANiyendu, kappAgiruva prANiyendu, mattu hAvAgiruva prANiyendu) gurutisuttave.
 
-samskxtadalli Ekam, kxSNam mattu sarpam emba I mUru padagaLu svatantravAgi
+samskxtadalli Ekam, kxShNam mattu sarpam emba I mUru padagaLu svatantravAgi
 mUru bEre bEre vyakti, prANi illavE vastu vannu gurutisaballuvu embudannu
-keLagina vAkyagaLu spaSTapaDisuttave.
+keLagina vAkyagaLu spaShTapaDisuttave.
 
-(2kha) hari: Ekam apaSyat‌
+(೨kha) hari: Ekam apaSyat‌
 
 "hari ondannu (athavA obbanannu) nODida'
 
-(2ga) hari: kxSNam apaSyat‌
+(೨ga) hari: kxShNam apaSyat‌
 
 "hari kappinadannu (athavA kappinavanannu) nODida'
 
-(2ghu hari: sarpam apaSyat‌
+(೨ghu hari: sarpam apaSyat‌
 "hari hAvannu nODida'
-(2kha-gha) vAkyagaLalli Ekam, kxSNam mattu sarpam emba mUru padagaLu
+(೨kha-gha) vAkyagaLalli Ekam, kxShNam mattu sarpam emba mUru padagaLu
 
 svatantravAgi mUru bEre bEre vyakti, vastu illavE prANigaLannu gurutisalu SaktavAgive.
 
-(2ka) vAkyadalli bandiruva padakanteyalli I mUru padagaLU ondE linga-
+(೨ka) vAkyadalli bandiruva padakanteyalli I mUru padagaLU ondE linga-
 vacana-vibhaktiyalli (endare pullinga-Ekavacana-dvitIyA vibhaktiyalli) bandiveyAda
 kAraNa, avugaLa mUlaka ondE prANiyannu ("ondu kappu hAva'nnu) gurutisalu
 sAdhyavAgide.
@@ -2233,11 +2234,11 @@ guNadharmavannu sUcisuva padagaLalli heccinavugaLigU haLegannaDadalli pradhAna
 (nAmarUpa) mattu apradhAna (guNarUpa) embudAgi eraDeraDu rUpagaLiruttave.
 
 guNarUpa nAmarUpa
-(3ka) posa posatu
+(೩ka) posa posatu
 keaು kijudu
 kar‌ karidu
 per‌ piridu
-(3kha) baDa baDavan‌
+(೩kha) baDa baDavan‌
 cenna cennigan‌
 eLe eLeyan‌
 nal‌ nallan‌
@@ -2250,15 +2251,15 @@ tayArisalAgutta de.
 
 Adare, samskxtadalli intaha padagaLigella nAmarUpa mAtra irutta de (endare
 avellavU nAmapadagaLE). samastapadagaLalli intaha nAmapadagaLige
-sankSipta rUpagaLiruvudu nijavAdarU, avannu kannaDadalli ruva hAge, guNarUpagaLendu
+sankShipta rUpagaLiruvudu nijavAdarU, avannu kannaDadalli ruva hAge, guNarUpagaLendu
 parigaNisalu sAdhyavAgadu. yAkendare, samskxtadalli antaha sankTipta rUpagaLu itara
 nAmapadagaLigU ive.
 
 padakante samastapada
-(4ka) kxSNa : sarpa: kxSNa sarpa:
-kxSNA mAlA kxSNamAlA
-kxSNa 0 madhu kxSNa madhu
-(4kha) mxttika: ghaTa: mxttikaghaTa:
+(೪ka) kxShNa : sarpa: kxShNa sarpa:
+kxShNA mAlA kxShNamAlA
+kxShNa ೦ madhu kxShNa madhu
+(೪kha) mxttika: ghaTa: mxttikaghaTa:
 mxttikA strI mxtti kastri/
 
 haLegannaDada guNapadagaLondige baruva du, an‌, aL‌ modalAda linga-vacana
@@ -2275,14 +2276,14 @@ uLiyade, ondu vAkyavAgibiDuttade.
 
 <a id="sec-4-2-1"></a>
 
-### 4.2.1 haLegannaDada vistxta baLakegaLu
+### ೪.೨.೧ haLegannaDada vistxta baLakegaLu
 
 
 mEle sUcisida hAge, haLegannaDadalli nAmapada, kriyApada mattu guNapadagaLige
 avugaLadE ada (endare "sahaja'vAda) baLakegaLiddu, A baLakegaLalli avakke yAva
 pratyayada sahAyavU bEkAguvudilla. nEravAgi avugaLa kAryakke sambandhisida
 pratyayagaLannu avugaLondige baLasabahudu. Adare, avannu bEre jAgagaLalli
-baLasabEkiddalli, adakkAgi avakke kelavu viSiSTavAda pratyayagaLannu sErisabEkAguttade.
+baLasabEkiddalli, adakkAgi avakke kelavu viSiShTavAda pratyayagaLannu sErisabEkAguttade.
 
 (ka) guNapadagaLa jAga: nAmapadagaLannu guNapadagaLa jAgadalli (endare nAmapada
 kanteyondara apradhAna padavAgi) baLasalu sAdhyavide; Adare, hIge mADabEkiddalli,
@@ -2330,13 +2331,13 @@ Adare, guNapadagaLannu I rIti ghaTakagaLannu sUcisuva nAmapadagaLa jAgadalli
 baLasabEkiddare, avannu modalige "nAmarUpa'kke badalAyisikoLLabEkAguttade, mattu
 idakkAgi avakke linga-vacanagaLannu sUcisuva pratyayagaLannu sErisikoLLabEkAguttade.
 
-(5ka) baDavan‌ pasidu vEDidan‌
-(5kha) kiNayaran‌ kondu
-(5ga) iniyaLge aripidoDe
-(5gha) posatam mADidudu
-(5ja) asiyavam nODidam
+(೫ka) baDavan‌ pasidu vEDidan‌
+(೫kha) kiNayaran‌ kondu
+(೫ga) iniyaLge aripidoDe
+(೫gha) posatam mADidudu
+(೫ja) asiyavam nODidam
 
-(5ka-ga)gaLalli baDa, kiju, ini, posa, mattu asi guNapadagaLu ghaTakavondannu
+(೫ka-ga)gaLalli baDa, kiju, ini, posa, mattu asi guNapadagaLu ghaTakavondannu
 sUcisuva nAmapadada jAgadalli baruvudakkAgi an‌, ar‌, aL‌, tu mattu avu emba
 linga-vacanagaLannu sUcisuva pratyayagaLondige barabEkAgide embudannu
 gamanisabahudu. avakke an‌, ge modalAda vibhakti pratyayagaLannu sErisuva modalu,
@@ -2348,17 +2349,17 @@ badalAyisikoLLabEku, mattu anantara avakke linga-vacanagaLannu sUcisuva an‌,
 aL‌, ar‌, udu, illavE uvu pratyayagaLalli ondannu sErisuvudara mUlaka,
 nAmarUpakke badalAyisikoLLabEku.
 
-(6ka) ADuvanan‌ inisu pOltu anugeydam
-(6kha) endalle karNanintendam
-(6ga)  kUradan‌ pagege santasamAgire idanoDDidam
+(೬ka) ADuvanan‌ inisu pOltu anugeydam
+(೬kha) endalle karNanintendam
+(೬ga)  kUradan‌ pagege santasamAgire idanoDDidam
 
-(6ka)dalli ADu kriyApadada mundina (illavE Igina) samayada ADuva
+(೬ka)dalli ADu kriyApadada mundina (illavE Igina) samayada ADuva
 guNarUpakke pullinga-Ekavacanada an‌ pratyayavannu sErisalAgide, mattu anantara
-an‌ vibhakti pratyayavannu sErisalAgide; (6kha)dalli en‌ kriyApadada hindina samayada
+an‌ vibhakti pratyayavannu sErisalAgide; (೬kha)dalli en‌ kriyApadada hindina samayada
 guNarUpakke modalige strIlinga-Ekavacanada aL‌ pratyayavannu sErisalAgide, mattu
 anantara ge vibhakti pratyayavannu sErisalAgide.
 
-idE rItiyalli, (6ga)dalli kUr‌ kriyApadada allagaLeyuva guNarUpavannu
+idE rItiyalli, (೬ga)dalli kUr‌ kriyApadada allagaLeyuva guNarUpavannu
 nAmapadada jAgadalli baLasuvudakkAgi, adakke pullinga-Ekavacanada an‌ pratyayavannu
 sErisalAgide.
 
@@ -2370,7 +2371,7 @@ sAdhyavide.
 
 hosagannaDadalli intaha nAmarUpagaLu kriyApadagaLige ike-ige pratyayavannu
 sErisi tayArisida nAmapadagaLinda (hogaLike, hiDike, hAsige modalAdavugaLinda)
-bhinnavAgive (bhaT‌ 2002:96 nODi). Adare, haLegannaDadalli I rIti ellA
+bhinnavAgive (bhaT‌ ೨೦೦೨:೯೬ nODi). Adare, haLegannaDadalli I rIti ellA
 kriyApadagaLindalU nEravAgi sAdhisalu sAdhyavAguvantaha nAmarUpagaLilla vendu
 tOruttade.
 
@@ -2382,68 +2383,68 @@ illavE bEre kelavu ghaTanege sambandhisida pratyayagaLannu avakke nEravAgi sEris
 sAdhyavide (bandan‌, pOgan‌, kuDidudu).
 
 nAmapada mattu guNapadagaLu ghaTaneyannu sUcisalAravAda kAraNa, avannu
-kriyApadagaLa jAgadalli baLasalu sAdhyavAguvudilla; idallade, avakke viSiSTavAda
-kriyArUpagaLU illa. Adare, ghaTanegaLannu sUcisuva badalu viSayagaLannu sUcisuva
-"viSaya' vAkyagaLalli nAmapadagaLannu kriyApadagaLa sthA nadalli (illavE ir‌ kriyApadada
-kriyArUpagaLondige) baLasalu sAdhyavide (11.3 nODi).
+kriyApadagaLa jAgadalli baLasalu sAdhyavAguvudilla; idallade, avakke viSiShTavAda
+kriyArUpagaLU illa. Adare, ghaTanegaLannu sUcisuva badalu viShayagaLannu sUcisuva
+"viShaya' vAkyagaLalli nAmapadagaLannu kriyApadagaLa sthA nadalli (illavE ir‌ kriyApadada
+kriyArUpagaLondige) baLasalu sAdhyavide (೧೧.೩ nODi).
 
-(7ka) rAjange irvar‌ penDatiyar‌
-(7kha) adu emma puram
-(7ga) Itam guNArNavam
+(೭ka) rAjange irvar‌ penDatiyar‌
+(೭kha) adu emma puram
+(೭ga) Itam guNArNavam
 
-intaha vAkyagaLalli ADuga illavE kELuganannu viSayavAgi baLasalAgideyAdare,
+intaha vAkyagaLalli ADuga illavE kELuganannu viShayavAgi baLasalAgideyAdare,
 avannu sUcisuva ghaTaka (AkhyAta) pratyayavannU I padagaLondige baLasabEkemba
 niyama haLegannaDadallide. udAharaNegAgi keLage koTTiruva pampabhAratada baLakegaLannu
 gamanisabahudu:
 
-(laka) nIm Adityanan‌ iLipa tEjarir‌ (2.64)
+(laka) nIm Adityanan‌ iLipa tEjarir‌ (೨.೬೪)
 
 “nIvu Adityanannu tiraskarisuva tEjassuLLavarAgiddIri'
-(Akha) nimmaya dharmada makkaLevu (11.128)
+(Akha) nimmaya dharmada makkaLevu (೧೧.೧೨೮)
 
 (nAvu) nimma dharmada makkaLu'
-(Aga)  Anum penDatiyen‌ Aden‌ (1.76)
+(Aga)  Anum penDatiyen‌ Aden‌ (೧.೭೬)
 
 "nAnU hengasAgiddEne'
 
 I jAgadalli guNapadagaLannu baLasabEkidda lli, avugaLige linga-vacana pratyayagaLannu
 sErisi avannu nAmarUpakke badalAyisabEkAguttade:
 
-(9ka) sahadEvam kiayam
+(೯ka) sahadEvam kiayam
 "sahadEvanu cikkavanu'
 
-(9kha) mogam piridAge
+(೯kha) mogam piridAge
 "mukha doDDadAdAga'
 
 idallade, I jAgadalli baruva guNapadagaLu vAkyada ADuga illa vE kELugarannu
 sUcisuvudiddalli, avugaLige nAmarUpavannu koDuva I linga-vacana pratyayagaLannu
-mAtravallade, ADuga mattu kELugarannu sUcisuva puruSa pratyayagaLannU
+mAtravallade, ADuga mattu kELugarannu sUcisuva puruSha pratyayagaLannU
 sErisabEkAguttade:
-(10ka) nIm piriyarir‌
+(೧೦ka) nIm piriyarir‌
 “nIvu hiriyaru'
 
-(10kha) An‌ kiTuyaLen‌
+(೧೦kha) An‌ kiTuyaLen‌
 "nAnu kiriyavaLu'
 
-(10ka)dalli piri guNapadada anantara linga-vacanagaLannu sUcisuva ar‌ pratyaya
-mattu kELugarannu sUcisuva (bahuvacanada) ir‌ pratyayagaLu bandive; (10kha)dalli
+(೧೦ka)dalli piri guNapadada anantara linga-vacanagaLannu sUcisuva ar‌ pratyaya
+mattu kELugarannu sUcisuva (bahuvacanada) ir‌ pratyayagaLu bandive; (೧೦kha)dalli
 kiA guNapadada anantara linga-vacanagaLannu sUcisuva AL‌ pratyaya mattu ADuganannu
 sUcisuva Ekavacanada en‌ pratyayagaLu bandive.
 
 illi linga-vacana pratyayagaLu guNapadagaLannu avugaLa nAmarUpakke
-badalAyisuvudakkAgi baLakeyAgive, mattu puruSa pratyayagaLu ADuga mattu kELugarannu
-sUcisuvudakkAgi baLakeyAgive embudannu gamanisabahudu (jAsti vivaragaLige 11nE
+badalAyisuvudakkAgi baLakeyAgive, mattu puruSha pratyayagaLu ADuga mattu kELugarannu
+sUcisuvudakkAgi baLakeyAgive embudannu gamanisabahudu (jAsti vivaragaLige ೧೧nE
 adhyAya nODi).
 
 
 <a id="sec-4-2-2"></a>
 
-### 4.2.2 samskxtada vistxta baLakegaLu
+### ೪.೨.೨ samskxtada vistxta baLakegaLu
 
 
 haLegannaDadalli kANisuva nAmapada, kriyApada mattu guNapadagaLa vistxta
 baLakegaLannu samskxtada baLakegaLondige hOlisi nODidAga, padavargagaLa maTTige
-I eraDu bhASegaLa naDuviruva vyatyAsa innaSTu spaSTavAguttade.
+I eraDu bhAShegaLa naDuviruva vyatyAsa innaShTu spaShTavAguttade.
 
 samskxtadalli nAmapada mattu kriyApada embudAgi eraDu mukhya padavargagaLu
 mAtra iveyAda kAraNa, mEle sUcisidantaha mUru rItiya vistxta baLakegaLa
@@ -2455,12 +2456,12 @@ Adare, I rIti baLakeyAguva pratiyondu nAmapadadondigU vibhakti pratyayavondannu
 sErisuva avaSyakateyide. ondE nAmapadakanteyalli baruva nAmapadagaLellavU
 ondE vibhaktiyalliruvudu avaSya:
 
-(11ka) tatra EkaH kxSNaH sarpaH a
+(೧೧ka) tatra EkaH kxShNaH sarpaH a
 Na
 “alli ondu kappu hAvu ide'
-(11kha) hariH Ekam kxSNam sarpam apaSyat‌
+(೧೧kha) hariH Ekam kxShNam sarpam apaSyat‌
 “hari ondu kappu hAvannu nODida'
-(11ga) hariH EkEna kxSNe €na sarpENa daSTa:
+(೧೧ga) hariH EkEna kxShNe €na sarpENa daShTa:
 "hariyannu ondu kappu hAvu kacci tu'
 
 si
@@ -2469,7 +2470,7 @@ ta
 
 "ondu kappu hAvu' emba padakanteyannu samskxtadalli baLasabEkiddare, adaralli
 baruva mUru nAmapadagaLigU vibhakti-vacana pratyayagaLannu sErisabEku, mattu I
-pratyayagaLu mUrarallU ondE AgirabEku embudannu A padakantege (11ka-
+pratyayagaLu mUrarallU ondE AgirabEku embudannu A padakantege (೧೧ka-
 ga)gaLalli kANisuva bEre bEre rUpagaLinda tiLiyabahudu.
 
 kriyApadavondannu nAmapadada jAgadalli (endare vibhakti pratyayagaLondige)
@@ -2478,25 +2479,25 @@ pratyayavannu sErisida mEle, adakke vibhakti pratyayagaLannu nEravAgi sErisabahu
 hAgAgi, samskxtadalli I rIti ondu kriyApadakke kxt‌ pratyayavannu sErisi tayArisida
 kriyArUpavannu A kriyApadada nAmarUpavendu parigaNisalu sAdhyavide.
 
-(12ka) aham bhagnam apaSyam
+(೧೨ka) aham bhagnam apaSyam
 "nAnu oDedudannu nODide'
-(12kha) aham ghaTam kurvANam apaSyam
+(೧೨kha) aham ghaTam kurvANam apaSyam
 “nAnu koDa mADuvavanannu nODide'
 
-(12ka)dalli bhagna "oDeda' kxdantakke dvitIyA vibhakti pratyayavannu nEravAgi
+(೧೨ka)dalli bhagna "oDeda' kxdantakke dvitIyA vibhakti pratyayavannu nEravAgi
 sErisalAgide; Adare I vAkyada anuvAdadalli kANisida hAge, kannaDadalli oDeda
 kxdantakke annu pratyayavannu sErisabEkiddalli adakke modalu linga-vacanavannu sUcisuva
-udu pratyayavannu sErisa bEkAgide. idE rItiyalli (12kha) vAkyadalli samskxtada
+udu pratyayavannu sErisa bEkAgide. idE rItiyalli (೧೨kha) vAkyadalli samskxtada
 kurvANa "mADuva' kxdantakke dvitIyA vibhaktiyannu nEravAgi sErisalAgide; Adare,
 adara anuvAdadalli kANisida hAge, kannaDada mADuva emba kxdantakke modalige
 linga-vacanavannu sUcisuva avanu embudannu sErisi, anantara annu pratyayavannu
 sErisalAgide.
 
-I viSayadalli haLegannaDa hosagannaDada hAgeyE ide embudannu mEleyE
-(4.2.1ralli) nODiruvevu.
+I viShayadalli haLegannaDa hosagannaDada hAgeyE ide embudannu mEleyE
+(೪.೨.೧ralli) nODiruvevu.
 
 haLegannaDada kxdantakkU samskxtada kxdantakkU naDuviruva vyatyAsa idarinda
-spaSTavAguttade: haLegannaDada kxdantagaLu guNapadada jAgadalli baruva kAraNa, avu
+spaShTavAguttade: haLegannaDada kxdantagaLu guNapadada jAgadalli baruva kAraNa, avu
 yApadagaLa guNarUpagaLu; nAmapadada jAgadalli barabEkiddare, avakke linga-
 vacanagaLannu sUcisuva pratyayavannu sErisuvudara mUlaka, avannu nAmarUpagaLannAgi
 badalAyisuva avaSyakateyide.
@@ -2520,17 +2521,17 @@ gO-gavyati).
 
 <a id="sec-4-2-3"></a>
 
-### 4.2.3 haLegannaDa vyAkaraNagaLa samasyegaLu
+### ೪.೨.೩ haLegannaDa vyAkaraNagaLa samasyegaLu
 
 
-guNapadagaLa baLakeyalli samskxta mattu haLegannaDa bhASegaLa naDuviruva I
+guNapadagaLa baLakeyalli samskxta mattu haLegannaDa bhAShegaLa naDuviruva I
 atyanta mukhyavAda vyatyAsavannu gamanisada kAraNa, heccina haLegannaDa vyAkaraNagaLallU
 halavu rItiya samasyegaLu taledOrive.
 
 (ka) samskxtada hAge haLegannaDadallU guNapada (guNavAcaka)gaLu nAmapada
 vargadallEnE baruvavugaLendu bhAvisiruva kAraNa, oLLitu, karidu, iniyadu modalAda
 guNapadagaLa nAmarUpagaLannE avugaLa sahajarUpagaLendu parigaNisabEkAgide (kESirAja,
-sU. 87, bhaTTAkaLanka, sU. 166 nODi). yAkendare, vibhakti pratyayagaLu intaha
+sU. ೮೭, bhaTTAkaLanka, sU. ೧೬೬ nODi). yAkendare, vibhakti pratyayagaLu intaha
 nAmarUpagaLondige mAtra baraballuvallade, nEravAgi oL‌, kari, ini modalAda
 guNapadagaLondige baralAravu.
 
@@ -2565,73 +2566,73 @@ Adare, haLegannaDa vyAkaraNagaLalli ivannu vibhakti rUpagaLendu parigaNisalAgide
 haLegannaDada I rUpagaLannu vibhakti rUpagaLendu parigaNisidalli, avu guNapadagaLa
 hAge linga-vacana pratyayagaLondige baruvudannu, mattu ivugaLa anantara bEre
 
-vibhakti pratyayagaLu baruvudannu vivarisuvudu ondu samasyeyAgutta de (8.7.5
+vibhakti pratyayagaLu baruvudannu vivarisuvudu ondu samasyeyAgutta de (೮.೭.೫
 nODi).
 
 (ja) guNapada (guNavacana), sarvanAma, guNOktiyAgi banda nAmapada,
 modalAdavugaLondige ghaTakavannu sUcisuva AkhyAta pratyayagaLu baruttaveyendu
-haLegannaDada vayyAkaraNigaLu hELuttAre (kESirAja, sU. 230 nODi). Adare,
-nijakkU oLLidanay‌, oLLidarir‌, peanay‌ modalAdavugaLalli, mEle 4.1.2ralli
+haLegannaDada vayyAkaraNigaLu hELuttAre (kESirAja, sU. ೨೩೦ nODi). Adare,
+nijakkU oLLidanay‌, oLLidarir‌, peanay‌ modalAdavugaLalli, mEle ೪.೧.೨ralli
 vivarisida hAge, eraDeraDu pratyayagaLu bandive.
 
 modalige guNapadagaLannu nAmarUpakke badalAyisuvudakkAgi avakke linga-
-vacanagaLannu sUcisuva pratyayagaLannu sErisalAgide, mattu anantara avannu viSaya
+vacanagaLannu sUcisuva pratyayagaLannu sErisalAgide, mattu anantara avannu viShaya
 vAkyagaLa kriyApadada jAgadalli irisidAga, ADuga mattu kELugarannu sUcisabEkAgiruvalli
-puruSa pratyayagaLannu sErisalAgide.
+puruSha pratyayagaLannu sErisalAgide.
 
 
 <a id="sec-4-3"></a>
 
-## 4.3 sarvanAmagaLu
+## ೪.೩ sarvanAmagaLu
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-4-3) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-4--parts-of-speech)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-4--parts-of-speech) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-4-3)
 
 
-hecci na bhASegaLallU "puruSapada' mattu "sarvapada' embudAgi eraDu
-padavargagaLige sEruva padagaLiruttave. ivugaLalli puruSapadagaLu ondu vAkyavannu
+hecci na bhAShegaLallU "puruShapada' mattu "sarvapada' embudAgi eraDu
+padavargagaLige sEruva padagaLiruttave. ivugaLalli puruShapadagaLu ondu vAkyavannu
 baLasuva vyaktigaLannu (vAkyada ADuga, kELuga mattu itara vyaktigaLannu) A vAkyadallEnE
 sUcisuvudakkAgi baLakeyAguttave. bEre padagaLu A vyaktigaLannu gurutisaballuvAdarU,
 antaha vyaktigaLu A vAkyavannu baLasuttiruvavaru embudannu sUcisalAravu.
 
 udAharaNegAgi, ondu vAkyada ADuga pAtravannu A vAkyadallEnE
-sUcisuvudakkAgi haLegannaDadalli An‌ (Am) puruSapadavannU, kELuga pAtravannu
-sUcisuvudakkAgi nIn‌ (nIm) puruSapadavannU, mattu ivaribbariginta bhinnavAda
-vyaktiyobbanannu sUcisuvudakkAgi tAn‌ (tAm) puruSapadavannU baLasalAgutta ha
+sUcisuvudakkAgi haLegannaDadalli An‌ (Am) puruShapadavannU, kELuga pAtravannu
+sUcisuvudakkAgi nIn‌ (nIm) puruShapadavannU, mattu ivaribbariginta bhinnavAda
+vyaktiyobbanannu sUcisuvudakkAgi tAn‌ (tAm) puruShapadavannU baLasalAgutta ha
 ivugaLa baLakeyannu pampa bhAratada keLagina vAkyagaLalli kANabahudu.
 
-(13ka) Am intidane bEDiden‌ (2.61)
+(೧೩ka) Am intidane bEDiden‌ (೨.೬೧)
 "idannE nAnu bEDiddEne'
 
-(13kha) nIm sAmAnyeyalle (8.55va)
+(೧೩kha) nIm sAmAnyeyalle (೮.೫೫va)
 "nInu sAmAnyaLalla'
 
-(13ga) gAndhAri nUrvarmakkaLam paDevantu parASara munIdranoL‌
+(೧೩ga) gAndhAri nUrvarmakkaLam paDevantu parASara munIdranoL‌
 barambaDedaLembudam kunti kELdu tAnum putrArthiniyAgal‌ bagedu
 
-(1.116va)
+(೧.೧೧೬va)
 
-"gAndhAri nUru makkaLannu paDeyuvante vyAsamaharSigaLinda varavannu
+"gAndhAri nUru makkaLannu paDeyuvante vyAsamaharShigaLinda varavannu
 paDedaLembudannu kunti kELi tAnU makkaLannu bayasuvavaLAgi...'
 
-(13ka) vAkyavannu drONAcAryanu ADiddu, AtanannE adaralli bandiruva Am
-pada sUcisuttade. idakke badalu, (13kha) vAkyavannu virATana mahArANiyAda
+(೧೩ka) vAkyavannu drONAcAryanu ADiddu, AtanannE adaralli bandiruva Am
+pada sUcisuttade. idakke badalu, (೧೩kha) vAkyavannu virATana mahArANiyAda
 
 ha
 
 14
 
-sudESe ADidu, adanu Ake snerandhi vESadalliruva davpadiyanudESisi hELidALe.
+sudEShe ADidu, adanu Ake snerandhi vEShadalliruva davpadiyanudESisi hELidALe.
 Na e 4 li (pa. dA A i Odi e
 
 hAgAgi, adara kELugaLu dravpadiyAgiddu, Akeyannu adaralli bandiruva nIm pada
 sUcisuttade.
 
-(13ga) vAkyadalli kaviyE A vAkyada ADuga, mattu avana kAvyavannu OduvavarE
+(೧೩ga) vAkyadalli kaviyE A vAkyada ADuga, mattu avana kAvyavannu OduvavarE
 A vAkyada "kELugaru'; ivaribbariginta bhinnavAgiruva kuntiyannu tAn‌ emba mUraneya
-puruSapada sUcisuttade.
+puruShapada sUcisuttade.
 
-sarvapadagaLige I puruSapadagaLiginta tIra bhinnavAda kelasavide. avugaLa racaneyU
-puruSapadagaLa racaneginta bhinnavAgide. sarvapadagaLallella sAmAnyavAgi eraDeraDu
+sarvapadagaLige I puruShapadagaLiginta tIra bhinnavAda kelasavide. avugaLa racaneyU
+puruShapadagaLa racaneginta bhinnavAgide. sarvapadagaLallella sAmAnyavAgi eraDeraDu
 angagaLu baruttiddu, avugaLalli modalaneya anga A sarvapadada kelasavEnembudannu
 mattu eraDaneya anga adara vyAptiyEnembudannu tiLisuttave.
 
@@ -2639,43 +2640,43 @@ udAharaNegAgi, enitu sarvapadadalli modalaneya angavAda e embudu A
 sarvapadakke aniSci tateyannu sUcisuva kelasavideyendu tiLisuttade, mattu eraDaneya
 angavAda nitu embudu A sarvapada sUcisuva aniSci tate vastuvondara parimANakke
 sImitavAgide embudAgi adara vyAptiyannu tiLisuttade (heccina vivaragaLige bhaT‌
-2003, 2004 nODi).
+೨೦೦೩, ೨೦೦೪ nODi).
 
 heccina vyAkaraNagaLallU I eraDu rItiya padagaLannu oTTAgi "sarvanAma'
 emba ondu padavargadalli sErisi hELuvudu rUDhi. Adare, nijakkU I eraDu
 rItiya padagaLa naDuve yAva sAdxSyavU illa. hAgAgi, avannu bEre bEre
 padavargagaLallirisi hELuvudE oLLeyadu.
 
-I eraDu padavargagaLa maTTige haLegannaDa mattu samskxta bhASegaLa naDuve
-halavu mukhyavAda vyatyAsagaLive. ivugaLalli puruSapadagaLannu keLage (4.4)nE
-vibhAgadallU sarvapadagaLannu munde (4.5)nE vibhAgadallU pariSIlisalAguvudu.
+I eraDu padavargagaLa maTTige haLegannaDa mattu samskxta bhAShegaLa naDuve
+halavu mukhyavAda vyatyAsagaLive. ivugaLalli puruShapadagaLannu keLage (೪.೪)nE
+vibhAgadallU sarvapadagaLannu munde (೪.೫)nE vibhAgadallU pariSIlisalAguvudu.
 
 
 <a id="sec-4-4"></a>
 
-## 4.4 praruSapadagaLu
+## ೪.೪ praruShapadagaLu
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-4-4) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-4--parts-of-speech)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-4--parts-of-speech) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-4-4)
 
 
 mEle sUcisida hAge, haLegannaDadalli An‌, nIn‌ mattu tAn‌ embudAgi
-mUru puruSapadagaLu baLakeyalliddu, ivu vAkyada ADuga, kELuga mattu itara
+mUru puruShapadagaLu baLakeyalliddu, ivu vAkyada ADuga, kELuga mattu itara
 embudAgi vAkyavannu unTumADuva mattu baLasuva kelasakke sambandisida vyaktigaLannu
 sUcisuttave.
 
-Adare, samskxtadalli aham mattu tvam embudAgi eraDu puruSapadagaLu mAtra
+Adare, samskxtadalli aham mattu tvam embudAgi eraDu puruShapadagaLu mAtra
 baLakeyallive. ADuga mattu kELugariginta bhinnavAgiruva vyaktiyannu sUcisuvantaha
-viSiSTavAda puruSapada samskxtadallilla (4.4.2 nODi).
+viSiShTavAda puruShapada samskxtadallilla (೪.೪.೨ nODi).
 
 
 <a id="sec-4-4-1"></a>
 
-### 4.4.1 kELugana sErike
+### ೪.೪.೧ kELugana sErike
 
 
-puruSapadagaLa bahuvacana rUpagaLalli haLegannaDa mattu samskxta bhASegaLa
+puruShapadagaLa bahuvacana rUpagaLalli haLegannaDa mattu samskxta bhAShegaLa
 naDuve ondu mukhyavAda vyatyAsavide. haLegannaDadalli ADuga mattu kELugarannu
-sUcisuva An‌ mattu nIn‌ emba eraDu puruSa padagaLige bahuvacanadalli mUru
+sUcisuva An‌ mattu nIn‌ emba eraDu puruSha padagaLige bahuvacanadalli mUru
 rUpagaLive:
 
 modalaneyadAgi, An‌ embudara koneya nakAravannu makAravAgi badalAyisi
@@ -2692,157 +2693,157 @@ badalAyisuvudarondige adara suruvinalli ondu nakAravannU sErisi tayArisida
 nAm‌ emba bahuvacana rUpada mUlaka “ADuga mattu kELuga' emba arthavannu
 sUcisalAguttade.
 
-I rIti, haLegannaDada An‌ mattu nAn‌ emba puruSapadagaLige mUru bahuvacana
+I rIti, haLegannaDada An‌ mattu nAn‌ emba puruShapadagaLige mUru bahuvacana
 rUpagaLiveyAda kAraNa, Am‌ embudakke ADuga mattu kELugara sErikeyannu
 sUcisuva arthavilla.
 
 udAharaNegAgi, pampabhAratada keLagina vAkyagaLannu gamanisabahudu.
 
-(14ka) Am‌ allige pOpevu (4.48)
-"nAvu (cakravAkapakSigaLu) allige hOguttEve'
-(14kha) bEDuvoDe nIvemmayyanam bEDirE (1.70)
+(೧೪ka) Am‌ allige pOpevu (೪.೪೮)
+"nAvu (cakravAkapakShigaLu) allige hOguttEve'
+(೧೪kha) bEDuvoDe nIvemmayyanam bEDirE (೧.೭೦)
 "nIvu (nannannu) bEDuvudAdare namma tandeyannu prArthisi'
 
-(15ka) nAm‌ ADuvame banni (6.70)
+(೧೫ka) nAm‌ ADuvame banni (೬.೭೦)
 "nAvu ADONavE? banni'
 
-(15kha) toDardar‌ nammaya bhakSa! doL‌ (3.12)
+(೧೫kha) toDardar‌ nammaya bhakSha! doL‌ (೩.೧೨)
 "namma AhAradalli sikkibidda ru'
 
-mEle (14ka)dalli bandiruva Am‌ padakke ADuga (cakravAka pakSi) mattu
-itararu (bEre cakravAkapakSigaLu) emba arthavideyallade, A vAkyada kELugarAgiruva
-itara pakSigaLannu ADuganondige sErisi hELuva arthavilla. idE rItiyalli, (14kha)dalli
+mEle (೧೪ka)dalli bandiruva Am‌ padakke ADuga (cakravAka pakShi) mattu
+itararu (bEre cakravAkapakShigaLu) emba arthavideyallade, A vAkyada kELugarAgiruva
+itara pakShigaLannu ADuganondige sErisi hELuva arthavilla. idE rItiyalli, (೧೪kha)dalli
 bandiruva emma embudakkU ADuganondige kELuganannu sErisi hELuva arthavilla.
 
-idakke badalu, (15ka)dalli bandiruva nAm‌ padakke ADuganAgiruva
+idakke badalu, (೧೫ka)dalli bandiruva nAm‌ padakke ADuganAgiruva
 duryOdhananondige A vAkyada kELuganAgiruva dharmarAyanannU sErisi hELuva
-arthavide. idE rItiyalli, (15kha)dalli bandiruva nammaya puruSapadakke ADuganAda
+arthavide. idE rItiyalli, (೧೫kha)dalli bandiruva nammaya puruShapadakke ADuganAda
 hiDimbanondige kELugaLAgiruva hiDimbeyannU sErisi hELuva arthavide.
 
 keLage koTTiruva pampabhAratada vAkyagaLalli I mUru rItiya bahuvacana
-rUpagaLU oTTige bandiddu, avugaLa naDuviruva artha vyatyAsa innaSTu spaSTavAgide.
+rUpagaLU oTTige bandiddu, avugaLa naDuviruva artha vyatyAsa innaShTu spaShTavAgide.
 
-(15ga) nAmellam onde garuDiyoL‌ Odida mAnasarevu; emmam nimmaDi
-kemmane baTalisavEDa (9.48va)
-"nAvella ondE garaDiyalli kalita manuSyarAgiddEve; nIvu nammannu
+(೧೫ga) nAmellam onde garuDiyoL‌ Odida mAnasarevu; emmam nimmaDi
+kemmane baTalisavEDa (೯.೪೮va)
+"nAvella ondE garaDiyalli kalita manuShyarAgiddEve; nIvu nammannu
 vxthA AyAsapaDisabEDi'
 
-haLegannaDada puruSapadagaLalli kANisuva I vyatyAsa samskxtadallilla. A bhASeyalli
-aham mattu tvam emba eraDu puruSapadagaLu mAtra baLakeyalliddu, ivugaLa dvivacana
+haLegannaDada puruShapadagaLalli kANisuva I vyatyAsa samskxtadallilla. A bhASheyalli
+aham mattu tvam emba eraDu puruShapadagaLu mAtra baLakeyalliddu, ivugaLa dvivacana
 illavE bahuvacana rUpagaLige, haLegannaDadalliruva hAge, ADuga mattu kELugara
 sErikeyannu itara sErikegaLinda bErpaDisi hELuva Saktiyilla.
 
 udAharaNegAgi, aham padada dvivacana rUpavAgiruva AvAm embudara
 baLakeyAgiruva keLagina vAkyavannu gamanisabahudu.
 
-(16ka) AvAm nagaram gacchAmaH
-(1) "nAvu pETege hOgONa”
-(2) "nAvu pETege hOguttEve'
+(೧೬ka) AvAm nagaram gacchAmaH
+(೧) "nAvu pETege hOgONa”
+(೨) "nAvu pETege hOguttEve'
 
-(16ka) vAkya eraDu arthagaLalli baralu sAdhyaviddu, adaralli ruva AvAm padakke
+(೧೬ka) vAkya eraDu arthagaLalli baralu sAdhyaviddu, adaralli ruva AvAm padakke
 modalaneya arthadalli baLakeyAdAga "nAnu mattu nInu' embudAgi ADuganondige
 kELuganannu sErisi hELuva arthavU, eraDaneya arthadalli baLakeyAdAga "nAnu
 mattu avanu' embudAgi kELuganannu sErisade bErobbanannu sErisi hELuva arthavU
-baruttade. Adare, haLegannaDada hAge illi eraDu bEre bEre puruSa padarUpagaLu
+baruttade. Adare, haLegannaDada hAge illi eraDu bEre bEre puruSha padarUpagaLu
 baLakeyAguvudilla.
 
-haLegannaDada I vyatyAsa hosagannaDadallU illa embudu (16ka) samskxta
-vAkyakke koTTiruva hosagannaDada (1-2) anuvAda vAkyagaLalli kANabahudu.
-ADuganondige kELuganannu sErisadiruva (1)nE anuvAda vAkyadalli, mattu kELuganannu
-sErisiruva (2)nE anuvAda vAkyadalli - I eraDu sandarbhagaLallU hosagannaDadalli
-nAvu emba puruSapadavE baLakeyAgide. (15ka-ga) vAkyagaLa hosagannaDa
-anuvAdagaLallU I viSaya sUcitavAgide.
+haLegannaDada I vyatyAsa hosagannaDadallU illa embudu (೧೬ka) samskxta
+vAkyakke koTTiruva hosagannaDada (೧-೨) anuvAda vAkyagaLalli kANabahudu.
+ADuganondige kELuganannu sErisadiruva (೧)nE anuvAda vAkyadalli, mattu kELuganannu
+sErisiruva (೨)nE anuvAda vAkyadalli - I eraDu sandarbhagaLallU hosagannaDadalli
+nAvu emba puruShapadavE baLakeyAgide. (೧೫ka-ga) vAkyagaLa hosagannaDa
+anuvAdagaLallU I viShaya sUcitavAgide.
 
-haLegannaDada puruSapadagaLalli kANisuva I vyatyAsa karAvaLiya kannaDa prabhEdagaLalli
+haLegannaDada puruShapadagaLalli kANisuva I vyatyAsa karAvaLiya kannaDa prabhEdagaLalli
 ivattigU uLidukonDide. udAharaNegAgi, karAvaLiya havyaka kannaDa prabhEdadalli
 haLegannaDada Am‌ embudakke engo emba rUpavU mattu nAm‌ embudakke nAvu
 emba rUpavU baLakeyallive. udAharaNegAgi, keLage koTTiruva havyaka kannaDa vAkyagaLannu
 gamanisabahudu.
 
-(16kha) nAvu pETege hOpo'
+(೧೬kha) nAvu pETege hOpo'
 "nAvu pETege hOgONa'
 
-(16ga) engo pETege hOvutteyo'
+(೧೬ga) engo pETege hOvutteyo'
 "nAvu pETege hOguttEve'
 
-(16kha)dalli bandiruva nAvu embudu ADuganondige kELuganannU sErisi sUcisuttade,
-Adare (16ga)dalli bandiruva engo embudu ADuganondige kELuganannu horatupaDisi,
+(೧೬kha)dalli bandiruva nAvu embudu ADuganondige kELuganannU sErisi sUcisuttade,
+Adare (೧೬ga)dalli bandiruva engo embudu ADuganondige kELuganannu horatupaDisi,
 bEre yAvudO vyaktiyannu (athavA vyaktigaLannu) sErisi sUcisuttade. I eraDu
 sandarbhagaLallU barahada kannaDadalli nAvu embudE baLakeyAguttade.
 
-puruSapadagaLa baLakeyalli haLegannaDadalli mAtra kANisuva, mattu samskxtadallillada
-I vaySiSTyavannu haLegannaDada prAcIna vayyAkaraNigaLu gamanisida hAge kANisuvudilla.
-kiTTel‌ (1903:78) kUDa I padagaLa Adiyalli baruva nakArakke viSiSTavAda arthavannu
+puruShapadagaLa baLakeyalli haLegannaDadalli mAtra kANisuva, mattu samskxtadallillada
+I vaySiShTyavannu haLegannaDada prAcIna vayyAkaraNigaLu gamanisida hAge kANisuvudilla.
+kiTTel‌ (೧೯೦೩:೭೮) kUDa I padagaLa Adiyalli baruva nakArakke viSiShTavAda arthavannu
 koDuva Saktiyideyembudannu gamanisilla.
 
-kannaDa kaypiDiyallU (1927:367) Am‌ mattu nAm‌ embavugaLu prathama
-puruSada eraDu rUpagaLendiSTE hELalAgide. kAlD‌vel‌ (1913) kUDa, kannaDada
-puruSa padagaLalli kANisuva I vyatyAsavannu gamanisiralilla.
+kannaDa kaypiDiyallU (೧೯೨೭:೩೬೭) Am‌ mattu nAm‌ embavugaLu prathama
+puruShada eraDu rUpagaLendiShTE hELalAgide. kAlD‌vel‌ (೧೯೧೩) kUDa, kannaDada
+puruSha padagaLalli kANisuva I vyatyAsavannu gamanisiralilla.
 
 Adare, idu tappu, haLegannaDadallU I arthabhEda sUcitavAguttittu embudannu
-Ar‌. narasimhAcAr‌ (1924:84) tOrisikoTTiddAre. hattanE SatamAnada
+Ar‌. narasimhAcAr‌ (೧೯೨೪:೮೪) tOrisikoTTiddAre. hattanE SatamAnada
 vaDDArAdhaneyallU Am‌, emage mattu nAm‌, namage embavugaLa naDuve I
-arthavyatyAsavittembudannu gAy‌ (1955) tOrisikoTTiddAre.
+arthavyatyAsavittembudannu gAy‌ (೧೯೫೫) tOrisikoTTiddAre.
 
 bahuSaH haLegannaDadallEnE bEre kelavu kAvyagaLalli I vyatyAsa uLidilladiralu
 sAdhyavide. "prAcIna prayOgagaLannu gamanisidare ivu panrkAyavAgi
 baLakeyAgiveyallade padagaLa arthadalli alla' embudAgi venkaTAcala SAstri gaLu
-(1994:68) hELiruvudu antaha kAvyagaLalli kANisuva prayOgagaLa AdhArada
+(೧೯೯೪:೬೮) hELiruvudu antaha kAvyagaLalli kANisuva prayOgagaLa AdhArada
 mElirabahudu.
 
 
 <a id="sec-4-4-2"></a>
 
-### 4.4.2 mUraneya vyakti
+### ೪.೪.೨ mUraneya vyakti
 
 
-puruSapadagaLa maTTige haLegannaDa mattu samskxta bhASegaLa naDuviruva innondu
+puruShapadagaLa maTTige haLegannaDa mattu samskxta bhAShegaLa naDuviruva innondu
 vyatyAsavEnendare, haLegannaDadalli An‌, nIn‌ mattu tAn‌ embudAgi mUru
-puruSapadagaLu baLakeyallive. ivu mEle sUcisida hAge, vAkyada ADuga, kELuga
+puruShapadagaLu baLakeyallive. ivu mEle sUcisida hAge, vAkyada ADuga, kELuga
 mattu itara embudAgi ondu vAkyada baLakege sambandhisidante mUru rItiya
 pAtragaLannu sUcisaballuvu.
 
 mUraneya vyaktiyannu sUcisuvudakkAgi tAn‌ mattu tAm‌ embavugaLa
 baLakeyAguvudannu pampabhAratada keLagina vAkyagaLalli kANabahudu.
 
-(17ka) tAnArandamalla, avam ninnane pOlvam (8.11)
+(೧೭ka) tAnArandamalla, avam ninnane pOlvam (೮.೧೧)
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-4-5) | [4
+[4
 
 avanu (bEre) yAra hAgU alla, avanu ninnannE hOluttAne'
 
-(17kha) nImum tAmum ondeDeyoLire kisurum kalahamum
-endum kundadu (4.8va) |
+(೧೭kha) nImum tAmum ondeDeyoLire kisurum kalahamum
+endum kundadu (೪.೮va) |
 "nIvU avarU ondE kaDe iddare asUyeyU kalahavU
 endU tappuvudilla'
 
 avan‌, avar‌ modalAda sarvapadagaLigU mattu tAn‌, tAm‌ emba
-puruSapadagaLigU naDuviruva vyatyAsavEnendare, tAn‌, tAm‌ embavugaLa baLake
+puruShapadagaLigU naDuviruva vyatyAsavEnendare, tAn‌, tAm‌ embavugaLa baLake
 avannu baLasiruva vAkyada ADuga mattu kELugarige sambandhiside. avaribbarigintalU
 bhinnavAda vyaktigaLu) embartha avakkide. avan‌, avar‌ modalAdavugaLige I rIti
 vAkyada ADuga mattu kELugarige sambandhisiruvantaha arthavilla.
 
-tAn‌ embudara bahuvacana rUpa, uLideraDu puruSapadagaLa bahuvacana
+tAn‌ embudara bahuvacana rUpa, uLideraDu puruShapadagaLa bahuvacana
 rUpagaLa hAge, nakArada badalu makAravannu baLasuvudara mUlaka siddhi suttade, mattu
-vibhakti pratyayagaLondige bandAga, adara uddasvara, uLideraDu puruSa padagaLa
+vibhakti pratyayagaLondige bandAga, adara uddasvara, uLideraDu puruSha padagaLa
 uddasvarada hAge, giDDa svaravAgi badalAguttade (An‌-enage, nIn‌-ninage, tAn‌-
 tanage, ityAdi).
 
 idallade, avan‌, avar‌ modalAdavugaLigiruvantaha oLaracane tAn‌ embudakkilla
-(4.5 nODi).
+(೪.೫ nODi).
 
-samskxtadalli aham mattu tvam embudAgi eraDu puruSapadagaLu mAtra ive.
+samskxtadalli aham mattu tvam embudAgi eraDu puruShapadagaLu mAtra ive.
 haLegannaDada tAn‌ embudakke pratiyAgi kelavu sandarbhagaLalli samskxtada Atman‌
 illavE sva padavannu baLasalu sAdhyavideyAdarU, avu tAn‌ embudara hAge
-puruSapadagaLalla. sva emba pada samskxtada sarvanAmavemba padavargadalli sEruvudEnO
-nija, Adare I padavU samskxtada puruSapadagaLiginta bhinnavAgide.
+puruShapadagaLalla. sva emba pada samskxtada sarvanAmavemba padavargadalli sEruvudEnO
+nija, Adare I padavU samskxtada puruShapadagaLiginta bhinnavAgide.
 
 
 <a id="sec-4-5"></a>
 
-## 4.5 sarvapadagaLu
+## ೪.೫ sarvapadagaLu
 
-[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-4--parts-of-speech)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-4--parts-of-speech) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-4-5)
 
 
 mEle sUcisida hAge, sarvapadagaLalli sAmAnyavAgi eraDu angagaLiddu,
@@ -2850,13 +2851,13 @@ avugaLalli ondu A padada kelasavEnembudannU innondu adara vyAptiyEnembudannU
 tiLisuttave. udAharaNegAgi, ivan‌ emba sarvapadadalli modalaneya angavAda i
 embudu A padakke "sUcisuttiruva vyakti ADugana hattira iruvavanu' embudAgi A
 vyaktiya jAgavannu nirdESisuvantaha kelasavideyendu tiLisuttade, mattu eraDaneya
-angavAda an‌ embudu A padakke ganDasarannu sUcisuvaSTakkE sImitavAgiruvantaha
+angavAda an‌ embudu A padakke ganDasarannu sUcisuvaShTakkE sImitavAgiruvantaha
 vyAptiyideyendu tiLisuttade.
 
-I kAraNakkAgi, ondu bhASeyalli baLakeyAguva sarvapadagaLannella ondu
-kOSTakadalli irisi hELalu sAdhyavAguttade. I kOSTakada kAlangaLu A padagaLa
+I kAraNakkAgi, ondu bhASheyalli baLakeyAguva sarvapadagaLannella ondu
+kOShTakadalli irisi hELalu sAdhyavAguttade. I kOShTakada kAlangaLu A padagaLa
 mattu sAlugaLu avugaLa vyAptiyannu sUcisuttave. udAharaNegAgi,
-haLegannaDada sarvapadagaLannu keLage koTTiruva kOSTakadallirisi hELalu sAdhyavide.
+haLegannaDada sarvapadagaLannu keLage koTTiruva kOShTakadallirisi hELalu sAdhyavide.
 
 nirdESaka padagaLu aniScita padagaLu
 dUradavu hattiradavu naDuvinavu
@@ -2887,20 +2888,20 @@ samanAda nirdESaka padagaLU haLegannaDadallilla.
 Avan‌, AvaL‌, Avudu, elli, entu modalAduvannu sAmAnyavAgi "praSnArthaka'
 padagaLendu kareyalAguttade. Adare, avannilli aniScita padagaLendu kareyalAgide.
 idakke kAraNavEnembudannu, mattu praSneyannu sUcisuvudakkintalU aniScitateyannu
-sUcisuvudE I padagaLa nijavAda kelasa embudannu (bhaT‌ 2003, 2004)ralli nAnu
-spaSTavAgi tOrisikoTTidde ne.
+sUcisuvudE I padagaLa nijavAda kelasa embudannu (bhaT‌ ೨೦೦೩, ೨೦೦೪)ralli nAnu
+spaShTavAgi tOrisikoTTidde ne.
 
 
 <a id="sec-4-5-1"></a>
 
-### 4.5.1 sarvanAmagaLa paTTi
+### ೪.೫.೧ sarvanAmagaLa paTTi
 
 
 samskxta vyAkaraNagaLalli "sarvAdi' emba paTTiyalli sarva, viSva, Eka, tad‌,
 Etad‌, idam, kim, anya, itara, katara, yatara, ubhaya, alpa modalAda mUvattaydu
 padagaLannu oTTige sErisi hELalAgiddu, avannu sarvanAmagaLendu kareyalAgide.
 
-Adare idaralli baruva padagaLalli heccinavU, mEle kOSTakadalli koTTiruva padagaLa
+Adare idaralli baruva padagaLalli heccinavU, mEle kOShTakadalli koTTiruva padagaLa
 hAge, ondu niScitavAda oLaracaneyiruvavugaLalla. avugaLondige baruva vibhakti
 pratyayagaLu bEre nAmapadagaLondige baruva vibhakti pratyayagaLinda bhinnavAgiveyembudE
 I paTTige AdhAra.
@@ -2914,40 +2915,40 @@ prathamA-bahuvacana sarvE sarvAH
 caturthI-Ekavacana sarvasme la sarvAya
 pancamI-Ekavacana sarvasmAt‌ sarvAt‌
 saptamI-Ekavacana sarvasmin‌ sarvE
-SaSThI-bahuvacana sarvESAm sarvANAm
+ShaShThI-bahuvacana sarvEShAm sarvANAm
 
 sarva paTTiyalli bandiruva itara padagaLigU mEle koTTiruva sarva "ella ' padada
 hAgeyE iruvantaha vibhakti rUpagaLive.
 
 kESirAjanu haLegannaDada adu, idu, udu, Avudu, elladu, peatu, peadu,
-En‌ modalAdavugaLannu sarvanAmagaLendu karediddAne (sU. 88). ivugaLige
+En‌ modalAdavugaLannu sarvanAmagaLendu karediddAne (sU. ೮೮). ivugaLige
 samAnavAda padagaLu samskxtada sarvAdi paTTiyallive embudannu biTTare, haLegannaDada
-I paTTige Enu AdhAra embudu spaSTavAguvudilla.
+I paTTige Enu AdhAra embudu spaShTavAguvudilla.
 
-samskxtada sarvAdi paTTiyalli puruSavAcaka (yuSmad‌, asmad‌), sankhyAvAcaka
-(ubhaya, Eka, dvi) mattu digvAcaka (pUrva, avara, uttara, dakSiNa) padagaLU sErive.
+samskxtada sarvAdi paTTiyalli puruShavAcaka (yuShmad‌, asmad‌), sankhyAvAcaka
+(ubhaya, Eka, dvi) mattu digvAcaka (pUrva, avara, uttara, dakShiNa) padagaLU sErive.
 ivellavU, mEle sUcisida hAge, vibhakti rUpadalli itara nAmapadagaLinda
 bhinnavAgiveyembudE avannella sarvAdi emba paTTiyallirisi hELalu AdhAra.
 
 adare, haLegannaDadalli mEle koTTa kESirAjana paTTige antaha AdhAravEnU
-iruva hAge kANisuvudilla. avugaLalli heccinavannU mEle (4.5)ralli koTTiruva
-sarvapadagaLa kOSTakadalli irisalu sAdhyavide, Adare elladu, peatu mattu peadu
+iruva hAge kANisuvudilla. avugaLalli heccinavannU mEle (೪.೫)ralli koTTiruva
+sarvapadagaLa kOShTakadalli irisalu sAdhyavide, Adare elladu, peatu mattu peadu
 embavugaLu adaralli sEralAravu.
 
 
 <a id="sec-4-5-2"></a>
 
-### 4.5.2 sarvanAmagaLu mattu AkhyAta pratyayagaLu
+### ೪.೫.೨ sarvanAmagaLu mattu AkhyAta pratyayagaLu
 
 
-(4.5)ra kOSTakadalli bandiruva avan‌, avaL‌, Avan‌, AvaL‌ modalAduvannu
-kESirAjanu adu mattu Avudu embavugaLinda sAdhisiruvudu (sU. 161-2, 165)
+(೪.೫)ra kOShTakadalli bandiruva avan‌, avaL‌, Avan‌, AvaL‌ modalAduvannu
+kESirAjanu adu mattu Avudu embavugaLinda sAdhisiruvudu (sU. ೧೬೧-೨, ೧೬೫)
 samskxta vyAkaraNa niyamavannu haLegannaDakke aLavaDisalu naDesiruva innondu prayatnada
 phala. Adare idu haLegannaDakke ucitavalla.
 
 yAkendare, samskxtadalli intaha padagaLa naDuviruva lingabhEda vibhakti pratyayagaLa
 svarUpadalli kANisikoLLutta de; Adare, haLegannaDadalli adu I sarvanAmagaLa eraDaneya
-angadallEnE kANisikoLLutta de. hAgAgi, mEle kOSTakadalli sUcisida hAge, avan‌,
+angadallEnE kANisikoLLutta de. hAgAgi, mEle kOShTakadalli sUcisida hAge, avan‌,
 avaL‌, ivan‌, ivaL‌ modalAduvannu adu, idu modalAdavugaLiginta bhinnavAda
 sarvanAma (sarvapada)gaLendu parigaNisuva avaSyakateyide.
 
@@ -2958,19 +2959,19 @@ naDuve ondu vicitravAda vyatyAsavide. |
 
 mEle sUcisida hAge, sarvanAmagaLalli napumsaka lingada adu embudannu
 mUlavAgiTTukonDu, adarinda avan‌, avaL‌, Ata, Ake modalAduvannu sAdhisalAgide
-(kESirAja, sU. 165); Adare, ghaTakagaLannu sUcisuva AkhyAta pratyayagaLalli pullingada
+(kESirAja, sU. ೧೬೫); Adare, ghaTakagaLannu sUcisuva AkhyAta pratyayagaLalli pullingada
 am‌ embudannu mUlavAgiTTukonDu, adarinda aL‌, udu (adu) modalAduvannu
-sAdhisalAgide (kESirAja, sU. 228, 236-7, mattu idE pustakada 9.3 nODi).
+sAdhisalAgide (kESirAja, sU. ೨೨೮, ೨೩೬-೭, mattu idE pustakada ೯.೩ nODi).
 
 eraDu kaDeyallU ondE lingada (pullingada illavE napumsaka lingada)
 rUpavannE mUlavAgi irisikoLLabahudAgittallavE endu yArAdarU kELuvudiddalli,
 adakke uttara samskxta vyAkaraNadallide! samskxtada kriyArUpagaLalli lingabhEda
 sUcitavAguvudilla. "hOguttAne', "hOguttALe', mattu "hOguttade' emba mUru
-arthagaLallU gacchati emba ondE kriyArUpa A bhASeyalli baLakeyAguttade.
+arthagaLallU gacchati emba ondE kriyArUpa A bhASheyalli baLakeyAguttade.
 
-Adare, sAmAnyavAgi samskxtada prathamapuruSa Ekavacanada kriyArUpagaLannu
-kannaDadalli prathamapuruSa pullinga Ekavacanada kriyArUpagaLa mUlakavE
-anuvAdisuvudu rUDi (gacchati "hOguttAne'). avannu viSiSTavAda strIlinga illavE
+Adare, sAmAnyavAgi samskxtada prathamapuruSha Ekavacanada kriyArUpagaLannu
+kannaDadalli prathamapuruSha pullinga Ekavacanada kriyArUpagaLa mUlakavE
+anuvAdisuvudu rUDi (gacchati "hOguttAne'). avannu viSiShTavAda strIlinga illavE
 napumsaka lingada artha koDuva nAmapadagaLondige baLasiruvalli mAtra (sItA
 gacchati "sIte hOguttALe', simhaH gacchati "simha hOguttade”) strIlinga Ekavacana
 illavE napumsaka linga Ekavacana rUpagaLa mUlaka anuvAdisalAguttade.
@@ -2989,43 +2990,43 @@ mUlavAgi irisikoLLalAgide.
 I tat‌ embudu samskxtadalli napumsaka Ekavacanada sarvanAmavU AgideyAda
 
 kAraNa, haLegannaDadalli adakke samanAgiruva adu embudannu namma vayyAkaraNigaLu
-haLegannaDada prathamapuruSa sarvanAmagaLigU mUla padavAgi mADikonDiddAre.
+haLegannaDada prathamapuruSha sarvanAmagaLigU mUla padavAgi mADikonDiddAre.
 Adare, haLegannaDadalli avan‌ mattu avaL‌ embavu ellA vibhaktigaLallU badalAgade
 hAgeyE uLiyuttave, samskxtada saH mattu sA embavugaLa hAge badalAguvudilla.
 
 I vidhAnavannE munduvarisi, kESirAjanu eLeyam, eLeyar‌, eLeyaL‌
 modalAda pullinga mattu stra "lingagaLalli baruva guNapadagaLa rUpavannu eLadu
 embantaha napumsaka lingadalli baruva guNapadagaLa rUpadinda sAdhisuttAne (sU.
-164).
+೧೬೪).
 
 haLegannaDa vayyAkaraNigaLa mEle samskxta vyAkaraNakke entaha hiDitavittu
-embudannu avara I vicitravAda rUpasAdhane bahaLa spaSTavAgi tOrisikoDuttade.
+embudannu avara I vicitravAda rUpasAdhane bahaLa spaShTavAgi tOrisikoDuttade.
 
 
 <a id="sec-4-5-3"></a>
 
-### 4.5.3 kelasadalli vyatyAsa
+### ೪.೫.೩ kelasadalli vyatyAsa
 
 
-mEle kOSTakadalli kANisida hAge, haLegannaDadalli nirdESisuvudu mattu
+mEle kOShTakadalli kANisida hAge, haLegannaDadalli nirdESisuvudu mattu
 aniScitateyannu sUcisuvudu embudAgi eraDu kelasagaLannu mADaballa sarvapadagaLu
 mAtra baLakeyallive; Adare samskxtadalli nirdESisuvudu, aniScitateyannu sUcisuvudu
 mattu sambandhisuvudu embudAgi mUru kelasagaLannu mADaballa sarvapadagaLu
 baLakeyallive. haLegannaDadalli aniScitateyannu sUcisuva sarvapadagaLannE sambandhisuva
 kelasadallU baLasalAguttade.
 
-udAharaNegAgi, keLage (17ka-kha)gaLalli koTTiruva vAkyagaLannu gamanisabahudu.
+udAharaNegAgi, keLage (೧೭ka-kha)gaLalli koTTiruva vAkyagaLannu gamanisabahudu.
 
-(17ka) yatra tvam avasaH sa dESO ramaNIyaH
+(೧೭ka) yatra tvam avasaH sa dESO ramaNIyaH
 
 "nInu yAva dESadalli dleyO A dESa ramaNEyavAdudu'
-(17kha) tvam kutra gacchasi?
+(೧೭kha) tvam kutra gacchasi?
 
 "nInu ellige (yAva jAgakke) hOguttI?
 
-(17ka)dalli "nInu idda' dESakkU mattu "ramaNIyavAda dESa'kkU naDuve
+(೧೭ka)dalli "nInu idda' dESakkU mattu "ramaNIyavAda dESa'kkU naDuve
 sambandhavide embudannu (averaDU ondE embudannu) sUcisuvudakkAgi samskxtadalli
-yatra padada baLakeyAgide; mattu (17kha)dalli kELuganu hOguva jAgada kuritu
+yatra padada baLakeyAgide; mattu (೧೭kha)dalli kELuganu hOguva jAgada kuritu
 ADuganigiruva aniScitateyannu sUcisuvudakkAgi kutra padada baLakeyAgide.
 
 Adare, I vAkyagaLa keLage koTTiruva avugaLa hosagannaDa anuvAdagaLalli I
@@ -3036,47 +3037,47 @@ haLegannaDadallU sambandha mattu aniSci tategaLemba eraDu arthagaLannu sUcisuvud
 kkAgi ondE sarvapadada baLakeyAguttade embudannu keLage koTTiruva pampabhAratada
 vAkyagaLalli kANabahudu.
 
-(18ka) I dharaNiyam rasAtaladindettidanAvan‌ Atane dalam takkam
+(೧೮ka) I dharaNiyam rasAtaladindettidanAvan‌ Atane dalam takkam
 "I bhUmiyannu yAvanu pAtALadinda ettiddAnO avanE nijakkU
 (agrapUjege) arhanu'
 
-(18kha) ennanAvan‌ eccam pETum
+(೧೮kha) ennanAvan‌ eccam pETum
 “nanage yAvanu hoDedanu, hELi'
 
-(19ka) adentu hari naranam gelipam ante nImum gella ngoLLim (12.91)
-“kxSNanu arjunanannu hEge gelisuttAnO hAgeyE nIvU geddukoLLiri'
-(19kha) ninna bisuTentirpem (2.25)
+(೧೯ka) adentu hari naranam gelipam ante nImum gella ngoLLim (೧೨.೯೧)
+“kxShNanu arjunanannu hEge gelisuttAnO hAgeyE nIvU geddukoLLiri'
+(೧೯kha) ninna bisuTentirpem (೨.೨೫)
 "ninna biTTu hEgirali?
 
-avas‌ embudannu (18ka)dalli sambandhisuva arthadalli mattu (18kha)dalli
-aniScitArthadalli baLasalAgide, mattu idE rItiyalli entu embudannu (19ka)
-mattu (19kha)gaLalli sambandhArtha mattu aniScitArthagaLalli baLasalAgide.
+avas‌ embudannu (೧೮ka)dalli sambandhisuva arthadalli mattu (೧೮kha)dalli
+aniScitArthadalli baLasalAgide, mattu idE rItiyalli entu embudannu (೧೯ka)
+mattu (೧೯kha)gaLalli sambandhArtha mattu aniScitArthagaLalli baLasalAgide.
 
 
 <a id="sec-4-5-4"></a>
 
-### 4.5.4 nirdESakagaLalli vyatyAsa
+### ೪.೫.೪ nirdESakagaLalli vyatyAsa
 
-mEle sarvapadagaLa kOSTakadalli kANisida hAge, haLegannaDadalli (ka) ADugana
+mEle sarvapadagaLa kOShTakadalli kANisida hAge, haLegannaDadalli (ka) ADugana
 hattira (I, ivan‌, Ike, illi, indu, ityAdi), (kha) ADuganinda dUra (A, avan‌,
 Ake, alli, andu ityAdi), mattu (ga) I eraDu jAgagaLa naDuve (U, uvan‌,
 Uke, undu, ityAdi) embudAgi nirdESaka padagaLalli mUru jAgagaLannu sUcisuva
 vyavasthe yide.
-(20ka) kulamanintu pikkadirim
+(೨೦ka) kulamanintu pikkadirim
 "(karNana) kulavannu hIge biDisi nODabEDi'
-(20kha) antu piridOlagangoTTirpannegam
+(೨೦kha) antu piridOlagangoTTirpannegam
 “hAge doDDa Olagavannu koTTiddA ga'
-(20ga) allade untu taleyurcugumE raNaranga bhUmiyoL‌
+(೨೦ga) allade untu taleyurcugumE raNaranga bhUmiyoL‌
 “alla(diddare) hAge/hIge raNarangadalli taletappisikoLLutti nE'
 
-4.10
+೪.೧೦
 
 ivugaLalli modalina eraDu rItiyavu mAtra hosagannaDadalli uLidukonDive.
 hAgAgi, ukAradalli suruvAguva mUranE rItiya sarvapadagaLannu hosagannaDadalli
-anuvAdisuvudu kaSTa (20ga nODi).
+anuvAdisuvudu kaShTa (೨೦ga nODi).
 
 samskxtadalli nirdESaka padagaLu sUcisuva vyatyAsa idakkinta bhinnavAgide. avu
-modalige (ka) ADugana hattira (ESaH "ivanu', ESA "ivaLu', Etat‌ "idu' ityAdi),
+modalige (ka) ADugana hattira (EShaH "ivanu', EShA "ivaLu', Etat‌ "idu' ityAdi),
 mattu (kha) ADuganinda dUra (asav "avanu, avaLu', adaH "adu' ityAdi) emba
 vyatyAsadondige (ka) edurige iruvavaru (ayam "ivanu', iyam "ivaLu', idam
 "idu' ityAdi), mattu (kha) edurige illadavaru (saH "avanu', sA "avaLu', tat‌
@@ -3087,7 +3088,7 @@ anantarada samskxtadalli eraDaneya (ka-kha) vyatyAsa illa vAgide.
 
 <a id="sec-4-5-5"></a>
 
-### 4.5.5 sarvapadagaLalli padavargagaLu
+### ೪.೫.೫ sarvapadagaLalli padavargagaLu
 
 
 samskxtada sarvapadagaLannella ondE padavargadalli (nAmapadavargadalli) sErisi
@@ -3098,29 +3099,29 @@ sEruttave.
 
 guNapadavargadallU nAmapadadondige baruvavu mattu kriyApadadondige
 baruvavu embudAgi eraDu upavargagaLannu mADalu sAdhyaviddu, averaDakkU
-sEraballa sarvapadagaLu haLegannaDadallive embudannu mEle (4.5)ralli koTTiruva
-kOSTakadalli nODabahudu.
+sEraballa sarvapadagaLu haLegannaDadallive embudannu mEle (೪.೫)ralli koTTiruva
+kOShTakadalli nODabahudu.
 
 idallade, kriyApadavargakke sErabahudAda Evan‌, Evar‌, Evudu embantaha
 sarvapadagaLU haLegannaDadalli baLakeyallive. udAharaNegAgi, pampabhAratada keLagina
 vAkyagaLannu gamanisabahudu.
 
-(21ka) oDeyaradEvar‌ (4.6)
+(೨೧ka) oDeyaradEvar‌ (೪.೬)
 
 "oDeyarAda (pAnDavaru) Enu mADaballaru?'
-(21kha) I toDavu Evudo (3.46)
+(೨೧kha) I toDavu Evudo (೩.೪೬)
 
 "I AbharaNa Enu mADaballudO'
 
-(21ka)dalli Evar‌ embudu, mattu (21kha)dalli Evudu embudu kriyApadada
+(೨೧ka)dalli Evar‌ embudu, mattu (೨೧kha)dalli Evudu embudu kriyApadada
 jAgadalli bandiruvudannu kANabahudu.
 
 
 <a id="sec-4-6"></a>
 
-## 4.6 eravalAgi banda padagaLu
+## ೪.೬ eravalAgi banda padagaLu
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-4-6) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-4--parts-of-speech)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-4--parts-of-speech) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-4-6)
 
 
 kESirAjana vyAkaraNadalli haLegannaDada padagaLannu "dESya' (athavA "dESIya'),
@@ -3133,38 +3134,38 @@ padagaLannu "tadbhava' (illavE “apabhramSa') padagaLendu kareyalAgide.
 I eraDu rItiya (samasamskxta mattu tadbhava illavE apabhramSa padagaLu)
 haLegannaDakke samskxtadinda eravalAgi bandiruva padagaLu.
 
-udAharaNegAgi, haLegannaDadalli baLakeyAguva pracanDa, viSa, sampUrNa,
+udAharaNegAgi, haLegannaDadalli baLakeyAguva pracanDa, viSha, sampUrNa,
 
 manOratha, utpanna, indraprastha modalAda padagaLu samskxtadalli hEgiveyO hAgeyE
-haLegannaDadallU iveyAda kAraNa, samasamskxta padagaLu; dIvam («dIpa), saggam
+haLegannaDadallU iveyAda kAraNa, samasamskxta padagaLu; dIvam (<dIpa), saggam
 (Asvarga), accari (AAScarya), uggaDam (utkaTa) modalAdavugaLu kamsadalli
 koTTiruva samskxta padagaLiginta bhinnavAgiveyAdarU, A padagaLinda avannu sAdhisalu
 sAdhyavideyAda kAraNa, tada Dava (illavE apabhramSa) padagaLu.
 
-bErellA viSayagaLallU samskxta padagaLa hAgeyE iddu, koneya bhAgadalli
+bErellA viShayagaLallU samskxta padagaLa hAgeyE iddu, koneya bhAgadalli
 mAtra alpasvalpa vyatyAsagaLannu tOrisuva padagaLannu tadka ೈvagaLendu kareyade samasamskxta
-padagaLendE kareyalAguttade. udAharaNegAgi, sIte (AsItA), SAle («SAlA), janani
-(«jananI) modalAdavugaLu kamsadoLage koTTiruva samskxta padagaLinda svalpa maTTige
+padagaLendE kareyalAguttade. udAharaNegAgi, sIte (AsItA), SAle (<SAlA), janani
+(<jananI) modalAdavugaLu kamsadoLage koTTiruva samskxta padagaLinda svalpa maTTige
 mAtra bhinnavAgive; hAgAgi, avannu samasamskxta padagaLendE parigaNisalAgide.
 
-"tatsama' emba padavannu kESirAjanu ondu viSiSTavAda arthadalli baLasiddAne.
+"tatsama' emba padavannu kESirAjanu ondu viSiShTavAda arthadalli baLasiddAne.
 samskxtadavU mattu kannaDadavU Agiruva maNi, mancam, paTTam, tOraNam modalAda
-21 padagaLannu Atanu I gumpinalli irisiddAne (sU. 312-3). ivu samskxta
+೨೧ padagaLannu Atanu I gumpinalli irisiddAne (sU. ೩೧೨-೩). ivu samskxta
 padagaLondige mAtravallade dESya padagaLondigU samAsagaLalli baraballuvu (Adare
 samasamskxta (mattu tada Dava) padagaLu A rIti dESya padagaLondige samAsadalli
 baralAravu) embudE avannu tatsamagaLemba bEreyE ondu gumpinalli irisi
 hELalu kAraNa.
 
-venkaTAcala SAstri gaLu (1994:138) sUcisiruva hAge, I tatsama padagaLalli
-kelavAdarU drAviDa bhASegaLinda samskxtakke eravalAgi hOgiruva "dESya padagaLAgiralu
-sAdhyavide. udAharaNegAgi, kESirAjana 21 tatsama padagaLa paTTiyalli bandiruva
+venkaTAcala SAstri gaLu (೧೯೯೪:೧೩೮) sUcisiruva hAge, I tatsama padagaLalli
+kelavAdarU drAviDa bhAShegaLinda samskxtakke eravalAgi hOgiruva "dESya padagaLAgiralu
+sAdhyavide. udAharaNegAgi, kESirAjana ೨೧ tatsama padagaLa paTTiyalli bandiruva
 ankam, aTTam, kOnTe, ganDam, gONi, mallam modalAda kelavu padagaLige drAviDa
 mUlavannu sAdhisalAgide (anukramavAgi emenO mattu barO avara drAviDa
-jYAti padakOSada (emenO mattu barO 1961) 29, 93, 2207, 1173,
-anubandha 33 mattu 4730nE sankhyeya padagaLannu gamanisabahudu).
+jYAti padakOSada (emenO mattu barO ೧೯೬೧) ೨೯, ೯೩, ೨೨೦೭, ೧೧೭೩,
+anubandha ೩೩ mattu ೪೭೩೦nE sankhyeya padagaLannu gamanisabahudu).
 
 I padagaLige inDO-Aryan‌ illavE inDO-yurOpiyan‌ mUlavannu
-kanDuhiDiyalu sAdhyavAgillavAda kAraNa, avu samska ntekke drAviDa bhASegaLinda eravalAgi
+kanDuhiDiyalu sAdhyavAgillavAda kAraNa, avu samska ntekke drAviDa bhAShegaLinda eravalAgi
 hOgiruva padagaLendu parigaNisabahudu.
 
 mEle vivarisida mUru gumpugaLallU sEradiruva padagaLannu dESya padagaLendu
@@ -3176,42 +3177,42 @@ emba padada arthadallE baLasiddAre. (idannu anusarisi, I pustakada mundina
 vibhAgagaLalli tatsama padavannu I arthadallE (endare kESirAjana samasamskxta padada
 arthadallE) baLasalAguttade).
 
-hAru ,ುೈta 855. i i71
+hAru ,ುೈta 855. i i7೧
 
 
 <a id="sec-4-6-1"></a>
 
-### 4.6.1 vingaDaNeya svarUpa
+### ೪.೬.೧ vingaDaNeya svarUpa
 
 
 haLegannaDa vyA karaNagaLalli tatsama (samasamskxta) padagaLu mattu tadbhava (apabhramSa)
 padagaLu embudAgi samskxtadinda eravalAgi bandiruva padagaLannu vingaDisiruvudu
-prAkxta, pAli modalAda bhASegaLa vyAkaraNagaLalli mADiruva antahadE hesarina
+prAkxta, pAli modalAda bhAShegaLa vyAkaraNagaLalli mADiruva antahadE hesarina
 padagaLa vibhajaneyannu haLegannaDa vyA karaNakke aLavaDisikoLLalu mADiruva prayatnavallade
 bErEnalla.
 
-pAli, prAkxta, ardhamAgadhi modalAda bhASegaLu samskxtada hAge inDO-
-Aryan‌ yaka sErida bhASegaLu. vEdagaLa kAladalli mAtina baLakeyallidda
-bhASeyondarinda I bhASegaLu beLedu bandive. A kAlada bhASeyannu ma barahakke mattu
-sAhitya racanege aLavaDisidAga, samskxtavemba "pariSkxta' pra prabhEda siddhavAyitu.
-hADina baLakeyallidda bhASe kAla kaLedante badalAguttA hOyitAdarU, SaH barahada
-bhASe jAsti badalAgade hAgeyE uLiyitu.
+pAli, prAkxta, ardhamAgadhi modalAda bhAShegaLu samskxtada hAge inDO-
+Aryan‌ yaka sErida bhAShegaLu. vEdagaLa kAladalli mAtina baLakeyallidda
+bhASheyondarinda I bhAShegaLu beLedu bandive. A kAlada bhASheyannu ma barahakke mattu
+sAhitya racanege aLavaDisidAga, samskxtavemba "pariShkxta' pra prabhEda siddhavAyitu.
+hADina baLakeyallidda bhAShe kAla kaLedante badalAguttA hOyitAdarU, ShaH barahada
+bhAShe jAsti badalAgade hAgeyE uLiyitu.
 
 anantarada kAladalli, buddha: na anuyAyigaLu mattu mahAvIrana anuyAyigaLu
 (jaynaru) avara upadESagaLannu baredirisuvudakkAgi sAmAnya janarige arthavAgada
-samskxtavemba sAhityika bhASeyannu baLasuva badalu, avara kAladalli sAmAnya janara
+samskxtavemba sAhityika bhASheyannu baLasuva badalu, avara kAladalli sAmAnya janara
 mAtinalli baLakeyallidda pAli mattu prAkxtagaLemba bEre prabhEdagaLannu baLasalu
 prArambhisidaru.
 
 vEdakAladinda buddha mattu mahAvIrara kAlada varege, mAtina baLakeyallidda
-I bhASeyalli naDeda (mattu samskxtadalli naDeyadidda) halavAru badalAvaNegaLa
+I bhASheyalli naDeda (mattu samskxtadalli naDeyadidda) halavAru badalAvaNegaLa
 pariNAmavannu I prabhEdagaLa padagaLalli kANabahudu. I badalAvaNegaLindAgi,
-avugaLa padagaLu samskxtada padagaLiginta bhinnavAgive. samskxta bhASe barahada bhASeyAgi
+avugaLa padagaLu samskxtada padagaLiginta bhinnavAgive. samskxta bhAShe barahada bhASheyAgi
 mAtra uLididdudE I rIti A kAlada mAtina prabhEdadalli naDeda badalAvaNegaLu
 samskxtada padagaLannu bAdhisadiruvudakke mukhya kAraNa.
 
-prAkxtavannu barahada bhASeyAgi baLasatoDagidAga, adara barahagAraru
-halaveDegaLalli “pAribhASika' padagaLa korateyannu anubhavisirabEku mattu antaha
+prAkxtavannu barahada bhASheyAgi baLasatoDagidAga, adara barahagAraru
+halaveDegaLalli “pAribhAShika' padagaLa korateyannu anubhavisirabEku mattu antaha
 sandarbhagaLallella nEravAgi samskxtadinda avaSyaviruva padagaLannu eravalAgi
 pes idarindAgi, prAkx tadalli eraDu rItiya padagaLu
 
@@ -3222,40 +3223,40 @@ padagaLu innondu rItiyavu (tatsamagaLu).
 
 idalla de badalAvaNegaLa mUlaka sa samskxta padagaLinda sAdhisalu sAdhyavAgadantaha
 bEreyU kelavu padagaLu prAkxtadallive. ivu ha... granthagaLalli kANisadiddarU
-inDO-Aryan‌ mUla bhASeyindalEnE bandiruva padagaLirabahudu, illavE
+inDO-Aryan‌ mUla bhASheyindalEnE bandiruva padagaLirabahudu, illavE
 
 padavargagaLu -3 A
 
-bEre bhASegaLinda eravalAgi bandiruva padagaLirabahudu. ivannu prAkxta vayyAkaraNi
+bEre bhAShegaLinda eravalAgi bandiruva padagaLirabahudu. ivannu prAkxta vayyAkaraNi
 gaLu "dESi' illavE “dESaja' padagaLendu karediddA re.
 
 
 <a id="sec-4-6-2"></a>
 
-### 4.6.2 vingaDaNeya avcitya
+### ೪.೬.೨ vingaDaNeya avcitya
 
 
-prAkxta vyAkaraNagaLalli A bhASeya padagaLannu samskxtadinda eravalAgi bandiruva
+prAkxta vyAkaraNagaLalli A bhASheya padagaLannu samskxtadinda eravalAgi bandiruva
 tatsama padagaLu mattu prAkxtaddE Ada tadbhava illavE apabhramSa padagaLu embudAgi
 vingaDisuvudaralli avcityavide. Adare samskxtakkinta tIra bhinnavAgiruva mUladrAviDa
-bhASeyondarinda beLedu bandiruva haLegannaDa bhASeya vyAkaraNadalli antahadE
+bhASheyondarinda beLedu bandiruva haLegannaDa bhASheya vyAkaraNadalli antahadE
 vingaDaNeyannu baLasuvudaralli yAva avcityavU illa.
 
-prAkxta bhASeyalli mukhyavAgi tatsama mattu tada va padagaLu embudAgi
+prAkxta bhASheyalli mukhyavAgi tatsama mattu tada va padagaLu embudAgi
 eraDu rItiya padagaLu mAtra kANisikoLLuttave (dESi padagaLu prAkxta vyAkaraNada
 maTTige tada ೈvagaLa hAgeyE baLakeyAguttave). ivugaLalli tada va padagaLu, mEle
-sUcisida hAge, mUla bhASeyinda AnuvamSikavAgi beLedu banda padagaLu; ivu
-kAladinda kAlakke A bhASeyalli naDeda badalAvaNegaLindAgi ivattina rUpavannu
+sUcisida hAge, mUla bhASheyinda AnuvamSikavAgi beLedu banda padagaLu; ivu
+kAladinda kAlakke A bhASheyalli naDeda badalAvaNegaLindAgi ivattina rUpavannu
 paDedive.
 
 haLegannaDadallU intaha padagaLiddu, avannu dESya padagaLendu kareyalAgide.
-ivannu haLegannaDa bhASe tanna mUla (drAviDa) bhASeyinda AnuvamSikavAgi paDedide.
-kAladinda kAlakke I bhASeyalli naDeda badalAvaNegaLa phalavAgi I padagaLu haLegannaDadalli
-kANisuva rUpavannu paDedive (vivaragaLige bhaT‌ 2007 nODi).
+ivannu haLegannaDa bhAShe tanna mUla (drAviDa) bhASheyinda AnuvamSikavAgi paDedide.
+kAladinda kAlakke I bhASheyalli naDeda badalAvaNegaLa phalavAgi I padagaLu haLegannaDadalli
+kANisuva rUpavannu paDedive (vivaragaLige bhaT‌ ೨೦೦೭ nODi).
 
-prAkxta bhASeyalli kANisuva tatsama (illavE samasamskxta) padagaLu samskxtadinda
-eravalAgi bandiruva padagaLu. A bhASeyalli naDeda badalAvaNegaLa avadhi mugida
-mEle ivannu eravalAgi paDedu koLLalAgideyAda kAraNa, avu A bhASeya "tada 5
+prAkxta bhASheyalli kANisuva tatsama (illavE samasamskxta) padagaLu samskxtadinda
+eravalAgi bandiruva padagaLu. A bhASheyalli naDeda badalAvaNegaLa avadhi mugida
+mEle ivannu eravalAgi paDedu koLLalAgideyAda kAraNa, avu A bhASheya "tada ೫
 padagaLinda bhinnavAgive.
 
 haLegannaDadallU I rIti hindina prabhEdadinda eravalAgi paDeda (dESya)
@@ -3264,30 +3265,30 @@ badalAgide. sAy‌, sAl‌, siDil‌, suDu, sea‌ modalAda dESya padagaLalli I
 badalAvaNeya pariNAmavannu kANabahudu. Adare, AdicakAravannu uLisikonDiruva
 bEre kelavu padagaLU haLegannaDadalliddu (cikka, cinna, cenna, celvu ityAdi) mElina
 badalAvaNeya avadhi mugida mEle ondina prabhEdadinda (illavE I
-badalAvaNeyAgadiruva bErondu drAviDa bhASAprabhEdadinda) avu eravalAgi
+badalAvaNeyAgadiruva bErondu drAviDa bhAShAprabhEdadinda) avu eravalAgi
 bandirabEku.
 
-I vyatyAsavannu hosagannaDa padagaLalli innaSTu spaSTavAgi kANabahudu. kannaDada
+I vyatyAsavannu hosagannaDa padagaLalli innaShTu spaShTavAgi kANabahudu. kannaDada
 caritreyalli pakAra hakAravAguva badalAvaNe hadinAlku-hadinaydanE SatamAnada
-hottige sampUrNagonDirabEku (narasimhayya 1941 nODi). hosagannaDada hAlu
-(pAl‌), haNNu (paN‌), huli (<puli), hOgu («pO) modalAda padagaLalli
+hottige sampUrNagonDirabEku (narasimhayya ೧೯೪೧ nODi). hosagannaDada hAlu
+(pAl‌), haNNu (paN‌), huli (<puli), hOgu (<pO) modalAda padagaLalli
 I badalAvaNeya pariNAmavannu kANabahudu.
 
-I samayada anantara, kannaDa bhASe Adi pakAraviruva halavAru padagaLannu
+I samayada anantara, kannaDa bhAShe Adi pakAraviruva halavAru padagaLannu
 haLegannaDadinda eravalAgi paDediddu, antaha padagaLalli Adi pakAra badalAgade
-hAgeyE uLidide. hosagannaDada pacce, paDu (kaSTapaDu), pADu, puNugu, peTTu
+hAgeyE uLidide. hosagannaDada pacce, paDu (kaShTapaDu), pADu, puNugu, peTTu
 modalAda padagaLalli I rIti pakAra hakAravAgade uLidiruvudannu kANabahudu.
 
 nijakkU haLegannaDada (illavE hosagannaDada) dESya padagaLalli kANisuva I
 mElina vibhajaneyE prAkxtada tatsama-tadbhava vibhajanege samanAdudu. yAkendare,
 prAkxtadalli baLakeyalliruva tadka Dava padagaLu haLegannaDada dESya padagaLa hAge mUla
-bhASeyinda AnuvamSikavAgi beLedu bandavugaLu, mattu tatsama padagaLu adE mUla
-bhASeyinda (endare adara sAhityika rUpadinda) eravalAgi paDeda padagaLu.
+bhASheyinda AnuvamSikavAgi beLedu bandavugaLu, mattu tatsama padagaLu adE mUla
+bhASheyinda (endare adara sAhityika rUpadinda) eravalAgi paDeda padagaLu.
 
 
 <a id="sec-4-6-3"></a>
 
-### 4.6.3 samskxtada eravalugaLu
+### ೪.೬.೩ samskxtada eravalugaLu
 
 
 prAkxta vyAkaraNagaLalli kANisuvantaha tatsama mattu tada lava vibhajanegU mattu
@@ -3295,40 +3296,40 @@ haLegannaDa vyAkaraNadalli kANisuvantaha adE hesarina vibhajanegU naDuve mEle
 vivarisida hAge ondu mukhyavAda vyatyAsavide.
 
 prAkxtadalli tada Sava illavE apabhramSa emba gumpige sEruva padagaLella nijakkU
-A bhASeya dESya padagaLallade eravalAgi banda padagaLalla. avannu “dESIya'
+A bhASheya dESya padagaLallade eravalAgi banda padagaLalla. avannu “dESIya'
 padagaLinda bhinnavAduvendu parigaNisalu avakke samskxta mUlavideyembudu mAtravE
-kAraNa. samskxta mattu prAkxtagaLeraDU inDO-Aryan‌ bhASegaLAgiruvudarinda,
+kAraNa. samskxta mattu prAkxtagaLeraDU inDO-Aryan‌ bhAShegaLAgiruvudarinda,
 I rIti avannu ondu bEreyE gumpinalli irisi hELalu sAdhyavAgide.
 
-prAkxtada tatsama padagaLU inDO-Aryan‌ padagaLE; avannu adE bhASeya
+prAkxtada tatsama padagaLU inDO-Aryan‌ padagaLE; avannu adE bhASheya
 hindina kAlada prabhEdadinda (endare samskxtadinda) eravalAgi paDeyalAgide.
 
 Adare haLegannaDa vyAkaraNagaLu gurutisuva tatsama (samasamskxta) mattu tadka lava
 padagaLeraDU eravalAgi bandiruva padagaLE. mEle sUcisida hAge, ivu jAsti
-badalAgade eravalu koTTiruva samskxta bhASeya padagaLa hAgeyE iveyAdare
+badalAgade eravalu koTTiruva samskxta bhASheya padagaLa hAgeyE iveyAdare
 avannu tatsama padagaLendu mattu avugaLalli heccina badalAvaNegaLAgiveyAdare
 avannu tadka va padagaLendu kareyalAguttade. haLegannaDada dESya padagaLu iveraDakkintalU
 tIra bhinnavAgiruva haLegannaDadavE Ada padagaLu.
 
-prAkxtada tada Dava padagaLellavU ondE rItiyAgi A bhASeya caritreyalli naDeda
+prAkxtada tada Dava padagaLellavU ondE rItiyAgi A bhASheya caritreyalli naDeda
 badalAvaNegaLigoLagAgive. hAgAgi avannella ondu gumpinallirisi, samskxtadinda
 eravalAgi bandiruva tatsama padagaLinda bhinnavAduvendu parigaNisuvudu sulabha.
 
 Adare haLegannaDadalli baLakeyalliruva samskxtada eravalu padagaLu hAge ondE
 rItiyAgi badalAvaNegaLigoLagAgilla. avu bEre bEre pramANagaLalli badalAgiddu,
 badalAvaNegaLa bEre bEre hantagaLalli kANisikoLLuttave. nijakkU padagaLa koneya
-svaravannu badalAyisuvudu (SAlA>SAle, jananI» janani ityAdi) intaha hantagaLalli
+svaravannu badalAyisuvudu (SAlA>SAle, jananI>janani ityAdi) intaha hantagaLalli
 ondendu hELabahudu.
 
 idakke kAraNavEnendare, prAkxtada tadbhava padagaLalli naDeda badalAvaNegaLu
-padagaLa badalAvaNegaLalla, A bhASeya caritreyalli naDeda varNagaLa badalAvaNegaLu.
-varNagaLu I rIti badalAdAga A kAladalli bhASeyallidda padagaLellavU ondE
+padagaLa badalAvaNegaLalla, A bhASheya caritreyalli naDeda varNagaLa badalAvaNegaLu.
+varNagaLu I rIti badalAdAga A kAladalli bhASheyallidda padagaLellavU ondE
 bArige badalAguttave. hAgAgi, prAkxtada tada Dava padagaLannu intaha badalAvaNegaLella
 niyamitavAgi bAdhisiruvudannu kANabahudu.
 
 Adare, haLegannaDada tadbhava padagaLalli kANisuva badalAvaNegaLu varNagaLa
-badalAvaNegaLalla, padagaLa badalAvaNegaLu. ondu bhASe innondu bhASeyinda
-padagaLannu eravalAgi paDeyuvAga, avugaLa svarUpa A bhASeyalliruva padagaLa
+badalAvaNegaLalla, padagaLa badalAvaNegaLu. ondu bhAShe innondu bhASheyinda
+padagaLannu eravalAgi paDeyuvAga, avugaLa svarUpa A bhASheyalliruva padagaLa
 svarUpakke hondikoLLuvante bEre bEre rItiyalli badalAvaNegaLigoLagAguttade.
 I badalAvaNegaLannu padagaLannu eravalAgi paDeyuva vyaktigaLu bEre bEre sandarbhagaLalli
 naDesiruttAre.
@@ -3348,20 +3349,20 @@ ivannella pariSIlisidAga, nijakkU intaha eravalu padagaLannu tatsama mattu
 tada lava emba eraDu gumpugaLalli vingaDisuvudakkintalU keLage vivarisida hAge halavu
 gumpugaLalli vingaDisuvudE oLLeyadendu anisadiradu.
 
-(1) haLegannaDadalli baLakeyalliruva tada Dava padagaLalli dADe, bejja, baTTa, kamba
+(೧) haLegannaDadalli baLakeyalliruva tada Dava padagaLalli dADe, bejja, baTTa, kamba
 modalAda halavu padagaLannu nEravAgi samskxtadinda eravalAgi paDeyuva badalu,
 prAkxtadinda eravalAgi paDediruva hAge kANisuttade. ivannu nEravAgi samskxtada
-damSTrA, vaydya, vxtta, stambha modalAda padagaLinda sAdhisuvudakkintalU, prAkxtada
+damShTrA, vaydya, vxtta, stambha modalAda padagaLinda sAdhisuvudakkintalU, prAkxtada
 dADhA, vEjYa, vaTTa, khambha modalAda padagaLinda sAdhisuvudu sulabha (Ar‌.
-narasimhAcAr‌ 1969:165 nODi). hAgAgi, ivannu "prAkxta-tadya ೈva'vemba bEreyE
+narasimhAcAr‌ ೧೯೬೯:೧೬೫ nODi). hAgAgi, ivannu "prAkxta-tadya ೈva'vemba bEreyE
 ondu gumpinalli irisuva avaSyakateyide.
 
-(2) I rIti prAkxtada mUlaka haLegannaDakke baruva badalu, bEre bhASegaLa
+(೨) I rIti prAkxtada mUlaka haLegannaDakke baruva badalu, bEre bhAShegaLa
 mUlaka (pAli, tamiLu ityAdi) haLegannaDakke bandiruva samskxta padagaLU kelavive.
 ivannU nEravAgi samskxta padagaLinda sAdhisalu prayatnisidalli, ivugaLalli kANisuva
-vyatyAsagaLannu vivarisuva kelasa bahaLa kliSTavAguttade.
+vyatyAsagaLannu vivarisuva kelasa bahaLa kliShTavAguttade.
 
-udAharaNegAgi, Ar‌. narasimhAcAr‌ avaru (1969:168) sUcisiruvante,
+udAharaNegAgi, Ar‌. narasimhAcAr‌ avaru (೧೯೬೯:೧೬೮) sUcisiruvante,
 
 haLegannaDada arasa, arasi, noga, binnapa, kelasa modalAda kelavu padagaLannu nEravAgi
 rAja, rAjYI, yuga, vijYApya, kriyA modalAda samskxta padagaLinda sAdhisuva
@@ -3370,13 +3371,13 @@ sAdhisuvudu sulabha. I samskxta padagaLalli kANisuva badalAvaNegaLu tamiLu padag
 svarUpakke hondikoLLuvante naDediveyallade, haLegannaDa padagaLa svarUpakke
 hondikoLLuvante naDedilla.
 
-(3) idallade, haLegannaDada nepa, nEha, vakTANa, kajja modalAda padagaLu
+(೩) idallade, haLegannaDada nepa, nEha, vakTANa, kajja modalAda padagaLu
 samskxtada nibha, snEha, vyAkhyAna, kArya modalAda padagaLinda bhinnavAgiveyAdarU,
 prAkxtada nepa, nEha, vakbANa, kajja modalAda padagaLige samAnavAgiveyAda kAraNa,
 ivannu tadbhavagaLendu kareyuva badalu "samaprAkxta' illavE "“prAkxta-tatsama'
-padagaLendu kareyalu sAdhyavide (Ar‌. narasimhAcAr‌ 1969:166 nODi).
+padagaLendu kareyalu sAdhyavide (Ar‌. narasimhAcAr‌ ೧೯೬೯:೧೬೬ nODi).
 
-(4) mEle vivarisiruva hAge, haLegannaDada "tada ೈva' padagaLu prAkxtadalliruva
+(೪) mEle vivarisiruva hAge, haLegannaDada "tada ೈva' padagaLu prAkxtadalliruva
 tada va padagaLa hAge ondE rItiyavalla. avu badalAvaNeya halavu hantagaLannu
 tOrisuttave. hAgAgi, avannella ondE gumpinallirisuvudu sariyalla. udAharaNegAgi,
 keLage koTTiruva tada Dava padagaLannu gamanisabahudu.
@@ -3385,19 +3386,19 @@ samskxta tadbhava padagaLu
 tapasvi tapasi, tavasi
 dyUta jUdu, jUju
 amAvAskA amAse, avase
-ASADha AsaDi, asaDi
+AShADha AsaDi, asaDi
 aSOka aSOke, asuge
 AkAra Agara, Ara
 kumAra kuvara, kOra
 unmatta ummatta, ummata
 
 mEle koTTiruva tada va padagaLalli modalaneyadu badalAvaNeya ondu
-hantadallU » mattu eraDaneyadu adara anantarada bErondu hantadallU sidda vAgiruva
+hantadallU , mattu eraDaneyadu adara anantarada bErondu hantadallU sidda vAgiruva
 hAge kANisuttave. hAgAgi, avannu bEre bEre gumpugaLallirisuva avaSyakateyide.
-(5) koneya svaradalli mAtra badalANeyannu tOrisuva SAle («SAlA), bhASe
+(೫) koneya svaradalli mAtra badalANeyannu tOrisuva SAle (<SAlA), bhAShe
 
-(bhASA), yOgini («yOginI), vadhu («vadhU) modalAda padagaLannu tadbhavagaLendu
-kareyade tatsamagaLendu karediruvudara avcityavEnembudu spaSTavAgilla. (bahuSaH prAkxta
+(bhAShA), yOgini (<yOginI), vadhu (<vadhU) modalAda padagaLannu tadbhavagaLendu
+kareyade tatsamagaLendu karediruvudara avcityavEnembudu spaShTavAgilla. (bahuSaH prAkxta
 vyAkaraNadalli I baLakeya mUlavirabahudu). Adare, haLegannaDadalli itara
 tadbhavagaLendenisuva padagaLalli naDediruva badalAvaNegaLa hAge, I padagaLalli kANisuva
 badalAvaNegaLannU eravalAgi banda samskxtada padagaLannu haLegannaDa padagaLa svarUpakke
@@ -3405,12 +3406,12 @@ badalAvaNegaLannU eravalAgi banda samskxtada padagaLannu haLegannaDa padagaLa sv
 hondisikoLLuvudakkAgi naDesalAgideyAda kAraNa, avannu tada OvagaLinda bhinnavAda
 padagaLendu parigaNisalu yAva AdhAravU illa.
 
-udAharaNegAgi, kumba (A«kumbha), gADa («gADha), cinna (Achinna), jagana («jaghana),
-dUpa («€dhUpa), bOga («bhOga), Aramba (AArambha) modalAda padagaLalli
-kANisuva hAge mahAprANAkSaragaLu allaprANAkSaragaLAgiruvudu, ankusa (AankuSa),
-sankara («Sankara), pasu («paSu), nimisa (nimiSa), vEsa (AvESa) modalAdavugaLalli
-kANisuva hAge SakAra illavE SakAragaLu sakAra gaLAgiruvudu, mattu jantra («yantra),
-javanike («yavanike), jati (yati), jAtre (yAtre) modalAdavugaLalli kANisuva
+udAharaNegAgi, kumba (A<kumbha), gADa (<gADha), cinna (Achinna), jagana (<jaghana),
+dUpa (<€dhUpa), bOga (<bhOga), Aramba (AArambha) modalAda padagaLalli
+kANisuva hAge mahAprANAkSharagaLu allaprANAkSharagaLAgiruvudu, ankusa (AankuSa),
+sankara (<Sankara), pasu (<paSu), nimisa (nimiSha), vEsa (AvESha) modalAdavugaLalli
+kANisuva hAge SakAra illavE ShakAragaLu sakAra gaLAgiruvudu, mattu jantra (<yantra),
+javanike (<yavanike), jati (yati), jAtre (yAtre) modalAdavugaLalli kANisuva
 hAge Adi yakAra jakAravAgiruvudu heccu kaDime mElina padagaLa koneya sa saradalli
 kANisuva badalAvaNegaLa hAgeyE ide. illU padagaLa itara amSagaLella svalpavU
 badalAgade hAgeyE uLidiruvudannu kANabahudu.
@@ -3418,7 +3419,7 @@ badalAgade hAgeyE uLidiruvudannu kANabahudu.
 
 <a id="sec-4-6-4"></a>
 
-### 4.6.4 vibhajaneya mahatva
+### ೪.೬.೪ vibhajaneya mahatva
 
 
 haLegannaDa vyAkaraNada maTTige dESya padagaLigU tatsama hAgU tada lava padagaLigU
@@ -3437,23 +3438,23 @@ isu pratyayavannu sErisabEkAguttade (arcisu, ninnisu, pUjisu, bhAvisu, bancisu,
 baNNi su, sayrisu, pajjaLisu, ityAdi).
 
 Adare, prAkxtada vyAkaraNakke tatsama mattu tadbhava padagaLa naDuvina vibhajaneyE
-atyanta mahatvada vibhajane. tadbhava mattu dESi padagaLa naDuvina vibhajanege A bhASeya
+atyanta mahatvada vibhajane. tadbhava mattu dESi padagaLa naDuvina vibhajanege A bhASheya
 vyAkaraNadalli heccina mahatvavilla. mEle sUcisida hAge, samskxta padagaLondige
 sambandhavannu tOrisalu sAdhyavAgadiruvantaha prAkxta padagaLannu dESi padagaLendu
-parigaNisalAgide; prAkxta vyAkaraNada maTTige ivu yAva viSayadallU tada Dava
+parigaNisalAgide; prAkxta vyAkaraNada maTTige ivu yAva viShayadallU tada Dava
 padagaLiginta bhinnavAgilla.
 
-haLegannaDa mattu prAkxta bhASegaLa naDuve I rIti tatsama-tadbhava bhEdavannu
+haLegannaDa mattu prAkxta bhAShegaLa naDuve I rIti tatsama-tadbhava bhEdavannu
 baLasuvalli mUlabhUta vyatyAsagaLive. ivannu gamanisade, haLegannaDa vayyAkaraNigaLu
 prAkxta padagaLa vibhajaneyannu hAgeyE haLegannaDakke aLavaDisalu prayatnisidudarindAgi,
-A bhASeya nijavAda svarUpavannu vivarisuvalli avaru sOtiddAre.
+A bhASheya nijavAda svarUpavannu vivarisuvalli avaru sOtiddAre.
 
 
 <a id="sec-4-7"></a>
 
-## 4.7 sArAmSa
+## ೪.೭ sArAmSa
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-4-7) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-4--parts-of-speech)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-4--parts-of-speech) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-4-7)
 
 
 haLegannaDadalli nAmapada, kriyApada, mattu guNapadagaLembudAgi mUru mukhya
@@ -3461,11 +3462,11 @@ padavargagaLalli baraballa padagaLive. Adare, samskxtadalli nAmapada mattu kriyA
 eraDu mukhya padavargagaLalli baraballa padagaLu mAtra ive. haLegannaDada guNapadagaLige
 samAnavAgiruva padagaLu samskxtadalli nAmapadagaLiginta bhinnavAgilla.
 
-haLegannaDa mattu samskxta bhASegaLa naDuviruva I ati mukhyavAda vyatyAsavannu
+haLegannaDa mattu samskxta bhAShegaLa naDuviruva I ati mukhyavAda vyatyAsavannu
 haLegannaDada prAcIna vayyAkaraNigaLu tiLidiralillavAda kAraNa, avaru racisida
 vyAkaraNagaLalli halavAru rItiya samasyegaLu mattu gondalagaLu mUDibandive.
 
-sarvanAmagaLa svarUpa mattu baLakegaLallU I eraDu bhASegaLa naDuve halavu
+sarvanAmagaLa svarUpa mattu baLakegaLallU I eraDu bhAShegaLa naDuve halavu
 vyatyAsagaLiddu, ivannU I vayyAkaraNigaLu vivarisilla.
 
 samskxtadinda eravalAgi banda padagaLannu tatsama mattu tadbhava padagaLembudAgi
@@ -3475,11 +3476,11 @@ nijavAda svarUpavannu vivarisalu SaktarAgilla.
 
 <a id="ch5"></a>
 
-# adhyAya 5 — padagaLa oLaracane
+# adhyAya ೫ — padagaLa oLaracane
 
 [↑ oLapiDige hintirugi](#toc)
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#ch5) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-5--internal-structure-of-words)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-5--internal-structure-of-words) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#ch5)
 
 ---
 
@@ -3489,9 +3490,9 @@ padagaLa oLaracane
 
 <a id="sec-5-1"></a>
 
-## 5.1 pIThike
+## ೫.೧ pIThike
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-5-1) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-5--internal-structure-of-words)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-5--internal-structure-of-words) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-5-1)
 
 
 haLegannaDadalli baLakeyAguva padagaLa oLaracaneyentahadu embudannu tiLiyalu
@@ -3524,42 +3525,42 @@ padagaLu sErive. adare eLanIr‌ embudu eLa mattu nIr‌ emba eraDu padagaLinda
 tIra bhinnavAgiruva bErondu pada. hAgAgi, illi kANisuva padagaLa sErike eLanIr‌
 padada oLaracanege sambandhisidudu. idE rItiyalli beLcingaL‌, karbon‌, Alikal‌
 modalAdavugaLallU eraDeraDu padagaLu sEriddu, I sEruvikeya mUlaka
-averaDakkintalU bhinnavAda bEreyE padagaLa sxSTiyAgide.
+averaDakkintalU bhinnavAda bEreyE padagaLa sxShTiyAgide.
 
 Adare, eLavALe "eLE bALegiDa' embudaralli eLa mattu bALe(T‌) emba
 eraDu padagaLa sErikeyinda ondu padakante racita vAgideyallade, hosadondu pada
 racitavAgilla. posavU "hosa hUvu', pErAne "doDDa Ane', pervEnTe "doDDa
 bETe' modalAdavugaLallU, idE rItiyalli, eraDeraDu padagaLa sErikeyinda
-padakantegaLannu racisalAgideyallade, hosa padagaLa sxSTiyAgilla. illi kANisuva
+padakantegaLannu racisalAgideyallade, hosa padagaLa sxShTiyAgilla. illi kANisuva
 padagaLa sErike padagaLa baLakege sambandhisidudallade hosa padagaLa tayArikege illavE
-sxSTige sambandhisidudalla (hecci. na vivaragaLige bhaT‌ 2002 nODi).
+sxShTige sambandhisidudalla (hecci. na vivaragaLige bhaT‌ ೨೦೦೨ nODi).
 
 pada mattu padarUpagaLa naDuviruva vyatyAsa, hAgU pada mattu padakantegaLa
-naDuviruva vyatyAsa - iveraDU mAtina baLakeyalli uLidiruvantaha bhASAprabhEdagaLalli
-mAtra bahaLa spaSTavAgi kANisuttave. mAtina baLake tappihOgi bariya grAnthika
-baLakeyalli mAtravE uLidiruvantaha bhASAprabhEdagaLalli I eraDu rItiya
-vyatyAsagaLannu kANuvudu svalpa kaSTa.
+naDuviruva vyatyAsa - iveraDU mAtina baLakeyalli uLidiruvantaha bhAShAprabhEdagaLalli
+mAtra bahaLa spaShTavAgi kANisuttave. mAtina baLake tappihOgi bariya grAnthika
+baLakeyalli mAtravE uLidiruvantaha bhAShAprabhEdagaLalli I eraDu rItiya
+vyatyAsagaLannu kANuvudu svalpa kaShTa.
 
-idakke kAraNavEnendare, mAtina baLakeyalli uLidiruva bhASeya vyAkaraNa
+idakke kAraNavEnendare, mAtina baLakeyalli uLidiruva bhASheya vyAkaraNa
 janara mAtina mEle avalambisiruttade. doDDavaru baLasuva mAtannu kELuttA
-kELuttA cikkavaru mAtu kaliyuttAre. hIge kaliyuvAga, A bhASeya vyAkaraNa avara
-arivilladanteyE avara miduLinalli nelegoLLuttade. bhASeya ati sUkSmavAda
+kELuttA cikkavaru mAtu kaliyuttAre. hIge kaliyuvAga, A bhASheya vyAkaraNa avara
+arivilladanteyE avara miduLinalli nelegoLLuttade. bhASheya ati sUkShmavAda
 vyAkaraNa niyamagaLU I rIti arivige bArada rUpadalli avara svAdhInavAguttave.
 
-mAtina baLake tappihOgi, barE grAnthikavAgiruva bhASeyannu sAmAnyavAgi
-janaru tamma "eraDaneya' bhASeyAgi vidyAbhyAsada samayadalli kaliyuttAre, mattu
-intaha kaliyuvikeyalli A bhASeya mEle vidvAmsaru racisiruva vyAkaraNada pustakagaLu
+mAtina baLake tappihOgi, barE grAnthikavAgiruva bhASheyannu sAmAnyavAgi
+janaru tamma "eraDaneya' bhASheyAgi vidyAbhyAsada samayadalli kaliyuttAre, mattu
+intaha kaliyuvikeyalli A bhASheya mEle vidvAmsaru racisiruva vyAkaraNada pustakagaLu
 mahatvada pAtravannu vahisabEkAguttade. vyAkaraNa pustakagaLalliruva niyamagaLannu
 avaru modalige arivige eTakuva rUpadalli kalitu, anantara avannu arivige eTakada
 rUpakke parivartisikoLLabEkAguttade.
 
 intaha arivige eTakuva vyAkaraNagaLalli (vyAkaraNa pustakagaLalli) mEle
-vivarisidantaha bhASeya sUkSmavAda vyatyAsagaLannu niyamagaLa mUlaka varNisalu
+vivarisidantaha bhASheya sUkShmavAda vyatyAsagaLannu niyamagaLa mUlaka varNisalu
 sAdhyavAgiruvudilla. hAgAgi, vidyArthigaLige avannu kaliyalU sAdhyavAguvudilla.
-idarindAgi, mAtina baLake tappihOgiruva bhASegaLalli intaha sUkSmavAda vyatyAsagaLu
+idarindAgi, mAtina baLake tappihOgiruva bhAShegaLalli intaha sUkShmavAda vyatyAsagaLu
 kramENa illavAguttave.
 
-pANiniya kAlada anantara samskxta bhASe viddA _0sara baLakeyalli mAtra uLidu,
+pANiniya kAlada anantara samskxta bhAShe viddA _೦sara baLakeyalli mAtra uLidu,
 sAmAnya janara mAtina baLakeyinda dUravAgiruva hAge kANisuttade. aSOkanE
 modalAdavaru sAmAnya janarigAgi racisida tamma SAsanagaLalli samskxtada badalu
 pAli, prAkxta modalAduvannu baLasalu idE kAraNavirabEku.
@@ -3567,54 +3568,54 @@ pAli, prAkxta modalAduvannu baLasalu idE kAraNavirabEku.
 I rIti mAtina baLake tappiruva kAraNa, samskxta padagaLa oLaracaneyalli pada
 mattu padarUpagaLa naDuviruva vyatyAsa, hAgU pada mattu padakantegaLa naDuviruva
 vyatyAsa iveraDU kramENa mAyavAguttA bandive. pANiniginta hindina vEdakAlada
-samskxtadalli I vyatyAsagaLeraDU spaSTavAgi kANisuttave.
+samskxtadalli I vyatyAsagaLeraDU spaShTavAgi kANisuttave.
 
 haLegannaDadallU pampanE modalAda prAcIna kavigaLa kAladalli mAtina baLake
 tappihOgiralilla. Adare, hanneraDu-hadimUranE SatamAnagaLa anantarada kAladalli
 haLegannaDa naDugannaDavAgi badalAgittu. hAgAgi, idakke munde haLegannaDavannu
-baLasidavarella adannu bariya grAnthika bhASeyAgiyE kalitu baLasuttiddirabEku.
+baLasidavarella adannu bariya grAnthika bhASheyAgiyE kalitu baLasuttiddirabEku.
 
 hAgAgi, haLegannaDadallU pampana kAladalli racitavAda granthagaLalli mElina
-vyatyAsagaLu spaSTavAgi kANisuttave, Adare avana anantara racitavAda granthagaLalli ivu
-aspaSTavAguttA hOguttave.
+vyatyAsagaLu spaShTavAgi kANisuttave, Adare avana anantara racitavAda granthagaLalli ivu
+aspaShTavAguttA hOguttave.
 
 padagaLa oLaracaneyannu pariSIlisuva I adhyAyadalli pada mattu pratyayagaLannu
-baLasi hosa padagaLannu tayArisuvudakkAgi bhASeyondaralli entaha vidhAnagaLella
+baLasi hosa padagaLannu tayArisuvudakkAgi bhASheyondaralli entaha vidhAnagaLella
 baLakeyallive (illavE baLakeyalli dduvu) embudannu pariSIlisabEkAgide, mattu
 idakkAgi, mEle sUcisida hAge, padagaLa oLaracaneyannu padarUpagaLa racaneyinda,
 mattu padakantegaLa racaneyinda pratyEkisikoLLuvudu atyavaSya.
 
-I eraDu viSayagaLallU haLegannaDa mattu samskxta bhASegaLa naDuve halavu
+I eraDu viShayagaLallU haLegannaDa mattu samskxta bhAShegaLa naDuve halavu
 mUlabhUtavAda vyatyAsagaLive. haLegannaDada vayyyAkaraNigaLu samskxta vyAkaraNavannE
 mAdariyAgi irisikonDudarindAgi, I vyatyAsagaLannu gamanisalu avarige
 sAdhyavAgalilla. idarindAgi, avara vyAkaraNagaLalli halavu rItiya gondalagaLu
-kANisikonDive embudannu keLagina pariSIlane spaSTapaDisuttade.
+kANisikonDive embudannu keLagina pariSIlane spaShTapaDisuttade.
 
 
 <a id="sec-5-2"></a>
 
-## 5.2 pratyayagaLa baLake
+## ೫.೨ pratyayagaLa baLake
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-5-2) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-5--internal-structure-of-words)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-5--internal-structure-of-words) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-5-2)
 
 
-hosa padagaLannu tayArisuvudakkAgi I eraDu bhASegaLallU mukhyavAgi (1)
-padagaLige pratyayagaLannu sErisuvudu, mattu (2) eraDu (athavA heccu) padagaLannu
+hosa padagaLannu tayArisuvudakkAgi I eraDu bhAShegaLallU mukhyavAgi (೧)
+padagaLige pratyayagaLannu sErisuvudu, mattu (೨) eraDu (athavA heccu) padagaLannu
 oTTu sErisuvudu emba eraDu vidhAnagaLannu baLasalAguttade. ivugaLalli modalaneya
-vidhAnavannu I (5.2)nE vibhAgadalli, mattu eraDaneya vidhAnavannu mundina
-(5.3)nE vibhAgadalli pariSIlisalAguttade.
+vidhAnavannu I (೫.೨)nE vibhAgadalli, mattu eraDaneya vidhAnavannu mundina
+(೫.೩)nE vibhAgadalli pariSIlisalAguttade.
 
 pratyayagaLannu baLasuvudara mUlaka hosa padagaLannu tayArisuvalli haLegannaDa
 mattu samskxtagaLa naDuve halavu vyatyAsagaLive.
 
-(1) pratyayagaLannu sErisi tayArisida samskxta padagaLalli heccinavakkU mUladalli
+(೧) pratyayagaLannu sErisi tayArisida samskxta padagaLalli heccinavakkU mUladalli
 kriyAdhAtugaLive. kelavu vayyAkaraNigaLa abhiprAyadante, samskxtada ellA padagaLallU
 I rIti mUladalli kriyAdhAtugaLiveyendu sAdhisi tOrisalu sAdhyavide. I
 kAraNakkAgi, samskxta vyAkaraNadalli dhAtu padavannu "kriyAdhAtu' emba arthadalli
 baLasalu sAdhyavAgide.
 
 haLegannaDadallU halavu nAmapada mattu guNapadagaLannu kriyApadagaLinda
-sAdhisalAgideyEnO nija. Adare, A rIti sAdhisiradantaha sAkaSTu nAmapada mattu
+sAdhisalAgideyEnO nija. Adare, A rIti sAdhisiradantaha sAkaShTu nAmapada mattu
 
 ha
 
@@ -3633,7 +3634,7 @@ hELabEkAguttade, mattu posa, paTa, kem‌, mel‌, eLa modalAda halavAru
 guNapadagaLa mUladalli guNadhAtugaLiveyendu hELabEkAguttade. I eraDu rItiya
 padagaLannU kriyAdhAtugaLinda sAdhisalu sAdhyavAgadu.
 
-(2) samskxtadalli ellA nAmapadagaLannU kriyAdhAtugaLinda racisalAgideyAda
+(೨) samskxtadalli ellA nAmapadagaLannU kriyAdhAtugaLinda racisalAgideyAda
 kAraNa, adaralli pratyayagaLa baLakeyinda tayArAgiruva nAmapadagaLannu kriyApadagaLige
 ondu pratyayavannu sErisi tayArisida “kxdanta'gaLendu, mattu antaha kxdantagaLige
 ondu athavA jAsti pratyayagaLannu sErisi tayArisida “tadditAnta'gaLendu vingaDisi
@@ -3660,9 +3661,9 @@ taN‌-taNNu) tayArisiralu sAdhyavide.
 
 idallade, Antarika racaneyiruva haLegannaDada padagaLalli ondakkinta heccu
 pratyayagaLu bandiruvudu bahaLa aparUpa. hAgAgi, haLegannaDada padaracaneyannu
-varNisuvalli samskxtada kxdanta-tadditAnta vibhajane anukUlavalla (6.1.2 nODi).
+varNisuvalli samskxtada kxdanta-tadditAnta vibhajane anukUlavalla (೬.೧.೨ nODi).
 
-(3) samskxtadalli padagaLannu racisuvudakkAgi baLakeyAguva pratyayagaLannu
+(೩) samskxtadalli padagaLannu racisuvudakkAgi baLakeyAguva pratyayagaLannu
 padagaLa modalU sErisabahudu (a-nyAya, nir‌-daye, vi-jYAna), anantaravU
 
 sErisabahudu (kAv‌-ya, cOr‌-a, bAla-ki); Adare, haLegannaDadalli intaha
@@ -3671,7 +3672,7 @@ pratyayagaLannu padagaLa anantara mAtra sErisalu sAdhya.
 
 <a id="sec-5-2-1"></a>
 
-### 5.2.1 padagaLu mattu padarUpagaLu
+### ೫.೨.೧ padagaLu mattu padarUpagaLu
 
 
 mEle sUcisida hAge, samskxta vyAkaraNagaLalli pratyayagaLa mUlaka racitavAgiruva
@@ -3688,15 +3689,15 @@ asAdhya.
 
 kESirAjana Sabda maNidarpaNadalli kriyApadagaLige da mattu pa (va) pratyayagaLannu
 sErisi racisida nalida, koTTa, bEDuva, mAlba modalAda padagaLannu kxt‌(linga)gaLendu
-(sU. 83), mattu ge, ke, me, pi modalAduvannu sErisi racisida uDuge, teraLke, olme,
-nOmpi, unnatike modalAda padagaLannu taddhi ta(linga)gaLendu (sU. 222) varNisalAgide.
+(sU. ೮೩), mattu ge, ke, me, pi modalAduvannu sErisi racisida uDuge, teraLke, olme,
+nOmpi, unnatike modalAda padagaLannu taddhi ta(linga)gaLendu (sU. ೨೨೨) varNisalAgide.
 
 idallade, ika, ica, ka, ga, iti modalAda bEre halavu pratyayagaLannu
 nAmapada, kriyApada, illavE guNapadagaLige sErisi racisida tOnTiga, alarica,
 oNaka, kannaDigiti, maave, pogaTakke modalAda padagaLannU taddhi ta(linga)gaLemba I
-eraDaneya vargadalli (sU. 208-26) sErisi hELalAgide.
+eraDaneya vargadalli (sU. ೨೦೮-೨೬) sErisi hELalAgide.
 
-illi ondu viSayavannu gamanisuvudu avaSya. haLegannaDada ellA
+illi ondu viShayavannu gamanisuvudu avaSya. haLegannaDada ellA
 kriyApadagaLindalU mADida, mADuva (mAbalpa) mattu mADada embantaha rUpagaLannu
 sAdhisalu sAdhyavide, mattu I rIti sAdhisida kriyArUpagaLa arthavannU nEravAgi
 A kriyApadagaLa arthadindalEnE paDeyalu sAdhyavide. hAgAgi, ivu kriyApadagaLa
@@ -3704,15 +3705,15 @@ A kriyApadagaLa arthadindalEnE paDeyalu sAdhyavide. hAgAgi, ivu kriyApadagaLa
 
 ke, pi, me modalAda taddhita pratyayagaLannu kriyApadagaLige sErisi teraLLe,
 nOmpi modalAdavugaLa hAgiruva kelavE kelavu nAmapadagaLannu mAtra sAdhisalu
-sAdhyavide. ivu bhASeyalli rUDhige bandiruva padagaLu. bEre kriyApadagaLige I
-pra tyayagaLannu sErisi hosa padagaLannu tayArisalu sAdhyavideyAdarU, avu bhASeyalli
-rUDhige banda mElEnE A bhASeya padagaLAgaballuvu. mADida, mADuva, koTTa
+sAdhyavide. ivu bhASheyalli rUDhige bandiruva padagaLu. bEre kriyApadagaLige I
+pra tyayagaLannu sErisi hosa padagaLannu tayArisalu sAdhyavideyAdarU, avu bhASheyalli
+rUDhige banda mElEnE A bhASheya padagaLAgaballuvu. mADida, mADuva, koTTa
 modalAdavugaLa hAgiruva padarUpagaLannu sAdhisuvalli kANisuva svAtrantrya teraLLe,
 nOmpi modalAdavugaLa hAgiruva padagaLannu sAdhisuvalli kANisuvudilla.
 
 idallade, ke, pi, me modalAda taddita pratyayagaLinda siddavAda padagaLa
 
-arthadallU sAkaSTu vayvidhyaviddu, adannu nEravAgi mUla padada arthadinda
+arthadallU sAkaShTu vayvidhyaviddu, adannu nEravAgi mUla padada arthadinda
 paDeyalu sAdhyavAgadu. udAharaNegAgi, aNu, ir‌, kAN‌, pUN‌, bEy‌ modalAda
 kriyApadagaLige ke pratyayavannu sErisi tayArisida ajuke "prasiddi', irke "mane', kANke
 "uDugare', pUNye "vAgdAna' benke "benki' modalAda padagaLalli A kriyApadagaLiginta
@@ -3728,16 +3729,16 @@ yAta, tudamAna modalAdavugaLigU kxtya, karaNa, kxti, karman‌, kAraka modalAda
 bEre halavAru rItiya padagaLigU naDuve haLegannaDadalli kANisuvantaha vyatyAsavilla.
 I eraDu rItiyavannU ellA rItiya kriyApadagaLindalU racisalu sAdhyavide.
 
-kESirAjanu mADiruva kxlli 0ga-taddi talinga vibhajanege haLegannaDadallidda padarUpa
+kESirAjanu mADiruva kxlli ೦ga-taddi talinga vibhajanege haLegannaDadallidda padarUpa
 mattu padagaLa naDuvina vyatyAsa mUlavAgiralu sAdhyavide. teraLke, nOpi modalAda
 bhAvanAmagaLannu Atanu taddi ta prakaraNadalli sErisi hELalu avu padarUpagaLalladiruvudE
 kAraNavirabahudu. avana kAladalli haLegannaDa illavE adannE bahaLa maTTige hOluva
 kannaDada prabhEdavondu mAtina baLakeyalliddirabahudAgiddu, adaralli pada mattu
-padarUpagaLa naDuvina I vyatyAsa spaSTavAgiyE uLididdu, adu Atanannu I rIti
+padarUpagaLa naDuvina I vyatyAsa spaShTavAgiyE uLididdu, adu Atanannu I rIti
 vibhajisalu prErEpisirabahudu.
 
 Adare, anantarada vayyAkaraNigaLu idannu gamanisida hAgilla. udAharaNegAgi,
-kannaDa kaypiDiyalli (1971:16-19) kriyApadagaLige pratyayagaLannu sErisi racisida
+kannaDa kaypiDiyalli (೧೯೭೧:೧೬-೧೯) kriyApadagaLige pratyayagaLannu sErisi racisida
 olavu, kANke, uDuge, negaLle modalAduvannu (mattu nuDida, nuDiva
 modalAdavugaLannu) kxdantagaLendu, mattu nAmapadagaLige (mattu guNapadagaLige)
 pratyayagaLannu sErisi racisida pUvaDiga, biLika, mAtuga, paDevaLa, maDivaLa
@@ -3745,7 +3746,7 @@ modalAdavugaLannu taddi tAntagaLendu parigaNisalAgide.
 
 kESirAjanu uDukam, maDike, ATam, olme modalAda bhAvanAmagaLannu taddi ta
 prakaraNadalli prastApisuva badalu AkhyAta prakaraNadalli prastApisiddare heccu
-txptikaravenisutti dditu embudAgi venkaTAcala SAstri gaLu hELiruvudu (1994:103)
+txptikaravenisutti dditu embudAgi venkaTAcala SAstri gaLu hELiruvudu (೧೯೯೪:೧೦೩)
 bahuSaH kxdanta padakke koTTidda I eraDaneya arthada prabhAvadindirabahudu.
 
 samskxtadalli heccu kaDime ellA nAmapadagaLigU mUladalli
@@ -3760,12 +3761,12 @@ I vibhajane kaDegaNisuttade. hAgAgi, haLegannaDada maTTige idu txptikaravAda vib
 
 <a id="sec-5-2-2"></a>
 
-### 5.2.2 padavargagaLalli vayvidhya
+### ೫.೨.೨ padavargagaLalli vayvidhya
 
 
 pratyayagaLannu baLasi racisida samskxtada nAmapadagaLalli heccu kaDime ellavannU
 kriyAdhAtugaLindalEnE sAdhisalu sAdhyavide. hAgAgi, mEle sUcisidantaha kxdanta-
-taddi tAnta vibhajane samskxta bhASege ucitavAgide. kriyAdhAtuvige ondu pratyayavannu
+taddi tAnta vibhajane samskxta bhAShege ucitavAgide. kriyAdhAtuvige ondu pratyayavannu
 sErisi racisida padagaLellavU nAmapadagaLu (kxdantagaLu), mattu ondakkinta jAsti
 pratyayagaLannu sErisi racisida padagaLellavU antaha nAmapadagaLinda racitavAdavugaLu
 (taddi tAntagaLu) embudAgi adara padagaLannu vibhajisalu sAdhyavide.
@@ -3777,7 +3778,7 @@ baruvudilla. adakkintalU I padagaLalli baLakeyAgiruva dhAtugaLa (illavE padagaLa
 vargavannu AdhAravAgirisikonDalli haLegannaDakkondu uttamavAda padagaLa vibhajane
 siddavAguttade.
 
-(1) kriyApadagaLinda tayArAda nAmapadagaLu: haLegannaDada kriyApadagaLige
+(೧) kriyApadagaLinda tayArAda nAmapadagaLu: haLegannaDada kriyApadagaLige
 pratyayagaLannu sErisuvudara mUlaka halavu rItiya nAmapadagaLannu sidda paDisalAgide.
 udAharaNegAgi, aTakke, uNe, pogaTakke pOlke modalAda nAmapadagaLannu aT‌
 "aLu', uN‌, pogaL‌, pOl‌ modalAda kriyApadagaLige ke pratyayavannu sErisuvudara
@@ -3788,7 +3789,7 @@ sErisuvudara mUlaka tayArisalAgide.
 idallade, Odu, taDe, sorku modalAda bEre kelavu kriyApadagaLu yAva
 pratyayavannU sErisade hAgeyE haLegannaDadalli nAmapadagaLAgi baLakeyAgaballuvu.
 
-(2) nAmapadagaLinda tayArAda nAmapadagaLu: nAmapadagaLige pratyayagaLannu
+(೨) nAmapadagaLinda tayArAda nAmapadagaLu: nAmapadagaLige pratyayagaLannu
 sErisuvudara mUlakavU avakkinta bhinnavAda halavu rItiya nAmapadagaLannu
 siddha paDisalAgide. udAharaNegAgi, tOnTiga, okkaliga, cippiga, gANiga modalAda
 nAmapadagaLannu tOnTa, okkal‌, cippi, gANa modalAda nAmapadagaLige iga pratyayavannu
@@ -3796,7 +3797,7 @@ sErisi tayArisalAgide, mattu intaha sAdhita nAmapadagaLigEnE iti pratyayavannu
 sErisi tOnTigiti, okkaligiti, cippigiti, gANigiti modalAda nAmapadagaLannu
 tayArisalAgide.
 
-(3) guNapadagaLinda tayArAda nAmapadagaLu: guNapadagaLige pratyayagaLannu
+(೩) guNapadagaLinda tayArAda nAmapadagaLu: guNapadagaLige pratyayagaLannu
 sErisuvudara mUlakavU haLegannaDadalli halavu rItiya nAmapadagaLannu sidda paDisalAgide.
 udAharaNegAgi, impu, karpu, kempu, teLbu modalAda nAmapadagaLannu in‌, kar‌,
 
@@ -3807,7 +3808,7 @@ me pratyayavannu sErisi tayArisalAgide.
 
 <a id="sec-5-2-3"></a>
 
-### 5.2.3 nAmapadagaLu mattu nAmarUpagaLu
+### ೫.೨.೩ nAmapadagaLu mattu nAmarUpagaLu
 
 
 I rIti nAmapada, kriyApada, illavE guNapadagaLige pratyayagaLannu sErisi
@@ -3840,24 +3841,24 @@ pratyayagaLannu sErisuvudara mUlaka, avannu nAmapadagaLa jAgadalli (endare
 vibhaktipratyayagaLondige) baLasalu sAdhyavide. udAharaNegAgi, pampabhAratada keLagina
 baLakegaLannu gamanisabahudu.
 
-(1ka) Itam birdinan‌ (4.44)
+(೧ka) Itam birdinan‌ (೪.೪೪)
 "ivanu atithi (Atithyadavanu)'
 
-(1kha) mijuguva cembonna rathadan‌ aSvatthAmam (10.57)
+(೧kha) mijuguva cembonna rathadan‌ aSvatthAmam (೧೦.೫೭)
 "hoLeyuva cinnada rathadavanu aSvatthA ma'
 
 padagaLa oLaracane ge
 
-(1ka)dalli birdu "atithi' nAmapadada birdina emba sambandhisuva rUpakke an‌
-pratyayavannu sErisi birdinan‌ nAmarUpavannu tayArisalAgide, mattu (1kha)dalli
+(೧ka)dalli birdu "atithi' nAmapadada birdina emba sambandhisuva rUpakke an‌
+pratyayavannu sErisi birdinan‌ nAmarUpavannu tayArisalAgide, mattu (೧kha)dalli
 rathada emba innondu nAmapadada sambandhisuva rUpakke an‌ pratyayavannu sErisi
 rathadan‌ nAmarUpavannu tayArisalAgide.
 
 haLegannaDada vayyAkaraNigaLu intaha padarUpagaLannu mUla padagaLondige
-sambandhisuvalli bhASeya vaySiSTyavannu gamanisalu SaktarAgilla. udAharaNegAgi,
+sambandhisuvalli bhASheya vaySiShTyavannu gamanisalu SaktarAgilla. udAharaNegAgi,
 kESirAjanu karidu, biLidu, paTadu, bisidu modalAdavugaLannu guNavacanagaLendu
-karediddAne (sU. 87), mattu ivugaLa koneya duvige pullingadalli akAravU (sU.
-163), stra "lingadalli aL‌ embudU (sU. 164) AdESavAgi baruvudendu hELiddA ne.
+karediddAne (sU. ೮೭), mattu ivugaLa koneya duvige pullingadalli akAravU (sU.
+೧೬೩), stra "lingadalli aL‌ embudU (sU. ೧೬೪) AdESavAgi baruvudendu hELiddA ne.
 
 Adare nijakkU illi kari, biLi, paTa, bisi modalAdavu guNavacanagaLu
 (guNapadagaLu), mattu karidu, kariyan‌, kariyaL‌ modalAdavu kari padakke linga-
@@ -3866,18 +3867,18 @@ adakkinta bhinnavAda bEre padagaLalla.
 
 avaru I rIti karidu, biLidu modalAduvannu guNavacanagaLendu parigaNisalu
 samskxta vyAkaraNadalli hAge mADiruvudE kAraNa. Adare, samskxtadalli guNapadagaLu
-(guNavacanagaLu) haLegannaDada hAge nAmapadagaLiginta bhinnavAgilla (4.2 nODi).
+(guNavacanagaLu) haLegannaDada hAge nAmapadagaLiginta bhinnavAgilla (೪.೨ nODi).
 hecci. na guNapadagaLU mUru lingagaLalli baraballuvu embudondE ivugaLa baLakeyalli
-kANisuva vaySiSTya. Adare, guNavacanagaLallada halavu nAmapadagaLU I rIti mUru
-lingagaLalli baraballuvAda kAraNa, I viSayavannAdharisi samskxtada guNavacanagaLannu
-bEreyE ondu padavargadalli irisalu sAdhyavAguvudilla (7.2.3 nODi).
+kANisuva vaySiShTya. Adare, guNavacanagaLallada halavu nAmapadagaLU I rIti mUru
+lingagaLalli baraballuvAda kAraNa, I viShayavannAdharisi samskxtada guNavacanagaLannu
+bEreyE ondu padavargadalli irisalu sAdhyavAguvudilla (೭.೨.೩ nODi).
 
 
 <a id="sec-5-3"></a>
 
-## 5.3 samAsagaLu
+## ೫.೩ samAsagaLu
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-5-3) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-5--internal-structure-of-words)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-5--internal-structure-of-words) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-5-3)
 
 
 eraDu (athavA heccu) padagaLannu oTTu sErisi hosa padavondannu
@@ -3900,44 +3901,44 @@ sAdhyavAgadu.
 
 <a id="sec-5-3-1"></a>
 
-### 5.3.1 samskxtada samAsagaLu
+### ೫.೩.೧ samskxtada samAsagaLu
 
 
 samskxtada samastapadagaLannu avugaLa angagaLAgi baruva padagaLalli yAvudu
-"pradhAnavAdudu emba viSayada AdhArada mEle vibhajisalAguttade. eraDu angagaLiruva
-samastapadagaLalli (1) eraDaneyadu pradhAnavAdare tatpuruSa, (2) modalaneyadu
-pradhAnavAdare avyayIbhAva, (3) eraDU pradhAnavAdare dvandva mattu (4) eraDU
+"pradhAnavAdudu emba viShayada AdhArada mEle vibhajisalAguttade. eraDu angagaLiruva
+samastapadagaLalli (೧) eraDaneyadu pradhAnavAdare tatpuruSha, (೨) modalaneyadu
+pradhAnavAdare avyayIbhAva, (೩) eraDU pradhAnavAdare dvandva mattu (೪) eraDU
 pradhAnavAgillade, horagina padavondu pradhAnavAdare bahuvrIhi embudAgi samskxtada
 vayyAkaraNigaLu I samastapadagaLannu nAlku mukhya gumpugaLalli vingaDisiddA re.
 
-(1) tatpuruSa: rAjapuruSa emba padadalli rAja mattu puruSa emba eraDu
-nAmapadagaLu oTTu sErive. ivugaLalli puruSa embudE pradhAnavAdudu. yAkendare,
-I pada ondu rItiya puruSanannu (rAjanige sambandhisidavanannu) sUcisuttade.
-hAgAgi, rAjapuruSa embudu tatpuruSa samAsakke udAharaNeyAguttade.
+(೧) tatpuruSha: rAjapuruSha emba padadalli rAja mattu puruSha emba eraDu
+nAmapadagaLu oTTu sErive. ivugaLalli puruSha embudE pradhAnavAdudu. yAkendare,
+I pada ondu rItiya puruShanannu (rAjanige sambandhisidavanannu) sUcisuttade.
+hAgAgi, rAjapuruSha embudu tatpuruSha samAsakke udAharaNeyAguttade.
 
-tatpuruSa samAsadalli baLakeyAguva padagaLu ondE vibhakti pratkayada mUlaka
+tatpuruSha samAsadalli baLakeyAguva padagaLu ondE vibhakti pratkayada mUlaka
 sambandhisikonDiveyAdare, adannu "karmadhAraya'vemba bEre ondu hesarininda
 kareyalAguttade. udAharaNegAgi, nIlOtsala embudaralli nIla mattu utpala
 "kamala' emba eraDu padagaLU prathamA vibhaktiya mUlaka sambandhitavAgiveyAda
-kAraNa, adu karmadhArayakke udAharaNe. (rAjapuruSa embudaralli rAja pada SaSThI
-vibhaktiya mUlaka puruSa padadondige sambandhitavAgide.)
+kAraNa, adu karmadhArayakke udAharaNe. (rAjapuruSha embudaralli rAja pada ShaShThI
+vibhaktiya mUlaka puruSha padadondige sambandhitavAgide.)
 
-idallade, tatpuruSada angagaLalli modalaneyadu eNikeya padavAdare adakke
+idallade, tatpuruShada angagaLalli modalaneyadu eNikeya padavAdare adakke
 "dvigu' emba hesaride. tribhuvana embudu idakke udAharaNe. idaralli tri "mUru'
 embudu eNikeya pada.
 
-(2) avyayIbhAva: yathASakti embudaralli yathA mattu Sakti emba eraDu
+(೨) avyayIbhAva: yathASakti embudaralli yathA mattu Sakti emba eraDu
 padagaLu oTTu sErive. idakke Saktim anatikramya "Saktiyannu atikramisade' emba
 vigrahavAkyavannu koDalAguttade. I samasta padadalli pradhAna padavAda yathA embudu
 modalu bandide. idallade, I samAsadinda siddha vAguva pada ondu avyayavAgide.
 I kAraNagaLigAgi illi baLakeyAgiruva samAsavannu avyayIbhAva endu
 kareyalAguttade.
 
-(3) dvandva: sukhaduHkha embudaralli sukha mattu duHkha emba eraDu nAmapadagaLu
+(೩) dvandva: sukhaduHkha embudaralli sukha mattu duHkha emba eraDu nAmapadagaLu
 oTTu sErive. ivugaLalli eraDU pradhAnavE Agiruva kAraNa, illi baLakeyAgiruva
 samAsavannu dvandva endu kareyalAguttade.
 
-(4) bahuvrIhi: pItAmbara embudaralli pIta "haLadi' mattu ambara "baTTe'
+(೪) bahuvrIhi: pItAmbara embudaralli pIta "haLadi' mattu ambara "baTTe'
 emba eraDu padagaLu oTTu sErive. Adare, I pada ondu rItiya (haLadi)
 baNNavannAgali illavE ondu rItiya baTTeyannAgali sUcisuva badalu, antaha
 baTTeyannuTTiruva obba vyaktiyannu sUcisutta de; endare, idaralli bandiruva padagaLalli
@@ -3949,7 +3950,7 @@ samAsavannu bahuvrIhi embudAgi kareyalAguttade.
 
 <a id="sec-5-3-2"></a>
 
-### 5.3.2 haLegannaDada samAsagaLu
+### ೫.೩.೨ haLegannaDada samAsagaLu
 
 
 haLegannaDada samastapadagaLannu vibhajisalu samskxtadalli baLasidudakkinta tIra
@@ -3960,63 +3961,63 @@ padavargagaLige sErida padagaLannu baLasalAguttade.
 
 I samastapadagaLa modalaneya angavAgi ondu nAmapada barabahudu, guNapada
 barabahudu illavE kriyApada barabahudu; Adare, eraDaneya angavAgi ondu
-nAmapada mAtra baraballudu. I viSayada AdhArada mEle haLegannaDada samastapadagaLannu
+nAmapada mAtra baraballudu. I viShayada AdhArada mEle haLegannaDada samastapadagaLannu
 "nAmasamAsa', "guNasamAsa' mattu "kriyAsamAsa' embudAgi mUru mukhya
 gumpugaLalli vingaDisalu sAdhyavide.
 
 udAharaNegAgi, kaNNIr‌ embudaralli kaN‌ mattu nIr‌ emba eraDu
-nAmapadagaLu oTTu sErive. I pada kaNNininda hora sUsuva ondu viSiSTavAda
+nAmapadagaLu oTTu sErive. I pada kaNNininda hora sUsuva ondu viSiShTavAda
 dravavannu sUcisuttideyAda kAraNa, adu hesarallade varNaneyalla. hAgAgi, idannu
 samastapadavendu parigaNisabahudu. idE rItiyalli keydiDi “kannaDi', kATkarcu,
 nANNuDi, bisilludure modalAda samastapadagaLannU eraDu nAmapadagaLannu oTTu
 sErisi tayArisalAgide.
 
 beLLuLLi embudaralli beL‌ guNapadadondige uLLi nAmapada sEri ondu
-viSiSTavAda gaDDeyannu sUcisuva samastapada siddha vAgide. idE rItiyalli, karbon‌
+viSiShTavAda gaDDeyannu sUcisuva samastapada siddha vAgide. idE rItiyalli, karbon‌
 "kabbiNa', eLanIr‌, kirukuNike "kiruberaLu' modalAda samastapadagaLU guNapadakke
 nAmapadavannu sErisuvudara mUlaka tayArAgive.
 
 suDugADu embudaralli suDu kriyApadadondige kADu nAmapada sEri heNagaLannu
-suDuva ondu viSiSTavAda jAgavannu hesarisuva nAmapada siddha vAgide. idE rItiyalli,
+suDuva ondu viSiShTavAda jAgavannu hesarisuva nAmapada siddha vAgide. idE rItiyalli,
 biDuveN‌, aDugabbu "kaTTige', iDuvale modalAda samastapadagaLU kriyApadagaLige
 nAmapadagaLannu sErisuvudara mUlaka tayArAgive.
 
 
 <a id="sec-5-3-3"></a>
 
-### 5.3.3 samastapadagaLu mattu padakantegaLu
+### ೫.೩.೩ samastapadagaLu mattu padakantegaLu
 
 
 haLegannaDadalli baLakeyalliruva samAsagaLu samskxtada samAsagaLinda bEreyU
-kelavu viSayagaLalli bhinnavAgive. samskxtada ondu vaySiSTa $vEnendare, adaralli pada
-mattu padakantegaLa naDuvina vyatyAsa bahaLa maTTige naSTavAgiddu, samAsa embudakke
-eraDu (athavA heccu) padagaLu aDakavAgi sErikonDiruvudu endiSTE arthaviruva
+kelavu viShayagaLalli bhinnavAgive. samskxtada ondu vaySiShTa $vEnendare, adaralli pada
+mattu padakantegaLa naDuvina vyatyAsa bahaLa maTTige naShTavAgiddu, samAsa embudakke
+eraDu (athavA heccu) padagaLu aDakavAgi sErikonDiruvudu endiShTE arthaviruva
 
 hAge kANisuttade. eraDu padagaLu sEri hosadondu padavAgiruvudu emba arthadalli
 adara baLakeyiruva hAge kANisuvudilla.
 
-hIgAgiruvudakke samskxta bhASege mAtina baLake tappi hOgiruvudE kAraNavendu
-hELabahudu. sAmAnyavAgi mAtina baLakeyalliruva bhASeyalli eraDu padagaLannu
-sErisi hosa padavondannu racisidoDaneyE adu A bhASeya padavenisuvudilla.
-ondu viSiSTavAda arthadalli rUDhige banda nantaravaSTE adu A bhASeya
+hIgAgiruvudakke samskxta bhAShege mAtina baLake tappi hOgiruvudE kAraNavendu
+hELabahudu. sAmAnyavAgi mAtina baLakeyalliruva bhASheyalli eraDu padagaLannu
+sErisi hosa padavondannu racisidoDaneyE adu A bhASheya padavenisuvudilla.
+ondu viSiShTavAda arthadalli rUDhige banda nantaravaShTE adu A bhASheya
 padavenisaballudu.
 
 Adare, samskxtadalli paraspara hondikoLLuva arthaviruva yAva eraDu padagaLannu
 bEkiddarU samAsavemba vidhAnada mUlaka sErisi hELalu sAdhyavide. samskxtada
 kavigaLu mattu vidvAmsaru I svAtantryavannu elleDegaLalliyU baLasikonDiruvarAda
-kAraNa, A bhASeyalli pada mattu padakantegaLa naDuvina vyatyAsa aLiduhOgide.
+kAraNa, A bhASheyalli pada mattu padakantegaLa naDuvina vyatyAsa aLiduhOgide.
 
 pada mattu padakantegaLa naDuvina I vyatyAsa entahadu embudannu tiLiyabEkiddalli,
-modalige I vyatyAsa bhASegaLige yAke bEku embudannu pariSIlisabEkAguttade.
+modalige I vyatyAsa bhAShegaLige yAke bEku embudannu pariSIlisabEkAguttade.
 
 ondu ghaTane illavE sangatiyannu tiLisabEkidda lli, modalige A ghaTane illavE
 sangatiyalli toDagikonDiruva vyakti, vastu modalAduvannu gurutisuva avaSyakateyide.
-udAharaNegAgi, bidda illavE bittu endiSTE hELidare, sAmAnyavAgi nAvu
-tiLisabEkendiruva viSaya spaSTavAguvudilla, biddavaru yAru (rAju bidda) illavE
+udAharaNegAgi, bidda illavE bittu endiShTE hELidare, sAmAnyavAgi nAvu
+tiLisabEkendiruva viShaya spaShTavAguvudilla, biddavaru yAru (rAju bidda) illavE
 biddudu Enu (haNNu bittu) embudannU tiLisabEkAguttade, mattu idakkAgi bidda vyakti
 illavE vastuvannu gurutisabEkAguttade.
 
-I rIti vyakti, vastu modalAduvannu gurutisuvudakkAgi heccina bhASegaLallU
+I rIti vyakti, vastu modalAduvannu gurutisuvudakkAgi heccina bhAShegaLallU
 eraDu vidhAnagaLu baLakeyalliruttave. A vyakti illavE vastugaLigiruva hesarannu baLasi
 gurutisuvudu (hesarisuvudu) ondu vidhAna, mattu avugaLa varNaneyondannu
 koDuvudu (varNisuvudu) innondu vidhAna. udAharaNegAgi, rAju embudu
@@ -4028,19 +4029,19 @@ hesarisuvudarallU eraDu vidhAnagaLive: obba vyaktiyannu AtanadE Ada hesarininda
 samAnavAgiruva hesarininda (rUDhanAmadinda) gurutisuvudu innondu vidhAna.
 udAharaNegAgi, rAju emba padavannu baLasuvalli modalaneya vidhAna baLakeyAguttade,
 mattu haNNu emba padavannu baLasuvalli eraDaneya vidhAna baLakeyAguttade (heccina
-vivaragaLige bhaT‌ 2002:80 nODi).
+vivaragaLige bhaT‌ ೨೦೦೨:೮೦ nODi).
 
 mAtina mUlaka gurutisabEkAgi baruva vyakti illavE vastugaLa sankhye
 anantavAgiddu, avugaLalli kelavE kelavannu mAtra nAvu hesarugaLa mUlaka
 gurutisaballevu. udAharaNegAgi, namma suttamutta miliyagaTTale krimikITagaLiddu
-avugaLalli kelavakke mAtra namma bhASeyalli hesaru (rUDhanAma)gaLive. hesarillada
+avugaLalli kelavakke mAtra namma bhASheyalli hesaru (rUDhanAma)gaLive. hesarillada
 
 krimiyondannu gurutisabEkAdAga, adakkondu hesarannu koDuvudu ondu dAri,
 mattu adannu varNisi hELuvudu innondu dAri.
 
 sAmAnyavAgi, ondu vastu illavE prANiyannu AgAgagurutisabEkAguvudiddalli,
 adakkondu hesaru koDuttEve; idakke badalu, avannu kelavondu sandarbhagaLalli
-mAtra gurutisabEkAguvudAdalli, adakkAgi hesarondannu sxSTisuva tondarege hOguva
+mAtra gurutisabEkAguvudAdalli, adakkAgi hesarondannu sxShTisuva tondarege hOguva
 badalu, varNisi gurutisuttEve. intaha varNaneyE kAlakramENa A vastu illavE
 prANiya hesarAgalU sAdhyavide. Adare, iveraDara naDuve vyatyAsavide.
 
@@ -4053,18 +4054,18 @@ halageyalla davugaLannAgali gurutisadirabEku.
 Adare, hosagannaDadalli karihalage emba pada gurutisuvantahadu kappAgiyU
 irabEkAgilla (adu nIli illavE hasiru baNNaddirabahudu), mattu halageyAgiyU
 irabEkAgilla (gODeya ondu bhAgavAgirabahudu). idallade, ellA rItiya kappu
-baNNada halagegaLannU karihalageyendu kareyalu sAdhyavAgadu. ondu viSiSTavAda
+baNNada halagegaLannU karihalageyendu kareyalu sAdhyavAgadu. ondu viSiShTavAda
 kelasadalli baLakeyAguva vastuvannu mAtra A hesarininda gurutisalu sAdhya. hAgAgi,
 adu hosagannaDadalli hesarallade varNaneyalla.
 
 mEle vivarisida hAge, vyakti illavE vastugaLige hesarannu koDuvudakkAgi
 kannaDadalli eraDu vidhAnagaLu baLakeyallive. nAmapada, guNapada, illa vEkriyApadakke
-(1) ondu pratyayavannu sErisi hosa padavannu sxSTisuvudu (5.2.1 nODi), mattu
-(2) bErondu nAmapadavannu sErisi hosa padavannu sxSTisuvudu (karihalage). I
+(೧) ondu pratyayavannu sErisi hosa padavannu sxShTisuvudu (೫.೨.೧ nODi), mattu
+(೨) bErondu nAmapadavannu sErisi hosa padavannu sxShTisuvudu (karihalage). I
 eraDaneya vidhAnakke samAsavendu hesaru.
 
 samastapada mattu padakantegaLa naDuviruva vyatyAsa I vivaraNeyinda
-spaSTavAgirabahudu. eraDu padagaLannu oTTu sErisi ondu hesarannu
+spaShTavAgirabahudu. eraDu padagaLannu oTTu sErisi ondu hesarannu
 teyArisalAgideyAdare adu samastapada, mattu ondu varNaneyannu
 tayArisalAgideyAdare adu padakante. samastapadada tayArikeyalli samAsavemba
 vidhAnada baLakeyAgide, mattu padakanteya tayArikeyalli adakkinta bhinnavAda bEreyE
@@ -4078,7 +4079,7 @@ mugilu entahadu (adu biLi baNNaddu) embudAgi varNaneyondannu koDuttideyAda
 kAraNa, padakantege udAharaNeyAgaballudallade samAsakke udAharaNeyAgalAradu.
 
 hesaru mattu varNanegaLa naDuviruva I vyatyAsa mAtina baLakeyalliruva
-bhASegaLallella spaSTavAgi mUDiruttade. Adare, mAtina baLake tappihOgiruva bhASegaLu
+bhAShegaLallella spaShTavAgi mUDiruttade. Adare, mAtina baLake tappihOgiruva bhAShegaLu
 kelavE kelavu panDitara mattu kavigaLa hiDitadalli uLiyuvuvAda kAraNa, avugaLalli
 I vyatyAsa bahaLa bEga aLiduhOguttade.
 
@@ -4100,53 +4101,53 @@ aLiduhOgiruvudE idakke kAraNa.
 
 <a id="sec-5-4"></a>
 
-## 5.4 haLegannaDa vyAkaraNagaLalli samAsa
+## ೫.೪ haLegannaDa vyAkaraNagaLalli samAsa
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-5-4) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-5--internal-structure-of-words)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-5--internal-structure-of-words) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-5-4)
 
 
 haLegannaDada vayyAkaraNigaLu samskxta vyAkaraNagaLalli siddha vAgiruva samastapadagaLa
 vibhajaneyannu hAgeyE haLegannaDakke aLavaDisalu prayatnisiddA re; hIge mADidudarindAgi,
-avarige I padagaLa racaneyalli samskxta mattu haLegannaDa bhASegaLa naDuve iruva
+avarige I padagaLa racaneyalli samskxta mattu haLegannaDa bhAShegaLa naDuve iruva
 halavu mUlabhUtavAda vyatyAsagaLannu gamanisalu sAdhyavAgalilla
 
 udAharaNegAgi, samAsa mattu padakantegaLa naDuvina vyatyAsavannu ivaru
 parigaNisalilla. Adare, idu haLegannaDakke avaSya endu nanna bhAvane. nAmapadagaLondige
-guNapadagaLannu baLasi tayArisida racanegaLalli I vyatyAsa bahaLa spaSTavAgi kANisuttade.
+guNapadagaLannu baLasi tayArisida racanegaLalli I vyatyAsa bahaLa spaShTavAgi kANisuttade.
 
 samskxtadavE Ada samAsada niyamagaLannu baLasidarU (endare samastapada-
 padakantegaLa naDuvina vyatyAsavannu kaDegaNisidarU) haLegannaDa vayyAkaraNigaLu varNisuva
-samAsagaLu nijakkU A bhASeyalli samAsagaLalla embudu keLagina pariSIlaneyinda
+samAsagaLu nijakkU A bhASheyalli samAsagaLalla embudu keLagina pariSIlaneyinda
 
 
 <a id="sec-5-4-1"></a>
 
-### 5.4.1 guNapadagaLa baLake
+### ೫.೪.೧ guNapadagaLa baLake
 
 
 haLegannaDadalli guNapadagaLu nAmapadagaLinda bhinnavAgiddu, avannu
 nAmapadagaLondige baLasabEkiddalli avakke yAva pratyayavannU sErisabEkAguvudilla.
 Adare, samskxtadalli guNapadagaLu nAmapadagaLE Agiddu, avannu bEre nAmapadagaLondige
 
-les‌ 210 bAvi ile i nagale vEgi hA i
+les‌ ೨೧೦ bAvi ile i nagale vEgi hA i
 baLasabEkiddalli avakke vibhakti pratyayagaLannu sErisuva avaSyakateyide.
 
-idu haLegannaDa mattu samskxta bhASegaLa naDuviruva ondu mukhya vyatyAsa.
+idu haLegannaDa mattu samskxta bhAShegaLa naDuviruva ondu mukhya vyatyAsa.
 samskxtadalli guNapadagaLannu vibhakti pratyaya sErisade nEravAgi nAmapadadondige
 baLasidalli adu samastapadavAgi biDuttade. udAharaNegAgi, keLage koTTiruva eraDu
 
 vAkyagaLannu gamanisabahudu:
 
-(2ka) kxSNam sarpam apaSyat‌
+(೨ka) kxShNam sarpam apaSyat‌
 "kappu hAvannu nODida'
 
-(2kha) kxSNa sarpam apaSyat‌
+(೨kha) kxShNa sarpam apaSyat‌
 "kappuhAvannu nODida'
 
-(2ka)dalli kxSNa mattu sarpa emba eraDu padagaLU dvitIyA-Ekavacanadalli bandive;
-Adare, (2kha)dalli sarpa embudu mAtra dvitIyA-Ekavacanadalli bandiddu, kxSNa
+(೨ka)dalli kxShNa mattu sarpa emba eraDu padagaLU dvitIyA-Ekavacanadalli bandive;
+Adare, (೨kha)dalli sarpa embudu mAtra dvitIyA-Ekavacanadalli bandiddu, kxShNa
 embudu yAva vibhakti pratyayavU illade bandide. I vyatyAsavannu vivarisuvudakkAgi,
-samskxta vyAkaraNagaLalli (2kha) vAkyadalli kANisuva kxSNasarpa embudarantaha baLakegaLalli
+samskxta vyAkaraNagaLalli (೨kha) vAkyadalli kANisuva kxShNasarpa embudarantaha baLakegaLalli
 karmadhArayavemba samAsavAgideyendu hELalAguttade.
 
 Adare, haLegannaDadalli guNapadagaLu sahajavAgiyE, yAva vibhakti pratyayada
@@ -4157,28 +4158,28 @@ karmadhAraya samAsavAgideyendu hELuvudakke haLegannaDadalli yAva AdhAravU
 illa.
 
 pampabhAratadalli intaha padagaLa baLake hEgideyembudannu pariSIlisidalli I
-viSaya spaSTavAguttade. posa-posatu, kiLu-kiaುdu (kiluyar‌), cenna-cennar‌,
+viShaya spaShTavAguttade. posa-posatu, kiLu-kiaುdu (kiluyar‌), cenna-cennar‌,
 teL‌-teLLiduvu modalAda padayugmagaLalli modalaneyadu nAmapadagaLondige
 baruttade, mattu eraDaneyadu nAmapadada jAgadalli baruttade:
 
-(1) nAmapadagaLondige baLake:
-(3ka) pUvina posa goncalim maranidEnesedirduvo (1.116)
-"hUvina hosa goncalininda maragaLu eSTu sogasAgive!
-(3kha) kiunage nakku (9.28va)
+(೧) nAmapadagaLondige baLake:
+(೩ka) pUvina posa goncalim maranidEnesedirduvo (೧.೧೧೬)
+"hUvina hosa goncalininda maragaLu eShTu sogasAgive!
+(೩kha) kiunage nakku (೯.೨೮va)
 "husinage nakku'
-(3ga) cenna pUgaLan‌ oyyane Osarisutum (2.17)
+(೩ga) cenna pUgaLan‌ oyyane Osarisutum (೨.೧೭)
 "sogasAda hUvugaLannu nidhAnavAgi pakkakke sarisutta
 
-(2) nAmapadagaLa jAgadalli baLake:
-(4ka) posatam paladumanaludu (5.46va)
+(೨) nAmapadagaLa jAgadalli baLake:
+(೪ka) posatam paladumanaludu (೫.೪೬va)
 "hosatannU haLeyadannU tiLidu'
 
-(4kha) Atanim kiuyaram pannorvaram kondu (11.59)
+(೪kha) Atanim kiuyaram pannorvaram kondu (೧೧.೫೯)
 "Ataninda kiriyarAda hannondu janarannU kondu'
-(4ga) cennaran‌ aDigotti(2.77)
+(೪ga) cennaran‌ aDigotti(೨.೭೭)
 "parAkramigaLannu kAlina keLakke adumi'
 
-posa, kiA, cenna modalAda guNapadagaLannu nAmapadagaLa viSESaNagaLannAgi mADi
+posa, kiA, cenna modalAda guNapadagaLannu nAmapadagaLa viSEShaNagaLannAgi mADi
 baLasabEkendiddalli avakke yAva pratyayavannU sErisuva avaSyakateyilla . Adare,
 avannu nAmapadagaLa jAgadalli, endare vibhakti pratyayagaLannu sErisi baLasabEkendidda lli,
 avakke linga-vacana pratyayagaLannu sErisuva avaSyakateyide emba vAkyaracaneya
@@ -4196,7 +4197,7 @@ jAgadalli) baLasuvudakkAgi avakke linga-vacana pratyayavannu sErisi racisida rUp
 
 <a id="sec-5-4-2"></a>
 
-### 5.4.2 kxdantagaLa baLake
+### ೫.೪.೨ kxdantagaLa baLake
 
 
 idE rItiyalli haLegannaDada kxdantagaLU samskxtada kxdantagaLinda bhinnavAgive.
@@ -4205,14 +4206,14 @@ sErisabEkAguttade; Adare, haLegannaDada kxdantagaLige I rIti vibhakti pratyayaga
 sErisalu sAdhyavAgadu. nAmapadagaLondige avannu hAgeyE baLasabEkembudE
 haLegannaDada niyama.
 
-(55) mxtam sarpam apaSyat‌
+(೫5) mxtam sarpam apaSyat‌
 "satta hAvannu nODida'
 
-(5kha) banda baTTeyine bijayangeyyim
+(೫kha) banda baTTeyine bijayangeyyim
 “banda dAriyallE hOgi'
 
-(5ka) samskxta vAkyadalli mxta "satta' kxdantavannu dvitIyA vibhakti pratyayadondige
-baLasalAgide, Adare (5kha) haLegannaDa vAkyadalli banda kxdantavannu hAgeyE yAva
+(೫ka) samskxta vAkyadalli mxta "satta' kxdantavannu dvitIyA vibhakti pratyayadondige
+baLasalAgide, Adare (೫kha) haLegannaDa vAkyadalli banda kxdantavannu hAgeyE yAva
 pratyayavannU sErisade baLasalAgide. haLegannaDada I banda kxdantakke samskxtada hAge
 dvitIyA vibhaktiyannu sErisi hELalu sAdhyavAgadu.
 
@@ -4222,16 +4223,16 @@ linga-vacana pratyayavannu sErisuva avaSyakateyide. Adare, hIge sErisida padarUp
 padagaLa oLaracane te
 
 nAmapadada jAgadalli baraballudallade, bErondu nAmapadadondige adara
-viSESaNavAgi baralAradu.
+viSEShaNavAgi baralAradu.
 
-(5ga) irdaram nel‌ye mOhisi
+(೫ga) irdaram nel‌ye mOhisi
 "(sabheyalli) iddavarannu pUrNavAgi mUrchegoLisi'
-(5gha) uTududam mANisal‌ nAne sAlven‌
+(೫gha) uTududam mANisal‌ nAne sAlven‌
 "uLidudannu nillisalu nAnu sAku'
-(5ga)dalli irda kxdantakke linga-vacanagaLannu sUcisuva ar‌ pratyayavannu sErisi,
+(೫ga)dalli irda kxdantakke linga-vacanagaLannu sUcisuva ar‌ pratyayavannu sErisi,
 anantara am vibhakti pratyayavannu sErisalAgide. Adare, I padavannu illi svatantravAda
-nAmapadada jAgadalli baLasalAgideyallade, bErondu padada viSESaNavAgi baLasilla.
-(5gha)dallU hIgeyE.
+nAmapadada jAgadalli baLasalAgideyallade, bErondu padada viSEShaNavAgi baLasilla.
+(೫gha)dallU hIgeyE.
 hAgAgi, banda baTTe, toLapa dADe, illada nalme embantaha baLakegaLalli
 kxdantagaLige sahajavAgiruvantaha baLakeyE kANisuttideyallade samAsavAgilla. idakke
 badalu, samskxtada mxtasarpa "satta hAvu', hataSatru "konda Satru' modalAdavugaLalli
@@ -4247,22 +4248,22 @@ samAsavAgideyendu hELalu sAdhyavAgadu.
 
 <a id="sec-5-4-3"></a>
 
-### 5.4.3 bEre padagaLa baLake
+### ೫.೪.೩ bEre padagaLa baLake
 
 samskxtadalli nAmapadagaLondige eNikeya padagaLannAgali, illa vE nirdESaka
 padagaLannAgali baLasuvudiddarU, A nAmapadagaLondige baruva vibhakti pratyayagaLannu
 
 antaha eNikeya pada illa vE nirdESaka padagaLigU sErisabEkemba niyamavide.
 
-(6ka) aham Ekam ghaTam dxSTavAn‌
+(೬ka) aham Ekam ghaTam dxShTavAn‌
 
 "nAnu ondu koDavannu nODide'
-(6kha) tEna sUtEna aSvAH yOjitAH
+(೬kha) tEna sUtEna aSvAH yOjitAH
 
 "A sUtanu kuduregaLannu rathakke kaTTida'
 
-(6ka)dalli Eka "ondu' emba eNikeya pada dvitIyA vibhaktiyalli bandide, mattu
-(6kha)dalli sa "A' emba nirdESaka pada tEna emba txtIyArUpadalli bandide.
+(೬ka)dalli Eka "ondu' emba eNikeya pada dvitIyA vibhaktiyalli bandide, mattu
+(೬kha)dalli sa "A' emba nirdESaka pada tEna emba txtIyArUpadalli bandide.
 avugaLondige bandiruva nAmapadagaLu ivE vibhaktigaLalli (ghaTa embudu dvitIyeyalli
 mattu sUta embudu txtIyeyalli) bandive embudannu gamanisabahudu.
 
@@ -4270,26 +4271,26 @@ Adare, haLegannaDadalli eNikeya padagaLannAgali, illavE nirdESaka padagaLannAgal
 nAmapadagaLondige baLasabEkiddalli, avakke I rIti vibhakti pratyayagaLannu sErisuva
 avaSyakateyilla, mattu hAge sErisalu sAdhyavU illa.
 
-(7ka) OraDiyanaNam naDeyalum Ade
+(೭ka) OraDiyanaNam naDeyalum Ade
 "ondu hejjeyannU iDalu sAdhyavAgade'
-(7kha) tEjOguNam A kcatriyaroL‌ nelasi nindudu
+(೭kha) tEjOguNam A kcatriyaroL‌ nelasi nindudu
 "tEjOguNa A kcatriyaralli sthiravAgi ninditu'
 
-(7ka)dalli Or‌ eNikeya pada, mattu (7kha)dalli A emba nirdESaka pada iveraDU
+(೭ka)dalli Or‌ eNikeya pada, mattu (೭kha)dalli A emba nirdESaka pada iveraDU
 vibhakti pratyayagaLa sahAyavillade nAmapadagaLondige bandive. haLegannaDadalli ivu
 
-vibhakti pratyayagaLondige barabEkiddalli, viSESaNagaLAgi baruva badalu, keLage koTTiruva
+vibhakti pratyayagaLondige barabEkiddalli, viSEShaNagaLAgi baruva badalu, keLage koTTiruva
 vAkyagaLalli kANisida hAge, nAmapadagaLa jAgadalli barabEku.
 
-(Aka) narEndram tanage ondam tandan‌
+(೮ka) narEndram tanage ondam tandan‌
 "rAjanu tanage ondannu tandanu'
 
 (Akha) tEjOguNam avaroL‌ nelasi nindudu
 "tEjOguNa avaralli sthiravAgi ninditu'
 
-samskxta mattu haLegannaDa bhASegaLa naDuve intaha vyatyAsavideyAda kAraNa,
+samskxta mattu haLegannaDa bhAShegaLa naDuve intaha vyatyAsavideyAda kAraNa,
 samskxtada EkaghaTa mattu tatsUta embavugaLa hAge haLegannaDada OraDi mattu A
-kSatriya embavugaLannu samastapadagaLendu parigaNisalu AdhAravilla.
+kShatriya embavugaLannu samastapadagaLendu parigaNisalu AdhAravilla.
 
 haLegannaDadalli kelavu eNikeya padagaLa mattu guNapadagaLa nAmarUpagaLu
 mAtra nAmapadagaLondigU (padakantegaLalli) baraballuvu. Adare I rUpagaLU
@@ -4298,11 +4299,11 @@ gamanisabahudu:
 
 (ka) narEndram tanage ondu mAriyam tandan‌
 “rAjanu tanage ondu mAriyannu tandukonDanu'
-(9kha) Ananakke piridum dInatvamam mADidanAvan‌
-"mukhakke viSESavAda bADuvikeyannu unTu mADidavanu yAru'
+(೯kha) Ananakke piridum dInatvamam mADidanAvan‌
+"mukhakke viSEShavAda bADuvikeyannu unTu mADidavanu yAru'
 
-(9ka)dalli ondu embudu (eNikeya padada nAmarUpa) mAri emba nAmapadadondige
-bandide; Adare, adarondige am pratyaya bandilla. idE rItiyalli, (9kha)dalli
+(೯ka)dalli ondu embudu (eNikeya padada nAmarUpa) mAri emba nAmapadadondige
+bandide; Adare, adarondige am pratyaya bandilla. idE rItiyalli, (೯kha)dalli
 piridu embudu (guNapadada nAmarUpa) dInatva emba nAmapadadondige bandide;
 Adare, adarondige am vibhakti pratyaya bandilla.
 
@@ -4314,24 +4315,24 @@ samastapadagaLannu varNisuvAga nAmapadagaLannu mAtra gaNanege tegedukonDare sAku
 
 haLegannaDada samasta padagaLannu varNisuvAgalU samskxtada I niyamavannE
 anusarisi, nAmapadagaLu oTTusEri samAsavAguvudendu prAcIna vayyAkaraNigaLu
-hELiddA re. (kESirAja, sU. 173 nODi). Adare, nijakkU haLegannaDa samastapadagaLalli
+hELiddA re. (kESirAja, sU. ೧೭೩ nODi). Adare, nijakkU haLegannaDa samastapadagaLalli
 eraDaneya pada mAtra nAmapadavAgiruva avaSyakateyide. modalaneyadu
 nAmapadavirabahudu, kriyApadavirabahudu illavE guNapadavirabahudu. adu ondu
 avyayavAgiralU sAdhyavide.
 
-haLegannaDa mattu samskxta bhASegaLa naDuviruva I mukhyavAda mattu vyAkaraNada
+haLegannaDa mattu samskxta bhAShegaLa naDuviruva I mukhyavAda mattu vyAkaraNada
 mUlatatvadallEnE kANisuvantaha vyatyAsavannu haLegannaDada vayyAkaraNigaLu sariyAgi
 gamanisilla.
 
 
 <a id="sec-5-4-4"></a>
 
-### 5.4.4 haLegannaDada bahuvrIhi
+### ೫.೪.೪ haLegannaDada bahuvrIhi
 
 
 eraDu padagaLannu oTTu sErisi hosadondu padavannu racisidAga, A eraDu
 padagaLalli ondU adara pradhAna padavAgirade, horaginadondu pada pradhAna
-padavAgideyAdare, adakke bahuvrIhi endu hesaru (5.3.1 nODi). bahuvrIhi
+padavAgideyAdare, adakke bahuvrIhi endu hesaru (೫.೩.೧ nODi). bahuvrIhi
 emba hesarE samskxtadalli I samAsakke ondu udAharaNe:
 
 bahu "heccu' mattu vrIhi "batta' emba eraDu padagaLannu oTTu sErisi racisida
@@ -4341,7 +4342,7 @@ emba bEreyE ondu pada pradhAna padavAgide.
 
 bahuvrIhi samAsakke haLegannaDada vayyAkaraNigaLu koDuva udAharaNegaLu
 karbuvillam, kaDucAgi, calavAdi, niDugaNNam modalAdavugaLu. nijakkU illi bahuvrIhi
-samAsavideyendu hELuvudu bahaLa kaSTa. udAharaNegAgi, karbuvillam embudu
+samAsavideyendu hELuvudu bahaLa kaShTa. udAharaNegAgi, karbuvillam embudu
 "kabbannu billAgi paDedavanu' emba arthavannu koDuttiddu, adu obba vyaktiyannu
 sUcisuttade; hAgAgi karbu mattu billu emberaDu padagaLU illi pradhAna padagaLalla
 embudAgi vivaraNeyannEnO koDabahudu.
@@ -4351,7 +4352,7 @@ am emba pratyayavU bandide. samastapadada angavAgiruva I pratyayavE "vyakti'
 emba arthavannu koDuvudAda kAraNa, illi pradhAna pada horaginadu endu vAdisuvudakke
 AdhAravilla.
 
-intaha padagaLa racaneyalli samskxta mattu haLegannaDa bhASegaLa naDuviruva
+intaha padagaLa racaneyalli samskxta mattu haLegannaDa bhAShegaLa naDuviruva
 vyatyAsavE I rIti haLegannaDa vayyAkaraNigaLu koDuva samastapadagaLannu bahuvrIhige
 udAharaNegaLannAgi mADalu sAdhyavAgadiruvudakke mukhya kAraNa. samskxtada pItAmbara,
 dIrphabAhu, prAptOdaka modalAda bahuvrIhi padagaLige vibhakti pratyayagaLinda
@@ -4364,9 +4365,9 @@ sErisabEkAgiddu, ivu vibhakti pratyayagaLinda bhinnavAgive. allade, I pratyayaga
 padada ondu angavendE parigaNisuva avaSyakateyide; yAkendare, mElinavugaLa
 arthavannu intaha linga-vacana pratyayavannu paDeyadiruva karbuvil‌, kaDucAga,
 calavAda, niDugaN‌ modalAda padagaLu koDalAravu. hAgAgi, mEle koTTiruva
-haLegannaDa padagaLu bahuvrIhige udAharaNegaLAgalAravu (5.4.4 nODi).
+haLegannaDa padagaLu bahuvrIhige udAharaNegaLAgalAravu (೫.೪.೪ nODi).
 
-venkaTAcala SAstrI (1994:88) sUcisida hAge, karmadhArayadantaha
+venkaTAcala SAstrI (೧೯೯೪:೮೮) sUcisida hAge, karmadhArayadantaha
 samAsadinda siddha vAda padakke pratyayavondannu sErisi racisida padagaLannE heccAgi I
 vayyAkaraNigaLu bahuvrIhige udAharaNegaLannAgi koTTiddAre. ivugaLalli
 karmadhArayakkinta bhinnavAgiruva bErondu samAsa ide ennuvudakkintalU
@@ -4377,19 +4378,19 @@ hELuvudE uttama.
 kallerde, kaDugallerde, dhayryAmburASi, kittaDi embantaha padagaLalli mAtra
 I rIti pratyaya sEradiddarU anyapadada artha pradhAnavAgideyAda kAraNa, antaha
 padagaLannu mAtra nyAyavAgi bahuvrIhige udAharaNegaLendu hELalu sAdhyavide
-(venkaTAcala SAstri € 1994:88 nODi).
+(venkaTAcala SAstri € ೧೯೯೪:೮೮ nODi).
 
 
 <a id="sec-5-4-5"></a>
 
-### 5.4.5 avyayIbhAva
+### ೫.೪.೫ avyayIbhAva
 
 
 haLegannaDada kiLLoDe, kiTakkeAke, mungay, angay, bembisil‌, angAl‌
 modalAduvannu avyayIbhAva samAsakke udAharaNegaLannAgi koDalAgide. ivu
 haLegannaDadalli "avyaya'gaLalla vAda kAraNa, avyayIbhAva emba hesaru ivakke takkudalla.
 idannu gamanisida bhaTTAkaLankanu I samAsakke "amSi' emba bErondu hesarannu
-baLasiddAne (sU. 306). ivugaLalli baLakeyAgiruva eraDu padagaLa naDuve amSAmSi
+baLasiddAne (sU. ೩೦೬). ivugaLalli baLakeyAgiruva eraDu padagaLa naDuve amSAmSi
 sambandhavide; I padagaLalli modalaneyadu ondu amSavannU eraDaneyadu A
 amSavannu paDediruva ondu amSiyannU sUcisuttave embudE idakke AdhAra.
 
@@ -4409,69 +4410,69 @@ arthadalli adu karmadhArayavAga balludallade avyayIbhAvavAgalAradu. "kereya
 keLabhAga' emba arthavU idakkide; Adare I arthadalli adu bahuvrIhige
 udAharaNeyAgaballudallade avyayIbhAvakke udAharaNeyAgalAradu.
 
-nAgavarmanu (sU. 129)ralli I padavannu avyayIbhAvakke udAharaNeyAgi
+nAgavarmanu (sU. ೧೨೯)ralli I padavannu avyayIbhAvakke udAharaNeyAgi
 koTTiddA ne; Adare, yAva arthadalli idu avyayIbhAvavAgaballudu embudu
 
 ida
-spaSTavAgilla.
+spaShTavAgilla.
 
 
 <a id="sec-5-4-6"></a>
 
-### 5.4.6 kriyAsamAsa
+### ೫.೪.೬ kriyAsamAsa
 
 
 samastapadagaLalli modalaneya anga kriyApadavAgiddare (suDugADu, biDuveN‌,
-aDugabbu), adannu "kriyAsamAsa'vendu kareyalu sAdhya embudAgi mEle 5.3.2ralli
+aDugabbu), adannu "kriyAsamAsa'vendu kareyalu sAdhya embudAgi mEle ೫.೩.೨ralli
 sUcisidde. Adare haLegannaDada vyAkaraNagaLalli kriyAsamAsavemba padavannu bEreyE
 ondu arthadalli baLasalAgide.
 
 modalaneya anga nAmapadavAgiddu, eraDaneyadu kriyApadavAgiruva
 seaಾyirdam, guNangonDam, baLedoTTam, pAlkuDidem modalAdavugaLalli
 kriyAsamAsavideyendu I vayyAkaraNigaLu hELuttAre. kESirAjana prakAra, idannu
-mattu gamaka samAsavannu (5.4.6 nODi) kannaDada viSESa lakSaNagaLendu parigaNisuva
+mattu gamaka samAsavannu (೫.೪.೬ nODi) kannaDada viSESha lakShaNagaLendu parigaNisuva
 avaSyakateyide.
 
-Adare, nijakkU I padagaLalli eraDu padagaLu sEri hosadondu pada sxSTiyAgilla.
+Adare, nijakkU I padagaLalli eraDu padagaLu sEri hosadondu pada sxShTiyAgilla.
 hAgAgi, ivannu samAsavemba "padaracane'ya vidhAnada mUlaka varNisuva badalu,
 adakkinta tIra bhinnavAgiruva "vAkyaracane'ya vidhAnada mUlaka varNisuvudE oLLeyadu.
 
 I prayOgagaLalli sAmAnyavAgi nAmapadada dvitIyA vibhakti
-lOpagonDiruvudannu (pAlam kuDidem » pAlkuDidem) kANuttEve. munde 8.2ralli
+lOpagonDiruvudannu (pAlam kuDidem>pAlkuDidem) kANuttEve. munde ೮.೨ralli
 sUcisiruva hAge, haLegannaDadalli vibhakti pratyayagaLannu avaSyavilladalli baLasadiralU
 sAdhya emba niyamavE intaha prayOgagaLige AdhAra. hAgAgi, I prayOgagaLalli
 kANisuvudu vAkyaracaneya niyamavallade padaracaneya niyamavalla. intaha kelavu
-baLakegaLalli dvitIyA vibhakti sankSiptagonDu bindu rUpadalli uLiyuvudU ide
+baLakegaLalli dvitIyA vibhakti sankShiptagonDu bindu rUpadalli uLiyuvudU ide
 (padangonDam, mogannODidam).
 
 
 <a id="sec-5-4-7"></a>
 
-### 5.4.7 gamaka samAsa
+### ೫.೪.೭ gamaka samAsa
 
 
 I samAsakke haLegannaDa vayyAkaraNigaLu koTTiruva udAharaNegaLannu
-pariSIlisidAga, ondu viSaya spaSTavAguttade: haLegannaDa mattu samskxta bhASegaLa
+pariSIlisidAga, ondu viShaya spaShTavAguttade: haLegannaDa mattu samskxta bhAShegaLa
 naDuve kANisuva ondu mukhyavAda vyatyAsavannu avaru parigaNisadiruvudE ivannu
-gamaka samAsavemba ondu hosa rItiya samAsavembudAgi, mattu kannaDada viSESa
+gamaka samAsavemba ondu hosa rItiya samAsavembudAgi, mattu kannaDada viSESha
 
-lakSaNagaLalli ondembudAgi, tiLiyalu kAraNa.
+lakShaNagaLalli ondembudAgi, tiLiyalu kAraNa.
 
 samska tadalli guNapada, nirdESaka pada, kxdanta modalAdavugaLu nAmapadagaLE.
-hAgAgi, avannu innondu nAmapadadondige (avugaLa viSESaNagaLannAgi mADi)
-baLasabEkiddalli, avugaLondige vibhakti pratyayagaLannu baLasuva avaSyakateyide (5.4.1-
-3 nODi).
+hAgAgi, avannu innondu nAmapadadondige (avugaLa viSEShaNagaLannAgi mADi)
+baLasabEkiddalli, avugaLondige vibhakti pratyayagaLannu baLasuva avaSyakateyide (೫.೪.೧-
+೩ nODi).
 
 Adare, haLegannaDadalli ivu nAmapadagaLiginta bhinnavAgiruva padavargagaLalli
-baruttiddu, avannu hAgeyE nAmapadagaLa viSESaNagaLannAgi baLasalu sAdhyavide.
+baruttiddu, avannu hAgeyE nAmapadagaLa viSEShaNagaLannAgi baLasalu sAdhyavide.
 avakke vibhakti pratyayagaLannu sErisabEkiddalli, modalige linga-vacana pratyayagaLannu
 sErisi, avannu nAmarUpakke badalAyisikoLLabEkAgutta de. idallade, sAmAnyavAgi
 intaha guNapada, nirdESaka pada, kxdanta modalAdavugaLa nAmarUpagaLu bErondu
-nAmapadada viSESaNagaLAgi baralAravu.
+nAmapadada viSEShaNagaLAgi baralAravu.
 
 samskxtadalli nAmapadagaLondige I padagaLannu vibhakti pratyayavannu sErisadeyU
 baLasalu sAdhyavide, mattu intaha sandarbhagaLalli avu nAmapadadondige sEri
-samastapadagaLAgiveyendu hELalu sAdhyavide (5.4.1-3 nODi). yAkendare, intaha
+samastapadagaLAgiveyendu hELalu sAdhyavide (೫.೪.೧-೩ nODi). yAkendare, intaha
 prayOgagaLalli I padagaLa vibhakti pratyaya lOpagonDideyendu hELalu sAdhyavide.
 
 Adare, haLegannaDadalli vibhakti pratyayavillade baruvudE ivugaLa sahaja prayOga.
@@ -4482,32 +4483,32 @@ sAdhyavAgadu.
 haLegannaDada vayyAkaraNigaLu hELuvantaha kriyAsamAsa mattu gamaka samAsagaLu
 nijakkU samAsagaLalla, vAkkAngagaLu mAtra endu vAdisuvudakke avugaLigU itara
 samAsagaLigU naDuviruva kelavu vyatyAsagaLannU AdhAravAgi koDabahudu (venkaTAcala
-SAstri € 1994:82-3 nODi):
+SAstri € ೧೯೯೪:೮೨-೩ nODi):
 
-(1) samAsadalli eraDu padagaLu oTTu sEri ondE padavAguttade emba
+(೧) samAsadalli eraDu padagaLu oTTu sEri ondE padavAguttade emba
 niyamavide. I niyamakke gamaka samAsa apavAda. eraDu padagaLu illi biDi
 biDiyAgi baruttave (biLiya koDe, ADuva polam).
 
-(2) gamaka samAsada eraDu padagaLa naDuve bEre padagaLannu irisidarU A
+(೨) gamaka samAsada eraDu padagaLa naDuve bEre padagaLannu irisidarU A
 "samastapada'da arthadalli vyatyAsavAguvudilla.
 
-(3) karmadhArayavE modalAda samastapadagaLige gamaka samAsadalliruva
+(೩) karmadhArayavE modalAda samastapadagaLige gamaka samAsadalliruva
 samastapadavondannu "vigrahavAkya'vAgi koDalu sAdhyavide. udAharaNegAgi, beLgoDe
 embudu karmadhAraya samAsadalliruva samastapada; idakke vigrahavAkyavAgi koDuva
 biLiya koDe embudu gamaka samAsadalliruva samastapada.
 
-(4) gamaka samAsadalli oTTige sErikoLLuva eraDu padagaLU tamma arthavannu
+(೪) gamaka samAsadalli oTTige sErikoLLuva eraDu padagaLU tamma arthavannu
 badalAyisade hAgeyE uLisikoLLuttave. idu samAsada ondu mukhya guNadharmakke
 viruddha vAgide.
 
-(5) haLegannaDada samAsagaLallella eraDaneya pada nAmapada emba niyamakke
-(5.3.2 nODi) gamaka samAsa mattu kriyAsamAsagaLu mAtra apavAdagaLAguttave.
+(೫) haLegannaDada samAsagaLallella eraDaneya pada nAmapada emba niyamakke
+(೫.೩.೨ nODi) gamaka samAsa mattu kriyAsamAsagaLu mAtra apavAdagaLAguttave.
 
-(6) haLegannaDa samastapadagaLalli kannaDa padagaLondige samskxtadinda eravalAgi
+(೬) haLegannaDa samastapadagaLalli kannaDa padagaLondige samskxtadinda eravalAgi
 banda padagaLu sEruvudilla emba niyamakke gamaka mattu kriyAsamAsagaLu
 apavAdagaLAguttave (pUsida bhasmaparAgam, priyannuDidam).
 
-(7) kESirAjanu modalige (sU. 172ralli) koTTiruva samAsada varNanege
+(೭) kESirAjanu modalige (sU. ೧೭೨ralli) koTTiruva samAsada varNanege
 (nAmapadangaL‌ arthadoL‌ anugatangaLAge samAsam ghaTisugum embudakke) gamaka
 mattu kriyA samAsagaLu apavAdagaLAguttave. yAkendare, avugaLalli nAmapadavalladavU
 baruttave.
@@ -4518,9 +4519,9 @@ embudannu illi gamanisabahudu.
 
 <a id="sec-5-5"></a>
 
-## 5.5 sArAmSa
+## ೫.೫ sArAmSa
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-5-5) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-5--internal-structure-of-words)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-5--internal-structure-of-words) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-5-5)
 
 
 padagaLa oLaracaneyannu vivarisuvalli haLegannaDa vayyAkaraNigaLu halavu tappugaLannu
@@ -4529,22 +4530,22 @@ haLegannaDakke aLavaDisalu prayatnisidudarindAgi mUDibandive.
 
 udAharaNegAgi, haLegannaDada samastapadagaLalli modalaneya pada yAva padavargakke
 sEruttade embudE Adara samAsagaLannu vibhajisalu uttama AdhAra. Adare, samskxtadalli
-pradhAna pada yAvudu emba viSayavannu intaha vibhajanege AdhAravAgi mADalAgide.
+pradhAna pada yAvudu emba viShayavannu intaha vibhajanege AdhAravAgi mADalAgide.
 haLegannaDada samastapadagaLige samskxtada I vibhajane yOgyavAdudalla.
 
-I eraDu bhASegaLa naDuve vyAkaraNada mUlatatvagaLalle €nE kANisuvantaha
+I eraDu bhAShegaLa naDuve vyAkaraNada mUlatatvagaLalle €nE kANisuvantaha
 vyatyAsagaLannu gamanadallirisikonDu, haLegannaDada padaracaneya niyamagaLannu
 kanDuhiDiyalu prayatnisidalli mAtra, avugaLa hindiruva niyamagaLu entahavemba
-viSaya spaSTavAdItu.
+viShaya spaShTavAdItu.
 
 
 <a id="ch6"></a>
 
-# adhyAya 6 — nAmapadagaLa svarUpa
+# adhyAya ೬ — nAmapadagaLa svarUpa
 
 [↑ oLapiDige hintirugi](#toc)
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#ch6) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-6--nature-of-nouns)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-6--nature-of-nouns) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#ch6)
 
 ---
 
@@ -4553,26 +4554,26 @@ nAmapadagaLa svarUpa
 
 <a id="sec-6-1"></a>
 
-## 6.1 nAmapadagaLa vibhajane
+## ೬.೧ nAmapadagaLa vibhajane
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-6-1) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-6--nature-of-nouns)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-6--nature-of-nouns) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-6-1)
 
-haLegannaDadalli baLakeyAguva nAmapadagaLa vibhajanege eraDu viSayagaLu
+haLegannaDadalli baLakeyAguva nAmapadagaLa vibhajanege eraDu viShayagaLu
 AdhAravAgaballuvu: avugaLige entaha oLaracaneyide embudu ondu, mattu vAkyadalli
 baLakeyAguvAga avu entaha guNadharmagaLannella tOrisuttave embudu innondu.
-ivugaLalli modalaneya viSayavannAdharisi haLegannaDada nAmapadagaLannu hEge
-vingaDisabahudu embudannu I adhyAyadallU, eraDaneya viSayavannAdharisi hEge
+ivugaLalli modalaneya viShayavannAdharisi haLegannaDada nAmapadagaLannu hEge
+vingaDisabahudu embudannu I adhyAyadallU, eraDaneya viShayavannAdharisi hEge
 vingaDisabahudu embudannu mundina (ELanE) adhyAyadallU pariSIlisalAguvudu.
 
 
 <a id="sec-6-1-1"></a>
 
-### 6.1.1 "linga" padada avaSyakate
+### ೬.೧.೧ "linga" padada avaSyakate
 
 
 samskxtadalli vibhakti mattu vacanagaLannu ondE pratyaya sUcisuvudAda kAraNa,
 dvivacana mattu bahuvacanagaLannu mAtravallade Ekavacanavannu sUcisuvudakkAgiyU
-A bhASeyalli pratyayada baLakeyAguttade. hAgAgi, vibhakti-vacana pratyayavannu sErisade
+A bhASheyalli pratyayada baLakeyAguttade. hAgAgi, vibhakti-vacana pratyayavannu sErisade
 yAva nAmapadavannU samskxtada vAkyagaLalli baLasalu sAdhyavAguvudilla.
 
 udAharaNegAgi, samskxtada kAntEna padadalliruva Ena emba txtIyA-
@@ -4603,14 +4604,14 @@ oDal‌ embudu, illavE kanasugaL‌ embudarinda gaL‌ bahuvacana pratyayavannu
 tegedAga uLiyuva kanasu embudu, iveraDU vAkyagaLalli baraballa nAmapada
 rUpagaLallade kalpita rUpagaLalla.
 
-hIgiddarU, samskxta vyAkaraNagaLalli “linga' emba pAribhASika padada
+hIgiddarU, samskxta vyAkaraNagaLalli “linga' emba pAribhAShika padada
 baLakeyAgideyemba kAraNakkAgi, kannaDada prAcIna vayyAkaraNigaLu adannu haLegannaDa
 vyAkaraNagaLallU baLasiddAre.
 
 
 <a id="sec-6-1-2"></a>
 
-### 6.1.2 kxdanta mattu tadditAnta
+### ೬.೧.೨ kxdanta mattu tadditAnta
 
 
 samskxtadalli kxdanta, tadditAnta mattu samAsa embudAgi mUru vidhada
@@ -4620,43 +4621,43 @@ kANalu sAdhyavide. intaha dhAtuvige ondu illavE heccu pratyayagaLannu sErisuvuda
 mUlaka, illavE eraDu athavA heccu nAmapadagaLannu oTTige sErisuvudara mUlaka
 adara nAmapadagaLannu sAdhisalAguttade.
 
-hAgAgi, samskxtada nAmapadagaLannu (1) (kriyA)dhAtugaLige ondu pratyayavannu
-sErisiruva kxdanta, (2) ondakkinta heccu pratyayagaLannu sErisiruva tadditAnta, mattu
-(3) eraDu athavA heccu nAmapadagaLannu oTTu sErisiruva samAsa embudAgi
+hAgAgi, samskxtada nAmapadagaLannu (೧) (kriyA)dhAtugaLige ondu pratyayavannu
+sErisiruva kxdanta, (೨) ondakkinta heccu pratyayagaLannu sErisiruva tadditAnta, mattu
+(೩) eraDu athavA heccu nAmapadagaLannu oTTu sErisiruva samAsa embudAgi
 vibhajisalu sAdhyavAgutta je;
 
 haLegannaDada vayyAkaraNigaLu idE vibhajaneyannu haLegannaDakkU aLavaDisalu
 prayatnisiddAre. Adare, haLegannaDa nAmapadagaLa oLaracane samskxtada nAmapadagaLa
 oLaracaneginta tIra bhinnavAgideyAda kAraNa, tondareyAgide.
 
-(1) haLegannaDadalli kriyAdhAtugaLinda sAdhisalu sAdhyavAgadantaha nAmapadagaLu
-bEkAdaSTive. hAgAgi kxdanta, tadditAnta mattu samAsa emba mUru padavargagaLu
+(೧) haLegannaDadalli kriyAdhAtugaLinda sAdhisalu sAdhyavAgadantaha nAmapadagaLu
+bEkAdaShTive. hAgAgi kxdanta, tadditAnta mattu samAsa emba mUru padavargagaLu
 mAtravallade, "nAma' emba nAlkaneya padavargavannU nAmapadagaLa vibhajaneyalli
-baLasabEkAgide (kESirAjana sU. 82 nODi).
+baLasabEkAgide (kESirAjana sU. ೮೨ nODi).
 
-(2) haLegannaDadalli kriyApadagaLige ondakkinta heccu pratyayagaLannu sErisi
+(೨) haLegannaDadalli kriyApadagaLige ondakkinta heccu pratyayagaLannu sErisi
 tayArisida nAmapadagaLu bahaLa kaDime. heccina nAmapadagaLa oLaracaneyallU ondu
 padapratyaya mAtra kANisikoLLuttade. Adare, samskxtadalli eraDu athavA heccu
-padapratyayagaLannu baLasi racisiruva nAmapadagaLu bEkAdaSTive.
+padapratyayagaLannu baLasi racisiruva nAmapadagaLu bEkAdaShTive.
 
-I kAraNakkAgi, kxdanta mattu tadditAnta emba samskxtada pAribhASika padagaLannu
+I kAraNakkAgi, kxdanta mattu tadditAnta emba samskxtada pAribhAShika padagaLannu
 haLegannaDa vyAkaraNagaLalli baLasalAgideyAdarU, avakke bEreyE arthavannu
-koDabEkAgide. illi ondu mukhyavAda viSayavannu gamanisuvudu avaSya:
+koDabEkAgide. illi ondu mukhyavAda viShayavannu gamanisuvudu avaSya:
 
-sAmAnyavAgi, bhASegaLalli pada mattu padarUpa embavugaLoLage vyatyAsaviruttade.
+sAmAnyavAgi, bhAShegaLalli pada mattu padarUpa embavugaLoLage vyatyAsaviruttade.
 pratyayagaLa mUlaka ondu padavargakke sErida padagaLinda bErondu padavargakke
 sEraballa “pada'gaLannAgali, illavE bErondu padavargada kelasadalli
 baLakeyAguvudidda. rU adE pada vargadalli uLiyuva "padarUpa'gaLannAgali tayArisalu
-sAdhyavide (5. 2.1 nODi).
+sAdhyavide (೫. ೨.೧ nODi).
 
 udAharaNegAgi, haLegannaDadalli sAmAnyavAgi ondu ghaTaneyannu sUcisuva
 kelasavannu kriyApadagaLu mADuttave, mattu A ghaTaneyalli toDagikonDiruva vyakti,
-vastu, viSaya modalAduvannu gurutisuva kelasavannu nAmapadagaLu mADuttave.
+vastu, viShaya modalAduvannu gurutisuva kelasavannu nAmapadagaLu mADuttave.
 kAntakam kArAgxhakke pOdam emba vAkyadalli ghaTaneyannu sUcisuva kelasavannu
 pOgu kriyApada mADuttade, mattu A ghaTaneyalli toDagikonDiruva vyakti mattu
 vastugaLannu gurutisuva kelasavannu kAntakam mattu kArAgxham nAmapadagaLu naDesuttave.
 
-Adare, kelavu viSiSTavAda sandarbhagaLalli vyakti, vastu, viSaya modalAduvannu
+Adare, kelavu viSiShTavAda sandarbhagaLalli vyakti, vastu, viShaya modalAduvannu
 gurutisuva kelasavannu kriyApadagaLa mUlakavU naDesalu sAdhyavide. haLegannaDadalli
 idakke eraDu vidhAnagaLu baLakeyAguttave: kriyApadagaLannu avugaLa "nAmarUpa'kke
 badalAyisuvudu ondu vidhAna, mattu avannE bErondu "nAmapada'vAgi
@@ -4670,68 +4671,68 @@ vastu(baTTe)vannu gurutisalAgide.
 
 samskxtada vyAkaraNagaLalli pada mattu padarUpagaLa naDuviruva I vyatyAsavannu
 sAmAnyavAgi kaDegaNisalAgide. hIge mADalu samskxtadalli I vyatyAsa heccina
-maTTige aLiduhOgiruvudE kAraNavirabEku (5.2.1 nODi). vEdakAlada samskxtadalli
-I vyatyAsa spaSTavAgi kANisuttittu; Adare, kramENa kAvyagaLa kAlakke baruttiddante,
+maTTige aLiduhOgiruvudE kAraNavirabEku (೫.೨.೧ nODi). vEdakAlada samskxtadalli
+I vyatyAsa spaShTavAgi kANisuttittu; Adare, kramENa kAvyagaLa kAlakke baruttiddante,
 adu aLidu hOguttA bandide.
 
-samskxta bhASe mAtina baLakeyinda bErpaTTu bariya barahada baLakeyalli
-mAtra uLidiruvudE intaha bhASeya sahajatege sambandhisida halavu sUkSma vyatyAsagaLu
+samskxta bhAShe mAtina baLakeyinda bErpaTTu bariya barahada baLakeyalli
+mAtra uLidiruvudE intaha bhASheya sahajatege sambandhisida halavu sUkShma vyatyAsagaLu
 adarinda kANeyAgiruvudakke mukhya kAraNa.
 
 mEle sUcisida hAge, samskxtada vyAkaraNagaLalli kxdanta mattu
 taddhi tAntagaLembudAgi kriyAdhAtugaLinda sidda vAguva nAmapadagaLannu vibhajisiruvalli
 pada mattu padarUpagaLa naDuviruva vyatyAsavannu kaDegaNisalAgide. siddavAgiruva
-nAmapadagaLalli pratyayagaLeSTive emba ondu amSakke mAtravE prAdhAnyateyannu
+nAmapadagaLalli pratyayagaLeShTive emba ondu amSakke mAtravE prAdhAnyateyannu
 koDalAgide. udAharaNegAgi, kriyAdhAtuvige ondE pratyayavannu sErisi tayArisiruva
 halavu rItiya nAmapadagaLannu kxdanta emba hesarininda kareyalAgide.
 
-bhU "Agu' dhAtuvininda tayArAda bhavat‌, bhaviSyat‌, bhUta, bhavitavya, bhAva,
+bhU "Agu' dhAtuvininda tayArAda bhavat‌, bhaviShyat‌, bhUta, bhavitavya, bhAva,
 bhAvin‌, bhavana modalAdavugaLu, bhI dhAtuvininda tayArAda bhaya, vad‌ dhAtuvininda
 banda vadana "mukha, viS‌ dhAtuvininda tayArAda vESman‌ “mane', budh‌ dhAtuvininda
 tayArAda buddhi, grah‌ dhAtuvininda tayArAda grAhaka, intahavellavU samskxtadalli
 kxdantagaLendenisuttave.
 
 Adare, haLegannaDadalli kxdanta mattu tadditAnta padagaLannu I arthadalli
-baLasuvudu aSTondu txptikaravAgalAradu. yAkendare, mEle sUcisida hAge,
+baLasuvudu aShTondu txptikaravAgalAradu. yAkendare, mEle sUcisida hAge,
 haLegannaDadalli ondakkinta jAsti pra tyayagaLiruva sAdhita nAmapadagaLu bahaLa kaDime.
 bahuSaH I kAraNakkAgi, haLegannaDada vayyAkaraNigaLu kriyApadagaLa nAmarUpagaLannu
 (kUradan‌ embantahavannu) kxllingagaLendU, kriyApadagaLinda (illavE nAmapada
 mattu guNapadagaLinda) sidda vAda nAmapadagaLannu taddi ta lingagaLendU karedirabEku.
 
-Adare, kannaDa kaypiDiyalli (pu. 15) kriyAdhAtugaLige sEruva pratyayagaLannu
+Adare, kannaDa kaypiDiyalli (pu. ೧೫) kriyAdhAtugaLige sEruva pratyayagaLannu
 kxt‌ pratyayagaLendU itara (nAma illavE guNa) dhAtugaLige illavE kxdantagaLige
 sEruva pratyayagaLannu taddhi ta pratyayagaLendU vibhajisalAgide. I vibhajaneyalli
 mEle sUcisida pada mattu padarUpagaLa naDuvina vyatyAsavannu kaDegaNisalAgide
-(6.1.3 nODi).
+(೬.೧.೩ nODi).
 
 
 <a id="sec-6-1-3"></a>
 
-### 6.1.3 kxllingagaLu
+### ೬.೧.೩ kxllingagaLu
 
 
-haLegannaDa vyAkaraNagaLalli kriyApadagaLa bhUta mattu bhaviSyatkAlada
-nAmarUpagaLannu (nalidam, bEDuvam) mAtra kxlli 0gagaLendu karediruva hAge kANisuttade
-(kESirAjana sU. 83 nODi). (bhaTTAkaLankanu dapa pratyayadinda tayArAda rUpavannU
-ivakke sErisiddAne). mEle sUcisida hAge, haLegannaDadalli ivu spaSTavAgi nAmapadagaLa
+haLegannaDa vyAkaraNagaLalli kriyApadagaLa bhUta mattu bhaviShyatkAlada
+nAmarUpagaLannu (nalidam, bEDuvam) mAtra kxlli ೦gagaLendu karediruva hAge kANisuttade
+(kESirAjana sU. ೮೩ nODi). (bhaTTAkaLankanu dapa pratyayadinda tayArAda rUpavannU
+ivakke sErisiddAne). mEle sUcisida hAge, haLegannaDadalli ivu spaShTavAgi nAmapadagaLa
 kelasadalli baLasuvudakkAgi tayArAda kriyApadagaLa padarUpagaLallade avugaLinda
 siddhavAda nAmapadagaLalla. |
 
-idakke badalu, naDuka (kESirAjana sU. 224), kEDu (kiDu), IDu (iDu),
-ATa (ADu) (sU. 224) modalAdavugaLalli kriyAdhAtugaLige ondE pratyaya
+idakke badalu, naDuka (kESirAjana sU. ೨೨೪), kEDu (kiDu), IDu (iDu),
+ATa (ADu) (sU. ೨೨೪) modalAdavugaLalli kriyAdhAtugaLige ondE pratyaya
 sErideyAdarU, avannu taddhita lingagaLendu kareyalAgide. ivu kriyApadagaLinda
 tayArAda nAmapadagaLalla de, avugaLa padarUpagaLalla vembudE idakke kAraNavirabahudu.
 
 nAmapadagaLa vibhajanegAgi samskxta vyAkaraNa niyamagaLannu hAgeyE aLavaDisuva
 prayatna naDesidudarindAgi, haLegannaDa vyAkaraNagaLalli innondu tappu sambhaviside:
 haLegannaDada mADida, pEldi, pOda modalAda kxdantagaLu samskxtada kxta, ukta,
-gata modalAda kxdantagaLinda eraDu viSayagaLalli bhinnavAgive.
+gata modalAda kxdantagaLinda eraDu viShayagaLalli bhinnavAgive.
 
 modalaneyadAgi, samskxtadalli ivannu kriyApadakke ta emba ondu pratyayavannu
 mAtravE sErisi tayArisalAgide; Adare haLegannaDadalli ivannu kriyApadakke hindina
 samayavannu sUcisuva d‌ pratyayavannu mattu sambandhavannu sUcisuva a pratyayavannu
 
-sErisi tayArisalAgide. kESirAjanu hELida hAge (sU. 82), bhUta kAlada
+sErisi tayArisalAgide. kESirAjanu hELida hAge (sU. ೮೨), bhUta kAlada
 kriyArUpagaLinda AgamavannuLisikonDu AkhyAta pratyayavannu tegedAga I rUpagaLu
 labhisuvudilla.
 
@@ -4741,26 +4742,26 @@ kareyuvudaralli tondareyilla. Adare, haLegannaDadalli ivu nEravAgi vibhakti prat
 paDeyalAravu. yAkendare, haLegannaDadalli ivu kriyApadavannu nAmapadadondige
 sambandhisuvudakkAgi baLakeyAguva padarUpagaLu (endare, kriyApadagaLa guNarUpagaLu).
 ivakke vibhakti pratyayagaLannu sErisabEkiddalli, modalige linga-vacanagaLannu sUcisuva
-an‌, aL‌, ar‌, udu, uvu emba pratyayagaLallo 0dannu sErisi avannu nAmarUpakke
-badalAyisikoLLabEkAguttade (4.2.1 nODi).
+an‌, aL‌, ar‌, udu, uvu emba pratyayagaLallo ೦dannu sErisi avannu nAmarUpakke
+badalAyisikoLLabEkAguttade (೪.೨.೧ nODi).
 
 
 <a id="sec-6-1-4"></a>
 
-### 6.1.4 guNapadagaLu
+### ೬.೧.೪ guNapadagaLu
 
 
 samskxtadalli guNapadagaLu (guNavAcakagaLu) nEravAgi vibhakti pratyayagaLannu
-paDeyaballuvu (4.2.2 nODi). hAgAgi, avannu “linga'gaLendu kareyuvudaralli
+paDeyaballuvu (೪.೨.೨ nODi). hAgAgi, avannu “linga'gaLendu kareyuvudaralli
 tondareyilla. Adare, haLegannaDadalli guNapadagaLu vibhakti pratyayagaLondige
 barabEkiddalli, avakke modalige linga-vacana pratyayagaLannu sErisuva avaSyakateyide.
 
 sarvanAma mattu sankhyAvAcakagaLa baLakeyallU intahadE vyatyAsa haLegannaDa
-mattu samskxta bhASegaLa naDuve kANisuttade: samskxtadalli ivellavannU nAmapadavemba
+mattu samskxta bhAShegaLa naDuve kANisuttade: samskxtadalli ivellavannU nAmapadavemba
 ondE vargadalli sErisi hELalu sAdhyavide; Adare, haLegannaDadalli ivakke nAmapada
 mattu guNapadagaLemba eraDu vargagaLige sEraballa rUpagaLive. itara guNapadagaLa
 hAge, ivugaLallU guNarUpagaLige linga-vacana pratyayagaLannu sErisuvudara mUlaka
-nAmarUpagaLannu paDeyabEkAguttade (6.2 nODi).
+nAmarUpagaLannu paDeyabEkAguttade (೬.೨ nODi).
 
 I ellA sandarbhagaLallU samskxtada vyAkaraNa niyamagaLannu nEravAgi kannaDakke
 aLavaDisuva prayatnavannu naDesiruvudarindAgi haLegannaDa vayyAkaraNigaLu eDaviddAre
@@ -4769,16 +4770,16 @@ embudannu munde nODaliruvevu.
 
 <a id="sec-6-2"></a>
 
-## 6.2 kxllingagaLa svarUpa
+## ೬.೨ kxllingagaLa svarUpa
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-6-2) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-6--nature-of-nouns)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-6--nature-of-nouns) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-6-2)
 
 
-mEle (6.1.3)ralli sUcisida hAge, kriyApadagaLa nAmarUpagaLannu endare
+mEle (೬.೧.೩)ralli sUcisida hAge, kriyApadagaLa nAmarUpagaLannu endare
 vAkyagaLalli nAmapadagaLa jAgadalli baraballa kriyApadagaLa padarUpagaLannu,
 “kxllinga'gaLendu kareyalAgide. haLegannaDadalli ivu kriyApadagaLa nAmarUpagaLAgiddu,
 ivakkUkriyApadagaLa guNarUpagaLigU naDuve ondu mukhyavAda vyatyAsavide embudannu
-nAvu (6.1.3)ralli nODiruvevu.
+nAvu (೬.೧.೩)ralli nODiruvevu.
 
 kriyApadagaLa guNarUpavannu sAdhisalu avugaLondige sambandhavannu sUcisuva
 a pratyayavannu baLasabEkAguttade. idallade, I kriyArUpagaLalli hindina illavE
@@ -4795,39 +4796,39 @@ intaha kriyApadagaLa guNarUpagaLige linga-vacana pratyayagaLannu sErisidAga
 avugaLa nAmarUpa siddhi suttade. udAharaNegAgi, pampabhAratada keLagina baLakegaLannu
 gamanisabahudu:
 
-(1ka)  pOdaran‌ oDagonDu baral‌ pOdar‌.... (8.45)
+(೧ka)  pOdaran‌ oDagonDu baral‌ pOdar‌.... (೮.೪೫)
 "hOdavarannu karedukonDu baralu hOdavaru...'
 
-(1kha) pea pinguvanam muridaDasi piDidu (13.30)
+(೧kha) pea pinguvanam muridaDasi piDidu (೧೩.೩೦)
 “hindakke hOguvavanannu hindirugi hiDidu'
 
-(1ga) kUradan‌ idan‌ oDDidan‌ (3.4)
+(೧ga) kUradan‌ idan‌ oDDidan‌ (೩.೪)
 "idannu prItisadavanu oDDiddAne'
 
-(1ka)dalli pOgu kriyApadada sambandhisuva rUpavAda pOda embudakke linga-
+(೧ka)dalli pOgu kriyApadada sambandhisuva rUpavAda pOda embudakke linga-
 vacanagaLannu sUcisuva ar‌ pratyayavannu sErisida mElEnE vibhakti pratyayavannu
-(an‌ embudannu) sErisalAgide. idE rItiyalli, (1kha)dalli pingu kriyApadada
+(an‌ embudannu) sErisalAgide. idE rItiyalli, (೧kha)dalli pingu kriyApadada
 sambandhisuva rUpavAda pinguva embudakke linga-vacanagaLannu sUcisuva an‌
 pratyayavannu sErisida mElEnE an‌ pratyayavannu sErisalAgide.
 
 intaha prayOgagaLalli kriyApadada sambandhisuva rUpa(guNarUpa)kke linga-
 vacana pratyayagaLannu sErisalAguttadallade, nEravAgi kriyApadagaLige samaya pratyaya
 illavE allagaLeyuva pratyayavannu sErisi, adakke I pratyayagaLannu sErisalAguvudilla
-embudannu (1ga)dalli kANisuva baLake spaSTapaDisuttade. illi kUr‌ kriyApadakke
+embudannu (೧ga)dalli kANisuva baLake spaShTapaDisuttade. illi kUr‌ kriyApadakke
 allagaLeyuva pratyaya mattu sambandhisuva pratyayagaLeraDannU sErisiruva kUrada
 emba rUpakke linga-vacana pratyayavannu (an‌ embudannu) sErisalAgide.
 
 idu nEravAgi kriyApadakke allagaLeyuva pratyayavannu, mattu ghaTakavannu
 sUcisuva an‌ pratyayavannu sErisiruva kriyArUpakkinta bhinnavAgide embudannu
-(1gha)dalli kANabahudu.
+(೧gha)dalli kANabahudu.
 
-(1gha) A ghaTasambhavam enage kUrpudan‌ ninage kUran‌ (12.36)
-"A drONAcAryanu nannannu prItisuvaSTu ninnannu prItisalilla
+(೧gha) A ghaTasambhavam enage kUrpudan‌ ninage kUran‌ (೧೨.೩೬)
+"A drONAcAryanu nannannu prItisuvaShTu ninnannu prItisalilla
 
-(1gha)dalli bandiruva kUran‌ embudu allagaLeyuva kriyArUpa. idaralli kUr‌
+(೧gha)dalli bandiruva kUran‌ embudu allagaLeyuva kriyArUpa. idaralli kUr‌
 kriyApadakke allagaLeyuva a pratyayavannu mattu ghaTakavannu sUcisuva an‌ pratyayavannu
 
-(1ga)dalli bandiruva kUradan‌ embudu idakkinta tIra bhinnavAgiruva kxllinga
+(೧ga)dalli bandiruva kUradan‌ embudu idakkinta tIra bhinnavAgiruva kxllinga
 (nAmarUpa). adaralli kUr‌ kriyApadadondige alla gaLeyuva ad‌ pratyaya bandiddu,
 adarondige sambandhisuva a pratyayavU bandide, mattu adara anantara linga-vacana
 pratyaya an‌ bandide.
@@ -4836,22 +4837,22 @@ I allagaLeyuva ad‌ pratyaya sambandhisuva a pratyayadondige mAtra
 baruttade embudannu illi gamanisuvudu avaSya.
 
 haLegannaDada oL‌ (uL‌) kriyApadada kriyArUpagaLannu mattu kxllinga rUpagaLannu
-sAdhisuvallU I vyatyAsavannu spaSTavAgi kANabahudu. I kriyApadakke, oLan‌,
+sAdhisuvallU I vyatyAsavannu spaShTavAgi kANabahudu. I kriyApadakke, oLan‌,
 oLar‌, oLen‌, oLay‌ modalAda kriyArUpagaLiddu, ivannu oL‌ kriyApadakke
 nEravAgi AkhyAta pratyayagaLannu sErisuvudara mUlaka tayArisalAgide. I
-kriyApadadondige samaya pratyaya baruvudilla (11.5 nODi).
+kriyApadadondige samaya pratyaya baruvudilla (೧೧.೫ nODi).
 
 I kriyApadada kxllinga rUpagaLu (uLLan‌, uLLar‌, uLLaL‌ modalAdavu)
 mEle koTTiruva kriyArUpagaLinda bhinnavAgive. udAharaNegAgi, keLage koTTiruva
 pampabhAratada vAkyagaLannu gamanisabahudu:
 
-(25) makkaLenagayvar‌ oLar‌ (3.26)
+(೨5) makkaLenagayvar‌ oLar‌ (೩.೨೬)
 “nanage ayvaru makkaLiddA re”
 
-(2kha) raNarangadoL‌ uLLarella rum maDidoDam (13.83)
+(೨kha) raNarangadoL‌ uLLarella rum maDidoDam (೧೩.೮೩)
 “(uLidu) iruvavarellarU raNarangadalli satta rU'
 
-(2ka)dalli oL‌ (uL‌) kriyApadada kriyArUpa (oLar‌) bandide, mattu (2kha)dalli
+(೨ka)dalli oL‌ (uL‌) kriyApadada kriyArUpa (oLar‌) bandide, mattu (೨kha)dalli
 adE kriyApadada kxllinga rUpa (uLLar‌) bandide.
 
 I vyatyAsavannu vivarisuvudakkAgi oLan‌, oLar‌ modalAda kriyArUpagaLannu
@@ -4862,14 +4863,14 @@ sambandhisuva rUpakke linga-vacana pratyayagaLannu sErisuva mUlaka tayArisabEkAg
 
 <a id="sec-6-2-1"></a>
 
-### 6.2.1 linga-vacana pratyaya
+### ೬.೨.೧ linga-vacana pratyaya
 
 
 kxllingagaLalli kANisuva linga-vacana pratyayakkU, kriyArUpagaLalli kANisuva
 ghaTakavannu sUcisuva "AkhyAta' pratyayakkU naDuve halavu vyatyAsagaLive. haLegannaDa
 vayyAkaraNigaLu ivannu sariyAgi gamanisiruva hAge kANisuvudilla.
 
-(1) mEle sUcisida hAge, linga-vacana pratyaya kriyApadada sambandhisuva
+(೧) mEle sUcisida hAge, linga-vacana pratyaya kriyApadada sambandhisuva
 rUpada anantara baruttade; Adare, ghaTakavannu sUcisuva pratyaya nEravAgi hindina
 mattu mundina samayada pratyayagaLa anantara, illavE allagaLeyuva pratyayada
 anantara baruttade. mADuvan‌ "mADuvavanu' nAmarUpa (kxllinga) mattu mADuvan‌
@@ -4878,40 +4879,40 @@ anantara baruttade. mADuvan‌ "mADuvavanu' nAmarUpa (kxllinga) mattu mADuvan‌
 dantaha sambandhisuva a pratyayavondu modalaneyadarallide endu hELuva
 avaSyakateyide.
 
-I vyatyAsa allagaLeyuva kxllingarUpadalli bahaLa spaSTavAgi kANisuttade
+I vyatyAsa allagaLeyuva kxllingarUpadalli bahaLa spaShTavAgi kANisuttade
 embudannu nAvu mEle nODiruvevu. mADu kriyApadada allagaLeyuva rUpagaLallU
 I vyatyAsavannu kANabahudu. mADadan‌ "mADadavanu' emba allagaLeyuva nAmarUpa
 mADan‌ "mADalikkilla 'emba allagaLeyuva kriyArUpakkinta tIra bhinnavAgide.
 
-(2) linga-vacana pratyayagaLu puruSabhEdavannu sUcisuvudilla; Adare, ghaTakavannu
-sUcisuva "AkhyAta' pratyayagaLu puruSabhEdavannu sUcisuttave. udAharaNegAgi,
+(೨) linga-vacana pratyayagaLu puruShabhEdavannu sUcisuvudilla; Adare, ghaTakavannu
+sUcisuva "AkhyAta' pratyayagaLu puruShabhEdavannu sUcisuttave. udAharaNegAgi,
 keLage koTTiruva pampabhAratada baLakeyannu gamanisabahudu:
 
-(3) indu modalAgire penDirembaroL‌ kUDuvan‌ allen‌ (1.73)
+(೩) indu modalAgire penDirembaroL‌ kUDuvan‌ allen‌ (೧.೭೩)
 “(nAnu) I dina modalAgi hengasu ennuvavaralli kUDuvavanu alla'
 
-(3)nE vAkyadalli kUDuvan‌ kxllingarUpa uttamapuruSa vyaktiyannu (endare A
+(೩)nE vAkyadalli kUDuvan‌ kxllingarUpa uttamapuruSha vyaktiyannu (endare A
 vAkyada ADuganannu) sUcisuttideyAdarU, adaralli pullinga Ekavacanada an‌ pratyaya
 bandide. I vyakti hengasAdare intaha kxllingadalli aL‌ pratyayavU (An‌ kUDuvaL‌
 allen‌), mattu ADuganondige bErondu vyakti sErideyAdare (bahuvacanavAdare)
 ar‌ pratyayavU (Am‌ kUDuvar‌ allem‌) baLakeyAgabEkAguttade.
 
-madhyamapuruSa vyaktiyannu (kELuganannu) sUcisuva sandarbhadallU idE
-rItiyalli kxllingadondige baruva linga-vacana pratyaya puruSa bhEdavannu
+madhyamapuruSha vyaktiyannu (kELuganannu) sUcisuva sandarbhadallU idE
+rItiyalli kxllingadondige baruva linga-vacana pratyaya puruSha bhEdavannu
 sUcisuvudilla; adu linga-vacana bhEdavannu mAtra sUcisuttade. udAharaNegAgi,
 nIn‌ kUDuvan‌ allay‌ embudannu antaha vyakti ganDusAgiruvAga baLasalAguttade,
 mattu nIn‌ kUDuvaL‌ allay‌ embudannu hengusAgiruvAga baLasalAguttade. I
-rUpagaLu mEle koTTiruva uttama puruSa padadondige baruva rUpagaLiginta
+rUpagaLu mEle koTTiruva uttama puruSha padadondige baruva rUpagaLiginta
 bhinnavAgilla embudannu gamanisabahudu.
 
-Adare, kriyArUpagaLalli baruva AkhyAta pratyayagaLu uttama puruSa illa vE
-madhyama puruSagaLalli lingabhEdavannu sUcisuvudilla; avu puruSa mattu
-vacanabhEdagaLannu mAtra sUcisuttave. uttama puruSada vyakti hengasAdarU sariyE,
+Adare, kriyArUpagaLalli baruva AkhyAta pratyayagaLu uttama puruSha illa vE
+madhyama puruShagaLalli lingabhEdavannu sUcisuvudilla; avu puruSha mattu
+vacanabhEdagaLannu mAtra sUcisuttave. uttama puruShada vyakti hengasAdarU sariyE,
 ganDasAdarU sariyE, An‌ kUDuven‌ embudE baLakeyAguttade; adu
 bahuvacanadallideyAdare mAtra Am‌ kUDuvem‌ embudu baLakeyAguttade. madhyama
-puruSada nIn‌ kUDuvay‌ mattu nIm‌ kUDuvir‌ embavugaLu ivakkinta bhinnavAgive.
+puruShada nIn‌ kUDuvay‌ mattu nIm‌ kUDuvir‌ embavugaLu ivakkinta bhinnavAgive.
 
-(3) ghaTakavannu sUcisuva prathamapuruSa-napumsakalinga-Ekavacana pratyayakke
+(೩) ghaTakavannu sUcisuva prathamapuruSha-napumsakalinga-Ekavacana pratyayakke
 hindina samayada (bhUtakAlada) kriyArUpagaLalli udu mattu tu emba eraDu
 rUpagaLive (ikkidudu, ikkitu; Adudu, Aytu; mUDidudu, mUDitu; sandudu;
 pOytu; Adare, kxllingagaLalli linga-vacana bhEdavannu sUcisuva napumsaka-Ekavacana
@@ -4919,24 +4920,24 @@ pOytu; Adare, kxllingagaLalli linga-vacana bhEdavannu sUcisuva napumsaka-Ekavaca
 e
 
 pratyayakke kiyApadagaLa ellA rItiya nAmarUpagaLallU udu rUpa mAtra ideyalla de
-he A [ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-6-3) | [ee
+he A [ee
 
-tu rUpa iruva hAge kANisuvudilla. idannu keLage koTTiruva pampabhAratada (4ka-
+tu rUpa iruva hAge kANisuvudilla. idannu keLage koTTiruva pampabhAratada (೪ka-
 ga) vAkyagaLalli kANabahudu:
 
-(4ka) SiSuge pesaranvartham Aytu (1.128)
+(೪ka) SiSuge pesaranvartham Aytu (೧.೧೨೮)
 “SiSuvige (bhImanemba) hesaru anvarthavAyitu'
 
-(4kha) kunti mAdrigaLoL‌ pAnDurAjanA vivAha mangaLamadu
-acca riyAdudu (1.107)
+(೪kha) kunti mAdrigaLoL‌ pAnDurAjanA vivAha mangaLamadu
+acca riyAdudu (೧.೧೦೭)
 "pAnDurAja mattu kuntimAdriyara vivAha mangaLa kArya
 ASca ryakaravAyitu'
 
-(4ga) paralOka prAptanAdudanajutu (2.19va)
+(೪ga) paralOka prAptanAdudanajutu (೨.೧೯va)
 "paralOka prAptanAdudannu tiLidu'
 
-Agu kriyApadakke Aytu kriyArUpaviruvudannu (4ka) vAkyadallU, Adudu
-kriyArUpaviruvudannu (4kha) vAkyadallU kANabahudu. Adare, idakke (4ga) vAkyadalli
+Agu kriyApadakke Aytu kriyArUpaviruvudannu (೪ka) vAkyadallU, Adudu
+kriyArUpaviruvudannu (೪kha) vAkyadallU kANabahudu. Adare, idakke (೪ga) vAkyadalli
 kANisida hAge, Adudu nAmarUpa (kxllinga) mAtra iruva hAge kANuttade.
 
 I vyatyAsakkU mEle sUcisida vyatyAsavE kAraNavirabEku. heccina kriyApadagaLa
@@ -4944,15 +4945,15 @@ sambandhisuva rUpagaLU ondE rIti da embudaralli konegoLLuvuvAda kAraNa
 (ikkida, Ada, mUDida, sanda, pOda) avugaLa anantara napumsaka Ekavacanadalli udu
 pratyaya mAtra baruttade.
 
-(4) kriyArUpagaLalli ghaTakavannu sUcisuva AkhyAta pratyaya vAkyada ondu
-viSiSTavAda ghaTakavannu mAtra sUcisaballudu. vAkyadalli Aguga mAtra ideyAdare
+(೪) kriyArUpagaLalli ghaTakavannu sUcisuva AkhyAta pratyaya vAkyada ondu
+viSiShTavAda ghaTakavannu mAtra sUcisaballudu. vAkyadalli Aguga mAtra ideyAdare
 adu Agugavannu sUcisutta de, Aguga mattu mADugagaLeraDU iveyAdare mADugavannu
 sUcisuttade, mattu prEraka ideyAdare prErakavannu sUcisuttade.
 
 udAharaNegAgi, aTAdan‌ "satta' embudaralliruva an‌ pratyaya satta
 vyakti(Aguga)vannu sUcisuvudAdare, kondan‌ embudaralliruva an‌ pratyaya sAyisida
 vyakti (mADuga)nannu sUcisutta de, mattu kolisidan‌ kriyArUpadalliruva an‌ pratyaya
-sAyisuvante prErEpisida vyakti(prEraka)nannu sUcisuttade (9.3 nODi).
+sAyisuvante prErEpisida vyakti(prEraka)nannu sUcisuttade (೯.೩ nODi).
 
 Adare, kriyApadagaLa nAmarUpa(kxllinga)gaLalli baruva linga-vacana pratyaya
 vAkyada itara ghaTakagaLannU sUcisaballudu. udAharaNegAgi, mADidudu embudaralli
@@ -4960,13 +4961,13 @@ bandiruva udu linga-vacana pratyaya mADida vyakti, mADida vastu illavE mADida
 kelasa ivugaLalli yAvudannu bEkidda rU sUcisaballudu. udAharaNegAgi, pampabhAratada
 keLagina baLakegaLannu gamanisabahudu:
 
-(5ka) aTTudam bhujabaladim ettidante (9.15)
+(೫ka) aTTudam bhujabaladim ettidante (೯.೧೫)
 "muLugida (bhUmiyannu) bhujabaladinda ettida hAge'
-(5kha) ajYAtavAsa mADidudumam nenedu (12.17va)
+(೫kha) ajYAtavAsa mADidudumam nenedu (೧೨.೧೭va)
 "ajYAtavAsa mADidudannU nenedu'
 
-(5ka)dalli bandiruva udu pratyaya aT‌ kriyApada tiLisuva ghaTaneya Agugavannu
-(bhUmiyannu) sUcisuttade, Adare (5kha)dalli bandiruva adE pratyaya mADu
+(೫ka)dalli bandiruva udu pratyaya aT‌ kriyApada tiLisuva ghaTaneya Agugavannu
+(bhUmiyannu) sUcisuttade, Adare (೫kha)dalli bandiruva adE pratyaya mADu
 kriyApada tiLisuva ghaTaneyannE sUcisuttade. I vyatyAsa kriyApadagaLalli baruva
 AkhyAta pratyayagaLa baLakeyallilla.
 
@@ -4977,49 +4978,49 @@ illavE ghaTaneyannu sUcisuva nAmapadadondige baraballuvAgiddu, kxllingada
 koneyalli baruva linga-vacana pratyayagaLu I nAmapadagaLige badalAgi bandiveyendu
 hELuvudara mUlaka I vyatyAsavannu vivarisabahudu.
 
-(6ka) Atan‌ kanDa pU Atan‌ kanDudu
-(6kha) Atanan‌ kanDa puli Atanan‌ kanDudu
-(6ga) Atanan‌ kanDa kANke Atan‌ kanDudu
-(6gha) Atanan‌ kanDa peN‌ Atanan‌ kanDaL‌
+(೬ka) Atan‌ kanDa pU Atan‌ kanDudu
+(೬kha) Atanan‌ kanDa puli Atanan‌ kanDudu
+(೬ga) Atanan‌ kanDa kANke Atan‌ kanDudu
+(೬gha) Atanan‌ kanDa peN‌ Atanan‌ kanDaL‌
 
-(6ka)dalli kanDa emba sambandhisuva rUpadalliruva a pratyaya adannu pU
+(೬ka)dalli kanDa emba sambandhisuva rUpadalliruva a pratyaya adannu pU
 embudarondige (A kriyeya Agugadondige) sambandhisuttade, mattu kanDudu
 embudaralliruva udu pratyayavU hUvannu (endare Agugavannu) sUcisuttade.
 
-idakke badalu, (6kha)dalli idE kanDa embudaralli bandiruva a pratyaya adannu
+idakke badalu, (೬kha)dalli idE kanDa embudaralli bandiruva a pratyaya adannu
 puli embudarondige (A kriyeya mADugadondige) sambandhisuttade, mattu kanDudu
 embudaralliruva udu pratyayavU adE mADugavannu (endare huliyannu) sUcisuttade.
 
 
 <a id="sec-6-2-2"></a>
 
-### 6.2.2 hindina vyAkaraNagaLa samasyegaLu
+### ೬.೨.೨ hindina vyAkaraNagaLa samasyegaLu
 
 
 kriyArUpagaLalli ghaTakavannu sUcisuvudakkAgi baruva pratyaya, mattu kriyApadagaLa
 nAmarUpa(kxllinga)gaLalli linga-vacanagaLannu sUcisuvu dakkAgi baruva pratyaya -
-iveraDara naDuve mEle (6.2.1)ralli sUcisiruvantaha mukhyavAda vyatyAsagaLiruvudannu
+iveraDara naDuve mEle (೬.೨.೧)ralli sUcisiruvantaha mukhyavAda vyatyAsagaLiruvudannu
 gamanisadudarindAgi, haLegannaDa vyAkaraNavannu vivarisuva vidvAmsara prayatnagaLalli
-halavu dOSagaLannu kANabahudu.
+halavu dOShagaLannu kANabahudu.
 
-(1) venkaTAcala SAstri gaLu (1994:35) sUcisidante, kESirAjanu kxllingagaLigAgi
-koTTiruva halavu prayOgagaLalli kxllingagaLE illa (82-1, 2, 83-1, 2, 4, 5).
+(೧) venkaTAcala SAstri gaLu (೧೯೯೪:೩೫) sUcisidante, kESirAjanu kxllingagaLigAgi
+koTTiruva halavu prayOgagaLalli kxllingagaLE illa (೮೨-೧, ೨, ೮೩-೧, ೨, ೪, ೫).
 I pramyOgagaLallella kriyasArUpagaLu bandivemyallade kriyApadagaLa
 kxllinga(nAmarUpa)gaLu bandilla.
 
-udAharaNegAgi, sUtra 82ralli bhUtavatige (hindina samayakke) koTTiruva
+udAharaNegAgi, sUtra ೮೨ralli bhUtavatige (hindina samayakke) koTTiruva
 bAksinendu madanam nalidam naDe nODi cUtamam emba prayOgadalli nalidam
 
 "kuNidanu' embudu hindina kAlada ghaTaneyondannu sUcisuva kriyArUpavallade,
 A ghaTaneyannu naDesida vyakti yannu varNisuva nalidam "kuNidavanu' emba nAmarUpavalla.
-(2) allagaLeyuva kxllingagaLa baLakeyannu kESirAjanE modalAda prAcIna
+(೨) allagaLeyuva kxllingagaLa baLakeyannu kESirAjanE modalAda prAcIna
 vayyAkaraNigaLu gamanisidantilla. hAge gamanisiddare, avakkU, allagaLeyuva
 kriyArUpagaLigU naDuviruva vyatyAsa avara gamanakke baruttittu.
 
-(3) kESirAjanE modalAdavaru kriyApadagaLa sambandhisuva rUpagaLannE
-kxllingagaLendu parigaNisiddAre (SabdamaNidarpaNa, sU. 83 nODi). idu samskxtada
-vyAkaraNa niyamavannu hAgeyE kannaDakke hacci dudara phala. mEle 6.1.3ralli vivarisida
-hAge, I viSayadalli samskxta mattu haLegannaDa bhASegaLa naDuve mukhyavAda
+(೩) kESirAjanE modalAdavaru kriyApadagaLa sambandhisuva rUpagaLannE
+kxllingagaLendu parigaNisiddAre (SabdamaNidarpaNa, sU. ೮೩ nODi). idu samskxtada
+vyAkaraNa niyamavannu hAgeyE kannaDakke hacci dudara phala. mEle ೬.೧.೩ralli vivarisida
+hAge, I viShayadalli samskxta mattu haLegannaDa bhAShegaLa naDuve mukhyavAda
 vyatyAsavide:
 
 samskxtadalli vibhakti pratyayagaLannu nEravAgi kriyApadagaLa sambandhisuva rUpakke
@@ -5031,10 +5032,10 @@ Adare, haLegannaDadalli kxdantagaLu guNapadagaLu; avakke linga-vacana pratyayaga
 sErisidAga mAtra, avu nAmapadagaLa jAgadalli baLakeyAgaballuvu, mattu vibhakti
 pratyayagaLannu paDeyaballuvu.
 
-illi innondu viSayavannU gamanisuva avaSyakateyide: samskxtadalli
+illi innondu viShayavannU gamanisuva avaSyakateyide: samskxtadalli
 kxllingadondige baruva linga-vacana pratyayagaLu vibhakti pratyayagaLiginta bhinnavAduvalla;
 Adare, haLegannaDadalli iveraDu pratyayagaLU bEre bErAgive. udAharaNegAgi, keLage
-koTTiruva samskxta mattu haLegannaDa bhASegaLa kxllingagaLigiruva vibhaktirUpagaLannu
+koTTiruva samskxta mattu haLegannaDa bhAShegaLa kxllingagaLigiruva vibhaktirUpagaLannu
 hOlisi nODabahudu:
 
 samskxta haLegannaDa
@@ -5054,20 +5055,20 @@ pullinga-bahuvacanavannu sUcisuva kelasavannU bhyaH pratyayavE mADabEkAgide.
 
 nAmapadagaLa snarUpa h‌
 
-(4) madhyamapuruSa mattu uttamapuruSakriyegaLu kxllingagaLAgavu embudAgi
-kESirAjanE modalAdavaru (SabdamaNidarpaNa, sU. 83) hELiruvudU sampUrNa
+(೪) madhyamapuruSha mattu uttamapuruShakriyegaLu kxllingagaLAgavu embudAgi
+kESirAjanE modalAdavaru (SabdamaNidarpaNa, sU. ೮೩) hELiruvudU sampUrNa
 sariyalla.
 
-yAkendare, haLegannaDadalli uttamapuruSa mattu madhyamapuruSa vyaktigaLige
+yAkendare, haLegannaDadalli uttamapuruSha mattu madhyamapuruSha vyaktigaLige
 sambandhisidanteyU kxllingagaLannu baLasalu sAdhyavide (idakke udAharaNegaLannu
-mEle 6.1.3ralli koDalAgide). Adare, hIge baLasuvAga, avu linga-vacana bhEdagaLannu
-mAtra sUcisuttaveyallade puruSabhEdavannu sUcisuvudilla embudE haLegannaDadalliruva
+mEle ೬.೧.೩ralli koDalAgide). Adare, hIge baLasuvAga, avu linga-vacana bhEdagaLannu
+mAtra sUcisuttaveyallade puruShabhEdavannu sUcisuvudilla embudE haLegannaDadalliruva
 nirbandha.
 
-(5) kxllingagaLannu kriyApadagaLa sambandhisuva rUpadinda sAdhisuva
-avaSyakateyannu kiTTel‌ (1903:218) kanDukonDiddAre; Adare, sAmAnya
+(೫) kxllingagaLannu kriyApadagaLa sambandhisuva rUpadinda sAdhisuva
+avaSyakateyannu kiTTel‌ (೧೯೦೩:೨೧೮) kanDukonDiddAre; Adare, sAmAnya
 kriyArUpagaLannU avaru intaha sambandhisuva rUpagaLindalE sAdhisuva kAraNa
-(1903:137, 142), avakkU kxllingagaLigU naDuviruva vyatyAsagaLannu vivarisalu
+(೧೯೦೩:೧೩೭, ೧೪೨), avakkU kxllingagaLigU naDuviruva vyatyAsagaLannu vivarisalu
 avarigU tondareyAgide.
 
 udAharaNegAgi, napumsaka Ekavacanada itu, ittu pratyayavannu baLasi tayArisida
@@ -5075,35 +5076,35 @@ mADitu, tIDittu embantaha hindina samayada kriyArUpagaLannu itara kriyArUpagaLa
 hAge mADida, tIDida modalAda sambandisuva kriyArUpagaLinda sAdhisalu
 sAdhyavAguvudilla . hAgAgi, intaha kriyArUpagaLalli itu, ittu pratyayavannu
 sambandhisuva kriyArUpagaLige sErisuva badalu mADi, tIDi modalAda jODisuva
-kriyArUpagaLige sErisalAguttadeyendu ivaru hELabEkAgide (kiTTel‌ 1903:137
+kriyArUpagaLige sErisalAguttadeyendu ivaru hELabEkAgide (kiTTel‌ ೧೯೦೩:೧೩೭
 nODi). |
 
 idE rItiyalli, allagaLeyuva kriyArUpagaLigU allagaLeyuva kxllingagaLigU
 naDuviruva vyatyAsavannu vivarisuvudakkAgi, avaru allagaLeyuva kriyArUpagaLannu
 itara kriyArUpagaLa hAge kriyApadagaLa sambandhisuva rUpadinda sAdhisuva badalu,
-ira, kELa, mADa embantaha "kriyArtha' rUpadinda sAdhisabEkAgide (kiTTel‌ 1903:157
+ira, kELa, mADa embantaha "kriyArtha' rUpadinda sAdhisabEkAgide (kiTTel‌ ೧೯೦೩:೧೫೭
 nODi).
 
 kriyArUpagaLalli baruva AkhyAta pratyayagaLu vAkyada ondu ghaTakavannu mAtra
 sUcisaballuvu; Adare, kxllingagaLalli baruva linga-vacana pratyayagaLu itara ghaTakagaLannU
-sUcisaballuvu emba mEle (6.2.1(4)ralli) sUcisida vyatyAsavannu kriyArUpa
+sUcisaballuvu emba mEle (೬.೨.೧(೪)ralli) sUcisida vyatyAsavannu kriyArUpa
 mattu kxllingagaLeraDannU kriyApadada sambandhisuva rUpadinda sAdhisa horaTiruva
 kiTTel‌ avarige vivarisalu sAdhyavAgalikkilla.
 
-(6) Ekavacanada nAmapadagaLannu mAtravallade, bahuvacanada nAmapadagaLannU
+(೬) Ekavacanada nAmapadagaLannu mAtravallade, bahuvacanada nAmapadagaLannU
 lingagaLendu kareyabahudittallavE? (yAkendare Ekavacanada nAmapadagaLa hAge
 bahuvacanada nAmapadagaLU vibhakti pratyayagaLannu svIkarisalu samarthavAgiveyalla)
-embudAgi venkaTAcala SAstrigaLu (1994:35) praSnisiddAre.
+embudAgi venkaTAcala SAstrigaLu (೧೯೯೪:೩೫) praSnisiddAre.
 
 kESirAjanu samskxtada vyAkaraNa niyamagaLannu anusarisi, bahuvacana pratyayavannu
 
-vibhakti pratyayagaLondige baruva "Agama'gaLendu parigaNisiruvudE (sU. 105) I
+vibhakti pratyayagaLondige baruva "Agama'gaLendu parigaNisiruvudE (sU. ೧೦೫) I
 rIti bahuvacanada nAmapadagaLannu lingagaLendu parigaNisadiralu kAraNa. avana maTTige
 samskxtadalliruva hAge, haLegannaDadallU vibhakti pratyayakkinta bhinnavAda vacana pratyayavilla.
-Adare, hIge mADiruvalli haLegannaDada vaySiSTa vondannu Ata kaDegaNisiddAne.
+Adare, hIge mADiruvalli haLegannaDada vaySiShTa vondannu Ata kaDegaNisiddAne.
 
-munde 7.3.2ralli sUcisida hAge, kiTTel‌ avarU haLegannaDada I vaySiSTyavannu
-kanDukoLLuvalli eDaviddA re. grIk‌, lyATin‌ modalAda bhASegaLa vyAkaraNavannanusarisa
+munde ೭.೩.೨ralli sUcisida hAge, kiTTel‌ avarU haLegannaDada I vaySiShTyavannu
+kanDukoLLuvalli eDaviddA re. grIk‌, lyATin‌ modalAda bhAShegaLa vyAkaraNavannanusarisa
 hOgi, avaru bahuvacana pratyayavannu prathamA vibhakti pratyayavendu karediddAre;
 Adare, I pratyaya itara vibhakti rUpagaLallU yAke baruttade embudannu vivarisida
 hAgilla.
@@ -5111,25 +5112,25 @@ hAgilla.
 
 <a id="sec-6-3"></a>
 
-## 6.3 sArAmSa
+## ೬.೩ sArAmSa
 
-[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-6--nature-of-nouns)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-6--nature-of-nouns) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-6-3)
 
 
 haLegannaDadalli entaha padagaLannella nAmapadagaLendu kareyabahudu embudannu
 vivarisi hELuvalli haLegannaDada vayyAkaraNigaLu halavu rItiya gondalagaLannu
-sxSTisikonDiddAre. ivugaLalli heccinavU samskxta mattu haLegannaDa bhASegaLa naDuve
+sxShTisikonDiddAre. ivugaLalli heccinavU samskxta mattu haLegannaDa bhAShegaLa naDuve
 vyAkaraNada mUlatatvagaLallEnE kANisuvantaha vyatyAsagaLannu gamanisadudara phala
 embudannu I adhyAyadalli tOrisikoDalAgide.
 
 
 <a id="ch7"></a>
 
-# adhyAya 7 — linga mattu vacanagaLu
+# adhyAya ೭ — linga mattu vacanagaLu
 
 [↑ oLapiDige hintirugi](#toc)
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#ch7) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-7--gender-and-number)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-7--gender-and-number) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#ch7)
 
 ---
 
@@ -5139,47 +5140,47 @@ linga mattu vacanagaLu
 
 <a id="sec-7-1"></a>
 
-## 7.1 pIThike
+## ೭.೧ pIThike
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-7-1) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-7--gender-and-number)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-7--gender-and-number) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-7-1)
 
 
 nAmapadagaLannu vAkyagaLalli baLasuva vidhAnadalli haLegannaDa mattu samskxta
-bhASegaLa naDuve halavu vyatyAsagaLive. I vyatyAsagaLigU I eraDu bhASegaLu baLasuva
+bhAShegaLa naDuve halavu vyatyAsagaLive. I vyatyAsagaLigU I eraDu bhAShegaLu baLasuva
 vyAkaraNada mUlatatvagaLu bEre bEreyAgiruvudE kAraNa embudannu keLagina
-samIkSeyinda tiLiyabahudu.
+samIkSheyinda tiLiyabahudu.
 
 nAmapadagaLa baLakege sambandhisidante linga, vacana mattu vibhakti embudAgi
 mUru vyAkaraNa tatvagaLannu tiLidukoLLuva avaSyakateyide.
 
-(1) linga embudu nAmapadagaLannu hEge avugaLa baLakege sambandhisidante
+(೧) linga embudu nAmapadagaLannu hEge avugaLa baLakege sambandhisidante
 kelavu mukhya gumpugaLAgi vingaDisalu sAdhya embudannu tiLisuttade;
 
-(2) vacana embudu nAmapadagaLu sUcisuva vyakti, vastu modalAdavugaLa
-sankhyeyeSTu embudannu tiLisuttade; mattu
+(೨) vacana embudu nAmapadagaLu sUcisuva vyakti, vastu modalAdavugaLa
+sankhyeyeShTu embudannu tiLisuttade; mattu
 
-(3) vibhakti embudu vAkya sUcisuva ghaTane illavE sangatiyalli nAmapadagaLu
+(೩) vibhakti embudu vAkya sUcisuva ghaTane illavE sangatiyalli nAmapadagaLu
 sUcisuva vyakti, vastu modalAdavugaLa kAryaventahadu embudannu tiLisuttade.
 
-I mUru viSayagaLallU haLegannaDa mattu samskxta bhASegaLa naDuve halavu
+I mUru viShayagaLallU haLegannaDa mattu samskxta bhAShegaLa naDuve halavu
 vyatyAsagaLive. ivugaLalli linga mattu vacanagaLa baLakeyannu I adhyAyadallU,
 vibhaktiya baLakeyannu mundina (enTanE) adhyAyadallU vivarisalAgide.
 
 
 <a id="sec-7-2"></a>
 
-## 7.2 vibhajaneyalli vyatyAsa
+## ೭.೨ vibhajaneyalli vyatyAsa
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-7-2) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-7--gender-and-number)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-7--gender-and-number) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-7-2)
 
 
 nAmapadagaLannu eraDu athavA heccu “linga'gaLalli vingaDisi hELuva krama
-halavu bhASegaLalli baLakeyallide. avugaLa artha, avugaLondige baraballa itara
+halavu bhAShegaLalli baLakeyallide. avugaLa artha, avugaLondige baraballa itara
 padagaLa svarUpa, kriyApadadalli kANisuva rUpavyatyAsagaLu, mattu nAmapadagaLa
 jAgadalli baruva sarvanAmagaLa svarUpa modalAdavu intaha vibhajanege
 AdhAravAguttave.
 
-haLegannaDa mattu samskxta bhASegaLa naDuve nAmapadagaLa vibhajaneyalli halavu
+haLegannaDa mattu samskxta bhAShegaLa naDuve nAmapadagaLa vibhajaneyalli halavu
 mukhya vyatyAsagaLive. haLegannaDa nAmapadagaLa linga vibhajanege avugaLa arthavE
 AdhAra; Adare, samskxta nAmapadagaLa lingavibhajanege avugaLondige baraballa itara
 nAmapadagaLa svarUpa adhAravallade artha AdhAravalla.
@@ -5187,18 +5188,18 @@ nAmapadagaLa svarUpa adhAravallade artha AdhAravalla.
 
 <a id="sec-7-2-1"></a>
 
-### 7.2.1 haLegannaDada lingavibhajane
+### ೭.೨.೧ haLegannaDada lingavibhajane
 
 
-haLegannaDadalli nAmapadagaLannu pulli 0ga, stra "linga mattu napumsakalinga embudAgi
+haLegannaDadalli nAmapadagaLannu pulli ೦ga, stra "linga mattu napumsakalinga embudAgi
 mUru lingagaLalli vibhajisalAgide. I vibhajanege nAmapadagaLa arthavE mukhya
-AdhAra. manuSyarannu sUcisuva padagaLalli ganDasarannu sUcisuva padagaLu pulli 0gadallU ka
-hengasarannu sUcisuva padagaLu strIlingadallU hancikeyAguttave. uLida (manuSyarannu
+AdhAra. manuShyarannu sUcisuva padagaLalli ganDasarannu sUcisuva padagaLu pulli ೦gadallU ka
+hengasarannu sUcisuva padagaLu strIlingadallU hancikeyAguttave. uLida (manuShyarannu
 sUcisada) padagaLella napumsakalingadalli uLiyutta ve.
 
 udAharaNegAgi, ganDasarannu sUcisuva aNNan‌, arasan‌, AL‌, magan‌,
 modalAdavu pullingadallive, hengasarannu sUcisuva akkan‌, tange, arasi modalAdavu
-stra lingadallive, mattu manuSyarallada prANi, vastu, sangati modalAduvannu sUcisuva
+stra lingadallive, mattu manuShyarallada prANi, vastu, sangati modalAduvannu sUcisuva
 eTTu, maran‌, tOL‌ modalAdavu napumsakalingadallive. I nAmapadagaLondige
 baruva kriyApadagaLa svarUpa mattu avugaLa badalige baruva sarvanAmagaLa svarUpa
 I vibhajaneya mEle avalambisiruttade.
@@ -5211,7 +5212,7 @@ aNNan‌ pada obba ganDasannu sUcisuva kAraNa pullinga, mattu I kAraNakkAgi,
 adarondige baruva kriyApada an‌ pratyayadalli konegoLLutta de. akkan‌ pada obba
 hengasannu sUcisuva kAraNa sri linga, mattu I kAraNakkAgi, adarondige baruva
 kriyApada aL‌ pratyayadalli konegoLLuttade. eTTu embudu ondu prANiyannu
-(ettannu endare manuSyEtaravannu) sUcisuva kAraNa napumsaka linga, mattu I
+(ettannu endare manuShyEtaravannu) sUcisuva kAraNa napumsaka linga, mattu I
 kAraNakkAgi, adarondige baruva kriyApada udu pratyayadalli konegoLLuttade.
 
 idE rItiyalli, mEle aNNan‌ padada badalige avan‌ sarvanAmavU, akkan‌
@@ -5219,7 +5220,7 @@ padada badalige avaL‌ sarvanAmavU, mattu ellu padada badalige adu sarvanAmavU
 baLakeyAguvudakke avugaLa naDuve arthadalli kANisuva vyatyAsavE mUla kAraNa.
 
 I rIti, haLegannaDadalli pullinga mattu stra lingagaLa naDuviruva lingabhEda
-manuSyarannu sUcisuva padagaLalli mAtra kANisuttadeyallade itara padagaLalli
+manuShyarannu sUcisuva padagaLalli mAtra kANisuttadeyallade itara padagaLalli
 kANisuvudilla. udAharaNegAgi, eTTu "ettu' pada ganDu prANiyannu sUcisuvudAdarU
 pullingadalliruva badalu napumsakalingadallide (eTTu bandudu); peNNudure pada
 heNNu prANiyannu sUcisuvudAdarU strIlingadallilla, napumsakalingadallE. ide
@@ -5227,11 +5228,11 @@ heNNu prANiyannu sUcisuvudAdarU strIlingadallilla, napumsakalingadallE. ide
 
 I mElina niyamagaLige haLegannaDada barahagaLalli kelavE kelavu apavAdagaLu
 mAtra kANisikoLLuttave. intaha apavAdagaLige kelavu padagaLa baLakeyalli avu
-sUcisuva prANi illavE vastugaLige manuSyatvada ArOpa illavE manuSyarige
+sUcisuva prANi illavE vastugaLige manuShyatvada ArOpa illavE manuShyarige
 prANitvada ArOpavAgiruvudE mukhya kAraNa.
 
 udAharaNegAgi, ravi mUDidam emba baLakeyalli ravi ondu vastu vannu
-sUcisuvudAdarU, adakke manuSyatvada ArOpavAgiruvudarinda pullinga; toLtu
+sUcisuvudAdarU, adakke manuShyatvada ArOpavAgiruvudarinda pullinga; toLtu
 bandudu emba baLakeyalli toLtu obba hengusannu (illavE ganDusannu)
 sUcisuvudAdarU, tiraskArada arthadalli prANitvada ArOpavAgideyAda kAraNa,
 napumsaka linga.
@@ -5239,7 +5240,7 @@ napumsaka linga.
 
 <a id="sec-7-2-2"></a>
 
-### 7.2.2 samskxtada lingavibhajane
+### ೭.೨.೨ samskxtada lingavibhajane
 
 
 haLegannaDada hAge, samskxtadallU nAmapadagaLannu pullinga, strIlinga mattu
@@ -5256,9 +5257,9 @@ Sukla "biLi', guru "bhAra' modalAda bEre kelavu nAmapadagaLu ivugaLondige yAva
 rUpadalli baruttave embudu AdhAravallade I padagaLa artha illavE svarUpa
 adhAravalla.
 
-(1ka) SukSaH varNaH "biLi baNNa'
-(1kha) SuklA navH "biLi dONi'
-(1ga) Suklam vAsaH "biLi baTTe'
+(೧ka) SukShaH varNaH "biLi baNNa'
+(೧kha) SuklA navH "biLi dONi'
+(೧ga) Suklam vAsaH "biLi baTTe'
 
 mEle Sukla pada Sukla; SuklA, mattu Suklam emba mUru lingarUpagaLalli
 bandiddu, I kAraNakkAgi adarondige bandiruva varNa, nav mattu vAsa nAmapadagaLu
@@ -5288,17 +5289,17 @@ bandide; Adare, samskxtada as‌ kriyApada I mUru sandarbhagaLallU asti emba
 ondE rUpadalli bandide.
 
 sarvanAmagaLu mAtra samskxtadallU lingabhEdavannu sUcisuttave (keLage koTTiruva
-(2ka) nODi). haLegannaDada sarvanAmagaLalli pum-strI lingabhEda bahuvacanadalli
+(೨ka) nODi). haLegannaDada sarvanAmagaLalli pum-strI lingabhEda bahuvacanadalli
 illavAguttade; Adare, samskxtadalli dvivacana-bahuvacanagaLallU mUru vidhada
 lingabhEda (kelavu apavAdagaLannu biTTare) uLidiruttade.
 
-(2ka) samskxta:
+(೨ka) samskxta:
 
 Ekavacana dvivacana bahuvacana
 "avanu' saH tav tE
 "avaLu' sA tE tAH
 “adu' tat‌ tE tAni
-(2kha) haLegannaDa:
+(೨kha) haLegannaDa:
 Ekavacana bahuvacana
 "avanu' avan‌ avar‌
 "avaLu' avaL‌ avar‌
@@ -5316,7 +5317,7 @@ nirdharisalu heccineDegaLallU sAdhyavAgadu. I, U mattu AgaLalli konegoLLuva
 padagaLalli heccinavU sra ೇlingadalliruttave, mattu akAradalli konegoLLuva pada
 "lingavAgalAradu embantaha kelavE kelavu niyamagaLu mAtra idakke
 
-(6
+(೬
 
 apavAdagaLAgaballuvu (Adare, intaha niyamagaLigU apavAdagaLive. udAharaNegAgi,
 sEnAnI pada IkAradalli konegoLLuvudAdarU pullingadallide).
@@ -5326,14 +5327,14 @@ kANabahudu. udAharaNegAgi, samskxtada halavu nAmapadagaLige I illavE A
 pratyayagaLannu sErisuvudara mUlaka avugaLa strIlinga rUpavannu sAdhisalu sAdhyavide
 (bAla-bAlA, Siva-SivA, dEva-dEvI, ityAdi).
 
-nirjIvigaLAda vastu, viSaya modalAdavugaLannu sUcisuva padagaLallU
+nirjIvigaLAda vastu, viShaya modalAdavugaLannu sUcisuva padagaLallU
 samskxtadalli lingabhEda kANisuttade. udAharaNegAgi, pavana, pAda, vAyu modalAda
 padagaLu pullingadallive, nav, nadI, vibhakti, mati, modalAda padagaLu stra ೇlingadallive,
 mattu hxdaya, madhu, jagat‌ modalAda padagaLu napumsakalingadallive.
 
 I rIti, heccina sandarbhagaLallU samskxta padagaLa linga yAvudembudannu
 avugaLa arthadinda illavE svarUpadinda nirdharisalu sAdhyavAguvudilla. hAgAgi,
-A bhASeya arthakOSagaLalli pratiyondu nAmapadada mundeyU adara linga
+A bhASheya arthakOSagaLalli pratiyondu nAmapadada mundeyU adara linga
 yAvudembudannu sUcisuva avaSyakateyide.
 
 idallade, samskxtada nAmapadagaLannu (ka) yAvAgalU ondE lingadalli
@@ -5344,66 +5345,66 @@ lingavE AdhAravAgiruttade.
 
 hAgAgi, samskxtada arthakOSagaLalli nAmapadavondu ondE lingadalli
 baruvantahadO, illavE eraDu athavA mUru lingagaLalli baruvantahadO
-embudannU spaSTavAgi sUcisuva avaSyakateyide, mattu arthakOSagaLalli hAge
+embudannU spaShTavAgi sUcisuva avaSyakateyide, mattu arthakOSagaLalli hAge
 sUcisalAguttade. udAharaNegAgi, keLage koTTiruva nAmapadagaLannu gamanisabahudu:
 
 (ka) yAvAgalU ondE lingadalli baruva padagaLu
 
-(3ka) pullinga: pitx, tilaka, dhI, taDi "ETu', cOla "ravike', tarka, timingila,
+(೩ka) pullinga: pitx, tilaka, dhI, taDi "ETu', cOla "ravike', tarka, timingila,
 tiraskAra, Atman‌, nidhi, ityAdi.
 
-(3kha) strIlinga: mAtx, nadI, nav, SrI, lipi, nidrA, mahAnavamI, carcA,
+(೩kha) strIlinga: mAtx, nadI, nav, SrI, lipi, nidrA, mahAnavamI, carcA,
 a
 kAdambarI, ityAdi.
 
-(3ga) napumsakalinga: hxdaya, citra, tAmbUla, madhu, asmi, yakxt‌,
+(೩ga) napumsakalinga: hxdaya, citra, tAmbUla, madhu, asmi, yakxt‌,
 brahman‌, ityAdi.
 
 (kha) eraDu athavA mUru lingagaLalli baraballa padagaLu
 
-(4ka) pum-strI: tithi, vajra, kIla "kIlu', kuTa "mane', ityAdi.
+(೪ka) pum-strI: tithi, vajra, kIla "kIlu', kuTa "mane', ityAdi.
 
-(4kha) pum-napumsaka: kartx, tanDula, mOdaka, mUla, kaSAya, kirITa,
+(೪kha) pum-napumsaka: kartx, tanDula, mOdaka, mUla, kaShAya, kirITa,
 kuTumba, abhraka, ityAdi.
 
 Si
 
-(4ga) smI-napumsaka: avci pa SAla(lA), nxsEna(nA), ityAdi.
-(4gha) pum-strI-napumsaka: Suci, guru, nitya, nidrita, prakASaka, pa iP: ya,
+(೪ga) smI-napumsaka: avci pa SAla(lA), nxsEna(nA), ityAdi.
+(೪gha) pum-strI-napumsaka: Suci, guru, nitya, nidrita, prakASaka, pa iP: ya,
 
 haLegannaDadalli nAmapadagaLa lingabhEda hecci neDegaLallU avugaLa arthada mEle
-avalambisideyAda kAraNa, A bhASeya arthakOSagaLalli nAmapadagaLa lingavannu
+avalambisideyAda kAraNa, A bhASheya arthakOSagaLalli nAmapadagaLa lingavannu
 sUcisuva avaSyakateyilla. samskxtadinda eravalAgi paDeda padagaLU I niyamakke
 oLapaDuva Ke avugaLa lingavannU haLegannaDada arthakOSagaLalli tiLisabEkAgilla.
 haLegannaDa mattu samskxtagaLalli baLakeyAguva lingabhEdagaLu I rIti eraDu
 tIra bhinnavAda vyAkaraNa tatvagaLannu avalambisive.
 lingabhEdavannu sUcisuvalli haLegannaDakkU samskxtakkU naDuviruva innondu
-mukhyavAda vyatyAsavannu keLage 7.3.1ralli vivarisalAgide: samskxtadalli pum-strI-
+mukhyavAda vyatyAsavannu keLage ೭.೩.೧ralli vivarisalAgide: samskxtadalli pum-strI-
 napumsaka lingabhEda ellA vacanagaLallU kANisikoLLutta de; Adare, haLeganna Dadalli
 idu Ekavacanadalli mAtra kANisikoLLutte ca bahuvacanadalli pa pum-stri Te aLidu
-hOgi, manuSya-manuSyEtara bhEda mAtra uLidukoLLutta de.
+hOgi, manuShya-manuShyEtara bhEda mAtra uLidukoLLutta de.
 
-pa5 3 haLegannaDa vayyAkaraNigaLa samasyegaLu
+pa೫ ೩ haLegannaDa vayyAkaraNigaLa samasyegaLu
 
-haLegannaDa mattu samskxta bhASegaLu I rIti lingabhEdavannu tOrisuvalli tIra
+haLegannaDa mattu samskxta bhAShegaLu I rIti lingabhEdavannu tOrisuvalli tIra
 bhinnavAda vyAkaraNa tatvagaLannu baLasiruva kAraNa, samskxtada vayyAkaraNigaLu A
-bhASeya linga vyavasthe yakuritu hELiruvudannu hAgeyE haLegannaDakkU aLavaDisikoLLalu
+bhASheya linga vyavasthe yakuritu hELiruvudannu hAgeyE haLegannaDakkU aLavaDisikoLLalu
 sAdhyavAgadu. haLegannaDada prAcIna vayyAkaraNigaLu hIge mADalu hOgi, anavaSyakavAgi
-haLegannaDada lingabhEda bahaLa kliSTavAdudendu anisuva hAge mADiddA re.
+haLegannaDada lingabhEda bahaLa kliShTavAdudendu anisuva hAge mADiddA re.
 
 udAharaNegAgi, kESirAjanu haLegannaDadalli ombattu rItiya lingagaLiveyendu
-hELuttAne (sU. 98). nijakkU mUriruvudu ombattu hEgAguttade? idakkAgi Ata
+hELuttAne (sU. ೯೮). nijakkU mUriruvudu ombattu hEgAguttade? idakkAgi Ata
 haLegannaDa padagaLa baLakeyalli kANisuva halavu guNadharmagaLannu oTTu sErisalu
 prayatnisi doDDadondu kalasumElOgaravannE mADihAkiddAne.
 
-(1) kelavu manuSyEtara padagaLige manuSyatvavannu ArOpisalu sAdhyaviddu,
+(೧) kelavu manuShyEtara padagaLige manuShyatvavannu ArOpisalu sAdhyaviddu,
 avu napumsaka lingadalli baLakeyAguva badalu pullingadalli baLakeyAgaballuvu (ravi
 mUDidam, ravi mUDidudu; kAmaneccam, kAmam percidudu). ivannu
 "punnapumsaka'gaLendu kareyalAgide. idE rItiyalli, siri pada strIlinga mattu
 napumsakalingagaLeraDarallU baLakeyAgalu sAdhyaviddu (siriyolvaLe, siriyondAgadoDam)
 "strI napumsaka'kke udAharaNeyAgaballudu.
 
-(2) kelavu hengasarannu sUcisuva padagaLige vastutva illavE prANitvavannu
+(೨) kelavu hengasarannu sUcisuva padagaLige vastutva illavE prANitvavannu
 ArOpisalu sAdhyaviddu, avu napumsaka lingadalli baLakeyAgaballuvAgiddu,
 
 pumsakalingakke udAharaNegaLAguttave (A peN‌ jANe, A peN‌ bandudu).
@@ -5412,84 +5413,84 @@ intaha padagaLu ganDasannAgali illavE hengasannAgali sUcisuvantahavAdare, trilin
 udAharaNegaLAgaballuvu (SiSu, kUsu, page). punnapumsakakkU intaha
 udAharaNegaLiralu sAdhyavide.
 
-(3) kelavu padagaLu sandarbhakkanusAravAgi (yAva pratyayavannU sErisade),
+(೩) kelavu padagaLu sandarbhakkanusAravAgi (yAva pratyayavannU sErisade),
 ganDasannAgali illavE hengasannAgali sUcisaballuvu (ivam dEvara toTTu, idu
 dEvara tollu). ivu pumsti lingakke udAharaNegaLAguttave.
 
-(4) ivar‌, avar‌ mattu uvar‌ sarvanAmagaLu bahuvacanadalliddu pum-
+(೪) ivar‌, avar‌ mattu uvar‌ sarvanAmagaLu bahuvacanadalliddu pum-
 strI lingabhEdavannu sUcisuvudilla. I kAraNakkAgi, ivannu pumsTrIlingakke
 udAharaNegaLannAgi koDalAgide.
 
-(5) lingabhEdavannE tOrisadiruva An‌, nIn‌ mattu tAn‌ sarvanAmagaLannu
+(೫) lingabhEdavannE tOrisadiruva An‌, nIn‌ mattu tAn‌ sarvanAmagaLannu
 trilingakke udAharaNegaLannAgi koDalAgide.
 
-(6) vAcyalinga illavE viSESyAdhInalingakke koTTiruva udAharaNegaLalli
+(೬) vAcyalinga illavE viSEShyAdhInalingakke koTTiruva udAharaNegaLalli
 eraDu rItiya padagaLannu, keLage vivarisida hAge, oTTige sErisi hELalAgide:
 
 (ka) nEridan‌, nEridaL‌, nEritu, avan‌, avaL‌, iniyam, iniyaL‌
 modalAdavugaLu avugaLalli baruva lingasUcaka pratyayagaLa mUlaka
-spaSTavAgi avugaLa lingavEnembudannu sUcisuttave.
+spaShTavAgi avugaLa lingavEnembudannu sUcisuttave.
 
 (kha) An‌, nIn‌ modalAda sarvanAmagaLu, kelavu bahuvrIhi padagaLu
 (vimalamati), kelavu taddita padagaLu (OdALi) mattu sankhyegaLu
 (sAsira) I rIti pratyayagaLa mUlaka lingabhEdavannu sUcisuvudilla.
-(I eraDu rItiya nAmapadagaLannU viSESyAdhIna lingakke
+(I eraDu rItiya nAmapadagaLannU viSEShyAdhIna lingakke
 udAharaNegaLannAgi koDalAgide.)
 
-(7) bhOkane, ceccaram, mige, matte modalAduvannu avyaya lingakke
+(೭) bhOkane, ceccaram, mige, matte modalAduvannu avyaya lingakke
 udAharaNegaLannAgi koDalAgide.
 
 kESirAjanu illi halavu tappugaLannu mADiddAne. avugaLalli mukhyavAda
 kelavannu keLage sUcisalAgide.
 
-(1) pullingada kAmam pada napumsakalingada kAmam padada hAgeyE
+(೧) pullingada kAmam pada napumsakalingada kAmam padada hAgeyE
 kANisuvudarinda, kAmam padavannu punnapumsaka padavendu karediddAne; Adare, nijakkU
 avugaLalli modalaneyadu nakAradalli konegoLLutta de, mattu eraDaneyadu makAradalli
 konegoLLuttave; kESirAjanE koTTiruva ivugaLa caturthI rUpagaLu (kAmange,
-kAmakke) idannu spaSTapaDisuttave.
+kAmakke) idannu spaShTapaDisuttave.
 
-(2) avar‌, ivar‌, uvar‌ emba sarvanAmagaLa bahuvacana rUpagaLannu
+(೨) avar‌, ivar‌, uvar‌ emba sarvanAmagaLa bahuvacana rUpagaLannu
 pumsTrIlingakke udAharaNegaLannAgi koDalAgide. hAgiddare, bahuvacana rUpagaLu
 Ekavacana rUpakkinta bhinnavAda linga (nAmaprakxti)gaLE? I sarvanAmagaLu mAtravallade,
 
 guNavacana (iniyar‌), bahuvrIhi (kusikoralar‌), kxdanta (pADidar‌)
 modalAdavugaLU I rIti bahuvacanadalli pumsci € bhEdavannu kaLedukoLLuvuvAda
 kAraNa, avugaLa bahuvacana rUpagaLU Ekavacana rUpakkinta bhinnavAda linga
-(nAmaprakxti)gaLendu hELabEkE? (6.2.2.(6) nODi).
+(nAmaprakxti)gaLendu hELabEkE? (೬.೨.೨.(೬) nODi).
 
-Adare, pumsTrI lingabhEdavannu uLisikoLLuva puruSar‌, strIyar‌, penDir‌
+Adare, pumsTrI lingabhEdavannu uLisikoLLuva puruShar‌, strIyar‌, penDir‌
 modalAduvannu I rIti EkavacanarUpakkinta bhinnavAda lingagaLendu parigaNisida
 hAgilla. dEvate pada stra € lingadalli baraballudembudannu sUcisalu dEvateyar‌
 emba bahuvacana rUpavannU, napumsaka lingadalli baraballudembudannu sUcisalu
 dEvategaL‌ emba bahuvacana rUpavannU udAharaNegaLannAgi koDalAgide.
 
-(3) sarvanAmagaLAda An‌, nIn‌, tAn‌ embavannu trilingakkU
-udAharaNegaLannAgi koDalAgide, mattu vAcya (viSESyAdhIna)lingakkU
+(೩) sarvanAmagaLAda An‌, nIn‌, tAn‌ embavannu trilingakkU
+udAharaNegaLannAgi koDalAgide, mattu vAcya (viSEShyAdhIna)lingakkU
 udAharaNegaLannAgi koDalAgide. illi vAcyalingakkU trilingakkU Enu vyatyAsa
-embudu spaSTavAgilla.
+embudu spaShTavAgilla.
 
-(4) haLegannaDada maTTige vAcyalinga mattu viSESyAdhInalinga embavugaLu
-bEre bEre endu hELi mEle (6ka-kha)gaLa naDuve kANisuva vyatyAsavannu I
+(೪) haLegannaDada maTTige vAcyalinga mattu viSEShyAdhInalinga embavugaLu
+bEre bEre endu hELi mEle (೬ka-kha)gaLa naDuve kANisuva vyatyAsavannu I
 vyatyAsavendu parigaNisabahudAgittu. Adare, samskxtadalli intaha vyatyAsavilla embudE
 hIge mADadiralu kAraNavirabEku.
 
-(5) mEle (7.2.2)ralli vivarisida hAge, samskxtadalli nAmapadagaLa
+(೫) mEle (೭.೨.೨)ralli vivarisida hAge, samskxtadalli nAmapadagaLa
 lingavEnembudu hecci neDegaLallU avugaLa arthada mEle avalambisillavAda kAraNa,
 avannu mUrakkinta jAsti lingagaLalli vibhajisuva avaSyakateyide. pumsti ೇ, punnapumsaka,
 stra napumsaka, trilinga modalAda kalpanegaLu samskxta padagaLa lingavannu vivarisuvalli
 sahAyakavAgaballuvu. Adare, kannaDadalli lingabhEda padagaLa arthavannavalambisideyAda
 kAraNa, intaha kalpanegaLa avaSyakate kannaDakkilla.
 
-bahuSaH idannu gamanisiyE kESirAjanu tanna dIrphavAda lingavivakSeya koneyalli
-(sU. 101) pullinga, stra "linga mattu napumsaka lingagaLemba mUrannu biTTu uLida
+bahuSaH idannu gamanisiyE kESirAjanu tanna dIrphavAda lingavivakSheya koneyalli
+(sU. ೧೦೧) pullinga, stra "linga mattu napumsaka lingagaLemba mUrannu biTTu uLida
 Aru lingagaLu kannaDadalliddarU "parivartisuvudilla' endu hELiddAne!
 
 
 <a id="sec-7-3"></a>
 
-## 7.3 vacanada sUcane
+## ೭.೩ vacanada sUcane
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-7-3) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-7--gender-and-number)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-7--gender-and-number) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-7-3)
 
 
 nAmapadagaLu gurutisuva vyakti, vastu modalAdavugaLa sankhyeyannu
@@ -5502,44 +5503,44 @@ vacana pratyaya I rIti vyakti, vastu modalAdavugaLa sankhyeyannu bahaLa
 cuTukAgi sUcisuttade; adannE heccu vivaravAgi tiLisabEkiddalli, nAmapadagaLondige
 
 eNikeya padagaLannu baLasabahudu. udAharaNegAgi, haLegannaDada pullegaL‌ padarUpadalli
-bandiruva gaL‌ pratyaya "ondakkinta jAsti (jinkegaLu) endiSTE sUcisuttade. idakkinta
+bandiruva gaL‌ pratyaya "ondakkinta jAsti (jinkegaLu) endiShTE sUcisuttade. idakkinta
 heccina vivara bEkiddalli, eraDu pullegaL‌, aydu pullegaL‌ embantaha padakantegaLannu
 baLasabEkAguttade.
 
 
 <a id="sec-7-3-1"></a>
 
-### 7.3.1 vyatyAsagaLu
+### ೭.೩.೧ vyatyAsagaLu
 
-haLegannaDa mattu samskxta bhASegaLa naDuve vacana pratyayagaLa mUlaka vyakti,
+haLegannaDa mattu samskxta bhAShegaLa naDuve vacana pratyayagaLa mUlaka vyakti,
 vastu modalAdavugaLa sankhyeyannu sUcisuvalli kANisuva mukhyavAda kelavu
 vyatyAsagaLannu keLage koDalAgide.
-(1) haLegannaDadalli ondu mattu ondakkinta heccu embudAgi Ekavacana-
+(೧) haLegannaDadalli ondu mattu ondakkinta heccu embudAgi Ekavacana-
 bahuvacana bhEda mAtra kANisuttadeyAdare, samskxtadalli ondu, eraDu mattu
 eraDakkinta heccu embudAgi Ekavacana-dvivacana-bahuvacana bhEda kANisuttade.
 
 haLegannaDada vacana rUpagaLu
-(55) ondu pulle “ondu jinke'
-(5kha) eraDu pullegaL‌ eraDu jinkegaLu'
-(5ga) mUju pullegaL‌ "mUru jinkegaLu'
+(೫5) ondu pulle “ondu jinke'
+(೫kha) eraDu pullegaL‌ eraDu jinkegaLu'
+(೫ga) mUju pullegaL‌ "mUru jinkegaLu'
 
 samskxtada vacana rUpagaLu
 
-(6ka) EkaH pustakaH "ondu pustaka'
-(6kha) dvav pustakav "eraDu pustakagaLu'
-(6ga) trayaH pustakAH "mUru pustakagaLu'
+(೬ka) EkaH pustakaH "ondu pustaka'
+(೬kha) dvav pustakav "eraDu pustakagaLu'
+(೬ga) trayaH pustakAH "mUru pustakagaLu'
 
-haLegannaDada (5ga)dalli mAtravallade (5kha)dallU pullegaL‌ emba bahuvacana
-rUpavE bandide; Adare, samskxtada (6kha)dalli dvivacanada pustakav rUpavU, (6ga)dalli
+haLegannaDada (೫ga)dalli mAtravallade (೫kha)dallU pullegaL‌ emba bahuvacana
+rUpavE bandide; Adare, samskxtada (೬kha)dalli dvivacanada pustakav rUpavU, (೬ga)dalli
 bahuvacanada pustakAH rUpavU bandive. haLegannaDada nAmapadagaLige, samskxtada
 nAmapadagaLa hAge, bahuvacanakkinta bhinnavAda dvivacanavemba rUpavilla.
 
-(2) samskxtadalli vacana mattu vibhakti iveraDannU ondE pratyaya sUcisuttade;
+(೨) samskxtadalli vacana mattu vibhakti iveraDannU ondE pratyaya sUcisuttade;
 Adare, haLegannaDadalli iveraDannu sUcisalu bEre bEre pratyayagaLive.
 
 udAharaNegAgi, samskxtadalli nadIbhiH "nadigaLinda' padarUpadalli bandiruva
 bhiH pratyaya bahuvacana mattu txtIyA vibhakti iveraDannU sUcisuttade, mattu
-nadISu "nadigaLalli' padarUpadalli bandiruva Su pratyaya bahuvacana mattu saptamI
+nadIShu "nadigaLalli' padarUpadalli bandiruva Shu pratyaya bahuvacana mattu saptamI
 vibhakti iveraDannU sUcisuttade.
 kannaDada nadigaLinda mattu nadigaLalli emba nAmapadarUpagaLalli kANisuva
 
@@ -5548,8 +5549,8 @@ inda mattu alli vibhakti pratyayagaLannu gaLu vacana pratyayadinda pratyEkisalu 
 
 dam ₹ೌ
 
-hAge, samskxtada nadIbhiH mattu nadISu nAmapadarUpagaLalli kANisuva bhiH mattu
-Su pratyayagaLalli vibhakti pratyayagaLannu vacana pratyayadinda pratyEkisalu sAdhyavAgadu.
+hAge, samskxtada nadIbhiH mattu nadIShu nAmapadarUpagaLalli kANisuva bhiH mattu
+Shu pratyayagaLalli vibhakti pratyayagaLannu vacana pratyayadinda pratyEkisalu sAdhyavAgadu.
 
 hosagannaDada hAge, haLegannaDadallU vacana mattu vibhakti pratyayagaLu bEre
 bErAgive. udAharaNegAgi, arasarim padarUpadalli ar‌ pratyaya bahuvacanavannu
@@ -5557,8 +5558,8 @@ sUcisuttade, mattu adakkinta bhinnavAgiruva im pratyaya txtIyA vibhaktiyannu
 sUcisuttade. idE rItiyalli, arasarge padarUpadalli adE ar‌ pratyaya bahuvacanavannu
 sUcisuttade, mattu adakkinta bhinnavAgiruva ge pratyaya caturthi vibhaktiyannu sUcisutta de.
 
-(3) samskxtadalli dvivacana mattu bahuvacanagaLannu mAtravalla de, Ekavacanavannu
-sUcisuvudakkAgiyU nAmapadagaLondige pratyayagaLannu baLasalAgutta de. A bhASeyalli
+(೩) samskxtadalli dvivacana mattu bahuvacanagaLannu mAtravalla de, Ekavacanavannu
+sUcisuvudakkAgiyU nAmapadagaLondige pratyayagaLannu baLasalAgutta de. A bhASheyalli
 vacana mattu vibhaktigaLeraDannU ondE pratyaya sUcisuttiruvudE idakke kAraNa.
 
 udAharaNegAgi, girA "mAtininda' emba nAmapadarUpadalli gir‌ nAmapadakke
@@ -5568,18 +5569,18 @@ vibhaktigaLannu sUcisuva bhiH (bhis‌) pratyayakkU naDuve rUpadalli yAva sAmyav
 illa. hAgAgi, ivugaLalli vacana pratyayavannu vibhakti pratyayagaLinda bErpaDisalu
 sAdhyavAgadu.
 
-haLegannaDadalli bahuvacanavannu sUcisuvudakkAgi ondu viSiSTavAda pratyayavide;
+haLegannaDadalli bahuvacanavannu sUcisuvudakkAgi ondu viSiShTavAda pratyayavide;
 Adare, Ekavacanavannu sUcisuvudakkAgi pratyayavilla. nAmapadavannu hAgeyE
 baLasidAgalella Ekavacanada artha baruttade. haLegannaDadalli vacana mattu vibhaktigaLannu
 bEre bEre pratyayagaLa mUlaka sUcisuttiruvudE I rIti eraDu vacanagaLalli
 ondannu pratyayada sahAyavilladeyE sUcisalu sAdhyavAguttiruvudakke kAraNa.
 
 navilin‌ mattu navillaLin‌ emba txtIyA vibhakti rUpagaLannu mEle koTTiruva
-samskxta padagaLa rUpagaLondige hOlisi nODidAga I viSaya spaSTavAguttade.
+samskxta padagaLa rUpagaLondige hOlisi nODidAga I viShaya spaShTavAguttade.
 navilin‌ embudaralli in‌ vibhakti pratyayavide, Adare vacana pratyayavilla. navillaLin‌
 embudaralli in‌ vibhakti pratyaya mAtravallade gaL‌ vacana pratyayavU ide.
 
-(4) haLegannaDadalli kelavu nAmapadagaLondige linga-vacanagaLannu sUcisuvudakkAgi
+(೪) haLegannaDadalli kelavu nAmapadagaLondige linga-vacanagaLannu sUcisuvudakkAgi
 pratyayavondannu sErisalAguttade; magan‌, aNNan‌, orvan‌ modalAda intaha
 padarUpagaLu mAtra mElina niyamakke apavAdagaLAgiruttave. yAkendare, I
 padarUpagaLalli baLakeyAguva pratyayagaLu vacana mattu lingagaLeraDannU
@@ -5595,18 +5596,18 @@ sUcisuttade, mattu ge pratyaya vibhaktiyannu sUcisuttade; idE rItiyalli, baDavaL
 embudaralli aL‌ pratyaya stra linga mattu EkavacanagaLannu sUcisuttade, mattu ge
 pratyaya vibhaktiyannu sUcisuttade.
 
-(5) haLegannaDadalli lingabhEdavannu sUcisuva pratyayagaLiruva padagaLu
+(೫) haLegannaDadalli lingabhEdavannu sUcisuva pratyayagaLiruva padagaLu
 bahuvacanadalli pum-stri € bhEdavannu sUcisuvudilla. baDavan‌ mattu baDavaL‌
 embaveraDakkU bahuvacanadalli baDavar‌ emba ondE rUpavide. ivu bahuvacanadalli
-manuSya-manuSyEtara bhEdavannaSTE sUcisaballuvu.
+manuShya-manuShyEtara bhEdavannaShTE sUcisaballuvu.
 
 itara nAmapadagaLa baLakeyallU bahuvacanadalli pum-sTrI bhEda
 sUcitavAguvudillavendu hELalu sAdhyavide. yAkendare, avugaLondige baruva
 kriyArUpagaLallAgali, illavE avugaLa badalige baruva sarvanAmagaLallAgali pum-
 strI bhEda kANisuvudilla.
 
-(7ka) muni bandan‌ munigaL‌ bandar‌
-(7kha) tAy‌ bandaL‌ tAyga L‌ bandar‌
+(೭ka) muni bandan‌ munigaL‌ bandar‌
+(೭kha) tAy‌ bandaL‌ tAyga L‌ bandar‌
 
 Adare, samskxtada lingabhEda I rIti nAmapadada vacanabhEdada mEle
 avalambitavAgiruvudilla. udAharaNegAgi, kAnta pada pullinga-Ekavacanadalli kAntaH
@@ -5614,7 +5615,7 @@ emba rUpadallU, strI €linga-Ekavacanadalli kAntA emba rUpadallU baruttiddu,
 dvivacanadalli kAntav (pullinga) mattu kAntE (stri linga) embudAgi rUpabhEdavannu
 tOrisuttade.
 
-(6) Adare, keLage 8.3ralli vivarisiruva hAge, samskxtada nAmapadagaLalli
+(೬) Adare, keLage ೮.೩ralli vivarisiruva hAge, samskxtada nAmapadagaLalli
 kANisuva vibhakti-vacanarUpagaLu halaveDegaLalli vyatyAsagaLannu tOrisadiruttave.
 udAharaNegAgi, pati padakke txtIyA-caturthi-pancamigaLalli patibhyAm emba ondE
 dvivacanada rUpavide. intaha rUpasAmya vibhaktigaLa naDuve mAtravalla de linga mattu
@@ -5629,17 +5630,17 @@ baruva vibhakti-vacana pratyaya bhyAm emba ondE rUpadallide.
 samskxtadalli intaha rUpasAmyagaLannu mEle koTTiruva sAmAnya niyamakke
 apavAdagaLendu parigaNisalu sAdhyavide; Adare, haLegannaDadalli pum-sTrI lingabhEda
 bahuvacanadallilladiruvudu adara vyAkaraNa niyamadallEnE kANisuva ondu
-vaySiSTyavallade apavAdavalla.
+vaySiShTyavallade apavAdavalla.
 
-(7) vacanavannu sUcisuva pratyayagaLa baLakeyalli haLegannaDa mattu samskxta
+(೭) vacanavannu sUcisuva pratyayagaLa baLakeyalli haLegannaDa mattu samskxta
 
-bhASegaLa naDuviruva innondu mukhyavAda vyatyAsavEnendare, napumsakalingadalliruva
-ondu nAmapada sUcisuva vastu, viSaya modalAdavugaLa sankhyeyannu adarondige
+bhAShegaLa naDuviruva innondu mukhyavAda vyatyAsavEnendare, napumsakalingadalliruva
+ondu nAmapada sUcisuva vastu, viShaya modalAdavugaLa sankhyeyannu adarondige
 bandiruva eNikeya pada sUcisuttideyAdare, A nAmapadadondige haLegannaDadalli
 vacana pratyayavannu baLasadiralU sAdhyavide. udAharaNegAgi, pampabhAratada keLagina
 vAkyagaLannu gamanisabahudu:
 
-(Aka) eraDu agamam iLipantAdudu
+(೮ka) eraDu agamam iLipantAdudu
 "eraDu beTTagaLannu iLisidantAyitu'
 
 (Akha) padinenTu dharmaSAstrangaLoLam nAlku vEdadoLam AangadoLam
@@ -5648,62 +5649,62 @@ aydu teada mantrangaLoLam Ajum darSanadoLam....
 angagaLallimSU, aydu rItimya mantragaLallimyU, Aru
 darSanagaLalliyU...
 
-(8ka)dalli beTTada sankhyeyannu eraDu emba eNikeya pada sUcisuva kAraNa, aga
+(೮ka)dalli beTTada sankhyeyannu eraDu emba eNikeya pada sUcisuva kAraNa, aga
 "beTTa' padadondige bahuvacana pratyaya baLakeyAgilla.
 
 I rIti, napumsaka lingadalli vacana pratyayavannu baLasadeyU irabahudu,
-illavE bEkiddalli baLasalU sAdhya emba viSaya mEle (Akha)dalli innaSTu spa STavAgide.
+illavE bEkiddalli baLasalU sAdhya emba viShaya mEle (Akha)dalli innaShTu spa ShTavAgide.
 alli koTTiruva aydu nAmapadagaLondigU eNikeya padagaLannu baLasalAgide, mattu
 I kAraNakkAgi, vEda, anga mattu darSana padagaLondige bahuvacana pratyayavannu
 baLasilla; Adare dharmaSAstra mattu mantra padagaLondige eNikeya pada mAtravallade
 vacana pratyayavU bandide.
 
 samskxtadalli vacana mattu vibhaktigaLeraDannU ondE pratyaya sUcisuvudAda
-kAraNa (7.3.1 (2) nODi), A bhASeyalli I rIti nAmapadagaLondige vacana
+kAraNa (೭.೩.೧ (೨) nODi), A bhASheyalli I rIti nAmapadagaLondige vacana
 pratyayavannu baLasadiralu sAdhyavAgadu. avugaLondige eNikeya padagaLu bandiddarU
 baradiddarU avugaLa koneyalli baruva vibhakti pratyaya sariyAda vacanadallE irabEku.
 idallade, samskxtadalli eNikeya padagaLU nAmapadagaLAgiddu, avu sUcisuva
 vacanavannu A padagaLa koneyalli baruva vibhakti pratyayagaLa mUlakavU
 sUcisabEkAguttade.
 
-(9ka) EkaH vxkcaH apatat‌
+(೯ka) EkaH vxkcaH apatat‌
 "ondu mara bittu'
 
-(9kha) dvav vxkSe apatatAm
+(೯kha) dvav vxkShe apatatAm
 "eraDu maragaLu bidduvu'
 
-(9ga) trINi vxkSAni apatan‌
+(೯ga) trINi vxkShAni apatan‌
 "mUru maragaLu bidduvu'
 
-(9ka-ga) vAkyagaLalli vxkSa pada mAtravallade, adarondige bandiruva eNikeya
+(೯ka-ga) vAkyagaLalli vxkSha pada mAtravallade, adarondige bandiruva eNikeya
 padagaLU A padada vacanavannu sUcisuttive.
 
 
 <a id="sec-7-3-2"></a>
 
-### 7.3.2 haLegannaDa vayyAkaraNigaLa samasyegaLu
+### ೭.೩.೨ haLegannaDa vayyAkaraNigaLa samasyegaLu
 
 
 kESirAjanE modalAda prAcIna vidvAmsaru samskxtada hAge haLegannaDadallU
 mUru vacanagaLiveyendu hELiruvudu samskxtada vyAkaraNa niyamavannu kannaDakke
 hAgeyE anvayisuva prayatnavallade bErEnalla. nijakkU dvivacanavannu sUcisalu
 haLegannaDadalli bahuvacanada pratyayakkinta bhinnavAda bEre pratyayavilla. idannu gamanisiyU
-(kESirAja sU. 105 nODi) I vidvAmsaru haLegannaDada mEle dvivacanavannu
+(kESirAja sU. ೧೦೫ nODi) I vidvAmsaru haLegannaDada mEle dvivacanavannu
 hEralu prayatnisiddAre. dvivacanakke udAharaNegaLAgi kESirAjanu koDuva
-bhImArjunar‌, rAmalakSmaNar‌ modalAda baLakegaLallU bahuvacanada ar‌ pratyayavE
+bhImArjunar‌, rAmalakShmaNar‌ modalAda baLakegaLallU bahuvacanada ar‌ pratyayavE
 kANisuttade.
 
 samskxtadalli vacana mattu vibhaktigaLeraDannU ondE pratyaya sUcisuttideyAda
 kAraNa, adakke kriyApada mattu nAmapadagaLa naDuvina sambandhavannu sUcisadiruvantaha
-"prathamA' vibhakti pratyayada avaSyakateyide (8.2 nODi). Adare, haLegannaDadalli
+"prathamA' vibhakti pratyayada avaSyakateyide (೮.೨ nODi). Adare, haLegannaDadalli
 vacana mattu vibhaktigaLannu bEre bEre pratyayagaLu sUcisuttiveyAda kAraNa, adakke
 I avaSyakateyilla. hIgiddarU, haLegannaDada prAcIna vayyAkaraNigaLu prathameyannu
-sxSTisi adakkondu pratyayavannu odagisikoDuva prayatna naDesiddAre.
+sxShTisi adakkondu pratyayavannu odagisikoDuva prayatna naDesiddAre.
 
 udAharaNegAgi, kESirAjana matadante, am embudaralli konegoLLuva
 padagaLannella akAradalli konegoLLuva prakxti(linga)gaLendu parigaNisabEku, mattu
 avugaLa koneyalli baruva sonneyannu prathamA vibhakti pratyayavendu parigaNisabEku
-(sU. 103).
+(sU. ೧೦೩).
 
 samskxtadalli akAradalli konegoLLuva kAnta, Siva, dEva, aSva modalAda
 nAmapadagaLige Ekavacanadalli kANisuva visargavannu prathamA vibhakti yendu kareyalAgide.
@@ -5726,33 +5727,33 @@ akkanan‌, maram-maranan‌, paLLam-paLLamam).
 "prathamA vibhaktiyallU I padagaLa anantara "mattu' embarthavannu koDuva
 (mattu svaradalli suruvAguva) um pratyaya sEridAga, sonneya badalu nakAra
 illavE makAra kANisikoLLuttade (arasam-arasanum, akkam-akkanum, paLLam-paLLamum)
-embudarinda I nakAra mattu makAragaLu sonnege sambandhisiduvemba viSaya
-spaSTavAguttade.
+embudarinda I nakAra mattu makAragaLu sonnege sambandhisiduvemba viShaya
+spaShTavAguttade.
 
-kiTTel‌ (1903:41) avara abhiprAyadante maram, aNNam modalAdavugaLa
+kiTTel‌ (೧೯೦೩:೪೧) avara abhiprAyadante maram, aNNam modalAdavugaLa
 koneyalli baruva sonne (illavE n‌ athavA m‌) embudannu mAtravallade, eTTu,
-kUsu modalAdavugaLa koneyalli baruva ukAra (kiTTel‌ 1903:58), puli, karaDi
-modalAdavugaLa koneyalli baruva ikAra (kiTTel‌ 1903:67) ityAdigaLannU
+kUsu modalAdavugaLa koneyalli baruva ukAra (kiTTel‌ ೧೯೦೩:೫೮), puli, karaDi
+modalAdavugaLa koneyalli baruva ikAra (kiTTel‌ ೧೯೦೩:೬೭) ityAdigaLannU
 prathamA vibhakti pratyayavendu parigaNisalu sAdhyavide. idE rItiyalli, I nAmapadagaLa
 bahuvacana rUpadalli avugaLa jAgadalli (athavA avugaLa anantara) baruva gaL‌,
-0gaL‌, ar‌ modalAduvannU prathamA vibhakti pratyayavendu parigaNisalu sAdhyavide
-(kiTTel‌ 1903:51).
+೦gaL‌, ar‌ modalAduvannU prathamA vibhakti pratyayavendu parigaNisalu sAdhyavide
+(kiTTel‌ ೧೯೦೩:೫೧).
 
 kiTTelara I abhiprAyakke bahuSaH samskxtada sambandhigaLAda lyATin‌, grIk‌
-modalAda bhASegaLalli baLakeyalliruva vyAkaraNa tatva kAraNavirabahudu. I bhASegaLallU
+modalAda bhAShegaLalli baLakeyalliruva vyAkaraNa tatva kAraNavirabahudu. I bhAShegaLallU
 samskxtada hAge vibhakti mattu vacanagaLeraDannU ondE pratyaya sUcisuttade.
-udAharaNegAgi, keLage koTTiruva lyATin‌ bhASeya vir‌ "manuSya' mattu dOnum‌
+udAharaNegAgi, keLage koTTiruva lyATin‌ bhASheya vir‌ "manuShya' mattu dOnum‌
 “dAna, koDuge' padagaLige dvitIyA mattu caturthI vibhaktigaLalliruva padarUpagaLannu
 gamanisabahudu:
 
 Ekavacana bahuvacana
-virum‌ "manuSyanannu' virOs‌ manuSyarannu'
-virO "manuSyanige' virIs‌ "manuSyarige'
+virum‌ "manuShyanannu' virOs‌ manuShyarannu'
+virO "manuShyanige' virIs‌ "manuShyarige'
 
 dOnum‌ "dAnavannu' dOna "dAnagaLannu'
 dOnO "dAnakke' dOnIs‌ “dAnagaLige'
 
-vir‌ "manuSya' padada anantara Ekavacanadalli baruva dvitIyA vibhaktiya
+vir‌ "manuShya' padada anantara Ekavacanadalli baruva dvitIyA vibhaktiya
 um‌ pratyayakkU, bahuvacanadalli baruva adE vibhaktiya Os‌ pratyayakkU naDuve
 yAva sAmyavU illa. hAgAgi, I padarUpagaLalli vibhakti pratyayavannu vacana
 pratyayadinda pratyEkisalu sAdhyavAgadu. mEle koTTiruva itara padarUpagaLallU
@@ -5769,9 +5770,9 @@ pratyayagaLannu baLasuva vidhAna baLakeyallide.
 
 <a id="sec-7-4"></a>
 
-## 7.4 sArAmSa
+## ೭.೪ sArAmSa
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-7-4) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-7--gender-and-number)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-7--gender-and-number) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-7-4)
 
 
 haLegannaDa nAmapadagaLa lingabhEda nEravAgi avugaLa arthada mEle avalambiside.
@@ -5787,18 +5788,18 @@ mAtra baLasidare sAku. Adare, samskxtadalli vibhakti-vacana pratyayagaLannu ellA
 sandarbhagaLallU (avaSyaviruvallU mattu illadallU) nAmapadagaLannu baLasuvAgalella
 baLasabEkAguttade.
 
-haLegannaDa mattu samskxta bhASegaLa naDuve linga mattu vacanagaLannu sUcisuvalli
+haLegannaDa mattu samskxta bhAShegaLa naDuve linga mattu vacanagaLannu sUcisuvalli
 kanDubaruva I mUlabhUtavAda vyatyAsagaLannu gamanisadudarindAgi, haLegannaDada
 vayyAkaraNigaLu anavaSyakavAgi halavAru gondalagaLigeDeyAgiddAre.
 
 
 <a id="ch8"></a>
 
-# adhyAya 8 — vibhaktigaLu mattu kArakagaLu
+# adhyAya ೮ — vibhaktigaLu mattu kArakagaLu
 
 [↑ oLapiDige hintirugi](#toc)
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#ch8) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-8--case-suffixes-and-semantic-roles)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-8--case-suffixes-and-semantic-roles) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#ch8)
 
 ---
 
@@ -5808,9 +5809,9 @@ vibhaktigaLu mattu kArakagaLu
 
 <a id="sec-8-1"></a>
 
-## 8.1 pIThike
+## ೮.೧ pIThike
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-8-1) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-8--case-suffixes-and-semantic-roles)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-8--case-suffixes-and-semantic-roles) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-8-1)
 
 ondu vAkyavu tiLisuva ghaTane illavE sangatiyalli nAmapadagaLu sUcisuva
 vyakti, vastu modalAdavugaLu yAva rItiyalli toDagikonDive embudannu A
@@ -5818,31 +5819,31 @@ vyakti, vastu modalAdavugaLu yAva rItiyalli toDagikonDive embudannu A
 nAmapadagaLondige baruva vibhakti pratyayagaLu sUcisuttave. udAharaNegAgi, keLage
 koTTiruva haLegannaDa vAkyagaLannu pariSIlisabahudu:
 
-(1ka) arasan‌ pArvange turugaLan‌ koTTan‌
+(೧ka) arasan‌ pArvange turugaLan‌ koTTan‌
 "rAja brAhmaNanige danagaLannu koTTa'
-(1kha) aragina maneyoL‌ pAnDavar‌ aLgidar‌
+(೧kha) aragina maneyoL‌ pAnDavar‌ aLgidar‌
 "pAnDavaru aragina maneyalli nASavAdaru'
-(1ka) vAkyadalli pArvam padada anantara bandiruva ge vibhakti pratyaya A vAkyavu
+(೧ka) vAkyadalli pArvam padada anantara bandiruva ge vibhakti pratyaya A vAkyavu
 tiLisuva koDuvike emba ghaTaneyalli brAhmaNanu (pArvam) arasanu koTTudannu
 paDeyuvavanembudannU, turugaL‌ padada anantara bandiruva an‌ vibhakti pratyaya A
 ghaTaneyalli danagaLu (turugaL‌) arasanu koTTa vastugaLendU tiLisuttave.
-idE rItiyalli, (1kha) vAkyada aragina mane padakanteya koneyalli bandiruva
+idE rItiyalli, (೧kha) vAkyada aragina mane padakanteya koneyalli bandiruva
 oL‌ pratyaya pAnDavaru nASavAgiruvarennalAda ghaTaneya jAga aragina mane embudannu
 sUcisuttade.
-intaha vibhakti pratyayagaLa baLakeyalli, haLegannaDa mattu samskxta bhASegaLa
+intaha vibhakti pratyayagaLa baLakeyalli, haLegannaDa mattu samskxta bhAShegaLa
 naDuve halavu mukhyavAda vyatyAsagaLive. ivugaLalli kelavannu keLage koDalAgide:
 
 
 <a id="sec-8-2"></a>
 
-## 8.2 vibhakti pratyayavannu baLasadiruvudu
+## ೮.೨ vibhakti pratyayavannu baLasadiruvudu
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-8-2) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-8--case-suffixes-and-semantic-roles)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-8--case-suffixes-and-semantic-roles) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-8-2)
 
 
-mEle (7.3.1)ralli sUcisida hAge, samskxtadalli vibhakti pratyayagaLu
+mEle (೭.೩.೧)ralli sUcisida hAge, samskxtadalli vibhakti pratyayagaLu
 vibhaktibhEdavannu mAtravallade vacanabhEdavannU sUcisuttave. udAharaNegAgi, samskxtada
-gOSu "danagaLalli' padarUpadalliruva Su pratyaya saptamI vibhaktiyannu mAtravallade
+gOShu "danagaLalli' padarUpadalliruva Shu pratyaya saptamI vibhaktiyannu mAtravallade
 bahuvacanavannU sUcisuttade.
 
 hAgAgi, vibhaktiyannu sUcisuva avaSyakateyilladantaha sandarbhagaLallU
@@ -5850,11 +5851,11 @@ hAgAgi, vibhaktiyannu sUcisuva avaSyakateyilladantaha sandarbhagaLallU
 samskxtadalli vibhakti pratyayavannu baLasabEkAguttade. idakke kAraNavEnendare, intaha
 
 sandarbhagaLallU vacanavannu sUcisabEkAguttade, mattu idakke vibhakti pratyayagaLannu
-baLasuvudallade bEre dAriyilla (keLage koTTiruva (3ka-kha) vAkyagaLannu nODi).
+baLasuvudallade bEre dAriyilla (keLage koTTiruva (೩ka-kha) vAkyagaLannu nODi).
 
 idarindAgi, vAkyadalli yAva nAmapadavannu baLasuvudiddarU adakke
 yAvudAdarU ondu vibhakti pratyayavannu sErisiyE baLasabEkemba niyamavannu A
-bhASeya (samskxtada) vyAkaraNadalli racisabEkAgide.
+bhASheya (samskxtada) vyAkaraNadalli racisabEkAgide.
 
 Adare, haLegannaDadalli vibhakti pratyayagaLu vacana pratyayakkinta bhinnavAgiddu
 vibhakti bhEdavannu mAtra sUcisuttave. udAharaNegAgi, haLegannaDada mugilla Lin‌
@@ -5863,24 +5864,24 @@ anantara baruva in‌ pratyaya sUcisuttade. samskxtada hAge iveraDannU ondE
 pratyaya sUcisuva badalu, bEre bEre pratyayagaLu sUcisuttave.
 
 I rIti, haLegannaDadalli vibhakti mattu vacanagaLannu sUcisuvudakkAgi bEre bEre
-pratyayagaLiruva kAraNa, vacana pratyayada hAge (7.3.1 nODi) vibhakti pratyayavannU
+pratyayagaLiruva kAraNa, vacana pratyayada hAge (೭.೩.೧ nODi) vibhakti pratyayavannU
 avaSyaviddalli mAtra baLasuva sAdhyate haLegannaDadalli de. nAmapada mattu kriyApadagaLa
-naDuviruva sambandha entahadu emba viSaya spaSTavAgiruva sandarbhagaLalli vibhakti
+naDuviruva sambandha entahadu emba viShaya spaShTavAgiruva sandarbhagaLalli vibhakti
 pratyayavannu baLasadeyE iralU haLegannaDadalli sAdhya; Adare, samskxtadalli idu
 asAdhya.
 
 udAharaNegAgi, haLegannaDada vAkyavondaralli kriyApadadondige ondu nAmapada
 mAtra bandideyAdare, adakkU kriyApadakkU naDuve entaha sambandhavideyembudu
-A kriyApadada svarUpadindalE spaSTavAgaballudu, mattu intaha sandarbhagaLalli A
+A kriyApadada svarUpadindalE spaShTavAgaballudu, mattu intaha sandarbhagaLalli A
 nAmapadadondige vibhakti pratyayavannu baLasadiralu sAdhyavide.
 
-(2ka) nallaL‌ nasunakkaL‌
-(2kha) makkaL‌ pADidar‌
-(2ga) arasan‌ bandan‌
+(೨ka) nallaL‌ nasunakkaL‌
+(೨kha) makkaL‌ pADidar‌
+(೨ga) arasan‌ bandan‌
 
-(2ka-ga) vAkyagaLalli ondondE nAmapada bandiddu, avakkU kriyApadakkU
-naDuviruva sambandhavEnembudannu tiLiyuvalli yAva samasyeyU illa. (2ka)dalli
-nakkavaLu nallaLu, (2kha)dalli hADidavaru makkaLu, mattu (2ga)dalli bandavanu arasanu
+(೨ka-ga) vAkyagaLalli ondondE nAmapada bandiddu, avakkU kriyApadakkU
+naDuviruva sambandhavEnembudannu tiLiyuvalli yAva samasyeyU illa. (೨ka)dalli
+nakkavaLu nallaLu, (೨kha)dalli hADidavaru makkaLu, mattu (೨ga)dalli bandavanu arasanu
 embudAgi I sambandhavannu yAva pratyayada sahAyavU illa de tiLidukoLLalu
 baruttade. hAgAgi, I nAmapadagaLondige yAva vibhakti pratyayavannU baLasadiralu
 haLegannaDadalli sAdhyavAgide.
@@ -5892,15 +5893,15 @@ kAraNa, antaha sandarbhagaLalli samskxtada nAmapadagaLondige "prathamA vibhakti'
 pratyayavannu baLasabEkAguttade. I pratyayakke nAmapadagaLa vacanavannu tiLisuva kelasa
 mAtra ide.
 
-(3ka) nadyaH sravanti
+(೩ka) nadyaH sravanti
 "nadigaLu hariyuttave'
 
-(3kha) mANavakaH gacchati
+(೩kha) mANavakaH gacchati
 "huDuga hOguttAne”
 
-(3ka)dalli nadigU hariyuvikegU naDuve entaha sambandhavide embudannu tiLisuva
-avaSyakateyilla; hariyuva kriyeyannu nadi naDesuttade embudu illi spaSTavAgide.
-(samskxtada vayyAkaraNigaLa abhiprAyadante I viSayavannu kriyApadada koneyalli
+(೩ka)dalli nadigU hariyuvikegU naDuve entaha sambandhavide embudannu tiLisuva
+avaSyakateyilla; hariyuva kriyeyannu nadi naDesuttade embudu illi spaShTavAgide.
+(samskxtada vayyAkaraNigaLa abhiprAyadante I viShayavannu kriyApadada koneyalli
 baruva tij‌ pratyayavE tiLisuttade).
 
 hIgiddarU, illi halavu nadigaLu I kriyeyannu naDesuttave embudAgi
@@ -5908,31 +5909,31 @@ bahuvacanavannu sUcisuva avaSyakateyideyAda kAraNa, mattu samskxtadalli vacana
 mattu vibhaktigaLannu ondE pratyaya sUcisuttideyAda kAraNa, nadI padada anantara
 aH (as‌) prathamA bahuvacana pratyayavannu baLasabEkAgide.
 
-idE rItiyalli, (3kha)dalli hOguvavanu huDuga emba viSaya
-spaSTavAgideyAdarU, Ata obbanE embudannu sUcisabEkAgideyAda kAraNa, mANavaka
+idE rItiyalli, (೩kha)dalli hOguvavanu huDuga emba viShaya
+spaShTavAgideyAdarU, Ata obbanE embudannu sUcisabEkAgideyAda kAraNa, mANavaka
 padada anantara : (s‌) prathamA Ekavacana pratyayavannu baLasabEkAgide.
 
 kriyApadadondige eraDu nAmapadagaLu bandiruvAgalU A nAmapadagaLalli
-ondu vyakti illavE prANiyannu sUcisuttiddu, innondu vastu illavE viSayavannu
+ondu vyakti illavE prANiyannu sUcisuttiddu, innondu vastu illavE viShayavannu
 sUcisuttideyAdare, antaha sandarbhadallU haLegannaDadalli nAmapada mattu kriyApadagaLa
 naDuvina sambandhavEnu embudannu vibhakti pratyayagaLa mUlaka tiLisuva avaSyakate
 illa. yAkendare, antaha sandarbhagaLalli kriyApadavu sUcisuvantaha ghaTaneyannu
 naDesuva kelasavannu vyakti illavE prANi mAtra mADalu sAdhyavallade vastu illavE
-viSaya mADalu sAdhyavilla i
+viShaya mADalu sAdhyavilla i
 
 hAgAgi, antaha sandarbhagaLalli ghaTaneyinda bAdhitavAguva vyakti illa vE
 vastuvannu sUcisuva an‌ pratyayavannu baLasadiralu baruttade. udAharaNegAgi, keLage
 koTTiruva pampabhAratada baLakegaLannu gamanisabahudu:
 
-(4ka) Atana baravinge baddhavaNam bAjipante (2.12va)
+(೪ka) Atana baravinge baddhavaNam bAjipante (೨.೧೨va)
 "Atana baruvikege mangaLa vAdyavannu bArisuva hAge'
 
-(4kha) manamikkiyum erdeyikkiyum‌ kiDuvar‌ (2.28va)
+(೪kha) manamikkiyum erdeyikkiyum‌ kiDuvar‌ (೨.೨೮va)
 "utsAhaSUnyarAgiyU adhayryarAgiyU keTTuhOguttAre'
 
-(4ka)dalli baddhavaNa padadondige adakkU kriyApadakkU naDuviruva sambandhavannu
+(೪ka)dalli baddhavaNa padadondige adakkU kriyApadakkU naDuviruva sambandhavannu
 sUcisuvudakkAgi barabEkAgidda an‌ pratyayada baLakeyAgilla. idE rItiyalli,
-(4kha)dalli manam mattu erde padagaLondigU an‌ pratyaya bandilla.
+(೪kha)dalli manam mattu erde padagaLondigU an‌ pratyaya bandilla.
 
 Adare, samskxtadalli I rIti nAmapadadondige dvitIyA vibhaktiyannu baLasadiralu
 sAdhyavAgadu. adu vibhaktiyondige vacanavannU sUcisuttiruvudE idakke kAraNa.
@@ -5940,102 +5941,102 @@ sAdhyavAgadu. adu vibhaktiyondige vacanavannU sUcisuttiruvudE idakke kAraNa.
 
 <a id="sec-8-3"></a>
 
-## 8.3 vibhakti pratyayagaLa sankhye
+## ೮.೩ vibhakti pratyayagaLa sankhye
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-8-3) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-8--case-suffixes-and-semantic-roles)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-8--case-suffixes-and-semantic-roles) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-8-3)
 
 
 haLegannaDadalli nAmapadagaLondige baLasalu oTTu nAlku vibhakti pratyayagaLu
 mAtra baLakeyallive.
 
-(1) ghaTaneyondarinda bAdhitavAguva vyakti, vastu modalAduvannu
+(೧) ghaTaneyondarinda bAdhitavAguva vyakti, vastu modalAduvannu
 sUcisuvudakkAgi baLakeyAguva an‌ (am) pratyaya ivugaLalli modalaneyadu.
 
-(5ka) A tapOvxddhar‌ kAnteyan‌ santaysidar‌
+(೫ka) A tapOvxddhar‌ kAnteyan‌ santaysidar‌
 "A tapOvxddharu kAnteyannu santaysidaru'
 
-(5kha) mum poDevem kULam baTuyam poDevem rakkasanan‌
+(೫kha) mum poDevem kULam baTuyam poDevem rakkasanan‌
 "modalu annavannu hoDeyuttEne (tinnuttEne), anantara rAkTasana
 hoDeyuttEne'
 
 ge
 
-(5ka)dalli santaysuva ghaTaneyinda bAdhitavAguva kAnteyannu mattu (5kha)dalli
-hoDeyuva (tinnuva) ghaTaneyinda bAdhitavAguva annavannu (mattu rAkSasanannu)
+(೫ka)dalli santaysuva ghaTaneyinda bAdhitavAguva kAnteyannu mattu (೫kha)dalli
+hoDeyuva (tinnuva) ghaTaneyinda bAdhitavAguva annavannu (mattu rAkShasanannu)
 sUcisuvudakkAgi an‌ pratyayada baLakeyAgide.
 
-(2) ghaTaneya jAgavannu sUcisuva oL‌ pratyaya eraDaneyadu. idara baLakeyannu
+(೨) ghaTaneya jAgavannu sUcisuva oL‌ pratyaya eraDaneyadu. idara baLakeyannu
 keLagina vAkyagaLalli kANabahudu.
 
-(6ka) aragina maneyoL‌ pAnDavar‌ uridu alludar‌
+(೬ka) aragina maneyoL‌ pAnDavar‌ uridu alludar‌
 “aragina maneyalli pAnDavaru uridu nASavAdaru'
 
-(6kha) `aDaviyoL‌ ennuman‌ enna SiSugaLuman‌ irisi...
+(೬kha) `aDaviyoL‌ ennuman‌ enna SiSugaLuman‌ irisi...
 "kADinalli nannannU nanna SiSugaLannU irisi'
 
-(6ka)dalli pAnDavaru uridu nASavAgiruva jAgavannu sUcisuvudakkAgi mane
-padadondige oL‌ pratyaya bandide; mattu (6kha)dalli kunti tannannU tanna makkaLannU
+(೬ka)dalli pAnDavaru uridu nASavAgiruva jAgavannu sUcisuvudakkAgi mane
+padadondige oL‌ pratyaya bandide; mattu (೬kha)dalli kunti tannannU tanna makkaLannU
 irisiruva jAgavannu sUcisuvudakkAgi aDavi padadondige oL‌ pratyaya bandide.
 
-(3) ondu kriyApada tiLisuva ghaTane yAvudAdarU ondu rItiya calaneyannu
+(೩) ondu kriyApada tiLisuva ghaTane yAvudAdarU ondu rItiya calaneyannu
 oLagonDideyAdare, antaha kriyApadadondige A calaneya suru mattu konegaLannu
 sUcisuvudakkAgi in‌ mattu ge emba innU eraDu pratyayagaLu baraballuvu; ivu
-calanege sambandhisidantaha eraDu rItiya viSiSTavAda jAgagaLannu sUcisuttave. ivu
+calanege sambandhisidantaha eraDu rItiya viSiShTavAda jAgagaLannu sUcisuttave. ivu
 haLegannaDada mUru mattu nAlkaneya vibhakti pratyayagaLu.
 
-(7ka) tApasASramadim poramaTTu
+(೭ka) tApasASramadim poramaTTu
 "tApasASramadinda horaTu'
 
-(7kha) dhxtarASTra karNa Sakuni prabhxtigaL‌ nija nivAsangaLge pOdar‌
-"dhxtarASTra, karNa, Sakuni modalAdavaru tamma manegaLige hOdaru'
+(೭kha) dhxtarAShTra karNa Sakuni prabhxtigaL‌ nija nivAsangaLge pOdar‌
+"dhxtarAShTra, karNa, Sakuni modalAdavaru tamma manegaLige hOdaru'
 J)
 
-(7ka)dalli horaDuva ghaTane ellinda suruvAgideyembudannu sUcisalu tApasASrama
-padadondige im pratyaya bandide, mattu (7kha)dalli hOguva ghaTane elli
+(೭ka)dalli horaDuva ghaTane ellinda suruvAgideyembudannu sUcisalu tApasASrama
+padadondige im pratyaya bandide, mattu (೭kha)dalli hOguva ghaTane elli
 konegoLLutta de embudannu sUcisuvudakkAgi nivAsangaL‌ embudarondige ge pratyaya
 bandide.
 
 samskxtadalli baLakeyAguva vibhakti pratyayagaLa sankhye idakkinta jAsti. mEle
-(8.2)ralli sUcisiruva prathamA vibhakti mAtravalla de, nAmapadagaLigU kriyApadagaLigU
+(೮.೨)ralli sUcisiruva prathamA vibhakti mAtravalla de, nAmapadagaLigU kriyApadagaLigU
 naDuviruva sambandhagaLannu sUcisaballa dvitIyA, txtIyA, caturthI, pancamI,
-SaSThI mattu saptamI embudAgi hesarisalAgiruva innU Aru vibhaktigaLu samskxtadallive.
+ShaShThI mattu saptamI embudAgi hesarisalAgiruva innU Aru vibhaktigaLu samskxtadallive.
 
-(Aka) danDapAlaH cOram karSati
+(೮ka) danDapAlaH cOram karShati
 "kAvalugAranu kaLLanannu eLeyuttA ne'
 (Akha) vxtram indrO vajrENa ahan‌
 "indranu vxtranannu vajrAyudhadinda konda'
-(Aga) brAhmaNEbhyO niSkAn‌ dadav
+(Aga) brAhmaNEbhyO niShkAn‌ dadav
 "brAhmaNarige cinnada nANyagaLannu koTTa'
 (Agha) dhAvatO aSvAt‌ patati
 “ODuttiruva kudureyinda bILuttAne'
-(8ja) mAtuH smarati
+(೮ja) mAtuH smarati
 "tAyannu neneyuttAne'
 (Aca) kasmimScid‌ vanE bhAsurakO nAma simhaH prativasati sma
 "yAvudO ondu kADinalli bhAsurakanemba simha vAsisuttittu'
-(Aka)dalli eLeyuva kriyeyinda bAdhitanAgiruva vyaktiyannu dvitIyA vibhaktiya
-mUlakavU, (8kha)dalli kolluva ghaTaneyalli baLasida Ayudhavannu txtIyA vibhaktiya
+(೮ka)dalli eLeyuva kriyeyinda bAdhitanAgiruva vyaktiyannu dvitIyA vibhaktiya
+mUlakavU, (೮kha)dalli kolluva ghaTaneyalli baLasida Ayudhavannu txtIyA vibhaktiya
 mUlakavU, (Agudalli koTTa vastuvannu paDeda vyaktiyannu caturthI vibhaktiya
-mUlakavU, (8gha) dalli biddudellinda embudannu pancamI vibhaktiya mUlakavU,
-(Aja) dalli nenedudu yArannu embudannu SaSThI vibhaktiya mUlakavU, mattu
-(A8ca)dalli vAsisiruva jAgavannu saptamI vibhaktiya mUlakavU sUcisalAgide.
+mUlakavU, (೮gha) dalli biddudellinda embudannu pancamI vibhaktiya mUlakavU,
+(Aja) dalli nenedudu yArannu embudannu ShaShThI vibhaktiya mUlakavU, mattu
+(A೮ca)dalli vAsisiruva jAgavannu saptamI vibhaktiya mUlakavU sUcisalAgide.
 samskxtadalli vibhakti pratyayagaLu I rIti nAmapadakkUkriyApadakkU naDuviruva
 sambandhagaLannu mAtravallade, vacanabhEdavannU sUcisabEkAgideyAda kAraNa, mEle
 sUcisida pratiyondu vibhaktiyallU Ekavacana, dvivacana mattu bahuvacanagaLannu
 sUcisaballa mUru mUru pratyayagaLive.
 
-(9ka) kaTam karOti
+(೯ka) kaTam karOti
 
 "cApeyannu mADuttAne'
-(9kha) kaTav karOti
+(೯kha) kaTav karOti
 
 "(eraDu) cApegaLannu mADuttAne'
-(9ga) kaTAn‌ karOti
+(೯ga) kaTAn‌ karOti
 
 "(halavu) cApegaLannu mADuttAne'
 
-(1ka)dalli kaTa “cApe' padadondige dvitIyA vibhakti mattu Ekavacana iveraDannU
-oTTAgi sUcisalu 0 pratyaya bandide. (1kha)dalli dvitIyA vibhakti mattu dvivacanagaLannu
-sUcisalu av pratyaya bandide mattu (1ga)dalli adE dvitIyA vibhakti mattu
+(೧ka)dalli kaTa “cApe' padadondige dvitIyA vibhakti mattu Ekavacana iveraDannU
+oTTAgi sUcisalu ೦ pratyaya bandide. (೧kha)dalli dvitIyA vibhakti mattu dvivacanagaLannu
+sUcisalu av pratyaya bandide mattu (೧ga)dalli adE dvitIyA vibhakti mattu
 bahuvacanagaLannu sUcisalu an‌ pratyaya bandide.
 
 Adare, heccina nAmapadagaLallU I ippattondu vibhakti mattu vacanagaLa
@@ -6050,26 +6051,26 @@ samskxtada vibhaktigaLannu prathamA, dvitIyA, txtIyA ityAdiyAgi hesarisalu
 mukhya kAraNavEnendare, hIge hesarisuva mUlaka avugaLalli yAva vibhakti-vacana
 pratyayagaLige ondalla ondu nAmapadadondige bandAga samAna rUpagaLu
 kANisikoLLutta ve embudannu tiLisuva kelasa sulabhavAgutta de. bEre yAva anukramadalli
-avannu hesarisidarU I kelasa aSTu sulabhavAgadu (viTni 1888:89 nODi).
+avannu hesarisidarU I kelasa aShTu sulabhavAgadu (viTni ೧೮೮೮:೮೯ nODi).
 
 
 <a id="sec-8-4"></a>
 
-## 8.4 vibhakti pratyayagaLa artha
+## ೮.೪ vibhakti pratyayagaLa artha
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-8-4) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-8--case-suffixes-and-semantic-roles)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-8--case-suffixes-and-semantic-roles) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-8-4)
 
 
 nAmapada mattu kriyApadagaLa naDuviruva sambandhagaLannu haLegannaDa mattu
-samskxta bhASegaLu bEre bEre rItiyalli vingaDisiruvudE avugaLalli baLakeyAguva
+samskxta bhAShegaLu bEre bEre rItiyalli vingaDisiruvudE avugaLalli baLakeyAguva
 vibhakti pratyayagaLa sankhyeyalli, mEle sUcisida hAge, vyatyAsa kANisalu mukhya
 kAraNa. (samskxtadalli vibhakti pratyayagaLa mUlaka vacanavannU sUcisuttiruvudu
-(8.3 nODi) innondu kAraNa).
+(೮.೩ nODi) innondu kAraNa).
 
 
 <a id="sec-8-4-1"></a>
 
-### 8.4.1 haLegannaDada vibhaktigaLu
+### ೮.೪.೧ haLegannaDada vibhaktigaLu
 
 
 haLegannaDadalli nAmapada mattu kriyApadagaLa naDuviruva sambandhagaLannu mADuga,
@@ -6077,9 +6078,9 @@ Aguga mattu jAga embudAgi mUru mukhya gumpugaLalli vingaDisalAguttadeyendu
 hELabahudu. ondu ghaTaneyannu naDesuva vyakti illavE prANi mADuga, adarinda
 
 bAdhitavAguva vyakti, prANi illavE vastu Aguga mattu ghaTane naDeyuvudu elli
-embudannu sUcisuvudu jAga (bhaT‌ 2004:35 nODi).
+embudannu sUcisuvudu jAga (bhaT‌ ೨೦೦೪:೩೫ nODi).
 
-mEle (8.2)ralli vivarisida hAge, I mUru rItiya sambandhagaLalli eraDannu
+mEle (೮.೨)ralli vivarisida hAge, I mUru rItiya sambandhagaLalli eraDannu
 mAtra sUcisi, mUraneyadannu sUcisade biDalu sAdhyavideyAda kAraNa, Agugavannu
 sUcisuva an‌ mattu jAgavannu sUcisuva oL‌ embudAgi haLegannaDakke eraDu
 vibhakti pratyayagaLa avaSyakate mAtra ide.
@@ -6107,7 +6108,7 @@ ATada ATadoL‌ ATadin‌ ATakke ATaman‌
 adalu adaatoL‌ adajAn‌ adarke adan‌
 ettaNa daDa ettaNin‌ jA dada
 
-mElina kOSTakadalli kANisida hAge, oL‌, in‌, mattu ge pratyayagaLu
+mElina kOShTakadalli kANisida hAge, oL‌, in‌, mattu ge pratyayagaLu
 sEridAga kelavu nAmapadagaLa munde in‌, d‌, aj‌, mattu aN‌ emba AgamagaLu
 baruttave, mattu sambandhisuva a pratyaya sEridAgalU ivE AgamagaLu baruttave.
 Adare, an‌ pratyaya sEridAga I AgamagaLu baruvudilla. I AgamagaLu cAritrikavAgi
@@ -6116,14 +6117,14 @@ rUpakkEnE oL‌, in‌, mattu ge pratyayagaLu sEruttaveyendu hELalu sAdhyavide.
 
 mEle sUcisiruva Aguga, jAga, suru, mattu kone emba sambandhagaLu I
 vibhakti pratyayagaLa mukhya arthagaLu. I arthagaLalli mAtravallade halavu vistxta
-arthagaLallU avannu baLasalu sAdhyaviddu (8.5 nODi), idarindAgi I nAlku vibhakti
+arthagaLallU avannu baLasalu sAdhyaviddu (೮.೫ nODi), idarindAgi I nAlku vibhakti
 pratyayagaLa mUlaka haLegannaDadalli nAmapada mattu kriyApadagaLa naDuve kANisuva
 ellA bageya sambandhagaLannU sUcisalu sAdhyavAguttade.
 
 
 <a id="sec-8-4-2"></a>
 
-### 8.4.2 samskxtada vibhaktigaLu
+### ೮.೪.೨ samskxtada vibhaktigaLu
 
 
 samskxtadalli nAmapada mattu kriyApadagaLa naDuviruva sambandhagaLannu
@@ -6137,14 +6138,14 @@ naDuvina sambandhagaLannu Aru mukhya gumpugaLalli vingaDisuttave. ivugaLallondan
 (kartavannu) kriyApadavE sUcisalu sAdhyavideyAda kAraNa, adannu sUcisalu bEre
 vibhakti pratyayada avaSyakateyilla.
 
-hIgiddarU, mEle (8.2)ralli vivarisida hAge, samskxtadalli vibhakti pratyayavu
-vacanavannU sUcisabEkAguvudAda kAraNa, intaha sandarbhagaLalli baLasalu A bhASege
+hIgiddarU, mEle (೮.೨)ralli vivarisida hAge, samskxtadalli vibhakti pratyayavu
+vacanavannU sUcisabEkAguvudAda kAraNa, intaha sandarbhagaLalli baLasalu A bhAShege
 'prathamA' emba ondu vibhakti pratyayada avaSyakateyide.
 
-samskxtada SaSThI vibhakti eraDu nAmapadagaLa naDuviruva sambandhavannu (paSOH
+samskxtada ShaShThI vibhakti eraDu nAmapadagaLa naDuviruva sambandhavannu (paSOH
 pAdaH "prANiya kAlu') sUcisuvudallade, nAmapada mattu kriyApadagaLa naDuviruva
-sambandhagaLannU sUcisaballudu (8.7.4 nODi). hAgAgi, samskxta vyAkaraNagaLalli
-SaSThI pratyayavannU ondu vibhakti pratyayavembudAgi parigaNisalAgide.
+sambandhagaLannU sUcisaballudu (೮.೭.೪ nODi). hAgAgi, samskxta vyAkaraNagaLalli
+ShaShThI pratyayavannU ondu vibhakti pratyayavembudAgi parigaNisalAgide.
 
 haLegannaDada a pratyaya (madanana pUgaNe) idakkinta tIra bhinnavAgiddu, adu
 eraDu nAmapadagaLa naDuviruva sambandhavannu mAtra sUcisaballudu; samskxtada
@@ -6153,103 +6154,103 @@ hAgAgi, haLegannaDa vyAkaraNadalli adannu vibhakti pratyayavendu kareyalu yAva
 AdhAravU illa.
 
 idallade, haLegannaDada nAmapadagaLigiruva I a pratyaya sErida rUpagaLu
-guNapadagaLa jAgadalli baraballuvAda kAraNa, halavu viSayagaLalli avu vibhakti
-rUpagaLiginta bhinnavAgive (8.7.4 nODi).
+guNapadagaLa jAgadalli baraballuvAda kAraNa, halavu viShayagaLalli avu vibhakti
+rUpagaLiginta bhinnavAgive (೮.೭.೪ nODi).
 
 samskxtada dvitIyA vibhakti pratyaya ghaTaneyinda bhAdhitavAdudannu (karmavannu)
 mAtravallade calaneya koneyannU sUcisaballudu. caturthI vibhaktiyannU I
 arthadalli baLasalu sAdhyaviddarU, avugaLa naDuve vyatyAsavide:
 
-(10ka) grAmAya gacchati
+(೧೦ka) grAmAya gacchati
 "manege hOguttAne'
 
-(10kha) grAmam gacchati
+(೧೦kha) grAmam gacchati
 "manege hOguttAne'
 
 mElina eraDu vAkyagaLigU "manege hOguttAne' emba ondE arthavide; Adare,
-(10ka)dalli caturthI vibhaktiya baLakeyAgiddu, adu hOguvikeya uddESavannu
+(೧೦ka)dalli caturthI vibhaktiya baLakeyAgiddu, adu hOguvikeya uddESavannu
 
-mAtra sUcisuttade; mattu (10kha)dalli dvitIyeya baLakeyAgiddu, adu A uddESa
+mAtra sUcisuttade; mattu (೧೦kha)dalli dvitIyeya baLakeyAgiddu, adu A uddESa
 siddhisideyembudannU sUcisuttade.
 
 I rIti, calaneya mUlaka ondu jAgavannu talapalAgide embarthaviruvalli
 (uddESada siddhi yAgiruvalli) dvitIyeyannu baLasalu sAdhyavideyalla de caturthiyannu
-baLasalu sAdhyavAgadu (tArAporevAlA 1967:40 nODi).
+baLasalu sAdhyavAgadu (tArAporevAlA ೧೯೬೭:೪೦ nODi).
 
 caturthige idakkintalU, ondu ghaTaneyannu yArigAgi naDesalAgide embudannu
 sUcisuva arthavE heccu mukhyavAdudu. hAgAgi, adu sAmAnyavAgi sampradAna
-kArakavannu sUcisuttade. keLage koTTiruva (11)nE vAkyadalli danavannu paDeyuva
+kArakavannu sUcisuttade. keLage koTTiruva (೧೧)nE vAkyadalli danavannu paDeyuva
 vyaktiyannu sUcisuva upAdhyAya pada caturthiyalli bandide.
 
-(11) SiSyaH upAdhyAyAya gAm dadAti
-“SiSyanu upAdhyAyanige danavannu koDuttA ne
+(೧೧) SiShyaH upAdhyAyAya gAm dadAti
+“SiShyanu upAdhyAyanige danavannu koDuttA ne
 
-sahayOgArthavE txtIyA vibhaktiya mukhya artha (tArAporevAlA 1967).
-keLage koTTiruva (12ka) vAkyadalli I baLakeyannu kANabahudu. ghaTaneyondannu
+sahayOgArthavE txtIyA vibhaktiya mukhya artha (tArAporevAlA ೧೯೬೭).
+keLage koTTiruva (೧೨ka) vAkyadalli I baLakeyannu kANabahudu. ghaTaneyondannu
 naDesuvalli sAdhanavAgi baLakeyAguva karaNavU I rIti mADugana sahayOgiyAgiruva
-kAraNa, adannU txtIyA vibhakti sUcisaballudu embudannu (12kha)dalli kANisalAgide.
+kAraNa, adannU txtIyA vibhakti sUcisaballudu embudannu (೧೨kha)dalli kANisalAgide.
 
-(125) dEvO dEvEbhirAgamat‌
+(೧೨5) dEvO dEvEbhirAgamat‌
 “dEvanu dEvategaLondige banda'
-(12kha) rAmaH kASThayH Odanam pacati
+(೧೨kha) rAmaH kAShThayH Odanam pacati
 “rAmanu kaTTigeyannu baLasi annavannu bEyisuttA ne'
 
-idakke viruddhavAda viyOgArtha pancamI vibhaktigide. keLage koTTiruva (13ka-
+idakke viruddhavAda viyOgArtha pancamI vibhaktigide. keLage koTTiruva (೧೩ka-
 kha) vAkyagaLalli ondu jAgavannu biTTu hOguva I arthadindalE calaneya suru
 emba arthavU I pratyayakke baruttade.
 
-(13ka) vihagaH AkASAt‌ apatat‌
+(೧೩ka) vihagaH AkASAt‌ apatat‌
 "hakki AkASadinda (keLage) bittu'
-(13kha) muniH parvatAdavarOhati
+(೧೩kha) muniH parvatAdavarOhati
 "muniyu pavartadinda iLiyuttAne'
 
 samskxtada saptamI vibhakti ondu ghaTaneya jAgavannu mAtravallade, calaneya
-koneyannU sUcisaballudu. udAharaNegAgi, keLage (14ka)dalli bEyuva ghaTaneya
-jAgavAgiruva sthAlI "pAtre' embudannu saptamiyallirisalAgide, mattu (14kha)dalli
+koneyannU sUcisaballudu. udAharaNegAgi, keLage (೧೪ka)dalli bEyuva ghaTaneya
+jAgavAgiruva sthAlI "pAtre' embudannu saptamiyallirisalAgide, mattu (೧೪kha)dalli
 bILuva ghaTaneya koneyAgiruva caraNa "kAlu' padavannU saptamiyallirisalAgide.
 
-(14ka) Odanam sthAlyAm pacati
+(೧೪ka) Odanam sthAlyAm pacati
 “anna pAtreyalli bEyuttade'
-(14kha) caraNayOH nipEtatuH
+(೧೪kha) caraNayOH nipEtatuH
 “(avaribbaru Atana) kAlugaLige biddaru'
 
 
 <a id="sec-8-5"></a>
 
-## 8.5 vistxta baLakegaLu
+## ೮.೫ vistxta baLakegaLu
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-8-5) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-8--case-suffixes-and-semantic-roles)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-8--case-suffixes-and-semantic-roles) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-8-5)
 
 
 haLegannaDa vibhakti pratyayagaLa baLakegU samskxta vibhakti pratyayagaLa baLakegU
 naDuviruva ondu mukhyavAda vyatyAsavEnendare, mEle sUcisida hAge, haLegannaDada
-vibhakti pratyayagaLige spaSTavAda arthagaLannu koDalu sAdhyavide; avakke kelavu vistxta
+vibhakti pratyayagaLige spaShTavAda arthagaLannu koDalu sAdhyavide; avakke kelavu vistxta
 baLakegaLiruvudu nijavAdarU intaha baLakegaLalli kANisuva arthagaLalli heccinavannU
 avugaLa mUla arthadindalEnE sAdhisalu sAdhyavide.
 
 udAharaNegAgi, haLegannaDada ge pratyayakke calaneya koneyannu sUcisuva
-mUlArtha (7kha nODi) mAtravallade, bEre halavu vistxta baLakegaLU ive. Adare,
+mUlArtha (೭kha nODi) mAtravallade, bEre halavu vistxta baLakegaLU ive. Adare,
 I ellA vistxta baLakegaLannU A mUlArthadindalEnE sAdhisalu sAdhyavide.
 
-(15ka) avarge nakula sahadEvarendu pesaraniTTu
+(೧೫ka) avarge nakula sahadEvarendu pesaraniTTu
 “avarige nakula sahadEvarendu hesaranniTTu'
-(15kha) drONam gaDamiSuvidyege jANam gaDa
+(೧೫kha) drONam gaDamiShuvidyege jANam gaDa
 "drONanallave! bANavidyeyalli jANanallave!'
-(15ga) ennarasange ennadaTuman‌ tOkhuvem
+(೧೫ga) ennarasange ennadaTuman‌ tOkhuvem
 "nanna parAkramavannu nanna svAmige tOrisuttEne'
-(15gha) noLavinge kuppe varam
-"noNakke kasavE SrESThavAdudu'
+(೧೫gha) noLavinge kuppe varam
+"noNakke kasavE SrEShThavAdudu'
 
-(15ka)dalli yArige hesarannirisalAgideyO A vyaktigaLannu sUcisuva avar‌ padadondige
+(೧೫ka)dalli yArige hesarannirisalAgideyO A vyaktigaLannu sUcisuva avar‌ padadondige
 ge pratyaya bandide. illi hesarina “calane' yAgilla diddarU, koDuvikeya arthavideyAda
 kAraNa, idannu calaneya koneyemba arthakke sambandhisidudendu hELalu sAdhyavide.
-(15kha)dalli jANanAgiruva guNadharmakkiruva vyAptiyannu iSuvidye tiLisuvudAda
+(೧೫kha)dalli jANanAgiruva guNadharmakkiruva vyAptiyannu iShuvidye tiLisuvudAda
 kAraNa, adu calaneya koneyemba arthakke sambandhisidudendu hELabahudu. ge
 pratyayakkiruva itara baLakegaLannU, idE rItiyalli, calaneya kone emba mUlArthada
 bEre bEre vistxta baLakegaLendu parigaNisalu sAdhyavide.
 
 Adare, samskxtada vibhakti pratyayagaLige I rIti avugaLa ellA baLakegaLigU
-sarihonduvante arthavannu hELuvudu bahaLa kaSTa. idakke mukhya kAraNavEnendare,
+sarihonduvante arthavannu hELuvudu bahaLa kaShTa. idakke mukhya kAraNavEnendare,
 samskxtada kriyApadagaLondige halavu upasargagaLu baralu sAdhyaviddu, ivannanusarisi,
 nAmapadagaLondige bEre bEre vibhakti prattayagaLu barabEkAguttade. intaha baLakegaLige
 
@@ -6261,35 +6262,35 @@ kAlada samskxtadalli I upasargagaLu tamma modalina arthagaLannu bahaLa maTTige
 kaLedukonDiveyAda kAraNa, I AdhAra illavAgide.
 udAharaNegAgi keLagina vAkyagaLannu gamanisabahudu.
 
-(16ka) parvatE AstE
+(೧೬ka) parvatE AstE
 "guDDadalli kuLitiddAne”
 
-(16kha) parvatam adhyAstE
+(೧೬kha) parvatam adhyAstE
 "guDDadalli kuLitiddAne”
 
-kuLitukonDiruva jAgavannu sUcisuvudakkAgi (16ka)dalli saptamiyannu
-baLasalAgide, mattu (16kha)dalli dvitIyeyannu baLasalAgide; (16kha)dalli
+kuLitukonDiruva jAgavannu sUcisuvudakkAgi (೧೬ka)dalli saptamiyannu
+baLasalAgide, mattu (೧೬kha)dalli dvitIyeyannu baLasalAgide; (೧೬kha)dalli
 kriyApadadondige adhi upa sa. baLuku. I rIti saptamiya badalu
 dvitIyeyannu baLasalu kAraNa. de I badalAvaNege arthada AdhAravilla.
 
 idallade, samskxtadalli Aru kArakagaLannu sUcisuvudakkAgi ELu vibhakti pratyayagaLa
 baLakeyAguttadeyembudU vibhakti pratyaya mattu nAma-kriyA sambandha iveraDara
-naDuve nEravAda hondANikeyilla embudannu spaSTapaDisuttade. nijakkU Aru kArakagaLige
+naDuve nEravAda hondANikeyilla embudannu spaShTapaDisuttade. nijakkU Aru kArakagaLige
 aydu vibhakti pratyayagaLiddare sAku. kannaDadalli aydu sambandhagaLannu nAlku vibhakti
 pratyayagaLu sUcisuttave tAnE.
 
 
 <a id="sec-8-6"></a>
 
-## 8.6 vibhakti pratyayagaLu mattu kArakagaLu
+## ೮.೬ vibhakti pratyayagaLu mattu kArakagaLu
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-8-6) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-8--case-suffixes-and-semantic-roles)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-8--case-suffixes-and-semantic-roles) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-8-6)
 
 
 vibhakti pratyayagaLa mUlaka nAmapada mattu kriyApadagaLa naDuviruva
-ryA: sUcisuvalli haLegannaDa mattu samskxta bhASegaLa naDuve entaha
+ryA: sUcisuvalli haLegannaDa mattu samskxta bhAShegaLa naDuve entaha
 
-savide embudannu nAvu mElina eraDu vibhAgagaLalli (8.4-5ralli) nODiruvevu.
+savide embudannu nAvu mElina eraDu vibhAgagaLalli (೮.೪-೫ralli) nODiruvevu.
 sarjA I sambandhagaLu vibhakti pratyayagaLa mUlaka nEravAgi sUcitavAguttave;
 Adare, samskxtadalli I rIti nEravAgi sUcitavAguvudilla.
 
@@ -6298,11 +6299,11 @@ mAtravallade bEreyU kelavu kelasagaLiruvudE idakke mukhya kAraNa. udAharaNegAgi,
 I pratyayagaLu intaha sambandhagaLannu mAtravallade nAmapadagaLa vacanavannU
 sUcisabEkAguttade; ivugaLa baLake kriyApadadondige baruva upasargagaLa mElU
 avalambisirabEkAguttade; mattu itara vibhakti pratyayagaLu naDesuva kelasavannE halavu
-sandarbhagaLalli SaSThI vibhakti pratyaya naDesaballudu.
+sandarbhagaLalli ShaShThI vibhakti pratyaya naDesaballudu.
 
 va kAraNakkAgi, samskxtada vay yAkaraNigaLu "kAraka' paTa bEreyE ondu
 vyAkaraNa tatvavannu kalpisikonDu, adara mUlaka nAmapada mattu kriyApadagaLa
-naDuvina sambandhavannu A bhASeyalli hEge vingaDisalAguttade embudannu
+naDuvina sambandhavannu A bhASheyalli hEge vingaDisalAguttade embudannu
 vivarisabEkAgide. karka, karma, karaNa, sampradAna, apAdAna mattu adhikaraNagaLemba
 intaha Aru kArakagaLalli I sambandhagaLu vingaDaNeyAguttaveyendu avaru
 pratipAdisiddAre.
@@ -6319,12 +6320,12 @@ baruva sambandhagaLalli hecci navU jAga gumpinalli baruttave.
 
 nijakkU nAmapada mattu kriyApadagaLa naDuviruva sambandhagaLannu haLegannaDadalli
 hEge sUcisalAguttade embudannu vivarisalu kArakagaLemba vyAkaraNa tatvada avaSyakateyE
-illa (jAsti vivaragaLige bhaT‌ 1991 nODi). haLegannaDadalli baLakeyAguva vibhakti
-pratyayagaLige koDabahudAda arthagaLE I viSayavannu nEravAgi tiLisuttave. idakke
-apavAdagaLAgi baruva baLakegaLella spaSTavAgi I pratyayagaLa vistxta baLakegaLAgive.
+illa (jAsti vivaragaLige bhaT‌ ೧೯೯೧ nODi). haLegannaDadalli baLakeyAguva vibhakti
+pratyayagaLige koDabahudAda arthagaLE I viShayavannu nEravAgi tiLisuttave. idakke
+apavAdagaLAgi baruva baLakegaLella spaShTavAgi I pratyayagaLa vistxta baLakegaLAgive.
 
-nAmapadagaLa lingavannu nirdharisuvalli samskxta mattu haLegannaDa bhASegaLa
-naDuviruvantaha vyatyAsavE vibhaktigaLa arthavannu nirdharisuvallU I eraDu bhASegaLa
+nAmapadagaLa lingavannu nirdharisuvalli samskxta mattu haLegannaDa bhAShegaLa
+naDuviruvantaha vyatyAsavE vibhaktigaLa arthavannu nirdharisuvallU I eraDu bhAShegaLa
 naDuve kANisuttadeyendu hELabahudu. haLegannaDadalli nAmapadagaLa lingavannu
 nEravAgi avugaLa arthada AdhArada mEle nirdharisalu sAdhyavide. idakke kelavE kelavu
 apavAdagaLu mAtra ive.
@@ -6332,50 +6333,50 @@ apavAdagaLu mAtra ive.
 Adare, samskxtadalli pratiyondu nAmapadada lingavannUvAkyagaLalli A nAmapadada
 baLakeyentahadu embudannu pariSIlisuvudara mUlaka nirdharisabEkAgutta de (idakke
 apavAdavAgi, arthavE adhAravAgabahudAdantaha sandarbhagaLu samskxtadalli bahaLa
-kaDime). hAgAgi, samskxta vyAkaraNadalli lingavibhajaneyembudu ondu bahaLa kliSTavAda
-viSayavAgide (7.2.2 nODi).
+kaDime). hAgAgi, samskxta vyAkaraNadalli lingavibhajaneyembudu ondu bahaLa kliShTavAda
+viShayavAgide (೭.೨.೨ nODi).
 
 idE rItiyalli, nAmapada mattu kriyApadagaLa naDuvina sambandhagaLa vibhajaneyU
-samskxta vyAkaraNadalli ondu bahaLa kli STavAda viSayavAgide. vibhakti pratyayagaLa
+samskxta vyAkaraNadalli ondu bahaLa kli ShTavAda viShayavAgide. vibhakti pratyayagaLa
 baLakege arthavyatyAsa nEravAda AdhAravAgilladiruvudE idakke mukhya kAraNa.
 
 haLegannaDadalli vibhakti pratyayagaLannu nEravAgi avugaLa arthadondige sambandhisalu
 sAdhyavideyAda kAraNa, adara vibhakti pratyayagaLannu samskxtada hAge prathamA
 (modalaneyadu), dvitIyA (eraDaneyadu), txtIyA (mUraneyadu) ityAdiyAgi
-hesarisuva badalu, A pratyayagaLa arthavannu spaSTapaDisuva hAge bAdhita (an‌), suru
+hesarisuva badalu, A pratyayagaLa arthavannu spaShTapaDisuva hAge bAdhita (an‌), suru
 (in‌), kone (ge) mattu jAga (oL‌) embudAgi hesarisuvudE oLLeyadu.
 
 
 <a id="sec-8-7"></a>
 
-## 8.7 haLegannaDa vayyAkaraNigaLa samasyegaLu
+## ೮.೭ haLegannaDa vayyAkaraNigaLa samasyegaLu
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-8-7) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-8--case-suffixes-and-semantic-roles)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-8--case-suffixes-and-semantic-roles) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-8-7)
 
 
-haLegannaDa mattu samskxta bhASegaLa naDuve vibhakti pratyayagaLa baLakeyalli,
+haLegannaDa mattu samskxta bhAShegaLa naDuve vibhakti pratyayagaLa baLakeyalli,
 mEle sUcisida hAge, halavu mUlabhUtavAda vyatyAsagaLive. hAgAgi, samskxta
-vibhakSigaLa baLakeyalli kANisuva vyAkaraNa niyamagaLannu hAgeyE haLegannaDakke
+vibhakShigaLa baLakeyalli kANisuva vyAkaraNa niyamagaLannu hAgeyE haLegannaDakke
 
 aLavaDisikoLLalu sAdhyavAgadu. hIge mADalu prayatnisidudarindAgi, haLegannaDa
 vayyAkaraNigaLu halavu rItiya samasyegaLannu edurisabEkAgide, mattu avaru
-racisida vyAkaraNagaLu anavaSyakavAgi bahaLa kliSTavAgive.
+racisida vyAkaraNagaLu anavaSyakavAgi bahaLa kliShTavAgive.
 
 samskxtada hAge haLegannaDadallU ELu vibhaktigaLannu kANalu ivaru naDesida
 prayatna hEge asaphalavAgideyembudannu IgAgalE halavaru vidvAmsaru vivarisiddA re
-(kannaDa kaypiDi 1971:38, kxSNabhaTTa 1992: 164, sItArAmayya 1979:147).
-illU vyAkaraNada mUlatatvagaLa maTTige haLegannaDa mattu samskxta bhASegaLa naDuviruva
+(kannaDa kaypiDi ೧೯೭೧:೩೮, kxShNabhaTTa ೧೯೯೨: ೧೬೪, sItArAmayya ೧೯೭೯:೧೪೭).
+illU vyAkaraNada mUlatatvagaLa maTTige haLegannaDa mattu samskxta bhAShegaLa naDuviruva
 vyatyAsagaLannu gamanisadiruvudE I samasyegaLige mukhya kAraNa embudannu keLagina
-pariSIlane spaSTapaDisuttade.
+pariSIlane spaShTapaDisuttade.
 
 
 <a id="sec-8-7-1"></a>
 
-### 8.7.1 prathamA vibhakti
+### ೮.೭.೧ prathamA vibhakti
 
 
 samskxtada hAge haLegannaDakke prathamA vibhaktiya avaSyakate yAke illa embudannu
-mEle (8.2)ralli vivarisalAgide. haLegannaDada vayyAkaraNigaLu samskxtada hAge
+mEle (೮.೨)ralli vivarisalAgide. haLegannaDada vayyAkaraNigaLu samskxtada hAge
 haLegannaDakkU prathamA vibhakti bEkAgabahudu endu bhAvisi, adakkAgi m‌ emba
 pratyayavondannu kalpisikonDiddAre.
 
@@ -6389,12 +6390,12 @@ kelavu akArAnta padagaLige) svara paravAdAga I makAra nakAravAguvudu (rAmanum,
 akkanum, nelanum), mattu I nakAra itara svaradalli suruvAguva vibhakti pratyayagaLu
 sEridAgalU hAgeyE uLiyuvudu (maranam, rAmanim, rAmanoL‌) mattondu
 samasye. intaha halavu samasyegaLu anavaSyakavAda I kalpaneyindAgi avara vyAkaraNagaLalli
-uda ೈvisive (7.3.2 nODi).
+uda ೈvisive (೭.೩.೨ nODi).
 
 
 <a id="sec-8-7-2"></a>
 
-### 8.7.2 txtIye mattu caturthi
+### ೮.೭.೨ txtIye mattu caturthi
 
 
 txtIyeyE modalAda samskxtada itara vibhaktigaLige samanAda vibhaktigaLannu
@@ -6402,20 +6403,20 @@ haLegannaDadalli kANalu ivaru naDesida prayatnagaLU intahavE samasyegaLige kAraN
 
 udAharaNegAgi, haLegannaDada im pratyaya samskxtada txtIyege samanAdudendu
 I vayyAkaraNigaLu bhAvisiddAre. Adare, nijakkU I pratyaya samskxtada txtIyegintalU
-pancamige hattiravAgide (kxSNabhaTTa 1992:164 nODi).
+pancamige hattiravAgide (kxShNabhaTTa ೧೯೯೨:೧೬೪ nODi).
 
 samskxtada txtIyA vibhaktige sahayOgavE prAmukhyavAda artha. idakke
 viruddhavAda viyOgArthavannu pancamI vibhakti sUcisuttade. I vyatyAsavannu keLagina
 vAkyagaLalli kANabahudu.
 
-(17ka) rAmO dEvEbhirAgamat‌
+(೧೭ka) rAmO dEvEbhirAgamat‌
 "rAmanu dEvategaLondige banda'
-(17kha) grAmAdAgaccheti
+(೧೭kha) grAmAdAgaccheti
 "grAmadinda baruttAne'
 
-(17ka)dalli rAmanondige dEvategaLa sahayOgavideyAda kAraNa (ellarU oTTige
+(೧೭ka)dalli rAmanondige dEvategaLa sahayOgavideyAda kAraNa (ellarU oTTige
 bandiruvarAda kAraNa), dEvEbhiH embudAgi txtIyA vibhaktirUpada baLakeyAgide;
-Adare, (17kha)dalli baruva vyaktigU mattu grAmakkU naDuve viyOgavAgideyAda
+Adare, (೧೭kha)dalli baruva vyaktigU mattu grAmakkU naDuve viyOgavAgideyAda
 kAraNa, grAmAt‌ embudAgi pancamI vibhakti rUpada baLakeyAgide.
 
 haLegannaDada im pratyaya mukhyavAgi viyOgavannu sUcisuttadeyallade
@@ -6429,29 +6430,29 @@ sUcisuvudAdare, ge pratyaya uddESavannu sUcisuttade. kAraNadinda ghaTane
 suruvAguttade, mattu anantara uddESavannu talaputtade embudAgi illi calaneya
 eraDu amSagaLannu kANalu sAdhyavide.
 
-(18ka) putrasnEhadinde ati praLApam geyva ambAle
+(೧೮ka) putrasnEhadinde ati praLApam geyva ambAle
 
 "magana mElina prItiyinda bahaLa gOLADuttidda ambAle'
-(18kha) madIya pitan‌ tapakke pOdan‌
+(೧೮kha) madIya pitan‌ tapakke pOdan‌
 
 "nanna tande tapassige hOda'
 
-(18ka)dalli gOLADuvudakke putrasnEha kAraNavAda kAraNa, A nAmapadadondige
-inde pratyaya bandide, mattu (18kha)dalli hOguva kelasakke tapassu uddESavAda
+(೧೮ka)dalli gOLADuvudakke putrasnEha kAraNavAda kAraNa, A nAmapadadondige
+inde pratyaya bandide, mattu (೧೮kha)dalli hOguva kelasakke tapassu uddESavAda
 kAraNa, A nAmapadadondige ge (kay) pratyaya bandide.
 
 samskxtadalli karaNavannu sahayOgArthada vistxta arthavembudAgi
 parigaNisalAgiddu, adakkAgi txtIyA vibhaktiyannu baLasalAgutta de. udAharaNegAgi,
-keLage (19)nE vAkyadalli jinkeyannu hoDeyuva rAjanu adakkAgi bANavannu
+keLage (೧೯)nE vAkyadalli jinkeyannu hoDeyuva rAjanu adakkAgi bANavannu
 baLasiruvanAda kAraNa, alli Atanondige bANada sahayOgavide.
 
-(19) narESvaraH SarENa mxgam avidhyat‌
+(೧೯) narESvaraH SarENa mxgam avidhyat‌
 "rAjanu bANadinda jinkeyannu hoDedanu'
 
 haLegannaDadalli karaNavannu sUcisalu im pratyaya baLakeyAguvudEnO nija;
 Adare illi karaNavannu viyOgada vistxta arthavembudAgi parigaNisiruva hAge
 
-kANisuttade. kaDiyuva ghaTane koDaliyinda suruvAguttade emba viSaya I vistxta
+kANisuttade. kaDiyuva ghaTane koDaliyinda suruvAguttade emba viShaya I vistxta
 baLakege AdhAravirabEku.
 
 haLegannaDadalli im pratyayavannu mAtravallade oL‌ pratyayavannU karaNavannu
@@ -6459,25 +6460,25 @@ sUcisuvudakkAgi baLasalAguttade. illi karaNavannu ghaTane suruvAguva jAga (viyOg
 sambandha) embudakkintalU barI jAga (adhikaraNa sambandha) embudAgi parigaNisiruva
 hAge kANisuttade. udAharaNegAgi, pampabhAratada keLagina vAkyagaLannu gamanisabahudu:
 
-(20ka) aralambugaLinde maruLvi (2.40)
-"puSpabANagaLinda mOhagoLisi'
+(೨೦ka) aralambugaLinde maruLvi (೨.೪೦)
+"puShpabANagaLinda mOhagoLisi'
 
-(20kha) piDida neydiloL‌ tumbiyan‌ oyyane sOvutum (2.17)
+(೨೦kha) piDida neydiloL‌ tumbiyan‌ oyyane sOvutum (೨.೧೭)
 "(kayyalli) hiDida neydile hUvininda tumbiyannu mellage ODisutta'
 
-(20ka)dalli mOhagoLisuva kelasakkAgi baLasida karaNavannu (aralambugaL‌ embudannu)
-im(de) pratyayada mUlaka sUcisalAgide, mattu (20kha)dalli ODisuva kelasakkAgi
+(೨೦ka)dalli mOhagoLisuva kelasakkAgi baLasida karaNavannu (aralambugaL‌ embudannu)
+im(de) pratyayada mUlaka sUcisalAgide, mattu (೨೦kha)dalli ODisuva kelasakkAgi
 baLasida karaNavannu (neydila embudannu) oL‌ pratyayada mUlaka sUcisalAgide.
 
 
 <a id="sec-8-7-3"></a>
 
-### 8.7.3 pancamI vibhakti
+### ೮.೭.೩ pancamI vibhakti
 
 
 haLegannaDada im pratyayavannu txtIyA endu parigaNisida kAraNa, pancamI
 vibhakti illavAgide. I jAgavannu tumbisalu kESirAjanu at‌ embudannu
-kalpisikonDiddAne (sU. 103). Adare, venkaTAcala SAstri gaLu (1994:55) vivarisida
+kalpisikonDiddAne (sU. ೧೦೩). Adare, venkaTAcala SAstri gaLu (೧೯೯೪:೫೫) vivarisida
 hAge, I pratyayavannu baLasabEkiddalli, adarondige dikkannu sUcisuva aN‌ embudannu
 mattu txtIyA vibhaktiya im pratyayavannU baLasabEkAguttade. idallade, I attaNim
 baruvallella barE im embudannU baLasalu sAdhyavide.
@@ -6485,14 +6486,14 @@ baruvallella barE im embudannU baLasalu sAdhyavide.
 haLegannaDa vayyAkaraNigaLu samskxtada mAdariyannu uLisikoLLuvudakkAgi
 haLegannaDakke kalpisikonDiruva I pancamI vibhakti pratyaya entaha samasyegaLigella
 kAraNavAgide embudannu IgAgalE halavaru viddA rimsaru vivarisiddAre (kannaDa kaypiDi
-1971:39, kxSNa bhaTTa 1992:164, ityAdi).
+೧೯೭೧:೩೯, kxShNa bhaTTa ೧೯೯೨:೧೬೪, ityAdi).
 
 haLegannaDada im pratyaya nijakkU ondE rUpada txtIyA mattu pancamigaLemba
-eraDu bEre bEre pratyayagaLu embudAgi ittIcege ranganAtha Sarmaru (2002:113)
+eraDu bEre bEre pratyayagaLu embudAgi ittIcege ranganAtha Sarmaru (೨೦೦೨:೧೧೩)
 vAdisiddAre. idakke AdhAravAgi avaru keLage koTTiruva kavirAjamArgada vAkyavannu
 udAharisiddAre:
 
-(21) tannarEndranim dharaNi sanAthe
+(೨೧) tannarEndranim dharaNi sanAthe
 
 I vAkya karmaNi prayOgadallideyendu, mattu AdaL‌ kriyApadavannu I
 
@@ -6502,21 +6503,21 @@ mEle, avaru I vAkyadalli narEndra pada karta embudAgiyU, mattu adu im
 pratyayadondige bandideyAda kAraNa, im embudu kataNxvannu sUcisuva txtIyA
 vibhakti pratyaya embudAgiyU vAdisiddAre.
 
-Adare, (21)ralli karmaNiya alpaDu bandilla. AdaL‌ kriyApadakke adara aL‌
+Adare, (೨೧)ralli karmaNiya alpaDu bandilla. AdaL‌ kriyApadakke adara aL‌
 pratyaya sUcisuva dharaNi pada kartavAgaba sadallade, narEndra pada kartavAguvudu
-kaSTa. adannu kartavAgi mADabEkAdalli, bEre yAvudAdarU kriyApadavannu
+kaShTa. adannu kartavAgi mADabEkAdalli, bEre yAvudAdarU kriyApadavannu
 UhisikoLLabEkAguttade. Adare I rIti sAdhisida "vibhakti pratyaya' haLegannaDada
 vAkyaracaneya mEle avalambisiruva vibhakti pratyayavAgalAradu.
 
 
 <a id="sec-8-7-4"></a>
 
-### 8.7.4 SaSThI vibhakti
+### ೮.೭.೪ ShaShThI vibhakti
 
 
-samskxtada mAdariyannanusarisi, haLegannaDadallU SaSThI vibhakti yide embudAgi
-haLegannaDada vayyAkaraNigaLu hELiddAre (kESirAja sU. 103). Adare kESirAjanu
-I pratyayakke koTTiruva adu marada paN‌ emba udAharaNe, mattu 143nE sUtrada
+samskxtada mAdariyannanusarisi, haLegannaDadallU ShaShThI vibhakti yide embudAgi
+haLegannaDada vayyAkaraNigaLu hELiddAre (kESirAja sU. ೧೦೩). Adare kESirAjanu
+I pratyayakke koTTiruva adu marada paN‌ emba udAharaNe, mattu ೧೪೩nE sUtrada
 keLage koTTiruva bEre halavu udAharaNegaLu eraDu nAmapadagaLa naDuvina sambandhavannu
 mAtravE sUcisuttaveyallade, kriyApada mattu nAmapadagaLa naDuviruva sambandhavannu
 sUcisuvudilla. hAgAgi, idannu vibhakti pratyayavendu kareyuvudu sariyalla.
@@ -6528,33 +6529,33 @@ baLasalu sAdhyavide. hAgAgi, samskxta vyAkaraNagaLalli ivannu vibhakti pratyayag
 karediruvudaralli avcityavide. udAharaNegAgi, keLage koTTiruva samskxta vAkyagaLannu
 gamanisabahudu:
 
-(22ka) mAtuH smarati
+(೨೨ka) mAtuH smarati
 
 "(Ata) tAyannu neneyuttAne'
-(22kha) bhImaska anukariSyAmi
+(೨೨kha) bhImaska anukariShyAmi
 
 "(nAnu) bhImanannu anukarisuttEne'
-(22ga) mama prItiH sanjAtaH
+(೨೨ga) mama prItiH sanjAtaH
 
 "nanage (avaLalli) prItiyunTAyitu'
-(22gha) kimasya bhikTOH kriyatAm
+(೨೨gha) kimasya bhikTOH kriyatAm
 
-"I bikSukanige Enu mADONa?
+"I bikShukanige Enu mADONa?
 
-(22ka)dalli yAva vyaktiyannu neneyalAguttideyO A vyaktiyannu, mattu (22kha)dalli
-yAva vyaktiyannu anukarisalAguttideyO A vyaktiyannu, SaSThI vibhaktiya mUlaka
-sUcisalAgide; (22ga)dalli ADuganige yAralli prItiyunTAgideyO A vyaktiyannU
-SaSThiyindalE sUcisalAgide.
+(೨೨ka)dalli yAva vyaktiyannu neneyalAguttideyO A vyaktiyannu, mattu (೨೨kha)dalli
+yAva vyaktiyannu anukarisalAguttideyO A vyaktiyannu, ShaShThI vibhaktiya mUlaka
+sUcisalAgide; (೨೨ga)dalli ADuganige yAralli prItiyunTAgideyO A vyaktiyannU
+ShaShThiyindalE sUcisalAgide.
 
 Adare, haLegannaDadalli an‌ mattu ge pratyayagaLE intaha sandarbhagaLalli
-baLakeyAguttaveyallade SaSThI vibhakti pratyaya baLakeyAguvudilla.
+baLakeyAguttaveyallade ShaShThI vibhakti pratyaya baLakeyAguvudilla.
 
 idallade, haLegannaDadalli eraDu nAmapadagaLa naDuvina sambandhavannu sUcisuva
-a pratyaya samskxtada as‌, Os‌, mattu Am‌ emba SaSThI vibhakti pratyayagaLinda,
-keLage sUcisida hAge, bEre kelavu viSayagaLallU bhinnavAgide.
+a pratyaya samskxtada as‌, Os‌, mattu Am‌ emba ShaShThI vibhakti pratyayagaLinda,
+keLage sUcisida hAge, bEre kelavu viShayagaLallU bhinnavAgide.
 
-(1) haLegannaDadalli nAmapada mattu guNapadagaLembudAgi eraDu tIra bhinnavAda
-padavargagaLive embudannu nAvu (4.2)ralli nODiruvevu. I kAraNakkAgi, haLegannaDadalli
+(೧) haLegannaDadalli nAmapada mattu guNapadagaLembudAgi eraDu tIra bhinnavAda
+padavargagaLive embudannu nAvu (೪.೨)ralli nODiruvevu. I kAraNakkAgi, haLegannaDadalli
 ondu nAmapadavannu illavE kriyApadavannu innondu nAmapadadondige
 sambandhisabEkiddalli (guNapadada jAgadalli baLasabEkiddalli), avannu guNarUpakke
 badalAyisikoLLabEkAguttade.
@@ -6562,7 +6563,7 @@ badalAyisikoLLabEkAguttade.
 haLegannaDadalli makkaLa, arasana, maneya, marada, modalAdavugaLu intaha
 nAmapadagaLa guNarUpagaLallade vibhaktirUpagaLalla. avannu guNapadagaLa hAge
 nAmapadagaLondige nAmapadakantegaLalli baLasalu sAdhyavideyalla de, nEravAgi
-kriyApadagaLondige baLasalu sAdhyavAgadu. I viSayadalli avu kriyApadagaLa
+kriyApadagaLondige baLasalu sAdhyavAgadu. I viShayadalli avu kriyApadagaLa
 guNarUpagaLannu (kxdantagaLannu) hOluttave.
 
 kxdantarUpagaLu sambandhisuva rUpagaLu
@@ -6575,11 +6576,11 @@ paLancida baNNangaL‌ kOnTeya celvu
 
 Adare samskxtadalli guNapadagaLu mattu nAmapadagaLu ondE padavargadalli
 baruttave. hAgAgi, adara nAmapada mattu kriyApadagaLige haLegannaDadalliruva hAge
-viSiSTavAda guNarUpagaLilla. samskxtada kxdantagaLu nAmapadagaLE; idallade, adara
-nAmapadagaLa sambandhisuva (SaSThI vibhaktiya) rUpagaLannu bEre nAmapadagaLondige
-mAtravallade, nEravAgi kriyApadagaLondigU sambandhisalu sAdhyavide (8.7.4 nODi).
+viSiShTavAda guNarUpagaLilla. samskxtada kxdantagaLu nAmapadagaLE; idallade, adara
+nAmapadagaLa sambandhisuva (ShaShThI vibhaktiya) rUpagaLannu bEre nAmapadagaLondige
+mAtravallade, nEravAgi kriyApadagaLondigU sambandhisalu sAdhyavide (೮.೭.೪ nODi).
 
-(2) haLegannaDadalli guNapadagaLa hAge, mattu kriyApadagaLa guNarUpagaLa
+(೨) haLegannaDadalli guNapadagaLa hAge, mattu kriyApadagaLa guNarUpagaLa
 hAge, nAmapadagaLa guNarUpagaLannU vibhakti pratyayagaLondige baLasalu sAdhyavide;
 Adare, idakkAgi guNapadagaLa hAge, mattu kriyApadagaLa guNarUpagaLa hAge, nAmapadagaLa
 guNarUpagaLigU linga-vacana pratyayagaLannu sErisi avannu nAmarUpakke
@@ -6592,7 +6593,7 @@ endaLge karNanintendam rathadan‌ aSvatthAman‌
 kUradar‌ pOdar‌ maneyan‌ bandan‌
 
 modalaneya kAlannalli kriyApadagaLa guNarUpagaLannu mattu eraDaneya kAlannalli
-nAmapadagaLa guNarUpa(SaSThIrUpa)gaLannu nAmarUpakke badalAyisi, anantara avannu
+nAmapadagaLa guNarUpa(ShaShThIrUpa)gaLannu nAmarUpakke badalAyisi, anantara avannu
 nAmapadagaLa jAgadalli baLasalAgide. udAharaNegAgi, endalle embudaralli en‌
 kriyApadada guNarUpavAda enda embudakke aL‌ linga-vacana pratyayavannu sErisi
 nAmarUpakke badalAyisalAgide (endaL‌ "hELidavaLu'), mattu anantara adakke ge
@@ -6603,8 +6604,8 @@ guNarUpavAda birdina embudakke an‌ linga-vacana pratyayavannu sErisi nAmarUpak
 badalAyisalAgide (birdinan‌ “Atithyadavanu, atithi') mattu anantara adakkege vibhakti
 pratyayavannu sErisalAgide.
 
-samskxtada SaSThI vibhakti pratyayakkU, haLegannaDada a pratyayakkU naDuve intaha
-mUlabhUta vyatyAsagaLiveyAda kAraNa, samskxtada SaSThI vibhakti pratyayada hAge
+samskxtada ShaShThI vibhakti pratyayakkU, haLegannaDada a pratyayakkU naDuve intaha
+mUlabhUta vyatyAsagaLiveyAda kAraNa, samskxtada ShaShThI vibhakti pratyayada hAge
 haLegannaDada a pratyayavannu vibhakti pratyayavendu kareyuvudu sariyalla.
 
 idallade, haLegannaDadallEnE nAmapadavannu kriyApadadondige sambandhisuva
@@ -6617,17 +6618,17 @@ idi vra
 
 "mattu' pratyayavannu sErisi hELalu sAdhyavide.
 
-(22ka) meykoLuDida ambugaLumam
+(೨೨ka) meykoLuDida ambugaLumam
 "SarIradoLage muridu hOgidda bANagaLannU'
-(22kha) kAlindeyum kayyindeyum ghaTTisidam
+(೨೨kha) kAlindeyum kayyindeyum ghaTTisidam
 “kAlinindalU kayyindalU hoDedanu'
-(22ga) arasangam arasigam puTTidanE
+(೨೨ga) arasangam arasigam puTTidanE
 "arasanigU arasigU huTTidanE?
-(22gha) nIroLam kiccinoLam poraLLu
+(೨೨gha) nIroLam kiccinoLam poraLLu
 "nIrinallU benkiyallU horaLi'
 
 Adare sambandhisuva a pratyayadondige baruva nAmapadagaLige I rIti um
-(am) pratyayavannu sErisalu sAdhyavAgadu (kESirAja sU. 133 nODi). I viSayadalli
+(am) pratyayavannu sErisalu sAdhyavAgadu (kESirAja sU. ೧೩೩ nODi). I viShayadalli
 sambandhisuva a pratyaya kxdantagaLalli baruva a pratyayada hAge vartisuttadeyallade,
 vibhakti pratyayagaLa hAge vartisuvudilla. gelba, pADuva, aaAುyada modalAda kxdanta
 . (guNarUpa)gaLondigU um pratyaya baralAradu.
@@ -6637,33 +6638,33 @@ badalAyisidalli mAtra, avugaLondige um pratyayavannu baLasalu sAdhyavide embudan
 
 mEle nODiruvevu.
 
-illi nAvu gamanisabEkAgiruva mukhyavAda viSayavEnendare, haLegannaDadalli
+illi nAvu gamanisabEkAgiruva mukhyavAda viShayavEnendare, haLegannaDadalli
 kriyApadagaLa kxdantarUpagaLu mattu nAmapadagaLa sambandhisuva rUpagaLu padakantegaLa
 angagaLAgi baraballuvallade, nEravAgi vAkyagaLa angagaLAgi baralAravu. avu
 nAmapadagaLiginta mattu avugaLa vibhakti rUpagaLiginta tIra bhinnavAda staradalli
 baLakeyAguttave. avannu baLasiruva padakantegaLannu mAtra vAkyagaLa angagaLAgi baLasalu
 sAdhyavide.
 
-(23ka) banda kumbhasambhavam
-(23kha) banda kumbhasambhavanam kanDam
+(೨೩ka) banda kumbhasambhavam
+(೨೩kha) banda kumbhasambhavanam kanDam
 
-(24ka) ninna yaSam
-(24kha) ninna yaSamam karidu mADidem
+(೨೪ka) ninna yaSam
+(೨೪kha) ninna yaSamam karidu mADidem
 
-(23ka)dalli bar‌ kriyApadada kxdantarUpavannu (banda embudannu) ondu padakanteya
-angavannAgi mADalAgide, mattu (23kha)dalli A padakanteyannu ondu vAkyada
-angavannAgi mADalAgide. idE rItiyalli, (24ka)dalli nIn‌ embudara sambandhisuva
-rUpavannu ondu padakanteya angavannAgi mADalAgide, mattu (24kha)dalli A
+(೨೩ka)dalli bar‌ kriyApadada kxdantarUpavannu (banda embudannu) ondu padakanteya
+angavannAgi mADalAgide, mattu (೨೩kha)dalli A padakanteyannu ondu vAkyada
+angavannAgi mADalAgide. idE rItiyalli, (೨೪ka)dalli nIn‌ embudara sambandhisuva
+rUpavannu ondu padakanteya angavannAgi mADalAgide, mattu (೨೪kha)dalli A
 padakanteyannu ondu vAkyada angavannAgi mADalAgide.
 
 padakanteyannu keLagina staravendu, mattu vAkyavannu adakkinta mElina staravendu
-parigaNisalu sAdhyaviddu » guNapadagaLu, kxdantagaLu, mattu nAmapadagaLa sambandhisuva
+parigaNisalu sAdhyaviddu , guNapadagaLu, kxdantagaLu, mattu nAmapadagaLa sambandhisuva
 rUpagaLu keLagina staradalli mAtra baraballuvu.
 
 
 <a id="sec-8-7-5"></a>
 
-### 8.7.5 vibhakti pallaTa
+### ೮.೭.೫ vibhakti pallaTa
 
 
 samskxtadalli vibhakti pratyayagaLigU, avu sUcisabEkAgiruva sambandha(nAma-
@@ -6674,26 +6675,26 @@ udAharaNegAgi, samskxtadalli kAraNavannu sUcisalu txtIyeyannU
 baLasabahudu, pancamiyannU baLasabahudu (kAraNEna, kAraNAt‌), yArondige
 mAtanADiddu embudannu sUcisalu caturthiyannU baLasabahudu, dvitIyeyannU
 baLasabahudu; yArige koTTaddu embudannu sUcisalu caturthiyannU baLasabahudu,
-SaSThi illavE saptamiyannU baLasabahudu; ityAdi (spIjar‌ 1886 nODi).
+ShaShThi illavE saptamiyannU baLasabahudu; ityAdi (spIjar‌ ೧೮೮೬ nODi).
 
 idallade, mEle sUcisida hAge, kriyApadadondige baruva upasargagaLannanusarisi
 bEre bEre vibhakti pratyayagaLannu (arthadalli vyatyAsavilladiddarU) samskxtadalli
 baLasabEkAguttade, mattu kriyApadavu kartari rUpadallideyE athavA karmaNi
 rUpadallideyE embudannAdharisiyU adarondige baruva nAmapadagaLa vibhaktiyalli
 
-badalAvaNegaLannu mADikoLLabEkAguttade. ivellavU samskxtadalli sAkaSTu
+badalAvaNegaLannu mADikoLLabEkAguttade. ivellavU samskxtadalli sAkaShTu
 "vibhaktipallaTa'gaLu kANisikoLLalu kAraNagaLAgive.
 
 haLegannaDadalli kANisuva "vibhaktipallaTa'vU intahadE AgirabEkendu adara
 vayyAkaraNigaLu nirdharisiruva hAge kANisuttade; kESirAjana abhiprAyadante, haLegannaDada
 vibhakti pratyayagaLannu hEgU baLasabahudu (“intI pElpi vibhaktigaLentum pallaTisugum
-yathESTam' (sU. 145). Adare, nijakkU haLegannaDadalli samskxtadalli kANisuvantaha
+yathEShTam' (sU. ೧೪೫). Adare, nijakkU haLegannaDadalli samskxtadalli kANisuvantaha
 vibhakti pallaTavilla.
 
 vayyAkaraNigaLu haLegannaDadalli baLakeyalliveyendu hELuva vibhakti pallaTagaLannu
 keLage sUcisida hAge vingaDisalu sAdhyaviddu, avu kANisikoLLalu bEre bEre kAraNagaLive:
 
-(1) halavu sandarbhagaLalli I rIti eraDu vibhakti pratyayagaLa baLakeyAgiruvallella
+(೧) halavu sandarbhagaLalli I rIti eraDu vibhakti pratyayagaLa baLakeyAgiruvallella
 arthavyatyAsavU kANisikoLLutta de, mattu I arthavyatyAsavannu vibhakti pratyayagaLa
 mUlArthadinda sAdhisalU sAdhyavAgutta j‌
 
@@ -6708,26 +6709,26 @@ hUvu embudannu sUcisalu an‌ pratyayavannu baLasalAgideyAdare, eraDaneyadaralli
 arcanege baLasida vastu hUvu embudannu sUcisalu inda pratyayavannu baLasalAgide.
 
 ondu dinadoL‌ bandam embudu avadhiyannu sUcisuvudAdare, ondu dinam
-bandam embudu samayavannaSTE sUcisuttade; baralu eSTu samaya hiDiyitu
+bandam embudu samayavannaShTE sUcisuttade; baralu eShTu samaya hiDiyitu
 embudannu I eraDaneya baLake sUcisuvudilla.
 
-(2) bEre kelavu udAharaNegaLalli tIra bhinnavAda racanegaLu kANisuttiddu,
+(೨) bEre kelavu udAharaNegaLalli tIra bhinnavAda racanegaLu kANisuttiddu,
 nijakkU avu vibhakti pallaTakke udAharaNegaLalla. rasikara cakravarti embudondu
 padakante, rasikaroL‌ cakravarti embudu ondu vAkya; idE rItiyalli koDeyoDeyam
 embudu padakante, koDegoDeyam embudu vAkya.
 
-(3) innu dvitIyArthadalli SaSThi baruttade endu hELiruvalli dvitIyegiruva
-eraDu rUpagaLalli ondannu SaSThiyendu bhramisiruva hAge kANisuttade. nijakkU
+(೩) innu dvitIyArthadalli ShaShThi baruttade endu hELiruvalli dvitIyegiruva
+eraDu rUpagaLalli ondannu ShaShThiyendu bhramisiruva hAge kANisuttade. nijakkU
 haLegannaDadalli dvitIyege an‌ mattu a embudAgi eraDu rUpagaLiveyendu
 hELuva avaSyakateyide (tenkanADam maakayalke, tenkanADa maakeyalay).
 
-haLegannaDada halavu vaySiSTyagaLannu uLisikonDiruva karAvaLiya Adhunika kannaDa
+haLegannaDada halavu vaySiShTyagaLannu uLisikonDiruva karAvaLiya Adhunika kannaDa
 prabhEdagaLalli dvitIyeya annu embudara badalu a pratyayavE baLakeyallide.
 udAharaNegAgi, havyaka kannaDadalli marava kaDudavu "maravannu kaDidaru', avana
 biTTavu "avanannu biTTaru' embantaha baLakegaLiddu, ivugaLalli dvitIyA vibhaktige a
 rUpavide.
 
-venkaTAcala SAstrigaLu (1994:60) haLegannaDada I a pratyayada baLakeyalli
+venkaTAcala SAstrigaLu (೧೯೯೪:೬೦) haLegannaDada I a pratyayada baLakeyalli
 an‌ embudara atana "savedu'hOgirabahudendu sUcisiddAre. havyakadalli I
 dvitIyeya anantara otti hELuva ude pratyayavannu baLasidAga nakAra
 kANisikoLLuvudAda kAraNa (maravannude kaDudavu "maravannU kaDidaru'), I sUcane
@@ -6739,43 +6740,43 @@ gamanisidAga, illi bErEnO naDediruva hAge anisuttade. havyakada kADina "kADannu'
 kaNNina "kaNNa nnu' adara "adannu', eraDara “eraDannu' embantaha dvitIyArUpagaLalli
 I AgamagaLu bandiruvudannu kANabahudu.
 
-idallade, dakSiNa kannaDa jilleya gavDa kannaDadallU dvitIyA vibhakti pratyaya
+idallade, dakShiNa kannaDa jilleya gavDa kannaDadallU dvitIyA vibhakti pratyaya
 vyanjanagaLa anantara a rUpadalli barutta de (marangaLa "maragaLannu', adara “adannu',
 hArara "brAhmaNarannu'), mattu svaragaLa anantara na rUpadalli (attena "atteyannu',
-marana "maravannu') baruttade (kuSAlappa gavDa 1970:44).
+marana "maravannu') baruttade (kuSAlappa gavDa ೧೯೭೦:೪೪).
 
 haLegannaDadallU adaja taDevudadharmam emballi I pratyayadondige aಾgama
 bandide. inAgamavU baruttadeyO embudannu pariSIlisabEku.
 
-Adare, SaSThiyalli kANisuva adAgama I pratyayada baLakeyallilla. havyakada
+Adare, ShaShThiyalli kANisuva adAgama I pratyayada baLakeyallilla. havyakada
 marada kAlu mattu marava kaDudavu emberaDu baLakegaLalli I vyatyAsavannu kANabahudu.
 gavDa kannaDadallU marana "maravannu' mattu marada "marada' embudAgi I eraDu
-vibhakti rUpagaLoLage vyatyAsavide (kuSAlappa gavDa 1970: 47)
+vibhakti rUpagaLoLage vyatyAsavide (kuSAlappa gavDa ೧೯೭೦: ೪೭)
 
-haLegannaDada granthagaLu mukhyavAgi jayna lEkhakarinda sxSTiyAgiddu, ivara
+haLegannaDada granthagaLu mukhyavAgi jayna lEkhakarinda sxShTiyAgiddu, ivara
 kEndra sthAna karAvaLiyalliddudE haLegannaDadalli I rIti karAvaLiya kannaDa prabhEdada
-halavu vaySiSTyagaLu kANisikoLLalu kAraNavirabahudu.
+halavu vaySiShTyagaLu kANisikoLLalu kAraNavirabahudu.
 
-(4) avaSyavilladalli vibhakti pratyayavannu baLasadeyU iralu sAdhya embudu
-haLegannaDa vibhakti prayOgada ondu vaySiSTa 8 (8.2 nODi). dvitIyeya badalu
-prathame kANisuvantaha sandarbhagaLella I vaySiSTa da dyOtakagaLAgiveyalla de vibhakti
+(೪) avaSyavilladalli vibhakti pratyayavannu baLasadeyU iralu sAdhya embudu
+haLegannaDa vibhakti prayOgada ondu vaySiShTa 8 (೮.೨ nODi). dvitIyeya badalu
+prathame kANisuvantaha sandarbhagaLella I vaySiShTa da dyOtakagaLAgiveyalla de vibhakti
 pallaTakke (illavE samAsakke) udAharaNegaLalla.
 
 vibhakti pallaTakke vayyAkaraNigaLu koDuva udAharaNegaLannu hAgeyE
-pariSIlisidalli avugaLa uddESavEnembudu spaSTavAguvudilla. avu kANisikoLLuva
+pariSIlisidalli avugaLa uddESavEnembudu spaShTavAguvudilla. avu kANisikoLLuva
 kavigaLa prayOgagaLannu pariSIlisidAga mAtra nijakkU avu ondE arthadalli bandiveyE,
-athavA bEre bEre arthagaLannu sUcisuvudakkAgi bandiveyE emba viSaya
-spa STavAgaballudu.
+athavA bEre bEre arthagaLannu sUcisuvudakkAgi bandiveyE emba viShaya
+spa ShTavAgaballudu.
 
 
 <a id="sec-8-7-6"></a>
 
-### 8.7.6 kArakagaLu
+### ೮.೭.೬ kArakagaLu
 
-mEle (8.6)ralli sUcisida hAge, samskxtadalli vibhakti pratyayagaLigU avu
+mEle (೮.೬)ralli sUcisida hAge, samskxtadalli vibhakti pratyayagaLigU avu
 
 sUcisuva nAma-kriyA sambandhagaLigU naDuve nEravAda hondANikeyilla. hAgAgi,
-A bhASeyalli nAma-kriyA sambandhagaLannu hEge vingaDisalAguttade embudannu
+A bhASheyalli nAma-kriyA sambandhagaLannu hEge vingaDisalAguttade embudannu
 vivarisuvudakkAgi samskxta vayyAkaraNigaLu "kAraka'gaLemba sambandhagaLannu
 kalpisikoLLabEkAgide.
 
@@ -6788,7 +6789,7 @@ samskxtakkinta tIra bhinnavAda rItiyalli vingaDisalAguttade.
 udAharaNegAgi, ondu ghaTaneyalli toDagikonDiruva vyaktigaLannu samskxtadalli
 karta mattu karma embudAgi vibhajisalAguttade, Adare haLegannaDada maTTige antaha
 vibhajanegintalU Aguga mattu mADuga emba vibhajaneyE heccu ucitavAdudu.
-idakke kAraNavEnendare, I eraDu bhASegaLalli kriyApadagaLannu vibhajisuva krama tIra
+idakke kAraNavEnendare, I eraDu bhAShegaLalli kriyApadagaLannu vibhajisuva krama tIra
 bhinnavAdudu.
 
 samskxtadalli kriyApadagaLannu mukhyavAgi akarmaka mattu sakarmaka embudAgi
@@ -6814,7 +6815,7 @@ vivaraNe tappAguttade.
 
 udAharaNegAgi, eraDu vAkyagaLannu jODisi hELuvalli baLakeyAguva kuDidu,
 mindu modalAdavugaLannu baLasabEkiddalli, A eraDu vAkyagaLU "“EkakataNxka'-
-gaLAgirabEkendu bhaTTAkaLankanu ondu niyamavannu mADiddAne (sU. 580). Adare
+gaLAgirabEkendu bhaTTAkaLankanu ondu niyamavannu mADiddAne (sU. ೫೮೦). Adare
 idakke apavAdavAgi peNanam kanDu duHkhamAdudu, priyaLam kanDu sukhamAdudu
 
 embantaha vAkyagaLiruvudu samasyeyAgide. peNanam kanDu sukha mAdudu emba
@@ -6822,13 +6823,13 @@ vAkyadalli eraDu vAkyagaLannu (Atan‌ peNanam kanDan‌ mattu Atange duHkhamAdu
 embavugaLannu) kanDu kriyArUpada mUlaka jODisalAgiddu, avugaLa kartxgaLu
 ondE alla.
 
-idakke kunDalagiyAcAryaru (1941:654) koDuva samAdhAnavEnendare,
+idakke kunDalagiyAcAryaru (೧೯೪೧:೬೫೪) koDuva samAdhAnavEnendare,
 duHkhamAdudu embudakke duHkhatanAdanu emba arthavanniTTukonDalli eraDu
 vAkyadallU ondE kataNxviruva hAge Aguttade embudu. Adare idu arthavannavalambisida
 samAdhAnavAgiddu, vAkkaracaneya samasyeyannu nivArisuvudilla.
 
 idallade, haLegannaDadalli mElina niyamakke apavAdagaLAgi kANisuva bEreyU
-halavu vAkyagaLannu racisalu sAdhyaviddu » avakkella intaha samAdhAnavannu koDalu
+halavu vAkyagaLannu racisalu sAdhyaviddu , avakkella intaha samAdhAnavannu koDalu
 sAdhyavAgadu.
 
 idakke badalu, mEle sUcisida hAge, ondu ghaTaneyalli svEccheyinda niratanAguva
@@ -6836,67 +6837,67 @@ vyakti (mADuga) mattu itara (Aguga) embudAgi kArakagaLannu vibhajisidalli, mElin
 haLegannaDa vAkyagaLige sulabhavAgi niyamavannu racisabahudu. jODisiruva eraDu
 vAkyagaLallU mADuga kArakavannu baLasalAgideyAdare, adu obbanE vyaktiyannu
 sUcisuva avaSyakateyide embudE illi bEkAgiruva niyama (hosagannaDadallU I
-niyama hEge baLakeyallide embudannu bhaT‌ (2004:196)ralli vivarisalAgide).
+niyama hEge baLakeyallide embudannu bhaT‌ (೨೦೦೪:೧೯೬)ralli vivarisalAgide).
 mEle koTTiruva apavAda vAkyagaLalli mADuga ghaTaka modalaneya angavAkyadalli
-mAtra bandide embudannu gamanisabahudu (10.2.2 nODi).
+mAtra bandide embudannu gamanisabahudu (೧೦.೨.೨ nODi).
 
 
 <a id="sec-8-7-7"></a>
 
-### 8.7.7 nAma-kriyA sambandha
+### ೮.೭.೭ nAma-kriyA sambandha
 
 
-samskxtada vayyAkaraNigaLu hELuva Aru kArakagaLu "sakala bhASegaLalliyU
+samskxtada vayyAkaraNigaLu hELuva Aru kArakagaLu "sakala bhAShegaLalliyU
 nihitavAgiruva gUDhatatva'vannu sUcisuttaveyembudAgi ittIcege ranganAtha Sarmaru
-(2002:2) barediddA re. avara abhiprAyadante, “Sabda gaLige kriyeyoDane sambandhaviSESavu
+(೨೦೦೨:೨) barediddA re. avara abhiprAyadante, “Sabda gaLige kriyeyoDane sambandhaviSEShavu
 Aru vidhadalli mAtra sAdhya. adakkinta heccu vidhadalli I sambandhavannu yAva SabdavU
-tiLisalAradu. Addarinda yAva bhASeyallAgali Aru kArakagaLiruttave. adhikavU illa
+tiLisalAradu. Addarinda yAva bhASheyallAgali Aru kArakagaLiruttave. adhikavU illa
 kaDimeyU illa.
 
-jagattinalli oTTu aydu sAvirakkintalU jAsti bhASegaLiddu (bhaT‌ 2002 nODi),
-ondu siddhA 0ta ivellavakkU anvayisuttade endu vAdisabEkAdalli, avugaLannu
-pratinidhIkarisuva nUrinnUru bhASegaLannAdarU pariSIlisuva avaSyakateyide. ranganAtha
+jagattinalli oTTu aydu sAvirakkintalU jAsti bhAShegaLiddu (bhaT‌ ೨೦೦೨ nODi),
+ondu siddhA ೦ta ivellavakkU anvayisuttade endu vAdisabEkAdalli, avugaLannu
+pratinidhIkarisuva nUrinnUru bhAShegaLannAdarU pariSIlisuva avaSyakateyide. ranganAtha
 Sarmaru intaha pariSIlaneyannu naDesida hAge kANisuvudilla. idallade, hIge
-pariSIlisiruvevAdarU, namma siddA ntakke apavAdavAgi ondE ondu bhASe kANasikkidarU
+pariSIlisiruvevAdarU, namma siddA ntakke apavAdavAgi ondE ondu bhAShe kANasikkidarU
 oDaneyE A siddhA nta biddu hOguttade.
 
-nAmapada mattu kriyApadagaLa naDuviruva sambandhavannu ellA bhASegaLigU
+nAmapada mattu kriyApadagaLa naDuviruva sambandhavannu ellA bhAShegaLigU
 anvayisuva hAge krODIkarisalu halavaru vidvAmsaru IgAgalE prayatnisi sOtiddA re.
 
 vibhaktigaLu mattu kArakagaLu ae
 
 udAharaNegAgi, philli mOr‌ emba amerikada vidvAmsaru modalige (phillimOr‌
-1968) intaha Aru sambandhagaLa avaSyakateyideyendu vAdisiddu, anantara
-(phillimOr‌ 1971) avugaLannu enTakke ErisiddAre. mADuga, anubhOgi, karaNa,
+೧೯೬೮) intaha Aru sambandhagaLa avaSyakateyideyendu vAdisiddu, anantara
+(phillimOr‌ ೧೯೭೧) avugaLannu enTakke ErisiddAre. mADuga, anubhOgi, karaNa,
 karma, mUla, guri, Akara mattu samayagaLE avaru sUcisuva enTu sambandhagaLu.
 
-phillimOr‌ avara anantara I viSayadalli halavAru vidvAmsaru carce
+phillimOr‌ avara anantara I viShayadalli halavAru vidvAmsaru carce
 naDesiddu, avaralli kelavaru I sambandhagaLa paTTiyannu nAlkakke iLisiddAre, mattu
-bEre kelavaru hattu-hannondara varege ErisiddAre. Adare I viSayadalli ellarU
+bEre kelavaru hattu-hannondara varege ErisiddAre. Adare I viShayadalli ellarU
 oppuvantaha ondu nirdhArakke baralu I vidvAmsarige innU sAdhyavAgilla, mattu
-sAdhyavAguva hAge kANisuvudU illa (blEk‌ 2001:70 nODi).
+sAdhyavAguva hAge kANisuvudU illa (blEk‌ ೨೦೦೧:೭೦ nODi).
 
-intaha sambandhagaLannu sUcisuvudakkAgi kelavu bhASegaLu vibhakti pratyayagaLannu
+intaha sambandhagaLannu sUcisuvudakkAgi kelavu bhAShegaLu vibhakti pratyayagaLannu
 baLasuttaveyAdare, bEre kelavu adakkinta bhinnavAgiruva padagaLa anukramadantaha
-bEre vidhAnagaLannu baLasuttave. vibhakti pratyayagaLannu baLasuva bhASegaLallU kelavu
+bEre vidhAnagaLannu baLasuttave. vibhakti pratyayagaLannu baLasuva bhAShegaLallU kelavu
 onderaDu pratyayagaLannu mAtra baLasuttaveyAdare, bEre kelavu naluvattu-ayvattu
 pratyayagaLannu baLasuttave. I ellA vayvidhyategaLannU gamanadallirisikonDu, avannella
-vivarisuvudakkAgi eSTu sambandhagaLa avaSyakateyideyembudAgi ondu nirdhArakke
+vivarisuvudakkAgi eShTu sambandhagaLa avaSyakateyideyembudAgi ondu nirdhArakke
 barabEkAgide, mattu adannu Adharisi sambandhagaLa paTTiyannu tayArisabEkAgide.
 
-illi ondu mukhya viSayavannu gamanisuva avaSyakateyide. artha embudu
+illi ondu mukhya viShayavannu gamanisuva avaSyakateyide. artha embudu
 padavannu biTTu pUra svatantravAgi nillalAradu. hAgAgi, nAvu kalpisikoLLuva arthada
-svarUpavannu nAvu baLasuva bhASeyU niyantrisutta 95 ellA bhASegaLigU anvayavAguva
+svarUpavannu nAvu baLasuva bhASheyU niyantrisutta 9೫ ellA bhAShegaLigU anvayavAguva
 hAge ondu niScitavAda svarUpada mattu sankhyeya nAma-kriyA sambandhagaLannu
 kalpi sikoLLalu sAdhyavAgadiruvudakke arthada mEliruva I nirbandhavE mukhya kAraNa.
 
-illi innondu viSayavannU gamanisuva avaSyakateyide. samskxtada karta,
+illi innondu viShayavannU gamanisuva avaSyakateyide. samskxtada karta,
 karma, karaNa modalAda kArakagaLu mElininda mEle nODuvAga arthada mEle
 avalambisiveyendu kANisuttade; Adare, nijakkU avu halavu samskxtadavE Ada
-vAkyaracaneya niyamagaLa mElU avalambisiddu, nEravAgi bEre bhASegaLige anvayisalu
+vAkyaracaneya niyamagaLa mElU avalambisiddu, nEravAgi bEre bhAShegaLige anvayisalu
 sAdhyavAguvantaha kalpa negaLE alla.
 
-udAharaNegAgi, mEle 8.7.6ralli sUcisida hAge, samskxtada karta) mattu
+udAharaNegAgi, mEle ೮.೭.೬ralli sUcisida hAge, samskxtada karta) mattu
 karma kArakagaLa mUlaka haLegannaDada vAkyaracaneya niyamagaLannu vivarisalu
 sAdhyavAguvudilla. avakkinta tIra bhinnavAda mADuga mattu AgugagaLemba ghaTakagaLa
 avaSyakate haLegannaDakkide. Adare, samskxtada vAkyaracaneya niyamagaLannu varNisalu
@@ -6905,9 +6906,9 @@ karta mattu karma kArakagaLE yOgyavAdavugaLu.
 
 <a id="sec-8-8"></a>
 
-## 8.8 sArAmSa
+## ೮.೮ sArAmSa
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-8-8) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-8--case-suffixes-and-semantic-roles)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-8--case-suffixes-and-semantic-roles) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-8-8)
 
 haLegannaDadalli vibhakti mattu vacanagaLannu ba bErebe bEre pratyayagaLu sUcisuvuvAda
 
@@ -6915,7 +6916,7 @@ kAraNa, avaSyavilladalli avannu baLasadiralu sA dhyavide. A Adare, samskxtadalli
 avaSa i avna px
 ondE pratyaya sUci? suvudAda kAraNa, avaSyavilladallU adannu baLasa? sabEkAguttade.
 
-158 jakkU haLegannaDa vyAkaraNa entahadu)
+೧೫೮ jakkU haLegannaDa vyAkaraNa entahadu)
 
 haLegannaDadalli vibhakti pratyayagaLigU, avu sUcisuva nAmapada-kriyApada
 sambandhagaLigU naDuve nEravAda hondANikeyide; Adare, samskxtadalli intaha
@@ -6932,18 +6933,18 @@ baLasuva avaSyakate haLegannaDakkide.
 idallade, nAmakriyA sambandhavannu sUcisuvudakkAgi haLegannaDa nAlku
 pratyayagaLannu mAtra baLasuttade; Adare, samskxta ELu pratyayagaLannu baLasuttade.
 
-samskxta mattu haLegannaDa bhASegaLa naDuviruva intaha halavu mUlabhUta
+samskxta mattu haLegannaDa bhAShegaLa naDuviruva intaha halavu mUlabhUta
 vyatyAsagaLannu gamanisadudarindAgi, haLegannaDa vayyAkaraNigaLu halavu
 samasyegaLannedurisabEkAgide.
 
 
 <a id="ch9"></a>
 
-# adhyAya 9 — kriyArUpagaLu
+# adhyAya ೯ — kriyArUpagaLu
 
 [↑ oLapiDige hintirugi](#toc)
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#ch9) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-9--verb-forms)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-9--verb-forms) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#ch9)
 
 ---
 
@@ -6953,17 +6954,17 @@ kri yArUpagaLu
 
 <a id="sec-9-1"></a>
 
-## 9.1 kriyArUpagaLa oLaracane
+## ೯.೧ kriyArUpagaLa oLaracane
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-9-1) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-9--verb-forms)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-9--verb-forms) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-9-1)
 
 
 vAkyada pradhAna angavAgi baruva kriyArUpagaLa oLaracaneyalli haLegannaDa
-mattu samskxta bhASegaLa naDuve halavu mukhyavAda vyatyAsagaLive. I eraDu bhASegaLu
+mattu samskxta bhAShegaLa naDuve halavu mukhyavAda vyatyAsagaLive. I eraDu bhAShegaLu
 baLasuva vyAkaraNada mUlatatvagaLu bEre bEreyAgiruvudE I vyatyAsagaLigU
 mUla kAraNa embudannu I adhyAyadalli nODaliruvevu.
 
-(1) samskxtadalli kriyArUpagaLannu racisuvudakkAgi kriyAdhAtuvige ghaTakavannu
+(೧) samskxtadalli kriyArUpagaLannu racisuvudakkAgi kriyAdhAtuvige ghaTakavannu
 sUcisuva "tij‌‌' pratyayagaLallondannu mAtra sErisuva avaSyakateyide. udAharaNegAgi,
 samskxtada yAti "hOguttA ne kriyArUpadalli yA "hOgu' dhAtuvina anantara
 adara ghaTakavondannu sUcisuva ti pratyaya mAtra bandide. samayavannu sUcisuvudakkAgi
@@ -6975,7 +6976,7 @@ udAharaNegAgi, haLegannaDada pOpan‌ kriyArUpadalli pO dhAtuvina anantara
 mundina samayavannu sUcisuva pa pratyaya mattu ghaTakavannu sUcisuva an‌
 pratyaya - hIge eraDu pratyayagaLu bandive.
 
-(2) haLegannaDadalli samayavannu sUcisuva pratyayagaLu ADugana samayakkU
+(೨) haLegannaDadalli samayavannu sUcisuva pratyayagaLu ADugana samayakkU
 ghaTaneya samayakkU naDuviruva sambandhavannu sUcisuvudakkAgi baLakeyAguttave.
 udAharaNegAgi, pOdan‌ kriyArUpadalli samayavannu sUcisuvudakkAgi d‌ pratyaya
 bandide, mattu pOpan‌ kriyArUpadalli p‌ pratyaya bandide. A kriyArUpavannu
@@ -6984,16 +6985,9 @@ d‌ pratyayavU, anantara naDeyalideyembudannu p‌ pratyayavU sUcisuttave.
 
 Adare, samskxtada kriyArUpagaLalli I rIti ADugana samayakkU ghaTaneya
 samayakkU naDuviruva sambandhavannu sUcisuvudakkintalU ghaTaneya Antarika samaya
-
-Ne
-
-pu © | aje e. dara
 vyavastheyannu sUcisuvudakkEnE heccina prAdhAnyateyannu koDalAgide, mattu idakkAgi,
 mEle sUcisida hAge, pratyEkavAda pratyayavannu baLasuva badalu, kriyAdhAtuvinalli
 mattu adara anantara ghaTakavannu sUcisuvudakkAgi baruva pratyayadalli kelavu
-
-di
-
 badalAvaNegaLannu mADalAguttade.
 
 udAharaNegAgi, tud‌ "hoDe' dhAtuvige mukhyavAgi tud‌ mattu tutOd‌
@@ -7005,12 +6999,12 @@ kriyArUpadallU kANabahudu.
 ghaTakavannu sUcisuva pratyayakke modalaneyadaralli ti emba rUpavideyAdare
 eraDaneyadaralli a emba rUpavide.
 
-(3) ghaTakagaLannu sUcisuva pratyayagaLallU haLegannaDa mattu samskxtagaLa
+(೩) ghaTakagaLannu sUcisuva pratyayagaLallU haLegannaDa mattu samskxtagaLa
 naDuve halavu vyatyAsagaLive:
 
-(ka) haLegannaDadalli I pratyayagaLu puruSa-vacana bhEdagaLannu mAtravallade
-prathama puruSadalli lingabhEdavannU sUcisuttave (bandan‌, bandaL‌, bandudu).
-Adare, samskxtadalli I pratyayagaLu puruSa mattu vacana bhEdavannu mAtra
+(ka) haLegannaDadalli I pratyayagaLu puruSha-vacana bhEdagaLannu mAtravallade
+prathama puruShadalli lingabhEdavannU sUcisuttave (bandan‌, bandaL‌, bandudu).
+Adare, samskxtadalli I pratyayagaLu puruSha mattu vacana bhEdavannu mAtra
 sUcisuttavallade, lingabhEdavannu sUcisuvudilla. udAharaNegAgi, samskxtada tudati
 kriyArUpavannu "hoDeyuttAne', "hoDeyuttALe', mattu "hoDeyuttade' embudAgi
 mUru arthagaLallU baLasalu sAdhyavide.
@@ -7028,13 +7022,13 @@ tu illavE ttu rUpagaLiveyembudu mAtra (mADidudu, mADitu, oDedattu) idakke
 apavAdavAgide).
 
 Adare, samskxtadalli I pratyayagaLu halavu rItiya rUpabhEdagaLannu tOrisuttave.
-udAharaNegAgi, prathamapuruSa Ekavacana pratyayakke apUrNa kAladalli ti
+udAharaNegAgi, prathamapuruSha Ekavacana pratyayakke apUrNa kAladalli ti
 rUpavideyAdare (karOti "mADuttAne'), bhUta pratyaya sEriruvalli t‌ rUpavide
 (akarOt‌ "mADida'). AtmanEpadadalli iveraDakkinta bhinnavAda tE mattu ta rUpagaLive
 (kurutE mattu akuruta). idE rItiyalli, I pratyayakke pUrNakAladallU bEre
-bEre rUpagaLive (cakAra, akArSit‌ mattu cakrE, akxta).
+bEre rUpagaLive (cakAra, akArShit‌ mattu cakrE, akxta).
 
-(4) samskxtada kriyApadagaLige parasmaypada mattu AtmanEpada embudAgi
+(೪) samskxtada kriyApadagaLige parasmaypada mattu AtmanEpada embudAgi
 eraDeraDu rUpagaLive. kriyApadavu tiLisuva ghaTaneyannu obba vyakti bErobbana
 lAbhakkAgi naDesuttiruvanAdare parasmaypada rUpa vannU, tanna lAbhakkAgi
 naDesuttiruvanAdare AtmanEpada rUpavannU baLasabEkembudu I vyatyAsada mUla
@@ -7046,7 +7040,7 @@ kriyArUpagaLu k‌
 
 I vyatyAsavannu sUcisuvudakkAgi samskxtada kriyApadagaLondige eraDu rItiya
 AkhyAta pratyayagaLu baLakeyAguttave. udAharaNegAgi, yaj‌ "yAga mADu'
-dhAtuvinondige apUrNa kAlada prathama puruSa-Ekavacanavannu sUcisalu
+dhAtuvinondige apUrNa kAlada prathama puruSha-Ekavacanavannu sUcisalu
 parasmaypadadalli ti pratyaya baruvudAdare, AtmanEpadadalli tE pratyaya baruttade
 (yajati, yajatE).
 
@@ -7058,10 +7052,10 @@ kelavu kriyApadagaLu kelavu samaya rUpagaLalli mAtra I vyatyAsavannu uLisikonDiv
 hosagannaDadalli I arthavyatyAsavannu sUcisuvudakkAgi kriyApadada modalina
 samayada rUpakke koLLu embudannu sErisi baLasalAguttade (mADu-mADikoLLu,
 koDisu-koDisikoLLu). haLegannaDadallU koL‌ kriyApadakke intahadE baLakeyittAdarU
-(tiLi-tiLidukoL‌), adu hosagannaDadalli kANisuvaSTu niyamitavAgi A arthavannu
+(tiLi-tiLidukoL‌), adu hosagannaDadalli kANisuvaShTu niyamitavAgi A arthavannu
 sUcisuva hAge kANisuvudilla.
 
-(5) kartari-karmaNi bhEda: samska tadalli ondu ghaTaneyannu varadi mADuvAga
+(೫) kartari-karmaNi bhEda: samska tadalli ondu ghaTaneyannu varadi mADuvAga
 adara kartxvina badalu karmakke prAdhAnyateyannu koDabEkidda lli bEreyE ondu
 kriyArUpavannu baLasabEkAguttade. kartavige prAdhAnyateyannu koDuva mEle vivarisida
 kriyArUpagaLannu "kartari' rUpagaLendu kareyalAguttade, mattu karmakke prAdhAnyateyannu
@@ -7073,97 +7067,97 @@ idallade, kriyApadadallU kelavu badalAvaNegaLannu mADikoLLabEkAguttade.
 udAharaNegAgi, kx "mADu' dhAtuvige kartariyalli karOti “mADuttAne”
 rUpavideyAdare, karmaNiyalli kriyatE rUpavide.
 
-haLegannaDada kriyApadagaLige intaha viSiSTavAda karmaNi rUpagaLilla. avu
+haLegannaDada kriyApadagaLige intaha viSiShTavAda karmaNi rUpagaLilla. avu
 koDuva arthavannu sUcisabEkiddalli, kriyApadagaLa samyuktarUpagaLannu
 baLasabEkAguttade (avanim mADe paTTudu, padakam akkasAleyim mADal‌ paTTudu,
-tAn‌ iral‌ paTTam, ityAdi). (jAsti vivaragaLige kiTTel‌ 1903:323-30 nODi).
+tAn‌ iral‌ paTTam, ityAdi). (jAsti vivaragaLige kiTTel‌ ೧೯೦೩:೩೨೩-೩೦ nODi).
 
 
 <a id="sec-9-1-1"></a>
 
-### 9.1.1 haLegannaDa vayyAkaraNigaLa samasyegaLu
+### ೯.೧.೧ haLegannaDa vayyAkaraNigaLa samasyegaLu
 
 
-haLegannaDada prAcIna vayyAkaraNigaLu A bhASeya kriyArUpagaLannu modalige
+haLegannaDada prAcIna vayyAkaraNigaLu A bhASheya kriyArUpagaLannu modalige
 samskxtadalli baLakeyAguva vidhAnagaLa mUlakavE varNisi, anantara avugaLa hindiruva
 niyamagaLige oLagAgada rUpagaLannu bEre niyamagaLa mUlaka varNisalu prayatnisiddAre.
 intaha tEpekelasadindAgi ivaru racisida vyAkaraNa niyamagaLella anavaSyakavAgi
 
-kESirAjanu (sU. 232) haLegannaDa kriyArUpagaLalli ghaTakavannu sUcisuvudakkAgi
+kESirAjanu (sU. ೨೩೨) haLegannaDa kriyArUpagaLalli ghaTakavannu sUcisuvudakkAgi
 baLakeyAguva pratyayagaLannu mAtra pra tyaya'gaLendu (AkhyAta (vibhakti) pratyayagaLendu)
 karediddAne. samayavannu sUcisuva pratyayagaLannu pratyayagaLendu kareyade, AkhyAta
-pratyayagaLa modalu baruvavugaLendiSTE hELiddAne. idu mEle sUcisidantaha
+pratyayagaLa modalu baruvavugaLendiShTE hELiddAne. idu mEle sUcisidantaha
 tEpekelasakke ondu udAharaNe.
 
 samayavannu sUcisuva kriyArUpagaLalli AkhyAta pratyaya, samskxtadalliruva
 hAge, nEravAgi kriyApadada anantara baruvudillavAda kAraNa, nAgavarmanu AkhyAta
 pratyayagaLa baLakege udAharaNegaLannu koDuvAga samayavannu sUcisuva kriyArUpagaLa
-badalu allagaLeyuva kriyArUpagaLannu koTTiddAne (doDDasvAmi 1980:396 nODi).
+badalu allagaLeyuva kriyArUpagaLannu koTTiddAne (doDDasvAmi ೧೯೮೦:೩೯೬ nODi).
 
-samskxtadalli ghaTakavannu sUcisuva tij‌‌ pratyayagaLu ghaTakagaLa puruSa mattu
-vacanabhEdagaLannu mAtra sUcisuttave; Adare, haLegannaDada ghaTaka pratyayagaLu puruSa
-mattu vacanagaLannu mAtravallade prathama puruSadalli lingabhEdavannU sUcisuttave
-(9.3 nODi).
+samskxtadalli ghaTakavannu sUcisuva tij‌‌ pratyayagaLu ghaTakagaLa puruSha mattu
+vacanabhEdagaLannu mAtra sUcisuttave; Adare, haLegannaDada ghaTaka pratyayagaLu puruSha
+mattu vacanagaLannu mAtravallade prathama puruShadalli lingabhEdavannU sUcisuttave
+(೯.೩ nODi).
 
-kESirAjanE modalAdavaru haLegannaDada kriyArUpagaLalli puruSa mattu
+kESirAjanE modalAdavaru haLegannaDada kriyArUpagaLalli puruSha mattu
 vacanagaLannu sUcisuvudakkAgi baruva am‌, ar‌, ay‌, ir‌, en‌, evu pratyayagaLannu
 mAtravE akhyAta pratyayagaLendu karediddAre. samskxtada kriyArUpagaLalli intaha
-AkhyAta pratyayagaLa mUlaka puruSa mattu vacanagaLannu mAtravE
+AkhyAta pratyayagaLa mUlaka puruSha mattu vacanagaLannu mAtravE
 sUcisalAguttadeyembudE idakke kAraNa.
 
-haLegannaDada kriyArUpagaLalli lingabhEdavannu sUcisuvudakkAgi prathamapuruSadalli
+haLegannaDada kriyArUpagaLalli lingabhEdavannu sUcisuvudakkAgi prathamapuruShadalli
 baruva stra €linga-Ekavacanada aL‌, napumsakalinga Ekavacanada udu mattu napumsakalinga-
-bahuvacanada uvu ivannella AkhyAta pratyayagaLendu kareyade prathamapuruSa (pullinga)
+bahuvacanada uvu ivannella AkhyAta pratyayagaLendu kareyade prathamapuruSha (pullinga)
 Ekavacana mattu bahuvacana pratyayagaLa mEle bandiruva "AdESa'gaLendu kareyalAgide
-(kESirAja, sU. 236-7 nODi). idu mEle sUcisidantaha tEpekelasakke innondu
+(kESirAja, sU. ೨೩೬-೭ nODi). idu mEle sUcisidantaha tEpekelasakke innondu
 udAharaNe.
 
 
 <a id="sec-9-2"></a>
 
-## 9.2 samayavannu sUcisuva vidhAnagaLu
+## ೯.೨ samayavannu sUcisuva vidhAnagaLu
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-9-2) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-9--verb-forms)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-9--verb-forms) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-9-2)
 
-ondu ghaTane illavE sangatiya samayavannu sUcisuvudakkAgi bhASegaLalli
+ondu ghaTane illavE sangatiya samayavannu sUcisuvudakkAgi bhAShegaLalli
 mukhyavAgi mUru rItiya vidhAnagaLu baLakeyallive:
 (ka) ghaTane illavE sangatiya samayavannu A ghaTaneyannu varadimADuva
 samayakke sambandhisidante sUcisuvudu ivugaLalli ondu vidhAna;
-(kha) ghaTane mugidudE athavA mugiyadudE, kSaNikavE athavA jAsti
+(kha) ghaTane mugidudE athavA mugiyadudE, kShaNikavE athavA jAsti
 hottu naDeyuvantahadE, omme naDedudE athavA halavu bAri
 naDedudE modalAdantaha ghaTaneya Antarika samaya vyavastheyannu
 sUcisuvudu eraDaneya vidhAna; mattu
 (ga) ghaTane nijavAdudE athavA nijavalladudE, adu naDediruva illavE
 
-kriyArUpagaLu iSu
+kriyArUpagaLu iShu
 
-naDeyaliruva viSayadalli ADugana tiLuvaLikeyentahadu (Ata svata:
+naDeyaliruva viShayadalli ADugana tiLuvaLikeyentahadu (Ata svata:
 nODiruvudE, athavA innobbarinda kELi tiLidiruvantahadE)
-modalAdantaha ghaTaneya viSayadalli ADugana manObhAvaventahadu
+modalAdantaha ghaTaneya viShayadalli ADugana manObhAvaventahadu
 embudannu sUcisuvudu mUraneya vidhAna.
 ghaTaneya samaya sambandhavannu sUcisuvudu, samayada vyavastheyannu
 sUcisuvudu, mattu ghaTaneya samayada kuritu ADugana manObhAvavannu sUcisuvudu
-embudAgi I mUru vidhAnagaLannu sankSiptavAgi varNisalu sAdhyaviddu, ivannu
+embudAgi I mUru vidhAnagaLannu sankShiptavAgi varNisalu sAdhyaviddu, ivannu
 "samaya sambandha', "samaya vyavasthe ' mattu "manObhAva' embudAgi hesarisabahudu.
-bhASegaLa naDuve samaya sUcaneyalli kANisuva ondu mukhya vyatyAsavEnendare,
+bhAShegaLa naDuve samaya sUcaneyalli kANisuva ondu mukhya vyatyAsavEnendare,
 avu I mUru vidhAnagaLalli ondakke hecci na mahatvavannu koDuttave. udAharaNegAgi,
-kannaDadalli (mattu itara drAviDa bhASegaLalli) ghaTaneya samaya mattu mAtina
+kannaDadalli (mattu itara drAviDa bhAShegaLalli) ghaTaneya samaya mattu mAtina
 samayagaLa naDuviruva sambandhakke heccina mahatvavannu koDalAgiddu, modalaneya
 vidhAna pradhAnavAdudu.
 Adare, samskxtadalli I eraDu samayagaLa naDuviruva sambandhakkintalU ghaTaneya
 Antarika samaya vyavasthe ge (idarallU mukhyavAgi pUrNa mattu apUrNa emba
 vibhajanege) heccina mahatvavannu koDalAgiddu, eraDaneya vidhAna pradhAnavAdudu.
-TibeTO-barman‌ kuTumbakke sErida barmiೀs‌ bhASeyalli ADugana
+TibeTO-barman‌ kuTumbakke sErida barmiೀs‌ bhASheyalli ADugana
 manObhAvakke heccina mahatvavannu koDalAgiddu, samaya sUcaneyalli modalina
 eraDu vidhAnagaLigintalU mUraneya vidhAna pradhAnavAdudu (jAsti vivaragaLige
-bhaT‌ 1999 nODi).
-haLegannaDa mattu samskxta bhASegaLa naDuve ghaTanegaLa' samaya sUcaneyalli
-kANisuva I vyatyAsavannu avugaLalli baLakeyAguva kriyArUpagaLalli spaSTavAgi
+bhaT‌ ೧೯೯೯ nODi).
+haLegannaDa mattu samskxta bhAShegaLa naDuve ghaTanegaLa' samaya sUcaneyalli
+kANisuva I vyatyAsavannu avugaLalli baLakeyAguva kriyArUpagaLalli spaShTavAgi
 kANabahudu.
 haLegannaDada kriyApadagaLigella mukhyavAgi eraDeraDu samayarUpagaLive. ivugaLalli
 ondu mAtina samayada anantara naDeyuva ghaTanegaLannu sUcisuvudakkAgi
 baLakeyAguttade, mattu innondu adakkinta modalu naDeda ghaTanegaLannu sUcisuvudakkAgi
-baLakeyAguttade. I eraDu rUpagaLannu "mundina' samayada (bhaviSyat‌ kAlada)
+baLakeyAguttade. I eraDu rUpagaLannu "mundina' samayada (bhaviShyat‌ kAlada)
 kriyArUpagaLu mattu "hindina' samayada (bhUtakAlada) kriyArUpagaLu embudAgi
 hesarisabahudu. udAharaNegAgi, keLage koTTiruva haLegannaDada kriyArUpagaLannu
 gamanisabahudu:
@@ -7179,13 +7173,13 @@ Iven‌ itten‌
 embar‌ endar‌
 
 haLegannaDadalli baruva I eraDu rItiya kriyArUpagaLalli hindina samayada
-kriyArUpagaLannu sAdhisuvudu svalpa kaSTa. yAkendare, I kriyArUpagaLalli baruva
-kriyApadadalli, sal‌>san‌, nil‌>nin‌, tar‌ »tan‌ iDuiT‌, nagu>nak‌, kuDu»koT‌,
+kriyArUpagaLannu sAdhisuvudu svalpa kaShTa. yAkendare, I kriyArUpagaLalli baruva
+kriyApadadalli, sal‌>san‌, nil‌>nin‌, tar‌>tan‌ iDuiT‌, nagu>nak‌, kuDu>koT‌,
 kiDu*keT‌, modalAdavugaLalli kANisuva hAge, halavAru badalAvaNegaLu naDeyuttave,
 mattu adarondige baruva samaya pratyayadallU d‌ಾT‌ಾk‌ಾt‌ಾD‌ಾy‌ modalAda
 halakelavu badalAvaNegaLu kANisikoLLutta ve. ivannella sariyAgi varNisabEkiddalli
 kriyApadagaLannu kaDimeyendare enTu gumpugaLallAdarU vingaDisuva avaSyakateyide
-(rAmacandra rAv‌ 1972:112-18 nODi).
+(rAmacandra rAv‌ ೧೯೭೨:೧೧೨-೧೮ nODi).
 
 samskxtada kriyApadagaLige mukhyavAgi apUrNa mattu pUrNagaLemba eraDu
 rItiya samaya vyavasthegaLannu sUcisuva kriyArUpagaLive. ivannu samskxta vyAkaraNagaLalli
@@ -7204,13 +7198,13 @@ kupyati "kOpisutAne cukOpa "kOpisida'
 
 I eraDu rItiya kriyArUpagaLalli liT‌ rUpagaLannu sAdhisuvudu sulabha.
 idakkAgi kriyAdhAtuvina dvitva rUpavannu baLasabEku, mattu adara svara mattu
-vyanjanagaLalli kelavu jAsti kliSTavallada badalAvaNegaLannU mADikoLLabEku.
+vyanjanagaLalli kelavu jAsti kliShTavallada badalAvaNegaLannU mADikoLLabEku.
 udAharaNegAgi, bhU "Agu' dhAtuvininda adara liT‌ rUpavAda babhUva embudannu
 sAdhisuvalli A dhAtuvannu eraDu bAri baLasalAgiddu, modalaneya baLakeyalli bhU
 embudannu ba embudAgi badalisalAgide.
 
 Adare, kriyApadagaLa laT‌ rUpavannu sAdhisabEkiddalli, avugaLalli halavAru
-bahaLa kliSTavAda badalAvaNegaLannu mADikoLLabEkAguttade. I badalAvaNegaLannella
+bahaLa kliShTavAda badalAvaNegaLannu mADikoLLabEkAguttade. I badalAvaNegaLannella
 sariyAgi varNisalu samskxtada vayyAkaraNigaLu dhAtugaLannu oTTu hattu
 gumpu(gaNa)gaLalli vingaDisabEkAgide. ivugaLalli kelavu dhAtugaLu dvitva rUpadalli
 baruttave (bhx "horu' bibharti "horuttAne'), kelavu svaradalli badalAvaNeyannu
@@ -7220,7 +7214,7 @@ tOrisuttave (kx "mADu' karOti "mADuttAne'), kelavakke yakAravannu sErisabEkAgutt
 turukisabEkAguttade (muc‌ "biDu' muncati "biDuttAne'), ityAdi.
 
 sAmAnyavAgi samskxtada I kriyArUpagaLannu kannaDakke anuvAdisuvAga (mEle
-koTTiruva hAge) laT‌ rUpagaLannu mundina athavA Igina samayada (bhaviSyat‌
+koTTiruva hAge) laT‌ rUpagaLannu mundina athavA Igina samayada (bhaviShyat‌
 athavA vartamAna) ghaTaneyannu sUcisuvanteyU liT‌ rUpagaLannu hindina samayada
 (bhUta) ghaTaneyannu sUcisuvanteyU tOrisuvudu rUDhi. Adare, nijakkU iveraDu
 rUpagaLa naDuviruva vyatyAsa ghaTaneya "samaya sambandha'vannu sUcisuvantahadAgirade
@@ -7239,153 +7233,153 @@ samskxtadalli avu baLakeyinda biddu hOgive.
 
 samayabhEdavannu sUcisuvudakkAgi samskxtadalli innU halavu kriyArUpagaLu
 baLakeyalliddu, ivugaLallella mEle sUcisida apUrNa mattu pUrNavemba samaya
-vyavastheya vyatyAsavE pradhAna vyatyAsavAgi kANisikoLLuttade (barO 1955:294
-nODi). vEda kAlada samskxtadalli idu spaSTavAgittu; Adare, anantarada samskxtadalli
-aspaSTavAgide.
+vyavastheya vyatyAsavE pradhAna vyatyAsavAgi kANisikoLLuttade (barO ೧೯೫೫:೨೯೪
+nODi). vEda kAlada samskxtadalli idu spaShTavAgittu; Adare, anantarada samskxtadalli
+aspaShTavAgide.
 
-vEdakAlada anantara kramENa samskxta bhASege mAtina baLake tappihOgi, adu
-bariya grAnthika bhASeyAgi uLidukonDiruvudE I rIti halavu vyAkaraNada sUksma
+vEdakAlada anantara kramENa samskxta bhAShege mAtina baLake tappihOgi, adu
+bariya grAnthika bhASheyAgi uLidukonDiruvudE I rIti halavu vyAkaraNada sUksma
 vyatyAsagaLu adara baLakeyinda biddu hOgalu kAraNavirabEku.
 
 mAtina baLakeyallE uLidukonDiruva hindi, marAThi modalAda Adhunika
-inDO-Aryan‌ bhASegaLalli ivattigU samaya sambandhakkinta samaya vyavasthege
-hecci na mahatvaviruvudannu spaSTavAgi kANabahudu. udAharaNegAgi, hindi bhASeyalli
+inDO-Aryan‌ bhAShegaLalli ivattigU samaya sambandhakkinta samaya vyavasthege
+hecci na mahatvaviruvudannu spaShTavAgi kANabahudu. udAharaNegAgi, hindi bhASheyalli
 A "baru' kriyApadakke AtA mattu AyA emba eraDu rUpagaLiddu ivu apUrNa
 mattu pUrNa ghaTanegaLannu sUcisuvudakkAgi baLakeyAguttave.
 
-samaya sambandhavannu sUcisuvudakkAgi hindi bhASeyalli I eraDu
+samaya sambandhavannu sUcisuvudakkAgi hindi bhASheyalli I eraDu
 kriyArUpagaLondige hay "Igina athavA mundina samaya' mattu thA "hindina
 samaya' embudAgi eraDu upakriyApadagaLannu baLasalu sAdhyavideyAdarU, mElina
 pUrNa-apUrNa rUpagaLannu antaha upakriyApadagaLa sahAyavilladeyU baLasalu
-sAdhyavide (1ga-2ga nODi).
+sAdhyavide (೧ga-೨ga nODi).
 
-(1ka) may AtA hUm (Igina athavA mundina kAlada apUrNa ghaTane)
-(1kha) may AtA thA (hindina kAlada apUrNa ghaTane)
-(1ga) may AtA (apUrNa ghaTane)
+(೧ka) may AtA hUm (Igina athavA mundina kAlada apUrNa ghaTane)
+(೧kha) may AtA thA (hindina kAlada apUrNa ghaTane)
+(೧ga) may AtA (apUrNa ghaTane)
 
-(25) may AyA hUm (Igina athavA mundina kAlada pUrNa ghaTane)
-(2kha) may AyA thA (hindina kAlada pUrNa ghaTane)
-(2ga) may AyA (pUrNa ghaTane)
+(೨5) may AyA hUm (Igina athavA mundina kAlada pUrNa ghaTane)
+(೨kha) may AyA thA (hindina kAlada pUrNa ghaTane)
+(೨ga) may AyA (pUrNa ghaTane)
 
-samaya vyavasthe yannu sUcisuvudakkAgi haLegannaDadalli kelavu viSiSTavAda
+samaya vyavasthe yannu sUcisuvudakkAgi haLegannaDadalli kelavu viSiShTavAda
 kriyApadagaLa baLakeyAguttadallade, samskxtada hAge pratyayagaLa baLakeyilla.
 udAharaNegAgi, aTaHdattu, uridattu embantaha prayOgagaLalli aTaH mattu uri
 kriyApadagaLondige avu sUcisuva ghaTane pUrNagonDideyemba arthavannu
 koDuvudakkAgi Agu kriyApadada "hindina' samayada rUpa baLakeyAgide (rAmacandra
-rAv‌ 1972:126 nODi).
+rAv‌ ೧೯೭೨:೧೨೬ nODi).
 
 Agu kriyApadada mundina samayada rUpavannu ivE kriyApadagaLondige
 baLasi avu sUcisuva ghaTane pUrNagonDillavemba arthavannu sUcisalu sAdhyavide
 (aludapudu, uridapudu). intaha kriyArUpagaLalli dapa emba "vartamAna pratyaya'
 bandideyendu kannaDada vayyAkaraNigaLu hELiruvudu nijakkU sariyalla embudannu
-keLage (9.2.1)ralli tOrisikoDalAgide.
+keLage (೯.೨.೧)ralli tOrisikoDalAgide.
 
 
 <a id="sec-9-2-1"></a>
 
-### 9.2.1 dapa mattu va pratyayagaLu
+### ೯.೨.೧ dapa mattu va pratyayagaLu
 
 
 haLegannaDadalli da, dapa mattu va embudAgi mUru kAlavAcaka pratyayagaLive,
-mattu ivu anukramavAgi bhUta, vartamAna, mattu bhaviSyat‌ kAlagaLannu sUcisuttave
+mattu ivu anukramavAgi bhUta, vartamAna, mattu bhaviShyat‌ kAlagaLannu sUcisuttave
 embudAgi kESirAjanE modalAda haLegannaDada vayyAkaraNigaLellarU hELiddA re.
 Adare, nijakkU haLegannaDada granthagaLalli I pratyayagaLa baLake hEgideyembudannu
-pariSIlisidevAdare, dapa mattu va pratyayagaLa viSayadalli I hELike sariyalla emba
-viSaya spaSTavAguttade.
+pariSIlisidevAdare, dapa mattu va pratyayagaLa viShayadalli I hELike sariyalla emba
+viShaya spaShTavAguttade.
 
-pampabhAratadalli dapa pratyaya bhaviSyadarthadalli mAtravalla de vartamAnArthadallU
+pampabhAratadalli dapa pratyaya bhaviShyadarthadalli mAtravalla de vartamAnArthadallU
 baLakeyAguttade embudannu keLagina prayOgagaLalli kANabahudu.
 
-(ka) bhaviSyadarthadalli dapa pratyayada baLake
+(ka) bhaviShyadarthadalli dapa pratyayada baLake
 
-(3ka) kaDalam pokkoDe pIrdapem kaDalanA pAtALamam pokkanappoDe
-SESAhiya pallaLam mujAdapem (13.76)
+(೩ka) kaDalam pokkoDe pIrdapem kaDalanA pAtALamam pokkanappoDe
+SEShAhiya pallaLam mujAdapem (೧೩.೭೬)
 '(daryOdhananu) kaDalannu hokkare kaDalannu hIruttEne, pAtALavannu
-hokkanAdare AdiSESana hallugaLannu muriyuttEne'
+hokkanAdare AdiSEShana hallugaLannu muriyuttEne'
 
-(3kha) seragam bagedoDe sAvAdapudu (11.21)
-"sahAyavannu apEkSisidare sAvAguttade'
+(೩kha) seragam bagedoDe sAvAdapudu (೧೧.೨೧)
+"sahAyavannu apEkShisidare sAvAguttade'
 
-(3ga) moneyambugaLoLe pUNNapan‌ anibarumam kijudu bEgadim harigan‌
+(೩ga) moneyambugaLoLe pUNNapan‌ anibarumam kijudu bEgadim harigan‌
 adarke enage eDemETkume embavol‌ anibarumam pUNNan‌ atanu
-naneyambugaLim (3.52)
+naneyambugaLim (೩.೫೨)
 
-"hariganu svalpa hottinalli aSTu janarannU monacAda bANagaLinda
+"hariganu svalpa hottinalli aShTu janarannU monacAda bANagaLinda
 hULibiDuttAne, anantara nAnu bANabiDuvudakke sthaLa bEkallavE?
-ennuva hAge manmathanu aSTu janarannU puSpabANagaLinda hUtanu'
+ennuva hAge manmathanu aShTu janarannU puShpabANagaLinda hUtanu'
 
 (kha) vartamAnArthadalli dapa pratyayada baLake
 
-(4ka) e geyyal‌ bagedape (13.64va)
+(೪ka) e geyyal‌ bagedape (೧೩.೬೪va)
 "Enu mADabEkendu AlOcisutti ddI?'
 
-(4kha) birayiya miTtuvem mididoDalladaNam muLisAjadendu palmoredapan‌
-illi manmathan‌ (3.13)
+(೪kha) birayiya miTtuvem mididoDalladaNam muLisAjadendu palmoredapan‌
+illi manmathan‌ (೩.೧೩)
 "nAnu virahigaLa SatruvAgiddEne; avarannu tuLidarallade nanna kOpavu
 svalpavU Aruvudilla endu illi manmathanu hallu maseyuttiddAne'
 
-(4ga) enna kaNNi 0 kiDiyum kenDangaLum sUsidapuvu ahitaram nODi (7.13)
+(೪ga) enna kaNNi ೦ kiDiyum kenDangaLum sUsidapuvu ahitaram nODi (೭.೧೩)
 "SatrugaLannu nODi nanna kaNNininda kiDiyU kenDagaLU celluttive'
 
-mEle (3ka)dalli pIrdapem mattu mujudapem emba eraDu kriyArUpagaLU Sarattannu
+mEle (೩ka)dalli pIrdapem mattu mujudapem emba eraDu kriyArUpagaLU Sharattannu
 sUcisuva pokkoDe mattu pokkanappoDe emba kriyArUpagaLa anantara bandiruva
-kAraNa, avu munde naDeyabahudAda (endare bhaviSyattina) ghaTanegaLannu
+kAraNa, avu munde naDeyabahudAda (endare bhaviShyattina) ghaTanegaLannu
 sUcisuttaveyallade mAtanADuva samayadalli naDeyuttiruva (vartamAna) ghaTanegaLannu
-sUcisuvudilla. idE rItiyalli, (3kha)dallU Adapudu emba kriyArUpa bagedoDe
-emba Sarattannu sUcisuva kriyArUpada anantara bandideyAda kAraNa, adakkU
+sUcisuvudilla. idE rItiyalli, (೩kha)dallU Adapudu emba kriyArUpa bagedoDe
+emba Sharattannu sUcisuva kriyArUpada anantara bandideyAda kAraNa, adakkU
 vartamAnArthavideyendu hELalu sAdhyavilla.
 
-(3ga)dalli pUNNapam emba kriyArUpa svalpa hottinalli (endare bhaviSyattinalli)
+(೩ga)dalli pUNNapam emba kriyArUpa svalpa hottinalli (endare bhaviShyattinalli)
 EnAgabahudu embudannu sUcisuttadeyallade, Igina sthiti Enu athavA Enu naDeyuttA
-ide embudannu sUcisuvudilla. I ellA prayOgagaLallU dapa pratyaya bhaviSyadarthadalli
+ide embudannu sUcisuvudilla. I ellA prayOgagaLallU dapa pratyaya bhaviShyadarthadalli
 baLakeyAgide.
 
-idakke badalu, (4ka-ga) vAkyagaLalli idE pratyaya vartamAnArthadalli
-baLakeyAgideyendu hELabEkAguttade. udAharaNegAgi, (4ka)dalli bagedape kriyArUpa
+idakke badalu, (೪ka-ga) vAkyagaLalli idE pratyaya vartamAnArthadalli
+baLakeyAgideyendu hELabEkAguttade. udAharaNegAgi, (೪ka)dalli bagedape kriyArUpa
 mAtanADuttiruva samayadalli Atanalli entaha AlOcaneyide embudannu praSnisuttade;
-(4kha)dalli bandiruva palmoredapan‌ embudu manmathanu Enu mADutti dbA ne embudannu
-sUcisuttade, mattu (4ga)dalli sUsidapuvu embudu A samayadalli Atana kaNNugaLu
+(೪kha)dalli bandiruva palmoredapan‌ embudu manmathanu Enu mADutti dbA ne embudannu
+sUcisuttade, mattu (೪ga)dalli sUsidapuvu embudu A samayadalli Atana kaNNugaLu
 hEgive embudannu varNisuttade.
 
-dapa pratyayada hAgeyE va (pa) pratyayavU pampabhAratadalli bhaviSyat‌ mattu
+dapa pratyayada hAgeyE va (pa) pratyayavU pampabhAratadalli bhaviShyat‌ mattu
 vartamAnArthagaLeraDarallU baLakeyAguttade embudannu keLagina udAharaNegaLalli
 kANabahudu:
 
-(ka) bhaviSyadarthadalli va pratyayada baLake
+(ka) bhaviShyadarthadalli va pratyayada baLake
 
-(5ka) karNanan‌ IgaLe kulajanam mADi tOrpen‌ (2.83va)
+(೫ka) karNanan‌ IgaLe kulajanam mADi tOrpen‌ (೨.೮೩va)
 "karNanannu IgalE kulajanannAgi mADi tOrisuttEne'
 
-(5kha) Atange kaTTidir‌ nilvoDe nIne nilve (13.31)
+(೫kha) Atange kaTTidir‌ nilvoDe nIne nilve (೧೩.೩೧)
 "Atanige sarisamanAgi nilluvudiddare nInE nilluttI (nInobbanE
 nillaballe)'
 
-(5ga) emma magaLge puTTidAtam rAjyakkoDeyanappoDe kuDuvem
+(೫ga) emma magaLge puTTidAtam rAjyakkoDeyanappoDe kuDuvem
 "namma magaLige huTTidavanu rAjyakkoDeyanAguvudAdare (magaLannu)
 koDuttEve'
 
 (kha) vartamAnArthadalli va pratyayada baLake
-(6ka) siriyum Akeya keladoL‌ nasu masuLLu tOrpaL‌ (1.40)
-"lakSmI dEviyU Akeya pakkadalli svalpa kAntihInaLAgi tOruttALe”
-(6kha) uddata sidda khEcarare kAvar‌ (5.81)
-"(I khAnDava vanavannu) garviSTharAda siddha khEcararE kAyuttiddAre”
+(೬ka) siriyum Akeya keladoL‌ nasu masuLLu tOrpaL‌ (೧.೪೦)
+"lakShmI dEviyU Akeya pakkadalli svalpa kAntihInaLAgi tOruttALe”
+(೬kha) uddata sidda khEcarare kAvar‌ (೫.೮೧)
+"(I khAnDava vanavannu) garviShTharAda siddha khEcararE kAyuttiddAre”
 
-(5ka)dalli tOrpen‌ kriyArUpa duryOdhananu munde naDesaliruva ghaTaneyondannu
-sUcisuttideyAda kAraNa, adaralli bandiruva va (pa) pratyayakke bhaviSyadarthavide.
-idE rItiyalli, (5kha) mattu (5ga) vAkyagaLalli nilve mattu kuDuvem kriyArUpagaLu
-Sarattannu sUcisuva nilvoDe mattu appoDe kriyArUpagaLa anantara bandiruva
-kAraNa, avu A Sarattannu pUrNagoLisida mEle, endare bhaviSyatkAladalli
+(೫ka)dalli tOrpen‌ kriyArUpa duryOdhananu munde naDesaliruva ghaTaneyondannu
+sUcisuttideyAda kAraNa, adaralli bandiruva va (pa) pratyayakke bhaviShyadarthavide.
+idE rItiyalli, (೫kha) mattu (೫ga) vAkyagaLalli nilve mattu kuDuvem kriyArUpagaLu
+Sharattannu sUcisuva nilvoDe mattu appoDe kriyArUpagaLa anantara bandiruva
+kAraNa, avu A Sharattannu pUrNagoLisida mEle, endare bhaviShyatkAladalli
 naDeyabahudAda ghaTanegaLannu mAtravE sUcisaballuvu.
 
-idakke badalu, (65) vAkka mAtanADuva samayadalli lakSmI dEvi hEge
+idakke badalu, (೬5) vAkka mAtanADuva samayadalli lakShmI dEvi hEge
 kANisuttiddALe embudannu varNisuttideyAda kAraNa, adaralli bandiruva tOrpaL‌
 kriyArUpadalli va (pa) pratyaya vartamAnArthadalli bandideyendu hELabEkAguttade.
-(6kha)dalli bandiruva kAvar‌ kriyArUpavU idE rItiyalli vartamAnArthadalli
+(೬kha)dalli bandiruva kAvar‌ kriyArUpavU idE rItiyalli vartamAnArthadalli
 bandide.
 
-mElina udAharaNegaLinda ondu viSayavantU spaSTavAguttade: dapa mattu
+mElina udAharaNegaLinda ondu viShayavantU spaShTavAguttade: dapa mattu
 va pratyayagaLa naDuve "samaya sambandha'da maTTige yAva vyatyAsavU illa. eraDannU
-vartamAnArthadallU baLasabahudu, bhaviSyadarthadallU baLasabahudu. hAgAdare
+vartamAnArthadallU baLasabahudu, bhaviShyadarthadallU baLasabahudu. hAgAdare
 avugaLa naDuve arthadalli vyatyAsavEnAdarU ideyE? mattu ideyAdare adu
 
 entahadu? idannu tiLiyalu I "pratyaya'gaLa caritreyentahadu embudannu pariSIlisuva
@@ -7401,26 +7395,26 @@ kAraNavirabEku.
 haLegannaDadalli dapa pratyaya kelavu sandarbhagaLalli dappa rUpadallU
 kANisikoLLuttade. udAharaNegAgi, pampabhAratada keLagina baLakeyannu gamanisabahudu:
 
-(7) ivar‌ gajegonDenappoDe IgaDe paredappar‌ (11.142)
+(೭) ivar‌ gajegonDenappoDe IgaDe paredappar‌ (೧೧.೧೪೨)
 "gadeyannu tegedukonDare ivaru IgalE cadarihOguttAre'
 
-(7)nE vAkyada paredappar‌ kriyArUpadalli dapa embudu dappa rUpadallide. I
+(೭)nE vAkyada paredappar‌ kriyArUpadalli dapa embudu dappa rUpadallide. I
 kriyArUpavannu pariSIlisidAga, adaralli pare kriyApadada sAmAnya rUpavondu
 bandiruva badalu adarondige bErondu kriyApadada kriyArUpa sEriruva hAge
 kANisuttade. pare kriyApadada sambandhisuva rUpavAda pareda embudarondige Agu
 kriyApadada mundina samayada rUpavAda appar‌ embudannu sErisi mElina
 paredappar‌ rUpavannu tayArisirabahudE?
 
-kiTTel‌ (1903:125) avaru intaha abhiprAyavannu namma mundirisiddA Be
+kiTTel‌ (೧೯೦೩:೧೨೫) avaru intaha abhiprAyavannu namma mundirisiddA Be
 kriyApadagaLa sambandhisuva rUpa(bhUtavibhaktikxt‌)dondige Agu kriyApadada
-bhaviSyadrUpagaLannu sErisi I kriyArUpagaLannu tayArisalAgideyendu avaru
+bhaviShyadrUpagaLannu sErisi I kriyArUpagaLannu tayArisalAgideyendu avaru
 abhiprAyapaTTiddA re.
 
 Adare, hIge hELuvudaralli ondu mukhyavAda samasyeyide. haLegannaDadalli
 kxdantarUpa(kriyApadada sambandhisuva rUpa)vannu nEravAgi bErondu
 kriyApadadondige baLasalu sAdhyavAgadu. adannu nAmapadadondige mAtravE baLasalu
 sAdhya. kri yApadadondige baLasabEkidda lli, adakke linga-vacana pratyayagaLannu sErisuvudara
-mUlaka nAmarUpakke badalAyisikoLLuva avaSyakateyide (6.1.3 nODi).
+mUlaka nAmarUpakke badalAyisikoLLuva avaSyakateyide (೬.೧.೩ nODi).
 
 hAgAgi, modalige I kriyArUpagaLu nAmarUpadalliddu, anantara Igina
 rUpakke badalAyisive endu hELabEkAguttade. udAharaNegAgi, paredappar‌ embudu
@@ -7447,20 +7441,20 @@ emba praSnege uttaravannU mElina cAritrika kalpaneyE koDaballudendu nanage tOrut
 hosagannaDadalli baruttEne mattu baruvavanAguttEne embavugaLa naDuve entaha
 arthavyatyAsavideyO antahadE vyatyAsa haLegannaDada barpen‌ mattu bandapen‌
 embavugaLa naDuveyU iddirabEku. idu samaya sambandhakkintalU samaya vyavasthe ge
-sambandhisida vyatyAsavendu tOruttade (9.2 nODi).
+sambandhisida vyatyAsavendu tOruttade (೯.೨ nODi).
 
-haLegannaDadalli I eraDu rItiya kriyArUpagaLa baLakeyannu innaSTu sUkSmavAgi
+haLegannaDadalli I eraDu rItiya kriyArUpagaLa baLakeyannu innaShTu sUkShmavAgi
 mattu vistAravAgi pariSIlisidalli avugaLa naDuve nijakkU entaha arthavyatyAsavide
-embudu heccu spaSTavAgaballudu.
+embudu heccu spaShTavAgaballudu.
 
 
 <a id="sec-9-2-2"></a>
 
-### 9.2.2 attu pratyayada baLake
+### ೯.೨.೨ attu pratyayada baLake
 
 haLegannaDadalli baLakeyAguva aTudattu, uridattu, biTTittu, masuLLattu modalAda
 rUpagaLU, mElina kriyArUpagaLa hAge, eraDu kriyArUpagaLa sErikeyinda
-vAda rUpagaLirabEkendu rAmacandra rAv‌ (1972:126) vAdisiddA re. ivugaLalli
+vAda rUpagaLirabEkendu rAmacandra rAv‌ (೧೯೭೨:೧೨೬) vAdisiddA re. ivugaLalli
 yApadada hindina samayada sambandhisuva rUpadondige Agu kriyApadada hindina
 mayada pUrNarUpagaLu bandiveyembudu avara abhiprAya. (intaha sErikeya
 rUpagaLu napumsaka Ekavacanadalli mAtra kANisuttave).
@@ -7474,13 +7468,13 @@ innondu samasyeyEnendare, Agu kriyApadada hindina samayada rUpa napumsaka
 Ekavacanadalli Aytu endide. idu attu embudAgi badalAdudu hEge embudannU
 vivarisuva avaSyakateyide.
 
-kESirAjana SabdamaNidarpaNada prakAra (sUtra 237 nODi), I kriyArUpagaLalli
+kESirAjana SabdamaNidarpaNada prakAra (sUtra ೨೩೭ nODi), I kriyArUpagaLalli
 napumsaka Ekavacanada pratyaya udu rUpakke badalAgi attu rUpadalli bandide. Adare,
 
 nu
 
 2 (de 2 (OlA
-28.
+೨೮.
 
 hIge hELuvudarinda, I kriyArUpagaLigU aTAdudu, uridudu, biTTu du, masuLLu du
 modalAduvakkU naDuve arthadalli EnU vyatyAsavilla endu hELida hAgAguttade.
@@ -7491,31 +7485,31 @@ pampabhAratadalli I eraDu kriyArUpagaLa naDuve arthadalli vyatyAsaviruva
 hAge kANisuttade. udAharaNegAgi attu kriyArUpa bandiruva halavu sandarbhagaLalli,
 keLage kANisida hAge, ante "hAge' padada (upameya) prayOgavide.
 
-(8ka) vxSAnkanambu tanuvam paccante konDattu (8.16)
+(೮ka) vxShAnkanambu tanuvam paccante konDattu (೮.೧೬)
 "Sivana bANa SarIravannu bhAga mADida hAge oLanuggi tu'
 
-(Akha) urimuTTidaraLeyante ambaram uridattu (10.36)
+(Akha) urimuTTidaraLeyante ambaram uridattu (೧೦.೩೬)
 "benki tagalida hattiya hAge AkASa uriyitu'
 
-(Agu dEvadundubhi jayaprArambhamam sAjuvante esedattu (9.96)
+(Agu dEvadundubhi jayaprArambhamam sAjuvante esedattu (೯.೯೬)
 "dEvadundubhiravavu jayOdyOgavannu sAruva hAge esedudu'
 
 Adare, bEre kelavu baLakegaLalli attu mattu tu pratyayagaLa naDuve arthada
 maTTige yAva vyatyAsavU illada hAgeyU anisuttade. udAharaNegAgi, keLagina
 eraDu baLakegaLannu hOlisi nODabahudu.
 
-(9ka) nILa nIraruhamam pOlDattu kaTTunduvA (4.51)
+(೯ka) nILa nIraruhamam pOlDattu kaTTunduvA (೪.೫೧)
 "A candrana kale kannaydileya hUvannu hOluttittu'
 
-(9kha) mUju lOkamane pOltudu svayanvaram (3.53)
+(೯kha) mUju lOkamane pOltudu svayanvaram (೩.೫೩)
 "svayanvaravu mUru lOkavannU hOluttittu 4
 
-I viSayadalli heccina samSOdhane naDesuva avaSyakateyide.
+I viShayadalli heccina samSOdhane naDesuva avaSyakateyide.
 
 
 <a id="sec-9-2-3"></a>
 
-### 9.2.3 ghaTanegaLa naDuvina samaya sambandha
+### ೯.೨.೩ ghaTanegaLa naDuvina samaya sambandha
 
 
 haLegannaDadalli ghaTaneya samayavannu mAtina samayakke sambandhisida hAge
@@ -7534,35 +7528,35 @@ embudAgi hesarisabahudu.
 
 udAharaNegAgi, keLage koTTiruva pampabhAratada baLakegaLannu gamanisabahudu:
 
-(10ka) I puyyalan‌ Araydu barpen‌ (3.24va)
+(೧೦ka) I puyyalan‌ Araydu barpen‌ (೩.೨೪va)
 "I pralApavannu vicArisi baruttEne'
 
-(10kha) sukhadim rAjyam geyyutta irim (4.8va)
+(೧೦kha) sukhadim rAjyam geyyutta irim (೪.೮va)
 "sukhadinda rAjyavALutta iri'
 
-(10ka)dalli vicArisuva ghaTane baruva ghaTaneginta modalu naDeyuvantahadendu
-sUcisalAgide; Adare, (10kha)dalli rAjyavALuva ghaTane mattu iruva ghaTane iveraDU
+(೧೦ka)dalli vicArisuva ghaTane baruva ghaTaneginta modalu naDeyuvantahadendu
+sUcisalAgide; Adare, (೧೦kha)dalli rAjyavALuva ghaTane mattu iruva ghaTane iveraDU
 ondE samayadalli naDeyuvantahavendu sUcisalAgide.
 
-haLegannaDadalli I kriyArUpagaLu, kriyApadagaLa viSESaNagaLa hAge, guNapadagaLa
-jAgadalli baLakeyAguttave. Adare, ivu nAmapadagaLa viSESaNagaLAgi baruva
+haLegannaDadalli I kriyArUpagaLu, kriyApadagaLa viSEShaNagaLa hAge, guNapadagaLa
+jAgadalli baLakeyAguttave. Adare, ivu nAmapadagaLa viSEShaNagaLAgi baruva
 guNarUpagaLinda bhinnavAgive embudannu gamanisabahudu. udAharaNegAgi, mADu
-kriyApadakke nAmapadagaLa viSESaNagaLAgi baLasalu mADida, mAlba (mADuva),
-mattu mADada emba guNarUpa(kxdantarUpa)gaLiveyAdare, kriyApadagaLa viSESaNagaLAgi
+kriyApadakke nAmapadagaLa viSEShaNagaLAgi baLasalu mADida, mAlba (mADuva),
+mattu mADada emba guNarUpa(kxdantarUpa)gaLiveyAdare, kriyApadagaLa viSEShaNagaLAgi
 baLasalu mADi, mADal‌, mADutte, mattu mADade emba guNarUpagaLive. I
 eraDanE rItiya guNarUpagaLannu illi kriyApadagaLa jODisuva rUpagaLendu
 kareyalAgide.
 
 samskxtadalli mElina eraDu sandarbhagaLallU kriyApadagaLa
 nAmarUpa(kxdanta)gaLannE baLasalAguttade. gatvA, kxtvA embantaha rUpagaLu mAtra
-idakke apavAdagaLAgive (jAsti vivaragaLige (10.2-3) nODi).
+idakke apavAdagaLAgive (jAsti vivaragaLige (೧೦.೨-೩) nODi).
 
 
 <a id="sec-9-3"></a>
 
-## 9.3 ghaTakavannu sUcisuvudu
+## ೯.೩ ghaTakavannu sUcisuvudu
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-9-3) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-9--verb-forms)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-9--verb-forms) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-9-3)
 
 
 ghaTaneyannu sUcisuva vAkyagaLalli kriyApadagaLu ghaTaneyannU nAmapadagaLu
@@ -7570,7 +7564,7 @@ ghaTaneyannu sUcisuva vAkyagaLalli kriyApadagaLu ghaTaneyannU nAmapadagaLu
 "ghaTaka'gaLannU sUcisuttave. udAharaNegAgi, keLagina haLegannaDa vAkyavannu
 gamanisabahudu:
 
-(11)  arasan‌ lalanege pUmAleyan‌ ittan‌
+(೧೧)  arasan‌ lalanege pUmAleyan‌ ittan‌
 "arasanu lalanege hUmAleyannu koTTanu'
 
 mElina vAkyadalli I "koDu' kriyApadada ittan‌ rUpa A vAkka tiLisabEkAgiruva
@@ -7581,77 +7575,77 @@ yAvuvu embudannu sUcisuttave.
 
 vAkyadalli baruva nAmapadagaLu mAtravallade, kriyArUpada koneyalli baruva
 "AkhyAta' pratyayavU ghaTaneyalli toDagikonDiruva ghaTakavondannu sUcisaballudu
-embudannu mEle koTTiruva (11)nE vAkyadalli kANabahudu. ittan‌ kriyArUpada
+embudannu mEle koTTiruva (೧೧)nE vAkyadalli kANabahudu. ittan‌ kriyArUpada
 koneyalli bandiruva an‌ pratyaya I ghaTaneyannu naDesidavanu arasa embudannu
-bahaLa sUkSmavAgi (endare hAge naDesidavanu obba manuSya mattu ganDasu embudAgi)
+bahaLa sUkShmavAgi (endare hAge naDesidavanu obba manuShya mattu ganDasu embudAgi)
 sUcisuttade.
 
 I rIti kriyArUpadalli baruva AkhyAta pratyayada mUlaka ghaTakavondannu
-haLegannaDada hAge samskxtavU sUcisaballudAdarU, I eraDu bhASegaLa naDuve I
-viSayadalli ondu mukhyavAda vyatyAsavide. haLegannaDadalli I pratyayada mUlaka
-ghaTakada puruSa, vacana, mattu lingagaLannu sUcisalu sAdhyavideyAdare, samskxtadalli
-puruSa mattu vacanagaLannu mAtra sUcisalu sAdhyavide. samskxtadalli I pratyaya linga
+haLegannaDada hAge samskxtavU sUcisaballudAdarU, I eraDu bhAShegaLa naDuve I
+viShayadalli ondu mukhyavAda vyatyAsavide. haLegannaDadalli I pratyayada mUlaka
+ghaTakada puruSha, vacana, mattu lingagaLannu sUcisalu sAdhyavideyAdare, samskxtadalli
+puruSha mattu vacanagaLannu mAtra sUcisalu sAdhyavide. samskxtadalli I pratyaya linga
 bhEdavannu sUcisalAradu.
 
 udAharaNegAgi, keLage koTTiruva haLegannaDa mattu samskxta vAkyagaLannu
 gamanisabahudu.
 
-(125) dEvadattaH kaTam karOti
+(೧೨5) dEvadattaH kaTam karOti
 "dEvadatta cApeyannu mADuttA ne'
 
-(12kha) dEvadattasya bhAryA kaTam karOti
+(೧೨kha) dEvadattasya bhAryA kaTam karOti
 "dEvadattana henDati cApeyannu mADuttALe'
 
-(13ka) kIcakam tammakkanam kANal‌ pOdan‌
+(೧೩ka) kIcakam tammakkanam kANal‌ pOdan‌
 "kIcakanu tanna akkanannu kANalu hOdanu'
-(13kha) dravpadi takkudane nuDidaL‌
+(೧೩kha) dravpadi takkudane nuDidaL‌
 "dravpadi yOgyavAdudannE hELidaLu'
 
-cApeyannu mADuva vyakti (12ka)dalli obba ganDasu mattu (12kha)dalli obba
+cApeyannu mADuva vyakti (೧೨ka)dalli obba ganDasu mattu (೧೨kha)dalli obba
 hengasu; Adare, I eraDu vAkyagaLallU samskxtadalli karOti emba ondE kriyArUpa
 baLakeyAgide.
 
-(13ka-kha) vAkyagaLallU idE rItiyalli obba ganDasu mattu obba hengasu
+(೧೩ka-kha) vAkyagaLallU idE rItiyalli obba ganDasu mattu obba hengasu
 naDesiruva kelasagaLannu sUcisalAgide; Adare, haLegannaDada I vAkyagaLalli obba ganDasu
-naDesida hOguva ghaTaneyannu (13ka)dalla an‌ pratyayaviruva pOdan‌ kriyArUpavU,
-obba hengasu naDesida hELuva ghaTaneyannu (13kha)dalli adakkinta bhinnavAda aL‌
+naDesida hOguva ghaTaneyannu (೧೩ka)dalla an‌ pratyayaviruva pOdan‌ kriyArUpavU,
+obba hengasu naDesida hELuva ghaTaneyannu (೧೩kha)dalli adakkinta bhinnavAda aL‌
 pratyayaviruva nuDidaL‌ kriyArUpavU sUcisuttave.
 
 haLegannaDadallU intaha pratyayagaLu ADuganannu illavE kELuganannu
 sUcisuttiveyAdare avugaLa mUlaka lingabhEda sUcitavAguvudilla. udAharaNegAgi
 pampabhAratada keLagina vAkyagaLannu gamanisabahudu.
 
-(14ka) Anum tapOniyOgadoLirpem (12.130)
+(೧೪ka) Anum tapOniyOgadoLirpem (೧೨.೧೩೦)
 "nAnU tapassina niyamadalli iruttEne'
-(14kha) ninna bisuTentirpem (2.25)
+(೧೪kha) ninna bisuTentirpem (೨.೨೫)
 "ninna biTTu (nAnu) hEgiraballe?'
 
-(14ka) vAkyavannu dharmarAya hELiddu , A ghaTakavannu (ADuga mattu ganDasu)
-sUcisalu iru kriyApadadondige em AkhyAta pratyaya bandide; (14kha) vAkyavannu
+(೧೪ka) vAkyavannu dharmarAya hELiddu , A ghaTakavannu (ADuga mattu ganDasu)
+sUcisalu iru kriyApadadondige em AkhyAta pratyaya bandide; (೧೪kha) vAkyavannu
 kunti hELiddu, A ghaTakavannu (ADuga mattu hengasu) sUcisuvudakkAgiyU em
 AkhyAta pratyayavE bandide.
 
 idallade, ADuga mattu kELugarannu biTTu itararannu sUcisuvalliyU
-bahuvacanadalli manuSya-manuSyEtara lingabhEdavideyallade pum-stri lingabhEdavilla.
+bahuvacanadalli manuShya-manuShyEtara lingabhEdavideyallade pum-stri lingabhEdavilla.
 
-(15ka) A tapOvxddha r‌ kAnteyan‌ santaysidar‌ (2.26va)
+(೧೫ka) A tapOvxddha r‌ kAnteyan‌ santaysidar‌ (೨.೨೬va)
 "A tapOvanadallidda vxddha tApasaru kAnte(kunti)yannu santaysidaru'
 
-(15kha) antu divya samyOgadoLirvarum garbhamam tALjar‌ (1.85va)
-"hAge divyavAda yaSiSrESThana samyOgadinda ibbarU garbhavannu
+(೧೫kha) antu divya samyOgadoLirvarum garbhamam tALjar‌ (೧.೮೫va)
+"hAge divyavAda yaShiSrEShThana samyOgadinda ibbarU garbhavannu
 dharisidaru'
 
-(15ga) bIsuva cAmarALi sundariyara kaygaLim barduki biTluvu
+(೧೫ga) bIsuva cAmarALi sundariyara kaygaLim barduki biTluvu
 "bIsuttidda cAmara samUhagaLu sundariyara kaygaLinda jAri bidduvu'
 
-(15ka)dalli ghaTaneyannu naDesidavaru tApasa(ganDasa)rAgiddu, A ghaTakavannu
-sUcisuvudakkAgi ar‌ AkhyAta pratyaya bandide (santaysidar‌); (15kha)dalli ghaTaneyannu
+(೧೫ka)dalli ghaTaneyannu naDesidavaru tApasa(ganDasa)rAgiddu, A ghaTakavannu
+sUcisuvudakkAgi ar‌ AkhyAta pratyaya bandide (santaysidar‌); (೧೫kha)dalli ghaTaneyannu
 naDesidavaru ibbaru hengasaru (ambike mattu ambAlike); hIgiddarU, A ghaTakavannu
-sUcisuvudakkAgi ar‌ pratyayavE bandide (tALjar‌). (15ga)dalli mAtra ghaTane
-naDedudu cAmara samUhagaLinda; ivu manuSyEtaragaLAda kAraNa, A ghaTakavannu
+sUcisuvudakkAgi ar‌ pratyayavE bandide (tALjar‌). (೧೫ga)dalli mAtra ghaTane
+naDedudu cAmara samUhagaLinda; ivu manuShyEtaragaLAda kAraNa, A ghaTakavannu
 sUcisuvudakkAgi ar‌ pratyayakkinta bhinnavAda uvu pratyaya bandide (biTTuvu).
 
-haLegannaDa mattu samskxta bhASegaLa naDuve ghaTakagaLannu sUcisuva pratyayagaLa
+haLegannaDa mattu samskxta bhAShegaLa naDuve ghaTakagaLannu sUcisuva pratyayagaLa
 maTTige kANisuva innondu vyatyAsavEnendare, samskxtadalli I pratyayagaLu bEreyU
 kelavu arthabhEdagaLannu sUcisuttave. udAharaNegAgi, keLage koTTiruva samskxtada
 apUrNa mattu pUrNa kriyArUpagaLannu avakke samanAgiruva haLegannaDada abhUta
@@ -7661,13 +7655,13 @@ samskxta haLegannaDa
 apUrNa-pUrNa abhUta-bhUta
 karOmi-cakAra mADuven‌-mADiden‌
 kurmaH-cakxma mADuvem‌-mADidem‌
-karOSi-cakartha mADuvay‌-mADiday‌
+karOShi-cakartha mADuvay‌-mADiday‌
 kurutha-cakra mADuvir‌-mADidir‌
 karOti-cakAra mADuvan‌-mADidan‌
 kurvanti-cakruH mADuvar‌-mADidar‌
 
 mEle samskxtada apUrNarUpagaLa koneyalli kANisuva AkhyAta pratyayagaLu
-(mi, maH, Si, tha, ti mattu anti embavugaLu) pUrNa rUpagaLa koneyalli kANisuva
+(mi, maH, Shi, tha, ti mattu anti embavugaLu) pUrNa rUpagaLa koneyalli kANisuva
 AkhyAta pratyayagaLiginta (a, ma, tha, a, a mattu uH embavugaLinda) tIra
 bhinnavAgive. Adare, haLegannaDadalli abhUta mattu bhUta rUpagaLeraDarallU ondE
 rItiya AkhyAta pratyayagaLu (en‌, em‌, ay‌, ir‌, an‌ mattu ar‌ embavu)
@@ -7677,32 +7671,32 @@ baLakeyAgive.
 
 <a id="sec-9-4"></a>
 
-## 9.4 gum (kum) pratyayada baLake
+## ೯.೪ gum (kum) pratyayada baLake
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-9-4) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-9--verb-forms)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-9--verb-forms) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-9-4)
 
 
 haLegannaDadalli gum (kum) pratyaya nijakkU yAva arthadalli baLakeyAguttittu
-emba viSayadallU heccina samSOdhane naDesuva avaSyakateyideyendu nanage tOruttade.
-nAgamarmana bhASAbhUSaNadalli I pratyaya bhaviSyatkAladalli baLakeyAguvudendu
-hELalAgide (sU. 209), mattu kAvyAvalOkanadalli (sU. 90) idu bhaviSyatkAladalli
+emba viShayadallU heccina samSOdhane naDesuva avaSyakateyideyendu nanage tOruttade.
+nAgamarmana bhAShAbhUShaNadalli I pratyaya bhaviShyatkAladalli baLakeyAguvudendu
+hELalAgide (sU. ೨೦೯), mattu kAvyAvalOkanadalli (sU. ೯೦) idu bhaviShyatkAladalli
 mAtravallade vartamAna kAladallU baLakeyAguvudendu hELalAgide.
 
-Adare, kESirAjana SabdamaNidarpaNadalli (sU. 238), mattu bhaTTAkaLankana
-SabdAnuSAsanadalli (sU. 463) I pratyaya bhUtArthadallU baLakeyAguttadeyendu
+Adare, kESirAjana SabdamaNidarpaNadalli (sU. ೨೩೮), mattu bhaTTAkaLankana
+SabdAnuSAsanadalli (sU. ೪೬೩) I pratyaya bhUtArthadallU baLakeyAguttadeyendu
 hELalAgide. anantarada vidA ಿmsaru I mUraneya abhiprAyavannE etti hiDididdA re
-(kiTTel‌ 1903:146, kannaDa kaypiDi 1936:45).
+(kiTTel‌ ೧೯೦೩:೧೪೬, kannaDa kaypiDi ೧೯೩೬:೪೫).
 
 bhaTTAkaLankanu koTTiruva prayOgagaLinda ivakkU sAmAnya kriyArUpagaLigU
 arthadalli vyatyAsavillavemba abhiprAya Atanigidda hAge kANisuttade. udAharaNegAgi,
 puTTugum embudakke puTTidam, puTTuvam mattu puTTidapam embavugaLa arthavE
 ideyendu Atana prayOgagaLu sUcisuttave. anantarada vidvAmsarU ivakkU mattu
 sAmAnya kriyArUpagaLigU naDuve arthada maTTige vyatyAsavEnAdarU ideyE
-emba viSayadalli EnU hELiruva hAge kANisuvudilla.
+emba viShayadalli EnU hELiruva hAge kANisuvudilla.
 
 pampabhAratadalli I gum (kum) pratyayada mUlaka sAdhitavAgiruva kriyArUpagaLu
-heccineDegaLallU bhaviSyadarthadallE baLakeyAgive. idallade, I prayOgagaLalli gum
-(kum) pratyayakke bhaviSyadartha mAtravallade sambhAvyateya arthavU iruva hAge
+heccineDegaLallU bhaviShyadarthadallE baLakeyAgive. idallade, I prayOgagaLalli gum
+(kum) pratyayakke bhaviShyadartha mAtravallade sambhAvyateya arthavU iruva hAge
 
 kANisuttade. aparUpakke ivannu bhUtArthadallU baLasalAgideyAdarU, antaha
 sandarbhagaLalli avu rUDhiyalliruva ghaTanegaLannu sUcisuttiruva hAge kANisuttade.
@@ -7712,13 +7706,13 @@ kriyArUpagaLu da mattu va (pa) pratyayagaLiruva kriyArUpagaLiginta arthadalli
 bhinnavAduvendu hELalu sAdhyaviruva hAge kANisuttade. udAharaNegAgi, pampabhAratada
 keLagina baLakegaLannu gamanisabahudu:
 
-(16ka) bEDidoDe balada bariyuman‌ IDADugum (1.100
+(೧೬ka) bEDidoDe balada bariyuman‌ IDADugum (೧.೧೦೦
 "yAcisidare (karNanu) balapArSvada pakkeyannu kattarisi esedAnu'
-(16kha)ennumanintu tuttugum (3.29 va)
+(೧೬kha)ennumanintu tuttugum (೩.೨೯ va)
 "nannannU I rIti nungibiDabahudu'
-(16ga) bagevAgaL‌ I kalahadoL‌ nimma kulavAkulavam nimagunTumADugum
+(೧೬ga) bagevAgaL‌ I kalahadoL‌ nimma kulavAkulavam nimagunTumADugum
 
-(10.21)
+(೧೦.೨೧)
 “vicAra mADuvudAdare, I yuddhadalli nimma kulavu nimage
 vyatheyannunTumADItu'
 
@@ -7730,20 +7724,20 @@ kriyArUpagaLiginta bhinnavAgiruva "rUDhi'yalli jaraguva ghaTaneyondannu sUcisuva
 arthavannu I kriyArUpagaLu koDuttaveyendu hELalu sAdhyavide. udAharaNegAgi,
 pampabhAratada keLagina kandapadyavannu gamanisabahudu:
 
-(17) nuDiyisi kELgum harigana
+(೧೭) nuDiyisi kELgum harigana
 paDemAtane mAtu tappoDam mattamadam
 nuDiyisugum modalindA
-nuDi paNapaDe muLidu nODugum keLadiyaram (4.56)
+nuDi paNapaDe muLidu nODugum keLadiyaram (೪.೫೬)
 
 illi subhadre virahatApadinda Enu mADutti ddaLu embudannu vivarisalAgide.
 I sandarbhadalli bhUtakAlada sAmAnya kriyA rUpagaLannu (kELlaL‌, nuDiyisidaL‌,
 nODidaL‌ emba rUpagaLannu) baLasidalli tiLisabEkAgiruva Enu mADuttA iddaLu
-emba "rUDhiya' artha spaSTavAgi mUDalAradu.
+emba "rUDhiya' artha spaShTavAgi mUDalAradu.
 
 I kandapadyada anuvAdadalli anantarangAcAr‌ avaru kELuttALe, nuDiyisuttALe
 mattu nODuttALe embudAgi vartamAnArthada kriyArUpagaLannu baLasiddAre;
 Adare, idakkintalU kELuttiddaLu, nuDiyisuttiddaLu, mattu nODuttiddaLu embantaha
-rUpagaLE heccu spaSTavAgi illi tiLisabEkAgiruva rUDhiya arthavannu tiLisaballavu
+rUpagaLE heccu spaShTavAgi illi tiLisabEkAgiruva rUDhiya arthavannu tiLisaballavu
 endu tOruttade.
 
 hosagannaDadalli kANisadiruva halavu haLegannaDada padarUpagaLannu hAgeyE
@@ -7752,31 +7746,31 @@ emba rUpadalli uLidukonDiddu, avugaLalli adakke mundina samayadalli mEle
 sUcisidantaha sambhAvyateya arthavU, hindina samayadalli rUDhiya arthavU ive.
 udAharaNegAgi keLage koTTiruva havyaka kannaDa vAkyagaLannu gamanisabahudu:
 
-(18ka) avu nALange rajA bEga bakku
+(೧೮ka) avu nALange rajA bEga bakku
 “avaru nALe svalpa bEga bandAru'
-(18kha) heccu eLadare adu murigu
+(೧೮kha) heccu eLadare adu murigu
 “jAsti eLedare adu muridItu'
-(18ga) nAvu pUnallippaga dinAgaLude kApige hOTelinge hOku
+(೧೮ga) nAvu pUnallippaga dinAgaLude kApige hOTelinge hOku
 "nAvu puNeyalliddAga dinAlU kAphige hOTelige hOguttiddevu'
 
-(18ka-kha) vAkyagaLalli ku (gu) pratyaya mundina samayavannu sUcisuvudakkAgi
-bandiddu, adakke sambhAvyateya arthavU ide, mattu (18ga) vAkyadalli adu hindina
+(೧೮ka-kha) vAkyagaLalli ku (gu) pratyaya mundina samayavannu sUcisuvudakkAgi
+bandiddu, adakke sambhAvyateya arthavU ide, mattu (೧೮ga) vAkyadalli adu hindina
 samayavannu sUcisuvudakkAgi bandiddu, adakke rUDhiyalli jaraguttidda ghaTaneyondannu
 sUcisuva arthavide.
 
 
 <a id="sec-9-5"></a>
 
-## 9.5 allagaLeyuva vidhAnagaLu
+## ೯.೫ allagaLeyuva vidhAnagaLu
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-9-5) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-9--verb-forms)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-9--verb-forms) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-9-5)
 
 
-haLegannaDa mattu samskxta bhASegaLa naDuve allagaLeyuvudakkAgi baLakeyAguva
+haLegannaDa mattu samskxta bhAShegaLa naDuve allagaLeyuvudakkAgi baLakeyAguva
 vidhAnagaLa naDuve halavu mUlabhUtavAda vyatyAsagaLive. avugaLalli mukhyavAda
 kelavannu keLage koDalAgide:
 
-(1) samskxtadalli vAkyagaLannu mAtravallade padagaLannU alla gaLeyalu sAdhyavide;
+(೧) samskxtadalli vAkyagaLannu mAtravallade padagaLannU alla gaLeyalu sAdhyavide;
 idakkAgi, padagaLige a (svara paravAgiddare an‌) upasargavannu sErisalAguttade.
 
 I rIti allagaLediruva halavu padagaLu samskxtadinda haLegannaDakkU eravalAgi
@@ -7797,44 +7791,44 @@ padagaLalli I pratyayada baLakeyannu kANabahudu.
 
 haLegannaDada nirneram, nibberagu, nipposatu modalAda kelavu padagaLalli
 aparUpavAgi kannaDa padagaLigU I pratyaya sEriruva hAge kANisuttade (Di. el‌.
-narasimhAcAr‌ (1971:779-80 nODi).
+narasimhAcAr‌ (೧೯೭೧:೭೭೯-೮೦ nODi).
 
-(2) samskxtadalli vAkyavondannu allagaLeyabEkiddalli, adakke na emba
+(೨) samskxtadalli vAkyavondannu allagaLeyabEkiddalli, adakke na emba
 allagaLeyuva padavannu sErisidare sAku. A vAkyadalli bErAva badalAvaNeyannU
 mADabEkAgilla.
 
-(19ka) tE pustakAni paThanti
+(೧೯ka) tE pustakAni paThanti
 
 “avaru pustakagaLannu OduttAre'
-(19kha) tE pustakAni na paThanti
+(೧೯kha) tE pustakAni na paThanti
 
 “avaru pustakagaLannu Oduvudilla'
 
-(19ka) tiLisuva ghaTaneyannu allagaLeyuvudakkAgi (19kha)dalli A vAkyakke na
-embudannaSTE sErisalAgide, A vAkyadalli bErAva badalAvaNeyU naDedilla embudannu
+(೧೯ka) tiLisuva ghaTaneyannu allagaLeyuvudakkAgi (೧೯kha)dalli A vAkyakke na
+embudannaShTE sErisalAgide, A vAkyadalli bErAva badalAvaNeyU naDedilla embudannu
 gamanisabahudu.
 
 haLegannaDadalli hindina samayada ghaTaneyannu allagaLeyuvalli mAtra intaha
 vidhAna baLakeyallide. idakkAgi vAkyada koneyalli illa padavannu baLasalAgutta de.
 vAkyadalli bErAva badalAvaNeyannU mADabEkAguvudilla:
 
-(20ka) I kanneyan‌ padmajan‌ paDedan‌
-"I kanyeyannu brahmanu sxSTisidanu”
-(205) I kanneyan‌ padmajan‌ paDedan‌ illa
-"I kanyeyannu brahmanu sxSTisalilla'
+(೨೦ka) I kanneyan‌ padmajan‌ paDedan‌
+"I kanyeyannu brahmanu sxShTisidanu”
+(೨೦೫) I kanneyan‌ padmajan‌ paDedan‌ illa
+"I kanyeyannu brahmanu sxShTisalilla'
 
 Adare, mundina samayada vAkyavondannu allagaLeyabEkiddalli, antaha vAkyadalli
 baruva kriyApadavannu allagaLeyuva rUpakke badalAyisabEkAguttade. kriyArUpagaLalli
 samayavannu sUcisuvudakkAgi baruva pratyayada jAgadalli a pratyayavannu baLasuvudara
 mUlaka, intaha allagaLeyuva kriyArUpagaLannu sAdhisabahudu:
 
-(21ka) avan‌ sangaradoL‌ cApamam piDivam
+(೨೧ka) avan‌ sangaradoL‌ cApamam piDivam
 "avanu yuddhadalli billannu hiDiyuttAne'
 
-(21kha) avan‌ sangaradoL‌ cApamam piDiyam
+(೨೧kha) avan‌ sangaradoL‌ cApamam piDiyam
 “avanu yuddhadalli billannu hiDiyuvudilla'
 
-(215) vAkya tiLisuva ghaTaneyannu allagaLeyuvudakkAgi (21kha) vAkyadalli
+(೨೧5) vAkya tiLisuva ghaTaneyannu allagaLeyuvudakkAgi (೨೧kha) vAkyadalli
 adara piDivam kriyArUpavannu piDiyam embudAgi badalAyisalAgide embudannu
 gamanisabahudu. illi piDi kriyApadada anantara bandiruva v‌ emba mundina
 samayavannu sUcisuva pratyayada badalu a emba allagaLeyuva pratyayavannu
@@ -7842,15 +7836,15 @@ baLasalAgide. piDi kriyApada ikAradalli konegoLLuva kAraNa, adara anantara a
 pratyaya bandAga yakAravondu sErikoLLutta de.
 
 haLegannaDa vyAkaraNagaLalli I kriyArUpakke mUru kAlagaLannU sUcisuva
-arthavideyendu hELalAgide (kESirAja sU. 233). anantarada vidvAmsarU idu
-sariyendu oppikonDiruva hAge kANisuttade (kiTTel‌ 1903:157).
+arthavideyendu hELalAgide (kESirAja sU. ೨೩೩). anantarada vidvAmsarU idu
+sariyendu oppikonDiruva hAge kANisuttade (kiTTel‌ ೧೯೦೩:೧೫೭).
 
 Adare, I kriyArUpagaLa heccina baLakegaLallU adu hosagannaDada nODuvudilla,
 mADuvudilla embantaha rUpagaLa, illavE nODalikkilla, mADalikkilla embantaha
-rUpagaLa arthadallE (endare vartamAna illavE bhaviSyadarthadallE) kANisikoLLutta de.
+rUpagaLa arthadallE (endare vartamAna illavE bhaviShyadarthadallE) kANisikoLLutta de.
 
 nODalilla, mADalilla embantaha kriyArUpagaLa arthadalli (bhUtArthadalli),
-mEle (20ka-kha)gaLalli udAharisida hAge, kriyApadada pUrNarUpadondige illa
+mEle (೨೦ka-kha)gaLalli udAharisida hAge, kriyApadada pUrNarUpadondige illa
 padavannu sErisiruva racaneyannE baLasalAguttade.
 
 haLegannaDada halavu racanegaLannu hAgeyE uLisikonDiruva karAvaLiya kannaDa
@@ -7866,7 +7860,7 @@ uLideraDu allagaLeyuva kriyArUpagaLannu hOgu kriyApadada hOvutte
 "hOguttEne' mattu hOyide "hOgiddEne' emba pUrNa rUpagaLige ille "illa'
 embudannu sErisi racisalAgide.
 
-(3) haLegannaDadalli ondu ghaTane illavE sangatigU, adara ondu ghaTakakkU
+(೩) haLegannaDadalli ondu ghaTane illavE sangatigU, adara ondu ghaTakakkU
 naDuviruva sambandhavannu allagaLeyuvudiddalli illa padada badalu alla emba
 bEreyE ondu padavannu baLasabEkAguttade. Adare, samskxtadalli idakkU na
 upasargavannE baLasalAguttade.
@@ -7874,35 +7868,35 @@ upasargavannE baLasalAguttade.
 haLegannaDadalli sambandhavannu allagaLeyuva I alla padadondige ghaTakavannu
 sUcisuva pratyayagaLU baraballuvu.
 
-(22ka) ennendudam mIjuvar‌ allar‌
+(೨೨ka) ennendudam mIjuvar‌ allar‌
 "nAnu hELidudannu mIruvavaru alla ka
-(22kha) nI auುyadeyum vicArisadeyum negaLtanneyalle
+(೨೨kha) nI auುyadeyum vicArisadeyum negaLtanneyalle
 "nInu tiLiyadeyU vicArisadeyU kAryamADuvanthavanalla'
 
-(4) kELuganu ondu kelasavannu mADada hAge taDeyuvudakkAgi haLegannaDadalli
+(೪) kELuganu ondu kelasavannu mADada hAge taDeyuvudakkAgi haLegannaDadalli
 kriyApadadondige al‌ pratyayada baLakeyAguttade.
 
-(23ka) pO pOgal‌ endodajuttum paritandu tAgi taDardam gangAsutam
+(೨೩ka) pO pOgal‌ endodajuttum paritandu tAgi taDardam gangAsutam
 bhImanam
 "hOgabEDa, hOgabEDa embudAgi kUgikoLLuttA ODi bandu
-bhISmanu bhImanannu taDegaTTidanu'
+bhIShmanu bhImanannu taDegaTTidanu'
 
-(23kha) kAgevol‌ intu bille karam anjuvir‌ anjalim
+(೨೩kha) kAgevol‌ intu bille karam anjuvir‌ anjalim
 "kAgeya hAge billige hedaruttIri; hedarabEDi'
 
 I pratyayavU anantarada ghaTaneyannu sUcisuvudakkAgi baLasuva al‌ pratyayavU
-ondE emba artha baruva hAge SabdamaNidarpaNadalli (sU. 245) ivannu
+ondE emba artha baruva hAge SabdamaNidarpaNadalli (sU. ೨೪೫) ivannu
 paricayisalAgide. Adare, nijakkU haLegannaDadalli mUru bEre bEre al‌ emba
 ondE rUpada pratyayagaLive endu hELuva avaSyakateyide. mEle vivarisida
-pratiSEdhArthada al‌ pratyaya ivugaLallondu.
+pratiShEdhArthada al‌ pratyaya ivugaLallondu.
 
 idallade, anantarada ghaTaneyannu sUcisuva al‌ mattu modalina ghaTaneyannu
 sUcisuva al‌ embudAgi bEre eraDu pratyayagaLiddu, iveraDU baLakeyalli
-ondakkinta ondu tIra bhinnavAgive (10.2.2 nODi).
+ondakkinta ondu tIra bhinnavAgive (೧೦.೨.೨ nODi).
 
-kelasa mADuvudannu taDeyuva pratiSEdhArthadalli baruva al‌ pratyaya alla
+kelasa mADuvudannu taDeyuva pratiShEdhArthadalli baruva al‌ pratyaya alla
 embudara (kriyeya arthaviruva avyayada) mUla rUpavendu venkaTAcala SAstri] gaLu
-(1994:118) abhiprAyapaTTiddAre. Adare, arthadalli iveraDara naDuve bahaLa
+(೧೯೯೪:೧೧೮) abhiprAyapaTTiddAre. Adare, arthadalli iveraDara naDuve bahaLa
 vyatyAsavide. alla embudu ondu ghaTane illavE sangatigU, adara ondu ghaTakakkU
 naDuviruva sambandhavannu allagaLeyuttade, Adare, al‌ pratyaya kELuganu ondu
 kelasavannu mADadante taDeyuttade. al‌ pratyayakke "alla' padada arthakkintalU
@@ -7911,55 +7905,55 @@ kelasavannu mADadante taDeyuttade. al‌ pratyayakke "alla' padada arthakkintalU
 
 <a id="sec-9-6"></a>
 
-## 9.6 ghaTane mattu sangati
+## ೯.೬ ghaTane mattu sangati
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-9-6) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-9--verb-forms)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-9--verb-forms) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-9-6)
 
 
-kriyApadagaLa racaneyalli samayada "sambandha'kke mahatvavannu koDuva bhASegaLigU
-samayada "Antarika vyavasthe'ge mahatvavannu koDuva bhASegaLigU naDuve ondu
+kriyApadagaLa racaneyalli samayada "sambandha'kke mahatvavannu koDuva bhAShegaLigU
+samayada "Antarika vyavasthe'ge mahatvavannu koDuva bhAShegaLigU naDuve ondu
 kutUhalakAriyAda vyatyAsavide:
 
 kriyArUpagaLu si
 
-samaya sambandhakke mahatva vannu koDuva bhASegaLalli kriyApadagaLu sAmAnyavAgi
+samaya sambandhakke mahatva vannu koDuva bhAShegaLalli kriyApadagaLu sAmAnyavAgi
 ghaTanegaLannu sUcisuvudakkAgi mAtravE baLakeyAguttave. sangatiyannu sUcisuvudakkAgi
 kriyApadagaLilladiruva vAkyagaLannAgali, illavE sangatiya iruvikeyannu sUcisu
-ondO eraDO kriyApadagaLannAgalI baLasuva krama I bhASegaLalliruttade.
+ondO eraDO kriyApadagaLannAgalI baLasuva krama I bhAShegaLalliruttade.
 
-idakke badalu, samayada Antarika vyavasthege mahatvavannu koDuva bhASegaLalli
+idakke badalu, samayada Antarika vyavasthege mahatvavannu koDuva bhAShegaLalli
 halavu kriyApadagaLu ghaTanegaLannu sUcisalu baLakeyAguttave mattu bEre halavu
-kriyApadagaLu sangatigaLannu sUcisalu baLakeyAguttave. intaha bhASegaLalli
-kriyApadagaLannu (1) ghaTaneyannu sUcisuvavu, mattu (2) sangatiyannu sUcisuvavu
-embudAgi eraDu mukhya gumpugaLalli vingaDisalu lng vide (jAsti viSakagaLige bhaT‌
-1999:152 nODi).
+kriyApadagaLu sangatigaLannu sUcisalu baLakeyAguttave. intaha bhAShegaLalli
+kriyApadagaLannu (೧) ghaTaneyannu sUcisuvavu, mattu (೨) sangatiyannu sUcisuvavu
+embudAgi eraDu mukhya gumpugaLalli vingaDisalu lng vide (jAsti viShakagaLige bhaT‌
+೧೯೯೯:೧೫೨ nODi).
 
-kriyApadagaLalli samaya sambandhakke mahatvavannu koDuva haLegannaDa bhASegU,
-samayada Antarika vyavasthe ge mahatvavannu koDuva samskxta bhASegU naDuve intahadE
+kriyApadagaLalli samaya sambandhakke mahatvavannu koDuva haLegannaDa bhAShegU,
+samayada Antarika vyavasthe ge mahatvavannu koDuva samskxta bhAShegU naDuve intahadE
 vyatyAsaviruva hAge kANisuttade. haLegannaDada kriyApadagaLellavU ghaTanegaLannu
 sUcisuvudakkAgiyE baLakeyAguttave.
 
 idakke apavAdagaLAgi oL‌ (uL‌), bal‌, al‌ embantaha kelavE kelavu
 kriyApadagaLu mAtra ghaTaneya badalu sangatiyannu (illavE sangatiya iruvikeyannu)
-sUcisuvudakkAgi baLakeyAguttave. I kriyApadagaLu halavu viSayagaLalli ghaTaneyannu
+sUcisuvudakkAgi baLakeyAguttave. I kriyApadagaLu halavu viShayagaLalli ghaTaneyannu
 sUcisuva kriyApadagaLiginta bhinnavAgive.
 
 udAharaNegAgi, ivu nEravAgi ghaTakavannu sUcisuva AkhyAta pratyayagaLondige
 baruttavallade, samayavannu sUcisuva pratyayagaLondige baruvudilla:
 
-(24ka) makkaLoLar‌ enagayvar‌
+(೨೪ka) makkaLoLar‌ enagayvar‌
 "nanage ayvaru makkaLiddA re”
-(24kha) entappa duSTASvangaLuman‌ Ejaalum tirdalum ballen‌
+(೨೪kha) entappa duShTASvangaLuman‌ Ejaalum tirdalum ballen‌
 "entaha keTTakuduregaLannAdarU hattalu mattu tiddalu balle'
-(24ga) ninna mAtinge meLLaDuvantappA keyallem
+(೨೪ga) ninna mAtinge meLLaDuvantappA keyallem
 "(nAnu) ninna mAtige mOsahOguvantahavaLalla 1
 
-(24ka)dalli bandiruva oLar‌ kriyArUpadallAgali, (24kha)dalli bandiruva
+(೨೪ka)dalli bandiruva oLar‌ kriyArUpadallAgali, (೨೪kha)dalli bandiruva
 ballen‌ kriyArUpadallAgali samayavannu sUcisuva pratyayagaLa baLakeyAgilla embudannu
-gamanisabahudu. sangatiyannu allagaLeyuva al‌ kriyApadada baLakeyU (24ga)
+gamanisabahudu. sangatiyannu allagaLeyuva al‌ kriyApadada baLakeyU (೨೪ga)
 hIgeye
 
-kESirAjanu uL‌ dhAtuvige “datvani SEdha'vannu hELiddAne (sU. 256); Adare,
+kESirAjanu uL‌ dhAtuvige “datvani ShEdha'vannu hELiddAne (sU. ೨೫೬); Adare,
 nijakkU illi samayavannu sUcisuva da prata tyayavondE alla, itara samayasUcaka
 
 pratyayagaLU (dapa, vagaLU) baLakeyAguvudilla.
@@ -7973,34 +7967,34 @@ bhEdagaLannu (mattu samaya sambandhada bhEdagaLannu) sUcisaballa kriyArUpagaLive
 udAharaNegAgi, Sak‌ kriyApadakke ellA rItiya samaya bhEdagaLannu sUcisaballa
 kriyArUpagaLU ive.
 
-(25ka) mayA kaTaH kartum SakyatE
+(೨೫ka) mayA kaTaH kartum SakyatE
 "nanage cApeyannu mADalu baruttade'
 
-(25kha) sA cEyam kathA kcatriyaskyAkarSaNAya aSakat‌
-"A kathe kcatriyanannu AkarSisalu SaktavAyitu'
+(೨೫kha) sA cEyam kathA kcatriyaskyAkarShaNAya aSakat‌
+"A kathe kcatriyanannu AkarShisalu SaktavAyitu'
 
 
 <a id="sec-9-7"></a>
 
-## 9.7 sArAmSa
+## ೯.೭ sArAmSa
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-9-7) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-9--verb-forms)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-9--verb-forms) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-9-7)
 
 
-kriyArUpagaLa racaneyalli haLegannaDa mattu samskxta bhASegaLa naDuve vyAkaraNada
+kriyArUpagaLa racaneyalli haLegannaDa mattu samskxta bhAShegaLa naDuve vyAkaraNada
 mUla tatvagaLalle €nE halavAru vyatyAsagaLive.
 
-(1) haLegannaDada kriyArUpagaLalli samaya sambandhakke mahatvavide; Adare,
+(೧) haLegannaDada kriyArUpagaLalli samaya sambandhakke mahatvavide; Adare,
 samskxta kriyArUpagaLalli samayada Antarika vyavasthege mahatvavide.
 
-(2) haLegannaDadalli samayavannu sUcisalu viSiSTavAda pratyayagaLive; Adare,
+(೨) haLegannaDadalli samayavannu sUcisalu viSiShTavAda pratyayagaLive; Adare,
 samskxtadalli idannu dhAtuvinalli naDesiruva badalAvaNegaLa mUlaka mAtravE
 sUcisalAguttade.
 
-(3) haLegannaDadalli AkhyAta pratyayagaLu prathamapuruSadalli linga bhEdavannU
+(೩) haLegannaDadalli AkhyAta pratyayagaLu prathamapuruShadalli linga bhEdavannU
 sUcisuttave; Adare, samskxtada AkhyAta pratyayagaLalli lingabhEda sUcitavAguvudilla.
 
-intaha bEreyU halavu vyatyAsagaLu I eraDu bhASegaLa naDuve iveyembudannu
+intaha bEreyU halavu vyatyAsagaLu I eraDu bhAShegaLa naDuve iveyembudannu
 gamanisade, samskxtada rUparacanAniyamagaLannu hAgeyE haLegannaDakke aLavaDisalu
 prayatnisidudarindAgi, adara vayyAkaraNigaLu halavAru samasyegaLannu edurisabEkAgide
 embudannu I adhyAyadalli tOrisikoDalAgide.
@@ -8008,11 +8002,11 @@ embudannu I adhyAyadalli tOrisikoDalAgide.
 
 <a id="ch10"></a>
 
-# adhyAya 10 — vAkyagaLa jODaNe
+# adhyAya ೧೦ — vAkyagaLa jODaNe
 
 [↑ oLapiDige hintirugi](#toc)
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#ch10) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-10--sentence-connectives)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-10--sentence-connectives) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#ch10)
 
 ---
 
@@ -8021,22 +8015,22 @@ vAkyagaLa jODaNe
 
 <a id="sec-10-1"></a>
 
-## 10.1 pIThike
+## ೧೦.೧ pIThike
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-10-1) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-10--sentence-connectives)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-10--sentence-connectives) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-10-1)
 
 
 arthadalli ondakkondu sambandhisiruva eraDu athavA jAsti vAkyagaLannu oTTu
-sErisi ondE vAkyavannAgi mADi hELalu bhASegaLalli halavu rItiya vidhAnagaLu
-baLakeyalliruttave. I viSayadallU haLegannaDa mattu samskxta bhASegaLa naDuve kelavu
+sErisi ondE vAkyavannAgi mADi hELalu bhAShegaLalli halavu rItiya vidhAnagaLu
+baLakeyalliruttave. I viShayadallU haLegannaDa mattu samskxta bhAShegaLa naDuve kelavu
 mukhyavAda vyatyAsagaLive.
 
 vAkyagaLannu jODisuvudakkAgi padagaLannu baLasabahudu, illavE pratyayagaLannu
 baLasabahudu. udAharaNegAgi, "athavA' emba arthavannu koDalu haLegannaDadalli
 mEN‌ padavannu baLasalAguttade.
 
-(1ka) bALa dinESa bimbada nebal‌ jaladoL‌ nelesitto mEN‌
-phaNIndrALayadindamurcida phaNAmaNi mangaLa raSmi yO (1.96)
+(೧ka) bALa dinESa bimbada nebal‌ jaladoL‌ nelesitto mEN‌
+phaNIndrALayadindamurcida phaNAmaNi mangaLa raSmi yO (೧.೯೬)
 “bAlasUryamanDalada neLalu nIralli nelesideyO athavA
 nAgalOkadinda bhEdisikonDu banda heDevaNigaLa mangaLa kiraNagaLO'
 
@@ -8044,84 +8038,84 @@ Adare, "mattu' embarthavannu koDalu um‌ (am‌) pratyayavannu baLasalAguttade.
 
 a v‌
 
-penDatiyappannaLorva magaLumam paDedilladiren‌ (2.46 va)
+penDatiyappannaLorva magaLumam paDedilladiren‌ (೨.೪೬ va)
 "ninnannu kollu vantaha obba maganannU mattu vikramArjunanige
 henDatiyAguvantaha obba magaLannU paDeyadiruvudilla'
 
-(1kha) ninnam kollannanorva muganumum vikravArjunange
+(೧kha) ninnam kollannanorva muganumum vikravArjunange
 eDi
 
 haLegannaDadalli sAmAnyavAgi vAkyagaLannu jODisuvudakkAgi padagaLigintalU
-pratyayagaLannu baLasuvudE jAsti. idallade, haLegannaDada kriyApadagaLige kelavu viSiSTavAda
+pratyayagaLannu baLasuvudE jAsti. idallade, haLegannaDada kriyApadagaLige kelavu viSiShTavAda
 "jODisuva' rUpagaLiddu, avannU I rIti vAkyagaLannu jODisuvudakkAgi
 baLasalAguttade.
 
-(25) divyarathamanesagal‌ dArukanemba sArathiyanIvudum (5. 20va)
+(೨5) divyarathamanesagal‌ dArukanemba sArathiyanIvudum (೫. ೨೦va)
 "divSa rathavannu naDesalu dArukanemba sArathiyannu koTTAga'
-(2kha) tAm munna tanda aragiNiyam koTTu kxtAntananta rdhAnakke sandam
+(೨kha) tAm munna tanda aragiNiyam koTTu kxtAntananta rdhAnakke sandam
 
 bhya pe) kIphe ATo
 "tAnu tandida aragiNiyannu koTTu yamanu adxSyanAdanu
 e
 
-(2ga) OgaravUgaLa banDaneyde pIrutte majudumbigaL‌ oDavanduvu
-(11.81)
+(೨ga) OgaravUgaLa banDaneyde pIrutte majudumbigaL‌ oDavanduvu
+(೧೧.೮೧)
 "miSrahUgaLa makarandavannu pUrNavAgi hIruttA maridumbigaLu
 joteyallE banduvu'
 
 divyarathamanesaguvam mattu dArukanemba sArathiyan‌ Ivan‌ emba eraDu vAkyagaLannu
-(2ka)dalli jODisalAgide, mattu idakkAgi modalaneya vAkyadalli esagu kriyApadada
+(೨ka)dalli jODisalAgide, mattu idakkAgi modalaneya vAkyadalli esagu kriyApadada
 jODisuva rUpavAda esagal‌ embudannu baLasalAgide.
 
-idE rItiyalli (2kha)dalli kuDu kriyApadada jODisuva rUpavAgiruva
-koTTu embudannU, (2ga)dalli pIru kriyApadada jODisuva rUpavAgiruva pIrutte
+idE rItiyalli (೨kha)dalli kuDu kriyApadada jODisuva rUpavAgiruva
+koTTu embudannU, (೨ga)dalli pIru kriyApadada jODisuva rUpavAgiruva pIrutte
 embudannU baLasalAgide.
 
 intaha jODisuva krayArUpagaLa baLakeyalli haLegannaDa mattu samskxta
-bhASegaLa naDuve kelavu mukhyavAda vyatyAsagaLiddu, avannu I adhyAyadalli
+bhAShegaLa naDuve kelavu mukhyavAda vyatyAsagaLiddu, avannu I adhyAyadalli
 vivarisalAgide.
 
 
 <a id="sec-10-2"></a>
 
-## 10.2 haLegannaDada jODisuva kriyArUpagaLu
+## ೧೦.೨ haLegannaDada jODisuva kriyArUpagaLu
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-10-2) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-10--sentence-connectives)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-10--sentence-connectives) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-10-2)
 
 
 vAkyagaLannu jODisuvudakkAgi haLegannaDadalli halavu rItiya kriyArUpagaLu
 baLakeyAguttiddu, avu I vAkyagaLu tiLisuva ghaTanegaLa naDuve kANisuva bEre bEre
 rItiya sambandhagaLannu sUcisuttave. intaha sambandhagaLu A ghaTanegaLa samayakke
-sambandhisirabahudu (10.2.1), illavE avugaLalli ondu naDeyade innondu
-naDedide (keLage koTTiruva (6ka-ga) vAkyagaLannu nODi), athavA ondu naDeyuvudu
-innondu naDeyuvudakke Sarattu (10.2.3) embantaha bEre rItiyavU irabahudu.
+sambandhisirabahudu (೧೦.೨.೧), illavE avugaLalli ondu naDeyade innondu
+naDedide (keLage koTTiruva (೬ka-ga) vAkyagaLannu nODi), athavA ondu naDeyuvudu
+innondu naDeyuvudakke Sharattu (೧೦.೨.೩) embantaha bEre rItiyavU irabahudu.
 
 
 <a id="sec-10-2-1"></a>
 
-### 10.2.1 samayada sUcane
+### ೧೦.೨.೧ samayada sUcane
 
 
-mEle (2ka-ga) vAkyagaLalli esagal‌, koTTu, mattu pIrutte embudAgi
+mEle (೨ka-ga) vAkyagaLalli esagal‌, koTTu, mattu pIrutte embudAgi
 mUru rItiya jODisuva rUpagaLu baLakeyAgive. ivu eraDu ghaTanegaLa naDuve
 kANisaballa mUru rItiya samaya sambandhagaLannu sUcisuttave:
 
 (ka) ondu ghaTane innondu ghaTaneya anantara naDeyuvantahadirabahudu.
-idannu sUcisuvudakkAgi, haLegannaDadalli mEle (2ka)dalli kANisida hAge, kriyApadakke
+idannu sUcisuvudakkAgi, haLegannaDadalli mEle (೨ka)dalli kANisida hAge, kriyApadakke
 nEravAgi al‌ pra tyayavannu sErisalAguttade (mADal‌, uNal‌, baral‌, kolal‌,
 taral‌ modalAdavu intahavE bEre kriyArUpagaLu). ivugaLa baLakeyannu keLagina
 udAharaNegaLallU kANabahudu:
 
-(3ka) kIcakam tammakkanam kANal‌ pOdam
+(೩ka) kIcakam tammakkanam kANal‌ pOdam
 "kIcakanu tanna akkanannu kANalu hOdanu'
-(3kha) bhImana moneyam Arayal‌ vanIpakaranaTTi
+(೩kha) bhImana moneyam Arayal‌ vanIpakaranaTTi
 “bhImana yuddharItiyannu kanDuhiDiyalu gUDhacArarannu kaLisi'
 
-(3ga) mantramanupadESam geyyal‌ bandevu
+(೩ga) mantramanupadESam geyyal‌ bandevu
 "mantravannu upadESa mADalu bandiddEve'
 
 (kha) ondu ghaTane innondu ghaTaneginta modalE naDeyuvantahadirabahudu.
-idannu sUcisuvudakkAgi mEle (2kha)dalli kANisida hAge, kriyApadakke nEravAgi i
+idannu sUcisuvudakkAgi mEle (೨kha)dalli kANisida hAge, kriyApadakke nEravAgi i
 pratyayavannu sErisalAguttade (alvi, ODi, nelasi, mecci modalAdavu intahavE bEre
 kriyArUpagaLu).
 
@@ -8133,11 +8127,11 @@ geydu, tindu, kondu).
 I niyamakke apavAdavAgi, kelavu kriyApadagaLondige d‌ pratyaya
 bandideyAdarU adara anantara I pratyaya i rUpadallE baruttade (teraLi, nAndi).
 
-(4ka) A mAtinge mecci kumbhasambhavam gAngEyananintendam
-“A mAtige mecci drONanu bhISmanige hIge hELidanu'
-(4kha) nIm enna kALegamam pejagirdu nODim
+(೪ka) A mAtinge mecci kumbhasambhavam gAngEyananintendam
+“A mAtige mecci drONanu bhIShmanige hIge hELidanu'
+(೪kha) nIm enna kALegamam pejagirdu nODim
 "nIvu nanna yuddhavannu horage iddu nODi'
-(4ga) viduram rathArUDhanAgi pAncaLa rAjapurakke vandu pAnDuputraram
+(೪ga) viduram rathArUDhanAgi pAncaLa rAjapurakke vandu pAnDuputraram
 kanDu...
 "viduranu rathavannEri, dxpadana paTTaNakke bandu, pAnDavarannu kanDu...'
 
@@ -8146,14 +8140,14 @@ naDeyuvantahadirabahudu. idannu sUcisuvudakkAgi kriyApadakke nEravAgi utte
 pratyayavannu sErisalAguttade (mADutte, nODutte, kELutte, tegaLutte, enutte,
 isutte).
 
-(5ka) OgaravUgaLa banDaneyde pIrutte maNudumbigaL‌ oDavanduvu
+(೫ka) OgaravUgaLa banDaneyde pIrutte maNudumbigaL‌ oDavanduvu
 "miSrahUgaLa jEnannu cannAgi hIruttA maridumbigaLu joteyallE
 banduvu'
 
-(5kha) peage kxtaka kirAtam (varAhanam) aTTuttum bandam
+(೫kha) peage kxtaka kirAtam (varAhanam) aTTuttum bandam
 "hindininda kxtaka kirAtanu (handiyannu) aTTuttalU bandanu'
 
-(5ga) vaendorvarorvar‌ ondondane nuDiyuttum pOge
+(೫ga) vaendorvarorvar‌ ondondane nuDiyuttum pOge
 "embudAgi obbobbaru ondondannU ADuttA hOguttiruvAga'
 
 mEle vivarisidantaha mUru bageya jODisuva kriyArUpagaLu mAtravallade,
@@ -8163,39 +8157,39 @@ sUcisuvudakkAgi kriyApadakke ade pratyayavannu sErisi racisiruva innondu rItiya
 (allagaLeyuva) jODisuva kriyArUpavU haLegannaDadalli baLakeyallide (ajuyade,
 pOgade, nillade, uNNade, tuDade).
 
-(6ka) nimmoDane ALOcisade emage negaTal‌ Em neravunTE
+(೬ka) nimmoDane ALOcisade emage negaTal‌ Em neravunTE
 "ninnoDane AlOcisade mADalu namage sAdhyave?'
-(6kha) vaettalaNmade kAladeseyoL‌ usirade kuLLire
-"ebbisalu iSTapaDade kAlina hattira mAtanADade kuLitiralu'
-(6ga) eveyikkade nOTpba kaN‌
+(೬kha) vaettalaNmade kAladeseyoL‌ usirade kuLLire
+"ebbisalu iShTapaDade kAlina hattira mAtanADade kuLitiralu'
+(೬ga) eveyikkade nOTpba kaN‌
 "reppe hoDeyade nODuva kaNNu'
 
 
 <a id="sec-10-2-2"></a>
 
-### 10.2.2 baLakege nirbandha
+### ೧೦.೨.೨ baLakege nirbandha
 
-I jODisuva rUpagaLa ondu vaySiSTyavEnendare, ivugaLa mUlaka jODisiruva
+I jODisuva rUpagaLa ondu vaySiShTyavEnendare, ivugaLa mUlaka jODisiruva
 vAkyagaLeraDarallU svEccheyinda naDesuvantaha ghaTanegaLannu sUcisalAgideyAdare, A
 eraDu ghaTanegaLannU obbanE vyakti (mADuga ghaTaka) naDesuttirabEku emba nirbandhavide.
 eraDu vAkyagaLalli ondu illavE eraDu vAkyagaLU I rIti svEccheyinda
 naDesuva ghaTaneyannu sUcisuvudillavAdare, avugaLa mEle I nirbandhavilla.
 
-(7) priyanam kanDu sukhamAdudu
+(೭) priyanam kanDu sukhamAdudu
 "priyanannu nODi (nanage) sukhavAyitu'
 
-(7)nE vAkyadalli modalaneya vAkyada karta nAnu (illavE sukha embudakkinta
+(೭)nE vAkyadalli modalaneya vAkyada karta nAnu (illavE sukha embudakkinta
 bhinnavAda bErondu pada) mattu eraDaneyadara karta sukha. hIgiddarU illi kanDu
 kriyArUpada baLakeyAgide. eraDaneya vAkyadalli sukha embudu svEccheyinda ghaTaneyalli
 toDaguva mADuganalla embudE intaha baLake sAdhyavAgalu kAraNa.
 
-hosagannaDadallU intahadE nirbandhavide embudannu bhaT‌ (2004:196)ralli
+hosagannaDadallU intahadE nirbandhavide embudannu bhaT‌ (೨೦೦೪:೧೯೬)ralli
 vivarisalAgide.
 
 
 <a id="sec-10-2-3"></a>
 
-### 10.2.3 e pratyayada baLake
+### ೧೦.೨.೩ e pratyayada baLake
 
 
 bEre bEre vyaktigaLu svEccheyinda naDesuvantaha ghaTanegaLannu sUcisuva vAkyagaLannu
@@ -8207,7 +8201,7 @@ I kriyArUpada mUlaka sUcitavAguva ghaTane adara anantara sUcitavAguva
 ghaTaneginta modalE naDedideyemba arthavU (endare i (u) pratyayada mUlaka
 racitavAgiruva kriyArUpada arthavU) I kriyArUpakkide.
 
-(Aka) pAnDyan‌ tOmaradinda iDe gurutanUjam eDeyoL‌ kaDidam
+(೮ka) pAnDyan‌ tOmaradinda iDe gurutanUjam eDeyoL‌ kaDidam
 “pAnDyanu tOmaradinda hoDedAga aSvatthAmanu (adannu)
 madhyamArgadallE kaDidanu'
 
@@ -8216,24 +8210,24 @@ purajanangaLella tammoLintendar‌
 "pAnDavaru dravpadiyoDane paTTaNavannu biTTu hOdAga paTTaNada
 janarella tammoLage hIge hELikonDaru'
 
-(Aka)dalli tOmaradinda hoDeyuva ghaTane, mattu adannu mArga madhyadalle ¢
+(೮ka)dalli tOmaradinda hoDeyuva ghaTane, mattu adannu mArga madhyadallE
 kaDiyuva ghaTane - iveraDU svEccheyinda naDesuva ghaTanegaLu. ivannu bEre bEre
 vyaktigaLu (pAnDya mattu aSvatthAma) naDesuttiruva kAraNa, I vAkyagaLannu jODisalu
-(Aka)dalli iDu kriyApadada iTTu rUpada badalu, iDe rUpavannu baLasalAgide.
+(೮ka)dalli iDu kriyApadada iTTu rUpada badalu, iDe rUpavannu baLasalAgide.
 (Akha)dallU hIgeyE.
 
 Adare, e pratyayadinda racitavAgiruva I kriyArUpavannu obbanE vyakti
 mADuganAgi naDesuva eraDu vAkyagaLannu jODisuvallU baLasalu sAdhyavide.
 udAharaNegAgi, keLage koTTiruva pampabhAratada vAkyavannu gamanisabahudu:
 
-(9) arAtikALAnaLan‌ tAnum bhImasEnanum divyaSarAsanangaLam konDu
+(೯) arAtikALAnaLan‌ tAnum bhImasEnanum divyaSarAsanangaLam konDu
 pUNe puguva arAtibalamam vArkonDu tege neakidise
 taLardattarAtibalam
 “arjunanu tAnU bhImanU billugaLannu tegedukonDu, pratijYe
 mADi, pravESisuva Satrusaynyavannu pratibhaTisi, (billu gaLannu) dIrphthavAgi
 eLedu (bANagaLannu) prayOgisidAga Satrusaynya himmeTTitu'
 
-(9)nE vAkyadalli svEccheyinda naDesuva halavu ghaTanegaLannu oTTige sErisalAgiddu,
+(೯)nE vAkyadalli svEccheyinda naDesuva halavu ghaTanegaLannu oTTige sErisalAgiddu,
 avugaLalli koneyadannu ("Satrusaynya himmeTTitu' embudannu) biTTu, uLida ellA
 ghaTanegaLannU arjuna mattu bhIma embavarE naDesiddA re. Adare, ivugaLalli baruva
 jODisuva kriyArUpagaLalli eraDannu (konDu mattu mArkonDu) u pratyayada
@@ -8243,138 +8237,138 @@ mUlakavU bEre eraDannu (pUNe mattu tege) e pratyayada mUlakavU racisalAgide.
 
 <a id="sec-10-2-4"></a>
 
-### 10.2.4 al pratyayada baLake
+### ೧೦.೨.೪ al pratyayada baLake
 
 
 kriyApadagaLige al‌ pratyayavannu sErisi racisida kriyArUpagaLannu mUru
 arthagaLalli (modalu naDeda ghaTane, anantara naDeda ghaTane, mattu ghaTaneyannu
 naDesuvudu bEDa embarthagaLalli) baLasalu sAdhyavide embudannu nAvu mEle
-(9.5.1)ralli nODiruvevu. ivugaLalli modalaneya eraDu arthagaLalli baruva
+(೯.೫.೧)ralli nODiruvevu. ivugaLalli modalaneya eraDu arthagaLalli baruva
 kriyArUpagaLannu vAkyagaLannu jODisuvudakkAgi baLasalAguttade.
 
 modalaneya arthadalli (endare modalu naDeda ghaTaneyannu sUcisuva
 arthadalli) I kriyArUpavannu baLasalAgideyAdare, antaha baLakeya mEle
-(10.2.2)ralli sUcisida nirbandhavilla embudannu pampabhAratada keLagina vAkyagaLalli
+(೧೦.೨.೨)ralli sUcisida nirbandhavilla embudannu pampabhAratada keLagina vAkyagaLalli
 kANabahudu:
 
-(10ka) endu nuDidu kaTupal‌ A dravpadi santasambaTTu ante geyvenendu
-pOgi (8.72va)
-"(kIcakanu) hAge hELi kaLuhisidAga dravpadi santOSapaTTu hAgeyE
+(೧೦ka) endu nuDidu kaTupal‌ A dravpadi santasambaTTu ante geyvenendu
+pOgi (೮.೭೨va)
+"(kIcakanu) hAge hELi kaLuhisidAga dravpadi santOShapaTTu hAgeyE
 mADuttEnendu (hELi) (hOdaLu); hOgi..'
 
-(10kha) rathamanEaloDam pAvakanalvu khAnDavamanunDapan‌ (5.77va-78)
+(೧೦kha) rathamanEaloDam pAvakanalvu khAnDavamanunDapan‌ (೫.೭೭va-೭೮)
 "(arjunanu) rathavannEridoDaneyE agniyu khAnDavavannu suTTu
 uNNuttAne'
 
-(10ka)dalli kaLisuvudu mattu hOguvudu emba eraDu svEccheyinda naDesuva
+(೧೦ka)dalli kaLisuvudu mattu hOguvudu emba eraDu svEccheyinda naDesuva
 ghaTanegaLannu al‌ pratyayada mUlaka jODisalAgide. Adare, I eraDu ghaTanegaLannu
 naDesuvavaru bEre bEre vyaktigaLu embudannU, mattu illi al‌ pratyayakke modalina
 ghaTaneyannu sUcisuva arthavideyallade anantarada ghaTaneyannu sUcisuva arthavilla
 embudannU gamanisabahudu.
 
 Adare, eraDaneya arthadalli (endare anantara naDeyuva ghaTaneyannu sUcisuva
-arthadalli) I pratyayavannu baLasalAgideyAdare, mEle (10.2.2)ralli koTTiruva
+arthadalli) I pratyayavannu baLasalAgideyAdare, mEle (೧೦.೨.೨)ralli koTTiruva
 nirbandha antaha baLakeya mEle anvayisuttade.
 
 
 <a id="sec-10-2-5"></a>
 
-### 10.2.5 Sarattannu sUcisuvudu
+### ೧೦.೨.೫ Sharattannu sUcisuvudu
 
 
-Sarattannu sUcisuva ondu vAkyadondige A Sarattina mEle avalambisiruva
+Sharattannu sUcisuva ondu vAkyadondige A Sharattina mEle avalambisiruva
 innondu vAkyavannu jODisi hELuvudakkAgiyU haLegannaDadalli jODisuva
 kriyArUpada baLakeyAguttade. intaha kriyArUpavannu tayArisabEkiddalli, kriyApadada
 sambandhisuva rUpakke oDe pratyayavannu sErisabEkAguttade.
 
 kriyApadagaLige mundina samayada rUpa, hindina samayada rUpa, mattu
 allagaLeyuva rUpa embudAgi mUru rItiya sambandhisuva rUpagaLiddu, I
-mUrarondigU oDe pratyayavannu baLasi Sarattannu sUcisalu sAdhyavide. udAharaNegAgi,
+mUrarondigU oDe pratyayavannu baLasi Sharattannu sUcisalu sAdhyavide. udAharaNegAgi,
 pampabhAratada keLagina baLakegaLannu gamanisabahudu:
 
-(11ka) emma magaLge puTTidAtam rAjyakkoDeyan‌ appoDe kuDuvem (1.70
+(೧೧ka) emma magaLge puTTidAtam rAjyakkoDeyan‌ appoDe kuDuvem (೧.೭೦
 va)
 "namma magaLige huTTuvavanu rAjyakke oDeyanAguvudAdare (magaLannu)
 koDuvevu'
 
-(11kha) ennaya dUsauುm pati sattoDe satta pApamennan‌ narakangaLoL‌
-allu gum (1.73)
+(೧೧kha) ennaya dUsauುm pati sattoDe satta pApamennan‌ narakangaLoL‌
+allu gum (೧.೭೩)
 "nannindAgi pati sattare satta pApavu nannannu narakadalli muLugisItu'
-(11ga) pETadoDe pOgadir‌ (13.55)
+(೧೧ga) pETadoDe pOgadir‌ (೧೩.೫೫)
 "hELadiddare hOgabEDa'
 
-(11ka)dalli Sarattannu sUcisuva appoDe kriyArUpavannu mundina samayavannu
-sUcisuva appa kriyArUpakke oDe pratyayavannu sErisi racisalAgide; Adare, (11kha)dalli
+(೧೧ka)dalli Sharattannu sUcisuva appoDe kriyArUpavannu mundina samayavannu
+sUcisuva appa kriyArUpakke oDe pratyayavannu sErisi racisalAgide; Adare, (೧೧kha)dalli
 idE pratyayavannu hindina samayavannu sUcisuva satta kriyArUpakkU (sattoDe),
-(11ga)dalli allagaLeyuva pOgada kriyArUpakkU (pOgadoDe) sErisi racisalAgide.
+(೧೧ga)dalli allagaLeyuva pOgada kriyArUpakkU (pOgadoDe) sErisi racisalAgide.
 
-intaha Sarattina kriyArUpagaLalli baruva da mattu va (pa) pratyayagaLige bEre
+intaha Sharattina kriyArUpagaLalli baruva da mattu va (pa) pratyayagaLige bEre
 kriyArUpagaLalli baruva pratyayagaLiginta tIra bhinnavAgiruvantaha samayavannu sUcisuva
-arthavideyembudannu illi gamanisuvudu avaSya. sAmAnyavAgi, intaha Sarattannu
+arthavideyembudannu illi gamanisuvudu avaSya. sAmAnyavAgi, intaha Sharattannu
 sUcisuva kriyArUpagaLalli I eraDu pratyayagaLU mAtina samayada anantara
-naDeyuva (endare mundina samayadalli athavA bhaviSyat‌ kAladalli naDeyuva)
+naDeyuva (endare mundina samayadalli athavA bhaviShyat‌ kAladalli naDeyuva)
 ghaTaneyannE sUcisuttave.
 
 itara baLakegaLalli kANisuva hAge, da pratyayakke mAtina samayakkinta modalu
 (endare hindina samayadalli athavA bhUtakAladalli) naDeyuva ghaTaneyannu sUcisuva
-artha I Sarattannu sUcisuva kriyArUpagaLallilla. udAharaNegAgi, (11kha)dalli
+artha I Sharattannu sUcisuva kriyArUpagaLallilla. udAharaNegAgi, (೧೧kha)dalli
 sattoDe kriyArUpa hindina samayada ghaTaneyannu sUcisuvudilla. A vAkyavannADiruva
-samayada anantara naDeyabahudAda ghaTaneyondannu mAtravE adu (SarattAgi)
+samayada anantara naDeyabahudAda ghaTaneyondannu mAtravE adu (SharattAgi)
 sUcisuttade.
 
-intaha Sarattina rUpagaLalli da mattu va (pa) pratyayagaLa naDuve bEreyE
-ondu arthavyatyAsa kANisuttade: da pratyaya bandideyAdare, adakke A Sarattu
+intaha Sharattina rUpagaLalli da mattu va (pa) pratyayagaLa naDuve bEreyE
+ondu arthavyatyAsa kANisuttade: da pratyaya bandideyAdare, adakke A Sharattu
 sUcisuva ghaTane adannu avalambisiruva ghaTaneginta modalE naDedirabEkemba artha
 baruttade, mattu va (pa) pratyaya bandideyAdare, adakke A ghaTane adara mEle
 avalambisiruva ghaTaneginta anantara naDeyabEkAgideyemba artha, illavE avareDU
 ondE samayadalli naDeyuvantahavemba artha baruttade.
 
-udAharaNegAgi, mEle (11ka) vAkyada Sarattina kriyArUpadalli pa pratyaya
-bandide (appoDe), mattu rAjanAguva Sarattina ghaTane adannu avalambisiruva koDuva
-ghaTaneya anantara naDeyuvantahademba artha baruttade; Adare, (11kha)dalli da (ta)
-pratyaya bandide (sattoDe), mattu sAyuva ghaTane (Sarattu) adannu avalambisiruva
-narakakke hOguva ghaTaneginta modalE naDeyuvantahademba artha baruttade (10.4.(1))
+udAharaNegAgi, mEle (೧೧ka) vAkyada Sharattina kriyArUpadalli pa pratyaya
+bandide (appoDe), mattu rAjanAguva Sharattina ghaTane adannu avalambisiruva koDuva
+ghaTaneya anantara naDeyuvantahademba artha baruttade; Adare, (೧೧kha)dalli da (ta)
+pratyaya bandide (sattoDe), mattu sAyuva ghaTane (Sharattu) adannu avalambisiruva
+narakakke hOguva ghaTaneginta modalE naDeyuvantahademba artha baruttade (೧೦.೪.(೧))
 
 nODi).
 
 
 <a id="sec-10-3"></a>
 
-## 10.3 samskxtadalli jODisuva kriyArUpagaLu
+## ೧೦.೩ samskxtadalli jODisuva kriyArUpagaLu
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-10-3) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-10--sentence-connectives)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-10--sentence-connectives) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-10-3)
 
 
 samskxtadalliyU vAkyagaLannu jODisuvudakkAgi kriyArUpagaLannu baLasalu
 sAdhyavide. idakkAgi baLakeyAguva kriyArUpagaLu nAmapadagaLirabahudu, nAmapadagaLa
-vibhakti rUpagaLirabahudu, illavE I kelasakkAgiyE siddhavAgiruva viSiSTa
+vibhakti rUpagaLirabahudu, illavE I kelasakkAgiyE siddhavAgiruva viSiShTa
 kriyArUpagaLirabahudu. Adare, haLegannaDadalli kANisuvantaha accukaTTu samskxtada
 I padarUpagaLa baLakeyalli kANisuvudilla.
 
 idakke kAraNavEnendare, vAkyagaLa jODaNegAgi I rIti kriyApadagaLa jODisuva
-rUpavannu baLasuva vidhAna samskxtakke drAviDa bhASegaLa prabhAvadindAgi bandirabEku.
-adu inDO-yurOpiyan‌ mUlabhASeyinda AnuvamSikavAgi A bhASe paDediruva
+rUpavannu baLasuva vidhAna samskxtakke drAviDa bhAShegaLa prabhAvadindAgi bandirabEku.
+adu inDO-yurOpiyan‌ mUlabhASheyinda AnuvamSikavAgi A bhAShe paDediruva
 vidhAnavalla.
 
 
 <a id="sec-10-3-1"></a>
 
-### 10.3.1 kxdantagaLa baLake
+### ೧೦.೩.೧ kxdantagaLa baLake
 
 
 samskxtadalli jODisuva kelasavannu kriyApadagaLinda racitavAda kxdantagaLE
 naDesaballuvu; padakantegaLa tayArikeyallU ivannE baLasalAguttadeyAda kAraNa, I
-viSayadalli samskxta haLegannaDakkinta tIra bhinnavAgide.
+viShayadalli samskxta haLegannaDakkinta tIra bhinnavAgide.
 
-(12ka) aham dakSiNAraNyE caran‌ mxgamEkam apaSyam
+(೧೨ka) aham dakShiNAraNyE caran‌ mxgamEkam apaSyam
 
-"nAnu dakSiNAraNyadalli naDeyuttA ondu mxgavannu nODide'
-(12kha) udyAnE krIDantIm bAlAm vIraH apaSyat‌
+"nAnu dakShiNAraNyadalli naDeyuttA ondu mxgavannu nODide'
+(೧೨kha) udyAnE krIDantIm bAlAm vIraH apaSyat‌
 
 “udyAnadalli ADuva huDugiyannu vIranu nODidanu'
 
-(12ka)dalli caran‌ "naDeyuttA 'emba kxdantavannu eraDu vAkyagaLannu jODisuva
-kelasadalli baLasalAgide; Adare, (12kha)dalli antahadE krIDan‌ "ADuttA' emba
+(೧೨ka)dalli caran‌ "naDeyuttA 'emba kxdantavannu eraDu vAkyagaLannu jODisuva
+kelasadalli baLasalAgide; Adare, (೧೨kha)dalli antahadE krIDan‌ "ADuttA' emba
 innondu kxdantavannu (adara dvitIyA-Ekavacana (strIlinga) rUpadalli) bAlAm
 nAmapadadondige sErisi padakanteyondannu tayArisuvalli baLasalAgide.
 
@@ -8385,7 +8379,7 @@ embantahavugaLiginta) tIra bhinnavAgiveyembudannu illi gamanisabahudu.
 
 <a id="sec-10-3-2"></a>
 
-### 10.3.2 tvA pratyayada baLake
+### ೧೦.೩.೨ tvA pratyayada baLake
 
 
 samskxtadalli vAkyagaLannu jODisuva kelasakkAgi mAtra baLakeyAgaballa
@@ -8394,36 +8388,36 @@ tayArisalAguttade (gatvA "hOgi' kxtvA "mADi', SxtvA "kELi', pItvA “kuDidu').
 I kriyArUpakke adu sUcisuva ghaTane adara anantarada vAkya sUcisuva ghaTaneginta
 modalE naDedide emba arthavide.
 
-(13ka) chAgam tyaktvA svagxham yayav
+(೧೩ka) chAgam tyaktvA svagxham yayav
 
 "ADannu tyajisi (avanu) tanna manege hOda'
-(13kha) bhOjanam kxtvA grAmaH gantavyaH
+(೧೩kha) bhOjanam kxtvA grAmaH gantavyaH
 
 "UTa mADi Urige hOgabEku'
 
 kriyApadadalli upasargavondu sErideyAdalli I pratyayakke ya emba
 rUpavide.
 
-(14ka) narAH SAstram adhItya panDitAH bhavanti
+(೧೪ka) narAH SAstram adhItya panDitAH bhavanti
 "mAnavaru SAstragaLannu Odi panDitarAguttAre'
-(14kha) SatrUn‌ nigxhya aham AgamiSyAmi
+(೧೪kha) SatrUn‌ nigxhya aham AgamiShyAmi
 
 "nAnu SatrugaLannu nigrahisi baruttEne'
 
-Adare, I kriyArUpa samskxtakke adara mUlabhASeyAda inDO-
+Adare, I kriyArUpa samskxtakke adara mUlabhASheyAda inDO-
 yurOpiyan‌dinda bandudalla. kAvyagaLa kAladalli jAsti baLakege bandiruva I
-kriyArUpa drAviDa bhASegaLa samsargadindAgi siddhavAdudirabEkendu vidvAmsaru
-abhiprAyapaDuttAre (barO 1955 nODi).
+kriyArUpa drAviDa bhAShegaLa samsargadindAgi siddhavAdudirabEkendu vidvAmsaru
+abhiprAyapaDuttAre (barO ೧೯೫೫ nODi).
 
 samskxtadalli I kriyArUpavannu baLasabEkiddare, adara mUlaka jODisalAgiruva
 eraDu vAkyagaLallU katx ondE Agiruva avaSyakateyide. I rIti karka ondE
 AgillavAdalli, I kriyArUpavannu baLasuva badalu "sati saptami' emba bErondu
-racaneyannu baLasabEkAguttade (10.3.4 nODi).
+racaneyannu baLasabEkAguttade (೧೦.೩.೪ nODi).
 
 
 <a id="sec-10-3-3"></a>
 
-### 10.3.3 tum pratyayada baLake
+### ೧೦.೩.೩ tum pratyayada baLake
 
 
 vAkyagaLannu jODisuva kelasadalli mAtra baLakeyAguva innondu kriyArUpavU
@@ -8438,28 +8432,28 @@ baraballuvAgidduvu (hantavE “kollalu (caturthI)', avapadaH (pancamI), ityAdi.
 
 <a id="sec-10-3-4"></a>
 
-### 10.3.4 satisaptami
+### ೧೦.೩.೪ satisaptami
 
 
 jODisabEkAgiruva eraDu vAkyagaLalli ondara kartapada innondara
 kataNxpadakkinta bhinnavAgiddalli, mEle vivarisida kriyArUpagaLannu baLasalu sAdhyavAgadu.
 hAgAgi, antaha sandarbhagaLalli "satisaptami' emba hesarina bEreyE ondu racaneyannu
 
-baLasabEkAguttade. nijakkU illi saptamI vibhakti mAtravallade SaSThI vibhaktiyannU
+baLasabEkAguttade. nijakkU illi saptamI vibhakti mAtravallade ShaShThI vibhaktiyannU
 baLasalu sAdhyavide.
 udAharaNegAgi, keLage koTTiruva vAkyagaLannu pariSIlisabahudu:
-(15ka) tasmin‌ rAjYi sati kaH bhUmim jayEt‌
+(೧೫ka) tasmin‌ rAjYi sati kaH bhUmim jayEt‌
 "avanu rAjanAgiruvAga bhUmanDalavannu yAru geddA ru?'
-(15kha) tasya kIrtimatO rAjYO dharmam vidadhAnasyApi sarvAH prajAH
+(೧೫kha) tasya kIrtimatO rAjYO dharmam vidadhAnasyApi sarvAH prajAH
 duHkhinya EvAbhavan‌
 "kIrtivantanAda A rAjanu dharmavannu sthA pisiruvAgalU ellA
 prajegaLU duHkhigaLAgiyE iddaru'
 
-(15ka)dalli modalaneya vAkyada pada (illavE padakante)gaLannella saptamI
-vibhaktiyallirisalAgide, mattu (15kha)dalli SaSThI vibhaktiyalli risalAgide. sAmAnyavAgi
-tiraskAravannu sUcisabEkAgiruvalli SaSThI vibhaktiyannu baLasalAgutta de.
+(೧೫ka)dalli modalaneya vAkyada pada (illavE padakante)gaLannella saptamI
+vibhaktiyallirisalAgide, mattu (೧೫kha)dalli ShaShThI vibhaktiyalli risalAgide. sAmAnyavAgi
+tiraskAravannu sUcisabEkAgiruvalli ShaShThI vibhaktiyannu baLasalAgutta de.
 
-I racanegaLu mEle vivarisida racanegaLiginta halavu viSayagaLalli bhinnavAgive
+I racanegaLu mEle vivarisida racanegaLiginta halavu viShayagaLalli bhinnavAgive
 embudannu gamanisabahudu. illi baruva eraDu vAkyagaLa karta)gaLu bhinnavAgirabEku
 mAtravalla, avugaLalli modalaneya vAkyavannu ondu padakanteyannAgiyU
 badalAyisabEkAguttade. adara angagaLAgi baruva pada illavE padakantegaLella
@@ -8468,68 +8462,68 @@ ondE vibhaktiyallirabEkemba niyamakke idE kAraNa.
 
 <a id="sec-10-3-5"></a>
 
-### 10.3.5 Sarattannu sUcisuvudu
+### ೧೦.೩.೫ Sharattannu sUcisuvudu
 
 
-samska tadalli Saratta nnu sUcisuvudakkAgi haLegannaDadalli ruvudakkinta tIra bhinnavAda
+samska tadalli Sharatta nnu sUcisuvudakkAgi haLegannaDadalli ruvudakkinta tIra bhinnavAda
 vyAkaraNatatvavannu anusarisalAguttade, mattu idarindAgi, haLegannaDadalli kANisuva
 sAdhyategaLiginta samskxtadalli kANisuva sAdhyategaLu tIra bhinnavAgive. samskxtadalli
-mukhyavAgi eraDu vidhAnagaLa mUlaka Sarattannu sUcisalu sAdhyavide:
+mukhyavAgi eraDu vidhAnagaLa mUlaka Sharattannu sUcisalu sAdhyavide:
 
 vAkyavannu adara sambandhisuva rUpakke badalAyisuvudu ondu vidhAna, mattu
 A vAkyadalli cEt‌ padavannu, illavE yadi sarvanAmavannu baLasuvudu innondu
 vidhAna.
 
-(16ka) yadi aham taskarOsmi, baddIta mAm
+(೧೬ka) yadi aham taskarOsmi, baddIta mAm
 "nAnu kaLLanAdare, nannannu bandhisi'
 
-(16kha) vEtti cEt‌ bhavAn‌ vaktu
+(೧೬kha) vEtti cEt‌ bhavAn‌ vaktu
 "(nimage) gottideyAdare hELi'
 
-(16ga) yadi sa mayA dxSTO abhaviSyat‌ tatO abhOksyata
+(೧೬ga) yadi sa mayA dxShTO abhaviShyat‌ tatO abhOksyata
 "nAnu avanannu kanDiddare nungibiDuttidde'
 
-Adare, haLegannaDada hAge (10.2.3 nODi) illi viSiSTavAda kriyArUpagaLa
+Adare, haLegannaDada hAge (೧೦.೨.೩ nODi) illi viSiShTavAda kriyArUpagaLa
 baLakeyilla embudannu gamanisabahudu.
 
 
 <a id="sec-10-4"></a>
 
-## 10.4 haLegannaDa vayyAkaraNigaLa samasyegaLu
+## ೧೦.೪ haLegannaDa vayyAkaraNigaLa samasyegaLu
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-10-4) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-10--sentence-connectives)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-10--sentence-connectives) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-10-4)
 
 
 jODisuva kriyArUpagaLannu vivarisuvalli haLegannaDa vayyAkaraNigaLige avugaLa
 hindiruva vyavastheyannu mattu vyAkaraNa tatvagaLannu sariyAgi grahisikoLLalu
-sAdhyavAgiralilla. mEle (10.3(1-5))ralli vivarisida hAge, samskxtadalli baLakeyAguva
+sAdhyavAgiralilla. mEle (೧೦.೩(೧-೫))ralli vivarisida hAge, samskxtadalli baLakeyAguva
 jODisuva kriyArUpagaLa hinde haLegannaDadalliruvantaha vyavasthe illavE accukaTTu
 illadiruvudE idakke kAraNavirabahudu.
 
-(1) necci ka mecca » nenedu modalAda kriyArUpagaLu pUrva (bhUta)kAlada
+(೧) necci ka mecca , nenedu modalAda kriyArUpagaLu pUrva (bhUta)kAlada
 kriyeyannU kettutte, parasutte, enute modalAdavugaLu vartamAna kAlada kriyeyannU
-sUcisuttaveyendu kESirAjanu (sU. 249) hELiddAne.
+sUcisuttaveyendu kESirAjanu (sU. ೨೪೯) hELiddAne.
 
-Adare, mEle (10.2.1)ralli sUcisida hAge, nijakkU ivu neccidam, meccidam
+Adare, mEle (೧೦.೨.೧)ralli sUcisida hAge, nijakkU ivu neccidam, meccidam
 modalAda bhUtakAlada kriyArUpagaLinda mattu neccidapam, meccidapam (illavE
 meccu vam, neccu vam) modalAda vartamAna kAlada kriyArUpagaLinda samaya
 sUcaneyalli tIra bhinnavAgive.
 
 udAharaNegAgi, keLage koTTiruva pampabhAratada vAkyagaLannu pariSIlisabahudu:
 
-(17ka) antu drONAcAryan‌ pAnDava kavravarge upadESam geyyuttum
+(೧೭ka) antu drONAcAryan‌ pAnDava kavravarge upadESam geyyuttum
 ireyire nAnAdESa narEndrarum dhanurvEdamane kalal‌ bandALAdar‌
-(2.55-6)
+(೨.೫೫-೬)
 
 "hAge drONAcAryanu pAnDava kavravarugaLige upadESa
 mADuttiruvAga, bEre bEre dESada rAjarU dhanurvidyeyannu kaliyalu
 bandu Atana SiSyarAdaru'
 
-(17kha) nImenna kALegamam pejagirdu nODim (3.69va)
+(೧೭kha) nImenna kALegamam pejagirdu nODim (೩.೬೯va)
 
 "nIvu nanna yuddhavannu horage iddu nODi'
 
-(17ka)dalli geyyuttum embudaralli vartamAna kAlada utte pratyaya
+(೧೭ka)dalli geyyuttum embudaralli vartamAna kAlada utte pratyaya
 bandideyAdarU adu nijakkU "bhUta'kAladalli (endare A vAkyavannu ADiruva
 (illavE barediruva) samayakkinta modalu) naDediruva ghaTaneyondannu
 sUcisuttadeyallade "vartamAna' kAladalli naDeyuva ghaTaneyannu sUcisuvudilla.
@@ -8539,8 +8533,8 @@ sUcisuttade. endare, illi utte pratyayakke "ondE samaya' emba arthavideyallade
 
 vartamAnArthavilla.
 
-idE rItiyalli, (17kha)dalli bandiruva peagirdu embudaralli bhUtakAlada
-da pratyaya bandideyAdarU, adu bhaviSyat‌ kAladalli naDeyabEkAgiruva ondu
+idE rItiyalli, (೧೭kha)dalli bandiruva peagirdu embudaralli bhUtakAlada
+da pratyaya bandideyAdarU, adu bhaviShyat‌ kAladalli naDeyabEkAgiruva ondu
 ghaTaneyannu sUcisuttadeyallade bhUtakAladalli naDediruva ghaTaneyannu sUcisuvudilla.
 A vAkyavannu arjunanu hELiruva samayadalli I "horagiruva' ghaTaneyinnU
 naDedilla. "nODuva' ghaTaneginta modalu "horagiruva' ghaTane naDeyabEku embudAgi
@@ -8551,8 +8545,8 @@ intaha baLakegaLannu vivarisuvudakkAgi haLegannaDadalli eraDu rItiya
 samayabhEdagaLannu sUcisuva pratyayagaLiveyendu hELabEkAguttade. kriyArUpagaLalli
 avu bandiruva vAkyavannu ADiruva samayakkU avu tiLisuva ghaTaneya samayakkU
 naDuve entaha sambandhavide embudannu tiLisabEkAguttade, mattu idakkAgi hindina
-samaya (bhUtakAla), mundina samaya (bhaviSyat‌ kAla) mattu Igina samaya
-(vartamAna kAla) emba pAribhASika padagaLannu baLasuva avaSyakateyide.
+samaya (bhUtakAla), mundina samaya (bhaviShyat‌ kAla) mattu Igina samaya
+(vartamAna kAla) emba pAribhAShika padagaLannu baLasuva avaSyakateyide.
 
 Adare, jODisuva kriyArUpagaLannu baLasuva sandarbhagaLalli idakkinta tIra
 bhinnavAda samayabhEdagaLannu sUcisabEkAguttade. antaha kaDegaLalli eraDu (athavA
@@ -8563,33 +8557,33 @@ tiLisabEkAguttade.
 
 I mUru rItiya samayagaLU mAtina samayakkinta hinde naDedirabahudu,
 illavE anantara naDeyuvantahavirabahudu. hAgAgi, ivu mUrU hindina (bhUta)
-illavE mundina (bhaviSyat‌) kAladavAgiralu sAdhyavide. I vyatyAsavannu jODisuva
+illavE mundina (bhaviShyat‌) kAladavAgiralu sAdhyavide. I vyatyAsavannu jODisuva
 kriyArUpagaLannu baLasiruva vAkyagaLa koneyalli baruva kriyArUpagaLu tiLisuttavallade,
 jODisuva kriyArUpagaLu tiLisuvudilla.
 
 I kAraNakkAgi, jODisuva kriyArUpagaLalli kanDubaruva samaya sambandhavannu
 sUcisuvudakkAgi modalina samaya, anantarada samaya mattu ondE samaya
-embudAgi bEreyE pAribhASika padagaLannu baLasuva avaSyakateyide (vivaragaLige
-9.2.3 nODi).
+embudAgi bEreyE pAribhAShika padagaLannu baLasuva avaSyakateyide (vivaragaLige
+೯.೨.೩ nODi).
 
-(2) mADe, nODe, poamaDe modalAdavugaLa baLakeyannu "satisaptami'yendu
-kareyalAgide (kESirAja sU. 260). Adare bEre halavu vidvAmsaru sUcisiruva
-hAge, haLegannaDada I racane samskxtada satisaptamiginta tIra bhinnavAgide (10.3.4
-nODi). kartxpada bhinnavAgirabahudemba ondu viSayadalli mAtra iveraDaroLage
+(೨) mADe, nODe, poamaDe modalAdavugaLa baLakeyannu "satisaptami'yendu
+kareyalAgide (kESirAja sU. ೨೬೦). Adare bEre halavu vidvAmsaru sUcisiruva
+hAge, haLegannaDada I racane samskxtada satisaptamiginta tIra bhinnavAgide (೧೦.೩.೪
+nODi). kartxpada bhinnavAgirabahudemba ondu viShayadalli mAtra iveraDaroLage
 samAnateyide.
 
 Adare, illU kartxpada embudakkintalU mADuga (svEccheyinda ghaTaneyalli
 toDagikonDiruvavanu) embudE haLegannaDada maTTige yOgyavAgiruva kalpane.
 
-(3) kartxpada bhinnavAgiruvalli Al‌ pratyayavannu baLasabAradu, aloDam
-embudannu baLasabEku embudAgi kESirAja (sU. 260) hELiddA ne. al‌ pra tyaya
+(೩) kartxpada bhinnavAgiruvalli Al‌ pratyayavannu baLasabAradu, aloDam
+embudannu baLasabEku embudAgi kESirAja (sU. ೨೬೦) hELiddA ne. al‌ pra tyaya
 sEriruva kriyArUpakke “anantarada' ghaTaneyannu mAtravallade, "modalina' ghaTaneyannu
 sUcisuva arthavU ideyembudannu (endare haLegannaDadalli al‌ rUpada eraDu
 bEre bEre pratyayagaLiveyembudannu) Atanu gamanisadiruvudE Ata hIge hELalu
 kAraNavirabEku.
 
 yAkendare, "modalina' ghaTaneyannu sUcisuvalli I kriyArUpakke mElina
-nirbandhavillavembudu halavu kavigaLa prayOgagaLinda spa STavAguttade (10.2.4 nODi).
+nirbandhavillavembudu halavu kavigaLa prayOgagaLinda spa ShTavAguttade (೧೦.೨.೪ nODi).
 aloDam embudaralli I pratyayada munde oDam "oDaneyE' pada bandiddu,
 idarindAgi adakke "modalina' ghaTaneyannu sUcisuva artha baraballudallade, "anantara'da
 ghaTaneyannu sUcisuva artha baralAradu. oDam embudu I pratyayakkiruva mElina
@@ -8600,27 +8594,27 @@ pratyayada baLakeyalli arthada maTTige samSaya huTTuva sandarbhagaLalli mAtra ad
 oDam embudannu sErisi baLasabEku endu hELirabEkittallade, hAge oDam embudannu
 sErisade kelavaru baLasiruvudu “abaddha ' endu hELuva avaSyakateyiralilla.
 
-venkaTAcala SAstri gaLu (1994:121) hELiruva hAge, Atanu I rIti hELiruvudu
+venkaTAcala SAstri gaLu (೧೯೯೪:೧೨೧) hELiruva hAge, Atanu I rIti hELiruvudu
 Atana dhayrya mattu vicikitsaka buddhi gaLannu tOrisuvudilla; adakke badalu, Atana
 bhanDa dhayrya mattu ajYAnagaLannu tOrisuttade.
 
-(4) pakbArthavannu (Sarattannu) sUcisuva oDe pratyaya dhAtuvina koneyalli
-baruvudendu kESirAjanu hELiruttAne (sU. 261 nODi). idu kAlatrayadallU
+(೪) pakbArthavannu (Sharattannu) sUcisuva oDe pratyaya dhAtuvina koneyalli
+baruvudendu kESirAjanu hELiruttAne (sU. ೨೬೧ nODi). idu kAlatrayadallU
 baraballudembudakke prayOgagaLannu mAtra (pusidoDe biTTam, paTancidapoDe kondapam,
 citripoDe tULikeyam tarisuvam) koDuttAne.
 
 bhaTTAkaLankanu I pratyayakke doDe mattu voDe rUpagaLive endu hELi, ivu
 bhUta mattu vartamAna kAladakriyegaLannu jYApisuvudakkAgi baruttaveyendu hELiddAne
-(sU. 589-90).
+(sU. ೫೮೯-೯೦).
 
-Adare, nijakkU ivu bhUta mattu vartamAna (illavE bhaviSyat‌) kAlagaLannu
+Adare, nijakkU ivu bhUta mattu vartamAna (illavE bhaviShyat‌) kAlagaLannu
 sUcisuvudakkAgi baLakeyAguva badalu, eraDu ghaTanegaLa naDuviruva samaya
-sambandhagaLannu sUcisuvudakkAgi baLakeyAgutta ve embudannu nAvu mEle (10.2.3)ralli
+sambandhagaLannu sUcisuvudakkAgi baLakeyAgutta ve embudannu nAvu mEle (೧೦.೨.೩)ralli
 nODiruvevu.
 
 idallade, haLegannaDadalli I pratyayagaLannu kriyApadagaLa kxdanta (sambandhisuva)
-rUpakke sErisalAguttadallade, dhAtuvige illavE dhAtuvina bhUta mattu bhaviSyat‌
-rUpagaLigalla. allagaLeyuva Sarattina rUpagaLannu pariSIlisidAga I viSaya
+rUpakke sErisalAguttadallade, dhAtuvige illavE dhAtuvina bhUta mattu bhaviShyat‌
+rUpagaLigalla. allagaLeyuva Sharattina rUpagaLannu pariSIlisidAga I viShaya
 
 allagaLeyuva rUpagaLive, mattu pETada emba allagaLeyuva kxdanta rUpavide.
 ivugaLalli allagaLeyuva rUpagaLinda ghaTakavannu sUcisuva AkhyAta pratyayavannu
@@ -8638,9 +8632,9 @@ embudannu avaru gamanisadiralu kAraNavirabahudu.
 
 <a id="sec-10-5"></a>
 
-## 10.5 sArAmSa
+## ೧೦.೫ sArAmSa
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-10-5) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-10--sentence-connectives)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-10--sentence-connectives) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-10-5)
 
 
 eraDu vAkyagaLannu jODisuvudakkAgi haLegannaDadalli jODisuva kriyArUpagaLa
@@ -8648,49 +8642,49 @@ baLakeyAguttade. samskxtadallU intaha kriyArUpagaLa baLakeyAguttadeyAdarU
 haLegannaDadalli kANisuvantaha vyavasthe illavE accukaTTu samskxtada kriyArUpagaLa
 baLakeyalli kANisuvudilla.
 
-samskxta tannallillada I vyavastheyannu drAviDa bhASegaLa samparkavAdanantara
-tannalli aLavaDisikoLLalu prayatnisiruvudE I rIti A bhASeyalli haLegannaDada
+samskxta tannallillada I vyavastheyannu drAviDa bhAShegaLa samparkavAdanantara
+tannalli aLavaDisikoLLalu prayatnisiruvudE I rIti A bhASheyalli haLegannaDada
 jODisuva kriyArUpagaLa baLakeyalli kANisuvantaha accukaTTu kANisadiruvudakke
 kAraNavirabEku.
 
-samskxta vayyAkaraNigaLu A bhASeya kuritAgi hELiruvudannu hAgeyE haLegannaDakke
+samskxta vayyAkaraNigaLu A bhASheya kuritAgi hELiruvudannu hAgeyE haLegannaDakke
 aLavaDisalu prayatnisidudarindAgi, adara vayyAkaraNigaLige haLegannaDada I
 atyuttamavAda vyavastheyannu vivarisalu sAdhyavAgilla.
 
 
 <a id="ch11"></a>
 
-# adhyAya 11 — viSayavAkyagaLu
+# adhyAya ೧೧ — viShayavAkyagaLu
 
 [↑ oLapiDige hintirugi](#toc)
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#ch11) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-11--embedded-clauses)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-11--embedded-clauses) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#ch11)
 
 ---
 
-viSayavAkyagaLu
+viShayavAkyagaLu
 
 
 <a id="sec-11-1"></a>
 
-## 11.1 pIThike
+## ೧೧.೧ pIThike
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-11-1) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-11--embedded-clauses)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-11--embedded-clauses) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-11-1)
 
 
 haLegannaDadalli mukhyavAgi eraDu rItiya vAkyagaLu baLakeyallive. ivannu
-"kriyAvAkya' mattu "viSayavAkya' endu kareyabahudu. ivugaLalli kriyAvAkyagaLu
-ondu ghaTaneyannU, viSayavAkyagaLu ondu viSaya illa vE sangatiyannU tiLisuttave.
+"kriyAvAkya' mattu "viShayavAkya' endu kareyabahudu. ivugaLalli kriyAvAkyagaLu
+ondu ghaTaneyannU, viShayavAkyagaLu ondu viShaya illa vE sangatiyannU tiLisuttave.
 
-(1ka) nIm IgaL‌ pETum
+(೧ka) nIm IgaL‌ pETum
 "nIvu Iga hELi'
-(1kha) nIm AdityananaLipa tEjarir‌
+(೧kha) nIm AdityananaLipa tEjarir‌
 “nIvu sUryanannu tiraskarisuva tEjassuLLavaru'
 
-(1ka) vAkya kELuga Enu mADabEku embudAgi Atanu naDesabEkAgiruva ondu
-ghaTaneyannu sUcisuvudAda kAraNa, kriyAvAkya, mattu (1kha) vAkya kELuga entahavanu
+(೧ka) vAkya kELuga Enu mADabEku embudAgi Atanu naDesabEkAgiruva ondu
+ghaTaneyannu sUcisuvudAda kAraNa, kriyAvAkya, mattu (೧kha) vAkya kELuga entahavanu
 ("sUryanannu tiraskarisuva tEjassuLLavanu') embudAgi ondu sangatiyannu
-sUcisuttideyAda kAraNa, viSayavAkya.
+sUcisuttideyAda kAraNa, viShayavAkya.
 
 hindina adhyAyagaLallella nAvu mukhyavAgi haLegannaDada kriyAvAkyagaLu hEge
 samskxtada kriyAvAkyagaLinda bhinnavAgive embudannu pariSIlisiruvevu. idallade,
@@ -8699,93 +8693,93 @@ haLegannaDada kriyAvAkyagaLannu samskxta vAkyagaLa mAdariyallEnE varNisalu
 prayatnisiddaru, mattu idarindAgi, avaru hEge halavu samasyegaLige mattu gondalagaLige
 oLagAgiddaru embudannU pariSIlisiruvevu.
 
-I adhyAyadalli haLegannaDada viSaya vAkyagaLigU samskxtada viSaya vAkyagaLigU
+I adhyAyadalli haLegannaDada viShaya vAkyagaLigU samskxtada viShaya vAkyagaLigU
 naDuve mukhyavAgi entaha vyatyAsagaLive embudannu vivarisalAgide. ivannU haLegannaDa
 vayyAkaraNigaLu sariyAgi gamanisilla, mattu idarindAgi, haLegannaDada halavu
-vaySiSTa gaLannu vivarisalu avarige sAdhyavAgilla.
+vaySiShTa gaLannu vivarisalu avarige sAdhyavAgilla.
 
 
 <a id="sec-11-2"></a>
 
-## 11.2 viSaya vAkyagaLa vibhajane
+## ೧೧.೨ viShaya vAkyagaLa vibhajane
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-11-2) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-11--embedded-clauses)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-11--embedded-clauses) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-11-2)
 
 
-haLegannaDada viSaya vAkyagaLige mUru mukhya uddESagaLive: (1) obba vyakti
-illavE vastuvina guNadharmavannu tiLisuvudu, (2) AtanigU innobba vyakti illavE
-vastuvigU naDuviruva sambandhavannu tiLisuvudu, mattu (3) ondu jAgadalli o
+haLegannaDada viShaya vAkyagaLige mUru mukhya uddESagaLive: (೧) obba vyakti
+illavE vastuvina guNadharmavannu tiLisuvudu, (೨) AtanigU innobba vyakti illavE
+vastuvigU naDuviruva sambandhavannu tiLisuvudu, mattu (೩) ondu jAgadalli o
 
 cE
 
 vyakti illavE vastuvina iravannu tiLisuvudu embuvE I mUru mukhya uddESagaLu.
 
-ivannavalambisi, haLegannaDada viSayavAkyagaLannu anukramavAgi "guNavAkyagaLu',
+ivannavalambisi, haLegannaDada viShayavAkyagaLannu anukramavAgi "guNavAkyagaLu',
 "sambandha vAkyagaLu' mattu "iruvikeya vAkyagaLu' emba mUru gumpugaLalli
-vingaDisabahudu (bhaT‌ 2004:64 nODi).
+vingaDisabahudu (bhaT‌ ೨೦೦೪:೬೪ nODi).
 
-(ka) guNadharmavannu tiLisuva viSayavAkyagaLu
-(2ka) avar‌ piriyar‌
+(ka) guNadharmavannu tiLisuva viShayavAkyagaLu
+(೨ka) avar‌ piriyar‌
 "avaru hiriyaru'
-(2kha) ivaL‌ gandharva vanite
+(೨kha) ivaL‌ gandharva vanite
 ivaLu gandharva strI'
-(2ga) Atane valam takkam
+(೨ga) Atane valam takkam
 "avanu nijavAgiyU takkavanu'
-(2gha) I banam hiDimbavanam
+(೨gha) I banam hiDimbavanam
 "I bana hiDimbavana'
 
-(kha) sambandhavannu tiLisuva viSayavAkyagaLu
-(3ka) enage ayvar‌ makkaL‌ oLar‌
+(kha) sambandhavannu tiLisuva viShayavAkyagaLu
+(೩ka) enage ayvar‌ makkaL‌ oLar‌
 
 "nanage ayvaru makkaLu iddA dhe
-(3kha) kAryasiddhi prAdurbhAvakke vighnam palavu oLavu
+(೩kha) kAryasiddhi prAdurbhAvakke vighnam palavu oLavu
 
 "phalaprAptiyAguvudakke halavu vighnagaLu ive'
-(3ga) enage gandharvara kApasadaLam unTu
+(೩ga) enage gandharvara kApasadaLam unTu
 
-"nanage gandharvara rakSakadaLa ide'
+"nanage gandharvara rakShakadaLa ide'
 
-(ga) iruvikeyannu tiLisuva viSayavAkyagaLu
-(4ka) ayhikada toDarpu enniravinoL‌ unTu
+(ga) iruvikeyannu tiLisuva viShayavAkyagaLu
+(೪ka) ayhikada toDarpu enniravinoL‌ unTu
 "ihalOkada bandhana nanna sthitiyalli ide'
-(4kha) mEruva pon‌ bhanDAradoL‌ unTu
+(೪kha) mEruva pon‌ bhanDAradoL‌ unTu
 "mEruparvatada cinna bhanDAradalli ide'
-(4ga) innum pAnDavar‌ oLar‌ :
+(೪ga) innum pAnDavar‌ oLar‌ :
 "pAnDavaru innU iddAre'
 
 
 <a id="sec-11-3"></a>
 
-## 11.3 guNavAkyagaLa racane
+## ೧೧.೩ guNavAkyagaLa racane
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-11-3) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-11--embedded-clauses)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-11--embedded-clauses) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-11-3)
 
-guNadharmavannu sUcisuva viSaya vAkyagaLalli mukhyavAgi obba vyakti, vastu,
+guNadharmavannu sUcisuva viShaya vAkyagaLalli mukhyavAgi obba vyakti, vastu,
 illavE sangatiyannu sUcisuva ondu ghaTakavU, adara guNadharmavannu sUcisuva
 
 ondu AkhyAta padavU iruttave.
 
-mEle (2ka)dalli bandiruva guNavAkyadalli avar‌ embudu obba vyaktiyannu
+mEle (೨ka)dalli bandiruva guNavAkyadalli avar‌ embudu obba vyaktiyannu
 sUcisuva ghaTaka, mattu piriyar‌ "hiriyaru' embudu A vyaktiya guNadharmavannu
-sUcisuva AkhyAta pada. (2gha)dalli I banam embudu ghaTaka mattu hiDimbavanam
+sUcisuva AkhyAta pada. (೨gha)dalli I banam embudu ghaTaka mattu hiDimbavanam
 embudu AkhyAta pada. ghaTakada guNadharmagaLallondannu (adara hesarannu) AkhyAta
 pada sUcisuttade.
 
 keLagina vAkyagaLalli I rIti obba vyakti illavE ondu vastuvina guNadharmavannu
 sUcisuva badalu, ondu sangati illavE ghaTaneya guNadharmavannu sUcisalAgide.
 
-(5ka) Ikeyam kaykoLvude kajjam
+(೫ka) Ikeyam kaykoLvude kajjam
 "Ikeyannu svIkarisuvudE (ninage yOgyavAda) kArya'
-(5kha) ennoLAda kisur‌ ennoDavOpudu oLLitu
+(೫kha) ennoLAda kisur‌ ennoDavOpudu oLLitu
 "nannalli huTTida I jagaLavu nanna joteyalliyE hOguvudu oLLeyadu'
 
-(5kha)dalli Ikeyam kaykoLLudu emba ghaTaneya guNadharmavannu kajjam "(ninage
+(೫kha)dalli Ikeyam kaykoLLudu emba ghaTaneya guNadharmavannu kajjam "(ninage
 yOgyavAda) kArya' emba AkhyAta pada sUcisuttade.
 
 
 <a id="sec-11-3-1"></a>
 
-### 11.3.1 linga-vacana pratyayagaLu
+### ೧೧.೩.೧ linga-vacana pratyayagaLu
 
 
 guNapadagaLu guNavAkyada AkhyAta padavAgi barabEkiddalli , avugaLondige
@@ -8797,43 +8791,43 @@ idallade, intaha vAkyagaLalli guNadharmavannu sUcisuvudakkAgi nAmapadagaLU
 AkhyAta padagaLAgi baraballuvu, mattu I AkhyAta padagaLa koneyalli linga-
 vacanagaLannu sUcisuva pratyayagaLu bAradeyU iralu sAdhyavide:
 
-(6ka) chatravatiyembudu dxpadana polal‌
+(೬ka) chatravatiyembudu dxpadana polal‌
 
 "chatravati embudu dxpadana vAsasthaLa (rAjadhAni)'
-(6kha) idu ninna koTTa tale
+(೬kha) idu ninna koTTa tale
 
 "idu nInu koTTa (badukisi uLisida) tale'
 
 
 <a id="sec-11-3-2"></a>
 
-### 11.3.2 AkhyAta pratyayagaLu
+### ೧೧.೩.೨ AkhyAta pratyayagaLu
 
 
 haLegannaDada guNavAkyagaLalli avugaLa ADuga illavE kELugana guNadharmavannu
-sUcisalAgideyAdare, avugaLa AkhyAta padadondige A eraDu puruSagaLannu (uttama
-mattu madhyama puruSagaLannu) mattu avugaLa vacanavannu sUcisuva AkhyAta pratyayagaLannU
+sUcisalAgideyAdare, avugaLa AkhyAta padadondige A eraDu puruShagaLannu (uttama
+mattu madhyama puruShagaLannu) mattu avugaLa vacanavannu sUcisuva AkhyAta pratyayagaLannU
 baLasabEkAguttade. I pratyayagaLu ghaTakada linga-vacanagaLannu sUcisuva pratyayada
 
 anantara baruttave:
 
-(6ka) An‌ vividha gandhangaLanu avayavadoL‌ mADuva phaTTivaLtiyen‌
+(೬ka) An‌ vividha gandhangaLanu avayavadoL‌ mADuva phaTTivaLtiyen‌
 "nAnu vividha gandhagaLannu Sramavillade tayArisuva ghaTTivalli'
-(6kha) nIm uditOditanay‌
+(೬kha) nIm uditOditanay‌
 "nInu abhivxddhiyAguvavanu'
-(6ga) bharatakulatiLakarir‌, varaSarAsanavyagrahastarir‌, baLayutarir‌
-"(nIvu) bharatavamSatilakaru, bilvidyeyalli pariNataru, (mattu) baliSTharu'
-(6gha) nAmellamonde garuDiyoLOdida mAnasarevu
-"nAvella ondE garaDiyalli kalita manuSyaru'
+(೬ga) bharatakulatiLakarir‌, varaSarAsanavyagrahastarir‌, baLayutarir‌
+"(nIvu) bharatavamSatilakaru, bilvidyeyalli pariNataru, (mattu) baliShTharu'
+(೬gha) nAmellamonde garuDiyoLOdida mAnasarevu
+"nAvella ondE garaDiyalli kalita manuShyaru'
 
-(6ka) vAkyadalli AkhyAta padavAgi ghaTTivaLti embudu bandiddu, adara koneya
+(೬ka) vAkyadalli AkhyAta padavAgi ghaTTivaLti embudu bandiddu, adara koneya
 ikAra ghaTakada linga-vacanagaLannu sUcisuttade, mattu ADuganannu sUcisuva AkhyAta
-pratyaya (en‌ embudu) I ikArada anantara bandide; (6kha) vAkyadalli AkhyAta
+pratyaya (en‌ embudu) I ikArada anantara bandide; (೬kha) vAkyadalli AkhyAta
 padavAgi uditOdita embudu bandiddu, adara koneyalli ghaTakada linga-vacanagaLannu
 sUcisuva an‌ pratyaya bandide, mattu adara anantara kELuganannu sUcisuva Ay‌
 AkhyAta pratyaya bandide.
 
-(6ga) vAkyadalli mUru AkhyAta padagaLu bandiddu, A mUru padagaLa koneyallU
+(೬ga) vAkyadalli mUru AkhyAta padagaLu bandiddu, A mUru padagaLa koneyallU
 ghaTakada linga-vacanagaLannu sUcisuva ar‌ pratyaya, mattu adara anantara kELugarannu
 sUcisuva bahuvacanada ir‌ AkhyAta pratyayagaLu bandive; (Ogha) vAkyada AkhyAta
 pada mAnasarevu embudarallU ghaTakada linga-vacanagaLannu sUcisuva ar‌ pratyayada
@@ -8842,7 +8836,7 @@ pratyaya bandide.
 
 ADuga mattu kELugarannu biTTu, itara vyaktigaLu ghaTakagaLAgi bandiveyAdalli,
 I rIti AkhyAta padadondige AkhyAta pratyaya baruvudilla, linga-vacana pratyayagaLu
-mAtra baruttave (2ka-gha nODi).
+mAtra baruttave (೨ka-gha nODi).
 
 guNavAkyagaLu sUcisuva sangatiyannu (endare, vyakti, vastu modalAduvakkU
 guNadharmakkU naDuviruva sambandhavannu) allagaLeyuva alla pada intaha vAkyagaLa
@@ -8851,24 +8845,24 @@ alla padadondige mAtra baraballudu, illavE AkhyAta padadondigU baraballudu.
 
 udAharaNegAgi, keLage koTTiruva pampabhAratada vAkyagaLannu gamanisabahudu:
 
-(7ka) kaNNaNuyada beLLanallen‌ (4.76)
+(೭ka) kaNNaNuyada beLLanallen‌ (೪.೭೬)
 
-"(nAnu) dxSTiya marmavannu tiLiyada beppanalla'
-(7kha) An‌ ganDavaLtiyen‌ allem (8.56)
+"(nAnu) dxShTiya marmavannu tiLiyada beppanalla'
+(೭kha) An‌ ganDavaLtiyen‌ allem (೮.೫೬)
 
 "nAnu ganDaniruvavaLu alla'
 
-(7ka)dalli vAkyada ADuganannu sUcisuva en‌ pratyaya alla padadondige mAtra
-bandide; Adare, (7kha)dalli adu ganDavalli emba AkhyAta padadondigU bandide.
+(೭ka)dalli vAkyada ADuganannu sUcisuva en‌ pratyaya alla padadondige mAtra
+bandide; Adare, (೭kha)dalli adu ganDavalli emba AkhyAta padadondigU bandide.
 
-viSayavAkyagaLu 8s
+viShayavAkyagaLu 8s
 
 kelavomme ADuga mattu kELugarannu sUcisuva pratyayagaLu I rIti linga-
 vacana pratyayagaLa anantara baruva badalu, nEravAgi guNa padagaLa anantaravU
-baLakeyAguvudide. kESirAjanu (sU. 230) uttama puruSa mattu madhyama puruSagaLalli
+baLakeyAguvudide. kESirAjanu (sU. ೨೩೦) uttama puruSha mattu madhyama puruShagaLalli
 eraDeraDu rUpagaLannu (pejanen‌-peaken‌, pajakivu-pearevu, oLLidanay‌-oLLiday‌,
 oLLidarir‌-oLLidir‌, ityAdi) koTTiruvudannu gamanisabahudu (venkaTAcala SAstra e
-1994:107 nODi).
+೧೯೯೪:೧೦೭ nODi).
 
 intaha prayOgagaLu kESirAjanannu mattu itara viddA rimsarannu dAritappisiruva
 hAge kANisuttade. yAkendare, kESirAjanu mEle vivarisidantaha vAkyagaLa AkhyAtagaLAgi
@@ -8876,20 +8870,20 @@ baruva oLLidan‌, oLLidar‌ modalAdavugaLallU AkhyAta(vibhakti) pratyayagaLu
 bandiveyembudAgi prayOgagaLannu udAharisiddAne.
 
 Adare, nijakkU I AkhyAta padagaLalli kANisuva an‌, ar‌ modalAda pratyayagaLu
-linga-vacana pratyayagaLallade, prathama puruSada AkhyAta pratyayagaLalla. yAkendare,
+linga-vacana pratyayagaLallade, prathama puruShada AkhyAta pratyayagaLalla. yAkendare,
 avu I jAgadalli mAtravallade bEre jAgagaLallU baruttave. I guNapadagaLannu
 nAmapadagaLa jAgadalli baLasabEkAgiruvallella avakke I linga-vacana pratyayagaLannu
-sErisabEkAguttade (4.2.1 nODi).
+sErisabEkAguttade (೪.೨.೧ nODi).
 
 idallade, oLLidanen‌, oLLidarevu, oLLidanay‌, oLLidaray‌ modalAda uttama
-mattu madhyamapuruSa AkhyAta padagaLallU I pratyayagaLa baLakeyAguvudAda kAraNa,
+mattu madhyamapuruSha AkhyAta padagaLallU I pratyayagaLa baLakeyAguvudAda kAraNa,
 avannu AkhyAta pratyayagaLinda bhinnavAda linga-vacana pratyayagaLendu parigaNisade
 bEre dAriyilla.
 
 
 <a id="sec-11-3-3"></a>
 
-### 11.3.3 kriyApadada baLake
+### ೧೧.೩.೩ kriyApadada baLake
 
 
 haLegannaDada guNavAkyagaLalli Agu kriyApadada mundina samayada rUpagaLannu
@@ -8897,13 +8891,13 @@ Igina samayada arthadalli baLasalu sAdhyaviddu, idakke vAkya tiLisuva sangatiyan
 otti hELuva arthavide. udAharaNegAgi, keLage koTTiruva pampabhAratada vAkyavannu
 gamanisabahudu:
 
-(8) akhiLAstra viSAradanappanum gelalkariyanum ondi bAradanum ankada
-karNane (9.61)
+(೮) akhiLAstra viSAradanappanum gelalkariyanum ondi bAradanum ankada
+karNane (೯.೬೧)
 "ellA astagaLallU viSAradanAgiruvavanU, jayisuvudakke
 asAdhya(nAgiruvavanU) mattu namma joteyalli bAradava
 (nAgiruvavanU) prasiddhanAda karNanE'
 
-(8)nE vAkyadalli mUru guNavAkyagaLannu um pratyayada mUlaka oTTige sErisi
+(೮)nE vAkyadalli mUru guNavAkyagaLannu um pratyayada mUlaka oTTige sErisi
 hELalAgide. I mUru guNavAkyagaLalli modalaneyadu mAtra appan‌ kri yApadadondige
 baLakeyAgide. adilladeyU (akhiLAstra viSAradanum karNane embudAgi) I vAkyavannu
 tayArisalu sAdhyavide embudannu illi gamanisabahudu.
@@ -8911,9 +8905,9 @@ tayArisalu sAdhyavide embudannu illi gamanisabahudu.
 
 <a id="sec-11-4"></a>
 
-## 11.4 sambandha vAkyagaLa racane
+## ೧೧.೪ sambandha vAkyagaLa racane
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-11-4) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-11--embedded-clauses)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-11--embedded-clauses) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-11-4)
 
 
 haLegannaDada sambandha vAkyagaLalli mukhyavAgi eraDu ghaTakagaLu bandirutta ve.
@@ -8923,41 +8917,41 @@ vyakti, vastu modalAduvugaLige sambandhisiruvantaha bErondu vyakti illavE vastuv
 sUcisuttade.
 
 idallade, intaha sambandha vAkyagaLalli sAmAnyavAgi oL‌ (uL‌) kriyApadada
-ondu rUpavU baruttade. I kriyApadavu sambandhisiruva vyaktiya puruSa-linga-
-vacanagaLannu sUkSmavAgi sUcisuttade. udAharaNegAgi, keLage koTTiruva sambandha
+ondu rUpavU baruttade. I kriyApadavu sambandhisiruva vyaktiya puruSha-linga-
+vacanagaLannu sUkShmavAgi sUcisuttade. udAharaNegAgi, keLage koTTiruva sambandha
 vAkyavannu pariSIlisabahudu:
 
-(9ka) enage Ayvar‌ makkaL‌ oLar‌
+(೯ka) enage Ayvar‌ makkaL‌ oLar‌
 "nanage ayvaru makkaLu iddA re”
 
-(9ka)dalli enage ghaTaka ADuganannU, aytar‌ makkaL‌ ghaTaka ADuganondige sambandhisiruva
+(೯ka)dalli enage ghaTaka ADuganannU, aytar‌ makkaL‌ ghaTaka ADuganondige sambandhisiruva
 vyaktigaLannU sUcisuttave. intaha vAkyagaLalli oL‌ kriyApada bAradiralU sAdhyavide.
 
-(9kha) enage nIne pati
+(೯kha) enage nIne pati
 “nanage nInE pati'
 
 
 <a id="sec-11-5"></a>
 
-## 11.5 iruvikeya vAkyagaLu
+## ೧೧.೫ iruvikeya vAkyagaLu
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-11-5) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-11--embedded-clauses)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-11--embedded-clauses) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-11-5)
 
 
 sambandha vAkyagaLa hAge iruvikeya vAkyagaLallU mukhyavAgi eraDu ghaTakagaLu
 mattu oL‌ (uL‌) kriyApada baLakeyAguttave. ivugaLalli baruva eraDu ghaTakagaLalli
 ondu iruvikeya jAgavannu sUcisutti ddu, oL‌ pratyayadondige baruttade:
 
-(10ka) mEruva pon‌ bhanDAradoL‌ unTu
+(೧೦ka) mEruva pon‌ bhanDAradoL‌ unTu
 "mEruparvatada cinna bhanDAradalli ide'
 
-(10kha) aDavigaLoL‌ paNbalam oLavu
+(೧೦kha) aDavigaLoL‌ paNbalam oLavu
 "kADugaLalli haNNuhampalugaLu ive'
 
 intaha vAkyagaLalli oL‌ (uL‌) kriyApadavannu baLasadeyU iralu sAdhyavide
-embudannu keLage koTTiruva (10ga) vAkyadalli kANabahudu:
+embudannu keLage koTTiruva (೧೦ga) vAkyadalli kANabahudu:
 
-(10ga) emma maneyoL‌ Anum emma dharmapatniyum maganum magaLum
+(೧೦ga) emma maneyoL‌ Anum emma dharmapatniyum maganum magaLum
 intI nAlvare mAnasar‌
 "namma maneyalli nAnu, nanna henDati, maga, magaLu, hIge nAlku
 janaru mAtra (iddAre)'
@@ -8968,78 +8962,78 @@ oL‌ kriyApadadondige samayavannu sUcisuva pratyayagaLu baruvudilla, Adare ir�
 kriyApadadodige hindina samayavannu sUcisuva d‌ pratyaya mattu mundina
 (illavE Igina) samayavannu sUcisuva p‌ pratyaya iveraDU baruttave.
 
-(11ka) anibarum mavnavratade irdar‌
-"aSTu mandiyU mavnavAgiddaru'
-(11kha) kuDal‌ irpam baladEvanennanujeyam duryOdhanange
+(೧೧ka) anibarum mavnavratade irdar‌
+"aShTu mandiyU mavnavAgiddaru'
+(೧೧kha) kuDal‌ irpam baladEvanennanujeyam duryOdhanange
 "balarAmanu nanna tangiyannu duryOdhananige koDaliddAne'
-(11ga) piridum poTTu taDedirpevu
+(೧೧ga) piridum poTTu taDedirpevu
 "bahaLa hottu taDedidde ave”
 
 I kAraNakkAgi, haLegannaDadalli ir‌ kriyApadaviruva vAkyagaLannu (avu
 iruvikeyannu sUcisuttiveyAdarU) kriyAvAkyagaLendu, mattu oL‌ kriyApadaviruva
-vAkyagaLannu viSayavAkyagaLendu parigaNisalu sAdhyavide.
+vAkyagaLannu viShayavAkyagaLendu parigaNisalu sAdhyavide.
 
-I viSayadalli hosagannaDa haLegannaDakkinta bhinnavAgideyembudannu gamanisabahudu.
+I viShayadalli hosagannaDa haLegannaDakkinta bhinnavAgideyembudannu gamanisabahudu.
 hosagannaDadalli iru kriyApadavE intaha iruvikeya vAkyagaLalli baLakeyAguttiddu,
 adakke hindina, mundina mattu Igina embudAgi mUru rItiya samayagaLannu
 sUcisuva kriyArUpagaLive:
 
-(12ka) nAnu ninne maneyallE idde
-(12kha) nAnu nALe maneyallE iruttEne
-(12ga) nAnu Iga maneyallE iddEne
+(೧೨ka) nAnu ninne maneyallE idde
+(೧೨kha) nAnu nALe maneyallE iruttEne
+(೧೨ga) nAnu Iga maneyallE iddEne
 
 Adare, haLegannaDadalli ir‌ kriyApadakke eraDu samayagaLannu sUcisuva
 kriyArUpagaLu mAtra ive; hAgAgi, mundina samayavannu sUcisuva irpan‌,
 irpen‌ modalAda rUpagaLannE Igina samayavannu sUcisuvudakkAgiyU
-baLasalAguttade (11ga nODi).
+baLasalAguttade (೧೧ga nODi).
 
 Adare mEle sUcisida hAge, ir‌ embudakkinta bhinnavAda oL‌ (uL‌) emba
 bErondu kriyApadavU haLegannaDadalli baLakeyAguvudAda kAraNa, ghaTane mattu
 sangatigaLa naDuvina vyatyAsavannu I kriyApadagaLallina vyatyAsavE sUcittadeyendu
-hELuva sAdhyateyide. Adare, I viSayadalli heccina samSOdhane naDesuva avaSyakateyide.
+hELuva sAdhyateyide. Adare, I viShayadalli heccina samSOdhane naDesuva avaSyakateyide.
 
 
 <a id="sec-11-6"></a>
 
-## 11.6 samskxtada viSayavAkyagaLu
+## ೧೧.೬ samskxtada viShayavAkyagaLu
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-11-6) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-11--embedded-clauses)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-11--embedded-clauses) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-11-6)
 
-haLegannaDada hAge samskxtadallU mUru rItiya viSayavAkyagaLannu kANalu
+haLegannaDada hAge samskxtadallU mUru rItiya viShayavAkyagaLannu kANalu
 sAdhyavide. udAharaNegAgi, keLage koTTiruva vAkyagaLannu gamanisabahudu:
 
-(13ka) aham vxddhOsmi
+(೧೩ka) aham vxddhOsmi
 "nAnu muduka'
 
-(13kha) tasya bhUpatEH catvAraH putrAH santi
+(೧೩kha) tasya bhUpatEH catvAraH putrAH santi
 "A rAjanige nAlvaru huDugaru iddA re'
 
-(13ga) asti gangAtIrE pATaliputra nAmadhEyam nagaram
+(೧೩ga) asti gangAtIrE pATaliputra nAmadhEyam nagaram
 "gangAnadiya daDadalli pATaliputravemba hesarina nagaravide'
 
 sambandhisuva vAkyagaLalli haLegannaDada ge (caturthI) pratyayada badalu samska tadalli
-SaSThI vibhaktiya baLakeyAguvudembudannu (13kha)dalli kANabahudu. I vAkyagaLalli
-baruva kriyApadavannu baLasadeyU iralu sAdhyavide (14ka-ga nODi). Adare,
+ShaShThI vibhaktiya baLakeyAguvudembudannu (೧೩kha)dalli kANabahudu. I vAkyagaLalli
+baruva kriyApadavannu baLasadeyU iralu sAdhyavide (೧೪ka-ga nODi). Adare,
 haLegannaDada hAge samskxtada guNavAkyagaLalli ADuga mattu kELugarannu sUcisuva
 AkhyAta pratyayagaLu baruvudilla |
 
-(14ka) vxddho ೀham
+(೧೪ka) vxddho ೀham
 "nAnu muduka'
 
-(14kha) tasya bhUpatEH catvAraH putrAH
+(೧೪kha) tasya bhUpatEH catvAraH putrAH
 “A rAjanige nAlvaru huDugaru'
 
-(14ga) gangAtIrE pATaliputra nAmadhEyam nagaram
+(೧೪ga) gangAtIrE pATaliputra nAmadhEyam nagaram
 "gangAnadiya daDadalli pATaliputravemba hesarina nagara'
 
-(14ka) vAkyadalli ADuganannu sUcisuva aham "nAnu' ghaTaka bandideyAdarU,
-guNadharmavannu sUcisuva vxddha padadondige uttama puruSada AkhyAta pratyaya
+(೧೪ka) vAkyadalli ADuganannu sUcisuva aham "nAnu' ghaTaka bandideyAdarU,
+guNadharmavannu sUcisuva vxddha padadondige uttama puruShada AkhyAta pratyaya
 bandilla embudannu gamanisabahudu.
 
 
 <a id="sec-11-6-1"></a>
 
-### 11.6.1 guNavAkyagaLalli vyatyAsa
+### ೧೧.೬.೧ guNavAkyagaLalli vyatyAsa
 
 
 haLegannaDada guNavAkyagaLigU samskxtada guNavAkyagaLigU naDuviruva innondu
@@ -9047,18 +9041,18 @@ vyatyAsavEnendare, samskxtada guNavAkyagaLalli, haLegannaDadalliruva hAge, ghaTa
 AkhyAtagaLemba bhEdavilla. udAharaNegAgi, keLage koTTiruva samskxta vAkyagaLannu
 gamanisabahudu:
 
-(15ka) idam mama gxham
+(೧೫ka) idam mama gxham
 "idu nanna mane'
 
-(15kha) iyam‌ gavH SuklA
+(೧೫kha) iyam‌ gavH SuklA
 "I dana biLi'
 
-(15ga) sarvam khalvidam brahma
+(೧೫ga) sarvam khalvidam brahma
 "idellavU brahma'
 
-mEle koTTiruva (15ka-ga) vAkyagaLalli eraDeraDu vAkyAmSagaLiddu, ivugaLalli
+mEle koTTiruva (೧೫ka-ga) vAkyagaLalli eraDeraDu vAkyAmSagaLiddu, ivugaLalli
 yAvudu obba vyakti illavE vastuvannu sUcisuva ghaTaka, mattu yAvudu adara
-guNadharmavannu sUcisuva "AkhyAta pada' embudAgi nirdharisuvudu kaSTa.
+guNadharmavannu sUcisuva "AkhyAta pada' embudAgi nirdharisuvudu kaShTa.
 
 haLegannaDada guNavAkyagaLalli sAmAnyavAgi modalu baruva vAkyAmSavannu A
 vAkyada ghaTakavendu, mattu adara anantara baruva vAkyAmSavannu AkhyAta padavendu
@@ -9067,11 +9061,11 @@ pratyayagaLa baLakeyAgiruvalli, antaha pratyayaviruva vAkyAmSavE AkhyAta pada
 endu hELalu sAdhyavide.
 
 Adare, samskxtada guNavAkyagaLalli I rIti ghaTaka mattu AkhyAta padagaLa naDuve
-vyatyAsavilla. I viSayavannu vEda, upaniSattu modalAdavugaLannu ingliS‌, phrenc‌,
-jarman‌ modalAda pAScAtya bhASegaLige anuvAdisalu naDesiruva vidvAmsara
-prayatnagaLalli spaSTavAgi kANabahudu.
+vyatyAsavilla. I viShayavannu vEda, upaniShattu modalAdavugaLannu ingliSh‌, phrenc‌,
+jarman‌ modalAda pAScAtya bhAShegaLige anuvAdisalu naDesiruva vidvAmsara
+prayatnagaLalli spaShTavAgi kANabahudu.
 
-I pAScAtya bhASegaLa guNavAkyagaLalli, haLegannaDada hAge, ghaTaka mattu AkhyAta
+I pAScAtya bhAShegaLa guNavAkyagaLalli, haLegannaDada hAge, ghaTaka mattu AkhyAta
 padagaLa naDuve vyatyAsavide. vAkyadalli modalu baruvudu ghaTaka mattu anantara
 baruvudu AkhyAta pada. idallade, I eraDu vAkyAmSagaLa naDuve (haLegannaDadalliruva
 hAge) avugaLa svarUpadallU vyatyAsagaLive.
@@ -9082,7 +9076,7 @@ samskxtadallide. hAgAgi, intaha vAkyagaLa eraDu vAkyAmSagaLalli yAvudannu
 ghaTakavembudAgi anuvAdisabEku, mattu yAvudannu AkhyAta padavembudAgi
 anuvAdisabEku embudu I vidvAmsarige ondu doDDa samasyeyAgide.
 
-samskxtada I vaySiSTyavannu gayn‌-ektunD‌ (1978) avaru kUlankaSavAgi
+samskxtada I vaySiShTyavannu gayn‌-ektunD‌ (೧೯೭೮) avaru kUlankaSavAgi
 carcisiddA re. kelavaru anuvAdakaru intaha vAkyagaLalle lla eraDaneya vAkyAmSavE
 akhyAta padavembudAgi parigaNisiruvarAdare, bEre kelavaru elleDeyallU modalaneya
 vAkyAmSavannE AkhyAta padavendu parigaNisiddAre. innu kelavaru tamma anukUlakke
@@ -9090,8 +9084,8 @@ sariyAgi (endare tAvu pratipAdisuva tatvajYAnakke anukUlavAguvante) kelavu
 kaDegaLalli modalaneya vAkyAmSavannU, bEre kelavu kaDegaLalli eraDaneya vAkyAmSavannU
 AkhyAta padavembudAgi parigaNisiddAre.
 
-udAharaNegAgi, mEle (15ga)dalli koTTiruva sarvam khalvidam brahma emba
-vAkyavannu gayn‌-eklunD‌ (1978) avaru pariSIlisida hadinaydu anuvAdagaLalli
+udAharaNegAgi, mEle (೧೫ga)dalli koTTiruva sarvam khalvidam brahma emba
+vAkyavannu gayn‌-eklunD‌ (೧೯೭೮) avaru pariSIlisida hadinaydu anuvAdagaLalli
 hattu anuvAdagaLu "idellavU brahma' embudAgi, endare brahma padavannu AkhyAta
 padavembudAgi parigaNisi anuvAdisive; Adare, uLida aydu anuvAdagaLu "brahmanE
 idella' embudAgi, endare (sarvam khalu) idam embudannu AkhyAta padavembudAgi
@@ -9100,19 +9094,19 @@ parigaNisi anuvAdisive.
 
 <a id="sec-11-6-2"></a>
 
-### 11.6.2 guNavAkya mattu nAmapadakante
+### ೧೧.೬.೨ guNavAkya mattu nAmapadakante
 
 
 samskxtada nAmapadakantegaLallU intahadE samasyeyide. avugaLalli eraDu
 padagaLiddu, ondu innondara guNadharmavannu sUcisuttideyAdare, yAva pada
-guNadharmavannu sUcisuva "viSESaNa' pada, mattu yAvudu antaha guNadharmaviruva
-vyakti, vastu modalAduvannu sUcisuva "viSESya' pada embudAgi nirdharisuvudu
-bahaLa kaSTa.
+guNadharmavannu sUcisuva "viSEShaNa' pada, mattu yAvudu antaha guNadharmaviruva
+vyakti, vastu modalAduvannu sUcisuva "viSEShya' pada embudAgi nirdharisuvudu
+bahaLa kaShTa.
 
-udAharaNegAgi, kxSNaH sarpaH emba padakanteyannu "kappAgiruva sarpa' endAgali,
+udAharaNegAgi, kxShNaH sarpaH emba padakanteyannu "kappAgiruva sarpa' endAgali,
 illavE "sarpavAgiruva kappu (prANi)' endAgali anuvAdisalu sAdhyaviddu, A
-eraDu padagaLalli yAvudu viSESya, mattu yAvudu viSESaNa embudannu nirdharisuvudu
-kaSTa (jOSi 1967 nODi). I padakanteyannu sarpaH kxSNaH embudAgiyU
+eraDu padagaLalli yAvudu viSEShya, mattu yAvudu viSEShaNa embudannu nirdharisuvudu
+kaShTa (jOSi ೧೯೬೭ nODi). I padakanteyannu sarpaH kxShNaH embudAgiyU
 badalAyisalu sAdhyaviddu, hIge mADuvudarinda I padakanteya arthadalli
 badalAvaNeyAgabEkendEnU illa. intaha padakantegaLa eraDu angagaLa naDuve
 yAva vyatyAsavU illadiruvudu, mattu avugaLannu yAva anukramadallU baLasalu
@@ -9120,38 +9114,38 @@ sAdhya embudE illi samasyeyAgide.
 
 idallade, samskxtadalli ondu padakanteya eraDu angagaLa naDuve A padakantege
 sambandhisada bEre padagaLannu irisi hELalu sAdhyavide. udAharaNegAgi, sarpaH mxtaH
-kxSNa H embudu "kappu hAvu satti tu' emba arthada ondu vAkyavAgiralu sAdhyaviddu
-kxSNaH sarpaH emba padakanteya horagirabEkAda mxtaH pada adaroLage bandiralu
+kxShNa H embudu "kappu hAvu satti tu' emba arthada ondu vAkyavAgiralu sAdhyaviddu
+kxShNaH sarpaH emba padakanteya horagirabEkAda mxtaH pada adaroLage bandiralu
 sAdhyavAgide.
 
 haLegannaDakkU samskxtakkU naDuve intaha vAkyagaLa racaneyalli kANisuva innondu
 vyatyAsavEnendare, haLegannaDadalli padakante mattu guNavAkyagaLa naDuve vyatyAsavide,
 Adare samskxtadalli illa. kriyApadagaLa sambandhisuva rUpagaLannu baLasuvalli I
-vyatyAsa spaSTavAgi kANisikoLLutta deH
+vyatyAsa spaShTavAgi kANisikoLLutta deH
 
-(16ka) mahAgrahArangaLa mahAjanangaLa koTTa ponna jannavirangaL‌
-“SrESThavAda agrahAragaLa mahAjanagaLu koTTantaha cinnada
+(೧೬ka) mahAgrahArangaLa mahAjanangaLa koTTa ponna jannavirangaL‌
+“SrEShThavAda agrahAragaLa mahAjanagaLu koTTantaha cinnada
 yajYO pavItagaLu'
 
-(16kha) tirasamidu dharaNIndrana koTTudu
+(೧೬kha) tirasamidu dharaNIndrana koTTudu
 "I mUreLeya hAra dharaNIndranemba (sarparAjanu) koTTudu'
 
-(16ka) ondu padakante mattu (16kha) ondu viSaya vAkya (guNavAkya). (16ka)dalli
-kuDu kriyApadada sambandhisuva rUpa(kxdanta)vAda koTTa bandide, mattu (16kha)dalli
+(೧೬ka) ondu padakante mattu (೧೬kha) ondu viShaya vAkya (guNavAkya). (೧೬ka)dalli
+kuDu kriyApadada sambandhisuva rUpa(kxdanta)vAda koTTa bandide, mattu (೧೬kha)dalli
 adE kriyApadada nAmarUpavAda koTTudu bandide.
 
 Adare, samskxtadalli I rIti padakante mattu guNavAkkagaLa naDuve vyatyAsavannu
 sAdhisalu sAdhyavAgadu. mEle guNavAkyagaLige udAharaNegaLAgi koTTiruva vAkyagaLella
 padakantegaLAgiralU sAdhyavide.
 
-(17ka) sarpaH mxtaH
+(೧೭ka) sarpaH mxtaH
 "sarpa sattudu'
-(17kha) sarpaH mxtaH atrAsti
+(೧೭kha) sarpaH mxtaH atrAsti
 "satta sarpa illi de'
 
-(17ka)dalli sarpaH mxtaH embudu ondu guNavAkyavAgi baLakeyAgide; Adare
-(17kha)dalli adE bErondu viSayavAkyada vAkyAmSavAgi, endare padakanteyAgi
-baLakeyAgide. mEle (4.2.2)ralli sUcisida hAge, haLegannaDadalli kxdantagaLigU
+(೧೭ka)dalli sarpaH mxtaH embudu ondu guNavAkyavAgi baLakeyAgide; Adare
+(೧೭kha)dalli adE bErondu viShayavAkyada vAkyAmSavAgi, endare padakanteyAgi
+baLakeyAgide. mEle (೪.೨.೨)ralli sUcisida hAge, haLegannaDadalli kxdantagaLigU
 kxllingagaLigU naDuve vyatyAsavide, Adare samskxtadalli antaha vyatyAsavilla embudE
 I rIti guNavAkya mattu padakantegaLu haLegannaDadalli bhinnavAgiddu samskxtadalli
 bhinnavAgilladiruvudakke mukhya kAraNa.
@@ -9159,25 +9153,25 @@ bhinnavAgilladiruvudakke mukhya kAraNa.
 
 <a id="sec-11-7"></a>
 
-## 11.7 sArAmSa
+## ೧೧.೭ sArAmSa
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-11-7) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-11--embedded-clauses)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-11--embedded-clauses) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-11-7)
 
 
-viSaya vAkyagaLa racaneyalli haLegannaDa mattu samskxta bhASegaLa naDuve halavu
+viShaya vAkyagaLa racaneyalli haLegannaDa mattu samskxta bhAShegaLa naDuve halavu
 mUlabhUtavAda vyatyAsagaLive. ivannu gamanisada kAraNa, haLegannaDada vayyAkaraNigaLige
-haLegannaDada viSayavAkyagaLannu spaSTavAgi varNisalu sAdhyavAgilla - nijakkU haLegannaDada
-viSaya vAkyagaLu entahavu embudannu sariyAgi tiLidukoLLabEkidda lli innU bahaLaSTu
+haLegannaDada viShayavAkyagaLannu spaShTavAgi varNisalu sAdhyavAgilla - nijakkU haLegannaDada
+viShaya vAkyagaLu entahavu embudannu sariyAgi tiLidukoLLabEkidda lli innU bahaLaShTu
 samSOdhanegaLannu naDesuva avaSyakateyide.
 
 
 <a id="ch12"></a>
 
-# adhyAya 12 — muktAya
+# adhyAya ೧೨ — muktAya
 
 [↑ oLapiDige hintirugi](#toc)
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#ch12) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-12--conclusion)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-12--conclusion) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#ch12)
 
 ---
 
@@ -9186,26 +9180,26 @@ muktAya
 
 <a id="sec-12-1"></a>
 
-## 12.1 haLegannaDa vyAkaraNagaLa vimarSegaLu
+## ೧೨.೧ haLegannaDa vyAkaraNagaLa vimarSegaLu
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-12-1) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-12--conclusion)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-12--conclusion) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-12-1)
 
 
 haLegannaDada mEle kESirAjanE modalAda prAcIna vayyAkaraNigaLu barediruva
-vyAkaraNagaLu nijakkU A bhASeya vyAkaraNaventahadu embudannu vivarisi hELalu
+vyAkaraNagaLu nijakkU A bhASheya vyAkaraNaventahadu embudannu vivarisi hELalu
 SaktavAgiveyE embudannu pariSIlisuvudE I pustakada uddESavAgide. haLegannaDada
 I prAcIna vyAkaraNagaLannu hindeyU halavu mandi vidvAmsaru pariSIlisiddaru
-(kiTTel‌ 1903, biLigiri 1969, kuLLi 1976, sItArAmayya 1979, venkaTAcala
-SAstri ೀ 1994).
+(kiTTel‌ ೧೯೦೩, biLigiri ೧೯೬೯, kuLLi ೧೯೭೬, sItArAmayya ೧೯೭೯, venkaTAcala
+SAstri ೀ ೧೯೯೪).
 
 Adare, hindinavara pariSIlanegaLigU, I pustakadalli naDesiruva pariSIlanegU
 naDuve ondu mukhyavAda vyatyAsavide: hindina pariSIlanegaLannu naDesidavaru prAcIna
 vyAkaraNagaLu, adarallU kESirAjana Sabda maNidarpaNa, haLegannaDakke takkudAda vyAkaraNa
 endu bhAvisiddaru. hAgAgi, A vyAkaraNada niyamagaLalli kANisuva avyApti, ativyApti
-modalAda kelavu dOSagaLannu tOrisikoDuvudaSTE avara pariSIlaneya
+modalAda kelavu dOShagaLannu tOrisikoDuvudaShTE avara pariSIlaneya
 uddESavAgittu.
 
-intaha halakelavu dOSagaLannu nivArisidalli kESirAjana Sabda maNidarpaNavE
+intaha halakelavu dOShagaLannu nivArisidalli kESirAjana Sabda maNidarpaNavE
 haLegannaDakke bEkAgiruva ondu atyuttama vyAkaraNavAgaballudu embudu A vidvAmsara
 abhiprAyavidda hAge kANisuttade.
 
@@ -9219,37 +9213,37 @@ tOrisikoTTiddEne.
 
 kESirAjanE modalAda haLegannaDada prAcIna vayyAkaraNigaLige samskxta
 vyAkaraNavE mAdariyAgittu. Agina kAladalli vidvAmsarellarU samskxtadalli
-pariNatarAgiruvudu avaSyavAgiddudu idakke ondu kAraNa; yAva bhASege vyAkaraNa
+pariNatarAgiruvudu avaSyavAgiddudu idakke ondu kAraNa; yAva bhAShege vyAkaraNa
 bareyuvudiddarU modalige samskxta vyAkaraNavannu arthamADikoLLuvudu
 avaSyavAgiddudu innondu kAraNa.
 
 Adare, nijakkU haLegannaDakke samskxta vyAkaraNa uttamavAda mAdariyalla.
-yAkendare, haLegannaDa mattu samskxta bhASegaLu bEre bEre bhASAmUlagaLinda
+yAkendare, haLegannaDa mattu samskxta bhAShegaLu bEre bEre bhAShAmUlagaLinda
 beLedu bandiddu, A mUlagaLinda averaDU tIra bhinnavAda vyAkaraNa tatvagaLannu
-paDedukonDive. I eraDu bhASegaLalli padagaLu, padarUpagaLu, padakantegaLu mattu
+paDedukonDive. I eraDu bhAShegaLalli padagaLu, padarUpagaLu, padakantegaLu mattu
 vAkyagaLu hEge racitavAguttave embudannu pariSIlisidAga, averaDara naDuviruva
-vyatyAsa I rIti mUlabhUtavAdudu emba viSaya spaSTavAguttade.
+vyatyAsa I rIti mUlabhUtavAdudu emba viShaya spaShTavAguttade.
 
 udAharaNegAgi, samskxtakke avaSyaviruva varNagaLalli halavu (mahAprANAkTara
-gaLu, khakAra, Sa, Sa modalAdavugaLu) haLegannaDakke bEkAgilla, mattu samskxtadalli
+gaLu, khakAra, Sa, Sha modalAdavugaLu) haLegannaDakke bEkAgilla, mattu samskxtadalli
 illadiruva kelavu varNagaLu (akAra-TakAragaLu, ekAra-okAragaLu) haLegannaDakke
-bEkAguttave. I viSayavannu halavaru vidvAmsaru gamanisiddAre. kESirAjanE
+bEkAguttave. I viShayavannu halavaru vidvAmsaru gamanisiddAre. kESirAjanE
 modalAdavarU idannu kanDukonDiddA re.
 
 Adare, varNagaLa baLakeyalli idakkintalU mukhyavAda, mattu mUlabhUtavAda
-vyatyAsa I eraDu bhASegaLa naDuve ide. hAgAgi, pANinige SivanE tOrisikoTTavendu
+vyatyAsa I eraDu bhAShegaLa naDuve ide. hAgAgi, pANinige SivanE tOrisikoTTavendu
 hELalAguva mAhESvara sUtragaLu samskxta vyAkaraNakke takkuvAgiveyAdarU, haLegannaDa
 vyAkaraNakke takkuvAgilla. yAkendare, avugaLa mUlaka sidda vAguva svara mattu vyanjanagaLa
 pAThakrama samskxta vyAkaraNakke anukUlavAgideyallade, haLegannaDa vyAkaraNakke
 anukUlavAgilla. adu "arNavavxta dhAtriyoL‌ prasiddha 'vAdudAgi iddarU (kESirAja,
-sU. 14) haLegannaDa vyAkaraNa adannu biTTukoTTu tannadE Ada pAThakramavannu
-sxSTisikoLLuva avaSyakateyide.
+sU. ೧೪) haLegannaDa vyAkaraNa adannu biTTukoTTu tannadE Ada pAThakramavannu
+sxShTisikoLLuva avaSyakateyide.
 
 prAcIna vayyAkaraNigaLu koTTiruva vibhaktipratyayagaLa varNaneyalliyU idE
 rItiyalli alpasvalpa badalAvaNegaLannu mADidare sAkAguvudilla, mUlabhUtavAda
 badalAvaNegaLannE mADabEkAguttade. nAmapada mattu kriyApadagaLa naDuve halavAru
 rItiya sambandhagaLiralu sAdhyaviddu, pratyayagaLa mUlaka sUcisuvudakkAgi ivannu
-kelavE kelavu gumpugaLalli vibhajisuva avaSyakateyide. I vibhajane ellA bhASegaLallU
+kelavE kelavu gumpugaLalli vibhajisuva avaSyakateyide. I vibhajane ellA bhAShegaLallU
 ondE teranAgiruvudilla.
 
 samskxtadalli pA sambandhagaLannu kartx, karma, karaNa, sampradAna, apAdAna
@@ -9265,16 +9259,16 @@ badalu, kriyApadagaLannu aycchika (mADuga iruva kriyApada) mattu anaycchika (mAD
 illada kriyApada) embudAgi vingaDisuva avaSyakateyide. hIge mADidalli, antaha
 
 vingaDaNeya AdhArada mEle, jODisuva vAkyagaLalli I kriyApadagaLu hEge
-baLakeyAguttave embudannu sulabhavAgi vivarisalu sAdhyavAguttade (10.4 nODi).
+baLakeyAguttave embudannu sulabhavAgi vivarisalu sAdhyavAguttade (೧೦.೪ nODi).
 
 samskxtadalli nAmapada mattu kriyApadagaLemba eraDu mukhya padavargagaLu
 mAtra ive; Adare, haLegannaDadalli nAmapada, guNapada, mattu kriyApada embudAgi
-mUru mukhya padavargagaLive. idu I eraDu bhASegaLa naDuviruva innondu
+mUru mukhya padavargagaLive. idu I eraDu bhAShegaLa naDuviruva innondu
 mUlabhUtavAda vyatyAsa. I vyatyAsada pariNAmavannu samskxta mattu haLegannaDa
-vyAkaraNagaLa halavAru niyamagaLalli spaSTavAgi kANabahudu.
+vyAkaraNagaLa halavAru niyamagaLalli spaShTavAgi kANabahudu.
 
-idE rItiyalli, I eraDu bhASegaLu kriyApadagaLa mUlaka ghaTaneya samayavannu
-sUcisuvudakkAgi yAva dxSTikOnavannu avalambisive embudarallU mUlabhUtavAda
+idE rItiyalli, I eraDu bhAShegaLu kriyApadagaLa mUlaka ghaTaneya samayavannu
+sUcisuvudakkAgi yAva dxShTikOnavannu avalambisive embudarallU mUlabhUtavAda
 vyatyAsavide. haLegannaDa samaya sambandhakke mahatvavannu koDuvudAdare, samskxta
 samaya vyavasthe ge mahatvavannu koDuttade. I vyatyAsada pariNAmavannU vyAkaraNada
 halavu bhAgagaLalli kANabahudu.
@@ -9285,26 +9279,26 @@ kESirAjanE modalAdavara vyAkaraNagaLalli alpasvalpa badalAvaNegaLannu mADuvudara
 mUlaka avannu haLegannaDada sariyAda vyAkaraNagaLannAgi mADalu sAdhyavAgadu.
 
 I vyAkaraNagaLannu ondu kaTTaDakke hOlisidevAdare, mEle sUcisiruva
-dOSagaLu adara taLapAyadallEnE kANisuvantaha dOSagaLu endu hELabahudu.
+dOShagaLu adara taLapAyadallEnE kANisuvantaha dOShagaLu endu hELabahudu.
 hAgAgi, ivannu nivArisabEkidda lli, A kaTTaDavannu sampUrNavAgi muridu, taLapAyavannE
 badalAyisi, bErondu hosa kaTTaDavannu kaTTuva avaSyakateyide.
 
 
 <a id="sec-12-2"></a>
 
-## 12.2 vyAkaraNada sankIrNate
+## ೧೨.೨ vyAkaraNada sankIrNate
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-12-2) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-12--conclusion)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-12--conclusion) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-12-2)
 
 
-ondu bhASeya vyAkaraNavembudu bahaLa sankIrNavAda viSaya. adannu
-pariSIlisidaSTU adara kuritAgi hosa hosa sangatigaLu gamanakke baruttalE iruttave.
+ondu bhASheya vyAkaraNavembudu bahaLa sankIrNavAda viShaya. adannu
+pariSIlisidaShTU adara kuritAgi hosa hosa sangatigaLu gamanakke baruttalE iruttave.
 idakke koneyE illavendU tOruttade.
 
-udAharaNegAgi, ingliS‌ bhASeya vyAkaraNada mEle sumAru innUru
-varSagaLindalU nUrAru mandi vidvAmsaru samSOdhanegaLannu naDesuttalE bandiddAre.
+udAharaNegAgi, ingliSh‌ bhASheya vyAkaraNada mEle sumAru innUru
+varShagaLindalU nUrAru mandi vidvAmsaru samSOdhanegaLannu naDesuttalE bandiddAre.
 adara mEle nUrAru granthagaLU prakaTavAgive. hIgiddarU, adara vyAkaraNada
-vaySiSTyagaLella sampUrNavAgi mattu sariyAgi namma gamanakke bandiveyendu ivattigU
+vaySiShTyagaLella sampUrNavAgi mattu sariyAgi namma gamanakke bandiveyendu ivattigU
 hELalu sAdhyavAgadu.
 
 yAkendare, adara vyAkaraNada kuritAgi ivattigU hosa hosa sangatigaLannu
@@ -9312,86 +9306,86 @@ samSOdhakaru horageDahuttalE iddAre, mattu hindinavara vyAkaraNagaLalli
 uLidukonDiruva tappugaLannU tOrisikoDuttiddAre. idakke nAnE naDesiruva
 samSOdhaneya ondu udAharaNeyannu koDaballe:
 
-sarvanAmagaLa kuritAgi nAnu ittIcege ingliS‌nalli ondu pustakavannu barediddu £
-adannu inglenDina Aks‌pharD‌ viSvavidyAlaya prakaTiside (bhaT‌ 2004ka). I pusta kavannu
+sarvanAmagaLa kuritAgi nAnu ittIcege ingliSh‌nalli ondu pustakavannu barediddu,
+adannu inglenDina Aks‌pharD‌ viSvavidyAlaya prakaTiside (bhaT‌ ೨೦೦೪ka). I pusta kavannu
 bareyuvudakkAgi, prapancada bEre bEre bhAgagaLalli baLakeyalliruva nAnnUrakkintalU
-heccu bhASegaLa vyAkaraNagaLannu pariSIlisidde . I bhASegaLalli entaha sarvanAmagaLella
+heccu bhAShegaLa vyAkaraNagaLannu pariSIlisidde . I bhAShegaLalli entaha sarvanAmagaLella
 baLakeyallive, avugaLa mEle yAva rItiya nirbandhagaLannella hEralAguttade, mattu
-sarvanAmagaLa maTTige prapancada bhASegaLu yAva rItiyallella bhinnavAgiralu sAdhya
+sarvanAmagaLa maTTige prapancada bhAShegaLu yAva rItiyallella bhinnavAgiralu sAdhya
 embudannu I pustakadalli vivarisalAgide.
 
-I samSOdhaneya AdhArada mEle, ingliS‌ vyAkaraNagaLalli kANisuva kelavu
-dOSagaLannu mattu samasyegaLannU tOrisikoDalu nanage sAdhyavAgide. udAharaNegAgi,
-anirdiSTa mattu aniScita emba eraDu tIra bhinnavAda baLakegaLannu I vyAkaraNagaLalli
-indefinite emba ondE tatvada (pAribhASika padada) mUlaka vivarisuva prayatna
-naDedide, mattu idarindAgi ingliS‌ vyAkaraNagaLalli halavu samasyegaLu mattu
-gondalagaLu sxSTiyAgive.
+I samSOdhaneya AdhArada mEle, ingliSh‌ vyAkaraNagaLalli kANisuva kelavu
+dOShagaLannu mattu samasyegaLannU tOrisikoDalu nanage sAdhyavAgide. udAharaNegAgi,
+anirdiShTa mattu aniScita emba eraDu tIra bhinnavAda baLakegaLannu I vyAkaraNagaLalli
+indefinite emba ondE tatvada (pAribhAShika padada) mUlaka vivarisuva prayatna
+naDedide, mattu idarindAgi ingliSh‌ vyAkaraNagaLalli halavu samasyegaLu mattu
+gondalagaLu sxShTiyAgive.
 
-ingliS‌na 3 bmmk embudondu anirdiSTa padakante, mattu any book
+ingliSh‌na ೩ bmmk embudondu anirdiShTa padakante, mattu any book
 embudondu aniScita padakante. I eraDu padakantegaLa naDuve baLakeyalli halavu
-vyatyAsagaLive. ingliS‌ vayyAkaraNigaLu iveraDannU 17668116 padakantegaLendu
-parigaNisidudarindAgi halavu samasyegaLannedurisabEkAgide. anirdiSTa mattu aniScita
+vyatyAsagaLive. ingliSh‌ vayyAkaraNigaLu iveraDannU 17668116 padakantegaLendu
+parigaNisidudarindAgi halavu samasyegaLannedurisabEkAgide. anirdiShTa mattu aniScita
 padakantegaLa naDuvina vyatyAsagaLannu sariyAgi gaNanege tegedukonDalli, I samasyegaLella
 mAyavAgibiDuttave embudannu nAnu mElina pustakadalli tOrisikoTTiddEne.
 
-idallade, praSnArthakagaLendu hELalAguva 4/80, what, when modalAda
+idallade, praSnArthakagaLendu hELalAguva ೪/8೦, what, when modalAda
 sarvanAmagaLu nijakkU aniScitArthagaLu mAtra; avannu praSnArthaka sarvanAmagaLendu
 parigaNisidalli halavu samasyegaLu mUDibaruttave; Adare, aniScita padagaLendu
 parigaNisidalli antaha samasyegaLu udbhavisuvudilla. intaha bEreyU halavu hosa
-vyAkaraNa viSayagaLannu nAnu A pustakadalli prastA pisiddu » avu ingliS‌ vyAkaraNakkU
+vyAkaraNa viShayagaLannu nAnu A pustakadalli prastA pisiddu , avu ingliSh‌ vyAkaraNakkU
 sambandhisidavugaLAgive.
 
-ingliS‌na mEle naDediruva vyAkaraNAbhyAsagaLige hOlisidevAdare, haLegannaDada
+ingliSh‌na mEle naDediruva vyAkaraNAbhyAsagaLige hOlisidevAdare, haLegannaDada
 (illavE hosagannaDada) vyAkaraNada mEle iduvarege naDediruva samSOdhane atyalpa
 endu yArigU anisadiradu. A vyAkaraNada nijavAda svarUpa entahadu embudannu
-tiLiyalu nAvu innU bahaLaSTu samSOdhanegaLannu naDesuva avaSyakateyide embudu
-idarinda spaSTavAguttade.
+tiLiyalu nAvu innU bahaLaShTu samSOdhanegaLannu naDesuva avaSyakateyide embudu
+idarinda spaShTavAguttade.
 
 kESirAjana vyAkaraNadalli haLegannaDada vyAkaraNaventahadu embudannu tiLiyalu
-namage bEkAguva viSayagaLellavU ive; A vyAkaraNavannu arthamADikoLLuvudaSTE
+namage bEkAguva viShayagaLellavU ive; A vyAkaraNavannu arthamADikoLLuvudaShTE
 ivattu (athavA innu munde) nAvu mADabEkAgiruva kelasa endu yArAdarU
 bhAvisuvudiddalli adu entaha humbatanavAgaballudu embudu I mElina
-udAharaNeyinda spaSTavAgadiradu.
+udAharaNeyinda spaShTavAgadiradu.
 
 
 <a id="sec-12-3"></a>
 
-## 12.3 vyAkaraNada vayvidhya
+## ೧೨.೩ vyAkaraNada vayvidhya
 
-[ಕನ್ನಡ →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn#sec-12-3) | [English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-12--conclusion)
+[English →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en#chapter-12--conclusion) | [Eke →](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke#sec-12-3)
 
 
-he bhASeya nA mAdariyAgirisikonDu innondu bhASeya
+he bhASheya nA mAdariyAgirisikonDu innondu bhASheya
 vyAkaraNavannu bareya hoDa rala. rU edurisabEkAgiruva sa samasyeyondide.
-mAdariyAgiruva bhASeya vyAkaraNa tAvu vivarisa bEkAgiruva bhASeya vyAkaraNakkinta
+mAdariyAgiruva bhASheya vyAkaraNa tAvu vivarisa bEkAgiruva bhASheya vyAkaraNakkinta
 tIra bhinnavAgideyAdare, A bhinnateyentahadu embudannu kanDuhiDiyuvudE I
 samasye. heci klinavarigU idu biDisalAgada samasye yAgiruttade.
 
 samskxtakke vyAkaraNavannu barediruva jA t‌ modalAda samskxta
-vayyAkaraNigaLigAgali, illavE grIk‌ mattu lyATin‌ bhASegaLige vyAkaraNagaLannu
+vayyAkaraNigaLigAgali, illavE grIk‌ mattu lyATin‌ bhAShegaLige vyAkaraNagaLannu
 bareda pAScAtya vidvAmsarigAgali I samasye yiralilla. yAkendare, avarige vyAkaraNavannu
-bareyalu bE honda bhASeya mAdariyiralilla. ellavannU avaru varNisabEkAgiruva
-bhASeya sa rUpavannu pariSIlisuvudara mUlaka kAgi kanDuhiDiyabEkAgittu.
+bareyalu bE honda bhASheya mAdariyiralilla. ellavannU avaru varNisabEkAgiruva
+bhASheya sa rUpavannu pariSIlisuvudara mUlaka kAgi kanDuhiDiyabEkAgittu.
 
 monne monnevaregU I samasye ya ondu samasye yembudE vidvAmsara arivige
 bandiralilla. avTa yAguva rR vyA karaNakki ka tamma kalpa the mIridantaha
 bhinnateyannu tOrisuva navahO, hOpi, gi Am mUlanivAsigaLa
-bhASegaLannu varNisahoraTAga, mattu AphrikAda banTu, dsulu, AsTrEliyAda dkirbal‌,
-philipayns‌na tagalOg‌ modalAda jagattina itara rASTra gaLalli baLakeyalliruva bhASegaLannu
-varNisa nga I samasye eSTu doDDadu emba viSaya vidvAmsara gamanakke
+bhAShegaLannu varNisahoraTAga, mattu AphrikAda banTu, dsulu, AsTrEliyAda dkirbal‌,
+philipayns‌na tagalOg‌ modalAda jagattina itara rAShTra gaLalli baLakeyalliruva bhAShegaLannu
+varNisa nga I samasye eShTu doDDadu emba viShaya vidvAmsara gamanakke
 bantu.
 
-bEre bEre bhASegaLa naDuve vyAkaraNadalli entaha ve vidhyategaLella iralu sAdhya
-embudannu kanDuhiDiyuvudakkAgi bhASAvijYAnadalli Iga language typology
+bEre bEre bhAShegaLa naDuve vyAkaraNadalli entaha ve vidhyategaLella iralu sAdhya
+embudannu kanDuhiDiyuvudakkAgi bhAShAvijYAnadalli Iga language typology
 emba ondu hosa SAkheyE beLedu bandide. idu intaha ondakkinta ondu tIra
-bhinnavAgiruva bhASegaLa abhyAsada phalavAgi huTTikonDide. I SAkheyalli nAnu kaLeda
-naluvattu varSagaLinda samSOdhane naDesuttiddEne. haLegannaDa vyAkaraNada nijavAda
+bhinnavAgiruva bhAShegaLa abhyAsada phalavAgi huTTikonDide. I SAkheyalli nAnu kaLeda
+naluvattu varShagaLinda samSOdhane naDesuttiddEne. haLegannaDa vyAkaraNada nijavAda
 svarUpa kESirAjanE modalAda prAcIna vayyAkaraNigaLu hELiruvudakkinta tIra
-bhinnavAdudu emba viSaya nanna gamanakke baralu I samSOdhaneyE mukhya kAraNa.
+bhinnavAdudu emba viShaya nanna gamanakke baralu I samSOdhaneyE mukhya kAraNa.
 
 haLegannaDadalli nijakkU padagaLa, padarUpagaLa, padakantegaLa mattu vAkyagaLa
 racane hEge naDeyuttade embudannu ALavAgi abhyAsamADuva avaSyakateyide emba
-viSaya I pustakadinda spaSTavAgirabahudu. intaha abhyAsakke kESirAjana vyAkaraNa
+viShaya I pustakadinda spaShTavAgirabahudu. intaha abhyAsakke kESirAjana vyAkaraNa
 mAdariyAgalAradu. nEravAgi pampa, ranna modalAdavara barahagaLalli pada, padarUpa,
 vAkya modalAduvannu hEge racisalAgide embudannu pariSIlisuvudondE namagiruva
 mArga.
@@ -9413,49 +9407,49 @@ vyAkaraNadalli av.
 ---
 
 
-anantarangAcAr‌, en‌. (gadyAnuvAda). 1977. pampakavi viracita pampabhAratam
-(vikramArjuna vijayam). bengaLUru: kannaDa sAhitya pariSattu.
+anantarangAcAr‌, en‌. (gadyAnuvAda). ೧೯೭೭. pampakavi viracita pampabhAratam
+(vikramArjuna vijayam). bengaLUru: kannaDa sAhitya pariShattu.
 
-ayyangAr‌, cennakESava ec‌. (sam.). 1938. kESirAjana SabdamaNidarpaNa
+ayyangAr‌, cennakESava ec‌. (sam.). ೧೯೩೮. kESirAjana SabdamaNidarpaNa
 (lingaNArAdhyana vxtti sahita). cennay: madrAs‌ viSvavidyAnilaya.
 
-ayyangAr‌. vi. kxSNasvAmi 1965. "satisaptamI'. kannaDa nuDi, 28-7.
+ayyangAr‌. vi. kxShNasvAmi ೧೯೬೫. "satisaptamI'. kannaDa nuDi, ೨೮-೭.
 
-kAlD‌vel‌, Ar‌. 1913. A Comparative grammar of the Dravidian or South
+kAlD‌vel‌, Ar‌. ೧೯೧೩. A Comparative grammar of the Dravidian or South
 Indian languages. London: Kegan, Paul, Trench, Trubner and Co. Ltd.
 
-kiTTel‌, eph‌. 1903. A Grammar of the Kannada language (comparing the
+kiTTel‌, eph‌. ೧೯೦೩. A Grammar of the Kannada language (comparing the
 three dialects of the language). Mangalore: Basel Mission Book and
 Tract Depository.
 
-kIl‌hOrn‌, eph‌. 1970. A Grammar of the Sanskrit language (6th Edi-
+kIl‌hOrn‌, eph‌. ೧೯೭೦. A Grammar of the Sanskrit language (6th Edi-
 tion). Varanasi: The Chowkhamba Sanskrit Series Office.
 
-kuSAlappa gavDa, ke. 1970. Gowda Kannada. Annamalainagar: Annamalai
+kuSAlappa gavDa, ke. ೧೯೭೦. Gowda Kannada. Annamalainagar: Annamalai
 University.
 
-kuLLi, je. es‌. 1976. Kesiraja's Sabdamanidarpana. Dharwar: Karnataka
+kuLLi, je. es‌. ೧೯೭೬. Kesiraja's Sabdamanidarpana. Dharwar: Karnataka
 University.
 
-kxSNamUrti, bha. 2003. The Dravidian languages. Cambridge: University
+kxShNamUrti, bha. ೨೦೦೩. The Dravidian languages. Cambridge: University
 Press.
 
-gAy‌, ji. es‌. 1955. "Pronouns in Vaddaradhane’. Indian Linguistics 16,
+gAy‌, ji. es‌. ೧೯೫೫. "Pronouns in Vaddaradhane’. Indian Linguistics 16,
 250-1.
 
-gayn‌-eklunD‌, ji. 1978. 3A study of nominal sentences in the oldest
+gayn‌-eklunD‌, ji. ೧೯೭೮. ೩A study of nominal sentences in the oldest
 
 Upanishads. Sweden: Almqvist and Wiksell International.
 
-jOSi, es‌. Di. 1967. "Adjectives and substantives as a single class in the
+jOSi, es‌. Di. ೧೯೬೭. "Adjectives and substantives as a single class in the
 
 parts of speech’. Journal of the University of Poona, Humanities section
 25, 19-30.
 
-doDDa svAmi 1980. haLegannaDa vyAkaraNagaLa tavlanika viSle "SaNe. manDya: SrImati
+doDDa svAmi ೧೯೮೦. haLegannaDa vyAkaraNagaLa tavlanika viSle "ShaNe. manDya: SrImati
 doDa stAmi.
-1 I
-narasimhAcAr‌, Di. el‌. 1971. pIThikegaLu, lEkhanagaLu. maysUru: Di. vi. ke.
+೧ I
+narasimhAcAr‌, Di. el‌. ೧೯೭೧. pIThikegaLu, lEkhanagaLu. maysUru: Di. vi. ke.
 
 
 <a id="bib"></a>
@@ -9469,163 +9463,163 @@ narasimhAcAr‌, Di. el‌. 1971. pIThikegaLu, lEkhanagaLu. maysUru: Di. vi. ke.
 AkarasUci
 
 
-anantarangAcAr‌, en‌. (gadyAnuvAda). 1977. pampakavi viracita pampabhAratam
-(vikramArjuna vijayam). bengaLUru: kannaDa sAhitya pariSattu.
+anantarangAcAr‌, en‌. (gadyAnuvAda). ೧೯೭೭. pampakavi viracita pampabhAratam
+(vikramArjuna vijayam). bengaLUru: kannaDa sAhitya pariShattu.
 
-ayyangAr‌, cennakESava ec‌. (sam.). 1938. kESirAjana SabdamaNidarpaNa
+ayyangAr‌, cennakESava ec‌. (sam.). ೧೯೩೮. kESirAjana SabdamaNidarpaNa
 (lingaNArAdhyana vxtti sahita). cennay: madrAs‌ viSvavidyAnilaya.
 
-ayyangAr‌. vi. kxSNasvAmi 1965. "satisaptamI'. kannaDa nuDi, 28-7.
+ayyangAr‌. vi. kxShNasvAmi ೧೯೬೫. "satisaptamI'. kannaDa nuDi, ೨೮-೭.
 
 
-kAlD‌vel‌, Ar‌. 1913. A Comparative grammar of the Dravidian or South
+kAlD‌vel‌, Ar‌. ೧೯೧೩. A Comparative grammar of the Dravidian or South
 Indian languages. London: Kegan, Paul, Trench, Trubner and Co. Ltd.
 
 
-kiTTel‌, eph‌. 1903. A Grammar of the Kannada language (comparing the
+kiTTel‌, eph‌. ೧೯೦೩. A Grammar of the Kannada language (comparing the
 three dialects of the language). Mangalore: Basel Mission Book and
 Tract Depository.
 
 
-kIl‌hOrn‌, eph‌. 1970. A Grammar of the Sanskrit language (6th Edi-
+kIl‌hOrn‌, eph‌. ೧೯೭೦. A Grammar of the Sanskrit language (6th Edi-
 tion). Varanasi: The Chowkhamba Sanskrit Series Office.
 
 
-kuSAlappa gavDa, ke. 1970. Gowda Kannada. Annamalainagar: Annamalai
+kuSAlappa gavDa, ke. ೧೯೭೦. Gowda Kannada. Annamalainagar: Annamalai
 University.
 
-kuLLi, je. es‌. 1976. Kesiraja's Sabdamanidarpana. Dharwar: Karnataka
+kuLLi, je. es‌. ೧೯೭೬. Kesiraja's Sabdamanidarpana. Dharwar: Karnataka
 University.
 
-kxSNamUrti, bha. 2003. The Dravidian languages. Cambridge: University
+kxShNamUrti, bha. ೨೦೦೩. The Dravidian languages. Cambridge: University
 Press.
 
-gAy‌, ji. es‌. 1955. "Pronouns in Vaddaradhane’. Indian Linguistics 16,
+gAy‌, ji. es‌. ೧೯೫೫. "Pronouns in Vaddaradhane’. Indian Linguistics 16,
 250-1.
 
-gayn‌-eklunD‌, ji. 1978. 3A study of nominal sentences in the oldest
+gayn‌-eklunD‌, ji. ೧೯೭೮. ೩A study of nominal sentences in the oldest
 
 
 Upanishads. Sweden: Almqvist and Wiksell International.
 
 
-jOSi, es‌. Di. 1967. "Adjectives and substantives as a single class in the
+jOSi, es‌. Di. ೧೯೬೭. "Adjectives and substantives as a single class in the
 
 
 parts of speech’. Journal of the University of Poona, Humanities section
 25, 19-30.
 
 
-214 nijakkU haLegannaDa vyAkaraNa entahadu)
+೨೧೪ nijakkU haLegannaDa vyAkaraNa entahadu)
 
 
-doDDa svAmi 1980. haLegannaDa vyAkaraNagaLa tavlanika viSle "SaNe. manDya: SrImati
+doDDa svAmi ೧೯೮೦. haLegannaDa vyAkaraNagaLa tavlanika viSle "ShaNe. manDya: SrImati
 doDa stAmi.
-1 I
-narasimhAcAr‌, Di. el‌. 1971. pIThikegaLu, lEkhanagaLu. maysUru: Di. vi. ke.
+೧ I
+narasimhAcAr‌, Di. el‌. ೧೯೭೧. pIThikegaLu, lEkhanagaLu. maysUru: Di. vi. ke.
 
 
 mUrti.
 
 
-narasimhAcAr‌, Ar‌. 1969. History of Kannada language. (eraDanE Avxtti).
+narasimhAcAr‌, Ar‌. ೧೯೬೯. History of Kannada language. (eraDanE Avxtti).
 Mysore: Mysore University.
 
 
-narasimhAcAr‌, Ar‌. (sam.). 1902. nAgavarma viracitam kAvyAvalOkanam. maysUru:
+narasimhAcAr‌, Ar‌. (sam.). ೧೯೦೨. nAgavarma viracitam kAvyAvalOkanam. maysUru:
 maysUru viSvavidyAnilaya.
 
-padmanAbhaSarma, Di. (sam.). 1968. bhaTTAkalankadEvakxta karNATaka SabdAnuSAsanam
+padmanAbhaSarma, Di. (sam.). ೧೯೬೮. bhaTTAkalankadEvakxta karNATaka SabdAnuSAsanam
 (nalluDigannaDi emba vyAkhyAnada sahita). bengaLUru: rAj‌kamal‌ prakASana.
 
-barO, Ti. 1955. The Sanskrit language. London: Faber and Faber.
+barO, Ti. ೧೯೫೫. The Sanskrit language. London: Faber and Faber.
 
 
-barO, Ti. mattu emenO, em‌. bi. 1961. The Dravidian etymological
+barO, Ti. mattu emenO, em‌. bi. ೧೯೬೧. The Dravidian etymological
 dictionary. Oxford: The Clarendon Press.
 
 
-biLigiri, ec‌. es‌. 1969. AlOka (kESirAjana "SabdamaNidarpaNa'da vyAkhyAna),
-bhAga 1 (pIThike, sandhiprakaraNa). sAgara: akSara prakASana.
+biLigiri, ec‌. es‌. ೧೯೬೯. AlOka (kESirAjana "SabdamaNidarpaNa'da vyAkhyAna),
+bhAga ೧ (pIThike, sandhiprakaraNa). sAgara: akShara prakASana.
 
 
-bhaT‌, Di. en‌. es‌. 1978. kannaDa vAkyagaLu: Antarika racane mattu arthavyavasthe X
+bhaT‌, Di. en‌. es‌. ೧೯೭೮. kannaDa vAkyagaLu: Antarika racane mattu arthavyavasthe X
 maysUru: gItA buk‌ havs‌.
 
 
-e 1991. Grammatical relations. London: Routledge.
--—-- 19948. The adjectival category. Amsterdam: John Benjamins.
+e ೧೯೯೧. Grammatical relations. London: Routledge.
+-—-- ೧೯೯೪೮. The adjectival category. Amsterdam: John Benjamins.
 
 
-era 1999. The prominence of tense, aspect and mood. Amsterdam: John
+era ೧೯೯೯. The prominence of tense, aspect and mood. Amsterdam: John
 Benjamins.
 
 
-erar‌ 2001. kannaDakke bEku kannaDaddE vyAkaraNa. maysUru: bhASAprakASana.
-erar‌ 2002. kannaDa padagaLa oLaracane. maysUru: bhASAprakASana.
+erar‌ ೨೦೦೧. kannaDakke bEku kannaDaddE vyAkaraNa. maysUru: bhAShAprakASana.
+erar‌ ೨೦೦೨. kannaDa padagaLa oLaracane. maysUru: bhAShAprakASana.
 
---—-— 2003. kannaDada sarvanAmagaLu. maysUru: bhASAprakASana.
+--—-— ೨೦೦೩. kannaDada sarvanAmagaLu. maysUru: bhAShAprakASana.
 
-erA 2004ka. Pronouns: A cross-linguistic study. Oxford: University Press.
-eradara 2004kha. kannaDa vAkyagaLa oLaracane. maysUru: bhASAprakASana.
+erA ೨೦೦೪ka. Pronouns: A cross-linguistic study. Oxford: University Press.
+eradara ೨೦೦೪kha. kannaDa vAkyagaLa oLaracane. maysUru: bhAShAprakASana.
 
-eradara 2007. kannaDa nuDi naDedu banda dAri. heggODu: bhASAprakASana.
+eradara ೨೦೦೭. kannaDa nuDi naDedu banda dAri. heggODu: bhAShAprakASana.
 
 
-bhaTTOji dIkSita, 1906. siddhAnta kavmudI (SrISacandra vAsu avara ingliS‌
+bhaTTOji dIkShita, ೧೯೦೬. siddhAnta kavmudI (SrISacandra vAsu avara ingliSh‌
 anuvAdadondige). Delli: mOtilAl‌ banArasIdAs‌.
 
 
-AkarasUci 215
+AkarasUci ೨೧೫
 
 
-mavrar‌, vAlTar‌ hArDing‌ 1955. The Sanskrit language: An introductiory
+mavrar‌, vAlTar‌ hArDing‌ ೧೯೫೫. The Sanskrit language: An introductiory
 
 
 grammar and reader: Surrey: Curzon.
 
 
-ranganAtha SarmA, en‌. 2002. vyAkaraNaSAstra da parivAra (kannaDa vyAkaraNa vicAragaLu).
+ranganAtha SarmA, en‌. ೨೦೦೨. vyAkaraNaSAstra da parivAra (kannaDa vyAkaraNa vicAragaLu).
 
 
-uDupi: rASTrakavi gOvinda pay samSOdhana kEnda.
+uDupi: rAShTrakavi gOvinda pay samSOdhana kEnda.
 bra a
 
 
-rAmacandrarAv‌, bi. 1972. A descriptive grammar of Pampa Bharata. Mysore:
+rAmacandrarAv‌, bi. ೧೯೭೨. A descriptive grammar of Pampa Bharata. Mysore:
 University of Mysore. L‌
 
 
-varadAcArya, em. Ar‌. 1977. "bhaTTAkaLankana SabdA nuSAsana'. vi. sItArAmayya
-(sampAdita)dalli, puTa 65-117.
-viTnI, Dablyu. Di. 1888. Sanskrit 8701717107. hosa mudraNa: Dilli: mOtilAl‌
+varadAcArya, em. Ar‌. ೧೯೭೭. "bhaTTAkaLankana SabdA nuSAsana'. vi. sItArAmayya
+(sampAdita)dalli, puTa ೬೫-೧೧೭.
+viTnI, Dablyu. Di. ೧೮೮೮. Sanskrit 8701717107. hosa mudraNa: Dilli: mOtilAl‌
 
 
 banArasIdAs‌.
 
 
-villan‌, hec‌. hec‌. 1847. 4 Introduction to the grammar of the Sanskrit
-language. London: J. Madden and Co. (1961ralli Chowkhamba San-
+villan‌, hec‌. hec‌. ೧೮೪೭. 4 Introduction to the grammar of the Sanskrit
+language. London: J. Madden and Co. (೧೯೬೧ralli Chowkhamba San-
 skrit Series office, Varanasi ivarinda punaH prakaTitavAgide).
 
 
-venkaTAcala SAstrI, Ti. vi. 1994. "upOdbhrAta'. venkaTAcala SAstrI (sam.)
-kESirAja viracita SabdamaNi darpaNandalli puTa 1-142. bengaLUru: kannaDa
+venkaTAcala SAstrI, Ti. vi. ೧೯೯೪. "upOdbhrAta'. venkaTAcala SAstrI (sam.)
+kESirAja viracita SabdamaNi darpaNandalli puTa ೧-೧೪೨. bengaLUru: kannaDa
 mattu samskxti nirdESanAlaya.
 
 
-SivAnanda, vi. 1972. SabdamaNidarpaNa viLAsa (hosagannaDa vyAkhyAna gadya). gadaga:
+SivAnanda, vi. ೧೯೭೨. SabdamaNidarpaNa viLAsa (hosagannaDa vyAkhyAna gadya). gadaga:
 vijaya pustaka bhanDAra mattu prakASana.
 
 
-sItArAmayya, vi. 1979. prAcIna kannaDa vyAkaraNagaLu. maysUru: maysUru
+sItArAmayya, vi. ೧೯೭೯. prAcIna kannaDa vyAkaraNagaLu. maysUru: maysUru
 viSvavidyAnilaya.
 
 
-sItArAmayya, vi. (sam.). 1977. vyAkaraNagaLu. bengaLUru: aybiec‌ prakASana.
+sItArAmayya, vi. (sam.). ೧೯೭೭. vyAkaraNagaLu. bengaLUru: aybiec‌ prakASana.
 
 
-spIjar‌, je. es‌. 1866. Sanskrit Syntax. Leyden: E.J.Brill.
+spIjar‌, je. es‌. ೧೮೬೬. Sanskrit Syntax. Leyden: E.J.Brill.
 
 
 
@@ -9633,7 +9627,7 @@ spIjar‌, je. es‌. 1866. Sanskrit Syntax. Leyden: E.J.Brill.
 
 ## samparka konDigaLu
 
-- [ingliS viSlESaNe →](14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en)
+- [ingliS viSlEShaNe →](14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en)
 - [mUla pustaka →](nijakkU-haLegannaDa-vyAkaraNa-entahadu-book)
 - [lEkhakara tANa](http://dnshankarabhat.net/)
 - [inTarneT Arkayv](https://archive.org/details/arn.nijakkuhaleganna0000dnsh)
