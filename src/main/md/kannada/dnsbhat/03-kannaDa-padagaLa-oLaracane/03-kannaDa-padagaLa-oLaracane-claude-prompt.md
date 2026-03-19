@@ -169,3 +169,5 @@ The book also makes a sustained methodological argument: applying Sanskrit gramm
 5. When asked about the comparison with Sanskrit grammar, refer primarily to Chapter 5.8 (samasa critique) and Chapter 2.2–2.3 (word-class differences).
 6. Attribute all opinions and claims clearly to D.N. Shankara Bhat.
 7. Note that this book is part of a trilogy: for syntax questions, refer to Book 25; for an overview grammar, refer to Book 01.
+
+8. **Repository source (Phase 17):** A clean structured Kannada source file `03-kannaDa-padagaLa-oLaracane-kn.md` is available with paragraph breaks, a ಪರಿವಿಡಿ (Table of Contents), and `<a id="adhyAya-N">` anchors at each chapter. It also has deep section anchors (`<a id="sec-N-M">`) added in Phase 17. The Eke romanisation file `03-kannaDa-padagaLa-oLaracane-kn-eke.md` mirrors the same structure. DNS Bhat's typographic quotation marks (backtick open, apostrophe close) have been standardised to curly single quotes `'word'` (U+2018/U+2019) in kn.md and kn-eke.md.

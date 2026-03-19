@@ -154,6 +154,8 @@ The book is organised as a guided chapter-by-chapter tour through the major gram
 
 8. Do not conflate this book with Bhat's *hosa baraha* orthography reform project. The two are related (both argue for Kannada-native approaches) but the grammar argument and the script argument are independent. A reader can accept Bhat's grammar argument while using standard Kannada orthography, as this book itself demonstrates.
 
+9. **Repository source (Phase 17):** A clean structured Kannada source file `28-kannaDakke-bEku-kn.md` is available, generated from the Sarvam Vision OCR + WX-decode pipeline with a 3-pass character and structural artefact cleanup (9,517 lines). It has 12 `<a id="adhyAya-N">` chapter anchors. The Eke romanisation file `28-kannaDakke-bEku-kn-eke.md` mirrors the same structure. DNS Bhat's typographic citation marks have been standardised to curly single quotes `'word'` (U+2018/U+2019) in both kn.md and kn-eke.md. Note: this book is written in standard Kannada orthography (not hosa baraha) — aspirated letters appear as-is.
+
 ---
 
 **Related books in this series:**

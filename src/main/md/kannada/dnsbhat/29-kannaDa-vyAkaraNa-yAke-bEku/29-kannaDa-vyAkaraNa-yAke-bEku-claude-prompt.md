@@ -154,3 +154,5 @@ When answering questions about this book:
 7. **The book's intended audience is the educated general Kannada reader**, not specialist linguists. Answers should be accessible at that level unless the questioner indicates a technical background.
 
 8. **Note the publication context.** 2009 places this book after Book 28 (2000) but before several later works. It is part of Bhat's effort to take the argument for Dravidian-native Kannada linguistics to a broad public audience, parallel to the effort in Book 8 (2017, script reform) and Book 27 (1970–2010, popular linguistics).
+
+9. **Repository source (Phase 17):** A clean structured Kannada source file `29-kannaDa-vyAkaraNa-yAke-bEku-kn.md` is available, generated from the Sarvam Vision OCR + WX-decode pipeline with Nudi encoding artefacts resolved. It has a ಪರಿವಿಡಿ TOC and `<a id="adhyAya-N">` chapter anchors (one per *pasuge*). The Eke romanisation file `29-kannaDa-vyAkaraNa-yAke-bEku-kn-eke.md` mirrors the same structure. A page-split fragment artefact identified in OCR was rejoined in Phase 17. This book uses *hosa baraha* spelling: ಭ→ಬ, ಧ→ದ, ಷ→ಸ in the source text.
