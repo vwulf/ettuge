@@ -3,13 +3,16 @@ redirect_from:
   - /dnsbhat/07-kannadada-sollarime/07-kannadada-sollarime-vol2-kn-eke
 ---
 
-# kannaDa barahada sollarime — sampuTa 2
+
+# kannaDa barahada sollarime — sampuTa ೨
+
 **lEkhakaru:** Di. en. Sankara bhaT
 **mUla:** PDF (Google Drive) — OCR SuddhIkxta prati
 
 
-## pariviDi (sampuTa 2)
-[← sampuTa 1](./07-kannaDa-barahada-sollarime-vol1-book)
+## pariviDi (sampuTa ೨)
+
+[← sampuTa ೧](./07-kannaDa-barahada-sollarime-vol1-book)
 
 - [adhyAya 5 — esakapadagaLa baLake](#adhyAya-5)
 - [adhyAya 6 — hesarukantegaLa iTTaLa](#adhyAya-6)
@@ -22,7 +25,7 @@ redirect_from:
 
 <a id="adhyAya-5"></a>
 
-[ಕನ್nnaDa →](./07-kannaDa-barahada-sollarime-vol2-kn#adhyAya-5) | [English →](./07-kannaDa-barahada-sollarime-en#chapter-5--verb-usage)
+[English →](./07-kannaDa-barahada-sollarime-en#chapter-5--verb-usage) | [Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#adhyAya-5)
 
 5. esakapadagaLa baLake 
 
@@ -853,7 +856,7 @@ kannaDada sollugaLalli baruva hottina parice nuDitagaLu heccukaDime
 esakarUpagaLu  baLasuva  hottannE  innaSTu  vivaravAgi  tiLisuttave. 
 ettugegAgi,  nALe  baruttEne  emba  sollinalli  baruttEne  emba 
 esakarUpa  `A  esaka  sollannu  ADiruva  illavE  barediruva  hottina 
-baLika naDeyuvude'mdu tiLisuttade, mattu nALe emba paricepada `adu 
+baLika naDeyuvude'ndu tiLisuttade, mattu nALe emba paricepada `adu 
 eSTu  hottina  baLika  naDeyuttade  (ondu  divasada  baLika)'  embudannu 
 tiLisuttade;  nALe  beLigge  ELUvare  ganTege  baruttEne  emba 
 sollinalli  nALe  beLigge  ELUvare  ganTege  embudu  idannE  innaSTu 
@@ -3176,7 +3179,7 @@ nuDitavE I vyatyAsakke kAraNa.
 
 Adare,  (32ka)dalli  bandiruva  hoDedADidaru  embudu  ondu 
 sAguvesakavannu  tiLisuttiddu,  (32ca)dalli  `adE  esaka  arda  ganTe 
-hottu  naDeyite'mdiSTE  hELalAgideyallade,  (31ca)dalli  kANisida 
+hottu  naDeyite'ndiSTE  hELalAgideyallade,  (31ca)dalli  kANisida 
 hAge,  `A  esaka  halavu  bAri  naDeyitu'  emba  huruLu  illi 
 siguvudilla.  
 
@@ -5352,7 +5355,7 @@ gaLannu baLasalAguttade.
  
 <a id="adhyAya-6"></a>
 
-[ಕನ್nnaDa →](./07-kannaDa-barahada-sollarime-vol2-kn#adhyAya-6) | [English →](./07-kannaDa-barahada-sollarime-en#chapter-6--noun-phrase-structure)
+[English →](./07-kannaDa-barahada-sollarime-en#chapter-6--noun-phrase-structure) | [Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#adhyAya-6)
 
 6. hesarukantegaLa iTTaLa 
 
@@ -5665,7 +5668,7 @@ unTumADuvudU nuDiya baLakege sambandisida kelasavAgide.
 
 
 (6)  ondu  nuDiyalli  baLakeyalliruva  hesarugaLannu  (mattu  bEre 
-bagemy padagaLannu) paTTimADabahudu; I kelasavannu nuDiya padanerake 
+bage಍ padagaLannu) paTTimADabahudu; I kelasavannu nuDiya padanerake 
 gaLu  naDesuttave.  nuDiya  ADugarigintalU  barahagArarige  mattu 
 barahagaLa  Odugarige  intaha  padanerakegaLu  AgAga  neravige  baruttave. 
 Adare,  ondu  nuDiyalli  baLakeyAguva  (illavE  baLakeyAgaballa) 
@@ -7843,7 +7846,7 @@ padagaLE  intaha  iTTaLadalli,  adarallU  modalaneya  huruLannu
 koDuva  iTTaLadalli  heccu  kANisikoLLuttave.  eraDaneya  huruLinalli 
 bEre bageya paricepadagaLU baraballuvu. 
 
-kelavu paricepadagaLu I rIti immaDi rUpadalli baruvAga sErikemy 
+kelavu paricepadagaLu I rIti immaDi rUpadalli baruvAga sErike಍ 
 mArpADugaLige  oLagAguttave.  ururuTuruTu,  anTanTu,  uppuppu 
 embantahavugaLalli  modalanE  padada  koneya  ukAra  bidduhOgide; 
 idakke badalu, oLLoLLe embudaralli modalanE padada koneya ekAra 
@@ -11540,7 +11543,7 @@ bahudu:
 
 (54ka)  sollige  (54ca)  mattu  (54Ta)  sollugaLu  oLahuruLu 
 gaLAgaballuvu;  avaLu  nanage  kempu  gulAbi  koTTiddALe  endare, 
-`gulAbi  koTTiddALe'mdU  Aguttade,  mattu  `hU  koTTiddALe'mdU 
+`gulAbi  koTTiddALe'ndU  Aguttade,  mattu  `hU  koTTiddALe'ndU 
 Aguttade. illi kempu gulAbi embudannu nEravAgi ondu pAngannu 
 gurutisalu baLasalAgide embudannu gamanisabahudu. 
 
@@ -12840,7 +12843,7 @@ dalli baLasalAgide.
 dondige  baLasalAguttade  (ettara  gODe,  udda  hagga);  Adare, 
 gurutisuva  padavAgi  bandiruva  paricepadavannu  hesarupadadondige 
 baLasabEkiddalli  adakke  pattugeya  a  oTTannu  sErisabEkAguttade 
-(ettarada  gODe,  uddada  hagga).  I  eraDu  bagemy  baLakegaLa  naDuve 
+(ettarada  gODe,  uddada  hagga).  I  eraDu  bage಍  baLakegaLa  naDuve 
 vyatyAsavide embudannu keLage koTTiruva sollugaLalli kANabahudu: 
 
 (41ka)  I ettara gODeginta A ettara gODe cannAgide. 
@@ -12979,11 +12982,11 @@ esakaparice
 esakahottu 
 
 vidhyarthaka   
-pAribhASika pada 
+pAribhAShika pada 
 
-niSEdhArthaka 
+niShEdhArthaka 
 
-uttamapuruSa 
+uttamapuruSha 
 
 tAkrika 
 racane 
@@ -13000,7 +13003,7 @@ viruddhArthaka
 kriye 
 
 kriyApada   
-kriyAviSESaNa 
+kriyAviSEShaNa 
 
 imperative 
 technical term 
@@ -13077,7 +13080,7 @@ krama
 Ekavacana   
 (niyama)   
 
-madhyamapuruSa 
+madhyamapuruSha 
 praSne  
 
 pullinga 
@@ -13169,11 +13172,11 @@ viSESaNapada
 rUpa 
 adhyAya    
 pAtra 
-sAkSi 
+sAkShi 
 
 dhAtu 
 
-bhaviSyatkAla  
+bhaviShyatkAla  
 vyanjana  
 
 conflict 
@@ -13251,9 +13254,9 @@ bahuvacana
 bhUtakAla   
 athra 
 strIlinga 
-prathamapuruSa 
+prathamapuruSha 
 nAmapada   
-nAmaviSESaNa 
+nAmaviSEShaNa 
 
 kAla 
 apavAda 
@@ -13308,7 +13311,7 @@ Di. en. Sankara bhaT bareda bEre pustakagaLu:
 8. kannaDa padagaLa oLaracane, 1999, 2002, 2010, pu. 240, rU. 160. 
 9. kannaDa vAkyagaLa oLaracane, 2004, 2006, 2011, pu. 280, rU. 180. 
 10. kannaDa barahavannu saripaDisONa, 2006, 2009, pu. 304, rU. 160. 
-11. bhASeya bagege nIvEnu balliri? 1970, 1998, 2002, 2010 pu. 
+11. bhASheya bagege nIvEnu balliri? 1970, 1998, 2002, 2010 pu. 
 
 206, rU. 140. 
 

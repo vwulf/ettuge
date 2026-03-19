@@ -3360,7 +3360,7 @@ baLakeyAguttave.
 bEreyE 
 
 (1)  ukAravannu  uccarisuvAga  tuTi  dunDagirabahudu  (u) 
-illavE  dunDagilladirabahudu  (u');  I  vyatyAsada  mUlaka 
+illavE  dunDagilladirabahudu  (u^);  I  vyatyAsada  mUlaka 
 karAvaLiya gavDa kannaDadalli eraDu svaragaLannu bErpaDisalAguttade. 
 
 (2)  svaragaLannu  uccarisuvAga  usiru  bAyiya  mUlaka 
@@ -3438,7 +3438,7 @@ sUcisuvantAgirabEku. itara padagaLallU hIgeyE.
 
 2.4.2 dunDagillada ukAra 
 karAvaLiya (suLyada) gavDa kannaDadalli ukAra dunDagina u mattu 
-dunDagillada  u'  emba  eraDu  ugaLAgi  oDedukonDide.  udA 
+dunDagillada  u^  emba  eraDu  ugaLAgi  oDedukonDide.  udA 
 haraNegAgi,  gavDa  kannaDada  ad  `adu’’padada  koneyalli 
 dunDagillada  ukAra  bandide.  koTTa  `koTTu’’mattu  koTTu 
 `hAre’  embantaha  padajODigaLalli  I  vyatyAsakke  artavannu 
@@ -4072,7 +4072,7 @@ koneyalli  ekAra  bandiruvudannu
 
 padagaLa  koneyallidda  bEre  kelavu  svaragaLu  kannaDada  oLanuDi 
 gaLalli  badalAgive.  padagaLa  koneya  ekAra  ikAravAguvudu, 
-akAra  a:kAravAguvudu  mattu  ukAra  u  mattu  u'gaLAgi 
+akAra  a:kAravAguvudu  mattu  ukAra  u  mattu  u^gaLAgi 
 idallade, 
 oDedukoLLuvudu 
 ukAradalli 
@@ -4321,17 +4321,17 @@ tiLiyalu heccina samSOdane naDeyabEkAgide.
 3.6.6 ukArada oDeta 
 karAvaLiya gavDa kannaDada oTTugaLalli baruva (endare modalaneya 
 ulikanteyannu  horatupaDisi  itara  ulikantegaLalli  baruva) 
-ukAra  dunDagiruva  ukAra  mattu  dunDagillada  u'kAra  emba 
+ukAra  dunDagiruva  ukAra  mattu  dunDagillada  u^kAra  emba 
 eraDu svaragaLAgi oDedukonDide.  
 
 tuTiyannu baLasi uccarisuva va, pa, ba mattu ma vyanjanagaLa 
 anantara  mattu  dunDagiruva  (udda  illavE giDDa) ukAra mattu 
 okAragaLa  anantara  ukAra  badalAgade  uLidide,  Adare  itara 
-sannivESagaLalli u'kAravAgi badalAgide. 
+sannivESagaLalli u^kAravAgi badalAgide. 
 
 kappu   
 
-  ukAraviruva padagaLu  u'kAraviruva padagaLu 
+  ukAraviruva padagaLu  u^kAraviruva padagaLu 
 kants `muLugisu’’ 
   avulu `avalakki’ 
 kaTTa `kaTTu’ 
@@ -4380,7 +4380,7 @@ padagaLa  eraDaneya
 
 svaradallidda 
 
-illavE  u'kAravAgi  badalAguvudu  mattu  vyanjanagaLalli 
+illavE  u^kAravAgi  badalAguvudu  mattu  vyanjanagaLalli 
 konegoLLuva  padagaLa  anantara  ukAravondu  sErikoLLuvudu 
 ivugaLalli mukyavAda badalAvaNegaLu. 
 
