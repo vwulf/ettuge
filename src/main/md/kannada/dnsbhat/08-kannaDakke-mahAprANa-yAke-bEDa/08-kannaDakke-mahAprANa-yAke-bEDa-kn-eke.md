@@ -3,11 +3,12 @@ redirect_from:
   - /dnsbhat/08-kannadakke-mahaprana-yake-beda/08-kannadakke-mahaprana-yake-beda-kn-eke
 ---
 
+
 # kannaDakke mahAprANa yAke bEDa?
 
 **lEkhakaru:** Di. en. Sankara baT
-**saraNi:** arimeya cuTuku kaDatagaLu – 3
-**prakaTaNe:** 2017, navakarnATaka prakASana, bengaLUru
+**saraNi:** arimeya cuTuku kaDatagaLu – ೩
+**prakaTaNe:** ೨೦೧೭, navakarnATaka prakASana, bengaLUru
 
 > mUla pustakada sampUrNa paThya: [`08-kannaDakke-mahAprANa-yAke-bEDa-book.md`](./08-kannaDakke-mahAprANa-yAke-bEDa-book)
 > ingliS viSlEShaNe: [`08-kannaDakke-mahAprANa-yAke-bEDa-en.md`](./08-kannaDakke-mahAprANa-yAke-bEDa-en)
@@ -16,61 +17,61 @@ redirect_from:
 
 ## oLapiDi
 
-- [adhyAya 1 — munnOTa](#ch1)
-  - [1.1 kannaDa barahadalli bEDadiruva barigegaLu](#sec-1-1)
-  - [1.2 Oduva mattu bareyuva aLavu](#sec-1-2)
-  - [1.3 barahavannu kaliyadiralu kAraNagaLu](#sec-1-3)
-  - [1.4 baravaNigeya toDaku](#sec-1-4)
-- [adhyAya 2 — Oduva hAge bareyuvudu](#ch2)
-  - [2.1 baravaNigeya ALa](#sec-2-1)
-  - [2.2 kannaDa baravaNigeya ALa](#sec-2-2)
-  - [2.3 kannaDa barahadalli samskxta padagaLu](#sec-2-3)
-  - [2.4 kannaDa baravaNigeya hinnaDavaLi (caritre)](#sec-2-4)
-  - [2.5 eravalu padagaLa baravaNige](#sec-2-5)
-  - [2.6 samskxtada eravalu padagaLa baravaNige](#sec-2-6)
-  - [2.7 hanta hantavAgi baLakege taruvudu](#sec-2-7)
-  - [2.8 samskxta padagaLu mArbaDade uLidilla](#sec-2-8)
-- [adhyAya 3 — baravaNigeyannu saripaDisikonDiruva nuDigaLu](#ch3)
-  - [3.1 munnOTa](#sec-3-1)
-  - [3.2 koriyan nuDiya baravaNige](#sec-3-2)
-  - [3.3 panjAbi nuDiya baravaNige](#sec-3-3)
-  - [3.4 inDonESiyan nuDiya baravaNige](#sec-3-4)
-  - [3.5 jarman nuDiya baravaNige](#sec-3-5)
-  - [3.6 TarkiS nuDiya baravaNige](#sec-3-6)
-  - [3.7 asamIs nuDiya baravaNige](#sec-3-7)
-- [adhyAya 4 — saripaDikeya edurikegaLu](#ch4)
-  - [4.1 saripaDikeya prayOjanagaLu](#sec-4-1)
-  - [4.2 tusuhottina tondaregaLu](#sec-4-2)
-  - [4.3 heccu barigegaLiruvudu SrImantikeyalla](#sec-4-3)
-  - [4.4 uligaLa baLakeyalli vyatyAsagaLu](#sec-4-4)
-  - [4.5 ippuruLininda tondareyEnilla](#sec-4-5)
-  - [4.6 mArpADu barahadallallade nuDiyallalla](#sec-4-6)
-  - [4.7 kannaDada OdU samskxta OdinantirabEkE?](#sec-4-7)
-  - [4.8 eraDu sAvira varSagaLa parampare](#sec-4-8)
-  - [4.9 samskxtakke hindidda hirime indilla](#sec-4-9)
-  - [4.10 baraha mattu samskxti](#sec-4-10)
-- [adhyAya 5 — muktAya](#ch5)
-  - [5.1 sAmAjika nyAya](#sec-5-1)
-  - [5.2 kannaDaddE Ada padagaLa baLake](#sec-5-2)
-  - [5.3 kaliyuva oLa ottaDa](#sec-5-3)
-  - [5.4 mukhyavAda prayOjanagaLu](#sec-5-4)
+- [adhyAya ೧ — munnOTa](#ch1)
+  - [೧.೧ kannaDa barahadalli bEDadiruva barigegaLu](#sec-1-1)
+  - [೧.೨ Oduva mattu bareyuva aLavu](#sec-1-2)
+  - [೧.೩ barahavannu kaliyadiralu kAraNagaLu](#sec-1-3)
+  - [೧.೪ baravaNigeya toDaku](#sec-1-4)
+- [adhyAya ೨ — Oduva hAge bareyuvudu](#ch2)
+  - [೨.೧ baravaNigeya ALa](#sec-2-1)
+  - [೨.೨ kannaDa baravaNigeya ALa](#sec-2-2)
+  - [೨.೩ kannaDa barahadalli samskruta padagaLu](#sec-2-3)
+  - [೨.೪ kannaDa baravaNigeya hinnaDavaLi (caritre)](#sec-2-4)
+  - [೨.೫ eravalu padagaLa baravaNige](#sec-2-5)
+  - [೨.೬ samskxtada eravalu padagaLa baravaNige](#sec-2-6)
+  - [೨.೭ hanta hantavAgi baLakege taruvudu](#sec-2-7)
+  - [೨.೮ samskruta padagaLu mArbaDade uLidilla](#sec-2-8)
+- [adhyAya ೩ — baravaNigeyannu saripaDisikonDiruva nuDigaLu](#ch3)
+  - [೩.೧ munnOTa](#sec-3-1)
+  - [೩.೨ koriyan nuDiya baravaNige](#sec-3-2)
+  - [೩.೩ panjAbi nuDiya baravaNige](#sec-3-3)
+  - [೩.೪ inDonESiyan nuDiya baravaNige](#sec-3-4)
+  - [೩.೫ jarman nuDiya baravaNige](#sec-3-5)
+  - [೩.೬ TarkiS nuDiya baravaNige](#sec-3-6)
+  - [೩.೭ asamIs nuDiya baravaNige](#sec-3-7)
+- [adhyAya ೪ — saripaDikeya edurikegaLu](#ch4)
+  - [೪.೧ saripaDikeya prayOjanagaLu](#sec-4-1)
+  - [೪.೨ tusuhottina tondaregaLu](#sec-4-2)
+  - [೪.೩ heccu barigegaLiruvudu SrImantikeyalla](#sec-4-3)
+  - [೪.೪ uligaLa baLakeyalli vyatyAsagaLu](#sec-4-4)
+  - [೪.೫ ippuruLininda tondareyEnilla](#sec-4-5)
+  - [೪.೬ mArpADu barahadallallade nuDiyallalla](#sec-4-6)
+  - [೪.೭ kannaDada OdU samskruta OdinantirabEkE?](#sec-4-7)
+  - [೪.೮ eraDu sAvira varShagaLa parampare](#sec-4-8)
+  - [೪.೯ samskrutakke hindidda hirime indilla](#sec-4-9)
+  - [೪.೧೦ baraha mattu samskxti](#sec-4-10)
+- [adhyAya ೫ — muktAya](#ch5)
+  - [೫.೧ sAmAjika nyAya](#sec-5-1)
+  - [೫.೨ kannaDaddE Ada padagaLa baLake](#sec-5-2)
+  - [೫.೩ kaliyuva oLa ottaDa](#sec-5-3)
+  - [೫.೪ mukyavAda prayOjanagaLu](#sec-5-4)
 
 ---
 
 <a id="ch1"></a>
 
-[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#ch1) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-1--preview)
+[English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-1--preview) | [Eke →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn-eke#ch1)
 
-# adhyAya 1 — munnOTa
+# adhyAya ೧ — munnOTa
 [↑ oLapiDige hintirugi](#oLapiDi)
 
 ---
 
 <a id="sec-1-1"></a>
 
-[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-1-1) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-1--preview)
+[English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-1--preview) | [Eke →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn-eke#sec-1-1)
 
-## 1.1 kannaDa barahadalli bEDadiruva barigegaLu
+## ೧.೧ kannaDa barahadalli bEDadiruva barigegaLu
 
 ivattu baLakeyalliruva mahAprANa barige(akSara)gaLu,
 ShakAra, yakAra modalAda sumAru hattippattu barigegaLu
@@ -81,22 +82,22 @@ hAge ivattu mADalEbEkAgide. yAkendare, kannaDa
 barahavannu ellA vargada janarU baLasuva hAge mADu
 valli I barigegaLu toDakugaLAgive.
 
-sumAru eraDu sAvira varSagaLaSpu hinde, kannaDakke
+sumAru eraDu sAvira varShagaLaSpu hinde, kannaDakke
 barahavondannu aLavaDisuva samayadalli kannaDada
-tiLivigaru samskxtada mElidda mElarimeyindAgi kanna Da
+tiLivigaru samskrutada mElidda mElarimeyindAgi kanna Da
 barahakke bEDadiddarU samskxta i padagaLannu adaralliddam te
 kannaDa barahagaLalli baLasalu toDagiddaru. mundinavarU
 idannE munduvarisuttA bandiddu, ivattigU ade
 baLake. naDeyuttide.
 
-samskxtada mEliruva I mElarimeyannu mattu
+samskrutada mEliruva I mElarimeyannu mattu
 kannaDada kantAgihapha kILarimeyannu nAvu “ivattu
 
 [>
 toreyabEkAgide. namma maTTige namma nADina
 nuDiyAgiruva kannaDavE bEre ellA nuDigaLigintalU
 mElina nuDiyAgirabEku, mattu hindi, ingliS‌, marATi
-modalAda bEre nuDigaLa hAge, samskxtavU ondu
+modalAda bEre nuDigaLa hAge, samskrutavU ondu
 horagina nuDiyaSTE AgirabEku. adara
 padagaLannu ingliS‌, “Endi modalAdavugaLinda paDeda
 padagaLa hAge eravalu padagaLendaSTE tiLiyabEku.
@@ -112,7 +113,7 @@ baruva vakArakkU naDuve ingliS‌ nuDigara ulipinalli
 baLasuvAga iveraDannU ondE bageyalli uliyutte ve.
 hAgAgi, averaDannU ondE bageyalli bareyuttEve.
 
-idE rItiyalli, samskxtadinda eravalAgi paDeda
+idE rItiyalli, samskrutadinda eravalAgi paDeda
 padagaLalli kANisuva mahAprANa barigegaLannu hecci na
 kanna DigarU alpaprANagaLAgiyE. uliyuttAre. "hAgAgi,
 avannU alpaprANa ` barigegaLAgi baredare sAku, mahAprANa
@@ -134,9 +135,9 @@ baruttade.
 
 <a id="sec-1-2"></a>
 
-[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-1-2) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-1--preview)
+[English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-1--preview) | [Eke →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn-eke#sec-1-2)
 
-## 1.2 Oduva mattu bareyuva aLavu
+## ೧.೨ Oduva mattu bareyuva aLavu
 
 kannaDadalli Oduva mattu bareyuva aLavannu (sAmartya
 vannu) ivattu ellA kannaDigarU paDeyuvantAgabEkAgide.
@@ -156,12 +157,12 @@ bareyalu kaliyuttArAdarU, tamma jIvanadalli I
 Odu-barahavannu baLakege taruvavara eNike I
 vargadavaralli tumbhA kaDime.
 
-I paristhitiyannu ivattu, adarallU I kUDubaleya
+I paristitiyannu ivattu, adarallU I kUDubaleya
 (inTar‌neT‌na) yugadalli, mArTa DisalEbEkAgide.
 illa vANake] kannaDa samAja munde baralAradu.
 yAkendare, sa rAbAradaSharu AlOcisuva bagegU baraha
 
-baruvavaru AlOcisuva bagegU naDuve kelavu mukhya
+baruvavaru AlOcisuva bagegU naDuve kelavu mukya
 
 vAda bErmegaLive.
 
@@ -176,7 +177,7 @@ idallade, ivattu janarige samAjadalli munde baralu
 bEkAguva ellA bageya tiLivugaLU barahagaLalli,
 adarallU kUDubaleyalli dorakuttave. sadyakke I tiLivu
 
-mukhyavAgi ingliS‌nallide; Adare, kannaDadallU sAkaSTu
+mukyavAgi ingliS‌nallide; Adare, kannaDadallU sAkaSTu
 
 tiLivu dorakuva hAge mADaballevu.
 
@@ -198,7 +199,7 @@ rAgabEkAgide.
 
 namma nADinalli barahavannu baLasuvavara eNike ivattina
 vEgadalli heccAguttiddare, ellarU barahaballavarAga
-bEkiddalli nAvu adakkAgi 2060ra varege kAyabEkAdItu
+bEkiddalli nAvu adakkAgi ೨೦೬೦ra varege kAyabEkAdItu
 endu lekkahAkalAgide. adakkintalU modalE baraha
 ellarannU talapuvantAgabEkidda lli adakkAgi nAvu ellavU
 IgiruvanteyE irali endu summane kuLitiruva badalu
@@ -210,23 +211,23 @@ EnAdarU mADalu horaDabEku.
 
 <a id="sec-1-3"></a>
 
-[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-1-3) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-1--preview)
+[English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-1--preview) | [Eke →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn-eke#sec-1-3)
 
-## 1.3 barahavannu kaliyadiralu kAraNagaLu
+## ೧.೩ barahavannu kaliyadiralu kAraNagaLu
 
 
 janaru barahavannu kaliyadiralu halavu kAraNagaLive:
 adara neravininda tAvu paDeyaballa prayOjanagaLu
-entahavu embudannu tiLiyadiruvudu ondu mukhya
+entahavu embudannu tiLiyadiruvudu ondu mukya
 kAraNa.
 
 barahavannu kalitiruva mattu adannu tamma dinanityada
 jIvanadalli baLasuva tandetAyiyaru (adarallU
-mukhyavAgi tAyandiru) maneyalli iruvarAdare, avara
+mukyavAgi tAyandiru) maneyalli iruvarAdare, avara
 makkaLu barahavannu kaliyade iruvudE illa.
 hAgAgi, doDDa varige baraha kalisuvudarinda, mattu
 idu sAdya vAgadidda rU, avarige barahada kalike yAke
-mukhya embudannu 'ichisikoDuvudarinda, avaru tamma
+mukya embudannu 'ಿchisikoDuvudarinda, avaru tamma
 makkaLa kalikege aDDi paDisadante mADalu baruttade.
 
 baDatana, hattira SAlegaLilladiruvudu, jAtiya
@@ -234,18 +235,18 @@ samasyegaLu modalAda bEreyU halavu kAraNa
 gaLindAgiyU makkaLu SAlege hOgadiruttAre, mattu
 hOgatoDagidarU naDuveyE nillisibiDuttAre.
 
-idalla hye barahakke sambandisidantaha eraDu mukhyavAda
+idalla hye barahakke sambandisidantaha eraDu mukyavAda
 toDakugaLindAgiyU makkaLu mattu doDDavaru
 barahadinda dUra uLiyuva hAge Aguttade:
 
-(1) barahakke baLasuva baravaNige tumbA toDakina
+(೧) barahakke baLasuva baravaNige tumbA toDakina
 
 dAgiruvudu, illavE baravaNige sulabavAgiddarU adannu
 
 barahakke aLavaDisiruva bageyalli tumbA tappugaLAgiru
 vradu ondu kAraNa; mattu
 
-(2) barahagaLalli tumbA eravalu padagaLannu
+(೨) barahagaLalli tumbA eravalu padagaLannu
 
 baLasuvudarindAgi, illavE mAtu badalAdAgalU
 baraha badalAgade uLiyuvudarindAgi, adu ADunuDi
@@ -257,12 +258,12 @@ yinda tIra bErAgiruvudu innondu kAraNa.
 
 <a id="sec-1-4"></a>
 
-[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-1-4) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-1--preview)
+[English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-1--preview) | [Eke →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn-eke#sec-1-4)
 
-## 1.4 baravaNigeya toDaku
+## ೧.೪ baravaNigeya toDaku
 
 
-barahadalli baLakeyAguva baravaNige eraDu 5 bagegaLalli
+barahadalli baLakeyAguva baravaNige eraDu ೫ bagegaLalli
 kaliyalu. mattu baLasalu toDakinadAgiraballudu: A
 baravaNigeyE tumbA toDakinadAgirabahudu, illa vE
 adannu ondu nuDiya barahakke aLavaDisiruva bage
@@ -271,7 +272,7 @@ toDakinadAgirabahudu.
 ettugege, caynIs‌ barahagaLalli baLakeyAguva
 baravaNigeyE tumbA toDakinadu; adaralli baruva
 barigegaLu nEravAgi uligaLannu sUcisuvudilla; kelavu
-barigegaLu huruLu(artha)gaLannu tiLisuvudakkAgi
+barigegaLu huruLu(arta)gaLannu tiLisuvudakkAgi
 baLakeyAguttave, mattu innu kelavu barigegaLu
 huruLinondige padagaLa ulipa(uccAraNeya)nnU
 tiLisuvalli baLakeyAguttave. hAgAgi, caynIs‌ barahavannu
@@ -306,14 +307,14 @@ koLLuttade.
 
 cikka makkaLa kalikeyU barahada toDakannu
 avalambisiraballudu. baravaNige tumbA sulabavAgide
-yAdalli, eraDu mUru varSa kalita mEle SAleyannu
+yAdalli, eraDu mUru varSha kalita mEle SAleyannu
 biTTu hOguvavarU adara baLakeyannu munduvarisa
 ballaru; adu toDakinadAgideyAdalli, avarige adara
 svalpa samayada kalikeyinda yAva prayOjanavannU
 paDeyalu baruvudilla; yAkendare, dinapatrike, vArapatrike
 gaLantahavannu Odalu barabEkiddarU avaru antaha
 
-baravaNigeyannu biDade halavu varSagaLa varege kalitira
+baravaNigeyannu biDade halavu varShagaLa varege kalitira
 bEkAguttade.
 
 hAgAgi, bEre toDukugaLa hAge, intaha baravaNigeya
@@ -361,9 +362,9 @@ hAge mADalu baruttade, mattu hAge mADuvudarinda
 barahavannu ellarU kaliyuva hAge mADuva kelasavU
 heccu sulabavAguttade.
 
-kannaDakke avaSyaviruva 31 barigegaLannu mAtra
-barahadalli uLisikoLLu vudu, muttu samskxta
-eravalugaLannella hEge 'Odutte EveyO hAgeyE
+kannaDakke avaSyaviruva ೩೧ barigegaLannu mAtra
+barahadalli uLisikoLLu vudu, muttu samskruta
+eravalugaLannella hEge 'Odutte ೇveyO hAgeyE
 bareyuvudu ennuva eraDu mArbA DugaLa mUlaka kannaDa
 barahada kalike mattu baLake tumbA sulabavAguva hAge
 mADaballevu, mattu hIge mADuva mUlaka kannaDa
@@ -371,16 +372,16 @@ barahavannu ellarigU talapisuvalli ondu doDDa hejje
 mundirisaballevu.
 
 idannu naDesuvudu hEge embudannu mundina
-pasuge(adhyAya)gaLalli tiLisalAgide.
+pasuge(adyAya)gaLalli tiLisalAgide.
 [↑ oLapiDige hintirugi](#oLapiDi)
 
 ---
 
 <a id="ch2"></a>
 
-[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#ch2) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-2--writing-as-it-is-pronounced)
+[English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-2--writing-as-it-is-pronounced) | [Eke →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn-eke#ch2)
 
-# adhyAya 2 — Oduva hAge bareyuvudu
+# adhyAya ೨ — Oduva hAge bareyuvudu
 
 
 [↑ oLapiDige hintirugi](#oLapiDi)
@@ -389,9 +390,9 @@ pasuge(adhyAya)gaLalli tiLisalAgide.
 
 <a id="sec-2-1"></a>
 
-[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-2-1) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-2--writing-as-it-is-pronounced)
+[English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-2--writing-as-it-is-pronounced) | [Eke →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn-eke#sec-2-1)
 
-## 2.1 baravaNigeya ALa
+## ೨.೧ baravaNigeya ALa
 
 
 ondu nuDiya barahagaLannu Oduva hAge bareyuvudidda re
@@ -407,24 +408,24 @@ gaLannu eraDu-mUru tingaLugaLallE salIsAgi Odalu
 kaliyabahudu; Adare, bareyuvudakkU OduvudakkU
 naDuve tumbA vyatyAsagaLiruva ingliS‌, arEbik‌nantaha
 baravaNigegaLannu Odalu kaliyabEkiddalli adakke mUru-
-nAlku varSagaLE bEkAguttave.
+nAlku varShagaLE bEkAguttave.
 
 ondu baravaNigeyalli bareyuvudakkU OduvudakkU
 naDuviruva vyatyAsavannu baravaNigeya aLa embudAgi
 kareyalAguttade. ALa kaDimeyiruva baravaNigeyannu
 Odalu kaliyuvAga, adaralli barige(aktara)gaLigU
-uligaLigU naDuviruva sambandhavannu makkaLu tumbA
+uligaLigU naDuviruva sambandavannu makkaLu tumbA
 bEgane kanDukoLLuttAre, mattu idarindAgi, hosa hosa
 padagaLu kaNNi ge biddAga avannu makkaLu tAvE sulabavAgi
 OdikonDu munde hOguttAre.
 
 idakke badalu, heccu ALaviruva baravaNigeyannu
 Odalu kaliyuvAga, adaralli barigegaLigU uligaLigU
-naDuve yAva rItiya sambandha ide embudu makkaLige
-gottAguvudE illa. I sambandha tumbA sikkalu sikkalAgi
+naDuve yAva rItiya sambanda ide embudu makkaLige
+gottAguvudE illa. I sambanda tumbA sikkalu sikkalAgi
 iruvudE idakke kAraNa. hAgAgi, antaha baravaNigeyalli
 baruva ondondu padakkU adara OdigU naDuviruva
-sambandhavannu tiLidukonDu avaru adannu nenapinalli
+sambandavannu tiLidukonDu avaru adannu nenapinalli
 iTTukoLLabEkAgutta de, mattu OduvAga adannu nenapige
 tandukonDu OdabEkAguttade.
 
@@ -458,22 +459,22 @@ vAgi tOraballudu.
 
 <a id="sec-2-2"></a>
 
-[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-2-2) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-2--writing-as-it-is-pronounced)
+[English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-2--writing-as-it-is-pronounced) | [Eke →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn-eke#sec-2-2)
 
-## 2.2 kannaDa baravaNigeya ALa
+## ೨.೨ kannaDa baravaNigeya ALa
 
 
 kannaDada baravaNigeyalli kannaDadavE Ada padagaLa maTTige
 baravaNigeya ALa tumbA kaDime ide. hAgAgi, I
 padagaLannu Odalu mattu bareyalu kaliyuva kelasa
 tumbA sulabavAdudu. makkaLu I padagaLalli baruva
-barigegaLigU avugaLa OdigU naDuviruva sambandhavannu
+barigegaLigU avugaLa OdigU naDuviruva sambandavannu
 tumbA bEgane kanDukoLLaballaru, mattu idannomme
 kanDukonDa mEle, hosa hosa padagaLu edurAdAga
 lella avannu tAvAgiyE sulabavAgi OdikonDu munde
 hOgaballaru.
 
-Adare, kannaDa barahagaLalli baLakeyAguva samskxtada
+Adare, kannaDa barahagaLalli baLakeyAguva samskrutada
 eravalu padagaLa*maTTige idu nijavalla. avugaLalli
 baLakeyAguva ka-ay, ta-tha, da-dha, Sa-Sha modalAda
 ELenTu barigejODigaLa naDuviruva vyatyAsa avannu
@@ -494,11 +495,11 @@ baravaNigeyannAgisi, adara ALavannu heccisuttave.
 
 kannaDadavE Ada padagaLa Odannu makkaLu tammadAgisu
 ttiruva samayadallEnE ivattina hAge, intaha
-samskxtadinda eravalu paDeda padagaLa OdannU avarige
+samskrutadinda eravalu paDeda padagaLa OdannU avarige
 kalisahoraTalli, kannaDadavE Ada padagaLa OdinallU
 avaru hinde bILuttAre. yAkendare, kannaDadavE Ada
 padagaLa Odinalli barigegaLigU avugaLa OdigU nEravAda
-sambandhavide embudannu kanDukoLLalu I sikkalu Odina
+sambandavide embudannu kanDukoLLalu I sikkalu Odina
 padagaLu aDDiyAguttave.
 
 [↑ oLapiDige hintirugi](#oLapiDi)
@@ -507,9 +508,9 @@ padagaLu aDDiyAguttave.
 
 <a id="sec-2-3"></a>
 
-[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-2-3) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-2--writing-as-it-is-pronounced)
+[English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-2--writing-as-it-is-pronounced) | [Eke →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn-eke#sec-2-3)
 
-## 2.3 kannaDa barahadalli samskxta padagaLu
+## ೨.೩ kannaDa barahadalli samskruta padagaLu
 
 samskxta padagaLannu kannaDa barahagaLalli baLasuvAgalella
 avannu samskxtadalliruva hAgeyE bareyabEku
@@ -518,14 +519,14 @@ em
 embudAgi kannaDada maTTige tIrA anavaSyakavAda ondu
 kaTTaleyannu kannaDada barahagAraru mADikonDiddA re.
 I barahagAraralli hecci navarU barahavannu kaliyuva
-samayadalli samskxtada padasvarUpavannu tammadAgisi
+samayadalli samskrutada padasvarUpavannu tammadAgisi
 konDiddAre. hAgAgi, avarige hIge mADuvudu heccu
 kaScavendenisuvudilla.
 
 Adare, kannaDa barahagaLannu baLasabEkAgiruva jana
 sAmAnyara maTTige, mattu kaliyabEkAgiruva makkaLa
 maTTige, idu ondu tumbA toDakina kelasavAgide.
-yAkendare, eravalAgi paDediruva I samskxta padagaLannu
+yAkendare, eravalAgi paDediruva I samskruta padagaLannu
 uliyuvAga yArU (mElvargada barahagArarU) intaha
 kaTTaleyannu pAlisuvudilla. avugaLalli kANisuva halavu
 bageya vyatyAsagaLannu heccina kannaDigarU tamma Odinalli
@@ -535,13 +536,13 @@ hAgAgi, heccina kannaDigarigU samskxta padasvarUpa
 paricitavAdudalla. kannaDa barahagaLannu Odalu
 kaliyuvudakkAgi mattu kannaDadalli bareyuvudakkAgi mAtra
 avaru I samskxtada padastarUpavannu tammadAgisikoLLa
-sa) va 4 A 4
+sa) va 4 A ೪
 
 bEkAguttade.
-ettugege, samskxta padagaLalli baruva alpaprANa-
+ettugege, samskruta padagaLalli baruva alpaprANa-
 mahAprANa vyatyAse' nUraralli tombattombattu mandi
 kannaDigara Odinalli illavE mAtinalli kANisuvudE illa.
-mukhyamantri embudu ellara mAtinallU mukhyamantri
+mukhyamantri embudu ellara mAtinallU mukyamantri
 endAguttade, pradhAsa mattu pradAsagaLu illavE
 madhya mattu madyagaLu ondE rItiyAgi kELisuttave.
 I barigegaLannu kalisuva samayadalli kelavaru
@@ -562,7 +563,7 @@ eccaradinda I padagaLannu baLasuva kaDegaLalli mAtra
 hAge uliyuttAre.
 
 Sa-Sha, ya-ru modalAda bEre kelavu vyatyAsagaLU
-idE rItiyalli samskxtadinda eravalAgi paDeda 'paDagaLa
+idE rItiyalli samskrutadinda eravalAgi paDeda 'paDagaLa
 baravaNigeyalli kANisutta ve; Adare, avugaLa Odinalli
 kANisuvudilla. viSESha embudAgi bareyuttEve; Adare
 viSESa embudAgi OduttEve. khuShi embudAgi
@@ -572,24 +573,24 @@ kelavu mandi khakArada badalu ru embudannu
 
 baLasuvAga adaralli ruva ukAravannu tuTiyannu
 dunDagAgisi uliyuva badalu agalisi uliyuttA re;
-Adare yArU (sa 0sku ta panDitarU) yakAravannu
-samskxtadalli baruva hAge Du svaravAgi uliyuvudilla.
-samskxta padagaLalli kANisuva visargavU hIgeyE.
+Adare yArU (sa ೦sku ta panDitarU) yakAravannu
+samskrutadalli baruva hAge Du svaravAgi uliyuvudilla.
+samskruta padagaLalli kANisuva visargavU hIgeyE.
 padagaLa koneyalli adannu hakAravAgi uliyalAguttade,
 mattu adara baLika adara. hindidda tereyuli(sta ra)yannu
 innomme uliyalAguttade (bahuSaH - bahuSaha, kx tiH
 da krutija), mattu padagaLa naDuve bandiruvalli adannu
-adara baLika baruva mucu _li(vya 0jana)ya rUpadalli.
+adara baLika baruva mucu _li(vya ೦jana)ya rUpadalli.
 uliyalAguttade, illavE hakAravAgi mArraDisa
 lAguttade (duHkha - dukka, antaHpura - antappura/
 antahpura).
 
-I rIti, samskxtadinda eravalAgi paDeda padagaLanne lla
+I rIti, samskrutadinda eravalAgi paDeda padagaLanne lla
 nAvu Odina illi namE mAtina maTTa ge kannaDada pada
 svarUpakke hondikeyAguva hAge halavu bagegaLalli
 mAThraDisikonDiddEve: Adare, barahadalli mAtra ivannu
-samskxtadalli ruva “hAgeyE uLisikoLLalu prayatnisu
-tri dde 6.
+samskrutadalli ruva “hAgeyE uLisikoLLalu prayatnisu
+tri dde ೬.
 
 kannaDada baravaNigeyalli kANisuva alpaprANa-
 mahAprANa, khakAra-rukAra, ShakAra-SakAra, visarga-
@@ -601,7 +602,7 @@ neleyalli hELuttiddEnallade mElmElina avalOkanada
 illa vE Uheya neleyalli hELuttilla.
 nAnu uliyaripeyalli (phoneTiks‌-dvanivijnAnadalli)
 
-sAkaSTu pariNatiyannu paDediddE nema matta halavu varSa
+sAkaSTu pariNatiyannu paDediddE nema matta halavu varSha
 adannu em‌. e. kaligarige kalisi siddEne. adara mEle
 halavu samSOdanegaLannU (inglenDina lIDs‌
 yunivarliTiyalli mattu amerikAda sTAn‌pharD‌ yuni
@@ -633,7 +634,7 @@ barahavannU badalAyisikoLLuvudondE dAri.
 kannaDa barahadalli sadyakke heccu selling‌ samasye gaLilla.
 kannaDadavE Ada "padagaLannu bareyuvalli yAva
 samasyeyU illa. antaha padagaLannella nAvu heccu
-kaDime Oduva hAgeyE bareyutte ve. samskxtadinde
+kaDime Oduva hAgeyE bareyutte ve. samskrutadinde
 eravalAgi paDeda padagaLannu bareyuvalli mAte halavu
 samasyegaLive. avannella hOgalADisikonDalli namma baraha
 bahaLa maTTige selling‌ samasyeyilla da barahadAgaballu du.
@@ -644,17 +645,17 @@ bahaLa maTTige selling‌ samasyeyilla da barahadAgaballu du.
 
 <a id="sec-2-4"></a>
 
-[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-2-4) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-2--writing-as-it-is-pronounced)
+[English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-2--writing-as-it-is-pronounced) | [Eke →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn-eke#sec-2-4)
 
-## 2.4 kannaDa baravaNigeya hinnaDavaLi (caritre)
+## ೨.೪ kannaDa baravaNigeya hinnaDavaLi (caritre)
 
 
-kannaDa barahadalli, mEle vivarisida hAge, samskxta
-padagaLannu samskxtadalliruva hAgeyE bareyuti ruvudakke
+kannaDa barahadalli, mEle vivarisida hAge, samskruta
+padagaLannu samskrutadalliruva hAgeyE bareyuti ruvudakke
 kannaDa ba cajigeyu ha hinnaDavaLiyU ondu kAraNa.
 
-samskxta, pAli, prAkruta modalAda inDO- Aryan‌
-nuDigaLannu barahaki LisuvudakkAgi tayArAgidda brAhmi E
+samskruta, pAli, prAkruta modalAda inDO- Aryan‌
+nuDigaLannu barahaki LisuvudakkAgi tayArAgidda brAhmi ೇ
 baravaNeavTanda kannaDa baravaNige beLedu bandide.
 
 idannu tamma nuDige aLavaDisikoLLuva samayadalli
@@ -663,23 +664,23 @@ kelavu heccina barigegaLannu (E, O, a mattu AgaLannu)
 hosadAgi unTumADi sErisikonDiddaru.
 
 Adare, ivugaLondige kannaDakke (haLegannaDakke)
-bEDavAdarU kannaDadalli baLakeyAguva samskxtada
+bEDavAdarU kannaDadalli baLakeyAguva samskrutada
 eravalu padagaLannu bareyalu bEkAguva mahAprANa
 barigegaLu (aychakathapa mattu pharuDhadhabha), ya, Sa, “hay
-ay, av, anusvAra (0) mattu visarga (6) embavugaLannU
+ay, av, anusvAra (೦) mattu visarga (೬) embavugaLannU
 uLisikonDiddaraka.
-idarindAgi, antaha samskxtadinda eravalAgi paDeda
-padagaLannu kannaDa barahagaLalli "ccu kaDime samskxtadalli
+idarindAgi, antaha samskrutadinda eravalAgi paDeda
+padagaLannu kannaDa barahagaLalli "ccu kaDime samskrutadalli
 iruva go bareyalu 'baruti. de.
 
 kannaDa barahagArara I AykeyindAgi, ivattina kannaDa
 barahagaLalli padagaLa OdigU avugaLa baravaNigegU
 naDuve halavu bageya vyatyAsagaLu kANisuva hAgAgide.
-eravalAgi paDeda samskxta padagaLannu oduvAga, illavE
+eravalAgi paDeda samskruta padagaLannu oduvAga, illavE
 mAtinalli NOIR) kannaDa paDaNaLa sva sharUpakke
 hondikoLLuva hAge avugaLalli halavu” baggeya
 mArbA DugaLannu mADikoLLa lAguttade. Adare
-bareyuvAga mAtra. avannu hecu kaDime samskxtadalli ruva
+bareyuvAga mAtra. avannu hecu kaDime samskrutadalli ruva
 hAgeyE bareyabEkAgide.
 
 [↑ oLapiDige hintirugi](#oLapiDi)
@@ -688,9 +689,9 @@ hAgeyE bareyabEkAgide.
 
 <a id="sec-2-5"></a>
 
-[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-2-5) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-2--writing-as-it-is-pronounced)
+[English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-2--writing-as-it-is-pronounced) | [Eke →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn-eke#sec-2-5)
 
-## 2.5 eravalu padagaLa baravaNige
+## ೨.೫ eravalu padagaLa baravaNige
 
 
 kannaDakke halavu nuDigaLinda padagaLu eravalAgi bandive,
@@ -703,7 +704,7 @@ kannaDigarigide.
 ettugege, ingliS‌ninda eravalAgi paDeda padagaLannu
 nAvu A nuDiyalli ruva hAge bareyuvudilla. adakke
 bEkAguva barigegaLu namma baravaNigeyallilla diruvudu
-idakke kAraNa. A padagaLannu nAvu hEge Odutta IveyO
+idakke kAraNa. A padagaLannu nAvu hEge Odutta ೀveyO
 hAgeyE bareyuttEve:
 Tays‌, TIvi, rEDiyO, DASvar‌, DyUTa
 modalAda padagaLalli kANisuva TakAra- karagalu
@@ -736,7 +737,7 @@ bEreyU kelavu ingliS‌ eravalu padagaLalli
 ShakAravannu baLasalAguttide; ettugege, -101 emba
 oTTinalli konegoLLuva padagaLannu bareyuvAga
 ShakAravannu baLasalAguttade (isT‌ skirEhanas‌,
-aiproDaSTas‌, DisTi byUShas‌). illU kUDa ingliS‌
+aಿproDaSTas‌, DisTi byUShas‌). illU kUDa ingliS‌
 nuDigara ulipinalli S‌ embudE ide, mattu heccina
 kannaDigara ulipinallU S‌ embudide.
 
@@ -748,7 +749,7 @@ pakAragaLemba alpaprANa uligaLAgiyE kANisikoLLuttave.
 
 idallade, ingliS‌ nuDigara ulipinalliyU ivu
 mahAprANa uligaLAgi kANisikoLLuvudilla; idakke
-badalu, averaDU ujjuli(1103/110)gaLAgi kANisi
+badalu, averaDU ujjuli(110೩/110)gaLAgi kANisi
 koLLuttave. kelavu mandi kannaDigarU ivugaLalli
 phakAravannu ondu ujjuliyAgi uliyuttAre. Adare,
 idannu bareyalu ph‌ emba bEreyE barige baLakeyallide
@@ -768,12 +769,12 @@ hAgAgi, avannU mahAprANa barigegaLAgi bareya
 bEkendilla.
 
 samskxtadinda eravalAgi paDeda padagaLannu mAtra
-nATa jaga OduttEveyO hAge bareyade samskxta
+nATa jaga OduttEveyO hAge bareyade samskruta
 nuDiyalli avu hEge iveyO hAge bareyabEkAgide.
 kannaDa baraha ivattu sAmAnya kannaDigarinda dUra
-uLiyuti Siruvudakke adaralli samskxta padagaLige I rIti
+uLiyuti Siruvudakke adaralli samskruta padagaLige I rIti
 anavaSyakavAgi om heccina svAnavannu koTTiruvudu
-ondu "mukhya vAda kAraNa.
+ondu "mukya vAda kAraNa.
 
 A kannaDa barahavannu kaliyuvAga halavAru
 odinalli kANisadiruva barigegaLannu makkaLu kaliya
@@ -798,20 +799,20 @@ kalisuvudakkAgi avannu cikka makkaLa mEle hEralAguttade.
 
 <a id="sec-2-6"></a>
 
-[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-2-6) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-2--writing-as-it-is-pronounced)
+[English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-2--writing-as-it-is-pronounced) | [Eke →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn-eke#sec-2-6)
 
-## 2.6 samskxtada eravalu padagaLa baravaNige
+## ೨.೬ samskxtada eravalu padagaLa baravaNige
 
 
 haLegannaDada kAladalli, mattu amEleyU ittIcegina
-varege, samskxta eravalugaLalli halavannu kannaDada ulipige
+varege, samskruta eravalugaLalli halavannu kannaDada ulipige
 pe tadba vagaLAgi mAra: Disi baLasuva
 Ayke barahagArarigittu. CS: intaha padagaLa
 baravaNigeyallU Odu barahagaLa naDuve hecci na vyatyAsa
 gaLiralilla.
 
 Adare sa cege, kannaDa barahadalli baLakeyAguva
-hecci na samskxta eravalugaLannU samskxtadalliruva
+hecci na samskruta eravalugaLannU samskrutadalliruva
 hAgeyE barehelAguttide, mattu hAge bakeyatuttidu.
 mattu ulipige anusAravAgi avugaLa baravaNigeyannu
 mArbaDisuvudu tappendu tiLiyalAguttide. idarindAgi,
@@ -822,11 +823,11 @@ koLLuttive.
 
 =, vyatyAsa sagaLannu hOgalADisuvudakkAgi kannaDa
 baravaNigeyalli ivattu. kelavu mArbADugaLannu mADikoLLa
-bEkAgide. bErellA 'eravalu padagaLa hAge. samskxtave
+bEkAgide. bErellA 'eravalu padagaLa hAge. samskrutave
 eravalu padagaLannU heccina kannaDigarU hEge
 uliyuttArO hAge bareyabEku.
 
-(1) samskxtadinda eravalAgi paDeda padagaLalli baruva
+(೧) samskrutadinda eravalAgi paDeda padagaLalli baruva
 mahAprANa 'bingegaLannu heccina kannaDigarU alpaprANa
 barigegaLAgi uliyuttA re. hAgAgi. Antaha pa padagaLannu
 bareyuvAga avannu alpaprANa barigegaLAgiyE bareyalu
@@ -835,22 +836,22 @@ barahagaLalli ivattu kaDDAyavAgi baLakeyAguttiruva
 hattu barigegaLannu (khachaThathapha mattu pharuDhadhabhagaLannu)
 badigirisabahudu.
 
-(2) kannaDa barahadalliruva kujANasamagaLemba aydu
-mUguli(anunAsika)gaLalli ku-iAgaLemba modalina
+(೨) kannaDa barahadalliruva kujANasamagaLemba aydu
+mUguli(anunAsika)gaLalli ku-iಾgaLemba modalina
 eraDu mUguligaLannu baLasadiralu baruttade. yAkendare,
 kannaDa padagaLalli avu bEre mucculigaLa modalaSTE
-baruttave mattu A jAgadalli ellA mUguligaLannU 0
+baruttave mattu A jAgadalli ellA mUguligaLannU ೦
 rUpa dalli kANisalAgutta de.
 
-avu tammadE Ada rUpadalli kANisuvudu samskxta
+avu tammadE Ada rUpadalli kANisuvudu samskruta
 dinda eravalAgi paDeda ajjAsa, vAjkaya modalAda
 kelavE kelavu padagaLalli mAtra. intaha padagaLalli
 ikAravannu nakAravAgi (ajYAna, jYAti) mattu
 jakAravannu gakAravAgi (vArmaya) bareyabahudu.
 
-(3) yakAravannu ondu tereyuli (svara) embudAgi
-tiLiyalAgide. samskxtadalli adu ondu 'ereyuliyAgi
-baLakeyAgutti dudda" idakke kAraNa. (samskxtadalli adakke
+(೩) yakAravannu ondu tereyuli (svara) embudAgi
+tiLiyalAgide. samskrutadalli adu ondu 'ೆreyuliyAgi
+baLakeyAgutti dudda" idakke kAraNa. (samskrutadalli adakke
 khU emba uda rUpava. Adare, kanna Digaru
 adannuru illavE Thi embudAgi rakArakke ukAra illa vE
 ikAravannu sErisi uliyuttAre. bEre lavaru rakArakke
@@ -861,19 +862,19 @@ Adare, yArU (samskxta panDitarU) yakAravannu
 ondu tereyuliyAgi uriyuvudilla.
 
 I tereyuliya ulipu hEgiraballudu embudannu
-tiLiyalu samskxtada kxti padavannu myA nu:
+tiLiyalu samskrutada kxti padavannu myA nu:
 I padada ulipanalli ka emba tereyuli bandideyendu
 hELabEkAdare, kakAra mattu takAragaLa naDuve rakAra
 mAtra irabEku mattu A pada eraDu ulikante
 (syllable)gaLinda kUDirabEku.
 
-kannaDigara (mattu samskxta panDitara) ulipinalli I
+kannaDigara (mattu samskruta panDitara) ulipinalli I
 pada eraDu upika35gaLadi kUDiruttadeyEnO "nija;
 Adare, kakAra mattu takAragaLa naDuve rakAradondige
 ondu tereyuliyU (dunDagina ukAra, tuTi agalisida
 ukAra illave ikAra) bandiruttade.
 
-(4) ShakAravU idE rItiyalli heccinavara mAtinallU
+(೪) ShakAravU idE rItiyalli heccinavara mAtinallU
 SakAravAgi kANisikoLLutta de. kelavara mAtinalli ShakAra
 mattu SakAragaLeraDU. sakAravAgi kANisikoLLutta ve
 yembudu bEreyE viSaya; adu tappu embudAgi
@@ -884,13 +885,13 @@ heci rinavarU tappe buda tida ;luhOguvudilla.
 SakAra mattu ShakAragaLa naDuve ulipinalli vyatyAsa sa
 videyendu hELabEkiddalli, takAra mattu TakAragaLannu
 uliyuvAga yAva rItiyalli nAlige bAyiya
-mElbhAgada (anguLina) hattira hOguttadeyO adE
+mElbAgada (anguLina) hattira hOguttadeyO adE
 rItiyalli SakAra-ShakAragaLannu uccarisuvAgalU
 hOgabEku.
 
 takAravannu uliyuvAga anguLannu nAligeya
-mElbhAga muTTuttade mattu TakAravannu uliyuvAga
-nAligeya aDibhAga muTTuttade. idakkAgi TakAravannu
+mElbAga muTTuttade mattu TakAravannu uliyuvAga
+nAligeya aDibAga muTTuttade. idakkAgi TakAravannu
 uliyuvAga nAlige oLakke maDicikoLLuttade.
 
 Adare, heccina kannaDigara mAtinallU SakAra mattu
@@ -916,8 +917,8 @@ SakAra bErAva padadallU kANisikoLLuvudillavAda
 kAraNa, intaha padagaLallU kappa, saSva, SruSca embudAgi
 SakAravannu baLasuvudarinda tondareyAgadu.
 
-(5) visarga(H )vannu duHkha, antaHkaraNa, bahuSaH
-embantaha kelavE kelavu samskxtada eravalu padagaLalli
+(೫) visarga(H )vannu duHkha, antaHkaraNa, bahuSaH
+embantaha kelavE kelavu samskrutada eravalu padagaLalli
 kANabahudu. IgAgalE sakAra- saharagareduru bandiruva
 I barigeyannu sakAra-SakAragaLondige sErisi ottu
 barigeyAgi kANisalAguttade (siHsAra-sislAra,
@@ -927,7 +928,7 @@ Leduru ottubarigeyAgi mattu padada koneyalli
 hakAravAgi heccina kannaDigarU uliyuva hAge (dukka,
 antakkaraNa mattu bahuSaha embante) kANisabahudu.
 
-(6) kannaDa barahadalli ay mattu avgaLemba eraDu
+(೬) kannaDa barahadalli ay mattu avgaLemba eraDu
 barigegaLu anavaSyakavAgi sErikonDive. ulipinalli avu
 ay‌ mattu av‌ embavugaLinda bErAgilla. hAgAgi,
 avannu baLasabEkAgiruva kaDegaLallella ay‌ mattu
@@ -937,14 +938,14 @@ ay‌ mattu av‌ embavugaLu akAra mattu yakAra/
 vakAragaLa jODigaLAgidda rU samskxtada padagaLalli mattu
 sErikeya kaTTale(sandi)gaLalli ave bEre tereyuligaLa
 hAgiveyalla De tereyuli- mucculi jODigaLa hAgilla.
-hAgAgi, samskxtavA ikaraNagaLalli avannu bEreyE eraDu
+hAgAgi, samskrutavA ಿkaraNagaLalli avannu bEreyE eraDu
 tereyuligaLekadu tiLiyalAgide.
-idallade, samskxtadalli yakAra-vakAragaLu ay‌
+idallade, samskrutadalli yakAra-vakAragaLu ay‌
 mattu av‌ pe = eraDu tereyuli- mucculi
 jODigaLalli mAtra baruttavallade bEre jODigaLalli
 baruvudilla. hAgAgi, I eraDu tereyuli-mucculi
 jODigaLannu bareyuvudakkAgi e mattu av emba eraDu
-tereyuli barigegaLannu banu samskxtada maTTige
+tereyuli barigegaLannu banu samskrutada maTTige
 sariyAda krama.
 
 Adare, kannaDadalli yakAra mattu vakAragaLu
@@ -1001,10 +1002,10 @@ uLideDegaLalli cikka rUpa kANisikoLLuttade.
 idakke mUguligaLu mattu rakAra horapaDikegaLu:
 mUguligaLige ondu cikka rUpa (,, _. e) mattu
 eraDu doDDa rUpagaLu (ma, sa, Na embantaha rUpa
-mattu ellavakkU ondE Agiruva 0 rUpa) ive.
+mattu ellavakkU ondE Agiruva ೦ rUpa) ive.
 
 rakArakkU idE rItiyalli ondu cikka rUpa ( )
-mattu eraDu doDDa rUpagaLive (ra, 9). Adare, ivugaLa
+mattu eraDu doDDa rUpagaLive (ra, ೯). Adare, ivugaLa
 baLake mUguligaLa baLakeya hAgilla.
 
 padagaLa modalige mattu eraDu tereyuligaLa naDuve
@@ -1012,16 +1013,16 @@ rakAra bEre mucculigaLa hAge ra emba doDDa rUpadallE
 baruttade (rAma, arasa, baru); mucculigaLa baLikavU
 bEre mucculigaLa hAge, adu cikka rUpadallE baruttade
 (pratime, patrike). Adare, tereyuli mattu mucculigaLa
-naDuve idu 9 emba bErondu doDDa rUpadalli
+naDuve idu ೯ emba bErondu doDDa rUpadalli
 baruttade (mArpADu, aryaru).
 
 I horapaDikege innondu horapaDikeyU ide!
 rakAra ondu mucculiyE AdarU tereyuli mattu
-rakAragaLa naDuve idu 9 emba eraDanE doDDa
+rakAragaLa naDuve idu ೯ emba eraDanE doDDa
 rUpadalli baruvUbadalu ra emba modalanE doDDa
 rUpadalli baruttade (bakrI, karraNe).
 kannaDa barahavannu kaliyuvavarige rakArada I
-mUraneya rUpa (9 embudu) tondare koDuttade.
+mUraneya rUpa (೯ embudu) tondare koDuttade.
 yAkendare, ulipinalli adu innondu mucculiya
 modalu baruvudAdarU barahadalli A mucculiya
 baLika baruttade! ettugege, mArpADu padada ulipinalli
@@ -1035,7 +1036,7 @@ baruva rakAravannu bEre mucculigaLa hAge adara
 modalaneya doDDa rUpadallE bareyabEku. (ettugege,
 mArpADu embudannu mArbADu embudAgi bareya
 bEku). IgalU kelavaru rakAravannu A rIti bareyu
-ttAre. hIge mADidalli adara 9 emba doDDarUpa
+ttAre. hIge mADidalli adara ೯ emba doDDarUpa
 bEkAguvudilla.
 
 [↑ oLapiDige hintirugi](#oLapiDi)
@@ -1044,13 +1045,13 @@ bEkAguvudilla.
 
 <a id="sec-2-7"></a>
 
-[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-2-7) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-2--writing-as-it-is-pronounced)
+[English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-2--writing-as-it-is-pronounced) | [Eke →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn-eke#sec-2-7)
 
-## 2.7 hanta hantavAgi baLakege taruvudu
+## ೨.೭ hanta hantavAgi baLakege taruvudu
 
 
 eravalu padagaLa baravaNigeyalli naDesabEkAgiruva I
-mArA iDugaLannu hanta hantavAgi baLakege taralu barutta de.
+mArA ಿDugaLannu hanta hantavAgi baLakege taralu barutta de.
 modalige Urina hesa rugaLalli mattu mandiya
 hesarugaLalli kANisuva I barigegaLannu badalAyisa
 dirabahudu. mArpADige janaru oggi hOdamEle
@@ -1064,7 +1065,7 @@ UrugaLa mattu. mandiya hesa sarugaLannu horagirisalAgide.
 
 idallade, baravaNigeyannu makkaLige kalisuva
 samayadalli modalige kannaDakke avaSyavAgi bEkAguva
-31 barigegaLannaSTcE kalisabEku. Iga A-a, pa, ja
+೩೧ barigegaLannaSTcE kalisabEku. Iga A-a, pa, ja
 embantaha kannaDa barahagaLalli baLakeyAguva kelavu
 heccina barigegaLannu makkaLige modaligEnE hEge
 hELikoDuvudillavO hAgeyE mahAprANa, kha, Sha
@@ -1072,7 +1073,7 @@ modalAda I heccina barigegaLannU ivattina hAge
 modaligEnE hELikoDabEkAgilla.
 
 hIge mADuvudarinda, Odinalli baruva barigegaLigU
-uligaLigU naDuviruva sambandhavannu makkaLige sulaba
+uligaLigU naDuviruva sambandavannu makkaLige sulaba
 vAgi tiLidukoLLalu baruttade, mattu avara Odina kalike
 bEgane munde hOguttade. keLavargada makkaLigU Odina
 kalike ivattina hAge heccu tondare koDuvudilla.
@@ -1083,20 +1084,20 @@ kalike ivattina hAge heccu tondare koDuvudilla.
 
 <a id="sec-2-8"></a>
 
-[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-2-8) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-2--writing-as-it-is-pronounced)
+[English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-2--writing-as-it-is-pronounced) | [Eke →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn-eke#sec-2-8)
 
-## 2.8 samskxta padagaLu mArbaDade uLidilla
+## ೨.೮ samskruta padagaLu mArbaDade uLidilla
 
 
-samskxtadinda eravalAgi paDeda padagaLannu IgAgalE
+samskrutadinda eravalAgi paDeda padagaLannu IgAgalE
 his‌. halavu bagegaLalli mArpaDisi baLasutti ddEve. kannaDada
 sogaDige avannu hondisikoLLabEkembudE “avannu hIge
-mArpaDisalu mukhya kAraNa. intaha padagaLalli baruva
+mArpaDisalu mukya kAraNa. intaha padagaLalli baruva
 mahAprANa barigegaLu, ShakAra, yakAra modalAduvannu
 alpaprANa barigegaLu, SakAra, rakAra embudAgi
 mAra SaDisuvudU intahadE ondu prayatnavAguttade.
 
-nAvu samskxtadinda eravalAgi paDediruva Slupta
+nAvu samskrutadinda eravalAgi paDediruva Slupta
 embantaha ta padagaLalli yakArada hAgeyE iruva
 bErondu tereyuliyide. Adare, adannu bareyalu
 kannaDa baravaNegeyalli barigeyilla. hAgAgi, adannu lu
@@ -1104,7 +1105,7 @@ endE bareyuttEve. khakAravannu ru embudAgi
 bareyuvudu nAvu mADabEkAgiruva intahadE ondu
 mArpADu.
 
-eravalAgi paDediruva samskxta padagaLalli namma nuDige
+eravalAgi paDediruva samskruta padagaLalli namma nuDige
 hondikoLLuva hAge innU pam mArA DugaLannu
 nAvu IgAgalE mADikonDiddEve: padagaLa koneya
 udda A tereyuliyannu giDDa e tereyuliyAgi
@@ -1121,7 +1122,7 @@ rUpagaLalli eravalu paDeyuva badalu SrImanta,
 bhagavanta embantaha halaveNikeya (bahuvacanada)
 rUpagaLalli eravalu paDedidde ve, mattu avannE
 OreNikeyallU baLasuttiddEve (bharavantanasTu ).
-samskxta padagaLalli banda lakAravannu halaveDegaLalli
+samskruta padagaLalli banda lakAravannu halaveDegaLalli
 ira mAra DisikonDidde "ve (virala- -viraLa, bahala-
 bahaLa, pralaya- praLaya, “Odala- dvidaLa, kalamSa-
 kaLanka, kalEbara-kaLETara, tAla-tALa), mattu sakArada
@@ -1129,7 +1130,7 @@ modalu banda visargavannu ottakkaravAgi mArpaDisi
 konDiddEve (duHsAdya-dussAdhya, siHsantAsa-
 sissantAsa, siHsAra-sissAra).
 
-samskxtadalli kanTha, upavAsa, mAra, dESa. dIpa
+samskrutadalli kanTha, upavAsa, mAra, dESa. dIpa
 mAdali | padagaLu pullingadallive; jaTA, jihvA,
 tulasI, buddhi modalAdavu stIlingadallive; karma,
 kArya, carma, rahasya, tayla 'phodalAdavu napumsaka
@@ -1138,13 +1139,13 @@ napumsaka lingadallEnE baLasuttEve. mArka sikkitu,
 buddi bantu ennuttEvallade mArka sikkida, buddi
 bandaLu ennuvudilla.
 
-kannaDadalli mukhyavAgi hesarupada (nAmapada),
+kannaDadalli mukyavAgi hesarupada (nAmapada),
 paricepada pada), mattu esakapada (kriyApada)
 embudAgi mUru bageya padagaLive; Adare, samskxtadalli
 ivakke badalu nAmapada mattu kriyApada emba "raDu
 bageya pa padagaLaSTE baLakeyallive.
 
-samskxtadinda eravalAgi paDeda padagaLannu kannaDada
+samskrutadinda eravalAgi paDeda padagaLannu kannaDada
 vAkyagaLalli hondisikoLLuvudakkAgi nAvu kelavu
 nAmapadagaLannu hesarupadagaLAgi baLasuttEve, mattu
 bEre kelavannu paricepadagaLAgi baLasuttEve.
@@ -1169,15 +1170,15 @@ mattu asvAbAvikavAda paristitiyAgide.
 
 mEle sUcisida hAge, kannaDada barahagArarige
 samskxtada mEliruva kuruDu abimAnadindAgi kelavu
-viSayagaLalli nAvu I hakkannu kaLedukonDiddEve. samskxta
+viSayagaLalli nAvu I hakkannu kaLedukonDiddEve. samskruta
 padagaLannu "hEgeyE uliTuli, bareyuvAga mAta
-avannu samskxtadalli ruva hAgeyE bareyabEku (mElina
+avannu samskrutadalli ruva hAgeyE bareyabEku (mElina
 kelavu. apamidagaLannu biTTu); samskxta pratyayagaLannu
-baLasuvAga samskxtadavE Ada sIriteya kaTTa legaLannu
+baLasuvAga samskrutadavE Ada sIriteya kaTTa legaLannu
 baLasabEku enTa kaTTu pADugaLu intaha kuruDu
 abimAnadinda beLedu banduvallade bErEnalla.
-kannaDa barahagaLalli baLakeyAguva samskxtada eravalu
-padagaLannu OduvAgalU samskxtadalli Fd
+kannaDa barahagaLalli baLakeyAguva samskrutada eravalu
+padagaLannu OduvAgalU samskrutadalli Fd
 ra, embudAgi PR We iddAre; Adare,
 kannaDada maTTige idu sAdya vAgada mAtu. yAkendare,
 nTa erar‌ padagaLannu makkaLige kalisuva mandigU
@@ -1188,18 +1189,18 @@ avannu A rIti Odalu baruvudillavalla!
 
 <a id="ch3"></a>
 
-[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#ch3) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-3--other-languages-that-have-reformed)
+[English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-3--other-languages-that-have-reformed) | [Eke →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn-eke#ch3)
 
-# adhyAya 3 — baravaNigeyannu saripaDisikonDiruva nuDigaLu
+# adhyAya ೩ — baravaNigeyannu saripaDisikonDiruva nuDigaLu
 [↑ oLapiDige hintirugi](#oLapiDi)
 
 ---
 
 <a id="sec-3-1"></a>
 
-[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-3-1) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-3--other-languages-that-have-reformed)
+[English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-3--other-languages-that-have-reformed) | [Eke →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn-eke#sec-3-1)
 
-## 3.1 munnOTa
+## ೩.೧ munnOTa
 bEre nuDigaLinda padagaLannu eravalAgi paDeyuvAga,
 heccina nuDigaLallU avannu A nuDigaLa sogaDige
 hondikoLLuvante mArbaDisikoLLalAguttade. Adare,
@@ -1215,7 +1216,7 @@ avugaLa eNikeyannu hatOTiyalli irisikoLLalAgide.
 
 idallade, toDaku toDakAgiruva eravalu padagaLannu
 uLisikonDiruva kelavu nuDigaLallU makkaLige barahavannu
-kalisuvAga, modalina nAlkaydu varSagaLalli antaha
+kalisuvAga, modalina nAlkaydu varShagaLalli antaha
 eravalu padagaLannu avara kalikeyinda horage
 irisalAguttade, mattu makkaLu baravaNigeyalli sAkaSTu
 paLagida mElaSTE avannu avara kalikeyalli sErisikoLLa
@@ -1227,9 +1228,9 @@ lAguttade.
 
 <a id="sec-3-2"></a>
 
-[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-3-2) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-3--other-languages-that-have-reformed)
+[English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-3--other-languages-that-have-reformed) | [Eke →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn-eke#sec-3-2)
 
-## 3.2 koriyan nuDiya baravaNige
+## ೩.೨ koriyan nuDiya baravaNige
 
 
 koriyan‌ nuDiya barahadalli eraDu bageya barigegaLannu
@@ -1254,7 +1255,7 @@ sUcisuttave embudannu kaliyuvavaru gamanisuvante
 mADalu I barevaNigeyalli tumbA sulaba. hAgAgi,
 doDDavaru hangul‌nalli bareda barahagaLannu ondE
 dinadalli Odalu kaliyaballaru. makkaLigU idannu
-kaliyalu heccu kaSa vAguvudilla; ondu varSadoLage
+kaliyalu heccu kaSa vAguvudilla; ondu varShadoLage
 adaralli bareda. yAva barahavannu bEkiddarU avaru
 Odalu "kalitubiDuttA re.
 
@@ -1263,13 +1264,13 @@ barigegaLu nEravAgi uligaLige sambandisilla. ondondu
 padakkU intaha ondondu barigeyiruttade. hAgAgi,
 avannella ondondAgi kalitu nenapinalli risikoLLa
 bEkAguttade. intaha barigegaLannu kaliyalu makkaLige
-halavu varSagaLE bEkAguttave.
+halavu varShagaLE bEkAguttave.
 
 I eraDanE bageya barigegaLindAguva tondareyannu
 illavAgisalu, baDagu koriyAdalli caynIs‌
 eravalugaLannu hangul‌nallE bareyabEkemba, mattu
 adakkAgi hanja barigegaLannu baLasalEbArademba tIrmA na
-vannu 1949ralli mADalAgittu. I tIrmA poh,
+vannu ೧೯೪೯ralli mADalAgittu. I tIrmA poh,
 A nADinalli baraha bAradavarE illada hAge mADalAgide
 yendu hELalAguttade.
 
@@ -1296,9 +1297,9 @@ baLasalAguttade.
 
 <a id="sec-3-3"></a>
 
-[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-3-3) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-3--other-languages-that-have-reformed)
+[English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-3--other-languages-that-have-reformed) | [Eke →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn-eke#sec-3-3)
 
-## 3.3 panjAbi nuDiya baravaNige
+## ೩.೩ panjAbi nuDiya baravaNige
 
 
 panjAbi nuDiyannu bareyalu rurmuki emba hesarina
@@ -1306,8 +1307,8 @@ baravaNigeyannu baLasalAguttade. idu brAhmI
 baravaNigeyindalE beLeduba ndideyAdarU adaralli
 panjAbi padagaLannu ॥ bareyalu bEkAguva barige(akka ra)
 
-gaLannaSTE 9 chisikoLLa lAgide. samskxta padagaLannu
-samskxtadalli ps 5.1 barigegaLannu
+gaLannaSTE ೯ chisikoLLa lAgide. samskruta padagaLannu
+samskrutadalli ps ೫.1 barigegaLannu
 uLisikonDilla.
 
 panjAbi padagaLannu bareyalu bEkAguva bEre kelavu
@@ -1339,7 +1340,7 @@ yakAravannu sUcisaballa barigeyU panjAbi baravaNigeyallilla. hAgAgi, samskxta pa
 | samskxta | samsakaThita |
 | SrI | ThiSI |
 
-idallade, panjAbi baravaNigeyalli samskxtadalli
+idallade, panjAbi baravaNigeyalli samskrutadalli
 baruva halavu bageya otu barige(otta kxra) gaLannu
 sUcisalu baruvudilla. avu otu mucculi(vya njana)
 gaLAgi panjAbi janara ulipinalli kANisuvudU illa.
@@ -1352,22 +1353,22 @@ ettugege, padagaLa naDuve baruva ottubarigegaLella
 bEre bEre bagegaLalli avugaLa ulipina hAge baravaNige
 yallU badalAguttave:
 
-| samskxta | panjAbi | samskxta | panjAbi |
+| samskruta | panjAbi | samskruta | panjAbi |
 |---|---|---|---|
 | Sabda | Sabada | vidyA | vidia |
 | Sakti | Sakati | adhyAya | adhiAya |
 | bhakti | bhakati | anta | anta |
 
-samskxtada ottu barigegaLalli baruva yakAra panjAbi
+samskrutada ottu barigegaLalli baruva yakAra panjAbi
 baravaNigeyalli ikAravAguttade:
 
-| samskxta | panjAbi | samskxta | panjAbi |
+| samskxta | panjAbi | samskruta | panjAbi |
 |---|---|---|---|
 | vyAsa | viasa | sAya | niAya |
 | vyartha | viaratha | dhAsa | diana |
 | tAda | tigada | | |
 
-dA rItiyalli samskxta eravalu padagaLannu samskxtada
+dA rItiyalli samskruta eravalu padagaLannu samskrutada
 lliruva hAge AE hOgade avannu odinalli suva
 = bareyuvudarinda panjAbi baravaNigeyannu
 kaliyuva mattu baLasuva kelasa heccu sulabavAgide.
@@ -1378,22 +1379,22 @@ kaliyuva mattu baLasuva kelasa heccu sulabavAgide.
 
 <a id="sec-3-4"></a>
 
-[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-3-4) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-3--other-languages-that-have-reformed)
+[English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-3--other-languages-that-have-reformed) | [Eke →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn-eke#sec-3-4)
 
-## 3.4 inDonESiyan nuDiya baravaNige
-inDonESiyan‌ barahadalli sAkaSTu samskxtada eravalu
+## ೩.೪ inDonESiyan nuDiya baravaNige
+inDonESiyan‌ barahadalli sAkaSTu samskrutada eravalu
 padagaLu baLakeyAguttave; idallade, hesa padagaLannu
-unTumADuvallU samskxtada pada. mattu oTTu (pratyaya)
-gaLannu EE, intaha samskxtada eravalu
+unTumADuvallU samskrutada pada. mattu oTTu (pratyaya)
+gaLannu EE, intaha samskrutada eravalu
 padagaLa eNike A nuDiyalli tumbA heccide.
 
 Adare, A nuDiya baravaNigeyalli I eravalu
 padagaLannu Oduva hAgeyE bareyalAgutta deyallade
-samskxtadalli ruva hAge bareyuvudilla. idarindAgi,
+samskrutadalli ruva hAge bareyuvudilla. idarindAgi,
 samskxta padagaLigU I eravalu padagaLigU naDuve
 halava bageya vyatyAsagaLu kANisikoLLuttave:
 
-ettugege, samskxtada mahAprANa Who inDo
+ettugege, samskrutada mahAprANa Who inDo
 nESiyan‌ baravaNigeyalli alpa prANagaLAgi kANisikoLLu
 ttave maH
 
@@ -1408,10 +1409,10 @@ ttave maH
 kelavu padagaLalli mahAprANa hakAravAgiyU
 kANisikoLLuttade (bhAShA-bahasa, bhaya-bahaya).
 
-samskxtada SakAra mattu ShakAragaLu inDonESiyan‌
+samskrutada SakAra mattu ShakAragaLu inDonESiyan‌
 eravalugaLalli sakAravAgi badalAgive:
 
-| samskxta | inDonESiyan‌ | samskxta | inDonESiyan‌ |
+| samskruta | inDonESiyan‌ | samskruta | inDonESiyan‌ |
 |---|---|---|---|
 | akASa | akasa | akShara | aksara |
 | aSA | asa | viSha | Esa |
@@ -1431,9 +1432,9 @@ bareyuvalli neravAgive.
 
 <a id="sec-3-5"></a>
 
-[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-3-5) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-3--other-languages-that-have-reformed)
+[English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-3--other-languages-that-have-reformed) | [Eke →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn-eke#sec-3-5)
 
-## 3.5 jarman nuDiya baravaNige
+## ೩.೫ jarman nuDiya baravaNige
 
 
 jarman‌ baravaNigayyalli OduvudakkU bareyuvudakkU
@@ -1449,7 +1450,7 @@ ellA hinneleya makkaLigU ondE bageyadAguvante
 mADabEkembudAgi ondu bEDikeyannu ALvikeya
 mundirisidaru.
 
-idarante, sumAru 6,000 padagaLalli OduvudakkU
+idarante, sumAru ೬,೦೦೦ padagaLalli OduvudakkU
 bareyuvudakkU naDuvidda vyatyAsagaLalli heccinavannU
 illa vAgisuvante avugaLa baravaNigeyalli mArpADugaLannu
 mADabEkAgittu. eravalu padagaLannU jarman‌
@@ -1458,7 +1459,7 @@ baravaNigege hondikeyAguvante mArbaDisabEkAgittu.
 jarman‌ nuDiyannu baLasuva jarmani, AsTi/ yA,
 sviTTar‌lEnD‌ mattu liSTe n‌sTayn‌ dESagaLa ALvi nagaLu
 oTTu sEri I bEDikeyannu. pariSIlisiduvu, “mattu
-1966ralli jarman‌ baravaNigeya toDakugaLannu
+೧೯೬೬ralli jarman‌ baravaNigeya toDakugaLannu
 hOgalADisuvantaha I saripaDikegaLige avu tamma
 oppigeyannu nIDiduvu.
 
@@ -1466,19 +1467,19 @@ Adare, UrugaLa mattu janara hesarugaLannu I
 mArbADina horage irisuvudendu tIrmAnisalAyitu.
 I mArdADugaLannu baLakege taruva kelasa mAtra
 tumbA toDakinadAgi kanDubantu. yAkendare, sumAru
-nUraralli 78raSpu mandige I saripaDike bEDavAgittu!
+nUraralli ೭೮raSpu mandige I saripaDike bEDavAgittu!
 hIgiddarU, SAlegaLalli mattu ALvikege sambandisida
 baravaNigegaLalli idannu kaDDAyagoLisalAyitu.
 
 I mArpADige kOrbu oppige nIDitAdarU, bEre
 bageya barahagaLalli idannu baLasuvudu illavE
 
-Lasadiruvudu janara Aykege biTTadde 0du adu hELitu.
+Lasadiruvudu janara Aykege biTTadde ೦du adu hELitu.
 idarindAgi, modalige idannu oppikonDa kelavu
 prakASakarU AmEle haLeya baravaNigeyannE baLasalu
 toDagidaru.
 
-AmEle 2006ralli, tumbA edurikegoLagAgidda
+AmEle ೨೦೦೬ralli, tumbA edurikegoLagAgidda
 kelavu mArpADugaLannu ALvikegaLu biTTukoTTudarindAgi,
 jarman‌ nuDiya I saripaDikege heccinavara oppige
 doretittu, mattu ivattu bEre bageya baravaNigegaLallU
@@ -1490,9 +1491,9 @@ adu baLakege baratoDagide.
 
 <a id="sec-3-6"></a>
 
-[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-3-6) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-3--other-languages-that-have-reformed)
+[English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-3--other-languages-that-have-reformed) | [Eke →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn-eke#sec-3-6)
 
-## 3.6 TarkiS nuDiya baravaNige
+## ೩.೬ TarkiS nuDiya baravaNige
 
 
 sumAru eppa tre adu vagaLarra gaLaSTu hinde, Tarki dESadalli
@@ -1505,7 +1506,7 @@ baraha ellara sottAguvantAyitu.
 TarkiS‌ nuDiyannADuva janaru musli marAgi matAntara
 gonDAgalEnE rirEbik‌ barigegaLannu tamma nuDiya
 baravaNigege aLavaDisikonDirabEku. hAgAgi, A barigegaLa
-baLakege Tarkiyalli sAvira varSagaLigintalU heccina
+baLakege Tarkiyalli sAvira varShagaLigintalU heccina
 hinnaDavaLi(caritre)yide. Adare, A barigegaLannu baLasi
 TarkiS‌ padagaLa ulipannu sariyAgi tiLisalu baruttiralilla.
 
@@ -1533,7 +1534,7 @@ SatamAnakke kAlirisutti ddante, yurOpina bEre "nADu
 gaLalli kANisuva hAge, TarkiyallU baraha ellara
 sottAgabEkemba kaLakaLi allina tiLivigaralli mattu ALvike
 yavaralli unTAyitu.
-1923ralli Tarki mandiyALvi kege (prajAprabuttakke)
+೧೯೨೩ralli Tarki mandiyALvi kege (prajAprabuttakke)
 i vaka
 oLagAyitu, mattu A samayadalli I kaLakaLige innaSTu
 hecci na mahatva bantu. mandiyALvikeyalli baraha ellara
@@ -1542,14 +1543,14 @@ TarkiS‌ baraha ellara sottAgadiruvudakke adu baLasuva
 arEbik‌ mUlada baravaNigeyE kAraNa embudannu
 kanDukonDiddaru.
 
-hattombattaneya SatamAnada naDubhAgadindalU
+hattombattaneya SatamAnada naDubAgadindalU
 arEbik‌ barigegaLannu baLasi TarkiS‌ nuDiyannu bareyuva
 kuritu tiLivigaralli asamAdAna kANisalu suruvAgittu.
 A samayadalli heccinavarU arEbik‌ barigegaLannu
 baLasuttiddarAdarU, kriSciyannaru rOman‌ barigegaLannu
 mattu bEre kelavaru grIk‌ barigegaLannu baLasuttiddaru.
 
-pakkada nADAda albEniyAdalli 1879rallEnE
+pakkada nADAda albEniyAdalli ೧೮೭೯rallEnE
 albEniyan‌ nuDige arEbik‌ barigegaLigintalU rOman‌
 barigegaLE oLLeyavembudAgi tIrmAnisi, aduvarege
 baLakeyallidda arEbik‌ barigegaLige badalAgi rOman‌
@@ -1559,7 +1560,7 @@ matAdikArigaLu phatvA horaDisiddarAdarU I kelasa
 naDeduhOgittu.
 
 [a
-1928ralli TarkiyU arEbik‌ barigegaLa badalu
+೧೯೨೮ralli TarkiyU arEbik‌ barigegaLa badalu
 rOman‌ barigegaLannu baLasabEkemba tIrmAnakke bantu.
 Agina janapriya adyaktarAgidda mustAphA kamal‌ avaru
 I viSayadalli heccina Asakti vahisidudarindAgi, I
@@ -1597,14 +1598,14 @@ sAdyavAyitendu hELalAguttide.
 
 <a id="sec-3-7"></a>
 
-[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-3-7) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-3--other-languages-that-have-reformed)
+[English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-3--other-languages-that-have-reformed) | [Eke →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn-eke#sec-3-7)
 
-## 3.7 asamIs nuDiya baravaNige
+## ೩.೭ asamIs nuDiya baravaNige
 
 sAkaSTu cannAgidda ondu nuDiya baravaNigeyannu kelavu
 panDitaru sErikonDu, nuDiya kuritAgi tammallidda
 ajnAnadindAgi, tumbA sikkalu sikkalAda baravaNigeyAgi
-mArbaDisiruvudakke asamIs‌ (bhAShomiya) nuDiya
+mArbaDisiruvudakke asamIs‌ (basomiya) nuDiya
 baravaNige ondu oLLeya ettugeyAgaballudu.
 
 asamIs‌ baravaNigeyannu kriSciyan‌ miSanarigaLu A
@@ -1614,10 +1615,10 @@ adannu kalisuvudakkAgi oLLeya kalikepustakagaLannU avaru
 tayArisiddaru. idaralli padagaLannu Oduva hAgeyE
 bareyalAguttittu.
 
-Adare, bhAratakke svAtantrya banda mEle, kelavaru
+Adare, bAratakke svAtantrya banda mEle, kelavaru
 asamIs‌ panDitaru o ra sEri, miSanarigaLu baLasu
 ttiruva baravaNigeyalli asamIs‌ padagaLigiruva
-samskxtada mUlarUpavannu sariyAgi sUcisalAguvudilla
+samskrutada mUlarUpavannu sariyAgi sUcisalAguvudilla
 ha 5'AkkEpaNeyannu mundiTTaru.
 AmEle, A rIti padagaLa hinnaDavaLiyannu sUcisu
 vantaha svarUpavannu avakke koTTu, adannu kaliyuva
@@ -1627,17 +1628,17 @@ mADidaru.
 idarindAgi, ivattina asamIs‌ baravaNigeyalli
 ulipigU barahakkU naDuve doDDadondu kandakavE
 ErpaTTide. ettugege, asamIs‌ padagaLannu uliyuvante
-bareyalu oTTu 31 barigegaLu bEkAguttave.
+bareyalu oTTu ೩೧ barigegaLu bEkAguttave.
 
 Adare, ivattu baLakeyalliruva asamIs‌ baravaNige
-yalli oTTu 51 barigegaLive! asamIs‌ padagaLalli baruva
+yalli oTTu ೫೧ barigegaLive! asamIs‌ padagaLalli baruva
 barigegaLu padagaLa hinnaDavaLiyannu tiLisuva hAge
 mADidudE adaralli iSTu heccu barigegaLu sEri
-konDiruvudakke mukhya kAraNa.
+konDiruvudakke mukya kAraNa.
 
 asamIs‌ nuDi marATi, panjAbi modalAdavugaLa
-hAge samskxtadinda (illavE adakke hattirada mUla
-nuDiyonderinda) beLedu bandide. samskxta modalige
+hAge samskrutadinda (illavE adakke hattirada mUla
+nuDiyonderinda) beLedu bandide. samskruta modalige
 magadi prAkrutavAgi mattu AmEle kAmarUpa
 apabramSavAgi badalAyitu; konege ivattina asamIs‌
 nuDiyAyitu. I naDuve samskxtada padagaLU halavu
@@ -1657,12 +1658,12 @@ taTa (daDa) tota
 ThanDA (caLi) thand‌
 thAla (baTTalu) thAl‌
 DESakA(taruNa) dESa
-DhOonla(DOlu)  dhOl‌
+DhOೊmla(DOlu)  dhOl‌
 dhAna (batta) dhAs‌
 raNa (yudda) ros‌
 phasa (dappa) ghos‌
 
-samskxtadallidda sa, Sa mattu ShagaLa naDuvina vyatyAsavU
+samskrutadallidda sa, Sa mattu ShagaLa naDuvina vyatyAsavU
 
 sIse nuDiyallilla. Adare asamIs‌ barahadalli
 hei barahadalli kANisuva I mUru barigegaLannU
@@ -1689,14 +1690,14 @@ padagaLa hinnaDavaLiyannu sUcisuvudarinda, toDakina
 dAdarU adannu uLisikoLLabEkembudAgi asamIs‌
 panDitarige anisuttade. hindi, marATi, panjAbi
 modalAda bEre inDO- Aryan‌ nuDigaLa hAge
-asamIs‌ nuDigU samskxtavE mU naDa yAdadarindra
+asamIs‌ nuDigU samskrutavE mU naDa yAdadarindra
 barahadalli tamma Shu padagaLigiruva svarUpa avugaLa
 samskxta mUlavannu nenapisuva hAgiddalli oLLeyadu
 enda avarige anisutta de.
 
 Adare, nijakkU idu bEkAgilla. yAkendare, mAtu
 kAgadada mEle kANisuva hAge mADuvudE barahada
-mukhya udde ESavallade mAtina hinnaDavaLiyannu tiLisuvudu
+mukya udde ೇSavallade mAtina hinnaDavaLiyannu tiLisuvudu
 adara uddESavalla. mAtina hinnaDavaLiyannu tiLiya
 bEkendiruvavaru adannu bErAgi kalitukoLLabahudu.
 adakkAgi ondu nuDiya barahavannE iSTondu
@@ -1713,9 +1714,9 @@ mADiruva I badalAvaNegaLu oLLeya ettugegaLAgive.
 
 <a id="ch4"></a>
 
-[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#ch4) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-4--objections-to-the-reform)
+[English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-4--objections-to-the-reform) | [Eke →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn-eke#ch4)
 
-# adhyAya 4 — saripaDikeya edurikegaLu
+# adhyAya ೪ — saripaDikeya edurikegaLu
 
 
 [↑ oLapiDige hintirugi](#oLapiDi)
@@ -1724,13 +1725,13 @@ mADiruva I badalAvaNegaLu oLLeya ettugegaLAgive.
 
 <a id="sec-4-1"></a>
 
-[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-4-1) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-4--objections-to-the-reform)
+[English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-4--objections-to-the-reform) | [Eke →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn-eke#sec-4-1)
 
-## 4.1 saripaDikeya prayOjanagaLu
+## ೪.೧ saripaDikeya prayOjanagaLu
 
 
-samskxtadinda eravalAgi paDeda padagaLannu Igiruva
-hAge samskxtadalli ruvanteyE bareyuvudarinda kanna Dakke
+samskrutadinda eravalAgi paDeda padagaLannu Igiruva
+hAge samskrutadalli ruvanteyE bareyuvudarinda kanna Dakke
 illavE kannaDigarige yAva prayOjanavU illa; idakke
 badalu, avannu hEge OduttEveyO hAgeyE baDisuva
 hosa barahavannu baLasidalli, halavu pra prayOjanagaLannu
@@ -1739,8 +1740,8 @@ kannaDigaru paDeyaballaru.
 modalaneyadAgi, cikka makkaLige (adarallU keLavarga da
 makkaLige) mattu barahabArada doDDavarige kannaDa
 barahavannu kalisuva kelasa heccu sulabavAguttade. hosa
-barahavannu baLasidalli avarige 50 barigegaLa badalu
-barE 31 barigegaLannu kalisidare sAku.
+barahavannu baLasidalli avarige ೫೦ barigegaLa badalu
+barE ೩೧ barigegaLannu kalisidare sAku.
 
 I rIti kaliyabEkAgiruva barigegaLa eNike kaDime
 yAguttade embudu mAtravalla, I barigegaLannella
@@ -1751,7 +1752,7 @@ sulabavAgisuttade.
 
 
 yAkendare, makkaLu barahagaLannu salIsAgi Odalu
-kaliyabEkiddalli » modalige tamma nuDiya padagaLannu
+kaliyabEkiddalli, modalige tamma nuDiya padagaLannu
 uligaLa sErikeyinda unTumADalAgide embudannu
 avaru gamanisabEku.
 
@@ -1832,9 +1833,9 @@ heccu jIvantavAgi kANisuttade.
 
 <a id="sec-4-2"></a>
 
-[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-4-2) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-4--objections-to-the-reform)
+[English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-4--objections-to-the-reform) | [Eke →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn-eke#sec-4-2)
 
-## 4.2 tusuhottina tondaregaLu
+## ೪.೨ tusuhottina tondaregaLu
 
 
 mElina badalAvaNeyannu mADuvudarindAgi nAvu
@@ -1843,7 +1844,7 @@ edurisabEkAguva tondaregaLannu pariSIlisidalli,
 
 avellavU tusuhottina tondaregaLendu gottAgadiradu:
 
-ettugege, samskxta eravalugaLannu haLE rUpadalli nODi
+ettugege, samskruta eravalugaLannu haLE rUpadalli nODi
 I
 baLakeyAdavarige avannu I hosa rUpadalli nODidAga
 adu tasT‌ndu anisabahudu; Adare, hosa rUpavannu
@@ -1882,10 +1883,10 @@ hosa barahavannu oppadiruvavaru adannu baLasalu
 toDagidalli bEreyU kelavu toDakugaLu unTAga
 balluvu endu hELuttAre; Adare, ivugaLella barahada
 nijavAda svarUpavEnu, mAtigU barahakkU naDuviruva
-sambandha entahadu, mattu barahakkU nuDigU naDuviruva
-sambandha entahadu embudannu sariyAgi tiLidukoLLade
+sambanda entahadu, mattu barahakkU nuDigU naDuviruva
+sambanda entahadu embudannu sariyAgi tiLidukoLLade
 hELuva mAtugaLu mAtra. avu nijavAda toDakugaLalla.
-ivugaLalli mukhyavAda kelavannu keLage vivarisalAgide:
+ivugaLalli mukyavAda kelavannu keLage vivarisalAgide:
 
 [↑ oLapiDige hintirugi](#oLapiDi)
 
@@ -1893,9 +1894,9 @@ ivugaLalli mukhyavAda kelavannu keLage vivarisalAgide:
 
 <a id="sec-4-3"></a>
 
-[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-4-3) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-4--objections-to-the-reform)
+[English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-4--objections-to-the-reform) | [Eke →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn-eke#sec-4-3)
 
-## 4.3 heccu barigegaLiruvudu SrImantikeyalla
+## ೪.೩ heccu barigegaLiruvudu SrImantikeyalla
 
 kannaDada baravaNigeyalli mahAprANa, ShakAra, yakAra
 modalAda heccana barigegaLiruvudu adara SrImantike;
@@ -1909,7 +1910,7 @@ haLegannaDada kAladalli rakAra mattu LakAragaLu
 mAtravallade, akAra mattu TakAragaLemba bEreyU
 eraDu barigegaLu baLakeyallidduvu; Agina kAlada
 ulipinallU I barigegaLa naDuve vyatyAsavittu. Adare,
-ulipinallidda IxvyatyAsa AmEle illavAyitu, mattu
+ulipinallidda IೃvyatyAsa AmEle illavAyitu, mattu
 
 I kAraNakkAgi barahadindalU avannu bi bbrakoDa
 lAyitu.
@@ -1954,34 +1955,34 @@ kannaDa kaliyuva makkaLige, mattu AmEle kannaDavannu
 baDeyalu baLasuva doDDa varige intaha nUrAru “padagaLa
 rUpagaLannu nenapinalli risikoLLuva talenOvilla.
 
-samskxtada eravalugaLalli baruva ShakAra, yakAra,
+samskrutada eravalugaLalli baruva ShakAra, yakAra,
 mahAprANa modalAduvugaLa kateyU intahadE. avu
 heccina kannaDigara ulipinalli illavE Odinalli kANisuvu
 dilla. hAgAgi, avannu barahadalli baLasadiruvudE
 kannaDigara maTTige sariyAda mattu sulabavAda dAri.
 hAge mADidalli, I eravalu padagaLannu uliyuva
 hAgeyE bareyuva kAraNa, ivattina hAge, Sha, ya,
-mahAprANa modalAda barigegaLu. mUla samskxtada
+mahAprANa modalAda barigegaLu. mUla samskrutada
 yAva pa padagaLalli mattu yAva jAgadalli baruttave
 embudannu nenapinalli irisikoLLabEkAguvudilla.
 kannaDadalli e-E mattu o-O tereyuligaLa naDuve
 ulipinalli vyatyAsa ide, mattu adannu tOrisikoDuvu
 dakkAgi barigegaLallU vyatyAsa ide; hAgAgi, kannaDa
 barahadalli I barigegaLiruvudu adara SrImantikeyendu
-hELabahudu. Adare, samskxtada dEvanAgari baravaNige
+hELabahudu. Adare, samskrutada dEvanAgari baravaNige
 yalli I vyatyAsavannu torisikoDaballa barigegaLilla.
-hAgiddare, e samskxta baravaNigeya "baDatanavendu
+hAgiddare, e samskruta baravaNigeya "baDatanavendu
 hELabahudE?
 
-nijakkU samskxtada padagaLa Odinalli illa vE
+nijakkU samskrutada padagaLa Odinalli illa vE
 ulipinalli. e-E mattu ba-OgaLa naDuvina vyatyAsagaLu
 huruLannu tiLisuvudakkAgi baLakeyAguvudilla; kasTa
-samskxta padagaLannu barahakkiLisalu antaha barigegaLu
+samskruta padagaLannu barahakkiLisalu antaha barigegaLu
 bEkAguvudilla: bEDadiruva 'barigegaLu ondu baravaNige
 yalliveyAdare, adannu kaliyuvavarige mattu
 baLasuvavarige avu toDakAgaballuvu. hAgAgi, e-E
 mattu ba-OgaLa naDuvina vyatyAsagaLannu sUcisuva
-barigegaLu samskxta baravaNigeyalli lladiruvudu A nuDiya
+barigegaLu samskruta baravaNigeyalli lladiruvudu A nuDiya
 maTTige sariyAgide; adu A barahada baDatanavannEnU
 sUcisuvudilla.
 
@@ -2007,9 +2008,9 @@ tappu vAdavalla de bErEnalla.
 
 <a id="sec-4-4"></a>
 
-[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-4-4) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-4--objections-to-the-reform)
+[English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-4--objections-to-the-reform) | [Eke →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn-eke#sec-4-4)
 
-## 4.4 uligaLa baLakeyalli vyatyAsagaLu
+## ೪.೪ uligaLa baLakeyalli vyatyAsagaLu
 
 
 padagaLannu uliyuvalli eSTu uligaLannu baLasa
@@ -2017,7 +2018,7 @@ lAguttade, mattu yAva uligaLannu baLasalAguttade
 emba viSayadalli nuDigaLu ondarindondu tIrA
 bErAgiraballuvu. mEle vivarisida hAge, kannaDadalli
 e-E mattu o-OgaLa naDuve vyatyAsavide, Adare
-samskxtadalli illa; samskxtadalli mahAprANa- -alpaprANa
+samskrutadalli illa; samskrutadalli mahAprANa- -alpaprANa
 gaLa hava vyatyAsavide. kannaDadalli illa.
 
 kannaDada uligaLannu bareyalu oTTu mUvattondu
@@ -2068,13 +2069,13 @@ baLasikoLLuttidAre. Adare, ellarU ivannu. baLasuvudilla.
 
 <a id="sec-4-5"></a>
 
-[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-4-5) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-4--objections-to-the-reform)
+[English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-4--objections-to-the-reform) | [Eke →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn-eke#sec-4-5)
 
-## 4.5 ippuruLininda tondareyEnilla
+## ೪.೫ ippuruLininda tondareyEnilla
 
 
 madya-madhya, embantaha padajODigaLa naDuvina
-vyatyAsavannu illavAgisidalli ippuruLina tondare (artha
+vyatyAsavannu illavAgisidalli ippuruLina tondare (arta
 sandiggate) baraballudu embudu I mArpADannu
 edurisuvavaru namma mundirisuva innondu vAda.
 idakke eraDu bageya uttaragaLannu koDabahudu:
@@ -2090,7 +2091,7 @@ eraDaneyadAgi, ellA nuDigaLallU nUrAru
 ippuruLina padagaLu baLakeyAguttiruttave; ondu
 padakOSavannu teredu nODidare I viSaya
 spaScavAguttade: adaralli baruva heccina pa padagaLigU
-ondakkinta heccu huruLugaLiruttave. samskxtada kelavu
+ondakkinta heccu huruLugaLiruttave. samskrutada kelavu
 gantU hattipa ttu huruLugaLiruvudannu kANa
 bahudu.
 
@@ -2132,9 +2133,9 @@ emba vAdakke yAva AdAravU illa.
 
 <a id="sec-4-6"></a>
 
-[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-4-6) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-4--objections-to-the-reform)
+[English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-4--objections-to-the-reform) | [Eke →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn-eke#sec-4-6)
 
-## 4.6 mArpADu barahadallallade nuDiyallalla
+## ೪.೬ mArpADu barahadallallade nuDiyallalla
 
 
 hosabaraha oppigeyillavennuva halavu mandige I
@@ -2150,7 +2151,7 @@ uligaLE illa. hAgAgi, avannu kannaDa nuDiyalli
 mArbaDisuva illavE kannaDa nuDiyinda tegedu hAkuva
 praSneyE illi ELuvudilla.
 
-nuDi illavE bhAShe embudu mukhyavAgi mAtallade
+nuDi illavE bASe embudu mukyavAgi mAtallade
 barahavalla. hAgAgi, barahadalli mADuva yAva
 vyatyAsavU nEravAgi mAtannu illavE nuDiyannu
 tAguvudilla. idallade, mEle sUcisida mArbADugaLu
@@ -2168,15 +2169,15 @@ emba tappu kalpaneyannu avaru hondiddAre.
 
 <a id="sec-4-7"></a>
 
-[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-4-7) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-4--objections-to-the-reform)
+[English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-4--objections-to-the-reform) | [Eke →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn-eke#sec-4-7)
 
-## 4.7 kannaDada OdU samskxta OdinantirabEkE?
+## ೪.೭ kannaDada OdU samskruta OdinantirabEkE?
 
 
 samskxta padagaLannu adaralli ruva hAge kanna DadallU
 bareyuva ivattina. kaTTaleyannu uLisikoLLabEkendu
 hELuvavaralli kelavarige e ellA kannaDigarU vra padagaLannu
-samskxtadalli ruva hAgeyE uliyabEku, mattu ra
+samskrutadalli ruva hAgeyE uliyabEku, mattu ra
 ubi bA tappu emba anisikeyU ide. "Adare,
 nijakkU kannaDigarige idu bEkAgideyE embudannu avaru
 AlOcisidantilla.
@@ -2190,7 +2191,7 @@ Sa embudAgi ivannu hesarisi kalisuttiddAre; avannu
 sariyAgi ulidu kalisalu heccina kapisugarigU
 baruvudilla.
 
-idallade, kelavu mandi samskxta panDitara mAtannu
+idallade, kelavu mandi samskruta panDitara mAtannu
 gamanisidAgalU intahadE `parisi tiyiruvudu
 kanDubaruttade; bariya padagaLannaScE ulidu
 tOrisuvAga avaru I barigegaLannu sariyAgiyE
@@ -2218,28 +2219,28 @@ oLLeyadu.
 
 <a id="sec-4-8"></a>
 
-[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-4-8) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-4--objections-to-the-reform)
+[English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-4--objections-to-the-reform) | [Eke →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn-eke#sec-4-8)
 
-## 4.8 eraDu sAvira varSagaLa parampare
+## ೪.೮ eraDu sAvira varShagaLa parampare
 
 
 sumAru eraDu sAvira vara gaLindalU intaha samskxtada
-eravalugaLannu samskxtadalli ruva hAgeyE kannaDadalli
+eravalugaLannu samskrutadalli ruva hAgeyE kannaDadalli
 bareyalAguttide; aditi yAke Iga badalAyisalu
 horaDabEku emba kELvi kelavarinda mUDibandide.
 
 adannu ivattu badalAyisabEkAgiruvudakke ondu
-tumbA mukhyavAda kAraNavide; adEnendare, kaLeda eraDu
-sAvira varSagaLallU kelavE kelavu mandi mElva rada
+tumbA mukyavAda kAraNavide; adEnendare, kaLeda eraDu
+sAvira varShagaLallU kelavE kelavu mandi mElva rada
 makkaLu mAtra barahavannu kaliyutti ddaru; ivarella
-samskxtavannU 'kaliyutti ddudarinda A A rIti 2 bareyuvudu
+samskrutavannU 'kaliyutti ddudarinda A A rIti ೨ bareyuvudu
 avari ondu toDakendu anisilla.
 
 (>
 [2
 Adare, ivattu ellA vargada makkaLU kannaDa barahavannu
 kaliyabEkAgide; avaralli kelavE kelavu mandi mAtra
-samskxtavannU kaliyalu. horaDuttAre; idU kUDa
+samskrutavannU kaliyalu. horaDuttAre; idU kUDa
 muktavAgi taragatiyalli samskxta tegedukonDare
 sulabavAgi heccu mArku doreyuttede emba kAraNakkAgi!
 hAgAgi, ellarigU kannaDa barahavannu kaliyalu jAni
@@ -2252,28 +2253,28 @@ ivattu naDesalEbEkAgide.
 
 <a id="sec-4-9"></a>
 
-[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-4-9) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-4--objections-to-the-reform)
+[English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-4--objections-to-the-reform) | [Eke →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn-eke#sec-4-9)
 
-## 4.9 samskxtakke hindidda hirime indilla
+## ೪.೯ samskrutakke hindidda hirime indilla
 
 
-hindina kAladalli la lla mukhyavAgi samskxtavE
+hindina kAladalli la lla mukyavAgi samskrutavE
 tiLivina oyu ge(mAdya ma)yAgi baLakeyAgutti ttu; naDe
 bEre nuDigaLannADuti dda tiLivigaru tAvu kanDukonDidda
 hosa hosa tiLivugaLannu bEre tiLivigarige tiLisuvudakkAgi
-samskxta barahavannE baLasutti ddaru. hAgAgi, samskxtavannu
+samskruta barahavannE baLasutti ddaru. hAgAgi, samskrutavannu
 *Diyavudu tiLivigarenni sikoLLalu mattu samAjadalli.
 munde baralu tumbA avaSya vAgittu.
 
-Adare, ivattu samskxta A rIti hosa hosa tiLivugaLa
+Adare, ivattu samskruta A rIti hosa hosa tiLivugaLa
 oyyugeyAgi uLidillu hindi, marATi, banglA, kannaDa,
 telugu modalAda ivattina nuDigaLE A jAgavannu
 AkramisikonDive. hAgAgi, ivattu tAvu kanDukonDiruva
-hosa tiLivugaLannu samskxtadalli bareyuvavaru yArU
+hosa tiLivugaLannu samskrutadalli bareyuvavaru yArU
 illa,
 
 I kAraNakkAgi, ivattu tiLivigarennisikoLLalu
-samskxtavannu kalitE tIrabEkemba ottAseyilla; hindina
+samskrutavannu kalitE tIrabEkemba ottAseyilla; hindina
 
 kAladavaru kUDiTTidda tiLivugaLannu paDeyabEkendu
 iruvavaru mAtra ivattu A barahavannu kaliya
@@ -2283,7 +2284,7 @@ kUDiDalAgutti deyAda kAraNa, avugaLa "mUlakavU A
 
 tiLivugaLannu paDeyalu baruttade.
 
-hIgiddarU, hindidda samskxtada hirimeyannu
+hIgiddarU, hindidda samskrutada hirimeyannu
 ivattigU 'uLisikoLLabEkoba tudi kelavarallide, mattu.
 idakkAgi avaru bEre halavAru viSayagaLannu kalpisi
 ham janarannu dAritappisuttiddAre. samskxta dEvara
@@ -2294,16 +2295,16 @@ bAradiddare adu obba vyaktiya kILtanavannu mattu
 ajnAnavannu sUcisuttade intaha hala vu tappu
 anisikegaLannu avaru janaralli bittuttiddAre.
 
-idarindAgi, kannaDa 7 barahadalli samskxta eravalugaLannu
+idarindAgi, kannaDa ೭ barahadalli samskruta eravalugaLannu
 bareyuvAga avannu Oduva ' ge baredate sAku,
 samskxtadalliruva hAge bareya bEkAgilla emba nanna
 
 mApanada kannaDigarige oppi geyAguvudilla.
-samskxta padagaLannu A. rIti SAsTamisuvu 1
+samskruta padagaLannu A. rIti SAsTamಿsuvu 1
 em ondu doDDa tappannu (illavE pApavannu)
 esaguvante embudAgi avarige anisuttade.
 
-nijakkU samskxta barahadalli antaha adbutavAdu
+nijakkU samskruta barahadalli antaha adbutavAdu
 dEnU illa. bErellA barahagaLa hAge ada] ondu
 
 baraha mAtra. namma dESadalli adu kelavu SatamAna
@@ -2315,13 +2316,13 @@ ivattu iDI jagatti nalli tiLivina oyyugeyAgi
 ingliS‌ baraha baLakege bandide; Adare, idakkU A
 barahada paricegaLu yAvuvU kAraNavalla. nijakkU
 spellang‌na maTTige adu tumbA toDaku cahAda
-baraha; hAgidda 5 adu ivattu jagattina barahavAgide.
+baraha; hAgidda ೫ adu ivattu jagattina barahavAgide.
 
 hIgAgiruvudakke ingliS‌ barahavannu baLasuttiddavaru
 jagattina halavu dESagaLannu tamma ALvikegoLapaDisidudu,
 mattu tiLivina pramANavannu heccisuvalli hAgU
 kUDubaleyalli avu sangrahagoLLuvante mADuvalli
-avaru muncUNiyalli dludu mukhyavAda kAraNavirabEku.
+avaru muncUNiyalli dludu mukyavAda kAraNavirabEku.
 
 tumbA toDaku toDakAgiruva caynIs‌ barahavU
 japAn‌, koriyA, viyaTnAm‌ modalAda halavu
@@ -2345,12 +2346,12 @@ tiLiyabEkAgilla.
 
 <a id="sec-4-10"></a>
 
-[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-4-10) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-4--objections-to-the-reform)
+[English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-4--objections-to-the-reform) | [Eke →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn-eke#sec-4-10)
 
-## 4.10 baraha mattu samskxti
+## ೪.೧೦ baraha mattu samskxti
 
 
-samskxta padagaLannu samskxta barahagaLalli iruva hAgeyE
+samskruta padagaLannu samskruta barahagaLalli iruva hAgeyE
 kannaDa barahagaLallU uLisikoLLadiddare : namma samskxtiyE
 naScavAgi hOguttadeyembudAgi sakArada viSayadalli
 naDeda ondu carce ya samayadalli kelavaru kannaDa panDitaru
@@ -2359,12 +2360,12 @@ hedarikeyE kannaDa barahada maTTige anavaSyakavAgiruva
 mElina kaTTaleyannu illavAgisalu namage sAdyavAga
 diruvudakke innondu kAraNa.
 
-padagaLa ulipu uilla vE baravaNige mattu samskxtigaLa
-naDuve yAva sambandhavU illa. mEle tiLisida esse
+padagaLa ulipu ುilla vE baravaNige mattu samskrutigaLa
+naDuve yAva sambandavU illa. mEle tiLisida esse
 padagaLa ulipu badalAguttA hOguvudu nuDi
 yondara jIvantikeyannu sUcisuttade. eraDu sAvira
-varSagaLaSpu hinde padagaLa ulipu mattu baravaNige
-samskxtadalli hEgittO hAgeyE ivattU adannu
+varShagaLaSpu hinde padagaLa ulipu mattu baravaNige
+samskrutadalli hEgittO hAgeyE ivattU adannu
 uLisikoLLabE kendu. bayasuvudu jIvantikeya
 lakkaNavalla."
 
@@ -2386,8 +2387,8 @@ maysUrina barahagAraru hosagannaDavannu baLasa
 toDagidaru.
 
 badalAgade uLiyuvudara mUlaka ondu nuDi
-entaha samskxtiyannu uLisikoLLalu prayatnisutta deyO
-adu A sa rs RSE samskxticAgalAkaNimbudu idarinda
+entaha samskrutiyannu uLisikoLLalu prayatnisutta deyO
+adu A sa rs RSE samskruticAgalAkaNimbudu idarinda
 gottAguttade.
 
 haLegannaDada nUrAru padagaLalli kANisutti dda ra-A
@@ -2397,24 +2398,24 @@ nuDi badalAgiruvudannu gamanisi, kannaDa barahagAraru
 tamma barahavannU badalAyisikonDudE idakke kAraNa.
 hIge badalAyisuva mUlaka avaru kannaDa baraha
 jIvantavAgi uLiyuvante mADiddArallade kannaDada
-samskxtiyannu nASamADilla.
+samskrutiyannu nASamADilla.
 
-samskxtadinda eravalAgi paDeda padagaLannu namma
+samskrutadinda eravalAgi paDeda padagaLannu namma
 ulipige ka 'bhOndikoLLuva hAge badalAyisikoLLuvudarinda
 
-samskxti nASavAguvudilla embudakke kannaDada
+samskruti nASavAguvudilla embudakke kannaDada
 caritreyendalEnE halavu ettugegaLannu
 
-haLegannaDa kAvyagaLalli nUrAru samskxta padagaLannu
+haLegannaDa kAvyagaLalli nUrAru samskruta padagaLannu
 tadbhavagaLannAgi badalAyisi baLasalAgide (illa vE hAge
 badalAyisida prAkrutadinda avannu eravalAgi
 paDeyalAgide). ivugaLalli kANisuva badalAvaNegaLellavU
-samskxta padagaLa baLakeyinda kannaDa nuDiya sogaDu
+samskruta padagaLa baLakeyinda kannaDa nuDiya sogaDu
 na hAge adannu uLisikoLLalu mADida
 prayatnagaLAgive.
 
-ettugege, samskxtada sa, pa, ShagaLige badalAgi
-haLegannaDadalli bija mAtra ittu. hAgAgi samskxta
+ettugege, samskrutada sa, pa, ShagaLige badalAgi
+haLegannaDadalli bija mAtra ittu. hAgAgi samskruta
 (ttama) padagaLalli baruva SakAra mattu ShakAragaLannu
 tadbava padagaLalli sakAravAgi badalAyisalAgittu
 
@@ -2424,7 +2425,7 @@ ankuka amSusa amiSha amisa
 siSkamSa sissanka dOSha dOsa
 papu pasu nimiSha simisa
 SarSara sakkare kESha sEsa
-aSAka arasa bhAShe bhASh‌
+aSAka arasa bhAShe bAs‌
 
 haLegannaDadalli mahAprANa barigegaLiralilla. hAgAgi,
 samskxta padagaLalli kANisuva mahAprANa barigegaLannu
@@ -2433,13 +2434,13 @@ badalAyisalAgittu.
 |
 tatsama tadbava tatsama
 
-Sra 0khale sankale bhakti
+Sra ೦khale sankale bhakti
 sangha sanda kapa
 chAstasa cAstasa dhAre
-Sunki sunTi kathe
+SuNki sunTi kathe
 maTha maTa Dhake
 
-haLegannaDadalli yakAraviralilla i
+haLegannaDadalli yakAraviralilla ಿ
 padagaLallidda yakAravannu
 
 badalAyisalAgittu sa
@@ -2485,11 +2486,11 @@ tatsama tadbava tatsama tadbava
 rAkShasa rakkasa kShIra kIra
 samskxta sakkada jvara jara
 addi addi dhhasi dasi
-adha aySna addika sthA sa tANa
+adha ೈSna addika sthA sa tANa
 
 samskxta padagaLannu badalAyisikoLLade hAgeyE
-baLasa kannaDada sogaDu (samissu ti) nASa
-vAgutta deyembudannu kanDukonDa hada 855nE
+baLasa kannaDada sogaDu (samಿssu ti) nASa
+vAgutta deyembudannu kanDukonDa hada 8೫೫nE
 SatamAnada kavi AnDayyanu tanna kaccirara kAvadalli
 tatsama padagaLa badalu elleDegaLallU intaha tadbava
 padagaLannE baLasuva prayatna naDesidda.
@@ -2499,8 +2500,8 @@ kannaDaddE Ada samskxtiyannu uLisuva prayatnagaLallade
 aLisihAkuva prayatnagaLalla.
 
 Adare, ivattina kannaDa barahagaLalli intaha kannaDada
-sogaDannu (samskxtiyannu) uLisikoLLuva tadbhava
-padagaLalli "pakShi- hasta, piShTa-iTTu, kath‌- -kate, Sarnara-
+sogaDannu (samskrutiyannu) uLisikoLLuva tadbhava
+padagaLalli "pakShi- hasta, piShTa-ಿTTu, kath‌- -kate, Sarnara-
 sakkare, vIthi-TIdi 'mohalAda kelavE kelavu pa padagaLannu
 mAtra uLisikoLLalAgide. uLideDegaLallella avugaLa
 badalu jvara, snAsa, khaShi, khatu, dOSha, dhAre,
@@ -2508,8 +2509,8 @@ addi modalAda tatsama padagaLannE baLasalAguttide.
 kannaDada padasta rUpakke hondikeyAguva mattu kannaDigarige
 kaliyalu mattu baLasalu sulabavAguva tadbhava padagaLannu
 kaydiDalAgide.
-idallade, samskxta padagaLannu hosadAgi eravalu
-paDeyuvudiddalli, i. paDeda mEle avannu samskxta
+idallade, samskruta padagaLannu hosadAgi eravalu
+paDeyuvudiddalli, i. paDeda mEle avannu samskruta
 barahagaLalli ruva hAgeyE kannaDadallU cateyuDEkoba
 kaTTupADannU nAvu namma mEle horisikonDiddEve.
 avugaLalli kannaDa padasvarUpakke hondikoLLuva hAge
@@ -2517,13 +2518,13 @@ badalAvaNegaLannEnAdarU mADidalli avannu tappu
 embudAgi tiraskarisalAguttade.
 
 I kaTTupADinindAgi haLegannaDa kAlada barahagArari
-giddantaha samskxta padagaLannu tadbha 'vagaLAgi badalAyisuva
+giddantaha samskruta padagaLannu tadbha 'vagaLAgi badalAyisuva
 svAtantra vU savattu namage illa vAgide.
 
-ivella namma samskxtiyannu uLisikoLLuva prayatna
-gaLalla. samsku EE 60av EnvAnitata mattu.
+ivella namma samskrutiyannu uLisikoLLuva prayatna
+gaLalla. samsku EE 60ೌ EnvAnitata mattu.
 kannaDada I kAna ari cA kannaDa barahagArara
-jra Ne rangi ivattu nammadE Ada kannaDa samskxti
+jra Ne rangi ivattu nammadE Ada kannaDa samskruti
 kannaDa barahagaLalli illa vAgiDe.
 
 [↑ oLapiDige hintirugi](#oLapiDi)
@@ -2532,9 +2533,9 @@ kannaDa barahagaLalli illa vAgiDe.
 
 <a id="ch5"></a>
 
-[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#ch5) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-5--conclusion)
+[English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-5--conclusion) | [Eke →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn-eke#ch5)
 
-# adhyAya 5 — muktAya
+# adhyAya ೫ — muktAya
 
 [↑ oLapiDige hintirugi](#oLapiDi)
 
@@ -2542,9 +2543,9 @@ kannaDa barahagaLalli illa vAgiDe.
 
 <a id="sec-5-1"></a>
 
-[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-5-1) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-5--conclusion)
+[English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-5--conclusion) | [Eke →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn-eke#sec-5-1)
 
-## 5.1 sAmAjika nyAya
+## ೫.೧ sAmAjika nyAya
 
 
 ondu samAjadalli Odu-barahavannu kaliyuva kelasa
@@ -2563,7 +2564,7 @@ janarige bEDavAgiddarU jArige taralAgide. ivattu kannaDa
 baravaNigeyalli nAvu naDesabEkAgiruva saripaDikeyU
 intahadE.
 
-samskxta eravalu padagaLannu samskxtadalliruva
+samskruta eravalu padagaLannu samskrutadalliruva
 hAgeyE bareyuva kelasa, mattu idakkAgi suSuvinindalU
 hattippattu heccina barigegaLannu avrayuva kelasa mElva rada
 makka gintalU keLavargada makka Lige heccu kaSca vAguttade.
@@ -2574,8 +2575,8 @@ bILuttiddAre.
 
 kannaDada Odu-barahada kalikeyalli kANisuva I
 sAmAjika anyAyavannu nAvu ivattu AdaSTu maTTige
-hOgalADisabE cu samskxtadinda dhA paDeda
-padagaLannu heccu kaDime samskxtadalliruva hAgeyE
+hOgalADisabE cu samskrutadinda dhA paDeda
+padagaLannu heccu kaDime samskrutadalliruva hAgeyE
 bareyabEkemba kanna Dada maTTi anavaSya kavAgiruva
 kaTTa leyannu biTu koTTalli AScara maTTige keLavargada
 makkaLige ita nyAya odagisidantAguttade.
@@ -2613,9 +2614,9 @@ baravaNigeya viSayadalli antaha kaScavEnilla.
 
 <a id="sec-5-2"></a>
 
-[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-5-2) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-5--conclusion)
+[English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-5--conclusion) | [Eke →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn-eke#sec-5-2)
 
-## 5.2 kannaDaddE Ada padagaLa baLake
+## ೫.೨ kannaDaddE Ada padagaLa baLake
 
 
 ellA makkaLigU Odalu mattu bareyalu kaliyuvalli
@@ -2640,14 +2641,14 @@ prayatnagaLu naDedive, mattu naDeyuttive.
 
 kannaDada tiLivigarige tammadE Ada nuDiya mEle
 ondu bageya kILarime ide. hAgAgi, hosapadagaLannu
-kaTTa bEkAdAgalella avaru samskxtada morehogutti ddAre.
+kaTTa bEkAdAgalella avaru samskrutada morehogutti ddAre.
 Sk heccu heccu hosa padagaLannu baLasabEkAguva
-barahagaLalli samskxta viravalugaLa eNike mitimIruva
+barahagaLalli samskruta viravalugaLa eNike mitimIruva
 hAgAgide.
 
 idannu AdaSTu kaDime mADi, heccu heccu kannaDadavE
 Ada hosapadagaLannu kaTTi baLasalu toDagidalli,
-tAnAgiyE kannaDa barahagaLalli tumbikoLLuva samskxta
+tAnAgiyE kannaDa barahagaLalli tumbikoLLuva samskruta
 eravalugaLa eNike kaDimeyAgaballu du.
 
 [↑ oLapiDige hintirugi](#oLapiDi)
@@ -2656,9 +2657,9 @@ eravalugaLa eNike kaDimeyAgaballu du.
 
 <a id="sec-5-3"></a>
 
-[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-5-3) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-5--conclusion)
+[English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-5--conclusion) | [Eke →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn-eke#sec-5-3)
 
-## 5.3 kaliyuva oLa ottaDa
+## ೫.೩ kaliyuva oLa ottaDa
 
 
 barahavannu kaliyalEbEkemba oLa ottaDaviruvavaru
@@ -2711,29 +2712,29 @@ bEkAgide.
 
 <a id="sec-5-4"></a>
 
-[ಕನ್ನಡ →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn#sec-5-4) | [English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-5--conclusion)
+[English →](./08-kannaDakke-mahAprANa-yAke-bEDa-en#chapter-5--conclusion) | [Eke →](./08-kannaDakke-mahAprANa-yAke-bEDa-kn-eke#sec-5-4)
 
-## 5.4 mukhyavAda prayOjanagaLu
+## ೫.೪ mukyavAda prayOjanagaLu
 
 
 I rIti eravalu padagaLannu Oduva hAgeyE bareyalu
 toDaguvudarinda nAvu keLavarga da makkaLige sAmAjika
 nyAyavannu odagisuvudarondige bEreyU kelavu
 prayOjanagaLannu paDeyaballevu. mEle nAlkanE
-pasugeyalli tiLisida intaha prayOjanagaLalli mukhyavAda
+pasugeyalli tiLisida intaha prayOjanagaLalli mukyavAda
 kelavannu keLage innomme cuTukAgi paTTimADalAgide:
 
-(1) cikka makkaLige mattu baraha bArada doDDavarige
+(೧) cikka makkaLige mattu baraha bArada doDDavarige
 kannaDa barahavannu kalisuva kelasa sulabavAguttade. avarige
-50 akraragaLa badalu barE 31 aktaragaLannu kalisidare
+೫೦ akraragaLa badalu barE ೩೧ aktaragaLannu kalisidare
 sAku. ivannella Oduva hAgeyE bareyuva kAraNa,
 kaliyuvudU sulaba.
 
-(2) ellA padagaLannU Oduva hAgeyE bareyuva
+(೨) ellA padagaLannU Oduva hAgeyE bareyuva
 kAraNa, ivattu kannaDadalliruva spelling‌ samasye pUrti
 illavAgutta se
 
-(3) ivattu kannaDada dinapatrikegaLalli mattu
+(೩) ivattu kannaDada dinapatrikegaLalli mattu
 katekAdambarigaLalli tumbA heccu accina tappugaLu
 kANisuvudu mahAprANa barigegaLu, ShakAra, mattu
 
@@ -2744,30 +2745,30 @@ mADikonDalli, I tapu gaLellavU illavAguttave.
 tondareyadAgi kANisuttade; Adare sadyakkantU A
 viSayadalli nAvEnU mADalArevu).
 
-(4) barahagArarige elli yAva barigeyannu baLasabEku
+(೪) barahagArarige elli yAva barigeyannu baLasabEku
 emba viSayadalli samSayavELuvudu mElina barigegaLa
 baLakeyalli mAtra. avannu Oduva hAge bareyadiruvudE
 idakke kAraNa. mElina mArbADininda I samSayagaLella
 illavAguttave.
 
-(5) keLavargada makkaLige ulipinallillada I heccina
+(೫) keLavargada makkaLige ulipinallillada I heccina
 barigegaLannu kaliyalu tumbA kaScavendenisuva kAraNa,
 avaralli kILarimeyunTAguttade mattu kalisuvavarU
-avaralli kILarimeyu unTAguva hAge mADuttAre.
-idarindAgi, avaru tamma kali keyannu arthadallE biTTu
+avaralli kILarimeyu ುnTAguva hAge mADuttAre.
+idarindAgi, avaru tamma kali keyannu artadallE biTTu
 biDuttAre.
 
-Ilina mArpADannu naDesidalli I tondare
+ೀlina mArpADannu naDesidalli I tondare
 illa vAguta mattu keLavargada makkaLige aScara maTTige
 sAmAjika nyAya dorakuttade.
-(6) I vassu Dannu naDesidalli beraLaccu mADuvudu
+(೬) I vassu Dannu naDesidalli beraLaccu mADuvudu
 mattu kampyUTarinalli bareyuvudu sulaba; SiphT‌ kIyannu
 tumbA kaDime bAri ottabEkAguttade.
-(7) padagaLannu Oduva hAgeyE bareyuva kAraNa,
+(೭) padagaLannu Oduva hAgeyE bareyuva kAraNa,
 barahakkU ADumAtigU naDuviruva antara kaDime
 yAguttade.
 
-(8) barahada toDakugaLu mattu krutakategaLu
+(೮) barahada toDakugaLu mattu krutakategaLu
 kaDimeyAguttave mattu idarindAgi baraha heccu
 jIvantavAgi kANisuttade.
 
@@ -2775,11 +2776,11 @@ mElina badalAvaNeyannu mADadiruvudarinda nAvu
 paDeyabahudAda prayOjanagaLu nanna anisikeyante
 keLaginavu mAtra :
 
-(1) samskxtada mEle heccina abimAna mattu
+(೧) samskxtada mEle heccina abimAna mattu
 pUjya 2 inva maDi viddhA msarige santOSa
 hAga jaDi
 
-(2) badalAvaNegaLinda dUra nilluva sOmArigaLigU
+(೨) badalAvaNegaLinda dUra nilluva sOmArigaLigU
 santOSavAgabahudu.
 
 Adare iScakkAgi mEle sUcisida halavu prayOjana
@@ -2788,8 +2789,8 @@ nAvu horatanda bEre kelavu pustakagaLu
 
 Di.en‌.Sankara baT‌ bareda pustakagaLu:
 
-1. kannaDa barahada sollarime-1, 2010, 2013, puTa
-328, rU. 220.
+೧. kannaDa barahada sollarime-೧, ೨೦೧೦, ೨೦೧೩, puTa
+೩೨೮, rU. ೨೨೦.
 
 [↑ oLapiDige hintirugi](#oLapiDi)
 
