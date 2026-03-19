@@ -160,11 +160,7 @@ vargadavaralli tumbhA kaDime.
 I paristitiyannu ivattu, adarallU I kUDubaleya
 (inTar‌neT‌na) yugadalli, mArTa DisalEbEkAgide.
 illa vANake] kannaDa samAja munde baralAradu.
-yAkendare, sa rAbAradaSharu AlOcisuva bagegU baraha
-
-baruvavaru AlOcisuva bagegU naDuve kelavu mukya
-
-vAda bErmegaLive.
+yAkendare, sa rAbAradaSharu AlOcisuva bagegU baraha baruvavaru AlOcisuva bagegU naDuve kelavu mukyavAda bErmegaLive.
 
 ettugege, barahaballavaru tiLivannu ondu vastuvinante
 bErpaDisi pariSIlisaballaru; Adare, barahabAradavaru
@@ -2056,9 +2052,6 @@ ingliS‌, hindi modalAda bEre kelavu nuDigaLinda
 eravalAgi paDeda padagaLannu bareyalu phakAra-jakAra
 gaLantaha kelavu heccina barigegaLannu unTumADikoLLa
 bEkAgide. ivannu kelavaru bEreyAgi OduttAre, mattu
-
-pi
-
 
 adakkAgi avannu bEreyAgi gurutisalu heccina barigegaLannu
 baLasikoLLuttidAre. Adare, ellarU ivannu. baLasuvudilla.
