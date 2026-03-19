@@ -21,6 +21,9 @@ Ettuge is a linguistic research project focused on native Kannada language prese
 ettuge/
 ├── TRANSLATION_STATUS.md        # Detailed translation task status
 ├── TRANSLATION_SUMMARY.md       # Quick summary of active translation work
+├── docs/                        # GitHub Pages output (Jekyll)
+│   ├── dnsbhat/                 # Per-book HTML pages + PROJECT-RECAP.md
+│   └── claude-project-instructions.md  # Combined skills for Claude.ai Projects
 └── src/main/
     ├── claude/kannada/          # Claude AI session transcripts (session0-5.md)
     ├── md/
@@ -56,35 +59,38 @@ ettuge/
 
 ## Active Development
 
-### Current Status
+### Current Status (as of 2026-03-19, Phase 17)
 
-All issues and PRs are currently closed. The Eke translation work is complete:
-- **PR #6**: Initial Kannada translation of `Eke.md` (merged 2026-02-18)
-- **PR #9**: DNS Bhat native terminology applied (merged 2026-02-18)
-- **PR #12, #15**: Further Sanskrit → native Kannada replacements (merged 2026-02-18 and 2026-02-19)
-- **PR #14**: Transliteration of `Eke.kn.md` → `Eke.eke.md` (merged 2026-02-19)
-- **PR #16**: Euterpea encoding of Rangapura Vihara (merged 2026-02-19)
-- **PR #17**: Brahmi lineage markdown cleanup (merged 2026-02-24)
-- **PR #18**: Kannada mnemonic table added (merged 2026-02-24)
-- **PR #19**: Fixed author attribution in `Books.md` (merged 2026-02-26)
-- **PR #22**: Added auto-assign workflow for new issues (merged 2026-02-26)
-- **PR #23, #24**: `UniversalConsciousness.md` added/updated in `physics/` (merged 2026-02-27)
-- **Ongoing**: Processing YouTube transcripts (349+ videos, 130+ cleaned)
-- **New content**: `physics/` and `self-reflection/` directories added
+All 29 DNS Bhat books have been processed through multiple phases of OCR cleanup, Nudi→Unicode conversion, romanisation generation, and TOC restructuring. Key milestones:
 
-`Eke.kn.md` (Kannada translation) and `Eke.eke.md` (Eke romanization) are complete and DNS Bhat compliant.
+- **Phase 17 (2026-03-19):** Nudi/WX encoding cleanup for books 03, 07 (vol1+vol2), 08, 14, 17, 25, 27, 28, 29. TOC restructured with `<a id="adhyAya-N">` anchors (books 03, 27). Citation quote convention standardised to curly single quotes `'word'` (U+2018/U+2019) across books 07, 17, 25, 28. Unrounded-u marker unified to `u^` across all kn-eke files.
+- **Phase 16 (2026-03-17):** Running headers removed, arka-ottu reversals fixed, fragment cleanup across 5 books.
+- **Earlier phases:** Transcript cleanup (349 videos), Eke.md translation (complete), DNS Bhat book summarization pipeline established.
+
+Full history: `docs/dnsbhat/PROJECT-RECAP.md` (also served at https://vwulf.github.io/ettuge/dnsbhat/PROJECT-RECAP).
 
 ### DNS Bhat Methodology
 All translation work must follow DNS Bhat's native Kannada word formation system:
 - Reference: `src/main/md/kannada/dnsbhat/DNS_BHAT_WORD_FORMATION_PROMPT.md`
 - Books: `src/main/md/kannada/dnsbhat/` — 29 book directories (01–29); see `dnsbhat/README.md` for the full annotated catalogue
-- Analysis files:
-  - `dns-bhat-analysis.md`
-  - `kannada-content-landscape.md`
-  - `kannada-knowledge-gap-analysis.md`
-  - `swadesh-bhat-prompt-and-analysis.md`
-  - `wiktionary-cost-analysis-kimi-k2.5.md`
-- The Eke system removes aspirated consonants — prefer native Kannada (Dravidian) roots over Sanskrit-derived terms
+- Analysis files: `dns-bhat-analysis.md`, `kannada-content-landscape.md`, `kannada-knowledge-gap-analysis.md`
+- DNS Bhat prefers native (Dravidian) roots over Sanskrit. In Eke romanisation of his own books, aspirated forms ARE romanised as-is (bh, dh, kh etc.) because he uses Sanskrit loanwords — only *new coinages* avoid aspirates.
+
+### DNS Bhat Book File Structure
+
+Each book directory contains:
+| File pattern | Content |
+|-------------|---------|
+| `NN-slug-book.md` or `NN-slug.md` | Raw OCR archive — do NOT edit |
+| `NN-slug-kn.md` | Structured Kannada source: paragraph breaks, TOC, `<a id="adhyAya-N">` anchors |
+| `NN-slug-en.md` | Chapter-wise English summary with cross-links to kn.md anchors |
+| `NN-slug-kn-eke.md` | Eke romanisation matching kn.md section structure |
+| `NN-slug-claude-prompt.md` | Condensed prompt context for Claude sessions |
+| `README.md` | Book-level index (rendered on GitHub) |
+
+**Citation quote convention (Phase 17):** All DNS Bhat typographic `` `word` `` quotes are standardised to curly single quotes `'word'` (U+2018 open, U+2019 close) in kn.md and kn-eke.md files. Do not use backtick as open-quote.
+
+**Unrounded-u marker:** `u^` in kn-eke.md represents ಉ್ (unrounded-u vowel, Havyaka feature). This is distinct from citation quotes and must not be changed.
 
 ---
 
@@ -139,11 +145,22 @@ This project deals extensively with Kannada Unicode (U+0C80–U+0CFF), Devanagar
 
 ## Eke Romanization System
 
-Eke (Ellara Kannada) is a simplified romanization designed for native Kannada speakers:
-- **Aspirates removed:** kh→k, gh→g, ch→c, jh→j, th→t, dh→d, ph→p, bh→b
-- **Retroflexes preserved:** ಟ→T, ಡ→D, ಣ→N, ಳ→L
-- **Velar nasals:** ಙ→G, ಞ→Y
-- Full mappings documented in `Eke.md`
+Eke (Ellara Kannada) is a romanization system documented in `Eke.md`. Two distinct rules apply depending on context:
+
+**When romanizing existing Kannada text (books, OCR, transcripts):** Aspirates are **preserved**:
+ಖ→kh, ಘ→gh, ಛ→ch, ಝ→jh, ಠ→Th, ಢ→Dh, ಥ→th, ಧ→dh, ಫ→ph, ಭ→bh
+
+**When coining new native Kannada words (Ellara methodology):** Avoid aspirated consonants — native Dravidian speech has no mahapranas, so prefer k, g, c, j, T, D, t, d, p, b in new coinages.
+
+**Always:**
+- Retroflexes in UPPERCASE: ಟ→T, ಡ→D, ಣ→N, ಳ→L, ಶ/ಷ→S
+- Long vowels in UPPERCASE: ಆ→A, ಈ→I, ಊ→U, ಏ→E, ಓ→O
+- Vocalic ṛ (ಋ/ೃ): x (short), X (long rare) — e.g. ಸಂಸ್ಕೃತ → samskxta
+- Anusvara ಂ: assimilated nasal — never standalone M. Before labials/sonorants→m; before velars/dentals/palatals/retroflexes→n
+- N = exclusively ಣ; never write N for anusvara before stop consonants
+- r = ರ always; R = rare archaic ಱ only
+
+Full four-rule error table: `.claude/CLAUDE.md` → Eke Canonical Rules.
 
 ---
 
@@ -170,6 +187,17 @@ Located in `src/main/md/physics/`:
 Located in `src/main/md/self-reflection/`:
 - **`index.md`** — Navigation index for all reflection documents.
 - Dated files follow the `YYYY-MM-DD_topic.md` naming convention. Topics covered include: Kannada linguistics, Indian history/culture, functional programming (Scala/Haskell), machine learning/AI, mathematics, algorithms, data engineering, infrastructure/DevOps, health/fitness, and miscellaneous.
+
+---
+
+## GitHub Pages / Jekyll
+
+The `docs/` directory is served at https://vwulf.github.io/ettuge/ via GitHub Pages with Jekyll.
+- `docs/dnsbhat/` — per-book `.html` pages (generated from kn.md, en.md, kn-eke.md sources in `src/`)
+- `docs/dnsbhat/PROJECT-RECAP.md` — full phased project history
+- `docs/claude-project-instructions.md` — combined CLAUDE.md + skills for Claude.ai Projects (phone-accessible)
+- `_config.yml` — Jekyll config (theme: minima, plugins: jekyll-relative-links)
+- Do not commit generated HTML directly — Jekyll builds from `.md` source on push.
 
 ---
 
