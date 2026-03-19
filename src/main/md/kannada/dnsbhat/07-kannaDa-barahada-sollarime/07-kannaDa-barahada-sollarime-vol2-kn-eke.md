@@ -412,8 +412,8 @@ ettugegAgi, keLage koTTiruva eraDu sollugaLannu gamanisabahudu:
 (3ka)   Ata ODuttiddAne. 
 (3ca)   Ata gelluttiddAne. 
 
-(3ka)  sollininda  `Ata  ODida'  emba  huruLannu  paDeyalu 
-baruttade;  Adare,  (3ca)  sollininda  `Ata  gedda'  emba  huruLannu  paDe 
+(3ka)  sollininda  ^Ata  ODida^  emba  huruLannu  paDeyalu 
+baruttade;  Adare,  (3ca)  sollininda  ^Ata  gedda^  emba  huruLannu  paDe 
 yalu  baruvudilla.  idakke  kAraNavEnendare,  ODu  padakke  ondu 
 mugitAya  embudilla;  adannu  yAvAga  bEkiddarU  nillisabahudu, 
 Adare  mugisalu  baruvudilla;  idallade,  adakke  orbagetana  ide;  adara 
@@ -468,7 +468,7 @@ ettugegAgi, keLage koTTiruva sollugaLannu gamanisabahudu:
 (5ca)  jAnaki ivattu sanje hADabEku. 
 (5Ta)   jAnaki ivattu sanje hADabahudu. 
 
-`ivattu  sanje  jAnaki  hADuva'  esaka  naDeyuvudu  eSTara  maTTige 
+^ivattu  sanje  jAnaki  hADuva^  esaka  naDeyuvudu  eSTara  maTTige 
 nija embudara kuritAgi ADugana niluvannu mElina mUru sollugaLu 
 tiLisuttave:  adannu  modalE  gottupaDisalAgide  embudannu  (5ka) 
 sollu,  adu  naDeyuvudu  aSTondu  kanDitavalla  embudannu  (5ca) 
@@ -526,9 +526,9 @@ esakavannu tiLisuva huruLideyAda kAraNa, avugaLalli baruva arikeya
 oTTugaLE solluhottina huruLannU koDuttaveyendu hELabahudu.   
 Adare,  hottina  iTTaLavannu  illavE  ADugana  niluvannu  I  rIti 
 sollinalli  tiLisalEbEkendEnU  illa.  ettugegAgi,  Ata  ivattu 
-bEgane  hOgabahudu  emba  sollige  `Ata  bEga  hOguvudakke 
-ADugana  oppigeyide'  emba  ottAseya  huruLirabahudu,  illavE  `Ata 
-yAvAga (bEgane) hOgabahudu' emba viSayadalli ADugana anisike 
+bEgane  hOgabahudu  emba  sollige  ^Ata  bEga  hOguvudakke 
+ADugana  oppigeyide^  emba  ottAseya  huruLirabahudu,  illavE  ^Ata 
+yAvAga (bEgane) hOgabahudu^ emba viSayadalli ADugana anisike 
 yannu  tiLisuva  arivina  huruLirabahudu.  ADugana  niluvinalliruva  I 
 vyatyAsavannu oTTugaLa mUlaka tiLisalAguvudilla. 
 
@@ -543,7 +543,7 @@ nAnu nALe beLigge maysUrige hOguttEne.
 (6ca)  nAnu ninne beLigge maysUrige hOgidde. 
 
 mElina  sollugaLalli  nALe  mattu  ninne  padagaLa  mUlaka  sollu 
-hottigU `hOguva' esakada hottigU naDuviruva pattugeyannu tiLisa 
+hottigU ^hOguva^ esakada hottigU naDuviruva pattugeyannu tiLisa 
 lAgide;  hAgiddarU,  esakapadada  mumbottina  mattu  himbottina 
 padarUpagaLannu baLasuva mUlaka adannu innomme kaDDAyavAgi tiLisa 
 bEkAgide. 
@@ -676,8 +676,8 @@ sErisi unTumADalAgideyendu hELalu baruvudilla.
 
 yAkendare,  bILu  esakapadavannu  illi  bErondu  esakavannu 
 tiLisuvudakkAgi  baLasuva  badalu,  modalanE  esakada  kuritAgi  heccina 
-sangatiyannu  (`Ata  ommegE  beccida,  mattu  avanannu  A  rIti 
-beccisabAradittu' embudannu) tiLisuvudakkAgi baLasalAgide.     
+sangatiyannu  (^Ata  ommegE  beccida,  mattu  avanannu  A  rIti 
+beccisabAradittu^ embudannu) tiLisuvudakkAgi baLasalAgide.     
 
 Adare,  kelavu  kUDupadagaLalli  eraDu  esakapadagaLU  avugaLa 
 huruLannu  mattu  avugaLondige  baraballa  pAngugaLa  eNike  mattu 
@@ -708,12 +708,12 @@ ralli vivarisalAguttade.
 5.1.6 esakagaLu mattu esakapadagaLu 
 ondu  esakada  kuritAgi  halavu  sangatigaLannu  tiLisaballevu;  Adare, 
 yAvudE  ondu  sollannu  baLasidAga,  avugaLalli  kelavu  sangatigaLannu 
-mAtra adu tiLisuttade. ettugegAgi, rAju ODida emba sollu `rAju 
-ODuva'  esakada  kuritAgi  kelavu  sangatigaLannu  mAtra  ArisikonDu 
-tiLisuttade:  `ODiddu  yAru'  embudannu  adu  tiLisuttade,  mattu 
-`ODuva  esaka  solluhottiginta  modalu  naDeyitu'  embudannU 
-tiLisuttade;  Adare,  `ODiddu  elli,  Ata  eSTu  hottu  ODida,  yAke 
-ODida,  ellinda  ellige  ODida'  embantaha  bEre  halavu  viSayagaLannu 
+mAtra adu tiLisuttade. ettugegAgi, rAju ODida emba sollu ^rAju 
+ODuva^  esakada  kuritAgi  kelavu  sangatigaLannu  mAtra  ArisikonDu 
+tiLisuttade:  ^ODiddu  yAru^  embudannu  adu  tiLisuttade,  mattu 
+^ODuva  esaka  solluhottiginta  modalu  naDeyitu^  embudannU 
+tiLisuttade;  Adare,  ^ODiddu  elli,  Ata  eSTu  hottu  ODida,  yAke 
+ODida,  ellinda  ellige  ODida^  embantaha  bEre  halavu  viSayagaLannu 
 adu tiLisuvudilla. 
 
 I  heccina  sangatigaLannu  tiLisalu  angaLadalli,  kAlu  ganTe, 
@@ -733,9 +733,9 @@ tiLuvaLike,  anubava,  hinde  kELida  illavE  Odida  sollugaLu,
 kaNNedurina kANke modalAduvannu baLasi, A esakada kuritAgi bEreyU 
 halavu heccina viSayagaLannu UhisikoLLaballaru. 
 
-ettugegAgi,  rAju  entahavanu  embudannu  tiLidiruvavaru  `avanu 
-hAvu  kanDu  hedari  ODiddAne'  illavE  `hAvannu  hiDiyalu  yAra 
-nnAdarU  kareyalu  ODiddAne'  embudannu  (11ta)  sollininda Uhisa 
+ettugegAgi,  rAju  entahavanu  embudannu  tiLidiruvavaru  ^avanu 
+hAvu  kanDu  hedari  ODiddAne^  illavE  ^hAvannu  hiDiyalu  yAra 
+nnAdarU  kareyalu  ODiddAne^  embudannu  (11ta)  sollininda Uhisa 
 ballaru.  
 
 hAgAgi,  ondu  sollina  mattu  adaralli  baLakeyAgiruva  padagaLa 
@@ -752,9 +752,9 @@ gamanisabahudu:
 (12ka)  A pustakavannu nAnu nimage koDuttidde. 
 (12ca) avanu mADida gombe cannAgide. 
 
-(12ka)  sollige  `nAnu  A  pustakavannu  nimage  koDalilla'  emba 
-oLahuruLide;  idakke  badalu,  (12ca)  sollige  `avanu  ondu  gombe 
-mADidda' emba munneNikeyide. 
+(12ka)  sollige  ^nAnu  A  pustakavannu  nimage  koDalilla^  emba 
+oLahuruLide;  idakke  badalu,  (12ca)  sollige  ^avanu  ondu  gombe 
+mADidda^ emba munneNikeyide. 
 
 oLahuruLigU  munneNikegU  naDuvina  mukya  vyatyAsavEnendare, 
 sollannu  allagaLedAga,  adara  oLahuruLannU  allagaLeda  hAgAguttade; 
@@ -764,21 +764,21 @@ Adare, adara munneNike badalAgade hAgeyE uLiyuttade:
 (12ta)  avanu mADida gombe cannAgilla. 
 
 mEle koTTiruva (12ka) sollannu illi koTTiruva (12Ta) solli 
-nondige  hOlisi  nODabahudu:  (12ka)  sollige  `A  pustakavannu 
-nAnu  nimage  koTTiralilla'  emba  oLahuruLide;  A  sollannu  allagaLe 
+nondige  hOlisi  nODabahudu:  (12ka)  sollige  ^A  pustakavannu 
+nAnu  nimage  koTTiralilla^  emba  oLahuruLide;  A  sollannu  allagaLe 
 dAga, adara huruLinondige I oLahuruLannU allagaLeda hAgAguttade 
 
 
  
 
-embudannu,  (12Ta)  sollinalli  kANabahudu;  adakke  `A  pustakavannu 
-nAnu  nimage  koTTidde'  emba  oLahuruLide,  mattu  adu  (12ka) 
+embudannu,  (12Ta)  sollinalli  kANabahudu;  adakke  ^A  pustakavannu 
+nAnu  nimage  koTTidde^  emba  oLahuruLide,  mattu  adu  (12ka) 
 solligiruva oLahuruLina allagaLetavAgide. 
 
 idakke badalu, mEle koTTiruva (12ca) sollannu illi koTTiruva 
 (12ta)  sollinondige  hOlisi  nODidalli,  hEge  ondu  sollannu 
 allagaLedAga  adara  munneNike  badalAgade  uLiyuttade  embudannu 
-tiLiyabahudu: (12ca) sollige `avanu ondu gombe mADidda' emba 
+tiLiyabahudu: (12ca) sollige ^avanu ondu gombe mADidda^ emba 
 munneNikeyide,  mattu  A  sollannu  allagaLeyuva  (12ta)  solligU 
 adE  munneNikeyide;  (12ca)  sollina  I  munneNike  adara  alla 
 gaLetavAda (12ta) sollinalli badalAgade hAgeyE uLidide. 
@@ -843,10 +843,10 @@ lAgide illavE bareyalAgide embudannu) neravige baLasikoLLuttave.
 (2ca)  avanu puNeyinda beLigge banda. 
 
 (2ka)dalli hOguttAne emba  mumbottina esakarUpa bandiddu, 
-adu  `avanu  puNege  hOguva'  esaka  A  sollannu  ADiruva  hottina 
+adu  ^avanu  puNege  hOguva^  esaka  A  sollannu  ADiruva  hottina 
 baLika  naDeyuttade  embudannu  tiLisuttade;  idakke  badalu,  (2ca)dalli 
-banda emba himbottina esakarUpa bandiddu, adu `avanu puNeyinda 
-baruva'  esaka  A  sollannu  ADiruva  hottiginta  modalu  naDedide 
+banda emba himbottina esakarUpa bandiddu, adu ^avanu puNeyinda 
+baruva^  esaka  A  sollannu  ADiruva  hottiginta  modalu  naDedide 
 embudannu tiLisuttade. 
 
 
@@ -855,9 +855,9 @@ embudannu tiLisuttade.
 kannaDada sollugaLalli baruva hottina parice nuDitagaLu heccukaDime 
 esakarUpagaLu  baLasuva  hottannE  innaSTu  vivaravAgi  tiLisuttave. 
 ettugegAgi,  nALe  baruttEne  emba  sollinalli  baruttEne  emba 
-esakarUpa  `A  esaka  sollannu  ADiruva  illavE  barediruva  hottina 
-baLika naDeyuvude'ndu tiLisuttade, mattu nALe emba paricepada `adu 
-eSTu  hottina  baLika  naDeyuttade  (ondu  divasada  baLika)'  embudannu 
+esakarUpa  ^A  esaka  sollannu  ADiruva  illavE  barediruva  hottina 
+baLika naDeyuvude^ndu tiLisuttade, mattu nALe emba paricepada ^adu 
+eSTu  hottina  baLika  naDeyuttade  (ondu  divasada  baLika)^  embudannu 
 tiLisuttade;  nALe  beLigge  ELUvare  ganTege  baruttEne  emba 
 sollinalli  nALe  beLigge  ELUvare  ganTege  embudu  idannE  innaSTu 
 vivaravAgi tiLisuttade.  
@@ -912,16 +912,16 @@ bahudu:
 rAju manege hOda. 
 rAju manege hOgalu bassu hattida. 
 
-(4ka)  sollinalli  `rAju  manege  hOguva'  esakada  hottannu  A 
+(4ka)  sollinalli  ^rAju  manege  hOguva^  esakada  hottannu  A 
 sollannu baLasiruva hottige (endare, solluhottige) sambandisidante 
 tiLisalAgide; adu A sollannu baLasuva hottiginta modalE naDedittu; 
 hAgAgi,  hOda  emba  himbottina  konerUpavannu  I  (4ka)  solli 
 nalli baLasalAgide. 
 
-idakke  badalu,  (4ca)dalli  `rAju  manege  hOguva'  esakada 
-hottannu  `bassu  hattuvude'mba  bErondu  esakada  hottige  sambandisi 
-dante  tiLisalAgide;  rAju  `bassu  hattuva'  I  esakavannu  naDesida  baLika 
-`manege  hOguva'  esakavannu  naDesiddAne;  hAgAgi,  hOgalu  emba 
+idakke  badalu,  (4ca)dalli  ^rAju  manege  hOguva^  esakada 
+hottannu  ^bassu  hattuvude^mba  bErondu  esakada  hottige  sambandisi 
+dante  tiLisalAgide;  rAju  ^bassu  hattuva^  I  esakavannu  naDesida  baLika 
+^manege  hOguva^  esakavannu  naDesiddAne;  hAgAgi,  hOgalu  emba 
 modalesakada jODisuva rUpavannu A (4ca) sollinalli baLasalAgide. 
 I  eraDu  holabugaLalli  baLakeyAguva  hottina  pattugegaLannu 
 
@@ -971,7 +971,7 @@ vantaha sollannu manassinalli kaTTikoLLabEkAguttade, mattu idakke tusu
 hottu  hiDiyuttade;  hAgAgi,  ondu  esaka  solluhottinalli  naDeyu 
 naDeyuttira 
 ttideyendu  hELabEkAdare,  adu 
-bEkAguttade; endare, adu `munduvariyuva' esakavAgirabEkAguttade.  
+bEkAguttade; endare, adu ^munduvariyuva^ esakavAgirabEkAguttade.  
 suLurUpagaLa 
 mUlaka  esakagaLannu  iDiyAgi  gamanisi  tiLisuva  kAraNa,  A  rIti 
 avugaLa mUlaka esakagaLa munduvarikeyannu gamanisi tiLisalu baruvu 
@@ -989,7 +989,7 @@ tiLisabEkAdalli,  antaha  esaka  tusu  hottu  sAguttiruva  esaka
 vembudAgi tiLisabEkAguttade (hADuttiddALe). endare, illi hottina 
 pattugeya badalu hottina iTTaLavannu baLasabEkAguttade. 
 
-(2)  heccu  hottu  uLiyuvantaha  `iruha'vannu  tiLisuva  iru 
+(2)  heccu  hottu  uLiyuvantaha  ^iruha^vannu  tiLisuva  iru 
 padakke kannaDadalli mumbottu (iruttAne), himbottu (idda), mattu 
 Ipottu  (iddAne)  embudAgi  mUru  bageya  hottina  rUpagaLive 
 
@@ -1003,7 +1003,7 @@ sAkaSTu samaya dorakuttade.
 (5ca)  avanu Iga maneyalliddAne. 
 (5Ta)  avanu ninne maneyallidda. 
 
-(5ka)dalli  `Atana  iruha'  solluhottina  baLikaddu  (sanje)  embu 
+(5ka)dalli  ^Atana  iruha^  solluhottina  baLikaddu  (sanje)  embu 
 dAgi  tiLisalAgide,  (5ca)dalli  adu  solluhottinallE  (Iga)  ide 
 endu  tiLisalAgide,  mattu  (5Ta)dalli  adu  solluhottiginta 
 modalinadu  (ninne)  embudAgi  tiLisalAgide.  I  vyatyAsavannu  iru 
@@ -1016,7 +1016,7 @@ lAguttideyAdarU,  sollupattugeyannu  tiLisuvalli  kANisuvantahadE
 tondare  illiyU  edurAguttade;  hAgAgi,  ondu  esaka  bErondu 
 esaka  naDeyuva  hottinallE  naDeyuttide  (illavE  naDeyuttittu) 
 embudannu  tiLisuva  oDanesakada  jODisuva  rUpakkU  adondu 
-`munduvariyuva  esaka'  emba  huruLiddu,  allU  kUDa  hottina 
+^munduvariyuva  esaka^  emba  huruLiddu,  allU  kUDa  hottina 
 iTTaLavE baLakeyAguttadallade, hottina pattuge baLakeyAguvudilla. 
 
 ettugegAgi,  OduttA  UTamADida  emballi  OduttA  embudu  
@@ -1048,8 +1048,8 @@ kelavaru nALe hOguttAre.
 
 mElina  sollugaLalli  mumbottina  esakarUpagaLannu  baLasalAgiddu, 
 avu  tiLisuva  esaka  A  sollugaLannu  baLasuva  hottinalli  innU 
-naDediralilla  embudannu  gamanisabahudu;  ettugegAgi,  `risalTu  innU 
-bandilla'  emba  oLahuruLu  (6ka)  solligide.  uLida  sollugaLallU 
+naDediralilla  embudannu  gamanisabahudu;  ettugegAgi,  ^risalTu  innU 
+bandilla^  emba  oLahuruLu  (6ka)  solligide.  uLida  sollugaLallU 
 hIgeyE. 
 
 (1)  sAmAnyavAgi,  I  rUpavannu  baLasiruvalli  esaka  munde 
@@ -1065,7 +1065,7 @@ keLagina sollugaLalli kANabahudu:
 (8ka)  I bassu mUru ganTege horaDuttade. 
 (8ca)  I bassu mUru ganTege horaDabEku. 
 
-`maduvege ADugana aNNa hOguvudu' kanDitaviruvalli mAtra (7ka) 
+^maduvege ADugana aNNa hOguvudu^ kanDitaviruvalli mAtra (7ka) 
 sollannu baLasalAguttade; I viSayadalli ADuganige samSayavEnAdarU 
 ideyAdalli  (7ka)da  badalu  (7ca)  sollannu  baLasalAguttade;  (8ka) 
 mattu  (8ca)  sollugaLa  naDuveyU  intahadE  vyatyAsavide.  Adare, 
@@ -1084,7 +1084,7 @@ gamanisabahudu:
 (9Ta)  A pustaka nanage eTakuttade. 
 (9ta)  avanige tale nOyuttade. 
 
-`avanu  mADidudu  sariyalla'  emba  anisike  ADuganalli  mElina 
+^avanu  mADidudu  sariyalla^  emba  anisike  ADuganalli  mElina 
 (9ka)  sollannu  ADiruva  hottiginta  modalU  iddiraballudu,  mattu 
 AmElU  adu  Atanalli  uLidiraballudu;  Adare  adu  I  sollina 
 maTTige mukyavalla. adannu ADiruva samayadalli, endare Ipottinalli 
@@ -1117,8 +1117,8 @@ sollugaLannu gamanisabahudu:
  
 
 (11ka)  sollu  solluhottina  baLika  naDeyava  ondu  esakavannu 
-tiLisuttirabahudu;  illavE  `sAmAnyavAgi  SeTTaru  angaDi  bAgilannu 
-yAvAga  tereyuttAre'  embudannu,  endare  baLakeyalliruva  ondu 
+tiLisuttirabahudu;  illavE  ^sAmAnyavAgi  SeTTaru  angaDi  bAgilannu 
+yAvAga  tereyuttAre^  embudannu,  endare  baLakeyalliruva  ondu 
 esakavannu tiLisuttirabahudu.  
 
 adu  tiLisuva  I  eraDaneya  bageya  (baLakeya)  esaka  sollu 
@@ -1143,8 +1143,8 @@ mumbottina esakarUpagaLannu baLasuvudide.
 dakkAgiyU  kelavomme  baLasalAguttade;  intaha  baLakeyinda  arikeya 
 oraTutanavannu kaDime mADalu baruttade: 
 
-(12ka)  avaru ivattu illE iruttAre. (`irali' emba huruLu) 
-(12ca)  I huDuga nimmondige baruttAne. (`nimmondige hOgali' 
+(12ka)  avaru ivattu illE iruttAre. (^irali^ emba huruLu) 
+(12ca)  I huDuga nimmondige baruttAne. (^nimmondige hOgali^ 
 
 emba huruLu) 
 
@@ -1171,8 +1171,8 @@ gaLalli kANabahudu:
 (14Ta)  avanu Aru ganTe hottu Ti.vi. nODida.   
 (14ta)  huDugaru hagaliDI nidde mADidaru. 
 
-(14ka)  sollu  tiLisuva  `kiTikiya  baLige  hOguva'  esakakkU, 
-(14ca)  sollu  tiLisuva  `20  varSa  vAsamADuva'  esakakkU  naDuve 
+(14ka)  sollu  tiLisuva  ^kiTikiya  baLige  hOguva^  esakakkU, 
+(14ca)  sollu  tiLisuva  ^20  varSa  vAsamADuva^  esakakkU  naDuve 
 avugaLa  uddadalli  tumbA  vyatyAsavide;  hAgiddarU  I  eraDu  kaDe 
 gaLallU ondE bageya himbottina rUpa baLakeyAgide; (14Ta) mattu 
 (14ta)  sollugaLalli  bandiruva  esakagaLallU  intahadE  rUpa  baLake 
@@ -1190,8 +1190,8 @@ baLasalAguvudilla;  kannaDadalli  idakkAgi  hottina  iTTaLavannu  tiLisuva
 (15Ta)  Ake vINeyannu cannAgi bArisuttiddaLu. 
 (15ta)  Atanige bahaLa bEga kOpa baruttittu. 
 
-(15ka)dalli  solluhottiginta  modalu  baLakeyallidda  `Atanu 
-dinAlU  sanje  vAkingige  hOguva'  esakavannu  tiLisalu  hOguttidda 
+(15ka)dalli  solluhottiginta  modalu  baLakeyallidda  ^Atanu 
+dinAlU  sanje  vAkingige  hOguva^  esakavannu  tiLisalu  hOguttidda 
 emba  sikkalu  rUpavannu  baLasalAgide;  idaralli  oDanesakada  hOgutta 
 jODisuva rUpadondige iru neravesakapadada himbottina rUpavannu 
 (idda embudannu) baLasalAgide. hOda emba himbottina suLurUpa 
@@ -1258,9 +1258,9 @@ intaha baLakeyannu keLagina sollugaLallU kANabahudu:
 (19ka)  nIvu hindiruguvAga I bAgilu terediruttade. 
 (19ca)  nAnu hindirugidAga I bAgilu teredittu. 
 
-(19ka)  sollige  `Iga  bAgilu  muccide'  illavE  `ninne  muccittu' 
+(19ka)  sollige  ^Iga  bAgilu  muccide^  illavE  ^ninne  muccittu^ 
 emba  huruLilla;  sollina  hottiginta  mundina  ondu  hottinalli 
-(`nIvu  hindiruguva  hottinalli')  bAgilu  terediruttade  endiSTE  adu 
+(^nIvu  hindiruguva  hottinalli^)  bAgilu  terediruttade  endiSTE  adu 
 hELuttade.  idakke  kAraNavEnendare,  A  ondu  sandarbadalli  bAgilu 
 terediruttadeyO, illavE mucciruttadeyO embudiSTE  illi kELuga 
 nige bEkAgiruva viSayavAgide. 
@@ -1285,20 +1285,20 @@ bareyalAgideyO) adu sollina hottu; mattu
 (Ta)  yAva  hottina  kuritAgi  iruhavannu  tiLisalAgideyO 
 adu tiLivina hottu. 
 
-illi `tiLivina hottu' embudu pAngina iruhada kuritAgi tiLivannu 
-koTTiruva  hottalla;  yAkendare,  antaha  hottannu  `sollina  hottu' 
+illi ^tiLivina hottu^ embudu pAngina iruhada kuritAgi tiLivannu 
+koTTiruva  hottalla;  yAkendare,  antaha  hottannu  ^sollina  hottu^ 
 embudAgi  kareyalAgide;  yAva  hottina  kuritAgi  iruhada  tiLivannu 
-koDalAguttadeyO adu `tiLivina hottu'.  
+koDalAguttadeyO adu ^tiLivina hottu^.  
 
 ettugegAgi,  ninne  beLigge  rAju  maneyallidda  emba  sollinalli 
-ninne  beLigge  embudu  tiLivina  hottannu  koDuttade;  `A  hottinalli 
-rAju  maneyalliddanO  illavO'  embudaSTE  ADuganige  mElina 
+ninne  beLigge  embudu  tiLivina  hottannu  koDuttade;  ^A  hottinalli 
+rAju  maneyalliddanO  illavO^  embudaSTE  ADuganige  mElina 
 sollannu  baLasuvalli  mukyavAgiruva  viSaya.  rAju  hindina  divasa 
 sanjeyU  maneyalliddirabahudu,  Adare  adu  mElina  sollannu 
 baLasuvalli  mukyavalla.  (idallade,  ADuganige  adu  gottilladeyU 
 iraballudu). 
 
-nijakkU  `rAju  maneyallidda  hottu'  embudu  iruhada  hottannu 
+nijakkU  ^rAju  maneyallidda  hottu^  embudu  iruhada  hottannu 
 koDuttade;  I  hottina  ondu  amSavannaSTE  tiLivina  hottu  oLa 
 gonDiruttade.  sollannu  ADiruva  illavE  barediruva  hottu  sollina 
 hottAgiddu,  tiLivina  hottu  adakkinta  hindinadu  endiSTE  mElina 
@@ -1320,7 +1320,7 @@ tiLivina hottu sollina hottiginta hindinadu embudannu tiLisalAgide.
 
 5.2.6 esakahottina baLake 
 ondu  esakada  hottannu  bErondu  esakada  hottinondige 
-sambandisuva  mUlaka  adara  `esakahotta'nnu  tiLisalAguttade,  mattu 
+sambandisuva  mUlaka  adara  ^esakahotta^nnu  tiLisalAguttade,  mattu 
 idakkAgi  esakapadada  modalesaka,  mAresaka  mattu  oDanesakagaLemba 
 mUru  bageya  jODisuva  rUpagaLannu  baLasalAguttade  embudannu 
 mEle  nODiruvevu.  I  mUru  bageya  jODisuva  rUpagaLa  baLake 
@@ -1350,10 +1350,10 @@ mAtra avannu jODisabahudu:
 (22ka)  *rAju marakke hatti jAnaki avanige katti koTTaLu. 
 (22ca)  *rAju tarakAri tandu avana henDati bEyisidaLu. 
 
-(21ka)dalli  `marakke  hattuva'  mattu  `gellu  kaDiyuva'  esakagaLannu 
+(21ka)dalli  ^marakke  hattuva^  mattu  ^gellu  kaDiyuva^  esakagaLannu 
 obbanE  vyakti  (rAju)  naDesiruva  kAraNa,  A  sollu  sariyAgide; 
-(21ca)dallU hIgeyE. Adare, (22ka)dalli `marakke hattuva' esakavannu 
-rAju  mADiddu,  `avanige  katti  koDuva'  esakavannu  bErobba  vyakti 
+(21ca)dallU hIgeyE. Adare, (22ka)dalli ^marakke hattuva^ esakavannu 
+rAju  mADiddu,  ^avanige  katti  koDuva^  esakavannu  bErobba  vyakti 
 
 
  
@@ -1368,11 +1368,11 @@ bEreyAdarU antaha esakagaLannu jODisi hELalu baruttade:
 (23ka)  maLe bandu kere tumbitu. 
 (23ca)  nAvu bEgane bandu avarige tondareyAyitu. 
 
-(23ka)dalli `maLe baruvudu' mattu `kere tumbuvudu' emba eraDu 
+(23ka)dalli ^maLe baruvudu^ mattu ^kere tumbuvudu^ emba eraDu 
 esakagaLU  hatOTiyallillada  esakagaLu;  hAgAgi,  avugaLa  AgugagaLu 
 bEre  bEreyAdarU,  avannu  jODisi  hELalu  sAdyavAgide;  idakke 
-badalu, (23ca)dalli `bEgane baru' embudu hatOTiyalliruva esaka 
-vAgideyAdarU, adarondige bandiruva `avarige tondareyAguvudu' 
+badalu, (23ca)dalli ^bEgane baru^ embudu hatOTiyalliruva esaka 
+vAgideyAdarU, adarondige bandiruva ^avarige tondareyAguvudu^ 
 embudu hatOTiyallillada esaka; hAgAgi, I eraDu esakagaLa Aguga 
 mattu  mADugagaLu  bEre  bEreyAgiveyAdarU  avannu  jODisalu 
 sAdyavAgide. 
@@ -1387,7 +1387,7 @@ kANabahudu:
 (24ka)  ODuva bassininda keLage hArida. 
 (24ca)  koLeta haNNannu tinnabEDiri. 
 
-(24ka)dalli  `bassu  entahadu'  embudannu,  endare  adara  parice 
+(24ka)dalli  ^bassu  entahadu^  embudannu,  endare  adara  parice 
 yannu  ODuva  mumbottina  paricepada  tiLisuttade;  mattu  (24ca)dalli 
 koLeta  emba  himbottina  paricepadavU  idE  rItiyalli  haNNina 
 pariceyannu tiLisuttade.  
@@ -1483,7 +1483,7 @@ rAju manege hOgiddAne.
 
 (1ka)  sollinalli  hOgi  emba  modalesakada  jODisuva  rUpa 
 dondige  iddAne  emba  iru  padada  Ipottina  rUpavannu  baLasa 
-lAgide.  I  eraDu  esakarUpagaLu  oTTAgi,  `rAju  manege  hOguva' 
+lAgide.  I  eraDu  esakarUpagaLu  oTTAgi,  ^rAju  manege  hOguva^ 
 esakada  konegoLLuvike  solluhottina  modalu  naDedide  embudannu 
 tiLisuttave. 
 
@@ -1492,7 +1492,7 @@ tiLisuttave.
 
 idakke badalu, (1ca)dalli hOgutta emba oDanesakada jODisuva 
 rUpadondige  iru  padada  Ipottina  rUpavannu  baLasalAgide,  mattu 
-I  eraDu  esakarUpagaLu  oTTAgi  `rAju  manege  hOguva'  esaka 
+I  eraDu  esakarUpagaLu  oTTAgi  ^rAju  manege  hOguva^  esaka 
 solluhottinalli munduvariyuttide embudannu tiLisuttade.  
 
 idE rItiyalli, adE esakada konegoLLuvike solluhottina baLika 
@@ -1520,7 +1520,7 @@ koTTiruva sollugaLalli kANabahudu:
 (2ka)dalli mADu esakapadada modalesakada jODisuva rUpavAda 
 mADi embudarondige iru padada himbottina konerUpavannu (idda 
 embudannu)  baLasalAgide,  mattu  mADidda  emba  I  sikkalurUpa 
-sollina  hottiginta  modalE  `mADuva  kelasa'  konegonDittu 
+sollina  hottiginta  modalE  ^mADuva  kelasa^  konegonDittu 
 embudannu tiLisuttade.  
 
 modalesakada  jODisuva 
@@ -1529,7 +1529,7 @@ idakke badalu, (2ca)da mADiruttAne embudaralli mADu esaka
 padada 
 padada 
 mumbottina  konerUpavannu  (iruttAne  embudannu)  baLasalAgide, 
-mattu  adu  `mADuva  kelasa'  sollina  hottina  baLika  konegoLLuttade 
+mattu  adu  ^mADuva  kelasa^  sollina  hottina  baLika  konegoLLuttade 
 embudannu tiLisuttade. 
 
 rUpadondige  iru 
@@ -1553,10 +1553,10 @@ nAnu baruvudaroLage hattu puTa baredirali.
 
 (3ka)dalli  bare  padada  baredu  emba  modalesakada  jODisuva 
 rUpadondige  iru  padada  arikeya  rUpavannu  baLasalAgide,  mattu 
-adu  `bareyuva  kelasa  ondu  kanDitavAda  hottina  modalu 
-konegonDirabEku'  embudannu  tiLisuttade.  idakke  badalu,  (3ca)dalli 
+adu  ^bareyuva  kelasa  ondu  kanDitavAda  hottina  modalu 
+konegonDirabEku^  embudannu  tiLisuttade.  idakke  badalu,  (3ca)dalli 
 Odu padada Odutta emba oDanesakada jODisuva rUpadondige iru 
-padada arikerUpavannu baLasalAgide, mattu adu `makkaLu Oduva kelasa' 
+padada arikerUpavannu baLasalAgide, mattu adu ^makkaLu Oduva kelasa^ 
 ondu kanDitavAda hottinalli naDeyuttirabEku embudannu tiLisuttade. 
 (4)  esakapadagaLu  tiLisuva  esakagaLige  avugaLadE  Ada  hottina 
 sollugaLannu 
@@ -1567,8 +1567,8 @@ gamanisabahudu:
 (4ka)  avanu kuNiyuttiddAne. 
 (4ca)  avanu hoLe dATuttiddAne. 
 
-(4ka)  sollininda  `avanu  kuNida'  emba  oLahuruLannu  paDeyalu 
-baruttade;  Adare,  (4ca)  sollininda  `avanu  hoLe  dATida'  emba 
+(4ka)  sollininda  ^avanu  kuNida^  emba  oLahuruLannu  paDeyalu 
+baruttade;  Adare,  (4ca)  sollininda  ^avanu  hoLe  dATida^  emba 
 oLahuruLannu  paDeyalu  baruvudilla;  yAkendare,  hoLe  dATalu 
 horaTavanu  naDuvinindalE  hindirugirabahudu,  illavE  hoLeyalli 
 muLugihOgirabahudu. 
@@ -1587,7 +1587,7 @@ emba oLahuruLannu paDeyalu baruvudilla.
 
 Adare,  kuNi  embudakke  intaha  mugitAya  embudilla.  adannu 
 yAvAga bEkiddarU nillisalu baruttade, Adare mugisalu baruvudilla. 
-hAgAgi,  (4ka)  sollininda  `avanu  kuNida'  emba  oLahuruLannu  paDe 
+hAgAgi,  (4ka)  sollininda  ^avanu  kuNida^  emba  oLahuruLannu  paDe 
 yalu baruttade. 
 
 esakapadagaLannu  sollugaLalli  baLasidAga  entaha  huruLu  doraku 
@@ -1704,15 +1704,15 @@ mattu  ivugaLondige  (7ka)dalli  iru  padada  mumbottina  iruttAne
 rUpavannu,  (7ca)dalli  himbottina  idda  rUpavannu,  mattu  (7Ta)dalli 
 Ipottina iddAne rUpavannu baLasalAgide. 
 
-(7ka) sollige `nALe mUru ganTege appa kaDUrige hOguva kelasa 
-konegonDiruttade'  emba  huruLu,  (7ca)  sollige  `nIvu  banda 
-hottinalli  Ata  niddemADuva  esaka  konegonDittu'  emba  huruLu, 
-mattu  (7Ta)  sollige  `A  sollannu  nuDida  hottige  (endare  sollina 
-hottige)  Ata  illige  baruva  esaka  konegonDide'  emba  huruLu 
+(7ka) sollige ^nALe mUru ganTege appa kaDUrige hOguva kelasa 
+konegonDiruttade^  emba  huruLu,  (7ca)  sollige  ^nIvu  banda 
+hottinalli  Ata  niddemADuva  esaka  konegonDittu^  emba  huruLu, 
+mattu  (7Ta)  sollige  ^A  sollannu  nuDida  hottige  (endare  sollina 
+hottige)  Ata  illige  baruva  esaka  konegonDide^  emba  huruLu 
 dorakuttade. 
 
 mElina mUru sollugaLallU konegoLLuva hottina iTTaLagaLannu 
-tiLisalAgiddu,  adu  `yAva  hottinalli  naDediruttade'  embudannu  iru 
+tiLisalAgiddu,  adu  ^yAva  hottinalli  naDediruttade^  embudannu  iru 
 neravesakapadada  mUru  hottina  padarUpagaLu  aDakavAgi  tiLisuttave; 
 mattu, adannE heccu vivaravAgi avugaLondige bandiruva padakantegaLu 
 illavE  oLasollugaLu  (ninne  mUru  ganTege  mattu  ninne  rAtri 
@@ -1744,12 +1744,12 @@ lAgide,  mattu  avugaLondige  iru  neravesakapadada  mumbottina  iru
 ttade, himbottina idda,  mattu Ipottina iddAne rUpagaLannu baLasa 
 lAgide. 
 
-ivugaLalli  eraDaneyadAgiruva  (8ca)  sollige  `Ata  nidde  mADalu 
-toDagaliddudu  nIvu  banda  hottinalli'  emba  huruLu  baruttade; 
-`nIvu  banda  kAraNa,  Ata  nidde  mADalu  toDagalilla'  emba  oLa 
-huruLU  I  solligide.  mUraneyadAda  (8Ta)  sollige  `appa 
+ivugaLalli  eraDaneyadAgiruva  (8ca)  sollige  ^Ata  nidde  mADalu 
+toDagaliddudu  nIvu  banda  hottinalli^  emba  huruLu  baruttade; 
+^nIvu  banda  kAraNa,  Ata  nidde  mADalu  toDagalilla^  emba  oLa 
+huruLU  I  solligide.  mUraneyadAda  (8Ta)  sollige  ^appa 
 kaDUrige  hOguva  kelasa  I  hottinalli  (solluhottinalli)  toDaga 
-lide' emba huruLide.  
+lide^ emba huruLide.  
 
 idallade,  solluhottina  baLika  bErondu  hottinalli  toDaga 
 liruva esakavannU I mUraneya (8Ta) sollu tiLisaballudu. idannu 
@@ -1789,8 +1789,8 @@ kANisuvudilla.
 
 (3)  oDanesaka:  tiruLesakapadada  oDanesakada  jODisuva  rUpa 
 dondige  iru  neravesakapadada  mumbottu,  himbottu  mattu 
-Ipottina  rUpagaLannu  baLasidalli,  adu  `yAva  hottinalli  esaka 
-naDeyuttA  ide,  ittu  illavE  iruttade'  embudAgi,  munduvarike 
+Ipottina  rUpagaLannu  baLasidalli,  adu  ^yAva  hottinalli  esaka 
+naDeyuttA  ide,  ittu  illavE  iruttade^  embudAgi,  munduvarike 
 yemba adara bErondu iTTaLa yAva hottinalli naDeyuttade illavE 
 naDeyitu embudannu tiLisuttade. idannu keLage koTTiruva sollugaLalli 
 kANabahudu:  
@@ -1803,8 +1803,8 @@ mElina sollugaLalli tiruLesakapadada oDanesakada jODisuva rUpa
 gaLAda  mADutta  mattu  Odutta  embavugaLondige  neravesakapadada 
 mumbottu  (iruttAne),  himbottu  (idda)  mattu  Ipottina 
 (iddAne)  rUpagaLannu  baLasalAgide.  ivu  tiruLesakapada  tiLisuva  esaka 
-`yAva  hottinalli  (nALe  mUru  ganTege,  ninne  rAtri  nIvu 
-bandAga,  mattu  Iga)  naDeyuttA  iruttade  (illavE  ittu)'  embu 
+^yAva  hottinalli  (nALe  mUru  ganTege,  ninne  rAtri  nIvu 
+bandAga,  mattu  Iga)  naDeyuttA  iruttade  (illavE  ittu)^  embu 
 dannu tiLisuttave. 
 
  (4)  baLakeya  huruLu:  iruttAne  rUpakke  mumbottina  iruvike 
@@ -1913,7 +1913,7 @@ tiLisuva konerUpagaLa baLakeyannu keLagina sollugaLalli kANabahudu:
 (17Ta)  (ajji allige hOguvaSTaralli) bekku marakke hattiruttade. 
 
 mElina  mUru  sollugaLu  mUru  bageya  konegoLLuvikegaLannu 
-tiLisuttave; `bekku marakke hattuva' esaka sollina hottige konegonDide 
+tiLisuttave; ^bekku marakke hattuva^ esaka sollina hottige konegonDide 
 yembudannu  (17ka)  sollu  tiLisuttade;  adu  sollina  hottiginta 
 modalE  konegonDittembudannu  (17ca)  sollu  tiLisuttade;  mattu 
 adu  A  hottina  baLika  konegoLLuttadeyembudannu  (17Ta)  sollu 
@@ -1952,16 +1952,16 @@ vyatyAsavannu keLagina sollugaLalli kANabahudu:
 (20ka)  nAyige hedari bekku marakke hattittu. 
 (20ca)  nAyige hedari bekku marakke hattide. 
 
-`Atana  kOpa  innU  taNidilla'vemba  huruLu  (19ca)  solligide; 
-Adare,  (19ka)  sollige  I  huruLilla;  idE  rItiyalli,  `bekku  innU 
-marada  mEleyE  ide'  emba  huruLu  (20ca)  solligide,  Adare 
+^Atana  kOpa  innU  taNidilla^vemba  huruLu  (19ca)  solligide; 
+Adare,  (19ka)  sollige  I  huruLilla;  idE  rItiyalli,  ^bekku  innU 
+marada  mEleyE  ide^  emba  huruLu  (20ca)  solligide,  Adare 
 (20ka) solligilla. 
 
 (3)  I  eraDu  bageya  iTTaLagaLannU  solluhottiginta  hindina 
 hottannu  tiLisuva  padakanteyondige  baLasalu  baruttade;  Adare,  iru 
-padada  Ipottina  rUpavannu  baLasiruva  iTTaLakkiruva  `A  esaka  sollu 
+padada  Ipottina  rUpavannu  baLasiruva  iTTaLakkiruva  ^A  esaka  sollu 
 hottiginta  modalE  naDedideyAdarU  adara  pariNAma  sollu 
-hottinalli  uLidukonDide'  emba  huruLu  adara  himbottina  rUpa 
+hottinalli  uLidukonDide^  emba  huruLu  adara  himbottina  rUpa 
 vannu baLasiruva rUpakkilla. 
 
 (21ka)  maLe baruva modalE avanu kelasa mugisidda. 
@@ -2010,8 +2010,8 @@ gamanisabahudu:
 (23ka)  ninne bandiruva huDuganige jvara baruttide. 
 (23ca)  ninne bandidda huDuga beLiggeyE horaTu hOda. 
 
-(23ka)dalli  baLakeyAgiruva  bandiruva  rUpakke  `huDuga  innU 
-allE  (bandiruvallE)  iddAne'  emba  huruLide;  Adare,  (23ca)dalli 
+(23ka)dalli  baLakeyAgiruva  bandiruva  rUpakke  ^huDuga  innU 
+allE  (bandiruvallE)  iddAne^  emba  huruLide;  Adare,  (23ca)dalli 
 baLakeyAgiruva bandidda padakke I huruLilla. 
 
 iru padada allagaLeyuva paricerUpavannu (illavE illada embu 
@@ -2032,11 +2032,11 @@ vannu baLasuvudakkU naDuve hottina iTTaLadalli vyatyAsavide embudannu
 illi gamanisabahudu. 
 
 esakapadada  himbottina  paricerUpavannu  nEravAgi  hesarupada 
-dondige  baLasidalli,  adu  `esaka  solluhottina  modalu  naDedide' 
+dondige  baLasidalli,  adu  ^esaka  solluhottina  modalu  naDedide^ 
 endiSTE  tiLisaballudu;  idakke  badalu,  esakapadada  himbottina 
 jODisuva  rUpadondige  iru  padada  paricerUpavannu  baLasidalli, 
-adu  mElina  huruLinondige,  `solluhottinalli  esakada  pariNAma 
-IgalU uLidide/illa' emba heccina sangatiyannU tiLisuttade. 
+adu  mElina  huruLinondige,  ^solluhottinalli  esakada  pariNAma 
+IgalU uLidide/illa^ emba heccina sangatiyannU tiLisuttade. 
 
 (25ka)  bOninalli bidda huli 
 (25ca)  bOninalli biddiruva huli 
@@ -2076,8 +2076,8 @@ bahudu:
 (27ca)  avanu manege hOgiddu hindirugida. 
 
 (27ka)  sollige  Ata  manege  hOda  kUDalE  hindirugida  emba 
-huruLu baraballudu; Adare, (27ca) sollige antaha huruLilla. `Ata 
-manege hOgi svalpa hottu alliddu banda' emba huruLu adakkide.  
+huruLu baraballudu; Adare, (27ca) sollige antaha huruLilla. ^Ata 
+manege hOgi svalpa hottu alliddu banda^ emba huruLu adakkide.  
 
 I  sikkalu  rUpakke  munde  baruva  esakada  kAraNavannu  tiLisuva 
 
@@ -2120,8 +2120,8 @@ huruLu siguttade:
 (29ca)  avaru namma manege bandiruvudu ellarigU santOSa. 
 (29Ta)  avaru namma manege bandiddudu ellarigU santOSa. 
 
-`avaru  namma  maneyalli  IgalU  iddAre'  emba  huruLu  (29ca) 
-solligide, mattu `Iga illa' emba huruLu (29Ta) solligide; Adare, 
+^avaru  namma  maneyalli  IgalU  iddAre^  emba  huruLu  (29ca) 
+solligide, mattu ^Iga illa^ emba huruLu (29Ta) solligide; Adare, 
 (29ka) sollige I eraDu huruLugaLalli nEravAgi yAvudU illa. 
 
 iru  padada  allagaLeyuva  udu-hesarurUpa  (iradudu)  heccu 
@@ -2166,16 +2166,16 @@ lidda esakavannu tiLisalAguttade:
 illi  gamanisabEkAgiruva  ondu  mukyavAda  viSayavEnendare, 
 mAresakada  jODisuva  rUpavannu  sAmAnyavAgi  eraDu  esakagaLalli 
 ondu innondara baLika naDeyuttade embudannu tiLisuvudakkAgi baLasa 
-lAguttade:  Ata  bareyalu  kuLita  emba  sollige  `Ata  kuLita  baLika 
-bareyalu toDaguttAne' emba huruLide. hOgalu hELida (`hOgu 
-vudu  hELida  baLika'),  tinnalu  koTTa  (`tinnuvudu  koTTa  baLika') 
+lAguttade:  Ata  bareyalu  kuLita  emba  sollige  ^Ata  kuLita  baLika 
+bareyalu toDaguttAne^ emba huruLide. hOgalu hELida (^hOgu 
+vudu  hELida  baLika^),  tinnalu  koTTa  (^tinnuvudu  koTTa  baLika^) 
 emballU intahadE huruLannu kANabahudu. 
 
 hAgAgi, tiruLesakapadada mAresakada jODisuva rUpadondige iru 
 padada  himbottina  rUpavannu  baLasidAgalella,  adu  hinde  naDediruva 
 toDaguvikeyannu tiLisuva badalu, hinde naDeyabEkidda, Adare nijakkU 
 naDeyadidda toDaguvikeyannu tiLisuttade. idannu mEle (30ca) solli 
-nalli kANabahudu; adu `avaru EnO hELaliddaru, Adare hELalilla' 
+nalli kANabahudu; adu ^avaru EnO hELaliddaru, Adare hELalilla^ 
 emba huruLannu koDuttade.  
 
 keLage koTTiruva sollugaLallU intahadE huruLannu kANabahudu. 
@@ -2185,8 +2185,8 @@ keLage koTTiruva sollugaLallU intahadE huruLannu kANabahudu.
 (31Ta)  nIvu baruva modalE nAnAtanannu kANalidde. 
 (31ta)  I maneyannu bADigege koDaliddevu. 
 
-`avaru  Aru  ganTege  baraliddaru,  Adare  bEre  yAvudO  kAraNa 
-kkAgi  baralilla'  emba  huruLu  (31ka)  solligide;  uLida  (31ca-ta) 
+^avaru  Aru  ganTege  baraliddaru,  Adare  bEre  yAvudO  kAraNa 
+kkAgi  baralilla^  emba  huruLu  (31ka)  solligide;  uLida  (31ca-ta) 
 sollugaLigU  intahavE  allagaLeyuva  huruLiruvudannu  gamanisa 
 bahudu. 
 
@@ -2226,7 +2226,7 @@ bahudu:
 (35ka)  nALe mADaliruva kelasavannu ivattE mADi. 
 (35ca)  ninne mADalidda kelasavannu ivattu mADidare hEge? 
 
-(35ca)dalli  bandiruva  mADalidda  rUpakke  `mADiralilla'vemba 
+(35ca)dalli  bandiruva  mADalidda  rUpakke  ^mADiralilla^vemba 
 
 allagaLeyuva oLahuruLU ide embudannu gamanisabahudu.  
 
@@ -2283,10 +2283,10 @@ koTTiruva sollugaLalli kANabahudu:
 (38ca)  ganTe enTAdarU Ata nidde mADuttiddAne. 
 (38Ta)  nIvu baruvAga Ata nidde mADuttiruttAne. 
 
-(38ka) sollige `nidde mADuva esakada munduvariyuvike' sollu 
+(38ka) sollige ^nidde mADuva esakada munduvariyuvike^ sollu 
 hottina  modalu  naDeyuttittu'  emba  huruLide;  idakke  badalu, 
-(38ca) sollige `adu solluhottinalli naDeyuttittu' emba huruLu, 
-mattu  (38Ta)  sollige  `adu  solluhottina  baLika  naDeyuttittu' 
+(38ca) sollige ^adu solluhottinalli naDeyuttittu^ emba huruLu, 
+mattu  (38Ta)  sollige  ^adu  solluhottina  baLika  naDeyuttittu^ 
 emba huruLide. 
 
 oDanesakada  jODisuva  rUpadondige  iru  padada  himbottina 
@@ -2301,11 +2301,11 @@ kANabahudu:
 
 (39ka)  sollinalli  bandiruva  hOguttidde  rUpakke  mundu 
 varikeya  huruLilla;  idakke  badalu,  sollina  modalige  bandiruva 
-bEDikeya  oLasollu  tiLisuva  esaka  (`maduvege  kareyuvudu')  naDe 
-diddare  ADuganu  Enu  (`maduvege  hOguvudu')  mADuttidda  embu 
-dannu adu tiLisuttade; idallade, bEDikeya esaka naDedilla (`maduvege 
-karediralilla'),  mattu  adannavalambisiruva  esakavU  naDedilla  (`ADuga 
-maduvege  hOgiralilla')  emba  oLahuruLU  A  solligide.  uLida 
+bEDikeya  oLasollu  tiLisuva  esaka  (^maduvege  kareyuvudu^)  naDe 
+diddare  ADuganu  Enu  (^maduvege  hOguvudu^)  mADuttidda  embu 
+dannu adu tiLisuttade; idallade, bEDikeya esaka naDedilla (^maduvege 
+karediralilla^),  mattu  adannavalambisiruva  esakavU  naDedilla  (^ADuga 
+maduvege  hOgiralilla^)  emba  oLahuruLU  A  solligide.  uLida 
 (39ca-ta) sollugaLallU hIgeyE. 
 
 bEDikeya  oLasollannu  nEravAgi  baLasadiddarU,  adu  tiLisuva 
@@ -2317,9 +2317,9 @@ huruLu baraballudu embudannu keLagina sollinalli kANabahudu:
 
 (39pa)  nAnu ondu sinemakkAdarU hOguttidde. 
 
-mElina  sollige  `nAnu  sinemAkke  hOgalilla'  emba  huruLide, 
-mattu adarondige `avaru ivattu baruvudillavendu modalE gottA 
-giddare'  embantaha  bEDikeya  oLasollannU  baLasalu  baruttade  embu 
+mElina  sollige  ^nAnu  sinemAkke  hOgalilla^  emba  huruLide, 
+mattu adarondige ^avaru ivattu baruvudillavendu modalE gottA 
+giddare^  embantaha  bEDikeya  oLasollannU  baLasalu  baruttade  embu 
 dannu gamanisabahudu. 
 
 arikeya konerUpagaLannU I iTTaLadalli baLasalu baruttade; idakke 
@@ -2376,24 +2376,24 @@ hottu  emba  mUranE  bageya  hottannU  baLasikoLLabEkAguttade
 embudannu mEle (5.2.5ralli) vivarisalAgittu.  
 
 ettugegAgi,  rAju  maneyallidda  emba  sollinalli  iru  padada 
-himbottina  idda  rUpavannu  baLasalAgide;  Adare,  I  sollu  `rAju 
-Iga (endare solluhottinalli) maneyallilla' endEnU tiLisuvudilla; 
-hAgAgi,  adu  `solluhottina  modalidda  rAjuvina  iruvikeyannu 
-tiLisuttade'  endiSTE  hELuva  badalu,  `tiLivina  hottinalli  (endare 
+himbottina  idda  rUpavannu  baLasalAgide;  Adare,  I  sollu  ^rAju 
+Iga (endare solluhottinalli) maneyallilla^ endEnU tiLisuvudilla; 
+hAgAgi,  adu  ^solluhottina  modalidda  rAjuvina  iruvikeyannu 
+tiLisuttade^  endiSTE  hELuva  badalu,  ^tiLivina  hottinalli  (endare 
 yAva  hottina  kuritAgi  Atana  iruvikeyannu  tiLisabEkAgideyO  A 
 hottinalli)  avana  iruvikeyittu,  mattu  A  hottu  solluhottiginta 
-modalinadu embudAgi tiLisuttade' endu hELabEkAguttade. 
+modalinadu embudAgi tiLisuttade^ endu hELabEkAguttade. 
 
 solluhottinalli  rAjuvina  iruvike  elliruttade  embudu  illi 
 mukyavalla;  mattu  hAgAgi,  A  viSayada  kuritAgi  ADuganu  EnannU 
 hELuttilla endU hELabahudu.  
 
-mEle  (5.3.1-4)ralli  vivarisidantaha  esakagaLa  `hottina  iTTaLa' 
+mEle  (5.3.1-4)ralli  vivarisidantaha  esakagaLa  ^hottina  iTTaLa^ 
 vannu  tiLisuva  sikkalu  rUpagaLalliyU  iru  padavannu  baLasalAguttide; 
 hAgAgi, illiyU sollina hottu mattu esakada hottu emba eraDu 
 hottugaLondige  tiLivina  hottu  emba  mUraneyadondu  hottannu 
-baLasikonDalli,  esakagaLa  `hottina  iTTaLa'vannU  ondu  bageya 
-`hottina pattuge'yAgi vivarisalu baruttade.  
+baLasikonDalli,  esakagaLa  ^hottina  iTTaLa^vannU  ondu  bageya 
+^hottina pattuge^yAgi vivarisalu baruttade.  
 
 
  
@@ -2406,8 +2406,8 @@ ettugegAgi, keLage koTTiruva eraDu sollugaLannu gamanisabahudu:
 (45ca)  nAlku ganTege Ata horage hOgiruttAne. 
 
 (45ka)dalli  hOgu  esakapadada  mumbottina  suLurUpavannu 
-(hOguttAne  embudannu)  baLasalAgide,  mattu  adu  `esakahottu 
-solluhottina  baLikaddu'  embudAgi  A  eraDu  hottugaLa  naDuviruva 
+(hOguttAne  embudannu)  baLasalAgide,  mattu  adu  ^esakahottu 
+solluhottina  baLikaddu^  embudAgi  A  eraDu  hottugaLa  naDuviruva 
 pattugeyannu tiLisuttade. 
 
 idakke  badalu,  (45ca)dalli  adE  esakapadada  sikkalurUpavannu 
@@ -2417,14 +2417,14 @@ adara baLika bandiruva iru padada  mumbottina iruttAne rUpa A
 konegoLLuvikeyu  solluhottina  baLika  naDeyuttade  embudannu 
 tiLisuttade embudAgi mEle vivarisalAgide. 
 
-hIge  vivarisuva  badalu,  hOgi  embudu  `tiLivina  hottige 
-modalu  esakakke  sambandisidantaha  ondu  iruhada  hottu  baruttade' 
-embudannu  tiLisuttade,  mattu  iruttAne  embudu  `A  iruhada 
-hottu  solluhottina  baLika  baruttade'  embudannu  tiLisuttade 
+hIge  vivarisuva  badalu,  hOgi  embudu  ^tiLivina  hottige 
+modalu  esakakke  sambandisidantaha  ondu  iruhada  hottu  baruttade^ 
+embudannu  tiLisuttade,  mattu  iruttAne  embudu  ^A  iruhada 
+hottu  solluhottina  baLika  baruttade^  embudannu  tiLisuttade 
 embudAgiyU vivarisalu baruttade.  
 
 idallade,  I  (45ca)  sollinalli  bandiruva  nAlku  ganTege  emba 
-paricenuDita  adu  tiLisuva  esakada  `tiLivina  hottu'  yAvudu 
+paricenuDita  adu  tiLisuva  esakada  ^tiLivina  hottu^  yAvudu 
 embudannu tiLisuttade embudAgiyU hELabahudu. 
 
 hIge  vivarisuva  mUlaka,  hottina  pattugegU  hottina  iTTaLakkU 
@@ -2447,12 +2447,12 @@ gaLannu gamanisabahudu:
 (46ca)  nAlku ganTe hottige avanu manege hOgalidda. 
 (46Ta)  nAlku ganTe hottige avanu manege hOguttidda. 
 
-(46ka)dalli  `manege  hOguva'  esaka  tiLivina  hottinalli  (endare 
+(46ka)dalli  ^manege  hOguva^  esaka  tiLivina  hottinalli  (endare 
 nAlku  ganTe  hottige)  modalu  naDedittu,  mattu  adu  naDeda  (kone 
 gonDa)  baLikada  iruha  A  hottinallittu  embudAgi  tiLisalAgide; 
-idakke badalu, (46ca)dalli `manege hOguva' esaka tiLivina hottinalli 
+idakke badalu, (46ca)dalli ^manege hOguva^ esaka tiLivina hottinalli 
 innU toDagilla, mattu A toDaguvikeya hindina iruha A hottina 
-llittu  embudAgi  tiLisalAgide;  mattu  (46Ta)dalli  `manege  hoguva 
+llittu  embudAgi  tiLisalAgide;  mattu  (46Ta)dalli  ^manege  hoguva^ 
 esaka  tiLivina  hottinalli  naDeyuttide,  (endare  adu  A  hottige 
 modalE toDagide mattu A hottinalli konegonDilla), mattu adara 
 toDagikeya  baLikada  iruha  tiLivina  hottinallittu  embudAgi  tiLisu 
@@ -2469,7 +2469,7 @@ gonDide emba huruLilla. idannu keLagina sollugaLalli kANabahudu:
 (47Ta)  avaLa tuTi kempAgide. 
 
 mElina  sollugaLalli  Agide  embudu  ondu  iruhavannu  tiLisutta 
-dallade,  `esaka  konegonDide'  embudannu  tiLisuvudilla.  Akeya  sIre 
+dallade,  ^esaka  konegonDide^  embudannu  tiLisuvudilla.  Akeya  sIre 
 modalinindalU  biLiyAgiyE  iddirabahudu,  mattu  avaLa  tuTi 
 huTTinindalU  kempAgiyE  iddirabahudu.  hAgAgi,  tiLivina  hottina 
 lliruva  iruhavE  illi  mukyavallade,  adakke  hindirabahudAgidda  esaka 
@@ -2523,7 +2523,7 @@ sikkalu rUpagaLannu baLasuvalli antaha kaTTupADilla:
 
  
 
-`Ata  bandudu  yAvAga'  embudannu  kanDitavAgi  ondu  sollu 
+^Ata  bandudu  yAvAga^  embudannu  kanDitavAgi  ondu  sollu 
 tiLisadiddalli,  adaralli  banda  embudannu  baLasalu  baruvudilla  embu 
 dannu (50Ta) sollu sariyAgilla embudarinda tiLiyabahudu. 
 
@@ -2537,24 +2537,24 @@ I vyatyAsavannu keLagina sollugaLalli kANabahudu:
 (51ca)  nAnu Akeyannu mAtanADisiddEne. 
 (51Ta)  nAnu Akeyannu mAtanADisidde. 
 
-(51ka)  sollige  `omme  mAtra  mAtanADiside'  emba  huruLide; 
+(51ka)  sollige  ^omme  mAtra  mAtanADiside^  emba  huruLide; 
 Adare,  (51ca)  mattu  (51Ta)  sollugaLannu  halavu  bAri  mAtanADi 
 siruvallU baLasalu baruttade. 
 
 (3) baLakeya huruLu bandiruvalli (endare, iru padada Ipottina 
-rUpavannu  baLasiruvalli),  hottina  iTTaLada  sikkalu  rUpakke  `ittIcege' 
+rUpavannu  baLasiruvalli),  hottina  iTTaLada  sikkalu  rUpakke  ^ittIcege^ 
 emba  huruLide;  Adare,  hottina  pattugeya  suLu  rUpakke  antaha 
 huruLilla: 
 
 (52ka)  tarakAri taralu santege hOguttALe. 
 (52ca)  tarakAri taralu santege hOguttiddALe. 
 
-(52ca) sollige Ake `ittIcege hOgatoDagiddALe' emba huruLu 
+(52ca) sollige Ake ^ittIcege hOgatoDagiddALe^ emba huruLu 
 
 ide, Adare (52ka) sollige I huruLilla. 
 
 (4)  iru  padada  mumbottina  rUpavannu  baLasiruva  hottina 
-iTTaLakke  `AgAga'  emba  huruLide;  Adare  hottina  pattugeya  suLu 
+iTTaLakke  ^AgAga^  emba  huruLide;  Adare  hottina  pattugeya  suLu 
 rUpakke I huruLilla. 
 
 (53ka)  tarakAri taralu Ata sAgarakke hOguttAne. 
@@ -2566,7 +2566,7 @@ bahudu,  illavE  baLakeyalliruva  ondu  esakavannu  tiLisabahudu;
 
  
 
-Adare,  (53ca)  sollu  idakkinta  bErAgiruva  `AgAga  hOguttAne' 
+Adare,  (53ca)  sollu  idakkinta  bErAgiruva  ^AgAga  hOguttAne^ 
 emba huruLannu koDuttade. 
 
 (5)  ondu  esakada  baLika  naDediruva  esakavannu  modalu  hELi, 
@@ -2636,9 +2636,9 @@ adara eraDaneya horigeyannu tAguttade endu hELalu baruttade.
 
 mEle 5.1.3ralli tiLisida hAge, esakapadagaLigiruva hottina iTTaLavannu 
 kannaDadalli  eraDu  holabugaLa  mUlaka  tiLisalu  baruttade:  esakapadada 
-Aykeya  mUlaka  `esakada  iTTaLa'vannu  tiLisuvudu  ondu  holabu; 
+Aykeya  mUlaka  ^esakada  iTTaLa^vannu  tiLisuvudu  ondu  holabu; 
 mattu esakapada jODisuva rUpagaLondige iru neravesakapadada pada 
-rUpagaLannu  baLasiruva  sikkalu  rUpada  mUlaka  `hottina  iTTaLa'vannu 
+rUpagaLannu  baLasiruva  sikkalu  rUpada  mUlaka  ^hottina  iTTaLa^vannu 
 tiLisuvudu innondu holabu.  
 
 I eraDu bageya holabugaLalli eraDaneyadara baLakeyannu mEle 
@@ -2661,9 +2661,9 @@ koTTiruva eraDu sollugaLannu hOlisi nODabahudu:
 (1ka)  avanu tumbA hottu Oduttidda. 
 (1ca)  avanu tumbA hottu kada taTTuttidda. 
 
-(1ka) sollu `Atanu Oduva ondu esaka tumbA hottu naDeyu 
-ttittu' embudannu tiLisuttade; Adare idakke badalu, (1ca) sollu `kada 
-taTTuva  halavAru  esakagaLu  tumbA  hottu  naDeyuttidduvu'  embu 
+(1ka) sollu ^Atanu Oduva ondu esaka tumbA hottu naDeyu 
+ttittu^ embudannu tiLisuttade; Adare idakke badalu, (1ca) sollu ^kada 
+taTTuva  halavAru  esakagaLu  tumbA  hottu  naDeyuttidduvu^  embu 
 dannu  tiLisuttade.  (1ka)  mattu  (1ca)  sollugaLa  naDuviruva  I 
 vyatyAsakke Odu mattu taTTu esakapadagaLa naDuviruva esaka iTTaLagaLa 
 vyatyAsavE  kAraNa:  Odu  pada  munduvarisaballa  esakavondannu  tiLisu 
@@ -2813,17 +2813,17 @@ baruttade. ettugegAgi, keLage koTTiruva sollugaLannu gamanisabahudu:
 (11ka)  avanu kada taTTida. 
 (11ca)  avanu kada taTTuttidda. 
 
-(10ka) sollu `Oduva esaka naDeyitu' endiSTE tiLisuttade, mattu 
-(10ca) sollu `Oduva  esaka munduvariyuttittu' embudannu tiLisu 
+(10ka) sollu ^Oduva esaka naDeyitu^ endiSTE tiLisuttade, mattu 
+(10ca) sollu ^Oduva  esaka munduvariyuttittu^ embudannu tiLisu 
 ttade.  
 
 
  
 
-idE  rItiyalli,  (11ka)  sollu  `kada  taTTuva  esaka  naDeyitu' 
-endiSTE tiLisuttade; Adare, (11ca) sollu A rIti `kada taTTuva esaka 
-munduvariyuvu'dannu  tiLisuva  badalu,  `Ata  halavu  bAri  kadavannu 
-taTTuttidda'  emba  huruLannu  koDuttade.  taTTu  pada  tiLisuva  esaka 
+idE  rItiyalli,  (11ka)  sollu  ^kada  taTTuva  esaka  naDeyitu^ 
+endiSTE tiLisuttade; Adare, (11ca) sollu A rIti ^kada taTTuva esaka 
+munduvariyuvu^dannu  tiLisuva  badalu,  ^Ata  halavu  bAri  kadavannu 
+taTTuttidda^  emba  huruLannu  koDuttade.  taTTu  pada  tiLisuva  esaka 
 ondu  caNadalli  naDeduhOguva  kAraNa,  adannu  munduvarisalu 
 baruvudilla. 
 
@@ -2861,16 +2861,16 @@ baruvudilla.
  
 
 hAgAgi,  avanu  hoLe  dATuttiddAne  emba  (12ca)  sollannu 
-baLasidAga,  `dATuva  esakada  eraDanE  kelasavannu  Ata  naDesuttiddAne' 
+baLasidAga,  ^dATuva  esakada  eraDanE  kelasavannu  Ata  naDesuttiddAne^ 
 emba huruLu mAtra dorakuttade; Adare, Atana dATuvike naDuvinallE 
-nintuhOgiraballudu;  hAgAgi,  `avanu  hoLe  dATida'  emba  (12ka) 
+nintuhOgiraballudu;  hAgAgi,  ^avanu  hoLe  dATida^  emba  (12ka) 
 sollina huruLannu (12ca)dinda paDeyalu baruvudilla. 
 
 idakke badalu, ODu pada tiLisuva esakakke kone embudilla; manege 
-ODu embudakke `maneyannu talapu' embudu koneyAdarU, A kone 
+ODu embudakke ^maneyannu talapu^ embudu koneyAdarU, A kone 
 yannu  talapu  emba  bEreyE  esakapadada  mUlaka  tiLisalAguttade; 
 ODu  esakapadadinda  A  huruLu  dorakuvudilla.  hAgAgi,  (13ca) 
-sollininda  `avanu  manege  ODida'  emba  (13ka)  sollina  huruLannu 
+sollininda  ^avanu  manege  ODida^  emba  (13ka)  sollina  huruLannu 
 paDeyalu baruttade. 
 
 I  eraDu  bageya  esakagaLalli  modalaneyadannu  koneyesaka 
@@ -2889,14 +2889,14 @@ esakada hAge, toDagu, munduvari, mattu konegoLisu emba mUru
 hantagaLiveyendu  hELaballevu;  Adare,  adannu  A  rIti  mUru  hanta 
 gaLalli  naDeyuva  esakavAgi  nAvu  kANuvudilla;  idakke  badalu,  ondu 
 caNadalli naDeduhOguva esakavAgi nAvu adannu kANuttEve. hAgAgi, 
-Ata kada taTTuttiddAne emba sollige `Ata kadataTTuva eraDu mUru 
-esakagaLannu naDesuttiddAne' emba huruLu baruttadallade, dATu esakada 
-hAge, `taTTuva esakada ondu hantavannu naDesuttiddAne' emba huruLu 
+Ata kada taTTuttiddAne emba sollige ^Ata kadataTTuva eraDu mUru 
+esakagaLannu naDesuttiddAne^ emba huruLu baruttadallade, dATu esakada 
+hAge, ^taTTuva esakada ondu hantavannu naDesuttiddAne^ emba huruLu 
 baruvudilla.  
 
-Ata ODuttiddAne  embudarinda  `Ata ODida' emba  oLahuruLannu 
-paDeda  hAge,  Ata  kada  taTTuttiddAne  emba  sollininda  `Ata  kada 
-taTTida'  emba  oLahuruLannu  paDeyalu  baruttade  embudu  I  viSaya 
+Ata ODuttiddAne  embudarinda  ^Ata ODida^ emba  oLahuruLannu 
+paDeda  hAge,  Ata  kada  taTTuttiddAne  emba  sollininda  ^Ata  kada 
+taTTida^  emba  oLahuruLannu  paDeyalu  baruttade  embudu  I  viSaya 
 vannu bembalisuttade. 
 
 
@@ -2923,11 +2923,11 @@ miniTinalli embantaha nuDitagaLannu baLasalu baruvudilla:
 (14ca)  avanu hattu miniTinalli kada taTTida. 
 (14Ta)  avanu hattu miniTinalli ODida. 
 
-mEle koTTiruva (14ca) mattu (14Ta) sollugaLu `hattu miniTu 
-kaLeda mEle kada taTTida', illavE  `hattu  miniTu kaLeda  mEle ODida' 
+mEle koTTiruva (14ca) mattu (14Ta) sollugaLu ^hattu miniTu 
+kaLeda mEle kada taTTida^, illavE  ^hattu  miniTu kaLeda  mEle ODida^ 
 emba  bErondu  huruLinalli  sariyAgive  embudannu  illi  gamanisa 
-bahudu; Adare, `kada taTTuva illavE ODuva esakagaLannu hattu miniTu 
-naDesi (mugisida)' emba huruLinalli mAtra avu sariyalla.  
+bahudu; Adare, ^kada taTTuva illavE ODuva esakagaLannu hattu miniTu 
+naDesi (mugisida)^ emba huruLinalli mAtra avu sariyalla.  
 
 sAguvesaka  illavE  caNadesakagaLannu  tiLisuva  padagaLondige  hattu 
 miniTu  embantaha  paricekantegaLannu  baLasalu  baruttade;  Adare,  kone 
@@ -2938,8 +2938,8 @@ baruvudilla.
 (15ca)  avanu hattu miniTu kada taTTida. 
 (15Ta)  *avanu hattu miniTu hoLe dATida. 
 
-(15Ta)  sollannu  `Ata  hattu  miniTu  hoLe  dATuva  kelasavannu 
-naDesida,  Adare  Atanige  dATalu  sAdyavAgalilla'  emba  bErondu 
+(15Ta)  sollannu  ^Ata  hattu  miniTu  hoLe  dATuva  kelasavannu 
+naDesida,  Adare  Atanige  dATalu  sAdyavAgalilla^  emba  bErondu 
 huruLinalli baLasabahudendu tOruttade. 
 
 
@@ -3010,8 +3010,8 @@ vAgiddu, avugaLa baLakeyalli ippuruLu kANisikoLLuttade:
 (26ka)  avanu nidde mADuttiddAne. 
 (26ca)  avanu nidde mADiddAne. 
 
-(26)nE  sollu  tiLisuva  esakakke  mugitAyavAgi  `nidde  hOguvu 
-dannu'  Arisabahudu,  illavE  `niddemADi  ELuvudannu'  Arisabahudu; 
+(26)nE  sollu  tiLisuva  esakakke  mugitAyavAgi  ^nidde  hOguvu 
+dannu^  Arisabahudu,  illavE  ^niddemADi  ELuvudannu^  Arisabahudu; 
 ivugaLalli modalaneyadannu Arisidalli adakke (26ka) sollina huruLu 
 dorakuttade,  mattu  eraDaneyadannu  Arisidalli  (26ca)  sollina 
 huruLu dorakuttade. 
@@ -3063,15 +3063,15 @@ nODabahudu:
 (27ka)  avanu tiruguttiddAne. 
 (27ca)  avanu ELuttiddAne. 
 
-(27ka) sollige eraDu huruLugaLu sigaballuvu; `Ata ondu suttu 
-tirugalu  toDagiddAne;  adare  adannu  innU  mugisilla'  emba  huruLu 
-adakkirabahudu,  illavE  `Ata  halavu  suttu  tirugiddAne,  mattu  innU 
-tiruguttiddAne' emba huruLU adakkirabahudu. idakke badalu, (27ca) 
+(27ka) sollige eraDu huruLugaLu sigaballuvu; ^Ata ondu suttu 
+tirugalu  toDagiddAne;  adare  adannu  innU  mugisilla^  emba  huruLu 
+adakkirabahudu,  illavE  ^Ata  halavu  suttu  tirugiddAne,  mattu  innU 
+tiruguttiddAne^ emba huruLU adakkirabahudu. idakke badalu, (27ca) 
 
 
  
 
-sollige `Ata ELalu toDagiddAne, Adare innU eddilla' emba ondu 
+sollige ^Ata ELalu toDagiddAne, Adare innU eddilla^ emba ondu 
 bageya huruLu mAtra sigaballudu. 
 
 I  vyatyAsakke  kAraNavEnendare,  tiruguva  esakada  kone  antahadE 
@@ -3102,10 +3102,10 @@ horaTiruva  kateyannu  baredAdAga,  A  esaka  mugiyuttade.  idallade,
 hAge mugiyuvalli varegU adannu naDesuttirabahudu, illavE adannu 
 naDuvinallE nillisabahudu. 
 
-hAgAgi, mEle koTTiruva (28ka) sollininda `avanu bareda' emba 
+hAgAgi, mEle koTTiruva (28ka) sollininda ^avanu bareda^ emba 
 huruLannu  paDeyalu  baruttade;  Adare,  (28ca)  sollininda  A  rIti 
-`avanu  kate  bareda'  emba  huruLannu  paDeyalu  baruvudilla.  `kate 
-bareyuva'  esakakkiruva  toDagu,  munduvarisu  mattu  mugisu  emba 
+^avanu  kate  bareda^  emba  huruLannu  paDeyalu  baruvudilla.  ^kate 
+bareyuva^  esakakkiruva  toDagu,  munduvarisu  mattu  mugisu  emba 
 
 
  
@@ -3139,10 +3139,10 @@ sErisalu baruttade; idannu keLagina sollugaLalli kANabahudu:
 (30ca)  Ata ondu ganTeyalli aydu kilOmITar ODida. 
 (30Ta)  *Ata ondu ganTe aydu kilOmITar ODida. 
 
-`hADuvudu'  embudakke  mugitAyavilla;  Adare,  `eraDu  ganTe 
-hADuvudu'  embudakke  mugitAyavide.  `eraDu  ganTe  hADuva'  esaka 
+^hADuvudu^  embudakke  mugitAyavilla;  Adare,  ^eraDu  ganTe 
+hADuvudu^  embudakke  mugitAyavide.  ^eraDu  ganTe  hADuva^  esaka 
 eraDu  ganTe  kaLedAga  mugiyuttade.  avaLu  AmElU  hADuttiddira 
-bahudu,  Adare  adu  `eraDu  ganTe  hADuva'  esakada  munduvarike 
+bahudu,  Adare  adu  ^eraDu  ganTe  hADuva^  esakada  munduvarike 
 yAguvudilla. adondu bEreyE esakavAguttade. 
 
 idE  rItiyalli  ODuvudu  embudakke  mugitAyavilladiddarU 
@@ -3178,13 +3178,13 @@ esakavannu  tiLisuttade;  (31ca)dalli  bandiruva  arda  ganTe  emba
 nuDitavE I vyatyAsakke kAraNa. 
 
 Adare,  (32ka)dalli  bandiruva  hoDedADidaru  embudu  ondu 
-sAguvesakavannu  tiLisuttiddu,  (32ca)dalli  `adE  esaka  arda  ganTe 
-hottu  naDeyite'ndiSTE  hELalAgideyallade,  (31ca)dalli  kANisida 
-hAge,  `A  esaka  halavu  bAri  naDeyitu'  emba  huruLu  illi 
+sAguvesakavannu  tiLisuttiddu,  (32ca)dalli  ^adE  esaka  arda  ganTe 
+hottu  naDeyite^ndiSTE  hELalAgideyallade,  (31ca)dalli  kANisida 
+hAge,  ^A  esaka  halavu  bAri  naDeyitu^  emba  huruLu  illi 
 siguvudilla.  
 
-intaha  kaDegaLalli  ADu  embudu  `obbanannobba'  illavE  `obbani 
-gobba' emba huruLannu sErisuttade embudannu (33ka) mattu (33ca) 
+intaha  kaDegaLalli  ADu  embudu  ^obbanannobba^  illavE  ^obbani 
+gobba^ emba huruLannu sErisuttade embudannu (33ka) mattu (33ca) 
 sollugaLa naDuvina vyatyAsadinda tiLiyabahudu. 
 
 
@@ -3230,8 +3230,8 @@ modalE  suruvAgittu,  Adare  konegonDiralilla  emba  huruLu  sigu
 
  
 
-ttade.  ettugegAgi,  kaliyuttiddAne  embudakke  `kaliyalu  surumADi 
-ddAne, Adare innU kalitAgilla' emba huruLide.   
+ttade.  ettugegAgi,  kaliyuttiddAne  embudakke  ^kaliyalu  surumADi 
+ddAne, Adare innU kalitAgilla^ emba huruLide.   
 
 sAguvesakakkU intahadE huruLide; Adare, adara koneyannu adE 
 
@@ -3273,9 +3273,9 @@ koneyembudilladiruvudE I vyatyAsakke kAraNa.
 
  
 
-bAgilu  muccuttiddAne  embudakke  `bAgilannu  innU  muccilla' 
-emba  huruLu  baraballudu,  illavE  `bAgilannu  (bEre  yAvanO) 
-tereda  hAge  muccuttiddAne'  emba  bErondu  bageya  huruLU  bara 
+bAgilu  muccuttiddAne  embudakke  ^bAgilannu  innU  muccilla^ 
+emba  huruLu  baraballudu,  illavE  ^bAgilannu  (bEre  yAvanO) 
+tereda  hAge  muccuttiddAne^  emba  bErondu  bageya  huruLU  bara 
 balludu. ODisuttiddAne embudakkU intaha eraDu bageya huruLu 
 gaLu baraballuvu (oLage banda hAge horage ODisuttiddAne). 
 
@@ -3283,12 +3283,12 @@ kelavu  esakapadagaLige  eraDu  bageya  mugitAyagaLiraballuvu:
 ettugegAgi,  Ata  niddemADiddAne  emba  sollige  eraDu  huruLu 
 gaLive:  
 
-(ka)  `Ata  niddemADuttiddAne  (endare,  `niddehOguva  kelasa  kone 
+(ka)  ^Ata  niddemADuttiddAne  (endare,  ^niddehOguva  kelasa  kone 
 gonDide, Adare, adara pariNAmavAda niddemADuttiruvudu mundu 
-varidide' embudu ondu huruLu; mattu  
+varidide^ embudu ondu huruLu; mattu  
 
-(ca)  `Ata  nidde  mADuvudannu  mugisiddAne,  (endare  Iga  eccara 
-vAgiddAne)'  embudu  innondu  huruLu;  nAnu  niddemADiddEne 
+(ca)  ^Ata  nidde  mADuvudannu  mugisiddAne,  (endare  Iga  eccara 
+vAgiddAne)^  embudu  innondu  huruLu;  nAnu  niddemADiddEne 
 emba  sollige  I  eraDanE  bageya  huruLu  mAtra  baraballudu 
 embudannu gamanisabahudu. 
 
@@ -3315,7 +3315,7 @@ koTTiruva mUru sollugaLannu gamanisabahudu:
 
  
 
-mElina mUru sollugaLU `bassu keTTiruva' esakavannu tiLisuttave; 
+mElina mUru sollugaLU ^bassu keTTiruva^ esakavannu tiLisuttave; 
 Adare,  avugaLalli  (1ca)  mattu  (1Ta)  sollugaLu  hAge  tiLisuvuda 
 rondige, I esakada kuritAgi ADugana niluvEnu embudannU bEku 
 mattu bahudu emba eraDu neravesakapadagaLa mUlaka tiLisuttave.  
@@ -3327,7 +3327,7 @@ kuritAgi ADugana niluvannu tiLisalu hOguvudilla.
 
 sAmAnyavAgi,  ADugana  niluvannu  tiLisuva  padagaLu  ondu  iDI 
 sollu tiLisuva hELikeya kuritAgi avana niluvEnu embudannu tiLisu 
-ttave. ettugegAgi, bassu keTTirabahudu emba sollinalli `bassu keTTide' 
+ttave. ettugegAgi, bassu keTTirabahudu emba sollinalli ^bassu keTTide^ 
 emba  hELikeya  kuritAgi  ADuganige  tusu  samSayavide  embudannu 
 bahudu padada baLakeya mUlaka tiLisalAgide.  
 
@@ -3339,7 +3339,7 @@ ivugaLinda  bErAgide;  ettugegAgi,  bassu  keTTideyante  emba  solli
 nalli  konege  baruva  I  oTTu  iDI  sollu  tiLisuva  hELikege  purAve 
 yentahadu embudannu mAtra tiLisuttade. 
 
-`ADugana niluvu' embudu I padagaLa mukya kelasavannu tiLisuttade; 
+^ADugana niluvu^ embudu I padagaLa mukya kelasavannu tiLisuttade; 
 kelavu baLakegaLalli avu bEre vyaktigaLa niluvannU tiLisaballuvu, mattu 
 vAstavika  sangatigaLannU  tiLisaballuvu.  idannu  keLagina  sollugaLalli 
 kANabahudu: 
@@ -3362,10 +3362,10 @@ ADugana niluvU irabahudu.
 
 ADugana  niluvigU  esakada  hottigU  naDuve  hattirada  sambanda 
 ide;  kelavu  nuDigaLalli  esakada  hottannu  ADugana  niluvannu  tiLisuva 
-mUlakavEnE  tiLisalAguttade;  ettugegAgi,  antaha  nuDigaLalli  `ADuga 
-nige  kanDitavAgi  tiLidiruva  esaka'  embudu  mukyavAgi  solluhotti 
+mUlakavEnE  tiLisalAguttade;  ettugegAgi,  antaha  nuDigaLalli  ^ADuga 
+nige  kanDitavAgi  tiLidiruva  esaka^  embudu  mukyavAgi  solluhotti 
 ginta  hinde  naDediruva  illavE  solluhottinalli  naDeyuttiruva  esaka 
-vannu  mAtravE  tiLisuttiddu,  `kanDitavAgi  tiLidillada  esaka'  embudu 
+vannu  mAtravE  tiLisuttiddu,  ^kanDitavAgi  tiLidillada  esaka^  embudu 
 munde naDeyaliruva esakavannu tiLisuttiraballudu.  
 
 kannaDadalliyU  ADugana  niluvannu  tiLisuva  neravesakapadagaLella 
@@ -3427,10 +3427,10 @@ niluvannu tiLisuva neravesakapadavAgi baLasuvudilla.
 
 (3ka) sollannu ondu niluvina sollAgi baLasalAgide, mattu (3ca) 
 vannu  ondu  arikeya  sollAgi  baLasalAgide  embudannu  illi  gamanisa 
-bahudu.  (3ka)  sollinalli  `kELuganu  manege  hOguttAne'  emba 
+bahudu.  (3ka)  sollinalli  ^kELuganu  manege  hOguttAne^  emba 
 hELikeya  kuritAgi  ADuganu  tanna  niluvannu  (arivannu)  tiLisuttiddAne; 
 Adare, (3ca) sollinalli Atanu A rIti tanna niluvannu tiLisuva badalu, 
-nEravAgi  `manege  hOguva  esaka'vannu  kELuganu  naDesadiruvante 
+nEravAgi  ^manege  hOguva  esaka^vannu  kELuganu  naDesadiruvante 
 taDeyuttiddAne. 
 
 Adare,  bEku  padakke  arivina  huruLu  mAtravallade,  ottAseya 
@@ -3507,7 +3507,7 @@ padagaLannu neravesakapadagaLAgi mAtra baLasalu baruttade.
 
 Ar  embudakke  bal  embudara  allagaLeyuva  huruLide;  mattu 
 ol  embudakke  bEku  embudara  allagaLeyuva  huruLide.  Adare, 
-ol  embudakke  kelavu  baLakegaLalli  `mADuva  bayakeyilla'  emba 
+ol  embudakke  kelavu  baLakegaLalli  ^mADuva  bayakeyilla^  emba 
 huruLU ide. 
 
 neravesakapadagaLAgi  baLakeyAdAga,  I  mUru  padagaLU  ondu 
@@ -3708,15 +3708,15 @@ ganTege  angaDi  tereyuttAre;
 
 hAgAgi, nAvu hOguvaSTaralli adu teredirabahudu. 
 
-(23ka)dalli  bandiruva  bEku  padavannu  `innU  dIpa  uriyuttide' 
+(23ka)dalli  bandiruva  bEku  padavannu  ^innU  dIpa  uriyuttide^ 
 emba  purAveyannavalambisi  baLasalAgide,  mattu  (23ca)dalli  bahudu 
-embudannu `angaDiyannu tereyuva esaka baLakeyalli hEgide (sAmAnya 
-vAgi  eSTu  hottige  adannu  tereyuttAre)'  embudannavalambisi  baLasa 
+embudannu ^angaDiyannu tereyuva esaka baLakeyalli hEgide (sAmAnya 
+vAgi  eSTu  hottige  adannu  tereyuttAre)^  embudannavalambisi  baLasa 
 lAgide. 
 
 I  viSayavannavalambisi,  bEku  padada  mUlaka  ADuganu  tiLisuva 
-niluvannu  `bEha'  embudAgiyU,  bahudu  padada  mUlaka  tiLisuva 
-niluvannu `iruha' embudAgiyU illi hesarisabahudu.  
+niluvannu  ^bEha^  embudAgiyU,  bahudu  padada  mUlaka  tiLisuva 
+niluvannu ^iruha^ embudAgiyU illi hesarisabahudu.  
 
 bahudu pada tiLisuva iruhavannu allagaLeyuvudakkAgi Ar padada 
 
@@ -3772,9 +3772,9 @@ koLLuvudannu keLagina sollugaLallU nODabahudu:
 (28ka)  iSTu hottige avaru maysUru talapirabEku.  
 (28ca) nIvu nALe beLiggeyE illige bandirabEku. 
 
-(27ka)dalli  `avaru  yAvAga  baruttAre'  emba  ondu  esakada 
+(27ka)dalli  ^avaru  yAvAga  baruttAre^  emba  ondu  esakada 
 kuritu  ADuganu  tanna  anisikeyannu  tiLisuttiddAne;  hAgAgi,  idakke 
-arivina  huruLide;  Adare,  (27ca)dalli  kELuganu  `manege  hoguva' 
+arivina  huruLide;  Adare,  (27ca)dalli  kELuganu  ^manege  hoguva^ 
 esakavannu  naDesabahudE  emba  viSayadalli  ADuganu  tanna  oppigeyannu 
 koDuttiddAne;  hAgAgi,  idakke  ottAseya  huruLide.  Adare,  I 
 eraDu  sollugaLallU  ADugaru  ondu  esakada  kuritAgi  tamma 
@@ -3868,15 +3868,15 @@ kELuganannu
 (34Ta)  illi yArU hogebatti sEdabAradu. 
 (34ta)  avaru oLage baruvAga ellarU nintiratakkaddu. 
 
-ivugaLalli bEku embudu `ondu esakavannu naDesuvudu kaDDAya' 
-embudAgi tiLisuttade, mattu bahudu embudu `hAge naDesalu oppige 
-yide  (Adare  adu  kaDDAyavEnalla)'  embudannu  tiLisuttade.  hAgAgi, 
-bEku embudu tiLisuva ottAseya niluvannu `kaDDAya'da niluvendU, 
+ivugaLalli bEku embudu ^ondu esakavannu naDesuvudu kaDDAya^ 
+embudAgi tiLisuttade, mattu bahudu embudu ^hAge naDesalu oppige 
+yide  (Adare  adu  kaDDAyavEnalla)^  embudannu  tiLisuttade.  hAgAgi, 
+bEku embudu tiLisuva ottAseya niluvannu ^kaDDAya^da niluvendU, 
 
 
  
 
-bahudu embudu tiLisuva ottAseya niluvannu `oppita'da niluvendU 
+bahudu embudu tiLisuva ottAseya niluvannu ^oppita^da niluvendU 
 illi hesarisabahudu. 
 
 (1)  oppige  illavE  kaDDAya  ADuganadirabahudu,  illavE  bEre 
@@ -3909,14 +3909,14 @@ oppigeyannu tiLisalu baLasalAguttade:
 
 (37ka)  mattu  (37ca)  sollugaLige  aLavannu  tiLisuva  huruLu 
 mAtravallade,  oppigeyannu  tiLisuva  huruLU  ideyembudannu  gamanisa 
-bahudu.  ettugegAgi,  (37ka)  sollige  `avaLige  eSTu  dina  ira 
-bEkendideyO  aSTu  dina  avaLu  illi  irabahudu'  emba  oppigeya 
-huruLiraballudu, illavE `nimage avaLu eSTu dina irabEkendideyO 
+bahudu.  ettugegAgi,  (37ka)  sollige  ^avaLige  eSTu  dina  ira 
+bEkendideyO  aSTu  dina  avaLu  illi  irabahudu^  emba  oppigeya 
+huruLiraballudu, illavE ^nimage avaLu eSTu dina irabEkendideyO 
 
 
  
 
-aSTu dina avaLu illiralu tayAriddALe' emba aLavina huruLU ira 
+aSTu dina avaLu illiralu tayAriddALe^ emba aLavina huruLU ira 
 balludu. 
 
 (3)  ottAseya  sollugaLa  baLika  purAveyannu  tiLisuva  ante 
@@ -4037,9 +4037,9 @@ tiLisuttade;  Adare  (48ca)  sollu  A  rIti  nEravAgi  tiLisuva  badalu,
 
  
 
-`kELuganu oLage hOguva' esakada kuritu ADugana ottAseyide (hAge 
+^kELuganu oLage hOguva^ esakada kuritu ADugana ottAseyide (hAge 
 hOguvudu kaDDAya) embudAgi adannE OreyAgi tiLisuttade. idE 
-rItiyalli,  (49ka)  sollu  `avaru  oLage  baruvu'dakke  ADugana  oppige 
+rItiyalli,  (49ka)  sollu  ^avaru  oLage  baruvu^dakke  ADugana  oppige 
 yannu  nEravAgi  tiLisuttade,  mattu  (49ca)  sollu  A  esakada  kuritu 
 ADugana oppigeyannu OreyAgi tiLisuttade. 
 
@@ -4338,7 +4338,7 @@ bEku  mattu  bahudu  emba  I  eraDu  padagaLa  baLikavU
 himbottina  pattugeyannu  tiLisuva  ittu  padavannu  baLasalu  baruttade, 
 mattu  hAge  baLasidAga,  adu  solluhottiginta  modalu  naDeya 
 bEkAgidda  illavE  naDeyabahudAgidda  esakavannu  tiLisuttade;  Adare, 
-`antaha  esaka  naDediralilla'  emba  allagaLeyuva  huruLU  I  sollu 
+^antaha  esaka  naDediralilla^  emba  allagaLeyuva  huruLU  I  sollu 
 gaLigide: 
 
 (64ka)  avaru maneyallE irabEkittu. 
@@ -4346,9 +4346,9 @@ gaLigide:
 (64Ta)  I kelasavannu modalE mADirabahudittu. 
 (64ta)  nAvu I guDDakke hattadirabEkittu. 
 
-`avaru  maneyallE  irabEku'  embudu  ondu  ottAseya 
+^avaru  maneyallE  irabEku^  embudu  ondu  ottAseya 
 (kaDDAyada)  sangatiyannu  tiLisuttade;  adara  baLika  ittu  padavannu 
-sErisidAga,  `antaha  kaDDAya  ittu,  Adare  adu  naDediralilla'  emba 
+sErisidAga,  ^antaha  kaDDAya  ittu,  Adare  adu  naDediralilla^  emba 
 huruLu  doreyuttade.  uLida  sollugaLigU  intahavE  himbottina 
 huruLu  mattu  allagaLeyuva  huruLugaLive  embudannu  gamanisa 
 bahudu.  
@@ -4357,8 +4357,8 @@ bahudu.
  
 
 (64ta)dalli  hattu  esakapadada  allagaLeyuva  hattade  rUpavannu 
-baLasiruva  kAraNa,  adakke  naDeyabAradidda  esaka  naDedide  (`guDDakke 
-hattiddEve') emba huruLide. 
+baLasiruva  kAraNa,  adakke  naDeyabAradidda  esaka  naDedide  (^guDDakke 
+hattiddEve^) emba huruLide. 
 
 hinde  baLakeyallidda,  mattu  Iga  baLakeyallillada  kaTTale  illavE 
 kaTTupADugaLannU  ittu  padada  baLakeya  mUlaka  tiLisalu  baruttade; 
@@ -4387,8 +4387,8 @@ huruLannu koDuttade embudu spaSTavAgilla:
 ADugana  niluvannu  tiLisuva  sollugaLalli  sAmAnyavAgi  eraDu  anga 
 gaLiruttave:  ondu  hELikeyannu  koDuva  anga,  mattu  innondu  A 
 hELikeya  kuritAgi  ADugana  niluvannu  tiLisuva  anga.  ettugegAgi, 
-avaLu maduvege hOgabahudu emba sollinalli `avaLu maduvege 
-hOguvudara'  kuritAgi  ondu  hELikeyide,  mattu  A  hELikeya 
+avaLu maduvege hOgabahudu emba sollinalli ^avaLu maduvege 
+hOguvudara^  kuritAgi  ondu  hELikeyide,  mattu  A  hELikeya 
 kuritAgi ADugana niluvu entahadu (adu ondu iruha mAtra, bEha 
 valla) embudannu tiLisuva innondu angavU ide. 
 
@@ -4406,8 +4406,8 @@ bahudu. I vyatyAsavannu keLagina sollugaLalli kANabahudu:
 (67Ta) I pustakavannu avanu OdiralAra. 
 (67ta)  I pustakavannu avanu OdadiralAra. 
 
-(67ka)dalli `avanu OdiddAne' emba hELike, mattu A hELike `nija 
-virabahudu'  emba  ADugana  niluvu  embudAgi  eraDu  angaga 
+(67ka)dalli ^avanu OdiddAne^ emba hELike, mattu A hELike ^nija 
+virabahudu^  emba  ADugana  niluvu  embudAgi  eraDu  angaga 
 Liruvudannu  kANabahudu;  I  angagaLalli  modalaneyadannu,  endare 
 hELikeyannu  (67ca)dalli  allagaLeyalAgide;  (67Ta)dalli  eraDaneya 
 angavannu,  endare  A  hELikeya  kuritAgi  ADuganigiruva  niluvannu 
@@ -4427,13 +4427,13 @@ hAge,  avu  tiLisuva  esaka  solluhottina  modalu  naDedudu
 hAgAgi, (67ca) sollu solluhottina modalu naDeda esakavannu 
 mAtravallade,  adara  baLika  naDeyuva  esakavannU  allagaLeyaballudu. 
 idE  rItiyalli,  (67Ta)  sollige,  adaralli  baruva  eraDu  allagaLeta 
-gaLu  ondannondu  hoDeduhAkuva  kAraNa,  `I  pustakavannu  Ata 
-OdiruttAne'  emba  himbottina  huruLAgali,  illavE  `I  pustakavannu 
-Ata OduttAne' emba mumbottina huruLAgali baraballudu. 
+gaLu  ondannondu  hoDeduhAkuva  kAraNa,  ^I  pustakavannu  Ata 
+OdiruttAne^  emba  himbottina  huruLAgali,  illavE  ^I  pustakavannu 
+Ata OduttAne^ emba mumbottina huruLAgali baraballudu. 
 
 allagaLetavU  ondu  bageyalli  ADugana  niluvannE  tiLisuttade 
-embudAgi  hELabahudu;  yAkendare,  `ondu  esaka  naDedilla'  illavE 
-`naDeyuvudilla' endu hELuvAga, ADuganu adara iruvikeya kuritu 
+embudAgi  hELabahudu;  yAkendare,  ^ondu  esaka  naDedilla^  illavE 
+^naDeyuvudilla^ endu hELuvAga, ADuganu adara iruvikeya kuritu 
 tanna tiLivannu illavE tIrmAnavannu tiLisuttiruttAne.  
 
 
@@ -4474,8 +4474,8 @@ koTTiruva sollugaLU idakke ettugeyAgaballuvu:
 (68Ta)  avaru maneyalli iralAraru. 
 (68ta)  avaru maneyalli illadiralAraru. 
 
-(68ka)dalli  `avaru  maneyalliddAre'  emba  hELike,  mattu  adara 
-kuritAgi `A hELike nijavirabahudu' emba ADugana (iruhada) niluvu 
+(68ka)dalli  ^avaru  maneyalliddAre^  emba  hELike,  mattu  adara 
+kuritAgi ^A hELike nijavirabahudu^ emba ADugana (iruhada) niluvu 
 
 
  
@@ -4485,8 +4485,8 @@ eraDaneyadannu  (68Ta)dalli,  mattu  eraDannU  (68ta)dalli  allagaLeya
 lAgide.  
 
 Adare,  bEhavannu  tiLisuva  sollugaLalli  baruva  hELikeyannu  I 
-rIti allagaLeyalu baruvudilla. idakke kAraNavEnendare, `ondu hELike 
-nijavirabEku' embudAgi tiLisalu EnAdarU ondu niScitavAda purAve 
+rIti allagaLeyalu baruvudilla. idakke kAraNavEnendare, ^ondu hELike 
+nijavirabEku^ embudAgi tiLisalu EnAdarU ondu niScitavAda purAve 
 bEkAguttade;  I  purAve  iddalli,  keLage  (69ka)dalli  kANisida  hAge, 
 ADuganige  bEhada  kuritAgi  tanna  niluvannu  (adannu  allagaLeyade) 
 tiLisalu  baruttade;  Adare,  adu  illadiruvalli  Atanige  A  rIti  hELike 
@@ -4529,8 +4529,8 @@ gaLalli kANabahudu:
 dalli,  mattu  niluvu  mattu  hELikegaLeraDannU  (71Ta)dalli  allagaLeya 
 lAgide embudannu gamanisabahudu.  
 
-ivugaLalli  (71ca)  sollina  huruLu  `Ita  horage  hOgadira 
-bahudu' emba sollina huruLige samanAgide; endare, bEku padavannu 
+ivugaLalli  (71ca)  sollina  huruLu  ^Ita  horage  hOgadira 
+bahudu^ emba sollina huruLige samanAgide; endare, bEku padavannu 
 allagaLeyuvudu mattu bahudu padadondige bandiruva hELikeyannu 
 allagaLeyuvudu - iveraDu huruLina maTTige samanAgive; idu keLage 
 (4)ralli  tiLisiruvantaha  Araygara  (tArkikara)  kaTTalege  (allagaLeda 
@@ -4881,7 +4881,7 @@ esakakkinta heccu urubeya esakavannu tiLisuttade.
 (2ka)  mattu  (2ca)  sollugaLa  naDuveyU  avu  tiLisuva  esakagaLa 
 aLaviyalli  vyatyAsavide;  Adare,  I  vyatyAsa  bEre  bageyadu:  (1ka) 
 sollu  mumbottinalli  omme  naDeyaliruva  esakavannu  tiLisuttade, 
-mattu  (2ca)  sollu  halavu  bAri  naDeyuva  `baLake'ya  esakavannu 
+mattu  (2ca)  sollu  halavu  bAri  naDeyuva  ^baLake^ya  esakavannu 
 tiLisuttade. 
 
 I  vyatyAsavannu  esakada  iTTaLadalli  kANisuva  aLavi  (iTTaLada 
@@ -4948,9 +4948,9 @@ koTTiruva (5)nE sollannu gamanisabahudu:
 (5ka)  avanu ivattu sAlege bassinalli hOguttAne.  
 (5ca)  avanu sAlege dinAlU bassinalli hOguttAne. 
 
-(5)nE sollige eraDu huruLugaLive: `avanu ivattu ondu divasa 
-sAlege bassinalli hOguttAne' emba mumbottina huruLondu; mattu 
-`avanu dinAlU sAlege bassinalli hOguttAne' emba baLakeya huruLu 
+(5)nE sollige eraDu huruLugaLive: ^avanu ivattu ondu divasa 
+sAlege bassinalli hOguttAne^ emba mumbottina huruLondu; mattu 
+^avanu dinAlU sAlege bassinalli hOguttAne^ emba baLakeya huruLu 
 innondu.  
 
 (5)nE  sollige  I  eraDu  huruLugaLive  embudannu  adaralli  I 
@@ -5004,8 +5004,8 @@ ttidduvu.
 
 mElina  sollugaLigella  solluhottiginta  modalu  baLakeyallidda, 
 mattu Iga baLakeyallilladiruva esakagaLannu tiLisuvantaha oLahuruLide 
-embudannu  gamanisabahudu.  ettugegAgi,  (7ka)  sollige  `avanu  I 
-varSa kelasakke bassinalli hOguttA illa' emba oLahuruLide. 
+embudannu  gamanisabahudu.  ettugegAgi,  (7ka)  sollige  ^avanu  I 
+varSa kelasakke bassinalli hOguttA illa^ emba oLahuruLide. 
 
 Adare,  Ipottina  jODisuva 
 
@@ -5082,8 +5082,8 @@ dinAlU nAlku ganTege emba hottina esakaparicegaLigU naDuviruva
 vyatyAsadindAgi gottAguttade. 
 
 idallade,  I  esakaparicegaLa  baLakeyindAgi,  I  sollugaLalliruva 
-`solluhottina  baLika  naDeyaliruva  esaka'  mattu  `baLakeyalliruva 
-esaka' emba ippuruLU illavAgide. 
+^solluhottina  baLika  naDeyaliruva  esaka^  mattu  ^baLakeyalliruva 
+esaka^ emba ippuruLU illavAgide. 
 
 (7)  I  rIti  munde  naDeyaliruva  esakagaLannu  mattu  baLake 
 yalliruva  esakagaLannu  mAtravallade,  bEreyU  kelavu  bageya  esaka 
@@ -5205,8 +5205,8 @@ doreyuttade:
 (21Ta)  eraDu kaDeyavarU sEri hoDedADuttiddaru. 
 (21ta)  rAjuvU hariyU guddADidaru. 
 
-(21Ta)  sollige  `obbarigobbaru  hoDedaru'  emba  huruLide, 
-mattu  (21ta)  sollige  `obbarigobbaru  guddidaru'  emba  huruLide 
+(21Ta)  sollige  ^obbarigobbaru  hoDedaru^  emba  huruLide, 
+mattu  (21ta)  sollige  ^obbarigobbaru  guddidaru^  emba  huruLide 
 embudannu gamanisabahudu. 
 
 (2)  esakapadagaLa  immaDi  rUpavannu  baLasuvudu  halavu  bAri 
@@ -5244,11 +5244,11 @@ sigaballudu. idannu keLagina sollugaLalli kANabahudu:
 (25ca)  hoLe dATuttA iddAre - halavu mandi dATiddAre. 
 
 (24ka)  sollina  esakapadada  koneyalli  OreNikeya  Ane  oTTu 
-baLakeyAgiddu,  adakke  `innU  sattilla'  emba  oLahuruLu  siguttade; 
+baLakeyAgiddu,  adakke  ^innU  sattilla^  emba  oLahuruLu  siguttade; 
 Adare, (24ca) sollina esakapadada koneyalli halaveNikeya Are oTTu 
-bandiddu, adakke `halavu mandi sattaru' emba oLahuruLU sigaballudu 
-(endare,  `sAyuva  esaka  halavu  bAri  naDedide'  emba  huruLU  siga 
-balludu),  mattu  `innU  yArU  sattilla'  (sAyuva  esaka  innU  naDe 
+bandiddu, adakke ^halavu mandi sattaru^ emba oLahuruLU sigaballudu 
+(endare,  ^sAyuva  esaka  halavu  bAri  naDedide^  emba  huruLU  siga 
+balludu),  mattu  ^innU  yArU  sattilla^  (sAyuva  esaka  innU  naDe 
 dilla) emba oLahuruLU sigaballudu.  
 
 (25ka-ca)  sollugaLallU  intahadE  oLahuruLina  vyatyAsa  kANisu 
@@ -5261,9 +5261,9 @@ naDuve vyatyAsavide. ettugegAgi, keLagina sollugaLannu gamanisabahudu:
 (26ka)  avanu arda ganTeyinda ODuttiddAne. 
 (26ca)  nAnu arda ganTeyinda hELuttiddEne. 
 
-(26ka)  sollu  `ODuva'  esaka  arda  ganTeyindalU  naDeyuttide 
+(26ka)  sollu  ^ODuva^  esaka  arda  ganTeyindalU  naDeyuttide 
 embudAgi  ondu  munduvariyuva  esakavannu  tiLisuttade;  idakke 
-badalu, (26ca) sollu `hELuva' esaka arda ganTe hottinalli halavu 
+badalu, (26ca) sollu ^hELuva^ esaka arda ganTe hottinalli halavu 
 bAri naDedideyembudAgi halavu bAri naDeyuva esakavannu tiLisuttade. 
 I eraDu bageya sollugaLalli, tirutirugi embudannu halavu bAri 
 naDeyuva  esakadondige  baLasalu  baruttade;  Adare,  munduvariyuva 
@@ -5371,7 +5371,7 @@ gamanisabahudu:
 rAjIva maguvige ondu gombe koTTa. 
 
 I  (1)nE  sollina  koneyalli  bandiruva  koTTa  embudu  ondu 
-esakapada;  adu  ondu  esakavannu  (endare  `EnAyitu'  embudannu) 
+esakapada;  adu  ondu  esakavannu  (endare  ^EnAyitu^  embudannu) 
 tiLisuttade;  I  esakadalli  mUru  pAngugaLu  toDagikonDive;  avu 
 gaLalli eraDannu rAjIva mattu maguvige emba eraDu hesarupadagaLu 
 gurutisuttave,  mattu  mUraneyadannu  ondu  gombe  emba  hesaru 
@@ -5383,10 +5383,10 @@ pattugeya  oTTugaLu  tiLisuttave.  kannaDadalli  idakkAgi  annu,  inda,  ge
 mattu alli emba nAlku oTTugaLu baLakeyAguttave embudannu nAvu 
 nAlkanE pasugeyalli (4.8.2ralli) nODiruvevu. 
 
-ettugegAgi, mEle koTTiruva (1)nE sollinalli `koDuva esaka'da 
-guri yAvudu (`koTTudu yArige') embudannu tiLisuvudakkAgi magu 
-padadondige  ge  oTTu  bandide;  Adare,  esakada  IDannu  (`koTTudu 
-Enannu'  embudannu)  tiLisuvudakkAgi  gombe  padadondige  yAva 
+ettugegAgi, mEle koTTiruva (1)nE sollinalli ^koDuva esaka^da 
+guri yAvudu (^koTTudu yArige^) embudannu tiLisuvudakkAgi magu 
+padadondige  ge  oTTu  bandide;  Adare,  esakada  IDannu  (^koTTudu 
+Enannu^  embudannu)  tiLisuvudakkAgi  gombe  padadondige  yAva 
 oTTU  bandilla;  nijakkU  adarondige  I  kelasakkAgi  annu  emba 
 oTTannu  baLasabahudu;  adare,  sAmAnyavAgi  adannu  baLasadiruvudE 
 heccu;  idE  sollannu,  keLage  (1ka)dalli  kANisida  hAge,  bErondu 
@@ -5401,7 +5401,7 @@ ttade.
 
 rAjIva ondu gombeyannu maguvige koTTa. 
 
-esakada  mADuganannu  (`koTTudu  yAru'  embudannu)  gurutisalu 
+esakada  mADuganannu  (^koTTudu  yAru^  embudannu)  gurutisalu 
 kannaDadalli  yAva  oTTannU  baLasuvudilla;  A  rIti  hesarupadadondige 
 yAva  oTTannU  baLasillavembudE  adu  esakada  mADuga  embudannu 
 tiLisuttade. idallade, sAmAnyavAgi sollina IDugaLu mADugara hAge 
@@ -5419,7 +5419,7 @@ rAju hariyannu dUDida.
 esakagaLalli  toDagikonDiruva  pAngugaLannu  gurutisalu  bariya 
 ondu  hesarupadavannu  mAtravE  baLasaballevu,  illavE  ondu  hesaru 
 kanteyannU baLasaballevu. mEle koTTiruva rAjIva maguvige ondu 
-gombe  koTTa  emba  sollinalli  `koDuva'  esakada  mADuga  mattu 
+gombe  koTTa  emba  sollinalli  ^koDuva^  esakada  mADuga  mattu 
 gurigaLannu  gurutisalu  rAjIva  mattu  magu  emba  eraDu  hesaru 
 padagaLannu  mAtravE  baLasalAgide;  Adare,  adara  IDannu  gurutisalu 
 ondu gombe emba hesarukanteyannu baLasalAgide.  
@@ -5433,7 +5433,7 @@ kelasadalli  hesarupadagaLige  neravu  nIDuttave;  intaha  neravu  nIDuva
 padagaLondige  baruva  hesarupadagaLannu  hesarukantegaLendu  kareya 
 bahudu.  
 
-ettugegAgi,  mane  endiSTE  hELidare,  kelavomme  `yAva  mane' 
+ettugegAgi,  mane  endiSTE  hELidare,  kelavomme  ^yAva  mane^ 
 sandarbagaLalli 
 
 gottAgadirabahudu;  antaha 
@@ -5570,7 +5570,7 @@ navilu padada huruLAgiruttade.
 idakke badalu,  kempu sIre  emba hesarukantegU adu gurutisuva 
 pAngigU  naDuve  antaha  nEravAda  sambandavilla.  modalige  adara 
 huruLannu  adara  oLa  iTTaLadinda  paDeyabEkAguttade;  adaralli  sIre 
-padakke  kempu  padavannu  sErisalAgiddu,  adu  `kempu  baNNaviruva  sIre' 
+padakke  kempu  padavannu  sErisalAgiddu,  adu  ^kempu  baNNaviruva  sIre^ 
 yannu  gurutisuttade.  I  huruLannu,  endare  adu  tiLisuva  sIreya 
 kogetavannu  baLasi,  adu  gurutisuva  pAngu  yAvudendu  tiLiya 
 bEkAguttade. 
@@ -5593,18 +5593,18 @@ bahudu.
 
 Adare,  hesarukantegaLa  hAge  intaha  hesarupadagaLa  huruLannu 
 avugaLa  iTTaLadinda  nEravAgi  paDeyalu  baruvudilla.  ettugegAgi, 
-kallede  embudu  kallaccu  embudara  hAge  `kallininda  mADida  ede' 
-yannu  hesarisuvudilla,  `kallina  hAgiruva  ede'yannu,  endare  `yAva 
-karuNeyannU  tOradavana  ede'yannu  hesarisuttade;  mattu  eraka 
+kallede  embudu  kallaccu  embudara  hAge  ^kallininda  mADida  ede^ 
+yannu  hesarisuvudilla,  ^kallina  hAgiruva  ede^yannu,  endare  ^yAva 
+karuNeyannU  tOradavana  ede^yannu  hesarisuttade;  mattu  eraka 
 embudu 
 vyakti'yannu 
-hesarisuvudilla,  `ereyuvudarinda  paDeda  vastu'vannu  hesarisuttade. 
-kuDuka  embudU  `kuDiyuva  ellA  vyakti'gaLannU  hesarisuva  badalu, 
-`kaLLu kuDiyuva caTadalli biddava'nannu hesarisuttade. 
+hesarisuvudilla,  ^ereyuvudarinda  paDeda  vastu^vannu  hesarisuttade. 
+kuDuka  embudU  ^kuDiyuva  ellA  vyakti^gaLannU  hesarisuva  badalu, 
+^kaLLu kuDiyuva caTadalli biddava^nannu hesarisuttade. 
 
 kuDuka  embudara 
 
-`ereyuva 
+ereyuva 
 
 hAge 
 
@@ -5627,10 +5627,10 @@ hesarukanteyannu unTumADalu baruttade.
 
 
 ettugegAgi,  ugibanDi  emba  hesarupadavannu  unTumADuvAga, 
-`adu gurutisuva (hesarisuva) vastu yAvudarinda naDeyuttade' emba 
+^adu gurutisuva (hesarisuva) vastu yAvudarinda naDeyuttade^ emba 
 viSayavannu adakkAgi Ayke mADalAgittu; idakke badalu, hIrukAgada 
-emba bErondu hesarupadavannu unTumADuvAga, `adu gurutisuva 
-vastu  yAva  kelasakkAgi  baLakeyAguttade'  emba  viSayavannu  Ayke 
+emba bErondu hesarupadavannu unTumADuvAga, ^adu gurutisuva 
+vastu  yAva  kelasakkAgi  baLakeyAguttade^  emba  viSayavannu  Ayke 
 mADalAgittu.  
 
 I  rIti  Ayke  mADiruva  parice  munde  badalAdarU  baLakege 
@@ -5716,7 +5716,7 @@ gurutisuva pAngugaLa kuritAgi avugaLa (1) parice, (2) aLavi, mattu
 mUru  mukya  viSayagaLU  gurutisuva  kelasadalli  tiruLu  padakke  nerava 
 nnodagisuttave. 
 
-(1)  paricepadagaLu  illavE  padakantegaLu  `adu  entaha  pAngu?' 
+(1)  paricepadagaLu  illavE  padakantegaLu  ^adu  entaha  pAngu?^ 
 embudannu  tiLisuttave;  avugaLa  uddagala  (doDDa  mane),  bele  (oLLe 
 mane),  prAya  (hosa  mane),  baNNa  (kempu  sIre)  modalAduvannu 
 tiLisuva  mUlaka,  avu  I  kelasavannu  naDesuttave.  tiruLupadadoDane 
@@ -5778,10 +5778,10 @@ ettugegAgi,  mEle  koTTiruva  padakanteyalli  hosa  embudu
 pustakagaLu  emba  tiruLupadada  huruLannu  mAtra  tAguttade;  mEju 
 hosadendu,  illavE  eraDu  eNike  hosadendu  A  padakante  hELuvu 
 dilla;  eraDu  embudu  hosa  mattu  pustaka  emba  eraDu  padagaLa 
-huruLannU  tAguttade;  yAkendare,  adu  `hosa  pustakagaLu  eSTu' 
-embudannu tiLisuttadallade barI `pustakagaLu eSTu' embudannu tiLisuvu 
+huruLannU  tAguttade;  yAkendare,  adu  ^hosa  pustakagaLu  eSTu^ 
+embudannu tiLisuttadallade barI ^pustakagaLu eSTu^ embudannu tiLisuvu 
 dilla. mEjina mEliruva  embudu I mUru angagaLa huruLannU 
-oTTAgi  tAguttade;  yAkendare,  adu  `eraDu  hosa  pustakagaLa'  jAga 
+oTTAgi  tAguttade;  yAkendare,  adu  ^eraDu  hosa  pustakagaLa^  jAga 
 vannu tiLisuttade. 
 
 pAngugaLa  pariceyannu  tiLisuvudakkAgi  bariya  padagaLannu  baLasuva 
@@ -6056,8 +6056,8 @@ dakkAgi  rAjIva  padadondige  eraDu  oLasollugaLannu  baLasalAgide;
 
  
 
-mattu  (2pa)dalli  gAndi  emba  iTTahesarannu  mArpuruLinalli  (`gAndi 
-yantahavanu' emba huruLinalli) baLasalAgide. 
+mattu  (2pa)dalli  gAndi  emba  iTTahesarannu  mArpuruLinalli  (^gAndi 
+yantahavanu^ emba huruLinalli) baLasalAgide. 
 
 (7) koTTahesarugaLu, mElina ettugegaLalli kANisuva hAge, ondu 
 padavAgi  mAtra  barabahudu,  illavE  ondu  padakanteyAgiyU  bara 
@@ -6185,7 +6185,7 @@ gurutisi  hesarisabahudu;  hAgAgi,  ele  emba  pada  ottehesarAgi  baLake
 
 
 
-yAguttade;  Adare,  hullina  `ele'gaLannu  aSTu  suLuvAgi  vingaDisi 
+yAguttade;  Adare,  hullina  ^ele^gaLannu  aSTu  suLuvAgi  vingaDisi 
 gurutisalu  baruvudilla;  hAgAgi,  hullu  emba  pada  oTTaluhesarAgi 
 baLakeyAguttade. 
 
@@ -6277,8 +6277,8 @@ kanteyalli  modalanE  hantada  pustaka  padadondige  hottina  parice
 
  
 
-yannu  tiLisuva  Icegina  pada  bandide;  Adare,  nijakkU  idu  `Icege 
-barediruva' illavE `Icege accAgiruva' pustakavannu gurutisuttade. 
+yannu  tiLisuva  Icegina  pada  bandide;  Adare,  nijakkU  idu  ^Icege 
+barediruva^ illavE ^Icege accAgiruva^ pustakavannu gurutisuttade. 
 
 idE  rItiyalli  doDDa  habba,  cikka  ATa  emba  padakantegaLalli 
 eraDanE  hantada  habba  mattu  ATa  padagaLondige  jAgada  pariceyannu 
@@ -6547,10 +6547,10 @@ kilO kAvEri), illavE parijillada padagaLannAgali (*mUru lITar
 maruka) A rIti mArpaDisalu baruvudilla. Adare, eNisalAgada kelavu 
 padagaLannu ottAyadinda antaha baLakegaLalli toDagisalU baruttade. 
 
-ettugegAgi,  `ondE  hesarina  mUru  mandi  huDugiyaru'  emba 
+ettugegAgi,  ^ondE  hesarina  mUru  mandi  huDugiyaru^  emba 
 huruLinalli  mUvaru  kAvEriyaru  embudAgi  koTTahesarinondige 
 eNikeya  padavannu  mattu  halaveNikeya  oTTannu  baLasalu  baruttade; 
-mattu  `mUru  sandarbagaLalli  unTAgiruva  daNivugaLu'  emba  huruLi 
+mattu  ^mUru  sandarbagaLalli  unTAgiruva  daNivugaLu^  emba  huruLi 
 nalli  mUru  daNivugaLu  embudAgi  parijillada  mattu  eNisalAgada 
 padadondigU avannu baLasalu baruttade. 
 
@@ -6568,12 +6568,12 @@ gaLE tiLisuttave:
  
 
 ettugegAgi, mara mattu giDa padagaLa huruLugaLu avu gurutisuva 
-pAngugaLa  naDuve  harayada  vyatyAsavide  (`marakke  giDakkinta  heccu 
-harayavAgide')  embudannu  tiLisuttave;  iddalu  mattu  hAlu  padagaLa 
+pAngugaLa  naDuve  harayada  vyatyAsavide  (^marakke  giDakkinta  heccu 
+harayavAgide^)  embudannu  tiLisuttave;  iddalu  mattu  hAlu  padagaLa 
 huruLugaLu  avu  gurutisuva  pAngugaLa  naDuve  baNNada  vyatyAsavide 
-(`iddalu kappu mattu hAlu biLi') embudannu tiLisuttave; Ane mattu 
+(^iddalu kappu mattu hAlu biLi^) embudannu tiLisuttave; Ane mattu 
 ili padagaLa huruLugaLu avu gurutisuva pAngugaLa naDuve uddagala 
-dalli vyatyAsavide (`Ane doDDadu, ili cikkadu') embudannu tiLisuttave. 
+dalli vyatyAsavide (^Ane doDDadu, ili cikkadu^) embudannu tiLisuttave. 
 paricegaLannu 
 tiLisaballudu.  ettugegAgi,  padagaLa  koneyalli  baruva  itti  (gANiga-
 gANigitti),  ti  (ATagAra-ATagArti),  i  (kivuDa-kivuDi),  e  (jANa-
@@ -6605,7 +6605,7 @@ kaLeduhOgiralU balludu.
 kANuvantaha 
 
 ettugegAgi, karihalage padavannu unTumADuvAga, kaNNige hoDedu 
-kANuvantaha `adannu halageyinda mADalAgiddu, adara baNNa kappAgide' 
+kANuvantaha ^adannu halageyinda mADalAgiddu, adara baNNa kappAgide^ 
 emba  pariceyannu  baLasalAgittu;  Adare,  AmEle  bEre  baNNagaLannu 
 baLasiyU  adannu  tayArisuva  holabu  baLakege  bantu;  hIgiddarU, 
 (ondu  taragatiyalli  adu  nIli  baNNaddAgideyAdarU)  adannu 
@@ -6618,7 +6618,7 @@ manegaLindella  hosadAgidda  kAraNa,  adakke  hosamane  emba  hesarannu
 
 
 koTTirabahudu;  Adare  AmEle,  hattippattu  varSa  kaLeda  baLika,  sutta 
-mutta  bEre  halavu  `hosa'  manegaLannu  janaru  kaTTirabahudu; 
+mutta  bEre  halavu  ^hosa^  manegaLannu  janaru  kaTTirabahudu; 
 hAgiddarU  hosamane  emba  A  maneya  haLeya  hesaru  badalAgade 
 uLidiraballudu. 
 
@@ -6641,7 +6641,7 @@ neravupadagaLAgi  baLakeyAdavugaLu  embudAgi  I  eraDu  baLakegaLa
 naDuve vyatyAsavannu kANalAguttade. 
 
 ettugegAgi, doDDa mane emba hesarukanteyalli bandiruva doDDa 
-paricepada `maneya uddagala entahadu' embudannu tiLisuttade; kempu 
+paricepada ^maneya uddagala entahadu^ embudannu tiLisuttade; kempu 
 mane  emba  hesarukanteyalli  bandiruva  kempu  paricepada  maneya 
 baNNavannu  tiLisuttade;  mattu  hosa  koDe  emba  hesarukanteyalli 
 bandiruva hosa paricepada koDeya harayavannu tiLisuttade. 
@@ -6896,7 +6896,7 @@ tumbA udda kOlu nammallilla.
 (3ka) sollinalli tumbA pada udda embudara mElina hantavannu 
 tiLisuttade; Adare, (3ca)dalli adu A rIti suLLu paricepadada mElina 
 hantavannu  tiLisalAradu;  yAkendare,  suLLu  padakke  hantagaLilla.  idakke 
-badalu, adu (3ca)dalli haNa hesarupadada pariceyannu (`tumbA haNa' 
+badalu, adu (3ca)dalli haNa hesarupadada pariceyannu (^tumbA haNa^ 
 embudannu) tiLisuttade. 
 
 idE rItiyalli hOlikeyannu tiLisuva nuDitavannu (4ka)dalli udda 
@@ -6928,7 +6928,7 @@ tiLisuttadallade  tappu  embudara  pariceyannu  tiLisuvudilla  embudannu
 gamanisabahudu.  (5ca)dalli  adE  paricepada  tappu  embudara 
 pariceyannEnO  tiLisuttade;  Adare,  illi  tappu  pada  ondu  hesaru 
 padavAgi  baLakeyAgide.  I  eraDu  kaDegaLallU  tumbA  embudu 
-`halavu' emba huruLinalli bandideyallade, mElina hantavannu tiLisuva 
+^halavu^ emba huruLinalli bandideyallade, mElina hantavannu tiLisuva 
 huruLinalli bandilla. 
 
 haravannu  kuggisuva  paricepadagaLigU  pAngannu  badalisuva  paricepada 
@@ -6970,8 +6970,8 @@ baruttade.
 gumpugaLalli 
 
 (ka)  kelavu  paricepadagaLu  jODigaLAgi  baLakeyAguttiddu,  A 
-jODigaLu  tiLisuva  paricegaLalli  ondu  `illa'vendAdAga  innondu 
-`ide'yemba  huruLu  dorakuttade.  intaha  paricepadagaLannu  jODi 
+jODigaLu  tiLisuva  paricegaLalli  ondu  ^illa^vendAdAga  innondu 
+^ide^yemba  huruLu  dorakuttade.  intaha  paricepadagaLannu  jODi 
 paricegaLendu kareyabahudu. 
 
 ettugegAgi,  tappu  mattu  sari  emba  eraDu  paricepadagaLannu 
@@ -6991,7 +6991,7 @@ baruttave;  hAgAgi,  avugaLalli  ondu  illavendu  tiLidiruvAga,  uLida
 paricegaLalli yAvudu irabahudu embudannu tIrmAnisalu baruvudilla.  
 ettugegAgi,  pAngugaLa  baNNavannu  tiLisuva  kempu,  kappu,  nIli, 
 kandu,  nEraLe,  bUdu,  hasuru,  haLadi,  modalAda  paricepadagaLa 
-baLakeyannu gamanisabahudu; ivannella oTTige ondu `baNNada paTTi'yalli 
+baLakeyannu gamanisabahudu; ivannella oTTige ondu ^baNNada paTTi^yalli 
 irisalu  baruttade;  Adare,  I  ondu  paTTiyalli  halavu  paricepadagaLu 
 sErikoLLuva  kAraNa,  ondu  vastu  I  baNNagaLalli  ondannu  paDedilla 
 vAdare  (ettugegAgi,  ondu  hU  kempu  gulAbiyallavAdare),  uLida 
@@ -7000,7 +7000,7 @@ baruvudilla; adu bEre yAva baNNadallU iraballudu (biLi gulAbi
 yirabahudu, illavE haLadi gulAbiyirabahudu). 
 
 sihi,  kahi,  huLi,  kAra,  uppu,  cogaru  modalAda  rucigaLannu 
-tiLisuva  paricepadagaLU  intahavE;  avannella  oTTige  `ruciya  paTTi' 
+tiLisuva  paricepadagaLU  intahavE;  avannella  oTTige  ^ruciya  paTTi^ 
 yemba innondu paTTiyalli irisalu baruttade; Adare, ondu vastuvige 
 I  rucigaLalli  ondu  illavendu  tiLidiruvalli,  uLidavugaLalli  yAva 
 ruci  adakke  irabahudu  embudannu  adara  ruci  nODade  hELalu 
@@ -7026,7 +7026,7 @@ mUru  paricepadagaLannu  ondu  paTTiyalli  irisalu  baruttade;
  
 
 ivugaLalli teLu embudu paTTiya ondu koneyallU, dappa embudu 
-innondu  koneyallU  baruttave;  `teLuvU  alla  dappavU  alla'  emba 
+innondu  koneyallU  baruttave;  ^teLuvU  alla  dappavU  alla^  emba 
 huruLiruva  aLaka  embudu  I  paTTiya  naDuve  baruttade  (teLu 
 mosaru, dappa mosaru, aLaka mosaru). 
 
@@ -7039,8 +7039,8 @@ ettugegAgi, doDDa mattu cikka embavu baruva paTTiyalli avugaLa
 naDuve  baraballa  mUranE  paricepada  illa;  doDDa  embudu  I 
 paTTiya  ondu  badiyalli  baruttade,  mattu  cikka  embudu  innondu 
 badiyalli baruttade. hAgiddarU, ondu vastu doDDadallavAdare, adu 
-cikkadendu  hELalu  baruvudilla;  yAkendare,  adu  `doDDadU  allade 
-mattu  cikkadU  allade'  iraballudu.  hAgAgi,  I  aLatepaTTiyalli 
+cikkadendu  hELalu  baruvudilla;  yAkendare,  adu  ^doDDadU  allade 
+mattu  cikkadU  allade^  iraballudu.  hAgAgi,  I  aLatepaTTiyalli 
 naDuvina jAgavannu tiLisuva paricepada illadiddarU, jAgavantU iddE 
 ide. 
 
@@ -7349,12 +7349,12 @@ gENagala,  gENudda,  cOTudda  padagaLige  uddagalavannu  tiLisuva
 huruLu  mAtra  ide;  adu  bEkAdudakkinta  heccU  iraballudu, 
 kaDimeyU  iraballudu.  Adare,  cOTu  giDDa  illavE  ardangula 
 sapura  embavugaLige 
-kaDime  udda'  illavE 
-`bEkAdudakkinta  kaDime  agala'  emba  huruLide;  endare,  kaLehuruLina 
+^kaDime  udda^  illavE 
+^bEkAdudakkinta  kaDime  agala^  emba  huruLide;  endare,  kaLehuruLina 
 padagaLannu  baLasiruvalli  eduruhuruLina  padagaLa  naDuviruva  vyatyAsa 
 vannu gamanisadiralu baruvudilla. 
 
-`bEkAdudakkinta 
+bEkAdudakkinta 
 
 (pa)  eraDu  bEre  bEre  aLatepaTTigaLalli  baruva  paricepadagaLu 
 ondE  bageya  aLateyannu  tiLisuttiveyAdare,  avannu  hOlisalu 
@@ -7450,13 +7450,13 @@ emba padavU Ane padada haravannu kuggisuttade.
 
 Adare,  I  kelasavannu  ivu  hEge  naDesuttave  embudaralli  vyatyAsa 
 vide.  kappu  embudu  baNNaviruva  ellA  bageya  pAngugaLa  haravannU 
-ondE rItiyalli kuggisuttade; avellavannU adu `kappu baNNaviruvavu' 
-mattu  `bEre  baNNagaLiruvavu'  emba  eraDu  gumpugaLalli  irisuva 
+ondE rItiyalli kuggisuttade; avellavannU adu ^kappu baNNaviruvavu^ 
+mattu  ^bEre  baNNagaLiruvavu^  emba  eraDu  gumpugaLalli  irisuva 
 
 
  
 
-mUlaka avugaLa haravannu kuggisuttade. `mAdari kappu baNNa' embudu 
+mUlaka avugaLa haravannu kuggisuttade. ^mAdari kappu baNNa^ embudu 
 ellA baLakegaLallU ondE Agiruttade. 
 
 idakke  badalu,  cikka  embudu  uddaLateyiruva  pAngugaLalli 
@@ -7493,8 +7493,8 @@ gODeyAgide.
 
 (19Ta) *I kappu gODe nijakkU kappinadEnalla. 
 
-(19ca)  sollannu  `modalige  biLiyAgiddu  Iga  masi  hiDidu 
-kappAgiruva  gODe'yannu  varNisaballudEnO  nija;  Adare,  (18ca-
+(19ca)  sollannu  ^modalige  biLiyAgiddu  Iga  masi  hiDidu 
+kappAgiruva  gODe^yannu  varNisaballudEnO  nija;  Adare,  (18ca-
 Ta)gaLalli kANisuvantaha huruLu adakkilla embudannu gamanisabahudu. 
 ondE  mAdariya  mattu  halavu  mAdarigaLa  padagaLendu  I 
 
@@ -7521,16 +7521,16 @@ heccu  paricegaLannu  tiLisuttave,  mattu  I  paricegaLellavU  hesarupadada
 haravannu kuggisuva kelasavannu naDesaballuvu.  
 
 ettugegAgi,  oLLe  pada  halavu  bageya  paricegaLannu  tiLisaballudu; 
-oLLe  haNNu  emba  baLakeyalli  adu  `tinnalu  ruciyAgiruva'  emba 
-pariceyannAgali,  `koLetu  hOgillada'  emba  pariceyannAgali,  illavE 
-`rAsAyanikagaLannu  baLasade  beLesiruva'  emba  pariceyannAgali  tiLisa 
+oLLe  haNNu  emba  baLakeyalli  adu  ^tinnalu  ruciyAgiruva^  emba 
+pariceyannAgali,  ^koLetu  hOgillada^  emba  pariceyannAgali,  illavE 
+^rAsAyanikagaLannu  baLasade  beLesiruva^  emba  pariceyannAgali  tiLisa 
 balludu.  sandarbakke  takka  hAge,  ADuganu  ivugaLalli  yAvudAdarU 
 ondannu ArisikonDirabahudu, illavE I mUrannU oTTAgi tiLisuva 
 hAgeyU adannu baLasirabahudu. 
 
 orparicepadagaLallU  kelavakke  ondakkinta  heccu  paricegaLannu  tiLisuva 
-huruLiraballudu;  ettugegAgi,  doDDa  embudu  `heccu  uddagala 
-gaLiruva'  emba  pariceyannu,  illavE  `doDDastikeyiruva'  emba  parice 
+huruLiraballudu;  ettugegAgi,  doDDa  embudu  ^heccu  uddagala 
+gaLiruva^  emba  pariceyannu,  illavE  ^doDDastikeyiruva^  emba  parice 
 yannu  tiLisaballudu;  Adare,  adara  ondu  baLakeyalli  I  eraDu 
 paricegaLalli ondu mAtra bEkAdudAgiruttade.   
 
@@ -7581,15 +7581,15 @@ tanna  huruLannu  kaLedukoLLuttade.  ettugegAgi,  agalavAda  halige
 embudaralli  bandiruva  Ada  padakke  heccina  huruLEnU  illa;  agala 
 paricepadavannu  halige  hesarupadadondige  sambandisuva  kelasavannaSTE 
 adu  naDesuttade.  Adare,  oddeyAda  baTTe  embudaralli  bandiruva 
-adE padakke `oNa baTTe oddeyAgiruvantaha' ondu esakavannu tiLisuva 
+adE padakke ^oNa baTTe oddeyAgiruvantaha^ ondu esakavannu tiLisuva 
 huruLU ide. 
 
 
 
 eraDu  huruLugaLannU  koDaballa  paricepadagaLondige  Agu  pada 
 vannu  baLasidAga  ippuruLu  kANisikoLLuttade.  ettugegAgi,  kempAda 
-tuTi embudu `heccu kempillada mattu Iga kempAgiruva' tuTiyannU 
-gurutisabahudu,  illavE  `yAvAgalU  kempAgiyE  iruva'  tuTi 
+tuTi embudu ^heccu kempillada mattu Iga kempAgiruva^ tuTiyannU 
+gurutisabahudu,  illavE  ^yAvAgalU  kempAgiyE  iruva^  tuTi 
 yannU gurutisaballudu. 
 
 (9) Agiru embudarondige baLake 
@@ -7753,19 +7753,19 @@ kAraNa,  *doDDa  mattu  kempu  haraLugaLu  embudaralli  mattu
 padavannu  baLasiruvudu  sariyAgilla.  agga  mattu  udda  padagaLa 
 baLakeyU hIgeyE. 
 
-mattu  padadinda  bErpaDisida  paricepadagaLu  (ka)  `ondE  pAngina 
-eraDu  paricegaLannu  tiLisuvudu',  mattu  (ca)  `eraDu  bEre  bEre 
-pAngugaLa  paricegaLannu  tiLisuvudu'  emba  eraDu  huruLugaLannU 
+mattu  padadinda  bErpaDisida  paricepadagaLu  (ka)  ^ondE  pAngina 
+eraDu  paricegaLannu  tiLisuvudu^,  mattu  (ca)  ^eraDu  bEre  bEre 
+pAngugaLa  paricegaLannu  tiLisuvudu^  emba  eraDu  huruLugaLannU 
 koDaballuvAgiddu, ippuruLige eDekoDuttave. I eraDanE huruLannu 
 halaveNikeya gaLu oTTannu baLasiruvalli heccu cannAgi kANabahudu.  
 
-ettugegAgi,  kempu  mattu  kappu  haraLugaLu  embudu  `kempu 
-haraLugaLu  mattu  kappu  haraLugaLu'  emba  huruLannu  koDaballudu, 
+ettugegAgi,  kempu  mattu  kappu  haraLugaLu  embudu  ^kempu 
+haraLugaLu  mattu  kappu  haraLugaLu^  emba  huruLannu  koDaballudu, 
 
 
  
 
-illavE  `ondondarallU  kempu  mattu  kappu  baNNagaLiruva  haraLugaLu' 
+illavE  ^ondondarallU  kempu  mattu  kappu  baNNagaLiruva  haraLugaLu^ 
 emba huruLannU koDaballudu. 
 
 Adare, doDDa mattu cikka huDugaru embantaha eduruhuruLina 
@@ -7777,8 +7777,8 @@ immaDi  rUpadalliruva  paricepadagaLu  eraDu  huruLugaLalli  baLake
 yAgaballuvu:  paricepada  tiLisuva  parice  innaSTu  mElina  (illavE 
 keLagina) hantaddu embudAgi adannu otti hELuvudu ivugaLalli ondu 
 huruLu;  ettugegAgi,  huLi  huLi  haNNu  emba  hesarukanteyalli  huLi 
-paricepadavannu  immaDirUpadalli  baLasalAgiddu,  adu  `tumbA  huLi 
-yAda  haNNu'  emba  huruLannu  koDuttade.  intaha  baLakeyannu  keLage 
+paricepadavannu  immaDirUpadalli  baLasalAgiddu,  adu  ^tumbA  huLi 
+yAda  haNNu^  emba  huruLannu  koDuttade.  intaha  baLakeyannu  keLage 
 koTTiruva padakantegaLallU kANabahudu: 
 
 haLe haLe pustaka 
@@ -7874,8 +7874,8 @@ aLatepaTTiya  bEre  bEre  hantagaLalli  (illavE  ondE  hantadalli)  A
 pariceyannu paDedive embudannU tiLisalu baruttade. 
 
 ettugegAgi,  mUraDi ettara gODe embudu ettara-taggu aLate 
-paTTiyalli  `keLagininda  mUraDi  ettaradalliruva  hantadalli  gODeya 
-ettara  ide'  embudannu  tiLisuttade;  mattu  idakkinta  dappa  halige 
+paTTiyalli  ^keLagininda  mUraDi  ettaradalliruva  hantadalli  gODeya 
+ettara  ide^  embudannu  tiLisuttade;  mattu  idakkinta  dappa  halige 
 embudu  dappa-hagura  aLatepaTTiyalli  eraDu  haligegaLu  bEre  bEre 
 hantagaLallive  (ondu  mEle  mattu  innondu  keLage)  embudannu 
 tiLisuttade. 
@@ -7895,14 +7895,14 @@ innondu bage.
 (22ka)  idaraSTu doDDa innondu gaDige aTTada mElide. 
 (22ca) SAnubAgara maneyalli idakkinta doDDa gaDige ide. 
 
-(22ka)dalli  `eraDu  gaDigegaLu  doDDa-cikka  aLatepaTTiya  ondE 
-hantadallive'  embudAgi  tiLisalAgide,  mattu  (22ca)dalli  `eraDu 
+(22ka)dalli  ^eraDu  gaDigegaLu  doDDa-cikka  aLatepaTTiya  ondE 
+hantadallive^  embudAgi  tiLisalAgide,  mattu  (22ca)dalli  ^eraDu 
 
 
  
 
 gaDigegaLu  bEre  bEre  hantagaLallive,  mattu  hOlike  pAngu  mAdari 
-pAngiginta mElina hantadallide' embudAgi tiLisalAgide.  
+pAngiginta mElina hantadallide^ embudAgi tiLisalAgide.  
 
 intaha  padakantegaLalli  mAdari  pAngannu 
 
@@ -7958,7 +7958,7 @@ baruttade.  ettugegAgi,  idondu  doDDa  Ane  emba  sollannu
 gamanisabahudu;  idaralli  bandiruva  doDDa  Ane  embudu  nijakkU 
 ondu  hOlikeyannu  tiLisuva  padakanteyAgide.  yAkendare,  adu 
 sAmAnya  AnegaLiginta  doDDadAgiruva  ondu  Aneyannu  gurutisuttade. 
-Adare,  I  `sAmAnya  AnegaLu'  yAvuvu  embudannu,  endare  I 
+Adare,  I  ^sAmAnya  AnegaLu^  yAvuvu  embudannu,  endare  I 
 hOlikeya  mAdari  pAngu  yAvudu  embudannu,  adu  gurutisi 
 tOrisuvudilla aSTe. 
 
@@ -8024,7 +8024,7 @@ gaLive:
 pariceyannu hesarupadakke sErisuva mUlaka adara haravannu kuggisuttave; 
 ettugegAgi,  kempu  paricepada ondu pAngina baNNavannu  tiLisuttade; A 
 paricepadavannu  hUvu  hesarupadadondige  baLasidAga,  adu  A  hesaru 
-padakkiruva  huruLige  `kempu  baNNaddu'  emba  huruLannu  sErisuttade, 
+padakkiruva  huruLige  ^kempu  baNNaddu^  emba  huruLannu  sErisuttade, 
 mattu A mUlaka adara huruLannu kuggisuttade. 
 
 
@@ -8043,9 +8043,9 @@ baLasiruva kelavu padakantegaLannu gamanisabahudu:
 (30ca)  I marada haNNu -  I maradalli beLeda haNNu 
 (30Ta)  I marada neraLu - I marada keLage bidda neraLu 
 
-mara  padada  pattuge  rUpa  (30ka)dalli  `gombeyannu  yAvudarinda 
-mADalAgide'  embudannu,  (30ca)dalli  `haNNu  yAvudaralli  beLedaddu' 
-embudannu,  mattu  (30Ta)dalli  `neraLu  yAvudaraddu'  embudannu 
+mara  padada  pattuge  rUpa  (30ka)dalli  ^gombeyannu  yAvudarinda 
+mADalAgide^  embudannu,  (30ca)dalli  ^haNNu  yAvudaralli  beLedaddu^ 
+embudannu,  mattu  (30Ta)dalli  ^neraLu  yAvudaraddu^  embudannu 
 tiLisuttade.  ivu  mara  pada  tiLisaballa  bEre  bEre  paricegaLAgiddu, 
 avugaLalli  bEre  bEre  paricegaLu  mElina  bEre  bEre  padakantegaLalli 
 kANisikonDive. 
@@ -8372,7 +8372,7 @@ vannu  gamanisuttiddu,  ADuganige  hattiravillada  pAngondannu  gurutisu
 ttade. hAgAgi, illi haravannu kuggisuva kelasavannu adara modalu banda 
 paricerUpa naDesalAradu. 
 
-ivanu,  ivaLu,  ivaru  embavu  `ADugana  hattira-dUra'  emba 
+ivanu,  ivaLu,  ivaru  embavu  ^ADugana  hattira-dUra^  emba 
 vyatyAsavannu  avugaLa  ellA  baLakegaLallU  gamanisuttiruttave;  ellA 
 baLakegaLallU  avu  ADugana  hattirada  pAngannE  gurutisuttiruttave. 
 hAgAgi, avugaLondige pAngina haravannu kaDime mADuva huruLinalli 
@@ -8922,7 +8922,7 @@ idakke badalu, uLikegurtada kate padadondige eNikepadavannu mAtra
 baLasiruva (15ka) sollu, halaveNikeya gaLu oTTannu mAtra baLasiruva 
 (15ca)  sollu,  mattu  averaDannU  baLasiruva  (15Ta)  sollu  -  I 
 mUru  bageya  sollugaLU  sariyAgive.  Adare,  gaLu  oTTannu  mAtra 
-baLasiruvalli  `kategaLu  halavu'  emba  huruLu  dorakuttadallade  avu 
+baLasiruvalli  ^kategaLu  halavu^  emba  huruLu  dorakuttadallade  avu 
 eSTu embudu tiLiyuvudilla embudannu gamanisabahudu. 
 
 mEle tiLisida hAge, halaveNikeya gaLu oTTannu mAtravE baLasiru 
@@ -9060,9 +9060,9 @@ bisi bisi TI.
 kelavomme  ottAyadinda  oTTaluhesarugaLannu  ottehesarugaLAgi 
 baLasalu  baruttade.  antaha  baLakegaLalli  oTTalu  padagaLU  nEravAgi 
 (aLatepadagaLa neravillade) eNikepadagaLondige baraballuvu. ettugegAgi, 
-eraDu TI koDi embudakke `eraDu kap TI koDi' emba huruLide. 
+eraDu TI koDi embudakke ^eraDu kap TI koDi^ emba huruLide. 
 nAlku nIrAda baLika oLage barabahudu embudaralli nIru embudu 
-`jaLaka'  emba  huruLinalli  baLakeyAgide.  iveraDu  baLakegaLallU 
+^jaLaka^  emba  huruLinalli  baLakeyAgide.  iveraDu  baLakegaLallU 
 oTTaluhesarugaLannu ottAyadinda ottehesarugaLAgi baLasalAgide, mattu 
 avugaLondige eNikepadagaLannU nEravAgi baLasalAgide.  
 
@@ -9109,7 +9109,7 @@ eNikepadagaLannu baLasuva badalu, jate, oDDi, Dajan modalAda bEre
 kelavu padagaLannu baLasalu baruttade. ivannu eNikeya padagaLondigU 
 baLasaballudAgiddu,  averaDU  sEri  oTTu  siguva  eNikeyannu  antaha 
 padakante  koDuttade.  ettugegAgi,  hattu  jate  ettugaLu  embudakke 
-`ippattu ettugaLu' emba huruLide. 
+^ippattu ettugaLu^ emba huruLide. 
 
 jate,  Dajan  modalAda  padagaLa  I  baLake  svalpamaTTige  hattu, 
 nUru,  sAvira  modalAda  eNike  padagaLa  baLakeyannu  hOluttade. 
@@ -9119,20 +9119,20 @@ Dajan embavugaLallU kANabahudu.
 
 Adare, ivakke eNikeyannu tiLisuva huruLu mAtravallade bEreyU 
 kelavu  viSayagaLannu  tiLisuva  huruLiruttade.  ettugegAgi,  eraDu  jate 
-cappali  tandiddAre  embudakke  `balagAlina  eraDu  mattu  eDagAlina 
-eraDu  cappaligaLannu  tandiddAre'  emba  huruLu  siguttadeyallade, 
-`ondE  kAlina  nAlku  cappaligaLannu  tandiddAre'  emba  huruLu  siguvu 
+cappali  tandiddAre  embudakke  ^balagAlina  eraDu  mattu  eDagAlina 
+eraDu  cappaligaLannu  tandiddAre^  emba  huruLu  siguttadeyallade, 
+^ondE  kAlina  nAlku  cappaligaLannu  tandiddAre^  emba  huruLu  siguvu 
 dilla. 
 
 hAgAgi,  ivannu  antaha  paricegaLiruva  hesarupadagaLondige 
 mAtravE  baLasalu  baruttade.  oDDi  pada  nAlku  haraLu,  gErubIja 
 modalAdavugaLa  gumpannu,  mattu  A  mUlaka  nAlku  emba  eNike 
-yannu  tiLisuttade;  mUroDDi  gErubIja  endare  oTTu  `hanneraDu 
+yannu  tiLisuttade;  mUroDDi  gErubIja  endare  oTTu  ^hanneraDu 
 
 
  
 
-gErubIja'  emba  huruLu  siguttade.  Aru  emba  innondu  pada 
+gErubIja^  emba  huruLu  siguttade.  Aru  emba  innondu  pada 
 ettugaLa  jODiyannu  tiLisaballudAdarU,  adannu  eNikeya  pada 
 gaLondige baLasuva hAge tOruvudilla. 
 
@@ -9194,11 +9194,11 @@ tiLisuvudilla. idallade, rASiya hattira aLate mADalu baLasida ondu
 buTTi mAtra iraballudu, mattu adu baridAgiyU iraballudu. idE 
 rItiyalli,  (20Ta)  sollinante  sIreya  mEle  nAlku  hani  nettaru 
 ondE  kaDe  biddiddu,  nAlku  hani  embudu  nettarina  aLaviyannu 
-tiLisuttadallade,  `adu  alli  nAlku  hanigaLAgi  kANisuttade'  endEnU 
+tiLisuttadallade,  ^adu  alli  nAlku  hanigaLAgi  kANisuttade^  endEnU 
 hELuvudilla.  
 
-(4)  buTTi,  cIla,  kap  modalAda  `vastugaLannu  hesarisuva'  aLate 
-padagaLa  baLakeyalli  `vastugaLannu  hesarisadiruva'  lITar,  kilO, 
+(4)  buTTi,  cIla,  kap  modalAda  ^vastugaLannu  hesarisuva^  aLate 
+padagaLa  baLakeyalli  ^vastugaLannu  hesarisadiruva^  lITar,  kilO, 
 hore,  kaTTu  modalAda  aLate  padagaLa  baLakeyalli  kANisadantaha 
 ondu  bageya  ippuruLu  kANisikoLLuttade:  avakke  pAngugaLa 
 aLateyannu  tiLisuva  huruLinondige  vastugaLannu  gurutisuva  huruLU 
@@ -9208,17 +9208,17 @@ bahudu:
 (21ka)  eraDu kap nIru tanni. 
 (21ca) I pAtreyalliruva hAlige eraDu kap nIru sErisi. 
 
-(21ka)  sollige  `nIriruva  eraDu  kap  tanni'  emba  huruLide; 
+(21ka)  sollige  ^nIriruva  eraDu  kap  tanni^  emba  huruLide; 
 adaralli kap padavannu nIrina aLateyannu tiLisuvudakkAgi mAtravallade, 
 vastuvondannu  gurutisuvudakkAgiyU  baLasalAgide;  idakke  badalu, 
-(21ca)  sollige  `eraDu  kap  aLateya  nIrannu  hAlige  sErisi'  emba 
+(21ca)  sollige  ^eraDu  kap  aLateya  nIrannu  hAlige  sErisi^  emba 
 
 
  
 
 huruLide; idaralli kap padavannu aLateyannu tiLisuvudakkAgi mAtravE 
-baLasalAgide.  idallade,  (21ka)  solligU  `eraDu  kap  aLateya 
-nIrannu ondu pAtreyalli hAki tanni' emba huruLU sigaballudu. 
+baLasalAgide.  idallade,  (21ka)  solligU  ^eraDu  kap  aLateya 
+nIrannu ondu pAtreyalli hAki tanni^ emba huruLU sigaballudu. 
 
 I eraDu bageya baLakegaLa  naDuve ondu mukyavAda  vyatyAsavide: 
 modalaneyadaralli  kap  pada  ottehesarAgi  bandide  mAtravalla,  adu 
@@ -9254,16 +9254,16 @@ bageya aLatepadagaLa naDuvina vyatyAsa kANisikoLLuttade:
 (25ca) mEjina mEle sakkareya eraDu camacagaLive. 
 
 (24ka)  mattu  (24ca)  sollugaLige  ondE  huruLide;  eraDU 
-`yAva  kurcigaLalli  jana  kuLitiddAre'  embudannu  tiLisuttave.  Adare, 
+^yAva  kurcigaLalli  jana  kuLitiddAre^  embudannu  tiLisuttave.  Adare, 
 (25ka) mattu (25ca) sollugaLige bEre bEre huruLugaLive; (25ka) 
-sollu  `lOTadalli  eSTu  sakkareyide'  embudannu  tiLisuttade;  illi 
+sollu  ^lOTadalli  eSTu  sakkareyide^  embudannu  tiLisuttade;  illi 
 camaca  pada  aLatepadavAgi  baLakeyAgide;  Adare  (25ca)  sollu 
 
 
  
 
-`mEjina  mEle  eSTu  camacagaLive'  embudannu  tiLisuttadallade,  `alli 
-sakkareyide' embudannu, illavE `eSTu sakkareyide' embudannu tiLisuvu 
+^mEjina  mEle  eSTu  camacagaLive^  embudannu  tiLisuttadallade,  ^alli 
+sakkareyide^ embudannu, illavE ^eSTu sakkareyide^ embudannu tiLisuvu 
 dilla;  illi  camaca  padavannu  ondu  vastuvannu  gurutisuva  padavAgi 
 baLasalAgide. 
 
@@ -9329,8 +9329,8 @@ bahudu:
 (30ca)  I ondUvare aDi dappa hagga avanige teLu. 
 
 kelaveDegaLalli  mUraDi  giDDa  halige,  eraDu  kilO  hagura  kallu 
-embantaha  nuDitagaLannu  baLasalu  baruttadeyAdarU,  avakke  `bEkAdu 
-dakkinta  giDDa,  illavE  hagura'  emba  hOlikeya  huruLu  baruttade 
+embantaha  nuDitagaLannu  baLasalu  baruttadeyAdarU,  avakke  ^bEkAdu 
+dakkinta  giDDa,  illavE  hagura^  emba  hOlikeya  huruLu  baruttade 
 embudannu gamanisabahudu. 
 
 (7)  aLate  pada  entaha  pAngina  aLaviyannu  tiLisuttade  embudu 
@@ -9460,7 +9460,7 @@ sikkitu).
 
 (ka)  aSTu  mattu  iSTu  padagaLondige  ondu  emba  padavannU 
 baLasalu  baruttade;  mattu  ivu  oTTAgi  kanDitavallada  aLavi  illavE 
-eNikeyannu tiLisuttave; ivakke `svalpa' emba huruLU ide:  
+eNikeyannu tiLisuttave; ivakke ^svalpa^ emba huruLU ide:  
 
 (37ka)  ondaSTu hullu I kaDe hAki. 
 (37ca) ondiSTu haNa avanigU koTTidde. 
@@ -9484,7 +9484,7 @@ embudu  kanDitavallada  eNikeyannu  koDuttade.  (38Ta-ta)gaLallU
 hIgeyE. 
 
 (ca) eSTu padadondige oLagoLLuva U oTTannu, ottihELuva E 
-oTTannu, mattu `illavE' emba huruLiruva O oTTannu sErisi mUru 
+oTTannu, mattu ^illavE^ emba huruLiruva O oTTannu sErisi mUru 
 bageya  padarUpagaLannu  paDeyalu  baruttade;  ivannu  hesarupada 
 gaLondige  baLasi  avu  tiLisuva  pAngugaLa  aLaviyannu  mUru  bage 
 gaLalli tiLisalu baruttade: 
@@ -9525,8 +9525,8 @@ heccu emba huruLide:
 (41ca) meravaNigege sAvirAru jana bandiddaru. 
 
 halavu emba padadondigU I oTTannu sErisi hELalu baruttade; 
-illiyU  adakke  `halavu  embudu  tiLisabahudAda  eNikeginta  eSTO 
-heccu'  emba  huruLide;  adakke  I  rIti  `eSTO  heccu'  emba 
+illiyU  adakke  ^halavu  embudu  tiLisabahudAda  eNikeginta  eSTO 
+heccu^  emba  huruLide;  adakke  I  rIti  ^eSTO  heccu^  emba 
 huruLiruva  kAraNa,  adannu  kelavu  padadondige  baLasalu  baruvudilla 
 (*kelavAru). 
 
@@ -9642,10 +9642,10 @@ kAlu pasugeya are endare 1/8 amSavannu tiLisuttade.
 idakke  badalu,  eNikepadakke  oLagoLLuva  U  oTTannu  sErisi  adara 
 baLika pasugeya padagaLannu baLasidalli, avu eNikeya pada mattu pasuge 
 pada  tiLisuva  amSa  iveraDannu  oTTu  sErisidAga  siguva  aLaviyannu 
-tiLisuttave; ettugegAgi mUrUkAlu embudakke `mUru mattu kAlu' 
-(3+1/4)  emba  huruLide;  mUrUvare  embudakke  `mUru  mattu 
-are'  (3+1/2)  emba  huruLide;  hattUkAlu  embudakke  `hattu  mattu 
-kAlu' (10+1/4) emba huruLide.  
+tiLisuttave; ettugegAgi mUrUkAlu embudakke ^mUru mattu kAlu^ 
+(3+1/4)  emba  huruLide;  mUrUvare  embudakke  ^mUru  mattu 
+are^  (3+1/2)  emba  huruLide;  hattUkAlu  embudakke  ^hattu  mattu 
+kAlu^ (10+1/4) emba huruLide.  
 
 
  
@@ -9667,8 +9667,8 @@ hAge kANisuttade:
 (48ca) nUrakke enTara baDDi koDabEku. 
 (48Ta)  sAvirakkobbanU sAlavannu hindirugisalilla. 
 
-(6)  `eraDu  paTTu'  emba  huruLannu  koDuva  immaDi  padadalli 
-maDi  emba  pada  bandide;  `mUru  paTTu'  emba  huruLannu  koDuva 
+(6)  ^eraDu  paTTu^  emba  huruLannu  koDuva  immaDi  padadalli 
+maDi  emba  pada  bandide;  ^mUru  paTTu^  emba  huruLannu  koDuva 
 mummaDi pada, mattu antahavE bEre padagaLu hinde idduvAdarU, 
 Iga  baLakeyinda  bidduhOgive.  bEre  eNikepadagaLondige  paTTu 
 padavE  I  huruLinalli  baLakeyAguttade  (hattu  paTTu,  ippattu 
@@ -9706,12 +9706,12 @@ yannu tiLisuttade. I vyatyAsavannu keLagina sollugaLalli kANabahudu:
 (52ka)  obba huDuga puNeyalli OduttiddAne. 
 (52ca) huDuganobba puNeyalli OduttiddAne. 
 
-(51ka) mattu (51ca) sollugaLeraDU `koLetu hOgiruva haNNu 
-gaLa  eNike  eraDu'  embudAgi  tiLisuttave;  Adare,  ivugaLalli  (51ka) 
-sollige `eraDu haNNugaLu koLetuhOgive' endiSTE huruLide; Adare, 
-(51ca)  sollige  `haNNugaLalli  eraDu  koLetuhOgive,  uLidavu 
-koLetilla'  emba  heccina  huruLiruva  hAge  kANisuttade.  eNikepadada 
-baLika  oLagoLLuva  huruLina  U  oTTannu  sErisi,  `haNNugaLalli  eraDu' 
+(51ka) mattu (51ca) sollugaLeraDU ^koLetu hOgiruva haNNu 
+gaLa  eNike  eraDu^  embudAgi  tiLisuttave;  Adare,  ivugaLalli  (51ka) 
+sollige ^eraDu haNNugaLu koLetuhOgive^ endiSTE huruLide; Adare, 
+(51ca)  sollige  ^haNNugaLalli  eraDu  koLetuhOgive,  uLidavu 
+koLetilla^  emba  heccina  huruLiruva  hAge  kANisuttade.  eNikepadada 
+baLika  oLagoLLuva  huruLina  U  oTTannu  sErisi,  ^haNNugaLalli  eraDu^ 
 emba I huruLu bAradante mADalu baruttade: 
 
 (51Ta) haNNugaLeraDU koLetuhOgive. 
@@ -9777,7 +9777,7 @@ baLasalu baruvudilla.
 
 (7)  idallade,  tOrupadagaLa  baLika  baruva  eNikepadagaLige  hesaru 
 padagaLa  baLika  baruvavugaLa  hAge,  ondu  amSavannu  gurutisuva 
-huruLilla;  avaribbaru  embudakke  `avaralli  ibbaru'  emba  huruLilla 
+huruLilla;  avaribbaru  embudakke  ^avaralli  ibbaru^  emba  huruLilla 
 embudannu gamanisabahudu.  
 
 hAgAgi,  avaribbaru  embudakke  oLagoLLuva  huruLina  U  oTTannu 
@@ -9794,9 +9794,9 @@ baLasalAguttade:
 (60ka)  huDugarige hattu rupAyi sikkide. 
 (60ca)  huDugarige hattu hattu rupAyi sikkide. 
 
-`huDugarige oTTu eSTu rupAyi sikkide' embudannu (60ka) sollu 
+^huDugarige oTTu eSTu rupAyi sikkide^ embudannu (60ka) sollu 
 tiLisuttade;  Adare,  (60ca)  sollu  idannu  tiLisuva  badalu,  avaralli 
-`obbobba  huDuganigU  eSTu  rupAyi  sikkide'  embudannu  tiLisuttade; 
+^obbobba  huDuganigU  eSTu  rupAyi  sikkide^  embudannu  tiLisuttade; 
 avarige  oTTu  eSTu  rupAyi  sikkide  embudannu  adu  tiLisuvudilla; 
 (60ca)  sollininda  I  viSayavannu  tiLiyabEkiddalli  oTTu  eSTu 
 huDugariddaru embudannU tiLiyabEkAguttade. 
@@ -9936,16 +9936,16 @@ gaLu gurutisuva vyaktigaLa harayavannu tiLisuttave:
 (70ca)  hadinAlkara huDugarannu karesiddEve. 
 
 (70ka) sollinalli bandiruva hadinAlku emba eNikepada huDugara 
-eNikeyannu  (`eSTu  huDugarannu  karesiddEve'  embudannu)  tiLisuttade; 
+eNikeyannu  (^eSTu  huDugarannu  karesiddEve^  embudannu)  tiLisuttade; 
 Adare,  (70ca)dalli  pattuge  rUpadalli  bandiruva  adE  pada  huDugara 
-harayavannu (`eSTu varSada huDugarannu karesiddEve' embudannu) tiLisu 
+harayavannu (^eSTu varSada huDugarannu karesiddEve^ embudannu) tiLisu 
 ttade. 
 
 intaha  bEreyU  kelavu  paricegaLannu  eNikepadagaLu  tiLisaballuvu. 
 idallade, avu koDuva huruLu avugaLa baLika baruva hesarupadagaLannu 
 mAtravallade,  baLakeya  sandarbavannU  avalambisiraballudu.  ettugegAgi, 
-mUrara  makkaLu  embudu  `mUru  varSada  makkaLu'  emba  huruLina 
-badalu, adannu baLasida sandarbada mEle, `mUranE taragatiya makkaLu' 
+mUrara  makkaLu  embudu  ^mUru  varSada  makkaLu^  emba  huruLina 
+badalu, adannu baLasida sandarbada mEle, ^mUranE taragatiya makkaLu^ 
 emba huruLannU koDaballudu. 
 
 (3) eNikepadagaLa hAge, eNikepada-aLatepada jODigaLannU hesaru 
@@ -9972,9 +9972,9 @@ embudannu  moLe  padada  pariceyannu  tiLisalu  baLasalAgide,  mattu
 idakkAgi adarondige pattugeya a oTTannU baLasalAgide.  
 
 idE rItiyalli, (71ca)dalli bandiruva eraDu ganTeya embudu 
-kelasada pariceyannu tiLisuttade (`adu entaha kelasa' embudannu adu 
-tiLisuttade), mattu hattu ganTe embudu `kelasa naDesalu eSTu hottu 
-bEkAyitu' embudAgi kelasada aLaviyannu tiLisuttave. 
+kelasada pariceyannu tiLisuttade (^adu entaha kelasa^ embudannu adu 
+tiLisuttade), mattu hattu ganTe embudu ^kelasa naDesalu eSTu hottu 
+bEkAyitu^ embudAgi kelasada aLaviyannu tiLisuttave. 
 
 (4)  pariceyannu  tiLisuva  huruLinalli  mAtravE  baraballa  kelavu 
 eNike-aLavi padajODigaLu pattuge rUpadalli mAtra baraballuvallade, 
@@ -9986,7 +9986,7 @@ nEravAgi hesarupadadondige baralAravu:
 (72ca)dalli  eraDu  dina  gaDDa  embudannu  oTTige  ondu  hesaru 
 kanteyendu  tiLiyalu  baruvudilla;  yAkendare,  eraDu  dina  embudu 
 gaDDa padada aLaviyannu tiLisalAradu. hAgAgi, A huruLinalli (72ca) 
-sollu  sariyalla.  Adare,  `Atana  gaDDa  eraDu  dina  beLedittu'  emba 
+sollu  sariyalla.  Adare,  ^Atana  gaDDa  eraDu  dina  beLedittu^  emba 
 bErondu huruLinalli A sollu tappalla. 
 
 (5)  intahadE  vyatyAsa  ettara,  udda,  giDDa  modalAda  uddaLate 
@@ -10012,7 +10012,7 @@ gaLannu hOlisalAgide, mattu I hOlikeyalli avugaLa ettara eSTu
 
 embudu mukyavAgide. ettara gODe embudu gODeya pariceyannu 
 kELugana  gamanakke  taruttade,  mattu  ettarada  gODe  embudu  adara 
-aLaviyannu (`eSTu ettaraddu' embudannu) gamanakke taruttade. 
+aLaviyannu (^eSTu ettaraddu^ embudannu) gamanakke taruttade. 
 
 (6) eNikepadagaLige ane oTTannu mattu adarondige pattugeya a 
 oTTannu  sErisiyU  avannu  hesarupadagaLu  gurutisuva  pAngina  parice 
@@ -10155,7 +10155,7 @@ gaLindalU  avannu  kanDitavAgi  tiLisuva  eNikepadagaLu  bErAgive:
 hattakkinta  kaDime  illavE  enTakkinta  heccu  ennabahudu;  Adare, 
 *kelavakkinta heccu illavE *halavakkinta kaDime ennalu baruvudilla; 
 heccukaDime  nUru  janaru  ennabahudu;  Adare,  *heccukaDime 
-halavu janaru ennalu baruvudilla. halavu embudakkEnE `heccukaDime' 
+halavu janaru ennalu baruvudilla. halavu embudakkEnE ^heccukaDime^ 
 emba huruLiruvudE idakke kAraNavirabahudu. 
 
 6.5 pAngugaLannu nelegoLisuvudu 
@@ -10203,12 +10203,12 @@ bahudu:
 
 (1ka) sollinalli I huDuga emba hesarukante bandiddu, adaralli 
 I  emba  tOrupada  pAngannu  nelegoLisalu  baLakeyAgide;  adu 
-huDuganu  `dUradavanalla,  hattiradavanu'  embudannu  tiLisuva  mUlaka 
+huDuganu  ^dUradavanalla,  hattiradavanu^  embudannu  tiLisuva  mUlaka 
 I kelasavannu naDesuttade; (1ca) sollinalli mEjina mElina pustaka 
 emba  hesarukante  bandiddu,  adaralli  mEjina  mElina  embudu 
 pAngina (pustakada) jAgavannu tiLisuva mUlaka adannu nelegoLisuttade. 
 (1ca)  sollinalli  rAjIvana  mane  emba  hesarukante  bandiddu, 
-adaralli  rAjIvana  emba  pattugerUpa  `pustaka  yAradu'  embudannu 
+adaralli  rAjIvana  emba  pattugerUpa  ^pustaka  yAradu^  embudannu 
 tiLisuva  mUlaka  adannu  nelegoLisuttade;  mattu  (1ta)  sollinalli 
 jAnaki  koTTa  pustaka  emba  hesarukante  bandiddu,  adaralli  jAnaki 
 koTTa  emba  esakapadada  pattugerUpa  pustaka  koTTavarannu  hesarisuva 
@@ -10270,7 +10270,7 @@ koLLuttade.  ettugegAgi,  avanige  ondu  mane  bEkAgide  emba
 
 sollinalli mane embudu yAvudAdarU ondu maneyannu gurutisu 
 ttirabahudu  (allondu  maneyide,  mattu  adu  Atanige 
-bEkAgide), illavE `mane bEke'mbudu ADugana bayakeyaSTE Agiddu, 
+bEkAgide), illavE ^mane bEke^mbudu ADugana bayakeyaSTE Agiddu, 
 yAvudE ondu maneyannU Ata gurutisadirabahudu. I vyatyAsavannu 
 keLagina eraDu sollugaLa naDuveyU kANabahudu: 
 
@@ -10304,9 +10304,9 @@ bEku.
 
 mEle  (5ka)  sollinalli  baLakeyAgiruva  taDavAgi  baruva 
 huDugaru  emba  hesarukante  mattu  tinDi  emba  hesarupada  - 
-iveraDU  `entaha  huDugaru'  mattu  `entaha  vastu'  embudannu 
-tiLisuttavallade,  nijakkU  avu  `kelavu  huDugarannu'  illavE  `ondu 
-tinDiyannu' gurutisuvudilla.  
+iveraDU  ^entaha  huDugaru^  mattu  ^entaha  vastu^  embudannu 
+tiLisuttavallade,  nijakkU  avu  ^kelavu  huDugarannu^  illavE  ^ondu 
+tinDiyannu^ gurutisuvudilla.  
 
 (5ca)dalli  bandiruva  hosa  akki,  nIru  embavu,  mattu 
 (5Ta)dalli  bandiruva  huli,  kOti  embavugaLU  hIgeyE.  avu 
@@ -10330,9 +10330,9 @@ intaha paricegaLalli mukyavAda kelavannu keLage vivarisalAgide:
 (1) tOrupadagaLa baLake 
 hesarupadagaLondige, A, I, mattu yAva emba mUru tOrupada 
 gaLallondannu baLasuva mUlaka, avu gurutisuva pAngannu nelegoLisa 
-lAguttade;  ivugaLalli  modalina  eraDu  padagaLu  `pAngu  yAvudu' 
-embudannu  tiLisalu  baLakeyAguttave,  mattu  mUraneyadu  `pAngu 
-yAvudendu tanage tiLidilla' embudannu tiLisalu baLakeyAguttade: 
+lAguttade;  ivugaLalli  modalina  eraDu  padagaLu  ^pAngu  yAvudu^ 
+embudannu  tiLisalu  baLakeyAguttave,  mattu  mUraneyadu  ^pAngu 
+yAvudendu tanage tiLidilla^ embudannu tiLisalu baLakeyAguttade: 
 
 (6ka)  A pustakavannu nimagendu bEre irisiddEne. 
 (6ca)  I maneyannu hattu lakSakke koDukonDe. 
@@ -10345,10 +10345,10 @@ ttade;  Adare,  adu  ADuganige  hattiraviruva  maneyannu  tOrisuva
 mUlaka idannu naDesuttade; mAtanADuvAga idakkAgi tOruberaLannU 
 baLasuttirabahudu. 
 
-Adare,  (6Ta)dalli  yAva  embudu  `jAnaki  mArida  mane  yAvu 
-dembudu  tiLidilla'  embudannu  tiLisuva  mUlaka,  `kELuganu  gurutisa 
+Adare,  (6Ta)dalli  yAva  embudu  ^jAnaki  mArida  mane  yAvu 
+dembudu  tiLidilla^  embudannu  tiLisuva  mUlaka,  ^kELuganu  gurutisa 
 bEkAgiruva,  mattu  adara  kuritAgi  heccina  sangatigaLannu  tiLisabEkA 
-giruva mane entahadu' embudannaSTE tiLisuttade. 
+giruva mane entahadu^ embudannaSTE tiLisuttade. 
 
 
  
@@ -10681,8 +10681,8 @@ I  hesarukanteyalli  bandiruva  huliya  bAyige  bidda  emba
 paricerUpa  A  hesarukanteya  tiruLupadavAda  karu  embudara  parice 
 yannu tiLisuttirabahudu, illavE adara neravige baLakeyAgiruva danada 
 emba pattugerUpadalliruva  dana padada pariceyAgirabahudu. hAgAgi, 
-(19)nE hesarukante `karu huliya bAyige biddide' emba sangatiyannu 
-baLasikoLLaballudu,  illavE  `dana  huliya  bAyige  biddide'  emba 
+(19)nE hesarukante ^karu huliya bAyige biddide^ emba sangatiyannu 
+baLasikoLLaballudu,  illavE  ^dana  huliya  bAyige  biddide^  emba 
 bErondu sangatiyannU baLasikoLLaballudu. 
 
 esakapadagaLa eraDu (illavE heccu) paricerUpagaLannU hesarukante 
@@ -10696,9 +10696,9 @@ kANisikoLLaballudu:
 
 peTTigegaLu 
 
-mElina  hesarukante  `nAlku  peTTigegaLannu  cInadinda  taralAgide' 
-embudAgi  tiLisuttirabahudu,  illavE  `kappu  baNNada  kAgadavannu  cIna 
-dinda taralAgide' embudAgiyU tiLisuttirabahudu. 
+mElina  hesarukante  ^nAlku  peTTigegaLannu  cInadinda  taralAgide^ 
+embudAgi  tiLisuttirabahudu,  illavE  ^kappu  baNNada  kAgadavannu  cIna 
+dinda taralAgide^ embudAgiyU tiLisuttirabahudu. 
 
 ondE hesarukanteyalli oTTAgi bandiruva eraDu paricerUpagaLannu 
 mattu  illavE  hAgU  padagaLinda  bErpaDisidalli,  modalaneya 
@@ -10825,7 +10825,7 @@ baLasiruvudannu kANabahudu:
 mEle  (26ka)dalli  avana  kAlugaLalli  yAvudu  muriduhOgide 
 (eDaddO,  baladdO)  embudannu  tiLisillavAdarU,  avana  kAlu 
 embudannu  tiLiyaballa  gurutisuvikeyAgi  baLasalAgide;  idE  rIti 
-yalli  `rAjuvina  maneya  kelavu  hancugaLu'  mAtra  oDediveyAdarU 
+yalli  ^rAjuvina  maneya  kelavu  hancugaLu^  mAtra  oDediveyAdarU 
 hancugaLu  emba  tiruLupadavannu  (26ca)  sollinalli  tiLiyaballa 
 gurutisuvikeyAgi baLasalAgide.  
 
@@ -10976,7 +10976,7 @@ padavannu sErisi hELalAgide.
 
 idE  rItiyalli  nimma  huDuga  endiSTE  hELidare,  illavE 
 janArdana endiSTE hELidare gondalavunTAgabahudendu, (31ca)dalli 
-averaDannU  oTTige  baLasalAgide;  (31Ta)dalli  `yAva  rAju'  emba 
+averaDannU  oTTige  baLasalAgide;  (31Ta)dalli  ^yAva  rAju^  emba 
 viSayadalli samSaya baraballudendu ADuganige anisiruva kAraNa, adara 
 baLika neremaneya huDuga embudannu baLasalAgide. 
 
@@ -11032,9 +11032,9 @@ yAguttade.
 idE  rItiyalli,  (33ca)dalli  bandiruva  adu  embudu  adakke 
 modalu bandiruva ondu bALegone embudu gurutisuva pAngannE 
 innomme  gurutisuvudarinda,  (33Ta)dalli  bandiruva  A  mAtu 
-embudu  adakke  modalu  tiLisiruva  `Ata  hELida  mAta'nnE  gurutisu 
+embudu  adakke  modalu  tiLisiruva  ^Ata  hELida  mAta^nnE  gurutisu 
 vudarinda, mattu (33ta)dalli A kate embudu adakke modalu tiLisida 
-`avaLu  hELida  kate'yannu  gurutisuvudarinda  avellavU  kELuganige 
+^avaLu  hELida  kate^yannu  gurutisuvudarinda  avellavU  kELuganige 
 tiLiyaballa gurutisuvikegaLAguttave.  
 
 (3) tAnu emba padavU sollinallEnE bEreDeyalli gurutisiruva 
@@ -11082,11 +11082,11 @@ tiLiyaballa gurutisuvikeyannu naDesuttadeyendu hELabahudu.
 (37ka)  manege hOda huDuga innU hindirugilla. 
 (37ca) manege hOda huDugaralli obba innU hindirugilla. 
 
-(37ka)dalli  manege  hOda  emba  oLasollu  `huDuga  yAru' 
+(37ka)dalli  manege  hOda  emba  oLasollu  ^huDuga  yAru^ 
 embudannu  gurutisalu  bEkAguvaSTu  tiLivannu  koDuttade;  yAkendare, 
 adannu  baLasiruva  sandarbadalli  manege  hOdavanu  obbanE  iruttAne; 
 idakke  badalu,  (37ca)dalli  huDugaralli  obba  embudara  mUlaka 
-`idu  tiLiyalAgada  gurutisuvike'  embudannu  tiLisalAgide;  idannu 
+^idu  tiLiyalAgada  gurutisuvike^  embudannu  tiLisalAgide;  idannu 
 baLasiruva sandarbadalli manege hOdavaru halavu mandi iddirabEku. 
 
 6.5.4 tiLida mattu tiLiyada gurutisuvikegaLu 
@@ -11203,9 +11203,9 @@ nintiddaru; A huDuga hengasina hattira EnO hELida.
 nintiddaru;  obba  huDuga  A  hengasina  hattira  EnO 
 hELida.  
 
-(41ka)  sollige  `hengasina  hattira  EnO  hELida  huDuganU 
-avaLondige  nintidda  huDuganU  obbarE'  emba  huruLide;  Adare, 
-(41ca)  sollige  `avaribbarU  bEre  bEre  huDugaru'  emba  huruLide; 
+(41ka)  sollige  ^hengasina  hattira  EnO  hELida  huDuganU 
+avaLondige  nintidda  huDuganU  obbarE^  emba  huruLide;  Adare, 
+(41ca)  sollige  ^avaribbarU  bEre  bEre  huDugaru^  emba  huruLide; 
 adakke I huruLu baralu obba huDuga emba kELuganige tiLiyalAgada 
 hesarukanteyannu adaralli eraDu bAri baLasiruvudE kAraNa.  
 
@@ -11299,19 +11299,19 @@ vyaktiyannu  gurutisuttiddu,  Atanu  entahavanu  embudannu  tale  sari
 yilla embudu tiLisuttirabahudu;  
 
 eraDaneyadAgi, A mudukanannu kondavanu embudu nEravAgi 
-yAvudE  obba  vyaktiyannU  gurutisadirabahudu;  `A  mudukanannu 
-kolluvantaha kelasavannu naDesidavanu' embudAgi ondu bageya vyakti 
-yannaSTE  adu  (43)nE  sollina  pAngAgi  baLasiddu,  `antaha  vyaktige 
-talesariyilla' embudAgi tiLisuttirabahudu. I eraDaneya huruLinalli 
+yAvudE  obba  vyaktiyannU  gurutisadirabahudu;  ^A  mudukanannu 
+kolluvantaha kelasavannu naDesidavanu^ embudAgi ondu bageya vyakti 
+yannaSTE  adu  (43)nE  sollina  pAngAgi  baLasiddu,  ^antaha  vyaktige 
+talesariyilla^ embudAgi tiLisuttirabahudu. I eraDaneya huruLinalli 
 mudukanannu  kondavanu  emba  hesarukanteyannu  baLasuvAga, 
 ADugana manassinalli yAvobba vyaktiyU iruvudilla.  
 
 nijakkU  I  eraDanE  baLakeyalli  A  mudukanannu  kondavanu 
 emba hesarukante yAva obba vyaktiyannU gurutisuvudillavAda kAraNa, 
-adannu `gurutisada hesarukante' embudAgiyU kareyabahudu. 
+adannu ^gurutisada hesarukante^ embudAgiyU kareyabahudu. 
 
-`pAngannu  gurutisuva'  mattu  `pAngannu  gurutisada'  illavE 
-`pAngina  bageyannu  gurutisuva'  I  eraDu  bageya  huruLugaLalli 
+^pAngannu  gurutisuva^  mattu  ^pAngannu  gurutisada^  illavE 
+^pAngina  bageyannu  gurutisuva^  I  eraDu  bageya  huruLugaLalli 
 yAvudannu  ondu  sollinalli  bandiruva  hesarukante  tiLisuttade 
 embudu ADuganige Enu hELabEkAgide, mattu hAge hELuvalli Atana 
 uddESavEnu  embudara  mEle  avalambisiruttade.  Atanige  illavE 
@@ -11331,13 +11331,13 @@ yannu koDabahudu. idannu keLagina sollinalli kANabahudu:
 
 (44)nE  sollinalli  AnegaLu  embudu  yAva  ondu  AnegaLa 
 gumpannU  nEravAgi  gurutisuvudilla.  kADu  emba  padavU  hIgeyE; 
-adu  nEravAgi  yAva  kADannU  gurutisuvudilla.  `sAmAnyavAgi  Ane 
-gaLu Enu mADuttiruttave' embudannu tiLisuvudu (44)rantaha sollu 
+adu  nEravAgi  yAva  kADannU  gurutisuvudilla.  ^sAmAnyavAgi  Ane 
+gaLu Enu mADuttiruttave^ embudannu tiLisuvudu (44)rantaha sollu 
 gaLannu  ADuvavara  uddESavAgiruttade;  hAgAgi,  avannu  baLasuvAga 
-`kelavu  Ane'gaLannu  illavE  `ondu  kADa'nnu  avaru  gurutisalu 
+^kelavu  Ane^gaLannu  illavE  ^ondu  kADa^nnu  avaru  gurutisalu 
 hOguvudilla. 
 
-(1)  intaha  `pAngugaLa  bage'yannu  gurutisuva  hesarukantegaLu 
+(1)  intaha  ^pAngugaLa  bage^yannu  gurutisuva  hesarukantegaLu 
 mukyavAgi  nAlku  bageya  sollugaLalli  kANisikoLLuttave:  modalaneya 
 dAgi,  sollina  esakapada  entahadu  embudara  mEle  ivugaLa  baLake 
 yannu eraDu gumpugaLalli bErpaDisabahudu.    
@@ -11362,9 +11362,9 @@ kantegaLannu  baLasalu  baruvudilla.  hAgAgi,  idaralli  bandiruva  kempu
 hUvina giDa embudu nEravAgi ondu pAngannu gurutisuva badalu, 
 ondu bageya pAngannu mAtravE gurutisaballudu. 
 
-hAgAgi,  (45ka)  sollige  `kempuhUvina  ondu  giDavU  tOTada 
-llilla'  emba  huruLideyallade,  `ondu  kempuhUvina  giDa  illavAgide 
-(sattuhOgide)' emba huruLilla. 
+hAgAgi,  (45ka)  sollige  ^kempuhUvina  ondu  giDavU  tOTada 
+llilla^  emba  huruLideyallade,  ^ondu  kempuhUvina  giDa  illavAgide 
+(sattuhOgide)^ emba huruLilla. 
 
 (45ca)  sollinalli  tinnu  esakapada  bandiddu,  adarondige  pAngu 
 gaLannu  gurutisuva  hesarukanteyU  baraballudu,  illavE  pAngugaLa 
@@ -11373,9 +11373,9 @@ bageyannu  gurutisuva  hesarukanteyU  baraballudu.  endare,  I
 
     
 
-sollige  eraDu  huruLugaLiraballuvu:  `(haTTiyalliruva)  danagaLu  Enu 
-tinnuttive'  embudannu  adu  tiLisaballudu,  illavE  `sAmAnyavAgi 
-danagaLu  Enu  tinnuttave'  embudannU  adu  tiLisaballudu.  ivugaLalli 
+sollige  eraDu  huruLugaLiraballuvu:  ^(haTTiyalliruva)  danagaLu  Enu 
+tinnuttive^  embudannu  adu  tiLisaballudu,  illavE  ^sAmAnyavAgi 
+danagaLu  Enu  tinnuttave^  embudannU  adu  tiLisaballudu.  ivugaLalli 
 modalaneyadu  pAngannu  gurutisuva  baLake,  mattu  eraDaneyadu 
 pAngina bageyannu gurutisuva baLake.   
 
@@ -11451,7 +11451,7 @@ adakke pAngina bageyannu gurutisuva huruLiruttade.
 
 (50ca)  sollinalli  bandiruva  obba  hADugAra  emba  hesarukante 
 bEreyE  ondu  kAraNakkAgi  pAngina  bageyannu  gurutisuva  huruLannu 
-paDeyuttade:  `rAju  entahavanu'  embudAgi  Atana  pariceyannu 
+paDeyuttade:  ^rAju  entahavanu^  embudAgi  Atana  pariceyannu 
 tiLisuvudakkAgi  I  sollu  baLakeyAgide;  hAgAgi,  adaralli  bandiruva 
 
 
@@ -11543,7 +11543,7 @@ bahudu:
 
 (54ka)  sollige  (54ca)  mattu  (54Ta)  sollugaLu  oLahuruLu 
 gaLAgaballuvu;  avaLu  nanage  kempu  gulAbi  koTTiddALe  endare, 
-`gulAbi  koTTiddALe'ndU  Aguttade,  mattu  `hU  koTTiddALe'ndU 
+^gulAbi  koTTiddALe^ndU  Aguttade,  mattu  ^hU  koTTiddALe^ndU 
 Aguttade. illi kempu gulAbi embudannu nEravAgi ondu pAngannu 
 gurutisalu baLasalAgide embudannu gamanisabahudu. 
 
@@ -11603,7 +11603,7 @@ kELugana munde Ata mElina kELvigaLannirisiruttAne.
 
 intaha  kELvigaLalli  mAtravallade  bEreyU  kelavu  bageya  sollu 
 gaLalli  ADuganige  tiLiyadantaha  pAngannu  gurutisuva  I  tOrupada 
-gaLu baraballuvu. idallade, `illavE' emba huruLina O oTTu, mattu 
+gaLu baraballuvu. idallade, ^illavE^ emba huruLina O oTTu, mattu 
 oLagoLLuva  U  oTTugaLannu  sErisiyU  avannu  kelavu  bageya 
 sollugaLalli baLasalu baruttade. 
 
@@ -11733,16 +11733,16 @@ nAnu jAnakiyannu UTakke karediddEne.
 (3ca)  harige I pustaka koTTiddAre. 
 
 (2ka)  sollinalli  bandiruva  nAnu  pada  A  sollu  tiLisuvantaha 
-`UTakke  kareyuva'  esakavannu  naDesida  vyakti  adara  ADuga  embudannu 
+^UTakke  kareyuva^  esakavannu  naDesida  vyakti  adara  ADuga  embudannu 
 tiLisuttade;  idakke  badalu  (2ca)  sollinalli  bandiruva  rAju  pada  A 
 esakavannu  naDesida  vyakti  yAru  (rAju)  embudannu  tiLisuttadallade, 
 sollannu ADiruva vyakti rAju embudannu tiLisuvudilla. 
 
-idE  rItiyalli,  (3ka)dalli  bandiruva  ninage  pada  `pustakavannu 
-koTTiruvudu' sollina kELuganige embudannu tiLisuttade; Adare, (3ca) 
-sollinalli  bandiruva  harige  pada  `pustaka  koTTiruvudu  yArige' 
-(harige)  embudannu  tiLisuttadallade,  `A  sollannu  harige  hELalAgide, 
-Ata (hari) adara kELuga' emba viSayavannu tiLisuvudilla. 
+idE  rItiyalli,  (3ka)dalli  bandiruva  ninage  pada  ^pustakavannu 
+koTTiruvudu^ sollina kELuganige embudannu tiLisuttade; Adare, (3ca) 
+sollinalli  bandiruva  harige  pada  ^pustaka  koTTiruvudu  yArige^ 
+(harige)  embudannu  tiLisuttadallade,  ^A  sollannu  harige  hELalAgide, 
+Ata (hari) adara kELuga^ emba viSayavannu tiLisuvudilla. 
 
 I  rIti,  nAnu  mattu  nInu  emba  I  eraDu  ADupadagaLige 
 sollina  ondu  pAngu  adara  ADuga  illavE  kELuga  embudannu 
@@ -11754,7 +11754,7 @@ tiLisuvantaha  avugaLadE  Ada  kelasavide;  hAgAgi,  avugaLa  baLake
 hesarupadagaLa  baLakeginta  halavu  viSayagaLalli  bErAgide.  ivugaLalli 
 mukyavAda kelavu vyatyAsagaLannu keLage koDalAgide.  
 
-(1)  ADupadagaLu  pAngannu  `gurutisalu'  hOguvudilla;  adu 
+(1)  ADupadagaLu  pAngannu  ^gurutisalu^  hOguvudilla;  adu 
 ADuga  illavE  kELuga  endiSTannu  mAtra  avu  tiLisuttave.  ondu 
 sollina  ADuga  illavE  kELuga  yAru  embudu  sAmAnyavAgi  adara 
 ADuga  mattu  kELugarigibbarigU  tiLidiruttadeyembudu  avarannu  A 
@@ -11792,9 +11792,9 @@ ADuganAgiddu,  adaralli  bandiruva  nAnu  pada  rAjuvina  badalu
 hariyannu  gurutisabEkAgide;  (4Ta)  sollinalli  ADuganAgiruva  vyakti 
 innomme badalAgiddu, nAnu pada illi rAjuvannu gurutisabEkAgide. 
 I  rIti,  sollugaLa  ADuvikege  sambandisidante  avugaLa  ADuga 
-mattu  kELugaru  badalAguttA  iraballarAda  kAraNa,  `ondu  pAngu 
-sollina  ADuga  illavE  kELuga  embudannu  tiLisuvudu'  mattu  `A 
-pAngannu  hottiruvudu  yAru  embudannu  tiLisuvudu'  emba  I 
+mattu  kELugaru  badalAguttA  iraballarAda  kAraNa,  ^ondu  pAngu 
+sollina  ADuga  illavE  kELuga  embudannu  tiLisuvudu^  mattu  ^A 
+pAngannu  hottiruvudu  yAru  embudannu  tiLisuvudu^  emba  I 
 eraDu  kelasagaLannu  ondE  pada  illavE  padakante  naDesalAradu. 
 
 
@@ -11883,16 +11883,16 @@ idannu keLage koTTiruva ettugegaLalli kANabahudu:
 
 (6ka) 
 
-rAju  manege  bandoDane  jAnaki  avana  hattira  `nIvu 
+rAju  manege  bandoDane  jAnaki  avana  hattira  ^nIvu 
 ivattu  nannannu  sinimAkke  karedukonDu  hOguttEne 
-endu  hELiddirallavE?'  endu  kELidaLu.  adakke  rAju, 
-`modalige svalpa kApi mADikoDu; AmEle nODONa' 
+endu  hELiddirallavE?^  endu  kELidaLu.  adakke  rAju, 
+^modalige svalpa kApi mADikoDu; AmEle nODONa^ 
 endu hELida. 
 
-(6ca)  `nIvomme horage hOgi' endu rAju harige hELida. 
-(6Ta)  hariyannu  kanDu  rAju  kELida:  `nInu  bengaLUrininda 
+(6ca)  ^nIvomme horage hOgi^ endu rAju harige hELida. 
+(6Ta)  hariyannu  kanDu  rAju  kELida:  ^nInu  bengaLUrininda 
 
-bandaddu yAvAga?' 
+bandaddu yAvAga?^ 
 
 (6ka)dalli bandiruva eraDu sollugaLannu yAru yArige hELiddu 
 (avugaLa  ADuga  mattu  kELugaru  yAru  embudannu  tiLisalu) 
@@ -11902,9 +11902,9 @@ bandaddu yAvAga?'
 
 horasollugaLannu baLasalAgide. ivugaLalli modalanE sollina ADuga 
 mattu kELugaru yAru embudannu rAju manege bandoDane jAnaki 
-avana hattira `......' endu hELidaLu emba horasollu tiLisuttade, 
+avana hattira ^......^ endu hELidaLu emba horasollu tiLisuttade, 
 mattu  eraDanE  sollina  ADuga  mattu  kELugaru  yAru  embudannu 
-adakke  rAju  `......'  endu  hELida  emba  innondu  horasollu 
+adakke  rAju  ^......^  endu  hELida  emba  innondu  horasollu 
 tiLisuttade. 
 
 (2)  manuSyarannu  hesarisuva  padagaLalli  huDuga-huDugi,  ajja-
@@ -11950,8 +11950,8 @@ yAguttiruvudE idakke kAraNavirabEku.
 
 ettugegAgi, nAvu embudu ondu sollina ADuga mattu kELugara 
 kUDikeyannu  tiLisuttirabahudu,  illavE  ADuganondige  kELuganannu 
-horatupaDisi  bErobbanannu  sErisi  hELuttirabahudu.  adannu  `halavu 
-mandi ADugaru' emba huruLinalli baLasuvudu tumbA aparUpa. 
+horatupaDisi  bErobbanannu  sErisi  hELuttirabahudu.  adannu  ^halavu 
+mandi ADugaru^ emba huruLinalli baLasuvudu tumbA aparUpa. 
 
 idE  rItiyalli  nIvu  embudakke  kELuganondige  ADuganannu 
 horatupaDisi  bErobbanannu  sErisi  hELuva  huruLiraballudu;  kelavu 
@@ -12001,15 +12001,15 @@ embudannu  tiLisuttade,  mattu  eraDaneyadu  adara  haravu  entahadu
 embudannu tiLisuttade. 
 
 ettugegAgi, ivanu padadalli i embudu modalaneya anga; adu 
-`ADugana  hattira  iruvantahadu'  emba  huruLannu  koDuttade;  avanu 
+^ADugana  hattira  iruvantahadu^  emba  huruLannu  koDuttade;  avanu 
 emba  innondu  tOrupadadalli  I  angakke  badalAgi  a  emba 
-bErondu  anga  bandiddu,  adu  `ADuganinda  dUra  iruvantahadu' 
+bErondu  anga  bandiddu,  adu  ^ADuganinda  dUra  iruvantahadu^ 
 emba huruLannu koDuttade. 
 
 ivanu  padadalli  eraDaneya  angavAgi  anu  embudu  bandiddu, 
-adakke  `ganDugurtada  vyakti'  emba  huruLide.  ivaLu  emba  innondu 
+adakke  ^ganDugurtada  vyakti^  emba  huruLide.  ivaLu  emba  innondu 
 tOrupadadalli  I  angakke  badalAgi  aLu  emba  bErondu  anga 
-bandiddu, adakke `heNNugurtada vyakti' emba huruLide. 
+bandiddu, adakke ^heNNugurtada vyakti^ emba huruLide. 
 
 I eraDu angagaLannu avalambisi, pAngugaLannu gurutisuvudakkAgi 
 baLakeyAgaballa  tOrupadagaLannu  keLage  koTTiruva  hAge  paTTimADa 
@@ -12094,8 +12094,8 @@ pada bEkAgiruva kaDegaLallU  yAru padavannE baLasalAguttade:
 (11Ta) yArO obba huDuga nimmannu nODalu bandidda. 
 
 tiLidiruva pAngannu gurutisuva ivanu, Ita, ivaLu, Ike, idu, 
-ivaru,  ivu  emba  padagaLige  `ADugana  hattira  iruva  pAngu'  emba 
-huruLu  mAtravallade,  `ADuganinda  dUra  illada  pAngu'  emba 
+ivaru,  ivu  emba  padagaLige  ^ADugana  hattira  iruva  pAngu^  emba 
+huruLu  mAtravallade,  ^ADuganinda  dUra  illada  pAngu^  emba 
 allagaLeyuva  huruLU  ide.  Adare,  avanu,  Ata,  avaLu,  Ake, 
 adu, avaru, avu emba padagaLige antaha allagaLeyuva huruLilla. 
 I vyatyAsavannu keLagina sollugaLalli kANabahudu: 
@@ -12107,7 +12107,7 @@ I vyatyAsavannu keLagina sollugaLalli kANabahudu:
  
 
 ADugana  hattirada  pAngugaLannu  gurutisuva  padagaLa  eduru  nillisi 
-dAga mAtra dUrada padagaLige antaha `dUrada pAngu' emba huruLu 
+dAga mAtra dUrada padagaLige antaha ^dUrada pAngu^ emba huruLu 
 baruttade: 
 
 (12Ta) ivaru  mancada  mEle  malagali,  mattu  avaru  sOpA 
@@ -12185,11 +12185,11 @@ baLakeyAgide embudannu gamanisabahudu.
 
 mEle  koTTiruva  tOrupadagaLa  paTTiya  mUranE  sAlinalli 
 bandiruva  yAvudu  mattu  Enu  emba  padagaLa  naDuve  bErondu 
-bageya  vyatyAsavide;  `yAvudAdarU  ondu  pAngu  tiLiyadudu' 
+bageya  vyatyAsavide;  ^yAvudAdarU  ondu  pAngu  tiLiyadudu^ 
 embudannu  tiLisabEkAdAga  Enu  padavannu  baLasalAguttade;  Adare, 
-`halavu  pAngugaLalli  ondu  mAtra  tiLiyadudu'  embudannu  tiLisa 
-bEkAdAga, yAvudu padavannu baLasalAguttade, mattu `kelavu mAtra 
-tiLiyadavu'  embudannu  tiLisabEkAdAga  yAvuvu  embudannu  baLasa 
+^halavu  pAngugaLalli  ondu  mAtra  tiLiyadudu^  embudannu  tiLisa 
+bEkAdAga, yAvudu padavannu baLasalAguttade, mattu ^kelavu mAtra 
+tiLiyadavu^  embudannu  tiLisabEkAdAga  yAvuvu  embudannu  baLasa 
 lAguttade. Enu mattu yAvudu/yAvuvu embavugaLa naDuvina I 
 vyatyAsavannu keLage koTTiruva sollugaLalli kANabahudu: 
 
@@ -12630,7 +12630,7 @@ ippuruLu kANisuvudilla.
 (29ca) avaLa hADuvikeyannu nAnu kELiddEne. 
 
 (29ka)  sollige  eraDu  huruLugaLiraballuvu:  adara  ADuganu 
-kELiruvudu  `avaLu  hADiddALe'  emba  sangatiyannirabahudu,  illavE 
+kELiruvudu  ^avaLu  hADiddALe^  emba  sangatiyannirabahudu,  illavE 
 nijakkU  avaLu  hADuvudannu  avanu  kELirabahudu.  Adare,  (29ca) 
 sollu ivugaLalli eraDanE huruLannu mAtra koDuttade. 
 
@@ -12642,11 +12642,11 @@ idannu keLage koTTiruva mUru sollugaLalli kANabahudu:
 (30ca)  avanu tandudannu yArU nanage tiLisalilla. 
 (30Ta)  avanu tandudannu mEjina mElirisiddEne. 
 
-(30ka) sollige `avanu taruva esakavannu nAnu nODalilla' emba 
-huruLide;  (30ca)  sollige  `avanu  tandiddAnemba  sangatiyannu  nanage 
-yArU  tiLisalilla'  emba  huruLide;  mattu,  (30Ta)  sollige  `avanu 
-tandiruva  vastuvannu  mEjina  mElirisiddEne'  emba  huruLide.  (30ka) 
-solligU  `avanu  tanda  vastuvannu  nAnu  nODalilla'  embudAgi  I 
+(30ka) sollige ^avanu taruva esakavannu nAnu nODalilla^ emba 
+huruLide;  (30ca)  sollige  ^avanu  tandiddAnemba  sangatiyannu  nanage 
+yArU  tiLisalilla^  emba  huruLide;  mattu,  (30Ta)  sollige  ^avanu 
+tandiruva  vastuvannu  mEjina  mElirisiddEne^  emba  huruLide.  (30ka) 
+solligU  ^avanu  tanda  vastuvannu  nAnu  nODalilla^  embudAgi  I 
 mUranE bageya huruLU baraballudu. 
 
 Adare,  I  mUraneya  huruLinalli  esakapadada  udu-rUpa  baLake 
@@ -12693,12 +12693,12 @@ gAgi, keLage koTTiruva sollugaLannu gamanisabahudu:
 halige emba hesarupadakke pAngondannu gurutisuvalli neravAguvantaha 
 kelasadalli  baLasalAgide;  idakke  badalu,  (31ca)  sollinalli  adannu 
 nEravAgi  pAngondannu  gurutisuvudakkAgi  baLasalAgide,  mattu  I 
-baLakeyalli  adu  `dappa'  emba  pariceyannE  gurutisuttade  embudannu 
+baLakeyalli  adu  ^dappa^  emba  pariceyannE  gurutisuttade  embudannu 
 gamanisabahudu.  adarondige  bandiruva  halige  padada  pattuge  rUpa 
 (haligeya embudu) I kelasadalli adakke neravannu nIDuttade. 
 
 idE  rItiyalli,  kOlu  padakke  neravannu  nIDuvudakkAgi  (32ka) 
-sollinallU,  nEravAgi  `udda'  pariceyannu  gurutisuvudakkAgi  (32ca) 
+sollinallU,  nEravAgi  ^udda^  pariceyannu  gurutisuvudakkAgi  (32ca) 
 sollinallU udda emba paricepadavannu baLasalAgide. 
 
 
@@ -12746,7 +12746,7 @@ tiLisuva pariceyannu ondu pAngAgi gurutisuvalli baLakeyAgaballuvu:
  
 
 Adare, ivu tiLisuva pariceyannu paDediruva vyaktiyannu gurutisuvu 
-dakkAgi, 2.4.3ralli vivarisida hAge, a `ganDusu' illavE i `hengasu' 
+dakkAgi, 2.4.3ralli vivarisida hAge, a ^ganDusu^ illavE i ^hengasu^ 
 oTTannu sErisalAguttade: 
 
 (35ka)  I beDagiyannu yAru maduveyAguttAre? 
@@ -12855,7 +12855,7 @@ kANisuttade.
 
 (41ka)dalli  ettara  paricepada  gODe  padakke  neravu  nIDuvudakkAgi 
 bandiddu,  adannu  hAgeyE  yAva  badalAvaNeyU  mADade  baLasa 
-lAgide;  idakke  badalu,  (41ca)dalli  adE  pada  `ettara'  pariceyannu 
+lAgide;  idakke  badalu,  (41ca)dalli  adE  pada  ^ettara^  pariceyannu 
 gurutisuvudakkAgi  bandiddu,  adannu  gODe  padadondige  baLasalu 
 adakke pattugeya a oTTannu sErisabEkAgide. 
 
