@@ -2381,9 +2381,7 @@ hoddike  tappihOguttade,  mattu  Odugarige  tondareyAguttade.
 ettugegAgi, keLage koTTiruva sollugaLannu gamanisabahudu:
 
 rAju harige mane kaTTuvalli neravu nIDida
-(3ca) Ata  gAre  kelasa  mADida,  mattu  hari  marada  kelasa
-
-mADida
+(3ca) Ata  gAre  kelasa  mADida,  mattu  hari  marada  kelasa  mADida
 
 (3Ta) Ata modalige gAre kalisatoDagida
 (3ta) Ata modalige haligegaLannu tunDisatoDagida.
