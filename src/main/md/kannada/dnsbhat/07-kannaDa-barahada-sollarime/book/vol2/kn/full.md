@@ -8,13 +8,13 @@ redirect_from:
 **ಲೇಖಕರು:** ಡಿ. ಎನ್. ಶಂಕರ ಭಟ್
 **ಮೂಲ:** PDF (Google Drive) — OCR ಶುದ್ಧೀಕೃತ ಪ್ರತಿ
 
-> [← ಸೂಚಿ](./README) | ಇಂಗ್ಲಿಶ್ ವಿಶ್ಲೇಷಣೆ: [07-kannaDa-barahada-sollarime-vol2-en](./07-kannaDa-barahada-sollarime-vol2-en) | Eke: [07-kannaDa-barahada-sollarime-vol2-kn-eke](./07-kannaDa-barahada-sollarime-vol2-kn-eke)
+> [← ಸೂಚಿ](../../../README) | ಇಂಗ್ಲಿಶ್ ವಿಶ್ಲೇಷಣೆ: [en](../../en/summary) | Eke: [eke](../eke/full)
 
 
 
 ## ಪರಿವಿಡಿ (ಸಂಪುಟ ೨)
 
-[← ಸಂಪುಟ ೧](./07-kannaDa-barahada-sollarime-vol1-book)
+[← ಸಂಪುಟ ೧](../../vol1/kn/raw)
 
 - [ಅಧ್ಯಾಯ 5 — ಎಸಕಪದಗಳ ಬಳಕೆ](#adhyAya-5)
     - [5.1 ಮುನ್ನೋಟ](#sec-5-1)
@@ -118,14 +118,14 @@ redirect_from:
 
 <a id="adhyAya-5"></a>
 
-[English →](./07-kannaDa-barahada-sollarime-en#chapter-5--verb-usage) | [Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#adhyAya-5)
+[English →](../../en/summary#chapter-5--verb-usage) | [Eke →](../eke/full#adhyAya-5)
 
 ## 5. ಎಸಕಪದಗಳ ಬಳಕೆ
 
 
 <a id="sec-5-1"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sec-5-1)
+[Eke →](../eke/full#sec-5-1)
 
 ### 5.1 ಮುನ್ನೋಟ
 
@@ -156,7 +156,7 @@ redirect_from:
 
 <a id="sub-5-1-1"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-5-1-1)
+[Eke →](../eke/full#sub-5-1-1)
 
 #### 5.1.1 ಎಸಕಪದಗಳ ಪದರೂಪಗಳು
 
@@ -333,7 +333,7 @@ redirect_from:
 
 <a id="sub-5-1-2"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-5-1-2)
+[Eke →](../eke/full#sub-5-1-2)
 
 #### 5.1.2 ಕೆಲವು ವ್ಯತ್ಯಾಸಗಳು
 
@@ -426,7 +426,7 @@ redirect_from:
 
 <a id="sub-5-1-3"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-5-1-3)
+[Eke →](../eke/full#sub-5-1-3)
 
 #### 5.1.3 ಎಸಕದ ಹೊತ್ತು
 
@@ -618,7 +618,7 @@ redirect_from:
 
 <a id="sub-5-1-4"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-5-1-4)
+[Eke →](../eke/full#sub-5-1-4)
 
 #### 5.1.4 ಇಟ್ಟಳ ಮತ್ತು ನಿಲುವುಗಳು ಪತ್ತುಗೆಯನ್ನವಲಂಬಿಸಿರುವುದು
 
@@ -705,7 +705,7 @@ redirect_from:
 
 <a id="sub-5-1-5"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-5-1-5)
+[Eke →](../eke/full#sub-5-1-5)
 
 #### 5.1.5 ಜೋಡಿಸುವ ರೂಪಗಳ ಬಳಕೆ
 
@@ -831,7 +831,7 @@ redirect_from:
 
 <a id="sub-5-1-6"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-5-1-6)
+[Eke →](../eke/full#sub-5-1-6)
 
 #### 5.1.6 ಎಸಕಗಳು ಮತ್ತು ಎಸಕಪದಗಳು
 
@@ -918,7 +918,7 @@ redirect_from:
 
 <a id="sec-5-2"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sec-5-2)
+[Eke →](../eke/full#sec-5-2)
 
 ### 5.2 ಹೊತ್ತಿನ ಪತ್ತುಗೆ
 
@@ -947,7 +947,7 @@ redirect_from:
 
 <a id="sub-5-2-1"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-5-2-1)
+[Eke →](../eke/full#sub-5-2-1)
 
 #### 5.2.1 ಹೊತ್ತನ್ನು ತಿಳಿಸುವ ಬಗೆಗಳು
 
@@ -1035,7 +1035,7 @@ redirect_from:
 
 <a id="sub-5-2-2"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-5-2-2)
+[Eke →](../eke/full#sub-5-2-2)
 
 #### 5.2.2 ಸೊಲ್ಲುಪತ್ತುಗೆ ಮತ್ತು ಎಸಕಪತ್ತುಗೆ
 
@@ -1180,7 +1180,7 @@ redirect_from:
 
 <a id="sub-5-2-3"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-5-2-3)
+[Eke →](../eke/full#sub-5-2-3)
 
 #### 5.2.3 ಮುಂಬೊತ್ತಿನ ಎಸಕರೂಪಗಳ ಬಳಕೆ
 
@@ -1310,7 +1310,7 @@ redirect_from:
 
 <a id="sub-5-2-4"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-5-2-4)
+[Eke →](../eke/full#sub-5-2-4)
 
 #### 5.2.4 ಹಿಂಬೊತ್ತಿನ ಎಸಕರೂಪಗಳ ಬಳಕೆ
 
@@ -1374,7 +1374,7 @@ redirect_from:
 
 <a id="sub-5-2-5"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-5-2-5)
+[Eke →](../eke/full#sub-5-2-5)
 
 #### 5.2.5 ಇರು ಪದದ ಬಳಕೆಯಲ್ಲಿ ಹೊತ್ತಿನ ಪತ್ತುಗೆ
 
@@ -1479,7 +1479,7 @@ redirect_from:
 
 <a id="sub-5-2-6"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-5-2-6)
+[Eke →](../eke/full#sub-5-2-6)
 
 #### 5.2.6 ಎಸಕಹೊತ್ತಿನ ಬಳಕೆ
 
@@ -1543,7 +1543,7 @@ redirect_from:
 
 <a id="sub-5-2-7"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-5-2-7)
+[Eke →](../eke/full#sub-5-2-7)
 
 #### 5.2.7 ಪರಿಚೆರೂಪಗಳಲ್ಲಿ  ಮತ್ತು  ಉದು-ಹೆಸರುರೂಪಗಳಲ್ಲಿ  ಹೊತ್ತಿನ
 
@@ -1623,7 +1623,7 @@ redirect_from:
 
 <a id="sec-5-3"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sec-5-3)
+[Eke →](../eke/full#sec-5-3)
 
 ### 5.3 ಹೊತ್ತಿನ ಇಟ್ಟಳ
 
@@ -1801,7 +1801,7 @@ redirect_from:
 
 <a id="sub-5-3-1"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-5-3-1)
+[Eke →](../eke/full#sub-5-3-1)
 
 #### 5.3.1 ಹೊತ್ತಿನ ಇಟ್ಟಳವನ್ನು ತಿಳಿಸುವ ಸಿಕ್ಕಲು ರೂಪಗಳು
 
@@ -2080,7 +2080,7 @@ redirect_from:
 
 <a id="sub-5-3-2"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-5-3-2)
+[Eke →](../eke/full#sub-5-3-2)
 
 #### 5.3.2 ಕೊನೆಗೊಳ್ಳುವ ಇಟ್ಟಳ
 
@@ -2321,7 +2321,7 @@ redirect_from:
 
 <a id="sub-5-3-3"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-5-3-3)
+[Eke →](../eke/full#sub-5-3-3)
 
 #### 5.3.3 ತೊಡಗುವ ಇಟ್ಟಳ
 
@@ -2457,7 +2457,7 @@ redirect_from:
 
 <a id="sub-5-3-4"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-5-3-4)
+[Eke →](../eke/full#sub-5-3-4)
 
 #### 5.3.4 ಮುಂದುವರಿಯುವ ಇಟ್ಟಳ
 
@@ -2564,7 +2564,7 @@ redirect_from:
 
 <a id="sub-5-3-5"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-5-3-5)
+[Eke →](../eke/full#sub-5-3-5)
 
 #### 5.3.5 ಇರು ಪದದ ಬಳಕೆಯಲ್ಲಿ ತಿಳಿವಿನ ಹೊತ್ತು
 
@@ -2692,7 +2692,7 @@ redirect_from:
 
 <a id="sub-5-3-6"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-5-3-6)
+[Eke →](../eke/full#sub-5-3-6)
 
 #### 5.3.6 ಹೊತ್ತಿನ ಪತ್ತುಗೆ ಮತ್ತು ಹೊತ್ತಿನ ಇಟ್ಟಳ: ಕೆಲವು ವ್ಯತ್ಯಾಸಗಳು
 
@@ -2838,7 +2838,7 @@ redirect_from:
 
 <a id="sec-5-4"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sec-5-4)
+[Eke →](../eke/full#sec-5-4)
 
 ### 5.4 ಹೊತ್ತಿನ ಇಟ್ಟಳ ಮತ್ತು ಎಸಕದ ಇಟ್ಟಳ
 
@@ -2885,7 +2885,7 @@ redirect_from:
 
 <a id="sub-5-4-1"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-5-4-1)
+[Eke →](../eke/full#sub-5-4-1)
 
 #### 5.4.1 ಎಸಕ ಮತ್ತು ಇರುಹ
 
@@ -3011,7 +3011,7 @@ redirect_from:
 
 <a id="sub-5-4-2"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-5-4-2)
+[Eke →](../eke/full#sub-5-4-2)
 
 #### 5.4.2 ಎಸಕಪದಗಳ ಬಗೆಗಳು
 
@@ -3301,7 +3301,7 @@ redirect_from:
 
 <a id="sub-5-4-3"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-5-4-3)
+[Eke →](../eke/full#sub-5-4-3)
 
 #### 5.4.3 ಎಸಕದ ಇಟ್ಟಳಗಳನ್ನು ಮಾರ್ಪಡಿಸುವುದು
 
@@ -3416,7 +3416,7 @@ redirect_from:
 
 <a id="sub-5-4-4"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-5-4-4)
+[Eke →](../eke/full#sub-5-4-4)
 
 #### 5.4.4 ಹೊತ್ತಿನ ಇಟ್ಟಳದಲ್ಲಿ ಮಾರ್ಪಾಡುಗಳು
 
@@ -3531,7 +3531,7 @@ redirect_from:
 
 <a id="sec-5-5"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sec-5-5)
+[Eke →](../eke/full#sec-5-5)
 
 ### 5.5 ಆಡುಗನ ನಿಲುವು
 
@@ -3640,7 +3640,7 @@ redirect_from:
 
 <a id="sub-5-5-1"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-5-5-1)
+[Eke →](../eke/full#sub-5-5-1)
 
 #### 5.5.1 ನಿಲುವಿನ ನೆರವೆಸಕಪದಗಳು
 
@@ -3866,7 +3866,7 @@ redirect_from:
 
 <a id="sub-5-5-2"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-5-5-2)
+[Eke →](../eke/full#sub-5-5-2)
 
 #### 5.5.2 ನಿಲುವಿನ ಮೂರು ಬಗೆಗಳು
 
@@ -3922,7 +3922,7 @@ redirect_from:
 
 <a id="sub-5-5-3"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-5-5-3)
+[Eke →](../eke/full#sub-5-5-3)
 
 #### 5.5.3 ಆಡುಗನ ಅರಿವು
 
@@ -4103,7 +4103,7 @@ redirect_from:
 
 <a id="sub-5-5-4"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-5-5-4)
+[Eke →](../eke/full#sub-5-5-4)
 
 #### 5.5.4 ಆಡುಗನ ಒತ್ತಾಸೆ
 
@@ -4266,7 +4266,7 @@ redirect_from:
 
 <a id="sub-5-5-5"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-5-5-5)
+[Eke →](../eke/full#sub-5-5-5)
 
 #### 5.5.5 ಒತ್ತಾಸೆಯ ಸಿಕ್ಕಲುರೂಪಗಳು ಮತ್ತು ಅರಿಕೆರೂಪಗಳು
 
@@ -4365,7 +4365,7 @@ redirect_from:
 
 <a id="sub-5-5-6"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-5-5-6)
+[Eke →](../eke/full#sub-5-5-6)
 
 #### 5.5.6 ಅರಿವು ಮತ್ತು ಒತ್ತಾಸೆಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸಗಳು
 
@@ -4461,7 +4461,7 @@ redirect_from:
 
 <a id="sub-5-5-7"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-5-5-7)
+[Eke →](../eke/full#sub-5-5-7)
 
 #### 5.5.7 ಮಾಡುಗನ ಅಳವು
 
@@ -4531,7 +4531,7 @@ redirect_from:
 
 <a id="sub-5-5-8"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-5-5-8)
+[Eke →](../eke/full#sub-5-5-8)
 
 #### 5.5.8 ಹೊತ್ತಿನ ಪತ್ತುಗೆ ಮತ್ತು ಆಡುಗನ ನಿಲುವು
 
@@ -4659,7 +4659,7 @@ redirect_from:
 
 <a id="sub-5-5-9"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-5-5-9)
+[Eke →](../eke/full#sub-5-5-9)
 
 #### 5.5.9 ಆಡುಗನ ನಿಲುವು ಮತ್ತು ಅಲ್ಲಗಳೆತ
 
@@ -5020,7 +5020,7 @@ redirect_from:
 
 <a id="sub-5-5-10"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-5-5-10)
+[Eke →](../eke/full#sub-5-5-10)
 
 #### 5.5.10 ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ನೆರವೆಸಕಪದಗಳ ಬಳಕೆ
 
@@ -5143,7 +5143,7 @@ redirect_from:
 
 <a id="sec-5-6"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sec-5-6)
+[Eke →](../eke/full#sec-5-6)
 
 ### 5.6 ಎಸಕದ ಅಳವಿ
 
@@ -5179,7 +5179,7 @@ redirect_from:
 
 <a id="sub-5-6-1"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-5-6-1)
+[Eke →](../eke/full#sub-5-6-1)
 
 #### 5.6.1 ಇಟ್ಟಳದ ಅಳವಿ
 
@@ -5213,7 +5213,7 @@ redirect_from:
 
 <a id="sub-5-6-2"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-5-6-2)
+[Eke →](../eke/full#sub-5-6-2)
 
 #### 5.6.2 ಎಸಕದ ಅಳವಿ
 
@@ -5236,7 +5236,7 @@ redirect_from:
 
 <a id="sub-5-6-3"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-5-6-3)
+[Eke →](../eke/full#sub-5-6-3)
 
 #### 5.6.3 ಬಳಕೆಯ ಎಸಕ
 
@@ -5466,7 +5466,7 @@ redirect_from:
 
 <a id="sub-5-6-4"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-5-6-4)
+[Eke →](../eke/full#sub-5-6-4)
 
 #### 5.6.4 ಮತ್ತೆ ನಡೆಸಿದ ಎಸಕ
 
@@ -5482,7 +5482,7 @@ redirect_from:
 
 <a id="sub-5-6-5"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-5-6-5)
+[Eke →](../eke/full#sub-5-6-5)
 
 #### 5.6.5 ತಿರುತಿರುಗಿ ನಡೆಸಿದ ಎಸಕ
 
@@ -5604,7 +5604,7 @@ redirect_from:
 
 <a id="sub-5-6-6"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-5-6-6)
+[Eke →](../eke/full#sub-5-6-6)
 
 #### 5.6.6 ಹಂಚಿಕೆಯ ಎಸಕ
 
@@ -5624,7 +5624,7 @@ redirect_from:
 
 <a id="sub-5-6-7"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-5-6-7)
+[Eke →](../eke/full#sub-5-6-7)
 
 #### 5.6.7 ತಿರುಳು
 
@@ -5679,14 +5679,14 @@ redirect_from:
  
 <a id="adhyAya-6"></a>
 
-[English →](./07-kannaDa-barahada-sollarime-en#chapter-6--noun-phrase-structure) | [Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#adhyAya-6)
+[English →](../../en/summary#chapter-6--noun-phrase-structure) | [Eke →](../eke/full#adhyAya-6)
 
 ## 6. ಹೆಸರುಕಂತೆಗಳ ಇಟ್ಟಳ
 
 
 <a id="sec-6-1"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sec-6-1)
+[Eke →](../eke/full#sec-6-1)
 
 ### 6.1 ಮುನ್ನೋಟ
 
@@ -5756,7 +5756,7 @@ redirect_from:
 
 <a id="sub-6-1-1"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-6-1-1)
+[Eke →](../eke/full#sub-6-1-1)
 
 #### 6.1.1 ಹೆಸರುಪದಗಳು ಮತ್ತು ಹೆಸರುಕಂತೆಗಳು
 
@@ -5855,7 +5855,7 @@ redirect_from:
 
 <a id="sub-6-1-2"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-6-1-2)
+[Eke →](../eke/full#sub-6-1-2)
 
 #### 6.1.2 ಗುರುತಿಸುವಿಕೆಯ ಎರಡು ಹಂತಗಳು
 
@@ -6023,7 +6023,7 @@ redirect_from:
 
 <a id="sec-61-3"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sec-61-3)
+[Eke →](../eke/full#sec-61-3)
 
 ### 61.3 ಹೆಸರುಕಂತೆಗಳ ಇಟ್ಟಳ
 
@@ -6224,7 +6224,7 @@ redirect_from:
 
 <a id="sec-6-2"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sec-6-2)
+[Eke →](../eke/full#sec-6-2)
 
 ### 6.2 ತಿರುಳುಪದದ ಬಗೆಗಳು
 
@@ -6288,7 +6288,7 @@ redirect_from:
 
 <a id="sub-6-2-1"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-6-2-1)
+[Eke →](../eke/full#sub-6-2-1)
 
 #### 6.2.1 ಕೊಟ್ಟಹೆಸರು ಮತ್ತು ಇರುವಹೆಸರು
 
@@ -6426,7 +6426,7 @@ redirect_from:
 
 <a id="sub-6-2-2"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-6-2-2)
+[Eke →](../eke/full#sub-6-2-2)
 
 #### 6.2.2 ಒತ್ತೆಹೆಸರು ಮತ್ತು ಒಟ್ಟಲುಹೆಸರು
 
@@ -6563,7 +6563,7 @@ redirect_from:
 
 <a id="sub-6-2-3"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-6-2-3)
+[Eke →](../eke/full#sub-6-2-3)
 
 #### 6.2.3 ಮಂದಿಗುರ್ತ ಮತ್ತು ಉಳಿಕೆಗುರ್ತ
 
@@ -6613,7 +6613,7 @@ redirect_from:
 
 <a id="sub-6-2-4"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-6-2-4)
+[Eke →](../eke/full#sub-6-2-4)
 
 #### 6.2.4 ಹೆಸರುಪದಗಳ ಹಂತಗಳು
 
@@ -6809,7 +6809,7 @@ redirect_from:
 
 <a id="sub-6-2-5"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-6-2-5)
+[Eke →](../eke/full#sub-6-2-5)
 
 #### 6.2.5 ಪರಿಜಿರುವ ಮತ್ತು ಪರಿಜಿಲ್ಲದ ಪಾಂಗುಗಳು
 
@@ -6898,7 +6898,7 @@ redirect_from:
 
 <a id="sub-6-2-6"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-6-2-6)
+[Eke →](../eke/full#sub-6-2-6)
 
 #### 6.2.6 ಎಣಿಸಬಲ್ಲ ಮತ್ತು ಎಣಿಸಲಾಗದ ಪದಗಳು
 
@@ -6940,7 +6940,7 @@ redirect_from:
 
 <a id="sec-6-3"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sec-6-3)
+[Eke →](../eke/full#sec-6-3)
 
 ### 6.3 ಪಾಂಗುಗಳ ಪರಿಚೆಯನ್ನು ತಿಳಿಸುವುದು
 
@@ -7045,7 +7045,7 @@ redirect_from:
 
 <a id="sub-6-3-1"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-6-3-1)
+[Eke →](../eke/full#sub-6-3-1)
 
 #### 6.3.1 ಪರಿಚೆಪದಗಳ ಬಗೆಗಳು
 
@@ -8026,7 +8026,7 @@ redirect_from:
 
 <a id="sub-6-3-2"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-6-3-2)
+[Eke →](../eke/full#sub-6-3-2)
 
 #### 6.3.2 ಪರಿಚೆಪದಗಳ ಓರಣ
 
@@ -8169,7 +8169,7 @@ redirect_from:
 
 <a id="sub-6-3-3"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-6-3-3)
+[Eke →](../eke/full#sub-6-3-3)
 
 #### 6.3.3 ಇಮ್ಮಡಿ ಪರಿಚೆಪದಗಳು
 
@@ -8267,7 +8267,7 @@ redirect_from:
 
 <a id="sub-6-3-4"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-6-3-4)
+[Eke →](../eke/full#sub-6-3-4)
 
 #### 6.3.4 ಹಂತಪದಗಳು ಮತ್ತು ಹೋಲಿಕೆಯ ನುಡಿತಗಳು
 
@@ -8407,7 +8407,7 @@ redirect_from:
 
 <a id="sub-6-3-5"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-6-3-5)
+[Eke →](../eke/full#sub-6-3-5)
 
 #### 6.3.5 ಹೆಸರುಪದಗಳ ಪತ್ತುಗೆ ರೂಪದ ಬಳಕೆ
 
@@ -8677,7 +8677,7 @@ redirect_from:
 
 <a id="sub-6-3-6"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-6-3-6)
+[Eke →](../eke/full#sub-6-3-6)
 
 #### 6.3.6 ಎಸಕಪದಗಳ ಪರಿಚೆರೂಪಗಳ ಬಳಕೆ
 
@@ -8976,7 +8976,7 @@ redirect_from:
 
 <a id="sub-6-3-7"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-6-3-7)
+[Eke →](../eke/full#sub-6-3-7)
 
 #### 6.3.7 ಎಸಕಪರಿಚೆಗಳ ಪತ್ತುಗೆ ರೂಪದ ಬಳಕೆ
 
@@ -9021,7 +9021,7 @@ redirect_from:
 
 <a id="sub-6-3-8"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-6-3-8)
+[Eke →](../eke/full#sub-6-3-8)
 
 #### 6.3.8 ತೋರುಪದಗಳ ಬಳಕೆ
 
@@ -9057,7 +9057,7 @@ redirect_from:
 
 <a id="sec-6-4"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sec-6-4)
+[Eke →](../eke/full#sec-6-4)
 
 ### 6.4 ಪಾಂಗುಗಳ ಅಳವಿಯನ್ನು ತಿಳಿಸುವುದು
 
@@ -9091,7 +9091,7 @@ redirect_from:
 
 <a id="sub-6-4-1"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-6-4-1)
+[Eke →](../eke/full#sub-6-4-1)
 
 #### 6.4.1 ಹಲವೆಣಿಕೆಯ ಒಟ್ಟು
 
@@ -9273,7 +9273,7 @@ redirect_from:
 
 <a id="sub-6-4-2"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-6-4-2)
+[Eke →](../eke/full#sub-6-4-2)
 
 #### 6.4.2 ಎಣಿಕೆಪದಗಳ ಬಳಕೆ
 
@@ -9578,7 +9578,7 @@ redirect_from:
 
 <a id="sub-6-4-3"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-6-4-3)
+[Eke →](../eke/full#sub-6-4-3)
 
 #### 6.4.3 ಅಳತೆಪದಗಳ ಬಳಕೆ
 
@@ -9801,7 +9801,7 @@ redirect_from:
 
 <a id="sub-6-4-4"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-6-4-4)
+[Eke →](../eke/full#sub-6-4-4)
 
 #### 6.4.4 ಅಳವಿ ಪದಗಳ ಬಳಕೆ
 
@@ -10013,7 +10013,7 @@ redirect_from:
 
 <a id="sub-6-4-5"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-6-4-5)
+[Eke →](../eke/full#sub-6-4-5)
 
 #### 6.4.5 ಎಣಿಕೆಪದಗಳ ಇಟ್ಟಳ
 
@@ -10145,7 +10145,7 @@ redirect_from:
 
 <a id="sub-6-4-6"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-6-4-6)
+[Eke →](../eke/full#sub-6-4-6)
 
 #### 6.4.6 ಎಣಿಕೆಪದಗಳ ಜಾಗ
 
@@ -10248,7 +10248,7 @@ redirect_from:
 
 <a id="sub-6-4-7"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-6-4-7)
+[Eke →](../eke/full#sub-6-4-7)
 
 #### 6.4.7 ಎಣಿಕೆ ಪದಗಳ ಇಮ್ಮಡಿರೂಪದ ಬಳಕೆ
 
@@ -10357,7 +10357,7 @@ redirect_from:
 
 <a id="sub-6-4-8"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-6-4-8)
+[Eke →](../eke/full#sub-6-4-8)
 
 #### 6.4.8 ಪಾಂಗುಗಳ ಅಳವಿ ಮತ್ತು ಪರಿಚೆ
 
@@ -10518,7 +10518,7 @@ redirect_from:
 
 <a id="sub-6-4-9"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-6-4-9)
+[Eke →](../eke/full#sub-6-4-9)
 
 #### 6.4.9 ಹೋಲಿಕೆಯಲ್ಲಿ ಎಣಿಕೆಪದಗಳ ಬಳಕೆ
 
@@ -10582,7 +10582,7 @@ redirect_from:
 
 <a id="sub-6-4-10"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-6-4-10)
+[Eke →](../eke/full#sub-6-4-10)
 
 #### 6.4.10 ಎಣಿಕೆ ಪದಗಳು ಮತ್ತು ಪರಿಚೆಪದಗಳು
 
@@ -10640,7 +10640,7 @@ redirect_from:
 
 <a id="sec-6-5"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sec-6-5)
+[Eke →](../eke/full#sec-6-5)
 
 ### 6.5 ಪಾಂಗುಗಳನ್ನು ನೆಲೆಗೊಳಿಸುವುದು
 
@@ -10809,7 +10809,7 @@ redirect_from:
 
 <a id="sub-6-5-1"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-6-5-1)
+[Eke →](../eke/full#sub-6-5-1)
 
 #### 6.5.1 ನೆಲೆಗೊಳಿಸುವ ಪರಿಚೆಗಳು
 
@@ -11221,7 +11221,7 @@ redirect_from:
 
 <a id="sub-6-5-2"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-6-5-2)
+[Eke →](../eke/full#sub-6-5-2)
 
 #### 6.5.2 ತಿಳಿಯಬಲ್ಲ ಮತ್ತು ತಿಳಿಯಲಾಗದ ಗುರುತಿಸುವಿಕೆಗಳು
 
@@ -11431,7 +11431,7 @@ redirect_from:
 
 <a id="sub-6-5-3"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-6-5-3)
+[Eke →](../eke/full#sub-6-5-3)
 
 #### 6.5.3 ತಿಳಿಯಬಲ್ಲ ಗುರುತಿಸುವಿಕೆಯ ಬಗೆಗಳು
 
@@ -11591,7 +11591,7 @@ redirect_from:
 
 <a id="sub-6-5-4"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-6-5-4)
+[Eke →](../eke/full#sub-6-5-4)
 
 #### 6.5.4 ತಿಳಿದ ಮತ್ತು ತಿಳಿಯದ ಗುರುತಿಸುವಿಕೆಗಳು
 
@@ -11790,7 +11790,7 @@ redirect_from:
 
 <a id="sub-6-5-5"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-6-5-5)
+[Eke →](../eke/full#sub-6-5-5)
 
 #### 6.5.5 ಪಾಂಗಿನ ಬಗೆಯನ್ನು ಗುರುತಿಸುವುದು
 
@@ -12094,7 +12094,7 @@ redirect_from:
 
 <a id="sub-6-5-6"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-6-5-6)
+[Eke →](../eke/full#sub-6-5-6)
 
 #### 6.5.6 ತೋರುಪದಗಳಿಂದ ತಿಳಿಯದ ಗುರುತಿಸುವಿಕೆ
 
@@ -12206,7 +12206,7 @@ redirect_from:
 
 <a id="sec-6-6"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sec-6-6)
+[Eke →](../eke/full#sec-6-6)
 
 ### 6.6 ಪಾಂಗುಗಳನ್ನು ಗುರುತಿಸುವ ಬೇರೆ ಬಗೆಗಳು
 
@@ -12221,7 +12221,7 @@ redirect_from:
 
 <a id="sub-6-6-1"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-6-6-1)
+[Eke →](../eke/full#sub-6-6-1)
 
 #### 6.6.1 ಆಡುಪದಗಳ ಬಳಕೆ
 
@@ -12516,7 +12516,7 @@ redirect_from:
 
 <a id="sub-6-6-2"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-6-6-2)
+[Eke →](../eke/full#sub-6-6-2)
 
 #### 6.6.2 ತೋರುಪದಗಳ ಬಳಕೆ
 
@@ -12943,7 +12943,7 @@ redirect_from:
 
 <a id="sub-6-6-3"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-6-6-3)
+[Eke →](../eke/full#sub-6-6-3)
 
 #### 6.6.3 ಎಣಿಕೆಪದಗಳ ಬಳಕೆ
 
@@ -13029,7 +13029,7 @@ redirect_from:
 
 <a id="sub-6-6-4"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-6-6-4)
+[Eke →](../eke/full#sub-6-6-4)
 
 #### 6.6.4 ಎಸಕಪದಗಳ ಹೆಸರುರೂಪಗಳ ಬಳಕೆ
 
@@ -13198,7 +13198,7 @@ redirect_from:
 
 <a id="sub-6-6-5"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-6-6-5)
+[Eke →](../eke/full#sub-6-6-5)
 
 #### 6.6.5 ಪರಿಚೆಪದಗಳ ಬಳಕೆ
 
@@ -13424,7 +13424,7 @@ redirect_from:
 
 <a id="sub-6-6-6"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sub-6-6-6)
+[Eke →](../eke/full#sub-6-6-6)
 
 #### 6.6.6 ಎಸಕಪದಗಳ ಬಳಕೆ
 
@@ -13463,7 +13463,7 @@ redirect_from:
 
 <a id="sec-6-7"></a>
 
-[Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#sec-6-7)
+[Eke →](../eke/full#sec-6-7)
 
 ### 6.7 ತಿರುಳು
 

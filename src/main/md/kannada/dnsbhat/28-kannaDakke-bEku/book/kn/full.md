@@ -8,7 +8,7 @@ redirect_from:
 **ಲೇಖಕರು:** ಡಿ. ಎನ್. ಶಂಕರ ಭಟ್
 **ಮೂಲ:** PDF (Google Drive) — OCR ಶುದ್ಧೀಕೃತ ಪ್ರತಿ
 
-> [← ಸೂಚಿ](./README) | ಇಂಗ್ಲಿಶ್ ವಿಶ್ಲೇಷಣೆ: [28-kannaDakke-bEku-en](./28-kannaDakke-bEku-en) | Eke: [28-kannaDakke-bEku-kn-eke](./28-kannaDakke-bEku-kn-eke)
+> [← ಸೂಚಿ](../../README) | ಇಂಗ್ಲಿಶ್ ವಿಶ್ಲೇಷಣೆ: [en](../en/summary) | Eke: [eke](../eke/full)
 
 ## ಪರಿವಿಡಿ
 
@@ -299,13 +299,13 @@ E-mail: <bhatdns@rediffmail.com>
 
 <a id="adhyAya-1"></a>
 
-[English →](./28-kannaDakke-bEku-en#chapter-1--preview) | [Eke →](./28-kannaDakke-bEku-kn-eke#adhyAya-1)
+[English →](../en/summary#chapter-1--preview) | [Eke →](../eke/full#adhyAya-1)
 
 ## 1. ಮುನ್ನೋಟ
 
 <a id="sec-1-1"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-1-1)
+[Eke →](../eke/full#sec-1-1)
 
 ### 1.1 ವ್ಯಾಕರಣ ಪರಂಪರೆ
 
@@ -431,7 +431,7 @@ E-mail: <bhatdns@rediffmail.com>
 
 <a id="sec-1-2"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-1-2)
+[Eke →](../eke/full#sec-1-2)
 
 ### 1.2 ವ್ಯಾಕರಣದ ಉದ್ದೇಶ
 
@@ -543,7 +543,7 @@ E-mail: <bhatdns@rediffmail.com>
 
 <a id="sec-1-3"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-1-3)
+[Eke →](../eke/full#sec-1-3)
 
 ### 1.3 ಕನ್ನಡದವಲ್ಲದ ಕನ್ನಡ ವ್ಯಾಕರಣಗಳು
 
@@ -603,7 +603,7 @@ E-mail: <bhatdns@rediffmail.com>
 
 <a id="sec-1-4"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-1-4)
+[Eke →](../eke/full#sec-1-4)
 
 ### 1.4 ಹೊಸಗನ್ನಡಕ್ಕೆ ಅದರದೇ ವ್ಯಾಕರಣ
 
@@ -701,7 +701,7 @@ E-mail: <bhatdns@rediffmail.com>
 
 <a id="sec-1-5"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-1-5)
+[Eke →](../eke/full#sec-1-5)
 
 ### 1.5 ದಾರಿ ಹೇಳುವ ಕ್ರಮ
 
@@ -814,7 +814,7 @@ E-mail: <bhatdns@rediffmail.com>
 
 <a id="sec-1-6"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-1-6)
+[Eke →](../eke/full#sec-1-6)
 
 ### 1.6 ಈ ಪುಸ್ತಕದ ಉದ್ದೇಶ
 
@@ -933,13 +933,13 @@ E-mail: <bhatdns@rediffmail.com>
 
 <a id="adhyAya-2"></a>
 
-[English →](./28-kannaDakke-bEku-en#chapter-2--sandhi-rules) | [Eke →](./28-kannaDakke-bEku-kn-eke#adhyAya-2)
+[English →](../en/summary#chapter-2--sandhi-rules) | [Eke →](../eke/full#adhyAya-2)
 
 ## 2. ಸೇರಿಕೆಯ ನಿಯಮಗಳು
 
 <a id="sec-2-1"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-2-1)
+[Eke →](../eke/full#sec-2-1)
 
 ### 2.1 ಮುನ್ನೋಟ
 
@@ -979,7 +979,7 @@ E-mail: <bhatdns@rediffmail.com>
 
 <a id="sub-2-1-1"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-2-1-1)
+[Eke →](../eke/full#sub-2-1-1)
 
 #### 2.1.1 ಪಠ್ಯಪುಸ್ತಕಗಳಲ್ಲಿ ಸೇರಿಕೆಯ ನಿಯಮಗಳು
 
@@ -1027,7 +1027,7 @@ E-mail: <bhatdns@rediffmail.com>
 
 <a id="sub-2-1-2"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-2-1-2)
+[Eke →](../eke/full#sub-2-1-2)
 
 #### 2.1.2 ಸಂಸ್ಕೃತದ ನಿಯಮಗಳನ್ನು ತಿಳಿಸುವ ಕ್ರಮ
 
@@ -1086,7 +1086,7 @@ E-mail: <bhatdns@rediffmail.com>
 
 <a id="sec-2-2"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-2-2)
+[Eke →](../eke/full#sec-2-2)
 
 ### 2.2 ಸೇರಿಕೆಯ ನಿಯಮಗಳಲ್ಲಿ ವ್ಯತ್ಯಾಸಗಳು
 
@@ -1099,7 +1099,7 @@ E-mail: <bhatdns@rediffmail.com>
 
 <a id="sub-2-2-1"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-2-2-1)
+[Eke →](../eke/full#sub-2-2-1)
 
 #### 2.2.1 ಸ್ವರಗಳ ಬದಲಾವಣೆಯಲ್ಲಿ ವ್ಯತ್ಯಾಸಗಳು
 
@@ -1239,7 +1239,7 @@ E-mail: <bhatdns@rediffmail.com>
 
 <a id="sub-2-2-2"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-2-2-2)
+[Eke →](../eke/full#sub-2-2-2)
 
 #### 2.2.2 ವ್ಯಂಜನಗಳ ಬದಲಾವಣೆಯಲ್ಲಿ ವ್ಯತ್ಯಾಸಗಳು
 
@@ -1335,7 +1335,7 @@ E-mail: <bhatdns@rediffmail.com>
 
 <a id="sec-2-3"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-2-3)
+[Eke →](../eke/full#sec-2-3)
 
 ### 2.3 ನಾಮರೂಢಿಯಳಿಯುವ ಹಾಗಿದ್ದರೆ..
 
@@ -1410,7 +1410,7 @@ E-mail: <bhatdns@rediffmail.com>
 
 <a id="sec-2-4"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-2-4)
+[Eke →](../eke/full#sec-2-4)
 
 ### 2.4 ಸಂದಭ್ರಗಳ ವಿಭಜನೆ
 
@@ -1622,7 +1622,7 @@ E-mail: <bhatdns@rediffmail.com>
 
 <a id="sec-2-5"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-2-5)
+[Eke →](../eke/full#sec-2-5)
 
 ### 2.5 ಸೇರಿಕೆಯ ನಿಯಮಗಳ ಅನಿಯಮಿತತೆ
 
@@ -1693,7 +1693,7 @@ E-mail: <bhatdns@rediffmail.com>
 
 <a id="sec-2-6"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-2-6)
+[Eke →](../eke/full#sec-2-6)
 
 ### 2.6 ವರ್ಣಗಳ ಪಟ್ಟಿ
 
@@ -1715,7 +1715,7 @@ E-mail: <bhatdns@rediffmail.com>
 
 <a id="sub-2-6-1"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-2-6-1)
+[Eke →](../eke/full#sub-2-6-1)
 
 #### 2.6.1 ಸಂಸ್ಕೃತ ಸ್ವರಗಳ ಪಟ್ಟಿ
 
@@ -1747,7 +1747,7 @@ E-mail: <bhatdns@rediffmail.com>
 
 <a id="sub-2-6-2"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-2-6-2)
+[Eke →](../eke/full#sub-2-6-2)
 
 #### 2.6.2 ಕನ್ನಡ ಸ್ವರಗಳ ಪಟ್ಟಿ
 
@@ -1840,7 +1840,7 @@ C, D
 
 <a id="sub-2-6-3"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-2-6-3)
+[Eke →](../eke/full#sub-2-6-3)
 
 #### 2.6.3 ವ್ಯಂಜನಗಳ ಪಟ್ಟಿ
 
@@ -1878,7 +1878,7 @@ t
 
 <a id="sec-2-7"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-2-7)
+[Eke →](../eke/full#sec-2-7)
 
 ### 2.7 ತಿರುಳು
 
@@ -1909,13 +1909,13 @@ t
 
 <a id="adhyAya-3"></a>
 
-[English →](./28-kannaDakke-bEku-en#chapter-3--word-classes) | [Eke →](./28-kannaDakke-bEku-kn-eke#adhyAya-3)
+[English →](../en/summary#chapter-3--word-classes) | [Eke →](../eke/full#adhyAya-3)
 
 ## 3. ಪದವಗ್ರಗಳು
 
 <a id="sec-3-1"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-3-1)
+[Eke →](../eke/full#sec-3-1)
 
 ### 3.1 ಮುನ್ನೋಟ
 
@@ -1964,7 +1964,7 @@ t
 
 <a id="sec-3-2"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-3-2)
+[Eke →](../eke/full#sec-3-2)
 
 ### 3.2 ನಾಮಪದಗಳು ಮತ್ತು ಗುಣಪದಗಳು
 
@@ -2020,7 +2020,7 @@ t
 
 <a id="sub-3-2-1"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-3-2-1)
+[Eke →](../eke/full#sub-3-2-1)
 
 #### 3.2.1 ವಿಶೇಷಣಗಳಾಗಿ ಗುಣಪದಗಳ ಬಳಕೆ
 
@@ -2083,7 +2083,7 @@ t
 
 <a id="sub-3-2-2"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-3-2-2)
+[Eke →](../eke/full#sub-3-2-2)
 
 #### 3.2.2 ವಿಶೇಷಣಗಳಾಗಿ ನಾಮಪದಗಳ ಬಳಕೆ
 
@@ -2134,7 +2134,7 @@ t
 
 <a id="sub-3-2-3"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-3-2-3)
+[Eke →](../eke/full#sub-3-2-3)
 
 #### 3.2.3 ವಿಶೇಷಣ ಮತ್ತು ವಿಶೇಷ್ಯಗಳ ಜಾಗ
 
@@ -2182,7 +2182,7 @@ t
 
 <a id="sub-3-2-4"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-3-2-4)
+[Eke →](../eke/full#sub-3-2-4)
 
 #### 3.2.4 ಪದಕಂತೆ ಮತ್ತು ಜೋಡುಪದಗಳಲ್ಲಿ ಗುಣಪದಗಳು
 
@@ -2237,7 +2237,7 @@ t
 
 <a id="sub-3-2-5"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-3-2-5)
+[Eke →](../eke/full#sub-3-2-5)
 
 #### 3.2.5 ನಾಮಪದಗಳಾಗಿ ಗುಣಪದಗಳ ಬಳಕೆ
 
@@ -2332,7 +2332,7 @@ t
 
 <a id="sub-3-2-6"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-3-2-6)
+[Eke →](../eke/full#sub-3-2-6)
 
 #### 3.2.6 ಗುಣಪದಗಳ ಜಾಗ
 
@@ -2443,7 +2443,7 @@ t
 
 <a id="sub-3-2-7"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-3-2-7)
+[Eke →](../eke/full#sub-3-2-7)
 
 #### 3.2.7 ತಾರತಮ್ಯ ಸೂಚನೆ
 
@@ -2509,7 +2509,7 @@ t
 
 <a id="sub-3-2-8"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-3-2-8)
+[Eke →](../eke/full#sub-3-2-8)
 
 #### 3.2.8 ಕೃದಂತಗಳ ಬಳಕೆ
 
@@ -2581,7 +2581,7 @@ t
 
 <a id="sec-3-3"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-3-3)
+[Eke →](../eke/full#sec-3-3)
 
 ### 3.3 ಜೋಡುಪದಗಳ ರಚನೆ
 
@@ -2638,7 +2638,7 @@ t
 
 <a id="sec-3-4"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-3-4)
+[Eke →](../eke/full#sec-3-4)
 
 ### 3.4 ಪದಕಂತೆಗಳನ್ನು ತಯಾರಿಸಲು ಎರಡು ವಿಧಾನಗಳು
 
@@ -2722,7 +2722,7 @@ t
 
 <a id="sec-3-5"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-3-5)
+[Eke →](../eke/full#sec-3-5)
 
 ### 3.5 ಭಾಷೆಗಳ ನಡುವಿನ ವೈವಿಧ್ಯ
 
@@ -2817,7 +2817,7 @@ t
 
 <a id="sec-3-6"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-3-6)
+[Eke →](../eke/full#sec-3-6)
 
 ### 3.6 ಬೇರೆ ಪದವಗ್ರಗಳು
 
@@ -2843,7 +2843,7 @@ t
 
 <a id="sec-3-7"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-3-7)
+[Eke →](../eke/full#sec-3-7)
 
 ### 3.7 ತತ್ಸಮ ಮತ್ತು ತದ್ಭವ ಪದಗಳು
 
@@ -2901,7 +2901,7 @@ t
 
 <a id="sec-3-8"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-3-8)
+[Eke →](../eke/full#sec-3-8)
 
 ### 3.8 ತಿರುಳು
 
@@ -2925,13 +2925,13 @@ t
 
 <a id="adhyAya-4"></a>
 
-[English →](./28-kannaDakke-bEku-en#chapter-4--internal-structure-of-words) | [Eke →](./28-kannaDakke-bEku-kn-eke#adhyAya-4)
+[English →](../en/summary#chapter-4--internal-structure-of-words) | [Eke →](../eke/full#adhyAya-4)
 
 ## 4. ಪದಗಳ ಒಳರಚನೆ
 
 <a id="sec-4-1"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-4-1)
+[Eke →](../eke/full#sec-4-1)
 
 ### 4.1 ಮುನ್ನೋಟ
 
@@ -2989,7 +2989,7 @@ t
 
 <a id="sub-4-1-1"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-4-1-1)
+[Eke →](../eke/full#sub-4-1-1)
 
 #### 4.1.1 ಹೆಸರಿಸುವುದು ಮತ್ತು ವರ್ಣಿಸುವುದು
 
@@ -3109,7 +3109,7 @@ t
 
 <a id="sub-4-1-2"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-4-1-2)
+[Eke →](../eke/full#sub-4-1-2)
 
 #### 4.1.2 ಜೋಡುಪದಗಳು ಮತ್ತು ಪದಕಂತೆಗಳು
 
@@ -3183,7 +3183,7 @@ t
 
 <a id="sec-4-2"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-4-2)
+[Eke →](../eke/full#sec-4-2)
 
 ### 4.2 ಕೃತ್ ಮತ್ತು ತದ್ಧಿತ ಪ್ರತ್ಯಯಗಳು
 
@@ -3346,7 +3346,7 @@ f
 
 <a id="sec-4-3"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-4-3)
+[Eke →](../eke/full#sec-4-3)
 
 ### 4.3 ಪದದ ಮೊದಲು ಮತ್ತು ಅನಂತರ ಬರುವ ಪ್ರತ್ಯಯಗಳು
 
@@ -3383,7 +3383,7 @@ f
 
 <a id="sec-4-4"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-4-4)
+[Eke →](../eke/full#sec-4-4)
 
 ### 4.4 ನಾಮಪದಗಳ ರಚನೆ
 
@@ -3440,7 +3440,7 @@ f
 
 <a id="sec-4-5"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-4-5)
+[Eke →](../eke/full#sec-4-5)
 
 ### 4.5 ಇಕೆ-ಇಗೆ ಪ್ರತ್ಯಯ
 
@@ -3637,7 +3637,7 @@ f
 
 <a id="sec-4-6"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-4-6)
+[Eke →](../eke/full#sec-4-6)
 
 ### 4.6 ಕ್ರಿಯಾಪದಗಳ ರಚನೆ
 
@@ -3715,7 +3715,7 @@ f
 
 <a id="sec-4-7"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-4-7)
+[Eke →](../eke/full#sec-4-7)
 
 ### 4.7 ಗುಣಪದಗಳ ರಚನೆ
 
@@ -3771,7 +3771,7 @@ f
 
 <a id="sec-4-8"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-4-8)
+[Eke →](../eke/full#sec-4-8)
 
 ### 4.8 ತಿರುಳು
 
@@ -3791,13 +3791,13 @@ f
 
 <a id="adhyAya-5"></a>
 
-[English →](./28-kannaDakke-bEku-en#chapter-5--compounds) | [Eke →](./28-kannaDakke-bEku-kn-eke#adhyAya-5)
+[English →](../en/summary#chapter-5--compounds) | [Eke →](../eke/full#adhyAya-5)
 
 ## 5. ಸಮಾಸಗಳು
 
 <a id="sec-5-1"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-5-1)
+[Eke →](../eke/full#sec-5-1)
 
 ### 5.1 ಮುನ್ನೋಟ
 
@@ -3835,7 +3835,7 @@ f
 
 <a id="sec-5-2"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-5-2)
+[Eke →](../eke/full#sec-5-2)
 
 ### 5.2 ಜೋಡುಪದಗಳು ಮತ್ತು ಪದಕಂತೆಗಳು
 
@@ -3930,7 +3930,7 @@ f
 
 <a id="sec-5-3"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-5-3)
+[Eke →](../eke/full#sec-5-3)
 
 ### 5.3 ಸಂಸ್ಕೃತ ಮತ್ತು ಕನ್ನಡ ಭಾಷೆಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸ
 
@@ -3943,7 +3943,7 @@ f
 
 <a id="sub-5-3-1"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-5-3-1)
+[Eke →](../eke/full#sub-5-3-1)
 
 #### 5.3.1 ಸಂಸ್ಕೃತದ ಜೋಡುಪದಗಳು
 
@@ -4014,7 +4014,7 @@ f
 
 <a id="sub-5-3-2"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-5-3-2)
+[Eke →](../eke/full#sub-5-3-2)
 
 #### 5.3.2 ಪದಕಂತೆಗಳಲ್ಲಿ ಗುಣಪದಗಳ ಬಳಕೆ
 
@@ -4085,7 +4085,7 @@ f
 
 <a id="sub-5-3-3"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-5-3-3)
+[Eke →](../eke/full#sub-5-3-3)
 
 #### 5.3.3 ಕೃದಂತಗಳ ಬಳಕೆ
 
@@ -4136,7 +4136,7 @@ f
 
 <a id="sub-5-3-4"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-5-3-4)
+[Eke →](../eke/full#sub-5-3-4)
 
 #### 5.3.4 ನಿರ್ದೇಶಕ ಪದಗಳ ಬಳಕೆ
 
@@ -4201,7 +4201,7 @@ f
 
 <a id="sub-5-3-5"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-5-3-5)
+[Eke →](../eke/full#sub-5-3-5)
 
 #### 5.3.5 ದ್ವಿತೀಯಾ ವಿಭಕ್ತಿಯ ಬಳಕೆ
 
@@ -4229,7 +4229,7 @@ f
 
 <a id="sub-5-3-6"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-5-3-6)
+[Eke →](../eke/full#sub-5-3-6)
 
 #### 5.3.6 ನಾಮಪದಗಳ ಬಳಕೆ
 
@@ -4278,7 +4278,7 @@ f
 
 <a id="sub-5-3-7"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-5-3-7)
+[Eke →](../eke/full#sub-5-3-7)
 
 #### 5.3.7 ಪದಗಳ ಸಂಖ್ಯೆ
 
@@ -4298,7 +4298,7 @@ f
 
 <a id="sub-5-3-8"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-5-3-8)
+[Eke →](../eke/full#sub-5-3-8)
 
 #### 5.3.8 ಜೋಡುಪದಗಳ ಅರ್ಥ
 
@@ -4321,7 +4321,7 @@ f
 
 <a id="sec-5-4"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-5-4)
+[Eke →](../eke/full#sec-5-4)
 
 ### 5.4 ಸಂಸ್ಕೃತ ಸಮಾಸಗಳ ವಿಭಜನೆ
 
@@ -4389,7 +4389,7 @@ f
 
 <a id="sec-5-5"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-5-5)
+[Eke →](../eke/full#sec-5-5)
 
 ### 5.5 ಕನ್ನಡ ಜೋಡುಪದಗಳ ಒಳರಚನೆ
 
@@ -4416,7 +4416,7 @@ f
 
 <a id="sub-5-5-1"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-5-5-1)
+[Eke →](../eke/full#sub-5-5-1)
 
 #### 5.5.1 ನಾಮಪದವಿರುವ ಜೋಡುಪದಗಳು
 
@@ -4502,7 +4502,7 @@ f
 
 <a id="sub-5-5-2"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-5-5-2)
+[Eke →](../eke/full#sub-5-5-2)
 
 #### 5.5.2 ಕ್ರಿಯಾಪದವಿರುವ ಜೋಡುಪದಗಳು
 
@@ -4535,7 +4535,7 @@ f
 
 <a id="sub-5-5-3"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-5-5-3)
+[Eke →](../eke/full#sub-5-5-3)
 
 #### 5.5.3 ಗುಣಪದವಿರುವ ಜೋಡುಪದಗಳು
 
@@ -4619,7 +4619,7 @@ f
 
 <a id="sub-5-5-4"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-5-5-4)
+[Eke →](../eke/full#sub-5-5-4)
 
 #### 5.5.4 ಕೆಲವು ಅಪವಾದಗಳು
 
@@ -4653,7 +4653,7 @@ f
 
 <a id="sec-5-6"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-5-6)
+[Eke →](../eke/full#sec-5-6)
 
 ### 5.6 ಸಂಸ್ಕೃತದ ಸಮಾಸಗಳು ಕನ್ನಡದಲ್ಲಿವೆಯೇ?
 
@@ -4680,7 +4680,7 @@ f
 
 <a id="sub-5-6-1"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-5-6-1)
+[Eke →](../eke/full#sub-5-6-1)
 
 #### 5.6.1 ವಿಭಜನೆಯ ಆಧಾರ
 
@@ -4803,7 +4803,7 @@ f
 
 <a id="sub-5-6-2"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-5-6-2)
+[Eke →](../eke/full#sub-5-6-2)
 
 #### 5.6.2 ಒಳನುಡಿಗಳ ಬಳಕೆ
 
@@ -4858,7 +4858,7 @@ f
 
 <a id="sec-5-7"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-5-7)
+[Eke →](../eke/full#sec-5-7)
 
 ### 5.7 ಕನ್ನಡ ವೈಯಾಕರಣಿಗಳು ಹೇಳುವ ಸಮಾಸಗಳು
 
@@ -4886,7 +4886,7 @@ f
 
 <a id="sub-5-7-1"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-5-7-1)
+[Eke →](../eke/full#sub-5-7-1)
 
 #### 5.7.1 ತತ್ಪುರುಷ
 
@@ -4920,7 +4920,7 @@ f
 
 <a id="sub-5-7-2"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-5-7-2)
+[Eke →](../eke/full#sub-5-7-2)
 
 #### 5.7.2 ಕರ್ಮಧಾರಯ
 
@@ -4975,7 +4975,7 @@ f
 
 <a id="sub-5-7-3"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-5-7-3)
+[Eke →](../eke/full#sub-5-7-3)
 
 #### 5.7.3 ದ್ವಿಗು
 
@@ -5006,7 +5006,7 @@ f
 
 <a id="sub-5-7-4"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-5-7-4)
+[Eke →](../eke/full#sub-5-7-4)
 
 #### 5.7.4 ಅವ್ಯಯೀಭಾವ
 
@@ -5077,7 +5077,7 @@ f
 
 <a id="sub-5-7-5"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-5-7-5)
+[Eke →](../eke/full#sub-5-7-5)
 
 #### 5.7.5 ದ್ವಂದ್ವ
 
@@ -5097,7 +5097,7 @@ f
 
 <a id="sub-5-7-6"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-5-7-6)
+[Eke →](../eke/full#sub-5-7-6)
 
 #### 5.7.6 ಬಹುವ್ರೀಹಿ
 
@@ -5187,7 +5187,7 @@ f
 
 <a id="sub-5-7-7"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-5-7-7)
+[Eke →](../eke/full#sub-5-7-7)
 
 #### 5.7.7 ಕ್ರಿಯಾಸಮಾಸ
 
@@ -5211,7 +5211,7 @@ f
 
 <a id="sub-5-7-8"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-5-7-8)
+[Eke →](../eke/full#sub-5-7-8)
 
 #### 5.7.8 ಗಮಕ ಸಮಾಸ
 
@@ -5235,7 +5235,7 @@ f
 
 <a id="sec-5-8"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-5-8)
+[Eke →](../eke/full#sec-5-8)
 
 ### 5.8 ಸಂಸ್ಕೃತದಿಂದ ಎರವಲಾಗಿ ಬಂದ ಜೋಡುಪದಗಳು
 
@@ -5249,7 +5249,7 @@ f
 
 <a id="sub-5-8-1"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-5-8-1)
+[Eke →](../eke/full#sub-5-8-1)
 
 #### 5.8.1 ಜೋಡುಪದಗಳ ಒಳನುಡಿಗಳು
 
@@ -5285,7 +5285,7 @@ f
 
 <a id="sub-5-8-2"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-5-8-2)
+[Eke →](../eke/full#sub-5-8-2)
 
 #### 5.8.2 ವಿಭಜನೆ
 
@@ -5353,7 +5353,7 @@ f
 
 <a id="sec-5-9"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-5-9)
+[Eke →](../eke/full#sec-5-9)
 
 ### 5.9 ತಿರುಳು
 
@@ -5384,13 +5384,13 @@ f
 
 <a id="adhyAya-6"></a>
 
-[English →](./28-kannaDakke-bEku-en#chapter-6--gender-and-number) | [Eke →](./28-kannaDakke-bEku-kn-eke#adhyAya-6)
+[English →](../en/summary#chapter-6--gender-and-number) | [Eke →](../eke/full#adhyAya-6)
 
 ## 6. ಲಿಂಗ ಮತ್ತು ವಚನಗಳು
 
 <a id="sec-6-1"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-6-1)
+[Eke →](../eke/full#sec-6-1)
 
 ### 6.1 ಮುನ್ನೋಟ
 
@@ -5449,13 +5449,13 @@ f
 
 <a id="sec-6-2"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-6-2)
+[Eke →](../eke/full#sec-6-2)
 
 ### 6.2 ಲಿಂಗಭೇದಗಳು
 
 <a id="sub-6-2-1"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-6-2-1)
+[Eke →](../eke/full#sub-6-2-1)
 
 #### 6.2.1 ‘ಲಿಂಗ’ ಪದದ ಬಳಕೆ
 
@@ -5480,7 +5480,7 @@ f
 
 <a id="sub-6-2-2"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-6-2-2)
+[Eke →](../eke/full#sub-6-2-2)
 
 #### 6.2.2 ಕನ್ನಡದಲ್ಲಿ ಲಿಂಗವಿಭಜನೆ
 
@@ -5541,7 +5541,7 @@ f
 
 <a id="sub-6-2-3"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-6-2-3)
+[Eke →](../eke/full#sub-6-2-3)
 
 #### 6.2.3 ಸಂಸ್ಕೃತದ ಲಿಂಗ ವಿಭಜನೆ
 
@@ -5658,7 +5658,7 @@ f
 
 <a id="sub-6-2-4"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-6-2-4)
+[Eke →](../eke/full#sub-6-2-4)
 
 #### 6.2.4 ಭಾಷೆಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸಗಳು
 
@@ -5696,7 +5696,7 @@ f
 
 <a id="sub-6-2-5"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-6-2-5)
+[Eke →](../eke/full#sub-6-2-5)
 
 #### 6.2.5 ಎಣಿಕೆಯ ಪದಗಳಲ್ಲಿ ಲಿಂಗಭೇದ
 
@@ -5716,7 +5716,7 @@ f
 
 <a id="sec-6-3"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-6-3)
+[Eke →](../eke/full#sec-6-3)
 
 ### 6.3 ವಚನಭೇದಗಳು
 
@@ -5733,7 +5733,7 @@ f
 
 <a id="sub-6-3-1"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-6-3-1)
+[Eke →](../eke/full#sub-6-3-1)
 
 #### 6.3.1 ವಚನಗಳ ಸಂಖ್ಯೆ
 
@@ -5777,7 +5777,7 @@ f
 
 <a id="sub-6-3-2"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-6-3-2)
+[Eke →](../eke/full#sub-6-3-2)
 
 #### 6.3.2 ವಚನ ಮತ್ತು ವಿಭಕ್ತಿ
 
@@ -5802,7 +5802,7 @@ f
 
 <a id="sub-6-3-3"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-6-3-3)
+[Eke →](../eke/full#sub-6-3-3)
 
 #### 6.3.3 ಏಕವಚನದ ಸೂಚನೆ
 
@@ -5826,7 +5826,7 @@ f
 
 <a id="sub-6-3-4"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-6-3-4)
+[Eke →](../eke/full#sub-6-3-4)
 
 #### 6.3.4 ವಚನವನ್ನು ಸೂಚಿಸದಿರುವುದು
 
@@ -5868,7 +5868,7 @@ f
 
 <a id="sec-6-4"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-6-4)
+[Eke →](../eke/full#sec-6-4)
 
 ### 6.4 ತಿರುಳು
 
@@ -5896,13 +5896,13 @@ f
 
 <a id="adhyAya-7"></a>
 
-[English →](./28-kannaDakke-bEku-en#chapter-7--case-markers-and-karaka) | [Eke →](./28-kannaDakke-bEku-kn-eke#adhyAya-7)
+[English →](../en/summary#chapter-7--case-markers-and-karaka) | [Eke →](../eke/full#adhyAya-7)
 
 ## 7. ವಿಭಕ್ತಿಗಳು ಮತ್ತು ಕಾರಕಗಳು
 
 <a id="sec-7-1"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-7-1)
+[Eke →](../eke/full#sec-7-1)
 
 ### 7.1 ಮುನ್ನೋಟ
 
@@ -5972,7 +5972,7 @@ f
 
 <a id="sec-7-2"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-7-2)
+[Eke →](../eke/full#sec-7-2)
 
 ### 7.2 ವಿಭಕ್ತಿಗಳ ಕೆಲಸ
 
@@ -6034,7 +6034,7 @@ f
 
 <a id="sec-7-3"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-7-3)
+[Eke →](../eke/full#sec-7-3)
 
 ### 7.3 ಕಾರಕಗಳ ಕೆಲಸ
 
@@ -6060,7 +6060,7 @@ f
 
 <a id="sub-7-3-1"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-7-3-1)
+[Eke →](../eke/full#sub-7-3-1)
 
 #### 7.3.1 ಒಂದು ವಿಭಕ್ತಿಗೆ ಹಲವು ಅರ್ಥಗಳು
 
@@ -6095,7 +6095,7 @@ f
 
 <a id="sub-7-3-2"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-7-3-2)
+[Eke →](../eke/full#sub-7-3-2)
 
 #### 7.3.2 ಒಂದೇ ಅರ್ಥಕ್ಕೆ ಹಲವು ವಿಭಕ್ತಿಗಳು
 
@@ -6147,7 +6147,7 @@ f
 
 <a id="sub-7-3-3"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-7-3-3)
+[Eke →](../eke/full#sub-7-3-3)
 
 #### 7.3.3 ಬೇರೆ ಕಾರಣಗಳು
 
@@ -6164,7 +6164,7 @@ f
 
 <a id="sub-7-3-4"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-7-3-4)
+[Eke →](../eke/full#sub-7-3-4)
 
 #### 7.3.4 ಕಾರಕಗಳ ಮೂಲಕ ಸಂಬಂಧಿಸುವುದು
 
@@ -6247,7 +6247,7 @@ f
 
 <a id="sec-7-4"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-7-4)
+[Eke →](../eke/full#sec-7-4)
 
 ### 7.4 ಪಾಶ್ಚಾತ್ಯ ವ್ಯಾಕರಣಗಳಲ್ಲಿ ಕಲ್ಪಿತ ತತ್ವ
 
@@ -6298,7 +6298,7 @@ The garden is swarming with bees
 
 <a id="sec-7-5"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-7-5)
+[Eke →](../eke/full#sec-7-5)
 
 ### 7.5 ಕನ್ನಡಕ್ಕೆ ಕಾರಕಗಳು ಬೇಕಾಗಿಲ್ಲದಿರುವುದು
 
@@ -6316,7 +6316,7 @@ The garden is swarming with bees
 
 <a id="sub-7-5-1"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-7-5-1)
+[Eke →](../eke/full#sub-7-5-1)
 
 #### 7.5.1 ಎರಡು ರೀತಿಯ ಸಂಬಂಧಗಳು
 
@@ -6404,7 +6404,7 @@ heಡಿ ಎಂಬುದು she ಎಂದಾಗಿದೆ. ಆದರೆ ಕನ್
 
 <a id="sub-7-5-2"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-7-5-2)
+[Eke →](../eke/full#sub-7-5-2)
 
 #### 7.5.2 ಕನ್ನಡ ವಾಕ್ಯಗಳಲ್ಲಿ ಸಬ್ಜೆಕ್್ಟ ಎಂಬ ತತ್ವ
 
@@ -6488,7 +6488,7 @@ heಡಿ ಎಂಬುದು she ಎಂದಾಗಿದೆ. ಆದರೆ ಕನ್
 
 <a id="sub-7-5-3"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-7-5-3)
+[Eke →](../eke/full#sub-7-5-3)
 
 #### 7.5.3 ಎರಡು ವ್ಯವಸ್ಥೆಗಳು
 
@@ -6571,7 +6571,7 @@ heಡಿ ಎಂಬುದು she ಎಂದಾಗಿದೆ. ಆದರೆ ಕನ್
 
 <a id="sub-7-5-4"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-7-5-4)
+[Eke →](../eke/full#sub-7-5-4)
 
 #### 7.5.4 ಕನ್ನಡದ ವೈಶಿಷ್ಟ್ಯ
 
@@ -6613,7 +6613,7 @@ heಡಿ ಎಂಬುದು she ಎಂದಾಗಿದೆ. ಆದರೆ ಕನ್
 
 <a id="sub-7-5-5"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-7-5-5)
+[Eke →](../eke/full#sub-7-5-5)
 
 #### 7.5.5 ಎರಡು ರೀತಿಯ ವ್ಯಾಕರಣ ಕಾರ್ಯಗಳು
 
@@ -6726,7 +6726,7 @@ heಡಿ ಎಂಬುದು she ಎಂದಾಗಿದೆ. ಆದರೆ ಕನ್
 
 <a id="sec-7-6"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-7-6)
+[Eke →](../eke/full#sec-7-6)
 
 ### 7.6 ತಿರುಳು
 
@@ -6754,13 +6754,13 @@ heಡಿ ಎಂಬುದು she ಎಂದಾಗಿದೆ. ಆದರೆ ಕನ್
 
 <a id="adhyAya-8"></a>
 
-[English →](./28-kannaDakke-bEku-en#chapter-8--case-suffixes) | [Eke →](./28-kannaDakke-bEku-kn-eke#adhyAya-8)
+[English →](../en/summary#chapter-8--case-suffixes) | [Eke →](../eke/full#adhyAya-8)
 
 ## 8. ವಿಭಕ್ತಿಗಳು
 
 <a id="sec-8-1"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-8-1)
+[Eke →](../eke/full#sec-8-1)
 
 ### 8.1 ಮುನ್ನೋಟ
 
@@ -6785,7 +6785,7 @@ heಡಿ ಎಂಬುದು she ಎಂದಾಗಿದೆ. ಆದರೆ ಕನ್
 
 <a id="sec-8-2"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-8-2)
+[Eke →](../eke/full#sec-8-2)
 
 ### 8.2 ವಿಭಕ್ತಿಗಳ ಹೆಸರು
 
@@ -6895,7 +6895,7 @@ heಡಿ ಎಂಬುದು she ಎಂದಾಗಿದೆ. ಆದರೆ ಕನ್
 
 <a id="sec-8-3"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-8-3)
+[Eke →](../eke/full#sec-8-3)
 
 ### 8.3 ವಿಭಕ್ತಿ, ಲಿಂಗ ಮತ್ತು ವಚನ
 
@@ -7000,7 +7000,7 @@ heಡಿ ಎಂಬುದು she ಎಂದಾಗಿದೆ. ಆದರೆ ಕನ್
 
 <a id="sec-8-4"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-8-4)
+[Eke →](../eke/full#sec-8-4)
 
 ### 8.4 ಪ್ರತ್ಯಯಗಳ ಅವಶ್ಯಕತೆ
 
@@ -7136,7 +7136,7 @@ heಡಿ ಎಂಬುದು she ಎಂದಾಗಿದೆ. ಆದರೆ ಕನ್
 
 <a id="sec-8-5"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-8-5)
+[Eke →](../eke/full#sec-8-5)
 
 ### 8.5 ಪ್ರತ್ಯಯಗಳ ಸಂಖ್ಯೆ
 
@@ -7217,7 +7217,7 @@ heಡಿ ಎಂಬುದು she ಎಂದಾಗಿದೆ. ಆದರೆ ಕನ್
 
 <a id="sub-8-5-1"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-8-5-1)
+[Eke →](../eke/full#sub-8-5-1)
 
 #### 8.5.1 ಪ್ರಥಮಾ ವಿಭಕ್ತಿ
 
@@ -7266,7 +7266,7 @@ heಡಿ ಎಂಬುದು she ಎಂದಾಗಿದೆ. ಆದರೆ ಕನ್
 
 <a id="sub-8-5-2"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-8-5-2)
+[Eke →](../eke/full#sub-8-5-2)
 
 #### 8.5.2 ದ್ವಿತೀಯಾ ವಿಭಕ್ತಿ
 
@@ -7346,7 +7346,7 @@ heಡಿ ಎಂಬುದು she ಎಂದಾಗಿದೆ. ಆದರೆ ಕನ್
 
 <a id="sub-8-5-3"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-8-5-3)
+[Eke →](../eke/full#sub-8-5-3)
 
 #### 8.5.3 ತೃತೀಯಾ ಮತ್ತು ಪಂಚಮೀ ವಿಭಕ್ತಿಗಳು
 
@@ -7439,7 +7439,7 @@ heಡಿ ಎಂಬುದು she ಎಂದಾಗಿದೆ. ಆದರೆ ಕನ್
 
 <a id="sub-8-5-4"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-8-5-4)
+[Eke →](../eke/full#sub-8-5-4)
 
 #### 8.5.4 ಚತುರ್ಥೀ ವಿಭಕ್ತಿ
 
@@ -7476,7 +7476,7 @@ heಡಿ ಎಂಬುದು she ಎಂದಾಗಿದೆ. ಆದರೆ ಕನ್
 
 <a id="sub-8-5-5"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-8-5-5)
+[Eke →](../eke/full#sub-8-5-5)
 
 #### 8.5.5 ಷಷ್ಠೀ ವಿಭಕ್ತಿ
 
@@ -7611,7 +7611,7 @@ heಡಿ ಎಂಬುದು she ಎಂದಾಗಿದೆ. ಆದರೆ ಕನ್
 
 <a id="sub-8-5-6"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-8-5-6)
+[Eke →](../eke/full#sub-8-5-6)
 
 #### 8.5.6 ಸಪ್ತಮೀ ವಿಭಕ್ತಿ
 
@@ -7687,7 +7687,7 @@ heಡಿ ಎಂಬುದು she ಎಂದಾಗಿದೆ. ಆದರೆ ಕನ್
 
 <a id="sec-8-6"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-8-6)
+[Eke →](../eke/full#sec-8-6)
 
 ### 8.6 ತಿರುಳು
 
@@ -7718,13 +7718,13 @@ heಡಿ ಎಂಬುದು she ಎಂದಾಗಿದೆ. ಆದರೆ ಕನ್
 
 <a id="adhyAya-9"></a>
 
-[English →](./28-kannaDakke-bEku-en#chapter-9--case-alternation) | [Eke →](./28-kannaDakke-bEku-kn-eke#adhyAya-9)
+[English →](../en/summary#chapter-9--case-alternation) | [Eke →](../eke/full#adhyAya-9)
 
 ## 9. ವಿಭಕ್ತಿಪಲ್ಲಟ
 
 <a id="sec-9-1"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-9-1)
+[Eke →](../eke/full#sec-9-1)
 
 ### 9.1 ಮುನ್ನೋಟ
 
@@ -7765,7 +7765,7 @@ heಡಿ ಎಂಬುದು she ಎಂದಾಗಿದೆ. ಆದರೆ ಕನ್
 
 <a id="sec-9-2"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-9-2)
+[Eke →](../eke/full#sec-9-2)
 
 ### 9.2 ಕ್ರಿಯಾಪದದಲ್ಲಿ ಬದಲಾವಣೆಯಾಗದೆ ವಿಭಕ್ತಿಪಲ್ಲಟ
 
@@ -7809,7 +7809,7 @@ heಡಿ ಎಂಬುದು she ಎಂದಾಗಿದೆ. ಆದರೆ ಕನ್
 
 <a id="sub-9-2-1"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-9-2-1)
+[Eke →](../eke/full#sub-9-2-1)
 
 #### 9.2.1 ಸಮಗ್ರತೆ
 
@@ -7914,7 +7914,7 @@ heಡಿ ಎಂಬುದು she ಎಂದಾಗಿದೆ. ಆದರೆ ಕನ್
 
 <a id="sub-9-2-2"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-9-2-2)
+[Eke →](../eke/full#sub-9-2-2)
 
 #### 9.2.2 ಸ್ವೇಚ್ಛಾಪ್ರವೃತ್ತಿ
 
@@ -7959,7 +7959,7 @@ heಡಿ ಎಂಬುದು she ಎಂದಾಗಿದೆ. ಆದರೆ ಕನ್
 
 <a id="sub-9-2-3"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-9-2-3)
+[Eke →](../eke/full#sub-9-2-3)
 
 #### 9.2.3 ಸಾನ್ನಿಧ್ಯ
 
@@ -7995,7 +7995,7 @@ heಡಿ ಎಂಬುದು she ಎಂದಾಗಿದೆ. ಆದರೆ ಕನ್
 
 <a id="sub-9-2-4"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-9-2-4)
+[Eke →](../eke/full#sub-9-2-4)
 
 #### 9.2.4 ಬೇರೆ ಅರ್ಥಗಳು
 
@@ -8019,7 +8019,7 @@ heಡಿ ಎಂಬುದು she ಎಂದಾಗಿದೆ. ಆದರೆ ಕನ್
 
 <a id="sec-9-3"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-9-3)
+[Eke →](../eke/full#sec-9-3)
 
 ### 9.3 ಸಂಸ್ಕೃತದಲ್ಲಿ ವಿಭಕ್ತಿಪಲ್ಲಟ
 
@@ -8090,7 +8090,7 @@ heಡಿ ಎಂಬುದು she ಎಂದಾಗಿದೆ. ಆದರೆ ಕನ್
 
 <a id="sec-9-4"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-9-4)
+[Eke →](../eke/full#sec-9-4)
 
 ### 9.4 ಕ್ರಿಯಾಪದದಲ್ಲಿ ಬದಲಾವಣೆ
 
@@ -8194,7 +8194,7 @@ heಡಿ ಎಂಬುದು she ಎಂದಾಗಿದೆ. ಆದರೆ ಕನ್
 
 <a id="sec-9-5"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-9-5)
+[Eke →](../eke/full#sec-9-5)
 
 ### 9.5 ತಿರುಳು
 
@@ -8220,13 +8220,13 @@ heಡಿ ಎಂಬುದು she ಎಂದಾಗಿದೆ. ಆದರೆ ಕನ್
 
 <a id="adhyAya-10"></a>
 
-[English →](./28-kannaDakke-bEku-en#chapter-10--pronouns-and-numerals) | [Eke →](./28-kannaDakke-bEku-kn-eke#adhyAya-10)
+[English →](../en/summary#chapter-10--pronouns-and-numerals) | [Eke →](../eke/full#adhyAya-10)
 
 ## 10. ಸವ್ರನಾಮಗಳು ಮತ್ತು ಎಣಿಕೆಯ ಪದಗಳು
 
 <a id="sec-10-1"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-10-1)
+[Eke →](../eke/full#sec-10-1)
 
 ### 10.1 ಮುನ್ನೋಟ
 
@@ -8249,7 +8249,7 @@ heಡಿ ಎಂಬುದು she ಎಂದಾಗಿದೆ. ಆದರೆ ಕನ್
 
 <a id="sec-10-2"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-10-2)
+[Eke →](../eke/full#sec-10-2)
 
 ### 10.2 ಸವ್ರನಾಮಗಳು
 
@@ -8269,7 +8269,7 @@ heಡಿ ಎಂಬುದು she ಎಂದಾಗಿದೆ. ಆದರೆ ಕನ್
 
 <a id="sub-10-2-1"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-10-2-1)
+[Eke →](../eke/full#sub-10-2-1)
 
 #### 10.2.1 ಪುರುಷಪದಗಳು ಮತ್ತು ಸವ್ರಪದಗಳು
 
@@ -8342,7 +8342,7 @@ heಡಿ ಎಂಬುದು she ಎಂದಾಗಿದೆ. ಆದರೆ ಕನ್
 
 <a id="sub-10-2-2"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-10-2-2)
+[Eke →](../eke/full#sub-10-2-2)
 
 #### 10.2.2 ಸವ್ರಪದಗಳ ಸ್ವರೂಪ
 
@@ -8431,7 +8431,7 @@ F
 
 <a id="sub-10-2-3"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-10-2-3)
+[Eke →](../eke/full#sub-10-2-3)
 
 #### 10.2.3 ಸಂಸ್ಕೃತದ ಸವ್ರನಾಮಗಳು
 
@@ -8503,7 +8503,7 @@ F
 
 <a id="sub-10-2-4"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-10-2-4)
+[Eke →](../eke/full#sub-10-2-4)
 
 #### 10.2.4 ಸಂಸ್ಕೃತದ ‘ಸವ್ರಾದಿ’ ಪದಗಳು
 
@@ -8550,7 +8550,7 @@ F
 
 <a id="sec-10-3"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-10-3)
+[Eke →](../eke/full#sec-10-3)
 
 ### 10.3 ಎಣಿಕೆಯ ಪದಗಳು
 
@@ -8568,7 +8568,7 @@ F
 
 <a id="sub-10-3-1"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-10-3-1)
+[Eke →](../eke/full#sub-10-3-1)
 
 #### 10.3.1 ಬಳಕೆಯಲ್ಲಿ ವ್ಯತ್ಯಾಸ
 
@@ -8647,7 +8647,7 @@ F
 
 <a id="sub-10-3-2"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-10-3-2)
+[Eke →](../eke/full#sub-10-3-2)
 
 #### 10.3.2 ಒಳರಚನೆಯಲ್ಲಿ ವ್ಯತ್ಯಾಸ
 
@@ -8734,7 +8734,7 @@ F
 
 <a id="sec-10-4"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-10-4)
+[Eke →](../eke/full#sec-10-4)
 
 ### 10.4 ತಿರುಳು
 
@@ -8752,13 +8752,13 @@ F
 
 <a id="adhyAya-11"></a>
 
-[English →](./28-kannaDakke-bEku-en#chapter-11--verb-forms) | [Eke →](./28-kannaDakke-bEku-kn-eke#adhyAya-11)
+[English →](../en/summary#chapter-11--verb-forms) | [Eke →](../eke/full#adhyAya-11)
 
 ## 11. ಕ್ರಿಯಾರೂಪಗಳು
 
 <a id="sec-11-1"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-11-1)
+[Eke →](../eke/full#sec-11-1)
 
 ### 11.1 ಮುನ್ನೋಟ
 
@@ -8826,7 +8826,7 @@ F
 
 <a id="sec-11-2"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-11-2)
+[Eke →](../eke/full#sec-11-2)
 
 ### 11.2 ಕಾಲಸಂಬಂಧ ಮತ್ತು ಕಾಲವ್ಯವಸ್ಥೆ
 
@@ -8842,7 +8842,7 @@ F
 
 <a id="sub-11-2-1"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-11-2-1)
+[Eke →](../eke/full#sub-11-2-1)
 
 #### 11.2.1 ಕನ್ನಡದ ಕಾಲಸಂಬಂಧ
 
@@ -8912,7 +8912,7 @@ F
 
 <a id="sub-11-2-2"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-11-2-2)
+[Eke →](../eke/full#sub-11-2-2)
 
 #### 11.2.2 ಸಂಸ್ಕೃತದ ಕಾಲವ್ಯವಸ್ಥೆ
 
@@ -9021,7 +9021,7 @@ F
 
 <a id="sub-11-2-3"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-11-2-3)
+[Eke →](../eke/full#sub-11-2-3)
 
 #### 11.2.3 ಕಾಲರೂಪಗಳಲ್ಲಿ ವ್ಯತ್ಯಾಸ
 
@@ -9100,7 +9100,7 @@ F
 
 <a id="sub-11-2-4"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sub-11-2-4)
+[Eke →](../eke/full#sub-11-2-4)
 
 #### 11.2.4 ಘಟನೆಗಳ ನಡುವಿನ ಕಾಲಭೇದ
 
@@ -9189,7 +9189,7 @@ F
 
 <a id="sec-11-3"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-11-3)
+[Eke →](../eke/full#sec-11-3)
 
 ### 11.3 ಆಖ್ಯಾತ ಪ್ರತ್ಯಯಗಳು
 
@@ -9270,7 +9270,7 @@ F
 
 <a id="sec-11-4"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-11-4)
+[Eke →](../eke/full#sec-11-4)
 
 ### 11.4 ಪರಸ್ಮೈಪದ ಮತ್ತು ಆತ್ಮನೇಪದ
 
@@ -9312,7 +9312,7 @@ F
 
 <a id="sec-11-5"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-11-5)
+[Eke →](../eke/full#sec-11-5)
 
 ### 11.5 ಕರ್ಮಣಿ ಪ್ರಯೋಗ
 
@@ -9389,7 +9389,7 @@ F
 
 <a id="sec-11-6"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-11-6)
+[Eke →](../eke/full#sec-11-6)
 
 ### 11.6 ಅಲ್ಲಗಳೆಯುವ ವಾಕ್ಯಗಳು
 
@@ -9505,7 +9505,7 @@ F
 
 <a id="sec-11-7"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-11-7)
+[Eke →](../eke/full#sec-11-7)
 
 ### 11.7 ಕೇಳುವ ವಾಕ್ಯಗಳು
 
@@ -9595,7 +9595,7 @@ F
 
 <a id="sec-11-8"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-11-8)
+[Eke →](../eke/full#sec-11-8)
 
 ### 11.8 ತಿರುಳು
 
@@ -9637,13 +9637,13 @@ F
 
 <a id="adhyAya-12"></a>
 
-[English →](./28-kannaDakke-bEku-en#chapter-12--conclusion) | [Eke →](./28-kannaDakke-bEku-kn-eke#adhyAya-12)
+[English →](../en/summary#chapter-12--conclusion) | [Eke →](../eke/full#adhyAya-12)
 
 ## 12. ಮುಕ್ತಾಯ
 
 <a id="sec-12-1"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-12-1)
+[Eke →](../eke/full#sec-12-1)
 
 ### 12.1 ವ್ಯತ್ಯಾಸಗಳ ಮೂಲ
 
@@ -9707,7 +9707,7 @@ F
 
 <a id="sec-12-2"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-12-2)
+[Eke →](../eke/full#sec-12-2)
 
 ### 12.2 ಹೊಸ ದೃಷ್ಟಿಕೋನ
 
@@ -9774,7 +9774,7 @@ F
 
 <a id="sec-12-3"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-12-3)
+[Eke →](../eke/full#sec-12-3)
 
 ### 12.3 ಶಾಲಾ ವ್ಯಾಕರಣಗಳು
 
@@ -9821,7 +9821,7 @@ F
 
 <a id="sec-12-4"></a>
 
-[Eke →](./28-kannaDakke-bEku-kn-eke#sec-12-4)
+[Eke →](../eke/full#sec-12-4)
 
 ### 12.4 ಕಾಲೇಜುಗಳಲ್ಲಿ ಬೋಧನೆ ಮತ್ತು ಸಂಶೋಧನೆ
 

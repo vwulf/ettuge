@@ -9,5 +9,5 @@ redirect_from:
 
 | Format | Link |
 |--------|------|
-| English summary | [28-en](./28-kannaDakke-bEku-en) |
-| Eke romanisation | [28-kn-eke](./28-kannaDakke-bEku-kn-eke) |
+| English summary | [en](../en/summary) |
+| Eke romanisation | [eke](../eke/full) |

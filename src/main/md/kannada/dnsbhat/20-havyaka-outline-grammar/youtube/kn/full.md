@@ -56,7 +56,7 @@ fieldwork in Karnataka and Kerala.
 
 ## Full Text
 
-See [20-havyaka-outline-grammar-djvu.md](./20-havyaka-outline-grammar-djvu) for
+See [book/kn/raw.md](../../book/kn/raw) for
 the DjVu OCR text (may contain OCR errors).
 
 ## Collection Status

@@ -9,8 +9,8 @@ redirect_from:
 **mULa:** YouTube udangaLu — 44 bhAgagaLu
 **odidaravaru:** malati baT
 
-> mUla paThya (kannaDa lipi): [04-mAtu-mattu-barahada-naDuvina-gondala.md](./04-mAtu-mattu-barahada-naDuvina-gondala)
-> ingliS viSlEShaNe: [04-mAtu-mattu-barahada-naDuvina-gondala-en.md](./04-mAtu-mattu-barahada-naDuvina-gondala-en)
+> mUla paThya (kannaDa lipi): [kn/full.md](../kn/full)
+> ingliS viSlEShaNe: [en/summary.md](../en/summary)
 
 ---
 
@@ -32,7 +32,7 @@ redirect_from:
 
 *bhAgagaLu 1–5*
 
-[📼 bhAgagaLu 1–5 →](./04-mAtu-mattu-barahada-naDuvina-gondala#part-1)
+[📼 bhAgagaLu 1–5 →](../kn/full#part-1)
 
 **DNS baT avara hEraDa vAkya (pustakami vebsaiT varNane):**
 
@@ -58,7 +58,7 @@ samskxta halavAru varSagaLinda svalpa badalAvaNe Agilla. adu jIvanta bhASheyalla
 
 *bhAgagaLu 6–9*
 
-[📼 bhAgagaLu 6–9 →](./04-mAtu-mattu-barahada-naDuvina-gondala#part-6)
+[📼 bhAgagaLu 6–9 →](../kn/full#part-6)
 
 baraha vyavasthe eraDu mukhya bhAgava: pada lipi (pratipadakke ondu cihne — cIna) mattu svana lipi (svanagaLannu pratiniDuvudu — kannaDa, ingliS).
 
@@ -76,7 +76,7 @@ mAtu modalu; baraha annantara. kannaDa mAtannu bareyuva kElasa sumAru eraDu sAvi
 
 *bhAgagaLu 13–14*
 
-[📼 bhAgagaLu 13–14 →](./04-mAtu-mattu-barahada-naDuvina-gondala#part-13)
+[📼 bhAgagaLu 13–14 →](../kn/full#part-13)
 
 **bhAga 13 (makkaLu mAtu hEge kaLiyuttAre):**
 
@@ -98,7 +98,7 @@ barehadalli mAtinante sandarbha, hAvabAva, svanakELige illa. barahagAru I antara
 
 *bhAgagaLu 17–24*
 
-[📼 bhAgagaLu 17–24 →](./04-mAtu-mattu-barahada-naDuvina-gondala#part-17)
+[📼 bhAgagaLu 17–24 →](../kn/full#part-17)
 
 **bhAga 17 (mudraNa yantra mattu baraha badalAvaNe):**
 
@@ -122,7 +122,7 @@ bAyitanada jangaLU barehadha jangaLU eraDU onde samAjadalli iruvAga — barehadh
 
 *bhAgagaLu 27–32*
 
-[📼 bhAgagaLu 27–32 →](./04-mAtu-mattu-barahada-naDuvina-gondala#part-27)
+[📼 bhAgagaLu 27–32 →](../kn/full#part-27)
 
 **bhAga 27 (canna kannaDa — drAviDa kuTumba):**
 
@@ -148,7 +148,7 @@ samskxta tatsama padagaLu nantara kannaDakke sEriduve; I padagaLu drAviDa uli vy
 
 *bhAgagaLu 34–38*
 
-[📼 bhAgagaLu 34–38 →](./04-mAtu-mattu-barahada-naDuvina-gondala#part-34)
+[📼 bhAgagaLu 34–38 →](../kn/full#part-34)
 
 **bhAga 38 (canna kannaDa — baraha-mAtu vyatyAsa mattu suDAraNe):**
 
@@ -168,7 +168,7 @@ kannaDada svantada padagaLu samasyEyinda bErE tappisikonDive — kannaDa padagaL
 
 *bhAgagaLu 39–44*
 
-[📼 bhAgagaLu 39–44 →](./04-mAtu-mattu-barahada-naDuvina-gondala#part-39)
+[📼 bhAgagaLu 39–44 →](../kn/full#part-39)
 
 **bhAga 43 (canna kannaDa — satta bhAShe mattu aLida bhAShe):**
 

@@ -9,5 +9,5 @@ redirect_from:
 
 | Format | Link |
 |--------|------|
-| English summary | [29-en](./29-kannaDa-vyAkaraNa-yAke-bEku-en) |
-| Eke romanisation | [29-kn-eke](./29-kannaDa-vyAkaraNa-yAke-bEku-kn-eke) |
+| English summary | [en](../en/summary) |
+| Eke romanisation | [eke](../eke/full) |

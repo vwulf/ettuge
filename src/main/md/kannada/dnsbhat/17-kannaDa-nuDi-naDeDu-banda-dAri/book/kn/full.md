@@ -8,7 +8,7 @@ redirect_from:
 **ಲೇಖಕರು:** ಡಿ. ಎನ್. ಶಂಕರ ಭಟ್
 **ಮೂಲ:** PDF (Google Drive) — OCR ಶುದ್ಧೀಕೃತ ಪ್ರತಿ
 
-> [← ಸೂಚಿ](./README) | ಇಂಗ್ಲಿಶ್ ವಿಶ್ಲೇಷಣೆ: [17-kannaDa-nuDi-naDeDu-banda-dAri-en](./17-kannaDa-nuDi-naDeDu-banda-dAri-en) | Eke: [17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke)
+> [← ಸೂಚಿ](../../README) | ಇಂಗ್ಲಿಶ್ ವಿಶ್ಲೇಷಣೆ: [en](../en/summary) | Eke: [eke](../eke/full)
 
 
 
@@ -947,14 +947,14 @@ Sagara 577417. Phone: 9900829345.
  
 <a id="adhyAya-1"></a>
 
-[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-1--overview) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#adhyAya-1)
+[English →](../en/summary#chapter-1--overview) | [Eke →](../eke/full#adhyAya-1)
 
 ## 1. ಮುನ್ನೋಟ
 
 
 <a id="sec-1-1"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-1-1)
+[Eke →](../eke/full#sec-1-1)
 
 ### 1.1 ನಡೆದು ಬಂದ ದಾರಿ
 
@@ -1130,7 +1130,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-1-1-3"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-1-1-3)
+[Eke →](../eke/full#sub-1-1-3)
 
 #### 1.1.3 ಮೂಲನುಡಿಯ ಕಲ್ಪನೆ
 
@@ -1176,7 +1176,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-1-1-4"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-1-1-4)
+[Eke →](../eke/full#sub-1-1-4)
 
 #### 1.1.4 ವ್ಯತ್ಯಾಸ ಮತ್ತು ಸಾಮ್ಯ
 
@@ -1241,7 +1241,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sec-1-2"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-1-2)
+[Eke →](../eke/full#sec-1-2)
 
 ### 1.2 ದ್ರಾವಿಡ ನುಡಿಗಳು
 
@@ -1286,7 +1286,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-1-2-1"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-1-2-1)
+[Eke →](../eke/full#sub-1-2-1)
 
 #### 1.2.1 ಇವತ್ತಿನ ದ್ರಾವಿಡ ನುಡಿಗಳು
 
@@ -1375,7 +1375,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-1-2-2"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-1-2-2)
+[Eke →](../eke/full#sub-1-2-2)
 
 #### 1.2.2 ದ್ರಾವಿಡರ ಮೂಲ ನೆಲೆ
 
@@ -1424,7 +1424,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-1-2-3"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-1-2-3)
+[Eke →](../eke/full#sub-1-2-3)
 
 #### 1.2.3 ತೆಂಕುದ್ರಾವಿಡದಲ್ಲಿ ಕನ್ನಡದ ಜಾಗ
 
@@ -1539,7 +1539,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sec-1-3"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-1-3)
+[Eke →](../eke/full#sec-1-3)
 
 ### 1.3 ಕನ್ನಡ ನುಡಿ ಒಳನುಡಿಗಳಾಗಿ ಒಡೆದುಕೊಂಡ ಬಗೆ
 
@@ -1580,7 +1580,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-1-3-1"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-1-3-1)
+[Eke →](../eke/full#sub-1-3-1)
 
 #### 1.3.1 ಕರಾವಳಿ ಮತ್ತು ಒಳನಾಡಿನ ಒಳನುಡಿಗಳು
 
@@ -1737,7 +1737,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-1-3-2"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-1-3-2)
+[Eke →](../eke/full#sub-1-3-2)
 
 #### 1.3.2 ಬಡಗ ಒಳನುಡಿ
 
@@ -1818,7 +1818,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-1-3-3"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-1-3-3)
+[Eke →](../eke/full#sub-1-3-3)
 
 #### 1.3.3 ಇತರ ಒಡೆತಗಳು
 
@@ -1849,7 +1849,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sec-1-4"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-1-4)
+[Eke →](../eke/full#sec-1-4)
 
 ### 1.4 ಪುಸ್ತಕದ ಸ್ವರೂಪ
 
@@ -1904,14 +1904,14 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="adhyAya-2"></a>
 
-[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-2--root-vowels) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#adhyAya-2)
+[English →](../en/summary#chapter-2--root-vowels) | [Eke →](../eke/full#adhyAya-2)
 
 ## 2. ಬೇರಿನ ಸ್ವರಗಳು
 
 
 <a id="sec-2-1"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-2-1)
+[Eke →](../eke/full#sec-2-1)
 
 ### 2.1 ಸ್ವರಗಳ ಎಣಿಕೆ ಮತ್ತು ಉಚ್ಚಾರಣೆ
 
@@ -2008,7 +2008,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-2-1-1"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-2-1-1)
+[Eke →](../eke/full#sub-2-1-1)
 
 #### 2.1.1 ಐ ಮತ್ತು ಔ ಸ್ವರಗಳು
 
@@ -2119,7 +2119,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-2-1-2"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-2-1-2)
+[Eke →](../eke/full#sub-2-1-2)
 
 #### 2.1.2 ಉಲಿಗಳು ಮತ್ತು ಉಲಿಕಂತೆಗಳು
 
@@ -2163,7 +2163,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-2-1-3"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-2-1-3)
+[Eke →](../eke/full#sub-2-1-3)
 
 #### 2.1.3 ಬೇರುಗಳು ಮತ್ತು ಒಟ್ಟುಗಳು
 
@@ -2233,7 +2233,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sec-2-2"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-2-2)
+[Eke →](../eke/full#sec-2-2)
 
 ### 2.2 ಬೇರಿನ ಸ್ವರಗಳು
 
@@ -2274,7 +2274,7 @@ Sagara 577417. Phone: 9900829345.
  
 <a id="sub-2-2-1"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-2-2-1)
+[Eke →](../eke/full#sub-2-2-1)
 
 #### 2.2.1 ಮೇಲಿನ ಗಿಡ್ಡ ಸ್ವರಗಳು ನಡುವಿನ ಸ್ವರಗಳಾದುದು
 
@@ -2518,7 +2518,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-2-2-2"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-2-2-2)
+[Eke →](../eke/full#sub-2-2-2)
 
 #### 2.2.2 ನಡುವಿನ ಗಿಡ್ಡ ಸ್ವರಗಳು ಮೇಲಿನ ಸ್ವರಗಳಾದುದು
 
@@ -2836,7 +2836,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-2-2-3"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-2-2-3)
+[Eke →](../eke/full#sub-2-2-3)
 
 #### 2.2.3 ಎಕಾರ, ಒಕಾರಗಳು ಯ ಮತ್ತು ವಗಳಾದುದು
 
@@ -2949,7 +2949,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-2-2-4"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-2-2-4)
+[Eke →](../eke/full#sub-2-2-4)
 
 #### 2.2.4 ನಡುವಿನ ಸ್ವರಗಳು ಕೆಳಗಿನ ಸ್ವರಗಳಾದುದು
 
@@ -3003,7 +3003,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-2-2-5"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-2-2-5)
+[Eke →](../eke/full#sub-2-2-5)
 
 #### 2.2.5 ಅಕಾರ ಎಕಾರವಾದುದು
 
@@ -3074,7 +3074,7 @@ Sagara 577417. Phone: 9900829345.
  
 <a id="sec-2-3"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-2-3)
+[Eke →](../eke/full#sec-2-3)
 
 ### 2.3 ಸ್ವರದ ಉದ್ದದಲ್ಲಿ ಬದಲಾವಣೆಗಳು
 
@@ -3118,7 +3118,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-2-3-1"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-2-3-1)
+[Eke →](../eke/full#sub-2-3-1)
 
 #### 2.3.1 ಮೂಲದ್ರಾವಿಡದಲ್ಲಿದ್ದ ವ್ಯತ್ಯಾಸ
 
@@ -3519,7 +3519,7 @@ Sagara 577417. Phone: 9900829345.
  
 <a id="sub-2-3-2"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-2-3-2)
+[Eke →](../eke/full#sub-2-3-2)
 
 #### 2.3.2 ಕನ್ನಡದಲ್ಲಿ ನಡೆದ ಬದಲಾವಣೆಗಳು
 
@@ -3620,7 +3620,7 @@ Sagara 577417. Phone: 9900829345.
  
 <a id="sec-2-4"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-2-4)
+[Eke →](../eke/full#sec-2-4)
 
 ### 2.4 ಸ್ವರಗಳ ಎಣಿಕೆಯಲ್ಲಿ ಹೆಚ್ಚಳ
 
@@ -3695,7 +3695,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-2-4-1"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-2-4-1)
+[Eke →](../eke/full#sub-2-4-1)
 
 #### 2.4.1 ಅಕಾರದ ಒಡೆತ
 
@@ -3760,7 +3760,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-2-4-2"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-2-4-2)
+[Eke →](../eke/full#sub-2-4-2)
 
 #### 2.4.2 ದುಂಡಗಿಲ್ಲದ ಉಕಾರ
 
@@ -3777,7 +3777,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-2-4-3"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-2-4-3)
+[Eke →](../eke/full#sub-2-4-3)
 
 #### 2.4.3 ಮೂಗಿಸಿದ ಸ್ವರಗಳು
 
@@ -3829,7 +3829,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-2-4-4"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-2-4-4)
+[Eke →](../eke/full#sub-2-4-4)
 
 #### 2.4.4 ಮಡಚಿದ ಸ್ವರಗಳು
 
@@ -3910,7 +3910,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sec-2-5"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-2-5)
+[Eke →](../eke/full#sec-2-5)
 
 ### 2.5 ತಿರುಳು
 
@@ -3949,14 +3949,14 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="adhyAya-3"></a>
 
-[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-3--affix-vowels) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#adhyAya-3)
+[English →](../en/summary#chapter-3--affix-vowels) | [Eke →](../eke/full#adhyAya-3)
 
 ## 3. ಒಟ್ಟಿನ ಸ್ವರಗಳು
 
 
 <a id="sec-3-1"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-3-1)
+[Eke →](../eke/full#sec-3-1)
 
 ### 3.1 ಮುನ್ನೋಟ
 
@@ -4004,7 +4004,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sec-3-2"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-3-2)
+[Eke →](../eke/full#sec-3-2)
 
 ### 3.2 ಮೂಲದ್ರಾವಿಡದ ಒಟ್ಟುಗಳು
 
@@ -4090,7 +4090,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sec-3-3"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-3-3)
+[Eke →](../eke/full#sec-3-3)
 
 ### 3.3 ಉದ್ದಸ್ವರ ಗಿಡ್ಡವಾಗುವುದು
 
@@ -4145,7 +4145,7 @@ Sagara 577417. Phone: 9900829345.
  
 <a id="sec-3-4"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-3-4)
+[Eke →](../eke/full#sec-3-4)
 
 ### 3.4 ಎರಡು ಗಿಡ್ಡ ಸ್ವರಗಳು ಸೇರಿ ಉದ್ದ ಸ್ವರವಾಗುವುದು
 
@@ -4176,7 +4176,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sec-3-5"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-3-5)
+[Eke →](../eke/full#sec-3-5)
 
 ### 3.5 ಎರಡನೆಯ ಸ್ವರದಲ್ಲಿ ಬದಲಾವಣೆ
 
@@ -4268,7 +4268,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-3-5-1"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-3-5-1)
+[Eke →](../eke/full#sub-3-5-1)
 
 #### 3.5.1 ಎರಡನೇ ಸ್ವರ ಬಿದ್ದು ಹೋಗುವುದು
 
@@ -4403,7 +4403,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-3-5-2"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-3-5-2)
+[Eke →](../eke/full#sub-3-5-2)
 
 #### 3.5.2 ಮೂಗಿಸಿದ ಸ್ವರಗಳು
 
@@ -4438,7 +4438,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sec-3-6"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-3-6)
+[Eke →](../eke/full#sec-3-6)
 
 ### 3.6 ಪದಗಳ ಕೊನೆಯ ಸ್ವರಗಳು
 
@@ -4470,7 +4470,7 @@ Sagara 577417. Phone: 9900829345.
  
 <a id="sub-3-6-1"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-3-6-1)
+[Eke →](../eke/full#sub-3-6-1)
 
 #### 3.6.1 ಅಯ್ ಎಂಬುದು ಎಕಾರವಾಗುವುದು
 
@@ -4525,7 +4525,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-3-6-2"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-3-6-2)
+[Eke →](../eke/full#sub-3-6-2)
 
 #### 3.6.2 ಅಕಾರ ಎಕಾರವಾಗುವುದು
 
@@ -4553,7 +4553,7 @@ Sagara 577417. Phone: 9900829345.
  
 <a id="sub-3-6-3"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-3-6-3)
+[Eke →](../eke/full#sub-3-6-3)
 
 #### 3.6.3 ಎಕಾರ ಇಕಾರವಾಗುವುದು
 
@@ -4606,7 +4606,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-3-6-4"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-3-6-4)
+[Eke →](../eke/full#sub-3-6-4)
 
 #### 3.6.4 ಉಕಾರದ ಸೇರಿಕೆ
 
@@ -4634,14 +4634,14 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sec-7-9"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-7-9)
+[Eke →](../eke/full#sec-7-9)
 
 ### 7.9 ನೋಡಿ).
 
 
 <a id="sub-3-6-5"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-3-6-5)
+[Eke →](../eke/full#sub-3-6-5)
 
 #### 3.6.5 ಉಕಾರ ಅ಼ಕಾರವಾಗುವುದು
 
@@ -4734,7 +4734,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-3-6-6"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-3-6-6)
+[Eke →](../eke/full#sub-3-6-6)
 
 #### 3.6.6 ಉಕಾರದ ಒಡೆತ
 
@@ -4778,7 +4778,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sec-3-7"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-3-7)
+[Eke →](../eke/full#sec-3-7)
 
 ### 3.7 ತಿರುಳು
 
@@ -4811,14 +4811,14 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="adhyAya-4"></a>
 
-[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-4--stops) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#adhyAya-4)
+[English →](../en/summary#chapter-4--stops) | [Eke →](../eke/full#adhyAya-4)
 
 ## 4. ತಡೆಯುಲಿಗಳು
 
 
 <a id="sec-4-1"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-4-1)
+[Eke →](../eke/full#sec-4-1)
 
 ### 4.1 ಮುನ್ನೋಟ
 
@@ -4949,7 +4949,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-4-1-1"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-4-1-1)
+[Eke →](../eke/full#sub-4-1-1)
 
 #### 4.1.1 ತಡೆಯುಲಿಗಳು
 
@@ -5023,7 +5023,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-4-1-2"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-4-1-2)
+[Eke →](../eke/full#sub-4-1-2)
 
 #### 4.1.2 ಕೊರಳಿಸಿದ ಮತ್ತು ಕೊರಳಿಸದ ತಡೆಯುಲಿಗಳು
 
@@ -5107,7 +5107,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sec-4-2"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-4-2)
+[Eke →](../eke/full#sec-4-2)
 
 ### 4.2 ಪದಗಳ ಮೊದಲಿಗಿದ್ದ ತಡೆಯುಲಿಗಳು
 
@@ -5260,7 +5260,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-4-2-1"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-4-2-1)
+[Eke →](../eke/full#sub-4-2-1)
 
 #### 4.2.1 ಪಕಾರ ಹಕಾರವಾಗಿರುವುದು ಮತ್ತು ಬಿದ್ದುಹೋಗಿರುವುದು
 
@@ -5381,7 +5381,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-4-2-2"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-4-2-2)
+[Eke →](../eke/full#sub-4-2-2)
 
 #### 4.2.2 ಚಕಾರದ ಬದಲಾವಣೆಗಳು
 
@@ -5636,7 +5636,7 @@ Sagara 577417. Phone: 9900829345.
  
 <a id="sub-4-2-3"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-4-2-3)
+[Eke →](../eke/full#sub-4-2-3)
 
 #### 4.2.3 ಕಕಾರ-ಗಕಾರಗಳು ಚಕಾರ-ಜಕಾರಗಳಾಗಿರುವುದು
 
@@ -5724,7 +5724,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sec-4-3"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-4-3)
+[Eke →](../eke/full#sec-4-3)
 
 ### 4.3 ಸ್ವರಗಳ ನಡುವಿನ ಒತ್ತೆ ತಡೆಯುಲಿಗಳು
 
@@ -5754,7 +5754,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-4-3-1"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-4-3-1)
+[Eke →](../eke/full#sub-4-3-1)
 
 #### 4.3.1 ಪಕಾರವು ವಕಾರ ಮತ್ತು ಹಕಾರಗಳಾಗಿರುವುದು
 
@@ -6032,7 +6032,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-4-3-2"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-4-3-2)
+[Eke →](../eke/full#sub-4-3-2)
 
 #### 4.3.2 ಚಕಾರ ಸಕಾರವಾಗಿರುವುದು
 
@@ -6108,7 +6108,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-4-3-3"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-4-3-3)
+[Eke →](../eke/full#sub-4-3-3)
 
 #### 4.3.3 ಱಕಾರ ರಕಾರವಾಗಿರುವುದು
 
@@ -6213,7 +6213,7 @@ Sagara 577417. Phone: 9900829345.
  
 <a id="sub-4-3-4"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-4-3-4)
+[Eke →](../eke/full#sub-4-3-4)
 
 #### 4.3.4 ಟಕಾರದ ಬದಲಾವಣೆಗಳು
 
@@ -6264,7 +6264,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-4-3-5"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-4-3-5)
+[Eke →](../eke/full#sub-4-3-5)
 
 #### 4.3.5 ಕಕಾರ ಬಿದ್ದುಹೋಗಿರುವುದು
 
@@ -6302,7 +6302,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sec-4-4"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-4-4)
+[Eke →](../eke/full#sec-4-4)
 
 ### 4.4 ಸ್ವರಗಳ ನಡುವಿನ ಇಮ್ಮಡಿ ತಡೆಯುಲಿಗಳು
 
@@ -6318,7 +6318,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-4-4-1"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-4-4-1)
+[Eke →](../eke/full#sub-4-4-1)
 
 #### 4.4.1 ಇಮ್ಮಡಿ ತಡೆಯುಲಿಗಳು ಒತ್ತೆ ತಡೆಯುಲಿಗಳಾಗಿರುವುದು
 
@@ -6473,7 +6473,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-4-4-2"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-4-4-2)
+[Eke →](../eke/full#sub-4-4-2)
 
 #### 4.4.2 ಕೊರಳಿಸದ  ಮತ್ತು  ಕೊರಳಿಸಿದ  ಇಮ್ಮಡಿ  ತಡೆಯುಲಿಗಳಾಗಿ
 
@@ -6543,7 +6543,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-4-4-3"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-4-4-3)
+[Eke →](../eke/full#sub-4-4-3)
 
 #### 4.4.3 ಉದ್ದ ಸ್ವರದ ಅನಂತರ ಬಂದಿದ್ದ ಇಮ್ಮಡಿ ತಡೆಯುಲಿಗಳು
 
@@ -6649,7 +6649,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-4-4-4"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-4-4-4)
+[Eke →](../eke/full#sub-4-4-4)
 
 #### 4.4.4 ಗಿಡ್ಡ ಸ್ವರದ ಅನಂತರ ಬಂದಿದ್ದ ಇಮ್ಮಡಿ ತಡೆಯುಲಿಗಳು
 
@@ -6817,7 +6817,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-4-4-5"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-4-4-5)
+[Eke →](../eke/full#sub-4-4-5)
 
 #### 4.4.5 ಹವ್ಯಕದಲ್ಲಿ ಗಿಡ್ಡಸ್ವರಗಳ ಅನಂತರ ಬದಲಾವಣೆಯಿಲ್ಲ
 
@@ -6883,7 +6883,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sec-4-5"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-4-5)
+[Eke →](../eke/full#sec-4-5)
 
 ### 4.5 ಮೂಗುಲಿಯ ಅನಂತರದ ತಡೆಯುಲಿಗಳು
 
@@ -7074,7 +7074,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sec-4-6"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-4-6)
+[Eke →](../eke/full#sec-4-6)
 
 ### 4.6 ಇತರ ವ್ಯಂಜನಗಳೊಂದಿಗೆ ಬಂದ ತಡೆಯುಲಿಗಳು
 
@@ -7128,7 +7128,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-4-6-1"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-4-6-1)
+[Eke →](../eke/full#sub-4-6-1)
 
 #### 4.6.1 ಕನ್ನಡದಲ್ಲಿ ನಡೆದ ಬದಲಾವಣೆಗಳು
 
@@ -7250,7 +7250,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sec-4-7"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-4-7)
+[Eke →](../eke/full#sec-4-7)
 
 ### 4.7 ತಿರುಳು
 
@@ -7285,14 +7285,14 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="adhyAya-5"></a>
 
-[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-5--other-consonants) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#adhyAya-5)
+[English →](../en/summary#chapter-5--other-consonants) | [Eke →](../eke/full#adhyAya-5)
 
 ## 5. ಇತರ ವ್ಯಂಜನಗಳು
 
 
 <a id="sec-5-1"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-5-1)
+[Eke →](../eke/full#sec-5-1)
 
 ### 5.1 ಮುನ್ನೋಟ
 
@@ -7312,7 +7312,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sec-5-2"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-5-2)
+[Eke →](../eke/full#sec-5-2)
 
 ### 5.2 ಮೂಗುಲಿಗಳು
 
@@ -7337,7 +7337,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-5-2-1"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-5-2-1)
+[Eke →](../eke/full#sub-5-2-1)
 
 #### 5.2.1 ಪದಗಳ ಮೊದಲಿನ ಮೂಗುಲಿಗಳು
 
@@ -7450,7 +7450,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-5-2-2"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-5-2-2)
+[Eke →](../eke/full#sub-5-2-2)
 
 #### 5.2.2 ಸ್ವರಗಳ ನಡುವಿನ ಒತ್ತೆ ಮೂಗುಲಿಗಳು
 
@@ -7604,7 +7604,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-5-2-3"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-5-2-3)
+[Eke →](../eke/full#sub-5-2-3)
 
 #### 5.2.3 ಸ್ವರಗಳ ನಡುವಿನ ಇಮ್ಮಡಿ ಮೂಗುಲಿಗಳು
 
@@ -7690,7 +7690,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-5-2-4"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-5-2-4)
+[Eke →](../eke/full#sub-5-2-4)
 
 #### 5.2.4 ತಡೆಯುಲಿಗಳ ಮೊದಲು ಬಂದ ಮೂಗುಲಿಗಳು
 
@@ -8069,7 +8069,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-5-2-5"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-5-2-5)
+[Eke →](../eke/full#sub-5-2-5)
 
 #### 5.2.5 ಇತರ ವ್ಯಂಜನಗಳೊಂದಿಗೆ ಬಂದ ಮೂಗುಲಿಗಳು
 
@@ -8105,7 +8105,7 @@ Sagara 577417. Phone: 9900829345.
  
 <a id="sub-5-2-6"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-5-2-6)
+[Eke →](../eke/full#sub-5-2-6)
 
 #### 5.2.6 ಪದಗಳ ಕೊನೆಯಲ್ಲಿ ಬಂದ ಮೂಗುಲಿಗಳು
 
@@ -8172,7 +8172,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sec-5-3"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-5-3)
+[Eke →](../eke/full#sec-5-3)
 
 ### 5.3 ಹೊಡೆಯುಲಿ ಮತ್ತು ಪಕ್ಕದುಲಿಗಳು
 
@@ -8192,7 +8192,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-5-3-1"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-5-3-1)
+[Eke →](../eke/full#sub-5-3-1)
 
 #### 5.3.1 ಲಕಾರದ ಬದಲಾವಣೆಗಳು
 
@@ -8256,7 +8256,7 @@ Sagara 577417. Phone: 9900829345.
  
 <a id="sub-5-3-2"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-5-3-2)
+[Eke →](../eke/full#sub-5-3-2)
 
 #### 5.3.2 ಳಕಾರದ ಬದಲಾವಣೆಗಳು
 
@@ -8392,7 +8392,7 @@ Sagara 577417. Phone: 9900829345.
  
 <a id="sub-5-3-3"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-5-3-3)
+[Eke →](../eke/full#sub-5-3-3)
 
 #### 5.3.3 ರಕಾರದ ಬದಲಾವಣೆಗಳು
 
@@ -8662,7 +8662,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sec-5-4"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-5-4)
+[Eke →](../eke/full#sec-5-4)
 
 ### 5.4 ತಡೆಯಿಲ್ಲದ ವ್ಯಂಜನಗಳು
 
@@ -8725,7 +8725,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-5-4-1"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-5-4-1)
+[Eke →](../eke/full#sub-5-4-1)
 
 #### 5.4.1 ಪದಗಳ ಮೊದಲಿಗೆ ಬಂದ ತಡೆಯಿಲ್ಲದುಲಿಗಳು
 
@@ -8842,7 +8842,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-5-4-2"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-5-4-2)
+[Eke →](../eke/full#sub-5-4-2)
 
 #### 5.4.2 ಪದಗಳ ನಡುವಿನ ಯಕಾರ ಮತ್ತು ವಕಾರಗಳು
 
@@ -8907,7 +8907,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-5-4-3"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-5-4-3)
+[Eke →](../eke/full#sub-5-4-3)
 
 #### 5.4.3 ೞಕಾರದ ಬದಲಾವಣೆಗಳು
 
@@ -9207,7 +9207,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-5-4-4"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-5-4-4)
+[Eke →](../eke/full#sub-5-4-4)
 
 #### 5.4.4 ಪದಗಳ ಕೊನೆಯ ತಡೆಯಿಲ್ಲದುಲಿಗಳು
 
@@ -9255,7 +9255,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sec-5-5"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-5-5)
+[Eke →](../eke/full#sec-5-5)
 
 ### 5.5 ತಿರುಳು
 
@@ -9289,14 +9289,14 @@ Sagara 577417. Phone: 9900829345.
  
 <a id="adhyAya-6"></a>
 
-[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-6--internal-structure-of-words) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#adhyAya-6)
+[English →](../en/summary#chapter-6--internal-structure-of-words) | [Eke →](../eke/full#adhyAya-6)
 
 ## 6. ಪದಗಳ ಒಳರಚನೆ
 
 
 <a id="sec-6-1"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-6-1)
+[Eke →](../eke/full#sec-6-1)
 
 ### 6.1 ಮುನ್ನೋಟ
 
@@ -9408,7 +9408,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sec-6-2"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-6-2)
+[Eke →](../eke/full#sec-6-2)
 
 ### 6.2 ಬೇರುಗಳ ಸ್ವರೂಪ
 
@@ -9588,7 +9588,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sec-6-3"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-6-3)
+[Eke →](../eke/full#sec-6-3)
 
 ### 6.3 ಉಲಿಕಂತೆಗಳಲ್ಲಿ ಹಗುರ ಮತ್ತು ತೂಕ
 
@@ -9639,7 +9639,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sec-6-4"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-6-4)
+[Eke →](../eke/full#sec-6-4)
 
 ### 6.4 ಪದರಚನೆಯಲ್ಲಿ ಬೇರುಗಳ ಬಳಕೆ
 
@@ -9685,7 +9685,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sec-6-5"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-6-5)
+[Eke →](../eke/full#sec-6-5)
 
 ### 6.5 ತಿರುಳು
 
@@ -9708,14 +9708,14 @@ Sagara 577417. Phone: 9900829345.
  
 <a id="adhyAya-7"></a>
 
-[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-7--internal-structure-of-verbs) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#adhyAya-7)
+[English →](../en/summary#chapter-7--internal-structure-of-verbs) | [Eke →](../eke/full#adhyAya-7)
 
 ## 7. ಕ್ರಿಯಾಪದಗಳ ಒಳರಚನೆ
 
 
 <a id="sec-7-1"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-7-1)
+[Eke →](../eke/full#sec-7-1)
 
 ### 7.1 ಮುನ್ನೋಟ
 
@@ -9742,7 +9742,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sec-7-2"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-7-2)
+[Eke →](../eke/full#sec-7-2)
 
 ### 7.2 ಆಗುವಿಕೆ ಮತ್ತು ಮಾಡುವಿಕೆ
 
@@ -9791,7 +9791,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-7-2-1"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-7-2-1)
+[Eke →](../eke/full#sub-7-2-1)
 
 #### 7.2.1 ತಮಿಳಿನಲ್ಲಿ ಕೆಲಸದ ಪರಿಣಾಮ
 
@@ -9900,7 +9900,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-6-2-2"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-6-2-2)
+[Eke →](../eke/full#sub-6-2-2)
 
 #### 6.2.2 ಕನ್ನಡದಲ್ಲಿ ಆಗುವಿಕೆ-ಮಾಡುವಿಕೆ ವ್ಯತ್ಯಾಸ
 
@@ -10039,7 +10039,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-7-2-3"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-7-2-3)
+[Eke →](../eke/full#sub-7-2-3)
 
 #### 7.2.3 ಮೂಲದ್ರಾವಿಡದ ವ್ಯತ್ಯಾಸ
 
@@ -10087,7 +10087,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sec-7-3"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-7-3)
+[Eke →](../eke/full#sec-7-3)
 
 ### 7.3 ಕ್ರಿಯಾಬೇರುಗಳಿಂದ ಕ್ರಿಯಾಪದಗಳು
 
@@ -10105,7 +10105,7 @@ Sagara 577417. Phone: 9900829345.
  
 <a id="sub-7-3-1"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-7-3-1)
+[Eke →](../eke/full#sub-7-3-1)
 
 #### 7.3.1 ಅ, ಇ, ಉ ಒಟ್ಟುಗಳು
 
@@ -10158,7 +10158,7 @@ Sagara 577417. Phone: 9900829345.
  
 <a id="sub-7-3-2"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-7-3-2)
+[Eke →](../eke/full#sub-7-3-2)
 
 #### 7.3.2 ತಡೆಯುಲಿಯಲ್ಲಿ ಕೊನೆಗೊಳ್ಳುವ ಒಟ್ಟುಗಳು
 
@@ -10271,7 +10271,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-7-3-3"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-7-3-3)
+[Eke →](../eke/full#sub-7-3-3)
 
 #### 7.3.3 ಒಟ್ಟುಗಳ ರೂಪದಲ್ಲಿ ಬದಲಾವಣೆಗಳು
 
@@ -10309,7 +10309,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sec-7-4"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-7-4)
+[Eke →](../eke/full#sec-7-4)
 
 ### 7.4 ಆಗುವಿಕೆಯ ಒಟ್ಟುಗಳು
 
@@ -10403,7 +10403,7 @@ Sagara 577417. Phone: 9900829345.
  
 <a id="sec-7-5"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-7-5)
+[Eke →](../eke/full#sec-7-5)
 
 ### 7.5 ಮಾಡುವಿಕೆಯನ್ನು ಸೂಚಿಸುವ *ತ್ ಒಟ್ಟು
 
@@ -10479,7 +10479,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-7-5-1"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-7-5-1)
+[Eke →](../eke/full#sub-7-5-1)
 
 #### 7.5.1 ಕನ್ನಡದಲ್ಲಿ *ತ್ ಒಟ್ಟಿನ ಪಳೆಯಳಿಕೆಗಳು
 
@@ -10558,7 +10558,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-7-5-2"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-7-5-2)
+[Eke →](../eke/full#sub-7-5-2)
 
 #### 7.5.2 ಸಮಯದ ಒಟ್ಟಿನ ಅನಂತರ *ತ್ ಒಟ್ಟಿನ ಬಳಕೆ
 
@@ -10655,7 +10655,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-7-5-3"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-7-5-3)
+[Eke →](../eke/full#sub-7-5-3)
 
 #### 7.5.3 ಬಡಗ ಕನ್ನಡದಲ್ಲಿ *ತ್ ಒಟ್ಟು
 
@@ -10772,7 +10772,7 @@ Sagara 577417. Phone: 9900829345.
  
 <a id="sub-7-5-4"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-7-5-4)
+[Eke →](../eke/full#sub-7-5-4)
 
 #### 7.5.4 ಹವ್ಯಕ ಕನ್ನಡದಲ್ಲಿ *ತ್ ಒಟ್ಟು
 
@@ -10971,7 +10971,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sec-7-6"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-7-6)
+[Eke →](../eke/full#sec-7-6)
 
 ### 7.6 ಮಾಡುವಿಕೆಯನ್ನು ಸೂಚಿಸುವ ಬೇರೆ ಒಟ್ಟುಗಳು
 
@@ -11047,7 +11047,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sec-7-7"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-7-7)
+[Eke →](../eke/full#sec-7-7)
 
 ### 7.7 ನಾಮಬೇರುಗಳಿಂದ ಕ್ರಿಯಾಪದಗಳು
 
@@ -11161,7 +11161,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sec-7-8"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-7-8)
+[Eke →](../eke/full#sec-7-8)
 
 ### 7.8 ಗುಣಬೇರುಗಳಿಂದ ಕ್ರಿಯಾಪದಗಳು
 
@@ -11218,7 +11218,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sec-7-9"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-7-9)
+[Eke →](../eke/full#sec-7-9)
 
 ### 7.9 ಕ್ರಿಯಾಪದಗಳ ರೂಪದಲ್ಲಿ ಬದಲಾವಣೆಗಳು
 
@@ -11506,7 +11506,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sec-7-10"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-7-10)
+[Eke →](../eke/full#sec-7-10)
 
 ### 7.10 ತಿರುಳು
 
@@ -11546,14 +11546,14 @@ Sagara 577417. Phone: 9900829345.
  
 <a id="adhyAya-8"></a>
 
-[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-8--verb-forms) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#adhyAya-8)
+[English →](../en/summary#chapter-8--verb-forms) | [Eke →](../eke/full#adhyAya-8)
 
 ## 8. ಕ್ರಿಯಾರೂಪಗಳು
 
 
 <a id="sec-8-1"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-8-1)
+[Eke →](../eke/full#sec-8-1)
 
 ### 8.1 ಮುನ್ನೋಟ
 
@@ -11566,7 +11566,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-8-1-1"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-8-1-1)
+[Eke →](../eke/full#sub-8-1-1)
 
 #### 8.1.1 ವಾಕ್ಯದ ಕೊನೆಯ ಕ್ರಿಯಾರೂಪಗಳು
 
@@ -11627,7 +11627,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-8-1-2"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-8-1-2)
+[Eke →](../eke/full#sub-8-1-2)
 
 #### 8.1.2 ವಾಕ್ಯದ ನಡುವಿನ ಕ್ರಿಯಾರೂಪಗಳು
 
@@ -11651,7 +11651,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sec-8-2"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-8-2)
+[Eke →](../eke/full#sec-8-2)
 
 ### 8.2 ಸಮಯದ ಒಟ್ಟುಗಳು
 
@@ -11699,7 +11699,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-8-2-1"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-8-2-1)
+[Eke →](../eke/full#sub-8-2-1)
 
 #### 8.2.1 ಹಿಂದಿನ ಸಮಯದ ಒಟ್ಟು
 
@@ -11998,7 +11998,7 @@ Sagara 577417. Phone: 9900829345.
  
 <a id="sub-8-2-2"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-8-2-2)
+[Eke →](../eke/full#sub-8-2-2)
 
 #### 8.2.2 ಮುಂದಿನ ಸಮಯದ ಒಟ್ಟು
 
@@ -12111,7 +12111,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sec-8-3"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-8-3)
+[Eke →](../eke/full#sec-8-3)
 
 ### 8.3 ಹಳೆಗನ್ನಡದಲ್ಲಿ ಸಮಯದ ಒಟ್ಟುಗಳು
 
@@ -12312,7 +12312,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-8-3-1"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-8-3-1)
+[Eke →](../eke/full#sub-8-3-1)
 
 #### 8.3.1 ಹಿಂದಿನ ಸಮಯದ ಒಟ್ಟಿನಲ್ಲಿ ಬದಲಾವಣೆಗಳು
 
@@ -12450,7 +12450,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-8-3-2"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-8-3-2)
+[Eke →](../eke/full#sub-8-3-2)
 
 #### 8.3.2 ಮುಂದಿನ ಸಮಯದ ಒಟ್ಟಿನಲ್ಲಿ ಬದಲಾವಣೆಗಳು
 
@@ -12597,7 +12597,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-8-3-3"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-8-3-3)
+[Eke →](../eke/full#sub-8-3-3)
 
 #### 8.3.3 ಕರಾವಳಿಯ ಒಳನುಡಿಗಳಲ್ಲಿ ಮುಂದಿನ ಸಮಯದ ಒಟ್ಟು
 
@@ -12803,7 +12803,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-8-3-4"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-8-3-4)
+[Eke →](../eke/full#sub-8-3-4)
 
 #### 8.3.4 ಬಡಗ ಕನ್ನಡದಲ್ಲಿ ಸಮಯದ ಒಟ್ಟುಗಳು
 
@@ -12879,7 +12879,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-8-3-5"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-8-3-5)
+[Eke →](../eke/full#sub-8-3-5)
 
 #### 8.3.5 ಸಂಗತಿಯನ್ನು ತಿಳಿಸುವ ಕ್ರಿಯಾಪದಗಳು
 
@@ -12931,7 +12931,7 @@ Sagara 577417. Phone: 9900829345.
  
 <a id="sec-8-4"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-8-4)
+[Eke →](../eke/full#sec-8-4)
 
 ### 8.4 ಅಲ್ಲಗಳೆಯುವ ಒಟ್ಟು
 
@@ -13042,7 +13042,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sec-8-5"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-8-5)
+[Eke →](../eke/full#sec-8-5)
 
 ### 8.5 ಆಡುಗ ಒಟ್ಟುಗಳು
 
@@ -13056,7 +13056,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-8-5-1"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-8-5-1)
+[Eke →](../eke/full#sub-8-5-1)
 
 #### 8.5.1 ಆಡುಗ ಮತ್ತು ಕೇಳುಗರನ್ನು ಸೂಚಿಸುವ ಒಟ್ಟುಗಳು
 
@@ -13112,7 +13112,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-8-5-2"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-8-5-2)
+[Eke →](../eke/full#sub-8-5-2)
 
 #### 8.5.2 ಇತರರನ್ನು ಸೂಚಿಸುವ ಒಟ್ಟುಗಳು
 
@@ -13176,7 +13176,7 @@ Sagara 577417. Phone: 9900829345.
  
 <a id="sub-8-5-3"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-8-5-3)
+[Eke →](../eke/full#sub-8-5-3)
 
 #### 8.5.3 ಕನ್ನಡದ ಒಳನುಡಿಗಳಲ್ಲಿ ಆಡುಗ ಒಟ್ಟುಗಳು
 
@@ -13362,7 +13362,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-8-5-4"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-8-5-4)
+[Eke →](../eke/full#sub-8-5-4)
 
 #### 8.5.4 ಆಡುಗ ಇಲ್ಲವೇ ಕೇಳುಗನನ್ನು ಸೂಚಿಸುವ ಇನ್ನೊಂದು ಒಟ್ಟು
 
@@ -13421,7 +13421,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sec-8-6"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-8-6)
+[Eke →](../eke/full#sec-8-6)
 
 ### 8.6 ಕೆಲಸವನ್ನು ಮಾಡಿಸುವ ಕ್ರಿಯಾರೂಪಗಳು
 
@@ -13518,7 +13518,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sec-8-7"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-8-7)
+[Eke →](../eke/full#sec-8-7)
 
 ### 8.7 ವಾಕ್ಯದ ನಡುವೆ ಬರುವ ಕ್ರಿಯಾರೂಪಗಳು
 
@@ -13575,7 +13575,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sec-8-8"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-8-8)
+[Eke →](../eke/full#sec-8-8)
 
 ### 8.8 ತಿರುಳು
 
@@ -13625,14 +13625,14 @@ Sagara 577417. Phone: 9900829345.
  
 <a id="adhyAya-9"></a>
 
-[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-9--nouns) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#adhyAya-9)
+[English →](../en/summary#chapter-9--nouns) | [Eke →](../eke/full#adhyAya-9)
 
 ## 9. ನಾಮಪದಗಳು
 
 
 <a id="sec-9-1"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-9-1)
+[Eke →](../eke/full#sec-9-1)
 
 ### 9.1 ಮುನ್ನೋಟ
 
@@ -13711,7 +13711,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sec-9-2"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-9-2)
+[Eke →](../eke/full#sec-9-2)
 
 ### 9.2 ನಾಮಪದಗಳ ಒಳರಚನೆ
 
@@ -13737,7 +13737,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-9-2-1"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-9-2-1)
+[Eke →](../eke/full#sub-9-2-1)
 
 #### 9.2.1 ನಾಮಬೇರುಗಳಿಂದ ನಾಮಪದಗಳು
 
@@ -14108,7 +14108,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-9-2-2"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-9-2-2)
+[Eke →](../eke/full#sub-9-2-2)
 
 #### 9.2.2 ಕ್ರಿಯಾಬೇರುಗಳಿಂದ ನಾಮಪದಗಳು
 
@@ -14446,7 +14446,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-9-2-3"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-9-2-3)
+[Eke →](../eke/full#sub-9-2-3)
 
 #### 9.2.3 ಗುಣಬೇರುಗಳಿಂದ ನಾಮಪದಗಳು
 
@@ -14546,7 +14546,7 @@ Sagara 577417. Phone: 9900829345.
  
 <a id="sub-9-2-4"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-9-2-4)
+[Eke →](../eke/full#sub-9-2-4)
 
 #### 9.2.4 ಜೋಡುಪದಗಳ ಒಳರಚನೆ
 
@@ -14624,7 +14624,7 @@ Sagara 577417. Phone: 9900829345.
  
 <a id="sec-9-3"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-9-3)
+[Eke →](../eke/full#sec-9-3)
 
 ### 9.3 ಲಿಂಗ ಮತ್ತು ವಚನ
 
@@ -14647,7 +14647,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-9-3-1"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-9-3-1)
+[Eke →](../eke/full#sub-9-3-1)
 
 #### 9.3.1 ಎರಡು ಲಿಂಗಗಳು
 
@@ -14717,7 +14717,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-9-3-2"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-9-3-2)
+[Eke →](../eke/full#sub-9-3-2)
 
 #### 9.3.2 ಎರಡು ವಚನಗಳು
 
@@ -14783,7 +14783,7 @@ Sagara 577417. Phone: 9900829345.
 
 <a id="sub-9-3-3"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-9-3-3)
+[Eke →](../eke/full#sub-9-3-3)
 
 #### 9.3.3 ಲಿಂಗಬೇದದಲ್ಲಿ ಬದಲಾವಣೆ
 
@@ -14894,7 +14894,7 @@ ssಸೆಟ್ಟಿ ‘ಸೆಟ್ಟಿ’
 
 <a id="sec-9-4"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-9-4)
+[Eke →](../eke/full#sec-9-4)
 
 ### 9.4 ನಂಟಸ್ತಿಕೆಯ ಪದಗಳು
 
@@ -14976,7 +14976,7 @@ ssಸೆಟ್ಟಿ ‘ಸೆಟ್ಟಿ’
 
 <a id="sec-9-5"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-9-5)
+[Eke →](../eke/full#sec-9-5)
 
 ### 9.5 ಸಂಬಂದದ ಒಟ್ಟು
 
@@ -15005,7 +15005,7 @@ ssಸೆಟ್ಟಿ ‘ಸೆಟ್ಟಿ’
 
 <a id="sub-9-5-1"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-9-5-1)
+[Eke →](../eke/full#sub-9-5-1)
 
 #### 9.5.1 ಮೂಲದ್ರಾವಿಡದಲ್ಲಿ ಸಂಬಂದದ ಒಟ್ಟು
 
@@ -15067,7 +15067,7 @@ ssಸೆಟ್ಟಿ ‘ಸೆಟ್ಟಿ’
 
 <a id="sub-9-5-2"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-9-5-2)
+[Eke →](../eke/full#sub-9-5-2)
 
 #### 9.5.2 ವಿಬಕ್ತಿ ಒಟ್ಟುಗಳೊಂದಿಗಿನ ಬಳಕೆ
 
@@ -15144,7 +15144,7 @@ ssಸೆಟ್ಟಿ ‘ಸೆಟ್ಟಿ’
 
 <a id="sub-9-5-3"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-9-5-3)
+[Eke →](../eke/full#sub-9-5-3)
 
 #### 9.5.3 ಕನ್ನಡದ ಬದಲಾವಣೆಗಳು
 
@@ -15296,7 +15296,7 @@ ssಸೆಟ್ಟಿ ‘ಸೆಟ್ಟಿ’
 
 <a id="sec-9-6"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-9-6)
+[Eke →](../eke/full#sec-9-6)
 
 ### 9.6 ವಿಬಕ್ತಿ ಒಟ್ಟುಗಳು
 
@@ -15324,7 +15324,7 @@ ssಸೆಟ್ಟಿ ‘ಸೆಟ್ಟಿ’
 
 <a id="sub-9-6-2"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-9-6-2)
+[Eke →](../eke/full#sub-9-6-2)
 
 #### 9.6.2 ಒಟ್ಟುಗಳ ರೂಪದಲ್ಲಿ ಬದಲಾವಣೆಗಳು
 
@@ -15357,7 +15357,7 @@ ssಸೆಟ್ಟಿ ‘ಸೆಟ್ಟಿ’
 
 <a id="sub-9-6-2"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-9-6-2)
+[Eke →](../eke/full#sub-9-6-2)
 
 #### 9.6.2 ಕನ್ನಡದ ಬದಲಾವಣೆಗಳು
 
@@ -15426,7 +15426,7 @@ ssಸೆಟ್ಟಿ ‘ಸೆಟ್ಟಿ’
 
 <a id="sec-9-7"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-9-7)
+[Eke →](../eke/full#sec-9-7)
 
 ### 9.7 ತಿರುಳು
 
@@ -15469,7 +15469,7 @@ ssಸೆಟ್ಟಿ ‘ಸೆಟ್ಟಿ’
  
 <a id="adhyAya-10"></a>
 
-[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-10--personal-and-demonstrative-pronouns) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#adhyAya-10)
+[English →](../en/summary#chapter-10--personal-and-demonstrative-pronouns) | [Eke →](../eke/full#adhyAya-10)
 
 ## 10. ಆಡುಗ ಮತ್ತು ತೋರುಗ ಪದಗಳು
 
@@ -15479,7 +15479,7 @@ ssಸೆಟ್ಟಿ ‘ಸೆಟ್ಟಿ’
 
 <a id="sec-10-1"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-10-1)
+[Eke →](../eke/full#sec-10-1)
 
 ### 10.1 ಮುನ್ನೋಟ
 
@@ -15505,7 +15505,7 @@ ssಸೆಟ್ಟಿ ‘ಸೆಟ್ಟಿ’
  
 <a id="sec-10-2"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-10-2)
+[Eke →](../eke/full#sec-10-2)
 
 ### 10.2 ಆಡುಗ ಪದಗಳು
 
@@ -15552,7 +15552,7 @@ ssಸೆಟ್ಟಿ ‘ಸೆಟ್ಟಿ’
 
 <a id="sub-10-2-1"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-10-2-1)
+[Eke →](../eke/full#sub-10-2-1)
 
 #### 10.2.1 ವ್ಯವಸ್ತೆಯಲ್ಲಿ ಬದಲಾವಣೆ
 
@@ -15674,7 +15674,7 @@ ssಸೆಟ್ಟಿ ‘ಸೆಟ್ಟಿ’
 
 <a id="sub-10-2-2"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-10-2-2)
+[Eke →](../eke/full#sub-10-2-2)
 
 #### 10.2.2 ಮೂರನೆಯ ವ್ಯಕ್ತಿ
 
@@ -15771,7 +15771,7 @@ ssಸೆಟ್ಟಿ ‘ಸೆಟ್ಟಿ’
 
 <a id="sub-10-2-3"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-10-2-3)
+[Eke →](../eke/full#sub-10-2-3)
 
 #### 10.2.3 ಆಡುಗ ಪದಗಳು ಮತ್ತು ನಾಮಪದಗಳು
 
@@ -15822,7 +15822,7 @@ ssಸೆಟ್ಟಿ ‘ಸೆಟ್ಟಿ’
 
 <a id="sec-10-3"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-10-3)
+[Eke →](../eke/full#sec-10-3)
 
 ### 10.3 ತೋರುಗ ಪದಗಳು
 
@@ -15984,7 +15984,7 @@ ssಸೆಟ್ಟಿ ‘ಸೆಟ್ಟಿ’
 
 <a id="sub-10-3-1"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-10-3-1)
+[Eke →](../eke/full#sub-10-3-1)
 
 #### 10.3.1 ಮೊದಲನೆಯ ಅಂಗದಲ್ಲಿ ನಡೆದ ಬದಲಾವಣೆಗಳು
 
@@ -16062,7 +16062,7 @@ ssಸೆಟ್ಟಿ ‘ಸೆಟ್ಟಿ’
 
 <a id="sub-10-3-2"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-10-3-2)
+[Eke →](../eke/full#sub-10-3-2)
 
 #### 10.3.2 ಎರಡನೆಯ ಅಂಗದಲ್ಲಿ ಬದಲಾವಣೆಗಳು
 
@@ -16120,7 +16120,7 @@ ssಸೆಟ್ಟಿ ‘ಸೆಟ್ಟಿ’
 
 <a id="sec-10-4"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-10-4)
+[Eke →](../eke/full#sec-10-4)
 
 ### 10.4 ತಿರುಳು
 
@@ -16152,14 +16152,14 @@ ssಸೆಟ್ಟಿ ‘ಸೆಟ್ಟಿ’
  
 <a id="adhyAya-11"></a>
 
-[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-11--qualifiers) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#adhyAya-11)
+[English →](../en/summary#chapter-11--qualifiers) | [Eke →](../eke/full#adhyAya-11)
 
 ## 11. ಗುಣಪದಗಳು
 
 
 <a id="sec-11-1"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-11-1)
+[Eke →](../eke/full#sec-11-1)
 
 ### 11.1 ಮುನ್ನೋಟ
 
@@ -16184,7 +16184,7 @@ ssಸೆಟ್ಟಿ ‘ಸೆಟ್ಟಿ’
  
 <a id="sub-11-1-1"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-11-1-1)
+[Eke →](../eke/full#sub-11-1-1)
 
 #### 11.1.1 ನಾಮ-ಗುಣಪದಗಳ ಕೆಲಸ
 
@@ -16314,7 +16314,7 @@ ssಸೆಟ್ಟಿ ‘ಸೆಟ್ಟಿ’
 
 <a id="sub-11-1-2"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-11-1-2)
+[Eke →](../eke/full#sub-11-1-2)
 
 #### 11.1.2 ಕ್ರಿಯಾ-ಗುಣಪದಗಳ ಕೆಲಸ
 
@@ -16362,7 +16362,7 @@ ssಸೆಟ್ಟಿ ‘ಸೆಟ್ಟಿ’
 
 <a id="sec-10-2"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-10-2)
+[Eke →](../eke/full#sec-10-2)
 
 ### 10.2 ನಾಮ-ಗುಣಪದಗಳ ಒಳರಚನೆ
 
@@ -16385,7 +16385,7 @@ ssಸೆಟ್ಟಿ ‘ಸೆಟ್ಟಿ’
 
 <a id="sub-11-2-1"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-11-2-1)
+[Eke →](../eke/full#sub-11-2-1)
 
 #### 11.2.1 ಗುಣಬೇರುಗಳಿಂದ ನಾಮ-ಗುಣಪದಗಳು
 
@@ -16441,7 +16441,7 @@ ssಸೆಟ್ಟಿ ‘ಸೆಟ್ಟಿ’
 
 <a id="sub-11-2-2"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-11-2-2)
+[Eke →](../eke/full#sub-11-2-2)
 
 #### 11.2.2 ನಾಮಬೇರುಗಳಿಂದ ನಾಮ-ಗುಣಪದಗಳು
 
@@ -16502,7 +16502,7 @@ ssಸೆಟ್ಟಿ ‘ಸೆಟ್ಟಿ’
 
 <a id="sub-11-2-3"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-11-2-3)
+[Eke →](../eke/full#sub-11-2-3)
 
 #### 11.2.3 ಕ್ರಿಯಾಬೇರುಗಳಿಂದ ನಾಮಗುಣಪದಗಳು
 
@@ -16554,7 +16554,7 @@ ssಸೆಟ್ಟಿ ‘ಸೆಟ್ಟಿ’
 
 <a id="sec-11-3"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-11-3)
+[Eke →](../eke/full#sec-11-3)
 
 ### 11.3 ನಾಮ-ಗುಣಪದಗಳ ಬಳಕೆ
 
@@ -16615,7 +16615,7 @@ ssಸೆಟ್ಟಿ ‘ಸೆಟ್ಟಿ’
 
 <a id="sub-11-3-1"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-11-3-1)
+[Eke →](../eke/full#sub-11-3-1)
 
 #### 11.3.1 ಮೂಲದ್ರಾವಿಡದ ಸೇರಿಕೆಯ ಬದಲಾವಣೆಗಳು
 
@@ -16747,7 +16747,7 @@ ssಸೆಟ್ಟಿ ‘ಸೆಟ್ಟಿ’
 
 <a id="sub-11-3-2"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-11-3-2)
+[Eke →](../eke/full#sub-11-3-2)
 
 #### 11.3.2 ಕನ್ನಡದವೇ ಆದ ಸೇರಿಕೆಯ ಬದಲಾವಣೆಗಳು
 
@@ -16843,7 +16843,7 @@ ssಸೆಟ್ಟಿ ‘ಸೆಟ್ಟಿ’
 
 <a id="sec-11-4"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-11-4)
+[Eke →](../eke/full#sec-11-4)
 
 ### 11.4 ಕ್ರಿಯಾ-ಗುಣಪದಗಳು
 
@@ -16902,7 +16902,7 @@ ssಸೆಟ್ಟಿ ‘ಸೆಟ್ಟಿ’
 
 <a id="sec-11-5"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-11-5)
+[Eke →](../eke/full#sec-11-5)
 
 ### 11.5 ಅಣಕಿಸುವ ಪದಗಳು
 
@@ -16998,7 +16998,7 @@ ssಸೆಟ್ಟಿ ‘ಸೆಟ್ಟಿ’
 
 <a id="sec-11-6"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-11-6)
+[Eke →](../eke/full#sec-11-6)
 
 ### 11.6 ಗುಣಪದಗಳ ನಾಮರೂಪಗಳು
 
@@ -17109,7 +17109,7 @@ ssಸೆಟ್ಟಿ ‘ಸೆಟ್ಟಿ’
 
 <a id="sec-11-7"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-11-7)
+[Eke →](../eke/full#sec-11-7)
 
 ### 11.7 ತಿರುಳು
 
@@ -17150,14 +17150,14 @@ ssಸೆಟ್ಟಿ ‘ಸೆಟ್ಟಿ’
  
 <a id="adhyAya-12"></a>
 
-[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-12--sentence-structure) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#adhyAya-12)
+[English →](../en/summary#chapter-12--sentence-structure) | [Eke →](../eke/full#adhyAya-12)
 
 ## 12. ವಾಕ್ಯಗಳ ಒಳರಚನೆ
 
 
 <a id="sec-12-1"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-12-1)
+[Eke →](../eke/full#sec-12-1)
 
 ### 12.1 ಮುನ್ನೋಟ
 
@@ -17250,7 +17250,7 @@ ssಸೆಟ್ಟಿ ‘ಸೆಟ್ಟಿ’
 
 <a id="sec-12-2"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-12-2)
+[Eke →](../eke/full#sec-12-2)
 
 ### 12.2 ಜೋಡಿಸುವ ಕ್ರಿಯಾರೂಪಗಳು
 
@@ -17469,7 +17469,7 @@ ssಸೆಟ್ಟಿ ‘ಸೆಟ್ಟಿ’
 
 <a id="sec-12-3"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-12-3)
+[Eke →](../eke/full#sec-12-3)
 
 ### 12.3 ಸಂಬಂದಿಸುವ ಕ್ರಿಯಾರೂಪಗಳು
 
@@ -17513,7 +17513,7 @@ ssಸೆಟ್ಟಿ ‘ಸೆಟ್ಟಿ’
 
 <a id="sec-12-4"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-12-4)
+[Eke →](../eke/full#sec-12-4)
 
 ### 12.4 ಶರತ್ತಿನ ಕ್ರಿಯಾರೂಪಗಳು
 
@@ -17547,7 +17547,7 @@ ssಸೆಟ್ಟಿ ‘ಸೆಟ್ಟಿ’
 
 <a id="sub-12-4-1"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-12-4-1)
+[Eke →](../eke/full#sub-12-4-1)
 
 #### 12.4.1 ಹಳೆಗನ್ನಡದ ರೂಪಗಳು
 
@@ -17584,7 +17584,7 @@ ssಸೆಟ್ಟಿ ‘ಸೆಟ್ಟಿ’
 
 <a id="sub-12-4-2"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sub-12-4-2)
+[Eke →](../eke/full#sub-12-4-2)
 
 #### 12.4.2 ಕನ್ನಡದಲ್ಲಿ ನಡೆದ ಬದಲಾವಣೆಗಳು
 
@@ -17660,7 +17660,7 @@ ssಸೆಟ್ಟಿ ‘ಸೆಟ್ಟಿ’
 
 <a id="sec-12-5"></a>
 
-[Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sec-12-5)
+[Eke →](../eke/full#sec-12-5)
 
 ### 12.5 ತಿರುಳು
 

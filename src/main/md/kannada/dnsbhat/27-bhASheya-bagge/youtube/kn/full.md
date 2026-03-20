@@ -9,5 +9,5 @@ redirect_from:
 
 | Format | Link |
 |--------|------|
-| English summary | [27-en](./27-bhASheya-bagge-en) |
-| Eke romanisation | [27-kn-eke](./27-bhASheya-bagge-kn-eke) |
+| English summary | [en](../en/summary) |
+| Eke romanisation | [eke](../eke/full) |

@@ -8,7 +8,7 @@ redirect_from:
 **lEkhakaru:** Di. en. Sankara bhaT
 **mUla:** PDF (Google Drive) — OCR SuddhIkxta prati
 
-> [← sUci](./README) | ingliS viSlEShaNe: [25-kannaDa-vAkyagaLa-oLaracane-en](./25-kannaDa-vAkyagaLa-oLaracane-en) | kannaDa: [25-kannaDa-vAkyagaLa-oLaracane-kn](./25-kannaDa-vAkyagaLa-oLaracane-kn)
+> [← sUci](../../README) | ingliS viSlEShaNe: [en](../en/summary) | kannaDa: [kn](../kn/full)
 
 ## pariviDi
 - [adhyAya 1 — pIThike](#adhyAya-1)
@@ -478,13 +478,13 @@ kelavu pAribhAShika padagaLu
 AkarasUci 
 viShayasUci   
 <a id="adhyAya-1"></a>
-[English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-1--introduction) | [ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#adhyAya-1)
+[English →](../en/summary#chapter-1--introduction) | [ಕನ್ನಡ →](../kn/full#adhyAya-1)
 
 ## adhyAya ondu — pIThike
 
 <a id="sec-1-1"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-1-1)
+[ಕನ್ನಡ →](../kn/full#sec-1-1)
 
 ### 1.1 mAtina kelasagaLu
 
@@ -580,7 +580,7 @@ entahavu  embudannu  keLagina  vibhAgagaLalli  svalpa  cuTukAgi  sUcisa
 
 <a id="sec-1-2"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-1-2)
+[ಕನ್ನಡ →](../kn/full#sec-1-2)
 
 ### 1.2 kriyAvAkyagaLu mattu viShayavAkyagaLu
 
@@ -615,7 +615,7 @@ ttave.
 
 <a id="sub-1-2-1"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-1-2-1)
+[ಕನ್ನಡ →](../kn/full#sub-1-2-1)
 
 #### 1.2.1 kriyApadada baLake
 
@@ -649,7 +649,7 @@ kAraNa, adarallU iru padavannu baLasuva avaSyakateyilla.
 
 <a id="sub-1-2-2"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-1-2-2)
+[ಕನ್ನಡ →](../kn/full#sub-1-2-2)
 
 #### 1.2.2 samaya sUcaneyalli vyatyAsa
 
@@ -693,7 +693,7 @@ rAju marakke hattuttiddAne.
 
 <a id="sub-1-2-3"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-1-2-3)
+[ಕನ್ನಡ →](../kn/full#sub-1-2-3)
 
 #### 1.2.3 eraDara naDuvina sambandha
 
@@ -717,7 +717,7 @@ vivarisa lAgide.
 
 <a id="sec-1-3"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-1-3)
+[ಕನ್ನಡ →](../kn/full#sec-1-3)
 
 ### 1.3 vAkyada ghaTakagaLu
 
@@ -749,7 +749,7 @@ baLakeyentahadu embudannu nAlkaneya adhyAyadalli vivarisalAgide.
 
 <a id="sub-1-3-1"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-1-3-1)
+[ಕನ್ನಡ →](../kn/full#sub-1-3-1)
 
 #### 1.3.1 mukhyavAda mattu mukhyavallada ghaTakagaLu
 
@@ -839,7 +839,7 @@ gaLE kAraNa.
 
 <a id="sub-1-3-2"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-1-3-2)
+[ಕನ್ನಡ →](../kn/full#sub-1-3-2)
 
 #### 1.3.2 vibhakti pratyayagaLa baLake
 
@@ -891,7 +891,7 @@ sAdhyavide embudannu eraDanE adhyAyadalli nODaliruvevu.
 
 <a id="sub-1-3-3"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-1-3-3)
+[ಕನ್ನಡ →](../kn/full#sub-1-3-3)
 
 #### 1.3.3 eraDu rItiya sambandhagaLu
 
@@ -926,7 +926,7 @@ vibhAgadalli kANabahudu.
 
 <a id="sec-1-4"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-1-4)
+[ಕನ್ನಡ →](../kn/full#sec-1-4)
 
 ### 1.4 guNapadagaLa baLake
 
@@ -961,7 +961,7 @@ nODabahudu).
 
 <a id="sec-1-5"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-1-5)
+[ಕನ್ನಡ →](../kn/full#sec-1-5)
 
 ### 1.5 oLavAkyagaLa baLake
 
@@ -987,7 +987,7 @@ Sharattu  embudAgi
 
 <a id="sec-1-6"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-1-6)
+[ಕನ್ನಡ →](../kn/full#sec-1-6)
 
 ### 1.6 vAkyagaLa jODaNe
 
@@ -1033,7 +1033,7 @@ hEge  baLasalAguttade  embudannu  enTaneya  adhyAyadalli  vivarisa
 
 <a id="sec-1-7"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-1-7)
+[ಕನ್ನಡ →](../kn/full#sec-1-7)
 
 ### 1.7 kannaDada kelavu vaySiShTyagaLu
 
@@ -1066,13 +1066,13 @@ vyatyAsagaLu  vAkyaracaneyalli  kannaDada  (mattu  itara  drAviDa  bhAShegaLa)
 koDuge  entahadu  embudannu  sUcisuttave.  ivannu  kannaDada  vyAkaraNa 
 sampattendu parigaNisabahudu. 
 <a id="adhyAya-2"></a>
-[English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-2--internal-structure-of-action-sentences) | [ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#adhyAya-2)
+[English →](../en/summary#chapter-2--internal-structure-of-action-sentences) | [ಕನ್ನಡ →](../kn/full#adhyAya-2)
 
 ## adhyAya eraDu — kriyAvAkyagaLa oLaracane
 
 <a id="sec-2-1"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-2-1)
+[ಕನ್ನಡ →](../kn/full#sec-2-1)
 
 ### 2.1 pIThike
 
@@ -1113,7 +1113,7 @@ yendu tOruttade (3.2.3 nODi).
 
 <a id="sub-2-1-1"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-2-1-1)
+[ಕನ್ನಡ →](../kn/full#sub-2-1-1)
 
 #### 2.1.1 kriyApadada pratyayagaLu
 
@@ -1151,7 +1151,7 @@ vivaragaLannu munde aydanE adhyAyadalli koDalAguvudu.
 
 <a id="sub-2-1-2"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-2-1-2)
+[ಕನ್ನಡ →](../kn/full#sub-2-1-2)
 
 #### 2.1.2 vAkyaghaTakagaLu mattu guNapadagaLu
 
@@ -1196,7 +1196,7 @@ baraballa  ghaTakagaLu  entahavu  embudannu  I  adhyAyadalli  vivarisa
 
 <a id="sec-2-2"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-2-2)
+[ಕನ್ನಡ →](../kn/full#sec-2-2)
 
 ### 2.2 ghaTakagaLalli vayvidhya
 
@@ -1254,7 +1254,7 @@ nnAdharisi kriyApadagaLannu bEre bEre vagragaLAgi vingaDisalu sAdhyavide.
 
 <a id="sub-2-2-1"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-2-2-1)
+[ಕನ್ನಡ →](../kn/full#sub-2-2-1)
 
 #### 2.2.1 mukhya ghaTakagaLu
 
@@ -1358,7 +1358,7 @@ balluvu.
 
 <a id="sub-2-2-2"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-2-2-2)
+[ಕನ್ನಡ →](../kn/full#sub-2-2-2)
 
 #### 2.2.2 mukhyavallada ghaTakagaLu
 
@@ -1406,7 +1406,7 @@ ghaTaka ivellavU mukhyavallada ghaTakagaLu.
 
 <a id="sec-2-3"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-2-3)
+[ಕನ್ನಡ →](../kn/full#sec-2-3)
 
 ### 2.3 ghaTakagaLa naDuvina vyatyAsagaLu
 
@@ -1416,7 +1416,7 @@ embudannu svalpa vivaravAgi keLage pariSIlisalAgide.
 
 <a id="sub-2-3-1"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-2-3-1)
+[ಕನ್ನಡ →](../kn/full#sub-2-3-1)
 
 #### 2.3.1 Aguga mattu mADuga
 
@@ -1453,7 +1453,7 @@ hatOTiyallirisikoLLuva Sakti bandiruva hAge kANisuttade.
 
 <a id="sub-2-3-2"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-2-3-2)
+[ಕನ್ನಡ →](../kn/full#sub-2-3-2)
 
 #### 2.3.2 jAga, suru mattu kone
 
@@ -1491,7 +1491,7 @@ adE ghaTane ondu jAgada kaDegAgi naDeyuttiruvudannU sUcisuttade.
 
 <a id="sub-2-3-3"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-2-3-3)
+[ಕನ್ನಡ →](../kn/full#sub-2-3-3)
 
 #### 2.3.3 suru mattu kone ghaTakagaLa heccina baLakegaLu
 
@@ -1525,7 +1525,7 @@ dakkAgiyU  kone  ghaTakavannu  baLasalu  sAdhyavide  embudannu  munde
 
 <a id="sec-2-4"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-2-4)
+[ಕನ್ನಡ →](../kn/full#sec-2-4)
 
 ### 2.4 kriyApadagaLa vibhajane
 
@@ -1556,7 +1556,7 @@ bEre bEre vagragaLalli vingaDisalu sAdhyavide.
 
 <a id="sub-2-4-1"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-2-4-1)
+[ಕನ್ನಡ →](../kn/full#sub-2-4-1)
 
 #### 2.4.1 ghaTakavillade baruva kriyApadagaLu
 
@@ -1587,7 +1587,7 @@ ttave.
 
 <a id="sub-2-4-2"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-2-4-2)
+[ಕನ್ನಡ →](../kn/full#sub-2-4-2)
 
 #### 2.4.2 ghaTaneya hatOTi
 
@@ -1659,7 +1659,7 @@ kha)gaLalli kANabahudu.
 
 <a id="sub-2-4-3"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-2-4-3)
+[ಕನ್ನಡ →](../kn/full#sub-2-4-3)
 
 #### 2.4.3 Agu kriyApadada ghaTakagaLu
 
@@ -1701,7 +1701,7 @@ oLavAkyavAgi paDediruva (43kha) vAkyadalli spaShTavAgi kANisuttade.
 
 <a id="sub-2-4-4"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-2-4-4)
+[ಕನ್ನಡ →](../kn/full#sub-2-4-4)
 
 #### 2.4.4 kadaluva mattu kadalada ghaTanegaLu
 
@@ -1741,7 +1741,7 @@ baraballudu.
 
 <a id="sec-2-5"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-2-5)
+[ಕನ್ನಡ →](../kn/full#sec-2-5)
 
 ### 2.5 vibhajaneya samasyegaLu
 
@@ -1756,7 +1756,7 @@ kanDubaruttade.
 
 <a id="sub-2-5-1"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-2-5-1)
+[ಕನ್ನಡ →](../kn/full#sub-2-5-1)
 
 #### 2.5.1 hatOTiya sUcane
 
@@ -1820,7 +1820,7 @@ bandideyendu hELabEkAguttade.
 
 <a id="sub-2-5-2"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-2-5-2)
+[ಕನ್ನಡ →](../kn/full#sub-2-5-2)
 
 #### 2.5.2 samagrateya sUcane
 
@@ -1872,7 +1872,7 @@ bahudu.
 
 <a id="sub-2-5-3"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-2-5-3)
+[ಕನ್ನಡ →](../kn/full#sub-2-5-3)
 
 #### 2.5.3 kadaluvikeya sUcane
 
@@ -1902,7 +1902,7 @@ ghaTakavannu baLasidAga calaneya mEle ottu bILuttade (59kha).
 
 <a id="sec-2-6"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-2-6)
+[ಕನ್ನಡ →](../kn/full#sec-2-6)
 
 ### 2.6 ghaTakagaLannu pratyEkisuvudu
 
@@ -1944,7 +1944,7 @@ baLasabEkAgide embudannu (61kha)dalli kANabahudu.
 
 <a id="sub-2-6-1"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-2-6-1)
+[ಕನ್ನಡ →](../kn/full#sub-2-6-1)
 
 #### 2.6.1 annu pratyayada baLake
 
@@ -1967,7 +1967,7 @@ pratyaya bandideyAdare idu sAdhyavAgadu.
 
 <a id="sub-6-2-2"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-6-2-2)
+[ಕನ್ನಡ →](../kn/full#sub-6-2-2)
 
 #### 6.2.2 jAga, suru mattu kone
 
@@ -2011,7 +2011,7 @@ illavE oDetanaviruvavanannu sUcisuva artha baruttade.
 
 <a id="sub-2-6-3"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-2-6-3)
+[ಕನ್ನಡ →](../kn/full#sub-2-6-3)
 
 #### 2.6.3 sambandhavannu sUcisuva padagaLu
 
@@ -2055,7 +2055,7 @@ ge emba pratyayagaLannu baLasalu sAdhyavide.
 
 <a id="sec-2-7"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-2-7)
+[ಕನ್ನಡ →](../kn/full#sec-2-7)
 
 ### 2.7 vyavahAra sambandha
 
@@ -2073,7 +2073,7 @@ ttave. ivannu ‘vyavahAra’ sambandhagaLendu kareyabahudu.
 
 <a id="sub-2-7-1"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-2-7-1)
+[ಕನ್ನಡ →](../kn/full#sub-2-7-1)
 
 #### 2.7.1 viShaya mattu suddi
 
@@ -2121,7 +2121,7 @@ embudu paricitavAgiruva pustakavannU sUcisuttave.
 
 <a id="sub-2-7-2"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-2-7-2)
+[ಕನ್ನಡ →](../kn/full#sub-2-7-2)
 
 #### 2.7.2 mukhya amSa
 
@@ -2173,7 +2173,7 @@ vAkyada  itara
 
 <a id="sub-2-7-3"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-2-7-3)
+[ಕನ್ನಡ →](../kn/full#sub-2-7-3)
 
 #### 2.7.3 hinneNike
 
@@ -2207,7 +2207,7 @@ vivaragaLige tirumalES (1979) mattu bhaT (1991) nODi).
 
 <a id="sec-2-8"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-2-8)
+[ಕನ್ನಡ →](../kn/full#sec-2-8)
 
 ### 2.8 guNapadagaLa baLake
 
@@ -2227,7 +2227,7 @@ adhyAyadalli koDalAgide.
 
 <a id="sec-2-9"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-2-9)
+[ಕನ್ನಡ →](../kn/full#sec-2-9)
 
 ### 2.9 sArAmSa
 
@@ -2256,13 +2256,13 @@ illavE pratyayagaLa baLake modalAda vidhAnagaLannu baLasalAguttade.
     kriyAvAkyagaLalli  baruva  kelavu  kriyAguNapadagaLu  ghaTanegaLa 
 guNadharmagaLannU sUcisaballuvu.   
 <a id="adhyAya-3"></a>
-[English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-3--internal-structure-of-stative-sentences) | [ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#adhyAya-3)
+[English →](../en/summary#chapter-3--internal-structure-of-stative-sentences) | [ಕನ್ನಡ →](../kn/full#adhyAya-3)
 
 ## adhyAya mUru — viShayavAkyagaLa oLaracane
 
 <a id="sec-3-1"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-3-1)
+[ಕನ್ನಡ →](../kn/full#sec-3-1)
 
 ### 3.1 pIThike
 
@@ -2311,7 +2311,7 @@ sambandhavannu sUcisalAgide, ityAdi.
 
 <a id="sub-3-1-1"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-3-1-1)
+[ಕನ್ನಡ →](../kn/full#sub-3-1-1)
 
 #### 3.1.1 samayabhEdagaLu
 
@@ -2389,7 +2389,7 @@ yAgiralu sAdhyavide.
 
 <a id="sub-3-1-2"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-3-1-2)
+[ಕನ್ನಡ →](../kn/full#sub-3-1-2)
 
 #### 3.1.2 kriyAvAkyagaLondige sambandha
 
@@ -2412,7 +2412,7 @@ mUlaka ondu magu iruvavaLAguttALe.
 
 <a id="sec-3-2"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-3-2)
+[ಕನ್ನಡ →](../kn/full#sec-3-2)
 
 ### 3.2 iruvikeya vAkyagaLu
 
@@ -2431,7 +2431,7 @@ rItiyalli eraDeraDu ghaTakagaLu bandiruvudannu kANabahudu.
 
 <a id="sub-3-2-1"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-3-2-1)
+[ಕನ್ನಡ →](../kn/full#sub-3-2-1)
 
 #### 3.2.1 jAgada svarUpa
 
@@ -2471,7 +2471,7 @@ balluvu. ivu jAgagaLa naDuviruva vayvidhyavannu sUcisuttave.
 
 <a id="sub-3-2-2"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-3-2-2)
+[ಕನ್ನಡ →](../kn/full#sub-3-2-2)
 
 #### 3.2.2 samayaghaTakada baLake
 
@@ -2504,7 +2504,7 @@ sUcisuva bErondu rItiya vAkyagaLu endU hELalu sAdhyavide.
 
 <a id="sub-3-2-3"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-3-2-3)
+[ಕನ್ನಡ →](../kn/full#sub-3-2-3)
 
 #### 3.2.3 iru kriyApadada baLake
 
@@ -2529,7 +2529,7 @@ santeyalli (iddAre).
 
 <a id="sec-3-3"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-3-3)
+[ಕನ್ನಡ →](../kn/full#sec-3-3)
 
 ### 3.3 guNavAkyagaLu
 
@@ -2559,7 +2559,7 @@ bhinnavAgide.
 
 <a id="sub-3-3-1"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-3-3-1)
+[ಕನ್ನಡ →](../kn/full#sub-3-3-1)
 
 #### 3.3.1 age pratyayada baLake
 
@@ -2583,7 +2583,7 @@ tiLisuva arthavU baralu sAdhyavide.
 
 <a id="sub-3-3-2"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-3-3-2)
+[ಕನ್ನಡ →](../kn/full#sub-3-3-2)
 
 #### 3.3.2 Agi kriyArUpada baLake
 
@@ -2671,7 +2671,7 @@ guNavAkyagaLendu kareyalu sAdhyavAgadu embudannu gamanisabahudu.
 
 <a id="sub-3-3-3"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-3-3-3)
+[ಕನ್ನಡ →](../kn/full#sub-3-3-3)
 
 #### 3.3.3 guNapadagaLa vibhajane
 
@@ -2715,7 +2715,7 @@ padagaLannu mUraneya vibhAgadalli irisabahudu.
 
 <a id="sub-3-3-4"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-3-3-4)
+[ಕನ್ನಡ →](../kn/full#sub-3-3-4)
 
 #### 3.3.4 heccina ghaTakagaLu
 
@@ -2740,7 +2740,7 @@ baraballudu.
 
 <a id="sub-3-3-5"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-3-3-5)
+[ಕನ್ನಡ →](../kn/full#sub-3-3-5)
 
 #### 3.3.5 jODi guNapadagaLu
 
@@ -2814,7 +2814,7 @@ baruva guNapadagaLannu mAtravE baLasalu sAdhya.
 
 <a id="sub-3-3-6"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-3-3-6)
+[ಕನ್ನಡ →](../kn/full#sub-3-3-6)
 
 #### 3.3.6 iru padada baLake
 
@@ -2842,7 +2842,7 @@ tegedu hAkalu sAdhyavAgadu.
 
 <a id="sub-3-3-7"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-3-3-7)
+[ಕನ್ನಡ →](../kn/full#sub-3-3-7)
 
 #### 3.3.7 iruvikeya vAkyadondigiruva sambandha
 
@@ -2878,7 +2878,7 @@ koDabahudu.
 
 <a id="sec-3-4"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-3-4)
+[ಕನ್ನಡ →](../kn/full#sec-3-4)
 
 ### 3.4 sambandha vAkyagaLu
 
@@ -2905,7 +2905,7 @@ arthavilla (2.5.3 nODi).
 
 <a id="sub-3-4-1"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-3-4-1)
+[ಕನ್ನಡ →](../kn/full#sub-3-4-1)
 
 #### 3.4.1 heccina ghaTakagaLu
 
@@ -2926,7 +2926,7 @@ baraballuvu.
 
 <a id="sec-3-5"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-3-5)
+[ಕನ್ನಡ →](../kn/full#sec-3-5)
 
 ### 3.5 sArAmSa
 
@@ -2942,13 +2942,13 @@ intaha vAkyagaLalli halavannu iru kriyApadavilladeyU baLasalu sAdhya
     intaha heccina vAkyagaLallU eraDu mukhya ghaTakagaLu bandiruttave. 
 avugaLondige kelavu amukhya ghaTakagaLU baraballuvu.  
 <a id="adhyAya-4"></a>
-[English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-4--noun-phrases) | [ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#adhyAya-4)
+[English →](../en/summary#chapter-4--noun-phrases) | [ಕನ್ನಡ →](../kn/full#adhyAya-4)
 
 ## adhyAya nAlku — nAmapadagaLa kantegaLu
 
 <a id="sec-4-1"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-4-1)
+[ಕನ್ನಡ →](../kn/full#sec-4-1)
 
 ### 4.1 padagaLu mattu padakantegaLu
 
@@ -2998,7 +2998,7 @@ vAda kAraNavU ide.
 
 <a id="sub-4-1-1"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-4-1-1)
+[ಕನ್ನಡ →](../kn/full#sub-4-1-1)
 
 #### 4.1.1 vyatyAsada avaSyakate
 
@@ -3056,7 +3056,7 @@ mUlaka varNisi gurutisabEkAgide.
 
 <a id="sub-4-1-2"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-4-1-2)
+[ಕನ್ನಡ →](../kn/full#sub-4-1-2)
 
 #### 4.1.2 kriyApada mattu guNapadagaLu
 
@@ -3107,7 +3107,7 @@ naDuviruva vyatyAsa kANisikoLLuvudilla.
 
 <a id="sec-4-2"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-4-2)
+[ಕನ್ನಡ →](../kn/full#sec-4-2)
 
 ### 4.2 gurutisuva vidhAnagaLu
 
@@ -3135,7 +3135,7 @@ vastuvannU hesarisuttive.
 
 <a id="sub-4-2-1"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-4-2-1)
+[ಕನ್ನಡ →](../kn/full#sub-4-2-1)
 
 #### 4.2.1 hesarisuvudu mattu varNisuvudu
 
@@ -3204,7 +3204,7 @@ kelasa  mADuva)  vxttiyavarembudAgi  ondu  rItiya  sAmyavU  ide
 
 <a id="sub-4-2-2"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-4-2-2)
+[ಕನ್ನಡ →](../kn/full#sub-4-2-2)
 
 #### 4.2.2 hosa mattu haLe gurutisuvikegaLu
 
@@ -3271,7 +3271,7 @@ ondu kere embudAgi padakanteyodannu baLasabEkAguttade.
 
 <a id="sub-4-2-3"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-4-2-3)
+[ಕನ್ನಡ →](../kn/full#sub-4-2-3)
 
 #### 4.2.3 tiLida mattu tiLiyada gurutisuvikegaLu
 
@@ -3295,7 +3295,7 @@ gaLannu (bhaT 2003:159)ralli nODabahudu).
 
 <a id="sub-4-2-4"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-4-2-4)
+[ಕನ್ನಡ →](../kn/full#sub-4-2-4)
 
 #### 4.2.4 gurutisada nAmapadagaLu
 
@@ -3325,7 +3325,7 @@ baLasalAgide embudannu avalambiside.
 
 <a id="sec-4-3"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-4-3)
+[ಕನ್ನಡ →](../kn/full#sec-4-3)
 
 ### 4.3 varNisuva nAmapadakantegaLu
 
@@ -3396,7 +3396,7 @@ dalli vivarisalAguvudu.
 
 <a id="sub-4-3-1"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-4-3-1)
+[ಕನ್ನಡ →](../kn/full#sub-4-3-1)
 
 #### 4.3.1 padakantegaLu mattu jODupadagaLu
 
@@ -3447,7 +3447,7 @@ nODi).
 
 <a id="sub-4-3-2"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-4-3-2)
+[ಕನ್ನಡ →](../kn/full#sub-4-3-2)
 
 #### 4.3.2 guNapadagaLa vibhajane
 
@@ -3561,7 +3561,7 @@ sUcisaballa guNapadagaLAgive.
 
 <a id="sub-4-3-3"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-4-3-3)
+[ಕನ್ನಡ →](../kn/full#sub-4-3-3)
 
 #### 4.3.3 nAmapadakantegaLalli guNapadagaLa baLake
 
@@ -3602,7 +3602,7 @@ manegaLu embudakke sambandhisuttade.
 
 <a id="sub-4-3-4"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-4-3-4)
+[ಕನ್ನಡ →](../kn/full#sub-4-3-4)
 
 #### 4.3.4 eNikeya padagaLa baLake
 
@@ -3664,7 +3664,7 @@ dannU baLasalu sAdhyavide (ondanE huDuga, modalanE huDuga).
 
 <a id="sub-4-3-5"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-4-3-5)
+[ಕನ್ನಡ →](../kn/full#sub-4-3-5)
 
 #### 4.3.5 aLateyannu sUcisuva padagaLu
 
@@ -3683,7 +3683,7 @@ hEraLa haNa, ityAdi).
 
 <a id="sec-4-4"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-4-4)
+[ಕನ್ನಡ →](../kn/full#sec-4-4)
 
 ### 4.4 sArAmSa
 
@@ -3698,13 +3698,13 @@ gaLannu guNapada, eNikeya pada, aLateya pada modalAdavugaLondige
 sErisi  ondu  ‘padakante’ya  rUpadalli  baLasuva  avaSyakate  kanDubaru 
 ttade.  ondu  iDI  vAkyavU  intaha  padakanteya  angavAgiralu  sAdhya 
 <a id="adhyAya-5"></a>
-[English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-5--verb-forms) | [ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#adhyAya-5)
+[English →](../en/summary#chapter-5--verb-forms) | [ಕನ್ನಡ →](../kn/full#adhyAya-5)
 
 ## adhyAya aydu — kriyApadagaLa padarUpagaLu
 
 <a id="sec-5-1"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-5-1)
+[ಕನ್ನಡ →](../kn/full#sec-5-1)
 
 ### 5.1 pIThike
 
@@ -3763,7 +3763,7 @@ adhyAyadalli vivarisalAgide.
 
 <a id="sec-5-2"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-5-2)
+[ಕನ್ನಡ →](../kn/full#sec-5-2)
 
 ### 5.2 samayavannu sUcisuva pratyayagaLu
 
@@ -3791,7 +3791,7 @@ bandiruva id emba ‘hindina’ samayada pratyaya sUcisuttade.
 
 <a id="sub-5-2-1"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-5-2-1)
+[ಕನ್ನಡ →](../kn/full#sub-5-2-1)
 
 #### 5.2.1 mundina samaya
 
@@ -3838,7 +3838,7 @@ koDaballudu.
 
 <a id="sub-5-2-2"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-5-2-2)
+[ಕನ್ನಡ →](../kn/full#sub-5-2-2)
 
 #### 5.2.2 hindina samaya
 
@@ -3887,7 +3887,7 @@ kudiyitu
 
 <a id="sub-5-2-3"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-5-2-3)
+[ಕನ್ನಡ →](../kn/full#sub-5-2-3)
 
 #### 5.2.3 apavAdagaLu
 
@@ -4104,7 +4104,7 @@ horaTa
 
 <a id="sub-5-2-4"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-5-2-4)
+[ಕನ್ನಡ →](../kn/full#sub-5-2-4)
 
 #### 5.2.4 Igina samaya
 
@@ -4123,7 +4123,7 @@ iddAne
 
 <a id="sub-5-2-5"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-5-2-5)
+[ಕನ್ನಡ →](../kn/full#sub-5-2-5)
 
 #### 5.2.5 samaya pratyayavillade baLakeyAguva kriyApadagaLu
 
@@ -4146,7 +4146,7 @@ svatantravAgiyU baLakeyAgaballudu.
 
 <a id="sec-5-3"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-5-3)
+[ಕನ್ನಡ →](../kn/full#sec-5-3)
 
 ### 5.3 ghaTakavannu sUcisuva pratyayagaLu
 
@@ -4240,7 +4240,7 @@ balluvu
 
 <a id="sec-5-4"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-5-4)
+[ಕನ್ನಡ →](../kn/full#sec-5-4)
 
 ### 5.4 isu pratyayada baLake
 
@@ -4357,7 +4357,7 @@ ghaTakavU (Ake embudU) bandide.
 
 <a id="sec-5-5"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-5-5)
+[ಕನ್ನಡ →](../kn/full#sec-5-5)
 
 ### 5.5 vAkyada naDuve kANisuva kriyArUpagaLu
 
@@ -4380,7 +4380,7 @@ vibhAgagaLalli vivarisalAgide.
 
 <a id="sub-5-5-1"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-5-5-1)
+[ಕನ್ನಡ →](../kn/full#sub-5-5-1)
 
 #### 5.5.1 jODisuva rUpagaLu
 
@@ -4409,7 +4409,7 @@ vyatyAsagaLannu sUcisalAravu.
 
 <a id="sub-5-5-2"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-5-5-2)
+[ಕನ್ನಡ →](../kn/full#sub-5-5-2)
 
 #### 5.5.2 samayavannu sUcisuva pratyayagaLu
 
@@ -4509,7 +4509,7 @@ viSiShTavAda rUpagaLiveyembudannu illi gamanisabahudu.
 
 <a id="sub-5-5-3"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-5-5-3)
+[ಕನ್ನಡ →](../kn/full#sub-5-5-3)
 
 #### 5.5.3 i pratyayada rUpagaLu
 
@@ -4599,7 +4599,7 @@ koTTu
 
 <a id="sub-5-5-4"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-5-5-4)
+[ಕನ್ನಡ →](../kn/full#sub-5-5-4)
 
 #### 5.5.4 sambandhisuva rUpagaLu
 
@@ -4706,7 +4706,7 @@ bAr mattu tAr emba rUpadalli baruttave.
 
 <a id="sub-5-5-5"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-5-5-5)
+[ಕನ್ನಡ →](../kn/full#sub-5-5-5)
 
 #### 5.5.5 Sharattannu sUcisuva rUpa
 
@@ -4740,7 +4740,7 @@ lAgide. (33kha-ga)gaLallU hIgeyE.
 
 <a id="sub-5-5-6"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-5-5-6)
+[ಕನ್ನಡ →](../kn/full#sub-5-5-6)
 
 #### 5.5.6 kriyApadada nAmapadarUpagaLu
 
@@ -4787,7 +4787,7 @@ rUpavannu (hADadiruvudakke embudaralli) baLasabEkAgide.
 
 <a id="sec-5-6"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-5-6)
+[ಕನ್ನಡ →](../kn/full#sec-5-6)
 
 ### 5.6 kUDupadagaLu
 
@@ -4868,7 +4868,7 @@ vivaragaLige bhaT 2002:179 nODi).
 
 <a id="sub-5-6-1"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-5-6-1)
+[ಕನ್ನಡ →](../kn/full#sub-5-6-1)
 
 #### 5.6.1 samayada sUcane
 
@@ -4915,7 +4915,7 @@ kUDupadagaLalli  hindina
 
 <a id="sub-5-6-2"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-5-6-2)
+[ಕನ್ನಡ →](../kn/full#sub-5-6-2)
 
 #### 5.6.2 iru kriyApadada baLake
 
@@ -4972,7 +4972,7 @@ mADuttiddAne
 
 <a id="sub-5-6-3"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-5-6-3)
+[ಕನ್ನಡ →](../kn/full#sub-5-6-3)
 
 #### 5.6.3 koLLu padada baLake
 
@@ -5003,7 +5003,7 @@ gALige)  teredukonDide  (jAsti  vivaragaLige  bhaT  1978,  SrIdhar
 
 <a id="sec-5-7"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-5-7)
+[ಕನ್ನಡ →](../kn/full#sec-5-7)
 
 ### 5.7 sArAmSa
 
@@ -5025,13 +5025,13 @@ sandabhragaLalli adaralli baruva kriyApadadalli bEreyE kelavu badalA
 vaNegaLannu naDesabEkAguttade. I badalAvaNegaLu entahavu embudannu 
 munde hattaneya adhyAyadalli vivarisalAguvudu. 
 <a id="adhyAya-6"></a>
-[English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-6--use-of-qualifiers) | [ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#adhyAya-6)
+[English →](../en/summary#chapter-6--use-of-qualifiers) | [ಕನ್ನಡ →](../kn/full#adhyAya-6)
 
 ## adhyAya Aru — guNapadagaLa baLake
 
 <a id="sec-6-1"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-6-1)
+[ಕನ್ನಡ →](../kn/full#sec-6-1)
 
 ### 6.1 pIThike
 
@@ -5062,7 +5062,7 @@ mattu baLakegaLentahavu embudannu I adhyAyadalli nODaliruvevu.
 
 <a id="sec-6-2"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-6-2)
+[ಕನ್ನಡ →](../kn/full#sec-6-2)
 
 ### 6.2 guNapadagaLa naDuviruva sAmyagaLu
 
@@ -5089,7 +5089,7 @@ bEkAguva  intaha  sandabhragaLalli  mukhyavAda  kelavannu  keLage  koDa
 
 <a id="sub-6-2-1"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-6-2-1)
+[ಕನ್ನಡ →](../kn/full#sub-6-2-1)
 
 #### 6.2.1 guNadharmada pramANavannu sUcisuva padagaLu
 
@@ -5112,7 +5112,7 @@ diddarU sUcyavAgiruva guNapadagaLa pramANavannE tiLisuttive.
 
 <a id="sub-6-2-2"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-6-2-2)
+[ಕನ್ನಡ →](../kn/full#sub-6-2-2)
 
 #### 6.2.2 hOlikeyannu sUcisuva vAkyagaLu
 
@@ -5131,7 +5131,7 @@ guNapada sUcitavAgadiruvudilla.
 
 <a id="sub-6-2-3"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-6-2-3)
+[ಕನ್ನಡ →](../kn/full#sub-6-2-3)
 
 #### 6.2.3 beragannu sUcisuva vAkyagaLu
 
@@ -5148,7 +5148,7 @@ diruvudilla.
 
 <a id="sec-6-3"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-6-3)
+[ಕನ್ನಡ →](../kn/full#sec-6-3)
 
 ### 6.3 kelavu vyatyAsagaLu
 
@@ -5162,7 +5162,7 @@ vyatyAsagaLige mUla kAraNa.
 
 <a id="sub-6-3-1"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-6-3-1)
+[ಕನ್ನಡ →](../kn/full#sub-6-3-1)
 
 #### 6.3.1 niScitavAda jAga
 
@@ -5239,7 +5239,7 @@ gaLinda tiLiyabahudu.
 
 <a id="sub-6-3-2"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-6-3-2)
+[ಕನ್ನಡ →](../kn/full#sub-6-3-2)
 
 #### 6.3.2 E illavE U pratyayagaLa jote baLake
 
@@ -5257,7 +5257,7 @@ pratyayagaLondige baLasalu sAdhyavide.
 
 <a id="sub-6-3-3"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-6-3-3)
+[ಕನ್ನಡ →](../kn/full#sub-6-3-3)
 
 #### 6.3.3 pratidhvanisuva racaneyalli baLake
 
@@ -5295,7 +5295,7 @@ gamanisabahudu.
 
 <a id="sub-6-3-4"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-6-3-4)
+[ಕನ್ನಡ →](../kn/full#sub-6-3-4)
 
 #### 6.3.4 pratyayagaLa baLake
 
@@ -5343,7 +5343,7 @@ gaLalli kANabahudu.
 
 <a id="sub-6-3-5"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-6-3-5)
+[ಕನ್ನಡ →](../kn/full#sub-6-3-5)
 
 #### 6.3.5 guNadharmadalli vyatyAsa
 
@@ -5368,7 +5368,7 @@ davAgive embudannu illi gamanisabahudu (4.3.2 nODi).
 
 <a id="sub-6-3-6"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-6-3-6)
+[ಕನ್ನಡ →](../kn/full#sub-6-3-6)
 
 #### 6.3.6 vAkyaracaneya bEDikegaLu
 
@@ -5410,7 +5410,7 @@ nEravAgi  ghaTaneya
 
 <a id="sec-6-4"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-6-4)
+[ಕನ್ನಡ →](../kn/full#sec-6-4)
 
 ### 6.4 aNakisuva guNapadagaLu
 
@@ -5462,7 +5462,7 @@ koLLuvudilla (bhaT 1999:192 nODi).
 
 <a id="sec-6-5"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-6-5)
+[ಕನ್ನಡ →](../kn/full#sec-6-5)
 
 ### 6.5 jAgavannu sUcisuva guNapadagaLu
 
@@ -5517,7 +5517,7 @@ sUcisuttive.
 
 <a id="sec-6-6"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-6-6)
+[ಕನ್ನಡ →](../kn/full#sec-6-6)
 
 ### 6.6 samayavannu sUcisuva guNapadagaLu
 
@@ -5553,7 +5553,7 @@ mattu konegonDiruva samayagaLannu sUcisuva arthavide.
 
 <a id="sec-6-7"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-6-7)
+[ಕನ್ನಡ →](../kn/full#sec-6-7)
 
 ### 6.7 sArAmSa
 
@@ -5570,13 +5570,13 @@ LembudAgi  kriyApadagaLondige  baruva  guNapadagaLannu  mUru  mukhya
 gumpugaLalli  vingaDisabahudu.  ivugaLalli  mUraneya  gumpige  sErida 
 guNapadagaLalli heccinavU kannaDadalli aNakisuva padagaLAgi baLakeyallive.  
 <a id="adhyAya-7"></a>
-[English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-7--embedded-clauses) | [ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#adhyAya-7)
+[English →](../en/summary#chapter-7--embedded-clauses) | [ಕನ್ನಡ →](../kn/full#adhyAya-7)
 
 ## adhyAya ELu — oLavAkyagaLu
 
 <a id="sec-7-1"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-7-1)
+[ಕನ್ನಡ →](../kn/full#sec-7-1)
 
 ### 7.1 pIThike
 
@@ -5626,7 +5626,7 @@ embudannu keLage svalpa vivaravAgi tiLisalAgide.
 
 <a id="sec-7-2"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-7-2)
+[ಕನ್ನಡ →](../kn/full#sec-7-2)
 
 ### 7.2 etti hELuvudu
 
@@ -5650,7 +5650,7 @@ baLakeyannu keLagina vAkyagaLalli kANabahudu.
 
 <a id="sub-7-2-1"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-7-2-1)
+[ಕನ್ನಡ →](../kn/full#sub-7-2-1)
 
 #### 7.2.1 ante embudara baLake
 
@@ -5715,7 +5715,7 @@ emba kriyArUpavannU baLasabEkAgide embudannu gamanisabahudu.
 
 <a id="sub-7-2-2"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-7-2-2)
+[ಕನ್ನಡ →](../kn/full#sub-7-2-2)
 
 #### 7.2.2 oLavAkyada baLake
 
@@ -5799,7 +5799,7 @@ gottAgilla.
 
 <a id="sec-7-3"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-7-3)
+[ಕನ್ನಡ →](../kn/full#sec-7-3)
 
 ### 7.3 varNisuvudu
 
@@ -5882,7 +5882,7 @@ vidhAnagaLu  entahavu  embudannu  mundina  vibhAgada  nAlku  (7.4.1-
 
 <a id="sub-7-3-1"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-7-3-1)
+[ಕನ್ನಡ →](../kn/full#sub-7-3-1)
 
 #### 7.3.1 vAkyada angavAgi baLake
 
@@ -5937,7 +5937,7 @@ ondu vibhAgadalli vivarisalAguvudu.
 
 <a id="sub-7-3-2"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-7-3-2)
+[ಕನ್ನಡ →](../kn/full#sub-7-3-2)
 
 #### 7.3.2 nAmapadada jAgadalli baLake
 
@@ -6048,7 +6048,7 @@ pratyayada baLakeyalli idu sAdhyavAgadu.
 
 <a id="sub-7-3-3"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-7-3-3)
+[ಕನ್ನಡ →](../kn/full#sub-7-3-3)
 
 #### 7.3.3 kriyAguNapadagaLa jAgadalli baLake
 
@@ -6101,7 +6101,7 @@ dannu nirdharisuvudu kaShTavAgi tOralu sAdhyavide.
 
 <a id="sub-7-3-4"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-7-3-4)
+[ಕನ್ನಡ →](../kn/full#sub-7-3-4)
 
 #### 7.3.4 horavAkyada kriyApadagaLu
 
@@ -6194,7 +6194,7 @@ vAkyagaLallU hIgeyE.
 
 <a id="sub-7-3-5"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-7-3-5)
+[ಕನ್ನಡ →](../kn/full#sub-7-3-5)
 
 #### 7.3.5 horavAkyavAgi viShayavAkyagaLa baLake
 
@@ -6215,7 +6215,7 @@ yannu sUcisuttideyembudannu gamanisabahudu.
 
 <a id="sec-7-4"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-7-4)
+[ಕನ್ನಡ →](../kn/full#sec-7-4)
 
 ### 7.4 padakanteya angavAgi baLake
 
@@ -6272,7 +6272,7 @@ kriyApadavannU
 
 <a id="sub-7-4-1"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-7-4-1)
+[ಕನ್ನಡ →](../kn/full#sub-7-4-1)
 
 #### 7.4.1 O pratyayada baLake
 
@@ -6341,7 +6341,7 @@ pustakada  cIlavannU
 
 <a id="sub-7-4-2"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-7-4-2)
+[ಕನ್ನಡ →](../kn/full#sub-7-4-2)
 
 #### 7.4.2 kriyApadakke a pratyayavannu sErisuvudu
 
@@ -6454,7 +6454,7 @@ ttEne.
 
 <a id="sub-7-4-3"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-7-4-3)
+[ಕನ್ನಡ →](../kn/full#sub-7-4-3)
 
 #### 7.4.3 vAkyada ghaTakagaLige a pratyayavannu sErisuvudu
 
@@ -6482,7 +6482,7 @@ alli emba eraDu pratyayagaLU bidduhOgive.
 
 <a id="sub-7-4-4"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-7-4-4)
+[ಕನ್ನಡ →](../kn/full#sub-7-4-4)
 
 #### 7.4.4 emba illavE ennuva padagaLa baLake
 
@@ -6513,7 +6513,7 @@ yArU
 
 <a id="sec-7-5"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-7-5)
+[ಕನ್ನಡ →](../kn/full#sec-7-5)
 
 ### 7.5 sArAmSa
 
@@ -6546,13 +6546,13 @@ vudu  embudAgi  nAlku  vidhAnagaLu  baLakeyallive.  I  vidhAnagaLannu
 baLasidAga vAkyadalli bEreyU halavu badalAvaNegaLu naDeyuttave. I 
 vidhAnagaLigella bEre bEre uddESagaLive. 
 <a id="adhyAya-8"></a>
-[English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-8--sentence-coordination) | [ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#adhyAya-8)
+[English →](../en/summary#chapter-8--sentence-coordination) | [ಕನ್ನಡ →](../kn/full#adhyAya-8)
 
 ## adhyAya enTu — vAkyagaLa jODaNe
 
 <a id="sec-8-1"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-8-1)
+[ಕನ್ನಡ →](../kn/full#sec-8-1)
 
 ### 8.1 pIThike
 
@@ -6585,7 +6585,7 @@ hOdaLu.
 
 <a id="sub-8-1-1"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-8-1-1)
+[ಕನ್ನಡ →](../kn/full#sub-8-1-1)
 
 #### 8.1.1 jODaNeyalli vAkyagaLu mattu vAkyAngagaLu
 
@@ -6636,7 +6636,7 @@ mAtravE tayArisiralu sAdhya.
 
 <a id="sub-8-1-2"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-8-1-2)
+[ಕನ್ನಡ →](../kn/full#sub-8-1-2)
 
 #### 8.1.2 jODisida vAkya mattu oLavAkya
 
@@ -6660,7 +6660,7 @@ hOgalADisabahudu.
 
 <a id="sec-8-2"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-8-2)
+[ಕನ್ನಡ →](../kn/full#sec-8-2)
 
 ### 8.2 jODaNeya niyamagaLu
 
@@ -6673,7 +6673,7 @@ koLLuttave embudannu keLagina vibhAgagaLalli vivarisalAgide.
 
 <a id="sub-8-2-1"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-8-2-1)
+[ಕನ್ನಡ →](../kn/full#sub-8-2-1)
 
 #### 8.2.1 ondE kriyApadada baLake
 
@@ -6762,7 +6762,7 @@ sEruttAne,
 
 <a id="sub-8-2-2"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-8-2-2)
+[ಕನ್ನಡ →](../kn/full#sub-8-2-2)
 
 #### 8.2.2 jODisuva pada illavE pratyayagaLa jAga
 
@@ -6814,7 +6814,7 @@ mADabahudu.
 
 <a id="sub-8-2-3"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-8-2-3)
+[ಕನ್ನಡ →](../kn/full#sub-8-2-3)
 
 #### 8.2.3 jODisuva kriyArUpada baLake
 
@@ -6906,7 +6906,7 @@ illadiruvudannu sUcisuttade.
 
 <a id="sub-8-2-4"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-8-2-4)
+[ಕನ್ನಡ →](../kn/full#sub-8-2-4)
 
 #### 8.2.4 ghaTaneya hatOTi
 
@@ -6957,7 +6957,7 @@ hAge kANisuttade.
 
 <a id="sec-8-3"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-8-3)
+[ಕನ್ನಡ →](../kn/full#sec-8-3)
 
 ### 8.3 jODaNeyalli mUru bage
 
@@ -7005,7 +7005,7 @@ emba artha baruttade.
 
 <a id="sec-8-4"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-8-4)
+[ಕನ್ನಡ →](../kn/full#sec-8-4)
 
 ### 8.4 jODisida vAkyagaLu mattu kUDupadagaLu
 
@@ -7036,7 +7036,7 @@ kelasavannu  naDesuttave.  intaha  racanegaLa  kuritu  heccina  vivaragaLannu
 
 <a id="sec-8-4"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-8-4)
+[ಕನ್ನಡ →](../kn/full#sec-8-4)
 
 ### 8.4 sArAmSa
 
@@ -7051,13 +7051,13 @@ kUDikeya  sambandhavideyendAgalI,  badali  sambandhavideyendAgalI
 illavE  pratikUla  (athavA  Sharattina)  sambandhavideyendAgalI  sUcisu 
 vudE I mUru uddESagaLu.    
 <a id="adhyAya-9"></a>
-[English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-9--focusing-and-negation) | [ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#adhyAya-9)
+[English →](../en/summary#chapter-9--focusing-and-negation) | [ಕನ್ನಡ →](../kn/full#adhyAya-9)
 
 ## adhyAya ombattu — sambandhisuvudu mattu allagaLeyuvudu
 
 <a id="sec-9-1"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-9-1)
+[ಕನ್ನಡ →](../kn/full#sec-9-1)
 
 ### 9.1 pIThike
 
@@ -7124,7 +7124,7 @@ rItiya tiLisuva vAkyagaLendu parigaNisalu sAdhyavide.
 
 <a id="sec-9-2"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-9-2)
+[ಕನ್ನಡ →](../kn/full#sec-9-2)
 
 ### 9.2 sambandhisuva vAkyagaLu
 
@@ -7142,7 +7142,7 @@ nAmapadarUpakke badalAyisalAgide.
 
 <a id="sub-9-2-1"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-9-2-1)
+[ಕನ್ನಡ →](../kn/full#sub-9-2-1)
 
 #### 9.2.1 ghaTakagaLannu pratyEkisuvudu
 
@@ -7173,7 +7173,7 @@ vannu vAkyada koneyallirisabEku.
 
 <a id="sub-9-2-2"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-9-2-2)
+[ಕನ್ನಡ →](../kn/full#sub-9-2-2)
 
 #### 9.2.2 kriyApadavannu badalAyisuvudu
 
@@ -7235,7 +7235,7 @@ mundina
 
 <a id="sec-9-3"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-9-3)
+[ಕನ್ನಡ →](../kn/full#sec-9-3)
 
 ### 9.3 allagaLeyuva vAkyagaLu
 
@@ -7312,7 +7312,7 @@ sambandhisuvudu mattu allagaLeyuvudu
 
 <a id="sub-9-3-1"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-9-3-1)
+[ಕನ್ನಡ →](../kn/full#sub-9-3-1)
 
 #### 9.3.1 sambandhavannu allagaLeyuvudu
 
@@ -7357,7 +7357,7 @@ sambandhavannu allagaLeyuvudilla.
 
 <a id="sub-9-3-2"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-9-3-2)
+[ಕನ್ನಡ →](../kn/full#sub-9-3-2)
 
 #### 9.3.2 padagaLannu allagaLeyuvudu
 
@@ -7405,7 +7405,7 @@ mUlaka antahadE allagaLeyuva arthavannu paDeyabahudu.
 
 <a id="sub-9-3-3"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-9-3-3)
+[ಕನ್ನಡ →](../kn/full#sub-9-3-3)
 
 #### 9.3.3 allagaLeyuva kriyArUpagaLu
 
@@ -7460,7 +7460,7 @@ bandiruva bEDa kriyArUpakke allagaLeyuva arthavide.
 
 <a id="sub-9-3-4"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-9-3-4)
+[ಕನ್ನಡ →](../kn/full#sub-9-3-4)
 
 #### 9.3.4 eraDu bAri allagaLeyuvudu
 
@@ -7485,7 +7485,7 @@ sErikoLLuttade.
 
 <a id="sub-9-3-5"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-9-3-5)
+[ಕನ್ನಡ →](../kn/full#sub-9-3-5)
 
 #### 9.3.5 aLateyannu allagaLeyuvudu
 
@@ -7512,7 +7512,7 @@ koDalAgide.
 
 <a id="sub-9-3-6"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-9-3-6)
+[ಕನ್ನಡ →](../kn/full#sub-9-3-6)
 
 #### 9.3.6 kelavu viSiShTa padagaLa baLake
 
@@ -7551,7 +7551,7 @@ vAgi jAsti illavE aShTondu embudannu baLasuvudu rUDhi.
 
 <a id="sec-9-4"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-9-4)
+[ಕನ್ನಡ →](../kn/full#sec-9-4)
 
 ### 9.4 sArAmSa
 
@@ -7564,13 +7564,13 @@ sAdhyavide. idakkAgi allagaLeyuva vAkyagaLa baLakeyAguttade.
     I  eraDu  rItiya  vAkyagaLannU  tiLisuva  vAkyagaLallEnE  kelavu 
 badalAvaNegaLannu mADuvudara mUlaka tayArisikoLLalu sAdhyavide. 
 <a id="adhyAya-10"></a>
-[English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-10--speech-acts) | [ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#adhyAya-10)
+[English →](../en/summary#chapter-10--speech-acts) | [ಕನ್ನಡ →](../kn/full#adhyAya-10)
 
 ## adhyAya hattu — mAtina kelasagaLu
 
 <a id="sec-10-1"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-10-1)
+[ಕನ್ನಡ →](../kn/full#sec-10-1)
 
 ### 10.1 pIThike
 
@@ -7652,7 +7652,7 @@ illi vivarisuva avaSyakate kanDubandide.
 
 <a id="sec-10-2"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-10-2)
+[ಕನ್ನಡ →](../kn/full#sec-10-2)
 
 ### 10.2 naDesikoDuva padagaLu
 
@@ -7693,7 +7693,7 @@ dallade mAtu koDuva kelasavannu naDesuvudilla.
 
 <a id="sub-10-2-1"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-10-2-1)
+[ಕನ್ನಡ →](../kn/full#sub-10-2-1)
 
 #### 10.2.1 kelavu apavAdagaLu
 
@@ -7742,7 +7742,7 @@ naDesuvudilla.
 
 <a id="sec-10-3"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-10-3)
+[ಕನ್ನಡ →](../kn/full#sec-10-3)
 
 ### 10.3 kELuva vAkyagaLu
 
@@ -7812,7 +7812,7 @@ ttave.
 
 <a id="sub-10-3-1"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-10-3-1)
+[ಕನ್ನಡ →](../kn/full#sub-10-3-1)
 
 #### 10.3.1 vAkyakELvigaLa svarUpa
 
@@ -7894,7 +7894,7 @@ Sruti mAtra endu hELabEkAguttade.
 
 <a id="sub-10-3-2"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-10-3-2)
+[ಕನ್ನಡ →](../kn/full#sub-10-3-2)
 
 #### 10.3.2 vAkyakELvigaLige uttara
 
@@ -7930,7 +7930,7 @@ allagaLe yuvudakkAgi illa padada baLakeyAgide.
 
 <a id="sub-10-3-3"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-10-3-3)
+[ಕನ್ನಡ →](../kn/full#sub-10-3-3)
 
 #### 10.3.3 vAkyakELvigaLalli vayvidhya
 
@@ -8022,7 +8022,7 @@ vAkyada konege vagrAyisabEkAgilla.
 
 <a id="sub-10-3-4"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-10-3-4)
+[ಕನ್ನಡ →](../kn/full#sub-10-3-4)
 
 #### 10.3.4 dxDhIkarisuva kELvigaLu
 
@@ -8065,7 +8065,7 @@ bahudu.
 
 <a id="sub-10-3-5"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-10-3-5)
+[ಕನ್ನಡ →](../kn/full#sub-10-3-5)
 
 #### 10.3.5 badali kELvigaLu
 
@@ -8123,7 +8123,7 @@ tiLisabEkAguttade.
 
 <a id="sub-10-4-1"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-10-4-1)
+[ಕನ್ನಡ →](../kn/full#sub-10-4-1)
 
 #### 10.4.1 aniScita padagaLu
 
@@ -8177,7 +8177,7 @@ ralli nODabahudu).
 
 <a id="sub-10-4-2"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-10-4-2)
+[ಕನ್ನಡ →](../kn/full#sub-10-4-2)
 
 #### 10.4.2 kELuva angagaLu
 
@@ -8246,7 +8246,7 @@ gaLige uttaragaLAgaballuvembudannu gamanisabahudu.
 
 <a id="sub-10-4-3"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-10-4-3)
+[ಕನ್ನಡ →](../kn/full#sub-10-4-3)
 
 #### 10.4.3 padavagradalli vyatyAsa
 
@@ -8349,7 +8349,7 @@ dannu tiLiyabayasuva kELviyannu racisalu sAdhyavide.
 
 <a id="sub-10-4-4"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-10-4-4)
+[ಕನ್ನಡ →](../kn/full#sub-10-4-4)
 
 #### 10.4.4 vacanada aniScitate
 
@@ -8387,7 +8387,7 @@ kAraNa intaha sandabhragaLalli avannE baLasabEkemba niyamavilla.
 
 <a id="sub-10-4-5"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-10-4-5)
+[ಕನ್ನಡ →](../kn/full#sub-10-4-5)
 
 #### 10.4.5 oLavAkyagaLAgi baLake
 
@@ -8414,7 +8414,7 @@ vAgadu.
 
 <a id="sub-10-4-6"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-10-4-6)
+[ಕನ್ನಡ →](../kn/full#sub-10-4-6)
 
 #### 10.4.6 vAkyAnga kELvigaLalli vayvidhya
 
@@ -8477,7 +8477,7 @@ gaLAgi badalAyisalu baLasabEkAguttade.
 
 <a id="sec-10-5"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-10-5)
+[ಕನ್ನಡ →](../kn/full#sec-10-5)
 
 ### 10.5 kelasa mADisuva vAkyagaLu
 
@@ -8488,7 +8488,7 @@ kANisuva  intaha  kelavu  vAkyagaLannu  keLagina  upavibhAgagaLalli  vivarisa
 
 <a id="sub-10-5-1"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-10-5-1)
+[ಕನ್ನಡ →](../kn/full#sub-10-5-1)
 
 #### 10.5.1 pratyaya sErisada rUpa
 
@@ -8517,7 +8517,7 @@ gaLalli ko emba rUpavide.
 
 <a id="sub-10-5-2"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-10-5-2)
+[ಕನ್ನಡ →](../kn/full#sub-10-5-2)
 
 #### 10.5.2 i illavE iri pratyayada baLake
 
@@ -8548,7 +8548,7 @@ dannu illi gamanisabahudu.
 
 <a id="sub-10-5-3"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-10-5-3)
+[ಕನ್ನಡ →](../kn/full#sub-10-5-3)
 
 #### 10.5.3 ONa pratyayada baLake
 
@@ -8561,7 +8561,7 @@ ONa pratyayavannu sErisikoLLabEkAguttade.
 
 <a id="sub-10-5-4"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-10-5-4)
+[ಕನ್ನಡ →](../kn/full#sub-10-5-4)
 
 #### 10.5.4 i pratyayada baLake
 
@@ -8582,7 +8582,7 @@ mElina kriyArUpavannu baLasalu sAdhyavide.
 
 <a id="sub-10-5-5"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sub-10-5-5)
+[ಕನ್ನಡ →](../kn/full#sub-10-5-5)
 
 #### 10.5.5 kelavu viSiShTavAda padagaLa baLake
 
@@ -8618,7 +8618,7 @@ adannu nirAkarisuvudakkAgi bAradu padada baLakeyAguttade.
 
 <a id="sec-10-6"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-10-6)
+[ಕನ್ನಡ →](../kn/full#sec-10-6)
 
 ### 10.6 beragannu sUcisuva vAkyagaLu
 
@@ -8664,7 +8664,7 @@ baLasalu sAdhyavAguvudilla.
 
 <a id="sec-10-7"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-10-7)
+[ಕನ್ನಡ →](../kn/full#sec-10-7)
 
 ### 10.7 sArAmSa
 
@@ -8684,13 +8684,13 @@ gaLendU kareyabahudu.
     itararinda  kelasagaLannu  mADisikoLLuvudakkAgi  mattu  beragannu 
 sUcisuvudakkAgiyU kelavu viSiShTavAda vAkyagaLannu baLasalAguttade.  
 <a id="adhyAya-11"></a>
-[English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-11--typological-features-of-kannada) | [ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#adhyAya-11)
+[English →](../en/summary#chapter-11--typological-features-of-kannada) | [ಕನ್ನಡ →](../kn/full#adhyAya-11)
 
 ## adhyAya hannondu — kannaDada kelavu vaySiShTyagaLu
 
 <a id="sec-11-1"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-11-1)
+[ಕನ್ನಡ →](../kn/full#sec-11-1)
 
 ### 11.1 pIThike
 
@@ -8756,7 +8756,7 @@ pariSIlisalAgide.
 
 <a id="sec-11-2"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-11-2)
+[ಕನ್ನಡ →](../kn/full#sec-11-2)
 
 ### 11.2 mukhya padavagragaLu
 
@@ -8850,7 +8850,7 @@ koDuvavanannu
 
 <a id="sec-11-3"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-11-3)
+[ಕನ್ನಡ →](../kn/full#sec-11-3)
 
 ### 11.3 mukhyavallada padavagragaLu
 
@@ -8937,7 +8937,7 @@ gaLige bhaT 2004 nODi).
 
 <a id="sec-11-4"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-11-4)
+[ಕನ್ನಡ →](../kn/full#sec-11-4)
 
 ### 11.4 padagaLa anukrama
 
@@ -8996,7 +8996,7 @@ koneyallO) embudara mEle avalambiside embudannu nAvu mEle
 
 <a id="sec-11-5"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-11-5)
+[ಕನ್ನಡ →](../kn/full#sec-11-5)
 
 ### 11.5 vyAkaraNa sambandha
 
@@ -9108,7 +9108,7 @@ vyAkaraNa sambandhagaLallade bErEnalla (jAsti vivaragaLige bhaT 1991,
 
 <a id="sec-11-6"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-11-6)
+[ಕನ್ನಡ →](../kn/full#sec-11-6)
 
 ### 11.6 samayada sUcane
 
@@ -9207,7 +9207,7 @@ guNapadagaLU sangatiyannu sUcisuva kriyApadagaLAgiruttave.
 
 <a id="sec-11-7"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-11-7)
+[ಕನ್ನಡ →](../kn/full#sec-11-7)
 
 ### 11.7 allagaLeyuva vAkyagaLu
 
@@ -9258,7 +9258,7 @@ avannu allagaLeyalAra.
 
 <a id="sec-11-8"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-11-8)
+[ಕನ್ನಡ →](../kn/full#sec-11-8)
 
 ### 11.8 kELvigaLu
 
@@ -9305,7 +9305,7 @@ bhAShegaLU ive.
 
 <a id="sec-11-9"></a>
 
-[ಕನ್ನಡ →](./25-kannaDa-vAkyagaLa-oLaracane-kn#sec-11-9)
+[ಕನ್ನಡ →](../kn/full#sec-11-9)
 
 ### 11.9 muktAya
 

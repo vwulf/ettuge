@@ -9,5 +9,5 @@ redirect_from:
 
 | Format | Link |
 |--------|------|
-| English summary | [14-en](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en) |
-| Eke romanisation | [14-kn-eke](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke) |
+| English summary | [en](../en/summary) |
+| Eke romanisation | [eke](../eke/full) |

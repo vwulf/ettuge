@@ -10,9 +10,9 @@ redirect_from:
 D.N. Shankara Bhat — nuDiyarimeya iNukunOTa (Glimpses into Linguistics)
 
 Companion files:
-- [English →](./18-kannaDa-nuDiya-bagege-cintane-en)
-- [Source blog →](./18-kannaDa-nuDiya-bagege-cintane-blog)
-- [Claude prompt →](./18-kannaDa-nuDiya-bagege-cintane-claude-prompt)
+- [English →](../en/summary)
+- [web/kn/raw.md](../kn/raw)
+- [claude-prompt.md](../../claude-prompt)
 
 ---
 
@@ -49,7 +49,7 @@ kannaDa nuDiyarime (linguistics) kurita vividha viSayagaLa mEle DA. baT avaru ba
 <a id="inukunota-11"></a>
 
 ## bhAga 11: arimeya padagaLige kannaDavE mElu
-[ಕನ್ನಡ →](./18-kannaDa-nuDiya-bagege-cintane-blog#inukunota-11) | [English →](./18-kannaDa-nuDiya-bagege-cintane-en#inukunota-11)
+[ಕನ್ನಡ →](../kn/raw#inukunota-11) | [English →](../en/summary#inukunota-11)
 
 > **dinAnka:** 2014-04-14  
 > **mUla URL:** <http://dnshankarabhat.net/%e0%b2%85%e0%b2%b0%e0%b2%bf%e0%b2%ae%e0%b3%86%e0%b2%af-%e0%b2%aa%e0%b2%a6%e0%b2%97%e0%b2%b3%e0%b2%bf%e0%b2%97%e0%b3%86-%e0%b2%95%e0%b2%a8%e0%b3%8d%e0%b2%a8%e0%b2%a1%e0%b2%b5%e0%b3%87-%e0%b2%ae/>  
@@ -125,7 +125,7 @@ arimeya barahagaLinda tiLivannu paDeyuvudu mAtravallade, adannu orege haccuva ma
 <a id="inukunota-2"></a>
 
 ## bhAga 2: maneya horagaDe aDigemane pAkaSAleyAgabEkE?
-[ಕನ್ನಡ →](./18-kannaDa-nuDiya-bagege-cintane-blog#inukunota-2) | [English →](./18-kannaDa-nuDiya-bagege-cintane-en#inukunota-2)
+[ಕನ್ನಡ →](../kn/raw#inukunota-2) | [English →](../en/summary#inukunota-2)
 
 > **dinAnka:** 2014-04-14  
 > **mUla URL:** <https://dnshankarabhat.net/%e0%b2%ae%e0%b2%a8%e0%b3%86%e0%b2%af-%e0%b2%b9%e0%b3%8a%e0%b2%b0%e0%b2%97%e0%b2%a1%e0%b3%86-%e0%b2%85%e0%b2%a1%e0%b2%bf%e0%b2%97%e0%b3%86%e0%b2%ae%e0%b2%a8%e0%b3%86-%e0%b2%aa%e0%b2%be%e0%b2%95/>  
@@ -201,7 +201,7 @@ ellA maTTada baLakegaLigU kannaDa padagaLu takkudAduvu embudannu kannaDada barah
 <a id="inukunota-3"></a>
 
 ## bhAga 3: padagaLannu Oduva hAgeyE bareyabEku
-[ಕನ್ನಡ →](./18-kannaDa-nuDiya-bagege-cintane-blog#inukunota-3) | [English →](./18-kannaDa-nuDiya-bagege-cintane-en#inukunota-3)
+[ಕನ್ನಡ →](../kn/raw#inukunota-3) | [English →](../en/summary#inukunota-3)
 
 > **dinAnka:** 2014-04-14  
 > **mUla URL:** <https://dnshankarabhat.net/%e0%b2%aa%e0%b2%a6%e0%b2%97%e0%b2%b3%e0%b2%a8%e0%b3%8d%e0%b2%a8%e0%b3%81-%e0%b2%93%e0%b2%a6%e0%b3%81%e0%b2%b5-%e0%b2%b9%e0%b2%be%e0%b2%97%e0%b3%86%e0%b2%af%e0%b3%87-%e0%b2%ac%e0%b2%b0%e0%b3%86/>  
@@ -281,7 +281,7 @@ I rIti kannaDada maTTige yAva prayOjanavannU nIDada, halavu mandi kannaDigarige 
 <a id="inukunota-10"></a>
 
 ## bhAga 10: Oduva hAgeyE bareyuvudu
-[ಕನ್ನಡ →](./18-kannaDa-nuDiya-bagege-cintane-blog#inukunota-10) | [English →](./18-kannaDa-nuDiya-bagege-cintane-en#inukunota-10)
+[ಕನ್ನಡ →](../kn/raw#inukunota-10) | [English →](../en/summary#inukunota-10)
 
 > **dinAnka:** 2014-04-14  
 > **mUla URL:** <http://dnshankarabhat.net/%e0%b2%93%e0%b2%a6%e0%b3%81%e0%b2%b5-%e0%b2%b9%e0%b2%be%e0%b2%97%e0%b3%86%e0%b2%af%e0%b3%87-%e0%b2%ac%e0%b2%b0%e0%b3%86%e0%b2%af%e0%b3%81%e0%b2%b5%e0%b3%81%e0%b2%a6%e0%b3%81/>  
@@ -357,7 +357,7 @@ koriyAdantaha bEre kelavu nADugaLalli eravalu padagaLannu Oduva hAgeyE bareyalu 
 <a id="inukunota-14"></a>
 
 ## bhAga 14: barahakke mElme bandudu hEge?
-[ಕನ್ನಡ →](./18-kannaDa-nuDiya-bagege-cintane-blog#inukunota-14) | [English →](./18-kannaDa-nuDiya-bagege-cintane-en#inukunota-14)
+[ಕನ್ನಡ →](../kn/raw#inukunota-14) | [English →](../en/summary#inukunota-14)
 
 > **dinAnka:** 2014-04-14  
 > **mUla URL:** <https://dnshankarabhat.net/%e0%b2%ac%e0%b2%b0%e0%b2%b9%e0%b2%95%e0%b3%8d%e0%b2%95%e0%b3%86-%e0%b2%ae%e0%b3%87%e0%b2%b2%e0%b3%8d%e0%b2%ae%e0%b3%86-%e0%b2%ac%e0%b2%82%e0%b2%a6%e0%b3%81%e0%b2%a6%e0%b3%81-%e0%b2%b9%e0%b3%87/>  
@@ -433,7 +433,7 @@ adarallU namma nADinalliruva hAge ADaLitavu mandiyALvikeyadAgiddalli, ellA mandi
 <a id="inukunota-18"></a>
 
 ## bhAga 18: nuDigaLa naDuvina nanTastike
-[ಕನ್ನಡ →](./18-kannaDa-nuDiya-bagege-cintane-blog#inukunota-18) | [English →](./18-kannaDa-nuDiya-bagege-cintane-en#inukunota-18)
+[ಕನ್ನಡ →](../kn/raw#inukunota-18) | [English →](../en/summary#inukunota-18)
 
 > **dinAnka:** 2014-04-14  
 > **mUla URL:** <https://dnshankarabhat.net/%e0%b2%a8%e0%b3%81%e0%b2%a1%e0%b2%bf%e0%b2%97%e0%b2%b3-%e0%b2%a8%e0%b2%a1%e0%b3%81%e0%b2%b5%e0%b2%bf%e0%b2%a8-%e0%b2%a8%e0%b2%82%e0%b2%9f%e0%b2%b8%e0%b3%8d%e0%b2%a4%e0%b2%bf%e0%b2%95%e0%b3%86/>  
@@ -501,7 +501,7 @@ hAgAgi, eraDu nuDigaLa naDuve kANisuva hOlikegaLa AdArada mEle avu ondE nuDikuTu
 <a id="inukunota-20"></a>
 
 ## bhAga 20: barahadalli yAvudu sari, yAvudu tappu?
-[ಕನ್ನಡ →](./18-kannaDa-nuDiya-bagege-cintane-blog#inukunota-20) | [English →](./18-kannaDa-nuDiya-bagege-cintane-en#inukunota-20)
+[ಕನ್ನಡ →](../kn/raw#inukunota-20) | [English →](../en/summary#inukunota-20)
 
 > **mUla URL:** <http://dnshankarabhat.net/%e0%b2%ac%e0%b2%b0%e0%b2%b9%e0%b2%a6%e0%b2%b2%e0%b3%8d%e0%b2%b2%e0%b2%bf-%e0%b2%af%e0%b2%be%e0%b2%b5%e0%b3%81%e0%b2%a6%e0%b3%81-%e0%b2%b8%e0%b2%b0%e0%b2%bf-%e0%b2%af%e0%b2%be%e0%b2%b5%e0%b3%81/>  
 
@@ -570,7 +570,7 @@ samskruta eravalugaLannu heccu kaDime samskrutadalliruva hAgeyE bareyabEku emba 
 <a id="inukunota-23"></a>
 
 ## bhAga 23: kannaDa nuDi eSTu haLeyadu?
-[ಕನ್ನಡ →](./18-kannaDa-nuDiya-bagege-cintane-blog#inukunota-23) | [English →](./18-kannaDa-nuDiya-bagege-cintane-en#inukunota-23)
+[ಕನ್ನಡ →](../kn/raw#inukunota-23) | [English →](../en/summary#inukunota-23)
 
 > **mUla URL:** <http://dnshankarabhat.net/%e0%b2%95%e0%b2%a8%e0%b3%8d%e0%b2%a8%e0%b2%a1-%e0%b2%a8%e0%b3%81%e0%b2%a1%e0%b2%bf-%e0%b2%8e%e0%b2%b6%e0%b3%8d%e0%b2%9f%e0%b3%81-%e0%b2%b9%e0%b2%b3%e0%b3%86%e0%b2%af%e0%b2%a6%e0%b3%81/>  
 
@@ -633,7 +633,7 @@ mEle koTTiruva viSayagaLa mEle, tamiLu baraha kannaDa barahadinda haLeyadAgideyA
 <a id="inukunota-27"></a>
 
 ## bhAga 27: pada mattu adara huruLu
-[ಕನ್ನಡ →](./18-kannaDa-nuDiya-bagege-cintane-blog#inukunota-27) | [English →](./18-kannaDa-nuDiya-bagege-cintane-en#inukunota-27)
+[ಕನ್ನಡ →](../kn/raw#inukunota-27) | [English →](../en/summary#inukunota-27)
 
 > **mUla URL:** <https://dnshankarabhat.net/%e0%b2%aa%e0%b2%a6-%e0%b2%ae%e0%b2%a4%e0%b3%8d%e0%b2%a4%e0%b3%81-%e0%b2%85%e0%b2%a6%e0%b2%b0-%e0%b2%b9%e0%b3%81%e0%b2%b0%e0%b3%81%e0%b2%b3%e0%b3%81/>  
 
@@ -694,7 +694,7 @@ sollugaLalli baruva esaka(kriyA)pada, parice(guNa)pada modalAdavugaLa huruLEnemb
 <a id="inukunota-28"></a>
 
 ## bhAga 28: eNikeyallU halavu bagegaLive
-[ಕನ್ನಡ →](./18-kannaDa-nuDiya-bagege-cintane-blog#inukunota-28) | [English →](./18-kannaDa-nuDiya-bagege-cintane-en#inukunota-28)
+[ಕನ್ನಡ →](../kn/raw#inukunota-28) | [English →](../en/summary#inukunota-28)
 
 > **mUla URL:** <https://dnshankarabhat.net/%e0%b2%8e%e0%b2%a3%e0%b2%bf%e0%b2%95%e0%b3%86%e0%b2%af%e0%b2%b2%e0%b3%8d%e0%b2%b2%e0%b3%82-%e0%b2%b9%e0%b2%b2%e0%b2%b5%e0%b3%81-%e0%b2%ac%e0%b2%97%e0%b3%86%e0%b2%97%e0%b2%b3%e0%b2%bf%e0%b2%b5%e0%b3%86/>  
 
@@ -759,7 +759,7 @@ intaha bEreyU halavu vyatyAsagaLu nuDigaLalli baLakeyAguva eNikeya holabugaLa na
 <a id="inukunota-29"></a>
 
 ## bhAga 29: padagaLa hinnaDavaLiyannu ariyuva bage
-[ಕನ್ನಡ →](./18-kannaDa-nuDiya-bagege-cintane-blog#inukunota-29) | [English →](./18-kannaDa-nuDiya-bagege-cintane-en#inukunota-29)
+[ಕನ್ನಡ →](../kn/raw#inukunota-29) | [English →](../en/summary#inukunota-29)
 
 > **mUla URL:** <https://dnshankarabhat.net/%e0%b2%aa%e0%b2%a6%e0%b2%97%e0%b2%b3-%e0%b2%b9%e0%b2%bf%e0%b2%a8%e0%b3%8d%e0%b2%a8%e0%b2%a1%e0%b2%b5%e0%b2%b3%e0%b2%bf%e0%b2%af%e0%b2%a8%e0%b3%8d%e0%b2%a8%e0%b3%81-%e0%b2%85%e0%b2%b0%e0%b2%bf%e0%b2%af/>  
 
@@ -826,7 +826,7 @@ intaha arakegaLannu naDesade bariya hOlikeya mEle ellavU samskrutadinda bandivey
 <a id="inukunota-33"></a>
 
 ## bhAga 33: kannaDa nuDiya sogaDu
-[ಕನ್ನಡ →](./18-kannaDa-nuDiya-bagege-cintane-blog#inukunota-33) | [English →](./18-kannaDa-nuDiya-bagege-cintane-en#inukunota-33)
+[ಕನ್ನಡ →](../kn/raw#inukunota-33) | [English →](../en/summary#inukunota-33)
 
 > **dinAnka:** 2014-04-14  
 > **mUla URL:** <http://dnshankarabhat.net/%e0%b2%95%e0%b2%a8%e0%b3%8d%e0%b2%a8%e0%b2%a1-%e0%b2%a8%e0%b3%81%e0%b2%a1%e0%b2%bf%e0%b2%af-%e0%b2%b8%e0%b3%8a%e0%b2%97%e0%b2%a1%e0%b3%81/>  
@@ -894,7 +894,7 @@ hAgAgi, barahagAraru kAladinda kAlakke adannu hosadAgisikoLLadiddare, mattu ADun
 <a id="inukunota-35"></a>
 
 ## bhAga 35: drAviDa nuDigaLu aydalla, ippattAru!
-[ಕನ್ನಡ →](./18-kannaDa-nuDiya-bagege-cintane-blog#inukunota-35) | [English →](./18-kannaDa-nuDiya-bagege-cintane-en#inukunota-35)
+[ಕನ್ನಡ →](../kn/raw#inukunota-35) | [English →](../en/summary#inukunota-35)
 
 > **mUla URL:** <https://dnshankarabhat.net/%e0%b2%a6%e0%b3%8d%e0%b2%b0%e0%b2%be%e0%b2%b5%e0%b2%bf%e0%b2%a1-%e0%b2%a8%e0%b3%81%e0%b2%a1%e0%b2%bf%e0%b2%97%e0%b2%b3%e0%b3%81-%e0%b2%85%e0%b2%af%e0%b3%8d%e0%b2%a6%e0%b2%b2%e0%b3%8d%e0%b2%b2/>  
 

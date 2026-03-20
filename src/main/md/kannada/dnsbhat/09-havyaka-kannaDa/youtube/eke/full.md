@@ -9,8 +9,8 @@ redirect_from:
 **mULa:** YouTube udangaLu — 43 bhAgagaLu (P1–P6 mattu 1–37)
 **odidaravaru:** malati baT
 
-> mUla paThya (kannaDa lipi): [09-havyaka-kannaDa.md](./09-havyaka-kannaDa)
-> ingliS viSlEShaNe: [09-havyaka-kannaDa-en.md](./09-havyaka-kannaDa-en)
+> mUla paThya (kannaDa lipi): [kn/full.md](../kn/full)
+> ingliS viSlEShaNe: [en/summary.md](../en/summary)
 
 ---
 
@@ -31,7 +31,7 @@ redirect_from:
 
 *bhAgagaLu P1–P6*
 
-[📼 bhAgagaLu P1–P6 →](./09-havyaka-kannaDa#part-P1)
+[📼 bhAgagaLu P1–P6 →](../kn/full#part-P1)
 
 **bhAga P6 (canna kannaDa):**
 
@@ -49,7 +49,7 @@ nAvu avanu sariyAgi artha maDikOLabEku. karnATakada kannaDa bhAShe bahaLa SrIman
 
 *bhAgagaLu 1–5*
 
-[📼 bhAgagaLu 1–5 →](./09-havyaka-kannaDa#part-1)
+[📼 bhAgagaLu 1–5 →](../kn/full#part-1)
 
 *(mUla paThya dorakalavillDa — viShaya anumAnisida)*
 
@@ -65,7 +65,7 @@ dAkSiNa kannaDa jilleyaa puttUri nalli havyaka kannaDa mAtanADuvavara samudAya m
 
 *bhAgagaLu 6–15*
 
-[📼 bhAgagaLu 6–15 →](./09-havyaka-kannaDa#part-6)
+[📼 bhAgagaLu 6–15 →](../kn/full#part-6)
 
 **bhAga 11 (canna kannaDa — muKya viShaya):**
 
@@ -96,7 +96,7 @@ bareha kannaDa mattu haLeya kannaDa rUpagaLu (haLeya kannaDada kriyA rUpagaLu): 
 
 *bhAgagaLu 16–26*
 
-[📼 bhAgagaLu 16–26 →](./09-havyaka-kannaDa#part-16)
+[📼 bhAgagaLu 16–26 →](../kn/full#part-16)
 
 **bhAga 27 (muKya uLLiTa — uli hOlike):**
 
@@ -129,7 +129,7 @@ ha(vyaka) kannaDada haLeya lEkhana (SAsan) AdaradamELe, A dali mArupADu tOruttad
 
 *bhAgagaLu 27–32*
 
-[📼 bhAgagaLu 27–32 →](./09-havyaka-kannaDa#part-27)
+[📼 bhAgagaLu 27–32 →](../kn/full#part-27)
 
 **bhAga 29 (muKya pada rUpagaLu):**
 
@@ -160,7 +160,7 @@ DNS baT I rUpagaLannu haLeya kannaDada T, D pratyaya rUpagaLige joDisuttAre.
 
 *bhAgagaLu 33–37*
 
-[📼 bhAgagaLu 33–37 →](./09-havyaka-kannaDa#part-33)
+[📼 bhAgagaLu 33–37 →](../kn/full#part-33)
 
 **bhAga 33 (canna kannaDa):**
 

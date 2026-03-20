@@ -9,8 +9,8 @@ redirect_from:
 **mULa:** YouTube udangaLu — 37 bhAgagaLu
 **odidaravaru:** malati baT
 
-> mUla paThya (kannaDa lipi): [05-mAtina-oLaguTTu.md](./05-mAtina-oLaguTTu)
-> ingliS viSlEShaNe: [05-mAtina-oLaguTTu-en.md](./05-mAtina-oLaguTTu-en)
+> mUla paThya (kannaDa lipi): [kn/full.md](../kn/full)
+> ingliS viSlEShaNe: [en/summary.md](../en/summary)
 
 ---
 
@@ -33,7 +33,7 @@ redirect_from:
 
 *bhAgagaLu 1–5*
 
-[📼 bhAgagaLu 1–5 →](./05-mAtina-oLaguTTu#part-1)
+[📼 bhAgagaLu 1–5 →](../kn/full#part-1)
 
 **bhAga 2 (canna kannaDa):**
 
@@ -51,7 +51,7 @@ kannaDa bhASheyalli sumAru mUvattu svanimegaLive. ee cikit svanima gaLinda leksh
 
 *bhAgagaLu 7–11*
 
-[📼 bhAgagaLu 7–11 →](./05-mAtina-oLaguTTu#part-7)
+[📼 bhAgagaLu 7–11 →](../kn/full#part-7)
 
 **bhAga 10 (muKya viShaya — kannaDa svalaksaNa):**
 
@@ -73,7 +73,7 @@ kannaDa bhASheyalli badalAvaNegaLu niyamitavAgi naDeyuttave. pratyeka oLanuDiyal
 
 *bhAgagaLu 13–15*
 
-[📼 bhAgagaLu 13–15 →](./05-mAtina-oLaguTTu#part-13)
+[📼 bhAgagaLu 13–15 →](../kn/full#part-13)
 
 **bhAga 13 (pada vargIkaraNa):**
 
@@ -95,7 +95,7 @@ padagaLa artha sandarbhavE nirNayisuttade. ekAki padavondu niScitoLLa artha hond
 
 *bhAgagaLu 16–25*
 
-[📼 bhAgagaLu 16–25 →](./05-mAtina-oLaguTTu#part-16)
+[📼 bhAgagaLu 16–25 →](../kn/full#part-16)
 
 **bhAga 16 (muKya viShaya — oLanuDi hOlike):**
 
@@ -119,7 +119,7 @@ oLanuDigaLalli kAla rUpagaLu bhinnA bhinnA irutte. karAvaLi oLanuDi rUpagaLu bar
 
 *bhAgagaLu 20–21*
 
-[📼 bhAgagaLu 20–21 →](./05-mAtina-oLaguTTu#part-20)
+[📼 bhAgagaLu 20–21 →](../kn/full#part-20)
 
 **bhAga 20 (muKya viShaya — samskxta mUla tarku):**
 
@@ -139,7 +139,7 @@ kannaDa draviDa bhASheyA SAKe. isaragu samskxta kaDe AbimAna iDikonDiruvudu sAms
 
 *bhAgagaLu 26–28*
 
-[📼 bhAgagaLu 26–28 →](./05-mAtina-oLaguTTu#part-26)
+[📼 bhAgagaLu 26–28 →](../kn/full#part-26)
 
 **bhAga 26 (muKya viShaya — bAyina raNe):**
 
@@ -169,7 +169,7 @@ eraDu oLaginavarU nADigaLannu kaLitukondavara makkaLu — eka bhAShEya makkaLige
 
 *bhAgagaLu 31–33*
 
-[📼 bhAgagaLu 31–33 →](./05-mAtina-oLaguTTu#part-31)
+[📼 bhAgagaLu 31–33 →](../kn/full#part-31)
 
 **bhAga 31 (muKya viShaya — baraha vargagaLu):**
 
@@ -199,7 +199,7 @@ adarE samskxta Adalike padagaLannu samskxta lipiyalli baredare — mAtu-baraha n
 
 *bhAgagaLu 34–37*
 
-[📼 bhAgagaLu 34–37 →](./05-mAtina-oLaguTTu#part-34)
+[📼 bhAgagaLu 34–37 →](../kn/full#part-34)
 
 **bhAga 36 (samskxta Adalikegaulu):**
 

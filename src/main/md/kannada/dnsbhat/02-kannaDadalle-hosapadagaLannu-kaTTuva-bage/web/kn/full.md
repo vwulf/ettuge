@@ -8,7 +8,7 @@ redirect_from:
 **ಲೇಖಕರು:** ಡಿ. ಎನ್. ಶಂಕರ ಭಟ್
 **ಮಾಲಿಕೆ:** ಡಿ.ಎನ್.ಶಂಕರ ಭಟ್ ನುಡಿಯರಿಮೆ ಮಾಲಿಕೆ
 
-> [← ಸೂಚಿ](./README) | ಇಂಗ್ಲಿಶ್ ವಿಶ್ಲೇಷಣೆ: [02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en) | Eke: [02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke)
+> [← ಸೂಚಿ](../../README) | ಇಂಗ್ಲಿಶ್ ವಿಶ್ಲೇಷಣೆ: [en](../en/summary) | Eke: [eke](../eke/full)
 
 ---
 
@@ -81,7 +81,7 @@ redirect_from:
 
 <a id="ch1"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-1--philosophy-and-core-principles) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#ch1)
+[English →](../en/summary#part-1--philosophy-and-core-principles) | [Eke →](../eke/full#ch1)
 
 ## ಭಾಗ ೧ — ಮುನ್ನುಡಿ — ಕನ್ನಡದ ಒಲವುಗಳು
 
@@ -91,7 +91,7 @@ redirect_from:
 
 <a id="sec-1-1"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-1--philosophy-and-core-principles) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-1-1)
+[English →](../en/summary#part-1--philosophy-and-core-principles) | [Eke →](../eke/full#sec-1-1)
 
 ### ೧.೧ ಬರಹ ಕನ್ನಡದಲ್ಲಿ ಸಂಸ್ಕೃತದ ಪ್ರಾಬಲ್ಯ
 
@@ -99,7 +99,7 @@ redirect_from:
 
 <a id="sec-1-2"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-1--philosophy-and-core-principles) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-1-2)
+[English →](../en/summary#part-1--philosophy-and-core-principles) | [Eke →](../eke/full#sec-1-2)
 
 ### ೧.೨ ಪರಿಹಾರ — ಕನ್ನಡದ ನಿಜ ಪದ ಕಟ್ಟುವ ತಾಕತ್ತು
 
@@ -107,7 +107,7 @@ redirect_from:
 
 <a id="sec-1-3"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-1--philosophy-and-core-principles) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-1-3)
+[English →](../en/summary#part-1--philosophy-and-core-principles) | [Eke →](../eke/full#sec-1-3)
 
 ### ೧.೩ ಪುಸ್ತಕದ ಉದ್ದೇಶ ಮತ್ತು ವ್ಯಾಪ್ತಿ
 
@@ -117,7 +117,7 @@ redirect_from:
 
 <a id="ch2"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-2--framework-overview) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#ch2)
+[English →](../en/summary#part-2--framework-overview) | [Eke →](../eke/full#ch2)
 
 ## ಭಾಗ ೨ — ಹೊಸಪದಗಳನ್ನು ಕಟ್ಟುವ ಒಟ್ಟು ಚೌಕಟ್ಟು
 
@@ -127,7 +127,7 @@ redirect_from:
 
 <a id="sec-2-1"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-2--framework-overview) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-2-1)
+[English →](../en/summary#part-2--framework-overview) | [Eke →](../eke/full#sec-2-1)
 
 ### ೨.೧ ಮೂರು ಪದ ವರ್ಗಗಳು
 
@@ -135,7 +135,7 @@ redirect_from:
 
 <a id="sec-2-2"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-2--framework-overview) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-2-2)
+[English →](../en/summary#part-2--framework-overview) | [Eke →](../eke/full#sec-2-2)
 
 ### ೨.೨ ಎರಡು ವಿಧಾನಗಳು — ಕಟ್ಟುಪದ ಮತ್ತು ಜೋಡುಪದ
 
@@ -143,7 +143,7 @@ redirect_from:
 
 <a id="sec-2-3"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-2--framework-overview) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-2-3)
+[English →](../en/summary#part-2--framework-overview) | [Eke →](../eke/full#sec-2-3)
 
 ### ೨.೩ ನಾಲ್ಕು ಮುನ್ನೊಟ್ಟು ಗುಂಪುಗಳು
 
@@ -153,7 +153,7 @@ redirect_from:
 
 <a id="ch3"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-3--adjective-to-noun--ತನ) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#ch3)
+[English →](../en/summary#part-3--adjective-to-noun--ತನ) | [Eke →](../eke/full#ch3)
 
 ## ಭಾಗ ೩ — ಪರಿಚೆಪದದಿಂದ ಹೆಸರುಪದ
 
@@ -163,7 +163,7 @@ redirect_from:
 
 <a id="sec-3-1"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-3--adjective-to-noun--ತನ) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-3-1)
+[English →](../en/summary#part-3--adjective-to-noun--ತನ) | [Eke →](../eke/full#sec-3-1)
 
 ### ೩.೧ ಗುಣ ಒಟ್ಟು -ತನ
 
@@ -171,7 +171,7 @@ redirect_from:
 
 <a id="sec-3-2"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-3--adjective-to-noun--ತನ) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-3-2)
+[English →](../en/summary#part-3--adjective-to-noun--ತನ) | [Eke →](../eke/full#sec-3-2)
 
 ### ೩.೨ ತಿರುಗು ರೀತಿ — ಹೆಸರುಪದದಿಂದ ಪರಿಚೆಪದ
 
@@ -181,7 +181,7 @@ redirect_from:
 
 <a id="ch4"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-45--verb-to-noun) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#ch4)
+[English →](../en/summary#parts-45--verb-to-noun) | [Eke →](../eke/full#ch4)
 
 ## ಭಾಗ ೪–೫ — ಎಸಕಪದದಿಂದ ಹೆಸರುಪದ
 
@@ -191,7 +191,7 @@ redirect_from:
 
 <a id="sec-4-1"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-45--verb-to-noun) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-4-1)
+[English →](../en/summary#parts-45--verb-to-noun) | [Eke →](../eke/full#sec-4-1)
 
 ### ೪.೧ ಎಸಗುಗ ಒಟ್ಟು -ಗ/-ಇಗ
 
@@ -199,7 +199,7 @@ redirect_from:
 
 <a id="sec-4-2"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-45--verb-to-noun) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-4-2)
+[English →](../en/summary#parts-45--verb-to-noun) | [Eke →](../eke/full#sec-4-2)
 
 ### ೪.೨ ವೃತ್ತಿ ಎಸಗುಗ ಒಟ್ಟು -ಗಾರ
 
@@ -207,7 +207,7 @@ redirect_from:
 
 <a id="sec-4-3"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-45--verb-to-noun) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-4-3)
+[English →](../en/summary#parts-45--verb-to-noun) | [Eke →](../eke/full#sec-4-3)
 
 ### ೪.೩ ಒಳಗಾಗುಗ ಸಮಸ್ಯೆ (-ee ಅಂತರ)
 
@@ -215,7 +215,7 @@ redirect_from:
 
 <a id="sec-4-4"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-45--verb-to-noun) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-4-4)
+[English →](../en/summary#parts-45--verb-to-noun) | [Eke →](../eke/full#sec-4-4)
 
 ### ೪.೪ ಉಪಕರಣ ಒಟ್ಟು -ಕ
 
@@ -223,7 +223,7 @@ redirect_from:
 
 <a id="sec-4-5"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-45--verb-to-noun) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-4-5)
+[English →](../en/summary#parts-45--verb-to-noun) | [Eke →](../eke/full#sec-4-5)
 
 ### ೪.೫ ಅಮೂರ್ತ ಎಸಕ ಹೆಸರುಪದ ಒಟ್ಟು -ಇಕೆ/-ಕೆ ಮತ್ತು -ತ
 
@@ -231,7 +231,7 @@ redirect_from:
 
 <a id="sec-4-6"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-45--verb-to-noun) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-4-6)
+[English →](../en/summary#parts-45--verb-to-noun) | [Eke →](../eke/full#sec-4-6)
 
 ### ೪.೬ ಮೂರ್ತ ಫಲ ಹೆಸರುಪದ ಒಟ್ಟು -ಗೆ/-ಇಗೆ ಮತ್ತು -ತೆ
 
@@ -241,7 +241,7 @@ redirect_from:
 
 <a id="ch6"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-6--zero-derivation) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#ch6)
+[English →](../en/summary#part-6--zero-derivation) | [Eke →](../eke/full#ch6)
 
 ## ಭಾಗ ೬ — ಶೂನ್ಯ ಕಟ್ಟಣೆ
 
@@ -251,7 +251,7 @@ redirect_from:
 
 <a id="sec-6-1"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-6--zero-derivation) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-6-1)
+[English →](../en/summary#part-6--zero-derivation) | [Eke →](../eke/full#sec-6-1)
 
 ### ೬.೧ ಇಂಗ್ಲಿಶ್ ಮಾಡುವಂಥದ್ದು ಕನ್ನಡ ಮಾಡಲಾಗದು
 
@@ -261,7 +261,7 @@ redirect_from:
 
 <a id="ch7"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-7--noun-to-noun) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#ch7)
+[English →](../en/summary#part-7--noun-to-noun) | [Eke →](../eke/full#ch7)
 
 ## ಭಾಗ ೭ — ಹೆಸರುಪದದಿಂದ ಹೆಸರುಪದ
 
@@ -271,7 +271,7 @@ redirect_from:
 
 <a id="sec-7-1"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-7--noun-to-noun) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-7-1)
+[English →](../en/summary#part-7--noun-to-noun) | [Eke →](../eke/full#sec-7-1)
 
 ### ೭.೧ ತಜ್ಞ ಒಟ್ಟು -ಅರಿಗ
 
@@ -279,7 +279,7 @@ redirect_from:
 
 <a id="sec-7-2"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-7--noun-to-noun) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-7-2)
+[English →](../en/summary#part-7--noun-to-noun) | [Eke →](../eke/full#sec-7-2)
 
 ### ೭.೨ ಪರ ಒಟ್ಟು -ಒಲವಿಗ
 
@@ -287,7 +287,7 @@ redirect_from:
 
 <a id="sec-7-3"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-7--noun-to-noun) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-7-3)
+[English →](../en/summary#part-7--noun-to-noun) | [Eke →](../eke/full#sec-7-3)
 
 ### ೭.೩ ಕಿರಿ ರೂಪ — ಕಿರು-/ಕಿತ್ತ್-
 
@@ -297,7 +297,7 @@ redirect_from:
 
 <a id="ch8"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-8--quantity-and-degree-prefixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#ch8)
+[English →](../en/summary#part-8--quantity-and-degree-prefixes) | [Eke →](../eke/full#ch8)
 
 ## ಭಾಗ ೮ — ಅಳವಿಯ ಮುನ್ನೊಟ್ಟು
 
@@ -307,7 +307,7 @@ redirect_from:
 
 <a id="sec-8-1"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-8--quantity-and-degree-prefixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-8-1)
+[English →](../en/summary#part-8--quantity-and-degree-prefixes) | [Eke →](../eke/full#sec-8-1)
 
 ### ೮.೧ ಎಣಿಕೆ ಬೇರು ಮುನ್ನೊಟ್ಟುಗಳು
 
@@ -315,7 +315,7 @@ redirect_from:
 
 <a id="sec-8-2"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-8--quantity-and-degree-prefixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-8-2)
+[English →](../en/summary#part-8--quantity-and-degree-prefixes) | [Eke →](../eke/full#sec-8-2)
 
 ### ೮.೨ ಹಂತ ಮುನ್ನೊಟ್ಟುಗಳು
 
@@ -325,7 +325,7 @@ redirect_from:
 
 <a id="ch9"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-9--spatial-prefixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#ch9)
+[English →](../en/summary#part-9--spatial-prefixes) | [Eke →](../eke/full#ch9)
 
 ## ಭಾಗ ೯ — ಇಂಬಿನ ಮುನ್ನೊಟ್ಟು
 
@@ -335,7 +335,7 @@ redirect_from:
 
 <a id="sec-9-1"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-9--spatial-prefixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-9-1)
+[English →](../en/summary#part-9--spatial-prefixes) | [Eke →](../eke/full#sec-9-1)
 
 ### ೯.೧ ಇಂಬಿನ ಮುನ್ನೊಟ್ಟು ವ್ಯವಸ್ಥೆ
 
@@ -345,7 +345,7 @@ redirect_from:
 
 <a id="ch10"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-10--temporal-prefixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#ch10)
+[English →](../en/summary#part-10--temporal-prefixes) | [Eke →](../eke/full#ch10)
 
 ## ಭಾಗ ೧೦ — ಹೊತ್ತಿನ ಮುನ್ನೊಟ್ಟು
 
@@ -355,7 +355,7 @@ redirect_from:
 
 <a id="sec-10-1"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-10--temporal-prefixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-10-1)
+[English →](../en/summary#part-10--temporal-prefixes) | [Eke →](../eke/full#sec-10-1)
 
 ### ೧೦.೧ ಹೊತ್ತಿನ ಮುನ್ನೊಟ್ಟು ವ್ಯವಸ್ಥೆ
 
@@ -365,7 +365,7 @@ redirect_from:
 
 <a id="ch11"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-1112--negation-prefixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#ch11)
+[English →](../en/summary#parts-1112--negation-prefixes) | [Eke →](../eke/full#ch11)
 
 ## ಭಾಗ ೧೧–೧೨ — ಅಲ್ಲಗಳೆಯುವ ಮುನ್ನೊಟ್ಟು
 
@@ -375,7 +375,7 @@ redirect_from:
 
 <a id="sec-11-1"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-1112--negation-prefixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-11-1)
+[English →](../en/summary#parts-1112--negation-prefixes) | [Eke →](../eke/full#sec-11-1)
 
 ### ೧೧.೧ ಇಲ್ಲ ಮತ್ತು ಅಲ್ಲ — ಕನ್ನಡದ ವಿಶಿಷ್ಟ ವ್ಯತ್ಯಾಸ
 
@@ -383,7 +383,7 @@ redirect_from:
 
 <a id="sec-11-2"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-1112--negation-prefixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-11-2)
+[English →](../en/summary#parts-1112--negation-prefixes) | [Eke →](../eke/full#sec-11-2)
 
 ### ೧೧.೨ ಅಲ್ಲಗಳೆಯುವ ಮುನ್ನೊಟ್ಟು ಸಮಾನಗಳು
 
@@ -391,7 +391,7 @@ redirect_from:
 
 <a id="sec-11-3"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-1112--negation-prefixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-11-3)
+[English →](../en/summary#parts-1112--negation-prefixes) | [Eke →](../eke/full#sec-11-3)
 
 ### ೧೧.೩ ಇತರ ಅಲ್ಲಗಳೆಯುವ ರೀತಿಗಳು
 
@@ -401,7 +401,7 @@ redirect_from:
 
 <a id="ch13"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-13-and-17--verb-creation) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#ch13)
+[English →](../en/summary#parts-13-and-17--verb-creation) | [Eke →](../eke/full#ch13)
 
 ## ಭಾಗ ೧೩ ಮತ್ತು ೧೭ — ಎಸಕಪದಗಳನ್ನು ಕಟ್ಟುವುದು
 
@@ -411,7 +411,7 @@ redirect_from:
 
 <a id="sec-13-1"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-13-and-17--verb-creation) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-13-1)
+[English →](../en/summary#parts-13-and-17--verb-creation) | [Eke →](../eke/full#sec-13-1)
 
 ### ೧೩.೧ ಒಂದೇ ಉತ್ಪಾದಕ ಎಸಕಪದ ಒಟ್ಟು — -ಇಸು
 
@@ -419,7 +419,7 @@ redirect_from:
 
 <a id="sec-13-2"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-13-and-17--verb-creation) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-13-2)
+[English →](../en/summary#parts-13-and-17--verb-creation) | [Eke →](../eke/full#sec-13-2)
 
 ### ೧೩.೨ ಮೂರು ಭಾಗ ರೂಪಗಳು
 
@@ -429,7 +429,7 @@ redirect_from:
 
 <a id="ch14"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-1416--compound-words-and-standalone-nouns) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#ch14)
+[English →](../en/summary#parts-1416--compound-words-and-standalone-nouns) | [Eke →](../eke/full#ch14)
 
 ## ಭಾಗ ೧೪–೧೬ — ಜೋಡುಪದ ಮತ್ತು ನಿಂತ ಹೆಸರುಪದ
 
@@ -439,7 +439,7 @@ redirect_from:
 
 <a id="sec-14-1"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-1416--compound-words-and-standalone-nouns) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-14-1)
+[English →](../en/summary#parts-1416--compound-words-and-standalone-nouns) | [Eke →](../eke/full#sec-14-1)
 
 ### ೧೪.೧ ಜೋಡು ಹೆಸರುಪದ
 
@@ -447,7 +447,7 @@ redirect_from:
 
 <a id="sec-14-2"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-1416--compound-words-and-standalone-nouns) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-14-2)
+[English →](../en/summary#parts-1416--compound-words-and-standalone-nouns) | [Eke →](../eke/full#sec-14-2)
 
 ### ೧೪.೨ ಜೋಡು ಎಸಕಪದ
 
@@ -455,7 +455,7 @@ redirect_from:
 
 <a id="sec-14-3"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-1416--compound-words-and-standalone-nouns) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-14-3)
+[English →](../en/summary#parts-1416--compound-words-and-standalone-nouns) | [Eke →](../eke/full#sec-14-3)
 
 ### ೧೪.೩ ಜೋಡಣೆಯ ಮುಖ್ಯ ನಿಯಮ
 
@@ -463,7 +463,7 @@ redirect_from:
 
 <a id="sec-15-1"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-1416--compound-words-and-standalone-nouns) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-15-1)
+[English →](../en/summary#parts-1416--compound-words-and-standalone-nouns) | [Eke →](../eke/full#sec-15-1)
 
 ### ೧೫.೧ ನಿಂತ ಇಂಗ್ಲಿಶ್ ಹೆಸರುಪದ — ತೀರ್ಮಾನ ಕ್ರಮ
 
@@ -473,7 +473,7 @@ redirect_from:
 
 <a id="ch18"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-18--neo-classical-roots) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#ch18)
+[English →](../en/summary#part-18--neo-classical-roots) | [Eke →](../eke/full#ch18)
 
 ## ಭಾಗ ೧೮ — ನವ-ಶಾಸ್ತ್ರೀಯ ಬೇರುಗಳು
 
@@ -483,7 +483,7 @@ redirect_from:
 
 <a id="sec-18-1"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-18--neo-classical-roots) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-18-1)
+[English →](../en/summary#part-18--neo-classical-roots) | [Eke →](../eke/full#sec-18-1)
 
 ### ೧೮.೧ ಬೇರು ಸಮಾನಗಳು
 
@@ -491,7 +491,7 @@ redirect_from:
 
 <a id="sec-18-2"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#part-18--neo-classical-roots) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-18-2)
+[English →](../en/summary#part-18--neo-classical-roots) | [Eke →](../eke/full#sec-18-2)
 
 ### ೧೮.೨ ಒಟ್ಟು ಸಮಾನಗಳು
 
@@ -501,7 +501,7 @@ redirect_from:
 
 <a id="ch19"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-1928--english-noun-forming-suffixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#ch19)
+[English →](../en/summary#parts-1928--english-noun-forming-suffixes) | [Eke →](../eke/full#ch19)
 
 ## ಭಾಗ ೧೯–೫೨ — ಅನ್ವಯ — ಇಂಗ್ಲಿಶ್ ಒಟ್ಟುಗಳ ವಿಶ್ಲೇಷಣೆ
 
@@ -511,13 +511,13 @@ redirect_from:
 
 <a id="ch19-28"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-1928--english-noun-forming-suffixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#ch19-28)
+[English →](../en/summary#parts-1928--english-noun-forming-suffixes) | [Eke →](../eke/full#ch19-28)
 
 ### ಭಾಗ ೧೯–೨೮ — ಹೆಸರುಪದ ಕಟ್ಟುವ ಹಿನ್ನೊಟ್ಟುಗಳು
 
 <a id="sec-19-1"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-1928--english-noun-forming-suffixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-19-1)
+[English →](../en/summary#parts-1928--english-noun-forming-suffixes) | [Eke →](../eke/full#sec-19-1)
 
 #### ೧೯.೧ ಎಸಗುಗ ಹಿನ್ನೊಟ್ಟುಗಳು — -er/-or, -ist, -eer, -ian
 
@@ -525,7 +525,7 @@ redirect_from:
 
 <a id="sec-19-2"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-1928--english-noun-forming-suffixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-19-2)
+[English →](../en/summary#parts-1928--english-noun-forming-suffixes) | [Eke →](../eke/full#sec-19-2)
 
 #### ೧೯.೨ ಅಮೂರ್ತ ಗುಣ ಹಿನ್ನೊಟ್ಟುಗಳು — -ness, -ity, -ism, -dom, -hood, -ship
 
@@ -533,7 +533,7 @@ redirect_from:
 
 <a id="sec-19-3"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-1928--english-noun-forming-suffixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-19-3)
+[English →](../en/summary#parts-1928--english-noun-forming-suffixes) | [Eke →](../eke/full#sec-19-3)
 
 #### ೧೯.೩ ಎಸಕ ಮತ್ತು ಕ್ರಿಯೆ ಹಿನ್ನೊಟ್ಟುಗಳು — -tion/-sion, -ment, -ance/-ence, -ure, -age
 
@@ -541,7 +541,7 @@ redirect_from:
 
 <a id="sec-19-4"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-1928--english-noun-forming-suffixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-19-4)
+[English →](../en/summary#parts-1928--english-noun-forming-suffixes) | [Eke →](../eke/full#sec-19-4)
 
 #### ೧೯.೪ ಫಲ ಮತ್ತು ಉತ್ಪತ್ತಿ ಹಿನ್ನೊಟ್ಟುಗಳು — -ure, -age (ಫಲ)
 
@@ -551,13 +551,13 @@ redirect_from:
 
 <a id="ch29-36"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-2936--english-verb-and-adjective-suffixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#ch29-36)
+[English →](../en/summary#parts-2936--english-verb-and-adjective-suffixes) | [Eke →](../eke/full#ch29-36)
 
 ### ಭಾಗ ೨೯–೩೬ — ಎಸಕಪದ ಮತ್ತು ಪರಿಚೆಪದ ಕಟ್ಟುವ ಹಿನ್ನೊಟ್ಟುಗಳು
 
 <a id="sec-29-1"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-2936--english-verb-and-adjective-suffixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-29-1)
+[English →](../en/summary#parts-2936--english-verb-and-adjective-suffixes) | [Eke →](../eke/full#sec-29-1)
 
 #### ೨೯.೧ ಎಸಕಪದ ಕಟ್ಟುವ ಹಿನ್ನೊಟ್ಟುಗಳು — -ize/-ise, -ify, -en
 
@@ -565,7 +565,7 @@ redirect_from:
 
 <a id="sec-29-2"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-2936--english-verb-and-adjective-suffixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-29-2)
+[English →](../en/summary#parts-2936--english-verb-and-adjective-suffixes) | [Eke →](../eke/full#sec-29-2)
 
 #### ೨೯.೨ ಪರಿಚೆಪದ ಕಟ್ಟುವ ಹಿನ್ನೊಟ್ಟುಗಳು — -ful, -less, -ous, -ive, -ible/-able, -al, -ic
 
@@ -575,13 +575,13 @@ redirect_from:
 
 <a id="ch37-52"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-3752--english-prefixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#ch37-52)
+[English →](../en/summary#parts-3752--english-prefixes) | [Eke →](../eke/full#ch37-52)
 
 ### ಭಾಗ ೩೭–೫೨ — ಇಂಗ್ಲಿಶ್ ಮುನ್ನೊಟ್ಟುಗಳ ವಿಶ್ಲೇಷಣೆ
 
 <a id="sec-37-1"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-3752--english-prefixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-37-1)
+[English →](../en/summary#parts-3752--english-prefixes) | [Eke →](../eke/full#sec-37-1)
 
 #### ೩೭.೧ ಅಳವಿ/ಹಂತ ಮುನ್ನೊಟ್ಟುಗಳು — hyper-, mega-, micro-, mini-, super-
 
@@ -589,7 +589,7 @@ redirect_from:
 
 <a id="sec-37-2"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-3752--english-prefixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-37-2)
+[English →](../en/summary#parts-3752--english-prefixes) | [Eke →](../eke/full#sec-37-2)
 
 #### ೩೭.೨ ಇಂಬಿನ ಮುನ್ನೊಟ್ಟುಗಳು — inter-, intra-, extra-, trans-, sub-, super-
 
@@ -597,7 +597,7 @@ redirect_from:
 
 <a id="sec-37-3"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-3752--english-prefixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-37-3)
+[English →](../en/summary#parts-3752--english-prefixes) | [Eke →](../eke/full#sec-37-3)
 
 #### ೩೭.೩ ಹೊತ್ತಿನ ಮುನ್ನೊಟ್ಟುಗಳು — pre-, post-, re-, ex-, neo-, paleo-
 
@@ -605,7 +605,7 @@ redirect_from:
 
 <a id="sec-37-4"></a>
 
-[English →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en#parts-3752--english-prefixes) | [Eke →](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke#sec-37-4)
+[English →](../en/summary#parts-3752--english-prefixes) | [Eke →](../eke/full#sec-37-4)
 
 #### ೩೭.೪ ಅಲ್ಲಗಳೆಯುವ ಮುನ್ನೊಟ್ಟುಗಳು — dis-, un-, non-, anti-, de-, in-/im-/ir-/il-
 
