@@ -16,17 +16,171 @@ redirect_from:
 ## pariviDi
 
 - [adhyAya 1 — munnOTa](#adhyAya-1)
+    - [1.1 vyAkaraNa parampare](#sec-1-1)
+    - [1.2 vyAkaraNada uddESa](#sec-1-2)
+    - [1.3 kannaDadavallada kannaDa vyAkaraNagaLu](#sec-1-3)
+    - [1.4 hosagannaDakke adaradE vyAkaraNa](#sec-1-4)
+    - [1.5 dAri hELuva krama](#sec-1-5)
+    - [1.6 I pustakada uddESa](#sec-1-6)
 - [adhyAya 2 — sErikeya niyamagaLu](#adhyAya-2)
+    - [2.1 munnOTa](#sec-2-1)
+        - [2.1.1 paThyapustakagaLalli sErikeya niyamagaLu](#sub-2-1-1)
+        - [2.1.2 samskxtada niyamagaLannu tiLisuva krama](#sub-2-1-2)
+    - [2.2 sErikeya niyamagaLalli vyatyAsagaLu](#sec-2-2)
+        - [2.2.1 svaragaLa badalAvaNeyalli vyatyAsagaLu](#sub-2-2-1)
+        - [2.2.2 vyanjanagaLa badalAvaNeyalli vyatyAsagaLu](#sub-2-2-2)
+    - [2.3 nAmarUDhiyaLiyuva hAgiddare..](#sec-2-3)
+    - [2.4 sandabhragaLa vibhajane](#sec-2-4)
+    - [2.5 sErikeya niyamagaLa aniyamitate](#sec-2-5)
+    - [2.6 varNagaLa paTTi](#sec-2-6)
+        - [2.6.1 samskxta svaragaLa paTTi](#sub-2-6-1)
+        - [2.6.2 kannaDa svaragaLa paTTi](#sub-2-6-2)
+        - [2.6.3 vyanjanagaLa paTTi](#sub-2-6-3)
+    - [2.7 tiruLu](#sec-2-7)
 - [adhyAya 3 — padavagragaLu](#adhyAya-3)
+    - [3.1 munnOTa](#sec-3-1)
+    - [3.2 nAmapadagaLu mattu guNapadagaLu](#sec-3-2)
+        - [3.2.1 viSEShaNagaLAgi guNapadagaLa baLake](#sub-3-2-1)
+        - [3.2.2 viSEShaNagaLAgi nAmapadagaLa baLake](#sub-3-2-2)
+        - [3.2.3 viSEShaNa mattu viSEShyagaLa jAga](#sub-3-2-3)
+        - [3.2.4 padakante mattu jODupadagaLalli guNapadagaLu](#sub-3-2-4)
+        - [3.2.5 nAmapadagaLAgi guNapadagaLa baLake](#sub-3-2-5)
+        - [3.2.6 guNapadagaLa jAga](#sub-3-2-6)
+        - [3.2.7 tAratamya sUcane](#sub-3-2-7)
+        - [3.2.8 kxdantagaLa baLake](#sub-3-2-8)
+    - [3.3 jODupadagaLa racane](#sec-3-3)
+    - [3.4 padakantegaLannu tayArisalu eraDu vidhAnagaLu](#sec-3-4)
+    - [3.5 bhAShegaLa naDuvina vayvidhya](#sec-3-5)
+    - [3.6 bEre padavagragaLu](#sec-3-6)
+    - [3.7 tatsama mattu tadbhava padagaLu](#sec-3-7)
+    - [3.8 tiruLu](#sec-3-8)
 - [adhyAya 4 — padagaLa oLaracane](#adhyAya-4)
+    - [4.1 munnOTa](#sec-4-1)
+        - [4.1.1 hesarisuvudu mattu varNisuvudu](#sub-4-1-1)
+        - [4.1.2 jODupadagaLu mattu padakantegaLu](#sub-4-1-2)
+    - [4.2 kxt mattu taddhita pratyayagaLu](#sec-4-2)
+    - [4.3 padada modalu mattu anantara baruva pratyayagaLu](#sec-4-3)
+    - [4.4 nAmapadagaLa racane](#sec-4-4)
+    - [4.5 ike-ige pratyaya](#sec-4-5)
+    - [4.6 kriyApadagaLa racane](#sec-4-6)
+    - [4.7 guNapadagaLa racane](#sec-4-7)
+    - [4.8 tiruLu](#sec-4-8)
 - [adhyAya 5 — samAsagaLu](#adhyAya-5)
+    - [5.1 munnOTa](#sec-5-1)
+    - [5.2 jODupadagaLu mattu padakantegaLu](#sec-5-2)
+    - [5.3 samskxta mattu kannaDa bhAShegaLa naDuvina vyatyAsa](#sec-5-3)
+        - [5.3.1 samskxtada jODupadagaLu](#sub-5-3-1)
+        - [5.3.2 padakantegaLalli guNapadagaLa baLake](#sub-5-3-2)
+        - [5.3.3 kxdantagaLa baLake](#sub-5-3-3)
+        - [5.3.4 nirdESaka padagaLa baLake](#sub-5-3-4)
+        - [5.3.5 dvitIyA vibhaktiya baLake](#sub-5-3-5)
+        - [5.3.6 nAmapadagaLa baLake](#sub-5-3-6)
+        - [5.3.7 padagaLa sankhye](#sub-5-3-7)
+        - [5.3.8 jODupadagaLa artha](#sub-5-3-8)
+    - [5.4 samskxta samAsagaLa vibhajane](#sec-5-4)
+    - [5.5 kannaDa jODupadagaLa oLaracane](#sec-5-5)
+        - [5.5.1 nAmapadaviruva jODupadagaLu](#sub-5-5-1)
+        - [5.5.2 kriyApadaviruva jODupadagaLu](#sub-5-5-2)
+        - [5.5.3 guNapadaviruva jODupadagaLu](#sub-5-5-3)
+        - [5.5.4 kelavu apavAdagaLu](#sub-5-5-4)
+    - [5.6 samskxtada samAsagaLu kannaDadalliveyE?](#sec-5-6)
+        - [5.6.1 vibhajaneya AdhAra](#sub-5-6-1)
+        - [5.6.2 oLanuDigaLa baLake](#sub-5-6-2)
+    - [5.7 kannaDa vayyAkaraNigaLu hELuva samAsagaLu](#sec-5-7)
+        - [5.7.1 tatpuruSha](#sub-5-7-1)
+        - [5.7.2 karmadhAraya](#sub-5-7-2)
+        - [5.7.3 dvigu](#sub-5-7-3)
+        - [5.7.4 avyayIbhAva](#sub-5-7-4)
+        - [5.7.5 dvandva](#sub-5-7-5)
+        - [5.7.6 bahuvrIhi](#sub-5-7-6)
+        - [5.7.7 kriyAsamAsa](#sub-5-7-7)
+        - [5.7.8 gamaka samAsa](#sub-5-7-8)
+    - [5.8 samskxtadinda eravalAgi banda jODupadagaLu](#sec-5-8)
+        - [5.8.1 jODupadagaLa oLanuDigaLu](#sub-5-8-1)
+        - [5.8.2 vibhajane](#sub-5-8-2)
+    - [5.9 tiruLu](#sec-5-9)
 - [adhyAya 6 — linga mattu vacanagaLu](#adhyAya-6)
+    - [6.1 munnOTa](#sec-6-1)
+    - [6.2 lingabhEdagaLu](#sec-6-2)
+        - [6.2.1 ‘linga’ padada baLake](#sub-6-2-1)
+        - [6.2.2 kannaDadalli lingavibhajane](#sub-6-2-2)
+        - [6.2.3 samskxtada linga vibhajane](#sub-6-2-3)
+        - [6.2.4 bhAShegaLa naDuvina vyatyAsagaLu](#sub-6-2-4)
+        - [6.2.5 eNikeya padagaLalli lingabhEda](#sub-6-2-5)
+    - [6.3 vacanabhEdagaLu](#sec-6-3)
+        - [6.3.1 vacanagaLa sankhye](#sub-6-3-1)
+        - [6.3.2 vacana mattu vibhakti](#sub-6-3-2)
+        - [6.3.3 Ekavacanada sUcane](#sub-6-3-3)
+        - [6.3.4 vacanavannu sUcisadiruvudu](#sub-6-3-4)
+    - [6.4 tiruLu](#sec-6-4)
 - [adhyAya 7 — vibhaktigaLu mattu kArakagaLu](#adhyAya-7)
+    - [7.1 munnOTa](#sec-7-1)
+    - [7.2 vibhaktigaLa kelasa](#sec-7-2)
+    - [7.3 kArakagaLa kelasa](#sec-7-3)
+        - [7.3.1 ondu vibhaktige halavu arthagaLu](#sub-7-3-1)
+        - [7.3.2 ondE arthakke halavu vibhaktigaLu](#sub-7-3-2)
+        - [7.3.3 bEre kAraNagaLu](#sub-7-3-3)
+        - [7.3.4 kArakagaLa mUlaka sambandhisuvudu](#sub-7-3-4)
+    - [7.4 pAScAtya vyAkaraNagaLalli kalpita tatva](#sec-7-4)
+    - [7.5 kannaDakke kArakagaLu bEkAgilladiruvudu](#sec-7-5)
+        - [7.5.1 eraDu rItiya sambandhagaLu](#sub-7-5-1)
+        - [7.5.2 kannaDa vAkyagaLalli sabjekTa emba tatva](#sub-7-5-2)
+        - [7.5.3 eraDu vyavasthegaLu](#sub-7-5-3)
+        - [7.5.4 kannaDada vaySiShTya](#sub-7-5-4)
+        - [7.5.5 eraDu rItiya vyAkaraNa kAryagaLu](#sub-7-5-5)
+    - [7.6 tiruLu](#sec-7-6)
 - [adhyAya 8 — vibhaktigaLu](#adhyAya-8)
+    - [8.1 munnOTa](#sec-8-1)
+    - [8.2 vibhaktigaLa hesaru](#sec-8-2)
+    - [8.3 vibhakti, linga mattu vacana](#sec-8-3)
+    - [8.4 pratyayagaLa avaSyakate](#sec-8-4)
+    - [8.5 pratyayagaLa sankhye](#sec-8-5)
+        - [8.5.1 prathamA vibhakti](#sub-8-5-1)
+        - [8.5.2 dvitIyA vibhakti](#sub-8-5-2)
+        - [8.5.3 txtIyA mattu pancamI vibhaktigaLu](#sub-8-5-3)
+        - [8.5.4 caturthI vibhakti](#sub-8-5-4)
+        - [8.5.5 ShaShThI vibhakti](#sub-8-5-5)
+        - [8.5.6 saptamI vibhakti](#sub-8-5-6)
+    - [8.6 tiruLu](#sec-8-6)
 - [adhyAya 9 — vibhaktipallaTa](#adhyAya-9)
-- [adhyAya 10 — sarvanAmagaLu mattu eNikeya padagaLu](#adhyAya-10)
+    - [9.1 munnOTa](#sec-9-1)
+    - [9.2 kriyApadadalli badalAvaNeyAgade vibhaktipallaTa](#sec-9-2)
+        - [9.2.1 samagrate](#sub-9-2-1)
+        - [9.2.2 svEcchApravxtti](#sub-9-2-2)
+        - [9.2.3 sAnnidhya](#sub-9-2-3)
+        - [9.2.4 bEre arthagaLu](#sub-9-2-4)
+    - [9.3 samskxtadalli vibhaktipallaTa](#sec-9-3)
+    - [9.4 kriyApadadalli badalAvaNe](#sec-9-4)
+    - [9.5 tiruLu](#sec-9-5)
+- [adhyAya 10 — savranAmagaLu mattu eNikeya padagaLu](#adhyAya-10)
+    - [10.1 munnOTa](#sec-10-1)
+    - [10.2 savranAmagaLu](#sec-10-2)
+        - [10.2.1 puruShapadagaLu mattu savrapadagaLu](#sub-10-2-1)
+        - [10.2.2 savrapadagaLa svarUpa](#sub-10-2-2)
+        - [10.2.3 samskxtada savranAmagaLu](#sub-10-2-3)
+        - [10.2.4 samskxtada ‘savrAdi’ padagaLu](#sub-10-2-4)
+    - [10.3 eNikeya padagaLu](#sec-10-3)
+        - [10.3.1 baLakeyalli vyatyAsa](#sub-10-3-1)
+        - [10.3.2 oLaracaneyalli vyatyAsa](#sub-10-3-2)
+    - [10.4 tiruLu](#sec-10-4)
 - [adhyAya 11 — kriyArUpagaLu](#adhyAya-11)
+    - [11.1 munnOTa](#sec-11-1)
+    - [11.2 kAlasambandha mattu kAlavyavasthe](#sec-11-2)
+        - [11.2.1 kannaDada kAlasambandha](#sub-11-2-1)
+        - [11.2.2 samskxtada kAlavyavasthe](#sub-11-2-2)
+        - [11.2.3 kAlarUpagaLalli vyatyAsa](#sub-11-2-3)
+        - [11.2.4 ghaTanegaLa naDuvina kAlabhEda](#sub-11-2-4)
+    - [11.3 AkhyAta pratyayagaLu](#sec-11-3)
+    - [11.4 parasmaypada mattu AtmanEpada](#sec-11-4)
+    - [11.5 karmaNi prayOga](#sec-11-5)
+    - [11.6 allagaLeyuva vAkyagaLu](#sec-11-6)
+    - [11.7 kELuva vAkyagaLu](#sec-11-7)
+    - [11.8 tiruLu](#sec-11-8)
 - [adhyAya 12 — muktAya](#adhyAya-12)
+    - [12.1 vyatyAsagaLa mUla](#sec-12-1)
+    - [12.2 hosa dxShTikOna](#sec-12-2)
+    - [12.3 SAlA vyAkaraNagaLu](#sec-12-3)
+    - [12.4 kAlEjugaLalli bOdhane mattu samSOdhane](#sec-12-4)
 
 ---
 
@@ -152,206 +306,14 @@ phebravari 1, 2006
 Di. en. Sankara bhaT 
 
 
-adhyAya 1 : munnOTa 
-1.1 vyAkaraNa parampare   
-1.2 vyAkaraNada uddESa   
-1.3 kannaDadavallada kannaDa vyAkaraNagaLu 
-1.4 hosagannaDakke adaradE vyAkaraNa 
-1.5 dAri hELuva krama   
-1.6 I pustakada uddESa  
-
-adhyAya 2 : sErikeya niyamagaLu 
-2.1 munnOTa   
-2.1.1 paThyapustakagaLalli sErikeya niyamagaLu 
-2.1.2 samskxta niyamagaLannu tiLisuva krama 
-2.2 sErikeya niyamagaLalli vyatyAsagaLu   
-2.2.1 svaragaLa badalAvaNeyalli vyatyAsagaLu 
-2.2.2 vyanjanagaLa badalAvaNeyalli vyatyAsagaLu 
-2.3 nAmarUDhiyaLiyuva hAgiddare... 
-2.4 sandabhragaLa vibhajane  
-2.5 sErikeya nimamagaLa aniyamitate 
-2.6 varNagaLa paTTi 
-2.6.1 samskxta svaragaLa paTTi 
-2.6.2 kannaDa svaragaLa paTTi 
-2.6.3 vyanjanagaLa paTTi   
-2.7 tiruLu 
-
-adhyAya 3 : padavagragaLu 
-3.1 munnOTa   
-3.2 nAmapadagaLu mattu guNapadagaLu 
-3.2.1 viSEShaNagaLAgi guNapadagaLa baLake   
-3.2.2 viSEShaNagaLAgi nAmapadagaLa baLake   
-
-
-3.2.3 viSEShaNa mattu viSEShyagaLa jAga 
-3.2.4 padakante mattu jODupadagaLalli guNapadagaLu 
-3.2.5 nAmapadagaLAgi guNapadagaLa baLake   
-3.2.6 guNapadagaLa jAga  
-3.2.7 tAratamya sUcane  
-3.2.8 kxdantagaLa baLake   
-3.3 jODupadagaLa racane 
-3.4 padakantegaLannu tayArisalu eraDu vidhAnagaLu  
-3.5 bhAShegaLoLagina vayvidhya 
-3.6 bEre padavagragaLu   
-3.7 tatsama mattu tadbhava padagaLu 
-3.8 tiruLu 
-
-adhyAya 4 : padagaLa oLaracane   
-4.1 munnOTa   
-4.1.1. hesarisuvudu mattu varNisuvudu  
-4.1.2 jODupadagaLu mattu padakantegaLu  
-4.2 kxt mattu taddhita pratyayagaLu 
-4.3 padada modalu mattu anantara baruva pratyayagaLu 
-4.4 nAmapadagaLa racane   
-4.5 ike-ige pratyaya 
-4.6 kriyApadagaLa racane   
-4.7 guNapadagaLa racane   
-4.8 tiruLu 
-
-
-adhyAya 5 : samAsagaLu 
-5.1 munnOTa   
-5.2 jODupadagaLu mattu padakantegaLu   
-5.3 samskxta mattu kannaDa bhAShegaLa naDuvina vyatyAsagaLu  99 
-5.3.1 samskxtada jODupadagaLu  
-5.3.2 padakantegaLalli guNapadagaLa baLake   
-5.3.3 kxdantagaLa baLake   
-5.3.4 nirdESaka padagaLa baLake 
-5.3.5 dvitIyA vibhaktiya baLake   
-5.3.6 nAmapadagaLa baLake 
-
-
-5.3.7 padagaLa sankhye 
-5.3.8 jODupadagaLa artha 
-5.4 samskxta samAsagaLa vibhajane   
-5.5 kannaDa jODupadagaLa oLaracane 
-5.5.1 nAmapadaviruva jODupadagaLu 
-5.5.2 kriyApadaviruva jODupadagaLu 
-5.5.3 guNapadaviruva jODupadagaLu 
-5.5.4 kelavu apavAdagaLu 
-5.6 samskxta samAsagaLu kannaDadalliveyE?  
-5.6.1 vibhajaneya AdhAra  
-5.6.2 oLanuDigaLa baLake  
-5.7 kannaDa vayyAkaraNigaLu hELuva samAsagaLu 
-5.7.1 tatpuruSha  
-5.7.2 karmadhAraya 
-5.7.3 dvigu 
-5.7.4 avyayIbhAva 
-5.7.5 dvandva   
-5.7.6 bahuvrIhi 
-5.7.7 kriyAsamAsa 
-5.7.8 gamaka samAsa 
-5.8 samskxtadinda eravalAgi banda jODupadagaLu 
-5.8.1 jODupadagaLa oLanuDigaLu 
-5.8.2 vibhajane   
-5.9 tiruLu 
-
-
-adhyAya 6 : linga mattu vacanagaLu 
-6.1 munnOTa   
-6.2 lingabhEdagaLu 
-6.2.1 ‘linga’ padada baLake 
-6.2.2 kannaDadalli lingavibhajane 
-6.2.3 samskxtadalli lingavibhajane  
-6.2.4 bhAShegaLa naDuvina vyatyAsagaLu 
-6.2.5 eNikeyalli lingabhEda 
-6.3 vacanabhEdagaLu 
-6.3.1 vacanagaLa sankhye   
-
-
-6.3.2 vacana mattu vibhakti 
-6.3.3 Ekavacanada sUcane 
-6.3.4 vacanavannu sUcisadiruvudu 
-6.4 tiruLu 
-
-adhyAya 7 : vibhaktigaLu mattu kArakagaLu 
-7.1 munnOTa   
-7.2 vibhaktigaLa kelasa 
-7.3 kArakagaLa kelasa 
-7.3.1 ondu vibhaktige halavu arthagaLu   
-7.3.2 ondE arthakke halavu vibhaktigaLu   
-7.3.3 bEre kAraNagaLu   
-7.3.4 kArakagaLa mUlaka sambandhisuvudu   
-7.4 pAScAtya vyAkaraNagaLalli kalpita tatva 
-7.5 kannaDakke kArakagaLu bEkAgilladiruvudu  
-7.5.1 eraDu rItiya sambandhagaLu 
-7.5.2 kannaDa vAkyagaLalli sabjekTa emba tatva 
-7.5.3 eraDu vyavasthegaLu  
-7.5.4 kannaDada vaySiShTya   
-7.5.5 eraDu rItiya vyAkaraNa kAryagaLu 
-7.6 tiruLu 
-
-adhyAya 8 : vibhaktigaLu  
-8.1 munnOTa   
-8.2 vibhaktigaLa hesaru 
-8.3 vibhakti, linga mattu vacana 
-8.4 pratyayagaLa avaSyakate  
-8.5 pratyayagaLa sankhye 
-8.5.1 prathamA vibhakti 
-8.5.2 dvitIyA vibhakti   
-8.5.3 txtIyA mattu pancamI vibhaktigaLu 
-8.5.4 caturthI vibhakti   
-8.5.5 ShaShThI vibhakti 
-8.5.6 saptamI vibhakti 
-8.6 tiruLu 
-
-
-adhyAya 9 : vibhaktipallaTa 
-9.1 munnOTa   
-9.2 kriyApadadalli badalAvaNeyAgade vibhaktipallaTa  
-9.2.1 samagrate   
-9.2.2 svEcchApravxtti 
-9.2.3 sAnnidhya   
-9.2.4 bEre arthagaLu    
-9.3 samskxtadalli vibhaktipallaTa 
-9.4 kriyApadadalli badalAvaNe 
-9.5 tiruLu 
-
-
-adhyAya 10 : savranAmagaLu mattu eNikeya padagaLu  205 
-10.1 munnOTa  
-10.2 savranAmagaLu 
-10.2.1 puruSha padagaLu mattu savrapadagaLu 
-10.2.2 savrapadagaLa svarUpa 
-10.2.3 samskxtada savranAmagaLu  
-10.2.4 samskxtada savrAdi padagaLu 
-10.3 eNikeya padagaLu   
-10.3.1 baLakeyalli vyatyAsa 
-10.3.2 oLaracaneyalli vyatyAsa   
-10.4 tiruLu 
-
-adhyAya 11 : kriyArUpagaLu   
-11.1 munnOTa 
-11.2 kAlasambandha mattu kAlavyavasthe 
-11.2.1 kannaDada kAlasambandha 
-11.2.2 samskxtada kAlavyavasthe 
-11.2.3 kAlarUpagaLalli vyatyAsa   
-11.2.4 ghaTakagaLa naDuvina kAlabhEda 
-11.3 akhyAta pratyayagaLu 
-11.4 parasmaypada mattu AtmanEpada 
-11.5 karmaNi prayOga  
-
-
-11.6 allagaLeyuva vAkyagaLu 
-11.7 kELuva vAkyagaLu   
-11.8 tiruLu 
-
-adhyAya 12 : muktAya 
-12.1 vyatyAsagaLa mUla  
-12.2 hosa dxShTikOna  
-12.3 SAlAvyAkaraNagaLu  
-12.4 kAlEjugaLalli bOdhane mattu samSOdhane   
-
-AkarasUci 
-viShayasUci 
-
-
 <a id="adhyAya-1"></a>
 
 [English →](./28-kannaDakke-bEku-en#chapter-1--preview) | [Eke →](./28-kannaDakke-bEku-kn-eke#munnOTa)
 
 ## 1. munnOTa
 
+
+<a id="sec-1-1"></a>
 
 ### 1.1 vyAkaraNa parampare
 
@@ -477,6 +439,8 @@ dikkinalli  mUDi  paDu  dikkinalli  muLuguttAnemba  haLE  kAlada
 anisikeyannu  sariyumbudAgi  ivattigU  kagOLa  vijnAnada  klAsinalli 
 hELi koDuvudu hEge tappAguttadeyO hAgeyE idU kUDa. vyAkaraNavembudu nuDiyinda nudige
 
+<a id="sec-1-2"></a>
+
 ### 1.2 vyAkaraNada uddESa
 
 
@@ -588,6 +552,8 @@ nuDiya
 svarUpaventahadu  embudannu  avarige  spaSTavAgi  tiLisuvudakkAdarU 
 idannu baLasabahudallavE? bErEnilladiddarU nAvADuva
 
+<a id="sec-1-3"></a>
+
 ### 1.3 kannaDadavallada kannaDa vyAkaraNagaLu
 
 kannaDa  vyAkaraNagaLu  kannaDa  nuDiya  oLaracaneyannu,  endare  kannaDavannu 
@@ -644,6 +610,8 @@ samskrutada  samAsagaLu  entahavu,  kannaDada  samAsagaLiginta  avu  hEge
 bErAgive  embudannAgalI  ettugegaLa 
 neravininda  vivarisabEku. 
 idallavE sariyAda krama? nuDiyannu
+
+<a id="sec-1-4"></a>
 
 ### 1.4 hosagannaDakke adaradE vyAkaraNa
 
@@ -740,6 +708,8 @@ varNisuttave.
 oLaracaneya  hindiruva  kaTTalegaLu  mAtra.  antaha  kaTTalegaLannu  baLasi 
 tayArisiruva  sAphTavEr  mAtra  eNNukakke  hosagannaDada  padagaLannu 
 mattu vAkyagaLannu anuvAdisuvalli AdAravAgaballudu. 
+
+<a id="sec-1-5"></a>
 
 ### 1.5 dAri hELuva krama
 
@@ -851,6 +821,8 @@ kannaDa  tannadE  Ada  kaTTalegaLannu  baLasuttiddu,  ivu  samskrutadalli
 baLakeyAguva  padaracaneya 
 kaTTalegaLiginta  halavu  viSayagaLalli 
 bErAgiveyumbudannu munde nODaliruvevu. 
+
+<a id="sec-1-6"></a>
 
 ### 1.6 I pustakada uddESa
 
@@ -977,6 +949,8 @@ I pustakadalli mADalAgide. vyanjana g  endAguttade
 
 ## 2. sErikeya niyamagaLu
 
+<a id="sec-2-1"></a>
+
 ### 2.1 munnOTa
 
 ondu  padadondige  innondu  padavannu  illavE  pratyayavannu  sErisi 
@@ -1013,6 +987,8 @@ kAraNakkAgiyO EnO, kannaDada vayyAkaraNigaLu samskxtada sErikeya
 niyamagaLannu  hAgeyE  kannaDada  mEle  hEralu  prayatnisilla.  avaru 
 bareda  vyAkaraNagaLalli  ‘kannaDasandhi’  mattu  ‘samskxtasandhi’  embudAgi 
 eraDu vibhAgagaLiruvudannu gamanisabahudu.  
+
+<a id="sub-2-1-1"></a>
 
 #### 2.1.1 paThyapustakagaLalli sErikeya niyamagaLu
 
@@ -1058,6 +1034,8 @@ koDuvudaralli avcityavide.
 adara vyAkaraNadinda etti kannaDa vyAkaraNadalli irisuva  badalu, kannaDa 
 vyAkaraNavannu  kaliyuvavarige  anukUlavAguva  hAge  adannu  aLavaDisi 
 konDalli adu heccu upayuktavAgaballudu.  
+
+<a id="sub-2-1-2"></a>
 
 #### 2.1.2 samskxtada niyamagaLannu tiLisuva krama
 
@@ -1116,6 +1094,8 @@ endu  hELuvudarinda  heccina  prayOjanavEnU  sigalAradu.  idallade
 intaha  hELikeyannu  vivarisabEkAgiruva  halavu  mandi  adhyApakarigU 
 adu nijakkU Enu tiLisuttadeyumbudu arthavAgiruvudilla.    
 
+<a id="sec-2-2"></a>
+
 ### 2.2 sErikeya niyamagaLalli vyatyAsagaLu
 
 mEleyE hELida hAge, sErikeya niyamagaLa maTTige samskxta mattu 
@@ -1124,6 +1104,8 @@ vidyArthigaLige samskxtada sErikeya niyamagaLannu tiLisuvudiddalli avu
 kannaDada  niyamagaLinda  hEge  bhinnavAgive  embudannu  tiLisidalli  heccu 
 spaShTavAgi  arthavAgaballuvu.  intaha  kelavu  vyatyAsagaLannu  keLage 
 vivarisalAgide. 
+
+<a id="sub-2-2-1"></a>
 
 #### 2.2.1 svaragaLa badalAvaNeyalli vyatyAsagaLu
 
@@ -1264,6 +1246,8 @@ kADu + Ane = kADAne
 kADu + illa = kADilla 
 
 
+<a id="sub-2-2-2"></a>
+
 #### 2.2.2 vyanjanagaLa badalAvaNeyalli vyatyAsagaLu
 
 hosagannaDada  padagaLellavU  svaradalliyE  konegoLLuvuvAda  kAraNa, 
@@ -1358,6 +1342,8 @@ gaLAgi  badalAgiruva  spaSragaLu  samskxtadalli  avugaLa  anantara  baruva
 anunAsikakkinta bhinnavAgiyE uLiyuttave. 
 
 
+<a id="sec-2-3"></a>
+
 ### 2.3 nAmarUDhiyaLiyuva hAgiddare..
 
 mEle  sUcisida  hAge,  kannaDadalli  ondu  padadondige  svaradalli 
@@ -1429,6 +1415,8 @@ hELalu sAdhyavide. hAgiddare I eraDE vAkyagaLalli iDI vyAkaraNavannu
 baredu mugisibiDabahudu!  
     nijakkU  mElina  apavAdagaLa  hinde  entaha  niyama  aDagide 
 embudannu keLage (2.4)ralli sUcisalAgide. 
+
+<a id="sec-2-4"></a>
 
 ### 2.4 sandabhragaLa vibhajane
 
@@ -1642,6 +1630,8 @@ gamanadallirisikoLLuva  avaSyakateyide.  ivannella  sariyAgi  gamanisi
 sErikeya  niyamagaLannu  baredalli  ‘nAmarUpavaLiyadiddalli’  embantaha 
 prayOgagaLa mUlaka jArikoLLuva avaSyakateyilla. 
 
+<a id="sec-2-5"></a>
+
 ### 2.5 sErikeya niyamagaLa aniyamitate
 
 kannaDadalli sAmAnyavAgi padagaLa naDuve baruva sErikeya niyamagaLu, 
@@ -1711,6 +1701,8 @@ aniyamitateyU  padapratyayagaLa  baLakeyalli  kANisuva  sErikeya
 niyamada  aniyamitateya  hAgeyE  paLeyaLikeya  pariNAmavendu 
 hELabahudu. 
 
+<a id="sec-2-6"></a>
+
 ### 2.6 varNagaLa paTTi
 
 samskxta vayyAkaraNigaLu siddhapaDisiruva  varNagaLa paTTiyannu ‘atyanta 
@@ -1728,6 +1720,8 @@ tayArisikonDiddAre.
 ettikonDiddAre. Adare adu kannaDada sErikeya niyamagaLannu vivarisu 
 valli  svalpavU  anukUlavAgilla.  hAgAgi,  kannaDada  maTTigantU  adu 
 nijakkU ‘vayjYAnika’valla. 
+
+<a id="sub-2-6-1"></a>
 
 #### 2.6.1 samskxta svaragaLa paTTi
 
@@ -1758,6 +1752,8 @@ avkAragaLu  ak  svaragaLiginta  bhinnavAgi  kANisikoLLuttave  (2.2.1
 nODi).  hAgAgi,  I  svaragaLannu  paTTiyalli  uLidavugaLiginta  bErAgi 
 hELiruvudu samskxtada sErikeya niyamagaLannu vivarisuvalli sahAyaka 
 vAguttade. 
+
+<a id="sub-2-6-2"></a>
 
 #### 2.6.2 kannaDa svaragaLa paTTi
 
@@ -1851,6 +1847,8 @@ C, D
 heccu  ‘vayjYAnika’vAdudu.  idu  mEle  vivarisida  samskxta  svaragaLa 
 paTTiyinda tIra bhinnavAgideyumbudannu gamanisabahudu. 
 
+<a id="sub-2-6-3"></a>
+
 #### 2.6.3 vyanjanagaLa paTTi
 
 samskxtada  vyanjanagaLannu  vagrIyagaLu  (spaSra  mattu  anunAsikagaLu) 
@@ -1889,6 +1887,8 @@ l
 t 
 
 
+<a id="sec-2-7"></a>
+
 ### 2.7 tiruLu
 
 kannaDadalli  kANisuva  sErikeya  (sandhi)  niyamagaLigU  samskxtadalli 
@@ -1924,6 +1924,8 @@ vAguttade.
 
 ## 3. padavagragaLu
 
+
+<a id="sec-3-1"></a>
 
 ### 3.1 munnOTa
 
@@ -1970,6 +1972,8 @@ sUcisuvudu  embudAgi  mUru  mukhya  kelasagaLannu  naDesuvudakkAgi
 mElina  mUru  rItiya  padagaLannu  baLasuttEve.  idu  avannu  anu 
 kramavAgi  nAmapada,  kriyApada  mattu  guNapadagaLemba  mUru  pada 
 vagragaLalli vingaDisalu innondu AdhAra. 
+
+<a id="sec-3-2"></a>
 
 ### 3.2 nAmapadagaLu mattu guNapadagaLu
 
@@ -2023,6 +2027,8 @@ bhinnavAgi kANisuvuvembudannu munde nODaliruvevu.
 guNapadagaLannu  bEreyE  ondu  padavagradalli  yAke  pratyEkavAgi 
 irisabEku  embudannu  tiLiyalu  I  keLagina  kelavu  viShayagaLannu 
 pariSIlisabahudu. nAmapadada  viSEShaNavannAgi
+
+<a id="sub-3-2-1"></a>
 
 #### 3.2.1 viSEShaNagaLAgi guNapadagaLa baLake
 
@@ -2085,6 +2091,8 @@ sUcisuttAre.  idE  kramavannu  mEle  koTTiruva  *kappannu  hAvannu,
 *kappininda  hAvininda  *ondannu  hAvannu  modalAda  padakantegaLu 
 kannaDadalli  vyAkaraNabaddhavalla  embudannu  sUcisuvudakkAgi  baLasa 
 
+<a id="sub-3-2-2"></a>
+
 #### 3.2.2 viSEShaNagaLAgi nAmapadagaLa baLake
 
 samskxtadalli  guNapadagaLa  hAge  nAmapadagaLannU  bEre  nAmapadagaLa 
@@ -2135,6 +2143,8 @@ vibhakti  pratyaya  sErade  kannaDada  nAmapadagaLu  bErondu  nAmapadada
 viSEShaNagaLAgi baralAravu.  
 
 
+<a id="sub-3-2-3"></a>
+
 #### 3.2.3 viSEShaNa mattu viSEShyagaLa jAga
 
 guNapadagaLa  baLakeyalli  kannaDa  mattu  samskxta  bhAShegaLa  naDuviruva 
@@ -2179,6 +2189,8 @@ yAkendare,  kannaDada  padakantegaLalli  viSEShyagaLu  mAtra  vibhakti  pratyaya
 dondige  baraballuvu.  viSEShaNagaLu  guNapadagaLAgiddalli  hAgeyE 
 baruttave mattu nAmapadagaLAgiddalli ShaShThI pratyayadondige baruttave. 
 I ShaShThI pratyaya kannaDadalli vibhakti pratyayavalla (8.5.5 nODi). 
+
+<a id="sub-3-2-4"></a>
 
 #### 3.2.4 padakante mattu jODupadagaLalli guNapadagaLu
 
@@ -2231,6 +2243,8 @@ maTTigU  mukhyavAda  vyatyAsagaLiddu,  avannu  bariya  vibhakti  pratyayada
 iruvike  illavE  illadiruvikeya  AdhArada  mEle  ondarindondannu 
 pratyEkisalu sAdhyavAgadembudannu munde nAlkanE adhyAyadalli nODa 
 liruvevu. 
+
+<a id="sub-3-2-5"></a>
 
 #### 3.2.5 nAmapadagaLAgi guNapadagaLa baLake
 
@@ -2325,6 +2339,8 @@ sAdhyavAgadiruvudakke avu sUcisuva I aniScitateyE mukhya kAraNa.
     nAmapadagaLu  mattu  guNapadagaLu  kannaDadalli  bEre  bEre  vagra 
 gaLige  sEruttaveyumbudakke  mElina  eraDu  vyatyAsagaLU  AdhAravAga 
 balluvu.  
+
+<a id="sub-3-2-6"></a>
 
 #### 3.2.6 guNapadagaLa jAga
 
@@ -2436,6 +2452,8 @@ arthagaLannu koDuttave.
     samskxtadalli nAmapada-guNapada vyatyAsavillavAda kAraNa, intaha 
 sAdhyategaLilla. 
 
+<a id="sub-3-2-7"></a>
+
 #### 3.2.7 tAratamya sUcane
 
 tAratamyavannu sUcisuvudakkAgi samskxtadalli tara mattu tama pratyaya 
@@ -2498,6 +2516,8 @@ mAtra baLasalu sAdhyavAguttade.
     samskxtadalli  nAmapada  mattu  guNapadagaLeraDU  ondE  padavagra 
 dalli  baruvuvAda  kAraNa,  tara-tama  pratyayagaLannu  baLasuva  viShaya 
 dalli kannaDadalliruvantaha nibrandha A bhASheyallilla. 
+
+<a id="sub-3-2-8"></a>
 
 #### 3.2.8 kxdantagaLa baLake
 
@@ -2569,6 +2589,8 @@ anukramavAgi  udu  pratyayadondige  mattu  avanu  savranAma
 (savrapada)dondige  sEri,  anantara  dvitIyA  vibhakti  pratyayavannu 
 paDedive. 
 
+<a id="sec-3-3"></a>
+
 ### 3.3 jODupadagaLa racane
 
 kannaDa  mattu  samskxta  bhAShegaLa  naDuve  I  rIti  guNapadagaLa  vibhajane 
@@ -2623,6 +2645,8 @@ jODupadakkU  naDuve  mukhyavAda  vyatyAsavide.  Adare  samskxtadalli
 intaha  vyatyAsavilla.  I  kAraNakkAgi  samskxtadalli  karmadhArayavannu 
 tatpuruShada  ondu  upabhEdavendu  parigaNisalu  sAdhyavide,  Adare 
 kannaDadalli idu sAdhyavilla. 
+
+<a id="sec-3-4"></a>
 
 ### 3.4 padakantegaLannu tayArisalu eraDu vidhAnagaLu
 
@@ -2705,6 +2729,8 @@ angagaLannAgi  mADi  baLasalu  sAdhyavilla.  mElina  arthavannu  koDalu
 kannaDadalli  maNNina  koDa  embudAgi  hELabEku;  endare,  maNNigU 
 koDakkU naDuviruva sambandhavannu tiLisuvudara mUlaka A viSiShTavAda 
 vastuvannu gurutisabEku. 
+
+<a id="sec-3-5"></a>
 
 ### 3.5 bhAShegaLa naDuvina vayvidhya
 
@@ -2799,6 +2825,8 @@ vAgi illavE guNapadavAgi baLasalu sAdhyavide.
 bhAShAkuTumbakke  sEruva  bhAShe  intahadu  (jAsti  vivaragaLige  bhaT 
 1994 nODi). 
 
+<a id="sec-3-6"></a>
+
 ### 3.6 bEre padavagragaLu
 
 nAmapada,  kriyApada  mattu  guNapadagaLu  kannaDadalli  baLakeyalliruva 
@@ -2821,6 +2849,8 @@ baruvavugaLu  mattu  kriyApadakke  viSEShaNavAgi  baruvavu  embudAgi
 eraDu  vidhadavugaLive.  ivugaLalli  eraDaneya  upavagrakke  sEruva 
 padagaLannu samskxtadalli (nAmapada vagradallE baruva) avyayagaLendu 
 kareyalAguttade. 
+
+<a id="sec-3-7"></a>
 
 ### 3.7 tatsama mattu tadbhava padagaLu
 
@@ -2877,6 +2907,8 @@ vibhajaneya  nakalu  mAtra.  adarinda  kannaDa  vyAkaraNa  niyamagaLannu
 racisuvalli  yAva  prayOjanavU  sigalAradu  (jAsti  vivaragaLige  bhaT 
 2005:88 nODi). (<pabru)  modalAduvannu
 
+<a id="sec-3-8"></a>
+
 ### 3.8 tiruLu
 
 
@@ -2906,6 +2938,8 @@ adhyAyadalli nODiruvevu.
 
 ## 4. padagaLa oLaracane
 
+
+<a id="sec-4-1"></a>
 
 ### 4.1 munnOTa
 
@@ -2961,6 +2995,8 @@ guNapadagaLu  nAmapadagaLa  vagradalli  sEruva  kAraNa,  nAmapadagaLa
 hAge  avannU  samAsavemba  vidhAnadinda  sAdhisalu  sAdhya.  Adare 
 kannaDadalli  avu  bEreyE  ondu  padavagradalli  sEruvuvAda  kAraNa 
 idu sAdhyavilla.  
+
+<a id="sub-4-1-1"></a>
 
 #### 4.1.1 hesarisuvudu mattu varNisuvudu
 
@@ -3082,6 +3118,8 @@ gaLannu  tayArisuvalli  idakkinta  tIra  bhinnavAgiruva  vAkyaracaneya
 vidhAnavannu baLasalAgide. 
 
 
+<a id="sub-4-1-2"></a>
+
 #### 4.1.2 jODupadagaLu mattu padakantegaLu
 
 kannaDadalli jODupadagaLu hesarisuva vidhAnadinda  mattu padakantegaLu 
@@ -3153,6 +3191,8 @@ dilla.  angagaLAgi  baruva  padagaLalli  koneyadannu  biTTu  uLidavu
 
 gaLondige  baruva  vibhakti  pratyayagaLannu  lOpagoLisi  baLasidAgalella 
 samskxtadalli jODupada siddhisuttade.  
+
+<a id="sec-4-2"></a>
 
 ### 4.2 kxt mattu taddhita pratyayagaLu
 
@@ -3316,6 +3356,8 @@ sErisabEkAguttade. taddhitAnta emba vagradalli sErisalu kelavE kelavu
 padagaLu  mAtra  uLiyuttave.  kannaDada  nAmapadagaLannu  vibhajisalu 
 bEreyE  AdhAravannu  baLasuvudu  oLLeyadennuvudakke  idU  ondu 
 
+<a id="sec-4-3"></a>
+
 ### 4.3 padada modalu mattu anantara baruva pratyayagaLu
 
 kannaDadalli  baruva  pratyayagaLellavU  padada  anantara  baruvavugaLu 
@@ -3349,6 +3391,8 @@ ibbaru  embantaha  kelavu  padagaLu  eraDu  pratyayagaLa  sErikeyinda
     sAmAnyavAgi  pratyayagaLannu  padagaLige  illavE  dhAtugaLige  sErisi 
 hosa  padagaLannu  tayArisuttEvallade  eraDu  pratyayagaLannu  mAtravE 
 ondaroDanondannu sErisi padagaLannu tayArisuva kramavilla. 
+
+<a id="sec-4-4"></a>
 
 ### 4.4 nAmapadagaLa racane
 
@@ -3402,6 +3446,8 @@ viShayadalli  tIrA  bhinnavAgide.  sAdhita  nAmapadagaLannu  mattu  avugaLa
 arthavannu  arthakOSagaLalli  koDabEkAgiruvudu  idE  kAraNakkAgi. 
 udAharaNegAgi  kannaDada  padaracaneyalli  baLakeyAguva  ike-ige 
 pratyayada svarUpavEnembudannu pariSIlisabahudu. 
+
+<a id="sec-4-5"></a>
 
 ### 4.5 ike-ige pratyaya
 
@@ -3601,6 +3647,8 @@ sErisi  kriyApadagaLinda  mAtravallade  guNapadagaLinda  mattu  itara
 nAmapadagaLindalU  tayArisalu  sAdhyavide  (hosa-hosatu,  jANa-
 jANme, okkalu-okkaliga, mUgu-mUguti). 
 
+<a id="sec-4-6"></a>
+
 ### 4.6 kriyApadagaLa racane
 
 kannaDada  nAmapadagaLa  hAge  kriyApadagaLannU  oLaracaneyiruvavugaLu 
@@ -3677,6 +3725,8 @@ sahAyadindalEnE tiLidukoLLalu sAdhyavide. hAgAgi ivannU jODu
 pada(samAsa)gaLendu  kareyade  ‘kUDupada’gaLemba  bEreyE  ondu 
 rItiya racanegaLendu parigaNisuvudu uttama. 
 
+<a id="sec-4-7"></a>
+
 ### 4.7 guNapadagaLa racane
 
 kriyApadagaLa  baLakeya  hAge  guNapadagaLa  baLakeyallU  hesarisuvudu 
@@ -3730,6 +3780,8 @@ pratyayagaLiruva  samskxta  padagaLu  kannaDadalli  guNapadagaLAgi  baLake
 yAguvudE jAsti. I niyamakkU rasika, mAntrika, vaydika, tAkrika 
 modalAda kelavu apavAdagaLive. sAmAnyavAgi kannaDadalli gaLu
 
+<a id="sec-4-8"></a>
+
 ### 4.8 tiruLu
 
 padagaLa  oLaracaneyalli  samskxtakkinta  kannaDa  halavu  viShayagaLalli  bhinna 
@@ -3754,6 +3806,8 @@ oLaracane emba nanna pustakavannu (bhaT 2002) nODabahudu.
 
 ## 5. samAsagaLu
 
+
+<a id="sec-5-1"></a>
 
 ### 5.1 munnOTa
 
@@ -3789,6 +3843,8 @@ hAge adu bhinnavAgiralu kAraNavEnu embudannu keLagina  vibhAgagaLalli
 svalpa  vivaravAgi  pariSIlisalAguvudu.  Adare  adakke  modalu  samAsa 
 vendarEnu, adakkU padakantegU naDuviruva vyatyAsagaLentahavu embu 
 dannu tiLidukoLLuvudu avaSya. 
+
+<a id="sec-5-2"></a>
 
 ### 5.2 jODupadagaLu mattu padakantegaLu
 
@@ -3883,6 +3939,8 @@ sAdhyavU  Agadu.  yAkendare,  ondu  bhASheyalliruva  jODupadagaLa
 sankhye cikkadu. Adare padakantegaLa sankhye bahaLa doDDadu. adu ananta 
 endE hELalU sAdhyavide. 
 
+<a id="sec-5-3"></a>
+
 ### 5.3 samskxta mattu kannaDa bhAShegaLa naDuvina vyatyAsa
 
 
@@ -3893,6 +3951,8 @@ samAsagaLannU  kannaDadalli  kANalu  naDesida  kannaDa  vayyAkaraNigaLa
 prayatna halavu rItiya gondalagaLige eDemADide.  
     samskxta  mattu  kannaDa  bhAShegaLa  naDuviruva  I  vyatyAsagaLalli 
 mukhyavAda kelavannu keLage vivarisalAgide.  
+
+<a id="sub-5-3-1"></a>
 
 #### 5.3.1 samskxtada jODupadagaLu
 
@@ -3961,6 +4021,8 @@ mattu guNapada, eNikeya pada illavE kxdantagaLAgiveyAdare yAva
 pratyayavU sErade hAgeyE baruttave.   
     samskxta mattu kannaDa bhAShegaLa naDuviruva I mukhyavAda vyatyAsa 
 vannu keLage (5.2.2-5)nE vibhAgagaLalli vivarisalAgide. 
+
+<a id="sub-5-3-2"></a>
 
 #### 5.3.2 padakantegaLalli guNapadagaLa baLake
 
@@ -4031,6 +4093,8 @@ arthada badalAvaNe naDedillavAdare adannu kannaDadalli padakanteyendE
 parigaNisabEkallade  jODupadavendu  parigaNisalu  yAva  AdhAravU 
 iruvudilla.  
 
+<a id="sub-5-3-3"></a>
+
 #### 5.3.3 kxdantagaLa baLake
 
 kxdantagaLannu nAmapadakantegaLalli baLasabEkiddarU samskxtadalli avakke 
@@ -4078,6 +4142,8 @@ koDalu sAdhyavide.
 ga)gaLallU vibhakti pratyayavilladeyE bandiruva kAraNa, kannaDadalli satta 
 hAvu  embudannu  jODupada  embudAgi  parigaNisalu  yAva 
 AdhAravU siguvudilla. 
+
+<a id="sub-5-3-4"></a>
 
 #### 5.3.4 nirdESaka padagaLa baLake
 
@@ -4142,6 +4208,8 @@ vibhakti pratyayavannu sErisalu sAdhyavAgadu.
 ondu  vAkyavAguttadallade  padakanteyAguvudilla.  hAgAgi  A  huDuga 
 embudannu avanu huDuga embudarinda sAdhisuvudU sariyalla. 
 
+<a id="sub-5-3-5"></a>
+
 #### 5.3.5 dvitIyA vibhaktiya baLake
 
 kannaDa  vAkyagaLalli  kANisuva  innondu  vaySiShTyavEnendare,  aprANi 
@@ -4167,7 +4235,9 @@ viSiShTavAgiruva  samAsavondakke  udAharaNegaLAguttaveyendu  vAdisi
 racaneyalli  (endare  vibhakti  pratyayagaLa  baLakeyalli)  kANisuva  ondu 
 vyatyAsa mAtra (8.4 nODi). illi hosa padada racaneyAgilla.   
 
-#### 5.3.5 nAmapadagaLa baLake
+<a id="sub-5-3-6"></a>
+
+#### 5.3.6 nAmapadagaLa baLake
 
 kannaDadalli  eraDu  nAmapadagaLannu  ondu  padakanteya  angagaLannAgi 
 mADi  baLasabEkAgideyAdare  averaDannu  sambandhisalu  modalaneyada 
@@ -4213,6 +4283,8 @@ svalpavAdarU  samAnateyideyAdare  adu  illi  mAtra.  Adare  nijakkU
 kannaDadalli ShaShThI vibhaktiyumbudu ondu vibhakti pratyayavalla embudannu 
 munde (8.5.5)ralli nODaliruvevu. 
 
+<a id="sub-5-3-7"></a>
+
 #### 5.3.7 padagaLa sankhye
 
 samskxtadalli  eShTu  padagaLannu  bEkiddarU  oTTige  sErisi  jODupada 
@@ -4228,6 +4300,8 @@ bhASheyAgiddudE idakke kAraNavirabEku.
 kkinta  jAsti  angagaLiruva  padagaLu  bahaLa  kaDime.  heccinavugaLallU 
 eraDu  padagaLu  mAtra  oTTu  sEriruttave.  I  kAraNakkAgi  kannaDadalli 
 ‘samastapada’gaLannu  ‘jODupada’  emba  hesarininda  kareyuvudu  sari 
+
+<a id="sub-5-3-8"></a>
 
 #### 5.3.8 jODupadagaLa artha
 
@@ -4248,6 +4322,8 @@ jODupadakkU naDuve samskxtadalli arthada maTTige yAva vyatyAsavU
     kannaDadalli  mEle  (5.3.1)ralli  sUcisida  hAge  heccineDegaLallU 
 arthavyatyAsa  mUDibandillavAdare  eraDu  padagaLu  oTTige  sEriruva 
 sandabhragaLalli samAsa naDedideyundu hELalu sAdhyavAgadu.  
+
+<a id="sec-5-4"></a>
 
 ### 5.4 samskxta samAsagaLa vibhajane
 
@@ -4315,6 +4391,8 @@ modalaneya angavAgiruva tri ‘mUru’ embudu eNikeya padavAgide.
 hAgAgi,  adannu  tayArisuvalli  dvigu  samAsada  baLakeyAgideyendu 
 hELabahudu. 
 
+<a id="sec-5-5"></a>
+
 ### 5.5 kannaDa jODupadagaLa oLaracane
 
 mEle  (5.1ralli)  sUcisida  hAge,  samskxtada  Aru  samAsagaLU 
@@ -4337,6 +4415,8 @@ sUcisida  hAge  mUru  mukhya  vibhAgagaLalli  vingaDisalu  sAdhyavide
     (1) nAmapadaviruvavu:  bayalATa, nelagaDale, kaymagga  
     (2) kriyApadaviruvu: kaDegOlu, siDimaddu, tUgudIpa  
     (3) guNapadaviruvavu: doDDamma, kiruberaLu, kaggallu 
+
+<a id="sub-5-5-1"></a>
 
 #### 5.5.1 nAmapadaviruva jODupadagaLu
 
@@ -4423,6 +4503,8 @@ angavAgi  bandiruva  padavannu  ShaShThI  vibhaktiyallirisuvudara  mUlaka
 sAdhisalu  sAdhyavideyembudannu  gamanisabahudu  (kAlina  maNe, 
 jEnina huLa, kayya koDali, tappina kANike, kaNNina nIru). 
 
+<a id="sub-5-5-2"></a>
+
 #### 5.5.2 kriyApadaviruva jODupadagaLu
 
 kriyApadaviruva  jODupadagaLalli  modalaneya  angavAgi  ondu 
@@ -4452,6 +4534,8 @@ intaha  jODupadagaLannu  vibhajisalu  sAdhyavide.  udAharaNegAgi,  I
 kriyApadagaLu sUcisuva ghaTane halavu bAri naDeyuvantahadirabahudu 
 (surimaLe,  bIsugallu)  illavE  omme  mAtra  naDeyuvantahadira 
 bahudu (biccugatti, hurigaDale).  
+
+<a id="sub-5-5-3"></a>
 
 #### 5.5.3 guNapadaviruva jODupadagaLu
 
@@ -4535,6 +4619,8 @@ ttade. Adare, naDuberaLu embudu kayyalliruva beraLugaLa naDuviruva
 sambandhavannu  sUcisuvudara  mUlaka  avugaLalli  ondu  beraLannu 
 gurutisuttade. 
 
+<a id="sub-5-5-4"></a>
+
 #### 5.5.4 kelavu apavAdagaLu
 
 kannaDada jODupadagaLalli heccinavugaLallU eraDaneya angavAgi ondu 
@@ -4566,6 +4652,8 @@ vAgiruttave.  hAgAgi,  mEle  vivarisiruva  vibhajanegaLige  apavAdagaLannu
 kanDuhiDiyuvudEnU  kaShTavalla.  endare,  I  vibhajanegaLu  bhASheya 
 ondu ‘olava’nnu sUcisuttiveyallade takrabaddhavAda niyamavannalla. 
 
+<a id="sec-5-6"></a>
+
 ### 5.6 samskxtada samAsagaLu kannaDadalliveyE?
 
 hosagannaDadalli  baruva  jODupadagaLannu  kannaDaddE  Ada  vyAkaraNada 
@@ -4588,6 +4676,8 @@ mattu  gamakasamAsa  emba  innU  eraDu  samAsagaLannu  baLasuvudara
 mUlaka  kannaDa  samAsagaLannu  varNisalu  sAdhya  embudu  avara 
 abhiprAya.  I  abhiprAya  sariyE  embudannu  illi  pariSIlisuvudu 
 avaSya.  
+
+<a id="sub-5-6-1"></a>
 
 #### 5.6.1 vibhajaneya AdhAra
 
@@ -4712,6 +4802,8 @@ viShayagaLu  samskxtadalli  AdhAravAgaballa  viShayagaLiginta  tIrA  bhinna
 vAgiruvuvAda  kAraNa,  jODupadagaLa  (samAsagaLa)  vibhajaneyannu 
 samskxtadinda kannaDakke hAgeyE tandu aLavaDisalu sAdhyavAgadu. 
 
+<a id="sub-5-6-2"></a>
+
 #### 5.6.2 oLanuDigaLa baLake
 
 jODupadagaLa  oLaracane  entahadu  embudannu  mattu  avugaLa 
@@ -4764,6 +4856,8 @@ kannaDakke  eravalAgi  banda  jODupadagaLigU
 kannaDadalli koDabEkAguva oLanuDi samskxtadalli koDuva oLanuDiginta 
 bhinnavAgiralu sAdhya embudannu munde (5.9ralli) nODaliruvevu. 
 
+<a id="sec-5-7"></a>
+
 ### 5.7 kannaDa vayyAkaraNigaLu hELuva samAsagaLu
 
 samskxta  jODupadagaLa  vibhajaneyannu  kannaDakke  hAgeyE  aLavaDisalu 
@@ -4788,6 +4882,8 @@ ive embudannu, mattu avugaLiginta bhinnavAda hAgU kannaDadavE Ada
 kannaDadalliveyundu 
 kriyAsamAsa 
 sAdhisuvudu hEge asAdhya embudannu keLage vivarisalAgide. gamakasamAsagaLembavu mattu
+
+<a id="sub-5-7-1"></a>
 
 #### 5.7.1 tatpuruSha
 
@@ -4819,6 +4915,8 @@ itara  hesarugaLinda  kareyuva  jODupada  illave  padakantegaLallU
 eraDaneya padavE pradhAna padavAgiruttade. 
     hAgAgi,  kannaDada  maTTige  tatpuruSha  samAsa  embudu  ondu 
 anavaSyakavAda kalpane.  
+
+<a id="sub-5-7-2"></a>
 
 #### 5.7.2 karmadhAraya
 
@@ -4872,6 +4970,8 @@ sAdhyavide.  Adare  kannaDadalli  kxdantagaLu  nAmapadagaLalla;  avu
 guNapadagaLa  jAgadalli  (endare  nAmapadagaLa  viSEShaNagaLAgi)  baLake 
 yAgaballa kriyArUpagaLu mAtra. 
 
+<a id="sub-5-7-3"></a>
+
 #### 5.7.3 dvigu
 
 tatpuruSha  samAsakke  sErida  jODupadagaLalli  modalaneya  angavAgi 
@@ -4899,6 +4999,8 @@ guNapadaviruva jODupadagaLa vibhAgadalli sErisuvudE oLLeyadu.
 asamAna)  vibhaktiyalliruvavugaLendu  hELalu  sAdhyavillavAda  kAraNa 
 (avu  yAva  vibhaktiyallU  illavAda  kAraNa)  avannu  tatpuruShadalli 
 sErisuvudu kannaDada maTTigantU kaShTasAdhya. 
+
+<a id="sub-5-7-4"></a>
 
 #### 5.7.4 avyayIbhAva
 
@@ -4969,6 +5071,8 @@ naDuviruva  sambandhavannu  sUcisadiruvantaha  cikkamma,  doDDappa
 modalAda  jODupadagaLallU  intahadE  racane  kANisuttade  (5.5.3 
 nODi). 
 
+<a id="sub-5-7-5"></a>
+
 #### 5.7.5 dvandva
 
 dvandva  samAsakke  kannaDadalli  koTTiruva  udAharaNegaLella  padakante 
@@ -4984,6 +5088,8 @@ yAgideyE  athavA  illavE  emba  viShayada  AdhArada  mEle
 varNisalu  illavE  vibhajisalu  sAdhyavillavembudannu  nAvu  mEle 
 (5.3)ralli  nODiruvevu.  hAgAgi,  dvandvavemba  samAsa  kannaDadalli 
 illavendu hELuvudE oLLeyadu. 
+
+<a id="sub-5-7-6"></a>
 
 #### 5.7.6 bahuvrIhi
 
@@ -5074,6 +5180,8 @@ avaSyakateyide.
 padakke  i  pratyayavannu  sErisuvudara  mUlaka  calavAdi  padavannu 
 tayArisalAgideyundu hELabEkAguttade. 
 
+<a id="sub-5-7-7"></a>
+
 #### 5.7.7 kriyAsamAsa
 
 kannaDadalli  samskxtadallillada  kriyAsamAsavemba  hosadondu  rItiya 
@@ -5093,6 +5201,8 @@ cuccumaddu,  suLigALi,  bIsugallu  modalAda  kannaDakke  viSiShTa
 jODupadagaLannE  kriyAsamAsakke  udAharaNegaLannAgi 
 vAgiruva 
 koDuvudu oLLeyadu (5.5.2 nODi).  
+
+<a id="sub-5-7-8"></a>
 
 #### 5.7.8 gamaka samAsa
 
@@ -5115,6 +5225,8 @@ padakantegaLendu  hELabEkallade  jODupadagaLendu  hesarisuvudakke
 kannaDadalli yAva AdhAravU illa (sEDiyApu kxShNabhaTTa 1992:269 
 nODi). 
 
+<a id="sec-5-8"></a>
+
 ### 5.8 samskxtadinda eravalAgi banda jODupadagaLu
 
 kannaDakke  samskxtadinda  halavAru  padagaLu  eravalAgi  bandiddu 
@@ -5124,6 +5236,8 @@ vidhAnavannE  kannaDa  vyAkaraNadallU  baLasalu  sAdhyavE?  endare,
 samskxtadinda  eravalAgi  bandiruva  I  jODupadagaLalli  samskxtada 
 nAlku (illavE Aru) samAsagaLannu kANalu sAdhyavE embudannu illi 
 pariSIlisuva avaSyakateyide. 
+
+<a id="sub-5-8-1"></a>
 
 #### 5.8.1 jODupadagaLa oLanuDigaLu
 
@@ -5157,6 +5271,8 @@ sAdhisalu
 AdhAraviddarU  A  padadondige  antaha  AdhAra  kannaDakke  eravalAgi 
 bAradiralu  sAdhyavide.  idu  nAvu  varNisuttiruva  kannaDada  bEre  bEre 
 prabhEdagaLalli bEre bEreyAgiralU sAdhyavide. samskxtadalli  avakke  oLaracaneyannu
+
+<a id="sub-5-8-2"></a>
 
 #### 5.8.2 vibhajane
 
@@ -5223,6 +5339,8 @@ viSEShaNavannAgi  mADi  hELalu  sAdhyavAguttade,  Adare  nAmaviSEShaNa
 mUlavAgiruva  jODupadagaLige  antaha  oLanuDiyannu  hELalu 
 sAdhyavAguvudilla.  
 
+<a id="sec-5-9"></a>
+
 ### 5.9 tiruLu
 
 
@@ -5259,6 +5377,8 @@ padagaLigU I vibhajane anvayisuttade.
 
 ## 6. linga mattu vacanagaLu
 
+
+<a id="sec-6-1"></a>
 
 ### 6.1 munnOTa
 
@@ -5316,7 +5436,11 @@ ADuga  mattu  kELugarannu  sUcisuva  ‘puruShapada’  emba  bEreyE
 ondu  padavagrakke sEruva  padagaLige sambandhisida hAge  I tatva baLake 
 yallide (10.2.1 nODi).  
 
+<a id="sec-6-2"></a>
+
 ### 6.2 lingabhEdagaLu
+
+<a id="sub-6-2-1"></a>
 
 #### 6.2.1 ‘linga’ padada baLake
 
@@ -5339,6 +5463,8 @@ hAgeyE prakxtirUpadallU baLasalu sAdhyavide.
 prakxti’ (illavE ‘prAtipadika’) embudAgi eraDu pAribhAShika padagaLannu 
 baLasuva  avaSyakateyU  illa,  mattu  I  kAraNakkAgi  mEle  koTTiruva 
 modalaneya arthadalli ‘linga’ padavannu baLasuva avaSyakateyU illa.  
+
+<a id="sub-6-2-2"></a>
 
 #### 6.2.2 kannaDadalli lingavibhajane
 
@@ -5398,7 +5524,9 @@ huDugaru bandaru
 huDugiyaru bandaru 
 ettugaLu banduvu 
 
-#### 6.3.3 samskxtada linga vibhajane
+<a id="sub-6-2-3"></a>
+
+#### 6.2.3 samskxtada linga vibhajane
 
 samskxtadalli baLakeyalliruva nAmapadagaLa linga vibhajane kannaDada linga 
 vibhajaneginta halavu viShayagaLalli bhinnavAgide.  
@@ -5514,7 +5642,9 @@ bahudu.  I  vyatyAsavannu  samskxtada  gacchAmi  kriyArUpa  illavE
 kannaDada hOguttEne kriyArUpa sUcisalAradu. (9kha) vAkyadallU 
 hIgeyE. 
 
-#### 6.3.4 bhAShegaLa naDuvina vyatyAsagaLu
+<a id="sub-6-2-4"></a>
+
+#### 6.2.4 bhAShegaLa naDuvina vyatyAsagaLu
 
 mEle sUcisida hAge, heccina bhAShegaLallU nAmapadagaLa vibhajane nija 
 jIvanada lingabhEdavannu avalambisiruttadeyAda kAraNa, adannu ‘linga 
@@ -5549,6 +5679,8 @@ vibhajisuva  krama  bhASheyinda  bhAShege  bhinnavAgiralu  sAdhya.  kannaDada
 lingavibhajaneyannu kannaDaddE Ada dxShTikOnada mUlaka pariSIlisidalli 
 mAtra adara nijavAda svarUpa namage gottAguttade. 
 
+<a id="sub-6-2-5"></a>
+
 #### 6.2.5 eNikeya padagaLalli lingabhEda
 
 kannaDada  eNikeya  padagaLu  kelavu  viShayagaLalli  nAmapadagaLa  hAge 
@@ -5565,6 +5697,8 @@ adakke sAmAnyavAgi gavravArthadalli Ekavacanada arthavE ide.
 mUru, nAlvaru-nAlku, ayvaru-aydu). uLida padagaLigU haLegannaDa 
 dalli lingarUpagaLidduvu. Adare hosagannaDadalli avugaLa baLakeyilla.   
 
+<a id="sec-6-3"></a>
+
 ### 6.3 vacanabhEdagaLu
 
 
@@ -5579,6 +5713,8 @@ ondakkinta jAsti emba artha baruttade.
 bhinnavAgide.  I  vyatyAsagaLannu  sariyAgi  tiLidukoLLade  kannaDada 
 vayyAkaraNigaLu  samskxtada  vyAkaraNa  niyamagaLannu  hAgeyE  kannaDakke 
 aLavaDisahOgi gondalakkeDemADiddAre. 
+
+<a id="sub-6-3-1"></a>
 
 #### 6.3.1 vacanagaLa sankhye
 
@@ -5621,6 +5757,8 @@ yallide. sursurunga emba innondu bhASheyalli trivacana mAtravallade
 catuvracanavU  ide.  nAmapadagaLalli  yAva  vacanabhEdavannU  tOrisa 
 diruva khmEr nantaha bhAShegaLU kelavive. 
 
+<a id="sub-6-3-2"></a>
+
 #### 6.3.2 vacana mattu vibhakti
 
 samskxtadalli vacana mattu vibhakti iveraDannU ondE pratyaya sUcisu 
@@ -5643,6 +5781,8 @@ Adare kannaDakke bEkAguvudilla embudannu munde (8.5.1)ralli nODa
 liruvevu. 
 
 
+<a id="sub-6-3-3"></a>
+
 #### 6.3.3 Ekavacanada sUcane
 
 samskxtadalli  vacana  mattu  vibhaktigaLannu  ondE  pratyaya  sUcisuva 
@@ -5662,6 +5802,8 @@ idakke  badalu,  avaru  savranAmadalli  ru  embudu  pum-strI
 (manuShya) lingadondige bahuvacanavannU sUcisuttide.  
     intaha  sandabhragaLalli  mAtra  kannaDadalli  Ekavacanavannu  sUcisuva 
 pratyayavideyundu hELalu sAdhyavide. 
+
+<a id="sub-6-3-4"></a>
 
 #### 6.3.4 vacanavannu sUcisadiruvudu
 
@@ -5702,6 +5844,8 @@ vibhaktigaLeraDannU  ondE  pratyaya  sUcisuttiruvudE  mukhya  kAraNa.
 vacanavannu sUcisuva avaSyakateyilladallU vibhaktiyannu sUcisabEkAgu 
 ttade tAne!  
 
+<a id="sec-6-4"></a>
+
 ### 6.4 tiruLu
 
 linga mattu vacanagaLemba I eraDu vyAkaraNatatvagaLa baLake bEre bEre 
@@ -5734,6 +5878,8 @@ vudu avaSya.
 
 ## 7. vibhaktigaLu mattu kArakagaLu
 
+
+<a id="sec-7-1"></a>
 
 ### 7.1 munnOTa
 
@@ -5803,6 +5949,8 @@ adhyAyadalli  kannaDakke  kAraka  illavE  antahadE  Ada  bEre  kalpitavAda
 vyAkaraNatatva yAke avaSyavilla embudannu svalpa vistAravAgi vivarisalu 
 yatnisuttEne.   
 
+<a id="sec-7-2"></a>
+
 ### 7.2 vibhaktigaLa kelasa
 
 vAkyavondaralli  sAmAnyavAgi  ondu  kriyApada  mattu  ondu  athavA 
@@ -5863,6 +6011,8 @@ naDesuvuvAda kAraNa, avu yAvuvella ive mattu vAkyagaLalli avugaLa
 baLakeyentahadu embudannu kannaDa vyAkaraNadalli vistAravAgi vivarisuva 
 avaSyakateyide.  
 
+<a id="sec-7-3"></a>
+
 ### 7.3 kArakagaLa kelasa
 
 mEleyE  sUcisiruva  hAge,  samskxta  vyAkaraNagaLalli  vibhakti  emba 
@@ -5885,6 +6035,8 @@ bEkAgide.
     samskxtadalli  I  rIti  vibhaktigaLigU  avugaLa  arthakkU  nEravAda 
 sambandhavilladiralu  halavu  kAraNagaLive.  avugaLalli  kelavannu  keLage 
 vivarisalAgide. kalpisikonDiruva modalu tAvu
+
+<a id="sub-7-3-1"></a>
 
 #### 7.3.1 ondu vibhaktige halavu arthagaLu
 
@@ -5919,6 +6071,8 @@ vAkyadalliyU  prathamA  vibhaktiyalli  baLasalu  sAdhyavAgide.  idu
 samskxtada vaySiShTya.  
     hIge  prathamA  vibhaktige  I  mUru  (3ka-ga)  vAkyagaLalli  mUru 
 bEre bEre arthagaLive.  
+
+<a id="sub-7-3-2"></a>
 
 #### 7.3.2 ondE arthakke halavu vibhaktigaLu
 
@@ -5969,6 +6123,8 @@ baLakeyannu gamanisabahudu.
 hIgiddarU, (5ka) vAkyadalli adu saptamiyalli bandide, mattu (5kha) 
 dalli dvitIyuyalli bandide.  
 
+<a id="sub-7-3-3"></a>
+
 #### 7.3.3 bEre kAraNagaLu
 
 samskxtadalli  vibhakti  pratyayagaLigU  avu  sUcisabEkAgiruva  arthakkU 
@@ -5981,6 +6137,8 @@ akSharagaLannanusarisiyU  samskxtada  vibhakti  pratyayagaLalli  kelavu  vyatyAs
 gaLu kANisikoLLuttave. (vivaragaLige 8.3 nODi). intaha vyatyAsagaLU 
 samskxtada  vibhakti  pratyayagaLannu  avugaLa  arthadondige  sambandhisuva 
 kelasa heccu kliShTavAguvante mADive.  
+
+<a id="sub-7-3-4"></a>
 
 #### 7.3.4 kArakagaLa mUlaka sambandhisuvudu
 
@@ -6065,6 +6223,8 @@ embudannu hu kriyApadada karaNavendu parigaNisuvudilla.
 adara  vayyAkaraNigaLige  vibhaktigaLannu  arthadondige  mAtravallade 
 kArakagaLondigU nEravAgi sambandhisalu sAdhyavAguvudilla. 
 
+<a id="sec-7-4"></a>
+
 ### 7.4 pAScAtya vyAkaraNagaLalli kalpita tatva
 
 kelavu pAScAtya bhAShegaLa vyAkaraNagaLalliyU intahadE vyAkaraNa tatva 
@@ -6115,6 +6275,8 @@ sambandhisalu  sAdhyavAguvudilla.  hAgAgi,  I  jAgavannu  sabjekTa  jAga
 embudAgi  karedu  anantara  bEre  niyamagaLa  mUlaka  adannu  artha 
 dondige sambandhisabEkAgide. 
 
+<a id="sec-7-5"></a>
+
 ### 7.5 kannaDakke kArakagaLu bEkAgilladiruvudu
 
 kannaDadalli  vibhakti  pratyayagaLannu  avugaLu  sUcisabEkAgiruva  artha 
@@ -6128,6 +6290,8 @@ toDagirabArademba niyamavU ide.
     idE rItiyalli ondu nAmapadavannu saptamI vibhaktiyalli baLasa 
 bEkendiddalli  adu  ondalla  ondu  rItiyalli  ghaTane  naDeyuva 
 jAgavannu sUcisuttirabEkemba niyamavide. 
+
+<a id="sub-7-5-1"></a>
 
 #### 7.5.1 eraDu rItiya sambandhagaLu
 
@@ -6217,6 +6381,8 @@ inDayrekTa  AbjekTa  modalAda  bEre  rItiya  vyAkaraNa  sambandha
 gaLannAgali  baLasikoLLuva  avaSyakateyilla  (‘bhAShAvyavahAra’da  kuritu 
 heccina vivaragaLige tirumalES 1979 nODi).  
 
+<a id="sub-7-5-2"></a>
+
 #### 7.5.2 kannaDa vAkyagaLalli sabjekTa emba tatva
 
 avaSyavillada kalpita vyAkaraNa tatvagaLannu baLasuvudarinda kannaDa vyAkaraNa 
@@ -6299,6 +6465,8 @@ vAkyabhEda kannaDadalli aShTondu mahatvavAdudallavAda kAraNa, sabjekTa
 tatvavannu  kannaDakke  aLavaDisalu  sAdhyavAguvudilla.  I  samasyeyannu 
 keLagina (7.5.3)nE vibhAgadalli vivarisalAgide.  
 
+<a id="sub-7-5-3"></a>
+
 #### 7.5.3 eraDu vyavasthegaLu
 
 sakarmaka-akarmaka  vyatyAsakke  mahatvavannu  koDuva  bhAShegaLallU 
@@ -6380,6 +6548,8 @@ kelavara  abhiprAya.  Adare,  bEre  kelavara  abhiprAyadante  I  eraDu
 rItiya  vyavasthegaLallU  sakarmaka  vAkyada  ‘ni’  nAmapadavannE  sabjekTa 
 embudAgi parigaNisabEku (jAsti vivaragaLige Diksan 1994 nODi).   
 
+<a id="sub-7-5-4"></a>
+
 #### 7.5.4 kannaDada vaySiShTya
 
 kannaDada  maTTige  hELuvudAdare,  adara  vAkyagaLu  I  eraDu  vyavasthe 
@@ -6418,6 +6588,8 @@ yAgi ArisikoLLuva avaSyakateyide.
 sakarmaka-akarmaka  vibhajaneya  AdhArada  mEle  nintiruva  sabjekTa 
 emba  vyAkaraNatatvavannu  kannaDakke  anvayisalu  sAdhyavillavendE  hELa 
 bEkAguttade. nijakkU adu kannaDakke avaSyavU illa. 
+
+<a id="sub-7-5-5"></a>
 
 #### 7.5.5 eraDu rItiya vyAkaraNa kAryagaLu
 
@@ -6531,6 +6703,8 @@ vyAkaraNa  sambandhagaLa  (sabjekTa,  AbjekTa  modalAdavugaLa  illavE
 kartx, karma modalAda kArakagaLa) avaSyakateyilla (jAsti vivaragaLige 
 bhaT 1991 nODi).  
 
+<a id="sec-7-6"></a>
+
 ### 7.6 tiruLu
 
 kannaDada  vyAkaraNagaLalli  vibhakti  mattu  kAraka  emba  eraDu  vyAkaraNa 
@@ -6564,6 +6738,8 @@ koLLalu prayatnisidalli halavu samasyegaLannu edurisabEkAguttade.
 ## 8. vibhaktigaLu
 
 
+<a id="sec-8-1"></a>
+
 ### 8.1 munnOTa
 
 kannaDa mattu samskxta bhAShegaLa naDuve vibhaktigaLa baLakeyalli kANisuva 
@@ -6584,6 +6760,8 @@ sAdhya embudannu mundina adhyAyadalli vivarisalAgide.
 vAguttade. samskxta vyAkaraNagaLalli kANisuva vibhakti pratyayagaLa vyavasthe 
 yannu hAgeyE kannaDa vyAkaraNadalli tandirisuva kannaDa vayyAkaraNigaLa 
 prayatna saphalavAgalu sAdhyavE illa. 
+
+<a id="sec-8-2"></a>
 
 ### 8.2 vibhaktigaLa hesaru
 
@@ -6696,6 +6874,8 @@ pancamI  modalAda)  vibhaktigaLige  samanAda  vibhaktigaLU  kannaDadallive
 yendu  hELuttArAdarU  nijakkU  kannaDadalli  adakke  AdhAravillavembu 
 dannu munde nODaliruvevu.  
 
+<a id="sec-8-3"></a>
+
 ### 8.3 vibhakti, linga mattu vacana
 
 hinde Araneya adhyAyadalli vivarisida hAge, kannaDadalli baruva vibhakti 
@@ -6799,6 +6979,8 @@ dalli  kelavu  vyatyAsagaLu  kANisikoLLuttave.  udAharaNegAgi,  caturthI
 pratyayakkiruva  ige,  ge  mattu  kke  rUpagaLu  mukhyavAgi  nAmapadada 
 svarUpavannavalambisive.  Adare,  samskxtakke  hOlisidevAdare  kannaDadalli 
 kANisuva I vyatyAsagaLu atyalpavendE hELabahudu.  
+
+<a id="sec-8-4"></a>
 
 ### 8.4 pratyayagaLa avaSyakate
 
@@ -6936,6 +7118,8 @@ mukhya kAraNa. vibhaktiyannu  sUcisabEkAgilladallU  vacanavannu sUcisa
 bEkAguttadeyAda kAraNa, vibhakti  pratyayavannu avaSyavilladallU baLasa 
 bEkAguttade. 
 
+<a id="sec-8-5"></a>
+
 ### 8.5 pratyayagaLa sankhye
 
 kannaDa mattu samskxta bhAShegaLa naDuve vibhakti pratyayagaLa sankhyeyallU 
@@ -7016,6 +7200,8 @@ naDuve vibhaktigaLa arthadalli mattu baLakegaLalli kANisuva vyatyAsagaLannu
 pariSIlisuvudara  mUlaka  avugaLa  sankhyeyallU  vyatyAsa  hEge  kANisi 
 koLLuttade embudannu I keLage vivarisalAgide. 
 
+<a id="sub-8-5-1"></a>
+
 #### 8.5.1 prathamA vibhakti
 
 samskxtadalliruva  hAge  kannaDadalli  prathamA  vibhaktiyembudilla.  idakke 
@@ -7062,6 +7248,8 @@ villade  bandiruva  nAmapadagaLannu  itara  padagaLinda  (udAharaNegAgi,
 
 innondu  nAmapadakanteya  angavAgi  bandiruva  padagaLinda)  bEre 
 mADalu I ukAra prayOjanakke baruttade. 
+
+<a id="sub-8-5-2"></a>
 
 #### 8.5.2 dvitIyA vibhakti
 
@@ -7140,6 +7328,8 @@ ondu  niScitavAda  arthaviddu,  adu  ghaTaneyondaralli  svEccheyinda
 toDagadiruva  mattu  innobba  vyaktiya  kAryadindAgi  toDagiruva 
 vyakti,  vastu  modalAdavugaLannu  sUcisuttade.  idE  arthadalli  adannu 
 mEle (8.2)ralli ‘Aguga’ illavE ‘bAdhita’ embudAgi hesarisalAgide. 
+
+<a id="sub-8-5-3"></a>
 
 #### 8.5.3 txtIyA mattu pancamI vibhaktigaLu
 
@@ -7232,6 +7422,8 @@ txtIyA vibhaktiyendu karediddAre.
 koTTiruva  hAge,  kannaDadalli  karaNArthakke  saptamiyannu  baLasuvudE 
 jAsti (8.5.6 nODi). 
 
+<a id="sub-8-5-4"></a>
+
 #### 8.5.4 caturthI vibhakti
 
 samskxtadalli  calaneya  guri  illavE  uddESakke  sambandhisida  hAge 
@@ -7265,6 +7457,8 @@ txtIyA vibhaktiyondige sEri saptamI vibhaktiya viruddhavU nilluttade.
 calaneya  artha  baruttade,  saptamiya  baLakeyalli  baruvudilla.  Adare, 
 samskxtadalli  calaneya  artha  caturthI  vibhaktiyalli  mAtravallade 
 saptamI vibhaktiyallU baraballudu (27ga nODi). 
+
+<a id="sub-8-5-5"></a>
 
 #### 8.5.5 ShaShThI vibhakti
 
@@ -7400,6 +7594,8 @@ adakkinta  mEliruva  vAkyaracaneya  staradalli  baLakeyAguttave.  hAgAgi,
 kannaDada  ShaShThI  pratyayavannu  itara  ‘vibhakti’  pratyayagaLondige  ondE 
 gumpinalli irisi hELuvudu sariyalla. 
 
+<a id="sub-8-5-6"></a>
+
 #### 8.5.6 saptamI vibhakti
 
 saptamI  vibhakti  pratyaya  samskxta  mattu  kannaDagaLeraDarallU  baLake 
@@ -7474,6 +7670,8 @@ embudannu  gamanadallirisikonDu  kannaDada  vibhaktigaLannu  nEravAgi
 pariSIlisidalli  mAtra  kannaDa  vibhaktigaLa  nijavAda  svarUpa  entahadu 
 emba viShaya spaShTavAdItu.  
 
+<a id="sec-8-6"></a>
+
 ### 8.6 tiruLu
 
 kannaDa  mattu  samskxta  bhAShegaLa  naDuve  vibhakti  pratyayagaLa  sankhye, 
@@ -7509,6 +7707,8 @@ sUcisuvudilla.
 
 ## 9. vibhaktipallaTa
 
+
+<a id="sec-9-1"></a>
 
 ### 9.1 munnOTa
 
@@ -7547,6 +7747,8 @@ badalAgade  uLiyuvudilla.  samskxtadallU  I  eraDu  rItiya  vibhakti
 pallaTagaLannu kANabahudu. Adare mEle sUcisida hAge, samskxtada I 
 vibhaktipallaTavannu  kannaDada  hAge  arthavyatyAsadondige  heccineDegaLallU 
 hondisikoLLalu sAdhyavAgadu. 
+
+<a id="sec-9-2"></a>
 
 ### 9.2 kriyApadadalli badalAvaNeyAgade vibhaktipallaTa
 
@@ -7588,6 +7790,8 @@ intaha  ‘vibhaktipallaTagaLu’  arthavillada  badalAvaNegaLalla.  avugaLalli
 mukhyavAgi  ‘samagrate’,  ‘svEcche’  mattu  ‘sAnnidhya’  embudAgi  mUru 
 rItiya  arthavyatyAsagaLannu  kANalu  sAdhya  (jAsti  vivaragaLige  bhaT 
 1978, 2004 nODi). 
+
+<a id="sub-9-2-1"></a>
 
 #### 9.2.1 samagrate
 
@@ -7693,6 +7897,8 @@ padagaLu sUcisuva ghaTaneyu nAmapadavu sUcisuva vastuvannu samagra
 vAgi  bAdhisuttadeyumbudu  kannaDa  vAkyaracaneya  ondu  sAmAnya 
 niyama. 
 
+<a id="sub-9-2-2"></a>
+
 #### 9.2.2 svEcchApravxtti
 
 nAmapadavondannu  prakxti  (prathamA)  rUpadalli  baLasuva  badalu 
@@ -7735,6 +7941,8 @@ hattisidaLemba  arthavU  (13kha)  vAkyadinda  naLini  Atanannu  marakke
 hattuvante prErEpisidaLemba arthavU siguttade. huDuganu svEccheyinda 
 marakke hattidanemba artha eraDaneya vAkyadalli mAtra siguttade. 
 
+<a id="sub-9-2-3"></a>
+
 #### 9.2.3 sAnnidhya
 
 bayyu  kriyApadadondige  baygaLannu  tinnuva  vyaktiyannu  gurutisuva 
@@ -7768,6 +7976,8 @@ baralu  A  vibhaktige  ondu  anubhavavannu  paDeyuva  vyaktiyannu
 sUcisuva  arthaviruvudE  mukhya  kAraNa.  obbana  sammukhadalli  baydare 
 mAtravE Atanige A baygaLina anubhavavAgaballudu tAnE! 
 
+<a id="sub-9-2-4"></a>
+
 #### 9.2.4 bEre arthagaLu
 
 mEle sUcisida ArthabhEdagaLannu mAtravallade bEreyU kelavu artha 
@@ -7787,6 +7997,8 @@ saptamI vibhaktiya baLakeyAdAga antaha calaneya artha barabEkAgilla.
     mEle  (17ka)  vAkyavu  cenDu  nIrige  hOgi  biddideyembudannU 
 mattu  (17kha)  vAkyavu  adu  nIrinalli  biddukonDideyembudannU 
 tiLisuttiddu modalaneyadaralli mAtra calaneya artha kANisuttade. 
+
+<a id="sec-9-3"></a>
 
 ### 9.3 samskxtadalli vibhaktipallaTa
 
@@ -7857,7 +8069,9 @@ nODi).
 kannaDada baLakegaLannu vibhaktipallaTavendu kareyuvudakkU naDuve vyatyAsa 
 videyumbudannu illi gamanisuvudu avaSya. 
 
-### 9.3 kriyApadadalli badalAvaNe
+<a id="sec-9-4"></a>
+
+### 9.4 kriyApadadalli badalAvaNe
 
 kriyApadadalli badalAvaNegaLannu mADuvudara mUlaka adu sUcisuva 
 ghaTaneyalli  baLakeyAguva  vyakti,  vastu  modalAdavugaLa  sankhyeyannu 
@@ -7960,7 +8174,9 @@ intaha halavu rItiya vibhaktipallaTagaLu  kANisikoLLuttave. ivugaLalli
 kelavannu  upasagrada  arthadondige  sambandhisalu  sAdhyavideyEnO 
 nija; Adare heccineDegaLallU idu kaShTasAdhya.  
 
-### 9.4 tiruLu
+<a id="sec-9-5"></a>
+
+### 9.5 tiruLu
 
 samskxtada  hAge  kannaDadallU  vAkyadalli  baruva  nAmapadagaLondige 
 ondu vibhaktiya badalu innondu vibhaktiyannu baLasuva sAdhyateyide. 
@@ -7990,6 +8206,8 @@ vyatyAsavannu kannaDada vayyAkaraNigaLu gamanisidantilla.
 ## 10. savranAmagaLu mattu eNikeya padagaLu
 
 
+<a id="sec-10-1"></a>
+
 ### 10.1 munnOTa
 
 kannaDadalli  nAmapada  mattu  kriyApadagaLembudAgi  eraDu  mukhya  pada 
@@ -8009,6 +8227,8 @@ eraDu  mukhya  gumpugaLalli  baruttiddu,  avu  nAmapadagaLinda  halavu
 viShayagaLalli bhinnavAgive. eNikeya padagaLU kelavu viShayagaLalli nAma 
 padagaLa hAgilla. 
 
+<a id="sec-10-2"></a>
+
 ### 10.2 savranAmagaLu
 
 heccina kannaDa vyAkaraNagaLallU eraDu rItiya padagaLannu oTTAgi ‘savra 
@@ -8025,6 +8245,8 @@ innondu rItiyavugaLu.
     I  eraDu  rItiya  savranAmagaLa  naDuve  halavu  vyatyAsagaLiddu, 
 nijakkU  ivannella  ‘savranAma’  emba  ondE  padavagradalli  sErisi 
 hELuvudu svalpa kaShTa. 
+
+<a id="sub-10-2-1"></a>
 
 #### 10.2.1 puruShapadagaLu mattu savrapadagaLu
 
@@ -8097,6 +8319,8 @@ mattu  avanu,  avaLu,  adu,  ivanu,  Ike,  yAru,  eShTu,  elli,
 yAvAga  modalAduvannu  adakkinta  tIra  bhinnavAda  ‘savrapada’gaLemba 
 padavagradalli irisi hELuvudE kannaDa (mattu itara halavu bhAShegaLa) 
 vyAkaraNagaLa maTTige yOgyavAda vidhAna.  
+
+<a id="sub-10-2-2"></a>
 
 #### 10.2.2 savrapadagaLa svarUpa
 
@@ -8186,6 +8410,8 @@ modalAduvannU,  akAradavu  avaniginta
 mattu 
 ukAradavu iveraDara naDuvinavannU sUcisuttidduvendu tOruttade. dUradavannU
 
+<a id="sub-10-2-3"></a>
+
 #### 10.2.3 samskxtada savranAmagaLu
 
 samskxtadalliyU  kannaDada  hAge  ADuga  mattu  kELugarannu  biTTu 
@@ -8257,6 +8483,8 @@ daralli  samskxtada  maTTige  tondareyEnU  illa.  idu  kannaDa  mattu
 samskxta  bhAShegaLa  naDuve  savranAmagaLa  maTTigiruva  innondu 
 mukhyavAda vyatyAsa embudannu gamanisabahudu. 
 
+<a id="sub-10-2-4"></a>
+
 #### 10.2.4 samskxtada ‘savrAdi’ padagaLu
 
 samskxta  vyAkaraNagaLalli  savra,  viSva,  Eka,  tad,  Etad,  idam,  kim, 
@@ -8301,6 +8529,8 @@ uLiduvakke I rIti viSiShTavAda vibhakti rUpagaLilla. hAgAgi, samskxtada
 savranAmagaLa  hAge  kannaDada  ellA  savranAmagaLannU  oTTige  ondu 
 vagradalli  sErisi  hELalu  antaha  vibhakti  rUpada  AdhAravU  siguvu 
 
+<a id="sec-10-3"></a>
+
 ### 10.3 eNikeya padagaLu
 
 kannaDada  eNikeya  padagaLu  halavu  viShayagaLalli  samskxtada  eNikeya 
@@ -8315,6 +8545,8 @@ baLakeyAguttave.  hAgAgi  avannu  bEreyE  padavagradalli  irisuva
 avaSyakateyide.   
     idallade,  oLaracaneyallU  kannaDada  eNikeya  padagaLu  samskxtada 
 eNikeya padagaLiginta kelavu viShayagaLalli bhinnavAgive. 
+
+<a id="sub-10-3-1"></a>
 
 #### 10.3.1 baLakeyalli vyatyAsa
 
@@ -8391,6 +8623,8 @@ baLasalu sAdhyavide.
 ondannu  eNikeya  pada  iveraDU  dvitIyA  vibhakti  pratyayadondige 
 nAmapadada  (phalam  embudara  illavE  haNNannu  embudara)  jAgadalli 
 baLakeyAgiruvudannu kANabahudu.  
+
+<a id="sub-10-3-2"></a>
 
 #### 10.3.2 oLaracaneyalli vyatyAsa
 
@@ -8478,6 +8712,8 @@ avE  sankhyegaLigU  naDuve  intaha  vyatyAsagaLilla.  kannaDada  mUvatta
 nAlku  embudaralli  34  embudaralliruva  hAge  3  (mUvatta) 
 modalu bandide mattu 4 (nAlku) anantara bandide. 
 
+<a id="sec-10-4"></a>
+
 ### 10.4 tiruLu
 
 kannaDadalli ADuga (uttama) mattu kELuga (madhyama) puruShada nAnu, 
@@ -8500,6 +8736,8 @@ baruvuvAdarU bEre kelavu viShayagaLalli guNapadagaLa hAge baruttave.
 
 ## 11. kriyArUpagaLu
 
+
+<a id="sec-11-1"></a>
 
 ### 11.1 munnOTa
 
@@ -8567,6 +8805,8 @@ vayyAkaraNigaLu varNisuttAre.
     illU avaru samskxtada vyAkaraNa niyamagaLannu kannaDakke horisa 
 hOgi kannaDada vyAkaraNa anavaSyakavAgi kliShTavAguva hAge mADiddAre.  
 
+<a id="sec-11-2"></a>
+
 ### 11.2 kAlasambandha mattu kAlavyavasthe
 
 kriyArUpagaLa  mUlaka  kAlabhEdavannu  sUcisuvalli  kannaDa  mattu 
@@ -8578,6 +8818,8 @@ Adare samskxtada kriyArUpagaLalli mugida (pUrNa) mattu mugiyada
 (apUrNa) ghaTane embantaha ‘kAla vyavastheya’ bhEda kANisuttade.  
     I  viShayadalli  kannaDa  ingliSh  bhASheya  hAgideyAdare  samskxta 
 adakkinta tIrA bhinnavAgide.   
+
+<a id="sub-11-2-1"></a>
 
 #### 11.2.1 kannaDada kAlasambandha
 
@@ -8646,6 +8888,8 @@ embantaha  nirantarArthada  kriyArUpavannu  baLasalAguttade.  I  kriyA
 rUpada  mUlaka  ghaTaneya  kAlavannu  mAtravallade  kAla  vyavastheyannU 
 (adu  nirantaravAdudu  embudAgi)  sUcisalAguttade  (jAsti  vivara 
 gaLige bhaT 2004 nODi).  
+
+<a id="sub-11-2-2"></a>
 
 #### 11.2.2 samskxtada kAlavyavasthe
 
@@ -8754,6 +8998,8 @@ kAraNagaLindAgi  mEle  sUcisida  kriyApadagaLa  kAlavyavasthe  kAvyagaLa
 kAlada  samskxtadalli  aShTondu  spaShTavAgi  gOcarisuvudilla  (bhaT 
 2000:100 nODi). 
 
+<a id="sub-11-2-3"></a>
+
 #### 11.2.3 kAlarUpagaLalli vyatyAsa
 
 kriyApadagaLigiruva  kAlarUpagaLa  oLaracaneyallU  kannaDa  mattu 
@@ -8830,6 +9076,8 @@ konda,  sAyu-satta,  hogu-hokka,  ityAdi)  mundina  kAlada
 kriyArUpagaLa  varNane  ginta  hindina  kAlada  kriyArUpagaLa  varNane 
 kannaDadalli  svalpa  kliShTa  vAdudu.  AdarU  samskxtada  kriyArUpagaLige 
 hOlisidevAdare I kliShTate atyalpavendE hELabahudu. pratyayadalli sUcisuva kAlavannu
+
+<a id="sub-11-2-4"></a>
 
 #### 11.2.4 ghaTanegaLa naDuvina kAlabhEda
 
@@ -8919,6 +9167,8 @@ accukaTTu  kANisuttade.  samskxta  vyAkaraNada  andhAnukaraNa  mADiruva
 kannaDa  vayyAkaraNigaLige  I  accukaTTannu  spaShTavAgi  vivarisi  hELalu 
 sAdhyavAgalilla (jAsti vivaragaLige bhaT 2005 nODi). 
 
+<a id="sec-11-3"></a>
+
 ### 11.3 AkhyAta pratyayagaLu
 
 samskxta  kriyApadada  pUrNa  rUpagaLalli  baLakeyAguva  AkhyAta 
@@ -8997,6 +9247,8 @@ bhEdavannu sUcisuva kelasavannu AkhyAta pratyayagaLa naDuvina vyatyAsada
 mEle horisuva avaSyakateyilla. avannu nEravAgi kAlapratyayagaLAda 
 utta mattu da pratyayagaLa mEleyE horisabahudu.   
 
+<a id="sec-11-4"></a>
+
 ### 11.4 parasmaypada mattu AtmanEpada
 
 samskxtada kriyArUpagaLalli parasmaypada mattu AtmanEpada embudAgi 
@@ -9035,6 +9287,8 @@ emba  artha  I  (5kha)  vAkyakkide;  Adare  (5ka)  vAkyakke  antaha  artha
 badalu  kriyApadadondige  koLLu  embudannu  baLasuvudara  mUlaka 
 sUcisalAguttade  embudannu  mEle  (5kha)  vAkyada  keLage  koTTiruva 
 kannaDa vAkyadalli kANabahudu. 
+
+<a id="sec-11-5"></a>
 
 ### 11.5 karmaNi prayOga
 
@@ -9112,6 +9366,8 @@ sAdhyavide.
 
 cOr pakaD liyE gayE 
 ‘kaLLarannu hiDiyalAyitu’ 
+
+<a id="sec-11-6"></a>
 
 ### 11.6 allagaLeyuva vAkyagaLu
 
@@ -9228,6 +9484,8 @@ arthavannu  sUcisuvalli  kANisuva  vyatyAsavEnendare  kannaDadalli  I
 arthavannu  ondu  kriyArUpa  sUcisuttade;  Adare,  samskxtadalli 
 adannu ondu upasagra illavE avyaya sUcisuttade. 
 
+<a id="sec-11-7"></a>
+
 ### 11.7 kELuva vAkyagaLu
 
 kELuva  (praSnArthaka)  vAkyagaLa  racaneyallU  kannaDa  mattu  samskxta 
@@ -9316,6 +9574,8 @@ davugaLa baLakeyalli intaha artha vyatyAsaviruva hAge kANisuvudilla.
 bahuSaH  modalige  antaha  vyatyAsaviddu  anantara  A  bhASheyalli  adu 
 naShTavAgiralu sAdhyavide. 
 
+<a id="sec-11-8"></a>
+
 ### 11.8 tiruLu
 
 kriyArUpagaLa oLaracaneyalli mattu baLakeyalli kannaDa mattu samskxta 
@@ -9362,6 +9622,8 @@ mAtra kannaDada I kriyArUpagaLannu vivarisalu sAdhya.
 
 ## 12. muktAya
 
+
+<a id="sec-12-1"></a>
 
 ### 12.1 vyatyAsagaLa mUla
 
@@ -9423,6 +9685,8 @@ maTTige  samskxta  illavE  ingliSh  vyAkaraNa  parampareyallEnE  tayA
 rAgiddu  avU  kannaDada  vyAkaraNagaLa  hAgeyE  asamaprakagaLAgive. 
 hAgAgi, kannaDakke adaradE Ada vyAkaraNa parampareyondannu tayArisi 
 koLLuvudondE namage uLidiruva dAri. 
+
+<a id="sec-12-2"></a>
 
 ### 12.2 hosa dxShTikOna
 
@@ -9489,6 +9753,8 @@ daSranavannu  mADabEkAgiruvudu  eraDaneya  sandabhra.  I  eraDu
 sandabhragaLalli bEre bEre rItiya samasyegaLELuvuvAda kAraNa avannu 
 bEre bEreyAgi pariSIlisuvudu avaSya. 
 
+<a id="sec-12-3"></a>
+
 ### 12.3 SAlA vyAkaraNagaLu
 
 kannaDada  maTTige  hELuvudAdare,  ivattu  SAlegaLalli  kalisuvudakkAgi 
@@ -9532,6 +9798,8 @@ kAraka  rUpagaLiveyendu  hELalAgide.  Adare  illU  kannaDadalliruvudu
 padakantegaLallade  padarUpagaLalla.  intaha  bEreyU  kelavu  kannaDakke 
 hondikeyAgada  viShayagaLu  I  vyAkaraNadalliddu  ivannu  tegedu 
 hAkuva illavE badalAyisuva avaSyakateyide. 
+
+<a id="sec-12-4"></a>
 
 ### 12.4 kAlEjugaLalli bOdhane mattu samSOdhane
 
