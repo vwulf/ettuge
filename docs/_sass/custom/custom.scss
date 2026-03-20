@@ -26,3 +26,21 @@
 .site-footer {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
 }
+
+// Kannada script — Noto Sans Kannada for correct nukta (U+0CBC ಼) rendering
+// Georgia and system fonts do not include nukta-modified Kannada clusters
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Kannada:wght@400;600&display=swap');
+
+.main-content {
+  font-family: "Noto Sans Kannada", Georgia, "Noto Serif", "Times New Roman", serif;
+}
+
+// Kannada Unicode block — force Noto Sans Kannada for any Kannada codepoints
+// even within mixed-script runs (e.g. Eke romanisation with Kannada parentheticals)
+.main-content p,
+.main-content li,
+.main-content td,
+.main-content h1, .main-content h2, .main-content h3,
+.main-content h4, .main-content h5, .main-content h6 {
+  font-family: "Noto Sans Kannada", Georgia, "Noto Serif", serif;
+}

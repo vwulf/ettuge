@@ -97,7 +97,22 @@ marks standardised to curly single quotes `'word'` (U+2018/U+2019). This book us
 
 ---
 
-## Step 4 — Copy skills globally
+## Step 4a — Sync docs/ from src/
+
+The `docs/dnsbhat/` directory is what GitHub Pages serves. All canonical edits go to
+`src/main/md/kannada/dnsbhat/`. After any OCR cleanup, kn.md edits, or phase work,
+run the sync script to push changes to docs/ while preserving Jekyll navigation front matter:
+
+```bash
+python3 /Users/vishwas/code/ettuge/.claude/skills/ettuge-sync/scripts/sync_docs.py
+```
+
+This preserves `title`, `parent`, `nav_order`, `layout` from the existing docs/ front matter
+and replaces all content with the src/ version.
+
+---
+
+## Step 4b — Copy skills globally
 
 ```bash
 cp -r /Users/vishwas/code/ettuge/.claude/skills /Users/vishwas/.claude/
