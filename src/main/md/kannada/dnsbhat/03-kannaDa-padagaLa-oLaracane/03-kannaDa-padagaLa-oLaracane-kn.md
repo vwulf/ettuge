@@ -8,6 +8,9 @@ redirect_from:
 **ಲೇಖಕರು:** ಡಿ. ಎನ್. ಶಂಕರ ಭಟ್
 **ಮೂಲ:** PDF (Sarvam Vision OCR) — OCR ಶುದ್ಧೀಕೃತ ಪ್ರತಿ
 
+> [← ಸೂಚಿ](./README) | ಇಂಗ್ಲಿಶ್ ವಿಶ್ಲೇಷಣೆ: [03-kannaDa-padagaLa-oLaracane-en](./03-kannaDa-padagaLa-oLaracane-en) | Eke: [03-kannaDa-padagaLa-oLaracane-kn-eke](./03-kannaDa-padagaLa-oLaracane-kn-eke)
+
+
 
 
 ## ಒಳಪಿಡಿ
@@ -137,10 +140,12 @@ redirect_from:
 
 <a id="adhyAya-1"></a>
 
-[English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-1--introduction) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#pITike)
+[English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-1--introduction) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#adhyAya-1)
 
 
 <a id="sec-1-1"></a>
+
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-1-1)
 
 ## ೧.೧ ಒಳರಚನೆ
 
@@ -232,6 +237,8 @@ redirect_from:
 
 
 <a id="sec-1-2"></a>
+
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-1-2)
 
 ## ೧.೨ ಒಳರಚನೆ ಮತ್ತು ಚರಿತ್ರೆ
 
@@ -351,6 +358,8 @@ redirect_from:
 
 <a id="sec-1-3"></a>
 
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-1-3)
+
 ## ೧.೩ ಪದಗಳು ಮತ್ತು ಪದರೂಪಗಳು
 
 ಸೊಲ್ಲುಗಳನ್ನು ಪದಗಳಾಗಿ ಒಡೆಯಬಲ್ಲೆವಾದ ಕಾರಣ ಅವನ್ನು ಸೊಲ್ಲುಗಳ
@@ -433,6 +442,8 @@ redirect_from:
 
 
 <a id="sec-1-4"></a>
+
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-1-4)
 
 ## ೧.೪ ಪದಗಳು ಮತ್ತು ಒಟ್ಟುಗಳು
 
@@ -547,6 +558,8 @@ redirect_from:
 
 
 <a id="sec-1-5"></a>
+
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-1-5)
 
 ## ೧.೫ ಪದದೊಟ್ಟುಗಳು ಮತ್ತು ಪದರಪದೊಟ್ಟುಗಳು
 
@@ -826,6 +839,8 @@ redirect_from:
 
 <a id="sec-1-6"></a>
 
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-1-6)
+
 ## ೧.೬ ಬಳಕೆಗೆ ಬರುವ ಒಟ್ಟುಗಳು
 
 ಪದಗಳ ಒಳರಚನೆ ಪದರೂಪಗಳ ಒಳರಚನೆಯಷ್ಟು
@@ -891,6 +906,8 @@ redirect_from:
 
 <a id="sec-1-2"></a>
 
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-1-2)
+
 ## ೧.೨ ಹೆಸರುಪದಗಳು ಮತ್ತು ಬೇರೆ ಪದಗಳು
 
 ಪದಗಳ ಹುರುಳನ್ನು ತಿಳಿದುಕೊಳ್ಳುವಲ್ಲಿ ಒಳರಚನೆಯ ಪಾತ್ರವೆಂತಹದು ಎಂಬ
@@ -935,6 +952,8 @@ redirect_from:
 
 
 <a id="sec-1-9"></a>
+
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-1-9)
 
 ## ೧.೯ ಪುಸ್ತಕದ ಸ್ವರೂಪ
 
@@ -997,10 +1016,12 @@ redirect_from:
 
 <a id="adhyAya-2"></a>
 
-[English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-2--word-classes-in-kannada) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#pada-gumpugaLu)
+[English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-2--word-classes-in-kannada) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#adhyAya-2)
 
 
 <a id="sec-2-1"></a>
+
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-2-1)
 
 ## ೨.೧ ಮುನ್ನೋಟ
 
@@ -1092,6 +1113,8 @@ redirect_from:
 
 
 <a id="sec-2-2"></a>
+
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-2-2)
 
 ## ೨.೨ ಪದಗುಂಪುಗಳಲ್ಲಿ ವ್ಯತ್ಯಾಸಗಳು
 
@@ -1327,6 +1350,8 @@ redirect_from:
 
 
 <a id="sec-2-3"></a>
+
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-2-3)
 
 ## ೨.೩ ಪರಿಚೆಧರ್ಮಗಳಲ್ಲಿ ವ್ಯತ್ಯಾಸ
 
@@ -1840,6 +1865,8 @@ redirect_from:
 
 <a id="sec-2-4"></a>
 
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-2-4)
+
 ## ೨.೪ ಪದವರ್ಗಗಳ ಸದಸ್ಯತ್ವ
 
 ಹೆಸರುಪದ, 'ಸಕಪದ ಮತ್ತು ಪರಿಚೆಪದಗಳೆಂಬ ಮೂರು ಮುಖ್ಯ ಪದವರ್ಗ
@@ -1899,6 +1926,8 @@ redirect_from:
 
 <a id="sec-2-5"></a>
 
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-2-5)
+
 ## ೨.೫ ಸಾರಾಂಶ
 
 ಕನ್ನಡದಲ್ಲಿ ಮುಖ್ಯವಾಗಿ ಮೂರು ವರ್ಗಗಳಿಗೆ ಸೇರುವ ಪದಗಳಿವೆ. ಇವನ್ನು
@@ -1957,10 +1986,12 @@ redirect_from:
 
 <a id="adhyAya-3"></a>
 
-[English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-3--internal-structure-of-nouns) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#hesaru-padagaLa-oLaracane)
+[English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-3--internal-structure-of-nouns) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#adhyAya-3)
 
 
 <a id="sec-3-1"></a>
+
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-3-1)
 
 ## ೩.೧ ಹೆಸರಿಸುವುದು ಮತ್ತು ವರ್ಣಿಸುವುದು
 
@@ -2117,6 +2148,8 @@ redirect_from:
 
 <a id="sec-3-2"></a>
 
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-3-2)
+
 ## ೩.೨ ಜೋಡುಪದಗಳು ಮತ್ತು ನಾಮಪದಗುಚ್ಛಗಳು
 
 ಹೆಸರಿಸುವ ವಿಧಾನ ಮತ್ತು ವರ್ಣಿಸುವ ವಿಧಾನಗಳ ನಡುವಿನ ಮುಖ್ಯ
@@ -2266,6 +2299,8 @@ redirect_from:
 
 
 <a id="sec-3-3"></a>
+
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-3-3)
 
 ## ೩.೩ ವ್ಯತ್ಯಾಸಗಳು
 
@@ -2845,6 +2880,8 @@ redirect_from:
 
 <a id="sec-3-4"></a>
 
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-3-4)
+
 ## ೩.೪ ವಿಭಜನೆಯ ಕೆಲವು ಸಮಸ್ಯೆಗಳು
 
 ಕನ್ನಡದಲ್ಲಿ ನಾಮಪದಗಳ ಒಳರಚನೆಯಂತಹದು ಎಂಬುದನ್ನು ನಿರ್ಧರಿಸಲು
@@ -2920,6 +2957,8 @@ redirect_from:
 
 
 <a id="sec-3-5"></a>
+
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-3-5)
 
 ## ೩.೫ ಹೆಸರಿಸುವ ನಾಮಪದಗಳಲ್ಲಿ ವೈವಿಧ್ಯ
 
@@ -3007,6 +3046,8 @@ redirect_from:
 
 
 <a id="sec-3-6"></a>
+
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-3-6)
 
 ## ೩.೬ ರೂಢನಾಮಗಳು ಮತ್ತು ಅಂಕಿತನಾಮಗಳು
 
@@ -3231,6 +3272,8 @@ redirect_from:
 
 <a id="sec-3-7"></a>
 
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-3-7)
+
 ## ೩.೭ ಸಾರಾಂಶ
 
 ನಾಮಪದ ಇಲ್ಲವೇ ನಾಮಪದಗುಚ್ಛಗಳನ್ನು ಪ್ರಾಮುಖ್ಯವಾಗಿ ವ್ಯಕ್ತಿ, ವಸ್ತು,
@@ -3273,13 +3316,15 @@ redirect_from:
 
 <a id="adhyAya-4"></a>
 
-[English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-4--nouns-with-suffixes) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#prattayaviruva-hesaru-padagaLu)
+[English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-4--nouns-with-suffixes) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#adhyAya-4)
 
 ## ಅಧ್ಯಾಯ ನಾಲ್ಕು
 ಪ್ರತ್ಯಯವಿರುವ ನಾಮಪದಗಳು
 
 
 <a id="sec-4-1"></a>
+
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-4-1)
 
 ## ೪.೧ ಪೀಠಿಕೆ
 
@@ -3409,6 +3454,8 @@ redirect_from:
 
 <a id="sec-4-2"></a>
 
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-4-2)
+
 ## ೪.೨ ಪ್ರತ್ಯಯಗಳ ಸ್ವರೂಪ
 
 ಪದಗಳ ಒಳರಚನೆಯಲ್ಲಿ ಬಳಕೆಯಾಗುವ ಪದಪ್ರತ್ಯಯಗಳಲ್ಲಿ ಹೆಚ್ಚಿನವೂ
@@ -3483,6 +3530,8 @@ redirect_from:
 
 
 <a id="sec-4-3"></a>
+
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-4-3)
 
 ## ೪.೩ ಕ್ರಿಯಾಪದಗಳಿಂದ ತಯಾರಾದ ನಾಮಪದಗಳು
 
@@ -4754,6 +4803,8 @@ redirect_from:
 
 <a id="sec-4-4"></a>
 
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-4-4)
+
 ## ೪.೪ ನಾಮಪದಗಳಿಂದ ತಯಾರಾದ ನಾಮಪದಗಳು
 
 ಕನ್ನಡದಲ್ಲಿ ನಾಮಪದಗಳನ್ನು ಬೇರೆ ನಾಮಪದಗಳಿಗೆ ಯಾವುದಾದರೊಂದು
@@ -4994,6 +5045,8 @@ redirect_from:
 
 
 <a id="sec-4-5"></a>
+
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-4-5)
 
 ## ೪.೫ ಗುಣಪದಗಳಿಂದ ತಯಾರಾದ ನಾಮಪದಗಳು
 
@@ -5310,13 +5363,15 @@ redirect_from:
 
 <a id="adhyAya-5"></a>
 
-[English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-5--compound-nouns) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#jODupadagaLu)
+[English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-5--compound-nouns) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#adhyAya-5)
 
 ಅಧ್ಯಾಯ ಐದು
 ಜೋಡುಪದಗಳು
 
 
 <a id="sec-5-1"></a>
+
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-5-1)
 
 ## ೫.೧ ಗೊಂದಲವನ್ನು ಹೋಗಲಾಡಿಸುವುದು
 
@@ -5379,6 +5434,8 @@ redirect_from:
 
 
 <a id="sec-5-2"></a>
+
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-5-2)
 
 ## ೫.೨ ಜೋಡುಪದಗಳು ಮತ್ತು ಪದಗುಚ್ಛಗಳು
 
@@ -5539,6 +5596,8 @@ redirect_from:
 
 <a id="sec-5-3"></a>
 
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-5-3)
+
 ## ೫.೩ ಜೋಡುಪದಗಳು ಮತ್ತು ಪ್ರತ್ಯಯವಿರುವ ಪದಗಳು
 
 ಜೋಡುಪದ ಮತ್ತು ಪ್ರತ್ಯಯವಿರುವ ಪದಗಳ ನಡುವಿರುವ ವ್ಯತ್ಯಾಸವೂ ಕೆಲವು
@@ -5623,6 +5682,8 @@ redirect_from:
 
 
 <a id="sec-5-4"></a>
+
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-5-4)
 
 ## ೫.೪ ಜೋಡುಪದಗಳ ಗುಣಧರ್ಮಗಳು
 
@@ -5718,6 +5779,8 @@ redirect_from:
 
 
 <a id="sec-5-5"></a>
+
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-5-5)
 
 ## ೫.೫ ಜೋಡುಪದಗಳ ಒಳರಚನೆ
 
@@ -6707,6 +6770,8 @@ redirect_from:
 
 <a id="sec-5-7"></a>
 
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-5-7)
+
 ## ೫.೭ ಸೇರಿಕೆಯ ನಿಯಮಗಳು
 
 ಜೋಡುಪದಗಳಲ್ಲಿ ಎರಡು ಪದಗಳು ಒಟ್ಟು ಸೇರಿ ಒಂದೇ ಪದವಾಗುವುವಾದ
@@ -6961,6 +7026,8 @@ redirect_from:
 
 
 <a id="sec-5-8"></a>
+
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-5-8)
 
 ## ೫.೮ ಕನ್ನಡ ವ್ಯಾಕರಣಗಳಲ್ಲಿ ಕಾಣಿಸುವ ವಿಭಜನೆಗಳು
 
@@ -7580,6 +7647,8 @@ redirect_from:
 
 <a id="sec-5-9"></a>
 
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-5-9)
+
 ## ೫.೯ ಸಾರಾಂಶ
 
 ಎರಡು ಪದಗಳನ್ನು ಒಟ್ಟಿಗೆ ಸೇರಿಸಿ ಒಂದೇ ಪದವಾಗಿ ಮಾಡಿರುವ ನಾಮಪದ
@@ -7606,7 +7675,7 @@ redirect_from:
 
 <a id="adhyAya-6"></a>
 
-[English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-6--internal-structure-of-verbs) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#kriyA-padagaLa-oLaracane)
+[English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-6--internal-structure-of-verbs) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#adhyAya-6)
 
 ## ಅಧ್ಯಾಯ ಆರು
 ಕ್ರಿಯಾಪದಗಳ ಒಳರಚನೆ
@@ -7753,6 +7822,8 @@ redirect_from:
 
 <a id="sec-6-2"></a>
 
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-6-2)
+
 ## ೬.೨ ಒಳರಚನೆಯಿಲ್ಲದ ಕ್ರಿಯಾಪದಗಳು
 
 ಮೇಲೆ ಸೂಚಿಸಿರುವಂತೆ, ಕನ್ನಡದಲ್ಲಿ ಬಳಕೆಯಾಗುವ ಕ್ರಿಯಾಪದಗಳಿಗೆ ಒಳ
@@ -7891,6 +7962,8 @@ redirect_from:
 
 
 <a id="sec-6-3"></a>
+
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-6-3)
 
 ## ೬.೩ ಕೆಲವು ಪಳೆಯುಳಿಕೆಗಳು
 
@@ -8111,6 +8184,8 @@ redirect_from:
 
 <a id="sec-6-4"></a>
 
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-6-4)
+
 ## ೬.೪ ಇಸು ಎಂಬ ಪ್ರತ್ಯಯದ ಬಳಕೆ
 
 ಮೇಲೆ ಕೊಟ್ಟಿರುವಂತಹ ಪಳೆಯಳಿಕೆಗಳಾಗಿ ಉಳಿದಿರುವ ಪ್ರತ್ಯಯಗಳನ್ನು
@@ -8277,6 +8352,8 @@ redirect_from:
 
 
 <a id="sec-6-5"></a>
+
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-6-5)
 
 ## ೬.೫ ಕೂಡುಪದಗಳು
 
@@ -8883,13 +8960,15 @@ redirect_from:
 
 <a id="adhyAya-7"></a>
 
-[English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-7--internal-structure-of-qualifiers) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#guNa-padagaLa-oLaracane)
+[English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-7--internal-structure-of-qualifiers) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#adhyAya-7)
 
 ಅಧ್ಯಾಯ ಏಳು
 ಗುಣಪದಗಳ ಒಳರಚನೆ
 
 
 <a id="sec-7-1"></a>
+
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-7-1)
 
 ## ೭.೧ ಪೀಠಿಕೆ
 
@@ -8944,6 +9023,8 @@ redirect_from:
 
 
 <a id="sec-7-2"></a>
+
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-7-2)
 
 ## ೭.೨ ಕೆಲವು ವ್ಯತ್ಯಾಸಗಳು
 
@@ -9000,6 +9081,8 @@ redirect_from:
 
 
 <a id="sec-7-3"></a>
+
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-7-3)
 
 ## ೭.೩ ಗುಣಪದಗಳ ಸ್ವರೂಪ
 
@@ -9163,6 +9246,8 @@ redirect_from:
 
 <a id="sec-7-4"></a>
 
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-7-4)
+
 ## ೭.೪ ಪ್ರತ್ಯಯಗಳ ಬಳಕೆ
 
 
@@ -9275,6 +9360,8 @@ redirect_from:
 
 <a id="sec-7-5"></a>
 
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-7-5)
+
 ## ೭.೫ ಸಾರಾಂಶ
 
 ಗುಣಪದಗಳ ರಚನೆಯಲ್ಲೂ ಪ್ರತ್ಯಯಗಳ ಬಳಕೆ ಜಾಸ್ತಿಯಿಲ್ಲ. ನಾಮಪದ
@@ -9289,13 +9376,15 @@ redirect_from:
 
 <a id="adhyAya-8"></a>
 
-[English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-8--internal-structure-of-loanwords) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#eravalu-padagaLa-oLaracane)
+[English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-8--internal-structure-of-loanwords) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#adhyAya-8)
 
 ## ಅಧ್ಯಾಯ ಎಂಟು
 ಎರವಲು ಪದಗಳ ಒಳರಚನೆ
 
 
 <a id="sec-8-1"></a>
+
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-8-1)
 
 ## ೮.೧ ಎರಡನೆಯ ಸ್ವರೂಪ
 
@@ -9738,6 +9827,8 @@ redirect_from:
 
 
 <a id="sec-8-3"></a>
+
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-8-3)
 
 ## ೮.೩ ಸಂಸ್ಕೃತದಿಂದ ಎರವಲಾಗಿ ಬಂದ ಪದಗಳು
 
@@ -10856,6 +10947,8 @@ redirect_from:
 
 <a id="sec-8-5"></a>
 
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-8-5)
+
 ## ೮.೫ ಕ್ರಿಯಾಪದಗಳು
 
 ಮೇಲೆಯೇ ಸೂಚಿಸಿರುವಂತೆ, ಸಂಸ್ಕೃತದಿಂದ ಕ್ರಿಯಾಪದಗಳು ನೇರವಾಗಿ
@@ -11106,6 +11199,8 @@ redirect_from:
 
 <a id="sec-8-6"></a>
 
+[Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#sec-8-6)
+
 ## ೮.೬ ಜೋಡುಪದಗಳು
 
 ಕನ್ನಡಕ್ಕೆ ಸಂಸ್ಕೃತದಿಂದ ಹಲವಾರು ಜೋಡುಪದಗಳೂ ಎರವಲಾಗಿ ಬಂದಿವೆ.
@@ -11276,7 +11371,7 @@ redirect_from:
 
 <a id="adhyAya-9"></a>
 
-[English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-9--conclusion) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#muktAya)
+[English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-9--conclusion) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#adhyAya-9)
 
 ## ಅಧ್ಯಾಯ ಒಂಬತ್ತು
 ಮುಕ್ತಾಯ

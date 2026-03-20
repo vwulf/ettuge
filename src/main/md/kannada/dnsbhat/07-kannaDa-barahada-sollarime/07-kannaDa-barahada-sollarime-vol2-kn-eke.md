@@ -9,6 +9,9 @@ redirect_from:
 **lEkhakaru:** Di. en. Sankara bhaT
 **mUla:** PDF (Google Drive) — OCR SuddhIkxta prati
 
+> [← sUci](./README) | ingliS viSlEShaNe: [07-kannaDa-barahada-sollarime-vol2-en](./07-kannaDa-barahada-sollarime-vol2-en) | kannaDa: [07-kannaDa-barahada-sollarime-vol2-kn](./07-kannaDa-barahada-sollarime-vol2-kn)
+
+
 
 ## pariviDi (sampuTa ೨)
 
@@ -116,12 +119,14 @@ redirect_from:
 
 <a id="adhyAya-5"></a>
 
-[English →](./07-kannaDa-barahada-sollarime-en#chapter-5--verb-usage) | [Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#adhyAya-5)
+[English →](./07-kannaDa-barahada-sollarime-en#chapter-5--verb-usage) | [ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#adhyAya-5)
 
 ## 5. esakapadagaLa baLake
 
 
 <a id="sec-5-1"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sec-5-1)
 
 ### 5.1 munnOTa
 
@@ -151,6 +156,8 @@ kANisuttade.  antaha  neravesakapadagaLa  baLakeyannU  I  pasugeyalli
 vivarisalAgide. 
 
 <a id="sub-5-1-1"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-5-1-1)
 
 #### 5.1.1 esakapadagaLa padarUpagaLu
 
@@ -327,6 +334,8 @@ gaLilla.
 
 <a id="sub-5-1-2"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-5-1-2)
+
 #### 5.1.2 kelavu vyatyAsagaLu
 
 naDuviruva  vyatyAsagaLalli 
@@ -417,6 +426,8 @@ baLakeyAgilla.
 
 
 <a id="sub-5-1-3"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-5-1-3)
 
 #### 5.1.3 esakada hottu
 
@@ -608,6 +619,8 @@ esakagaLE embudannU illi gamanisabahudu.
 
 <a id="sub-5-1-4"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-5-1-4)
+
 #### 5.1.4 iTTaLa mattu niluvugaLu pattugeyannavalambisiruvudu
 
 kannaDada  sollugaLalli  esakada  hottina  kuritAgi  I  mUru  bageya 
@@ -692,6 +705,8 @@ bahudu,  hOgabahudittu).  hottina  iTTaLavannu  tiLisuvallantU
 idu kaDDAyavAgide.    
 
 <a id="sub-5-1-5"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-5-1-5)
 
 #### 5.1.5 jODisuva rUpagaLa baLake
 
@@ -817,6 +832,8 @@ ralli vivarisalAguttade.
 
 <a id="sub-5-1-6"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-5-1-6)
+
 #### 5.1.6 esakagaLu mattu esakapadagaLu
 
 ondu  esakada  kuritAgi  halavu  sangatigaLannu  tiLisaballevu;  Adare, 
@@ -902,6 +919,8 @@ bErpaDisikoLLabEkAguttade.
 
 <a id="sec-5-2"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sec-5-2)
+
 ### 5.2 hottina pattuge
 
 
@@ -928,6 +947,8 @@ pattugeyannu tiLisalu baruttade (bareyuvudu, baredudu).
       
 
 <a id="sub-5-2-1"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-5-2-1)
 
 #### 5.2.1 hottannu tiLisuva bagegaLu
 
@@ -1014,6 +1035,8 @@ hottina pattugeya vivaragaLannu mAtra koDalAguvudu.
  
 
 <a id="sub-5-2-2"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-5-2-2)
 
 #### 5.2.2 sollupattuge mattu esakapattuge
 
@@ -1158,6 +1181,8 @@ munde (5.2.4)ralli vivarisalAguvudu.
 
 <a id="sub-5-2-3"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-5-2-3)
+
 #### 5.2.3 mumbottina esakarUpagaLa baLake
 
 mEle  tiLisida  hAge,  esakapadagaLa  mumbottina  rUpavannu  mukyavAgi 
@@ -1286,6 +1311,8 @@ hesarurUpavannu baLasalu baruttade:
 
 <a id="sub-5-2-4"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-5-2-4)
+
 #### 5.2.4 himbottina esakarUpagaLa baLake
 
 esakapadagaLa  himbottina  rUpagaLannu  solluhottiginta  modalu 
@@ -1347,6 +1374,8 @@ ttiruva,  mattu  kUDalE  konegoLLaliruva  esakavannu  tiLisalAgide
 endU hELabahudu. 
 
 <a id="sub-5-2-5"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-5-2-5)
 
 #### 5.2.5 iru padada baLakeyalli hottina pattuge
 
@@ -1451,6 +1480,8 @@ tiLivina hottu sollina hottiginta hindinadu embudannu tiLisalAgide.
 
 <a id="sub-5-2-6"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-5-2-6)
+
 #### 5.2.6 esakahottina baLake
 
 ondu  esakada  hottannu  bErondu  esakada  hottinondige 
@@ -1512,6 +1543,8 @@ mattu  mADugagaLu  bEre  bEreyAgiveyAdarU  avannu  jODisalu
 sAdyavAgide. 
 
 <a id="sub-5-2-7"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-5-2-7)
 
 #### 5.2.7 paricerUpagaLalli  mattu  udu-hesarurUpagaLalli  hottina
 
@@ -1590,6 +1623,8 @@ hesarurUpavannu  baLakeya  esakavannu  pariceyAgi  mattu  hesarAgi
 tiLisalu baLasalAgide. iveraDU mumbottina naDurUpagaLu. 
 
 <a id="sec-5-3"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sec-5-3)
 
 ### 5.3 hottina iTTaLa
 
@@ -1766,6 +1801,8 @@ heccina vivaragaLannu mundina pasugegaLalli vivarisalAguvudu.
  
 
 <a id="sub-5-3-1"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-5-3-1)
 
 #### 5.3.1 hottina iTTaLavannu tiLisuva sikkalu rUpagaLu
 
@@ -2044,6 +2081,8 @@ vivaragaLannu keLage koDalAgide:
 
 <a id="sub-5-3-2"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-5-3-2)
+
 #### 5.3.2 konegoLLuva iTTaLa
 
 konegoLLuva iTTaLadalli iru padada heccina padarUpagaLannU baLasalu 
@@ -2283,6 +2322,8 @@ antaha sikkalu rUpa baLakeyalliruva hAge kANisuvudilla:
 
 <a id="sub-5-3-3"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-5-3-3)
+
 #### 5.3.3 toDaguva iTTaLa
 
 toDaguva  hottina  iTTaLavannu  tiLisalu,  tiruLesakapadada  mAresakada 
@@ -2417,6 +2458,8 @@ rUpakke allagaLeyuva huruLU ide embudannu gamanisabahudu.
 
 <a id="sub-5-3-4"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-5-3-4)
+
 #### 5.3.4 munduvariyuva iTTaLa
 
 tiruLesakapadada  oDanesakada  jODisuva  rUpadondige  iru  padada 
@@ -2521,6 +2564,8 @@ gaLannu keLage koDalAgide:
 (44ca)  nIvu hAge hELuttiddudannu nAnu halavu bAri kELidde. 
 
 <a id="sub-5-3-5"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-5-3-5)
 
 #### 5.3.5 iru padada baLakeyalli tiLivina hottu
 
@@ -2647,6 +2692,8 @@ esakakke  (muriyuva  esakakke)  oLagAgittu  embudannu  tiLisuvudakkAgi
 alla; (48ca-Ta) sollugaLallU hIgeyE. 
 
 <a id="sub-5-3-6"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-5-3-6)
 
 #### 5.3.6 hottina pattuge mattu hottina iTTaLa: kelavu vyatyAsagaLu
 
@@ -2792,6 +2839,8 @@ adara eraDaneya horigeyannu tAguttade endu hELalu baruttade.
 
 <a id="sec-5-4"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sec-5-4)
+
 ### 5.4 hottina iTTaLa mattu esakada iTTaLa
 
 
@@ -2836,6 +2885,8 @@ mattu  avu  hEge  sikkalu  rUpagaLu  tiLisuva  hottina  iTTaLavannu
 mArpaDisuttave embudannu keLage vivarisalAgide: 
 
 <a id="sub-5-4-1"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-5-4-1)
 
 #### 5.4.1 esaka mattu iruha
 
@@ -2960,6 +3011,8 @@ adarondige  bEkendE  embudannu  baLasiruva  (9ca)  sollu
 sariyAgilla. 
 
 <a id="sub-5-4-2"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-5-4-2)
 
 #### 5.4.2 esakapadagaLa bagegaLu
 
@@ -3249,6 +3302,8 @@ ballanu.
 
 <a id="sub-5-4-3"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-5-4-3)
+
 #### 5.4.3 esakada iTTaLagaLannu mArpaDisuvudu
 
 esakapadagaLu tiLisuva esakada iTTaLavannu avugaLondige baruva hesaru 
@@ -3361,6 +3416,8 @@ sollugaLa naDuvina vyatyAsadinda tiLiyabahudu.
  
 
 <a id="sub-5-4-4"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-5-4-4)
 
 #### 5.4.4 hottina iTTaLadalli mArpADugaLu
 
@@ -3475,6 +3532,8 @@ baralAradu.
 
 <a id="sec-5-5"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sec-5-5)
+
 ### 5.5 ADugana niluvu
 
 
@@ -3581,6 +3640,8 @@ anisikegaLannu innobbarige tiLisuvudakkAgi baLakeyAguttade.
  
 
 <a id="sub-5-5-1"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-5-5-1)
 
 #### 5.5.1 niluvina neravesakapadagaLu
 
@@ -3806,6 +3867,8 @@ naDesalAgide; mattu (18ga)dalli idakkAgi ante oTTannu baLasalAgide.
 
 <a id="sub-5-5-2"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-5-5-2)
+
 #### 5.5.2 niluvina mUru bagegaLu
 
 esakada  kuritu  ADugana  niluvEnu  embudannu  vivarisuvalli  mUru 
@@ -3859,6 +3922,8 @@ I  mUru  bageya  niluvugaLa  kuritAgi  heccina  vivaragaLannu  keLage
 koDalAgide: 
 
 <a id="sub-5-5-3"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-5-5-3)
 
 #### 5.5.3 ADugana arivu
 
@@ -4039,6 +4104,8 @@ illi gamanisabahudu.
 
 <a id="sub-5-5-4"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-5-5-4)
+
 #### 5.5.4 ADugana ottAse
 
 ondu  esakavannu 
@@ -4200,6 +4267,8 @@ yilla.
 
 <a id="sub-5-5-5"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-5-5-5)
+
 #### 5.5.5 ottAseya sikkalurUpagaLu mattu arikerUpagaLu
 
 mADu,  mADali,  mADiri  modalAda  arikerUpagaLannu  baLasiyU 
@@ -4297,6 +4366,8 @@ baruvudantU samSayavE.
 
 <a id="sub-5-5-6"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-5-5-6)
+
 #### 5.5.6 arivu mattu ottAsegaLa naDuvina vyatyAsagaLu
 
 mEle  vivarisida  hAge,  bEku  mattu  bahudu  padagaLannu  kannaDadalli 
@@ -4391,6 +4462,8 @@ mattu bahudu embudakke arivina baLake mukya endu hELabahudu.
 
 <a id="sub-5-5-7"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-5-5-7)
+
 #### 5.5.7 mADugana aLavu
 
 ondu  esakavannu  naDesuvalli  tanage  illavE  innobba  vyaktige  entaha 
@@ -4458,6 +4531,8 @@ ddAgideyendu tOruttade.
  
 
 <a id="sub-5-5-8"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-5-5-8)
 
 #### 5.5.8 hottina pattuge mattu ADugana niluvu
 
@@ -4584,6 +4659,8 @@ huruLannu koDuttade embudu spaSTavAgilla:
 (66ta)  nAvu I guDDakke hattadirabEkAgittu. 
 
 <a id="sub-5-5-9"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-5-5-9)
 
 #### 5.5.9 ADugana niluvu mattu allagaLeta
 
@@ -4944,6 +5021,8 @@ nODabahudu:  avugaLalli
 
 <a id="sub-5-5-10"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-5-5-10)
+
 #### 5.5.10 ondakkinta heccu neravesakapadagaLa baLake
 
 tiruLesakapadadondige  ondakkinta  heccu  neravesakapadagaLannU  baLasalu 
@@ -5065,6 +5144,8 @@ OduttiddirabEDavAgittu
 
 <a id="sec-5-6"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sec-5-6)
+
 ### 5.6 esakada aLavi
 
 esakarUpagaLa  mUlaka  esakagaLa  aLaviyannU  tiLisalu  baruttade; 
@@ -5099,6 +5180,8 @@ hELabahudu.
 
 <a id="sub-5-6-1"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-5-6-1)
+
 #### 5.6.1 iTTaLada aLavi
 
 esakada  iTTaLadalli  kANisikoLLuva  aLaviyannu  tiLisalu  mukyavAgi 
@@ -5131,6 +5214,8 @@ ennalu baruvudilla.
 
 <a id="sub-5-6-2"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-5-6-2)
+
 #### 5.6.2 esakada aLavi
 
 iDI  esakada  aLaviyannu  tiLisuvudakkAgiyU  kelavu  holabugaLannu 
@@ -5151,6 +5236,8 @@ I  nAlku  bageya  holabugaLu  kannaDadalli  hEge  kANisikoLLuttave
 embudannu keLage vivarisalAgide: 
 
 <a id="sub-5-6-3"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-5-6-3)
 
 #### 5.6.3 baLakeya esaka
 
@@ -5380,6 +5467,8 @@ gaLU halavu bAri naDeyuva esakagaLannu tiLisuttave.
 
 <a id="sub-5-6-4"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-5-6-4)
+
 #### 5.6.4 matte naDesida esaka
 
 kUDupadagaLa  modalaneya  angavAgi  mAr-maru  embudannu 
@@ -5393,6 +5482,8 @@ bahudu.
 (18ca)  nAnu hELidudakke Ata mArnuDiyalilla. 
 
 <a id="sub-5-6-5"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-5-6-5)
 
 #### 5.6.5 tirutirugi naDesida esaka
 
@@ -5514,6 +5605,8 @@ aLaviyannu eNikeya mUlaka tiLisalu baruttade:
 
 <a id="sub-5-6-6"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-5-6-6)
+
 #### 5.6.6 hancikeya esaka
 
 hancikeya  esakavannu  tiLisalu  kannaDadalli  esakarUpagaLa  baLakeyilla. 
@@ -5531,6 +5624,8 @@ emba  immaDi  rUpagaLu  esakada  hancikeyannu  tiLisuttave  embudannu
 gamanisabahudu. 
 
 <a id="sub-5-6-7"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-5-6-7)
 
 #### 5.6.7 tiruLu
 
@@ -5585,12 +5680,14 @@ gaLannu baLasalAguttade.
  
 <a id="adhyAya-6"></a>
 
-[English →](./07-kannaDa-barahada-sollarime-en#chapter-6--noun-phrase-structure) | [Eke →](./07-kannaDa-barahada-sollarime-vol2-kn-eke#adhyAya-6)
+[English →](./07-kannaDa-barahada-sollarime-en#chapter-6--noun-phrase-structure) | [ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#adhyAya-6)
 
 ## 6. hesarukantegaLa iTTaLa
 
 
 <a id="sec-6-1"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sec-6-1)
 
 ### 6.1 munnOTa
 
@@ -5659,6 +5756,8 @@ padagaLannu  mAtravE  baLasalAgide;  Adare,  adara  IDannu  gurutisalu
 ondu gombe emba hesarukanteyannu baLasalAgide.  
 
 <a id="sub-6-1-1"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-6-1-1)
 
 #### 6.1.1 hesarupadagaLu mattu hesarukantegaLu
 
@@ -5756,6 +5855,8 @@ samayaviruttade. hAgAgi, avu heccu udda mattu sikkalAgiddarU heccu
 tondareyAguvudilla. 
 
 <a id="sub-6-1-2"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-6-1-2)
 
 #### 6.1.2 gurutisuvikeya eraDu hantagaLu
 
@@ -5922,6 +6023,8 @@ lAgide;  kannaDadalli  entaha  hesarukantegaLannu  baLasalAguttade,  mattu
 avugaLa iTTaLaventahadu embudannu I pasugeyalli vivarisalAgide.  
 
 <a id="sec-61-3"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sec-61-3)
 
 ### 61.3 hesarukantegaLa iTTaLa
 
@@ -6122,6 +6225,8 @@ heccina vivaragaLannu tiLisuvudE I pasugeya guriyAgide.
 
 <a id="sec-6-2"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sec-6-2)
+
 ### 6.2 tiruLupadada bagegaLu
 
 
@@ -6183,6 +6288,8 @@ avannu I rIti halavu bagegaLalli gumpisalAguttade. ivugaLalli mukya
 vAda kelavu gumpisuvikegaLannu keLage vivarisalAgide: 
 
 <a id="sub-6-2-1"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-6-2-1)
 
 #### 6.2.1 koTTahesaru mattu iruvahesaru
 
@@ -6320,6 +6427,8 @@ lAgideyAda kAraNa, avu iruvahesarugaLiginta bErAgive.
 
 <a id="sub-6-2-2"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-6-2-2)
+
 #### 6.2.2 ottehesaru mattu oTTaluhesaru
 
 hesarupadagaLannu  ottehesaru  mattu  oTTaluhesaru  embudAgiyU 
@@ -6455,6 +6564,8 @@ lAguttade embudu I vyatyAsakke kAraNavirabahudu.
 
 <a id="sub-6-2-3"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-6-2-3)
+
 #### 6.2.3 mandigurta mattu uLikegurta
 
 hesarupadagaLannu  mandigurtadavu  mattu  uLikegurtadavu  embudAgi 
@@ -6502,6 +6613,8 @@ kANisuvudilla (avanu, avaLu - avaru).
 kANisuvudilla 
 
 <a id="sub-6-2-4"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-6-2-4)
 
 #### 6.2.4 hesarupadagaLa hantagaLu
 
@@ -6697,6 +6810,8 @@ pAngannu gurutisuttade.
 
 <a id="sub-6-2-5"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-6-2-5)
+
 #### 6.2.5 parijiruva mattu parijillada pAngugaLu
 
 ondanE hantada mara, kallu, nIru, hAlu modalAda hesarupadagaLu 
@@ -6784,6 +6899,8 @@ baLasalAgiddu, adakke hottina elleyannu hAkalAgide.
 
 <a id="sub-6-2-6"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-6-2-6)
+
 #### 6.2.6 eNisaballa mattu eNisalAgada padagaLu
 
 mEle  vivarisida  gumpugaLannu  aDDakke  kattarisuvante  hesarupadagaLannu 
@@ -6823,6 +6940,8 @@ mEle  tiLisida  hAge,  avugaLalli  heccinavannU  esakapada  illavE  parice
 padagaLige oTTugaLannu sErisi paDeyalAgide. 
 
 <a id="sec-6-3"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sec-6-3)
 
 ### 6.3 pAngugaLa pariceyannu tiLisuvudu
 
@@ -6926,6 +7045,8 @@ hesarupadagaLa pariceyannu tiLisuva bage hEge embudannu keLage vivarisa
 lAgide. 
 
 <a id="sub-6-3-1"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-6-3-1)
 
 #### 6.3.1 paricepadagaLa bagegaLu
 
@@ -7906,6 +8027,8 @@ naDuvina vyatyAsavannu gamanisidAga gottAguttade.
 
 <a id="sub-6-3-2"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-6-3-2)
+
 #### 6.3.2 paricepadagaLa OraNa
 
 ondu  hesarupadadondige  ondakkinta  heccu  paricepadagaLannu  baLasa 
@@ -8047,6 +8170,8 @@ paricepadagaLannu baLasiruvalli eraDaneya huruLu mAtra iruttade.
 
 <a id="sub-6-3-3"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-6-3-3)
+
 #### 6.3.3 immaDi paricepadagaLu
 
 immaDi  rUpadalliruva  paricepadagaLu  eraDu  huruLugaLalli  baLake 
@@ -8142,6 +8267,8 @@ kaDege,  naTTanaDuve,  tuttatudiyalli  illavE  tuTTatudiyalli,
 mottamodalu illavE moTTamodalu).  
 
 <a id="sub-6-3-4"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-6-3-4)
 
 #### 6.3.4 hantapadagaLu mattu hOlikeya nuDitagaLu
 
@@ -8280,6 +8407,8 @@ nODiddAne.
 (29ca) *yArU taradudaraSTu doDDa haNNannu avanu tandiddAne. 
 
 <a id="sub-6-3-5"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-6-3-5)
 
 #### 6.3.5 hesarupadagaLa pattuge rUpada baLake
 
@@ -8548,6 +8677,8 @@ baruvudilla.  idakke  badalu,  adannu  rAjuvige  (obba)  aNNaniddAne
 emba iruhada sollininda paDeyabEkAguttade.   
 
 <a id="sub-6-3-6"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-6-3-6)
 
 #### 6.3.6 esakapadagaLa paricerUpagaLa baLake
 
@@ -8846,6 +8977,8 @@ avana aNNa horage kAdiddAne.
 
 <a id="sub-6-3-7"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-6-3-7)
+
 #### 6.3.7 esakaparicegaLa pattuge rUpada baLake
 
 hesarupadagaLondige kelavu esakaparicegaLannu avugaLa pattuge rUpadalli 
@@ -8889,6 +9022,8 @@ badalAguttave embudannu munde 6.6.4ralli noDaliruvevu.
 
 <a id="sub-6-3-8"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-6-3-8)
+
 #### 6.3.8 tOrupadagaLa baLake
 
 hesarupadagaLa modalu antaha, intaha, mattu entaha emba mUru 
@@ -8923,6 +9058,8 @@ nODidde.
 
 <a id="sec-6-4"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sec-6-4)
+
 ### 6.4 pAngugaLa aLaviyannu tiLisuvudu
 
 
@@ -8954,6 +9091,8 @@ valli  baLasalAguttade;  (1)nE  holabigU  kanDitavallada  aLaviyannu
 tiLisaballa huruLide. 
 
 <a id="sub-6-4-1"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-6-4-1)
 
 #### 6.4.1 halaveNikeya oTTu
 
@@ -9134,6 +9273,8 @@ adarondige  halaveNikeya  oTTu  baLakeyAguvudilla:  alli  nUrAru
 mandi sEriddaru, nUrAru *mandigaLu sEriddaru).  
 
 <a id="sub-6-4-2"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-6-4-2)
 
 #### 6.4.2 eNikepadagaLa baLake
 
@@ -9438,6 +9579,8 @@ gaLondige baLasuva hAge tOruvudilla.
 
 <a id="sub-6-4-3"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-6-4-3)
+
 #### 6.4.3 aLatepadagaLa baLake
 
 eNikeya  padagaLannu  oTTaluhesarugaLondige  baLasabEkiddalli,  avuga 
@@ -9659,6 +9802,8 @@ ripEri embudarinda Uhisalu baruttade.
 
 <a id="sub-6-4-4"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-6-4-4)
+
 #### 6.4.4 aLavi padagaLa baLake
 
 mEle  vivarisida  hAge,  pAngugaLa  aLavi  eSTu  embudu  kanDitavAgi 
@@ -9869,6 +10014,8 @@ aydAru embudannu baLasabahudendu tOruvudilla.
 
 <a id="sub-6-4-5"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-6-4-5)
+
 #### 6.4.5 eNikepadagaLa iTTaLa
 
 eNikepadagaLalli  Aru,  ELu,  enTu  mattu  hattu  emba  nAlku 
@@ -9999,6 +10146,8 @@ baruttade:
 
 <a id="sub-6-4-6"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-6-4-6)
+
 #### 6.4.6 eNikepadagaLa jAga
 
 sAmAnyavAgi, eNikepadagaLannu hesarupadagaLa modalu baLasalAguttade; 
@@ -10099,6 +10248,8 @@ ide.  U  oTTannu  sErisiruvalli  oLagoLLuva  huruLannu  otti
 hELalAguttade, aSTe. 
 
 <a id="sub-6-4-7"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-6-4-7)
 
 #### 6.4.7 eNike padagaLa immaDirUpada baLake
 
@@ -10206,6 +10357,8 @@ holabu kannaDadallide:
 (67ca) maramaragaLallU hakkigaLu kuLitu hADuttidduvu. 
 
 <a id="sub-6-4-8"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-6-4-8)
 
 #### 6.4.8 pAngugaLa aLavi mattu parice
 
@@ -10366,6 +10519,8 @@ hOgiddevu.
 
 <a id="sub-6-4-9"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-6-4-9)
+
 #### 6.4.9 hOlikeyalli eNikepadagaLa baLake
 
 eraDu  pAngugaLannu  hOlisuvalli  aLateyannu  tiLisuva  nuDitagaLannu 
@@ -10428,6 +10583,8 @@ dalli baruttade:
 
 <a id="sub-6-4-10"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-6-4-10)
+
 #### 6.4.10 eNike padagaLu mattu paricepadagaLu
 
 eNikepadagaLu  paricepadagaLa  hAge  hesarupadagaLondige  avugaLa  neravu 
@@ -10483,6 +10640,8 @@ halavu janaru ennalu baruvudilla. halavu embudakkEnE ‘heccukaDime’
 emba huruLiruvudE idakke kAraNavirabahudu. 
 
 <a id="sec-6-5"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sec-6-5)
 
 ### 6.5 pAngugaLannu nelegoLisuvudu
 
@@ -10650,6 +10809,8 @@ yalli  nelegoLisalAgide  embudannu  tiLisuttave.  ivugaLa  baLakeya
 kuritu heccina vivaragaLannu keLage koDalAgide. 
 
 <a id="sub-6-5-1"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-6-5-1)
 
 #### 6.5.1 nelegoLisuva paricegaLu
 
@@ -11061,6 +11222,8 @@ oLasollugaLa iTTaLavannu vivarisuvalli tiLisalAguvudu.
 
 <a id="sub-6-5-2"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-6-5-2)
+
 #### 6.5.2 tiLiyaballa mattu tiLiyalAgada gurutisuvikegaLu
 
 kELuganige  IgAgalE  tiLidiruvantaha  (illavE  tAnu  baLasuva  nuDita 
@@ -11269,6 +11432,8 @@ kANabahudu: obba gaNapati maysUrige hOgiddAne.
 
 <a id="sub-6-5-3"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-6-5-3)
+
 #### 6.5.3 tiLiyaballa gurutisuvikeya bagegaLu
 
 tAnu gurutisuva pAngu tiLiyalAgaddu, illavE hosadu embudAgi 
@@ -11426,6 +11591,8 @@ idakke  badalu,  (37ca)dalli  huDugaralli  obba  embudara  mUlaka
 baLasiruva sandarbadalli manege hOdavaru halavu mandi iddirabEku. 
 
 <a id="sub-6-5-4"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-6-5-4)
 
 #### 6.5.4 tiLida mattu tiLiyada gurutisuvikegaLu
 
@@ -11623,6 +11790,8 @@ naDesaballuvu.
  
 
 <a id="sub-6-5-5"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-6-5-5)
 
 #### 6.5.5 pAngina bageyannu gurutisuvudu
 
@@ -11926,6 +12095,8 @@ sollu oLahuruLAgaballudu. yAkendare, huLi haNNU ondu haNNE.
 
 <a id="sub-6-5-6"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-6-5-6)
+
 #### 6.5.6 tOrupadagaLinda tiLiyada gurutisuvike
 
 yAru, Enu, yAvanu, yAvaLu, yAvudu, mattu eSTu emba 
@@ -12036,6 +12207,8 @@ kANabahudu:
 
 <a id="sec-6-6"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sec-6-6)
+
 ### 6.6 pAngugaLannu gurutisuva bEre bagegaLu
 
 
@@ -12048,6 +12221,8 @@ kelasagaLiddu,  pAngugaLannu  gurutisuva  kelasadalli  baLakeyAdAga  avu
 halavu bagegaLalli hesarupadagaLinda bErAgi kANisikoLLuttave. 
 
 <a id="sub-6-6-1"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-6-6-1)
 
 #### 6.6.1 ADupadagaLa baLake
 
@@ -12341,6 +12516,8 @@ nammibbarannu yArU kareyuvudilla.
  
 
 <a id="sub-6-6-2"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-6-6-2)
 
 #### 6.6.2 tOrupadagaLa baLake
 
@@ -12767,6 +12944,8 @@ embudannu gamanisabahudu.
 
 <a id="sub-6-6-3"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-6-6-3)
+
 #### 6.6.3 eNikepadagaLa baLake
 
 pAngugaLannu  gurutisuvudakkAgi  eNikepadagaLannU  baLasalu  baruttade; 
@@ -12850,6 +13029,8 @@ gaLu  oTTinondige  baruvudilla  (obba  huDuga,  ibbaru  huDugaru,
 eraDu haNNu(gaLu), *eraDugaLu haNNugaLu).  
 
 <a id="sub-6-6-4"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-6-6-4)
 
 #### 6.6.4 esakapadagaLa hesarurUpagaLa baLake
 
@@ -13017,6 +13198,8 @@ yAkendare,  I  huruLinalli  adu  emba  tOrupada  tiruLupadavAgi
 bandiruva hAge kANisuttade.  
 
 <a id="sub-6-6-5"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-6-6-5)
 
 #### 6.6.5 paricepadagaLa baLake
 
@@ -13242,6 +13425,8 @@ kAraNa,  adakke  eraDu
 
 <a id="sub-6-6-6"></a>
 
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sub-6-6-6)
+
 #### 6.6.6 esakapadagaLa baLake
 
 halavu esakapadagaLannu avugaLalli yAva mArpADannU mADade hesaru 
@@ -13278,6 +13463,8 @@ paTTimADabEkAgide. ivugaLa kuritu kelavu sangatigaLannu munde ELanE
 pasugeyalli koDalAguvudu.  
 
 <a id="sec-6-7"></a>
+
+[ಕನ್ನಡ →](./07-kannaDa-barahada-sollarime-vol2-kn#sec-6-7)
 
 ### 6.7 tiruLu
 
