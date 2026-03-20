@@ -9,10 +9,10 @@
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| [`16-nuDiyarimeya-padagaLige-kannaDaddE-padagaLu.md`](./16-nuDiyarimeya-padagaLige-kannaDaddE-padagaLu.md) | Original transcript or main collected text |
-| [`16-nuDiyarimeya-padagaLige-kannaDaddE-padagaLu-website.md`](./16-nuDiyarimeya-padagaLige-kannaDaddE-padagaLu-website.md) | Website content stub / URL record |
+| File                 | Contents |
+| ----                 | -------- |
+| `description-raw.md` | Book description blurb from dnshankarabhat.net |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 

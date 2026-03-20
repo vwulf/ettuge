@@ -9,23 +9,22 @@
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| [`18-kannaDa-nuDiya-bagege-cintane.md`](./18-kannaDa-nuDiya-bagege-cintane.md) | Website/collection stub |
-| [`18-kannaDa-nuDiya-bagege-cintane-blog.md`](./18-kannaDa-nuDiya-bagege-cintane-blog.md) | Blog posts collected from dnshankarabhat.net — 13 posts (883 lines, 206 KB) |
-| [`18-kannaDa-nuDiya-bagege-cintane-kn-eke.md`](./18-kannaDa-nuDiya-bagege-cintane-kn-eke.md) | Eke romanisation — romanises all 13 collected posts |
-| [`18-kannaDa-nuDiya-bagege-cintane-en.md`](./18-kannaDa-nuDiya-bagege-cintane-en.md) | English summaries — start here if you don't read Kannada (29 KB) |
-| [`18-kannaDa-nuDiya-bagege-cintane-claude-prompt.md`](./18-kannaDa-nuDiya-bagege-cintane-claude-prompt.md) | AI context primer: key terms, thesis, chapter map |
-| [`18-kannaDa-nuDiya-bagege-cintane-website.md`](./18-kannaDa-nuDiya-bagege-cintane-website.md) | Website content stub / URL record |
+| File                 | Contents |
+| ----                 | -------- |
+| `claude-prompt.md`   | AI context primer (all sources) |
+| `description-raw.md` | Book description blurb from dnshankarabhat.net |
+| `web/en/summary.md`  | Web / blog post — English — Summary / analysis |
+| `web/kn/raw.md`      | Web / blog post — Kannada — Raw OCR/source — do not edit |
+| `web/eke/full.md`    | Web / blog post — Eke romanisation — Structured text with TOC + cross-links |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 
 ## Where to Start
 
-- **Don't read Kannada?** → [`18-kannaDa-nuDiya-bagege-cintane-en.md`](./18-kannaDa-nuDiya-bagege-cintane-en.md) — English summaries
-- **Want the phonetics?** → [`18-kannaDa-nuDiya-bagege-cintane-kn-eke.md`](./18-kannaDa-nuDiya-bagege-cintane-kn-eke.md) — Eke romanisation
-- **AI context primer?** → [`18-kannaDa-nuDiya-bagege-cintane-claude-prompt.md`](./18-kannaDa-nuDiya-bagege-cintane-claude-prompt.md)
-- **Full Kannada text?** → [`18-kannaDa-nuDiya-bagege-cintane-blog.md`](./18-kannaDa-nuDiya-bagege-cintane-blog.md)
+- **Don't read Kannada?** → [`web/en/summary.md`](./web/en/summary.md) — English summaries
+- **Want the phonetics?** → [`web/eke/full.md`](./web/eke/full.md) — Eke romanisation
+- **AI context primer?** → [`claude-prompt.md`](./claude-prompt.md)
 
 ---
 

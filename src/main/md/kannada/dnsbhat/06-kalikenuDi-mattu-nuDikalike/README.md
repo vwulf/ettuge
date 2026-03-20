@@ -9,10 +9,10 @@
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| `06-kalikenuDi-mattu-nuDikalike.md` | YouTube transcript — 197 lines, heavily corrupted |
-| `06-kalikenuDi-mattu-nuDikalike-website.md` | Website content stub / URL record |
+| File                 | Contents |
+| ----                 | -------- |
+| `description-raw.md` | Book description blurb from dnshankarabhat.net |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 

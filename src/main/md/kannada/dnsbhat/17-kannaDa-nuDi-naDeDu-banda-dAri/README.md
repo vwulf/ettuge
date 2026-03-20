@@ -9,23 +9,24 @@
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| [`17-kannaDa-nuDi-naDeDu-banda-dAri.md`](./17-kannaDa-nuDi-naDeDu-banda-dAri.md) | Original transcript or main collected text |
-| [`17-kannaDa-nuDi-naDeDu-banda-dAri-book.md`](./17-kannaDa-nuDi-naDeDu-banda-dAri-book.md) | Raw OCR / extracted Kannada text — Sarvam OCR + WX-decoded output (22,230 lines) |
-| [`17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke.md`](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke.md) | Eke romanisation — readable without Kannada script (12 KB) |
-| [`17-kannaDa-nuDi-naDeDu-banda-dAri-en.md`](./17-kannaDa-nuDi-naDeDu-banda-dAri-en.md) | English summaries — start here if you don't read Kannada (35 KB) |
-| [`17-kannaDa-nuDi-naDeDu-banda-dAri-claude-prompt.md`](./17-kannaDa-nuDi-naDeDu-banda-dAri-claude-prompt.md) | AI context primer: key terms, thesis, chapter map |
-| [`17-kannaDa-nuDi-naDeDu-banda-dAri-website.md`](./17-kannaDa-nuDi-naDeDu-banda-dAri-website.md) | Website content stub / URL record |
+| File                 | Contents |
+| ----                 | -------- |
+| `claude-prompt.md`   | AI context primer (all sources) |
+| `description-raw.md` | Book description blurb from dnshankarabhat.net |
+| `book/en/summary.md` | Printed book (OCR/scan) — English — Summary / analysis |
+| `book/kn/full.md`    | Printed book (OCR/scan) — Kannada — Structured text with TOC + cross-links |
+| `book/kn/raw.md`     | Printed book (OCR/scan) — Kannada — Raw OCR/source — do not edit |
+| `book/eke/full.md`   | Printed book (OCR/scan) — Eke romanisation — Structured text with TOC + cross-links |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 
 ## Where to Start
 
-- **Don't read Kannada?** → [`17-kannaDa-nuDi-naDeDu-banda-dAri-en.md`](./17-kannaDa-nuDi-naDeDu-banda-dAri-en.md) — English summaries
-- **Want the phonetics?** → [`17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke.md`](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke.md) — Eke romanisation
-- **AI context primer?** → [`17-kannaDa-nuDi-naDeDu-banda-dAri-claude-prompt.md`](./17-kannaDa-nuDi-naDeDu-banda-dAri-claude-prompt.md)
-- **Full Kannada text?** → [`17-kannaDa-nuDi-naDeDu-banda-dAri-book.md`](./17-kannaDa-nuDi-naDeDu-banda-dAri-book.md)
+- **Don't read Kannada?** → [`book/en/summary.md`](./book/en/summary.md) — English summaries
+- **Want the phonetics?** → [`book/eke/full.md`](./book/eke/full.md) — Eke romanisation
+- **Full Kannada text?** → [`book/kn/full.md`](./book/kn/full.md) — structured with TOC
+- **AI context primer?** → [`claude-prompt.md`](./claude-prompt.md)
 
 ---
 

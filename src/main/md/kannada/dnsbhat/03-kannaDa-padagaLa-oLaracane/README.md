@@ -9,23 +9,24 @@
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| `03-kannaDa-padagaLa-oLaracane.md` | YouTube transcript — original collected text |
-| `03-kannaDa-padagaLa-oLaracane-book.md` | Full Sarvam Vision OCR output — 12,264 lines, 957 KB |
-| `03-kannaDa-padagaLa-oLaracane-kn-eke.md` | Eke romanisation — readable without Kannada script |
-| `03-kannaDa-padagaLa-oLaracane-en.md` | English summaries — start here if you don't read Kannada |
-| `03-kannaDa-padagaLa-oLaracane-claude-prompt.md` | AI context primer: key terms, thesis, chapter map |
-| `03-kannaDa-padagaLa-oLaracane-website.md` | Website content stub / URL record |
+| File                 | Contents |
+| ----                 | -------- |
+| `claude-prompt.md`   | AI context primer (all sources) |
+| `description-raw.md` | Book description blurb from dnshankarabhat.net |
+| `book/en/summary.md` | Printed book (OCR/scan) — English — Summary / analysis |
+| `book/kn/full.md`    | Printed book (OCR/scan) — Kannada — Structured text with TOC + cross-links |
+| `book/kn/raw.md`     | Printed book (OCR/scan) — Kannada — Raw OCR/source — do not edit |
+| `book/eke/full.md`   | Printed book (OCR/scan) — Eke romanisation — Structured text with TOC + cross-links |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 
 ## Where to Start
 
-- **Don't read Kannada?** → [`-en.md`](./03-kannaDa-padagaLa-oLaracane-en.md) — English summaries
-- **Want the phonetics?** → [`-kn-eke.md`](./03-kannaDa-padagaLa-oLaracane-kn-eke.md) — Eke romanisation
-- **Full Kannada text?** → [`-book.md`](./03-kannaDa-padagaLa-oLaracane-book.md) — complete OCR output
-- **AI context primer?** → [`-claude-prompt.md`](./03-kannaDa-padagaLa-oLaracane-claude-prompt.md)
+- **Don't read Kannada?** → [`book/en/summary.md`](./book/en/summary.md) — English summaries
+- **Want the phonetics?** → [`book/eke/full.md`](./book/eke/full.md) — Eke romanisation
+- **Full Kannada text?** → [`book/kn/full.md`](./book/kn/full.md) — structured with TOC
+- **AI context primer?** → [`claude-prompt.md`](./claude-prompt.md)
 
 ---
 

@@ -9,23 +9,24 @@
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| [`25-kannaDa-vAkyagaLa-oLaracane.md`](./25-kannaDa-vAkyagaLa-oLaracane.md) | Original transcript or stub |
-| [`25-kannaDa-vAkyagaLa-oLaracane-book.md`](./25-kannaDa-vAkyagaLa-oLaracane-book.md) | Raw OCR text — Sarvam Vision API + WX-decoded output (14,409 lines, 319k Kannada chars) |
-| [`25-kannaDa-vAkyagaLa-oLaracane-kn-eke.md`](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke.md) | Eke romanisation — readable without Kannada script (19 KB) |
-| [`25-kannaDa-vAkyagaLa-oLaracane-en.md`](./25-kannaDa-vAkyagaLa-oLaracane-en.md) | English summaries — start here if you don’t read Kannada (30 KB) |
-| [`25-kannaDa-vAkyagaLa-oLaracane-claude-prompt.md`](./25-kannaDa-vAkyagaLa-oLaracane-claude-prompt.md) | AI context primer: key terms, thesis, chapter map (25 KB) |
-| [`25-kannaDa-vAkyagaLa-oLaracane-website.md`](./25-kannaDa-vAkyagaLa-oLaracane-website.md) | Website content stub / URL record |
+| File                 | Contents |
+| ----                 | -------- |
+| `claude-prompt.md`   | AI context primer (all sources) |
+| `description-raw.md` | Book description blurb from dnshankarabhat.net |
+| `book/en/summary.md` | Printed book (OCR/scan) — English — Summary / analysis |
+| `book/kn/full.md`    | Printed book (OCR/scan) — Kannada — Structured text with TOC + cross-links |
+| `book/kn/raw.md`     | Printed book (OCR/scan) — Kannada — Raw OCR/source — do not edit |
+| `book/eke/full.md`   | Printed book (OCR/scan) — Eke romanisation — Structured text with TOC + cross-links |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 
 ## Where to Start
 
-- **Don’t read Kannada?** → [`25-kannaDa-vAkyagaLa-oLaracane-en.md`](./25-kannaDa-vAkyagaLa-oLaracane-en.md) — English summaries
-- **Want the phonetics?** → [`25-kannaDa-vAkyagaLa-oLaracane-kn-eke.md`](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke.md) — Eke romanisation
-- **AI context primer?** → [`25-kannaDa-vAkyagaLa-oLaracane-claude-prompt.md`](./25-kannaDa-vAkyagaLa-oLaracane-claude-prompt.md)
-- **Full Kannada text?** → [`25-kannaDa-vAkyagaLa-oLaracane-book.md`](./25-kannaDa-vAkyagaLa-oLaracane-book.md)
+- **Don't read Kannada?** → [`book/en/summary.md`](./book/en/summary.md) — English summaries
+- **Want the phonetics?** → [`book/eke/full.md`](./book/eke/full.md) — Eke romanisation
+- **Full Kannada text?** → [`book/kn/full.md`](./book/kn/full.md) — structured with TOC
+- **AI context primer?** → [`claude-prompt.md`](./claude-prompt.md)
 
 ---
 

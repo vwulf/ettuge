@@ -9,9 +9,9 @@
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| [`13-dArege-doDDavaru.md`](./13-dArege-doDDavaru.md) | Raw YouTube transcript — heavily corrupted, 49 lines |
+| File                 | Contents |
+| ----                 | -------- |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 

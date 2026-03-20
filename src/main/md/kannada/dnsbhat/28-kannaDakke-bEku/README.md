@@ -9,23 +9,23 @@
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| [`28-kannaDakke-bEku-book.md`](./28-kannaDakke-bEku-book.md) | Raw OCR text — Sarvam Vision API + WX-decoded output (12,789 lines, 304k Kannada chars) |
-| [`28-kannaDakke-bEku-kn.md`](./28-kannaDakke-bEku-kn.md) | **OCR-cleaned Kannada text** — 3-pass character + structural artifact cleanup (9,517 lines); 12 `<a id="adhyAya-N">` chapter anchors |
-| [`28-kannaDakke-bEku-kn-eke.md`](./28-kannaDakke-bEku-kn-eke.md) | Eke romanisation — readable without Kannada script (regenerated from kn.md) |
-| [`28-kannaDakke-bEku-en.md`](./28-kannaDakke-bEku-en.md) | English summaries — start here if you don't read Kannada (25 KB; 13 chapter anchors) |
-| [`28-kannaDakke-bEku-claude-prompt.md`](./28-kannaDakke-bEku-claude-prompt.md) | AI context primer: key terms, thesis, chapter map (20 KB) |
+| File                 | Contents |
+| ----                 | -------- |
+| `claude-prompt.md`   | AI context primer (all sources) |
+| `book/en/summary.md` | Printed book (OCR/scan) — English — Summary / analysis |
+| `book/kn/full.md`    | Printed book (OCR/scan) — Kannada — Structured text with TOC + cross-links |
+| `book/kn/raw.md`     | Printed book (OCR/scan) — Kannada — Raw OCR/source — do not edit |
+| `book/eke/full.md`   | Printed book (OCR/scan) — Eke romanisation — Structured text with TOC + cross-links |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 
 ## Where to Start
 
-- **Don't read Kannada?** → [`28-kannaDakke-bEku-en.md`](./28-kannaDakke-bEku-en.md) — English summaries
-- **Want the phonetics?** → [`28-kannaDakke-bEku-kn-eke.md`](./28-kannaDakke-bEku-kn-eke.md) — Eke romanisation
-- **Clean Kannada text?** → [`28-kannaDakke-bEku-kn.md`](./28-kannaDakke-bEku-kn.md) — OCR-cleaned, with chapter anchors
-- **AI context primer?** → [`28-kannaDakke-bEku-claude-prompt.md`](./28-kannaDakke-bEku-claude-prompt.md)
-- **Raw OCR?** → [`28-kannaDakke-bEku-book.md`](./28-kannaDakke-bEku-book.md)
+- **Don't read Kannada?** → [`book/en/summary.md`](./book/en/summary.md) — English summaries
+- **Want the phonetics?** → [`book/eke/full.md`](./book/eke/full.md) — Eke romanisation
+- **Full Kannada text?** → [`book/kn/full.md`](./book/kn/full.md) — structured with TOC
+- **AI context primer?** → [`claude-prompt.md`](./claude-prompt.md)
 
 ---
 

@@ -9,21 +9,20 @@
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| [`20-havyaka-outline-grammar.md`](./20-havyaka-outline-grammar.md) | Website/collection stub |
-| [`20-havyaka-outline-grammar-djvu.md`](./20-havyaka-outline-grammar-djvu.md) | DjVu OCR text (raw, may have minor errors) — full text |
-| [`20-havyaka-outline-grammar-en.md`](./20-havyaka-outline-grammar-en.md) | English summaries — covers phonology, morphology, verb paradigms, and case system |
-| [`20-havyaka-outline-grammar-claude-prompt.md`](./20-havyaka-outline-grammar-claude-prompt.md) | AI context primer: key terms, thesis, chapter map |
-| [`20-havyaka-outline-grammar-website.md`](./20-havyaka-outline-grammar-website.md) | Website content stub / URL record |
+| File                 | Contents |
+| ----                 | -------- |
+| `claude-prompt.md`   | AI context primer (all sources) |
+| `description-raw.md` | Book description blurb from dnshankarabhat.net |
+| `book/en/summary.md` | Printed book (OCR/scan) — English — Summary / analysis |
+| `book/kn/raw.md`     | Printed book (OCR/scan) — Kannada — Raw OCR/source — do not edit |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 
 ## Where to Start
 
-- **Don't read Kannada?** → [`20-havyaka-outline-grammar-en.md`](./20-havyaka-outline-grammar-en.md) — English summaries
-- **AI context primer?** → [`20-havyaka-outline-grammar-claude-prompt.md`](./20-havyaka-outline-grammar-claude-prompt.md)
-- **Full text?** → [`20-havyaka-outline-grammar-djvu.md`](./20-havyaka-outline-grammar-djvu.md)
+- **Don't read Kannada?** → [`book/en/summary.md`](./book/en/summary.md) — English summaries
+- **AI context primer?** → [`claude-prompt.md`](./claude-prompt.md)
 
 ---
 

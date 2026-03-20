@@ -9,20 +9,21 @@
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| [`04-mAtu-mattu-barahada-naDuvina-gondala.md`](./04-mAtu-mattu-barahada-naDuvina-gondala.md) | Consolidated YouTube transcripts — 44 parts |
-| [`04-mAtu-mattu-barahada-naDuvina-gondala-kn-eke.md`](./04-mAtu-mattu-barahada-naDuvina-gondala-kn-eke.md) | Eke romanisation of key passages |
-| [`04-mAtu-mattu-barahada-naDuvina-gondala-en.md`](./04-mAtu-mattu-barahada-naDuvina-gondala-en.md) | English summaries by theme |
-| [`04-mAtu-mattu-barahada-naDuvina-gondala-website.md`](./04-mAtu-mattu-barahada-naDuvina-gondala-website.md) | Wayback Machine snapshot of dnshankarabhat.net for this book |
+| File                    | Contents |
+| ----                    | -------- |
+| `claude-prompt.md`      | AI context primer (all sources) |
+| `description-raw.md`    | Book description blurb from dnshankarabhat.net |
+| `youtube/en/summary.md` | YouTube transcripts — English — Summary / analysis |
+| `youtube/kn/full.md`    | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
+| `youtube/eke/full.md`   | YouTube transcripts — Eke romanisation — Structured text with TOC + cross-links |
 
 ---
 
 ## Where to Start
 
-- **Don't read Kannada?** → [`04-mAtu-mattu-barahada-naDuvina-gondala-en.md`](./04-mAtu-mattu-barahada-naDuvina-gondala-en.md)
-- **Want the phonetics?** → [`04-mAtu-mattu-barahada-naDuvina-gondala-kn-eke.md`](./04-mAtu-mattu-barahada-naDuvina-gondala-kn-eke.md)
-- **Full transcripts?** → [`04-mAtu-mattu-barahada-naDuvina-gondala.md`](./04-mAtu-mattu-barahada-naDuvina-gondala.md)
+- **Don't read Kannada?** → [`youtube/en/summary.md`](./youtube/en/summary.md) — English summaries
+- **Want the phonetics?** → [`youtube/eke/full.md`](./youtube/eke/full.md) — Eke romanisation
+- **AI context primer?** → [`claude-prompt.md`](./claude-prompt.md)
 
 ---
 

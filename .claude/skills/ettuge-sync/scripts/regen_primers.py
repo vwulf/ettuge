@@ -30,13 +30,17 @@ For earlier book primers, see `claude-book-primers-1.md`.
 ---
 """
 
-prompt_files = sorted(glob.glob(f"{dnsbhat_base}/*/*-claude-prompt.md"))
+# After Phase B migration, claude-prompt files are at NN-slug/claude-prompt.md (no suffix)
+prompt_files = sorted(glob.glob(f"{dnsbhat_base}/*/claude-prompt.md"))
 
 items = []
 for f in prompt_files:
     text = open(f).read()
     book_dir = os.path.basename(os.path.dirname(f))
-    book_num = int(book_dir.split('-')[0])
+    try:
+        book_num = int(book_dir.split('-')[0])
+    except ValueError:
+        continue
     items.append((book_num, book_dir, text))
 
 part1, part2 = [], []

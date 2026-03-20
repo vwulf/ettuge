@@ -9,21 +9,23 @@
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| [`27-bhASheya-bagge-book.md`](./27-bhASheya-bagge-book.md) | Raw OCR text — Sarvam Vision API output (9,098 lines, 287k Kannada chars) |
-| [`27-bhASheya-bagge-kn-eke.md`](./27-bhASheya-bagge-kn-eke.md) | Eke romanisation — readable without Kannada script |
-| [`27-bhASheya-bagge-en.md`](./27-bhASheya-bagge-en.md) | English summaries — start here if you don’t read Kannada |
-| [`27-bhASheya-bagge-claude-prompt.md`](./27-bhASheya-bagge-claude-prompt.md) | AI context primer: key terms, thesis, chapter map |
+| File                 | Contents |
+| ----                 | -------- |
+| `claude-prompt.md`   | AI context primer (all sources) |
+| `book/en/summary.md` | Printed book (OCR/scan) — English — Summary / analysis |
+| `book/kn/full.md`    | Printed book (OCR/scan) — Kannada — Structured text with TOC + cross-links |
+| `book/kn/raw.md`     | Printed book (OCR/scan) — Kannada — Raw OCR/source — do not edit |
+| `book/eke/full.md`   | Printed book (OCR/scan) — Eke romanisation — Structured text with TOC + cross-links |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 
 ## Where to Start
 
-- **Don’t read Kannada?** → [`27-bhASheya-bagge-en.md`](./27-bhASheya-bagge-en.md) — English summaries
-- **Want the phonetics?** → [`27-bhASheya-bagge-kn-eke.md`](./27-bhASheya-bagge-kn-eke.md) — Eke romanisation
-- **AI context primer?** → [`27-bhASheya-bagge-claude-prompt.md`](./27-bhASheya-bagge-claude-prompt.md)
-- **Full Kannada text?** → [`27-bhASheya-bagge-book.md`](./27-bhASheya-bagge-book.md)
+- **Don't read Kannada?** → [`book/en/summary.md`](./book/en/summary.md) — English summaries
+- **Want the phonetics?** → [`book/eke/full.md`](./book/eke/full.md) — Eke romanisation
+- **Full Kannada text?** → [`book/kn/full.md`](./book/kn/full.md) — structured with TOC
+- **AI context primer?** → [`claude-prompt.md`](./claude-prompt.md)
 
 ---
 

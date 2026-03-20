@@ -9,9 +9,9 @@
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| [`22-sound-change.md`](./22-sound-change.md) | Stub — only a Google Books preview is available; no full archive.org copy found |
+| File                 | Contents |
+| ----                 | -------- |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 

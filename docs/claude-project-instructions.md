@@ -3137,10 +3137,10 @@ Each section below describes one DNS Bhat book: its theme, available files, and 
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| `01-idu-kannaDaddE-vyAkaraNa.md` | YouTube transcript (Malati Bhat reading) — 49 lines, partial |
-| `01-idu-kannaDaddE-vyAkaraNa-website.md` | Website content stub / URL record |
+| File                 | Contents |
+| ----                 | -------- |
+| `description-raw.md` | Book description blurb from dnshankarabhat.net |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 
@@ -3160,24 +3160,24 @@ Each section below describes one DNS Bhat book: its theme, available files, and 
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| `02-kannaDadalle-hosapadagaLannu-kaTTuva-bage.md` | YouTube transcript — original collected text |
-| `02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn.md` | Structured Kannada with TOC and `<a id>` anchors — 547 lines, 17 chapters |
-| `02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke.md` | Eke romanisation — readable without Kannada script — 830 lines, 43 KB |
-| `02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en.md` | English summaries — start here if you don't read Kannada |
-| `02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-blog.md` | 15 blog posts from dnshankarabhat.net — 6,469 lines |
-| `02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-claude-prompt.md` | AI context primer: key terms, thesis, chapter map |
-| `02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-website.md` | Website content stub / URL record |
+| File                 | Contents |
+| ----                 | -------- |
+| `claude-prompt.md`   | AI context primer (all sources) |
+| `description-raw.md` | Book description blurb from dnshankarabhat.net |
+| `web/en/summary.md`  | Web / blog post — English — Summary / analysis |
+| `web/kn/full.md`     | Web / blog post — Kannada — Structured text with TOC + cross-links |
+| `web/kn/raw.md`      | Web / blog post — Kannada — Raw OCR/source — do not edit |
+| `web/eke/full.md`    | Web / blog post — Eke romanisation — Structured text with TOC + cross-links |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 
 ## Where to Start
 
-- **Don't read Kannada?** → [`-en.md`](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en.md) — English summaries
-- **Want the phonetics?** → [`-kn-eke.md`](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke.md) — Eke romanisation (830 lines)
-- **Structured Kannada?** → [`-kn.md`](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn.md) — TOC + anchors
-- **AI context primer?** → [`-claude-prompt.md`](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-claude-prompt.md)
+- **Don't read Kannada?** → [`web/en/summary.md`](./web/en/summary.md) — English summaries
+- **Want the phonetics?** → [`web/eke/full.md`](./web/eke/full.md) — Eke romanisation
+- **Full Kannada text?** → [`web/kn/full.md`](./web/kn/full.md) — structured with TOC
+- **AI context primer?** → [`claude-prompt.md`](./claude-prompt.md)
 
 ---
 
@@ -3197,23 +3197,24 @@ Each section below describes one DNS Bhat book: its theme, available files, and 
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| `03-kannaDa-padagaLa-oLaracane.md` | YouTube transcript — original collected text |
-| `03-kannaDa-padagaLa-oLaracane-book.md` | Full Sarvam Vision OCR output — 12,264 lines, 957 KB |
-| `03-kannaDa-padagaLa-oLaracane-kn-eke.md` | Eke romanisation — readable without Kannada script |
-| `03-kannaDa-padagaLa-oLaracane-en.md` | English summaries — start here if you don't read Kannada |
-| `03-kannaDa-padagaLa-oLaracane-claude-prompt.md` | AI context primer: key terms, thesis, chapter map |
-| `03-kannaDa-padagaLa-oLaracane-website.md` | Website content stub / URL record |
+| File                 | Contents |
+| ----                 | -------- |
+| `claude-prompt.md`   | AI context primer (all sources) |
+| `description-raw.md` | Book description blurb from dnshankarabhat.net |
+| `book/en/summary.md` | Printed book (OCR/scan) — English — Summary / analysis |
+| `book/kn/full.md`    | Printed book (OCR/scan) — Kannada — Structured text with TOC + cross-links |
+| `book/kn/raw.md`     | Printed book (OCR/scan) — Kannada — Raw OCR/source — do not edit |
+| `book/eke/full.md`   | Printed book (OCR/scan) — Eke romanisation — Structured text with TOC + cross-links |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 
 ## Where to Start
 
-- **Don't read Kannada?** → [`-en.md`](./03-kannaDa-padagaLa-oLaracane-en.md) — English summaries
-- **Want the phonetics?** → [`-kn-eke.md`](./03-kannaDa-padagaLa-oLaracane-kn-eke.md) — Eke romanisation
-- **Full Kannada text?** → [`-book.md`](./03-kannaDa-padagaLa-oLaracane-book.md) — complete OCR output
-- **AI context primer?** → [`-claude-prompt.md`](./03-kannaDa-padagaLa-oLaracane-claude-prompt.md)
+- **Don't read Kannada?** → [`book/en/summary.md`](./book/en/summary.md) — English summaries
+- **Want the phonetics?** → [`book/eke/full.md`](./book/eke/full.md) — Eke romanisation
+- **Full Kannada text?** → [`book/kn/full.md`](./book/kn/full.md) — structured with TOC
+- **AI context primer?** → [`claude-prompt.md`](./claude-prompt.md)
 
 ---
 
@@ -3233,20 +3234,21 @@ Each section below describes one DNS Bhat book: its theme, available files, and 
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| [`04-mAtu-mattu-barahada-naDuvina-gondala.md`](./04-mAtu-mattu-barahada-naDuvina-gondala.md) | Consolidated YouTube transcripts — 44 parts |
-| [`04-mAtu-mattu-barahada-naDuvina-gondala-kn-eke.md`](./04-mAtu-mattu-barahada-naDuvina-gondala-kn-eke.md) | Eke romanisation of key passages |
-| [`04-mAtu-mattu-barahada-naDuvina-gondala-en.md`](./04-mAtu-mattu-barahada-naDuvina-gondala-en.md) | English summaries by theme |
-| [`04-mAtu-mattu-barahada-naDuvina-gondala-website.md`](./04-mAtu-mattu-barahada-naDuvina-gondala-website.md) | Wayback Machine snapshot of dnshankarabhat.net for this book |
+| File                    | Contents |
+| ----                    | -------- |
+| `claude-prompt.md`      | AI context primer (all sources) |
+| `description-raw.md`    | Book description blurb from dnshankarabhat.net |
+| `youtube/en/summary.md` | YouTube transcripts — English — Summary / analysis |
+| `youtube/kn/full.md`    | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
+| `youtube/eke/full.md`   | YouTube transcripts — Eke romanisation — Structured text with TOC + cross-links |
 
 ---
 
 ## Where to Start
 
-- **Don't read Kannada?** → [`04-mAtu-mattu-barahada-naDuvina-gondala-en.md`](./04-mAtu-mattu-barahada-naDuvina-gondala-en.md)
-- **Want the phonetics?** → [`04-mAtu-mattu-barahada-naDuvina-gondala-kn-eke.md`](./04-mAtu-mattu-barahada-naDuvina-gondala-kn-eke.md)
-- **Full transcripts?** → [`04-mAtu-mattu-barahada-naDuvina-gondala.md`](./04-mAtu-mattu-barahada-naDuvina-gondala.md)
+- **Don't read Kannada?** → [`youtube/en/summary.md`](./youtube/en/summary.md) — English summaries
+- **Want the phonetics?** → [`youtube/eke/full.md`](./youtube/eke/full.md) — Eke romanisation
+- **AI context primer?** → [`claude-prompt.md`](./claude-prompt.md)
 
 ---
 
@@ -3266,11 +3268,13 @@ Each section below describes one DNS Bhat book: its theme, available files, and 
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| `05-mAtina-oLaguTTu.md` | YouTube transcript — 539 lines, good quality |
-| `05-mAtina-oLaguTTu-summary-prompt.md` | AI summary / analysis prompt for this book |
-| `05-mAtina-oLaguTTu-website.md` | Website content stub / URL record |
+| File                    | Contents |
+| ----                    | -------- |
+| `claude-prompt.md`      | AI context primer (all sources) |
+| `description-raw.md`    | Book description blurb from dnshankarabhat.net |
+| `youtube/en/summary.md` | YouTube transcripts — English — Summary / analysis |
+| `youtube/kn/full.md`    | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
+| `youtube/eke/full.md`   | YouTube transcripts — Eke romanisation — Structured text with TOC + cross-links |
 
 ---
 
@@ -3290,10 +3294,10 @@ Each section below describes one DNS Bhat book: its theme, available files, and 
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| `06-kalikenuDi-mattu-nuDikalike.md` | YouTube transcript — 197 lines, heavily corrupted |
-| `06-kalikenuDi-mattu-nuDikalike-website.md` | Website content stub / URL record |
+| File                 | Contents |
+| ----                 | -------- |
+| `description-raw.md` | Book description blurb from dnshankarabhat.net |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 
@@ -3313,26 +3317,27 @@ Each section below describes one DNS Bhat book: its theme, available files, and 
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| `07-kannaDa-barahada-sollarime.md` | YouTube transcript — original collected text |
-| `07-kannaDa-barahada-sollarime-vol1-book.md` | Sarvam Vision OCR of Vol 1 — 24,825 lines, WX-decoded (phonology) |
-| `07-kannaDa-barahada-sollarime-vol2-book.md` | Sarvam Vision OCR of Vol 2 — 15,300 lines, WX-decoded (morphology) |
-| `07-kannaDa-barahada-sollarime-kn-eke.md` | Eke romanisation — readable without Kannada script — 9 KB |
-| `07-kannaDa-barahada-sollarime-en.md` | English summaries — start here if you don't read Kannada — 41 KB |
-| `07-kannaDa-barahada-sollarime-claude-prompt.md` | AI context primer: key terms, thesis, chapter map — 18 KB |
-| `07-kannaDa-barahada-sollarime-website.md` | Website content stub / URL record |
-
-Note: Vols 3–7 PDFs have not been found. The vol 1+2 PDFs used old WX Kannada font encoding and were decoded via `wx_decode.py`.
+| File                    | Contents |
+| ----                    | -------- |
+| `claude-prompt.md`      | AI context primer (all sources) |
+| `description-raw.md`    | Book description blurb from dnshankarabhat.net |
+| `book/vol1/kn/full.md`  | Printed book (OCR/scan) Vol 1 — Kannada — Structured text with TOC + cross-links |
+| `book/vol1/kn/raw.md`   | Printed book (OCR/scan) Vol 1 — Kannada — Raw OCR/source — do not edit |
+| `book/vol1/eke/full.md` | Printed book (OCR/scan) Vol 1 — Eke romanisation — Structured text with TOC + cross-links |
+| `book/vol2/kn/full.md`  | Printed book (OCR/scan) Vol 2 — Kannada — Structured text with TOC + cross-links |
+| `book/vol2/kn/raw.md`   | Printed book (OCR/scan) Vol 2 — Kannada — Raw OCR/source — do not edit |
+| `book/vol2/eke/full.md` | Printed book (OCR/scan) Vol 2 — Eke romanisation — Structured text with TOC + cross-links |
+| `book/en/summary.md`    | Printed book (OCR/scan) — English — Summary / analysis |
+| `book/eke/full.md`      | Printed book (OCR/scan) — Eke romanisation — Structured text with TOC + cross-links |
+| `youtube/kn/full.md`    | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 
 ## Where to Start
 
-- **Don't read Kannada?** → [`-en.md`](./07-kannaDa-barahada-sollarime-en.md) — English summaries covering both volumes (41 KB)
-- **Want the phonetics?** → [`-kn-eke.md`](./07-kannaDa-barahada-sollarime-kn-eke.md) — Eke romanisation overview
-- **Full Kannada text?** → [`-vol1-book.md`](./07-kannaDa-barahada-sollarime-vol1-book.md) (phonology) or [`-vol2-book.md`](./07-kannaDa-barahada-sollarime-vol2-book.md) (morphology)
-- **AI context primer?** → [`-claude-prompt.md`](./07-kannaDa-barahada-sollarime-claude-prompt.md)
+- **Don't read Kannada?** → [`book/en/summary.md`](./book/en/summary.md) — English summaries
+- **Want the phonetics?** → [`book/eke/full.md`](./book/eke/full.md) — Eke romanisation
+- **AI context primer?** → [`claude-prompt.md`](./claude-prompt.md)
 
 ---
 
@@ -3354,28 +3359,25 @@ This was the **first fully structured book** in this collection and served as th
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| `08-kannaDakke-mahAprANa-yAke-bEDa.md` | Original collected stub |
-| `08-kannaDakke-mahAprANa-yAke-bEDa-book.md` | Clean archive.org text — 4,243 lines (primary source) |
-| `08-kannaDakke-mahAprANa-yAke-bEDa-djvu.md` | DjVu OCR text (raw, may have minor errors) |
-| `08-kannaDakke-mahAprANa-yAke-bEDa-kn.md` | Structured Kannada with TOC and `<a id>` anchors — 5 chapters |
-| `08-kannaDakke-mahAprANa-yAke-bEDa-kn-eke.md` | Eke romanisation — readable without Kannada script |
-| `08-kannaDakke-mahAprANa-yAke-bEDa-en.md` | English summaries — start here if you don't read Kannada |
-| `08-kannaDakke-mahAprANa-yAke-bEDa-claude-prompt.md` | AI context primer: key terms, thesis, chapter map |
-| `08-kannaDakke-mahAprANa-yAke-bEDa-website.md` | Website content stub / URL record |
-
-**Chapters:** 1. ಮುನ್ನೋಟ · 2. ಓದುವ ಹಾಗೆ ಬರೆಯುವುದು · 3. ಮಾರ್ಬಡಿಸಿಕೊಂಡಿರುವ ಬೇರೆ ನುಡಿಗಳು · 4. ಸರಿಪಡಿಕೆಯ ಎದುರಿಕೆಗಳು · 5. ಮುಕ್ತಾಯ
+| File                  | Contents |
+| ----                  | -------- |
+| `claude-prompt.md`    | AI context primer (all sources) |
+| `description-raw.md`  | Book description blurb from dnshankarabhat.net |
+| `book/en/summary.md`  | Printed book (OCR/scan) — English — Summary / analysis |
+| `book/kn/full.md`     | Printed book (OCR/scan) — Kannada — Structured text with TOC + cross-links |
+| `book/kn/raw.md`      | Printed book (OCR/scan) — Kannada — Raw OCR/source — do not edit |
+| `book/kn/raw-djvu.md` | Printed book (OCR/scan) — Kannada — Alternate DJVU extraction — do not edit |
+| `book/eke/full.md`    | Printed book (OCR/scan) — Eke romanisation — Structured text with TOC + cross-links |
+| `youtube/kn/full.md`  | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 
 ## Where to Start
 
-- **Don't read Kannada?** → [`-en.md`](./08-kannaDakke-mahAprANa-yAke-bEDa-en.md) — English summaries
-- **Want the phonetics?** → [`-kn-eke.md`](./08-kannaDakke-mahAprANa-yAke-bEDa-kn-eke.md) — Eke romanisation
-- **Structured Kannada?** → [`-kn.md`](./08-kannaDakke-mahAprANa-yAke-bEDa-kn.md) — TOC + chapter anchors
-- **Full Kannada text?** → [`-book.md`](./08-kannaDakke-mahAprANa-yAke-bEDa-book.md) — clean archive.org source
-- **AI context primer?** → [`-claude-prompt.md`](./08-kannaDakke-mahAprANa-yAke-bEDa-claude-prompt.md)
+- **Don't read Kannada?** → [`book/en/summary.md`](./book/en/summary.md) — English summaries
+- **Want the phonetics?** → [`book/eke/full.md`](./book/eke/full.md) — Eke romanisation
+- **Full Kannada text?** → [`book/kn/full.md`](./book/kn/full.md) — structured with TOC
+- **AI context primer?** → [`claude-prompt.md`](./claude-prompt.md)
 
 ---
 
@@ -3395,12 +3397,13 @@ This was the **first fully structured book** in this collection and served as th
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| `09-havyaka-kannaDa.md` | YouTube transcript — 387 lines, mostly corrupted |
-| `09-havyaka-kannaDa-website.md` | Website content stub / URL record |
-
-For the full usable text on Havyaka grammar, see [Book 20](../20-havyaka-outline-grammar/) — the academic English version with complete DjVu text.
+| File                    | Contents |
+| ----                    | -------- |
+| `claude-prompt.md`      | AI context primer (all sources) |
+| `description-raw.md`    | Book description blurb from dnshankarabhat.net |
+| `youtube/en/summary.md` | YouTube transcripts — English — Summary / analysis |
+| `youtube/kn/full.md`    | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
+| `youtube/eke/full.md`   | YouTube transcripts — Eke romanisation — Structured text with TOC + cross-links |
 
 ---
 
@@ -3420,10 +3423,10 @@ For the full usable text on Havyaka grammar, see [Book 20](../20-havyaka-outline
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| `10-kannaDa-nuDiya-hinnaDavaLi.md` | YouTube transcript — 131 lines, heavily corrupted |
-| `10-kannaDa-nuDiya-hinnaDavaLi-website.md` | Website content stub / URL record |
+| File                 | Contents |
+| ----                 | -------- |
+| `description-raw.md` | Book description blurb from dnshankarabhat.net |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 
@@ -3443,10 +3446,10 @@ For the full usable text on Havyaka grammar, see [Book 20](../20-havyaka-outline
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| [`11-kannaDa-barahada-padasamasye.md`](./11-kannaDa-barahada-padasamasye.md) | Raw YouTube transcript — heavily corrupted, 253 lines |
-| [`11-kannaDa-barahada-padasamasye-website.md`](./11-kannaDa-barahada-padasamasye-website.md) | Website content stub / URL record |
+| File                 | Contents |
+| ----                 | -------- |
+| `description-raw.md` | Book description blurb from dnshankarabhat.net |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 
@@ -3466,10 +3469,10 @@ For the full usable text on Havyaka grammar, see [Book 20](../20-havyaka-outline
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| [`12-kannaDa-bhASheya-kalpita-caritre.md`](./12-kannaDa-bhASheya-kalpita-caritre.md) | Raw YouTube transcript — very short excerpt, 29 lines |
-| [`12-kannaDa-bhASheya-kalpita-caritre-website.md`](./12-kannaDa-bhASheya-kalpita-caritre-website.md) | Website content stub / URL record |
+| File                 | Contents |
+| ----                 | -------- |
+| `description-raw.md` | Book description blurb from dnshankarabhat.net |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 
@@ -3489,9 +3492,9 @@ For the full usable text on Havyaka grammar, see [Book 20](../20-havyaka-outline
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| [`13-dArege-doDDavaru.md`](./13-dArege-doDDavaru.md) | Raw YouTube transcript — heavily corrupted, 49 lines |
+| File                 | Contents |
+| ----                 | -------- |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 
@@ -3511,25 +3514,26 @@ For the full usable text on Havyaka grammar, see [Book 20](../20-havyaka-outline
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| [`nijakkU-haLegannaDa-vyAkaraNa-entahadu-book.md`](./nijakkU-haLegannaDa-vyAkaraNa-entahadu-book.md) | Raw OCR / extracted Kannada text (original collected filename, without `14-` prefix) |
-| [`14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn.md`](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn.md) | Structured Kannada with TOC and `<a id>` anchors — 12 chapters |
-| [`14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke.md`](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke.md) | Eke romanisation — readable without Kannada script |
-| [`14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en.md`](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en.md) | English summaries — start here if you don't read Kannada |
-| [`14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-claude-prompt.md`](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-claude-prompt.md) | AI context primer: key terms, thesis, chapter map |
-| [`14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-blog.md`](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-blog.md) | 7 posts of the *ಶಬ್ದಮಣಿದರ್ಪಣದಲ್ಲಿ ತಳಮಟ್ಟದ ತಪ್ಪುಗಳು* series (May–June 2017) |
-| [`14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-djvu.md`](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-djvu.md) | DjVu OCR text (raw, may have minor errors) |
-| [`14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-website.md`](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-website.md) | Website content stub / URL record |
+| File                  | Contents |
+| ----                  | -------- |
+| `claude-prompt.md`    | AI context primer (all sources) |
+| `description-raw.md`  | Book description blurb from dnshankarabhat.net |
+| `book/en/summary.md`  | Printed book (OCR/scan) — English — Summary / analysis |
+| `book/kn/full.md`     | Printed book (OCR/scan) — Kannada — Structured text with TOC + cross-links |
+| `book/kn/raw.md`      | Printed book (OCR/scan) — Kannada — Raw OCR/source — do not edit |
+| `book/kn/raw-djvu.md` | Printed book (OCR/scan) — Kannada — Alternate DJVU extraction — do not edit |
+| `book/eke/full.md`    | Printed book (OCR/scan) — Eke romanisation — Structured text with TOC + cross-links |
+| `web/kn/raw.md`       | Web / blog post — Kannada — Raw OCR/source — do not edit |
+| `youtube/kn/full.md`  | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 
 ## Where to Start
 
-- **Don't read Kannada?** → [`14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en.md`](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en.md) — English summaries
-- **Want the phonetics?** → [`14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke.md`](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke.md) — Eke romanisation
-- **AI context primer?** → [`14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-claude-prompt.md`](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-claude-prompt.md)
-- **Full Kannada text?** → [`nijakkU-haLegannaDa-vyAkaraNa-entahadu-book.md`](./nijakkU-haLegannaDa-vyAkaraNa-entahadu-book.md)
+- **Don't read Kannada?** → [`book/en/summary.md`](./book/en/summary.md) — English summaries
+- **Want the phonetics?** → [`book/eke/full.md`](./book/eke/full.md) — Eke romanisation
+- **Full Kannada text?** → [`book/kn/full.md`](./book/kn/full.md) — structured with TOC
+- **AI context primer?** → [`claude-prompt.md`](./claude-prompt.md)
 
 ---
 
@@ -3549,24 +3553,23 @@ For the full usable text on Havyaka grammar, see [Book 20](../20-havyaka-outline
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| [`15-ingliS-kannaDa-padanerake.md`](./15-ingliS-kannaDa-padanerake.md) | Original transcript or main collected text |
-| [`15-ingliS-kannaDa-padanerake-book.md`](./15-ingliS-kannaDa-padanerake-book.md) | Raw OCR / extracted Kannada text — hybrid-extracted (3,454 lines, 84,475 Kannada Unicode chars) |
-| [`15-ingliS-kannaDa-padanerake-sample.md`](./15-ingliS-kannaDa-padanerake-sample.md) | Raw sample PDF stub — letter A (53-page pre-print) |
-| [`15-ingliS-kannaDa-padanerake-kn-eke.md`](./15-ingliS-kannaDa-padanerake-kn-eke.md) | Eke romanisation — covers preface, conventions, and all A–Az dictionary entries |
-| [`15-ingliS-kannaDa-padanerake-en.md`](./15-ingliS-kannaDa-padanerake-en.md) | English summaries — start here if you don't read Kannada |
-| [`15-ingliS-kannaDa-padanerake-claude-prompt.md`](./15-ingliS-kannaDa-padanerake-claude-prompt.md) | AI context primer: 6-step decision tree, 11 domain-cluster tables, 100 curated entries |
-| [`15-ingliS-kannaDa-padanerake-website.md`](./15-ingliS-kannaDa-padanerake-website.md) | Website content stub / URL record |
+| File                 | Contents |
+| ----                 | -------- |
+| `claude-prompt.md`   | AI context primer (all sources) |
+| `description-raw.md` | Book description blurb from dnshankarabhat.net |
+| `book/en/summary.md` | Printed book (OCR/scan) — English — Summary / analysis |
+| `book/kn/raw.md`     | Printed book (OCR/scan) — Kannada — Raw OCR/source — do not edit |
+| `book/kn/sample.md`  | Printed book (OCR/scan) — Kannada — Sample excerpt |
+| `book/eke/full.md`   | Printed book (OCR/scan) — Eke romanisation — Structured text with TOC + cross-links |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 
 ## Where to Start
 
-- **Don't read Kannada?** → [`15-ingliS-kannaDa-padanerake-en.md`](./15-ingliS-kannaDa-padanerake-en.md) — English summaries
-- **Want the phonetics?** → [`15-ingliS-kannaDa-padanerake-kn-eke.md`](./15-ingliS-kannaDa-padanerake-kn-eke.md) — Eke romanisation
-- **AI context primer?** → [`15-ingliS-kannaDa-padanerake-claude-prompt.md`](./15-ingliS-kannaDa-padanerake-claude-prompt.md)
-- **Full Kannada text?** → [`15-ingliS-kannaDa-padanerake-book.md`](./15-ingliS-kannaDa-padanerake-book.md)
+- **Don't read Kannada?** → [`book/en/summary.md`](./book/en/summary.md) — English summaries
+- **Want the phonetics?** → [`book/eke/full.md`](./book/eke/full.md) — Eke romanisation
+- **AI context primer?** → [`claude-prompt.md`](./claude-prompt.md)
 
 ---
 
@@ -3586,10 +3589,10 @@ For the full usable text on Havyaka grammar, see [Book 20](../20-havyaka-outline
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| [`16-nuDiyarimeya-padagaLige-kannaDaddE-padagaLu.md`](./16-nuDiyarimeya-padagaLige-kannaDaddE-padagaLu.md) | Original transcript or main collected text |
-| [`16-nuDiyarimeya-padagaLige-kannaDaddE-padagaLu-website.md`](./16-nuDiyarimeya-padagaLige-kannaDaddE-padagaLu-website.md) | Website content stub / URL record |
+| File                 | Contents |
+| ----                 | -------- |
+| `description-raw.md` | Book description blurb from dnshankarabhat.net |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 
@@ -3609,23 +3612,24 @@ For the full usable text on Havyaka grammar, see [Book 20](../20-havyaka-outline
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| [`17-kannaDa-nuDi-naDeDu-banda-dAri.md`](./17-kannaDa-nuDi-naDeDu-banda-dAri.md) | Original transcript or main collected text |
-| [`17-kannaDa-nuDi-naDeDu-banda-dAri-book.md`](./17-kannaDa-nuDi-naDeDu-banda-dAri-book.md) | Raw OCR / extracted Kannada text — Sarvam OCR + WX-decoded output (22,230 lines) |
-| [`17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke.md`](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke.md) | Eke romanisation — readable without Kannada script (12 KB) |
-| [`17-kannaDa-nuDi-naDeDu-banda-dAri-en.md`](./17-kannaDa-nuDi-naDeDu-banda-dAri-en.md) | English summaries — start here if you don't read Kannada (35 KB) |
-| [`17-kannaDa-nuDi-naDeDu-banda-dAri-claude-prompt.md`](./17-kannaDa-nuDi-naDeDu-banda-dAri-claude-prompt.md) | AI context primer: key terms, thesis, chapter map |
-| [`17-kannaDa-nuDi-naDeDu-banda-dAri-website.md`](./17-kannaDa-nuDi-naDeDu-banda-dAri-website.md) | Website content stub / URL record |
+| File                 | Contents |
+| ----                 | -------- |
+| `claude-prompt.md`   | AI context primer (all sources) |
+| `description-raw.md` | Book description blurb from dnshankarabhat.net |
+| `book/en/summary.md` | Printed book (OCR/scan) — English — Summary / analysis |
+| `book/kn/full.md`    | Printed book (OCR/scan) — Kannada — Structured text with TOC + cross-links |
+| `book/kn/raw.md`     | Printed book (OCR/scan) — Kannada — Raw OCR/source — do not edit |
+| `book/eke/full.md`   | Printed book (OCR/scan) — Eke romanisation — Structured text with TOC + cross-links |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 
 ## Where to Start
 
-- **Don't read Kannada?** → [`17-kannaDa-nuDi-naDeDu-banda-dAri-en.md`](./17-kannaDa-nuDi-naDeDu-banda-dAri-en.md) — English summaries
-- **Want the phonetics?** → [`17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke.md`](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke.md) — Eke romanisation
-- **AI context primer?** → [`17-kannaDa-nuDi-naDeDu-banda-dAri-claude-prompt.md`](./17-kannaDa-nuDi-naDeDu-banda-dAri-claude-prompt.md)
-- **Full Kannada text?** → [`17-kannaDa-nuDi-naDeDu-banda-dAri-book.md`](./17-kannaDa-nuDi-naDeDu-banda-dAri-book.md)
+- **Don't read Kannada?** → [`book/en/summary.md`](./book/en/summary.md) — English summaries
+- **Want the phonetics?** → [`book/eke/full.md`](./book/eke/full.md) — Eke romanisation
+- **Full Kannada text?** → [`book/kn/full.md`](./book/kn/full.md) — structured with TOC
+- **AI context primer?** → [`claude-prompt.md`](./claude-prompt.md)
 
 ---
 
@@ -3645,23 +3649,22 @@ For the full usable text on Havyaka grammar, see [Book 20](../20-havyaka-outline
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| [`18-kannaDa-nuDiya-bagege-cintane.md`](./18-kannaDa-nuDiya-bagege-cintane.md) | Website/collection stub |
-| [`18-kannaDa-nuDiya-bagege-cintane-blog.md`](./18-kannaDa-nuDiya-bagege-cintane-blog.md) | Blog posts collected from dnshankarabhat.net — 13 posts (883 lines, 206 KB) |
-| [`18-kannaDa-nuDiya-bagege-cintane-kn-eke.md`](./18-kannaDa-nuDiya-bagege-cintane-kn-eke.md) | Eke romanisation — romanises all 13 collected posts |
-| [`18-kannaDa-nuDiya-bagege-cintane-en.md`](./18-kannaDa-nuDiya-bagege-cintane-en.md) | English summaries — start here if you don't read Kannada (29 KB) |
-| [`18-kannaDa-nuDiya-bagege-cintane-claude-prompt.md`](./18-kannaDa-nuDiya-bagege-cintane-claude-prompt.md) | AI context primer: key terms, thesis, chapter map |
-| [`18-kannaDa-nuDiya-bagege-cintane-website.md`](./18-kannaDa-nuDiya-bagege-cintane-website.md) | Website content stub / URL record |
+| File                 | Contents |
+| ----                 | -------- |
+| `claude-prompt.md`   | AI context primer (all sources) |
+| `description-raw.md` | Book description blurb from dnshankarabhat.net |
+| `web/en/summary.md`  | Web / blog post — English — Summary / analysis |
+| `web/kn/raw.md`      | Web / blog post — Kannada — Raw OCR/source — do not edit |
+| `web/eke/full.md`    | Web / blog post — Eke romanisation — Structured text with TOC + cross-links |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 
 ## Where to Start
 
-- **Don't read Kannada?** → [`18-kannaDa-nuDiya-bagege-cintane-en.md`](./18-kannaDa-nuDiya-bagege-cintane-en.md) — English summaries
-- **Want the phonetics?** → [`18-kannaDa-nuDiya-bagege-cintane-kn-eke.md`](./18-kannaDa-nuDiya-bagege-cintane-kn-eke.md) — Eke romanisation
-- **AI context primer?** → [`18-kannaDa-nuDiya-bagege-cintane-claude-prompt.md`](./18-kannaDa-nuDiya-bagege-cintane-claude-prompt.md)
-- **Full Kannada text?** → [`18-kannaDa-nuDiya-bagege-cintane-blog.md`](./18-kannaDa-nuDiya-bagege-cintane-blog.md)
+- **Don't read Kannada?** → [`web/en/summary.md`](./web/en/summary.md) — English summaries
+- **Want the phonetics?** → [`web/eke/full.md`](./web/eke/full.md) — Eke romanisation
+- **AI context primer?** → [`claude-prompt.md`](./claude-prompt.md)
 
 ---
 
@@ -3681,9 +3684,9 @@ For the full usable text on Havyaka grammar, see [Book 20](../20-havyaka-outline
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| [`19-the-koraga-language.md`](./19-the-koraga-language.md) | Website/collection stub — PDF in Google Drive, not yet extracted |
+| File                 | Contents |
+| ----                 | -------- |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 
@@ -3703,21 +3706,20 @@ For the full usable text on Havyaka grammar, see [Book 20](../20-havyaka-outline
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| [`20-havyaka-outline-grammar.md`](./20-havyaka-outline-grammar.md) | Website/collection stub |
-| [`20-havyaka-outline-grammar-djvu.md`](./20-havyaka-outline-grammar-djvu.md) | DjVu OCR text (raw, may have minor errors) — full text |
-| [`20-havyaka-outline-grammar-en.md`](./20-havyaka-outline-grammar-en.md) | English summaries — covers phonology, morphology, verb paradigms, and case system |
-| [`20-havyaka-outline-grammar-claude-prompt.md`](./20-havyaka-outline-grammar-claude-prompt.md) | AI context primer: key terms, thesis, chapter map |
-| [`20-havyaka-outline-grammar-website.md`](./20-havyaka-outline-grammar-website.md) | Website content stub / URL record |
+| File                 | Contents |
+| ----                 | -------- |
+| `claude-prompt.md`   | AI context primer (all sources) |
+| `description-raw.md` | Book description blurb from dnshankarabhat.net |
+| `book/en/summary.md` | Printed book (OCR/scan) — English — Summary / analysis |
+| `book/kn/raw.md`     | Printed book (OCR/scan) — Kannada — Raw OCR/source — do not edit |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 
 ## Where to Start
 
-- **Don't read Kannada?** → [`20-havyaka-outline-grammar-en.md`](./20-havyaka-outline-grammar-en.md) — English summaries
-- **AI context primer?** → [`20-havyaka-outline-grammar-claude-prompt.md`](./20-havyaka-outline-grammar-claude-prompt.md)
-- **Full text?** → [`20-havyaka-outline-grammar-djvu.md`](./20-havyaka-outline-grammar-djvu.md)
+- **Don't read Kannada?** → [`book/en/summary.md`](./book/en/summary.md) — English summaries
+- **AI context primer?** → [`claude-prompt.md`](./claude-prompt.md)
 
 ---
 
@@ -3737,9 +3739,9 @@ For the full usable text on Havyaka grammar, see [Book 20](../20-havyaka-outline
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| [`21-dns-bhat-pronouns.md`](./21-dns-bhat-pronouns.md) | Stub — PDF is in Google Drive but text has not yet been extracted |
+| File                 | Contents |
+| ----                 | -------- |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 
@@ -3759,9 +3761,9 @@ For the full usable text on Havyaka grammar, see [Book 20](../20-havyaka-outline
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| [`22-sound-change.md`](./22-sound-change.md) | Stub — only a Google Books preview is available; no full archive.org copy found |
+| File                 | Contents |
+| ----                 | -------- |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 
@@ -3781,10 +3783,10 @@ For the full usable text on Havyaka grammar, see [Book 20](../20-havyaka-outline
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| [`23-manipuri-grammar.md`](./23-manipuri-grammar.md) | Stub — text not yet collected |
-| [`23-manipuri-grammar-website.md`](./23-manipuri-grammar-website.md) | Website content stub from dnshankarabhat.net (archived 2015, 2018) |
+| File                 | Contents |
+| ----                 | -------- |
+| `description-raw.md` | Book description blurb from dnshankarabhat.net |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 
@@ -3804,10 +3806,10 @@ For the full usable text on Havyaka grammar, see [Book 20](../20-havyaka-outline
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| [`24-grammatical-relations.md`](./24-grammatical-relations.md) | Stub — text not yet collected |
-| [`24-grammatical-relations-website.md`](./24-grammatical-relations-website.md) | Website content stub from dnshankarabhat.net (archived 2016, 2018) |
+| File                 | Contents |
+| ----                 | -------- |
+| `description-raw.md` | Book description blurb from dnshankarabhat.net |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 
@@ -3827,23 +3829,24 @@ For the full usable text on Havyaka grammar, see [Book 20](../20-havyaka-outline
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| [`25-kannaDa-vAkyagaLa-oLaracane.md`](./25-kannaDa-vAkyagaLa-oLaracane.md) | Original transcript or stub |
-| [`25-kannaDa-vAkyagaLa-oLaracane-book.md`](./25-kannaDa-vAkyagaLa-oLaracane-book.md) | Raw OCR text — Sarvam Vision API + WX-decoded output (14,409 lines, 319k Kannada chars) |
-| [`25-kannaDa-vAkyagaLa-oLaracane-kn-eke.md`](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke.md) | Eke romanisation — readable without Kannada script (19 KB) |
-| [`25-kannaDa-vAkyagaLa-oLaracane-en.md`](./25-kannaDa-vAkyagaLa-oLaracane-en.md) | English summaries — start here if you don’t read Kannada (30 KB) |
-| [`25-kannaDa-vAkyagaLa-oLaracane-claude-prompt.md`](./25-kannaDa-vAkyagaLa-oLaracane-claude-prompt.md) | AI context primer: key terms, thesis, chapter map (25 KB) |
-| [`25-kannaDa-vAkyagaLa-oLaracane-website.md`](./25-kannaDa-vAkyagaLa-oLaracane-website.md) | Website content stub / URL record |
+| File                 | Contents |
+| ----                 | -------- |
+| `claude-prompt.md`   | AI context primer (all sources) |
+| `description-raw.md` | Book description blurb from dnshankarabhat.net |
+| `book/en/summary.md` | Printed book (OCR/scan) — English — Summary / analysis |
+| `book/kn/full.md`    | Printed book (OCR/scan) — Kannada — Structured text with TOC + cross-links |
+| `book/kn/raw.md`     | Printed book (OCR/scan) — Kannada — Raw OCR/source — do not edit |
+| `book/eke/full.md`   | Printed book (OCR/scan) — Eke romanisation — Structured text with TOC + cross-links |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 
 ## Where to Start
 
-- **Don’t read Kannada?** → [`25-kannaDa-vAkyagaLa-oLaracane-en.md`](./25-kannaDa-vAkyagaLa-oLaracane-en.md) — English summaries
-- **Want the phonetics?** → [`25-kannaDa-vAkyagaLa-oLaracane-kn-eke.md`](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke.md) — Eke romanisation
-- **AI context primer?** → [`25-kannaDa-vAkyagaLa-oLaracane-claude-prompt.md`](./25-kannaDa-vAkyagaLa-oLaracane-claude-prompt.md)
-- **Full Kannada text?** → [`25-kannaDa-vAkyagaLa-oLaracane-book.md`](./25-kannaDa-vAkyagaLa-oLaracane-book.md)
+- **Don't read Kannada?** → [`book/en/summary.md`](./book/en/summary.md) — English summaries
+- **Want the phonetics?** → [`book/eke/full.md`](./book/eke/full.md) — Eke romanisation
+- **Full Kannada text?** → [`book/kn/full.md`](./book/kn/full.md) — structured with TOC
+- **AI context primer?** → [`claude-prompt.md`](./claude-prompt.md)
 
 ---
 
@@ -3863,10 +3866,10 @@ For the full usable text on Havyaka grammar, see [Book 20](../20-havyaka-outline
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| [`26-uli-mArpADina-geregaLu.md`](./26-uli-mArpADina-geregaLu.md) | Stub — Wayback snapshot exists (2024-06-21) but is Cloudflare-blocked |
-| [`26-uli-mArpADina-geregaLu-website.md`](./26-uli-mArpADina-geregaLu-website.md) | Website content stub from dnshankarabhat.net |
+| File                 | Contents |
+| ----                 | -------- |
+| `description-raw.md` | Book description blurb from dnshankarabhat.net |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 
@@ -3886,21 +3889,23 @@ For the full usable text on Havyaka grammar, see [Book 20](../20-havyaka-outline
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| [`27-bhASheya-bagge-book.md`](./27-bhASheya-bagge-book.md) | Raw OCR text — Sarvam Vision API output (9,098 lines, 287k Kannada chars) |
-| [`27-bhASheya-bagge-kn-eke.md`](./27-bhASheya-bagge-kn-eke.md) | Eke romanisation — readable without Kannada script |
-| [`27-bhASheya-bagge-en.md`](./27-bhASheya-bagge-en.md) | English summaries — start here if you don’t read Kannada |
-| [`27-bhASheya-bagge-claude-prompt.md`](./27-bhASheya-bagge-claude-prompt.md) | AI context primer: key terms, thesis, chapter map |
+| File                 | Contents |
+| ----                 | -------- |
+| `claude-prompt.md`   | AI context primer (all sources) |
+| `book/en/summary.md` | Printed book (OCR/scan) — English — Summary / analysis |
+| `book/kn/full.md`    | Printed book (OCR/scan) — Kannada — Structured text with TOC + cross-links |
+| `book/kn/raw.md`     | Printed book (OCR/scan) — Kannada — Raw OCR/source — do not edit |
+| `book/eke/full.md`   | Printed book (OCR/scan) — Eke romanisation — Structured text with TOC + cross-links |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 
 ## Where to Start
 
-- **Don’t read Kannada?** → [`27-bhASheya-bagge-en.md`](./27-bhASheya-bagge-en.md) — English summaries
-- **Want the phonetics?** → [`27-bhASheya-bagge-kn-eke.md`](./27-bhASheya-bagge-kn-eke.md) — Eke romanisation
-- **AI context primer?** → [`27-bhASheya-bagge-claude-prompt.md`](./27-bhASheya-bagge-claude-prompt.md)
-- **Full Kannada text?** → [`27-bhASheya-bagge-book.md`](./27-bhASheya-bagge-book.md)
+- **Don't read Kannada?** → [`book/en/summary.md`](./book/en/summary.md) — English summaries
+- **Want the phonetics?** → [`book/eke/full.md`](./book/eke/full.md) — Eke romanisation
+- **Full Kannada text?** → [`book/kn/full.md`](./book/kn/full.md) — structured with TOC
+- **AI context primer?** → [`claude-prompt.md`](./claude-prompt.md)
 
 ---
 
@@ -3920,23 +3925,23 @@ For the full usable text on Havyaka grammar, see [Book 20](../20-havyaka-outline
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| [`28-kannaDakke-bEku-book.md`](./28-kannaDakke-bEku-book.md) | Raw OCR text — Sarvam Vision API + WX-decoded output (12,789 lines, 304k Kannada chars) |
-| [`28-kannaDakke-bEku-kn.md`](./28-kannaDakke-bEku-kn.md) | **OCR-cleaned Kannada text** — 3-pass character + structural artifact cleanup (9,517 lines); 12 `<a id="adhyAya-N">` chapter anchors |
-| [`28-kannaDakke-bEku-kn-eke.md`](./28-kannaDakke-bEku-kn-eke.md) | Eke romanisation — readable without Kannada script (regenerated from kn.md) |
-| [`28-kannaDakke-bEku-en.md`](./28-kannaDakke-bEku-en.md) | English summaries — start here if you don't read Kannada (25 KB; 13 chapter anchors) |
-| [`28-kannaDakke-bEku-claude-prompt.md`](./28-kannaDakke-bEku-claude-prompt.md) | AI context primer: key terms, thesis, chapter map (20 KB) |
+| File                 | Contents |
+| ----                 | -------- |
+| `claude-prompt.md`   | AI context primer (all sources) |
+| `book/en/summary.md` | Printed book (OCR/scan) — English — Summary / analysis |
+| `book/kn/full.md`    | Printed book (OCR/scan) — Kannada — Structured text with TOC + cross-links |
+| `book/kn/raw.md`     | Printed book (OCR/scan) — Kannada — Raw OCR/source — do not edit |
+| `book/eke/full.md`   | Printed book (OCR/scan) — Eke romanisation — Structured text with TOC + cross-links |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 
 ## Where to Start
 
-- **Don't read Kannada?** → [`28-kannaDakke-bEku-en.md`](./28-kannaDakke-bEku-en.md) — English summaries
-- **Want the phonetics?** → [`28-kannaDakke-bEku-kn-eke.md`](./28-kannaDakke-bEku-kn-eke.md) — Eke romanisation
-- **Clean Kannada text?** → [`28-kannaDakke-bEku-kn.md`](./28-kannaDakke-bEku-kn.md) — OCR-cleaned, with chapter anchors
-- **AI context primer?** → [`28-kannaDakke-bEku-claude-prompt.md`](./28-kannaDakke-bEku-claude-prompt.md)
-- **Raw OCR?** → [`28-kannaDakke-bEku-book.md`](./28-kannaDakke-bEku-book.md)
+- **Don't read Kannada?** → [`book/en/summary.md`](./book/en/summary.md) — English summaries
+- **Want the phonetics?** → [`book/eke/full.md`](./book/eke/full.md) — Eke romanisation
+- **Full Kannada text?** → [`book/kn/full.md`](./book/kn/full.md) — structured with TOC
+- **AI context primer?** → [`claude-prompt.md`](./claude-prompt.md)
 
 ---
 
@@ -3956,23 +3961,23 @@ For the full usable text on Havyaka grammar, see [Book 20](../20-havyaka-outline
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| [`29-kannaDa-vyAkaraNa-yAke-bEku-book.md`](./29-kannaDa-vyAkaraNa-yAke-bEku-book.md) | Raw OCR text — Sarvam Vision API + WX-decoded output (10,039 lines, 304k Kannada chars) |
-| [`29-kannaDa-vyAkaraNa-yAke-bEku-kn.md`](./29-kannaDa-vyAkaraNa-yAke-bEku-kn.md) | **OCR-cleaned Kannada text** — 11 `<a id="adhyAya-N">` chapter anchors |
-| [`29-kannaDa-vyAkaraNa-yAke-bEku-kn-eke.md`](./29-kannaDa-vyAkaraNa-yAke-bEku-kn-eke.md) | Eke romanisation — readable without Kannada script (12 KB) |
-| [`29-kannaDa-vyAkaraNa-yAke-bEku-en.md`](./29-kannaDa-vyAkaraNa-yAke-bEku-en.md) | English summaries — start here if you don't read Kannada (28 KB; 12 chapter anchors) |
-| [`29-kannaDa-vyAkaraNa-yAke-bEku-claude-prompt.md`](./29-kannaDa-vyAkaraNa-yAke-bEku-claude-prompt.md) | AI context primer: key terms, thesis, chapter map (19 KB) |
+| File                 | Contents |
+| ----                 | -------- |
+| `claude-prompt.md`   | AI context primer (all sources) |
+| `book/en/summary.md` | Printed book (OCR/scan) — English — Summary / analysis |
+| `book/kn/full.md`    | Printed book (OCR/scan) — Kannada — Structured text with TOC + cross-links |
+| `book/kn/raw.md`     | Printed book (OCR/scan) — Kannada — Raw OCR/source — do not edit |
+| `book/eke/full.md`   | Printed book (OCR/scan) — Eke romanisation — Structured text with TOC + cross-links |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 
 ## Where to Start
 
-- **Don't read Kannada?** → [`29-kannaDa-vyAkaraNa-yAke-bEku-en.md`](./29-kannaDa-vyAkaraNa-yAke-bEku-en.md) — English summaries
-- **Want the phonetics?** → [`29-kannaDa-vyAkaraNa-yAke-bEku-kn-eke.md`](./29-kannaDa-vyAkaraNa-yAke-bEku-kn-eke.md) — Eke romanisation
-- **Clean Kannada text?** → [`29-kannaDa-vyAkaraNa-yAke-bEku-kn.md`](./29-kannaDa-vyAkaraNa-yAke-bEku-kn.md) — OCR-cleaned, with chapter anchors
-- **AI context primer?** → [`29-kannaDa-vyAkaraNa-yAke-bEku-claude-prompt.md`](./29-kannaDa-vyAkaraNa-yAke-bEku-claude-prompt.md)
-- **Raw OCR?** → [`29-kannaDa-vyAkaraNa-yAke-bEku-book.md`](./29-kannaDa-vyAkaraNa-yAke-bEku-book.md)
+- **Don't read Kannada?** → [`book/en/summary.md`](./book/en/summary.md) — English summaries
+- **Want the phonetics?** → [`book/eke/full.md`](./book/eke/full.md) — Eke romanisation
+- **Full Kannada text?** → [`book/kn/full.md`](./book/kn/full.md) — structured with TOC
+- **AI context primer?** → [`claude-prompt.md`](./claude-prompt.md)
 
 ---
 

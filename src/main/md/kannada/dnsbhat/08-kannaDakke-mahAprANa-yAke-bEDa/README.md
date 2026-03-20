@@ -11,28 +11,25 @@ This was the **first fully structured book** in this collection and served as th
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| `08-kannaDakke-mahAprANa-yAke-bEDa.md` | Original collected stub |
-| `08-kannaDakke-mahAprANa-yAke-bEDa-book.md` | Clean archive.org text — 4,243 lines (primary source) |
-| `08-kannaDakke-mahAprANa-yAke-bEDa-djvu.md` | DjVu OCR text (raw, may have minor errors) |
-| `08-kannaDakke-mahAprANa-yAke-bEDa-kn.md` | Structured Kannada with TOC and `<a id>` anchors — 5 chapters |
-| `08-kannaDakke-mahAprANa-yAke-bEDa-kn-eke.md` | Eke romanisation — readable without Kannada script |
-| `08-kannaDakke-mahAprANa-yAke-bEDa-en.md` | English summaries — start here if you don't read Kannada |
-| `08-kannaDakke-mahAprANa-yAke-bEDa-claude-prompt.md` | AI context primer: key terms, thesis, chapter map |
-| `08-kannaDakke-mahAprANa-yAke-bEDa-website.md` | Website content stub / URL record |
-
-**Chapters:** 1. ಮುನ್ನೋಟ · 2. ಓದುವ ಹಾಗೆ ಬರೆಯುವುದು · 3. ಮಾರ್ಬಡಿಸಿಕೊಂಡಿರುವ ಬೇರೆ ನುಡಿಗಳು · 4. ಸರಿಪಡಿಕೆಯ ಎದುರಿಕೆಗಳು · 5. ಮುಕ್ತಾಯ
+| File                  | Contents |
+| ----                  | -------- |
+| `claude-prompt.md`    | AI context primer (all sources) |
+| `description-raw.md`  | Book description blurb from dnshankarabhat.net |
+| `book/en/summary.md`  | Printed book (OCR/scan) — English — Summary / analysis |
+| `book/kn/full.md`     | Printed book (OCR/scan) — Kannada — Structured text with TOC + cross-links |
+| `book/kn/raw.md`      | Printed book (OCR/scan) — Kannada — Raw OCR/source — do not edit |
+| `book/kn/raw-djvu.md` | Printed book (OCR/scan) — Kannada — Alternate DJVU extraction — do not edit |
+| `book/eke/full.md`    | Printed book (OCR/scan) — Eke romanisation — Structured text with TOC + cross-links |
+| `youtube/kn/full.md`  | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 
 ## Where to Start
 
-- **Don't read Kannada?** → [`-en.md`](./08-kannaDakke-mahAprANa-yAke-bEDa-en.md) — English summaries
-- **Want the phonetics?** → [`-kn-eke.md`](./08-kannaDakke-mahAprANa-yAke-bEDa-kn-eke.md) — Eke romanisation
-- **Structured Kannada?** → [`-kn.md`](./08-kannaDakke-mahAprANa-yAke-bEDa-kn.md) — TOC + chapter anchors
-- **Full Kannada text?** → [`-book.md`](./08-kannaDakke-mahAprANa-yAke-bEDa-book.md) — clean archive.org source
-- **AI context primer?** → [`-claude-prompt.md`](./08-kannaDakke-mahAprANa-yAke-bEDa-claude-prompt.md)
+- **Don't read Kannada?** → [`book/en/summary.md`](./book/en/summary.md) — English summaries
+- **Want the phonetics?** → [`book/eke/full.md`](./book/eke/full.md) — Eke romanisation
+- **Full Kannada text?** → [`book/kn/full.md`](./book/kn/full.md) — structured with TOC
+- **AI context primer?** → [`claude-prompt.md`](./claude-prompt.md)
 
 ---
 

@@ -9,10 +9,10 @@
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| [`26-uli-mArpADina-geregaLu.md`](./26-uli-mArpADina-geregaLu.md) | Stub — Wayback snapshot exists (2024-06-21) but is Cloudflare-blocked |
-| [`26-uli-mArpADina-geregaLu-website.md`](./26-uli-mArpADina-geregaLu-website.md) | Website content stub from dnshankarabhat.net |
+| File                 | Contents |
+| ----                 | -------- |
+| `description-raw.md` | Book description blurb from dnshankarabhat.net |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 

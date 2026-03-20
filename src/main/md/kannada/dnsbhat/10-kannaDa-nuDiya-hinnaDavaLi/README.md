@@ -9,10 +9,10 @@
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| `10-kannaDa-nuDiya-hinnaDavaLi.md` | YouTube transcript — 131 lines, heavily corrupted |
-| `10-kannaDa-nuDiya-hinnaDavaLi-website.md` | Website content stub / URL record |
+| File                 | Contents |
+| ----                 | -------- |
+| `description-raw.md` | Book description blurb from dnshankarabhat.net |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 

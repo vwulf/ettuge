@@ -9,10 +9,10 @@
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| [`11-kannaDa-barahada-padasamasye.md`](./11-kannaDa-barahada-padasamasye.md) | Raw YouTube transcript — heavily corrupted, 253 lines |
-| [`11-kannaDa-barahada-padasamasye-website.md`](./11-kannaDa-barahada-padasamasye-website.md) | Website content stub / URL record |
+| File                 | Contents |
+| ----                 | -------- |
+| `description-raw.md` | Book description blurb from dnshankarabhat.net |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 

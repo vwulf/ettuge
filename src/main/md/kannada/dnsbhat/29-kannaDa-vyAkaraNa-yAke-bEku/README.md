@@ -9,23 +9,23 @@
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| [`29-kannaDa-vyAkaraNa-yAke-bEku-book.md`](./29-kannaDa-vyAkaraNa-yAke-bEku-book.md) | Raw OCR text — Sarvam Vision API + WX-decoded output (10,039 lines, 304k Kannada chars) |
-| [`29-kannaDa-vyAkaraNa-yAke-bEku-kn.md`](./29-kannaDa-vyAkaraNa-yAke-bEku-kn.md) | **OCR-cleaned Kannada text** — 11 `<a id="adhyAya-N">` chapter anchors |
-| [`29-kannaDa-vyAkaraNa-yAke-bEku-kn-eke.md`](./29-kannaDa-vyAkaraNa-yAke-bEku-kn-eke.md) | Eke romanisation — readable without Kannada script (12 KB) |
-| [`29-kannaDa-vyAkaraNa-yAke-bEku-en.md`](./29-kannaDa-vyAkaraNa-yAke-bEku-en.md) | English summaries — start here if you don't read Kannada (28 KB; 12 chapter anchors) |
-| [`29-kannaDa-vyAkaraNa-yAke-bEku-claude-prompt.md`](./29-kannaDa-vyAkaraNa-yAke-bEku-claude-prompt.md) | AI context primer: key terms, thesis, chapter map (19 KB) |
+| File                 | Contents |
+| ----                 | -------- |
+| `claude-prompt.md`   | AI context primer (all sources) |
+| `book/en/summary.md` | Printed book (OCR/scan) — English — Summary / analysis |
+| `book/kn/full.md`    | Printed book (OCR/scan) — Kannada — Structured text with TOC + cross-links |
+| `book/kn/raw.md`     | Printed book (OCR/scan) — Kannada — Raw OCR/source — do not edit |
+| `book/eke/full.md`   | Printed book (OCR/scan) — Eke romanisation — Structured text with TOC + cross-links |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 
 ## Where to Start
 
-- **Don't read Kannada?** → [`29-kannaDa-vyAkaraNa-yAke-bEku-en.md`](./29-kannaDa-vyAkaraNa-yAke-bEku-en.md) — English summaries
-- **Want the phonetics?** → [`29-kannaDa-vyAkaraNa-yAke-bEku-kn-eke.md`](./29-kannaDa-vyAkaraNa-yAke-bEku-kn-eke.md) — Eke romanisation
-- **Clean Kannada text?** → [`29-kannaDa-vyAkaraNa-yAke-bEku-kn.md`](./29-kannaDa-vyAkaraNa-yAke-bEku-kn.md) — OCR-cleaned, with chapter anchors
-- **AI context primer?** → [`29-kannaDa-vyAkaraNa-yAke-bEku-claude-prompt.md`](./29-kannaDa-vyAkaraNa-yAke-bEku-claude-prompt.md)
-- **Raw OCR?** → [`29-kannaDa-vyAkaraNa-yAke-bEku-book.md`](./29-kannaDa-vyAkaraNa-yAke-bEku-book.md)
+- **Don't read Kannada?** → [`book/en/summary.md`](./book/en/summary.md) — English summaries
+- **Want the phonetics?** → [`book/eke/full.md`](./book/eke/full.md) — Eke romanisation
+- **Full Kannada text?** → [`book/kn/full.md`](./book/kn/full.md) — structured with TOC
+- **AI context primer?** → [`claude-prompt.md`](./claude-prompt.md)
 
 ---
 

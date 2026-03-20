@@ -9,26 +9,27 @@
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| `07-kannaDa-barahada-sollarime.md` | YouTube transcript — original collected text |
-| `07-kannaDa-barahada-sollarime-vol1-book.md` | Sarvam Vision OCR of Vol 1 — 24,825 lines, WX-decoded (phonology) |
-| `07-kannaDa-barahada-sollarime-vol2-book.md` | Sarvam Vision OCR of Vol 2 — 15,300 lines, WX-decoded (morphology) |
-| `07-kannaDa-barahada-sollarime-kn-eke.md` | Eke romanisation — readable without Kannada script — 9 KB |
-| `07-kannaDa-barahada-sollarime-en.md` | English summaries — start here if you don't read Kannada — 41 KB |
-| `07-kannaDa-barahada-sollarime-claude-prompt.md` | AI context primer: key terms, thesis, chapter map — 18 KB |
-| `07-kannaDa-barahada-sollarime-website.md` | Website content stub / URL record |
-
-Note: Vols 3–7 PDFs have not been found. The vol 1+2 PDFs used old WX Kannada font encoding and were decoded via `wx_decode.py`.
+| File                    | Contents |
+| ----                    | -------- |
+| `claude-prompt.md`      | AI context primer (all sources) |
+| `description-raw.md`    | Book description blurb from dnshankarabhat.net |
+| `book/vol1/kn/full.md`  | Printed book (OCR/scan) Vol 1 — Kannada — Structured text with TOC + cross-links |
+| `book/vol1/kn/raw.md`   | Printed book (OCR/scan) Vol 1 — Kannada — Raw OCR/source — do not edit |
+| `book/vol1/eke/full.md` | Printed book (OCR/scan) Vol 1 — Eke romanisation — Structured text with TOC + cross-links |
+| `book/vol2/kn/full.md`  | Printed book (OCR/scan) Vol 2 — Kannada — Structured text with TOC + cross-links |
+| `book/vol2/kn/raw.md`   | Printed book (OCR/scan) Vol 2 — Kannada — Raw OCR/source — do not edit |
+| `book/vol2/eke/full.md` | Printed book (OCR/scan) Vol 2 — Eke romanisation — Structured text with TOC + cross-links |
+| `book/en/summary.md`    | Printed book (OCR/scan) — English — Summary / analysis |
+| `book/eke/full.md`      | Printed book (OCR/scan) — Eke romanisation — Structured text with TOC + cross-links |
+| `youtube/kn/full.md`    | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 
 ## Where to Start
 
-- **Don't read Kannada?** → [`-en.md`](./07-kannaDa-barahada-sollarime-en.md) — English summaries covering both volumes (41 KB)
-- **Want the phonetics?** → [`-kn-eke.md`](./07-kannaDa-barahada-sollarime-kn-eke.md) — Eke romanisation overview
-- **Full Kannada text?** → [`-vol1-book.md`](./07-kannaDa-barahada-sollarime-vol1-book.md) (phonology) or [`-vol2-book.md`](./07-kannaDa-barahada-sollarime-vol2-book.md) (morphology)
-- **AI context primer?** → [`-claude-prompt.md`](./07-kannaDa-barahada-sollarime-claude-prompt.md)
+- **Don't read Kannada?** → [`book/en/summary.md`](./book/en/summary.md) — English summaries
+- **Want the phonetics?** → [`book/eke/full.md`](./book/eke/full.md) — Eke romanisation
+- **AI context primer?** → [`claude-prompt.md`](./claude-prompt.md)
 
 ---
 

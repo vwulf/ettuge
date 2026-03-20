@@ -9,25 +9,26 @@
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| [`nijakkU-haLegannaDa-vyAkaraNa-entahadu-book.md`](./nijakkU-haLegannaDa-vyAkaraNa-entahadu-book.md) | Raw OCR / extracted Kannada text (original collected filename, without `14-` prefix) |
-| [`14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn.md`](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn.md) | Structured Kannada with TOC and `<a id>` anchors — 12 chapters |
-| [`14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke.md`](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke.md) | Eke romanisation — readable without Kannada script |
-| [`14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en.md`](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en.md) | English summaries — start here if you don't read Kannada |
-| [`14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-claude-prompt.md`](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-claude-prompt.md) | AI context primer: key terms, thesis, chapter map |
-| [`14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-blog.md`](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-blog.md) | 7 posts of the *ಶಬ್ದಮಣಿದರ್ಪಣದಲ್ಲಿ ತಳಮಟ್ಟದ ತಪ್ಪುಗಳು* series (May–June 2017) |
-| [`14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-djvu.md`](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-djvu.md) | DjVu OCR text (raw, may have minor errors) |
-| [`14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-website.md`](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-website.md) | Website content stub / URL record |
+| File                  | Contents |
+| ----                  | -------- |
+| `claude-prompt.md`    | AI context primer (all sources) |
+| `description-raw.md`  | Book description blurb from dnshankarabhat.net |
+| `book/en/summary.md`  | Printed book (OCR/scan) — English — Summary / analysis |
+| `book/kn/full.md`     | Printed book (OCR/scan) — Kannada — Structured text with TOC + cross-links |
+| `book/kn/raw.md`      | Printed book (OCR/scan) — Kannada — Raw OCR/source — do not edit |
+| `book/kn/raw-djvu.md` | Printed book (OCR/scan) — Kannada — Alternate DJVU extraction — do not edit |
+| `book/eke/full.md`    | Printed book (OCR/scan) — Eke romanisation — Structured text with TOC + cross-links |
+| `web/kn/raw.md`       | Web / blog post — Kannada — Raw OCR/source — do not edit |
+| `youtube/kn/full.md`  | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 
 ## Where to Start
 
-- **Don't read Kannada?** → [`14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en.md`](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en.md) — English summaries
-- **Want the phonetics?** → [`14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke.md`](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke.md) — Eke romanisation
-- **AI context primer?** → [`14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-claude-prompt.md`](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-claude-prompt.md)
-- **Full Kannada text?** → [`nijakkU-haLegannaDa-vyAkaraNa-entahadu-book.md`](./nijakkU-haLegannaDa-vyAkaraNa-entahadu-book.md)
+- **Don't read Kannada?** → [`book/en/summary.md`](./book/en/summary.md) — English summaries
+- **Want the phonetics?** → [`book/eke/full.md`](./book/eke/full.md) — Eke romanisation
+- **Full Kannada text?** → [`book/kn/full.md`](./book/kn/full.md) — structured with TOC
+- **AI context primer?** → [`claude-prompt.md`](./claude-prompt.md)
 
 ---
 

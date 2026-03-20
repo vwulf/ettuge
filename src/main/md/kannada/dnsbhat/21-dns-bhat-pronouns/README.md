@@ -9,9 +9,9 @@
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| [`21-dns-bhat-pronouns.md`](./21-dns-bhat-pronouns.md) | Stub — PDF is in Google Drive but text has not yet been extracted |
+| File                 | Contents |
+| ----                 | -------- |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 

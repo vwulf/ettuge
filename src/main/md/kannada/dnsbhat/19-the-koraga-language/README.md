@@ -9,9 +9,9 @@
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| [`19-the-koraga-language.md`](./19-the-koraga-language.md) | Website/collection stub — PDF in Google Drive, not yet extracted |
+| File                 | Contents |
+| ----                 | -------- |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 

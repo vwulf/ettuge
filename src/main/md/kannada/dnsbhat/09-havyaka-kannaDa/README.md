@@ -9,12 +9,13 @@
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| `09-havyaka-kannaDa.md` | YouTube transcript — 387 lines, mostly corrupted |
-| `09-havyaka-kannaDa-website.md` | Website content stub / URL record |
-
-For the full usable text on Havyaka grammar, see [Book 20](../20-havyaka-outline-grammar/) — the academic English version with complete DjVu text.
+| File                    | Contents |
+| ----                    | -------- |
+| `claude-prompt.md`      | AI context primer (all sources) |
+| `description-raw.md`    | Book description blurb from dnshankarabhat.net |
+| `youtube/en/summary.md` | YouTube transcripts — English — Summary / analysis |
+| `youtube/kn/full.md`    | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
+| `youtube/eke/full.md`   | YouTube transcripts — Eke romanisation — Structured text with TOC + cross-links |
 
 ---
 

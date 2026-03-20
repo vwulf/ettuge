@@ -9,10 +9,10 @@
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| `01-idu-kannaDaddE-vyAkaraNa.md` | YouTube transcript (Malati Bhat reading) — 49 lines, partial |
-| `01-idu-kannaDaddE-vyAkaraNa-website.md` | Website content stub / URL record |
+| File                 | Contents |
+| ----                 | -------- |
+| `description-raw.md` | Book description blurb from dnshankarabhat.net |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 

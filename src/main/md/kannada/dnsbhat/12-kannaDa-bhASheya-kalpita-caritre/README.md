@@ -9,10 +9,10 @@
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| [`12-kannaDa-bhASheya-kalpita-caritre.md`](./12-kannaDa-bhASheya-kalpita-caritre.md) | Raw YouTube transcript — very short excerpt, 29 lines |
-| [`12-kannaDa-bhASheya-kalpita-caritre-website.md`](./12-kannaDa-bhASheya-kalpita-caritre-website.md) | Website content stub / URL record |
+| File                 | Contents |
+| ----                 | -------- |
+| `description-raw.md` | Book description blurb from dnshankarabhat.net |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 

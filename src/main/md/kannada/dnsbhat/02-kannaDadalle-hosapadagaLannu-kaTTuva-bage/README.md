@@ -9,24 +9,24 @@
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| `02-kannaDadalle-hosapadagaLannu-kaTTuva-bage.md` | YouTube transcript — original collected text |
-| `02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn.md` | Structured Kannada with TOC and `<a id>` anchors — 547 lines, 17 chapters |
-| `02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke.md` | Eke romanisation — readable without Kannada script — 830 lines, 43 KB |
-| `02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en.md` | English summaries — start here if you don't read Kannada |
-| `02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-blog.md` | 15 blog posts from dnshankarabhat.net — 6,469 lines |
-| `02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-claude-prompt.md` | AI context primer: key terms, thesis, chapter map |
-| `02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-website.md` | Website content stub / URL record |
+| File                 | Contents |
+| ----                 | -------- |
+| `claude-prompt.md`   | AI context primer (all sources) |
+| `description-raw.md` | Book description blurb from dnshankarabhat.net |
+| `web/en/summary.md`  | Web / blog post — English — Summary / analysis |
+| `web/kn/full.md`     | Web / blog post — Kannada — Structured text with TOC + cross-links |
+| `web/kn/raw.md`      | Web / blog post — Kannada — Raw OCR/source — do not edit |
+| `web/eke/full.md`    | Web / blog post — Eke romanisation — Structured text with TOC + cross-links |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 
 ## Where to Start
 
-- **Don't read Kannada?** → [`-en.md`](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en.md) — English summaries
-- **Want the phonetics?** → [`-kn-eke.md`](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke.md) — Eke romanisation (830 lines)
-- **Structured Kannada?** → [`-kn.md`](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn.md) — TOC + anchors
-- **AI context primer?** → [`-claude-prompt.md`](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-claude-prompt.md)
+- **Don't read Kannada?** → [`web/en/summary.md`](./web/en/summary.md) — English summaries
+- **Want the phonetics?** → [`web/eke/full.md`](./web/eke/full.md) — Eke romanisation
+- **Full Kannada text?** → [`web/kn/full.md`](./web/kn/full.md) — structured with TOC
+- **AI context primer?** → [`claude-prompt.md`](./claude-prompt.md)
 
 ---
 

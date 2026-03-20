@@ -9,10 +9,10 @@
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| [`24-grammatical-relations.md`](./24-grammatical-relations.md) | Stub — text not yet collected |
-| [`24-grammatical-relations-website.md`](./24-grammatical-relations-website.md) | Website content stub from dnshankarabhat.net (archived 2016, 2018) |
+| File                 | Contents |
+| ----                 | -------- |
+| `description-raw.md` | Book description blurb from dnshankarabhat.net |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 

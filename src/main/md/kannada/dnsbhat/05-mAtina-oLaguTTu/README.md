@@ -9,11 +9,13 @@
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| `05-mAtina-oLaguTTu.md` | YouTube transcript — 539 lines, good quality |
-| `05-mAtina-oLaguTTu-summary-prompt.md` | AI summary / analysis prompt for this book |
-| `05-mAtina-oLaguTTu-website.md` | Website content stub / URL record |
+| File                    | Contents |
+| ----                    | -------- |
+| `claude-prompt.md`      | AI context primer (all sources) |
+| `description-raw.md`    | Book description blurb from dnshankarabhat.net |
+| `youtube/en/summary.md` | YouTube transcripts — English — Summary / analysis |
+| `youtube/kn/full.md`    | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
+| `youtube/eke/full.md`   | YouTube transcripts — Eke romanisation — Structured text with TOC + cross-links |
 
 ---
 

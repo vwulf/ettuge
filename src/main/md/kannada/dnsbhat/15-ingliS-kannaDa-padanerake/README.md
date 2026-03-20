@@ -9,24 +9,23 @@
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| [`15-ingliS-kannaDa-padanerake.md`](./15-ingliS-kannaDa-padanerake.md) | Original transcript or main collected text |
-| [`15-ingliS-kannaDa-padanerake-book.md`](./15-ingliS-kannaDa-padanerake-book.md) | Raw OCR / extracted Kannada text — hybrid-extracted (3,454 lines, 84,475 Kannada Unicode chars) |
-| [`15-ingliS-kannaDa-padanerake-sample.md`](./15-ingliS-kannaDa-padanerake-sample.md) | Raw sample PDF stub — letter A (53-page pre-print) |
-| [`15-ingliS-kannaDa-padanerake-kn-eke.md`](./15-ingliS-kannaDa-padanerake-kn-eke.md) | Eke romanisation — covers preface, conventions, and all A–Az dictionary entries |
-| [`15-ingliS-kannaDa-padanerake-en.md`](./15-ingliS-kannaDa-padanerake-en.md) | English summaries — start here if you don't read Kannada |
-| [`15-ingliS-kannaDa-padanerake-claude-prompt.md`](./15-ingliS-kannaDa-padanerake-claude-prompt.md) | AI context primer: 6-step decision tree, 11 domain-cluster tables, 100 curated entries |
-| [`15-ingliS-kannaDa-padanerake-website.md`](./15-ingliS-kannaDa-padanerake-website.md) | Website content stub / URL record |
+| File                 | Contents |
+| ----                 | -------- |
+| `claude-prompt.md`   | AI context primer (all sources) |
+| `description-raw.md` | Book description blurb from dnshankarabhat.net |
+| `book/en/summary.md` | Printed book (OCR/scan) — English — Summary / analysis |
+| `book/kn/raw.md`     | Printed book (OCR/scan) — Kannada — Raw OCR/source — do not edit |
+| `book/kn/sample.md`  | Printed book (OCR/scan) — Kannada — Sample excerpt |
+| `book/eke/full.md`   | Printed book (OCR/scan) — Eke romanisation — Structured text with TOC + cross-links |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 
 ## Where to Start
 
-- **Don't read Kannada?** → [`15-ingliS-kannaDa-padanerake-en.md`](./15-ingliS-kannaDa-padanerake-en.md) — English summaries
-- **Want the phonetics?** → [`15-ingliS-kannaDa-padanerake-kn-eke.md`](./15-ingliS-kannaDa-padanerake-kn-eke.md) — Eke romanisation
-- **AI context primer?** → [`15-ingliS-kannaDa-padanerake-claude-prompt.md`](./15-ingliS-kannaDa-padanerake-claude-prompt.md)
-- **Full Kannada text?** → [`15-ingliS-kannaDa-padanerake-book.md`](./15-ingliS-kannaDa-padanerake-book.md)
+- **Don't read Kannada?** → [`book/en/summary.md`](./book/en/summary.md) — English summaries
+- **Want the phonetics?** → [`book/eke/full.md`](./book/eke/full.md) — Eke romanisation
+- **AI context primer?** → [`claude-prompt.md`](./claude-prompt.md)
 
 ---
 

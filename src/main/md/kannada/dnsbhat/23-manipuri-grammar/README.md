@@ -9,10 +9,10 @@
 
 ## Files in This Folder
 
-| File | Contents |
-|------|----------|
-| [`23-manipuri-grammar.md`](./23-manipuri-grammar.md) | Stub — text not yet collected |
-| [`23-manipuri-grammar-website.md`](./23-manipuri-grammar-website.md) | Website content stub from dnshankarabhat.net (archived 2015, 2018) |
+| File                 | Contents |
+| ----                 | -------- |
+| `description-raw.md` | Book description blurb from dnshankarabhat.net |
+| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 
