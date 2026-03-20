@@ -22,9 +22,9 @@
 
 ## Where to Start
 
-- **Don't read Kannada?** → [`web/en/summary.md`](./web/en/summary.md) — English summaries
-- **Want the phonetics?** → [`web/eke/full.md`](./web/eke/full.md) — Eke romanisation
-- **AI context primer?** → [`claude-prompt.md`](./claude-prompt.md)
+- **Don't read Kannada?** → [`web/en/summary.md`](./web/en/summary) — English summaries
+- **Want the phonetics?** → [`web/eke/full.md`](./web/eke/full) — Eke romanisation
+- **AI context primer?** → [`claude-prompt.md`](./claude-prompt)
 
 ---
 

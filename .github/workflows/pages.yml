@@ -194,17 +194,19 @@ jobs:
               m = re.search(r'^\*\*((?:✅|⚠️)[^\n]+)\*\*', readme, re.MULTILINE)
               status_line = m.group(1) if m else ''
 
-              # Link table pointing to new taxonomy paths
+              # Link table — strip .md so Jekyll serves the HTML page URL
+              def url(rel): return rel[:-3] if rel and rel.endswith('.md') else rel
+
               link_rows = []
               if kn_path:
-                  link_rows.append(f'| 📖 Kannada text | [ಕನ್ನಡ](./{kn_rel}) |')
+                  link_rows.append(f'| 📖 Kannada text | [ಕನ್ನಡ](./{url(kn_rel)}) |')
               if en_path:
-                  link_rows.append(f'| 🇬🇧 English summary | [English](./{en_rel}) |')
+                  link_rows.append(f'| 🇬🇧 English summary | [English](./{url(en_rel)}) |')
               if eke_path:
-                  link_rows.append(f'| 🔤 Eke romanisation | [Eke](./{eke_rel}) |')
+                  link_rows.append(f'| 🔤 Eke romanisation | [Eke](./{url(eke_rel)}) |')
               web_raw = os.path.join(book_path, 'web', 'kn', 'raw.md')
               if os.path.exists(web_raw):
-                  link_rows.append('| 📝 DNS Bhat blog | [Blog](./web/kn/raw.md) |')
+                  link_rows.append('| 📝 DNS Bhat blog | [Blog](./web/kn/raw) |')
 
               body_parts = []
               if kn_title:

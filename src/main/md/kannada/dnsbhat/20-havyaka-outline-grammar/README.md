@@ -21,8 +21,8 @@
 
 ## Where to Start
 
-- **Don't read Kannada?** → [`book/en/summary.md`](./book/en/summary.md) — English summaries
-- **AI context primer?** → [`claude-prompt.md`](./claude-prompt.md)
+- **Don't read Kannada?** → [`book/en/summary.md`](./book/en/summary) — English summaries
+- **AI context primer?** → [`claude-prompt.md`](./claude-prompt)
 
 ---
 

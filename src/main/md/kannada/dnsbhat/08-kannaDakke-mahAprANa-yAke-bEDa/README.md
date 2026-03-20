@@ -26,10 +26,10 @@ This was the **first fully structured book** in this collection and served as th
 
 ## Where to Start
 
-- **Don't read Kannada?** → [`book/en/summary.md`](./book/en/summary.md) — English summaries
-- **Want the phonetics?** → [`book/eke/full.md`](./book/eke/full.md) — Eke romanisation
-- **Full Kannada text?** → [`book/kn/full.md`](./book/kn/full.md) — structured with TOC
-- **AI context primer?** → [`claude-prompt.md`](./claude-prompt.md)
+- **Don't read Kannada?** → [`book/en/summary.md`](./book/en/summary) — English summaries
+- **Want the phonetics?** → [`book/eke/full.md`](./book/eke/full) — Eke romanisation
+- **Full Kannada text?** → [`book/kn/full.md`](./book/kn/full) — structured with TOC
+- **AI context primer?** → [`claude-prompt.md`](./claude-prompt)
 
 ---
 

@@ -30,6 +30,11 @@ defaults:
 
 plugins:
   - jekyll-redirect-from
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
 
 exclude:
   - Gemfile

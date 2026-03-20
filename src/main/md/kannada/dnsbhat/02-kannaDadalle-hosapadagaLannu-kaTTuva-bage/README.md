@@ -23,10 +23,10 @@
 
 ## Where to Start
 
-- **Don't read Kannada?** → [`web/en/summary.md`](./web/en/summary.md) — English summaries
-- **Want the phonetics?** → [`web/eke/full.md`](./web/eke/full.md) — Eke romanisation
-- **Full Kannada text?** → [`web/kn/full.md`](./web/kn/full.md) — structured with TOC
-- **AI context primer?** → [`claude-prompt.md`](./claude-prompt.md)
+- **Don't read Kannada?** → [`web/en/summary.md`](./web/en/summary) — English summaries
+- **Want the phonetics?** → [`web/eke/full.md`](./web/eke/full) — Eke romanisation
+- **Full Kannada text?** → [`web/kn/full.md`](./web/kn/full) — structured with TOC
+- **AI context primer?** → [`claude-prompt.md`](./claude-prompt)
 
 ---
 

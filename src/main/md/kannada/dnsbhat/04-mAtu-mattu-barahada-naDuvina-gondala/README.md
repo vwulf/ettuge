@@ -21,9 +21,9 @@
 
 ## Where to Start
 
-- **Don't read Kannada?** → [`youtube/en/summary.md`](./youtube/en/summary.md) — English summaries
-- **Want the phonetics?** → [`youtube/eke/full.md`](./youtube/eke/full.md) — Eke romanisation
-- **AI context primer?** → [`claude-prompt.md`](./claude-prompt.md)
+- **Don't read Kannada?** → [`youtube/en/summary.md`](./youtube/en/summary) — English summaries
+- **Want the phonetics?** → [`youtube/eke/full.md`](./youtube/eke/full) — Eke romanisation
+- **AI context primer?** → [`claude-prompt.md`](./claude-prompt)
 
 ---
 
