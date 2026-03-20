@@ -144,7 +144,7 @@ jobs:
               en_path,  en_rel  = find_first(
                   'book/en/summary.md', 'web/en/summary.md', 'youtube/en/summary.md')
               kn_path,  kn_rel  = find_first(
-                  'book/kn/full.md', 'web/kn/full.md')
+                  'book/kn/full.md', 'book/vol1/kn/full.md', 'web/kn/full.md')
               eke_path, eke_rel = find_first(
                   'book/eke/full.md', 'book/vol1/eke/full.md',
                   'web/eke/full.md', 'youtube/eke/full.md')
