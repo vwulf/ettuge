@@ -1,8 +1,8 @@
-# Ettuge DNS Bhat — Book Primers, Part 1 (Books 02–25)
+# Ettuge DNS Bhat — Book Primers, Part 1
 
-Detailed AI context primers for DNS Bhat books 02–25: thesis, key terms, chapter map, notable examples.
+Detailed AI context primers for DNS Bhat books: thesis, key terms, chapter map, notable examples.
 For book catalogue and file structure, see `claude-project-instructions.md`.
-For books 27–29 primers, see `claude-book-primers-2.md`.
+For remaining book primers, see `claude-book-primers-2.md`.
 
 ---
 ---

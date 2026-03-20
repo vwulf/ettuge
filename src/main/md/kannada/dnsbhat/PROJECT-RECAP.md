@@ -1,5 +1,5 @@
 # DNS Bhat Ettuge Project — Recap
-*Last updated: 2026-03-19 (Phase 17)*
+*Last updated: 2026-03-20 (Phase 18)*
 
 ---
 
@@ -674,6 +674,18 @@ Commits: `500a296` (intermediate `^..^` convention — superseded), `971e918` (f
 
 ---
 
+### Phase 18 — docs/ sync + Noto Sans Kannada + ettuge-sync skill (2026-03-20)
+
+**Root cause fixed:** All 57 `docs/dnsbhat/` files were stale — Phase 17 OCR cleanup and kn.md changes went to `src/` but were never copied to `docs/` (the GitHub Pages source). This caused garbled rendering of books 25, 15, and all other Phase 17-touched books.
+
+**Changes:**
+- `docs/dnsbhat/` — synced 57 files from `src/main/md/kannada/dnsbhat/` preserving Jekyll nav front matter (`title`, `parent`, `nav_order`) in each file
+- `docs/_sass/custom/custom.scss` — added Noto Sans Kannada via Google Fonts for correct nukta (U+0CBC ಼) rendering; previously Georgia/system fonts silently dropped nukta-modified clusters
+- `.claude/skills/ettuge-sync/` — new skill (`ettuge-sync`) automates the full post-phase sync pipeline: staleness detection → CLAUDE.md updates → claude-prompt updates → docs/ sync → global skill copy → regenerate combined docs files → commit and push
+- `.claude/skills/ettuge-sync/scripts/sync_docs.py` — standalone script for src→docs sync (Step 4a of ettuge-sync skill)
+
+---
+
 ## Eke Romanisation System
 
 **Ellara KannaDa (Eke)** is a romanisation of Kannada devised by Vishwas — inspired by HK protocol and DNS Bhat's ideas, designed to be learnable by any Indian and usable by non-Kannada readers. It is the romanisation used throughout the `-kn-eke.md` files.
@@ -766,8 +778,7 @@ Books 16, 22, 23, 24, 26 — website stubs only.
 |------|-------|---------------|
 | Extract Book 19 PDF | 19 | The Koraga Language — pdftotext or Sarvam OCR; create en.md + claude-prompt.md |
 | Extract Book 21 PDF | 21 | Pronouns (Oxford) — likely Unicode PDF; create en.md + claude-prompt.md |
-| Fix nukta rendering — pick correct Kannada font for site | all | ಅ಼ಕಾರವಾಗುವುದು etc. render the nukta (U+0CBC ಼) incorrectly in the browser. Need to select a Kannada web font that supports nukta combinations (e.g. Noto Sans Kannada) and wire it into `docs/_config.yml` or a custom CSS file. |
-| Fix garbled book pages | 25, 15 | [Book 25 kn.md](https://vwulf.github.io/ettuge/dnsbhat/25-kannaDa-vAkyagaLa-oLaracane/25-kannaDa-vAkyagaLa-oLaracane-kn.html) and [Book 15 book.md](https://vwulf.github.io/ettuge/dnsbhat/15-ingliS-kannaDa-padanerake/15-ingliS-kannaDa-padanerake-book.html) render garbled — likely front matter or encoding issue. Audit Jekyll build output for these two files. |
+| Sync docs/ after every phase (run sync_docs.py) | all | `docs/dnsbhat/` is served by GitHub Pages but edits go to `src/main/md/kannada/dnsbhat/`. After any OCR or kn.md changes, run `python3 .claude/skills/ettuge-sync/scripts/sync_docs.py` to sync src→docs preserving Jekyll nav front matter. Already handled by the `ettuge-sync` skill (Step 4a). |
 | Fix OCR word-boundary splits | multiple | Words like `meccuge ay` should be `meccugAy` — OCR split at vowel boundaries. Audit all kn-eke.md files for space-separated suffix artifacts. |
 | Verify cross-links kn → en → eke | all books with kn.md | Now that en.md files have detailed per-section anchors (Phase 16–17), the `[English →]` links in kn.md and the `[ಕನ್nnaDa →]` links in kn-eke.md need a full audit pass to ensure every anchor target resolves correctly. |
 | Update Skills and CLAUDE.md files | — | `.claude/skills/kannada-ocr-cleaner/SKILL.md`, `dns-bhat-book-summarizer/SKILL.md`, `dns-bhat-transcript-summarizer/SKILL.md`, and relevant `CLAUDE.md` files need updating with Phase 17 learnings: nukta symbol (U+0CBC ಼) + Eke `:` suffix rule, archaic RA (ಱ→R), ೞ→Z, ಙ→G, ಞ→Y, Havyaka suffix `ᵒ`, unrounded-u `u^`, curly quote convention, Nudi Latin artifact table. |
