@@ -168,3 +168,6 @@ The book's central purpose is to correct widespread popular misconceptions about
 8. Note that this is part of a larger body of DNS Bhat's work: the technical linguistics trilogy (Books 01, 03, 25), the script reform argument (Book 08), the Sollarime phonology series (Book 07), and this popular introduction (Book 27).
 
 9. **Repository source (Phase 17):** A clean structured Kannada source file `27-bhASheya-bagge-kn.md` is available from the Sarvam Vision OCR pipeline. It has a ಒಳಪಿಡಿ TOC restructured in Phase 17 with `<a id="adhyAya-N">` anchors. The Eke romanisation file `27-bhASheya-bagge-kn-eke.md` mirrors the same structure. There are no citation-mark issues in this book — it does not use DNS Bhat's backtick-apostrophe typographic convention.
+
+
+10. **Repository source (Phase 19):** The kn.md already had 221 anchors (5 part-N, 32 sec-N-M, 184 sub-N-M-K). Phase 19 added `[Eke →]` cross-links after every sec/sub anchor in kn.md and `[ಕನ್nnaDa →]` links in kn-eke.md. Header has `[← ಸೂಚಿ](./README)` index back-link. Part anchors use `part-N` format; section and subsection use `sec-N-M` / `sub-N-M-K`.

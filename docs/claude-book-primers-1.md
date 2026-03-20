@@ -572,6 +572,12 @@ When given an English word to coin a native Kannada equivalent:
 **Source:** DNS Bhat's 18-part article series from dnshankarabhat.net, manually transcribed
 **Purpose:** AI system prompt reference for generating native Kannada words following Bhat's methodology
 
+---
+
+## Repository Source (Phase 19)
+
+A clean structured Kannada source file `02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn.md` is available with a 3-level deep TOC and `<a id="sec-N-M">` section anchors. After every section anchor there is a `[Eke →]` cross-link to the kn-eke.md; the kn-eke.md mirrors with `[ಕನ್nnaDa →]` links. Header block includes `[← ಸೂಚಿ](./README)` index back-link. Citation marks standardised to curly single quotes `'word'` (U+2018/U+2019).
+
 
 ---
 
@@ -750,6 +756,9 @@ The book also makes a sustained methodological argument: applying Sanskrit gramm
 7. Note that this book is part of a trilogy: for syntax questions, refer to Book 25; for an overview grammar, refer to Book 01.
 
 8. **Repository source (Phase 17):** A clean structured Kannada source file `03-kannaDa-padagaLa-oLaracane-kn.md` is available with paragraph breaks, a ಪರಿವಿಡಿ (Table of Contents), and `<a id="adhyAya-N">` anchors at each chapter. It also has deep section anchors (`<a id="sec-N-M">`) added in Phase 17. The Eke romanisation file `03-kannaDa-padagaLa-oLaracane-kn-eke.md` mirrors the same structure. DNS Bhat's typographic quotation marks (backtick open, apostrophe close) have been standardised to curly single quotes `'word'` (U+2018/U+2019) in kn.md and kn-eke.md.
+
+
+10. **Repository source (Phase 18/19):** Section numbering corrected (subsections 1.5.1–1.5.6 fixed from erroneous 1.6 labels). The kn.md now has a full 3-level deep TOC with `<a id="sec-N-M">` and `<a id="sub-N-M-K">` anchors throughout its 100-section, 3-level hierarchy. Cross-links `[Eke →]` / `[ಕನ್nnaDa →]` appear after every sec and sub anchor. Header has `[← ಸೂಚಿ](./README)` index back-link.
 
 
 ---
@@ -1284,6 +1293,9 @@ The book constitutes both a theoretical argument and a practical reference. As a
 9. **Repository source (Phase 17):** Clean structured Kannada source files now exist: `07-kannaDa-barahada-sollarime-vol1-kn.md` (phonology, Vol. 1) and `07-kannaDa-barahada-sollarime-vol2-kn.md` (morphology+syntax, Vol. 2). Each has a ಒಳಪಿಡಿ TOC and `<a id="adhyAya-N">` chapter anchors. Corresponding Eke files are `vol1-kn-eke.md` and `vol2-kn-eke.md`. DNS Bhat's typographic citation marks (backtick open, apostrophe close) have been standardised to curly single quotes `'word'` (U+2018/U+2019) in kn.md and kn-eke.md. Note: Vols 3–7 PDFs have not been located; only Vol. 1 and Vol. 2 are available in the repository.
 
 
+10. **Repository source (Phase 18/19):** Both vol1-kn.md and vol2-kn.md now have 3-level deep TOCs with `<a id="sec-N-M">` and `<a id="sub-N-M-K">` anchors. Cross-links `[Eke →]` appear after every sec/sub anchor in each kn.md; kn-eke.md files have matching `[ಕನ್nnaDa →]` links. Vol2 TOC preserves struck-through entries for unavailable volumes (3–7). Headers include `[← ಸೂಚಿ](./README)` back-links.
+
+
 ---
 
 ## Book 08 — 08-kannaDakke-mahAprANa-yAke-bEDa
@@ -1442,6 +1454,9 @@ When answering questions about this book:
 4. The book uses reformed/simplified Kannada spelling itself as a demonstration — e.g., writing "ಬಾರತ" instead of "ಭಾರತ", "ಬೇಡ" instead of "ಭೇಡ" etc. Keep this in mind when reading quoted text from the book.
 5. When asked for the author's opinion, always attribute it clearly to D.N. Shankara Bhat.
 6. Be able to distinguish between: (a) the author's thesis, (b) objections he anticipates, and (c) his rebuttals.
+
+
+10. **Repository source (Phase 19):** The kn.md now has a 3-level deep TOC with `<a id="sec-N-M">` and `<a id="sub-N-M-K">` anchors. Cross-links `[Eke →]` appear after each sec/sub anchor in kn.md; kn-eke.md has `[ಕನ್nnaDa →]` links. Header has `[← ಸೂಚಿ](./README)` index back-link and retains the `> ಮೂಲ ಪುಸ್ತಕ` link to the raw book file.
 
 
 ---
@@ -1913,6 +1928,9 @@ When answering questions about this book:
 5. Distinguish clearly between: (a) what Old Kannada grammar actually is (the author's findings), (b) what ancient grammarians claimed, and (c) what modern Kannada grammar textbooks claim.
 6. When asked for examples, note that the book contains detailed examples from Old Kannada texts (inscriptions and literary works) — provide general descriptions of the argument when specific examples are requested.
 7. The book is written in Kannada and uses reformed/simplified spelling consistent with D.N. Shankara Bhat's linguistic principles (e.g., preferring native Kannada grammatical terms where possible).
+
+
+10. **Repository source (Phase 19):** The kn.md now has a 3-level deep TOC with `<a id="sec-N-M">` and `<a id="sub-N-M-K">` anchors (164 total). Cross-links `[Eke →]` appear after each sec/sub anchor in kn.md; kn-eke.md has `[ಕನ್nnaDa →]` links. Header includes `[← ಸೂಚಿ](./README)` back-link and retains the `> ಮೂಲ ಪುಸ್ತಕ` link.
 
 
 ---
@@ -2433,6 +2451,9 @@ The book is addressed to an educated Kannada-speaking audience rather than profe
 9. **Repository source (Phase 17):** A clean structured Kannada source file `17-kannaDa-nuDi-naDeDu-banda-dAri-kn.md` is available, generated from the Sarvam Vision OCR + WX-decode pipeline with Nudi encoding artefacts resolved. It has a ಪರಿವಿಡಿ TOC and `<a id="adhyAya-N">` chapter anchors. The Eke romanisation file `17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke.md` mirrors the same structure, and includes `u^` markers for ಉ್ (unrounded-u, a Havyaka phoneme). DNS Bhat's typographic citation marks have been standardised to curly single quotes `'word'` (U+2018/U+2019). The book is written in *hosa baraha* (simplified spelling): aspirated consonants are suppressed (ಭ→ಬ, ಧ→ದ, ಥ→ತ, ಫ→ಪ, ಖ→ಕ, ಘ→ಗ, ಷ→ಸ).
 
 
+10. **Repository source (Phase 18/19):** The kn.md now has a 3-level deep TOC with `<a id="sec-N-M">` and `<a id="sub-N-M-K">` anchors. Cross-links `[Eke →]` appear after each sec/sub anchor in kn.md; kn-eke.md has `[ಕನ್nnaDa →]` links. Header has `[← ಸೂಚಿ](./README)` index back-link. Note: ~840 table-cell fragments from multi-column PDF tables are still isolated lines (table reconstruction requires PDF screenshots).
+
+
 ---
 
 ## Book 18 — 18-kannaDa-nuDiya-bagege-cintane
@@ -2827,4 +2848,7 @@ The book covers ten substantive chapters (Chapters 2–10) plus an introductory 
 8. When a question is about Kannada syntax more broadly and not specifically about claims made in this book, make clear when you are drawing on Bhat's framework versus general Dravidian/Kannada linguistics. The book is analytically rich but focused: it does not cover all aspects of Kannada syntax equally.
 
 9. **Repository source (Phase 17):** A clean structured Kannada source file `25-kannaDa-vAkyagaLa-oLaracane-kn.md` is available, generated from the Sarvam Vision OCR + WX-decode pipeline with Nudi encoding artefacts resolved. It has a ಪರಿವಿಡಿ TOC and `<a id="adhyAya-N">` chapter anchors. The Eke romanisation file `25-kannaDa-vAkyagaLa-oLaracane-kn-eke.md` mirrors the same structure. DNS Bhat's typographic citation marks have been standardised to curly single quotes `'word'` (U+2018/U+2019) in both kn.md and kn-eke.md. Note: unlike Books 03 and 07, this book (25) is written in standard Kannada orthography, not hosa baraha — aspirated letters (ಭ, ಧ, ಷ etc.) appear as-is in the source text.
+
+
+10. **Repository source (Phase 18/19):** The kn.md now has a 3-level deep TOC with `<a id="sec-N-M">` and `<a id="sub-N-M-K">` anchors. Cross-links `[Eke →]` appear after each sec/sub anchor in kn.md; kn-eke.md has `[ಕನ್nnaDa →]` links. Header has `[← ಸೂಚಿ](./README)` index back-link. This book uses standard Kannada orthography (not hosa baraha).
 

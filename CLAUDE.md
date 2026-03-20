@@ -59,10 +59,12 @@ ettuge/
 
 ## Active Development
 
-### Current Status (as of 2026-03-19, Phase 17)
+### Current Status (as of 2026-03-20, Phase 19)
 
 All 29 DNS Bhat books have been processed through multiple phases of OCR cleanup, Nudi→Unicode conversion, romanisation generation, and TOC restructuring. Key milestones:
 
+- **Phase 19 (2026-03-20):** Deep 3-level TOC with `<a id="sec-N-M">` and `<a id="sub-N-M-K">` anchors added to all books with kn.md (02, 03, 07-vol1, 07-vol2, 08, 14, 17, 25, 27, 28, 29). Section/subsection cross-links added: `[Eke →]` after every sec/sub anchor in kn.md; `[ಕನ್ನಡ →]` in kn-eke.md. Index back-links `[← ಸೂಚಿ](./README)` added to all kn.md headers; `[← sUci]` to kn-eke.md. Chapter nav fragments fixed to `#adhyAya-N`. kn-eke.md self-referential header links corrected.
+- **Phase 18 (2026-03-19):** Chapter/section headings converted to Markdown `##`/`###`/`####`. Book 28 deep TOC added, printed flat TOC removed, 5 heading-number OCR errors fixed. Book 03 subsection numbering corrected (1.6→1.5).
 - **Phase 17 (2026-03-19):** Nudi/WX encoding cleanup for books 03, 07 (vol1+vol2), 08, 14, 17, 25, 27, 28, 29. TOC restructured with `<a id="adhyAya-N">` anchors (books 03, 27). Citation quote convention standardised to curly single quotes `'word'` (U+2018/U+2019) across books 07, 17, 25, 28. Unrounded-u marker unified to `u^` across all kn-eke files.
 - **Phase 16 (2026-03-17):** Running headers removed, arka-ottu reversals fixed, fragment cleanup across 5 books.
 - **Earlier phases:** Transcript cleanup (349 videos), Eke.md translation (complete), DNS Bhat book summarization pipeline established.

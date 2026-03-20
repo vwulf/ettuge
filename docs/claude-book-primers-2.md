@@ -181,6 +181,9 @@ The book's central purpose is to correct widespread popular misconceptions about
 9. **Repository source (Phase 17):** A clean structured Kannada source file `27-bhASheya-bagge-kn.md` is available from the Sarvam Vision OCR pipeline. It has a ಒಳಪಿಡಿ TOC restructured in Phase 17 with `<a id="adhyAya-N">` anchors. The Eke romanisation file `27-bhASheya-bagge-kn-eke.md` mirrors the same structure. There are no citation-mark issues in this book — it does not use DNS Bhat's backtick-apostrophe typographic convention.
 
 
+10. **Repository source (Phase 19):** The kn.md already had 221 anchors (5 part-N, 32 sec-N-M, 184 sub-N-M-K). Phase 19 added `[Eke →]` cross-links after every sec/sub anchor in kn.md and `[ಕನ್nnaDa →]` links in kn-eke.md. Header has `[← ಸೂಚಿ](./README)` index back-link. Part anchors use `part-N` format; section and subsection use `sec-N-M` / `sub-N-M-K`.
+
+
 ---
 
 ## Book 28 — 28-kannaDakke-bEku
@@ -342,6 +345,8 @@ The book is organised as a guided chapter-by-chapter tour through the major gram
 8. Do not conflate this book with Bhat's *hosa baraha* orthography reform project. The two are related (both argue for Kannada-native approaches) but the grammar argument and the script argument are independent. A reader can accept Bhat's grammar argument while using standard Kannada orthography, as this book itself demonstrates.
 
 9. **Repository source (Phase 17):** A clean structured Kannada source file `28-kannaDakke-bEku-kn.md` is available, generated from the Sarvam Vision OCR + WX-decode pipeline with a 3-pass character and structural artefact cleanup (9,517 lines). It has 12 `<a id="adhyAya-N">` chapter anchors. The Eke romanisation file `28-kannaDakke-bEku-kn-eke.md` mirrors the same structure. DNS Bhat's typographic citation marks have been standardised to curly single quotes `'word'` (U+2018/U+2019) in both kn.md and kn-eke.md. Note: this book is written in standard Kannada orthography (not hosa baraha) — aspirated letters appear as-is.
+
+10. **Repository source (Phase 18/19):** Phase 18 added deep 3-level TOC with `<a id="sec-N-M">` and `<a id="sub-N-M-K">` anchors; removed the OCR'd printed flat TOC; fixed 5 heading-number errors (5.3.5→5.3.6, 6.3.3→6.2.3, 6.3.4→6.2.4, 9.3→9.4, 9.4→9.5). Phase 19 added `[Eke →]` cross-links after every sec/sub anchor in kn.md and `[ಕನ್nnaDa →]` links in kn-eke.md; header has `[← ಸೂಚಿ](./README)`.
 
 ---
 
@@ -513,4 +518,7 @@ When answering questions about this book:
 8. **Note the publication context.** 2009 places this book after Book 28 (2000) but before several later works. It is part of Bhat's effort to take the argument for Dravidian-native Kannada linguistics to a broad public audience, parallel to the effort in Book 8 (2017, script reform) and Book 27 (1970–2010, popular linguistics).
 
 9. **Repository source (Phase 17):** A clean structured Kannada source file `29-kannaDa-vyAkaraNa-yAke-bEku-kn.md` is available, generated from the Sarvam Vision OCR + WX-decode pipeline with Nudi encoding artefacts resolved. It has a ಪರಿವಿಡಿ TOC and `<a id="adhyAya-N">` chapter anchors (one per *pasuge*). The Eke romanisation file `29-kannaDa-vyAkaraNa-yAke-bEku-kn-eke.md` mirrors the same structure. A page-split fragment artefact identified in OCR was rejoined in Phase 17. This book uses *hosa baraha* spelling: ಭ→ಬ, ಧ→ದ, ಷ→ಸ in the source text.
+
+
+10. **Repository source (Phase 18/19):** The kn.md now has a 3-level deep TOC with `<a id="sec-N-M">` and `<a id="sub-N-M-K">` anchors. Cross-links `[Eke →]` appear after each sec/sub anchor in kn.md; kn-eke.md has `[ಕನ್nnaDa →]` links. Header has `[← ಸೂಚಿ](./README)` index back-link. Chapter nav uses `#adhyAya-N` anchors.
 

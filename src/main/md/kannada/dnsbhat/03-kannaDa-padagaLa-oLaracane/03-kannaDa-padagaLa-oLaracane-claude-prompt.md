@@ -171,3 +171,6 @@ The book also makes a sustained methodological argument: applying Sanskrit gramm
 7. Note that this book is part of a trilogy: for syntax questions, refer to Book 25; for an overview grammar, refer to Book 01.
 
 8. **Repository source (Phase 17):** A clean structured Kannada source file `03-kannaDa-padagaLa-oLaracane-kn.md` is available with paragraph breaks, a ಪರಿವಿಡಿ (Table of Contents), and `<a id="adhyAya-N">` anchors at each chapter. It also has deep section anchors (`<a id="sec-N-M">`) added in Phase 17. The Eke romanisation file `03-kannaDa-padagaLa-oLaracane-kn-eke.md` mirrors the same structure. DNS Bhat's typographic quotation marks (backtick open, apostrophe close) have been standardised to curly single quotes `'word'` (U+2018/U+2019) in kn.md and kn-eke.md.
+
+
+10. **Repository source (Phase 18/19):** Section numbering corrected (subsections 1.5.1–1.5.6 fixed from erroneous 1.6 labels). The kn.md now has a full 3-level deep TOC with `<a id="sec-N-M">` and `<a id="sub-N-M-K">` anchors throughout its 100-section, 3-level hierarchy. Cross-links `[Eke →]` / `[ಕನ್nnaDa →]` appear after every sec and sub anchor. Header has `[← ಸೂಚಿ](./README)` index back-link.

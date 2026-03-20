@@ -75,7 +75,14 @@ Books typeset in legacy Nudi font have OCR'd as garbled Latin (É Å ÀÉ ÂÐ e
 These were OCR'd via WX transliteration → Devanagari → Kannada pipeline. Key issue: column-break artifacts place each word/phrase on its own line with no blank line separator → renders as one flat paragraph in Markdown. Fix: detect short non-sentence-final lines and join with spaces. Requires PDF review.
 
 ### TOC structure
-All kn.md files have a ಪರಿವಿಡಿ/ಒಳಪಿಡಿ table at the top linking to `<a id="adhyAya-N">` anchors. Deep section anchors (`sec-N-M`, `sub-N-M-K`) are pending for most books — see PROJECT-RECAP.md TBD list.
+All kn.md files have a ಪರಿವಿಡಿ/ಒಳಪಿಡಿ table at the top linking to `<a id="adhyAya-N">` anchors. All books with kn.md (02, 03, 07-vol1, 07-vol2, 08, 14, 17, 25, 27, 28, 29) now have deep `<a id="sec-N-M">` and `<a id="sub-N-M-K">` anchors (Phase 19). The TOC in each book lists all levels (chapter → section → subsection).
+
+### Cross-link convention (Phase 19)
+After every `<a id="sec-N-M">` or `<a id="sub-N-M-K">` anchor, insert a cross-link on its own line:
+- In kn.md: `[Eke →](./SLUG-kn-eke#sec-N-M)` or `[Eke →](./SLUG-kn-eke#sub-N-M-K)`
+- In kn-eke.md: `[ಕನ್nnaDa →](./SLUG-kn#sec-N-M)` or `[ಕನ್nnaDa →](./SLUG-kn#sub-N-M-K)`
+- Chapter nav `[English →](./en#ch) | [Eke →](./kn-eke#adhyAya-N)` in kn.md; `[English →](...) | [ಕನ್nnaDa →](./kn#adhyAya-N)` in kn-eke.md
+- Header block: `> [← ಸೂಚಿ](./README) | ಇಂಗ್ಲಿಶ್ ...: [en] | Eke: [kn-eke]` in kn.md; `> [← sUci](./README) | ingliS ...: [en] | kannaDa: [kn]` in kn-eke.md
 
 ---
 
@@ -90,5 +97,5 @@ All kn.md files have a ಪರಿವಿಡಿ/ಒಳಪಿಡಿ table at the top
 | `src/main/md/kannada/dnsbhat/14-nijakku-halegannada-vyakarana-entahadu/` | Book 14: Old Kannada grammar vs Sanskrit — full text + English translation (added Mar 2026) |
 | `src/main/md/kannada/dnsbhat/15-inglish-kannada-padanerake/15-inglish-kannada-padanerake-claude-prompt.md` | Book 15: English→Kannada dictionary patterns — 6-step decision tree, 11 domain cluster tables, 100 curated word pairs (added Mar 2026) |
 | `src/main/claude/kannada/` | Prior AI session transcripts (session0–5.md) |
-| `docs/dnsbhat/PROJECT-RECAP.md` | Full phased project history (Phases 1–17) — canonical record of all OCR cleanup decisions, quote conventions, Eke rules, and pending work |
+| `docs/dnsbhat/PROJECT-RECAP.md` | Full phased project history (Phases 1–19) — canonical record of all OCR cleanup decisions, quote conventions, Eke rules, and pending work |
 | `docs/claude-project-instructions.md` | Combined skills + CLAUDE.md context for Claude.ai Projects (phone access) |

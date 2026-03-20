@@ -1892,10 +1892,12 @@ ettuge/
 
 ## Active Development
 
-### Current Status (as of 2026-03-19, Phase 17)
+### Current Status (as of 2026-03-20, Phase 19)
 
 All 29 DNS Bhat books have been processed through multiple phases of OCR cleanup, Nudi→Unicode conversion, romanisation generation, and TOC restructuring. Key milestones:
 
+- **Phase 19 (2026-03-20):** Deep 3-level TOC with `<a id="sec-N-M">` and `<a id="sub-N-M-K">` anchors added to all books with kn.md (02, 03, 07-vol1, 07-vol2, 08, 14, 17, 25, 27, 28, 29). Section/subsection cross-links added: `[Eke →]` after every sec/sub anchor in kn.md; `[ಕನ್ನಡ →]` in kn-eke.md. Index back-links `[← ಸೂಚಿ](./README)` added to all kn.md headers; `[← sUci]` to kn-eke.md. Chapter nav fragments fixed to `#adhyAya-N`. kn-eke.md self-referential header links corrected.
+- **Phase 18 (2026-03-19):** Chapter/section headings converted to Markdown `##`/`###`/`####`. Book 28 deep TOC added, printed flat TOC removed, 5 heading-number OCR errors fixed. Book 03 subsection numbering corrected (1.6→1.5).
 - **Phase 17 (2026-03-19):** Nudi/WX encoding cleanup for books 03, 07 (vol1+vol2), 08, 14, 17, 25, 27, 28, 29. TOC restructured with `<a id="adhyAya-N">` anchors (books 03, 27). Citation quote convention standardised to curly single quotes `'word'` (U+2018/U+2019) across books 07, 17, 25, 28. Unrounded-u marker unified to `u^` across all kn-eke files.
 - **Phase 16 (2026-03-17):** Running headers removed, arka-ottu reversals fixed, fragment cleanup across 5 books.
 - **Earlier phases:** Transcript cleanup (349 videos), Eke.md translation (complete), DNS Bhat book summarization pipeline established.
@@ -2121,7 +2123,14 @@ Books typeset in legacy Nudi font have OCR'd as garbled Latin (É Å ÀÉ ÂÐ e
 These were OCR'd via WX transliteration → Devanagari → Kannada pipeline. Key issue: column-break artifacts place each word/phrase on its own line with no blank line separator → renders as one flat paragraph in Markdown. Fix: detect short non-sentence-final lines and join with spaces. Requires PDF review.
 
 ### TOC structure
-All kn.md files have a ಪರಿವಿಡಿ/ಒಳಪಿಡಿ table at the top linking to `<a id="adhyAya-N">` anchors. Deep section anchors (`sec-N-M`, `sub-N-M-K`) are pending for most books — see PROJECT-RECAP.md TBD list.
+All kn.md files have a ಪರಿವಿಡಿ/ಒಳಪಿಡಿ table at the top linking to `<a id="adhyAya-N">` anchors. All books with kn.md (02, 03, 07-vol1, 07-vol2, 08, 14, 17, 25, 27, 28, 29) now have deep `<a id="sec-N-M">` and `<a id="sub-N-M-K">` anchors (Phase 19). The TOC in each book lists all levels (chapter → section → subsection).
+
+### Cross-link convention (Phase 19)
+After every `<a id="sec-N-M">` or `<a id="sub-N-M-K">` anchor, insert a cross-link on its own line:
+- In kn.md: `[Eke →](./SLUG-kn-eke#sec-N-M)` or `[Eke →](./SLUG-kn-eke#sub-N-M-K)`
+- In kn-eke.md: `[ಕನ್nnaDa →](./SLUG-kn#sec-N-M)` or `[ಕನ್nnaDa →](./SLUG-kn#sub-N-M-K)`
+- Chapter nav `[English →](./en#ch) | [Eke →](./kn-eke#adhyAya-N)` in kn.md; `[English →](...) | [ಕನ್nnaDa →](./kn#adhyAya-N)` in kn-eke.md
+- Header block: `> [← ಸೂಚಿ](./README) | ಇಂಗ್ಲಿಶ್ ...: [en] | Eke: [kn-eke]` in kn.md; `> [← sUci](./README) | ingliS ...: [en] | kannaDa: [kn]` in kn-eke.md
 
 ---
 
@@ -2136,7 +2145,7 @@ All kn.md files have a ಪರಿವಿಡಿ/ಒಳಪಿಡಿ table at the top
 | `src/main/md/kannada/dnsbhat/14-nijakku-halegannada-vyakarana-entahadu/` | Book 14: Old Kannada grammar vs Sanskrit — full text + English translation (added Mar 2026) |
 | `src/main/md/kannada/dnsbhat/15-inglish-kannada-padanerake/15-inglish-kannada-padanerake-claude-prompt.md` | Book 15: English→Kannada dictionary patterns — 6-step decision tree, 11 domain cluster tables, 100 curated word pairs (added Mar 2026) |
 | `src/main/claude/kannada/` | Prior AI session transcripts (session0–5.md) |
-| `docs/dnsbhat/PROJECT-RECAP.md` | Full phased project history (Phases 1–17) — canonical record of all OCR cleanup decisions, quote conventions, Eke rules, and pending work |
+| `docs/dnsbhat/PROJECT-RECAP.md` | Full phased project history (Phases 1–19) — canonical record of all OCR cleanup decisions, quote conventions, Eke rules, and pending work |
 | `docs/claude-project-instructions.md` | Combined skills + CLAUDE.md context for Claude.ai Projects (phone access) |
 
 

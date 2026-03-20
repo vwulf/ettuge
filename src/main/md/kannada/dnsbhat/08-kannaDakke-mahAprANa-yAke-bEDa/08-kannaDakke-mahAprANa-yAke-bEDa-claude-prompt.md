@@ -152,3 +152,6 @@ When answering questions about this book:
 4. The book uses reformed/simplified Kannada spelling itself as a demonstration — e.g., writing "ಬಾರತ" instead of "ಭಾರತ", "ಬೇಡ" instead of "ಭೇಡ" etc. Keep this in mind when reading quoted text from the book.
 5. When asked for the author's opinion, always attribute it clearly to D.N. Shankara Bhat.
 6. Be able to distinguish between: (a) the author's thesis, (b) objections he anticipates, and (c) his rebuttals.
+
+
+10. **Repository source (Phase 19):** The kn.md now has a 3-level deep TOC with `<a id="sec-N-M">` and `<a id="sub-N-M-K">` anchors. Cross-links `[Eke →]` appear after each sec/sub anchor in kn.md; kn-eke.md has `[ಕನ್nnaDa →]` links. Header has `[← ಸೂಚಿ](./README)` index back-link and retains the `> ಮೂಲ ಪುಸ್ತಕ` link to the raw book file.
