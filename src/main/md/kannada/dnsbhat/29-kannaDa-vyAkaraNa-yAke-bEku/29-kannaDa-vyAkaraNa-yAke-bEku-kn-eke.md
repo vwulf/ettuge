@@ -15,16 +15,158 @@ redirect_from:
 ## pariviDi
 
 - [adhyAya 1 — munnOTa](#adhyAya-1)
+    - [1.1 vyAkaraNa yArige bEku?](#sec-1-1)
+        - [1.1.1 sollu mattu sollarime](#sub-1-1-1)
+        - [1.1.2 arivige eTakada kaTTalegaLu](#sub-1-1-2)
+    - [1.2 I kaTTalegaLannu yAke tiLiyabEku?](#sec-1-2)
+        - [1.2.2 vyatyAsagaLige kAraNagaLu](#sub-1-2-2)
+    - [1.3 I pustakada iTTaLa](#sec-1-3)
 - [adhyAya 2 — Odu-barahada kalike](#adhyAya-2)
+    - [2.1 SAleyalli kannaDada kalike](#sec-2-1)
+    - [2.2 Odu-barahada kalikege sollarimeya neravu](#sec-2-2)
+        - [2.2.1 ellara kannaDa mattu ADugannaDa](#sub-2-2-1)
+        - [2.2.2 ADugannaDada neravu](#sub-2-2-2)
+        - [2.2.3 heccina uligaLa kalike](#sub-2-2-3)
+    - [2.3 Odalu kaliyuvudu](#sec-2-3)
+        - [2.3.1 uligaLinda padagaLu](#sub-2-3-1)
+        - [2.3.2 uli mattu barigegaLa naDuvina pattuge](#sub-2-3-2)
+        - [2.3.3 barigegaLa kalike](#sub-2-3-3)
+        - [2.3.4 miduLinalli Oduva kelasa](#sub-2-3-4)
+        - [2.3.5 kannaDa barahada barigegaLa samasye](#sub-2-3-5)
+        - [2.3.6 salIsAda Odu](#sub-2-3-6)
+        - [2.3.7 padagaLa kalike](#sub-2-3-7)
+        - [2.3.8 Odininda tiLuvaLikeyannu paDeyuvudu](#sub-2-3-8)
+    - [2.4 bareyalu kaliyuvudu](#sec-2-4)
+        - [2.4.1 baravaNigeya caLakagaLu](#sub-2-4-1)
+        - [2.4.2 gaTTiyAgi bareyuvudu](#sub-2-4-2)
+        - [2.4.3 bareyuvudu mattu saripaDisuvudu](#sub-2-4-3)
+        - [2.4.4 barahadalli Asakti](#sub-2-4-4)
+    - [2.5 doDDavarige Odalu-bareyalu kalisuvudu](#sec-2-5)
+    - [2.6 tiruLu](#sec-2-6)
 - [adhyAya 3 — bareyuvudaralli heccina kalike](#adhyAya-3)
+    - [3.1 munnOTa](#sec-3-1)
+        - [3.1.1 barahagAraralli eraDu bage](#sub-3-1-1)
+        - [3.1.2 barahada oLaguTTu](#sub-3-1-2)
+        - [3.2.1 sollugaLa nele mattu tiLivu](#sub-3-2-1)
+        - [3.2.2 iTTaLagaLa Ayke](#sub-3-2-2)
+        - [3.2.3 sariterapina iTTaLagaLu](#sub-3-2-3)
+        - [3.2.5 hoddikeya gurutugaLu](#sub-3-2-5)
+    - [3.3 barahada guri](#sec-3-3)
+    - [3.4 barahada marunOTa](#sec-3-4)
+    - [3.5 tiddi saripaDisuvudu](#sec-3-5)
+        - [3.5.1 barahada gurutugaLa baLake](#sub-3-5-1)
+        - [3.5.2 kuraLugaLa iTTaLa](#sub-3-5-2)
+        - [3.5.3 sollugaLa koneya gurutugaLu](#sub-3-5-3)
+        - [3.5.4 sollugaLa naDuvina gurutugaLu](#sub-3-5-4)
+    - [3.6 tiruLu](#sec-3-6)
 - [adhyAya 4 — arimeya barahagaLu](#adhyAya-4)
+    - [4.1 munnOTa](#sec-4-1)
+    - [4.2 sariyAgi tiLisi hELuva bage](#sec-4-2)
+    - [4.3 arimeya padagaLa baLake](#sec-4-3)
+        - [4.3.1 kannaDada arimeya padagaLu](#sub-4-3-1)
+        - [4.3.2 sollarimeya tiLivu](#sub-4-3-2)
+        - [4.3.3 kannaDa padagaLa baLake](#sub-4-3-3)
+    - [4.4 sollarimeya mArpuruLu](#sec-4-4)
+        - [4.4.1 eraDu bageya mArpuruLugaLu](#sub-4-4-1)
+        - [4.4.2 kelavu prayOjanagaLu](#sub-4-4-2)
+        - [4.4.3 toDakenisalu kAraNa](#sub-4-4-3)
+        - [4.4.4 kannaDadalli sollarimeya mArpuruLugaLu](#sub-4-4-4)
+        - [4.4.5 kannaDada kasuvu](#sub-4-4-5)
+    - [4.5 sikkalu sollugaLu](#sec-4-5)
+    - [4.6 barahada iTTaLa](#sec-4-6)
+    - [4.7 mandi meccuvante bareyuvudu](#sec-4-7)
+    - [4.8 tiruLu](#sec-4-8)
 - [adhyAya 5 — nalbarahagaLu mattu sollarime](#adhyAya-5)
+    - [5.1 munnOTa](#sec-5-1)
+    - [5.2 nalbarahagaLalli sollugaLa baLake](#sec-5-2)
+        - [5.2.1 nalbarahagaLu mattu uLida barahagaLu](#sub-5-2-1)
+        - [5.2.2 munjarisuvudu](#sub-5-2-2)
+        - [5.2.3 sollarime mattu nuDiyoDDava](#sub-5-2-3)
+    - [5.3 nATakada mAtu](#sec-5-3)
+        - [5.3.1 sULunuDi mattu naDunuDi](#sub-5-3-1)
+        - [5.3.2 naDunuDiyalli sULunuDiya kaTTalegaLa baLake](#sub-5-3-2)
+        - [5.3.2 ADunuDi mattu oLanuDigaLa baLake](#sub-5-3-2)
+    - [5.4 nATakadalli nuDiyoDDava](#sec-5-4)
+        - [5.4.1 sollugaLa naDuvina pattuge](#sub-5-4-1)
+        - [5.4.2 sollugaLa huruLugaLu](#sub-5-4-2)
+    - [5.7 tiruLu](#sec-5-7)
 - [adhyAya 6 — ippuruLina toDakugaLu](#adhyAya-6)
+    - [6.1 munnOTa](#sec-6-1)
+    - [6.2 ippuruLina sollugaLa bagegaLu](#sec-6-2)
+        - [6.2.1 padada ippuruLu](#sub-6-2-1)
+        - [6.2.2 padarUpada ippuruLu](#sub-6-2-2)
+        - [6.2.3 iTTaLagaLa ippuruLu](#sub-6-2-3)
+    - [6.3 ippuruLu toDakAgiruvudu](#sec-6-3)
+        - [6.2.1 kAnUnugaLannu bareyuvudu](#sub-6-2-1)
+        - [6.3.2 arimeya barahagaLu](#sub-6-3-2)
+        - [6.3.3 eNNukagaLalli ippuruLu](#sub-6-3-3)
+    - [6.4 ippuruLu ottAseyAgiruvudu](#sec-6-4)
+    - [6.5 tiruLu](#sec-6-5)
 - [adhyAya 7 — eraDanE nuDiya kalike](#adhyAya-7)
+    - [7.1 munnOTa](#sec-7-1)
+        - [7.1.1 eraDanE nuDiyannu kaliyuvudara heccugArike](#sub-7-1-1)
+        - [7.1.3 makkaLa kalike mattu doDDavara kalike](#sub-7-1-3)
+    - [7.2 eraDanE nuDiyAgi ingliSna kalike](#sec-7-2)
+        - [7.2.1 tAynuDiyannu kalikeyinda horagiDuvudu](#sub-7-2-1)
+        - [7.2.2 kaTTaLeya mUla](#sub-7-2-2)
+        - [7.2.3 tAynuDiya sollarimeya baLake](#sub-7-2-3)
+        - [7.2.4 kalikeya tappugaLu](#sub-7-2-4)
+        - [7.2.5 Odalu-bareyalu kaliyuvudu](#sub-7-2-5)
+        - [7.2.6 doDDavara kalike](#sub-7-2-6)
+    - [7.3 eraDanE nuDiyAgi kannaDada kalike](#sec-7-3)
+    - [7.4 tiruLu](#sec-7-4)
 - [adhyAya 8 — nuDimArike](#adhyAya-8)
+        - [8.1.2 modalanE mattu eraDanE nuDigaLa kalike](#sub-8-1-2)
+    - [8.1 munnOTa](#sec-8-1)
+        - [8.1.1 eraDu bagetagaLu](#sub-8-1-1)
+        - [8.1.2 nuDimAruva bage](#sub-8-1-2)
+    - [8.2 mUla barahada tiLivu](#sec-8-2)
+        - [8.2.1 ADunuDiya baLake](#sub-8-2-1)
+        - [8.2.2 barahada oDDava](#sub-8-2-2)
+        - [8.2.3 bEre kelavu toDakugaLu](#sub-8-2-3)
+    - [8.3 IDunuDiya Oduga](#sec-8-3)
+        - [8.3.1 tiLidudu mattu tiLiyadudu](#sub-8-3-1)
+        - [8.3.2 hoddikeya gurutugaLu](#sub-8-3-2)
+    - [8.4 nalbarahagaLa nuDimArike](#sec-8-4)
+    - [8.5 eNNukada nuDimArike](#sec-8-5)
+        - [8.5.1 eNNukada hammugegaLu](#sub-8-5-1)
+        - [8.5.2 mAreDe hammuge](#sub-8-5-2)
+        - [8.5.3 eDenuDi hammuge](#sub-8-5-3)
+        - [8.5.4 eNikeya hammuge](#sub-8-5-4)
+        - [8.5.5 eNNukagaLa toDakugaLu](#sub-8-5-5)
+        - [8.5.6 oLanuDigaLa nuDimArike](#sub-8-5-6)
+        - [8.5.7 eNNukagaLigAgi bareyuvudu](#sub-8-5-7)
+    - [8.6 tiruLu](#sec-8-6)
 - [adhyAya 9 — nuDihammuge](#adhyAya-9)
+    - [9.1 munnOTa](#sec-9-1)
+        - [9.1.1 mArpADugaLu yAke naDeyuttave?](#sub-9-1-1)
+        - [9.1.2 hammugegaLa bagegaLu](#sub-9-1-2)
+        - [9.1.3 hammugeya hantagaLu](#sub-9-1-3)
+    - [9.2 parice hammuge](#sec-9-2)
+        - [9.2.1 barigehammuge](#sub-9-2-1)
+        - [9.2.2 sariyAgi mADida barigehammugegaLu](#sub-9-2-2)
+        - [9.2.3 tappAgi mADida barige hammugegaLu](#sub-9-2-3)
+        - [9.2.4 kannaDa barahada padabarigeya toDaku](#sub-9-2-4)
+        - [9.2.5 sollarimeya hammuge](#sub-9-2-5)
+        - [9.2.6 padanerakeya hammuge](#sub-9-2-6)
+    - [9.3 beLavaNigeya hammuge](#sec-9-3)
+    - [9.4 tiruLu](#sec-9-4)
 - [adhyAya 10 — mAtina tondaregaLu](#adhyAya-10)
+    - [10.1 munnOTa](#sec-10-1)
+    - [10.2 beLavaNigeya mAtina tondaregaLu](#sec-10-2)
+        - [10.2.1 kivi kELisada makkaLu](#sub-10-2-1)
+        - [10.2.2 uliya tondaregaLu](#sub-10-2-2)
+        - [10.2.3 sollarimeya tondaregaLu](#sub-10-2-3)
+        - [10.2.4 Odina tondaregaLu](#sub-10-2-4)
+        - [10.2.5 uggumAtu](#sub-10-2-5)
+    - [10.3 baLakeya tondaregaLu](#sec-10-3)
+        - [10.3.1 salIsAda mAtu](#sub-10-3-1)
+        - [10.3.2 huruLillada mAtu](#sub-10-3-2)
 - [adhyAya 11 — muktAya](#adhyAya-11)
+    - [11.4 tiruLu](#sec-11-4)
+    - [11.1 halavu bageya baLakeya sollarimegaLu](#sec-11-1)
+    - [11.2 eraDu bageya sollarimeya tiLivu](#sec-11-2)
+    - [11.3 sollarimeya heccugArike](#sec-11-3)
 
 ---
 
@@ -310,6 +452,8 @@ Di.en.Sankara baT
 
 ## modalanE pasuge — munnOTa
 
+<a id="sec-1-1"></a>
+
 ### 1.1 vyAkaraNa yArige bEku?
 
 nijakkU vyAkaraNavembudu nuDiyannu baLasuva namagellarigU bEkAgu
@@ -363,6 +507,8 @@ avugaLa mUlaka nAvu kannaDaddE Ada vyAkaraNa entahadu embudannu
 kanDuhiDiyaballevu. A rIti kanDuhiDida vyAkaraNa yAva bageyallella
 namma kelasagaLalli neravAgaballudu embudannu I pustakadalli tOrisi
 koDaliddEne.
+
+<a id="sub-1-1-1"></a>
 
 #### 1.1.1 sollu mattu sollarime
 
@@ -425,6 +571,8 @@ ttave. hAgAgi, padagaLu eSTu mukyavO sollarimeya kaTTalegaLU
 aSTE mukya. averaDU oTTige sEridAga mAtra namma manassinalliruva
 anisikegaLu innobbarannu talupaballuvu.
 
+<a id="sub-1-1-2"></a>
+
 #### 1.1.2 arivige eTakada kaTTalegaLu
 
 nAvu tumbA cikkavarAgiddAgalE padagaLige oTTugaLannu sErisi bage
@@ -476,6 +624,8 @@ baLasuttiruttEve. Adare nijakkU avu entahavu embudannu nAvu
 yArigU  vivarisi  hELalArevu.  avu  namma  miduLinalli  arivige
 eTakada rUpadalliruvudE idakke kAraNa. kannaDada sollarimeyannu
 bareyuvavaru avannella kanDuhiDidu paTTimADi vivarisabEkAguttade.
+
+<a id="sec-1-2"></a>
 
 ### 1.2 I kaTTalegaLannu yAke tiLiyabEku?
 
@@ -553,6 +703,8 @@ idakke badalu, barahadalli sollugaLa iTTaLa, barahada gurutugaLu,
 kuraLu(pArA)gaLu, kOSTakagaLu, geretiTTagaLu modalAdavugaLannu
 baLasuttEve. sollugaLa mUlaka tiLisalAgada halavu huruLugaLannu
 intaha iTTaLa mattu gurutugaLa mUlaka sUcisuttEve.
+
+<a id="sub-1-2-2"></a>
 
 #### 1.2.2 vyatyAsagaLige kAraNagaLu
 
@@ -656,6 +808,8 @@ bEgane Ijalu kaliyaballaru. barahada kalikeyU antahadE. adara
 oLaguTTannu, endare arivige eTakuva sollarimeyannu, tiLidavarige
 adannu heccu suLuvAgi, heccu cannAgi, mattu heccu bEgane kaliyalu
 baruttade, mattu heccu cannAgi baLasalu baruttade.
+
+<a id="sec-1-3"></a>
 
 ### 1.3 I pustakada iTTaLa
 
@@ -785,6 +939,8 @@ pustakada mukya guriyAgide.
 
 ## eraDanE pasuge — Odu-barahada kalike
 
+<a id="sec-2-1"></a>
+
 ### 2.1 SAleyalli kannaDada kalike
 
 hosadAgi SAlege sEruva makkaLige tamma ADunuDiyalli (kannaDadalli)
@@ -828,6 +984,8 @@ I kelasavannu naDesuvalli kannaDada sollarimeya tiLivu sAkaSTu
 neravu nIDaballudu. idu hEge embudannu, mattu yAva rItiyalli
 adannu makkaLa kalikeyalli baLasaballevu embudannu I pasugeyalli
 pariSIlisalAgide.
+
+<a id="sec-2-2"></a>
 
 ### 2.2 Odu-barahada kalikege sollarimeya neravu
 
@@ -920,6 +1078,8 @@ hEge embudannu ettugegaLannu koTTu vivarisabEkAguttade. endare,
 iDiyAgiruva  sollugaLa  iTTaLada  mattu  baLakeya  hindiruva
 sollarimeya kaTTalegaLannu avarige tiLisihELabEkAguttade.
 
+<a id="sub-2-2-1"></a>
+
 #### 2.2.1 ellara kannaDa mattu ADugannaDa
 
 karnATakada bEre bEre UrugaLalli SAlege sEruva makkaLu tAvu
@@ -973,6 +1133,8 @@ innondaralli kaTTalegaLE illa endu hELuvudakkU yAva AdAravU
   I viSayavannu sariyAgi tiLidukonDu adannu makkaLa gamanakke
 tandalli, avarige tamma ADunuDiya viSayadallidda kILarime illavAgu
 
+<a id="sub-2-2-2"></a>
+
 #### 2.2.2 ADugannaDada neravu
 
 mEle sUcisida hAge, SAlege sEriruva makkaLige tamma ADugannaDadalli
@@ -1014,6 +1176,8 @@ makkaLa ADunuDigaLigU ellara kannaDakkU naDuve uliyarime mattu
 sollarimegaLalli  entaha  vyatyAsagaLella  ive  embudannu  avarige
 tiLisikoDuvantaha  arakegaLu  naDedirabEkAguttade.  idu  ivattu
 nuDiyarigaru naDesabEkAgiruva kelasavAgide.
+
+<a id="sub-2-2-3"></a>
 
 #### 2.2.3 heccina uligaLa kalike
 
@@ -1094,6 +1258,8 @@ kalisugaru tiLidirabEku. yAvudAdarU ondu taragatiyalli kalitiruva
 makkaLige  antaha  uligaLannu  ADalu  tiLidillavAdare,  adakke  A
 taragatiya kalisugara korateyE kAraNavallade makkaLa korateyalla.
 
+<a id="sec-2-3"></a>
+
 ### 2.3 Odalu kaliyuvudu
 
 ellara kannaDadalli mAtanADalu kaliyuvudakkintalU, adaralli Odalu
@@ -1123,6 +1289,8 @@ uLida mUru caLakagaLannu gaLisuvalli sollarimeya tiLivu neravige
 baruttade embudannu gamanisabahudu. I caLakagaLannu kaliyuvavari
 gintalU,  avannu  SAleyalli  kalisuvavarige  heccu  ALavAda
 uliyarime mattu sollarimegaLa tiLivu bEkAguttade.
+
+<a id="sub-2-3-1"></a>
 
 #### 2.3.1 uligaLinda padagaLu
 
@@ -1164,6 +1332,8 @@ vAgiruvantaha huruLu yAvudU illa.
 intaha bEre bEre halavu bageya kelasagaLa mUlaka, uligaLigU
 padagaLigU naDuviruva nanTannu avaru tiLidukoLLuva hAge mADa
 bahudu.
+
+<a id="sub-2-3-2"></a>
 
 #### 2.3.2 uli mattu barigegaLa naDuvina pattuge
 
@@ -1223,6 +1393,8 @@ yAva huruLU illada padagaLannu barahadalli baLasidarU, avannu
 avaru Odaballaru. Odinalli hinde bILuva makkaLalli heccinavarigU
 I viSaya tiLidiruvudilla.
 
+<a id="sub-2-3-3"></a>
+
 #### 2.3.3 barigegaLa kalike
 
 makkaLige barahavannu Odalu kalisuvudarondigEnE adaralli baLake
@@ -1263,6 +1435,8 @@ kannaDada kelavu barigegaLa naDuve vyatyAsa tumbA kaDime iruttade.
 antaha  barigegaLannu  kaliyalu  makkaLige  toDakAgabahudu.  I
 barigegaLannu ondE samayadalli kalisalu hOgabAradu. avugaLalli
 ondannu sariyAgi kalita mEle innondannu kalisalu toDagabEku.
+
+<a id="sub-2-3-4"></a>
 
 #### 2.3.4 miduLinalli Oduva kelasa
 
@@ -1341,6 +1515,8 @@ balamiduLannu mAtravE baLasi naDesuva Odu avarigomme baLakeyAgi
 biTTitendare, AmEle tAvAgiyE adannu badalAyisi, eDamiduLannU
 baLasi Odalu A makkaLu kaliyadirabahudu embudAgi I tiLivigaru
 hELuttAre.
+
+<a id="sub-2-3-5"></a>
 
 #### 2.3.5 kannaDa barahada barigegaLa samasye
 
@@ -1432,6 +1608,8 @@ kaliyuvalli  gondalavunTAgada  hAge,  mattu  sariyAgi  Oduva
 bage  hEge  embudannu  avaru  tiLidukoLLuva  hAge  mADalu
 suLuvAguttade.
 
+<a id="sub-2-3-6"></a>
+
 #### 2.3.6 salIsAda Odu
 
 barahagaLannu salIsAgi (sarAgavAgi) Odalu barabEkiddalli, avugaLalli
@@ -1488,6 +1666,8 @@ OdidAga, antaha barahagaLalli AgAga baruva padagaLannu gurutisuva
 kelasa avarige suLuvAguttA hOguttade. idarindAgi, avarige tAvu
 OduttiruvudEnembudannu (endare Odina huruLannu) tiLidukoLLuvu
 dakke sAkaSTu samaya doreyuttade.
+
+<a id="sub-2-3-7"></a>
 
 #### 2.3.7 padagaLa kalike
 
@@ -1602,6 +1782,8 @@ sollugaLAgi  mArpaDisikoLLuvudu  hEge  mattu  hAge  mADuva
 mUlaka avugaLa huruLugaLannu tiLidukoLLuvudu hEge embudannu
 makkaLige bEreyAgi kalisikoDabEkAguttade.
 
+<a id="sub-2-3-8"></a>
+
 #### 2.3.8 Odininda tiLuvaLikeyannu paDeyuvudu
 
 tAvu Oduva barahadinda tiLuvaLikeyannu paDeyuvudu hEge embu
@@ -1651,6 +1833,8 @@ avugaLondige bandiruva tunDu sollugaLannu mattu parice(guNa)
 padagaLannu mukya padagaLinda bErpaDisalu gottirabEku. I kelasavannu
 naDesuva bage hEge embudannu makkaLige kalisikoDa bEkAguttade.
 
+<a id="sec-2-4"></a>
+
 ### 2.4 bareyalu kaliyuvudu
 
 Odalu kaliyuvudakkintalU bareyalu kaliyuvudu makkaLa maTTige
@@ -1670,6 +1854,8 @@ kaliyaballaru.  illavAdare,  bareyuva  kelasa  tamage  hELiddalla
 embudAgi avaru adarinda dUravE uLiyuttAre. parIkSegaLalli
 bareyabEkAdudannella  uruhoDedu  bareyuvudannaSTE  avaru
 mADaballaru.
+
+<a id="sub-2-4-1"></a>
 
 #### 2.4.1 baravaNigeya caLakagaLu
 
@@ -1736,6 +1922,8 @@ oppige  illavE  olavannu  paDeyabEkendiruvavaru  A  viSayavannu
 Odugara  mundirisuva  mattu  adannu  bembalisuva  vicAragaLannu
 koDuva bage hEge embudakke gamana koDabEkAguttade.
 
+<a id="sub-2-4-2"></a>
+
 #### 2.4.2 gaTTiyAgi bareyuvudu
 
 bareyuva bage hEge embudannu makkaLige tiLisuvudakkAgi kalisuvavaru
@@ -1766,6 +1954,8 @@ heccu  suLuvAgi  gottAguttade,  mattu  tAvu  bareyuttiruvAga
 edurAguva toDarugaLannu hEge bageharisabEku embudu avarige
 gottAguttade.
 
+<a id="sub-2-4-3"></a>
+
 #### 2.4.3 bareyuvudu mattu saripaDisuvudu
 
 omme  baredudannu  Odi  nODi,  adu  sariyillavendu  anisidalli
@@ -1782,6 +1972,8 @@ koLLuvante mADidalli, mattu avu yAke tappAgive embudannU
 tiLiyuvante mADidalli avara baravaNige bEgane munde sAguttade.
 baredaSTU baravaNige cannAguttA hOguttade. hAgAgi, bareyuva
 sandarbagaLu makkaLige heccu heccu dorakuvante mADabEku.
+
+<a id="sub-2-4-4"></a>
 
 #### 2.4.4 barahadalli Asakti
 
@@ -1819,6 +2011,8 @@ hAgeyU mADabEku.
 Oduva mattu bareyuva kelasagaLeraDU bahaLa maTTige ondannondu
 avalambisive.  hAgAgi,  averaDannU  makkaLu  oTToTTAgi  kalitu
 koLLuvante mADabEku.
+
+<a id="sec-2-5"></a>
 
 ### 2.5 doDDavarige Odalu-bareyalu kalisuvudu
 
@@ -1894,6 +2088,8 @@ bareyalu kalisuvallU idE rItiyalli doDdavarige nEravAgi
 kalikeya guTTannu tiLisihELabahudu. adannavaru tamma kalikeyalli
 baLasi heccu bEgane munde hOgaballaru.
 
+<a id="sec-2-6"></a>
+
 ### 2.6 tiruLu
 
 SAleyalli makkaLu tAvu maneyalli baLasuva ADugannaDakkinta svalpa
@@ -1934,6 +2130,8 @@ mukya vyatyAsa.
 [English →](./29-kannaDa-vyAkaraNa-yAke-bEku-en#chapter-3--advanced-writing) | [Eke →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn-eke#bareyuvudaralli-hecina-kalike)
 
 ## mUranE pasuge — bareyuvudaralli heccina kalike
+
+<a id="sec-3-1"></a>
 
 ### 3.1 munnOTa
 
@@ -1986,6 +2184,8 @@ ingliSnalli  cannAgi  bareyalu  kaliyabEkendiruvavarigU  tamma
 tAynuDiyAda kannaDadalli cannAgi bareyalu kaliyuvudu ondu
 oLLE aDigallAgaballudu.
 
+<a id="sub-3-1-1"></a>
+
 #### 3.1.1 barahagAraralli eraDu bage
 
 kelavaru  barahagAraru  Enu  bareyabEku,  hEge  bareyabEku
@@ -2036,6 +2236,8 @@ gaLannu mADabEkendu anisadiradu. idallade, taDe(,), arekone(;),
 kogeta(:) modalAda barahada gurutugaLannu sAmAnyavAgi bareyu
 vAgalE  hAkuttiralu  baruvudilla;  baredudannu  Odi  nODuvAga
 avannu sErisikoLLabEkAguttade.
+
+<a id="sub-3-1-2"></a>
 
 #### 3.1.2 barahada oLaguTTu
 
@@ -2107,6 +2309,8 @@ barahagAraru avara edurige iruvudillavalla! hAgAgi, Odugaralli
 mUDabahudAda  kELvigaLannu  barahagAraru  tAvE  modalige
 UhisikonDu avannella bageharisuva hAge, illavE antaha kELvigaLu
 bAradE iruva hAge tamma barahavannu sAvagisikoLLabEkAguttade.
+
+<a id="sub-3-2-1"></a>
 
 #### 3.2.1 sollugaLa nele mattu tiLivu
 
@@ -2239,6 +2443,8 @@ kANisikoLLuvudillavAdare, sollugaLannu badalAyisi, hondANike
 baruva hAge mADalu kaliyabEku. hIge mADuvalli sollarimeya
 tiLivu neravige baruttade.
 
+<a id="sub-3-2-2"></a>
+
 #### 3.2.2 iTTaLagaLa Ayke
 
 yAvudE ondu sangatiyannu halavu bagegaLalli tiLisalu baruttade.
@@ -2330,6 +2536,8 @@ embudannu tiLidukoLLabEku. intaha tiLivu bareyuva kelasavannu
 naDesuvalli,  mattu  baredudannu  tiddi  saripaDisuvalli  neravige  bara
 balludu.
 
+<a id="sub-3-2-3"></a>
+
 #### 3.2.3 sariterapina iTTaLagaLu
 
 ondE bageya eraDu illavE heccu viSayagaLannu sUcisabEkAdAga,
@@ -2393,6 +2601,8 @@ nODabEku, illavE bErobbara hattira Odalu hELabEku. baraha
 gaLalli baruva iTTaLagaLa tiLivU intaha tappugaLannu gurutisuvalli,
 mattu avannu saripaDisuvalli barahagArara neravige baruttade.
 
+<a id="sec-32-4"></a>
+
 ### 32.4 tOrupadagaLa baLake
 
 sollugaLalli ondE hesarupadavannu halavu bAri baLasidalli adu
@@ -2431,6 +2641,8 @@ Adare,  (3ta)  sollinalli  neleyAgi  hari  pada  barabEkAgide;
 yAkendare, haligeyannu tunDisuttiruvudu hariyallade rAjuvalla;
 I  badalAgiruva  neleyannu  Ata  padada  mUlaka  gurutisalu
 horaTakAraNa, illi hoddike tapputtade.
+
+<a id="sub-3-2-5"></a>
 
 #### 3.2.5 hoddikeya gurutugaLu
 
@@ -2476,6 +2688,8 @@ tIra bErAgiruva viSayavannu tiLisuvudiddalli, A kuraLannu Adare,
 ellarU  I  mAtannu  oppuvudilla  embantaha  sollininda
 surumADabahudu. intaha hoddikeya gurutugaLa mUlaka Odugaru
 kuraLininda kuraLige suLuvAgi sAguva hAge mADabahudu.
+
+<a id="sec-3-3"></a>
 
 ### 3.3 barahada guri
 
@@ -2523,6 +2737,8 @@ lAgiruva barahagaLannu Odi nODi, avu hEge A gurigaLannu talapuvu
 dakkAgi  nuDiyannu  baLasikonDive  embudannu  avaru  tiLidukoLLa
 bEkAguttade. hIge tiLidukoLLuvalli sollarimeya tiLivu neravige
 baruttade.
+
+<a id="sec-3-4"></a>
 
 ### 3.4 barahada marunOTa
 
@@ -2602,6 +2818,8 @@ mADuttA hOguttirabahudu. hIge mADuvavarU kUDa, barahavannu
 mugisida mEle adannomme kAgadada mEle pUrti accuhAkisikonDu,
 mEle vivarisidantaha marunOTakke oLapaDisuvudu oLLeyadu.
 
+<a id="sec-3-5"></a>
+
 ### 3.5 tiddi saripaDisuvudu
 
 koneyadAgi, barahavannu tiddi saripaDisuva kelasavannu naDesabEkAgu
@@ -2618,6 +2836,8 @@ barige modalAduvannu baLasiddalli, avugaLa baLake barahaduddakkU
 ondE  bageyadAgideyE  embudannu  pariSIlisabahudu.  barahada
 ancugaLu, puTa eNike modalAdavugaLannU I samayadalli saripaDisa
 bahudu.
+
+<a id="sub-3-5-1"></a>
 
 #### 3.5.1 barahada gurutugaLa baLake
 
@@ -2683,6 +2903,8 @@ heccu DAlarugaLannu kaLedukoLLuvantaha sandarba odagibandittu!
 barahada gurutugaLannu sariyAgi baLasabEkiddalli, barahagArarige
 sollarimeya  tiLivu  bEkAguttade  embudu  keLage  koTTiruva
 pariSIlaneyinda gottAguttade.
+
+<a id="sub-3-5-2"></a>
 
 #### 3.5.2 kuraLugaLa iTTaLa
 
@@ -2759,6 +2981,8 @@ kaDege seLeyuvudakkAgi, avaru adaralli halavu bageya mArpADu
 gaLannU mADikoLLabahudu. Adare, intaha mArpADugaLu kuraLugaLa
 mUla gurige taDeyAdalli, avu Odugarannu dUramADaballuvu.
 
+<a id="sub-3-5-3"></a>
+
 #### 3.5.3 sollugaLa koneya gurutugaLu
 
 kone(.),  kELvi(?)  mattu  beragu(!)  embudAgi  mUru  bageya
@@ -2777,6 +3001,8 @@ baLasabEkAguttade. idannu keLagina ettugegaLalli kANabahudu:
 
 avaru kELidaru: ‘‘yAvAga bande?’.
 avaru elligU hOgalilla (yAke hIgAyitu?).
+
+<a id="sub-3-5-4"></a>
 
 #### 3.5.4 sollugaLa naDuvina gurutugaLu
 
@@ -2836,6 +3062,8 @@ yiruva modalaneya huruLu bandiruvalli “nInu ivattE puNege
 hOgabEke”ndu  rAju  hELiddAne  embudAgi  ettugeya
 gurutannu baLasabEkAguttade.
 
+<a id="sec-3-6"></a>
+
 ### 3.6 tiruLu
 
 barahadalli baLakeyAguva sollugaLa iTTaLa Odugara mEle entaha
@@ -2855,6 +3083,8 @@ pariNAmakAriyAgi baLasuvudakkU sollarimeya tiLivu bEkAguttade.
 [English →](./29-kannaDa-vyAkaraNa-yAke-bEku-en#chapter-4--academic-writing) | [Eke →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn-eke#arimeya-barahagaLu)
 
 ## nAlkanE pasuge — arimeya barahagaLu
+
+<a id="sec-4-1"></a>
 
 ### 4.1 munnOTa
 
@@ -2888,6 +3118,8 @@ mArpuruLu(rUpaka)gaLannu baLasabEkAguttade. ivannu baLasuvalli
 barahagAraru  Odugara  aLavannu  gamanisadiddalli,  avugaLa  baLake
 yindAgiyU arimeya barahagaLu heccu toDakinavAgaballuvu.
 
+<a id="sec-4-2"></a>
+
 ### 4.2 sariyAgi tiLisi hELuva bage
 
 hindina pasugeyalli vivarisida hAge, barahagaLalli baruva sollugaLa
@@ -2919,6 +3151,8 @@ gottirabEku,  mattu  idakkAgi  avaru  tamma  barahagaLalli  baruva
 
 sollugaLa iTTaLa mattu kuraLugaLa iTTaLagaLannu gamanisikoLLuvudu
 hEge embudannu aritirabEku.
+
+<a id="sec-4-3"></a>
 
 ### 4.3 arimeya padagaLa baLake
 
@@ -2953,6 +3187,8 @@ baLakeyalliruva  sollarimeya  kaTTalegaLa  mUlakavEnE  unTu
 
 mADalu baruvudillavAdalli avu Odugarige innaSTu toDakinavAgi
 kANisaballuvu.
+
+<a id="sub-4-3-1"></a>
 
 #### 4.3.1 kannaDada arimeya padagaLu
 
@@ -3011,6 +3247,8 @@ ingliS padagaLigintalU heccu toDakinavAgive. idallade, avugaLinda
 padarUpagaLannu  paDeyuvudakkAgi  samskrutada  oTTugaLannu  mattu
 kaTTalegaLannu baLasabEkAguttade. hAgAgi, I padagaLannu baLasuvudara
 mUlaka  mEle  sUcisida  eraDu  gurigaLannU  nAvu  talapuvudE
+
+<a id="sub-4-3-2"></a>
 
 #### 4.3.2 sollarimeya tiLivu
 
@@ -3177,6 +3415,8 @@ gondalagaLu kANisuttiddu, arimeya padagaLallirabEkAda kaTTuniTTu
 ivugaLalli kANisuvudilla embudannu illi nAvu gamanisabEkAgiruva
 mukya viSaya.
 
+<a id="sub-4-3-3"></a>
+
 #### 4.3.3 kannaDa padagaLa baLake
 
 kannaDadavE Ada pada mattu oTTugaLannu baLasi intaha arimeya
@@ -3230,6 +3470,8 @@ unTumADuvalli baLasalAgittu. hAgiruvAga, kannaDakke bEkAguva
 arimeya padagaLannu unTumADuvudakkAgi kannaDaddE Ada padagaLannu
 baLasidalli yAke gondalavunTAgabEku?
 
+<a id="sec-4-4"></a>
+
 ### 4.4 sollarimeya mArpuruLu
 
 arimeya barahagaLu toDakinavAgi kANisalu avugaLalli heccu heccu
@@ -3272,6 +3514,8 @@ nnunTumADaballuvu.
 (2ka) sollu tiLisuva sangatiyannu (2ca) sollinalli arenEraLe
 kiraNagaLu  emba  padakanteya  pariceyAgi  (sUryanu  biDuva
 (atinEraLe kiraNagaLu) embudAgi) badalAyisalAgide.
+
+<a id="sub-4-4-1"></a>
 
 #### 4.4.1 eraDu bageya mArpuruLugaLu
 
@@ -3322,6 +3566,8 @@ yAvAgalU bEkAguttiruttave. idakke kAraNavEnendare,   avannu
 baLasuva mUlaka hELabEkendiruva sangatiyannu tumbA aDakavAgi
 hELalu baruttade, mattu ondE sollinoLage halavu sangatigaLannu
 tumbisi hELalu baruttade.
+
+<a id="sub-4-4-2"></a>
 
 #### 4.4.2 kelavu prayOjanagaLu
 
@@ -3383,6 +3629,8 @@ adannu  bUmiya  sutta  candrana  suttuvike  embudAgi
 mArpaDisabEkAguttade. intaha baLakeyannu bUmiya sutta candrana
 suttuvike  heccu  kaDime  tingaLigomme  naDeyuttade  emba
 sollinalli kANabahudu.
+
+<a id="sub-4-4-3"></a>
 
 #### 4.4.3 toDakenisalu kAraNa
 
@@ -3458,6 +3706,8 @@ biDisi bareyabEkAguttade. baraha Enu hELuttade embudu avugaLalli
 ondE  Odininda  gottAguva  hAgirabEku.  OdiddannE  tirutirugi
 OdabEkAguvantirabAradu.
 
+<a id="sub-4-4-4"></a>
+
 #### 4.4.4 kannaDadalli sollarimeya mArpuruLugaLu
 
 ivattu kannaDadalli arimeya barahagaLannu bareyuvavaru sollarimeya
@@ -3506,6 +3756,8 @@ avara  gamanakke  baruvudE  illa.  yAkendare,  avarige  ivugaLalli
 baruva esakadinda hesarige hAruva modala negetavE toDakinadAgi
 kANisuttade; innu kannaDada hesarininda samskrutada hesarige hAruva
 eraDaneya negeta avara aLavige mIriddu.
+
+<a id="sub-4-4-5"></a>
 
 #### 4.4.5 kannaDada kasuvu
 
@@ -3634,6 +3886,8 @@ padakke badalAgi bEDuvike emba esakapadarUpavannu baLasuva badalu
 bEDike  embudannu  baLasabahudu.  idakke  bEkAguva  oTTugaLu
 kannaDadalli sAkaSTu ive.
 
+<a id="sec-4-5"></a>
+
 ### 4.5 sikkalu sollugaLu
 
 arimeya  barahagaLu  toDakinavAgi  kANisalu  avugaLalli  baruva
@@ -3693,6 +3947,8 @@ Adare,  arimeya  sangatigaLannu  mandimeccuva  hAge,  illavE
 cikka makkaLige tiLiyuva hAge bareyabEkendiruvavaru AdaSTu maTTige
 tamma baravaNigeyalli sikkalu sollugaLannu baLasadirabEku.
 
+<a id="sec-4-6"></a>
+
 ### 4.6 barahada iTTaLa
 
 arimeya  barahagaLu  toDakinavAgi  kANisalu  avugaLalli  halavu
@@ -3706,6 +3962,8 @@ baLakeyAguttave. tAvu Oduttiruva arimeya barahadalli entaha
 barahada  iTTaLa  baLakeyAgide  embudannu  kanDuhiDiyalu  kalisi
 koDadiddare heccina makkaLigU adannu kanDukoLLalu baruvudilla,
 mattu idarindAgi avaru Odinalli hinde bILuttAre.
+
+<a id="sec-4-7"></a>
 
 ### 4.7 mandi meccuvante bareyuvudu
 
@@ -3731,6 +3989,8 @@ SivarAma kArantara bAlaprapancavannu OdinODi, adaralli hEge
 cikkamakkaLigU gottAguva hAge arimeya viSayagaLannu tiLisalAgide
 embudannu gamanisabEku. Adare, ivellavannU naDesalu barahagArarige
 svalpa maTTigAdarU kannaDa sollarimeya tiLivu bEkAguttade.
+
+<a id="sec-4-8"></a>
 
 ### 4.8 tiruLu
 
@@ -3760,6 +4020,8 @@ sollarimeya tiLivillade I tappugaLannu mADalAguttide.
 [English →](./29-kannaDa-vyAkaraNa-yAke-bEku-en#chapter-5--creative-writing-and-grammar) | [Eke →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn-eke#nalbarahagaLu-mattu-sollarime)
 
 ## aydanE pasuge — nalbarahagaLu mattu sollarime
+
+<a id="sec-5-1"></a>
 
 ### 5.1 munnOTa
 
@@ -3847,6 +4109,8 @@ gaLannu baLasi tamma kate, kavite, nATaka modalAduvannu bareyuttAre.
 baNNagaLa arivu kalegArarige hEge neravu nIDaballudO hAgeyE
 sollugaLa arivu nalbarahagArarigU neravu nIDaballudu.
 
+<a id="sec-5-2"></a>
+
 ### 5.2 nalbarahagaLalli sollugaLa baLake
 
 kannaDadalli  entaha  sollugaLella  baLakeyallive,  avugaLa  naDuvina
@@ -3874,6 +4138,8 @@ illavE  kateyannu  hELalu  barahagAranu  entaha  holabugaLannu
 baLasiddAne  embudannu  gamanisabahudu.  I  rIti  gamanisuttA
 hOdalli, kate bareyuvalli baLasabahudAda halavu bageya jANmegaLu
 Oduvavara kaysEruttave.
+
+<a id="sub-5-2-1"></a>
 
 #### 5.2.1 nalbarahagaLu mattu uLida barahagaLu
 
@@ -3964,6 +4230,8 @@ kANabahudu.  avugaLa  nEra  huruLannu  tiLidukoLLuvudakkintalU
 I rIti nEravallada huruLugaLannu kanDukoLLuvudE heccu mukya
 vAdudu.
 
+<a id="sub-5-2-2"></a>
+
 #### 5.2.2 munjarisuvudu
 
 sAmAnyavAgi  ondu  barahavannu  OduvAga,  Odugara  gamanavella
@@ -4032,6 +4300,8 @@ hogesoppina kuritAgi Ata EnAdarU ondu tIrmAnakke barabahu
 dembudannallade, Odina kuritalla. Odugana I eduru nODuvikege
 aDDiyunTAgiruvudE illi beragige mattu naguvige kAraNavAguttade
 (7.4 nODi).
+
+<a id="sub-5-2-3"></a>
 
 #### 5.2.3 sollarime mattu nuDiyoDDava
 
@@ -4135,6 +4405,8 @@ OdisikonDu hOgadiruva sollondu tamma barahadalli bandide
 yAdare,  adannu  badalAyisuvudu  hEge  embudannu  tiLiyalu
 sollarimeya tiLivu I rIti barahagArara neravige baraballudu.
 
+<a id="sec-5-3"></a>
+
 ### 5.3 nATakada mAtu
 
 nATakagaLigU kate, kavite modalAda bEre nalbarahagaLigU naDuve
@@ -4181,6 +4453,8 @@ ondu rItiyalli I aDetaDegaLu nATakada barahagArarige neravannU
 odagisuttave. yAkendare, nODugareduru nillisaballa kelavE kelavu
 nOTagaLige  avara  baraha  sImitavAgirabEkAgideyAda  kAraNa,
 adaralli bigitavannu uLisikoLLalu heccu suLuvAguttade.
+
+<a id="sub-5-3-1"></a>
 
 #### 5.3.1 sULunuDi mattu naDunuDi
 
@@ -4304,6 +4578,8 @@ baLakeyAguttave. nATakagaLalliyU hIgeyE. mEle sUcisida hAge,
 avugaLalli baruva mAtugaLannu bEre kaDegaLalli baLasidevAdare adu
 tIrA asahajavendinisadiradu.
 
+<a id="sub-5-3-2"></a>
+
 #### 5.3.2 naDunuDiyalli sULunuDiya kaTTalegaLa baLake
 
 pAngugaLa naDuve baLakeyAguva naDunuDigU janara naDuve baLake
@@ -4393,6 +4669,8 @@ hAgeyE hELuttirabahudu, mattu hAge hELuvudE Atana pariceyAga
 balludu. I eraDu kaDegaLallU mAtina kaTTalegaLannu muriyalAgide
 embudannu gamanisabahudu.
 
+<a id="sub-5-3-2"></a>
+
 #### 5.3.2 ADunuDi mattu oLanuDigaLa baLake
 
 nATakadalli  ondu  pAngina  (pAtrada)  mAtugaLannu  bareyuvAga,
@@ -4442,6 +4720,8 @@ hAge mADabahudu. Adare I baLakeyannU, ADunuDiya baLakeya
 hAge, haddinallirisikoLLabEkAguttade. illavAdare, I pAngugaLu
 Enu hELuttiddArembudu nATakada nODugarige gottAgadu.
 
+<a id="sec-5-4"></a>
+
 ### 5.4 nATakadalli nuDiyoDDava
 
 nATakagaLannu bareyuvavarige mattu bareda nATakagaLannu oredu nODu
@@ -4453,6 +4733,8 @@ iraballuvu, mattu I huruLugaLannu baLasikonDu nODugara Asakti
 yannu hEge uLisikoLLabahudu embudara kuritAda tiLivu innondu
 bageyadu. I eraDu bageya tiLivugaLU nATakada nuDiyoDDava(Sayli)
 vannu kalpisikoLLuvalli neravige baruttave.
+
+<a id="sub-5-4-1"></a>
 
 #### 5.4.1 sollugaLa naDuvina pattuge
 
@@ -4521,6 +4803,8 @@ baLasuttAne. varadakSiNeya viSayadalli AtanallunTAda kOpa, nirASe,
 tiraskAra  modalAda  anisikegaLannu  I  mUlaka  tumbA  cannAgi
 sUcisalAgide.
 
+<a id="sub-5-4-2"></a>
+
 #### 5.4.2 sollugaLa huruLugaLu
 
 sollugaLige avugaLa ellA baLakegaLallU kANisuvantaha avugaLadE
@@ -4586,6 +4870,8 @@ aLu,  nagu  modalAda  halavu  bageya  anisikegaLannu  mAtina
 mUlaka nODugaralli mUDisabEkendiruva barahagArarige mAtina
 oLaguTTannu tiLisuva sollarime halavu bagegaLalli neravige baraballudu.
 
+<a id="sec-5-7"></a>
+
 ### 5.7 tiruLu
 
 nalbarahagaLannu bareyuvalli mattu avannu orehaccuvalli sollarimeya
@@ -4620,6 +4906,8 @@ oLanuDigaLa sollarimeya tiLividdare oLLeyadu.
 [English →](./29-kannaDa-vyAkaraNa-yAke-bEku-en#chapter-6--the-problems-of-ambiguity) | [Eke →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn-eke#ippuruLinA-toDakugaLu)
 
 ## AranE pasuge — ippuruLina toDakugaLu
+
+<a id="sec-6-1"></a>
 
 ### 6.1 munnOTa
 
@@ -4711,6 +4999,8 @@ bEkAguttade. Aga mAtra avarige tAvu tiLidukonDiruva huruLiginta
 bErAgiruva huruLu adannu hELidavara illavE baredavara manassinalli
 iraballudu embudara arivu unTAguttade.
 
+<a id="sec-6-2"></a>
+
 ### 6.2 ippuruLina sollugaLa bagegaLu
 
 ondu sollu ippuruLina sollAgi kANisalu eraDu mukya kAraNa
@@ -4762,6 +5052,8 @@ adaralli bandiruva huliya bAyige bidda emba tunDusollu
 dana emba padada parice(viSESaNa)yAgiruvudu ondu iTTaLa, mattu
 danada karu emba padakanteya pariceyAgiruvudu innondu iTTaLa.
 
+<a id="sub-6-2-1"></a>
+
 #### 6.2.1 padada ippuruLu
 
 sollugaLalli  baLakeyAguva  heccina  padagaLigU  ondakkinta  heccu
@@ -4780,6 +5072,8 @@ ippuruLina  sollAgide.  idakke  badalu,  avanu  ondu  glAsu
 hAlu kuDida emba sollinalli hAlu pada bandideyAdarU adu
 ippuruLina sollAgi kANisuvudilla. yAkendare, sAmAnyavAgi janaru
 giDada soneyannu glAsinalli hAki kuDiyuvudilla.
+
+<a id="sub-6-2-2"></a>
 
 #### 6.2.2 padarUpada ippuruLu
 
@@ -4912,6 +5206,8 @@ koLLuttade. ettugegAgi, I naLadalli yAvAgalU nIru baruttiru
 ttade emba sollige naLa keTTuhOdudarindAgi nIru sOruttide
 emba huruLAgali, illavE naLavannu yAvAga teredarU adaralli
 nIru baruttade emba huruLAgali sigaballudu.
+
+<a id="sub-6-2-3"></a>
 
 #### 6.2.3 iTTaLagaLa ippuruLu
 
@@ -5070,6 +5366,8 @@ dONiyannu tanage koDi endu kELikonDa.
 hAge mADadiddare, koDabEkAgiruva dONi sollina ADuganadO
 illavE kubjanadO emba viSayadalli ippuruLu kANisikoLLuttade.
 
+<a id="sec-6-3"></a>
+
 ### 6.3 ippuruLu toDakAgiruvudu
 
 mEle sUcisida hAge, ippuruLembudu kelavarige ondu toDakAgi
@@ -5086,6 +5384,8 @@ bEkendiruvavarige, nageyalli muLugisa bEkendiruvavarige, illavE
 mOsamADabEkendiruvavarige adu ottAseyAguttade. yAkendare,
 intaha kelasagaLannu naDesuvudakkAgi avaru ippuruLina sollugaLannu
 tamma mAtinalli illavE barahadalli bEkendE baLasikoLLaballaru.
+
+<a id="sub-6-2-1"></a>
 
 #### 6.2.1 kAnUnugaLannu bareyuvudu
 
@@ -5144,6 +5444,8 @@ avaroLage  jagaLavunTAgaballudu.  Adare,  illi  baLakeyAgiruva
 sollE ippuruLinadAda kAraNa, balbu hAkidavanu tappu mADiddA
 nendu tOrisalu baruvudilla.
 
+<a id="sub-6-3-2"></a>
+
 #### 6.3.2 arimeya barahagaLu
 
 arimeya (vijnAnada) barahagaLalliyU ippuruLina sollugaLu baralE
@@ -5172,6 +5474,8 @@ vAgi tiLidukoLLalu baruvudilla.
 sollugaLa mUlaka viSayavondannu gondalavunTAgada hAge
 tiLisabEkendiruvavarigella I rIti avannu kADuva ippuruLugaLu
 toDakAgiruttave.
+
+<a id="sub-6-3-3"></a>
 
 #### 6.3.3 eNNukagaLalli ippuruLu
 
@@ -5248,6 +5552,8 @@ avarige gottAgide. ippuruLina toDakannu bageharisuvudu eNNukagaLa
 maTTige  ondu  tumbA  mukyavAda  sangatiyAda  kAraNa,  prayatna
 vannantU naDesuttalE irabEkAgide.
 
+<a id="sec-6-4"></a>
+
 ### 6.4 ippuruLu ottAseyAgiruvudu
 
 sollugaLannu tamma Odugara manOranjanegAgi baLasabEkendiruva
@@ -5302,6 +5608,8 @@ sollina modalanE huruLannu paDeyuttAre. AmEle, A huruLiginta
 tIra bErAgiruva huruLige avaru negeyuva hAge mADuvudarallE
 nagebarahagaLannu bareyuva barahagArara jANmeyiruttade.
 
+<a id="sec-6-5"></a>
+
 ### 6.5 tiruLu
 
 eraDu illavE heccu huruLugaLiruva pada illavE padarUpagaLannu
@@ -5329,6 +5637,8 @@ tiLuvaLikeyannu paDeyuvalli nuDiya sollarime neravige baruttade.
 
 ## ELanE pasuge — eraDanE nuDiya kalike
 
+<a id="sec-7-1"></a>
+
 ### 7.1 munnOTa
 
 tamma  tAynuDiyinda  bErAgiruva  eraDanE  nuDiyannu  kaliya
@@ -5354,6 +5664,8 @@ vivarisalAgide. adannE illigU aLavaDisikoLLabahudu.
 idakkU modalu, eraDanE nuDiyannu kaliyuvudara heccugArike
 mattu  holabugaLa  kuritu  kelavu  mukya  viSayagaLannu  keLage
 vivarisalAgide.
+
+<a id="sub-7-1-1"></a>
 
 #### 7.1.1 eraDanE nuDiyannu kaliyuvudara heccugArike
 
@@ -5450,6 +5762,8 @@ rIti tammalliruva ondu heccina nuDiyannu kaLedukoLLuva makkaLu
 svalpa maTTige tamma jANmeyannU kaLedukoLLuttAre embudannu I
 tAyitandeyaru gamanisida hAge kANuvudilla.
 
+<a id="sub-8-1-2"></a>
+
 #### 8.1.2 modalanE mattu eraDanE nuDigaLa kalike
 
 makkaLu tamma modalanE nuDiyannu kaliyuvudakkU, AmEle eraDanE
@@ -5529,6 +5843,8 @@ munde hOguvudu hEgendu tiLiyade, allE uLiyuttAre. idu
 modalanE nuDiya kalikegU eraDanE nuDiya kalikegU naDuviruva
 innondu vyatyAsa.
 
+<a id="sub-7-1-3"></a>
+
 #### 7.1.3 makkaLa kalike mattu doDDavara kalike
 
 eraDanE  nuDiyannu  makkaLu  SAleyalli  kaliyuvudakkU,  baLika
@@ -5595,6 +5911,8 @@ embudAgi  hedaruttiruttAre.  avarige  kalisuvavaru  avariginta
 cikkavarAgiddare,  avaru  tappu  mADalu  innaSTu  hedaruttAre.  I
 hedarikeyE avarannu kalikeyalli hinde bILuva hAge mADuttade.
 
+<a id="sec-7-2"></a>
+
 ### 7.2 eraDanE nuDiyAgi ingliSna kalike
 
 ingliS nuDiyannu (illavE hindi, phrenc, jarmannantaha bErondu
@@ -5602,6 +5920,8 @@ nuDiyannu) kaliyuttiruva kannaDada makkaLige mattu doDDavarige kannaDada
 
 sollarimeyinda neravEnAdarU dorakaballudE embudannu keLage
 (7.2-5)ralli oredu nODalAgide.
+
+<a id="sub-7-2-1"></a>
 
 #### 7.2.1 tAynuDiyannu kalikeyinda horagiDuvudu
 
@@ -5675,6 +5995,8 @@ miduLinalli  I  kelasavannu  naDesalu  bEre  hosa  jAga  baLakege
 baruvudilla.  endare,  tAynuDiya  tiLivige  sambandisida  hAgEnE
 avara eraDanE nuDiya tiLivu miduLinalli nelegoLLuttade.
 
+<a id="sub-7-2-2"></a>
+
 #### 7.2.2 kaTTaLeya mUla
 
 sumAru eraDu sAvira varSagaLindalU makkaLige (illave doDdavarige)
@@ -5727,6 +6049,8 @@ ttade, mattu kaliyuva makkaLigU tamma manassinoLagEnE naDesuttidda
 kelasavannu horage taragatiyallU hedarikeyillade naDesalu baruttade.
 idarindAgi  avarige  tamma  tAynuDiya  mEle  kILarimeyU
 beLeyuvudilla.
+
+<a id="sub-7-2-3"></a>
 
 #### 7.2.3 tAynuDiya sollarimeya baLake
 
@@ -5798,6 +6122,8 @@ kalikeyalli munde hOgaballaru. Adare, kalikeyalli hinde bILuva
 bEre kelavu makkaLige sollarimeya tiLivannu koDisidalli avarU
 munde hOgaballaru.
 
+<a id="sub-7-2-4"></a>
+
 #### 7.2.4 kalikeya tappugaLu
 
 eraDanE  nuDiya  kalikeyinda  modalanE  nuDiyannu  dUra
@@ -5852,6 +6178,8 @@ gamana  harisiddArallade,  adarinda  sigaballa  neravina  kaDege  gamana
 harisilla.  nijakkU  eraDanE  nuDiya  kalikeyalli  tAynuDiyannu
 baLasuvudarindAguva  tondaregintalU  adannu  kaDegaNisu
 vudarindAguva tondareyE heccu keDukannunTumADaballudu.
+
+<a id="sub-7-2-5"></a>
 
 #### 7.2.5 Odalu-bareyalu kaliyuvudu
 
@@ -5954,6 +6282,8 @@ kalikenuDiyAgi baLasuva makkaLu A nuDiyalli eraDanE hantavannu
 talapuvalli suruvinindalU adakkAgi ingliS nuDiyannE baLasuva
 makkaLiginta munde hOguttAre.
 
+<a id="sub-7-2-6"></a>
+
 #### 7.2.6 doDDavara kalike
 
 eraDanE nuDiyondannu makkaLu SAlegaLalli kaliyuvudakkU doDDava
@@ -6014,6 +6344,8 @@ mattu  bareyuva  kelasagaLannu  naDesalu  heccu  suLuvAguttade.
 yAkendare, avarige intaha tiLivannu tamma kalikeyalli baLasikoLLu
 vantaha kasuvide.
 
+<a id="sec-7-3"></a>
+
 ### 7.3 eraDanE nuDiyAgi kannaDada kalike
 
 eraDanE nuDiyAgi kannaDavannu kaliyabEkendiruvavarige, adarallU
@@ -6071,6 +6403,8 @@ bareyalu kalitukoLLaballaru. idu avarige tamma kalikeya aLavina
 mEle nambike huTTuvante mADaballudu, mattu idarindAgi avara
 kalikeyU bEgane munde hOgaballudu.
 
+<a id="sec-7-4"></a>
+
 ### 7.4 tiruLu
 
 eraDanE nuDiya kalikeyalli sollarimeya tiLivu yAva rItiyalli
@@ -6105,6 +6439,8 @@ heccu bEgane munduvariyaballudu.
 [English →](./29-kannaDa-vyAkaraNa-yAke-bEku-en#chapter-8--translation) | [Eke →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn-eke#nuDimArike)
 
 ## enTanE pasuge — nuDimArike
+
+<a id="sec-8-1"></a>
 
 ### 8.1 munnOTa
 
@@ -6152,6 +6488,8 @@ sollarimegaLannu mAtravallade avugaLa naDuvina vyatyAsagaLannU adakke
 tiLisabEkAguttade. I kelasadalli tiLivigaru entaha sollarimeya
 tondaregaLannella edurisabEkAguttade embudannu keLage (8.5)ralli
 vivarisalAgide.
+
+<a id="sub-8-1-1"></a>
 
 #### 8.1.1 eraDu bagetagaLu
 
@@ -6243,6 +6581,8 @@ huruLAgi  koDaballevallade  pUrtiyAgi  adu  koDuva  tiLivannE
 koDuva  sollannu  innondu  nuDiyalli  koDalArevu.  antaha
 sollannu adE nuDiyallU koDalArevu!
 
+<a id="sub-8-1-2"></a>
+
 #### 8.1.2 nuDimAruva bage
 
 ondu nuDiya barahavannu innondu nuDiya barahavAgi mArpaDisu
@@ -6294,6 +6634,8 @@ Ata Enannu edurunODuttirabahudu embudara tiLivu innondu
 bageyadu.  I  eraDu  bageya  tiLivugaLannu  nuDimArugaru  hEge
 baLasikoLLabahudu embudannu keLage vivarisalAgide:
 
+<a id="sec-8-2"></a>
+
 ### 8.2 mUla barahada tiLivu
 
 mEle sUcisida hAge, barahada guri Enu embudannu tiLidukonDu,
@@ -6317,6 +6659,8 @@ barahada gurigaLa naDuviruva I eraDu bageya vyatyAsagaLannu
 gamanisi,  avakke  anusAravAgi  tamma  nuDimArikegaLannu  hondisi
 koLLuva aLavu nuDimArugarallirabEkAguttade. I eraDu kelasagaLannu
 naDesuvallU sollarimeya tiLivu neravige baruttade.
+
+<a id="sub-8-2-1"></a>
 
 #### 8.2.1 ADunuDiya baLake
 
@@ -6364,6 +6708,8 @@ tamma barahagaLalli baLasuttAre. nuDimArugaru idannu gamanisikonDu,
 adakkanusAravAgi tamma nuDimArikeyallU ADunuDiya saviyannaSTE
 odagisalu prayatnisabEku.
 
+<a id="sub-8-2-2"></a>
+
 #### 8.2.2 barahada oDDava
 
 ondu barahavannu bareyuttiruva samayadalli barahagAraru halavu
@@ -6407,6 +6753,8 @@ haNa koDalpaTTitu embantaha sollugaLannu kelavaru baLasuttAre.
 Adare, I iTTaLada baLake kannaDadalli kelavE kelavu bageya barahagaLige
 mAtra takkudAgide. hAgAgi, ingliSna pEsiv illavE samskrutada
 karmaNi bandallella adannu kannaDadalli baLasalu baruvudilla.
+
+<a id="sub-8-2-3"></a>
 
 #### 8.2.3 bEre kelavu toDakugaLu
 
@@ -6472,6 +6820,8 @@ IDunuDiya padavannu baLasabEkAguttade. kannaDada doDDamma emba
 padakke badalAgi eTajaeDi moNaheDi embudannu baLasidalli adu ingliS
 barahadalli hondikoLLalAradu.
 
+<a id="sec-8-3"></a>
+
 ### 8.3 IDunuDiya Oduga
 
 ondu nuDimArida baraha cannAgideyendu hELabEkAdare, mUla
@@ -6492,6 +6842,8 @@ hosadAgi  sErisikoLLuttAre.  nuDimArida  baraha  Odugarannu
 dAritappisuvantirabAradu,  mattu  toDaku  toDakAda  pada  mattu
 sollina iTTaLagaLa baLakeyinda Odugaru dUra hOguvanteyU
 mADabAradu.
+
+<a id="sub-8-3-1"></a>
 
 #### 8.3.1 tiLidudu mattu tiLiyadudu
 
@@ -6543,6 +6895,8 @@ prayatnisabEku. I viSayadalli mUlanuDi baLasuva holabiginta
 IDunuDi  baLasuva  holabu  bEreyadAgiraballudAda  kAraNa,
 nuDimArugaru I vyatyAsavannu gamanisuttirabEku.
 
+<a id="sub-8-3-2"></a>
+
 #### 8.3.2 hoddikeya gurutugaLu
 
 hinde baredudakkU Iga bareyuttiruvudakkU naDuve yAva rItiya
@@ -6565,6 +6919,8 @@ garu ingliS mattu kannaDa nuDigaLa naDuviruva I vyatyAsagaLannu
 sariyAgi  tiLidukonDu,  bEkAgiruva  mArpADugaLannu  tamma
 barahagaLalli mADikoLLabEkAguttade. illavAdare, avara barahadoLage
 ingliS nuDiya parice nusuLibiDuttade.
+
+<a id="sec-8-4"></a>
 
 ### 8.4 nalbarahagaLa nuDimArike
 
@@ -6596,6 +6952,8 @@ nuDimAruvudu avaSya embudAgi avaru vAdisuttAre. yAkendare,
 bEre nuDigaLalli nalbarahagAraru yAva rItiyalli tamma nuDiya
 kasuvannu baLasikoLLuttAre mattu heccisikoLLuttAre embudannu intaha
 nuDimArikegaLu tOrisikoDaballuvu.
+
+<a id="sec-8-5"></a>
 
 ### 8.5 eNNukada nuDimArike
 
@@ -6664,6 +7022,8 @@ balluvu. adu bEkAgiruvantahadendu gottAda mEle bEkiddare,
 nuDimArugara neravininda adara oLLeya nuDimArikeyannu paDeyalu
 hOgabahudu.
 
+<a id="sub-8-5-1"></a>
+
 #### 8.5.1 eNNukada hammugegaLu
 
 nuDimArikege eNNukavannu baLasatoDagida samayadalli, adara mUlaka
@@ -6702,6 +7062,8 @@ huruLannu  suLuvAgi  AydukoLLaballudu.  Adare,  I  kelasavannu
 naDesalu  bEkAguva  arivannu  eNNukagaLige  koDisuvudu  hEge
 embudinnU tiLivigarige gottAgilla. hAgAgi, I viSayadalli eNNuka
 gaLu tumbA tappu mADuttive.
+
+<a id="sub-8-5-2"></a>
 
 #### 8.5.2 mAreDe hammuge
 
@@ -6770,6 +7132,8 @@ viSayagaLannU mUru bEre bEre angagaLalli bErpaDisi koDalAgu
 ttade. hIge mADuvudarindAgi, munde avugaLalli mArpADugaLannu
 mADikoLLuva kelasa heccu suLuvinadAguttade.
 
+<a id="sub-8-5-3"></a>
+
 #### 8.5.3 eDenuDi hammuge
 
 mAreDe hammugeginta eDenuDi hammuge sollugaLige kalpita rUpavannu
@@ -6827,6 +7191,8 @@ mAtra  samAnavAgideyallade  bEre  nuDigaLige  samAnavAdudalla.
 hIge mADuvudarinda avaru kalpisikoLLabEkAgiruva eDenuDi heccu
 toDakinadAguvudilla.
 
+<a id="sub-8-5-4"></a>
+
 #### 8.5.4 eNikeya hammuge
 
 mElina eraDu bageya hammugegaLigU neravAguva hAge, innondu
@@ -6859,6 +7225,8 @@ barahagaLu eNNukagaLige sigaballa rUpadalli irabEkAguttade. hAgAgi,
 sadyakkantU I hammugeyannu ingliS, phranc, jarman modalAda
 kelavE kelavu nuDigaLalli mAtra baLasaballevu.
 
+<a id="sub-8-5-5"></a>
+
 #### 8.5.5 eNNukagaLa toDakugaLu
 
 nuDimAruvalli eNNukagaLu halavu bageya toDakugaLannu edurisa
@@ -6887,6 +7255,8 @@ tusuvAdarU vyatyAsa iddE iruttade. hAgAgi, ondu padavannu
 innondu padada huruLAgi koDuvAgalella intaha tiLivina vyatyAsa
 gaLannu kaDegaNisuttalE irabEkAguttade. ellA nuDigaLigU samAnavAga
 balla eDenuDiyondannu unTumADuvalli idU ondu toDakAgide.
+
+<a id="sub-8-5-6"></a>
 
 #### 8.5.6 oLanuDigaLa nuDimArike
 
@@ -6927,6 +7297,8 @@ dakkinta heccu suLuvAda kelasavAgide. idallade, eNNukagaLu koDaballa
 nuDimArikegaLu oLanuDiyavAgiddalli, avu heccu mandi Odugarige
 meccugeyAgaballuvu.
 
+<a id="sub-8-5-7"></a>
+
 #### 8.5.7 eNNukagaLigAgi bareyuvudu
 
 eNNukagaLa toDakannu kaDime mADalu nammedurigiruva innondu
@@ -6951,6 +7323,8 @@ intaha barahagaLannu eNNukagaLu Odugarige meccugeyAguva hAge
 
 nuDimAraballuvu.
 
+<a id="sec-8-6"></a>
+
 ### 8.6 tiruLu
 
 barahagaLannu ondu nuDiyinda innondu nuDige nuDimAra bEkendiru
@@ -6973,6 +7347,8 @@ bEkAguttade.
 [English →](./29-kannaDa-vyAkaraNa-yAke-bEku-en#chapter-9--language-planning) | [Eke →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn-eke#nuDihammuge)
 
 ## ombattanE pasuge — nuDihammuge
+
+<a id="sec-9-1"></a>
 
 ### 9.1 munnOTa
 
@@ -7005,6 +7381,8 @@ nuDihammuge
 
 antaha nuDiyannu kELuttA beLeyuva makkaLa bAyiyalli adondu
 hosa nuDiyAgi mArpaDuttade.
+
+<a id="sub-9-1-1"></a>
 
 #### 9.1.1 mArpADugaLu yAke naDeyuttave?
 
@@ -7066,6 +7444,8 @@ I rIti ADaLita, kUTa, illavE vyaktigaLu naDesuva nuDihammugegaLa
 mUlakavU ondu nuDiya illavE ADunuDiya parice(rUpa) mattu
 baLakegaLalli naDeyabEkAgiruva mArpADugaLu naDeduhOgaballuvu.
 
+<a id="sub-9-1-2"></a>
+
 #### 9.1.2 hammugegaLa bagegaLu
 
 mEle sUcisida hAge, mArpADugaLu nuDiya oLagannu tAgabahudu,
@@ -7094,6 +7474,8 @@ arimeya (vijnAnada) kalikege bEkAguva sAvirAru hosa padagaLannu
 unTumADikoTTiddarU, A nuDiyannu antaha kalikegAgi baLasalu
 toDagadiddalli, avu padanerake(kOSa)gaLalli mAtravE kANisikoLLuva
 padagaLAgi uLiyaballuvallade A nuDiya padagaLendenisalAravu.
+
+<a id="sub-9-1-3"></a>
 
 #### 9.1.3 hammugeya hantagaLu
 
@@ -7143,6 +7525,8 @@ tOrisikoDuvudE I pasugeya guriyAda kAraNa, parice mattu
 beLavaNige emba adara eraDu mattu nAlkaneya hantagaLannu mAtra
 illi gamanisalAgide.
 
+<a id="sec-9-2"></a>
+
 ### 9.2 parice hammuge
 
 ondu  nADinalli  illavE  samAjadalli  nuDihammugeya  mUlaka
@@ -7168,6 +7552,8 @@ intaha nuDipariceya mArpADugaLannu sariyAgi, munde janarige
 tondareyAgada hAge, naDesabEkiddalli, adannu naDesikoDuvavaru
 nuDiyarimeyannu  mattu  A  nuDiya  sollarimeyannu  cannAgi
 tiLidirabEkAguttade.
+
+<a id="sub-9-2-1"></a>
 
 #### 9.2.1 barigehammuge
 
@@ -7207,6 +7593,8 @@ samAjadalli barahavannu ellara sottAgi mADuva kelasavU tumbA
 suLuvAguva  hAge  mADiddAre.  Adare,  bEre  kelavaru  tamma
 ariyame(ajnAna)yindAgi, adu tumbA toDakina kelasavAguva
 hAgeyU mADiddAre.
+
+<a id="sub-9-2-2"></a>
 
 #### 9.2.2 sariyAgi mADida barigehammugegaLu
 
@@ -7278,6 +7666,8 @@ tondaregoLagAguvudilla. amerikAdalli makkaLige tumbA padabarigeya
 toDakugaLiruva ingliS barahavannu kalisabEkAguttade mattu phinlenDi
 nalli yAva toDakU illada phinniS barahavannu kalisabEkAguttade
 embudE I vyatyAsakke kAraNavendu hELalAguttade.
+
+<a id="sub-9-2-3"></a>
 
 #### 9.2.3 tappAgi mADida barige hammugegaLu
 
@@ -7420,6 +7810,8 @@ OdalAguttade mattu Oduva hAgeyE bareyalAguttade. hAgAgi,
 avugaLalli Odalu illavE bareyalu kaliyuvavaru yAva barige
 yAva uliyannu sUcisuttade embudannaSTE tiLidukonDare sAku.
 
+<a id="sub-9-2-4"></a>
+
 #### 9.2.4 kannaDa barahada padabarigeya toDaku
 
 kannaDakke  tumbA  oLLeya  barigekaTTaleyide.  yAkendare,  kannaDaddE
@@ -7490,6 +7882,8 @@ hAge mADidalli, ivattu kannaDa barahadalliruva padabarigeya toDaku
 pUrti illavAgaballudu, mattu adu phinniS, koriyan modalAda
 barahagaLa hAge, janarige kaliyalu tumbA suLuvAda barahavAga
 balludu.
+
+<a id="sub-9-2-5"></a>
 
 #### 9.2.5 sollarimeya hammuge
 
@@ -7601,6 +7995,8 @@ halavu  barahagaLannu  tayArisuvudu  emba  I  eraDu  kelasagaLu
 jotejoteyAgiyE  naDeyabEkAguttade.  avugaLalli  ondu
 innondakke pUrakavAgiruva kAraNa, ondannu mugisi innondannu
 ettikoLLuva hAgilla.
+
+<a id="sub-9-2-6"></a>
 
 #### 9.2.6 padanerakeya hammuge
 
@@ -7725,6 +8121,8 @@ baLasatoDagabEku.  hosagannaDadalli  idakke  bEkAguva  padagaLu
 illavAdare, adakkAgi haLegannaDada padagaLannu baLasuvudE kannaDakke
 anukUlavAda dAri.
 
+<a id="sec-9-3"></a>
+
 ### 9.3 beLavaNigeya hammuge
 
 ellara nuDiyAgi baLakege banda nuDiyalli halavu bageya beLavaNige
@@ -7757,6 +8155,8 @@ baraballuvu. ivugaLannu naDesikoDuvalliyU sollarimeya tiLivu
 neravige baruttade. sollarimeya tiLivillade naDesida beLavaNigeya
 hammugegaLu janarannu tondareyalli silukisuttave.
 
+<a id="sec-9-4"></a>
+
 ### 9.4 tiruLu
 
 ondu samAjadalli halavu nuDigaLu illavE ADunuDigaLu baLake
@@ -7777,6 +8177,8 @@ horaTalli, samAja halavu bageya tondaregaLigoLagAguttade.
 [English →](./29-kannaDa-vyAkaraNa-yAke-bEku-en#chapter-10--speech-disorders) | [Eke →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn-eke#mAtina-tondaregaLu)
 
 ## hattanE pasuge — mAtina tondaregaLu
+
+<a id="sec-10-1"></a>
 
 ### 10.1 munnOTa
 
@@ -7826,6 +8228,8 @@ gaLindAgi, kANisikoLLuva mAtina tondaregaLu eraDanE bageyavu;
 ivannu baLakeya mAtina tondaregaLu embudAgi hesarisabahudu.
 I  eraDu  bageya  tondaregaLannu  bageharisuvallU  uliyarime
 mattu sollarimegaLa tiLivu neravige baruttade.
+
+<a id="sec-10-2"></a>
 
 ### 10.2 beLavaNigeya mAtina tondaregaLu
 
@@ -7885,6 +8289,8 @@ entahavu embudara kuritAgi, mattu avannu bageharisuvalli illavE
 kaDime mADuvalli uliyarime mattu sollarimegaLa tiLivannu hEge
 baLasaballevu embudara kuritAgi kelavu vivaragaLannu keLage koDalA
 
+<a id="sub-10-2-1"></a>
+
 #### 10.2.1 kivi kELisada makkaLu
 
 makkaLige kivi sariyAgi kELisuvudillavAdare, avaru mAtina kalikeyalli
@@ -7941,6 +8347,8 @@ sannenuDigaLalli  kaysanne,  kaNNusanne,  hubbugaLa  kuNita,  tuTigaLa
 sarita  (calane),  taleya  sarita,  nilluva  bage  modalAdavugaLannu
 sannegaLAgi  mADi,  avugaLa  mUlaka  pada,  padakante,  sollugaLu
 modalAduvannu racisalAguttade.
+
+<a id="sub-10-2-2"></a>
 
 #### 10.2.2 uliya tondaregaLu
 
@@ -8021,6 +8429,8 @@ mattu sollugaLalli baLasi nuDiyuvudu hEge embudannU kalisa
 bEkAguttade.  intaha  kelavu  divasagaLa  kalike  avarige  doretalli,
 avara todalu nuDi illavAdItu.
 
+<a id="sub-10-2-3"></a>
+
 #### 10.2.3 sollarimeya tondaregaLu
 
 mAtu kaliyuva makkaLalli halavu bageya sollarimeya tondaregaLU
@@ -8064,6 +8474,8 @@ toDakugaLa nijavAda parice(svarUpa) entahadu embudannu tiLiya
 bEkendiruvavarige,  mattu  avugaLannu  hOgalADisuvalli  illavE
 kaDimemADuvalli  neravAgabEkendiruvavarige  sollarimeya  tiLivu
 bEkAguttade.
+
+<a id="sub-10-2-4"></a>
 
 #### 10.2.4 Odina tondaregaLu
 
@@ -8117,6 +8529,8 @@ gaLEnAdarU iveyE embudannu kanDuhiDidu, avannu hOgalA
 Disalu illavE hatOTiyallirisalu kalisidalli, avaru heccu kaDime
 bEre makkaLaSTE cannAgi Odalu kaliyaballaru.
 
+<a id="sub-10-2-5"></a>
+
 #### 10.2.5 uggumAtu
 
 mAtu kaliyuva makkaLalli kANisuva innondu tondareyendare
@@ -8145,6 +8559,8 @@ mattu usirATavannu hiDitadallirisikoLLalu kalisabahudu. ivellavU
 uggumAtina mEle hatOTiyannu paDeyalu neravAguttave. illiyU
 kUDa,  mAtanADuvAga  uligaLannu  unTumADuva  bage  hEge
 embudannu vivarisuva uliyarime neravige baruttade.
+
+<a id="sec-10-3"></a>
 
 ### 10.3 baLakeya tondaregaLu
 
@@ -8189,6 +8605,8 @@ Dalu bAradavaru) mattu vernikeya tondareyavaru (salIsAgi, Adare
 yAva huruLU illadante, mAtanADuvavaru) embudAgi vingaDisi
 pariSIlisalAguttide.
 
+<a id="sub-10-3-1"></a>
+
 #### 10.3.1 salIsAda mAtu
 
 brOkAna tondareyiruvavarige salIsAgi mAtanADalu baruvudilla.
@@ -8232,6 +8650,8 @@ baLasalu ivarige bAradirabahudu. mUraneyadAgi, sollugaLalli
 baruva padagaLa huruLannu kuLLiha(sandarba)dinda tiLidukoLLalu bAradira
 bahudu. kelavarige mAtanADuvAga takkudAda padagaLE sigadirabahudu.
 
+<a id="sub-10-3-2"></a>
+
 #### 10.3.2 huruLillada mAtu
 
 vernikeya tondareyiruvavarige salIsAgi mAtanADalu baruttade.
@@ -8268,6 +8688,8 @@ intaha  janarige  sariyAda  upacAragaLannu  odagisuva  mUlaka
 tondaregaLannu  kaDimemADabahudu.  idakke  sollarimeya  neravu
 bEkAguttade.
 
+<a id="sec-11-4"></a>
+
 ### 11.4 tiruLu
 
 makkaLu  mAtu  kaliyuva  samayadalli,  mattu  mAtannu  kalita
@@ -8282,6 +8704,8 @@ mattu sollarimeya neravu bEkAguttade.
 [English →](./29-kannaDa-vyAkaraNa-yAke-bEku-en#chapter-11--conclusion) | [Eke →](./29-kannaDa-vyAkaraNa-yAke-bEku-kn-eke#muktAya)
 
 ## hannondanE pasuge — muktAya
+
+<a id="sec-11-1"></a>
 
 ### 11.1 halavu bageya baLakeya sollarimegaLu
 
@@ -8378,6 +8802,8 @@ viSayagaLu namma kaNNeduru mUDibaruttave. hAgAgi, I eraDu
 bageya arakegaLU oTToTTige munde hOguttiddalli averaDarallU
 nAvu hosa hosa viSayagaLannu kanDukoLLuttirabahudu.
 
+<a id="sec-11-2"></a>
+
 ### 11.2 eraDu bageya sollarimeya tiLivu
 
 sollarimeya tiLivu namma arivige eTakuvantahadu mattu eTaka
@@ -8453,6 +8879,8 @@ kOnadinda nODidAga, illavE nuDimArikeya kOnadinda nODi
 dAga siguvavugaLiginta halavu viSayagaLalli bErAgiruttave. hAgAgi,
 ellA viSayagaLallU paripUrNavAgiruvantaha arikeyarivina sollarime
 yannu yArU bareyalAraru.
+
+<a id="sec-11-3"></a>
 
 ### 11.3 sollarimeya heccugArike
 
