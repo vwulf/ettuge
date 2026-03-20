@@ -694,9 +694,9 @@ aparUpa. padadoTTu mattu padarUpadoTTugaLa naDuviruva intaha
 vyatyAsagaLalli kelavannu keLage svalpa vivaravAgi koDalAgide.
 
 
-<a id="sec-1-6-1"></a>
+<a id="sec-1-5-1"></a>
 
-## ೧.೬.೧ tayArike mattu baLake
+### ೧.೫.೧ tayArike mattu baLake
 
 padadoTTu mattu padarUpadoTTugaLa naDuviruva ondu mukyavAda
 vyatyAsavEnendare, padadoTTu padada oLaracaneyalli baruttiddu adakke
@@ -731,9 +731,9 @@ modalAduvannu) vAkyagaLalli baLasuvAga avellavU A eraDu padagaLige
 sambandhisidavugaLemba viSaya spaShTavAgiyU namage tiLidiruttade.
 
 
-<a id="sec-1-6-2"></a>
+<a id="sec-1-5-2"></a>
 
-## ೧.೬.೨ baLakeyalli kaDDAya
+### ೧.೫.೨ baLakeyalli kaDDAya
 
 padadoTTu mattu padarUpadoTTugaLa naDuviruva innondu mukya
 vyatyAsavEnendare, padarUpadoTTugaLu niyamitavAgi ondu gumpige
@@ -769,9 +769,9 @@ ettugegAgi oLaracaneyillada mara, giDa modalAda hesarupadagaLa
 baLakeyannu gamanisabahudu.
 
 
-<a id="sec-1-6-3"></a>
+<a id="sec-1-5-3"></a>
 
-## ೧.೬.೩ rUpapaTTigaLu
+### ೧.೫.೩ rUpapaTTigaLu
 
 padarUpadoTTugaLu rUpapaTTigaLa angagaLAgi baruttave. ettugegAgi
 sollondaralli baruva hesarupadagaLigU esakapadakkU naDuviruva
@@ -803,9 +803,9 @@ kaDDAyavU kANisuvudilla.
 
 
 
-<a id="sec-1-6-4"></a>
+<a id="sec-1-5-4"></a>
 
-## ೧.೬.೪ eravalu
+### ೧.೫.೪ eravalu
 
 padadoTTugaLannu bEre nuDigaLinda tumbA suLuvAgi eravalu
 paDeyabahudu. Adare, padarUpadoTTugaLannu A rIti eravalAgi
@@ -840,9 +840,9 @@ kannaDadalli I oTTu ondu 'oTTA'gi uLiyuva badalu ondu
 horakuLi padada hAge baLakeyallide - ೮.೩.೭ nODi).
 
 
-<a id="sec-1-6-5"></a>
+<a id="sec-1-5-5"></a>
 
-## ೧.೬.೫ huruLinalli vyatyAsa
+### ೧.೫.೫ huruLinalli vyatyAsa
 
 
 
@@ -883,9 +883,9 @@ padagaLellavakkU ondE rItiya huruLannu koDalu bAradiruvudakke
 idU ondu kAraNa.
 
 
-<a id="sec-1-6-6"></a>
+<a id="sec-1-5-6"></a>
 
-## ೧.೬.೬ baLakeyallillada padagaLu
+### ೧.೫.೬ baLakeyallillada padagaLu
 
 
 
