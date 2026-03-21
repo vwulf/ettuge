@@ -12,15 +12,6 @@ aux_links:
 
 footer_content: "DNS Bhat Kannada Linguistics — ettuge repository"
 
-collections:
-  dnsbhat:
-    output: true
-
-just_the_docs:
-  collections:
-    dnsbhat:
-      name: DNS Bhat
-      nav_fold: true
 
 defaults:
   - scope:
