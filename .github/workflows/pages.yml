@@ -218,13 +218,15 @@ jobs:
                       f.write(content)
                   sidebar_files.add(file_path)
 
-          # ── Pass 5: Build README landing pages (nav_exclude: true) ────────
+          # ── Pass 5: Build book landing pages as index.md ─────────────────
+          # Written to index.md (not README.md) so Jekyll serves the page at
+          # the directory URL /dnsbhat/NN-slug/ — top-level README links work.
           for b in books:
-              readme_md = os.path.join(b['path'], 'README.md')
-              if not os.path.exists(readme_md):
+              readme_src = os.path.join(b['path'], 'README.md')
+              if not os.path.exists(readme_src):
                   continue
 
-              with open(readme_md, encoding='utf-8') as f:
+              with open(readme_src, encoding='utf-8') as f:
                   readme = f.read()
 
               m = re.search(r'^# \d+ — (.+)$', readme, re.MULTILINE)
@@ -266,9 +268,11 @@ jobs:
               if b['redirect_from_main']:
                   lf_args['redirect_from'] = b['redirect_from_main']
 
-              with open(readme_md, 'w', encoding='utf-8') as f:
+              # Write to index.md so the directory URL /NN-slug/ resolves correctly
+              index_md = os.path.join(b['path'], 'index.md')
+              with open(index_md, 'w', encoding='utf-8') as f:
                   f.write(fm(**lf_args) + ''.join(body_parts))
-              sidebar_files.add(readme_md)
+              sidebar_files.add(index_md)
 
           # ── Pass 6: Mark all remaining .md files as nav_exclude ───────────
           for root, dirs, files in os.walk(DNSBHAT):
