@@ -30,22 +30,48 @@ jobs:
           mv docs/dnsbhat/README.md docs/dnsbhat/index.md
           printf -- '---\nlayout: default\ntitle: DNS Bhat\nnav_order: 1\nhas_children: true\n---\n\n' | cat - docs/dnsbhat/index.md > /tmp/dnsbhat_index.md && mv /tmp/dnsbhat_index.md docs/dnsbhat/index.md
 
-      - name: Generate format-first sidebar and book landing pages
+      - name: Generate source-first nested sidebar and book landing pages
         run: |
           python3 - <<'PYEOF'
           import os, re
 
           DNSBHAT = 'docs/dnsbhat'
 
-          # ── Sidebar section definitions ───────────────────────────────────
-          SECTIONS = [
-              ('English Summaries',  10, 'english-summaries',
-               'English summaries, DNS Bhat blog posts, and lecture guides.'),
-              ('Kannada Text',       20, 'kannada-text',
-               'Original Kannada text — OCR and book content.'),
-              ('Eke Transliteration', 30, 'eke-transliteration',
-               'Eke phonemic romanisation — readable without Kannada script.'),
+          # ── Source × Language hierarchy ───────────────────────────────────
+          # Top-level sidebar sections: one per content source
+          SOURCES = [
+              ('book',    'Books',   10),   # (dir_prefix, title, nav_order)
+              ('web',     'Blog',    20),
+              ('youtube', 'YouTube', 30),
           ]
+          # Language sub-sections nested inside each source
+          LANGS = [
+              ('en',  'English',              1),   # (lang_dir, title, nav_order)
+              ('kn',  'Kannada Text',         2),
+              ('eke', 'Eke Transliteration',  3),
+          ]
+          # File search candidates per (source_dir, lang_dir) — first match wins
+          CANDIDATES = {
+              ('book',    'en'):  ['book/en/summary.md'],
+              ('book',    'kn'):  ['book/kn/full.md', 'book/vol1/kn/full.md'],
+              ('book',    'eke'): ['book/eke/full.md', 'book/vol1/eke/full.md'],
+              ('web',     'en'):  ['web/en/summary.md'],
+              ('web',     'kn'):  ['web/kn/full.md'],
+              ('web',     'eke'): ['web/eke/full.md'],
+              ('youtube', 'en'):  ['youtube/en/summary.md'],
+              ('youtube', 'kn'):  ['youtube/kn/full.md'],
+              ('youtube', 'eke'): ['youtube/eke/full.md'],
+          }
+          SRC_TITLE  = {s: t for s, t, _ in SOURCES}
+          LANG_TITLE = {l: t for l, t, _ in LANGS}
+          SRC_DESC = {
+              'book':    'Scanned book content — Kannada text, English summaries, and Eke romanisation.',
+              'web':     'DNS Bhat blog articles — web-published Kannada linguistics content.',
+              'youtube': 'YouTube lecture series — transcripts, summaries, and romanisation.',
+          }
+          LANG_ICON  = {'kn': '📖', 'en': '🇬🇧', 'eke': '🔤'}
+          LANG_LABEL = {'kn': 'ಕನ್ನಡ', 'en': 'English', 'eke': 'Eke'}
+          SRC_LABEL  = {'book': 'Book', 'web': 'Blog', 'youtube': 'YouTube'}
 
           def fm(**fields):
               lines = ['---']
@@ -81,40 +107,30 @@ jobs:
               return None
 
           def add_nav_exclude(fp):
-              """Add nav_exclude: true to a file's front matter (or prepend if none)."""
               with open(fp, encoding='utf-8') as f:
                   content = f.read()
               if content.startswith('---\n'):
-                  # Already has front matter — add nav_exclude after opening ---
                   content = '---\nnav_exclude: true\n' + content[4:]
               else:
                   content = '---\nnav_exclude: true\n---\n\n' + content
               with open(fp, 'w', encoding='utf-8') as f:
                   f.write(content)
 
-          # Track files that have been given proper sidebar front matter
+          def url(rel):
+              return rel[:-3] if rel and rel.endswith('.md') else rel
+
+          # Track files that have been assigned proper sidebar front matter
           sidebar_files = set()
           sidebar_files.add(os.path.join(DNSBHAT, 'index.md'))
 
-          # ── Create section index pages ────────────────────────────────────
-          for title, order, fname, desc in SECTIONS:
-              fp = os.path.join(DNSBHAT, fname + '.md')
-              with open(fp, 'w', encoding='utf-8') as f:
-                  f.write(fm(title=title, nav_order=order,
-                             has_children=True, nav_exclude=False))
-                  f.write(f'# {title}\n\n{desc}\n')
-              sidebar_files.add(fp)
-
-          # ── Process each book directory ───────────────────────────────────
+          # ── Pass 1: Gather book metadata and content paths ────────────────
+          books = []
           for book_dir in sorted(os.listdir(DNSBHAT)):
               book_path = os.path.join(DNSBHAT, book_dir)
               if not os.path.isdir(book_path):
                   continue
 
-              # ── Get nav metadata from youtube/kn/full.md ─────────────────
-              # After Phase B migration, the YouTube assembled file (formerly
-              # NN-slug.md) moved to youtube/kn/full.md. It carries title +
-              # nav_order front matter used to position books in the sidebar.
+              # Nav metadata carrier: youtube/kn/full.md (carries title + nav_order)
               main_md = os.path.join(book_path, 'youtube', 'kn', 'full.md')
               if not os.path.exists(main_md):
                   continue
@@ -127,35 +143,74 @@ jobs:
               if not fm_match:
                   continue
 
-              fm_text   = fm_match.group(1)
-              body_orig = orig[fm_match.end():]
+              fm_text    = fm_match.group(1)
               book_title = read_field(fm_text, 'title') or book_dir
               raw_order  = int(read_field(fm_text, 'nav_order') or 0)
               book_num   = raw_order % 100   # 101→1, 124→24
 
-              # ── Find content files at new taxonomy paths ──────────────────
-              def find_first(*rels):
-                  for r in rels:
-                      fp2 = os.path.join(book_path, r)
-                      if os.path.exists(fp2):
-                          return fp2, r
-                  return None, None
+              # Find content file for each (source, lang) combo — first match wins
+              found = {}   # (src_dir, lang_dir) → (abs_path, rel)
+              for (src, lang), candidates in CANDIDATES.items():
+                  for rel in candidates:
+                      fp = os.path.join(book_path, rel)
+                      if os.path.exists(fp):
+                          found[(src, lang)] = (fp, rel)
+                          break
 
-              en_path,  en_rel  = find_first(
-                  'book/en/summary.md', 'web/en/summary.md', 'youtube/en/summary.md')
-              kn_path,  kn_rel  = find_first(
-                  'book/kn/full.md', 'book/vol1/kn/full.md', 'web/kn/full.md')
-              eke_path, eke_rel = find_first(
-                  'book/eke/full.md', 'book/vol1/eke/full.md',
-                  'web/eke/full.md', 'youtube/eke/full.md')
+              books.append({
+                  'dir':               book_dir,
+                  'path':              book_path,
+                  'title':             book_title,
+                  'raw_order':         raw_order,
+                  'book_num':          book_num,
+                  'redirect_from_main': get_redirect_from(orig),
+                  'found':             found,
+              })
 
-              def write_section_entry(file_path, rel, section_title):
+          # ── Determine which source / source×lang combos have content ──────
+          active_srcs      = set(src for b in books for (src, _) in b['found'])
+          active_src_langs = set((src, lang) for b in books for (src, lang) in b['found'])
+
+          # ── Pass 2: Create top-level source section pages ─────────────────
+          for src_dir, src_title, src_order in SOURCES:
+              if src_dir not in active_srcs:
+                  continue
+              fp = os.path.join(DNSBHAT, f'{src_dir}.md')
+              with open(fp, 'w', encoding='utf-8') as f:
+                  f.write(fm(title=src_title, nav_order=src_order,
+                             has_children=True, nav_exclude=False))
+                  f.write(f'# {src_title}\n\n{SRC_DESC[src_dir]}\n')
+              sidebar_files.add(fp)
+
+          # ── Pass 3: Create language sub-section pages ─────────────────────
+          for src_dir, src_title, _ in SOURCES:
+              if src_dir not in active_srcs:
+                  continue
+              for lang_dir, lang_title, lang_order in LANGS:
+                  if (src_dir, lang_dir) not in active_src_langs:
+                      continue
+                  fp = os.path.join(DNSBHAT, f'{src_dir}-{lang_dir}.md')
+                  with open(fp, 'w', encoding='utf-8') as f:
+                      f.write(fm(title=lang_title, parent=src_title,
+                                 nav_order=lang_order, has_children=True,
+                                 nav_exclude=False))
+                      f.write(f'# {lang_title}\n')
+                  sidebar_files.add(fp)
+
+          # ── Pass 4: Write front matter for content files ──────────────────
+          # Each content file gets: parent=lang_title, grand_parent=src_title
+          for b in books:
+              for (src, lang), (file_path, _) in b['found'].items():
                   with open(file_path, encoding='utf-8') as f:
                       content = f.read()
                   redirect_from = get_redirect_from(content)
                   content = strip_fm(content)
-                  fm_args = dict(title=book_title, parent=section_title,
-                                 nav_order=book_num)
+                  fm_args = dict(
+                      title=b['title'],
+                      parent=LANG_TITLE[lang],
+                      grand_parent=SRC_TITLE[src],
+                      nav_order=b['book_num'],
+                  )
                   if redirect_from:
                       fm_args['redirect_from'] = redirect_from
                   with open(file_path, 'w', encoding='utf-8') as f:
@@ -163,28 +218,15 @@ jobs:
                       f.write(content)
                   sidebar_files.add(file_path)
 
-              # English: book/en/summary.md > web/en/summary.md > youtube (fallback)
-              en_fallback = False
-              if en_path:
-                  write_section_entry(en_path, en_rel, 'English Summaries')
-              else:
-                  en_fallback = True  # README becomes the English sidebar entry
-
-              # Kannada Text: book/kn/full.md > web/kn/full.md
-              if kn_path:
-                  write_section_entry(kn_path, kn_rel, 'Kannada Text')
-
-              # Eke Transliteration
-              if eke_path:
-                  write_section_entry(eke_path, eke_rel, 'Eke Transliteration')
-
-              # ── Build landing page from README.md ─────────────────────────
-              readme_md = os.path.join(book_path, 'README.md')
+          # ── Pass 5: Build README landing pages (nav_exclude: true) ────────
+          for b in books:
+              readme_md = os.path.join(b['path'], 'README.md')
               if not os.path.exists(readme_md):
                   continue
 
               with open(readme_md, encoding='utf-8') as f:
                   readme = f.read()
+
               m = re.search(r'^# \d+ — (.+)$', readme, re.MULTILINE)
               kn_title = m.group(1).strip() if m else ''
               m = re.search(r'^\*\*([^*\n]+)\*\*', readme, re.MULTILINE)
@@ -194,19 +236,18 @@ jobs:
               m = re.search(r'^\*\*((?:✅|⚠️)[^\n]+)\*\*', readme, re.MULTILINE)
               status_line = m.group(1) if m else ''
 
-              # Link table — strip .md so Jekyll serves the HTML page URL
-              def url(rel): return rel[:-3] if rel and rel.endswith('.md') else rel
-
+              # Link table grouped by source
               link_rows = []
-              if kn_path:
-                  link_rows.append(f'| 📖 Kannada text | [ಕನ್ನಡ](./{url(kn_rel)}) |')
-              if en_path:
-                  link_rows.append(f'| 🇬🇧 English summary | [English](./{url(en_rel)}) |')
-              if eke_path:
-                  link_rows.append(f'| 🔤 Eke romanisation | [Eke](./{url(eke_rel)}) |')
-              web_raw = os.path.join(book_path, 'web', 'kn', 'raw.md')
+              for src_dir, _, _ in SOURCES:
+                  for lang_dir, _, _ in LANGS:
+                      if (src_dir, lang_dir) in b['found']:
+                          _, rel = b['found'][(src_dir, lang_dir)]
+                          link_rows.append(
+                              f'| {LANG_ICON[lang_dir]} {SRC_LABEL[src_dir]}'
+                              f' | [{LANG_LABEL[lang_dir]}](./{url(rel)}) |')
+              web_raw = os.path.join(b['path'], 'web', 'kn', 'raw.md')
               if os.path.exists(web_raw):
-                  link_rows.append('| 📝 DNS Bhat blog | [Blog](./web/kn/raw) |')
+                  link_rows.append('| 📝 Blog raw | [ಕನ್ನಡ raw](./web/kn/raw) |')
 
               body_parts = []
               if kn_title:
@@ -218,27 +259,18 @@ jobs:
               if status_line:
                   body_parts.append(f'\n*{status_line}*\n')
               if link_rows:
-                  body_parts.append('\n---\n\n| Format | Link |\n|--------|------|\n')
+                  body_parts.append('\n---\n\n| Source | Link |\n|--------|------|\n')
                   body_parts.extend(r + '\n' for r in link_rows)
 
-              # Front matter: preserve redirect_from from youtube/kn/full.md
-              redirect_from_landing = get_redirect_from(orig)
-              if en_fallback:
-                  lf_args = dict(title=book_title, parent='English Summaries',
-                                 nav_order=book_num)
-              else:
-                  lf_args = dict(title=book_title, nav_order=raw_order,
-                                 nav_exclude=True)
-              if redirect_from_landing:
-                  lf_args['redirect_from'] = redirect_from_landing
+              lf_args = dict(title=b['title'], nav_order=b['raw_order'], nav_exclude=True)
+              if b['redirect_from_main']:
+                  lf_args['redirect_from'] = b['redirect_from_main']
 
               with open(readme_md, 'w', encoding='utf-8') as f:
                   f.write(fm(**lf_args) + ''.join(body_parts))
               sidebar_files.add(readme_md)
 
-          # ── Mark every other .md file as nav_exclude ──────────────────────
-          # This prevents raw.md, full.md (non-sidebar), youtube files etc.
-          # from appearing in the just-the-docs sidebar.
+          # ── Pass 6: Mark all remaining .md files as nav_exclude ───────────
           for root, dirs, files in os.walk(DNSBHAT):
               dirs[:] = [d for d in dirs if not d.startswith('.')]
               for fname in files:
@@ -247,7 +279,7 @@ jobs:
                       if fp not in sidebar_files:
                           add_nav_exclude(fp)
 
-          print("Format-first sidebar and landing pages generated.")
+          print("Source-first nested sidebar and landing pages generated.")
           PYEOF
 
       - name: Setup Ruby
