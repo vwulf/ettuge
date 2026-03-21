@@ -9,5 +9,5 @@ redirect_from:
 
 | Format | Link |
 |--------|------|
-| English summary | [en](../en/summary) |
-| Eke romanisation | [eke](../eke/full) |
+| English summary | [en](../../book/en/summary) |
+| Eke romanisation | [eke](../../book/eke/full) |
