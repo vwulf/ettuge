@@ -686,6 +686,87 @@ Commits: `500a296` (intermediate `^..^` convention — superseded), `971e918` (f
 
 ---
 
+### Phase 19 — Deep 3-Level TOC + Section Anchors (2026-03-20)
+
+**Scope:** All 11 books with kn.md (02, 03, 07-vol1, 07-vol2, 08, 14, 17, 25, 27, 28, 29).
+
+**Changes:**
+- Added `<a id="sec-N-M">` anchors at all section headings and `<a id="sub-N-M-K">` at all subsection headings in every kn.md
+- ಪರಿವಿಡಿ TOC in each kn.md extended to list all three levels (chapter → section → subsection)
+- Cross-links inserted after every sec/sub anchor: `[Eke →](./SLUG-kn-eke#sec-N-M)` in kn.md; `[ಕನ್nnaDa →](./SLUG-kn#sec-N-M)` in kn-eke.md
+- Chapter nav fragments corrected to `#adhyAya-N` throughout
+- Index back-links added to all kn.md headers: `[← ಸೂಚಿ](./README)` and `[← sUci](./README)` in kn-eke.md
+- kn-eke.md self-referential header links corrected (were pointing to wrong file)
+
+---
+
+### Phase 20 — 4-Level Taxonomy Migration (2026-03-20)
+
+**Scope:** All 29 book directories in `src/main/md/kannada/dnsbhat/`.
+
+**Motivation:** The old flat layout (`NN-slug-kn.md`, `NN-slug-en.md`, etc.) mixed all content types in one directory. The new 4-level taxonomy separates by source (book/web/youtube), language (kn/eke/en), and type (full/summary/raw).
+
+**New structure:**
+```
+NN-slug/
+├── README.md              # Book index landing page
+├── claude-prompt.md       # AI context primer
+├── book/
+│   ├── kn/full.md         # Scanned book — structured Kannada (was NN-slug-kn.md)
+│   ├── kn/raw.md          # Raw OCR archive (was NN-slug-book.md)
+│   ├── eke/full.md        # Eke romanisation (was NN-slug-kn-eke.md)
+│   └── en/summary.md      # English chapter summary (was NN-slug-en.md)
+├── web/
+│   ├── kn/raw.md          # DNS Bhat blog posts (was NN-slug-blog.md)
+│   └── en/summary.md      # Blog-based English summary
+└── youtube/
+    ├── kn/full.md         # Assembled transcript Kannada (was NN-slug.md — nav metadata carrier)
+    ├── eke/full.md        # Eke romanisation of transcript
+    └── en/summary.md      # YouTube-based English summary
+```
+
+**Migration:** 129 `git mv` operations via script. All cross-links in kn.md and kn-eke.md files updated to new relative paths (depth 3: `../eke/full`, `../../README`; depth 4: `../../../README`).
+
+**sync_docs.py rewrite:** `ettuge-sync/scripts/sync_docs.py` rewritten to recursively walk src/ subdirectories and create matching structure in docs/; orphaned flat docs/ files deleted.
+
+---
+
+### Phase 21 — GitHub Pages Nested Sidebar + Bug Fixes (2026-03-20)
+
+**Motivation:** After the taxonomy migration, the GitHub Pages site was broken: 404s throughout, no books showing in sidebar (the old pages.yml Python script used flat paths that no longer existed), and `.md`-suffix links causing 404s.
+
+**Sidebar redesign:** Replaced the flat 3-section sidebar (English Summaries / Kannada Text / Eke Transliteration) with a source-first 3-level hierarchy:
+```
+▶ Books
+    ▶ English        — book/en/summary.md entries
+    ▶ Kannada Text   — book/kn/full.md entries
+    ▶ Eke Transliteration — book/eke/full.md entries
+▶ Blog
+    ▶ Kannada Text   — web/kn/full.md entries
+    …
+▶ YouTube
+    ▶ English        — youtube/en/summary.md entries
+    ▶ Kannada Text   — youtube/kn/full.md entries
+    …
+```
+Each content file gets `parent: "Kannada Text"` + `grand_parent: "Books"` (etc.) using just-the-docs 3-level nesting. Sections only created when content exists.
+
+**pages.yml Python script** completely rewritten in 6-pass architecture:
+1. Gather book metadata from `youtube/kn/full.md` + find content files via CANDIDATES dict
+2. Create source section pages (`book.md`, `web.md`, `youtube.md`)
+3. Create language sub-section pages (`book-en.md`, `book-kn.md`, etc.)
+4. Write `parent`/`grand_parent` front matter to all content files
+5. Write book landing pages as `index.md` (so `/NN-slug/` directory URL resolves)
+6. Mark all other `.md` files `nav_exclude: true`
+
+**Bug fixes:**
+- `docs/_config.yml`: removed `jekyll-relative-links` plugin (frozen Gemfile.lock); removed orphaned `collections:` + `just_the_docs: collections:` blocks (were rendering a floating "DNS Bhat" label in sidebar)
+- `docs/Gemfile`: removed `jekyll-relative-links` gem
+- Books 14, 27, 28, 29 `youtube/kn/full.md`: fixed broken cross-links `../en/summary` → `../../book/en/summary` and `../eke/full` → `../../book/eke/full` (youtube/ has no en/eke content for these books)
+- Book landing pages now written as `index.md` so directory URLs like `/dnsbhat/28-kannaDakke-bEku/` resolve correctly
+
+---
+
 ## Eke Romanisation System
 
 **Ellara KannaDa (Eke)** is a romanisation of Kannada devised by Vishwas — inspired by HK protocol and DNS Bhat's ideas, designed to be learnable by any Indian and usable by non-Kannada readers. It is the romanisation used throughout the `-kn-eke.md` files.
@@ -730,7 +811,7 @@ Commits: `500a296` (intermediate `^..^` convention — superseded), `971e918` (f
 
 ---
 
-## Current File Status (2026-03-19)
+## Current File Status (2026-03-20)
 
 ### ✅ Fully processed (en.md + kn-eke.md + claude-prompt.md)
 
