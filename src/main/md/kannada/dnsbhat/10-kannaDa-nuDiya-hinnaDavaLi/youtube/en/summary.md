@@ -1,68 +1,89 @@
-# YouTube Transcript Summary — Book 10
-## ಕನ್ನಡ ನುಡಿಯ ಹಿನ್ನಡವಳಿ (The Background of Kannada Language)
+# A Concise History of Kannada
+## ಕನ್ನಡ ನುಡಿಯ ಹಿನ್ನಡವಳಿ
 
-**Speaker:** Malati Bhat reads DNS Bhat's writings
-**Parts:** 14 (P1, P2, Parts 1, 2, 4–12; note: Part 3 absent from TOC)
-**YouTube series:** DNS Bhat books read aloud channel
+**Author:** D. N. Shankara Bhat (ಡಿ. ಎನ್. ಶಂಕರ ಬಟ್)
+**Read by:** Malati Bhat
+**Published:** 2016 (first edition) · 95 pages
+**Source quality:** ⚠️ Mostly garbled live-lecture auto-captions; no prose recoverable from transcripts
+**Transcript:** [`youtube/kn/full.md`](../kn/full.md)
 
----
-
-## Transcript Quality Assessment
-
-**Overall verdict: Very poor. Almost entirely garbled or unavailable.**
-
-| Part | Status | Notes |
-|------|--------|-------|
-| P1 | Garbled | "ವಂದೆ ಮಾತರಂ! ಕರಾವಳಿ ಕನ್ನಡ ಕನ್ನಡ ಖಂಡದ ಕಾ ನಾಟಕ ಕನ್ನಡ ಕನ್ನಡ ಕನ್ನಡ ಕನ್ನಡ" — repeated filler + Hindi phrase, also marked ಭಾಷಾಂತರ ಲಭ್ಯವಿಲ್ಲ |
-| P2 | Unavailable | ಭಾಷಾಂತರ ಲಭ್ಯವಿಲ್ಲ |
-| Part 1 | Garbled | Mentions "ಕನ್ನಡ ನ್ಯೂಡಿಯಾ ಸಂಕ್ಷಿಪ್ತ ಚರಿತ್ರೆ" (brief history of Kannada nuDi/speech), "ಶಂಕರ ಭಟ್ಟರು", "ಪ್ರೊಟೊ ಲ್ಯಾಂಗ್ವೇಜ್" (proto-language), "ಎಡ್ಜೆಕ್ಟಿವ್ ಎಡ್ವರ್ಬ್ ವಿಶೇಷಣಾಪದಗಳ" — topic signal present but sentence structure lost |
-| Part 2 | Unavailable | ಭಾಷಾಂತರ ಲಭ್ಯವಿಲ್ಲ |
-| Part 4 | Garbled | "ಕನ್ನಡ ಮಲಯಾಳಂ ರೂಪ… ತಮಿಳುನಾಡು" — Dravidian language comparison, no recoverable sentences |
-| Part 5 | Garbled | "ಕನ್ನಡದಲ್ಲಿ ಸಾತನೇ… ಕ್ರಿಯಾಪದ ಕನ್ನಡ ತಮಿಳ" — mentions verbs, Kannada-Tamil comparison; Hindi-mixed |
-| Part 6 | Marginal | "ಗರ್ತಾ ಮತ್ತು ಅನ್ಯ ಕ್ರಿಯಾ ರೂಪಗಳು ಪರಿಚಯ ಸರ್ವಪ್ರಥಮ ಕನ್ನಡ ವ್ಯಾಕರಣ ಗುರುಗಳೇ" — "garta and other verb forms — introduction — the first Kannada grammar [teachers]" — partial sentence, possibly about early Kannada grammarians |
-| Part 7 | Marginal | "ಮುಂದೆ ಇಂದ ಕರೆಯಲು ಬಂದಿದ್ದೇವೆ. ಇಲ್ಲಿ ನೋಡಿ. ಹೌದು, ಗಾನ. ಹಿಂದೆ ಮೇಂ ಪಶು ಕೆ ಲಿಯೆ… ಕನ್ನಡದಲ್ಲಿ ಕರಾವಳಿಯಲ್ಲಿ ಬೆರೆಯುವ… ಭಾರಿ ಭಾರಿ" — garbled but shows the Kannada coastal dialect (ಕರಾವಳಿ) is being discussed |
-| Part 8 | Unavailable | ಭಾಷಾಂತರ ಲಭ್ಯವಿಲ್ಲ |
-| Part 9 | Garbled | Hindi-Kannada mix; mentions ಕಾರಕ (case), ಲೇಖನ (writing), ಗುಲಬರ್ಗ, ಮೈಸೂರು, ಕನ್ನಡ — place names and grammatical terms jumbled |
-| Part 10 | Garbled/Error | Marked unavailable + has numeric/encoding artefact: "emb 3 . 0 , 0 . . . 5 6 ill ID ID ill 7 emb EM ." — transcript system error |
-| Part 11 | Garbled | Extremely long single-line word dump — fragments of Kannada dialectal forms, mentions of Badaga (ಬಡಗ್), Nilgiris (ನೀಲಗಿರಿ), Kuruba — extended Dravidian comparative dialectology; words in Kannada ASR but not coherent sentences |
-| Part 12 | Garbled | Same "ವಂದೆ ಮಾತರಂ" filler as P1 — duplicate noise pattern |
-
-**Usable parts: 0 out of 14**
-**Partially decodable (keyword/topic level): Parts 1, 6, 7, 9, 11**
-**Completely unavailable: 5 parts (P2, 2, 8, 10 effectively, plus numeric error in 10)**
+> **Source Limitations:** The overview below is drawn primarily from the book's website description (`description-raw.md` from the Wayback Machine archive of dnshankarabhat.net, snapshot 20170214230554). The 14-part YouTube transcript series (Parts P1, P2, 1, 2, 4–12; Part 3 absent) is essentially unusable: 5 parts are completely unavailable, and the remaining 9 are garbled live-lecture auto-captions with severe Hindi/wrong-language interference. No sustained prose from the book can be recovered. Only scattered keyword signals confirm the general topic. Content marked "from transcript fragments" below represents keyword inference only, not recovered text. This book was revised from Bhat's earlier 1979 work *Kannaḍa Bhāṣeya Sankshipta Charitre* and incorporates material from his 2007 book *Kannaḍa Nuḍi Naḍedu Banda Dāri* (Book 17 in this catalogue).
 
 ---
 
-## What Can Be Inferred
+## Overview
 
-The title ಕನ್ನಡ ನುಡಿಯ ಹಿನ್ನಡವಳಿ literally means "the background / historical development of Kannada speech." ಹಿನ್ನಡವಳಿ is DNS Bhat's native coinage for "history/background" (ಹಿನ್ನ = backward/prior + ನಡವಳಿ = progression/process). This is a book on the historical linguistics of Kannada.
+*(From book description — dnshankarabhat.net)*
 
-From keywords recovered across parts:
+This book presents a concise history of the Kannada language. Rather than relying solely on ancient Kannada inscriptions and literature, it draws on comparative studies between Kannada and other Dravidian languages — Tamil, Telugu, Gondi, and Kurukh — to reconstruct Kannada's history.
 
-- **Proto-language** (ಪ್ರೊಟೊ ಲ್ಯಾಂಗ್ವೇಜ್, Part 1): Book discusses Dravidian proto-language origins of Kannada
-- **Adjectives and adverbs** (ವಿಶೇಷಣಾಪದಗಳ, Part 1): Word class evolution in the historical record
-- **Kannada, Tamil, Malayalam, Telugu** (multiple parts): Comparative Dravidian perspective — how Kannada relates to sister languages
-- **Verb forms** (ಕ್ರಿಯಾ ರೂಪಗಳು, Parts 5, 6): Historical development of Kannada verbal morphology
-- **Case markers** (ಕಾರಕ, Part 9): Case system in historical context
-- **Early grammarians** (Part 6 — "ಸರ್ವಪ್ರಥಮ ಕನ್ನಡ ವ್ಯಾಕರಣ"): The first Kannada grammars
-- **Dialects: Badaga, coastal Kannada, Nilgiri varieties** (Parts 7, 11): Historical dialectal diversity within Kannada
-- **Mysore, Gulbarga** (Part 9): Regional variation mentioned
+The book traces Kannada's evolution from Proto-Dravidian, a hypothesized ancestor language that preceded the divergence of the modern Dravidian languages. It also describes how the various present-day dialects of Kannada evolved from Proto-Kannada — itself an intermediate stage between Proto-Dravidian and modern Kannada.
 
-Part 11's long word dump — though not parseable as prose — contains dense Dravidian dialect terminology (Badaga, Nilgiri vocabulary items like ಕಲ್ಲಿ, ಕರ್ಪ, ಸೆಟ್ಟಿ etc.) suggesting this part covered dialectal evidence for historical reconstruction.
+This book was prepared by further editing Bhat's 1979 work *Kannaḍa Bhāṣeya Sankshipta Charitre* (Concise History of the Kannada Language). It also incorporates content from his 2007 book *Kannaḍa Nuḍi Naḍedu Banda Dāri* (Book 17 in this catalogue).
 
 ---
 
-## What Is Missing / Unusable
+## Part-by-Part
 
-- No chapter structure can be recovered from these transcripts.
-- The book's historical-linguistic arguments are entirely lost — cannot reconstruct any claim or evidence chain.
-- The transcripts appear to be from a live reading with an audience, with heavy ASR failure throughout (wrong language model applied, Hindi noise from venue, etc.).
-- Recovery requires either the original printed text or a re-transcription from clean audio.
+### Part P1 — [Watch on YouTube](https://www.youtube.com/watch?v=Lo04bvzvxCY)
+⚠️ Transcript garbled (and marked unavailable). "ವಂದೆ ಮಾತರಂ! ಕರಾವಳಿ ಕನ್ನಡ ಕನ್ನಡ ಖಂಡದ ಕಾ ನಾಟಕ ಕನ್ನಡ ಕನ್ನಡ ಕನ್ನಡ ಕನ್ನಡ" — repeated filler and Hindi fragment. No content recoverable.
+
+### Part P2 — [Watch on YouTube](https://www.youtube.com/watch?v=-g6_cosSsJI)
+⚠️ Transcript not available for this part.
+
+### Part 1 — [Watch on YouTube](https://www.youtube.com/watch?v=JIrRZ1X2hoE)
+⚠️ Transcript garbled. Keywords visible: "ಕನ್ನಡ ನ್ಯೂಡಿಯಾ ಸಂಕ್ಷಿಪ್ತ ಚರಿತ್ರೆ" (brief history of Kannada speech), "ಶಂಕರ ಭಟ್ಟರು", "ಪ್ರೊಟೊ ಲ್ಯಾಂಗ್ವೇಜ್" (proto-language), "ವಿಶೇಷಣಾಪದಗಳ" (adjectives/adverbs). Topic signal present but sentence structure is lost.
+
+### Part 2 — [Watch on YouTube](https://www.youtube.com/watch?v=bgn3L2rtDfk)
+⚠️ Transcript not available for this part.
+
+*(Part 3 is absent from the YouTube series TOC — this part was never uploaded or is missing.)*
+
+### Part 4 — [Watch on YouTube](https://www.youtube.com/watch?v=yIkkElp6CfY)
+⚠️ Transcript garbled. Keywords: "ಕನ್ನಡ ಮಲಯಾಳಂ ರೂಪ… ತಮಿಳುನಾಡು" — Dravidian language comparison evident but no recoverable sentences.
+
+### Part 5 — [Watch on YouTube](https://www.youtube.com/watch?v=uRaGy4ZTeKI)
+⚠️ Transcript garbled. Keywords: "ಕ್ರಿಯಾಪದ ಕನ್ನಡ ತಮಿಳ" (verbs, Kannada-Tamil comparison) with Hindi-mixed noise. Topic signal only.
+
+### Part 6 — [Watch on YouTube](https://www.youtube.com/watch?v=OmZJtoyHiA4)
+⚠️ Transcript marginal. Fragment: "ಗರ್ತಾ ಮತ್ತು ಅನ್ಯ ಕ್ರಿಯಾ ರೂಪಗಳು ಪರಿಚಯ ಸರ್ವಪ್ರಥಮ ಕನ್ನಡ ವ್ಯಾಕರಣ ಗುರುಗಳೇ" — "garta and other verb forms — introduction — the first Kannada grammar [teachers]". Partial sentence, possibly about early Kannada grammarians.
+
+### Part 7 — [Watch on YouTube](https://www.youtube.com/watch?v=cFoeWBM3RNY)
+⚠️ Transcript marginal. Fragment: "ಮುಂದೆ ಇಂದ ಕರೆಯಲು ಬಂದಿದ್ದೇವೆ… ಕನ್ನಡದಲ್ಲಿ ಕರಾವಳಿಯಲ್ಲಿ ಬೆರೆಯುವ… ಭಾರಿ ಭಾರಿ" — garbled, but the coastal dialect (ಕರಾವಳಿ) is being discussed.
+
+### Part 8 — [Watch on YouTube](https://www.youtube.com/watch?v=njJKI8_XFhE)
+⚠️ Transcript not available for this part.
+
+### Part 9 — [Watch on YouTube](https://www.youtube.com/watch?v=sZ0UDXXPfDo)
+⚠️ Transcript garbled. Hindi-Kannada mix. Keywords: ಕಾರಕ (case), ಲೇಖನ (writing), ಗುಲಬರ್ಗ, ಮೈಸೂರು — place names and grammatical terms jumbled. No recoverable sentences.
+
+### Part 10 — [Watch on YouTube](https://www.youtube.com/watch?v=Z6sE_5ZNCYg)
+⚠️ Transcript garbled + encoding error. Marked unavailable AND contains numeric artifact: "emb 3 . 0 , 0 . . . 5 6 ill ID ID ill 7 emb EM ." — transcript system error, nothing recoverable.
+
+### Part 11 — [Watch on YouTube](https://www.youtube.com/watch?v=ZrFEgzKrPiQ)
+⚠️ Transcript garbled (extreme). Extremely long single-line word dump. Dense Dravidian dialect vocabulary: Badaga (ಬಡಗ್), Nilgiri varieties (ನೀಲಗಿರಿ), Kuruba. Contains dialectal terms like ಕಲ್ಲಿ, ಕರ್ಪ, ಸೆಟ್ಟಿ etc. — strong topic signal (Dravidian dialect comparison for historical reconstruction) but utterly unreadable as prose.
+
+### Part 12 — [Watch on YouTube](https://www.youtube.com/watch?v=EY35YdFlK-s)
+⚠️ Transcript garbled. Duplicate of the P1 noise pattern ("ವಂದೆ ಮಾತರಂ…") — nothing recoverable.
 
 ---
 
-## Relationship to Other Books
+## Key Concepts (from book description)
 
-- **Book 14** (ನಿಜಕ್ಕು ಹಳೆಗನ್ನಡ ವ್ಯಾಕರಣ ಎಂತಹದು — What Is Old Kannada Grammar Really Like): The grammar companion to this historical survey
-- **Book 25** (kannaDa nuDi nuDi nuDi): Further Kannada language analysis
-- DNS Bhat's broader project of establishing Kannada as a fully independent Dravidian language with no need for Sanskrit-derived historical narrative
+- **ಹಿನ್ನಡವಳಿ** (hinnaD avaLi): Bhat's native coinage for "history/background" — ಹಿನ್ನ (prior/behind) + ನಡವಳಿ (process/progression) — avoiding the Sanskrit ಇತಿಹಾಸ
+- **Proto-Dravidian**: the hypothesized ancestral language from which Kannada, Tamil, Telugu, Gondi, Kurukh and other Dravidian languages all descended
+- **Proto-Kannada**: an intermediate reconstructed stage between Proto-Dravidian and the modern Kannada dialects
+- Comparative method: using living related languages (Tamil, Telugu, Gondi, Kurukh) to reconstruct what could not be found in inscriptions alone
+- Dialectal diversity within Kannada (coastal Kannada, Badaga, Nilgiri varieties) as evidence for internal historical development
+- This book explicitly does not treat Sanskrit as Kannada's historical source — it establishes a fully independent Dravidian genealogy for Kannada
+
+---
+
+## Cross-References to Other DNS Bhat Works
+
+| Book | Connection |
+|------|-----------|
+| Book 14 (ನಿಜಕ್ಕೂ ಹಳೆಗನ್ನಡ ವ್ಯಾಕರಣ ಎಂತಹದು) | Grammar companion to this historical survey; together they cover history + grammar |
+| Book 17 (ಕನ್ನಡ ನುಡಿ ನಡೆದು ಬಂದ ದಾರಿ) | 2007 book whose contents were incorporated into this 2016 revision |
+| Book 30, Ch. 2 (Kannada did not evolve from Sanskrit) | Condensed version of Book 10's core argument for a popular audience |
+| Book 32 (The Prominence of Tense, Aspect and Mood) | Bhat's English academic publication — provides the typological framework underlying Book 10's historical claims |

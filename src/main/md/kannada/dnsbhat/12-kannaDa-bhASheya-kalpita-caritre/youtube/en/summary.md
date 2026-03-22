@@ -3,60 +3,45 @@ redirect_from:
   - /dnsbhat/12-kannada-bhasheya-kalpita-charitre/12-kannada-bhasheya-kalpita-charitre-en
 ---
 
-# The Reconstructed History of the Kannada Language — English Summary
-## ಕನ್ನಡ ಭಾಷೆಯ ಕಲ್ಪಿತ ಚರಿತ್ರೆ (*Kannaḍa Bhāṣheya Kalpita Caritre*)
+# Reconstructed History of the Kannada Language
+## ಕನ್ನಡ ಭಾಷೆಯ ಕಲ್ಪಿತ ಚರಿತ್ರೆ
 
 **Author:** D. N. Shankara Bhat (ಡಿ. ಎನ್. ಶಂಕರ ಭಟ್)
-**Format:** YouTube lecture series — 2 parts
-**Language:** Kannada
-**Read by:** Malati Bhat
-**Source quality:** YouTube transcripts — uncleaned auto-captions. Both parts readable; no significant gaps. Content is dense and scholarly throughout.
-**Transcript file:** [`full.md`](../kn/full)
+**Read by:** Malati Bhat (ಮಾಲತಿ ಭಟ್)
+**Published:** 1995 (1st print) · 136 pages
+**Source quality:** Good — Malati Bhat reading the full book text; transcript is short (91 lines) and covers the book's introductory material and two detailed phonological examples. The comparative method section (Part 2) is well-preserved with explicit word-pair tables. Deeper chapters of the book (Proto-Dravidian reconstruction, Proto-Kannada, full dialect evolution analysis) are not covered in the transcript.
+**Transcript:** [`youtube/kn/full.md`](../kn/full.md)
 
 ---
 
 ## Overview
 
-*Kannaḍa Bhāṣheya Kalpita Caritre* ("The Reconstructed History of the Kannada Language") is a methodological exposition of how the history of Kannada can be recovered and written. DNS Bhat opens by distinguishing two complementary approaches:
-
-1. **ಲಿಖಿತ ಚರಿತ್ರೆ** (*likhita caritre* — written/documented history): studying inscriptions, poetry, and other Kannada texts across centuries and inferring how the language changed from one period to the next.
-2. **ಕಲ್ಪಿತ ಚರಿತ್ರೆ** (*kalpita caritre* — reconstructed/comparative history): comparing Kannada with related Dravidian languages (Tamil, Telugu, Gondi, Kuḍux, Malayalam, Kui, etc.) and with its own regional dialects, then reconstructing the proto-language from which they all descended.
-
-Neither method alone is sufficient; together they are complementary. The book's argument is that comparative reconstruction reaches back further than any inscription — into a pre-literate past that written records cannot access — but that the written record helps calibrate and confirm the comparative findings.
+*KannaDa BhASheya Kalpita Caritre* ("Reconstructed History of the Kannada Language") is DNS Bhat's methodological primer on how to write the history of Kannada using two complementary approaches. The first approach, *likhita caritre* (written/documented history), compares inscriptions, poetry, and prose across centuries to track how Kannada changed over the last ~1,500 years. The second approach, *kalpita caritre* (reconstructed/comparative history), compares Kannada with related Dravidian languages — Tamil, Telugu, Gondi, Kuḍux, Malayalam, Kui — and with Kannada's own regional dialects to reconstruct Proto-Kannada and Proto-South Dravidian. Bhat argues that neither method alone is sufficient: the written method cannot reach back before the first inscriptions and cannot reliably disentangle temporal change from regional or caste variation; the comparative method reconstructs a *kalpita nuDi* (hypothetical proto-language) that was never directly recorded. Together, the two methods are complementary and each calibrates the other. The book demonstrates the comparative method through two extended examples: the Kannada *k* / Tamil *c* alternation before front vowels, and the ē/ō → i/u vowel-height shift between Nanjanguḍu Okkaligas and Puttur Havyakas.
 
 ---
 
-## Part-by-Part Breakdown
+## Part-by-Part Summary
 
 ### Part 1 — Written History and Its Limitations
-[Watch on YouTube](https://www.youtube.com/watch?v=soIzNPvrYRw) | [Transcript →](../kn/full#part-1)
+[Watch on YouTube](https://www.youtube.com/watch?v=soIzNPvrYRw)
+[Transcript →](../kn/full.md#part-1)
 
-**Coverage note:** Uncleaned auto-captions; content is scholarly and clear throughout.
-
-- **Prologue (ಮುನ್ನೋಟ):** Bhat announces the two methods for recovering Kannada's history — ಲಿಖಿತ ಚರಿತ್ರೆ and ಕಲ್ಪಿತ ಚರಿತ್ರೆ — and explains that they view the language's past from two different vantage points, each with its own strengths and limitations
-
-- **ಲಿಖಿತ ಚರಿತ್ರೆ (written history):** To write Kannada's written history one must classify poems, inscriptions (ಶಾಸನ), prose works, and plays century by century, compare them, and identify the changes that occurred between periods. Kannada inscriptions going back roughly 1,500 years provide the raw material; court poetry from successive dynasties adds further depth
-
+- **Two methods announced (ಮುನ್ನೋಟ):** To discover what the history of Kannada is like, two methods are available — *likhita caritre* and *kalpita caritre*. Each approaches the language's past from a different vantage point, each with strengths and limitations; both should be used as complements
+- **Writing *likhita caritre*:** Classify all Kannada writings century by century — poems (*padya*), prose (*gadya*), mixed (*campu*), plays (*nāTaka*), inscriptions (*śāsana*) — compare them, and identify how Kannada changed between periods. Kannada inscriptions going back ~1,500 years provide the raw material; court poetry from successive dynasties adds depth
 - **Limitations of the written method:**
-  - The chronology of inscriptions does not automatically equal the chronology of the language: Kannada varies by region (Dharwad, Mysuru, Mangaluru) and by community (Vokkaligas, Brahmins, Lingayats) within the same century. Differences between two inscriptions may reflect regional or caste variation rather than temporal change — and there is no way to tell with certainty
-  - Written language always lags behind spoken language: changes appear in speech first and reach writing only after a delay. Using a text's date to infer the date of its linguistic forms is therefore unreliable
-  - Writers sometimes deliberately composed in an archaic register: Buddhaṇṇa, though a modern Kannada speaker, composed in Old Kannada — making his text a poor chronological marker
-  - The Kannada script cannot fully capture all the vowel and consonant distinctions present in speech; older scripts were even more limited, so phonological data from inscriptions is incomplete
-  - Only a small selection of the dialects in use at any given time appear in literary or epigraphic writing; the rest are lost to the record
-
----
+  - Inscriptions' chronological order is not the same as the language's chronological order: Kannada varies by region (Dharwad, Mysuru, Mangaluru) and by caste/community (Vokkaligas, Brahmins, Lingayats) within the same century. Differences between two inscriptions may reflect regional or caste variation rather than temporal change — and there is no way to tell with certainty
+  - Written language always lags behind spoken language: changes appear in speech first and reach writing only after a delay. Using a text's date to infer when a linguistic form originated is therefore unreliable
+  - Writers sometimes deliberately composed in an archaic register: Buddhaṇṇa, though a Modern Kannada speaker, composed in Old Kannada — making his text a poor chronological marker
+  - The Kannada script cannot represent all vowel and consonant distinctions present in speech; older scripts were even more limited, so phonological data from inscriptions is necessarily incomplete
+  - Only a small selection of the dialects in use at any given time appear in literary or epigraphic writing; the rest leave no record
+- **Basis for *kalpita caritre*:** Comparing Kannada with related Dravidian languages to reconstruct a Proto-Dravidian (*mUla drAviDa*) ancestor, then tracing how branches diverged. Additionally, comparing Kannada's own dialects (coastal, Dharwad, Mysuru, Bidar) to reconstruct Proto-Kannada (*mUla kannaDa*). Written history can then help calibrate and confirm the reconstructed history at the stages where inscriptional evidence is available
 
 ### Part 2 — Comparative Method, Internal Reconstruction, and Sound Change Examples
-[Watch on YouTube](https://www.youtube.com/watch?v=T75Y9U8lYn8) | [Transcript →](../kn/full#part-2)
+[Watch on YouTube](https://www.youtube.com/watch?v=T75Y9U8lYn8)
+[Transcript →](../kn/full.md#part-2)
 
-**Coverage note:** Uncleaned auto-captions; phonological examples are explicit and well-preserved in the transcript.
-
-- **ಕಲ್ಪಿತ ಚರಿತ್ರೆಯ ಸ್ವರೂಪ (the nature of reconstructed history):** Two methods are used — the **comparative method** (ತುಲನಾತ್ಮಕ ವಿಧಾನ) and the **internal reconstruction method** (ಆಂತರಿಕ ವಿಧಾನ). The comparative method is the primary tool; internal reconstruction is more limited in application but complements it
-
-- **Comparative method explained:**
-  - Compare two related languages, list all the systematic differences between them, and explain each difference as the result of a sound change that occurred in the history of one of those languages after they diverged from their common ancestor
-  - The reconstructed common ancestor is a *kalpita nuDi* — an inferred, hypothetical language, not one that was ever directly recorded
-
+- **Two methods for *kalpita caritre*:** The **comparative method** (*tulanAtmaka vidhAna*) and the **internal reconstruction method** (*Antarika vidhAna*). The comparative method is the primary tool; internal reconstruction is more limited in scope but complements it. The internal method uses morphological alternations within a single language to infer an earlier stage without comparing it to relatives
+- **Comparative method explained:** Compare two related languages, list all systematic differences, and explain each difference as the result of a sound change that occurred in the history of one of the languages after they diverged from their common ancestor. The reconstructed common ancestor is a *kalpita nuDi* — an inferred, hypothetical language never directly attested
 - **Kannada–Tamil sound correspondence (k/c alternation):**
 
   | Kannada | Tamil | Gloss |
@@ -68,7 +53,7 @@ Neither method alone is sufficient; together they are complementary. The book's 
   | ಕೆರೆ | ಚಿರೈ | lake / pond |
   | ಕಿಲುಬು | ಚಿಲುಂಪು | rust |
 
-  Bhat works out which language changed: in all the pairs, the Kannada initial *k* is followed by a front vowel (ಇ/ಎ). Front vowels can shift a following velar consonant forward to a palatal position — explaining how *k* became *c* in Tamil. The direction of change is confirmed by the fact that Tamil has no *k* + front vowel sequences word-initially, whereas Kannada has both *k* + front vowel and *c* + front vowel. Tamil's *c* where Kannada has *k* is therefore the innovation; Kannada preserves the original Proto-South Dravidian consonant
+  In all pairs, the Kannada initial *k* is followed by a front vowel (ಇ/ಎ/ಏ). Front vowels can shift a following velar consonant forward to a palatal position — explaining how *k* became *c* in Tamil. Direction of change: Tamil innovated (k→c); Kannada preserves the original Proto-South Dravidian *k*. Evidence: Tamil has no *k* + front vowel word-initially, while Kannada has both *k*+front and *c*+front
 
 - **Dialectal vowel alternations within Kannada (Nanjanguḍu vs. Puttur):**
 
@@ -80,7 +65,7 @@ Neither method alone is sufficient; together they are complementary. The book's 
   | ಕುಣಿ | ಕೊಣಿ | to dance |
   | ತುಳಿ | ತೊಳಿ | to tread |
 
-  Bhat determines that the Havyaka forms with ಏ/ಓ in the first syllable are original (Proto-Kannada), and the Nanjanguḍu forms with ಇ/ಉ are the innovations. Reasoning: (a) the change from ಏ/ಓ → ಇ/ಉ before a following ಇ-vowel is a natural assimilation (the first syllable assimilates to the height of the second); (b) Pre-Old Kannada (*pUrva haLegannaDa*) already shows ಏ/ಓ in these positions; (c) Coastal dialects retain ಏ/ಓ unchanged; (d) the Havyaka vowel-raising exception (ಇಳಿ/ಇಳಿ, ಕುಡಿ/ಕುಡಿ) can be explained if the second syllable carries ಇ rather than ಈ
+  Bhat determines the Havyaka forms with ē/ō are original (Proto-Kannada), and the Nanjanguḍu forms with i/u are the innovations. The change ē/ō → i/u before a following i-vowel is a natural vowel assimilation (first syllable raises to match the height of the second). Evidence confirming this direction: (a) Pre-Old Kannada (5th–6th c.) already shows ē/ō in these positions; (b) coastal dialects retain ē/ō unchanged; (c) the exception words (*iLi/iLi*, *kuDi/kuDi*) where both dialects show i/u can be explained if the second syllable has short ಇ rather than long ಈ
 
 - **Pre-Old Kannada evidence:**
 
@@ -92,16 +77,14 @@ Neither method alone is sufficient; together they are complementary. The book's 
   | ಪೊಗು | ಪುಗು | to enter |
   | ಪೊರುಳ್ | ಪುರುಳ್ | meaning / substance |
 
-  The Pre-Old Kannada forms with ಏ/ಓ support the reconstruction: these vowels shifted to ಇ/ಉ in most Old Kannada dialects but survived in coastal Kannada. The comparative and written evidence thus converge to establish the direction of change
-
-- **Internal reconstruction method:** Not explored in detail in the transcript, but Bhat identifies its scope: it uses morphological alternations within a *single* language to infer an earlier stage of that language, without comparing it to related languages. He notes it can be applied only in limited cases
+  The Pre-Old Kannada forms with ē/ō support the reconstruction: these vowels shifted to i/u in most Old Kannada dialects but survived in coastal Kannada. The comparative and written evidence thus converge
 
 ---
 
 ## Key Concepts
 
-| Kannada Term | Eke | English Meaning |
-|---|---|---|
+| Kannada | Eke | English |
+|---------|-----|---------|
 | ಲಿಖಿತ ಚರಿತ್ರೆ | likhita caritre | written / documented history |
 | ಕಲ್ಪಿತ ಚರಿತ್ರೆ | kalpita caritre | reconstructed / comparative history |
 | ತುಲನಾತ್ಮಕ ವಿಧಾನ | tulanAtmaka vidhAna | comparative method |
@@ -113,23 +96,26 @@ Neither method alone is sufficient; together they are complementary. The book's 
 | ಶಾಸನ | SAsan | inscription / stone epigraph |
 | ಒಳನುಡಿ | oLanuDi | dialect |
 | ಮಾರ್ಪಾಡು | mArpADu | sound change / transformation |
-| ಕಾಲಾನುಕ್ರಮ | kAlAnukrama | chronological order |
-| ಕವಲೊಡೆಯು | kavaLoDeyuvudu | to branch / diverge (of languages) |
 | ಪೂರ್ವ ಹಳೆಗನ್ನಡ | pUrva haLegannaDa | Pre-Old Kannada |
 | ಹಳೆಗನ್ನಡ | haLegannaDa | Old Kannada |
-| ನಂಟಸ್ಥ | nantastha | related (linguistically) |
-| ತೊಡಕು | toDaku | obstacle / complication / counterexample |
+| ಕವಲೊಡೆಯು | kavaLoDeyuvudu | to branch / diverge (of languages) |
+| ತೊಡಕು | toDaku | counterexample / complication |
+
+---
+
+## Note on Transcript Coverage
+
+The transcript covers the book's introduction (Part 1: both methods, limitations of written history, basis for comparative reconstruction) and a substantial portion of the comparative method chapter (Part 2: k/c alternation, Nanjanguḍu/Puttur vowel height, Pre-Old Kannada evidence). The book's full content — detailed Proto-Dravidian reconstruction, Proto-Kannada dialect branching, the treatment of Gondi, Kuḍux, Kui, and Telugu correspondences, and full phonological change tables — is described in the publisher description (`description-raw.md`) but not covered in the short transcript. See Book 10 (*Kannada NuDiya HinnaDAvaLi*) for the full presentation of the reconstructed history.
 
 ---
 
 ## Cross-References to Other DNS Bhat Works
 
-| Related Book | Connection |
-|---|---|
-| [02 — Kannaḍa Nuḍiya OLaracane](../../../02-kannaDa-nuDiya-oLaracane/) | Book 02 describes the internal structure of Kannada — the synchronic phonology and morphology that provide the raw material for the comparative reconstructions demonstrated in Book 12 |
-| [10 — Kannaḍa Nuḍiya Hinnaḍavaḷi](../../../10-kannaDa-nuDiya-hinnaDAvaLi/) | The natural companion to Book 12: Book 10 presents the full reconstructed history of Kannada in detail; Book 12 is the methodological introduction explaining *how* such reconstruction works |
-| [18 — (related DNS Bhat work)](../../../18-/) | Book 18 extends comparative Dravidian work; the phonological correspondences worked out there — particularly across South and Central Dravidian branches — connect directly to the k/c alternation and vowel-height evidence discussed in Book 12 |
-| [04 — Mātu Mattu Barahada Naḍuvina Gondala](../../../04-mAtu-mattu-barahada-naDuvina-gondala/) | Book 04's argument that spoken language is primary and writing is secondary gives the theoretical grounding for Book 12's critique of the written-history method: inscriptions capture only a fragment of the spoken language, and their chronology is not the chronology of speech |
+| Book | Connection |
+|------|-----------|
+| [10 — Kannada NuDiya HinnaDAvaLi](../../10-kannaDa-nuDiya-hinnaDAvaLi/) | The natural companion: Book 10 presents the full reconstructed history of Kannada in detail; Book 12 is the methodological introduction explaining *how* such reconstruction works |
+| [02 — Kannada NuDiya OLaracane](../../02-kannaDa-nuDiya-oLaracane/) | Book 02 describes the synchronic internal structure of Kannada — the phonology and morphology that provide the raw material for comparative reconstructions demonstrated in Book 12 |
+| [04 — MAtu Mattu Barahada NaDuvina Gondala](../../04-mAtu-mattu-barahada-naDuvina-gondala/) | Book 04's argument that spoken language is primary and writing is secondary grounds Book 12's critique of written-history limitations: inscriptions capture only a fragment of speech |
 
 ---
 
@@ -137,4 +123,4 @@ Neither method alone is sufficient; together they are complementary. The book's 
 
 - **YouTube Part 1:** <https://www.youtube.com/watch?v=soIzNPvrYRw>
 - **YouTube Part 2:** <https://www.youtube.com/watch?v=T75Y9U8lYn8>
-- **Transcript (Kannada):** [full.md](../kn/full)
+- **Transcript (Kannada):** [`youtube/kn/full.md`](../kn/full.md)
