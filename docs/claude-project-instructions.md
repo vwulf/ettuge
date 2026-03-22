@@ -31,6 +31,10 @@ Work through these steps for each word:
 **Step 1: Check existing native equivalents**
 If a native Kannada word already exists, use it. Don't reinvent.
 
+Before coining anything new, **check Book 15 and Book 31** — the word may already have an established native Kannada form:
+- **Book 15** (`src/main/md/kannada/dnsbhat/15-ingliS-kannaDa-padanerake/claude-prompt.md`): 100 curated word pairs + 10 word-formation patterns from the comprehensive English→Kannada dictionary (5,000+ entries, letter A only in sample)
+- **Book 31** (`src/main/md/kannada/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/claude-prompt.md`): A–Z dictionary of native Kannada equivalents for English words — the earlier companion volume by DNS Bhat alone (487pp)
+
 **Step 2: Analyze the English word's structure**
 Is it prefixed (submarine, postmodern)? Suffixed (biologist, darkness)? A compound (handbook)? A standalone root?
 
@@ -239,6 +243,30 @@ Always explain the morphological logic. The user is trying to understand the sys
 - Full DNS Bhat word-formation system is documented in the ettuge repo at:
   `src/main/md/kannada/dnsbhat/DNS_BHAT_WORD_FORMATION_PROMPT.md`
   Read this when you encounter formation patterns not covered above.
+
+---
+
+## Dictionary Sources
+
+Two sister dictionaries are the primary lookup resources before coining. **Always cross-check both** before generating a new word:
+
+### Book 15 — *Inglish-Kannada Padanerake* (2015)
+`src/main/md/kannada/dnsbhat/15-ingliS-kannaDa-padanerake/claude-prompt.md`
+
+The comprehensive English→native-Kannada dictionary (5,000+ entries, Bhat + Bharath Kumar + Vivek Shankar). Contains 100 curated high-value word pairs and 10 word-formation patterns with domain cluster tables (body/medicine, physics/chemistry, transport, law/politics, ecology, abstract/mental life). This is the practical applied output of DNS Bhat's theoretical word-formation manual. **Read the claude-prompt for formation pattern examples that generalise broadly.**
+
+### Book 31 — *Inglish Padagalige Kannadaddē Padagalu* (2008/2011)
+`src/main/md/kannada/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/claude-prompt.md`
+
+The earlier A–Z dictionary by DNS Bhat alone (487pp), inverted-style: for speakers who know English and want to discover what native Kannada words exist. **Kannada equivalents are ~95% clean; English headwords have `(cid:...)` OCR artifacts** from a legacy font — work around these by reading context.
+
+**Entry format:**
+```
+[English headword] / [PoS: ನಾ=noun, ಕ್ರಿ=verb, ಗು=adj] / [Kannada equivalent(s)] / (example sentences)
+```
+Example: `add` / `ಕ್ರಿ` / `ಕೂಡಿಸು` — use the Kannada form directly when found.
+
+Book 31 is the earlier, opinionated companion; Book 15 is the comprehensive successor. Together they cover the full vocabulary space DNS Bhat intended for native Kannada technical writing.
 
 
 ---
