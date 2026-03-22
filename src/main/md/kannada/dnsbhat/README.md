@@ -622,6 +622,55 @@
 
 ---
 
+## Section L — Newly Discovered Books (Google Drive, 2026-03-22)
+
+### 30 — ಕನ್ನಡ ಬರಹವನ್ನು ಸರಿಪಡಿಸೋಣ
+**kannaDa barahavannu saripaDisONa** *(Let us Rectify Written Kannada)*
+
+- **ಭಾಷೆ / Language:** Kannada
+- **ಪ್ರಕಟಣೆ / Year:** 2006 (1st ed.); 2009 (2nd ed.)
+- **ಪ್ರಕಾಶಕರು / Publisher:** Bhasha Prakashana, Ninasam, Heggodu, Sagara
+- **ಪುಟಗಳು / Pages:** 382
+- **ವಿಶಯ / Topic:** Script reform — argument for removing unnecessary complexity from the Kannada writing system
+- **ಮೂಲ / Source:** PDF in Google Drive (`kannadaBarahavannuSaripadisona.pdf`)
+- **ಗುಣಮಟ್ಟ / Quality:** ⚠️ Nudi font — text garbled; OCR pass needed
+- **ಕಡತ / Folder:** [30-kannaDa-barahavannu-saripaDisONa/](./30-kannaDa-barahavannu-saripaDisONa/)
+
+**Significance:** Broadens the argument of Book 08 (*mahaprana*) to the entire writing system. Where Book 08 targets aspirated consonants specifically, this book calls for a wholesale rationalisation of Kannada orthography. One of Bhat's more polemical works; went to at least two editions.
+
+---
+
+### 31 — ಇಂಗ್ಲಿಷ್ ಪದಗಳಿಗೆ ಕನ್ನಡದ್ದೇ ಪದಗಳು
+**ingliS padagaLige kannaDaddE padagaLu** *(Kannada's Own Words for English Words)*
+
+- **ಭಾಷೆ / Language:** Kannada (written in *hosa baraha*)
+- **ಪ್ರಕಟಣೆ / Year:** 2008 (1st ed.); 2011 (2nd ed.)
+- **ಪ್ರಕಾಶಕರು / Publisher:** Bhasha Prakashana, Billeshwara, Huncha, Tirthahalli
+- **ಪುಟಗಳು / Pages:** 487
+- **ವಿಶಯ / Topic:** Native Dravidian equivalents for everyday English words — Bhat's earlier solo work on the same theme as Book 15
+- **ಮೂಲ / Source:** PDF in Google Drive (`Engslih_Padagalige.pdf`)
+- **ಗುಣಮಟ್ಟ / Quality:** ⚠️ Nudi font — text garbled; OCR pass needed
+- **ಕಡತ / Folder:** [31-ingliS-padagaLige-kannaDaddE-padagaLu/](./31-ingliS-padagaLige-kannaDaddE-padagaLu/)
+
+**Significance:** Earlier and shorter companion to Book 15 (*ಇಂಗ್ಲಿಶ್ ಕನ್ನಡ ಪದನೆರಕೆ*, 730pp, 2015). This 2008 book is Bhat's solo attempt; Book 15 later expanded it into a collaborative, comprehensive A–Z dictionary. Together they form the practical lexical output of the Ellara Kannada methodology.
+
+---
+
+### 32 — The Prominence of Tense, Aspect and Mood
+**The Prominence of Tense, Aspect and Mood**
+
+- **ಭಾಷೆ / Language:** English
+- **ಪ್ರಕಟಣೆ / Year:** —
+- **ಪ್ರಕಾಶಕರು / Publisher:** John Benjamins · Studies in Language Companion Series (SLCS)
+- **ಪುಟಗಳು / Pages:** 214
+- **ವಿಶಯ / Topic:** Typological survey of how world languages grammaticalize tense, aspect, and mood prominence
+- **ಮೂಲ / Source:** PDF in Google Drive (`the-prominence-of-tense-aspect-and-mood_compress.pdf`) — clean English PDF
+- **ಕಡತ / Folder:** [32-the-prominence-of-tense-aspect-and-mood/](./32-the-prominence-of-tense-aspect-and-mood/)
+
+**Significance:** Bhat's major academic contribution to linguistic typology — the theoretical foundation that underpins his Kannada reform arguments. Published in the John Benjamins SLCS series alongside other landmark typological works. The TAM framework here directly informs his claim that Kannada's grammar cannot be reduced to Sanskrit categories.
+
+---
+
 ## Section J — Other Known Works (Not Yet Collected)
 
 These works are referenced in collected texts or found in the CDX sitemap but not yet fully collected:
@@ -645,18 +694,19 @@ These works are referenced in collected texts or found in the CDX sitemap but no
 
 ## Collection Statistics
 
-| Category | Count | Full Text | Blog Content | PDF (WX) | Partial | Not Collected |
-|----------|-------|-----------|--------------|----------|---------|---------------|
+| Category | Count | Full Text | Blog Content | PDF (legacy font) | Partial | Not Collected |
+|----------|-------|-----------|--------------|-------------------|---------|---------------|
 | Kannada popular books (collected) | 17 | 4 | 3 | 8 | 3 | 1 |
 | Kannada popular books (not collected) | 1 | 0 | 0 | 0 | 0 | 1 |
 | English academic monographs | 3 | 1 | 0 | 0 | 0 | 2 |
-| **Newly discovered books (27–29)** | **3** | **0** | **0** | **3** | **0** | **0** |
+| **Newly discovered books (27–29)** | **3** | **0** | **0** | **3** (WX) | **0** | **0** |
+| **Newly discovered books (30–32)** | **3** | **1** | **0** | **2** (Nudi) | **0** | **0** |
 | **Book 15 — hybrid extracted sample** | **1** | **0** | **0** | **0** | **1 (A only)** | **0** |
-| **Total** | **25** | **5** | **3** | **11** | **4** | **4** |
+| **Total** | **28** | **6** | **3** | **13** | **4** | **4** |
 
 > ℹ️ Book 15 counting: moved from "Partial" to its own row. 53-page sample (letter A) is hybrid-extracted and fully processed (en/kn-eke/claude-prompt). Full 730-page book not yet obtained.
 
-> ⚠️ **WX font PDFs** — Books extracted from old Ghostscript/PageMaker PDFs have garbled text due to non-Unicode Kannada font encoding. A Unicode-aware OCR pass (e.g. Tesseract with Kannada model) is needed to recover clean text.
+> ⚠️ **Legacy font PDFs** — Books 27–29 use old WX Kannada font; books 30–31 use Nudi font. Both require a Unicode-aware OCR pass (e.g. Tesseract with Kannada model) to recover clean text. Book 32 is a clean English PDF.
 
 **Full text available (best quality):**
 - 08 — Kannadakke Mahaprana Yake Beda (102 pp, 2017) — PDF + DjVu
@@ -689,10 +739,17 @@ Location: `My Drive/Books/DNS-Bhat/`
 | `kannaDa-nuDi-naDeDu-banda-dAri.pdf` | 17 | PDF (405p, 2014) — ⚠️ WX font |
 | `sollarime-1.pdf` | 07 vol.1 | PDF (327p, 2010) — ⚠️ WX font |
 | `sollarime-2.pdf` | 07 vol.2 | PDF (301p, 2014) — ⚠️ WX font |
+| `sollarime-3.pdf` | 07 vol.3 | PDF (241p, 2012) — ⚠️ Nudi font |
+| `sollarime-4.pdf` | 07 vol.4 | PDF (274p) — ⚠️ Nudi font |
 | `sollarime_5_limited.pdf` | 07 vol.5 | PDF (30p sample, 2015) |
+| `matu-mattu-baraha.pdf` | **04** | PDF (142p, 2011) — ⚠️ Nudi font |
+| `KannadaNudiyaBagegeCintane.pdf` | **18** | PDF (297p) — ⚠️ Nudi font |
 | `baasheyaBagge.pdf` | **27** | PDF (208p, 4th ed. 2010) — ⚠️ WX font |
 | `kannadakkeBeku.pdf` | **28** | PDF (253p, 7th ed. 2013) — ⚠️ WX font |
 | `kannadavyakaranayaakebeku.pdf` | **29** | PDF (260p, 2009) — ⚠️ WX font |
+| `kannadaBarahavannuSaripadisona.pdf` | **30** | PDF (382p, 2nd ed. 2009) — ⚠️ Nudi font |
+| `Engslih_Padagalige.pdf` | **31** | PDF (487p, 2nd ed. 2011) — ⚠️ Nudi font |
+| `the-prominence-of-tense-aspect-and-mood_compress.pdf` | **32** | PDF (214p) — English, clean |
 | `English-KannadaPadanerakeSample.pdf` | 15 | PDF sample/prelims (53p, 2015) |
 
 ---

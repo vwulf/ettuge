@@ -3,7 +3,7 @@
 
 > Reflections on Kannada's status, future, and the responsibilities of its speakers — via the *ನುಡಿಯರಿಮೆಯ ಇಣುಕುನೋಟ* ("A Glimpse into Linguistics") blog series. 13 posts collected from dnshankarabhat.net (parts 1–3, 10, 14, 18, 20, 23, 27–29, 33, 35 of an ongoing series); many parts remain unarchived.
 
-**✅ Fully processed** · Source: dnshankarabhat.net blog series
+**✅ Fully processed** · Source: dnshankarabhat.net blog series · *PDF now available: `KannadaNudiyaBagegeCintane.pdf` (297pp) — Nudi font, OCR not yet done*
 
 ---
 

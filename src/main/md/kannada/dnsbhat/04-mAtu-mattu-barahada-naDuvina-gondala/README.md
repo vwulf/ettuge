@@ -3,7 +3,7 @@
 
 > DNS Bhat argues that language is speech, not writing — writing is an artificial form of speech invented only 4,000 years ago; the confusion between them leads to misguided beliefs about Kannada, Sanskrit, and language reform.
 
-**⚠️ Partial** · 44 parts · YouTube lecture series · ~25/44 parts cleaned (~57%)
+**⚠️ Partial** · 44 parts · YouTube lecture series · ~25/44 parts cleaned (~57%) · *PDF now available: `matu-mattu-baraha.pdf` (142pp, 2011) — Nudi font, OCR not yet done*
 
 ---
 
