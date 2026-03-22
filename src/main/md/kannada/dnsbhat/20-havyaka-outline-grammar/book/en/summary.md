@@ -333,7 +333,7 @@ The grammar concludes with a classified vocabulary (glossary), providing Havyaka
 | File | Contents |
 |------|----------|
 | [`20-havyaka-outline-grammar-djvu.md`](./20-havyaka-outline-grammar-djvu) | DjVu OCR text (raw, with OCR errors) |
-| [`20-havyaka-outline-grammar-en.md`](./20-havyaka-outline-grammar-en) | *This file* — English chapter summaries |
+| [`20-havyaka-outline-grammar-en.md`](./summary) | *This file* — English chapter summaries |
 | [`20-havyaka-outline-grammar-website.md`](./20-havyaka-outline-grammar-website) | Website metadata |
 | [`20-havyaka-outline-grammar-claude-prompt.md`](./20-havyaka-outline-grammar-claude-prompt) | AI prompt |
 | [`20-havyaka-outline-grammar.md`](./20-havyaka-outline-grammar) | Collection overview |

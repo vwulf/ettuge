@@ -41,7 +41,7 @@ redirect_from:
 
 ## ಭಾಗ 11: ಅರಿಮೆಯ ಪದಗಳಿಗೆ ಕನ್ನಡವೇ ಮೇಲು
 
-[English →](./18-kannaDa-nuDiya-bagege-cintane-en#inukunota-11) | [Eke →](./18-kannaDa-nuDiya-bagege-cintane-kn-eke#inukunota-11)
+[English →](../en/summary#inukunota-11) | [Eke →](../eke/full#inukunota-11)
 
 > **ದಿನಾಂಕ:** 2014-04-14  
 > **ಮೂಲ URL:** <http://dnshankarabhat.net/%e0%b2%85%e0%b2%b0%e0%b2%bf%e0%b2%ae%e0%b3%86%e0%b2%af-%e0%b2%aa%e0%b2%a6%e0%b2%97%e0%b2%b3%e0%b2%bf%e0%b2%97%e0%b3%86-%e0%b2%95%e0%b2%a8%e0%b3%8d%e0%b2%a8%e0%b2%a1%e0%b2%b5%e0%b3%87-%e0%b2%ae/>  
@@ -118,7 +118,7 @@ redirect_from:
 
 ## ಭಾಗ 2: ಮನೆಯ ಹೊರಗಡೆ ಅಡಿಗೆಮನೆ ಪಾಕಶಾಲೆಯಾಗಬೇಕೇ?
 
-[English →](./18-kannaDa-nuDiya-bagege-cintane-en#inukunota-2) | [Eke →](./18-kannaDa-nuDiya-bagege-cintane-kn-eke#inukunota-2)
+[English →](../en/summary#inukunota-2) | [Eke →](../eke/full#inukunota-2)
 
 > **ದಿನಾಂಕ:** 2014-04-14  
 > **ಮೂಲ URL:** <https://dnshankarabhat.net/%e0%b2%ae%e0%b2%a8%e0%b3%86%e0%b2%af-%e0%b2%b9%e0%b3%8a%e0%b2%b0%e0%b2%97%e0%b2%a1%e0%b3%86-%e0%b2%85%e0%b2%a1%e0%b2%bf%e0%b2%97%e0%b3%86%e0%b2%ae%e0%b2%a8%e0%b3%86-%e0%b2%aa%e0%b2%be%e0%b2%95/>  
@@ -195,7 +195,7 @@ redirect_from:
 
 ## ಭಾಗ 3: ಪದಗಳನ್ನು ಓದುವ ಹಾಗೆಯೇ ಬರೆಯಬೇಕು
 
-[English →](./18-kannaDa-nuDiya-bagege-cintane-en#inukunota-3) | [Eke →](./18-kannaDa-nuDiya-bagege-cintane-kn-eke#inukunota-3)
+[English →](../en/summary#inukunota-3) | [Eke →](../eke/full#inukunota-3)
 
 > **ದಿನಾಂಕ:** 2014-04-14  
 > **ಮೂಲ URL:** <https://dnshankarabhat.net/%e0%b2%aa%e0%b2%a6%e0%b2%97%e0%b2%b3%e0%b2%a8%e0%b3%8d%e0%b2%a8%e0%b3%81-%e0%b2%93%e0%b2%a6%e0%b3%81%e0%b2%b5-%e0%b2%b9%e0%b2%be%e0%b2%97%e0%b3%86%e0%b2%af%e0%b3%87-%e0%b2%ac%e0%b2%b0%e0%b3%86/>  
@@ -276,7 +276,7 @@ redirect_from:
 
 ## ಭಾಗ 10: ಓದುವ ಹಾಗೆಯೇ ಬರೆಯುವುದು
 
-[English →](./18-kannaDa-nuDiya-bagege-cintane-en#inukunota-10) | [Eke →](./18-kannaDa-nuDiya-bagege-cintane-kn-eke#inukunota-10)
+[English →](../en/summary#inukunota-10) | [Eke →](../eke/full#inukunota-10)
 
 > **ದಿನಾಂಕ:** 2014-04-14  
 > **ಮೂಲ URL:** <http://dnshankarabhat.net/%e0%b2%93%e0%b2%a6%e0%b3%81%e0%b2%b5-%e0%b2%b9%e0%b2%be%e0%b2%97%e0%b3%86%e0%b2%af%e0%b3%87-%e0%b2%ac%e0%b2%b0%e0%b3%86%e0%b2%af%e0%b3%81%e0%b2%b5%e0%b3%81%e0%b2%a6%e0%b3%81/>  
@@ -353,7 +353,7 @@ redirect_from:
 
 ## ಭಾಗ 14: ಬರಹಕ್ಕೆ ಮೇಲ್ಮೆ ಬಂದುದು ಹೇಗೆ?
 
-[English →](./18-kannaDa-nuDiya-bagege-cintane-en#inukunota-14) | [Eke →](./18-kannaDa-nuDiya-bagege-cintane-kn-eke#inukunota-14)
+[English →](../en/summary#inukunota-14) | [Eke →](../eke/full#inukunota-14)
 
 > **ದಿನಾಂಕ:** 2014-04-14  
 > **ಮೂಲ URL:** <https://dnshankarabhat.net/%e0%b2%ac%e0%b2%b0%e0%b2%b9%e0%b2%95%e0%b3%8d%e0%b2%95%e0%b3%86-%e0%b2%ae%e0%b3%87%e0%b2%b2%e0%b3%8d%e0%b2%ae%e0%b3%86-%e0%b2%ac%e0%b2%82%e0%b2%a6%e0%b3%81%e0%b2%a6%e0%b3%81-%e0%b2%b9%e0%b3%87/>  
@@ -430,7 +430,7 @@ redirect_from:
 
 ## ಭಾಗ 18: ನುಡಿಗಳ ನಡುವಿನ ನಂಟಸ್ತಿಕೆ
 
-[English →](./18-kannaDa-nuDiya-bagege-cintane-en#inukunota-18) | [Eke →](./18-kannaDa-nuDiya-bagege-cintane-kn-eke#inukunota-18)
+[English →](../en/summary#inukunota-18) | [Eke →](../eke/full#inukunota-18)
 
 > **ದಿನಾಂಕ:** 2014-04-14  
 > **ಮೂಲ URL:** <https://dnshankarabhat.net/%e0%b2%a8%e0%b3%81%e0%b2%a1%e0%b2%bf%e0%b2%97%e0%b2%b3-%e0%b2%a8%e0%b2%a1%e0%b3%81%e0%b2%b5%e0%b2%bf%e0%b2%a8-%e0%b2%a8%e0%b2%82%e0%b2%9f%e0%b2%b8%e0%b3%8d%e0%b2%a4%e0%b2%bf%e0%b2%95%e0%b3%86/>  
@@ -499,7 +499,7 @@ redirect_from:
 
 ## ಭಾಗ 20: ಬರಹದಲ್ಲಿ ಯಾವುದು ಸರಿ, ಯಾವುದು ತಪ್ಪು?
 
-[English →](./18-kannaDa-nuDiya-bagege-cintane-en#inukunota-20) | [Eke →](./18-kannaDa-nuDiya-bagege-cintane-kn-eke#inukunota-20)
+[English →](../en/summary#inukunota-20) | [Eke →](../eke/full#inukunota-20)
 
 > **ಮೂಲ URL:** <http://dnshankarabhat.net/%e0%b2%ac%e0%b2%b0%e0%b2%b9%e0%b2%a6%e0%b2%b2%e0%b3%8d%e0%b2%b2%e0%b2%bf-%e0%b2%af%e0%b2%be%e0%b2%b5%e0%b3%81%e0%b2%a6%e0%b3%81-%e0%b2%b8%e0%b2%b0%e0%b2%bf-%e0%b2%af%e0%b2%be%e0%b2%b5%e0%b3%81/>  
 
@@ -569,7 +569,7 @@ redirect_from:
 
 ## ಭಾಗ 23: ಕನ್ನಡ ನುಡಿ ಎಶ್ಟು ಹಳೆಯದು?
 
-[English →](./18-kannaDa-nuDiya-bagege-cintane-en#inukunota-23) | [Eke →](./18-kannaDa-nuDiya-bagege-cintane-kn-eke#inukunota-23)
+[English →](../en/summary#inukunota-23) | [Eke →](../eke/full#inukunota-23)
 
 > **ಮೂಲ URL:** <http://dnshankarabhat.net/%e0%b2%95%e0%b2%a8%e0%b3%8d%e0%b2%a8%e0%b2%a1-%e0%b2%a8%e0%b3%81%e0%b2%a1%e0%b2%bf-%e0%b2%8e%e0%b2%b6%e0%b3%8d%e0%b2%9f%e0%b3%81-%e0%b2%b9%e0%b2%b3%e0%b3%86%e0%b2%af%e0%b2%a6%e0%b3%81/>  
 
@@ -633,7 +633,7 @@ redirect_from:
 
 ## ಭಾಗ 27: ಪದ ಮತ್ತು ಅದರ ಹುರುಳು
 
-[English →](./18-kannaDa-nuDiya-bagege-cintane-en#inukunota-27) | [Eke →](./18-kannaDa-nuDiya-bagege-cintane-kn-eke#inukunota-27)
+[English →](../en/summary#inukunota-27) | [Eke →](../eke/full#inukunota-27)
 
 > **ಮೂಲ URL:** <https://dnshankarabhat.net/%e0%b2%aa%e0%b2%a6-%e0%b2%ae%e0%b2%a4%e0%b3%8d%e0%b2%a4%e0%b3%81-%e0%b2%85%e0%b2%a6%e0%b2%b0-%e0%b2%b9%e0%b3%81%e0%b2%b0%e0%b3%81%e0%b2%b3%e0%b3%81/>  
 
@@ -695,7 +695,7 @@ redirect_from:
 
 ## ಭಾಗ 28: ಎಣಿಕೆಯಲ್ಲೂ ಹಲವು ಬಗೆಗಳಿವೆ
 
-[English →](./18-kannaDa-nuDiya-bagege-cintane-en#inukunota-28) | [Eke →](./18-kannaDa-nuDiya-bagege-cintane-kn-eke#inukunota-28)
+[English →](../en/summary#inukunota-28) | [Eke →](../eke/full#inukunota-28)
 
 > **ಮೂಲ URL:** <https://dnshankarabhat.net/%e0%b2%8e%e0%b2%a3%e0%b2%bf%e0%b2%95%e0%b3%86%e0%b2%af%e0%b2%b2%e0%b3%8d%e0%b2%b2%e0%b3%82-%e0%b2%b9%e0%b2%b2%e0%b2%b5%e0%b3%81-%e0%b2%ac%e0%b2%97%e0%b3%86%e0%b2%97%e0%b2%b3%e0%b2%bf%e0%b2%b5%e0%b3%86/>  
 
@@ -761,7 +761,7 @@ redirect_from:
 
 ## ಭಾಗ 29: ಪದಗಳ ಹಿನ್ನಡವಳಿಯನ್ನು ಅರಿಯುವ ಬಗೆ
 
-[English →](./18-kannaDa-nuDiya-bagege-cintane-en#inukunota-29) | [Eke →](./18-kannaDa-nuDiya-bagege-cintane-kn-eke#inukunota-29)
+[English →](../en/summary#inukunota-29) | [Eke →](../eke/full#inukunota-29)
 
 > **ಮೂಲ URL:** <https://dnshankarabhat.net/%e0%b2%aa%e0%b2%a6%e0%b2%97%e0%b2%b3-%e0%b2%b9%e0%b2%bf%e0%b2%a8%e0%b3%8d%e0%b2%a8%e0%b2%a1%e0%b2%b5%e0%b2%b3%e0%b2%bf%e0%b2%af%e0%b2%a8%e0%b3%8d%e0%b2%a8%e0%b3%81-%e0%b2%85%e0%b2%b0%e0%b2%bf%e0%b2%af/>  
 
@@ -829,7 +829,7 @@ redirect_from:
 
 ## ಭಾಗ 33: ಕನ್ನಡ ನುಡಿಯ ಸೊಗಡು
 
-[English →](./18-kannaDa-nuDiya-bagege-cintane-en#inukunota-33) | [Eke →](./18-kannaDa-nuDiya-bagege-cintane-kn-eke#inukunota-33)
+[English →](../en/summary#inukunota-33) | [Eke →](../eke/full#inukunota-33)
 
 > **ದಿನಾಂಕ:** 2014-04-14  
 > **ಮೂಲ URL:** <http://dnshankarabhat.net/%e0%b2%95%e0%b2%a8%e0%b3%8d%e0%b2%a8%e0%b2%a1-%e0%b2%a8%e0%b3%81%e0%b2%a1%e0%b2%bf%e0%b2%af-%e0%b2%b8%e0%b3%8a%e0%b2%97%e0%b2%a1%e0%b3%81/>  
@@ -898,7 +898,7 @@ redirect_from:
 
 ## ಭಾಗ 35: ದ್ರಾವಿಡ ನುಡಿಗಳು ಅಯ್ದಲ್ಲ, ಇಪ್ಪತ್ತಾರು!
 
-[English →](./18-kannaDa-nuDiya-bagege-cintane-en#inukunota-35) | [Eke →](./18-kannaDa-nuDiya-bagege-cintane-kn-eke#inukunota-35)
+[English →](../en/summary#inukunota-35) | [Eke →](../eke/full#inukunota-35)
 
 > **ಮೂಲ URL:** <https://dnshankarabhat.net/%e0%b2%a6%e0%b3%8d%e0%b2%b0%e0%b2%be%e0%b2%b5%e0%b2%bf%e0%b2%a1-%e0%b2%a8%e0%b3%81%e0%b2%a1%e0%b2%bf%e0%b2%97%e0%b2%b3%e0%b3%81-%e0%b2%85%e0%b2%af%e0%b3%8d%e0%b2%a6%e0%b2%b2%e0%b3%8d%e0%b2%b2/>  
 

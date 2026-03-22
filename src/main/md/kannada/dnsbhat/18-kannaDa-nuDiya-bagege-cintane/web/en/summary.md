@@ -11,9 +11,9 @@ D.N. Shankara Bhat — Blog series "ನುಡಿಯರಿಮೆಯ ಇಣುಕ�
 Originally published in Vijaya Karnataka newspaper column "ಎಲ್ಲರ ಕನ್ನಡ"
 
 Companion files:
-- [ಕನ್ನಡ + Eke →](./18-kannaDa-nuDiya-bagege-cintane-kn-eke)
+- [ಕನ್ನಡ + Eke →](../eke/full)
 - [Claude prompt →](./18-kannaDa-nuDiya-bagege-cintane-claude-prompt)
-- [Source blog →](./18-kannaDa-nuDiya-bagege-cintane-blog)
+- [Source blog →](../kn/raw)
 
 ---
 
@@ -51,7 +51,7 @@ Bhat applies modern linguistics rigorously: language families are established by
 *Technical Terms: Kannada is Best*
 Published: 2014-04-14
 
-[ಕನ್ನಡ + Eke →](./18-kannaDa-nuDiya-bagege-cintane-kn-eke#inukunota-11)
+[ಕನ್ನಡ + Eke →](../eke/full#inukunota-11)
 
 #### Summary
 
@@ -83,7 +83,7 @@ Bhat points out that Kannada, like all Dravidian languages, has a robust word-fo
 *Must the Kitchen Become a Pākashāle Outside the Home?*
 Published: 2014-04-14
 
-[ಕನ್ನಡ + Eke →](./18-kannaDa-nuDiya-bagege-cintane-kn-eke#inukunota-2)
+[ಕನ್ನಡ + Eke →](../eke/full#inukunota-2)
 
 #### Summary
 
@@ -115,7 +115,7 @@ Bhat traces this behaviour to an inferiority complex produced by centuries of cu
 *Write Words as They Are Pronounced*
 Published: 2014-04-14
 
-[ಕನ್ನಡ + Eke →](./18-kannaDa-nuDiya-bagege-cintane-kn-eke#inukunota-3)
+[ಕನ್ನಡ + Eke →](../eke/full#inukunota-3)
 
 #### Summary
 
@@ -147,7 +147,7 @@ Bhat identifies five specific problems this mismatch creates: (1) it makes liter
 *Writing as It Is Pronounced (continued)*
 Published: 2014-04-14
 
-[ಕನ್ನಡ + Eke →](./18-kannaDa-nuDiya-bagege-cintane-kn-eke#inukunota-10)
+[ಕನ್ನಡ + Eke →](../eke/full#inukunota-10)
 
 #### Summary
 
@@ -179,7 +179,7 @@ Bhat draws a parallel with Korean and Turkish spelling reforms: both languages s
 *How Did Writing Gain Prestige?*
 Published: 2014-04-14
 
-[ಕನ್ನಡ + Eke →](./18-kannaDa-nuDiya-bagege-cintane-kn-eke#inukunota-14)
+[ಕನ್ನಡ + Eke →](../eke/full#inukunota-14)
 
 #### Summary
 
@@ -213,7 +213,7 @@ The prestige of writing, Bhat argues, was consolidated by the printing revolutio
 *Language Relationships*
 Published: 2014-04-14
 
-[ಕನ್ನಡ + Eke →](./18-kannaDa-nuDiya-bagege-cintane-kn-eke#inukunota-18)
+[ಕನ್ನಡ + Eke →](../eke/full#inukunota-18)
 
 #### Summary
 
@@ -245,7 +245,7 @@ Using this method, he demonstrates that Kannada belongs to the Dravidian languag
 **ಬರಹದಲ್ಲಿ ಯಾವುದು ಸರಿ, ಯಾವುದು ತಪ್ಪು?**
 *What is Correct in Writing?*
 
-[ಕನ್ನಡ + Eke →](./18-kannaDa-nuDiya-bagege-cintane-kn-eke#inukunota-20)
+[ಕನ್ನಡ + Eke →](../eke/full#inukunota-20)
 
 #### Summary
 
@@ -277,7 +277,7 @@ He also distinguishes between dialectal variation and errors. Dialectal variatio
 **ಕನ್ನಡ ನುಡಿ ಎಶ್ಟು ಹಳೆಯದು?**
 *How Old is Kannada?*
 
-[ಕನ್ನಡ + Eke →](./18-kannaDa-nuDiya-bagege-cintane-kn-eke#inukunota-23)
+[ಕನ್ನಡ + Eke →](../eke/full#inukunota-23)
 
 #### Summary
 
@@ -309,7 +309,7 @@ Bhat explains the methodology: linguists estimate the age of language divergence
 **ಪದ ಮತ್ತು ಅದರ ಹುರುಳು**
 *Word and Its Meaning*
 
-[ಕನ್ನಡ + Eke →](./18-kannaDa-nuDiya-bagege-cintane-kn-eke#inukunota-27)
+[ಕನ್ನಡ + Eke →](../eke/full#inukunota-27)
 
 #### Summary
 
@@ -341,7 +341,7 @@ He distinguishes between two ways words can refer: referential identification (t
 **ಎಣಿಕೆಯಲ್ಲೂ ಹಲವು ಬಗೆಗಳಿವೆ**
 *Counting Systems Vary Across Languages*
 
-[ಕನ್ನಡ + Eke →](./18-kannaDa-nuDiya-bagege-cintane-kn-eke#inukunota-28)
+[ಕನ್ನಡ + Eke →](../eke/full#inukunota-28)
 
 #### Summary
 
@@ -373,7 +373,7 @@ He examines the Bodo (Boro) language of Northeast India, which uses a combinatio
 **ಪದಗಳ ಹಿನ್ನಡವಳಿಯನ್ನು ಅರಿಯುವ ಬಗೆ**
 *Understanding Word Etymology*
 
-[ಕನ್ನಡ + Eke →](./18-kannaDa-nuDiya-bagege-cintane-kn-eke#inukunota-29)
+[ಕನ್ನಡ + Eke →](../eke/full#inukunota-29)
 
 #### Summary
 
@@ -405,7 +405,7 @@ He explains that genuine etymology requires the application of sound change laws
 **ಕನ್ನಡ ನುಡಿಯ ಸೊಗಡು**
 *The Character of Kannada*
 
-[ಕನ್ನಡ + Eke →](./18-kannaDa-nuDiya-bagege-cintane-kn-eke#inukunota-33)
+[ಕನ್ನಡ + Eke →](../eke/full#inukunota-33)
 
 #### Summary
 
@@ -438,7 +438,7 @@ Most importantly, Kannada has phonemes that do not exist in Sanskrit: the retrof
 **ದ್ರಾವಿಡ ನುಡಿಗಳು ಅಯ್ದಲ್ಲ, ಇಪ್ಪತ್ತಾರು!**
 *Dravidian Languages: Not 5 but 26!*
 
-[ಕನ್ನಡ + Eke →](./18-kannaDa-nuDiya-bagege-cintane-kn-eke#inukunota-35)
+[ಕನ್ನಡ + Eke →](../eke/full#inukunota-35)
 
 #### Summary
 
@@ -470,19 +470,19 @@ Bhat emphasises that many of these languages are spoken by small communities and
 
 | Post | Inukunota No. | Topic | kn-eke section |
 |------|---------------|-------|----------------|
-| Post 1 | 11 | Technical vocabulary | [→](./18-kannaDa-nuDiya-bagege-cintane-kn-eke#inukunota-11) |
-| Post 2 | 2 | Linguistic inferiority complex | [→](./18-kannaDa-nuDiya-bagege-cintane-kn-eke#inukunota-2) |
-| Post 3 | 3 | Phonological spelling | [→](./18-kannaDa-nuDiya-bagege-cintane-kn-eke#inukunota-3) |
-| Post 4 | 10 | Spelling reform (continued) | [→](./18-kannaDa-nuDiya-bagege-cintane-kn-eke#inukunota-10) |
-| Post 5 | 14 | Prestige of writing | [→](./18-kannaDa-nuDiya-bagege-cintane-kn-eke#inukunota-14) |
-| Post 6 | 18 | Language families | [→](./18-kannaDa-nuDiya-bagege-cintane-kn-eke#inukunota-18) |
-| Post 7 | 20 | Correctness in writing | [→](./18-kannaDa-nuDiya-bagege-cintane-kn-eke#inukunota-20) |
-| Post 8 | 23 | Age of Kannada | [→](./18-kannaDa-nuDiya-bagege-cintane-kn-eke#inukunota-23) |
-| Post 9 | 27 | Word meaning / semantics | [→](./18-kannaDa-nuDiya-bagege-cintane-kn-eke#inukunota-27) |
-| Post 10 | 28 | Counting systems | [→](./18-kannaDa-nuDiya-bagege-cintane-kn-eke#inukunota-28) |
-| Post 11 | 29 | Word etymology | [→](./18-kannaDa-nuDiya-bagege-cintane-kn-eke#inukunota-29) |
-| Post 12 | 33 | Phonological character of Kannada | [→](./18-kannaDa-nuDiya-bagege-cintane-kn-eke#inukunota-33) |
-| Post 13 | 35 | Dravidian family (26 languages) | [→](./18-kannaDa-nuDiya-bagege-cintane-kn-eke#inukunota-35) |
+| Post 1 | 11 | Technical vocabulary | [→](../eke/full#inukunota-11) |
+| Post 2 | 2 | Linguistic inferiority complex | [→](../eke/full#inukunota-2) |
+| Post 3 | 3 | Phonological spelling | [→](../eke/full#inukunota-3) |
+| Post 4 | 10 | Spelling reform (continued) | [→](../eke/full#inukunota-10) |
+| Post 5 | 14 | Prestige of writing | [→](../eke/full#inukunota-14) |
+| Post 6 | 18 | Language families | [→](../eke/full#inukunota-18) |
+| Post 7 | 20 | Correctness in writing | [→](../eke/full#inukunota-20) |
+| Post 8 | 23 | Age of Kannada | [→](../eke/full#inukunota-23) |
+| Post 9 | 27 | Word meaning / semantics | [→](../eke/full#inukunota-27) |
+| Post 10 | 28 | Counting systems | [→](../eke/full#inukunota-28) |
+| Post 11 | 29 | Word etymology | [→](../eke/full#inukunota-29) |
+| Post 12 | 33 | Phonological character of Kannada | [→](../eke/full#inukunota-33) |
+| Post 13 | 35 | Dravidian family (26 languages) | [→](../eke/full#inukunota-35) |
 
 ---
 
@@ -490,7 +490,7 @@ Bhat emphasises that many of these languages are spoken by small communities and
 
 | File | Description |
 |------|-------------|
-| [18-kannaDa-nuDiya-bagege-cintane-blog.md](./18-kannaDa-nuDiya-bagege-cintane-blog) | Source: all 13 blog posts in Kannada |
-| [18-kannaDa-nuDiya-bagege-cintane-en.md](./18-kannaDa-nuDiya-bagege-cintane-en) | This file: English summaries |
-| [18-kannaDa-nuDiya-bagege-cintane-kn-eke.md](./18-kannaDa-nuDiya-bagege-cintane-kn-eke) | Eke romanisation companion |
+| [18-kannaDa-nuDiya-bagege-cintane-blog.md](../kn/raw) | Source: all 13 blog posts in Kannada |
+| [18-kannaDa-nuDiya-bagege-cintane-en.md](./summary) | This file: English summaries |
+| [18-kannaDa-nuDiya-bagege-cintane-kn-eke.md](../eke/full) | Eke romanisation companion |
 | [18-kannaDa-nuDiya-bagege-cintane-claude-prompt.md](./18-kannaDa-nuDiya-bagege-cintane-claude-prompt) | AI assistant overview |

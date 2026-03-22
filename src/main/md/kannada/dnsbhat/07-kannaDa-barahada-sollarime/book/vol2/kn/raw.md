@@ -11,7 +11,7 @@ redirect_from:
 
 ## ಪರಿವಿಡಿ (ಸಂಪುಟ ೨)
 
-[← ಸಂಪುಟ ೧](./07-kannaDa-barahada-sollarime-vol1-book)
+[← ಸಂಪುಟ ೧](../../vol1/kn/raw)
 
 - [ಅಧ್ಯಾಯ 5 — ಎಸಕಪದಗಳ ಬಳಕೆ](#adhyAya-5)
 - [ಅಧ್ಯಾಯ 6 — ಹೆಸರುಕಂತೆಗಳ ಇಟ್ಟಳ](#adhyAya-6)
@@ -21,7 +21,7 @@ redirect_from:
 
 <a id="adhyAya-5"></a>
 
-[English →](./07-kannaDa-barahada-sollarime-en#chapter-5--verb-usage) | [Eke →](./07-kannaDa-barahada-sollarime-kn-eke#esaka-baLake)
+[English →](../../en/summary#chapter-5--verb-usage) | [Eke →](../eke/full#esaka-baLake)
 
 5. ಎಸಕಪದಗಳ ಬಳಕೆ 
 
@@ -6092,7 +6092,7 @@ vÀÛzÉ.
 
 <a id="adhyAya-6"></a>
 
-[English →](./07-kannaDa-barahada-sollarime-en#chapter-6--noun-phrase-structure) | [Eke →](./07-kannaDa-barahada-sollarime-kn-eke#padakante-iTTaLa)
+[English →](../../en/summary#chapter-6--noun-phrase-structure) | [Eke →](../eke/full#padakante-iTTaLa)
 
 6. ಹೆಸರುಕಂತೆಗಳ ಇಟ್ಟಳ 
 

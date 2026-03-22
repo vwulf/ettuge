@@ -52,7 +52,7 @@ The book is intended for grammarians, teachers, university researchers, and info
 *(ಮುನ್ನೋಟ)*
 
 
-[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-1) | [Eke →](./28-kannaDakke-bEku-kn-eke#munoTa)
+[ಕನ್ನಡ →](../kn/full#adhyAya-1) | [Eke →](../eke/full#munoTa)
 
 The opening chapter establishes the book's thesis through an account of Kannada's grammar-writing tradition. Over the past thousand years, more than a hundred grammar books and articles have been written about Kannada — in Kannada itself, and in English, Sanskrit, Marathi, Hindi, and Russian — spanning sutra-style treatises, commentaries, textbooks, and research monographs. The author identifies three grammatical traditions in this body of work: the Sanskrit tradition (Keshiraja, Bhattagalanka, and most school textbooks), the 19th-century European missionary tradition (grammars of Modern Kannada written in English following Latin/Greek templates), and the 20th-century American descriptive tradition. The key common failure of all three, he argues, is that none attempts to discover Kannada's own grammatical structure from within — each begins with the categories of a foreign language and tries to fit Kannada into them.
 
@@ -67,7 +67,7 @@ The author distinguishes sharply between unconscious grammatical knowledge (the 
 *(ಸೇರಿಕೆಯ ನಿಯಮಗಳು)*
 
 
-[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-2) | [Eke →](./28-kannaDakke-bEku-kn-eke#sErikeya-niyamagaLu)
+[ಕನ್ನಡ →](../kn/full#adhyAya-2) | [Eke →](../eke/full#sErikeya-niyamagaLu)
 
 This chapter examines the treatment of sandhi (phonological changes at morpheme and word boundaries) in Kannada school grammar textbooks. The author shows that textbooks typically present Sanskrit sandhi rules first — rules governing vowel coalescence, consonant assimilation, and related phenomena in Sanskrit — and then attempt to find Kannada examples that fit those Sanskrit rules. When Kannada examples cannot be found, the textbooks often supply Sanskrit loanwords as illustrations of "Kannada sandhi." This, the author argues, is methodologically inverted: the task is to describe what Kannada speakers actually do at phonological junctions, not to demonstrate that Kannada obeys Sanskrit phonological rules.
 
@@ -82,7 +82,7 @@ The chapter surveys the actual differences between Sanskrit and Kannada phonolog
 *(ಪದವಗ್ರಗಳು)*
 
 
-[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-3) | [Eke →](./28-kannaDakke-bEku-kn-eke#padavagragaLu)
+[ಕನ್ನಡ →](../kn/full#adhyAya-3) | [Eke →](../eke/full#padavagragaLu)
 
 Chapter 3 addresses how Kannada words are categorised into classes (noun, verb, qualifier/adjective, and others). The author argues that the three primary classes — noun (ಹೆಸರುಪದ), verb (ಎಸಕಪದ), and qualifier (ಪರಿಚೆಪದ / ಗುಣಪದ) — are independently defined by their syntactic behaviour in Kannada sentences, and that this three-way distinction is typologically consistent with Dravidian languages generally. The chapter examines how qualifiers function as modifiers and how nouns can serve as modifiers too, but that these two modifier functions are grammatically distinct. Sections on compound-phrase construction (ಪದಕಂತೆ) show how noun-phrase structure in Kannada operates differently from Sanskrit's agreement-based nominal phrase, where adjectives must agree in gender, number, and case with their head nouns. In Kannada, qualifiers are invariant — they never inflect for gender, number, or case.
 
@@ -97,7 +97,7 @@ The chapter also introduces the distinction between tatsama words (Sanskrit loan
 *(ಪದಗಳ ಒಳರಚನೆ)*
 
 
-[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-4) | [Eke →](./28-kannaDakke-bEku-kn-eke#padagaLa-oLaracane)
+[ಕನ್ನಡ →](../kn/full#adhyAya-4) | [Eke →](../eke/full#padagaLa-oLaracane)
 
 This chapter analyses morphology — the internal structure of Kannada words — beginning with the key distinction between naming (ಹೆಸರಿಸುವುದು) and describing (ವರ್ಣಿಸುವುದು). A noun names a referent and carries a cluster of properties associated with that referent; a qualifier selects and predicates a single property. This distinction has direct consequences for morphology because nouns and qualifiers form compounds in different ways and combine with affixes on different terms. The chapter contrasts compound words (ಜೋಡುಪದ) with noun phrases (ಪದಕಂತೆ), showing that the two are structurally distinct even when superficially similar in surface form.
 
@@ -112,7 +112,7 @@ The traditional Sanskrit classification of affixes into krit (suffixes attached 
 *(ಸಮಾಸಗಳು)*
 
 
-[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-5) | [Eke →](./28-kannaDakke-bEku-kn-eke#samAsagaLu)
+[ಕನ್ನಡ →](../kn/full#adhyAya-5) | [Eke →](../eke/full#samAsagaLu)
 
 Chapter 5 provides the book's most detailed grammatical analysis, examining the Sanskrit samasa (compound) taxonomy and its application — or misapplication — to Kannada. The traditional Sanskrit taxonomy identifies six or eight compound types: tatpurusha, karmadharaya, dvandva, bahuvrihi, avyayibhava, dvandva, and two additional types sometimes recognised for Kannada (kriyasamasa and gamaka samasa). The author works through each type systematically, showing that Sanskrit compound formation is fundamentally different from Kannada compound formation in four key respects: Sanskrit compounds delete case suffixes at the internal junction (the second member appears in its stem form), while Kannada compounds typically do not; Sanskrit allows a much wider range of internal syntactic relations to be expressed in compounds; the concept of "subject" or topic-prominence that organises Sanskrit compounds does not apply to Kannada; and the set of Dravidian-native compound types visible in Modern Kannada does not map onto the Sanskrit taxonomy.
 
@@ -127,7 +127,7 @@ The chapter proposes a Kannada-native classification of compounds based on the w
 *(ಲಿಂಗ ಮತ್ತು ವಚನಗಳು)*
 
 
-[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-6) | [Eke →](./28-kannaDakke-bEku-kn-eke#liNga-mattu-vacanagaLu)
+[ಕನ್ನಡ →](../kn/full#adhyAya-6) | [Eke →](../eke/full#liNga-mattu-vacanagaLu)
 
 This chapter examines gender (ಲಿಂಗ) and number (ವಚನ) in Kannada and shows that both categories operate on fundamentally different principles from Sanskrit. Sanskrit has three grammatical genders (masculine, feminine, neuter) that are partly arbitrary and not consistently derivable from natural gender; Sanskrit adjectives and demonstratives must agree with their head nouns in gender, number, and case. Kannada, by contrast, has a two-way distinction between rational/human and non-rational/non-human (ಮಾನವ vs. ಅಮಾನವ) that is semantically motivated, not grammatically arbitrary. This distinction controls only certain grammatical phenomena — notably pronoun selection and some verb agreement suffixes — and qualifiers do not agree in gender with their head nouns at all.
 
@@ -142,7 +142,7 @@ On number, Kannada distinguishes singular from plural, but the marking of this d
 *(ವಿಭಕ್ತಿಗಳು ಮತ್ತು ಕಾರಕಗಳು)*
 
 
-[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-7) | [Eke →](./28-kannaDakke-bEku-kn-eke#vibaktigaLu-mattu-kArakagaLu)
+[ಕನ್ನಡ →](../kn/full#adhyAya-7) | [Eke →](../eke/full#vibaktigaLu-mattu-kArakagaLu)
 
 This chapter examines the Sanskrit karaka (ಕಾರಕ) system — the traditional semantic classification of nominal participants in relation to a verbal action (agent, patient, instrument, beneficiary, source, location) — and asks whether this system is applicable to Kannada grammar. The Sanskrit karaka system was developed within Panini's framework to account for the relationship between semantic roles and the selection of case suffixes; a single semantic role (karaka) may be marked by different case suffixes in different syntactic contexts, and a single case suffix may mark different semantic roles. The chapter shows that Kannada case suffixes (ವಿಭಕ್ತಿ) relate to semantic roles in ways that are similar in broad outline but differ substantially in detail.
 
@@ -157,7 +157,7 @@ The author argues that Kannada does not need the karaka framework because Kannad
 *(ವಿಭಕ್ತಿಗಳು)*
 
 
-[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-8) | [Eke →](./28-kannaDakke-bEku-kn-eke#vibaktigaLu)
+[ಕನ್ನಡ →](../kn/full#adhyAya-8) | [Eke →](../eke/full#vibaktigaLu)
 
 Chapter 8 provides a systematic description of Kannada case suffixes (ವಿಭಕ್ತಿ), showing how they differ from Sanskrit case suffixes in their form, their number, and their semantic range. Sanskrit is traditionally analysed as having eight cases (nominative, accusative, instrumental, dative, ablative, genitive, locative, vocative); Kannada grammarians have typically followed this eight-case scheme, but the author shows that many of the purported "Kannada cases" are either absent, merged, or operate on different semantic principles. The Kannada locative suffix -alli, for instance, covers semantic territory that Sanskrit distributes across locative and other case forms. The genitive suffix -a/-ina/-ra covers possession relations that Sanskrit handles through genitive agreement that requires modification of the first noun's ending.
 
@@ -172,7 +172,7 @@ The chapter documents that case suffix selection in Kannada is sensitive to the 
 *(ವಿಭಕ್ತಿಪಲ್ಲಟ)*
 
 
-[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-9) | [Eke →](./28-kannaDakke-bEku-kn-eke#vibaktipaLLaTa)
+[ಕನ್ನಡ →](../kn/full#adhyAya-9) | [Eke →](../eke/full#vibaktipaLLaTa)
 
 This chapter analyses case alternation (ವಿಭಕ್ತಿಪಲ್ಲಟ) — situations where the same noun appears with different case suffixes without a change in the verb, producing subtle differences in meaning or viewpoint. For example, ಅವನು ಊರಿಗೆ ಹೋದನು ("he went to the village," with goal-marking dative) versus ಅವನು ಊರಿನಲ್ಲಿ ಹೋದನು (with a locative reading) differ not in the verb but in how the spatial relation is conceptualised. The chapter systematically catalogues the conditions under which case alternation occurs, grouping them into: cases involving completeness vs. partiality of the action; cases involving volitionality vs. compulsion; cases involving adjacency or proximity; and cases with additional semantic distinctions.
 
@@ -187,7 +187,7 @@ The chapter also examines case alternation in Sanskrit and argues that while San
 *(ಸರ್ವನಾಮಗಳು ಮತ್ತು ಎಣಿಕೆಯ ಪದಗಳು)*
 
 
-[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-10) | [Eke →](./28-kannaDakke-bEku-kn-eke#sarvanAmagaLu-mattu-eNikeya-padagaLu)
+[ಕನ್ನಡ →](../kn/full#adhyAya-10) | [Eke →](../eke/full#sarvanAmagaLu-mattu-eNikeya-padagaLu)
 
 Chapter 10 examines pronouns (ಸರ್ವನಾಮ) and numerals (ಎಣಿಕೆಯ ಪದ) in Kannada, showing that both categories differ structurally from their Sanskrit counterparts in ways that existing grammars misrepresent. The pronoun system in Kannada encodes a three-way distinction in the second and third persons: proximate (ಇವನು, ಇವಳು, ಇದು), medial (ಅವನು, ಅವಳು, ಅದು), and remote/respectful (ಅವರು). The traditional Sanskrit pronoun categories — which distinguish masculine/feminine/neuter and first/second/third person without a proximate/medial distance distinction — map poorly onto this system. The chapter also examines Kannada inclusive/exclusive distinctions in first-person plural pronouns, which have no Sanskrit parallel.
 
@@ -202,7 +202,7 @@ On numerals, the chapter shows that Kannada numeral words have a distinctive int
 *(ಕ್ರಿಯಾರೂಪಗಳು)*
 
 
-[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-11) | [Eke →](./28-kannaDakke-bEku-kn-eke#kriyArUpagaLu)
+[ಕನ್ನಡ →](../kn/full#adhyAya-11) | [Eke →](../eke/full#kriyArUpagaLu)
 
 The penultimate chapter examines the Kannada verb system, which is the most complex and most distinctively Dravidian part of Kannada grammar. The chapter addresses tense (ಕಾಲ), showing that the traditional Sanskrit tense scheme (ten lakaras covering past, present, future, and various aspects and moods) cannot be applied to Kannada. Kannada distinguishes three tenses — past, present, and future — with the present/future distinction being aspectually complex, but the internal structure of these tenses is built on different morphological bases from Sanskrit. The chapter discusses the traditional Sanskrit concepts of parasmaipada and atmanepada (active and middle/reflexive verbal inflection) and shows that while these categories may have historical relevance for Old Kannada, they do not function as grammatical categories in Modern Kannada.
 
@@ -217,7 +217,7 @@ The chapter examines two further topics of major pedagogical significance: the n
 *(ಮುಕ್ತಾಯ)*
 
 
-[ಕನ್ನಡ →](./28-kannaDakke-bEku-kn#adhyAya-12) | [Eke →](./28-kannaDakke-bEku-kn-eke#muktAya)
+[ಕನ್ನಡ →](../kn/full#adhyAya-12) | [Eke →](../eke/full#muktAya)
 
 The concluding chapter synthesises the book's findings and draws out their implications for grammar teaching and university research. The author identifies the root cause of all the problems documented in Chapters 2–11: all three existing grammatical traditions (Sanskrit-based, European missionary, and American descriptive) began from the grammar of a non-Dravidian language and attempted to fit Kannada into that framework, rather than observing what Kannada speakers actually do and constructing categories from those observations. This methodological inversion has produced two centuries of grammar books that, at best, describe Sanskrit, Latin, or English grammar with Kannada examples, and at worst teach students incorrect rules about their own language.
 
@@ -259,8 +259,8 @@ The chapter calls for a new direction: high school grammar teaching should focus
 
 ---
 
-*This document is an English-language overview of D. N. Shankara Bhat's* ಕನ್ನಡಕ್ಕೆ ಬೇಕು ಕನ್ನಡದ್ದೇ ವ್ಯಾಕರಣ *(2000/2013), based on the original Kannada text. The Kannada text can be read in the companion file* [28-kannaDakke-bEku-book.md](./28-kannaDakke-bEku-book).
+*This document is an English-language overview of D. N. Shankara Bhat's* ಕನ್ನಡಕ್ಕೆ ಬೇಕು ಕನ್ನಡದ್ದೇ ವ್ಯಾಕರಣ *(2000/2013), based on the original Kannada text. The Kannada text can be read in the companion file* [28-kannaDakke-bEku-book.md](../kn/raw).
 
 **Related books in this series:**
-- [Book 03 — ಕನ್ನಡ ಪದಗಳ ಒಳರಚನೆ (Internal Structure of Kannada Words)](../03-kannaDa-padagaLa-oLaracane/03-kannaDa-padagaLa-oLaracane-en)
-- [Book 29 — ಕನ್ನಡ ವ್ಯಾಕರಣ ಯಾಕೆ ಬೇಕು? (Why Do We Need Kannada Grammar?)](../29-kannaDa-vyAkaraNa-yAke-bEku/29-kannaDa-vyAkaraNa-yAke-bEku-en)
+- [Book 03 — ಕನ್ನಡ ಪದಗಳ ಒಳರಚನೆ (Internal Structure of Kannada Words)](../../03-kannaDa-padagaLa-oLaracane/book/en/summary)
+- [Book 29 — ಕನ್ನಡ ವ್ಯಾಕರಣ ಯಾಕೆ ಬೇಕು? (Why Do We Need Kannada Grammar?)](../../29-kannaDa-vyAkaraNa-yAke-bEku/book/en/summary)

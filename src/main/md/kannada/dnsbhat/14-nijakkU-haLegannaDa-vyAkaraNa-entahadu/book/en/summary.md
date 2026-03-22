@@ -603,10 +603,10 @@ The final section situates the book within the broader project of Dravidian ling
 | File | Contents |
 |------|----------|
 | [`nijakku-...-book.md`](./nijakkU-haLegannaDa-vyAkaraNa-entahadu-book) | Full Kannada book text (archive.org, 11,791 lines) |
-| [`14-...-kn.md`](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn) | Structured Kannada with TOC and section anchors |
-| [`14-...-kn-eke.md`](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke) | Eke romanisation |
+| [`14-...-kn.md`](../kn/full) | Structured Kannada with TOC and section anchors |
+| [`14-...-kn-eke.md`](../eke/full) | Eke romanisation |
 | [`14-...-djvu.md`](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-djvu) | DjVu OCR text (alternative source) |
-| [`14-...-blog.md`](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-blog) | 7 blog posts — ಶಬ್ದಮಣಿದರ್ಪಣ critique series |
+| [`14-...-blog.md`](../../web/kn/raw) | 7 blog posts — ಶಬ್ದಮಣಿದರ್ಪಣ critique series |
 | [`14-...-claude-prompt.md`](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-claude-prompt) | AI assistant prompt for Q&A about this book |
 | [Internet Archive](https://archive.org/details/arn.nijakkuhaleganna0000dnsh) | Original PDF + DjVu source |
 
@@ -621,4 +621,4 @@ The final section situates the book within the broader project of Dravidian ling
 | [08 — Kannadakke Mahaprana Yake Beda](../08-kannaDakke-mahAprANa-yAke-bEDa/) | Historical argument: when/why Sanskrit letters entered Kannada writing |
 | [03 — Kannada Padagala Olarachane](../03-kannaDa-padagaLa-oLaracane/) | Word structure / morphology — the Dravidian-correct framework Book 14 argues for |
 | [22 — Sound Change](../22-sound-change/) | Theoretical backbone: comparative method used to evaluate Old Kannada phonology |
-| [Blog series in this folder](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-blog) | 7-part companion blog posts specifically on Shabdamani Darpana errors |
+| [Blog series in this folder](../../web/kn/raw) | 7-part companion blog posts specifically on Shabdamani Darpana errors |

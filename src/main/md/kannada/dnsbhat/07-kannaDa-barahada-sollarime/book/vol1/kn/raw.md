@@ -17,7 +17,7 @@ redirect_from:
 - [ಅಧ್ಯಾಯ 3 — ಪದಗಳ ಇಟ್ಟಳ: ಉಳಿದ ಪದಗಳು](#adhyAya-3)
 - [ಅಧ್ಯಾಯ 4 — ಪದರೂಪಗಳ ಇಟ್ಟಳ](#adhyAya-4)
 
-[ಸಂಪುಟ ೨ →](./07-kannaDa-barahada-sollarime-vol2-book)
+[ಸಂಪುಟ ೨ →](../../vol2/kn/raw)
 
 ---
 
@@ -951,7 +951,7 @@ C  MlÄÖ  (235),  4. E MlÄÖ (236), 5. G MlÄÖ
 
 <a id="adhyAya-1"></a>
 
-[English →](./07-kannaDa-barahada-sollarime-en#chapter-1--preview) | [Eke →](./07-kannaDa-barahada-sollarime-kn-eke#munnOTa)
+[English →](../../en/summary#chapter-1--preview) | [Eke →](../eke/full#munnOTa)
 
 1. ಮುನ್ನೋಟ 
 
@@ -4827,7 +4827,7 @@ vÀqÉ
 
 <a id="adhyAya-2"></a>
 
-[English →](./07-kannaDa-barahada-sollarime-en#chapter-2--word-structure-nouns) | [Eke →](./07-kannaDa-barahada-sollarime-kn-eke#hesarupada-iTTaLa)
+[English →](../../en/summary#chapter-2--word-structure-nouns) | [Eke →](../eke/full#hesarupada-iTTaLa)
 
 2. ಪದಗಳ ಇಟ್ಟಳ:  
 ಹೆಸರುಪದಗಳು 
@@ -14466,7 +14466,7 @@ PÀA§¤
 
 <a id="adhyAya-3"></a>
 
-[English →](./07-kannaDa-barahada-sollarime-en#chapter-3--word-structure-remaining-word-classes) | [Eke →](./07-kannaDa-barahada-sollarime-kn-eke#uLida-pada-iTTaLa)
+[English →](../../en/summary#chapter-3--word-structure-remaining-word-classes) | [Eke →](../eke/full#uLida-pada-iTTaLa)
 
 3. ಪದಗಳ ಇಟ್ಟಳ: 
 ಉಳಿದ ಪದಗಳು 
@@ -19197,7 +19197,7 @@ vÀÛzÉ.
 
 <a id="adhyAya-4"></a>
 
-[English →](./07-kannaDa-barahada-sollarime-en#chapter-4--inflectional-forms) | [Eke →](./07-kannaDa-barahada-sollarime-kn-eke#padarUpa-iTTaLa)
+[English →](../../en/summary#chapter-4--inflectional-forms) | [Eke →](../eke/full#padarUpa-iTTaLa)
 
 4. ಪದರೂಪಗಳ ಇಟ್ಟಳ  
 

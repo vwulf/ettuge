@@ -237,7 +237,7 @@ redirect_from:
 
 <a id="adhyAya-1"></a>
 
-[English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-1--introduction) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#pITike)
+[English →](../en/summary#chapter-1--introduction) | [Eke →](../eke/full#pITike)
 
 ## ೧.೧ ಒಳರಚನೆ
 
@@ -1148,7 +1148,7 @@ redirect_from:
 
 <a id="adhyAya-2"></a>
 
-[English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-2--word-classes-in-kannada) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#pada-gumpugaLu)
+[English →](../en/summary#chapter-2--word-classes-in-kannada) | [Eke →](../eke/full#pada-gumpugaLu)
 
 ## ೨.೧ ಮುನ್ನೋಟ
 
@@ -2186,7 +2186,7 @@ redirect_from:
 
 <a id="adhyAya-3"></a>
 
-[English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-3--internal-structure-of-nouns) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#hesaru-padagaLa-oLaracane)
+[English →](../en/summary#chapter-3--internal-structure-of-nouns) | [Eke →](../eke/full#hesaru-padagaLa-oLaracane)
 
 ## ೩.೧ ಹೆಸರಿಸುವುದು ಮತ್ತು ವರ್ಣಿಸುವುದು
 
@@ -3602,7 +3602,7 @@ redirect_from:
 
 <a id="adhyAya-4"></a>
 
-[English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-4--nouns-with-suffixes) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#prattayaviruva-hesaru-padagaLu)
+[English →](../en/summary#chapter-4--nouns-with-suffixes) | [Eke →](../eke/full#prattayaviruva-hesaru-padagaLu)
 
 ## ಅಧ್ಯಾಯ ನಾಲ್ಕು
 ಪ್ರತ್ಯಯವಿರುವ ನಾಮಪದಗಳು
@@ -5740,7 +5740,7 @@ redirect_from:
 
 <a id="adhyAya-5"></a>
 
-[English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-5--compound-nouns) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#jODupadagaLu)
+[English →](../en/summary#chapter-5--compound-nouns) | [Eke →](../eke/full#jODupadagaLu)
 
 ಅಧ್ಯಾಯ ಐದು
 ಜೋಡುಪದಗಳು
@@ -8229,7 +8229,7 @@ redirect_from:
 
 <a id="adhyAya-6"></a>
 
-[English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-6--internal-structure-of-verbs) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#kriyA-padagaLa-oLaracane)
+[English →](../en/summary#chapter-6--internal-structure-of-verbs) | [Eke →](../eke/full#kriyA-padagaLa-oLaracane)
 
 ## ಅಧ್ಯಾಯ ಆರು
 ಕ್ರಿಯಾಪದಗಳ ಒಳರಚನೆ
@@ -9571,7 +9571,7 @@ redirect_from:
 
 <a id="adhyAya-7"></a>
 
-[English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-7--internal-structure-of-qualifiers) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#guNa-padagaLa-oLaracane)
+[English →](../en/summary#chapter-7--internal-structure-of-qualifiers) | [Eke →](../eke/full#guNa-padagaLa-oLaracane)
 
 ಅಧ್ಯಾಯ ಏಳು
 ಗುಣಪದಗಳ ಒಳರಚನೆ
@@ -9990,7 +9990,7 @@ redirect_from:
 
 <a id="adhyAya-8"></a>
 
-[English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-8--internal-structure-of-loanwords) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#eravalu-padagaLa-oLaracane)
+[English →](../en/summary#chapter-8--internal-structure-of-loanwords) | [Eke →](../eke/full#eravalu-padagaLa-oLaracane)
 
 ## ಅಧ್ಯಾಯ ಎಂಟು
 ಎರವಲು ಪದಗಳ ಒಳರಚನೆ
@@ -12131,7 +12131,7 @@ redirect_from:
 
 <a id="adhyAya-9"></a>
 
-[English →](./03-kannaDa-padagaLa-oLaracane-en#chapter-9--conclusion) | [Eke →](./03-kannaDa-padagaLa-oLaracane-kn-eke#muktAya)
+[English →](../en/summary#chapter-9--conclusion) | [Eke →](../eke/full#muktAya)
 
 ## ಅಧ್ಯಾಯ ಒಂಬತ್ತು
 ಮುಕ್ತಾಯ

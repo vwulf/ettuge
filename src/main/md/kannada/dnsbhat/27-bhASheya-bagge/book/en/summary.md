@@ -82,7 +82,7 @@ The book's central argument is that ordinary people hold many misconceptions abo
 ## Part One — The Nature of Language
 
 
-[ಕನ್ನಡ →](./27-bhASheya-bagge-book#part-1) | [Eke →](./27-bhASheya-bagge-kn-eke#11)
+[ಕನ್ನಡ →](../kn/raw#part-1) | [Eke →](../eke/full#11)
 
 ### 1.1 No language is superior or inferior
 
@@ -117,7 +117,7 @@ Number systems vary dramatically across the world's languages. Most use a base-1
 ## Part Two — Grammar and Learning
 
 
-[ಕನ್ನಡ →](./27-bhASheya-bagge-book#part-2) | [Eke →](./27-bhASheya-bagge-kn-eke#21)
+[ಕನ್ನಡ →](../kn/raw#part-2) | [Eke →](../eke/full#21)
 
 ### 2.1 The magic of first language acquisition
 
@@ -164,7 +164,7 @@ Even people who are literate in Kannada often read very little beyond necessity.
 ## Part Three — Speech and Writing
 
 
-[ಕನ್ನಡ →](./27-bhASheya-bagge-book#part-3) | [Eke →](./27-bhASheya-bagge-kn-eke#31)
+[ಕನ್ನಡ →](../kn/raw#part-3) | [Eke →](../eke/full#31)
 
 ### 3.1 A photograph of speech
 
@@ -195,7 +195,7 @@ A summary essay distinguishing speech (ಮಾತು) from writing (ಬರಹ). S
 ## Part Four — The Nature of the Kannada Language
 
 
-[ಕನ್ನಡ →](./27-bhASheya-bagge-book#part-4) | [Eke →](./27-bhASheya-bagge-kn-eke#41)
+[ಕನ್ನಡ →](../kn/raw#part-4) | [Eke →](../eke/full#41)
 
 ### 4.1 The three faces of Kannada
 
@@ -226,7 +226,7 @@ How should Kannada develop vocabulary for science, technology, and modern life? 
 ## Part Five — Languages of the World
 
 
-[ಕನ್ನಡ →](./27-bhASheya-bagge-book#part-5) | [Eke →](./27-bhASheya-bagge-kn-eke#51)
+[ಕನ್ನಡ →](../kn/raw#part-5) | [Eke →](../eke/full#51)
 
 ### 5.1 Languages of India
 
@@ -289,6 +289,6 @@ The book closes by returning to its opening theme: ordinary people know less abo
 ---
 
 *Cross-links:*
-- [Kannada source text (kn)](./27-bhASheya-bagge-book)
-- [Eke romanisation (kn-eke)](./27-bhASheya-bagge-kn-eke)
+- [Kannada source text (kn)](../kn/raw)
+- [Eke romanisation (kn-eke)](../eke/full)
 - [AI system prompt](./27-bhASheya-bagge-claude-prompt)

@@ -1315,7 +1315,7 @@ MqÉvÀ
 
 <a id="adhyAya-1"></a>
 
-[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-1--overview) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#munnOTa)
+[English →](../en/summary#chapter-1--overview) | [Eke →](../eke/full#munnOTa)
 
 1. ಮುನ್ನೋಟ 
 
@@ -2246,7 +2246,7 @@ JAl£ÉÃ
 
 <a id="adhyAya-2"></a>
 
-[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-2--root-vowels) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#bErina-svarugaLu)
+[English →](../en/summary#chapter-2--root-vowels) | [Eke →](../eke/full#bErina-svarugaLu)
 
 2. ಬೇರಿನ ಸ್ವರಗಳು 
 
@@ -4859,7 +4859,7 @@ jÃw0iÀÄ
 
 <a id="adhyAya-3"></a>
 
-[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-3--affix-vowels) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#oTTina-svarugaLu)
+[English →](../en/summary#chapter-3--affix-vowels) | [Eke →](../eke/full#oTTina-svarugaLu)
 
 3. ಒಟ್ಟಿನ ಸ್ವರಗಳು 
 
@@ -5951,7 +5951,7 @@ EgÀÄ
 
 <a id="adhyAya-4"></a>
 
-[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-4--stops) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#taDeyuligaLu)
+[English →](../en/summary#chapter-4--stops) | [Eke →](../eke/full#taDeyuligaLu)
 
 4. ತಡೆಯುಲಿಗಳು 
 
@@ -9342,7 +9342,7 @@ PÁqÀÄ
 
 <a id="adhyAya-5"></a>
 
-[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-5--other-consonants) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#itara-vyanjanagaLu)
+[English →](../en/summary#chapter-5--other-consonants) | [Eke →](../eke/full#itara-vyanjanagaLu)
 
 5. ಇತರ ವ್ಯಂಜನಗಳು 
 
@@ -12145,7 +12145,7 @@ PÀÄrPÉ
 
 <a id="adhyAya-6"></a>
 
-[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-6--internal-structure-of-words) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#padagaLa-oLaracane)
+[English →](../en/summary#chapter-6--internal-structure-of-words) | [Eke →](../eke/full#padagaLa-oLaracane)
 
 6. ಪದಗಳ ಒಳರಚನೆ 
 
@@ -12587,7 +12587,7 @@ PÁgÀt,
 
 <a id="adhyAya-7"></a>
 
-[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-7--internal-structure-of-verbs) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#kriyA-padagaLa-oLaracane)
+[English →](../en/summary#chapter-7--internal-structure-of-verbs) | [Eke →](../eke/full#kriyA-padagaLa-oLaracane)
 
 7. ಕ್ರಿಯಾಪದಗಳ ಒಳರಚನೆ 
 
@@ -14780,7 +14780,7 @@ PÉÆArzÉ.
 
 <a id="adhyAya-8"></a>
 
-[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-8--verb-forms) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#kriyArUpagaLu)
+[English →](../en/summary#chapter-8--verb-forms) | [Eke →](../eke/full#kriyArUpagaLu)
 
 8. ಕ್ರಿಯಾರೂಪಗಳು 
 
@@ -17156,7 +17156,7 @@ G½¢zÉ.
 
 <a id="adhyAya-9"></a>
 
-[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-9--nouns) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#nAmapadagaLu)
+[English →](../en/summary#chapter-9--nouns) | [Eke →](../eke/full#nAmapadagaLu)
 
 9. ನಾಮಪದಗಳು 
 
@@ -19480,7 +19480,7 @@ DlzÀ
 
 <a id="adhyAya-10"></a>
 
-[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-10--personal-and-demonstrative-pronouns) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#ADuga-mattu-tOruga-padagaLu)
+[English →](../en/summary#chapter-10--personal-and-demonstrative-pronouns) | [Eke →](../eke/full#ADuga-mattu-tOruga-padagaLu)
 
 10. ಆಡುಗ ಮತ್ತು ತೋರುಗ 
 ಪದಗಳು  
@@ -20208,7 +20208,7 @@ PÀÄjvÁV
 
 <a id="adhyAya-11"></a>
 
-[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-11--qualifiers) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#guNapadagaLu)
+[English →](../en/summary#chapter-11--qualifiers) | [Eke →](../eke/full#guNapadagaLu)
 
 11. ಗುಣಪದಗಳು 
 
@@ -21301,7 +21301,7 @@ F
 
 <a id="adhyAya-12"></a>
 
-[English →](./17-kannaDa-nuDi-naDeDu-banda-dAri-en#chapter-12--sentence-structure) | [Eke →](./17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke#sthiti-vAkyagaLa-oLaracane)
+[English →](../en/summary#chapter-12--sentence-structure) | [Eke →](../eke/full#sthiti-vAkyagaLa-oLaracane)
 
 12. ವಾಕ್ಯಗಳ ಒಳರಚನೆ 
 

@@ -1140,7 +1140,7 @@ CZÀÄÑ :
 
 <a id="adhyAya-1"></a>
 
-[English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-1--introduction) | [Eke →](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke#pITike)
+[English →](../en/summary#chapter-1--introduction) | [Eke →](../eke/full#pITike)
 
 ಅಧ್ಯಾಯ ಒಂದು 
 ¦ÃpPÉ 
@@ -1959,7 +1959,7 @@ vÀÛzÉ.
 
 <a id="adhyAya-2"></a>
 
-[English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-2--internal-structure-of-action-sentences) | [Eke →](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke#kriyAvAkyagaLa-oLaracane)
+[English →](../en/summary#chapter-2--internal-structure-of-action-sentences) | [Eke →](../eke/full#kriyAvAkyagaLa-oLaracane)
 
 ಅಧ್ಯಾಯ ಎರಡು 
 ಕ್ರಿಯಾವಾಕ್ಯಗಳ ಒಳರಚನೆ 
@@ -3630,7 +3630,7 @@ C°è
 
 <a id="adhyAya-3"></a>
 
-[English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-3--internal-structure-of-stative-sentences) | [Eke →](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke#viSayavAkyagaLa-oLaracane)
+[English →](../en/summary#chapter-3--internal-structure-of-stative-sentences) | [Eke →](../eke/full#viSayavAkyagaLa-oLaracane)
 
 ಅಧ್ಯಾಯ ಮೂರು 
 ವಿಷಯವಾಕ್ಯಗಳ ಒಳರಚನೆ 
@@ -4600,7 +4600,7 @@ aÃ® (EzÉ).
 
 <a id="adhyAya-4"></a>
 
-[English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-4--noun-phrases) | [Eke →](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke#nAmapada-kantegaLu)
+[English →](../en/summary#chapter-4--noun-phrases) | [Eke →](../eke/full#nAmapada-kantegaLu)
 
 ಅಧ್ಯಾಯ ನಾಲ್ಕು 
 ನಾಮಪದಗಳ ಕಂತೆಗಳು 
@@ -5611,7 +5611,7 @@ EªÉ.
 
 <a id="adhyAya-5"></a>
 
-[English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-5--verb-forms) | [Eke →](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke#kriyApada-padarUpagaLu)
+[English →](../en/summary#chapter-5--verb-forms) | [Eke →](../eke/full#kriyApada-padarUpagaLu)
 
 ಅಧ್ಯಾಯ ಐದು 
 ಕ್ರಿಯಾಪದಗಳ ಪದರೂಪಗಳು 
@@ -7954,7 +7954,7 @@ PÀgÉ
 
 <a id="adhyAya-6"></a>
 
-[English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-6--use-of-qualifiers) | [Eke →](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke#guNapadagaLa-baLake)
+[English →](../en/summary#chapter-6--use-of-qualifiers) | [Eke →](../eke/full#guNapadagaLa-baLake)
 
 ಅಧ್ಯಾಯ ಆರು 
 ಗುಣಪದಗಳ ಬಳಕೆ 
@@ -8680,7 +8680,7 @@ MAzÀÄ
 
 <a id="adhyAya-7"></a>
 
-[English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-7--embedded-clauses) | [Eke →](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke#oLavAkyagaLu)
+[English →](../en/summary#chapter-7--embedded-clauses) | [Eke →](../eke/full#oLavAkyagaLu)
 
 ಅಧ್ಯಾಯ ಏಳು 
 ಒಳವಾಕ್ಯಗಳು 
@@ -10086,7 +10086,7 @@ AiÀiÁVzÉ.
 
 <a id="adhyAya-8"></a>
 
-[English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-8--sentence-coordination) | [Eke →](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke#vAkyagaLa-jODaNe)
+[English →](../en/summary#chapter-8--sentence-coordination) | [Eke →](../eke/full#vAkyagaLa-jODaNe)
 
 ಅಧ್ಯಾಯ ಎಂಟು 
 ವಾಕ್ಯಗಳ ಜೋಡಣೆ 
@@ -10831,7 +10831,7 @@ vÀgÀPÁj
 
 <a id="adhyAya-9"></a>
 
-[English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-9--focusing-and-negation) | [Eke →](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke#sambandisuvudu-mattu-allagaLeyuvudu)
+[English →](../en/summary#chapter-9--focusing-and-negation) | [Eke →](../eke/full#sambandisuvudu-mattu-allagaLeyuvudu)
 
 ಅಧ್ಯಾಯ ಒಂಬತ್ತು 
 ಸಂಬಂಧಿಸುವುದು ಮತ್ತು 
@@ -11610,7 +11610,7 @@ aAvÉ
 
 <a id="adhyAya-10"></a>
 
-[English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-10--speech-acts) | [Eke →](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke#mAtina-kasagagaLu)
+[English →](../en/summary#chapter-10--speech-acts) | [Eke →](../eke/full#mAtina-kasagagaLu)
 
 ಅಧ್ಯಾಯ ಹತ್ತು 
 ಮಾತಿನ ಕೆಲಸಗಳು 
@@ -13258,7 +13258,7 @@ JA§
 
 <a id="adhyAya-11"></a>
 
-[English →](./25-kannaDa-vAkyagaLa-oLaracane-en#chapter-11--typological-features-of-kannada) | [Eke →](./25-kannaDa-vAkyagaLa-oLaracane-kn-eke#kannaDigaLa-keLavu-vaiSiSTyagaLu)
+[English →](../en/summary#chapter-11--typological-features-of-kannada) | [Eke →](../eke/full#kannaDigaLa-keLavu-vaiSiSTyagaLu)
 
 ಅಧ್ಯಾಯ ಹನ್ನೊಂದು 
 ಕನ್ನಡದ ಕೆಲವು ವೈಶಿಷ್ಟ್ಯಗಳು 
