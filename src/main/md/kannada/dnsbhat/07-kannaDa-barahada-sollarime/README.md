@@ -3,7 +3,9 @@
 
 > A comprehensive 7-volume grammar of written Kannada built from first principles without Sanskrit frameworks — Bhat's magnum opus. Vol. 1 covers phonology, vol. 2 morphology, vols. 3–6 syntax, vol. 7 summary. The 2021 book *Idu Kannadade Vyakarana* (Book 01) is a one-volume consolidation of all seven volumes.
 
-**✅ Fully processed (vols 1+2 only)** · 2010–2019 · Vol 1: 327 pages · Vol 2: 301 pages
+**✅ Fully processed (vols 1+2 only)** · 2010–2019 · Vol 1: 327 pages · Vol 2: 301 pages · *Vols 3 (241pp, 2012) and 4 (274pp) now available as PDFs*
+
+> ⚠️ **YouTube note:** The `youtube/kn/full.md` transcripts in this folder are from a **different** book — *ಕನ್ನಡ ಸೊಲ್ಲರಿಮೆ* (kannaDa sollarime) — which is a separate, shorter work. It was incorrectly attributed to *ಕನ್ನಡ ಬರಹದ ಸೊಲ್ಲರಿಮೆ*. A dedicated book entry may be created for it in future.
 
 ---
 

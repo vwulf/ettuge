@@ -1,14 +1,16 @@
 ---
-title: "kannaDa barahada sollarime"
+title: "kannaDa sollarime"
 nav_order: 107
 redirect_from:
   - /dnsbhat/07-kannadada-sollarime/07-kannadada-sollarime
 ---
 
-# KANNADA BARAHADA SOLLARIME
-## ಕನ್ನಡ ಬರಹದ ಸೊಲ್ಲರಿಮೆ
+# KANNADA SOLLARIME
+## ಕನ್ನಡ ಸೊಲ್ಲರಿಮೆ
 
-*Part of DNS Bhat's writings read by Malati Bhat*
+> **Note:** This YouTube lecture series is for *ಕನ್ನಡ ಸೊಲ್ಲರಿಮೆ* — a separate book from *ಕನ್ನಡ ಬರಹದ ಸೊಲ್ಲರಿಮೆ* (the 7-volume grammar in this folder). See this folder's [README](../README) for the printed books.
+
+*DNS Bhat's lectures read by Malati Bhat*
 
 ## ಪರಿವಿಡಿ
 
