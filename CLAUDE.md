@@ -59,10 +59,11 @@ ettuge/
 
 ## Active Development
 
-### Current Status (as of 2026-03-21, Phase 23)
+### Current Status (as of 2026-03-22, Phase 24)
 
-All 29 DNS Bhat books have been processed through multiple phases of OCR cleanup, Nudi→Unicode conversion, romanisation generation, TOC restructuring, and transcript enrichment. Key milestones:
+All 32 DNS Bhat books have been catalogued; books 30–32 now have content files. Key milestones:
 
+- **Phase 24 (2026-03-22):** Added books 30, 31, 32 from PDF extraction. Book 30 (382pp Nudi): full 4-file set (raw.md, full.md with 10-chapter TOC, en/summary.md, eke/full.md) via wx_decode.py. Book 31 (487pp Nudi, A–Z dictionary): book/kn/raw.md + book/en/summary.md; English headwords partially garbled. Book 32 (214pp clean English, John Benjamins): book/en/summary.md. claude-prompt.md created for all three. dnsbhat/README.md updated with collection stats (25→32 total books across sections A–L).
 - **Phase 23 (2026-03-21):** Blog sidebar fallback fixed (Books 14, 18 now appear). Stubs sidebar category added — 16 YouTube placeholder files reclassified out of the YouTube sidebar. Books 02 and 03 YouTube transcripts enriched with link + 60-word excerpt cross-references to matching blog/book sections (Books 02: 10 Parts; Book 03: 33 of 55 Parts), using `#sec-N-M` anchors from Phase 19.
 - **Phase 22 (2026-03-21):** YouTube transcript restructuring for all books 01–13: `## Part N` → `### Part N`, `<a id="part-N">` anchors, ~80-word paragraph breaks, garbage detection, ಪರಿವಿಡಿ TOC. Book 03 additionally restructured with 9-chapter grouping matching the book's chapter structure.
 - **Phase 21 (2026-03-20):** GitHub Pages nested source-first sidebar (Books / Blog / YouTube / Stubs) generated via 6-pass Python script in CI. All 404s fixed after taxonomy migration.
@@ -76,7 +77,7 @@ Full history: `docs/dnsbhat/PROJECT-RECAP.md` (also served at https://vwulf.gith
 ### DNS Bhat Methodology
 All translation work must follow DNS Bhat's native Kannada word formation system:
 - Reference: `src/main/md/kannada/dnsbhat/DNS_BHAT_WORD_FORMATION_PROMPT.md`
-- Books: `src/main/md/kannada/dnsbhat/` — 29 book directories (01–29); see `dnsbhat/README.md` for the full annotated catalogue
+- Books: `src/main/md/kannada/dnsbhat/` — 32 book directories (01–32); see `dnsbhat/README.md` for the full annotated catalogue
 - Analysis files: `dns-bhat-analysis.md`, `kannada-content-landscape.md`, `kannada-knowledge-gap-analysis.md`
 - DNS Bhat prefers native (Dravidian) roots over Sanskrit. In Eke romanisation of his own books, aspirated forms ARE romanised as-is (bh, dh, kh etc.) because he uses Sanskrit loanwords — only *new coinages* avoid aspirates.
 

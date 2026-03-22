@@ -1892,10 +1892,11 @@ ettuge/
 
 ## Active Development
 
-### Current Status (as of 2026-03-21, Phase 23)
+### Current Status (as of 2026-03-22, Phase 24)
 
-All 29 DNS Bhat books have been processed through multiple phases of OCR cleanup, Nudi→Unicode conversion, romanisation generation, TOC restructuring, and transcript enrichment. Key milestones:
+All 32 DNS Bhat books have been catalogued; books 30–32 now have content files. Key milestones:
 
+- **Phase 24 (2026-03-22):** Added books 30, 31, 32 from PDF extraction. Book 30 (382pp Nudi): full 4-file set (raw.md, full.md with 10-chapter TOC, en/summary.md, eke/full.md) via wx_decode.py. Book 31 (487pp Nudi, A–Z dictionary): book/kn/raw.md + book/en/summary.md; English headwords partially garbled. Book 32 (214pp clean English, John Benjamins): book/en/summary.md. claude-prompt.md created for all three. dnsbhat/README.md updated with collection stats (25→32 total books across sections A–L).
 - **Phase 23 (2026-03-21):** Blog sidebar fallback fixed (Books 14, 18 now appear). Stubs sidebar category added — 16 YouTube placeholder files reclassified out of the YouTube sidebar. Books 02 and 03 YouTube transcripts enriched with link + 60-word excerpt cross-references to matching blog/book sections (Books 02: 10 Parts; Book 03: 33 of 55 Parts), using `#sec-N-M` anchors from Phase 19.
 - **Phase 22 (2026-03-21):** YouTube transcript restructuring for all books 01–13: `## Part N` → `### Part N`, `<a id="part-N">` anchors, ~80-word paragraph breaks, garbage detection, ಪರಿವಿಡಿ TOC. Book 03 additionally restructured with 9-chapter grouping matching the book's chapter structure.
 - **Phase 21 (2026-03-20):** GitHub Pages nested source-first sidebar (Books / Blog / YouTube / Stubs) generated via 6-pass Python script in CI. All 404s fixed after taxonomy migration.
@@ -1909,7 +1910,7 @@ Full history: `docs/dnsbhat/PROJECT-RECAP.md` (also served at https://vwulf.gith
 ### DNS Bhat Methodology
 All translation work must follow DNS Bhat's native Kannada word formation system:
 - Reference: `src/main/md/kannada/dnsbhat/DNS_BHAT_WORD_FORMATION_PROMPT.md`
-- Books: `src/main/md/kannada/dnsbhat/` — 29 book directories (01–29); see `dnsbhat/README.md` for the full annotated catalogue
+- Books: `src/main/md/kannada/dnsbhat/` — 32 book directories (01–32); see `dnsbhat/README.md` for the full annotated catalogue
 - Analysis files: `dns-bhat-analysis.md`, `kannada-content-landscape.md`, `kannada-knowledge-gap-analysis.md`
 - DNS Bhat prefers native (Dravidian) roots over Sanskrit. In Eke romanisation of his own books, aspirated forms ARE romanised as-is (bh, dh, kh etc.) because he uses Sanskrit loanwords — only *new coinages* avoid aspirates.
 
@@ -2988,6 +2989,55 @@ pip install -r requirements.txt
 
 ---
 
+## Section L — Newly Discovered Books (Google Drive, 2026-03-22)
+
+### 30 — ಕನ್ನಡ ಬರಹವನ್ನು ಸರಿಪಡಿಸೋಣ
+**kannaDa barahavannu saripaDisONa** *(Let us Rectify Written Kannada)*
+
+- **ಭಾಷೆ / Language:** Kannada
+- **ಪ್ರಕಟಣೆ / Year:** 2006 (1st ed.); 2009 (2nd ed.)
+- **ಪ್ರಕಾಶಕರು / Publisher:** Bhasha Prakashana, Ninasam, Heggodu, Sagara
+- **ಪುಟಗಳು / Pages:** 382
+- **ವಿಶಯ / Topic:** Script reform — argument for removing unnecessary complexity from the Kannada writing system
+- **ಮೂಲ / Source:** PDF in Google Drive (`kannadaBarahavannuSaripadisona.pdf`)
+- **ಗುಣಮಟ್ಟ / Quality:** ⚠️ Nudi font — text garbled; OCR pass needed
+- **ಕಡತ / Folder:** [30-kannaDa-barahavannu-saripaDisONa/](./30-kannaDa-barahavannu-saripaDisONa/)
+
+**Significance:** Broadens the argument of Book 08 (*mahaprana*) to the entire writing system. Where Book 08 targets aspirated consonants specifically, this book calls for a wholesale rationalisation of Kannada orthography. One of Bhat's more polemical works; went to at least two editions.
+
+---
+
+### 31 — ಇಂಗ್ಲಿಷ್ ಪದಗಳಿಗೆ ಕನ್ನಡದ್ದೇ ಪದಗಳು
+**ingliS padagaLige kannaDaddE padagaLu** *(Kannada's Own Words for English Words)*
+
+- **ಭಾಷೆ / Language:** Kannada (written in *hosa baraha*)
+- **ಪ್ರಕಟಣೆ / Year:** 2008 (1st ed.); 2011 (2nd ed.)
+- **ಪ್ರಕಾಶಕರು / Publisher:** Bhasha Prakashana, Billeshwara, Huncha, Tirthahalli
+- **ಪುಟಗಳು / Pages:** 487
+- **ವಿಶಯ / Topic:** Native Dravidian equivalents for everyday English words — Bhat's earlier solo work on the same theme as Book 15
+- **ಮೂಲ / Source:** PDF in Google Drive (`Engslih_Padagalige.pdf`)
+- **ಗುಣಮಟ್ಟ / Quality:** ⚠️ Nudi font — text garbled; OCR pass needed
+- **ಕಡತ / Folder:** [31-ingliS-padagaLige-kannaDaddE-padagaLu/](./31-ingliS-padagaLige-kannaDaddE-padagaLu/)
+
+**Significance:** Earlier and shorter companion to Book 15 (*ಇಂಗ್ಲಿಶ್ ಕನ್ನಡ ಪದನೆರಕೆ*, 730pp, 2015). This 2008 book is Bhat's solo attempt; Book 15 later expanded it into a collaborative, comprehensive A–Z dictionary. Together they form the practical lexical output of the Ellara Kannada methodology.
+
+---
+
+### 32 — The Prominence of Tense, Aspect and Mood
+**The Prominence of Tense, Aspect and Mood**
+
+- **ಭಾಷೆ / Language:** English
+- **ಪ್ರಕಟಣೆ / Year:** —
+- **ಪ್ರಕಾಶಕರು / Publisher:** John Benjamins · Studies in Language Companion Series (SLCS)
+- **ಪುಟಗಳು / Pages:** 214
+- **ವಿಶಯ / Topic:** Typological survey of how world languages grammaticalize tense, aspect, and mood prominence
+- **ಮೂಲ / Source:** PDF in Google Drive (`the-prominence-of-tense-aspect-and-mood_compress.pdf`) — clean English PDF
+- **ಕಡತ / Folder:** [32-the-prominence-of-tense-aspect-and-mood/](./32-the-prominence-of-tense-aspect-and-mood/)
+
+**Significance:** Bhat's major academic contribution to linguistic typology — the theoretical foundation that underpins his Kannada reform arguments. Published in the John Benjamins SLCS series alongside other landmark typological works. The TAM framework here directly informs his claim that Kannada's grammar cannot be reduced to Sanskrit categories.
+
+---
+
 ## Section J — Other Known Works (Not Yet Collected)
 
 These works are referenced in collected texts or found in the CDX sitemap but not yet fully collected:
@@ -3011,18 +3061,19 @@ These works are referenced in collected texts or found in the CDX sitemap but no
 
 ## Collection Statistics
 
-| Category | Count | Full Text | Blog Content | PDF (WX) | Partial | Not Collected |
-|----------|-------|-----------|--------------|----------|---------|---------------|
+| Category | Count | Full Text | Blog Content | PDF (legacy font) | Partial | Not Collected |
+|----------|-------|-----------|--------------|-------------------|---------|---------------|
 | Kannada popular books (collected) | 17 | 4 | 3 | 8 | 3 | 1 |
 | Kannada popular books (not collected) | 1 | 0 | 0 | 0 | 0 | 1 |
 | English academic monographs | 3 | 1 | 0 | 0 | 0 | 2 |
-| **Newly discovered books (27–29)** | **3** | **0** | **0** | **3** | **0** | **0** |
+| **Newly discovered books (27–29)** | **3** | **0** | **0** | **3** (WX) | **0** | **0** |
+| **Newly discovered books (30–32)** | **3** | **1** | **0** | **2** (Nudi) | **0** | **0** |
 | **Book 15 — hybrid extracted sample** | **1** | **0** | **0** | **0** | **1 (A only)** | **0** |
-| **Total** | **25** | **5** | **3** | **11** | **4** | **4** |
+| **Total** | **28** | **6** | **3** | **13** | **4** | **4** |
 
 > ℹ️ Book 15 counting: moved from "Partial" to its own row. 53-page sample (letter A) is hybrid-extracted and fully processed (en/kn-eke/claude-prompt). Full 730-page book not yet obtained.
 
-> ⚠️ **WX font PDFs** — Books extracted from old Ghostscript/PageMaker PDFs have garbled text due to non-Unicode Kannada font encoding. A Unicode-aware OCR pass (e.g. Tesseract with Kannada model) is needed to recover clean text.
+> ⚠️ **Legacy font PDFs** — Books 27–29 use old WX Kannada font; books 30–31 use Nudi font. Both require a Unicode-aware OCR pass (e.g. Tesseract with Kannada model) to recover clean text. Book 32 is a clean English PDF.
 
 **Full text available (best quality):**
 - 08 — Kannadakke Mahaprana Yake Beda (102 pp, 2017) — PDF + DjVu
@@ -3055,10 +3106,17 @@ Location: `My Drive/Books/DNS-Bhat/`
 | `kannaDa-nuDi-naDeDu-banda-dAri.pdf` | 17 | PDF (405p, 2014) — ⚠️ WX font |
 | `sollarime-1.pdf` | 07 vol.1 | PDF (327p, 2010) — ⚠️ WX font |
 | `sollarime-2.pdf` | 07 vol.2 | PDF (301p, 2014) — ⚠️ WX font |
+| `sollarime-3.pdf` | 07 vol.3 | PDF (241p, 2012) — ⚠️ Nudi font |
+| `sollarime-4.pdf` | 07 vol.4 | PDF (274p) — ⚠️ Nudi font |
 | `sollarime_5_limited.pdf` | 07 vol.5 | PDF (30p sample, 2015) |
+| `matu-mattu-baraha.pdf` | **04** | PDF (142p, 2011) — ⚠️ Nudi font |
+| `KannadaNudiyaBagegeCintane.pdf` | **18** | PDF (297p) — ⚠️ Nudi font |
 | `baasheyaBagge.pdf` | **27** | PDF (208p, 4th ed. 2010) — ⚠️ WX font |
 | `kannadakkeBeku.pdf` | **28** | PDF (253p, 7th ed. 2013) — ⚠️ WX font |
 | `kannadavyakaranayaakebeku.pdf` | **29** | PDF (260p, 2009) — ⚠️ WX font |
+| `kannadaBarahavannuSaripadisona.pdf` | **30** | PDF (382p, 2nd ed. 2009) — ⚠️ Nudi font |
+| `Engslih_Padagalige.pdf` | **31** | PDF (487p, 2nd ed. 2011) — ⚠️ Nudi font |
+| `the-prominence-of-tense-aspect-and-mood_compress.pdf` | **32** | PDF (214p) — English, clean |
 | `English-KannadaPadanerakeSample.pdf` | 15 | PDF sample/prelims (53p, 2015) |
 
 ---
@@ -3230,7 +3288,7 @@ Each section below describes one DNS Bhat book: its theme, available files, and 
 
 > DNS Bhat argues that language is speech, not writing — writing is an artificial form of speech invented only 4,000 years ago; the confusion between them leads to misguided beliefs about Kannada, Sanskrit, and language reform.
 
-**⚠️ Partial** · 44 parts · YouTube lecture series · ~25/44 parts cleaned (~57%)
+**⚠️ Partial** · 44 parts · YouTube lecture series · ~25/44 parts cleaned (~57%) · *PDF now available: `matu-mattu-baraha.pdf` (142pp, 2011) — Nudi font, OCR not yet done*
 
 ---
 
@@ -3313,7 +3371,9 @@ Each section below describes one DNS Bhat book: its theme, available files, and 
 
 > A comprehensive 7-volume grammar of written Kannada built from first principles without Sanskrit frameworks — Bhat's magnum opus. Vol. 1 covers phonology, vol. 2 morphology, vols. 3–6 syntax, vol. 7 summary. The 2021 book *Idu Kannadade Vyakarana* (Book 01) is a one-volume consolidation of all seven volumes.
 
-**✅ Fully processed (vols 1+2 only)** · 2010–2019 · Vol 1: 327 pages · Vol 2: 301 pages
+**✅ Fully processed (vols 1+2 only)** · 2010–2019 · Vol 1: 327 pages · Vol 2: 301 pages · *Vols 3 (241pp, 2012) and 4 (274pp) now available as PDFs*
+
+> ⚠️ **YouTube note:** The `youtube/kn/full.md` transcripts in this folder are from a **different** book — *ಕನ್ನಡ ಸೊಲ್ಲರಿಮೆ* (kannaDa sollarime) — which is a separate, shorter work. It was incorrectly attributed to *ಕನ್ನಡ ಬರಹದ ಸೊಲ್ಲರಿಮೆ*. A dedicated book entry may be created for it in future.
 
 ---
 
@@ -3645,7 +3705,7 @@ This was the **first fully structured book** in this collection and served as th
 
 > Reflections on Kannada's status, future, and the responsibilities of its speakers — via the *ನುಡಿಯರಿಮೆಯ ಇಣುಕುನೋಟ* ("A Glimpse into Linguistics") blog series. 13 posts collected from dnshankarabhat.net (parts 1–3, 10, 14, 18, 20, 23, 27–29, 33, 35 of an ongoing series); many parts remain unarchived.
 
-**✅ Fully processed** · Source: dnshankarabhat.net blog series
+**✅ Fully processed** · Source: dnshankarabhat.net blog series · *PDF now available: `KannadaNudiyaBagegeCintane.pdf` (297pp) — Nudi font, OCR not yet done*
 
 ---
 
@@ -3980,6 +4040,109 @@ This was the **first fully structured book** in this collection and served as th
 - **Want the phonetics?** → [`book/eke/full.md`](./book/eke/full) — Eke romanisation
 - **Full Kannada text?** → [`book/kn/full.md`](./book/kn/full) — structured with TOC
 - **AI context primer?** → [`claude-prompt.md`](./claude-prompt)
+
+---
+
+[← Back to catalogue](../README.md)
+
+
+### Book 30-kannaDa-barahavannu-saripaDisONa
+
+# [30] — ಕನ್ನಡ ಬರಹವನ್ನು ಸರಿಪಡಿಸೋಣ
+**Let us Rectify Written Kannada**
+
+> Bhat's argument for reforming the Kannada script — removing unnecessary complexity (mahaprana letters, Sanskrit loanword spellings) to bring the writing system into alignment with how Kannada is actually spoken. Companion to Book 08 (*Kannadakke Mahaprana Yake Beda*), but broader in scope: where Book 08 targets aspiration, this book addresses the writing system as a whole.
+
+**⚠️ Partial** · 2006 (1st ed.); 2009 (2nd ed.) · 382 pages · Bhasha Prakashana, Ninasam, Heggodu, Sagara · *Nudi font PDF converted via wx_decode.py — structured Kannada, English summary, and Eke romanisation now available*
+
+---
+
+## Files in This Folder
+
+| File | Contents |
+|------|----------|
+| [`book/kn/raw.md`](./book/kn/raw.md) | Raw OCR text (Nudi→Unicode via wx_decode.py) — do not edit |
+| [`book/kn/full.md`](./book/kn/full.md) | Structured Kannada text with 10-chapter TOC + `<a id>` anchors |
+| [`book/en/summary.md`](./book/en/summary.md) | Chapter-by-chapter English summary with key concepts table |
+| [`book/eke/full.md`](./book/eke/full.md) | Eke romanisation with TOC and all 10 chapters |
+
+---
+
+## Where to Start
+
+- **Don't read Kannada?** → [`book/en/summary.md`](./book/en/summary.md) — English summary
+- **Want the phonetics?** → [`book/eke/full.md`](./book/eke/full.md) — Eke romanisation
+- **Full Kannada text?** → [`book/kn/full.md`](./book/kn/full.md)
+
+---
+
+[← Back to catalogue](../README.md)
+
+
+### Book 31-ingliS-padagaLige-kannaDaddE-padagaLu
+
+# [31] — ಇಂಗ್ಲಿಶ್ ಪದಗಳಿಗೆ ಕನ್ನಡದ್ದೇ ಪದಗಳು
+**Kannada's Own Words for English Words**
+
+> A glossary providing native Dravidian Kannada equivalents for common English words — without resorting to Sanskrit mediation. Bhat's solo earlier work (2008) on the same theme as the later collaborative *ಇಂಗ್ಲಿಶ್ ಕನ್ನಡ ಪದನೆರಕೆ* (Book 15, 2015). Where Book 15 is a comprehensive A–Z dictionary (730+ pages), this book is a shorter, opinionated selection (487 pages) aimed at general readers. Written in Bhat's reformed (*hosa baraha*) script.
+
+**⚠️ Partial** · 2008 (1st ed.); 2011 (2nd ed.) · 487 pages · Bhasha Prakashana, Billeshwara, Huncha, Tirthahalli · *Nudi font PDF converted via wx_decode.py — Kannada definitions mostly clean; English headwords partially garbled*
+
+---
+
+## Files in This Folder
+
+| File | Contents |
+|------|----------|
+| [`book/kn/raw.md`](./book/kn/raw.md) | Raw OCR text (Nudi→Unicode via wx_decode.py) — do not edit; ~30–40% of English headword entries have `(cid:...)` artifacts |
+| [`book/en/summary.md`](./book/en/summary.md) | English summary: dictionary structure, word-formation methodology, sample entries (A and Z sections) |
+
+---
+
+## Where to Start
+
+- **Overview?** → [`book/en/summary.md`](./book/en/summary.md) — structure, methodology, sample entries
+- **Full raw text?** → [`book/kn/raw.md`](./book/kn/raw.md) — Kannada text with OCR artifacts
+
+---
+
+## Note on OCR Quality
+
+The PDF was typeset in Nudi legacy font. The wx_decode.py conversion recovers Kannada script cleanly, but the English word headings in the dictionary section use a different embedded font that the converter cannot handle — these appear as `(cid:...)` sequences. The Kannada definitions and example sentences are mostly clean (95%+). A future OCR pass or manual correction could restore the garbled headwords.
+
+---
+
+[← Back to catalogue](../README.md)
+
+
+### Book 32-the-prominence-of-tense-aspect-and-mood
+
+# [32] — The Prominence of Tense, Aspect and Mood
+**The Prominence of Tense, Aspect and Mood**
+
+> Bhat's major English-language typological monograph examining how languages differ in what they grammaticalise most prominently: tense (time reference), aspect (event structure), or mood (speaker attitude). Based on a survey of world languages, this work underpins his *mahaprana* argument and his broader claim that Kannada's grammar should be described on its own terms, not Sanskrit's. Published in the prestigious Studies in Language Companion Series (SLCS) by John Benjamins.
+
+**✅ Processed** · c. 1999 · John Benjamins · Studies in Language Companion Series (SLCS) Vol. 49 · 198 pages · English
+
+---
+
+## Files in This Folder
+
+| File | Contents |
+|------|----------|
+| [`book/en/summary.md`](./book/en/summary.md) | Chapter-by-chapter English summary with key concepts table and cross-references |
+
+---
+
+## Where to Start
+
+- **Overview and summaries?** → [`book/en/summary.md`](./book/en/summary.md) — full chapter-by-chapter analysis
+
+---
+
+## Note
+
+This is an English-language academic monograph (no kn or eke files needed). The PDF (`the-prominence-of-tense-aspect-and-mood_compress.pdf`) is a clean digital PDF, fully readable.
 
 ---
 
