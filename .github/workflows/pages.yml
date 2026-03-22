@@ -56,7 +56,7 @@ jobs:
               ('book',    'kn'):  ['book/kn/full.md', 'book/vol1/kn/full.md'],
               ('book',    'eke'): ['book/eke/full.md', 'book/vol1/eke/full.md'],
               ('web',     'en'):  ['web/en/summary.md'],
-              ('web',     'kn'):  ['web/kn/full.md'],
+              ('web',     'kn'):  ['web/kn/full.md', 'web/kn/raw.md'],
               ('web',     'eke'): ['web/eke/full.md'],
               ('youtube', 'en'):  ['youtube/en/summary.md'],
               ('youtube', 'kn'):  ['youtube/kn/full.md'],
