@@ -1,75 +1,111 @@
-# YouTube Transcript Summary — Book 06
-## ಕಲಿಕೆನುಡಿ ಮತ್ತು ನುಡಿಕಲಿಕೆ (Language Learning and Learning Language)
+# Language of Learning and Language-Learning
+## ಕಲಿಕೆನುಡಿ ಮತ್ತು ನುಡಿಕಲಿಕೆ
 
-**Speaker:** Malati Bhat reads DNS Bhat's writings
-**Parts:** 21 (P1, P2, Parts 1–19)
-**YouTube series:** DNS Bhat books read aloud channel
+**Author:** D. N. Shankara Bhat (ಡಿ. ಎನ್. ಶಂಕರ ಬಟ್)
+**Read by:** Malati Bhat
+**Published:** 2019 · 104 pages
+**Source quality:** ⚠️ Mostly garbled live-lecture auto-captions; no prose recoverable from transcripts
+**Transcript:** [`youtube/kn/full.md`](../kn/full.md)
 
----
-
-## Transcript Quality Assessment
-
-**Overall verdict: Very poor. Essentially unusable for content recovery.**
-
-| Part | Status | Notes |
-|------|--------|-------|
-| P1 | Garbled | Hindi/mixed ASR output — "ಜೈಕಾಲೇಶ್ವರ ಲಿಮಿಟೇಡ್", "ಕೇಸರಿಯಾ", "ಇಂಗ್ಲಿಶ್ ಹುಕುಮ್" — clearly wrong language detection |
-| P2 | Non-Kannada | Flagged NO_INDIAN_SCRIPT; English ASR of introduction: "famous linguist… daughter multi Bert… going to read one of his books" — repeated "foreign foreign foreign" noise |
-| Part 1 | Garbled | Hindi/Kannada mix — "ಛೋಟ ಕೊ ಕಟ್ಟತಾ", "ಲತಾ ಮಂಗೇಶ್ಕರ", random proper nouns |
-| Part 2 | Marginal | Very short: "ಆಚಾರ್ಯರು ಮಾತನಾಡುವ ಕಾಲದಲ್ಲಿ ಅಲ್ಲವೇ ಚಿಕ್ಕ ದಿನಗಳು [ಪ್ರಶಂಸೆ]" — one sentence + applause marker, not recoverable |
-| Part 3 | Garbled | Random proper nouns, Hindi mix — "ಮೆಟ್ಟಿಲು ಗಾರ್ಡನ್", "ಉತ್ತರ ಪ್ರದೇಶ", "ವಿಭಕ್ತಿ ಪ್ರತ್ಯಯಗಳು" (only this last phrase is genuine linguistics terminology) |
-| Part 4 | Garbled | Hindi/Kannada mix — mentions ವ್ಯಾಕರಣ (grammar), ತೆಲುಗು, ತಮಿಳು, ಕನ್ನಡ, ಜಪಾನ್, ಚೀನ, ಕೊರಿಯಾ — cannot reconstruct argument |
-| Part 5 | Unavailable | ಭಾಷಾಂತರ ಲಭ್ಯವಿಲ್ಲ |
-| Part 6 | Unavailable | ಭಾಷಾಂತರ ಲಭ್ಯವಿಲ್ಲ |
-| Part 7 | Unavailable | ಭಾಷಾಂತರ ಲಭ್ಯವಿಲ್ಲ |
-| Part 8 | Marginal | Only: "ಧೀರೆ-ಧೀರೆ ಧೀರೆ-ಧೀರೆ ಗಮನ ಕೊಡಿ ಕ್ರಮವಾಗಿ ಎಲ್ಲವನ್ನು ಹೇಳಿ ಗೊತ್ತಾಗುವಂತೆ" — fragment of a sentence urging the listener to pay attention slowly/systematically |
-| Part 9 | Unavailable | ಭಾಷಾಂತರ ಲಭ್ಯವಿಲ್ಲ |
-| Part 10 | Unavailable | ಭಾಷಾಂತರ ಲಭ್ಯವಿಲ್ಲ |
-| Part 11 | Unavailable | ಭಾಷಾಂತರ ಲಭ್ಯವಿಲ್ಲ |
-| Part 12 | Unavailable | ಭಾಷಾಂತರ ಲಭ್ಯವಿಲ್ಲ |
-| Part 13 | Garbled | "ಅಭಿವೃದ್ಧಿ ದಿಲ್ಲಿ ಸಾಲ ಇಂಟರ್ನೆಟ್ ಇಂಟರ್ನೆಟ್ ಕಾಲೇಜು ಹಾಸ್ಟೆಲ್ ಆದರಣೀಯ ಹಲೋ ಸಂಶೋಧನೆ ಮಾಡೋ ಇಂಗ್ಲಿಷ್" — keyword list, not sentences |
-| Part 14 | Marginal | "ಹೋಲಿಕೆ ಮಾಡುವಾಗ ಬಹಳಷ್ಟು ತೆರನಾಡಿನಲ್ಲಿ… ಸಂಸ್ಕೃತದಲ್ಲಿ ಪದ್ಧತಿಗಳನ್ನು ನೋಡಿದೆ ಆದರೆ ಇಲ್ಲಿ ಪತ್ತೆ ಮಾಡಲಾಗಿಲ್ಲ" — fragment suggesting comparison with Sanskrit practices that were not found applicable |
-| Part 15 | Garbled | "ನಾವು ವೀಡಿಯೊ ಪ್ರಶಂಸೆ ಮೂಲ ಮೂಲ ಮತ್ತು ಹಿಂದಿ ವೀಡಿಯೊ" — noise |
-| Part 16 | Garbled | "ಇಂಗ್ಲಿಷ್ ಗೆ ಕನ್ನಡ… ಫಿಲ್ಮ್ ಹೀರೋ ಪಂಟಿ… ಕರ್ನಾಟಕ ಇಂಗ್ಲಿಷ್" — noise |
-| Part 17 | Minimal | Only: "ಇಂಗ್ಲಿಷ್ ಮಾಧ್ಯಮ ಇಂಗ್ಲಿಷ್ ಮಾಧ್ಯಮ" — two words repeated, likely discussing English-medium education |
-| Part 18 | Garbled | Same text as P1 — duplicate/noise |
-| Part 19 | Unavailable | ಭಾಷಾಂತರ ಲಭ್ಯವಿಲ್ಲ |
-
-**Usable parts: 0 out of 21**
-**Partially decodable (keyword-level only): Parts 3, 4, 13, 14, 17**
-**Completely unavailable: 9 parts (P1 equivalent: P1, 5, 6, 7, 9, 10, 11, 12, 19)**
+> **Source Limitations:** The overview below is drawn primarily from the book's website description (`description-raw.md` from the Wayback Machine archive of dnshankarabhat.net). The 21-part YouTube transcript series (Parts P1, P2, 1–19) is essentially unusable: 9 parts are completely unavailable, and the remaining parts are garbled auto-captions mixing Hindi fragments, random proper nouns, and mis-identified audio. No sustained prose from the book can be recovered from the transcripts. Only scattered keyword signals (ವ್ಯಾಕರಣ, ಇಂಗ್ಲಿಷ್ ಮಾಧ್ಯಮ, ಜಪಾನ್/ಚೀನ/ಕೊರಿಯಾ) confirm the general topic. Content marked "from transcript" below represents keyword inference only, not recovered text.
 
 ---
 
-## What Can Be Inferred from the Title and Fragments
+## Overview
 
-The Kannada title ಕಲಿಕೆನುಡಿ ಮತ್ತು ನುಡಿಕಲಿಕೆ is a characteristic DNS Bhat wordplay: the same two words ಕಲಿಕೆ (learning) and ನುಡಿ (language/speech) are inverted. The title distinguishes between:
+*(From book description — dnshankarabhat.net)*
 
-- **ಕಲಿಕೆನುಡಿ** (kalikenuDi): "the language of learning" — the language used as the medium of instruction
-- **ನುಡಿಕಲಿಕೆ** (nuDikalike): "language learning" — learning a language as a subject
+This short book explains two related things: how children learn their first language, and how — with support from their first language — they can learn one or two additional languages. It also explains how children can be taught to speak, read, and write in the *shared* Kannada used in schools, which differs somewhat from a child's home dialect.
 
-This is a book about language-in-education policy: the role of the mother tongue vs. English as medium of instruction, and the problem of children being taught in a language other than their own. This is a core DNS Bhat concern — Kannada children learning through English medium are deprived of proper cognitive development.
+Children can learn a second language like English more easily by using their first language as a stepping stone. If that stepping stone is taken away — if children are taught directly through English without first-language support — most children will not progress properly in their learning.
 
-Fragment from Part 4 — mentions comparison with Telugu, Tamil, Kannada grammars, Japan, China, Korea, Hawaii — suggesting cross-linguistic comparison of language-in-education policies globally.
-
-Fragment from Part 14 — "when making comparisons… Sanskrit practices were looked at but not found applicable here" — suggests Bhat is arguing against Sanskrit-based models for Kannada language policy.
-
-Fragment from Part 17 — "ಇಂಗ್ಲಿಷ್ ಮಾಧ್ಯಮ" (English medium) — directly confirms the theme of English-medium schooling as the subject under discussion.
+Research has shown that teaching mathematics, science, and other subjects requires five to six years of learning a new medium language (such as English) before children can function in it for content learning. The child's own first language is therefore the most appropriate medium of instruction; using an unfamiliar language as the teaching medium is a serious obstacle to learning.
 
 ---
 
-## What Is Missing / Unusable
+## Part-by-Part
 
-- All substantive arguments of all 21 parts are lost to ASR noise and wrong language detection.
-- P2's English ASR confirms the series is Malati Bhat reading DNS Bhat's writings to a live audience (applause markers visible in Parts 2, 4 as "[ಪ್ರಶಂಸೆ]").
-- The transcripts cannot be used to reconstruct the book's chapter structure or arguments.
-- Recovery would require either: (a) a clean audio re-transcription, or (b) finding the original printed text (book/kn/ source if it exists).
+### Part P1 — [Watch on YouTube](https://www.youtube.com/watch?v=qjrMOYew6UE)
+⚠️ Transcript garbled. Hindi-Kannada ASR noise: "ಜೈಕಾಲೇಶ್ವರ ಲಿಮಿಟೇಡ್… ಕೇಸರಿಯಾ… ಇಂಗ್ಲಿಶ್ ಹುಕುಮ್" — clearly wrong language detection. No content recoverable.
+
+### Part P2 — [Watch on YouTube](https://www.youtube.com/watch?v=enhh0H-Rt4s)
+⚠️ Transcript in English ASR (no Kannada detected). Shows introduction: "famous linguist… daughter [Malati Bhat]… going to read one of his books" followed by "foreign foreign foreign" noise — confirms the series format (live reading to an audience) but no book content.
+
+### Part 1 — [Watch on YouTube](https://www.youtube.com/watch?v=mclGOqYupR4)
+⚠️ Transcript garbled. Hindi/Kannada mix — "ಛೋಟ ಕೊ ಕಟ್ಟತಾ", "ಲತಾ ಮಂಗೇಶ್ಕರ", random proper nouns. No content recoverable.
+
+### Part 2 — [Watch on YouTube](https://www.youtube.com/watch?v=rDm3X5ZWpRc)
+⚠️ Transcript marginal. One fragment: "ಆಚಾರ್ಯರು ಮಾತನಾಡುವ ಕಾಲದಲ್ಲಿ ಅಲ್ಲವೇ ಚಿಕ್ಕ ದಿನಗಳು [ಪ್ರಶಂಸೆ]" — one phrase plus applause marker. Not recoverable.
+
+### Part 3 — [Watch on YouTube](https://www.youtube.com/watch?v=T-A3CjbxCWY)
+⚠️ Transcript garbled. Random proper nouns and Hindi mix. Only linguistically meaningful fragment: "ವಿಭಕ್ತಿ ಪ್ರತ್ಯಯಗಳು" (case suffixes). No content recoverable.
+
+### Part 4 — [Watch on YouTube](https://www.youtube.com/watch?v=g_RBjxmF5gw)
+⚠️ Transcript garbled. Keyword inference only: mentions ವ್ಯಾಕರಣ (grammar), ತೆಲುಗು, ತಮಿಳು, ಕನ್ನಡ, ಜಪಾನ್, ಚೀನ, ಕೊರಿಯಾ, ಪೋರ್ಚುಗಲ್ — suggests cross-linguistic and international comparison of language-in-education policies, but argument cannot be reconstructed.
+
+### Part 5 — [Watch on YouTube](https://www.youtube.com/watch?v=Lx3KxNn5WW4)
+⚠️ Transcript not available for this part.
+
+### Part 6 — [Watch on YouTube](https://www.youtube.com/watch?v=QsFV_yIRn-w)
+⚠️ Transcript not available for this part.
+
+### Part 7 — [Watch on YouTube](https://www.youtube.com/watch?v=TjtcJkQlhGY)
+⚠️ Transcript not available for this part.
+
+### Part 8 — [Watch on YouTube](https://www.youtube.com/watch?v=7A7atZR1BfQ)
+⚠️ Transcript marginal. Fragment: "ಧೀರೆ-ಧೀರೆ ಗಮನ ಕೊಡಿ ಕ್ರಮವಾಗಿ ಎಲ್ಲವನ್ನು ಹೇಳಿ ಗೊತ್ತಾಗುವಂತೆ" — urging the listener to pay attention carefully and systematically. No substantive content recoverable.
+
+### Part 9 — [Watch on YouTube](https://www.youtube.com/watch?v=H4_SQg-rc18)
+⚠️ Transcript not available for this part.
+
+### Part 10 — [Watch on YouTube](https://www.youtube.com/watch?v=JDxUQBb0ACg)
+⚠️ Transcript not available for this part.
+
+### Part 11 — [Watch on YouTube](https://www.youtube.com/watch?v=-8dFeUUZ2_o)
+⚠️ Transcript not available for this part.
+
+### Part 12 — [Watch on YouTube](https://www.youtube.com/watch?v=-T09dkqV6KE)
+⚠️ Transcript not available for this part.
+
+### Part 13 — [Watch on YouTube](https://www.youtube.com/watch?v=MgvDbmyYvM4)
+⚠️ Transcript garbled. Keyword list: "ಅಭಿವೃದ್ಧಿ ದಿಲ್ಲಿ ಸಾಲ ಇಂಟರ್ನೆಟ್ ಕಾಲೇಜು ಹಾಸ್ಟೆಲ್ ಆದರಣೀಯ ಹಲೋ ಸಂಶೋಧನೆ ಮಾಡೋ ಇಂಗ್ಲಿಷ್" — not sentences.
+
+### Part 14 — [Watch on YouTube](https://www.youtube.com/watch?v=WsC8OqKO8sY)
+⚠️ Transcript marginal. Fragment: "ಹೋಲಿಕೆ ಮಾಡುವಾಗ ಬಹಳಷ್ಟು ತೆರನಾಡಿನಲ್ಲಿ… ಸಂಸ್ಕೃತದಲ್ಲಿ ಪದ್ಧತಿಗಳನ್ನು ನೋಡಿದೆ ಆದರೆ ಇಲ್ಲಿ ಪತ್ತೆ ಮಾಡಲಾಗಿಲ್ಲ" — comparing practices, looking at Sanskrit models but finding them inapplicable here. Keyword-level inference only.
+
+### Part 15 — [Watch on YouTube](https://www.youtube.com/watch?v=HRX_xCTZpaI)
+⚠️ Transcript garbled. "ನಾವು ವೀಡಿಯೊ ಪ್ರಶಂಸೆ ಮೂಲ ಮೂಲ ಮತ್ತು ಹಿಂದಿ ವೀಡಿಯೊ" — noise only.
+
+### Part 16 — [Watch on YouTube](https://www.youtube.com/watch?v=wy63HbHd0As)
+⚠️ Transcript garbled. "ಇಂಗ್ಲಿಷ್ ಗೆ ಕನ್ನಡ… ಫಿಲ್ಮ್ ಹೀರೋ ಪಂಟಿ… ಕರ್ನಾಟಕ ಇಂಗ್ಲಿಷ್" — noise only.
+
+### Part 17 — [Watch on YouTube](https://www.youtube.com/watch?v=kH7s2LDPFjo)
+⚠️ Transcript minimal. Only: "ಇಂಗ್ಲಿಷ್ ಮಾಧ್ಯಮ ಇಂಗ್ಲಿಷ್ ಮಾಧ್ಯಮ" (English medium, English medium) — confirms the topic of English-medium schooling.
+
+### Part 18 — [Watch on YouTube](https://www.youtube.com/watch?v=TA5PRus2K7Q)
+⚠️ Transcript garbled (duplicate of Part P1 text — noise).
+
+### Part 19 — [Watch on YouTube](https://www.youtube.com/watch?v=mFZbqdhuEbg)
+⚠️ Transcript not available for this part.
 
 ---
 
-## Relationship to Other Books
+## Key Concepts (from book description)
 
-Book 06 is closely related to:
-- **Book 04** (ಬಾಶೆ ಮತ್ತು ಕಲಿಕೆ — Language and Learning) — likely companion volume
-- **Book 07** (ಕನ್ನಡ ಶಾಲೆ ಮತ್ತು ಕನ್ನಡ ಕಲಿಕೆ) — Kannada school and learning
-- DNS Bhat's broader advocacy for mother-tongue medium education throughout his career
+- **ಕಲಿಕೆನುಡಿ** (kalikenuDi): the language used as the medium of instruction ("learning-language") — what schools teach *through*
+- **ನುಡಿಕಲಿಕೆ** (nuDikalike): learning a language as a subject — what schools teach *about*
+- Children learn their first language naturally; learning a second language works best when the first language acts as a scaffold
+- Mother-tongue medium instruction is not merely cultural preference — it is cognitive necessity for genuine learning in subjects like mathematics and science
+- Children need five to six years to reach functional proficiency in a new-language medium — English-medium schooling imposed early is educationally harmful
+- The title is a deliberate inversion of the same two words, signaling the book's two-part structure
+
+---
+
+## Cross-References to Other DNS Bhat Works
+
+| Book | Connection |
+|------|-----------|
+| Book 04 (ಬಾಶೆ ಮತ್ತು ಕಲಿಕೆ) | Likely companion or predecessor on the same language-and-education theme |
+| Book 07 (ಕನ್ನಡ ಶಾಲೆ ಮತ್ತು ಕನ್ನಡ ಕಲಿಕೆ) | Extends the argument to Kannada schooling specifically |
+| Book 29 (ಕನ್ನಡ ವ್ಯಾಕರಣ ಯಾಕೆ ಬೇಕು) | Addresses why Kannada grammar instruction in Kannada matters |
+| Book 30 (ಕನ್ನಡ ಬರಹವನ್ನು ಸರಿಪಡಿಸೋಣ) | The comprehensive reform text — language policy in writing |
