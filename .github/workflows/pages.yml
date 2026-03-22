@@ -131,6 +131,15 @@ jobs:
               except OSError:
                   return True
 
+          def stub_lang(fp):
+              """Return 'kn' if stub body has substantial Kannada text, else 'en'."""
+              try:
+                  with open(fp, encoding='utf-8') as f:
+                      body = strip_fm(f.read())
+                  return 'kn' if sum(1 for c in body if '\u0C80' <= c <= '\u0CFF') > 50 else 'en'
+              except OSError:
+                  return 'kn'
+
           # Track files that have been assigned proper sidebar front matter
           sidebar_files = set()
           sidebar_files.add(os.path.join(DNSBHAT, 'index.md'))
@@ -183,8 +192,9 @@ jobs:
               # A stub is a youtube/kn/full.md with no ## Part / ### Part headers
               yt_kn = found.get(('youtube', 'kn'))
               if yt_kn and is_youtube_stub(yt_kn[0]):
-                  # Move to stub source; drop youtube en/eke for this book too
-                  found[('stub', 'kn')] = yt_kn
+                  # Move to stub source using actual content language; drop youtube en/eke
+                  _slang = stub_lang(yt_kn[0])
+                  found[('stub', _slang)] = yt_kn
                   del found[('youtube', 'kn')]
                   found.pop(('youtube', 'en'),  None)
                   found.pop(('youtube', 'eke'), None)
