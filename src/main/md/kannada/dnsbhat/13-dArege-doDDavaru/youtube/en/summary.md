@@ -1,73 +1,69 @@
-# YouTube Transcript Summary — Book 13
-## ದಾರೆಗೆ ದೊಡ್ಡವರು (Great Scholars on the Path? / Those Who Are Great on the Way)
+# Great Ones on the Path (tentative)
+## ದಾರೆಗೆ ದೊಡ್ಡವರು
 
-**Speaker:** NOT Malati Bhat reading Bhat's text — see critical note below
-**Parts:** 4 (Parts 1–4)
-**YouTube series:** DNS Bhat books read aloud channel
+**Author:** D. N. Shankara Bhat (ಡಿ. ಎನ್. ಶಂಕರ ಬಟ್) — attributed; see speaker note below
+**Read by:** Malati Bhat (listed), but see critical note
+**Published:** date unknown
+**Source quality:** ⚠️ Very partial — Parts 1–2 unavailable; Parts 3–4 contain readable content but appear to be a commentary series, not a book reading
+**Transcript:** [`youtube/kn/full.md`](../kn/full.md)
 
----
-
-## CRITICAL NOTE: Speaker and Nature of Content
-
-**This series is NOT Malati Bhat reading DNS Bhat's book.** The readable parts (3 and 4) consistently refer to "ಶಂಕರಭಟ್ಟರ ಪುಸ್ತಕ" (Shankara Bhat's book), "ಶಂಕರಭಟ್ಟರ ಕೃತಿ" (Shankara Bhat's work), and "ಶಂಕರಭಟ್ಟರ ಚಿಂತನೆ" (Shankara Bhat's thinking) — all in the third person. A commentator or scholar is **discussing Bhat's books**, not Bhat himself speaking. The page header still says "*Part of DNS Bhat's writings read by Malati Bhat*" but the content contradicts this for these parts.
-
-Part 1 also suggests a grammatical lecture context ("today we will discuss pronouns in detail") that reads like a separate lecture series unrelated to the book reading format.
-
-**Likely interpretation:** ದಾರೆಗೆ ದೊಡ್ಡವರು may be a panel discussion, symposium, or commentary series about DNS Bhat's work — possibly a felicitation event or academic seminar where other scholars discuss Bhat's contributions. The title "Great Scholars on the Path" would then refer to eminent figures (Bhat and others) in the field of Kannada linguistics.
+> **Source Limitations:** No `description-raw.md` is available for Book 13 — no Wayback Machine page was retrieved for this title. The overview below is based entirely on the 4-part YouTube transcript, of which only Part 3 contains genuinely readable content. Parts 1 and 4 are duplicates of each other (same text verbatim) and appear to contain content from a different video or series entirely. Part 2 is completely unavailable. Critically: the readable parts (3 and 4) refer to Shankara Bhat and his works in the **third person** ("ಶಂಕರಭಟ್ಟರ ಪುಸ್ತಕ", "ಶಂಕರಭಟ್ಟರ ಕೃತಿ") — indicating this series is **not** Malati Bhat reading Bhat's own text, but rather one or more commentators discussing Bhat's work. The nature and full content of this book remain uncertain.
 
 ---
 
-## Transcript Quality Assessment
+## Overview
 
-| Part | Status | Notes |
-|------|--------|-------|
-| Part 1 | Garbled + Unavailable | Marked ಭಾಷಾಂತರ ಲಭ್ಯವಿಲ್ಲ but has readable appended content — unusually coherent Kannada prose about pronouns (ಸರ್ವನಾಮ). HOWEVER: this content appears to be from a grammar lecture, not from this book. Content includes: discussion of pronouns across all languages, singular/plural (ಏಕವಚನ/ಬಹುವಚನ), references to ancient grammar texts Keshiraja's ಶಬ್ದಮಣಿದರ್ಪಣ and Nagavarma's grammar |
-| Part 2 | Unavailable | ಭಾಷಾಂತರ ಲಭ್ಯವಿಲ್ಲ |
-| Part 3 | READABLE | Full paragraph of readable Kannada prose — discussion of Bhat's books in third person |
-| Part 4 | READABLE | Duplicate of Part 1 content — same paragraph about pronouns verbatim |
+*(Inferred from transcript Parts 3 and 4 — no book description available)*
 
-**Usable parts: 1 genuinely readable (Part 3)**
-**Parts 1 and 4 are duplicates of each other and appear to be wrong/mismatched video content**
-**Completely unavailable: Part 2**
-
----
-
-## What Part 3 Says (Translation)
-
-Part 3 is the only authentic content from this series. It discusses Bhat's work:
-
-> "In the complete vocabulary book, Sanskrit words in Kannada and English words that have come into Kannada have developed and transformed enormously. In the book on word formation [ಶಬ್ದ ರಚನೆಯ ಪುಸ್ತಕ], the sentence structure of Kannada and how meaning has been conceived in Kannada — the structure has been laid out in the book. Rejecting the rules of Sanskrit words that came from Sanskrit, [instead using] Kannada rules — Sanskrit sandhi, Sanskrit compound formation [ಸಮಾಸ], Sanskrit influence — information in the book about nouns [ನಾಮಪದ], pronouns [ಸರ್ವನಾಮ], verbs [ಕ್ರಿಯಾಪದ], adjectives [ಗುಣಪದ] formation in the Indian context, Kannada rules, Kannada words. This is Shankara Bhat's thinking in the book — a revolutionary book in Kannada linguistics. A supremely important book. For all primary schools, colleges — for students of Kannada grammar, sentence formation — students [learning about] Sanskrit sandhi and samasa — Kannada rules' book. The Karnataka Education Department — according to the general book — Shankara Bhat's book contains a revolutionary Kannada chapter — Kannada teachers — full book English translation…"
-
-This is a commentator praising Bhat's book on word formation (almost certainly Book 11, ಕನ್ನಡ ಬರಹದ ಪದಸಮಸ್ಯೆ, or possibly Book 30). The speaker recommends it for use in schools and calls it revolutionary.
-
----
-
-## What Can Be Inferred About the Title and Series
-
-ದಾರೆಗೆ ದೊಡ್ಡವರು is a complex Kannada phrase. ದಾರೆ = path/way; ದೊಡ್ಡವರು = great ones/elders/seniors. The phrase could mean:
-- "Great figures on the [linguistic] path" — honoring scholars who led the way
+ದಾರೆಗೆ ದೊಡ್ಡವರು is a complex Kannada phrase: ದಾರೆ (path/way) + ದೊಡ್ಡವರು (great ones, elders, eminent scholars). Possible meanings:
+- "Great figures on the [linguistic] path" — honoring scholars who led the way in Kannada reform
 - "Elders who show the path" — a title for a felicitation or tribute volume
 - "Those who are great for the path [ahead]" — reformers who prepared Kannada's future
 
-Given the commentary format, this book is likely a **collection of essays or discussions about DNS Bhat's linguistic work by other scholars** — a tribute or critical appraisal volume. The 4-part structure suggests it is a short book or pamphlet.
+Given that the readable transcript parts contain third-person commentary praising DNS Bhat's work — calling his books "revolutionary" and recommending them for schools — this book appears to be a **collection of essays, discussions, or symposium proceedings about DNS Bhat's linguistic contributions**, not a book written by Bhat himself. The 4-part structure suggests a short book or pamphlet.
 
-The Part 1 content (pronouns lecture referencing Keshiraja, Nagavarma) may be from a separate academic lecture that was incorrectly associated with this book's YouTube playlist.
-
----
-
-## What Is Missing / Unusable
-
-- Part 2 is completely unavailable.
-- Parts 1 and 4 are duplicates and likely mismatched videos.
-- Only Part 3 gives genuine content about this series.
-- Without Parts 1–2 (and a clean version of Part 4 if distinct), the full scope of the commentary cannot be determined.
+The sole readable part (Part 3) discusses Bhat's word-formation book in glowing terms, noting that it rejects Sanskrit grammatical rules in favour of Kannada's own rules for nouns, pronouns, verbs, and adjectives, and calls it essential for all schools and colleges. The speaker also mentions a "full English translation" of the book — possibly a reference to Book 32 or a related English publication.
 
 ---
 
-## Relationship to Other Books
+## Part-by-Part
 
-- This series discusses Bhat's word-formation work, making it directly related to:
-  - **Book 11** (ಕನ್ನಡ ಬರಹದ ಪದಸಮಸ್ಯೆ): The word problem book apparently praised in Part 3
-  - **Book 30** (ಕನ್ನಡ ಬರಹವನ್ನು ಸರಿಪಡಿಸೋಣ): The comprehensive reform book
-  - **Book 31** (ಇಂಗ್ಲಿಶ್ ಪದಗಳಿಗೆ ಕನ್ನಡದ್ದೇ ಪದಗಳು): The dictionary implementing Bhat's word-coining principles
-- The mention of a "full book English translation" in Part 3 is intriguing — it may refer to Book 32 (Bhat's English-language academic publication with John Benjamins)
+### Part 1 — [Watch on YouTube](https://www.youtube.com/watch?v=1lcY3XgtfTA)
+⚠️ Transcript marked unavailable, but has appended readable content — a Kannada grammar lecture on pronouns (ಸರ್ವನಾಮ), referencing ancient grammarians Keshiraja (ಶಬ್ದಮಣಿದರ್ಪಣ) and Nagavarma. This content is coherent Kannada prose but appears to be from a *different* lecture series entirely — not from this book. It is identical to Part 4's text.
+
+Excerpt: "ಇಂದು ನಾವು ಸರ್ವನಾಮದ ಬಗ್ಗೆ ವಿಸ್ತರವಾಗಿ ಚರ್ಚಿಸಲು ಹೋಗಿದ್ದೇವೆ. ಸರ್ವನಾಮ ಎಂಬುದು ಅತ್ಯಂತ ಮಹತ್ವಪೂರ್ಣವಾದ ವಿಷಯವಾಗಿದೆ. ಕೇವಲ ಕನ್ನಡ ಭಾಷೆಯಲ್ಲಿ ಮಾತ್ರವಲ್ಲ, ಎಲ್ಲಾ ಭಾಷೆಗಳಲ್ಲೂ ಸರ್ವನಾಮವು ಅಂತ ವಿಸ್ತೃತವಾದ ವಿಷಯವಾಗಿದೆ." ("Today we will discuss pronouns in detail. The pronoun is an extremely important topic. Not only in Kannada but in all languages, the pronoun is such a wide-ranging subject.")
+
+Note: This content, while readable, is likely mismatched — it does not relate to ದಾರೆಗೆ ದೊಡ್ಡವರು.
+
+### Part 2 — [Watch on YouTube](https://www.youtube.com/watch?v=HcdPAKeSGvI)
+⚠️ Transcript not available for this part.
+
+### Part 3 — [Watch on YouTube](https://www.youtube.com/watch?v=njQ_wuVn3Cw)
+Readable content (garbled in places). A commentator discusses Bhat's word-formation work. Key content:
+
+"In the complete vocabulary book, Sanskrit words in Kannada and English words that have come into Kannada have developed and transformed enormously. In the book on word formation, the sentence structure of Kannada and how meaning is conceived in Kannada — the structure has been laid out in the book. Rejecting the rules of Sanskrit words that came from Sanskrit, [instead establishing] Kannada rules — [covering] Sanskrit sandhi, Sanskrit compound formation, Sanskrit influence — information about nouns, pronouns, verbs, adjectives in the Indian context, Kannada rules, Kannada words. This is Shankara Bhat's thinking in the book — a revolutionary book in Kannada linguistics. A supremely important book. For all primary schools and colleges — for students of Kannada grammar and sentence formation. The Karnataka Education Department — Shankara Bhat's book [contains] a revolutionary Kannada chapter — Kannada teachers — full book English translation…"
+
+This is a commentator praising Bhat's book on word formation — almost certainly Book 11 (ಕನ್ನಡ ಬರಹದ ಪದಸಮಸ್ಯೆ) or Book 30.
+
+### Part 4 — [Watch on YouTube](https://www.youtube.com/watch?v=Lm4Do-3zjTY)
+⚠️ Transcript is a verbatim duplicate of Part 1 (the pronoun lecture content). This confirms that the same wrong/mismatched video was fetched for both Parts 1 and 4. The actual content of Part 4 is unknown.
+
+---
+
+## Key Concepts (from the available transcript fragment)
+
+- The series discusses Bhat's works from an outside perspective — one or more scholars praising and contextualizing his contributions
+- The word-formation book described in Part 3 is characterized as: revolutionary (ಕ್ರಾಂತಿಕಾರೀ), supremely important (ಅತ್ಯಂತ ಮಹತ್ವಪೂರ್ಣ), essential for schools
+- Ancient grammarians Keshiraja (author of ಶಬ್ದಮಣಿದರ್ಪಣ) and Nagavarma are mentioned in Parts 1/4 — whether in comparison with or contrast to Bhat's work is unclear
+- ದಾರೆ (path) and ದೊಡ್ಡವರು (great ones) — the title suggests honoring those who led the way in Kannada scholarship
+
+---
+
+## Cross-References to Other DNS Bhat Works
+
+| Book | Connection |
+|------|-----------|
+| Book 11 (ಕನ್ನಡ ಬರಹದ ಪದಸಮಸ್ಯೆ) | Almost certainly the book praised in Part 3 — the "word-formation book" described |
+| Book 30 (ಕನ್ನಡ ಬರಹವನ್ನು ಸರಿಪಡಿಸೋಣ) | May also be the subject — the "full English translation" mentioned could relate to this or Book 32 |
+| Book 32 (The Prominence of Tense, Aspect and Mood) | Bhat's English academic publication — possibly the "English translation" referenced in Part 3 |
+| Book 14 (ನಿಜಕ್ಕೂ ಹಳೆಗನ್ನಡ ವ್ಯಾಕರಣ ಎಂತಹದು) | The ancient grammarians (Keshiraja, Nagavarma) mentioned in Parts 1/4 are also discussed in Book 14 |

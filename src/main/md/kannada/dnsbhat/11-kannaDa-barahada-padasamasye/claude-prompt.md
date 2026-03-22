@@ -1,24 +1,26 @@
 # Claude Prompt — Book 11: ಕನ್ನಡ ಬರಹದ ಪದಸಮಸ್ಯೆ
 
-**English title:** The Word Problem in Written Kannada
+**English title:** The Word Problem in Kannada Script
 **Author:** D. N. Shankara Bhat
-**Speaker (YouTube):** Malati Bhat reads DNS Bhat's writings
+**Read by (YouTube):** Malati Bhat (DNS Bhat's daughter) reads the text aloud
+**Published:** date unknown
 **Language:** Kannada (*hosa baraha* reformed script)
-**Series:** Part of the DNS Bhat books read aloud on YouTube (Books 01–13 available only as YouTube transcripts — no OCR text)
+**Series:** DNS Bhat books read aloud on YouTube (Books 01–13: YouTube transcripts only, no OCR text)
 
 ---
 
 ## THESIS
 
-ಪದಸಮಸ್ಯೆ = ಪದ (word) + ಸಮಸ್ಯೆ (problem). The "word problem" in written Kannada is:
+ಪದಸಮಸ್ಯೆ = ಪದ (word) + ಸಮಸ್ಯೆ (problem). The "word problem" in written Kannada has two dimensions:
 
-1. **Existing vocabulary:** Kannada prose is flooded with Sanskrit loanwords (ತತ್ಸಮ) even where native Kannada words exist or could be coined
-2. **New vocabulary:** When new technical or modern concepts require words, Kannada writers reflexively reach for Sanskrit roots instead of using native Dravidian morphology
-3. **Education:** The problem is perpetuated through the school system and dictionaries which legitimize Sanskrit-derived neologisms
+1. **Existing vocabulary:** Kannada prose is dominated by Sanskrit loanwords (ತತ್ಸಮ) even where native Kannada words exist or could be coined
+2. **New vocabulary:** When modern or technical concepts require new words, Kannada writers reflexively use Sanskrit roots and compounding (sandhi, samasa) rather than native Dravidian morphology and Kannada suffixes
 
-Bhat argues that the solution is to apply native Kannada word-formation rules (using Dravidian roots and Kannada suffixes — ಒಟ್ಟು) rather than Sanskrit compounding and Sanskrit roots. This is the word-reform program complementary to his script-reform program.
+Bhat's proposed solution: apply native Kannada word-formation rules — Dravidian roots + Kannada ಒಟ್ಟು (suffixes) — instead of Sanskrit-derived compounding. This is the word-reform program complementing his script-reform program (Books 07, 08, 30).
 
-**Note:** Book 30 (ಕನ್ನಡ ಬರಹವನ್ನು ಸರಿಪಡಿಸೋಣ) contains a chapter titled identically — ಕನ್ನಡ ಬರಹದ ಪದಸಮಸ್ಯೆ (Chapter 5). Book 11 is likely the earlier standalone monograph on this topic that was later condensed into Book 30's chapter structure.
+**Note:** Book 30 (ಕನ್ನಡ ಬರಹವನ್ನು ಸರಿಪಡಿಸೋಣ) contains Chapter 5 titled identically — ಕನ್ನಡ ಬರಹದ ಪದಸಮಸ್ಯೆ. Book 11 is almost certainly the earlier standalone monograph later condensed into that chapter.
+
+**No book description is available** for Book 11 — the `description-raw.md` in this directory contains a page for Book 30, not Book 11.
 
 ---
 
@@ -28,16 +30,19 @@ Bhat argues that the solution is to apply native Kannada word-formation rules (u
 
 **Overall quality: Catastrophically poor — worst of the four books assessed.**
 
-| Recoverable | Count |
-|-------------|-------|
+| Category | Count |
+|----------|-------|
 | Parts with ಭಾಷಾಂತರ ಲಭ್ಯವಿಲ್ಲ (no transcript) | 20 |
 | Transcript explicitly disabled (Part 19) | 1 |
-| Wrong/non-Kannada video (Part 2: Arabic) | 1 |
-| Duplicate/mismatched video (Parts 1 = 13) | 2 |
+| Wrong video / non-Kannada (Part 2: Arabic) | 1 |
+| Duplicate mismatched text (Parts 1 = 13) | 2 |
 | Parts with any Kannada content | 3 (Parts 8, 9, 1/13) |
 | Parts with usable prose | 0 |
 
-20 of 25 parts have no transcript at all. Part 19's transcript was explicitly disabled by the uploader. Part 2 pulled an Arabic video. Parts 1 and 13 have identical garbled content, likely from a wrong video match.
+20 of 25 parts have no transcript. Part 19's transcript was explicitly disabled by the uploader. Part 2 pulled an Arabic-language video (YouTube ID mismatch). Parts 1 and 13 contain identical garbled text, likely from the same wrong video matched twice.
+
+**Primary source for overview:** Inferred from book title + comparison with Book 30, Ch. 5 (identical title) + Part 8 fragment
+**No book description (description-raw.md) is available for Book 11 specifically**
 
 **English summary:** `youtube/en/summary.md`
 
@@ -47,19 +52,20 @@ Bhat argues that the solution is to apply native Kannada word-formation rules (u
 
 | Kannada | Eke | English |
 |---------|-----|---------|
-| ಪದಸಮಸ್ಯೆ | padasamasye | the word problem (word-formation problem) |
+| ಪದಸಮಸ್ಯೆ | padasamasye | the word problem (word-formation problem in written Kannada) |
 | ತತ್ಸಮ ಪದ | tatsama pada | Sanskrit loanword used unchanged in Kannada |
 | ತದ್ಭವ ಪದ | tadbhava pada | Sanskrit-derived word adapted to Kannada phonology |
 | ಒಟ್ಟು | oTTu | Bhat's native term for suffix (vs. Sanskrit ಪ್ರತ್ಯಯ) |
-| ಪ್ರತ್ಯಯ | prataya | suffix (Sanskrit-derived term) |
-| ತ್ರಿಶಂಕು ಪದ | triSanku pada | "triśaṅku word" — hybrid word belonging to neither Kannada nor Sanskrit properly |
-| ನಾಡ್ ನುಡಿ | nAD nuDi | native language (Bhat's preferred term for mother tongue) |
+| ಸಮಾಸ | samAsa | Sanskrit-style compound (what Bhat argues against using in Kannada) |
+| ನಾಡ್ ನುಡಿ | nAD nuDi | native language, home tongue |
+| ಕನ್ನಡದ್ದೇ ಪದ | kannaDadde pada | Kannada's own word (native-root word) |
 
 ---
 
 ## CONNECTIONS TO OTHER BOOKS
 
-- **Book 30, Chapter 5** (ಕನ್ನಡ ಬರಹದ ಪದಸಮಸ್ಯೆ — same title): likely a condensed version of this book's arguments; Book 11 is the full treatment
-- **Book 31** (ಇಂಗ್ಲಿಶ್ ಪದಗಳಿಗೆ ಕನ್ನಡದ್ದೇ ಪದಗಳು): the practical dictionary implementing the solutions proposed in Book 11 — 487-page A–Z English-to-native-Kannada lexicon
-- **Book 08** (ಕನ್ನಡಕ್ಕೆ ಮಹಾಪ್ರಾಣ ಯಾಕೆ ಬೇಡ): the script-reform companion; Books 08 and 11 together address both problems in written Kannada (script + vocabulary)
-- **Book 30, Chapter 8–9** (ಕನ್ನಡ ಪ್ರತ್ಯಯಗಳ ಬಳಕೆ, ಕನ್ನಡ ಪದಗಳ ಬಳಕೆ): the practical application chapters that follow from Book 11's diagnosis
+- **Book 08** (ಕನ್ನಡಕ್ಕೆ ಮಹಾಪ್ರಾಣ ಯಾಕೆ ಬೇಡ): script-reform companion — Books 08 and 11 together address both problems in written Kannada (aspiration/script + vocabulary)
+- **Book 30, Ch. 5** (ಕನ್ನಡ ಬರಹದ ಪದಸಮಸ್ಯೆ — same title): likely a condensed version; Book 11 is the full standalone treatment
+- **Book 31** (ಇಂಗ್ಲಿಶ್ ಪದಗಳಿಗೆ ಕನ್ನಡದ್ದೇ ಪದಗಳು): the 487-page A–Z English-to-native-Kannada dictionary implementing the principles Book 11 argues for
+- **Book 16** (ನುಡಿಯರಿಮೆಯ ಪದಗಳಿಗೆ ಕನ್ನಡದ್ದೇ ಪದಗಳು): the linguistics-domain vocabulary companion
+- **Book 30, Ch. 8–9** (Kannada suffix usage, Kannada word usage): practical application chapters following from Book 11's diagnosis
