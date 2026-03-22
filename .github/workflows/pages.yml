@@ -47,9 +47,9 @@ jobs:
           ]
           # Language sub-sections nested inside each source
           LANGS = [
-              ('en',  'English',              1),   # (lang_dir, title, nav_order)
-              ('kn',  'Kannada Text',         2),
-              ('eke', 'Eke Transliteration',  3),
+              ('en',  'English',  1),   # (lang_dir, title, nav_order)
+              ('kn',  'ಕನ್ನಡ',    2),
+              ('eke', 'Eke',      3),
           ]
           # File search candidates per (source_dir, lang_dir) — first match wins
           CANDIDATES = {
@@ -189,10 +189,28 @@ jobs:
                   found.pop(('youtube', 'en'),  None)
                   found.pop(('youtube', 'eke'), None)
 
+              # Extract Kannada-script title from kn content (first heading with ಕನ್ನಡ chars)
+              kn_title = None
+              for _src in ['book', 'youtube', 'stub', 'web']:
+                  _kn = found.get((_src, 'kn'))
+                  if _kn:
+                      try:
+                          with open(_kn[0], encoding='utf-8') as _f:
+                              _body = strip_fm(_f.read())
+                          for _m in re.finditer(r'^#{1,3} (.+)$', _body, re.MULTILINE):
+                              _cand = _m.group(1).strip()
+                              if any('\u0C80' <= c <= '\u0CFF' for c in _cand):
+                                  kn_title = _cand
+                                  break
+                      except OSError:
+                          pass
+                      break
+
               books.append({
                   'dir':               book_dir,
                   'path':              book_path,
                   'title':             book_title,
+                  'kn_title':          kn_title,
                   'raw_order':         raw_order,
                   'book_num':          book_num,
                   'redirect_from_main': get_redirect_from(orig),
@@ -237,8 +255,13 @@ jobs:
                       content = f.read()
                   redirect_from = get_redirect_from(content)
                   content = strip_fm(content)
+                  # kn sidebar entries use Kannada script title when available
+                  sidebar_title = (
+                      b['kn_title'] if lang == 'kn' and b.get('kn_title')
+                      else b['title']
+                  )
                   fm_args = dict(
-                      title=b['title'],
+                      title=sidebar_title,
                       parent=LANG_TITLE[lang],
                       grand_parent=SRC_TITLE[src],
                       nav_order=b['book_num'],
