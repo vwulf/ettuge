@@ -1,6 +1,8 @@
 ---
 title: "The Koraga Language"
 nav_order: 119
+redirect_from:
+  - /dnsbhat/19-the-koraga-language/19-the-koraga-language
 ---
 
 # The Koraga Language

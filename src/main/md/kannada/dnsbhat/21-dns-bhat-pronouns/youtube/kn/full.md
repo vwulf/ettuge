@@ -1,6 +1,8 @@
 ---
 title: "Pronouns"
 nav_order: 121
+redirect_from:
+  - /dnsbhat/21-dns-bhat-pronouns/21-dns-bhat-pronouns
 ---
 
 # Pronouns (Oxford University Press)

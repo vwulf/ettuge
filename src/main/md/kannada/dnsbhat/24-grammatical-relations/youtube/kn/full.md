@@ -1,6 +1,8 @@
 ---
 title: "Grammatical Relations"
 nav_order: 124
+redirect_from:
+  - /dnsbhat/24-grammatical-relations/24-grammatical-relations
 ---
 
 # Grammatical Relations: The Evidence Against Their Necessity and Universality

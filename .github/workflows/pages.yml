@@ -142,9 +142,16 @@ jobs:
               if not os.path.isdir(book_path):
                   continue
 
-              # Nav metadata carrier: youtube/kn/full.md (carries title + nav_order)
-              main_md = os.path.join(book_path, 'youtube', 'kn', 'full.md')
-              if not os.path.exists(main_md):
+              # Nav metadata carrier priority: youtube first, then book sources
+              _meta_candidates = [
+                  os.path.join(book_path, 'youtube', 'kn', 'full.md'),
+                  os.path.join(book_path, 'book', 'kn', 'full.md'),
+                  os.path.join(book_path, 'book', 'vol1', 'kn', 'full.md'),
+                  os.path.join(book_path, 'book', 'en', 'summary.md'),
+                  os.path.join(book_path, 'book', 'kn', 'raw.md'),
+              ]
+              main_md = next((p for p in _meta_candidates if os.path.exists(p)), None)
+              if main_md is None:
                   continue
 
               with open(main_md, encoding='utf-8') as f:

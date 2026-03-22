@@ -1,6 +1,8 @@
 ---
 title: "Manipuri Grammar"
 nav_order: 123
+redirect_from:
+  - /dnsbhat/23-manipuri-grammar/23-manipuri-grammar
 ---
 
 # A Grammar of Manipuri

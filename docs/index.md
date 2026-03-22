@@ -45,6 +45,7 @@ All Kannada text is also available in **Eke** — a phonemic romanisation for Ka
 | 05 | mAtina oLaguTTu — *Sounds and their Internalisation* | [ಕನ್ನಡ](dnsbhat/05-mathina-olaguttu/05-mathina-olaguttu) | [English](dnsbhat/05-mathina-olaguttu/05-mathina-olaguttu-en) | [Eke](dnsbhat/05-mathina-olaguttu/05-mathina-olaguttu-kn-eke) |
 | 07 | kannaDa barahada sollarime — *Kannada Grammar Series* (7 vols) | [ಕನ್ನಡ](dnsbhat/07-kannadada-sollarime/07-kannadada-sollarime-vol1-kn) | [English](dnsbhat/07-kannadada-sollarime/07-kannadada-sollarime-en) | [Eke](dnsbhat/07-kannadada-sollarime/07-kannadada-sollarime-kn-eke) |
 | 08 | kannaDakke mahAprANa yAke bEDa — *Why Kannada Doesn't Need Aspirates* | [ಕನ್ನಡ](dnsbhat/08-kannadakke-mahaprana-yake-beda/08-kannadakke-mahaprana-yake-beda) | [English](dnsbhat/08-kannadakke-mahaprana-yake-beda/08-kannadakke-mahaprana-yake-beda-en) | [Eke](dnsbhat/08-kannadakke-mahaprana-yake-beda/08-kannadakke-mahaprana-yake-beda-kn-eke) |
+| 30 | kannaDa barahavannu saripaDisONa — *Let's Correct Kannada Writing* | [ಕನ್ನಡ](dnsbhat/30-kannaDa-barahavannu-saripaDisONa/book/kn/full) | [English](dnsbhat/30-kannaDa-barahavannu-saripaDisONa/book/en/summary) | [Eke](dnsbhat/30-kannaDa-barahavannu-saripaDisONa/book/eke/full) |
 | 11 | kannaDa barahada padasamasye — *The Problem with Kannada Script* | [ಕನ್ನಡ](dnsbhat/11-kannada-barahada-padasamasye/11-kannada-barahada-padasamasye) | | |
 | 22 | Sound Change | [ಕನ್ನಡ](dnsbhat/22-sound-change/22-sound-change) | | |
 | 26 | uli mArpADina geregaLu — *Principles of Sound Change* | [ಕನ್ನಡ](dnsbhat/26-uli-marpadina-geregalu/26-uli-marpadina-geregalu) | | |
@@ -57,6 +58,7 @@ All Kannada text is also available in **Eke** — a phonemic romanisation for Ka
 | 15 | ingliS-kannaDa padanerake — *English–Kannada Word Correspondence* | [ಕನ್ನಡ](dnsbhat/15-inglish-kannada-padanerake/15-inglish-kannada-padanerake) | [English](dnsbhat/15-inglish-kannada-padanerake/15-inglish-kannada-padanerake-en) | [Eke](dnsbhat/15-inglish-kannada-padanerake/15-inglish-kannada-padanerake-kn-eke) |
 | 16 | nuDiyarimeya padagaLige kannaDaddE padagaLu — *Native Kannada Terms for Linguistic Concepts* | [ಕನ್ನಡ](dnsbhat/16-samskruta-padagalige-kannadade-padagalu/16-samskruta-padagalige-kannadade-padagalu) | | |
 | 28 | kannaDakke bEku kannaDaddE vyAkaraNa — *Kannada Needs Its Own Grammar* | [ಕನ್ನಡ](dnsbhat/28-kannadakke-beku/28-kannadakke-beku) | [English](dnsbhat/28-kannadakke-beku/28-kannadakke-beku-en) | [Eke](dnsbhat/28-kannadakke-beku/28-kannadakke-beku-kn-eke) |
+| 31 | ingliS padagaLige kannaDaddE padagaLu — *Native Kannada Words for English Words* | [ಕನ್ನಡ](dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/full) | [English](dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/en/summary) | |
 
 ### Language History & Sociolinguistics
 
@@ -91,6 +93,7 @@ All Kannada text is also available in **Eke** — a phonemic romanisation for Ka
 |---|-------|---------|---------|-----|
 | 21 | DNS Bhat — Pronouns | [ಕನ್ನಡ](dnsbhat/21-dns-bhat-pronouns/21-dns-bhat-pronouns) | | |
 | 24 | Grammatical Relations | [ಕನ್ನಡ](dnsbhat/24-grammatical-relations/24-grammatical-relations) | | |
+| 32 | The Prominence of Tense, Aspect and Mood | | [English](dnsbhat/32-the-prominence-of-tense-aspect-and-mood/book/en/summary) | |
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: "Sound Change"
 nav_order: 122
+redirect_from:
+  - /dnsbhat/22-sound-change/22-sound-change
 ---
 
 # Sound Change
