@@ -40,7 +40,7 @@
 | 04 | mAtu mattu barahada naDuvina gondala | Kannada | — | YouTube | ⚠️ Partial |
 | 05 | mAtina oLaguTTu | Kannada | — | YouTube | ✅ Transcript |
 | 06 | kalikenuDi mattu nuDikalike | Kannada | — | YouTube | ❌ Corrupted |
-| 07 | kannaDa barahada sollarime (7 vols) | Kannada | 2010–2019 | Website + YouTube + **PDF vol1+2** | ⚠️ PDF (WX font) |
+| 07 | kannaDa barahada sollarime (7 vols) | Kannada | 2010–2019 | Website + **PDF vol1+2** | ⚠️ PDF (WX font) |
 | 08 | kannaDakke mahAprANa yAke bEDa | Kannada | 2017 | PDF + DjVu | ✅ Full text |
 | 09 | havyaka kannaDa (popular) | Kannada | — | YouTube | ⚠️ Partial |
 | 10 | kannaDa nuDiya hinnaDavaLi | Kannada | — | YouTube | ⚠️ Partial |
@@ -63,6 +63,7 @@
 | 27 | bhASheya bagge *(ಭಾಷೆಯ ಬಗ್ಗೆ)* | Kannada | 1970/2010 | **PDF** (4th ed.) | ⚠️ PDF (WX font, 208p) — **NEW** |
 | 28 | kannaDakke bEku kannaDaddE vyAkaraNa *(ಕನ್ನಡಕ್ಕೆ ಬೇಕು ಕನ್ನಡದ್ದೇ ವ್ಯಾಕರಣ)* | Kannada | 2000/2013 | **PDF** (7th ed.) | ⚠️ PDF (WX font, 253p) — **NEW** |
 | 29 | kannaDa vyAkaraNa yAke bEku *(ಕನ್ನಡ ವ್ಯಾಕರಣ ಯಾಕೆ ಬೇಕು?)* | Kannada | 2009 | **PDF** | ⚠️ PDF (WX font, 260p) — **NEW** |
+| 33 | kannaDa sollarime *(ಕನ್ನಡ ಸೊಲ್ಲರಿಮೆ)* | Kannada | Unknown | YouTube | ⚠️ Garbled (split from 07) |
 
 ---
 
@@ -671,6 +672,22 @@
 
 ---
 
+## Section M — YouTube-Only Book (Split from Book 07)
+
+### 33 — ಕನ್ನಡ ಸೊಲ್ಲರಿಮೆ
+**kannaDa sollarime** *(Grammar of Kannada)*
+
+- **ಭಾಷೆ / Language:** Kannada
+- **ಪ್ರಕಟಣೆ / Year:** Unknown
+- **ಪುಟಗಳು / Pages:** Unknown · **PDF:** Not available
+- **ವಿಶಯ / Topic:** A shorter grammar of Kannada — distinct from the 7-volume *ಕನ್ನಡ ಬರಹದ ಸೊಲ್ಲರಿಮೆ* (Book 07)
+- **ಮೂಲ / Source:** YouTube transcript (Malati Bhat reading); previously mis-shelved in Book 07's folder
+- **ಗುಣಮಟ್ಟ / Quality:** ⚠️ Mostly garbled — 14 of 23 parts unavailable; live-lecture ASR noise
+- **ಕಡತ / Folder:** [33-kannaDa-sollarime/](./33-kannaDa-sollarime/)
+- **ಸಂಬಂಧ / Relation:** Related to Book 07 (7-vol grammar) and Book 01 (2021 consolidation); exact relationship unclear without text
+
+---
+
 ## Section J — Other Known Works (Not Yet Collected)
 
 These works are referenced in collected texts or found in the CDX sitemap but not yet fully collected:
@@ -702,7 +719,8 @@ These works are referenced in collected texts or found in the CDX sitemap but no
 | **Newly discovered books (27–29)** | **3** | **0** | **0** | **3** (WX) | **0** | **0** |
 | **Newly discovered books (30–32)** | **3** | **1** | **0** | **2** (Nudi) | **0** | **0** |
 | **Book 15 — hybrid extracted sample** | **1** | **0** | **0** | **0** | **1 (A only)** | **0** |
-| **Total** | **28** | **6** | **3** | **13** | **4** | **4** |
+| **Book 33 — YouTube only (split from 07)** | **1** | **0** | **0** | **0** | **1** | **0** |
+| **Total** | **29** | **6** | **3** | **13** | **5** | **4** |
 
 > ℹ️ Book 15 counting: moved from "Partial" to its own row. 53-page sample (letter A) is hybrid-extracted and fully processed (en/kn-eke/claude-prompt). Full 730-page book not yet obtained.
 

@@ -61,8 +61,9 @@ ettuge/
 
 ### Current Status (as of 2026-03-22, Phase 24)
 
-All 32 DNS Bhat books have been catalogued; books 30–32 now have content files. Key milestones:
+All 33 DNS Bhat books have been catalogued; books 30–33 now have content files. Key milestones:
 
+- **Phase 25 (2026-03-22):** Split Book 33 (*ಕನ್ನಡ ಸೊಲ್ಲರಿಮೆ*) out of Book 07's folder — the YouTube transcript was mis-shelved there. Added youtube/en/summary.md + claude-prompt.md for all 6 YouTube-only books (01, 06, 10, 11, 12, 13). All 33 books now have claude-prompt.md.
 - **Phase 24 (2026-03-22):** Added books 30, 31, 32 from PDF extraction. Book 30 (382pp Nudi): full 4-file set (raw.md, full.md with 10-chapter TOC, en/summary.md, eke/full.md) via wx_decode.py. Book 31 (487pp Nudi, A–Z dictionary): book/kn/raw.md + book/en/summary.md; English headwords partially garbled. Book 32 (214pp clean English, John Benjamins): book/en/summary.md. claude-prompt.md created for all three. dnsbhat/README.md updated with collection stats (25→32 total books across sections A–L).
 - **Phase 23 (2026-03-21):** Blog sidebar fallback fixed (Books 14, 18 now appear). Stubs sidebar category added — 16 YouTube placeholder files reclassified out of the YouTube sidebar. Books 02 and 03 YouTube transcripts enriched with link + 60-word excerpt cross-references to matching blog/book sections (Books 02: 10 Parts; Book 03: 33 of 55 Parts), using `#sec-N-M` anchors from Phase 19.
 - **Phase 22 (2026-03-21):** YouTube transcript restructuring for all books 01–13: `## Part N` → `### Part N`, `<a id="part-N">` anchors, ~80-word paragraph breaks, garbage detection, ಪರಿವಿಡಿ TOC. Book 03 additionally restructured with 9-chapter grouping matching the book's chapter structure.

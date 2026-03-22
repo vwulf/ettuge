@@ -9,36 +9,29 @@ For remaining book primers, see `claude-book-primers-2.md`.
 
 ## Book 01 — 01-idu-kannaDaddE-vyAkaraNa
 
-# Claude Prompt — Book 01: idu kannaDaddE vyAkaraNa
+# Claude Prompt — Book 01: ಇದು ಕನ್ನಡದ್ದೇ ವ್ಯಾಕರಣ
 
-## Quick Reference
-
-**Book:** *ಇದು ಕನ್ನಡದ್ದೇ ವ್ಯಾಕರಣ* (Idu KannaDaddE VyAkaraNa)
+**English title:** This Is Kannada's Own Grammar
 **Author:** D. N. Shankara Bhat
-**Published:** 2021 (single-volume consolidation of *Kannada Barahada Sollarime*, 7 vols., 2010–2019)
-**Read by:** Malati Bhat (YouTube, 3 parts)
-**Format:** YouTube only — no OCR text available for Book 01. Source is 3 YouTube auto-caption transcripts (uncleaned).
-**Transcript:** `youtube/kn/full.md` — 3 parts, ~190 lines, uncleaned run-on paragraphs
-**English summary:** `youtube/en/summary.md`
+**Published:** 2021 (single-volume consolidation of *Kannada Barahada Sollarime*, 7 vols., 2010–2019) · 253 pages
+**Language:** Kannada (*hosa baraha* reformed script throughout)
 
 ---
 
-## Central Argument
+## THESIS
 
-Existing Kannada grammars are not genuinely Kannada grammars: they impose Pāṇinian Sanskrit grammar rules onto Kannada. Bhat spent 2010–2019 writing what a genuine Kannada grammar looks like, and this book consolidates that work. The grammar is a *written* Kannada grammar (not dialect-specific), and it implements two spelling reforms:
-1. Reduce Sanskrit loanwords — prefer native Dravidian vocabulary
-2. Respell remaining Sanskrit borrowings as Kannadigas actually pronounce them (not in Sanskrit orthography)
+Existing Kannada grammars are not genuinely Kannada grammars — they merely transplant Pāṇinian Sanskrit grammar rules onto Kannada, which has an entirely different Dravidian structure. Bhat spent 2010–2019 writing what a genuine Kannada grammar looks like (7 volumes of *Kannada Barahada Sollarime*), and this 2021 book consolidates that work into a single volume. The grammar describes *written* Kannada specifically (*ellara kannaDa* — everyone's Kannada, using a 31-letter system that excludes Sanskrit aspirates), because written Kannada is more uniform across regions than spoken dialects and can serve as a practical shared standard. Alongside the grammatical description, two reforms are implemented: (1) reduce Sanskrit loanwords, prefer native Dravidian vocabulary; (2) respell remaining Sanskrit borrowings as Kannadigas actually pronounce them.
 
 ---
 
-## Book Structure (19 Chapters)
+## BOOK STRUCTURE (19 Chapters)
 
 | Ch. | Kannada title | Topic |
 |-----|--------------|-------|
-| 1 | ಮುನ್ನೋಟ | Overview: written Kannada, sentence structure, goals |
-| 2 | ಹೆಸರು ಪದಗಳ ಇಟ್ಟಳ | Noun structure: compound words, pairs (*jōDu pada*) |
+| 1 | ಮುನ್ನೋಟ | Overview: written Kannada, sentence structure, 31-letter standard, terminology |
+| 2 | ಹೆಸರು ಪದಗಳ ಇಟ್ಟಳ | Noun structure: compound words (*jōDu pada*), pairs |
 | 3 | ಉಳಿದ ಪದಗಳ ಇಟ್ಟಳ | Structure of verbs, adverbs, demonstratives, numerals, loanwords |
-| 4 | ಪದರೂಪಗಳ ಇಟ್ಟಳ | Inflectional morphology (case forms, verb endings, participial forms) |
+| 4 | ಪದರೂಪಗಳ ಇಟ್ಟಳ | Inflectional morphology: case forms, verb endings, participial forms |
 | 5 | ಎಸಕ ಪದಗಳ ಬಳಕೆ | Verb use: tense, aspect, voice, mood |
 | 6 | ಹೆಸರು ಕಂತಿಗಳ ಇಟ್ಟಳ | Noun-phrase structure |
 | 7 | ಎಸಕ ಪದಗಳ ಪಾಂಗುಗಳು | Argument structure of verbs |
@@ -47,7 +40,7 @@ Existing Kannada grammars are not genuinely Kannada grammars: they impose Pāṇ
 | 10 | ತೋರು ಪದಗಳು | Demonstratives |
 | 11 | ಪರಿಚಯ ಪದಗಳು | Adjectives and adverbs |
 | 12 | ಎಣಿಕೆ ಪದಗಳು | Numerals |
-| 13 | ಒಳ ವಾಕ್ಯಗಳ ಬಳಕೆ | Embedded/subordinate clauses |
+| 13 | ಒಳ ವಾಕ್ಯಗಳ ಬಳಕೆ | Embedded / subordinate clauses |
 | 14 | ವಾಕ್ಯಗಳ ಜೋಡಣೆ | Sentence coordination |
 | 15 | ಅಲ್ಲಗೆಳಿತದ ವಾಕ್ಯಗಳು | Negative sentences |
 | 16 | ಕೇಳ್ವಿ ವಾಕ್ಯಗಳು | Question sentences |
@@ -57,64 +50,51 @@ Existing Kannada grammars are not genuinely Kannada grammars: they impose Pāṇ
 
 ---
 
-## Key Native Grammatical Terms (Bhat's own coinage)
+## KEY NATIVE GRAMMATICAL TERMS (Bhat's own coinage)
 
-| Bhat's term | Eke | Sanskrit/English equivalent |
-|------------|-----|----------------------------|
+| Kannada | Eke | Sanskrit / English equivalent |
+|---------|-----|-------------------------------|
 | ಹೆಸರು ಪದ | hesaru pada | noun (*nāmapada*) |
 | ಎಸಕ ಪದ | esaka pada | verb (*kriyāpada*) |
-| ಪರಿಚಯ ಪದ | paricaya pada | adjective/adverb (*viśēṣaṇa*) |
+| ಪರಿಚಯ ಪದ | paricaya pada | adjective / adverb (*viśēṣaṇa*) |
 | ಆಡು ಪದ | ADu pada | pronoun (*sarvānāma*) |
 | ತೋರು ಪದ | tOru pada | demonstrative |
 | ಎಣಿಕೆ ಪದ | eNike pada | numeral (*saṅkhyā*) |
 | ಅಣಕ ಪದ | aNaka pada | ideophone / onomatopoeia |
-| ಒಟ್ಟು | ottu | suffix/affix (*pratyaya*) |
+| ಒಟ್ಟು | ottu | suffix / affix (*pratyaya*) |
 | ಪದರೂಪ | padarUpa | inflected form (*rūpa*) |
-| ಪದಕಂತೆ | padakante | phrase/constituent (*padaguṭṭa*) |
-| ಕೊಗೆತ | kogeta | noun phrase / description group |
+| ಪದಕಂತೆ | padakante | phrase / constituent |
+| ಕೊಗೆತ | kogeta | noun phrase / descriptive group |
 | ಇಟ್ಟಳ | iTTaLa | structure / morphological make-up |
 | ಪಾಂಗು | pAngu | argument / participant role |
 | ಆಗುಹ | Aguha | intransitive event (*akarmaka*) |
 | ಮಾಡುಹ | mADuha | transitive event (*sakarmaka*) |
-| ಇರುಹ | iruha | existential / stative (*sthiti*) |
+| ಇರುಹ | iruha | existential / stative |
 | ಸುಳು ವಾಕ್ಯ | suLu vAkya | simple sentence |
 | ಜೋಡು ವಾಕ್ಯ | jODu vAkya | coordinate sentence |
-| ಸಿಕ್ಕಲು ವಾಕ್ಯ | sikkalu vAkya | embedded/complex sentence |
+| ಸಿಕ್ಕಲು ವಾಕ್ಯ | sikkalu vAkya | embedded / complex sentence |
 | ಎಲ್ಲರ ಕನ್ನಡ | ellara kannaDa | everyone's Kannada (31-letter standard) |
 
 ---
 
-## Argument Structure (§1.3.2) — Quick Reference
+## REPOSITORY SOURCE
 
-| Pāngu | Eke | Suffix | Example |
-|-------|-----|--------|---------|
-| ಆಗು / ಮಾಡು | Agu / mADu | (zero — no suffix) | *magu aLuttide* (baby cries) |
-| ಈಡು | IDu | *-annu* (often dropped) | *huDuga seebe haNNu tinda* |
-| ಸುರು | suru | *-inda* | *maredinda haNNu biTTu* |
-| ಗುರಿ | guri | *-ge* | *huDugige pustaka siккitu* |
-| ಜಾಗ | jAga | *-alli* | *angaLadalli hullu beLedide* |
+**YouTube transcript (Kannada):** `youtube/kn/full.md` — 3 parts, ~194 lines. Uncleaned YouTube auto-captions; text is continuous run-on prose with no punctuation, but fully readable. Part 1 contains the full 19-chapter table of contents (*ಒಳಪಿಡಿ*) read aloud. Section numbers from the book (e.g. §1.2.3, §1.3.1) are preserved in the transcript.
 
----
+**English summary:** `youtube/en/summary.md` — full part-by-part analysis with key concepts table.
 
-## Relationship to Other Books
+No OCR text available for Book 01; the YouTube transcript is the only source in this repository.
 
-| Book | Relationship |
-|------|-------------|
-| 07 — Kannada Barahada Sollarime (7 vols.) | Source series: Book 01 is the consolidated, revised single-volume edition |
-| 14 — Nijakku HaLegannaDA VyAkaraNa Entahadu | Historical complement: what Old Kannada grammar was and why it got distorted |
-| 08 — KannaDakke MahAprANa Yake BEDa | Focused application of Book 01's spelling reform #2 (remove aspirates) |
-| 03 — Namma Nudigala Beradu | Dialectological complement: the spoken variation that Book 01's written standard transcends |
+Script: *hosa baraha* throughout — aspirated Kannada letters replaced by non-aspirated equivalents in Bhat's own writing.
 
 ---
 
-## Files
+## CONNECTIONS TO OTHER BOOKS
 
-| File | Path |
-|------|------|
-| YouTube transcript (Kannada) | `youtube/kn/full.md` |
-| English summary | `youtube/en/summary.md` |
-| Book description (raw) | `description-raw.md` |
-| README | `README.md` |
+- **Book 07** (*Kannada Barahada Sollarime*, 7 vols.) — the direct source series: Book 01 is the consolidated, revised single-volume edition of all seven volumes
+- **Book 02** (*Kannada Padagala OLaracane*) — deeper treatment of word structure (*iTTaLa*), the topic of Book 01 Chs. 2–3
+- **Book 14** (*Nijakku HaLegannaDA VyAkaraNa Entahadu*) — historical complement: Old Kannada grammar and why Sanskrit grammar distorted its description
+- **Book 08** (*KannaDakke MahAprANa Yake BEDa*) — focused application of the spelling reform: the argument for removing aspirate letters (*mahāprāṇa*) from the standard Kannada script
 
 
 ---
@@ -1202,40 +1182,50 @@ The book's unifying argument is that **Kannada must be understood on its own ter
 
 # Claude Prompt — Book 06: ಕಲಿಕೆನುಡಿ ಮತ್ತು ನುಡಿಕಲಿಕೆ
 
-**English title:** Language Learning and Learning Language
+**English title:** Language of Learning and Language-Learning
 **Author:** D. N. Shankara Bhat
-**Speaker (YouTube):** Malati Bhat (DNS Bhat's daughter) reads the text aloud
+**Read by (YouTube):** Malati Bhat (DNS Bhat's daughter) reads the text aloud to a live audience
+**Published:** 2019 · 104 pages
 **Language:** Kannada (*hosa baraha* reformed script)
-**Series:** Part of the DNS Bhat books read aloud on YouTube (Books 01–13 available only as YouTube transcripts — no OCR text)
+**Series:** DNS Bhat books read aloud on YouTube (Books 01–13: YouTube transcripts only, no OCR text)
 
 ---
 
 ## THESIS
 
-The title is a deliberate wordplay inverting ಕಲಿಕೆ (learning) and ನುಡಿ (language/speech):
-- **ಕಲಿಕೆನುಡಿ**: the language used *as the medium* of learning (school instruction language)
-- **ನುಡಿಕಲಿಕೆ**: the act of *learning a language* (language as a subject)
+The title is a deliberate two-word inversion:
+- **ಕಲಿಕೆನುಡಿ** (kalikenuDi): the language used *as the medium* of learning — school instruction language
+- **ನುಡಿಕಲಿಕೆ** (nuDikalike): the act of *learning a language* — language as a subject
 
-Bhat's core argument: children taught through a non-native medium (English) are cognitively disadvantaged — mother-tongue medium is essential for genuine learning. The book likely surveys international evidence (Japan, China, Korea, Hawaii, Portugal mentioned in fragments) alongside Dravidian language comparison (Tamil, Telugu grammar systems) to argue that Kannada children must be taught in Kannada.
+Bhat's argument (from book description):
+1. Children learn their first language naturally; a second language is best learned *using* the first as a scaffold
+2. Removing that scaffold — teaching content directly through an unfamiliar language like English — leaves most children unable to progress properly
+3. Five to six years of preparation in a new medium language is required before it can function as a teaching medium
+4. The mother tongue is therefore the only appropriate medium for teaching mathematics, science, and other subjects in early schooling
+5. Schools can subsequently teach children to speak and write in the standard (*ellara*) Kannada dialect, which differs somewhat from their home dialect — but the transition should happen *after* the foundation is laid in the mother tongue
+
+Cross-linguistic and international evidence (keywords from transcript fragments: Japan, China, Korea, Portugal) is cited to support this position, and Sanskrit-based models for language education are explicitly examined and rejected as inapplicable.
 
 ---
 
 ## TRANSCRIPT STATUS
 
-**Source:** `youtube/kn/full.md` — 21-part series (P1, P2, Parts 1–19)
+**Source:** `youtube/kn/full.md` — 21-part series (Parts P1, P2, 1–19)
 
-**Overall quality: Very poor — essentially unusable for content recovery.**
+**Overall quality: Very poor — no prose recoverable from transcripts.**
 
-| Recoverable | Count |
-|-------------|-------|
+| Category | Count |
+|----------|-------|
 | Parts with ಭಾಷಾಂತರ ಲಭ್ಯವಿಲ್ಲ (no transcript) | 9 |
 | Parts with garbled Hindi/mixed ASR output | 10 |
-| Parts with partial Kannada keyword signal | ~5 |
+| Parts with partial keyword signal only | ~5 |
 | Parts with usable prose | 0 |
 
-Most parts are Hindi-Kannada ASR noise or YouTube's auto-captions misfiring on Kannada speech. P2 is English-transcribed introduction ("famous linguist… daughter… going to read").
+Live-reading format (applause markers visible as [ಪ್ರಶಂಸೆ] in Parts 2 and 4). Auto-captions applied the wrong language model. P2 is English-transcribed introduction confirming the reading format.
 
-Keyword themes visible despite garbling: ವ್ಯಾಕರಣ (grammar), ಇಂಗ್ಲಿಷ್ ಮಾಧ್ಯಮ (English medium), ವಿಭಕ್ತಿ ಪ್ರತ್ಯಯ (case suffix), ಜಪಾನ್/ಚೀನ/ಕೊರಿಯಾ (comparative nations), ಸಂಸ್ಕೃತ ಪದ್ಧತಿ (Sanskrit practice) rejected.
+**Keyword themes visible despite garbling:** ವ್ಯಾಕರಣ (grammar), ಇಂಗ್ಲಿಷ್ ಮಾಧ್ಯಮ (English medium), ವಿಭಕ್ತಿ ಪ್ರತ್ಯಯ (case suffix), ಜಪಾನ್/ಚೀನ/ಕೊರಿಯಾ/ಪೋರ್ಚುಗಲ್ (comparative nations), ಸಂಸ್ಕೃತ ಪದ್ಧತಿ (Sanskrit practice) rejected
+
+**Primary source for overview:** `description-raw.md` (Wayback Machine archive of dnshankarabhat.net, snapshot 20190613005945)
 
 **English summary:** `youtube/en/summary.md`
 
@@ -1247,17 +1237,20 @@ Keyword themes visible despite garbling: ವ್ಯಾಕರಣ (grammar), ಇಂ
 |---------|-----|---------|
 | ಕಲಿಕೆನುಡಿ | kalikenuDi | medium of instruction (lit. "learning-language") |
 | ನುಡಿಕಲಿಕೆ | nuDikalike | language learning (lit. "language-learning") |
-| ತಾಯ್ನುಡಿ | tAynuDi | mother tongue |
-| ಮಾತ್ರುಭಾಷೆ | mAtxbASe | mother tongue (Sanskrit-derived term Bhat avoids) |
+| ತಾಯ್ನುಡಿ | tAynuDi | mother tongue (Bhat's native Kannada term) |
+| ಮಾತ್ರুಭಾಷೆ | mAtxbASe | mother tongue (Sanskrit-derived term Bhat avoids) |
 | ಇಂಗ್ಲಿಷ್ ಮಾಧ್ಯಮ | ingliS mAdhyama | English medium (schooling) |
+| ಶಿಕ್ಷಣ | SikSaNa | education (Sanskrit-derived; Bhat may use ಕಲಿಕೆ) |
+| ಎಲ್ಲರ ಕನ್ನಡ | ellara kannaDa | shared/standard Kannada (all-Kannadigas' Kannada) |
 
 ---
 
 ## CONNECTIONS TO OTHER BOOKS
 
-- **Book 04** (ಬಾಶೆ ಮತ್ತು ಕಲಿಕೆ — Language and Learning): likely the direct companion/predecessor to Book 06
+- **Book 04** (ಬಾಶೆ ಮತ್ತು ಕಲಿಕೆ — Language and Learning): likely the companion or predecessor to Book 06 on the same language-and-education theme
 - **Book 07** (ಕನ್ನಡ ಶಾಲೆ ಮತ್ತು ಕನ್ನಡ ಕಲಿಕೆ): extends the argument to Kannada schooling specifically
-- **Book 30, Chapter 2** (Kannada is not derived from Sanskrit): provides the linguistic foundation for why native-language teaching is appropriate
+- **Book 29** (ಕನ್ನಡ ವ್ಯಾಕರಣ ಯಾಕೆ ಬೇಕು): why Kannada grammar instruction in Kannada matters
+- **Book 30, Ch. 2** (Kannada is not derived from Sanskrit): the linguistic foundation for why native-language teaching is appropriate
 - DNS Bhat's lifelong campaign against English-medium schooling for Kannada children runs through multiple books and essays
 
 
@@ -1782,42 +1775,53 @@ For technical phonological or morphological details not available from the trans
 
 # Claude Prompt — Book 10: ಕನ್ನಡ ನುಡಿಯ ಹಿನ್ನಡವಳಿ
 
-**English title:** The Background / Historical Development of Kannada Language
+**English title:** A Concise History of Kannada
 **Author:** D. N. Shankara Bhat
-**Speaker (YouTube):** Malati Bhat reads DNS Bhat's writings
+**Read by (YouTube):** Malati Bhat (DNS Bhat's daughter) reads the text aloud to a live audience
+**Published:** 2016 (revised edition) · 95 pages
 **Language:** Kannada (*hosa baraha* reformed script)
-**Series:** Part of the DNS Bhat books read aloud on YouTube (Books 01–13 available only as YouTube transcripts — no OCR text)
+**Series:** DNS Bhat books read aloud on YouTube (Books 01–13: YouTube transcripts only, no OCR text)
 
 ---
 
 ## THESIS
 
-ಹಿನ್ನಡವಳಿ is DNS Bhat's native coinage for "history/background" (ಹಿನ್ನ = prior/behind + ನಡವಳಿ = process/progression — avoiding the Sanskrit ಇತಿಹಾಸ). This is a book on the historical linguistics of Kannada as a Dravidian language:
+ಹಿನ್ನಡವಳಿ is DNS Bhat's native coinage for "history/background" — ಹಿನ್ನ (prior/behind) + ನಡವಳಿ (process/progression) — avoiding the Sanskrit-derived ಇತಿಹಾಸ. This is a book on the historical linguistics of Kannada as a Dravidian language.
 
-- Kannada's origins in proto-Dravidian (not Sanskrit or any Indo-Aryan source)
-- Comparative evidence from Tamil, Malayalam, Telugu, Tulu, Badaga, and Nilgiri dialects
-- Historical development of verb forms, case markers, and word classes in Kannada
-- Early Kannada grammarians and their works (Keshiraja, Nagavarma)
-- Regional dialectal diversity as evidence for the internal history of Kannada
+From the book description (primary source):
+- Kannada's history is traced through comparative study of related Dravidian languages (Tamil, Telugu, Gondi, Kurukh) — not merely through ancient inscriptions
+- The book reconstructs Kannada's descent from Proto-Dravidian (the hypothesized common ancestor of all Dravidian languages)
+- It describes the evolution of Proto-Kannada from Proto-Dravidian, and then the evolution of present-day Kannada dialects from Proto-Kannada
+- This is an explicitly anti-Sanskrit-genealogy account: Kannada's history is rooted in Dravidian, not Indo-Aryan
 
-This book likely argues that the correct historical narrative of Kannada must be grounded in Dravidian comparative linguistics — not the traditional account that inflates Sanskrit's role.
+From transcript keyword fragments:
+- Adjectives and adverbs (ವಿಶೇಷಣಾಪದಗಳ): word class evolution in the historical record
+- Verb forms (ಕ್ರಿಯಾ ರೂಪಗಳು): historical development of Kannada verbal morphology
+- Case markers (ಕಾರಕ): case system in historical context
+- Early grammarians (ಸರ್ವಪ್ರಥಮ ಕನ್ನಡ ವ್ಯಾಕರಣ): the first Kannada grammars
+- Dialects: Badaga, coastal Kannada, Nilgiri varieties as evidence for internal historical reconstruction
+
+This book is a revised and expanded version of Bhat's 1979 *Kannaḍa Bhāṣeya Sankshipta Charitre*, incorporating material from his 2007 *Kannaḍa Nuḍi Naḍedu Banda Dāri* (Book 17).
 
 ---
 
 ## TRANSCRIPT STATUS
 
-**Source:** `youtube/kn/full.md` — 14-part series (P1, P2, Parts 1, 2, 4–12; Part 3 absent from TOC)
+**Source:** `youtube/kn/full.md` — 14-part series (P1, P2, Parts 1, 2, 4–12; Part 3 absent from series)
 
 **Overall quality: Very poor — no prose recoverable.**
 
-| Recoverable | Count |
-|-------------|-------|
+| Category | Count |
+|----------|-------|
 | Parts with ಭಾಷಾಂತರ ಲಭ್ಯವಿಲ್ಲ (no transcript) | 5 |
 | Parts with garbled Hindi/mixed ASR output | 8 |
 | Parts with partial Kannada keyword signal | 5 |
+| Parts with numeric encoding error (Part 10) | 1 |
 | Parts with usable prose | 0 |
 
-Notable: Part 10 contains a numeric encoding artefact ("emb 3 . 0 , 0 . . . 5 6 ill ID ID") — transcript system error. Part 11 is an extremely long word dump with dense Dravidian dialect vocabulary (Badaga, Nilgiri) that signals the content but cannot be read as prose.
+Part 11 is an extremely long single-line word dump with dense Dravidian dialect vocabulary (Badaga, Nilgiri terms) that signals rich content but is not readable as prose. Part 10 has a transcript system error producing numeric artifacts.
+
+**Primary source for overview:** `description-raw.md` (Wayback Machine archive of dnshankarabhat.net, snapshot 20170214230554)
 
 **English summary:** `youtube/en/summary.md`
 
@@ -1829,20 +1833,22 @@ Notable: Part 10 contains a numeric encoding artefact ("emb 3 . 0 , 0 . . . 5 6 
 |---------|-----|---------|
 | ಹಿನ್ನಡವಳಿ | hinnaD avaLi | historical development (Bhat's native coinage) |
 | ಪ್ರೊಟೊ-ದ್ರಾವಿಡ | proTo-drAviDa | proto-Dravidian |
+| ಪ್ರೊಟೊ-ಕನ್ನಡ | proTo-kannaDa | proto-Kannada |
 | ನುಡಿ-ಕುಟುಂಬ | nuDi-kuTumba | language family |
 | ಕ್ರಿಯಾ ರೂಪ | kriyA rUpa | verb form |
 | ಕಾರಕ | kAraka | case (grammatical) |
-| ವಿಶೇಷಣ | viSESaNa | adjective (Sanskrit-derived; Bhat may use ಗುಣಪದ instead) |
-| ಗುಣಪದ | guNapada | adjective (Bhat's native term) |
+| ಗುಣಪದ | guNapada | adjective (Bhat's native term; vs. Sanskrit ವಿಶೇಷಣ) |
+| ಉಪಭಾಷೆ | upabASe | dialect |
 
 ---
 
 ## CONNECTIONS TO OTHER BOOKS
 
-- **Book 14** (ನಿಜಕ್ಕು ಹಳೆಗನ್ನಡ ವ್ಯಾಕರಣ ಎಂತಹದು — What Is Old Kannada Grammar Really Like): the grammar companion — Book 10 provides the historical survey, Book 14 analyses the grammar framework
-- **Book 30, Chapter 2** (ಕನ್ನಡ ನುಡಿ ಸಂಸ್ಕ್ರುತದಿಂದ ಬೆಳೆದು ಬಂದಿಲ್ಲ — Kannada did not evolve from Sanskrit): Book 30 ch. 2 is likely a condensed version of Book 10's core argument
-- **Book 32** (The Prominence of Tense, Aspect and Mood — English academic book): provides the typological foundation underpinning Book 10's historical claims
-- DNS Bhat's broader Dravidian scholarship: Book 10 is the popular-audience version of the academic argument made in Book 32
+- **Book 14** (ನಿಜಕ್ಕೂ ಹಳೆಗನ್ನಡ ವ್ಯಾಕರಣ ಎಂತಹದು): the grammar companion — Book 10 provides the historical survey; Book 14 analyses the Old Kannada grammar framework
+- **Book 17** (ಕನ್ನಡ ನುಡಿ ನಡೆದು ಬಂದ ದಾರಿ): Bhat's 2007 book whose contents were incorporated into this 2016 revision
+- **Book 30, Ch. 2** (Kannada did not evolve from Sanskrit): likely a condensed version of Book 10's core argument
+- **Book 32** (The Prominence of Tense, Aspect and Mood — English, John Benjamins): the academic-register version of the typological argument underlying Book 10's historical claims
+- DNS Bhat's broader project: establishing Kannada as a fully independent Dravidian language with no need for a Sanskrit-derived historical narrative
 
 
 ---
@@ -1851,25 +1857,27 @@ Notable: Part 10 contains a numeric encoding artefact ("emb 3 . 0 , 0 . . . 5 6 
 
 # Claude Prompt — Book 11: ಕನ್ನಡ ಬರಹದ ಪದಸಮಸ್ಯೆ
 
-**English title:** The Word Problem in Written Kannada
+**English title:** The Word Problem in Kannada Script
 **Author:** D. N. Shankara Bhat
-**Speaker (YouTube):** Malati Bhat reads DNS Bhat's writings
+**Read by (YouTube):** Malati Bhat (DNS Bhat's daughter) reads the text aloud
+**Published:** date unknown
 **Language:** Kannada (*hosa baraha* reformed script)
-**Series:** Part of the DNS Bhat books read aloud on YouTube (Books 01–13 available only as YouTube transcripts — no OCR text)
+**Series:** DNS Bhat books read aloud on YouTube (Books 01–13: YouTube transcripts only, no OCR text)
 
 ---
 
 ## THESIS
 
-ಪದಸಮಸ್ಯೆ = ಪದ (word) + ಸಮಸ್ಯೆ (problem). The "word problem" in written Kannada is:
+ಪದಸಮಸ್ಯೆ = ಪದ (word) + ಸಮಸ್ಯೆ (problem). The "word problem" in written Kannada has two dimensions:
 
-1. **Existing vocabulary:** Kannada prose is flooded with Sanskrit loanwords (ತತ್ಸಮ) even where native Kannada words exist or could be coined
-2. **New vocabulary:** When new technical or modern concepts require words, Kannada writers reflexively reach for Sanskrit roots instead of using native Dravidian morphology
-3. **Education:** The problem is perpetuated through the school system and dictionaries which legitimize Sanskrit-derived neologisms
+1. **Existing vocabulary:** Kannada prose is dominated by Sanskrit loanwords (ತತ್ಸಮ) even where native Kannada words exist or could be coined
+2. **New vocabulary:** When modern or technical concepts require new words, Kannada writers reflexively use Sanskrit roots and compounding (sandhi, samasa) rather than native Dravidian morphology and Kannada suffixes
 
-Bhat argues that the solution is to apply native Kannada word-formation rules (using Dravidian roots and Kannada suffixes — ಒಟ್ಟು) rather than Sanskrit compounding and Sanskrit roots. This is the word-reform program complementary to his script-reform program.
+Bhat's proposed solution: apply native Kannada word-formation rules — Dravidian roots + Kannada ಒಟ್ಟು (suffixes) — instead of Sanskrit-derived compounding. This is the word-reform program complementing his script-reform program (Books 07, 08, 30).
 
-**Note:** Book 30 (ಕನ್ನಡ ಬರಹವನ್ನು ಸರಿಪಡಿಸೋಣ) contains a chapter titled identically — ಕನ್ನಡ ಬರಹದ ಪದಸಮಸ್ಯೆ (Chapter 5). Book 11 is likely the earlier standalone monograph on this topic that was later condensed into Book 30's chapter structure.
+**Note:** Book 30 (ಕನ್ನಡ ಬರಹವನ್ನು ಸರಿಪಡಿಸೋಣ) contains Chapter 5 titled identically — ಕನ್ನಡ ಬರಹದ ಪದಸಮಸ್ಯೆ. Book 11 is almost certainly the earlier standalone monograph later condensed into that chapter.
+
+**No book description is available** for Book 11 — the `description-raw.md` in this directory contains a page for Book 30, not Book 11.
 
 ---
 
@@ -1879,16 +1887,19 @@ Bhat argues that the solution is to apply native Kannada word-formation rules (u
 
 **Overall quality: Catastrophically poor — worst of the four books assessed.**
 
-| Recoverable | Count |
-|-------------|-------|
+| Category | Count |
+|----------|-------|
 | Parts with ಭಾಷಾಂತರ ಲಭ್ಯವಿಲ್ಲ (no transcript) | 20 |
 | Transcript explicitly disabled (Part 19) | 1 |
-| Wrong/non-Kannada video (Part 2: Arabic) | 1 |
-| Duplicate/mismatched video (Parts 1 = 13) | 2 |
+| Wrong video / non-Kannada (Part 2: Arabic) | 1 |
+| Duplicate mismatched text (Parts 1 = 13) | 2 |
 | Parts with any Kannada content | 3 (Parts 8, 9, 1/13) |
 | Parts with usable prose | 0 |
 
-20 of 25 parts have no transcript at all. Part 19's transcript was explicitly disabled by the uploader. Part 2 pulled an Arabic video. Parts 1 and 13 have identical garbled content, likely from a wrong video match.
+20 of 25 parts have no transcript. Part 19's transcript was explicitly disabled by the uploader. Part 2 pulled an Arabic-language video (YouTube ID mismatch). Parts 1 and 13 contain identical garbled text, likely from the same wrong video matched twice.
+
+**Primary source for overview:** Inferred from book title + comparison with Book 30, Ch. 5 (identical title) + Part 8 fragment
+**No book description (description-raw.md) is available for Book 11 specifically**
 
 **English summary:** `youtube/en/summary.md`
 
@@ -1898,57 +1909,62 @@ Bhat argues that the solution is to apply native Kannada word-formation rules (u
 
 | Kannada | Eke | English |
 |---------|-----|---------|
-| ಪದಸಮಸ್ಯೆ | padasamasye | the word problem (word-formation problem) |
+| ಪದಸಮಸ್ಯೆ | padasamasye | the word problem (word-formation problem in written Kannada) |
 | ತತ್ಸಮ ಪದ | tatsama pada | Sanskrit loanword used unchanged in Kannada |
 | ತದ್ಭವ ಪದ | tadbhava pada | Sanskrit-derived word adapted to Kannada phonology |
 | ಒಟ್ಟು | oTTu | Bhat's native term for suffix (vs. Sanskrit ಪ್ರತ್ಯಯ) |
-| ಪ್ರತ್ಯಯ | prataya | suffix (Sanskrit-derived term) |
-| ತ್ರಿಶಂಕು ಪದ | triSanku pada | "triśaṅku word" — hybrid word belonging to neither Kannada nor Sanskrit properly |
-| ನಾಡ್ ನುಡಿ | nAD nuDi | native language (Bhat's preferred term for mother tongue) |
+| ಸಮಾಸ | samAsa | Sanskrit-style compound (what Bhat argues against using in Kannada) |
+| ನಾಡ್ ನುಡಿ | nAD nuDi | native language, home tongue |
+| ಕನ್ನಡದ್ದೇ ಪದ | kannaDadde pada | Kannada's own word (native-root word) |
 
 ---
 
 ## CONNECTIONS TO OTHER BOOKS
 
-- **Book 30, Chapter 5** (ಕನ್ನಡ ಬರಹದ ಪದಸಮಸ್ಯೆ — same title): likely a condensed version of this book's arguments; Book 11 is the full treatment
-- **Book 31** (ಇಂಗ್ಲಿಶ್ ಪದಗಳಿಗೆ ಕನ್ನಡದ್ದೇ ಪದಗಳು): the practical dictionary implementing the solutions proposed in Book 11 — 487-page A–Z English-to-native-Kannada lexicon
-- **Book 08** (ಕನ್ನಡಕ್ಕೆ ಮಹಾಪ್ರಾಣ ಯಾಕೆ ಬೇಡ): the script-reform companion; Books 08 and 11 together address both problems in written Kannada (script + vocabulary)
-- **Book 30, Chapter 8–9** (ಕನ್ನಡ ಪ್ರತ್ಯಯಗಳ ಬಳಕೆ, ಕನ್ನಡ ಪದಗಳ ಬಳಕೆ): the practical application chapters that follow from Book 11's diagnosis
+- **Book 08** (ಕನ್ನಡಕ್ಕೆ ಮಹಾಪ್ರಾಣ ಯಾಕೆ ಬೇಡ): script-reform companion — Books 08 and 11 together address both problems in written Kannada (aspiration/script + vocabulary)
+- **Book 30, Ch. 5** (ಕನ್ನಡ ಬರಹದ ಪದಸಮಸ್ಯೆ — same title): likely a condensed version; Book 11 is the full standalone treatment
+- **Book 31** (ಇಂಗ್ಲಿಶ್ ಪದಗಳಿಗೆ ಕನ್ನಡದ್ದೇ ಪದಗಳು): the 487-page A–Z English-to-native-Kannada dictionary implementing the principles Book 11 argues for
+- **Book 16** (ನುಡಿಯರಿಮೆಯ ಪದಗಳಿಗೆ ಕನ್ನಡದ್ದೇ ಪದಗಳು): the linguistics-domain vocabulary companion
+- **Book 30, Ch. 8–9** (Kannada suffix usage, Kannada word usage): practical application chapters following from Book 11's diagnosis
 
 
 ---
 
 ## Book 12 — 12-kannaDa-bhASheya-kalpita-caritre
 
-# Claude Prompt Context — Book 12: ಕನ್ನಡ ಭಾಷೆಯ ಕಲ್ಪಿತ ಚರಿತ್ರೆ
+# Claude Prompt — Book 12: ಕನ್ನಡ ಭಾಷೆಯ ಕಲ್ಪಿತ ಚರಿತ್ರೆ
 
-**Book:** *Kannaḍa Bhāṣheya Kalpita Caritre* ("The Reconstructed History of the Kannada Language")
+**English title:** Reconstructed History of the Kannada Language
 **Author:** D. N. Shankara Bhat
-**Format:** 2-part YouTube lecture series, read by Malati Bhat
-**Source:** Uncleaned YouTube auto-captions
-**Transcript:** `youtube/kn/full.md`
-**English summary:** `youtube/en/summary.md`
+**Published:** 1995 (1st print) · D. N. Shankara Bhat (publisher)
+**Pages:** 136 · Language: Kannada
 
 ---
 
-## Core Argument
+## THESIS
 
-This book is a methodological primer on how to write the history of the Kannada language using two complementary approaches:
+This book is a methodological primer on how to write the history of Kannada using two complementary approaches:
 
-1. **ಲಿಖಿತ ಚರಿತ್ರೆ** (*likhita caritre*, written/documented history) — compare inscriptions and literary texts across centuries to track how Kannada changed over the last ~1,500 years
-2. **ಕಲ್ಪಿತ ಚರಿತ್ರೆ** (*kalpita caritre*, reconstructed/comparative history) — compare Kannada with related Dravidian languages (Tamil, Telugu, Gondi, Kuḍux, Malayalam, Kui) and with Kannada's own dialects to reconstruct Proto-Kannada and Proto-South Dravidian
+1. **ಲಿಖಿತ ಚರಿತ್ರೆ** (*likhita caritre*, written/documented history) — compare inscriptions, poems, and prose across centuries to track how Kannada changed over the last ~1,500 years
+2. **ಕಲ್ಪಿತ ಚರಿತ್ರೆ** (*kalpita caritre*, reconstructed/comparative history) — compare Kannada with related Dravidian languages (Tamil, Telugu, Gondi, Kuḍux, Malayalam, Kui) and with Kannada's own dialects to reconstruct Proto-Kannada (*mUla kannaDa*) and Proto-South Dravidian (*mUla tenku drAviDa*)
 
-Neither method is sufficient alone. The written method is limited by:
-- Regional and caste variation within the same century confounding chronological inference
-- Writing always lagging behind speech
-- Deliberate archaism by individual authors
-- Script limitations in representing all phonological distinctions
-
-The comparative method reconstructs a *kalpita nuDi* (hypothetical proto-language) by identifying systematic sound correspondences and determining in which branch each change occurred.
+Neither method alone is sufficient. The written method is limited by regional/caste variation within the same century confounding chronological inference, writing lagging behind speech, deliberate archaism by individual authors, and script limitations. The comparative method reconstructs a *kalpita nuDi* (hypothetical proto-language) never directly attested, but it reaches back before the inscriptional record entirely. Together they are complementary.
 
 ---
 
-## Key Technical Demonstrations
+## BOOK STRUCTURE
+
+The book divides into two main units as described in the publisher description, with an introductory overview (*munnOTa*):
+
+| Unit | Content |
+|------|---------|
+| Prologue | Two methods distinguished; strengths and limitations of each; how they complement each other |
+| Unit 1 | Tracing Kannada from Proto-Dravidian — comparative method applied to Tamil, Telugu, Gondi, Kuḍux, Kui; Proto-Dravidian reconstruction |
+| Unit 2 | Tracing modern Kannada dialects from Proto-Kannada — internal dialect comparison; Proto-Kannada reconstruction; vowel-height changes, k/c alternation, other sound changes |
+
+---
+
+## KEY TECHNICAL DEMONSTRATIONS (from transcript)
 
 ### k/c alternation: Kannada–Tamil
 
@@ -1958,32 +1974,31 @@ Kannada *k* corresponds to Tamil *c* word-initially before front vowels:
 |---------|-------|-------|
 | ಕೆತ್ತು | ಚೆತ್ತು | to carve |
 | ಕೇರಿ | ಚೇರಿ | street |
-| ಕೇನೆ | ಚೇನೆ | yam |
 | ಕೆಲವು | ಚಿಲ | some |
 | ಕೆರೆ | ಚಿರೈ | lake |
 
-**Direction of change:** Tamil changed (*k* → *c* / __ front vowel); Kannada preserves the original Proto-South Dravidian *k*. Evidence: Tamil has no *k* + front vowel word-initially; Kannada has both *k* + front vowel and *c* + front vowel.
+Direction of change: Tamil innovated (k→c / __ front vowel); Kannada preserves original Proto-South Dravidian *k*. Evidence: Tamil has no *k* + front vowel word-initially; Kannada has both.
 
-### Vowel-height alternation: Nanjanguḍu vs. Puttur dialects
+### Vowel-height alternation: Nanjanguḍu vs. Puttur
 
-| Nanjanguḍu | Puttur (Havyaka) | Gloss |
-|------------|-----------------|-------|
+| Nanjanguḍu (Okkaligas) | Puttur (Havyaka) | Gloss |
+|------------------------|------------------|-------|
 | ಇಲಿ | ಎಲಿ | rat |
-| ಸಿಡಿ | ಸೆಡಿ | to burst |
 | ಕುದಿ | ಕೊದಿ | to boil |
+| ತುಳಿ | ತೊಳಿ | to tread |
 
-**Direction of change:** Nanjanguḍu changed (ಏ/ಓ → ಇ/ಉ before a following ಇ vowel — assimilation to the height of the following syllable). Havyaka and coastal dialects preserve the original vowels. Confirmed by Pre-Old Kannada (5th–6th c.) forms showing ಏ/ಓ: ಕೆಸು, ಪೆರಿಯ, ಎದಿರ್, ಪೊಗು, ಪೊರುಳ್.
+Direction of change: Nanjanguḍu innovated (ē/ō → i/u before following i-vowel — vowel assimilation). Havyaka and coastal dialects preserve original vowels. Confirmed by Pre-Old Kannada (5th–6th c.) forms: ಕೆಸು, ಪೆರಿಯ, ಎದಿರ್, ಪೊಗು, ಪೊರುಳ್.
 
 ---
 
-## Vocabulary in Eke Romanisation
+## KEY TERMS
 
-| Kannada | Eke | Meaning |
+| Kannada | Eke | English |
 |---------|-----|---------|
-| ಲಿಖಿತ ಚರಿತ್ರೆ | likhita caritre | written history |
-| ಕಲ್ಪಿತ ಚರಿತ್ರೆ | kalpita caritre | reconstructed history |
+| ಲಿಖಿತ ಚರಿತ್ರೆ | likhita caritre | written / documented history |
+| ಕಲ್ಪಿತ ಚರಿತ್ರೆ | kalpita caritre | reconstructed / comparative history |
 | ತುಲನಾತ್ಮಕ ವಿಧಾನ | tulanAtmaka vidhAna | comparative method |
-| ಆಂತರಿಕ ವಿಧಾನ | Antarika vidhAna | internal reconstruction |
+| ಆಂತರಿಕ ವಿಧಾನ | Antarika vidhAna | internal reconstruction method |
 | ಮೂಲ ದ್ರಾವಿಡ | mUla drAviDa | Proto-Dravidian |
 | ಮೂಲ ತೆಂಕು ದ್ರಾವಿಡ | mUla tenku drAviDa | Proto-South Dravidian |
 | ಮೂಲ ಕನ್ನಡ | mUla kannaDa | Proto-Kannada |
@@ -1991,30 +2006,30 @@ Kannada *k* corresponds to Tamil *c* word-initially before front vowels:
 | ಶಾಸನ | SAsan | inscription |
 | ಒಳನುಡಿ | oLanuDi | dialect |
 | ಮಾರ್ಪಾಡು | mArpADu | sound change |
-| ಕಾಲಾನುಕ್ರಮ | kAlAnukrama | chronological sequence |
-| ಕವಲೊಡೆಯು | kavaLoDeyuvudu | to branch / diverge |
 | ಪೂರ್ವ ಹಳೆಗನ್ನಡ | pUrva haLegannaDa | Pre-Old Kannada |
 | ಹಳೆಗನ್ನಡ | haLegannaDa | Old Kannada |
 | ತೊಡಕು | toDaku | counterexample / complication |
 
 ---
 
-## Related Books
+## REPOSITORY SOURCE
 
-- **Book 10** (*Kannaḍa Nuḍiya HinnaḍavaLi*) — the full comparative history of Kannada; Book 12 is the methodological introduction to it
-- **Book 02** (*Kannaḍa Nuḍiya OLaracane*) — internal structure of Kannada; provides synchronic data used in comparative reconstruction
-- **Book 04** (*Mātu Mattu Barahada Naḍuvina Gondala*) — speech vs. writing; theoretically grounds Book 12's critique of written-history limitations
-- **Book 18** — further comparative Dravidian work; cross-family correspondences extend the k/c and vowel-height analyses
+**YouTube transcript (Kannada):** `youtube/kn/full.md` — 2 parts, 91 lines. Short/partial coverage: covers the prologue, the limitations of written history, and two detailed comparative examples (k/c alternation, vowel-height shift). The book's deeper content (full Proto-Dravidian unit, full dialect branching analysis) is not in the transcript.
+
+**English summary:** `youtube/en/summary.md` — part-by-part analysis with sound-change tables and key concepts.
+
+**Publisher description:** `description-raw.md` — confirms two-unit structure: Unit 1 (from Proto-Dravidian) and Unit 2 (from Proto-Kannada to dialects).
+
+No OCR text available for Book 12; the YouTube transcript is the only textual source in this repository.
 
 ---
 
-## Files
+## CONNECTIONS TO OTHER BOOKS
 
-| File | Path |
-|------|------|
-| Transcript (Kannada) | `youtube/kn/full.md` |
-| English summary | `youtube/en/summary.md` |
-| This prompt | `claude-prompt.md` |
+- **Book 10** (*Kannada NuDiya HinnaDAvaLi*) — the full comparative history of Kannada; Book 12 is the methodological introduction to what Book 10 does in practice
+- **Book 02** (*Kannada NuDiya OLaracane*) — synchronic structure of Kannada; provides the descriptive data used as input to comparative reconstruction
+- **Book 04** (*MAtu Mattu Barahada NaDuvina Gondala*) — speech vs. writing; grounds Book 12's critique of the written-history method: writing captures only a slice of speech
+- **Book 22** (*Sound Change*) — academic treatment of sound change typology; the theoretical background to the k/c and vowel-height examples demonstrated in Book 12
 
 
 ---
@@ -2023,37 +2038,37 @@ Kannada *k* corresponds to Tamil *c* word-initially before front vowels:
 
 # Claude Prompt — Book 13: ದಾರೆಗೆ ದೊಡ್ಡವರು
 
-**English title:** Great Scholars on the Path (tentative) / Those Who Are Great on the Way
-**Author:** D. N. Shankara Bhat (attributed); but see speaker note below
-**Speaker (YouTube):** NOT Malati Bhat reading Bhat's text — see critical note
-**Language:** Kannada
-**Series:** Listed in DNS Bhat books read aloud channel (Books 01–13)
+**English title:** Great Ones on the Path (tentative)
+**Author:** D. N. Shankara Bhat (attributed) — but see critical note below
+**Read by (YouTube):** Listed as Malati Bhat, but content contradicts this — see note
+**Published:** date unknown
 **Parts:** 4
+**Language:** Kannada
+**Series:** Listed in DNS Bhat books read aloud on YouTube (Books 01–13)
 
 ---
 
-## CRITICAL NOTE: This Is NOT a Book Reading
+## CRITICAL NOTE: This Is NOT a Standard Book Reading
 
-**The readable parts (3 and 4) of this series refer to DNS Bhat and his works in the THIRD PERSON.** Phrases like "ಶಂಕರಭಟ್ಟರ ಪುಸ್ತಕ" (Shankara Bhat's book), "ಶಂಕರಭಟ್ಟರ ಕೃತಿ" (Shankara Bhat's work), "ಶಂಕರಭಟ್ಟರ ಚಿಂತನೆ" (Shankara Bhat's thinking) confirm that a commentator — not Bhat — is speaking.
+The readable parts (3 and 4) of this series refer to DNS Bhat and his works in the **third person**: "ಶಂಕರಭಟ್ಟರ ಪುಸ್ತಕ" (Shankara Bhat's book), "ಶಂಕರಭಟ್ಟರ ಕೃತಿ" (Shankara Bhat's work), "ಶಂಕರಭಟ್ಟರ ಚಿಂತನೆ" (Shankara Bhat's thinking). This is not Bhat speaking about his own work, nor Malati Bhat reading Bhat's text — it is a commentator or scholar discussing Bhat's contributions.
 
-**Likely nature of content:** A panel discussion, symposium proceedings, or felicitation volume where scholars discuss and praise DNS Bhat's linguistic contributions. The title ದಾರೆಗೆ ದೊಡ್ಡವರು ("Great figures on the [linguistic] path") supports this: it honors eminent scholars (Bhat and colleagues) who pioneered Kannada linguistic reform.
+**Most likely interpretation:** ದಾರೆಗೆ ದೊಡ್ಡವರು is a panel discussion, symposium proceedings, or felicitation volume where scholars discuss and praise DNS Bhat's linguistic contributions. The title ("Great figures on the [linguistic] path") supports this — it honors eminent scholars who led Kannada's linguistic reform movement.
 
-The 4-part structure indicates a short book — possibly a collection of review essays or a recorded discussion.
+The 4-part structure indicates a short book — possibly a collection of review essays or a recorded symposium discussion.
+
+Parts 1 and 4 appear to contain transcript content from a different lecture series entirely (a Kannada grammar lecture on pronouns referencing ancient grammarians Keshiraja and Nagavarma) — these are likely mismatched videos.
 
 ---
 
-## CONTENT SUMMARY (from Part 3 — the only usable transcript)
+## CONTENT SUMMARY (from Part 3 — the only reliable transcript)
 
 A commentator praises Bhat's word-formation book (almost certainly Book 11 or Book 30):
-
-- The book shows how Sanskrit and English words have "developed and transformed enormously" in Kannada
-- It analyzes Kannada sentence structure and how meaning is conceived in Kannada
-- It rejects Sanskrit grammatical rules and instead establishes Kannada's own rules for nouns, pronouns, verbs, adjectives
-- The commentator calls it "revolutionary" (ಕ್ರಾಂತಿಕಾರೀ) and "supremely important" (ಅತ್ಯಂತ ಮಹತ್ವಪೂರ್ಣ)
-- Recommends it for use in all primary schools and colleges for Kannada grammar instruction
-- Mentions a "full English translation" of the book (possibly Book 32 or a related English publication)
-
-Part 1 (duplicate in Part 4) appears to be mismatched content from a Kannada grammar lecture on pronouns (ಸರ್ವನಾಮ), referencing ancient grammarians Keshiraja (ಶಬ್ದಮಣಿದರ್ಪಣ) and Nagavarma — likely from a different series entirely.
+- Shows how Sanskrit and English words have "developed and transformed enormously" in Kannada
+- Analyzes Kannada sentence structure and how meaning is conceived natively in Kannada
+- Rejects Sanskrit grammatical rules; establishes Kannada's own rules for nouns, pronouns, verbs, adjectives
+- Called "revolutionary" (ಕ್ರಾಂತಿಕಾರೀ) and "supremely important" (ಅತ್ಯಂತ ಮಹತ್ವಪೂರ್ಣ)
+- Recommended for all primary schools and colleges for Kannada grammar instruction
+- A "full English translation" is mentioned — possibly Book 32 or a related publication
 
 ---
 
@@ -2063,10 +2078,12 @@ Part 1 (duplicate in Part 4) appears to be mismatched content from a Kannada gra
 
 | Part | Status |
 |------|--------|
-| Part 1 | Garbled + ಭಾಷಾಂತರ marker — content appears mismatched (pronouns lecture) |
+| Part 1 | Garbled + unavailable marker — appended content is from a different lecture (pronouns grammar); duplicate of Part 4 |
 | Part 2 | ಭಾಷಾಂತರ ಲಭ್ಯವಿಲ್ಲ (no transcript) |
-| Part 3 | READABLE — commentator praising Bhat's word-formation book |
-| Part 4 | Duplicate of Part 1 content |
+| Part 3 | READABLE — commentator praising Bhat's word-formation book (Book 11 or 30) |
+| Part 4 | Duplicate of Part 1 content — same mismatched lecture text |
+
+**No book description available** — no `description-raw.md` was retrieved for this book.
 
 **English summary:** `youtube/en/summary.md`
 
@@ -2081,17 +2098,17 @@ Part 1 (duplicate in Part 4) appears to be mismatched content from a Kannada gra
 | ಕ್ರಾಂತಿಕಾರೀ | krAntikarI | revolutionary |
 | ಶಬ್ದ ರಚನೆ | Sabda racane | word formation |
 | ಪಾರಿಭಾಷಿಕ ಪದ | pAribASika pada | technical term |
-| ಕ್ರಿಯಾಪದ | kriyApada | verb |
 | ಸರ್ವನಾಮ | sarvanAma | pronoun |
+| ಶಬ್ದಮಣಿದರ್ಪಣ | SabdamaNidarpaNa | Keshiraja's 13th-century Kannada grammar text |
 
 ---
 
 ## CONNECTIONS TO OTHER BOOKS
 
-- **Book 11** (ಕನ್ನಡ ಬರಹದ ಪದಸಮಸ್ಯೆ): the book most likely praised in Part 3's commentary
-- **Book 30** (ಕನ್ನಡ ಬರಹವನ್ನು ಸರಿಪಡಿಸೋಣ): may also be the subject of commentary — the "full English translation" mentioned could relate to Book 32
-- **Book 32** (The Prominence of Tense, Aspect and Mood — John Benjamins, English): the "English translation/publication" mentioned by the commentator in Part 3
-- The ancient grammarians mentioned in Part 1/4 (Keshiraja, Nagavarma) are also discussed in **Book 14** (Old Kannada grammar)
+- **Book 11** (ಕನ್ನಡ ಬರಹದ ಪದಸಮಸ್ಯೆ): the book most likely praised in Part 3's commentary — the "word-formation book" described
+- **Book 30** (ಕನ್ನಡ ಬರಹವನ್ನು ಸರಿಪಡಿಸೋಣ): may also be the subject of Part 3's commentary
+- **Book 32** (The Prominence of Tense, Aspect and Mood — John Benjamins): likely the "full English translation/publication" mentioned in Part 3
+- **Book 14** (ನಿಜಕ್ಕೂ ಹಳೆಗನ್ನಡ ವ್ಯಾಕರಣ ಎಂತಹದು): the ancient grammarians Keshiraja and Nagavarma mentioned in Parts 1/4 are also discussed in Book 14
 
 
 ---
@@ -3139,78 +3156,4 @@ This book is foundational for understanding the Dravidian dialectology of coasta
 | Vowel-raising | The 8th-century sound change e > i, o > u that defines non-coastal Kannada; absent in Havyaka |
 | Gloss | English translation provided with each example in the grammar |
 | OCR errors | The DjVu source was digitized automatically; the text contains scanning artifacts |
-
-
----
-
-## Book 30 — 30-kannaDa-barahavannu-saripaDisONa
-
-# Claude Prompt — Book 30: ಕನ್ನಡ ಬರಹವನ್ನು ಸರಿಪಡಿಸೋಣ
-
-**English title:** Let Us Rectify Written Kannada
-**Author:** D. N. Shankara Bhat
-**Published:** 2006 (1st ed.); 2009 (2nd ed.) · Bāshā Prakāshana, Heggodu, Sagara
-**Pages:** 382 · Language: Kannada (*hosa baraha* reformed script)
-
----
-
-## THESIS
-
-Kannada writing is unnecessarily complicated because it copies Sanskrit orthographic practices — specifically (1) using *mahāprāṇa* letters (ಖ, ಘ, ಛ, ಝ…) for Sanskrit loanwords even though Kannada speakers don't distinguish these sounds, and (2) using Sanskrit-style word formations instead of native Dravidian ones. This book is the comprehensive companion to Book 08 (*Kannadakke Mahāprāṇa Yāke Bēḍa*): where Book 08 makes the phonological argument for dropping aspirates, Book 30 covers the *full* case for script and word reform.
-
----
-
-## CHAPTER MAP
-
-The book divides into two parts — script reform (Ch. 1–4) and word reform (Ch. 5–10):
-
-| Ch | Title | Key argument |
-|----|-------|-------------|
-| 1 | ಮುನ್ನೋಟ (Overview) | Kannada can gain full benefits as a modern language if its script is simplified |
-| 2 | ಕನ್ನಡ ನುಡಿ ಸಂಸ್ಕ್ರುತದಿಂದ ಬೆಳೆದು ಬಂದಿಲ್ಲ | Kannada is Dravidian, not derived from Sanskrit — the historical myth is false |
-| 3 | ಕನ್ನಡದಲ್ಲಿ ಸ್ಪೆಲ್ಲಿಂಗ್ ಸಮಸ್ಯೆ | Spelling inconsistency arises from imposing Sanskrit rules on Kannada phonology |
-| 4 | ಕನ್ನಡಕ್ಕೊಂದು 'ಹೊಸ ಬರಹ' | Proposal for the reformed *hosa baraha* script — phonemic, consistent, learnable |
-| 5 | ಕನ್ನಡ ಬರಹದ ಪದಸಮಸ್ಯೆ | The word-formation problem: Kannada writers reach for Sanskrit when new words are needed |
-| 6 | ಕನ್ನಡ ಬರಹಗಳಲ್ಲಿ ಸಂಸ್ಕ್ರುತ ಪದಗಳು | How Sanskrit words have flooded Kannada prose |
-| 7 | ವಿಜ್ನಾನ ಬರಹಗಳಲ್ಲಿ ಸಂಸ್ಕ್ರುತ ಪದಗಳು | Science writing in Kannada: especially heavy Sanskrit burden |
-| 8 | ಕನ್ನಡ ಪ್ರತ್ಯಯಗಳ ಬಳಕೆ | Using native Kannada suffixes for new coinages |
-| 9 | ಕನ್ನಡ ಪದಗಳ ಬಳಕೆ | Using native Kannada root words |
-| 10 | ಮುಕ್ತಾಯ (Conclusion) | Summary of the reform agenda |
-
----
-
-## KEY TERMS
-
-| Kannada | Eke | English |
-|---------|-----|---------|
-| ಹೊಸ ಬರಹ | hosa baraha | "new writing" — Bhat's reformed script |
-| ಲಿಪಿ-ಕ್ರಾಂತಿ | lipi-krAnti | script revolution |
-| ಪದ-ಕ್ರಾಂತಿ | pada-krAnti | word revolution |
-| ಮಹಾಪ್ರಾಣ | mahAprANa | aspirated consonants (argued unnecessary for Kannada) |
-| ತ್ರಿಶಂಕು ಪದ | triSanku pada | "triśaṅku word" — Sanskrit-Kannada hybrid, belonging to neither |
-| ಪ್ರತ್ಯಯ | prataya | suffix (Bhat uses this Sanskrit term for Kannada suffixes too) |
-| ಒಟ್ಟು | oTTu | Bhat's native-Kannada term for "suffix" |
-
----
-
-## REPOSITORY SOURCE
-
-**Structured Kannada text:** `book/kn/full.md` — 10-chapter structured file with ಒಳಪಿಡಿ TOC and `<a id="ch1">` through `<a id="ch10">` anchors. Extracted from Nudi-font PDF via wx_decode.py.
-
-**Raw OCR archive:** `book/kn/raw.md` — do not edit; 428K chars.
-
-**English summary:** `book/en/summary.md` — full chapter-by-chapter analysis.
-
-**Eke romanisation:** `book/eke/full.md` — all 10 chapters transliterated with matching anchors.
-
-Script: *hosa baraha* throughout — aspirated Kannada letters replaced by their non-aspirated equivalents (ಭ→ಬ, ಧ→ದ, ಘ→ಗ etc.). Citation quotes in kn.md standardised to curly single quotes `'word'` (U+2018/U+2019).
-
----
-
-## CONNECTIONS TO OTHER BOOKS
-
-- **Book 08** (*Kannadakke Mahāprāṇa Yāke Bēḍa*): the phonological argument for script reform — Book 30 is the broader companion
-- **Book 31** (*Ingli​sh Padagalige Kannadaddē Padagalu*): dictionary implementing the word-reform principles of Ch. 5–9
-- **Book 14** (*Nijakku Halegannada Vyākarana Entahadu*): Old Kannada grammar — explains why Sanskrit grammar doesn't apply to Kannada
-- **Book 32** (*The Prominence of Tense, Aspect and Mood*): the academic typological foundation for "Kannada is Dravidian, not Sanskrit-derived"
 

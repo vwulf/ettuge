@@ -1894,8 +1894,9 @@ ettuge/
 
 ### Current Status (as of 2026-03-22, Phase 24)
 
-All 32 DNS Bhat books have been catalogued; books 30–32 now have content files. Key milestones:
+All 33 DNS Bhat books have been catalogued; books 30–33 now have content files. Key milestones:
 
+- **Phase 25 (2026-03-22):** Split Book 33 (*ಕನ್ನಡ ಸೊಲ್ಲರಿಮೆ*) out of Book 07's folder — the YouTube transcript was mis-shelved there. Added youtube/en/summary.md + claude-prompt.md for all 6 YouTube-only books (01, 06, 10, 11, 12, 13). All 33 books now have claude-prompt.md.
 - **Phase 24 (2026-03-22):** Added books 30, 31, 32 from PDF extraction. Book 30 (382pp Nudi): full 4-file set (raw.md, full.md with 10-chapter TOC, en/summary.md, eke/full.md) via wx_decode.py. Book 31 (487pp Nudi, A–Z dictionary): book/kn/raw.md + book/en/summary.md; English headwords partially garbled. Book 32 (214pp clean English, John Benjamins): book/en/summary.md. claude-prompt.md created for all three. dnsbhat/README.md updated with collection stats (25→32 total books across sections A–L).
 - **Phase 23 (2026-03-21):** Blog sidebar fallback fixed (Books 14, 18 now appear). Stubs sidebar category added — 16 YouTube placeholder files reclassified out of the YouTube sidebar. Books 02 and 03 YouTube transcripts enriched with link + 60-word excerpt cross-references to matching blog/book sections (Books 02: 10 Parts; Book 03: 33 of 55 Parts), using `#sec-N-M` anchors from Phase 19.
 - **Phase 22 (2026-03-21):** YouTube transcript restructuring for all books 01–13: `## Part N` → `### Part N`, `<a id="part-N">` anchors, ~80-word paragraph breaks, garbage detection, ಪರಿವಿಡಿ TOC. Book 03 additionally restructured with 9-chapter grouping matching the book's chapter structure.
@@ -2407,7 +2408,7 @@ pip install -r requirements.txt
 | 04 | mAtu mattu barahada naDuvina gondala | Kannada | — | YouTube | ⚠️ Partial |
 | 05 | mAtina oLaguTTu | Kannada | — | YouTube | ✅ Transcript |
 | 06 | kalikenuDi mattu nuDikalike | Kannada | — | YouTube | ❌ Corrupted |
-| 07 | kannaDa barahada sollarime (7 vols) | Kannada | 2010–2019 | Website + YouTube + **PDF vol1+2** | ⚠️ PDF (WX font) |
+| 07 | kannaDa barahada sollarime (7 vols) | Kannada | 2010–2019 | Website + **PDF vol1+2** | ⚠️ PDF (WX font) |
 | 08 | kannaDakke mahAprANa yAke bEDa | Kannada | 2017 | PDF + DjVu | ✅ Full text |
 | 09 | havyaka kannaDa (popular) | Kannada | — | YouTube | ⚠️ Partial |
 | 10 | kannaDa nuDiya hinnaDavaLi | Kannada | — | YouTube | ⚠️ Partial |
@@ -2430,6 +2431,7 @@ pip install -r requirements.txt
 | 27 | bhASheya bagge *(ಭಾಷೆಯ ಬಗ್ಗೆ)* | Kannada | 1970/2010 | **PDF** (4th ed.) | ⚠️ PDF (WX font, 208p) — **NEW** |
 | 28 | kannaDakke bEku kannaDaddE vyAkaraNa *(ಕನ್ನಡಕ್ಕೆ ಬೇಕು ಕನ್ನಡದ್ದೇ ವ್ಯಾಕರಣ)* | Kannada | 2000/2013 | **PDF** (7th ed.) | ⚠️ PDF (WX font, 253p) — **NEW** |
 | 29 | kannaDa vyAkaraNa yAke bEku *(ಕನ್ನಡ ವ್ಯಾಕರಣ ಯಾಕೆ ಬೇಕು?)* | Kannada | 2009 | **PDF** | ⚠️ PDF (WX font, 260p) — **NEW** |
+| 33 | kannaDa sollarime *(ಕನ್ನಡ ಸೊಲ್ಲರಿಮೆ)* | Kannada | Unknown | YouTube | ⚠️ Garbled (split from 07) |
 
 ---
 
@@ -3038,6 +3040,22 @@ pip install -r requirements.txt
 
 ---
 
+## Section M — YouTube-Only Book (Split from Book 07)
+
+### 33 — ಕನ್ನಡ ಸೊಲ್ಲರಿಮೆ
+**kannaDa sollarime** *(Grammar of Kannada)*
+
+- **ಭಾಷೆ / Language:** Kannada
+- **ಪ್ರಕಟಣೆ / Year:** Unknown
+- **ಪುಟಗಳು / Pages:** Unknown · **PDF:** Not available
+- **ವಿಶಯ / Topic:** A shorter grammar of Kannada — distinct from the 7-volume *ಕನ್ನಡ ಬರಹದ ಸೊಲ್ಲರಿಮೆ* (Book 07)
+- **ಮೂಲ / Source:** YouTube transcript (Malati Bhat reading); previously mis-shelved in Book 07's folder
+- **ಗುಣಮಟ್ಟ / Quality:** ⚠️ Mostly garbled — 14 of 23 parts unavailable; live-lecture ASR noise
+- **ಕಡತ / Folder:** [33-kannaDa-sollarime/](./33-kannaDa-sollarime/)
+- **ಸಂಬಂಧ / Relation:** Related to Book 07 (7-vol grammar) and Book 01 (2021 consolidation); exact relationship unclear without text
+
+---
+
 ## Section J — Other Known Works (Not Yet Collected)
 
 These works are referenced in collected texts or found in the CDX sitemap but not yet fully collected:
@@ -3069,7 +3087,8 @@ These works are referenced in collected texts or found in the CDX sitemap but no
 | **Newly discovered books (27–29)** | **3** | **0** | **0** | **3** (WX) | **0** | **0** |
 | **Newly discovered books (30–32)** | **3** | **1** | **0** | **2** (Nudi) | **0** | **0** |
 | **Book 15 — hybrid extracted sample** | **1** | **0** | **0** | **0** | **1 (A only)** | **0** |
-| **Total** | **28** | **6** | **3** | **13** | **4** | **4** |
+| **Book 33 — YouTube only (split from 07)** | **1** | **0** | **0** | **0** | **1** | **0** |
+| **Total** | **29** | **6** | **3** | **13** | **5** | **4** |
 
 > ℹ️ Book 15 counting: moved from "Partial" to its own row. 53-page sample (letter A) is hybrid-extracted and fully processed (en/kn-eke/claude-prompt). Full 730-page book not yet obtained.
 
@@ -3373,7 +3392,7 @@ Each section below describes one DNS Bhat book: its theme, available files, and 
 
 **✅ Fully processed (vols 1+2 only)** · 2010–2019 · Vol 1: 327 pages · Vol 2: 301 pages · *Vols 3 (241pp, 2012) and 4 (274pp) now available as PDFs*
 
-> ⚠️ **YouTube note:** The `youtube/kn/full.md` transcripts in this folder are from a **different** book — *ಕನ್ನಡ ಸೊಲ್ಲರಿಮೆ* (kannaDa sollarime) — which is a separate, shorter work. It was incorrectly attributed to *ಕನ್ನಡ ಬರಹದ ಸೊಲ್ಲರಿಮೆ*. A dedicated book entry may be created for it in future.
+> **Related book:** *ಕನ್ನಡ ಸೊಲ್ಲರಿಮೆ* (kannaDa sollarime, no "baraha") is a separate, shorter work — now catalogued as [Book 33](../33-kannaDa-sollarime/).
 
 ---
 
@@ -3391,7 +3410,6 @@ Each section below describes one DNS Bhat book: its theme, available files, and 
 | `book/vol2/eke/full.md` | Printed book (OCR/scan) Vol 2 — Eke romanisation — Structured text with TOC + cross-links |
 | `book/en/summary.md`    | Printed book (OCR/scan) — English — Summary / analysis |
 | `book/eke/full.md`      | Printed book (OCR/scan) — Eke romanisation — Structured text with TOC + cross-links |
-| `youtube/kn/full.md`    | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 
@@ -3543,20 +3561,22 @@ This was the **first fully structured book** in this collection and served as th
 
 ### Book 13-dArege-doDDavaru
 
-# [13] — ಧಾರೆಗೆ ದೊಡ್ಡವರು
-**Great Ones of the Tradition**
+# [13] — ದಾರೆಗೆ ದೊಡ್ಡವರು
+**Great Ones on the Path** (tentative)
 
-> Survey of historical Kannada grammar and literature — profiles of the major grammarians and poets who shaped the classical Kannada tradition.
+> A commentary or symposium discussion about DNS Bhat's linguistic work — commentators discuss and praise his word-formation books in the third person; the full scope is uncertain due to very limited transcript availability.
 
-**❌ Corrupted transcript — not usable without re-extraction** · Source: YouTube transcript (49 lines, heavily corrupted)
+**⚠️ Very partial transcript** · YouTube only
 
 ---
 
 ## Files in This Folder
 
-| File                 | Contents |
-| ----                 | -------- |
-| `youtube/kn/full.md` | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
+| File | Contents |
+|------|----------|
+| [`youtube/kn/full.md`](./youtube/kn/full.md) | YouTube transcripts — Kannada — 4 parts (Parts 1–2 unavailable or mismatched; Part 3 readable; Part 4 duplicate of Part 1) |
+| [`youtube/en/summary.md`](./youtube/en/summary.md) | English summary with honest transcript quality assessment and part-by-part notes |
+| [`claude-prompt.md`](./claude-prompt.md) | Condensed prompt context for Claude sessions — includes critical speaker note |
 
 ---
 
@@ -4143,6 +4163,39 @@ The PDF was typeset in Nudi legacy font. The wx_decode.py conversion recovers Ka
 ## Note
 
 This is an English-language academic monograph (no kn or eke files needed). The PDF (`the-prominence-of-tense-aspect-and-mood_compress.pdf`) is a clean digital PDF, fully readable.
+
+---
+
+[← Back to catalogue](../README.md)
+
+
+### Book 33-kannaDa-sollarime
+
+# [33] — ಕನ್ನಡ ಸೊಲ್ಲರಿಮೆ
+**Grammar of Kannada**
+
+> A shorter, self-contained Kannada grammar — distinct from Bhat's 7-volume *ಕನ್ನಡ ಬರಹದ ಸೊಲ್ಲರಿಮೆ* (Book 07). No PDF available; known only from the YouTube lecture series.
+
+**⚠️ YouTube transcript only (mostly garbled)** · No PDF available
+
+---
+
+## Files in This Folder
+
+| File | Contents |
+|------|----------|
+| [`youtube/kn/full.md`](./youtube/kn/full.md) | YouTube transcripts — Kannada — 23 parts (P1, P2, 1–21); 14 parts unavailable |
+| [`youtube/en/summary.md`](./youtube/en/summary.md) | English summary — quality assessment + available content |
+| [`claude-prompt.md`](./claude-prompt.md) | AI context primer |
+
+---
+
+## Note on Naming
+
+**ಕನ್ನಡ ಸೊಲ್ಲರಿಮೆ** (*Grammar of Kannada*) is NOT the same as:
+- **ಕನ್ನಡ ಬರಹದ ಸೊಲ್ಲರಿಮೆ** (*Grammar of Kannada Writing*, 7 vols) — Book 07, with PDFs
+
+The YouTube series was previously mis-shelved inside Book 07's folder. This is its correct home.
 
 ---
 

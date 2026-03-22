@@ -5,7 +5,7 @@
 
 **✅ Fully processed (vols 1+2 only)** · 2010–2019 · Vol 1: 327 pages · Vol 2: 301 pages · *Vols 3 (241pp, 2012) and 4 (274pp) now available as PDFs*
 
-> ⚠️ **YouTube note:** The `youtube/kn/full.md` transcripts in this folder are from a **different** book — *ಕನ್ನಡ ಸೊಲ್ಲರಿಮೆ* (kannaDa sollarime) — which is a separate, shorter work. It was incorrectly attributed to *ಕನ್ನಡ ಬರಹದ ಸೊಲ್ಲರಿಮೆ*. A dedicated book entry may be created for it in future.
+> **Related book:** *ಕನ್ನಡ ಸೊಲ್ಲರಿಮೆ* (kannaDa sollarime, no "baraha") is a separate, shorter work — now catalogued as [Book 33](../33-kannaDa-sollarime/).
 
 ---
 
@@ -23,7 +23,6 @@
 | `book/vol2/eke/full.md` | Printed book (OCR/scan) Vol 2 — Eke romanisation — Structured text with TOC + cross-links |
 | `book/en/summary.md`    | Printed book (OCR/scan) — English — Summary / analysis |
 | `book/eke/full.md`      | Printed book (OCR/scan) — Eke romanisation — Structured text with TOC + cross-links |
-| `youtube/kn/full.md`    | YouTube transcripts — Kannada — Structured text with TOC + cross-links |
 
 ---
 
