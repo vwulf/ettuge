@@ -192,9 +192,12 @@ jobs:
               # A stub is a youtube/kn/full.md with no ## Part / ### Part headers
               yt_kn = found.get(('youtube', 'kn'))
               if yt_kn and is_youtube_stub(yt_kn[0]):
-                  # Move to stub source using actual content language; drop youtube en/eke
-                  _slang = stub_lang(yt_kn[0])
-                  found[('stub', _slang)] = yt_kn
+                  # Drop the youtube stub entry; only add to Stubs section if the
+                  # book has no real content in any other source (book, web, etc.)
+                  has_real_content = any(s != 'youtube' for (s, _) in found)
+                  if not has_real_content:
+                      _slang = stub_lang(yt_kn[0])
+                      found[('stub', _slang)] = yt_kn
                   del found[('youtube', 'kn')]
                   found.pop(('youtube', 'en'),  None)
                   found.pop(('youtube', 'eke'), None)
