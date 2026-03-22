@@ -1,5 +1,5 @@
 # DNS Bhat Ettuge Project — Recap
-*Last updated: 2026-03-20 (Phase 18)*
+*Last updated: 2026-03-21 (Phase 23)*
 
 ---
 
@@ -764,6 +764,74 @@ Each content file gets `parent: "Kannada Text"` + `grand_parent: "Books"` (etc.)
 - `docs/Gemfile`: removed `jekyll-relative-links` gem
 - Books 14, 27, 28, 29 `youtube/kn/full.md`: fixed broken cross-links `../en/summary` → `../../book/en/summary` and `../eke/full` → `../../book/eke/full` (youtube/ has no en/eke content for these books)
 - Book landing pages now written as `index.md` so directory URLs like `/dnsbhat/28-kannaDakke-bEku/` resolve correctly
+
+---
+
+### Phase 22 — YouTube Transcript Restructuring: Paragraph Breaks + Chapter TOC (2026-03-21)
+
+**Scope:** Books 01–13 (YouTube-only lecture series — no scanned book text).
+
+**Motivation:** All `youtube/kn/full.md` files for books 01–13 contained raw ASR transcripts as flat single-paragraph blobs under `## Part N` headers, with no visual separation between parts, no anchor links, and no chapter grouping. The files were unreadable as reference material.
+
+**Changes (script: `/tmp/structure_v2.py`):**
+- `## Part N` headers demoted to `### Part N` (to nest under chapter `##` headings)
+- `<a id="part-N">` anchor inserted before every Part
+- ASR transcript blobs split into ~80-word paragraphs for readability
+- Lines with < 40% Kannada characters replaced with `> *[ಈ ಭಾಗದ ಭಾಷಾಂತರ ಲಭ್ಯವಿಲ್ಲ — transcript not available for this part]*`
+- `[Watch on YouTube](URL)` link inserted into each Part from the Table of Contents
+- ಪರಿವಿಡಿ TOC added at the top of each file linking to `#part-N` anchors
+- **Book 03** additionally restructured with 9-chapter grouping (`## ಅಧ್ಯಾಯ N` headings with `<a id="adhyAya-N">` anchors) per the book's chapter structure
+
+**Books processed:**
+- Flat (no chapters): 01, 06, 07, 08, 10, 11, 12, 13
+- Chapter-mapped: 03 (9 chapters, Parts 1–55)
+- Earlier partial restructuring (separate commits): 02, 04, 05, 09
+
+**Commits:** `304fc93`, `ad1b267`, `0c9f7b9`
+
+---
+
+### Phase 23 — Blog Sidebar Fix + Stubs Category + YouTube Transcript Cross-References (2026-03-21)
+
+**Motivation:** Three separate improvements triggered by an audit of which YouTube transcripts could be enriched using existing high-quality sources (book/kn/full.md or web/kn/raw.md).
+
+#### 23a — Blog sidebar fallback fix
+
+`CANDIDATES[('web', 'kn')]` in `pages.yml` was `['web/kn/full.md']` only. Books 14 and 18, which have `web/kn/raw.md` but no `full.md`, were missing from the Blog Kannada sidebar. Added `'web/kn/raw.md'` as a fallback candidate.
+
+**Commit:** `7678364`
+
+#### 23b — Stubs sidebar category
+
+16 of 29 books have `youtube/kn/full.md` files that are placeholder stubs (no `## Part` or `### Part` headers — just a description or link list). These were cluttering the YouTube sidebar.
+
+Added a **Stubs** top-level sidebar section (`nav_order: 40`) with automatic reclassification: the `is_youtube_stub()` helper in `pages.yml` detects stub files and moves them from `('youtube', 'kn')` to `('stub', 'kn')` in Pass 1, dropping their associated YouTube `en`/`eke` entries. A dedicated `Stubs` section renders them separately.
+
+**Commit:** `33d0247`
+
+#### 23c — YouTube transcript cross-references (Books 02 and 03)
+
+**Observation:** Books 02 and 03 have both a YouTube transcript file and a high-quality Kannada source (web blog for Book 02, scanned book for Book 03). Keyword-overlap analysis (TF-IDF-style, 5+ char Kannada words, overlap score ratio) identified which YouTube Parts correspond to which source sections.
+
+**Approach chosen:** Rather than copying full source text inline (which duplicates content and inflates the YouTube file), each matched Part gets a **link + 60-word excerpt** pointing to the canonical source section:
+
+```markdown
+*ಈ ಭಾಗ ಪುಸ್ತಕದ [೧.೫: ಪದದೊಟ್ಟುಗಳು ಮತ್ತು ಪದರಪದೊಟ್ಟುಗಳು](../../book/kn/full#sec-1-5) ಅನ್ನು ಆಧರಿಸಿದೆ.*
+
+> ನುಡಿಗಳಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿ ಎರಡು ಬಗೆಯ ಒಟ್ಟುಗಳು ಬಳಕೆಯಲ್ಲಿರುತ್ತವೆ:…
+```
+
+Links use the `#sec-N-M` / `#sub-N-M-K` anchors added in Phase 19.
+
+**Results:**
+- Book 02: 10 Parts (24, 26–30, 39–42) linked to `web/kn/raw.md` blog sections (ಭಾಗ 4–10)
+- Book 03: 33 of 55 Parts linked to `book/kn/full.md` sections using precise `sec-N-M` anchors; 22 Parts retained ASR (ambiguous overlap, ratio < 1.4×)
+
+**File sizes after:** Book 02 youtube/kn/full.md: 1,342 lines; Book 03: 1,424 lines (vs 4K–6K if full text had been copied inline).
+
+**Scripts:** `/tmp/link_substitute_02.py`, `/tmp/link_substitute_03.py`
+
+**Commits:** `cb466d7` (reverted), `d5d82cf` (reverted), `4678d9f` (final link+excerpt approach)
 
 ---
 

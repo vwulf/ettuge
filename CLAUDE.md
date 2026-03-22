@@ -59,15 +59,17 @@ ettuge/
 
 ## Active Development
 
-### Current Status (as of 2026-03-20, Phase 19)
+### Current Status (as of 2026-03-21, Phase 23)
 
-All 29 DNS Bhat books have been processed through multiple phases of OCR cleanup, Nudi→Unicode conversion, romanisation generation, and TOC restructuring. Key milestones:
+All 29 DNS Bhat books have been processed through multiple phases of OCR cleanup, Nudi→Unicode conversion, romanisation generation, TOC restructuring, and transcript enrichment. Key milestones:
 
-- **Phase 19 (2026-03-20):** Deep 3-level TOC with `<a id="sec-N-M">` and `<a id="sub-N-M-K">` anchors added to all books with kn.md (02, 03, 07-vol1, 07-vol2, 08, 14, 17, 25, 27, 28, 29). Section/subsection cross-links added: `[Eke →]` after every sec/sub anchor in kn.md; `[ಕನ್ನಡ →]` in kn-eke.md. Index back-links `[← ಸೂಚಿ](./README)` added to all kn.md headers; `[← sUci]` to kn-eke.md. Chapter nav fragments fixed to `#adhyAya-N`. kn-eke.md self-referential header links corrected.
-- **Phase 18 (2026-03-19):** Chapter/section headings converted to Markdown `##`/`###`/`####`. Book 28 deep TOC added, printed flat TOC removed, 5 heading-number OCR errors fixed. Book 03 subsection numbering corrected (1.6→1.5).
-- **Phase 17 (2026-03-19):** Nudi/WX encoding cleanup for books 03, 07 (vol1+vol2), 08, 14, 17, 25, 27, 28, 29. TOC restructured with `<a id="adhyAya-N">` anchors (books 03, 27). Citation quote convention standardised to curly single quotes `'word'` (U+2018/U+2019) across books 07, 17, 25, 28. Unrounded-u marker unified to `u^` across all kn-eke files.
-- **Phase 16 (2026-03-17):** Running headers removed, arka-ottu reversals fixed, fragment cleanup across 5 books.
-- **Earlier phases:** Transcript cleanup (349 videos), Eke.md translation (complete), DNS Bhat book summarization pipeline established.
+- **Phase 23 (2026-03-21):** Blog sidebar fallback fixed (Books 14, 18 now appear). Stubs sidebar category added — 16 YouTube placeholder files reclassified out of the YouTube sidebar. Books 02 and 03 YouTube transcripts enriched with link + 60-word excerpt cross-references to matching blog/book sections (Books 02: 10 Parts; Book 03: 33 of 55 Parts), using `#sec-N-M` anchors from Phase 19.
+- **Phase 22 (2026-03-21):** YouTube transcript restructuring for all books 01–13: `## Part N` → `### Part N`, `<a id="part-N">` anchors, ~80-word paragraph breaks, garbage detection, ಪರಿವಿಡಿ TOC. Book 03 additionally restructured with 9-chapter grouping matching the book's chapter structure.
+- **Phase 21 (2026-03-20):** GitHub Pages nested source-first sidebar (Books / Blog / YouTube / Stubs) generated via 6-pass Python script in CI. All 404s fixed after taxonomy migration.
+- **Phase 20 (2026-03-20):** 4-level taxonomy migration — all 29 book dirs restructured to `book/kn/full.md`, `web/kn/raw.md`, `youtube/kn/full.md` etc. (129 git mv ops).
+- **Phase 19 (2026-03-20):** Deep 3-level TOC with `<a id="sec-N-M">` and `<a id="sub-N-M-K">` anchors added to all books with kn.md (02, 03, 07-vol1, 07-vol2, 08, 14, 17, 25, 27, 28, 29). Section/subsection cross-links added: `[Eke →]` after every sec/sub anchor in kn.md; `[ಕನ್nnaDa →]` in kn-eke.md.
+- **Phase 18 (2026-03-19):** Chapter/section headings converted to Markdown `##`/`###`/`####`. Book 28 deep TOC added. Book 03 subsection numbering corrected (1.6→1.5).
+- **Earlier phases:** OCR cleanup (books 07, 08, 14, 17, 25, 27, 28, 29), Eke.md translation (complete), DNS Bhat book summarization pipeline established, transcript cleanup (349 videos).
 
 Full history: `docs/dnsbhat/PROJECT-RECAP.md` (also served at https://vwulf.github.io/ettuge/dnsbhat/PROJECT-RECAP).
 
