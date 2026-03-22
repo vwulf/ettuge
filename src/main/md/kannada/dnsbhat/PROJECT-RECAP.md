@@ -835,6 +835,84 @@ Links use the `#sec-N-M` / `#sub-N-M-K` anchors added in Phase 19.
 
 ---
 
+### Phase 24 — Books 30–32 Added from PDF Extraction (2026-03-22)
+
+**Motivation:** Three additional DNS Bhat works identified from Google Drive PDFs not previously catalogued.
+
+#### Book 30 — ಕನ್ನಡ ಬರಹವನ್ನು ಸರಿಪಡಿಸೋಣ (382 pages, Nudi encoding)
+
+Full 4-file set produced via `wx_decode.py` (Nudi→Unicode lookup, same pipeline as Books 07/17/25/28/29):
+- `book/kn/raw.md` — decoded Kannada source (Nudi WX → Unicode)
+- `book/kn/full.md` — structured Kannada with 10-chapter TOC and `<a id="adhyAya-N">` anchors
+- `book/en/summary.md` — English chapter-by-chapter summary with cross-links
+- `book/eke/full.md` — Eke romanisation matching full.md structure
+- `claude-prompt.md` — AI context primer
+
+**Subject:** Practical guide to correcting Kannada script usage — aspirate simplification, anusvara normalisation, vowel-length marking. Arguments for *hosa baraha* (simplified writing) applied to print.
+
+#### Book 31 — ಇಂಗ್ಲಿಶ್ ಪದಗಳಿಗೆ ಕನ್ನಡದ್ದೇ ಪದಗಳು (487 pages, Nudi encoding, A–Z dictionary)
+
+Partial processing — Nudi WX decode successful but English headword reconstruction partially garbled:
+- `book/kn/raw.md` — decoded Kannada source
+- `book/en/summary.md` — English summary (headwords + overview; garbling noted)
+- `claude-prompt.md`
+
+**Subject:** Comprehensive dictionary of native Kannada equivalents for English words (A–Z), structured as a lexical resource. Companion to Book 15 (*ingliS-kannaDa padanerake*).
+
+#### Book 32 — The Prominence of Tense, Aspect and Mood (214 pages, clean English, John Benjamins)
+
+Clean English PDF — pdfplumber extraction; no Nudi decoding required:
+- `book/en/summary.md` — chapter summary
+- `claude-prompt.md`
+
+**Subject:** Cross-linguistic typological monograph (English) on the TAM hierarchy across world languages. Bhat's contribution to general linguistic theory; Kannada-informed but not Kannada-specific.
+
+**Stats after Phase 24:** 32 books catalogued (sections A–L); all 32 have `claude-prompt.md`.
+
+**Commit:** (see git log)
+
+---
+
+### Phase 25 — YouTube Summaries for Books 01–13 + Book 33 Split (2026-03-22)
+
+**Motivation:** Two tasks: (1) provide English overviews for the 6 YouTube-only books that lacked any English entry; (2) correctly separate the two distinct *sollarime* works that had been conflated in Book 07's folder.
+
+#### 25a — YouTube English summaries for books 01, 06, 10, 11, 12, 13
+
+Six books had YouTube transcripts (or stubs) but no English summary. Created `youtube/en/summary.md` + updated `claude-prompt.md` for each:
+
+| Book | Title | Quality | Notes |
+|------|-------|---------|-------|
+| 01 | idu kannaDaddE vyAkaraNa | ✅ Excellent | Malati Bhat reading; 3 parts; full 19-chapter TOC read aloud in Part 1 |
+| 06 | kalikenuDi mattu nuDikalike | ⚠️ Garbled | Live-lecture ASR; keyword signals only |
+| 10 | kannaDa nuDiya hinnaDavaLi | ⚠️ Garbled | Live-lecture ASR; content drawn from website description |
+| 11 | kannaDa barahada padasamasye | ⚠️ Garbled | 25-part lecture; may be earlier monograph later condensed into Book 30 |
+| 12 | kannaDa bhASheya kalpita caritre | ✅ Good | Malati Bhat reading; 2 parts; comparative method section well-preserved |
+| 13 | dArege doDDavaru | 🎓 Symposium | Third-person references to Bhat; panels praising his work — felicitation proceedings, not Bhat reading his own book |
+
+All 6 books now have `youtube/en/summary.md` with explicit quality assessment and part-level availability table. `claude-prompt.md` updated to include the new English file.
+
+**Commits:** (see git log)
+
+#### 25b — Book 33 split from Book 07 (ಕನ್ನಡ ಸೊಲ್ಲರಿಮೆ vs ಕನ್ನಡ ಬರಹದ ಸೊಲ್ಲರಿಮೆ)
+
+**Discovery:** The `youtube/kn/full.md` inside Book 07's folder was titled *KANNADA SOLLARIME* (no "baraha") — a different, shorter work than Book 07's *KANNADA BARAHADA SOLLARIME* (7-volume grammar of *written* Kannada). The Book 07 README had carried a `⚠️ YouTube note` since Phase 22 flagging the mismatch.
+
+**Action:**
+- `git mv` Book 07's `youtube/kn/full.md` → new folder `33-kannaDa-sollarime/youtube/kn/full.md`
+- `nav_order` updated 107→133; `redirect_from: /dnsbhat/07-kannadada-sollarime/07-kannadada-sollarime` preserved for URL continuity
+- New Book 33 folder: `README.md`, `claude-prompt.md`, `youtube/en/summary.md` created
+- Book 07 `README.md` updated: YouTube row removed, clean cross-reference link to Book 33 added
+- `dnsbhat/README.md`: Book 33 entry added (Section M — YouTube-Only Book Split from Book 07), collection stats updated 32→33
+
+**Identity note:** *ಕನ್ನಡ ಸೊಲ್ಲರಿಮೆ* (no "baraha") may be an earlier or more general grammar covering both spoken and written Kannada — the omission of "baraha" (writing) distinguishes it from Book 07 (*ಕನ್ನಡ ಬರಹದ ಸೊಲ್ಲರಿಮೆ*, 7-volume grammar of written Kannada). The precise relationship cannot be determined without a PDF.
+
+**Stats after Phase 25:** All 33 DNS Bhat books catalogued; all 33 have `claude-prompt.md`.
+
+**Commits:** (see git log)
+
+---
+
 ## Eke Romanisation System
 
 **Ellara KannaDa (Eke)** is a romanisation of Kannada devised by Vishwas — inspired by HK protocol and DNS Bhat's ideas, designed to be learnable by any Indian and usable by non-Kannada readers. It is the romanisation used throughout the `-kn-eke.md` files.

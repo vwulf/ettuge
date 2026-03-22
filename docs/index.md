@@ -31,7 +31,8 @@ All Kannada text is also available in **Eke** — a phonemic romanisation for Ka
 
 | # | Title | Kannada | English | Eke |
 |---|-------|---------|---------|-----|
-| 01 | idu kannaDaddE vyAkaraNa — *This is Kannada Grammar* | [ಕನ್ನಡ](dnsbhat/01-idu-kannadade-vyakarana/01-idu-kannadade-vyakarana) | | |
+| 01 | idu kannaDaddE vyAkaraNa — *This is Kannada Grammar* | [ಕನ್ನಡ](dnsbhat/01-idu-kannadade-vyakarana/01-idu-kannadade-vyakarana) | [English](dnsbhat/01-idu-kannadade-vyakarana/01-idu-kannadade-vyakarana-en) | |
+| 33 | kannaDa sollarime — *Grammar of Kannada* | [ಕನ್ನಡ](dnsbhat/33-kannadada-sollarime/youtube/kn/full) | [English](dnsbhat/33-kannadada-sollarime/youtube/en/summary) | |
 | 03 | kannaDa padagaLa oLaracane — *Internal Structure of Kannada Words* | [ಕನ್ನಡ](dnsbhat/03-kannada-padagala-olarachane/03-kannada-padagala-olarachane) | [English](dnsbhat/03-kannada-padagala-olarachane/03-kannada-padagala-olarachane-en) | [Eke](dnsbhat/03-kannada-padagala-olarachane/03-kannada-padagala-olarachane-kn-eke) |
 | 25 | kannaDa vAkyagaLa oLaracane — *Internal Structure of Kannada Sentences* | [ಕನ್ನಡ](dnsbhat/25-kannada-vakyagala-olarachane/25-kannada-vakyagala-olarachane) | [English](dnsbhat/25-kannada-vakyagala-olarachane/25-kannada-vakyagala-olarachane-en) | [Eke](dnsbhat/25-kannada-vakyagala-olarachane/25-kannada-vakyagala-olarachane-kn-eke) |
 | 29 | kannaDa vyAkaraNa yAke bEku — *Why We Need Kannada Grammar* | [ಕನ್ನಡ](dnsbhat/29-kannada-vyakarana-yaake-beku/29-kannada-vyakarana-yaake-beku) | [English](dnsbhat/29-kannada-vyakarana-yaake-beku/29-kannada-vyakarana-yaake-beku-en) | [Eke](dnsbhat/29-kannada-vyakarana-yaake-beku/29-kannada-vyakarana-yaake-beku-kn-eke) |
@@ -42,7 +43,7 @@ All Kannada text is also available in **Eke** — a phonemic romanisation for Ka
 | # | Title | Kannada | English | Eke |
 |---|-------|---------|---------|-----|
 | 05 | mAtina oLaguTTu — *Sounds and their Internalisation* | [ಕನ್ನಡ](dnsbhat/05-mathina-olaguttu/05-mathina-olaguttu) | [English](dnsbhat/05-mathina-olaguttu/05-mathina-olaguttu-en) | [Eke](dnsbhat/05-mathina-olaguttu/05-mathina-olaguttu-kn-eke) |
-| 07 | kannaDa barahada sollarime — *Kannada Grammar Series* | [ಕನ್ನಡ](dnsbhat/07-kannadada-sollarime/07-kannadada-sollarime) | [English](dnsbhat/07-kannadada-sollarime/07-kannadada-sollarime-en) | [Eke](dnsbhat/07-kannadada-sollarime/07-kannadada-sollarime-kn-eke) |
+| 07 | kannaDa barahada sollarime — *Kannada Grammar Series* (7 vols) | [ಕನ್ನಡ](dnsbhat/07-kannadada-sollarime/07-kannadada-sollarime-vol1-kn) | [English](dnsbhat/07-kannadada-sollarime/07-kannadada-sollarime-en) | [Eke](dnsbhat/07-kannadada-sollarime/07-kannadada-sollarime-kn-eke) |
 | 08 | kannaDakke mahAprANa yAke bEDa — *Why Kannada Doesn't Need Aspirates* | [ಕನ್ನಡ](dnsbhat/08-kannadakke-mahaprana-yake-beda/08-kannadakke-mahaprana-yake-beda) | [English](dnsbhat/08-kannadakke-mahaprana-yake-beda/08-kannadakke-mahaprana-yake-beda-en) | [Eke](dnsbhat/08-kannadakke-mahaprana-yake-beda/08-kannadakke-mahaprana-yake-beda-kn-eke) |
 | 11 | kannaDa barahada padasamasye — *The Problem with Kannada Script* | [ಕನ್ನಡ](dnsbhat/11-kannada-barahada-padasamasye/11-kannada-barahada-padasamasye) | | |
 | 22 | Sound Change | [ಕನ್ನಡ](dnsbhat/22-sound-change/22-sound-change) | | |
@@ -61,8 +62,8 @@ All Kannada text is also available in **Eke** — a phonemic romanisation for Ka
 
 | # | Title | Kannada | English | Eke |
 |---|-------|---------|---------|-----|
-| 10 | kannaDa nuDiya hinnaDavaLi — *History of the Kannada Language* | [ಕನ್ನಡ](dnsbhat/10-kannada-nudiya-hinnadavali/10-kannada-nudiya-hinnadavali) | | |
-| 12 | kannaDa bhASheya kalpita caritre — *An Imagined History of Kannada* | [ಕನ್ನಡ](dnsbhat/12-kannada-bhasheya-kalpita-charitre/12-kannada-bhasheya-kalpita-charitre) | | |
+| 10 | kannaDa nuDiya hinnaDavaLi — *History of the Kannada Language* | [ಕನ್ನಡ](dnsbhat/10-kannada-nudiya-hinnadavali/10-kannada-nudiya-hinnadavali) | [English](dnsbhat/10-kannada-nudiya-hinnadavali/youtube/en/summary) | |
+| 12 | kannaDa bhASheya kalpita caritre — *An Imagined History of Kannada* | [ಕನ್ನಡ](dnsbhat/12-kannada-bhasheya-kalpita-charitre/12-kannada-bhasheya-kalpita-charitre) | [English](dnsbhat/12-kannada-bhasheya-kalpita-charitre/12-kannada-bhasheya-kalpita-charitre-en) | |
 | 17 | kannaDa nuDi naDeDu banda dAri — *How Kannada Speech Evolved* | [ಕನ್ನಡ](dnsbhat/17-kannada-nudi-nadedu-banda-dari/17-kannada-nudi-nadedu-banda-dari) | [English](dnsbhat/17-kannada-nudi-nadedu-banda-dari/17-kannada-nudi-nadedu-banda-dari-en) | [Eke](dnsbhat/17-kannada-nudi-nadedu-banda-dari/17-kannada-nudi-nadedu-banda-dari-kn-eke) |
 | 18 | kannaDa nuDiya bagege cintane — *Reflections on the Kannada Language* | [ಕನ್ನಡ](dnsbhat/18-kannada-nudiya-bagege-chintane/18-kannada-nudiya-bagege-chintane) | [English](dnsbhat/18-kannada-nudiya-bagege-chintane/18-kannada-nudiya-bagege-chintane-en) | [Eke](dnsbhat/18-kannada-nudiya-bagege-chintane/18-kannada-nudiya-bagege-chintane-kn-eke) |
 | 27 | bhASheya bagge — *About Language* | [ಕನ್ನಡ](dnsbhat/27-baasheya-bagge/27-baasheya-bagge) | [English](dnsbhat/27-baasheya-bagge/27-baasheya-bagge-en) | [Eke](dnsbhat/27-baasheya-bagge/27-baasheya-bagge-kn-eke) |
