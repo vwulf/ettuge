@@ -6,6 +6,9 @@ redirect_from:
 ---
 
 
+
+
+
 # MATHU MATTHU BARAHADA NADUVINA GONDALA
 ## ಮಾತು ಮತ್ತು ಬರಹದ ನಡುವಿನ ಗೊಂದಲ
 
@@ -528,5 +531,38 @@ Ok - . eee
 
 > *[ಈ ಭಾಗದ ಭಾಷಾಂತರ ಲಭ್ಯವಿಲ್ಲ — transcript not available for this part]*
 
+
+---
+## ಪರಿವಿಡಿ
+
+- [ಭಾಗ 1 — Language Is Speech, Not Writing](#bhAga-1)
+- [ಭಾಗ 2 — The History of Writing](#bhAga-2)
+- [ಭಾಗ 3 — Language Acquisition: Natural Speech vs. Taught Writing](#bhAga-3)
+- [ಭಾಗ 4 — Writing and the Transformation of Thought](#bhAga-4)
+- [ಭಾಗ 5 — The Dravidian Language Family](#bhAga-5)
+- [ಭಾಗ 6 — Spelling Reform: Closing the Speech-Writing Gap](#bhAga-6)
+- [ಭಾಗ 7 — Language Life and Death: Dead vs. Extinct Languages](#bhAga-7)
+
+---
+## ಪರಿವಿಡಿ
+
+- [ಭಾಗ 1 — Language Is Speech, Not Writing](#bhAga-1)
+- [ಭಾಗ 2 — The History of Writing](#bhAga-2)
+- [ಭಾಗ 3 — Language Acquisition: Natural Speech vs. Taught Writing](#bhAga-3)
+- [ಭಾಗ 4 — Writing and the Transformation of Thought](#bhAga-4)
+- [ಭಾಗ 5 — The Dravidian Language Family](#bhAga-5)
+- [ಭಾಗ 6 — Spelling Reform: Closing the Speech-Writing Gap](#bhAga-6)
+- [ಭಾಗ 7 — Language Life and Death: Dead vs. Extinct Languages](#bhAga-7)
+
+---
+## ಪರಿವಿಡಿ
+
+- [ಭಾಗ 1 — Language Is Speech, Not Writing](#bhAga-1)
+- [ಭಾಗ 2 — The History of Writing](#bhAga-2)
+- [ಭಾಗ 3 — Language Acquisition: Natural Speech vs. Taught Writing](#bhAga-3)
+- [ಭಾಗ 4 — Writing and the Transformation of Thought](#bhAga-4)
+- [ಭಾಗ 5 — The Dravidian Language Family](#bhAga-5)
+- [ಭಾಗ 6 — Spelling Reform: Closing the Speech-Writing Gap](#bhAga-6)
+- [ಭಾಗ 7 — Language Life and Death: Dead vs. Extinct Languages](#bhAga-7)
 
 ---

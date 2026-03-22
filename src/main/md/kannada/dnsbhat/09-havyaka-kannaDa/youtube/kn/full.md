@@ -6,6 +6,9 @@ redirect_from:
 ---
 
 
+
+
+
 # HAVYAKA KANNADA
 ## ಹವ್ಯಕ ಕನ್ನಡ
 
@@ -457,5 +460,35 @@ Video Link: https://www.youtube.com/watch?v=0fWqSfYky1Y Video ID: 0fWqSfYky1Y ER
 [Watch on YouTube](https://www.youtube.com/watch?v=RSFfRv6l-58)
 
 ಮುಖ್ಯವಾಗಿ ಪರಿಚಯ ಲಾಗಿ ದೇ ಔರ್ ನೇತಾಜಿ ಕಾ ವರ್ಣನೆ ದಿ ಕೊ ಆಲೇಖನದ ಕೆ ಮತಭೇದ ಮೇಂ ಗಾನಾ ಲೋಡ್ ಹುಆ ಹೋಲಿ ಕೆ ಗಾನೇ ಕನ್ನಡ ಕನ್ನಡ ಕರ್ನಾಟಕ ಹಮೇಂ ಕನ್ನಡದ ಅಂದರ ಏಕ ಕನ್ನಡದ ತೇರಾ ಹಾಲಿಯಾ ಭಾರತ ಗಲ್ಲಿ ಗಂತಲು ಹಿಂದ್ ಥ್ಯಾಂಕ್ ಯೂ ಪರಿಚಯ ಕನ್ನಡದ ರಾವಣ ಲೋಹಾರ್ ತೋ ಬಡೀ ಸೀಧೇ ಕನ್ನಡ ಬಾರಾಬಂಕಿ ಹಾಯ್ವೇ ಕಾ ಕನ್ನಡ ವನ್ ನೋಬಲ್ ರೋಮನ್ ಅಲಿ ಗೇಮ್ ಪರಿಚಯ
+
+---
+## ಪರಿವಿಡಿ
+
+- [ಮುನ್ನುಡಿ — Introduction and Preamble](#bhAga-0)
+- [ಭಾಗ 1 — The Havyaka Community and Dialect Geography](#bhAga-1)
+- [ಭಾಗ 2 — Historical and Comparative Background: Havyaka and Old Kannada](#bhAga-2)
+- [ಭಾಗ 3 — Phonological Correspondences Across Coastal Dialects](#bhAga-3)
+- [ಭಾಗ 4 — Morphological Paradigms: Verb Forms](#bhAga-4)
+- [ಭಾಗ 5 — Word Classification and Grammar](#bhAga-5)
+
+---
+## ಪರಿವಿಡಿ
+
+- [ಮುನ್ನುಡಿ — Introduction and Preamble](#bhAga-0)
+- [ಭಾಗ 1 — The Havyaka Community and Dialect Geography](#bhAga-1)
+- [ಭಾಗ 2 — Historical and Comparative Background: Havyaka and Old Kannada](#bhAga-2)
+- [ಭಾಗ 3 — Phonological Correspondences Across Coastal Dialects](#bhAga-3)
+- [ಭಾಗ 4 — Morphological Paradigms: Verb Forms](#bhAga-4)
+- [ಭಾಗ 5 — Word Classification and Grammar](#bhAga-5)
+
+---
+## ಪರಿವಿಡಿ
+
+- [ಮುನ್ನುಡಿ — Introduction and Preamble](#bhAga-0)
+- [ಭಾಗ 1 — The Havyaka Community and Dialect Geography](#bhAga-1)
+- [ಭಾಗ 2 — Historical and Comparative Background: Havyaka and Old Kannada](#bhAga-2)
+- [ಭಾಗ 3 — Phonological Correspondences Across Coastal Dialects](#bhAga-3)
+- [ಭಾಗ 4 — Morphological Paradigms: Verb Forms](#bhAga-4)
+- [ಭಾಗ 5 — Word Classification and Grammar](#bhAga-5)
 
 ---
