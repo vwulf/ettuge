@@ -43,6 +43,7 @@ jobs:
               ('book',    'Books',   10),   # (dir_prefix, title, nav_order)
               ('web',     'Blog',    20),
               ('youtube', 'YouTube', 30),
+              ('stub',    'Stubs',   40),
           ]
           # Language sub-sections nested inside each source
           LANGS = [
@@ -61,6 +62,7 @@ jobs:
               ('youtube', 'en'):  ['youtube/en/summary.md'],
               ('youtube', 'kn'):  ['youtube/kn/full.md'],
               ('youtube', 'eke'): ['youtube/eke/full.md'],
+              ('stub',    'kn'):  ['youtube/kn/full.md'],
           }
           SRC_TITLE  = {s: t for s, t, _ in SOURCES}
           LANG_TITLE = {l: t for l, t, _ in LANGS}
@@ -68,10 +70,11 @@ jobs:
               'book':    'Scanned book content — Kannada text, English summaries, and Eke romanisation.',
               'web':     'DNS Bhat blog articles — web-published Kannada linguistics content.',
               'youtube': 'YouTube lecture series — transcripts, summaries, and romanisation.',
+              'stub':    'Placeholder entries — content not yet collected for these books.',
           }
           LANG_ICON  = {'kn': '📖', 'en': '🇬🇧', 'eke': '🔤'}
           LANG_LABEL = {'kn': 'ಕನ್ನಡ', 'en': 'English', 'eke': 'Eke'}
-          SRC_LABEL  = {'book': 'Book', 'web': 'Blog', 'youtube': 'YouTube'}
+          SRC_LABEL  = {'book': 'Book', 'web': 'Blog', 'youtube': 'YouTube', 'stub': 'Stub'}
 
           def fm(**fields):
               lines = ['---']
@@ -119,6 +122,15 @@ jobs:
           def url(rel):
               return rel[:-3] if rel and rel.endswith('.md') else rel
 
+          def is_youtube_stub(fp):
+              """Return True if the youtube/kn/full.md has no real transcript parts."""
+              try:
+                  with open(fp, encoding='utf-8') as f:
+                      content = f.read()
+                  return not re.search(r'^#{2,3} Part\b', content, re.MULTILINE)
+              except OSError:
+                  return True
+
           # Track files that have been assigned proper sidebar front matter
           sidebar_files = set()
           sidebar_files.add(os.path.join(DNSBHAT, 'index.md'))
@@ -151,11 +163,24 @@ jobs:
               # Find content file for each (source, lang) combo — first match wins
               found = {}   # (src_dir, lang_dir) → (abs_path, rel)
               for (src, lang), candidates in CANDIDATES.items():
+                  # stub candidates are resolved after youtube reclassification below
+                  if src == 'stub':
+                      continue
                   for rel in candidates:
                       fp = os.path.join(book_path, rel)
                       if os.path.exists(fp):
                           found[(src, lang)] = (fp, rel)
                           break
+
+              # Reclassify youtube/kn stub entries → stub/kn
+              # A stub is a youtube/kn/full.md with no ## Part / ### Part headers
+              yt_kn = found.get(('youtube', 'kn'))
+              if yt_kn and is_youtube_stub(yt_kn[0]):
+                  # Move to stub source; drop youtube en/eke for this book too
+                  found[('stub', 'kn')] = yt_kn
+                  del found[('youtube', 'kn')]
+                  found.pop(('youtube', 'en'),  None)
+                  found.pop(('youtube', 'eke'), None)
 
               books.append({
                   'dir':               book_dir,
