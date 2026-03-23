@@ -204,3 +204,12 @@ The book constitutes both a theoretical argument and a practical reference. As a
 
 
 10. **Repository source (Phase 18/19):** Both vol1-kn.md and vol2-kn.md now have 3-level deep TOCs with `<a id="sec-N-M">` and `<a id="sub-N-M-K">` anchors. Cross-links `[Eke →]` appear after every sec/sub anchor in each kn.md; kn-eke.md files have matching `[ಕನ್nnaDa →]` links. Vol2 TOC preserves struck-through entries for unavailable volumes (3–7). Headers include `[← ಸೂಚಿ](./README)` back-links.
+
+11. **Repository source (Phase 26):** Vols 3 and 4 PDFs have been extracted and fully processed. The following files now exist:
+    - `book/vol3/kn/full.md` — structured Kannada, Chapters 7–8 (ಎಸಕಪದದ ಪಾಂಗುಗಳು / ಪಾಂಗಿಟ್ಟಳದಲ್ಲಿ ಮಾರ್ಪಾಡುಗಳು): verbal argument frames, causative (-isu), middle (-koLLu), reciprocal, complex predicates, agent suppression via ಪಡು. Anchors: `adhyAya-7`, `adhyAya-8`, `sec-7-1` through `sec-7-6`, `sec-8-1` through `sec-8-7`.
+    - `book/vol3/eke/full.md` — Eke romanization with `[ಕನ್nnaDa →]` cross-links.
+    - `book/vol3/en/summary.md` — English chapter-by-chapter summary.
+    - `book/vol4/kn/full.md` — structured Kannada, Chapters 9–10 (ಆಡುಪದಗಳು / ತೋರುಪದಗಳು): personal pronouns (nānu/nīnu/tānu), demonstratives (i-/ā- stems), definite vs indefinite deixis. Anchors: `adhyAya-9`, `adhyAya-10`, `sec-9-1` through `sec-9-6`, `sec-10-1` through `sec-10-7`.
+    - `book/vol4/eke/full.md` — Eke romanization.
+    - `book/vol4/en/summary.md` — English chapter-by-chapter summary.
+    - The multi-volume index `book/kn/full.md` now shows all four volumes as ✅. Vols 5–7 remain unavailable.
