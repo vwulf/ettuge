@@ -71,7 +71,7 @@ redirect_from:
 
 [ಕನ್ನಡ →](../kn/full#sec-1-1)
 
-[English →](../en/summary#chapter-1--preview) | [Eke →](../eke/full#sec-1-1)
+[English →](../en/summary#chapter-1--preview) | [ಕನ್nnaDa →](../kn/full#sec-1-1)
 
 ## ೧.೧ kannaDa barahadalli bEDadiruva barigegaLu
 
@@ -139,7 +139,7 @@ baruttade.
 
 [ಕನ್ನಡ →](../kn/full#sec-1-2)
 
-[English →](../en/summary#chapter-1--preview) | [Eke →](../eke/full#sec-1-2)
+[English →](../en/summary#chapter-1--preview) | [ಕನ್nnaDa →](../kn/full#sec-1-2)
 
 ## ೧.೨ Oduva mattu bareyuva aLavu
 
@@ -213,7 +213,7 @@ EnAdarU mADalu horaDabEku.
 
 [ಕನ್ನಡ →](../kn/full#sec-1-3)
 
-[English →](../en/summary#chapter-1--preview) | [Eke →](../eke/full#sec-1-3)
+[English →](../en/summary#chapter-1--preview) | [ಕನ್nnaDa →](../kn/full#sec-1-3)
 
 ## ೧.೩ barahavannu kaliyadiralu kAraNagaLu
 
@@ -261,7 +261,7 @@ yinda tIra bErAgiruvudu innondu kAraNa.
 
 [ಕನ್ನಡ →](../kn/full#sec-1-4)
 
-[English →](../en/summary#chapter-1--preview) | [Eke →](../eke/full#sec-1-4)
+[English →](../en/summary#chapter-1--preview) | [ಕನ್nnaDa →](../kn/full#sec-1-4)
 
 ## ೧.೪ baravaNigeya toDaku
 
@@ -393,7 +393,7 @@ pasuge(adyAya)gaLalli tiLisalAgide.
 
 [ಕನ್ನಡ →](../kn/full#sec-2-1)
 
-[English →](../en/summary#chapter-2--writing-as-it-is-pronounced) | [Eke →](../eke/full#sec-2-1)
+[English →](../en/summary#chapter-2--writing-as-it-is-pronounced) | [ಕನ್nnaDa →](../kn/full#sec-2-1)
 
 ## ೨.೧ baravaNigeya ALa
 
@@ -463,7 +463,7 @@ vAgi tOraballudu.
 
 [ಕನ್ನಡ →](../kn/full#sec-2-2)
 
-[English →](../en/summary#chapter-2--writing-as-it-is-pronounced) | [Eke →](../eke/full#sec-2-2)
+[English →](../en/summary#chapter-2--writing-as-it-is-pronounced) | [ಕನ್nnaDa →](../kn/full#sec-2-2)
 
 ## ೨.೨ kannaDa baravaNigeya ALa
 
@@ -513,7 +513,7 @@ padagaLu aDDiyAguttave.
 
 [ಕನ್ನಡ →](../kn/full#sec-2-3)
 
-[English →](../en/summary#chapter-2--writing-as-it-is-pronounced) | [Eke →](../eke/full#sec-2-3)
+[English →](../en/summary#chapter-2--writing-as-it-is-pronounced) | [ಕನ್nnaDa →](../kn/full#sec-2-3)
 
 ## ೨.೩ kannaDa barahadalli samskruta padagaLu
 
@@ -652,7 +652,7 @@ bahaLa maTTige selling‌ samasyeyilla da barahadAgaballu du.
 
 [ಕನ್ನಡ →](../kn/full#sec-2-4)
 
-[English →](../en/summary#chapter-2--writing-as-it-is-pronounced) | [Eke →](../eke/full#sec-2-4)
+[English →](../en/summary#chapter-2--writing-as-it-is-pronounced) | [ಕನ್nnaDa →](../kn/full#sec-2-4)
 
 ## ೨.೪ kannaDa baravaNigeya hinnaDavaLi (caritre)
 
@@ -697,7 +697,7 @@ hAgeyE bareyabEkAgide.
 
 [ಕನ್ನಡ →](../kn/full#sec-2-5)
 
-[English →](../en/summary#chapter-2--writing-as-it-is-pronounced) | [Eke →](../eke/full#sec-2-5)
+[English →](../en/summary#chapter-2--writing-as-it-is-pronounced) | [ಕನ್nnaDa →](../kn/full#sec-2-5)
 
 ## ೨.೫ eravalu padagaLa baravaNige
 
@@ -808,7 +808,7 @@ kalisuvudakkAgi avannu cikka makkaLa mEle hEralAguttade.
 
 [ಕನ್ನಡ →](../kn/full#sec-2-6)
 
-[English →](../en/summary#chapter-2--writing-as-it-is-pronounced) | [Eke →](../eke/full#sec-2-6)
+[English →](../en/summary#chapter-2--writing-as-it-is-pronounced) | [ಕನ್nnaDa →](../kn/full#sec-2-6)
 
 ## ೨.೬ samskxtada eravalu padagaLa baravaNige
 
@@ -1055,7 +1055,7 @@ bEkAguvudilla.
 
 [ಕನ್ನಡ →](../kn/full#sec-2-7)
 
-[English →](../en/summary#chapter-2--writing-as-it-is-pronounced) | [Eke →](../eke/full#sec-2-7)
+[English →](../en/summary#chapter-2--writing-as-it-is-pronounced) | [ಕನ್nnaDa →](../kn/full#sec-2-7)
 
 ## ೨.೭ hanta hantavAgi baLakege taruvudu
 
@@ -1095,7 +1095,7 @@ kalike ivattina hAge heccu tondare koDuvudilla.
 
 [ಕನ್ನಡ →](../kn/full#sec-2-8)
 
-[English →](../en/summary#chapter-2--writing-as-it-is-pronounced) | [Eke →](../eke/full#sec-2-8)
+[English →](../en/summary#chapter-2--writing-as-it-is-pronounced) | [ಕನ್nnaDa →](../kn/full#sec-2-8)
 
 ## ೨.೮ samskruta padagaLu mArbaDade uLidilla
 
@@ -1210,7 +1210,7 @@ avannu A rIti Odalu baruvudillavalla!
 
 [ಕನ್ನಡ →](../kn/full#sec-3-1)
 
-[English →](../en/summary#chapter-3--other-languages-that-have-reformed) | [Eke →](../eke/full#sec-3-1)
+[English →](../en/summary#chapter-3--other-languages-that-have-reformed) | [ಕನ್nnaDa →](../kn/full#sec-3-1)
 
 ## ೩.೧ munnOTa
 bEre nuDigaLinda padagaLannu eravalAgi paDeyuvAga,
@@ -1242,7 +1242,7 @@ lAguttade.
 
 [ಕನ್ನಡ →](../kn/full#sec-3-2)
 
-[English →](../en/summary#chapter-3--other-languages-that-have-reformed) | [Eke →](../eke/full#sec-3-2)
+[English →](../en/summary#chapter-3--other-languages-that-have-reformed) | [ಕನ್nnaDa →](../kn/full#sec-3-2)
 
 ## ೩.೨ koriyan nuDiya baravaNige
 
@@ -1312,7 +1312,7 @@ baLasalAguttade.
 
 [ಕನ್ನಡ →](../kn/full#sec-3-3)
 
-[English →](../en/summary#chapter-3--other-languages-that-have-reformed) | [Eke →](../eke/full#sec-3-3)
+[English →](../en/summary#chapter-3--other-languages-that-have-reformed) | [ಕನ್nnaDa →](../kn/full#sec-3-3)
 
 ## ೩.೩ panjAbi nuDiya baravaNige
 
@@ -1395,7 +1395,7 @@ kaliyuva mattu baLasuva kelasa heccu sulabavAgide.
 
 [ಕನ್ನಡ →](../kn/full#sec-3-4)
 
-[English →](../en/summary#chapter-3--other-languages-that-have-reformed) | [Eke →](../eke/full#sec-3-4)
+[English →](../en/summary#chapter-3--other-languages-that-have-reformed) | [ಕನ್nnaDa →](../kn/full#sec-3-4)
 
 ## ೩.೪ inDonESiyan nuDiya baravaNige
 inDonESiyan‌ barahadalli sAkaSTu samskrutada eravalu
@@ -1450,7 +1450,7 @@ bareyuvalli neravAgive.
 
 [ಕನ್ನಡ →](../kn/full#sec-3-5)
 
-[English →](../en/summary#chapter-3--other-languages-that-have-reformed) | [Eke →](../eke/full#sec-3-5)
+[English →](../en/summary#chapter-3--other-languages-that-have-reformed) | [ಕನ್nnaDa →](../kn/full#sec-3-5)
 
 ## ೩.೫ jarman nuDiya baravaNige
 
@@ -1510,7 +1510,7 @@ adu baLakege baratoDagide.
 
 [ಕನ್ನಡ →](../kn/full#sec-3-6)
 
-[English →](../en/summary#chapter-3--other-languages-that-have-reformed) | [Eke →](../eke/full#sec-3-6)
+[English →](../en/summary#chapter-3--other-languages-that-have-reformed) | [ಕನ್nnaDa →](../kn/full#sec-3-6)
 
 ## ೩.೬ TarkiS nuDiya baravaNige
 
@@ -1618,7 +1618,7 @@ sAdyavAyitendu hELalAguttide.
 
 [ಕನ್ನಡ →](../kn/full#sec-3-7)
 
-[English →](../en/summary#chapter-3--other-languages-that-have-reformed) | [Eke →](../eke/full#sec-3-7)
+[English →](../en/summary#chapter-3--other-languages-that-have-reformed) | [ಕನ್nnaDa →](../kn/full#sec-3-7)
 
 ## ೩.೭ asamIs nuDiya baravaNige
 
@@ -1746,7 +1746,7 @@ mADiruva I badalAvaNegaLu oLLeya ettugegaLAgive.
 
 [ಕನ್ನಡ →](../kn/full#sec-4-1)
 
-[English →](../en/summary#chapter-4--objections-to-the-reform) | [Eke →](../eke/full#sec-4-1)
+[English →](../en/summary#chapter-4--objections-to-the-reform) | [ಕನ್nnaDa →](../kn/full#sec-4-1)
 
 ## ೪.೧ saripaDikeya prayOjanagaLu
 
@@ -1854,7 +1854,7 @@ heccu jIvantavAgi kANisuttade.
 
 [ಕನ್ನಡ →](../kn/full#sec-4-2)
 
-[English →](../en/summary#chapter-4--objections-to-the-reform) | [Eke →](../eke/full#sec-4-2)
+[English →](../en/summary#chapter-4--objections-to-the-reform) | [ಕನ್nnaDa →](../kn/full#sec-4-2)
 
 ## ೪.೨ tusuhottina tondaregaLu
 
@@ -1916,7 +1916,7 @@ ivugaLalli mukyavAda kelavannu keLage vivarisalAgide:
 
 [ಕನ್ನಡ →](../kn/full#sec-4-3)
 
-[English →](../en/summary#chapter-4--objections-to-the-reform) | [Eke →](../eke/full#sec-4-3)
+[English →](../en/summary#chapter-4--objections-to-the-reform) | [ಕನ್nnaDa →](../kn/full#sec-4-3)
 
 ## ೪.೩ heccu barigegaLiruvudu SrImantikeyalla
 
@@ -2032,7 +2032,7 @@ tappu vAdavalla de bErEnalla.
 
 [ಕನ್ನಡ →](../kn/full#sec-4-4)
 
-[English →](../en/summary#chapter-4--objections-to-the-reform) | [Eke →](../eke/full#sec-4-4)
+[English →](../en/summary#chapter-4--objections-to-the-reform) | [ಕನ್nnaDa →](../kn/full#sec-4-4)
 
 ## ೪.೪ uligaLa baLakeyalli vyatyAsagaLu
 
@@ -2091,7 +2091,7 @@ baLasikoLLuttidAre. Adare, ellarU ivannu. baLasuvudilla.
 
 [ಕನ್ನಡ →](../kn/full#sec-4-5)
 
-[English →](../en/summary#chapter-4--objections-to-the-reform) | [Eke →](../eke/full#sec-4-5)
+[English →](../en/summary#chapter-4--objections-to-the-reform) | [ಕನ್nnaDa →](../kn/full#sec-4-5)
 
 ## ೪.೫ ippuruLininda tondareyEnilla
 
@@ -2156,7 +2156,7 @@ emba vAdakke yAva AdAravU illa.
 
 [ಕನ್ನಡ →](../kn/full#sec-4-6)
 
-[English →](../en/summary#chapter-4--objections-to-the-reform) | [Eke →](../eke/full#sec-4-6)
+[English →](../en/summary#chapter-4--objections-to-the-reform) | [ಕನ್nnaDa →](../kn/full#sec-4-6)
 
 ## ೪.೬ mArpADu barahadallallade nuDiyallalla
 
@@ -2193,7 +2193,7 @@ emba tappu kalpaneyannu avaru hondiddAre.
 
 [ಕನ್ನಡ →](../kn/full#sec-4-7)
 
-[English →](../en/summary#chapter-4--objections-to-the-reform) | [Eke →](../eke/full#sec-4-7)
+[English →](../en/summary#chapter-4--objections-to-the-reform) | [ಕನ್nnaDa →](../kn/full#sec-4-7)
 
 ## ೪.೭ kannaDada OdU samskruta OdinantirabEkE?
 
@@ -2243,7 +2243,7 @@ oLLeyadu.
 
 [ಕನ್ನಡ →](../kn/full#sec-4-8)
 
-[English →](../en/summary#chapter-4--objections-to-the-reform) | [Eke →](../eke/full#sec-4-8)
+[English →](../en/summary#chapter-4--objections-to-the-reform) | [ಕನ್nnaDa →](../kn/full#sec-4-8)
 
 ## ೪.೮ eraDu sAvira varShagaLa parampare
 
@@ -2278,7 +2278,7 @@ ivattu naDesalEbEkAgide.
 
 [ಕನ್ನಡ →](../kn/full#sec-4-9)
 
-[English →](../en/summary#chapter-4--objections-to-the-reform) | [Eke →](../eke/full#sec-4-9)
+[English →](../en/summary#chapter-4--objections-to-the-reform) | [ಕನ್nnaDa →](../kn/full#sec-4-9)
 
 ## ೪.೯ samskrutakke hindidda hirime indilla
 
@@ -2372,7 +2372,7 @@ tiLiyabEkAgilla.
 
 [ಕನ್ನಡ →](../kn/full#sec-4-10)
 
-[English →](../en/summary#chapter-4--objections-to-the-reform) | [Eke →](../eke/full#sec-4-10)
+[English →](../en/summary#chapter-4--objections-to-the-reform) | [ಕನ್nnaDa →](../kn/full#sec-4-10)
 
 ## ೪.೧೦ baraha mattu samskxti
 
@@ -2570,7 +2570,7 @@ kannaDa barahagaLalli illa vAgiDe.
 
 [ಕನ್ನಡ →](../kn/full#sec-5-1)
 
-[English →](../en/summary#chapter-5--conclusion) | [Eke →](../eke/full#sec-5-1)
+[English →](../en/summary#chapter-5--conclusion) | [ಕನ್nnaDa →](../kn/full#sec-5-1)
 
 ## ೫.೧ sAmAjika nyAya
 
@@ -2642,7 +2642,7 @@ baravaNigeya viSayadalli antaha kaScavEnilla.
 
 [ಕನ್ನಡ →](../kn/full#sec-5-2)
 
-[English →](../en/summary#chapter-5--conclusion) | [Eke →](../eke/full#sec-5-2)
+[English →](../en/summary#chapter-5--conclusion) | [ಕನ್nnaDa →](../kn/full#sec-5-2)
 
 ## ೫.೨ kannaDaddE Ada padagaLa baLake
 
@@ -2686,7 +2686,7 @@ eravalugaLa eNike kaDimeyAgaballu du.
 
 [ಕನ್ನಡ →](../kn/full#sec-5-3)
 
-[English →](../en/summary#chapter-5--conclusion) | [Eke →](../eke/full#sec-5-3)
+[English →](../en/summary#chapter-5--conclusion) | [ಕನ್nnaDa →](../kn/full#sec-5-3)
 
 ## ೫.೩ kaliyuva oLa ottaDa
 
@@ -2742,7 +2742,7 @@ bEkAgide.
 
 [ಕನ್ನಡ →](../kn/full#sec-5-4)
 
-[English →](../en/summary#chapter-5--conclusion) | [Eke →](../eke/full#sec-5-4)
+[English →](../en/summary#chapter-5--conclusion) | [ಕನ್nnaDa →](../kn/full#sec-5-4)
 
 ## ೫.೪ mukyavAda prayOjanagaLu
 

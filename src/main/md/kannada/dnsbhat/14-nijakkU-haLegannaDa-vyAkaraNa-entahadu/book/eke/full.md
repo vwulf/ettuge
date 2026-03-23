@@ -110,7 +110,7 @@ redirect_from:
 
 [↑ oLapiDige hintirugi](#toc)
 
-[English →](../en/summary) | [Eke →](../eke/full#pub-note)
+[English →](../en/summary) | [ಕನ್nnaDa →](../kn/full#pub-note)
 
 ---
 
@@ -165,7 +165,7 @@ pIThike
 
 ## ೧.೧ vyAkaraNada uddESa
 
-[English →](../en/summary#chapter-1--introduction) | [Eke →](../eke/full#sec-1-1)
+[English →](../en/summary#chapter-1--introduction) | [ಕನ್nnaDa →](../kn/full#sec-1-1)
 
 ondu bhASheyalli baLakeyalliruva pada, padarUpa, padakante mattu vAkyagaLa
 racaneyentahadu embudannu vivarisi hELuvudE vyAkaraNada mukhya udde ೇೀSa. I
@@ -277,7 +277,7 @@ samAdhAnakaravAda haLegannaDa vyAkaraNavAgalAradu.
 
 ## ೧.೨ eraDu rItiya vyAkaraNagaLu
 
-[English →](../en/summary#chapter-1--introduction) | [Eke →](../eke/full#sec-1-2)
+[English →](../en/summary#chapter-1--introduction) | [ಕನ್nnaDa →](../kn/full#sec-1-2)
 
 "vyAkaraNa' emba padavannu "arivige eTakada niyamAvaLi' mattu "arivige
 eTakuva niyamAvaLi' embudAgi eraDu arthagaLalli baLasalu sAdhyavide. ivugaLalli
@@ -412,7 +412,7 @@ siddhapaDisiruva arivige eTakuva niyamAvaLi (endare A bhASheya mEle Ata racisiru
 
 ## ೧.೩ haLegannaDada vyAkaraNa
 
-[English →](../en/summary#chapter-1--introduction) | [Eke →](../eke/full#sec-1-3)
+[English →](../en/summary#chapter-1--introduction) | [ಕನ್nnaDa →](../kn/full#sec-1-3)
 
 haLegannaDadalli pada, padarUpa, padakante mattu vAkyagaLannu racisabEkAdalli
 entaha niyamagaLannu baLasabEkAguttade embudannu haLegannaDada vyAkaraNa vivarisi
@@ -561,7 +561,7 @@ anvayisuttave embudannu pratyEkavAgi tiLidukoLLuva avaSyakateyide.
 
 ## ೧.೪ siddhavAgiruva vyAkaraNagaLu
 
-[English →](../en/summary#chapter-1--introduction) | [Eke →](../eke/full#sec-1-4)
+[English →](../en/summary#chapter-1--introduction) | [ಕನ್nnaDa →](../kn/full#sec-1-4)
 
 haLegannaDada mEle hindina kAladavaru racisida vyAkaraNagaLalli namage
 doretiruvavugaLu mukhyavAgi mUru. ೧೧nE SatamAnadalli samskxta bhASheyalli
@@ -646,7 +646,7 @@ sOtuhOgide.
 
 ## ೧.೫ pustakada svarUpa
 
-[English →](../en/summary#chapter-1--introduction) | [Eke →](../eke/full#sec-1-5)
+[English →](../en/summary#chapter-1--introduction) | [ಕನ್nnaDa →](../kn/full#sec-1-5)
 
 nijakkU haLegannaDa vyAkaraNa entahadu, adu baLasuva vyAkaraNada mUlatattvagaLu
 entahavu, iduvarege siddhavAgiruva, mattu Iga janapriyavAgiruva vyAkaraNa granthagaLu
@@ -816,7 +816,7 @@ pAribhAShika padagaLa baLake
 
 ## ೨.೧ pIThike
 
-[English →](../en/summary#chapter-2--use-of-technical-terms) | [Eke →](../eke/full#sec-2-1)
+[English →](../en/summary#chapter-2--use-of-technical-terms) | [ಕನ್nnaDa →](../kn/full#sec-2-1)
 
 samskxta mattu haLegannaDagaLa naDuve avu baLasuva vyAkaraNada mUla tatvagaLalle €nE
 halavu mukhyavAda vyatyAsagaLive embudannu nAvu mundina adhyAyagaLalli
@@ -841,7 +841,7 @@ I pAribhAShika padagaLa baLake haLegannaDa vyAkaraNagaLalli gondalakkeDemADide.
 
 ## ೨.೨ lOpa, Agama mattu AdESa
 
-[English →](../en/summary#chapter-2--use-of-technical-terms) | [Eke →](../eke/full#sec-2-2)
+[English →](../en/summary#chapter-2--use-of-technical-terms) | [ಕನ್nnaDa →](../kn/full#sec-2-2)
 
 padagaLige pratyayagaLannu sErisidAga, illavE eraDu padagaLannu oTTige sErisidAga,
 A pada illavE pratyayagaLalli kANisuva vyatyAsagaLannu avugaLalli naDeyuva
@@ -1172,7 +1172,7 @@ illavE AdESagaLendu parigaNisuvudu haLegannaDada maTTige ucitavalla.
 
 ## ೨.೩ vyAkaraNa sanjYegaLu
 
-[English →](../en/summary#chapter-2--use-of-technical-terms) | [Eke →](../eke/full#sec-2-3)
+[English →](../en/summary#chapter-2--use-of-technical-terms) | [ಕನ್nnaDa →](../kn/full#sec-2-3)
 
 vyAkaraNagaLalli halavu rItiya sanjYe; gaLannu baLasuva avaSyakateyiddu, avugaLalli
 kelavu ondu bhASheya vyAkaraNakkaShTE sImitavAgiruttave; avu A bhASheya pada
@@ -1324,7 +1324,7 @@ AdhAravU illa (venkaTAcala SAstrI ೧೯೯೪:೯-೧೦ nODi).
 
 ## ೨.೪ pratyaya mattu padarUpa
 
-[English →](../en/summary#chapter-2--use-of-technical-terms) | [Eke →](../eke/full#sec-2-4)
+[English →](../en/summary#chapter-2--use-of-technical-terms) | [ಕನ್nnaDa →](../kn/full#sec-2-4)
 
 padagaLannu mattu padarUpagaLannu vivarisuvAga AdaShTu maTTige avugaLa
 oLaracaneyEnu embudannu vivarisi hELuvudu vyAkaraNada uddESa. haLegannaDa
@@ -1378,7 +1378,7 @@ v‌ pratyayavU, sarvapadagaLa annegam, annam, udum modalAda rUpagaLU bandive.
 
 ## ೨.೫ haLegannaDada vyApti
 
-[English →](../en/summary#chapter-2--use-of-technical-terms) | [Eke →](../eke/full#sec-2-5)
+[English →](../en/summary#chapter-2--use-of-technical-terms) | [ಕನ್nnaDa →](../kn/full#sec-2-5)
 
 kESirAjanu vyAkaraNavannu racisida kAladalli, grantharacaneyalli baLakeyAgutti dda
 haLegannaDa bhAShAprabhEda mAtinalli baLakeyallidda prabhEdakkinta bhinnavAgiddirabEku. I
@@ -1423,7 +1423,7 @@ kANabahudu.
 
 ## ೨.೬ pAribhAShika padagaLalli kannaDatana
 
-[English →](../en/summary#chapter-2--use-of-technical-terms) | [Eke →](../eke/full#sec-2-6)
+[English →](../en/summary#chapter-2--use-of-technical-terms) | [ಕನ್nnaDa →](../kn/full#sec-2-6)
 
 haLegannaDa vyAkaraNagaLa mEle samskxta vyAkaraNakke entaha hiDitavittu embudannu,
 mEle (೨.೧)ralli sUcisida hAge, I vyAkaraNagaLalli baLakeyAguva pAribhAShika
@@ -1512,7 +1512,7 @@ mEle hEruvudu sariyalla.
 
 ## ೨.೭ sArAmSa
 
-[English →](../en/summary#chapter-2--use-of-technical-terms) | [Eke →](../eke/full#sec-2-7)
+[English →](../en/summary#chapter-2--use-of-technical-terms) | [ಕನ್nnaDa →](../kn/full#sec-2-7)
 
 haLegannaDa vyAkaraNagaLalli baLakeyAgiruva pAribhAShika padagaLellavU samskxta
 vyAkaraNadinda paDedavugaLu. ivu samskxta vyAkaraNavannu vivarisi hELuvudakke
@@ -1552,7 +1552,7 @@ varNagaLa baLake
 
 ## ೩.೧ pIThike
 
-[English →](../en/summary#chapter-3--use-of-phonemes) | [Eke →](../eke/full#sec-3-1)
+[English →](../en/summary#chapter-3--use-of-phonemes) | [ಕನ್nnaDa →](../kn/full#sec-3-1)
 
 ellA bhAShegaLU varNagaLannu jODisi padagaLannu racisutta veyAdarU, idakkAgi
 yAva varNagaLannella baLasalAguttade, mattu avannu yAva anukramadallella
@@ -1574,7 +1574,7 @@ varNagaLa paTTi, vibhajane, mattu pAribhAShika padagaLa avaSyakateyide.
 
 ## ೩.೨ varNagaLa paTTi
 
-[English →](../en/summary#chapter-3--use-of-phonemes) | [Eke →](../eke/full#sec-3-2)
+[English →](../en/summary#chapter-3--use-of-phonemes) | [ಕನ್nnaDa →](../kn/full#sec-3-2)
 
 samskxtakkU haLegannaDakkU naDuve avu baLasuva varNagaLa maTTige halavu
 vyatyAsagaLiddu, ivugaLalli kelavannu haLegannaDada prAcIna vayyAkaraNigaLu gamanisiddAre;
@@ -1634,7 +1634,7 @@ embudu nanagantU arthavAguvudilla.
 
 ## ೩.೩ varNagaLa anukrama
 
-[English →](../en/summary#chapter-3--use-of-phonemes) | [Eke →](../eke/full#sec-3-3)
+[English →](../en/summary#chapter-3--use-of-phonemes) | [ಕನ್nnaDa →](../kn/full#sec-3-3)
 
 varNagaLu padagaLalli yAva anukramadallella baraballuvu emba viShayadallU
 samskxta mattu kannaDa bhAShegaLa naDuve kelavu mukhyavAda vyatyAsagaLive. udAharaNegAgi,
@@ -1672,7 +1672,7 @@ baraballuvu (viSvajit‌, sarvaSak‌, viT‌).
 
 ## ೩.೪ tadbhavagaLalli kANisuva badalAvaNegaLu
 
-[English →](../en/summary#chapter-3--use-of-phonemes) | [Eke →](../eke/full#sec-3-4)
+[English →](../en/summary#chapter-3--use-of-phonemes) | [ಕನ್nnaDa →](../kn/full#sec-3-4)
 
 haLegannaDakke samskxtadinda nUrAru padagaLu eravalAgi bandive. ivugaLalli
 halavu badalAgade hAgeyE kANisikoLLuvuvAdare, bEre halavu badalAvaNegoLa-
@@ -1702,7 +1702,7 @@ tyAgi-cAgi, kShaNa-caNa, SrI-siri, sthAna-tANa).
 
 ## ೩.೫ padagaLa uccAraNe
 
-[English →](../en/summary#chapter-3--use-of-phonemes) | [Eke →](../eke/full#sec-3-5)
+[English →](../en/summary#chapter-3--use-of-phonemes) | [ಕನ್nnaDa →](../kn/full#sec-3-5)
 
 haLegannaDa mattu samskxtagaLa naDuve padagaLa uccAraNeyallU ondu mukhyavAda
 vyatyAsavide. samskxtada hecci na padagaLallU yAvudAdarU ondu svaravannu itara
@@ -1738,7 +1738,7 @@ vyatyAsavannu sUcisabEkendu yArU hELuva hAge kANisuvudilla).
 
 ## ೩.೬ varNagaLa gumpugaLu
 
-[English →](../en/summary#chapter-3--use-of-phonemes) | [Eke →](../eke/full#sec-3-6)
+[English →](../en/summary#chapter-3--use-of-phonemes) | [ಕನ್nnaDa →](../kn/full#sec-3-6)
 
 ondu bhASheyalli baruva varNagaLannu yAva rItiya gumpugaLalli vingaDisi
 hELabEku embudu avugaLa utpAdane, baLake mattu caritreyalli kANisu
@@ -1923,7 +1923,7 @@ I sUtragaLa sahAyadinda paDeyalu sAdhyavAgadu.
 
 ## ೩.೭ sErikeya niyamagaLu
 
-[English →](../en/summary#chapter-3--use-of-phonemes) | [Eke →](../eke/full#sec-3-7)
+[English →](../en/summary#chapter-3--use-of-phonemes) | [ಕನ್nnaDa →](../kn/full#sec-3-7)
 
 eraDu athavA jAsti pada illavE padarUpagaLannu vAkyagaLalli baLasuvAga,
 sAmAnyavAgi avu ondaroDanondu sErikoLLuttave, mattu hAge sErikoLLuvAga
@@ -2011,7 +2011,7 @@ strIyemba) koTTiddAne.
 
 ## ೩.೮ sArAmSa
 
-[English →](../en/summary#chapter-3--use-of-phonemes) | [Eke →](../eke/full#sec-3-8)
+[English →](../en/summary#chapter-3--use-of-phonemes) | [ಕನ್nnaDa →](../kn/full#sec-3-8)
 
 haLegannaDa mattu samskxta bhAShegaLa naDuve varNagaLa sankhyeyalli mAtravalla,
 avugaLa baLakeyallU vyatyAsavide. hAgAgi, samskxta vyAkaraNagaLalli baLakeyAguva
@@ -2037,7 +2037,7 @@ padavargagaLu
 
 ## ೪.೧ padagaLalli vayvidhya
 
-[English →](../en/summary#chapter-4--parts-of-speech) | [Eke →](../eke/full#sec-4-1)
+[English →](../en/summary#chapter-4--parts-of-speech) | [ಕನ್nnaDa →](../kn/full#sec-4-1)
 
 ondu bhASheyalli entaha padagaLella baLakeyAguttave embudu padakantegaLannu
 mattu vAkyagaLannu racisuvudakkAgi A bhASheyalli entaha vidhAnagaLannu baLasalAgutta de
@@ -2086,7 +2086,7 @@ yAke mUDibandide embudu spaShTavAguttade (೪.೨ nODi).
 
 ## ೪.೨ nAmapadakantegaLa racane
 
-[English →](../en/summary#chapter-4--parts-of-speech) | [Eke →](../eke/full#sec-4-2)
+[English →](../en/summary#chapter-4--parts-of-speech) | [ಕನ್nnaDa →](../kn/full#sec-4-2)
 
 vyakti, vastu modalAduvannu sUcisuvudakkAgi, hecci: na bhAShegaLallU hesarisuvudu
 mattu varNisuvudu embudAgi eraDu vidhAnagaLu baLake yAguttave (bhaT‌ ೨೦೦೨:೮೦
@@ -2548,7 +2548,7 @@ puruSha pratyayagaLannu sErisalAgide.
 
 ## ೪.೩ sarvanAmagaLu
 
-[English →](../en/summary#chapter-4--parts-of-speech) | [Eke →](../eke/full#sec-4-3)
+[English →](../en/summary#chapter-4--parts-of-speech) | [ಕನ್nnaDa →](../kn/full#sec-4-3)
 
 hecci na bhAShegaLallU "puruShapada' mattu "sarvapada' embudAgi eraDu
 padavargagaLige sEruva padagaLiruttave. ivugaLalli puruShapadagaLu ondu vAkyavannu
@@ -2619,7 +2619,7 @@ vibhAgadallU sarvapadagaLannu munde (೪.೫)nE vibhAgadallU pariSIlisalAguvudu.
 
 ## ೪.೪ praruShapadagaLu
 
-[English →](../en/summary#chapter-4--parts-of-speech) | [Eke →](../eke/full#sec-4-4)
+[English →](../en/summary#chapter-4--parts-of-speech) | [ಕನ್nnaDa →](../kn/full#sec-4-4)
 
 mEle sUcisida hAge, haLegannaDadalli An‌, nIn‌ mattu tAn‌ embudAgi
 mUru puruShapadagaLu baLakeyalliddu, ivu vAkyada ADuga, kELuga mattu itara
@@ -2802,7 +2802,7 @@ nija, Adare I padavU samskxtada puruShapadagaLiginta bhinnavAgide.
 
 ## ೪.೫ sarvapadagaLu
 
-[English →](../en/summary#chapter-4--parts-of-speech) | [Eke →](../eke/full#sec-4-5)
+[English →](../en/summary#chapter-4--parts-of-speech) | [ಕನ್nnaDa →](../kn/full#sec-4-5)
 
 mEle sUcisida hAge, sarvapadagaLalli sAmAnyavAgi eraDu angagaLiddu,
 avugaLalli ondu A padada kelasavEnembudannU innondu adara vyAptiyEnembudannU
@@ -3071,7 +3071,7 @@ jAgadalli bandiruvudannu kANabahudu.
 
 ## ೪.೬ eravalAgi banda padagaLu
 
-[English →](../en/summary#chapter-4--parts-of-speech) | [Eke →](../eke/full#sec-4-6)
+[English →](../en/summary#chapter-4--parts-of-speech) | [ಕನ್nnaDa →](../kn/full#sec-4-6)
 
 kESirAjana vyAkaraNadalli haLegannaDada padagaLannu "dESya' (athavA "dESIya'),
 "samasamskxta', "tada ೈva' mattu "tatsama' embudAgi nAlku gumpugaLalli vingaDisalAgide.
@@ -3396,7 +3396,7 @@ A bhASheya nijavAda svarUpavannu vivarisuvalli avaru sOtiddAre.
 
 ## ೪.೭ sArAmSa
 
-[English →](../en/summary#chapter-4--parts-of-speech) | [Eke →](../eke/full#sec-4-7)
+[English →](../en/summary#chapter-4--parts-of-speech) | [ಕನ್nnaDa →](../kn/full#sec-4-7)
 
 haLegannaDadalli nAmapada, kriyApada, mattu guNapadagaLembudAgi mUru mukhya
 padavargagaLalli baraballa padagaLive. Adare, samskxtadalli nAmapada mattu kriyApadagaLemba
@@ -3432,7 +3432,7 @@ padagaLa oLaracane
 
 ## ೫.೧ pIThike
 
-[English →](../en/summary#chapter-5--internal-structure-of-words) | [Eke →](../eke/full#sec-5-1)
+[English →](../en/summary#chapter-5--internal-structure-of-words) | [ಕನ್nnaDa →](../kn/full#sec-5-1)
 
 haLegannaDadalli baLakeyAguva padagaLa oLaracaneyentahadu embudannu tiLiyalu
 prayatnisuva modalu, pada mattu padarUpagaLa naDuviruva vyatyAsaventahadu embudannu
@@ -3536,7 +3536,7 @@ kANisikonDive embudannu keLagina pariSIlane spaShTapaDisuttade.
 
 ## ೫.೨ pratyayagaLa baLake
 
-[English →](../en/summary#chapter-5--internal-structure-of-words) | [Eke →](../eke/full#sec-5-2)
+[English →](../en/summary#chapter-5--internal-structure-of-words) | [ಕನ್nnaDa →](../kn/full#sec-5-2)
 
 hosa padagaLannu tayArisuvudakkAgi I eraDu bhAShegaLallU mukhyavAgi (೧)
 padagaLige pratyayagaLannu sErisuvudu, mattu (೨) eraDu (athavA heccu) padagaLannu
@@ -3812,7 +3812,7 @@ bEreyE ondu padavargadalli irisalu sAdhyavAguvudilla (೭.೨.೩ nODi).
 
 ## ೫.೩ samAsagaLu
 
-[English →](../en/summary#chapter-5--internal-structure-of-words) | [Eke →](../eke/full#sec-5-3)
+[English →](../en/summary#chapter-5--internal-structure-of-words) | [ಕನ್nnaDa →](../kn/full#sec-5-3)
 
 eraDu (athavA heccu) padagaLannu oTTu sErisi hosa padavondannu
 tayArisuvudakkAgi baLakeyAguva vidhAnagaLannu samAsagaLendu kareyalAguttade.
@@ -4031,7 +4031,7 @@ aLiduhOgiruvudE idakke kAraNa.
 
 ## ೫.೪ haLegannaDa vyAkaraNagaLalli samAsa
 
-[English →](../en/summary#chapter-5--internal-structure-of-words) | [Eke →](../eke/full#sec-5-4)
+[English →](../en/summary#chapter-5--internal-structure-of-words) | [ಕನ್nnaDa →](../kn/full#sec-5-4)
 
 haLegannaDada vayyAkaraNigaLu samskxta vyAkaraNagaLalli siddha vAgiruva samastapadagaLa
 vibhajaneyannu hAgeyE haLegannaDakke aLavaDisalu prayatnisiddA re; hIge mADidudarindAgi,
@@ -4436,7 +4436,7 @@ embudannu illi gamanisabahudu.
 
 ## ೫.೫ sArAmSa
 
-[English →](../en/summary#chapter-5--internal-structure-of-words) | [Eke →](../eke/full#sec-5-5)
+[English →](../en/summary#chapter-5--internal-structure-of-words) | [ಕನ್nnaDa →](../kn/full#sec-5-5)
 
 padagaLa oLaracaneyannu vivarisuvalli haLegannaDa vayyAkaraNigaLu halavu tappugaLannu
 mADiddA. re. ivugaLalli hecci navU samskxtada padaracaneya niyamagaLannu hAgeyE
@@ -4470,7 +4470,7 @@ nAmapadagaLa svarUpa
 
 ## ೬.೧ nAmapadagaLa vibhajane
 
-[English →](../en/summary#chapter-6--nature-of-nouns) | [Eke →](../eke/full#sec-6-1)
+[English →](../en/summary#chapter-6--nature-of-nouns) | [ಕನ್nnaDa →](../kn/full#sec-6-1)
 
 haLegannaDadalli baLakeyAguva nAmapadagaLa vibhajanege eraDu viShayagaLu
 AdhAravAgaballuvu: avugaLige entaha oLaracaneyide embudu ondu, mattu vAkyadalli
@@ -4679,7 +4679,7 @@ embudannu munde nODaliruvevu.
 
 ## ೬.೨ kxllingagaLa svarUpa
 
-[English →](../en/summary#chapter-6--nature-of-nouns) | [Eke →](../eke/full#sec-6-2)
+[English →](../en/summary#chapter-6--nature-of-nouns) | [ಕನ್nnaDa →](../kn/full#sec-6-2)
 
 mEle (೬.೧.೩)ralli sUcisida hAge, kriyApadagaLa nAmarUpagaLannu endare
 vAkyagaLalli nAmapadagaLa jAgadalli baraballa kriyApadagaLa padarUpagaLannu,
@@ -5017,7 +5017,7 @@ hAgilla.
 
 ## ೬.೩ sArAmSa
 
-[English →](../en/summary#chapter-6--nature-of-nouns) | [Eke →](../eke/full#sec-6-3)
+[English →](../en/summary#chapter-6--nature-of-nouns) | [ಕನ್nnaDa →](../kn/full#sec-6-3)
 
 haLegannaDadalli entaha padagaLannella nAmapadagaLendu kareyabahudu embudannu
 vivarisi hELuvalli haLegannaDada vayyAkaraNigaLu halavu rItiya gondalagaLannu
@@ -5043,7 +5043,7 @@ linga mattu vacanagaLu
 
 ## ೭.೧ pIThike
 
-[English →](../en/summary#chapter-7--gender-and-number) | [Eke →](../eke/full#sec-7-1)
+[English →](../en/summary#chapter-7--gender-and-number) | [ಕನ್nnaDa →](../kn/full#sec-7-1)
 
 nAmapadagaLannu vAkyagaLalli baLasuva vidhAnadalli haLegannaDa mattu samskxta
 bhAShegaLa naDuve halavu vyatyAsagaLive. I vyatyAsagaLigU I eraDu bhAShegaLu baLasuva
@@ -5072,7 +5072,7 @@ vibhaktiya baLakeyannu mundina (enTanE) adhyAyadallU vivarisalAgide.
 
 ## ೭.೨ vibhajaneyalli vyatyAsa
 
-[English →](../en/summary#chapter-7--gender-and-number) | [Eke →](../eke/full#sec-7-2)
+[English →](../en/summary#chapter-7--gender-and-number) | [ಕನ್nnaDa →](../kn/full#sec-7-2)
 
 nAmapadagaLannu eraDu athavA heccu “linga'gaLalli vingaDisi hELuva krama
 halavu bhAShegaLalli baLakeyallide. avugaLa artha, avugaLondige baraballa itara
@@ -5387,7 +5387,7 @@ Aru lingagaLu kannaDadalliddarU "parivartisuvudilla' endu hELiddAne!
 
 ## ೭.೩ vacanada sUcane
 
-[English →](../en/summary#chapter-7--gender-and-number) | [Eke →](../eke/full#sec-7-3)
+[English →](../en/summary#chapter-7--gender-and-number) | [ಕನ್nnaDa →](../kn/full#sec-7-3)
 
 nAmapadagaLu gurutisuva vyakti, vastu modalAdavugaLa sankhyeyannu
 sUcisuvudakkAgi avugaLondige "vacana'pratyayavannu sErisalAguttade. udAharaNegAgi,
@@ -5666,7 +5666,7 @@ pratyayagaLannu baLasuva vidhAna baLakeyallide.
 
 ## ೭.೪ sArAmSa
 
-[English →](../en/summary#chapter-7--gender-and-number) | [Eke →](../eke/full#sec-7-4)
+[English →](../en/summary#chapter-7--gender-and-number) | [ಕನ್nnaDa →](../kn/full#sec-7-4)
 
 haLegannaDa nAmapadagaLa lingabhEda nEravAgi avugaLa arthada mEle avalambiside.
 Adare, samskxta nAmapadagaLa lingabhEda arthakkintalU rUDhiyalli I nAmapadagaLige
@@ -5703,7 +5703,7 @@ vibhaktigaLu mattu kArakagaLu
 
 ## ೮.೧ pIThike
 
-[English →](../en/summary#chapter-8--case-suffixes-and-semantic-roles) | [Eke →](../eke/full#sec-8-1)
+[English →](../en/summary#chapter-8--case-suffixes-and-semantic-roles) | [ಕನ್nnaDa →](../kn/full#sec-8-1)
 
 ondu vAkyavu tiLisuva ghaTane illavE sangatiyalli nAmapadagaLu sUcisuva
 vyakti, vastu modalAdavugaLu yAva rItiyalli toDagikonDive embudannu A
@@ -5731,7 +5731,7 @@ naDuve halavu mukhyavAda vyatyAsagaLive. ivugaLalli kelavannu keLage koDalAgide:
 
 ## ೮.೨ vibhakti pratyayavannu baLasadiruvudu
 
-[English →](../en/summary#chapter-8--case-suffixes-and-semantic-roles) | [Eke →](../eke/full#sec-8-2)
+[English →](../en/summary#chapter-8--case-suffixes-and-semantic-roles) | [ಕನ್nnaDa →](../kn/full#sec-8-2)
 
 mEle (೭.೩.೧)ralli sUcisida hAge, samskxtadalli vibhakti pratyayagaLu
 vibhaktibhEdavannu mAtravallade vacanabhEdavannU sUcisuttave. udAharaNegAgi, samskxtada
@@ -5836,7 +5836,7 @@ sAdhyavAgadu. adu vibhaktiyondige vacanavannU sUcisuttiruvudE idakke kAraNa.
 
 ## ೮.೩ vibhakti pratyayagaLa sankhye
 
-[English →](../en/summary#chapter-8--case-suffixes-and-semantic-roles) | [Eke →](../eke/full#sec-8-3)
+[English →](../en/summary#chapter-8--case-suffixes-and-semantic-roles) | [ಕನ್nnaDa →](../kn/full#sec-8-3)
 
 haLegannaDadalli nAmapadagaLondige baLasalu oTTu nAlku vibhakti pratyayagaLu
 mAtra baLakeyallive.
@@ -5951,7 +5951,7 @@ avannu hesarisidarU I kelasa aShTu sulabhavAgadu (viTni ೧೮೮೮:೮೯ nODi
 
 ## ೮.೪ vibhakti pratyayagaLa artha
 
-[English →](../en/summary#chapter-8--case-suffixes-and-semantic-roles) | [Eke →](../eke/full#sec-8-4)
+[English →](../en/summary#chapter-8--case-suffixes-and-semantic-roles) | [ಕನ್nnaDa →](../kn/full#sec-8-4)
 
 nAmapada mattu kriyApadagaLa naDuviruva sambandhagaLannu haLegannaDa mattu
 samskxta bhAShegaLu bEre bEre rItiyalli vingaDisiruvudE avugaLalli baLakeyAguva
@@ -6108,7 +6108,7 @@ bILuva ghaTaneya koneyAgiruva caraNa "kAlu' padavannU saptamiyallirisalAgide.
 
 ## ೮.೫ vistxta baLakegaLu
 
-[English →](../en/summary#chapter-8--case-suffixes-and-semantic-roles) | [Eke →](../eke/full#sec-8-5)
+[English →](../en/summary#chapter-8--case-suffixes-and-semantic-roles) | [ಕನ್nnaDa →](../kn/full#sec-8-5)
 
 haLegannaDa vibhakti pratyayagaLa baLakegU samskxta vibhakti pratyayagaLa baLakegU
 naDuviruva ondu mukhyavAda vyatyAsavEnendare, mEle sUcisida hAge, haLegannaDada
@@ -6173,7 +6173,7 @@ pratyayagaLu sUcisuttave tAnE.
 
 ## ೮.೬ vibhakti pratyayagaLu mattu kArakagaLu
 
-[English →](../en/summary#chapter-8--case-suffixes-and-semantic-roles) | [Eke →](../eke/full#sec-8-6)
+[English →](../en/summary#chapter-8--case-suffixes-and-semantic-roles) | [ಕನ್nnaDa →](../kn/full#sec-8-6)
 
 vibhakti pratyayagaLa mUlaka nAmapada mattu kriyApadagaLa naDuviruva
 ryA: sUcisuvalli haLegannaDa mattu samskxta bhAShegaLa naDuve entaha
@@ -6240,7 +6240,7 @@ hesarisuva badalu, A pratyayagaLa arthavannu spaShTapaDisuva hAge bAdhita (an‌
 
 ## ೮.೭ haLegannaDa vayyAkaraNigaLa samasyegaLu
 
-[English →](../en/summary#chapter-8--case-suffixes-and-semantic-roles) | [Eke →](../eke/full#sec-8-7)
+[English →](../en/summary#chapter-8--case-suffixes-and-semantic-roles) | [ಕನ್nnaDa →](../kn/full#sec-8-7)
 
 haLegannaDa mattu samskxta bhAShegaLa naDuve vibhakti pratyayagaLa baLakeyalli,
 mEle sUcisida hAge, halavu mUlabhUtavAda vyatyAsagaLive. hAgAgi, samskxta
@@ -6784,7 +6784,7 @@ karta mattu karma kArakagaLE yOgyavAdavugaLu.
 
 ## ೮.೮ sArAmSa
 
-[English →](../en/summary#chapter-8--case-suffixes-and-semantic-roles) | [Eke →](../eke/full#sec-8-8)
+[English →](../en/summary#chapter-8--case-suffixes-and-semantic-roles) | [ಕನ್nnaDa →](../kn/full#sec-8-8)
 
 haLegannaDadalli vibhakti mattu vacanagaLannu ba bErebe bEre pratyayagaLu sUcisuvuvAda
 
@@ -6831,7 +6831,7 @@ kri yArUpagaLu
 
 ## ೯.೧ kriyArUpagaLa oLaracane
 
-[English →](../en/summary#chapter-9--verb-forms) | [Eke →](../eke/full#sec-9-1)
+[English →](../en/summary#chapter-9--verb-forms) | [ಕನ್nnaDa →](../kn/full#sec-9-1)
 
 vAkyada pradhAna angavAgi baruva kriyArUpagaLa oLaracaneyalli haLegannaDa
 mattu samskxta bhAShegaLa naDuve halavu mukhyavAda vyatyAsagaLive. I eraDu bhAShegaLu
@@ -6990,7 +6990,7 @@ udAharaNe.
 
 ## ೯.೨ samayavannu sUcisuva vidhAnagaLu
 
-[English →](../en/summary#chapter-9--verb-forms) | [Eke →](../eke/full#sec-9-2)
+[English →](../en/summary#chapter-9--verb-forms) | [ಕನ್nnaDa →](../kn/full#sec-9-2)
 
 ondu ghaTane illavE sangatiya samayavannu sUcisuvudakkAgi bhAShegaLalli
 mukhyavAgi mUru rItiya vidhAnagaLu baLakeyallive:
@@ -7425,7 +7425,7 @@ idakke apavAdagaLAgive (jAsti vivaragaLige (೧೦.೨-೩) nODi).
 
 ## ೯.೩ ghaTakavannu sUcisuvudu
 
-[English →](../en/summary#chapter-9--verb-forms) | [Eke →](../eke/full#sec-9-3)
+[English →](../en/summary#chapter-9--verb-forms) | [ಕನ್nnaDa →](../kn/full#sec-9-3)
 
 ghaTaneyannu sUcisuva vAkyagaLalli kriyApadagaLu ghaTaneyannU nAmapadagaLu
 (illavE nAmapada kantegaLu) ghaTaneyalli toDagikonDiruva vyakti, vastu modalAda
@@ -7542,7 +7542,7 @@ baLakeyAgive.
 
 ## ೯.೪ gum (kum) pratyayada baLake
 
-[English →](../en/summary#chapter-9--verb-forms) | [Eke →](../eke/full#sec-9-4)
+[English →](../en/summary#chapter-9--verb-forms) | [ಕನ್nnaDa →](../kn/full#sec-9-4)
 
 haLegannaDadalli gum (kum) pratyaya nijakkU yAva arthadalli baLakeyAguttittu
 emba viShayadallU heccina samSOdhane naDesuva avaSyakateyideyendu nanage tOruttade.
@@ -7632,7 +7632,7 @@ sUcisuva arthavide.
 
 ## ೯.೫ allagaLeyuva vidhAnagaLu
 
-[English →](../en/summary#chapter-9--verb-forms) | [Eke →](../eke/full#sec-9-5)
+[English →](../en/summary#chapter-9--verb-forms) | [ಕನ್nnaDa →](../kn/full#sec-9-5)
 
 haLegannaDa mattu samskxta bhAShegaLa naDuve allagaLeyuvudakkAgi baLakeyAguva
 vidhAnagaLa naDuve halavu mUlabhUtavAda vyatyAsagaLive. avugaLalli mukhyavAda
@@ -7776,7 +7776,7 @@ kelasavannu mADadante taDeyuttade. al‌ pratyayakke "alla' padada arthakkintalU
 
 ## ೯.೬ ghaTane mattu sangati
 
-[English →](../en/summary#chapter-9--verb-forms) | [Eke →](../eke/full#sec-9-6)
+[English →](../en/summary#chapter-9--verb-forms) | [ಕನ್nnaDa →](../kn/full#sec-9-6)
 
 kriyApadagaLa racaneyalli samayada "sambandha'kke mahatvavannu koDuva bhAShegaLigU
 samayada "Antarika vyavasthe'ge mahatvavannu koDuva bhAShegaLigU naDuve ondu
@@ -7847,7 +7847,7 @@ kriyArUpagaLU ive.
 
 ## ೯.೭ sArAmSa
 
-[English →](../en/summary#chapter-9--verb-forms) | [Eke →](../eke/full#sec-9-7)
+[English →](../en/summary#chapter-9--verb-forms) | [ಕನ್nnaDa →](../kn/full#sec-9-7)
 
 kriyArUpagaLa racaneyalli haLegannaDa mattu samskxta bhAShegaLa naDuve vyAkaraNada
 mUla tatvagaLalle €nE halavAru vyatyAsagaLive.
@@ -7885,7 +7885,7 @@ vAkyagaLa jODaNe
 
 ## ೧೦.೧ pIThike
 
-[English →](../en/summary#chapter-10--sentence-connectives) | [Eke →](../eke/full#sec-10-1)
+[English →](../en/summary#chapter-10--sentence-connectives) | [ಕನ್nnaDa →](../kn/full#sec-10-1)
 
 arthadalli ondakkondu sambandhisiruva eraDu athavA jAsti vAkyagaLannu oTTu
 sErisi ondE vAkyavannAgi mADi hELalu bhAShegaLalli halavu rItiya vidhAnagaLu
@@ -7948,7 +7948,7 @@ vivarisalAgide.
 
 ## ೧೦.೨ haLegannaDada jODisuva kriyArUpagaLu
 
-[English →](../en/summary#chapter-10--sentence-connectives) | [Eke →](../eke/full#sec-10-2)
+[English →](../en/summary#chapter-10--sentence-connectives) | [ಕನ್nnaDa →](../kn/full#sec-10-2)
 
 vAkyagaLannu jODisuvudakkAgi haLegannaDadalli halavu rItiya kriyArUpagaLu
 baLakeyAguttiddu, avu I vAkyagaLu tiLisuva ghaTanegaLa naDuve kANisuva bEre bEre
@@ -8195,7 +8195,7 @@ nODi).
 
 ## ೧೦.೩ samskxtadalli jODisuva kriyArUpagaLu
 
-[English →](../en/summary#chapter-10--sentence-connectives) | [Eke →](../eke/full#sec-10-3)
+[English →](../en/summary#chapter-10--sentence-connectives) | [ಕನ್nnaDa →](../kn/full#sec-10-3)
 
 samskxtadalliyU vAkyagaLannu jODisuvudakkAgi kriyArUpagaLannu baLasalu
 sAdhyavide. idakkAgi baLakeyAguva kriyArUpagaLu nAmapadagaLirabahudu, nAmapadagaLa
@@ -8340,7 +8340,7 @@ baLakeyilla embudannu gamanisabahudu.
 
 ## ೧೦.೪ haLegannaDa vayyAkaraNigaLa samasyegaLu
 
-[English →](../en/summary#chapter-10--sentence-connectives) | [Eke →](../eke/full#sec-10-4)
+[English →](../en/summary#chapter-10--sentence-connectives) | [ಕನ್nnaDa →](../kn/full#sec-10-4)
 
 jODisuva kriyArUpagaLannu vivarisuvalli haLegannaDa vayyAkaraNigaLige avugaLa
 hindiruva vyavastheyannu mattu vyAkaraNa tatvagaLannu sariyAgi grahisikoLLalu
@@ -8483,7 +8483,7 @@ embudannu avaru gamanisadiralu kAraNavirabahudu.
 
 ## ೧೦.೫ sArAmSa
 
-[English →](../en/summary#chapter-10--sentence-connectives) | [Eke →](../eke/full#sec-10-5)
+[English →](../en/summary#chapter-10--sentence-connectives) | [ಕನ್nnaDa →](../kn/full#sec-10-5)
 
 eraDu vAkyagaLannu jODisuvudakkAgi haLegannaDadalli jODisuva kriyArUpagaLa
 baLakeyAguttade. samskxtadallU intaha kriyArUpagaLa baLakeyAguttadeyAdarU
@@ -8517,7 +8517,7 @@ viShayavAkyagaLu
 
 ## ೧೧.೧ pIThike
 
-[English →](../en/summary#chapter-11--embedded-clauses) | [Eke →](../eke/full#sec-11-1)
+[English →](../en/summary#chapter-11--embedded-clauses) | [ಕನ್nnaDa →](../kn/full#sec-11-1)
 
 haLegannaDadalli mukhyavAgi eraDu rItiya vAkyagaLu baLakeyallive. ivannu
 "kriyAvAkya' mattu "viShayavAkya' endu kareyabahudu. ivugaLalli kriyAvAkyagaLu
@@ -8551,7 +8551,7 @@ vaySiShTa gaLannu vivarisalu avarige sAdhyavAgilla.
 
 ## ೧೧.೨ viShaya vAkyagaLa vibhajane
 
-[English →](../en/summary#chapter-11--embedded-clauses) | [Eke →](../eke/full#sec-11-2)
+[English →](../en/summary#chapter-11--embedded-clauses) | [ಕನ್nnaDa →](../kn/full#sec-11-2)
 
 haLegannaDada viShaya vAkyagaLige mUru mukhya uddESagaLive: (೧) obba vyakti
 illavE vastuvina guNadharmavannu tiLisuvudu, (೨) AtanigU innobba vyakti illavE
@@ -8600,7 +8600,7 @@ ivaLu gandharva strI'
 
 ## ೧೧.೩ guNavAkyagaLa racane
 
-[English →](../en/summary#chapter-11--embedded-clauses) | [Eke →](../eke/full#sec-11-3)
+[English →](../en/summary#chapter-11--embedded-clauses) | [ಕನ್nnaDa →](../kn/full#sec-11-3)
 
 guNadharmavannu sUcisuva viShaya vAkyagaLalli mukhyavAgi obba vyakti, vastu,
 illavE sangatiyannu sUcisuva ondu ghaTakavU, adara guNadharmavannu sUcisuva
@@ -8750,7 +8750,7 @@ tayArisalu sAdhyavide embudannu illi gamanisabahudu.
 
 ## ೧೧.೪ sambandha vAkyagaLa racane
 
-[English →](../en/summary#chapter-11--embedded-clauses) | [Eke →](../eke/full#sec-11-4)
+[English →](../en/summary#chapter-11--embedded-clauses) | [ಕನ್nnaDa →](../kn/full#sec-11-4)
 
 haLegannaDada sambandha vAkyagaLalli mukhyavAgi eraDu ghaTakagaLu bandirutta ve.
 ivugaLalli ondu ghaTaka ge pratyayadondige baruttiddu, vyakti, vastu modalAduvannu
@@ -8778,7 +8778,7 @@ vyaktigaLannU sUcisuttave. intaha vAkyagaLalli oL‌ kriyApada bAradiralU sAdhya
 
 ## ೧೧.೫ iruvikeya vAkyagaLu
 
-[English →](../en/summary#chapter-11--embedded-clauses) | [Eke →](../eke/full#sec-11-5)
+[English →](../en/summary#chapter-11--embedded-clauses) | [ಕನ್nnaDa →](../kn/full#sec-11-5)
 
 sambandha vAkyagaLa hAge iruvikeya vAkyagaLallU mukhyavAgi eraDu ghaTakagaLu
 mattu oL‌ (uL‌) kriyApada baLakeyAguttave. ivugaLalli baruva eraDu ghaTakagaLalli
@@ -8840,7 +8840,7 @@ hELuva sAdhyateyide. Adare, I viShayadalli heccina samSOdhane naDesuva avaSyakat
 
 ## ೧೧.೬ samskxtada viShayavAkyagaLu
 
-[English →](../en/summary#chapter-11--embedded-clauses) | [Eke →](../eke/full#sec-11-6)
+[English →](../en/summary#chapter-11--embedded-clauses) | [ಕನ್nnaDa →](../kn/full#sec-11-6)
 
 haLegannaDada hAge samskxtadallU mUru rItiya viShayavAkyagaLannu kANalu
 sAdhyavide. udAharaNegAgi, keLage koTTiruva vAkyagaLannu gamanisabahudu:
@@ -8995,7 +8995,7 @@ bhinnavAgilladiruvudakke mukhya kAraNa.
 
 ## ೧೧.೭ sArAmSa
 
-[English →](../en/summary#chapter-11--embedded-clauses) | [Eke →](../eke/full#sec-11-7)
+[English →](../en/summary#chapter-11--embedded-clauses) | [ಕನ್nnaDa →](../kn/full#sec-11-7)
 
 viShaya vAkyagaLa racaneyalli haLegannaDa mattu samskxta bhAShegaLa naDuve halavu
 mUlabhUtavAda vyatyAsagaLive. ivannu gamanisada kAraNa, haLegannaDada vayyAkaraNigaLige
@@ -9021,7 +9021,7 @@ muktAya
 
 ## ೧೨.೧ haLegannaDa vyAkaraNagaLa vimarSegaLu
 
-[English →](../en/summary#chapter-12--conclusion) | [Eke →](../eke/full#sec-12-1)
+[English →](../en/summary#chapter-12--conclusion) | [ಕನ್nnaDa →](../kn/full#sec-12-1)
 
 haLegannaDada mEle kESirAjanE modalAda prAcIna vayyAkaraNigaLu barediruva
 vyAkaraNagaLu nijakkU A bhASheya vyAkaraNaventahadu embudannu vivarisi hELalu
@@ -9127,7 +9127,7 @@ badalAyisi, bErondu hosa kaTTaDavannu kaTTuva avaSyakateyide.
 
 ## ೧೨.೨ vyAkaraNada sankIrNate
 
-[English →](../en/summary#chapter-12--conclusion) | [Eke →](../eke/full#sec-12-2)
+[English →](../en/summary#chapter-12--conclusion) | [ಕನ್nnaDa →](../kn/full#sec-12-2)
 
 ondu bhASheya vyAkaraNavembudu bahaLa sankIrNavAda viShaya. adannu
 pariSIlisidaShTU adara kuritAgi hosa hosa sangatigaLu gamanakke baruttalE iruttave.
@@ -9191,7 +9191,7 @@ udAharaNeyinda spaShTavAgadiradu.
 
 ## ೧೨.೩ vyAkaraNada vayvidhya
 
-[English →](../en/summary#chapter-12--conclusion) | [Eke →](../eke/full#sec-12-3)
+[English →](../en/summary#chapter-12--conclusion) | [ಕನ್nnaDa →](../kn/full#sec-12-3)
 
 he bhASheya nA mAdariyAgirisikonDu innondu bhASheya
 vyAkaraNavannu bareya hoDa rala. rU edurisabEkAgiruva sa samasyeyondide.
