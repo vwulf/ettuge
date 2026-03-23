@@ -54,8 +54,8 @@ jobs:
           # File search candidates per (source_dir, lang_dir) — first match wins
           CANDIDATES = {
               ('book',    'en'):  ['book/en/summary.md'],
-              ('book',    'kn'):  ['book/kn/full.md', 'book/vol1/kn/full.md'],
-              ('book',    'eke'): ['book/eke/full.md', 'book/vol1/eke/full.md'],
+              ('book',    'kn'):  ['book/kn/full.md', 'book/vol1/kn/full.md', 'book/vol2/kn/full.md', 'book/vol3/kn/full.md', 'book/vol4/kn/full.md'],
+              ('book',    'eke'): ['book/eke/full.md', 'book/vol1/eke/full.md', 'book/vol2/eke/full.md', 'book/vol3/eke/full.md'],
               ('web',     'en'):  ['web/en/summary.md'],
               ('web',     'kn'):  ['web/kn/full.md', 'web/kn/raw.md'],
               ('web',     'eke'): ['web/eke/full.md'],
