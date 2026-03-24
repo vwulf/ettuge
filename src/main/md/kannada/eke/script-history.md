@@ -125,3 +125,4 @@ The same vocalic ṛ that survived in Brāhmī as 𑀋 — and whose shape is st
 4. Wikipedia: [Kannada](https://en.wikipedia.org/wiki/Kannada)
 5. Wikipedia: [Greek alphabet](https://en.wikipedia.org/wiki/Greek_alphabet)
 6. Wikipedia: [Phoenician alphabet](https://en.wikipedia.org/wiki/Phoenician_alphabet)
+7. Mythic Society — AksharaBhandara: [Varṇamāle](https://mythicsociety.github.io/AksharaBhandara/#/learn/Varnamale) — interactive Kannada script learning resource
