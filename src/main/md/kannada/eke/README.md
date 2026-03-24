@@ -6,8 +6,8 @@
 
 | File | Description |
 |------|-------------|
-| [reference.md](./reference.md) | Concise Eke reference — vowels, consonants, anusvara, diphthongs, examples |
-| [motivation.md](./motivation.md) | Why Eke? — design goals, DNS Bhat / Ellara Kannada influence, key choices |
+| [Reference](./reference) | Concise Eke reference — vowels, consonants, anusvara, diphthongs, examples |
+| [Motivation](./motivation) | Why Eke? — design goals, DNS Bhat / Ellara Kannada influence, key choices |
 
 ## Key principles
 
@@ -17,4 +17,4 @@
 - **Diphthongs as sequences** — ಐ = `ay`, ಔ = `av` (not `ai`, `au`)
 - **Two modes** — full Eke preserves aspirates; Eke(ek) drops them for native word coining
 
-Full authoritative specification: [Eke.md](../../Eke.md) (153KB).
+Full authoritative specification: [Eke.md](https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/Eke.md) (153KB).
