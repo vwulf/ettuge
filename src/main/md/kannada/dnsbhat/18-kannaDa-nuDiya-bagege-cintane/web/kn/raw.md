@@ -85,33 +85,6 @@ redirect_from:
 *(ಈ ಬರಹ ವಿಜಯ ಕರ‍್ನಾಟಕ ಸುದ್ದಿಹಾಳೆಯ ’ಎಲ್ಲರ ಕನ್ನಡ’ ಅಂಕಣದಲ್ಲಿ ಮೊದಲು ಮೂಡಿಬಂದಿತ್ತು)*
 
 
-
-
-
-
-- linguistics, science, scientific dictionary, scientific words, technical, technical dictionary, technical words, technology, ಅರಿಮೆಯ ಪದಗಳು, ಅರಿವಿಗ, ಇಂಗ್ಲಿಶ್‌, ಕಲಿವಿಗರು, ಗ್ರೀಕ್, ನುಡಿಯರಿಮೆ, ಪದಕೋಶ, ಪಾರಿಬಾಶಿಕ ಪದಗಳು, ಲ್ಯಾಟಿನ್, ವಿಜ್ನಾನ, ಸಂಸ್ಕ್ರುತ
-
-- 0 comment
-
-
-
-
--  ಓದುವ ಹಾಗೆಯೇ ಬರೆಯುವುದು
-- ಯಾವುದು ಕನ್ನಡ ವ್ಯಾಕರಣ?
-
-
-
-
-.fb-comments, .fb-comments span, .fb-comments iframe {width: 100% !important;}
-
-(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//web.archive.org/web/20210325061035/http://connect.facebook.net/en_US/all.js#xfbml=1&appId=";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
-
 ---
 
 <a id="inukunota-2"></a>
@@ -161,33 +134,6 @@ redirect_from:
 
 *(ಈ ಬರಹ ವಿಜಯ ಕರ‍್ನಾಟಕ ಸುದ್ದಿಹಾಳೆಯ ’ಎಲ್ಲರ ಕನ್ನಡ’ ಅಂಕಣದಲ್ಲಿ ಮೊದಲು ಮೂಡಿಬಂದಿತ್ತು)*
 
-
-
-
-
-
-- ಅಳವು, ಇಂಗ್ಲಿಶ್‌, ಎರವಲು ಪದಗಳು, ಒಟ್ಟು, ಕನ್ನಡ ಪದಗಳು, ಕೀಳರಿಮೆ, ನುಡಿಯರಿಮೆ, ಪದಗಳ ಸೊಗಡು, ಪಾರಿಬಾಶಿಕ, ಪ್ರತ್ಯಯ, ಬರವಣಿಗೆ, ಬರಹ, ಸಂಸ್ಕ್ರುತ, ಸಂಸ್ಕ್ರುತ ಪದಗಳು, ಸ್ವತಂತ್ರವಾದ ನುಡಿ
-
-- 0 comment
-
-
-
-
--  ಬರಹ ಕನ್ನಡ ಮತ್ತು ಆಡುಗನ್ನಡ
-- ಪದಗಳನ್ನು ಓದುವ ಹಾಗೆಯೇ ಬರೆಯಬೇಕು
-
-
-
-
-.fb-comments, .fb-comments span, .fb-comments iframe {width: 100% !important;}
-
-(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//web.archive.org/web/20230630012532/https://connect.facebook.net/en_US/all.js#xfbml=1&appId=";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 
 ---
 
@@ -243,33 +189,6 @@ redirect_from:
 *(ಈ ಬರಹ ವಿಜಯ ಕರ‍್ನಾಟಕ ಸುದ್ದಿಹಾಳೆಯ ’ಎಲ್ಲರ ಕನ್ನಡ’ ಅಂಕಣದಲ್ಲಿ ಮೊದಲು ಮೂಡಿಬಂದಿತ್ತು)*
 
 
-
-
-
-
-- ಆಂಡಯ್ಯ, ಇಂಗ್ಲಿಶ್‌, ಎರವಲು ಪದಗಳು, ಕಬ್ಬಿಗರ ಕಾವ, ಕಲಿಕೆ, ಕೀಳರಿಮೆ, ಕೆಳವರ‍್ಗ, ತದ್ಬವ, ನುಡಿಯರಿಮೆ, ಬರಹ, ಬರಹದ ಸಂಪ್ರದಾಯ, ಬರಿಗೆ, ಮಕ್ಕಳು, ಮಹಾಪ್ರಾಣ, ಮಹಾಪ್ರಾಣಾಕ್ಶರ, ಸಂಸ್ಕ್ರುತ, ಹೊಸಗನ್ನಡ
-
-- 0 comment
-
-
-
-
--  ಮನೆಯ ಹೊರಗಡೆ ಅಡಿಗೆಮನೆ ಪಾಕಶಾಲೆಯಾಗಬೇಕೇ?
-- ಇಂಗ್ಲಿಶ್ ಕಲಿಕೆಗೆ ಕನ್ನಡದ ನೆರವು ಬೇಕು
-
-
-
-
-.fb-comments, .fb-comments span, .fb-comments iframe {width: 100% !important;}
-
-(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//web.archive.org/web/20231022160238/https://connect.facebook.net/en_US/all.js#xfbml=1&appId=";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
-
 ---
 
 <a id="inukunota-10"></a>
@@ -319,33 +238,6 @@ redirect_from:
 
 *(ಈ ಬರಹ ವಿಜಯ ಕರ‍್ನಾಟಕ ಸುದ್ದಿಹಾಳೆಯ ’ಎಲ್ಲರ ಕನ್ನಡ’ ಅಂಕಣದಲ್ಲಿ ಮೊದಲು ಮೂಡಿಬಂದಿತ್ತು)*
 
-
-
-
-
-
-- linguistics, load words, Sanskrit, writing, written Kannada, ಎರವಲು ಪದಗಳು, ನುಡಿಯರಿಮೆ, ಪ್ರಾಕ್ರುತ, ಬರವಣಿಗೆ, ಬರಹ ಕನ್ನಡ, ಬ್ರಾಹ್ಮಣ, ಬ್ರಾಹ್ಮೀ ಲಿಪಿ, ಮಲಯಾಳ, ಮಹಾಪ್ರಾಣ, ರೋಮನ್ ಲಿಪಿ, ಲಿಪಿ, ಸಂಸ್ಕ್ರುತ, ಹಳೆಗನ್ನಡ, ಹೊಲಬು, ಹೊಸ ಬರಹ, ಹೊಸಗನ್ನಡ
-
-- 0 comment
-
-
-
-
--  ನುಡಿಯ ಕಲಿಕೆ ಮತ್ತು ಕಲಿಕೆನುಡಿ
-- ಅರಿಮೆಯ ಪದಗಳಿಗೆ ಕನ್ನಡವೇ ಮೇಲು
-
-
-
-
-.fb-comments, .fb-comments span, .fb-comments iframe {width: 100% !important;}
-
-(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//web.archive.org/web/20210326034209/http://connect.facebook.net/en_US/all.js#xfbml=1&appId=";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 
 ---
 
@@ -397,33 +289,6 @@ redirect_from:
 *(ಈ ಬರಹ ವಿಜಯ ಕರ‍್ನಾಟಕ ಸುದ್ದಿಹಾಳೆಯ ’ಎಲ್ಲರ ಕನ್ನಡ’ ಅಂಕಣದಲ್ಲಿ ಮೊದಲು ಮೂಡಿಬಂದಿತ್ತು)*
 
 
-
-
-
-
-- democracy, Kannada writing, linguistics, written Kannada, ಅಕ್ಶರ, ಓದು ಬರಹ, ಕಲಿಕೆ, ಕೂಡಣ, ಕೂಡಣದರಿಮೆ, ನುಡಿಯರಿಮೆ, ಪ್ರಜಾಪ್ರಬುತ್ವ, ಬರಹ, ಬರಹ ಕನ್ನಡ, ಬರಹಗನ್ನಡ, ಬರಹದರಿಮೆ, ಬರಿಗೆ, ಮಂದಿಯಾಳ್ವಿಕೆ, ಮೇಲ್ಮೆ
-
-- 0 comment
-
-
-
-
--  ಹೆಚ್ಚು ಬರಿಗೆಗಳಿರುವುದು ಸಿರಿತನವಲ್ಲ
-- ಮಕ್ಕಳಿಗೆ ವ್ಯಾಕರಣ ಕಲಿಸಬೇಕೇ?
-
-
-
-
-.fb-comments, .fb-comments span, .fb-comments iframe {width: 100% !important;}
-
-(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//web.archive.org/web/20250412015812/https://connect.facebook.net/en_US/all.js#xfbml=1&appId=";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
-
 ---
 
 <a id="inukunota-18"></a>
@@ -465,33 +330,6 @@ redirect_from:
 
 *(ಈ ಬರಹ ವಿಜಯ ಕರ‍್ನಾಟಕ ಸುದ್ದಿಹಾಳೆಯ ’ಎಲ್ಲರ ಕನ್ನಡ’ ಅಂಕಣದಲ್ಲಿ ಮೊದಲು ಮೂಡಿಬಂದಿತ್ತು)*
 
-
-
-
-
-
-- English, Kannada, Kannada linguistics, language relation, Languages, linguistics, root language, Sanskrit, Tamil, ಕನ್ನಡ, ತಮಿಳು, ನುಡಿ, ನುಡಿ ನಂಟಸ್ತಿಕೆ, ನುಡಿಕುಟುಂಬ, ನುಡಿಬೇರು, ಬೇರುನುಡಿ, ಸಂಸ್ಕ್ರುತ
-
-- 0 comment
-
-
-
-
--  ಮಕ್ಕಳಿಗೆ ಬರೆಯಲು ಕಲಿಸುವ ಬಗೆ
-- ಕಲಿಕೆ ಮತ್ತು ಅರಕೆ
-
-
-
-
-.fb-comments, .fb-comments span, .fb-comments iframe {width: 100% !important;}
-
-(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//web.archive.org/web/20220120081136/https://connect.facebook.net/en_US/all.js#xfbml=1&appId=";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 
 ---
 
@@ -536,33 +374,6 @@ redirect_from:
 *(ಈ ಬರಹ ವಿಜಯ ಕರ‍್ನಾಟಕ ಸುದ್ದಿಹಾಳೆಯ ’ಎಲ್ಲರ ಕನ್ನಡ’ ಅಂಕಣದಲ್ಲಿ ಮೊದಲು ಮೂಡಿಬಂದಿತ್ತು)*
 
 
-
-
-
-
-- Kannada linguistics, Kannada writing, linguistics, loan words, word usage, Words, writing, ಆಡುನುಡಿ, ಆಲು, ಉಲಿ, ಋಕಾರ, ಎರವಲು ಪದ, ಕಿಟ್ಟೆಲ್, ಕಿಟ್ಟೆಲ್ ಡಿಕ್ಶನರಿ, ಕ್ರಿಯಾಪದ, ನಾಮಪದ, ನುಡಿಯರಿಮೆ, ಪದ ಬಳಕೆ, ಪುಲ್ಲಿಂಗ, ಬಡಗ ಕರ‍್ನಾಟಕ, ಬರಹ, ವಯ್ಯಾಕರಣಃ, ವಯ್ಯಾಕರಣಿ, ಸಂಸ್ಕ್ರುತ, ಸೊಲ್ಲರಿಮೆ, ಸ್ತ್ರೀಲಿಂಗ, ಹಕಾರ
-
-- 0 comment
-
-
-
-
--  ಕಲಿಕೆ ಮತ್ತು ಅರಕೆ
-- ಸಾಹಿತಿಗೆ ವ್ಯಾಕರಣದ ತಿಳಿವು ಬೇಕೇ?
-
-
-
-
-.fb-comments, .fb-comments span, .fb-comments iframe {width: 100% !important;}
-
-(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//web.archive.org/web/20221221112209/http://connect.facebook.net/en_US/all.js#xfbml=1&appId=";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
-
 ---
 
 <a id="inukunota-23"></a>
@@ -600,33 +411,6 @@ redirect_from:
 *(ಈ ಬರಹ ವಿಜಯ ಕರ‍್ನಾಟಕ ಸುದ್ದಿಹಾಳೆಯ ’ಎಲ್ಲರ ಕನ್ನಡ’ ಅಂಕಣದಲ್ಲಿ ಮೊದಲು ಮೂಡಿಬಂದಿತ್ತು)*
 
 
-
-
-
-
-- Dravidian Languages, Kannada, Kannada linguistics, language origin, language root, linguistics, ಎಂಟು, ಎಟ್ಟ್, ಕನ್ನಡ, ಕನ್ನಡದ ಹಳಮೆ, ತಮಿಳು, ತೆಂಕುದ್ರಾವಿಡ, ತೆಕ್ಕ್, ತೆಲುಗು, ತೊದ, ತೋಂಟ, ನಡುದ್ರಾವಿಡ, ನುಡಿಯರಿಮೆ, ಬಡಗುದ್ರಾವಿಡ, ಬೇಂಟೆ, ಮಲಯಾಳ, ಹಿನ್ನಡವಳಿ
-
-- 0 comment
-
-
-
-
--  ಅರಿಮೆಯ ಬರಹಗಳ ತೊಡಕುಗಳು
-- ಕಿವುಡರ ಸನ್ನೆನುಡಿಯೂ ಒಂದು ನುಡಿಯೇ
-
-
-
-
-.fb-comments, .fb-comments span, .fb-comments iframe {width: 100% !important;}
-
-(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//web.archive.org/web/20221124085437/http://connect.facebook.net/en_US/all.js#xfbml=1&appId=";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
-
 ---
 
 <a id="inukunota-27"></a>
@@ -661,33 +445,6 @@ redirect_from:
 
 *(ಈ ಬರಹ ವಿಜಯ*ಕರ‍್ನಾಟಕ ಸುದ್ದಿಹಾಳೆಯ ’ಎಲ್ಲರ ಕನ್ನಡ’ ಅಂಕಣದಲ್ಲಿ ಮೊದಲು ಮೂಡಿಬಂದಿತ್ತು)
 
-
-
-
-
-
-- dictionary, Ellara Kannada, grammar, Kannada grammar, Kannada linguistics, linguistics, meaning, Words, ಉಲಿ, ಉಲಿಯರಿಮೆ, ಎಲ್ಲರ ಕನ್ನಡ, ಎಲ್ಲರ ಕನ್ನಡ ಸರಣಿ, ಎಸಕಪದ, ಕ್ರಿಯಾಪದ, ನಾಮಪದ, ನುಡಿ, ನುಡಿಯರಿಮೆ, ಪದ, ಪದಗಳ ಅರ‍್ತ, ಪದನೆರಕೆ, ಪರಿಚೆ, ಹಳೆಗನ್ನಡ, ಹುರುಳು, ಹೆಸರುಪದ, ಹೊಸಗನ್ನಡ
-
-- 0 comment
-
-
-
-
--  ಉಲಿ ಮಾರ‍್ಪಾಡಿನ ಗೆರೆಗಳು
-- ಎಣಿಕೆಯಲ್ಲೂ ಹಲವು ಬಗೆಗಳಿವೆ
-
-
-
-
-.fb-comments, .fb-comments span, .fb-comments iframe {width: 100% !important;}
-
-(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//web.archive.org/web/20230615005837/https://connect.facebook.net/en_US/all.js#xfbml=1&appId=";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 
 ---
 
@@ -727,33 +484,6 @@ redirect_from:
 
 *(ಈ ಬರಹ ವಿಜಯ*ಕರ‍್ನಾಟಕ ಸುದ್ದಿಹಾಳೆಯ ’ಎಲ್ಲರ ಕನ್ನಡ’ ಅಂಕಣದಲ್ಲಿ ಮೊದಲು ಮೂಡಿಬಂದಿತ್ತು)
 
-
-
-
-
-
-- count, counting, Ellara Kannada, linguistics, number system, Numbers, types of counting, ಅಂಕಿಗಳು, ಅಸ್ಸಾಂ, ಅಸ್ಸಾಮಿ, ಎಣಿಕೆ, ಎಣಿಕೆಪದ, ಎಣಿಗಳು, ಎಲ್ಲರ ಕನ್ನಡ, ಎಲ್ಲರ ಕನ್ನಡ ಸರಣಿ, ಕನ್ನಡ, ತಮಿಳು, ತೆಲುಗು, ನುಡಿಯರಿಮೆ, ಪತ್ತುಗೆ, ಬೋಡೊ, ಬೋರೊ, ಮರಾಟಿ, ಸಂಕ್ಯೆಗಳು, ಸಂಸ್ಕ್ರುತ, ಹಿಂದಿ, ಹೊಲಬು
-
-- 0 comment
-
-
-
-
--  ಪದ ಮತ್ತು ಅದರ ಹುರುಳು
-- ಪದಗಳ ಹಿನ್ನಡವಳಿಯನ್ನು ಅರಿಯುವ ಬಗೆ
-
-
-
-
-.fb-comments, .fb-comments span, .fb-comments iframe {width: 100% !important;}
-
-(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//web.archive.org/web/20240918045519/https://connect.facebook.net/en_US/all.js#xfbml=1&appId=";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 
 ---
 
@@ -795,33 +525,6 @@ redirect_from:
 
 *(ಈ ಬರಹ ವಿಜಯ*ಕರ‍್ನಾಟಕ ಸುದ್ದಿಹಾಳೆಯ ’ಎಲ್ಲರ ಕನ್ನಡ’ ಅಂಕಣದಲ್ಲಿ ಮೊದಲು ಮೂಡಿಬಂದಿತ್ತು)
 
-
-
-
-
-
-- Ellara Kannada, etymology, Kannada lingusitics, language roots, linguistics, root words, Words, ಅನುನಾಸಿಕ, ಉಲಿ, ಎರವಲು, ಎಲ್ಲರ ಕನ್ನಡ, ಎಲ್ಲರ ಕನ್ನಡ ಸರಣಿ, ಕಯ್ಚಳಕ, ತಡೆಯುಲಿ, ತೆರೆಯುಲಿ, ನಡುಗನ್ನಡ, ನುಡಿಕುಟುಂಬ, ನುಡಿಯರಿಮೆ, ಪದಗಳ ಬೇರು, ಪದಗಳು, ಮೂಗುಲಿ, ಮೂಲನುಡಿ, ಸಂಸ್ಕ್ರುತ, ಸ್ಪರ‍್ಶ, ಸ್ವರ, ಹಳೆಗನ್ನಡ, ಹಿನ್ನಡವಳಿ, ಹುರುಳು, ಹೊಸಗನ್ನಡ
-
-- 0 comment
-
-
-
-
--  ಎಣಿಕೆಯಲ್ಲೂ ಹಲವು ಬಗೆಗಳಿವೆ
-- ಪದಗಳ ಹುರುಳು ಮತ್ತು ತಿಳಿವು
-
-
-
-
-.fb-comments, .fb-comments span, .fb-comments iframe {width: 100% !important;}
-
-(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//web.archive.org/web/20240525083239/https://connect.facebook.net/en_US/all.js#xfbml=1&appId=";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 
 ---
 
@@ -865,33 +568,6 @@ redirect_from:
 *(ಈ ಬರಹ ವಿಜಯ*ಕರ‍್ನಾಟಕ ಸುದ್ದಿಹಾಳೆಯ ’ಎಲ್ಲರ ಕನ್ನಡ’ ಅಂಕಣದಲ್ಲಿ ಮೊದಲು ಮೂಡಿಬಂದಿತ್ತು)
 
 
-
-
-
-
-- Ellara Kannada, Kannada linguistics, linguistics, prefix, suffix, ಇಂಗ್ಲಿಶ್, ಉಲಿ, ಎಲ್ಲರ ಕನ್ನಡ, ಎಲ್ಲರ ಕನ್ನಡ ಸರಣಿ, ಒಟ್ಟುಗಳು, ಕನ್ನಡ, ಕನ್ನಡ ಸೊಗಡು, ನುಡಿಯರಿಮೆ, ಪ್ರತ್ಯಯಗಳು, ಸಂಸ್ಕ್ರುತ, ಸೊಗಡು, ಸೊಲ್ಲು
-
-- 0 comment
-
-
-
-
--  ಕನ್ನಡ ಬರಹಗಳಲ್ಲಿ ‘ಕರಣ’ದ ಹಾವಳಿ
-- ನುಡಿಮಾರಲು ಎಣ್ಣುಕಗಳ ಬಳಕೆ
-
-
-
-
-.fb-comments, .fb-comments span, .fb-comments iframe {width: 100% !important;}
-
-(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//web.archive.org/web/20230124062156/http://connect.facebook.net/en_US/all.js#xfbml=1&appId=";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
-
 ---
 
 <a id="inukunota-35"></a>
@@ -928,32 +604,5 @@ redirect_from:
 
 *(ಈ ಬರಹ ವಿಜಯ*ಕರ‍್ನಾಟಕ ಸುದ್ದಿಹಾಳೆಯ ’ಎಲ್ಲರ ಕನ್ನಡ’ ಅಂಕಣದಲ್ಲಿ ಮೊದಲು ಮೂಡಿಬಂದಿತ್ತು)
 
-
-
-
-
-
-- Ellara Kannada, Kannada linguistics, linguistics, ಇಂಡೋ-ಆರ‍್ಯನ್, ಇರುಳ, ಎಲ್ಲರ ಕನ್ನಡ, ಎಲ್ಲರ ಕನ್ನಡ ಸರಣಿ, ಒಲ್ಲಾರಿ, ಕನ್ನಡ, ಕುಯಿ, ಕುರುಂಬ, ಕುವಿ, ಕೊರಗ, ಕೋತ, ಕೋಲಾಮಿ, ಗದಬ, ಗೋಂಡಿ, ತಮಿಳು, ತುಳು, ತೆಂಕುದ್ರಾವಿಡ, ತೆಲುಗು, ತೊದ, ದ್ರಾವಿಡ, ದ್ರಾವಿಡ ನುಡಿಗಳು, ನಡುದ್ರಾವಿಡ, ನಾಯ್ಕಿ, ನುಡಿಯರಿಮೆ, ಪಂಚದ್ರಾವಿಡ, ಪಾರ‍್ಜಿ, ಬಡಗುದ್ರಾವಿಡ, ಮರಾಟಿ, ಮಲಯಾಳ
-
-- 0 comment
-
-
-
-
--  ನುಡಿಮಾರಲು ಎಣ್ಣುಕಗಳ ಬಳಕೆ
-- ಬಗೆತದ ಮೇಲೆ ನುಡಿಯ ಹತೋಟಿ
-
-
-
-
-.fb-comments, .fb-comments span, .fb-comments iframe {width: 100% !important;}
-
-(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//web.archive.org/web/20210202135812/https://connect.facebook.net/en_US/all.js#xfbml=1&appId=";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 
 ---

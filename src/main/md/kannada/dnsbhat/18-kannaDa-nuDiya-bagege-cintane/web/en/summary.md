@@ -12,7 +12,7 @@ Originally published in Vijaya Karnataka newspaper column "ಎಲ್ಲರ ಕ�
 
 Companion files:
 - [ಕನ್ನಡ + Eke →](../eke/full)
-- [Claude prompt →](./18-kannaDa-nuDiya-bagege-cintane-claude-prompt)
+- [Claude prompt →](../../claude-prompt)
 - [Source blog →](../kn/raw)
 
 ---
