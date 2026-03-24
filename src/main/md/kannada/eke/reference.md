@@ -32,8 +32,8 @@ Uppercase letters mark retroflex consonants, long vowels, or special sounds:
 | `E` | long ಏ (vs `e` = ಎ) | `Enu` ಏನು |
 | `O` | long ಓ (vs `o` = ಒ) | `Odu` ಓದು |
 | `H` | visarga ಃ (vs `h` = ಹ) | `namaH` ನಮಃ |
-| `G` | velar nasal ಙ — anusvara form preferred in modern Kannada; appears word-initially in Tamil, Tulu, older Kannada | `aGka` ಅಂಕ (cf. anusvara form `anka`) |
-| `Y` | palatal nasal ಞ — anusvara form preferred in modern Kannada; appears word-initially in Tamil, Tulu, older Kannada | `aYca` ಅಂಚ (cf. anusvara form `anca`) |
+| `G` | velar nasal ಙ — anusvara form preferred in modern Kannada; appears word-initially in Tamil, Tulu, older Kannada | `anka` ಅಂಕ (cf. `aGka`); word-initial: `GkAra` ಙಕಾರ |
+| `Y` | palatal nasal ಞ — anusvara form preferred in modern Kannada; appears word-initially in Tamil, Tulu, older Kannada | `anca` ಅಂಚ (cf. `aYca`); word-initial: `YanDu` ಞಂಡು, `jYAna` ಜ್ಞಾನ |
 | `R` | archaic retroflex ಱ — rare, preserved in Eke romanisation of old texts | `eRagu` ಎಱಗು |
 | `Z` | old Kannada ೞ — appears in Tamil, Tulu, Old Kannada | `tamiZ` ತಮಿೞ್ |
 | `x` | vocalic ṛ ಋ/ೃ (short) | `samskxta` ಸಂಸ್ಕೃತ |
@@ -75,8 +75,8 @@ In EK phonology, ಐ and ಔ are sequences, not single vowels:
 
 | Place | Voiceless | Voiced | Nasal |
 |-------|-----------|--------|-------|
-| Velar | `k` ಕ, `kh` ಖ | `g` ಗ, `gh` ಘ | `G` ಙ (anusvara preferred in modern Kannada) |
-| Palatal | `c` ಚ, `ch` ಛ | `j` ಜ, `jh` ಝ | `Y` ಞ (anusvara preferred in modern Kannada) |
+| Velar | `k` ಕ, `kh` ಖ | `g` ಗ, `gh` ಘ | `G` ಙ (anusvara preferred; `GkAra` ಙಕಾರ word-initially) |
+| Palatal | `c` ಚ, `ch` ಛ | `j` ಜ, `jh` ಝ | `Y` ಞ (anusvara preferred; `YanDu` ಞಂಡು, `jYAna` ಜ್ಞಾನ) |
 | Retroflex | `T` ಟ, `Th` ಠ | `D` ಡ, `Dh` ಢ | `N` ಣ |
 | Dental | `t` ತ, `th` ಥ | `d` ದ, `dh` ಧ | `n` ನ |
 | Labial | `p` ಪ, `ph` ಫ | `b` ಬ, `bh` ಭ | `m` ಮ |
@@ -84,7 +84,7 @@ In EK phonology, ಐ and ಔ are sequences, not single vowels:
 In Eke(ek) (new word coining), aspirate digraphs drop the `h`:
 `kh→k`, `gh→g`, `ch→c`, `jh→j`, `Th→T`, `Dh→D`, `th→t`, `dh→d`, `ph→p`, `bh→b`
 
-> **G and Y:** These velar and palatal nasals have dedicated symbols and may appear word-initially in Tamil, Tulu, and older forms of Kannada. In modern Kannada they do not appear word-initially; the anusvara + following plosive form is used instead (`nka` / `nca` etc.).
+> **G and Y:** These velar and palatal nasals have dedicated symbols. In modern Kannada the anusvara + plosive form is preferred (`nka` / `nca`). Word-initial use survives in Tamil, Tulu, older Kannada, and Sanskrit clusters: `GkAra` ಙಕಾರ (the name of the letter ಙ); `YanDu` ಞಂಡು (old Kannada); `jYAna` ಜ್ಞಾನ (Sanskrit "knowledge" — `Y` in cluster ಜ್ಞ).
 
 ### Sonorants and Sibilants
 
