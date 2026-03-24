@@ -33,7 +33,7 @@ Uppercase letters mark retroflex consonants, long vowels, or special sounds:
 | `O` | long ಓ (vs `o` = ಒ) | `Odu` ಓದು |
 | `H` | visarga ಃ (vs `h` = ಹ) | `namaH` ನಮಃ |
 | `G` | velar nasal ಙ — anusvara form preferred in modern Kannada; appears word-initially in Tamil, Tulu, older Kannada | `anka` ಅಂಕ (cf. `aGka`); word-initial: `GkAra` ಙಕಾರ |
-| `Y` | palatal nasal ಞ — anusvara form preferred in modern Kannada; appears word-initially in Tamil, Tulu, older Kannada | `anca` ಅಂಚ (cf. `aYca`); word-initial: `YanDu` ಞಂಡು, `jYAna` ಜ್ಞಾನ |
+| `Y` | palatal nasal ಞ — anusvara form preferred in modern Kannada; appears word-initially in Tamil, Tulu, older Kannada | `ance` ಅಂಚೆ (cf. `aYce`); word-initial: `YanDu` ಞಂಡು, `jYAna` ಜ್ಞಾನ |
 | `R` | archaic retroflex ಱ — rare, preserved in Eke romanisation of old texts | `eRagu` ಎಱಗು |
 | `Z` | old Kannada ೞ — appears in Tamil, Tulu, Old Kannada | `tamiZ` ತಮಿೞ್ |
 | `x` | vocalic ṛ ಋ/ೃ (short) | `samskxta` ಸಂಸ್ಕೃತ |
