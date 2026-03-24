@@ -41,7 +41,28 @@ There are two ways to measure the burden of a script: the number of **distinct s
 | Modifiers | 5 (virama ್, nuktā ಼, anusvara ಂ, visarga ಃ, jihvamūlīya ೱ) | 3 (virama, nuktā, anusvara; drops ಃ and ೱ) | — |
 | **Total** | **~107** | **~65** | **31 / 41 / 46** |
 
-Classical Kannada has 16 vowels: a ā i ī u ū **ṛ ṝ ḷ ḹ** e ē ai o ō au. Ellara Kannada drops 6 of these — the four Sanskrit vocalic-syllabic sounds (ṛ ṝ ḷ ḹ) that do not occur in native Kannada speech, and the two diphthongs ai and au which become the vowel+glide sequences `ay` and `av`. This leaves 10 vowels: a ā i ī u ū e ē o ō.
+Classical Kannada has 16 vowels (independent form / vowel diacritic):
+
+| IAST | Independent | Diacritic | Retained in Ellara? |
+|------|-------------|-----------|---------------------|
+| a | ಅ | *(inherent)* | ✓ |
+| ā | ಆ | ಾ | ✓ |
+| i | ಇ | ಿ | ✓ |
+| ī | ಈ | ೀ | ✓ |
+| u | ಉ | ು | ✓ |
+| ū | ಊ | ೂ | ✓ |
+| **ṛ** | **ಋ** | **ೃ** | **✗** — Sanskrit-only vocalic syllabic |
+| **ṝ** | **ೠ** | **ೄ** | **✗** — Sanskrit-only, long form |
+| **ḷ** | **ಌ** | **ೢ** | **✗** — Sanskrit-only vocalic syllabic |
+| **ḹ** | **ೡ** | **ೣ** | **✗** — Sanskrit-only, long form |
+| e | ಎ | ೆ | ✓ |
+| ē | ಏ | ೇ | ✓ |
+| **ai** | **ಐ** | **ೈ** | **✗** — becomes vowel+glide sequence `ay` |
+| o | ಒ | ೊ | ✓ |
+| ō | ಓ | ೋ | ✓ |
+| **au** | **ಔ** | **ೌ** | **✗** — becomes vowel+glide sequence `av` |
+
+Ellara Kannada drops 6 of these — the four Sanskrit vocalic-syllabic sounds (ṛ ṝ ḷ ḹ) that do not occur in native Kannada speech, and the two diphthongs ai ಐ and au ಔ which become the vowel+glide sequences `ay` and `av`. This leaves 10 vowels: a ಅ, ā ಆ, i ಇ, ī ಈ, u ಉ, ū ಊ, e ಎ, ē ಏ, o ಒ, ō ಓ.
 
 *Nuktā (಼)* is retained in both Classical and Ellara Kannada for representing sounds from contact languages — *fa*, *za*, *odd* (English), ḵ (Arabic/Urdu). It is also needed for dialect phonemes: Havyaka's unrounded-u vowel, Toda's retroflex laterals. In Eke, two additional modifier symbols handle these: `:` (nuktā diacritic, for sounds like Toda retroflex laterals) and `^` (rounding/unrounding marker, for Havyaka's unrounded-u: `u^`). These two bring the full dialect-inclusive count to **46**.
 
