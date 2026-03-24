@@ -111,6 +111,43 @@ The Brāhmī architects were not merely copying — they were engineering. Four 
 
 ---
 
+## Contrarian Views
+
+The Hybrid Origin thesis presented above is the framework of Pillai (2023). Several competing positions exist, and none is settled:
+
+### 1. Single-source Semitic derivation (traditional view)
+
+Georg Bühler (1895) and the mainstream 19th-century consensus held that Brāhmī derived from a single Semitic source — most likely a northern Arabian or Phoenician script transmitted via trade routes. The argument: the left-to-right direction and the phonological ordering are adaptations from a single Semitic model. **Objection:** a single 22-letter abjad cannot account for the 49-symbol Brāhmī inventory; individual letter derivations require pulling from multiple Semitic traditions anyway, making the "hybrid" and "single-source" positions a matter of degree.
+
+### 2. Indigenous invention (no Semitic borrowing at all)
+
+A persistent minority view holds that Brāhmī was invented independently in India, with no foreign input. Championed periodically by scholars including G. R. Hunter and, more recently, by those who see connections to the undeciphered **Indus Valley Script**. Iravatham Mahadevan's work on the Indus corpus identified structural similarities to Brāhmī, though no consensus decipherment has been reached. **Objection:** the structural parallels between specific Brāhmī letterforms and specific Aramaic/Phoenician characters are too precise to dismiss as coincidence; the letter-by-letter derivations in Karan's paper are hard to explain under pure invention.
+
+### 3. Southern priority — Tamil-Brāhmī and the common-ancestor model
+
+Perhaps the sharpest challenge to a straightforward Ashokan-origin story comes from the Tamil-Brāhmī record. Tamil inscriptions show features that *predate* or *bypass* the Ashokan convention:
+
+- **Short /e/ and short /o/** are Dravidian phonemes absent from Sanskrit and Prakrit. Ashokan Brāhmī had no short-e or short-o glyphs — there was nothing for Tamil adapters to *derive* from. These are original Tamil-Brāhmī additions.
+- **ai and au are written as sequences** (a+y, a+v) in Tamil-Brāhmī, not as the atomic diphthong glyphs 𑀐/𑀒 that Sanskrit convention treats as single units. The decomposed treatment reflects Dravidian phonological reality — and is exactly what Eke adopts (→ `ay`, `av`).
+- **The virama (puḷḷi) arrives late** in Tamil-Brāhmī. The earliest inscriptions assume bare consonants without any vowel-cancellation mark — the opposite of the Ashokan abugida convention where every consonant carries an inherent /a/ unless explicitly cancelled.
+- **The four vocalic syllabics** (ṛ ṝ ḷ ḹ) central to Pāṇini's framework are entirely absent from Tamil-Brāhmī.
+
+These features suggest a **common proto-script** — circulating in Jain and trading networks across the Deccan around the 4th–3rd century BCE — adapted simultaneously northward (gaining the Pāṇinian abugida architecture → Ashokan Brāhmī) and southward (retaining Dravidian phonotactics → Tamil-Brāhmī). The Ashokan edicts are the *northern crystallisation* of this shared source, not the origin point.
+
+### 4. The abugida architecture problem
+
+Every theory of Brāhmī's letter-shape origin must answer a separate, harder question:
+
+> **None of the proposed sources — Aramaic, Phoenician, Greek, or Kharoṣṭhī — is a true abugida. Where did the abugida architecture come from?**
+
+Aramaic and Phoenician are abjads (consonants only, vowels absent). Greek is an alphabet (vowels and consonants co-equal). Neither has the "consonant carries inherent /a/, other vowels are diacritics" structure.
+
+Falk (2014–2018) argues the inherent-vowel convention was adopted from **Kharoṣṭhī**, an earlier northwest Indian script already adapted for Gāndhārī Prakrit. Karan's paper accepts this partially. But Kharoṣṭhī's vowel marking is inconsistent — it explains the *idea* of an inherent vowel, not the *systematic diacritic-extension architecture* (why ā extends a, why i/ī are triangles derived from e, why all long vowels visually extend their short forms).
+
+The most compelling answer is that the abugida *system* is a **deliberately indigenous invention**, designed to embody Pāṇinian phonological structure: consonants as primary units (matching Pāṇini's pratyāhāras), inherent /a/ as the unmarked base vowel, diacritics as the guṇa/vṛddhi modification operations, virama as the zero-vowel state. The letter *shapes* may be foreign; the *system* is Indian. Pillai's paper is clearest on this separation — and it is the point where the Hybrid Origin thesis and the indigenist critique converge rather than conflict.
+
+---
+
 ## A Thread to Eke
 
 The same vocalic ṛ that survived in Brāhmī as 𑀋 — and whose shape is strikingly close to a lowercase `x` — lives on in Eke as exactly that: `x` for ಋ/ೃ. A 2,300-year-old glyph, reinvented as a single ASCII character. See [Motivation](./motivation) for the full design rationale.
@@ -126,3 +163,6 @@ The same vocalic ṛ that survived in Brāhmī as 𑀋 — and whose shape is st
 5. Wikipedia: [Greek alphabet](https://en.wikipedia.org/wiki/Greek_alphabet)
 6. Wikipedia: [Phoenician alphabet](https://en.wikipedia.org/wiki/Phoenician_alphabet)
 7. Mythic Society — AksharaBhandara: [Varṇamāle](https://mythicsociety.github.io/AksharaBhandara/#/learn/Varnamale) — interactive Kannada script learning resource
+8. Mahadevan, Iravatham (2003). *Early Tamil Epigraphy.* Harvard Oriental Series — Tamil-Brāhmī inscriptions and Dravidian additions to the script
+9. Bühler, Georg (1895). *On the Origin of the Indian Brahma Alphabet.* — classic single-source Semitic derivation thesis
+10. Falk, Harry (2014–2018). Work on Kharoṣṭhī and the inherent-vowel convention — partial answer to the abugida origin question
