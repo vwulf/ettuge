@@ -7,6 +7,7 @@
 | File | Description |
 |------|-------------|
 | [reference.md](./reference.md) | Concise Eke reference — vowels, consonants, anusvara, diphthongs, examples |
+| [motivation.md](./motivation.md) | Why Eke? — design goals, DNS Bhat / Ellara Kannada influence, key choices |
 
 ## Key principles
 

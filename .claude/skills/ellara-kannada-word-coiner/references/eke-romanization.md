@@ -92,7 +92,7 @@ In full Eke, aspirates use digraphs. In Eke(ek), drop the `h`:
 | ಓ | ಓ | O | long |
 | ಐ | ಅಯ್ | ay | diphthong (EK: ay not ai) |
 | ಔ | ಅವ್ | av | diphthong (EK: av not au) |
-| ಋ / ೃ | — | x | vocalic ṛ (short), Sanskrit loanwords — e.g. ಸಂಸ್ಕೃತ→`samskxta`, ಸೃಷ್ಟಿ→`sxSTi` |
+| ಋ / ೃ | — | x | vocalic ṛ (short), Sanskrit loanwords — e.g. ಸಂಸ್ಕೃತ→`samskxta`, ಸೃಷ್ಟಿ→`sxShTi` |
 | ೠ / ೄ | — | X | vocalic ṝ (long) — extremely rare |
 | ಃ | — | H | visarga, rare in EK |
 

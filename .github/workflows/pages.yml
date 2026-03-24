@@ -69,7 +69,7 @@ jobs:
               ('stub',    'kn'):  ['youtube/kn/full.md'],
           }
           SRC_LABEL  = {s: t for s, t, _ in SOURCES}
-          LANG_ICON  = {'kn': '📖', 'en': '🇬🇧', 'eke': '🔤'}
+          LANG_ICON  = {'kn': '📖', 'en': '🇺🇸', 'eke': '🔤'}
           LANG_LABEL = {'kn': 'ಕನ್ನಡ', 'en': 'English', 'eke': 'Eke'}
 
           def fm(**fields):
@@ -315,7 +315,7 @@ jobs:
                       t = read_field(existing_fm.group(1), 'title')
                       if t:
                           page_title = t
-                  page_nav = {'reference': 1}.get(fname.replace('.md', ''), 99)
+                  page_nav = {'reference': 1, 'motivation': 2}.get(fname.replace('.md', ''), 99)
                   body = strip_fm(content)
                   with open(fp, 'w', encoding='utf-8') as f:
                       f.write(fm(title=page_title, parent=EKE_TITLE,
