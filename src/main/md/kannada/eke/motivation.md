@@ -48,6 +48,18 @@ This lets the same notation system serve both careful transcription of DNS Bhat'
 
 **Diphthongs as sequences.** ಐ = ಅ + ಯ್ → `ay`; ಔ = ಅ + ವ್ → `av`. These reflect the actual phonological composition in Kannada, not the Sanskrit-influenced `ai`/`au`.
 
+This choice is not arbitrary — Kannada has a full productive series of vowel+glide sequences with both ಯ್ and ವ್, across all vowel lengths:
+
+| With ಯ್ | With ವ್ |
+|---------|---------|
+| `ay` (ಅಯ್), `Ay` (ಆಯ್) | `av` (ಅವ್), `Av` (ಆವ್) |
+| `iy` (ಇಯ್), `Iy` (ಈಯ್) | `iv` (ಇವ್), `Iv` (ಈವ್) |
+| `uy` (ಉಯ್), `Uy` (ಊಯ್) | `uv` (ಉವ್), `Uv` (ಊವ್) |
+| `ey` (ಎಯ್), `Ey` (ಏಯ್) | `ev` (ಎವ್), `Ev` (ಏವ್) |
+| `oy` (ಒಯ್), `Oy` (ಓಯ್) | `ov` (ಒವ್), `Ov` (ಓವ್) |
+
+Sanskrit treats ಐ and ಔ as atomic vowels requiring dedicated symbols (`ai`, `au`). Eke rejects this: since `iy`, `Iy`, `uy`, `Oy` and the rest are all written as plain vowel+glide sequences, `ay` is simply the `a`-row entry in the same regular pattern. Writing `ai`/`au` would be the *only* irregularity in the vowel table — a Sanskrit import with no phonological justification in Kannada.
+
 **`x` for vocalic ṛ.** Sanskrit-derived words have ಋ/ೃ (vocalic r, not a vowel+consonant sequence). `x` is a single ASCII character with no other use in Kannada phonology — unambiguous and typable.
 
 ---

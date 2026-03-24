@@ -20,7 +20,7 @@ Uppercase letters mark retroflex consonants, long vowels, or special sounds:
 
 | Symbol | Sound | Example |
 |--------|-------|---------|
-| `T` | retroflex ಟ (vs dental `t` = ತ) | `TamaaTe` ಟಮಾಟೆ |
+| `T` | retroflex ಟ (vs dental `t` = ತ) | `TamaTe` ಟಮಟೆ |
 | `D` | retroflex ಡ (vs dental `d` = ದ) | `Du` ಡು |
 | `N` | retroflex ಣ (vs dental `n` = ನ) — **never anusvara** | `kaNNu` ಕಣ್ಣು |
 | `L` | retroflex ಳ (vs dental `l` = ಲ) | `kaLLa` ಕಳ್ಳ |
