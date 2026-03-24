@@ -5,6 +5,8 @@ nav_order: 3
 
 # From Hieroglyphs to ಕ — The Hybrid Origins of Kannada Script
 
+Kannada's direct script lineage: **Brāhmī → Kadamba script (4th–6th c. CE) → Old Kannada → Modern Kannada**. Each step involved systematic changes in letterform — the angular Kadamba shapes rounding and flowing into the curves recognisable today. What this page traces is the deeper question: where did *Brāhmī itself* come from?
+
 Kannada letters did not appear from nowhere. Every curve and stroke in the modern script carries a 4,000-year paper trail — from Egyptian stone carvings through Semitic merchants, Greek philosophers, and Indian grammarians, arriving finally at the alphabet you are reading right now. This is that journey.
 
 ---
@@ -125,7 +127,9 @@ A persistent minority view holds that Brāhmī was invented independently in Ind
 
 ### 3. Southern priority — Tamil-Brāhmī and the common-ancestor model
 
-Perhaps the sharpest challenge to a straightforward Ashokan-origin story comes from the Tamil-Brāhmī record. Tamil inscriptions show features that *predate* or *bypass* the Ashokan convention:
+**A clarification first:** Tamil-Brāhmī is *not* an ancestor of Kannada script. Kannada's direct lineage runs **Brāhmī → Kadamba script (4th–6th c. CE) → Old Kannada → Modern Kannada**. Tamil-Brāhmī is a parallel branch — a sibling adaptation of Brāhmī for a different Dravidian language, evolving separately into the Grantha and Tamil script families. The two branches diverged early and never re-merged. What Tamil-Brāhmī is useful for is as *evidence about Brāhmī itself* — specifically about whether Ashokan Brāhmī was the origin point or a downstream crystallisation of an earlier shared substrate.
+
+With that framing, the Tamil-Brāhmī record raises a pointed question: perhaps the sharpest challenge to a straightforward Ashokan-origin story comes from Tamil inscriptions showing features that *predate* or *bypass* the Ashokan convention:
 
 - **Short /e/ and short /o/** are Dravidian phonemes absent from Sanskrit and Prakrit. Ashokan Brāhmī had no short-e or short-o glyphs — there was nothing for Tamil adapters to *derive* from. These are original Tamil-Brāhmī additions.
 - **ai and au are written as sequences** (a+y, a+v) in Tamil-Brāhmī, not as the atomic diphthong glyphs 𑀐/𑀒 that Sanskrit convention treats as single units. The decomposed treatment reflects Dravidian phonological reality — and is exactly what Eke adopts (→ `ay`, `av`).
