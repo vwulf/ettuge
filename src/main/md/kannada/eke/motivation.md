@@ -28,25 +28,43 @@ Hosabaraha (Vishwas's Kannada input system) uses a consistent phone-key mapping 
 
 ## Symbol complexity: Classical → Ellara → Eke
 
-Classical Kannada script encodes 35 consonants, 16 vowels, and 5 modifier characters. The ottakSara (consonant-conjunct) system multiplies consonants together, producing up to 35 × 35 × 21 ≈ **25,725 symbols** a learner must recognise.
+There are two ways to measure the burden of a script: the number of **distinct symbols** a learner must memorise, and the size of the **permuted symbol space** that must be recognised in context.
 
-**Ellara Kannada** reduces this along two axes:
+### Actual symbols (what you must learn)
 
-| Dimension | Classical | Ellara Kannada |
-|-----------|-----------|----------------|
-| Consonants (for conjuncts) | 35 | 21 (mahāprāṇas and rare letters merged or dropped) |
-| Vowels | 16 | 10 |
-| Modifiers | 5 | 3 (retains ್ virama and ಂ anusvara; drops ಃ visarga and ೱ; ಼ nuktā is debatable — useful for foreign sounds like *fa*, *za*, *bank*, *odd*) |
+| Component | Classical | Ellara Kannada | Eke |
+|-----------|-----------|----------------|-----|
+| Main consonants | 35 | 21 (mahāprāṇas and rare letters merged or dropped) | — |
+| Ottakṣara (conjunct) consonants | 35 | 21 | — (sequences of letters) |
+| Independent vowels | 16 | 10 | — |
+| Vowel diacritics (mātrās) | 16 | 10 | — |
+| Modifiers | 5 (virama ್, nuktā ಼, anusvara ಂ, visarga ಃ, jihvamūlīya ೱ) | 3 (virama, nuktā, anusvara; drops ಃ and ೱ) | — |
+| **Total** | **~107** | **~65** | **31 / 41 / 46** |
 
-This brings the symbol space to 21 × 21 × 13 ≈ **5,733** — a **77% reduction** with no loss of fidelity for spoken modern Kannada (though Sanskrit and Vedic texts require the full classical set).
+Classical Kannada has 16 vowels: a ā i ī u ū **ṛ ṝ ḷ ḹ** e ē ai o ō au. Ellara Kannada drops 6 of these — the four Sanskrit vocalic-syllabic sounds (ṛ ṝ ḷ ḹ) that do not occur in native Kannada speech, and the two diphthongs ai and au which become the vowel+glide sequences `ay` and `av`. This leaves 10 vowels: a ā i ī u ū e ē o ō.
 
-**Eke** takes a further step: by using an alphabet rather than an abugida, it eliminates ottakSaras entirely. A sequence of letters *is* the conjunct — no stacked glyph needed. This brings the active symbol set down to roughly 21 × 13 ≈ **273 sequences** in principle, realised as:
+*Nuktā (಼)* is retained in both Classical and Ellara Kannada for representing sounds from contact languages — *fa*, *za*, *odd* (English), ḵ (Arabic/Urdu). It is also needed for dialect phonemes: Havyaka's unrounded-u vowel, Toda's retroflex laterals. In Eke, two additional modifier symbols handle these: `:` (nuktā diacritic, for sounds like Toda retroflex laterals) and `^` (rounding/unrounding marker, for Havyaka's unrounded-u: `u^`). These two bring the full dialect-inclusive count to **46**.
+
+### Permuted symbol space (what you must recognise)
+
+The ottakṣara system multiplies consonants combinatorially — any consonant can stack with any other. Combined with vowel forms, the recognisable glyph space is:
+
+| Script system | Formula | Space |
+|---------------|---------|-------|
+| Classical Kannada | 35 × 35 × 21 (consonants × conjuncts × (16 diacritics + 5 modifiers)) | ≈ **25,725** |
+| Ellara Kannada | 21 × 21 × 13 (21 consonants × conjuncts × (10 diacritics + 3 modifiers)) | ≈ **5,733** (-77%) |
+| Eke | no conjuncts; 31 × 1 letter-forms | **31 / 41 / 46** |
+
+**Ellara Kannada** achieves a 77% reduction with no loss of fidelity for spoken modern Kannada. Sanskrit and Vedic texts require the full classical set.
+
+**Eke** eliminates the combinatorial explosion entirely: by using a plain alphabet, a consonant sequence is just letters side by side — no stacked glyph, no recognisable conjunct form. The three tiers of coverage:
 
 | Coverage | Symbols |
 |----------|---------|
-| Ellara Kannada (ek) — everyday spoken Kannada | **31** |
-| Formal Kannada — including historical and rare sounds | **41** |
+| Eke(ek) — everyday spoken Kannada (Ellara Kannada equivalent) | **31** |
+| Formal Kannada — including historical and rare sounds (full Ellara Kannada) | **41** |
 | Extended — adds English *f*, *w*, *z* | **44** |
+| Dialect-inclusive — adds `:` (nuktā) and `^` (rounding) for Havyaka, Toda | **46** |
 
 Harvard-Kyoto follows the same alphabet-over-abugida philosophy; Eke makes small modifications to better reflect Kannada phonology.
 
@@ -85,7 +103,16 @@ This choice is not arbitrary — Kannada has a full productive series of vowel+g
 
 Sanskrit treats ಐ and ಔ as atomic vowels requiring dedicated symbols (`ai`, `au`). Eke rejects this: since `iy`, `Iy`, `uy`, `Oy` and the rest are all written as plain vowel+glide sequences, `ay` is simply the `a`-row entry in the same regular pattern. Writing `ai`/`au` would be the *only* irregularity in the vowel table — a Sanskrit import with no phonological justification in Kannada.
 
-**`x` for vocalic ṛ.** Sanskrit-derived words have ಋ/ೃ (vocalic r, not a vowel+consonant sequence). `x` is a single ASCII character with no other use in Kannada phonology — unambiguous and typable. *Fun fact:* the choice echoes history — 𑀋 (U+1000B) is the Asokan Brahmi character for vocalic ṛ, and its visual shape is strikingly close to a lowercase `x`.
+**`x` / `q` for vocalic syllabics.** Sanskrit has four vocalic syllabic sounds that do not occur in native Kannada: vocalic ṛ (ಋ/ೃ), its long form ṝ (ೠ/ೄ), vocalic ḷ (ಌ/ೢ), and its long form ḹ (ೡ/ೣ). None of the four appear in Dravidian roots. Eke maps them to the two ASCII letters that have no other use in Kannada phonology:
+
+| Symbol | Eke | Notes |
+|--------|-----|-------|
+| ಋ / ೃ | `x` | short vocalic ṛ — common in Sanskrit loanwords: `samskxta`, `kxShNa` |
+| ೠ / ೄ | `X` | long vocalic ṝ — extremely rare |
+| ಌ / ೢ | `q` | short vocalic ḷ — rare; Sanskrit only |
+| ೡ / ೣ | `Q` | long vocalic ḹ — extremely rare |
+
+*Fun fact:* the `x` choice echoes history — 𑀋 (U+1000B) is the Asokan Brahmi character for vocalic ṛ, and its visual shape is strikingly close to a lowercase `x`.
 
 ---
 

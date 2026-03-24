@@ -38,6 +38,10 @@ Uppercase letters mark retroflex consonants, long vowels, or special sounds:
 | `Z` | old Kannada ೞ — appears in Tamil, Tulu, Old Kannada | `tamiZ` ತಮಿೞ್ |
 | `x` | vocalic ṛ ಋ/ೃ (short) | `samskxta` ಸಂಸ್ಕೃತ |
 | `X` | vocalic ṝ ೠ/ೄ (long) — extremely rare | — |
+| `q` | vocalic ḷ ಌ/ೢ (short) — rare; Sanskrit only | — |
+| `Q` | vocalic ḹ ೡ/ೣ (long) — extremely rare | — |
+| `:` | nuktā diacritic — marks dialect sounds absent from standard Kannada (e.g. Toda retroflex laterals) | — |
+| `^` | rounding modifier — marks Havyaka unrounded-u vowel ಉ್ | `u^` ಉ್ |
 
 **Critical distinction:** `r` (lowercase) is always ರ. `R` (uppercase) is only archaic ಱ. Never use `R` for ರ.
 
@@ -59,7 +63,10 @@ Uppercase letters mark retroflex consonants, long vowels, or special sounds:
 | ಓ | `O` | long |
 | ಐ | `ay` | diphthong — ಅ + ಯ್; **not** `ai` |
 | ಔ | `av` | diphthong — ಅ + ವ್; **not** `au` |
-| ಋ / ೃ | `x` | vocalic ṛ — e.g. ಕೃಷ್ಣ → `kxShNa` |
+| ಋ / ೃ | `x` | vocalic ṛ (short) — e.g. ಕೃಷ್ಣ → `kxShNa` |
+| ೠ / ೄ | `X` | vocalic ṝ (long) — extremely rare |
+| ಌ / ೢ | `q` | vocalic ḷ (short) — rare; Sanskrit only |
+| ೡ / ೣ | `Q` | vocalic ḹ (long) — extremely rare |
 | ಃ | `H` | visarga — uppercase |
 
 ### Diphthong note
@@ -160,6 +167,7 @@ The anusvara ಂ is **never** written as standalone `M`. It always assimilates t
 | Long vowels | Uppercase: A I U E O | Same |
 | Diphthongs | `ay`, `av` | Same |
 | Anusvara | Assimilated nasal (never M) | Same |
-| Vocalic ṛ | `x` | Same |
+| Vocalic ṛ / ṝ | `x` / `X` | Same |
+| Vocalic ḷ / ḹ | `q` / `Q` | Same |
 
 Full specification: [Eke.md](https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/Eke.md) (153KB, authoritative).
