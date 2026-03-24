@@ -14,16 +14,17 @@ Meanwhile, the two rigorous scholarly systems have real drawbacks:
 - **IAST** — requires diacritic characters (ā, ī, ṭ, ḍ, ṇ, ḷ) that can't be typed on a standard keyboard and don't sort or search well in plain text
 - **Harvard-Kyoto (HK)** — designed for Sanskrit, not Kannada; represents anusvara as standalone `M` (which is phonologically wrong for Kannada), conflates ಶ and ಷ, and has no natural way to represent Dravidian vowel distinctions
 
+Despite these drawbacks, ASCII-based romanisation has a significant advantage that the native scripts don't: **cross-language readability across Dravidian languages.** A reader familiar with HK or Eke can follow Kannada, Tamil, Telugu, and Malayalam texts in romanisation with relatively little additional learning — the same consonant and vowel symbols appear in all four systems. Speakers of non-Dravidian languages who are comfortable with the English alphabet can also adjust to reading Dravidian languages in Eke far more quickly than they could learn a new script.
+
 ## DNS Bhat's influence: *Ellara Kannada*
 
 Dr. D.N. Shankara Bhat's *Ellara Kannada* reform argues that modern written Kannada should reflect how the language is actually spoken, not how Sanskrit grammar was once overlaid on it. Native Kannada has no *mahaprāṇa* (aspirated consonants) — `bh`, `dh`, `kh` etc. are borrowings from Sanskrit that do not appear in Dravidian root words. Eke(ek) — the coining mode — follows this: new native words avoid aspirates.
 
 ## *Hosabaraha* orthography
 
-Hosabaraha (Vishwas's Kannada input system) uses a consistent phone-key mapping for Kannada characters. Eke extends this mapping into a romanisation that:
+Hosabaraha (Vishwas's Kannada input system) uses a consistent phone-key mapping for Kannada characters. Its orthographic conventions are the same as Ellara Kannada — Hosabaraha *is* the Kannada-script counterpart of Eke(ek). Eke formalises this mapping as a romanisation that:
 - Works with plain ASCII on any keyboard
 - Is completely reversible — every roman string maps back to exactly one Kannada string
-- Sorts correctly: uppercase before lowercase reflects the linguistic hierarchy (long before short, retroflex before dental)
 
 ## The two-mode design
 
