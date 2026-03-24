@@ -22,35 +22,40 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Copy DNS Bhat markdown into docs/
+      - name: Copy Kannada markdown sources into docs/kannaDa/
         run: |
-          rm -rf docs/dnsbhat || true
-          mkdir -p docs/dnsbhat
-          cp -R src/main/md/kannada/dnsbhat/. docs/dnsbhat/
-          mv docs/dnsbhat/README.md docs/dnsbhat/index.md
-          printf -- '---\nlayout: default\ntitle: DNS Bhat\nnav_order: 1\nhas_children: true\n---\n\n' | cat - docs/dnsbhat/index.md > /tmp/dnsbhat_index.md && mv /tmp/dnsbhat_index.md docs/dnsbhat/index.md
+          rm -rf docs/kannaDa docs/dnsbhat || true
+          mkdir -p docs/kannaDa/dnsbhat docs/kannaDa/eke
+          cp -R src/main/md/kannada/dnsbhat/. docs/kannaDa/dnsbhat/
+          cp -R src/main/md/kannada/eke/. docs/kannaDa/eke/
+          # README.md → index.md for dnsbhat (nav_exclude set by Python script)
+          if [ -f docs/kannaDa/dnsbhat/README.md ]; then
+            mv docs/kannaDa/dnsbhat/README.md docs/kannaDa/dnsbhat/index.md
+          fi
 
       - name: Generate source-first nested sidebar and book landing pages
         run: |
           python3 - <<'PYEOF'
           import os, re
 
-          DNSBHAT = 'docs/dnsbhat'
+          KANNADADIR = 'docs/kannaDa'
+          DNSBHAT    = 'docs/kannaDa/dnsbhat'
+          EKEDIR     = 'docs/kannaDa/eke'
 
-          # ── Source × Language hierarchy ───────────────────────────────────
-          # Top-level sidebar sections: one per content source
+          # Root ಕನ್nnaDa section title (used as parent for all L2 sections)
+          KANNADA_TITLE = 'ಕನ್nnaDa'
+
+          # ── Source hierarchy ──────────────────────────────────────────────
+          # L2 sections under ಕನ್nnaDa — one per content source
+          # Individual book content files are L3 (grand_parent=ಕನ್nnaDa, parent=source)
           SOURCES = [
               ('book',    'Books',   10),   # (dir_prefix, title, nav_order)
               ('web',     'Blog',    20),
               ('youtube', 'YouTube', 30),
               ('stub',    'Stubs',   40),
           ]
-          # Language sub-sections nested inside each source
-          LANGS = [
-              ('en',  'English',  1),   # (lang_dir, title, nav_order)
-              ('kn',  'ಕನ್ನಡ',    2),
-              ('eke', 'Eke',      3),
-          ]
+          # Language ordering for nav_order within each source section
+          LANG_ORDER = {'en': 0, 'kn': 1, 'eke': 2}
           # File search candidates per (source_dir, lang_dir) — first match wins
           CANDIDATES = {
               ('book',    'en'):  ['book/en/summary.md'],
@@ -65,7 +70,6 @@ jobs:
               ('stub',    'kn'):  ['youtube/kn/full.md'],
           }
           SRC_TITLE  = {s: t for s, t, _ in SOURCES}
-          LANG_TITLE = {l: t for l, t, _ in LANGS}
           SRC_DESC = {
               'book':    'Scanned book content — Kannada text, English summaries, and Eke romanisation.',
               'web':     'DNS Bhat blog articles — web-published Kannada linguistics content.',
@@ -142,7 +146,26 @@ jobs:
 
           # Track files that have been assigned proper sidebar front matter
           sidebar_files = set()
-          sidebar_files.add(os.path.join(DNSBHAT, 'index.md'))
+
+          # ── Pre-pass: Create ಕನ್nnaDa root section page ──────────────────
+          kannada_index = os.path.join(KANNADADIR, 'index.md')
+          with open(kannada_index, 'w', encoding='utf-8') as f:
+              f.write(fm(title=KANNADA_TITLE, nav_order=1,
+                         has_children=True, nav_exclude=False))
+              f.write(f'# {KANNADA_TITLE}\n\nKannada linguistics — DNS Bhat books, lectures, and Eke romanisation.\n')
+          sidebar_files.add(kannada_index)
+
+          # Write dnsbhat/index.md as nav_exclude with redirect from old /dnsbhat/ path
+          dnsbhat_index = os.path.join(DNSBHAT, 'index.md')
+          if os.path.exists(dnsbhat_index):
+              with open(dnsbhat_index, encoding='utf-8') as f:
+                  original_body = strip_fm(f.read())
+              with open(dnsbhat_index, 'w', encoding='utf-8') as f:
+                  f.write(fm(title='DNS Bhat Collection', nav_order=1,
+                             nav_exclude=True,
+                             redirect_from=['/dnsbhat/', '/dnsbhat/index']))
+                  f.write(original_body)
+          sidebar_files.add(dnsbhat_index)
 
           # ── Pass 1: Gather book metadata and content paths ────────────────
           books = []
@@ -230,65 +253,64 @@ jobs:
                   'found':             found,
               })
 
-          # ── Determine which source / source×lang combos have content ──────
-          active_srcs      = set(src for b in books for (src, _) in b['found'])
-          active_src_langs = set((src, lang) for b in books for (src, lang) in b['found'])
+          # ── Determine which sources have content ──────────────────────────
+          active_srcs = set(src for b in books for (src, _) in b['found'])
 
-          # ── Pass 2: Create top-level source section pages ─────────────────
+          # ── Pass 2: Create L2 source section pages (children of ಕನ್nnaDa) ─
           for src_dir, src_title, src_order in SOURCES:
               if src_dir not in active_srcs:
                   continue
               fp = os.path.join(DNSBHAT, f'{src_dir}.md')
               with open(fp, 'w', encoding='utf-8') as f:
-                  f.write(fm(title=src_title, nav_order=src_order,
-                             has_children=True, nav_exclude=False))
+                  f.write(fm(title=src_title, parent=KANNADA_TITLE,
+                             nav_order=src_order, has_children=True,
+                             nav_exclude=False))
                   f.write(f'# {src_title}\n\n{SRC_DESC[src_dir]}\n')
               sidebar_files.add(fp)
 
-          # ── Pass 3: Create language sub-section pages ─────────────────────
-          for src_dir, src_title, _ in SOURCES:
-              if src_dir not in active_srcs:
-                  continue
-              for lang_dir, lang_title, lang_order in LANGS:
-                  if (src_dir, lang_dir) not in active_src_langs:
-                      continue
-                  fp = os.path.join(DNSBHAT, f'{src_dir}-{lang_dir}.md')
-                  with open(fp, 'w', encoding='utf-8') as f:
-                      f.write(fm(title=lang_title, parent=src_title,
-                                 nav_order=lang_order, has_children=True,
-                                 nav_exclude=False))
-                      f.write(f'# {lang_title}\n')
-                  sidebar_files.add(fp)
-
-          # ── Pass 4: Write front matter for content files ──────────────────
-          # Each content file gets: parent=lang_title, grand_parent=src_title
+          # ── Pass 3: Write front matter for content files ──────────────────
+          # L3: parent=src_title, grand_parent=KANNADA_TITLE
+          # nav_order = book_num * 10 + lang_offset (groups language variants together)
+          # Adds redirect_from for old /dnsbhat/... paths
           for b in books:
-              for (src, lang), (file_path, _) in b['found'].items():
+              for (src, lang), (file_path, rel) in b['found'].items():
                   with open(file_path, encoding='utf-8') as f:
                       content = f.read()
-                  redirect_from = get_redirect_from(content)
+                  existing_redirects = get_redirect_from(content) or []
                   content = strip_fm(content)
-                  # kn sidebar entries use Kannada script title when available
+
+                  # Sidebar title: kn entries use Kannada script title when available
                   sidebar_title = (
                       b['kn_title'] if lang == 'kn' and b.get('kn_title')
                       else b['title']
                   )
+                  # Language suffix in title to distinguish variants in flat list
+                  lang_suffix = {'en': ' (EN)', 'kn': ' (ಕನ್nnaDa)', 'eke': ' (Eke)'}[lang]
+                  sidebar_title = sidebar_title + lang_suffix
+
+                  nav_ord = b['book_num'] * 10 + LANG_ORDER.get(lang, 9)
+
+                  # Old-URL redirect: /dnsbhat/NN-slug/... → /kannaDa/dnsbhat/NN-slug/...
+                  old_path = '/' + file_path.replace('docs/kannaDa/', 'docs/').replace('docs/', '').replace('.md', '')
+                  redirects = list(existing_redirects)
+                  if old_path not in redirects:
+                      redirects.append(old_path)
+
                   fm_args = dict(
                       title=sidebar_title,
-                      parent=LANG_TITLE[lang],
-                      grand_parent=SRC_TITLE[src],
-                      nav_order=b['book_num'],
+                      parent=SRC_TITLE[src],
+                      grand_parent=KANNADA_TITLE,
+                      nav_order=nav_ord,
                   )
-                  if redirect_from:
-                      fm_args['redirect_from'] = redirect_from
+                  if redirects:
+                      fm_args['redirect_from'] = redirects
                   with open(file_path, 'w', encoding='utf-8') as f:
                       f.write(fm(**fm_args))
                       f.write(content)
                   sidebar_files.add(file_path)
 
-          # ── Pass 5: Build book landing pages as index.md ─────────────────
-          # Written to index.md (not README.md) so Jekyll serves the page at
-          # the directory URL /dnsbhat/NN-slug/ — top-level README links work.
+          # ── Pass 4: Build book landing pages as index.md ─────────────────
+          # Written to index.md so Jekyll serves the page at /kannaDa/dnsbhat/NN-slug/
           for b in books:
               readme_src = os.path.join(b['path'], 'README.md')
               if not os.path.exists(readme_src):
@@ -309,7 +331,7 @@ jobs:
               # Link table grouped by source
               link_rows = []
               for src_dir, _, _ in SOURCES:
-                  for lang_dir, _, _ in LANGS:
+                  for lang_dir in ['en', 'kn', 'eke']:
                       if (src_dir, lang_dir) in b['found']:
                           _, rel = b['found'][(src_dir, lang_dir)]
                           link_rows.append(
@@ -332,9 +354,12 @@ jobs:
                   body_parts.append('\n---\n\n| Source | Link |\n|--------|------|\n')
                   body_parts.extend(r + '\n' for r in link_rows)
 
-              lf_args = dict(title=b['title'], nav_order=b['raw_order'], nav_exclude=True)
+              # Old URL redirect for book landing page
+              old_landing = '/dnsbhat/' + b['dir'] + '/'
+              lf_args = dict(title=b['title'], nav_order=b['raw_order'], nav_exclude=True,
+                             redirect_from=[old_landing])
               if b['redirect_from_main']:
-                  lf_args['redirect_from'] = b['redirect_from_main']
+                  lf_args['redirect_from'] = list(b['redirect_from_main']) + [old_landing]
 
               # Write to index.md so the directory URL /NN-slug/ resolves correctly
               index_md = os.path.join(b['path'], 'index.md')
@@ -342,16 +367,54 @@ jobs:
                   f.write(fm(**lf_args) + ''.join(body_parts))
               sidebar_files.add(index_md)
 
+          # ── Pass 5: Eke section pages ─────────────────────────────────────
+          if os.path.isdir(EKEDIR):
+              eke_index = os.path.join(EKEDIR, 'index.md')
+              # Convert README.md → index.md if needed
+              eke_readme = os.path.join(EKEDIR, 'README.md')
+              if os.path.exists(eke_readme) and not os.path.exists(eke_index):
+                  os.rename(eke_readme, eke_index)
+              if os.path.exists(eke_index):
+                  with open(eke_index, encoding='utf-8') as f:
+                      content = strip_fm(f.read())
+                  with open(eke_index, 'w', encoding='utf-8') as f:
+                      f.write(fm(title='Eke', parent=KANNADA_TITLE,
+                                 nav_order=50, has_children=True,
+                                 nav_exclude=False))
+                      f.write(content)
+                  sidebar_files.add(eke_index)
+              # Other pages in eke/ become children of Eke section
+              for fname in sorted(os.listdir(EKEDIR)):
+                  if not fname.endswith('.md') or fname in ('index.md', 'README.md'):
+                      continue
+                  fp = os.path.join(EKEDIR, fname)
+                  with open(fp, encoding='utf-8') as f:
+                      content = f.read()
+                  existing_fm = re.match(r'^---\n(.*?)\n---\n', content, re.DOTALL)
+                  page_title = fname.replace('.md', '').replace('-', ' ').title()
+                  if existing_fm:
+                      t = read_field(existing_fm.group(1), 'title')
+                      if t:
+                          page_title = t
+                  page_nav = {'reference': 1}.get(fname.replace('.md', ''), 99)
+                  content = strip_fm(content)
+                  with open(fp, 'w', encoding='utf-8') as f:
+                      f.write(fm(title=page_title, parent='Eke',
+                                 grand_parent=KANNADA_TITLE, nav_order=page_nav,
+                                 nav_exclude=False))
+                      f.write(content)
+                  sidebar_files.add(fp)
+
           # ── Pass 6: Mark all remaining .md files as nav_exclude ───────────
-          for root, dirs, files in os.walk(DNSBHAT):
+          for walk_root, dirs, files in os.walk(KANNADADIR):
               dirs[:] = [d for d in dirs if not d.startswith('.')]
               for fname in files:
                   if fname.endswith('.md'):
-                      fp = os.path.join(root, fname)
+                      fp = os.path.join(walk_root, fname)
                       if fp not in sidebar_files:
                           add_nav_exclude(fp)
 
-          print("Source-first nested sidebar and landing pages generated.")
+          print("ಕನ್nnaDa sidebar — nested source sections and Eke pages generated.")
           PYEOF
 
       - name: Setup Ruby

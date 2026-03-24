@@ -86,15 +86,19 @@ All translation work must follow DNS Bhat's native Kannada word formation system
 
 ### DNS Bhat Book File Structure
 
-Each book directory contains:
-| File pattern | Content |
+Each book directory uses the Phase-20 4-level taxonomy (`source/lang/type.md`):
+| Path pattern | Content |
 |-------------|---------|
-| `NN-slug-book.md` or `NN-slug.md` | Raw OCR archive — do NOT edit |
-| `NN-slug-kn.md` | Structured Kannada source: paragraph breaks, TOC, `<a id="adhyAya-N">` anchors |
-| `NN-slug-en.md` | Chapter-wise English summary with cross-links to kn.md anchors |
-| `NN-slug-kn-eke.md` | Eke romanisation matching kn.md section structure |
-| `NN-slug-claude-prompt.md` | Condensed prompt context for Claude sessions |
-| `README.md` | Book-level index (rendered on GitHub) |
+| `book/kn/raw.md` or `book/kn/full.md` | Structured Kannada source (do NOT use old `NN-slug-kn.md`) |
+| `book/en/summary.md` | Chapter-wise English summary |
+| `book/eke/full.md` | Eke romanisation |
+| `web/kn/raw.md` | Blog/web Kannada source |
+| `web/en/summary.md` | Blog English summary |
+| `web/eke/full.md` | Blog Eke romanisation |
+| `youtube/kn/full.md` | YouTube transcript (Kannada) |
+| `youtube/en/summary.md` | YouTube English summary |
+| `claude-prompt.md` | Condensed prompt context for Claude sessions |
+| `README.md` | Book-level index (rendered on GitHub Pages as `index.md`) |
 
 **Citation quote convention (Phase 17):** All DNS Bhat typographic `` `word` `` quotes are standardised to curly single quotes `'word'` (U+2018 open, U+2019 close) in kn.md and kn-eke.md files. Do not use backtick as open-quote.
 
@@ -201,11 +205,14 @@ Located in `src/main/md/self-reflection/`:
 ## GitHub Pages / Jekyll
 
 The `docs/` directory is served at https://vwulf.github.io/ettuge/ via GitHub Pages with Jekyll.
-- `docs/dnsbhat/` — per-book `.html` pages (generated from kn.md, en.md, kn-eke.md sources in `src/`)
-- `docs/dnsbhat/PROJECT-RECAP.md` — full phased project history
+- `docs/kannaDa/dnsbhat/` — per-book pages (generated from src/ into `docs/kannaDa/` by CI)
+- `docs/kannaDa/eke/` — Eke romanisation reference pages (generated from `src/main/md/kannada/eke/`)
+- `docs/dnsbhat/PROJECT-RECAP.md` — full phased project history (canonical; serves at /dnsbhat/PROJECT-RECAP)
 - `docs/claude-project-instructions.md` — combined CLAUDE.md + skills for Claude.ai Projects (phone-accessible)
-- `_config.yml` — Jekyll config (theme: minima, plugins: jekyll-relative-links)
+- `docs/_config.yml` — Jekyll config (theme: just-the-docs; title: ettuge — Kannada Linguistics)
 - Do not commit generated HTML directly — Jekyll builds from `.md` source on push.
+- **Sidebar structure (Phase 27):** `ಕನ್nnaDa` (root) → Books/Blog/YouTube/Stubs/Eke (L2) → individual content (L3, grand_parent=ಕನ್nnaDa)
+- Old `/dnsbhat/` URLs redirect automatically via `redirect_from:` front matter in each file.
 
 ---
 

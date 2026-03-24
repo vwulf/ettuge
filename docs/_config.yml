@@ -1,5 +1,5 @@
-title: ettuge — DNS Bhat Kannada Linguistics
-description: DNS Bhat lecture series — Eke romanisation and English summaries
+title: ettuge — Kannada Linguistics
+description: Native Kannada linguistics — DNS Bhat lecture series, Eke romanisation, English summaries
 
 theme: just-the-docs
 
@@ -10,7 +10,7 @@ aux_links:
   "GitHub":
     - "https://github.com/vwulf/ettuge"
 
-footer_content: "DNS Bhat Kannada Linguistics — ettuge repository"
+footer_content: "Kannada Linguistics — ettuge repository"
 
 
 defaults:
