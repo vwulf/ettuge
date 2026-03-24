@@ -565,4 +565,4 @@ When given an English word to coin a native Kannada equivalent:
 
 ## Repository Source (Phase 19)
 
-A clean structured Kannada source file `02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn.md` is available with a 3-level deep TOC and `<a id="sec-N-M">` section anchors. After every section anchor there is a `[Eke →]` cross-link to the kn-eke.md; the kn-eke.md mirrors with `[ಕನ್nnaDa →]` links. Header block includes `[← ಸೂಚಿ](./README)` index back-link. Citation marks standardised to curly single quotes `'word'` (U+2018/U+2019).
+A clean structured Kannada source file `02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn.md` is available with a 3-level deep TOC and `<a id="sec-N-M">` section anchors. After every section anchor there is a `[Eke →]` cross-link to the kn-eke.md; the kn-eke.md mirrors with `[ಕನ್ನಡ →]` links. Header block includes `[← ಸೂಚಿ](./README)` index back-link. Citation marks standardised to curly single quotes `'word'` (U+2018/U+2019).

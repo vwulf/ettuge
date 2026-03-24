@@ -156,7 +156,7 @@ The book is organised as a guided chapter-by-chapter tour through the major gram
 
 9. **Repository source (Phase 17):** A clean structured Kannada source file `28-kannaDakke-bEku-kn.md` is available, generated from the Sarvam Vision OCR + WX-decode pipeline with a 3-pass character and structural artefact cleanup (9,517 lines). It has 12 `<a id="adhyAya-N">` chapter anchors. The Eke romanisation file `28-kannaDakke-bEku-kn-eke.md` mirrors the same structure. DNS Bhat's typographic citation marks have been standardised to curly single quotes `'word'` (U+2018/U+2019) in both kn.md and kn-eke.md. Note: this book is written in standard Kannada orthography (not hosa baraha) — aspirated letters appear as-is.
 
-10. **Repository source (Phase 18/19):** Phase 18 added deep 3-level TOC with `<a id="sec-N-M">` and `<a id="sub-N-M-K">` anchors; removed the OCR'd printed flat TOC; fixed 5 heading-number errors (5.3.5→5.3.6, 6.3.3→6.2.3, 6.3.4→6.2.4, 9.3→9.4, 9.4→9.5). Phase 19 added `[Eke →]` cross-links after every sec/sub anchor in kn.md and `[ಕನ್nnaDa →]` links in kn-eke.md; header has `[← ಸೂಚಿ](./README)`.
+10. **Repository source (Phase 18/19):** Phase 18 added deep 3-level TOC with `<a id="sec-N-M">` and `<a id="sub-N-M-K">` anchors; removed the OCR'd printed flat TOC; fixed 5 heading-number errors (5.3.5→5.3.6, 6.3.3→6.2.3, 6.3.4→6.2.4, 9.3→9.4, 9.4→9.5). Phase 19 added `[Eke →]` cross-links after every sec/sub anchor in kn.md and `[ಕನ್ನಡ →]` links in kn-eke.md; header has `[← ಸೂಚಿ](./README)`.
 
 ---
 

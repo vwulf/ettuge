@@ -130,7 +130,7 @@ The anusvara ಂ is **never** written as standalone `M`. It always assimilates t
 
 - Every Kannada consonant has an inherent `a`: ಕ = `ka`, ನ = `na`, etc.
 - The virama ್ suppresses it in consonant clusters: ಕ್ನ = `kna`
-- Word-final consonants lose the inherent `a` in spoken EK: ಕನ್nnaDa = `kannaDa` (not `kannaDaa`)
+- Word-final consonants lose the inherent `a` in spoken EK: ಕನ್ನಡ = `kannaDa` (not `kannaDaa`)
 
 ---
 
@@ -138,11 +138,11 @@ The anusvara ಂ is **never** written as standalone `M`. It always assimilates t
 
 | Kannada | Eke | Notes |
 |---------|-----|-------|
-| ಕನ್nnaDa | `kannaDa` | D = retroflex ಡ |
+| ಕನ್ನಡ | `kannaDa` | D = retroflex ಡ |
 | ಮಾತು | `mAtu` | A = long ಆ |
 | ಸೂರ್ಯ | `sUrya` | U = long ಊ, r = ರ |
 | ಸಂಸ್ಕೃತ | `samskxta` | m = assimilated anusvara; x = vocalic ṛ |
-| ಎಲ್ಲರ ಕನ್nnaDa | `ellara kannaDa` | (Ellara Kannada — everyone's Kannada) |
+| ಎಲ್ಲರ ಕನ್ನಡ | `ellara kannaDa` | (Ellara Kannada — everyone's Kannada) |
 | ಭಾಷೆ | `bhAShe` | bh = ಭ, A = long ಆ, **Sh** = ಷ, e = short |
 | ಕೃಷ್ಣ | `kxShNa` | x = ಋ/ೃ, **Sh** = ಷ, N = retroflex ಣ |
 | ಐದು | `aydu` | ay = diphthong ಐ |

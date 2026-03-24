@@ -118,7 +118,7 @@ redirect_from:
 
 ## adhyAya ೯ — ADupadagaLu
 
-[↑ oLapiDige hintirugi](#oLapiDi) | [ಕನ್nnaDa →](../kn/full#adhyAya-9)
+[↑ oLapiDige hintirugi](#oLapiDi) | [ಕನ್ನಡ →](../kn/full#adhyAya-9)
 
 nAnu, nInu, mattu tAnu — I mUru padagaLannu 'ADupadagaLu' emba bEreya gurUpinalli sErisal Aguttade. avugaLu sollinalli bandu tamma Aduge, kELuge, ilvE bErobbara samba nDavannu tiLisuttave. solla nirmisuvalli ivugaLa kArya viceShTavAgiruttade.
 
@@ -126,13 +126,13 @@ nAnu, nInu, mattu tAnu — I mUru padagaLannu 'ADupadagaLu' emba bEreya gurUpina
 
 #### 9.1 munnOTa
 
-[ಕನ್nnaDa →](../kn/full#sec-9-1)
+[ಕನ್ನಡ →](../kn/full#sec-9-1)
 
 <a id="sub-9-1-1"></a>
 
 ##### 9.1.1 ADupadagaLa kelasa
 
-[ಕನ್nnaDa →](../kn/full#sub-9-1-1)
+[ಕನ್ನಡ →](../kn/full#sub-9-1-1)
 
 nAnu, nInu, tAnu emba mUru padagaLu sollinallli tamma AdagE Adu kArya naDesuttave — sollinalli bandu oru pAngu Aduge, kELuge, ilvE bErobbara embudu tiLisuvudu. (1k) nAnu UnTa mADuttiddEne — illi 'nAnu' pAngu Aduge embudu tiLisuttade, A Aduge yAru endalla.
 
@@ -140,7 +140,7 @@ nAnu, nInu, tAnu emba mUru padagaLu sollinallli tamma AdagE Adu kArya naDesuttav
 
 ##### 9.1.2 tAnu padada bErpaDuge
 
-[ಕನ್nnaDa →](../kn/full#sub-9-1-2)
+[ಕನ್ನಡ →](../kn/full#sub-9-1-2)
 
 tAnu padavu nAnu-nInu padagaLinda bErevAgi bErobbara pAngu Aduge ilvE kELuga allada emba aLLagaLeya huruLannu koDuttade. udA: tanage nOvAdaru rAju mAtanADuvudilla — illi 'tanage' pAngu Aduge ilvE kELuga alla. I bErpaDuge tAnunnu viceShTa pada mADuttade.
 
@@ -148,7 +148,7 @@ tAnu padavu nAnu-nInu padagaLinda bErevAgi bErobbara pAngu Aduge ilvE kELuga all
 
 ##### 9.1.3 hesarupadagaLinda bErAgiruvudu
 
-[ಕನ್nnaDa →](../kn/full#sub-9-1-3)
+[ಕನ್ನಡ →](../kn/full#sub-9-1-3)
 
 ADupadagaLu hesarupadagaLantalla — avugaLu yAra hesarannu sUcisuttave embudu sollinalli yAru mAtanADidaru enbadannu nODi tiLidukoLLabEku. rAju, madhu hAge niccita hesaru koDuvudilla; nAnu 'Aduge' embudu mAtrana koDuttade.
 
@@ -156,7 +156,7 @@ ADupadagaLu hesarupadagaLantalla — avugaLu yAra hesarannu sUcisuttave embudu s
 
 ##### 9.1.4 tOrUpadagaLinda bErAgiruvudu
 
-[ಕನ್nnaDa →](../kn/full#sub-9-1-4)
+[ಕನ್ನಡ →](../kn/full#sub-9-1-4)
 
 ADupadagaLu tOrUpadagaLantalla. avanu, avaLu emba tOrUpadagaLu yAradaru obbara hesarannu sUcisabahudAdarU avugaLa kElasa viceShTavAgi tOrkey a nIDisuvudu. ADupadagaLu mAtrana samba ndada sUcane koDuttave — tOrkey a alla.
 
@@ -164,7 +164,7 @@ ADupadagaLu tOrUpadagaLantalla. avanu, avaLu emba tOrUpadagaLu yAradaru obbara h
 
 ##### 9.1.5 sollannu unTumADuvalli bagegaLu
 
-[ಕನ್nnaDa →](../kn/full#sub-9-1-5)
+[ಕನ್ನಡ →](../kn/full#sub-9-1-5)
 
 ADupadagaLa baLakeyinda sollannu nirmisuvalli mUru bagegaLu kANabAruttave: (1) nAnu/nInu pAngAgi baruva sollu, (2) tAnu pAngAgi baruva sollu, (3) bahuvacanada ADupadagaLu (nAvu, nIvu, tAvu) pAngAgi baruva sollu. pratyEka bageyU solla rUpadalli viceShTa lacaNagaLannu tOruttade.
 
@@ -174,7 +174,7 @@ ADupadagaLa baLakeyinda sollannu nirmisuvalli mUru bagegaLu kANabAruttave: (1) n
 
 #### 9.2 ADupadagaLa kelasa
 
-[ಕನ್nnaDa →](../kn/full#sec-9-2)
+[ಕನ್ನಡ →](../kn/full#sec-9-2)
 
 ADupadagaLu sollinalli 'mArikeyada padagaLu' (substitutes) Agi kelasagaiyuttave — avugaLu solla nirmanada samparkadalli Aduge-kELugara samba ndavannu tiLisuttave. avugaLa baLake solladalli mArpADugaLige kAraNaAguva kelavu lacaNagaLannu I bAgadalli vidarisi.
 
@@ -182,7 +182,7 @@ ADupadagaLu sollinalli 'mArikeyada padagaLu' (substitutes) Agi kelasagaiyuttave 
 
 ##### 9.2.1 mArikeyada padagaLu
 
-[ಕನ್nnaDa →](../kn/full#sub-9-2-1)
+[ಕನ್ನಡ →](../kn/full#sub-9-2-1)
 
 ADupadagaLu hesarupadagaLa mArike mADisuttave enbA nambike sariyalla — avugaLu hesarannu sUcisuvudilla, kelasannu (Aduge/kELuge emba samba ndavannu) sUcisuttave. (2k) rAju ninage oru pustaka koDaliddAne — illi 'ninage' pAngu kELuge embudu tiLisuttade.
 
@@ -190,7 +190,7 @@ ADupadagaLu hesarupadagaLa mArike mADisuttave enbA nambike sariyalla — avugaLu
 
 ##### 9.2.2 pAngugaLannu gurutisalu nEravallada holabu
 
-[ಕನ್nnaDa →](../kn/full#sub-9-2-2)
+[ಕನ್ನಡ →](../kn/full#sub-9-2-2)
 
 ADupadagaLu sollinalli pAngugaLannu nEraDAgi guruti sade nEravallada (indirect) holabininda guruti suttave. udA: nAnu padavannu nODidare A sollinalli mADuga pAngu Aduge embudu tiLiyuttade, yAru endalla.
 
@@ -198,7 +198,7 @@ ADupadagaLu sollinalli pAngugaLannu nEraDAgi guruti sade nEravallada (indirect) 
 
 ##### 9.2.3 horapaDikeyAgi madipu baLake
 
-[ಕನ್nnaDa →](../kn/full#sub-9-2-3)
+[ಕನ್ನಡ →](../kn/full#sub-9-2-3)
 
 ADupadagaLu madipu oTTinondige bandare (nAnadrU, nInadrU) avugaLa sAmAnya kElasa mArpaTTaguttade — horapaDikeyAgi (exception-marker Agi) kelasagaiyuttave.
 
@@ -206,7 +206,7 @@ ADupadagaLu madipu oTTinondige bandare (nAnadrU, nInadrU) avugaLa sAmAnya kElasa
 
 ##### 9.2.4 ettuge sollugaLalli baLake
 
-[ಕನ್nnaDa →](../kn/full#sub-9-2-4)
+[ಕನ್ನಡ →](../kn/full#sub-9-2-4)
 
 ADupadagaLu ettuge sollugaLalli (quotative clauses — endu bandu oLasollugaLalli) viceShTa lacaNagaLannu tOruttave. oLasollinalli bandu nAnu, nInu enbu padagaLu oLasolla nirmanisida Aduge-kELugarannu sUcisuttave.
 
@@ -214,7 +214,7 @@ ADupadagaLu ettuge sollugaLalli (quotative clauses — endu bandu oLasollugaLall
 
 ##### 9.2.5 endu padada baLake
 
-[ಕನ್nnaDa →](../kn/full#sub-9-2-5)
+[ಕನ್ನಡ →](../kn/full#sub-9-2-5)
 
 'endu' pada (quotative complementizer) bayasuvudu, nambuvudu, hELuvudu hAge esaka padagaLondhige baLakeyAguva oLasollugaLannu joDisuttade. I oLasollugaLalli bandu ADupadagaLu oLasolla nirmanisida Aduge-kELugarannu nirdEsi suttave.
 
@@ -222,7 +222,7 @@ ADupadagaLu ettuge sollugaLalli (quotative clauses — endu bandu oLasollugaLall
 
 ##### 9.2.6 bEre mArpADugaLu
 
-[ಕನ್nnaDa →](../kn/full#sub-9-2-6)
+[ಕನ್ನಡ →](../kn/full#sub-9-2-6)
 
 ADupadagaLu bandAga solladalli innaSTu mArpADugaLu tOruttave — esaka padada aLLagaLe rUpagaLu, pattuge rUpagaLalli vyatyAsagaLu, halavaNumba rUpagaLu.
 
@@ -230,7 +230,7 @@ ADupadagaLu bandAga solladalli innaSTu mArpADugaLu tOruttave — esaka padada aL
 
 ##### 9.2.7 ante padada baLake
 
-[ಕನ್nnaDa →](../kn/full#sub-9-2-7)
+[ಕನ್ನಡ →](../kn/full#sub-9-2-7)
 
 'ante' pada (reportative/hearsay marker) ADupadagaLondhige sEridAga viceShTa lacaNagaLannu tOruttade. 'avanu bandanante' hAge nEraDA gi hELadiruvudu (reported speech) sUcisuttade.
 
@@ -240,7 +240,7 @@ ADupadagaLu bandAga solladalli innaSTu mArpADugaLu tOruttave — esaka padada aL
 
 #### 9.3 tAnu padada baLake
 
-[ಕನ್nnaDa →](../kn/full#sec-9-3)
+[ಕನ್ನಡ →](../kn/full#sec-9-3)
 
 tAnu reflexive/logophoric pada. nAnu mattu nInu padagaLu yAra Aduge/kELuge enbudu sUcisuttave; tAnu pada yAra bErA sUcisuttade. I pada sollidalli oLagirabbEkAda koNDiyondhige samba ndakkE bandiruttade.
 
@@ -248,7 +248,7 @@ tAnu reflexive/logophoric pada. nAnu mattu nInu padagaLu yAra Aduge/kELuge enbud
 
 ##### 9.3.1 hOlikegaLu
 
-[ಕನ್nnaDa →](../kn/full#sub-9-3-1)
+[ಕನ್ನಡ →](../kn/full#sub-9-3-1)
 
 kannaDada tAnu pada English 'himself/herself/itself' inda bErevAgi bEre mAtige bErE bEre lacaNagaLannu tOruttade. I hOlikeyinda tAnunna viceShTaLeyannu artamADisikOLLabahudu.
 
@@ -256,7 +256,7 @@ kannaDada tAnu pada English 'himself/herself/itself' inda bErevAgi bEre mAtige b
 
 ##### 9.3.2 pAngu sollinOLagirabbEkemba kaTTale
 
-[ಕನ್nnaDa →](../kn/full#sub-9-3-2)
+[ಕನ್ನಡ →](../kn/full#sub-9-3-2)
 
 tAnu koNDiya (antecedent) A tAnu bandu oLasollinallige sErida mukhya sollinOLage irabbEku — horasollinalli iruvudu sadyakke kaTTale mIrantu. (3k) rAju tAnE bandu — sarI; (3c) *tAnu rAjuvininda bande — tappAguttade.
 
@@ -264,7 +264,7 @@ tAnu koNDiya (antecedent) A tAnu bandu oLasollinallige sErida mukhya sollinOLage
 
 ##### 9.3.3 ibbibbarugaLu ADugarU mattu kELugarirUva sollugaLu
 
-[ಕನ್nnaDa →](../kn/full#sub-9-3-3)
+[ಕನ್ನಡ →](../kn/full#sub-9-3-3)
 
 oLasollinallli eraDu Aduge ilvE eraDu kELugara pAngugaLu bandu tAnu koNDiyEnu emba samsheya bAndAga, tAnunna koNDiya sollinalli oLagirabbEku emba kaTTale itta samsheya pariharisuva I bAgadalli vivarisuttade.
 
@@ -272,7 +272,7 @@ oLasollinallli eraDu Aduge ilvE eraDu kELugara pAngugaLu bandu tAnu koNDiyEnu em
 
 ##### 9.3.4 bEre bageyada oLasollugaLalli baLake
 
-[ಕನ್nnaDa →](../kn/full#sub-9-3-4)
+[ಕನ್ನಡ →](../kn/full#sub-9-3-4)
 
 tAnu aLLagaLeya, pattugeyada, ilvE bEre bageya oLasollugaLalli (embedded clauses) viceShTa lacaNagaLannu tOruttade. I bage vivecaneyinda oLasolla nirmAnada sU kShmatavannu tiLiyuttade.
 
@@ -280,7 +280,7 @@ tAnu aLLagaLeya, pattugeyada, ilvE bEre bageya oLasollugaLalli (embedded clauses
 
 ##### 9.3.5 sErikeyada sollugaLalli baLake
 
-[ಕನ್nnaDa →](../kn/full#sub-9-3-5)
+[ಕನ್ನಡ →](../kn/full#sub-9-3-5)
 
 sambandhaka rUpa (converb) oLasollugaLalli (e.g. -u rUpa, -i rUpa) tAnu koNDiya kelavu kaTTalegaLu simItigOLLuttave. I lacaNeyinda sErikeyada sollanirmAnada viceShTateyanu tiLiyuttade.
 
@@ -288,7 +288,7 @@ sambandhaka rUpa (converb) oLasollugaLalli (e.g. -u rUpa, -i rUpa) tAnu koNDiya 
 
 ##### 9.3.6 pattugerUpadalli baLake
 
-[ಕನ್nnaDa →](../kn/full#sub-9-3-6)
+[ಕನ್ನಡ →](../kn/full#sub-9-3-6)
 
 tAnu padada pattuge rUpagaLu (tanagE, tanninda, tanna hAge) baLakeyalli tAnu koNDiya pAngigU (antecedent participant) I rUpagaLu nirdEsisuttave emba kaTTale iruva I bAgadalli vivarisuttade.
 
@@ -296,7 +296,7 @@ tAnu padada pattuge rUpagaLu (tanagE, tanninda, tanna hAge) baLakeyalli tAnu koN
 
 ##### 9.3.7 madipu baLake
 
-[ಕನ್nnaDa →](../kn/full#sub-9-3-7)
+[ಕನ್ನಡ →](../kn/full#sub-9-3-7)
 
 tAnu madipinondige (tAnE emba oTTinondige) sErida bAgagaLu koNDiyannu horapadisuvalli oTTu hAkuvudu evAgilAgu emba viceShTa lacaNegaLannu tOruttave.
 
@@ -304,7 +304,7 @@ tAnu madipinondige (tAnE emba oTTinondige) sErida bAgagaLu koNDiyannu horapadisu
 
 ##### 9.3.8 ottihELuva huruLu
 
-[ಕನ್nnaDa →](../kn/full#sub-9-3-8)
+[ಕನ್ನಡ →](../kn/full#sub-9-3-8)
 
 tAnE (tAnu+E) rUpave sollinalli ottihELuva (emphatic) huruLannu koDabahudAdu. udA: rAjuvE bande enbadara bajaTTige tAnE bande — koNDiyannu ottihELuttade.
 
@@ -312,7 +312,7 @@ tAnE (tAnu+E) rUpave sollinalli ottihELuva (emphatic) huruLannu koDabahudAdu. ud
 
 ##### 9.3.9 kaDitagoLisida haravu
 
-[ಕನ್nnaDa →](../kn/full#sub-9-3-9)
+[ಕನ್ನಡ →](../kn/full#sub-9-3-9)
 
 tAnu haravu (scope) koNDiya haraviginta kaDime iruttade — kelavu iTTaLagaLalli tAnu koNDiyannu sUcisadE hoguva sAdyate yIl bAgadalli vivarisuttade.
 
@@ -322,7 +322,7 @@ tAnu haravu (scope) koNDiya haraviginta kaDime iruttade — kelavu iTTaLagaLalli
 
 #### 9.4 ADupadagaLu mattu pattugerUpagaLu
 
-[ಕನ್nnaDa →](../kn/full#sec-9-4)
+[ಕನ್ನಡ →](../kn/full#sec-9-4)
 
 ADupadagaLu kELugara samba ndadalli (pattuge) esaka padada rUpuvannu toraguvudu mattU viceShTa lacaNagaLannu kOrattave. I bAgadalli ADupadagaLa pattuge rUpagaLu, ALtana kaTTupADugaLu, halavu vacana baLakegaLu vivarisuttave.
 
@@ -330,7 +330,7 @@ ADupadagaLu kELugara samba ndadalli (pattuge) esaka padada rUpuvannu toraguvudu 
 
 ##### 9.4.1 pattuge oTTugaLondhige baLake
 
-[ಕನ್nnaDa →](../kn/full#sub-9-4-1)
+[ಕನ್ನಡ →](../kn/full#sub-9-4-1)
 
 nAnu, nInu, tAnu padagaLu pattuge oTTugaLondhige (nanninda, ninage, tanage) sEridAga kelavu viceShTa rUpagaLu tOruttave — sandhigaLu, svara hOnuvanagaLu, mattaitu.
 
@@ -338,7 +338,7 @@ nAnu, nInu, tAnu padagaLu pattuge oTTugaLondhige (nanninda, ninage, tanage) sEri
 
 ##### 9.4.2 bEre kelavu oTTugaLondhige baLake
 
-[ಕನ್nnaDa →](../kn/full#sub-9-4-2)
+[ಕನ್ನಡ →](../kn/full#sub-9-4-2)
 
 pattuge oTTugaLu allada bEre kelavu oTTugaLondhige ADupadagaLu sEridAga (nannadrU, nInella, tAnA) viceShTa lacaNegaLannu tOruttave.
 
@@ -346,7 +346,7 @@ pattuge oTTugaLu allada bEre kelavu oTTugaLondhige ADupadagaLu sEridAga (nannadr
 
 ##### 9.4.3 ALtanada kaTTupADu
 
-[ಕನ್nnaDa →](../kn/full#sub-9-4-3)
+[ಕನ್ನಡ →](../kn/full#sub-9-4-3)
 
 kannaDadalli ALtana (honorific/politeness) mUru nElegaLallli kANuttade: sAmAnya (nInu), gauravarava (nIvu), heccina gaurava (tAvu). I ALtana kaTTupADu esaka padada pattuge rUpannu toraguttade mattu sollanirmANadalli pAlisabEkAda niyamavannu nirdEsuttade.
 
@@ -354,7 +354,7 @@ kannaDadalli ALtana (honorific/politeness) mUru nElegaLallli kANuttade: sAmAnya 
 
 ##### 9.4.4 halaveNikeyada baLake
 
-[ಕನ್nnaDa →](../kn/full#sub-9-4-4)
+[ಕನ್ನಡ →](../kn/full#sub-9-4-4)
 
 ADupadagaLa halavacanada rUpagaLu (nAvu, nIvu, tAvu) oru bAgIda samUhakke nirdEsisu valli viceShTa lacaNagaLannu tOruttave. nAvu 'nAnu + bEre yArO' enbA huruLannu koDuttade.
 
@@ -362,7 +362,7 @@ ADupadagaLa halavacanada rUpagaLu (nAvu, nIvu, tAvu) oru bAgIda samUhakke nirdEs
 
 ##### 9.4.5 sULunuDigaLalli baLake
 
-[ಕನ್nnaDa →](../kn/full#sub-9-4-5)
+[ಕನ್ನಡ →](../kn/full#sub-9-4-5)
 
 sulabhe nudi (proverbs), OLagADa (riddles), nANuta (jokes) mattU bEre sAmAjika mAtigaLalli ADupadagaLa baLake viceShTavAgi kANuttade. I sandharbhadalli avugaLa huruLu sAhityika ilvE viceShTa pratipadeyAgi baDuttade.
 
@@ -370,7 +370,7 @@ sulabhe nudi (proverbs), OLagADa (riddles), nANuta (jokes) mattU bEre sAmAjika m
 
 ##### 9.4.6 gurtavyatyAsa
 
-[ಕನ್nnaDa →](../kn/full#sub-9-4-6)
+[ಕನ್ನಡ →](../kn/full#sub-9-4-6)
 
 ADupadagaLu tOrUpadagaLU eraDU pAngugaLannu guruti suttave; Adare avugaLa guruti suvike karama vyatyAsagaLannu tOruttade — ADupadagaLu kelasa-mUlada gurutu koDuttave, tOrUpadagaLu tOrkey a-mUlada gurutu koDuttave.
 
@@ -378,7 +378,7 @@ ADupadagaLu tOrUpadagaLU eraDU pAngugaLannu guruti suttave; Adare avugaLa guruti
 
 ##### 9.4.7 hesaru mattu kogetha
 
-[ಕನ್nnaDa →](../kn/full#sub-9-4-7)
+[ಕನ್ನಡ →](../kn/full#sub-9-4-7)
 
 kannaDadalli ADugana hesarannu kogetha (address) Agi baLasuvudu, ilvE pEru hELuvudu bErevEru niyamagaLige oLapaTTiruttade. nIvu/nInu baLake ALtanakke sambhandisuttade; nAVRu tanna pErannu sUcisuvudu bEre sandarbhadalli bErE ArthagaLu koDuttade.
 
@@ -386,7 +386,7 @@ kannaDadalli ADugana hesarannu kogetha (address) Agi baLasuvudu, ilvE pEru hELuv
 
 ##### 9.4.8 ADuga mattu kELugara kuritu heccina tiLivu
 
-[ಕನ್nnaDa →](../kn/full#sub-9-4-8)
+[ಕನ್ನಡ →](../kn/full#sub-9-4-8)
 
 ADuga mattu kELugara samba ndada lacaNegaLu — avaru parivartanagOLLabahudAda sandarbha, oru vyakti eraDU pAtragaLannu naDesisuva sandarbha — I bAgadalli vivarisuttade.
 
@@ -394,7 +394,7 @@ ADuga mattu kELugara samba ndada lacaNegaLu — avaru parivartanagOLLabahudAda s
 
 ##### 9.4.9 gamanarUpadalli baLake
 
-[ಕನ್nnaDa →](../kn/full#sub-9-4-9)
+[ಕನ್ನಡ →](../kn/full#sub-9-4-9)
 
 ADupadagaLu gamana rUpagaLalli (vocative forms — 'O rAja', 'O nInu' hAge) viceShTa baLakegaLannu tOruttave. sAmAnyavAgi gamana rUpagaLu bahuvacanadalli bAruttave.
 
@@ -402,7 +402,7 @@ ADupadagaLu gamana rUpagaLalli (vocative forms — 'O rAja', 'O nInu' hAge) vice
 
 ##### 9.4.10 pAngu mattu pAngina bage
 
-[ಕನ್nnaDa →](../kn/full#sub-9-4-10)
+[ಕನ್ನಡ →](../kn/full#sub-9-4-10)
 
 ADupadagaLu pAngAgi bandu A pAngina bage (type/quality) tiLisuva sollugaLalli (nAnu oddavanu, nInu chaturanu) ADupadagaLu viceShTa lacaNegaLannu tOruttave.
 
@@ -410,7 +410,7 @@ ADupadagaLu pAngAgi bandu A pAngina bage (type/quality) tiLisuva sollugaLalli (n
 
 ##### 9.4.11 pAngugaLa parice mattu sarigaTTuvike
 
-[ಕನ್nnaDa →](../kn/full#sub-9-4-11)
+[ಕನ್ನಡ →](../kn/full#sub-9-4-11)
 
 ADupadagaLondhige sarigaTTuvike (equative) sollugaLu (nAnu nIne, avanu avane) viceShTa lacaNegaLannu tOruttave.
 
@@ -420,7 +420,7 @@ ADupadagaLondhige sarigaTTuvike (equative) sollugaLu (nAnu nIne, avanu avane) vi
 
 #### 9.5 ADupadagaLu mattu tOrUpadagaLu
 
-[ಕನ್nnaDa →](../kn/full#sec-9-5)
+[ಕನ್ನಡ →](../kn/full#sec-9-5)
 
 ADupadagaLu mattu tOrUpadagaLa naDuvina vyatyAsagaLannu I bAgadalli sistematically vivarisuttade. eraDU bageya padagaLU pAngugaLannu nirdEsisabahudAdarU avugaLa kArya, iTTaLa, haravu mattU hondANikeyalli vyatyAsagaLu kANuttave.
 
@@ -428,7 +428,7 @@ ADupadagaLu mattu tOrUpadagaLa naDuvina vyatyAsagaLannu I bAgadalli sistematical
 
 ##### 9.5.1 iTTaLadalli vyatyAsa
 
-[ಕನ್nnaDa →](../kn/full#sub-9-5-1)
+[ಕನ್ನಡ →](../kn/full#sub-9-5-1)
 
 ADupadagaLu sollinalli mukhya pAngu iTTaLadalli (nuclear position) bAruttave; tOrUpadagaLu mukhya pAnga ilvE naravina pAnga Agi baruttave.
 
@@ -436,7 +436,7 @@ ADupadagaLu sollinalli mukhya pAngu iTTaLadalli (nuclear position) bAruttave; tO
 
 ##### 9.5.2 kelasadalli vyatyAsa
 
-[ಕನ್nnaDa →](../kn/full#sub-9-5-2)
+[ಕನ್ನಡ →](../kn/full#sub-9-5-2)
 
 ADupadagaLa mukhya kElasa: samba nda (Aduge/kELuge/bErA embudu) tiLisuvudu. tOrUpadagaLa mukhya kElasa: tOrkey a (spatial/anaphoric deixis) nIDuvudu.
 
@@ -444,7 +444,7 @@ ADupadagaLa mukhya kElasa: samba nda (Aduge/kELuge/bErA embudu) tiLisuvudu. tOrU
 
 ##### 9.5.3 haravinallli vyatyAsa
 
-[ಕನ್nnaDa →](../kn/full#sub-9-5-3)
+[ಕನ್ನಡ →](../kn/full#sub-9-5-3)
 
 ADupadagaLa haravu bEre pAngugaLannu (oLasollinalli) sErisikOLLuva lacaNe illadhiruva sAdyateyidde; tOrUpadagaLa haravu viceShTa iTTaLadalli koNDiyannu sErisuttave.
 
@@ -452,7 +452,7 @@ ADupadagaLa haravu bEre pAngugaLannu (oLasollinalli) sErisikOLLuva lacaNe illadh
 
 ##### 9.5.4 pattuge oTTugaLondhige baLake
 
-[ಕನ್nnaDa →](../kn/full#sub-9-5-4)
+[ಕನ್ನಡ →](../kn/full#sub-9-5-4)
 
 ADupadagaLu pattuge oTTugaLondhige sErisuva karama tOrUpadagaLinda vyatyAsagaLannu tOruttade — svarOccaraNe, sandhikAraNa mattaitu.
 
@@ -460,7 +460,7 @@ ADupadagaLu pattuge oTTugaLondhige sErisuva karama tOrUpadagaLinda vyatyAsagaLan
 
 ##### 9.5.5 pAngugaLannu gurutisuvudu
 
-[ಕನ್nnaDa →](../kn/full#sub-9-5-5)
+[ಕನ್ನಡ →](../kn/full#sub-9-5-5)
 
 ADupadagaLu pAngugaLannu guruti suvudu kelasa-Adharadinda; tOrUpadagaLu pAngugaLannu guruti suvudu tOrkey a-Adharadinda.
 
@@ -468,7 +468,7 @@ ADupadagaLu pAngugaLannu guruti suvudu kelasa-Adharadinda; tOrUpadagaLu pAngugaL
 
 ##### 9.5.6 mArikeyada huruLu mattu tOrkey a huruLu
 
-[ಕನ್nnaDa →](../kn/full#sub-9-5-6)
+[ಕನ್ನಡ →](../kn/full#sub-9-5-6)
 
 tAnu pada kelavu sandarbhagaLalli mArikeyada huruLannu (reflexive substitution) koDuttade, kelavu sandarbhagaLalli tOrkey a huruLannu koDuttade — I vyatyAsa tiLiyabEku.
 
@@ -476,7 +476,7 @@ tAnu pada kelavu sandarbhagaLalli mArikeyada huruLannu (reflexive substitution) 
 
 ##### 9.5.7 hondANikeyalli vyatyAsa
 
-[ಕನ್nnaDa →](../kn/full#sub-9-5-7)
+[ಕನ್ನಡ →](../kn/full#sub-9-5-7)
 
 ADupadagaLu esaka padada pattuge (agreement) sollidalli toraguvudu; tOrUpadagaLu esaka padakke pattuge koDuvudu bEre lacaNegaLannu tOruttave.
 
@@ -484,7 +484,7 @@ ADupadagaLu esaka padada pattuge (agreement) sollidalli toraguvudu; tOrUpadagaLu
 
 ##### 9.5.8 suLusollinallli baLake
 
-[ಕನ್nnaDa →](../kn/full#sub-9-5-8)
+[ಕನ್ನಡ →](../kn/full#sub-9-5-8)
 
 oLasollinalli (relative clause) ADupadagaLu mattu tOrUpadagaLa baLake viceShTa lacaNegaLannu tOruttave — oLasollinalli ADupadagaLu pAngAgi banda, mUla sollinallli koNDiyAda sandarbha.
 
@@ -492,7 +492,7 @@ oLasollinalli (relative clause) ADupadagaLu mattu tOrUpadagaLa baLake viceShTa l
 
 ##### 9.5.9 immaDigaLa baLake
 
-[ಕನ್nnaDa →](../kn/full#sub-9-5-9)
+[ಕನ್ನಡ →](../kn/full#sub-9-5-9)
 
 ADupadagaLa immaDigaLu (nAnu-nAnu, nInu-nInu) baLakeyalli olleya ADupadagaLa nirmAna kAraNagaLu mattu ArthagaLannu vivarisuttade.
 
@@ -502,7 +502,7 @@ ADupadagaLa immaDigaLu (nAnu-nAnu, nInu-nInu) baLakeyalli olleya ADupadagaLa nir
 
 #### 9.6 tiruLu
 
-[ಕನ್nnaDa →](../kn/full#sec-9-6)
+[ಕನ್ನಡ →](../kn/full#sec-9-6)
 
 nAnu, nInu, tAnu ADupadagaLa mukhya lacaNegaLannu I adhyAyadalli vivarisalAyitu: samba nda nirdEsana (Aduge/kELuge/bErA), koNDiya kaTTale (tAnu), ALtana, halavacanada rUpagaLu mattU tOrUpadagaLinda vyatyAsagaLu. I padagaLu kannaDada sollada rachana tiLiyalu pramukha kaDega koDuttave.
 
@@ -514,7 +514,7 @@ nAnu, nInu, tAnu ADupadagaLa mukhya lacaNegaLannu I adhyAyadalli vivarisalAyitu:
 
 ## adhyAya ೧೦ — tOrUpadagaLu
 
-[↑ oLapiDige hintirugi](#oLapiDi) | [ಕನ್nnaDa →](../kn/full#adhyAya-10)
+[↑ oLapiDige hintirugi](#oLapiDi) | [ಕನ್ನಡ →](../kn/full#adhyAya-10)
 
 i- mattu A- Adharadinda nirmitavAda tOrUpadagaLannu (ivanu, avaLu, idu, adu hAge) I adhyAyadalli vivarisuttade. tiLida tOrUpadagaLu (definite), tiLiyada tOrUpadagaLu (indefinite) — eraDu mukhya bagegaLu. horatOrkey a mattu angutOrkey a (anaphora) sEride tOrkey ada mukhya bageya nirdEsanegaLannu biccisuttade.
 
@@ -522,13 +522,13 @@ i- mattu A- Adharadinda nirmitavAda tOrUpadagaLannu (ivanu, avaLu, idu, adu hAge
 
 #### 10.1 munnOTa
 
-[ಕನ್nnaDa →](../kn/full#sec-10-1)
+[ಕನ್ನಡ →](../kn/full#sec-10-1)
 
 <a id="sub-10-1-1"></a>
 
 ##### 10.1.1 tOrUpadagaLa iTTaLa
 
-[ಕನ್nnaDa →](../kn/full#sub-10-1-1)
+[ಕನ್ನಡ →](../kn/full#sub-10-1-1)
 
 i- (hattira/proximal) mattu A- (dUra/distal) emba eraDu mUla rUpagaLinda tOrUpadagaLu nirmANaAguttave: ivanu, ivanaLu, ivaru; avanu, avaLu, avaru. linga, vacana, vibhakti oTTugaLondhige I rUpagaLu sErisuttave.
 
@@ -536,7 +536,7 @@ i- (hattira/proximal) mattu A- (dUra/distal) emba eraDu mUla rUpagaLinda tOrUpad
 
 ##### 10.1.2 tOrUpadagaLa niruge
 
-[ಕನ್nnaDa →](../kn/full#sub-10-1-2)
+[ಕನ್ನಡ →](../kn/full#sub-10-1-2)
 
 tOrUpadagaLa pUrNa niruge (paradigm): ivanu/avaLu/idu/adu/illi/alli/iga/Aga hAge sthala, kAla, vastu, vyakti bagegaLalli viceShTa rUpagaLannu kaDe maDuttade.
 
@@ -544,7 +544,7 @@ tOrUpadagaLa pUrNa niruge (paradigm): ivanu/avaLu/idu/adu/illi/alli/iga/Aga hAge
 
 ##### 10.1.3 kelavu heccina tOrUpadagaLu
 
-[ಕನ್nnaDa →](../kn/full#sub-10-1-3)
+[ಕನ್ನಡ →](../kn/full#sub-10-1-3)
 
 iSTu/aSTu (quantity), ittana/attana (such-a), ivarU/avarU (all these/those) hAge heccina tOrUpadagaLu I bAgadalli vivarisuttave.
 
@@ -552,7 +552,7 @@ iSTu/aSTu (quantity), ittana/attana (such-a), ivarU/avarU (all these/those) hAge
 
 ##### 10.1.4 tOrkey a bagegaLu
 
-[ಕನ್nnaDa →](../kn/full#sub-10-1-4)
+[ಕನ್ನಡ →](../kn/full#sub-10-1-4)
 
 tOrkey a nAlu mukhya bagegaLu: (1) horatOrkey a (exophoric — jagattannu nEraDAgi sUcisuvudu), (2) angutOrkey a (anaphoric — mEla hELida sOLLannu sUcisuvudu), (3) sollu tOrkey a (discourse anaphoric), (4) tiLiyada tOrkey a (indefinite reference). I bagegaLu tOrUpadagaLa baLakeyalli kANuttave.
 
@@ -560,7 +560,7 @@ tOrkey a nAlu mukhya bagegaLu: (1) horatOrkey a (exophoric — jagattannu nEraDA
 
 ##### 10.1.5 arivina eraDu bagegaLu: baLake mattu nanasu
 
-[ಕನ್nnaDa →](../kn/full#sub-10-1-5)
+[ಕನ್ನಡ →](../kn/full#sub-10-1-5)
 
 tiLida tOrUpadagaLa baLake eraDu bageya arivina Adharadinda: (1) baLake arivu (use/pragmatic knowledge — mAtigAraru iru jagattinallli nODidu tiLiyuttare), (2) nanasu arivu (factual knowledge — mAtigAraru munadE A vastu bagge tiLidukondiddu tiLiyuttare).
 
@@ -570,7 +570,7 @@ tiLida tOrUpadagaLa baLake eraDu bageya arivina Adharadinda: (1) baLake arivu (u
 
 #### 10.2 tOrUpadagaLa haravu
 
-[ಕನ್nnaDa →](../kn/full#sec-10-2)
+[ಕನ್ನಡ →](../kn/full#sec-10-2)
 
 tOrUpadagaLu sollinallli bErE bErE iTTaLagaLalli bararuttave mattu bErE bErE kElasagaLannu naDeyuttave. I bAgadalli avugaLa vyAkaran ATTa haravu (scope) mattu vividha baLakegaLannu vivarisuttade.
 
@@ -578,7 +578,7 @@ tOrUpadagaLu sollinallli bErE bErE iTTaLagaLalli bararuttave mattu bErE bErE kEl
 
 ##### 10.2.1 hesarupadagaLa hAge baLakeyAguva tOrUpadagaLu
 
-[ಕನ್nnaDa →](../kn/full#sub-10-2-1)
+[ಕನ್ನಡ →](../kn/full#sub-10-2-1)
 
 ivanu, avaLu, idu, adu I rUpagaLu sollinallli hesarupadagaLa hAge (as noun phrases) pAngAgi bararuttave. udA: avanu bandanu, idu maneyalla.
 
@@ -586,7 +586,7 @@ ivanu, avaLu, idu, adu I rUpagaLu sollinallli hesarupadagaLa hAge (as noun phras
 
 ##### 10.2.2 esakaparicegaLa hAge baLakeyAguva tOrUpadagaLu
 
-[ಕನ್nnaDa →](../kn/full#sub-10-2-2)
+[ಕನ್ನಡ →](../kn/full#sub-10-2-2)
 
 tOrUpadagaLu esaka parice (verb predicative) Agi bararuttave: avanu ivane, idu adE. I baLakeyalli tOrUpada sollinalli viceShTa iTTaLavannu toraguttade.
 
@@ -594,7 +594,7 @@ tOrUpadagaLu esaka parice (verb predicative) Agi bararuttave: avanu ivane, idu a
 
 ##### 10.2.3 hesaruparicegaLa jAgadalli baLakeyAguva tOrUpadagaLu
 
-[ಕನ್nnaDa →](../kn/full#sub-10-2-3)
+[ಕನ್ನಡ →](../kn/full#sub-10-2-3)
 
 tOrUpadagaLu hesarupadada mEle (as noun modifier/adjective) A hesarupadavannu viSheShisuttave: A huDuganu, I mane. illi tOrUpada parice Agi kelasagaiyuttade.
 
@@ -602,7 +602,7 @@ tOrUpadagaLu hesarupadada mEle (as noun modifier/adjective) A hesarupadavannu vi
 
 ##### 10.2.4 pattuge oTTugaLondhige baLake
 
-[ಕನ್nnaDa →](../kn/full#sub-10-2-4)
+[ಕನ್ನಡ →](../kn/full#sub-10-2-4)
 
 tOrUpadagaLu pattuge oTTugaLondhige sEridAga (avaninda, ivarigu, adannu hAge) viceShTa rUpagaLu tOruttave.
 
@@ -610,7 +610,7 @@ tOrUpadagaLu pattuge oTTugaLondhige sEridAga (avaninda, ivarigu, adannu hAge) vi
 
 ##### 10.2.5 pAngugaLannu gurutisuvudu
 
-[ಕನ್nnaDa →](../kn/full#sub-10-2-5)
+[ಕನ್ನಡ →](../kn/full#sub-10-2-5)
 
 tOrUpadagaLu sollinalli pAngugaLannu tOrkey a Adharadinda guruti suttave — mEla hELida ilvE horage iruva vastu, vyakti ilvE jagattannu sUcisi A pAnga guruti suttave.
 
@@ -618,7 +618,7 @@ tOrUpadagaLu sollinalli pAngugaLannu tOrkey a Adharadinda guruti suttave — mEl
 
 ##### 10.2.6 pAngugaLa pariceyanu tiLisuvudu
 
-[ಕನ್nnaDa →](../kn/full#sub-10-2-6)
+[ಕನ್ನಡ →](../kn/full#sub-10-2-6)
 
 tOrUpadagaLu pAngugaLa bage (quality/category) tiLisuvudu: avanu oddavanu, idu doDDadu. I baLakeyalli tOrUpada sollinalli viceShTa pAngu nirdEsuttade mattu A pAnga bage tiLisuttade.
 
@@ -626,7 +626,7 @@ tOrUpadagaLu pAngugaLa bage (quality/category) tiLisuvudu: avanu oddavanu, idu d
 
 ##### 10.2.7 pAngugaLa aLaviyannu tiLisuvudu
 
-[ಕನ್nnaDa →](../kn/full#sub-10-2-7)
+[ಕನ್ನಡ →](../kn/full#sub-10-2-7)
 
 iSTu/aSTu rUpagaLu pAngugaLa aLavi (quantity/extent) tiLisuttave: I kaLasa iSTu nIru, A haNNu aSTu sAkAguttade.
 
@@ -634,7 +634,7 @@ iSTu/aSTu rUpagaLu pAngugaLa aLavi (quantity/extent) tiLisuttave: I kaLasa iSTu 
 
 ##### 10.2.8 pAngugaLannu neLegoLisuvudu
 
-[ಕನ್nnaDa →](../kn/full#sub-10-2-8)
+[ಕನ್ನಡ →](../kn/full#sub-10-2-8)
 
 tOrUpadagaLu pAngugaLannu sollinalli neLe (position/anchoring) goLisuttave — A pAngu kELugarige tiLida enbA neLe sThApana mADuttave.
 
@@ -642,7 +642,7 @@ tOrUpadagaLu pAngugaLannu sollinalli neLe (position/anchoring) goLisuttave — A
 
 ##### 10.2.9 nEravallada holabina baLake
 
-[ಕನ್nnaDa →](../kn/full#sub-10-2-9)
+[ಕನ್ನಡ →](../kn/full#sub-10-2-9)
 
 tOrUpadagaLu pAngugaLannu nEraDAgi nirdEsisade (indirect reference) baLasuvudu kelavu sandarbhagaLalli kANuttade.
 
@@ -650,7 +650,7 @@ tOrUpadagaLu pAngugaLannu nEraDAgi nirdEsisade (indirect reference) baLasuvudu k
 
 ##### 10.2.10 U, O, mattu E oTTugaLondhige baLake
 
-[ಕನ್nnaDa →](../kn/full#sub-10-2-10)
+[ಕನ್ನಡ →](../kn/full#sub-10-2-10)
 
 tOrUpadagaLu ippaTTige (U = 'even'), pOlisike (O = 'like/as'), ilvE viceShTa (E = 'only/indeed') oTTugaLondhige sEridAga arthapUrNa viceShTa lacaNegaLannu tOruttave.
 
@@ -658,7 +658,7 @@ tOrUpadagaLu ippaTTige (U = 'even'), pOlisike (O = 'like/as'), ilvE viceShTa (E 
 
 ##### 10.2.11 tOrUpadagaLa baLakeyalli hondANikegaLu
 
-[ಕನ್nnaDa →](../kn/full#sub-10-2-11)
+[ಕನ್ನಡ →](../kn/full#sub-10-2-11)
 
 tOrUpadagaLu sollinallli linga, vacana hondANikeyalli (agreement) viceShTa lacaNegaLannu tOruttave — eraDu tOrUpadagaLu ondu koNDiyondhige sEridAga A hondANike karaNa.
 
@@ -666,7 +666,7 @@ tOrUpadagaLu sollinallli linga, vacana hondANikeyalli (agreement) viceShTa lacaN
 
 ##### 10.2.12 gurutu mADisuvalli baLake
 
-[ಕನ್nnaDa →](../kn/full#sub-10-2-12)
+[ಕನ್ನಡ →](../kn/full#sub-10-2-12)
 
 tOrUpadagaLu 'I vastu adu alla' hAge, gurutu mADuvudu (identification/pointing out) mArisuvudu kelasagaLalli viceShTa baLakeyalli kANuttave.
 
@@ -676,7 +676,7 @@ tOrUpadagaLu 'I vastu adu alla' hAge, gurutu mADuvudu (identification/pointing o
 
 #### 10.3 tiLida tOrUpadagaLa baLake: horatOrkey a
 
-[ಕನ್nnaDa →](../kn/full#sec-10-3)
+[ಕನ್ನಡ →](../kn/full#sec-10-3)
 
 tiLida tOrUpadagaLu mAtigArare mEle iruva vastu/vyaktiyanu nEraDAgi sUcisuvudu (exophoric) mattU munadE hELida sollinallli bandu vastu/vyaktiyanu sUcisuvudu (anaphoric) — eraDu mukhya bagegaLalli baLakeyAguttave.
 
@@ -684,7 +684,7 @@ tiLida tOrUpadagaLu mAtigArare mEle iruva vastu/vyaktiyanu nEraDAgi sUcisuvudu (
 
 ##### 10.3.1 horatOrkey a baLake
 
-[ಕನ್nnaDa →](../kn/full#sub-10-3-1)
+[ಕನ್ನಡ →](../kn/full#sub-10-3-1)
 
 horatOrkey a (exophoric/deictic reference): saMbhAShaNaveliya parisar adalli iruva vastu/vyaktiyanu sUcisuvudu. i- rUpa hattirada (proximal), A- rUpa dUrada (distal) vastu/vyaktiyanu sUcisuttade. I hattira-dUra vyatyAsa saMbhAShaNaveliya parisar adalli kANuttade.
 
@@ -692,7 +692,7 @@ horatOrkey a (exophoric/deictic reference): saMbhAShaNaveliya parisar adalli iru
 
 ##### 10.3.2 eraDu bageyada tiLida tOrUpadagaLu
 
-[ಕನ್nnaDa →](../kn/full#sub-10-3-2)
+[ಕನ್ನಡ →](../kn/full#sub-10-3-2)
 
 tiLida tOrUpadagaLu eraDu bageya tiLivina Adharadinda baLakeyAguttave: (1) baLake tiLivu (pragmatic/use-based — saMbhAShaNaveliya jagattinallli iruva vastu bagge), (2) nanasu tiLivu (epistemic — A vastu bagge mAtigAranu munadE tiLidukondiruvudu).
 
@@ -700,7 +700,7 @@ tiLida tOrUpadagaLu eraDu bageya tiLivina Adharadinda baLakeyAguttave: (1) baLak
 
 ##### 10.3.3 hottina hattira mattu dUra
 
-[ಕನ್nnaDa →](../kn/full#sub-10-3-3)
+[ಕನ್ನಡ →](../kn/full#sub-10-3-3)
 
 spatial (jAgada) hattira-dUra vyatyAsa allada kAladalli (temporal) hattira-dUra vyatyAsavU tOrUpadagaLalli kANuttade: i-rUpa hattiraTTa hOdadannu (recent past, near future), A-rUpa dUravAda kAladannu sUcisuttade.
 
@@ -708,7 +708,7 @@ spatial (jAgada) hattira-dUra vyatyAsa allada kAladalli (temporal) hattira-dUra 
 
 ##### 10.3.4 hattira-dUra vyatyAsa bEkilladata baLake
 
-[ಕನ್nnaDa →](../kn/full#sub-10-3-4)
+[ಕನ್ನಡ →](../kn/full#sub-10-3-4)
 
 kelavu sandarbhagaLalli A- rUpagaLu hattira-dUra vyatyAsa mADade (neutralized) tiLida tOrky a nIDuvudu — A mukhyavAgi angutOrkey a baLakeyalli kANuttade.
 
@@ -718,7 +718,7 @@ kelavu sandarbhagaLalli A- rUpagaLu hattira-dUra vyatyAsa mADade (neutralized) t
 
 #### 10.4 tiLida tOrUpadagaLa baLake: angutOrkey a
 
-[ಕನ್nnaDa →](../kn/full#sec-10-4)
+[ಕನ್ನಡ →](../kn/full#sec-10-4)
 
 angutOrkey a (anaphoric reference) — munadE hELida solla ilvE munadE paricar adalli kanda vastu/vyaktiyanu I tOrUpadagaLu sUcisuvudu. A- rUpa mukhyavAgi angutOrkey ayannu nIDuttade; i- rUpa hattira kAladalli bandu vastu/vyaktiyanu sUcisuttade.
 
@@ -726,7 +726,7 @@ angutOrkey a (anaphoric reference) — munadE hELida solla ilvE munadE paricar a
 
 ##### 10.4.1 pAngutOrkey a baLake
 
-[ಕನ್nnaDa →](../kn/full#sub-10-4-1)
+[ಕನ್ನಡ →](../kn/full#sub-10-4-1)
 
 pAngutOrkey a (argument anaphora): munadE hELida sollinallli bandu oru pAngu A vastu ilvE vyaktiyanu avanu/avaLu/adu hAge tOrUpadagaLinda anta nirdEsuvudu.
 
@@ -734,7 +734,7 @@ pAngutOrkey a (argument anaphora): munadE hELida sollinallli bandu oru pAngu A v
 
 ##### 10.4.2 yAva padavannu baLasadiruvudu
 
-[ಕನ್nnaDa →](../kn/full#sub-10-4-2)
+[ಕನ್ನಡ →](../kn/full#sub-10-4-2)
 
 angutOrkey a baLakeyalli tOrUpada baLasadE (zero anaphora) baDuvudu kannaDadalli sahaja. pAngAnnu tOrUpada mUrte mADadiddarU saMdarbhAnusAra A pAngu tiLiyuttade.
 
@@ -742,7 +742,7 @@ angutOrkey a baLakeyalli tOrUpada baLasadE (zero anaphora) baDuvudu kannaDadalli
 
 ##### 10.4.3 dUrada tOrUpadagaLa baLake
 
-[ಕನ್nnaDa →](../kn/full#sub-10-4-3)
+[ಕನ್ನಡ →](../kn/full#sub-10-4-3)
 
 A- rUpagaLu munadE hELida sollinallli bandu pAngannu (distal — already established in discourse) sUcisuttave. avanu, avaLu, adu hAge rUpagaLu mukhyavAgi I kElasannu naDeyuttave.
 
@@ -750,7 +750,7 @@ A- rUpagaLu munadE hELida sollinallli bandu pAngannu (distal — already establi
 
 ##### 10.4.4 dUrada tOrUpada mattu adara hinnuDita
 
-[ಕನ್nnaDa →](../kn/full#sub-10-4-4)
+[ಕನ್ನಡ →](../kn/full#sub-10-4-4)
 
 dUrada tOrUpada (A-rUpa) mEle mElu baruva solla (cataphora / discourse retake) kelavu sandarbhagaLalli kANuttade — adu/avanu munadE hELi, nantar A koNDiyannu vivarisu vatte bandu.
 
@@ -758,7 +758,7 @@ dUrada tOrUpada (A-rUpa) mEle mElu baruva solla (cataphora / discourse retake) k
 
 ##### 10.4.5 hattirada tOrUpadagaLa baLake
 
-[ಕನ್nnaDa →](../kn/full#sub-10-4-5)
+[ಕನ್ನಡ →](../kn/full#sub-10-4-5)
 
 i- rUpagaLu (ivanu, idu, illi) angutOrkey adalli baLakeyAguvudu: hELuvavaru hattiraTTagE (recently) paricita mADisida ilvE tiLisida pAnga sUcisuttave.
 
@@ -766,7 +766,7 @@ i- rUpagaLu (ivanu, idu, illi) angutOrkey adalli baLakeyAguvudu: hELuvavaru hatt
 
 ##### 10.3.6 sollutOrkey a baLake
 
-[ಕನ್nnaDa →](../kn/full#sub-10-3-6)
+[ಕನ್ನಡ →](../kn/full#sub-10-3-6)
 
 sollutOrkey a (discourse anaphora): munadE hELida oru pUrNa sollannu adu/idu rUpagaLinda sUcisuvudu. udA: avanu bandanu — idu sata. illi 'idu' munadE hELida A solla-samAcAravannu sUcisuttade.
 
@@ -774,7 +774,7 @@ sollutOrkey a (discourse anaphora): munadE hELida oru pUrNa sollannu adu/idu rUp
 
 ##### 10.4.10 pAngutOrkey a mattu sollutOrkey a
 
-[ಕನ್nnaDa →](../kn/full#sub-10-4-10)
+[ಕನ್ನಡ →](../kn/full#sub-10-4-10)
 
 pAngutOrkey a (one participant from the previous clause) mattu sollutOrkey a (the entire previous proposition) — eraDarU A-rUpagaLannu baLasuttave; Adare arthada vyatyAsagaLu kANuttave.
 
@@ -784,7 +784,7 @@ pAngutOrkey a (one participant from the previous clause) mattu sollutOrkey a (th
 
 #### 10.5 tiLiyada tOrUpadagaLu
 
-[ಕನ್nnaDa →](../kn/full#sec-10-5)
+[ಕನ್ನಡ →](../kn/full#sec-10-5)
 
 tiLiyada tOrUpadagaLu (indefinite demonstratives): yAru, yAva, Edu, Ellige, Entu hAge padagaLu. I padagaLu tOrkey ayannu koDuvudu alla — hELuvavanu A vastu/vyakti bagge tiLiyadu enbA sUcane nIDuttade.
 
@@ -792,7 +792,7 @@ tiLiyada tOrUpadagaLu (indefinite demonstratives): yAru, yAva, Edu, Ellige, Entu
 
 ##### 10.5.1 kUDikeyada ilvE Aykey a oTTinondige baLasuvudu
 
-[ಕನ್nnaDa →](../kn/full#sub-10-5-1)
+[ಕನ್ನಡ →](../kn/full#sub-10-5-1)
 
 yAru, yAva, Edu hAge tiLiyada tOrUpadagaLu kUDike oTTinondige (ilvE = 'or'; U = 'also') ilvE Aykey a (one of several) oTTinondige sEridAga bEre bageya arthannu koDuttave — yArU, yAvudU (any/all), yArO, yAvudO (some unknown one).
 
@@ -800,7 +800,7 @@ yAru, yAva, Edu hAge tiLiyada tOrUpadagaLu kUDike oTTinondige (ilvE = 'or'; U = 
 
 ##### 10.5.2 tiLiyadikeyada aydu bagegaLu
 
-[ಕನ್nnaDa →](../kn/full#sub-10-5-2)
+[ಕನ್ನಡ →](../kn/full#sub-10-5-2)
 
 tiLiyadike aydu mukhya bagegaLu: (1) yAravO (some unknown person), (2) kELviyAgi (interrogative), (3) heccina tiLivu illada (general indefinite), (4) AykeyadAgi (free choice any), (5) tiLiyadE (speaker explicitly ignorant).
 
@@ -808,7 +808,7 @@ tiLiyadike aydu mukhya bagegaLu: (1) yAravO (some unknown person), (2) kELviyAgi
 
 ##### 10.5.3 pattugeya oLasollugaLalli baLake
 
-[ಕನ್nnaDa →](../kn/full#sub-10-5-3)
+[ಕನ್ನಡ →](../kn/full#sub-10-5-3)
 
 tiLiyada tOrUpadagaLu pattugeyada oLasollugaLalli (relative clauses) viceShTa lacaNagaLannu tOruttave — yAru bandanO, yAva maneyallO hAge.
 
@@ -818,7 +818,7 @@ tiLiyada tOrUpadagaLu pattugeyada oLasollugaLalli (relative clauses) viceShTa la
 
 #### 10.6 tiLiyada tOrUpadagaLa baLake
 
-[ಕನ್nnaDa →](../kn/full#sec-10-6)
+[ಕನ್ನಡ →](../kn/full#sec-10-6)
 
 tiLiyada tOrUpadagaLu hELuvavanu vastu/vyakti bagge tiLiyadu enbA sUcane nIDuvalli, kELvigaLalli, bEregaLa (exclamatory) sollugaLalli mattU oLasollugaLalli viceShTa lacaNagaLannu tOruttave.
 
@@ -826,7 +826,7 @@ tiLiyada tOrUpadagaLu hELuvavanu vastu/vyakti bagge tiLiyadu enbA sUcane nIDuval
 
 ##### 10.6.1 ADugana ariyameyanu tiLisuvalli baLake
 
-[ಕನ್nnaDa →](../kn/full#sub-10-6-1)
+[ಕನ್ನಡ →](../kn/full#sub-10-6-1)
 
 yArO, yAvudO, EkO hAge rUpagaLu ADuganu A vastu/vyakti bagge tiLiyadu embudu tiLisuttave. udA: yArO bandaru (someone came, I don't know who).
 
@@ -834,7 +834,7 @@ yArO, yAvudO, EkO hAge rUpagaLu ADuganu A vastu/vyakti bagge tiLiyadu embudu tiL
 
 ##### 10.6.2 ADugana ariyameyanu tiLisuvalli kaTTupADugaLu
 
-[ಕನ್nnaDa →](../kn/full#sub-10-6-2)
+[ಕನ್ನಡ →](../kn/full#sub-10-6-2)
 
 tiLiyadu enbA baLakeyalli kaTTupADugaLu: hELuvavanu A vastu bagge tiLiyadadare mAtrana baLasabahudAdu — kELugarige tiLidiruvudu bErE vishaya. udA: *tiLidavaru yArO bandaru — illi yArO sari alla.
 
@@ -842,7 +842,7 @@ tiLiyadu enbA baLakeyalli kaTTupADugaLu: hELuvavanu A vastu bagge tiLiyadadare m
 
 ##### 10.6.3 kELvigaLalli baLake
 
-[ಕನ್nnaDa →](../kn/full#sub-10-6-3)
+[ಕನ್ನಡ →](../kn/full#sub-10-6-3)
 
 yAru, Edu, Entu, Enu hAge kELvi padagaLu (interrogatives) tiLiyada tOrUpadagaLinda nirmitavAgive. avugaLu kELugarinda uttara hELisuttave.
 
@@ -850,7 +850,7 @@ yAru, Edu, Entu, Enu hAge kELvi padagaLu (interrogatives) tiLiyada tOrUpadagaLin
 
 ##### 1.6.4 beragannu tiLisuva sollugaLalli baLake
 
-[ಕನ್nnaDa →](../kn/full#sub-1-6-4)
+[ಕನ್ನಡ →](../kn/full#sub-1-6-4)
 
 kELvi rUpagaLu EnO, yArO hAge bEraga (exclamatory) sollugaLalli baLakeyAguttave — arthadalli kELvi alla, bEraga/vismaya.
 
@@ -858,7 +858,7 @@ kELvi rUpagaLu EnO, yArO hAge bEraga (exclamatory) sollugaLalli baLakeyAguttave 
 
 ##### 10.6.5 pattugeya oLasollugaLalli baLake
 
-[ಕನ್nnaDa →](../kn/full#sub-10-6-5)
+[ಕನ್ನಡ →](../kn/full#sub-10-6-5)
 
 kELvi tOrUpadagaLu pattuge (relative clause) joDisuva kArya mADuttave: yAru bandanO avanu bandanu. I 'free relative' rUpagaLu kannaDadalli mahattvavannu tOruttave.
 
@@ -866,7 +866,7 @@ kELvi tOrUpadagaLu pattuge (relative clause) joDisuva kArya mADuttave: yAru band
 
 ##### 1.6.6 bEre bageyada oLasollugaLalli baLake
 
-[ಕನ್nnaDa →](../kn/full#sub-1-6-6)
+[ಕನ್ನಡ →](../kn/full#sub-1-6-6)
 
 tiLiyada tOrUpadagaLu EnO, yAvudO, Elligeyō hAge rUpagaLu endu/ante oLasollugaLalli baLakeyAguttave. udA: avanu yAru embudu tiLiyadu — illi 'yAru' kELvi anbadEla, tiLiyadike emba arthadalli bAruttade.
 
@@ -876,7 +876,7 @@ tiLiyada tOrUpadagaLu EnO, yAvudO, Elligeyō hAge rUpagaLu endu/ante oLasollugaL
 
 #### 10.7 tiruLu
 
-[ಕನ್nnaDa →](../kn/full#sec-10-7)
+[ಕನ್ನಡ →](../kn/full#sec-10-7)
 
 tOrUpadagaLa mukhya lacaNegaLannu I adhyAyadalli vivarisalAyitu: i-/A- mUlada rUpagaLu, tiLida tOrUpadagaLu (horatOrkey a + angutOrkey a), tiLiyada tOrUpadagaLu (kELvi + tiLiyadike), sollutOrkey a mattu pAngutOrkey a. I padagaLu kannaDada hALikeyada (deixis) mattu angutOrkey ada (anaphora) tOrukeyada mUla kaDegaLu.
 

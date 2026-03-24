@@ -110,13 +110,13 @@ redirect_from:
 
 ## adhyAya ೭ — esakapadada pAngugaLu
 
-[↑ oLapiDige](#oLapiDi) | [ಕನ್nnaDa →](../kn/full#adhyAya-7)
+[↑ oLapiDige](#oLapiDi) | [ಕನ್ನಡ →](../kn/full#adhyAya-7)
 
 <a id="sec-7-1"></a>
 
 #### 7.1 munnOTa
 
-[ಕನ್nnaDa →](../kn/full#sec-7-1)
+[ಕನ್ನಡ →](../kn/full#sec-7-1)
 
 iruhagaLannu tiLisuva mattu esakagaLannu tiLisuva enbudAgi tiLisuva sollugaLannu mukyavAgi eraDu gumpugaLalli sErisi hELalu baruttade enbudannu nAvu modaLaneya pasugeyalli (1.5.1ralli) nODiruvevu. ivugaLalli iruhagaLannu tiLisuva sollugaLa koneyalli sAmAnyavAgi iru enba ondE oru iruhapada baruttade; intaha kelavu bageya sollugaLalli A padavannu baLasadiruvUdu ide.
 
@@ -124,7 +124,7 @@ iruhagaLannu tiLisuva mattu esakagaLannu tiLisuva enbudAgi tiLisuva sollugaLannu
 
 ##### 7.1.1 iruhagaLu mattu esakagaLu
 
-[ಕನ್nnaDa →](../kn/full#sub-7-1-1)
+[ಕನ್ನಡ →](../kn/full#sub-7-1-1)
 
 iruhagaLannu tiLisalu kannaDadalli iru enba oru pada mAtra baLakeyallide; hAgAgi, adannu tiruLupadavAgi baLasi uNTumADaballa sollugaLalli hecca bagegaLilla. iruvikeyanu tiLisuva, pariceyanu tiLisuva, mattu pattugeyannu tiLisuva enba mUru muky bagegaLannu mAtra avugaLalli kANabahuda.
 
@@ -132,7 +132,7 @@ iruhagaLannu tiLisalu kannaDadalli iru enba oru pada mAtra baLakeyallide; hAgAgi
 
 ##### 7.1.2 pAngugaLa bagegaLu
 
-[ಕನ್nnaDa →](../kn/full#sub-7-1-2)
+[ಕನ್ನಡ →](../kn/full#sub-7-1-2)
 
 esakapadagaLondigeya enTaha pAngugaLu mattu eSaTu pAngugaLu baraballa enbudu mukyavAgi A esakapadagaLa huruLannu avalambisiruttade. iTTaLada pAngugaLu (mADuga, IDu, guri, suru, jAga) mattu nerevu pAngugaLu (hottu, imbu, muTTu, kaTA) enba eraDu muky bagegaLida.
 
@@ -140,7 +140,7 @@ esakapadagaLondigeya enTaha pAngugaLu mattu eSaTu pAngugaLu baraballa enbudu muk
 
 ##### 7.1.3 Aykeya kaTTu
 
-[ಕನ್nnaDa →](../kn/full#sub-7-1-3)
+[ಕನ್ನಡ →](../kn/full#sub-7-1-3)
 
 oru esakapadavannu oru sollu tiLisubEkAdalli, adara pAngITTaLadalli taDayana pAngugaLannu berayabEkAgi baruttade. yAvayu pAngugaLu bArabe enbudu Aykeya kaTTininda (selectional restriction) nirdharisalAguttade.
 
@@ -148,7 +148,7 @@ oru esakapadavannu oru sollu tiLisubEkAdalli, adara pAngITTaLadalli taDayana pAn
 
 ##### 7.1.4 hesarupadagaLa pAngugaLu
 
-[ಕನ್nnaDa →](../kn/full#sub-7-1-4)
+[ಕನ್ನಡ →](../kn/full#sub-7-1-4)
 
 hesarupadagaLu pAngugaLAgi baruva mUru bagegaLu: (1) oTTisida hesarupadagaLu, (2) esakapadagaLa hesaruRUpagaLu, (3) bEre bageya hesarupadagaLu.
 
@@ -158,7 +158,7 @@ hesarupadagaLu pAngugaLAgi baruva mUru bagegaLu: (1) oTTisida hesarupadagaLu, (2
 
 #### 7.2 iruhapadada pAngITTaLagaLu
 
-[ಕನ್nnaDa →](../kn/full#sec-7-2)
+[ಕನ್ನಡ →](../kn/full#sec-7-2)
 
 iru pada oru esakapadavalla; iru pada solladalli esakavannu tiLisuvudilla, iruhavanu tiLisuttade. hAgAgi adara pAngITTaLa esakapadagaLa pAngITTaLadinada bErAgide.
 
@@ -166,7 +166,7 @@ iru pada oru esakapadavalla; iru pada solladalli esakavannu tiLisuvudilla, iruha
 
 ##### 7.2.1 iruhavanu tiLisuva sollugaLu
 
-[ಕನ್nnaDa →](../kn/full#sub-7-2-1)
+[ಕನ್ನಡ →](../kn/full#sub-7-2-1)
 
 iru padavannu tiruLupadavAgi baLasida sollugaLalli: iruvikeyada iTTaLa, pariceyada iTTaLa, mattu pattugeyada iTTaLa enba mUru bagegaLu kANuttave.
 
@@ -174,7 +174,7 @@ iru padavannu tiruLupadavAgi baLasida sollugaLalli: iruvikeyada iTTaLa, pariceya
 
 ##### 7.2.2 iru padada pAngITTaLagaLu
 
-[ಕನ್nnaDa →](../kn/full#sub-7-2-2)
+[ಕನ್ನಡ →](../kn/full#sub-7-2-2)
 
 iru padavannu baLasida sollugaLalli obbaru iru pAnga iTTaLadalli Aguga pAngAgi baruttAre; nerevu pAngugaLU baruttave.
 
@@ -182,7 +182,7 @@ iru padavannu baLasida sollugaLalli obbaru iru pAnga iTTaLadalli Aguga pAngAgi b
 
 ##### 7.2.3 iruvikeyada iTTaLa
 
-[ಕನ್nnaDa →](../kn/full#sub-7-2-3)
+[ಕನ್ನಡ →](../kn/full#sub-7-2-3)
 
 iruvikeyada iTTaLadalli jAga pAng baruttade (SAmara_rAyaru maneyalliddAre). nereva pAngugaLU sAhiti bandu baLakeyAguva nidaSana kANutteve.
 
@@ -190,7 +190,7 @@ iruvikeyada iTTaLadalli jAga pAng baruttade (SAmara_rAyaru maneyalliddAre). nere
 
 ##### 7.2.4 parice iTTaLa
 
-[ಕನ್nnaDa →](../kn/full#sub-7-2-4)
+[ಕನ್ನಡ →](../kn/full#sub-7-2-4)
 
 parice iTTaLadalli Aguga pAng baruttade, mattu adara pariceyanu tiLisuva paricepadavU baruttade (Ake tuTi kempagide). Agu pada baLakeyAguva nidaSanagaLU kANutteve.
 
@@ -198,7 +198,7 @@ parice iTTaLadalli Aguga pAng baruttade, mattu adara pariceyanu tiLisuva paricep
 
 ##### 7.2.5 pattuge iTTaLa
 
-[ಕನ್nnaDa →](../kn/full#sub-7-2-5)
+[ಕನ್ನಡ →](../kn/full#sub-7-2-5)
 
 pattuge iTTaLadalli Aguga, pattugeya SikkaLa rUpagaLu (nisida, bande, kUDide etc.) baruttave: A mudukanige nUru muDi gadde ide.
 
@@ -206,7 +206,7 @@ pattuge iTTaLadalli Aguga, pattugeya SikkaLa rUpagaLu (nisida, bande, kUDide etc
 
 ##### 7.2.6 iruhada hottu
 
-[ಕನ್nnaDa →](../kn/full#sub-7-2-6)
+[ಕನ್ನಡ →](../kn/full#sub-7-2-6)
 
 iru padada kaLe-bAL-nODu-iTTaLagaLa naDuvina vyatyAsagaLannu vivarisuttade. iruhada hAlahabbadannu tiLisuva nerevu pAngugaLU baruttave.
 
@@ -214,7 +214,7 @@ iru padada kaLe-bAL-nODu-iTTaLagaLa naDuvina vyatyAsagaLannu vivarisuttade. iruh
 
 ##### 7.2.7 iruha mattu esaka
 
-[ಕನ್nnaDa →](../kn/full#sub-7-2-7)
+[ಕನ್ನಡ →](../kn/full#sub-7-2-7)
 
 kelavu sollugaLalli iru pada esakapadada huruLalli baLakeyAguttade. iru padada pAngITTaLagaLu esakapadagaLa pAngITTaLagaLininda hEgE bErAgive enbudu vivarisalAgide.
 
@@ -222,7 +222,7 @@ kelavu sollugaLalli iru pada esakapadada huruLalli baLakeyAguttade. iru padada p
 
 ##### 7.2.8 iruhada huruLinallli esakapadagaLa baLake
 
-[ಕನ್nnaDa →](../kn/full#sub-7-2-8)
+[ಕನ್ನಡ →](../kn/full#sub-7-2-8)
 
 iru padada bAdalu bEre esakapadagaLannu iruhada huruLalli baLasalAguva nidaSanagaLu: kUri pada (kUri iru → ide), kANu pada (kANu → kANuttade), nila pada (nilluttade) etc.
 
@@ -232,7 +232,7 @@ iru padada bAdalu bEre esakapadagaLannu iruhada huruLalli baLasalAguva nidaSanag
 
 #### 7.3 esakapadagaLa pAngITTaLagaLu
 
-[ಕನ್nnaDa →](../kn/full#sec-7-3)
+[ಕನ್ನಡ →](../kn/full#sec-7-3)
 
 esakapadagaLannu eraDu muky bagegaLalli gumpilAyitu: mADuha padagaLu (oDu, ODu, uNNu — mADugakke hAtOTi iru) mattu Aguha padagaLu (oDe, bILu, ciguRu — yAvuda pAngigU hAtOTi illa). I eraDu bageyU bEre bEre pAngITTaLagaLannu hondiruttave.
 
@@ -248,7 +248,7 @@ Aguha padagaLu mukyavAgi Aguga pAngannu mAtrame hondiruttave. maDeya oDeyitu (Ag
 
 ##### 7.3.4 nanasina huruLu mattu nenasina huruLu
 
-[ಕನ್nnaDa →](../kn/full#sub-7-3-4)
+[ಕನ್ನಡ →](../kn/full#sub-7-3-4)
 
 esakapadagaLa nanasa (real-world) huruLu mattu nenasa (abstract/hypothetical) huruLu naDuvina vyatyAsavannu vivarisuttade. I vyatyAsa pAngITTaLada aNattannu tiLisuttade.
 
@@ -258,7 +258,7 @@ esakapadagaLa nanasa (real-world) huruLu mattu nenasa (abstract/hypothetical) hu
 
 #### 7.4 iTTaLada pAngugaLa bagegaLu
 
-[ಕನ್nnaDa →](../kn/full#sec-7-4)
+[ಕನ್ನಡ →](../kn/full#sec-7-4)
 
 iTTaLada pAngugaLannu Aguga, mADuga, IDu, guri, suru, jAga enba UpAdi bagegaLalli gumpilAyitu. I bagegaLa naDuvina vyatyAsagaLu mattu hOlikegaLannu vivarisuttade.
 
@@ -266,7 +266,7 @@ iTTaLada pAngugaLannu Aguga, mADuga, IDu, guri, suru, jAga enba UpAdi bagegaLall
 
 ##### 7.4.2 Aguga, mADuga mattu IDu
 
-[ಕನ್nnaDa →](../kn/full#sub-7-4-2)
+[ಕನ್ನಡ →](../kn/full#sub-7-4-2)
 
 Aguga = pAtient/theme (esakadalli hAtOTiillada pAngu); mADuga = doer (hAtOTiyiruva pAngu); IDu = recipient/beneficiary. avanu maguvinige oru haNNu koTTa (mADuga + IDu + guri).
 
@@ -274,7 +274,7 @@ Aguga = pAtient/theme (esakadalli hAtOTiillada pAngu); mADuga = doer (hAtOTiyiru
 
 ##### 7.4.3 Aguga mattu mADuga pAngugaLu
 
-[ಕನ್nnaDa →](../kn/full#sub-7-4-3)
+[ಕನ್ನಡ →](../kn/full#sub-7-4-3)
 
 Aguga mattu mADuga pAngugaLu sollinallli hEgE guruti sikkaduve enbudu, mattu avugaLa naDuvina vyatyAsagaLannu (karataka vs. akarataka) vivarisuttade.
 
@@ -282,7 +282,7 @@ Aguga mattu mADuga pAngugaLu sollinallli hEgE guruti sikkaduve enbudu, mattu avu
 
 ##### 7.4.5 guri, suru mattu jAga pAngugaLu
 
-[ಕನ್nnaDa →](../kn/full#sub-7-4-5)
+[ಕನ್ನಡ →](../kn/full#sub-7-4-5)
 
 guri = goal/destination; suru = source/origin; jAga = location. avanu bengaLURige hOda (guri). avanu bengaLURininda banda (suru). avanu maneyalli kUta (jAga).
 
@@ -292,7 +292,7 @@ guri = goal/destination; suru = source/origin; jAga = location. avanu bengaLURig
 
 #### 7.5 nerevu pAngugaLu: hottu mattu imbu
 
-[ಕನ್nnaDa →](../kn/full#sec-7-5)
+[ಕನ್ನಡ →](../kn/full#sec-7-5)
 
 nerevu pAngugaLu solladalli muky pAngugaLalla (mADuga, IDu etc.) — avugaLu esakada hottu, imbu, muTTu, kaTa, aLabu moDaladavugaLannu tiLisuttave. I pasugeyalli hottu mattu imbu pAngugaLannu vistaravAgi nODalAyitu.
 
@@ -300,7 +300,7 @@ nerevu pAngugaLu solladalli muky pAngugaLalla (mADuga, IDu etc.) — avugaLu esa
 
 ##### 7.5.1 hottina tiLivu
 
-[ಕನ್nnaDa →](../kn/full#sub-7-5-1)
+[ಕನ್ನಡ →](../kn/full#sub-7-5-1)
 
 hottu nerevu pAngugaLu esakada kALa-sambandha-sthiti tiLisuttave: padagaLa hondike, neleya haravu, hottina aLate, hottina gaDuvinige jAga pAngu, hottina nelegE guri pAngu etc. (8 bagegaLu).
 
@@ -308,7 +308,7 @@ hottu nerevu pAngugaLu esakada kALa-sambandha-sthiti tiLisuttave: padagaLa hondi
 
 ##### 7.5.2 imbina tiLivu
 
-[ಕನ್nnaDa →](../kn/full#sub-7-5-2)
+[ಕನ್ನಡ →](../kn/full#sub-7-5-2)
 
 imbu nerevu pAngugaLu esakada jAga sambandha tiLisuttave: padagaLa hondike, saribadiya padagaLu, imbinallli mArpADu, hecca padakantegaLa baLake, imbina aLate (10 bagegaLu).
 
@@ -316,7 +316,7 @@ imbu nerevu pAngugaLu esakada jAga sambandha tiLisuttave: padagaLa hondike, sari
 
 ##### 7.5.3 hottu mattu imbu
 
-[ಕನ್nnaDa →](../kn/full#sub-7-5-3)
+[ಕನ್ನಡ →](../kn/full#sub-7-5-3)
 
 sollinalli hottu mattu imbu pAngugaLu ondigE bAra balla nidaSanagaLu mattu avugaLa naDuvina sambandhavannu vivarisuttade.
 
@@ -326,7 +326,7 @@ sollinalli hottu mattu imbu pAngugaLu ondigE bAra balla nidaSanagaLu mattu avuga
 
 #### 7.6 bEre nerevu pAngugaLu
 
-[ಕನ್nnaDa →](../kn/full#sec-7-6)
+[ಕನ್ನಡ →](../kn/full#sec-7-6)
 
 hottu mattu imbinallAde bEre nerevu pAngugaLu: muTTu (instrument), kaTA (cause), aLabu (purpose), oDanADi (comitative), hOluga (comparison), mattu hAtOTi tappida mADuga (uncontrolled agent).
 
@@ -334,7 +334,7 @@ hottu mattu imbinallAde bEre nerevu pAngugaLu: muTTu (instrument), kaTA (cause),
 
 ##### 7.6.1 esakada muTTu
 
-[ಕನ್nnaDa →](../kn/full#sub-7-6-1)
+[ಕನ್ನಡ →](../kn/full#sub-7-6-1)
 
 muTTu pAngu (instrument): avanu kattiyinda AdanU koccida. katti = muTTu pAngu; indu onta baLakeyAguva padagaLu (kattiyinda, kelasadininda etc.).
 
@@ -342,7 +342,7 @@ muTTu pAngu (instrument): avanu kattiyinda AdanU koccida. katti = muTTu pAngu; i
 
 ##### 7.6.6 hAtOTi tappida mADuga
 
-[ಕನ್nnaDa →](../kn/full#sub-7-6-6)
+[ಕನ್ನಡ →](../kn/full#sub-7-6-6)
 
 kelavu sollugaLalli mADuga pAngu esaka nadesidarU adara mEle hAtOTi hondiruvudilla: gALi marada tALe uDisibitTitu (wind = uncontrolled agent). I tarahada pAngugaLu suRu pAngAgi bAra balla.
 
@@ -352,13 +352,13 @@ kelavu sollugaLalli mADuga pAngu esaka nadesidarU adara mEle hAtOTi hondiruvudil
 
 ## adhyAya ೮ — pAngITTaLadalli mArpADugaLu
 
-[↑ oLapiDige](#oLapiDi) | [ಕನ್nnaDa →](../kn/full#adhyAya-8)
+[↑ oLapiDige](#oLapiDi) | [ಕನ್ನಡ →](../kn/full#adhyAya-8)
 
 <a id="sec-8-1"></a>
 
 #### 8.1 munnOTa
 
-[ಕನ್nnaDa →](../kn/full#sec-8-1)
+[ಕನ್ನಡ →](../kn/full#sec-8-1)
 
 esakapadagaLondigeya pAngITTaLagaLalli eraDu bageya mArpADugaLannu naDasilAyitu: (1) esakapadavannu mArpaDiside pAngITTaLavannu mArpaDisudu, (2) esakapadavannu mArpaDisi (isuvesaka, sErikeyesaka, eduresaka rUpagaLu) pAngITTaLavannu mArpaDisudu.
 
@@ -366,7 +366,7 @@ esakapadagaLondigeya pAngITTaLagaLalli eraDu bageya mArpADugaLannu naDasilAyitu:
 
 ##### 8.1.1 esakapadavannu mArpaDiside baLasuvudu
 
-[ಕನ್nnaDa →](../kn/full#sub-8-1-1)
+[ಕನ್ನಡ →](../kn/full#sub-8-1-1)
 
 oru esakapadavannu mArpADugaLade, adara pAngITTaLadalli mArpADugaLannu naDasilAyitu. ettugeginAgi: Aguga mAtra → mADuga + IDu (kareya — oDeyitu vs. avanu eraDannu kareyida).
 
@@ -374,7 +374,7 @@ oru esakapadavannu mArpADugaLade, adara pAngITTaLadalli mArpADugaLannu naDasilAy
 
 ##### 8.1.2 esakapadavannu mArpaDisi baLasuvudu
 
-[ಕನ್nnaDa →](../kn/full#sub-8-1-2)
+[ಕನ್ನಡ →](../kn/full#sub-8-1-2)
 
 isuvEsaka (causative), sErikeyesaka (reflexive), eduresaka (reciprocal) rUpagaLu esakapadavannu mArpaDisuva mUlaka pAngITTaLadalli mArpADugaLannu tарuttave.
 
@@ -384,13 +384,13 @@ isuvEsaka (causative), sErikeyesaka (reflexive), eduresaka (reciprocal) rUpagaLu
 
 #### 8.2 esakapadavannu mArpaDiside pAngITTaLavannu mArpaDisudu
 
-[ಕನ್nnaDa →](../kn/full#sec-8-2)
+[ಕನ್ನಡ →](../kn/full#sec-8-2)
 
 <a id="sub-8-2-1"></a>
 
 ##### 8.2.1 esakapadagaLa pAngITTaLagaLalli mArpADugaLu
 
-[ಕನ್nnaDa →](../kn/full#sub-8-2-1)
+[ಕನ್ನಡ →](../kn/full#sub-8-2-1)
 
 11 bageya mArpADugaLu vivarisalAgide: Aguga mAtra → mADuga+IDu; mADuga pAngu Aguga pAngAguvudu; mADuga+IDu+suru → mADuga+IDu; mADuga+IDu+guri → mADuga+suru+IDu; etc.
 
@@ -398,7 +398,7 @@ isuvEsaka (causative), sErikeyesaka (reflexive), eduresaka (reciprocal) rUpagaLu
 
 ##### 8.2.2 iru padada pAngITTaLagaLalli mArpADugaLu
 
-[ಕನ್nnaDa →](../kn/full#sub-8-2-2)
+[ಕನ್ನಡ →](../kn/full#sub-8-2-2)
 
 iru padada mUru iTTaLagaLa naDuvina mArpADugaLu: iruvikeyada iTTaLa ↔ pariceyada iTTaLa; iruvikeyada iTTaLa ↔ pattugeyada iTTaLa; pariceyada iTTaLa ↔ pattugeyada iTTaLa.
 
@@ -408,7 +408,7 @@ iru padada mUru iTTaLagaLa naDuvina mArpADugaLu: iruvikeyada iTTaLa ↔ pariceya
 
 #### 8.3 isuvEsakapadagaLa pAngITTaLagaLu
 
-[ಕನ್nnaDa →](../kn/full#sec-8-3)
+[ಕನ್ನಡ →](../kn/full#sec-8-3)
 
 isuvEsaka rUpa (causative): oDe → oDisu; ODu → ODisu; uNNu → uNNisu. I rUpadinda mADuga oru hecca pAngu seruttade — kAryakaraNavannu naDesisuva pAngu. avanu maguvinige huLi uNNisida (mADuga + IDu + Aguga).
 
@@ -416,7 +416,7 @@ isuvEsaka rUpa (causative): oDe → oDisu; ODu → ODisu; uNNu → uNNisu. I rUp
 
 ##### 8.3.4 isuvEsakapadagaLa huruLugaLu
 
-[ಕನ್nnaDa →](../kn/full#sub-8-3-4)
+[ಕನ್ನಡ →](../kn/full#sub-8-3-4)
 
 isuvEsaka padagaLige eraDu bagegaLu: (1) nErada kAryakAraNavAgi (avanu aDuge mADisida — avanu mADida), (2) paro_kSa kAryakAraNavAgi (avanu aDuge mADISida — bErondannu mADisida).
 
@@ -426,7 +426,7 @@ isuvEsaka padagaLige eraDu bagegaLu: (1) nErada kAryakAraNavAgi (avanu aDuge mAD
 
 #### 8.4 sErikeyesakada pAngITTaLagaLu
 
-[ಕನ್nnaDa →](../kn/full#sec-8-4)
+[ಕನ್ನಡ →](../kn/full#sec-8-4)
 
 sErikeyesaka rUpa (reflexive/reciprocal derived verbs): tAne mADikoLLuvudu (rAju uDupiskoNDa). I rUpadinda mADuga mattu IDu pAngugaLu ondu pAnga sEruttave.
 
@@ -436,7 +436,7 @@ sErikeyesaka rUpa (reflexive/reciprocal derived verbs): tAne mADikoLLuvudu (rAju
 
 #### 8.5 eduresakada pAngITTaLagaLu
 
-[ಕನ್nnaDa →](../kn/full#sec-8-5)
+[ಕನ್ನಡ →](../kn/full#sec-8-5)
 
 eduresaka rUpa (reciprocal): avaru obbarigobbaru nODikoNDaru. I rUpadinda eraDu pAngugaLu parpara sambandha hondiruttave.
 
@@ -444,7 +444,7 @@ eduresaka rUpa (reciprocal): avaru obbarigobbaru nODikoNDaru. I rUpadinda eraDu 
 
 ##### 8.5.1 hancikekante mattu pattugeykante
 
-[ಕನ್nnaDa →](../kn/full#sub-8-5-1)
+[ಕನ್ನಡ →](../kn/full#sub-8-5-1)
 
 hancikekante (distributive phrase): obbobbarigU; pattugeykante (relational noun phrase): obbarigobbaru. avugaLa bALakegaLalli vyatyAsagaLannu vivarisuttade.
 
@@ -454,7 +454,7 @@ hancikekante (distributive phrase): obbobbarigU; pattugeykante (relational noun 
 
 #### 8.6 kUDupadagaLa pAngITTaLagaLu
 
-[ಕನ್nnaDa →](../kn/full#sec-8-6)
+[ಕನ್ನಡ →](../kn/full#sec-8-6)
 
 eraDu ilvE hecca esakapadagaLannu jODisuva rUpagaLu baLasida kUDupadagaLu (complex predicates): hodate horada, nODi banda, uNDu malagikoNDa. I kUDupadagaLa pAngITTaLagaLannu vivarisuttade.
 
@@ -464,7 +464,7 @@ eraDu ilvE hecca esakapadagaLannu jODisuva rUpagaLu baLasida kUDupadagaLu (compl
 
 #### 8.7 mADugavannu maremaAcuvudu
 
-[ಕನ್nnaDa →](../kn/full#sec-8-7)
+[ಕನ್ನಡ →](../kn/full#sec-8-7)
 
 solladalli mADuga pAngannu tiLisade biDabahudAda nidaSanagaLu: paDu pada baLake (passive-like construction), aDuge mADiside (implicit agent). I rUpadinda mADuga pAng hini hELadantAguttade.
 
@@ -472,7 +472,7 @@ solladalli mADuga pAngannu tiLisade biDabahudAda nidaSanagaLu: paDu pada baLake 
 
 ##### 8.7.2 paDu padada baLake
 
-[ಕನ್nnaDa →](../kn/full#sub-8-7-2)
+[ಕನ್ನಡ →](../kn/full#sub-8-7-2)
 
 paDu pada (passive auxiliary): avanu hoDeyapaTTa; kalla maDiyapaTTu. paDu pada baLasida sollugaLalli mADuga pAngu tiLisade biDalAguttade — kannaDadalli idu muky 'passive' hOlabada.
 

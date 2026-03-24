@@ -203,11 +203,11 @@ The book constitutes both a theoretical argument and a practical reference. As a
 9. **Repository source (Phase 17):** Clean structured Kannada source files now exist: `07-kannaDa-barahada-sollarime-vol1-kn.md` (phonology, Vol. 1) and `07-kannaDa-barahada-sollarime-vol2-kn.md` (morphology+syntax, Vol. 2). Each has a ಒಳಪಿಡಿ TOC and `<a id="adhyAya-N">` chapter anchors. Corresponding Eke files are `vol1-kn-eke.md` and `vol2-kn-eke.md`. DNS Bhat's typographic citation marks (backtick open, apostrophe close) have been standardised to curly single quotes `'word'` (U+2018/U+2019) in kn.md and kn-eke.md. Note: Vols 3–7 PDFs have not been located; only Vol. 1 and Vol. 2 are available in the repository.
 
 
-10. **Repository source (Phase 18/19):** Both vol1-kn.md and vol2-kn.md now have 3-level deep TOCs with `<a id="sec-N-M">` and `<a id="sub-N-M-K">` anchors. Cross-links `[Eke →]` appear after every sec/sub anchor in each kn.md; kn-eke.md files have matching `[ಕನ್nnaDa →]` links. Vol2 TOC preserves struck-through entries for unavailable volumes (3–7). Headers include `[← ಸೂಚಿ](./README)` back-links.
+10. **Repository source (Phase 18/19):** Both vol1-kn.md and vol2-kn.md now have 3-level deep TOCs with `<a id="sec-N-M">` and `<a id="sub-N-M-K">` anchors. Cross-links `[Eke →]` appear after every sec/sub anchor in each kn.md; kn-eke.md files have matching `[ಕನ್ನಡ →]` links. Vol2 TOC preserves struck-through entries for unavailable volumes (3–7). Headers include `[← ಸೂಚಿ](./README)` back-links.
 
 11. **Repository source (Phase 26):** Vols 3 and 4 PDFs have been extracted and fully processed. The following files now exist:
     - `book/vol3/kn/full.md` — structured Kannada, Chapters 7–8 (ಎಸಕಪದದ ಪಾಂಗುಗಳು / ಪಾಂಗಿಟ್ಟಳದಲ್ಲಿ ಮಾರ್ಪಾಡುಗಳು): verbal argument frames, causative (-isu), middle (-koLLu), reciprocal, complex predicates, agent suppression via ಪಡು. Anchors: `adhyAya-7`, `adhyAya-8`, `sec-7-1` through `sec-7-6`, `sec-8-1` through `sec-8-7`.
-    - `book/vol3/eke/full.md` — Eke romanization with `[ಕನ್nnaDa →]` cross-links.
+    - `book/vol3/eke/full.md` — Eke romanization with `[ಕನ್ನಡ →]` cross-links.
     - `book/vol3/en/summary.md` — English chapter-by-chapter summary.
     - `book/vol4/kn/full.md` — structured Kannada, Chapters 9–10 (ಆಡುಪದಗಳು / ತೋರುಪದಗಳು): personal pronouns (nānu/nīnu/tānu), demonstratives (i-/ā- stems), definite vs indefinite deixis. Anchors: `adhyAya-9`, `adhyAya-10`, `sec-9-1` through `sec-9-6`, `sec-10-1` through `sec-10-7`.
     - `book/vol4/eke/full.md` — Eke romanization.

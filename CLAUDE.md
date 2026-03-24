@@ -211,7 +211,7 @@ The `docs/` directory is served at https://vwulf.github.io/ettuge/ via GitHub Pa
 - `docs/claude-project-instructions.md` — combined CLAUDE.md + skills for Claude.ai Projects (phone-accessible)
 - `docs/_config.yml` — Jekyll config (theme: just-the-docs; title: ettuge — Kannada Linguistics)
 - Do not commit generated HTML directly — Jekyll builds from `.md` source on push.
-- **Sidebar structure (Phase 28):** `DNS Bhat` (L1 root, nav_order=2) → `Books`/`Blog`/`YouTube`/`Stubs` (L2) → `ಕನ್nnaDa`/`ಏಕೆ`/`English` (L3, grand_parent=DNS Bhat, body=sorted book table); `Eke` (L1 root, nav_order=3) → `Eke Reference`/`Motivation` (L2). Individual book pages and `ಕನ್nnaDa` wrapper nav_excluded. Icons: ಕ (Kannada), 🇮🇳 (Eke), 🇺🇸 (English).
+- **Sidebar structure (Phase 28):** `DNS Bhat` (L1 root, nav_order=2) → `Books`/`Blog`/`YouTube`/`Stubs` (L2) → `ಕನ್ನಡ`/`ಏಕೆ`/`English` (L3, grand_parent=DNS Bhat, body=sorted book table); `Eke` (L1 root, nav_order=3) → `Eke Reference`/`Motivation` (L2). Individual book pages and `ಕನ್ನಡ` wrapper nav_excluded. Icons: ಕ (Kannada), 🇮🇳 (Eke), 🇺🇸 (English).
 - Old `/dnsbhat/` URLs redirect automatically via `redirect_from:` front matter in each file.
 
 ---

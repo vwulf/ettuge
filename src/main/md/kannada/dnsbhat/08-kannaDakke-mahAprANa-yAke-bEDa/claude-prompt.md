@@ -154,4 +154,4 @@ When answering questions about this book:
 6. Be able to distinguish between: (a) the author's thesis, (b) objections he anticipates, and (c) his rebuttals.
 
 
-10. **Repository source (Phase 19):** The kn.md now has a 3-level deep TOC with `<a id="sec-N-M">` and `<a id="sub-N-M-K">` anchors. Cross-links `[Eke →]` appear after each sec/sub anchor in kn.md; kn-eke.md has `[ಕನ್nnaDa →]` links. Header has `[← ಸೂಚಿ](./README)` index back-link and retains the `> ಮೂಲ ಪುಸ್ತಕ` link to the raw book file.
+10. **Repository source (Phase 19):** The kn.md now has a 3-level deep TOC with `<a id="sec-N-M">` and `<a id="sub-N-M-K">` anchors. Cross-links `[Eke →]` appear after each sec/sub anchor in kn.md; kn-eke.md has `[ಕನ್ನಡ →]` links. Header has `[← ಸೂಚಿ](./README)` index back-link and retains the `> ಮೂಲ ಪುಸ್ತಕ` link to the raw book file.

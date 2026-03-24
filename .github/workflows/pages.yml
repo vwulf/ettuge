@@ -147,7 +147,7 @@ jobs:
 
           sidebar_files = set()
 
-          # ── Pre-pass A: nav_exclude ಕನ್nnaDa wrapper (branding page, not sidebar) ──
+          # ── Pre-pass A: nav_exclude ಕನ್ನಡ wrapper (branding page, not sidebar) ──
           kannada_index = os.path.join(KANNADADIR, 'index.md')
           if os.path.exists(kannada_index):
               add_nav_exclude(kannada_index)
@@ -264,8 +264,8 @@ jobs:
           # ── Pass 3: Source L2 + Language L3 section pages ────────────────────────
           # Sidebar:
           #   DNS Bhat (L1)
-          #   ├── Books   (L2, parent=DNS Bhat)  →  ಕನ್nnaDa / ಏಕೆ / English  (L3)
-          #   ├── Blog    (L2)                   →  ಕನ್nnaDa / ಏಕೆ / English  (L3)
+          #   ├── Books   (L2, parent=DNS Bhat)  →  ಕನ್ನಡ / ಏಕೆ / English  (L3)
+          #   ├── Blog    (L2)                   →  ಕನ್ನಡ / ಏಕೆ / English  (L3)
           #   ├── YouTube (L2)                   →  …
           #   └── Stubs   (L2)                   →  …
           for src_dir, src_title, src_order in SOURCES:

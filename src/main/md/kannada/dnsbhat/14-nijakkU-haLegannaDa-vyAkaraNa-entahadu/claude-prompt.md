@@ -325,4 +325,4 @@ When answering questions about this book:
 7. The book is written in Kannada and uses reformed/simplified spelling consistent with D.N. Shankara Bhat's linguistic principles (e.g., preferring native Kannada grammatical terms where possible).
 
 
-10. **Repository source (Phase 19):** The kn.md now has a 3-level deep TOC with `<a id="sec-N-M">` and `<a id="sub-N-M-K">` anchors (164 total). Cross-links `[Eke →]` appear after each sec/sub anchor in kn.md; kn-eke.md has `[ಕನ್nnaDa →]` links. Header includes `[← ಸೂಚಿ](./README)` back-link and retains the `> ಮೂಲ ಪುಸ್ತಕ` link.
+10. **Repository source (Phase 19):** The kn.md now has a 3-level deep TOC with `<a id="sec-N-M">` and `<a id="sub-N-M-K">` anchors (164 total). Cross-links `[Eke →]` appear after each sec/sub anchor in kn.md; kn-eke.md has `[ಕನ್ನಡ →]` links. Header includes `[← ಸೂಚಿ](./README)` back-link and retains the `> ಮೂಲ ಪುಸ್ತಕ` link.

@@ -697,7 +697,7 @@ Commits: `500a296` (intermediate `^..^` convention — superseded), `971e918` (f
 **Changes:**
 - Added `<a id="sec-N-M">` anchors at all section headings and `<a id="sub-N-M-K">` at all subsection headings in every kn.md
 - ಪರಿವಿಡಿ TOC in each kn.md extended to list all three levels (chapter → section → subsection)
-- Cross-links inserted after every sec/sub anchor: `[Eke →](./SLUG-kn-eke#sec-N-M)` in kn.md; `[ಕನ್nnaDa →](./SLUG-kn#sec-N-M)` in kn-eke.md
+- Cross-links inserted after every sec/sub anchor: `[Eke →](./SLUG-kn-eke#sec-N-M)` in kn.md; `[ಕನ್ನಡ →](./SLUG-kn#sec-N-M)` in kn-eke.md
 - Chapter nav fragments corrected to `#adhyAya-N` throughout
 - Index back-links added to all kn.md headers: `[← ಸೂಚಿ](./README)` and `[← sUci](./README)` in kn-eke.md
 - kn-eke.md self-referential header links corrected (were pointing to wrong file)
@@ -1078,7 +1078,7 @@ Books 16, 22, 23, 24, 26 — website stubs only.
 | Extract Book 21 PDF | 21 | Pronouns (Oxford) — likely Unicode PDF; create en.md + claude-prompt.md |
 | Sync docs/ after every phase (run sync_docs.py) | all | `docs/dnsbhat/` is served by GitHub Pages but edits go to `src/main/md/kannada/dnsbhat/`. After any OCR or kn.md changes, run `python3 .claude/skills/ettuge-sync/scripts/sync_docs.py` to sync src→docs preserving Jekyll nav front matter. Already handled by the `ettuge-sync` skill (Step 4a). |
 | Fix OCR word-boundary splits | multiple | Words like `meccuge ay` should be `meccugAy` — OCR split at vowel boundaries. Audit all kn-eke.md files for space-separated suffix artifacts. |
-| Verify cross-links kn → en → eke | all books with kn.md | Now that en.md files have detailed per-section anchors (Phase 16–17), the `[English →]` links in kn.md and the `[ಕನ್nnaDa →]` links in kn-eke.md need a full audit pass to ensure every anchor target resolves correctly. |
+| Verify cross-links kn → en → eke | all books with kn.md | Now that en.md files have detailed per-section anchors (Phase 16–17), the `[English →]` links in kn.md and the `[ಕನ್ನಡ →]` links in kn-eke.md need a full audit pass to ensure every anchor target resolves correctly. |
 | Update Skills and CLAUDE.md files | — | `.claude/skills/kannada-ocr-cleaner/SKILL.md`, `dns-bhat-book-summarizer/SKILL.md`, `dns-bhat-transcript-summarizer/SKILL.md`, and relevant `CLAUDE.md` files need updating with Phase 17 learnings: nukta symbol (U+0CBC ಼) + Eke `:` suffix rule, archaic RA (ಱ→R), ೞ→Z, ಙ→G, ಞ→Y, Havyaka suffix `ᵒ`, unrounded-u `u^`, curly quote convention, Nudi Latin artifact table. |
 | Expand ettuge home page Eke description | site | [https://vwulf.github.io/ettuge/](https://vwulf.github.io/ettuge/) home page needs a richer Eke description: cover extensions for Havyaka phonemes (ಱ `R`, `ᵒ` suffix, unrounded-u `u^`), lowered vowels (nukta + `:` suffix), archaic stops (ೞ `Z`), and the overall design philosophy (no aspirate loss in *transcription*, aspirate loss only in *word coining*). |
 | Deep TOC: chapter.section.subsection anchors | 07, 08, 14, 17, 25, 27, 28, 29, 03 | Current kn.md files only have top-level `adhyAya-N` anchors. The OCR'd book TOCs contain full `N.M` and `N.M.K` section hierarchies (e.g. [book 28](https://vwulf.github.io/ettuge/dnsbhat/28-kannaDakke-bEku/28-kannaDakke-bEku-kn.html)). Each book's OCR TOC needs to be read, the `N.M` / `N.M.K` section headings identified in the body, `<a id="sec-N-M">` / `<a id="sub-N-M-K">` anchors inserted, and the ಒಳಪಿಡಿ/ಪರಿವಿಡಿ block rebuilt with full three-level link tables. Book 03 already has this (Phase 17); all others need the same treatment. |
