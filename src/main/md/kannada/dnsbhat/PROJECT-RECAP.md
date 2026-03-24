@@ -1,5 +1,5 @@
 # DNS Bhat Ettuge Project — Recap
-*Last updated: 2026-03-21 (Phase 23)*
+*Last updated: 2026-03-23 (Phase 27)*
 
 ---
 
@@ -37,25 +37,25 @@ His central argument, developed over 50 years: **Kannada grammar must be built f
 
 ---
 
-## The Catalogue: 29 Known Works
+## The Catalogue: 33 Known Works
 
 The full registry is in [`README.md`](./README.md). Summary:
 
 | # | Short Title | Language | Key Topic | Text Status | Processed |
 |---|-------------|----------|-----------|-------------|-----------|
-| 01 | Idu Kannadade Vyakarana | Kn | Native grammar framework | ✅ Transcript | ❌ |
+| 01 | Idu Kannadade Vyakarana | Kn | Native grammar framework | ✅ Transcript | ✅ youtube+en |
 | 02 | Hosapadagalannu Kattuva Bage | Kn | Word formation | ✅ Transcript + 15 blog posts | ✅ full |
 | 03 | Kannada Padagala Olarachane | Kn | Morphology | ✅ Transcript + OCR | ✅ full |
 | 04 | Mathu Matthu Barahada Gondala | Kn | Speech vs. writing | ⚠️ Partial (25/44 parts) | ✅ full |
 | 05 | Mathina Olaguttu | Kn | Deep structure of language | ✅ Transcript (27/37 parts) | ✅ full |
-| 06 | Kalikenudi Matthu Nudikalike | Kn | Language acquisition | ❌ Corrupted | ❌ |
-| 07 | Kannadada Sollarime (7 vols) | Kn | Complete grammar | ⚠️ Partial + OCR vol1+2 | ✅ full |
+| 06 | Kalikenudi Matthu Nudikalike | Kn | Language acquisition | ❌ Corrupted | ✅ youtube+en |
+| 07 | Kannada Barahada Sollarime (7 vols) | Kn | Complete grammar of written Kn | ⚠️ OCR vol1–4; vols 5–7 missing | ✅ full |
 | 08 | Kannadakke Mahaprana Yake Beda | Kn | Script reform (aspirates) | ✅ Full text | ✅ full |
 | 09 | Havyaka Kannada | Kn | Havyaka dialect (popular) | ⚠️ Partial (72/88 slots) | ✅ full |
-| 10 | Kannada Nudiya Hinnadavali | Kn | History of Kannada | ⚠️ Corrupted | ❌ |
-| 11 | Kannada Barahada Padasamasye | Kn | Orthographic problems | ❌ Corrupted | ❌ |
-| 12 | Kannada Bhasheya Kalpita Charitre | Kn | Reconstructed history | ✅ Short excerpt | ❌ |
-| 13 | Dharege Doddavaru | Kn | Old Kannada literature | ❌ Corrupted | ❌ |
+| 10 | Kannada Nudiya Hinnadavali | Kn | History of Kannada | ⚠️ Corrupted | ✅ youtube+en |
+| 11 | Kannada Barahada Padasamasye | Kn | Orthographic problems | ❌ Corrupted | ✅ youtube+en |
+| 12 | Kannada Bhasheya Kalpita Charitre | Kn | Reconstructed history | ✅ Short excerpt | ✅ youtube+en |
+| 13 | Dharege Doddavaru | Kn | Old Kannada literature | ❌ Corrupted | ✅ youtube+en |
 | 14 | Nijakku Halegannada Vyakarana Entahadu | Kn | Old Kannada grammar | ✅ Full text + 7 blog posts | ✅ full |
 | 15 | Inglish Kannada Padanerake | Kn | English→Kannada vocabulary | ⚠️ Sample only (53p) | ✅ full |
 | 16 | Samskruta Padagalige Kannadade Padagalu | Kn | Sanskrit→Kannada terms | ❌ Not collected | ❌ |
@@ -72,8 +72,12 @@ The full registry is in [`README.md`](./README.md). Summary:
 | 27 | Baasheya Bagge | Kn | Introduction to linguistics | ✅ OCR | ✅ full |
 | 28 | Kannadakke Beku | Kn | Why Kannada needs its grammar | ✅ OCR | ✅ full |
 | 29 | Kannada Vyakarana Yaake Beku | Kn | Why grammar matters | ✅ OCR | ✅ full |
+| 30 | Kannada Barahavanna Saripadisona | Kn | Practical script reform guide | ✅ Nudi OCR decoded | ✅ full |
+| 31 | Ingliš Padagalige Kannadade Padagalu | Kn | English→native Kn dictionary (A–Z) | ✅ Baraha CID decoded (Phase 27) | ✅ raw+en |
+| 32 | Prominence of Tense, Aspect and Mood | En | TAM typology (John Benjamins) | ✅ Clean English PDF | ✅ en+prompt |
+| 33 | Kannada Sollarime | Kn | General Kn grammar (YouTube) | ✅ Transcript | ✅ youtube+en |
 
-**"Processed" = full** means the book has all four key files: `en.md` + `kn-eke.md` + `claude-prompt.md` (+ `kn.md` where applicable). **"en+prompt"** means English and claude-prompt done but no kn-eke (English-language book).
+**"Processed" = full** means the book has all four key files: `en.md` + `kn-eke.md` + `claude-prompt.md` (+ `kn.md` where applicable). **"en+prompt"** = English summary + claude-prompt but no kn-eke. **"youtube+en"** = YouTube transcript + English summary. **"raw+en"** = decoded raw.md + English summary (no kn-eke yet).
 
 ---
 
@@ -913,6 +917,60 @@ All 6 books now have `youtube/en/summary.md` with explicit quality assessment an
 
 ---
 
+### Phase 26 — Sollarime Vol.3 + Vol.4 from PDF (2026-03-23)
+
+**Book 07** — *ಕನ್ನಡ ಬರಹದ ಸೊಲ್ಲರಿಮೆ* vols 3 and 4 (syntax volumes) extracted from PDF and processed.
+
+**Source:** Google Drive PDFs — vol3 (241pp), vol4 (274pp). Both use Baraha/WX encoding; decoded via `wx_decode.py` pipeline.
+
+**Vol3 — ವಾಕ್ಯರಚನೆ ಭಾಗ ೧ (Chapters 7–8):**
+- Chapter 7: ಎಸಕಪದದ ಪಾಂಗುಗಳು (Verbal Arguments) — verb valency, transitivity, argument frames
+- Chapter 8: ಪಾಂಗಿಟ್ಟಳದಲ್ಲಿ ಮಾರ್ಪಾಡುಗಳು (Argument Frame Alternations) — passivisation, causativisation
+
+**Vol4 — ವಾಕ್ಯರಚನೆ ಭಾಗ ೨ (Chapters 9–10):**
+- Chapter 9: ಆಡುಪದಗಳು (Personal Pronouns) — person/number/gender in Kannada pronoun system
+- Chapter 10: ತೋರುಪದಗಳು (Demonstratives) — proximal/distal deixis, anaphora
+
+**Files produced per volume:**
+- `book/volN/kn/raw.md` — extracted OCR source
+- `book/volN/kn/full.md` — structured Kannada with TOC and `<a id="adhyAya-N">` anchors
+- `book/volN/eke/full.md` — Eke romanisation
+- `book/volN/en/summary.md` — English chapter summary
+
+**Multi-volume index** `book/kn/full.md` updated: vol3 and vol4 entries added; vol1/vol2 entries corrected; vols 5–7 marked as pending.
+
+**Commits:** (see git log)
+
+---
+
+### Phase 27 — Book 31 Full CID Decode: Baraha Dictionary (2026-03-23)
+
+**Book 31** — *ಇಂಗ್ಲಿಶ್ ಪದಗಳಿಗೆ ಕನ್ನಡದ್ದೇ ಪದಗಳು* (487pp, A–Z dictionary) — all 12,121 English headwords fully decoded. The initial Phase 24 `full.md` had 5,411 garbled + 495 partial entries because the source PDF used an embedded Baraha font with CID-encoded glyphs.
+
+**The CID decode problem:** `pdfplumber` could not map glyph IDs to Unicode — it emitted `(cid:N)` tokens instead of characters. Standard Nudi/WX pipelines didn't apply here because the font's codepoint mapping was Baraha cp1252, not WX.
+
+**Three key discoveries:**
+
+| Discovery | Detail |
+|-----------|--------|
+| Three-range CID offset rule | CIDs 1–96: offset +31 (ASCII); CIDs 97–114: offset +57 (0xA0–0xAB Baraha high zone); CIDs 115+: offset +61 (0xB2–0xFF Baraha extended). Boundary at 114 (not 113 as initially assumed). |
+| CID 114 → `«` = ವಿ | With offset +57: byte 171 = 0xAB = `«` → maps to ವಿ in wx_decode MAPPING. Critical for locative/instrumental forms. Proved by `abet` → ಕಳವಿನಲ್ಲಿ. |
+| `±` (0xB1) as ಲ, not ಶ | In this PDF font, CID 116 decodes to `±` but is used as ಲ base (3,196 of 3,207 occurrences). Only 12 are genuine ಶ (patterns `±À` = ಶ, `±É` = ಶೆ). Fix: `re.sub(r'±(?![ÀÉ])', '®', text)`. |
+| `³` (0xB3) = ಲ್ಲಿ trigger | CID 116 produces `³`; `³è` sequences encode the locative suffix. Fix: replace `³→°` before wx_decode → VATTAKSHARA rearrangement produces ಲ + ್ + ಲ + ಿ = ಲ್ಲಿ. Affects 580 locative forms. |
+
+**Additional preprocess fixes:**
+- `¯À` → `®` (standalone ಲ; the `¯ + À` pair was not in MAPPING)
+- `¯` before non-combo chars → `®` (handles all unmapped `¯` uses)
+- `\xad` (soft hyphen) → `©` (ಬಿ single-glyph form)
+
+**Result:** 12,121 entries decoded; **2 remaining garbled** (OCR-artifact headwords: `wAr)` and `XYZ` — spurious, not real dictionary entries). All genuine dictionary entries are fully readable Kannada.
+
+**Batch script:** `/tmp/decode_book31_batch.py` — full decode pipeline with three-range CID rule, preprocess substitutions, wx_decode.convert_chunk(), postprocess cleanup, entry parser, and full.md generator.
+
+**Commit:** `4751e65` — `feat(book31): fully decode Baraha CID dictionary — Phase 27`
+
+---
+
 ## Eke Romanisation System
 
 **Ellara KannaDa (Eke)** is a romanisation of Kannada devised by Vishwas — inspired by HK protocol and DNS Bhat's ideas, designed to be learnable by any Indian and usable by non-Kannada readers. It is the romanisation used throughout the `-kn-eke.md` files.
@@ -957,7 +1015,7 @@ All 6 books now have `youtube/en/summary.md` with explicit quality assessment an
 
 ---
 
-## Current File Status (2026-03-20)
+## Current File Status (2026-03-23)
 
 ### ✅ Fully processed (en.md + kn-eke.md + claude-prompt.md)
 
@@ -967,7 +1025,7 @@ All 6 books now have `youtube/en/summary.md` with explicit quality assessment an
 | 03 — Padagala Olarachane | book + **kn** (OCR-cleaned, 11,437L) + kn-eke + en + claude-prompt |
 | 04 — Mathu Matthu Barahada Gondala | transcript + website + kn-eke + en + claude-prompt |
 | 05 — Mathina Olaguttu | transcript + website + kn-eke + en + claude-prompt |
-| 07 — Kannadada Sollarime | vol1-book + **vol1-kn** (20,475L) + vol2-book + **vol2-kn** (13,928L) + kn-eke + en + claude-prompt; citation quotes → curly ✅; Nudi-clean ✅ |
+| 07 — Kannada Barahada Sollarime | vol1-book + **vol1-kn** (20,475L) + vol2-book + **vol2-kn** (13,928L) + vol3/vol4 raw+full+eke+en + multi-vol index; citation quotes → curly ✅; Nudi-clean ✅ |
 | 08 — Mahaprana Yake Beda | book + djvu + kn + kn-eke + en + claude-prompt |
 | 09 — Havyaka Kannada | transcript + website + kn-eke + en + claude-prompt |
 | 14 — Nijakku Halegannada | book + djvu + blog + kn + kn-eke + en + claude-prompt; Nudi-clean ✅ |
@@ -979,10 +1037,23 @@ All 6 books now have `youtube/en/summary.md` with explicit quality assessment an
 | 27 — Baasheya Bagge | book + **kn** (OCR-cleaned, 8,245L) + kn-eke + en + claude-prompt |
 | 28 — Kannadakke Beku | book + **kn** (OCR-cleaned, 9,517L) + kn-eke + en (13 anchors) + claude-prompt; citation quotes → curly ✅ |
 | 29 — Kannada Vyakarana Yaake Beku | book + **kn** (OCR-cleaned, 11 ch. anchors) + kn-eke + en (12 anchors) + claude-prompt |
+| 30 — Kannada Barahavanna Saripadisona | book/kn/raw.md + book/kn/full.md (10-ch TOC) + book/eke/full.md + book/en/summary.md + claude-prompt |
 
-### ❌ Not yet processed — no PDF source available
+### ✅ Partially processed (raw decode done; kn-eke pending)
 
-Books 01, 06, 10, 11, 12, 13 — YouTube transcripts only, too corrupted/short for full processing.
+| Book | Files present | What's missing |
+|------|--------------|---------------|
+| 31 — Ingliš Padagalige Kannadade Padagalu | book/kn/raw.md + **book/kn/full.md** (12,121 entries, Baraha CID decoded Phase 27) + book/en/summary.md + claude-prompt | book/eke/full.md (Eke for a dictionary is less critical) |
+
+### ✅ YouTube + English summary only
+
+Books 01, 06, 10, 11, 12, 13, 33 — YouTube transcripts + youtube/en/summary.md + claude-prompt. No scanned book text available.
+
+### ✅ English summary + claude-prompt only
+
+| Book | Notes |
+|------|-------|
+| 32 — Prominence of Tense, Aspect and Mood | English monograph; book/en/summary.md + claude-prompt |
 
 ### ❌ PDFs exist in Google Drive but text not yet extracted
 
@@ -1022,7 +1093,8 @@ Books 16, 22, 23, 24, 26 — website stubs only.
 | Collect missing blog posts | Books 02 (parts 1–3), 18 (many parts) — check more Wayback snapshots |
 | Book 26 — Uli Marpadina Geregalu | Cloudflare-blocked; try different snapshots or direct Google Cache |
 | Books 16, 22, 23, 24 | Not yet collected; website stubs only |
-| Sollarime vol.3–7 | Only vol.1+2 PDFs found; vols 3–7 may be at dnshankarabhat.net (offline) |
+| Sollarime vol.5–7 | Vol.1–4 now processed (Phases 14 + 26); vols 5–7 not found in Google Drive — may be at dnshankarabhat.net (offline) |
+| Book 31 eke/full.md | Eke romanisation of the A–Z dictionary entries not yet generated. Lower priority since the dictionary is English-headworded (Eke of Kannada definitions would be secondary use). |
 
 ### Low priority / stretch
 

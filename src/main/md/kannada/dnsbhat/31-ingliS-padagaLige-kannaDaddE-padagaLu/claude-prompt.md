@@ -48,11 +48,13 @@ This is an earlier, opinionated companion to Book 15 (*Inglish Kannada Padanerak
 
 ## REPOSITORY SOURCE
 
-**Raw OCR text:** `book/kn/raw.md` — 2.8M chars; Nudi font converted via wx_decode.py. Kannada definitions ~95% clean; English headwords ~60–70% clean (remaining have `(cid:...)` font artifacts from a different embedded font).
+**Raw OCR text:** `book/kn/raw.md` — 2.8M chars; source from a Baraha-font PDF with CID-encoded glyphs.
+
+**Decoded dictionary:** `book/kn/full.md` — **12,121 entries fully decoded to Unicode Kannada** (Phase 27, 2026-03-23). All `(cid:N)` glyph tokens resolved via three-range CID offset rule + Baraha cp1252 → wx_decode pipeline. Only 2 spurious OCR-artifact headwords remain garbled; all genuine dictionary entries are clean. Entry format: `**headword** — [PoS] Kannada equivalents (example sentences)`.
 
 **English summary:** `book/en/summary.md` — methodology overview, word-formation tables, sample entries.
 
-**Note:** No `book/kn/full.md` (dictionary format not suited to chapter structuring); no Eke file (dictionary length makes full romanisation impractical).
+**Note:** No Eke file (dictionary length makes full romanisation impractical).
 
 ---
 
