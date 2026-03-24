@@ -80,8 +80,8 @@ All kn.md files have a ಪರಿವಿಡಿ/ಒಳಪಿಡಿ table at the top
 ### Cross-link convention (Phase 19)
 After every `<a id="sec-N-M">` or `<a id="sub-N-M-K">` anchor, insert a cross-link on its own line:
 - In kn.md: `[Eke →](./SLUG-kn-eke#sec-N-M)` or `[Eke →](./SLUG-kn-eke#sub-N-M-K)`
-- In kn-eke.md: `[ಕನ್nnaDa →](./SLUG-kn#sec-N-M)` or `[ಕನ್nnaDa →](./SLUG-kn#sub-N-M-K)`
-- Chapter nav `[English →](./en#ch) | [Eke →](./kn-eke#adhyAya-N)` in kn.md; `[English →](...) | [ಕನ್nnaDa →](./kn#adhyAya-N)` in kn-eke.md
+- In kn-eke.md: `[ಕನ್ನಡ →](./SLUG-kn#sec-N-M)` or `[ಕನ್ನಡ →](./SLUG-kn#sub-N-M-K)`
+- Chapter nav `[English →](./en#ch) | [Eke →](./kn-eke#adhyAya-N)` in kn.md; `[English →](...) | [ಕನ್ನಡ →](./kn#adhyAya-N)` in kn-eke.md
 - Header block: `> [← ಸೂಚಿ](./README) | ಇಂಗ್ಲಿಶ್ ...: [en] | Eke: [kn-eke]` in kn.md; `> [← sUci](./README) | ingliS ...: [en] | kannaDa: [kn]` in kn-eke.md
 
 ---

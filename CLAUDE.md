@@ -64,14 +64,14 @@ ettuge/
 All 33 DNS Bhat books have been catalogued; books 30–33 now have content files. Key milestones:
 
 - **Phase 27 (2026-03-23):** Book 31 (*ಇಂಗ್ಲಿಶ್ ಪದಗಳಿಗೆ ಕನ್ನಡದ್ದೇ ಪದಗಳು*, 487pp Baraha A–Z dictionary) fully decoded. Cracked the three-range CID offset rule (≤96:+31, 97–114:+57, 115+:+61), resolved ±/¯/³ Baraha char ambiguities, and implemented `preprocess_baraha()` + `postprocess()` pipeline around wx_decode. Result: 12,121 entries, only 2 OCR-artifact garbled (down from 5,411 garbled + 495 partial). Batch decode script saved at `/tmp/decode_book31_batch.py`.
-- **Phase 26 (2026-03-23):** Book 07 (*ಕನ್nnaDa ಬರಹದ ಸೊಲ್ಲರಿಮೆ*) Vols 3 and 4 fully processed. Generated from PDF via Baraha→Unicode OCR with Python cleanup script: vol3/kn/full.md (ch7–8, verbal arguments + alternations), vol3/eke/full.md, vol3/en/summary.md; vol4/kn/full.md (ch9–10, pronouns + demonstratives), vol4/eke/full.md, vol4/en/summary.md. Multi-volume index book/kn/full.md updated. All four syntax chapters now have full 3-file sets.
+- **Phase 26 (2026-03-23):** Book 07 (*ಕನ್ನಡ ಬರಹದ ಸೊಲ್ಲರಿಮೆ*) Vols 3 and 4 fully processed. Generated from PDF via Baraha→Unicode OCR with Python cleanup script: vol3/kn/full.md (ch7–8, verbal arguments + alternations), vol3/eke/full.md, vol3/en/summary.md; vol4/kn/full.md (ch9–10, pronouns + demonstratives), vol4/eke/full.md, vol4/en/summary.md. Multi-volume index book/kn/full.md updated. All four syntax chapters now have full 3-file sets.
 - **Phase 25 (2026-03-22):** Split Book 33 (*ಕನ್ನಡ ಸೊಲ್ಲರಿಮೆ*) out of Book 07's folder — the YouTube transcript was mis-shelved there. Added youtube/en/summary.md + claude-prompt.md for all 6 YouTube-only books (01, 06, 10, 11, 12, 13). All 33 books now have claude-prompt.md.
 - **Phase 24 (2026-03-22):** Added books 30, 31, 32 from PDF extraction. Book 30 (382pp Nudi): full 4-file set (raw.md, full.md with 10-chapter TOC, en/summary.md, eke/full.md) via wx_decode.py. Book 31 (487pp Nudi, A–Z dictionary): book/kn/raw.md + book/en/summary.md; initial full.md had 5,411 garbled entries (now fixed in Phase 27). Book 32 (214pp clean English, John Benjamins): book/en/summary.md. claude-prompt.md created for all three. dnsbhat/README.md updated with collection stats (25→32 total books across sections A–L).
 - **Phase 23 (2026-03-21):** Blog sidebar fallback fixed (Books 14, 18 now appear). Stubs sidebar category added — 16 YouTube placeholder files reclassified out of the YouTube sidebar. Books 02 and 03 YouTube transcripts enriched with link + 60-word excerpt cross-references to matching blog/book sections (Books 02: 10 Parts; Book 03: 33 of 55 Parts), using `#sec-N-M` anchors from Phase 19.
 - **Phase 22 (2026-03-21):** YouTube transcript restructuring for all books 01–13: `## Part N` → `### Part N`, `<a id="part-N">` anchors, ~80-word paragraph breaks, garbage detection, ಪರಿವಿಡಿ TOC. Book 03 additionally restructured with 9-chapter grouping matching the book's chapter structure.
 - **Phase 21 (2026-03-20):** GitHub Pages nested source-first sidebar (Books / Blog / YouTube / Stubs) generated via 6-pass Python script in CI. All 404s fixed after taxonomy migration.
 - **Phase 20 (2026-03-20):** 4-level taxonomy migration — all 29 book dirs restructured to `book/kn/full.md`, `web/kn/raw.md`, `youtube/kn/full.md` etc. (129 git mv ops).
-- **Phase 19 (2026-03-20):** Deep 3-level TOC with `<a id="sec-N-M">` and `<a id="sub-N-M-K">` anchors added to all books with kn.md (02, 03, 07-vol1, 07-vol2, 08, 14, 17, 25, 27, 28, 29). Section/subsection cross-links added: `[Eke →]` after every sec/sub anchor in kn.md; `[ಕನ್nnaDa →]` in kn-eke.md.
+- **Phase 19 (2026-03-20):** Deep 3-level TOC with `<a id="sec-N-M">` and `<a id="sub-N-M-K">` anchors added to all books with kn.md (02, 03, 07-vol1, 07-vol2, 08, 14, 17, 25, 27, 28, 29). Section/subsection cross-links added: `[Eke →]` after every sec/sub anchor in kn.md; `[ಕನ್ನಡ →]` in kn-eke.md.
 - **Phase 18 (2026-03-19):** Chapter/section headings converted to Markdown `##`/`###`/`####`. Book 28 deep TOC added. Book 03 subsection numbering corrected (1.6→1.5).
 - **Earlier phases:** OCR cleanup (books 07, 08, 14, 17, 25, 27, 28, 29), Eke.md translation (complete), DNS Bhat book summarization pipeline established, transcript cleanup (349 videos).
 
@@ -211,7 +211,7 @@ The `docs/` directory is served at https://vwulf.github.io/ettuge/ via GitHub Pa
 - `docs/claude-project-instructions.md` — combined CLAUDE.md + skills for Claude.ai Projects (phone-accessible)
 - `docs/_config.yml` — Jekyll config (theme: just-the-docs; title: ettuge — Kannada Linguistics)
 - Do not commit generated HTML directly — Jekyll builds from `.md` source on push.
-- **Sidebar structure (Phase 27):** `ಕನ್nnaDa` (root) → Books/Blog/YouTube/Stubs/Eke (L2) → individual content (L3, grand_parent=ಕನ್nnaDa)
+- **Sidebar structure (Phase 27):** `ಕನ್ನಡ` (root, nav_order=2) → `DNS Bhat` (L2) → one entry per book (L3, grand_parent=ಕನ್ನಡ); `Eke` (L2 sibling) → `Reference` (L3). All content files nav_excluded; navigation from book landing pages.
 - Old `/dnsbhat/` URLs redirect automatically via `redirect_from:` front matter in each file.
 
 ---
