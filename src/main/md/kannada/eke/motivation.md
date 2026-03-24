@@ -26,6 +26,30 @@ Hosabaraha (Vishwas's Kannada input system) uses a consistent phone-key mapping 
 - Works with plain ASCII on any keyboard
 - Is completely reversible — every roman string maps back to exactly one Kannada string
 
+## Symbol complexity: Classical → Ellara → Eke
+
+Classical Kannada script encodes 35 consonants, 16 vowels, and 5 modifier characters. The ottakSara (consonant-conjunct) system multiplies consonants together, producing up to 35 × 35 × 21 ≈ **25,725 symbols** a learner must recognise.
+
+**Ellara Kannada** reduces this along two axes:
+
+| Dimension | Classical | Ellara Kannada |
+|-----------|-----------|----------------|
+| Consonants (for conjuncts) | 35 | 21 (mahāprāṇas and rare letters merged or dropped) |
+| Vowels | 16 | 10 |
+| Modifiers | 5 | 3 (retains ್ virama and ಂ anusvara; drops ಃ visarga and ೱ; ಼ nuktā is debatable — useful for foreign sounds like *fa*, *za*, *bank*, *odd*) |
+
+This brings the symbol space to 21 × 21 × 13 ≈ **5,733** — a **77% reduction** with no loss of fidelity for spoken modern Kannada (though Sanskrit and Vedic texts require the full classical set).
+
+**Eke** takes a further step: by using an alphabet rather than an abugida, it eliminates ottakSaras entirely. A sequence of letters *is* the conjunct — no stacked glyph needed. This brings the active symbol set down to roughly 21 × 13 ≈ **273 sequences** in principle, realised as:
+
+| Coverage | Symbols |
+|----------|---------|
+| Ellara Kannada (ek) — everyday spoken Kannada | **31** |
+| Formal Kannada — including historical and rare sounds | **41** |
+| Extended — adds English *f*, *w*, *z* | **44** |
+
+Harvard-Kyoto follows the same alphabet-over-abugida philosophy; Eke makes small modifications to better reflect Kannada phonology.
+
 ## The two-mode design
 
 A single romanisation can't serve both archivists and lexicographers. Eke has two modes:
