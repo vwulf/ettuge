@@ -44,7 +44,7 @@ Personal notes distilled from years of reading, thinking, and bookmarking — ex
 - **[Machine Learning & AI](Reflection/machine-learning-ai)** · **[Mathematics & Science](Reflection/mathematics-science)** · **[Algorithms & Data Structures](Reflection/algorithms-data-structures)**
 - **[Infrastructure & DevOps](Reflection/infrastructure-devops)** · **[Data Engineering](Reflection/data-engineering)** · **[Health & Fitness](Reflection/health-fitness)**
 - **[Books & Literature](Reflection/books-literature)** · **[Arts, Music & Film](Reflection/arts-music-film)** · **[Cricket & Sports](Reflection/cricket-sports)**
-- **[Travel & Outdoors](Reflection/travel-outdoors)** · **[Current Events & Politics](Reflection/current-events-politics)**
+- **[Travel & Outdoors](Reflection/travel-outdoors)**
 
 ---
 

@@ -467,7 +467,7 @@ jobs:
               ('cricket-sports.md',                 'Cricket & Sports',            12),
               ('travel-outdoors.md',                'Travel & Outdoors',           13),
               # career-personal.md — filtered for now (too personal)
-              ('current-events-politics.md',        'Current Events & Politics',   15),
+              # current-events-politics.md — filtered for now
               ('miscellaneous.md',                  'Miscellaneous',               16),
           ]
 
