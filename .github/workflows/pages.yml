@@ -37,7 +37,7 @@ jobs:
         run: |
           rm -rf docs/Books || true
           mkdir -p docs/Books/influential
-          cp src/main/md/Books/Books.md docs/Books/Books.md
+          cp src/main/md/Books/*.md docs/Books/
           cp src/main/md/Books/influential/*.md docs/Books/influential/
 
       - name: Generate sidebar — DNS Bhat and Eke
@@ -360,6 +360,15 @@ jobs:
               with open(books_index, 'w', encoding='utf-8') as f:
                   f.write(fm(title='Books', nav_order=4, has_children=True))
                   f.write(body)
+              # Books-Top.md — sidebar child of Books
+              books_top = os.path.join(BOOKSDIR, 'Books-Top.md')
+              if os.path.exists(books_top):
+                  with open(books_top, encoding='utf-8') as f:
+                      top_body = strip_fm(f.read())
+                  top_body = re.sub(r'\]\(((?!http)[^)]+)\.md\)', r'](\1)', top_body)
+                  with open(books_top, 'w', encoding='utf-8') as f:
+                      f.write(fm(title='Modern Library Top 100', parent='Books', nav_order=1))
+                      f.write(top_body)
               # nav_exclude all individual book files (pages exist; just hidden from sidebar)
               inf_dir = os.path.join(BOOKSDIR, 'influential')
               if os.path.isdir(inf_dir):
