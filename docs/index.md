@@ -36,10 +36,21 @@ A running notebook for functional programming ideas, worked out mostly in Haskel
 
 ---
 
-## Reflection & [Books](Books/Books)
+## [Reflection](Reflection/)
 
-- **Self-reflection** — Topic-based notes distilled from years of reading and thinking: Kannada linguistics, Indian history, machine learning, mathematics, algorithms, infrastructure, and health
-- **Books** — A [curated catalog](Books/Books) of books that have genuinely changed how the author thinks, organised by author with inline summaries and individual analyses
+Personal notes distilled from years of reading, thinking, and bookmarking — exported from a Signal self-channel and organised by topic.
+
+- **[Kannada & Linguistics](Reflection/kannada-language-linguistics)** · **[Indian History & Culture](Reflection/indian-history-culture)** · **[Scala & FP](Reflection/scala-functional-programming)**
+- **[Machine Learning & AI](Reflection/machine-learning-ai)** · **[Mathematics & Science](Reflection/mathematics-science)** · **[Algorithms & Data Structures](Reflection/algorithms-data-structures)**
+- **[Infrastructure & DevOps](Reflection/infrastructure-devops)** · **[Data Engineering](Reflection/data-engineering)** · **[Health & Fitness](Reflection/health-fitness)**
+- **[Books & Literature](Reflection/books-literature)** · **[Arts, Music & Film](Reflection/arts-music-film)** · **[Cricket & Sports](Reflection/cricket-sports)**
+- **[Travel & Outdoors](Reflection/travel-outdoors)** · **[Career & Personal](Reflection/career-personal)** · **[Current Events & Politics](Reflection/current-events-politics)**
+
+---
+
+## [Books](Books/Books)
+
+A [curated catalog](Books/Books) of books that have genuinely changed how the author thinks, organised by author with inline summaries and individual analyses.
 
 ---
 

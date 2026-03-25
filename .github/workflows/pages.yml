@@ -62,6 +62,15 @@ jobs:
           cp src/main/scala/kojo/ladder_rand_shape.png  docs/FP/
           cp src/main/scala/kojo/with_g.png             docs/FP/
 
+      - name: Copy Reflection notes into docs/Reflection/
+        run: |
+          rm -rf docs/Reflection || true
+          mkdir -p docs/Reflection
+          for f in src/main/md/self-reflection/2026-02-25_*.md; do
+            dest="docs/Reflection/$(basename "$f" | sed 's/^[0-9-]*_//')"
+            cp "$f" "$dest"
+          done
+
       - name: Generate sidebar — DNS Bhat and Eke
         run: |
           python3 - <<'PYEOF'
@@ -439,7 +448,54 @@ jobs:
                       f.write(body)
                   sidebar_files.add(fpath)
 
-          # ── Pass 7: nav_exclude all remaining .md files in kannaDa + FP ─────────
+          # ── Pass 7: Reflection sidebar ────────────────────────────────────────────
+          REFLDIR    = 'docs/Reflection'
+          REFL_TITLE = 'Reflection'
+
+          REFL_CATS = [
+              ('kannada-language-linguistics.md',   'Kannada & Linguistics',        1),
+              ('indian-history-culture.md',         'Indian History & Culture',     2),
+              ('scala-functional-programming.md',   'Scala & FP',                   3),
+              ('machine-learning-ai.md',            'Machine Learning & AI',        4),
+              ('mathematics-science.md',            'Mathematics & Science',        5),
+              ('algorithms-data-structures.md',     'Algorithms & Data Structures', 6),
+              ('infrastructure-devops.md',          'Infrastructure & DevOps',      7),
+              ('data-engineering.md',               'Data Engineering',             8),
+              ('health-fitness.md',                 'Health & Fitness',             9),
+              ('books-literature.md',               'Books & Literature',          10),
+              ('arts-music-film.md',                'Arts, Music & Film',          11),
+              ('cricket-sports.md',                 'Cricket & Sports',            12),
+              ('travel-outdoors.md',                'Travel & Outdoors',           13),
+              ('career-personal.md',                'Career & Personal',           14),
+              ('current-events-politics.md',        'Current Events & Politics',   15),
+              ('miscellaneous.md',                  'Miscellaneous',               16),
+          ]
+
+          if os.path.isdir(REFLDIR):
+              idx_path = os.path.join(REFLDIR, 'index.md')
+              with open(idx_path, 'w', encoding='utf-8') as f:
+                  f.write(fm(title=REFL_TITLE, nav_order=6, has_children=True))
+                  f.write('Personal notes distilled from years of reading, thinking, and bookmarking — '
+                          'organised by topic.\n\n')
+                  f.write('| Category |\n|----------|\n')
+                  for fname, title, _ in REFL_CATS:
+                      slug = fname.replace('.md', '')
+                      f.write(f'| [{title}](./{slug}) |\n')
+              sidebar_files.add(idx_path)
+
+              for fname, title, nav_order in REFL_CATS:
+                  fpath = os.path.join(REFLDIR, fname)
+                  if not os.path.exists(fpath):
+                      continue
+                  with open(fpath, encoding='utf-8') as f:
+                      body = strip_fm(f.read())
+                  body = re.sub(r'\]\(((?!http)[^)]+)\.md\)', r'](\1)', body)
+                  with open(fpath, 'w', encoding='utf-8') as f:
+                      f.write(fm(title=title, parent=REFL_TITLE, nav_order=nav_order))
+                      f.write(body)
+                  sidebar_files.add(fpath)
+
+          # ── Pass 8: nav_exclude all remaining .md files ───────────────────────────
           for walk_root, dirs, files in os.walk(KANNADADIR):
               dirs[:] = [d for d in dirs if not d.startswith('.')]
               for fname in files:
