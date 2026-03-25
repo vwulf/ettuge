@@ -1,0 +1,545 @@
+<!DOCTYPE html>
+<html lang="kn">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ಮಾಡು — mADu · 36 Verb Forms</title>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Kannada:wght@300;400;600;700&family=Noto+Serif+Kannada:wght@400;700&family=IBM+Plex+Mono:wght@400;500&family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #1a1208;
+    --paper: #f5f0e8;
+    --rust: #8b3a1a;
+    --gold: #b8860b;
+    --gold-light: #d4a843;
+    --warm-mid: #6b5a3e;
+    --warm-light: #c4b49a;
+    --warm-faint: #e8e0d0;
+    --accent: #2d5a3d;
+    --accent-light: #4a7c5a;
+    --neg: #5a2d6b;
+    --neg-light: #8a4a9a;
+    --neg-faint: #ede0f5;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: 'Cormorant Garamond', serif;
+    min-height: 100vh;
+    padding: 3rem 2rem;
+    background-image:
+      radial-gradient(ellipse at 10% 20%, rgba(184,134,11,0.06) 0%, transparent 50%),
+      radial-gradient(ellipse at 90% 80%, rgba(139,58,26,0.05) 0%, transparent 50%);
+  }
+
+  .page { max-width: 960px; margin: 0 auto; }
+
+  header {
+    text-align: center;
+    padding: 3rem 0 2rem;
+    border-bottom: 1px solid var(--warm-light);
+    margin-bottom: 2.5rem;
+  }
+
+  header::before {
+    content: '';
+    display: block;
+    width: 60px;
+    height: 2px;
+    background: var(--gold);
+    margin: 0 auto 2rem;
+  }
+
+  .title-kn {
+    font-family: 'Noto Serif Kannada', serif;
+    font-size: 4rem;
+    font-weight: 700;
+    color: var(--rust);
+    line-height: 1;
+    margin-bottom: 0.4rem;
+  }
+
+  .title-eke {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 1.1rem;
+    color: var(--gold);
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    margin-bottom: 0.8rem;
+  }
+
+  .title-en { font-style: italic; font-size: 1.2rem; color: var(--warm-mid); }
+
+  .count-badge {
+    display: inline-flex;
+    gap: 0.5rem;
+    align-items: center;
+    margin-top: 1.2rem;
+    padding: 0.5rem 1.2rem;
+    background: var(--rust);
+    color: #fff;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.85rem;
+    letter-spacing: 0.1em;
+  }
+
+  .count-badge span { opacity: 0.7; }
+  .subtitle { font-family: 'IBM Plex Mono', monospace; font-size: 0.75rem; color: var(--warm-light); letter-spacing: 0.08em; margin-top: 1rem; }
+
+  /* Count breakdown */
+  .count-breakdown {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 0;
+    border: 1px solid var(--warm-light);
+    margin-bottom: 2.5rem;
+    background: #fff;
+    animation: fadeIn 0.4s ease both;
+  }
+
+  .count-cell { padding: 1.2rem; text-align: center; border-right: 1px solid var(--warm-faint); }
+  .count-cell:last-child { border-right: none; }
+  .count-cell.total { background: var(--rust); color: #fff; }
+
+  .count-num { font-family: 'IBM Plex Mono', monospace; font-size: 2.5rem; font-weight: 500; line-height: 1; margin-bottom: 0.3rem; }
+  .count-cell.total .count-num { color: #fff; font-size: 3rem; }
+  .count-cell:not(.total) .count-num { color: var(--rust); }
+
+  .count-label { font-family: 'IBM Plex Mono', monospace; font-size: 0.65rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--warm-mid); }
+  .count-cell.total .count-label { color: rgba(255,255,255,0.7); }
+  .count-sub { font-style: italic; font-size: 0.8rem; color: var(--warm-light); margin-top: 0.3rem; }
+  .count-cell.total .count-sub { color: rgba(255,255,255,0.5); }
+
+  /* Sections */
+  .section { margin-bottom: 3rem; animation: fadeIn 0.6s ease both; }
+  .section:nth-child(4) { animation-delay: 0.1s; }
+  .section:nth-child(5) { animation-delay: 0.2s; }
+  .section:nth-child(6) { animation-delay: 0.3s; }
+  .section:nth-child(7) { animation-delay: 0.4s; }
+  .section:nth-child(8) { animation-delay: 0.5s; }
+
+  @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+
+  .section-header {
+    display: flex;
+    align-items: baseline;
+    gap: 1rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--warm-faint);
+  }
+
+  .section-title-kn { font-family: 'Noto Serif Kannada', serif; font-size: 1.3rem; font-weight: 700; color: var(--rust); }
+  .section-title-eke { font-family: 'IBM Plex Mono', monospace; font-size: 0.72rem; color: var(--gold); letter-spacing: 0.1em; }
+  .section-title-en { font-style: italic; font-size: 0.95rem; color: var(--warm-mid); margin-left: auto; }
+
+  .tense-note { font-family: 'IBM Plex Mono', monospace; font-size: 0.78rem; color: var(--warm-mid); margin-bottom: 0.8rem; padding: 0.4rem 0.8rem; display: inline-block; }
+  .tense-note.past { background: #f5efda; border-left: 2px solid var(--gold); }
+  .tense-note.nonpast { background: var(--warm-faint); border-left: 2px solid var(--rust); }
+
+  /* Two-tense grid */
+  .tense-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-bottom: 1.5rem; }
+
+  .tense-block h4 {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.68rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    padding: 0.4rem 0.6rem;
+    margin-bottom: 0.6rem;
+  }
+
+  .tense-block.past h4 { background: #f5efda; color: var(--gold); }
+  .tense-block.nonpast h4 { background: var(--warm-faint); color: var(--rust); }
+
+  /* Tables */
+  table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+  thead tr { border-bottom: 1px solid var(--warm-light); }
+  th { font-family: 'IBM Plex Mono', monospace; font-size: 0.65rem; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: var(--warm-mid); padding: 0.4rem 0.6rem; text-align: left; }
+  td { padding: 0.55rem 0.6rem; border-bottom: 1px solid var(--warm-faint); vertical-align: middle; }
+  tr:last-child td { border-bottom: none; }
+  tr:hover td { background: rgba(184,134,11,0.04); }
+
+  .kn { font-family: 'Noto Sans Kannada', sans-serif; font-size: 1rem; }
+  .kn-lg { font-family: 'Noto Serif Kannada', serif; font-size: 1.15rem; font-weight: 600; color: var(--rust); }
+  .kn-pa { font-family: 'Noto Serif Kannada', serif; font-size: 1.15rem; font-weight: 600; color: var(--gold); }
+  .kn-neg { font-family: 'Noto Serif Kannada', serif; font-size: 1.15rem; font-weight: 600; color: var(--neg); }
+  .kn-acc { font-family: 'Noto Serif Kannada', serif; font-size: 1.15rem; font-weight: 600; color: var(--accent); }
+  .eke { font-family: 'IBM Plex Mono', monospace; font-size: 0.78rem; color: var(--gold); }
+  .en { font-style: italic; color: var(--warm-mid); font-size: 0.88rem; }
+  .person { font-family: 'IBM Plex Mono', monospace; font-size: 0.72rem; color: var(--warm-mid); }
+
+  .suffix { font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; padding: 0.1rem 0.35rem; border-radius: 2px; color: #fff; }
+  .s-rust { background: var(--rust); }
+  .s-gold { background: var(--gold); }
+  .s-neg { background: var(--neg); }
+  .s-green { background: var(--accent); }
+
+  .rat { border-left: 2px solid var(--accent-light); }
+  .nonrat { border-left: 2px solid var(--warm-light); }
+
+  /* Non-finite numbered table */
+  .nf-num { font-family: 'IBM Plex Mono', monospace; font-size: 0.7rem; color: var(--warm-light); width: 1.5rem; text-align: center; }
+
+  /* Non-finite grouping */
+  .nf-group-header td {
+    background: var(--warm-faint);
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.65rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--warm-mid);
+    padding: 0.4rem 0.6rem;
+    border-bottom: 1px solid var(--warm-light);
+  }
+
+  /* Additional forms */
+  .additional-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+
+  .additional-card {
+    padding: 1rem 1.2rem;
+    border: 1px solid var(--warm-light);
+    background: #fff;
+  }
+
+  .additional-card .type {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.65rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--warm-mid);
+    margin-bottom: 0.5rem;
+  }
+
+  .additional-card .kn-form {
+    font-family: 'Noto Serif Kannada', serif;
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: var(--rust);
+    margin-bottom: 0.2rem;
+  }
+
+  .additional-card .eke-form {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.82rem;
+    color: var(--gold);
+    margin-bottom: 0.4rem;
+  }
+
+  .additional-card .meaning {
+    font-style: italic;
+    font-size: 0.9rem;
+    color: var(--warm-mid);
+  }
+
+  .additional-card .note {
+    font-size: 0.82rem;
+    color: var(--warm-light);
+    margin-top: 0.4rem;
+    line-height: 1.4;
+  }
+
+  /* Notes */
+  .notes { background: var(--warm-faint); border-left: 3px solid var(--gold); padding: 1.2rem 1.5rem; }
+  .notes h4 { font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--gold); margin-bottom: 0.8rem; }
+  .notes ul { list-style: none; display: flex; flex-direction: column; gap: 0.5rem; }
+  .notes li { font-size: 0.92rem; color: var(--warm-mid); padding-left: 1rem; position: relative; line-height: 1.5; }
+  .notes li::before { content: '—'; position: absolute; left: 0; color: var(--gold-light); }
+
+  footer { text-align: center; padding: 2rem 0; margin-top: 2rem; border-top: 1px solid var(--warm-faint); }
+  footer::before { content: ''; display: block; width: 40px; height: 1px; background: var(--gold-light); margin: 0 auto 1.5rem; }
+  footer p { font-family: 'IBM Plex Mono', monospace; font-size: 0.7rem; color: var(--warm-light); letter-spacing: 0.08em; line-height: 1.8; }
+  footer a { color: var(--gold); text-decoration: none; }
+
+  @media (max-width: 650px) {
+    .tense-grid { grid-template-columns: 1fr; }
+    .additional-grid { grid-template-columns: 1fr; }
+    .count-breakdown { grid-template-columns: 1fr; }
+    .title-kn { font-size: 3rem; }
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <header>
+    <div class="title-kn">ಮಾಡು</div>
+    <div class="title-eke">mADu</div>
+    <div class="title-en">to do / to make</div>
+    <div>
+      <div class="count-badge">
+        <strong>36</strong> <span>ಪದರೂಪಗಳು</span>
+        <span>·</span>
+        <span>23 ಕೊನೆ + 13 ನಡು</span>
+      </div>
+    </div>
+    <div class="subtitle">ಕನ್ನಡ ಬರಹದ ಸೊಲ್ಲರಿಮೆ Vol 2 §5.1.1 · DNS Bhat · ettuge</div>
+  </header>
+
+  <!-- Count breakdown -->
+  <div class="count-breakdown">
+    <div class="count-cell">
+      <div class="count-num">23</div>
+      <div class="count-label">ಕೊನೆರೂಪ</div>
+      <div class="count-sub">18 indicative + 5 imperative</div>
+    </div>
+    <div class="count-cell">
+      <div class="count-num">13</div>
+      <div class="count-label">ನಡುರೂಪ</div>
+      <div class="count-sub">+ 2 additional beyond 36</div>
+    </div>
+    <div class="count-cell total">
+      <div class="count-num">36</div>
+      <div class="count-label">ಒಟ್ಟು</div>
+      <div class="count-sub">ತಿರುಳೆಸಕಪದ standard</div>
+    </div>
+  </div>
+
+  <!-- 18 Indicative -->
+  <div class="section">
+    <div class="section-header">
+      <span class="section-title-kn">ತಿಳಿವುರೂಪ</span>
+      <span class="section-title-eke">tiLivurUpa</span>
+      <span class="section-title-en">Indicative — 18 forms (2 × 9)</span>
+    </div>
+
+    <div class="tense-grid">
+
+      <div class="tense-block past">
+        <h4>ಹಿಂಬೊತ್ತು · past · stem + -ಇದ-</h4>
+        <table>
+          <thead><tr><th>Person</th><th>ಒಂಟಿ</th><th>ಹಲವು</th></tr></thead>
+          <tbody>
+            <tr><td class="person">1st</td><td class="kn-pa">ಮಾಡಿದೆ</td><td class="kn-pa">ಮಾಡಿದೆವು</td></tr>
+            <tr><td class="person">2nd</td><td class="kn-pa">ಮಾಡಿದೆ</td><td class="kn-pa">ಮಾಡಿದಿರಿ</td></tr>
+            <tr class="rat"><td class="person">3m</td><td class="kn-pa">ಮಾಡಿದನು</td><td class="kn-pa">ಮಾಡಿದರು</td></tr>
+            <tr class="rat"><td class="person">3f</td><td class="kn-pa">ಮಾಡಿದಳು</td><td class="kn-pa">ಮಾಡಿದರು</td></tr>
+            <tr class="nonrat"><td class="person">3n</td><td class="kn-pa">ಮಾಡಿತು</td><td class="kn-pa">ಮಾಡಿದವು</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div class="tense-block nonpast">
+        <h4>ಮುಂಬೊತ್ತು · non-past · stem + -ಉತ್ತ-</h4>
+        <table>
+          <thead><tr><th>Person</th><th>ಒಂಟಿ</th><th>ಹಲವು</th></tr></thead>
+          <tbody>
+            <tr><td class="person">1st</td><td class="kn-lg">ಮಾಡುತ್ತೇನೆ</td><td class="kn-lg">ಮಾಡುತ್ತೇವೆ</td></tr>
+            <tr><td class="person">2nd</td><td class="kn-lg">ಮಾಡುತ್ತೀಯ</td><td class="kn-lg">ಮಾಡುತ್ತೀರಿ</td></tr>
+            <tr class="rat"><td class="person">3m</td><td class="kn-lg">ಮಾಡುತ್ತಾನೆ</td><td class="kn-lg">ಮಾಡುತ್ತಾರೆ</td></tr>
+            <tr class="rat"><td class="person">3f</td><td class="kn-lg">ಮಾಡುತ್ತಾಳೆ</td><td class="kn-lg">ಮಾಡುತ್ತಾರೆ</td></tr>
+            <tr class="nonrat"><td class="person">3n</td><td class="kn-lg">ಮಾಡುತ್ತದೆ</td><td class="kn-lg">ಮಾಡುತ್ತವೆ</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+    </div>
+
+    <p style="font-size:0.85rem;font-style:italic;color:var(--warm-mid);">
+      Rational/non-rational split: <span style="border-left:2px solid var(--accent-light);padding-left:0.4rem;margin-right:1rem;">rational (persons, deities)</span>
+      <span style="border-left:2px solid var(--warm-light);padding-left:0.4rem;">non-rational (objects, abstracts)</span>
+      · Plural 3m/3f merge → one rational plural form.
+    </p>
+  </div>
+
+  <!-- Imperatives -->
+  <div class="section">
+    <div class="section-header">
+      <span class="section-title-kn">ಅರಿಕೆರೂಪ</span>
+      <span class="section-title-eke">arikerUpa</span>
+      <span class="section-title-en">Imperative — 5 forms</span>
+    </div>
+    <table style="max-width:520px;">
+      <thead><tr><th>Person</th><th>ಕನ್ನಡ</th><th>Eke</th><th>ಹುರುಳು</th></tr></thead>
+      <tbody>
+        <tr><td class="person">1sg</td><td class="kn-lg">ಮಾಡಲಿ</td><td class="eke">mADali</td><td class="en">let me do</td></tr>
+        <tr><td class="person">2sg</td><td class="kn-lg">ಮಾಡು</td><td class="eke">mADu</td><td class="en">do!</td></tr>
+        <tr><td class="person">2pl</td><td class="kn-lg">ಮಾಡಿ / ಮಾಡಿರಿ</td><td class="eke">mADi / mADiri</td><td class="en">do! (plural)</td></tr>
+        <tr><td class="person">1pl</td><td class="kn-lg">ಮಾಡೋಣ</td><td class="eke">mADONa</td><td class="en">let us do</td></tr>
+        <tr><td class="person">3 (any)</td><td class="kn-lg">ಮಾಡಲಿ</td><td class="eke">mADali</td><td class="en">let (them) do</td></tr>
+      </tbody>
+    </table>
+    <p style="font-size:0.85rem;font-style:italic;color:var(--warm-mid);margin-top:0.6rem;">
+      No tense distinction · No gender distinction · 1sg and 3rd forms identical (context disambiguates).
+    </p>
+  </div>
+
+  <!-- 13 Non-finite -->
+  <div class="section">
+    <div class="section-header">
+      <span class="section-title-kn">ನಡುರೂಪ</span>
+      <span class="section-title-eke">naDurUpa</span>
+      <span class="section-title-en">Non-finite — 13 forms</span>
+    </div>
+    <table>
+      <thead><tr><th>#</th><th>ಬಗೆ / Type</th><th>ಒಟ್ಟು</th><th>ಕನ್ನಡ</th><th>Eke</th><th>ಹುರುಳು</th></tr></thead>
+      <tbody>
+        <tr class="nf-group-header"><td colspan="6">ಪರಿಚೆರೂಪ — Participials (3)</td></tr>
+        <tr>
+          <td class="nf-num">1</td>
+          <td class="en">non-past</td>
+          <td><span class="suffix s-rust">-ಉವ</span></td>
+          <td class="kn-lg">ಮಾಡುವ</td>
+          <td class="eke">mADuva</td>
+          <td class="en">doing / who does</td>
+        </tr>
+        <tr>
+          <td class="nf-num">2</td>
+          <td class="en">past</td>
+          <td><span class="suffix s-gold">-ಇದ</span></td>
+          <td class="kn-pa">ಮಾಡಿದ</td>
+          <td class="eke">mADida</td>
+          <td class="en">done / who did</td>
+        </tr>
+        <tr>
+          <td class="nf-num">3</td>
+          <td class="en">negative</td>
+          <td><span class="suffix s-neg">-ಅದ</span></td>
+          <td class="kn-neg">ಮಾಡದ</td>
+          <td class="eke">mADada</td>
+          <td class="en">not done / undone</td>
+        </tr>
+        <tr class="nf-group-header"><td colspan="6">ಜೋಡಿಸುವ ರೂಪ — Converbs (4)</td></tr>
+        <tr>
+          <td class="nf-num">4</td>
+          <td class="en">prior (sequential)</td>
+          <td><span class="suffix s-gold">-ಇ</span></td>
+          <td class="kn-pa">ಮಾಡಿ</td>
+          <td class="eke">mADi</td>
+          <td class="en">having done (then…)</td>
+        </tr>
+        <tr>
+          <td class="nf-num">5</td>
+          <td class="en">simultaneous</td>
+          <td><span class="suffix s-rust">-ಉತ್ತ</span></td>
+          <td class="kn-lg">ಮಾಡುತ್ತ</td>
+          <td class="eke">mADutta</td>
+          <td class="en">while doing</td>
+        </tr>
+        <tr>
+          <td class="nf-num">6</td>
+          <td class="en">posterior (purposive)</td>
+          <td><span class="suffix s-rust">-ಅಲು</span></td>
+          <td class="kn-lg">ಮಾಡಲು</td>
+          <td class="eke">mADalu</td>
+          <td class="en">in order to do</td>
+        </tr>
+        <tr>
+          <td class="nf-num">7</td>
+          <td class="en">negative</td>
+          <td><span class="suffix s-neg">-ಅದೆ</span></td>
+          <td class="kn-neg">ಮಾಡದೆ</td>
+          <td class="eke">mADade</td>
+          <td class="en">without doing</td>
+        </tr>
+        <tr class="nf-group-header"><td colspan="6">ಬೇಡಿಕೆರೂಪ — Conditional (1)</td></tr>
+        <tr>
+          <td class="nf-num">8</td>
+          <td class="en">conditional</td>
+          <td><span class="suffix s-gold">-ರೆ</span></td>
+          <td class="kn-pa">ಮಾಡಿದರೆ</td>
+          <td class="eke">mADidare</td>
+          <td class="en">if (one) does</td>
+        </tr>
+        <tr class="nf-group-header"><td colspan="6">ಉದು-ಹೆಸರು — Verbal Nouns (3)</td></tr>
+        <tr>
+          <td class="nf-num">9</td>
+          <td class="en">non-past</td>
+          <td><span class="suffix s-rust">-ಉವುದು</span></td>
+          <td class="kn-lg">ಮಾಡುವುದು</td>
+          <td class="eke">mADuvudu</td>
+          <td class="en">the act of doing</td>
+        </tr>
+        <tr>
+          <td class="nf-num">10</td>
+          <td class="en">past</td>
+          <td><span class="suffix s-gold">-ಇದುದು</span></td>
+          <td class="kn-pa">ಮಾಡಿದುದು</td>
+          <td class="eke">mADidudu</td>
+          <td class="en">the act of having done</td>
+        </tr>
+        <tr>
+          <td class="nf-num">11</td>
+          <td class="en">negative</td>
+          <td><span class="suffix s-neg">-ಅದುದು</span></td>
+          <td class="kn-neg">ಮಾಡದುದು</td>
+          <td class="eke">mADadudu</td>
+          <td class="en">the act of not doing</td>
+        </tr>
+        <tr class="nf-group-header"><td colspan="6">ಇಕೆ-ಹೆಸರು — -ike Nouns (2)</td></tr>
+        <tr>
+          <td class="nf-num">12</td>
+          <td class="en">non-past</td>
+          <td><span class="suffix s-rust">-ಉವಿಕೆ</span></td>
+          <td class="kn-lg">ಮಾಡುವಿಕೆ</td>
+          <td class="eke">mADuvike</td>
+          <td class="en">doing (abstract noun)</td>
+        </tr>
+        <tr>
+          <td class="nf-num">13</td>
+          <td class="en">negative</td>
+          <td><span class="suffix s-neg">-ಅದಿಕೆ</span></td>
+          <td class="kn-neg">ಮಾಡದಿಕೆ</td>
+          <td class="eke">mADadike</td>
+          <td class="en">not-doing (abstract noun)</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Additional 2 -->
+  <div class="section">
+    <div class="section-header">
+      <span class="section-title-kn">ಹೆಚ್ಚಿನ ರೂಪಗಳು</span>
+      <span class="section-title-eke">heccina rUpagaLu</span>
+      <span class="section-title-en">2 Additional Forms — beyond the 36</span>
+    </div>
+    <p style="font-size:0.88rem;font-style:italic;color:var(--warm-mid);margin-bottom:1rem;">
+      Bhat lists these separately — productive across all verbs but not counted in the standard 36.
+    </p>
+    <div class="additional-grid">
+      <div class="additional-card">
+        <div class="type">ಆಗಿಸುವ ರೂಪ · Causative</div>
+        <div class="kn-form">ಮಾಡಿಸು</div>
+        <div class="eke-form">mADisu</div>
+        <div class="meaning">to cause (someone) to do</div>
+        <div class="note">prior converb + ಇಸು · productive with all verbs · ಮಾಡಿ + ಸು</div>
+      </div>
+      <div class="additional-card">
+        <div class="type">ಸೇರಿಸುವ ರೂಪ · Reflexive/Benefactive</div>
+        <div class="kn-form">ಮಾಡಿಕೊಳ್ಳು</div>
+        <div class="eke-form">mADikoLLu</div>
+        <div class="meaning">to do for oneself</div>
+        <div class="note">prior converb + ಕೊಳ್ಳು (to take/receive) · marks self-benefit</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Notes -->
+  <div class="section">
+    <div class="notes">
+      <h4>ಒಳನೋಟ — Key Notes</h4>
+      <ul>
+        <li><strong>ಅರಿಕೆರೂಪ (imperatives)</strong>: No tense or gender. 1sg and 3rd share the same form ಮಾಡಲಿ — context disambiguates. The 2sg bare stem ಮಾಡು is identical to the infinitive.</li>
+        <li><strong>ಜೋಡಿಸುವ ರೂಪ (converbs)</strong>: Four types allow complex temporal chaining without finite verbs — a distinctively Dravidian strategy. ಮಾಡದೆ (without doing) differs from ಮಾಡದ (negative participial) — different suffix, different function.</li>
+        <li><strong>ಉದು-ಹೆಸರು three-way</strong>: non-past / past / negative. The past verbal noun ಮಾಡಿದುದು is less common in speech but grammatically regular and takes full case suffixes.</li>
+        <li><strong>ಇಕೆ-ಹೆಸರು two-way only</strong>: non-past and negative. No past -ike noun (*ಮಾಡಿದಿಕೆ does not exist).</li>
+        <li><strong>ಸೇರಿಸುವ ರೂಪ</strong>: ಮಾಡಿಕೊಳ್ಳು marks that the action benefits the subject — "do for oneself." Productive with all verbs: ತಿನ್ನಿಕೊಳ್ಳು (eat for oneself), ತೊಳೆದುಕೊಳ್ಳು (wash oneself).</li>
+        <li><strong>Rational/non-rational</strong>: Plural 3rd masculine and feminine merge — ಮಾಡಿದರು / ಮಾಡುತ್ತಾರೆ serve both. Only singular distinguishes gender.</li>
+      </ul>
+    </div>
+  </div>
+
+  <footer>
+    <p>
+      ಕನ್ನಡ ಬರಹದ ಸೊಲ್ಲರಿಮೆ Vol 2, §5.1.1 · DNS Bhat (Book 07)<br>
+      <a href="https://github.com/vwulf/ettuge">github.com/vwulf/ettuge</a> · ettuge Kannada Linguistics
+    </p>
+  </footer>
+
+</div>
+</body>
+</html>

@@ -25,12 +25,18 @@ jobs:
       - name: Copy Kannada markdown sources into docs/kannaDa/
         run: |
           rm -rf docs/kannaDa docs/dnsbhat || true
-          mkdir -p docs/kannaDa/dnsbhat docs/kannaDa/eke
+          mkdir -p docs/kannaDa/dnsbhat docs/kannaDa/eke docs/kannaDa/grammar
           cp -R src/main/md/kannada/dnsbhat/. docs/kannaDa/dnsbhat/
           cp -R src/main/md/kannada/eke/. docs/kannaDa/eke/
+          cp src/main/md/kannada/grammar/*.md  docs/kannaDa/grammar/
+          cp src/main/md/kannada/grammar/*.html docs/kannaDa/grammar/
           # README.md → index.md for dnsbhat (nav_exclude set by Python script)
           if [ -f docs/kannaDa/dnsbhat/README.md ]; then
             mv docs/kannaDa/dnsbhat/README.md docs/kannaDa/dnsbhat/index.md
+          fi
+          # README.md → index.md for grammar
+          if [ -f docs/kannaDa/grammar/README.md ]; then
+            mv docs/kannaDa/grammar/README.md docs/kannaDa/grammar/index.md
           fi
 
       - name: Copy Books catalog into docs/Books/
@@ -375,6 +381,39 @@ jobs:
                   body = strip_fm(content)
                   with open(fp, 'w', encoding='utf-8') as f:
                       f.write(fm(title=page_title, parent=EKE_TITLE, nav_order=page_nav))
+                      f.write(body)
+                  sidebar_files.add(fp)
+
+          # ── Pass 4b: Grammar paradigm pages — L2 under DNS Bhat sibling section ──────
+          GRAMMARDIR   = 'docs/kannaDa/grammar'
+          GRAMMAR_TITLE = 'Verb Paradigms'
+          GRAMMAR_PAGES = [
+              ('mADu-verb-paradigm', 'ಮಾಡು — Regular Verb (36 forms)', 1),
+              ('iru-verb-paradigm',  'ಇರು — to be (42 forms)',          2),
+              ('illa-verb-paradigm', 'ಇಲ್ಲ — Negator (5 forms)',        3),
+          ]
+          if os.path.isdir(GRAMMARDIR):
+              # Root index page
+              idx = os.path.join(GRAMMARDIR, 'index.md')
+              if os.path.exists(idx):
+                  with open(idx, encoding='utf-8') as f:
+                      body = strip_fm(f.read())
+                  body = re.sub(r'\]\(((?!http)[^)]+)\.md\)', r'](\1)', body)
+                  with open(idx, 'w', encoding='utf-8') as f:
+                      f.write(fm(title=GRAMMAR_TITLE, nav_order=4,
+                                 has_children=True))
+                      f.write(body)
+                  sidebar_files.add(idx)
+              # Child pages
+              for slug, title, nav in GRAMMAR_PAGES:
+                  fp = os.path.join(GRAMMARDIR, f'{slug}.md')
+                  if not os.path.exists(fp):
+                      continue
+                  with open(fp, encoding='utf-8') as f:
+                      body = strip_fm(f.read())
+                  body = re.sub(r'\]\(((?!http)[^)]+)\.md\)', r'](\1)', body)
+                  with open(fp, 'w', encoding='utf-8') as f:
+                      f.write(fm(title=title, parent=GRAMMAR_TITLE, nav_order=nav))
                       f.write(body)
                   sidebar_files.add(fp)
 

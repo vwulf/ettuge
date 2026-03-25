@@ -1,0 +1,713 @@
+<!DOCTYPE html>
+<html lang="kn">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ಇರು — iru · 42 Verb Forms</title>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Kannada:wght@300;400;600;700&family=Noto+Serif+Kannada:wght@400;700&family=IBM+Plex+Mono:wght@400;500&family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #0f1a1f;
+    --paper: #eef3f5;
+    --teal: #1a5f6b;
+    --teal-light: #2a8a9a;
+    --teal-faint: #d0e8ec;
+    --gold: #8b6914;
+    --gold-light: #c49a1e;
+    --warm-mid: #4a5a60;
+    --warm-light: #9ab0b8;
+    --warm-faint: #dde8ec;
+    --present: #2d5a3d;
+    --present-light: #4a8a5a;
+    --present-faint: #d8ecdd;
+    --irreg: #7a1a3a;
+    --irreg-light: #b02a5a;
+    --irreg-faint: #f0d8e0;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: 'Cormorant Garamond', serif;
+    min-height: 100vh;
+    padding: 3rem 2rem;
+    background-image:
+      radial-gradient(ellipse at 10% 10%, rgba(26,95,107,0.07) 0%, transparent 50%),
+      radial-gradient(ellipse at 90% 90%, rgba(122,26,58,0.05) 0%, transparent 50%);
+  }
+
+  .page { max-width: 960px; margin: 0 auto; }
+
+  header {
+    text-align: center;
+    padding: 3rem 0 2rem;
+    border-bottom: 1px solid var(--warm-light);
+    margin-bottom: 2.5rem;
+  }
+
+  header::before {
+    content: '';
+    display: block;
+    width: 60px;
+    height: 2px;
+    background: var(--teal-light);
+    margin: 0 auto 2rem;
+  }
+
+  .title-kn {
+    font-family: 'Noto Serif Kannada', serif;
+    font-size: 4rem;
+    font-weight: 700;
+    color: var(--teal);
+    line-height: 1;
+    margin-bottom: 0.4rem;
+  }
+
+  .title-eke {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 1.1rem;
+    color: var(--gold-light);
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    margin-bottom: 0.8rem;
+  }
+
+  .title-en { font-style: italic; font-size: 1.2rem; color: var(--warm-mid); }
+
+  .count-badge {
+    display: inline-flex;
+    gap: 0.5rem;
+    align-items: center;
+    margin-top: 1.2rem;
+    padding: 0.5rem 1.2rem;
+    background: var(--teal);
+    color: #fff;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.85rem;
+    letter-spacing: 0.1em;
+  }
+
+  .count-badge span { opacity: 0.7; }
+
+  .subtitle {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.75rem;
+    color: var(--warm-light);
+    letter-spacing: 0.08em;
+    margin-top: 1rem;
+  }
+
+  /* Stems */
+  .stem-map {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 0.8rem;
+    margin-bottom: 2.5rem;
+    animation: fadeIn 0.4s ease both;
+  }
+
+  .stem-card {
+    padding: 1rem;
+    text-align: center;
+    background: #fff;
+    border: 1px solid var(--warm-light);
+  }
+
+  .stem-card.np { border-top: 3px solid var(--teal-light); }
+  .stem-card.pr { border-top: 3px solid var(--present-light); }
+  .stem-card.pa { border-top: 3px solid var(--gold-light); }
+  .stem-card.ng { border-top: 3px solid var(--irreg-light); }
+
+  .stem-label {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.6rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--warm-mid);
+    margin-bottom: 0.5rem;
+  }
+
+  .stem-kn {
+    font-family: 'Noto Serif Kannada', serif;
+    font-size: 1.7rem;
+    font-weight: 700;
+    line-height: 1.1;
+    margin-bottom: 0.2rem;
+  }
+
+  .stem-kn.np { color: var(--teal); }
+  .stem-kn.pr { color: var(--present); }
+  .stem-kn.pa { color: var(--gold); }
+  .stem-kn.ng { color: var(--irreg); }
+
+  .stem-eke {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.75rem;
+    color: var(--warm-mid);
+  }
+
+  .stem-note {
+    font-family: 'Noto Sans Kannada', sans-serif;
+    font-size: 0.7rem;
+    color: var(--warm-light);
+    margin-top: 0.4rem;
+  }
+
+  /* Count breakdown */
+  .count-breakdown {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 0;
+    border: 1px solid var(--warm-light);
+    margin-bottom: 2.5rem;
+    background: #fff;
+    animation: fadeIn 0.5s ease both;
+    animation-delay: 0.1s;
+  }
+
+  .count-cell {
+    padding: 1.2rem;
+    text-align: center;
+    border-right: 1px solid var(--warm-faint);
+  }
+
+  .count-cell:last-child { border-right: none; }
+  .count-cell.total { background: var(--teal); color: #fff; }
+
+  .count-num {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 2.5rem;
+    font-weight: 500;
+    line-height: 1;
+    margin-bottom: 0.3rem;
+  }
+
+  .count-cell.total .count-num { color: #fff; font-size: 3rem; }
+  .count-cell:not(.total) .count-num { color: var(--teal); }
+
+  .count-label {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.65rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--warm-mid);
+  }
+
+  .count-cell.total .count-label { color: rgba(255,255,255,0.7); }
+
+  .count-sub {
+    font-style: italic;
+    font-size: 0.8rem;
+    color: var(--warm-light);
+    margin-top: 0.3rem;
+  }
+
+  .count-cell.total .count-sub { color: rgba(255,255,255,0.5); }
+
+  /* Sections */
+  .section {
+    margin-bottom: 3rem;
+    animation: fadeIn 0.6s ease both;
+  }
+
+  .section:nth-child(5) { animation-delay: 0.1s; }
+  .section:nth-child(6) { animation-delay: 0.2s; }
+  .section:nth-child(7) { animation-delay: 0.3s; }
+  .section:nth-child(8) { animation-delay: 0.4s; }
+
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  .section-header {
+    display: flex;
+    align-items: baseline;
+    gap: 1rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--warm-faint);
+  }
+
+  .section-title-kn {
+    font-family: 'Noto Serif Kannada', serif;
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: var(--teal);
+  }
+
+  .section-title-eke {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.72rem;
+    color: var(--gold-light);
+    letter-spacing: 0.1em;
+  }
+
+  .section-title-en {
+    font-style: italic;
+    font-size: 0.95rem;
+    color: var(--warm-mid);
+    margin-left: auto;
+  }
+
+  .tense-note {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.78rem;
+    color: var(--warm-mid);
+    margin-bottom: 0.8rem;
+    padding: 0.4rem 0.8rem;
+    display: inline-block;
+  }
+
+  .tense-note.np { background: var(--teal-faint); border-left: 2px solid var(--teal-light); }
+  .tense-note.pr { background: var(--present-faint); border-left: 2px solid var(--present-light); }
+  .tense-note.pa { background: #f5efda; border-left: 2px solid var(--gold-light); }
+  .tense-note.ng { background: var(--irreg-faint); border-left: 2px solid var(--irreg-light); }
+
+  /* Three-tense grid */
+  .tense-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .tense-block h4 {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.68rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    padding: 0.4rem 0.6rem;
+    margin-bottom: 0.6rem;
+  }
+
+  .tense-block.np h4 { background: var(--teal-faint); color: var(--teal); }
+  .tense-block.pr h4 { background: var(--present-faint); color: var(--present); }
+  .tense-block.pa h4 { background: #f5efda; color: var(--gold); }
+
+  /* Tables */
+  table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+  thead tr { border-bottom: 1px solid var(--warm-light); }
+  th {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.65rem;
+    font-weight: 500;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--warm-mid);
+    padding: 0.4rem 0.6rem;
+    text-align: left;
+  }
+  td { padding: 0.55rem 0.6rem; border-bottom: 1px solid var(--warm-faint); vertical-align: middle; }
+  tr:last-child td { border-bottom: none; }
+  tr:hover td { background: rgba(26,95,107,0.03); }
+
+  .kn { font-family: 'Noto Sans Kannada', sans-serif; font-size: 1rem; }
+  .kn-lg { font-family: 'Noto Serif Kannada', serif; font-size: 1.15rem; font-weight: 600; color: var(--teal); }
+  .kn-pr { font-family: 'Noto Serif Kannada', serif; font-size: 1.15rem; font-weight: 600; color: var(--present); }
+  .kn-pa { font-family: 'Noto Serif Kannada', serif; font-size: 1.15rem; font-weight: 600; color: var(--gold); }
+  .kn-ir { font-family: 'Noto Serif Kannada', serif; font-size: 1.15rem; font-weight: 600; color: var(--irreg); }
+  .eke { font-family: 'IBM Plex Mono', monospace; font-size: 0.78rem; color: var(--gold-light); }
+  .en { font-style: italic; color: var(--warm-mid); font-size: 0.88rem; }
+  .person { font-family: 'IBM Plex Mono', monospace; font-size: 0.72rem; color: var(--warm-mid); }
+
+  .suffix { font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; padding: 0.1rem 0.35rem; border-radius: 2px; color: #fff; }
+  .s-teal { background: var(--teal); }
+  .s-green { background: var(--present); }
+  .s-gold { background: var(--gold); }
+  .s-red { background: var(--irreg); }
+
+  .irreg-badge {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.6rem;
+    background: var(--irreg-faint);
+    color: var(--irreg);
+    border: 1px solid var(--irreg-light);
+    padding: 0.05rem 0.3rem;
+    border-radius: 2px;
+    margin-left: 0.3rem;
+    vertical-align: middle;
+  }
+
+  .unique-badge {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.6rem;
+    background: var(--present-faint);
+    color: var(--present);
+    border: 1px solid var(--present-light);
+    padding: 0.05rem 0.3rem;
+    border-radius: 2px;
+    margin-left: 0.3rem;
+  }
+
+  .rat { border-left: 2px solid var(--teal-light); }
+  .nonrat { border-left: 2px solid var(--warm-light); }
+
+  /* Non-finite */
+  .nf-table td:first-child { font-family: 'IBM Plex Mono', monospace; font-size: 0.72rem; color: var(--warm-mid); width: 1.5rem; text-align: center; }
+
+  /* Comparison */
+  .compare-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.5rem;
+  }
+
+  .compare-col { border: 1px solid var(--warm-light); }
+
+  .compare-head {
+    padding: 0.8rem 1rem;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.72rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+
+  .compare-head.regular { background: var(--warm-faint); color: var(--warm-mid); }
+  .compare-head.iru { background: var(--teal); color: #fff; }
+
+  .compare-row {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem 1rem;
+    border-top: 1px solid var(--warm-faint);
+    font-size: 0.9rem;
+  }
+
+  .compare-row .label { color: var(--warm-mid); font-style: italic; }
+  .compare-row .val { font-family: 'IBM Plex Mono', monospace; font-weight: 500; }
+  .compare-row .val.highlight { color: var(--teal); }
+  .compare-row.total-row { background: var(--warm-faint); }
+  .compare-row.total-row .val { font-size: 1.1rem; color: var(--teal); }
+
+  /* illa box */
+  .illa-box {
+    background: var(--irreg-faint);
+    border: 1px solid var(--irreg-light);
+    padding: 1.2rem 1.5rem;
+  }
+
+  .illa-box h4 {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.68rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--irreg);
+    margin-bottom: 0.8rem;
+  }
+
+  .illa-box p {
+    font-family: 'Noto Sans Kannada', sans-serif;
+    font-size: 0.95rem;
+    color: var(--warm-mid);
+    margin-bottom: 0.8rem;
+    line-height: 1.6;
+  }
+
+  /* Cognates */
+  .cognates { display: flex; gap: 2rem; flex-wrap: wrap; margin-top: 0.8rem; }
+  .cognate { text-align: center; }
+  .cognate-lang { font-family: 'IBM Plex Mono', monospace; font-size: 0.6rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--warm-light); margin-bottom: 0.2rem; }
+  .cognate-word { font-family: 'IBM Plex Mono', monospace; font-size: 0.9rem; color: var(--irreg-light); }
+
+  /* Notes */
+  .notes {
+    background: var(--warm-faint);
+    border-left: 3px solid var(--teal-light);
+    padding: 1.2rem 1.5rem;
+  }
+
+  .notes h4 {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.68rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--teal-light);
+    margin-bottom: 0.8rem;
+  }
+
+  .notes ul { list-style: none; display: flex; flex-direction: column; gap: 0.5rem; }
+
+  .notes li {
+    font-size: 0.92rem;
+    color: var(--warm-mid);
+    padding-left: 1rem;
+    position: relative;
+    line-height: 1.5;
+  }
+
+  .notes li::before { content: '—'; position: absolute; left: 0; color: var(--teal-light); }
+
+  footer {
+    text-align: center;
+    padding: 2rem 0;
+    margin-top: 2rem;
+    border-top: 1px solid var(--warm-faint);
+  }
+
+  footer::before { content: ''; display: block; width: 40px; height: 1px; background: var(--teal-light); margin: 0 auto 1.5rem; }
+
+  footer p { font-family: 'IBM Plex Mono', monospace; font-size: 0.7rem; color: var(--warm-light); letter-spacing: 0.08em; line-height: 1.8; }
+  footer a { color: var(--teal-light); text-decoration: none; }
+
+  @media (max-width: 650px) {
+    .stem-map { grid-template-columns: repeat(2, 1fr); }
+    .tense-grid { grid-template-columns: 1fr; }
+    .compare-grid { grid-template-columns: 1fr; }
+    .count-breakdown { grid-template-columns: 1fr; }
+    .title-kn { font-size: 3rem; }
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <header>
+    <div class="title-kn">ಇರು</div>
+    <div class="title-eke">iru</div>
+    <div class="title-en">to be / to exist / to abide</div>
+    <div>
+      <div class="count-badge">
+        <strong>42</strong> <span>ಪದರೂಪಗಳು</span>
+        <span>·</span>
+        <span>32 ಕೊನೆ + 10 ನಡು</span>
+      </div>
+    </div>
+    <div class="subtitle">ಕನ್ನಡ ಬರಹದ ಸೊಲ್ಲರಿಮೆ Vol 2 §5.1.1 · DNS Bhat · ettuge</div>
+  </header>
+
+  <!-- Count breakdown -->
+  <div class="count-breakdown">
+    <div class="count-cell">
+      <div class="count-num">32</div>
+      <div class="count-label">ಕೊನೆರೂಪ</div>
+      <div class="count-sub">27 indicative + 5 imperative</div>
+    </div>
+    <div class="count-cell">
+      <div class="count-num">10</div>
+      <div class="count-label">ನಡುರೂಪ</div>
+      <div class="count-sub">vs 13 for regular verbs</div>
+    </div>
+    <div class="count-cell total">
+      <div class="count-num">42</div>
+      <div class="count-label">ಒಟ್ಟು</div>
+      <div class="count-sub">vs 36 for regular verbs</div>
+    </div>
+  </div>
+
+  <!-- Stem map -->
+  <div class="stem-map">
+    <div class="stem-card np">
+      <div class="stem-label">Non-past · ಮುಂಬೊತ್ತು</div>
+      <div class="stem-kn np">ಇರ್-</div>
+      <div class="stem-eke">ir-</div>
+      <div class="stem-note">ಇರುತ್ತೇನೆ · ಇರುವ</div>
+    </div>
+    <div class="stem-card pr">
+      <div class="stem-label">Present · ಈಪೊತ್ತು <span class="unique-badge">unique</span></div>
+      <div class="stem-kn pr">ಇದ್ದ-/ಇ-</div>
+      <div class="stem-eke">idda-/i-</div>
+      <div class="stem-note">ಇದ್ದಾನೆ · ಇದೆ · ಇವೆ</div>
+    </div>
+    <div class="stem-card pa">
+      <div class="stem-label">Past · ಹಿಂಬೊತ್ತು</div>
+      <div class="stem-kn pa">ಇದ್ದ-</div>
+      <div class="stem-eke">idda-</div>
+      <div class="stem-note">ಇದ್ದೆ · ಇದ್ದನು · ಇತ್ತು</div>
+    </div>
+    <div class="stem-card ng">
+      <div class="stem-label">Negative · suppletive</div>
+      <div class="stem-kn ng">ಇಲ್ಲ-</div>
+      <div class="stem-eke">illa-</div>
+      <div class="stem-note">ಇಲ್ಲ · ಇಲ್ಲದ (separate word)</div>
+    </div>
+  </div>
+
+  <!-- 27 Indicative -->
+  <div class="section">
+    <div class="section-header">
+      <span class="section-title-kn">ತಿಳಿವುರೂಪ</span>
+      <span class="section-title-eke">tiLivurUpa</span>
+      <span class="section-title-en">Indicative — 27 forms (3 × 9)</span>
+    </div>
+
+    <div class="tense-grid">
+
+      <!-- Non-past -->
+      <div class="tense-block np">
+        <h4>ಮುಂಬೊತ್ತು · non-past · stem ಇರ್-</h4>
+        <table>
+          <thead><tr><th>Person</th><th>ಒಂಟಿ</th><th>ಹಲವು</th></tr></thead>
+          <tbody>
+            <tr><td class="person">1st</td><td class="kn-lg">ಇರುತ್ತೇನೆ</td><td class="kn-lg">ಇರುತ್ತೇವೆ</td></tr>
+            <tr><td class="person">2nd</td><td class="kn-lg">ಇರುತ್ತೀಯ</td><td class="kn-lg">ಇರುತ್ತೀರಿ</td></tr>
+            <tr class="rat"><td class="person">3m</td><td class="kn-lg">ಇರುತ್ತಾನೆ</td><td class="kn-lg">ಇರುತ್ತಾರೆ</td></tr>
+            <tr class="rat"><td class="person">3f</td><td class="kn-lg">ಇರುತ್ತಾಳೆ</td><td class="kn-lg">ಇರುತ್ತಾರೆ</td></tr>
+            <tr class="nonrat"><td class="person">3n</td><td class="kn-lg">ಇರುತ್ತದೆ</td><td class="kn-lg">ಇರುತ್ತವೆ</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!-- Present -->
+      <div class="tense-block pr">
+        <h4>ಈಪೊತ್ತು · present · stem ಇದ್ದ-/ಇ- <span class="unique-badge">unique to ಇರು</span></h4>
+        <table>
+          <thead><tr><th>Person</th><th>ಒಂಟಿ</th><th>ಹಲವು</th></tr></thead>
+          <tbody>
+            <tr><td class="person">1st</td><td class="kn-pr">ಇದ್ದೇನೆ</td><td class="kn-pr">ಇದ್ದೇವೆ</td></tr>
+            <tr><td class="person">2nd</td><td class="kn-pr">ಇದ್ದೀಯ</td><td class="kn-pr">ಇದ್ದೀರಿ</td></tr>
+            <tr class="rat"><td class="person">3m</td><td class="kn-pr">ಇದ್ದಾನೆ</td><td class="kn-pr">ಇದ್ದಾರೆ</td></tr>
+            <tr class="rat"><td class="person">3f</td><td class="kn-pr">ಇದ್ದಾಳೆ</td><td class="kn-pr">ಇದ್ದಾರೆ</td></tr>
+            <tr class="nonrat"><td class="person">3n <span class="irreg-badge">irreg</span></td><td class="kn-ir">ಇದೆ</td><td class="kn-ir">ಇವೆ</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!-- Past -->
+      <div class="tense-block pa">
+        <h4>ಹಿಂಬೊತ್ತು · past · stem ಇದ್ದ-</h4>
+        <table>
+          <thead><tr><th>Person</th><th>ಒಂಟಿ</th><th>ಹಲವು</th></tr></thead>
+          <tbody>
+            <tr><td class="person">1st</td><td class="kn-pa">ಇದ್ದೆ</td><td class="kn-pa">ಇದ್ದೆವು</td></tr>
+            <tr><td class="person">2nd</td><td class="kn-pa">ಇದ್ದೆ</td><td class="kn-pa">ಇದ್ದಿರಿ</td></tr>
+            <tr class="rat"><td class="person">3m</td><td class="kn-pa">ಇದ್ದನು</td><td class="kn-pa">ಇದ್ದರು</td></tr>
+            <tr class="rat"><td class="person">3f</td><td class="kn-pa">ಇದ್ದಳು</td><td class="kn-pa">ಇದ್ದರು</td></tr>
+            <tr class="nonrat"><td class="person">3n <span class="irreg-badge">irreg</span></td><td class="kn-ir">ಇತ್ತು</td><td class="kn-pa">ಇದ್ದವು</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Imperative -->
+  <div class="section">
+    <div class="section-header">
+      <span class="section-title-kn">ಅರಿಕೆರೂಪ</span>
+      <span class="section-title-eke">arikerUpa</span>
+      <span class="section-title-en">Imperative — 5 forms</span>
+    </div>
+    <table style="max-width:500px;">
+      <thead><tr><th>Person</th><th>ಕನ್ನಡ</th><th>Eke</th><th>ಹುರುಳು</th></tr></thead>
+      <tbody>
+        <tr><td class="person">1sg</td><td class="kn-lg">ಇರಲಿ</td><td class="eke">irali</td><td class="en">let me be</td></tr>
+        <tr><td class="person">2sg</td><td class="kn-lg">ಇರು</td><td class="eke">iru</td><td class="en">be!</td></tr>
+        <tr><td class="person">2pl</td><td class="kn-lg">ಇರಿ / ಇರಿರಿ</td><td class="eke">iri / iriri</td><td class="en">be! (plural)</td></tr>
+        <tr><td class="person">1pl</td><td class="kn-lg">ಇರೋಣ</td><td class="eke">irONa</td><td class="en">let us be</td></tr>
+        <tr><td class="person">3 (any)</td><td class="kn-lg">ಇರಲಿ</td><td class="eke">irali</td><td class="en">let (them) be</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- 10 Non-finite -->
+  <div class="section">
+    <div class="section-header">
+      <span class="section-title-kn">ನಡುರೂಪ</span>
+      <span class="section-title-eke">naDurUpa</span>
+      <span class="section-title-en">Non-finite — 10 forms (vs 13 for regular verbs)</span>
+    </div>
+    <p style="font-size:0.88rem;font-style:italic;color:var(--warm-mid);margin-bottom:1rem;">
+      Regular verbs: 13 non-finite forms. ಇರು loses 4 negative non-finites to ಇಲ್ಲ, but keeps ಇರದ → 10.
+    </p>
+    <table class="nf-table">
+      <thead><tr><th>#</th><th>ಬಗೆ / Type</th><th>ಒಟ್ಟು</th><th>ಕನ್ನಡ</th><th>Eke</th><th>ಹುರುಳು</th></tr></thead>
+      <tbody>
+        <tr><td>1</td><td class="en">ಪರಿಚೆರೂಪ (non-past)</td><td><span class="suffix s-teal">-ಉವ</span></td><td class="kn-lg">ಇರುವ</td><td class="eke">iruva</td><td class="en">who is / that is</td></tr>
+        <tr><td>2</td><td class="en">ಪರಿಚೆರೂಪ (past)</td><td><span class="suffix s-gold">-ಇದ</span></td><td class="kn-pa">ಇದ್ದ</td><td class="eke">idda</td><td class="en">who was / that was</td></tr>
+        <tr><td>3</td><td class="en">ಪರಿಚೆರೂಪ (neg) <span class="irreg-badge">partial</span></td><td><span class="suffix s-red">-ಅದ</span></td><td class="kn-ir">ಇರದ</td><td class="eke">irada</td><td class="en">who is not (restricted)</td></tr>
+        <tr><td>4</td><td class="en">ಜೋಡಿಸುವ (prior)</td><td><span class="suffix s-gold">-ಉ</span></td><td class="kn-pa">ಇದ್ದು</td><td class="eke">iddu</td><td class="en">having been</td></tr>
+        <tr><td>5</td><td class="en">ಜೋಡಿಸುವ (simultaneous)</td><td><span class="suffix s-teal">-ಉತ್ತ</span></td><td class="kn-lg">ಇರುತ್ತ</td><td class="eke">irutta</td><td class="en">while being</td></tr>
+        <tr><td>6</td><td class="en">ಜೋಡಿಸುವ (posterior)</td><td><span class="suffix s-teal">-ಅಲು</span></td><td class="kn-lg">ಇರಲು</td><td class="eke">iralu</td><td class="en">in order to be</td></tr>
+        <tr><td>7</td><td class="en">ಬೇಡಿಕೆರೂಪ</td><td><span class="suffix s-gold">-ರೆ</span></td><td class="kn-pa">ಇದ್ದರೆ</td><td class="eke">iddare</td><td class="en">if (one) is</td></tr>
+        <tr><td>8</td><td class="en">ಉದು-ಹೆಸರು (non-past)</td><td><span class="suffix s-teal">-ಉವುದು</span></td><td class="kn-lg">ಇರುವುದು</td><td class="eke">iruvudu</td><td class="en">the state of being</td></tr>
+        <tr><td>9</td><td class="en">ಉದು-ಹೆಸರು (past)</td><td><span class="suffix s-gold">-ಉದು</span></td><td class="kn-pa">ಇದ್ದುದು</td><td class="eke">iddudu</td><td class="en">the state of having been</td></tr>
+        <tr><td>10</td><td class="en">ಇಕೆ-ಹೆಸರು</td><td><span class="suffix s-teal">-ಇಕೆ</span></td><td class="kn-lg">ಇರುವಿಕೆ</td><td class="eke">iruvike</td><td class="en">being (abstract noun)</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- illa -->
+  <div class="section">
+    <div class="section-header">
+      <span class="section-title-kn">ಇಲ್ಲ — ಅಲ್ಲಗಳೆಯುವ ನಡುರೂಪಗಳು</span>
+      <span class="section-title-en">Suppletive negatives — NOT in ಇರು's 42</span>
+    </div>
+    <div class="illa-box">
+      <h4>Bhat §5.1.1</h4>
+      <p style="font-family:'Noto Sans Kannada',sans-serif;">ಇರು ಪದಕ್ಕೆ ಅಲ್ಲಗಳೆಯುವ ನಡುರೂಪಗಳಿಲ್ಲ; ಅಂತಹ ನಡುರೂಪಗಳು ಬರಬೇಕಾದಲ್ಲೆಲ್ಲ ಇಲ್ಲ ಪದದ ರೂಪಗಳೇ ಬಳಕೆಯಾಗುತ್ತವೆ.</p>
+      <table style="max-width:500px;margin-top:0.8rem;">
+        <thead><tr><th>ಕನ್ನಡ</th><th>Eke</th><th>ಬಗೆ</th></tr></thead>
+        <tbody>
+          <tr><td class="kn-ir">ಇಲ್ಲದ</td><td class="eke">illada</td><td class="en">negative participial</td></tr>
+          <tr><td class="kn-ir">ಇಲ್ಲದೆ</td><td class="eke">illade</td><td class="en">negative converb</td></tr>
+          <tr><td class="kn-ir">ಇಲ್ಲದುದು</td><td class="eke">illadudu</td><td class="en">negative verbal noun</td></tr>
+          <tr><td class="kn-ir">ಇಲ್ಲದಿಕೆ</td><td class="eke">illadike</td><td class="en">negative -ike noun</td></tr>
+        </tbody>
+      </table>
+      <div style="margin-top:1rem;">
+        <p style="font-size:0.88rem;color:var(--warm-mid);margin-bottom:0.6rem;font-style:italic;">Dravidian cognates of ಇಲ್ಲ (from Proto-Dravidian *cil, not *ir-)</p>
+        <div class="cognates">
+          <div class="cognate"><div class="cognate-lang">Kannada</div><div class="cognate-word">ಇಲ್ಲ · illa</div></div>
+          <div class="cognate"><div class="cognate-lang">Tamil</div><div class="cognate-word">illai</div></div>
+          <div class="cognate"><div class="cognate-lang">Telugu</div><div class="cognate-word">ledu</div></div>
+          <div class="cognate"><div class="cognate-lang">Malayalam</div><div class="cognate-word">illa</div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Comparison -->
+  <div class="section">
+    <div class="section-header">
+      <span class="section-title-kn">ಹೋಲಿಕೆ</span>
+      <span class="section-title-eke">hOlike</span>
+      <span class="section-title-en">ಇರು vs Regular Verb</span>
+    </div>
+    <div class="compare-grid">
+      <div class="compare-col">
+        <div class="compare-head regular">Regular verb · ತಿರುಳೆಸಕಪದ</div>
+        <div class="compare-row"><span class="label">Tenses</span><span class="val">2 (ಮುಂ + ಹಿಂ)</span></div>
+        <div class="compare-row"><span class="label">ತಿಳಿವುರೂಪ</span><span class="val">18</span></div>
+        <div class="compare-row"><span class="label">ಅರಿಕೆರೂಪ</span><span class="val">5</span></div>
+        <div class="compare-row"><span class="label">ಕೊನೆರೂಪ</span><span class="val">23</span></div>
+        <div class="compare-row"><span class="label">ನಡುರೂಪ</span><span class="val">13</span></div>
+        <div class="compare-row total-row"><span class="label">ಒಟ್ಟು</span><span class="val">36</span></div>
+      </div>
+      <div class="compare-col">
+        <div class="compare-head iru">ಇರು · auxiliary verb</div>
+        <div class="compare-row"><span class="label">Tenses</span><span class="val highlight">3 (ಮುಂ + ಈ + ಹಿಂ)</span></div>
+        <div class="compare-row"><span class="label">ತಿಳಿವುರೂಪ</span><span class="val highlight">27</span></div>
+        <div class="compare-row"><span class="label">ಅರಿಕೆರೂಪ</span><span class="val">5</span></div>
+        <div class="compare-row"><span class="label">ಕೊನೆರೂಪ</span><span class="val highlight">32</span></div>
+        <div class="compare-row"><span class="label">ನಡುರೂಪ</span><span class="val">10</span></div>
+        <div class="compare-row total-row"><span class="label">ಒಟ್ಟು</span><span class="val highlight" style="font-size:1.3rem;">42</span></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Notes -->
+  <div class="section">
+    <div class="notes">
+      <h4>ಒಳನೋಟ — Key Notes</h4>
+      <ul>
+        <li><strong>ಈಪೊತ್ತು (present tense)</strong> is unique to ಇರು as a nerevaesaka (auxiliary). Regular verbs have only past/non-past. The present forms ಇದ್ದಾನೆ, ಇದ್ದಾಳೆ etc. mark "currently in a state of being" — distinct from ongoing action (ಮುಂಬೊತ್ತು) or completed past (ಹಿಂಬೊತ್ತು).</li>
+        <li><strong>ಇದೆ / ಇವೆ</strong> — the 3rd person neuter present forms are maximally irregular: the expected *ಇದ್ದದೆ / *ಇದ್ದವೆ are replaced by these short forms, reflecting a different historical origin.</li>
+        <li><strong>ಇರದ</strong> — only one negative participial survives in ಇರು's own paradigm, used in constructions like ಮಾಡಿರದ ಕೆಲಸ (work not done). The other three negative non-finites use ಇಲ್ಲ.</li>
+        <li><strong>As vector verb</strong> (Book 32): ಇರು encodes aspectual continuation — ಮಾಡುತ್ತಿದ್ದೆ (was doing) = ಮಾಡು + simultaneous converb + ಇರು past, drawing on the ಈಪೊತ್ತು/ಹಿಂಬೊತ್ತು distinction.</li>
+      </ul>
+    </div>
+  </div>
+
+  <footer>
+    <p>
+      ಕನ್ನಡ ಬರಹದ ಸೊಲ್ಲರಿಮೆ Vol 2, §5.1.1 · DNS Bhat (Book 07)<br>
+      <a href="https://github.com/vwulf/ettuge">github.com/vwulf/ettuge</a> · ettuge Kannada Linguistics
+    </p>
+  </footer>
+
+</div>
+</body>
+</html>
