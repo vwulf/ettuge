@@ -40,6 +40,23 @@ jobs:
           cp src/main/md/Books/*.md docs/Books/
           cp src/main/md/Books/influential/*.md docs/Books/influential/
 
+      - name: Copy FP content into docs/FP/
+        run: |
+          rm -rf docs/FP || true
+          mkdir -p docs/FP
+          # pl/ — ॐλ only; FP.md (Forays) not ready yet
+          cp "src/main/md/pl/ॐλ.md" docs/FP/om-lambda.md
+          # haskell/
+          cp src/main/md/haskell/hsom.md docs/FP/
+          cp src/main/md/haskell/monoids-and-semigroups.md docs/FP/
+          cp src/main/md/haskell/qsortof.md docs/FP/
+          cp src/main/md/haskell/qsortof-part2.md docs/FP/
+          cp src/main/md/haskell/reflection.md docs/FP/haskell-types.md
+          cp "src/main/md/haskell/ಕಳ್ಳ.md" "docs/FP/kumbaLakAyi-kaLLanalla.md"
+          cp src/main/md/haskell/modalakaLLa.jpg docs/FP/ 2>/dev/null || true
+          # kojo/ — visual creativity merged into FP section
+          cp src/main/md/kojo/cloud_flowers_and.md docs/FP/
+
       - name: Generate sidebar — DNS Bhat and Eke
         run: |
           python3 - <<'PYEOF'
@@ -376,7 +393,48 @@ jobs:
                       if fname.endswith('.md'):
                           add_nav_exclude(os.path.join(inf_dir, fname))
 
-          # ── Pass 6: nav_exclude all remaining .md files ───────────────────────────
+          # ── Pass 6: Functional Programming sidebar ────────────────────────────────
+          FPDIR     = 'docs/FP'
+          FP_TITLE  = 'Functional Programming'
+
+          FP_ARTICLES = [
+              ('om-lambda.md',               'ॐλ — Lambda Calculus',       1),
+              ('monoids-and-semigroups.md',  'Monoids and Semigroups',      2),
+              ('hsom.md',                    'rangapura vihAra',            3),
+              ('qsortof.md',                 'Lazy Min-K in Haskell',       4),
+              ('qsortof-part2.md',           'Lazy Min-K — Part 2',         5),
+              ('haskell-types.md',           'Reading Types in Haskell',    6),
+              ('kumbaLakAyi-kaLLanalla.md',  'ಕಳ್ಳ — Pumpkin Puzzle',       7),
+              ('cloud_flowers_and.md',       'Kojo — Clouds and Flowers',   8),
+          ]
+
+          if os.path.isdir(FPDIR):
+              # Root index page
+              idx_path = os.path.join(FPDIR, 'index.md')
+              with open(idx_path, 'w', encoding='utf-8') as f:
+                  f.write(fm(title=FP_TITLE, nav_order=5, has_children=True))
+                  f.write('Functional programming explorations in Haskell, Scala, and lambda calculus — '
+                          'including visual programming with Kojo.\n\n')
+                  f.write('| Article |\n|---------|\n')
+                  for fname, title, _ in FP_ARTICLES:
+                      slug = fname.replace('.md', '')
+                      f.write(f'| [{title}](./{slug}) |\n')
+              sidebar_files.add(idx_path)
+
+              # Front matter for each article
+              for fname, title, nav_order in FP_ARTICLES:
+                  fpath = os.path.join(FPDIR, fname)
+                  if not os.path.exists(fpath):
+                      continue
+                  with open(fpath, encoding='utf-8') as f:
+                      body = strip_fm(f.read())
+                  body = re.sub(r'\]\(((?!http)[^)]+)\.md\)', r'](\1)', body)
+                  with open(fpath, 'w', encoding='utf-8') as f:
+                      f.write(fm(title=title, parent=FP_TITLE, nav_order=nav_order))
+                      f.write(body)
+                  sidebar_files.add(fpath)
+
+          # ── Pass 7: nav_exclude all remaining .md files in kannaDa + FP ─────────
           for walk_root, dirs, files in os.walk(KANNADADIR):
               dirs[:] = [d for d in dirs if not d.startswith('.')]
               for fname in files:

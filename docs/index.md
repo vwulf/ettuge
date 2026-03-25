@@ -23,19 +23,17 @@ This repository contains a systematic effort to collect, digitise, and make acce
 
 ---
 
-## Functional Programming, Category Theory & Programming Languages
+## [Functional Programming](FP/)
 
-*Coming soon to this site — currently in the [source repository](https://github.com/vwulf/ettuge/tree/master/src/main/md/pl).*
+A running notebook for functional programming ideas, worked out mostly in Haskell but drawing on Scala, lambda calculus, and category theory wherever they illuminate the concept best. Visual programming with Kojo is folded in here too — simple generative code that reminds experienced programmers why they fell in love with the craft.
 
-This repository doubles as a running notebook for functional programming ideas, worked out mostly in Haskell but drawing on Scala, lambda calculus, and category theory wherever they illuminate the concept best.
-
-- **Forays into FP** — A journey from imperative programming through Scala into the rethinking that functional programming demands
-- **Reading types in Haskell** — Using the GHC interpreter as a conversation partner; even Kannada characters (ಅ, ಆ, …) get fed to the type-checker
-- **Morphisms, diamonds and kannaDa** — A recreational mathematics puzzle becomes the staging ground for an excursion into morphisms and category theory
-- **Monoids are everywhere** — Addition, string concatenation, set merging: concrete examples of the algebraic pattern that underlies composable code
-- **rangapura vihAra** — Using Euterpea (Haskell School of Music) to encode a Carnatic fusion rendition of *Rangapura Vihara*
-- **ॐλ** — Lambda calculus, Y combinators, and the fixed points that turn self-reference into recursion
-- **Kojo** — Scala-based turtle graphics: clouds and flowers, random polygons, ladder patterns — simple code that reminds experienced programmers why they fell in love with the craft
+- **[ॐλ — Lambda Calculus](FP/om-lambda)** — Y combinators, fixed points, and the self-reference that turns pure substitution into recursion
+- **[Monoids and Semigroups](FP/monoids-and-semigroups)** — Addition, string concatenation, set merging: the algebraic pattern that underlies composable code
+- **[rangapura vihAra](FP/hsom)** — Using Euterpea (Haskell School of Music) to encode a Carnatic fusion rendition
+- **[Lazy Min-K in Haskell](FP/qsortof)** — Finding the minimum k elements lazily; part [2](FP/qsortof-part2) covers the heap approach
+- **[Reading Types in Haskell](FP/haskell-types)** — Using the GHC interpreter as a conversation partner; Kannada characters (ಅ, ಆ, …) fed to the type-checker
+- **[ಕಳ್ಳ — Pumpkin Puzzle](FP/kumbaLakAyi-kaLLanalla)** — A simple iteration puzzle, solved in Haskell with Kannada script in the source
+- **[Kojo — Clouds and Flowers](FP/cloud_flowers_and)** — Scala turtle graphics: clouds, flowers, random polygons, ladders
 
 ---
 
