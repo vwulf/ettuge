@@ -55,6 +55,9 @@ stem ಇರ್- + -ಉತ್ತ- + PNG
 | 3rd fem | ಇರುತ್ತಾಳೆ | iruttALe | ಇರುತ್ತಾರೆ | iruttAre |
 | 3rd neut | ಇರುತ್ತದೆ | iruttade | ಇರುತ್ತವೆ | iruttave |
 
+> **Why not `ಇರುವೆ` (iruve)?**
+> `ಇರುವೆ` (iru + linking -v- + 1sg -e) is a valid literary and formal Kannada form, and its paradigm-mates appear in parallel: *ಇರುವೆ, ಇರುವೆವು, ಇರುವೆ, ಇರುವಿರಿ…* These come from an older -uva- participial-based conjugation still found in classical poetry and formal registers. Bhat's §5.1.1 paradigm uses the -utt- non-past throughout (same tense marker as all regular verbs — ಮಾಡುತ್ತೇನೆ, ಕೇಳುತ್ತೇನೆ), giving irutteNe for 1sg. The -uve alternates are not double-counted; they belong to a parallel literary paradigm rather than the standard spoken/written one Bhat documents.
+
 #### ಈಪೊತ್ತು — Present ⚠️ unique to ಇರು
 stem ಇದ್ದ-/ಇ- + PNG
 
