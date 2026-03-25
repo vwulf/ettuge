@@ -495,14 +495,17 @@ jobs:
                       f.write(body)
                   sidebar_files.add(fpath)
 
-          # ── Pass 8: nav_exclude all remaining .md files ───────────────────────────
-          for walk_root, dirs, files in os.walk(KANNADADIR):
-              dirs[:] = [d for d in dirs if not d.startswith('.')]
-              for fname in files:
-                  if fname.endswith('.md'):
-                      fp = os.path.join(walk_root, fname)
-                      if fp not in sidebar_files:
-                          add_nav_exclude(fp)
+          # ── Pass 8: nav_exclude all remaining .md files in all docs/ sections ─────
+          for scan_root in [KANNADADIR, FPDIR, REFLDIR]:
+              if not os.path.isdir(scan_root):
+                  continue
+              for walk_root, dirs, files in os.walk(scan_root):
+                  dirs[:] = [d for d in dirs if not d.startswith('.')]
+                  for fname in files:
+                      if fname.endswith('.md'):
+                          fp = os.path.join(walk_root, fname)
+                          if fp not in sidebar_files:
+                              add_nav_exclude(fp)
 
           src_pages  = sum(1 for s, _, _ in SOURCES
                            if os.path.exists(os.path.join(DNSBHAT, f'{s}.md')))
