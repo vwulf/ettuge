@@ -33,7 +33,7 @@ You choose what you want to do — doesn't have to be physical like running but 
 A personal philosophical note about creating a private practice of deliberately unusual or mind-expanding experiences, with a built-in rule against social-media performance. The fight-club framing emphasises that the value comes from doing, not broadcasting. **[→ career-personal; personal philosophy]**
 
 **Ichi-go ichi-e — Wikipedia**
-https://en.wikipedia.org/wiki/Ichi-go_ichi-e
+<https://en.wikipedia.org/wiki/Ichi-go_ichi-e>
 
 The Wikipedia article on *ichi-go ichi-e* (一期一会), the Japanese concept meaning "one time, one meeting" — the idea that each encounter is unique and unrepeatable, and should be treated accordingly. Rooted in tea ceremony philosophy. **[→ career-personal; philosophy → books-literature]**
 
@@ -71,12 +71,12 @@ An article from Aporia Magazine arguing that society undervalues raw talent rela
 ## Career & Work
 
 **Layoffs — a Survivors Tale**
-medium.com — https://medium.com/@Hatchman76/layoffs-a-survivors-tale-c7415aab0d00
+medium.com — <https://medium.com/@Hatchman76/layoffs-a-survivors-tale-c7415aab0d00>
 
 A Medium personal essay on surviving a corporate layoff — covering the emotional rollercoaster, the social dynamics of survivor's guilt, and the practical steps of rebuilding after job loss. A candid first-person account. **[→ career-personal]**
 
 **You've Heard Of FOMO, But What Is 'FOBO'?**
-huffpost.com — https://www.huffpost.com/entry/fobo-fomo-how-to-cope-goog_l_68def1b3e4b061291b1440e1
+huffpost.com — <https://www.huffpost.com/entry/fobo-fomo-how-to-cope-goog_l_68def1b3e4b061291b1440e1>
 
 A HuffPost piece introducing "FOBO" (Fear of Better Options) — the paralysis that comes from having too many choices, particularly in career and life decisions. Related to Barry Schwartz's *Paradox of Choice*. **[→ career-personal]**
 
@@ -85,7 +85,7 @@ A HuffPost piece introducing "FOBO" (Fear of Better Options) — the paralysis t
 ## Psychology & Language
 
 **People with Personality Disorders Often Use Language Differently**
-theconversation.com — https://theconversation.com/people-with-personality-disorders-often-use-language-differently-our-research-reveals-how-271109
+theconversation.com — <https://theconversation.com/people-with-personality-disorders-often-use-language-differently-our-research-reveals-how-271109>
 
 A The Conversation article on research identifying distinctive linguistic patterns in people with various personality disorders — including differences in use of first-person pronouns, emotional vocabulary, and hedging language. **[→ career-personal; linguistics angle → kannada-language-linguistics]**
 
@@ -94,7 +94,7 @@ A The Conversation article on research identifying distinctive linguistic patter
 ## Psychedelics & Identity
 
 **'Beyond Gender': Psychedelics Are Revealing Hidden Sides to People's Identity**
-bbc.com — https://www.bbc.com/future/article/20251211-psychedelics-are-altering-how-people-see-their-own-gender-and-sexuality
+bbc.com — <https://www.bbc.com/future/article/20251211-psychedelics-are-altering-how-people-see-their-own-gender-and-sexuality>
 
 A BBC Future article on how psychedelic experiences are prompting people to reassess their gender identity and sexuality — with reports from therapy settings where psilocybin and MDMA dissolve rigid self-concepts. **[→ career-personal; health → health-fitness]**
 
@@ -103,7 +103,7 @@ A BBC Future article on how psychedelic experiences are prompting people to reas
 ## ADHD & Mind
 
 **Camus @newstart_2024: Hasan Minhaj Asks Gabor Maté About ADHD and Time Maturity**
-x.com — https://x.com/newstart_2024/status/2023668750747058269?s=20
+x.com — <https://x.com/newstart_2024/status/2023668750747058269?s=20>
 
 A tweet sharing a clip of comedian Hasan Minhaj interviewing Dr. Gabor Maté — the Hungarian-Canadian physician known for his work on trauma, addiction, and ADHD — discussing the concept of "time maturity" and ADHD's relationship to emotional regulation. **[→ career-personal; health → health-fitness]**
 
@@ -112,7 +112,7 @@ A tweet sharing a clip of comedian Hasan Minhaj interviewing Dr. Gabor Maté —
 ## Personal Knowledge Management
 
 **Rohit: Skill Graph as the Final Boss of Memory (wikilink-connected skill files)**
-x.com — https://x.com/rohit4verse/status/2024031053103366528?s=20
+x.com — <https://x.com/rohit4verse/status/2024031053103366528?s=20>
 
 A tweet by Rohit describing a personal knowledge management system where skills are organized as a graph of wikilink-connected markdown files — each skill file linking to prerequisite skills, creating a navigable dependency graph of competencies. **[→ career-personal; PKM/tools]**
 
@@ -137,7 +137,7 @@ Personal project ideas at the intersection of AI tools and Kannada language: a K
 
 **ettuge/src/main/md/kannada — Claude Data Analysis Session**
 "Claude was very good at discovery. The generated output would have taken quite a bit of coding, the old way."
-github.com — https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/malatibhat_dns_bhat_chat.md
+github.com — <https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/malatibhat_dns_bhat_chat.md>
 
 A personal note reflecting on a Claude-assisted data analysis session in the ettuge repository — specifically the Kannada/DNS Bhat chat session where Claude's ability to navigate and synthesize a large codebase outperformed what manual coding would have required. **[→ career-personal; AI tools → machine-learning-ai; Kannada → kannada-language-linguistics]**
 
@@ -158,7 +158,7 @@ A bare reference to Duolingo's annual report on language learning trends. The re
 A "life pro tip" Reddit post on how to take cheap, compliant passport photos at home rather than paying at a pharmacy. Practical life admin tip. **[→ career-personal]**
 
 **Consulate General of India, San Francisco: FAQ's on Renunciation**
-https://www.cgisf.gov.in/page/faq-s-on-renunciaton/
+<https://www.cgisf.gov.in/page/faq-s-on-renunciaton/>
 
 The official CGISF page on the process for renouncing Indian citizenship — a practical reference for Indian-Americans who have taken or are considering US citizenship. **[→ career-personal; immigration → current-events-politics]**
 
@@ -175,6 +175,6 @@ A Gizmodo article profiling a digital artist who made a financial or career bet 
 ## Self-Defence
 
 **Science Girl (@gunsnrosesgirl3): Self Defence Tips**
-https://x.com/gunsnrosesgirl3/status/1816775112198140042
+<https://x.com/gunsnrosesgirl3/status/1816775112198140042>
 
 A tweet thread with practical self-defence tips, likely demonstrating simple physical techniques. Self-defence knowledge crosses health/fitness and personal safety. **[→ career-personal; health-fitness]**

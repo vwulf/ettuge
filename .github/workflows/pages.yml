@@ -466,7 +466,7 @@ jobs:
               ('arts-music-film.md',                'Arts, Music & Film',          11),
               ('cricket-sports.md',                 'Cricket & Sports',            12),
               ('travel-outdoors.md',                'Travel & Outdoors',           13),
-              ('career-personal.md',                'Career & Personal',           14),
+              # career-personal.md — filtered for now (too personal)
               ('current-events-politics.md',        'Current Events & Politics',   15),
               ('miscellaneous.md',                  'Miscellaneous',               16),
           ]
