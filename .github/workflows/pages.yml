@@ -56,6 +56,11 @@ jobs:
           cp src/main/md/haskell/modalakaLLa.jpg docs/FP/ 2>/dev/null || true
           # kojo/ — visual creativity merged into FP section
           cp src/main/md/kojo/cloud_flowers_and.md docs/FP/
+          # kojo images — copy alongside the page so relative ./img.png links resolve
+          cp src/main/scala/kojo/cloud_with_flowers.png docs/FP/
+          cp src/main/scala/kojo/generated.png          docs/FP/
+          cp src/main/scala/kojo/ladder_rand_shape.png  docs/FP/
+          cp src/main/scala/kojo/with_g.png             docs/FP/
 
       - name: Generate sidebar — DNS Bhat and Eke
         run: |

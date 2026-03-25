@@ -17,7 +17,7 @@ Some generated pics:
 [^5]: <https://github.com/vwulf/ettuge/blob/master/src/main/scala/kojo/ladder_rand_shape.kojo>
 [^6]: <https://github.com/vwulf/ettuge/blob/master/src/main/scala/kojo/with_g.kojo>
 
-![alt text](../../scala/kojo/cloud_with_flowers.png?raw=true "Clouds and flowers")
-![plot](https://github.com/vwulf/ettuge/blob/master/src/main/scala/kojo/generated.png "Random *gons and move")
-![plot](https://github.com/vwulf/ettuge/blob/master/src/main/scala/kojo/ladder_rand_shape.png "Random *gons ladders in-between")
-![plot](https://github.com/vwulf/ettuge/blob/master/src/main/scala/kojo/with_g.png "worm")
+![Clouds and flowers](./cloud_with_flowers.png "Clouds and flowers")
+![Random polygons and move](./generated.png "Random *gons and move")
+![Random polygons with ladders](./ladder_rand_shape.png "Random *gons ladders in-between")
+![Worm](./with_g.png "worm")
