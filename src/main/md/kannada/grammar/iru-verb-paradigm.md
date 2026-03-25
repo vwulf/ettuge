@@ -96,13 +96,13 @@ stem ಇದ್ದ- + PNG
 ## 10 ನಡುರೂಪ — Non-finite Forms
 
 *Regular verbs have 13; ಇರು has 10*
-*(-4 negative non-finites go to ಇಲ್ಲ, +1 ಇರದ survives)*
+*(-4 negative non-finites go to ಇಲ್ಲ, +1 ಇರದ partially survives)*
 
 | # | ಬಗೆ | ಕನ್ನಡ | Eke | ಹುರುಳು |
 |---|---|---|---|---|
 | 1 | ಪರಿಚೆರೂಪ (non-past) | ಇರುವ | iruva | who is / that is |
 | 2 | ಪರಿಚೆರೂಪ (past) | ಇದ್ದ | idda | who was / that was |
-| 3 | ಪರಿಚೆರೂಪ (neg) ⚠️ partial | ಇರದ | irada | who is not (restricted) |
+| 3 | ಪರಿಚೆರೂಪ (neg) ⚠️ partial | ಇರದ | irada | who is not (restricted — see note) |
 | 4 | ಜೋಡಿಸುವ (prior) | ಇದ್ದು | iddu | having been |
 | 5 | ಜೋಡಿಸುವ (simultaneous) | ಇರುತ್ತ | irutta | while being |
 | 6 | ಜೋಡಿಸುವ (posterior) | ಇರಲು | iralu | in order to be |
@@ -117,12 +117,15 @@ stem ಇದ್ದ- + PNG
 
 Bhat: *"ಇರು ಪದಕ್ಕೆ ಅಲ್ಲಗಳೆಯುವ ನಡುರೂಪಗಳಿಲ್ಲ; ಅಂತಹ ರೂಪಗಳು ಬರಬೇಕಾದಲ್ಲೆಲ್ಲ ಇಲ್ಲ ಪದದ ರೂಪಗಳೇ ಬಳಕೆಯಾಗುತ್ತವೆ."*
 
-| ಕನ್ನಡ | Eke | ಬಗೆ |
-|---|---|---|
-| ಇಲ್ಲದ | illada | negative participial |
-| ಇಲ್ಲದೆ | illade | negative converb |
-| ಇಲ್ಲದುದು | illadudu | negative verbal noun |
-| ಇಲ್ಲದಿಕೆ | illadike | negative -ike noun |
+| ಕನ್ನಡ | Eke | ಬಗೆ | Parallel ಮಾಡು form |
+|---|---|---|---|
+| ಇಲ್ಲದ | illada | negative participial | ಮಾಡದ (mADada) |
+| **ಇಲ್ಲದೆ** | **illade** | **negative converb** | **ಮಾಡದೆ (mADade)** |
+| ಇಲ್ಲದುದು | illadudu | negative verbal noun | ಮಾಡದುದು (mADadudu) |
+| ಇಲ್ಲದಿಕೆ | illadike | negative -ike noun | ಮಾಡದಿಕೆ (mADadike) |
+
+> **Why not `ಇರದೆ` (irade)?**
+> `ಇರದೆ` is the expected negative converb by regular morphology (stem + `-ade`), and it *does* appear in formal and literary Kannada — e.g., *"ಅಲ್ಲಿ ಇರದೆ ಹೋದ"* ("went without staying there"). However, in colloquial and standard modern Kannada, `ಇಲ್ಲದೆ` has displaced it almost entirely. Bhat's 42-count treats the negative converb slot as suppletive from ಇಲ್ಲ, hence `ಇರದೆ` is not counted. The negative *participial* `ಇರದ` (irada) has more currency — *"ಇರದ ದೇವರು"* ("the god who doesn't exist") — which is why it partially survives in the count as form #3.
 
 These are forms of **ಇಲ್ಲ** — a separate word, historically from Proto-Dravidian \*cil, not from \*ir-.
 
