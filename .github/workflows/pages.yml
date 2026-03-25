@@ -403,9 +403,9 @@ jobs:
           GRAMMARDIR   = 'docs/kannaDa/grammar'
           GRAMMAR_TITLE = 'Verb Paradigms'
           GRAMMAR_PAGES = [
-              ('mADu-verb-paradigm', 'ಮಾಡು — Regular Verb (36 forms)', 1, None),
+              ('mADu-verb-paradigm', 'ಮಾಡು — Regular Verb (36 forms)', 1, 'mADu-illustrated.html'),
               ('iru-verb-paradigm',  'ಇರು — to be (42 forms)',          2, 'iru-illustrated.html'),
-              ('illa-verb-paradigm', 'ಇಲ್ಲ — Negator (5 forms)',        3, None),
+              ('illa-verb-paradigm', 'ಇಲ್ಲ — Negator (5 forms)',        3, 'illa-illustrated.html'),
           ]
           if os.path.isdir(GRAMMARDIR):
               # Root index page — L2 under ಕನ್ನಡ
