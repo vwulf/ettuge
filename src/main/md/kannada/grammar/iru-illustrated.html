@@ -463,6 +463,11 @@
 </head>
 <body>
 <div class="page">
+  <nav style="background:var(--plum-faint);border-bottom:1px solid var(--plum-light);padding:0.6rem 1.2rem;font-size:0.85rem;display:flex;gap:1.2rem;align-items:center;flex-wrap:wrap;">
+    <a href="/ettuge/kannaDa/grammar/" style="color:var(--plum);text-decoration:none;">← Verb Paradigms</a>
+    <a href="/ettuge/" style="color:var(--plum);text-decoration:none;">ettuge</a>
+    <span style="margin-left:auto;color:var(--warm-mid);">ಇರು · Full text: <a href="iru-verb-paradigm" style="color:var(--plum);">iru-verb-paradigm</a></span>
+  </nav>
 
   <header>
     <div class="title-kn">ಇರು</div>
@@ -479,7 +484,7 @@
   </header>
 
   <!-- Count breakdown -->
-  <div class="count-breakdown">
+  <div class="count-breakdown" id="finite">
     <div class="count-cell">
       <div class="count-num">32</div>
       <div class="count-label">ಕೊನೆರೂಪ</div>
@@ -526,7 +531,7 @@
   </div>
 
   <!-- 27 Indicative -->
-  <div class="section">
+  <div class="section" id="indicative">
     <div class="section-header">
       <span class="section-title-kn">ತಿಳಿವುರೂಪ</span>
       <span class="section-title-eke">tiLivurUpa</span>
@@ -584,7 +589,7 @@
   </div>
 
   <!-- Imperative -->
-  <div class="section">
+  <div class="section" id="imperative">
     <div class="section-header">
       <span class="section-title-kn">ಅರಿಕೆರೂಪ</span>
       <span class="section-title-eke">arikerUpa</span>
@@ -603,7 +608,7 @@
   </div>
 
   <!-- 10 Non-finite -->
-  <div class="section">
+  <div class="section" id="nonfinite">
     <div class="section-header">
       <span class="section-title-kn">ನಡುರೂಪ</span>
       <span class="section-title-eke">naDurUpa</span>
@@ -630,7 +635,7 @@
   </div>
 
   <!-- illa -->
-  <div class="section">
+  <div class="section" id="illa">
     <div class="section-header">
       <span class="section-title-kn">ಇಲ್ಲ — ಅಲ್ಲಗಳೆಯುವ ನಡುರೂಪಗಳು</span>
       <span class="section-title-en">Suppletive negatives — NOT in ಇರು's 42</span>
@@ -660,7 +665,7 @@
   </div>
 
   <!-- Comparison -->
-  <div class="section">
+  <div class="section" id="comparison">
     <div class="section-header">
       <span class="section-title-kn">ಹೋಲಿಕೆ</span>
       <span class="section-title-eke">hOlike</span>
@@ -689,13 +694,14 @@
   </div>
 
   <!-- Notes -->
-  <div class="section">
+  <div class="section" id="notes">
     <div class="notes">
       <h4>ಒಳನೋಟ — Key Notes</h4>
       <ul>
         <li><strong>ಈಪೊತ್ತು (present tense)</strong> is unique to ಇರು as a nerevaesaka (auxiliary). Regular verbs have only past/non-past. The present forms ಇದ್ದಾನೆ, ಇದ್ದಾಳೆ etc. mark "currently in a state of being" — distinct from ongoing action (ಮುಂಬೊತ್ತು) or completed past (ಹಿಂಬೊತ್ತು).</li>
         <li><strong>ಇದೆ / ಇವೆ</strong> — the 3rd person neuter present forms are maximally irregular: the expected *ಇದ್ದದೆ / *ಇದ್ದವೆ are replaced by these short forms, reflecting a different historical origin.</li>
         <li><strong>ಇರದ</strong> — only one negative participial survives in ಇರು's own paradigm, used in constructions like ಮಾಡಿರದ ಕೆಲಸ (work not done). The other three negative non-finites use ಇಲ್ಲ.</li>
+        <li><strong>Why not ಇರದೆ (irade)?</strong> — <em>ಇರದೆ</em> is the morphologically expected negative converb (stem + <code>-ade</code>), and it does appear in formal/literary Kannada: <em>"ಅಲ್ಲಿ ಇರದೆ ಹೋದ"</em> (went without staying there). In colloquial modern Kannada however, <em>ಇಲ್ಲದೆ</em> has displaced it almost entirely. Bhat's 42-count therefore treats this slot as suppletive. <em>ಇರದ</em> (participial) survives because it has a distinct literary niche — <em>"ಇರದ ದೇವರು"</em> — whereas the converb has no such anchor.</li>
         <li><strong>As vector verb</strong> (Book 32): ಇರು encodes aspectual continuation — ಮಾಡುತ್ತಿದ್ದೆ (was doing) = ಮಾಡು + simultaneous converb + ಇರು past, drawing on the ಈಪೊತ್ತು/ಹಿಂಬೊತ್ತು distinction.</li>
       </ul>
     </div>

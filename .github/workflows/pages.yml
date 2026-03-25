@@ -403,9 +403,9 @@ jobs:
           GRAMMARDIR   = 'docs/kannaDa/grammar'
           GRAMMAR_TITLE = 'Verb Paradigms'
           GRAMMAR_PAGES = [
-              ('mADu-verb-paradigm', 'ಮಾಡು — Regular Verb (36 forms)', 1),
-              ('iru-verb-paradigm',  'ಇರು — to be (42 forms)',          2),
-              ('illa-verb-paradigm', 'ಇಲ್ಲ — Negator (5 forms)',        3),
+              ('mADu-verb-paradigm', 'ಮಾಡು — Regular Verb (36 forms)', 1, None),
+              ('iru-verb-paradigm',  'ಇರು — to be (42 forms)',          2, 'iru-illustrated.html'),
+              ('illa-verb-paradigm', 'ಇಲ್ಲ — Negator (5 forms)',        3, None),
           ]
           if os.path.isdir(GRAMMARDIR):
               # Root index page — L2 under ಕನ್ನಡ
@@ -420,7 +420,7 @@ jobs:
                       f.write(body)
                   sidebar_files.add(idx)
               # Child pages — L3 (parent=Grammar, grand_parent=ಕನ್ನಡ)
-              for slug, title, nav in GRAMMAR_PAGES:
+              for slug, title, nav, redirect in GRAMMAR_PAGES:
                   fp = os.path.join(GRAMMARDIR, f'{slug}.md')
                   if not os.path.exists(fp):
                       continue
@@ -428,8 +428,9 @@ jobs:
                       body = strip_fm(f.read())
                   body = re.sub(r'\]\(((?!http)[^)]+)\.md\)', r'](\1)', body)
                   with open(fp, 'w', encoding='utf-8') as f:
+                      extra = {'redirect_to': redirect} if redirect else {}
                       f.write(fm(title=title, parent=GRAMMAR_TITLE,
-                                 grand_parent=KANNADA_TITLE, nav_order=nav))
+                                 grand_parent=KANNADA_TITLE, nav_order=nav, **extra))
                       f.write(body)
                   sidebar_files.add(fp)
 

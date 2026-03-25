@@ -37,8 +37,10 @@ Compare regular verbs (ತಿರುಳೆಸಕಪದ): 23 ಕೊನೆರೂಪ
 ---
 
 ## 32 ಕೊನೆರೂಪ — Finite Forms
+{: #finite}
 
 ### ತಿಳಿವುರೂಪ — Indicative (27)
+{: #indicative}
 
 *3 tenses × 9 PNG = 27*
 
@@ -80,6 +82,7 @@ stem ಇದ್ದ- + PNG
 ---
 
 ### ಅರಿಕೆರೂಪ — Imperative (5)
+{: #imperative}
 
 *No tense · No gender distinction in 3rd*
 
@@ -94,6 +97,7 @@ stem ಇದ್ದ- + PNG
 ---
 
 ## 10 ನಡುರೂಪ — Non-finite Forms
+{: #nonfinite}
 
 *Regular verbs have 13; ಇರು has 10*
 *(-4 negative non-finites go to ಇಲ್ಲ, +1 ಇರದ partially survives)*
@@ -114,6 +118,7 @@ stem ಇದ್ದ- + PNG
 ---
 
 ## ಇಲ್ಲ forms — Suppletive negatives (NOT in ಇರು's 42)
+{: #illa}
 
 Bhat: *"ಇರು ಪದಕ್ಕೆ ಅಲ್ಲಗಳೆಯುವ ನಡುರೂಪಗಳಿಲ್ಲ; ಅಂತಹ ರೂಪಗಳು ಬರಬೇಕಾದಲ್ಲೆಲ್ಲ ಇಲ್ಲ ಪದದ ರೂಪಗಳೇ ಬಳಕೆಯಾಗುತ್ತವೆ."*
 
@@ -132,6 +137,7 @@ These are forms of **ಇಲ್ಲ** — a separate word, historically from Proto
 ---
 
 ## Comparison: ಇರು vs Regular Verb
+{: #comparison}
 
 | | Regular verb | ಇರು |
 |---|---|---|
