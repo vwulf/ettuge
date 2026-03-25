@@ -5,7 +5,7 @@ nav_order: 1
 
 # ettuge
 
-ettuge is a personal knowledge garden sitting at the intersection of language, computation, and creativity. It collects explorations in Kannada linguistics, functional programming, visual art, and reflective reading — all held together by a curiosity about how structure gives rise to meaning.
+ettuge is a personal knowledge garden sitting at the intersection of language, computation, and reflective reading — all held together by a curiosity about how structure gives rise to meaning.
 
 ---
 
@@ -35,23 +35,14 @@ This repository doubles as a running notebook for functional programming ideas, 
 - **Monoids are everywhere** — Addition, string concatenation, set merging: concrete examples of the algebraic pattern that underlies composable code
 - **rangapura vihAra** — Using Euterpea (Haskell School of Music) to encode a Carnatic fusion rendition of *Rangapura Vihara*
 - **ॐλ** — Lambda calculus, Y combinators, and the fixed points that turn self-reference into recursion
+- **Kojo** — Scala-based turtle graphics: clouds and flowers, random polygons, ladder patterns — simple code that reminds experienced programmers why they fell in love with the craft
 
 ---
 
-## Reflection & Books
-
-*Coming soon to this site — currently in the [source repository](https://github.com/vwulf/ettuge/tree/master/src/main/md).*
+## Reflection & [Books](Books/Books)
 
 - **Self-reflection** — Topic-based notes distilled from years of reading and thinking: Kannada linguistics, Indian history, machine learning, mathematics, algorithms, infrastructure, and health
-- **Books** — A curated catalog of books that have genuinely changed how the author thinks, organised by author with inline summaries and deeper individual analyses
-
----
-
-## Visual Creativity
-
-*Coming soon to this site.*
-
-- **Kojo** — Scala-based turtle graphics: clouds and flowers, random polygons, ladder patterns — simple code that reminds experienced programmers why they fell in love with the craft
+- **Books** — A [curated catalog](Books/Books) of books that have genuinely changed how the author thinks, organised by author with inline summaries and individual analyses
 
 ---
 
