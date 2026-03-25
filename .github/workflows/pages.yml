@@ -26,6 +26,7 @@ jobs:
         run: |
           rm -rf docs/kannaDa docs/dnsbhat || true
           mkdir -p docs/kannaDa/dnsbhat docs/kannaDa/eke docs/kannaDa/grammar
+          cp src/main/md/kannada/index.md docs/kannaDa/index.md
           cp -R src/main/md/kannada/dnsbhat/. docs/kannaDa/dnsbhat/
           cp -R src/main/md/kannada/eke/. docs/kannaDa/eke/
           cp src/main/md/kannada/grammar/*.md  docs/kannaDa/grammar/
@@ -87,9 +88,10 @@ jobs:
           EKEDIR     = 'docs/kannaDa/eke'
 
           # Title constants
+          KANNADA_TITLE  = 'ಕನ್ನಡ'   # L1 root section
           DNSBHAT_TITLE  = 'DNS Bhat'
           EKE_TITLE      = 'Eke'
-          KN_TITLE       = 'ಕನ್ನಡ'   # pure Kannada script — language label
+          KN_TITLE       = 'ಕನ್ನಡ'   # language label (same string, different role)
           EKE_LANG_TITLE = 'ಏಕೆ'    # Kannada script for Eke language variant
 
           # Sources: (dir_key, sidebar_label, nav_order)
@@ -191,19 +193,25 @@ jobs:
 
           sidebar_files = set()
 
-          # ── Pre-pass A: nav_exclude ಕನ್ನಡ wrapper (branding page, not sidebar) ──
+          # ── Pre-pass A: ಕನ್ನಡ — L1 root section ──────────────────────────────────
           kannada_index = os.path.join(KANNADADIR, 'index.md')
           if os.path.exists(kannada_index):
-              add_nav_exclude(kannada_index)
+              with open(kannada_index, encoding='utf-8') as f:
+                  kn_body = strip_fm(f.read())
+              with open(kannada_index, 'w', encoding='utf-8') as f:
+                  f.write(fm(title=KANNADA_TITLE, nav_order=2, has_children=True))
+                  f.write(kn_body)
+              sidebar_files.add(kannada_index)
 
-          # ── Pre-pass B: DNS Bhat — L1 root section (no parent) ────────────────────
+          # ── Pre-pass B: DNS Bhat — L2 under ಕನ್ನಡ ──────────────────────────────
           dnsbhat_index = os.path.join(DNSBHAT, 'index.md')
           if os.path.exists(dnsbhat_index):
               with open(dnsbhat_index, encoding='utf-8') as f:
                   original_body = strip_fm(f.read())
               with open(dnsbhat_index, 'w', encoding='utf-8') as f:
                   f.write(fm(title=DNSBHAT_TITLE,
-                             nav_order=2, has_children=True,
+                             parent=KANNADA_TITLE,
+                             nav_order=1, has_children=True,
                              redirect_from=['/dnsbhat/', '/dnsbhat/index']))
                   f.write(original_body)
               sidebar_files.add(dnsbhat_index)
@@ -305,53 +313,57 @@ jobs:
                   f.write(''.join(body_parts))
               # NOT added to sidebar_files — nav_excluded
 
-          # ── Pass 3: Source L2 + Language L3 section pages ────────────────────────
+          # ── Pass 3: Source L3 section pages (language cols merged inline) ──────────
           # Sidebar:
-          #   DNS Bhat (L1)
-          #   ├── Books   (L2, parent=DNS Bhat)  →  ಕನ್ನಡ / ಏಕೆ / English  (L3)
-          #   ├── Blog    (L2)                   →  ಕನ್ನಡ / ಏಕೆ / English  (L3)
-          #   ├── YouTube (L2)                   →  …
-          #   └── Stubs   (L2)                   →  …
+          #   ಕನ್ನಡ (L1)
+          #   └── DNS Bhat (L2)
+          #       ├── Books   (L3, parent=DNS Bhat, grand_parent=ಕನ್ನಡ)
+          #       ├── Blog    (L3)
+          #       ├── YouTube (L3)
+          #       └── Stubs   (L3)
+          # Language split (ಕನ್ನಡ/ಏಕೆ/English) is shown as table columns within L3 page.
           for src_dir, src_title, src_order in SOURCES:
-              lang_rows = {}   # lang → [(book_num, book_title, content_url)]
+              # Collect all books that have any content for this source
+              src_books = []
               for b in books:
+                  row = {'num': b['book_num'], 'title': b['title'], 'dir': b['dir'], 'links': {}}
                   for lang in ['kn', 'eke', 'en']:
                       if (src_dir, lang) in b['found']:
                           _, rel = b['found'][(src_dir, lang)]
-                          link_url = f'./{b["dir"]}/{url(rel)}'
-                          lang_rows.setdefault(lang, []).append(
-                              (b['book_num'], b['title'], link_url))
-              if not lang_rows:
+                          row['links'][lang] = f'./{b["dir"]}/{url(rel)}'
+                  if row['links']:
+                      src_books.append(row)
+              if not src_books:
                   continue
-              # L2 source page
+              src_books.sort(key=lambda x: x['num'])
+              # Determine which language columns actually have content
+              langs_present = [l for l in ['kn', 'eke', 'en']
+                               if any(l in row['links'] for row in src_books)]
+              # L3 source page
               src_file = os.path.join(DNSBHAT, f'{src_dir}.md')
               with open(src_file, 'w', encoding='utf-8') as f:
                   f.write(fm(title=src_title, parent=DNSBHAT_TITLE,
-                             nav_order=src_order, has_children=True))
+                             grand_parent=KANNADA_TITLE, nav_order=src_order))
                   f.write(f'# {src_title}\n\n')
-                  for lang in ['kn', 'eke', 'en']:
-                      if lang in lang_rows:
-                          f.write(f'- [{LANG_TITLE[lang]}](./{src_dir}-{lang})\n')
+                  # Header row
+                  lang_cols = ' | '.join(LANG_TITLE[l] for l in langs_present)
+                  sep_cols  = ' | '.join('---' for _ in langs_present)
+                  f.write(f'| # | Title | {lang_cols} |\n')
+                  f.write(f'|---|-------|{sep_cols}|\n')
+                  for row in src_books:
+                      cells = []
+                      for lang in langs_present:
+                          lnk = row['links'].get(lang)
+                          cells.append(f'[{LANG_TITLE[lang]}]({lnk})' if lnk else '—')
+                      f.write(f'| {row["num"]} | {row["title"]} | {" | ".join(cells)} |\n')
               sidebar_files.add(src_file)
-              # L3 language pages — sorted book table
+              # Remove stale per-language files from previous runs
               for lang in ['kn', 'eke', 'en']:
-                  if lang not in lang_rows:
-                      continue
-                  rows_sorted = sorted(lang_rows[lang], key=lambda x: x[0])
-                  lang_label  = LANG_TITLE[lang]
-                  lang_order  = LANG_ORDER[lang]
-                  lang_file   = os.path.join(DNSBHAT, f'{src_dir}-{lang}.md')
-                  with open(lang_file, 'w', encoding='utf-8') as f:
-                      f.write(fm(title=lang_label, parent=src_title,
-                                 grand_parent=DNSBHAT_TITLE, nav_order=lang_order))
-                      f.write(f'# {src_title} — {lang_label}\n\n')
-                      f.write('| # | Title | Link |\n')
-                      f.write('|---|-------|------|\n')
-                      for num, title, link_url in rows_sorted:
-                          f.write(f'| {num} | {title} | [{lang_label}]({link_url}) |\n')
-                  sidebar_files.add(lang_file)
+                  stale = os.path.join(DNSBHAT, f'{src_dir}-{lang}.md')
+                  if os.path.exists(stale):
+                      os.remove(stale)
 
-          # ── Pass 4: Eke — L1 root section + L2 child pages ───────────────────────
+          # ── Pass 4: Eke — L2 under ಕನ್ನಡ + L3 child pages ────────────────────────
           if os.path.isdir(EKEDIR):
               eke_readme = os.path.join(EKEDIR, 'README.md')
               eke_index  = os.path.join(EKEDIR, 'index.md')
@@ -361,10 +373,12 @@ jobs:
                   with open(eke_index, encoding='utf-8') as f:
                       body = strip_fm(f.read())
                   with open(eke_index, 'w', encoding='utf-8') as f:
-                      f.write(fm(title=EKE_TITLE, nav_order=3, has_children=True))
+                      f.write(fm(title=EKE_TITLE, parent=KANNADA_TITLE,
+                                 nav_order=2, has_children=True))
                       f.write(body)
                   sidebar_files.add(eke_index)
-              # reference.md, motivation.md → L2 under Eke (no grand_parent)
+              # reference.md, motivation.md, script-history.md → L3 under Eke
+              page_nav_map = {'reference': 1, 'motivation': 2, 'script-history': 3}
               for fname in sorted(os.listdir(EKEDIR)):
                   if not fname.endswith('.md') or fname in ('index.md', 'README.md'):
                       continue
@@ -377,10 +391,11 @@ jobs:
                       t = read_field(existing_fm.group(1), 'title')
                       if t:
                           page_title = t
-                  page_nav = {'reference': 1, 'motivation': 2}.get(fname.replace('.md', ''), 99)
+                  page_nav = page_nav_map.get(fname.replace('.md', ''), 99)
                   body = strip_fm(content)
                   with open(fp, 'w', encoding='utf-8') as f:
-                      f.write(fm(title=page_title, parent=EKE_TITLE, nav_order=page_nav))
+                      f.write(fm(title=page_title, parent=EKE_TITLE,
+                                 grand_parent=KANNADA_TITLE, nav_order=page_nav))
                       f.write(body)
                   sidebar_files.add(fp)
 
@@ -393,18 +408,18 @@ jobs:
               ('illa-verb-paradigm', 'ಇಲ್ಲ — Negator (5 forms)',        3),
           ]
           if os.path.isdir(GRAMMARDIR):
-              # Root index page
+              # Root index page — L2 under ಕನ್ನಡ
               idx = os.path.join(GRAMMARDIR, 'index.md')
               if os.path.exists(idx):
                   with open(idx, encoding='utf-8') as f:
                       body = strip_fm(f.read())
                   body = re.sub(r'\]\(((?!http)[^)]+)\.md\)', r'](\1)', body)
                   with open(idx, 'w', encoding='utf-8') as f:
-                      f.write(fm(title=GRAMMAR_TITLE, nav_order=4,
-                                 has_children=True))
+                      f.write(fm(title=GRAMMAR_TITLE, parent=KANNADA_TITLE,
+                                 nav_order=3, has_children=True))
                       f.write(body)
                   sidebar_files.add(idx)
-              # Child pages
+              # Child pages — L3 (parent=Grammar, grand_parent=ಕನ್ನಡ)
               for slug, title, nav in GRAMMAR_PAGES:
                   fp = os.path.join(GRAMMARDIR, f'{slug}.md')
                   if not os.path.exists(fp):
@@ -413,7 +428,8 @@ jobs:
                       body = strip_fm(f.read())
                   body = re.sub(r'\]\(((?!http)[^)]+)\.md\)', r'](\1)', body)
                   with open(fp, 'w', encoding='utf-8') as f:
-                      f.write(fm(title=title, parent=GRAMMAR_TITLE, nav_order=nav))
+                      f.write(fm(title=title, parent=GRAMMAR_TITLE,
+                                 grand_parent=KANNADA_TITLE, nav_order=nav))
                       f.write(body)
                   sidebar_files.add(fp)
 
