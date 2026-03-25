@@ -48,6 +48,9 @@ stem + **-ಉತ್ತ-** + PNG
 | 3rd fem | ಮಾಡುತ್ತಾಳೆ | mADuttALe | ಮಾಡುತ್ತಾರೆ | mADuttAre |
 | 3rd neut | ಮಾಡುತ್ತದೆ | mADuttade | ಮಾಡುತ್ತವೆ | mADuttave |
 
+> **Why not `ಮಾಡುವೆ` (mADuve)?**
+> `ಮಾಡುವೆ` (mADu + linking -v- + 1sg -e) is a valid literary and formal Kannada form, with paradigm-mates: *ಮಾಡುವೆ, ಮಾಡುವೆವು, ಮಾಡುವಿರಿ…* These come from an older -uva- participial-based conjugation still found in classical poetry and formal registers. Bhat's §5.1.1 uses the -utt- non-past marker throughout — giving mADuttEne for 1sg — and does not double-count the -uve alternates. The same applies to all regular verbs: kELuve, mADuve, barave etc. are valid but outside Bhat's 36-count paradigm.
+
 ---
 
 ### ಅರಿಕೆರೂಪ — Imperative (5)
