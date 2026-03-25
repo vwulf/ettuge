@@ -1,4 +1,4 @@
-> **Illustrated version:** [View as styled table →](iru-verb-paradigm.html)  
+> **Illustrated version:** [View as styled table →](iru-illustrated.html)  
 > Noto Kannada fonts · colour-coded by tense
 
 > ನೆರವೆಸಕಪದಗಳಲ್ಲಿ ಇರು ಎಂಬುದಕ್ಕೆ ಒಟ್ಟು 42 ಪದರೂಪಗಳಿವೆ

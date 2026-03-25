@@ -30,7 +30,7 @@ jobs:
           cp -R src/main/md/kannada/dnsbhat/. docs/kannaDa/dnsbhat/
           cp -R src/main/md/kannada/eke/. docs/kannaDa/eke/
           cp src/main/md/kannada/grammar/*.md  docs/kannaDa/grammar/
-          cp src/main/md/kannada/grammar/*.html docs/kannaDa/grammar/
+          cp src/main/md/kannada/grammar/*-illustrated.html docs/kannaDa/grammar/
           # README.md → index.md for dnsbhat (nav_exclude set by Python script)
           if [ -f docs/kannaDa/dnsbhat/README.md ]; then
             mv docs/kannaDa/dnsbhat/README.md docs/kannaDa/dnsbhat/index.md

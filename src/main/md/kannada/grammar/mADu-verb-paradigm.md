@@ -1,4 +1,4 @@
-> **Illustrated version:** [View as styled table →](mADu-verb-paradigm.html)  
+> **Illustrated version:** [View as styled table →](mADu-illustrated.html)  
 > Noto Kannada fonts · colour-coded by tense
 
 > ತಿರುಳೆಸಕಪದಗಳಿಗೆ 23 ಕೊನೆರೂಪಗಳು ಮತ್ತು 13 ನಡುರೂಪಗಳು ಎಂಬುದಾಗಿ ಒಟ್ಟು 36 ಪದರೂಪಗಳಿವೆ

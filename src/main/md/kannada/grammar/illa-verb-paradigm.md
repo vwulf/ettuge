@@ -1,4 +1,4 @@
-> **Illustrated version:** [View as styled table →](illa-verb-paradigm.html)  
+> **Illustrated version:** [View as styled table →](illa-illustrated.html)  
 > Noto Kannada fonts · colour-coded by tense
 
 > ಇಲ್ಲ ಎಂಬುದಕ್ಕೆ ಕೊನೆರೂಪವಾಗಿ ಒಂದು ತಿಳಿವುರೂಪ ಮಾತ್ರ ಇದೆ
