@@ -52,19 +52,19 @@ along the line that I ran into [^9] are less prevalent.
 
 ## References
 
-[^1]: https://github.com/vwulf/ettuge/blob/master/src/main/haskell/euterpea/twinkle.hs
-[^2]: https://en.wikipedia.org/wiki/Rangapura_Vihara
-[^3]: http://www.shivkumar.org/music/basics/ramesh/gentle-intro-ramesh-mahadevan-I.htm
-[^4]: http://www.shivkumar.org/music/rangapura.pdf
-[^5]: https://github.com/vwulf/ettuge/blob/master/src/main/haskell/euterpea/twinkle.m4a
-[^6]: https://www.cs.yale.edu/homes/hudak/Papers/HSoM.pdf
-[^7]: https://en.wikipedia.org/wiki/R._Prasanna
-[^8]: https://youtu.be/c3O0PhhD6B4?si=LQbJRKrH7HZcbtIZ
-[^9]: https://stackoverflow.com/questions/40869437/installation-of-haskell-package-euterpea-fails-on-nixos
-[^10]: https://github.com/bartschuller/euterpea-scala3
-[^11]: https://en.wikipedia.org/wiki/Muthuswami_Dikshitar
-[^12]: https://en.wikipedia.org/wiki/Thondaradippodi_Alvar
-[^13]: https://sujamusic.wordpress.com/2013/12/31/pacchai-ma-malai/
-[^14]: https://sujamusic.wordpress.com/2012/02/08/rangapura-vihara/
-[^15]: https://github.com/Euterpea/Euterpea2
-[^16]: https://github.com/vwulf/ettuge/blob/master/src/main/haskell/euterpea/rangapura.hs
+[^1]: <https://github.com/vwulf/ettuge/blob/master/src/main/haskell/euterpea/twinkle.hs>
+[^2]: <https://en.wikipedia.org/wiki/Rangapura_Vihara>
+[^3]: <http://www.shivkumar.org/music/basics/ramesh/gentle-intro-ramesh-mahadevan-I.htm>
+[^4]: <http://www.shivkumar.org/music/rangapura.pdf>
+[^5]: <https://github.com/vwulf/ettuge/blob/master/src/main/haskell/euterpea/twinkle.m4a>
+[^6]: <https://www.cs.yale.edu/homes/hudak/Papers/HSoM.pdf>
+[^7]: <https://en.wikipedia.org/wiki/R._Prasanna>
+[^8]: <https://youtu.be/c3O0PhhD6B4?si=LQbJRKrH7HZcbtIZ>
+[^9]: <https://stackoverflow.com/questions/40869437/installation-of-haskell-package-euterpea-fails-on-nixos>
+[^10]: <https://github.com/bartschuller/euterpea-scala3>
+[^11]: <https://en.wikipedia.org/wiki/Muthuswami_Dikshitar>
+[^12]: <https://en.wikipedia.org/wiki/Thondaradippodi_Alvar>
+[^13]: <https://sujamusic.wordpress.com/2013/12/31/pacchai-ma-malai/>
+[^14]: <https://sujamusic.wordpress.com/2012/02/08/rangapura-vihara/>
+[^15]: <https://github.com/Euterpea/Euterpea2>
+[^16]: <https://github.com/vwulf/ettuge/blob/master/src/main/haskell/euterpea/rangapura.hs>

@@ -84,9 +84,9 @@ To see the differences, see [^2] and [^6] on your browser and scroll down.
 
 References:
 
-[^1]: https://en.wikipedia.org/wiki/Natural_number
-[^2]: https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/Eke.md
-[^3]: https://github.com/vwulf/ettuge/tree/master/src/main/md/kannada/sections
-[^4]: https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/sections/list_of_files.txt
-[^5]: https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/sections/pandoc_cmd.nu
-[^6]: https://github.com/vwulf/ettuge/blob/e2d17c832b90c29e076d3a56fc0626a82497b286/src/main/md/kannada/Eke.md   
+[^1]: <https://en.wikipedia.org/wiki/Natural_number>
+[^2]: <https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/Eke.md>
+[^3]: <https://github.com/vwulf/ettuge/tree/master/src/main/md/kannada/sections>
+[^4]: <https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/sections/list_of_files.txt>
+[^5]: <https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/sections/pandoc_cmd.nu>
+[^6]: <https://github.com/vwulf/ettuge/blob/e2d17c832b90c29e076d3a56fc0626a82497b286/src/main/md/kannada/Eke.md>   
