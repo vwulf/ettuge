@@ -185,15 +185,16 @@ Books that have reshaped how I think, see, or act. Organized by author.
 
 | Book | Summary |
 |------|---------|
-| [Maatina oLaguTTu](http://dnshankarabhat.net/dr-d-n-shankara-bhat/) | D. N. Shankara Bhat's foundational Kannada linguistics work exploring the internal structure and historical development of the Kannada language from within the Dravidian typological framework. Bhat's approach—rigorous, theoretically informed, rooted in data—has shaped modern Kannada linguistic scholarship. |
-| [Sound Change](http://dnshankarabhat.net/dr-d-n-shankara-bhat/) | A systematic study of phonological change in the Dravidian language family, with detailed attention to Kannada. Essential reading for anyone interested in how Kannada developed its distinctive phonological character. |
-| [kannaDa beLadu banda dAri](http://dnshankarabhat.net/dr-d-n-shankara-bhat/) | A history of the Kannada language's development—tracing the path from ancient Dravidian roots through the influence of Sanskrit and Prakrit to the modern literary and spoken registers. |
-| [kannaDakke bEku kannaDadde vyAkaraNa](http://dnshankarabhat.net/dr-d-n-shankara-bhat/) | Bhat's argument for a Kannada-internal grammar of Kannada—rejecting the imposition of Sanskrit grammatical categories on a language with fundamentally different typological properties. One of the most important contributions to Kannada grammatical thought. |
-| [kannaDa baravaNigeyannu saripadisONa](http://dnshankarabhat.net/dr-d-n-shankara-bhat/) | A study of Kannada orthography and script reform—examining how the written conventions of Kannada could be rationalized to better represent spoken Kannada while preserving the script's aesthetic and cultural heritage. |
-| [kannaDa sollarime](http://dnshankarabhat.net/dr-d-n-shankara-bhat/) | Bhat's exploration of Kannada vocabulary—its Dravidian base, its Sanskrit borrowings, its native innovations—as a window into the history of Kannada culture and the intellectual lives of its speakers. |
+| mAtina oLaguTTu | Foundational Kannada linguistics work exploring the internal structure and historical development of the Kannada language from within the Dravidian typological framework. |
+| Sound Change | Systematic study of phonological change in the Dravidian language family, with detailed attention to Kannada. |
+| kannaDa beLadu banda dAri | History of the Kannada language's development — tracing the path from ancient Dravidian roots through Sanskrit and Prakrit influence to modern registers. |
+| kannaDakke bEku kannaDadde vyAkaraNa | Argument for a Kannada-internal grammar — rejecting Sanskrit grammatical categories imposed on a language with fundamentally different typological properties. |
+| kannaDa baravaNigeyannu saripadisONa | Study of Kannada orthography and script reform — rationalizing written conventions to better represent spoken Kannada. |
+| kannaDa sollarime | Exploration of Kannada vocabulary — its Dravidian base, Sanskrit borrowings, and native innovations as a window into cultural history. |
 | [kannadadalle hosapadagalannu kaTTuva bage](influential/kannadadalle-hosapadagalannu-kattuva-bage.md) | Practical handbook for creating new Kannada vocabulary using native Dravidian morphological resources. Documents three word classes, two creation methods, and four prefix groups — applied affix-by-affix across 52 parts. Primary source for the DNS Bhat word-formation methodology. |
 | [kannaDakke mahAprANa yAke bEDa](influential/kannadakke-mahaprana-yake-beda.md) | Concise advocacy booklet arguing Kannada script does not need its aspirated-stop letters (borrowed from Sanskrit, absent from spoken Kannada). Frames retention as a literacy barrier; surveys script reforms in six other languages; dismantles ten objections. |
 | [nijakku halegannaDa vyAkaraNa entahadu?](influential/nijakku-halegannada-vyakarana-entahadu.md) | Scholarly investigation of Old Kannada grammar — distinguishing genuine Dravidian rules from Sanskrit-imposed categories applied by ancient grammarians like Keshiraja. Shows how both classical and modern Kannada grammars went astray by following Sanskrit models. |
+
 ---
 
 ### Science and Biology
