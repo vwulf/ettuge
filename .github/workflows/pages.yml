@@ -353,10 +353,14 @@ jobs:
           if os.path.exists(books_index):
               with open(books_index, encoding='utf-8') as f:
                   body = strip_fm(f.read())
+              # Strip .md from relative internal links so Jekyll resolves them correctly
+              body = re.sub(r'\]\(((?!http)[^)]+)\.md\)', r'](\1)', body)
+              # Fix stale cross-refs to DNS Bhat content
+              body = body.replace('../kannada/dnsbhat/', '../kannaDa/dnsbhat/')
               with open(books_index, 'w', encoding='utf-8') as f:
-                  f.write(fm(title='Books', nav_order=4))
+                  f.write(fm(title='Books', nav_order=4, has_children=True))
                   f.write(body)
-              # nav_exclude all individual book files
+              # nav_exclude all individual book files (pages exist; just hidden from sidebar)
               inf_dir = os.path.join(BOOKSDIR, 'influential')
               if os.path.isdir(inf_dir):
                   for fname in os.listdir(inf_dir):
