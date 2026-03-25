@@ -1,29 +1,28 @@
 //> using scala 3.6.4
-//> using dep com.softwaremill.sttp.client4::core:4.0.3
-//> using dep com.softwaremill.sttp.client4::zio-json:4.0.3
-//> using dep dev.zio::zio-json:0.7.3
+// TODO: update versions once kyo-http is published from https://github.com/getkyo/kyo/pull/1479
+//> using dep io.getkyo::kyo-http:0.17.0
+//> using dep io.getkyo::kyo-core:0.17.0
+//> using dep io.getkyo::kyo-direct:0.17.0
 
-import sttp.client4.*
-import sttp.client4.ziojson.*
-import zio.json.*
+import kyo.*
 
 import java.nio.file.{Files, Paths, StandardOpenOption}
 import java.nio.charset.StandardCharsets
 
 // ── Groq API types ──────────────────────────────────────────────
 
-case class ChatMessage(role: String, content: String) derives JsonEncoder, JsonDecoder
+case class ChatMessage(role: String, content: String) derives Json
 
 case class ChatRequest(
     model: String,
     messages: Seq[ChatMessage],
     temperature: Double,
     max_tokens: Int
-) derives JsonEncoder
+) derives Json
 
-case class Choice(index: Int, message: ChatMessage) derives JsonDecoder
-case class Usage(prompt_tokens: Int, completion_tokens: Int, total_tokens: Int) derives JsonDecoder
-case class ChatResponse(choices: Seq[Choice], usage: Option[Usage]) derives JsonDecoder
+case class Choice(index: Int, message: ChatMessage) derives Json
+case class Usage(prompt_tokens: Int, completion_tokens: Int, total_tokens: Int) derives Json
+case class ChatResponse(choices: Seq[Choice], usage: Option[Usage]) derives Json
 
 // ── Configuration ───────────────────────────────────────────────
 
@@ -88,71 +87,74 @@ case class PilotResult(
     response: String,
     promptTokens: Int,
     completionTokens: Int
-) derives JsonEncoder
+) derives Json
 
 // ── Main application ────────────────────────────────────────────
 
-@main def run(): Unit =
-  val backend = DefaultSyncBackend()
+object Main extends KyoApp:
+  run {
+    println("═══════════════════════════════════════════════════")
+    println("  ಎತ್ತುಗೆ (Ettuge) — Kannada Word Formation Pilot")
+    println(s"  Model: ${Config.model} on Groq")
+    println(s"  Batch size: ${Config.batchSize}")
+    println(s"  Output: ${Config.outputFile}")
+    println("═══════════════════════════════════════════════════")
 
-  println("═══════════════════════════════════════════════════")
-  println("  ಎತ್ತುಗೆ (Ettuge) — Kannada Word Formation Pilot")
-  println(s"  Model: ${Config.model} on Groq")
-  println(s"  Batch size: ${Config.batchSize}")
-  println(s"  Output: ${Config.outputFile}")
-  println("═══════════════════════════════════════════════════")
+    // Load system prompt
+    val promptPath = Paths.get(Config.promptFile)
+    if !Files.exists(promptPath) then
+      System.err.println(s"ERROR: Prompt file not found: ${Config.promptFile}")
+      System.err.println("Run from the dnsbhat directory.")
+      sys.exit(1)
 
-  // Load system prompt
-  val promptPath = Paths.get(Config.promptFile)
-  if !Files.exists(promptPath) then
-    System.err.println(s"ERROR: Prompt file not found: ${Config.promptFile}")
-    System.err.println("Run from the dnsbhat directory.")
-    sys.exit(1)
+    val systemPrompt = String(Files.readAllBytes(promptPath), StandardCharsets.UTF_8)
+    println(s"Loaded system prompt: ${systemPrompt.length} chars")
 
-  val systemPrompt = String(Files.readAllBytes(promptPath), StandardCharsets.UTF_8)
-  println(s"Loaded system prompt: ${systemPrompt.length} chars")
+    // Delete old output file
+    Files.deleteIfExists(Paths.get(Config.outputFile))
 
-  // Delete old output file
-  Files.deleteIfExists(Paths.get(Config.outputFile))
+    var totalTokensIn  = 0
+    var totalTokensOut = 0
+    var totalWords     = 0
 
-  var totalTokensIn  = 0
-  var totalTokensOut = 0
-  var totalWords     = 0
-
-  for (category, words) <- PilotWords.all do
-    val batches = words.grouped(Config.batchSize).toSeq
-    println(s"\n── Category $category: ${words.size} words in ${batches.size} batches ──")
-
-    for (batch, idx) <- batches.zipWithIndex do
-      println(s"  Batch ${idx + 1}/${batches.size}: ${batch.take(3).mkString(", ")}...")
-
-      val result = sendBatch(backend, systemPrompt, batch, category, idx)
-      appendResult(result)
-
-      totalTokensIn  += result.promptTokens
-      totalTokensOut += result.completionTokens
-      totalWords     += batch.size
-
-      println(s"    ✓ ${result.promptTokens} in / ${result.completionTokens} out tokens")
-
-      // Rate limiting: Groq free tier is 30 req/min for some models
-      Thread.sleep(2500)
-  end for
-
-  val costIn    = totalTokensIn * 0.29 / 1_000_000.0
-  val costOut   = totalTokensOut * 0.59 / 1_000_000.0
-  val totalCost = costIn + costOut
-
-  println(s"\n═══════════════════════════════════════════════════")
-  println(s"  Done! $totalWords words processed")
-  println(f"  Input tokens:  $totalTokensIn  ($$${costIn}%.4f)")
-  println(f"  Output tokens: $totalTokensOut  ($$${costOut}%.4f)")
-  println(f"  Total cost:    $$${totalCost}%.4f")
-  println(s"  Results: ${Config.outputFile}")
-  println(s"═══════════════════════════════════════════════════")
-
-  backend.close()
-end run
+    Kyo.foreachDiscard(PilotWords.all) { (category, words) =>
+      val batches = words.grouped(Config.batchSize).toSeq
+      println(s"\n── Category $category: ${words.size} words in ${batches.size} batches ──")
+      Kyo.foreachDiscard(batches.zipWithIndex) { (batch, idx) =>
+        println(s"  Batch ${idx + 1}/${batches.size}: ${batch.take(3).mkString(", ")}...")
+        Abort.run[HttpException](sendBatch(systemPrompt, batch, category, idx))
+          .map {
+            case Result.Success(r) => r
+            case Result.Fail(err) =>
+              System.err.println(s"    ✗ Request failed: $err")
+              PilotResult(category, idx, batch, s"ERROR: $err", 0, 0)
+            case Result.Panic(ex) =>
+              System.err.println(s"    ✗ Request failed: ${ex.getMessage}")
+              PilotResult(category, idx, batch, s"EXCEPTION: ${ex.getMessage}", 0, 0)
+          }
+          .map { result =>
+            appendResult(result)
+            totalTokensIn  += result.promptTokens
+            totalTokensOut += result.completionTokens
+            totalWords     += batch.size
+            println(s"    ✓ ${result.promptTokens} in / ${result.completionTokens} out tokens")
+          }
+          .flatMap { _ => Async.sleep(2500.millis) }
+      }
+    }.map { _ =>
+      val costIn    = totalTokensIn * 0.29 / 1_000_000.0
+      val costOut   = totalTokensOut * 0.59 / 1_000_000.0
+      val totalCost = costIn + costOut
+      println(s"\n═══════════════════════════════════════════════════")
+      println(s"  Done! $totalWords words processed")
+      println(f"  Input tokens:  $totalTokensIn  ($$${costIn}%.4f)")
+      println(f"  Output tokens: $totalTokensOut  ($$${costOut}%.4f)")
+      println(f"  Total cost:    $$${totalCost}%.4f")
+      println(s"  Results: ${Config.outputFile}")
+      println(s"═══════════════════════════════════════════════════")
+    }
+  }
+end Main
 
 // ── HTTP / Groq ─────────────────────────────────────────────────
 
@@ -182,12 +184,11 @@ def buildUserPrompt(words: Seq[String], category: String): String =
      |Output ONLY the JSON lines, no other text. One JSON object per line.""".stripMargin
 
 def sendBatch(
-    backend: SyncBackend,
     systemPrompt: String,
     words: Seq[String],
     category: String,
     batchIndex: Int
-): PilotResult =
+): PilotResult < (Async & Abort[HttpException]) =
   val userPrompt = buildUserPrompt(words, category)
   val reqBody = ChatRequest(
     model = Config.model,
@@ -198,30 +199,23 @@ def sendBatch(
     temperature = Config.temperature,
     max_tokens = Config.maxTokens
   )
-
-  val httpReq = basicRequest
-    .post(uri"https://api.groq.com/openai/v1/chat/completions")
-    .header("Authorization", s"Bearer ${Config.groqApiKey}")
-    .body(reqBody.toJson)
-    .response(asJson[ChatResponse])
-
-  try
-    val response = httpReq.send(backend)
-    response.body match
-      case Right(chatResp) =>
-        val text  = chatResp.choices.headOption.map(_.message.content).getOrElse("")
-        val usage = chatResp.usage.getOrElse(Usage(0, 0, 0))
-        PilotResult(category, batchIndex, words, text, usage.prompt_tokens, usage.completion_tokens)
-      case Left(err) =>
-        System.err.println(s"    ✗ API error: $err")
-        PilotResult(category, batchIndex, words, s"ERROR: $err", 0, 0)
-  catch
-    case e: Exception =>
-      System.err.println(s"    ✗ Request failed: ${e.getMessage}")
-      PilotResult(category, batchIndex, words, s"EXCEPTION: ${e.getMessage}", 0, 0)
+  HttpClient.withConfig(
+    _.baseUrl("https://api.groq.com")
+      .timeout(60.seconds)
+      .addFilter(HttpFilter.client.bearerAuth(Config.groqApiKey))
+  ) {
+    HttpClient.postJson[ChatRequest, ChatResponse](
+      "/openai/v1/chat/completions",
+      reqBody
+    ).map { chatResp =>
+      val text  = chatResp.choices.headOption.map(_.message.content).getOrElse("")
+      val usage = chatResp.usage.getOrElse(Usage(0, 0, 0))
+      PilotResult(category, batchIndex, words, text, usage.prompt_tokens, usage.completion_tokens)
+    }
+  }
 
 def appendResult(result: PilotResult): Unit =
-  val line = result.toJson + "\n"
+  val line = Json.encode(result) + "\n"
   Files.write(
     Paths.get(Config.outputFile),
     line.getBytes(StandardCharsets.UTF_8),
