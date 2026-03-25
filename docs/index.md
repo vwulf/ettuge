@@ -30,7 +30,7 @@ A running notebook for functional programming ideas, worked out mostly in Haskel
 - **[ॐλ — Lambda Calculus](FP/om-lambda)** — Y combinators, fixed points, and the self-reference that turns pure substitution into recursion
 - **[Monoids and Semigroups](FP/monoids-and-semigroups)** — Addition, string concatenation, set merging: the algebraic pattern that underlies composable code
 - **[rangapura vihAra](FP/hsom)** — Using Euterpea (Haskell School of Music) to encode a Carnatic fusion rendition
-- **[Lazy Min-K in Haskell](FP/qsortof)** — Finding the minimum k elements lazily; part [2](FP/qsortof-part2) covers the heap approach
+- **[Lazy Min-K in Haskell](FP/qsortof)** — Finding the minimum k elements lazily using quickselect
 - **[Reading Types in Haskell](FP/haskell-types)** — Using the GHC interpreter as a conversation partner; Kannada characters (ಅ, ಆ, …) fed to the type-checker
 - **[ಕಳ್ಳ — Pumpkin Puzzle](FP/kumbaLakAyi-kaLLanalla)** — A simple iteration puzzle, solved in Haskell with Kannada script in the source
 - **[Kojo — Clouds and Flowers](FP/cloud_flowers_and)** — Scala turtle graphics: clouds, flowers, random polygons, ladders

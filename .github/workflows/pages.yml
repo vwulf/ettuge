@@ -402,7 +402,7 @@ jobs:
               ('monoids-and-semigroups.md',  'Monoids and Semigroups',      2),
               ('hsom.md',                    'rangapura vihAra',            3),
               ('qsortof.md',                 'Lazy Min-K in Haskell',       4),
-              ('qsortof-part2.md',           'Lazy Min-K — Part 2',         5),
+              # qsortof-part2.md is references-only, not yet written — nav_excluded
               ('haskell-types.md',           'Reading Types in Haskell',    6),
               ('kumbaLakAyi-kaLLanalla.md',  'ಕಳ್ಳ — Pumpkin Puzzle',       7),
               ('cloud_flowers_and.md',       'Kojo — Clouds and Flowers',   8),
