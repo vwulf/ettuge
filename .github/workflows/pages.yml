@@ -33,6 +33,13 @@ jobs:
             mv docs/kannaDa/dnsbhat/README.md docs/kannaDa/dnsbhat/index.md
           fi
 
+      - name: Copy Books catalog into docs/Books/
+        run: |
+          rm -rf docs/Books || true
+          mkdir -p docs/Books/influential
+          cp src/main/md/Books/Books.md docs/Books/Books.md
+          cp src/main/md/Books/influential/*.md docs/Books/influential/
+
       - name: Generate sidebar — DNS Bhat and Eke
         run: |
           python3 - <<'PYEOF'
@@ -340,7 +347,23 @@ jobs:
                       f.write(body)
                   sidebar_files.add(fp)
 
-          # ── Pass 5: nav_exclude all remaining .md files ───────────────────────────
+          # ── Pass 5: Books catalog — L1 sidebar entry, individual files nav_excluded ─
+          BOOKSDIR = 'docs/Books'
+          books_index = os.path.join(BOOKSDIR, 'Books.md')
+          if os.path.exists(books_index):
+              with open(books_index, encoding='utf-8') as f:
+                  body = strip_fm(f.read())
+              with open(books_index, 'w', encoding='utf-8') as f:
+                  f.write(fm(title='Books', nav_order=4))
+                  f.write(body)
+              # nav_exclude all individual book files
+              inf_dir = os.path.join(BOOKSDIR, 'influential')
+              if os.path.isdir(inf_dir):
+                  for fname in os.listdir(inf_dir):
+                      if fname.endswith('.md'):
+                          add_nav_exclude(os.path.join(inf_dir, fname))
+
+          # ── Pass 6: nav_exclude all remaining .md files ───────────────────────────
           for walk_root, dirs, files in os.walk(KANNADADIR):
               dirs[:] = [d for d in dirs if not d.startswith('.')]
               for fname in files:
