@@ -973,6 +973,116 @@ All 6 books now have `youtube/en/summary.md` with explicit quality assessment an
 
 ---
 
+### Phase 28 — Sidebar Restructure + Eke Motivation Rewrite (2026-03-24)
+
+**Sidebar restructure:** ಕನ್nnaDa L1 root reorganised — DNS Bhat / Eke / Grammar as L2 peers; Books / Blog / YouTube / Stubs as L3 under DNS Bhat. 562 occurrences of mixed-script `ಕನ್nnaDa` header text normalised.
+
+**Eke motivation section rewritten:** Symbol complexity table added (46 Eke symbols vs Devanagari's 47); `q/Q` for vocalic ḷ/ḹ documented; `:` and `^` as dialect modifiers clarified (`:` = geminate, `^` = unrounded-u in Havyaka). Script history Tamil-Brāhmī lineage clarified.
+
+---
+
+### Phase 29 — Grammar Section: Illustrated Verb Paradigms (2026-03-25)
+
+New directory `src/main/md/kannada/grammar/` with three verb paradigm pairs:
+
+| File | Content |
+|------|---------|
+| `iru-verb-paradigm.md` | 42 forms of ಇರು across tense/mood/person/number |
+| `iru-illustrated.html` | Visual interactive paradigm table |
+| `mADu-verb-paradigm.md` | 36 forms of ಮಾಡು |
+| `mADu-illustrated.html` | Visual interactive paradigm table |
+| `illa-verb-paradigm.md` | 5 forms of ಇಲ್ಲ (defective negative) |
+| `illa-illustrated.html` | Visual interactive paradigm table |
+
+Cross-navigation between all three illustrated pages (prev/next banners). Compound forms notes added: `mADihanu` (converb + emphatic ಹನು), `mADalAre` (purpose converb + defective aux ಆರು). Root redirect stubs at grammar folder index.
+
+---
+
+### Phase 30 — Books / FP / Self-Reflection on GitHub Pages (2026-03-25)
+
+Three additional content sections published to GitHub Pages with full sidebar integration:
+
+- **Books catalog** (`docs/Books/`) — personal reading catalog with influential/ subdirectory. Nav root at nav_order 4.
+- **FP / Haskell** (`docs/FP/`) — functional programming documentation. Nav root at nav_order 5.
+- **Self-reflection** (`docs/self-reflection/`) — dated reflection documents with index.md. Nav root at nav_order 6.
+
+All three sections integrated into the Jekyll sidebar alongside the existing Kannada / Grammar / Eke sections.
+
+---
+
+### Phase 31 — PROJECT-RECAP Cleanup (2026-03-25)
+
+Removed stale TBD items from PROJECT-RECAP.md:
+- 3 completed High-priority items (Deep TOC anchors Phase 19, Markdown headings Phase 18, word-per-line OCR artifact Phase 18)
+- "Expand Eke home page description" completed item removed
+
+---
+
+### Phase 32 — CI Chapter Splitter + Chapter Anchors (2026-03-25)
+
+**Book 14 raw.md cleanup:** 587 lines of Internet Archive HTML chrome (nav bars, SVG icons, banners) removed from top of `book/kn/raw.md`; content now starts cleanly at `# Full text of "..."`.
+
+**Chapter splitter added to CI (`pages.yml`):** Walks all `docs/kannaDa/dnsbhat/*/book/*/full.md`, splits at `<a id="(?:ch|adhyAya-)(\d+)">` anchors, generates:
+- `ch0.md` — preamble + ಪರಿವಿಡಿ TOC with `#chN` links rewritten to page-relative `chN` + chapter quick-nav bar; `nav_exclude: true`
+- `ch1.md`…`chN.md` — one per chapter anchor; nav banner `← Prev · Contents · Next →`
+
+Sidebar CANDIDATES updated so `book/kn/ch0.md` takes priority over `book/kn/full.md` (lightweight index first on slow connections).
+
+**Chapter anchors added** to three books that lacked them:
+- **Book 27** — 5 `<a id="chN">` aliases added before each `#part-N` anchor
+- **Book 31** — 19 `<a id="chN">` anchors added before each `## LETTER` heading (A=ch1, B=ch2, … W=ch19)
+- **Book 07 vol4** — `ch9` before `sec-9-1`, `ch10` before `sec-10-1`
+
+**Books with chapter pages generated (≥2 anchors):** 03, 07 (vol1–vol4), 08, 14, 17, 25, 27, 28, 29, 30, 31 — 13 full.md files, ~120 chapter pages total.
+
+**Commit:** `e07a46d` — `feat(ci): add chapter splitter step to pages.yml — Phase 32`
+
+---
+
+### Phase 33 — Chapter Page Title Fixes + Claude Prompt Chapter URLs (2026-03-26)
+
+**Chapter title extraction fixed (5 commits to `pages.yml`):**
+
+| Fix | Problem | Solution |
+|-----|---------|----------|
+| TOC-priority | `first_heading()` found section headings (`## ೧.೧ ...`) instead of chapter titles for books 03, 08, 14 | Added `toc_title_map()` parsing `[ಅಧ್ಯಾಯ N — Title](#adhyAya-N)` links; TOC title preferred over body heading |
+| Number-prefix strip | `## 1. ಮುನ್ನೋಟ` rendered as "1. ಮುನ್ನೋಟ" | Added `re.sub(r'^[\d\u0CE6-\u0CEF]+[.\s]+', '', h)` to strip Arabic and Kannada numeral prefixes |
+| Book 07 vol4 | No `## ` chapter headings for ch9/ch10 | Added `## ಅಧ್ಯಾಯ ೯ — ಆಡುಪದಗಳ ಬಳಕೆ` and `## ಅಧ್ಯಾಯ ೧೦ — ತೋರುಪದಗಳ ಬಳಕೆ` + TOC links |
+| Book 27 ch4 | `ಭಾಗ ನಾಲ್ಕು` was plain text, not `## ` | Promoted to `## ಭಾಗ ನಾಲ್ಕು — ಕನ್ನಡ ಭಾಷೆಯ ಸ್ವರೂಪ`; other part headings given subtitles |
+| Book 03 ch9 | `## ಅಧ್ಯಾಯ ಒಂಬತ್ತು` (generic); missing TOC entry | Updated to `## ಅಧ್ಯಾಯ ೯ — ಮುಕ್ತಾಯ`; added `[ಅಧ್ಯಾಯ 9 — ಮುಕ್ತಾಯ](#adhyAya-9)` to TOC |
+
+**Verified live on GitHub Pages** — all 13 book/vol files now have correct chapter page titles:
+- Book 03 ch1: "Ch 1 — ಪೀಠಿಕೆ" ✅
+- Book 07 vol1 ch1: "Ch 1 — ಮುನ್ನೋಟ" ✅
+- Book 08 ch1: "Ch 1 — ಮುನ್ನೋಟ" ✅
+- Book 14 ch1: "Ch 1 — ಪೀಠಿಕೆ" ✅
+- Book 27 ch1: "Ch 1 — ಭಾಗ ಒಂದು — ಭಾಷೆಯ ಸ್ವರೂಪ" ✅
+- Book 31 ch1: "Ch 1 — A" ✅
+
+**Claude prompt chapter URL updates:** `update_chapter_prompts.py` script written and run — appended Phase 33 item to 11 `claude-prompt.md` files with exact GitHub Pages fetch URLs per chapter:
+
+| Book | Chapters | Item # |
+|------|---------|--------|
+| 03 | ch1–ch9 | 11 |
+| 07 | ch1–ch4 (vol1), ch5–ch6 (vol2), ch7–ch8 (vol3), ch9–ch10 (vol4) | 12 |
+| 08 | ch1–ch5 | 11 |
+| 14 | ch1–ch12 | 11 |
+| 17 | ch1–ch12 | 11 |
+| 25 | ch1–ch11 | 11 |
+| 27 | ch1–ch5 | 11 |
+| 28 | ch1–ch12 | 11 |
+| 29 | ch1–ch11 | 11 |
+| 30 | ch1–ch10 (new INSTRUCTIONS section) | 1 |
+| 31 | ch1–ch19 (A–W) | 7 |
+
+Purpose: Claude Chat skills can now fetch a specific chapter URL (e.g. `book/kn/ch3`) rather than loading the full 100k–300k character source, preventing token exhaustion when answering focused questions.
+
+**Primers regenerated:** 194k + 129k chars (both within 200k limit) ✅
+
+**Commits:** `69e5808`…`6ee4a69` — Phase 33 chapter title fixes and prompt updates
+
+---
+
 ## Eke Romanisation System
 
 **Ellara KannaDa (Eke)** is a romanisation of Kannada devised by Vishwas — inspired by HK protocol and DNS Bhat's ideas, designed to be learnable by any Indian and usable by non-Kannada readers. It is the romanisation used throughout the `-kn-eke.md` files.
