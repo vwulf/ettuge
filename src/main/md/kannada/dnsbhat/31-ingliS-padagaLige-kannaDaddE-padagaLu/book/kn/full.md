@@ -1,4 +1,6 @@
 ---
+title: "ಇಂಗ್ಲಿಶ್ ಪದಗಳಿಗೆ ಕನ್ನಡದ್ದೇ ಪದಗಳು"
+nav_order: 131
 redirect_from:
   - /dnsbhat/31-inglis-padagalige-kannadade-padagalu/31-inglis-padagalige-kannadade-padagalu-kn
 ---
