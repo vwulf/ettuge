@@ -104,6 +104,21 @@ jobs:
                   return h.strip()
               return ''
 
+          def make_index(fp, positions, body):
+              """ch0.md: preamble + TOC with #chN links rewritten to chN pages."""
+              preamble = body[:positions[0][1]].strip()
+              # Rewrite TOC anchor links [text](#chN) → [text](chN)
+              preamble = re.sub(
+                  r'\[([^\]]+)\]\(#(ch\d+)\)',
+                  lambda m: '[' + m.group(1) + '](' + m.group(2) + ')',
+                  preamble)
+              ch_links = ' \u00b7 '.join(
+                  '[Ch ' + str(n) + '](ch' + str(n) + ')' for n, _ in positions)
+              out = ('---\nnav_exclude: true\n---\n\n' + preamble
+                     + '\n\n---\n\n**Chapters:** ' + ch_links + '\n')
+              with open(os.path.join(os.path.dirname(fp), 'ch0.md'), 'w', encoding='utf-8') as f:
+                  f.write(out)
+
           def split_file(fp):
               with open(fp, encoding='utf-8') as f:
                   text = f.read()
@@ -113,16 +128,17 @@ jobs:
                   return 0
               out_dir = os.path.dirname(fp)
               n = len(positions)
+              make_index(fp, positions, body)
               for i, (chnum, start) in enumerate(positions):
                   end = positions[i+1][1] if i+1 < n else len(body)
                   ch_body = body[start:end].strip()
                   title = first_heading(ch_body)
                   title_str = f'Ch {chnum}' + (f' \u2014 {title}' if title else '')
                   prev_nav = (f'[\u2190 Ch {positions[i-1][0]}](ch{positions[i-1][0]})'
-                              if i > 0 else '[\u2191 Full text](full)')
+                              if i > 0 else '[\u2191 Contents](ch0)')
                   next_nav = (f'[Ch {positions[i+1][0]} \u2192](ch{positions[i+1][0]})'
-                              if i+1 < n else '[\u2191 Full text](full)')
-                  nav = f'> {prev_nav} &nbsp;\u00b7&nbsp; [Full text](full) &nbsp;\u00b7&nbsp; {next_nav}\n\n'
+                              if i+1 < n else '[\u2191 Contents](ch0)')
+                  nav = f'> {prev_nav} &nbsp;\u00b7&nbsp; [Contents](ch0) &nbsp;\u00b7&nbsp; {next_nav}\n\n'
                   out = f'---\ntitle: "{title_str}"\nnav_exclude: true\n---\n\n{nav}{ch_body}\n'
                   with open(os.path.join(out_dir, f'ch{chnum}.md'), 'w', encoding='utf-8') as f:
                       f.write(out)
@@ -189,9 +205,10 @@ jobs:
           LANG_ICON  = {'kn': 'ಕ', 'en': '🇺🇸', 'eke': '🇮🇳'}
 
           # Content-file candidates per (source, lang)
+          # ch0.md (chapter index) is preferred over full.md when chapters exist
           CANDIDATES = {
-              ('book',    'kn'):  ['book/kn/full.md', 'book/vol1/kn/full.md', 'book/vol2/kn/full.md', 'book/vol3/kn/full.md', 'book/vol4/kn/full.md'],
-              ('book',    'eke'): ['book/eke/full.md', 'book/vol1/eke/full.md', 'book/vol2/eke/full.md', 'book/vol3/eke/full.md'],
+              ('book',    'kn'):  ['book/kn/ch0.md', 'book/kn/full.md', 'book/vol1/kn/full.md', 'book/vol2/kn/full.md', 'book/vol3/kn/full.md', 'book/vol4/kn/full.md'],
+              ('book',    'eke'): ['book/eke/ch0.md', 'book/eke/full.md', 'book/vol1/eke/full.md', 'book/vol2/eke/full.md', 'book/vol3/eke/full.md'],
               ('book',    'en'):  ['book/en/summary.md'],
               ('web',     'kn'):  ['web/kn/full.md', 'web/kn/raw.md'],
               ('web',     'eke'): ['web/eke/full.md'],
