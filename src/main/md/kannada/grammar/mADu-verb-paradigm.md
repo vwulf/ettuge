@@ -116,6 +116,12 @@ Kannada's 3rd person splits by rational (ಉತ್ತಮ ಪ್ರಾಣಿ) vs 
 
 **ಸೇರಿಸುವ ರೂಪ:** ಮಾಡಿಕೊಳ್ಳು (do-for-oneself) — the reflexive/benefactive uses the prior converb + ಕೊಳ್ಳು. This is a productive pattern across all Kannada verbs.
 
+**Why not `ಮಾಡಿಹನು` (mADihanu), `ಮಾಡಲಾರೆ` (mADalAre), and similar?** — These are **compound verb forms** (ಕೂಡಿಕೆ ರೂಪ), not entries in the simplex paradigm:
+- `ಮಾಡಿಹನು` = prior converb `ಮಾಡಿ` + emphatic/concessive particle `ಹನು` — a clitic that attaches to any converb of any verb, yielding "having done (I assert / contrary to expectation)". `ಹನು`/`ಹಾನು` is independent; it does not fuse morphologically with the verb stem.
+- `ಮಾಡಲಾರೆ` = purpose converb `ಮಾಡಲು` + defective auxiliary `ಆರು` (1sg `-ಆರೆ`) → "I cannot / am unable to do". `ಆರು` is a separate verb used almost exclusively in negative modal constructions (literary/formal).
+
+Bhat's 36 captures only **simplex forms** — one suffix applied directly to the verb stem. Compound forms are productive by multiplication: each of the 13 non-finite forms can combine with dozens of particles and auxiliaries (ಹನು, ಬಿಡು, ಹೋಗು, ಬರು, ಆರು, ಕೊಳ್ಳು…). Those ಕೂಡಿಕೆ constructions are documented separately — notably the vector verb (ನೆರವೆಸಕ) system covered in DNS Bhat Book 32.
+
 ---
 
 *DNS Bhat — ಕನ್ನಡ ಬರಹದ ಸೊಲ್ಲರಿಮೆ Vol 2 §5.1.1 (Book 07)*

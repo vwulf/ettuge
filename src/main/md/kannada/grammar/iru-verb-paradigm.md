@@ -153,6 +153,16 @@ These are forms of **ಇಲ್ಲ** — a separate word, historically from Proto
 
 ---
 
+## ಒಳನೋಟ — Key Notes
+
+**Why not `ಇರಿಹನು` (irihanu), `ಇರಲಾರೆ` (iralAre), and similar?** — These are **compound verb forms** (ಕೂಡಿಕೆ ರೂಪ), not entries in the simplex paradigm. The same principle applies to all Kannada verbs (ಮಾಡಿಹನು, ಮಾಡಲಾರೆ etc.):
+- `ಇರಿಹನು` / `ಇದ್ದಿಹನು` = converb `ಇರಿ`/`ಇದ್ದು` + emphatic/concessive particle `ಹನು` — a clitic attaching to any converb of any verb, yielding "having been (I assert / contrary to expectation)". `ಹನು`/`ಹಾನು` is independent and does not fuse morphologically with the verb.
+- `ಇರಲಾರೆ` = purpose converb `ಇರಲು` + defective auxiliary `ಆರು` (1sg `-ಆರೆ`) → "I cannot / am unable to be". `ಆರು` is a separate verb found almost exclusively in negative modal constructions (literary/formal Kannada).
+
+Bhat's 42 captures only **simplex forms** — one suffix applied directly to the verb stem. Compound forms are productive by multiplication: each non-finite form can combine with dozens of particles and auxiliaries (ಹನು, ಬಿಡು, ಹೋಗು, ಬರು, ಆರು, ಕೊಳ್ಳು…). Those ಕೂಡಿಕೆ constructions are documented separately — the vector verb (ನೆರವೆಸಕ) system in DNS Bhat Book 32 treats ಇರು itself as the primary aspectual auxiliary.
+
+---
+
 ## Dravidian Etymology
 
 ಇರು and ಇಲ್ಲ are historically unrelated — two separate Proto-Dravidian roots:
