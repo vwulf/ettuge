@@ -1,3 +1,8 @@
+---
+title: "DNS Bhat — Phase History"
+nav_exclude: true
+---
+
 # DNS Bhat Ettuge Project — Phase History
 *Phases 34 → 1, newest first. Full project context: [PROJECT-RECAP.md](./PROJECT-RECAP.md)*
 
