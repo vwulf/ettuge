@@ -8,7 +8,7 @@
 | Section | |
 |---------|--|
 | [What Is This Project?](#ch1) | Overview, About DNS Bhat, Catalogue |
-| [Phase History (newest first)](#ch2) | Links to [PROJECT-PHASES.md](./PROJECT-PHASES.md) |
+| [Phase History (newest first)](#ch2) | [PROJECT-PHASES](PROJECT-PHASES/ch0) — 5 browsable groups |
 | [Eke Romanisation System](#ch3) | Rules, consonants, vowels |
 | [Current File Status](#ch4) | Per-book file inventory |
 | [Pending Work](#ch5) | TBD items |
@@ -123,15 +123,7 @@ The **type suffix** taxonomy: `book` · `kn` · `kn-eke` · `en` · `claude-prom
 
 ## What Has Been Done
 
-The full phase history (34 phases, ~60 KB) lives in **[PROJECT-PHASES.md](./PROJECT-PHASES.md)**, split by CI into browsable group pages:
-
-| Group | Phases | Key Work |
-|-------|--------|----------|
-| [Group 1](PROJECT-PHASES/ch1) | 34–28 | CI chapterization, top-nav, GitHub Pages, Grammar section |
-| [Group 2](PROJECT-PHASES/ch2) | 27–20 | Book 31 Baraha decode, Book 07 vols 3–4, taxonomy migration |
-| [Group 3](PROJECT-PHASES/ch3) | 19–15 | Deep 3-level TOC, Markdown headings, OCR & Eke pipeline |
-| [Group 4](PROJECT-PHASES/ch4) | 14–8  | OCR cleanup Books 07–29, English summaries, WX decode |
-| [Group 5](PROJECT-PHASES/ch5) | 7–1   | Foundation, initial cataloguing, early pipeline |
+Phase history (34 phases) is in [PROJECT-PHASES](PROJECT-PHASES/ch0) — split into 5 browsable groups.
 
 <a id="ch3"></a>
 
