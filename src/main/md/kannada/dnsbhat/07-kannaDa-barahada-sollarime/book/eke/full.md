@@ -9,14 +9,15 @@ redirect_from:
 **kartaru:** Di. En. sankara bhaT
 **prakaTane:** 2010 (eraDU samputagaLU)
 **mudraka:** bhASha prakasana, heggODu, sAgara
-**samputagaLu:** 2 (samputa 1: aD. 1–4; samputa 2: aD. 5–9)
+**samputagaLu:** 4 (samputa 1: aD. 1–4; samputa 2: aD. 5–6; samputa 3: aD. 7–8; samputa 4: aD. 9–10)
 **nuDi:** kannaDa (hosa baraha)
 **mUla:** [English](../en/summary)
 
 > **gurti:** ee pauta adhyAya-vAru sankSipta saramsa — pUrNa Eke baraha paTha:
 > [sampuTa 1 (aD. 1–4) →](../vol1/eke/full) |
-> [sampuTa 2 (aD. 5–6) →](../vol2/eke/full)
-> *(aD. 7–9 OCR paTha labhyavilla)*
+> [sampuTa 2 (aD. 5–6) →](../vol2/eke/full) |
+> [sampuTa 3 (aD. 7–8) →](../vol3/eke/full) |
+> [sampuTa 4 (aD. 9–10) →](../vol4/eke/full)
 
 ---
 
@@ -33,9 +34,16 @@ redirect_from:
 
 5. [esakapadagaLa baLake](#esaka-baLake)
 6. [padakantegaLa iTTaLa](#padakante-iTTaLa)
+
+### samputa 3
+
 7. [suLusoLLugaLa racane](#suLusoLLu-racane)
 8. [aDaka mattu jODu soLLugaLu](#aDaka-jODu-soLLu)
-9. [baraha mattu mAtu](#baraha-mAtu)
+
+### samputa 4
+
+9. [ADupadagaLa baLake](#ADupada-baLake)
+10. [tOrUpadagaLa baLake](#tOrUpada-baLake)
 
 ---
 
@@ -101,7 +109,7 @@ ee adhyAya vAkyadi esakapadakke bEkAda pAngugaLannu (valences/arguments) vivaris
 
 ## 7. suLusoLLugaLa racane {#suLusoLLu-racane}
 
-[ಕನ್ನಡ →](../vol2/kn/full) | [English →](../en/summary#chapter-7--simple-sentences)
+[ಕನ್ನಡ →](../vol3/kn/full) | [English →](../en/summary#chapter-7--simple-sentences) | [ಪೂರ್ಣ Eke →](../vol3/eke/full)
 
 *(ಸುಳುಸೊಲ್ಲುಗಳ ರಚನೆ)*
 
@@ -111,7 +119,7 @@ ee adhyAya suLusoLLu (ondu esakapada mattu adakke sambandisida hesarupada-kanteg
 
 ## 8. aDaka mattu jODu soLLugaLu {#aDaka-jODu-soLLu}
 
-[ಕನ್ನಡ →](../vol2/kn/full) | [English →](../en/summary#chapter-8--complex-sentences)
+[ಕನ್ನಡ →](../vol3/kn/full) | [English →](../en/summary#chapter-8--complex-sentences) | [ಪೂರ್ಣ Eke →](../vol3/eke/full)
 
 *(ಅಡಕ ಮತ್ತು ಜೋಡು ಸೊಲ್ಲುಗಳು)*
 
@@ -119,13 +127,23 @@ ee adhyAya eraDu bageya sankIrNa sOLLu-racaneyanu vivarisi. jODusoLLugaLu (compo
 
 ---
 
-## 9. baraha mattu mAtu {#baraha-mAtu}
+## 9. ADupadagaLa baLake {#ADupada-baLake}
 
-[ಕನ್ನಡ →](../vol2/kn/full) | [English →](../en/summary#chapter-9--writing-and-speech)
+[ಕನ್ನಡ →](../vol4/kn/full) | [English →](../en/summary#chapter-9--pronoun-usage) | [ಪೂರ್ಣ Eke →](../vol4/eke/full)
 
-*(ಬರಹ ಮತ್ತು ಮಾತು)*
+*(ಆಡುಪದಗಳ ಬಳಕೆ)*
 
-ee kaDeyA adhyAya baraha mattu mAtanADuva nuDi naDuvina vyavasthita bedagaLannu viSadagOLisuttade. baragada vyAkaraNe mattu mAtina vyAkaraNe ondu allada eraDu embadannu baT avaru spaStataha vAdisuttAre — ee pustaka "baraha-vyAkaraNe"ya kurita embadannu mundiddu hELuttAre. hosa baraha embude barahavannu kannaDa-bALisuva ellA vargada janakku sulabavAgisuva amSadalli hEge anivArya embadannu viStAravAgi vivEcisuttade. kISa-vargada (lower-class) janarU baragada kannaDavannu sulabavAgi kalikOLaLu sADyavAguvudu hosa barahada mukhya prayOjana endu baT avaru mugisuTTAre.
+ee adhyAya kannaData ADupadagaLa (pronouns) oLaracaneyanu mattu vAkyadi avugaLa baLakeyanu vivarisi. ADupadagaLu hesarupadagaLinda hEge bErAguttave, avugaLa anuvartane-niyamagaLu (anaphora rules) hEge kArya mADuttave embadannu tOrisi, tAnu-pada (reflexive) mattu tOrUpada (demonstrative) naDuvina bedannu vivEcisuttade.
+
+---
+
+## 10. tOrUpadagaLa baLake {#tOrUpada-baLake}
+
+[ಕನ್ನಡ →](../vol4/kn/full) | [English →](../en/summary#chapter-10--demonstrative-usage) | [ಪೂರ್ಣ Eke →](../vol4/eke/full)
+
+*(ತೋರುಪದಗಳ ಬಳಕೆ)*
+
+ee kaDeyA adhyAya kannaData tOrUpadagaLa (demonstratives) iTTaLa mattu baLakeyanu vivarisi. I/A/O vibhAgadalli dUra-samIpa-bedannu, mattu tOrUpadagaLu sOLLu-sandarbhadi hEge nirdESa mADuttave embadannu kOrisuttade. sampuTa 4 ra magatavAda adhyAya.
 
 ---
 

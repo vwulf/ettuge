@@ -245,6 +245,7 @@ anukramaNike
 ---
 
 
+<a id="ch1"></a>
 <a id="part-1"></a>
 
 [English →](../en/summary#part-one--the-nature-of-language) | [ಕನ್ನಡ →](../kn/full#part-1)
@@ -1750,6 +1751,7 @@ jagattannu innaShTu vyApaka mattu vayvidhyayuktavannAgi mADalu sAdhya
 vAdItallavE?
 
 
+<a id="ch2"></a>
 <a id="part-2"></a>
 
 [English →](../en/summary#part-two--grammar-and-learning) | [ಕನ್ನಡ →](../kn/full#part-2)
@@ -3893,6 +3895,7 @@ kaDege haridare, I samasyeyannu bageharisalu heccu anukUlategaLu
 labhisabahudu.
 
 
+<a id="ch3"></a>
 <a id="part-3"></a>
 
 [English →](../en/summary#part-three--speech-and-writing) | [ಕನ್ನಡ →](../kn/full#part-3)
@@ -5479,6 +5482,7 @@ bahudu.
 bhASheya bagege nIvEnu balliri?
 
 
+<a id="ch4"></a>
 <a id="part-4"></a>
 
 [English →](../en/summary#part-four--the-nature-of-the-kannada-language) | [ಕನ್ನಡ →](../kn/full#part-4)
@@ -7606,6 +7610,7 @@ baLakeyAguvudu bahaLa kaDime. pAribhAShika padagaLU I rIti sankEta
 gaLAgiddare sAku, varNanegaLAgirabEkendEnU illa.
 
 
+<a id="ch5"></a>
 <a id="part-5"></a>
 
 [English →](../en/summary#part-five--languages-of-the-world) | [ಕನ್ನಡ →](../kn/full#part-5)
