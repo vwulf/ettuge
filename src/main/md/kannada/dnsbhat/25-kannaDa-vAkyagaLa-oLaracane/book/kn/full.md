@@ -209,7 +209,6 @@ redirect_from:
 ಒಳರಚನೆ 
 ಡಿ. ಎನ್. ಶಂಕರ ಭಟ್ 
 ಭಾಷಾ ಪ್ರಕಾಶನ, ಆರಗ, ತೀರ್ಥಹಳ್ಳಿ 
-ಬಿ ಡಾ. ಡಿ. ಎನ್ ಶಂಕರ ಬಟ್. ಎಲ್ಲಾ ಹಕ್ಕುಗಳನ್ನೂ ಕಾದಿರಿಸಿದೆ. 
 KANNADA VAAKYAGALA OLARACANE (The 
 structure of Kannada sentences) by D.N.Shankara Bhat, 
 Alilabagilu, Araga P.O., Tirthahalli 577 414; phone: 
