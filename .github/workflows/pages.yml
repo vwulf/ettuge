@@ -85,8 +85,23 @@ jobs:
 
           DOCS_DNSBHAT = 'docs/kannaDa/dnsbhat'
 
-          # Match <a id="ch1">, <a id="ch2">, also <a id="adhyAya-1"> for older books
-          CHAPTER_RE = re.compile(r'<a id="(?:ch|adhyAya-)(\d+)">')
+          # Anchor-prefix priority: use the first prefix (coarsest grouping) with ≥ 2 matches.
+          # ch / adhyAya- = book chapters; bhAga- / theme- = coarse YouTube/blog sections;
+          # part- = fine-grained YouTube parts (used only when no coarser anchor exists).
+          CHAPTER_PREFIXES = ['ch', 'adhyAya-', 'bhAga-', 'theme-', 'part-']
+          ANCHOR_LABELS = {
+              'ch': 'Ch', 'adhyAya-': 'Ch',
+              'bhAga-': 'Part', 'theme-': 'Theme', 'part-': 'Part',
+          }
+
+          def find_positions(body):
+              """Return (num, prefix, start) triples for the best anchor type in body."""
+              for pfx in CHAPTER_PREFIXES:
+                  pat = re.compile(r'<a id="' + re.escape(pfx) + r'(\d+)">')
+                  pos = [(int(m.group(1)), pfx, m.start()) for m in pat.finditer(body)]
+                  if len(pos) >= 2:
+                      return pos
+              return []
 
           def strip_fm(text):
               if text.startswith('---\n'):
@@ -119,7 +134,7 @@ jobs:
               Used to rewrite TOC links like [A](#a) → [A](ch1) when a book
               uses heading-derived anchors instead of explicit #chN anchors."""
               result = {}
-              for i, (ch_num, pos) in enumerate(positions):
+              for i, (ch_num, _pfx, pos) in enumerate(positions):
                   # Look only in first 300 chars of the chapter body for ## heading
                   chunk = body[pos:pos + 300]
                   m = re.search(r'^## (.+)$', chunk, re.MULTILINE)
@@ -130,9 +145,11 @@ jobs:
                           result[anchor] = 'ch' + str(ch_num)
               return result
 
-          def make_index(fp, positions, body):
-              """ch0.md: preamble + TOC with anchor links rewritten to chN pages."""
-              preamble = body[:positions[0][1]].strip()
+          SCROLL_THRESHOLD = 1500  # chars; add chapter list at top when content exceeds this
+
+          def make_index(fp, positions, body, ch_links):
+              """ch0.md: chapter quick-nav at top (when long) + preamble + TOC + chapter nav."""
+              preamble = body[:positions[0][2]].strip()
               heading_anchors = chapter_heading_anchors(body, positions)
               # Rewrite [text](#anchor) → [text](chN) for both #chN and heading-derived anchors
               def rewrite_anchor(m):
@@ -143,17 +160,17 @@ jobs:
                       return '[' + text + '](' + heading_anchors[anchor] + ')'
                   return m.group(0)
               preamble = re.sub(r'\[([^\]]+)\]\(#([^)]+)\)', rewrite_anchor, preamble)
-              ch_links = ' \u00b7 '.join(
-                  '[Ch ' + str(n) + '](ch' + str(n) + ')' for n, _ in positions)
-              out = ('---\nnav_exclude: true\n---\n\n' + preamble
-                     + '\n\n---\n\n**Chapters:** ' + ch_links + '\n')
+              ch_bar = '**Chapters:** ' + ch_links
+              top = (ch_bar + '\n\n---\n\n') if len(preamble) > SCROLL_THRESHOLD else ''
+              out = ('---\nnav_exclude: true\n---\n\n' + top + preamble
+                     + '\n\n---\n\n' + ch_bar + '\n')
               with open(os.path.join(os.path.dirname(fp), 'ch0.md'), 'w', encoding='utf-8') as f:
                   f.write(out)
 
           def toc_title_map(body):
               """Build {ch_num: title} from TOC links like [ಅಧ್ಯಾಯ 1 — ಪೀಠಿಕೆ](#adhyAya-1)."""
               result = {}
-              toc_re = re.compile(r'\[([^\]]+)\]\(#(?:adhyAya-|ch)(\d+)\)')
+              toc_re = re.compile(r'\[([^\]]+)\]\(#(?:adhyAya-|ch|part-|bhAga-|theme-)(\d+)\)')
               for m in toc_re.finditer(body):
                   n = int(m.group(2))
                   if n not in result:
@@ -169,24 +186,30 @@ jobs:
               with open(fp, encoding='utf-8') as f:
                   text = f.read()
               body = strip_fm(text)
-              positions = [(int(m.group(1)), m.start()) for m in CHAPTER_RE.finditer(body)]
+              positions = find_positions(body)
               if len(positions) < 2:
                   return 0
               out_dir = os.path.dirname(fp)
               n = len(positions)
-              make_index(fp, positions, body)
+              # Determine label ("Ch" / "Part" / "Theme") from first anchor's prefix
+              lbl = ANCHOR_LABELS.get(positions[0][1], 'Ch')
+              ch_links = ' \u00b7 '.join(
+                  '[' + lbl + ' ' + str(num) + '](ch' + str(num) + ')' for num, _, _ in positions)
+              make_index(fp, positions, body, ch_links)
               toc_map = toc_title_map(body)
-              for i, (chnum, start) in enumerate(positions):
-                  end = positions[i+1][1] if i+1 < n else len(body)
+              for i, (chnum, _pfx, start) in enumerate(positions):
+                  end = positions[i+1][2] if i+1 < n else len(body)
                   ch_body = body[start:end].strip()
                   title = toc_map.get(chnum, '') or first_heading(ch_body)
-                  title_str = f'Ch {chnum}' + (f' \u2014 {title}' if title else '')
-                  prev_nav = (f'[\u2190 Ch {positions[i-1][0]}](ch{positions[i-1][0]})'
+                  title_str = f'{lbl} {chnum}' + (f' \u2014 {title}' if title else '')
+                  prev_nav = (f'[\u2190 {lbl} {positions[i-1][0]}](ch{positions[i-1][0]})'
                               if i > 0 else '[\u2191 Contents](ch0)')
-                  next_nav = (f'[Ch {positions[i+1][0]} \u2192](ch{positions[i+1][0]})'
+                  next_nav = (f'[{lbl} {positions[i+1][0]} \u2192](ch{positions[i+1][0]})'
                               if i+1 < n else '[\u2191 Contents](ch0)')
                   nav = f'> {prev_nav} &nbsp;\u00b7&nbsp; [Contents](ch0) &nbsp;\u00b7&nbsp; {next_nav}\n\n'
-                  out = f'---\ntitle: "{title_str}"\nnav_exclude: true\n---\n\n{nav}{ch_body}\n'
+                  # Add chapter quick-nav at top when page is long enough to need scrolling
+                  ch_top = ('**Chapters:** ' + ch_links + '\n\n') if len(ch_body) > SCROLL_THRESHOLD else ''
+                  out = f'---\ntitle: "{title_str}"\nnav_exclude: true\n---\n\n{nav}{ch_top}{ch_body}\n'
                   with open(os.path.join(out_dir, f'ch{chnum}.md'), 'w', encoding='utf-8') as f:
                       f.write(out)
               return n
@@ -197,7 +220,8 @@ jobs:
               'book/vol2/kn/full.md', 'book/vol2/eke/full.md',
               'book/vol3/kn/full.md', 'book/vol3/eke/full.md',
               'book/vol4/kn/full.md', 'book/vol4/eke/full.md',
-              'youtube/kn/full.md',
+              'youtube/kn/full.md', 'youtube/eke/full.md', 'youtube/en/summary.md',
+              'web/kn/full.md',     'web/eke/full.md',   'web/en/summary.md',
           ]
 
           total_ch = total_files = 0

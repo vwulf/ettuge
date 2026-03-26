@@ -86,6 +86,19 @@ The primary source file is `{NN}-{slug}.md` (same name as the folder, no suffix)
 
 ---
 
+## CI-generated chapter pages (automatic — no action needed)
+
+YouTube transcript files (`youtube/kn/full.md`) use `<a id="part-N">` anchors before each `### Part N` heading. The GitHub CI chapter-splitter recognises these anchors and generates browsable per-part pages on every push:
+
+- **`ch0.md`** — preamble + ಪರಿವಿಡಿ TOC with `(#part-N)` links rewritten to `chN` page links + `**Parts:** Part 1 · Part 2 · ...` quick-nav bar (also at top when preamble > 1 500 chars).
+- **`ch1.md` … `chN.md`** — one per part; opens with `> ← Part N-1 · [Contents](ch0) · Part N+1 →` nav bar; full part list quick-nav appears below it when body > 1 500 chars.
+
+Blog files (`web/kn/full.md`) with `<a id="sec-N">` or `<a id="part-N">` anchors are also chapterized by the same CI step.
+
+**You do not create these files.** Your job is to ensure the transcript `full.md` has proper `<a id="part-N">` anchors and a ಪರಿವಿಡಿ TOC. Minimum to trigger: ≥ 2 anchors.
+
+---
+
 ## Step 2: Read and assess transcript quality
 
 Read the consolidated transcript file. For each `## Part N` section, assess:

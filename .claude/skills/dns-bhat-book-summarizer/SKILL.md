@@ -128,6 +128,19 @@ See book 08's `-kn.md` as the reference implementation.
 
 ---
 
+## CI-generated chapter pages (automatic — no action needed)
+
+Once `full.md` (i.e. `book/kn/full.md` in the Phase-20 taxonomy) contains `<a id="chN">` or `<a id="adhyAya-N">` anchors, the GitHub CI chapter-splitter generates browsable per-chapter pages on every push:
+
+- **`ch0.md`** — preamble + TOC with `(#chN)` links rewritten to page-relative `chN` links, plus a `**Chapters:** Ch 1 · Ch 2 · ...` bar at the bottom. If the preamble is > 1 500 chars the bar also appears at the very top.
+- **`ch1.md` … `chN.md`** — one file per chapter; opens with `> ← Ch N-1 · [Contents](ch0) · Ch N+1 →` prev/next nav; if the chapter body is > 1 500 chars a full `**Chapters:** Ch 1 · Ch 2 · ...` quick-jump bar appears immediately below the nav.
+
+You do **not** create these files — CI writes them. Your only job is to put the right anchors into `full.md`.
+
+**Minimum to trigger chapterization:** ≥ 2 `<a id="chN">` (or `adhyAya-N`) anchors in the body. Single-anchor files are skipped.
+
+---
+
 ## Step 3: Produce the Eke romanisation file (`*-kn-eke.md`)
 
 The Eke file has:
