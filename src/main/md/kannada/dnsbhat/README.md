@@ -34,40 +34,45 @@
 
 | # | Short Title | Language | Year | Format Available | Text Available |
 |---|-------------|----------|------|-----------------|----------------|
-| 01 | idu kannaDaddE vyAkaraNa | Kannada | 2021 | YouTube | ✅ Transcript |
-| 02 | kannaDadalle hosapadagaLannu kaTTuva bage | Kannada | — | YouTube + Blog | ✅ Transcript + 15 blog posts |
-| 03 | kannaDa padagaLa oLaracane | Kannada | 2014 | YouTube + **PDF** | ✅ Transcript + ⚠️ PDF (WX font) |
-| 04 | mAtu mattu barahada naDuvina gondala | Kannada | — | YouTube | ⚠️ Partial |
-| 05 | mAtina oLaguTTu | Kannada | — | YouTube | ✅ Transcript |
-| 06 | kalikenuDi mattu nuDikalike | Kannada | — | YouTube | ❌ Corrupted |
-| 07 | kannaDa barahada sollarime (7 vols) | Kannada | 2010–2019 | Website + **PDF vol1+2** | ⚠️ PDF (WX font) |
-| 08 | kannaDakke mahAprANa yAke bEDa | Kannada | 2017 | PDF + DjVu | ✅ Full text |
-| 09 | havyaka kannaDa (popular) | Kannada | — | YouTube | ⚠️ Partial |
-| 10 | kannaDa nuDiya hinnaDavaLi | Kannada | — | YouTube | ⚠️ Partial |
-| 11 | kannaDa barahada padasamasye | Kannada | — | YouTube | ❌ Corrupted |
-| 12 | kannaDa bhASheya kalpita caritre | Kannada | — | YouTube | ✅ Transcript |
-| 13 | dArege doDDavaru | Kannada | — | YouTube | ❌ Corrupted |
-| 14 | nijakkU haLegannaDa vyAkaraNa entahadu | Kannada | 2005/2015 | PDF + DjVu + Blog | ✅ Full text + 7 blog posts |
-| 15 | ingliS-kannaDa padanerake | Kannada | 2015 | **PDF sample** (53p) | ✅ Hybrid extracted (A–Az, 84k chars) + en/kn-eke/claude-prompt |
-| 16 | nuDiyarimeya padagaLige kannaDaddE padagaLu | Kannada | — | Website | ❌ Not collected |
-| 17 | kannaDa nuDi naDeDu banda dAri | Kannada | 2014 | **PDF** | ⚠️ PDF (WX font, 405p) |
-| 18 | kannaDa nuDiya bagege cintane | Kannada | — | Website + Blog | ✅ 13 blog posts (Inukunota series) |
-| 19 | The Koraga Language | English | 1971 | PDF | ❌ Not extracted |
-| 20 | An Outline Grammar of Havyaka | English | 1971 | PDF + DjVu | ✅ Full text |
-| 21 | Pronouns (Oxford) | English | 2004 | PDF | ❌ Not extracted |
-| 22 | Sound Change | English | 2001 | Google Books | ❌ Not extracted |
-| 23 | A Grammar of Manipuri | English/Kn | — | Website | ❌ Not collected |
-| 24 | Grammatical Relations | English | — | Website | ❌ Not collected |
-| 25 | kannaDa vAkyagaLa oLaracane | Kannada | 2014 | **PDF** | ⚠️ PDF (WX font, 289p) |
-| 26 | uli mArpADina geregaLu | Kannada | 2024 | Website | ❌ Cloudflare blocked |
-| 27 | bhASheya bagge *(ಭಾಷೆಯ ಬಗ್ಗೆ)* | Kannada | 1970/2010 | **PDF** (4th ed.) | ⚠️ PDF (WX font, 208p) — **NEW** |
-| 28 | kannaDakke bEku kannaDaddE vyAkaraNa *(ಕನ್ನಡಕ್ಕೆ ಬೇಕು ಕನ್ನಡದ್ದೇ ವ್ಯಾಕರಣ)* | Kannada | 2000/2013 | **PDF** (7th ed.) | ⚠️ PDF (WX font, 253p) — **NEW** |
-| 29 | kannaDa vyAkaraNa yAke bEku *(ಕನ್ನಡ ವ್ಯಾಕರಣ ಯಾಕೆ ಬೇಕು?)* | Kannada | 2009 | **PDF** | ⚠️ PDF (WX font, 260p) — **NEW** |
-| 33 | kannaDa sollarime *(ಕನ್ನಡ ಸೊಲ್ಲರಿಮೆ)* | Kannada | Unknown | YouTube | ⚠️ Garbled (split from 07) |
+| 01 | [idu kannaDaddE vyAkaraNa](#book-01) | Kannada | 2021 | YouTube | ✅ Transcript |
+| 02 | [kannaDadalle hosapadagaLannu kaTTuva bage](#book-02) | Kannada | — | YouTube + Blog | ✅ Transcript + 15 blog posts |
+| 03 | [kannaDa padagaLa oLaracane](#book-03) | Kannada | 2014 | YouTube + **PDF** | ✅ Transcript + ⚠️ PDF (WX font) |
+| 04 | [mAtu mattu barahada naDuvina gondala](#book-04) | Kannada | — | YouTube | ⚠️ Partial |
+| 05 | [mAtina oLaguTTu](#book-05) | Kannada | — | YouTube | ✅ Transcript |
+| 06 | [kalikenuDi mattu nuDikalike](#book-06) | Kannada | — | YouTube | ❌ Corrupted |
+| 07 | [kannaDa barahada sollarime (7 vols)](#book-07) | Kannada | 2010–2019 | Website + **PDF vol1+2** | ⚠️ PDF (WX font) |
+| 08 | [kannaDakke mahAprANa yAke bEDa](#book-08) | Kannada | 2017 | PDF + DjVu | ✅ Full text |
+| 09 | [havyaka kannaDa (popular)](#book-09) | Kannada | — | YouTube | ⚠️ Partial |
+| 10 | [kannaDa nuDiya hinnaDavaLi](#book-10) | Kannada | — | YouTube | ⚠️ Partial |
+| 11 | [kannaDa barahada padasamasye](#book-11) | Kannada | — | YouTube | ❌ Corrupted |
+| 12 | [kannaDa bhASheya kalpita caritre](#book-12) | Kannada | — | YouTube | ✅ Transcript |
+| 13 | [dArege doDDavaru](#book-13) | Kannada | — | YouTube | ❌ Corrupted |
+| 14 | [nijakkU haLegannaDa vyAkaraNa entahadu](#book-14) | Kannada | 2005/2015 | PDF + DjVu + Blog | ✅ Full text + 7 blog posts |
+| 15 | [ingliS-kannaDa padanerake](#book-15) | Kannada | 2015 | **PDF sample** (53p) | ✅ Hybrid extracted (A–Az, 84k chars) + en/kn-eke/claude-prompt |
+| 16 | [nuDiyarimeya padagaLige kannaDaddE padagaLu](#book-16) | Kannada | — | Website | ❌ Not collected |
+| 17 | [kannaDa nuDi naDeDu banda dAri](#book-17) | Kannada | 2014 | **PDF** | ⚠️ PDF (WX font, 405p) |
+| 18 | [kannaDa nuDiya bagege cintane](#book-18) | Kannada | — | Website + Blog | ✅ 13 blog posts (Inukunota series) |
+| 19 | [The Koraga Language](#book-19) | English | 1971 | PDF | ❌ Not extracted |
+| 20 | [An Outline Grammar of Havyaka](#book-20) | English | 1971 | PDF + DjVu | ✅ Full text |
+| 21 | [Pronouns (Oxford)](#book-21) | English | 2004 | PDF | ❌ Not extracted |
+| 22 | [Sound Change](#book-22) | English | 2001 | Google Books | ❌ Not extracted |
+| 23 | [A Grammar of Manipuri](#book-23) | English/Kn | — | Website | ❌ Not collected |
+| 24 | [Grammatical Relations](#book-24) | English | — | Website | ❌ Not collected |
+| 25 | [kannaDa vAkyagaLa oLaracane](#book-25) | Kannada | 2014 | **PDF** | ⚠️ PDF (WX font, 289p) |
+| 26 | [uli mArpADina geregaLu](#book-26) | Kannada | 2024 | Website | ❌ Cloudflare blocked |
+| 27 | [bhASheya bagge *(ಭಾಷೆಯ ಬಗ್ಗೆ)*](#book-27) | Kannada | 1970/2010 | **PDF** (4th ed.) | ⚠️ PDF (WX font, 208p) — **NEW** |
+| 28 | [kannaDakke bEku kannaDaddE vyAkaraNa *(ಕನ್ನಡಕ್ಕೆ ಬೇಕು ಕನ್ನಡದ್ದೇ ವ್ಯಾಕರಣ)*](#book-28) | Kannada | 2000/2013 | **PDF** (7th ed.) | ⚠️ PDF (WX font, 253p) — **NEW** |
+| 29 | [kannaDa vyAkaraNa yAke bEku *(ಕನ್ನಡ ವ್ಯಾಕರಣ ಯಾಕೆ ಬೇಕು?)*](#book-29) | Kannada | 2009 | **PDF** | ⚠️ PDF (WX font, 260p) — **NEW** |
+| 30 | [kannaDa barahavanu saripaDisONa *(ಕನ್ನಡ ಬರಹವನ್ನು ಸರಿಪಡಿಸೋಣ)*](#book-30) | Kannada | — | **PDF** | ✅ Full text (Nudi WX, 382p) |
+| 31 | [ingliS padagaLige kannaDaddE padagaLu *(ಇಂಗ್ಲಿಷ್ ಪದಗಳಿಗೆ ಕನ್ನಡದ್ದೇ ಪದಗಳು)*](#book-31) | Kannada | — | **PDF** | ✅ Full A–Z dictionary (Baraha CID, 487p) |
+| 32 | [The Prominence of Tense, Aspect and Mood](#book-32) | English | — | **PDF** | ✅ en/summary.md |
+| 33 | [kannaDa sollarime *(ಕನ್ನಡ ಸೊಲ್ಲರಿಮೆ)*](#book-33) | Kannada | Unknown | YouTube | ⚠️ Garbled (split from 07) |
 
 ---
 
 ## Section A — Kannada Language Reform & Grammar
+
+<a id="book-01"></a>
 
 ### 01 — ಇದು ಕನ್ನಡದ್ದೇ ವ್ಯಾಕರಣ
 **idu kannaDaddE vyAkaraNa** *(This Is Kannada's Own Grammar)*
@@ -83,6 +88,8 @@
 **Key Thesis:** Existing Kannada grammars are not truly Kannada grammars — they impose Sanskrit frameworks on a language with fundamentally different structure. Bhat introduces native Kannada grammatical terminology: *hesaru pada* (noun), *esaka pada* (verb), *paricharana pada* (adjective).
 
 ---
+
+<a id="book-02"></a>
 
 ### 02 — ಕನ್ನಡದಲ್ಲಿ ಹೊಸ ಪದಗಳನ್ನು ಕಟ್ಟುವ ಬಗೆ
 **kannaDadalle hosapadagaLannu kaTTuva bage** *(How to Form New Words in Kannada)*
@@ -115,6 +122,8 @@
 
 ---
 
+<a id="book-03"></a>
+
 ### 03 — ಕನ್ನಡ ಪದಗಳ ಒಳರಚನೆ
 **kannaDa padagaLa oLaracane** *(Internal Structure of Kannada Words)*
 
@@ -130,6 +139,8 @@
 - The "keelarimai" (inferiority complex) toward Kannada vs "meelarimai" (superiority) toward Sanskrit
 
 ---
+
+<a id="book-04"></a>
 
 ### 04 — ಮಾತು ಮತ್ತು ಬರಹದ ನಡುವಿನ ಗೊಂದಲ
 **mAtu mattu barahada naDuvina gondala** *(The Confusion Between Speech and Writing)*
@@ -156,6 +167,8 @@
 
 ---
 
+<a id="book-05"></a>
+
 ### 05 — ಮಾತಿನ ಒಳಗುಟ್ಟು
 **mAtina oLaguTTu** *(The Mystery/Complexity of Language)*
 
@@ -181,6 +194,8 @@
 
 ---
 
+<a id="book-06"></a>
+
 ### 06 — ಕಲಿಕೆನುಡಿ ಮತ್ತು ನುಡಿಕಲಿಕೆ
 **kalikenuDi mattu nuDikalike** *(Learning Language and Language Learning)*
 
@@ -191,6 +206,8 @@
 - **ಕಡತ / Folder:** [06-kalikenuDi-mattu-nuDikalike/](./06-kalikenuDi-mattu-nuDikalike/)
 
 ---
+
+<a id="book-07"></a>
 
 ### 07 — ಕನ್ನಡ ಬರಹದ ಸೊಲ್ಲರಿಮೆ (೭ ಸಂಪುಟಗಳು)
 **kannaDa barahada sollarime** *(Grammar of Kannada Writing — 7 Volumes)*
@@ -212,6 +229,8 @@
 **Note:** The 2021 book *Idu Kannadade Vyakarana* (→ 01) consolidates all 7 volumes.
 
 ---
+
+<a id="book-08"></a>
 
 ### 08 — ಕನ್ನಡಕ್ಕೆ ಮಹಾಪ್ರಾಣ ಯಾಕೆ ಬೇಡ?
 **kannaDakke mahAprANa yAke bEDa** *(Why Kannada Does Not Need Aspirated Consonants)*
@@ -247,6 +266,8 @@
 
 ## Section B — Dialect Studies (Kannada)
 
+<a id="book-09"></a>
+
 ### 09 — ಹವ್ಯಕ ಕನ್ನಡ
 **havyaka kannaDa** *(The Havyaka Dialect of Kannada)*
 
@@ -273,6 +294,8 @@
 
 ## Section C — History of Kannada Language
 
+<a id="book-10"></a>
+
 ### 10 — ಕನ್ನಡ ನುಡಿಯ ಹಿನ್ನಡವಳಿ
 **kannaDa nuDiya hinnaDavaLi** *(History of the Kannada Language)*
 
@@ -283,6 +306,8 @@
 - **ಕಡತ / Folder:** [10-kannaDa-nuDiya-hinnaDavaLi/](./10-kannaDa-nuDiya-hinnaDavaLi/)
 
 ---
+
+<a id="book-11"></a>
 
 ### 11 — ಕನ್ನಡ ಬರಹದ ಪದಸಮಸ್ಯೆ
 **kannaDa barahada padasamasye** *(Problems in Kannada Writing)*
@@ -295,6 +320,8 @@
 
 ---
 
+<a id="book-12"></a>
+
 ### 12 — ಕನ್ನಡ ಭಾಷೆಯ ಕಲ್ಪಿತ ಚರಿತ್ರೆ
 **kannaDa bhASheya kalpita caritre** *(Reconstructed/Imagined History of Kannada)*
 
@@ -306,6 +333,8 @@
 
 ---
 
+<a id="book-17"></a>
+
 ### 17 — ಕನ್ನಡ ನುಡಿ ನಡೆದು ಬಂದ ದಾರಿ
 **kannaDa nuDi naDeDu banda dAri** *(The Path Travelled by the Kannada Language)*
 
@@ -316,6 +345,8 @@
 - **ಕಡತ / Folder:** [17-kannaDa-nuDi-naDeDu-banda-dAri/](./17-kannaDa-nuDi-naDeDu-banda-dAri/)
 
 ---
+
+<a id="book-18"></a>
 
 ### 18 — ಕನ್ನಡ ನುಡಿಯ ಬಗೆಗೆ ಚಿಂತನೆ
 **kannaDa nuDiya bagege cintane** *(Reflections on the Kannada Language)*
@@ -344,6 +375,8 @@
 ---
 
 ## Section D — Vocabulary and Word Formation
+
+<a id="book-15"></a>
 
 ### 15 — ಇಂಗ್ಲಿಶ್ ಕನ್ನಡ ಪದನೆರಕೆ
 **ingliS-kannaDa padanerake** *(English-Kannada Word Correspondence)*
@@ -380,6 +413,8 @@
 
 ---
 
+<a id="book-16"></a>
+
 ### 16 — ನುಡಿಯರಿಮೆಯ ಪದಗಳಿಗೆ ಕನ್ನಡದ್ದೇ ಪದಗಳು
 **nuDiyarimeya padagaLige kannaDaddE padagaLu** *(Kannada Alternatives to Sanskrit/Linguistic Terms)*
 
@@ -406,6 +441,8 @@
 
 ## Section E — Old Kannada
 
+<a id="book-13"></a>
+
 ### 13 — ಧಾರೆಗೆ ದೊಡ್ಡವರು
 **dArege doDDavaru** *(Great Ones of the Tradition)*
 
@@ -416,6 +453,8 @@
 - **ಕಡತ / Folder:** [13-dArege-doDDavaru/](./13-dArege-doDDavaru/)
 
 ---
+
+<a id="book-14"></a>
 
 ### 14 — ನಿಜಕ್ಕೂ ಹಳಗನ್ನಡ ವ್ಯಾಕರಣ ಎಂತಹದು?
 **nijakkU haLegannaDa vyAkaraNa entahadu** *(What Really Is the Grammar of Old Kannada?)*
@@ -449,6 +488,8 @@
 
 ## Section F — English Academic Works
 
+<a id="book-19"></a>
+
 ### 19 — The Koraga Language
 **The Koraga Language**
 
@@ -465,6 +506,8 @@
 
 ---
 
+<a id="book-20"></a>
+
 ### 20 — An Outline Grammar of Havyaka
 **An Outline Grammar of Havyaka**
 
@@ -480,6 +523,8 @@
 **Significance:** Academic linguistic description of the Havyaka dialect — phonology, morphology, syntax, texts. Companion to the popular Kannada version in folder 09.
 
 ---
+
+<a id="book-21"></a>
 
 ### 21 — Pronouns (Oxford University Press)
 **Pronouns**
@@ -498,6 +543,8 @@
 ---
 
 ## Section G — Sound Change & Historical Phonology
+
+<a id="book-22"></a>
 
 ### 22 — Sound Change
 **Sound Change**
@@ -518,6 +565,8 @@
 
 ---
 
+<a id="book-26"></a>
+
 ### 26 — ಉಲಿ ಮಾರ್ಪಾಡಿನ ಗೆರೆಗಳು
 **uli mArpADina geregaLu** *(Laws of Sound Change)*
 
@@ -532,6 +581,8 @@
 ---
 
 ## Section H — Syntax
+
+<a id="book-25"></a>
 
 ### 25 — ಕನ್ನಡ ವಾಕ್ಯಗಳ ಒಳರಚನೆ
 **kannaDa vAkyagaLa oLaracane** *(Internal Structure of Kannada Sentences)*
@@ -548,6 +599,8 @@
 
 ## Section I — Additional Academic Works
 
+<a id="book-23"></a>
+
 ### 23 — A Grammar of Manipuri
 **A Grammar of Manipuri** (+ Kannada version)
 
@@ -558,6 +611,8 @@
 - **Folder:** [23-manipuri-grammar/](./23-manipuri-grammar/)
 
 ---
+
+<a id="book-24"></a>
 
 ### 24 — Grammatical Relations
 **Grammatical Relations: The Evidence Against Their Necessity and Universality**
@@ -571,6 +626,8 @@
 ---
 
 ## Section K — Newly Discovered Books (Google Drive, 2026-03-10)
+
+<a id="book-27"></a>
 
 ### 27 — ಭಾಷೆಯ ಬಗ್ಗೆ
 **bhASheya bagge nIvEnu balliri?** *(About Language / What Do You Know About Language?)*
@@ -589,6 +646,8 @@
 
 ---
 
+<a id="book-28"></a>
+
 ### 28 — ಕನ್ನಡಕ್ಕೆ ಬೇಕು ಕನ್ನಡದ್ದೇ ವ್ಯಾಕರಣ
 **kannaDakke bEku kannaDaddE vyAkaraNa** *(Kannada Needs Its Own Grammar)*
 
@@ -605,6 +664,8 @@
 **Significance:** Popular advocacy booklet that went to 7 editions — one of Bhat's most widely read works. Argues that Kannada needs its own grammar built from Kannada-internal structure (the position developed formally in the Sollarime series). Companion to Book 29.
 
 ---
+
+<a id="book-29"></a>
 
 ### 29 — ಕನ್ನಡ ವ್ಯಾಕರಣ ಯಾಕೆ ಬೇಕು?
 **kannaDa vyAkaraNa yAke bEku** *(Why Do We Need Kannada Grammar?)*
@@ -625,6 +686,8 @@
 
 ## Section L — Newly Discovered Books (Google Drive, 2026-03-22)
 
+<a id="book-30"></a>
+
 ### 30 — ಕನ್ನಡ ಬರಹವನ್ನು ಸರಿಪಡಿಸೋಣ
 **kannaDa barahavannu saripaDisONa** *(Let us Rectify Written Kannada)*
 
@@ -640,6 +703,8 @@
 **Significance:** Broadens the argument of Book 08 (*mahaprana*) to the entire writing system. Where Book 08 targets aspirated consonants specifically, this book calls for a wholesale rationalisation of Kannada orthography. One of Bhat's more polemical works; went to at least two editions.
 
 ---
+
+<a id="book-31"></a>
 
 ### 31 — ಇಂಗ್ಲಿಷ್ ಪದಗಳಿಗೆ ಕನ್ನಡದ್ದೇ ಪದಗಳು
 **ingliS padagaLige kannaDaddE padagaLu** *(Kannada's Own Words for English Words)*
@@ -657,6 +722,8 @@
 
 ---
 
+<a id="book-32"></a>
+
 ### 32 — The Prominence of Tense, Aspect and Mood
 **The Prominence of Tense, Aspect and Mood**
 
@@ -673,6 +740,8 @@
 ---
 
 ## Section M — YouTube-Only Book (Split from Book 07)
+
+<a id="book-33"></a>
 
 ### 33 — ಕನ್ನಡ ಸೊಲ್ಲರಿಮೆ
 **kannaDa sollarime** *(Grammar of Kannada)*
