@@ -147,8 +147,10 @@ jobs:
 
           SCROLL_THRESHOLD = 1500  # chars; add chapter list at top when content exceeds this
 
-          def make_index(fp, positions, body, ch_links):
+          def make_index(fp, positions, body, ch_links, out_dir=None):
               """ch0.md: chapter quick-nav at top (when long) + preamble + TOC + chapter nav."""
+              if out_dir is None:
+                  out_dir = os.path.dirname(fp)
               preamble = body[:positions[0][2]].strip()
               heading_anchors = chapter_heading_anchors(body, positions)
               # Rewrite [text](#anchor) → [text](chN) for both #chN and heading-derived anchors
@@ -164,7 +166,7 @@ jobs:
               top = (ch_bar + '\n\n---\n\n') if len(preamble) > SCROLL_THRESHOLD else ''
               out = ('---\nnav_exclude: true\n---\n\n' + top + preamble
                      + '\n\n---\n\n' + ch_bar + '\n')
-              with open(os.path.join(os.path.dirname(fp), 'ch0.md'), 'w', encoding='utf-8') as f:
+              with open(os.path.join(out_dir, 'ch0.md'), 'w', encoding='utf-8') as f:
                   f.write(out)
 
           def toc_title_map(body):
@@ -196,7 +198,7 @@ jobs:
               lbl = ANCHOR_LABELS.get(positions[0][1], 'Ch')
               ch_links = ' \u00b7 '.join(
                   '[' + lbl + ' ' + str(num) + '](ch' + str(num) + ')' for num, _, _ in positions)
-              make_index(fp, positions, body, ch_links)
+              make_index(fp, positions, body, ch_links, out_dir=out_dir)
               toc_map = toc_title_map(body)
               for i, (chnum, _pfx, start) in enumerate(positions):
                   end = positions[i+1][2] if i+1 < n else len(body)
@@ -245,6 +247,20 @@ jobs:
               if os.path.exists(fp):
                   stem = os.path.splitext(fname)[0]
                   out_sub = os.path.join(DOCS_DNSBHAT, stem)
+                  os.makedirs(out_sub, exist_ok=True)
+                  n = split_file(fp, out_dir=out_sub)
+                  if n:
+                      total_ch += n
+                      total_files += 1
+          # Split Reflection topic files — chapter pages go into per-file subdirectories
+          DOCS_REFLECTION = 'docs/Reflection'
+          if os.path.isdir(DOCS_REFLECTION):
+              for fname in sorted(os.listdir(DOCS_REFLECTION)):
+                  if not fname.endswith('.md') or fname == 'index.md':
+                      continue
+                  fp = os.path.join(DOCS_REFLECTION, fname)
+                  stem = os.path.splitext(fname)[0]
+                  out_sub = os.path.join(DOCS_REFLECTION, stem)
                   os.makedirs(out_sub, exist_ok=True)
                   n = split_file(fp, out_dir=out_sub)
                   if n:
@@ -711,8 +727,17 @@ jobs:
                   fpath = os.path.join(REFLDIR, fname)
                   if not os.path.exists(fpath):
                       continue
-                  with open(fpath, encoding='utf-8') as f:
-                      body = strip_fm(f.read())
+                  stem = os.path.splitext(fname)[0]
+                  ch0_path = os.path.join(REFLDIR, stem, 'ch0.md')
+                  if os.path.exists(ch0_path):
+                      # Use lightweight chapter-index (preamble + chapter nav) instead of full file
+                      with open(ch0_path, encoding='utf-8') as f:
+                          body = strip_fm(f.read())
+                      # Rewrite relative chapter links to include the subdirectory prefix
+                      body = re.sub(r'\]\(ch(\d+)\)', lambda m: f']({stem}/ch{m.group(1)})', body)
+                  else:
+                      with open(fpath, encoding='utf-8') as f:
+                          body = strip_fm(f.read())
                   body = re.sub(r'\]\(((?!http)[^)]+)\.md\)', r'](\1)', body)
                   with open(fpath, 'w', encoding='utf-8') as f:
                       f.write(fm(title=title, parent=REFL_TITLE, nav_order=nav_order))
