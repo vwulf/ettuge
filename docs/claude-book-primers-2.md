@@ -1,6 +1,7 @@
 # Ettuge DNS Bhat — Book Primers, Part 2
 
 Detailed AI context primers for DNS Bhat books (continued).
+Each book ends with a **Chapter Navigation** block listing chapter titles and GitHub Pages fetch URLs.
 For book catalogue and file structure, see `claude-project-instructions.md`.
 For earlier book primers, see `claude-book-primers-1.md`.
 
@@ -313,6 +314,22 @@ The book covers ten substantive chapters (Chapters 2–10) plus an introductory 
 
 10. **Repository source (Phase 18/19):** The kn.md now has a 3-level deep TOC with `<a id="sec-N-M">` and `<a id="sub-N-M-K">` anchors. Cross-links `[Eke →]` appear after each sec/sub anchor in kn.md; kn-eke.md has `[ಕನ್ನಡ →]` links. Header has `[← ಸೂಚಿ](./README)` index back-link. This book uses standard Kannada orthography (not hosa baraha).
 
+### Chapter Navigation
+
+**Chapters:** 
+  [1. ಪೀಠಿಕೆ](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/25-kannaDa-vAkyagaLa-oLaracane/book/kn/ch1)  
+  [2. ಕ್ರಿಯಾವಾಕ್ಯಗಳ ಒಳರಚನೆ](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/25-kannaDa-vAkyagaLa-oLaracane/book/kn/ch2)  
+  [3. ವಿಷಯವಾಕ್ಯಗಳ ಒಳರಚನೆ](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/25-kannaDa-vAkyagaLa-oLaracane/book/kn/ch3)  
+  [4. ನಾಮಪದಗಳ ಕಂತೆಗಳು](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/25-kannaDa-vAkyagaLa-oLaracane/book/kn/ch4)  
+  [5. ಕ್ರಿಯಾಪದಗಳ ಪದರೂಪಗಳು](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/25-kannaDa-vAkyagaLa-oLaracane/book/kn/ch5)  
+  [6. ಗುಣಪದಗಳ ಬಳಕೆ](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/25-kannaDa-vAkyagaLa-oLaracane/book/kn/ch6)  
+  [7. ಒಳವಾಕ್ಯಗಳು](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/25-kannaDa-vAkyagaLa-oLaracane/book/kn/ch7)  
+  [8. ವಾಕ್ಯಗಳ ಜೋಡಣೆ](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/25-kannaDa-vAkyagaLa-oLaracane/book/kn/ch8)  
+  [9. ಸಂಬಂಧಿಸುವುದು ಮತ್ತು ಅಲ್ಲಗಳೆಯುವುದು](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/25-kannaDa-vAkyagaLa-oLaracane/book/kn/ch9)  
+  [10. ಮಾತಿನ ಕೆಲಸಗಳು](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/25-kannaDa-vAkyagaLa-oLaracane/book/kn/ch10)  
+  [11. ಕನ್ನಡದ ಕೆಲವು ವೈಶಿಷ್ಟ್ಯಗಳು](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/25-kannaDa-vAkyagaLa-oLaracane/book/kn/ch11)
+
+
 
 ---
 
@@ -492,6 +509,16 @@ The book's central purpose is to correct widespread popular misconceptions about
 
 10. **Repository source (Phase 19):** The kn.md already had 221 anchors (5 part-N, 32 sec-N-M, 184 sub-N-M-K). Phase 19 added `[Eke →]` cross-links after every sec/sub anchor in kn.md and `[ಕನ್ನಡ →]` links in kn-eke.md. Header has `[← ಸೂಚಿ](./README)` index back-link. Part anchors use `part-N` format; section and subsection use `sec-N-M` / `sub-N-M-K`.
 
+### Chapter Navigation
+
+**Chapters:** 
+  [1. ಭಾಗ ಒಂದು](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/27-bhASheya-bagge/book/kn/ch1)  
+  [2. ಭಾಗ ಎರಡು](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/27-bhASheya-bagge/book/kn/ch2)  
+  [3. ಭಾಗ ಮೂರು](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/27-bhASheya-bagge/book/kn/ch3)  
+  [4. ಭಾಗ ನಾಲ್ಕು](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/27-bhASheya-bagge/book/kn/ch4)  
+  [5. ಭಾಗ ಐದು](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/27-bhASheya-bagge/book/kn/ch5)
+
+
 
 ---
 
@@ -664,6 +691,23 @@ The book is organised as a guided chapter-by-chapter tour through the major gram
 - [Book 25 — ಕನ್ನಡ ವಾಕ್ಯಗಳ ಒಳರಚನೆ (Internal Structure of Kannada Sentences)](../25-kannaDa-vAkyagaLa-oLaracane/25-kannaDa-vAkyagaLa-oLaracane-claude-prompt)
 - [Book 29 — ಕನ್ನಡ ವ್ಯಾಕರಣ ಯಾಕೆ ಬೇಕು? (Why Do We Need Kannada Grammar?)](../29-kannaDa-vyAkaraNa-yAke-bEku/29-kannaDa-vyAkaraNa-yAke-bEku-claude-prompt)
 
+### Chapter Navigation
+
+**Chapters:** 
+  [1. ಮುನ್ನೋಟ](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/28-kannaDakke-bEku/book/kn/ch1)  
+  [2. ಸೇರಿಕೆಯ ನಿಯಮಗಳು](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/28-kannaDakke-bEku/book/kn/ch2)  
+  [3. ಪದವಗ್ರಗಳು](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/28-kannaDakke-bEku/book/kn/ch3)  
+  [4. ಪದಗಳ ಒಳರಚನೆ](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/28-kannaDakke-bEku/book/kn/ch4)  
+  [5. ಸಮಾಸಗಳು](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/28-kannaDakke-bEku/book/kn/ch5)  
+  [6. ಲಿಂಗ ಮತ್ತು ವಚನಗಳು](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/28-kannaDakke-bEku/book/kn/ch6)  
+  [7. ವಿಭಕ್ತಿಗಳು ಮತ್ತು ಕಾರಕಗಳು](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/28-kannaDakke-bEku/book/kn/ch7)  
+  [8. ವಿಭಕ್ತಿಗಳು](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/28-kannaDakke-bEku/book/kn/ch8)  
+  [9. ವಿಭಕ್ತಿಪಲ್ಲಟ](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/28-kannaDakke-bEku/book/kn/ch9)  
+  [10. ಸವ್ರನಾಮಗಳು ಮತ್ತು ಎಣಿಕೆಯ ಪದಗಳು](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/28-kannaDakke-bEku/book/kn/ch10)  
+  [11. ಕ್ರಿಯಾರೂಪಗಳು](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/28-kannaDakke-bEku/book/kn/ch11)  
+  [12. ಮುಕ್ತಾಯ](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/28-kannaDakke-bEku/book/kn/ch12)
+
+
 
 ---
 
@@ -831,6 +875,111 @@ When answering questions about this book:
 
 10. **Repository source (Phase 18/19):** The kn.md now has a 3-level deep TOC with `<a id="sec-N-M">` and `<a id="sub-N-M-K">` anchors. Cross-links `[Eke →]` appear after each sec/sub anchor in kn.md; kn-eke.md has `[ಕನ್ನಡ →]` links. Header has `[← ಸೂಚಿ](./README)` index back-link. Chapter nav uses `#adhyAya-N` anchors.
 
+### Chapter Navigation
+
+**Chapters:** 
+  [1. ಮೊದಲನೇ ಪಸುಗೆ — ಮುನ್ನೋಟ](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/29-kannaDa-vyAkaraNa-yAke-bEku/book/kn/ch1)  
+  [2. ಎರಡನೇ ಪಸುಗೆ — ಓದು-ಬರಹದ ಕಲಿಕೆ](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/29-kannaDa-vyAkaraNa-yAke-bEku/book/kn/ch2)  
+  [3. ಮೂರನೇ ಪಸುಗೆ — ಬರೆಯುವುದರಲ್ಲಿ ಹೆಚ್ಚಿನ ಕಲಿಕೆ](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/29-kannaDa-vyAkaraNa-yAke-bEku/book/kn/ch3)  
+  [4. ನಾಲ್ಕನೇ ಪಸುಗೆ — ಅರಿಮೆಯ ಬರಹಗಳು](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/29-kannaDa-vyAkaraNa-yAke-bEku/book/kn/ch4)  
+  [5. ಅಯ್ದನೇ ಪಸುಗೆ — ನಲ್ಬರಹಗಳು ಮತ್ತು ಸೊಲ್ಲರಿಮೆ](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/29-kannaDa-vyAkaraNa-yAke-bEku/book/kn/ch5)  
+  [6. ಆರನೇ ಪಸುಗೆ — ಇಪ್ಪುರುಳಿನ ತೊಡಕುಗಳು](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/29-kannaDa-vyAkaraNa-yAke-bEku/book/kn/ch6)  
+  [7. ಏಳನೇ ಪಸುಗೆ — ಎರಡನೇ ನುಡಿಯ ಕಲಿಕೆ](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/29-kannaDa-vyAkaraNa-yAke-bEku/book/kn/ch7)  
+  [8. ಎಂಟನೇ ಪಸುಗೆ — ನುಡಿಮಾರಿಕೆ](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/29-kannaDa-vyAkaraNa-yAke-bEku/book/kn/ch8)  
+  [9. ಒಂಬತ್ತನೇ ಪಸುಗೆ — ನುಡಿಹಮ್ಮುಗೆ](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/29-kannaDa-vyAkaraNa-yAke-bEku/book/kn/ch9)  
+  [10. ಹತ್ತನೇ ಪಸುಗೆ — ಮಾತಿನ ತೊಂದರೆಗಳು](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/29-kannaDa-vyAkaraNa-yAke-bEku/book/kn/ch10)  
+  [11. ಹನ್ನೊಂದನೇ ಪಸುಗೆ — ಮುಕ್ತಾಯ](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/29-kannaDa-vyAkaraNa-yAke-bEku/book/kn/ch11)
+
+
+
+---
+
+## Book 30 — 30-kannaDa-barahavannu-saripaDisONa
+
+# Claude Prompt — Book 30: ಕನ್ನಡ ಬರಹವನ್ನು ಸರಿಪಡಿಸೋಣ
+
+**English title:** Let Us Rectify Written Kannada
+**Author:** D. N. Shankara Bhat
+**Published:** 2006 (1st ed.); 2009 (2nd ed.) · Bāshā Prakāshana, Heggodu, Sagara
+**Pages:** 382 · Language: Kannada (*hosa baraha* reformed script)
+
+---
+
+## THESIS
+
+Kannada writing is unnecessarily complicated because it copies Sanskrit orthographic practices — specifically (1) using *mahāprāṇa* letters (ಖ, ಘ, ಛ, ಝ…) for Sanskrit loanwords even though Kannada speakers don't distinguish these sounds, and (2) using Sanskrit-style word formations instead of native Dravidian ones. This book is the comprehensive companion to Book 08 (*Kannadakke Mahāprāṇa Yāke Bēḍa*): where Book 08 makes the phonological argument for dropping aspirates, Book 30 covers the *full* case for script and word reform.
+
+---
+
+## CHAPTER MAP
+
+The book divides into two parts — script reform (Ch. 1–4) and word reform (Ch. 5–10):
+
+| Ch | Title | Key argument |
+|----|-------|-------------|
+| 1 | ಮುನ್ನೋಟ (Overview) | Kannada can gain full benefits as a modern language if its script is simplified |
+| 2 | ಕನ್ನಡ ನುಡಿ ಸಂಸ್ಕ್ರುತದಿಂದ ಬೆಳೆದು ಬಂದಿಲ್ಲ | Kannada is Dravidian, not derived from Sanskrit — the historical myth is false |
+| 3 | ಕನ್ನಡದಲ್ಲಿ ಸ್ಪೆಲ್ಲಿಂಗ್ ಸಮಸ್ಯೆ | Spelling inconsistency arises from imposing Sanskrit rules on Kannada phonology |
+| 4 | ಕನ್ನಡಕ್ಕೊಂದು 'ಹೊಸ ಬರಹ' | Proposal for the reformed *hosa baraha* script — phonemic, consistent, learnable |
+| 5 | ಕನ್ನಡ ಬರಹದ ಪದಸಮಸ್ಯೆ | The word-formation problem: Kannada writers reach for Sanskrit when new words are needed |
+| 6 | ಕನ್ನಡ ಬರಹಗಳಲ್ಲಿ ಸಂಸ್ಕ್ರುತ ಪದಗಳು | How Sanskrit words have flooded Kannada prose |
+| 7 | ವಿಜ್ನಾನ ಬರಹಗಳಲ್ಲಿ ಸಂಸ್ಕ್ರುತ ಪದಗಳು | Science writing in Kannada: especially heavy Sanskrit burden |
+| 8 | ಕನ್ನಡ ಪ್ರತ್ಯಯಗಳ ಬಳಕೆ | Using native Kannada suffixes for new coinages |
+| 9 | ಕನ್ನಡ ಪದಗಳ ಬಳಕೆ | Using native Kannada root words |
+| 10 | ಮುಕ್ತಾಯ (Conclusion) | Summary of the reform agenda |
+
+---
+
+## KEY TERMS
+
+| Kannada | Eke | English |
+|---------|-----|---------|
+| ಹೊಸ ಬರಹ | hosa baraha | "new writing" — Bhat's reformed script |
+| ಲಿಪಿ-ಕ್ರಾಂತಿ | lipi-krAnti | script revolution |
+| ಪದ-ಕ್ರಾಂತಿ | pada-krAnti | word revolution |
+| ಮಹಾಪ್ರಾಣ | mahAprANa | aspirated consonants (argued unnecessary for Kannada) |
+| ತ್ರಿಶಂಕು ಪದ | triSanku pada | "triśaṅku word" — Sanskrit-Kannada hybrid, belonging to neither |
+| ಪ್ರತ್ಯಯ | prataya | suffix (Bhat uses this Sanskrit term for Kannada suffixes too) |
+| ಒಟ್ಟು | oTTu | Bhat's native-Kannada term for "suffix" |
+
+---
+
+## REPOSITORY SOURCE
+
+**Structured Kannada text:** `book/kn/full.md` — 10-chapter structured file with ಒಳಪಿಡಿ TOC and `<a id="ch1">` through `<a id="ch10">` anchors. Extracted from Nudi-font PDF via wx_decode.py.
+
+**Raw OCR archive:** `book/kn/raw.md` — do not edit; 428K chars.
+
+**English summary:** `book/en/summary.md` — full chapter-by-chapter analysis.
+
+**Eke romanisation:** `book/eke/full.md` — all 10 chapters transliterated with matching anchors.
+
+Script: *hosa baraha* throughout — aspirated Kannada letters replaced by their non-aspirated equivalents (ಭ→ಬ, ಧ→ದ, ಘ→ಗ etc.). Citation quotes in kn.md standardised to curly single quotes `'word'` (U+2018/U+2019).
+
+---
+
+## CONNECTIONS TO OTHER BOOKS
+
+- **Book 08** (*Kannadakke Mahāprāṇa Yāke Bēḍa*): the phonological argument for script reform — Book 30 is the broader companion
+- **Book 31** (*Ingli​sh Padagalige Kannadaddē Padagalu*): dictionary implementing the word-reform principles of Ch. 5–9
+- **Book 14** (*Nijakku Halegannada Vyākarana Entahadu*): Old Kannada grammar — explains why Sanskrit grammar doesn't apply to Kannada
+- **Book 32** (*The Prominence of Tense, Aspect and Mood*): the academic typological foundation for "Kannada is Dravidian, not Sanskrit-derived"
+
+### Chapter Navigation
+
+**Chapters:** 
+  [1. ಮುನ್ನೋಟ](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/30-kannaDa-barahavannu-saripaDisONa/book/kn/ch1)  
+  [2. ಕನ್ನಡ ನುಡಿ ಸಂಸ್ಕ್ರುತದಿಂದ ಬೆಳೆದು ಬಂದಿಲ್ಲ](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/30-kannaDa-barahavannu-saripaDisONa/book/kn/ch2)  
+  [3. ಕನ್ನಡದಲ್ಲಿ ಸ್ಪೆಲ್ಲಿಂಗ್ ಸಮಸ್ಯೆ](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/30-kannaDa-barahavannu-saripaDisONa/book/kn/ch3)  
+  [4. ಕನ್ನಡಕ್ಕೊಂದು 'ಹೊಸ ಬರಹ'](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/30-kannaDa-barahavannu-saripaDisONa/book/kn/ch4)  
+  [5. ಕನ್ನಡ ಬರಹದ ಪದಸಮಸ್ಯೆ](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/30-kannaDa-barahavannu-saripaDisONa/book/kn/ch5)  
+  [6. ಕನ್ನಡ ಬರಹಗಳಲ್ಲಿ ಸಂಸ್ಕ್ರುತ ಪದಗಳು](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/30-kannaDa-barahavannu-saripaDisONa/book/kn/ch6)  
+  [7. ವಿಜ್ನಾನ ಬರಹಗಳಲ್ಲಿ ಸಂಸ್ಕ್ರುತ ಪದಗಳು](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/30-kannaDa-barahavannu-saripaDisONa/book/kn/ch7)  
+  [8. ಕನ್ನಡ ಪ್ರತ್ಯಯಗಳ ಬಳಕೆ](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/30-kannaDa-barahavannu-saripaDisONa/book/kn/ch8)  
+  [9. ಕನ್ನಡ ಪದಗಳ ಬಳಕೆ](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/30-kannaDa-barahavannu-saripaDisONa/book/kn/ch9)  
+  [10. ಮುಕ್ತಾಯ](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/30-kannaDa-barahavannu-saripaDisONa/book/kn/ch10)
+
+
 
 ---
 
@@ -913,6 +1062,30 @@ This is an earlier, opinionated companion to Book 15 (*Inglish Kannada Padanerak
 4. Entry format in the dictionary: `**headword** — [PoS] Kannada equivalents (example sentences)`.
 5. **Chapter pages (Phase 32):** `book/kn/full.md` now has `<a id="chN">` anchors before each letter section (A=ch1 through W=ch19, 19 chapters total). CI generates `ch1.md`…`ch19.md` + `ch0.md` index. Access via chapter page links.
 6. Always note that this book uses *hosa baraha* reformed orthography throughout: aspirated consonants in native Kannada equivalents are systematically avoided.
+
+### Chapter Navigation
+
+**Chapters:** 
+  [1. A](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch1)  
+  [2. B](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch2)  
+  [3. C](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch3)  
+  [4. D](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch4)  
+  [5. E](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch5)  
+  [6. F](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch6)  
+  [7. G](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch7)  
+  [8. I](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch8)  
+  [9. K](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch9)  
+  [10. L](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch10)  
+  [11. M](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch11)  
+  [12. N](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch12)  
+  [13. O](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch13)  
+  [14. Q](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch14)  
+  [15. R](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch15)  
+  [16. T](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch16)  
+  [17. U](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch17)  
+  [18. V](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch18)  
+  [19. W](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch19)
+
 
 
 ---
@@ -1001,4 +1174,60 @@ The clean digital PDF (`the-prominence-of-tense-aspect-and-mood_compress.pdf`) i
 - **Book 14** (*Nijakku Halegannada Vyākarana Entahadu*): the grammar implication — Old Kannada grammar should use tense-based categories, not Sanskrit mood-based ones
 - **Book 02** (*Kannada Nuḍiya Oḷaracane*): structural analysis of Kannada — the tense-prominence framework applied to Kannada sentence structure
 - **Book 18** (*Kannada Nuḍiya Bagege Cintane*): popular-audience version of these arguments
+
+
+---
+
+## Book 33 — 33-kannaDa-sollarime
+
+# Claude Prompt — Book 33: ಕನ್ನಡ ಸೊಲ್ಲರಿಮೆ
+
+**English title:** Grammar of Kannada
+**Author:** D. N. Shankara Bhat
+**Language:** Kannada
+**Read by:** Malati Bhat (YouTube series)
+**Pages:** Unknown · **PDF:** Not available
+
+---
+
+## THESIS
+
+A self-contained Kannada grammar — distinct from Bhat's major 7-volume work *ಕನ್ನಡ ಬರಹದ ಸೊಲ್ಲರಿಮೆ* (Book 07, *Grammar of Kannada Writing*). The title omits "baraha" (writing), suggesting this may be a shorter or earlier general grammar of spoken and written Kannada, or a popular/abridged presentation of the same framework.
+
+**Relationship to other books:**
+- **Book 07** (*kannaDa barahada sollarime*, 7 vols): the comprehensive technical grammar — has PDFs for vols 1+2
+- **Book 01** (*idu kannaDaddE vyAkaraNa*): 2021 single-volume consolidation of Book 07
+
+The precise relationship between Book 33 and Books 01/07 is uncertain without the text.
+
+---
+
+## TRANSCRIPT STATUS
+
+**Source:** YouTube lecture series, 23 parts (P1, P2, Parts 1–21)
+**Quality:** ⚠️ Mostly garbled live-lecture auto-captions
+
+| Parts | Status |
+|-------|--------|
+| P1, P2 | Garbled / unavailable |
+| Parts 1–21 | ~14 unavailable; readable parts have keyword-level signals only |
+
+---
+
+## REPOSITORY SOURCE
+
+**YouTube transcript (Kannada):** `youtube/kn/full.md` — 23 parts, 420 lines
+**English summary:** `youtube/en/summary.md` — quality assessment + available content
+
+**No book text available** — no PDF, no OCR, no blog posts known.
+
+---
+
+## CONNECTIONS TO OTHER BOOKS
+
+| Book | Connection |
+|------|-----------|
+| [07 — kannaDa barahada sollarime](../07-kannaDa-barahada-sollarime/) | The comprehensive 7-volume grammar with same framework; has PDFs for vols 1+2 |
+| [01 — idu kannaDaddE vyAkaraNa](../01-idu-kannaDaddE-vyAkaraNa/) | 2021 consolidation of Book 07's 7 volumes |
+| [28 — kannaDakke bEku kannaDaddE vyAkaraNa](../28-kannaDakke-bEku-kannaDaddE-vyAkaraNa/) | Earlier (2000/2013) shorter grammar — possibly the predecessor to both 33 and 07 |
 

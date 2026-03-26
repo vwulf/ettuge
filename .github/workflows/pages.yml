@@ -104,14 +104,42 @@ jobs:
                   return h.strip()
               return ''
 
+          def jekyll_anchor(heading):
+              """Compute Jekyll's auto-generated anchor ID for a heading string."""
+              h = heading.lower()
+              h = re.sub(r'[^\w\s-]', '', h)
+              h = re.sub(r'\s+', '-', h.strip())
+              return h
+
+          def chapter_heading_anchors(body, positions):
+              """Build mapping: Jekyll heading anchor → chN page slug.
+              Used to rewrite TOC links like [A](#a) → [A](ch1) when a book
+              uses heading-derived anchors instead of explicit #chN anchors."""
+              result = {}
+              for i, (ch_num, pos) in enumerate(positions):
+                  # Look only in first 300 chars of the chapter body for ## heading
+                  chunk = body[pos:pos + 300]
+                  m = re.search(r'^## (.+)$', chunk, re.MULTILINE)
+                  if m:
+                      heading_text = re.sub(r'<[^>]+>', '', m.group(1)).strip()
+                      anchor = jekyll_anchor(heading_text)
+                      if anchor:
+                          result[anchor] = 'ch' + str(ch_num)
+              return result
+
           def make_index(fp, positions, body):
-              """ch0.md: preamble + TOC with #chN links rewritten to chN pages."""
+              """ch0.md: preamble + TOC with anchor links rewritten to chN pages."""
               preamble = body[:positions[0][1]].strip()
-              # Rewrite TOC anchor links [text](#chN) → [text](chN)
-              preamble = re.sub(
-                  r'\[([^\]]+)\]\(#(ch\d+)\)',
-                  lambda m: '[' + m.group(1) + '](' + m.group(2) + ')',
-                  preamble)
+              heading_anchors = chapter_heading_anchors(body, positions)
+              # Rewrite [text](#anchor) → [text](chN) for both #chN and heading-derived anchors
+              def rewrite_anchor(m):
+                  text, anchor = m.group(1), m.group(2)
+                  if re.match(r'ch\d+$', anchor):
+                      return '[' + text + '](' + anchor + ')'
+                  if anchor in heading_anchors:
+                      return '[' + text + '](' + heading_anchors[anchor] + ')'
+                  return m.group(0)
+              preamble = re.sub(r'\[([^\]]+)\]\(#([^)]+)\)', rewrite_anchor, preamble)
               ch_links = ' \u00b7 '.join(
                   '[Ch ' + str(n) + '](ch' + str(n) + ')' for n, _ in positions)
               out = ('---\nnav_exclude: true\n---\n\n' + preamble
