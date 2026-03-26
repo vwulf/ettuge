@@ -706,10 +706,11 @@ jobs:
               ('infrastructure-devops.md',          'Infrastructure & DevOps',      7),
               ('data-engineering.md',               'Data Engineering',             8),
               ('health-fitness.md',                 'Health & Fitness',             9),
-              ('books-literature.md',               'Books & Literature',          10),
-              ('arts-music-film.md',                'Arts, Music & Film',          11),
-              ('cricket-sports.md',                 'Cricket & Sports',            12),
-              ('travel-outdoors.md',                'Travel & Outdoors',           13),
+              ('martial-arts.md',                   'Martial Arts',                10),
+              ('books-literature.md',               'Books & Literature',          11),
+              ('arts-music-film.md',                'Arts, Music & Film',          12),
+              ('cricket-sports.md',                 'Cricket & Sports',            13),
+              ('travel-outdoors.md',                'Travel & Outdoors',           14),
               # career-personal.md — filtered for now (too personal)
               # current-events-politics.md — filtered for now
               ('miscellaneous.md',                  'Miscellaneous',               16),
