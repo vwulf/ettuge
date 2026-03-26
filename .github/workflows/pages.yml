@@ -182,14 +182,15 @@ jobs:
                           result[n] = t
               return result
 
-          def split_file(fp):
+          def split_file(fp, out_dir=None):
               with open(fp, encoding='utf-8') as f:
                   text = f.read()
               body = strip_fm(text)
               positions = find_positions(body)
               if len(positions) < 2:
                   return 0
-              out_dir = os.path.dirname(fp)
+              if out_dir is None:
+                  out_dir = os.path.dirname(fp)
               n = len(positions)
               # Determine label ("Ch" / "Part" / "Theme") from first anchor's prefix
               lbl = ANCHOR_LABELS.get(positions[0][1], 'Ch')
@@ -236,6 +237,19 @@ jobs:
                       if n:
                           total_ch += n
                           total_files += 1
+          # Also split standalone top-level .md files (e.g. PROJECT-PHASES.md).
+          # Chapter pages go into a subdirectory named after the file (no extension).
+          STANDALONE = ['PROJECT-PHASES.md']
+          for fname in STANDALONE:
+              fp = os.path.join(DOCS_DNSBHAT, fname)
+              if os.path.exists(fp):
+                  stem = os.path.splitext(fname)[0]
+                  out_sub = os.path.join(DOCS_DNSBHAT, stem)
+                  os.makedirs(out_sub, exist_ok=True)
+                  n = split_file(fp, out_dir=out_sub)
+                  if n:
+                      total_ch += n
+                      total_files += 1
           print(f"Chapter split: {total_ch} chapter pages across {total_files} source files.")
           PYEOF
 
