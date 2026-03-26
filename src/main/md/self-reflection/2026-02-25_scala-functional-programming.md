@@ -12,6 +12,7 @@ Collected links, notes, and code snippets on Scala 3, ZIO, Kyo, Haskell, Rust, f
 
 ---
 
+<a id="ch1"></a>
 ## ZIO / Scala Effect Systems
 
 **ZIO Actors (John De Goes tweet)**
@@ -144,6 +145,7 @@ Higher Order Company's HVM (Higher-order Virtual Machine) is a parallel runtime 
 
 ---
 
+<a id="ch2"></a>
 ## Rust
 
 **Rust Design Patterns (rust-unofficial.github.io)**
@@ -350,6 +352,7 @@ object Solution {
 
 ---
 
+<a id="ch3"></a>
 ## Haskell
 
 **Euterpea — Music Composition DSL in Haskell**
@@ -477,26 +480,7 @@ class DiningPhilosophers {
 
 ---
 
-## Algorithms & Interview Prep
-
-**Algorithms by Jeff Erickson**
-Jeff Erickson's (UIUC) comprehensive open textbook on algorithm design: sorting, searching, graph algorithms, dynamic programming, NP-completeness, and randomized algorithms. One of the most mathematically rigorous free algorithm textbooks available online.
-<https://jeffe.cs.illinois.edu/teaching/algorithms/>
-
-**GitHub: ossu/computer-science**
-Open Source Society University's structured path to a free, self-taught computer science education: curated MIT, Stanford, and other university course materials organized into a coherent CS degree curriculum covering math, algorithms, systems, and theory.
-<https://github.com/ossu/computer-science>
-
-**Arpit Adlakha: Senior Software Interview Roadmap (@arpit20adlakha)**
-A detailed Twitter thread outlining the roadmap for clearing senior software engineer interviews at Uber L5A/L5B and Google L5/L6: algorithm patterns, system design topics, behavioral interview frameworks, and resource recommendations with approximate time investment.
-<https://x.com/arpit20adlakha/status/1805084468870521100>
-
-**Ashish Pratap Singh: 15 LeetCode Patterns (@ashishps_1)**
-Twitter thread listing fifteen algorithmic patterns that cover the majority of LeetCode problems: Prefix Sum, Two Pointers, Sliding Window, Fast & Slow Pointers, In-place LinkedList Reversal, Monotonic Stack, Top K Elements, Overlapping Intervals, Modified Binary Search, and more. A structural framework for approaching unknown problems.
-<https://x.com/ashishps_1/status/1814884401249198569>
-
----
-
+<a id="ch4"></a>
 ## Nix
 
 **The Determinate Nix Installer — Zero to Nix**
@@ -533,6 +517,7 @@ Bhavana journal's series on the history of mathematics in India: zero, the decim
 
 ---
 
+<a id="ch5"></a>
 ## From self-1.md (Oct 2024 – Feb 2026)
 
 **NammaYatri / Haskell Open Source**

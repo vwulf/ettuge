@@ -12,6 +12,7 @@ Notes, links, and resources on Kannada linguistics, etymology, script, Proto-Dra
 
 ---
 
+<a id="ch1"></a>
 ## Grammar & Orthography
 
 **nudikannada: ಕನ್ನಡ ಬರಹಗಳಲ್ಲಿ 'ಕರಣ'ದ ಹಾವಳಿ**
@@ -145,6 +146,7 @@ Notes: Tamil has ஐ and ஔ (= ಐ and ಔ). Tamil consonant ற (ಱ) sounds l
 
 ---
 
+<a id="ch2"></a>
 ## Etymology & Proto-Dravidian
 
 **Proto-Dravidian Number Reconstruction (personal notes, Jan 5, 2024)**
@@ -256,6 +258,7 @@ The Glosbe multilingual dictionary's Kannada-Japanese section — a rare resourc
 
 ---
 
+<a id="ch3"></a>
 ## Native Kannada Word Building
 
 **nudikannada Tweet: ಪದಕಟ್ಟಣೆ — Prefix Equivalents in Kannada**
@@ -424,6 +427,7 @@ A tweet by Harish Garg about a GPT-based conversational tool for learning Kannad
 
 ---
 
+<a id="ch4"></a>
 ## History & Inscriptions
 
 **Kar_Bharadwaj Tweet: Holalkere Kannada Inscription Post-Talikota War**
@@ -479,6 +483,7 @@ A tweet noting that the New Year festival *ugādi* (from Sanskrit *yugādi* = be
 
 ---
 
+<a id="ch5"></a>
 ## Japanese Language Notes
 
 **Jisho.org Creator on Japanese Dictionaries (tofugu.com)**
@@ -698,6 +703,7 @@ A YouTube video tracing graph theory concepts back to Sanskrit prosody (Pingala'
 
 ---
 
+<a id="ch6"></a>
 ## From self-1.md (Oct 2024 – Feb 2026)
 
 **ARPABET Wikipedia (Nov 2024)**
@@ -1133,26 +1139,3 @@ en.wikipedia.org
 
 The Wikipedia article on Baba Budan, the 17th-century Sufi saint who is credited with smuggling seven coffee beans from Mocha (Yemen) into India — planting them in the hills of Chikmagalur, Karnataka, beginning India's coffee cultivation. **[→ kannada-language-linguistics; coffee history → indian-history-culture]**
 
----
-
-## Karnataka Food Culture
-
-**Bonda Soup Recipe: Bengaluru's Comfort Classic**
-deccanherald.com — <https://www.deccanherald.com/lifestyle/food-and-drink/cuisines-of-karnataka/crispy-bonda-dal-soup-bengalurus-beloved-bonda-soup-recipe-3760588>
-
-A Deccan Herald recipe feature for Bengaluru's iconic bonda soup — the unique combination of crispy batata vada (bonda) dropped into a thin, spiced dal (lentil) soup, a street food staple unique to Bengaluru's udupi hotels. **[→ kannada-language-linguistics; food]**
-
-**100 dishes in 40 days: India's epic wedding feast**
-bbc.com — <https://www.bbc.com/travel/article/20251003-100-dishes-in-40-days-indias-epic-wedding-feast>
-
-A BBC Travel article on the extravagant multi-day wedding feast traditions of southern India, where a 700-year-old custom involves serving over 100 dishes across 40 days of celebration. Documents a living culinary tradition. **[→ kannada-language-linguistics; food culture → indian-history-culture]**
-
-**4 ಟೊಮ್ಯಾಟೊ ಕಾಯಿ — Uttara Karnataka roti thali recipe**
-<https://youtu.be/CCHifkwAFS8>
-
-A YouTube video featuring a traditional Uttara Karnataka-style roti thali recipe, likely featuring jowar or ragi roti with a four-tomato-based curry (*tomato kaayi*). North Karnataka cuisine is distinct from South Karnataka's udupi tradition. **[→ kannada-language-linguistics; food; recipe]**
-
-**Wordalla statistics note (personal)**
-"75%+ of 5 letter Kannada words in Wordalla are Sanskrit. Alar itself has 20,000+ 5 letter words."
-
-A personal linguistic observation from daily Wordalla play — quantifying the Sanskrit vs. native Dravidian proportion in five-letter Kannada words. **[→ kannada-language-linguistics]**

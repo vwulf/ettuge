@@ -12,6 +12,7 @@ Links and notes on mathematics, physics, biology, and science discoveries.
 
 ---
 
+<a id="ch1"></a>
 ## Pure Mathematics
 
 **A Rosetta Stone for Mathematics | Quanta Magazine**
@@ -201,6 +202,7 @@ A freely available comprehensive textbook on algorithms by Jeff Erickson of UIUC
 
 ---
 
+<a id="ch2"></a>
 ## Abacus / Soroban
 
 **Multiplication on Soroban — Jimmy Wu (YouTube)**
@@ -360,6 +362,7 @@ Coverage of a new technique for efficiently characterizing quantum states — a 
 
 ---
 
+<a id="ch3"></a>
 ## Astronomy
 
 **NASA's Stunning New Black Hole Simulation (ScienceAlert)**
@@ -488,6 +491,7 @@ A profile of Anima Anandkumar, Caltech professor and former Amazon Science direc
 
 ---
 
+<a id="ch4"></a>
 ## History of Science & Mathematicians
 
 **The Computer Scientist Who Can't Stop Telling Stories — Donald Knuth (Quanta)**
@@ -522,6 +526,15 @@ A note on the paradox at the heart of classical mechanics: Poincaré proved in 1
 
 ---
 
+**Inside arXiv**
+wired.com — <https://www.wired.com/story/inside-arxiv-most-transformative-code-science/>
+
+A Wired profile of arXiv, the preprint server that has transformed scientific communication — covering its history, the Cornell Library, Paul Ginsparg's founding vision, and how open preprints reshaped physics, mathematics, and now AI research. **[→ mathematics-science; academic publishing]**
+
+
+---
+
+<a id="ch5"></a>
 ## From self-1.md (Oct 2024 – Feb 2026)
 
 **Prime Number Distribution — New Results**
@@ -783,20 +796,6 @@ An IFL Science article featuring a photograph simultaneously capturing a sprite 
 <https://youtu.be/hC3VTgIPoGU>
 
 A YouTube clip from the documentary *Chasing Ice* (2012) showing the largest glacier calving event ever recorded on film — a 75-minute sequence where an area the size of Manhattan breaks off the Greenland ice sheet. Viscerally powerful climate science communication. **[→ mathematics-science; climate; arts-music-film for documentary]**
-
----
-
-## Technology & Computing
-
-**After Three Years, Modular's CUDA Alternative Is Ready**
-eetimes.com — <https://www.eetimes.com/after-three-years-modulars-cuda-alternative-is-ready/>
-
-An EE Times article on Modular's GPU computing platform (the Mojo language ecosystem) reaching production readiness as a CUDA alternative — aimed at enabling GPU programming without NVIDIA's proprietary toolchain. **[→ mathematics-science; ML infrastructure → machine-learning-ai]**
-
-**Inside arXiv**
-wired.com — <https://www.wired.com/story/inside-arxiv-most-transformative-code-science/>
-
-A Wired profile of arXiv, the preprint server that has transformed scientific communication — covering its history, the Cornell Library, Paul Ginsparg's founding vision, and how open preprints reshaped physics, mathematics, and now AI research. **[→ mathematics-science; academic publishing]**
 
 ---
 

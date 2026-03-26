@@ -12,6 +12,7 @@ Personal fitness logs, climbing progress, pull-up training, VO2 max data, nutrit
 
 ---
 
+<a id="ch1"></a>
 ## VO2 Max
 
 VO2 Max calculation formula: 15.3 x (MHR/RHR)
@@ -167,6 +168,7 @@ BBC
 
 ---
 
+<a id="ch2"></a>
 ## Pull-Up & Upper Body Training
 
 **Average Pull-Ups by Age: How Many Should Men and Women Do?**
@@ -271,6 +273,7 @@ The most common push-up form breakdown: lumbar hyperextension caused by insuffic
 
 ---
 
+<a id="ch3"></a>
 ## Flexibility & Mobility
 
 **8 Thoracic Mobility Exercises (healthline.com)**
@@ -501,6 +504,7 @@ The Poliquin step-up (reverse step-up off a box) described as one of the most ef
 
 ---
 
+<a id="ch4"></a>
 ## Sleep Apnea (OSA)
 
 **Lilly's Tirzepatide Reduced OSA Severity — Up to 51.5% Resolution Rate**
@@ -683,6 +687,7 @@ CNN
 
 ---
 
+<a id="ch5"></a>
 ## Kobudo / Okinawa Martial Arts
 
 **World Kobudo Day Celebration (Mar 31, 2024) — 102 Kata Log**
@@ -802,6 +807,7 @@ Essay drawing on the philosophy of a Judo master who, near death, distilled his 
 
 ---
 
+<a id="ch6"></a>
 ## From self-1.md (Oct 2024 – Feb 2026)
 
 **Oblique Kick — MMA Technique**

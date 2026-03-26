@@ -12,6 +12,7 @@ Links and notes on Indian history, genetics, archaeology, culture, food, and con
 
 ---
 
+<a id="ch1"></a>
 ## Genetics & Population History
 
 **An Ancient Harappan Genome — Vasant Shinde & David Reich (Cell 2019)**
@@ -220,6 +221,7 @@ A Quora thread tracing the historical development of "Karnataka" as a regional/l
 
 ---
 
+<a id="ch2"></a>
 ## Vedic / Soma
 
 **Soma as Psychoactive: Amanita Muscaria (Wikipedia)**
@@ -386,6 +388,7 @@ A personal note on the distribution and antiquity of Rama temples in Karnataka, 
 
 ---
 
+<a id="ch3"></a>
 ## Contemporary Indian Politics
 
 **Why India's South Rejects Modi**
@@ -594,6 +597,7 @@ Research using the iron oxide minerals in ancient fired bricks from Mesopotamia 
 
 ---
 
+<a id="ch4"></a>
 ## From self-1.md (Oct 2024 – Feb 2026)
 
 **Kadlekai Parishe 2024 — Groundnut Fair, Bengaluru (Nov 2024)**
@@ -1071,6 +1075,7 @@ The story of Deepak Kumar — a Hindu man who, invoking his own religious duty o
 
 ---
 
+<a id="ch5"></a>
 ## Archaeology & Prehistory
 
 **India's Iron Age began in Tamil Nadu 5,300 years ago**
@@ -1156,3 +1161,28 @@ An article examining Hindu dietary practices around pork consumption — noting 
 avtans.com — <https://avtans.com/2025/03/20/celebrating-pakhala-dibasa-a-deep-dive-into-odia-cuisine/>
 
 An article on Pakhala Dibasa (Pakhala Day, March 20), a celebration of Odisha's traditional fermented rice water dish (*pakhala*) — part of a broader revival of interest in regional Indian cuisines. **[→ indian-history-culture; Odia culture; food]**
+
+---
+
+<a id="ch6"></a>
+## Karnataka Food Culture
+
+**Bonda Soup Recipe: Bengaluru's Comfort Classic**
+deccanherald.com — <https://www.deccanherald.com/lifestyle/food-and-drink/cuisines-of-karnataka/crispy-bonda-dal-soup-bengalurus-beloved-bonda-soup-recipe-3760588>
+
+A Deccan Herald recipe feature for Bengaluru's iconic bonda soup — the unique combination of crispy batata vada (bonda) dropped into a thin, spiced dal (lentil) soup, a street food staple unique to Bengaluru's udupi hotels. **[→ kannada-language-linguistics; food]**
+
+**100 dishes in 40 days: India's epic wedding feast**
+bbc.com — <https://www.bbc.com/travel/article/20251003-100-dishes-in-40-days-indias-epic-wedding-feast>
+
+A BBC Travel article on the extravagant multi-day wedding feast traditions of southern India, where a 700-year-old custom involves serving over 100 dishes across 40 days of celebration. Documents a living culinary tradition. **[→ kannada-language-linguistics; food culture → indian-history-culture]**
+
+**4 ಟೊಮ್ಯಾಟೊ ಕಾಯಿ — Uttara Karnataka roti thali recipe**
+<https://youtu.be/CCHifkwAFS8>
+
+A YouTube video featuring a traditional Uttara Karnataka-style roti thali recipe, likely featuring jowar or ragi roti with a four-tomato-based curry (*tomato kaayi*). North Karnataka cuisine is distinct from South Karnataka's udupi tradition. **[→ kannada-language-linguistics; food; recipe]**
+
+**Wordalla statistics note (personal)**
+"75%+ of 5 letter Kannada words in Wordalla are Sanskrit. Alar itself has 20,000+ 5 letter words."
+
+A personal linguistic observation from daily Wordalla play — quantifying the Sanskrit vs. native Dravidian proportion in five-letter Kannada words. **[→ kannada-language-linguistics]**

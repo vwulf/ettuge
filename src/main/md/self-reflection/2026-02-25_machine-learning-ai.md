@@ -12,6 +12,7 @@ Links, notes, papers, and code snippets on LLMs, RAG, fine-tuning, neural archit
 
 ---
 
+<a id="ch1"></a>
 ## Large Language Models — Foundations
 
 **Cameron R. Wolfe: Training Specialized LLMs (Substack)**
@@ -126,6 +127,7 @@ A blog post describing an application of LLMs to audio content — likely podcas
 
 ---
 
+<a id="ch2"></a>
 ## Fine-Tuning & Indic LLMs
 
 **Ramsri Goutham: Training Indic LLMs — DoRA vs LoRA**
@@ -297,6 +299,7 @@ A LinkedIn post reflecting on the practical lessons learned building a productio
 
 ---
 
+<a id="ch3"></a>
 ## AI Tools & Infrastructure
 
 **Groq's Lightning Fast AI Chip (Techopedia)**
@@ -334,6 +337,14 @@ Cursor is a VS Code fork deeply integrated with LLM code generation — supporti
 **Jaynit Makwana: These 4 Guys Completely Revolutionized Coding — Cursor**
 A tweet celebrating the Cursor founding team's impact on software development workflows, arguing that AI-integrated IDEs have lowered the barrier to programming enough to enable non-programmers to build functional software. A marker of the "anyone can code" discourse that accompanied the widespread adoption of AI coding tools in 2024–25.
 <https://x.com/JaynitMakwana/status/1829390237107200046>
+
+
+---
+
+**After Three Years, Modular's CUDA Alternative Is Ready**
+eetimes.com — <https://www.eetimes.com/after-three-years-modulars-cuda-alternative-is-ready/>
+
+An EE Times article on Modular's GPU computing platform (the Mojo language ecosystem) reaching production readiness as a CUDA alternative — aimed at enabling GPU programming without NVIDIA's proprietary toolchain. **[→ mathematics-science; ML infrastructure → machine-learning-ai]**
 
 
 ---
@@ -396,6 +407,7 @@ A library catalog entry for a book on implementing machine learning algorithms i
 
 ---
 
+<a id="ch4"></a>
 ## Hallucination, Alignment, Verification
 
 **Vishal Misra: LLMs Cannot Recursively Self-Improve**
@@ -465,6 +477,7 @@ A personal archive of a NotebookLM-generated podcast summary of accumulated note
 
 ---
 
+<a id="ch5"></a>
 ## From self-1.md (Oct 2024 – Feb 2026)
 
 **Understanding Transformer Reasoning on Graph Algorithms (Oct 2024)**
