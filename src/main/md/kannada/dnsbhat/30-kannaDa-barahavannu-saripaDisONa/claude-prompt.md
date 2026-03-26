@@ -66,3 +66,22 @@ Script: *hosa baraha* throughout — aspirated Kannada letters replaced by their
 - **Book 31** (*Ingli​sh Padagalige Kannadaddē Padagalu*): dictionary implementing the word-reform principles of Ch. 5–9
 - **Book 14** (*Nijakku Halegannada Vyākarana Entahadu*): Old Kannada grammar — explains why Sanskrit grammar doesn't apply to Kannada
 - **Book 32** (*The Prominence of Tense, Aspect and Mood*): the academic typological foundation for "Kannada is Dravidian, not Sanskrit-derived"
+
+---
+
+## INSTRUCTIONS FOR ANSWERING QUESTIONS
+
+1. **Chapter pages (Phase 33):** The Kannada source is split into individual chapter pages on GitHub Pages. Fetch specific chapters rather than loading the full book — chapters are lightweight and avoid token exhaustion when answering focused questions:
+   - **Chapter index (ch0):** `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/30-kannaDa-barahavannu-saripaDisONa/book/kn/ch0`
+   - Ch 1 — ಮುನ್ನೋಟ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/30-kannaDa-barahavannu-saripaDisONa/book/kn/ch1`
+   - Ch 2 — ಕನ್ನಡ ನುಡಿ ಸಂಸ್ಕ್ರುತದಿಂದ ಬೆಳೆದು ಬಂದಿಲ್ಲ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/30-kannaDa-barahavannu-saripaDisONa/book/kn/ch2`
+   - Ch 3 — ಕನ್ನಡದಲ್ಲಿ ಸ್ಪೆಲ್ಲಿಂಗ್ ಸಮಸ್ಯೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/30-kannaDa-barahavannu-saripaDisONa/book/kn/ch3`
+   - Ch 4 — ಕನ್ನಡಕ್ಕೊಂದು 'ಹೊಸ ಬರಹ': `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/30-kannaDa-barahavannu-saripaDisONa/book/kn/ch4`
+   - Ch 5 — ಕನ್ನಡ ಬರಹದ ಪದಸಮಸ್ಯೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/30-kannaDa-barahavannu-saripaDisONa/book/kn/ch5`
+   - Ch 6 — ಕನ್ನಡ ಬರಹಗಳಲ್ಲಿ ಸಂಸ್ಕ್ರುತ ಪದಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/30-kannaDa-barahavannu-saripaDisONa/book/kn/ch6`
+   - Ch 7 — ವಿಜ್ನಾನ ಬರಹಗಳಲ್ಲಿ ಸಂಸ್ಕ್ರುತ ಪದಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/30-kannaDa-barahavannu-saripaDisONa/book/kn/ch7`
+   - Ch 8 — ಕನ್ನಡ ಪ್ರತ್ಯಯಗಳ ಬಳಕೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/30-kannaDa-barahavannu-saripaDisONa/book/kn/ch8`
+   - Ch 9 — ಕನ್ನಡ ಪದಗಳ ಬಳಕೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/30-kannaDa-barahavannu-saripaDisONa/book/kn/ch9`
+   - Ch 10 — ಮುಕ್ತಾಯ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/30-kannaDa-barahavannu-saripaDisONa/book/kn/ch10`
+   
+   When a question targets a specific chapter, fetch only that URL. Use `ch0` to browse the full chapter list first.

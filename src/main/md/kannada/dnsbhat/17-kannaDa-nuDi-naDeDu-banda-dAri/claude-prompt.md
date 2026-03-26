@@ -206,3 +206,20 @@ The book is addressed to an educated Kannada-speaking audience rather than profe
 
 
 10. **Repository source (Phase 18/19):** The kn.md now has a 3-level deep TOC with `<a id="sec-N-M">` and `<a id="sub-N-M-K">` anchors. Cross-links `[Eke →]` appear after each sec/sub anchor in kn.md; kn-eke.md has `[ಕನ್ನಡ →]` links. Header has `[← ಸೂಚಿ](./README)` index back-link. Note: ~840 table-cell fragments from multi-column PDF tables are still isolated lines (table reconstruction requires PDF screenshots).
+
+11. **Chapter pages (Phase 33):** The Kannada source is split into individual chapter pages on GitHub Pages. Fetch specific chapters rather than loading the full book — chapters are lightweight and avoid token exhaustion when answering focused questions:
+   - **Chapter index (ch0):** `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/17-kannaDa-nuDi-naDeDu-banda-dAri/book/kn/ch0`
+   - Ch 1 — ಮುನ್ನೋಟ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/17-kannaDa-nuDi-naDeDu-banda-dAri/book/kn/ch1`
+   - Ch 2 — ಬೇರಿನ ಸ್ವರಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/17-kannaDa-nuDi-naDeDu-banda-dAri/book/kn/ch2`
+   - Ch 3 — ಒಟ್ಟಿನ ಸ್ವರಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/17-kannaDa-nuDi-naDeDu-banda-dAri/book/kn/ch3`
+   - Ch 4 — ತಡೆಯುಲಿಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/17-kannaDa-nuDi-naDeDu-banda-dAri/book/kn/ch4`
+   - Ch 5 — ಇತರ ವ್ಯಂಜನಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/17-kannaDa-nuDi-naDeDu-banda-dAri/book/kn/ch5`
+   - Ch 6 — ಪದಗಳ ಒಳರಚನೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/17-kannaDa-nuDi-naDeDu-banda-dAri/book/kn/ch6`
+   - Ch 7 — ಕ್ರಿಯಾಪದಗಳ ಒಳರಚನೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/17-kannaDa-nuDi-naDeDu-banda-dAri/book/kn/ch7`
+   - Ch 8 — ಕ್ರಿಯಾರೂಪಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/17-kannaDa-nuDi-naDeDu-banda-dAri/book/kn/ch8`
+   - Ch 9 — ನಾಮಪದಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/17-kannaDa-nuDi-naDeDu-banda-dAri/book/kn/ch9`
+   - Ch 10 — ಆಡುಗ ಮತ್ತು ತೋರುಗ ಪದಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/17-kannaDa-nuDi-naDeDu-banda-dAri/book/kn/ch10`
+   - Ch 11 — ಗುಣಪದಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/17-kannaDa-nuDi-naDeDu-banda-dAri/book/kn/ch11`
+   - Ch 12 — ವಾಕ್ಯಗಳ ಒಳರಚನೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/17-kannaDa-nuDi-naDeDu-banda-dAri/book/kn/ch12`
+   
+   When a question targets a specific chapter, fetch only that URL. Use `ch0` to browse the full chapter list first.

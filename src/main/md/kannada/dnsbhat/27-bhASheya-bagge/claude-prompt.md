@@ -171,3 +171,13 @@ The book's central purpose is to correct widespread popular misconceptions about
 
 
 10. **Repository source (Phase 19):** The kn.md already had 221 anchors (5 part-N, 32 sec-N-M, 184 sub-N-M-K). Phase 19 added `[Eke →]` cross-links after every sec/sub anchor in kn.md and `[ಕನ್ನಡ →]` links in kn-eke.md. Header has `[← ಸೂಚಿ](./README)` index back-link. Part anchors use `part-N` format; section and subsection use `sec-N-M` / `sub-N-M-K`.
+
+11. **Chapter pages (Phase 33):** The Kannada source is split into individual chapter pages on GitHub Pages. Fetch specific chapters rather than loading the full book — chapters are lightweight and avoid token exhaustion when answering focused questions:
+   - **Chapter index (ch0):** `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/27-bhASheya-bagge/book/kn/ch0`
+   - Ch 1 — ಭಾಗ ಒಂದು — ಭಾಷೆಯ ಸ್ವರೂಪ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/27-bhASheya-bagge/book/kn/ch1`
+   - Ch 2 — ಭಾಗ ಎರಡು — ಕಲಿಕೆ ಮತ್ತು ವ್ಯಾಕರಣ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/27-bhASheya-bagge/book/kn/ch2`
+   - Ch 3 — ಭಾಗ ಮೂರು — ಮಾತು ಮತ್ತು ಬರಹ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/27-bhASheya-bagge/book/kn/ch3`
+   - Ch 4 — ಭಾಗ ನಾಲ್ಕು — ಕನ್ನಡ ಭಾಷೆಯ ಸ್ವರೂಪ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/27-bhASheya-bagge/book/kn/ch4`
+   - Ch 5 — ಭಾಗ ಐದು — ಜಗತ್ತಿನ ಭಾಷೆಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/27-bhASheya-bagge/book/kn/ch5`
+   
+   When a question targets a specific chapter, fetch only that URL. Use `ch0` to browse the full chapter list first.

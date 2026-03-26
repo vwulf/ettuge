@@ -155,3 +155,13 @@ When answering questions about this book:
 
 
 10. **Repository source (Phase 19):** The kn.md now has a 3-level deep TOC with `<a id="sec-N-M">` and `<a id="sub-N-M-K">` anchors. Cross-links `[Eke →]` appear after each sec/sub anchor in kn.md; kn-eke.md has `[ಕನ್ನಡ →]` links. Header has `[← ಸೂಚಿ](./README)` index back-link and retains the `> ಮೂಲ ಪುಸ್ತಕ` link to the raw book file.
+
+11. **Chapter pages (Phase 33):** The Kannada source is split into individual chapter pages on GitHub Pages. Fetch specific chapters rather than loading the full book — chapters are lightweight and avoid token exhaustion when answering focused questions:
+   - **Chapter index (ch0):** `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/08-kannaDakke-mahAprANa-yAke-bEDa/book/kn/ch0`
+   - Ch 1 — ಮುನ್ನೋಟ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/08-kannaDakke-mahAprANa-yAke-bEDa/book/kn/ch1`
+   - Ch 2 — ಓದುವ ಹಾಗೆ ಬರೆಯುವುದು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/08-kannaDakke-mahAprANa-yAke-bEDa/book/kn/ch2`
+   - Ch 3 — ಬರವಣಿಗೆಯನ್ನು ಸರಿಪಡಿಸಿಕೊಂಡಿರುವ ನುಡಿಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/08-kannaDakke-mahAprANa-yAke-bEDa/book/kn/ch3`
+   - Ch 4 — ಸರಿಪಡಿಕೆಯ ಎದುರಿಕೆಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/08-kannaDakke-mahAprANa-yAke-bEDa/book/kn/ch4`
+   - Ch 5 — ಮುಕ್ತಾಯ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/08-kannaDakke-mahAprANa-yAke-bEDa/book/kn/ch5`
+   
+   When a question targets a specific chapter, fetch only that URL. Use `ch0` to browse the full chapter list first.

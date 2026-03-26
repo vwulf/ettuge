@@ -164,3 +164,20 @@ The book is organised as a guided chapter-by-chapter tour through the major gram
 - [Book 03 — ಕನ್ನಡ ಪದಗಳ ಒಳರಚನೆ (Internal Structure of Kannada Words)](../03-kannaDa-padagaLa-oLaracane/03-kannaDa-padagaLa-oLaracane-claude-prompt)
 - [Book 25 — ಕನ್ನಡ ವಾಕ್ಯಗಳ ಒಳರಚನೆ (Internal Structure of Kannada Sentences)](../25-kannaDa-vAkyagaLa-oLaracane/25-kannaDa-vAkyagaLa-oLaracane-claude-prompt)
 - [Book 29 — ಕನ್ನಡ ವ್ಯಾಕರಣ ಯಾಕೆ ಬೇಕು? (Why Do We Need Kannada Grammar?)](../29-kannaDa-vyAkaraNa-yAke-bEku/29-kannaDa-vyAkaraNa-yAke-bEku-claude-prompt)
+
+11. **Chapter pages (Phase 33):** The Kannada source is split into individual chapter pages on GitHub Pages. Fetch specific chapters rather than loading the full book — chapters are lightweight and avoid token exhaustion when answering focused questions:
+   - **Chapter index (ch0):** `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/28-kannaDakke-bEku/book/kn/ch0`
+   - Ch 1 — ಮುನ್ನೋಟ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/28-kannaDakke-bEku/book/kn/ch1`
+   - Ch 2 — ಸೇರಿಕೆಯ ನಿಯಮಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/28-kannaDakke-bEku/book/kn/ch2`
+   - Ch 3 — ಪದವಗ್ರಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/28-kannaDakke-bEku/book/kn/ch3`
+   - Ch 4 — ಪದಗಳ ಒಳರಚನೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/28-kannaDakke-bEku/book/kn/ch4`
+   - Ch 5 — ಸಮಾಸಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/28-kannaDakke-bEku/book/kn/ch5`
+   - Ch 6 — ಲಿಂಗ ಮತ್ತು ವಚನಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/28-kannaDakke-bEku/book/kn/ch6`
+   - Ch 7 — ವಿಭಕ್ತಿಗಳು ಮತ್ತು ಕಾರಕಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/28-kannaDakke-bEku/book/kn/ch7`
+   - Ch 8 — ವಿಭಕ್ತಿಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/28-kannaDakke-bEku/book/kn/ch8`
+   - Ch 9 — ವಿಭಕ್ತಿಪಲ್ಲಟ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/28-kannaDakke-bEku/book/kn/ch9`
+   - Ch 10 — ಸವ್ರನಾಮಗಳು ಮತ್ತು ಎಣಿಕೆಯ ಪದಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/28-kannaDakke-bEku/book/kn/ch10`
+   - Ch 11 — ಕ್ರಿಯಾರೂಪಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/28-kannaDakke-bEku/book/kn/ch11`
+   - Ch 12 — ಮುಕ್ತಾಯ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/28-kannaDakke-bEku/book/kn/ch12`
+   
+   When a question targets a specific chapter, fetch only that URL. Use `ch0` to browse the full chapter list first.

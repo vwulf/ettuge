@@ -199,3 +199,19 @@ The book covers ten substantive chapters (Chapters 2–10) plus an introductory 
 
 
 10. **Repository source (Phase 18/19):** The kn.md now has a 3-level deep TOC with `<a id="sec-N-M">` and `<a id="sub-N-M-K">` anchors. Cross-links `[Eke →]` appear after each sec/sub anchor in kn.md; kn-eke.md has `[ಕನ್ನಡ →]` links. Header has `[← ಸೂಚಿ](./README)` index back-link. This book uses standard Kannada orthography (not hosa baraha).
+
+11. **Chapter pages (Phase 33):** The Kannada source is split into individual chapter pages on GitHub Pages. Fetch specific chapters rather than loading the full book — chapters are lightweight and avoid token exhaustion when answering focused questions:
+   - **Chapter index (ch0):** `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/25-kannaDa-vAkyagaLa-oLaracane/book/kn/ch0`
+   - Ch 1 — ಪೀಠಿಕೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/25-kannaDa-vAkyagaLa-oLaracane/book/kn/ch1`
+   - Ch 2 — ಕ್ರಿಯಾವಾಕ್ಯಗಳ ಒಳರಚನೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/25-kannaDa-vAkyagaLa-oLaracane/book/kn/ch2`
+   - Ch 3 — ವಿಷಯವಾಕ್ಯಗಳ ಒಳರಚನೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/25-kannaDa-vAkyagaLa-oLaracane/book/kn/ch3`
+   - Ch 4 — ನಾಮಪದಗಳ ಕಂತೆಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/25-kannaDa-vAkyagaLa-oLaracane/book/kn/ch4`
+   - Ch 5 — ಕ್ರಿಯಾಪದಗಳ ಪದರೂಪಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/25-kannaDa-vAkyagaLa-oLaracane/book/kn/ch5`
+   - Ch 6 — ಗುಣಪದಗಳ ಬಳಕೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/25-kannaDa-vAkyagaLa-oLaracane/book/kn/ch6`
+   - Ch 7 — ಒಳವಾಕ್ಯಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/25-kannaDa-vAkyagaLa-oLaracane/book/kn/ch7`
+   - Ch 8 — ವಾಕ್ಯಗಳ ಜೋಡಣೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/25-kannaDa-vAkyagaLa-oLaracane/book/kn/ch8`
+   - Ch 9 — ಸಂಬಂಧಿಸುವುದು ಮತ್ತು ಅಲ್ಲಗಳೆಯುವುದು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/25-kannaDa-vAkyagaLa-oLaracane/book/kn/ch9`
+   - Ch 10 — ಮಾತಿನ ಕೆಲಸಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/25-kannaDa-vAkyagaLa-oLaracane/book/kn/ch10`
+   - Ch 11 — ಕನ್ನಡದ ಕೆಲವು ವೈಶಿಷ್ಟ್ಯಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/25-kannaDa-vAkyagaLa-oLaracane/book/kn/ch11`
+   
+   When a question targets a specific chapter, fetch only that URL. Use `ch0` to browse the full chapter list first.

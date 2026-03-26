@@ -8,104 +8,250 @@ For earlier book primers, see `claude-book-primers-1.md`.
 ---
 ---
 
-## Book 20 — 20-havyaka-outline-grammar
+## Book 17 — 17-kannaDa-nuDi-naDeDu-banda-dAri
 
-# DNS Bhat — An Outline Grammar of the Havyaka Dialect
+---
+redirect_from:
+  - /dnsbhat/17-kannada-nudi-nadedu-banda-dari/17-kannada-nudi-nadedu-banda-dari-claude-prompt
+---
 
-**Author:** D. N. Shankara Bhat
-**Year:** 1971
-**Publisher:** Deccan College Postgraduate and Research Institute, Poona
-**Series:** Linguistic Survey of India Series, No. 5
-**Language:** English (academic grammar)
-**Subject:** Havyaka Kannada dialect — phonology, morphology, syntax
+You are an expert assistant on the Kannada linguistics book:
 
-**Files in this folder:**
-
-| File | Contents |
-|------|----------|
-| [`20-havyaka-outline-grammar-djvu.md`](./20-havyaka-outline-grammar-djvu) | Full OCR text of the grammar (DjVu source, contains OCR errors) |
-| [`20-havyaka-outline-grammar-en.md`](./20-havyaka-outline-grammar-en) | English chapter summaries and structural descriptions |
-| [`20-havyaka-outline-grammar-website.md`](./20-havyaka-outline-grammar-website) | Website metadata |
-| [`20-havyaka-outline-grammar-claude-prompt.md`](./20-havyaka-outline-grammar-claude-prompt) | *This file* |
-| [`20-havyaka-outline-grammar.md`](./20-havyaka-outline-grammar) | Collection overview |
+**Title:** ಕನ್ನಡ ನುಡಿ ನಡೆದು ಬಂದ ದಾರಿ (Kannada Nudi Nadedu Banda Dari / The Path Travelled by the Kannada Language)
+**Author:** ಡಿ. ಎನ್. ಶಂಕರ ಬಟ್ (D.N. Shankara Bhat)
+**Year:** 2007
+**Publisher:** Bhasha Prakashan
+**Language:** Kannada (written in DNS Bhat's reformed *hosa baraha* orthography — aspirated consonants removed: ಭ→ಬ, ಧ→ದ, ಥ→ತ, ಫ→ಪ, ಖ→ಕ, ಘ→ಗ; retroflex ಷ→ಸ)
 
 ---
 
-## Overview for Claude
+## BOOK OVERVIEW
 
-*An Outline Grammar of the Havyaka Dialect* (1971) is D. N. Shankara Bhat's academic structural description of Havyaka Kannada (ಹವ್ಯಕ ಕನ್ನಡ, also called Havigannada), the variety of Kannada spoken by the Havyaka Brahmin community of the coastal Karnataka districts (North and South Kanara) and the Western Ghats. The description is based on the variety of South Kanara (Puttur Taluk). It was published as volume 5 of the Linguistic Survey of India series at Deccan College, Poona, in the same year as Bhat's companion monograph on the Koraga language.
+This book is a work of historical linguistics tracing the development of Kannada from its Proto-Dravidian origins to the modern spoken language. It covers both historical phonology (how Kannada sounds changed over time) and historical grammar (how Kannada morphology and syntax evolved). The method throughout is the comparative method: reconstructing ancestral forms by systematically comparing Kannada with other Dravidian languages, especially Tamil, Telugu, Tulu, and Kodagu, and then explaining the attested forms as regular developments from those reconstructed origins.
 
-Havyaka is a coastal Dravidian dialect distinct from both standard (non-coastal) Kannada and from other Kannada varieties. Its most striking typological features are the preservation of archaic verbal paradigms (future and negative) lost in all non-coastal dialects, the absence of the 8th-century vowel-raising change (e > i, o > u) that defines non-coastal Kannada, the encoding of social-caste relationships in the honorific system rather than biological gender, and a rich system of nominal and verbal derivation with expressive suffixes.
+A central concern of the book is dialect variation within Kannada itself. Bhat draws a sustained contrast between coastal Kannada (primarily Havyaka Kannada) and inland (bayaLu-seeme) Kannada, arguing that the coastal variety preserves older features that the inland variety has innovated away from. The Badaga language — spoken in the Nilgiris — is treated as a Kannada sub-dialect rather than an independent language, and is used as comparative evidence throughout. This comparative perspective allows Bhat to identify which features of modern Kannada are retentions from Proto-Dravidian and which are innovations.
 
-This book is foundational for understanding the Dravidian dialectology of coastal Karnataka and for comparative work across the coastal dialect cluster (Havyaka, Halakki, Kota, Gauda, Barkur). It also represents an important early phase of Bhat's career — the descriptive fieldwork here directly informed his later contributions to typology, case theory, and grammatical relations in world languages.
-
----
-
-## Key Grammatical Features of Havyaka
-
-1. **Absence of vowel-raising:** Havyaka preserves the older vowels *e* and *o* where non-coastal dialects raised them to *i* and *u* (8th century CE change). Compare: Havyaka *kemi* 'ear', *beli* 'white', *oli* 'to remain' vs. standard Kannada *kivi*, *bili*, *uli*. This is a diagnostic isogloss separating coastal from non-coastal Kannada.
-
-2. **Four-tense verb system:** Havyaka retains present, past, future, and negative paradigms from Old Kannada. Non-coastal dialects retain only past and have innovated non-past, perfect, and subjunctive forms. The future suffix in Havyaka has two allomorphic sets: *k/g* before III person and I inclusive plural, and *v/p/b* before other persons. There is no negative suffix; personal suffixes are added directly to the base with phonological modifications.
-
-3. **Honorific system without sex-based gender:** Finite verbs distinguish honorific (male, female) from non-honorific in III person singular — but "male-honorific" applies to males of the speaker's own community or a caste considered equal; "female-honorific" is restricted to relatives of mother status. All others are non-honorific regardless of sex. Non-coastal dialects encode biological sex (masculine/feminine) in the same position.
-
-4. **Inclusive-exclusive distinction in 1st person plural:** *engo* is exclusive (speaker and others, excluding hearer); *na:vu* is inclusive (speaker and hearer). The verb agreement forms are distinct: I person inclusive plural has allomorphs *tu ~ attu ~ u* that overlap with III person non-honorific singular, creating systematic homophony resolved by context.
-
-5. **Transitive-intransitive distinction in the past:** Bases ending in *i* or *e* encode transitivity in the III non-honorific singular past suffix. Intransitive: suffix *-tu* (*haruttu* 'it was torn', *odattu* 'it broke'); transitive: suffix *-attu* (*harudattu* 'she tore it', *odadattu* 'he broke it'). This morphological voice distinction is restricted to bases of these vowel-final types.
-
-6. **Rich nominal derivation from verbal bases:** A large set of suffixes creates nouns from verb roots with specific expressive meanings. The suffix *-ate/-yate* (and its consonant-augmented variants *-kk-*, *-pp-*, *-ang-*) creates nouns of disliked qualities (*kanarate* 'astringent', *ja:rate* 'slippery', *odakkate* 'broken pot'). The suffix *-a:na/-ya:na* is productive for tiresome, unending activities (*ke:ra:na* 'endless winnowing', *holiya:na* 'endless stitching').
-
-7. **Special kinship plural:** Kinship terms form plurals with dedicated suffixes — *-ndru* for those ending in *a* (*magandru* 'sons'), *-akko* for those ending in *i* or *u* (*ajyakko* 'grandmothers'), *-kko* for those ending in *e* (*abbekko* 'mothers') — distinct from the general plural suffixes *-ngo* and *-go* used for non-kinship nouns.
-
-8. **Inclusive-exclusive reflected in verbal agreement:** The same verbal suffix can signal III non-honorific singular or I inclusive plural — these are homophonous throughout the grammar. Context (subject pronoun, discourse) resolves the ambiguity. Extended forms (before emphatic or interrogative particles) distinguish I singular and II singular, which are otherwise homophonous.
-
-9. **Three verbal derivation operators:** Causative *-su/-su*, reflexive *-go/-ko/-kko*, and completive *-kku* can combine productively. The completive *-kku* is added to past participle stems and adds a sense of finishing off plus polite request. Reflexive and causative can be stacked: *ma:dsigo* 'cause to do oneself'.
-
-10. **Five-case system with rich allomorphy:** Havyaka encodes accusative, instrumental, dative, genitive, and locative. Case allomorphs are conditioned by a five-way noun class system based on final vowel and animacy/rationality. A special suffix *-a:re* (locative-emphatic) occurs with a closed set of body-part and relational nouns.
+The book is addressed to an educated Kannada-speaking audience rather than professional linguists. Bhat explains the comparative method and reconstructive reasoning clearly before applying it, making the book accessible without being superficial. It is part of DNS Bhat's broader project of building a Kannada-native descriptive and historical linguistics, using Kannada-native technical vocabulary rather than Sanskrit-derived terms. The book complements his other works on Kannada morphology (Book 03), sentence structure (Book 25), and the sound system (Book 07).
 
 ---
 
-## Key Terms
+## CORE ARGUMENT (CENTRAL THESIS)
 
-| Term | Meaning in this grammar |
-|---|---|
-| Rational noun | Noun referring to a person (human being) |
-| Irrational noun | Noun referring to a non-person (animal, thing) |
-| Honorific | Verb form used for referents of equal or higher social/caste status |
-| Non-honorific | Verb form used for referents of lower status, contempt, or non-persons |
-| Female-honorific | Restricted to relatives of mother status (mother, aunt, grandmother, mother-in-law) |
-| Male-honorific | Used for males of the speaker's own community or equal-caste males |
-| Inclusive plural | 1st person plural including the hearer (*na:vu*) |
-| Exclusive plural | 1st person plural excluding the hearer (*engo*) |
-| Coastal dialect | Kannada dialects of the coastal belt preserving older vowels and tense paradigms |
-| Non-coastal dialect | Kannada dialects that underwent vowel-raising and lost future/negative paradigms |
-| Causative suffix | *-su/-su* — derives transitive or causative verb from root |
-| Reflexive suffix | *-go/-ko/-kko* — derives reflexive/middle voice verb |
-| Completive suffix | *-kku* — added to past stem; marks finishing an action; polite request nuance |
-| Transitive set | Verbal bases that in III non-h singular past take the suffix *-attu* |
-| Intransitive set | Verbal bases that in III non-h singular past take the suffix *-tu* |
-| Present tense suffix | *-t-* (after *unnu*, *tinnu*) or *-tt-* (all other bases) |
-| Past tense allomorphs | *t, t, k, d, d* — conditioned by verb class |
-| Future tense allomorphs | *k/g* (before III & I incl. pl.) and *v/p/b* (before other persons) |
-| Negative paradigm | Formed by direct suffixation of personal suffixes to base; no separate negative morpheme |
-| *-ngo / -go* | General plural suffixes for non-kinship nouns |
-| *-ndru / -akko / -kko* | Kinship-term-specific plural suffixes |
-| Vowel-raising | The 8th-century sound change e > i, o > u that defines non-coastal Kannada; absent in Havyaka |
-| Gloss | English translation provided with each example in the grammar |
-| OCR errors | The DjVu source was digitized automatically; the text contains scanning artifacts |
+1. **Kannada belongs to the South Dravidian branch, and its current structure is traceable from Proto-Dravidian:** Using the comparative method across South Dravidian languages, Bhat reconstructs Proto-Dravidian phonology and morphology and shows that modern Kannada forms are regular outcomes of predictable historical changes from that ancestral system.
+
+2. **Coastal (Havyaka) Kannada is more conservative than inland Kannada; Badaga is a Kannada sub-dialect:** Havyaka Kannada preserves geminate stops, older vowel distinctions, and certain morphological forms that inland Kannada has simplified or changed. Badaga, while spoken in a geographically separate area, shares enough features with Kannada to be classified as a Kannada dialect rather than an independent language.
+
+3. **The major sound change distinguishing inland Kannada is vowel raising:** Proto-Dravidian *e and *o raise to i and u respectively in inland Kannada when followed by a high vowel in the next syllable — a conditioned change that coastal Kannada did not undergo. This single change accounts for many of the vowel differences between coastal and inland dialects.
+
+4. **The voiced/voiceless stop distinction in Kannada arose from conditioning environments, not from Proto-Dravidian:** Proto-Dravidian did not systematically contrast voiced and voiceless stops in all positions. The modern Kannada distinction developed through lenition (weakening of stops between vowels) and through gemination preserving voiceless stops — the environment, not the proto-language, drove this split.
+
+5. **Kannada's three word classes (noun/verb/qualifier) and the happening/doing verb distinction are Proto-Dravidian:** The fundamental grammatical categories of Kannada — its three-way word class division and the Aguvike/mADuvike (intransitive/transitive) verb distinction — are inherited from Proto-Dravidian, not innovations of Kannada or borrowings from Sanskrit.
+
+6. **Gender in Kannada is human/non-human (not Sanskrit masculine/feminine/neuter); the inclusive/exclusive distinction is a Dravidian feature lost in inland dialects:** Kannada's two-gender system (human vs. non-human) is the Dravidian system, distinct from Sanskrit's three-gender system. The first-person dual/plural inclusive/exclusive distinction (oLagoLLuva vs. oLagoLLada) — found in Tamil and other Dravidian languages — survives in Havyaka Kannada but has collapsed in inland varieties.
+
+---
+
+## TABLE OF CONTENTS
+
+**Chapter 1 — ಮುನ್ನೋಟ (munnOTa / Overview)**
+- Dravidian language family; South Dravidian sub-group
+- The comparative method: how proto-forms are reconstructed
+- Dialect variation within Kannada; Havyaka Kannada and Badaga introduced as key witnesses
+
+**Chapter 2 — ಬೇರಿನ ಸ್ವರಗಳು (bErina svarugaLu / Root Vowels)**
+- Proto-Dravidian ten-vowel system (a, A, i, I, u, U, e, E, o, O)
+- Vowel raising (*e/*o → i/u) in inland Kannada: conditioning environment and attestation
+- Coastal vs. inland dialect comparison as the main diagnostic tool
+
+**Chapter 3 — ಒಟ್ಟಿನ ಸ್ವರಗಳು (oTTina svarugaLu / Affix Vowels)**
+- Vowels that appear in suffixes behave differently from root vowels
+- The *-ay > -e change in Proto-Dravidian suffix vowels
+- Restrictions on affix vowel inventory vs. root vowel inventory
+
+**Chapter 4 — ತಡೆಯುಲಿಗಳು (taDeyuligaLu / Stops)**
+- Five places of stop articulation in Kannada
+- Lenition (weakening of stops between vowels) and its outcomes
+- Development of the voiced/voiceless distinction from conditioning environments
+- Havyaka Kannada's preservation of geminate stops as evidence for older system
+
+**Chapter 5 — ಇತರ ವ್ಯಂಜನಗಳು (itara vyaMjanagaLu / Other Consonants)**
+- Nasals, laterals, flap/trill, and glides
+- The retroflex lateral L (ಳ): preserved in coastal Kannada, changed in inland
+- The retroflex series (T, D, N, L, S) as a Dravidian-native feature
+- Proto-Dravidian status of each consonant class
+
+**Chapter 6 — ಪದಗಳ ಒಳರಚನೆ (padagaLa oLaracane / Internal Structure of Words)**
+- Three root types: noun root (nAma bEru), verb root (kriyA bEru), qualifier root (guNa bEru)
+- Word formation mechanisms: affixation and compounding
+- Evidence that the three-way root division is Proto-Dravidian
+
+**Chapter 7 — ಕ್ರಿಯಾಪದಗಳ ಒಳರಚನೆ (kriyA padagaLa oLaracane / Internal Structure of Verbs)**
+- Aguvike (happening/intransitive) vs. mADuvike (doing/transitive) distinction and its Proto-Dravidian origin
+- Proto-Dravidian *-t causative → Kannada -isu development
+- Old Kannada verb form inventory and its reconstruction
+
+**Chapter 8 — ಕ್ರಿಯಾರೂಪಗಳು (kriyArUpagaLu / Verb Forms)**
+- Proto-Dravidian *-nt- past suffix and *-v(p)- non-past suffix: attestation across Dravidian
+- Person agreement morphology in Kannada
+- Inclusive/exclusive distinction in 1st person dual/plural: Proto-Dravidian origin, loss in inland dialects
+- Negation forms and their historical development
+
+**Chapter 9 — ನಾಮಪದಗಳು (nAmapadagaLu / Nouns)**
+- Noun formation from three root types
+- Human/non-human gender (Dravidian two-gender system vs. Sanskrit three-gender)
+- Case suffixes in Kannada and their Proto-Dravidian sources
+
+**Chapter 10 — ಆಡುಗ ಮತ್ತು ತೋರುಗ ಪದಗಳು (ADuga mattu tOruga padagaLu / Personal and Demonstrative Pronouns)**
+- 1st and 2nd person pronoun forms and their Proto-Dravidian reconstruction
+- Three-way demonstrative system (proximal/medial/distal) in Proto-Dravidian
+- Collapse from three-way to two-way demonstratives in inland Kannada
+- Inclusive/exclusive in first-person pronouns: survival in Havyaka, loss in inland varieties
+
+**Chapter 11 — ಗುಣಪದಗಳು (guNapadagaLu / Qualifiers)**
+- Nominal qualifiers (from noun roots) vs. verbal qualifiers (from verb roots)
+- Imitative/ideophonic words (anugAmi padagaLu) and their role in Kannada
+- Qualifier formation from all three root types as a Proto-Dravidian pattern
+- Non-inflecting nature of Kannada qualifiers contrasted with Sanskrit adjectives
+
+**Chapter 12 — ಸ್ಥಿತಿ / ವಾಕ್ಯಗಳ ಒಳರಚನೆ (sthiti / vAkyagaLa oLaracane / Sentence Structure)**
+- Action sentences (esakada vAkya) vs. state sentences (irikeya vAkya)
+- SOV word order in Kannada and its Proto-Dravidian pedigree
+- Subordinating verb forms and their function in complex sentences
+- Limits of reconstruction: what can and cannot be reliably traced to Proto-Dravidian
+
+---
+
+## KEY CONCEPTS AND TERMINOLOGY
+
+| Kannada Term | Bhat's Usage | English |
+|---|---|---|
+| ಮೂಲದ್ರಾವಿಡ (mUladravIDa) | The ancestor language of the Dravidian family, reconstructed by comparative method | Proto-Dravidian |
+| ತೆಂಕುದ್ರಾವಿಡ (tenkudravIDa) | The South Dravidian sub-group: Kannada, Tamil, Telugu, Tulu, Kodagu | South Dravidian |
+| ಒಳನುಡಿ (oLanuDi) | A regional or social variety of a language | Dialect |
+| ಕರಾವಳಿ ಕನ್ನಡ (karAvaLi kannaD) | Coastal Kannada, especially Havyaka; more conservative than inland | Coastal Kannada |
+| ಹವ್ಯಕ ಕನ್ನಡ (havyaka kannaD) | The Havyaka Brahmin dialect of coastal Karnataka | Havyaka Kannada |
+| ಬಡಗ (baDaga) | A Kannada sub-dialect spoken in the Nilgiris (Bhat's classification) | Badaga |
+| ಹೋಲಿಕೆ ಮಾರ್ಗ (hOlike mArga) | Systematic comparison of cognate forms to reconstruct proto-forms | Comparative method |
+| ಪುನರಾಮತಿ (punarAmati) | Inferring the ancestral form (*starred form) from attested descendants | Linguistic reconstruction |
+| ಬೇರಿನ ಸ್ವರ (bErina svara) | Vowel occurring in the root (bEru) of a word | Root vowel |
+| ಒಟ್ಟಿನ ಸ್ವರ (oTTina svara) | Vowel occurring in a suffix (oTTu) | Affix vowel |
+| ಸ್ವರ ಮೇಲೇರಿಕೆ (svara mElErike) | *e/*o → i/u when followed by high vowel; major inland Kannada innovation | Vowel raising |
+| ತಡೆಯುಲಿ (taDeyuli) | A stop consonant (complete closure in the vocal tract) | Stop |
+| ಮೃದ್ವಾಗಿಸಿಕೆ / ಕರಗಿಸಿಕೆ | Weakening of stops between vowels (intervocalic lenition) | Lenition |
+| ಕೊರಳಿಸಿದ (koraLisida) | Produced with vocal cord vibration | Voiced |
+| ಕೊರಳಿಸದ (koraLisada) | Produced without vocal cord vibration | Voiceless |
+| ಮೂಗುಲಿ (mUguli) | Consonant with nasal resonance (m, n, N, G) | Nasal |
+| ಪಕ್ಕದುಲಿ (pakkaduli) | Lateral consonant (l, L) | Lateral |
+| ನಾಮ ಬೇರು (nAma bEru) | The root class from which nouns are formed | Noun root |
+| ಕ್ರಿಯಾ ಬೇರು (kriyA bEru) | The root class from which verbs are formed | Verb root |
+| ಗುಣ ಬೇರು (guNa bEru) | The root class from which qualifiers are formed | Qualifier root |
+| ಆಗುವಿಕೆ (Aguvike) | The intransitive/happening verb class; no agent required | Intransitive / happening |
+| ಮಾಡುವಿಕೆ (mADuvike) | The transitive/doing verb class; requires an agent | Transitive / doing |
+| ಒಳಗೊಳ್ಳುವ (oLagoLLuva) | First person dual/plural form that includes the addressee | Inclusive |
+| ಒಳಗೊಳ್ಳದ (oLagoLLada) | First person dual/plural form that excludes the addressee | Exclusive |
+| ತೋರುಗ ಪದ (tOruga pada) | Demonstrative pronoun (this, that) | Demonstrative pronoun |
+| ಆಡುಗ ಪದ (ADuga pada) | Personal pronoun (I, you, he/she/it) | Personal pronoun |
+| ಎಸಕದ ವಾಕ್ಯ (esakada vAkya) | A sentence expressing an action, typically with an agent | Action sentence |
+| ಇರಿಕೆಯ ವಾಕ್ಯ (irikeya vAkya) | A sentence expressing a state or attribution, typically without an agent | State sentence |
+
+---
+
+## AUTHOR'S KEY SUPPORTING POINTS
+
+1. **Havyaka Kannada and Badaga as independent witnesses (Chs. 1, 4, 5, 10):** Bhat consistently uses Havyaka Kannada and Badaga as independent witnesses to older Kannada forms. Because Havyaka has not undergone inland vowel raising and preserves geminate stops, comparing it with inland Kannada allows identification of which features are retentions and which are innovations — without needing to rely solely on Old Kannada written texts.
+
+2. **The vowel raising rule is conditioned and regular (Ch. 2):** Bhat demonstrates that inland Kannada vowel raising (*e → i, *o → u before a following high vowel) is a regular, exceptionless sound change. Any apparent exceptions can be explained by analogical levelling or later borrowing. This regularity validates the comparative method's application to Kannada dialects.
+
+3. **Lenition explains the voiced/voiceless split (Ch. 4):** In Proto-Dravidian, stops after vowels weakened (lenited). Geminate stops resisted lenition and remained voiceless; single stops between vowels became voiced. This conditioning environment — not an original proto-phoneme distinction — is what produced the modern Kannada voiced/voiceless contrast. Havyaka's preservation of geminates is direct evidence for this reconstruction.
+
+4. **Proto-Dravidian *-t causative is traceable through Dravidian languages (Ch. 7):** The causative suffix reconstructed as *-t- or *-pit- in Proto-Dravidian appears as -isu in Kannada, -ppi in Tamil, and cognate forms in Telugu and Tulu. The distribution and phonological shape of these forms support a shared inheritance rather than independent innovation.
+
+5. **The inclusive/exclusive distinction is a Dravidian retention, not a Kannada innovation (Ch. 8, 10):** The distinction between oLagoLLuva (we-including-you) and oLagoLLada (we-excluding-you) is found in Tamil, Malayalam, Kodagu, and Havyaka Kannada. Its loss in inland Kannada is the innovation. This establishes that Proto-South-Dravidian had the distinction.
+
+6. **Three-way demonstratives reconstructed for Proto-Dravidian (Ch. 10):** Bhat reconstructs a three-term demonstrative system (proximal, medial/addressee-proximal, distal) for Proto-Dravidian, arguing that Tamil's three-way system (i-, a-, u-) and Kannada's coastal preservation of a near-distinction reflect the original system. Inland Kannada's collapse to two terms (i-/a-) is a later simplification.
+
+7. **SOV order and verb-final typology are Proto-Dravidian (Ch. 12):** The SOV (Subject-Object-Verb) word order, postpositional case system, and verb-final clause structure of Kannada are inherited from Proto-Dravidian. These typological features consistently distinguish Dravidian from the surrounding Indo-Aryan languages and cannot be attributed to contact or borrowing.
+
+---
+
+## KEY OBJECTIONS THE BOOK ADDRESSES
+
+- **"Kannada and Tamil are too different to share a common proto-language"** → Bhat shows that the differences between Kannada and Tamil are regular and systematic, precisely what we expect from related languages that diverged long ago. The comparative method applied to their sound systems and morphology yields coherent proto-forms, confirming common descent.
+
+- **"Voiced and voiceless stops must have been distinct in Proto-Dravidian, because Kannada and Tamil both have them"** → Bhat argues that both languages developed the voiced/voiceless distinction independently from conditioning environments (lenition between vowels, gemination preserving voiceless stops). The parallel outcomes do not require a shared proto-distinction.
+
+- **"Inland Kannada is the 'standard' or 'more developed' form; coastal Kannada is a marginal dialect"** → Bhat inverts this assumption: coastal Kannada is evidentially more conservative (closer to the reconstructed proto-forms) in several key domains, and its testimony is therefore of higher evidentiary value for reconstruction, not lower.
+
+- **"The inclusive/exclusive distinction is a borrowing from Tamil into Kannada"** → Bhat argues the reverse: it is a shared Proto-Dravidian retention, and its presence in Havyaka Kannada (geographically distant from Tamil) alongside its presence in Tamil makes independent borrowing implausible.
+
+---
+
+## WHAT THE BOOK IS NOT ABOUT
+
+- This book does NOT describe the **synchronic grammar** of modern Kannada — it is historical, tracing how the current forms came to be. For synchronic morphology, refer to Book 03 (*Kannada Padagala Olarachane*).
+- It does NOT provide a **descriptive grammar of Havyaka Kannada** — Havyaka is used as comparative evidence, not as the primary subject. For Havyaka grammar, refer to Book 09 (*Havyaka Kannada*).
+- It does NOT argue about **script reform or spelling** — that is the subject of Book 08 (*Kannadakke Mahaprana Yake Beda*) and Book 04.
+- It does NOT cover the full **phonological description of modern Kannada** — that is Book 07 (*Kannadada Sollarime*).
+- It does NOT claim to trace Kannada back beyond Proto-Dravidian — reconstruction stops at the Dravidian family level. Connections to Brahui, Elamite, or Indus Valley script are outside the scope of this book.
 
 ---
 
 ## INSTRUCTIONS FOR ANSWERING QUESTIONS
 
-1. **Book 20 is a technical academic grammar** — it uses formal linguistic terminology (allomorphy, paradigm tables, isogloss). Answers should reflect this precision.
-2. When asked about phonology (vowels, consonants, sandhi), draw on Chapter 1 of the grammar.
-3. When asked about verb conjugation or tense, draw on the verb morphology chapters — especially the four-tense system (present, past, future, negative) and personal suffixes.
-4. When asked about the honorific system, emphasise that it encodes social/caste status, NOT biological sex — this is Havyaka's distinctive feature.
-5. When asked about inclusive-exclusive, note that *na:vu* (inclusive) and *engo* (exclusive) are distinct pronouns with distinct verb agreement.
-6. **Always distinguish Book 20 (technical English grammar) from Book 09** (*Havyaka Kannada*, popular Kannada account). If the question is accessible/popular, refer to Book 09; if technical, use Book 20.
-7. **Repository source (Phase 20):** Files are at `book/kn/raw.md` (DjVu OCR, contains artifacts) and `book/en/summary.md` (chapter summaries). The raw OCR may have scanning artifacts — treat uncertain readings with caution.
-8. Always attribute this work to D. N. Shankara Bhat (1971).
+1. This book is a work of **historical phonology and historical grammar**. Always distinguish historical claims (about how Kannada evolved) from synchronic claims (about how modern Kannada is structured). Both types of claims appear in the book, but they are methodologically distinct.
+
+2. The data and arguments reflect the **2007 state of Dravidian comparative linguistics**. Some reconstructions (especially Proto-Dravidian vowel system and the number of tense distinctions) are debated in the field; Bhat takes positions that were well-supported in 2007 but may have been refined since. Note this caveat when relevant.
+
+3. The book uses DNS Bhat's **hosa baraha** (reformed spelling): aspirated consonants are written without aspiration (ಭ→ಬ, ಧ→ದ, ಥ→ತ, ಫ→ಪ, ಖ→ಕ, ಘ→ಗ, ಷ→ಸ). When quoting Kannada forms from the book, keep this in mind.
+
+4. **Havyaka Kannada and Badaga** are treated as key comparative witnesses throughout. Questions about their role should be referred to Chapters 1, 4, 5, 8, and 10.
+
+5. The **inclusive/exclusive distinction** (oLagoLLuva/oLagoLLada) is one of the book's most significant findings for pronoun history. Direct questions about this to Chapter 8 and Chapter 10.
+
+6. **Vowel raising** (svara mElErike) is the single most important sound change discussed in the book for understanding the coastal/inland split. Questions about Kannada dialect differences in vowels should be directed to Chapter 2.
+
+7. Attribute all historical reconstructions and interpretations clearly to **D.N. Shankara Bhat**. The comparative method yields probabilistic conclusions, not certainties; Bhat's reconstructions represent well-supported scholarly positions, not established facts.
+
+8. This book is part of a series. For **synchronic word structure**, refer to Book 03. For **sentence structure**, refer to Book 25. For **the Kannada sound system** (synchronic phonology), refer to Book 07. For **Havyaka Kannada grammar** in detail, refer to Book 09.
+
+9. **Repository source (Phase 17):** A clean structured Kannada source file `17-kannaDa-nuDi-naDeDu-banda-dAri-kn.md` is available, generated from the Sarvam Vision OCR + WX-decode pipeline with Nudi encoding artefacts resolved. It has a ಪರಿವಿಡಿ TOC and `<a id="adhyAya-N">` chapter anchors. The Eke romanisation file `17-kannaDa-nuDi-naDeDu-banda-dAri-kn-eke.md` mirrors the same structure, and includes `u^` markers for ಉ್ (unrounded-u, a Havyaka phoneme). DNS Bhat's typographic citation marks have been standardised to curly single quotes `'word'` (U+2018/U+2019). The book is written in *hosa baraha* (simplified spelling): aspirated consonants are suppressed (ಭ→ಬ, ಧ→ದ, ಥ→ತ, ಫ→ಪ, ಖ→ಕ, ಘ→ಗ, ಷ→ಸ).
+
+
+10. **Repository source (Phase 18/19):** The kn.md now has a 3-level deep TOC with `<a id="sec-N-M">` and `<a id="sub-N-M-K">` anchors. Cross-links `[Eke →]` appear after each sec/sub anchor in kn.md; kn-eke.md has `[ಕನ್ನಡ →]` links. Header has `[← ಸೂಚಿ](./README)` index back-link. Note: ~840 table-cell fragments from multi-column PDF tables are still isolated lines (table reconstruction requires PDF screenshots).
+
+11. **Chapter pages (Phase 33):** The Kannada source is split into individual chapter pages on GitHub Pages. Fetch specific chapters rather than loading the full book — chapters are lightweight and avoid token exhaustion when answering focused questions:
+   - **Chapter index (ch0):** `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/17-kannaDa-nuDi-naDeDu-banda-dAri/book/kn/ch0`
+   - Ch 1 — ಮುನ್ನೋಟ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/17-kannaDa-nuDi-naDeDu-banda-dAri/book/kn/ch1`
+   - Ch 2 — ಬೇರಿನ ಸ್ವರಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/17-kannaDa-nuDi-naDeDu-banda-dAri/book/kn/ch2`
+   - Ch 3 — ಒಟ್ಟಿನ ಸ್ವರಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/17-kannaDa-nuDi-naDeDu-banda-dAri/book/kn/ch3`
+   - Ch 4 — ತಡೆಯುಲಿಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/17-kannaDa-nuDi-naDeDu-banda-dAri/book/kn/ch4`
+   - Ch 5 — ಇತರ ವ್ಯಂಜನಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/17-kannaDa-nuDi-naDeDu-banda-dAri/book/kn/ch5`
+   - Ch 6 — ಪದಗಳ ಒಳರಚನೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/17-kannaDa-nuDi-naDeDu-banda-dAri/book/kn/ch6`
+   - Ch 7 — ಕ್ರಿಯಾಪದಗಳ ಒಳರಚನೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/17-kannaDa-nuDi-naDeDu-banda-dAri/book/kn/ch7`
+   - Ch 8 — ಕ್ರಿಯಾರೂಪಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/17-kannaDa-nuDi-naDeDu-banda-dAri/book/kn/ch8`
+   - Ch 9 — ನಾಮಪದಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/17-kannaDa-nuDi-naDeDu-banda-dAri/book/kn/ch9`
+   - Ch 10 — ಆಡುಗ ಮತ್ತು ತೋರುಗ ಪದಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/17-kannaDa-nuDi-naDeDu-banda-dAri/book/kn/ch10`
+   - Ch 11 — ಗುಣಪದಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/17-kannaDa-nuDi-naDeDu-banda-dAri/book/kn/ch11`
+   - Ch 12 — ವಾಕ್ಯಗಳ ಒಳರಚನೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/17-kannaDa-nuDi-naDeDu-banda-dAri/book/kn/ch12`
+   
+   When a question targets a specific chapter, fetch only that URL. Use `ch0` to browse the full chapter list first.
+
+### Chapter Navigation
+
+**Chapters:** 
+  [1. ಮುನ್ನೋಟ](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/17-kannaDa-nuDi-naDeDu-banda-dAri/book/kn/ch1)  
+  [2. ಬೇರಿನ ಸ್ವರಗಳು](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/17-kannaDa-nuDi-naDeDu-banda-dAri/book/kn/ch2)  
+  [3. ಒಟ್ಟಿನ ಸ್ವರಗಳು](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/17-kannaDa-nuDi-naDeDu-banda-dAri/book/kn/ch3)  
+  [4. ತಡೆಯುಲಿಗಳು](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/17-kannaDa-nuDi-naDeDu-banda-dAri/book/kn/ch4)  
+  [5. ಇತರ ವ್ಯಂಜನಗಳು](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/17-kannaDa-nuDi-naDeDu-banda-dAri/book/kn/ch5)  
+  [6. ಪದಗಳ ಒಳರಚನೆ](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/17-kannaDa-nuDi-naDeDu-banda-dAri/book/kn/ch6)  
+  [7. ಕ್ರಿಯಾಪದಗಳ ಒಳರಚನೆ](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/17-kannaDa-nuDi-naDeDu-banda-dAri/book/kn/ch7)  
+  [8. ಕ್ರಿಯಾರೂಪಗಳು](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/17-kannaDa-nuDi-naDeDu-banda-dAri/book/kn/ch8)  
+  [9. ನಾಮಪದಗಳು](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/17-kannaDa-nuDi-naDeDu-banda-dAri/book/kn/ch9)  
+  [10. ಆಡುಗ ಮತ್ತು ತೋರುಗ ಪದಗಳು](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/17-kannaDa-nuDi-naDeDu-banda-dAri/book/kn/ch10)  
+  [11. ಗುಣಪದಗಳು](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/17-kannaDa-nuDi-naDeDu-banda-dAri/book/kn/ch11)  
+  [12. ವಾಕ್ಯಗಳ ಒಳರಚನೆ](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/17-kannaDa-nuDi-naDeDu-banda-dAri/book/kn/ch12)
+
 
 
 ---
@@ -314,6 +460,22 @@ The book covers ten substantive chapters (Chapters 2–10) plus an introductory 
 
 10. **Repository source (Phase 18/19):** The kn.md now has a 3-level deep TOC with `<a id="sec-N-M">` and `<a id="sub-N-M-K">` anchors. Cross-links `[Eke →]` appear after each sec/sub anchor in kn.md; kn-eke.md has `[ಕನ್ನಡ →]` links. Header has `[← ಸೂಚಿ](./README)` index back-link. This book uses standard Kannada orthography (not hosa baraha).
 
+11. **Chapter pages (Phase 33):** The Kannada source is split into individual chapter pages on GitHub Pages. Fetch specific chapters rather than loading the full book — chapters are lightweight and avoid token exhaustion when answering focused questions:
+   - **Chapter index (ch0):** `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/25-kannaDa-vAkyagaLa-oLaracane/book/kn/ch0`
+   - Ch 1 — ಪೀಠಿಕೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/25-kannaDa-vAkyagaLa-oLaracane/book/kn/ch1`
+   - Ch 2 — ಕ್ರಿಯಾವಾಕ್ಯಗಳ ಒಳರಚನೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/25-kannaDa-vAkyagaLa-oLaracane/book/kn/ch2`
+   - Ch 3 — ವಿಷಯವಾಕ್ಯಗಳ ಒಳರಚನೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/25-kannaDa-vAkyagaLa-oLaracane/book/kn/ch3`
+   - Ch 4 — ನಾಮಪದಗಳ ಕಂತೆಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/25-kannaDa-vAkyagaLa-oLaracane/book/kn/ch4`
+   - Ch 5 — ಕ್ರಿಯಾಪದಗಳ ಪದರೂಪಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/25-kannaDa-vAkyagaLa-oLaracane/book/kn/ch5`
+   - Ch 6 — ಗುಣಪದಗಳ ಬಳಕೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/25-kannaDa-vAkyagaLa-oLaracane/book/kn/ch6`
+   - Ch 7 — ಒಳವಾಕ್ಯಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/25-kannaDa-vAkyagaLa-oLaracane/book/kn/ch7`
+   - Ch 8 — ವಾಕ್ಯಗಳ ಜೋಡಣೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/25-kannaDa-vAkyagaLa-oLaracane/book/kn/ch8`
+   - Ch 9 — ಸಂಬಂಧಿಸುವುದು ಮತ್ತು ಅಲ್ಲಗಳೆಯುವುದು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/25-kannaDa-vAkyagaLa-oLaracane/book/kn/ch9`
+   - Ch 10 — ಮಾತಿನ ಕೆಲಸಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/25-kannaDa-vAkyagaLa-oLaracane/book/kn/ch10`
+   - Ch 11 — ಕನ್ನಡದ ಕೆಲವು ವೈಶಿಷ್ಟ್ಯಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/25-kannaDa-vAkyagaLa-oLaracane/book/kn/ch11`
+   
+   When a question targets a specific chapter, fetch only that URL. Use `ch0` to browse the full chapter list first.
+
 ### Chapter Navigation
 
 **Chapters:** 
@@ -509,14 +671,24 @@ The book's central purpose is to correct widespread popular misconceptions about
 
 10. **Repository source (Phase 19):** The kn.md already had 221 anchors (5 part-N, 32 sec-N-M, 184 sub-N-M-K). Phase 19 added `[Eke →]` cross-links after every sec/sub anchor in kn.md and `[ಕನ್ನಡ →]` links in kn-eke.md. Header has `[← ಸೂಚಿ](./README)` index back-link. Part anchors use `part-N` format; section and subsection use `sec-N-M` / `sub-N-M-K`.
 
+11. **Chapter pages (Phase 33):** The Kannada source is split into individual chapter pages on GitHub Pages. Fetch specific chapters rather than loading the full book — chapters are lightweight and avoid token exhaustion when answering focused questions:
+   - **Chapter index (ch0):** `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/27-bhASheya-bagge/book/kn/ch0`
+   - Ch 1 — ಭಾಗ ಒಂದು — ಭಾಷೆಯ ಸ್ವರೂಪ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/27-bhASheya-bagge/book/kn/ch1`
+   - Ch 2 — ಭಾಗ ಎರಡು — ಕಲಿಕೆ ಮತ್ತು ವ್ಯಾಕರಣ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/27-bhASheya-bagge/book/kn/ch2`
+   - Ch 3 — ಭಾಗ ಮೂರು — ಮಾತು ಮತ್ತು ಬರಹ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/27-bhASheya-bagge/book/kn/ch3`
+   - Ch 4 — ಭಾಗ ನಾಲ್ಕು — ಕನ್ನಡ ಭಾಷೆಯ ಸ್ವರೂಪ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/27-bhASheya-bagge/book/kn/ch4`
+   - Ch 5 — ಭಾಗ ಐದು — ಜಗತ್ತಿನ ಭಾಷೆಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/27-bhASheya-bagge/book/kn/ch5`
+   
+   When a question targets a specific chapter, fetch only that URL. Use `ch0` to browse the full chapter list first.
+
 ### Chapter Navigation
 
 **Chapters:** 
-  [1. ಭಾಗ ಒಂದು](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/27-bhASheya-bagge/book/kn/ch1)  
-  [2. ಭಾಗ ಎರಡು](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/27-bhASheya-bagge/book/kn/ch2)  
-  [3. ಭಾಗ ಮೂರು](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/27-bhASheya-bagge/book/kn/ch3)  
-  [4. ಭಾಗ ನಾಲ್ಕು](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/27-bhASheya-bagge/book/kn/ch4)  
-  [5. ಭಾಗ ಐದು](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/27-bhASheya-bagge/book/kn/ch5)
+  [1. ಭಾಷೆಯ ಸ್ವರೂಪ](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/27-bhASheya-bagge/book/kn/ch1)  
+  [2. ಕಲಿಕೆ ಮತ್ತು ವ್ಯಾಕರಣ](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/27-bhASheya-bagge/book/kn/ch2)  
+  [3. ಮಾತು ಮತ್ತು ಬರಹ](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/27-bhASheya-bagge/book/kn/ch3)  
+  [4. ಕನ್ನಡ ಭಾಷೆಯ ಸ್ವರೂಪ](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/27-bhASheya-bagge/book/kn/ch4)  
+  [5. ಜಗತ್ತಿನ ಭಾಷೆಗಳು](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/27-bhASheya-bagge/book/kn/ch5)
 
 
 
@@ -690,6 +862,23 @@ The book is organised as a guided chapter-by-chapter tour through the major gram
 - [Book 03 — ಕನ್ನಡ ಪದಗಳ ಒಳರಚನೆ (Internal Structure of Kannada Words)](../03-kannaDa-padagaLa-oLaracane/03-kannaDa-padagaLa-oLaracane-claude-prompt)
 - [Book 25 — ಕನ್ನಡ ವಾಕ್ಯಗಳ ಒಳರಚನೆ (Internal Structure of Kannada Sentences)](../25-kannaDa-vAkyagaLa-oLaracane/25-kannaDa-vAkyagaLa-oLaracane-claude-prompt)
 - [Book 29 — ಕನ್ನಡ ವ್ಯಾಕರಣ ಯಾಕೆ ಬೇಕು? (Why Do We Need Kannada Grammar?)](../29-kannaDa-vyAkaraNa-yAke-bEku/29-kannaDa-vyAkaraNa-yAke-bEku-claude-prompt)
+
+11. **Chapter pages (Phase 33):** The Kannada source is split into individual chapter pages on GitHub Pages. Fetch specific chapters rather than loading the full book — chapters are lightweight and avoid token exhaustion when answering focused questions:
+   - **Chapter index (ch0):** `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/28-kannaDakke-bEku/book/kn/ch0`
+   - Ch 1 — ಮುನ್ನೋಟ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/28-kannaDakke-bEku/book/kn/ch1`
+   - Ch 2 — ಸೇರಿಕೆಯ ನಿಯಮಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/28-kannaDakke-bEku/book/kn/ch2`
+   - Ch 3 — ಪದವಗ್ರಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/28-kannaDakke-bEku/book/kn/ch3`
+   - Ch 4 — ಪದಗಳ ಒಳರಚನೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/28-kannaDakke-bEku/book/kn/ch4`
+   - Ch 5 — ಸಮಾಸಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/28-kannaDakke-bEku/book/kn/ch5`
+   - Ch 6 — ಲಿಂಗ ಮತ್ತು ವಚನಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/28-kannaDakke-bEku/book/kn/ch6`
+   - Ch 7 — ವಿಭಕ್ತಿಗಳು ಮತ್ತು ಕಾರಕಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/28-kannaDakke-bEku/book/kn/ch7`
+   - Ch 8 — ವಿಭಕ್ತಿಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/28-kannaDakke-bEku/book/kn/ch8`
+   - Ch 9 — ವಿಭಕ್ತಿಪಲ್ಲಟ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/28-kannaDakke-bEku/book/kn/ch9`
+   - Ch 10 — ಸವ್ರನಾಮಗಳು ಮತ್ತು ಎಣಿಕೆಯ ಪದಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/28-kannaDakke-bEku/book/kn/ch10`
+   - Ch 11 — ಕ್ರಿಯಾರೂಪಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/28-kannaDakke-bEku/book/kn/ch11`
+   - Ch 12 — ಮುಕ್ತಾಯ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/28-kannaDakke-bEku/book/kn/ch12`
+   
+   When a question targets a specific chapter, fetch only that URL. Use `ch0` to browse the full chapter list first.
 
 ### Chapter Navigation
 
@@ -875,6 +1064,22 @@ When answering questions about this book:
 
 10. **Repository source (Phase 18/19):** The kn.md now has a 3-level deep TOC with `<a id="sec-N-M">` and `<a id="sub-N-M-K">` anchors. Cross-links `[Eke →]` appear after each sec/sub anchor in kn.md; kn-eke.md has `[ಕನ್ನಡ →]` links. Header has `[← ಸೂಚಿ](./README)` index back-link. Chapter nav uses `#adhyAya-N` anchors.
 
+11. **Chapter pages (Phase 33):** The Kannada source is split into individual chapter pages on GitHub Pages. Fetch specific chapters rather than loading the full book — chapters are lightweight and avoid token exhaustion when answering focused questions:
+   - **Chapter index (ch0):** `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/29-kannaDa-vyAkaraNa-yAke-bEku/book/kn/ch0`
+   - Ch 1 — ಮುನ್ನೋಟ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/29-kannaDa-vyAkaraNa-yAke-bEku/book/kn/ch1`
+   - Ch 2 — ಓದು-ಬರಹದ ಕಲಿಕೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/29-kannaDa-vyAkaraNa-yAke-bEku/book/kn/ch2`
+   - Ch 3 — ಬರೆಯುವುದರಲ್ಲಿ ಹೆಚ್ಚಿನ ಕಲಿಕೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/29-kannaDa-vyAkaraNa-yAke-bEku/book/kn/ch3`
+   - Ch 4 — ಅರಿಮೆಯ ಬರಹಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/29-kannaDa-vyAkaraNa-yAke-bEku/book/kn/ch4`
+   - Ch 5 — ನಲ್ಬರಹಗಳು ಮತ್ತು ಸೊಲ್ಲರಿಮೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/29-kannaDa-vyAkaraNa-yAke-bEku/book/kn/ch5`
+   - Ch 6 — ಇಪ್ಪುರುಳಿನ ತೊಡಕುಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/29-kannaDa-vyAkaraNa-yAke-bEku/book/kn/ch6`
+   - Ch 7 — ಎರಡನೇ ನುಡಿಯ ಕಲಿಕೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/29-kannaDa-vyAkaraNa-yAke-bEku/book/kn/ch7`
+   - Ch 8 — ನುಡಿಮಾರಿಕೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/29-kannaDa-vyAkaraNa-yAke-bEku/book/kn/ch8`
+   - Ch 9 — ನುಡಿಹಮ್ಮುಗೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/29-kannaDa-vyAkaraNa-yAke-bEku/book/kn/ch9`
+   - Ch 10 — ಮಾತಿನ ತೊಂದರೆಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/29-kannaDa-vyAkaraNa-yAke-bEku/book/kn/ch10`
+   - Ch 11 — ಮುಕ್ತಾಯ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/29-kannaDa-vyAkaraNa-yAke-bEku/book/kn/ch11`
+   
+   When a question targets a specific chapter, fetch only that URL. Use `ch0` to browse the full chapter list first.
+
 ### Chapter Navigation
 
 **Chapters:** 
@@ -964,6 +1169,25 @@ Script: *hosa baraha* throughout — aspirated Kannada letters replaced by their
 - **Book 31** (*Ingli​sh Padagalige Kannadaddē Padagalu*): dictionary implementing the word-reform principles of Ch. 5–9
 - **Book 14** (*Nijakku Halegannada Vyākarana Entahadu*): Old Kannada grammar — explains why Sanskrit grammar doesn't apply to Kannada
 - **Book 32** (*The Prominence of Tense, Aspect and Mood*): the academic typological foundation for "Kannada is Dravidian, not Sanskrit-derived"
+
+---
+
+## INSTRUCTIONS FOR ANSWERING QUESTIONS
+
+1. **Chapter pages (Phase 33):** The Kannada source is split into individual chapter pages on GitHub Pages. Fetch specific chapters rather than loading the full book — chapters are lightweight and avoid token exhaustion when answering focused questions:
+   - **Chapter index (ch0):** `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/30-kannaDa-barahavannu-saripaDisONa/book/kn/ch0`
+   - Ch 1 — ಮುನ್ನೋಟ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/30-kannaDa-barahavannu-saripaDisONa/book/kn/ch1`
+   - Ch 2 — ಕನ್ನಡ ನುಡಿ ಸಂಸ್ಕ್ರುತದಿಂದ ಬೆಳೆದು ಬಂದಿಲ್ಲ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/30-kannaDa-barahavannu-saripaDisONa/book/kn/ch2`
+   - Ch 3 — ಕನ್ನಡದಲ್ಲಿ ಸ್ಪೆಲ್ಲಿಂಗ್ ಸಮಸ್ಯೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/30-kannaDa-barahavannu-saripaDisONa/book/kn/ch3`
+   - Ch 4 — ಕನ್ನಡಕ್ಕೊಂದು 'ಹೊಸ ಬರಹ': `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/30-kannaDa-barahavannu-saripaDisONa/book/kn/ch4`
+   - Ch 5 — ಕನ್ನಡ ಬರಹದ ಪದಸಮಸ್ಯೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/30-kannaDa-barahavannu-saripaDisONa/book/kn/ch5`
+   - Ch 6 — ಕನ್ನಡ ಬರಹಗಳಲ್ಲಿ ಸಂಸ್ಕ್ರುತ ಪದಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/30-kannaDa-barahavannu-saripaDisONa/book/kn/ch6`
+   - Ch 7 — ವಿಜ್ನಾನ ಬರಹಗಳಲ್ಲಿ ಸಂಸ್ಕ್ರುತ ಪದಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/30-kannaDa-barahavannu-saripaDisONa/book/kn/ch7`
+   - Ch 8 — ಕನ್ನಡ ಪ್ರತ್ಯಯಗಳ ಬಳಕೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/30-kannaDa-barahavannu-saripaDisONa/book/kn/ch8`
+   - Ch 9 — ಕನ್ನಡ ಪದಗಳ ಬಳಕೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/30-kannaDa-barahavannu-saripaDisONa/book/kn/ch9`
+   - Ch 10 — ಮುಕ್ತಾಯ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/30-kannaDa-barahavannu-saripaDisONa/book/kn/ch10`
+   
+   When a question targets a specific chapter, fetch only that URL. Use `ch0` to browse the full chapter list first.
 
 ### Chapter Navigation
 
@@ -1063,6 +1287,30 @@ This is an earlier, opinionated companion to Book 15 (*Inglish Kannada Padanerak
 5. **Chapter pages (Phase 32):** `book/kn/full.md` now has `<a id="chN">` anchors before each letter section (A=ch1 through W=ch19, 19 chapters total). CI generates `ch1.md`…`ch19.md` + `ch0.md` index. Access via chapter page links.
 6. Always note that this book uses *hosa baraha* reformed orthography throughout: aspirated consonants in native Kannada equivalents are systematically avoided.
 
+7. **Chapter pages (Phase 33):** The Kannada source is split into individual chapter pages on GitHub Pages. Fetch specific chapters rather than loading the full book — chapters are lightweight and avoid token exhaustion when answering focused questions:
+   - **Chapter index (ch0):** `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch0`
+   - Ch 1 — A: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch1`
+   - Ch 2 — B: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch2`
+   - Ch 3 — C: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch3`
+   - Ch 4 — D: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch4`
+   - Ch 5 — E: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch5`
+   - Ch 6 — F: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch6`
+   - Ch 7 — G: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch7`
+   - Ch 8 — I: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch8`
+   - Ch 9 — K: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch9`
+   - Ch 10 — L: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch10`
+   - Ch 11 — M: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch11`
+   - Ch 12 — N: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch12`
+   - Ch 13 — O: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch13`
+   - Ch 14 — Q: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch14`
+   - Ch 15 — R: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch15`
+   - Ch 16 — T: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch16`
+   - Ch 17 — U: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch17`
+   - Ch 18 — V: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch18`
+   - Ch 19 — W: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch19`
+   
+   When a question targets a specific chapter, fetch only that URL. Use `ch0` to browse the full chapter list first.
+
 ### Chapter Navigation
 
 **Chapters:** 
@@ -1086,94 +1334,6 @@ This is an earlier, opinionated companion to Book 15 (*Inglish Kannada Padanerak
   [18. V](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch18)  
   [19. W](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch19)
 
-
-
----
-
-## Book 32 — 32-the-prominence-of-tense-aspect-and-mood
-
-# Claude Prompt — Book 32: The Prominence of Tense, Aspect and Mood
-
-**Author:** D. N. Shankara Bhat (D.N.S. Bhat)
-**Published:** c. 1999 · John Benjamins Publishing Company, Amsterdam/Philadelphia
-**Series:** Studies in Language Companion Series (SLCS), Volume 49
-**Pages:** 198 · Language: English (academic monograph)
-
----
-
-## THESIS
-
-Languages do not give equal prominence to all three major verbal categories — tense, aspect, and mood (TAM). Instead each language *selects one* as its primary obligatory category and expresses it with the greatest grammatical detail and pervasiveness. This allows a three-way typological classification:
-
-- **Tense-prominent**: obligatory tense on all finite verbs; tense extends to participles, nominalisations, converbs (e.g., all Dravidian languages including Kannada)
-- **Aspect-prominent**: obligatory aspect (perfective/imperfective) is the primary verbal category; tense is secondary (e.g., Slavic, Mandarin)
-- **Mood-prominent**: obligatory evidential or realis/irrealis marking is primary (e.g., Ladakhi, Tibeto-Burman, Papuan)
-
-**Relevance to Kannada:** This book is the academic foundation for Bhat's broader argument. Because Kannada is tense-prominent Dravidian, its grammar must be described using tense-based frameworks — not the Sanskrit-derived mood/aspect-centred grammar that pandits have imposed on it.
-
----
-
-## BOOK STRUCTURE
-
-**Part 1 — A Descriptive Study** (Ch. 1–4):
-
-| Chapter | Content |
-|---------|---------|
-| Ch. 1 | Introduction — universalistic vs. differentiating approaches to typology |
-| Ch. 2 | Category of Tense — deictic tense, non-deictic tense, temporal adverbials |
-| Ch. 3 | Category of Aspect — perfective/imperfective, phasal, quantificational, viewpoint |
-| Ch. 4 | Category of Mood — epistemic, evidential, deontic; realis/irrealis |
-
-**Part 2 — A Typological Study** (Ch. 5–7):
-
-| Chapter | Content |
-|---------|---------|
-| Ch. 5 | Basis of the Typology — what "prominence" means (obligatoriness, systematicity, pervasiveness, grammaticalization); bias in grammars; diachronic considerations |
-| Ch. 6 | Classification of Languages — Dravidian as tense-prominent; Slavic/Mandarin as aspect-prominent; Ladakhi/Papuan as mood-prominent |
-| Ch. 7 | Correlatable Characteristics — ergativity split, tensedness parameter, perfect/future/habitual/negation from different prominence viewpoints; grammaticalization paths |
-
----
-
-## KEY CONCEPTS
-
-| Term | Definition |
-|------|-----------|
-| Prominence | A category is prominent if it is obligatory, systematic, and pervasive in a language's grammar |
-| Deictic tense | Temporal location relative to speech time |
-| Non-deictic tense | Relative tense — prior/simultaneous/posterior to another event (Kannada converbs: *-i*, *-utu*, *-alu*) |
-| Realis/irrealis | Core mood distinction: actual vs. non-actual events |
-| Evidentiality | Grammatical marking of the *evidence basis* for a claim |
-| Vector verb | Dravidian auxiliary encoding aspect optionally (not obligatorily) — confirms tense-prominence |
-| Triśaṅku | Not a term in this book, but the principle here explains why Sanskrit grammar doesn't fit Kannada |
-| Bias in grammars | Most grammars written from tense-prominent European perspective — distorts descriptions of A-prominent and M-prominent languages |
-
----
-
-## NOTABLE EXAMPLES FROM THE BOOK
-
-- **Kannada non-deictic tense**: converbs *kattar​isu-tta be​yisu* (cutting while cooking) show three-way prior/simultaneous/posterior distinction
-- **Ladakhi evidentials**: six inference categories, all obligatorily marked — paradigm case of mood-prominence
-- **Hindi/Marathi**: long described as tense-prominent but actually aspect-prominent — their "past" form is a perfective
-- **Tamil vector verb** *viṭu*: completive but optional, not obligatory — shows aspect is non-prominent in Tamil/Dravidian
-
----
-
-## REPOSITORY SOURCE
-
-**English summary:** `book/en/summary.md` — full chapter-by-chapter analysis with key concepts table.
-
-**No kn or eke files**: this is an English-language academic monograph.
-
-The clean digital PDF (`the-prominence-of-tense-aspect-and-mood_compress.pdf`) is available in Google Drive.
-
----
-
-## CONNECTIONS TO OTHER BOOKS
-
-- **Book 08** (*Kannadakke Mahāprāṇa Yāke Bēḍa*): applies this typology's conclusion — Kannada is tense-prominent Dravidian, so Sanskrit mahāprāṇa have no phonological place in it
-- **Book 14** (*Nijakku Halegannada Vyākarana Entahadu*): the grammar implication — Old Kannada grammar should use tense-based categories, not Sanskrit mood-based ones
-- **Book 02** (*Kannada Nuḍiya Oḷaracane*): structural analysis of Kannada — the tense-prominence framework applied to Kannada sentence structure
-- **Book 18** (*Kannada Nuḍiya Bagege Cintane*): popular-audience version of these arguments
 
 
 ---

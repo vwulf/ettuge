@@ -326,3 +326,20 @@ When answering questions about this book:
 
 
 10. **Repository source (Phase 19):** The kn.md now has a 3-level deep TOC with `<a id="sec-N-M">` and `<a id="sub-N-M-K">` anchors (164 total). Cross-links `[Eke →]` appear after each sec/sub anchor in kn.md; kn-eke.md has `[ಕನ್ನಡ →]` links. Header includes `[← ಸೂಚಿ](./README)` back-link and retains the `> ಮೂಲ ಪುಸ್ತಕ` link.
+
+11. **Chapter pages (Phase 33):** The Kannada source is split into individual chapter pages on GitHub Pages. Fetch specific chapters rather than loading the full book — chapters are lightweight and avoid token exhaustion when answering focused questions:
+   - **Chapter index (ch0):** `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/14-nijakkU-haLegannaDa-vyAkaraNa-entahadu/book/kn/ch0`
+   - Ch 1 — ಪೀಠಿಕೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/14-nijakkU-haLegannaDa-vyAkaraNa-entahadu/book/kn/ch1`
+   - Ch 2 — ಪಾರಿಭಾಷಿಕ ಪದಗಳ ಬಳಕೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/14-nijakkU-haLegannaDa-vyAkaraNa-entahadu/book/kn/ch2`
+   - Ch 3 — ವರ್ಣಗಳ ಬಳಕೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/14-nijakkU-haLegannaDa-vyAkaraNa-entahadu/book/kn/ch3`
+   - Ch 4 — ಪದವರ್ಗಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/14-nijakkU-haLegannaDa-vyAkaraNa-entahadu/book/kn/ch4`
+   - Ch 5 — ಪದಗಳ ಒಳರಚನೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/14-nijakkU-haLegannaDa-vyAkaraNa-entahadu/book/kn/ch5`
+   - Ch 6 — ನಾಮಪದಗಳ ಸ್ವರೂಪ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/14-nijakkU-haLegannaDa-vyAkaraNa-entahadu/book/kn/ch6`
+   - Ch 7 — ಲಿಂಗ ಮತ್ತು ವಚನಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/14-nijakkU-haLegannaDa-vyAkaraNa-entahadu/book/kn/ch7`
+   - Ch 8 — ವಿಭಕ್ತಿಗಳು ಮತ್ತು ಕಾರಕಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/14-nijakkU-haLegannaDa-vyAkaraNa-entahadu/book/kn/ch8`
+   - Ch 9 — ಕ್ರಿಯಾರೂಪಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/14-nijakkU-haLegannaDa-vyAkaraNa-entahadu/book/kn/ch9`
+   - Ch 10 — ವಾಕ್ಯಗಳ ಜೋಡಣೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/14-nijakkU-haLegannaDa-vyAkaraNa-entahadu/book/kn/ch10`
+   - Ch 11 — ವಿಷಯವಾಕ್ಯಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/14-nijakkU-haLegannaDa-vyAkaraNa-entahadu/book/kn/ch11`
+   - Ch 12 — ಮುಕ್ತಾಯ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/14-nijakkU-haLegannaDa-vyAkaraNa-entahadu/book/kn/ch12`
+   
+   When a question targets a specific chapter, fetch only that URL. Use `ch0` to browse the full chapter list first.

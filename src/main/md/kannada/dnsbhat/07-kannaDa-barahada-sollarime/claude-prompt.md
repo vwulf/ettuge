@@ -213,3 +213,21 @@ The book constitutes both a theoretical argument and a practical reference. As a
     - `book/vol4/eke/full.md` — Eke romanization.
     - `book/vol4/en/summary.md` — English chapter-by-chapter summary.
     - The multi-volume index `book/kn/full.md` now shows all four volumes as ✅. Vols 5–7 remain unavailable.
+
+12. **Chapter pages (Phase 33):** The Kannada source is split into individual chapter pages on GitHub Pages. Fetch specific chapters rather than loading the full book — chapters are lightweight and avoid token exhaustion when answering focused questions:
+   - **Vol1 index:** `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/07-kannaDa-barahada-sollarime/book/vol1/kn/ch0`
+   - Ch 1 — ಮುನ್ನೋಟ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/07-kannaDa-barahada-sollarime/book/vol1/kn/ch1`
+   - Ch 2 — ಪದಗಳ ಇಟ್ಟಳ: ಹೆಸರುಪದಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/07-kannaDa-barahada-sollarime/book/vol1/kn/ch2`
+   - Ch 3 — ಪದಗಳ ಇಟ್ಟಳ: ಉಳಿದ ಪದಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/07-kannaDa-barahada-sollarime/book/vol1/kn/ch3`
+   - Ch 4 — ಪದರೂಪಗಳ ಇಟ್ಟಳ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/07-kannaDa-barahada-sollarime/book/vol1/kn/ch4`
+   - **Vol2 index:** `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/07-kannaDa-barahada-sollarime/book/vol2/kn/ch0`
+   - Ch 5 — ಎಸಕಪದಗಳ ಬಳಕೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/07-kannaDa-barahada-sollarime/book/vol2/kn/ch5`
+   - Ch 6 — ಹೆಸರುಕಂತೆಗಳ ಇಟ್ಟಳ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/07-kannaDa-barahada-sollarime/book/vol2/kn/ch6`
+   - **Vol3 index:** `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/07-kannaDa-barahada-sollarime/book/vol3/kn/ch0`
+   - Ch 7 — ಎಸಕಪದದ ಪಾಂಗುಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/07-kannaDa-barahada-sollarime/book/vol3/kn/ch7`
+   - Ch 8 — ಪಾಂಗಿಟ್ಟಳದಲ್ಲಿ ಮಾರ್ಪಾಡುಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/07-kannaDa-barahada-sollarime/book/vol3/kn/ch8`
+   - **Vol4 index:** `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/07-kannaDa-barahada-sollarime/book/vol4/kn/ch0`
+   - Ch 9 — ಆಡುಪದಗಳ ಬಳಕೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/07-kannaDa-barahada-sollarime/book/vol4/kn/ch9`
+   - Ch 10 — ತೋರುಪದಗಳ ಬಳಕೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/07-kannaDa-barahada-sollarime/book/vol4/kn/ch10`
+   
+   When a question targets a specific chapter, fetch only that URL. Use `ch0` to browse the full chapter list first.

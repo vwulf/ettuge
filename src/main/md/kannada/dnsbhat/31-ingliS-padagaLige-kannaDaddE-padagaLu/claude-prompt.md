@@ -75,3 +75,27 @@ This is an earlier, opinionated companion to Book 15 (*Inglish Kannada Padanerak
 4. Entry format in the dictionary: `**headword** — [PoS] Kannada equivalents (example sentences)`.
 5. **Chapter pages (Phase 32):** `book/kn/full.md` now has `<a id="chN">` anchors before each letter section (A=ch1 through W=ch19, 19 chapters total). CI generates `ch1.md`…`ch19.md` + `ch0.md` index. Access via chapter page links.
 6. Always note that this book uses *hosa baraha* reformed orthography throughout: aspirated consonants in native Kannada equivalents are systematically avoided.
+
+7. **Chapter pages (Phase 33):** The Kannada source is split into individual chapter pages on GitHub Pages. Fetch specific chapters rather than loading the full book — chapters are lightweight and avoid token exhaustion when answering focused questions:
+   - **Chapter index (ch0):** `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch0`
+   - Ch 1 — A: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch1`
+   - Ch 2 — B: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch2`
+   - Ch 3 — C: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch3`
+   - Ch 4 — D: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch4`
+   - Ch 5 — E: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch5`
+   - Ch 6 — F: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch6`
+   - Ch 7 — G: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch7`
+   - Ch 8 — I: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch8`
+   - Ch 9 — K: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch9`
+   - Ch 10 — L: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch10`
+   - Ch 11 — M: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch11`
+   - Ch 12 — N: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch12`
+   - Ch 13 — O: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch13`
+   - Ch 14 — Q: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch14`
+   - Ch 15 — R: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch15`
+   - Ch 16 — T: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch16`
+   - Ch 17 — U: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch17`
+   - Ch 18 — V: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch18`
+   - Ch 19 — W: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/book/kn/ch19`
+   
+   When a question targets a specific chapter, fetch only that URL. Use `ch0` to browse the full chapter list first.

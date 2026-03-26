@@ -174,3 +174,17 @@ The book also makes a sustained methodological argument: applying Sanskrit gramm
 
 
 10. **Repository source (Phase 18/19):** Section numbering corrected (subsections 1.5.1–1.5.6 fixed from erroneous 1.6 labels). The kn.md now has a full 3-level deep TOC with `<a id="sec-N-M">` and `<a id="sub-N-M-K">` anchors throughout its 100-section, 3-level hierarchy. Cross-links `[Eke →]` / `[ಕನ್ನಡ →]` appear after every sec and sub anchor. Header has `[← ಸೂಚಿ](./README)` index back-link.
+
+11. **Chapter pages (Phase 33):** The Kannada source is split into individual chapter pages on GitHub Pages. Fetch specific chapters rather than loading the full book — chapters are lightweight and avoid token exhaustion when answering focused questions:
+   - **Chapter index (ch0):** `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/03-kannaDa-padagaLa-oLaracane/book/kn/ch0`
+   - Ch 1 — ಪೀಠಿಕೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/03-kannaDa-padagaLa-oLaracane/book/kn/ch1`
+   - Ch 2 — ಕನ್ನಡದ ಪದಗುಂಪುಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/03-kannaDa-padagaLa-oLaracane/book/kn/ch2`
+   - Ch 3 — ನಾಮಪದಗಳ ಒಳರಚನೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/03-kannaDa-padagaLa-oLaracane/book/kn/ch3`
+   - Ch 4 — ಪ್ರತ್ಯಯವಿರುವ ನಾಮಪದಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/03-kannaDa-padagaLa-oLaracane/book/kn/ch4`
+   - Ch 5 — ಜೋಡುಪದಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/03-kannaDa-padagaLa-oLaracane/book/kn/ch5`
+   - Ch 6 — ಕ್ರಿಯಾಪದಗಳ ಒಳರಚನೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/03-kannaDa-padagaLa-oLaracane/book/kn/ch6`
+   - Ch 7 — ಗುಣಪದಗಳ ಒಳರಚನೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/03-kannaDa-padagaLa-oLaracane/book/kn/ch7`
+   - Ch 8 — ಎರವಲಾಗಿ ಬಂದ ಪದಗಳ ಒಳರಚನೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/03-kannaDa-padagaLa-oLaracane/book/kn/ch8`
+   - Ch 9 — ಮುಕ್ತಾಯ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/03-kannaDa-padagaLa-oLaracane/book/kn/ch9`
+   
+   When a question targets a specific chapter, fetch only that URL. Use `ch0` to browse the full chapter list first.
