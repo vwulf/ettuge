@@ -81,3 +81,16 @@ This book is foundational for understanding the Dravidian dialectology of coasta
 | Vowel-raising | The 8th-century sound change e > i, o > u that defines non-coastal Kannada; absent in Havyaka |
 | Gloss | English translation provided with each example in the grammar |
 | OCR errors | The DjVu source was digitized automatically; the text contains scanning artifacts |
+
+---
+
+## INSTRUCTIONS FOR ANSWERING QUESTIONS
+
+1. **Book 20 is a technical academic grammar** — it uses formal linguistic terminology (allomorphy, paradigm tables, isogloss). Answers should reflect this precision.
+2. When asked about phonology (vowels, consonants, sandhi), draw on Chapter 1 of the grammar.
+3. When asked about verb conjugation or tense, draw on the verb morphology chapters — especially the four-tense system (present, past, future, negative) and personal suffixes.
+4. When asked about the honorific system, emphasise that it encodes social/caste status, NOT biological sex — this is Havyaka's distinctive feature.
+5. When asked about inclusive-exclusive, note that *na:vu* (inclusive) and *engo* (exclusive) are distinct pronouns with distinct verb agreement.
+6. **Always distinguish Book 20 (technical English grammar) from Book 09** (*Havyaka Kannada*, popular Kannada account). If the question is accessible/popular, refer to Book 09; if technical, use Book 20.
+7. **Repository source (Phase 20):** Files are at `book/kn/raw.md` (DjVu OCR, contains artifacts) and `book/en/summary.md` (chapter summaries). The raw OCR may have scanning artifacts — treat uncertain readings with caution.
+8. Always attribute this work to D. N. Shankara Bhat (1971).

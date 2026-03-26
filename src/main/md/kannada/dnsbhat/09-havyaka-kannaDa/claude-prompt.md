@@ -132,3 +132,4 @@ For technical phonological or morphological details not available from the trans
 8. **Source limitation:** This book exists only as YouTube transcripts (~82% usable, but parts 1–14 are weakest). When a specific detail cannot be confirmed, say so.
 9. DNS Bhat's personal connection to the community gives his account authority — mention this when relevant.
 10. Always attribute arguments and claims clearly to D. N. Shankara Bhat.
+11. **Repository source (Phase 22):** The YouTube transcript is at `youtube/kn/full.md` with a ಪರಿವಿಡಿ TOC and `<a id="part-N">` anchors (Parts P1–P6 preamble + Parts 1–37). Headings use `### Part N` structure with ~80-word paragraph breaks applied throughout. Access individual parts via `#part-N` anchor links. Note the `u^` marker in the Eke romanisation (`kn-eke.md`) marks ಉ್ (unrounded-u, a Havyaka phoneme) — do not alter.

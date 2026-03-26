@@ -13,14 +13,16 @@ This directory contains the PRIMARY linguistic work for the ettuge project.
 
 ## Subdirectories
 
-### `dnsbhat/` — DNS Bhat Book Collection (29 books, numbered 01–29)
-Each book directory follows this file structure:
-- `*-book.md` / `*-blog.md` — Raw OCR archive (do NOT edit)
-- `*-kn.md` — Structured Kannada source: paragraph breaks, ಪರಿವಿಡಿ TOC, `<a id="adhyAya-N">` anchors
-- `*-kn-eke.md` — Eke romanisation (regenerate after kn.md changes)
-- `*-en.md` — Chapter-wise English summary with kn.md cross-links
-- `*-claude-prompt.md` — Condensed prompt for Claude sessions
-- `README.md` — Book index
+### `dnsbhat/` — DNS Bhat Book Collection (33 books, numbered 01–33)
+Each book directory uses the Phase-20 4-level taxonomy (`source/lang/type.md`):
+- `book/kn/raw.md` or `book/kn/full.md` — Structured Kannada source (do NOT use old `*-kn.md` names)
+- `book/eke/full.md` — Eke romanisation (regenerate after kn changes)
+- `book/en/summary.md` — Chapter-wise English summary
+- `youtube/kn/full.md` — YouTube transcript (Kannada, with ಪರಿವಿಡಿ TOC and `<a id="part-N">` anchors)
+- `claude-prompt.md` — Condensed prompt for Claude sessions
+- `README.md` — Book index (serves as Jekyll page)
+
+**Chapter pages (Phase 32):** CI generates `ch0.md` (index) + `ch1.md`…`chN.md` per chapter from `<a id="chN">` / `<a id="adhyAya-N">` anchors in `full.md`. Sidebar links to `ch0.md` as the entry point (lightweight for slow connections).
 
 **Citation quotes:** Standardised to curly single quotes `'word'` (U+2018/U+2019) in kn.md and kn-eke.md. Never use backtick as open-quote.
 **Unrounded-u:** `u^` in kn-eke.md = ಉ್ (Havyaka phoneme) — do not alter.

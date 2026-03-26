@@ -93,6 +93,19 @@ This book is foundational for understanding the Dravidian dialectology of coasta
 | Gloss | English translation provided with each example in the grammar |
 | OCR errors | The DjVu source was digitized automatically; the text contains scanning artifacts |
 
+---
+
+## INSTRUCTIONS FOR ANSWERING QUESTIONS
+
+1. **Book 20 is a technical academic grammar** — it uses formal linguistic terminology (allomorphy, paradigm tables, isogloss). Answers should reflect this precision.
+2. When asked about phonology (vowels, consonants, sandhi), draw on Chapter 1 of the grammar.
+3. When asked about verb conjugation or tense, draw on the verb morphology chapters — especially the four-tense system (present, past, future, negative) and personal suffixes.
+4. When asked about the honorific system, emphasise that it encodes social/caste status, NOT biological sex — this is Havyaka's distinctive feature.
+5. When asked about inclusive-exclusive, note that *na:vu* (inclusive) and *engo* (exclusive) are distinct pronouns with distinct verb agreement.
+6. **Always distinguish Book 20 (technical English grammar) from Book 09** (*Havyaka Kannada*, popular Kannada account). If the question is accessible/popular, refer to Book 09; if technical, use Book 20.
+7. **Repository source (Phase 20):** Files are at `book/kn/raw.md` (DjVu OCR, contains artifacts) and `book/en/summary.md` (chapter summaries). The raw OCR may have scanning artifacts — treat uncertain readings with caution.
+8. Always attribute this work to D. N. Shankara Bhat (1971).
+
 
 ---
 
@@ -821,6 +834,89 @@ When answering questions about this book:
 
 ---
 
+## Book 31 — 31-ingliS-padagaLige-kannaDaddE-padagaLu
+
+# Claude Prompt — Book 31: ಇಂಗ್ಲಿಶ್ ಪದಗಳಿಗೆ ಕನ್ನಡದ್ದೇ ಪದಗಳು
+
+**English title:** Kannada's Own Words for English Words
+**Author:** D. N. Shankara Bhat (solo work)
+**Published:** 2008 (1st ed.); 2011 (2nd ed.) · Bāshā Prakāshana, Billeshwara, Huncha, Tirthahalli
+**Pages:** 487 · Language: Kannada (*hosa baraha* reformed script)
+
+---
+
+## THESIS
+
+An A-to-Z dictionary that inverts the typical English–Kannada glossary: instead of explaining English words to Kannada speakers who don't know English, this book is for speakers who know English well and want to discover **what native Dravidian Kannada words** exist for common English vocabulary. The book argues that for almost every English concept, native Kannada equivalents already exist — speakers just don't know them because generations of writers have reached for Sanskrit instead.
+
+This is an earlier, opinionated companion to Book 15 (*Inglish Kannada Padanerake*, 2015). Book 31 (solo, 487pp) is a curated selection; Book 15 (collaborative, 730pp) is the comprehensive A–Z successor.
+
+---
+
+## STRUCTURE
+
+**Two-part book:**
+
+1. **Preface / Introduction** (~120 pages): explains methodology and demonstrates native Kannada word-formation principles:
+   - The *triśaṅku pada* problem (Sanskrit–Kannada hybrids)
+   - Native suffix system: -gāra, -āḷi (agents); -ke/-ike, -ge/-ige, -ta, -vu/-pu/-hu, -me, -ha (actions/results)
+   - Negation without Sanskrit prefix *a-* (use negating verbal form instead)
+   - Compound formation and reduplication as native Dravidian strategies
+
+2. **A–Z Dictionary** (~370 pages): English headwords with Kannada equivalents + example sentences
+   - Format: `[English word]` / `[PoS: ಕ್ರಿ=verb, ನಾ=noun, ಗು=adj]` / `[Kannada equivalent(s)]` / `(example sentences)`
+
+---
+
+## KEY WORD-FORMATION EXAMPLES
+
+| English concept | Native Kannada | Root |
+|----------------|---------------|------|
+| knowledge | ಅರಿವು, ಅರಿಮೆ, ಅರಿತ, ಅರಿಕೆ, ಅರಿಹ | ಅರಿ (to know) |
+| science | ಅರಿಮೆ | ಅರಿ |
+| patience | ತಾಳ್ಮೆ | ತಾಳ್ (to endure) |
+| trust | ನಂಬಿಕೆ | ನಂಬ್ (to believe) |
+| death | ಸಾವು | ಸಾ (to die) |
+| dance | ಕುಣಿತ | ಕುಣಿ (to dance) |
+| miscarriage | ಮಯ್ಯಿಳಿತ, ಬಸಿರಿಳಿತ | native compounds |
+| zoo | ಉಸುರಿಮನೆ | ಉಸಿರು (breath/life) + ಮನೆ (house) |
+| zoology | ಉಸಿರಿಯರಿಮೆ | ಉಸಿರಿ + ಅರಿಮೆ |
+
+---
+
+## REPOSITORY SOURCE
+
+**Raw OCR text:** `book/kn/raw.md` — 2.8M chars; source from a Baraha-font PDF with CID-encoded glyphs.
+
+**Decoded dictionary:** `book/kn/full.md` — **12,121 entries fully decoded to Unicode Kannada** (Phase 27, 2026-03-23). All `(cid:N)` glyph tokens resolved via three-range CID offset rule + Baraha cp1252 → wx_decode pipeline. Only 2 spurious OCR-artifact headwords remain garbled; all genuine dictionary entries are clean. Entry format: `**headword** — [PoS] Kannada equivalents (example sentences)`.
+
+**English summary:** `book/en/summary.md` — methodology overview, word-formation tables, sample entries.
+
+**Note:** No Eke file (dictionary length makes full romanisation impractical).
+
+---
+
+## CONNECTIONS TO OTHER BOOKS
+
+- **Book 15** (*Inglish Kannada Padanerake*, 2015): the collaborative, comprehensive A–Z successor
+- **Book 14** (*Nijakku Halegannada Vyākarana Entahadu*): grammar framework underlying the suffix system documented here
+- **Book 30** (*Kannadavannu Saripaḍisōṇa*): the script reform companion — Book 31 is written throughout in Bhat's *hosa baraha* script
+- **Book 08** (*Kannadakke Mahāprāṇa Yāke Bēḍa*): the *mahāprāṇa* argument — all headwords in this dictionary avoid aspirated consonants in their Kannada equivalents
+
+---
+
+## INSTRUCTIONS FOR ANSWERING QUESTIONS
+
+1. **Book 31 is a dictionary** — when asked about a specific English word, look it up in `book/kn/full.md` (12,121 entries fully decoded to Unicode).
+2. When asked about word-formation methodology, draw on the Preface/Introduction (~120 pages): native suffix system (-gAra, -ALi, -ke/-ike, -ge/-ige, -ta, -vu/-pu/-hu, -me, -ha), negation without *a-*, compound formation.
+3. When asked about the difference between Books 31 and 15, note: Book 31 (2008, solo, 487pp) is the earlier curated selection; Book 15 (2015, collaborative, 730pp) is the comprehensive A–Z successor.
+4. Entry format in the dictionary: `**headword** — [PoS] Kannada equivalents (example sentences)`.
+5. **Chapter pages (Phase 32):** `book/kn/full.md` now has `<a id="chN">` anchors before each letter section (A=ch1 through W=ch19, 19 chapters total). CI generates `ch1.md`…`ch19.md` + `ch0.md` index. Access via chapter page links.
+6. Always note that this book uses *hosa baraha* reformed orthography throughout: aspirated consonants in native Kannada equivalents are systematically avoided.
+
+
+---
+
 ## Book 32 — 32-the-prominence-of-tense-aspect-and-mood
 
 # Claude Prompt — Book 32: The Prominence of Tense, Aspect and Mood
@@ -905,60 +1001,4 @@ The clean digital PDF (`the-prominence-of-tense-aspect-and-mood_compress.pdf`) i
 - **Book 14** (*Nijakku Halegannada Vyākarana Entahadu*): the grammar implication — Old Kannada grammar should use tense-based categories, not Sanskrit mood-based ones
 - **Book 02** (*Kannada Nuḍiya Oḷaracane*): structural analysis of Kannada — the tense-prominence framework applied to Kannada sentence structure
 - **Book 18** (*Kannada Nuḍiya Bagege Cintane*): popular-audience version of these arguments
-
-
----
-
-## Book 33 — 33-kannaDa-sollarime
-
-# Claude Prompt — Book 33: ಕನ್ನಡ ಸೊಲ್ಲರಿಮೆ
-
-**English title:** Grammar of Kannada
-**Author:** D. N. Shankara Bhat
-**Language:** Kannada
-**Read by:** Malati Bhat (YouTube series)
-**Pages:** Unknown · **PDF:** Not available
-
----
-
-## THESIS
-
-A self-contained Kannada grammar — distinct from Bhat's major 7-volume work *ಕನ್ನಡ ಬರಹದ ಸೊಲ್ಲರಿಮೆ* (Book 07, *Grammar of Kannada Writing*). The title omits "baraha" (writing), suggesting this may be a shorter or earlier general grammar of spoken and written Kannada, or a popular/abridged presentation of the same framework.
-
-**Relationship to other books:**
-- **Book 07** (*kannaDa barahada sollarime*, 7 vols): the comprehensive technical grammar — has PDFs for vols 1+2
-- **Book 01** (*idu kannaDaddE vyAkaraNa*): 2021 single-volume consolidation of Book 07
-
-The precise relationship between Book 33 and Books 01/07 is uncertain without the text.
-
----
-
-## TRANSCRIPT STATUS
-
-**Source:** YouTube lecture series, 23 parts (P1, P2, Parts 1–21)
-**Quality:** ⚠️ Mostly garbled live-lecture auto-captions
-
-| Parts | Status |
-|-------|--------|
-| P1, P2 | Garbled / unavailable |
-| Parts 1–21 | ~14 unavailable; readable parts have keyword-level signals only |
-
----
-
-## REPOSITORY SOURCE
-
-**YouTube transcript (Kannada):** `youtube/kn/full.md` — 23 parts, 420 lines
-**English summary:** `youtube/en/summary.md` — quality assessment + available content
-
-**No book text available** — no PDF, no OCR, no blog posts known.
-
----
-
-## CONNECTIONS TO OTHER BOOKS
-
-| Book | Connection |
-|------|-----------|
-| [07 — kannaDa barahada sollarime](../07-kannaDa-barahada-sollarime/) | The comprehensive 7-volume grammar with same framework; has PDFs for vols 1+2 |
-| [01 — idu kannaDaddE vyAkaraNa](../01-idu-kannaDaddE-vyAkaraNa/) | 2021 consolidation of Book 07's 7 volumes |
-| [28 — kannaDakke bEku kannaDaddE vyAkaraNa](../28-kannaDakke-bEku-kannaDaddE-vyAkaraNa/) | Earlier (2000/2013) shorter grammar — possibly the predecessor to both 33 and 07 |
 

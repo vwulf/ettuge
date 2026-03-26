@@ -1920,13 +1920,19 @@ ettuge/
 
 ## Active Development
 
-### Current Status (as of 2026-03-23, Phase 26)
+### Current Status (as of 2026-03-25, Phase 32)
 
-All 33 DNS Bhat books have been catalogued; books 30–33 now have content files. Key milestones:
+All 33 DNS Bhat books have been catalogued; books 30–33 now have content files. Grammar section added with illustrated verb paradigm pages. CI chapter splitter generates paginated chapter pages for all books. Key milestones:
 
+- **Phase 32 (2026-03-25):** Book 14 `raw.md` cleaned — 587 lines of Internet Archive HTML chrome (nav bars, SVG icons, banners) removed from top; content now starts cleanly at `# Full text of "..."`. Chapter splitter CI step added to `pages.yml`: walks all `docs/kannaDa/dnsbhat/*/book/*/full.md`, splits at `<a id="(?:ch|adhyAya-)(\d+)">` anchors, generates `ch0.md` (preamble + TOC + chapter nav) + `ch1.md`…`chN.md` per chapter. Sidebar CANDIDATES updated so `ch0.md` is the entry point (lightweight TOC index for slow connections). Chapter anchors added: Book 27 (5 `chN` aliases after `part-N`), Book 31 (19 `chN` before `## LETTER` headings A–W), Book 07 vol4 (`ch9` before `sec-9-1`, `ch10` before `sec-10-1`).
+- **Phase 31 (2026-03-25):** PROJECT-RECAP.md TBD cleanup — 3 completed High-priority items removed (Deep TOC anchors Phase 19, Markdown headings Phase 18, word-per-line OCR artifact Phase 18); "Expand Eke home page description" done item removed.
+- **Phase 30 (2026-03-25):** Books, FP/Haskell, and self-reflection sections published to GitHub Pages with full sidebar integration (L1 roots at nav_order 4/5/6).
+- **Phase 29 (2026-03-25):** Grammar section added at `src/main/md/kannada/grammar/`. Three verb paradigm pairs: `iru-verb-paradigm.md` + `iru-illustrated.html`, `mADu-verb-paradigm.md` + `mADu-illustrated.html`, `illa-verb-paradigm.md` + `illa-illustrated.html`. Cross-navigation between all three illustrated pages (prev/next banners). Compound forms notes added (ಕೂಡಿಕೆ ರೂಪ: `mADihanu` = converb + emphatic `ಹನು`; `mADalAre` = purpose converb + defective aux `ಆರು`). Root redirect stubs at grammar folder index.
+- **Phase 28 (2026-03-24):** ಕನ್nnaDa L1 sidebar root restructured: DNS Bhat/Eke/Grammar as L2; Books/Blog/YouTube/Stubs as L3 under DNS Bhat. Mixed-script `ಕನ್nnaDa` header text normalized (562 replacements). Eke motivation section rewritten: symbol complexity table (46 symbols vs Devanagari's 47), q/Q for vocalic ḷ/ḹ documented, `:` and `^` as dialect modifiers clarified. Script history Tamil-Brāhmī lineage clarified.
+- **Phase 27 (2026-03-23):** Book 31 (*ಇಂಗ್ಲಿಶ್ ಪದಗಳಿಗೆ ಕನ್ನಡದ್ದೇ ಪದಗಳು*, 487pp Baraha A–Z dictionary) fully decoded. Cracked the three-range CID offset rule (≤96:+31, 97–114:+57, 115+:+61), resolved ±/¯/³ Baraha char ambiguities, and implemented `preprocess_baraha()` + `postprocess()` pipeline around wx_decode. Result: 12,121 entries, only 2 OCR-artifact garbled (down from 5,411 garbled + 495 partial). Batch decode script saved at `/tmp/decode_book31_batch.py`.
 - **Phase 26 (2026-03-23):** Book 07 (*ಕನ್ನಡ ಬರಹದ ಸೊಲ್ಲರಿಮೆ*) Vols 3 and 4 fully processed. Generated from PDF via Baraha→Unicode OCR with Python cleanup script: vol3/kn/full.md (ch7–8, verbal arguments + alternations), vol3/eke/full.md, vol3/en/summary.md; vol4/kn/full.md (ch9–10, pronouns + demonstratives), vol4/eke/full.md, vol4/en/summary.md. Multi-volume index book/kn/full.md updated. All four syntax chapters now have full 3-file sets.
 - **Phase 25 (2026-03-22):** Split Book 33 (*ಕನ್ನಡ ಸೊಲ್ಲರಿಮೆ*) out of Book 07's folder — the YouTube transcript was mis-shelved there. Added youtube/en/summary.md + claude-prompt.md for all 6 YouTube-only books (01, 06, 10, 11, 12, 13). All 33 books now have claude-prompt.md.
-- **Phase 24 (2026-03-22):** Added books 30, 31, 32 from PDF extraction. Book 30 (382pp Nudi): full 4-file set (raw.md, full.md with 10-chapter TOC, en/summary.md, eke/full.md) via wx_decode.py. Book 31 (487pp Nudi, A–Z dictionary): book/kn/raw.md + book/en/summary.md; English headwords partially garbled. Book 32 (214pp clean English, John Benjamins): book/en/summary.md. claude-prompt.md created for all three. dnsbhat/README.md updated with collection stats (25→32 total books across sections A–L).
+- **Phase 24 (2026-03-22):** Added books 30, 31, 32 from PDF extraction. Book 30 (382pp Nudi): full 4-file set (raw.md, full.md with 10-chapter TOC, en/summary.md, eke/full.md) via wx_decode.py. Book 31 (487pp Nudi, A–Z dictionary): book/kn/raw.md + book/en/summary.md; initial full.md had 5,411 garbled entries (now fixed in Phase 27). Book 32 (214pp clean English, John Benjamins): book/en/summary.md. claude-prompt.md created for all three. dnsbhat/README.md updated with collection stats (25→32 total books across sections A–L).
 - **Phase 23 (2026-03-21):** Blog sidebar fallback fixed (Books 14, 18 now appear). Stubs sidebar category added — 16 YouTube placeholder files reclassified out of the YouTube sidebar. Books 02 and 03 YouTube transcripts enriched with link + 60-word excerpt cross-references to matching blog/book sections (Books 02: 10 Parts; Book 03: 33 of 55 Parts), using `#sec-N-M` anchors from Phase 19.
 - **Phase 22 (2026-03-21):** YouTube transcript restructuring for all books 01–13: `## Part N` → `### Part N`, `<a id="part-N">` anchors, ~80-word paragraph breaks, garbage detection, ಪರಿವಿಡಿ TOC. Book 03 additionally restructured with 9-chapter grouping matching the book's chapter structure.
 - **Phase 21 (2026-03-20):** GitHub Pages nested source-first sidebar (Books / Blog / YouTube / Stubs) generated via 6-pass Python script in CI. All 404s fixed after taxonomy migration.
@@ -1946,15 +1952,19 @@ All translation work must follow DNS Bhat's native Kannada word formation system
 
 ### DNS Bhat Book File Structure
 
-Each book directory contains:
-| File pattern | Content |
+Each book directory uses the Phase-20 4-level taxonomy (`source/lang/type.md`):
+| Path pattern | Content |
 |-------------|---------|
-| `NN-slug-book.md` or `NN-slug.md` | Raw OCR archive — do NOT edit |
-| `NN-slug-kn.md` | Structured Kannada source: paragraph breaks, TOC, `<a id="adhyAya-N">` anchors |
-| `NN-slug-en.md` | Chapter-wise English summary with cross-links to kn.md anchors |
-| `NN-slug-kn-eke.md` | Eke romanisation matching kn.md section structure |
-| `NN-slug-claude-prompt.md` | Condensed prompt context for Claude sessions |
-| `README.md` | Book-level index (rendered on GitHub) |
+| `book/kn/raw.md` or `book/kn/full.md` | Structured Kannada source (do NOT use old `NN-slug-kn.md`) |
+| `book/en/summary.md` | Chapter-wise English summary |
+| `book/eke/full.md` | Eke romanisation |
+| `web/kn/raw.md` | Blog/web Kannada source |
+| `web/en/summary.md` | Blog English summary |
+| `web/eke/full.md` | Blog Eke romanisation |
+| `youtube/kn/full.md` | YouTube transcript (Kannada) |
+| `youtube/en/summary.md` | YouTube English summary |
+| `claude-prompt.md` | Condensed prompt context for Claude sessions |
+| `README.md` | Book-level index (rendered on GitHub Pages as `index.md`) |
 
 **Citation quote convention (Phase 17):** All DNS Bhat typographic `` `word` `` quotes are standardised to curly single quotes `'word'` (U+2018 open, U+2019 close) in kn.md and kn-eke.md files. Do not use backtick as open-quote.
 
@@ -2061,11 +2071,14 @@ Located in `src/main/md/self-reflection/`:
 ## GitHub Pages / Jekyll
 
 The `docs/` directory is served at https://vwulf.github.io/ettuge/ via GitHub Pages with Jekyll.
-- `docs/dnsbhat/` — per-book `.html` pages (generated from kn.md, en.md, kn-eke.md sources in `src/`)
-- `docs/dnsbhat/PROJECT-RECAP.md` — full phased project history
+- `docs/kannaDa/dnsbhat/` — per-book pages (generated from src/ into `docs/kannaDa/` by CI)
+- `docs/kannaDa/eke/` — Eke romanisation reference pages (generated from `src/main/md/kannada/eke/`)
+- `docs/dnsbhat/PROJECT-RECAP.md` — full phased project history (canonical; serves at /dnsbhat/PROJECT-RECAP)
 - `docs/claude-project-instructions.md` — combined CLAUDE.md + skills for Claude.ai Projects (phone-accessible)
-- `_config.yml` — Jekyll config (theme: minima, plugins: jekyll-relative-links)
+- `docs/_config.yml` — Jekyll config (theme: just-the-docs; title: ettuge — Kannada Linguistics)
 - Do not commit generated HTML directly — Jekyll builds from `.md` source on push.
+- **Sidebar structure (Phase 28):** `DNS Bhat` (L1 root, nav_order=2) → `Books`/`Blog`/`YouTube`/`Stubs` (L2) → `ಕನ್ನಡ`/`ಏಕೆ`/`English` (L3, grand_parent=DNS Bhat, body=sorted book table); `Eke` (L1 root, nav_order=3) → `Eke Reference`/`Motivation` (L2). Individual book pages and `ಕನ್ನಡ` wrapper nav_excluded. Icons: ಕ (Kannada), 🇮🇳 (Eke), 🇺🇸 (English).
+- Old `/dnsbhat/` URLs redirect automatically via `redirect_from:` front matter in each file.
 
 ---
 
@@ -2116,8 +2129,8 @@ Eke is the romanisation used in all `-kn-eke.md` files. Full spec: `src/main/md/
 |------|-----------|-------------|-------|
 | Anusvara ಂ | `M` (HK) | Assimilated nasal+C: `nk ng nc nT nD nt nd mp mb ms my mv` | **Never standalone M** |
 | N (retroflex ಣ) | `liNga`, `tuNDu` | `linga`, `tunDu` | N = exclusively ಣ; never anusvara before stop consonants |
-| ರ vs ಱ | `vaRNa`, `sRiSTi` | `varNa`, `sxSTi` | Lowercase `r` = ರ always; `R` = exclusively rare ಱ |
-| Vocalic ṛ ಋ/ೃ | `samskrita`, `sriSTi`, `kRi`→`kri` | `samskxta`, `sxSTi`, `kx` | `x` = ಋ/ೃ (short); `X` = ೠ/ೄ (long, rare) |
+| ರ vs ಱ | `vaRNa`, `sRiSTi` | `varNa`, `sxShTi` | Lowercase `r` = ರ always; `R` = exclusively rare ಱ |
+| Vocalic ṛ ಋ/ೃ | `samskrita`, `sriSTi`, `kRi`→`kri` | `samskxta`, `sxShTi`, `kx` | `x` = ಋ/ೃ (short); `X` = ೠ/ೄ (long, rare) |
 
 **Safe / do not change:** `kriyA`, `krutaka`, `krulling` — these use genuine consonant ರ + ಉ/ಇ, not vocalic ṛ.
 
@@ -2157,6 +2170,15 @@ These were OCR'd via WX transliteration → Devanagari → Kannada pipeline. Key
 
 ### TOC structure
 All kn.md files have a ಪರಿವಿಡಿ/ಒಳಪಿಡಿ table at the top linking to `<a id="adhyAya-N">` anchors. All books with kn.md (02, 03, 07-vol1, 07-vol2, 08, 14, 17, 25, 27, 28, 29) now have deep `<a id="sec-N-M">` and `<a id="sub-N-M-K">` anchors (Phase 19). The TOC in each book lists all levels (chapter → section → subsection).
+
+### Chapter pages (Phase 32)
+The CI step in `pages.yml` walks all `docs/kannaDa/dnsbhat/*/book/*/full.md` and generates paginated chapter pages at build time:
+- `ch0.md` — preamble + ಪರಿವಿಡಿ TOC with `#chN` links rewritten to page-relative `chN` links + chapter quick-nav bar; front matter: `nav_exclude: true`
+- `ch1.md`…`chN.md` — one per chapter anchor; nav banner with ← Contents / → Next
+- Sidebar CANDIDATES: `book/kn/ch0.md` takes priority over `book/kn/full.md` so the lightweight index loads first on slow connections
+- Books with ≥2 chapter anchors get split; single-chapter files are skipped
+- Chapter anchor formats recognised: `<a id="chN">` and `<a id="adhyAya-N">`
+- All books with `book/kn/full.md` (03, 07vol1–vol4, 08, 14, 17, 25, 27, 28, 29, 30, 31) now have chapter anchors
 
 ### Cross-link convention (Phase 19)
 After every `<a id="sec-N-M">` or `<a id="sub-N-M-K">` anchor, insert a cross-link on its own line:
@@ -2199,14 +2221,16 @@ This directory contains the PRIMARY linguistic work for the ettuge project.
 
 ## Subdirectories
 
-### `dnsbhat/` — DNS Bhat Book Collection (29 books, numbered 01–29)
-Each book directory follows this file structure:
-- `*-book.md` / `*-blog.md` — Raw OCR archive (do NOT edit)
-- `*-kn.md` — Structured Kannada source: paragraph breaks, ಪರಿವಿಡಿ TOC, `<a id="adhyAya-N">` anchors
-- `*-kn-eke.md` — Eke romanisation (regenerate after kn.md changes)
-- `*-en.md` — Chapter-wise English summary with kn.md cross-links
-- `*-claude-prompt.md` — Condensed prompt for Claude sessions
-- `README.md` — Book index
+### `dnsbhat/` — DNS Bhat Book Collection (33 books, numbered 01–33)
+Each book directory uses the Phase-20 4-level taxonomy (`source/lang/type.md`):
+- `book/kn/raw.md` or `book/kn/full.md` — Structured Kannada source (do NOT use old `*-kn.md` names)
+- `book/eke/full.md` — Eke romanisation (regenerate after kn changes)
+- `book/en/summary.md` — Chapter-wise English summary
+- `youtube/kn/full.md` — YouTube transcript (Kannada, with ಪರಿವಿಡಿ TOC and `<a id="part-N">` anchors)
+- `claude-prompt.md` — Condensed prompt for Claude sessions
+- `README.md` — Book index (serves as Jekyll page)
+
+**Chapter pages (Phase 32):** CI generates `ch0.md` (index) + `ch1.md`…`chN.md` per chapter from `<a id="chN">` / `<a id="adhyAya-N">` anchors in `full.md`. Sidebar links to `ch0.md` as the entry point (lightweight for slow connections).
 
 **Citation quotes:** Standardised to curly single quotes `'word'` (U+2018/U+2019) in kn.md and kn-eke.md. Never use backtick as open-quote.
 **Unrounded-u:** `u^` in kn-eke.md = ಉ್ (Havyaka phoneme) — do not alter.

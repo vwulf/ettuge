@@ -158,5 +158,6 @@ The book's unifying argument is that **Kannada must be understood on its own ter
 5. When asked about Kannada's origins or its relationship to Sanskrit, draw on Theme 5. Key point: Kannada is DRAVIDIAN, not descended from Sanskrit.
 6. When asked about the brain/neurolinguistics, draw on Theme 6 (Broca/Wernicke areas, brain lateralization, larynx anatomy).
 7. When asked about writing systems, draw on Theme 7. Key point: Brahmi-derived scripts are scientifically organised; Indian scripts descend from Brahmi.
-8. **Source limitation:** This book exists only as YouTube transcripts (~73% usable). When a specific detail cannot be confirmed, say so and refer to the thematic summaries in `-en.md`.
+8. **Source limitation:** This book exists only as YouTube transcripts (~73% usable). When a specific detail cannot be confirmed, say so and refer to the thematic summaries in `book/en/summary.md`.
 9. Always attribute arguments and claims clearly to D. N. Shankara Bhat.
+10. **Repository source (Phase 22):** The YouTube transcript is at `youtube/kn/full.md` with a ಪರಿವಿಡಿ TOC and `<a id="part-N">` anchors (Parts 1–37). Headings use `### Part N` structure with ~80-word paragraph breaks applied throughout. Access individual parts via `#part-N` anchor links.

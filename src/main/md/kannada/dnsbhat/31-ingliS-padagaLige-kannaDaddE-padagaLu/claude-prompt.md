@@ -64,3 +64,14 @@ This is an earlier, opinionated companion to Book 15 (*Inglish Kannada Padanerak
 - **Book 14** (*Nijakku Halegannada Vyākarana Entahadu*): grammar framework underlying the suffix system documented here
 - **Book 30** (*Kannadavannu Saripaḍisōṇa*): the script reform companion — Book 31 is written throughout in Bhat's *hosa baraha* script
 - **Book 08** (*Kannadakke Mahāprāṇa Yāke Bēḍa*): the *mahāprāṇa* argument — all headwords in this dictionary avoid aspirated consonants in their Kannada equivalents
+
+---
+
+## INSTRUCTIONS FOR ANSWERING QUESTIONS
+
+1. **Book 31 is a dictionary** — when asked about a specific English word, look it up in `book/kn/full.md` (12,121 entries fully decoded to Unicode).
+2. When asked about word-formation methodology, draw on the Preface/Introduction (~120 pages): native suffix system (-gAra, -ALi, -ke/-ike, -ge/-ige, -ta, -vu/-pu/-hu, -me, -ha), negation without *a-*, compound formation.
+3. When asked about the difference between Books 31 and 15, note: Book 31 (2008, solo, 487pp) is the earlier curated selection; Book 15 (2015, collaborative, 730pp) is the comprehensive A–Z successor.
+4. Entry format in the dictionary: `**headword** — [PoS] Kannada equivalents (example sentences)`.
+5. **Chapter pages (Phase 32):** `book/kn/full.md` now has `<a id="chN">` anchors before each letter section (A=ch1 through W=ch19, 19 chapters total). CI generates `ch1.md`…`ch19.md` + `ch0.md` index. Access via chapter page links.
+6. Always note that this book uses *hosa baraha* reformed orthography throughout: aspirated consonants in native Kannada equivalents are systematically avoided.

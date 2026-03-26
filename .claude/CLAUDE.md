@@ -77,6 +77,15 @@ These were OCR'd via WX transliteration → Devanagari → Kannada pipeline. Key
 ### TOC structure
 All kn.md files have a ಪರಿವಿಡಿ/ಒಳಪಿಡಿ table at the top linking to `<a id="adhyAya-N">` anchors. All books with kn.md (02, 03, 07-vol1, 07-vol2, 08, 14, 17, 25, 27, 28, 29) now have deep `<a id="sec-N-M">` and `<a id="sub-N-M-K">` anchors (Phase 19). The TOC in each book lists all levels (chapter → section → subsection).
 
+### Chapter pages (Phase 32)
+The CI step in `pages.yml` walks all `docs/kannaDa/dnsbhat/*/book/*/full.md` and generates paginated chapter pages at build time:
+- `ch0.md` — preamble + ಪರಿವಿಡಿ TOC with `#chN` links rewritten to page-relative `chN` links + chapter quick-nav bar; front matter: `nav_exclude: true`
+- `ch1.md`…`chN.md` — one per chapter anchor; nav banner with ← Contents / → Next
+- Sidebar CANDIDATES: `book/kn/ch0.md` takes priority over `book/kn/full.md` so the lightweight index loads first on slow connections
+- Books with ≥2 chapter anchors get split; single-chapter files are skipped
+- Chapter anchor formats recognised: `<a id="chN">` and `<a id="adhyAya-N">`
+- All books with `book/kn/full.md` (03, 07vol1–vol4, 08, 14, 17, 25, 27, 28, 29, 30, 31) now have chapter anchors
+
 ### Cross-link convention (Phase 19)
 After every `<a id="sec-N-M">` or `<a id="sub-N-M-K">` anchor, insert a cross-link on its own line:
 - In kn.md: `[Eke →](./SLUG-kn-eke#sec-N-M)` or `[Eke →](./SLUG-kn-eke#sub-N-M-K)`

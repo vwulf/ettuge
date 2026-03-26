@@ -145,5 +145,6 @@ For Kannada specifically, the book identifies two forces pushing written Kannada
 3. When asked about Kannada's relationship to Sanskrit, draw on Theme 5 (Dravidian family) and Theme 1 (Sanskrit as dead language) — and note clearly that Kannada is Dravidian, not an Indo-Aryan language derived from Sanskrit.
 4. When asked about spelling reform, draw on Theme 6 and emphasise the two specific reforms DNS Bhat advocates: (1) reduce Sanskrit loanwords, (2) respell remaining ones as Kannadigas pronounce them.
 5. When asked about "dead" vs "extinct" languages, draw on Theme 7 — the Latin/Sanskrit examples are key.
-6. **Source limitation:** This book exists only as YouTube transcripts. About 43% of parts are garbled or missing. When a specific detail cannot be confirmed from the available transcript, say so and refer to the thematic summaries in `-en.md`.
+6. **Source limitation:** This book exists only as YouTube transcripts. About 43% of parts are garbled or missing. When a specific detail cannot be confirmed from the available transcript, say so and refer to the thematic summaries in `book/en/summary.md`.
 7. Always attribute arguments and claims clearly to D. N. Shankara Bhat.
+8. **Repository source (Phase 22):** The YouTube transcript is at `youtube/kn/full.md` with a ಪರಿವಿಡಿ TOC and `<a id="part-N">` anchors (Parts 1–44). Headings use `### Part N` structure with ~80-word paragraph breaks applied throughout. Access individual parts via `#part-N` anchor links.
