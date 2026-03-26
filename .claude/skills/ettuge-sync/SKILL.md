@@ -16,10 +16,22 @@ description: >
 # Ettuge Sync
 
 Keeps all Claude context files current after a phase of work in the ettuge repository.
-Three outputs matter to users who access the project from claude.ai (phone/web):
-- `docs/claude-project-instructions.md` — skills + CLAUDE.mds + per-book READMEs (≤200k chars)
-- `docs/claude-book-primers-1.md` — deep book content, part 1 (≤200k chars)
-- `docs/claude-book-primers-2.md` — deep book content, part 2 (≤200k chars)
+Files that matter to users who access the project from claude.ai (phone/web):
+
+**Index (paste into claude.ai Project Instructions):**
+- `docs/claude-project-instructions.md` — short index with per-skill fetch URLs (≤5k chars)
+
+**Skills (fetched on demand — each under 25k chars):**
+- `docs/skills/01-word-coiner.md` — ellara-kannada-word-coiner skill
+- `docs/skills/02-morphology.md` — kannada-morphology skill
+- `docs/skills/03-book-summarizer.md` — dns-bhat-book-summarizer skill
+- `docs/skills/04-transcript-summarizer.md` — dns-bhat-transcript-summarizer skill
+- `docs/skills/05-ocr-cleaner.md` — kannada-ocr-cleaner skill
+- `docs/skills/06-agents-and-context.md` — agents + all CLAUDE.md repo context (~37k chars)
+
+**Book primers (fetched on demand — each under 200k chars):**
+- `docs/claude-book-primers-1.md` — books 01–25
+- `docs/claude-book-primers-2.md` — books 27–33
 
 Regeneration scripts live in `scripts/` alongside this file — run them with python3, don't rewrite them inline.
 
@@ -124,14 +136,23 @@ This makes all skills available in every Claude Code session, not just in the et
 
 ---
 
-## Step 5 — Regenerate the three docs files
+## Step 5 — Regenerate docs files
 
 ```bash
 python3 /Users/vishwas/code/ettuge/.claude/skills/ettuge-sync/scripts/regen_instructions.py
 python3 /Users/vishwas/code/ettuge/.claude/skills/ettuge-sync/scripts/regen_primers.py
 ```
 
-Verify all three output files are under 200,000 chars (scripts print status). If primers-1
+`regen_instructions.py` generates eight files:
+- `docs/claude-project-instructions.md` — short index (~3k chars)
+- `docs/skills/01-word-coiner.md` through `docs/skills/05-ocr-cleaner.md` — one skill each
+- `docs/skills/06-agents-and-context.md` — agents + CLAUDE.mds (~37k chars)
+
+`regen_primers.py` generates two files:
+- `docs/claude-book-primers-1.md` — books 01–25 (≤200k chars)
+- `docs/claude-book-primers-2.md` — books 27–33 (≤200k chars)
+
+Verify all skill files are under 200,000 chars and primers are under 200,000 chars. If primers-1
 overflows, the greedy split auto-adjusts — check which books moved to primers-2 and update
 the headers in both files to reflect the new split.
 
@@ -145,7 +166,8 @@ Stage all changed files and commit with a descriptive message:
 cd /Users/vishwas/code/ettuge
 git add CLAUDE.md .claude/CLAUDE.md src/main/md/kannada/CLAUDE.md
 git add src/main/md/kannada/dnsbhat/**/*-claude-prompt.md
-git add docs/claude-project-instructions.md docs/claude-book-primers-1.md docs/claude-book-primers-2.md
+git add docs/claude-project-instructions.md docs/skills/
+git add docs/claude-book-primers-1.md docs/claude-book-primers-2.md
 git add .claude/skills/
 git status  # confirm staged files look right before committing
 git commit -m "docs(sync): update Claude context files — Phase N
@@ -172,11 +194,12 @@ Print a summary table so the user knows what changed:
 | `NN-slug-claude-prompt.md` × N | updated (item N added) | — |
 | `CLAUDE.md` × M | updated | — |
 
-Also remind the user: to update their claude.ai Projects, paste the new content from the
-raw GitHub URLs:
+Also remind the user: to update their claude.ai Project Instructions, paste ONLY the new
+index file (it now fits in one fetch — ~3k chars):
 - `https://raw.githubusercontent.com/vwulf/ettuge/master/docs/claude-project-instructions.md`
-- `https://raw.githubusercontent.com/vwulf/ettuge/master/docs/claude-book-primers-1.md`
-- `https://raw.githubusercontent.com/vwulf/ettuge/master/docs/claude-book-primers-2.md`
+
+The per-skill files and book primers are fetched on demand via the URLs listed in the index;
+they do NOT need to be pasted into Project Instructions.
 
 ---
 
