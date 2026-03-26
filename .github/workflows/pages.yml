@@ -147,6 +147,21 @@ jobs:
               with open(os.path.join(os.path.dirname(fp), 'ch0.md'), 'w', encoding='utf-8') as f:
                   f.write(out)
 
+          def toc_title_map(body):
+              """Build {ch_num: title} from TOC links like [ಅಧ್ಯಾಯ 1 — ಪೀಠಿಕೆ](#adhyAya-1)."""
+              result = {}
+              toc_re = re.compile(r'\[([^\]]+)\]\(#(?:adhyAya-|ch)(\d+)\)')
+              for m in toc_re.finditer(body):
+                  n = int(m.group(2))
+                  if n not in result:
+                      t = m.group(1).strip()
+                      # Strip "ಅಧ್ಯಾಯ N — " or "Chapter N — " prefixes
+                      t = re.sub(r'^(?:ಅಧ್ಯಾಯ|Chapter)\s+\S+\s*[—\u2013-]\s*', '', t).strip()
+                      t = re.sub(r'^\d+[.\s]+', '', t).strip()
+                      if t:
+                          result[n] = t
+              return result
+
           def split_file(fp):
               with open(fp, encoding='utf-8') as f:
                   text = f.read()
@@ -157,10 +172,11 @@ jobs:
               out_dir = os.path.dirname(fp)
               n = len(positions)
               make_index(fp, positions, body)
+              toc_map = toc_title_map(body)
               for i, (chnum, start) in enumerate(positions):
                   end = positions[i+1][1] if i+1 < n else len(body)
                   ch_body = body[start:end].strip()
-                  title = first_heading(ch_body)
+                  title = first_heading(ch_body) or toc_map.get(chnum, '')
                   title_str = f'Ch {chnum}' + (f' \u2014 {title}' if title else '')
                   prev_nav = (f'[\u2190 Ch {positions[i-1][0]}](ch{positions[i-1][0]})'
                               if i > 0 else '[\u2191 Contents](ch0)')
