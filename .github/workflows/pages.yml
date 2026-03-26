@@ -179,7 +179,7 @@ jobs:
               for i, (chnum, start) in enumerate(positions):
                   end = positions[i+1][1] if i+1 < n else len(body)
                   ch_body = body[start:end].strip()
-                  title = first_heading(ch_body) or toc_map.get(chnum, '')
+                  title = toc_map.get(chnum, '') or first_heading(ch_body)
                   title_str = f'Ch {chnum}' + (f' \u2014 {title}' if title else '')
                   prev_nav = (f'[\u2190 Ch {positions[i-1][0]}](ch{positions[i-1][0]})'
                               if i > 0 else '[\u2191 Contents](ch0)')
