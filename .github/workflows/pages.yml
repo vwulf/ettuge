@@ -101,7 +101,10 @@ jobs:
                   # Strip inline Markdown links/bold, anchors, Eke cross-links
                   h = re.sub(r'\[([^\]]+)\]\([^)]*\)', r'\1', m.group(1))
                   h = re.sub(r'\*+([^*]+)\*+', r'\1', h)
-                  return h.strip()
+                  h = h.strip()
+                  # Strip leading chapter-number prefixes like "1. " or "೧. "
+                  h = re.sub(r'^[\d\u0CE6-\u0CEF]+[.\s]+', '', h).strip()
+                  return h
               return ''
 
           def jekyll_anchor(heading):
