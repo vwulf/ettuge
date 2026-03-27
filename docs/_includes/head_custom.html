@@ -1,1 +1,21 @@
 <script src="//instant.page/5.2.0" type="module" integrity="sha384-jnZyxPjiipYXnSU0ygqeac2q7CVYMbh84q0uHVRRxEtvFPiQYbXWUorga2aqZJ0z"></script>
+<style>
+/* Allow Pagefind results panel to appear below the sticky header */
+#main-header { overflow: visible; }
+
+/* Position global search results as an absolute dropdown */
+#pf-global { position: relative; }
+#pf-global .pagefind-ui__results-area {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  min-width: 320px;
+  max-height: 70vh;
+  overflow-y: auto;
+  background: var(--body-background-color, #fff);
+  border: 1px solid var(--border-color, #eeebee);
+  border-radius: 4px;
+  box-shadow: 0 4px 12px rgba(0,0,0,.12);
+  z-index: 200;
+}
+</style>

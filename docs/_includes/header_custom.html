@@ -10,17 +10,21 @@
   </div>
 </div>
 
-{% comment %} Section filter tags for Pagefind indexing (per-page, body-visible) {% endcomment %}
+{% comment %}
+  Section filter tags for Pagefind indexing.
+  Must NOT use hidden/display:none/aria-hidden — Pagefind skips those.
+  Use sr-only visual hiding instead (position:absolute, 1px, clipped).
+{% endcomment %}
 {% if page.url contains '/kannaDa/dnsbhat/' %}
-<span data-pagefind-filter="section[DNS Bhat]" hidden></span>
+<span data-pagefind-filter="section[DNS Bhat]" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;"></span>
 {% elsif page.url contains '/Reflection/' %}
-<span data-pagefind-filter="section[Reflection]" hidden></span>
+<span data-pagefind-filter="section[Reflection]" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;"></span>
 {% elsif page.url contains '/FP/' %}
-<span data-pagefind-filter="section[FP]" hidden></span>
+<span data-pagefind-filter="section[FP]" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;"></span>
 {% elsif page.url contains '/kannaDa/eke/' %}
-<span data-pagefind-filter="section[Eke]" hidden></span>
+<span data-pagefind-filter="section[Eke]" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;"></span>
 {% else %}
-<span data-pagefind-filter="section[General]" hidden></span>
+<span data-pagefind-filter="section[General]" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;"></span>
 {% endif %}
 
 <script>
