@@ -56,6 +56,9 @@
         if (gl) {
           gl.innerHTML = '';
           new PagefindUI({ element: '#pf-global', bundlePath: BASE, showImages: false });
+          /* Re-focus the new input so typing works immediately */
+          var newInp = gl.querySelector('input');
+          if (newInp) newInp.focus();
         }
         /* All DNS Bhat instances (sidebar rendered 3× for mobile/desktop) */
         document.querySelectorAll('.pf-dns-box').forEach(function (el, i) {
