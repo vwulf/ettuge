@@ -4,7 +4,7 @@ description: Native Kannada linguistics — DNS Bhat lecture series, Eke romanis
 theme: just-the-docs
 
 color_scheme: light
-search_enabled: true
+search_enabled: false
 
 aux_links:
   "GitHub":
