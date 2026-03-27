@@ -6,8 +6,10 @@ theme: just-the-docs
 # Custom CSS
 color_scheme: light
 
-# Search
+# Search — lazy-load index (only fetched when user clicks the search box)
 search_enabled: true
+search:
+  button: true
 
 # Aux links in top-right
 aux_links:
