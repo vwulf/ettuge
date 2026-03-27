@@ -734,10 +734,23 @@ jobs:
                   if not os.path.exists(fpath):
                       continue
                   stem = os.path.splitext(fname)[0]
-                  # Always use full file content — ch0 has no preamble for Reflection
-                  # files so it renders as a blank page with only chapter links.
-                  with open(fpath, encoding='utf-8') as f:
-                      body = strip_fm(f.read())
+                  ch0_path = os.path.join(REFLDIR, stem, 'ch0.md')
+                  ch1_path = os.path.join(REFLDIR, stem, 'ch1.md')
+                  if os.path.exists(ch1_path):
+                      # Land on ch1 directly — ch0 is blank for Reflection files
+                      # (no preamble text before the first anchor).
+                      with open(ch1_path, encoding='utf-8') as f:
+                          body = strip_fm(f.read())
+                      # ch0 refs → parent Reflection index; chN refs → stem/chN
+                      body = re.sub(r'\(ch0\)', '(../)', body)
+                      body = re.sub(r'\]\(ch(\d+)\)', lambda m: f']({stem}/ch{m.group(1)})', body)
+                  elif os.path.exists(ch0_path):
+                      with open(ch0_path, encoding='utf-8') as f:
+                          body = strip_fm(f.read())
+                      body = re.sub(r'\]\(ch(\d+)\)', lambda m: f']({stem}/ch{m.group(1)})', body)
+                  else:
+                      with open(fpath, encoding='utf-8') as f:
+                          body = strip_fm(f.read())
                   body = re.sub(r'\]\(((?!http)[^)]+)\.md\)', r'](\1)', body)
                   with open(fpath, 'w', encoding='utf-8') as f:
                       f.write(fm(title=title, parent=REFL_TITLE, nav_order=nav_order))
