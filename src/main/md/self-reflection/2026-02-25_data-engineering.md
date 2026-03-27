@@ -12,6 +12,7 @@ Links, notes, and resources on data pipelines, system design, databases, and dat
 
 ---
 
+<a id="ch1"></a>
 ## System Design
 
 **GitHub - Coder-World04/Complete-System-Design**
@@ -40,6 +41,7 @@ A 38-minute YouTube video by a former Google SWE walking through URL shortener a
 
 Thread by Mike (@cambridgemike) on the technical rearchitecture of X (formerly Twitter) post-acquisition: decomposing the monolith, cutting infrastructure costs dramatically, and restructuring services. Provides an insider perspective on large-scale legacy system migration. **[→ data-engineering; infrastructure-devops]**
 
+<a id="ch2"></a>
 ## APIs & GraphQL
 
 **Why, after 6 years, I'm over GraphQL (bessey.dev)**
@@ -66,6 +68,7 @@ file:///Users/vishwas/Downloads/2022Exactsolvingschedulingproblemsacceleratedbyg
 
 A 2022 research paper on using GNNs to accelerate exact branch-and-bound solvers for scheduling problems. The GNN learns branching heuristics from problem structure, dramatically reducing the search space while preserving optimality guarantees — a hybrid of ML and classical OR. **[→ algorithms-data-structures; machine-learning-ai]**
 
+<a id="ch3"></a>
 ## Spark / Big Data
 
 **Apache Spark (general reference)**
@@ -121,6 +124,7 @@ Notes on DEXA (Dual-Energy X-ray Absorptiometry) scan protocols from DexaFit, a 
 
 ---
 
+<a id="ch4"></a>
 ## From self-1.md (Oct 2024 – Feb 2026)
 
 ### System Design & Distributed Systems

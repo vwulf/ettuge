@@ -40,11 +40,12 @@ A running notebook for functional programming ideas, worked out mostly in Haskel
 
 Personal notes distilled from years of reading, thinking, and bookmarking — exported from a Signal self-channel and organised by topic.
 
-- **[Kannada & Linguistics](Reflection/kannada-language-linguistics)** · **[Indian History & Culture](Reflection/indian-history-culture)** · **[Scala & FP](Reflection/scala-functional-programming)**
-- **[Machine Learning & AI](Reflection/machine-learning-ai)** · **[Mathematics & Science](Reflection/mathematics-science)** · **[Algorithms & Data Structures](Reflection/algorithms-data-structures)**
-- **[Infrastructure & DevOps](Reflection/infrastructure-devops)** · **[Data Engineering](Reflection/data-engineering)** · **[Health & Fitness](Reflection/health-fitness)**
-- **[Books & Literature](Reflection/books-literature)** · **[Arts, Music & Film](Reflection/arts-music-film)** · **[Cricket & Sports](Reflection/cricket-sports)**
-- **[Travel & Outdoors](Reflection/travel-outdoors)**
+- **[Kannada](Reflection/kannada)** · **[Japanese](Reflection/japanese)** · **[Linguistics](Reflection/linguistics)** · **[Sanskrit](Reflection/sanskrit)**
+- **[Indian History & Culture](Reflection/indian-history-culture)** · **[Scala & FP](Reflection/scala-functional-programming)** · **[Machine Learning & AI](Reflection/machine-learning-ai)**
+- **[Mathematics](Reflection/mathematics)** · **[Mathematics & Science](Reflection/mathematics-science)** · **[World History & Archaeology](Reflection/world-history-archaeology)**
+- **[Algorithms & Data Structures](Reflection/algorithms-data-structures)** · **[Infrastructure & DevOps](Reflection/infrastructure-devops)** · **[Data Engineering](Reflection/data-engineering)**
+- **[Health & Fitness](Reflection/health-fitness)** · **[Martial Arts](Reflection/martial-arts)** · **[Books & Literature](Reflection/books-literature)**
+- **[Arts, Music & Film](Reflection/arts-music-film)** · **[Cricket & Sports](Reflection/cricket-sports)** · **[Travel & Outdoors](Reflection/travel-outdoors)**
 
 ---
 

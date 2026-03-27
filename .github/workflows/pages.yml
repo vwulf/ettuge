@@ -734,16 +734,10 @@ jobs:
                   if not os.path.exists(fpath):
                       continue
                   stem = os.path.splitext(fname)[0]
-                  ch0_path = os.path.join(REFLDIR, stem, 'ch0.md')
-                  if os.path.exists(ch0_path):
-                      # Use lightweight chapter-index (preamble + chapter nav) instead of full file
-                      with open(ch0_path, encoding='utf-8') as f:
-                          body = strip_fm(f.read())
-                      # Rewrite relative chapter links to include the subdirectory prefix
-                      body = re.sub(r'\]\(ch(\d+)\)', lambda m: f']({stem}/ch{m.group(1)})', body)
-                  else:
-                      with open(fpath, encoding='utf-8') as f:
-                          body = strip_fm(f.read())
+                  # Always use full file content — ch0 has no preamble for Reflection
+                  # files so it renders as a blank page with only chapter links.
+                  with open(fpath, encoding='utf-8') as f:
+                      body = strip_fm(f.read())
                   body = re.sub(r'\]\(((?!http)[^)]+)\.md\)', r'](\1)', body)
                   with open(fpath, 'w', encoding='utf-8') as f:
                       f.write(fm(title=title, parent=REFL_TITLE, nav_order=nav_order))

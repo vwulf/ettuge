@@ -12,6 +12,7 @@ LeetCode solutions, algorithm resources, and data structure notes from the sourc
 
 ---
 
+<a id="ch1"></a>
 ## Books & Courses
 
 **Algorithms by Jeff Erickson**
@@ -30,6 +31,7 @@ A structured, free self-taught CS degree curriculum organized by the Open Source
 
 A practical repository covering the most important topics and patterns for technical interviews at top companies. Includes data structures, algorithmic patterns, and system design; useful as a structured revision checklist before interviews. **[→ algorithms-data-structures; data-engineering]**
 
+<a id="ch2"></a>
 ## LeetCode Patterns
 
 **Ashish Pratap Singh (@ashishps_1): LeetCode was HARD until I Learned these 15 Patterns**
@@ -62,6 +64,7 @@ A tweet thread with curated, opinionated roadmaps for senior-level software engi
 
 A 38-minute YouTube walkthrough of two classic system design interview questions (URL shortener and paste-bin service) with a former Google SWE. Covers database choice, caching, encoding, and scalability trade-offs in clear interview-ready format. **[→ data-engineering; algorithms-data-structures]**
 
+<a id="ch3"></a>
 ## Knight's Tour
 
 **The Knight's Tour (boraberan.wordpress.com)**
@@ -221,6 +224,7 @@ impl Solution {
 ```
 Runtime 3ms, Beats 25.00%, Memory 2.05MB Beats 66.67%
 
+<a id="ch4"></a>
 ## Concurrency: Dining Philosophers (Java, LeetCode)
 
 **Dining Philosophers — LeetCode**
@@ -317,6 +321,7 @@ A blog post by John D. Cook explaining the core ideas of category theory (compos
 
 ---
 
+<a id="ch5"></a>
 ## From self-1.md (Oct 2024 – Feb 2026)
 
 **Competitive Programming Patterns — Advanced LeetCode**

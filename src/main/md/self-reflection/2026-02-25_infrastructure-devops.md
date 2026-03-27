@@ -12,6 +12,7 @@ Notes, links, and resources on cloud infrastructure, DevOps tools, containers, a
 
 ---
 
+<a id="ch1"></a>
 ## Nix
 
 **The Determinate Nix Installer · Zero to Nix**
@@ -59,6 +60,7 @@ DC Rainmaker's detailed review of Garmin's dedicated heart rate monitor straps f
 
 A thorough explanation of Garmin's Training Load feature — how it calculates acute and chronic training load from heart rate and GPS data, and how the Training Status indicator uses the ratio to assess fitness trajectory. **[→ health-fitness]**
 
+<a id="ch2"></a>
 ## CI / Build Systems
 
 **sbt-assembly**
@@ -124,6 +126,7 @@ Reference to K2's Alexshay protective pad set for inline skating or rollerbladin
 
 ---
 
+<a id="ch3"></a>
 ## From self-1.md (Oct 2024 – Feb 2026)
 
 ### AI Coding Tools & Agents

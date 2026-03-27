@@ -16,6 +16,7 @@ Cricket match commentary, IPL analysis, player profiles, sports statistics, and 
 
 ---
 
+<a id="ch1"></a>
 ## International Cricket — T20
 
 **T20 World Cup 2024 — India vs South Africa Final**
@@ -36,6 +37,7 @@ An ESPNcricinfo opinion piece on Sri Lanka's batting collapse in the 3rd T20I ag
 
 ---
 
+<a id="ch2"></a>
 ## International Cricket — Test
 
 **Australia's Bumrah Problem**
@@ -55,6 +57,7 @@ A sharp ESPNcricinfo opinion piece criticizing India's pitch preparation philoso
 
 ---
 
+<a id="ch3"></a>
 ## IPL
 
 **From the Cricket Community on Reddit: IPL Playoff Probabilities 2025**
@@ -79,6 +82,7 @@ Part 1 of a Cricbuzz long-form retrospective on Royal Challengers Bangalore's IP
 
 ---
 
+<a id="ch4"></a>
 ## Cricket Profiles & Long-Form
 
 **Steve Bucknor Is Still Raising the Finger**

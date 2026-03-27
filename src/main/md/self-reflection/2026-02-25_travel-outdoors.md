@@ -20,6 +20,7 @@ Hiking, adventure sports, travel destinations, local Bay Area food/culture, extr
 
 ---
 
+<a id="ch1"></a>
 ## Grand Canyon & American Southwest
 
 **Havasupai Falls Hike: Ultimate Guide for First Timers**
@@ -73,6 +74,7 @@ A first-person YouTube video of ascending Half Dome's famous steel cable route i
 
 ---
 
+<a id="ch2"></a>
 ## Indian Subcontinent Treks
 
 **Vellarimala, Vavul Mala — A Weekend with the Rain Gods**
@@ -115,6 +117,7 @@ A BBC article about unexplored or unclimbed peaks around the world — mountains
 
 ---
 
+<a id="ch3"></a>
 ## Water & Arctic
 
 **Kayaking Down the ICE WALL (Extreme Arctic Waterfall)**
@@ -147,6 +150,7 @@ A BBC Travel piece on a new 109-kilometre hiking trail in the Canadian Rockies, 
 
 ---
 
+<a id="ch4"></a>
 ## Bay Area Local
 
 **Crystal Springs Reservoir in San Mateo — Hides a Deep Secret**
@@ -218,6 +222,7 @@ A tweet demonstrating a practical emergency knot (likely a bowline or figure-eig
 
 ---
 
+<a id="ch5"></a>
 ## Flood Geology & Natural Catastrophe
 
 **I Found Evidence of the Apocalypse in the West (Massive Flood Geology)**

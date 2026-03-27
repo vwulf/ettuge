@@ -18,6 +18,7 @@ Books read, books in progress, reading lists, literary essays, and book-adjacent
 
 ---
 
+<a id="ch1"></a>
 ## Non-Fiction
 
 **"Business Adventures" by John Brooks**
@@ -67,6 +68,7 @@ A Deccan Herald editorial on South Korean novelist Han Kang winning the 2024 Nob
 
 ---
 
+<a id="ch2"></a>
 ## Fiction
 
 **Against the Day — Wikipedia**
@@ -95,6 +97,7 @@ A documentary about Njattyela Sreedharan, a beedi (hand-rolled cigarette) factor
 
 ---
 
+<a id="ch3"></a>
 ## Kannada Literature
 
 **SL Bhyrappa's sAkshi — a quick reflection**
@@ -120,6 +123,7 @@ Another Kovanikov tweet reviewing "Functional Design and Architecture" by Alexan
 
 ---
 
+<a id="ch4"></a>
 ## Adventure & Nature Writing
 
 **'Barbarian Days: A Surfing Life' by William Finnegan**
@@ -153,6 +157,7 @@ A CounterPunch analysis of revealed email correspondence between Jeffrey Epstein
 
 ---
 
+<a id="ch5"></a>
 ## AI & Technology Books
 
 *(Primary file: `machine-learning-ai.md`. Cross-listed here for reading-list format.)*

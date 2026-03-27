@@ -18,6 +18,7 @@ Music, cinema, visual art, performance art, documentaries, and cultural criticis
 
 ---
 
+<a id="ch1"></a>
 ## Music
 
 **Italian singer Adriano Celentano "Prisencolinensinainciusol" (Historical Vids tweet)**
@@ -59,6 +60,7 @@ A Bangalore Mirror feature on Sumana, a ghatam (clay percussion instrument) play
 
 ---
 
+<a id="ch2"></a>
 ## Film & Documentary
 
 **The Image Travels — Shankar Nag documentary (YouTube)**
@@ -100,6 +102,7 @@ A YouTube clip from the documentary *Chasing Ice* (2012) showing the largest gla
 
 ---
 
+<a id="ch3"></a>
 ## Performance & Visual Art
 
 **Figen (@TheFigen_): Helena Vlahos performing her Nine Quarters belly dance act, 1979.**
@@ -127,6 +130,7 @@ A Vice article arguing that Bruce Lee's philosophy of *Jeet Kune Do* — combini
 
 ---
 
+<a id="ch4"></a>
 ## Animal Intelligence & Science in Arts Context
 
 **Historic Vids (@historyinmemes): Octopus unscrewing the lid of a vase from the inside.**
