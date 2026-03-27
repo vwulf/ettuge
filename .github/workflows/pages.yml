@@ -757,6 +757,20 @@ jobs:
                       f.write(body)
                   sidebar_files.add(fpath)
 
+                  # Fix ch0 refs in chapter subfiles (ch1, ch2, ch3…) so
+                  # "Contents" links point to the category landing page, not blank ch0
+                  sub_dir = os.path.join(REFLDIR, stem)
+                  if os.path.isdir(sub_dir):
+                      for chf in sorted(os.listdir(sub_dir)):
+                          if re.match(r'ch[1-9]\d*\.md', chf):
+                              chfp = os.path.join(sub_dir, chf)
+                              with open(chfp, encoding='utf-8') as f:
+                                  ch_content = f.read()
+                              updated = re.sub(r'\(ch0\)', '(../)', ch_content)
+                              if updated != ch_content:
+                                  with open(chfp, 'w', encoding='utf-8') as f:
+                                      f.write(updated)
+
           # ── Pass 8: nav_exclude all remaining .md files in all docs/ sections ─────
           for scan_root in [KANNADADIR, FPDIR, REFLDIR]:
               if not os.path.isdir(scan_root):
