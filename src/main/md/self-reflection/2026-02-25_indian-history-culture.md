@@ -1186,3 +1186,131 @@ A YouTube video featuring a traditional Uttara Karnataka-style roti thali recipe
 "75%+ of 5 letter Kannada words in Wordalla are Sanskrit. Alar itself has 20,000+ 5 letter words."
 
 A personal linguistic observation from daily Wordalla play — quantifying the Sanskrit vs. native Dravidian proportion in five-letter Kannada words. **[→ kannada-language-linguistics]**
+
+## History & Archaeology Channels
+
+**Fall of Civilizations (YouTube)**
+<https://www.youtube.com/channel/UCT6Y5JJPKe_JDMivpKgVXew>
+
+Long-form documentary series on collapsed civilizations — covering the Bronze Age Collapse, the fall of Rome, the Maya, the Khmer Empire, and others. Each episode is a multi-hour deep dive combining archaeology, history, and narrative storytelling. One of the finest history documentary series on YouTube. **[→ indian-history-culture; world-history]**
+
+---
+
+**World of Antiquity (YouTube)**
+<https://www.youtube.com/channel/UC64TYItcUS940vNWhQRnJWg>
+
+Ancient Mediterranean, Near Eastern, and South Asian history — covering Greek, Roman, Persian, Egyptian, and early Indian civilizations. Strong on the Achaemenid Persian empire and its connections to South Asia. **[→ indian-history-culture; world-history]**
+
+---
+
+**Stefan Milo (YouTube)**
+<https://www.youtube.com/channel/UCZ9jWH_8tJ-Nmaj8dSQdEYA>
+
+European prehistory and archaeology channel — covering the Mesolithic, Neolithic, Bronze Age migrations, and ancient DNA findings. Particularly strong on Yamnaya expansion and the Indo-European dispersal that connects to Indian prehistory. **[→ indian-history-culture; archaeology; genetics]**
+
+---
+
+**History with Kayleigh (YouTube)**
+<https://www.youtube.com/channel/UCMwDeEoupy8QQpKKc8pzU_Q>
+
+Accessible world history content covering ancient civilizations, medieval history, and historiography. **[→ indian-history-culture; world-history]**
+
+---
+
+**History with Cy (YouTube)**
+<https://www.youtube.com/channel/UCZzqG2zfeRKMoJwDwk1FTvQ>
+
+Historical analysis with a focus on comparative civilizations and long-arc patterns in human history. **[→ indian-history-culture; world-history]**
+
+---
+
+**Empire · World History (YouTube)**
+<https://www.youtube.com/channel/UCN72FjV-mKjktLiaiV3zzJw>
+
+History of empires — covering the Achaemenid, Macedonian, Roman, Mongol, Ottoman, Mughal, and British empires among others. Directly relevant to understanding India's political history through the Maurya, Gupta, and Mughal periods. **[→ indian-history-culture; world-history]**
+
+---
+
+**Harappa.com — The Ancient Indus Civilization (YouTube)**
+<https://www.youtube.com/channel/UCAx99HH1X8WTJc1XDGOW__g>
+
+The companion channel to Harappa.com, the leading scholarly resource on Indus Valley Civilization. Covers excavations at Harappa and Mohenjo-daro, the undeciphered Indus script, urban planning, and the civilization's trade connections across the ancient world. **[→ indian-history-culture; archaeology]**
+
+---
+
+**India in Pixels by Ashris (YouTube)**
+<https://www.youtube.com/channel/UC3vpdI7klzLSLNgqZEESZ4g>
+
+Data visualization of Indian history, culture, and demographics — making patterns in Indian geography, language distribution, and historical change visible through animated maps and charts. **[→ indian-history-culture]**
+
+---
+
+**MythicSociety Media (YouTube)**
+<https://www.youtube.com/channel/UCJ_JBulLmzNqHZGREylVc0g>
+
+The Mythic Society in Bangalore's lecture series — covering South Indian history, Kannada inscriptions, Karnataka archaeology, and Dravidian cultural history. An important scholarly resource for Karnataka heritage. **[→ indian-history-culture; kannada-language-linguistics]**
+
+---
+
+**Storytrails (YouTube)**
+<https://www.youtube.com/channel/UCq0ZifO2YFPU-bHIENulflw>
+
+Walking tours of Indian heritage sites with expert guides — exploring the history embedded in temples, ghats, bazaars, and neighbourhoods of Indian cities. Strong on Chennai, Varanasi, and Mysore/Bangalore heritage. **[→ indian-history-culture]**
+
+---
+
+**OTR Food & History (YouTube)**
+<https://www.youtube.com/channel/UCi5gEYNnKdX4dzuQ0S09y5Q>
+
+Indian food history at the intersection of culinary practice and historical research — tracing how dishes, spices, and cooking techniques traveled across the subcontinent and how political history shaped Indian cuisine. **[→ indian-history-culture; food]**
+
+---
+
+**Tasting History with Max Miller (YouTube)**
+<https://www.youtube.com/channel/UCsaGKqPZnGp_7N80hcHySGQ>
+
+Reconstruction of historical recipes from primary sources — Roman, Medieval European, ancient Egyptian, Persian, and Indian cuisines. Each episode combines food history with an actual attempt to cook the dish using period-appropriate techniques. **[→ indian-history-culture; food; world-history]**
+
+---
+
+**Persian Wonders (YouTube)**
+<https://www.youtube.com/channel/UCu_MiZRdrC2M19Sn4lNhs0A>
+
+Persian history and culture — covering the Achaemenid, Parthian, and Sassanid empires, as well as Islamic-era Persian civilization. Directly relevant to understanding India's connections to Iran through shared Indo-Iranian heritage and Mughal culture. **[→ indian-history-culture; world-history]**
+
+---
+
+**How Civilisation Came Back From Collapse — ft. Eric Cline (YouTube, Watch History)**
+
+Video conversation with archaeologist Eric Cline, author of *1177 BC: The Year Civilization Collapsed*, on the Bronze Age Collapse and how the interconnected civilizations of Egypt, Mesopotamia, the Aegean, and the Levant simultaneously failed. Watched twice — the systems-thinking framework (interconnected complexity → fragility → collapse) resonates broadly. **[→ indian-history-culture; world-history; archaeology]**
+
+---
+
+**The Rise and Fall of Çatalhöyük: A Neolithic Matriarchy? (YouTube, Watch History)**
+
+Documentary on Çatalhöyük (central Turkey, c. 7500–5700 BCE) — one of the world's earliest proto-urban settlements and a key site for understanding the transition from foraging to farming in the Neolithic. The "matriarchy" question is debated; the site's egalitarian social structure is not. **[→ indian-history-culture; archaeology; world-history]**
+
+---
+
+**New Archaeological Finds Prove INDIA Was the Crossroads of Human Evolution (YouTube, Watch History)**
+
+Coverage of recent genetic and archaeological findings suggesting India was a major mixing zone and refuge during the Out-of-Africa dispersal — with implications for understanding South Asian population history and the origins of the Andamanese and Australasian lineages. **[→ indian-history-culture; genetics; archaeology]**
+
+---
+
+**Let's Talk About South Asian Genetics (YouTube, Watch History)**
+
+Video on the genetic history of South Asia — covering the three major ancestral components: Ancient Ancestral South Indians (AASI), Iranian-related Neolithic farmers, and Steppe pastoralists (Yamnaya-related). The interaction of these groups produced the complex caste/regional/linguistic structure of modern South Asian populations. **[→ indian-history-culture; genetics]**
+
+---
+
+**Why North East Indians Look "Korean" (YouTube, Watch History)**
+
+Explainer on the genetics and history of Northeast India's Tibeto-Burman and Austroasiatic populations — their East Asian ancestry, migration routes through Southeast Asia, and their distinctness from the dominant Indo-Aryan and Dravidian populations of the subcontinent. **[→ indian-history-culture; genetics]**
+
+---
+
+**Bangalore Walks (YouTube)**
+<https://www.youtube.com/channel/UCQ4rfY07aQWCSYA4RZhHIfg>
+
+Heritage walking tours of Bengaluru — exploring the city's pre-colonial, colonial, and post-independence history through its buildings, neighbourhoods, and hidden artefacts. **[→ indian-history-culture; karnataka]**

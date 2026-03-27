@@ -905,3 +905,30 @@ A collection of personal project ideas captured in notes: (1) procrastination ag
 x.com — <https://x.com/che_shr_cat/status/2023729615055782140?s=20>
 
 A tweet by Grigory Sapunov (an AI researcher) discussing research claiming to reverse-engineer the internal representation structure of Claude 3.5 Haiku — finding that features are organized in 6-dimensional helical manifolds. A fascinating mechanistic interpretability result. **[→ machine-learning-ai]**
+
+## ML & AI Channels
+
+**Machine Learning Street Talk (YouTube)**
+<https://www.youtube.com/channel/UCMLtBahI5DMrt0NPvDSoIRQ>
+
+Long-form interviews with leading ML researchers and practitioners: Tim Scarfe and Keith Duggar's show covers LLM theory, reinforcement learning, mechanistic interpretability, and AI safety with unusual technical depth. One of the best English-language ML podcasts for practitioners who want more than surface-level coverage. **[→ machine-learning-ai]**
+
+---
+
+**The Robot Brains Podcast (YouTube)**
+<https://www.youtube.com/channel/UCXNviQjBONXljxkJzNV-Xbw>
+
+Pieter Abbeel's podcast interviewing AI and robotics researchers; covers embodied AI, reinforcement learning, robot learning, and the frontier of AI capabilities. Abbeel is a leading RL researcher at UC Berkeley and co-founder of Covariant. **[→ machine-learning-ai; robotics]**
+
+---
+
+**Coding Tech (YouTube)**
+<https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ>
+
+Aggregator of technology conference talks covering software engineering, ML/AI, cloud infrastructure, and programming languages. Good for keeping up with conference content without attending. **[→ machine-learning-ai; infrastructure]**
+
+---
+
+**Claude Code Skills + Playwright MCP Can Automate ANYTHING (YouTube, Watch History)**
+
+Video documenting an advanced Claude Code + Playwright MCP workflow for browser automation — demonstrating how AI-assisted coding tools can compose with web automation to create sophisticated agentic pipelines. Directly relevant to the ettuge skill system and automation infrastructure. **[→ machine-learning-ai; tools]**

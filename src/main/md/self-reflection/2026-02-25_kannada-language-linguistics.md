@@ -1139,3 +1139,105 @@ en.wikipedia.org
 
 The Wikipedia article on Baba Budan, the 17th-century Sufi saint who is credited with smuggling seven coffee beans from Mocha (Yemen) into India — planting them in the hills of Chikmagalur, Karnataka, beginning India's coffee cultivation. **[→ kannada-language-linguistics; coffee history → indian-history-culture]**
 
+
+## Language Learning & Linguistics Channels
+
+**Ashtadhyayi (YouTube)**
+<https://www.youtube.com/channel/UCHX4Y3ftDSsxiIIUV9qQvjQ>
+
+Channel dedicated to Pāṇini's Ashtadhyayi — the 4th-century BCE Sanskrit grammar that is one of the greatest intellectual achievements in human history. Pāṇini's ~4,000 sūtras describe Sanskrit phonology and morphology with a formal precision that anticipates modern generative grammar; his system can be considered the first formal language specification. **[→ kannada-language-linguistics; sanskrit; linguistics]**
+
+---
+
+**Artifexian (YouTube)**
+<https://www.youtube.com/channel/UCeh-pJYRZTBJDXMNZeWSUVA>
+
+Constructed languages (conlangs) and worldbuilding — covering phonology, morphology, syntax, writing system design, and the principles of linguistic typology as applied to creating believable fictional languages. Useful for understanding how natural language structure is perceived through the lens of design. **[→ kannada-language-linguistics; conlangs]**
+
+---
+
+**Steve Kaufmann — lingosteve (YouTube)**
+<https://www.youtube.com/channel/UCez-2shYlHQY3LfILBuDYqQ>
+
+Polyglot Steve Kaufmann (speaks 20+ languages) on language acquisition methodology — emphasizing comprehensible input, massive exposure, and resisting premature grammar study. His LingQ platform operationalizes this approach. A useful counterweight to structured grammar-first language learning. **[→ kannada-language-linguistics; language-learning]**
+
+---
+
+**That Japanese Man Yuta (YouTube)**
+<https://www.youtube.com/channel/UCn7LyBvG5LEBXK9I4W5dGdA>
+
+Street interview-style videos exploring Japanese language, culture, and social attitudes. Particularly useful for understanding how Japanese people actually use the language versus textbook Japanese. **[→ kannada-language-linguistics; japanese]**
+
+---
+
+**Miku Real Japanese (YouTube)**
+<https://www.youtube.com/channel/UCsQCbl3a9FtYvA55BxdzYiQ>
+
+Japanese language instruction by a native speaker, focusing on natural usage, nuance, and the gap between textbook Japanese and real conversational Japanese. **[→ kannada-language-linguistics; japanese]**
+
+---
+
+**NihongoDekita with Sayaka (YouTube)**
+<https://www.youtube.com/channel/UC7ETROycjsuo49xkneiX6MA>
+
+Japanese learning content with emphasis on natural conversation and Japanese culture explanation. **[→ kannada-language-linguistics; japanese]**
+
+---
+
+**Japanese with Shun (YouTube)**
+<https://www.youtube.com/channel/UCu6sZrHyl4hSS2PvlUo2XZA>
+
+Japanese instruction from a native teacher, covering grammar, vocabulary, and cultural context. **[→ kannada-language-linguistics; japanese]**
+
+---
+
+**Max's Japanese (YouTube)**
+<https://www.youtube.com/channel/UCwCD0afv0BOJrCHblWSLbNg>
+
+Japanese learning channel covering kanji, grammar patterns, and intermediate/advanced topics. **[→ kannada-language-linguistics; japanese]**
+
+---
+
+**Learn Japanese with Tanaka san (YouTube)**
+<https://www.youtube.com/channel/UCvryaJCRHcTVjOC_DcuYxGg>
+
+Structured Japanese lessons with cultural explanations and vocabulary building. **[→ kannada-language-linguistics; japanese]**
+
+---
+
+**Mandarin Learning with Lynn (YouTube)**
+<https://www.youtube.com/channel/UCFTCzMe33qMjWbcSJKnVkzg>
+
+Mandarin Chinese instruction for English speakers, covering tones, characters, and conversational usage. **[→ kannada-language-linguistics; mandarin]**
+
+---
+
+**ಹೊನಲು (YouTube)**
+<https://www.youtube.com/channel/UCiTTeuqYPvCbbWFLN1j2AkA>
+
+Kannada language and culture channel — Honalu (ಹೊನಲು = stream/flow) is a prominent Kannada digital media outlet producing journalism, culture, and discussion in Kannada. **[→ kannada-language-linguistics; kannada-media]**
+
+---
+
+**ತಿಳಿ TiLi (YouTube)**
+<https://www.youtube.com/channel/UCJ9n_eab3VgrmRxe3eV17Kg>
+
+Kannada educational channel — TiLi (ತಿಳಿ = to know/understand) produces content about Kannada language, culture, and knowledge in Kannada. **[→ kannada-language-linguistics; kannada-media]**
+
+---
+
+**Proto: How One Ancient Language Went Global (YouTube, Watch History)**
+
+Video conversation between Laura Spinney and Martin Puchner on the dispersal of Proto-Indo-European — the reconstructed ancestral language of Sanskrit, Greek, Latin, Germanic, Celtic, and Slavic languages. Covers how a small steppe pastoralist community's language came to be spoken by half of humanity. **[→ kannada-language-linguistics; linguistics; indo-european]**
+
+---
+
+**Tamil is Most Important Language for Linguistic Reconstruction — Dr. Claus Peter Zoller (YouTube, Watch History)**
+
+Lecture by a German Indologist arguing that Tamil's archaic phonological and morphological features make it indispensable for reconstructing Proto-Dravidian and for understanding the substratum influence of Dravidian on early Sanskrit. **[→ kannada-language-linguistics; linguistics; tamil]**
+
+---
+
+**Similarities Between Avestan and Vedic Sanskrit (YouTube, Watch History)**
+
+Video exploring the close relationship between Avestan (the language of the Zoroastrian scriptures) and Vedic Sanskrit — two branches of the same Proto-Indo-Iranian ancestor. Their shared vocabulary (deva/daeva, ahura/asura) illuminates the linguistic and religious split between the Vedic and Iranian cultures. **[→ kannada-language-linguistics; linguistics; sanskrit]**

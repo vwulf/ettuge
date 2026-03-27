@@ -956,3 +956,212 @@ x.com — <https://x.com/che_shr_cat/status/2023729615055782140>
 **Scala 3 'break' and 'continue' Equivalents (rockthejvm.com)**
 RockTheJVM's explanation of how to express early loop termination idiomatically in Scala 3 — using boundary/break from scala.util.boundary (Scala 3.3+), tailrec with Option, or functional approaches with takeWhile/find. Scala 3 finally provides a principled break/continue via the boundary API.
 blog.rockthejvm.com — <https://blog.rockthejvm.com/>
+
+## Functional Programming Channels & Conferences
+
+**Typelevel (YouTube)**
+<https://www.youtube.com/channel/UC-CzKrmtV55SlW2eL3k1RRQ>
+
+The Typelevel ecosystem (Cats, http4s, fs2, Circe, Doobie) for purely functional Scala programming. Conferences and talks from core contributors. **[→ scala-fp; typelevel]**
+
+---
+
+**Bartosz Milewski (YouTube)**
+<https://www.youtube.com/channel/UC8BtBl8PNgd3vWKtm2yJ7aA>
+
+Author of *Category Theory for Programmers* (the Haskell-based textbook that became the standard reference for programmers learning category theory). His YouTube series is the video companion to the book. **[→ scala-fp; category-theory]**
+
+---
+
+**TheCatsters (YouTube)**
+<https://www.youtube.com/channel/UC5Y9H2KDRHZZTWZJtlH4VbA>
+
+Eugenia Cheng and Simon Willerton's original category theory lecture series recorded at Sheffield. The Catsters videos are widely considered the best introductory category theory content available online — rigorous but accessible. **[→ scala-fp; category-theory; mathematics]**
+
+---
+
+**Edward Kmett (YouTube)**
+<https://www.youtube.com/channel/UCE3MJbkTVLoK8dAq7Del8ww>
+
+One of the most prolific Haskell library authors (lens, comonad, free, adjunctions, etc.). His talks at Haskell conferences cover advanced type system techniques, category theory applications in Haskell, and the theory behind his libraries. **[→ scala-fp; haskell; category-theory]**
+
+---
+
+**Graham Hutton (YouTube)**
+<https://www.youtube.com/channel/UCBSRCuGz9laxVv0rAnn2O9Q>
+
+Author of *Programming in Haskell* (the standard undergraduate Haskell textbook). His channel supplements the book with lecture videos covering monads, parsing, lazy evaluation, and compiler theory. **[→ scala-fp; haskell]**
+
+---
+
+**Bay Area Haskell (YouTube)**
+<https://www.youtube.com/channel/UCCL46pxWWtfhK3TxL55ybeQ>
+
+Bay Area Haskell user group talks and meetups — covering industrial Haskell usage, library design, and theoretical topics from practitioners in the SF Bay Area. **[→ scala-fp; haskell]**
+
+---
+
+**Boston Haskell (YouTube)**
+<https://www.youtube.com/channel/UCUCpgCWjaniUkX88wZrK_Ig>
+
+Boston Haskell user group meetup recordings. Covers applied Haskell, libraries, and theoretical discussions from the New England functional programming community. **[→ scala-fp; haskell]**
+
+---
+
+**chshersh — Dmitrii Kovanikov (YouTube)**
+<https://www.youtube.com/channel/UCKmndeSJ-xKGHPtxQulG_EA>
+
+Haskell library author and educator; creator of the `relude` Prelude alternative and `co-log` logging library. His content focuses on practical Haskell library design, algebraic design patterns, and Haskell best practices. **[→ scala-fp; haskell]**
+
+---
+
+**mpilquist — Michael Pilquist (YouTube)**
+<https://www.youtube.com/channel/UC634L9eG-YsskyzWxnp9BJA>
+
+Creator of fs2 (Functional Streams for Scala) and shapeless contributor. Talks on functional streaming, type-level programming, and the design of the Typelevel ecosystem. **[→ scala-fp; typelevel]**
+
+---
+
+**Scala for Fun & Profit (YouTube)**
+<https://www.youtube.com/channel/UCJ2zsdq4-5vzySOYtgo1nHw>
+
+Community Scala channel covering practical Scala 3 patterns, effect systems, and library usage. **[→ scala-fp]**
+
+---
+
+**Happy Path Programming (YouTube)**
+<https://www.youtube.com/channel/UCJXWVm6uAKh_Nd1mqkKLW5A>
+
+Scala and functional programming podcast/channel by Brian Sletten and Bruce Eckel. Focuses on the pragmatics of adopting functional programming in real projects. **[→ scala-fp]**
+
+---
+
+**Rock the JVM — Daniel Ciocîrlan (YouTube)**
+<https://www.youtube.com/channel/UCRS4DvO9X7qaqVYUW2_dwOw>
+
+Comprehensive Scala and JVM ecosystem tutorials; the best source for Akka, ZIO, Cats Effect, Spark, and Scala 3 tutorials online. Ciocîrlan's structured approach makes advanced topics accessible. **[→ scala-fp]**
+
+---
+
+**LambdaConf (YouTube)**
+<https://www.youtube.com/channel/UCEtohQeDqMSebi2yvLMUItg>
+
+Annual functional programming conference covering Haskell, PureScript, Idris, category theory, dependent types, formal verification, and applied FP. One of the more theoretically ambitious FP conferences. **[→ scala-fp; category-theory; formal-methods]**
+
+---
+
+**Lambda World (YouTube)**
+<https://www.youtube.com/channel/UCERm5yFZ1SptUEU4wZ2vJvw>
+
+European functional programming conference (Spain) featuring talks on Scala, Haskell, Kotlin, Clojure, and type theory. Strong theoretical content alongside practical applications. **[→ scala-fp; category-theory]**
+
+---
+
+**Scala World (YouTube)**
+<https://www.youtube.com/channel/UCc0j7uOItUDh7vEvPb-TeCg>
+
+UK Scala conference in the Lake District; known for high-quality, practitioner-focused content on the Scala ecosystem and functional programming. **[→ scala-fp]**
+
+---
+
+**ScalaCon (YouTube)**
+<https://www.youtube.com/channel/UCEvZRFnLl65Dg1sMgb8yIBQ>
+
+Online Scala conference with broad coverage of Scala 2 and 3, effect systems, and Scala's role in data engineering and distributed systems. **[→ scala-fp]**
+
+---
+
+**Scala Stockholm (YouTube)**
+<https://www.youtube.com/channel/UCQVjiKOragIVS8jbzqUG09A>
+
+Stockholm Scala user group talks. **[→ scala-fp]**
+
+---
+
+**London Scala User Group (YouTube)**
+<https://www.youtube.com/channel/UCR-XcPzcRKSXxk4hcsddLtg>
+
+London's active Scala meetup, one of the largest Scala communities in Europe. **[→ scala-fp]**
+
+---
+
+**ScalaUA Conference (YouTube)**
+<https://www.youtube.com/channel/UC_ZJvRHot6thpgqsXvtEvFg>
+
+Ukrainian Scala conference; historically high-quality talks on the Typelevel ecosystem, functional design, and Scala tooling. **[→ scala-fp]**
+
+---
+
+**Xebia Functional (formerly 47 Degrees) (YouTube)**
+<https://www.youtube.com/channel/UCatg8Vf2cgX5ZV30RFZe-gg>
+
+Consulting firm focused on functional programming; produces content on Scala, Kotlin, Swift, and arrow-kt (Kotlin functional library). Co-organizer of Scala World. **[→ scala-fp]**
+
+---
+
+**Jane Street (YouTube)**
+<https://www.youtube.com/channel/UCDsVC_ewpcEW_AQcO-H-RDQ>
+
+Jane Street Capital's tech talks; predominantly OCaml content from one of the world's largest functional programming shops. Their open-source contributions (Core, Async, Base) and their reasoning about type-safe financial systems are highly instructive for FP practitioners. **[→ scala-fp; ocaml]**
+
+---
+
+**Ziverge (YouTube)**
+<https://www.youtube.com/channel/UCeIg_PnAoyd1w6y8BelLdiQ>
+
+John De Goes's company behind ZIO; the channel covers ZIO, ZIO Schema, ZIO HTTP, and the broader ZIO ecosystem for purely functional Scala programming. **[→ scala-fp; zio]**
+
+---
+
+**DevInsideYou (YouTube)**
+<https://www.youtube.com/channel/UCSBUwLT9zXhUalKfJrc2q2A>
+
+Practical Scala tutorials and FP content; popular for Scala beginners and intermediate practitioners. **[→ scala-fp]**
+
+---
+
+**SoftwareMill (YouTube)**
+<https://www.youtube.com/channel/UCDHLL2QvdpCytAfBiwUeKgg>
+
+Polish software consultancy known for Akka, sttp, tapir, and Scala conference talks. Pragmatic functional Scala content. **[→ scala-fp]**
+
+---
+
+**FunctionalTV (YouTube)**
+<https://www.youtube.com/channel/UCKvhw2CPR-0S4XZ1bNlihnw>
+
+Aggregator of functional programming conference talks across languages and venues. **[→ scala-fp; haskell]**
+
+---
+
+**MoonBit (YouTube)**
+<https://www.youtube.com/channel/UCRRiPMzGU0suqQE8PuXHIMA>
+
+MoonBit is a new strongly-typed, functional programming language targeting WebAssembly, developed by IDEA Research. Its type system is influenced by ML/Haskell; worth tracking as a next-generation FP language. **[→ scala-fp; programming-languages]**
+
+---
+
+**Unison Language (YouTube)**
+<https://www.youtube.com/channel/UCwNb-TXaavfoTgDu8UglXyw>
+
+The Unison programming language from Unison Computing — a content-addressed, purely functional language that stores code by its AST hash rather than name. Its approach to distributed programming and code storage is genuinely novel; the repository in this codebase (unison/) tracks this project. **[→ scala-fp; programming-languages]**
+
+---
+
+**makingthematrix (YouTube)**
+<https://www.youtube.com/channel/UC5lQKRHit0OPI9QbE8nJv6g>
+
+Scala 3 tutorials and functional programming content, often with visualization. **[→ scala-fp]**
+
+---
+
+**Jakub Kozłowski (YouTube)**
+<https://www.youtube.com/channel/UCbipI7oQJsOUXXWRvGjkYmg>
+
+Scala and Haskell content; known for talks on effect systems, type-level programming, and Scala 3. **[→ scala-fp]**
+
+---
+
+**Formalizing a Proof in Lean Using Claude Code (YouTube, Watch History)**
+
+Video demonstrating the workflow of using Claude Code to assist in formal proof development in Lean 4 — a dependent type theory–based proof assistant. Lean is increasingly the tool of choice for mechanizing mathematical proofs; this video sits at the intersection of FP, formal methods, and AI-assisted development. **[→ scala-fp; formal-methods; machine-learning-ai]**

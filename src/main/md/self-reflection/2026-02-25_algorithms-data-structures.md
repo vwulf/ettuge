@@ -450,3 +450,45 @@ A detailed Twitter thread outlining the roadmap for clearing senior software eng
 **Ashish Pratap Singh: 15 LeetCode Patterns (@ashishps_1)**
 Twitter thread listing fifteen algorithmic patterns that cover the majority of LeetCode problems: Prefix Sum, Two Pointers, Sliding Window, Fast & Slow Pointers, In-place LinkedList Reversal, Monotonic Stack, Top K Elements, Overlapping Intervals, Modified Binary Search, and more. A structural framework for approaching unknown problems.
 <https://x.com/ashishps_1/status/1814884401249198569>
+
+## CS & Algorithms Channels
+
+**Computerphile (YouTube)**
+<https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA>
+
+University of Nottingham's companion channel to Numberphile, featuring short computer science videos with academic researchers. Covers algorithms, cryptography, programming language theory, complexity, and computer history. **[→ algorithms-ds; cs-theory]**
+
+---
+
+**PapersWeLove (YouTube)**
+<https://www.youtube.com/channel/UCoj4eQh_dZR37lL78ymC6XA>
+
+Community meetup recordings of researchers and practitioners presenting influential computer science research papers. Papers We Love is one of the most intellectually stimulating CS communities; the talks cover distributed systems, type theory, algorithms, and foundational CS. **[→ algorithms-ds; cs-theory]**
+
+---
+
+**Steven Skiena (YouTube)**
+<https://www.youtube.com/channel/UCh27N8m4Jp_rkwx26Q4iclQ>
+
+Author of *The Algorithm Design Manual* — lectures from Stony Brook covering algorithm analysis, graph algorithms, dynamic programming, and computational geometry. His practical, problem-solving-oriented approach complements more theory-heavy textbooks. **[→ algorithms-ds]**
+
+---
+
+**Jordan has no life (YouTube)**
+<https://www.youtube.com/channel/UCbvDQKzAJ5GwCjTrv4FWkxg>
+
+System design interview prep and distributed systems concepts explained by a working engineer. Covers consistent hashing, CAP theorem, database internals, and scalable architecture patterns. **[→ algorithms-ds; infrastructure]**
+
+---
+
+**Pavel Mavrin (YouTube)**
+<https://www.youtube.com/channel/UC9WDkCyUlNTncq1Y-mFSgLQ>
+
+Competitive programming and algorithms by a high-rated Codeforces competitor. Covers advanced graph algorithms, segment trees, and mathematical problem-solving techniques used in competitive programming. **[→ algorithms-ds; competitive-programming]**
+
+---
+
+**SF Systems Club (YouTube)**
+<https://www.youtube.com/channel/UCOYdObvVg2lqJix4mnE9MvA>
+
+San Francisco systems programming club — talks on operating systems internals, databases, compilers, and low-level systems topics. A Bay Area community for those interested in the engineering below the application layer. **[→ algorithms-ds; systems]**
