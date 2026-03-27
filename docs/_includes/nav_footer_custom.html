@@ -1,86 +1,26 @@
-{% comment %}
-  Pagefind search widgets — lazy-loaded (index only fetched on first click).
-  Level 1: global search, shown on all pages.
-  Level 2: DNS Bhat filtered search, shown only on DNS Bhat pages.
-{% endcomment %}
-
-{% comment %} ── Section filter tags for Pagefind indexing ── {% endcomment %}
+{% comment %} DNS Bhat deep search (Level 2) — shown only on DNS Bhat pages {% endcomment %}
 {% if page.url contains '/kannaDa/dnsbhat/' %}
-<span data-pagefind-filter="section[DNS Bhat]" hidden></span>
-{% elsif page.url contains '/Reflection/' %}
-<span data-pagefind-filter="section[Reflection]" hidden></span>
-{% elsif page.url contains '/FP/' %}
-<span data-pagefind-filter="section[FP]" hidden></span>
-{% elsif page.url contains '/kannaDa/eke/' %}
-<span data-pagefind-filter="section[Eke]" hidden></span>
-{% else %}
-<span data-pagefind-filter="section[General]" hidden></span>
-{% endif %}
-
-{% comment %} ── DNS Bhat deep search (Level 2) ── {% endcomment %}
-{% if page.url contains '/kannaDa/dnsbhat/' %}
-<div style="padding:0.6rem 0.75rem 0;" data-pagefind-ignore>
+<div style="padding:0.5rem 0.75rem 0.75rem;" data-pagefind-ignore>
   <div style="font-size:0.65rem;text-transform:uppercase;letter-spacing:0.06em;opacity:0.55;margin-bottom:4px;">DNS Bhat Search</div>
   <div id="pf-dnsbhat"></div>
 </div>
-{% endif %}
-
-{% comment %} ── Global search (Level 1) ── {% endcomment %}
-<div style="padding:0.6rem 0.75rem 1rem;" data-pagefind-ignore>
-  <div style="font-size:0.65rem;text-transform:uppercase;letter-spacing:0.06em;opacity:0.55;margin-bottom:4px;">Search</div>
-  <div id="pf-global"></div>
-</div>
-
 <script>
 (function () {
-  var BASE = '{{ site.baseurl }}/pagefind/';
-  var loaded = false;
-
   var PH_STYLE = [
     'width:100%', 'padding:5px 8px', 'box-sizing:border-box',
     'border:1px solid var(--border-color, #eeebee)',
     'border-radius:4px', 'font-size:0.82rem',
     'background:var(--sidebar-color, #fff)', 'cursor:text'
   ].join(';');
-
-  function loadPagefind(triggerEl) {
-    if (loaded) return;
-    loaded = true;
-    triggerEl.placeholder = 'Loading\u2026';
-    triggerEl.disabled = true;
-
-    var css = document.createElement('link');
-    css.rel = 'stylesheet'; css.href = BASE + 'pagefind-ui.css';
-    document.head.appendChild(css);
-
-    var js = document.createElement('script');
-    js.src = BASE + 'pagefind-ui.js';
-    js.onload = function () {
-      var configs = [
-        { id: 'pf-global',   opts: { showImages: false } },
-        { id: 'pf-dnsbhat', opts: { showImages: false, filters: { section: 'DNS Bhat' } } }
-      ];
-      configs.forEach(function (cfg) {
-        var el = document.getElementById(cfg.id);
-        if (!el) return;
-        el.innerHTML = '';   /* remove placeholder */
-        cfg.opts.element   = '#' + cfg.id;
-        cfg.opts.bundlePath = BASE;
-        new PagefindUI(cfg.opts);
-      });
-    };
-    document.head.appendChild(js);
-  }
-
-  ['pf-global', 'pf-dnsbhat'].forEach(function (id) {
-    var el = document.getElementById(id);
-    if (!el) return;
-    var ph = document.createElement('input');
-    ph.type = 'search';
-    ph.placeholder = id === 'pf-dnsbhat' ? 'Search DNS Bhat\u2026' : 'Search site\u2026';
-    ph.style.cssText = PH_STYLE;
-    ph.addEventListener('focus', function () { loadPagefind(ph); }, { once: true });
-    el.appendChild(ph);
-  });
+  var el = document.getElementById('pf-dnsbhat');
+  if (!el) return;
+  var ph = document.createElement('input');
+  ph.type = 'search'; ph.placeholder = 'Search DNS Bhat\u2026';
+  ph.style.cssText = PH_STYLE;
+  ph.addEventListener('focus', function () {
+    if (window._pfLoad) window._pfLoad(ph);
+  }, { once: true });
+  el.appendChild(ph);
 })();
 </script>
+{% endif %}

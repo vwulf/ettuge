@@ -1,0 +1,67 @@
+{% comment %} Global search — lazy-loads Pagefind on first focus {% endcomment %}
+<div style="padding:0.5rem 0.75rem 0;" data-pagefind-ignore>
+  <div id="pf-global"></div>
+</div>
+
+{% comment %} Section filter tags for Pagefind indexing (hidden, body-visible) {% endcomment %}
+{% if page.url contains '/kannaDa/dnsbhat/' %}
+<span data-pagefind-filter="section[DNS Bhat]" hidden></span>
+{% elsif page.url contains '/Reflection/' %}
+<span data-pagefind-filter="section[Reflection]" hidden></span>
+{% elsif page.url contains '/FP/' %}
+<span data-pagefind-filter="section[FP]" hidden></span>
+{% elsif page.url contains '/kannaDa/eke/' %}
+<span data-pagefind-filter="section[Eke]" hidden></span>
+{% else %}
+<span data-pagefind-filter="section[General]" hidden></span>
+{% endif %}
+
+<script>
+(function () {
+  var BASE = '{{ site.baseurl }}/pagefind/';
+  var PH_STYLE = [
+    'width:100%', 'padding:5px 8px', 'box-sizing:border-box',
+    'border:1px solid var(--border-color, #eeebee)',
+    'border-radius:4px', 'font-size:0.82rem',
+    'background:var(--sidebar-color, #fff)', 'cursor:text'
+  ].join(';');
+
+  window._pfLoad = window._pfLoad || (function () {
+    var loaded = false;
+    return function (triggerEl) {
+      if (loaded) return;
+      loaded = true;
+      if (triggerEl) { triggerEl.placeholder = 'Loading\u2026'; triggerEl.disabled = true; }
+      var css = document.createElement('link');
+      css.rel = 'stylesheet'; css.href = BASE + 'pagefind-ui.css';
+      document.head.appendChild(css);
+      var js = document.createElement('script');
+      js.src = BASE + 'pagefind-ui.js';
+      js.onload = function () {
+        [
+          { id: 'pf-global',  opts: {} },
+          { id: 'pf-dnsbhat', opts: { filters: { section: 'DNS Bhat' } } }
+        ].forEach(function (cfg) {
+          var el = document.getElementById(cfg.id);
+          if (!el) return;
+          el.innerHTML = '';
+          cfg.opts.element    = '#' + cfg.id;
+          cfg.opts.bundlePath = BASE;
+          cfg.opts.showImages = false;
+          new PagefindUI(cfg.opts);
+        });
+      };
+      document.head.appendChild(js);
+    };
+  }());
+
+  var el = document.getElementById('pf-global');
+  if (el) {
+    var ph = document.createElement('input');
+    ph.type = 'search'; ph.placeholder = 'Search site\u2026';
+    ph.style.cssText = PH_STYLE;
+    ph.addEventListener('focus', function () { window._pfLoad(ph); }, { once: true });
+    el.appendChild(ph);
+  }
+})();
+</script>
