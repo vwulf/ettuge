@@ -1,26 +1,31 @@
-{% comment %} DNS Bhat deep search (Level 2) — shown only on DNS Bhat pages {% endcomment %}
+{% comment %}
+  DNS Bhat deep search (Level 2) — shown only on DNS Bhat pages.
+  JTD renders the sidebar 3× (mobile/tablet/desktop), so this include
+  runs 3×. We use document.currentScript to target each render's own
+  container, avoiding the duplicate-placeholder problem.
+{% endcomment %}
 {% if page.url contains '/kannaDa/dnsbhat/' %}
-<div style="padding:0.5rem 0.75rem 0.75rem;" data-pagefind-ignore>
+<div class="pf-dns-wrapper" style="padding:0.5rem 0.75rem 0.75rem;" data-pagefind-ignore>
   <div style="font-size:0.65rem;text-transform:uppercase;letter-spacing:0.06em;opacity:0.55;margin-bottom:4px;">DNS Bhat Search</div>
-  <div id="pf-dnsbhat"></div>
+  <div class="pf-dns-box"></div>
 </div>
 <script>
 (function () {
   var PH_STYLE = [
     'width:100%', 'padding:5px 8px', 'box-sizing:border-box',
-    'border:1px solid var(--border-color, #eeebee)',
+    'border:1px solid var(--border-color,#eeebee)',
     'border-radius:4px', 'font-size:0.82rem',
-    'background:var(--sidebar-color, #fff)', 'cursor:text'
+    'background:var(--sidebar-color,#fff)', 'cursor:text'
   ].join(';');
-  var el = document.getElementById('pf-dnsbhat');
+  /* currentScript points to THIS script tag — find its own sibling wrapper */
+  var wrapper = document.currentScript.previousElementSibling;
+  var el = wrapper && wrapper.querySelector('.pf-dns-box');
   if (!el) return;
   var ph = document.createElement('input');
   ph.type = 'search'; ph.placeholder = 'Search DNS Bhat\u2026';
   ph.style.cssText = PH_STYLE;
-  ph.addEventListener('focus', function () {
-    if (window._pfLoad) window._pfLoad(ph);
-  }, { once: true });
   el.appendChild(ph);
+  ph.addEventListener('focus', function () { window._pfLoad && window._pfLoad(ph); }, { once: true });
 })();
 </script>
 {% endif %}

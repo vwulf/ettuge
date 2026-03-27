@@ -1,0 +1,80 @@
+{% comment %}
+  Global Pagefind search — rendered in the top header bar (header_custom.html
+  is included by components/header.html, inside #main-header flex row).
+  Lazy-loads pagefind JS/CSS on first focus; never on page navigation.
+{% endcomment %}
+
+<div class="search" role="search" style="flex:1;max-width:380px;" data-pagefind-ignore>
+  <div class="search-input-wrap">
+    <div id="pf-global"></div>
+  </div>
+</div>
+
+{% comment %} Section filter tags for Pagefind indexing (per-page, body-visible) {% endcomment %}
+{% if page.url contains '/kannaDa/dnsbhat/' %}
+<span data-pagefind-filter="section[DNS Bhat]" hidden></span>
+{% elsif page.url contains '/Reflection/' %}
+<span data-pagefind-filter="section[Reflection]" hidden></span>
+{% elsif page.url contains '/FP/' %}
+<span data-pagefind-filter="section[FP]" hidden></span>
+{% elsif page.url contains '/kannaDa/eke/' %}
+<span data-pagefind-filter="section[Eke]" hidden></span>
+{% else %}
+<span data-pagefind-filter="section[General]" hidden></span>
+{% endif %}
+
+<script>
+(function () {
+  var BASE = '{{ site.baseurl }}/pagefind/';
+  var PH_STYLE = [
+    'width:100%', 'padding:0', 'border:none', 'outline:none',
+    'background:transparent', 'font-size:0.9rem', 'cursor:text',
+    'color:inherit'
+  ].join(';');
+
+  /* Shared loader — called from global box or any DNS Bhat box */
+  window._pfLoad = (function () {
+    var loaded = false;
+    return function (triggerEl) {
+      if (loaded) return;
+      loaded = true;
+      if (triggerEl) { triggerEl.placeholder = 'Loading\u2026'; triggerEl.disabled = true; }
+
+      var css = document.createElement('link');
+      css.rel = 'stylesheet'; css.href = BASE + 'pagefind-ui.css';
+      document.head.appendChild(css);
+
+      var js = document.createElement('script');
+      js.src = BASE + 'pagefind-ui.js';
+      js.onload = function () {
+        /* Global search */
+        var gl = document.getElementById('pf-global');
+        if (gl) {
+          gl.innerHTML = '';
+          new PagefindUI({ element: '#pf-global', bundlePath: BASE, showImages: false });
+        }
+        /* All DNS Bhat instances (sidebar rendered 3× for mobile/desktop) */
+        document.querySelectorAll('.pf-dns-box').forEach(function (el, i) {
+          var uid = 'pf-dns-' + i;
+          el.id = uid;
+          el.innerHTML = '';
+          new PagefindUI({ element: '#' + uid, bundlePath: BASE, showImages: false,
+                           filters: { section: 'DNS Bhat' } });
+        });
+      };
+      document.head.appendChild(js);
+    };
+  }());
+
+  /* Placeholder for global search */
+  var gl = document.getElementById('pf-global');
+  if (gl) {
+    var ph = document.createElement('input');
+    ph.type = 'search'; ph.placeholder = 'Search site\u2026';
+    ph.style.cssText = PH_STYLE;
+    ph.className = 'search-input';
+    ph.addEventListener('focus', function () { window._pfLoad(ph); }, { once: true });
+    gl.appendChild(ph);
+  }
+})();
+</script>
