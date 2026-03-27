@@ -1,20 +1,11 @@
 {% comment %}
-  Global Pagefind search — rendered in the top header bar (header_custom.html
-  is included by components/header.html, inside #main-header flex row).
-  Lazy-loads pagefind JS/CSS on first focus; never on page navigation.
+  header_custom.html — included once per page inside #main-header.
+  Contains: per-page Pagefind section filter tags + shared _pfLoad loader.
+  Search widgets are in nav_footer_custom.html (sidebar on desktop,
+  page footer on mobile). Nothing visible is rendered here.
 {% endcomment %}
 
-<div class="search" role="search" style="flex:1;max-width:380px;" data-pagefind-ignore>
-  <div class="search-input-wrap">
-    <div id="pf-global"></div>
-  </div>
-</div>
-
-{% comment %}
-  Section filter tags for Pagefind indexing.
-  Must NOT use hidden/display:none/aria-hidden — Pagefind skips those.
-  Use sr-only visual hiding instead (position:absolute, 1px, clipped).
-{% endcomment %}
+{% comment %} Section filter tags — sr-only style so Pagefind indexes them {% endcomment %}
 {% if page.url contains '/kannaDa/dnsbhat/' %}
 <span data-pagefind-filter="section[DNS Bhat]" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;"></span>
 {% elsif page.url contains '/Reflection/' %}
@@ -28,60 +19,40 @@
 {% endif %}
 
 <script>
-(function () {
-  var BASE = '{{ site.baseurl }}/pagefind/';
-  var PH_STYLE = [
-    'width:100%', 'padding:0', 'border:none', 'outline:none',
-    'background:transparent', 'font-size:0.9rem', 'cursor:text',
-    'color:inherit'
-  ].join(';');
-
-  /* Shared loader — called from global box or any DNS Bhat box */
-  window._pfLoad = (function () {
-    var loaded = false;
-    return function (triggerEl) {
-      if (loaded) return;
-      loaded = true;
-      if (triggerEl) { triggerEl.placeholder = 'Loading\u2026'; triggerEl.disabled = true; }
-
-      var css = document.createElement('link');
-      css.rel = 'stylesheet'; css.href = BASE + 'pagefind-ui.css';
-      document.head.appendChild(css);
-
-      var js = document.createElement('script');
-      js.src = BASE + 'pagefind-ui.js';
-      js.onload = function () {
-        /* Global search */
-        var gl = document.getElementById('pf-global');
-        if (gl) {
-          gl.innerHTML = '';
-          new PagefindUI({ element: '#pf-global', bundlePath: BASE, showImages: false });
-          /* Re-focus the new input so typing works immediately */
-          var newInp = gl.querySelector('input');
-          if (newInp) newInp.focus();
-        }
-        /* All DNS Bhat instances (sidebar rendered 3× for mobile/desktop) */
-        document.querySelectorAll('.pf-dns-box').forEach(function (el, i) {
-          var uid = 'pf-dns-' + i;
-          el.id = uid;
-          el.innerHTML = '';
-          new PagefindUI({ element: '#' + uid, bundlePath: BASE, showImages: false,
-                           filters: { section: 'DNS Bhat' } });
-        });
-      };
-      document.head.appendChild(js);
+/* Shared Pagefind loader — defined once here, called from nav_footer_custom.html widgets */
+window._pfBase = '{{ site.baseurl }}/pagefind/';
+window._pfLoad = (function () {
+  var loaded = false;
+  return function (triggerEl, containerEl) {
+    if (loaded) return;
+    loaded = true;
+    if (triggerEl) { triggerEl.placeholder = 'Loading\u2026'; triggerEl.disabled = true; }
+    var css = document.createElement('link');
+    css.rel = 'stylesheet'; css.href = window._pfBase + 'pagefind-ui.css';
+    document.head.appendChild(css);
+    var js = document.createElement('script');
+    js.src = window._pfBase + 'pagefind-ui.js';
+    js.onerror = function () {
+      loaded = false; /* allow retry */
+      if (triggerEl) { triggerEl.placeholder = triggerEl.getAttribute('data-ph') || 'Search\u2026'; triggerEl.disabled = false; }
     };
-  }());
-
-  /* Placeholder for global search */
-  var gl = document.getElementById('pf-global');
-  if (gl) {
-    var ph = document.createElement('input');
-    ph.type = 'search'; ph.placeholder = 'Search site\u2026';
-    ph.style.cssText = PH_STYLE;
-    ph.className = 'search-input';
-    ph.addEventListener('focus', function () { window._pfLoad(ph); }, { once: true });
-    gl.appendChild(ph);
-  }
-})();
+    js.onload = function () {
+      document.querySelectorAll('.pf-widget').forEach(function (el) {
+        if (!el.id) el.id = 'pf-w-' + Math.random().toString(36).slice(2);
+        var opts = { element: '#' + el.id, bundlePath: window._pfBase, showImages: false };
+        if (el.getAttribute('data-pf-filter') === 'dns') opts.filters = { section: 'DNS Bhat' };
+        el.innerHTML = '';
+        new PagefindUI(opts);
+      });
+      /* Re-focus the widget that triggered the load */
+      if (containerEl) {
+        setTimeout(function () {
+          var inp = containerEl.querySelector('input');
+          if (inp) inp.focus();
+        }, 150);
+      }
+    };
+    document.head.appendChild(js);
+  };
+}());
 </script>
