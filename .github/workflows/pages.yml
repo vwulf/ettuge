@@ -153,13 +153,21 @@ jobs:
                   out_dir = os.path.dirname(fp)
               preamble = body[:positions[0][2]].strip()
               heading_anchors = chapter_heading_anchors(body, positions)
-              # Rewrite [text](#anchor) → [text](chN) for both #chN and heading-derived anchors
+              # Build sec-N-M / sub-N-M-K → chN map so TOC deep-links survive chapter split
+              sec_map = {}
+              for _i, (ch_num, _pfx, pos) in enumerate(positions):
+                  _end = positions[_i+1][2] if _i+1 < len(positions) else len(body)
+                  for _a in re.findall(r'<a id="((?:sec|sub)-[\d-]+)"', body[pos:_end]):
+                      sec_map[_a] = 'ch' + str(ch_num)
+              # Rewrite [text](#anchor) → [text](chN) or [text](chN#sec-N-M)
               def rewrite_anchor(m):
                   text, anchor = m.group(1), m.group(2)
                   if re.match(r'ch\d+$', anchor):
                       return '[' + text + '](' + anchor + ')'
                   if anchor in heading_anchors:
                       return '[' + text + '](' + heading_anchors[anchor] + ')'
+                  if anchor in sec_map:
+                      return '[' + text + '](' + sec_map[anchor] + '#' + anchor + ')'
                   return m.group(0)
               preamble = re.sub(r'\[([^\]]+)\]\(#([^)]+)\)', rewrite_anchor, preamble)
               ch_bar = '**Chapters:** ' + ch_links
@@ -810,6 +818,9 @@ jobs:
         working-directory: docs
         env:
           JEKYLL_ENV: production
+
+      - name: Index with Pagefind
+        run: npx --yes pagefind --site docs/_site
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
