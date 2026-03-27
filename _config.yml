@@ -6,10 +6,9 @@ theme: just-the-docs
 # Custom CSS
 color_scheme: light
 
-# Search — lazy-load index (only fetched when user clicks the search box)
-search_enabled: true
-search:
-  button: true
+# Search disabled — search-data.json was 35MB across 449 pages (Kannada text)
+# Navigation sidebar covers discovery adequately
+search_enabled: false
 
 # Aux links in top-right
 aux_links:
