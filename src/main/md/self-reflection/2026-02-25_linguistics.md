@@ -254,13 +254,6 @@ en.wikipedia.org — <https://en.wikipedia.org/wiki/Tamil_loanwords_in_Ancient_G
 
 ## Language Learning & Linguistics Channels
 
-**Ashtadhyayi (YouTube)**
-<https://www.youtube.com/channel/UCHX4Y3ftDSsxiIIUV9qQvjQ>
-
-Channel dedicated to Pāṇini's Ashtadhyayi — the 4th-century BCE Sanskrit grammar that is one of the greatest intellectual achievements in human history. Pāṇini's ~4,000 sūtras describe Sanskrit phonology and morphology with a formal precision that anticipates modern generative grammar; his system can be considered the first formal language specification. **[→ kannada-language-linguistics; sanskrit; linguistics]**
-
----
-
 **Artifexian (YouTube)**
 <https://www.youtube.com/channel/UCeh-pJYRZTBJDXMNZeWSUVA>
 
@@ -285,8 +278,3 @@ Video conversation between Laura Spinney and Martin Puchner on the dispersal of 
 
 Lecture by a German Indologist arguing that Tamil's archaic phonological and morphological features make it indispensable for reconstructing Proto-Dravidian and for understanding the substratum influence of Dravidian on early Sanskrit. **[→ kannada-language-linguistics; linguistics; tamil]**
 
----
-
-**Similarities Between Avestan and Vedic Sanskrit (YouTube, Watch History)**
-
-Video exploring the close relationship between Avestan (the language of the Zoroastrian scriptures) and Vedic Sanskrit — two branches of the same Proto-Indo-Iranian ancestor. Their shared vocabulary (deva/daeva, ahura/asura) illuminates the linguistic and religious split between the Vedic and Iranian cultures. **[→ kannada-language-linguistics; linguistics; sanskrit]**
