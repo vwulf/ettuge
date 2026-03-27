@@ -815,38 +815,3 @@ An oldest.org article ranking the world's oldest mountain ranges by age — incl
 phys.org — <https://phys.org/news/2026-01-geologists-mystery-green-river-uphill.html>
 
 A Phys.org article on new research explaining how the Green River (Wyoming/Colorado/Utah) appears to flow "uphill" through the Uinta Mountains — proposing that the river predates the mountain uplift and carved its canyon as the range rose beneath it. **[→ mathematics-science; geology]**
-
-## Mathematics & Science Channels
-
-**Mathologer — Burkard Polster (YouTube)**
-<https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg>
-
-Monash University mathematician Burkard Polster's channel for beautiful mathematical proofs and visual demonstrations. Covers number theory, geometry, infinite series, and recreational mathematics with exceptional clarity and aesthetic sensibility. **[→ mathematics-science; pure-mathematics]**
-
----
-
-**Numberphile (YouTube)**
-<https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A>
-
-Brady Haran's celebrated channel of short mathematics videos with professional mathematicians — covering number theory, combinatorics, geometry, and mathematical puzzles. Excellent for communicating the joy of mathematics to a broad audience. **[→ mathematics-science; pure-mathematics]**
-
----
-
-**Terence Tao (YouTube)**
-<https://www.youtube.com/channel/UCCGfqB7qtWIktmPyf5UMcbw>
-
-The YouTube channel of Fields Medalist Terence Tao — arguably the most mathematically gifted living person. Includes lectures on analytic number theory, harmonic analysis, and compressed sensing, as well as commentary on mathematical research culture and the nature of mathematical intuition. **[→ mathematics-science; pure-mathematics]**
-
----
-
-**Art of the Problem (YouTube)**
-<https://www.youtube.com/channel/UCotwjyJnb-4KW7bmsOoLfkg>
-
-Animated explanations of information theory, randomness, compression, and the foundations of computing. Covers Claude Shannon's information theory, Kolmogorov complexity, and related theoretical computer science topics with exceptional visual clarity. **[→ mathematics-science; cs-theory]**
-
----
-
-**Animal Origins (YouTube)**
-<https://www.youtube.com/channel/UC8406CpdEnBQZCe_Q_BIiCw>
-
-Evolutionary biology and comparative genomics channel — covering phylogenomics, ancient DNA, and the origins of animal body plans. Directly relevant to the Biology & Life Sciences interest documented elsewhere in this file. **[→ mathematics-science; biology]**
