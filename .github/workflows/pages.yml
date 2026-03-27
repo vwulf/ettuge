@@ -697,25 +697,27 @@ jobs:
           REFL_TITLE = 'Reflection'
 
           REFL_CATS = [
-              ('kannada-language-linguistics.md',   'Kannada & Linguistics',        1),
-              ('indian-history-culture.md',         'Indian History & Culture',     2),
-              ('scala-functional-programming.md',   'Scala & FP',                   3),
-              ('machine-learning-ai.md',            'Machine Learning & AI',        4),
-              ('mathematics.md',                    'Mathematics',                  5),
-              ('mathematics-science.md',            'Mathematics & Science',        6),
-              ('world-history-archaeology.md',      'World History & Archaeology',  7),
-              ('algorithms-data-structures.md',     'Algorithms & Data Structures', 8),
-              ('infrastructure-devops.md',          'Infrastructure & DevOps',      9),
-              ('data-engineering.md',               'Data Engineering',            10),
-              ('health-fitness.md',                 'Health & Fitness',            11),
-              ('martial-arts.md',                   'Martial Arts',                12),
-              ('books-literature.md',               'Books & Literature',          13),
-              ('arts-music-film.md',                'Arts, Music & Film',          14),
-              ('cricket-sports.md',                 'Cricket & Sports',            15),
-              ('travel-outdoors.md',                'Travel & Outdoors',           16),
+              ('kannada.md',                        'Kannada',                      1),
+              ('japanese.md',                       'Japanese',                     2),
+              ('linguistics.md',                    'Linguistics',                  3),
+              ('indian-history-culture.md',         'Indian History & Culture',     4),
+              ('scala-functional-programming.md',   'Scala & FP',                   5),
+              ('machine-learning-ai.md',            'Machine Learning & AI',        6),
+              ('mathematics.md',                    'Mathematics',                  7),
+              ('mathematics-science.md',            'Mathematics & Science',        8),
+              ('world-history-archaeology.md',      'World History & Archaeology',  9),
+              ('algorithms-data-structures.md',     'Algorithms & Data Structures', 10),
+              ('infrastructure-devops.md',          'Infrastructure & DevOps',      11),
+              ('data-engineering.md',               'Data Engineering',            12),
+              ('health-fitness.md',                 'Health & Fitness',            13),
+              ('martial-arts.md',                   'Martial Arts',                14),
+              ('books-literature.md',               'Books & Literature',          15),
+              ('arts-music-film.md',                'Arts, Music & Film',          16),
+              ('cricket-sports.md',                 'Cricket & Sports',            17),
+              ('travel-outdoors.md',                'Travel & Outdoors',           18),
               # career-personal.md — filtered for now (too personal)
               # current-events-politics.md — filtered for now
-              ('miscellaneous.md',                  'Miscellaneous',               17),
+              ('miscellaneous.md',                  'Miscellaneous',               19),
           ]
 
           if os.path.isdir(REFLDIR):
