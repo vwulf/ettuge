@@ -211,7 +211,7 @@ S2 and S3 roots are fully Dravidian. S1 uses ಓಜ (Thursday) which is Sanskrit
 | Diminutive prefix | ಕಿರು- | ಕಿರು + ತಂಡ → ಕಿರುತಂಡ |
 | Electronic prefix | ಮಿನ್ನು- | ಮಿನ್ನು + ಅವಿರು → ಮಿನ್ನವಿರು |
 | Action noun | -ಕೆ | ಆರಾಯ್ → ಆರಾಯ್ಕೆ |
-| Calendar suffix | [body] + ನಾಳು | ಹೆರೆ + ನಾಳು → ಹೆರೆನಾಳು |
+| Calendar suffix | [body] + ನಾಳು | ತಿಂಗಳ + ನಾಳು → ತಿಂಗಳ್ನಾಳು |
 
 ---
 
