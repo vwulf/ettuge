@@ -34,7 +34,7 @@ grand_parent: "ಕನ್ನಡ"
 | guide/mentor | ಮಾರ್ಗದರ್ಶಿ (Sanskrit) | ಅರಿವೀಯುಗ | arivIyuga | vetted; ಅರಿವು + ಈಯು + -ಗ |
 | capable | ಸಮರ್ಥ (Sanskrit) | ಅಳವುಳ್ಳ | aLavuLLa | vetted; ಅಳವು (capacity) + ಉಳ್ಳ |
 | author | ಲೇಖಕ (Sanskrit) | ಬರಹಗಾರ | barahagAra | vetted; ಬರಹ + ಗಾರ |
-| Saturday | ಶನಿವಾರ (Sanskrit) | ಕಾದೇರನಾಳು | kAdEranALu | coined; see Day Names |
+| Saturday | ಶನಿವಾರ (Sanskrit) | ಮೆಲ್ಲೇರನಾಳು | mellEranALu | coined; ಮೆಲ್ಲ (slowly) + ಏರ (riser); see Day Names |
 | evening | ಸಂಜೆ (tadbhava) | ಬೈಗು | baygu | existing native |
 
 ---
@@ -79,7 +79,7 @@ grand_parent: "ಕನ್ನಡ"
 | ಮಾರ್ಗದರ್ಶಿ | mArgadarSi | ಅರಿವೀಯುಗ | arivIyuga | guide |
 | ಸಮರ್ಥ | samartha | ಅಳವುಳ್ಳ | aLavuLLa | capable |
 | ಅಂಗ್ಲ | angla | ಇಂಗ್ಲಿಶ್ | ingliS | English (proper noun) |
-| ಶನಿವಾರ | SanivAra | ಕಾದೇರನಾಳು | kAdEranALu | Saturday |
+| ಶನಿವಾರ | SanivAra | ಮೆಲ್ಲೇರನಾಳು | mellEranALu | Saturday (S3; S1 uses ಕಾದೇರನಾಳು) |
 | ಸಂಜೆ | sanje | ಬೈಗು | baygu | evening |
 | ಗಂಟೆಯೊಳಗೆ | ganTeyoLage | ಆಗೋಹೊತ್ತಿನೊಳಗೆ | AgOhottinoLage | within the hour |
 | ಸಂಖ್ಯೆ | sankhye | ಎಣಿಕೆ | eNike | number |
@@ -91,29 +91,85 @@ grand_parent: "ಕನ್ನಡ"
 
 ## Session 2 — Day Names (ನಾಳು System)
 
-*All day names built on -ನಾಳು (nALu = day), the same root as ಏಳ್ನಾಳು (week = seven-days).*
+*All three systems use the -ನಾಳು (nALu = day) suffix, the same root as ಏಳ್ನಾಳು (week = seven-days). Neither source is authoritative — both are legitimate independent coinages.*
 
-Sources: [Kannada Wiktionary](https://kn.wiktionary.org/) · [vishaya.in — ಕನ್ನಡ ವಾರದ ಹೆಸರುಗಳು](https://www.vishaya.in/vishaya/kannada-weekdays-name/)
+Sources: [vishaya.in — ಕನ್ನಡ ವಾರದ ಹೆಸರುಗಳು](https://www.vishaya.in/vishaya/kannada-weekdays-name/) · [pisumathu.com calendar](https://pisumathu.com/calendar) · [Kannada Wiktionary](https://kn.wiktionary.org/) · [Wikipedia — Hindu tradition day names](https://en.wikipedia.org/wiki/Names_of_the_days_of_the_week#Hindu_tradition)
 
-### Day Name Table
+### Framework Comparison
 
-| English | Sanskrit (current) | Native Kannada | Eke | Root analysis |
-|---------|-------------------|----------------|-----|---------------|
-| Monday | ಸೋಮವಾರ | ಹೆರೆನಾಳು | herenALu | ಹೆರೆ (moon) + ನಾಳು |
-| Tuesday | ಮಂಗಳವಾರ | ನಲ್ನಾಳು | nalnALu | ನಲ್ (auspicious) + ನಾಳು |
-| Tuesday (alt) | ಮಂಗಳವಾರ | ಚೆನ್ನಾಳು | cennALu | ಚೆನ್ನ (beautiful/good) + ನಾಳು |
-| Wednesday | ಬುಧವಾರ | ಜಾಣ್ನಾಳು | jANnALu | ಜಾಣ್ (clever/wise) + ನಾಳು |
-| Thursday | ಗುರುವಾರ | ಓಜನಾಳು | OjanALu | ಓಜ (teacher) + ನಾಳು |
-| Thursday (alt) | ಗುರುವಾರ | ಕಲಿನಾಳು | kalinALu | ಕಲಿ (learner/warrior) + ನಾಳು |
-| Friday | ಶುಕ್ರವಾರ | ಬೆಳ್ಳಿನಾಳು | beLLinALu | ಬೆಳ್ಳಿ (silver/Venus) + ನಾಳು |
-| Saturday | ಶನಿವಾರ | ಕಾದೇರನಾಳು | kAdEranALu | ಕಾದೇರ (Saturn) + ನಾಳು |
-| Sunday | ಭಾನುವಾರ | ನೇಸರನಾಳು | nEsaranALu | ನೇಸರ (sun, Old Kannada) + ನಾಳು |
+| System | Approach |
+|--------|----------|
+| **S1 — vishaya.in** | Translates the *meaning* of each planet's Sanskrit name into native Dravidian: ಗುರು (teacher) → ಓಜ |
+| **S2 — pisumathu.com** | Maps each day to a natural body or element, independent of the Navagraha scheme: sun, moon, earth, center, wind, ocean, forest |
+| **S3 — Planet-scheme (DNS Bhat methodology)** | Selects the most accessible native root for each celestial body using the word-coiner algorithm |
 
-### ಕಾದೇರ — Saturn Etymology
+### Three-System Comparison
 
-- ಕಾದು (*kAdu*) = to wait — Dravidian ✅
-- ಏರ (*Era*) = one who rises, from ಏರು (to climb) — Dravidian ✅
-- Meaning: "the slow-rising waiter" — Saturn spends 2+ years per zodiac sign.
+| Day | Sanskrit | S1 — vishaya.in | Eke | S2 — pisumathu.com | Eke | S3 — Planet-scheme | Eke |
+|-----|----------|----------------|-----|--------------------|-----|-------------------|-----|
+| Sunday | ಭಾನುವಾರ | ನೇಸರನಾಳು | nEsaranALu | ನೇಸರನಾಳು | nEsaranALu | ನೇಸರನಾಳು | nEsaranALu |
+| Monday | ಸೋಮವಾರ | ಹೆರೆನಾಳು | herenALu | ತಿಂಗಳ್ನಾಳು | tingaLnALu | ತಿಂಗಳ್ನಾಳು | tingaLnALu |
+| Tuesday | ಮಂಗಳವಾರ | ನಲ್ನಾಳು | nalnALu | ನೆಲನಾಳು | nelanALu | ನಲ್ನಾಳು | nalnALu |
+| Wednesday | ಬುಧವಾರ | ಜಾಣ್ನಾಳು | jANnALu | ನಡುನಾಳು | naDunALu | ಜಾಣ್ನಾಳು | jANnALu |
+| Thursday | ಗುರುವಾರ | ಓಜನಾಳು | OjanALu | ಗಾಳಿನಾಳು | gALinALu | ಕಲಿನಾಳು | kalinALu |
+| Friday | ಶುಕ್ರವಾರ | ಬೆಳ್ಳಿನಾಳು | beLLinALu | ಕಡಲ್ನಾಳು | kaDalnALu | ಬೆಳ್ಳಿನಾಳು | beLLinALu |
+| Saturday | ಶನಿವಾರ | ಕಾದೇರನಾಳು | kAdEranALu | ಕಾಡ್ನಾಳು | kADnALu | ಮೆಲ್ಲೇರನಾಳು | mellEranALu |
+
+### Day-by-Day Analysis
+
+**Sunday (ಭಾನುವಾರ):** All three systems agree on ನೇಸರ — the Old Kannada word for the sun. Unambiguous.
+
+**Monday (ಸೋಮವಾರ — Moon):**
+- S1: **ಹೆರೆ** (here) — archaic Old Kannada for moon; poetic but unfamiliar to most speakers.
+- S2: **ತಿಂಗಳ** (tingaLa) — the everyday Kannada word for moon (also = month). Tamil திங்கள் cognate ✓. Universally understood.
+- S3 prefers **ತಿಂಗಳ** — DNS Bhat's accessibility principle favours the word any speaker can parse on first encounter.
+
+**Tuesday (ಮಂಗಳವಾರ — Mars):**
+- S1: **ನಲ್** (nal) — auspicious/good; translates ಮಂಗಳ's Sanskrit meaning. Dravidian ✓ (Tamil நல்).
+- S2: **ನೆಲ** (nela) — earth/ground; elemental, not planet-semantic.
+- S3: **ನಲ್** — preserving the cultural semantics of the Sanskrit name is more linguistically honest than arbitrary elemental substitution. *Observational alt: ಕೆಂಡ (kenDa = red-ember) for Mars as the red planet.*
+
+**Wednesday (ಬುಧವಾರ — Mercury):**
+- S1: **ಜಾಣ್** (jAN) — wise/clever; translates ಬುಧ. Dravidian ✓.
+- S2: **ನಡು** (naDu) — middle/center; positional (Wednesday = day 4, midweek).
+- S3: **ಜಾಣ್** — preserves the celestial body association. *S2's ನಡು is a valid alternative from a calendar-structure framework.*
+
+**Thursday (ಗುರುವಾರ — Jupiter):**
+- S1: **ಓಜ** (Oja) — as used by vishaya.in. Note: etymologically from Sanskrit *ojas* (vigor/brilliance), not Dravidian; and DNS Bhat's dictionaries use ಓಜೆ for "order/regularity," not "teacher." S1 adopts it for its phonetic naturalness in Kannada.
+- S2: **ಗಾಳಿ** (gALi) — wind/air; elemental.
+- S3: **ಕಲಿ** (kali) — from Dravidian verb ಕಲಿ (to learn); Tamil கல் cognate ✓. Jupiter/ಗುರು = the great teacher; ಕಲಿ captures the learning/wisdom frame with a fully Dravidian root. → ಕಲಿನಾಳು.
+
+**Friday (ಶುಕ್ರವಾರ — Venus):**
+- S1: **ಬೆಳ್ಳಿ** (beLLi) — silver/bright. Venus is the brightest object in the sky after Sun and Moon, visibly silver-white.
+- S2: **ಕಡಲ್** (kaDal) — ocean/sea; water element association with Venus.
+- S3: **ಬೆಳ್ಳಿ** — astronomically precise and immediately parseable. Dravidian ✓.
+
+**Saturday (ಶನಿವಾರ — Saturn):**
+- S1: **ಕಾದೇರ** (kAdEra) — coined: ಕಾದು (to wait/fight) + ಏರ (riser). Astronomically motivated — Saturn is the slowest visible planet — but ಕಾದು is ambiguous between "wait" and "fight," making the compound harder to parse.
+- S2: **ಕಾಡ್** (kAD) — forest/wild; Saturn as untamed darkness.
+- S3: **ಮೆಲ್ಲೇರ** (mellEra) — ಮೆಲ್ಲ (slowly) + ಏರ (riser) = "the slow-riser." Directly translates Sanskrit *ಶನಿ* (śana = slow-moving); ಮೆಲ್ಲ is unambiguous and widely attested in Bhat's dictionaries.
+
+### Root Etymology
+
+| Root | Eke | Meaning | Origin | System |
+|------|-----|---------|--------|--------|
+| ನೇಸರ | nEsara | sun | Old Kannada ✓ | S1, S2, S3 |
+| ಹೆರೆ | here | moon (archaic) | Old Kannada ✓ | S1 |
+| ತಿಂಗಳ | tingaLa | moon / month | Dravidian ✓ (Tamil திங்கள்) | S2, S3 |
+| ನಲ್ | nal | auspicious / good | Dravidian ✓ (Tamil நல்) | S1, S3 |
+| ನೆಲ | nela | earth / ground | Dravidian ✓ | S2 |
+| ಜಾಣ್ | jAN | wise / clever | Dravidian ✓ | S1, S3 |
+| ನಡು | naDu | middle / center | Dravidian ✓ | S2 |
+| ಓಜ | Oja | vigor / order (Sanskrit *ojas*) | Sanskrit-derived ⚠ | S1 only |
+| ಕಲಿ | kali | to learn / the learned | Dravidian ✓ (Tamil கல்) | S3 |
+| ಗಾಳಿ | gALi | wind / air | Dravidian ✓ | S2 |
+| ಬೆಳ್ಳಿ | beLLi | silver / bright | Dravidian ✓ | S1, S3 |
+| ಕಡಲ್ | kaDal | ocean / sea | Dravidian ✓ (Tamil கடல்) | S2 |
+| ಕಾದೇರ | kAdEra | wait/fight + riser (ambiguous) | coined (Dravidian roots) | S1 |
+| ಮೆಲ್ಲೇರ | mellEra | the slow-riser | coined (Dravidian roots) | S3 |
+| ಕಾಡ್ | kAD | forest / wild | Dravidian ✓ | S2 |
+
+S2 and S3 roots are fully Dravidian. S1 uses ಓಜ (Thursday) which is Sanskrit-derived (*ojas*) — the only non-Dravidian root across all three systems. The systems differ primarily in *mapping strategy* (semantic translation vs elemental vs astronomical observation).
 
 ---
 
