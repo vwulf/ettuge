@@ -45,10 +45,20 @@
     '<div id="pf-results-body"></div>';
   document.body.appendChild(panel);
 
-  /* Adjust left edge to match actual sidebar width */
+  /* Adjust position: right of sidebar on desktop, full-width below header on mobile */
   function reposition() {
     var sb = document.querySelector('header.side-bar');
-    if (sb) panel.style.left = Math.round(sb.getBoundingClientRect().right) + 'px';
+    if (!sb) return;
+    var r = sb.getBoundingClientRect();
+    if (r.right >= window.innerWidth - 10) {
+      /* Mobile: sidebar is a full-width top bar — panel covers full screen below it */
+      panel.style.left  = '0';
+      panel.style.top   = Math.round(r.bottom) + 'px';
+    } else {
+      /* Desktop: sidebar is a left column — panel is to the right */
+      panel.style.left  = Math.round(r.right) + 'px';
+      panel.style.top   = '60px';
+    }
   }
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', reposition);
