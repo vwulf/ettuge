@@ -393,6 +393,76 @@
   .legend-s2 { color: #888; }
   .legend-s3 { color: var(--teal); font-weight: 700; }
 
+  /* ── SUBSTITUTION TABLE ── */
+  .subst-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.82rem;
+    margin-top: 1.5rem;
+  }
+
+  .subst-table th {
+    padding: 0.45rem 0.7rem;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.65rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    color: var(--teal);
+    border-bottom: 2px solid var(--teal-light);
+    text-align: left;
+    background: var(--teal-faint);
+  }
+
+  .subst-table td {
+    padding: 0.42rem 0.7rem;
+    border-bottom: 1px solid var(--warm-light);
+    vertical-align: middle;
+  }
+
+  .subst-table tr:last-child td { border-bottom: none; }
+  .subst-table tr:hover td { background: var(--teal-faint); }
+
+  .subst-subhead td {
+    background: #f5efda;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.65rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    color: var(--gold);
+    text-transform: uppercase;
+    padding: 0.35rem 0.7rem;
+    border-bottom: 1px solid var(--gold-light);
+  }
+
+  .subst-old {
+    font-family: 'Noto Serif Kannada', serif;
+    font-size: 0.95rem;
+    color: var(--rose);
+    text-decoration: line-through;
+    text-decoration-color: rgba(154,176,184,0.6);
+  }
+
+  .subst-new {
+    font-family: 'Noto Serif Kannada', serif;
+    font-size: 0.95rem;
+    font-weight: 700;
+    color: var(--teal);
+  }
+
+  .subst-eke {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.65rem;
+    color: var(--gold-light);
+  }
+
+  .subst-note {
+    font-size: 0.72rem;
+    font-style: italic;
+    color: var(--warm-light);
+  }
+
+  .subst-arrow { color: var(--teal-light); font-weight: 700; text-align: center; }
+
   /* Unit table */
   .unit-table {
     display: flex;
@@ -1026,6 +1096,189 @@
         </div>
       </div>
     </div>
+
+    <table class="subst-table">
+      <thead>
+        <tr>
+          <th>Non-native</th>
+          <th>Eke</th>
+          <th class="subst-arrow">→</th>
+          <th>Native</th>
+          <th>Eke</th>
+          <th>Note</th>
+        </tr>
+      </thead>
+      <tbody>
+
+        <tr class="subst-subhead"><td colspan="6">Challenge Coinages — nodal · squad · template</td></tr>
+
+        <tr>
+          <td><span class="subst-old">nodal</span></td>
+          <td class="subst-eke">—</td>
+          <td class="subst-arrow">→</td>
+          <td><span class="subst-new">ಗಂಟಿನ</span></td>
+          <td class="subst-eke">ganTina</td>
+          <td class="subst-note">ಗಂಟು (node/knot) + -ಇನ</td>
+        </tr>
+        <tr>
+          <td><span class="subst-old">squad</span></td>
+          <td class="subst-eke">—</td>
+          <td class="subst-arrow">→</td>
+          <td><span class="subst-new">ಕಿರುತಂಡ</span></td>
+          <td class="subst-eke">kirutanDa</td>
+          <td class="subst-note">ಕಿರು (small) + ತಂಡ (troop)</td>
+        </tr>
+        <tr>
+          <td><span class="subst-old">template</span></td>
+          <td class="subst-eke">—</td>
+          <td class="subst-arrow">→</td>
+          <td><span class="subst-new">ಅಚ್ಚುಕ</span></td>
+          <td class="subst-eke">accuka</td>
+          <td class="subst-note">ಅಚ್ಚು (mold/stamp) + -ಕ</td>
+        </tr>
+
+        <tr class="subst-subhead"><td colspan="6">Paragraph Substitutions</td></tr>
+
+        <tr>
+          <td><span class="subst-old">ವಾರದ</span></td>
+          <td class="subst-eke">vArada</td>
+          <td class="subst-arrow">→</td>
+          <td><span class="subst-new">ಏಳ್ನಾಳಿನ</span></td>
+          <td class="subst-eke">ELnALina</td>
+          <td class="subst-note">week (seven-days)</td>
+        </tr>
+        <tr>
+          <td><span class="subst-old">ಪದಗಳು</span></td>
+          <td class="subst-eke">padagaLu</td>
+          <td class="subst-arrow">→</td>
+          <td><span class="subst-new">ಸೊಲ್ಲುಗಳು</span></td>
+          <td class="subst-eke">sollugaLu</td>
+          <td class="subst-note">words</td>
+        </tr>
+        <tr>
+          <td><span class="subst-old">ಧ್ವನಿಸಿದರೂ</span></td>
+          <td class="subst-eke">dhvanisidarU</td>
+          <td class="subst-arrow">→</td>
+          <td><span class="subst-new">ಉಲಿದರೂ</span></td>
+          <td class="subst-eke">ulidarU</td>
+          <td class="subst-note">to sound like</td>
+        </tr>
+        <tr>
+          <td><span class="subst-old">ನಿರ್ದಿಷ್ಟ</span></td>
+          <td class="subst-eke">nirdishTa</td>
+          <td class="subst-arrow">→</td>
+          <td><span class="subst-new">ಬೇರ್ಗೊಂಡ</span></td>
+          <td class="subst-eke">bErgonDa</td>
+          <td class="subst-note">specific/assigned</td>
+        </tr>
+        <tr>
+          <td><span class="subst-old">ತನಿಖೆ</span></td>
+          <td class="subst-eke">tanike</td>
+          <td class="subst-arrow">→</td>
+          <td><span class="subst-new">ಆರಾಯ್ಕೆ</span></td>
+          <td class="subst-eke">arAyke</td>
+          <td class="subst-note">investigation</td>
+        </tr>
+        <tr>
+          <td><span class="subst-old">ಅಥವಾ</span></td>
+          <td class="subst-eke">athavA</td>
+          <td class="subst-arrow">→</td>
+          <td><span class="subst-new">ಇಲ್ಲವೇ</span></td>
+          <td class="subst-eke">illavE</td>
+          <td class="subst-note">or</td>
+        </tr>
+        <tr>
+          <td><span class="subst-old">ಕಾರ್ಯಾಚರಣೆ</span></td>
+          <td class="subst-eke">kAryAcaraNe</td>
+          <td class="subst-arrow">→</td>
+          <td><span class="subst-new">ನಡೆಸಿಕೆ</span></td>
+          <td class="subst-eke">naDasike</td>
+          <td class="subst-note">operation</td>
+        </tr>
+        <tr>
+          <td><span class="subst-old">ನೇಮಕಗೊಂಡ</span></td>
+          <td class="subst-eke">nEmakagoNDa</td>
+          <td class="subst-arrow">→</td>
+          <td><span class="subst-new">ಆಯ್ಕೆಗೊಂಡ</span></td>
+          <td class="subst-eke">AykegoNDa</td>
+          <td class="subst-note">appointed/selected</td>
+        </tr>
+        <tr>
+          <td><span class="subst-old">ವಿಶೇಷ ತಂಡ</span></td>
+          <td class="subst-eke">viSESa tanDa</td>
+          <td class="subst-arrow">→</td>
+          <td><span class="subst-new">ಹೆಗ್ಗತಂಡ</span></td>
+          <td class="subst-eke">heggaTanDa</td>
+          <td class="subst-note">special squad</td>
+        </tr>
+        <tr>
+          <td><span class="subst-old">ಮಾದರಿ</span></td>
+          <td class="subst-eke">mAdari</td>
+          <td class="subst-arrow">→</td>
+          <td><span class="subst-new">ಅಚ್ಚು</span></td>
+          <td class="subst-eke">accu</td>
+          <td class="subst-note">model/mold</td>
+        </tr>
+        <tr>
+          <td><span class="subst-old">ಮಾರ್ಗದರ್ಶಿ</span></td>
+          <td class="subst-eke">mArgadarSi</td>
+          <td class="subst-arrow">→</td>
+          <td><span class="subst-new">ಅರಿವೀಯುಗ</span></td>
+          <td class="subst-eke">arivIyuga</td>
+          <td class="subst-note">guide/mentor</td>
+        </tr>
+        <tr>
+          <td><span class="subst-old">ಸಮರ್ಥ</span></td>
+          <td class="subst-eke">samartha</td>
+          <td class="subst-arrow">→</td>
+          <td><span class="subst-new">ಅಳವುಳ್ಳ</span></td>
+          <td class="subst-eke">aLavuLLa</td>
+          <td class="subst-note">capable/adequate</td>
+        </tr>
+        <tr>
+          <td><span class="subst-old">ಅಂಗ್ಲ</span></td>
+          <td class="subst-eke">angla</td>
+          <td class="subst-arrow">→</td>
+          <td><span class="subst-new">ಇಂಗ್ಲಿಶ್</span></td>
+          <td class="subst-eke">ingliS</td>
+          <td class="subst-note">English (proper noun)</td>
+        </tr>
+        <tr>
+          <td><span class="subst-old">ಶನಿವಾರ</span></td>
+          <td class="subst-eke">SanivAra</td>
+          <td class="subst-arrow">→</td>
+          <td><span class="subst-new">ಮೆಲ್ಲೇರನಾಳು</span></td>
+          <td class="subst-eke">mellEranALu</td>
+          <td class="subst-note">Saturday (S3)</td>
+        </tr>
+        <tr>
+          <td><span class="subst-old">ಸಂಜೆ</span></td>
+          <td class="subst-eke">sanje</td>
+          <td class="subst-arrow">→</td>
+          <td><span class="subst-new">ಬೈಗು</span></td>
+          <td class="subst-eke">baygu</td>
+          <td class="subst-note">evening</td>
+        </tr>
+        <tr>
+          <td><span class="subst-old">ಸಾಫ್ಟ್‌ವೇರ್</span></td>
+          <td class="subst-eke">sApTvEr</td>
+          <td class="subst-arrow">→</td>
+          <td><span class="subst-new">ಮಿನ್ನವಿರು</span></td>
+          <td class="subst-eke">minnaviru</td>
+          <td class="subst-note">software</td>
+        </tr>
+        <tr>
+          <td><span class="subst-old">ಇಂಜಿನಿಯರ್</span></td>
+          <td class="subst-eke">injiniyar</td>
+          <td class="subst-arrow">→</td>
+          <td><span class="subst-new">ಬಿಣಿಗೆಯರಿಗ</span></td>
+          <td class="subst-eke">biNigeyariga</td>
+          <td class="subst-note">engineer</td>
+        </tr>
+
+      </tbody>
+    </table>
+
   </section>
 
   <!-- ══════════════════ SECTION 4 — DAY NAMES ══════════════════ -->
