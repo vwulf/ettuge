@@ -1,36 +1,5 @@
 {% comment %}
-  nav_footer_custom.html — mobile page footer only.
-  Wrapped in d-md-none so it is hidden in the desktop sidebar's site-footer div.
-  On mobile the side-bar is collapsed; these inputs appear at the bottom of the page
-  via components/footer.html. They call the same _pfSearch() as the sidebar inputs.
+  nav_footer_custom.html — search is now in sidebar.html (visible on both desktop and mobile).
+  This file kept non-empty only to suppress JTD's default "This site uses Just the Docs" footer text.
 {% endcomment %}
-
-<div class="d-md-none" data-pagefind-ignore>
-
-  <div style="padding:0.5rem 0.75rem 0;">
-    <div style="font-size:0.65rem;text-transform:uppercase;letter-spacing:0.06em;opacity:0.55;margin-bottom:4px;">Search</div>
-    <input
-      type="search"
-      class="pf-search-input"
-      placeholder="Search site&hellip;"
-      oninput="window._pfSearch && window._pfSearch(this.value, null, 'Site search')"
-      style="width:100%;padding:5px 8px;box-sizing:border-box;border:1px solid var(--border-color,#eeebee);border-radius:4px;font-size:0.82rem;background:var(--sidebar-color,#fff)"
-      aria-label="Search site"
-    >
-  </div>
-
-  {% if page.url contains '/kannaDa/dnsbhat/' %}
-  <div style="padding:0.5rem 0.75rem 0.75rem;">
-    <div style="font-size:0.65rem;text-transform:uppercase;letter-spacing:0.06em;opacity:0.55;margin-bottom:4px;">DNS Bhat Search</div>
-    <input
-      type="search"
-      class="pf-search-input"
-      placeholder="Search DNS Bhat&hellip;"
-      oninput="window._pfSearch && window._pfSearch(this.value, 'DNS Bhat', 'DNS Bhat search')"
-      style="width:100%;padding:5px 8px;box-sizing:border-box;border:1px solid var(--border-color,#eeebee);border-radius:4px;font-size:0.82rem;background:var(--sidebar-color,#fff)"
-      aria-label="Search DNS Bhat"
-    >
-  </div>
-  {% endif %}
-
-</div>
+<!-- search in sidebar -->
