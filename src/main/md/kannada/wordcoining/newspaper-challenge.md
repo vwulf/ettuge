@@ -26,7 +26,7 @@ grand_parent: "ಕನ್ನಡ"
 | software | ತಂತ್ರಾಂಶ (Sanskrit) | ಮಿನ್ನವಿರು | minnaviru | vetted; ಮಿನ್ನು + ಅವಿರು (thread) |
 | engineer | ಇಂಜಿನಿಯರ್ (English) | ಬಿಣಿಗೆಯರಿಗ | biNigeyariga | vetted; ಬಿಣಿಗೆ (machinery) + ಅರಿಗ (expert) |
 | specific | ನಿರ್ದಿಷ್ಟ (Sanskrit) | ಬೇರ್ಗೊಂಡ | bErgonDa | coined; ಬೇರ್ (distinct) + ಗೊಂಡ |
-| investigation | ತನಿಖೆ (loan) | ಆರಾಯ್ಕೆ | arAyke | coined; ಆರಾಯ್ (probe, Old Kn.) + -ಕೆ |
+| investigation | ತನಿಖೆ (loan) | ಆರಾಯ್ಕೆ | ArAyke | coined; ಆರಾಯ್ (probe, Old Kn.) + -ಕೆ |
 | operation | ಕಾರ್ಯಾಚರಣೆ (Sanskrit) | ನಡೆಸಿಕೆ | naDasike | coined; ನಡೆಸು (execute) + -ಇಕೆ |
 | appointment | ನೇಮಕ (Sanskrit) | ಆಯ್ಕೆ | Ayke | vetted; ಆಯ್ (choose) + -ಕೆ |
 | special squad | ವಿಶೇಷ ತಂಡ (Sanskrit) | ಹೆಗ್ಗತಂಡ | heggaTanDa | coined; ಹೆಗ್ಗ (great) + ತಂಡ |
@@ -70,7 +70,7 @@ grand_parent: "ಕನ್ನಡ"
 | ಧ್ವನಿಸಿದರೂ | dhvanisidarU | ಉಲಿದರೂ | ulidarU | to sound like |
 | ನಿರ್ದಿಷ್ಟ | nirdishTa | ಬೇರ್ಗೊಂಡ | bErgonDa | specific |
 | ಕಾರ್ಯ | kArya | ಕೆಲಸ | kelasa | task (already native) |
-| ತನಿಖೆ | tanike | ಆರಾಯ್ಕೆ | arAyke | investigation |
+| ತನಿಖೆ | tanike | ಆರಾಯ್ಕೆ | ArAyke | investigation |
 | ಅಥವಾ | athavA | ಇಲ್ಲವೇ | illavE | or |
 | ಕಾರ್ಯಾಚರಣೆ | kAryAcaraNe | ನಡೆಸಿಕೆ | naDasike | operation |
 | ನೇಮಕಗೊಂಡ | nEmakagoNDa | ಆಯ್ಕೆಗೊಂಡ | AykegoNDa | appointed |
