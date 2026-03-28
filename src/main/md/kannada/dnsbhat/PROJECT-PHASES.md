@@ -4,7 +4,7 @@ nav_exclude: true
 ---
 
 # DNS Bhat Ettuge Project — Phase History
-*Phases 34 → 1, newest first. Full project context: [PROJECT-RECAP.md](./PROJECT-RECAP.md)*
+*Phases 35 → 1, newest first. Full project context: [PROJECT-RECAP.md](./PROJECT-RECAP.md)*
 
 ---
 
@@ -12,7 +12,7 @@ nav_exclude: true
 
 | Group | Phases | Key Work |
 |-------|--------|----------|
-| [Group 1](ch1) | 34–28 | CI Chapterization, Grammar Section, Sidebar Restructure |
+| [Group 1](ch1) | 35–28 | Search & Pagefind, CI Chapterization, Grammar Section, Sidebar Restructure |
 | [Group 2](ch2) | 27–20 | Book 31 Decode, PDFs, Taxonomy Migration, Transcript Fixes |
 | [Group 3](ch3) | 19–15 | Deep TOC, Markdown Structure, OCR & Eke Pipeline |
 | [Group 4](ch4) | 14–8 | OCR Cleanup: Books 07–29, English Summaries |
@@ -22,8 +22,26 @@ nav_exclude: true
 
 <a id="ch1"></a>
 
-## Phases 34–28 — CI Chapterization, GitHub Pages, Grammar Section
-*2026-03-24 to 2026-03-26*
+## Phases 35–28 — Search & Pagefind, CI Chapterization, Grammar Section
+*2026-03-24 to 2026-03-27*
+
+---
+
+### Phase 35 — Pagefind Search Integration + Mobile Fix (2026-03-27)
+
+**Root cause: bracket filter syntax broken in Pagefind 1.4.0.** The `data-pagefind-filter="section[DNS Bhat]"` inline-bracket syntax silently returns an empty string for all pages — `pf.filters()` showed `{"section":{"":1039}}` (every page mapped to an empty section). Fix: switch to text-content syntax via a visually-hidden `<span data-pagefind-filter="section">DNS Bhat</span>` on each DNS Bhat page. After fix, `pf.filters()` correctly returns `{"section":{"DNS Bhat":800,"Eke":4,...}}`.
+
+**PagefindUI abandoned; low-level `pagefind.js` API adopted.** `PagefindUI`'s `selected_filters` wrapper was unreliable even with the corrected index. Replaced with direct low-level calls: `pf.search(query, { filters: { section: ['DNS Bhat'] } })` returns exactly the 468 DNS Bhat pages. The `_pfSearch(query, filterSection, label)` function handles both global search (`filterSection = null`) and section-filtered search.
+
+**Results panel rendered to the right of the sidebar.** Previous approach rendered results inside the sidebar column, cropping long excerpts. New approach: a `position:fixed` panel appended to `<body>`; `reposition()` dynamically sets `left = sidebar.getBoundingClientRect().right` on desktop. Panel shows up to 12 results with bold title, URL, and Pagefind excerpt.
+
+**Mobile results panel full-width.** On mobile the sidebar is full-width (`r.right ≥ window.innerWidth − 10`), so the panel is positioned at `left:0, top:sidebar.bottom` instead — full viewport width below the sidebar header.
+
+**Both search bars moved to sidebar top.** `nav_footer_custom.html` (formerly the search host) emptied to a comment. New `docs/_includes/components/sidebar.html` override injects a `.site-search` div between `.site-header` and `{% include_cached components/site_nav.html %}`. DNS Bhat search input is conditionally rendered only on `page.url contains '/kannaDa/dnsbhat/'` pages.
+
+**Mobile search bar always visible.** Initial sidebar override used `d-md-block d-none` on the `.site-search` div — JTD's responsive utility sets `display:none !important` on mobile. Fixed by removing the class entirely; search inputs are now unconditionally visible on all screen sizes.
+
+**Commits:** search filter fix → low-level API + results panel → sidebar search bars → mobile visibility fix (2026-03-27)
 
 ---
 

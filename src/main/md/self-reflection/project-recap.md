@@ -133,4 +133,23 @@ Duplicate detection was required — several entries (Humans Almost Went Extinct
 
 ---
 
-*20 published · 2 filtered · source: Signal "self" channel · phases: cleanup → categorize → enrich → split → consolidate → publish*
+## Phase 6: Documentation Sync + Search Accessibility (2026-03-27)
+
+**Documentation synced to live site.** `README.md` and `CLAUDE.md` in this directory were stale — they listed 15 active topic files reflecting the Phase 4 state, not the 20 that are live at [vwulf.github.io/ettuge/Reflection/](https://vwulf.github.io/ettuge/Reflection/). The 5 files added between Phases 4 and 5 but not yet documented:
+
+| Added | File | Topic |
+|-------|------|-------|
+| Phase 5 | `2026-02-25_japanese.md` | Japanese language and script systems |
+| Phase 5 | `2026-02-25_linguistics.md` | General linguistics, typology, phonology |
+| Phase 5 | `2026-02-25_sanskrit.md` | Sanskrit grammar, subhāṣitas |
+| Phase 5 | `2026-02-25_mathematics.md` | Pure mathematics, proofs, number theory |
+| Phase 5 | `2026-02-25_world-history-archaeology.md` | World prehistory, ancient civilisations |
+| Phase 5 | `2026-02-25_martial-arts.md` | Okinawan karate, judo, grappling |
+
+Both `README.md` and `CLAUDE.md` updated: file count corrected (15→20), full table with accurate slugs and site titles added in sidebar order, "Not Published" section made explicit for `career-personal.md` and `current-events-politics.md`.
+
+**Mobile search bar visibility fix.** The sidebar search inputs (global + DNS Bhat) were injected via a `components/sidebar.html` override with a `d-md-block d-none` wrapper — JTD's responsive class sets `display:none !important` on mobile, making search invisible on phones. Fix: removed the responsive class from the `.site-search` div so inputs are unconditionally visible at all screen widths. The Reflection pages (indexed under `section: General`) are now findable from mobile search alongside all other ettuge content.
+
+---
+
+*20 published · 2 filtered · source: Signal "self" channel · phases: cleanup → categorize → enrich → split → consolidate → publish → sync + search*
