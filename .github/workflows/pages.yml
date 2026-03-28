@@ -25,10 +25,11 @@ jobs:
       - name: Copy Kannada markdown sources into docs/kannaDa/
         run: |
           rm -rf docs/kannaDa docs/dnsbhat || true
-          mkdir -p docs/kannaDa/dnsbhat docs/kannaDa/eke docs/kannaDa/grammar
+          mkdir -p docs/kannaDa/dnsbhat docs/kannaDa/eke docs/kannaDa/grammar docs/kannaDa/wordcoining
           cp src/main/md/kannada/index.md docs/kannaDa/index.md
           cp -R src/main/md/kannada/dnsbhat/. docs/kannaDa/dnsbhat/
           cp -R src/main/md/kannada/eke/. docs/kannaDa/eke/
+          cp -R src/main/md/kannada/wordcoining/. docs/kannaDa/wordcoining/
           cp src/main/md/kannada/grammar/*.md  docs/kannaDa/grammar/
           cp src/main/md/kannada/grammar/*-illustrated.html docs/kannaDa/grammar/
           # README.md → index.md for dnsbhat (nav_exclude set by Python script)
