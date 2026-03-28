@@ -12,7 +12,7 @@ nav_exclude: true
 
 | Group | Phases | Key Work |
 |-------|--------|----------|
-| [Group 1](ch1) | 34–28 | CI Chapterization, GitHub Pages, Grammar Section |
+| [Group 1](ch1) | 34–28 | CI Chapterization, Grammar Section, Sidebar Restructure |
 | [Group 2](ch2) | 27–20 | Book 31 Decode, PDFs, Taxonomy Migration, Transcript Fixes |
 | [Group 3](ch3) | 19–15 | Deep TOC, Markdown Structure, OCR & Eke Pipeline |
 | [Group 4](ch4) | 14–8 | OCR Cleanup: Books 07–29, English Summaries |
@@ -119,18 +119,6 @@ Removed stale TBD items from PROJECT-RECAP.md:
 - "Expand Eke home page description" completed item removed
 
 ---
-
----
-
-### Phase 30 — Books / FP / Self-Reflection on GitHub Pages (2026-03-25)
-
-Three additional content sections published to GitHub Pages with full sidebar integration:
-
-- **Books catalog** (`docs/Books/`) — personal reading catalog with influential/ subdirectory. Nav root at nav_order 4.
-- **FP / Haskell** (`docs/FP/`) — functional programming documentation. Nav root at nav_order 5.
-- **Self-reflection** (`docs/self-reflection/`) — dated reflection documents with index.md. Nav root at nav_order 6.
-
-All three sections integrated into the Jekyll sidebar alongside the existing Kannada / Grammar / Eke sections.
 
 ---
 

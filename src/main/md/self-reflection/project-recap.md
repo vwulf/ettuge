@@ -123,4 +123,14 @@ Duplicate detection was required — several entries (Humans Almost Went Extinct
 
 ---
 
-*15 active files · source: Signal "self" channel · phases: cleanup → categorize → enrich → split → consolidate*
+## Phase 5: Publication — GitHub Pages (2026-03-25)
+
+**What happened:** The 15 topic files (plus `project-recap.md` and `README.md`) were published to GitHub Pages as a searchable, linked section of the [ettuge site](https://vwulf.github.io/ettuge/).
+
+- Served at `docs/self-reflection/` with full Jekyll sidebar integration. Nav root at nav_order 6 alongside the Kannada / Grammar / Eke sections.
+- `index.md` (the master navigation page) becomes the sidebar entry point.
+- Pagefind search indexes all self-reflection pages under `section: General`, making them discoverable alongside DNS Bhat and Reflection content.
+
+---
+
+*15 active files · source: Signal "self" channel · phases: cleanup → categorize → enrich → split → consolidate → publish*
