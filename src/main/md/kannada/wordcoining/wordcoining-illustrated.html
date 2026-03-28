@@ -1,0 +1,1125 @@
+<!DOCTYPE html>
+<html lang="kn">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ಸೊಲ್ಲು ಕಟ್ಟುವ ಕೂಟ — Word Coining Sessions</title>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Kannada:wght@400;700&family=IBM+Plex+Mono:wght@400;500&family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #0f1a1f;
+    --paper: #eef3f5;
+    --teal: #1a5f6b;
+    --teal-light: #2a8a9a;
+    --teal-faint: #d0e8ec;
+    --gold: #8b6914;
+    --gold-light: #c49a1e;
+    --warm-mid: #4a5a60;
+    --warm-light: #9ab0b8;
+    --warm-faint: #dde8ec;
+    --green: #2d5a3d;
+    --green-light: #4a8a5a;
+    --green-faint: #d8ecdd;
+    --rose: #7a1a3a;
+    --rose-faint: #f0d8e0;
+    --amber: #7a4a14;
+    --amber-faint: #f5ebd8;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: 'Cormorant Garamond', serif;
+    min-height: 100vh;
+    padding: 3rem 2rem;
+    background-image:
+      radial-gradient(ellipse at 10% 10%, rgba(26,95,107,0.07) 0%, transparent 50%),
+      radial-gradient(ellipse at 90% 90%, rgba(139,105,20,0.05) 0%, transparent 50%);
+  }
+
+  .page { max-width: 960px; margin: 0 auto; }
+
+  /* ── HEADER ── */
+  header {
+    text-align: center;
+    padding: 3rem 0 2rem;
+    border-bottom: 1px solid var(--warm-light);
+    margin-bottom: 2.5rem;
+  }
+
+  header::before {
+    content: '';
+    display: block;
+    width: 60px;
+    height: 2px;
+    background: var(--teal-light);
+    margin: 0 auto 2rem;
+  }
+
+  .title-kn {
+    font-family: 'Noto Serif Kannada', serif;
+    font-size: 4rem;
+    font-weight: 700;
+    color: var(--teal);
+    line-height: 1.1;
+    margin-bottom: 0.4rem;
+  }
+
+  .title-eke {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 1.1rem;
+    color: var(--gold-light);
+    letter-spacing: 0.15em;
+    margin-bottom: 0.8rem;
+  }
+
+  .title-en {
+    font-style: italic;
+    font-size: 1.2rem;
+    color: var(--warm-mid);
+    margin-bottom: 1rem;
+  }
+
+  .meta-badge {
+    display: inline-flex;
+    gap: 1rem;
+    align-items: center;
+    margin-top: 1rem;
+    padding: 0.5rem 1.2rem;
+    background: var(--teal);
+    color: #fff;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.82rem;
+    letter-spacing: 0.08em;
+  }
+
+  .meta-badge span { opacity: 0.65; }
+
+  /* ── LEGEND ── */
+  .legend {
+    display: flex;
+    gap: 1.2rem;
+    flex-wrap: wrap;
+    margin-bottom: 1.2rem;
+    align-items: center;
+  }
+
+  .legend-item {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.72rem;
+    color: var(--warm-mid);
+  }
+
+  .legend-swatch {
+    width: 12px;
+    height: 12px;
+    border-radius: 2px;
+  }
+
+  .swatch-native { background: var(--green-faint); border: 1px solid var(--green-light); }
+  .swatch-coined { background: var(--teal-faint); border: 1px solid var(--teal-light); }
+  .swatch-vetted { background: #f5efda; border: 1px solid var(--gold-light); }
+
+  /* ── SECTIONS ── */
+  .section {
+    margin-bottom: 3rem;
+    animation: fadeIn 0.6s ease both;
+  }
+
+  .section:nth-child(3) { animation-delay: 0.1s; }
+  .section:nth-child(4) { animation-delay: 0.2s; }
+  .section:nth-child(5) { animation-delay: 0.3s; }
+  .section:nth-child(6) { animation-delay: 0.4s; }
+  .section:nth-child(7) { animation-delay: 0.5s; }
+
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  .section-header {
+    display: flex;
+    align-items: baseline;
+    gap: 1rem;
+    margin-bottom: 1.2rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--warm-faint);
+  }
+
+  .section-title-kn {
+    font-family: 'Noto Serif Kannada', serif;
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: var(--teal);
+  }
+
+  .section-title-eke {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.72rem;
+    color: var(--gold-light);
+    letter-spacing: 0.1em;
+  }
+
+  .section-title-en {
+    font-style: italic;
+    font-size: 0.95rem;
+    color: var(--warm-mid);
+    margin-left: auto;
+  }
+
+  /* ── MASTER TABLE ── */
+  .coinage-table {
+    width: 100%;
+    border-collapse: collapse;
+    background: #fff;
+    border: 1px solid var(--warm-light);
+    font-size: 0.88rem;
+  }
+
+  .coinage-table thead tr {
+    background: var(--teal);
+    color: #fff;
+  }
+
+  .coinage-table th {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.62rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding: 0.6rem 0.8rem;
+    text-align: left;
+    color: rgba(255,255,255,0.85);
+    border-right: 1px solid rgba(255,255,255,0.15);
+    font-weight: 500;
+  }
+
+  .coinage-table th:last-child { border-right: none; }
+
+  .coinage-table td {
+    padding: 0.65rem 0.8rem;
+    border-bottom: 1px solid var(--warm-faint);
+    vertical-align: middle;
+  }
+
+  .coinage-table tr:last-child td { border-bottom: none; }
+  .coinage-table tr:hover td { filter: brightness(0.97); }
+
+  /* Row color coding */
+  .row-native { background: var(--green-faint); }
+  .row-coined { background: var(--teal-faint); }
+  .row-vetted { background: #faf5e6; }
+
+  .td-en {
+    font-style: italic;
+    font-size: 0.9rem;
+    color: var(--warm-mid);
+    white-space: nowrap;
+  }
+
+  .td-nonnative {
+    font-family: 'Noto Serif Kannada', serif;
+    font-size: 1.1rem;
+    color: var(--rose);
+    text-decoration: line-through;
+    text-decoration-color: rgba(122,26,58,0.4);
+  }
+
+  .td-nonnative-sub {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.65rem;
+    color: var(--rose);
+    opacity: 0.7;
+    display: block;
+  }
+
+  .td-native {
+    font-family: 'Noto Serif Kannada', serif;
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--teal);
+    line-height: 1.2;
+  }
+
+  .row-vetted .td-native { color: var(--gold); }
+  .row-native .td-native { color: var(--green); }
+
+  .td-eke {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.82rem;
+    color: var(--gold-light);
+    white-space: nowrap;
+  }
+
+  .td-source {
+    font-size: 0.82rem;
+    color: var(--warm-mid);
+    max-width: 180px;
+  }
+
+  .source-tag {
+    display: inline-block;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.6rem;
+    padding: 0.1rem 0.4rem;
+    border-radius: 2px;
+    margin-bottom: 0.25rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .tag-native { background: var(--green-faint); color: var(--green); border: 1px solid var(--green-light); }
+  .tag-coined { background: var(--teal-faint); color: var(--teal); border: 1px solid var(--teal-light); }
+  .tag-vetted { background: #f5efda; color: var(--gold); border: 1px solid var(--gold-light); }
+
+  /* ── DAY CARDS ── */
+  .day-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .day-card {
+    background: #fff;
+    border: 1px solid var(--warm-light);
+    border-top: 3px solid var(--teal-light);
+    padding: 1.1rem 0.8rem 0.9rem;
+    text-align: center;
+    transition: box-shadow 0.2s;
+  }
+
+  .day-card:hover {
+    box-shadow: 0 4px 16px rgba(26,95,107,0.12);
+  }
+
+  .day-sanskrit {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.6rem;
+    color: var(--warm-light);
+    letter-spacing: 0.04em;
+    text-decoration: line-through;
+    text-decoration-color: rgba(154,176,184,0.5);
+    margin-bottom: 0.4rem;
+    display: block;
+  }
+
+  .day-kn {
+    font-family: 'Noto Serif Kannada', serif;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--teal);
+    line-height: 1.2;
+    margin-bottom: 0.4rem;
+    display: block;
+  }
+
+  .day-eke {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.72rem;
+    color: var(--gold-light);
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+
+  .day-root {
+    font-size: 0.7rem;
+    font-style: italic;
+    color: var(--warm-light);
+    display: block;
+    line-height: 1.3;
+  }
+
+  /* Unit table */
+  .unit-table {
+    display: flex;
+    gap: 1rem;
+    margin-top: 0.5rem;
+    flex-wrap: wrap;
+  }
+
+  .unit-card {
+    background: #fff;
+    border: 1px solid var(--teal-faint);
+    border-left: 3px solid var(--teal-light);
+    padding: 0.7rem 1.2rem;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    flex: 1;
+    min-width: 200px;
+  }
+
+  .unit-kn {
+    font-family: 'Noto Serif Kannada', serif;
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: var(--teal);
+  }
+
+  .unit-detail { flex: 1; }
+
+  .unit-eke {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.78rem;
+    color: var(--gold-light);
+    display: block;
+    margin-bottom: 0.2rem;
+  }
+
+  .unit-en {
+    font-style: italic;
+    font-size: 0.85rem;
+    color: var(--warm-mid);
+  }
+
+  .unit-pattern {
+    margin-top: 1rem;
+    padding: 0.7rem 1rem;
+    background: var(--teal-faint);
+    border-left: 2px solid var(--teal-light);
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.78rem;
+    color: var(--teal);
+  }
+
+  /* ── PREFIX CARDS ── */
+  .prefix-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.2rem;
+  }
+
+  .prefix-card {
+    background: #fff;
+    border: 1px solid var(--warm-light);
+    padding: 1.4rem;
+  }
+
+  .prefix-card:nth-child(1) { border-top: 3px solid var(--teal-light); }
+  .prefix-card:nth-child(2) { border-top: 3px solid var(--gold-light); }
+  .prefix-card:nth-child(3) { border-top: 3px solid var(--green-light); }
+
+  .prefix-kn {
+    font-family: 'Noto Serif Kannada', serif;
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--teal);
+    display: block;
+    margin-bottom: 0.2rem;
+    line-height: 1.2;
+  }
+
+  .prefix-card:nth-child(2) .prefix-kn { color: var(--gold); }
+  .prefix-card:nth-child(3) .prefix-kn { color: var(--green); }
+
+  .prefix-eke {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.82rem;
+    color: var(--gold-light);
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+
+  .prefix-meaning {
+    font-size: 0.9rem;
+    font-style: italic;
+    color: var(--warm-mid);
+    margin-bottom: 0.8rem;
+    border-bottom: 1px solid var(--warm-faint);
+    padding-bottom: 0.6rem;
+  }
+
+  .prefix-root {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.68rem;
+    color: var(--warm-light);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 0.6rem;
+    display: block;
+  }
+
+  .prefix-examples { list-style: none; }
+
+  .prefix-examples li {
+    padding: 0.35rem 0;
+    border-bottom: 1px solid var(--warm-faint);
+    display: flex;
+    align-items: baseline;
+    gap: 0.6rem;
+  }
+
+  .prefix-examples li:last-child { border-bottom: none; }
+
+  .ex-kn {
+    font-family: 'Noto Serif Kannada', serif;
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: var(--teal);
+  }
+
+  .prefix-card:nth-child(2) .ex-kn { color: var(--gold); }
+  .prefix-card:nth-child(3) .ex-kn { color: var(--green); }
+
+  .ex-en {
+    font-style: italic;
+    font-size: 0.8rem;
+    color: var(--warm-mid);
+  }
+
+  /* ── FORMATION TABLE ── */
+  .formation-table {
+    width: 100%;
+    border-collapse: collapse;
+    background: #fff;
+    border: 1px solid var(--warm-light);
+  }
+
+  .formation-table thead tr {
+    background: var(--teal-faint);
+    border-bottom: 2px solid var(--teal-light);
+  }
+
+  .formation-table th {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.62rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding: 0.55rem 1rem;
+    text-align: left;
+    color: var(--teal);
+    font-weight: 500;
+  }
+
+  .formation-table td {
+    padding: 0.7rem 1rem;
+    border-bottom: 1px solid var(--warm-faint);
+    vertical-align: middle;
+  }
+
+  .formation-table tr:last-child td { border-bottom: none; }
+  .formation-table tr:hover td { background: rgba(26,95,107,0.025); }
+
+  .ft-suffix {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 1rem;
+    font-weight: 500;
+    color: var(--teal);
+    white-space: nowrap;
+  }
+
+  .ft-gloss {
+    font-style: italic;
+    font-size: 0.88rem;
+    color: var(--warm-mid);
+  }
+
+  .ft-example {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.8rem;
+    color: var(--gold-light);
+  }
+
+  .ft-kn-eg {
+    font-family: 'Noto Serif Kannada', serif;
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: var(--teal);
+  }
+
+  /* ── ETYMOLOGY TABLE ── */
+  .etym-table {
+    width: 100%;
+    border-collapse: collapse;
+    background: #fff;
+    border: 1px solid var(--warm-light);
+  }
+
+  .etym-table thead tr {
+    background: var(--warm-faint);
+    border-bottom: 1px solid var(--warm-light);
+  }
+
+  .etym-table th {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.62rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding: 0.55rem 1rem;
+    text-align: left;
+    color: var(--warm-mid);
+    font-weight: 500;
+  }
+
+  .etym-table td {
+    padding: 0.65rem 1rem;
+    border-bottom: 1px solid var(--warm-faint);
+    vertical-align: middle;
+  }
+
+  .etym-table tr:last-child td { border-bottom: none; }
+  .etym-table tr:hover td { background: rgba(0,0,0,0.015); }
+
+  .etym-kn {
+    font-family: 'Noto Serif Kannada', serif;
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: var(--teal);
+  }
+
+  .etym-green .etym-kn { color: var(--green); }
+  .etym-amber .etym-kn { color: var(--amber); }
+
+  .etym-result {
+    font-size: 0.9rem;
+    color: var(--warm-mid);
+  }
+
+  .etym-green .etym-result { color: var(--green); }
+  .etym-amber .etym-result { color: var(--amber); }
+
+  .dravidian-badge {
+    display: inline-block;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.6rem;
+    padding: 0.1rem 0.4rem;
+    background: var(--green-faint);
+    color: var(--green);
+    border: 1px solid var(--green-light);
+    border-radius: 2px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-left: 0.4rem;
+    vertical-align: middle;
+  }
+
+  .replace-badge {
+    display: inline-block;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.6rem;
+    padding: 0.1rem 0.4rem;
+    background: var(--amber-faint);
+    color: var(--amber);
+    border: 1px solid rgba(122,74,20,0.4);
+    border-radius: 2px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-left: 0.4rem;
+    vertical-align: middle;
+  }
+
+  .replace-with {
+    font-family: 'Noto Serif Kannada', serif;
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: var(--teal);
+  }
+
+  /* ── FOOTER ── */
+  footer {
+    margin-top: 3rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--warm-faint);
+    text-align: center;
+  }
+
+  .footer-heading {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.68rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--warm-light);
+    margin-bottom: 0.8rem;
+  }
+
+  .footer-sources {
+    list-style: none;
+    display: flex;
+    gap: 1.5rem;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .footer-sources li {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.72rem;
+    color: var(--warm-mid);
+    padding: 0.3rem 0.7rem;
+    background: #fff;
+    border: 1px solid var(--warm-faint);
+  }
+
+  footer::after {
+    content: '';
+    display: block;
+    width: 40px;
+    height: 1px;
+    background: var(--teal-light);
+    margin: 1.5rem auto 0;
+  }
+
+  @media (max-width: 640px) {
+    .title-kn { font-size: 2.8rem; }
+    .day-grid { grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); }
+    .prefix-grid { grid-template-columns: 1fr; }
+    .coinage-table { font-size: 0.78rem; }
+    .td-native { font-size: 1.5rem; }
+    .day-kn { font-size: 1.3rem; }
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <!-- ══════════════════ HEADER ══════════════════ -->
+  <header>
+    <div class="title-kn">ಸೊಲ್ಲು ಕಟ್ಟುವ ಕೂಟ</div>
+    <div class="title-eke">sollu kaTTuva kUTa</div>
+    <div class="title-en">Word Coining Sessions — Ellara Kannada Methodology</div>
+    <div class="meta-badge">
+      2026-03-27 <span>·</span> skill: ellara-kannada-word-coiner
+    </div>
+  </header>
+
+  <!-- ══════════════════ SECTION 1 — MASTER TABLE ══════════════════ -->
+  <section class="section">
+    <div class="section-header">
+      <span class="section-title-kn">ಸೊಲ್ಲರಿಮೆ ಪಟ್ಟಿ</span>
+      <span class="section-title-eke">sollarime paTTi</span>
+      <span class="section-title-en">Master Coinage Table</span>
+    </div>
+
+    <div class="legend">
+      <div class="legend-item"><div class="legend-swatch swatch-native"></div> existing native</div>
+      <div class="legend-item"><div class="legend-swatch swatch-coined"></div> coined this session</div>
+      <div class="legend-item"><div class="legend-swatch swatch-vetted"></div> DNS Bhat vetted</div>
+    </div>
+
+    <table class="coinage-table">
+      <thead>
+        <tr>
+          <th>English</th>
+          <th>Non-native Kannada</th>
+          <th>Native Kannada</th>
+          <th>Eke</th>
+          <th>Source / Notes</th>
+        </tr>
+      </thead>
+      <tbody>
+
+        <!-- existing native -->
+        <tr class="row-native">
+          <td class="td-en">word</td>
+          <td><span class="td-nonnative">ಪದ</span><span class="td-nonnative-sub">Sanskrit</span></td>
+          <td class="td-native">ಸೊಲ್ಲು</td>
+          <td class="td-eke">sollu</td>
+          <td class="td-source"><span class="source-tag tag-native">existing</span><br>Tamil சொல் cognate</td>
+        </tr>
+
+        <tr class="row-native">
+          <td class="td-en">week</td>
+          <td><span class="td-nonnative">ವಾರ</span><span class="td-nonnative-sub">Sanskrit</span></td>
+          <td class="td-native">ಏಳ್ನಾಳು</td>
+          <td class="td-eke">ELnALu</td>
+          <td class="td-source"><span class="source-tag tag-native">existing</span><br>ಏಳು + ನಾಳು</td>
+        </tr>
+
+        <tr class="row-native">
+          <td class="td-en">evening</td>
+          <td><span class="td-nonnative">ಸಂಜೆ</span><span class="td-nonnative-sub">tadbhava</span></td>
+          <td class="td-native">ಬೈಗು</td>
+          <td class="td-eke">baygu</td>
+          <td class="td-source"><span class="source-tag tag-native">existing native</span></td>
+        </tr>
+
+        <!-- coined -->
+        <tr class="row-coined">
+          <td class="td-en">nodal</td>
+          <td><span class="td-nonnative">ನೋಡಲ್</span><span class="td-nonnative-sub">English</span></td>
+          <td class="td-native">ಗಂಟಿನ</td>
+          <td class="td-eke">ganTina</td>
+          <td class="td-source"><span class="source-tag tag-coined">coined</span><br>ಗಂಟು + -ಇನ</td>
+        </tr>
+
+        <tr class="row-coined">
+          <td class="td-en">squad</td>
+          <td><span class="td-nonnative">ಸ್ಕ್ವಾಡ್</span><span class="td-nonnative-sub">English</span></td>
+          <td class="td-native">ಕಿರುತಂಡ</td>
+          <td class="td-eke">kirutanDa</td>
+          <td class="td-source"><span class="source-tag tag-coined">coined</span><br>ಕಿರು + ತಂಡ</td>
+        </tr>
+
+        <tr class="row-coined">
+          <td class="td-en">template</td>
+          <td><span class="td-nonnative">ಟೆಂಪ್ಲೇಟ್</span><span class="td-nonnative-sub">English</span></td>
+          <td class="td-native">ಅಚ್ಚುಕ</td>
+          <td class="td-eke">accuka</td>
+          <td class="td-source"><span class="source-tag tag-coined">coined</span><br>ಅಚ್ಚು + -ಕ</td>
+        </tr>
+
+        <tr class="row-coined">
+          <td class="td-en">specific</td>
+          <td><span class="td-nonnative">ನಿರ್ದಿಷ್ಟ</span><span class="td-nonnative-sub">Sanskrit</span></td>
+          <td class="td-native">ಬೇರ್ಗೊಂಡ</td>
+          <td class="td-eke">bErgonDa</td>
+          <td class="td-source"><span class="source-tag tag-coined">coined</span></td>
+        </tr>
+
+        <tr class="row-coined">
+          <td class="td-en">investigation</td>
+          <td><span class="td-nonnative">ತನಿಖೆ</span><span class="td-nonnative-sub">loan</span></td>
+          <td class="td-native">ಆರಾಯ್ಕೆ</td>
+          <td class="td-eke">arAyke</td>
+          <td class="td-source"><span class="source-tag tag-coined">coined</span><br>ಆರಾಯ್ + -ಕೆ</td>
+        </tr>
+
+        <tr class="row-coined">
+          <td class="td-en">operation</td>
+          <td><span class="td-nonnative">ಕಾರ್ಯಾಚರಣೆ</span><span class="td-nonnative-sub">Sanskrit</span></td>
+          <td class="td-native">ನಡೆಸಿಕೆ</td>
+          <td class="td-eke">naDasike</td>
+          <td class="td-source"><span class="source-tag tag-coined">coined</span></td>
+        </tr>
+
+        <tr class="row-coined">
+          <td class="td-en">Saturday</td>
+          <td><span class="td-nonnative">ಶನಿವಾರ</span><span class="td-nonnative-sub">Sanskrit</span></td>
+          <td class="td-native">ಕಾದೇರನಾಳು</td>
+          <td class="td-eke">kAdEranALu</td>
+          <td class="td-source"><span class="source-tag tag-coined">coined</span><br>ಕಾದೇರ + ನಾಳು</td>
+        </tr>
+
+        <!-- vetted -->
+        <tr class="row-vetted">
+          <td class="td-en">computer</td>
+          <td><span class="td-nonnative">ಗಣಕ</span><span class="td-nonnative-sub">Sanskrit</span></td>
+          <td class="td-native">ಮಿನ್ನುಕ</td>
+          <td class="td-eke">minnuka</td>
+          <td class="td-source"><span class="source-tag tag-vetted">vetted</span><br>ಮಿನ್ನು + -ಕ</td>
+        </tr>
+
+        <tr class="row-vetted">
+          <td class="td-en">software</td>
+          <td><span class="td-nonnative">ತಂತ್ರಾಂಶ</span><span class="td-nonnative-sub">Sanskrit</span></td>
+          <td class="td-native">ಮಿನ್ನವಿರು</td>
+          <td class="td-eke">minnaviru</td>
+          <td class="td-source"><span class="source-tag tag-vetted">vetted</span><br>ಮಿನ್ನು + ಅವಿರು</td>
+        </tr>
+
+        <tr class="row-vetted">
+          <td class="td-en">engineer</td>
+          <td><span class="td-nonnative">ಇಂಜಿನಿಯರ್</span><span class="td-nonnative-sub">English</span></td>
+          <td class="td-native">ಬಿಣಿಗೆಯರಿಗ</td>
+          <td class="td-eke">biNigeyariga</td>
+          <td class="td-source"><span class="source-tag tag-vetted">vetted</span></td>
+        </tr>
+
+        <tr class="row-vetted">
+          <td class="td-en">model / mold</td>
+          <td><span class="td-nonnative">ಮಾದರಿ</span><span class="td-nonnative-sub">Sanskrit</span></td>
+          <td class="td-native">ಅಚ್ಚು</td>
+          <td class="td-eke">accu</td>
+          <td class="td-source"><span class="source-tag tag-vetted">vetted</span></td>
+        </tr>
+
+        <tr class="row-vetted">
+          <td class="td-en">author</td>
+          <td><span class="td-nonnative">ಲೇಖಕ</span><span class="td-nonnative-sub">Sanskrit</span></td>
+          <td class="td-native">ಬರಹಗಾರ</td>
+          <td class="td-eke">barahagAra</td>
+          <td class="td-source"><span class="source-tag tag-vetted">vetted</span></td>
+        </tr>
+
+        <tr class="row-vetted">
+          <td class="td-en">capable</td>
+          <td><span class="td-nonnative">ಸಮರ್ಥ</span><span class="td-nonnative-sub">Sanskrit</span></td>
+          <td class="td-native">ಅಳವುಳ್ಳ</td>
+          <td class="td-eke">aLavuLLa</td>
+          <td class="td-source"><span class="source-tag tag-vetted">vetted</span></td>
+        </tr>
+
+      </tbody>
+    </table>
+  </section>
+
+  <!-- ══════════════════ SECTION 2 — DAY NAMES ══════════════════ -->
+  <section class="section">
+    <div class="section-header">
+      <span class="section-title-kn">ನಾಳು ಸರಣಿ</span>
+      <span class="section-title-eke">nALu saraNi</span>
+      <span class="section-title-en">Day Names — ನಾಳು System</span>
+    </div>
+
+    <div class="day-grid">
+
+      <div class="day-card">
+        <span class="day-sanskrit">ಸೋಮವಾರ</span>
+        <span class="day-kn">ಹೆರೆನಾಳು</span>
+        <span class="day-eke">herenALu</span>
+        <span class="day-root">ಹೆರೆ (moon) + ನಾಳು</span>
+      </div>
+
+      <div class="day-card">
+        <span class="day-sanskrit">ಮಂಗಳವಾರ</span>
+        <span class="day-kn">ನಲ್ನಾಳು</span>
+        <span class="day-eke">nalnALu</span>
+        <span class="day-root">ನಲ್ (auspicious)</span>
+      </div>
+
+      <div class="day-card">
+        <span class="day-sanskrit">ಬುಧವಾರ</span>
+        <span class="day-kn">ಜಾಣ್ನಾಳು</span>
+        <span class="day-eke">jANnALu</span>
+        <span class="day-root">ಜಾಣ್ (wise)</span>
+      </div>
+
+      <div class="day-card">
+        <span class="day-sanskrit">ಗುರುವಾರ</span>
+        <span class="day-kn">ಓಜನಾಳು</span>
+        <span class="day-eke">OjanALu</span>
+        <span class="day-root">ಓಜ (teacher)</span>
+      </div>
+
+      <div class="day-card">
+        <span class="day-sanskrit">ಶುಕ್ರವಾರ</span>
+        <span class="day-kn">ಬೆಳ್ಳಿನಾಳು</span>
+        <span class="day-eke">beLLinALu</span>
+        <span class="day-root">ಬೆಳ್ಳಿ (silver / Venus)</span>
+      </div>
+
+      <div class="day-card">
+        <span class="day-sanskrit">ಶನಿವಾರ</span>
+        <span class="day-kn">ಕಾದೇರನಾಳು</span>
+        <span class="day-eke">kAdEranALu</span>
+        <span class="day-root">ಕಾದೇರ (slow-rising waiter)</span>
+      </div>
+
+      <div class="day-card">
+        <span class="day-sanskrit">ಭಾನುವಾರ</span>
+        <span class="day-kn">ನೇಸರನಾಳು</span>
+        <span class="day-eke">nEsaranALu</span>
+        <span class="day-root">ನೇಸರ (sun)</span>
+      </div>
+
+    </div>
+
+    <div class="unit-table">
+      <div class="unit-card">
+        <span class="unit-kn">ನಾಳು</span>
+        <div class="unit-detail">
+          <span class="unit-eke">nALu</span>
+          <span class="unit-en">day — base unit</span>
+        </div>
+      </div>
+      <div class="unit-card">
+        <span class="unit-kn">ಏಳ್ನಾಳು</span>
+        <div class="unit-detail">
+          <span class="unit-eke">ELnALu</span>
+          <span class="unit-en">week — seven-days</span>
+        </div>
+      </div>
+    </div>
+    <div class="unit-pattern">
+      Pattern: [celestial body] + ನಾಳು &nbsp;·&nbsp; nALu = day unit
+    </div>
+  </section>
+
+  <!-- ══════════════════ SECTION 3 — PREFIX CONVENTIONS ══════════════════ -->
+  <section class="section">
+    <div class="section-header">
+      <span class="section-title-kn">ಮೊದಲ್ಪದ ನಿಯಮ</span>
+      <span class="section-title-eke">modalpada niyama</span>
+      <span class="section-title-en">Prefix Conventions</span>
+    </div>
+
+    <div class="prefix-grid">
+
+      <div class="prefix-card">
+        <span class="prefix-kn">ಮಿನ್ನು-</span>
+        <span class="prefix-eke">minnu-</span>
+        <span class="prefix-meaning">electronic / digital</span>
+        <span class="prefix-root">root: ಮಿನ್ನು (lightning / electricity)</span>
+        <ul class="prefix-examples">
+          <li>
+            <span class="ex-kn">ಮಿನ್ನುಕ</span>
+            <span class="ex-en">computer</span>
+          </li>
+          <li>
+            <span class="ex-kn">ಮಿನ್ನವಿರು</span>
+            <span class="ex-en">software</span>
+          </li>
+        </ul>
+      </div>
+
+      <div class="prefix-card">
+        <span class="prefix-kn">ಗೆಂಟು-</span>
+        <span class="prefix-eke">genTu-</span>
+        <span class="prefix-meaning">tele- / distant</span>
+        <span class="prefix-root">root: ಗೆಂಟು (distance)</span>
+        <ul class="prefix-examples">
+          <li>
+            <span class="ex-kn">ಗೆಂಟುತೋರ್ನುಕ</span>
+            <span class="ex-en">telescope</span>
+          </li>
+        </ul>
+      </div>
+
+      <div class="prefix-card">
+        <span class="prefix-kn">ಹೆಗ್ಗ-</span>
+        <span class="prefix-eke">hegga-</span>
+        <span class="prefix-meaning">great / distinguished</span>
+        <span class="prefix-root">root: ಹೆಗ್ಗ (greatness)</span>
+        <ul class="prefix-examples">
+          <li>
+            <span class="ex-kn">ಹೆಗ್ಗತಂಡ</span>
+            <span class="ex-en">special squad</span>
+          </li>
+        </ul>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ══════════════════ SECTION 4 — FORMATION PATTERNS ══════════════════ -->
+  <section class="section">
+    <div class="section-header">
+      <span class="section-title-kn">ಕಟ್ಟು ಮಾದರಿ</span>
+      <span class="section-title-eke">kaTTu mAdari</span>
+      <span class="section-title-en">Formation Patterns</span>
+    </div>
+
+    <table class="formation-table">
+      <thead>
+        <tr>
+          <th>Pattern / Suffix</th>
+          <th>Gloss</th>
+          <th>Example (Eke)</th>
+          <th>Example (Kannada)</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="ft-suffix">-ಕ</td>
+          <td class="ft-gloss">instrument noun</td>
+          <td class="ft-example">accu → accuka<br>minnu → minnuka</td>
+          <td><span class="ft-kn-eg">ಅಚ್ಚು → ಅಚ್ಚುಕ</span></td>
+        </tr>
+        <tr>
+          <td class="ft-suffix">-ಇನ</td>
+          <td class="ft-gloss">genitive adjective</td>
+          <td class="ft-example">ganTu → ganTina</td>
+          <td><span class="ft-kn-eg">ಗಂಟು → ಗಂಟಿನ</span></td>
+        </tr>
+        <tr>
+          <td class="ft-suffix">ಕಿರು-</td>
+          <td class="ft-gloss">diminutive prefix</td>
+          <td class="ft-example">kiru + tanDa → kirutanDa</td>
+          <td><span class="ft-kn-eg">ಕಿರು + ತಂಡ → ಕಿರುತಂಡ</span></td>
+        </tr>
+        <tr>
+          <td class="ft-suffix">ಮಿನ್ನು-</td>
+          <td class="ft-gloss">electronic prefix</td>
+          <td class="ft-example">minnu + aviru → minnaviru</td>
+          <td><span class="ft-kn-eg">ಮಿನ್ನು + ಅವಿರು → ಮಿನ್ನವಿರು</span></td>
+        </tr>
+        <tr>
+          <td class="ft-suffix">-ಕೆ</td>
+          <td class="ft-gloss">action noun</td>
+          <td class="ft-example">arAy → arAyke</td>
+          <td><span class="ft-kn-eg">ಆರಾಯ್ → ಆರಾಯ್ಕೆ</span></td>
+        </tr>
+        <tr>
+          <td class="ft-suffix">[body] + ನಾಳು</td>
+          <td class="ft-gloss">day name compound</td>
+          <td class="ft-example">here + nALu → herenALu</td>
+          <td><span class="ft-kn-eg">ಹೆರೆ + ನಾಳು → ಹೆರೆನಾಳು</span></td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <!-- ══════════════════ SECTION 5 — ETYMOLOGY CORRECTIONS ══════════════════ -->
+  <section class="section">
+    <div class="section-header">
+      <span class="section-title-kn">ಮೂಲ ತಿದ್ದುಪಡಿ</span>
+      <span class="section-title-eke">mUla tiddupaDi</span>
+      <span class="section-title-en">Etymology Corrections</span>
+    </div>
+
+    <table class="etym-table">
+      <thead>
+        <tr>
+          <th>Word</th>
+          <th>Prior Assumption</th>
+          <th>Correction</th>
+        </tr>
+      </thead>
+      <tbody>
+
+        <tr class="etym-green">
+          <td><span class="etym-kn">ತಂಡ</span></td>
+          <td style="font-style:italic; color: var(--warm-mid);">assumed Sanskrit</td>
+          <td class="etym-result">
+            Actually Dravidian (Tamil தண்டு)
+            <span class="dravidian-badge">Dravidian</span>
+          </td>
+        </tr>
+
+        <tr class="etym-green">
+          <td><span class="etym-kn">ಕೂಟ</span></td>
+          <td style="font-style:italic; color: var(--warm-mid);">assumed Sanskrit</td>
+          <td class="etym-result">
+            Actually Dravidian (Tamil கூட்டம்)
+            <span class="dravidian-badge">Dravidian</span>
+          </td>
+        </tr>
+
+        <tr class="etym-green">
+          <td><span class="etym-kn">ಅಂಕಣ</span></td>
+          <td style="font-style:italic; color: var(--warm-mid);">assumed Sanskrit</td>
+          <td class="etym-result">
+            Actually Dravidian (Burrow / Kittel)
+            <span class="dravidian-badge">Dravidian</span>
+          </td>
+        </tr>
+
+        <tr class="etym-amber">
+          <td><span class="etym-kn">ಮಾದರಿ</span></td>
+          <td style="font-style:italic; color: var(--warm-mid);">assumed Persian</td>
+          <td class="etym-result">
+            Sanskrit origin → replace with <span class="replace-with">ಅಚ್ಚು</span>
+            <span class="replace-badge">replace</span>
+          </td>
+        </tr>
+
+        <tr class="etym-amber">
+          <td><span class="etym-kn">ಸಂಜೆ</span></td>
+          <td style="font-style:italic; color: var(--warm-mid);">assumed Dravidian</td>
+          <td class="etym-result">
+            Tadbhava of ಸಾಯಂಕಾಲ → replace with <span class="replace-with">ಬೈಗು</span>
+            <span class="replace-badge">replace</span>
+          </td>
+        </tr>
+
+      </tbody>
+    </table>
+  </section>
+
+  <!-- ══════════════════ FOOTER ══════════════════ -->
+  <footer>
+    <div class="footer-heading">Sources</div>
+    <ul class="footer-sources">
+      <li>Kannada Wiktionary (etymology confirmation)</li>
+      <li>vishaya.in/vishaya/kannada-weekdays-name/</li>
+      <li>DNS Bhat Books 02, 15, 31</li>
+    </ul>
+  </footer>
+
+</div>
+</body>
+</html>

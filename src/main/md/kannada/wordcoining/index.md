@@ -12,6 +12,8 @@ These sessions work through English technical and everyday terms, replacing Sans
 
 All sessions: 2026-03-27 · Skill: `ellara-kannada-word-coiner`
 
+**→ [Illustrated version](wordcoining-illustrated.html)** — styled tables, day-name cards, prefix conventions
+
 ---
 
 ## Master Coinage Table
