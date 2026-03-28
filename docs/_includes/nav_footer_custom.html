@@ -1,11 +1,14 @@
 {% comment %}
   nav_footer_custom.html — rendered twice by JTD:
-    1. Desktop: .d-md-block.d-none sidebar footer
-    2. Mobile:  .d-md-none page footer (after content)
-  Uses document.currentScript to target each render's own container.
+    1. Desktop: inside .d-md-block.d-none site-footer div in sidebar.html
+    2. Mobile:  inside components/footer.html (after page content)
+  The search widgets are now in the sidebar.html override (top of sidebar, desktop).
+  This file is wrapped in d-md-none so it only renders on mobile (footer), not desktop.
 {% endcomment %}
 
-{% comment %} ── Global search (all pages) ── {% endcomment %}
+<div class="d-md-none">
+
+{% comment %} ── Global search (mobile footer) ── {% endcomment %}
 <div class="pf-block" style="padding:0.5rem 0.75rem 0;" data-pagefind-ignore>
   <div style="font-size:0.65rem;text-transform:uppercase;letter-spacing:0.06em;opacity:0.55;margin-bottom:4px;">Search</div>
   <div class="pf-widget" data-pf-filter="global"></div>
@@ -23,7 +26,7 @@
 })();
 </script>
 
-{% comment %} ── DNS Bhat deep search (DNS Bhat pages only) ── {% endcomment %}
+{% comment %} ── DNS Bhat deep search (mobile footer, DNS Bhat pages only) ── {% endcomment %}
 {% if page.url contains '/kannaDa/dnsbhat/' %}
 <div class="pf-block" style="padding:0.5rem 0.75rem 0.75rem;" data-pagefind-ignore>
   <div style="font-size:0.65rem;text-transform:uppercase;letter-spacing:0.06em;opacity:0.55;margin-bottom:4px;">DNS Bhat Search</div>
@@ -42,3 +45,5 @@
 })();
 </script>
 {% endif %}
+
+</div>

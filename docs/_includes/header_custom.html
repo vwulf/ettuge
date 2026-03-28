@@ -40,7 +40,7 @@ window._pfLoad = (function () {
       document.querySelectorAll('.pf-widget').forEach(function (el) {
         if (!el.id) el.id = 'pf-w-' + Math.random().toString(36).slice(2);
         var opts = { element: '#' + el.id, bundlePath: window._pfBase, showImages: false };
-        if (el.getAttribute('data-pf-filter') === 'dns') opts.filters = { section: 'DNS Bhat' };
+        if (el.getAttribute('data-pf-filter') === 'dns') opts.selected_filters = { section: 'DNS Bhat' };
         el.innerHTML = '';
         new PagefindUI(opts);
       });
