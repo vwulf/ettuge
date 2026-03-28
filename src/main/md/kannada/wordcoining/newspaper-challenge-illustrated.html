@@ -620,6 +620,64 @@
     color: var(--teal);
   }
 
+  /* ── PARAGRAPH REWRITE ── */
+  .para-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.5rem;
+    margin-top: 0.5rem;
+  }
+
+  .para-col {
+    background: #fff;
+    border: 1px solid var(--warm-light);
+    padding: 1.4rem 1.6rem;
+  }
+
+  .para-col-before { border-top: 3px solid var(--rose); }
+  .para-col-after  { border-top: 3px solid var(--teal-light); }
+
+  .para-col-label {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.6rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    margin-bottom: 1rem;
+  }
+
+  .para-col-before .para-col-label { color: var(--rose); }
+  .para-col-after  .para-col-label { color: var(--teal); }
+
+  .para-text {
+    font-family: 'Noto Serif Kannada', serif;
+    font-size: 1.05rem;
+    line-height: 1.9;
+    color: var(--ink);
+  }
+
+  .para-text .changed {
+    color: var(--teal);
+    font-weight: 700;
+  }
+
+  .para-text .struck {
+    color: var(--rose);
+    text-decoration: line-through;
+    opacity: 0.7;
+  }
+
+  .para-attribution {
+    margin-top: 1rem;
+    font-family: 'Cormorant Garamond', serif;
+    font-style: italic;
+    font-size: 0.88rem;
+    color: var(--warm-mid);
+  }
+
+  @media (max-width: 640px) {
+    .para-grid { grid-template-columns: 1fr; }
+  }
+
   /* ── FOOTER ── */
   footer {
     margin-top: 3rem;
@@ -847,7 +905,46 @@
     </table>
   </section>
 
-  <!-- ══════════════════ SECTION 2 — DAY NAMES ══════════════════ -->
+  <!-- ══════════════════ SECTION 2 — PARAGRAPH REWRITE ══════════════════ -->
+  <section class="section">
+    <div class="section-header">
+      <span class="section-title-kn">ಅಂಕಣದ ಸವಾಲು</span>
+      <span class="section-title-eke">ankaNada savAlu</span>
+      <span class="section-title-en">Newspaper Challenge — Before &amp; After</span>
+    </div>
+
+    <div class="para-grid">
+      <div class="para-col para-col-before">
+        <div class="para-col-label">Original</div>
+        <div class="para-text">
+          ಈ <span class="struck">ವಾರದ</span> ಮೂರು <span class="struck">ಪದಗಳು</span>:<br><br>
+          1. Nodal: ನೋಡಲ್ ಎಂದು ಕನ್ನಡದಲ್ಲಿ ಬರೆದರೂ, ಹಳಗನ್ನಡದಂತೆ <span class="struck">ಧ್ವನಿಸಿದರೂ</span>, ಕನ್ನಡವಲ್ಲ! ಆದ್ದರಿಂದ ಹೊಸ <span class="struck">ಪದ</span> ಬೇಕಿದೆ.<br><br>
+          2. Squad: <span class="struck">ನಿರ್ದಿಷ್ಟ</span> <span class="struck">ಕಾರ್ಯ</span>, <span class="struck">ತನಿಖೆ</span> <span class="struck">ಅಥವಾ</span> <span class="struck">ಕಾರ್ಯಾಚರಣೆ</span>ಗಾಗಿ <span class="struck">ನೇಮಕ</span>ಗೊಂಡ <span class="struck">ವಿಶೇಷ</span> ತಂಡ.<br><br>
+          3. Template: <span class="struck">ಮಾದರಿ</span>ಯೂ <span class="struck">ಮಾರ್ಗದರ್ಶಿ</span>ಯೂ ಹೌದಾದರೂ ಅವೇ <span class="struck">ಪದಗಳು</span> <span class="struck">ಸಮರ್ಥ</span>ವೆನಿಸವು. ಹೊಸದೊಂದು ಕನ್ನಡ <span class="struck">ಪದ</span> ಬೇಕು.<br><br>
+          ಓದುಗರು ಪ್ರತಿಯೊಂದು <span class="struck">ಅಂಗ್ಲ</span> <span class="struck">ಪದ</span>ಕ್ಕೆ ತಲಾ ಒಂದರಂತೆ ಕನ್ನಡ <span class="struck">ಪದ</span> ತಿಳಿಸಬೇಕು. ಮುಂದಿನ <span class="struck">ಶನಿವಾರ</span> <span class="struck">ಸಂಜೆ</span> ೬ <span class="struck">ಗಂಟೆ</span>ಯೊಳಗೆ.
+        </div>
+        <div class="para-attribution">
+          <span class="struck">ಲೇಖಕರು</span> ಅಮೆರಿಕದಲ್ಲಿ <span class="struck">ಸಾಫ್ಟ್‌ವೇರ್</span> <span class="struck">ಇಂಜಿನಿಯರ್</span> ಮತ್ತು ಅಂಕಣ ಬರಹಗಾರರು
+        </div>
+      </div>
+
+      <div class="para-col para-col-after">
+        <div class="para-col-label">Native Rewrite</div>
+        <div class="para-text">
+          ಈ <span class="changed">ಏಳ್ನಾಳಿನ</span> ಮೂರು <span class="changed">ಸೊಲ್ಲುಗಳು</span>:<br><br>
+          1. Nodal: ನೋಡಲ್ ಎಂದು ಕನ್ನಡದಲ್ಲಿ ಬರೆದರೂ, ಹಳಗನ್ನಡದಂತೆ <span class="changed">ಉಲಿದರೂ</span>, ಕನ್ನಡವಲ್ಲ! ಆದ್ದರಿಂದ ಹೊಸ <span class="changed">ಸೊಲ್ಲು</span> ಬೇಕಿದೆ.<br><br>
+          2. Squad: <span class="changed">ಬೇರ್ಗೊಂಡ</span> ಕೆಲಸ, <span class="changed">ಆರಾಯ್ಕೆ</span> <span class="changed">ಇಲ್ಲವೇ</span> <span class="changed">ನಡೆಸಿಕೆ</span>ಗಾಗಿ <span class="changed">ಆಯ್ಕೆ</span>ಗೊಂಡ <span class="changed">ಹೆಗ್ಗತಂಡ</span>.<br><br>
+          3. Template: <span class="changed">ಅಚ್ಚು</span>ಯೂ <span class="changed">ಅರಿವೀಯುಗ</span>ನೂ ಹೌದಾದರೂ ಅವೇ <span class="changed">ಸೊಲ್ಲುಗಳು</span> <span class="changed">ಅಳವುಳ್ಳ</span>ವೆನಿಸವು. ಹೊಸದೊಂದು ಕನ್ನಡ <span class="changed">ಸೊಲ್ಲು</span> ಬೇಕು.<br><br>
+          ಓದುಗರು ಒಂದೊಂದು <span class="changed">ಇಂಗ್ಲಿಶ್</span> <span class="changed">ಸೊಲ್ಲಿ</span>ಗೆ ಒಂದೊಂದರಂತೆ ಕನ್ನಡ <span class="changed">ಸೊಲ್ಲು</span> ತಿಳಿಸಬೇಕು. ಮುಂದಿನ <span class="changed">ಕಾದೇರನಾಳು</span> <span class="changed">ಬೈಗು</span> ೬ <span class="changed">ಆಗೋಹೊತ್ತಿನ</span>ೊಳಗೆ.
+        </div>
+        <div class="para-attribution">
+          <span class="changed">ಬರಹಗಾರರು</span> ಅಮೆರಿಕದಲ್ಲಿ <span class="changed">ಮಿನ್ನವಿರು</span> <span class="changed">ಬಿಣಿಗೆಯರಿಗ</span> ಮತ್ತು ಅಂಕಣ ಬರಹಗಾರರು
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ══════════════════ SECTION 4 — DAY NAMES ══════════════════ -->
   <section class="section">
     <div class="section-header">
       <span class="section-title-kn">ನಾಳು ಸರಣಿ</span>
@@ -929,7 +1026,7 @@
     </div>
   </section>
 
-  <!-- ══════════════════ SECTION 3 — PREFIX CONVENTIONS ══════════════════ -->
+  <!-- ══════════════════ SECTION 5 — PREFIX CONVENTIONS ══════════════════ -->
   <section class="section">
     <div class="section-header">
       <span class="section-title-kn">ಮೊದಲ್ಪದ ನಿಯಮ</span>
@@ -985,7 +1082,7 @@
     </div>
   </section>
 
-  <!-- ══════════════════ SECTION 4 — FORMATION PATTERNS ══════════════════ -->
+  <!-- ══════════════════ SECTION 6 — FORMATION PATTERNS ══════════════════ -->
   <section class="section">
     <div class="section-header">
       <span class="section-title-kn">ಕಟ್ಟು ಮಾದರಿ</span>
@@ -1043,7 +1140,7 @@
     </table>
   </section>
 
-  <!-- ══════════════════ SECTION 5 — ETYMOLOGY CORRECTIONS ══════════════════ -->
+  <!-- ══════════════════ SECTION 7 — ETYMOLOGY CORRECTIONS ══════════════════ -->
   <section class="section">
     <div class="section-header">
       <span class="section-title-kn">ಮೂಲ ತಿದ್ದುಪಡಿ</span>
