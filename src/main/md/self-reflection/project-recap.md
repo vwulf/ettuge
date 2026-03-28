@@ -133,4 +133,4 @@ Duplicate detection was required — several entries (Humans Almost Went Extinct
 
 ---
 
-*15 active files · source: Signal "self" channel · phases: cleanup → categorize → enrich → split → consolidate → publish*
+*20 published · 2 filtered · source: Signal "self" channel · phases: cleanup → categorize → enrich → split → consolidate → publish*

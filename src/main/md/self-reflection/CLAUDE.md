@@ -10,26 +10,37 @@ This directory contains topic-based derivatives of `self.md` and `self-1.md`, pe
 - **`project-recap.md`** — Project recap covering the four phases: cleanup → categorize → enrich+split → consolidate.
 - **`YYYY-MM-DD_topic.md`** — Individual topic files, all derived from `self.md`/`self-1.md` on 2026-02-25.
 
-### Current Topic Files
+### Current Topic Files — Published (20, in sidebar order)
 
-| File | Topic |
-|------|-------|
-| `2026-02-25_scala-functional-programming.md` | ZIO, Scala 3, Kyo, Haskell, functional effects, type theory |
-| `2026-02-25_machine-learning-ai.md` | LLMs, RAG, fine-tuning, Indic LLMs, AI infrastructure |
-| `2026-02-25_kannada-language-linguistics.md` | Kannada script, DNS Bhat grammar, Dravidian linguistics, Karnataka culture |
-| `2026-02-25_indian-history-culture.md` | Harappan genetics, Indus script, ancient/medieval India, prehistory |
-| `2026-02-25_infrastructure-devops.md` | Nix, AWS, Kubernetes, CI tools, EVs |
-| `2026-02-25_algorithms-data-structures.md` | LeetCode (Scala), Knight's Tour, system design |
-| `2026-02-25_health-fitness.md` | VO2 max, climbing, martial arts, nutrition, cold exposure |
-| `2026-02-25_mathematics-science.md` | Riemann hypothesis, Langlands, category theory, biology, geology |
-| `2026-02-25_data-engineering.md` | Spark, system design, Kannada data pipeline (alar.ink) |
-| `2026-02-25_books-literature.md` | Books read, reading lists, literary essays, reviews |
-| `2026-02-25_arts-music-film.md` | Music, cinema, documentaries, visual art, performance |
-| `2026-02-25_travel-outdoors.md` | Hiking, adventure sports, Bay Area food, extreme sports |
-| `2026-02-25_cricket-sports.md` | Match commentary, IPL analysis, player profiles, sports analytics |
-| `2026-02-25_current-events-politics.md` | US/India politics, immigration, geopolitics, civil rights |
-| `2026-02-25_career-personal.md` | Career, self-development, personal philosophy, PKM, AI tools |
-| `2026-02-25_miscellaneous.md` | **Retired stub** — all content redistributed to the 16 files above |
+| File | Topic | Site title |
+|------|-------|------------|
+| `2026-02-25_kannada.md` | Kannada script, DNS Bhat grammar, Dravidian linguistics, Karnataka culture | Kannada |
+| `2026-02-25_japanese.md` | Japanese language, script systems, grammar, learning resources | Japanese |
+| `2026-02-25_linguistics.md` | General linguistics, typology, phonology, historical linguistics | Linguistics |
+| `2026-02-25_sanskrit.md` | Sanskrit grammar, literature, subhāṣitas, Vedic texts | Sanskrit |
+| `2026-02-25_indian-history-culture.md` | Harappan genetics, ancient/medieval India, prehistory, food history | Indian History & Culture |
+| `2026-02-25_scala-functional-programming.md` | ZIO, Scala 3, Kyo, Haskell, functional effects, type theory | Scala & FP |
+| `2026-02-25_machine-learning-ai.md` | LLMs, RAG, fine-tuning, Indic LLMs, AI infrastructure | Machine Learning & AI |
+| `2026-02-25_mathematics.md` | Pure mathematics, proofs, number theory, combinatorics | Mathematics |
+| `2026-02-25_mathematics-science.md` | Riemann, Langlands, category theory, biology, geology, astronomy | Mathematics & Science |
+| `2026-02-25_world-history-archaeology.md` | World prehistory, archaeology, ancient civilisations outside India | World History & Archaeology |
+| `2026-02-25_algorithms-data-structures.md` | LeetCode (Scala), Knight's Tour, CRDTs, compiler design | Algorithms & Data Structures |
+| `2026-02-25_infrastructure-devops.md` | Nix, AWS, Kubernetes, CI tools, Rust CLI | Infrastructure & DevOps |
+| `2026-02-25_data-engineering.md` | Spark, Flink, Hudi, lakehouse, Kannada data pipeline (alar.ink) | Data Engineering |
+| `2026-02-25_health-fitness.md` | VO2 max, climbing, nutrition, cold exposure, sleep | Health & Fitness |
+| `2026-02-25_martial-arts.md` | Okinawan karate, judo, grappling, kata, training philosophy | Martial Arts |
+| `2026-02-25_books-literature.md` | Books read, reading lists, literary essays, reviews | Books & Literature |
+| `2026-02-25_arts-music-film.md` | Music, cinema, documentaries, visual art, performance | Arts, Music & Film |
+| `2026-02-25_cricket-sports.md` | Match commentary, IPL analysis, player profiles, sports analytics | Cricket & Sports |
+| `2026-02-25_travel-outdoors.md` | Hiking, adventure sports, Bay Area food, extreme sports | Travel & Outdoors |
+| `2026-02-25_miscellaneous.md` | **Retired stub** — all content redistributed to the 19 files above | Miscellaneous |
+
+### Not Published (filtered deliberately)
+
+| File | Reason |
+|------|--------|
+| `2026-02-25_career-personal.md` | Too personal for public site |
+| `2026-02-25_current-events-politics.md` | Too political for public site |
 
 ---
 
