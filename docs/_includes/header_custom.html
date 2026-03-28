@@ -5,17 +5,20 @@
   page footer on mobile). Nothing visible is rendered here.
 {% endcomment %}
 
-{% comment %} Section filter tags — sr-only style so Pagefind indexes them {% endcomment %}
+{% comment %}
+  Section filter tags — text content used as filter value (bracket syntax fails in Pagefind 1.4).
+  sr-only CSS keeps them invisible but NOT display:none so Pagefind reads the text.
+{% endcomment %}
 {% if page.url contains '/kannaDa/dnsbhat/' %}
-<span data-pagefind-filter="section[DNS Bhat]" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;"></span>
+<span data-pagefind-filter="section" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">DNS Bhat</span>
 {% elsif page.url contains '/Reflection/' %}
-<span data-pagefind-filter="section[Reflection]" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;"></span>
+<span data-pagefind-filter="section" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">Reflection</span>
 {% elsif page.url contains '/FP/' %}
-<span data-pagefind-filter="section[FP]" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;"></span>
+<span data-pagefind-filter="section" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">FP</span>
 {% elsif page.url contains '/kannaDa/eke/' %}
-<span data-pagefind-filter="section[Eke]" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;"></span>
+<span data-pagefind-filter="section" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">Eke</span>
 {% else %}
-<span data-pagefind-filter="section[General]" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;"></span>
+<span data-pagefind-filter="section" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">General</span>
 {% endif %}
 
 <script>
