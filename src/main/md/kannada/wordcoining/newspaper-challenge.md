@@ -171,6 +171,8 @@ Sources: [vishaya.in — ಕನ್ನಡ ವಾರದ ಹೆಸರುಗಳು](
 
 S2 and S3 roots are fully Dravidian. S1 uses ಓಜ (Thursday) which is Sanskrit-derived (*ojas*) — the only non-Dravidian root across all three systems. The systems differ primarily in *mapping strategy* (semantic translation vs elemental vs astronomical observation).
 
+> 📝 ಮೆಲ್ಲೇರನಾಳಿನಲ್ಲಿ ಕೆಲವರು ಮೆಲ್ಲನೆ ಏಳುವರು — ಹೆಸರು ತಕ್ಕದಾಯಿತು! *(mellEranALinalLi kelavaru mellane ELuvaru — hesaru takkadAyitu!)*
+
 ---
 
 ## Session 3 — Electronic/Computing Terms & ಮಿನ್ನು- Convention
