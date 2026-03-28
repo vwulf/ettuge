@@ -1,49 +1,36 @@
 {% comment %}
-  nav_footer_custom.html — rendered twice by JTD:
-    1. Desktop: inside .d-md-block.d-none site-footer div in sidebar.html
-    2. Mobile:  inside components/footer.html (after page content)
-  The search widgets are now in the sidebar.html override (top of sidebar, desktop).
-  This file is wrapped in d-md-none so it only renders on mobile (footer), not desktop.
+  nav_footer_custom.html — mobile page footer only.
+  Wrapped in d-md-none so it is hidden in the desktop sidebar's site-footer div.
+  On mobile the side-bar is collapsed; these inputs appear at the bottom of the page
+  via components/footer.html. They call the same _pfSearch() as the sidebar inputs.
 {% endcomment %}
 
-<div class="d-md-none">
+<div class="d-md-none" data-pagefind-ignore>
 
-{% comment %} ── Global search (mobile footer) ── {% endcomment %}
-<div class="pf-block" style="padding:0.5rem 0.75rem 0;" data-pagefind-ignore>
-  <div style="font-size:0.65rem;text-transform:uppercase;letter-spacing:0.06em;opacity:0.55;margin-bottom:4px;">Search</div>
-  <div class="pf-widget" data-pf-filter="global"></div>
-</div>
-<script>
-(function () {
-  var PH = 'width:100%;padding:5px 8px;box-sizing:border-box;border:1px solid var(--border-color,#eeebee);border-radius:4px;font-size:0.82rem;background:var(--sidebar-color,#fff);cursor:text';
-  var wrap = document.currentScript.previousElementSibling;
-  var el   = wrap && wrap.querySelector('.pf-widget');
-  if (!el || el.firstChild) return;
-  var ph = document.createElement('input');
-  ph.type = 'search'; ph.placeholder = 'Search site\u2026'; ph.setAttribute('data-ph','Search site\u2026'); ph.style.cssText = PH;
-  el.appendChild(ph);
-  ph.addEventListener('focus', function () { window._pfLoad && window._pfLoad(ph, el); }, { once: true });
-})();
-</script>
+  <div style="padding:0.5rem 0.75rem 0;">
+    <div style="font-size:0.65rem;text-transform:uppercase;letter-spacing:0.06em;opacity:0.55;margin-bottom:4px;">Search</div>
+    <input
+      type="search"
+      class="pf-search-input"
+      placeholder="Search site&hellip;"
+      oninput="window._pfSearch && window._pfSearch(this.value, null, 'Site search')"
+      style="width:100%;padding:5px 8px;box-sizing:border-box;border:1px solid var(--border-color,#eeebee);border-radius:4px;font-size:0.82rem;background:var(--sidebar-color,#fff)"
+      aria-label="Search site"
+    >
+  </div>
 
-{% comment %} ── DNS Bhat deep search (mobile footer, DNS Bhat pages only) ── {% endcomment %}
-{% if page.url contains '/kannaDa/dnsbhat/' %}
-<div class="pf-block" style="padding:0.5rem 0.75rem 0.75rem;" data-pagefind-ignore>
-  <div style="font-size:0.65rem;text-transform:uppercase;letter-spacing:0.06em;opacity:0.55;margin-bottom:4px;">DNS Bhat Search</div>
-  <div class="pf-widget" data-pf-filter="dns"></div>
-</div>
-<script>
-(function () {
-  var PH = 'width:100%;padding:5px 8px;box-sizing:border-box;border:1px solid var(--border-color,#eeebee);border-radius:4px;font-size:0.82rem;background:var(--sidebar-color,#fff);cursor:text';
-  var wrap = document.currentScript.previousElementSibling;
-  var el   = wrap && wrap.querySelector('.pf-widget');
-  if (!el || el.firstChild) return;
-  var ph = document.createElement('input');
-  ph.type = 'search'; ph.placeholder = 'Search DNS Bhat\u2026'; ph.setAttribute('data-ph','Search DNS Bhat\u2026'); ph.style.cssText = PH;
-  el.appendChild(ph);
-  ph.addEventListener('focus', function () { window._pfLoad && window._pfLoad(ph, el); }, { once: true });
-})();
-</script>
-{% endif %}
+  {% if page.url contains '/kannaDa/dnsbhat/' %}
+  <div style="padding:0.5rem 0.75rem 0.75rem;">
+    <div style="font-size:0.65rem;text-transform:uppercase;letter-spacing:0.06em;opacity:0.55;margin-bottom:4px;">DNS Bhat Search</div>
+    <input
+      type="search"
+      class="pf-search-input"
+      placeholder="Search DNS Bhat&hellip;"
+      oninput="window._pfSearch && window._pfSearch(this.value, 'DNS Bhat', 'DNS Bhat search')"
+      style="width:100%;padding:5px 8px;box-sizing:border-box;border:1px solid var(--border-color,#eeebee);border-radius:4px;font-size:0.82rem;background:var(--sidebar-color,#fff)"
+      aria-label="Search DNS Bhat"
+    >
+  </div>
+  {% endif %}
 
 </div>

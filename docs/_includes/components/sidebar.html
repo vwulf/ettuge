@@ -1,7 +1,7 @@
 {%- comment -%}
-  Custom sidebar override — injects search widgets between site title and nav.
-  Copied from just-the-docs 0.12.0 with search section added.
-  nav_footer_custom.html is kept for mobile footer only (wrapped d-md-none).
+  Custom sidebar override — search widgets between site title and nav.
+  Inputs call window._pfSearch() (defined in header_custom.html) which uses
+  the low-level pagefind.js API. Results render in a fixed panel to the right.
 {%- endcomment -%}
 
 <header class="side-bar">
@@ -13,44 +13,38 @@
   </div>
 
   {%- comment -%} Search widgets — desktop sidebar only {%- endcomment -%}
-  <div class="site-search" data-pagefind-ignore style="padding:0.4rem 0.75rem 0.2rem;">
+  <div class="site-search" data-pagefind-ignore style="padding:0.4rem 0.75rem 0.3rem;">
+
     {%- comment -%} Global search {%- endcomment -%}
     <div style="font-size:0.65rem;text-transform:uppercase;letter-spacing:0.06em;opacity:0.55;margin-bottom:3px;">Search</div>
-    <div class="pf-widget" id="pf-global-sb" data-pf-filter="global"></div>
-    <script>
-    (function () {
-      var PH = 'width:100%;padding:5px 8px;box-sizing:border-box;border:1px solid var(--border-color,#eeebee);border-radius:4px;font-size:0.82rem;background:var(--sidebar-color,#fff);cursor:text';
-      var el = document.getElementById('pf-global-sb');
-      if (!el || el.firstChild) return;
-      var ph = document.createElement('input');
-      ph.type = 'search'; ph.placeholder = 'Search site\u2026'; ph.setAttribute('data-ph','Search site\u2026'); ph.style.cssText = PH;
-      el.appendChild(ph);
-      ph.addEventListener('focus', function () { window._pfLoad && window._pfLoad(ph, el); }, { once: true });
-    })();
-    </script>
+    <input
+      type="search"
+      class="pf-search-input"
+      placeholder="Search site&hellip;"
+      oninput="window._pfSearch && window._pfSearch(this.value, null, 'Site search')"
+      style="width:100%;padding:5px 8px;box-sizing:border-box;border:1px solid var(--border-color,#eeebee);border-radius:4px;font-size:0.82rem;background:var(--sidebar-color,#fff)"
+      aria-label="Search site"
+    >
 
-    {%- comment -%} DNS Bhat deep search — only on DNS Bhat pages {%- endcomment -%}
+    {%- comment -%} DNS Bhat filtered search — only on DNS Bhat pages {%- endcomment -%}
     {% if page.url contains '/kannaDa/dnsbhat/' %}
     <div style="font-size:0.65rem;text-transform:uppercase;letter-spacing:0.06em;opacity:0.55;margin:6px 0 3px;">DNS Bhat Search</div>
-    <div class="pf-widget" id="pf-dns-sb" data-pf-filter="dns"></div>
-    <script>
-    (function () {
-      var PH = 'width:100%;padding:5px 8px;box-sizing:border-box;border:1px solid var(--border-color,#eeebee);border-radius:4px;font-size:0.82rem;background:var(--sidebar-color,#fff);cursor:text';
-      var el = document.getElementById('pf-dns-sb');
-      if (!el || el.firstChild) return;
-      var ph = document.createElement('input');
-      ph.type = 'search'; ph.placeholder = 'Search DNS Bhat\u2026'; ph.setAttribute('data-ph','Search DNS Bhat\u2026'); ph.style.cssText = PH;
-      el.appendChild(ph);
-      ph.addEventListener('focus', function () { window._pfLoad && window._pfLoad(ph, el); }, { once: true });
-    })();
-    </script>
+    <input
+      type="search"
+      class="pf-search-input"
+      placeholder="Search DNS Bhat&hellip;"
+      oninput="window._pfSearch && window._pfSearch(this.value, 'DNS Bhat', 'DNS Bhat search')"
+      style="width:100%;padding:5px 8px;box-sizing:border-box;border:1px solid var(--border-color,#eeebee);border-radius:4px;font-size:0.82rem;background:var(--sidebar-color,#fff)"
+      aria-label="Search DNS Bhat"
+    >
     {% endif %}
+
   </div>
 
   {% include_cached components/site_nav.html %}
 
   {%- comment -%}
-    nav_footer_custom and/or this "site footer" appear in components/footer.html for the mobile view.
+    nav_footer_custom is kept for mobile footer (wrapped d-md-none there).
   {%- endcomment -%}
 
   <div class="d-md-block d-none site-footer">

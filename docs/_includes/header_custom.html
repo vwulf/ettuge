@@ -1,14 +1,13 @@
 {% comment %}
   header_custom.html — included once per page inside #main-header.
-  Contains: per-page Pagefind section filter tags + shared _pfLoad loader.
-  Search widgets are in nav_footer_custom.html (sidebar on desktop,
-  page footer on mobile). Nothing visible is rendered here.
+  Contains:
+    1. Per-page Pagefind section filter tags (sr-only text, not display:none)
+    2. Custom search engine using the low-level pagefind.js API (not PagefindUI)
+       — results render in a fixed panel to the right of the sidebar
+       — _pfSearch(query, filterSection, label) is called from sidebar inputs
 {% endcomment %}
 
-{% comment %}
-  Section filter tags — text content used as filter value (bracket syntax fails in Pagefind 1.4).
-  sr-only CSS keeps them invisible but NOT display:none so Pagefind reads the text.
-{% endcomment %}
+{% comment %} ── Section filter tags ── {% endcomment %}
 {% if page.url contains '/kannaDa/dnsbhat/' %}
 <span data-pagefind-filter="section" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">DNS Bhat</span>
 {% elsif page.url contains '/Reflection/' %}
@@ -21,41 +20,107 @@
 <span data-pagefind-filter="section" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">General</span>
 {% endif %}
 
+<style>
+/* Highlight marks in pagefind excerpts */
+#pf-results-body mark { background:#fef08a; padding:0 1px; border-radius:2px; }
+#pf-results-body a { color:var(--link-color,#7253ed); text-decoration:none; font-weight:600; }
+#pf-results-body a:hover { text-decoration:underline; }
+</style>
+
 <script>
-/* Shared Pagefind loader — defined once here, called from nav_footer_custom.html widgets */
-window._pfBase = '{{ site.baseurl }}/pagefind/';
-window._pfLoad = (function () {
-  var loaded = false;
-  return function (triggerEl, containerEl) {
-    if (loaded) return;
-    loaded = true;
-    if (triggerEl) { triggerEl.placeholder = 'Loading\u2026'; triggerEl.disabled = true; }
-    var css = document.createElement('link');
-    css.rel = 'stylesheet'; css.href = window._pfBase + 'pagefind-ui.css';
-    document.head.appendChild(css);
-    var js = document.createElement('script');
-    js.src = window._pfBase + 'pagefind-ui.js';
-    js.onerror = function () {
-      loaded = false; /* allow retry */
-      if (triggerEl) { triggerEl.placeholder = triggerEl.getAttribute('data-ph') || 'Search\u2026'; triggerEl.disabled = false; }
-    };
-    js.onload = function () {
-      document.querySelectorAll('.pf-widget').forEach(function (el) {
-        if (!el.id) el.id = 'pf-w-' + Math.random().toString(36).slice(2);
-        var opts = { element: '#' + el.id, bundlePath: window._pfBase, showImages: false };
-        if (el.getAttribute('data-pf-filter') === 'dns') opts.selected_filters = { 'section:DNS Bhat': true };
-        el.innerHTML = '';
-        new PagefindUI(opts);
+(function () {
+  var BASE = '{{ site.baseurl }}/pagefind/';
+  var _pf = null;      /* low-level pagefind.js module */
+  var _timer = null;
+
+  /* ── Results panel (fixed overlay right of sidebar) ── */
+  var panel = document.createElement('div');
+  panel.id = 'pf-results-panel';
+  panel.style.cssText = 'display:none;position:fixed;top:60px;left:248px;right:0;bottom:0;overflow-y:auto;background:var(--body-background-color,#fff);z-index:500;padding:1.5rem 2rem;border-left:2px solid var(--border-color,#eeebee);box-shadow:-6px 0 18px rgba(0,0,0,0.07)';
+  panel.innerHTML =
+    '<div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:1rem;padding-bottom:0.5rem;border-bottom:1px solid var(--border-color,#eeebee)">' +
+      '<span id="pf-results-label" style="font-size:0.78rem;text-transform:uppercase;letter-spacing:0.07em;opacity:0.55;font-weight:600"></span>' +
+      '<button id="pf-results-close" style="background:none;border:none;cursor:pointer;font-size:1.1rem;line-height:1;opacity:0.45;padding:2px 4px" aria-label="Close search results">\u00d7</button>' +
+    '</div>' +
+    '<div id="pf-results-body"></div>';
+  document.body.appendChild(panel);
+
+  /* Adjust left edge to match actual sidebar width */
+  function reposition() {
+    var sb = document.querySelector('header.side-bar');
+    if (sb) panel.style.left = Math.round(sb.getBoundingClientRect().right) + 'px';
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', reposition);
+  } else {
+    setTimeout(reposition, 0);
+  }
+  window.addEventListener('resize', reposition);
+
+  /* Close panel */
+  document.getElementById('pf-results-close').addEventListener('click', function () {
+    panel.style.display = 'none';
+    document.querySelectorAll('.pf-search-input').forEach(function (el) { el.value = ''; });
+  });
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape') {
+      panel.style.display = 'none';
+      document.querySelectorAll('.pf-search-input').forEach(function (el) { el.value = ''; });
+    }
+  });
+
+  /* ── Lazy-load low-level pagefind.js ── */
+  function loadPf() {
+    if (_pf) return Promise.resolve(_pf);
+    return import(BASE + 'pagefind.js').then(function (mod) {
+      _pf = mod;
+      return _pf;
+    });
+  }
+
+  /* ── Public search function — called from sidebar/footer inputs ── */
+  window._pfSearch = function (query, filterSection, label) {
+    clearTimeout(_timer);
+    var body  = document.getElementById('pf-results-body');
+    var lbl   = document.getElementById('pf-results-label');
+
+    if (!query || !query.trim()) {
+      panel.style.display = 'none';
+      return;
+    }
+
+    _timer = setTimeout(function () {
+      lbl.textContent  = label || 'Search results';
+      body.innerHTML   = '<p style="opacity:0.55;margin:0">Searching\u2026</p>';
+      panel.style.display = 'block';
+      reposition();
+
+      loadPf().then(function (pf) {
+        var opts = {};
+        if (filterSection) opts.filters = { section: [filterSection] };
+        return pf.search(query, opts);
+      }).then(function (res) {
+        if (!res || res.results.length === 0) {
+          body.innerHTML = '<p style="opacity:0.55;margin:0">No results for \u201c' + query + '\u201d</p>';
+          return;
+        }
+        var top = res.results.slice(0, 12);
+        Promise.all(top.map(function (r) { return r.data(); })).then(function (items) {
+          var more = res.results.length > 12
+            ? '<p style="opacity:0.45;font-size:0.8rem;margin-top:0.5rem">\u2026' + (res.results.length - 12) + ' more results</p>'
+            : '';
+          body.innerHTML = items.map(function (d) {
+            var title = (d.meta && d.meta.title) ? d.meta.title : d.url;
+            return '<div style="margin-bottom:1.4rem;padding-bottom:1.1rem;border-bottom:1px solid var(--border-color,#eeebee)">' +
+              '<a href="' + d.url + '">' + title + '</a>' +
+              '<p style="margin:0.3rem 0 0;font-size:0.875rem;opacity:0.72;line-height:1.45">' + d.excerpt + '</p>' +
+              '</div>';
+          }).join('') + more;
+        });
+      }).catch(function () {
+        body.innerHTML = '<p style="opacity:0.55;margin:0">Search unavailable (index not built locally).</p>';
       });
-      /* Re-focus the widget that triggered the load */
-      if (containerEl) {
-        setTimeout(function () {
-          var inp = containerEl.querySelector('input');
-          if (inp) inp.focus();
-        }, 150);
-      }
-    };
-    document.head.appendChild(js);
+    }, 250);
   };
 }());
 </script>
