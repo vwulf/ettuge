@@ -11,6 +11,10 @@ ettuge is a personal knowledge garden sitting at the intersection of language, c
 
 ## ಕನ್ನಡ — Language & DNS Bhat
 
+### [Zero Speculation — Dravidian origins of zero](kannaDa/eke/zero-speculation-illustrated.html)
+
+A speculative research essay linking the *puḷḷi* (Tamil virama dot), the possible Dravidian etymology of *śūnya*, and the K-127 Cambodia inscription (683 CE) — the earliest dated zero in stone — to argue that the conceptual and graphic substrate for zero may be substantially older and Dravidian in origin.
+
 ### [Eke — a romanisation for Kannada](kannaDa/eke/reference)
 
 Informal Kannada writing on the internet has drifted into a loose collection of ad-hoc conventions. **Eke** (ಏಕೆ) is a principled yet lightweight romanisation scheme bridging the gap between these informal habits and the more rigorous Harvard-Kyoto protocol. It draws on D. N. Shankara Bhat's *Ellara Kannada* movement — which advocates for a written form closer to how the language is actually spoken, dropping aspirated consonants that do not exist in natural Kannada speech. Key conventions: long vowels uppercase (`A I U E O`), retroflexes uppercase (`T D N L S`), diphthongs as sequences (`ay` for ಐ, `av` for ಔ), anusvara always assimilated (never standalone `M`).

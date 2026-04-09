@@ -1,0 +1,948 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Zero Speculation — Dravidian Origins of Zero</title>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Kannada:wght@400;700&family=IBM+Plex+Mono:wght@400;500&family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400;1,600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink:          #0f1a1f;
+    --paper:        #eef3f5;
+    --teal:         #1a5f6b;
+    --teal-light:   #2a8a9a;
+    --teal-faint:   #d0e8ec;
+    --gold:         #8b6914;
+    --gold-light:   #c49a1e;
+    --warm-mid:     #4a5a60;
+    --warm-light:   #9ab0b8;
+    --warm-faint:   #dde8ec;
+    --green:        #2d5a3d;
+    --green-light:  #4a8a5a;
+    --green-faint:  #d8ecdd;
+    --rose:         #7a1a3a;
+    --rose-light:   #b02a5a;
+    --rose-faint:   #f0d8e0;
+    --amber:        #7a4a14;
+    --amber-faint:  #f5ebd8;
+    --indigo:       #2a2a6e;
+    --indigo-faint: #e8e8f5;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.05rem;
+    line-height: 1.75;
+    padding: 3rem 2rem 6rem;
+    background-image:
+      radial-gradient(ellipse at 8% 8%, rgba(26,95,107,0.07) 0%, transparent 55%),
+      radial-gradient(ellipse at 92% 88%, rgba(139,105,20,0.05) 0%, transparent 55%);
+  }
+
+  .page { max-width: 860px; margin: 0 auto; }
+
+  /* ── HERO ── */
+  .hero {
+    text-align: center;
+    padding: 4rem 0 3rem;
+    margin-bottom: 3rem;
+    border-bottom: 1px solid var(--warm-light);
+    position: relative;
+  }
+
+  .hero::before {
+    content: '';
+    display: block;
+    width: 60px;
+    height: 2px;
+    background: var(--teal-light);
+    margin: 0 auto 2.5rem;
+  }
+
+  .zero-ornament {
+    font-size: 5rem;
+    line-height: 1;
+    letter-spacing: 0.3em;
+    color: var(--teal);
+    opacity: 0.18;
+    font-family: 'Noto Serif Kannada', serif;
+    margin-bottom: 1rem;
+    user-select: none;
+  }
+
+  .hero-title {
+    font-size: 2.8rem;
+    font-weight: 600;
+    color: var(--teal);
+    line-height: 1.15;
+    margin-bottom: 0.5rem;
+  }
+
+  .hero-colon {
+    display: block;
+    width: 30px;
+    height: 1px;
+    background: var(--gold-light);
+    margin: 0.8rem auto;
+    opacity: 0.6;
+  }
+
+  .hero-subtitle {
+    font-size: 1.25rem;
+    font-style: italic;
+    color: var(--warm-mid);
+    margin-bottom: 1.5rem;
+    max-width: 620px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .hero-tag {
+    display: inline-flex;
+    align-items: center;
+    gap: 1.2rem;
+    padding: 0.45rem 1.2rem;
+    background: var(--teal);
+    color: #fff;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.72rem;
+    letter-spacing: 0.1em;
+    margin-bottom: 1.2rem;
+  }
+
+  .hero-tag span { opacity: 0.65; }
+
+  .hero-note {
+    font-size: 0.85rem;
+    font-style: italic;
+    color: var(--warm-mid);
+    margin-top: 0.8rem;
+  }
+
+  /* ── TABLE OF CONTENTS ── */
+  .toc {
+    background: #fff;
+    border: 1px solid var(--warm-faint);
+    border-left: 3px solid var(--teal-light);
+    padding: 1.4rem 1.8rem;
+    margin-bottom: 3rem;
+    font-size: 0.88rem;
+  }
+
+  .toc-title {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.68rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--warm-light);
+    margin-bottom: 0.8rem;
+  }
+
+  .toc ol {
+    padding-left: 1.2rem;
+    color: var(--teal);
+  }
+
+  .toc li {
+    margin-bottom: 0.3rem;
+  }
+
+  .toc a {
+    color: var(--teal);
+    text-decoration: none;
+  }
+
+  .toc a:hover {
+    text-decoration: underline;
+    color: var(--teal-light);
+  }
+
+  /* ── ABSTRACT ── */
+  .abstract {
+    background: var(--teal-faint);
+    border-left: 4px solid var(--teal);
+    padding: 1.5rem 1.8rem;
+    margin-bottom: 3rem;
+    font-size: 0.95rem;
+    line-height: 1.8;
+  }
+
+  .abstract-label {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.65rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--teal);
+    margin-bottom: 0.7rem;
+  }
+
+  /* ── SECTION ── */
+  .section {
+    margin-bottom: 3.5rem;
+    animation: fadeIn 0.5s ease both;
+  }
+
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(8px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
+  .section:nth-child(1)  { animation-delay: 0.05s; }
+  .section:nth-child(2)  { animation-delay: 0.1s; }
+  .section:nth-child(3)  { animation-delay: 0.15s; }
+  .section:nth-child(4)  { animation-delay: 0.2s; }
+  .section:nth-child(5)  { animation-delay: 0.25s; }
+  .section:nth-child(6)  { animation-delay: 0.3s; }
+  .section:nth-child(7)  { animation-delay: 0.35s; }
+  .section:nth-child(8)  { animation-delay: 0.4s; }
+
+  .section-num {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.65rem;
+    letter-spacing: 0.12em;
+    color: var(--gold-light);
+    margin-bottom: 0.2rem;
+  }
+
+  .section h2 {
+    font-size: 1.6rem;
+    font-weight: 600;
+    color: var(--teal);
+    margin-bottom: 1rem;
+    line-height: 1.2;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--warm-faint);
+  }
+
+  .section h3 {
+    font-size: 1.15rem;
+    font-weight: 600;
+    color: var(--indigo);
+    margin: 1.6rem 0 0.7rem;
+    padding-left: 0.8rem;
+    border-left: 3px solid var(--teal-light);
+  }
+
+  .section p {
+    margin-bottom: 1rem;
+  }
+
+  /* ── TABLES ── */
+  .table-wrap {
+    overflow-x: auto;
+    margin: 1.4rem 0;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    background: #fff;
+    font-size: 0.88rem;
+    border: 1px solid var(--warm-light);
+  }
+
+  thead tr {
+    background: var(--teal);
+    color: #fff;
+  }
+
+  th {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.62rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding: 0.55rem 0.9rem;
+    text-align: left;
+    font-weight: 500;
+    color: rgba(255,255,255,0.85);
+    border-right: 1px solid rgba(255,255,255,0.15);
+  }
+
+  th:last-child { border-right: none; }
+
+  td {
+    padding: 0.6rem 0.9rem;
+    border-bottom: 1px solid var(--warm-faint);
+    vertical-align: middle;
+    line-height: 1.5;
+  }
+
+  tr:last-child td { border-bottom: none; }
+  tr:hover td { background: rgba(26,95,107,0.03); }
+
+  .td-lang {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.72rem;
+    color: var(--warm-mid);
+    white-space: nowrap;
+  }
+
+  .td-word {
+    font-style: italic;
+    color: var(--indigo);
+    font-size: 0.95rem;
+  }
+
+  .td-kn {
+    font-family: 'Noto Serif Kannada', serif;
+    font-size: 1.15rem;
+    color: var(--teal);
+  }
+
+  .td-meaning {
+    color: var(--warm-mid);
+  }
+
+  /* ── ISOMORPHISM TABLE ── */
+  .iso-table thead tr { background: var(--indigo); }
+
+  /* ── PULL QUOTE ── */
+  .pullquote {
+    margin: 1.8rem 0;
+    padding: 1.2rem 1.5rem 1.2rem 2rem;
+    border-left: 4px solid var(--gold-light);
+    background: #faf5e6;
+    font-size: 1.05rem;
+    font-style: italic;
+    color: var(--amber);
+    line-height: 1.7;
+  }
+
+  .pullquote cite {
+    display: block;
+    margin-top: 0.5rem;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.65rem;
+    letter-spacing: 0.08em;
+    color: var(--warm-mid);
+    font-style: normal;
+  }
+
+  /* ── INSIGHT BOX ── */
+  .insight {
+    background: var(--green-faint);
+    border: 1px solid var(--green-light);
+    border-left: 4px solid var(--green);
+    padding: 1.1rem 1.4rem;
+    margin: 1.4rem 0;
+    font-size: 0.92rem;
+    line-height: 1.75;
+  }
+
+  .insight-label {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.6rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--green);
+    margin-bottom: 0.4rem;
+  }
+
+  /* ── CAUTION BOX ── */
+  .speculative {
+    background: var(--amber-faint);
+    border: 1px solid rgba(122,74,20,0.3);
+    border-left: 4px solid var(--amber);
+    padding: 0.9rem 1.2rem;
+    margin: 1.2rem 0;
+    font-size: 0.85rem;
+    color: var(--amber);
+    font-style: italic;
+  }
+
+  /* ── TIMELINE ── */
+  .timeline {
+    position: relative;
+    padding-left: 2.5rem;
+    margin: 1.8rem 0;
+  }
+
+  .timeline::before {
+    content: '';
+    position: absolute;
+    left: 0.75rem;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: linear-gradient(to bottom, var(--teal-light), var(--gold-light));
+  }
+
+  .tl-entry {
+    position: relative;
+    margin-bottom: 1.6rem;
+    padding: 1rem 1.2rem;
+    background: #fff;
+    border: 1px solid var(--warm-faint);
+  }
+
+  .tl-entry::before {
+    content: '';
+    position: absolute;
+    left: -1.85rem;
+    top: 1.1rem;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: var(--teal-light);
+    border: 2px solid var(--paper);
+    box-shadow: 0 0 0 2px var(--teal-light);
+  }
+
+  .tl-date {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.68rem;
+    letter-spacing: 0.1em;
+    color: var(--gold-light);
+    margin-bottom: 0.3rem;
+  }
+
+  .tl-title {
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--teal);
+    margin-bottom: 0.4rem;
+  }
+
+  .tl-body {
+    font-size: 0.88rem;
+    color: var(--warm-mid);
+    line-height: 1.65;
+  }
+
+  /* ── OPEN QUESTIONS ── */
+  .questions-list {
+    counter-reset: q;
+    list-style: none;
+    padding: 0;
+    margin: 1rem 0;
+  }
+
+  .questions-list li {
+    counter-increment: q;
+    position: relative;
+    padding: 0.9rem 1rem 0.9rem 3rem;
+    margin-bottom: 0.8rem;
+    background: #fff;
+    border: 1px solid var(--warm-faint);
+    font-size: 0.9rem;
+    line-height: 1.7;
+  }
+
+  .questions-list li::before {
+    content: counter(q);
+    position: absolute;
+    left: 0.8rem;
+    top: 0.9rem;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.82rem;
+    color: var(--teal-light);
+    font-weight: 500;
+  }
+
+  /* ── REFERENCES ── */
+  .refs {
+    margin-top: 3rem;
+    padding-top: 2rem;
+    border-top: 2px solid var(--warm-faint);
+  }
+
+  .refs-title {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.7rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--warm-light);
+    margin-bottom: 1.5rem;
+  }
+
+  .ref-group {
+    margin-bottom: 2rem;
+  }
+
+  .ref-group-label {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.65rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--teal);
+    border-bottom: 1px solid var(--teal-faint);
+    padding-bottom: 0.3rem;
+    margin-bottom: 0.8rem;
+  }
+
+  .ref-item {
+    font-size: 0.83rem;
+    margin-bottom: 0.55rem;
+    padding-left: 1.2rem;
+    text-indent: -1.2rem;
+    color: var(--warm-mid);
+    line-height: 1.6;
+  }
+
+  .ref-item a { color: var(--teal); text-decoration: none; }
+  .ref-item a:hover { text-decoration: underline; }
+
+  em.inscr { font-style: italic; color: var(--indigo); }
+
+  /* ── FOOTER ── */
+  .essay-footer {
+    margin-top: 4rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--warm-faint);
+    text-align: center;
+    font-size: 0.82rem;
+    color: var(--warm-mid);
+    font-style: italic;
+  }
+
+  .essay-footer a { color: var(--teal); text-decoration: none; }
+  .essay-footer a:hover { text-decoration: underline; }
+
+  /* ── RESPONSIVE ── */
+  @media (max-width: 640px) {
+    body { padding: 1.5rem 1rem 4rem; }
+    .hero-title { font-size: 2rem; }
+    .zero-ornament { font-size: 3.5rem; }
+    table { font-size: 0.8rem; }
+    td, th { padding: 0.45rem 0.55rem; }
+  }
+
+  /* ── PRINT ── */
+  @media print {
+    body { background: #fff; padding: 1cm; }
+    .hero-tag { background: #333; }
+    .section { animation: none; }
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <!-- ═══ HERO ═══ -->
+  <header class="hero">
+    <div class="zero-ornament">০ ० ೦ ๐ ᱐</div>
+    <h1 class="hero-title">Zero Speculation</h1>
+    <span class="hero-colon"></span>
+    <p class="hero-subtitle">The Dot That Counted: Dravidian Script Architecture and the Origins of Zero</p>
+    <div class="hero-tag">
+      <span>ETTUGE RESEARCH ESSAY</span>
+      ·
+      <span>APRIL 2026</span>
+      ·
+      <span>SPECULATIVE</span>
+    </div>
+    <p class="hero-note">
+      Linking the <em>puḷḷi</em> (virama dot), <em>śūnya</em> etymology, and the K-127 Cambodia inscription
+    </p>
+  </header>
+
+  <!-- ═══ TABLE OF CONTENTS ═══ -->
+  <nav class="toc">
+    <div class="toc-title">Contents</div>
+    <ol>
+      <li><a href="#abstract">Abstract</a></li>
+      <li><a href="#s1">Introduction: The Standard Story and Its Gaps</a></li>
+      <li><a href="#s2">The Etymology of <em>Śūnya</em>: Sanskrit or Dravidian?</a></li>
+      <li><a href="#s3">The <em>Puḷḷi</em> Hypothesis: Absence as Scribal Architecture</a></li>
+      <li><a href="#s4">The Cambodia Connection: K-127 and the Pallava-Kadamba Debate</a></li>
+      <li><a href="#s5">Synthesis: A Dravidian Archaeology of Zero</a></li>
+      <li><a href="#s6">The <em>Pūrṇam Adaḥ</em> Paradox</a></li>
+      <li><a href="#s7">Open Questions and Further Research</a></li>
+      <li><a href="#refs">References</a></li>
+    </ol>
+  </nav>
+
+  <!-- ═══ ABSTRACT ═══ -->
+  <div class="abstract" id="abstract">
+    <div class="abstract-label">Abstract</div>
+    <p>The conventional narrative attributes the mathematical zero to Sanskrit philosophical vocabulary (<em>śūnya</em> — emptiness) as elaborated through Buddhist <em>śūnyatā</em> doctrine and formalised arithmetically by Brahmagupta (628&thinsp;CE). This essay argues that the conceptual and graphic substrate for zero may be substantially older and Dravidian in origin: the <em>puḷḷi</em> (Tamil virama dot, attested from the 2nd century CE), the possible Dravidian etymology of <em>śūnya</em> itself, and the divergent treatment of positional zero between Tamil and Kannada numeral traditions all point toward a richer, pre-Buddhist infrastructure for the concept of marked absence.</p>
+    <p style="margin-bottom:0">The essay further examines the Khmer inscription K-127 (683&thinsp;CE) — the earliest dated zero in stone — through the lens of the Pallava-Kadamba script controversy, and draws parallels between the adoption of the positional zero and the late appearance of the visible virama in the Kadamba-to-Kannada script transition.</p>
+  </div>
+
+  <!-- ═══ SECTION 1 ═══ -->
+  <div class="section" id="s1">
+    <div class="section-num">§ 1</div>
+    <h2>Introduction: The Standard Story and Its Gaps</h2>
+
+    <p>The story of zero as commonly told runs: emptiness as Buddhist philosophy (<em>śūnyatā</em>, c.&thinsp;3rd century BCE) → placeholder dot in calculation (<em>śūnya-bindu</em>, Bakhshali manuscript, 3rd–4th century CE) → arithmetic zero with defined rules (Brahmagupta, <em>Brahmasphutasiddhānta</em>, 628&thinsp;CE) → stone inscription zero (Gwalior temple, 876&thinsp;CE).</p>
+
+    <p>Amir Aczel's <em>Finding Zero</em> (2015) added a crucial chapter: the earlier Khmer inscription K-127 (683&thinsp;CE), bearing a zero in positional notation predating the Gwalior zero by nearly two centuries. Aczel's quest — recovering the stone from Phnom Penh — dramatised the question of where the zero symbol <em>originated</em> before reaching Cambodia.</p>
+
+    <div class="insight">
+      <div class="insight-label">Three neglected questions</div>
+      <ol style="padding-left:1.4rem; margin:0; font-size:0.9rem; line-height:1.85;">
+        <li>Does <em>śūnya</em> have a plausible Dravidian etymology that predates its Sanskrit philosophical elaboration?</li>
+        <li>Was the <em>puḷḷi</em> (virama dot) — an earlier, independent, visible mark for "absence in a structured positional slot" — a cognitive and graphic precursor to the zero symbol?</li>
+        <li>Does the divergence between Tamil (which retained dedicated non-positional glyphs for 10/100/1000) and Kannada (which adopted positional zero ~9th–10th century CE) reflect a deeper structural difference in how each tradition encoded absence?</li>
+      </ol>
+    </div>
+  </div>
+
+  <!-- ═══ SECTION 2 ═══ -->
+  <div class="section" id="s2">
+    <div class="section-num">§ 2</div>
+    <h2>The Etymology of <em>Śūnya</em>: Sanskrit or Dravidian?</h2>
+
+    <h3>2.1 The standard internal Sanskrit derivation</h3>
+
+    <p>Sanskrit <em>śūnya</em> is conventionally derived from the root <em>śvi</em> / <em>śū-</em> (to swell, to be hollow), giving <em>śū-na</em> (hollow, swollen) → <em>śūnya</em> (empty, void). The proposed Proto-Indo-European cognate <em>*ḱeu-</em> (to swell) links to Greek <em>κύω</em> and English <em>swollen</em> — but this connection is weak and contested. Mayrhofer's authoritative <em>Etymologisches Wörterbuch des Altindoarischen</em> (1992–2001) flags words without clean Indo-European cognates as candidates for Dravidian substrate influence.</p>
+
+    <div class="speculative">
+      <strong>Criterion:</strong> <em>Śūnya</em> has no clean IE cognate family. No Greek, Latin, Avestan, or Germanic word clearly reflects <em>*śū-na</em> in the sense of "empty/void." This is precisely the criterion Caldwell (1856), Kittel (1873), and Emeneau (DEDR, 1984) use to identify Dravidian loans into Sanskrit.
+    </div>
+
+    <h3>2.2 The Dravidian cluster: <em>suḻi</em>, <em>suḻiyam</em>, <em>sonne</em></h3>
+
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>Language</th>
+            <th>Word</th>
+            <th>Meaning</th>
+            <th>Note</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="td-lang">Tamil</td>
+            <td class="td-word">suḻi</td>
+            <td>whirl, curl, vortex, spiral</td>
+            <td class="td-meaning">concrete, physical shape</td>
+          </tr>
+          <tr>
+            <td class="td-lang">Tamil</td>
+            <td class="td-word">suḻiyam</td>
+            <td>zero (the numeral ௦)</td>
+            <td class="td-meaning">named from the <em>shape</em> of the symbol — a curl</td>
+          </tr>
+          <tr>
+            <td class="td-lang">Kannada</td>
+            <td><span class="td-kn">ಸೊನ್ನೆ</span> <em>sonne</em></td>
+            <td>zero (numeral only)</td>
+            <td class="td-meaning">not used for existential nothingness</td>
+          </tr>
+          <tr>
+            <td class="td-lang">Telugu</td>
+            <td class="td-word">sūnnu</td>
+            <td>zero</td>
+            <td class="td-meaning">phonologically close to <em>śūnya</em></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="pullquote">
+      The Tamil <em>suḻiyam</em> is remarkable: it names zero from the <em>shape</em> of the symbol (a curl/whirl) rather than from philosophical emptiness. This is a concrete, visual, physically motivated etymology — exactly what you would expect from a root that predates philosophical abstraction.
+    </div>
+
+    <p>The phonological path <em>suḻi</em> → <em>śūnya</em> would require: <em>s</em> → <em>ś</em> (palatalisation, common in Sanskrit contact); <em>uḻ</em> → <em>ū</em> (loss of retroflex lateral, vowel lengthening); <em>-i</em> → <em>-ya</em> (Sanskrit nominalising suffix applied to borrowed root). This is entirely within the documented patterns of Dravidian-to-Sanskrit phonological adaptation.</p>
+
+    <h3>2.3 Chronological layering of <em>śūnya</em></h3>
+
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr><th>Phase</th><th>Source</th><th>Usage of <em>śūnya</em></th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="td-lang">~1200–900 BCE</td>
+            <td>Atharvaveda</td>
+            <td>Concrete, mundane — "empty/deserted place, abandoned house." No philosophical weight.</td>
+          </tr>
+          <tr>
+            <td class="td-lang">~800–600 BCE</td>
+            <td>Early Upaniṣads</td>
+            <td><em>Pūrṇa/śūnya</em> polarity crystallises. Bṛhadāraṇyaka 5.1.1 (~700 BCE) uses fullness as positive cosmological term.</td>
+          </tr>
+          <tr>
+            <td class="td-lang">~5th–3rd c. BCE</td>
+            <td>Pāli texts, Theravāda</td>
+            <td><em>Suññatā</em> becomes a technical term for the not-self nature of the five aggregates.</td>
+          </tr>
+          <tr>
+            <td class="td-lang">~2nd c. CE</td>
+            <td>Nāgārjuna, Mādhyamaka</td>
+            <td><em>Śūnyatā</em> becomes a complete philosophical system. The mathematical borrowing follows.</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p style="font-size:0.9rem; font-style:italic; color:var(--warm-mid)">This layering is consistent with a word that entered Sanskrit from a Dravidian substrate at a mundane, concrete level, was then philosophically elaborated, and finally mathematised.</p>
+  </div>
+
+  <!-- ═══ SECTION 3 ═══ -->
+  <div class="section" id="s3">
+    <div class="section-num">§ 3</div>
+    <h2>The <em>Puḷḷi</em> Hypothesis: Absence as Scribal Architecture</h2>
+
+    <h3>3.1 The Tamil puḷḷi and its uniqueness</h3>
+
+    <p>The Tamil <em>puḷḷi</em> (புள்ளி, virama dot) is attested in inscriptions from the <strong>2nd century CE</strong> (Mahadevan 2003, <em>Early Tamil Epigraphy</em>), making it one of the earliest explicit visible absence-markers in any South Asian script. It marks "no vowel follows this consonant" — a visible dot encoding positional absence within a structured system.</p>
+
+    <div class="insight">
+      <div class="insight-label">Key distinction</div>
+      Unlike viramas in other Brahmic scripts — where the absence mark is typically <em>hidden</em> inside a conjunct ligature — the Tamil puḷḷi is <strong>always visibly rendered as a dot above the consonant</strong>. The Tamil grammatical tradition explicitly theorises this: the <em>Tolkāppiyam</em> calls the bare consonant (with puḷḷi) a <em>mey</em> — "dead body" — philosophically distinguished from <em>uyir</em> (soul/vowel). The puḷḷi marks this death.
+    </div>
+
+    <p>The word <em>puḷḷi</em> derives from <em>pul-</em> (small, insignificant, minimal) — cognate with Kannada <em>hullu</em> (grass, trivial, low). The puḷḷi is the <em>smallest meaningful mark</em> — the minimum perceptible unit. This is also what <em>cukke</em> means in Kannada: both "dot/point" and "star" (a dot of light in the distance).</p>
+
+    <h3>3.2 The structural isomorphism</h3>
+
+    <div class="table-wrap">
+      <table class="iso-table">
+        <thead>
+          <tr>
+            <th>System</th>
+            <th>Mark</th>
+            <th>Meaning</th>
+            <th>Form</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Abugida script</td>
+            <td><em>puḷḷi</em> / virama</td>
+            <td>"Absence of vowel in this phonological slot"</td>
+            <td style="font-size:1.5rem; text-align:center; color:var(--indigo)">·</td>
+          </tr>
+          <tr>
+            <td>Positional numeral</td>
+            <td>zero placeholder</td>
+            <td>"Absence of quantity in this positional slot"</td>
+            <td style="font-size:1.5rem; text-align:center; color:var(--teal)">০ ० ೦</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="pullquote">
+      Both are marks for <em>absence within a structured positional system</em>. Both encode "nothing here" as a <strong>first-class visible entity</strong> rather than leaving the slot blank. This is the key cognitive innovation — not the philosophical concept of emptiness (which many cultures had), but the <em>scribal discipline</em> of marking absence explicitly as a form of presence.
+    </div>
+
+    <p>The Bakhshali manuscript zero (3rd–4th century CE) is a dot — graphically identical to the Tamil puḷḷi. The coincidence of form invites the hypothesis that the scribal tradition of marking positional absence as a dot migrated from phonological notation into numerical notation.</p>
+
+    <h3>3.3 Why Tamil resisted positional zero</h3>
+
+    <p>The Tamil numeral system retained dedicated glyphs for 10 (௰), 100 (௱), and 1000 (௲) and never natively adopted positional zero within a traditional framework. Modern Tamil ௦ is essentially a contemporary adoption. This is structurally parallel to Tamil's retention of the visible puḷḷi: both reflect a system that already had a <strong>rich infrastructure for encoding absence explicitly</strong>, and therefore had less need to import a new symbol.</p>
+
+    <p>Kannada, by contrast, handled the virama differently: consonant clusters were encoded through <strong>subjoined ligature stacking</strong> — the virama was <em>hidden</em> inside the conjunct form, invisible in the rendered glyph. The explicit halanta (್) became consistently visible in Kannada inscriptions only from the <strong>Rashtrakuta period (8th–10th century CE)</strong> — precisely when positional zero was also being adopted (~9th–10th century CE). The two innovations arrived together.</p>
+  </div>
+
+  <!-- ═══ SECTION 4 ═══ -->
+  <div class="section" id="s4">
+    <div class="section-num">§ 4</div>
+    <h2>The Cambodia Connection: K-127 and the Pallava-Kadamba Debate</h2>
+
+    <h3>4.1 K-127 and its zero</h3>
+
+    <p>Khmer inscription K-127, dated 683&thinsp;CE (Śaka year 605), discovered at Sambor on the Mekong River, contains the earliest dated zero in stone. The numeral 605 is written with a positional zero in the hundreds place — unambiguous place-value notation. This antedates the Gwalior temple zero (876&thinsp;CE) by nearly two centuries.</p>
+
+    <div class="table-wrap">
+      <table>
+        <thead><tr><th>Inscription</th><th>Date</th><th>Location</th><th>Significance</th></tr></thead>
+        <tbody>
+          <tr>
+            <td class="td-lang"><em class="inscr">Gudnapur inscription</em></td>
+            <td>~500 CE</td>
+            <td>Karnataka, Kadamba</td>
+            <td>First complete Kannada numeral set (1–9)</td>
+          </tr>
+          <tr>
+            <td class="td-lang"><em class="inscr">K-127, Sambor</em></td>
+            <td>683 CE</td>
+            <td>Cambodia (Mekong)</td>
+            <td><strong>Earliest dated positional zero in stone</strong></td>
+          </tr>
+          <tr>
+            <td class="td-lang"><em class="inscr">Gwalior temple</em></td>
+            <td>876 CE</td>
+            <td>Madhya Pradesh</td>
+            <td>First Indian stone inscription with positional zero</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <h3>4.2 The script attribution controversy</h3>
+
+    <p>The script of K-127 is conventionally attributed to <strong>"Pallava Grantha"</strong>. However, the attribution is contested on several grounds:</p>
+
+    <ul style="padding-left:1.5rem; margin:0.8rem 0 1rem; line-height:1.9; font-size:0.9rem;">
+      <li>Epigrapher Arlo Griffiths prefers the term <em>Late Southern Brāhmī</em> for the cluster of related scripts, calling "Pallava" misleading.</li>
+      <li>The earliest Pallava inscriptions (Mayidavolu copper plates, 4th century CE) use <strong>Kadamba script</strong>, not a distinct "Pallava" script. Grantha and Vatteluthu evolved <em>from</em> Kadamba.</li>
+      <li>The Śaka era used in Cambodian and Indonesian inscriptions was <strong>introduced by the Chalukyas of Badami</strong> (Karnataka) — it was never used by the Pallavas.</li>
+      <li>The "box-headed alphabet" in Champa (central Vietnam) inscriptions is "generally found in central and upper Deccan as well as Kannada-speaking areas," not in Pallava territory.</li>
+    </ul>
+
+    <h3>4.3 The Grantha-<em>ottakṣara</em> connection</h3>
+
+    <p>Grantha script developed the <em>ottakṣara</em> — stacked subjoined consonant forms — which are structurally closer to the conjunct-stacking tradition of Kadamba/Kannada than to the Tamil-Brāhmī orthography. The Khmer script's handling of consonant clusters through subjoined forms is architecturally closer to this Kadamba-Grantha tradition than to the Tamil puḷḷi approach.</p>
+
+    <div class="insight">
+      <div class="insight-label">The crucial point</div>
+      The script of K-127 that <strong>contains the zero</strong> is a Sanskrit-writing script in the Kadamba-Grantha tradition — structured with subjoined consonant clusters and a treatment of virama closer to the Kadamba/Kannada implicit-virama approach than to the Tamil explicit-puḷḷi approach. The zero arrived in Cambodia via the Deccan scribal tradition, not via Tamil Nadu.
+    </div>
+
+    <p>A direct dynastic connection also existed: after Pallava king Parameśvaravarman II died without heir (~730&thinsp;CE), <em>Pallavamalla</em> (Nandivarman II) was the prince who returned from Cambodia to claim the Pallava throne. The Pallava-Cambodia-Kadamba triangle is genealogical, not merely scribal.</p>
+  </div>
+
+  <!-- ═══ SECTION 5 ═══ -->
+  <div class="section" id="s5">
+    <div class="section-num">§ 5</div>
+    <h2>Synthesis: A Dravidian Archaeology of Zero</h2>
+
+    <p>Assembling the evidence, we can sketch a speculative but coherent genealogy:</p>
+
+    <div class="timeline">
+
+      <div class="tl-entry">
+        <div class="tl-date">~1200 BCE – 500 BCE · Conceptual substrate</div>
+        <div class="tl-title">The word enters Sanskrit</div>
+        <div class="tl-body">
+          <em>Śūnya</em> enters Sanskrit from a Dravidian <em>*suḻ-/sul-</em> root (circular, hollow, spiral) at the mundane level in the Atharvaveda period — carrying the concrete sense of a hollow space, a vortex with nothing at its centre. The <em>pūrṇa/śūnya</em> polarity crystallises in the Bṛhadāraṇyaka Upaniṣad (~700 BCE).
+        </div>
+      </div>
+
+      <div class="tl-entry">
+        <div class="tl-date">~300 BCE – 200 CE · Scribal infrastructure</div>
+        <div class="tl-title">The puḷḷi: visible absence as scribal discipline</div>
+        <div class="tl-body">
+          Tamil-Brāhmī adapts the Brāhmī script for Dravidian phonology and makes a distinctive innovation: the <strong>visible puḷḷi</strong>, a dot marking "no vowel here," attested by the 2nd century CE. The puḷḷi is graphically a <strong>dot</strong> — the same form the Bakhshali manuscript uses for zero.
+        </div>
+      </div>
+
+      <div class="tl-entry">
+        <div class="tl-date">~300 CE – 630 CE · Mathematical transition</div>
+        <div class="tl-title">Dot migrates from phonology to arithmetic</div>
+        <div class="tl-body">
+          The dot appears in the Bakhshali manuscript as <em>śūnya-sthāna</em> ("empty place"), functioning as a placeholder. Brahmagupta (628 CE) formalises arithmetic rules for zero. The philosophical preparation (Buddhist <em>śūnyatā</em>, Upaniṣadic polarity) provided the <strong>conceptual permission</strong> to treat nothingness as a valid mathematical entity; the puḷḷi provided the <strong>graphic precedent</strong>.
+        </div>
+      </div>
+
+      <div class="tl-entry">
+        <div class="tl-date">683 CE · Cambodia inscription</div>
+        <div class="tl-title">K-127: positional zero in the Kadamba-Grantha tradition</div>
+        <div class="tl-body">
+          K-127 uses positional zero in the Kadamba-Grantha scribal tradition. The Śaka era dateline (a Chalukyan invention) in K-127 confirms the Karnataka-Deccan connection. The zero was already an established convention — transmitted via Brahmin priests and merchants from the South Indian Deccan to Southeast Asia.
+        </div>
+      </div>
+
+      <div class="tl-entry">
+        <div class="tl-date">~9th–10th century CE · Kannada adoption</div>
+        <div class="tl-title">Kannada positional zero and the explicit halanta</div>
+        <div class="tl-body">
+          Tamil retains its additive numeral system; Kannada adopts positional zero contemporaneously with the explicit halanta (্) becoming consistently visible in inscriptions. Both are late explicit-absence-marking innovations — Kannada arriving at what Tamil had always had (a visible absence marker), but through a different route.
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- ═══ SECTION 6 ═══ -->
+  <div class="section" id="s6">
+    <div class="section-num">§ 6</div>
+    <h2>The <em>Pūrṇam Adaḥ</em> Paradox</h2>
+
+    <div class="pullquote">
+      पूर्णमदः पूर्णमिदं पूर्णात्पूर्णमुदच्यते।<br>
+      पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते॥
+      <cite>Bṛhadāraṇyaka Upaniṣad 5.1.1, ~700 BCE</cite>
+    </div>
+
+    <p>The verse asserts that taking the full from the full leaves the full unchanged. This is structurally identical to the statement that ∞ − ∞ = ∞ — the infinite as an identity element under subtraction of itself.</p>
+
+    <p>What the verse does not say is: "the empty from the full leaves the full." But it implies it: if <em>pūrṇa</em> minus <em>pūrṇa</em> equals <em>pūrṇa</em>, then zero is the only number consistent with this arithmetic. The <em>pūrṇa/śūnya</em> polarity was the conceptual container that eventually had to be formalised arithmetically — and when it was, it produced the Hindu-Arabic numeral system that the world uses today.</p>
+
+    <div class="insight">
+      <div class="insight-label">The speculative conclusion</div>
+      If the root is Dravidian — <em>*suḻ-</em>, the hollow at the centre of the vortex — then the mathematical zero is not only Indian in origin but specifically Dravidian in its conceptual seed, philosophically watered by Buddhism and Sanskrit metaphysics, and graphically grounded in the oldest visible absence-marker in the Indic scribal tradition: the Tamil puḷḷi dot.
+    </div>
+  </div>
+
+  <!-- ═══ SECTION 7 ═══ -->
+  <div class="section" id="s7">
+    <div class="section-num">§ 7</div>
+    <h2>Open Questions and Further Research</h2>
+
+    <p class="speculative">This essay has been speculative throughout. The following questions require philological and paleographic investigation before any of the hypotheses above can be treated as established.</p>
+
+    <ol class="questions-list">
+      <li><strong>DEDR entry for <em>pul-/puḷ-</em>:</strong> Does Burrow &amp; Emeneau's <em>Dravidian Etymological Dictionary</em> contain entries that link <em>puḷḷi</em> (dot), <em>puḷi</em> (tiger, spotted), and <em>pul</em> (insignificant/small) to a reconstructed Proto-Dravidian root? The semantic coherence (minimal mark = spot on an animal = smallest unit) is suggestive but needs philological confirmation.</li>
+      <li><strong>Śūnya in Mayrhofer:</strong> Does Mayrhofer's <em>EWAia</em> entry for <em>śūnya</em> flag the absence of IE cognates and mention any Dravidian parallel? If so, this would be the authoritative acknowledgement the hypothesis needs.</li>
+      <li><strong>K-127 script paleography:</strong> A detailed comparative analysis of K-127's numeral glyphs — specifically the zero — against contemporary Kadamba, Grantha, and Tamil-Brāhmī numeral forms would clarify the script attribution question. The visual relationship between Gudnapur numerals and K-127 numerals deserves examination.</li>
+      <li><strong>Virama appearance timeline in Kadamba:</strong> A systematic survey of Kadamba copper plate inscriptions for the first consistent appearances of explicit virama marks (versus implicit conjunct handling) would test the hypothesis that explicit absence-marking and zero adoption are correlated.</li>
+      <li><strong>Tamil astronomical texts:</strong> Did Tamil astronomers (working with the <em>Āryabhaṭīya</em> tradition after ~499 CE) use the puḷḷi in numerical contexts, or did they switch to a separate zero symbol? The answer would clarify whether the puḷḷi was ever consciously <em>identified</em> with zero in Tamil scribal practice.</li>
+    </ol>
+  </div>
+
+  <!-- ═══ REFERENCES ═══ -->
+  <div class="refs" id="refs">
+    <div class="refs-title">References</div>
+
+    <div class="ref-group">
+      <div class="ref-group-label">Primary Inscriptions</div>
+      <div class="ref-item"><strong>K-127 (Khmer inscription, 683 CE)</strong> — Sambor, Cambodia. Published in <em>Corpus des inscriptions du Cambodge</em> (Cœdès &amp; Damais). See also Aczel (2015).</div>
+      <div class="ref-item"><strong>Halmidi inscription (~450–500 CE)</strong> — Hassan district, Karnataka. Oldest Kannada-language inscription in Kadamba script.</div>
+      <div class="ref-item"><strong>Gudnapur inscription (~500 CE)</strong> — Kadamba period. First inscription with all nine Kannada numerals 1–9.</div>
+      <div class="ref-item"><strong>Bakhshali manuscript (3rd–4th c. CE)</strong> — Birch bark mathematical text, Oxford Bodleian Library. Carbon-dated 2017.</div>
+      <div class="ref-item"><strong>Gwalior temple inscription (876 CE)</strong> — First Indian stone inscription with zero in positional notation.</div>
+    </div>
+
+    <div class="ref-group">
+      <div class="ref-group-label">Linguistic References</div>
+      <div class="ref-item">Burrow, T. &amp; Emeneau, M.B. (1984). <em>A Dravidian Etymological Dictionary</em>, 2nd ed. Oxford University Press. [DEDR]</div>
+      <div class="ref-item">Krishnamurti, Bhadriraju (2003). <em>The Dravidian Languages</em>. Cambridge University Press.</div>
+      <div class="ref-item">Mahadevan, Iravatham (2003). <em>Early Tamil Epigraphy</em>. Harvard Oriental Series. [Tamil-Brāhmī; puḷḷi attestation]</div>
+      <div class="ref-item">Mayrhofer, Manfred (1992–2001). <em>Etymologisches Wörterbuch des Altindoarischen</em>, 3 vols. Heidelberg. [EWAia]</div>
+      <div class="ref-item">Caldwell, Robert (1856). <em>A Comparative Grammar of the Dravidian or South-Indian Family of Languages</em>. London.</div>
+    </div>
+
+    <div class="ref-group">
+      <div class="ref-group-label">Script and Epigraphy</div>
+      <div class="ref-item">Pillai, Karan Damodaram (2023). "The Hybrid Origin of Brāhmī Script from Aramaic, Phoenician and Greek Letters." <em>Indialogs</em> 10. DOI: 10.5565/rev/indialogs.213</div>
+      <div class="ref-item">Salomon, Richard (1998). <em>Indian Epigraphy</em>. Oxford University Press.</div>
+      <div class="ref-item">Griffiths, Arlo — advocates "Late Southern Brāhmī" over "Pallava Grantha" as script designation.</div>
+      <div class="ref-item">Burnell, A.C. (1874). <em>Elements of South Indian Palaeography</em>. London.</div>
+    </div>
+
+    <div class="ref-group">
+      <div class="ref-group-label">Mathematical History</div>
+      <div class="ref-item">Brahmagupta (628 CE). <em>Brahmasphutasiddhānta</em>. Rules for arithmetic with zero.</div>
+      <div class="ref-item">Aczel, Amir D. (2015). <em>Finding Zero: A Mathematician's Odyssey to Uncover the Origins of Numbers</em>. Palgrave Macmillan.</div>
+      <div class="ref-item">Ifrah, Georges (2000). <em>The Universal History of Numbers</em>. Harvill Press.</div>
+    </div>
+
+    <div class="ref-group">
+      <div class="ref-group-label">Online Resources</div>
+      <div class="ref-item"><a href="https://vwulf.github.io/ettuge/kannaDa/eke/script-history">Script History — Ettuge</a> — Brāhmī origins, Kadamba-Kannada lineage.</div>
+      <div class="ref-item"><a href="https://vwulf.github.io/ettuge/">Ettuge repository</a> — Eke romanisation system, DNS Bhat grammar primers.</div>
+      <div class="ref-item">MacTutor History of Mathematics (St Andrews): "Indian Numerals." mathshistory.st-andrews.ac.uk</div>
+      <div class="ref-item">Unicode Virama mail archive (N. Ganesan, 2011): unicode.org/mail-arch/unicode-ml/y2011-m01/0024.html</div>
+    </div>
+  </div>
+
+  <!-- ═══ NOTES ON TERMINOLOGY ═══ -->
+  <div class="ref-group" style="margin-top:2rem; padding-top:1.5rem; border-top:1px solid var(--warm-faint);">
+    <div class="ref-group-label">Notes on Terminology</div>
+    <p class="ref-item" style="text-indent:0; padding-left:0"><strong>Eke romanisation</strong> (used throughout ettuge): capital letters mark long vowels (A=ā, I=ī, U=ū, E=ē, O=ō); uppercase retroflex consonants (T, D, N, L); S = palatal sibilant. See <a href="https://vwulf.github.io/ettuge/kannaDa/eke/reference">Eke reference</a>.</p>
+    <p class="ref-item" style="text-indent:0; padding-left:0; margin-top:0.5rem"><strong>Tadbhava</strong>: a Sanskrit-origin word phonologically adapted into a Dravidian language. The hypothesis here inverts the usual assumption: <em>sonne</em> (Kannada) and <em>suḻiyam</em> (Tamil) would not be tadbhavas of Sanskrit <em>śūnya</em> but rather cognates of a common pre-Sanskrit root.</p>
+    <p class="ref-item" style="text-indent:0; padding-left:0; margin-top:0.5rem"><strong>Ottakṣara</strong>: Grantha term for subjoined consonant forms (conjunct clusters). Structurally similar to Kadamba's consonant-stacking approach; architecturally distinct from Tamil's explicit-puḷḷi method.</p>
+  </div>
+
+  <!-- ═══ FOOTER ═══ -->
+  <footer class="essay-footer">
+    <p>This essay was developed through an extended conversation exploring Brāhmī, Tamil, Kannada, and Kadamba scripts, Dravidian etymology, the puḷḷi as scribal infrastructure, and the K-127 Cambodia inscription.</p>
+    <p style="margin-top:0.4rem">It is intended as a starting point for scholarly investigation, not as a settled argument. Corrections, citations, and challenges welcome.</p>
+    <p style="margin-top:0.8rem; opacity:0.7">For the <a href="https://vwulf.github.io/ettuge/">ettuge blog</a> · April 2026</p>
+  </footer>
+
+</div>
+</body>
+</html>
