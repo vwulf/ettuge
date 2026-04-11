@@ -155,22 +155,32 @@ jobs:
               preamble = body[:positions[0][2]].strip()
               heading_anchors = chapter_heading_anchors(body, positions)
               # Build sec-N-M / sub-N-M-K → chN map so TOC deep-links survive chapter split
+              # Also map explicit chapter anchors (adhyAya-N, part-N, etc.) → chN
               sec_map = {}
+              ch_anchor_map = {}
               for _i, (ch_num, _pfx, pos) in enumerate(positions):
                   _end = positions[_i+1][2] if _i+1 < len(positions) else len(body)
                   for _a in re.findall(r'<a id="((?:sec|sub)-[\d-]+)"', body[pos:_end]):
                       sec_map[_a] = 'ch' + str(ch_num)
+                  # Map the chapter anchor itself (e.g. adhyAya-1 → ch1)
+                  for _a in re.findall(r'<a id="([^"]+)"', body[pos:pos+50]):
+                      ch_anchor_map[_a] = 'ch' + str(ch_num)
               # Rewrite [text](#anchor) → [text](chN) or [text](chN#sec-N-M)
               def rewrite_anchor(m):
                   text, anchor = m.group(1), m.group(2)
                   if re.match(r'ch\d+$', anchor):
                       return '[' + text + '](' + anchor + ')'
+                  if anchor in ch_anchor_map:
+                      return '[' + text + '](' + ch_anchor_map[anchor] + ')'
                   if anchor in heading_anchors:
                       return '[' + text + '](' + heading_anchors[anchor] + ')'
                   if anchor in sec_map:
                       return '[' + text + '](' + sec_map[anchor] + '#' + anchor + ')'
                   return m.group(0)
               preamble = re.sub(r'\[([^\]]+)\]\(#([^)]+)\)', rewrite_anchor, preamble)
+              # Rewrite companion-language nav links: (path/full) → (path/ch0)
+              # where the companion ch0.md will be generated in the same split run.
+              # We store pending rewrites; a post-pass resolves them after all splits.
               ch_bar = '**Chapters:** ' + ch_links
               top = (ch_bar + '\n\n---\n\n') if len(preamble) > SCROLL_THRESHOLD else ''
               out = ('---\nnav_exclude: true\n---\n\n' + top + preamble
@@ -248,6 +258,57 @@ jobs:
                       if n:
                           total_ch += n
                           total_files += 1
+
+          # Post-pass: rewrite companion-language links in all generated chN.md files.
+          # Patterns handled:
+          #   [text](PATH/full)           → [text](PATH/ch0)   when PATH/ch0.md exists
+          #   [text](PATH/full#adhyAya-N) → [text](PATH/chN#adhyAya-N)
+          #   [text](PATH/full#chN)       → [text](PATH/chN#chN)
+          #   [text](PATH/full#sec-N-M)   → [text](PATH/chN#sec-N-M)
+          #   [text](PATH/full#sub-N-M-K) → [text](PATH/chN#sub-N-M-K)
+          def _anchor_to_chnum(anchor):
+              """Extract chapter number from anchor id, or None."""
+              m = re.match(r'(?:adhyAya-|ch)(\d+)$', anchor)
+              if m: return int(m.group(1))
+              m = re.match(r'(?:sec|sub)-(\d+)', anchor)
+              if m: return int(m.group(1))
+              return None
+
+          def fix_companion_links(ch_path):
+              dir0 = os.path.dirname(ch_path)
+              with open(ch_path, encoding='utf-8') as f:
+                  content = f.read()
+              def rewrite_full(m):
+                  text, rel_path, anchor = m.group(1), m.group(2), m.group(3)
+                  if not rel_path.endswith('/full'):
+                      return m.group(0)
+                  base = rel_path[:-4]   # strip 'full'
+                  ch0_companion = os.path.normpath(os.path.join(dir0, base + 'ch0.md'))
+                  if not os.path.exists(ch0_companion):
+                      return m.group(0)
+                  if not anchor:
+                      return '[' + text + '](' + base + 'ch0)'
+                  chnum = _anchor_to_chnum(anchor)
+                  if chnum is not None:
+                      return '[' + text + '](' + base + 'ch' + str(chnum) + '#' + anchor + ')'
+                  return '[' + text + '](' + base + 'ch0#' + anchor + ')'
+              # Match both [text](path/full) and [text](path/full#anchor)
+              new_content = re.sub(
+                  r'\[([^\]]+)\]\(([^)#\s]+/full)(?:#([^)]+))?\)',
+                  rewrite_full, content)
+              if new_content != content:
+                  with open(ch_path, 'w', encoding='utf-8') as f:
+                      f.write(new_content)
+
+          for book_dir in sorted(os.listdir(DOCS_DNSBHAT)):
+              bp = os.path.join(DOCS_DNSBHAT, book_dir)
+              if not os.path.isdir(bp):
+                  continue
+              for root, _dirs, files in os.walk(bp):
+                  for fname in files:
+                      if re.match(r'ch\d+\.md$', fname):
+                          fix_companion_links(os.path.join(root, fname))
+
           # Also split standalone top-level .md files (e.g. PROJECT-PHASES.md).
           # Chapter pages go into a subdirectory named after the file (no extension).
           STANDALONE = ['PROJECT-PHASES.md']
@@ -317,8 +378,16 @@ jobs:
           # Content-file candidates per (source, lang)
           # ch0.md (chapter index) is preferred over full.md when chapters exist
           CANDIDATES = {
-              ('book',    'kn'):  ['book/kn/ch0.md', 'book/kn/full.md', 'book/vol1/kn/full.md', 'book/vol2/kn/full.md', 'book/vol3/kn/full.md', 'book/vol4/kn/full.md'],
-              ('book',    'eke'): ['book/eke/ch0.md', 'book/eke/full.md', 'book/vol1/eke/full.md', 'book/vol2/eke/full.md', 'book/vol3/eke/full.md'],
+              ('book',    'kn'):  ['book/kn/ch0.md', 'book/kn/full.md',
+                                   'book/vol1/kn/ch0.md', 'book/vol1/kn/full.md',
+                                   'book/vol2/kn/ch0.md', 'book/vol2/kn/full.md',
+                                   'book/vol3/kn/ch0.md', 'book/vol3/kn/full.md',
+                                   'book/vol4/kn/ch0.md', 'book/vol4/kn/full.md'],
+              ('book',    'eke'): ['book/eke/ch0.md', 'book/eke/full.md',
+                                   'book/vol1/eke/ch0.md', 'book/vol1/eke/full.md',
+                                   'book/vol2/eke/ch0.md', 'book/vol2/eke/full.md',
+                                   'book/vol3/eke/ch0.md', 'book/vol3/eke/full.md',
+                                   'book/vol4/eke/ch0.md', 'book/vol4/eke/full.md'],
               ('book',    'en'):  ['book/en/summary.md'],
               ('web',     'kn'):  ['web/kn/full.md', 'web/kn/raw.md'],
               ('web',     'eke'): ['web/eke/full.md'],
