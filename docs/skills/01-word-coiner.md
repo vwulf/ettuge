@@ -25,9 +25,10 @@ Work through these steps for each word:
 **Step 1: Check existing native equivalents**
 If a native Kannada word already exists, use it. Don't reinvent.
 
-Before coining anything new, **check Book 15 and Book 31** — the word may already have an established native Kannada form:
-- **Book 15** (`src/main/md/kannada/dnsbhat/15-ingliS-kannaDa-padanerake/claude-prompt.md`): 100 curated word pairs + 10 word-formation patterns from the comprehensive English→Kannada dictionary (5,000+ entries, letter A only in sample)
-- **Book 31** (`src/main/md/kannada/dnsbhat/31-ingliS-padagaLige-kannaDaddE-padagaLu/claude-prompt.md`): A–Z dictionary of native Kannada equivalents for English words — the earlier companion volume by DNS Bhat alone (487pp)
+**Before coining anything new, invoke the `vetted-kannaDa-dictionary` skill** — the word may
+already have a settled form in Bhat's own dictionaries (Books 15 and 31). That skill handles
+the full lookup workflow (chapter fetch, precedence, Eke output) and returns VETTED-15,
+VETTED-31, or COINED. Only proceed to Steps 2–7 if it returns COINED.
 
 **Step 2: Analyze the English word's structure**
 Is it prefixed (submarine, postmodern)? Suffixed (biologist, darkness)? A compound (handbook)? A standalone root?

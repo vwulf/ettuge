@@ -20,6 +20,7 @@ CLAUDE.md files. Book primers have per-book reference data.
 | `dns-bhat-transcript-summarizer` | Summarize DNS Bhat YouTube lecture series (books 01–13, transcript-only) | [`fetch`](https://raw.githubusercontent.com/vwulf/ettuge/master/docs/skills/04-transcript-summarizer.md) |
 | `kannada-ocr-cleaner` | Audit and fix OCR artefacts from Nudi/Baraha/ISM legacy font scans | [`fetch`](https://raw.githubusercontent.com/vwulf/ettuge/master/docs/skills/05-ocr-cleaner.md) |
 | `ettuge-content-qa` | Answer questions from Books (89+ titles), FP notes (Haskell/ZIO/Kyo), and Reflection (20 topic files from Signal bookmarks) | [`fetch`](https://raw.githubusercontent.com/vwulf/ettuge/master/docs/skills/07-content-qa.md) |
+| `vetted-kannaDa-dictionary` | Look up Bhat's settled native Kannada equivalents (Books 15 + 31) before coining; precedence VETTED-15 > VETTED-31 > COINED | [`fetch`](https://raw.githubusercontent.com/vwulf/ettuge/master/docs/skills/08-vetted-dictionary.md) |
 
 ---
 
@@ -49,3 +50,4 @@ Agents, CLAUDE.md files, and repository conventions:
 | "summarize transcript book NN", "YouTube lectures", books 01–13 | `04-transcript-summarizer.md` |
 | "OCR errors", "garbled Kannada", "arka-ottu", "Nudi artefact", "fix legacy font" | `05-ocr-cleaner.md` |
 | "what books", "recommend a book on", "your notes on", "what did you save about", "FP notes", "Haskell question", "what's in your knowledge base about" | `07-content-qa.md` |
+| "what did Bhat use for X", "look up X in the dictionary", "vetted word for", "is there a settled Kannada word for" | `08-vetted-dictionary.md` |
