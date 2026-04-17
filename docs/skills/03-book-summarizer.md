@@ -120,6 +120,52 @@ See book 08's `-kn.md` as the reference implementation.
 
 ---
 
+## Step 2b: Split large volumes into per-chapter page files
+
+**Trigger:** Any volume whose `kn/full.md` exceeds ~6,000 lines (roughly one context window of Kannada text).
+
+This is required for books like Book 07 (*Kannada Barahada Sollarime*) where individual volumes are 10,000–20,000 lines. Without splitting, a session cannot load a chapter into context. The pattern mirrors Book 31's per-letter split.
+
+**Split script:**
+```bash
+python3 /Users/vishwas/code/ettuge/src/main/python/split_book_chapters.py \
+    <path-to-vol-kn/full.md>
+```
+
+The script reads `<a id="adhyAya-N">` anchors as chapter boundaries and writes:
+- `kn/ch0.md` — chapter index (full frontmatter + TOC + chapter link list)
+- `kn/ch1.md`, `kn/ch2.md`, … — one file per chapter, with prev/next navigation links
+
+**Rules:**
+- Split only at `adhyAya-N` level. Section (`sec-N-N`) and subsection (`sub-N-N-N`) anchors stay inside their chapter file.
+- Each chapter file opens with nav links: `[← ಅಧ್ಯಾಯ N-1](chN-1) | [ಒಳಪಿಡಿ](ch0) | [ಅಧ್ಯಾಯ N+1 →](chN+1)`
+- `ch0.md` ends with `[← full.md (complete text)](full)` — the full file remains untouched as the authoritative source
+- Volumes already under ~6,000 lines (e.g., Book 07 Vol 3 at 1,071 lines) do **not** need splitting
+
+**GitHub Pages URLs for Book 07 (after push):**
+
+Base: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/07-kannaDa-barahada-sollarime`
+
+| Vol | Chapter | URL suffix |
+|-----|---------|------------|
+| Vol 1 | Index | `/book/vol1/kn/ch0` |
+| Vol 1 | Ch 1 — ಮುನ್ನೋಟ | `/book/vol1/kn/ch1` |
+| Vol 1 | Ch 2 — ಹೆಸರುಪದಗಳು | `/book/vol1/kn/ch2` |
+| Vol 1 | Ch 3 — ಉಳಿದ ಪದಗಳು | `/book/vol1/kn/ch3` |
+| Vol 1 | Ch 4 — ಪದರೂಪಗಳ ಇಟ್ಟಳ | `/book/vol1/kn/ch4` |
+| Vol 2 | Index | `/book/vol2/kn/ch0` |
+| Vol 2 | Ch 5 — ಎಸಕಪದಗಳ ಬಳಕೆ | `/book/vol2/kn/ch1` |
+| Vol 2 | Ch 6 — ಹೆಸರುಪದಗಳ ಬಳಕೆ | `/book/vol2/kn/ch2` |
+| Vol 3 | Full (no split needed) | `/book/vol3/kn/full` |
+| Vol 4 | Full (no split needed) | `/book/vol4/kn/full` |
+
+**When working with Book 07 in a session:**
+1. Fetch `ch0` of the relevant volume to see the chapter map
+2. Fetch only the specific chapter needed (`ch1`, `ch2`, etc.)
+3. Never attempt to load `full.md` directly — it will overflow context
+
+---
+
 ## Step 3: Produce the Eke romanisation file (`*-kn-eke.md`)
 
 The Eke file has:

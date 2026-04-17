@@ -214,20 +214,23 @@ The book constitutes both a theoretical argument and a practical reference. As a
     - `book/vol4/en/summary.md` — English chapter-by-chapter summary.
     - The multi-volume index `book/kn/full.md` now shows all four volumes as ✅. Vols 5–7 remain unavailable.
 
-12. **Chapter pages (Phase 33):** The Kannada source is split into individual chapter pages on GitHub Pages. Fetch specific chapters rather than loading the full book — chapters are lightweight and avoid token exhaustion when answering focused questions:
-   - **Vol1 index:** `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/07-kannaDa-barahada-sollarime/book/vol1/kn/ch0`
-   - Ch 1 — ಮುನ್ನೋಟ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/07-kannaDa-barahada-sollarime/book/vol1/kn/ch1`
-   - Ch 2 — ಪದಗಳ ಇಟ್ಟಳ: ಹೆಸರುಪದಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/07-kannaDa-barahada-sollarime/book/vol1/kn/ch2`
-   - Ch 3 — ಪದಗಳ ಇಟ್ಟಳ: ಉಳಿದ ಪದಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/07-kannaDa-barahada-sollarime/book/vol1/kn/ch3`
-   - Ch 4 — ಪದರೂಪಗಳ ಇಟ್ಟಳ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/07-kannaDa-barahada-sollarime/book/vol1/kn/ch4`
-   - **Vol2 index:** `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/07-kannaDa-barahada-sollarime/book/vol2/kn/ch0`
-   - Ch 5 — ಎಸಕಪದಗಳ ಬಳಕೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/07-kannaDa-barahada-sollarime/book/vol2/kn/ch5`
-   - Ch 6 — ಹೆಸರುಕಂತೆಗಳ ಇಟ್ಟಳ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/07-kannaDa-barahada-sollarime/book/vol2/kn/ch6`
-   - **Vol3 index:** `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/07-kannaDa-barahada-sollarime/book/vol3/kn/ch0`
-   - Ch 7 — ಎಸಕಪದದ ಪಾಂಗುಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/07-kannaDa-barahada-sollarime/book/vol3/kn/ch7`
-   - Ch 8 — ಪಾಂಗಿಟ್ಟಳದಲ್ಲಿ ಮಾರ್ಪಾಡುಗಳು: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/07-kannaDa-barahada-sollarime/book/vol3/kn/ch8`
-   - **Vol4 index:** `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/07-kannaDa-barahada-sollarime/book/vol4/kn/ch0`
-   - Ch 9 — ಆಡುಪದಗಳ ಬಳಕೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/07-kannaDa-barahada-sollarime/book/vol4/kn/ch9`
-   - Ch 10 — ತೋರುಪದಗಳ ಬಳಕೆ: `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/07-kannaDa-barahada-sollarime/book/vol4/kn/ch10`
-   
-   When a question targets a specific chapter, fetch only that URL. Use `ch0` to browse the full chapter list first.
+12. **Chapter pages (Phase 33):** Vols 1 and 2 are split into per-chapter page files (ch0 index + ch1…chN). Vols 3 and 4 are small enough to load in full. Fetch specific chapters rather than loading full.md — chapters avoid token exhaustion.
+
+   **Chapter numbering:** ch-files are numbered sequentially within each volume (ch1, ch2, …), NOT by the book's chapter number.
+
+   **Base URL:** `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/07-kannaDa-barahada-sollarime`
+
+   | Vol | File | Book Chapter | Title |
+   |-----|------|-------------|-------|
+   | Vol 1 | `book/vol1/kn/ch0` | — | Index |
+   | Vol 1 | `book/vol1/kn/ch1` | Ch 1 | ಮುನ್ನೋಟ |
+   | Vol 1 | `book/vol1/kn/ch2` | Ch 2 | ಪದಗಳ ಇಟ್ಟಳ: ಹೆಸರುಪದಗಳು |
+   | Vol 1 | `book/vol1/kn/ch3` | Ch 3 | ಪದಗಳ ಇಟ್ಟಳ: ಉಳಿದ ಪದಗಳು |
+   | Vol 1 | `book/vol1/kn/ch4` | Ch 4 | ಪದರೂಪಗಳ ಇಟ್ಟಳ |
+   | Vol 2 | `book/vol2/kn/ch0` | — | Index |
+   | Vol 2 | `book/vol2/kn/ch1` | Ch 5 | ಎಸಕಪದಗಳ ಬಳಕೆ |
+   | Vol 2 | `book/vol2/kn/ch2` | Ch 6 | ಹೆಸರುಕಂತೆಗಳ ಇಟ್ಟಳ |
+   | Vol 3 | `book/vol3/kn/full` | Ch 7–8 | Load full (1,071 lines — fits in context) |
+   | Vol 4 | `book/vol4/kn/full` | Ch 9–10 | Load full (1,197 lines — fits in context) |
+
+   When a question targets a specific chapter, fetch only that URL. Use `ch0` to browse chapter lists for vols 1–2 first. Never attempt to load vol1 or vol2 `full.md` directly.
