@@ -36,7 +36,9 @@ from pathlib import Path
 
 # ── helpers ────────────────────────────────────────────────────────────────
 
-ANCHOR_RE = re.compile(r'<a id="(adhyAya-\d+)"')
+# Matches both  <a id="adhyAya-N">  and  <a id="chN">  as chapter boundaries.
+# sec-*, sub-*, toc, pub-note etc. are section-level and stay inside their chapter.
+ANCHOR_RE = re.compile(r'<a id="(adhyAya-\d+|ch\d+)"')
 
 
 def find_chapter_boundaries(lines: list[str]) -> list[tuple[str, int]]:
@@ -94,7 +96,7 @@ def split(full_md: Path, out_dir: Path) -> None:
     for idx, (anchor_id, line_no) in enumerate(boundaries, start=1):
         ch_lines = lines[line_no: boundaries[idx][1] if idx < len(boundaries) else len(lines)]
         title = chapter_title_from_lines(ch_lines)
-        n = anchor_id.split('-')[1]   # "adhyAya-5" → "5"
+        n = re.search(r'\d+', anchor_id).group()
         chapter_links.append(f'- [ಅಧ್ಯಾಯ {n} — {title}](ch{idx})\n')
 
     ch0_content = (
@@ -112,7 +114,7 @@ def split(full_md: Path, out_dir: Path) -> None:
         chapter_lines = lines[start_line:end_line]
 
         # Prepend navigation links
-        n = anchor_id.split('-')[1]
+        n = re.search(r'\d+', anchor_id).group()
         prev_link = f'[← ಅಧ್ಯಾಯ {int(n)-1}](ch{idx-1})' if idx > 1 else '[← ಒಳಪಿಡಿ](ch0)'
         next_link = f'[ಅಧ್ಯಾಯ {int(n)+1} →](ch{idx+1})' if idx < len(boundaries) else ''
         nav = f'{prev_link}  |  [ಒಳಪಿಡಿ](ch0)  {("| " + next_link) if next_link else ""}\n\n'
