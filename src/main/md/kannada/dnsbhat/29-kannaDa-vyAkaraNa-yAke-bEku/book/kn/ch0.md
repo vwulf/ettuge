@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /dnsbhat/29-kannada-vyakarana-yaake-beku/29-kannada-vyakarana-yaake-beku-kn
 ---
 
 # ಕನ್ನಡ ವ್ಯಾಕರಣ ಯಾಕೆ ಬೇಕು?

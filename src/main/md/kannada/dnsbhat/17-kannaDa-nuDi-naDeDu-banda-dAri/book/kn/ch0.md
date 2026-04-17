@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /dnsbhat/17-kannada-nudi-nadedu-banda-dari/17-kannada-nudi-nadedu-banda-dari-kn
 ---
 
 # ಕನ್ನಡ ನುಡಿ ನಡೆದು ಬಂದ ದಾರಿ

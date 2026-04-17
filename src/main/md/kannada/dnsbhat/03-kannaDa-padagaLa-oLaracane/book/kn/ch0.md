@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /dnsbhat/03-kannada-padagala-olarachane/03-kannada-padagala-olarachane-kn
 ---
 
 # ಕನ್ನಡ ಪದಗಳ ಒಳರಚನೆ

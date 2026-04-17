@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /dnsbhat/07-kannadada-sollarime/07-kannadada-sollarime-vol2-kn
 ---
 
 # ಕನ್ನಡ ಬರಹದ ಸೊಲ್ಲರಿಮೆ — ಸಂಪುಟ ೨

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /dnsbhat/27-baasheya-bagge/27-baasheya-bagge-kn
 ---
 
 # ಭಾಷೆಯ ಬಗ್ಗೆ ನೀವೇನು ಬಲ್ಲಿರಿ?

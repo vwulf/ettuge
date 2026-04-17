@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /dnsbhat/14-nijakku-halegannada-vyakarana-entahadu/14-nijakku-halegannada-vyakarana-entahadu-kn
 ---
 
 # ನಿಜಕ್ಕೂ ಹಳೆಗನ್ನಡ ವ್ಯಾಕರಣ ಎಂತಹದು?

@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /dnsbhat/28-kannadakke-beku/28-kannadakke-beku-kn
 ---
 
 # ಕನ್ನಡಕ್ಕೆ ಬೇಕು ಕನ್ನಡದ್ದೇ ವ್ಯಾಕರಣ

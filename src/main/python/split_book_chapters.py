@@ -99,8 +99,11 @@ def split(full_md: Path, out_dir: Path) -> None:
         n = re.search(r'\d+', anchor_id).group()
         chapter_links.append(f'- [ಅಧ್ಯಾಯ {n} — {title}](ch{idx})\n')
 
+    # Strip redirect_from from ch0 frontmatter — the redirect stays on full.md only
+    toc_text = re.sub(r'^redirect_from:\n(?:  - .+\n)+', '', ''.join(toc_lines), flags=re.MULTILINE)
+
     ch0_content = (
-        ''.join(toc_lines)
+        toc_text
         + '\n---\n\n## ಅಧ್ಯಾಯಗಳ ಸೂಚಿ (Chapter Index)\n\n'
         + ''.join(chapter_links)
         + '\n[← full.md (complete text)](full)\n'

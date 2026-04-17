@@ -1,6 +1,4 @@
 ---
-redirect_from:
-  - /dnsbhat/25-kannada-vakyagala-olarachane/25-kannada-vakyagala-olarachane-kn
 ---
 
 # ಕನ್ನಡ ವಾಕ್ಯಗಳ ಒಳರಚನೆ
