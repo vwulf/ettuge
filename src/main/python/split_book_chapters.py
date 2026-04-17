@@ -36,9 +36,9 @@ from pathlib import Path
 
 # ── helpers ────────────────────────────────────────────────────────────────
 
-# Matches both  <a id="adhyAya-N">  and  <a id="chN">  as chapter boundaries.
-# sec-*, sub-*, toc, pub-note etc. are section-level and stay inside their chapter.
-ANCHOR_RE = re.compile(r'<a id="(adhyAya-\d+|ch\d+)"')
+# Matches adhyAya-N, chN, or part-N as chapter boundaries.
+# sec-*, sub-* stay inside their chapter file.
+ANCHOR_RE = re.compile(r'<a id="(adhyAya-\d+|ch\d+|part-\d+)"')
 
 
 def find_chapter_boundaries(lines: list[str]) -> list[tuple[str, int]]:
