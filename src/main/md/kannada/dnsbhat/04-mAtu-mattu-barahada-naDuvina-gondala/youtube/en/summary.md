@@ -12,7 +12,7 @@ redirect_from:
 **Format:** YouTube lecture series — 44 parts
 **Language:** Kannada
 **Source quality:** YouTube transcripts — ~25/44 parts cleaned (~57%). Parts 10, 15, 25, 33, 35 disabled/missing. Parts 1, 11, 12, 16, 21, 22, 26, 36, 37, 39, 40, 41, 42, 44 garbled (auto-captions). Best content in Parts 3, 5, 13, 14, 17, 27, 38, 43, 44.
-**Transcript file:** [`04-mAtu-mattu-barahada-naDuvina-gondala.md`](./04-mAtu-mattu-barahada-naDuvina-gondala)
+**Transcript file:** [`04-mAtu-mattu-barahada-naDuvina-gondala.md`](../kn/full)
 
 ---
 
@@ -42,7 +42,7 @@ redirect_from:
 
 *Parts 1–5 of the transcript*
 
-[📼 Parts 1–5 →](./04-mAtu-mattu-barahada-naDuvina-gondala#part-1)
+[📼 Parts 1–5 →](../kn/full#part-1)
 
 > **Coverage note:** Part 1 is garbled. Parts 2, 3, 4, 5 are good. Part 2 has some noise but linguistic themes are clear.
 
@@ -61,7 +61,7 @@ redirect_from:
 
 *Parts 6–9 of the transcript*
 
-[📼 Parts 6–9 →](./04-mAtu-mattu-barahada-naDuvina-gondala#part-6)
+[📼 Parts 6–9 →](../kn/full#part-6)
 
 > **Coverage note:** Parts 6, 7, 8, 9 are all good (cleaned). These parts were not read in full; summary is inferred from available keywords and book outline.
 
@@ -80,7 +80,7 @@ redirect_from:
 
 *Parts 13–14 of the transcript*
 
-[📼 Parts 13–14 →](./04-mAtu-mattu-barahada-naDuvina-gondala#part-13)
+[📼 Parts 13–14 →](../kn/full#part-13)
 
 > **Coverage note:** Parts 13 and 14 are both good. Parts 11, 12 before them are garbled. Part 15 is missing.
 
@@ -103,7 +103,7 @@ redirect_from:
 
 *Parts 17–24 of the transcript*
 
-[📼 Parts 17–24 →](./04-mAtu-mattu-barahada-naDuvina-gondala#part-17)
+[📼 Parts 17–24 →](../kn/full#part-17)
 
 > **Coverage note:** Part 17 is good. Parts 18–20 are good. Parts 21, 22 are garbled. Parts 23, 24 are good. Part 25 is disabled.
 
@@ -125,7 +125,7 @@ redirect_from:
 
 *Parts 27–32 of the transcript*
 
-[📼 Parts 27–32 →](./04-mAtu-mattu-barahada-naDuvina-gondala#part-27)
+[📼 Parts 27–32 →](../kn/full#part-27)
 
 > **Coverage note:** Part 27 is excellent. Parts 28, 29, 30, 31, 32 are good. Part 26 is garbled.
 
@@ -149,7 +149,7 @@ redirect_from:
 
 *Parts 34–38 of the transcript*
 
-[📼 Parts 34–38 →](./04-mAtu-mattu-barahada-naDuvina-gondala#part-34)
+[📼 Parts 34–38 →](../kn/full#part-34)
 
 > **Coverage note:** Part 34 is partially garbled but themes are recoverable. Parts 36, 37 are garbled. Part 38 is excellent. Part 35 is missing (disabled).
 
@@ -171,7 +171,7 @@ redirect_from:
 
 *Parts 39–44 of the transcript*
 
-[📼 Parts 39–44 →](./04-mAtu-mattu-barahada-naDuvina-gondala#part-39)
+[📼 Parts 39–44 →](../kn/full#part-39)
 
 > **Coverage note:** Parts 39, 40, 41, 42 are garbled (auto-captions). Parts 43 is good. Part 44 (conclusion) is good despite some noise.
 
@@ -232,4 +232,4 @@ redirect_from:
 ## External Links
 
 - **Author's website (archived):** <https://web.archive.org/web/20160505124946/http://dnshankarabhat.net:80/%E0%B2%AE%E0%B2%BE%E0%B2%A4%E0%B3%81-%E0%B2%AE%E0%B2%A4%E0%B3%8D%E0%B2%A4%E0%B3%81-%E0%B2%AC%E0%B2%B0%E0%B2%B9%E0%B2%A6-%E0%B2%A8%E0%B2%A1%E0%B3%81%E0%B2%B5%E0%B2%BF%E0%B2%A8-%E0%B2%97%E0%B3%8A/>
-- **YouTube lecture series:** See [Table of Contents](./04-mAtu-mattu-barahada-naDuvina-gondala)
+- **YouTube lecture series:** See [Table of Contents](../kn/full)

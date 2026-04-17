@@ -88,6 +88,8 @@ In EK phonology, ಐ and ಔ are sequences, not single vowels:
 | Dental | `t` ತ, `th` ಥ | `d` ದ, `dh` ಧ | `n` ನ |
 | Labial | `p` ಪ, `ph` ಫ | `b` ಬ, `bh` ಭ | `m` ಮ |
 
+**Why `h` for aspiration?** A mahāprāṇa consonant is phonologically identical to its alphaprāṇa counterpart followed by a half-`h` (halanta ha): ಖ = ಕ + ್ಹ, ಘ = ಗ + ್ಹ, ಭ = ಬ + ್ಹ — a fact visible directly in both Brāhmī (𑀔 = 𑀓 + 𑁆 + 𑀳) and Devanāgarī (ख = क्ह, घ = ग्ह). Eke uses `h` as the aspiration marker — `kh`, `gh`, `bh`, `dh` etc. — because it reflects this phonological reality and is already familiar from IAST, HK, and common English transcription. The one exception is `Sh` (retroflex ಷ): here `S` already marks the retroflex sibilant, and `h` marks aspiration in the same digraph pattern.
+
 In Eke(ek) (new word coining), aspirate digraphs drop the `h`:
 `kh→k`, `gh→g`, `ch→c`, `jh→j`, `Th→T`, `Dh→D`, `th→t`, `dh→d`, `ph→p`, `bh→b`
 

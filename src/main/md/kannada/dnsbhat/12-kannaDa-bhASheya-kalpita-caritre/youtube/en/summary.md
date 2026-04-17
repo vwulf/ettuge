@@ -115,7 +115,7 @@ The transcript covers the book's introduction (Part 1: both methods, limitations
 |------|-----------|
 | [10 — Kannada NuDiya HinnaDAvaLi](../../10-kannaDa-nuDiya-hinnaDAvaLi/) | The natural companion: Book 10 presents the full reconstructed history of Kannada in detail; Book 12 is the methodological introduction explaining *how* such reconstruction works |
 | [02 — Kannada NuDiya OLaracane](../../02-kannaDa-nuDiya-oLaracane/) | Book 02 describes the synchronic internal structure of Kannada — the phonology and morphology that provide the raw material for comparative reconstructions demonstrated in Book 12 |
-| [04 — MAtu Mattu Barahada NaDuvina Gondala](../../04-mAtu-mattu-barahada-naDuvina-gondala/) | Book 04's argument that spoken language is primary and writing is secondary grounds Book 12's critique of written-history limitations: inscriptions capture only a fragment of speech |
+| [04 — MAtu Mattu Barahada NaDuvina Gondala](../../../04-mAtu-mattu-barahada-naDuvina-gondala/) | Book 04's argument that spoken language is primary and writing is secondary grounds Book 12's critique of written-history limitations: inscriptions capture only a fragment of speech |
 
 ---
 

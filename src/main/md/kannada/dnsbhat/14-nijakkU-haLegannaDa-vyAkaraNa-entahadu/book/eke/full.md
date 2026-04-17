@@ -10,7 +10,7 @@ redirect_from:
 
 > [← sUci](../../README) | ingliS viSlEShaNe: [en](../en/summary) | kannaDa: [kn](../kn/full)
 
-> mUla pustakada sampUrNa paThya: [`raw.md`](./raw)
+> mUla pustakada sampUrNa paThya: [`raw.md`](../kn/raw)
 
 ---
 
@@ -9427,6 +9427,6 @@ spIjar‌, je. es‌. ೧೮೬೬. Sanskrit Syntax. Leyden: E.J.Brill.
 ## samparka konDigaLu
 
 - [ingliS viSlEShaNe →](14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en)
-- [mUla pustaka →](nijakkU-haLegannaDa-vyAkaraNa-entahadu-book)
+- [mUla pustaka →](../kn/raw)
 - [lEkhakara tANa](http://dnshankarabhat.net/)
 - [inTarneT Arkayv](https://archive.org/details/arn.nijakkuhaleganna0000dnsh)

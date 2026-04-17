@@ -82,10 +82,10 @@ redirect_from:
 
 | Book | Connection |
 |------|-----------|
-| [07 — Kannada Barahada Sollarime](../../07-kannaDa-barahada-sollarime/) | Direct source: Book 01 is the consolidated, revised single-volume edition of the 7-volume *Sollarime* series (2010–2019); Book 07 contains the original full text with greater detail |
+| [07 — Kannada Barahada Sollarime](../../../07-kannaDa-barahada-sollarime/) | Direct source: Book 01 is the consolidated, revised single-volume edition of the 7-volume *Sollarime* series (2010–2019); Book 07 contains the original full text with greater detail |
 | [02 — Kannada Padagala OLaracane](../../02-kannaDa-padagaLa-oLaracane/) | Structural complement: Book 02 describes internal word structure (*iTTaLa*) in greater depth than the overview in Book 01 Ch. 2–3 |
-| [14 — Nijakku HaLegannaDA VyAkaraNa Entahadu](../../14-nijakku-haLegannaDa-vyAkaraNa-entahadu/) | Historical complement: shows the history of Sanskrit-grammar imposition on Kannada that Book 01 argues against |
-| [08 — KannaDakke MahAprANa Yake BEDa](../../08-kannaDakke-mahAprANa-yAke-bEDa/) | Focused application of Book 01's spelling reform #2: the argument for removing aspirate (*mahāprāṇa*) letters from the Kannada script |
+| [14 — Nijakku HaLegannaDA VyAkaraNa Entahadu](../../../14-nijakku-haLegannaDa-vyAkaraNa-entahadu/) | Historical complement: shows the history of Sanskrit-grammar imposition on Kannada that Book 01 argues against |
+| [08 — KannaDakke MahAprANa Yake BEDa](../../../08-kannaDakke-mahAprANa-yAke-bEDa/) | Focused application of Book 01's spelling reform #2: the argument for removing aspirate (*mahāprāṇa*) letters from the Kannada script |
 
 ---
 

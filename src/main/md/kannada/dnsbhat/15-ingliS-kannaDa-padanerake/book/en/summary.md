@@ -393,9 +393,9 @@ axis         ಹೆ  ನಡುಗೆರೆ, ತಿರುಗುಗೆರೆ
 
 | Related Book | Connection |
 |---|---|
-| [03 — Kannada Padagala Olaracane](../03-kannada-padagala-olaracane/) | The theoretical companion to Book 15: explains *how* to build new words using Kannada roots and affixes. Book 15 is the practical application; Book 03 is the manual. |
-| [25 — Kannada Vakyagala Olaracane](../25-kannada-vakyagala-olaracane/) | Sentence-level Kannada grammar — provides the syntactic context in which Book 15's coined words are used. |
-| [27 — Baasheyaa Bagge](../27-baasheyaa-bagge/) | Advocacy for Kannada as the natural medium of education and scholarship — the philosophical grounding for why Book 15's lexical project matters. |
+| [03 — Kannada Padagala Olaracane](../03-kannaDa-padagaLa-oLaracane/) | The theoretical companion to Book 15: explains *how* to build new words using Kannada roots and affixes. Book 15 is the practical application; Book 03 is the manual. |
+| [25 — Kannada Vakyagala Olaracane](../25-kannaDa-vAkyagaLa-oLaracane/) | Sentence-level Kannada grammar — provides the syntactic context in which Book 15's coined words are used. |
+| [27 — Baasheyaa Bagge](../27-bhASheya-bagge/) | Advocacy for Kannada as the natural medium of education and scholarship — the philosophical grounding for why Book 15's lexical project matters. |
 | [28 — Kannadakke Beku](../28-kannaDakke-bEku/) | Argues the case for Kannada in scientific and technical domains — the audience and motivation for Book 15's coinages. |
-| [29 — Kannada Vyakaranayaake Beku](../29-kannada-vyakaranayaake-beku/) | Bhat's reform grammar — the grammatical framework within which Book 15's Ellara Kannada word-forms (no aspirates, native script norms) are grounded. |
+| [29 — Kannada Vyakaranayaake Beku](../29-kannaDa-vyAkaraNa-yAke-bEku/) | Bhat's reform grammar — the grammatical framework within which Book 15's Ellara Kannada word-forms (no aspirates, native script norms) are grounded. |
 | [17 — Kannada Nudi Nadedu Banda Dari](../17-kannaDa-nuDi-naDeDu-banda-dAri/) | Historical development of Kannada vocabulary — provides the diachronic perspective on why native roots survive and Sanskrit borrowings often don't naturalise well. |

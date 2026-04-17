@@ -45,8 +45,8 @@ The book surveys successful script reforms in Korean, Indonesian, Turkish, Germa
 
 ## Footnotes
 
-- [English outline and summary →](../../kannada/dnsbhat/08-kannadakke-mahaprana-yake-beda/08-kannadakke-mahaprana-yake-beda-en.md)
-- [Kannada text →](../../kannada/dnsbhat/08-kannadakke-mahaprana-yake-beda/08-kannadakke-mahaprana-yake-beda-kn.md)
+- [English outline and summary →](../../kannada/dnsbhat/08-kannaDakke-mahAprANa-yAke-bEDa/book/en/summary.md)
+- [Kannada text →](../../kannada/dnsbhat/08-kannaDakke-mahAprANa-yAke-bEDa/book/kn/full.md)
 - [Video series on YouTube (Parts P1–17)](https://www.youtube.com/watch?v=JRhErUXyoZk)
 - [Wikipedia — D. N. Shankara Bhat](https://en.wikipedia.org/wiki/D._N._Shankara_Bhat)
 - [Author's website](http://dnshankarabhat.net/dr-d-n-shankara-bhat/)

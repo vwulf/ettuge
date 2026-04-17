@@ -1,0 +1,470 @@
+---
+title: "Eke Examples — ಏಕೆ ಎತ್ತುಗೆಗಳು"
+nav_order: 3
+---
+<!DOCTYPE html>
+<html lang="kn">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Eke Examples — ಏಕೆ ಎತ್ತುಗೆಗಳು</title>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Kannada:wght@300;400;600;700&family=Noto+Serif+Kannada:wght@400;700&family=IBM+Plex+Mono:wght@400;500&family=Noto+Sans+Brahmi&family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #0f1a1f;
+    --paper: #f5f2ed;
+    --teal: #1a5f6b;
+    --teal-light: #2a8a9a;
+    --teal-faint: #d0e8ec;
+    --gold: #8b6914;
+    --gold-light: #c49a1e;
+    --warm-mid: #4a5a60;
+    --warm-light: #9ab0b8;
+    --warm-faint: #dde8ec;
+    --brahmi: #5a2d82;
+    --brahmi-faint: #ede0f8;
+    --script-bg: #f0ede8;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-size: 17px;
+    color: var(--ink);
+    background: var(--paper);
+    line-height: 1.7;
+    padding: 0 0 80px;
+  }
+
+  header {
+    background: var(--teal);
+    color: white;
+    padding: 32px 40px 28px;
+    border-bottom: 3px solid var(--gold);
+  }
+  header h1 {
+    font-family: 'Noto Serif Kannada', 'Noto Sans Kannada', serif;
+    font-size: 2rem;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+  }
+  header .subtitle {
+    font-size: 1.05rem;
+    opacity: 0.85;
+    margin-top: 6px;
+    font-style: italic;
+  }
+
+  nav.toc {
+    background: var(--teal-faint);
+    border-left: 4px solid var(--teal);
+    padding: 16px 24px;
+    margin: 28px 40px;
+    border-radius: 0 6px 6px 0;
+    font-size: 0.95rem;
+  }
+  nav.toc h3 { color: var(--teal); margin-bottom: 8px; font-size: 1rem; }
+  nav.toc ol { padding-left: 1.4em; }
+  nav.toc li { margin: 3px 0; }
+  nav.toc a { color: var(--teal); text-decoration: none; }
+  nav.toc a:hover { text-decoration: underline; }
+
+  .intro-note {
+    background: var(--warm-faint);
+    border: 1px solid var(--warm-light);
+    border-radius: 6px;
+    padding: 16px 24px;
+    margin: 0 40px 28px;
+    font-size: 0.95rem;
+    color: var(--warm-mid);
+    line-height: 1.6;
+  }
+
+  .example-block {
+    margin: 0 40px 48px;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  }
+
+  .example-header {
+    background: var(--teal);
+    color: white;
+    padding: 12px 20px;
+    font-size: 1.05rem;
+    font-weight: 600;
+    font-family: 'Noto Sans Kannada', sans-serif;
+  }
+  .example-header .en-title {
+    font-family: 'Cormorant Garamond', serif;
+    font-style: italic;
+    opacity: 0.85;
+    font-size: 0.9rem;
+    margin-left: 8px;
+    font-weight: 400;
+  }
+
+  .script-row {
+    display: grid;
+    grid-template-columns: 140px 1fr;
+    border-bottom: 1px solid var(--warm-faint);
+  }
+  .script-row:last-child { border-bottom: none; }
+
+  .script-label {
+    background: var(--script-bg);
+    padding: 14px 16px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--warm-mid);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    display: flex;
+    align-items: center;
+    border-right: 1px solid var(--warm-faint);
+  }
+  .script-label.brahmi { color: var(--brahmi); }
+  .script-label.eke { color: var(--teal); }
+  .script-label.meaning { color: var(--gold); }
+
+  .script-content {
+    background: white;
+    padding: 14px 20px;
+    font-size: 1.1rem;
+  }
+  .script-content.brahmi-text {
+    font-family: 'Noto Sans Brahmi', 'Noto Sans', serif;
+    font-size: 1.2rem;
+    color: var(--brahmi);
+    letter-spacing: 0.04em;
+    line-height: 1.9;
+  }
+  .script-content.kannada-text {
+    font-family: 'Noto Serif Kannada', 'Noto Sans Kannada', serif;
+    font-size: 1.2rem;
+    color: var(--ink);
+    line-height: 1.9;
+  }
+  .script-content.eke-text {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 1rem;
+    color: var(--teal);
+    line-height: 1.9;
+  }
+  .script-content.meaning-text {
+    font-style: italic;
+    color: #555;
+    font-size: 1rem;
+  }
+
+  .section-title {
+    font-family: 'Noto Sans Kannada', 'Cormorant Garamond', serif;
+    font-size: 1.4rem;
+    color: var(--teal);
+    margin: 44px 40px 16px;
+    padding-bottom: 8px;
+    border-bottom: 2px solid var(--teal-faint);
+  }
+
+  .note-box {
+    background: var(--brahmi-faint);
+    border-left: 4px solid var(--brahmi);
+    padding: 14px 20px;
+    margin: 0 40px 28px;
+    border-radius: 0 6px 6px 0;
+    font-size: 0.92rem;
+    color: var(--ink);
+    line-height: 1.65;
+  }
+
+  pre {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.9rem;
+    background: #f0f0f0;
+    padding: 8px 14px;
+    border-radius: 4px;
+    display: inline;
+  }
+
+  @media (max-width: 600px) {
+    header, nav.toc, .intro-note, .example-block, .section-title, .note-box {
+      margin-left: 16px;
+      margin-right: 16px;
+    }
+    .script-row { grid-template-columns: 80px 1fr; }
+    .script-label { font-size: 0.7rem; padding: 10px 10px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>ಏಕೆ ಎತ್ತುಗೆಗಳು &mdash; Eke Examples</h1>
+  <div class="subtitle">Kannada texts in Kannada script · Brāhmī · Eke romanisation</div>
+</header>
+
+<nav class="toc">
+  <h3>Contents</h3>
+  <ol>
+    <li><a href="#note">Note on scripts and aspirates</a></li>
+    <li><a href="#gurinuDi">ಗುರಿನುಡಿ — gurinuDi (motto)</a></li>
+    <li><a href="#pangram">Pangram using all Eke letters</a></li>
+    <li><a href="#mankutimma">ಮಂಕುತಿಮ್ಮನ ಕಗ್ಗ — Mankutimmana Kagga</a></li>
+    <li><a href="#basavanna">ಉಳ್ಳವರು — Basavaṇṇa vachana</a></li>
+    <li><a href="#janagana">ಜನ ಗಣ ಮನ — Jana Gaṇa Mana</a></li>
+    <li><a href="#bhajagovindam">ಭಜ ಗೋವಿಂದಮ್ — Bhaja Govindam</a></li>
+    <li><a href="#ellarakannada">ಎಲ್ಲರಕನ್ನಡ — Ellara Kannada</a></li>
+    <li><a href="#halmidi">ಹಲ್ಮಿಡಿ ಶಾಸನ — Halmiḍi Inscription</a></li>
+  </ol>
+</nav>
+
+<div class="intro-note" id="note">
+  <strong>Two Eke modes:</strong> When romanising existing Kannada texts, aspirates are <em>preserved</em> — ಭ → <code>bh</code>, ಧ → <code>dh</code>, ಖ → <code>kh</code> etc. When <em>coining new native words</em> (Eke(ek) mode), aspirates are dropped since native Dravidian roots have no mahaprāṇa consonants. The examples on this page use the romanisation mode (aspirates preserved).
+  <br><br>
+  <strong>Optional h in classical/Sanskrit texts:</strong> Where a text contains Sanskrit loanwords, the optional aspiration marker <code>h</code> is shown in parentheses — e.g. <code>kas(h)Ta</code>, <code>vid(h)i</code> — indicating that Ellara Kannada speakers may drop the aspiration in natural speech.
+  <br><br>
+  Brāhmī script: characters are in Asokan Brāhmī (Unicode block 11000–1107F). Note that Brāhmī, like Devanāgarī, does not distinguish short-e/long-E or short-o/long-O.
+</div>
+
+<!-- ── 1. gurinuDi ─────────────────────────────────────────── -->
+<div class="section-title" id="gurinuDi">ಗುರಿನುಡಿ &mdash; gurinuDi</div>
+<div class="example-block">
+  <div class="example-header">ಸಿರಿಗನ್ನಡಂ ಗೆಲ್ಗೆ <span class="en-title">Karnataka state motto</span></div>
+  <div class="script-row">
+    <div class="script-label">ಕನ್ನಡ</div>
+    <div class="script-content kannada-text">ಸಿರಿಗನ್ನಡಂ ಗೆಲ್ಗೆ, ಸಿರಿಗನ್ನಡಂ ಬಾಳ್ಗೆ.</div>
+  </div>
+  <div class="script-row">
+    <div class="script-label brahmi">Brāhmī</div>
+    <div class="script-content brahmi-text">𑀲𑀺𑀭𑀺𑀕𑀦𑁆𑀦𑀟𑀁 𑀕𑁂𑀮𑁆𑀕𑁂, 𑀲𑀺𑀭𑀺𑀕𑀦𑁆𑀦𑀟𑀁 𑀧𑀸𑀴𑁆𑀕𑁂.</div>
+  </div>
+  <div class="script-row">
+    <div class="script-label eke">Eke</div>
+    <div class="script-content eke-text">sirigannaDam gelge, sirigannaDam bALge.</div>
+  </div>
+  <div class="script-row">
+    <div class="script-label meaning">Meaning</div>
+    <div class="script-content meaning-text">May glorious Kannada triumph; may glorious Kannada thrive.</div>
+  </div>
+</div>
+
+<!-- ── 2. Pangram ─────────────────────────────────────────── -->
+<div class="section-title" id="pangram">Pangram — using all Eke letters</div>
+<div class="example-block">
+  <div class="example-header">ಕಾವಲುಗಾರನು ಓರ್ವನು… <span class="en-title">A pangram covering all Eke(EK) characters</span></div>
+  <div class="script-row">
+    <div class="script-label">ಕನ್ನಡ</div>
+    <div class="script-content kannada-text">
+      ಕಾವಲುಗಾರನು ಓರ್ವನು ಇಳಿವೇಳೆ ಆ ದಿನ<br>
+      ಒಂದು ಉರಿಯ ಬಾಣವನ್ನು ಈ ಶಿಲೆಗೆ ಹೊಡೆದು<br>
+      ಏರಿ ಅಂದೇ ಊರಿನ ಮೇಳದಲ್ಲಿ ಎಡವಿ<br>
+      ಚಟಪಟನೆ ಜನರಿಗೆ ತಪ್ಪು ಹಾಡು ಹಾಡಿದ.
+    </div>
+  </div>
+  <div class="script-row">
+    <div class="script-label brahmi">Brāhmī</div>
+    <div class="script-content brahmi-text">
+      𑀓𑀸𑀯𑀮𑀼𑀕𑀸𑀭𑀦𑀼 𑀑𑀭𑁆𑀯𑀦𑀼 𑀇𑀴𑀺𑀯𑁂𑀴𑁂 𑀆 𑀤𑀺𑀦<br>
+      𑀑𑀁𑀤𑀼 𑀉𑀭𑀺𑀬 𑀩𑀸𑀡𑀯𑀦𑁆𑀦𑀼 𑀈 𑀰𑀺𑀮𑁂𑀕𑁂 𑀳𑁄𑀟𑁂𑀤𑀼<br>
+      𑀓𑁂𑀭𑀺 𑀅𑀁𑀤𑁂 𑀊𑀭𑀺𑀦 𑀫𑁂𑀴𑀤𑀮𑁆𑀮𑀺 𑀓𑁂𑀟𑀯𑀺<br>
+      𑀘𑀝𑀧𑀝𑀦𑁂 𑀚𑀦𑀭𑀺𑀕𑁂 𑀢𑀧𑁆𑀧𑀼 𑀳𑀸𑀟𑀼 𑀳𑀸𑀟𑀺𑀤.
+    </div>
+  </div>
+  <div class="script-row">
+    <div class="script-label eke">Eke</div>
+    <div class="script-content eke-text">
+      kAvalugAranu Orvanu iLivELe A diNa<br>
+      ondu uriya bANavannu I Silege hoDedu<br>
+      Eri andE Urina mELadalli eDavi<br>
+      caTapaTane janarige tappu haDu haDida.
+    </div>
+  </div>
+  <div class="script-row">
+    <div class="script-label meaning">Meaning</div>
+    <div class="script-content meaning-text">
+      A guard, one evening that day,<br>
+      struck one burning arrow against this rock,<br>
+      arose, and then during the village fair, stumbled,<br>
+      and energetically sang the wrong song to the crowd.
+    </div>
+  </div>
+</div>
+
+<!-- ── 3. Mankutimmana Kagga ─────────────────────────────── -->
+<div class="section-title" id="mankutimma">ಮಂಕುತಿಮ್ಮನ ಕಗ್ಗ &mdash; Mankutimmana Kagga</div>
+<div class="note-box">D.V. Gundappa (DVG), <em>Mankutimmana Kagga</em> (1943). In Ellara Kannada pronunciation, aspirates in Sanskrit loanwords like <em>kaṣṭa</em> and <em>vidhi</em> are optional — shown here in parentheses.</div>
+<div class="example-block">
+  <div class="example-header">ಹುಲ್ಲಾಗು ಬೆಟ್ಟದಡಿ…</div>
+  <div class="script-row">
+    <div class="script-label">ಕನ್ನಡ</div>
+    <div class="script-content kannada-text">
+      ಹುಲ್ಲಾಗು ಬೆಟ್ಟದಡಿ, ಮನೆಗೆ ಮಲ್ಲಿಗೆಯಾಗು<br>
+      ಕಲ್ಲಾಗು ಕಷ್ಟಗಳ ಮಳೆಯ ವಿಧಿ ಸುರಿಯೆ<br>
+      ಬೆಲ್ಲ ಸಕ್ಕರೆಯಾಗು ದೀನ ದುರ್ಬಲರಿಂಗೆ<br>
+      ಎಲ್ಲರೊಳಗೊಂದಾಗು ಮಂಕುತಿಮ್ಮ
+    </div>
+  </div>
+  <div class="script-row">
+    <div class="script-label eke">Eke</div>
+    <div class="script-content eke-text">
+      hullAgu beTTadaDi, manege malligeyAgu<br>
+      kallAgu kaS(h)TagaLa maLeya vid(h)i suriye<br>
+      bella sakkareyAgu dIna durbalaringe<br>
+      ellaroLagondAgu mankutimma
+    </div>
+  </div>
+</div>
+
+<!-- ── 4. Basavanna ─────────────────────────────────────── -->
+<div class="section-title" id="basavanna">ಉಳ್ಳವರು &mdash; Basavaṇṇa</div>
+<div class="example-block">
+  <div class="example-header">ಉಳ್ಳವರು ಶಿವಾಲಯ ಮಾಡಿಹರು <span class="en-title">12th c. vachana — Basavaṇṇa</span></div>
+  <div class="script-row">
+    <div class="script-label">ಕನ್ನಡ</div>
+    <div class="script-content kannada-text">
+      ಉಳ್ಳವರು ಶಿವಾಲಯ ಮಾಡಿಹರು | ನಾನೇನ ಮಾಡಲಿ ಬಡವನಯ್ಯಾ ||<br>
+      ಎನ್ನ ಕಾಲೇ ಕಂಬ ದೇಹವೇ ದೇಗುಲ | ಶಿರ ಹೊನ್ನ ಕಳಶವಯ್ಯಾ ||<br>
+      ಕೂಡಲಸಂಗಮದೇವಾ, ಕೇಳಯ್ಯಾ | ಸ್ಥಾವರಕಳಿವುಂಟು ಜಂಗಮಕ್ಕಳಿವಿಲ್ಲ ||<br>
+      — ಬಸವಣ್ಣ
+    </div>
+  </div>
+  <div class="script-row">
+    <div class="script-label eke">Eke</div>
+    <div class="script-content eke-text">
+      uLLavaru SivAlaya mADiharu | nAnEna mADali baDavanayyA ||<br>
+      enna kAlE kamba dEhavE dEgula | Sira honna kaLaSavayyA ||<br>
+      kUDalsangamadEvA, kELayyA | st(h)AvarakkaLivunTu jangamakkaLivilla ||<br>
+      — basavaNNa
+    </div>
+  </div>
+  <div class="script-row">
+    <div class="script-label meaning">Meaning</div>
+    <div class="script-content meaning-text">
+      The wealthy build temples to Śiva — what shall I build, a poor man?<br>
+      My legs are the pillars, my body the shrine, my head the golden finial.<br>
+      O Kūḍalasaṅgama-deva, hear me: the immovable perishes; the moving does not.
+    </div>
+  </div>
+</div>
+
+<!-- ── 5. Jana Gana Mana ────────────────────────────────── -->
+<div class="section-title" id="janagana">ಜನ ಗಣ ಮನ &mdash; Jana Gaṇa Mana</div>
+<div class="note-box">India's national anthem, composed in Bengali (Rabindranath Tagore, 1911), officially adopted 1950. Kannada version follows standard Devanāgarī-based spelling; aspirates in Sanskrit-origin place names shown as <code>bh</code>, <code>dh</code> etc.</div>
+<div class="example-block">
+  <div class="example-header">ಜನ ಗಣ ಮನ ಅಧಿನಾಯಕ ಜಯಹೇ <span class="en-title">National Anthem of India</span></div>
+  <div class="script-row">
+    <div class="script-label">ಕನ್ನಡ</div>
+    <div class="script-content kannada-text">
+      ಜನ ಗಣ ಮನ ಅಧಿನಾಯಕ ಜಯಹೇ, ಭಾರತ ಭಾಗ್ಯ ವಿಧಾತಾ!<br>
+      ಪಂಜಾಬ, ಸಿಂಧು, ಗುಜರಾತ, ಮರಾಠಾ, ದ್ರಾವಿಡ, ಉತ್ಕಲ, ವಂಗ!<br>
+      ವಿಂಧ್ಯ, ಹಿಮಾಚಲ, ಯಮುನಾ, ಗಂಗ, ಉಚ್ಚಲ ಜಲಧಿತರಂಗ!<br>
+      ತವ ಶುಭನಾಮೇ ಜಾಗೇ! ತವ ಶುಭ ಆಶಿಷ ಮಾಗೇ!<br>
+      ಗಾಹೇ ತವ ಜಯ ಗಾಥಾ!<br>
+      ಜನಗಣ ಮಂಗಳದಾಯಕ ಜಯಹೇ ಭಾರತ ಭಾಗ್ಯವಿಧಾತಾ!<br>
+      ಜಯಹೇ! ಜಯಹೇ! ಜಯಹೇ! ಜಯ ಜಯ ಜಯ ಜಯಹೇ!
+    </div>
+  </div>
+  <div class="script-row">
+    <div class="script-label eke">Eke</div>
+    <div class="script-content eke-text">
+      jana gaNa mana adhinAyaka jayahE, bhArata bhAgya vidhAtA!<br>
+      panjAba, sindhu, gujarAta, marATha, drAviDa, utkala, vanga!<br>
+      vindya, himAcala, yamunA, ganga, uccala jaladhitaranga!<br>
+      tava ShubhanAmE jAgE! tava Shubha ASiSha mAgE!<br>
+      gAhE tava jaya gAthA!<br>
+      janagaNa mangaLadAyaka jayahE bhArata bhAgyavidhAtA!<br>
+      jayahE! jayahE! jayahE! jaya jaya jaya jayahE!
+    </div>
+  </div>
+</div>
+
+<!-- ── 6. Bhaja Govindam ─────────────────────────────────── -->
+<div class="section-title" id="bhajagovindam">ಭಜ ಗೋವಿಂದಮ್ &mdash; Bhaja Govindam</div>
+<div class="note-box">Ādi Śaṅkarācārya (8th c. CE). A Sanskrit text rendered in three scripts: Devanāgarī, Kannada, and Eke. Demonstrates that Eke handles Sanskrit-origin texts with full fidelity.</div>
+<div class="example-block">
+  <div class="example-header">ಭಜ ಗೋವಿಂದಮ್ ಭಜ ಗೋವಿಂದಮ್ <span class="en-title">Ādi Śaṅkarācārya — Sanskrit, 8th c.</span></div>
+  <div class="script-row">
+    <div class="script-label">Devanāgarī</div>
+    <div class="script-content kannada-text" style="font-family:'Noto Sans',serif">
+      भज गोविन्दं भज गोविन्दं<br>
+      गोविन्दं भज मूढमते ।<br>
+      सम्प्राप्ते सन्निहिते काले<br>
+      नहि नहि रक्षति डुकृञ्करणे ॥
+    </div>
+  </div>
+  <div class="script-row">
+    <div class="script-label">ಕನ್ನಡ</div>
+    <div class="script-content kannada-text">
+      ಭಜ ಗೋವಿಂದಮ್ ಭಜ ಗೋವಿಂದಂ<br>
+      ಗೋವಿಂದಮ್ ಭಜ ಮೂಢಮತೆ ।<br>
+      ಸಂಪ್ರಾಪ್ತೆ ಸನ್ನಿಹಿತೆ ಕಾಲೆ<br>
+      ನಹಿ ನಹಿ ರಕ್ಷತಿ ಡುಕೃಂಕರಣೆ ॥
+    </div>
+  </div>
+  <div class="script-row">
+    <div class="script-label eke">Eke</div>
+    <div class="script-content eke-text">
+      bhaja gOvindam bhaja gOvindam<br>
+      gOvindam bhaja mUDhamate |<br>
+      samprApte sannihite kAle<br>
+      nahi nahi rakShati DukxnGkaraNe ||
+    </div>
+  </div>
+  <div class="script-row">
+    <div class="script-label meaning">Meaning</div>
+    <div class="script-content meaning-text">Seek Govinda, seek Govinda, seek Govinda, O fool! At the appointed hour of death, the rules of grammar will not save you.</div>
+  </div>
+</div>
+
+<!-- ── 7. Ellara Kannada ─────────────────────────────────── -->
+<div class="section-title" id="ellarakannada">ಎಲ್ಲರಕನ್ನಡ &mdash; Ellara Kannada</div>
+<div class="note-box">From <a href="https://honalu.net/ellarakannaDa/" style="color:var(--teal)">honalu.net — ಎಲ್ಲರಕನ್ನಡ</a>. A description of the Ellara Kannada movement — written <em>in</em> Ellara Kannada. Notice the absence of aspirated consonants throughout.</div>
+<div class="example-block">
+  <div class="example-header">ಎಲ್ಲರಕನ್ನಡ ಎಂದರೇನು? <span class="en-title">What is Ellara Kannada?</span></div>
+  <div class="script-row">
+    <div class="script-label eke">Eke</div>
+    <div class="script-content eke-text" style="font-size:0.9rem;line-height:1.8">
+      ellarakannaDa<br><br>
+      enidu 'ellarakannaDa'?<br><br>
+      kannaDavannu hosadondu ritiyalli bareyuva aleyondu eddide. idu
+      heccu-kaDime kannaDadalli bareyuvavarellara gamanakkU bandide. I
+      caLuvaLiyannu 'ellarakannaDa'da caLuvaLiyennabahudu. ellarakannaDadalli
+      bareyuvAga AdaSTuu heccu (nUrakke nUralla!) accagannaDa padagaLannu
+      baLasi bareyuva mogasu barahagAranadagiruttide. jotege, heccina kannaDigaru
+      uliyada barigegaLada mahaprANagaLu, x, Sha ivugaLa badalAgi OraNavAgi
+      alpapraaNagaLu, ru, Sa ivugaLannu baLasalaguttide. haageye
+      barigemaNeyalli yAva viSeSavada kelasavannU mADada arkAvottina badalAgi
+      rakArakke ottannu baLasalaguttade.<br><br>
+      ettugege: suka &gt; suka, kxSi &gt; kruSi, kaSTa &gt; kaSTa, karnATaka &gt; karnATaka.
+    </div>
+  </div>
+</div>
+
+<!-- ── 8. Halmidi ─────────────────────────────────────────── -->
+<div class="section-title" id="halmidi">ಹಲ್ಮಿಡಿ ಶಾಸನ &mdash; Halmiḍi Inscription</div>
+<div class="note-box">The earliest known Kannada inscription (c. 450 CE), originally in Kadamba script. Transcribed here via modern Kannada script (from Wikipedia's Kannada-script rendering) and romanised in Eke. The original Kadamba script is related to both modern Kannada and Asokan/Tamil Brāhmī. Sanskrit loanwords are heavily present — aspirates fully preserved in Eke.</div>
+<div class="example-block">
+  <div class="example-header">ಜಯತಿ ಶ್ರೀ… <span class="en-title">Halmiḍi inscription — c. 450 CE, Kadamba period</span></div>
+  <div class="script-row">
+    <div class="script-label">ಕನ್ನಡ</div>
+    <div class="script-content kannada-text" style="font-size:1rem;line-height:1.8">
+      ಜಯತಿ ಶ್ರೀ ಪರಿಷ್ವರ್ಙ್ಗ ಶ್ಯಾರ್ಙ್ಗ ವ್ಯಾನತಿರ್ ಅಚ್ಯುತಃ ದಾನಕ್ಷೆರ್ ಯುಗಾನ್ತಾಗ್ನಿಃ ಶಿಷ್ಟಾನಾನ್ತು<br>
+      ಸುದರ್ಶನಃ ನಮಃ ಶ್ರೀಮತ್ ಕದಂಬಪನ್ ತ್ಯಾಗ ಸಂಪನ್ನನ್‍ಕಲಭೋರನಾ ಅರಿ ಕ ಕುಸ್ಥಭಟ್ಟೋರನ್ ಆಳೆ<br>
+      ನರಿದಾವಿಳೆ ನಾಡುಳ್ ಮೃಗೇಶನಾ ಗೇನ್ದ್ರಾಭೀಳರ್ ಭ್ಭಟಹರಪ್ಪೋರ್ ಶ್ರೀ ಮೃಗೇಶ ನಾಗಾಹ್ವಯ ರ್ ಇರ್ವ್ವರಾ
+    </div>
+  </div>
+  <div class="script-row">
+    <div class="script-label eke">Eke</div>
+    <div class="script-content eke-text" style="font-size:0.88rem;line-height:1.8">
+      jayati SrI pariSvarGga SyArGga vyAnatir achyutaH dAnakSer
+      yugAntAgniH SiSTAnAntu sudarSanaH namaH SrImat kadambapan tyAga
+      sampannan‍kalabhOranA ari ka kusThabhaTTOran ALe nariDAviLe
+      nADuL mxgeSanA gEndrAbhILar bhbhaTharapappOr SrI mxgeSa
+      nAgAhvaya r irvvarA
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

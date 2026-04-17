@@ -47,4 +47,4 @@ The precise relationship between Book 33 and Books 01/07 is uncertain without th
 |------|-----------|
 | [07 — kannaDa barahada sollarime](../07-kannaDa-barahada-sollarime/) | The comprehensive 7-volume grammar with same framework; has PDFs for vols 1+2 |
 | [01 — idu kannaDaddE vyAkaraNa](../01-idu-kannaDaddE-vyAkaraNa/) | 2021 consolidation of Book 07's 7 volumes |
-| [28 — kannaDakke bEku kannaDaddE vyAkaraNa](../28-kannaDakke-bEku-kannaDaddE-vyAkaraNa/) | Earlier (2000/2013) shorter grammar — possibly the predecessor to both 33 and 07 |
+| [28 — kannaDakke bEku kannaDaddE vyAkaraNa](../28-kannaDakke-bEku/) | Earlier (2000/2013) shorter grammar — possibly the predecessor to both 33 and 07 |

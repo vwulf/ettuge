@@ -1,7 +1,7 @@
 ---
 ---
 # DNS Bhat Ettuge Project — Recap
-*Last updated: 2026-03-23 (Phase 27)*
+*Last updated: 2026-04-17 (Phase 37)*
 
 ---
 
@@ -995,6 +995,122 @@ New directory `src/main/md/kannada/grammar/` with three verb paradigm pairs:
 | `illa-illustrated.html` | Visual interactive paradigm table |
 
 Cross-navigation between all three illustrated pages (prev/next banners). Compound forms notes added: `mADihanu` (converb + emphatic ಹನು), `mADalAre` (purpose converb + defective aux ಆರು). Root redirect stubs at grammar folder index.
+
+---
+
+### Phase 30–32 — GitHub Pages Navigation, Books/FP/Reflection Publishing, Chapter Splits (2026-03-25)
+
+**Phase 30:** Books, FP/Haskell, and self-reflection sections published to GitHub Pages with full sidebar integration (L1 roots at nav_order 4/5/6).
+
+**Phase 31:** PROJECT-RECAP.md TBD cleanup — 3 completed High-priority items removed.
+
+**Phase 32:** CI chapter splitter added to `pages.yml` — walks all `docs/kannaDa/dnsbhat/*/book/*/full.md`, splits at `<a id="(?:ch|adhyAya-)(\d+)">` anchors, generates `ch0.md` (preamble + TOC + chapter nav) + `ch1.md`…`chN.md` per chapter. Book 07 vol4 `ch9`/`ch10` anchors added. Book 31 (A–Z dictionary) given 19 chapter anchors for letter-range pages.
+
+---
+
+### Phase 33 — Claude.ai Skills Mining Phase 1: 8 New Domain Skills (2026-04-17)
+
+**Motivation:** The ettuge corpus had accumulated substantial structured content across multiple DNS Bhat books, but only 5 generic skills existed. A systematic survey identified 6 domain-specific skills that could be mined from the corpus, plus 3 structural gaps in the existing skill inventory.
+
+**Six domain-specific linguistic skills created:**
+
+| # | Skill file | Primary sources | Trigger domain |
+|---|-----------|----------------|----------------|
+| 09 | `09-kannada-script-reform.md` | Books 08, 28, 29, 30 | mahāprāṇa, hosa baraha, script reform |
+| 10 | `10-old-kannada-grammar.md` | Book 14 (12 chapter pages) | Old Kannada, Kesiraja, rational/non-rational gender |
+| 11 | `11-havyaka-kannada.md` | Books 20, 09 | Havyaka dialect, vowel-raising, four-tense verbs |
+| 12 | `12-kannada-sound-change.md` | Books 08, 26 (Book 22 not yet extracted) | Sound change, aspiration merger, vowel-raising |
+| 13 | `13-kannada-syntax.md` | Books 25, 07 | SOV word order, converb co-reference, relative clauses |
+| 16 | `16-kannada-reference-grammar.md` | Book 07 (all 4 volumes) | 36 verb forms, pAngu, modalEsaka, compound verbs |
+
+**Three structural skill gaps fixed:**
+
+| Gap | Fix |
+|-----|-----|
+| `vetted-kannaDa-dictionary` existed in `docs/skills/08` but not in `.claude/skills/` | Created `.claude/skills/vetted-kannaDa-dictionary/SKILL.md` |
+| `ettuge-pre-deploy-check` was `.claude/skills/` only | Added `docs/skills/14-ettuge-pre-deploy-check.md` |
+| `ettuge-sync` was `.claude/skills/` only | Added `docs/skills/15-ettuge-sync.md` |
+
+**`claude-project-instructions.md` updated** with all 9 new entries + expanded Quick Trigger Guide.
+
+---
+
+### Phase 34 — Book 07 Chapter Navigation Fix + vol3/vol4 Splits (2026-04-17)
+
+**Root cause of Issue 1:** The `book/kn/full` (multi-volume index stub) linked to `../vol1/kn/full` — the 20,000-line full.md — instead of `../vol1/kn/ch0` (the lightweight chapter index). Chapter bullet points were plain text, not links. Both fixed.
+
+**Vol3/vol4 chapter splits generated:** `split_book_chapters.py` run on vol3 (`adhyAya-7`, `adhyAya-8`) and vol4 (`ch9`, `ch10`) — ch0+ch1+ch2 files for each. The chapter split files were previously missing from `src/` (they existed in `docs/kannaDa/` which is CI-generated, but not in `src/`).
+
+**Index stub updated:** All volume table links now point to `ch0` (chapter index) not `full`. All chapter bullet points converted to clickable links. Vol3/vol4 correctly show `ch0`→`ch1`→`ch2` navigation.
+
+---
+
+### Phase 35 — Comprehensive Cross-Link Checker + 86 Link Fixes (2026-04-17)
+
+**New tool: `check_links.py`** — comprehensive internal markdown link checker scanning all ~13,000 internal relative links across `src/main/md/`.
+
+Key design decisions:
+- **Book-number fuzzy match**: `../08-anything/` resolves to `✓` if any dir starting with `08-` exists — handles case-mismatch slugs
+- **Phase-20 depth correction**: `youtube/en/summary.md` files are 3 levels inside book dirs; cross-book links using `../` need `../../../` — auto-detected
+- **Classifier tiers**: `SKIP` (archive.org junk, Google Drive PDFs, Brāhmī placeholder links), `WARN` (pre-Phase-20 flat names — work via redirect_from), `ERROR` (genuine broken links)
+- **Known permanent stubs**: `Books-Top`, `Schwa` added to SKIP (referenced but never created)
+
+**Three fix passes applied (86 total fixes):**
+
+| Pass | Fix type | Count |
+|------|----------|-------|
+| 1 — Slug case typos | `08-kannadakke-mahaprana-yake-beda` → `08-kannaDakke-mahAprANa-yAke-bEDa` etc. | 11 |
+| 2 — Depth corrections | `../XX` from `youtube/en/` → `../../../XX`; `../../kn/full` from `youtube/en/` → `../kn/full` | 49 |
+| 3 — Targeted manual fixes | vol3/vol4 en/ links, Book 14 flat-name links, Books/influential/ paths, dns-bhat-analysis depth | 26 |
+
+**Final state:** `check_links.py` reports `6,764 OK | 0 warnings | 0 errors`. Script integrated as Step 2 in the `ettuge-pre-deploy-check` skill (run after every structural change to book files).
+
+---
+
+### Phase 36 — Chapterization Completeness + Book 08/02/03 Splits (2026-04-17)
+
+**Systematic audit** of all books with `<a id="chN">` or `<a id="adhyAya-N">` anchors in `full.md` against actual `ch*.md` files present in `src/`:
+
+| Finding | Count | Action |
+|---------|-------|--------|
+| `kn/full.md` with anchors but no ch files | 2 (Books 08, 31) | Book 08 split; Book 31 excluded (dictionary) |
+| `web/kn/full.md` with anchors but no ch files | 1 (Book 02) | Split on all 14 anchors |
+| `youtube/kn/full.md` over-split on part-N anchors | 1 (Book 03) | Re-split on `adhyAya-N` only (9 chapters, not 118) |
+| All `eke/full.md` files | — | Not split (Eke is companion; CI splits `kn/` only) |
+
+**Book 03 youtube/kn** was the most significant: the split script had previously run on ALL anchors (both `adhyAya-N` and `part-N`), producing 118 tiny chapter files. Corrected to split only on `adhyAya-N` — 9 meaningful chapters.
+
+**Book 08 `book/kn`** — 5 chapters — first time this book was chapterized despite having `<a id="ch1">` through `<a id="ch5">` since Phase 3.
+
+---
+
+### Phase 37 — Eke Examples Page + mahāprāṇa Rationale + PROJECT-RECAP Update (2026-04-17)
+
+**1. Eke Examples HTML page** — `src/main/md/kannada/eke/examples.html` created. A styled, multi-script reference page showing 8 canonical Kannada texts in three scripts (Kannada · Brāhmī · Eke):
+- Karnataka motto (ಸಿರಿಗನ್ನಡಂ ಗೆಲ್ಗೆ)
+- Pangram covering all Eke letters
+- Mankutimmana Kagga (DVG) — with optional-`h` notation for Ellara Kannada pronunciation
+- Basavaṇṇa vachana (ಉಳ್ಳವರು)
+- Jana Gaṇa Mana (national anthem)
+- Bhaja Govindam (Sanskrit — Devanāgarī + Kannada + Eke)
+- Ellara Kannada description (from honalu.net)
+- Halmiḍi inscription (~450 CE)
+
+Uses Noto Sans Kannada + IBM Plex Mono + Noto Sans Brahmi + Cormorant Garamond; consistent teal/gold/brahmi-purple colour scheme matching the grammar illustrated pages.
+
+**2. mahāprāṇa phonology rationale** added to both Eke reference and motivation pages:
+
+> A mahāprāṇa consonant is phonologically identical to its alphaprāṇa counterpart followed by a half-`h` — visible directly in Brāhmī (𑀔 = 𑀓◌𑁆𑀳), Devanāgarī (ख = क्ह, घ = ग्ह), and Kannada (ಖ = ಕ್ಹ, ಘ = ಗ್ಹ, ಭ = ಬ್ಹ). Eke uses `h` as the aspiration marker — `kh`, `gh`, `bh`, `dh` etc. — because it reflects this phonological reality directly.
+
+Added at the top of the **Stops table** in `reference.md` and as a new paragraph under **Key design choices** in `motivation.md`.
+
+**3. PROJECT-RECAP updated** to cover Phases 30–37 (this update).
+
+**Files changed in Phase 37:**
+- `src/main/md/kannada/eke/examples.html` — new file (471 lines)
+- `src/main/md/kannada/eke/reference.md` — mahāprāṇa rationale added
+- `src/main/md/kannada/eke/motivation.md` — mahāprāṇa rationale added
+- `docs/dnsbhat/PROJECT-RECAP.md` — updated to Phase 37
 
 ---
 

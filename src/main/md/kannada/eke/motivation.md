@@ -108,6 +108,8 @@ This lets the same notation system serve both careful transcription of DNS Bhat'
 - `A I U E O` = long vowels (vs `a i u e o` = short)
 - `H` = visarga ಃ (vs `h` = ಹ)
 
+**`h` marks aspiration because mahāprāṇa = alphaprāṇa + half-h.** A mahāprāṇa consonant is phonologically identical to its alphaprāṇa counterpart followed by a halanta-ha — visible directly in Brāhmī (𑀔 = 𑀓◌𑁆𑀳, 𑀖 = 𑀕◌𑁆𑀳), Devanāgarī (ख = क्ह, घ = ग्ह), and Kannada script (ಖ = ಕ್ಹ, ಘ = ಗ್ಹ, ಭ = ಬ್ಹ). Using `h` as the aspiration marker — `kh`, `gh`, `bh`, `dh` etc. — reflects this phonological reality directly. The one exception is `Sh` (retroflex ಷ): `S` marks the retroflex sibilant, and `h` extends it to the aspirate in the same digraph pattern.
+
 **Anusvara as assimilation, never M.** In Kannada, anusvara ಂ before a plosive is phonologically the nasal of that plosive's place of articulation — `nk`, `ng`, `nc`, `nT`, `nt`, `mp`, `mb`. Writing `M` (as in IAST) is phonologically opaque and creates ambiguity with the labial nasal `m`.
 
 **Diphthongs as sequences.** ಐ = ಅ + ಯ್ → `ay`; ಔ = ಅ + ವ್ → `av`. These reflect the actual phonological composition in Kannada, not the Sanskrit-influenced `ai`/`au`.

@@ -205,8 +205,8 @@ The PDF was typeset in Nudi legacy font. After wx_decode.py conversion:
 
 | Related Book | Connection |
 |---|---|
-| [15 — ಇಂಗ್ಲಿಶ್ ಕನ್ನಡ ಪದನೆರಕೆ](../15-inglish-kannada-padanerake/) | The later, comprehensive (730pp, 2015) collaborative version of the same dictionary project — A–Z coverage with wider team |
-| [08 — ಕನ್ನಡಕ್ಕೆ ಮಹಾಪ್ರಾಣ ಯಾಕೆ ಬೇಡ](../08-kannadakke-mahaprana-yake-beda/) | The linguistic argument underlying why Bhat avoids Sanskrit-borrowed *mahāprāṇa* consonants in new coinages |
+| [15 — ಇಂಗ್ಲಿಶ್ ಕನ್ನಡ ಪದನೆರಕೆ](../15-ingliS-kannaDa-padanerake/) | The later, comprehensive (730pp, 2015) collaborative version of the same dictionary project — A–Z coverage with wider team |
+| [08 — ಕನ್ನಡಕ್ಕೆ ಮಹಾಪ್ರಾಣ ಯಾಕೆ ಬೇಡ](../08-kannaDakke-mahAprANa-yAke-bEDa/) | The linguistic argument underlying why Bhat avoids Sanskrit-borrowed *mahāprāṇa* consonants in new coinages |
 | [30 — ಕನ್ನಡ ಬರಹವನ್ನು ಸರಿಪಡಿಸೋಣ](../30-kannaDa-barahavannu-saripaDisONa/) | Script reform companion — explains the *hosa baraha* script Bhat uses throughout this dictionary |
-| [14 — ನಿಜಕ್ಕೂ ಹಳೆಗನ್ನಡ ವ್ಯಾಕರಣ ಎಂತಹದು](../14-nijakku-halegannada-vyakarana-entahadu/) | Grammar framework — describes the native Kannada suffix system that underlies all the word formations in this dictionary |
+| [14 — ನಿಜಕ್ಕೂ ಹಳೆಗನ್ನಡ ವ್ಯಾಕರಣ ಎಂತಹದು](../14-nijakkU-haLegannaDa-vyAkaraNa-entahadu/) | Grammar framework — describes the native Kannada suffix system that underlies all the word formations in this dictionary |
 | [02 — ಕನ್ನಡ ನುಡಿಯ ಒಳರಚನೆ](../02-kannaDa-nuDiya-oLaracane/) | Structural analysis of Kannada — the theoretical basis for understanding what is "native" to Kannada vs. borrowed |

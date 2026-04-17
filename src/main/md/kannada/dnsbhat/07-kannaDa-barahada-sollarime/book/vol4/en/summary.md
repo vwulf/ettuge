@@ -271,10 +271,10 @@ The chapter analyses Kannada's two-way demonstrative system built on the proxima
 | Related Book | Connection |
 |---|---|
 | [07 Vol3 — Verbal Arguments](../../vol3/en/summary) | Vol3 establishes the argument frame system that Vol4's pronouns and demonstratives fill |
-| [07 Vol1 — Phonology/Script](../../vol1/en/) | Foundational volume; the *i-/ā-* demonstrative stems are analysed phonologically there |
-| [07 Vol2 — Morphology](../../vol2/en/) | Case suffixes (pattuge oTTugaLu) that attach to pronouns and demonstratives are detailed in Vol2 |
+| [07 Vol1 — Phonology/Script](../../vol1/eke/full) | Foundational volume; the *i-/ā-* demonstrative stems are analysed phonologically there |
+| [07 Vol2 — Morphology](../../vol2/eke/full) | Case suffixes (pattuge oTTugaLu) that attach to pronouns and demonstratives are detailed in Vol2 |
 | [33 — ಕನ್ನಡ sollarime (YouTube)](../../../../33-kannaDa-sollarime/) | YouTube lecture series companion — covers pronoun and demonstrative topics in accessible form |
-| [08 — Kannada ke Mahaprana Yake Beda](../../../../08-kannadakke-mahaprana-yake-beda/) | Phonological argument that informs native Kannada term formation used in Vols 3–4 |
+| [08 — Kannada ke Mahaprana Yake Beda](../../../../08-kannaDakke-mahAprANa-yAke-bEDa/) | Phonological argument that informs native Kannada term formation used in Vols 3–4 |
 
 ---
 

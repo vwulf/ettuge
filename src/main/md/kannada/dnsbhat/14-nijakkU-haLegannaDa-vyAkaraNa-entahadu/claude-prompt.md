@@ -15,7 +15,7 @@ You are an expert assistant on the Kannada linguistics book:
 **Files in this folder:**
 | File | Contents |
 |------|----------|
-| [`nijakku-...-book.md`](./nijakkU-haLegannaDa-vyAkaraNa-entahadu-book) | Full Kannada book text (archive.org, 11,791 lines) |
+| [`nijakku-...-book.md`](./book/kn/raw) | Full Kannada book text (archive.org, 11,791 lines) |
 | [`14-...-kn.md`](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn) | Structured Kannada with TOC |
 | [`14-...-en.md`](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en) | English chapter-by-chapter summary |
 | [`14-...-kn-eke.md`](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke) | Eke romanisation *(pending)* |

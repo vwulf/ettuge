@@ -10,7 +10,7 @@ redirect_from:
 **odidaravaru:** malati baT
 
 > mUla paThya (kannaDa lipi): [kn/full.md](../kn/full)
-> ingliS viSlEShaNe: [en/summary.md](../en/summary)
+> ingliS viSlEShaNe: [en/summary.md](../../README)
 
 ---
 

@@ -261,7 +261,7 @@ Subsections [sub-8-7-1](../kn/full#sub-8-7-1) and [sub-8-7-2](../kn/full#sub-8-7
 
 | Related Book | Connection |
 |---|---|
-| [07 Vol1 — Phonology](../../vol1/en/) | Lays out the phonological base; vol3 syntax builds on this |
-| [07 Vol2 — Morphology](../../vol2/en/) | Verb morphology (-isu, -koLLu) analyzed in vol3 argument alternations |
+| [07 Vol1 — Phonology](../../vol1/eke/full) | Lays out the phonological base; vol3 syntax builds on this |
+| [07 Vol2 — Morphology](../../vol2/eke/full) | Verb morphology (-isu, -koLLu) analyzed in vol3 argument alternations |
 | [07 Vol4 — Pronouns/Deixis](../../vol4/en/summary) | Continues: pronouns as special argument-bearers |
 | [33 — ಕನ್ನಡ ಸೊಲ್ಲರಿಮೆ (YouTube)](../../../../33-kannaDa-sollarime/) | Lecture series companion to this book series |

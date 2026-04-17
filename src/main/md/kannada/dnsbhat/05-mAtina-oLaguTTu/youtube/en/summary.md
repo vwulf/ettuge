@@ -13,7 +13,7 @@ redirect_from:
 **Format:** YouTube lecture series — 37 parts
 **Language:** Kannada
 **Source quality:** YouTube transcripts — ~27/37 parts usable (~73%). Parts 6, 29, 35 disabled; Parts 3, 5, 9, 17, 30, 34, 37 garbled. Best content in Parts 2, 4, 7, 8, 10, 11, 13, 14, 15, 16, 18, 19, 20, 26, 28, 31, 32, 33.
-**Transcript file:** [`05-mAtina-oLaguTTu.md`](./05-mAtina-oLaguTTu)
+**Transcript file:** [`05-mAtina-oLaguTTu.md`](../kn/full)
 
 ---
 
@@ -44,7 +44,7 @@ redirect_from:
 
 *Parts 1–5 of the transcript*
 
-[📼 Parts 1–5 →](./05-mAtina-oLaguTTu#part-1)
+[📼 Parts 1–5 →](../kn/full#part-1)
 
 > **Coverage note:** Parts 3 and 5 are garbled (auto-caption noise). Part 6 is disabled. Parts 1, 2, and 4 are good.
 
@@ -62,7 +62,7 @@ redirect_from:
 
 *Parts 7–11 of the transcript*
 
-[📼 Parts 7–11 →](./05-mAtina-oLaguTTu#part-7)
+[📼 Parts 7–11 →](../kn/full#part-7)
 
 > **Coverage note:** Part 9 is garbled. Parts 7, 8, 10, 11 are good.
 
@@ -80,7 +80,7 @@ redirect_from:
 
 *Parts 13–15 of the transcript*
 
-[📼 Parts 13–15 →](./05-mAtina-oLaguTTu#part-13)
+[📼 Parts 13–15 →](../kn/full#part-13)
 
 > **Coverage note:** Parts 13, 14, 15 are all good.
 
@@ -97,7 +97,7 @@ redirect_from:
 
 *Parts 16–25 of the transcript*
 
-[📼 Parts 16–25 →](./05-mAtina-oLaguTTu#part-16)
+[📼 Parts 16–25 →](../kn/full#part-16)
 
 > **Coverage note:** Part 17 is garbled. Parts 16, 18, 19 are good. Parts 22–25 are available but have not been read in full.
 
@@ -119,7 +119,7 @@ redirect_from:
 
 *Parts 20–21 of the transcript*
 
-[📼 Parts 20–21 →](./05-mAtina-oLaguTTu#part-20)
+[📼 Parts 20–21 →](../kn/full#part-20)
 
 > **Coverage note:** Part 20 is good. Part 21 is partially garbled but the core argument is recoverable.
 
@@ -141,7 +141,7 @@ redirect_from:
 
 *Parts 26–28 of the transcript*
 
-[📼 Parts 26–28 →](./05-mAtina-oLaguTTu#part-26)
+[📼 Parts 26–28 →](../kn/full#part-26)
 
 > **Coverage note:** Part 26 is partially garbled but anatomical argument is clear. Part 27 is mixed. Part 28 is good. Part 29 is disabled.
 
@@ -169,7 +169,7 @@ redirect_from:
 
 *Parts 31–33 of the transcript*
 
-[📼 Parts 31–33 →](./05-mAtina-oLaguTTu#part-31)
+[📼 Parts 31–33 →](../kn/full#part-31)
 
 > **Coverage note:** Parts 31, 32, 33 are all good.
 
@@ -197,7 +197,7 @@ redirect_from:
 
 *Parts 34–37 of the transcript*
 
-[📼 Parts 34–37 →](./05-mAtina-oLaguTTu#part-34)
+[📼 Parts 34–37 →](../kn/full#part-34)
 
 > **Coverage note:** Parts 34 and 37 are garbled. Part 35 is disabled. Part 36 is good.
 
@@ -246,4 +246,4 @@ redirect_from:
 ## External Links
 
 - **Author's website (archived):** <https://web.archive.org/web/20170601140053/http://dnshankarabhat.net:80/matina-olagutu/>
-- **YouTube lecture series:** See [Table of Contents](./05-mAtina-oLaguTTu)
+- **YouTube lecture series:** See [Table of Contents](../kn/full)

@@ -59,8 +59,8 @@ Parts 19 through 52 are the application chapters, working through English vocabu
 
 ## Footnotes
 
-- [English summary →](../../kannada/dnsbhat/02-kannadadalle-hosapadagalannu-kattuva-bage/02-kannadadalle-hosapadagalannu-kattuva-bage-en.md)
-- [Kannada text →](../../kannada/dnsbhat/02-kannadadalle-hosapadagalannu-kattuva-bage/02-kannadadalle-hosapadagalannu-kattuva-bage-kn.md)
+- [English summary →](../../kannada/dnsbhat/02-kannaDadalle-hosapadagaLannu-kaTTuva-bage/web/en/summary.md)
+- [Kannada text →](../../kannada/dnsbhat/02-kannaDadalle-hosapadagaLannu-kaTTuva-bage/web/kn/full.md)
 - [YouTube playlist (Parts 1–52, read by Malati Bhat)](https://www.youtube.com/watch?v=zQ_fDKwmd18)
 - [Author's website](http://dnshankarabhat.net/dr-d-n-shankara-bhat/)
-- [DNS Bhat Word Formation Prompt →](../../kannada/dnsbhat/DNS_BHAT_WORD_FORMATION_PROMPT.md)
+- [DNS Bhat Word Formation Prompt →](../../kannada/dnsbhat/README.md)

@@ -11,7 +11,7 @@ redirect_from:
 
 > [← sUci](../../README) | ingliS viSlEShaNe: [en](../en/summary) | kannaDa: [kn](../kn/full)
 
-> mUla pustakada sampUrNa paThya: [`raw.md`](./raw)
+> mUla pustakada sampUrNa paThya: [`raw.md`](../kn/raw)
 
 ---
 

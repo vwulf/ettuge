@@ -340,6 +340,6 @@ The chapter and book conclude (12.5 ತಿರುಳು) with an acknowledgement 
 *This document is an English-language overview of D. N. Shankara Bhat's* ಕನ್ನಡ ನುಡಿ ನಡೆದು ಬಂದ ದಾರಿ *(2007), based on the original Kannada text in* [book/kn/raw](../kn/raw).
 
 *See also:*
-- *DNS Bhat word formation methodology:* [DNS_BHAT_WORD_FORMATION_PROMPT.md](../DNS_BHAT_WORD_FORMATION_PROMPT)
-- *DNS Bhat books analysis:* [dns-bhat-analysis.md](../dns-bhat-analysis)
+- *DNS Bhat word formation methodology:* [DNS_BHAT_WORD_FORMATION_PROMPT.md](../../README)
+- *DNS Bhat books analysis:* [dns-bhat-analysis.md](../../../dns-bhat-analysis)
 - *Book 03 (morphology):* [03/book/en/summary](../../03-kannaDa-padagaLa-oLaracane/book/en/summary)

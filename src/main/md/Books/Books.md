@@ -297,4 +297,4 @@ Books that have reshaped how I think, see, or act. Organized by author.
 
 ---
 
-*See also: [Books-Top.md](Books-Top.md) — Modern Library Top 100 novels list with summaries.*
+*See also: [Books-Top.md](Books-Top) — Modern Library Top 100 novels list with summaries.*

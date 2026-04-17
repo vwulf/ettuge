@@ -493,4 +493,4 @@ Bhat emphasises that many of these languages are spoken by small communities and
 | [18-kannaDa-nuDiya-bagege-cintane-blog.md](../kn/raw) | Source: all 13 blog posts in Kannada |
 | [18-kannaDa-nuDiya-bagege-cintane-en.md](./summary) | This file: English summaries |
 | [18-kannaDa-nuDiya-bagege-cintane-kn-eke.md](../eke/full) | Eke romanisation companion |
-| [18-kannaDa-nuDiya-bagege-cintane-claude-prompt.md](./18-kannaDa-nuDiya-bagege-cintane-claude-prompt) | AI assistant overview |
+| [18-kannaDa-nuDiya-bagege-cintane-claude-prompt.md](../../../README) | AI assistant overview |

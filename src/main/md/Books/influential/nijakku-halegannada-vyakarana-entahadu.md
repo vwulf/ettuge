@@ -55,7 +55,7 @@ The book proceeds chapter by chapter through every major domain of grammar — p
 
 ## Footnotes
 
-- [English summary →](../../kannada/dnsbhat/14-nijakku-halegannada-vyakarana-entahadu/14-nijakku-halegannada-vyakarana-entahadu-en.md)
-- [Kannada text →](../../kannada/dnsbhat/14-nijakku-halegannada-vyakarana-entahadu/14-nijakku-halegannada-vyakarana-entahadu-kn.md)
+- [English summary →](../../kannada/dnsbhat/14-nijakkU-haLegannaDa-vyAkaraNa-entahadu/book/en/summary.md)
+- [Kannada text →](../../kannada/dnsbhat/14-nijakkU-haLegannaDa-vyAkaraNa-entahadu/book/kn/full.md)
 - [Author's website](http://dnshankarabhat.net/)
 - [Internet Archive source](https://archive.org/details/arn.nijakkuhaleganna0000dnsh)

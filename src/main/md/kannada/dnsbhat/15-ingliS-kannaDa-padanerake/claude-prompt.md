@@ -293,9 +293,9 @@ This dictionary embodies three convictions that should guide any Kannada word-co
 
 | Book | Relationship to Book 15 |
 |------|------------------------|
-| [03 — Kannada Padagala Olaracane](../03-kannada-padagala-olaracane/) | The theoretical manual — explains *why* the word-formation patterns in Book 15 work. Book 15 is the applied output of Book 03's principles. **Read first for methodology.** |
-| [25 — Kannada Vakyagala Olaracane](../25-kannada-vakyagala-olaracane/) | Sentence grammar — where the coined words get used. |
-| [27 — Baasheyaa Bagge](../27-baasheyaa-bagge/) | Language advocacy — the philosophical case for why native Kannada matters. |
+| [03 — Kannada Padagala Olaracane](../03-kannaDa-padagaLa-oLaracane/) | The theoretical manual — explains *why* the word-formation patterns in Book 15 work. Book 15 is the applied output of Book 03's principles. **Read first for methodology.** |
+| [25 — Kannada Vakyagala Olaracane](../25-kannaDa-vAkyagaLa-oLaracane/) | Sentence grammar — where the coined words get used. |
+| [27 — Baasheyaa Bagge](../27-bhASheya-bagge/) | Language advocacy — the philosophical case for why native Kannada matters. |
 | [28 — Kannadakke Beku](../28-kannaDakke-bEku/) | The case for Kannada in technical writing specifically. |
-| [29 — Kannada Vyakaranayaake Beku](../29-kannada-vyakaranayaake-beku/) | Bhat's reform grammar — grammatical norms for the Ellara Kannada style. |
+| [29 — Kannada Vyakaranayaake Beku](../29-kannaDa-vyAkaraNa-yAke-bEku/) | Bhat's reform grammar — grammatical norms for the Ellara Kannada style. |
 | [17 — Kannada Nudi Nadedu Banda Dari](../17-kannaDa-nuDi-naDeDu-banda-dAri/) | History of Kannada vocabulary — shows which borrowings stuck and why. |

@@ -602,7 +602,7 @@ The final section situates the book within the broader project of Dravidian ling
 
 | File | Contents |
 |------|----------|
-| [`nijakku-...-book.md`](./nijakkU-haLegannaDa-vyAkaraNa-entahadu-book) | Full Kannada book text (archive.org, 11,791 lines) |
+| [`nijakku-...-book.md`](../kn/raw) | Full Kannada book text (archive.org, 11,791 lines) |
 | [`14-...-kn.md`](../kn/full) | Structured Kannada with TOC and section anchors |
 | [`14-...-kn-eke.md`](../eke/full) | Eke romanisation |
 | [`14-...-djvu.md`](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-djvu) | DjVu OCR text (alternative source) |

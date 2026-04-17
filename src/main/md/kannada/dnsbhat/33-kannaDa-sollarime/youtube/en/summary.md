@@ -62,6 +62,6 @@ This YouTube lecture series presents DNS Bhat's Kannada grammar in 23 parts (P1,
 
 | Book | Connection |
 |------|-----------|
-| [07 — kannaDa barahada sollarime](../../07-kannaDa-barahada-sollarime/) | Related 7-volume grammar with same Dravidian framework; has OCR text for vols 1+2 |
-| [01 — idu kannaDaddE vyAkaraNa](../../01-idu-kannaDaddE-vyAkaraNa/) | 2021 single-volume consolidation of Book 07 — best source for the grammar framework |
-| [28 — kannaDakke bEku kannaDaddE vyAkaraNa](../../28-kannaDakke-bEku-kannaDaddE-vyAkaraNa/) | Earlier shorter grammar (2000/2013) — possible predecessor |
+| [07 — kannaDa barahada sollarime](../../../07-kannaDa-barahada-sollarime/) | Related 7-volume grammar with same Dravidian framework; has OCR text for vols 1+2 |
+| [01 — idu kannaDaddE vyAkaraNa](../../../01-idu-kannaDaddE-vyAkaraNa/) | 2021 single-volume consolidation of Book 07 — best source for the grammar framework |
+| [28 — kannaDakke bEku kannaDaddE vyAkaraNa](../../28-kannaDakke-bEku/) | Earlier shorter grammar (2000/2013) — possible predecessor |
