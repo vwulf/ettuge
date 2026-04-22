@@ -53,6 +53,18 @@ Personal notes distilled from years of reading, thinking, and bookmarking — ex
 
 ---
 
+## [Karate](karate/)
+
+An ongoing series on the practice of Matsubayashi-ryū karate and kobudō. The pieces are both reference-oriented — kata attribution, terminology, training structure — and reflective. Practice at Karate Sunnyvale since 2008, in the lineage of Shōshin Nagamine through Hanshi Stephen Trombley.
+
+- **[The 18 kata of Matsubayashi-ryū](karate/10-the-18-kata)** — attribution table: creator, date, and transmission for each of the 18 kata
+- **[Shuri-te and Tomari-te in Matsubayashi](karate/11-shuri-te-and-tomari-te)** — the two streams Nagamine chose to preserve, and why
+- **[Technical vocabulary — a reference](karate/31-terminology)** — stances, strikes, kicks, blocks, principles, and organizational terms with kanji
+- **[The three aspects of a stance](karate/32-the-three-aspects-of-a-stance)** — Nagamine's framework: endurance, stability, mobility, and the Matsubayashi resolution
+- **[Dentō bunkai and ōyō bunkai](karate/34-dento-and-oyo-bunkai)** — formal versus applied kata analysis; Arakaki Hanshi on what senior practice requires
+
+---
+
 ## [Books](Books/Books)
 
 A [curated catalog](Books/Books) of books that have genuinely changed how the author thinks, organised by author with inline summaries and individual analyses.

@@ -79,6 +79,12 @@ jobs:
             cp "$f" "$dest"
           done
 
+      - name: Copy Karate articles into docs/karate/
+        run: |
+          rm -rf docs/karate || true
+          mkdir -p docs/karate
+          cp src/main/md/karate/*.md docs/karate/
+
       - name: Split book chapters into paginated pages
         run: |
           python3 - <<'PYEOF'
