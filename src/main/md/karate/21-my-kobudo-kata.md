@@ -72,7 +72,7 @@ The kama is practiced in a pair, one in each hand. It is the most demanding weap
 
 | Kata | Notes |
 |------|-------|
-| **Tsuken Sunakake no Kon Eku** | From Tsuken island. *Sunakake* (砂掛け) means "sand throwing" — the feint of throwing sand into an opponent's eyes before the weapon strike. Transmitted through Jordan Du Val's 2023 Okinawa trip with Miyagi Sensei. |
+| **Tsuken Sunakake no Kon Eku** | From Tsuken island. *Sunakake* (砂掛け) means "sand throwing" — the feint of throwing sand into an opponent's eyes before the weapon strike. Transmitted through Jordan Du Val's 2023 Okinawa trip with Miyagi Sensei; no reference film of that version online. A closely related version exists in Ryukyu Kobudo (Taira lineage), demonstrated by Akamine Sensei, which gives a sense of the kata's shape and rhythm. |
 
 The eku is not part of the canonical five-weapon list but is trained in our branch as a direct result of the 2023 Okinawa trip. It is the most distinctly Okinawan of the weapons — the repurposed tool of a fishing people, an oar adapted to combat in the same practical spirit that runs through much of kobudō. The Tsuken Sunakake kata is named for both its island of origin and its signature technique.
 
@@ -91,3 +91,4 @@ For several of these kata, specific film records serve as the lineage standard i
 | Tonfa no Kata | — | Takayoshi Nagamine, 2nd Sōke |
 | Kishaba no Kama | — | Chōkei Kishaba |
 | Nunchaku Shō | — | Chōkei Kishaba |
+| Tsuken Sunakake no Kon Eku | Ryukyu Kobudo version (sister tradition) | Akamine Sensei |
