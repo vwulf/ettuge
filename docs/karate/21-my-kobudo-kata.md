@@ -31,7 +31,7 @@ The bō is the weapon I have practiced longest and have the deepest relationship
 
 | Kata | Notes |
 |------|-------|
-| **Sai Dai Ichi** — Chomō Hanagusuku no Sai | Named for Hanagusuku Chomō, the old Okinawan sai master from whom the kata descends. Reference: Takayoshi Nagamine, 2nd Sōke. |
+| **Sai Dai Ichi** — Chomō Hanagusuku no Sai | Named for Hanagusuku Chomō, the old Okinawan sai master from whom the kata descends. Reference: dedicated Matsubayashi-ryū Sai Dai Ichi demonstration. |
 | **Sai Dai Ni** — Kyan no Sai | Named for Shinei Kyan, who transmitted this kata into the Matsubayashi curriculum. References: Shinei Kyan himself, and Takayoshi Nagamine, 2nd Sōke. |
 
 The sai (釵) is a three-pronged iron weapon — not a sword, despite appearances — used historically by Okinawan police for trapping and controlling rather than cutting. The two kata represent the two principal sai transmissions in Matsubayashi.
@@ -42,7 +42,7 @@ The sai (釵) is a three-pronged iron weapon — not a sword, despite appearance
 
 | Kata | Notes |
 |------|-------|
-| **Nunchaku Shō** | The first nunchaku form. Reference: the 1984 Matsubayashi Karate (Kama, Kusanku, Nunchaku) footage. |
+| **Nunchaku Shō** | The first nunchaku form. Reference: Chōkei Kishaba. |
 
 The nunchaku curriculum in our branch is Nunchaku Shō only; Maezato no Shō is part of the canonical list but not what I have trained.
 
@@ -52,7 +52,7 @@ The nunchaku curriculum in our branch is Nunchaku Shō only; Maezato no Shō is 
 
 | Kata | Notes |
 |------|-------|
-| **Tonfa no Kata** | Reference: Takayoshi Nagamine, 2nd Sōke (same footage as Sai Dai Ichi). |
+| **Tonfa no Kata** | Reference: Takayoshi Nagamine, 2nd Sōke. |
 
 The tonfa is a wooden handle-grip weapon, probably originating as the handle of a millstone. Its characteristic motion is the rotating block-and-strike combination that exploits the handle's pivot point.
 
@@ -62,7 +62,7 @@ The tonfa is a wooden handle-grip weapon, probably originating as the handle of 
 
 | Kata | Notes |
 |------|-------|
-| **Kishaba no Kama** | Named for Chōkei Kishaba, an early member of the Honbu dōjō. Transmitted in our branch through Steve Gombosi. Reference: the 1984 Matsubayashi Karate (Kama, Kusanku, Nunchaku) footage. |
+| **Kishaba no Kama** | Named for Chōkei Kishaba, an early member of the Honbu dōjō. Transmitted in our branch through Steve Gombosi. Reference: Chōkei Kishaba himself. |
 
 The kama is practiced in a pair, one in each hand. It is the most demanding weapon in this list from a coordination standpoint — managing two edged implements with different rhythms in each hand, while the kata requires sharp, committed cuts and precise control of the blades near the body.
 
@@ -86,7 +86,8 @@ For several of these kata, specific film records serve as the lineage standard i
 |------|----------------|--------------|
 | Shiromatsu no Kon | — | Arakaki Toshimitsu Hanshi |
 | Shiratarō no Kon | — | Shinei Kyan |
-| Sai Dai Ichi (Chomō Hanagusuku no Sai) | — | Takayoshi Nagamine, 2nd Sōke |
+| Sai Dai Ichi (Chomō Hanagusuku no Sai) | — | — |
 | Sai Dai Ni (Kyan no Sai) | — | Shinei Kyan; Takayoshi Nagamine, 2nd Sōke |
 | Tonfa no Kata | — | Takayoshi Nagamine, 2nd Sōke |
-| Kishaba no Kama + Nunchaku Shō | — | — |
+| Kishaba no Kama | — | Chōkei Kishaba |
+| Nunchaku Shō | — | Chōkei Kishaba |
