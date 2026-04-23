@@ -44,7 +44,7 @@ The sai (釵) is a three-pronged iron weapon — not a sword, despite appearance
 
 | Kata | Notes |
 |------|-------|
-| **Nunchaku Shō** | The first nunchaku form. Reference: Chōkei Kishaba. |
+| **Nunchaku Shō** | The first nunchaku form. Reference: Shinjo Sensei. |
 
 The nunchaku curriculum in our branch is Nunchaku Shō only; Maezato no Shō is part of the canonical list but not what I have trained.
 
@@ -94,5 +94,5 @@ For several of these kata, specific film records serve as the lineage standard i
 | Kishaba no Sai | 1980 Matsubayashi demonstration | — |
 | Tonfa no Kata | — | Takayoshi Nagamine, 2nd Sōke |
 | Kishaba no Kama | — | Chōkei Kishaba |
-| Nunchaku Shō | — | Chōkei Kishaba |
+| Nunchaku Shō | — | Shinjo Sensei |
 | Tsuken Sunakake no Kon Eku | Ryukyu Kobudo version (sister tradition) | Akamine Sensei |
