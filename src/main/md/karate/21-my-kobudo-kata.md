@@ -86,13 +86,13 @@ For several of these kata, specific film records serve as the lineage standard i
 
 | Kata | Reference video | Demonstrator |
 |------|----------------|--------------|
-| Shiromatsu no Kon | Earlier recording; 2020 Bujin TV version | Arakaki Toshimitsu Hanshi |
-| Shiratarō no Kon | — | Shinei Kyan |
-| Sai Dai Ichi (Chomō Hanagusuku no Sai) | — | — |
-| Sai Dai Ni | — | Shinjo Sensei, Nagamine Honbu dōjō |
-| Kyan no Sai | — | Shinei Kyan; Takayoshi Nagamine, 2nd Sōke |
-| Kishaba no Sai | 1980 Matsubayashi demonstration | — |
-| Tonfa no Kata | — | Takayoshi Nagamine, 2nd Sōke |
-| Kishaba no Kama | — | Chōkei Kishaba |
-| Nunchaku Shō | — | Shinjo Sensei |
-| Tsuken Sunakake no Kon Eku | Ryukyu Kobudo version (sister tradition) | Akamine Sensei |
+| Shiromatsu no Kon | [Earlier](https://www.youtube.com/watch?v=cRvDL6CmWrQ) · [2020 Bujin TV](https://www.youtube.com/watch?v=dwnmMogY67M) | Arakaki Toshimitsu Hanshi |
+| Shiratarō no Kon | [YouTube](https://www.youtube.com/watch?v=MOW1nbPwo58) | Shinei Kyan |
+| Sai Dai Ichi (Chomō Hanagusuku no Sai) | [YouTube](https://www.youtube.com/watch?v=0HibCT-a_Jw) | — |
+| Sai Dai Ni | [YouTube](https://www.youtube.com/shorts/Q0qy5W_hJwA) | Shinjo Sensei, Nagamine Honbu dōjō |
+| Kyan no Sai | [Kyan](https://www.youtube.com/watch?v=WJVadQTfy5c) · [Takayoshi Nagamine](https://www.youtube.com/watch?v=paAIioWFHBo) | Shinei Kyan; Takayoshi Nagamine, 2nd Sōke |
+| Kishaba no Sai | [1980 demo](https://www.youtube.com/watch?v=qoDKTSG-TOc) | — |
+| Tonfa no Kata | [YouTube](https://www.youtube.com/watch?v=CRZ6iafnx-o) | Takayoshi Nagamine, 2nd Sōke |
+| Kishaba no Kama | [YouTube](https://www.youtube.com/watch?v=EBTgcAEdXdg) | Chōkei Kishaba |
+| Nunchaku Shō | [YouTube](https://www.youtube.com/watch?v=EBTgcAEdXdg) | Shinjo Sensei |
+| Tsuken Sunakake no Kon Eku | [Ryukyu Kobudo version](https://www.youtube.com/watch?v=8MoAV_7Hu50) (sister tradition) | Akamine Sensei |
