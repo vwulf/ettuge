@@ -23,8 +23,8 @@ I practice at Karate Sunnyvale under Sensei Jordan Du Val, with Sensei Stephen T
 
 ## Part 3 — Kobudō
 
-- Matsubayashi kobudō as a distinct tradition *(forthcoming)*
-- My kobudō kata and their sources *(forthcoming)*
+- [Matsubayashi kobudō — a distinct tradition](20-matsubayashi-kobudo)
+- [My kobudō kata](21-my-kobudo-kata)
 
 ## Part 4 — Training life
 
