@@ -28,7 +28,7 @@ I practice at Karate Sunnyvale under Sensei Jordan Du Val, with Sensei Stephen T
 
 ## Part 4 — Training life
 
-- The structure of a class *(forthcoming)*
+- [The structure of a class](30-class-structure)
 - [The three aspects of a stance](32-the-three-aspects-of-a-stance)
 - [Technical vocabulary — a reference](31-terminology)
 - The six precepts for training *(forthcoming)*
