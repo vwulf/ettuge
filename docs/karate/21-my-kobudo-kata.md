@@ -6,7 +6,7 @@ nav_order: 21
 
 # My kobudō kata
 
-Eleven kata across six weapons, accumulated over more than fifteen years of practice in the Matsubayashi-ryū weapons tradition. The base transmission runs through Chōtoku Omine to Phil Kromka to Jordan Du Val; additional kata and refinements have come through Hanshi Arakaki, Ōshiro Toshihiro (Yamanni-ryū seminars), Steve Gombosi, and most recently from Jordan's 2023 Okinawa trip with Miyagi Sensei.
+Twelve kata across six weapons, accumulated over more than fifteen years of practice in the Matsubayashi-ryū weapons tradition. The base transmission runs through Chōtoku Omine to Phil Kromka to Jordan Du Val; additional kata and refinements have come through Hanshi Arakaki, Ōshiro Toshihiro (Yamanni-ryū seminars), Steve Gombosi, and most recently from Jordan's 2023 Okinawa trip with Miyagi Sensei.
 
 The underlying lineage is described separately in the [overview of the Matsubayashi kobudō tradition](20-matsubayashi-kobudo). This piece is the list itself, with enough context to situate each kata.
 
@@ -34,8 +34,9 @@ The bō is the weapon I have practiced longest and have the deepest relationship
 | **Sai Dai Ichi** — Chomō Hanagusuku no Sai | Named for Hanagusuku Chomō, the old Okinawan sai master from whom the kata descends. Reference: dedicated Matsubayashi-ryū Sai Dai Ichi demonstration. |
 | **Sai Dai Ni** | The second sai form. Reference: Shinjo Sensei in Nagamine's dōjō. |
 | **Kyan no Sai** | Named for Shinei Kyan. References: Shinei Kyan himself, and Takayoshi Nagamine, 2nd Sōke. |
+| **Kishaba no Sai** | Named for Chōkei Kishaba. Reference: 1980 Matsubayashi demonstration. |
 
-The sai (釵) is a three-pronged iron weapon — not a sword, despite appearances — used historically by Okinawan police for trapping and controlling rather than cutting. The three kata span the principal sai transmissions in Matsubayashi.
+The sai (釵) is a three-pronged iron weapon — not a sword, despite appearances — used historically by Okinawan police for trapping and controlling rather than cutting. The four kata span the principal sai transmissions in Matsubayashi.
 
 ---
 
@@ -90,6 +91,7 @@ For several of these kata, specific film records serve as the lineage standard i
 | Sai Dai Ichi (Chomō Hanagusuku no Sai) | — | — |
 | Sai Dai Ni | — | Shinjo Sensei, Nagamine Honbu dōjō |
 | Kyan no Sai | — | Shinei Kyan; Takayoshi Nagamine, 2nd Sōke |
+| Kishaba no Sai | 1980 Matsubayashi demonstration | — |
 | Tonfa no Kata | — | Takayoshi Nagamine, 2nd Sōke |
 | Kishaba no Kama | — | Chōkei Kishaba |
 | Nunchaku Shō | — | Chōkei Kishaba |
