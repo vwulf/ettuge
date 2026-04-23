@@ -18,7 +18,7 @@ Four of the five canonical bō kata. Sakugawa no Kon remains unpractised in my t
 
 | Kata | Notes |
 |------|-------|
-| **Shiromatsu no Kon** | One of the two foundational bō pieces. Bunkai refinements from Arakaki Hanshi, who has taught this kata's applications extensively in seminars. |
+| **Shiromatsu no Kon** | One of the two foundational bō pieces. Bunkai refinements from Arakaki Hanshi, who has taught this kata's applications extensively in seminars. Two reference demonstrations exist: an earlier recording and a 2020 Bujin TV version, both by Arakaki Sensei. |
 | **Shiratarō no Kon** 白樽の棍 | Yamanni-ryū derived. The reference demonstration is Shinei Kyan himself — the primary source figure of the Matsubayashi weapons tradition — performing it on film. A second variant, shown by Arakaki Hanshi during seminar, is also practiced; no reference film for that version. |
 | **Shūshi no Kon** | A core Shuri-te bō kata with Arakaki refinements. |
 | **Chōun no Kon** | Part of the Omine transmission. |
@@ -84,7 +84,7 @@ For several of these kata, specific film records serve as the lineage standard i
 
 | Kata | Reference video | Demonstrator |
 |------|----------------|--------------|
-| Shiromatsu no Kon | — | Arakaki Toshimitsu Hanshi |
+| Shiromatsu no Kon | Earlier recording; 2020 Bujin TV version | Arakaki Toshimitsu Hanshi |
 | Shiratarō no Kon | — | Shinei Kyan |
 | Sai Dai Ichi (Chomō Hanagusuku no Sai) | — | — |
 | Sai Dai Ni (Kyan no Sai) | — | Shinei Kyan; Takayoshi Nagamine, 2nd Sōke |
