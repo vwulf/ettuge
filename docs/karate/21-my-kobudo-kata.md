@@ -32,7 +32,7 @@ The bō is the weapon I have practiced longest and have the deepest relationship
 | Kata | Notes |
 |------|-------|
 | **Sai Dai Ichi** — Chomō Hanagusuku no Sai | Named for Hanagusuku Chomō, the old Okinawan sai master from whom the kata descends. Reference: Takayoshi Nagamine, 2nd Sōke. |
-| **Sai Dai Ni** — Kyan no Sai | Named for Shinei Kyan, who transmitted this kata into the Matsubayashi curriculum. Reference: Shinjo Sensei in Nagamine's dōjō. |
+| **Sai Dai Ni** — Kyan no Sai | Named for Shinei Kyan, who transmitted this kata into the Matsubayashi curriculum. Reference: Takayoshi Nagamine, 2nd Sōke. |
 
 The sai (釵) is a three-pronged iron weapon — not a sword, despite appearances — used historically by Okinawan police for trapping and controlling rather than cutting. The two kata represent the two principal sai transmissions in Matsubayashi.
 
@@ -87,6 +87,6 @@ For several of these kata, specific film records serve as the lineage standard i
 | Shiromatsu no Kon | — | Arakaki Toshimitsu Hanshi |
 | Shiratarō no Kon | — | Shinei Kyan |
 | Sai Dai Ichi (Chomō Hanagusuku no Sai) | — | Takayoshi Nagamine, 2nd Sōke |
-| Sai Dai Ni (Kyan no Sai) | — | Shinjo Sensei, Nagamine Honbu dōjō |
+| Sai Dai Ni (Kyan no Sai) | — | Takayoshi Nagamine, 2nd Sōke |
 | Tonfa no Kata | — | Takayoshi Nagamine, 2nd Sōke |
 | Kishaba no Kama + Nunchaku Shō | — | — |
