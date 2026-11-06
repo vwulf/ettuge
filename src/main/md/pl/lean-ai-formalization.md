@@ -1,6 +1,6 @@
 # Lean, Foundations, and the AI Formalization of Mathematics
 
-*Started Nov 1, 2026 · last updated Nov 5, 2026 · Vishwas*
+*Started Nov 1, 2026 · last updated Nov 6, 2026 · Vishwas*
 
 ## Summary
 
@@ -15,6 +15,7 @@ Lean 4 is the de facto platform for AI-assisted formalization of mathematics, an
 - **Algorithms lag mathematics:** CSLib (2026) is young; imperative algorithms are further along in F\*, Isabelle and Rocq, and amortized purely functional structures (Okasaki) are unformalized in Lean.
 - **Trust in the kernel:** summer 2026 kernel bugs led Lean to ship independent and formally verified checkers (Oct 2026); statement fidelity remains the human step.
 - **Nov 2026:** a just-published deterministic n^O(log n) graph isomorphism result arrived with a Lean proof of both correctness and running time, built on Axiom's CFSG.
+- **Nov 6, 2026:** PSI announced an AI-produced proof of the Aaronson–Ambainis conjecture (open since 2008) with a compact, Comparator-checked Lean formalization.
 
 ## 1. Lean's foundational basis
 
@@ -382,11 +383,40 @@ On Nov 5, 2026, Mahdi JafariRaviz published [a Lean formalization](https://githu
 
 If experts confirm the \~440-line statement, this would be the first major complexity-theory result to arrive formally verified together with its running time.
 
-## 13. Lean as a programming language
+## 13. Case study: the Aaronson–Ambainis conjecture
+
+On Nov 6, 2026, PSI (Physical Superintelligence) [announced a proof](https://psi.inc/research/aaronson-ambainis/) of the Aaronson–Ambainis conjecture, open since 2008, with a [complete Lean formalization](https://github.com/physical-superintelligence/aaronson-ambainis). It is the opposite of section 12 in shape: small, mathlib-only, and checked end to end, which makes it about as auditable as an AI-produced proof currently gets.
+
+**The conjecture.** Every polynomial of degree d on the Boolean cube with values in \[0, 1\] and variance at least ε has a variable whose influence (the average change in output from flipping that bit) is at least (ε/d)^O(1). Consequence: quantum query algorithms can be simulated classically with polynomial overhead on almost all inputs, so exponential quantum speedups require structured inputs. Previous general bounds decayed exponentially in d; only special cases were known, most recently Blanc, Docter, Strassle and Tan (Stanford, Aug 2026) for fixed-round parallel algorithms.
+
+**The result.** Inf\_i ≥ (8√15 / 125π⁴)·ε^{5/2}/d⁶ ≥ (ε/d)⁷. The proof completes a plan of Lovett and Zhang by proving the inequality they left open, using a determinant-based pairing that strengthens Reimer's butterfly lemma.
+
+**How it was made.** PSI's internal research system, running a non-public Anthropic model, had a Lean-accepted proof on day 3, then improved the bound twice. The AI drafted the paper and the formalization; David Turturean reviewed the paper and takes responsibility for it, and Jim Halverson audited the proof. The Stanford group is reading it, calls it "a huge result", and is writing a shorter exposition.
+
+**Verification** (repo cloned Nov 6, 2026):
+
+|  | Aaronson–Ambainis | Graph isomorphism (section 12) |
+| --- | --- | --- |
+| Size | \~9.4K lines, 95 files | \~457K lines |
+| Dependencies | mathlib only | mathlib, Axiom CFSG, Tau Ceti; \~18 GB RAM |
+| Trusted statement | `PrintedConjecture`, \~25 lines, in a file importing only mathlib | \~440 lines including a machine model |
+| `sorry` / axioms | None; standard axioms only | None; standard axioms only |
+| Comparator | Run in its sandbox, with negative controls (rejects four deliberately wrong solutions) | Not yet run |
+| Independent kernels | `leanchecker` replay (also from an empty environment), nanoda, lean4lean | Not reported |
+
+**Caveats**
+
+- Toolchain is Lean v4.33.0, which predates the kernel fixes in v4.33.1 (section 11). The nanoda and lean4lean rechecks largely cover this; a rebuild on a fixed version or a con-leche check would close it.
+- One of the four public theorems assumes an unformalized result of Agarwal and Ben-David, but it only improves the constant 4×; the main theorem is unconditional.
+- The paper is unrefereed, the model is non-public, and expert reading is ongoing.
+
+**The two shapes of AI formalization.** Section 12 is huge, rests on a 43M-line dependency, and has a larger statement to audit. This one is small, mathlib-only, with a short statement checked by Comparator and several kernels. The second shape is what makes "AI proved a famous conjecture" credible within days.
+
+## 14. Lean as a programming language
 
 Lean the prover is now very trustworthy; Lean the programming language is mostly ordinary, unverified code with an unusually well-specified standard library. Figures below come from cloning [leanprover/lean4](https://github.com/leanprover/lean4) and mathlib on Nov 5, 2026.
 
-### 13.1 How much of Lean itself is verified
+### 14.1 How much of Lean itself is verified
 
 | Part | Size | Theorems vs. definitions | Verified? |
 | --- | --- | --- | --- |
@@ -400,7 +430,7 @@ Lean the prover is now very trustworthy; Lean the programming language is mostly
 - The library gap: \~790 functions are swapped at runtime for C or faster code via `@[extern]` or `implemented_by`. Proofs are about the reference definition; nothing checks the substitute agrees.
 - Lean programs in the wild are almost entirely unverified; a few verification projects exist (AWS Cedar, SampCert).
 
-### 13.2 Pure vs. mutation style
+### 14.2 Pure vs. mutation style
 
 | Codebase | Lines | Theorems | Defs | `let mut` | `for` loops | `do` per 1K lines |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -414,7 +444,7 @@ At least 95% of Lean code is proof-style pure code; mutation style is concentrat
 - Mutation style is pure: `let mut`, `for`, `while` and early `return` are `do`-notation sugar over `StateT`, `ForIn` and early-exit monads. Only `IO.Ref` and `ST.Ref` are real references.
 - Pure code mutates at runtime: reference counting lets an unshared `Array` be updated in place ("functional but in place"), which is why idiomatic Lean prefers `Array` to `List` and why Okasaki-style persistent sharing goes against the grain (section 10.3).
 
-### 13.3 Tail calls
+### 14.3 Tail calls
 
 Tail call optimization is essential because loops are tail recursion underneath: `for` and `while` desugar into self-recursive `forIn` loops.
 
@@ -423,7 +453,7 @@ Tail call optimization is essential because loops are tail recursion underneath:
 - **Verified stack-safe rewrites:** natural non-tail-recursive definitions stay as the specification, and \~100 `@[csimp]` lemmas (e.g. `foldr_eq_foldrTR`, `mergeSort_eq_mergeSortTR`) prove a tail-recursive version equal, which the compiler then substitutes. Unlike `@[extern]` swaps, these are proven.
 - **Not applicable in the kernel:** proofs that compute (`decide`, `rfl`) are reduced by the kernel, which has its own recursion limits; `native_decide` trades this for trusting the compiler.
 
-## 14. Lean in the wild
+## 15. Lean in the wild
 
 Lean is still niche by repository count, but in the past year it reached the same band as Haskell, Scala and Elixir for new projects, and it now dominates proof assistants. Counts are from GitHub's search API on Nov 5, 2026.
 
@@ -526,3 +556,7 @@ Sections 1–3 (foundations, HoTT, Rocq) draw on general knowledge of the system
 - [AxiomMath/CFSG repository](https://github.com/AxiomMath/CFSG)
 - [leanprover/lean4 repository](https://github.com/leanprover/lean4)
 - [mathlib4 repository](https://github.com/leanprover-community/mathlib4)
+- [PSI: proof of the Aaronson–Ambainis conjecture](https://psi.inc/research/aaronson-ambainis/)
+- [physical-superintelligence/aaronson-ambainis repository](https://github.com/physical-superintelligence/aaronson-ambainis)
+- [Aaronson & Ambainis, The need for structure in quantum speedups (arXiv 0911.0996)](https://arxiv.org/abs/0911.0996v3)
+- [Agarwal & Ben-David (arXiv 2410.19062)](https://arxiv.org/abs/2410.19062)
