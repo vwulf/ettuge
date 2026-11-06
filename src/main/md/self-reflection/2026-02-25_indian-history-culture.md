@@ -639,7 +639,7 @@ academia.edu — <https://www.academia.edu/19550772/Fish_symbolism_in_Indus_Vall
 
 **IVC Logosyllabary Discussion (Reddit/IndoEuropean, Mar 2025)**
 A Reddit discussion thread on the logosyllabic nature of the Indus Valley script — covering the statistical evidence (sign frequency distributions consistent with a mixed system), comparisons with known logosyllabaries (Sumerian, Linear B, Mayan), and the challenges of deciphering a script without a bilingual key.
-reddit.com — <https://www.reddit.com/r/IndoEuropean/>
+*Original link not recoverable — the source could not be identified.*
 
 
 ---
@@ -736,8 +736,8 @@ epigraphy.dh.uni-halle.de — <https://epigraphy.dh.uni-halle.de/>
 ---
 
 **Number of Inscriptions: Tamil vs Kannada (tweet)**
-A tweet presenting comparative data on the count of historical inscriptions in Tamil and Kannada — both among the most epigraphically rich languages of any pre-modern civilization — and what the relative counts tell us about the geographic and temporal distribution of literacy, royal patronage, and administrative culture in the two language zones.
-x.com — <https://x.com/>
+A thread by Shrikaanth K Murthy (@ShrikaanthK) claiming that roughly 85,000 of the approximately 100,000 inscriptions found in India are in Tamil and Kannada, written in their own scripts over about two millennia. He uses this, along with the spread of Kadamba-Pallava-derived scripts into Southeast Asia and the South Indian use of Grantha and Nandinagari for Sanskrit, to argue against promoting Devanagari and for Kannada script as a pan-Indian alternative. The counts are the author's own and the thread cites no source for them.
+x.com — <https://x.com/ShrikaanthK/status/1445076093866741769>
 
 
 ---
@@ -1019,9 +1019,8 @@ communities.springernature.com — <https://communities.springernature.com/posts
 A Springer Nature community post summarizing a landmark Nature study on Indo-European language origins, presenting genetic and archaeological evidence for the Yamnaya-steppe origin thesis combined with the Anatolian farmer contribution — synthesizing previously competing hypotheses. **[→ indian-history-culture; linguistics → kannada-language-linguistics]**
 
 **Marija Gimbutas — Wikipedia**
-en.wikipedia.org
-
-The Wikipedia article on Marija Gimbutas (1921–1994), the Lithuanian-American archaeologist who proposed the Kurgan hypothesis for Proto-Indo-European homeland on the Pontic steppe, and who studied pre-Indo-European "Old European" cultures. **[→ indian-history-culture]**
+The Wikipedia article on Marija Gimbutas (1921–1994), the Lithuanian-American archaeologist at UCLA who proposed the Kurgan hypothesis, placing the Proto-Indo-European homeland on the Pontic steppe. She also studied the Neolithic and Bronze Age cultures she called "Old Europe", and wrote *The Language of the Goddess* and *The Civilization of the Goddess*. **[→ indian-history-culture]**
+en.wikipedia.org — <https://en.wikipedia.org/wiki/Marija_Gimbutas>
 
 **Pig ancestors, 5,000 years ago — Indus Valley era farmers domesticated wild boars**
 telegraphindia.com — <https://www.telegraphindia.com/science-tech/pig-ancestors-5000-years-ago-study-reveals-indus-valley-era-farmers-domesticated-wild-boars-prnt/cid/2086631>
@@ -1044,9 +1043,8 @@ theconversation.com — <https://theconversation.com/how-was-the-wheel-invented-
 A The Conversation article using computational simulations to model how the wheel may have been invented approximately 6,000 years ago — revealing that the key innovation was the axle, not the wheel itself, and that the combination was not intuitive. **[→ indian-history-culture; technology history → mathematics-science]**
 
 **New Findings Suggest Greek Alphabet Is Older Than Previously Thought**
-greekreporter.com
-
-Research pushing back the date of the earliest known Greek alphabetic writing, with implications for the timeline of literacy and writing system diffusion from Phoenicia to Greece. **[→ indian-history-culture; writing systems → kannada-language-linguistics]**
+A Greek Reporter article by Tasos Kokkinidis on Leiden University associate professor Willemijn Waal's work, which questions the usual eighth-century BC date for the Greek alphabet. It reports that carbon dating places some of the earliest Greek inscriptions on pottery in the ninth or possibly tenth century BC, and argues that earlier writing on perishable materials probably did not survive. The article says this challenges the idea of a Greek "Dark Age" without writing and the purely oral transmission of Homer, and presents the research as upcoming and preliminary. **[→ indian-history-culture; writing systems → kannada-language-linguistics]**
+greekreporter.com — <https://greekreporter.com/2025/05/03/greek-alphabet-century-older/>
 
 **Why did the peoples of the New World fail to invent the wheel?**
 straightdope.com — <https://www.straightdope.com/21341399/why-did-the-peoples-of-the-new-world-fail-to-invent-the-wheel>

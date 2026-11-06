@@ -63,12 +63,9 @@ www.mdpi.com
 
 A systematic literature review in MDPI Electronics surveying AI approaches to production scheduling in industry. Finds that particle swarm optimisation, neural networks, and reinforcement learning dominate the literature, with documented results showing cost reduction, energy savings, and throughput improvements in real factory settings. **[→ data-engineering; machine-learning-ai; algorithms-data-structures]**
 
-**Graph neural networks for exact solving scheduling problems (local PDF reference)**
-file:///Users/vishwas/Downloads/2022Exactsolvingschedulingproblemsacceleratedbygraphneuralnetworks_RG.pdf
-
-A 2022 research paper on using GNNs to accelerate exact branch-and-bound solvers for scheduling problems. The GNN learns branching heuristics from problem structure, dramatically reducing the search space while preserving optimality guarantees — a hybrid of ML and classical OR. **[→ algorithms-data-structures; machine-learning-ai]**
-
-<a id="ch3"></a>
+**Exact solving scheduling problems accelerated by graph neural networks (MIPRO 2022)**
+A 2022 MIPRO paper (Juros, Brcic, Koncic, Kovac) that improves exact scheduling solvers, which rely on hand-tuned heuristics, by adding machine learning. A graph convolutional network learns the branching decisions of a branch-and-bound solver, so the solver keeps exactness while trying to search faster. The approach is evaluated on job-shop scheduling and on a real retail delivery-scheduling problem, with promising results and a discussion of the limits on accelerating NP-hard solving: a hybrid of ML and classical OR. **[→ algorithms-data-structures; machine-learning-ai]**
+www.bib.irb.hr:8443 — <https://www.bib.irb.hr:8443/1207082>
 ## Spark / Big Data
 
 **Apache Spark (general reference)**

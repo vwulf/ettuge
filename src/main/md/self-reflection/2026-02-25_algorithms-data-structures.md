@@ -352,11 +352,9 @@ ethankent.dev — <https://ethankent.dev/posts/breaking_fold/>
 
 Expands on the core insight that fold is inherently total (must process all elements) and surveys techniques for encoding early termination: returning `Either`/`Option` in the accumulator, using `foldRight` laziness, or switching to `find`/`takeWhile`. **[→ algorithms-data-structures; scala-functional-programming]**
 
-**Graph Neural Networks for Exact Scheduling (2022 Paper)**
-Research using GNNs to accelerate exact solving of scheduling problems in industrial settings.
-arxiv.org — file:///Users/vishwas/Downloads/2022Exactsolvingschedulingproblemsacceleratedbygraphneuralnetworks_RG.pdf
-
-A 2022 research paper proposing the use of Graph Neural Networks to accelerate branch-and-bound solvers for NP-hard scheduling problems, achieving significant speedups by learning good branching heuristics from problem structure. **[→ algorithms-data-structures; machine-learning-ai; data-engineering]**
+**Exact Solving Scheduling Problems Accelerated by Graph Neural Networks (MIPRO 2022)**
+A 2022 MIPRO conference paper by Jana Juros, Mario Brcic, Mihael Koncic and Mihael Kovac on speeding up exact solvers for scheduling problems. The authors adapt a graph convolutional neural network, previously used to learn branching decisions in a general branch-and-bound solver, and test the augmented solver on job-shop scheduling and on delivery scheduling for a local retailer's supply chain. They report promising results and discuss how far NP-hard solving can realistically be accelerated with ML. **[→ algorithms-data-structures; machine-learning-ai; data-engineering]**
+www.bib.irb.hr:8443 — <https://www.bib.irb.hr:8443/1207082>
 
 **AI for Production Scheduling — Systematic Literature Review**
 Survey of AI techniques (PSO, neural nets, RL) for production scheduling; real industrial results.
@@ -418,23 +416,17 @@ quantamagazine.org — <https://www.quantamagazine.org/monumental-proof-settles-
 
 A 30-year effort by a team of mathematicians culminating in the proof of the geometric Langlands conjecture — a vast generalisation connecting algebraic geometry (D-modules on moduli spaces) and representation theory (automorphic forms), forming the geometric analogue of the Langlands program. **[→ mathematics-science]**
 
-**Scientists Find a Fast Way to Describe Quantum Systems — Quanta**
-New algorithm enabling efficient classical description of quantum system states, bypassing exponential blowup.
-quantamagazine.org — <https://www.quantamagazine.org/...>
+**Scientists Find a Fast Way to Describe Quantum Systems — Quanta (May 2024)**
+A Quanta article (Lakshmi Chandrasekaran, May 2024) on an algorithm by Ainesh Bakshi, Allen Liu, Ankur Moitra and Ewin Tang (MIT and UC Berkeley) that efficiently learns the Hamiltonian of a quantum system at any constant temperature. Earlier methods were either sample-efficient but slow, or fast but limited to high temperatures. The new approach recasts the problem as polynomial equations and uses a relaxation technique from approximation algorithms, though it still needs more time and samples as the temperature drops. **[→ mathematics-science; machine-learning-ai]**
+quantamagazine.org — <https://www.quantamagazine.org/scientists-find-a-fast-way-to-describe-quantum-systems-20240501/>
 
-A Quanta article on a new algorithm allowing efficient classical description of certain quantum system states — avoiding the exponential state-space blowup that makes quantum simulation hard. Relevant to quantum simulation and quantum advantage questions. **[→ mathematics-science; machine-learning-ai]**
-
-**OpenClaw Workflows — AI Agent Orchestration (Feb 2026)**
-Framework for orchestrating multi-step AI agent workflows with dependency management and parallelism.
-github.com — <https://github.com/...>
-
-OpenClaw is a framework for building multi-step AI agent workflows with dependency graphs, parallel execution, and state management — relevant to building production agentic systems on top of Claude or similar models. **[→ machine-learning-ai; infrastructure-devops]**
+**OpenClaw — Open-Source Personal AI Agent (Feb 2026)**
+OpenClaw is a free, open-source (MIT) personal AI agent by Austrian developer Peter Steinberger, written mainly in TypeScript. It runs locally, connects to external LLMs such as Claude, GPT or DeepSeek, and is driven through chat apps like WhatsApp, Telegram, Signal and Discord, keeping its configuration and history on the user's machine. It launched as Clawdbot in November 2025, became Moltbot and then OpenClaw in late January 2026, and quickly became one of GitHub's most-starred projects. **[→ machine-learning-ai; infrastructure-devops]**
+github.com — <https://github.com/openclaw/openclaw>
 
 **Intelligent AI Delegation — Arxiv (Feb 2026)**
-Research on automatic delegation strategies in multi-agent AI systems: when and how to hand off tasks.
-arxiv.org — <https://arxiv.org/abs/...>
-
-An arxiv paper on adaptive delegation in multi-agent AI systems: how to automatically decide when a task should be delegated to a subagent, which agent to choose, and how to handle authority transfer — formalising the orchestration problem. **[→ machine-learning-ai]**
+An arXiv paper by Nenad Tomašev, Matija Franklin and Simon Osindero arguing that capable AI agents need principled ways to break down problems and hand parts to other agents or humans, beyond the brittle heuristics used today. It proposes an adaptive delegation framework that treats delegation as a series of decisions. The framework covers how authority, responsibility and accountability transfer, how roles and boundaries are specified, how clearly intent is communicated, and how trust is established. It applies to human and AI delegators and aims to inform protocols for an emerging agentic web. **[→ machine-learning-ai]**
+arxiv.org — <https://arxiv.org/abs/2602.11865>
 
 ---
 

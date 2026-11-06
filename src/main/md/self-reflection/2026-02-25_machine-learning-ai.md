@@ -502,8 +502,8 @@ github.com — <https://github.com/ServiceNow/TapeAgents>
 ---
 
 **Santiago: RAG Pipelines Tweet**
-A detailed thread by Santiago Valdarrama explaining multi-step RAG pipeline construction with evaluation strategies — covering query reformulation, hybrid sparse-dense retrieval, cross-encoder re-ranking, faithfulness evaluation with LLM-as-judge, and the RAGAS framework. A reference for building production RAG systems that actually handle adversarial and edge-case queries.
-x.com — <https://x.com/svpino/>
+A thread by Santiago Valdarrama (@svpino) arguing that traditional data pipelines are a poor fit for RAG applications. He lists three problems, starting with the fact that conventional data-engineering tools are optimized for structured data while RAG systems depend mostly on unstructured content, and that the connector ecosystem for loading such data falls short. A useful reminder that the ingestion side of RAG is often harder than the retrieval and generation demos suggest.
+x.com — <https://x.com/svpino/status/1846163161587585248>
 
 
 ---
@@ -536,9 +536,9 @@ huggingface.co — <https://huggingface.co/papers/2412.19437>
 
 ---
 
-**7B Model RLHF Reasoning (Jan 2025)**
-A paper demonstrating that a 7B parameter model trained with reinforcement learning from human feedback (specifically GRPO) on reasoning traces can achieve competitive performance on mathematical and logical reasoning benchmarks — challenging the assumption that strong reasoning requires very large models. The work is part of the "small models, big reasoning" research wave inspired by DeepSeek-R1.
-arxiv.org — <https://arxiv.org/abs/>
+**7B Model and 8K Examples: Emerging Reasoning with RL (HKUST, Jan 2025)**
+HKUST NLP's blog post (Weihao Zeng, Junxian He and colleagues), later released as SimpleRL, showing that reasoning behaviors can emerge in Qwen2.5-Math-7B trained with reinforcement learning on only about 8K MATH problems. It uses PPO with rule-based answer-checking rewards rather than GRPO, and the 'Zero' variant has no supervised fine-tuning or reward model at all. The resulting model reached 33.3 on AIME 2024, 62.5 on AMC and 77.2 on MATH500, roughly matching rStar-Math-7B and Eurus-2-7B-PRIME, which used far more data. An early DeepSeek-R1-Zero-style replication on a small model.
+hkust-nlp.notion.site — <https://hkust-nlp.notion.site/simplerl-reason>
 
 
 ---
@@ -551,8 +551,8 @@ huggingface.co — <https://huggingface.co/papers/2501.12948>
 ---
 
 **GRPO Explained (tweet)**
-Group Relative Policy Optimization — the reinforcement learning algorithm at the core of DeepSeek-R1's training — explained in a tweet thread. GRPO avoids training a separate value/critic model by estimating advantages from the relative rewards of a group of sampled responses to each prompt, making it substantially more memory-efficient than standard PPO for LLM training.
-x.com — <https://x.com/>
+Group Relative Policy Optimization, the reinforcement learning algorithm later used to train DeepSeek-R1, was introduced in the DeepSeekMath paper (Shao et al., February 2024). GRPO is a variant of PPO that drops the separate learned value model and instead estimates advantages from the normalized rewards of a group of responses sampled for the same prompt. This cuts the memory cost of PPO-style training for LLMs; in DeepSeekMath it helped a 7B model reach 51.7% on the MATH benchmark.
+arxiv.org — <https://arxiv.org/abs/2402.03300>
 
 
 ---
@@ -585,9 +585,9 @@ quantamagazine.org — <https://www.quantamagazine.org/why-language-models-are-s
 
 ---
 
-**SUP — State Update Prompts**
-A prompting technique for tracking state across long agentic interactions by explicitly prompting the model to produce structured state update summaries at each step — preventing the context drift and "amnesia" that afflicts agents in extended tasks. SUP makes implicit state tracking explicit and verifiable, improving reliability in multi-step agent workflows.
-arxiv.org — <https://arxiv.org/abs/>
+**A State-Update Prompting Strategy for Multi-turn Dialogue (arXiv 2509.17766, Sep 2025)**
+A training-free prompting strategy by Ziyi Liu for keeping LLMs reliable in long multi-turn dialogues, where models tend to forget earlier information and waste tokens re-reading history. Instead of passing the full transcript, it combines State Reconstruction, which rebuilds a compact dialogue state, with History Remind, which reintroduces the relevant earlier content. On HotpotQA it reports a 14.1% higher QA score and a 32.6% higher information-filtering score, with 73.1% less inference time and 59.4% fewer tokens. Ablations show that both components are needed.
+arxiv.org — <https://arxiv.org/abs/2509.17766>
 
 
 ---
@@ -613,9 +613,9 @@ github.com — <https://github.com/RooVetGit/Roo-Code>
 
 ---
 
-**Local DeepSeek R1 Hardware Setup (Reddit/LocalLLaMA, Jan 2025)**
-A Reddit thread discussing the hardware requirements for running various sizes of the DeepSeek R1 model locally — from the 7B distilled version (feasible on a consumer GPU with 16GB VRAM) through the full 671B MoE model (requiring multi-GPU server configurations). A practical reference for assessing local inference feasibility.
-reddit.com — <https://www.reddit.com/r/LocalLLaMA/>
+**How To Run DeepSeek R1 671B Fully Locally on a $2000 EPYC Server (Reddit/LocalLLaMA, Feb 2025)**
+An r/LocalLLaMA guide, linking to a Digital Spaceport write-up, on running the full 671B-parameter DeepSeek R1 at home on an AMD EPYC server built for about $2,000. Using a Q4-quantized model in system RAM, the poster reports about 3.5 to 4.25 tokens per second with a context of 16K or more, and argues that the distilled R1 variants are much weaker than the full model. Commenters discuss memory channels and RAM capacity as the real bottlenecks, SSD-backed setups and used servers, and whether cloud access is simply easier.
+reddit.com — <https://www.reddit.com/r/LocalLLaMA/comments/1if7hm3/how_to_run_deepseek_r1_671b_fully_locally_on_a/>
 
 
 ---
@@ -628,15 +628,15 @@ mit.edu — <https://news.mit.edu/2024/mit-researchers-develop-efficiency-traini
 ---
 
 **LLM Post-Training: DeepSeek Tweet Thread**
-A thread covering post-training techniques used in DeepSeek models: supervised fine-tuning on instruction data, RLHF with GRPO, and distillation from the larger DeepSeek-R1 model into smaller variants. The thread is notable for explaining why the distilled 7B and 14B models perform so well — they inherit the reasoning traces from the larger model's RL training.
-x.com — <https://x.com/>
+A 17-tweet thread by @nrehiew_ (January 21, 2025) walking through the post-training recipe in the DeepSeek-R1 paper. It covers R1-Zero, trained with GRPO straight from the base model using rule-based rewards, and the full R1 pipeline: a small cold-start SFT set, reasoning RL, about 800K generated samples for further fine-tuning, and a final RL stage for alignment. It stresses that distillation works remarkably well. In the paper, a distilled Qwen-32B beat the same model trained directly with RL, which suggests doing RL on a large model and then distilling it down.
+x.com — <https://x.com/nrehiew_/status/1881496578957197526>
 
 
 ---
 
 **OpenAI Operator vs Browser Use (Reddit/LocalLLaMA)**
-A comparison of OpenAI's Operator (a hosted web browser agent) and Browser Use (open-source alternative using local models) — evaluating task success rates, supported websites, latency, and cost. The comparison reveals that the gap between proprietary and open-source browser agents narrowed dramatically with DeepSeek-class models in early 2025.
-reddit.com — <https://www.reddit.com/r/LocalLLaMA/>
+A comparison of OpenAI's Operator (a hosted web browser agent) and Browser Use (an open-source alternative that can run on local models), looking at task success rates, supported websites, latency, and cost.
+*Original link not recoverable — the source could not be identified.*
 
 
 ---
@@ -649,8 +649,8 @@ answer.ai — <https://www.answer.ai/posts/2025-01-08-devin.html>
 ---
 
 **LLM Agent Book Shelved (tweet)**
-An author tweets about shelving a book on LLM agents because the field moved too fast for traditional publishing timelines — by the time the book would publish, the specific frameworks and techniques covered would be outdated. A vivid illustration of the unprecedented pace of development in AI tooling.
-x.com — <https://x.com/>
+An author tweets about shelving a book on LLM agents because the field moved too fast for traditional publishing timelines. A vivid illustration of how quickly AI tooling was changing.
+*Original link not recoverable — the source could not be identified.*
 
 
 ---
@@ -697,16 +697,16 @@ A talk on the infrastructure considerations for training and serving trillion-pa
 
 ---
 
-**Where Does Meaning Live — Category Theory and LLMs (arXiv, Apr 2025)**
-A paper connecting categorical semantics — specifically functorial semantics and string diagrams from applied category theory — to how language models encode meaning in their embedding spaces. The work proposes that compositional meaning in LLMs can be analyzed through the lens of monoidal categories, linking formal semantics to neural representations.
-arxiv.org — <https://arxiv.org/abs/>
+**Where Does Meaning Live in a Sentence? Math Might Tell Us (Quanta, Apr 2025)**
+A Quanta Magazine Q&A by Joseph Howlett with mathematician Tai-Danae Bradley (SandboxAQ) on using category theory to study how meaning arises in language. She models words and phrases as objects in an enriched category whose arrows carry the probability that one expression continues into another, and shows how combining concepts like big and yellow favors plausible continuations. She also describes work with Juan Pablo Vigneaux on the magnitude of this language category, which unexpectedly involves entropy. Bradley admits she doesn't know what happens inside transformers, but argues that word co-occurrence statistics carry real meaning.
+quantamagazine.org — <https://www.quantamagazine.org/where-does-meaning-live-in-a-sentence-math-might-tell-us-20250409/>
 
 
 ---
 
-**To Make Language Models Work Better (prompting research)**
-A research paper on systematic prompting techniques — including structured output constraints, step-back prompting, and self-consistency decoding — that reliably improve model performance across diverse task types without any model modification. The paper provides ablations showing which techniques are robust versus task-specific.
-arxiv.org — <https://arxiv.org/abs/>
+**To Make Language Models Work Better, Researchers Sidestep Language (Quanta, Apr 2025)**
+A Quanta Magazine article by Anil Ananthaswamy on letting language models reason in their internal latent space instead of converting every step into tokens. It covers Coconut from Shibo Hao and colleagues, which feeds a modified GPT-2's hidden state straight back in as its next input. It also covers the recurrent-depth model from Tom Goldstein's group and Jonas Geiping, a 3.5B-parameter model that reuses a block of layers more times on harder problems and outperformed larger OLMo models on math and coding. Luke Zettlemoyer cautions that reasoning without words may be harder for humans to interpret.
+quantamagazine.org — <https://www.quantamagazine.org/to-make-language-models-work-better-researchers-sidestep-language-20250414/>
 
 
 ---

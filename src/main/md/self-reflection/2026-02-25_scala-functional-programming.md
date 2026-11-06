@@ -684,9 +684,9 @@ hackage.haskell.org — <https://hackage.haskell.org/package/turtle>
 Video series on applying functional programming patterns in TypeScript: Option, Either, Task, IO monad, and the fp-ts library. Useful for developers wanting to apply Haskell/Scala FP ideas in the TypeScript ecosystem.
 youtube.com — <https://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo>
 
-**Haskell Dijkstra (Generalized)**
-Stack Overflow discussion of implementing Dijkstra's shortest path algorithm idiomatically in Haskell: priority queue selection, mutable vs immutable approaches, and the trade-offs between functional purity and the imperative efficiency of the original algorithm.
-stackoverflow.com
+**Generalized Dijkstra in Haskell**
+A blog post by Lucas Escot (acatalepsie.fr, December 2024) showing that Dijkstra's algorithm works with much more general weights than real numbers. It only needs an ordered, associative addition with an infinity and a start identity, which the post captures in a Haskell type class. The implementation stores costs in a mutable STArray and uses a Data.Set-based priority queue, reinserting vertices instead of using decrease-key. Instances include shortest distance, one or all shortest paths, and two Advent of Code 2024 puzzles.
+acatalepsie.fr — <https://acatalepsie.fr/posts/haskell-dijkstra.html>
 
 **Haskell Tail Recursion and Deforestation**
 Article on tail recursion optimization and stream fusion (deforestation) in Haskell: how GHC's `foldr`/`build` fusion eliminates intermediate list allocations in producer-consumer pipelines, and when tail recursion is and is not automatically optimized.
@@ -852,9 +852,9 @@ github.com — <https://github.com/MercuryTechnologies/haskell_llm_benchmark>
 Parsley is a Scala 3 parser combinator library with a Haskell-like interface, featuring optimistic parsing, Parsec-style combinators, and automatic left-recursion handling. Provides better performance than naive recursive descent through combinator fusion.
 github.com — <https://github.com/j-mie6/Parsley>
 
-**LSUG: Parsley Talk (YouTube)**
-London Scala User Group talk presenting the Parsley parser combinator library: its design goals, performance characteristics, and comparison with other Scala parsing libraries (Cats Parse, Fastparse). Practical guidance on choosing a parser combinator for production Scala projects.
-youtube.com
+**LSUG: Writing Maintainable Parsers with Parsley (Jamie Willis, Sep 2023)**
+A London Scala User Group talk (September 2023) by Jamie Willis, Parsley's author, titled *Writing maintainable parsers with Parsley*. It covers design patterns for parser combinators and how to apply them with the Parsley Scala library to keep parsers readable and maintainable. The bookmark pointed to a YouTube recording, but this link goes to the meetup event page.
+meetup.com — <https://www.meetup.com/london-scala/events/249224357>
 
 **Hazel Live Functional Programming Environment**
 Hazel is a live programming environment for a functional language with "holes" — incomplete programs that still execute and provide meaningful feedback. Designed to make the development experience of functional programming more interactive and exploratory.
