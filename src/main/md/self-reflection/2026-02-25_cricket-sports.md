@@ -66,9 +66,8 @@ reddit.com — <https://www.reddit.com/r/Cricket/s/SZhWS980ct>
 A Reddit thread from the r/Cricket community presenting probability models for IPL 2025 playoff qualification — likely using points table simulations and Duckworth-Lewis-style mathematics. **[→ cricket-sports]**
 
 **Most Runs IPL 2025**
-espncricinfo.com
-
-A bare reference to the ESPNcricinfo statistical page for the highest run-scorers of IPL 2025. **[→ cricket-sports]**
+The ESPNcricinfo records page listing the highest run-scorers of IPL 2025, the Orange Cap table for the season. **[→ cricket-sports]**
+espncricinfo.com — <https://www.espncricinfo.com/records/tournament/batting-most-runs-career/indian-premier-league-2025-16622>
 
 **Harsha Bhogle Picks 10 Defining Moments in RCB's Road to Glory**
 <https://youtu.be/ntRFeBHt5Kk?si=9rhNr6SmDa23JIHF>
@@ -86,7 +85,7 @@ Part 1 of a Cricbuzz long-form retrospective on Royal Challengers Bangalore's IP
 ## Cricket Profiles & Long-Form
 
 **Steve Bucknor Is Still Raising the Finger**
-www.thecricketmonthly.com — <https://www.thecricketmonthly.com/story/1441152/steve-bucknor-is-still-raising-the-finger>
+thecricketmonthly.com — <https://www.thecricketmonthly.com/story/1441152/steve-bucknor-is-still-raising-the-finger>
 
 A profile of legendary West Indian umpire Steve Bucknor, known for his iconic raised-finger dismissal gesture, written years after his retirement. The Cricket Monthly is a long-form cricket journalism publication. **[→ cricket-sports]**
 

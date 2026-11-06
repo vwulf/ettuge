@@ -203,9 +203,9 @@ en.wikipedia.org — <https://en.wikipedia.org/wiki/Kish_tablet>
 
 ---
 
-**Colin Gorrie: English Spelling — Why It's So Irregular (Dec 2024)**
-Linguist Colin Gorrie's tweet explaining the historical reasons for English spelling's notorious irregularity — the Great Vowel Shift (changing pronunciation without changing spelling), Norman French influence, inconsistent scribal conventions, and deliberate archaizing by early printers. A useful comparative reference when explaining why Kannada's more phonemically regular script is an asset.
-x.com — <https://x.com/>
+**Colin Gorrie: Why English "gh" Is So Irregular (Dec 2024)**
+A thread by linguist Colin Gorrie arguing that the spelling "gh" was logical in medieval English, where it stood for a throat sound like the one in Scottish *loch*. He traces how, from around 1400, some speakers dropped the sound while others shifted it to "f", with regional and class variation and mixing in London's migrant speech. By about 1750 each word had settled on one outcome, so today *night*, *laugh* and *daughter* behave unpredictably. It is a useful contrast with Kannada's more phonemically regular spelling.
+x.com — <https://x.com/colingorrie/status/1867577901199032670>
 
 
 ---
@@ -224,16 +224,16 @@ en.wiktionary.org — <https://en.wiktionary.org/wiki/jungle>
 
 ---
 
-**Dravidian River Names — Reddit/Dravidiology (Mar 2025)**
-A Reddit discussion thread documenting river names of Dravidian origin across India — including rivers in North India (Godavari, Kaveri, Tungabhadra, Mahanadi) and potentially the Indus/Sindhu itself — as evidence for the former geographic extent of Dravidian-speaking populations before Indo-Aryan expansion.
-reddit.com — <https://www.reddit.com/r/Dravidiology/>
+**Dravidian and Munda Roots of India's River Names — Reddit/Dravidiology (Mar 2025)**
+An r/Dravidiology post, *Toponyms and Hydronyms Flowing Through Time*, surveying proposed origins for 14 river names, among them the Ganga, Yamuna, Narmada, Godavari, Kaveri, Sindhu, Krishna and Tamiravaruni. It weighs Dravidian, Munda, Tibeto-Burman and Indo-Aryan etymologies, and notes that many substrate claims are contested. Commenters debate further points, such as whether Sanskrit *nadī* is a Dravidian loan, Dravidian readings of Ganga and Sindhu, and doubts about some Munda derivations.
+reddit.com — <https://www.reddit.com/r/Dravidiology/comments/1jc0aos/flowing_through_time_the_dravidian_and_munda/>
 
 
 ---
 
 **Siva Derived From Dravidian Root (tweet, Mar 2025)**
-A linguistic argument that the name "Shiva" has Dravidian rather than Sanskrit etymological roots — potentially from a Dravidian root related to "red" (*civa* in Tamil) or a non-Aryan deity name that was later incorporated into the Sanskrit pantheon. The hypothesis, if correct, would suggest Shaivism's origins partly outside the Vedic Indo-Aryan tradition.
-x.com — <https://x.com/>
+A tweet arguing that the name "Shiva" has Dravidian rather than Sanskrit roots, linking it to a Dravidian word for "red" (compare Tamil *civappu*) or to a non-Aryan deity later absorbed into the Sanskrit pantheon. The usual etymology instead derives it from Sanskrit *śiva*, "auspicious". If the tweet's hypothesis were right, it would point to Shaivism having roots partly outside the Vedic Indo-Aryan tradition.
+*Original link not recoverable — the source could not be identified.*
 
 
 ---

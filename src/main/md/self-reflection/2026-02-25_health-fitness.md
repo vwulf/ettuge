@@ -34,7 +34,7 @@ Elite endurance coach Alan Couzens summarizes epidemiological data showing that 
 
 **Is Hard Exercise the Formula for Longevity? Peter Attia Thinks So.**
 Peter Attia argues that "Centenarian Decathlon" thinking — training now to perform specific physical tasks in your 80s and 90s — requires much higher exercise intensity and volume than conventional guidelines suggest. The piece covers zone 2 training, VO2 max, and strength as the four pillars of his longevity protocol.
-www.outsideonline.com — <https://www.outsideonline.com/health/training-performance/peter-attia-longevity/>
+outsideonline.com — <https://www.outsideonline.com/health/training-performance/peter-attia-longevity/>
 
 **93 Years Old With 80% Muscle Mass — Richard Morgan**
 Richard Morgan, a four-time world indoor rowing champion who began serious training at age 73, maintains exceptional lean muscle mass and VO2 max at 93. His case is studied as a model of what is achievable with consistent resistance and cardiovascular training started late in life.
@@ -71,12 +71,12 @@ Uphill Athlete applies mountain endurance training methodology to rock climbing,
 <https://uphillathlete.com/>
 
 **Antagonist Training Climbing (improve-climbing.com)**
-Climbing heavily loads pushing muscles (fingers, wrists, elbow extensors) in an antagonist role while primarily training pulling; this article explains the antagonist exercises — push-ups, dips, wrist extensions — needed to prevent the muscular imbalances that cause climbing-related injuries.
-improve-climbing.com
+Climbing's pull-dominant demands strengthen the flexors and back while neglecting the opposing muscles, which the article links to posture problems such as a hunched upper back, reduced shoulder mobility and injury risk. It lays out antagonist work by body region: wrist and finger extensor exercises, scapular push-ups, T and Y raises, rows, push-up variations, tricep dips and shoulder presses, plus stretches for fingers, chest and hips. It suggests light, high-rep sessions of 20 to 30 minutes, two to four times a week.
+improve-climbing.com — <https://www.improve-climbing.com/antagonist-training-climbing/>
 
-**Hangboard FAQ (rockclimberstrainingmanual.com)**
-Answers common beginner questions about hangboard training: when to start, minimum edge depth, protocols (max hangs vs repeaters), and recovery between sessions. Sets realistic expectations for finger strength gains and injury risk management.
-rockclimberstrainingmanual.com
+**Hangboard FAQ #0: What Is a Basic Hangboard Routine? (rockclimberstrainingmanual.com)**
+Mark Anderson, co-author of *The Rock Climber's Training Manual*, sets out a basic hangboard routine derived from the Rock Prodigy plan he developed with his brother Mike. Each grip gets three pyramid sets of dead hangs (10 seconds on, 5 off for beginners; 7 on, 3 off for advanced), with about three minutes between sets and resistance raised gradually. He stresses a thorough climbing warm-up, starting lighter than you think, roughly two full rest days between sessions, and six to ten workouts per block.
+rockclimberstrainingmanual.com — <https://rockclimberstrainingmanual.com/2012/08/30/hangboard-faq-0-what-is-a-basic-hangboard-routine/>
 
 **Stop Plateauing V4-5 (Catalyst Climbing, YouTube)**
 Catalyst Climbing addresses the specific plateau many gym climbers hit around V4–V5: the transition from technique-limited to strength-limited climbing. The video offers diagnostic frameworks and targeted training prescriptions for breaking through this common sticking point.
@@ -87,40 +87,40 @@ A frank video for climbers struggling to consistently send V3 problems, analyzin
 <https://www.youtube.com/watch?v=orQLUctOpdw>
 
 **International Climbing Grade Conversion (mec.ca)**
-Grade conversion table mapping Yosemite Decimal System (YDS) to French, UIAA, Australian, and British trad grades. Indispensable when traveling to climb in a country using a different grading convention, or when comparing difficulty across route styles.
-mec.ca
+MEC's conversion chart lines up the Yosemite Decimal System used in North America against French, UK, Australian and UIAA grades for roped climbing, and compares Hueco V-scale, UK and Font grades for bouldering. A short intro notes that YDS runs from 5.0 to 5.15, usually reflects a route's crux, and is subjective, so the table is meant as a rough guide. Handy when climbing abroad or reading foreign guidebooks.
+mec.ca — <https://www.mec.ca/en/explore/climbing-grade-conversion>
 
 **Rock Climbing Grades Guide (rockclimbingguru.com)**
 In-depth explanation of how climbing grades work: the history, subjectivity, sandbagging culture, and practical implications for route selection. Covers both sport and trad grading and helps climbers calibrate expectations across different climbing areas.
-rockclimbingguru.com
+*Original link not recoverable — the source could not be identified.*
 
 **Is Climbing 5.11 Good? (ascentionism.com)**
-Contextualizes what reaching 5.11 sport climbing grade means relative to the overall climbing population, gym climber baseline, and elite performance. Useful for understanding where one stands in the larger climbing community.
-ascentionism.com
+Argues that sending 5.11 is a solid achievement that typically places a climber in roughly the top 40% of a gym, comparing the effort to training for a half marathon. It estimates about a year to reach the grade from scratch with two to four sessions a week, and shorter timelines for those already climbing 5.8 to 5.10. It also notes top-rope versus lead differences and warns that pushing grades too quickly risks finger pulley injuries.
+ascentionism.com — <https://ascentionism.com/is-climbing-5-11-good-and-how-long-does-it-take/>
 
 **World's Hardest Boulder Problems (99boulders.com)**
-Overview of the hardest established boulder problems in the world, from V15 to V17, with profiles of the climbers who have attempted or established them. Covers problems like Burden of Dreams, Return of the Sleepwalker, and Alphane.
-99boulders.com
+Alex Beale's 2022 update lists about forty of the world's hardest boulder problems, from V15/V16 up to the two consensus V17s, Burden of Dreams and Return of the Sleepwalker, with crag, country and ascensionists for each. Beyond the table it explains how consensus grades were derived, ranks climbers by hard sends and first ascents (Daniel Woods leads both), and breaks the data down by year, country and season.
+99boulders.com — <https://www.99boulders.com/hardest-boulder-problems>
 
-**Climbing History (climbing-history.org, Elias Iagnemma)**
-Historical account of rock climbing's development from Victorian mountaineering through free climbing, sport climbing, and competition climbing. Traces the evolution of ethics, equipment, and grade standards that shaped modern climbing culture.
-climbing-history.org
+**Elias Iagnemma (climbing-history.org)**
+Climber profile on climbing-history.org, a volunteer-run database of climbers, climbs and ascents. It covers Elias Iagnemma, an Italian boulderer born in 1995, listing his recorded ascents and first ascents, including Gioia and Ganesh (8C+), the fourth ascent of *Burden of Dreams* in 2024, *The Big Slamm* (9A), and *Exodia*, proposed in 2025 as the first 9A+ boulder after years of effort.
+climbing-history.org — <https://climbing-history.org/climber/913>
 
 **Scarpa Instinct Lace Review (outdoorgearlab.com)**
 Expert review of the Scarpa Instinct Lace climbing shoe: fit, sensitivity, edging performance, and comparison to competitors. The Instinct Lace is popular among climbers seeking a balance between slipper-like sensitivity and lace-up precision on technical faces.
-www.outdoorgearlab.com — <https://www.outdoorgearlab.com/reviews/climbing/climbing-shoes/scarpa-instinct-lace>
+outdoorgearlab.com — <https://www.outdoorgearlab.com/reviews/climbing/climbing-shoes/scarpa-instinct-lace>
 
 **La Sportiva Solution Comp Review (outdoorgearlab.com)**
 Review of La Sportiva's flagship competition and overhanging-terrain shoe: the aggressive downturn, rubber quality, and suitability for steep indoor and outdoor bouldering. The Solution Comp is the preferred choice of many professional competition climbers.
-www.outdoorgearlab.com — <https://www.outdoorgearlab.com/reviews/climbing/climbing-shoes/la-sportiva-solution-comp>
+outdoorgearlab.com — <https://www.outdoorgearlab.com/reviews/climbing/climbing-shoes/la-sportiva-solution-comp>
 
 **La Sportiva Katana Lace Review (outdoorgearlab.com)**
 Review of the Katana Lace: a moderate-downturn all-arounder well-suited to intermediate climbers transitioning from beginner shoes. Analysis covers edging, smearing, and all-day comfort for multi-pitch or gym sessions.
-www.outdoorgearlab.com — <https://www.outdoorgearlab.com/reviews/climbing/climbing-shoes/la-sportiva-katana-lace>
+outdoorgearlab.com — <https://www.outdoorgearlab.com/reviews/climbing/climbing-shoes/la-sportiva-katana-lace>
 
-**Climbing Destinations Bay Area (bayarea.com)**
-Guide to rock climbing areas accessible from the San Francisco Bay Area: Castle Rock, Indian Rock, Mission Cliffs, and regional crags. Includes grade ranges, approach notes, and seasonal considerations for local climbers.
-bayarea.com
+**Climbing Destinations (Bay Area Climbing blog)**
+A page from the Bay Area Climbing blog covering two road-trip destinations from the Bay Area rather than local crags: Joshua Tree, about nine hours away, and Yosemite, about four. For each it lists classic moderate routes, approach notes, seasonal advice (summer heat, Tuolumne as a summer alternative) and camping such as Hidden Valley and Camp 4. Local areas like Castle Rock and Indian Rock are covered on the blog's separate Climbing Areas page; details date from around 2012.
+bayareaclimbing.blogspot.com — <https://bayareaclimbing.blogspot.com/p/climbing-destinations.html>
 
 **How to Return to Climbing After an ACL Tear (climbing.com)**
 Structured return-to-climbing protocol for athletes recovering from ACL injury, covering quad strength milestones, plyometric readiness tests, and managing fear of reinjury. Emphasizes that climbing can actually be resumed before return to running or jumping sports.
@@ -188,28 +188,28 @@ Trevor Bachmeyer's approach to pull-up strength development, covering grip width
 <https://www.youtube.com/watch?v=qt-gONQS1_c>
 
 **Do Chin-Ups Help Pull-Ups? (everphysique.com)**
-Analysis of the carryover between supinated-grip chin-ups and pronated-grip pull-ups; how bicep dominance in chin-ups transfers to the harder pull-up movement. Practical guidance on programming both variations to accelerate pull-up progress.
-everphysique.com
+Explains that chin-ups train largely the same muscles as pull-ups but lean more on the biceps, so they help build pull-up strength, though the carryover shrinks as you get stronger and the mechanics differ. It suggests switching toward pull-ups once a few sets of chin-ups feel comfortable, doing pull-ups first and chin-ups after, and using negatives and rows when stuck. No studies are cited.
+everphysique.com — <https://everphysique.com/do-chin-ups-help-pull-ups/>
 
 **Pull-Ups vs Chin-Ups (setforset.com)**
-Detailed comparison of muscle activation, difficulty, and use cases for pull-ups versus chin-ups. Includes EMG study data and recommendation frameworks for choosing between them based on training goals — lat width, bicep development, or grip variation.
-setforset.com
+Garett Reid compares the two lifts: both train the lats, biceps, traps and upper back, with chin-ups biasing the biceps and pull-ups the lats and lower traps. He ranks grips from easiest (neutral) to hardest (wide pull-up) and recommends programming both, with assistance for beginners and added weight once 10 to 15 reps come easily. The advice rests on coaching experience rather than cited EMG studies.
+setforset.com — <https://www.setforset.com/blogs/news/pull-ups-vs-chin-ups>
 
-**Neutral-Grip Chin-Ups (livestrong.com)**
-Overview of the neutral (hammer) grip pull-up: joint-friendlier than both supinated and pronated grips, making it valuable for climbers and anyone with elbow or shoulder discomfort. Covers setup, cues, and programming integration.
-livestrong.com
+**Neutral-Grip Chin-Ups Versus Regular Chin-Ups (livestrong.com)**
+Livestrong article comparing neutral-grip (palms facing each other) chin-ups with regular supinated chin-ups. The title and URL were confirmed through search, but the page itself could not be retrieved, so its specific claims about muscles worked, joint comfort or programming could not be checked.
+livestrong.com — <https://www.livestrong.com/article/539206-neutral-grip-chinups-versus-regular-chinups/>
 
 **Neutral Grip Pull-Ups (ignorelimits.com)**
-Additional resource covering neutral grip pull-up mechanics, advantages for wrist and elbow health, and how to incorporate the variation alongside standard pull-up training for a more complete upper body pulling program.
-ignorelimits.com
+The author argues the neutral grip is the forgotten pull-up variation: easier on the shoulders (he trained through rotator cuff impingement with it), good for forearm development, and a useful bridge from assisted to wide-grip pull-ups. It covers setup and form, common mistakes like kipping and partial range, and progressing with a belt or vest once about ten bodyweight reps are possible.
+ignorelimits.com — <https://ignorelimits.com/neutral-grip-pull-ups/>
 
 **Rows vs Pull-Ups (neatstrength.com)**
-Comparative analysis of horizontal rows (barbell, dumbbell, cable) versus vertical pull-ups for back development. Discusses when to prioritize each, how they target different portions of the lats and rhomboids, and programming for balanced upper back development.
-neatstrength.com
+Compares rows (inverted, barbell, dumbbell, ring) with pull-ups: both work the lats, traps, rhomboids, biceps and core from different angles, with pull-ups favoring the lats and rows the traps and rhomboids. It suggests rows for sore shoulders or trouble with overhead positions, ring rows as a stepping stone to pull-ups, and doing both for a balanced upper body, without prescribing sets or reps.
+neatstrength.com — <https://neatstrength.com/rows-vs-pull-ups/>
 
-**Inverted Row vs Pull-Up (barbend.com)**
-Barbend's breakdown of inverted rows as a scalable regression from or complement to pull-ups: muscle targets, difficulty scaling, and who benefits most from adding inverted rows to their training.
-barbend.com
+**How to Do the Inverted Row (barbend.com)**
+BarBend's inverted row guide, which now stands in for its older comparison with the pull-up. It treats the row as an easier but still effective back builder that can prepare you for pull-ups, covering the muscles worked, form, and ways to scale it, such as bending the knees, raising the bar, elevating the feet or slowing the tempo. It singles out heavier strength athletes, functional fitness athletes and beginners as those who benefit most.
+barbend.com — <https://barbend.com/inverted-row-guide/>
 
 **Why You CAN'T Chest to Bar Pull-Ups (YouTube, Saturno Movement)**
 Saturno Movement explains the specific mobility, strength, and technique gaps that prevent climbers from achieving chest-to-bar contact on pull-ups. The chest-to-bar standard is relevant to both CrossFit and competitive climbing where full ROM pull-ups matter.
@@ -236,8 +236,8 @@ Geoff Reed's framework for maintaining and building exceptional mobility after 4
 <https://x.com/CoachGeoffReed/status/1835430571998052802>
 
 **Dips Guide: 15 Variations (setforset.com)**
-Comprehensive dip guide covering chest dips, tricep dips, ring dips, Korean dips, and weighted variations. Includes setup cues, muscle targeting, and how to sequence dip variations for progressive overload in a calisthenics program.
-setforset.com
+Sam Coleman's guide runs through 15 dip variations, from bench, chair and assisted dips up to chest, ring, straight-bar and weighted dips and muscle-ups. It explains that triceps are the prime movers, with the chest working more under a wider grip and forward lean, and gives form cues for wrists, elbows and depth. Programming advice is tiered by how many reps you can already do, progressing through assistance, bodyweight and added load.
+setforset.com — <https://www.setforset.com/blogs/news/dips-variations-muscles-worked-how-to-benefits>
 
 **3 Tips to Fix Elbow Pain from Pull-Ups (YouTube)**
 Video addressing medial epicondylitis and elbow flexor tendinopathy common in heavy pull-up training, with corrective exercises, load management, and technique adjustments to train around pain while allowing tissue recovery.
@@ -277,8 +277,8 @@ The most common push-up form breakdown: lumbar hyperextension caused by insuffic
 ## Flexibility & Mobility
 
 **8 Thoracic Mobility Exercises (healthline.com)**
-Eight exercises for improving thoracic spine extension and rotation — limited thoracic mobility is a root cause of shoulder impingement, neck pain, and poor posture in desk workers and overhead athletes alike. Includes foam rolling, cat-cow variations, and seated rotations.
-healthline.com
+Healthline piece by Roxy Menzies, reviewed by a physical therapist, on loosening the upper and middle back. It explains that thoracic stiffness, often tied to desk work and repetitive bending, can contribute to neck or low back pain, poor posture and restricted breathing. The eight moves are cat-cow, thread the needle, downward dog, supine and seated spinal twists, foam-roller thoracic extension, child's pose and a seated side stretch.
+healthline.com — <https://www.healthline.com/health/fitness/thoracic-mobility-exercises>
 
 **The Surprising Effects of Going Shoeless: 1 Month Without Footwear (YouTube)**
 A personal experiment documenting one month of barefoot living and its effects on arch strength, ankle mobility, and gait mechanics. Provides experiential data alongside the research case for reducing footwear dependency.
@@ -298,7 +298,7 @@ YouTube
 
 **20 Hacks for Your Yoga Practice If You Have Tight Hamstrings (yogajournal.com)**
 Practical modifications for yoga students whose hamstring tightness limits forward folds and seated postures. Covers prop use, pose substitutions, and stretching strategies that allow continued yoga practice while building hamstring length safely.
-www.yogajournal.com — <https://www.yogajournal.com/practice/yoga-for-tight-hamstrings/>
+yogajournal.com — <https://www.yogajournal.com/practice/yoga-for-tight-hamstrings/>
 
 **How Stretching Actually Changes Your Muscles (Malachy McHugh, YouTube)**
 Researcher Malachy McHugh explains the neural and structural mechanisms behind flexibility gains — why stretching works, why it takes time, and what the research says about optimal protocols (duration, frequency, intensity). Distinguishes between neural tone reduction and genuine muscle lengthening.
@@ -338,7 +338,7 @@ YouTube
 
 **I Walked 90 Minutes Every Day for Two Years — Here's What Changed (tomsguide.com)**
 Personal account of the cumulative effects of sustained daily walking on body composition, mental health, and metabolic markers. Provides a practical data point for the effectiveness of low-intensity daily movement as a cornerstone of health.
-www.tomsguide.com — <https://www.tomsguide.com/wellness/fitness/i-walked-for-90-minutes-every-day-for-two-years-heres-what-changed-for-me>
+tomsguide.com — <https://www.tomsguide.com/wellness/fitness/i-walked-for-90-minutes-every-day-for-two-years-heres-what-changed-for-me>
 
 **One Simple Swap Increases Odds of Living Longer by 28% (eatingwell.com)**
 Study showing that replacing just 30 minutes of sitting with light movement or walking per day is associated with a 28% reduction in mortality risk. A potent argument for breaking up sedentary work time even without structured exercise.
@@ -357,8 +357,8 @@ Animated visualization of Kelvin Kiptum's 2:00:35 world record marathon pace —
 <https://x.com/Rainmaker1973/status/1798939190002155873>
 
 **Hill Running for Fun (omnirunning.com)**
-Guide to hill running as both training stimulus and recreational activity: technique for uphill and downhill, the cardiovascular and strength benefits of grade variation, and beginner routes for introducing hills to a flat-running program.
-omnirunning.com
+A personal 2018 post from the Omni Running blog that measures how hilly various New England races and training runs really are by computing average grade from elevation gain and distance. It compares three half marathons, the Boston Marathon's Newton Hills and Heartbreak Hill, and steep landmarks like Lombard Street, noting that averages hide the short steep climbs that hurt most. The author treats hills as a normal, enjoyable part of training rather than offering a technique guide.
+omnirunning.com — <https://omnirunning.com/running-hills/>
 
 **Exercise Volume vs Intensity and Coronary Atherosclerosis (AHA Journal)**
 Research from the American Heart Association examining whether high-intensity exercise volume is associated with accelerated coronary artery calcification — a nuanced finding suggesting that extreme endurance training may carry cardiovascular trade-offs alongside its well-known benefits.
@@ -516,8 +516,8 @@ Research article examining how sleep apnea disrupts the glymphatic system — th
 <https://pubs.rsna.org/doi/10.1148/radiol.241440>
 
 **Some Sleep Apnea Patients Improve with New Breathing Tool (Finland Study)**
-Finnish research on a novel breathing device showing measurable OSA reduction in a subset of patients, potentially offering an alternative or complement to CPAP for those who struggle with mask compliance.
-news.google.com
+Reports a small University of Turku pilot study of 25 people with mild to moderate sleep apnea who used a home breathing device, WellO2, which combines resistance breathing to strengthen throat muscles with steam inhalation. After three months of twice-daily use, participants reported stronger respiratory muscles, fewer breathing interruptions, less snoring and better sleep. The results were preliminary, uncontrolled and not yet peer-reviewed, and the device is pitched as an add-on to CPAP, not a replacement.
+foxnews.com — <https://www.foxnews.com/health/sleep-apnea-patients-see-improvement-breathing-tool>
 
 **Apnea-Hypopnea Index (AHI) — Reference**
 The AHI measures sleep apnea severity: events per hour, with normal defined as fewer than 5, mild as 5–15, moderate as 15–30, and severe as over 30. Understanding AHI is prerequisite to interpreting sleep study results and evaluating treatment effectiveness.
@@ -538,12 +538,12 @@ Study examining the relationship between OSA severity and visceral adiposity ind
 Lipids in Health and Disease Journal
 
 **AHI vs RDI — FAST FACTS (soundsleephealth.com)**
-Quick reference distinguishing Apnea-Hypopnea Index from Respiratory Disturbance Index (RDI), which additionally counts respiratory effort-related arousals (RERAs) not captured by AHI. RDI-based diagnosis can reveal upper airway resistance syndrome missed by AHI alone.
-soundsleephealth.com
+Quick reference explaining how to read a sleep study. The Apnea-Hypopnea Index counts complete and partial airway obstructions per hour of sleep, with the usual mild, moderate and severe cutoffs of 5, 15 and 30. The Respiratory Disturbance Index adds respiratory effort-related arousals (RERAs), so someone with a normal AHI but a high RDI, as in upper airway resistance syndrome, may still have fragmented sleep worth treating.
+soundsleephealth.com — <https://www.soundsleephealth.com/fast-facts-how-to-make-sense-of-your-sleep-study-ahi-versus-rdi/>
 
 **Smart Nora Review (sleepfoundation.org)**
-Review of the Smart Nora positional snoring device: a pillow insert that detects snoring and gently inflates to shift head position, interrupting the apnea without waking the user. The Sleep Foundation provides evidence-rated consumer product assessments.
-sleepfoundation.org
+Sleep Foundation review of Smart Nora, a contact-free anti-snoring system: a bedside microphone listens for snoring and signals a pump that gently inflates an insert under the pillow, moving the head slightly to engage throat muscles and reopen the airway. The reviewer sees it as a good fit for snorers who don't want to wear a mouthpiece, but notes it costs considerably more than mouthguards and is explicitly not a treatment for sleep apnea.
+sleepfoundation.org — <https://www.sleepfoundation.org/best-anti-snoring-mouthpieces-and-mouthguards/smart-nora-review>
 
 **Nasal Involvement in OSA Syndrome**
 Clinical review of the nasal contribution to obstructive sleep apnea — how nasal congestion, deviated septum, and turbinate hypertrophy elevate oral breathing and worsen airway collapse. Guides evaluation of nasal treatment as OSA adjunct therapy.
@@ -601,8 +601,8 @@ Medical reference on alcoholic cardiomyopathy: a form of dilated heart failure c
 <https://my.clevelandclinic.org/health/diseases/21994-alcoholic-cardiomyopathy>
 
 **Cross-Talk Between Iron Metabolism and Diabetes (diabetesjournals.org)**
-Research review on the bidirectional relationship between iron dysregulation and type 2 diabetes: iron overload promotes insulin resistance through oxidative stress and pancreatic beta-cell damage, while diabetes alters iron metabolism and recycling.
-diabetesjournals.org
+Review by José Manuel Fernández-Real, Abel López-Bermejo and Wifredo Ricart in *Diabetes* (2002) on the two-way relationship between iron metabolism and type 2 diabetes. Higher body iron stores are linked to greater risk of developing the disease, with oxidative stress and inflammation amplifying the interaction, and iron may also contribute to diabetic complications. The authors note that iron reduction improved insulin action, insulin secretion and vascular function in some studies, and call for large trials of iron-lowering therapy.
+doi.org — <https://doi.org/10.2337/diabetes.51.8.2348>
 
 **Antidiabetic Properties of Jamun (Syzygium cumini) — NCBI**
 Review of research on jamun (Indian blackberry / java plum) as a traditional Ayurvedic antidiabetic remedy, covering its seed extract's mechanisms for reducing blood glucose, including alpha-glucosidase inhibition and insulin sensitization.
@@ -614,15 +614,15 @@ NCBI
 
 **Ragi Sprouting Article (tasteofmysore.com)**
 Article on sprouting ragi (finger millet) to improve its nutrient bioavailability: sprouting reduces phytic acid and increases available iron, calcium, and amino acid content. Ragi is a staple grain in Karnataka with exceptional nutritional density.
-tasteofmysore.com
+*Original link not recoverable — the source could not be identified.*
 
 **Beetroot Shots to Baking Powder — The Science of Sports Supplements (Guardian)**
 The Guardian's science-based review of popular legal sports supplements — beetroot juice (nitrates), creatine, beta-alanine, bicarbonate, and probiotics — covering the quality and effect size of evidence for each. Written for athletes and amateurs seeking evidence over marketing.
 <https://www.theguardian.com/science/2024/sep/28/sports-supplements-science-beetroot-shots-probiotics-prebiotics-creatine-baking-powder>
 
 **Ryazhenka Kefir (lifewaykefir.com)**
-Reference on ryazhenka — a fermented dairy product similar to kefir made from baked milk — and its probiotic profile. Ryazhenka is distinct from standard kefir in its baked flavor profile and slightly different microbial composition.
-lifewaykefir.com
+Lifeway's product page for its Ryazhenka kefir, an unsweetened Russian-style kefir made from baked whole milk with 12 live and active cultures. The page lists nutrition per cup (about 150 calories, 8g protein, 30% DV calcium) and markets it as gluten-free and suitable for the lactose intolerant. Its gut-health claims are general marketing statements rather than cited research.
+lifewaykefir.com — <https://lifewaykefir.com/products/ryazhenka-kefir/>
 
 **Krish Ashok: Iron Science for Anaemia**
 Krish Ashok — food science writer — explains the biochemistry of iron absorption, the differences between heme and non-heme iron, the role of vitamin C, and practical dietary strategies for managing anaemia through food rather than supplements alone.
@@ -632,8 +632,8 @@ Research examining the cardiovascular effects of mustard oil and ghee — common
 NCBI
 
 **Mustard Oil Safety (poison.org)**
-Reference addressing safety concerns around mustard oil consumption, particularly erucic acid content and the FDA import restrictions in the US. Contextualizes the risk relative to traditional Indian culinary usage.
-poison.org
+Poison Control article covering mustard allergy and mustard oil. It distinguishes essential mustard oil, which the FDA regards as safe for food use, from expressed mustard oil, which the FDA does not permit in foods because of its erucic acid content. The piece notes that 1970s animal studies tied erucic acid to heart problems while later evidence suggests the harms may be small, and it recommends avoiding expressed mustard oil and watching for allergic reactions.
+poison.org — <https://www.poison.org/articles/mustard-and-mustard-oil-safety>
 
 **Ethnicity-Specific BMI for South Asians (ACC)**
 American College of Cardiology guidance on using lower BMI cut-offs for South Asians, who develop metabolic complications (type 2 diabetes, cardiovascular disease) at lower BMI than European populations due to higher visceral fat distribution.
@@ -723,8 +723,8 @@ Reference to "Ti" — the indigenous Okinawan martial art predating and underlyi
 <https://ryukyu-bugei.com/>
 
 **Tsuken Uēkata Seisoku Articles (ryukyu-bugei.com)**
-Scholarly articles on Tsuken Uēkata Seisoku — a historical figure and tradition associated with Okinawan kobudo weapons development, particularly the eku. Ryukyu Bugei documents his lineage and the kata attributed to his tradition.
-ryukyu-bugei.com
+Article by Andreas Quast in his Bojutsu Kata series on Tsuken Uēkata Seisoku, an early 17th-century Ryukyuan official known historically as a horseman favored by Satsuma, who lost his fief in 1617 after a political scandal. It examines Majikina Ankō's claim that Seisoku transmitted a staff method, Tsuken-bō, treating it with caution given the thin record. Related posts discuss the Tsuken Island bō tradition and Tsuken Akan'chū, linked to an eku (oar) kata.
+ryukyu-bugei.com — <https://ryukyu-bugei.com/?p=11338>
 
 **Silat Suffian Bela Diri: Maul Mornie Video (YouTube)**
 Demonstration by Maul Mornie of Silat Suffian Bela Diri — a Bruneian silat system emphasizing structural destruction, edge weapon defense, and close-range takedowns. One of the most practically oriented Southeast Asian martial arts systems receiving international attention.
@@ -771,8 +771,8 @@ Case series or study examining the hip injuries specific to unicyclists — part
 NCBI
 
 **Health Benefits of Unicycling (unicyclist.com)**
-Community discussion thread on the cardiovascular, balance, and proprioceptive benefits of regular unicycle riding, with anecdotal and research-supported evidence. Unicycling demands continuous micro-adjustments that activate deep stabilizing muscles not engaged by cycling.
-unicyclist.com
+Unicyclist.com forum thread (2008) asking whether unicycling works the core, abs, quads and hamstrings. Riders agree it mainly works the quads and glutes, engages the core through constant balancing, and builds low-impact cardio, with anecdotes about weight loss and endurance. Participants disagree on how it compares with cycling, running or weights, and no one cites research specifically on unicycling.
+unicyclist.com — <https://unicyclist.com/t/help-are-there-health-benefits-to-unicycling/101856>
 
 **Is Best eVTOL Aircraft? Opener's BlackFly / Pivotal Helix (YouTube)**
 Video review of the Opener BlackFly / Pivotal Helix electric vertical take-off and landing (eVTOL) personal aircraft — a single-seat, fixed-wing electric aircraft approved for ultralight flight. Tangentially related to human-powered and alternative personal mobility interests.
@@ -799,7 +799,7 @@ Walking specialist's framework for correcting common gait faults — forward hea
 
 **Staying Fit for Climbing When You Can't Climb (jessbfit.com)**
 Training guide for maintaining climbing-relevant fitness during periods when climbing is impossible: antagonist strength, flexibility, footwork visualization, and complementary sports that preserve climbing capacity through injury or travel breaks.
-jessbfit.com
+*Original link not recoverable — the source could not be identified.*
 
 **A Dying Judo Master's Lesson on Extreme Competency (Yahoo Lifestyle)**
 Essay drawing on the philosophy of a Judo master who, near death, distilled his teaching to the single most important principle of mastery in any discipline. Relevant to the martial arts philosophy of long-term development versus short-term performance metrics.
@@ -838,8 +838,8 @@ medicalnewstoday.com — <https://www.medicalnewstoday.com/articles/kimchi-diet-
 Coverage of emerging compounds — possibly rapamycin, acarbose, or novel senolytics — showing anti-aging effects that outperform metformin's well-documented longevity benefits in animal and early human trials.
 
 **Hair Loss Breakthrough — Sugar Gel**
-New topical treatment using a sugar-based gel that promotes hair follicle regeneration by activating the Wnt signaling pathway, showing promise for androgenic alopecia in early clinical data reported by BBC and others.
-bbc.com
+Preclinical study from the University of Sheffield and COMSATS University in *Frontiers in Pharmacology* (2024) testing a gel containing 2-deoxy-D-ribose, a naturally occurring sugar, on male mice with testosterone-induced hair loss. Over 20 days the gel produced regrowth comparable to minoxidil, with more blood vessels around follicles, and combining the two added little. Groups were very small, the mechanism is unknown, and no human testing has been done.
+frontiersin.org — <https://www.frontiersin.org/articles/10.3389/fphar.2024.1370833>
 
 **Hair Loss Research Update (Jan 2026)**
 Follow-up coverage on hair regrowth treatment advances: sugar gel mechanism, JAK inhibitor results (baricitinib, ritlecitinib for alopecia areata), and emerging CRISPR-based approaches to androgenic alopecia.
@@ -912,8 +912,8 @@ Comprehensive list of high-iron plant foods: lentils (6.6mg/cup), spinach (6.4mg
 healthline.com — <https://www.healthline.com/nutrition/iron-rich-plant-foods>
 
 **5 Sleep Types — Research**
-Study identifying five distinct sleep profiles in the population (beyond simple duration categories) and their different associations with health outcomes, disease risk, and psychological wellbeing. Suggests personalized sleep medicine may benefit from phenotyping beyond AHI and sleep time.
-news.com.au
+Study in *PLOS Biology* (October 2025) by Perrault, Kebets, Yeo, Dang-Vu and colleagues that used a data-driven analysis of 770 healthy young adults to identify five sleep-biopsychosocial profiles. The profiles link self-reported sleep to mental health, cognition and lifestyle: poor sleep with psychopathology, sleep resilience despite psychopathology, sleep-aid use with social satisfaction, short sleep with weaker cognition, and sleep disturbance with cognitive and mental-health problems. Each profile showed distinct brain connectivity patterns on MRI.
+ideas.repec.org — <https://ideas.repec.org/a/plo/pbio00/3003399.html>
 
 **Deep Squat and Knee Safety**
 Research and expert guidance reviewing the evidence on whether deep squats are damaging to the knee: the conclusion that deep squats with proper mechanics are safe and even beneficial for knee health, contrary to the commonly repeated medical caution against squatting below parallel.
@@ -942,8 +942,8 @@ Personal notes documenting target body fat percentage, lean mass goals, and trac
 Research on intramuscular fat infiltration (myosteatosis): caused by inactivity, aging, and metabolic dysfunction; associated with insulin resistance and impaired muscle contractility. Resistance training is the most effective intervention for reducing intramuscular fat.
 
 **Fatty Infiltration of Muscle (pubmed.ncbi.nlm.nih.gov)**
-In-depth PubMed literature on myosteatosis: pathophysiology, measurement by MRI and CT, association with sarcopenia, and the dose-response relationship between resistance training volume and intramuscular fat reduction.
-pubmed.ncbi.nlm.nih.gov
+A review in *iScience* (Wang, Valencak and Shan, 2024) of myosteatosis, the build-up of fat within skeletal muscle that is tied to declining muscle function. It covers triggers such as aging, obesity and type 2 diabetes, muscular dystrophy, injury and disuse, and identifies fibro/adipogenic progenitors as the main cellular source of the fat. It also surveys signaling pathways, imaging methods, and interventions such as exercise and nutrition, noting that human evidence for most interventions remains limited.
+pmc.ncbi.nlm.nih.gov — <https://pmc.ncbi.nlm.nih.gov/articles/PMC10907799>
 
 **BMI and Body Composition Research**
 Studies challenging BMI as a health metric: its insensitivity to fat distribution, muscle mass, and ethnicity-specific risk — with superior alternatives including waist-to-height ratio, body fat percentage, and Relative Fat Mass (RFM) calculation.
@@ -952,12 +952,12 @@ Studies challenging BMI as a health metric: its insensitivity to fat distributio
 Practical protocol for achieving 12% body fat: calorie cycling between training and rest days, protein targeting at 2g/kg, resistance training frequency, cardio modality selection, and progress tracking with non-scale metrics.
 
 **BNP and Risk of Death (pubmed.ncbi.nlm.nih.gov)**
-Research on B-type natriuretic peptide (BNP) as a cardiac biomarker: elevated BNP indicates ventricular wall stress and is a sensitive predictor of heart failure progression and cardiovascular mortality, making it a key marker in cardiac monitoring.
-pubmed.ncbi.nlm.nih.gov
+A Framingham Heart Study analysis (Wang et al., *New England Journal of Medicine*, 2004) of 3,346 people without heart failure followed for about five years. After adjusting for risk factors, higher B-type natriuretic peptide (BNP) levels predicted death, first cardiovascular events, heart failure, atrial fibrillation and stroke, though not coronary events. Risk rose at BNP levels well below those used to diagnose heart failure, supporting BNP as a prognostic marker in people without symptoms.
+pubmed.ncbi.nlm.nih.gov — <https://pubmed.ncbi.nlm.nih.gov/14960742/>
 
-**Long COVID Blood Abnormalities (Nov 2025) — Nature**
-Nature study identifying specific blood abnormalities in long COVID patients: persistent platelet hyperactivation, unusual fibrin microclot formation, and immune dysregulation patterns that distinguish long COVID from normal COVID recovery.
-nature.com
+**Long COVID Blood Abnormalities (Nov 2025) — Journal of Medical Virology**
+Stellenbosch University study with INSERM collaborators, published in the *Journal of Medical Virology* (2025), comparing plasma from people with long COVID and healthy controls. Long COVID patients had more and larger microclots and elevated markers of neutrophil extracellular traps (NETs), and the two were physically associated, more strongly than in controls. A machine-learning model on these biomarkers separated patients from controls; the authors suggest NETs may make clots harder to break down, though a causal role in symptoms is unconfirmed.
+sciencedaily.com — <https://www.sciencedaily.com/releases/2025/11/251112111021.htm>
 
 **2-2-2 Training Method for Men Over 40 (Dec 2025)**
 Training protocol designed for middle-aged athletes: 2 days strength training, 2 days cardiovascular conditioning, and 2 days dedicated mobility and recovery work — balancing all three pillars without overloading any single system in the context of slower recovery.
@@ -985,8 +985,8 @@ Course overview for the Escape from Alcatraz Triathlon: 1.5-mile open water swim
 triathlonista.com — <https://triathlonista.com/escape-from-alcatraz-triathlon/>
 
 **Respiratory Viruses Reignite Dormant Cancer Cells (Jul 2025) — Nature**
-Research showing that respiratory viral infections (influenza, SARS-CoV-2) can reactivate latent cancer cells through NF-κB pathway activation and immune suppression, providing a possible mechanism for the observed post-viral cancer incidence increases.
-nature.com
+*Nature* paper (July 2025) by Chia, DeGregori and colleagues showing that influenza and SARS-CoV-2 infection awakened dormant breast cancer cells in the lungs of mice, producing metastatic lesions within about two weeks. The awakening depended on IL-6, and CD4+ T cells later sustained the expansion by suppressing CD8+ T cells. Observational human data from UK Biobank and Flatiron Health linked COVID-19 to higher mortality in cancer survivors and a higher risk of lung metastasis in breast cancer, though the latter estimate was borderline.
+pmc.ncbi.nlm.nih.gov — <https://pmc.ncbi.nlm.nih.gov/articles/PMC12422975>
 
 **Ozempic / Mounjaro — Rare Eye Risks (Aug 2025)**
 Case reports and retrospective research linking GLP-1 agonist use with non-arteritic anterior ischemic optic neuropathy (NAION) — a rare but serious vision loss condition. Context for understanding the risk-benefit profile of semaglutide and tirzepatide.
@@ -1011,8 +1011,8 @@ Comprehensive review of the Rogue Echo Bike: chain drive vs belt drive Echo Bike
 The Vvolt electric trailer system that attaches to any non-electric bicycle via the rear axle and provides electric-assist power, converting a standard bike to e-assist without replacing the bicycle itself.
 
 **ALSO TM-B Rivian E-Bike (Oct 2025) — Electrek**
-Coverage of the ALSO TM-B electric mountain bike produced in partnership with Rivian branding: full suspension, enduro geometry, and adventure-focused specification for trail and bikepacking use.
-electrek.co
+Electrek's Seth Weintraub on the TM-B, the first e-bike from Rivian spinoff ALSO. It uses a pedal-by-wire system in which pedaling generates electricity to drive the rear wheel via a belt, with no mechanical link, and a modular rear section that swaps between seat, cargo rack and bench. Specs include an 800Wh removable USB-C battery, up to 100 miles of range and short-travel suspension, priced at $4,500 for the Launch and Performance versions.
+electrek.co — <https://electrek.co/2025/10/22/rivians-spinoff-also-invents-the-future-of-e-bikes-but-will-it-sell/>
 
 **Rivian Full-Suspension E-Bike**
 Rivian's announcement of their full-suspension adventure e-bike: specs, motor configuration, battery integration, pricing, and availability timeline. Extends Rivian's electric vehicle brand into the active outdoor electric mobility market.
@@ -1027,24 +1027,24 @@ Research comparing the sled push and back squat for lower body strength developm
 Review of Nigella sativa (black seed / kalonji) research: clinical evidence for anti-inflammatory, antimicrobial, antidiabetic, and lipid-lowering effects. Black seed has been used in Islamic and Ayurvedic medicine for millennia; recent research is quantifying its mechanisms.
 
 **Garlic and Longevity — Study (Nov 2025)**
-Research associating regular garlic consumption with improved cardiovascular markers (lower LDL, blood pressure, reduced arterial stiffness) and extended lifespan in population studies. Allicin and organo-sulfur compounds appear to be the primary active factors.
-pubmed.ncbi.nlm.nih.gov
+Report on a Spanish National Research Council (CSIC) study in *Cell Metabolism* finding that diallyl sulphur compounds, found in garlic, onions and leeks, extended lifespan and improved health in male mice. Treated mice showed better insulin function, less metabolic inflammation, and fewer age-related changes linked to sarcopenia, Alzheimer's and type 2 diabetes. The researchers stress that more research is needed before applying the findings to humans.
+freshplaza.com — <https://www.freshplaza.com/article/9797622/certain-compounds-found-in-garlic-can-increase-the-lifespan-of-mice/>
 
 **Valley Fever — Fungal Infection Explainer (Aug 2025)**
 CDC explainer on coccidioidomycosis (Valley Fever): a soil fungus endemic to the American Southwest that causes serious respiratory illness when spores are inhaled, with an expanding geographic range due to climate change and increasing cases in California's Central Valley.
 cdc.gov — <https://www.cdc.gov/fungal/diseases/coccidioidomycosis/>
 
-**Centenarians Blood Differences — Nature**
-Studies profiling the blood biochemistry of centenarians versus typical elderly: lower inflammation markers (CRP, IL-6), higher HDL, lower glucose and creatinine, and specific immune cell profiles that distinguish exceptional agers from those with typical mortality trajectories.
-nature.com
+**Centenarians Blood Differences — GeroScience**
+Swedish AMORIS cohort study comparing routine blood biomarkers, measured in 1985-1996 at ages 64-99, between 1,224 people who later reached 100 and those who died earlier, with up to 35 years of register follow-up. Future centenarians tended to have lower glucose, creatinine, uric acid and several liver-enzyme levels, and higher total cholesterol and iron, from their sixties onward. The differences appeared more than a decade before death, pointing to possible genetic or lifestyle factors.
+pubmed.ncbi.nlm.nih.gov — <https://pubmed.ncbi.nlm.nih.gov/37726432/>
 
 **Scientists Discover Fat-Burning Switch (Aug 2025) — ScienceDaily**
-Research identifying a molecular switch — possibly a receptor or signaling protein — that when activated significantly increases fat oxidation. Represents a potential pharmaceutical target for obesity and metabolic disease treatment.
-sciencedaily.com
+ScienceDaily release on Pennington Biomedical research in *Nature Metabolism* identifying the amino acid cysteine as the switch. Fat tissue from people in the CALERIE calorie-restriction trial showed reduced cysteine, and in mice, restricting cysteine turned white fat into heat-producing brown-like fat, increasing fat burning and causing substantial weight loss without apparent tissue damage. The work points to cysteine metabolism as a possible target for obesity and metabolic disease.
+sciencedaily.com — <https://www.sciencedaily.com/releases/2025/08/250807233045.htm>
 
-**Blood of Exceptionally Long-Lived People — Nature**
-Research profiling biochemical characteristics in the blood of supercentenarians (110+): the factors present or absent in their blood that differ from healthy 80-year-olds, and what this reveals about the biology of extreme longevity.
-nature.com
+**Blood of Exceptionally Long-Lived People Reveals Key Differences**
+Article on a Swedish study of about 44,000 people whose blood was tested at ages 64-99 and followed for up to 35 years, of whom 1,224 reached 100. Those who became centenarians generally had lower glucose, creatinine and uric acid from their sixties, and few had extreme values. The absolute differences were small, and the study cannot say which genes or lifestyle factors explain them. It concerns centenarians, not supercentenarians.
+tbsnews.net — <https://www.tbsnews.net/bangladesh/health/blood-exceptionally-long-lived-people-reveals-key-differences-790262>
 
 **Pancreatic Cancer and Sedentary Work (Dec 2025)**
 Study linking prolonged occupational sitting with elevated pancreatic cancer risk, independent of leisure-time physical activity. One of the more alarming findings in sedentary behavior research, suggesting breaks from sitting are necessary even for those who exercise regularly.
@@ -1053,16 +1053,16 @@ medicalnewstoday.com — <https://www.medicalnewstoday.com/articles/pancreatic-c
 **Type 4 Diabetes — New Classification (Sep 2025)**
 Emerging research proposing "Type 4 Diabetes" as a distinct category: insulin-resistant lean elderly patients whose disease mechanism involves age-related immune dysfunction and adipose tissue inflammation rather than the obesity-driven mechanism of Type 2 diabetes.
 
-**Playing Wind Instruments Reduces Sleep Apnea Risk (Oct 2025)**
-Study showing that regular wind instrument playing (didgeridoo, oboe, trumpet) strengthens pharyngeal and upper airway musculature, resulting in measurably lower Apnea-Hypopnea Index scores. A non-CPAP sleep apnea management strategy with substantial evidence behind it.
-pubmed.ncbi.nlm.nih.gov
+**Playing Wind Instruments Reduces Sleep Apnea Risk (2015)**
+Report on a small Indian study presented at the 2015 Sleep and Breathing Conference comparing 64 wind instrument players with 65 non-players. Players had a much lower estimated risk of obstructive sleep apnea on the Berlin screening questionnaire, while lung function did not differ. The researchers attribute this to stronger upper-airway muscle tone, though that was not measured and apnea was not diagnosed by sleep study.
+sleepreviewmag.com — <https://sleepreviewmag.com/sleep-disorders/breathing-disorders/obstructive-sleep-apnea/wind-instrument-could-help-lower-sleep-apnea-risk/>
 
 **DOSA Code — Heart Disease, Obesity, and Sleep Apnea Gene (Feb 2026)**
 Research identifying a genetic variant (the "DOSA" gene or gene cluster) linking predisposition to obesity, cardiovascular disease, and obstructive sleep apnea through a shared molecular pathway, potentially explaining why these conditions cluster so strongly in certain families.
 
 **Oura Ring Lobbying in Washington (Feb 2026)**
-Coverage of Oura Ring's lobbying efforts to have wearable health data recognized in healthcare policy: insurance reimbursement for preventive monitoring, FDA regulatory pathways for wearable diagnostics, and the broader digital health advocacy agenda.
-theverge.com
+Coverage of Oura's growing Washington lobbying, which Politico reported rose from about $40,000 in 2024 to over $1 million a year. Oura is pushing to let low-risk wearables offer health-screening features without individual FDA clearance, following the FDA's relaxed January 2026 wellness-device guidance. The piece also covers Oura's work with the Defense Department and Palantir, and privacy questions around wearable data.
+techradar.com — <https://www.techradar.com/health-fitness/oura-shape-us-legislation>
 
 **Body Pod by Hume Health (Jan 2026)**
 The Hume Body Pod — an at-home body composition device using air displacement plethysmography (the same technology as the BOD POD used in clinical settings) — measuring body fat percentage, lean mass, and bone mineral content with gold-standard accuracy in a consumer product.

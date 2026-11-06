@@ -538,8 +538,8 @@ A Wired profile of arXiv, the preprint server that has transformed scientific co
 ## From self-1.md (Oct 2024 – Feb 2026)
 
 **Prime Number Distribution — New Results**
-New progress on understanding the distribution of prime numbers in arithmetic progressions, updating the landscape of Riemann Hypothesis-adjacent work. This Quanta piece surveys recent breakthroughs in analytic number theory that narrow the gap between proved results and the full Generalized Riemann Hypothesis.
-quantamagazine.org — <https://www.quantamagazine.org/...>
+A Quanta piece on recent progress by young mathematicians on how primes are distributed in arithmetic progressions. Its centerpiece is Jared Duker Lichtman's result that controls primes in progressions to moduli about 23% larger than the range the Generalized Riemann Hypothesis would give, beating the 20% record set by James Maynard. The same work yields improved bounds on Goldbach representations, counting the ways an even number can be written as a sum of two primes.
+quantamagazine.org — <https://www.quantamagazine.org/a-new-generation-of-mathematicians-pushes-prime-number-barriers-20231026/>
 
 
 ---
@@ -563,16 +563,16 @@ The classic Yellowstone wolf reintroduction story retold with updated ecological
 
 ---
 
-**GPT-5.2 Solves Physics Olympiad Problems (Feb 2026)**
-A report documenting an AI system achieving near-perfect scores on International Physics Olympiad (IPhO) problems — tasks requiring multi-step quantitative reasoning, diagram interpretation, and physical intuition. The achievement marks a significant milestone in AI capability for scientific problem-solving, raising questions about the nature of physical understanding in language models.
-arxiv.org — <https://arxiv.org/abs/...>
+**GPT-5.2 on Olympiad-Level Science — FrontierScience Benchmark (Jan 2026)**
+An OpenAI paper introducing *FrontierScience*, a benchmark of expert-level scientific reasoning in physics, chemistry and biology. It has an Olympiad track of international-olympiad-style problems written by former medalists and coaches, and a Research track of open-ended PhD-level sub-problems graded with step-by-step rubrics. In initial evaluations GPT-5.2 was the top model, scoring 77% on the Olympiad track but only 25% on the Research track, which the authors note is far from saturated.
+arxiv.org — <https://arxiv.org/abs/2601.21165>
 
 
 ---
 
 **Scientists Discover Fat-Burning Molecular Switch**
-Research identifying a specific molecular receptor (likely an AMPK-related kinase or adipose-tissue G-protein receptor) that triggers a shift from glucose to fat oxidation — a potential obesity and metabolic disease therapy target. Activating this switch could mimic the metabolic effects of fasting or exercise at the cellular level.
-sciencedaily.com — <https://www.sciencedaily.com/...>
+A Pennington Biomedical Research Center study in *Nature Metabolism* finding that depleting the amino acid cysteine switches on fat burning. In fat tissue from CALERIE trial participants who cut calories by about 14% over two years, cysteine levels fell. In mice, systemic cysteine depletion caused substantial weight loss and turned white fat cells into heat-producing brown-like fat, suggesting a possible target for obesity and metabolic disease.
+sciencedaily.com — <https://www.sciencedaily.com/releases/2025/08/250807233045.htm>
 
 
 ---
@@ -585,36 +585,36 @@ earth.com — <https://www.earth.com/news/third-state-of-existence-beyond-life-a
 ---
 
 **Balanced Boulders on San Andreas Fault**
-Study of precariously balanced rocks (PBRs) near the San Andreas Fault used as geological seismoscopes to constrain historical earthquake magnitude and recurrence intervals. The survival of these fragile formations over millennia places upper bounds on past ground-shaking intensity in ways that complement the limited historical written record.
-livescience.com — <https://www.livescience.com/...>
+A Live Science report on research led by Anna Rood of Imperial College London, presented at the December 2023 AGU meeting. Five precariously balanced rocks at Lovejoy Buttes, about 15 km from the Mojave section of the San Andreas Fault, were dated with beryllium-10 and modeled in 3D to work out how much shaking they could have survived, a record spanning roughly 50,000 years. The results suggest shaking from a future magnitude 7.8+ "Big One" could be up to 65% weaker than current U.S. hazard models predict near Los Angeles.
+livescience.com — <https://www.livescience.com/planet-earth/earthquakes/balanced-boulders-on-san-andreas-fault-suggest-the-big-one-wont-be-as-destructive-as-once-thought>
 
 
 ---
 
 **Centenarians Blood Differences (Aug 2025)**
-Blood biomarker analysis comparing centenarians to normally-aged elderly populations, finding significantly lower levels of inflammatory cytokines, blood glucose, liver enzymes, and uric acid — and higher levels of certain immunoprotective factors. The paper argues these patterns suggest active biological mechanisms for sustained health rather than simply slow aging.
-nature.com — <https://www.nature.com/articles/...>
+Coverage of a *GeroScience* study of the Swedish AMORIS cohort, about 44,000 people whose blood was tested at ages 64 to 99 and who were followed for up to 35 years; 1,224 reached 100. People who became centenarians tended from their sixties on to have lower glucose, creatinine and uric acid and rarely had extreme values, and ten of twelve markers were linked to the odds of reaching 100. The differences were mostly small, and the study cannot say which lifestyle factors or genes are responsible.
+tbsnews.net — <https://www.tbsnews.net/bangladesh/health/blood-exceptionally-long-lived-people-reveals-key-differences-790262>
 
 
 ---
 
 **Blood of Exceptionally Long-Lived People**
-Comprehensive blood profiling of supercentenarians (110+ years), revealing unique patterns across lipids, immune markers, and metabolic indicators that distinguish them from healthy octogenarians. The study identifies candidate biomarkers for "healthy aging" that differ from those associated with mere survival, potentially pointing to intervention targets for extending healthspan.
-nature.com — <https://www.nature.com/articles/...>
+A ScienceAlert roundup of studies suggesting that centenarians and supercentenarians have distinctive blood profiles, with favorable markers possibly visible from about age 65. It covers a case study of Maria Branyas, who reached 117 and had healthy immune markers, very low "bad" cholesterol and a youthful gut microbiome; a study of 65 Chinese centenarians with lower fatty acids and related metabolites; and a 2024 study of about 5,000 people linking a metabolite signature to extreme longevity. No single blood test can yet predict lifespan.
+sciencealert.com — <https://www.sciencealert.com/the-blood-of-exceptionally-long-lived-people-shows-crucial-differences>
 
 
 ---
 
 **Long COVID Blood Abnormalities (Nov 2025)**
-Identification of persistent immune dysregulation, microclots, and protein anomalies in the blood of long COVID patients months to years after acute infection. The findings provide biological validation for patient-reported symptoms and suggest specific mechanisms (platelet hyperactivation, fibrinogen microclots) that could be targeted therapeutically.
-nature.com — <https://www.nature.com/articles/...>
+A Stellenbosch University and Montpellier Cancer Institute study in the *Journal of Medical Virology* finding more and larger microclots in the blood of Long COVID patients, along with raised markers of neutrophil extracellular traps (NETs). The two structures were physically associated, much more strongly in patients than in healthy controls, and machine learning on the biomarkers separated patients from controls with high accuracy. The authors propose, as a hypothesis, that NETs stabilize microclots and help them resist breakdown.
+sciencedaily.com — <https://www.sciencedaily.com/releases/2025/11/251112111021.htm>
 
 
 ---
 
 **BNP as Cardiac Mortality Biomarker**
-Research validating B-type natriuretic peptide (BNP) — a hormone secreted by heart muscle under mechanical stress — as a strong independent predictor of cardiovascular death, even in asymptomatic patients. BNP measurement is now a standard component of heart failure diagnosis and prognosis, and this paper helped establish the evidence base for its clinical utility.
-pubmed.ncbi.nlm.nih.gov — <https://pubmed.ncbi.nlm.nih.gov/...>
+A Framingham Heart Study analysis (Wang et al., *New England Journal of Medicine*, 2004) of 3,346 people without heart failure followed for about five years. After adjusting for risk factors, higher B-type natriuretic peptide (BNP) levels predicted death, first cardiovascular events, heart failure, atrial fibrillation and stroke, though not coronary events. Risk rose at BNP levels well below those used to diagnose heart failure, supporting BNP as a prognostic marker in people without symptoms.
+pubmed.ncbi.nlm.nih.gov — <https://pubmed.ncbi.nlm.nih.gov/14960742/>
 
 
 ---
@@ -627,8 +627,8 @@ phys.org — <https://phys.org/news/2024-08-dna-ancestry-people-japan.html>
 ---
 
 **Respiratory Viruses Reignite Dormant Cancer Cells**
-Research identifying a mechanism by which common respiratory viral infections (influenza, coronaviruses) can reactivate dormant disseminated tumor cells via innate immune signaling — specifically through neutrophil extracellular traps (NETs) and inflammatory cytokine cascades. The finding may explain epidemiological links between respiratory illness and cancer recurrence.
-nature.com — <https://www.nature.com/articles/...>
+A *Nature* study (July 2025) led by CU Anschutz with Montefiore Einstein and Utrecht researchers showing that flu and SARS-CoV-2 infections reawakened dormant breast cancer cells in the lungs of mice, with metastatic lesions forming within about two weeks. The reactivation was driven by the inflammatory cytokine IL-6. UK Biobank and Flatiron Health data showed COVID-positive cancer survivors had nearly double the risk of cancer death and about 50% higher risk of lung metastatic progression.
+news.cuanschutz.edu — <https://news.cuanschutz.edu/news-stories/respiratory-viruses-can-wake-up-breast-cancer-cells-in-lungs>
 
 
 ---
@@ -640,8 +640,8 @@ A proposed fourth type of diabetes mellitus — affecting lean elderly individua
 ---
 
 **Playing Wind Instruments and Sleep Apnea**
-An epidemiological study demonstrating that regular wind instrument players (flute, oboe, brass instruments) have significantly lower rates of obstructive sleep apnea than controls, attributed to the strengthening of upper airway muscles through sustained breath pressure control. The finding suggests a low-cost behavioral intervention for sleep apnea risk reduction.
-pubmed.ncbi.nlm.nih.gov — <https://pubmed.ncbi.nlm.nih.gov/...>
+An online survey of 906 active musicians (Ward, York and McCoy, *Journal of Clinical Sleep Medicine*, 2012) that assessed obstructive sleep apnea risk with the Berlin Questionnaire. Double-reed players such as oboists and bassoonists had lower risk than non-wind instrumentalists, and among them more hours of weekly playing predicted lower risk. Single-reed and brass players did not differ significantly, so the benefit appeared specific to high-resistance double-reed instruments.
+pmc.ncbi.nlm.nih.gov — <https://pmc.ncbi.nlm.nih.gov/articles/PMC3365082>
 
 
 ---
@@ -653,8 +653,8 @@ Discovery of a genetic variant (DOSA) linking susceptibility to obesity, cardiov
 ---
 
 **Hippocampal Spatial Representations and Hyperbolic Geometry**
-Research linking the geometry of hippocampal place cell activity to hyperbolic space: the brain's spatial map uses a non-Euclidean geometry that efficiently encodes hierarchical environments. The finding has implications for understanding memory consolidation, spatial navigation disorders, and potentially for designing AI architectures that mimic biological memory systems.
-arxiv.org — <https://arxiv.org/abs/...>
+Research by Huanqiu Zhang, P. Dylan Rich, Albert Lee and Tatyana Sharpee, published in *Nature Neuroscience* in December 2022, showing that hippocampal neurons in rats represent space with a hyperbolic geometry, one that grows outward exponentially. The represented space expanded the longer an animal spent in an environment, and slower movement gave larger representations. The growth was logarithmic, matching the maximum possible increase in information the brain can acquire.
+salk.edu — <https://www.salk.edu/news-release/the-brains-ability-to-perceive-space-expands-like-the-universe/>
 
 
 ---
@@ -674,8 +674,8 @@ medicalnewstoday.com — <https://www.medicalnewstoday.com/articles/blood-pressu
 ---
 
 **Fatty Infiltration in Muscle — Causes and Mechanisms**
-Research on myosteatosis: the mechanism by which intramuscular fat accumulates between and within muscle fibers, impairing force generation and metabolic function. The paper covers causes (aging, inactivity, obesity, corticosteroids), metabolic consequences (insulin resistance, reduced mitochondrial density), and evidence that progressive resistance training can partially reverse fatty infiltration.
-pubmed.ncbi.nlm.nih.gov — <https://pubmed.ncbi.nlm.nih.gov/...>
+A review in *iScience* (Wang, Valencak and Shan, 2024) of myosteatosis, the build-up of fat within skeletal muscle that is tied to declining muscle function. It covers triggers such as aging, obesity and type 2 diabetes, muscular dystrophy, injury and disuse, and identifies fibro/adipogenic progenitors as the main cellular source of the fat. It also surveys signaling pathways, imaging methods, and interventions such as exercise and nutrition, noting that human evidence for most interventions remains limited.
+pmc.ncbi.nlm.nih.gov — <https://pmc.ncbi.nlm.nih.gov/articles/PMC10907799>
 
 
 ---
