@@ -55,6 +55,8 @@ jobs:
           # pl/ — ॐλ only; FP.md (Forays) not ready yet
           cp "src/main/md/pl/ॐλ.md" docs/FP/om-lambda.md
           cp src/main/md/pl/lean-ai-formalization.md docs/FP/
+          cp src/main/md/pl/decision-points-as-effects.md docs/FP/
+          cp src/main/md/pl/decision-cascade.png src/main/md/pl/latency-ladder.png docs/FP/
           # haskell/
           cp src/main/md/haskell/hsom.md docs/FP/
           cp src/main/md/haskell/monoids-and-semigroups.md docs/FP/
@@ -754,6 +756,7 @@ jobs:
               ('kumbaLakAyi-kaLLanalla.md',  'ಕಳ್ಳ — Pumpkin Puzzle',       7),
               ('cloud_flowers_and.md',       'Kojo — Clouds and Flowers',   8),
               ('lean-ai-formalization.md',   'Lean and AI Formalization',   9),
+              ('decision-points-as-effects.md', 'Decision Points as Effects', 10),
           ]
 
           if os.path.isdir(FPDIR):
