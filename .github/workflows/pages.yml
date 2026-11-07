@@ -82,6 +82,13 @@ jobs:
             cp "$f" "$dest"
           done
 
+      - name: Copy Tinkering posts into docs/Tinkering/
+        run: |
+          rm -rf docs/Tinkering || true
+          mkdir -p docs/Tinkering
+          cp src/main/md/tinkering/*.md docs/Tinkering/
+          cp src/main/md/tinkering/*.jpg src/main/md/tinkering/*.svg docs/Tinkering/
+
       - name: Copy Karate articles into docs/karate/
         run: |
           rm -rf docs/karate || true
@@ -781,6 +788,33 @@ jobs:
                       f.write(body)
                   sidebar_files.add(fpath)
 
+          # ── Pass 6b: Tinkering sidebar ────────────────────────────────────────────
+          TINKDIR   = 'docs/Tinkering'
+          TINK_TITLE = 'Tinkering'
+
+          TINK_POSTS = [
+              ('clap-diya.md',               'The Diya That Was Listening', 1),
+          ]
+
+          if os.path.isdir(TINKDIR):
+              idx_path = os.path.join(TINKDIR, 'index.md')
+              with open(idx_path, 'w', encoding='utf-8') as f:
+                  f.write(fm(title=TINK_TITLE, nav_order=8, has_children=True))
+                  f.write('Taking things apart, occasionally putting them back together.\n')
+              sidebar_files.add(idx_path)
+
+              for fname, title, nav_order in TINK_POSTS:
+                  fpath = os.path.join(TINKDIR, fname)
+                  if not os.path.exists(fpath):
+                      continue
+                  with open(fpath, encoding='utf-8') as f:
+                      body = strip_fm(f.read())
+                  body = re.sub(r'\]\(((?!http)[^)]+)\.md\)', r'](\1)', body)
+                  with open(fpath, 'w', encoding='utf-8') as f:
+                      f.write(fm(title=title, parent=TINK_TITLE, nav_order=nav_order))
+                      f.write(body)
+                  sidebar_files.add(fpath)
+
           # ── Pass 7: Reflection sidebar ────────────────────────────────────────────
           REFLDIR    = 'docs/Reflection'
           REFL_TITLE = 'Reflection'
@@ -861,7 +895,7 @@ jobs:
                                       f.write(updated)
 
           # ── Pass 8: nav_exclude all remaining .md files in all docs/ sections ─────
-          for scan_root in [KANNADADIR, FPDIR, REFLDIR]:
+          for scan_root in [KANNADADIR, FPDIR, TINKDIR, REFLDIR]:
               if not os.path.isdir(scan_root):
                   continue
               for walk_root, dirs, files in os.walk(scan_root):
