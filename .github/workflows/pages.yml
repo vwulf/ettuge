@@ -47,6 +47,9 @@ jobs:
           mkdir -p docs/Books/influential
           cp src/main/md/Books/*.md docs/Books/
           cp src/main/md/Books/influential/*.md docs/Books/influential/
+          mkdir -p docs/Books/read docs/Books/covers
+          cp src/main/md/Books/read/*.md docs/Books/read/ 2>/dev/null || true
+          cp src/main/md/Books/covers/*.jpg docs/Books/covers/ 2>/dev/null || true
 
       - name: Copy FP content into docs/FP/
         run: |
@@ -742,12 +745,22 @@ jobs:
                   with open(books_top, 'w', encoding='utf-8') as f:
                       f.write(fm(title='Modern Library Top 100', parent='Books', nav_order=1))
                       f.write(top_body)
+              # Technical.md — sidebar child of Books (textbook catalog)
+              tech_idx = os.path.join(BOOKSDIR, 'Technical.md')
+              if os.path.exists(tech_idx):
+                  with open(tech_idx, encoding='utf-8') as f:
+                      tech_body = strip_fm(f.read())
+                  tech_body = re.sub(r'\]\(((?!http)[^)]+)\.md\)', r'](\1)', tech_body)
+                  with open(tech_idx, 'w', encoding='utf-8') as f:
+                      f.write(fm(title='Technical', parent='Books', nav_order=2))
+                      f.write(tech_body)
               # nav_exclude all individual book files (pages exist; just hidden from sidebar)
-              inf_dir = os.path.join(BOOKSDIR, 'influential')
-              if os.path.isdir(inf_dir):
-                  for fname in os.listdir(inf_dir):
-                      if fname.endswith('.md'):
-                          add_nav_exclude(os.path.join(inf_dir, fname))
+              for sub in ('influential', 'read'):
+                  inf_dir = os.path.join(BOOKSDIR, sub)
+                  if os.path.isdir(inf_dir):
+                      for fname in os.listdir(inf_dir):
+                          if fname.endswith('.md'):
+                              add_nav_exclude(os.path.join(inf_dir, fname))
 
           # ── Pass 6: Functional Programming sidebar ────────────────────────────────
           FPDIR     = 'docs/FP'
