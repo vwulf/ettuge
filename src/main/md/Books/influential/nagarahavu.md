@@ -1,6 +1,8 @@
 # nAgarahAvu (ನಾಗರಹಾವು)
 **Author:** ta ra subba rao | **Published:** 1959 | **Language:** Kannada
 
+<img src="../covers/IMG_0628.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

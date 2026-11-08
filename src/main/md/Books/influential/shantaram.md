@@ -1,6 +1,8 @@
 # Shantaram
 **Author:** Gregory David Roberts | **Published:** 2003
 
+<img src="../covers/IMG_0644.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

@@ -1,6 +1,8 @@
 # Class Warfare: Interviews with David Barsamian
 **Author:** Noam Chomsky (interviewed by David Barsamian) | **Published:** 1996
 
+<img src="../covers/IMG_0566.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

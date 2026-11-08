@@ -1,6 +1,8 @@
 # Things Fall Apart
 **Author:** Chinua Achebe | **Published:** 1958
 
+<img src="../covers/IMG_0659.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

@@ -1,6 +1,8 @@
 # The First Man (Le Premier Homme)
 **Author:** Albert Camus | **Published:** 1994 (posthumously, unfinished) | **Language:** French (translated)
 
+<img src="../covers/IMG_0655.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

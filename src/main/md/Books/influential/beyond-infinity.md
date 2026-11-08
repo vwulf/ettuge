@@ -1,6 +1,8 @@
 # Beyond Infinity: An Expedition to the Outer Limits of Mathematics
 **Author:** Eugenia Cheng | **Published:** 2017
 
+<img src="../covers/IMG_9374.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

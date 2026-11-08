@@ -1,6 +1,8 @@
 # Light on Yoga
 **Author:** B. K. S. Iyengar | **Published:** 1966
 
+<img src="../covers/IMG_0709.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

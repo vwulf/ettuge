@@ -1,6 +1,8 @@
 # The Stranger (L'Étranger)
 **Author:** Albert Camus | **Published:** 1942 | **Language:** French (translated)
 
+<img src="../covers/IMG_0646.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

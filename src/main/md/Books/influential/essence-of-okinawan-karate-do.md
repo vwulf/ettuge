@@ -1,6 +1,8 @@
 # The Essence of Okinawan Karate-Do
 **Author:** Shoshin Nagamine | **Published:** 1976
 
+<img src="../covers/IMG_0685.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

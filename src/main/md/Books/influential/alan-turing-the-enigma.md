@@ -1,6 +1,8 @@
 # Alan Turing: The Enigma
 **Author:** Andrew Hodges | **Published:** 1983
 
+<img src="../covers/IMG_0568.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

@@ -1,6 +1,8 @@
 # The Martial Arts of Indonesia
 **Author:** Donn F. Draeger | **Published:** 1972 (as part of the "Weapons and Fighting Arts of the Indonesian Archipelago")
 
+<img src="../covers/IMG_0708.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

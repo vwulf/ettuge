@@ -1,6 +1,8 @@
 # AvaraNa (ಆವರಣ)
 **Author:** S. L. Bhyrappa | **Published:** 2007 | **Language:** Kannada
 
+<img src="../covers/IMG_0610.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

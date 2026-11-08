@@ -1,6 +1,8 @@
 # A Farewell to Arms
 **Author:** Ernest Hemingway | **Published:** 1929
 
+<img src="../covers/IMG_0649.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

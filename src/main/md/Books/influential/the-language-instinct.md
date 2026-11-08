@@ -1,6 +1,8 @@
 # The Language Instinct
 **Author:** Steven Pinker | **Published:** 1994
 
+<img src="../covers/IMG_0563.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary
