@@ -1,0 +1,506 @@
+[
+ {
+  "id": "t85",
+  "author": "Robert P. Crease",
+  "title": "The Great Equations: Breakthroughs in Science from Pythagoras to Heisenberg",
+  "format": "physical"
+ },
+ {
+  "id": "t86",
+  "author": "Robin Milner, Mads Tofte, Robert Harper, David MacQueen",
+  "title": "The Definition of Standard ML (Revised)",
+  "format": "physical"
+ },
+ {
+  "id": "t87",
+  "author": "Sam Halliday",
+  "title": "Functional Programming for Mortals with Scalaz",
+  "format": "physical"
+ },
+ {
+  "id": "t88",
+  "author": "Scott Wlaschin",
+  "title": "Domain Modeling Made Functional",
+  "format": "physical"
+ },
+ {
+  "id": "t89",
+  "author": "Sebastian Gutierrez",
+  "title": "Data Scientists at Work",
+  "format": "physical"
+ },
+ {
+  "id": "t90",
+  "author": "Abraham Silberschatz, Peter B. Galvin",
+  "title": "Operating System Concepts",
+  "format": "physical"
+ },
+ {
+  "id": "t91",
+  "author": "Simon Marlow",
+  "title": "Parallel and Concurrent Programming in Haskell",
+  "format": "physical"
+ },
+ {
+  "id": "t92",
+  "author": "Steve Klabnik and Carol Nichols",
+  "title": "The Rust Programming Language",
+  "format": "physical"
+ },
+ {
+  "id": "t93",
+  "author": "Steve Long",
+  "title": "The Climbing Handbook",
+  "format": "physical"
+ },
+ {
+  "id": "t94",
+  "author": "Steven S. Muchnick",
+  "title": "Advanced Compiler Design and Implementation",
+  "format": "physical"
+ },
+ {
+  "id": "t95",
+  "author": "Steven S. Skiena",
+  "title": "The Algorithm Design Manual",
+  "format": "physical"
+ },
+ {
+  "id": "t96",
+  "author": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",
+  "title": "Introduction to Algorithms",
+  "format": "physical"
+ },
+ {
+  "id": "t97",
+  "author": "Tilak Rajesh Lakshmana",
+  "title": "Coordinated MultiPoint Transmission with Incomplete Information",
+  "format": "physical"
+ },
+ {
+  "id": "t98",
+  "author": "Tilak Rajesh Lakshmana",
+  "title": "Efficient Backhauling in Cooperative MultiPoint Cellular Networks",
+  "format": "physical"
+ },
+ {
+  "id": "t99",
+  "author": "Tomas Petricek, Phillip Trelford",
+  "title": "F# Deep Dives",
+  "format": "physical"
+ },
+ {
+  "id": "t100",
+  "author": "Vitalik Buterin",
+  "title": "Proof of Stake",
+  "format": "physical"
+ },
+ {
+  "id": "t101",
+  "author": "William Cheung",
+  "title": "Wing Chun Bil Jee: The Deadly Art of Thrusting Fingers",
+  "format": "physical"
+ },
+ {
+  "id": "t102",
+  "author": "Winslow Yerxa",
+  "title": "Harmonica for Dummies",
+  "format": "physical"
+ },
+ {
+  "id": "t103",
+  "author": "Yozo Yoshino",
+  "title": "The Japanese Abacus Explained",
+  "format": "physical"
+ },
+ {
+  "id": "t104",
+  "author": "Alex Xu",
+  "title": "System Design Interview, Vol. 1",
+  "format": "physical"
+ },
+ {
+  "id": "t105",
+  "author": "Stanley B. Lippman & Josée Lajoie",
+  "title": "C++ Primer, 3e",
+  "format": "physical"
+ },
+ {
+  "id": "t106",
+  "author": "Sartaj Sahni",
+  "title": "Data Structures, Algorithms, and Applications in C++",
+  "format": "physical"
+ },
+ {
+  "id": "t107",
+  "author": "Andrew S. Tanenbaum",
+  "title": "Computer Networks, 3e",
+  "format": "physical"
+ },
+ {
+  "id": "t108",
+  "author": "Ramez Elmasri & Shamkant B. Navathe",
+  "title": "Fundamentals of Database Systems, 3e",
+  "format": "physical"
+ },
+ {
+  "id": "t109",
+  "author": "Dennis D. Wackerly, William Mendenhall, Richard L. Scheaffer",
+  "title": "Mathematical Statistics with Applications, 6e",
+  "format": "physical"
+ },
+ {
+  "id": "t110",
+  "author": "Raghu Ramakrishnan & Johannes Gehrke",
+  "title": "Database Management Systems, 3e",
+  "format": "physical"
+ },
+ {
+  "id": "t111",
+  "author": "Richard De Veaux, Paul Velleman, David Bock",
+  "title": "Intro Stats, 2e",
+  "format": "physical"
+ },
+ {
+  "id": "t112",
+  "author": "Dr. D.S.C. (author name incomplete on cover)",
+  "title": "Engineering Mathematics (Applied Maths Part III-B, VTU)",
+  "format": "physical"
+ },
+ {
+  "id": "t113",
+  "author": "William Stallings",
+  "title": "Cryptography and Network Security, 2e",
+  "format": "physical"
+ },
+ {
+  "id": "t114",
+  "author": "W. Richard Stevens",
+  "title": "Advanced Programming in the UNIX Environment",
+  "format": "physical"
+ },
+ {
+  "id": "t115",
+  "author": "Bernard Kolman, Robert C. Busby, Sharon Ross",
+  "title": "Discrete Mathematical Structures, 3e",
+  "format": "physical"
+ },
+ {
+  "id": "t116",
+  "author": "Cay S. Horstmann",
+  "title": "Scala for the Impatient, 3e",
+  "format": "physical"
+ },
+ {
+  "id": "t117",
+  "author": "Chip Huyen",
+  "title": "AI Engineering",
+  "format": "physical"
+ },
+ {
+  "id": "t118",
+  "author": "Andriy Burkov",
+  "title": "The Hundred-Page Language Models Book (spine partly hidden - check)",
+  "format": "physical"
+ },
+ {
+  "id": "t119",
+  "author": "Paul L. Meyer",
+  "title": "Introductory Probability and Statistical Applications",
+  "format": "physical"
+ },
+ {
+  "id": "t120",
+  "author": "Maurice Herlihy, Dmitry Kozlov, Sergio Rajsbaum",
+  "title": "Distributed Computing Through Combinatorial Topology",
+  "format": "digital"
+ },
+ {
+  "id": "t121",
+  "author": "Allen B. Downey",
+  "title": "The Little Book of Semaphores",
+  "format": "digital"
+ },
+ {
+  "id": "t122",
+  "author": "John A. De Goes & Adam Fraser",
+  "title": "Zionomicon",
+  "format": "digital"
+ },
+ {
+  "id": "t123",
+  "author": "Bhadriraju Krishnamurti",
+  "title": "The Dravidian Languages",
+  "format": "digital"
+ },
+ {
+  "id": "t124",
+  "author": "Sergei Winitzki",
+  "title": "The Science of Functional Programming",
+  "format": "digital"
+ },
+ {
+  "id": "t125",
+  "author": "Sergei Winitzki",
+  "title": "Linear Algebra via Exterior Products",
+  "format": "digital"
+ },
+ {
+  "id": "t126",
+  "author": "H. M. Schey",
+  "title": "Div, Grad, Curl, and All That",
+  "format": "digital"
+ },
+ {
+  "id": "t127",
+  "author": "Richard S. Sutton & Andrew G. Barto",
+  "title": "Reinforcement Learning: An Introduction, 2e",
+  "format": "digital"
+ },
+ {
+  "id": "t128",
+  "author": "A. K. Ramanujan (per file name - check)",
+  "title": "A Generative Grammar of Kannada",
+  "format": "digital"
+ },
+ {
+  "id": "t129",
+  "author": "Greg Michaelson",
+  "title": "An Introduction to Functional Programming Through Lambda Calculus",
+  "format": "digital"
+ },
+ {
+  "id": "t130",
+  "author": "Alexander Granin",
+  "title": "Pragmatic Type-Level Design",
+  "format": "digital"
+ },
+ {
+  "id": "t131",
+  "author": "Kenneth H. Rosen",
+  "title": "Discrete Mathematics and Its Applications",
+  "format": "digital"
+ },
+ {
+  "id": "t132",
+  "author": "Benjamin C. Pierce (ed.)",
+  "title": "Advanced Topics in Types and Programming Languages",
+  "format": "digital"
+ },
+ {
+  "id": "t133",
+  "author": "Jean Gallier & Jocelyn Quaintance",
+  "title": "Algebra, Topology, Differential Calculus, and Optimization Theory for Computer Science and Machine Learning",
+  "format": "digital"
+ },
+ {
+  "id": "t134",
+  "author": "Jean Gallier & Jocelyn Quaintance",
+  "title": "Linear Algebra for Computer Vision, Robotics, and Machine Learning",
+  "format": "digital"
+ },
+ {
+  "id": "t135",
+  "author": "Simon L. Peyton Jones",
+  "title": "The Implementation of Functional Programming Languages",
+  "format": "digital"
+ },
+ {
+  "id": "t136",
+  "author": "Simon L. Peyton Jones & David R. Lester",
+  "title": "Implementing Functional Languages: A Tutorial",
+  "format": "digital"
+ },
+ {
+  "id": "t137",
+  "author": "David Thrane Christiansen",
+  "title": "Functional Programming in Lean",
+  "format": "digital"
+ },
+ {
+  "id": "t138",
+  "author": "Xavier Leroy & Didier Rémy",
+  "title": "Unix System Programming in OCaml",
+  "format": "digital"
+ },
+ {
+  "id": "t139",
+  "author": "Glynn Winskel",
+  "title": "The Formal Semantics of Programming Languages",
+  "format": "digital"
+ },
+ {
+  "id": "t140",
+  "author": "F. William Lawvere & Stephen H. Schanuel",
+  "title": "Conceptual Mathematics: A First Introduction to Categories",
+  "format": "digital"
+ },
+ {
+  "id": "t141",
+  "author": "P. M. Cohn",
+  "title": "Universal Algebra",
+  "format": "digital"
+ },
+ {
+  "id": "t142",
+  "author": "Yufei Zhao",
+  "title": "Graph Theory and Additive Combinatorics",
+  "format": "digital"
+ },
+ {
+  "id": "t143",
+  "author": "Benjamin C. Pierce",
+  "title": "Basic Category Theory for Computer Scientists",
+  "format": "digital"
+ },
+ {
+  "id": "t144",
+  "author": "Peter Smith",
+  "title": "Introducing Category Theory, 2e",
+  "format": "digital"
+ },
+ {
+  "id": "t145",
+  "author": "Simon Thompson",
+  "title": "Type Theory and Functional Programming",
+  "format": "digital"
+ },
+ {
+  "id": "t146",
+  "author": "Alfred Tarski",
+  "title": "Introduction to Logic and to the Methodology of the Deductive Sciences",
+  "format": "digital"
+ },
+ {
+  "id": "t147",
+  "author": "Robert Harper",
+  "title": "Practical Foundations for Programming Languages",
+  "format": "digital"
+ },
+ {
+  "id": "t148",
+  "author": "Per Martin-Löf",
+  "title": "Intuitionistic Type Theory",
+  "format": "digital"
+ },
+ {
+  "id": "t149",
+  "author": "J. Roger Hindley & Jonathan P. Seldin",
+  "title": "Lambda-Calculus and Combinators: An Introduction",
+  "format": "digital"
+ },
+ {
+  "id": "t150",
+  "author": "Clive Newstead",
+  "title": "An Infinite Descent into Pure Mathematics",
+  "format": "digital"
+ },
+ {
+  "id": "t151",
+  "author": "Jeremy Avigad, Leonardo de Moura, Soonho Kong, Sebastian Ullrich",
+  "title": "Theorem Proving in Lean 4",
+  "format": "digital"
+ },
+ {
+  "id": "t152",
+  "author": "V. V. Prasolov",
+  "title": "Intuitive Topology",
+  "format": "digital"
+ },
+ {
+  "id": "t153",
+  "author": "Hajime Sato",
+  "title": "Algebraic Topology: An Intuitive Approach",
+  "format": "digital"
+ },
+ {
+  "id": "t154",
+  "author": "Bill Frasure, Bruce Eckel, James Ward",
+  "title": "Effect-Oriented Programming",
+  "format": "digital"
+ },
+ {
+  "id": "t155",
+  "author": "Noel Welsh & Dave Gurnell",
+  "title": "Scala with Cats",
+  "format": "digital"
+ },
+ {
+  "id": "t156",
+  "author": "Richard Hammack",
+  "title": "Book of Proof, 3e",
+  "format": "digital"
+ },
+ {
+  "id": "t157",
+  "author": "T. S. Blyth",
+  "title": "Module Theory: An Approach to Linear Algebra",
+  "format": "digital"
+ },
+ {
+  "id": "t158",
+  "author": "Stuart M. Shieber",
+  "title": "Programming Well: Abstraction and Design in Computation",
+  "format": "digital"
+ },
+ {
+  "id": "t159",
+  "author": "Brendan W. Sullivan",
+  "title": "Everything You Always Wanted to Know About Mathematics",
+  "format": "digital"
+ },
+ {
+  "id": "t160",
+  "author": "William M. Goldman",
+  "title": "Geometric Structures on Manifolds",
+  "format": "digital"
+ },
+ {
+  "id": "t161",
+  "author": "Sze-Tsen Hu",
+  "title": "Homotopy Theory",
+  "format": "digital"
+ },
+ {
+  "id": "t162",
+  "author": "Jonathan Richard Shewchuk",
+  "title": "Concise Machine Learning (lecture notes)",
+  "format": "digital"
+ },
+ {
+  "id": "t163",
+  "author": "Bernd Gärtner & Martin Jaggi",
+  "title": "Optimization for Machine Learning (lecture notes)",
+  "format": "digital"
+ },
+ {
+  "id": "t164",
+  "author": "Oleg Kiselyov",
+  "title": "Compilers: Course Notes",
+  "format": "digital"
+ },
+ {
+  "id": "t165",
+  "author": "Erik Meijer",
+  "title": "Calculating Compilers (PhD dissertation)",
+  "format": "digital"
+ },
+ {
+  "id": "t166",
+  "author": "Donald E. Knuth",
+  "title": "Surreal Numbers",
+  "format": "digital"
+ },
+ {
+  "id": "t167",
+  "author": "Raymond M. Smullyan",
+  "title": "The Riddle of Scheherazade",
+  "format": "digital"
+ },
+ {
+  "id": "t168",
+  "author": "Giansalvo Cirrincione",
+  "title": "Mathematical Theory of the Transformer, Vol. I",
+  "format": "digital"
+ }
+]

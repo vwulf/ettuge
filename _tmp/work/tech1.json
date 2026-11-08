@@ -1,0 +1,512 @@
+[
+ {
+  "id": "t0",
+  "author": "John B. Fraleigh",
+  "title": "A First Course in Abstract Algebra",
+  "format": "physical"
+ },
+ {
+  "id": "t1",
+  "author": "B. G. Umarani & P. G. Umarani",
+  "title": "A Text Book of Mathematics for II Year Pre-University Course",
+  "format": "physical"
+ },
+ {
+  "id": "t2",
+  "author": "Jon Kleinberg & Éva Tardos",
+  "title": "Algorithm Design",
+  "format": "physical"
+ },
+ {
+  "id": "t3",
+  "author": "Andrew Gelman, John B. Carlin, Hal S. Stern, Donald B. Rubin",
+  "title": "Bayesian Data Analysis",
+  "format": "physical"
+ },
+ {
+  "id": "t4",
+  "author": null,
+  "title": "Computational Mathematics",
+  "format": "physical"
+ },
+ {
+  "id": "t5",
+  "author": null,
+  "title": "Computer Networks",
+  "format": "physical"
+ },
+ {
+  "id": "t6",
+  "author": null,
+  "title": "DSL Illuminated",
+  "format": "physical"
+ },
+ {
+  "id": "t7",
+  "author": "Ian Goodfellow, Yoshua Bengio, Aaron Courville",
+  "title": "Deep Learning",
+  "format": "physical"
+ },
+ {
+  "id": "t8",
+  "author": null,
+  "title": "Deliberate Practice in Discrete Mathematics",
+  "format": "physical"
+ },
+ {
+  "id": "t9",
+  "author": "Norman L. Biggs",
+  "title": "Discrete Mathematics",
+  "format": "physical"
+ },
+ {
+  "id": "t10",
+  "author": "Jeffrey D. Ullman",
+  "title": "Elements of ML Programming",
+  "format": "physical"
+ },
+ {
+  "id": "t11",
+  "author": "Scott N. Walck",
+  "title": "Learn Physics With Functional Programming",
+  "format": "physical"
+ },
+ {
+  "id": "t12",
+  "author": null,
+  "title": "Machine Learning",
+  "format": "physical"
+ },
+ {
+  "id": "t13",
+  "author": "Abraham Silberschatz, Peter B. Galvin, Greg Gagne",
+  "title": "Operating System Principles",
+  "format": "physical"
+ },
+ {
+  "id": "t14",
+  "author": "Athanasios Papoulis",
+  "title": "Probability, Random Variables, and Stochastic Processes",
+  "format": "physical"
+ },
+ {
+  "id": "t15",
+  "author": "Michael L. Scott",
+  "title": "Programming Language Pragmatics",
+  "format": "physical"
+ },
+ {
+  "id": "t16",
+  "author": "Raymond M. Smullyan",
+  "title": "Satan, Cantor & Infinity",
+  "format": "physical"
+ },
+ {
+  "id": "t17",
+  "author": null,
+  "title": "Software Engineering Basics",
+  "format": "physical"
+ },
+ {
+  "id": "t18",
+  "author": "Andrew Scott Conning",
+  "title": "The Kodansha Kanji Learner's Course",
+  "format": "physical"
+ },
+ {
+  "id": "t19",
+  "author": "Edwin Brady",
+  "title": "Type-Driven Development With Idris",
+  "format": "physical"
+ },
+ {
+  "id": "t20",
+  "author": "W. Richard Stevens",
+  "title": "UNIX Network Programming",
+  "format": "physical"
+ },
+ {
+  "id": "t21",
+  "author": "Aleksandar Prokopec",
+  "title": "Learning Concurrent Programming in Scala",
+  "format": "physical"
+ },
+ {
+  "id": "t22",
+  "author": "Alex Xu & Sahn Lam",
+  "title": "System Design Interview, Vol. 2",
+  "format": "physical"
+ },
+ {
+  "id": "t23",
+  "author": "Alfred V. Aho, John E. Hopcroft, Jeffrey D. Ullman",
+  "title": "Data Structures and Algorithms",
+  "format": "physical"
+ },
+ {
+  "id": "t24",
+  "author": "Bartosz Milewski",
+  "title": "Category Theory for Programmers",
+  "format": "physical"
+ },
+ {
+  "id": "t25",
+  "author": "Benjamin C. Pierce",
+  "title": "Types and Programming Languages",
+  "format": "physical"
+ },
+ {
+  "id": "t26",
+  "author": "Bjarne Stroustrup",
+  "title": "The C++ Programming Language",
+  "format": "physical"
+ },
+ {
+  "id": "t27",
+  "author": "Brian W Kernighan, Dennis M Ritchie",
+  "title": "The C Programming Language",
+  "format": "physical"
+ },
+ {
+  "id": "t28",
+  "author": "Bryan O'Sullivan, John Goerzen & Don Stewart",
+  "title": "Real World Haskell",
+  "format": "physical"
+ },
+ {
+  "id": "t29",
+  "author": "C. L. Liu",
+  "title": "Elements of Discrete Mathematics",
+  "format": "physical"
+ },
+ {
+  "id": "t30",
+  "author": "Chris Okasaki",
+  "title": "Purely Functional Data Structures",
+  "format": "physical"
+ },
+ {
+  "id": "t31",
+  "author": "Clifford V. Johnson",
+  "title": "The Dialogues",
+  "format": "physical"
+ },
+ {
+  "id": "t32",
+  "author": "Daniel J. Velleman",
+  "title": "How to Prove It",
+  "format": "physical"
+ },
+ {
+  "id": "t33",
+  "author": "Daniel Kahneman",
+  "title": "Thinking, Fast and Slow",
+  "format": "physical"
+ },
+ {
+  "id": "t34",
+  "author": "Daniel P. Friedman & Anurag Mendhekar",
+  "title": "The Little Learner",
+  "format": "physical"
+ },
+ {
+  "id": "t35",
+  "author": "Darrell Max Craig",
+  "title": "IAI: The Art of Drawing the Sword",
+  "format": "physical"
+ },
+ {
+  "id": "t36",
+  "author": "David A. Patterson and John L. Hennessy",
+  "title": "Computer Organization & Design: The Hardware/Software Interface",
+  "format": "physical"
+ },
+ {
+  "id": "t37",
+  "author": "David E. Culler, Jaswinder Pal Singh, Anoop Gupta",
+  "title": "Parallel Computer Architecture: A Hardware/Software Approach",
+  "format": "physical"
+ },
+ {
+  "id": "t38",
+  "author": "Debasish Ghosh",
+  "title": "DSLs in Action",
+  "format": "physical"
+ },
+ {
+  "id": "t39",
+  "author": "Debasish Ghosh",
+  "title": "Functional and Reactive Domain Modeling",
+  "format": "physical"
+ },
+ {
+  "id": "t40",
+  "author": "Don S. Lemons",
+  "title": "Drawing Physics",
+  "format": "physical"
+ },
+ {
+  "id": "t41",
+  "author": "Donald E. Knuth",
+  "title": "The Art of Computer Programming, Volume 3: Sorting and Searching",
+  "format": "physical"
+ },
+ {
+  "id": "t42",
+  "author": "Douglas E. Comer, David L. Stevens",
+  "title": "Internetworking with TCP/IP, Volume II",
+  "format": "physical"
+ },
+ {
+  "id": "t43",
+  "author": "Douglas E. Comer, David L. Stevens",
+  "title": "Internetworking with TCP/IP, Volume III",
+  "format": "physical"
+ },
+ {
+  "id": "t44",
+  "author": "Dr. Joseph Wayne Smith",
+  "title": "Wing Chun Kung-Fu: A Complete Guide - Basic Forms & Principles",
+  "format": "physical"
+ },
+ {
+  "id": "t45",
+  "author": "Dr. Joseph Wayne Smith",
+  "title": "Wing Chun Kung-Fu: A Complete Guide - Fighting & Grappling",
+  "format": "physical"
+ },
+ {
+  "id": "t46",
+  "author": "Donn F. Draeger & Robert W. Smith",
+  "title": "Comprehensive Asian Fighting Arts",
+  "format": "physical"
+ },
+ {
+  "id": "t47",
+  "author": "Emily Riehl",
+  "title": "Category Theory in Context",
+  "format": "physical"
+ },
+ {
+  "id": "t48",
+  "author": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+  "title": "Design Patterns",
+  "format": "physical"
+ },
+ {
+  "id": "t49",
+  "author": "Flavio Junqueira & Benjamin Reed",
+  "title": "ZooKeeper",
+  "format": "physical"
+ },
+ {
+  "id": "t50",
+  "author": "G. Polya",
+  "title": "How to Solve It",
+  "format": "physical"
+ },
+ {
+  "id": "t51",
+  "author": "Ping-gam Go",
+  "title": "Understanding Kanji Characters by Their Ancestral Forms",
+  "format": "physical"
+ },
+ {
+  "id": "t52",
+  "author": "Gayle Laakmann McDowell",
+  "title": "Cracking the Coding Interview",
+  "format": "physical"
+ },
+ {
+  "id": "t53",
+  "author": "George Coulouris, Jean Dollimore, Tim Kindberg",
+  "title": "Distributed Systems: Concepts and Design",
+  "format": "physical"
+ },
+ {
+  "id": "t54",
+  "author": "Gerald M. Weinberg",
+  "title": "Becoming a Technical Leader",
+  "format": "physical"
+ },
+ {
+  "id": "t55",
+  "author": "Hermann Bayer",
+  "title": "Analysis of Genuine Karate",
+  "format": "physical"
+ },
+ {
+  "id": "t56",
+  "author": "Holden Karau & Rachel Warren",
+  "title": "High Performance Spark",
+  "format": "physical"
+ },
+ {
+  "id": "t57",
+  "author": "John R. Levine",
+  "title": "Linkers & Loaders",
+  "format": "physical"
+ },
+ {
+  "id": "t58",
+  "author": "J Das, SK Mullick, P K Chatterjee",
+  "title": "Principles of Digital Communication",
+  "format": "physical"
+ },
+ {
+  "id": "t59",
+  "author": "J. Craig Venter",
+  "title": "A Life Decoded: My Genome: My Life",
+  "format": "physical"
+ },
+ {
+  "id": "t60",
+  "author": "J. Craig Venter",
+  "title": "Life at the Speed of Light: From the Double Helix to the Dawn of Digital Life",
+  "format": "physical"
+ },
+ {
+  "id": "t61",
+  "author": "James Reinders",
+  "title": "Intel Threading Building Blocks",
+  "format": "physical"
+ },
+ {
+  "id": "t62",
+  "author": "James W. Heisig",
+  "title": "Remembering the Kanji",
+  "format": "physical"
+ },
+ {
+  "id": "t63",
+  "author": "Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani",
+  "title": "An Introduction to Statistical Learning",
+  "format": "physical"
+ },
+ {
+  "id": "t64",
+  "author": "Jeremy G. Siek, Lie-Quan Lee, Andrew Lumsdaine",
+  "title": "The Boost Graph Library",
+  "format": "physical"
+ },
+ {
+  "id": "t65",
+  "author": "Jeremy Kun",
+  "title": "A Programmer's Introduction to Mathematics",
+  "format": "physical"
+ },
+ {
+  "id": "t66",
+  "author": "Jesse Dilson",
+  "title": "The Abacus: A Pocket Computer",
+  "format": "physical"
+ },
+ {
+  "id": "t67",
+  "author": "Larry L. Peterson, Bruce S. Davie",
+  "title": "Computer Networks: A Systems Approach",
+  "format": "physical"
+ },
+ {
+  "id": "t68",
+  "author": "John D. Kraus",
+  "title": "Electromagnetics",
+  "format": "physical"
+ },
+ {
+  "id": "t69",
+  "author": "John E. Hopcroft, Jeffrey D. Ullman, Rajeev Motwani",
+  "title": "Introduction to Automata Theory, Languages, and Computation",
+  "format": "physical"
+ },
+ {
+  "id": "t70",
+  "author": "John L. Hennessy, David A. Patterson",
+  "title": "Computer Architecture: A Quantitative Approach",
+  "format": "physical"
+ },
+ {
+  "id": "t71",
+  "author": "Narsingh Deo",
+  "title": "Graph Theory",
+  "format": "physical"
+ },
+ {
+  "id": "t72",
+  "author": "Nihongo Gakushu Ei-Nichi Jiten",
+  "title": "The Modern English-Nihongo Dictionary",
+  "format": "physical"
+ },
+ {
+  "id": "t73",
+  "author": "Rajeev Motwani & Prabhakar Raghavan",
+  "title": "Randomized Algorithms",
+  "format": "physical"
+ },
+ {
+  "id": "t74",
+  "author": "Martin Kleppmann",
+  "title": "Designing Data-Intensive Applications",
+  "format": "physical"
+ },
+ {
+  "id": "t75",
+  "author": "Patrick R. Nicolas",
+  "title": "Scala for Machine Learning",
+  "format": "physical"
+ },
+ {
+  "id": "t76",
+  "author": "Paul Chiusano & Runar Bjarnason",
+  "title": "Functional Programming in Scala",
+  "format": "physical"
+ },
+ {
+  "id": "t77",
+  "author": "Paul Hudak, Donya Quick",
+  "title": "The Haskell School of Music: From Signals to Symphonies",
+  "format": "physical"
+ },
+ {
+  "id": "t78",
+  "author": "Raymond M. Smullyan",
+  "title": "First-Order Logic",
+  "format": "physical"
+ },
+ {
+  "id": "t79",
+  "author": "Raymond M. Smullyan",
+  "title": "The Gödelian Puzzle Book",
+  "format": "physical"
+ },
+ {
+  "id": "t80",
+  "author": "Raymond M. Smullyan",
+  "title": "What is the Name of This Book?",
+  "format": "physical"
+ },
+ {
+  "id": "t81",
+  "author": "Raymond M. Smullyan and Melvin Fitting",
+  "title": "Set Theory and the Continuum Problem",
+  "format": "physical"
+ },
+ {
+  "id": "t82",
+  "author": "Richard Bird",
+  "title": "Pearls of Functional Algorithm Design",
+  "format": "physical"
+ },
+ {
+  "id": "t83",
+  "author": "Richard O. Duda, Peter E. Hart, David G. Stork",
+  "title": "Pattern Classification",
+  "format": "physical"
+ },
+ {
+  "id": "t84",
+  "author": "Robert Nystrom",
+  "title": "Crafting Interpreters",
+  "format": "physical"
+ }
+]
