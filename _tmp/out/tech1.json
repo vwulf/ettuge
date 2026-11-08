@@ -1,0 +1,1107 @@
+[
+ {
+  "id": "t0",
+  "title": "A First Course in Abstract Algebra",
+  "author": "John B. Fraleigh",
+  "published": "1967",
+  "skip": false,
+  "path": [
+   "Mathematics",
+   "Algebra"
+  ],
+  "summary": "Undergraduate introduction to groups, rings, fields and Galois theory; one of the most widely used first texts in abstract algebra, valued for its gentle pace and many exercises.",
+  "edition": ""
+ },
+ {
+  "id": "t1",
+  "title": "A Text Book of Mathematics for II Year Pre-University Course",
+  "author": "B. G. Umarani & P. G. Umarani",
+  "published": "",
+  "skip": false,
+  "path": [
+   "Mathematics",
+   "General and School Mathematics"
+  ],
+  "summary": "Karnataka second-year PUC mathematics textbook covering the state syllabus (algebra, calculus, coordinate geometry and related topics); a regional exam-preparation text with little published review coverage.",
+  "edition": ""
+ },
+ {
+  "id": "t2",
+  "title": "Algorithm Design",
+  "author": "Jon Kleinberg & Éva Tardos",
+  "published": "2005",
+  "skip": false,
+  "path": [
+   "Computer Science",
+   "Algorithms and Data Structures"
+  ],
+  "summary": "Algorithms textbook organized around design techniques (greedy, divide and conquer, dynamic programming, network flow, NP-completeness, approximation); praised for motivating each technique through real problems.",
+  "edition": ""
+ },
+ {
+  "id": "t3",
+  "title": "Bayesian Data Analysis",
+  "author": "Andrew Gelman, John B. Carlin, Hal S. Stern, Donald B. Rubin",
+  "published": "1995",
+  "skip": false,
+  "path": [
+   "Mathematics",
+   "Probability and Statistics"
+  ],
+  "summary": "The standard reference on applied Bayesian statistics, covering hierarchical models, model checking and computation (MCMC); widely used as a graduate text.",
+  "edition": ""
+ },
+ {
+  "id": "t4",
+  "title": "Computational Mathematics",
+  "author": "",
+  "published": "",
+  "skip": false,
+  "path": [
+   "Mathematics",
+   "Analysis and Linear Algebra"
+  ],
+  "summary": "A textbook on computational mathematics (numerical methods and computation-oriented mathematics); the specific author and edition could not be identified from the photo.",
+  "edition": ""
+ },
+ {
+  "id": "t5",
+  "title": "Computer Networks",
+  "author": "",
+  "published": "",
+  "skip": false,
+  "path": [
+   "Computer Science",
+   "Networks and Security"
+  ],
+  "summary": "A general textbook on computer networks (protocol layers, the Internet stack, routing and transport); the specific author and edition could not be identified from the photo.",
+  "edition": ""
+ },
+ {
+  "id": "t6",
+  "title": "DSL Illuminated",
+  "author": "",
+  "published": "",
+  "skip": false,
+  "path": [
+   "Computer Science",
+   "Networks and Security"
+  ],
+  "summary": "A technical book on DSL; the author, edition and even whether it concerns Digital Subscriber Line networking or domain-specific languages could not be confirmed from available sources.",
+  "edition": ""
+ },
+ {
+  "id": "t7",
+  "title": "Deep Learning",
+  "author": "Ian Goodfellow, Yoshua Bengio, Aaron Courville",
+  "published": "2016",
+  "skip": false,
+  "path": [
+   "AI and Machine Learning",
+   "Deep Learning"
+  ],
+  "summary": "Comprehensive MIT Press text covering the mathematical background, modern practice and research frontiers of deep neural networks; long regarded as the field's standard reference.",
+  "edition": ""
+ },
+ {
+  "id": "t8",
+  "title": "Deliberate Practice in Discrete Mathematics",
+  "author": "",
+  "published": "",
+  "skip": false,
+  "path": [
+   "Mathematics",
+   "Discrete Mathematics and Combinatorics"
+  ],
+  "summary": "A practice-oriented discrete mathematics workbook; author and publication details could not be confirmed and little published review coverage exists.",
+  "edition": ""
+ },
+ {
+  "id": "t9",
+  "title": "Discrete Mathematics",
+  "author": "Norman L. Biggs",
+  "published": "1985",
+  "skip": false,
+  "path": [
+   "Mathematics",
+   "Discrete Mathematics and Combinatorics"
+  ],
+  "summary": "Oxford introductory text covering logic, counting, graphs, algorithms and algebraic structures; respected for its rigor and clarity at the undergraduate level.",
+  "edition": ""
+ },
+ {
+  "id": "t10",
+  "title": "Elements of ML Programming",
+  "author": "Jeffrey D. Ullman",
+  "published": "1994",
+  "skip": false,
+  "path": [
+   "Computer Science",
+   "Functional Programming"
+  ],
+  "summary": "Introduction to programming in Standard ML (ML97 in later editions), covering types, pattern matching, higher-order functions and modules; a well-known teaching text for SML.",
+  "edition": ""
+ },
+ {
+  "id": "t11",
+  "title": "Learn Physics with Functional Programming",
+  "author": "Scott N. Walck",
+  "published": "2023",
+  "skip": false,
+  "path": [
+   "Physics and Engineering",
+   "Physics"
+  ],
+  "summary": "No Starch Press book teaching Haskell through Newtonian mechanics and electromagnetism simulations; noted for treating physics as code with types.",
+  "edition": ""
+ },
+ {
+  "id": "t12",
+  "title": "Machine Learning",
+  "author": "",
+  "published": "",
+  "skip": false,
+  "path": [
+   "AI and Machine Learning",
+   "Foundations"
+  ],
+  "summary": "A general machine learning textbook; the specific author and edition could not be identified from the photo.",
+  "edition": ""
+ },
+ {
+  "id": "t13",
+  "title": "Operating System Principles",
+  "author": "Abraham Silberschatz, Peter B. Galvin, Greg Gagne",
+  "published": "2006",
+  "skip": false,
+  "path": [
+   "Computer Science",
+   "Operating Systems and Systems Programming"
+  ],
+  "summary": "Edition of the long-running 'dinosaur book' on processes, scheduling, memory, file systems and protection; one of the most widely adopted OS textbooks.",
+  "edition": ""
+ },
+ {
+  "id": "t14",
+  "title": "Probability, Random Variables, and Stochastic Processes",
+  "author": "Athanasios Papoulis",
+  "published": "1965",
+  "skip": false,
+  "path": [
+   "Mathematics",
+   "Probability and Statistics"
+  ],
+  "summary": "Classic engineering-oriented text on probability theory and random processes; a standard reference in electrical engineering and signal processing for decades.",
+  "edition": ""
+ },
+ {
+  "id": "t15",
+  "title": "Programming Language Pragmatics",
+  "author": "Michael L. Scott",
+  "published": "2000",
+  "skip": false,
+  "path": [
+   "Computer Science",
+   "Programming Languages and Type Theory"
+  ],
+  "summary": "Broad survey of language design and implementation, linking syntax, semantics and compilation across many paradigms; a common text for comparative programming languages courses.",
+  "edition": ""
+ },
+ {
+  "id": "t16",
+  "title": "Satan, Cantor and Infinity",
+  "author": "Raymond M. Smullyan",
+  "published": "1992",
+  "skip": false,
+  "path": [
+   "Mathematics",
+   "Recreational Mathematics"
+  ],
+  "summary": "Collection of logic puzzles (knights and knaves and beyond) that build up to Cantor's ideas about infinity; typical of Smullyan's playful route into serious logic.",
+  "edition": ""
+ },
+ {
+  "id": "t17",
+  "title": "Software Engineering Basics",
+  "author": "",
+  "published": "",
+  "skip": false,
+  "path": [
+   "Computer Science",
+   "Software Design and Engineering"
+  ],
+  "summary": "An introductory software engineering text; the specific author and edition could not be identified from the photo.",
+  "edition": ""
+ },
+ {
+  "id": "t18",
+  "title": "The Kodansha Kanji Learner's Course",
+  "author": "Andrew Scott Conning",
+  "published": "2013",
+  "skip": false,
+  "path": [
+   "Linguistics and Languages",
+   "Japanese"
+  ],
+  "summary": "Sequenced course covering 2,300 kanji with mnemonics and example vocabulary, ordered so components appear before the characters that use them; well regarded among self-learners.",
+  "edition": ""
+ },
+ {
+  "id": "t19",
+  "title": "Type-Driven Development with Idris",
+  "author": "Edwin Brady",
+  "published": "2017",
+  "skip": false,
+  "path": [
+   "Computer Science",
+   "Programming Languages and Type Theory"
+  ],
+  "summary": "Manning book by Idris's creator showing how dependent types can guide program construction; an accessible practical introduction to dependently typed programming.",
+  "edition": ""
+ },
+ {
+  "id": "t20",
+  "title": "UNIX Network Programming",
+  "author": "W. Richard Stevens",
+  "published": "1990",
+  "skip": false,
+  "path": [
+   "Computer Science",
+   "Networks and Security"
+  ],
+  "summary": "The definitive guide to sockets and inter-process communication programming on Unix; long treated as the canonical reference for network programmers.",
+  "edition": ""
+ },
+ {
+  "id": "t21",
+  "title": "Learning Concurrent Programming in Scala",
+  "author": "Aleksandar Prokopec",
+  "published": "2014",
+  "skip": false,
+  "path": [
+   "Computer Science",
+   "Computer Architecture and Parallelism"
+  ],
+  "summary": "Packt book covering the JVM memory model, futures and promises, parallel collections, reactive extensions, STM and actors in Scala; written by a Scala parallel collections author.",
+  "edition": ""
+ },
+ {
+  "id": "t22",
+  "title": "System Design Interview – An Insider's Guide, Volume 2",
+  "author": "Alex Xu & Sahn Lam",
+  "published": "2022",
+  "skip": false,
+  "path": [
+   "Computer Science",
+   "Interviews and Career"
+  ],
+  "summary": "Diagram-heavy walkthroughs of large-scale system design problems (proximity services, payment systems, stock exchanges and more); popular interview-preparation sequel.",
+  "edition": "Vol. 2"
+ },
+ {
+  "id": "t23",
+  "title": "Data Structures and Algorithms",
+  "author": "Alfred V. Aho, John E. Hopcroft, Jeffrey D. Ullman",
+  "published": "1983",
+  "skip": false,
+  "path": [
+   "Computer Science",
+   "Algorithms and Data Structures"
+  ],
+  "summary": "Classic Addison-Wesley text on abstract data types, sorting, searching, graphs and algorithm analysis, presented with Pascal; a foundational undergraduate reference.",
+  "edition": ""
+ },
+ {
+  "id": "t24",
+  "title": "Category Theory for Programmers",
+  "author": "Bartosz Milewski",
+  "published": "2019",
+  "skip": false,
+  "path": [
+   "Mathematics",
+   "Category Theory"
+  ],
+  "summary": "Book version of Milewski's blog series explaining categories, functors, monads, adjunctions and more with Haskell and C++ examples; a popular entry point for programmers.",
+  "edition": ""
+ },
+ {
+  "id": "t25",
+  "title": "Types and Programming Languages",
+  "author": "Benjamin C. Pierce",
+  "published": "2002",
+  "skip": false,
+  "path": [
+   "Computer Science",
+   "Programming Languages and Type Theory"
+  ],
+  "summary": "The standard graduate text on type systems, from the untyped lambda calculus through subtyping, recursive types and polymorphism, with OCaml implementations.",
+  "edition": ""
+ },
+ {
+  "id": "t26",
+  "title": "The C++ Programming Language",
+  "author": "Bjarne Stroustrup",
+  "published": "1985",
+  "skip": false,
+  "path": [
+   "Computer Science",
+   "Programming Languages and Type Theory"
+  ],
+  "summary": "The language's creator's comprehensive reference and tutorial, revised across editions to track the C++ standards; the authoritative book on C++.",
+  "edition": ""
+ },
+ {
+  "id": "t27",
+  "title": "The C Programming Language",
+  "author": "Brian W. Kernighan, Dennis M. Ritchie",
+  "published": "1978",
+  "skip": false,
+  "path": [
+   "Computer Science",
+   "Programming Languages and Type Theory"
+  ],
+  "summary": "'K&R', the concise original description of C by its co-designer; celebrated as a model of clear technical writing.",
+  "edition": ""
+ },
+ {
+  "id": "t28",
+  "title": "Real World Haskell",
+  "author": "Bryan O'Sullivan, John Goerzen & Don Stewart",
+  "published": "2008",
+  "skip": false,
+  "path": [
+   "Computer Science",
+   "Functional Programming"
+  ],
+  "summary": "O'Reilly book applying Haskell to practical tasks (I/O, parsing, databases, concurrency, testing); influential in bringing Haskell to working programmers, though parts are now dated.",
+  "edition": ""
+ },
+ {
+  "id": "t29",
+  "title": "Elements of Discrete Mathematics",
+  "author": "C. L. Liu",
+  "published": "1977",
+  "skip": false,
+  "path": [
+   "Mathematics",
+   "Discrete Mathematics and Combinatorics"
+  ],
+  "summary": "McGraw-Hill computer-science-oriented discrete mathematics text covering sets, combinatorics, graphs, recurrences and algebraic systems; a long-standing course text, especially in India.",
+  "edition": ""
+ },
+ {
+  "id": "t30",
+  "title": "Purely Functional Data Structures",
+  "author": "Chris Okasaki",
+  "published": "1998",
+  "skip": false,
+  "path": [
+   "Computer Science",
+   "Functional Programming"
+  ],
+  "summary": "Expanded from Okasaki's thesis, it shows how to design and analyze efficient immutable data structures using laziness and amortization; the classic work on the subject.",
+  "edition": ""
+ },
+ {
+  "id": "t31",
+  "title": "The Dialogues: Conversations about the Nature of the Universe",
+  "author": "Clifford V. Johnson",
+  "published": "2017",
+  "skip": false,
+  "path": [
+   "Physics and Engineering",
+   "Physics"
+  ],
+  "summary": "Graphic novel by a theoretical physicist in which pairs of characters discuss cosmology, quantum mechanics and other physics ideas; praised as an inventive work of science communication.",
+  "edition": ""
+ },
+ {
+  "id": "t32",
+  "title": "How to Prove It: A Structured Approach",
+  "author": "Daniel J. Velleman",
+  "published": "1994",
+  "skip": false,
+  "path": [
+   "Mathematics",
+   "Foundations and Logic"
+  ],
+  "summary": "Introduction to logic, sets and proof techniques for students moving into abstract mathematics; a widely recommended transition-to-proofs text.",
+  "edition": ""
+ },
+ {
+  "id": "t33",
+  "title": "Thinking, Fast and Slow",
+  "author": "Daniel Kahneman",
+  "published": "2011",
+  "skip": false,
+  "path": [
+   "Other",
+   "Not technical"
+  ],
+  "summary": "Nobel laureate's popular account of the two-systems model of thought and research on heuristics and biases; a bestseller, though some of the priming studies it cites have since failed to replicate.",
+  "edition": ""
+ },
+ {
+  "id": "t34",
+  "title": "The Little Learner: A Straight Line to Deep Learning",
+  "author": "Daniel P. Friedman & Anurag Mendhekar",
+  "published": "2023",
+  "skip": false,
+  "path": [
+   "AI and Machine Learning",
+   "Deep Learning"
+  ],
+  "summary": "MIT Press book in the 'Little' question-and-answer style that builds deep learning concepts from scratch in a Scheme dialect.",
+  "edition": ""
+ },
+ {
+  "id": "t35",
+  "title": "Iai: The Art of Drawing the Sword",
+  "author": "Darrell Max Craig",
+  "published": "1981",
+  "skip": false,
+  "path": [
+   "Other",
+   "Martial Arts"
+  ],
+  "summary": "Tuttle manual on Japanese iaido covering etiquette, equipment and solo sword-drawing forms; an early English-language introduction with little published criticism.",
+  "edition": ""
+ },
+ {
+  "id": "t36",
+  "title": "Computer Organization and Design: The Hardware/Software Interface",
+  "author": "David A. Patterson and John L. Hennessy",
+  "published": "1994",
+  "skip": false,
+  "path": [
+   "Computer Science",
+   "Computer Architecture and Parallelism"
+  ],
+  "summary": "The standard undergraduate text on processor design, the memory hierarchy and the hardware/software boundary, by the Turing Award-winning RISC pioneers.",
+  "edition": ""
+ },
+ {
+  "id": "t37",
+  "title": "Parallel Computer Architecture: A Hardware/Software Approach",
+  "author": "David E. Culler, Jaswinder Pal Singh, Anoop Gupta",
+  "published": "1998",
+  "skip": false,
+  "path": [
+   "Computer Science",
+   "Computer Architecture and Parallelism"
+  ],
+  "summary": "Graduate text on multiprocessor design, cache coherence, interconnects and parallel program workloads; a classic reference for parallel architecture.",
+  "edition": ""
+ },
+ {
+  "id": "t38",
+  "title": "DSLs in Action",
+  "author": "Debasish Ghosh",
+  "published": "2010",
+  "skip": false,
+  "path": [
+   "Computer Science",
+   "Programming Languages and Type Theory"
+  ],
+  "summary": "Manning book on designing internal and external domain-specific languages in Scala, Groovy, Ruby and Clojure, with financial-domain examples.",
+  "edition": ""
+ },
+ {
+  "id": "t39",
+  "title": "Functional and Reactive Domain Modeling",
+  "author": "Debasish Ghosh",
+  "published": "2016",
+  "skip": false,
+  "path": [
+   "Computer Science",
+   "Functional Programming"
+  ],
+  "summary": "Manning book applying algebraic, functional and reactive techniques to domain-driven design in Scala; noted for linking DDD with functional abstractions.",
+  "edition": ""
+ },
+ {
+  "id": "t40",
+  "title": "Drawing Physics: 2,600 Years of Discovery from Thales to Higgs",
+  "author": "Don S. Lemons",
+  "published": "2017",
+  "skip": false,
+  "path": [
+   "Physics and Engineering",
+   "Physics"
+  ],
+  "summary": "MIT Press survey of 51 key ideas in physics, each explained with a hand-drawn illustration and a short essay; well received as an accessible history.",
+  "edition": ""
+ },
+ {
+  "id": "t41",
+  "title": "The Art of Computer Programming, Volume 3: Sorting and Searching",
+  "author": "Donald E. Knuth",
+  "published": "1973",
+  "skip": false,
+  "path": [
+   "Computer Science",
+   "Algorithms and Data Structures"
+  ],
+  "summary": "Knuth's exhaustive mathematical treatment of sorting and searching algorithms; part of the series widely considered the definitive work on algorithm analysis.",
+  "edition": "Vol. 3"
+ },
+ {
+  "id": "t42",
+  "title": "Internetworking with TCP/IP, Volume II: Design, Implementation, and Internals",
+  "author": "Douglas E. Comer, David L. Stevens",
+  "published": "1991",
+  "skip": false,
+  "path": [
+   "Computer Science",
+   "Networks and Security"
+  ],
+  "summary": "Walks through the code of a working TCP/IP implementation, covering IP, ICMP, UDP, TCP and routing internals; a classic companion to Comer's protocol volume.",
+  "edition": "Vol. II"
+ },
+ {
+  "id": "t43",
+  "title": "Internetworking with TCP/IP, Volume III: Client-Server Programming and Applications",
+  "author": "Douglas E. Comer, David L. Stevens",
+  "published": "1993",
+  "skip": false,
+  "path": [
+   "Computer Science",
+   "Networks and Security"
+  ],
+  "summary": "Covers designing and implementing client-server network applications over sockets; part of Comer's well-regarded TCP/IP series.",
+  "edition": "Vol. III"
+ },
+ {
+  "id": "t44",
+  "title": "Wing Chun Kung-Fu: A Complete Guide, Volume 1 – Basic Forms and Principles",
+  "author": "Dr. Joseph Wayne Smith",
+  "published": "",
+  "skip": false,
+  "path": [
+   "Other",
+   "Martial Arts"
+  ],
+  "summary": "Tuttle manual presenting Wing Chun's foundational forms and principles with photo sequences; little published criticism exists.",
+  "edition": "Vol. 1"
+ },
+ {
+  "id": "t45",
+  "title": "Wing Chun Kung-Fu: A Complete Guide, Volume 2 – Fighting and Grappling",
+  "author": "Dr. Joseph Wayne Smith",
+  "published": "",
+  "skip": false,
+  "path": [
+   "Other",
+   "Martial Arts"
+  ],
+  "summary": "Companion volume covering Wing Chun fighting applications and grappling techniques; little published criticism exists.",
+  "edition": "Vol. 2"
+ },
+ {
+  "id": "t46",
+  "title": "Comprehensive Asian Fighting Arts",
+  "author": "Donn F. Draeger & Robert W. Smith",
+  "published": "1980",
+  "skip": false,
+  "path": [
+   "Other",
+   "Martial Arts"
+  ],
+  "summary": "Survey of fighting arts across Asia by two pioneering Western martial arts scholars; long valued as a reference, though later research has revised some historical claims.",
+  "edition": ""
+ },
+ {
+  "id": "t47",
+  "title": "Category Theory in Context",
+  "author": "Emily Riehl",
+  "published": "2016",
+  "skip": false,
+  "path": [
+   "Mathematics",
+   "Category Theory"
+  ],
+  "summary": "Dover graduate introduction covering categories, universal properties, the Yoneda lemma, limits, adjunctions and monads, with examples drawn from across mathematics; freely available and widely recommended.",
+  "edition": ""
+ },
+ {
+  "id": "t48",
+  "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+  "author": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+  "published": "1994",
+  "skip": false,
+  "path": [
+   "Computer Science",
+   "Software Design and Engineering"
+  ],
+  "summary": "The 'Gang of Four' catalog of 23 object-oriented design patterns; hugely influential on software design vocabulary, though critics note several patterns compensate for missing language features.",
+  "edition": ""
+ },
+ {
+  "id": "t49",
+  "title": "ZooKeeper: Distributed Process Coordination",
+  "author": "Flavio Junqueira & Benjamin Reed",
+  "published": "2013",
+  "skip": false,
+  "path": [
+   "Computer Science",
+   "Distributed and Data Systems"
+  ],
+  "summary": "O'Reilly guide by two of ZooKeeper's creators to using and operating it for coordination tasks such as leader election, locks and configuration.",
+  "edition": ""
+ },
+ {
+  "id": "t50",
+  "title": "How to Solve It",
+  "author": "G. Pólya",
+  "published": "1945",
+  "skip": false,
+  "path": [
+   "Mathematics",
+   "Foundations and Logic"
+  ],
+  "summary": "Classic short book on mathematical problem-solving heuristics (understand, plan, carry out, look back); among the most influential works on mathematical thinking.",
+  "edition": ""
+ },
+ {
+  "id": "t51",
+  "title": "Understanding Kanji Characters by Their Ancestral Forms",
+  "author": "Ping-gam Go",
+  "published": "",
+  "skip": false,
+  "path": [
+   "Linguistics and Languages",
+   "Japanese"
+  ],
+  "summary": "Explains kanji through their ancient pictographic and seal-script origins; the kanji edition of the author's book on Chinese characters, with limited critical coverage.",
+  "edition": ""
+ },
+ {
+  "id": "t52",
+  "title": "Cracking the Coding Interview",
+  "author": "Gayle Laakmann McDowell",
+  "published": "2008",
+  "skip": false,
+  "path": [
+   "Computer Science",
+   "Interviews and Career"
+  ],
+  "summary": "Best-selling preparation guide with 189 programming problems and solutions plus advice on technical interviews at large tech companies.",
+  "edition": ""
+ },
+ {
+  "id": "t53",
+  "title": "Distributed Systems: Concepts and Design",
+  "author": "George Coulouris, Jean Dollimore, Tim Kindberg",
+  "published": "1988",
+  "skip": false,
+  "path": [
+   "Computer Science",
+   "Distributed and Data Systems"
+  ],
+  "summary": "Long-running textbook on distributed system models, communication, naming, time, coordination, replication and transactions; a standard course text.",
+  "edition": ""
+ },
+ {
+  "id": "t54",
+  "title": "Becoming a Technical Leader: An Organic Problem-Solving Approach",
+  "author": "Gerald M. Weinberg",
+  "published": "1986",
+  "skip": false,
+  "path": [
+   "Computer Science",
+   "Interviews and Career"
+  ],
+  "summary": "Weinberg's guide to leadership for technical people, built around motivation, organization and innovation; regarded as a classic of software management writing.",
+  "edition": ""
+ },
+ {
+  "id": "t55",
+  "title": "Analysis of Genuine Karate: Misconceptions, Origins, Development, and True Purpose",
+  "author": "Hermann Bayer",
+  "published": "",
+  "skip": false,
+  "path": [
+   "Other",
+   "Martial Arts"
+  ],
+  "summary": "YMAA book examining karate kata, bunkai and history to argue for the art's original self-defense purpose; followed by a second volume, with little published criticism.",
+  "edition": ""
+ },
+ {
+  "id": "t56",
+  "title": "High Performance Spark",
+  "author": "Holden Karau & Rachel Warren",
+  "published": "2017",
+  "skip": false,
+  "path": [
+   "Computer Science",
+   "Distributed and Data Systems"
+  ],
+  "summary": "O'Reilly guide to tuning and scaling Apache Spark jobs (partitioning, joins, memory, Datasets) with Scala examples.",
+  "edition": ""
+ },
+ {
+  "id": "t57",
+  "title": "Linkers and Loaders",
+  "author": "John R. Levine",
+  "published": "1999",
+  "skip": false,
+  "path": [
+   "Computer Science",
+   "Compilers and Language Implementation"
+  ],
+  "summary": "The best-known book devoted to linking, loading, object file formats, relocation and shared libraries; still a go-to reference on the subject.",
+  "edition": ""
+ },
+ {
+  "id": "t58",
+  "title": "Principles of Digital Communication",
+  "author": "J. Das, S. K. Mullick, P. K. Chatterjee",
+  "published": "",
+  "skip": false,
+  "path": [
+   "Physics and Engineering",
+   "Electrical Engineering"
+  ],
+  "summary": "Indian engineering textbook (Wiley Eastern / New Age) on signal representation, detection and estimation for digital communication; a standard text in Indian EE curricula.",
+  "edition": ""
+ },
+ {
+  "id": "t59",
+  "title": "A Life Decoded: My Genome: My Life",
+  "author": "J. Craig Venter",
+  "published": "2007",
+  "skip": false,
+  "path": [
+   "Other",
+   "Not technical"
+  ],
+  "summary": "Venter's memoir of his career and the race to sequence the human genome; reviewers found it vivid but self-promoting.",
+  "edition": ""
+ },
+ {
+  "id": "t60",
+  "title": "Life at the Speed of Light: From the Double Helix to the Dawn of Digital Life",
+  "author": "J. Craig Venter",
+  "published": "2013",
+  "skip": false,
+  "path": [
+   "Other",
+   "Not technical"
+  ],
+  "summary": "Popular-science account of synthetic biology and his team's creation of a cell with a synthetic genome; praised for its subject, though critics noted its self-congratulatory tone.",
+  "edition": ""
+ },
+ {
+  "id": "t61",
+  "title": "Intel Threading Building Blocks",
+  "author": "James Reinders",
+  "published": "2007",
+  "skip": false,
+  "path": [
+   "Computer Science",
+   "Computer Architecture and Parallelism"
+  ],
+  "summary": "O'Reilly guide to Intel's C++ TBB library for task-based multicore parallelism, covering parallel algorithms, containers and the task scheduler.",
+  "edition": ""
+ },
+ {
+  "id": "t62",
+  "title": "Remembering the Kanji",
+  "author": "James W. Heisig",
+  "published": "1977",
+  "skip": false,
+  "path": [
+   "Linguistics and Languages",
+   "Japanese"
+  ],
+  "summary": "Mnemonic method for learning the meanings and writing of the jōyō kanji through stories built from components; very popular, though critics note it defers readings and vocabulary.",
+  "edition": ""
+ },
+ {
+  "id": "t63",
+  "title": "An Introduction to Statistical Learning",
+  "author": "Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani",
+  "published": "2013",
+  "skip": false,
+  "path": [
+   "AI and Machine Learning",
+   "Foundations"
+  ],
+  "summary": "Accessible introduction to regression, classification, resampling, trees, SVMs and unsupervised learning with R (later Python) labs; a widely used free textbook.",
+  "edition": ""
+ },
+ {
+  "id": "t64",
+  "title": "The Boost Graph Library: User Guide and Reference Manual",
+  "author": "Jeremy G. Siek, Lie-Quan Lee, Andrew Lumsdaine",
+  "published": "2001",
+  "skip": false,
+  "path": [
+   "Computer Science",
+   "Algorithms and Data Structures"
+  ],
+  "summary": "Guide and reference for the generic C++ BGL, demonstrating generic programming applied to graph algorithms.",
+  "edition": ""
+ },
+ {
+  "id": "t65",
+  "title": "A Programmer's Introduction to Mathematics",
+  "author": "Jeremy Kun",
+  "published": "2018",
+  "skip": false,
+  "path": [
+   "Mathematics",
+   "Foundations and Logic"
+  ],
+  "summary": "Self-published introduction to proofs, sets, graphs, calculus, linear algebra and more, aimed at programmers and paired with code applications; well received by its target readers.",
+  "edition": ""
+ },
+ {
+  "id": "t66",
+  "title": "The Abacus: A Pocket Computer",
+  "author": "Jesse Dilson",
+  "published": "1968",
+  "skip": false,
+  "path": [
+   "Mathematics",
+   "Recreational Mathematics"
+  ],
+  "summary": "Short St. Martin's Press book on the history of the abacus and how to calculate with it, later reissued as 'The Abacus: The World's First Computing System'.",
+  "edition": ""
+ },
+ {
+  "id": "t67",
+  "title": "Computer Networks: A Systems Approach",
+  "author": "Larry L. Peterson, Bruce S. Davie",
+  "published": "1996",
+  "skip": false,
+  "path": [
+   "Computer Science",
+   "Networks and Security"
+  ],
+  "summary": "Networking textbook emphasizing the design principles behind real systems and protocols; a standard alternative to layer-by-layer texts and now freely available online.",
+  "edition": ""
+ },
+ {
+  "id": "t68",
+  "title": "Electromagnetics",
+  "author": "John D. Kraus",
+  "published": "1953",
+  "skip": false,
+  "path": [
+   "Physics and Engineering",
+   "Electrical Engineering"
+  ],
+  "summary": "Classic engineering electromagnetics text covering static fields, Maxwell's equations, waves, transmission lines and antennas, by the noted antenna pioneer.",
+  "edition": ""
+ },
+ {
+  "id": "t69",
+  "title": "Introduction to Automata Theory, Languages, and Computation",
+  "author": "John E. Hopcroft, Rajeev Motwani, Jeffrey D. Ullman",
+  "published": "1979",
+  "skip": false,
+  "path": [
+   "Computer Science",
+   "Theory of Computation"
+  ],
+  "summary": "The 'Cinderella book', a standard text on finite automata, grammars, Turing machines, decidability and complexity; later editions with Motwani made it more accessible.",
+  "edition": ""
+ },
+ {
+  "id": "t70",
+  "title": "Computer Architecture: A Quantitative Approach",
+  "author": "John L. Hennessy, David A. Patterson",
+  "published": "1990",
+  "skip": false,
+  "path": [
+   "Computer Science",
+   "Computer Architecture and Parallelism"
+  ],
+  "summary": "The graduate standard on processor and memory design, driven by quantitative performance analysis; credited with shaping how architecture is taught.",
+  "edition": ""
+ },
+ {
+  "id": "t71",
+  "title": "Graph Theory with Applications to Engineering and Computer Science",
+  "author": "Narsingh Deo",
+  "published": "1974",
+  "skip": false,
+  "path": [
+   "Mathematics",
+   "Discrete Mathematics and Combinatorics"
+  ],
+  "summary": "Prentice-Hall text on graph theory with applications to networks, coding and algorithms; a staple of Indian engineering curricula.",
+  "edition": ""
+ },
+ {
+  "id": "t72",
+  "title": "The Modern English-Nihongo Dictionary (日本語学習英日辞典)",
+  "author": "Nihongo Gakushū Ei-Nichi Jiten editorial committee",
+  "published": "",
+  "skip": false,
+  "path": [
+   "Linguistics and Languages",
+   "Japanese"
+  ],
+  "summary": "English-to-Japanese learner's dictionary designed for non-native students of Japanese, with example sentences and usage notes; little published review coverage.",
+  "edition": ""
+ },
+ {
+  "id": "t73",
+  "title": "Randomized Algorithms",
+  "author": "Rajeev Motwani & Prabhakar Raghavan",
+  "published": "1995",
+  "skip": false,
+  "path": [
+   "Computer Science",
+   "Algorithms and Data Structures"
+  ],
+  "summary": "The standard reference on randomized algorithm design and probabilistic analysis, covering tail bounds, Markov chains and applications across computing.",
+  "edition": ""
+ },
+ {
+  "id": "t74",
+  "title": "Designing Data-Intensive Applications",
+  "author": "Martin Kleppmann",
+  "published": "2017",
+  "skip": false,
+  "path": [
+   "Computer Science",
+   "Distributed and Data Systems"
+  ],
+  "summary": "O'Reilly survey of the principles behind databases, replication, partitioning, transactions, consistency and stream processing; widely regarded as the go-to book on modern data systems.",
+  "edition": ""
+ },
+ {
+  "id": "t75",
+  "title": "Scala for Machine Learning",
+  "author": "Patrick R. Nicolas",
+  "published": "2014",
+  "skip": false,
+  "path": [
+   "AI and Machine Learning",
+   "Applied ML"
+  ],
+  "summary": "Packt book implementing classic machine learning algorithms (regression, clustering, Markov models, SVMs, neural networks) in Scala.",
+  "edition": ""
+ },
+ {
+  "id": "t76",
+  "title": "Functional Programming in Scala",
+  "author": "Paul Chiusano & Rúnar Bjarnason",
+  "published": "2014",
+  "skip": false,
+  "path": [
+   "Computer Science",
+   "Functional Programming"
+  ],
+  "summary": "The 'red book': an exercise-driven course in deriving functional abstractions (monoids, monads, applicatives, streams) from first principles; considered a classic of FP pedagogy.",
+  "edition": ""
+ },
+ {
+  "id": "t77",
+  "title": "The Haskell School of Music: From Signals to Symphonies",
+  "author": "Paul Hudak, Donya Quick",
+  "published": "2018",
+  "skip": false,
+  "path": [
+   "Computer Science",
+   "Functional Programming"
+  ],
+  "summary": "Cambridge book teaching Haskell through computer music using the Euterpea library, covering algorithmic composition and signal processing.",
+  "edition": ""
+ },
+ {
+  "id": "t78",
+  "title": "First-Order Logic",
+  "author": "Raymond M. Smullyan",
+  "published": "1968",
+  "skip": false,
+  "path": [
+   "Mathematics",
+   "Foundations and Logic"
+  ],
+  "summary": "Concise monograph that popularized analytic tableaux as a proof method for first-order logic; admired for its elegance and still in print from Dover.",
+  "edition": ""
+ },
+ {
+  "id": "t79",
+  "title": "The Gödelian Puzzle Book: Puzzles, Paradoxes and Proofs",
+  "author": "Raymond M. Smullyan",
+  "published": "2013",
+  "skip": false,
+  "path": [
+   "Mathematics",
+   "Recreational Mathematics"
+  ],
+  "summary": "Dover collection of logic puzzles leading readers toward Gödel's incompleteness theorems, written in Smullyan's characteristic playful style.",
+  "edition": ""
+ },
+ {
+  "id": "t80",
+  "title": "What Is the Name of This Book?",
+  "author": "Raymond M. Smullyan",
+  "published": "1978",
+  "skip": false,
+  "path": [
+   "Mathematics",
+   "Recreational Mathematics"
+  ],
+  "summary": "Smullyan's best-known puzzle book, introducing knights-and-knaves puzzles and building to Gödel's incompleteness ideas; a classic of recreational logic.",
+  "edition": ""
+ },
+ {
+  "id": "t81",
+  "title": "Set Theory and the Continuum Problem",
+  "author": "Raymond M. Smullyan and Melvin Fitting",
+  "published": "1996",
+  "skip": false,
+  "path": [
+   "Mathematics",
+   "Foundations and Logic"
+  ],
+  "summary": "Graduate text on axiomatic set theory leading to the independence of the continuum hypothesis via constructibility and forcing; praised for its clear, unified treatment.",
+  "edition": ""
+ },
+ {
+  "id": "t82",
+  "title": "Pearls of Functional Algorithm Design",
+  "author": "Richard Bird",
+  "published": "2010",
+  "skip": false,
+  "path": [
+   "Computer Science",
+   "Functional Programming"
+  ],
+  "summary": "Thirty short chapters deriving efficient Haskell algorithms through equational reasoning; a celebrated showcase of program calculation.",
+  "edition": ""
+ },
+ {
+  "id": "t83",
+  "title": "Pattern Classification",
+  "author": "Richard O. Duda, Peter E. Hart, David G. Stork",
+  "published": "1973",
+  "skip": false,
+  "path": [
+   "AI and Machine Learning",
+   "Foundations"
+  ],
+  "summary": "Classic text on statistical pattern recognition (Bayesian decision theory, parametric and nonparametric methods, neural networks, clustering); the 2001 second edition added Stork.",
+  "edition": ""
+ },
+ {
+  "id": "t84",
+  "title": "Crafting Interpreters",
+  "author": "Robert Nystrom",
+  "published": "2021",
+  "skip": false,
+  "path": [
+   "Computer Science",
+   "Compilers and Language Implementation"
+  ],
+  "summary": "Hands-on book building a tree-walking interpreter in Java and a bytecode VM in C for the Lox language; widely praised for its clarity and illustrations.",
+  "edition": ""
+ }
+]
