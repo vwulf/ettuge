@@ -1,6 +1,8 @@
 # Siddhartha
 **Author:** Hermann Hesse | **Published:** 1922
 
+<img src="../covers/OL_6562535.jpg" width="140" alt="cover">
+
 
 
 ---

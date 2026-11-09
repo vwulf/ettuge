@@ -1,6 +1,8 @@
 # Redeeming the Kamasutra
 **Author:** Wendy Doniger | **Published:** 2016
 
+<img src="../covers/OL_15230736.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

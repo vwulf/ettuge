@@ -1,6 +1,8 @@
 # First Among Equals
 **Author:** Jeffrey Archer | **Published:** 1984
 
+<img src="../covers/OL_405730.jpg" width="140" alt="cover">
+
 
 
 ---

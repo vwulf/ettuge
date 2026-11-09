@@ -1,6 +1,8 @@
 # The Naked Ape: A Zoologist's Study of the Human Animal
 **Author:** Desmond Morris | **Published:** 1967
 
+<img src="../covers/OL_12887819.jpg" width="140" alt="cover">
+
 
 
 ---

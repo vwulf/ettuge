@@ -1,6 +1,8 @@
 # The Catcher in the Rye
 **Author:** J. D. Salinger | **Published:** 1951
 
+<img src="../covers/OL_9273490.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

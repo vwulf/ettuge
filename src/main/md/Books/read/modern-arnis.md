@@ -1,6 +1,8 @@
 # Modern Arnis: The Filipino Art of Stick Fighting
 **Author:** Remy Presas | **Published:** 1983
 
+<img src="../covers/IMG_0681.jpg" width="140" alt="cover">
+
 
 
 ---

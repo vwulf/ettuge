@@ -1,6 +1,8 @@
 # Smoke and Ashes: Opium's Hidden Histories
 **Author:** Amitav Ghosh | **Published:** 2023
 
+<img src="../covers/OL_14799308.jpg" width="140" alt="cover">
+
 
 
 ---

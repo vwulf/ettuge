@@ -1,6 +1,8 @@
 # The Silk Roads: A New History
 **Author:** Peter Frankopan | **Published:** 2015
 
+<img src="../covers/OL_8963642.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

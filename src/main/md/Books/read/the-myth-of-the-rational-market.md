@@ -1,6 +1,8 @@
 # The Myth of the Rational Market: A History of Risk, Reward, and Delusion on Wall Street
 **Author:** Justin Fox | **Published:** 2009
 
+<img src="../covers/IMG_0573.jpg" width="140" alt="cover">
+
 
 
 ---

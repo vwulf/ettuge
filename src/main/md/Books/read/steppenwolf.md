@@ -1,6 +1,8 @@
 # Steppenwolf
 **Author:** Hermann Hesse | **Published:** 1927
 
+<img src="../covers/OL_14911616.jpg" width="140" alt="cover">
+
 
 
 ---

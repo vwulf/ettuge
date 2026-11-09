@@ -1,6 +1,8 @@
 # Lila: An Inquiry into Morals
 **Author:** Robert M. Pirsig | **Published:** 1991
 
+<img src="../covers/OL_13011756.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

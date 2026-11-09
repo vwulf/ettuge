@@ -1,6 +1,8 @@
 # One Flew Over the Cuckoo's Nest
 **Author:** Ken Kesey | **Published:** 1962
 
+<img src="../covers/OL_9272688.jpg" width="140" alt="cover">
+
 
 
 ---

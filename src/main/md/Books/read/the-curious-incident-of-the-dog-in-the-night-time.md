@@ -1,6 +1,8 @@
 # The Curious Incident of the Dog in the Night-Time
 **Author:** Mark Haddon | **Published:** 2003
 
+<img src="../covers/OL_7890719.jpg" width="140" alt="cover">
+
 
 
 ---

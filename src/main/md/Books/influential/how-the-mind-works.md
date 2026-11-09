@@ -1,6 +1,8 @@
 # How the Mind Works
 **Author:** Steven Pinker | **Published:** 1997
 
+<img src="../covers/OL_98977.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

@@ -1,6 +1,8 @@
 # Narcissus and Goldmund (Narziß und Goldmund)
 **Author:** Hermann Hesse | **Published:** 1930 | **Language:** German (translated)
 
+<img src="../covers/OL_8529776.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

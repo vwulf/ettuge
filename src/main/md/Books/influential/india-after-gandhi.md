@@ -1,6 +1,8 @@
 # India After Gandhi: The History of the World's Largest Democracy
 **Author:** Ramachandra Guha | **Published:** 2007
 
+<img src="../covers/OL_6821235.jpg" width="140" alt="cover">
+
 
 
 ---

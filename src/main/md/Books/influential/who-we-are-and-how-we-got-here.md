@@ -1,6 +1,8 @@
 # Who We Are and How We Got Here: Ancient DNA and the New Science of the Human Past
 **Author:** David Reich | **Published:** 2018
 
+<img src="../covers/OL_8800150.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

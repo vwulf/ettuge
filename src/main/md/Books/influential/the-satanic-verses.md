@@ -1,6 +1,8 @@
 # The Satanic Verses
 **Author:** Salman Rushdie | **Published:** 1988
 
+<img src="../covers/OL_8312209.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

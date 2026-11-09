@@ -1,6 +1,8 @@
 # Kim
 **Author:** Rudyard Kipling | **Published:** 1901
 
+<img src="../covers/OL_6655046.jpg" width="140" alt="cover">
+
 
 
 ---

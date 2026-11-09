@@ -1,6 +1,8 @@
 # The Great Gatsby
 **Author:** F. Scott Fitzgerald | **Published:** 1925
 
+<img src="../covers/OL_10590366.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

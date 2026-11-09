@@ -1,6 +1,8 @@
 # The Anarchy: The Relentless Rise of the East India Company
 **Author:** William Dalrymple | **Published:** 2019
 
+<img src="../covers/OL_9134924.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

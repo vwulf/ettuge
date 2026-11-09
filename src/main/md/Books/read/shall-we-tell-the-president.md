@@ -1,6 +1,8 @@
 # Shall We Tell the President?
 **Author:** Jeffrey Archer | **Published:** 1977
 
+<img src="../covers/OL_6964813.jpg" width="140" alt="cover">
+
 
 
 ---

@@ -1,6 +1,8 @@
 # The Gene: An Intimate History
 **Author:** Siddhartha Mukherjee | **Published:** 2016
 
+<img src="../covers/OL_11320163.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

@@ -1,6 +1,8 @@
 # The Fountainhead
 **Author:** Ayn Rand | **Published:** 1943
 
+<img src="../covers/OL_6767765.jpg" width="140" alt="cover">
+
 
 
 ---

@@ -1,6 +1,8 @@
 # To Kill a Mockingbird
 **Author:** Harper Lee | **Published:** 1960
 
+<img src="../covers/OL_14351077.jpg" width="140" alt="cover">
+
 
 
 ---

@@ -1,6 +1,8 @@
 # The Path to Power (The Years of Lyndon Johnson, Volume I)
 **Author:** Robert A. Caro | **Published:** 1982
 
+<img src="../covers/OL_12869907.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

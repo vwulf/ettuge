@@ -1,6 +1,8 @@
 # The Odessa File
 **Author:** Frederick Forsyth | **Published:** 1972
 
+<img src="../covers/OL_6630437.jpg" width="140" alt="cover">
+
 
 
 ---

@@ -1,6 +1,8 @@
 # Stick Fighting for Self-Defense: Yawara, Aikido, Cane, Police Club, Quarter-Staff
 **Author:** Bruce Tegner
 
+<img src="../covers/IMG_0687.jpg" width="140" alt="cover">
+
 
 
 ---

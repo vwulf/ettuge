@@ -1,6 +1,8 @@
 # Jurassic Park
 **Author:** Michael Crichton | **Published:** 1990
 
+<img src="../covers/OL_12882940.jpg" width="140" alt="cover">
+
 
 
 ---

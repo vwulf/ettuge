@@ -1,6 +1,8 @@
 # In Dubious Battle
 **Author:** John Steinbeck | **Published:** 1936
 
+<img src="../covers/OL_6517309.jpg" width="140" alt="cover">
+
 
 
 ---

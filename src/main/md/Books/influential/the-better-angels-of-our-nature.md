@@ -1,6 +1,8 @@
 # The Better Angels of Our Nature
 **Author:** Steven Pinker | **Published:** 2011
 
+<img src="../covers/OL_7906239.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

@@ -1,6 +1,8 @@
 # The Lost World
 **Author:** Michael Crichton | **Published:** 1995
 
+<img src="../covers/OL_10656102.jpg" width="140" alt="cover">
+
 
 
 ---

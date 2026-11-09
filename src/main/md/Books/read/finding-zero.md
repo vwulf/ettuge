@@ -1,6 +1,8 @@
 # Finding Zero: A Mathematician's Odyssey to Uncover the Origins of Numbers
 **Author:** Amir D. Aczel | **Published:** 2015
 
+<img src="../covers/OL_10241015.jpg" width="140" alt="cover">
+
 
 
 ---

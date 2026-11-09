@@ -1,6 +1,8 @@
 # The Golden Road: How Ancient India Transformed the World
 **Author:** William Dalrymple | **Published:** 2024 | **Status:** partially read
 
+<img src="../covers/OL_14817293.jpg" width="140" alt="cover">
+
 
 
 ---

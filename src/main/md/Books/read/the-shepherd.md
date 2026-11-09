@@ -1,6 +1,8 @@
 # The Shepherd
 **Author:** Frederick Forsyth | **Published:** 1975
 
+<img src="../covers/OL_77752.jpg" width="140" alt="cover">
+
 
 
 ---

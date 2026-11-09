@@ -1,6 +1,8 @@
 # How to Bake Pi: An Edible Exploration of the Mathematics of Mathematics
 **Author:** Eugenia Cheng | **Published:** 2015
 
+<img src="../covers/OL_7394785.jpg" width="140" alt="cover">
+
 
 
 ---

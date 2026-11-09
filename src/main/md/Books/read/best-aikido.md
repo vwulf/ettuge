@@ -1,6 +1,8 @@
 # Best Aikido: The Fundamentals
 **Author:** Kisshomaru Ueshiba & Moriteru Ueshiba | **Published:** 2002
 
+<img src="../covers/IMG_0690.jpg" width="140" alt="cover">
+
 
 
 ---

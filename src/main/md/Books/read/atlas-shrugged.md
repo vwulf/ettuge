@@ -1,6 +1,8 @@
 # Atlas Shrugged
 **Author:** Ayn Rand | **Published:** 1957
 
+<img src="../covers/OL_362277.jpg" width="140" alt="cover">
+
 
 
 ---

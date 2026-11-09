@@ -1,6 +1,8 @@
 # Martial Artists of Ryukyu: A Legacy by Motobu Choki
 **Author:** Motobu Choki (translated by Andreas Quast) | **Published:** 1932
 
+<img src="../covers/IMG_0695.jpg" width="140" alt="cover">
+
 
 
 ---

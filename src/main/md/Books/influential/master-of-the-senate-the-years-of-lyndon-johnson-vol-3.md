@@ -1,6 +1,8 @@
 # Master of the Senate (The Years of Lyndon Johnson, Vol. 3)
 **Author:** Robert A. Caro | **Published:** 2002
 
+<img src="../covers/OL_12869915.jpg" width="140" alt="cover">
+
 
 
 ---

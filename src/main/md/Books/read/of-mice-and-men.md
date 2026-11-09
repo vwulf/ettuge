@@ -1,6 +1,8 @@
 # Of Mice and Men
 **Author:** John Steinbeck | **Published:** 1937
 
+<img src="../covers/OL_14319003.jpg" width="140" alt="cover">
+
 
 
 ---

@@ -1,6 +1,8 @@
 # Something Happened
 **Author:** Joseph Heller | **Published:** 1974
 
+<img src="../covers/OL_4467955.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

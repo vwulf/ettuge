@@ -1,6 +1,8 @@
 # The Passage of Power (The Years of Lyndon Johnson, Vol. 4)
 **Author:** Robert A. Caro | **Published:** 2012
 
+<img src="../covers/OL_12869926.jpg" width="140" alt="cover">
+
 
 
 ---

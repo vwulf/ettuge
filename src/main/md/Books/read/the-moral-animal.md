@@ -1,6 +1,8 @@
 # The Moral Animal: Why We Are the Way We Are: The New Science of Evolutionary Psychology
 **Author:** Robert Wright | **Published:** 1994
 
+<img src="../covers/OL_421271.jpg" width="140" alt="cover">
+
 
 
 ---
