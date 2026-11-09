@@ -1,6 +1,8 @@
 # A Suitable Boy
 **Author:** Vikram Seth | **Published:** 1993
 
+<img src="../covers/IMG_0668.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

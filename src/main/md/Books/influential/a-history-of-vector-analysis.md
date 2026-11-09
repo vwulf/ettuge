@@ -1,6 +1,8 @@
 # A History of Vector Analysis: The Evolution of the Idea of a Vectorial System
 **Author:** Michael J. Crowe | **Published:** 1967
 
+<img src="../covers/IMG_0525.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

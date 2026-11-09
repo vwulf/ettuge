@@ -1,6 +1,8 @@
 # Catch-22
 **Author:** Joseph Heller | **Published:** 1961
 
+<img src="../covers/IMG_0673.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

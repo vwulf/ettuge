@@ -1,6 +1,8 @@
 # Stretching Scientifically: A Guide to Flexibility Training
 **Author:** Thomas Kurz | **Published:** 1987 (revised editions through 2003)
 
+<img src="../covers/IMG_0700.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

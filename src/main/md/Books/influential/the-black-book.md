@@ -1,6 +1,8 @@
 # The Black Book (Kara Kitap)
 **Author:** Orhan Pamuk | **Published:** 1990 | **Language:** Turkish (translated)
 
+<img src="../covers/IMG_0648.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

@@ -1,6 +1,8 @@
 # Alone on the Wall
 **Author:** Alex Honnold (with David Roberts) | **Published:** 2015 (revised 2018)
 
+<img src="../covers/IMG_0560.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

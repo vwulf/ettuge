@@ -1,6 +1,8 @@
 # Disgrace
 **Author:** J. M. Coetzee | **Published:** 1999
 
+<img src="../covers/IMG_0662.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

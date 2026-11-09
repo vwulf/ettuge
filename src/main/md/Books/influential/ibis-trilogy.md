@@ -1,6 +1,8 @@
 # Ibis Trilogy
 **Author:** Amitav Ghosh | **Published:** 2008–2015 (Sea of Poppies, River of Smoke, Flood of Fire)
 
+<img src="../covers/IMG_0643.jpg" width="140" alt="cover"> <img src="../covers/IMG_0452.jpg" width="140" alt="cover"> <img src="../covers/IMG_0638.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

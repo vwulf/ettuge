@@ -1,6 +1,8 @@
 # Ashtavakra Gita (aShTAvakra gItA)
 **Author:** Unknown (attributed to the sage Ashtavakra) | **Period:** Uncertain (estimated 1st millennium CE)
 
+<img src="../covers/IMG_0621.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

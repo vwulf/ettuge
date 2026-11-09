@@ -1,6 +1,8 @@
 # The Feast of the Goat (La Fiesta del Chivo)
 **Author:** Mario Vargas Llosa | **Published:** 2000 | **Language:** Spanish (translated)
 
+<img src="../covers/IMG_0639.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

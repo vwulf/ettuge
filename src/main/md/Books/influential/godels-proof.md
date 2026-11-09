@@ -1,6 +1,8 @@
 # Gödel's Proof
 **Author:** Ernest Nagel & James R. Newman | **Published:** 1958
 
+<img src="../covers/IMG_0534.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

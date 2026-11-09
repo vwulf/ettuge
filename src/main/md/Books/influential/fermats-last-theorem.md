@@ -1,6 +1,8 @@
 # Fermat's Last Theorem
 **Author:** Simon Singh | **Published:** 1997
 
+<img src="../covers/IMG_0576.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

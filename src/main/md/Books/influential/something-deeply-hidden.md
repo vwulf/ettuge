@@ -1,6 +1,8 @@
 # Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime
 **Author:** Sean Carroll | **Published:** 2019
 
+<img src="../covers/IMG_0453.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

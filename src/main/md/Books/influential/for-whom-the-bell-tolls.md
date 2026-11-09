@@ -1,6 +1,8 @@
 # For Whom the Bell Tolls
 **Author:** Ernest Hemingway | **Published:** 1940
 
+<img src="../covers/IMG_0652.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

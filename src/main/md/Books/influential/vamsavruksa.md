@@ -1,6 +1,8 @@
 # VamSaVrukSa (ವಂಶವೃಕ್ಷ)
 **Author:** S. L. Bhyrappa (ಎಸ್. ಎಲ್. ಭೈರಪ್ಪ) | **Published:** 1965 | **Language:** Kannada
 
+<img src="../covers/IMG_0631.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

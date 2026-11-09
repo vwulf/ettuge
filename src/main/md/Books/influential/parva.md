@@ -1,6 +1,8 @@
 # Parva
 **Author:** S. L. Bhyrappa | **Published:** 1979 | **Language:** Kannada
 
+<img src="../covers/IMG_0449.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

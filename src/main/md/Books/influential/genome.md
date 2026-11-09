@@ -1,6 +1,8 @@
 # Genome: The Autobiography of a Species in 23 Chapters
 **Author:** Matt Ridley | **Published:** 1999
 
+<img src="../covers/IMG_0504.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

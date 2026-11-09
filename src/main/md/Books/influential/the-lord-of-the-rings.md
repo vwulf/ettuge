@@ -1,6 +1,8 @@
 # The Lord of the Rings
 **Author:** J. R. R. Tolkien | **Published:** 1954–1955
 
+<img src="../covers/IMG_0349.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

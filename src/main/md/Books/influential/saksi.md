@@ -1,6 +1,8 @@
 # SAkSi (ಸಾಕ್ಷಿ)
 **Author:** S. L. Bhyrappa | **Published:** 1965 | **Language:** Kannada
 
+<img src="../covers/IMG_0713.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

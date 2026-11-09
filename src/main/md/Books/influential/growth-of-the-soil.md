@@ -1,6 +1,8 @@
 # Growth of the Soil (Markens Grøde)
 **Author:** Knut Hamsun | **Published:** 1917 | **Language:** Norwegian (translated)
 
+<img src="../covers/IMG_0647.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

@@ -1,6 +1,8 @@
 # A Random Walk Down Wall Street
 **Author:** Burton G. Malkiel | **Published:** 1973 (updated through 12th edition, 2019)
 
+<img src="../covers/IMG_0574.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary
