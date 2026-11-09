@@ -1,7 +1,7 @@
 # Rasaphala (ರಸಫಲ)
 **Author:** Gorur Ramaswamy Iyengar
 
-
+<img src="../covers/IMG_0598.jpg" width="140" alt="cover">
 
 ---
 

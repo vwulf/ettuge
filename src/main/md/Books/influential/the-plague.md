@@ -1,8 +1,6 @@
 # The Plague (La Peste)
 **Author:** Albert Camus | **Published:** 1947 | **Language:** French (translated)
 
-<img src="../covers/IMG_0572.jpg" width="140" alt="cover">
-
 ---
 
 ## Summary

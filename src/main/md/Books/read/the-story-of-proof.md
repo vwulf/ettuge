@@ -1,8 +1,6 @@
 # The Story of Proof: Logic and the History of Mathematics
 **Author:** John Stillwell | **Published:** 2022 | **Status:** partially read
 
-<img src="../covers/IMG_9393.jpg" width="140" alt="cover">
-
 ---
 
 ## Summary

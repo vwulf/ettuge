@@ -1,8 +1,6 @@
 # Secrets of the Octopus
 **Author:** Sy Montgomery | **Published:** 2024
 
-<img src="../covers/IMG_9375.jpg" width="140" alt="cover">
-
 ---
 
 ## Summary
