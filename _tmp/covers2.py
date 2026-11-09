@@ -17,15 +17,15 @@ for i in R['redo']:
                     data = get(f"https://covers.openlibrary.org/b/id/{doc['cover_i']}-L.jpg?default=false")
                     if len(data) > 5000: found = (f"OL_{doc['cover_i']}", data, 'OL ' + doc['title']); break
         if not found:
-            qs = f'intitle:{main}' + (f' inauthor:{sur}' if sur else '')
-            g = json.loads(get('https://www.googleapis.com/books/v1/volumes?' + urllib.parse.urlencode({'q': qs, 'maxResults': 10})))
-            for it in g.get('items', []):
-                v = it['volumeInfo']; il = v.get('imageLinks', {})
-                if not il or not ok_title(main, v.get('title', '')): continue
-                if sur and not any(n(sur) in n(x) for x in v.get('authors', [])): continue
-                u = (il.get('thumbnail') or il.get('smallThumbnail')).replace('http://', 'https://').replace('&edge=curl', '') + '&fife=w400'
-                data = get(u)
-                if len(data) > 5000: found = (f"GB_{it['id']}", data, 'GB ' + v['title']); break
+            w = json.loads(get('https://en.wikipedia.org/w/api.php?' + urllib.parse.urlencode({'action':'query','list':'search','srsearch':f'{main} {sur}'.strip(),'srlimit':4,'format':'json'})))
+            for hit in w['query']['search']:
+                pt = re.sub(r'\s*\(.*?\)$', '', hit['title'])
+                if difflib.SequenceMatcher(None, n(main), n(pt)).ratio() < 0.85: continue
+                p = json.loads(get('https://en.wikipedia.org/w/api.php?' + urllib.parse.urlencode({'action':'query','titles':hit['title'],'prop':'pageimages','piprop':'thumbnail','pithumbsize':400,'format':'json'})))
+                pg = list(p['query']['pages'].values())[0]; th = pg.get('thumbnail', {}).get('source')
+                if not th or th.lower().endswith('.svg.png'): continue
+                data = get(th)
+                if len(data) > 5000: found = ('WP_' + re.sub(r'[^A-Za-z0-9]+', '_', hit['title'])[:50], data, 'WP ' + hit['title']); break
         if found:
             fn, data, lab = found; tmp = f'/tmp/{fn}.jpg'; open(tmp, 'wb').write(data); thumb(tmp, f'{OUT}/{fn}.jpg'); res[i] = [fn, lab]
         else: res[i] = [None, 'nomatch2']
