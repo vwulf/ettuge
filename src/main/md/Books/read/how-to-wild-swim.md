@@ -1,8 +1,6 @@
 # How to Wild Swim: What to Know Before Taking the Plunge
 **Author:** Ella Foote | **Published:** 2023
 
-<img src="../covers/IMG_9384.jpg" width="140" alt="cover">
-
 ---
 
 ## Summary

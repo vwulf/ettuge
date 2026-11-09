@@ -1,8 +1,6 @@
 # The Universal History of Computing: From the Abacus to the Quantum Computer
 **Author:** Georges Ifrah | **Published:** 2001 | **Language:** French (translated)
 
-<img src="../covers/IMG_9394.jpg" width="140" alt="cover">
-
 ---
 
 ## Summary

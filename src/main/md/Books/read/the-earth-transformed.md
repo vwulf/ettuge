@@ -1,8 +1,6 @@
 # The Earth Transformed: An Untold History
 **Author:** Peter Frankopan | **Published:** 2023 | **Status:** partially read
 
-<img src="../covers/IMG_9388.jpg" width="140" alt="cover">
-
 ---
 
 ## Summary

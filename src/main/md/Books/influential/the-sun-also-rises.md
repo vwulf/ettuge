@@ -1,8 +1,6 @@
 # The Sun Also Rises
 **Author:** Ernest Hemingway | **Published:** 1926
 
-<img src="../covers/IMG_0654.jpg" width="140" alt="cover">
-
 ---
 
 ## Summary

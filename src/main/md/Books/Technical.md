@@ -83,7 +83,7 @@ My textbooks and technical books — the ones on the shelf and the ones in the G
 
 | Book | Author | Format | About |
 |------|--------|:------:|-------|
-| **Deliberate Practice in Discrete Mathematics**<br><img src="covers/IMG_0541.jpg" width="60" alt="cover"> |  | 📕 | A practice-oriented discrete mathematics workbook; author and publication details could not be confirmed and little published review coverage exists. |
+| **Deliberate Practice in Discrete Mathematics** |  | 📕 | A practice-oriented discrete mathematics workbook; author and publication details could not be confirmed and little published review coverage exists. |
 | **Discrete Mathematical Structures**, 3rd | Bernard Kolman, Robert C. Busby, Sharon Ross | 📕 | An introductory discrete mathematics text for computer science students covering logic, sets, relations, graphs, trees, Boolean algebra and automata. A commonly used course textbook. |
 | **Discrete Mathematics**<br><img src="covers/IMG_0517.jpg" width="60" alt="cover"> | Norman L. Biggs | 📕 | Oxford introductory text covering logic, counting, graphs, algorithms and algebraic structures; respected for its rigor and clarity at the undergraduate level. |
 | **Discrete Mathematics and Its Applications** | Kenneth H. Rosen | 💾 | A comprehensive discrete mathematics text covering logic, proofs, sets, number theory, counting, graphs and automata with many exercises. One of the most widely used discrete math textbooks for computer science. |
@@ -121,7 +121,7 @@ My textbooks and technical books — the ones on the shelf and the ones in the G
 | **Intro Stats**, 2nd | Richard De Veaux, Paul Velleman, David Bock | 📕 | An introductory, data-first statistics textbook emphasizing reasoning, graphics and real examples over formulas. Popular for introductory and AP statistics courses for its conversational style. |
 | **Introductory Probability and Statistical Applications**<br><img src="covers/IMG_0578.jpg" width="60" alt="cover"> | Paul L. Meyer | 📕 | A classic engineering-oriented probability and statistics text covering random variables, distributions, reliability and inference. Long used in engineering curricula, especially in India. |
 | **Mathematical Statistics with Applications**, 6th | Dennis D. Wackerly, William Mendenhall, Richard L. Scheaffer | 📕 | A calculus-based introduction to probability and statistical inference covering distributions, estimation, hypothesis testing and regression. A standard upper-undergraduate mathematical statistics text. |
-| **Probability, Random Variables, and Stochastic Processes** | Athanasios Papoulis | 📕 | Classic engineering-oriented text on probability theory and random processes; a standard reference in electrical engineering and signal processing for decades. |
+| **Probability, Random Variables, and Stochastic Processes**<br><img src="covers/IMG_0541.jpg" width="70" alt="cover"> | Athanasios Papoulis | 📕 | Classic engineering-oriented text on probability theory and random processes; a standard reference in electrical engineering and signal processing for decades. |
 
 ### Recreational Mathematics
 
@@ -129,9 +129,9 @@ My textbooks and technical books — the ones on the shelf and the ones in the G
 |------|--------|:------:|-------|
 | **Satan, Cantor and Infinity** | Raymond M. Smullyan | 📕 | Collection of logic puzzles (knights and knaves and beyond) that build up to Cantor's ideas about infinity; typical of Smullyan's playful route into serious logic. |
 | **Surreal Numbers** | Donald E. Knuth | 💾 | A short novelette in which two students discover and develop John Conway's surreal numbers from a few axioms. Celebrated as an introduction to the creative process of mathematical research. |
-| **The Abacus: A Pocket Computer**<br><img src="covers/IMG_9385.jpg" width="60" alt="cover"> | Jesse Dilson | 📕 | Short St. Martin's Press book on the history of the abacus and how to calculate with it, later reissued as 'The Abacus: The World's First Computing System'. |
+| **The Abacus: A Pocket Computer** | Jesse Dilson | 📕 | Short St. Martin's Press book on the history of the abacus and how to calculate with it, later reissued as 'The Abacus: The World's First Computing System'. |
 | **The Gödelian Puzzle Book: Puzzles, Paradoxes and Proofs**<br><img src="covers/IMG_0533.jpg" width="60" alt="cover"> | Raymond M. Smullyan | 📕 | Dover collection of logic puzzles leading readers toward Gödel's incompleteness theorems, written in Smullyan's characteristic playful style. |
-| **The Japanese Abacus Explained**<br><img src="covers/IMG_9390.jpg" width="60" alt="cover"> | Yozo Yoshino | 📕 | A classic guide to soroban arithmetic, explaining addition, subtraction, multiplication, division and roots on the Japanese abacus, reprinted by Dover. Valued as a clear, complete older manual on abacus technique. |
+| **The Japanese Abacus Explained** | Yozo Yoshino | 📕 | A classic guide to soroban arithmetic, explaining addition, subtraction, multiplication, division and roots on the Japanese abacus, reprinted by Dover. Valued as a clear, complete older manual on abacus technique. |
 | **The Riddle of Scheherazade: And Other Amazing Puzzles, Ancient and Modern** | Raymond M. Smullyan | 💾 | A collection of logic and number puzzles framed by Scheherazade telling puzzles to the king, building toward ideas about self-reference and Gödel. In the tradition of Smullyan's well-loved puzzle books. |
 | **What Is the Name of This Book?**<br><img src="covers/IMG_0658.jpg" width="60" alt="cover"> | Raymond M. Smullyan | 📕 | Smullyan's best-known puzzle book, introducing knights-and-knaves puzzles and building to Gödel's incompleteness ideas; a classic of recreational logic. |
 
@@ -193,7 +193,7 @@ My textbooks and technical books — the ones on the shelf and the ones in the G
 | **Distributed Systems: Concepts and Design**<br><img src="covers/IMG_0411.jpg" width="60" alt="cover"> <img src="covers/IMG_0458.jpg" width="60" alt="cover"> | George Coulouris, Jean Dollimore, Tim Kindberg | 📕 | Long-running textbook on distributed system models, communication, naming, time, coordination, replication and transactions; a standard course text. |
 | **Fundamentals of Database Systems**, 3rd | Ramez Elmasri & Shamkant B. Navathe | 📕 | A comprehensive database text covering ER modeling, the relational model, SQL, normalization, storage, indexing and transactions. One of the most widely adopted database textbooks. |
 | **High Performance Spark**<br><img src="covers/IMG_0716.jpg" width="60" alt="cover"> | Holden Karau & Rachel Warren | 📕 | O'Reilly guide to tuning and scaling Apache Spark jobs (partitioning, joins, memory, Datasets) with Scala examples. |
-| **Proof of Stake: The Making of Ethereum and the Philosophy of Blockchains**<br><img src="covers/IMG_9392.jpg" width="60" alt="cover"> | Vitalik Buterin (ed. Nathan Schneider) | 📕 | A curated collection of Buterin's essays from 2014 to 2021 on Ethereum's design, proof-of-stake consensus, governance and public goods. Reviewers saw it as a useful record of the thinking behind Ethereum, though uneven as a book. |
+| **Proof of Stake: The Making of Ethereum and the Philosophy of Blockchains** | Vitalik Buterin (ed. Nathan Schneider) | 📕 | A curated collection of Buterin's essays from 2014 to 2021 on Ethereum's design, proof-of-stake consensus, governance and public goods. Reviewers saw it as a useful record of the thinking behind Ethereum, though uneven as a book. |
 | **ZooKeeper: Distributed Process Coordination**<br><img src="covers/IMG_0717.jpg" width="60" alt="cover"> | Flavio Junqueira & Benjamin Reed | 📕 | O'Reilly guide by two of ZooKeeper's creators to using and operating it for coordination tasks such as leader election, locks and configuration. |
 
 ### Functional Programming
@@ -301,13 +301,13 @@ My textbooks and technical books — the ones on the shelf and the ones in the G
 | **Deep Learning**<br><img src="covers/IMG_0537.jpg" width="60" alt="cover"> | Ian Goodfellow, Yoshua Bengio, Aaron Courville | 📕 | Comprehensive MIT Press text covering the mathematical background, modern practice and research frontiers of deep neural networks; long regarded as the field's standard reference. |
 | **Mathematical Theory of the Transformer, Vol. I: Foundations, Rationality, and the Incremental Transformer** | Giansalvo Cirrincione | 💾 | A recent Routledge monograph giving a mathematical treatment of the Transformer architecture, including the author's incremental Transformer. Too new for substantial critical reception. |
 | **The Hundred-Page Language Models Book** | Andriy Burkov | 📕 | A compact introduction to language models, building from ML basics and count-based models through RNNs to Transformers and LLM practice, with code. Follows the well-received format of the author's Hundred-Page Machine Learning Book. (Title inferred from a partly hidden spine.) |
-| **The Little Learner: A Straight Line to Deep Learning**<br><img src="covers/IMG_9384.jpg" width="60" alt="cover"> | Daniel P. Friedman & Anurag Mendhekar | 📕 | MIT Press book in the 'Little' question-and-answer style that builds deep learning concepts from scratch in a Scheme dialect. |
+| **The Little Learner: A Straight Line to Deep Learning** | Daniel P. Friedman & Anurag Mendhekar | 📕 | MIT Press book in the 'Little' question-and-answer style that builds deep learning concepts from scratch in a Scheme dialect. |
 
 ### Foundations
 
 | Book | Author | Format | About |
 |------|--------|:------:|-------|
-| **An Introduction to Statistical Learning**<br><img src="covers/IMG_9373.jpg" width="60" alt="cover"> | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani | 📕 | Accessible introduction to regression, classification, resampling, trees, SVMs and unsupervised learning with R (later Python) labs; a widely used free textbook. |
+| **An Introduction to Statistical Learning** | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani | 📕 | Accessible introduction to regression, classification, resampling, trees, SVMs and unsupervised learning with R (later Python) labs; a widely used free textbook. |
 | **Concise Machine Learning** | Jonathan Richard Shewchuk | 💾 | Lecture notes from Shewchuk's Berkeley CS 189 course covering linear classifiers, SVMs, regression, decision theory, PCA, neural networks and more. Known for clear, compact explanations. |
 | **Machine Learning**<br><img src="covers/IMG_0527.jpg" width="60" alt="cover"> |  | 📕 | A general machine learning textbook; the specific author and edition could not be identified from the photo. |
 | **Optimization for Machine Learning** | Bernd Gärtner & Martin Jaggi | 💾 | ETH Zurich / EPFL lecture notes on convex and nonconvex optimization for ML, including gradient descent variants, stochastic and coordinate methods, and Newton-type methods with convergence proofs. A course text rather than a published book. |
@@ -336,7 +336,7 @@ My textbooks and technical books — the ones on the shelf and the ones in the G
 
 | Book | Author | Format | About |
 |------|--------|:------:|-------|
-| **Drawing Physics: 2,600 Years of Discovery from Thales to Higgs**<br><img src="covers/IMG_9387.jpg" width="60" alt="cover"> | Don S. Lemons | 📕 | MIT Press survey of 51 key ideas in physics, each explained with a hand-drawn illustration and a short essay; well received as an accessible history. |
+| **Drawing Physics: 2,600 Years of Discovery from Thales to Higgs** | Don S. Lemons | 📕 | MIT Press survey of 51 key ideas in physics, each explained with a hand-drawn illustration and a short essay; well received as an accessible history. |
 | **Learn Physics with Functional Programming** | Scott N. Walck | 📕 | No Starch Press book teaching Haskell through Newtonian mechanics and electromagnetism simulations; noted for treating physics as code with types. |
 | **The Dialogues: Conversations about the Nature of the Universe**<br><img src="covers/IMG_0572.jpg" width="60" alt="cover"> | Clifford V. Johnson | 📕 | Graphic novel by a theoretical physicist in which pairs of characters discuss cosmology, quantum mechanics and other physics ideas; praised as an inventive work of science communication. |
 
@@ -361,10 +361,10 @@ My textbooks and technical books — the ones on the shelf and the ones in the G
 
 | Book | Author | Format | About |
 |------|--------|:------:|-------|
-| **Remembering the Kanji**<br><img src="covers/IMG_9380.jpg" width="60" alt="cover"> <img src="covers/IMG_9382.jpg" width="60" alt="cover"> | James W. Heisig | 📕 | Mnemonic method for learning the meanings and writing of the jōyō kanji through stories built from components; very popular, though critics note it defers readings and vocabulary. |
-| **The Kodansha Kanji Learner's Course**<br><img src="covers/IMG_9378.jpg" width="60" alt="cover"> | Andrew Scott Conning | 📕 | Sequenced course covering 2,300 kanji with mnemonics and example vocabulary, ordered so components appear before the characters that use them; well regarded among self-learners. |
-| **The Modern English-Nihongo Dictionary (日本語学習英日辞典)**<br><img src="covers/IMG_9381.jpg" width="60" alt="cover"> <img src="covers/IMG_9382.jpg" width="60" alt="cover"> | Nihongo Gakushū Ei-Nichi Jiten editorial committee | 📕 | English-to-Japanese learner's dictionary designed for non-native students of Japanese, with example sentences and usage notes; little published review coverage. |
-| **Understanding Kanji Characters by Their Ancestral Forms**<br><img src="covers/IMG_9378.jpg" width="60" alt="cover"> | Ping-gam Go | 📕 | Explains kanji through their ancient pictographic and seal-script origins; the kanji edition of the author's book on Chinese characters, with limited critical coverage. |
+| **Remembering the Kanji** | James W. Heisig | 📕 | Mnemonic method for learning the meanings and writing of the jōyō kanji through stories built from components; very popular, though critics note it defers readings and vocabulary. |
+| **The Kodansha Kanji Learner's Course** | Andrew Scott Conning | 📕 | Sequenced course covering 2,300 kanji with mnemonics and example vocabulary, ordered so components appear before the characters that use them; well regarded among self-learners. |
+| **The Modern English-Nihongo Dictionary (日本語学習英日辞典)** | Nihongo Gakushū Ei-Nichi Jiten editorial committee | 📕 | English-to-Japanese learner's dictionary designed for non-native students of Japanese, with example sentences and usage notes; little published review coverage. |
+| **Understanding Kanji Characters by Their Ancestral Forms** | Ping-gam Go | 📕 | Explains kanji through their ancient pictographic and seal-script origins; the kanji edition of the author's book on Chinese characters, with limited critical coverage. |
 
 ---
 
@@ -374,7 +374,7 @@ My textbooks and technical books — the ones on the shelf and the ones in the G
 
 | Book | Author | Format | About |
 |------|--------|:------:|-------|
-| **Analysis of Genuine Karate: Misconceptions, Origins, Development, and True Purpose**<br><img src="covers/IMG_9381.jpg" width="60" alt="cover"> | Hermann Bayer | 📕 | YMAA book examining karate kata, bunkai and history to argue for the art's original self-defense purpose; followed by a second volume, with little published criticism. |
+| **Analysis of Genuine Karate: Misconceptions, Origins, Development, and True Purpose** | Hermann Bayer | 📕 | YMAA book examining karate kata, bunkai and history to argue for the art's original self-defense purpose; followed by a second volume, with little published criticism. |
 | **Comprehensive Asian Fighting Arts**<br><img src="covers/IMG_0703.jpg" width="60" alt="cover"> | Donn F. Draeger & Robert W. Smith | 📕 | Survey of fighting arts across Asia by two pioneering Western martial arts scholars; long valued as a reference, though later research has revised some historical claims. |
 | **Iai: The Art of Drawing the Sword**<br><img src="covers/IMG_0699.jpg" width="60" alt="cover"> | Darrell Max Craig | 📕 | Tuttle manual on Japanese iaido covering etiquette, equipment and solo sword-drawing forms; an early English-language introduction with little published criticism. |
 | **Wing Chun Kung-Fu: A Complete Guide, Volume 1 – Basic Forms and Principles**, Vol. 1<br><img src="covers/IMG_0697.jpg" width="60" alt="cover"> <img src="covers/IMG_0696.jpg" width="60" alt="cover"> <img src="covers/IMG_0697.jpg" width="60" alt="cover"> | Dr. Joseph Wayne Smith | 📕 | Tuttle manual presenting Wing Chun's foundational forms and principles with photo sequences; little published criticism exists. |
@@ -386,7 +386,7 @@ My textbooks and technical books — the ones on the shelf and the ones in the G
 | **A Life Decoded: My Genome: My Life**<br><img src="covers/IMG_0567.jpg" width="60" alt="cover"> <img src="covers/IMG_0367.jpg" width="60" alt="cover"> | J. Craig Venter | 📕 | Venter's memoir of his career and the race to sequence the human genome; reviewers found it vivid but self-promoting. |
 | **Harmonica for Dummies**<br><img src="covers/IMG_0704.jpg" width="60" alt="cover"> | Winslow Yerxa | 📕 | A beginner's guide to the diatonic harmonica covering breathing, single notes, bending and playing blues, folk and rock styles. Well reviewed by learners as a thorough introduction for a self-help music book. |
 | **Life at the Speed of Light: From the Double Helix to the Dawn of Digital Life**<br><img src="covers/IMG_0377.jpg" width="60" alt="cover"> | J. Craig Venter | 📕 | Popular-science account of synthetic biology and his team's creation of a cell with a synthetic genome; praised for its subject, though critics noted its self-congratulatory tone. |
-| **The Climbing Handbook: The Complete Guide to Safe and Exciting Rock Climbing**<br><img src="covers/IMG_9378.jpg" width="60" alt="cover"> | Steve Long | 📕 | An illustrated practical guide to rock climbing technique, equipment, ropework and safety by a British mountaineering instructor. A general instructional manual rather than a technical textbook. |
+| **The Climbing Handbook: The Complete Guide to Safe and Exciting Rock Climbing** | Steve Long | 📕 | An illustrated practical guide to rock climbing technique, equipment, ropework and safety by a British mountaineering instructor. A general instructional manual rather than a technical textbook. |
 | **Thinking, Fast and Slow**<br><img src="covers/IMG_0346.jpg" width="60" alt="cover"> <img src="covers/IMG_0570.jpg" width="60" alt="cover"> | Daniel Kahneman | 📕 | Nobel laureate's popular account of the two-systems model of thought and research on heuristics and biases; a bestseller, though some of the priming studies it cites have since failed to replicate. |
 | **Wing Chun Bil Jee: The Deadly Art of Thrusting Fingers**<br><img src="covers/IMG_0698.jpg" width="60" alt="cover"> | William Cheung | 📕 | An Ohara Publications manual on Bil Jee, the third empty-hand form of Wing Chun kung fu, by a senior student of Ip Man. A martial arts instructional book, not a technical text. |
 

@@ -1,8 +1,6 @@
 # Skin in the Game
 **Author:** Nassim Nicholas Taleb | **Published:** 2018
 
-<img src="../covers/IMG_9377.jpg" width="140" alt="cover">
-
 ---
 
 ## Summary

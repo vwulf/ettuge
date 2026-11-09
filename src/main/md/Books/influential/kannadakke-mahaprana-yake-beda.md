@@ -1,8 +1,6 @@
 # kannaDakke mahAprANa yAke bEDa (ಕನ್ನಡಕ್ಕೆ ಮಹಾಪ್ರಾಣ ಯಾಕೆ ಬೇಡ)
 **Author:** D. N. Shankara Bhat (ಡಿ. ಎನ್. ಶಂಕರ ಬಟ್) | **Published:** 2017 | **Language:** Kannada
 
-<img src="../covers/IMG_0595.jpg" width="140" alt="cover">
-
 ---
 
 ## Outline

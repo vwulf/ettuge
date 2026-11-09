@@ -1,8 +1,6 @@
 # A Mind at Play: How Claude Shannon Invented the Information Age
 **Author:** Jimmy Soni & Rob Goodman | **Published:** 2017
 
-<img src="../covers/IMG_9375_(1).jpg" width="140" alt="cover">
-
 ---
 
 ## Summary
