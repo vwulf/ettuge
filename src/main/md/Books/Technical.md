@@ -2,7 +2,7 @@
 
 My textbooks and technical books — the ones on the shelf and the ones in the Google Drive *Books* folder — arranged top-down by subject. Textbooks are never really *finished*, so there is no read/unread status here; each entry notes what the book covers and how it is regarded.
 
-**Format:** 📕 physical copy · 💾 digital (PDF) · 📕💾 both
+**Format:** 📕 physical copy · 💾 digital (PDF) · 📕💾 both · 🌐 free online book
 
 ---
 
@@ -18,7 +18,7 @@ My textbooks and technical books — the ones on the shelf and the ones in the G
   - [Probability and Statistics](#probability-and-statistics) (5)
   - [Recreational Mathematics](#recreational-mathematics) (7)
   - [Topology and Geometry](#topology-and-geometry) (4)
-- **[Computer Science](#computer-science)** (82)
+- **[Computer Science](#computer-science)** (83)
   - [Algorithms and Data Structures](#algorithms-and-data-structures) (8)
   - [Compilers and Language Implementation](#compilers-and-language-implementation) (7)
   - [Computer Architecture and Parallelism](#computer-architecture-and-parallelism) (5)
@@ -27,7 +27,7 @@ My textbooks and technical books — the ones on the shelf and the ones in the G
   - [Interviews and Career](#interviews-and-career) (4)
   - [Networks and Security](#networks-and-security) (8)
   - [Operating Systems and Systems Programming](#operating-systems-and-systems-programming) (5)
-  - [Programming Languages and Type Theory](#programming-languages-and-type-theory) (14)
+  - [Programming Languages and Type Theory](#programming-languages-and-type-theory) (15)
   - [Software Design and Engineering](#software-design-and-engineering) (4)
   - [Theory of Computation](#theory-of-computation) (2)
 - **[AI and Machine Learning](#ai-and-machine-learning)** (13)
@@ -255,6 +255,7 @@ My textbooks and technical books — the ones on the shelf and the ones in the G
 | **Advanced Topics in Types and Programming Languages** | Benjamin C. Pierce (ed.) | 💾 | An edited sequel to TAPL with chapters on substructural types, dependent types, effect systems, module systems, type inference and typed assembly language. A standard graduate-level reference. |
 | **C++ Primer**, 3rd | Stanley B. Lippman & Josée Lajoie | 📕 | A thorough introduction to C++ updated for the then-new ISO C++98 standard, covering the language, the standard library and templates. A long-standing standard tutorial reference for the language. |
 | **DSLs in Action**<br><img src="covers/IMG_0457.jpg" width="60" alt="cover"> | Debasish Ghosh | 📕 | Manning book on designing internal and external domain-specific languages in Scala, Groovy, Ruby and Clojure, with financial-domain examples. |
+| **[MiniLean4: Implementing an Interactive Theorem Prover from Scratch](https://learn.h5i.dev/)** | Hideaki Takahashi | 🌐 | A free interactive online book that builds a small Lean 4-style proof kernel in Rust, compiled to WebAssembly so it runs in the browser. It moves from propositions-as-types and a type checker for propositional logic to natural numbers, inductive types, equality, tactics, reduction and conversion, universes and metatheory. Playgrounds, steppers and trace trees show the kernel at work. No prior type theory or Lean is assumed. Available in English, Japanese and Chinese. |
 | **Practical Foundations for Programming Languages** | Robert Harper | 💾 | A unified type-theoretic account of programming language concepts (statics, dynamics, polymorphism, effects, concurrency, modules) using structural operational semantics. A demanding standard graduate text. |
 | **Pragmatic Type-Level Design** | Alexander Granin | 💾 | Explores practical type-level programming in Haskell for application design, including type-level DSLs and extensible architectures. A niche, self-published work aimed at experienced Haskell developers. |
 | **Programming Language Pragmatics** | Michael L. Scott | 📕 | Broad survey of language design and implementation, linking syntax, semantics and compilation across many paradigms; a common text for comparative programming languages courses. |
