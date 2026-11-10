@@ -1,6 +1,6 @@
 # Lean, Foundations, and the AI Formalization of Mathematics
 
-*Started Nov 1, 2026 · last updated Nov 6, 2026 · Vishwas*
+*Started Nov 1, 2026 · last updated Nov 10, 2026 · Vishwas*
 
 ## Summary
 
@@ -16,6 +16,7 @@ Lean 4 is the de facto platform for AI-assisted formalization of mathematics, an
 - **Trust in the kernel:** summer 2026 kernel bugs led Lean to ship independent and formally verified checkers (Oct 2026); statement fidelity remains the human step.
 - **Nov 2026:** a just-published deterministic n^O(log n) graph isomorphism result arrived with a Lean proof of both correctness and running time, built on Axiom's CFSG.
 - **Nov 6, 2026:** PSI announced an AI-produced proof of the Aaronson–Ambainis conjecture (open since 2008) with a compact, Comparator-checked Lean formalization.
+- **Nov 9–10, 2026:** agent-driven verification reached deployed software (DeepMind's machine-code proofs for Signal; a Lean copy of 16% of CPython that found 418 bugs), and 1,000 Fable 5.2 agents re-formalized FLT in 28.7 hours.
 
 ## 1. Lean's foundational basis
 
@@ -412,11 +413,66 @@ On Nov 6, 2026, PSI (Physical Superintelligence) [announced a proof](https://psi
 
 **The two shapes of AI formalization.** Section 12 is huge, rests on a 43M-line dependency, and has a larger statement to audit. This one is small, mathlib-only, with a short statement checked by Comparator and several kernels. The second shape is what makes "AI proved a famous conjecture" credible within days.
 
-## 14. Lean as a programming language
+## 14. Verifying real software, and agent teams at scale
+
+In November 2026 agent-driven formalization moved from mathematics to deployed software, and agent teams scaled to a thousand. In every case the architecture is the same: untrusted agents do the work, and Lean's kernel (with Comparator) decides what counts.
+
+### 14.1 Three ways to connect proofs to real code
+
+|  | AlphaProof Code: Signal | CPython in Lean | Aeneas / hax / Verus |
+| --- | --- | --- | --- |
+| Who | Google DeepMind (Nov 10, 2026) | Andrews & Zhang (Nov 9, 2026) | Academic and industry tools |
+| Proofs are about | The compiled AArch64 binary of unmodified Rust code | A line-by-line Lean copy of CPython 3.15.2's C and Python | Rust source, translated automatically |
+| Link to real code | Proved: Lean checks against the executable's bytes | Differential testing, 50K+ inputs per function | A translation tool, plus trusting rustc and LLVM |
+| Compiler trusted? | No | Yes, and the copy must be faithful | Yes |
+| Goal | Deep security guarantees for one system | Broad coverage and bug finding | Functional correctness |
+| Scale | \~6.5M lines of proof; 5 people, 4 weeks | \~613K lines; 15.7% of 26,004 functions in \~11 days | Varies |
+
+### 14.2 AlphaProof Code: Signal at the machine-code level
+
+[DeepMind's paper](https://google-deepmind.github.io/code-verification) verifies `libsignal-protocol` v0.105.4 and `spqr` v1.6.0 (the PQXDH handshake plus the Triple Ratchet), compiled by stock rustc to an AArch64 binary of about 140,000 instructions. Theorems cover whole runs of the executable under a Lean model of AArch64 (467 instructions, 31 system calls), tested in lockstep against Arm's Sail model and qemu. The compiler is not trusted.
+
+- **Security, two ways:** symbolic (Dolev–Yao) forward secrecy, post-compromise security, authentication, KCI and harvest-now-decrypt-later resistance, holding up to collisions; and a computational game-based bound under Gap-DH, XEdDSA, Kyber collision resistance, HKDF/HMAC PRF security and AES-CBC+HMAC. Reductions are written in a language with a cost semantics.
+- **How it was made:** specs written with Gemini 4 Carbon and Claude Opus 5.5, reviewed by agents from a different model family and approved by humans (\~26K trusted lines). Proofs written entirely by Gemini 4 Carbon agent teams; a gatekeeper accepts only what Lean's kernel and Comparator accept. No RL.
+- **Bug test:** two real, since-fixed bugs were reintroduced; for each, Lean proved the buggy binary insecure, with concrete attack inputs, by having the kernel parse the ELF and step through the machine code.
+- **Caveats:** 39 routines (all low-level crypto, memcpy and similar) are trusted contracts; the binary is a CLI harness, not the apps; keygen, real randomness, threads, groups and side channels are out of scope; the computational bound is classical-only and vacuous after \~25,000 messages per session (8-byte MAC). The blog's "first verification of a widely deployed protocol's implementation by any method" overstates the paper's narrower claim. Spec-writing surfaced over 200 errors in the published security proofs.
+
+### 14.3 CPython in Lean
+
+[Andrews and Zhang](https://broyojo.com/python-formalization/) use Opus 5.5 agents to copy CPython functions into Lean line by line, test each copy against real CPython on 50,000+ inputs, prove properties (or their negations), and have a second agent try to break the work, including by checking whether a deliberately broken function would still pass a proof.
+
+- **Status after \~11 days:** \~613K lines, 18,898 theorems, no `sorry`; 3,834 properties proved and 588 proved false. Coverage: grammar 100%, built-in types 35%, parser 31%, C modules 19%, interpreter core 10%, stdlib 9%.
+- **Payoff:** 418 bug reports, about 55 of which crash or corrupt memory from ordinary Python code; 129 are C and Python implementations disagreeing.
+- **Trust gap:** the copy is linked to CPython only by testing. Several Lean-valid proofs were wrong about real Python (allocation assumed never to fail, an off-by-nine recursion limit, subclass checks, memory address reuse), caught by running the claims against CPython.
+
+### 14.4 A thousand agents: FLT with Claude Fable 5.2
+
+[Anthropic re-ran the FLT formalization](https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/) with 1,000 agents on an early Claude Fable 5.2, with no researcher steering.
+
+|  | Sept 2026 | Nov 2026 |
+| --- | --- | --- |
+| Agents | Dozens, plus a researcher | 1 lead + 999 helpers |
+| Time | 11 days | 28.7 hours |
+| Output tokens | \~6B | About a third |
+| Proof size | \~13M lines | About a seventh |
+| Coordination | Prove2Me platform | Git branches + 5 shared SQL tables |
+
+- Agents organized into crews with captains; Langlands–Tunnell became a 2,418-task tree up to 10 levels deep, worked on by \~750 helpers.
+- Agents initially judged 47 of 60 statements infeasible, then proved most of them.
+- Safety layers: a VM per agent, no network, locked-down kernel, branch-only pushes; an LLM monitor on every command and edit, where any block halts the team for human review; offline audits. Across more than a million tool calls nothing was blocked.
+
+### 14.5 What these show
+
+- **Two trust problems, handled separately:** the kernel guarantees outputs; sandboxes and monitors guard against the agents themselves.
+- **Specifications are the human bottleneck:** in the Signal work proofs were fully automated and the effort went into a 26K-line spec reviewed across two model families.
+- **Line counts are partly verbosity:** FLT shrank sevenfold in two months.
+- **Answer to Dan Luu's question (section 10.5):** with a strong checker in the loop, agents use verification for real, and differential testing keeps formal models honest.
+
+## 15. Lean as a programming language
 
 Lean the prover is now very trustworthy; Lean the programming language is mostly ordinary, unverified code with an unusually well-specified standard library. Figures below come from cloning [leanprover/lean4](https://github.com/leanprover/lean4) and mathlib on Nov 5, 2026.
 
-### 14.1 How much of Lean itself is verified
+### 15.1 How much of Lean itself is verified
 
 | Part | Size | Theorems vs. definitions | Verified? |
 | --- | --- | --- | --- |
@@ -430,7 +486,7 @@ Lean the prover is now very trustworthy; Lean the programming language is mostly
 - The library gap: \~790 functions are swapped at runtime for C or faster code via `@[extern]` or `implemented_by`. Proofs are about the reference definition; nothing checks the substitute agrees.
 - Lean programs in the wild are almost entirely unverified; a few verification projects exist (AWS Cedar, SampCert).
 
-### 14.2 Pure vs. mutation style
+### 15.2 Pure vs. mutation style
 
 | Codebase | Lines | Theorems | Defs | `let mut` | `for` loops | `do` per 1K lines |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -444,7 +500,7 @@ At least 95% of Lean code is proof-style pure code; mutation style is concentrat
 - Mutation style is pure: `let mut`, `for`, `while` and early `return` are `do`-notation sugar over `StateT`, `ForIn` and early-exit monads. Only `IO.Ref` and `ST.Ref` are real references.
 - Pure code mutates at runtime: reference counting lets an unshared `Array` be updated in place ("functional but in place"), which is why idiomatic Lean prefers `Array` to `List` and why Okasaki-style persistent sharing goes against the grain (section 10.3).
 
-### 14.3 Tail calls
+### 15.3 Tail calls
 
 Tail call optimization is essential because loops are tail recursion underneath: `for` and `while` desugar into self-recursive `forIn` loops.
 
@@ -453,7 +509,7 @@ Tail call optimization is essential because loops are tail recursion underneath:
 - **Verified stack-safe rewrites:** natural non-tail-recursive definitions stay as the specification, and \~100 `@[csimp]` lemmas (e.g. `foldr_eq_foldrTR`, `mergeSort_eq_mergeSortTR`) prove a tail-recursive version equal, which the compiler then substitutes. Unlike `@[extern]` swaps, these are proven.
 - **Not applicable in the kernel:** proofs that compute (`decide`, `rfl`) are reduced by the kernel, which has its own recursion limits; `native_decide` trades this for trusting the compiler.
 
-## 15. Lean in the wild
+## 16. Lean in the wild
 
 Lean is still niche by repository count, but in the past year it reached the same band as Haskell, Scala and Elixir for new projects, and it now dominates proof assistants. Counts are from GitHub's search API on Nov 5, 2026.
 
@@ -560,3 +616,9 @@ Sections 1–3 (foundations, HoTT, Rocq) draw on general knowledge of the system
 - [physical-superintelligence/aaronson-ambainis repository](https://github.com/physical-superintelligence/aaronson-ambainis)
 - [Aaronson & Ambainis, The need for structure in quantum speedups (arXiv 0911.0996)](https://arxiv.org/abs/0911.0996v3)
 - [Agarwal & Ben-David (arXiv 2410.19062)](https://arxiv.org/abs/2410.19062)
+- [DeepMind, Introducing AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/)
+- [AlphaProof Code: Verifying Signal's Security at the Machine-Code Level (paper)](https://deepmind.google/documents/36/Formal_Verification_of_Signal_4.pdf)
+- [AlphaProof Code verification artifacts](https://google-deepmind.github.io/code-verification)
+- [Formalizing CPython in Lean (Andrews & Zhang)](https://broyojo.com/python-formalization/)
+- [Broyojo/python-formalization repository](https://github.com/Broyojo/python-formalization)
+- [Safely scaling multi-agent teams with Claude Fable 5.2](https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/)
