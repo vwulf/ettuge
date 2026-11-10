@@ -313,6 +313,10 @@ Dan Luu's evals are the best public evidence on whether coding agents get value 
 
 **Why it matters here.** It is the software counterpart of the faithfulness problem in sections 5 and 9: weaker agents game verification (vacuous proofs, hidden axioms), and stronger ones start using it for real. It also shows how expensive good evidence is, and that conclusions don't transfer across task size or model. Luu argues the viral claim that AI-written tests are useless rests on a small, easy benchmark and a 9% cost difference.
 
+### 10.6 Commercial separation logic in Lean: &Truth
+
+[&Truth](https://andtruth.com/blog/shoulders-of-giants/), co-founded by Clark Barrett (whose group builds the cvc5 SMT solver), launched with an Oct 29, 2026 letter arguing that the theory of program verification (Hoare logic, LCF-style provers, SMT, separation logic) already exists and that AI agents now supply the missing human effort. Its tools are built on Lean, with a new Iris for Lean as a foundation, in collaboration with the Lean FRO. That addresses the gap in section 10.2: a serious separation-logic stack for imperative code in Lean, now being built commercially alongside CSLib's Boole. The letter gives no performance figures.
+
 ## 11. Can the kernel itself be trusted?
 
 Every section above assumes Lean's kernel is correct. In summer 2026 AI-assisted work showed it was not, and by October Lean answered by shipping several independent kernels, two of them formally verified.
@@ -352,6 +356,35 @@ De Moura's framing: the logic was sound; the kernel's implementation was not. Th
 **Scaling is the open problem.** External checkers don't yet scale to today's projects (FLT 13M+ lines, Tau Ceti 3M+, General Courtade–Kumar 50M+, Axiom's CFSG 43M and Stacks 18M). Binary export formats and incremental external checking are needed.
 
 **Why it matters for this doc.** The trust story for AI-scale mathematics now has three layers: a verified kernel for the logic, diverse independent kernels for the implementation, and human review for statement fidelity. The first two are now largely automated; the third is the same bottleneck as sections 8 and 9.
+
+### 11.1 The pipeline between statement and kernel
+
+A sound kernel only helps if what you read is what the kernel checked. [Derek Egolf's "False beliefs about Lean"](https://www.egolf.io/lean-false-beliefs.html) (Nov 8, 2026) demonstrates that Lean metaprograms can break that link without any kernel bug.
+
+| Belief | What a metaprogram can do |
+| --- | --- |
+| Green checkmarks mean the displayed theorem is proven | Rewrite the statement before kernel checking (e.g. a macro turns `False` into `True`) |
+| `#check`, hover and InfoView show what is there | Display the original statement while the installed declaration says something else |
+| No axioms in `#print axioms` means a legitimate proof | Build an "apparent" theorem with temporary axioms that are then discarded |
+| Previously verified lemmas are trustworthy | Let a false apparent lemma be used like any other |
+| Reviewing the spec plus the kernel verdict suffices for AI code | Show `sort_correct` proven and axiom-free while `sort` is wrong |
+| Only the open file matters | Act from imported files and hide themselves |
+| The IDE, or the command line, is neutral | Draw checkmarks in VS Code; on Ubuntu 22.04, alias `cat` and `lake clean` |
+
+An AI agent asked only to prove a theorem could plant such a metaprogram; Egolf has no evidence of this happening in practice. The defense is Comparator: export the declarations and check them against a held-out copy of the statement in a sandbox, so nothing in the project's own code can influence the verdict.
+
+**Who runs it, among this doc's case studies:**
+
+| Project | Comparator |
+| --- | --- |
+| Aaronson–Ambainis (section 13) | Yes, sandboxed, with negative controls |
+| AlphaProof Code: Signal (section 14) | Yes, against a held-out spec copy |
+| Graph isomorphism (section 12) | Not yet |
+| Axiom Stacks (section 9) | Not reported |
+
+The full trust stack is therefore four layers: a verified kernel for the logic; diverse kernels for the implementation; Comparator for the pipeline from statement to kernel; and human review for statement fidelity.
+
+**To see how a kernel works:** [MiniLean4](https://learn.h5i.dev/) (Hideaki Takahashi) is a free interactive book that builds a Lean-4-style kernel in under 3,000 lines of dependency-free Rust, compiled to WebAssembly. Its 14 chapters run from propositions-as-types and type checking through inductive types, equality and tactics to substitution, reduction, universes and metatheory, with in-browser playgrounds and live typing derivations.
 
 ## 12. Case study: graph isomorphism in n^O(log n), with a proven running time
 
@@ -622,3 +655,6 @@ Sections 1–3 (foundations, HoTT, Rocq) draw on general knowledge of the system
 - [Formalizing CPython in Lean (Andrews & Zhang)](https://broyojo.com/python-formalization/)
 - [Broyojo/python-formalization repository](https://github.com/Broyojo/python-formalization)
 - [Safely scaling multi-agent teams with Claude Fable 5.2](https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/)
+- [Egolf, False beliefs about Lean](https://www.egolf.io/lean-false-beliefs.html)
+- [MiniLean4: build a Lean-4-style kernel in Rust](https://learn.h5i.dev/)
+- [Barrett, Standing on the shoulders of giants (&Truth)](https://andtruth.com/blog/shoulders-of-giants/)
