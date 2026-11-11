@@ -6,24 +6,24 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 
 ## Overview
 
-- **[Mathematics](#mathematics)** (21)
-  - [Analysis and Linear Algebra](#analysis-and-linear-algebra) (3)
+- **[Mathematics](#mathematics)** (22)
+  - [Analysis and Linear Algebra](#analysis-and-linear-algebra) (4)
   - [Category Theory](#category-theory) (7)
   - [Foundations and Logic](#foundations-and-logic) (1)
   - [History of Mathematics](#history-of-mathematics) (6)
   - [Recreational Mathematics](#recreational-mathematics) (3)
   - [Topology and Geometry](#topology-and-geometry) (1)
-- **[Computer Science](#computer-science)** (85)
+- **[Computer Science](#computer-science)** (87)
   - [Algorithms and Data Structures](#algorithms-and-data-structures) (7)
   - [Compilers and Language Implementation](#compilers-and-language-implementation) (6)
   - [Computer Architecture and Parallelism](#computer-architecture-and-parallelism) (4)
   - [Computer Vision](#computer-vision) (1)
   - [Computing Education](#computing-education) (1)
   - [Distributed and Data Systems](#distributed-and-data-systems) (7)
-  - [Functional Programming](#functional-programming) (28)
+  - [Functional Programming](#functional-programming) (29)
   - [Networks and Security](#networks-and-security) (1)
   - [Operating Systems and Systems Programming](#operating-systems-and-systems-programming) (1)
-  - [Programming Languages and Type Theory](#programming-languages-and-type-theory) (18)
+  - [Programming Languages and Type Theory](#programming-languages-and-type-theory) (19)
   - [Software Design and Engineering](#software-design-and-engineering) (5)
   - [Theory of Computation](#theory-of-computation) (6)
 - **[AI and Machine Learning](#ai-and-machine-learning)** (60)
@@ -33,11 +33,11 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
   - [Large Language Models](#large-language-models) (40)
 - **[Physics and Engineering](#physics-and-engineering)** (4)
   - [Electrical Engineering](#electrical-engineering) (4)
-- **[Linguistics and Languages](#linguistics-and-languages)** (18)
-  - [Dravidian and Kannada Linguistics](#dravidian-and-kannada-linguistics) (4)
+- **[Linguistics and Languages](#linguistics-and-languages)** (19)
+  - [Dravidian and Kannada Linguistics](#dravidian-and-kannada-linguistics) (5)
   - [Historical Linguistics and Scripts](#historical-linguistics-and-scripts) (7)
   - [Sanskrit and Indo-Aryan Linguistics](#sanskrit-and-indo-aryan-linguistics) (7)
-- **[Other](#other)** (4)
+- **[Other](#other)** (5)
 
 ---
 
@@ -50,6 +50,7 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 | **Mathematics for Machine Learning: Linear Algebra, Week 1 slides** | DeepLearning.AI | DeepLearning.AI course slides, 2023 | Lecture slides for week 1 of course 1 (linear algebra) of DeepLearning.AI's Mathematics for ML specialization. |
 | **Mathematics for Machine Learning: Linear Algebra, Week 3 slides** | DeepLearning.AI | DeepLearning.AI course slides, 2023 | Lecture slides for week 3 of course 1 (linear algebra) of DeepLearning.AI's Mathematics for ML specialization. |
 | **Mathematics for Machine Learning: Linear Algebra, Week 4 slides** | DeepLearning.AI | DeepLearning.AI course slides, 2023 | Lecture slides for week 4 of course 1 (linear algebra) of DeepLearning.AI's Mathematics for ML specialization. |
+| **[A theory of regularity structures](https://arxiv.org/abs/1303.5113)** | Hairer | Inventiones Mathematicae, 2014 | Introduces regularity structures, a framework for giving meaning to and solving a class of singular stochastic partial differential equations such as the KPZ equation; the work behind Hairer's 2014 Fields Medal. |
 
 ### Category Theory
 
@@ -172,6 +173,7 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 | **Freer Monads, More Extensible Effects** | Kiselyov & Ishii | Haskell Symposium 2015 | Rationally reconstructs extensible effects from free monads to freer monads without a Functor constraint, yielding a faster and more comprehensible extensible-effects library. |
 | **Fun with Semirings: A functional pearl on the abuse of linear algebra** | Dolan | ICFP 2013 | Defines a Haskell typeclass for closed semirings and uses matrix and polynomial operations over them to solve problems such as transitive closure and shortest paths. |
 | **Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire** | Meijer, Fokkinga & Paterson | FPCA 1991 | Develops a calculus for lazy functional programming based on recursion operators (catamorphisms, anamorphisms, hylomorphisms, paramorphisms) and their algebraic laws. |
+| **Game of Life — Polyglot FP: Haskell, Scala, Unison (Part 1)** | Schwarz | Slide deck | Slides that code Conway's Game of Life in Haskell, translate it into Scala, and show how Unison replaces monadic effects with algebraic effects. |
 | **Garnishing Parsec with Parsley** | Willis & Wu | Scala Symposium 2018 | Describes Parsley, a Scala parser combinator library that keeps Parsec's style while achieving competitive performance. |
 | **Generalising Monads to Arrows** | Hughes | Science of Computer Programming (2000), 1998 | Introduces arrows, a generalisation of monads, as an interface for combinator libraries whose program fragments do not fit the monadic interface. |
 | **Grisette: Symbolic Compilation as a Functional Programming Library** | Lu & Bodik | POPL 2023 | Haskell library for symbolic compilation to SMT constraints. |
@@ -216,6 +218,7 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 | **A Programmable Programming Language** | Felleisen et al. | Communications of the ACM, 2018 | Argues that language-oriented programming needs programmable programming languages, using Racket as the example. |
 | **The Quantum Effect: A Recipe for QuantumPi** | Carette et al. | arXiv:2302.01885, 2023 | Builds a quantum programming language from two copies of a reversible classical language via free categorical constructions. |
 | **Reconciling Semantics and Reflection: Formalisms, Protocols, Applications and Architecture** | Rideau | PhD thesis draft, Ecole Nationale Superieure des Telecommunications, 2023 | Proposes an approach to reconciling semantics and reflection in computing systems, distinguishing three dimensions of meta-computation: ante/post (staging), hypo/hyper (semantic implementation and refinement) and back/fore (runtime effect control). |
+| **[Synthesizing Quantum-Circuit Optimizers](https://arxiv.org/abs/2211.09691)** | Xu, Molavi, Pick et al. | PLDI 2023 (arXiv) | Presents an approach that automatically synthesizes verified rewrite rules for quantum-circuit optimizers from a gate set, producing optimizers that match or beat hand-written ones. |
 | **Theorems for free!** | Wadler | FPCA 1989 | Shows how to derive a theorem from the type of any polymorphic function, using Reynolds' abstraction theorem for the polymorphic lambda calculus. |
 | **A tutorial implementation of a dependently typed lambda calculus** | Loh, McBride & Swierstra | Fundamenta Informaticae, 2010 | Presents the type rules of a dependently typed core calculus with a Haskell implementation, highlighting the changes from a simply-typed calculus and extending it with data types. |
 | **The Verse Calculus: a Core Calculus for Functional Logic Programming** | Augustsson et al. | Draft | Describes the Verse calculus, a core calculus for functional logic programming, equipped with a small-step rewrite semantics. |
@@ -342,6 +345,7 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 |-------|---------|-------|-------|
 | **A Bayesian phylogenetic study of the Dravidian language family** | Kolipakam et al. | Royal Society Open Science 5:171504, 2018 | Applies Bayesian phylogenetic inference (BEAST 2) to Dravidian basic vocabulary to estimate the family's subgrouping and an age of about 4,000-5,500 years. |
 | **An Efficient Kannada Dialect Identification Systems using NLP** | Anusha & Aditya | Grenze International Journal of Engineering and Technology | Analyses datasets and features for automatically identifying Kannada dialects, which fall into coastal, northern, southwestern and southern groups. |
+| **Proto-Dravidian Agriculture** | Southworth |  | Uses reconstructed Proto-Dravidian vocabulary for crops, tools and farming practices to infer the agriculture of early Dravidian speakers, aimed at bridging historical linguistics and archaeology. |
 | **Rice in Dravidian** | Southworth | Rice 4:142-148, 2012 | Uses linguistic evidence to trace Proto-Dravidian society and its agricultural vocabulary, the movement of Dravidian speakers into South Asia, and their role in rice cultivation. |
 | **Treatment of Case Markers in Sabdamanidarpanam and Tolkappiam: A Comparative Study** | Kodagunti | 2021 | Compares how the traditional grammars of Kannada (Sabdamanidarpana) and Tamil (Tolkappiyam) describe case markers, showing similar forms in the early stages of both languages. |
 
@@ -375,5 +379,6 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 |-------|---------|-------|-------|
 | **Ancient DNA reveals pervasive directional selection across West Eurasia** | Akbari et al. | Nature, 2026 | Uses large ancient-DNA samples to distinguish sustained directional selection from shifts due to migration and population structure in West Eurasian populations. |
 | **The Genetic Origin of the Indo-Europeans** | Lazaridis et al. | bioRxiv preprint, 2024 | Ancient-DNA study tracing the ancestry of Indo-European speakers to Caucasus-Lower Volga populations. |
+| **MCT1-dependent mitochondrial lactate import sustains cardiac metabolism** |  | Nature, 2026 | Reports that the transporter MCT1 imports lactate into heart mitochondria and that this import sustains cardiac energy metabolism. |
 | **The origin and dispersal of millet cultivation in India** | Singh | Interregional Contacts in the Later Prehistory of Northeastern Africa (Poznan), 1996 | Reviews archaeological evidence for the origin and spread of millet cultivation in India. |
 | **The Persian plateau served as hub for Homo sapiens after the main out of Africa dispersal** | Vallini et al. | Nature Communications, 2024 | Combines genetic and palaeoecological evidence to argue that the Persian plateau hosted the population ancestral to non-Africans between the out-of-Africa dispersal and later expansions. |
