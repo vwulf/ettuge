@@ -8,31 +8,31 @@ My textbooks and technical books — the ones on the shelf and the ones in the G
 
 ## Overview
 
-- **[Mathematics](#mathematics)** (51)
+- **[Mathematics](#mathematics)** (55)
   - [Algebra](#algebra) (3)
-  - [Analysis and Linear Algebra](#analysis-and-linear-algebra) (6)
+  - [Analysis and Linear Algebra](#analysis-and-linear-algebra) (9)
   - [Category Theory](#category-theory) (7)
   - [Discrete Mathematics and Combinatorics](#discrete-mathematics-and-combinatorics) (7)
   - [Foundations and Logic](#foundations-and-logic) (11)
   - [General and School Mathematics](#general-and-school-mathematics) (1)
-  - [Probability and Statistics](#probability-and-statistics) (5)
+  - [Probability and Statistics](#probability-and-statistics) (6)
   - [Recreational Mathematics](#recreational-mathematics) (7)
   - [Topology and Geometry](#topology-and-geometry) (4)
 - **[Computer Science](#computer-science)** (88)
   - [Algorithms and Data Structures](#algorithms-and-data-structures) (8)
   - [Compilers and Language Implementation](#compilers-and-language-implementation) (7)
   - [Computer Architecture and Parallelism](#computer-architecture-and-parallelism) (5)
-  - [Distributed and Data Systems](#distributed-and-data-systems) (8)
-  - [Functional Programming](#functional-programming) (20)
+  - [Distributed and Data Systems](#distributed-and-data-systems) (9)
+  - [Functional Programming](#functional-programming) (22)
   - [Interviews and Career](#interviews-and-career) (4)
-  - [Networks and Security](#networks-and-security) (8)
+  - [Networks and Security](#networks-and-security) (6)
   - [Operating Systems and Systems Programming](#operating-systems-and-systems-programming) (5)
-  - [Programming Languages and Type Theory](#programming-languages-and-type-theory) (15)
+  - [Programming Languages and Type Theory](#programming-languages-and-type-theory) (14)
   - [Software Design and Engineering](#software-design-and-engineering) (4)
   - [Theory of Computation](#theory-of-computation) (4)
-- **[AI and Machine Learning](#ai-and-machine-learning)** (13)
+- **[AI and Machine Learning](#ai-and-machine-learning)** (15)
   - [Applied ML](#applied-ml) (3)
-  - [Deep Learning](#deep-learning) (4)
+  - [Deep Learning](#deep-learning) (6)
   - [Foundations](#foundations) (6)
 - **[Physics and Engineering](#physics-and-engineering)** (8)
   - [Communications and Signal Processing](#communications-and-signal-processing) (2)
@@ -42,8 +42,8 @@ My textbooks and technical books — the ones on the shelf and the ones in the G
 - **[Linguistics and Languages](#linguistics-and-languages)** (6)
   - [Dravidian and Kannada Linguistics](#dravidian-and-kannada-linguistics) (2)
   - [Japanese](#japanese) (4)
-- **[Other](#other)** (11)
-  - [Martial Arts](#martial-arts) (5)
+- **[Other](#other)** (10)
+  - [Martial Arts](#martial-arts) (4)
   - [Not technical](#not-technical) (6)
 
 ---
@@ -66,7 +66,10 @@ My textbooks and technical books — the ones on the shelf and the ones in the G
 | **Computational Mathematics**<br><img src="covers/IMG_0521.jpg" width="60" alt="cover"> |  | 📕 | A textbook on computational mathematics (numerical methods and computation-oriented mathematics); the specific author and edition could not be identified from the photo. |
 | **Div, Grad, Curl, and All That: An Informal Text on Vector Calculus**<br><img src="covers/OL_252648.jpg" width="60" alt="cover"> | H. M. Schey | 💾 | An informal introduction to vector calculus motivated through electrostatics, building divergence, gradient, curl and the integral theorems intuitively. A beloved supplement for physics and engineering students. |
 | **Engineering Mathematics (VTU)**<br><img src="covers/IMG_8586.jpg" width="60" alt="cover"> | D. S. Chandrasekharaiah | 📕 | A Bangalore-published engineering mathematics textbook written to the Visvesvaraya Technological University syllabus, covering calculus, differential equations, transforms and related applied topics. A regional course text with little published review. |
+| **Linear Algebra** | Georgi E. Shilov | 💾 | A classic Soviet textbook (Dover translation) that develops determinants, linear spaces, linear transformations, quadratic forms and Euclidean spaces with rigour and economy. Prized as an inexpensive, thorough second course. The Drive copy is a scan. |
+| **Linear Algebra Done Wrong** | Sergei Treil | 💾 | A free textbook by a Brown University mathematician, written as a rigorous counterpoint to Axler's *Linear Algebra Done Right* — it keeps determinants central and covers spectral theory, inner products and canonical forms. Popular for honors and second courses. |
 | **Linear Algebra for Computer Vision, Robotics, and Machine Learning** | Jean Gallier & Jocelyn Quaintance | 💾 | A rigorous, extensive free treatment of linear algebra and matrix decompositions (SVD, QR, spectral theory) with applications to vision, robotics and ML. A companion to the authors' optimization volume. |
+| **Linear Algebra, Theory and Applications** | Kenneth Kuttler | 💾 | A free, open textbook covering matrices, determinants, vector spaces, linear transformations, spectral theory and numerical methods, with many applications and exercises. Comprehensive rather than concise. |
 | **Linear Algebra via Exterior Products**<br><img src="covers/OL_8688370.jpg" width="60" alt="cover"> | Sergei Winitzki | 💾 | A free text presenting finite-dimensional linear algebra in a coordinate-free way through exterior products, deriving determinants and related results without matrices. Known as an unusual and elegant alternative approach. |
 
 ### Category Theory
@@ -120,6 +123,7 @@ My textbooks and technical books — the ones on the shelf and the ones in the G
 | Book | Author | Format | About |
 |------|--------|:------:|-------|
 | **Bayesian Data Analysis**<br><img src="covers/IMG_0501.jpg" width="60" alt="cover"> | Andrew Gelman, John B. Carlin, Hal S. Stern, Donald B. Rubin | 📕 | The standard reference on applied Bayesian statistics, covering hierarchical models, model checking and computation (MCMC); widely used as a graduate text. |
+| **High-Dimensional Probability: An Introduction with Applications in Data Science** | Roman Vershynin | 💾 | A graduate text on concentration inequalities, random vectors and matrices, and random processes, with applications to covariance estimation, sparse recovery and machine learning. Widely used as the modern introduction to high-dimensional probability. |
 | **Intro Stats**, 2nd<br><img src="covers/IMG_8585.jpg" width="60" alt="cover"> | Richard De Veaux, Paul Velleman, David Bock | 📕 | An introductory, data-first statistics textbook emphasizing reasoning, graphics and real examples over formulas. Popular for introductory and AP statistics courses for its conversational style. |
 | **Introductory Probability and Statistical Applications**<br><img src="covers/IMG_0578.jpg" width="60" alt="cover"> | Paul L. Meyer | 📕 | A classic engineering-oriented probability and statistics text covering random variables, distributions, reliability and inference. Long used in engineering curricula, especially in India. |
 | **Mathematical Statistics with Applications**, 6th<br><img src="covers/IMG_8583.jpg" width="60" alt="cover"> | Dennis D. Wackerly, William Mendenhall, Richard L. Scheaffer | 📕 | A calculus-based introduction to probability and statistical inference covering distributions, estimation, hypothesis testing and regression. A standard upper-undergraduate mathematical statistics text. |
@@ -195,6 +199,7 @@ My textbooks and technical books — the ones on the shelf and the ones in the G
 | **Distributed Systems: Concepts and Design**<br><img src="covers/IMG_0411.jpg" width="60" alt="cover"> <img src="covers/IMG_0458.jpg" width="60" alt="cover"> | George Coulouris, Jean Dollimore, Tim Kindberg | 📕 | Long-running textbook on distributed system models, communication, naming, time, coordination, replication and transactions; a standard course text. |
 | **Fundamentals of Database Systems**, 3rd<br><img src="covers/IMG_8582.jpg" width="60" alt="cover"> | Ramez Elmasri & Shamkant B. Navathe | 📕 | A comprehensive database text covering ER modeling, the relational model, SQL, normalization, storage, indexing and transactions. One of the most widely adopted database textbooks. |
 | **High Performance Spark**<br><img src="covers/IMG_0716.jpg" width="60" alt="cover"> | Holden Karau & Rachel Warren | 📕 | O'Reilly guide to tuning and scaling Apache Spark jobs (partitioning, joins, memory, Datasets) with Scala examples. |
+| **Principles of Eventual Consistency** | Sebastian Burckhardt | 💾 | A monograph (Foundations and Trends in Programming Languages, 2014) that gives a formal framework for specifying and verifying eventually consistent replicated systems, including replicated data types and consistency guarantees. Valued as a rigorous treatment of a topic usually handled informally. |
 | **Proof of Stake: The Making of Ethereum and the Philosophy of Blockchains**<br><img src="covers/OL_13247560.jpg" width="60" alt="cover"> | Vitalik Buterin (ed. Nathan Schneider) | 📕 | A curated collection of Buterin's essays from 2014 to 2021 on Ethereum's design, proof-of-stake consensus, governance and public goods. Reviewers saw it as a useful record of the thinking behind Ethereum, though uneven as a book. |
 | **ZooKeeper: Distributed Process Coordination**<br><img src="covers/IMG_0717.jpg" width="60" alt="cover"> | Flavio Junqueira & Benjamin Reed | 📕 | O'Reilly guide by two of ZooKeeper's creators to using and operating it for coordination tasks such as leader election, locks and configuration. |
 
@@ -202,8 +207,9 @@ My textbooks and technical books — the ones on the shelf and the ones in the G
 
 | Book | Author | Format | About |
 |------|--------|:------:|-------|
+| **Haskell: The Craft of Functional Programming, 3rd ed.** | Simon Thompson | 💾 | A long-standing introductory textbook on functional programming in Haskell, covering types, recursion, higher-order functions, type classes, lazy evaluation and reasoning about programs. A standard university course text. |
 | **An Introduction to Functional Programming Through Lambda Calculus**<br><img src="covers/OL_8665007.jpg" width="60" alt="cover"> | Greg Michaelson | 💾 | Builds functional programming from the untyped lambda calculus up through data structures, recursion and evaluation strategies, with links to Lisp and ML. Valued as a gentle, self-contained introduction (reprinted by Dover). |
-| **Effect Oriented Programming** | Bill Frasure, Bruce Eckel, James Ward | 💾 | Introduces managing side effects, errors and dependencies as typed effects, with examples in Scala 3 and ZIO. Aimed at practitioners new to effect systems. |
+| **Effect Oriented Programming** | Bill Frasure, Bruce Eckel, James Ward | 💾 | (PDF and EPUB in Drive.) Introduces managing side effects, errors and dependencies as typed effects, with examples in Scala 3 and ZIO. Aimed at practitioners new to effect systems. |
 | **Elements of ML Programming**<br><img src="covers/IMG_0528.jpg" width="60" alt="cover"> | Jeffrey D. Ullman | 📕 | Introduction to programming in Standard ML (ML97 in later editions), covering types, pattern matching, higher-order functions and modules; a well-known teaching text for SML. |
 | **F# Deep Dives**<br><img src="covers/IMG_0530.jpg" width="60" alt="cover"> | Tomas Petricek, Phillip Trelford (eds.) | 📕 | A collection of chapters by F# practitioners applying the language to real domains such as finance, data science, games and web development. Valued as a showcase of applied functional programming rather than a language tutorial. |
 | **Functional Programming for Mortals with Scalaz**<br><img src="covers/IMG_0454.jpg" width="60" alt="cover"> <img src="covers/IMG_0729.jpg" width="60" alt="cover"> | Sam Halliday | 📕 | A practical guide to pure functional programming in Scala using the Scalaz library, built around a worked application and covering typeclasses, monads and effects. Well regarded in the Scala FP community for making the typelevel style approachable to working developers. |
@@ -215,6 +221,7 @@ My textbooks and technical books — the ones on the shelf and the ones in the G
 | **Pearls of Functional Algorithm Design**<br><img src="covers/IMG_0725.jpg" width="60" alt="cover"> | Richard Bird | 📕 | Thirty short chapters deriving efficient Haskell algorithms through equational reasoning; a celebrated showcase of program calculation. |
 | **The pigworker's StackOverflow answers** | Conor McBride | 💾 | A compiled collection of Conor McBride's ("pigworker") StackOverflow answers on Haskell, dependent types, applicative functors and related topics — an "accidental blook". Valued informally for its depth; not a published book. |
 | **Program Design by Calculation** | José N. Oliveira | 💾 | A textbook draft from the University of Minho on deriving programs by algebraic, point-free calculation — functions, relations, catamorphisms and other recursion schemes. A key text of the Bird–Meertens / Algebra of Programming tradition. |
+| **Programming in Scala, 5th ed.** | Martin Odersky, Lex Spoon, Bill Venners & Frank Sommers | 💾 | The comprehensive introduction to Scala co-written by the language's creator, updated for Scala 3: syntax, objects, traits, pattern matching, collections, functional programming and the type system. Widely regarded as the definitive Scala book. In Drive as PDF and EPUB. |
 | **Purely Functional Data Structures**<br><img src="covers/IMG_0787.jpg" width="60" alt="cover"> | Chris Okasaki | 📕 | Expanded from Okasaki's thesis, it shows how to design and analyze efficient immutable data structures using laziness and amortization; the classic work on the subject. |
 | **Real World Haskell**<br><img src="covers/IMG_0720.jpg" width="60" alt="cover"> | Bryan O'Sullivan, John Goerzen & Don Stewart | 📕 | O'Reilly book applying Haskell to practical tasks (I/O, parsing, databases, concurrency, testing); influential in bringing Haskell to working programmers, though parts are now dated. |
 | **Scala for the Impatient**, 3rd | Cay S. Horstmann | 📕 | A fast-paced, example-driven introduction to Scala for experienced programmers, updated in this edition for Scala 3. Well regarded as a concise practical guide. |
@@ -307,9 +314,11 @@ My textbooks and technical books — the ones on the shelf and the ones in the G
 | Book | Author | Format | About |
 |------|--------|:------:|-------|
 | **Deep Learning**<br><img src="covers/IMG_0537.jpg" width="60" alt="cover"> | Ian Goodfellow, Yoshua Bengio, Aaron Courville | 📕 | Comprehensive MIT Press text covering the mathematical background, modern practice and research frontiers of deep neural networks; long regarded as the field's standard reference. |
+| **Deep Learning and Computational Physics (Lecture Notes)** | Deep Ray, Orazio Pinti & Assad A. Oberai | 💾 | Lecture notes from the University of Southern California that introduce deep learning — MLPs, CNNs, generative models, physics-informed networks and operator learning — through the lens of computational physics. |
 | **Mathematical Theory of the Transformer, Vol. I: Foundations, Rationality, and the Incremental Transformer** | Giansalvo Cirrincione | 💾 | A recent Routledge monograph giving a mathematical treatment of the Transformer architecture, including the author's incremental Transformer. Too new for substantial critical reception. |
 | **The Hundred-Page Language Models Book**<br><img src="covers/OL_15131435.jpg" width="60" alt="cover"> | Andriy Burkov | 📕 | A compact introduction to language models, building from ML basics and count-based models through RNNs to Transformers and LLM practice, with code. Follows the well-received format of the author's Hundred-Page Machine Learning Book. (Title inferred from a partly hidden spine.) |
 | **The Little Learner: A Straight Line to Deep Learning**<br><img src="covers/OL_13824426.jpg" width="60" alt="cover"> | Daniel P. Friedman & Anurag Mendhekar | 📕 | MIT Press book in the 'Little' question-and-answer style that builds deep learning concepts from scratch in a Scheme dialect. |
+| **Understanding Deep Learning** | Simon J. D. Prince | 💾 | A textbook (MIT Press, 2023, free online) covering the ideas behind modern deep learning — supervised learning, network architectures, training, transformers, diffusion models and reinforcement learning — with notably clear diagrams. Very well received as a modern standard text. |
 
 ### Foundations
 
