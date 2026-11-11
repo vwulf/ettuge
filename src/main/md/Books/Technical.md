@@ -8,28 +8,28 @@ My textbooks and technical books — the ones on the shelf and the ones in the G
 
 ## Overview
 
-- **[Mathematics](#mathematics)** (49)
+- **[Mathematics](#mathematics)** (51)
   - [Algebra](#algebra) (3)
   - [Analysis and Linear Algebra](#analysis-and-linear-algebra) (6)
-  - [Category Theory](#category-theory) (5)
+  - [Category Theory](#category-theory) (7)
   - [Discrete Mathematics and Combinatorics](#discrete-mathematics-and-combinatorics) (7)
   - [Foundations and Logic](#foundations-and-logic) (11)
   - [General and School Mathematics](#general-and-school-mathematics) (1)
   - [Probability and Statistics](#probability-and-statistics) (5)
   - [Recreational Mathematics](#recreational-mathematics) (7)
   - [Topology and Geometry](#topology-and-geometry) (4)
-- **[Computer Science](#computer-science)** (83)
+- **[Computer Science](#computer-science)** (88)
   - [Algorithms and Data Structures](#algorithms-and-data-structures) (8)
   - [Compilers and Language Implementation](#compilers-and-language-implementation) (7)
   - [Computer Architecture and Parallelism](#computer-architecture-and-parallelism) (5)
   - [Distributed and Data Systems](#distributed-and-data-systems) (8)
-  - [Functional Programming](#functional-programming) (17)
+  - [Functional Programming](#functional-programming) (20)
   - [Interviews and Career](#interviews-and-career) (4)
   - [Networks and Security](#networks-and-security) (8)
   - [Operating Systems and Systems Programming](#operating-systems-and-systems-programming) (5)
   - [Programming Languages and Type Theory](#programming-languages-and-type-theory) (15)
   - [Software Design and Engineering](#software-design-and-engineering) (4)
-  - [Theory of Computation](#theory-of-computation) (2)
+  - [Theory of Computation](#theory-of-computation) (4)
 - **[AI and Machine Learning](#ai-and-machine-learning)** (13)
   - [Applied ML](#applied-ml) (3)
   - [Deep Learning](#deep-learning) (4)
@@ -75,9 +75,11 @@ My textbooks and technical books — the ones on the shelf and the ones in the G
 |------|--------|:------:|-------|
 | **Basic Category Theory for Computer Scientists**<br><img src="covers/OL_152263.jpg" width="60" alt="cover"> | Benjamin C. Pierce | 💾 | A short introduction to categories, functors, natural transformations, adjunctions and cartesian closed categories with applications to computing. A popular concise first text for programmers. |
 | **Category Theory for Programmers**<br><img src="covers/IMG_0497.jpg" width="60" alt="cover"> | Bartosz Milewski | 📕 | Book version of Milewski's blog series explaining categories, functors, monads, adjunctions and more with Haskell and C++ examples; a popular entry point for programmers. |
+| **Category Theory for Scientists** | David I. Spivak | 💾 | An introduction to category theory for scientists, built around sets, databases (ologs) and practical modelling rather than pure-mathematics examples; the drafts were published by MIT Press as *Category Theory for the Sciences* (2014). Praised as one of the most accessible applied introductions. |
 | **Category Theory in Context**<br><img src="covers/IMG_0496.jpg" width="60" alt="cover"> | Emily Riehl | 📕 | Dover graduate introduction covering categories, universal properties, the Yoneda lemma, limits, adjunctions and monads, with examples drawn from across mathematics; freely available and widely recommended. |
 | **Conceptual Mathematics: A First Introduction to Categories**<br><img src="covers/OL_10352229.jpg" width="60" alt="cover"> | F. William Lawvere & Stephen H. Schanuel | 💾 | An elementary, discussion-driven introduction to category theory assuming little background, by one of the field's founders. Praised for its gentle approach, though some readers find its pace slow. |
 | **Introducing Category Theory**, 2nd | Peter Smith | 💾 | A freely available, carefully paced introduction to category theory by a Cambridge logician, aimed at self-learners with some mathematical background. Valued for its clarity and leisurely explanations. |
+| **Monoidal Category Theory: Unifying Concepts in Mathematics, Physics, and Computing** | Noson S. Yanofsky | 💾 | A textbook (MIT Press, 2024) that builds from basic categories to monoidal categories and their variations, with short "mini-courses" on topics such as linear algebra, categorical logic and self-referential paradoxes. Aimed at a broad audience across mathematics, physics and computing. Two copies are in Drive: an early draft and the 2024 version. |
 
 ### Discrete Mathematics and Combinatorics
 
@@ -208,8 +210,11 @@ My textbooks and technical books — the ones on the shelf and the ones in the G
 | **Functional Programming in Lean**<br><img src="covers/IMG_0728.jpg" width="60" alt="cover"> | David Thrane Christiansen | 💾 | The official free introduction to Lean 4 as a programming language, covering structures, typeclasses, monads, dependent types and programs with proofs. The recommended starting point for programming in Lean. |
 | **Functional Programming in Scala**<br><img src="covers/IMG_0728.jpg" width="60" alt="cover"> | Paul Chiusano & Rúnar Bjarnason | 📕 | The 'red book': an exercise-driven course in deriving functional abstractions (monoids, monads, applicatives, streams) from first principles; considered a classic of FP pedagogy. |
 | **Functional and Reactive Domain Modeling**<br><img src="covers/IMG_0736.jpg" width="60" alt="cover"> | Debasish Ghosh | 📕 | Manning book applying algebraic, functional and reactive techniques to domain-driven design in Scala; noted for linking DDD with functional abstractions. |
+| **Learn Programming with OCaml** | Sylvain Conchon & Jean-Christophe Filliâtre | 💾 | An introduction to programming and algorithms through OCaml, translated from the authors' French textbook *Apprendre à programmer avec OCaml*. Pairs worked programs with classic data structures and algorithms; well regarded as a modern OCaml teaching text. |
 | **Parallel and Concurrent Programming in Haskell**<br><img src="covers/IMG_0726.jpg" width="60" alt="cover"> | Simon Marlow | 📕 | Covers deterministic parallelism (Eval, Strategies, the Par monad, Repa, Accelerate) and concurrency with threads, MVars and STM in GHC Haskell, by a principal developer of GHC's runtime. Regarded as the definitive book on the subject. |
 | **Pearls of Functional Algorithm Design**<br><img src="covers/IMG_0725.jpg" width="60" alt="cover"> | Richard Bird | 📕 | Thirty short chapters deriving efficient Haskell algorithms through equational reasoning; a celebrated showcase of program calculation. |
+| **The pigworker's StackOverflow answers** | Conor McBride | 💾 | A compiled collection of Conor McBride's ("pigworker") StackOverflow answers on Haskell, dependent types, applicative functors and related topics — an "accidental blook". Valued informally for its depth; not a published book. |
+| **Program Design by Calculation** | José N. Oliveira | 💾 | A textbook draft from the University of Minho on deriving programs by algebraic, point-free calculation — functions, relations, catamorphisms and other recursion schemes. A key text of the Bird–Meertens / Algebra of Programming tradition. |
 | **Purely Functional Data Structures**<br><img src="covers/IMG_0787.jpg" width="60" alt="cover"> | Chris Okasaki | 📕 | Expanded from Okasaki's thesis, it shows how to design and analyze efficient immutable data structures using laziness and amortization; the classic work on the subject. |
 | **Real World Haskell**<br><img src="covers/IMG_0720.jpg" width="60" alt="cover"> | Bryan O'Sullivan, John Goerzen & Don Stewart | 📕 | O'Reilly book applying Haskell to practical tasks (I/O, parsing, databases, concurrency, testing); influential in bringing Haskell to working programmers, though parts are now dated. |
 | **Scala for the Impatient**, 3rd | Cay S. Horstmann | 📕 | A fast-paced, example-driven introduction to Scala for experienced programmers, updated in this edition for Scala 3. Well regarded as a concise practical guide. |
@@ -280,8 +285,10 @@ My textbooks and technical books — the ones on the shelf and the ones in the G
 
 | Book | Author | Format | About |
 |------|--------|:------:|-------|
+| **Computability, Unsolvability, Randomness** | Stephen G. Simpson | 💾 | Lecture notes by a Penn State logician covering computability theory, degrees of unsolvability and algorithmic randomness. An informal course text rather than a published book. |
 | **Introduction to Automata Theory, Languages, and Computation**<br><img src="covers/IMG_0523.jpg" width="60" alt="cover"> | John E. Hopcroft, Rajeev Motwani, Jeffrey D. Ullman | 📕 | The 'Cinderella book', a standard text on finite automata, grammars, Turing machines, decidability and complexity; later editions with Motwani made it more accessible. |
 | **Lambda-Calculus and Combinators: An Introduction**<br><img src="covers/OL_8684269.jpg" width="60" alt="cover"> | J. Roger Hindley & Jonathan P. Seldin | 💾 | A rigorous introduction to untyped and typed lambda calculus and combinatory logic, covering reduction, computability and type assignment. A standard introductory text. |
+| **The Lambda Calculus: Its Syntax and Semantics** | H. P. Barendregt | 💾 | The standard reference on the untyped lambda calculus (North-Holland, revised 1984), covering conversion, reduction, Böhm trees and models. Encyclopedic and authoritative; the Drive copy is a publisher preview excerpt. |
 
 ---
 
