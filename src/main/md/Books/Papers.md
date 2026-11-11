@@ -178,7 +178,7 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 | Paper | Authors | Where | About |
 |-------|---------|-------|-------|
 | **'do' Unchained: Embracing Local Imperativity in a Purely Functional Language (Functional Pearl)** | Ullrich & de Moura | ICFP 2022 | Extends do-notation in Lean 4 with imperative features such as local mutation, early return and loops, translated into monadic code. |
-| **Applicative programming with effects (Functional Pearl)** | McBride & Paterson | Journal of Functional Programming, 2008 | Introduces applicative functors as an abstraction of effectful applicative-style programming weaker than monads, with their laws, generic operations and relation to monads and arrows. |
+| **Applicative programming with effects (Functional Pearl)** | McBride & Paterson | Journal of Functional Programming, 2008 | 🔍 Introduces applicative functors as an abstraction of effectful applicative-style programming weaker than monads, with their laws, generic operations and relation to monads and arrows. |
 | **Arrows and computation** | Paterson | The Fun of Programming (chapter), 2003 | Explores function-like 'notions of computation' through the common arrows interface, its subclasses, and its relation to monads. |
 | **Bringing Back Monad Comprehensions** | Giorgidze et al. | Haskell Symposium 2011 | Describes a GHC extension generalising list-comprehension notation to arbitrary monads, including parallel/zip, SQL-like and grouping clauses. |
 | **Build Systems a la Carte** | Mokhov, Mitchell & Peyton Jones | ICFP 2018 | Offers a systematic, executable framework for developing and comparing build systems, separating their components so they can be recombined into new build systems. |
