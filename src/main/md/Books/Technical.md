@@ -1,6 +1,6 @@
 # Technical
 
-My textbooks and technical books — the ones on the shelf and the ones in the Google Drive *Books* folder — arranged top-down by subject. Textbooks are never really *finished*, so there is no read/unread status here; each entry notes what the book covers and how it is regarded. Research papers have their own catalog: [Papers](Papers.md).
+My textbooks and technical books — the ones on the shelf and the ones in the Google Drive *Books* folder — arranged top-down by subject. Textbooks are never really *finished*, so there is no read/unread status here; each entry notes what the book covers and how it is regarded. Research papers have their own catalog: [Papers](Papers.md). 🔍 marks books I have gone through in detail with Claude.
 
 **Format:** 📕 physical copy · 💾 digital (PDF) · 📕💾 both · 🌐 free online book
 
@@ -331,7 +331,7 @@ My textbooks and technical books — the ones on the shelf and the ones in the G
 |------|--------|:------:|-------|
 | **Deep Learning**<br><img src="covers/IMG_0537.jpg" width="60" alt="cover"> | Ian Goodfellow, Yoshua Bengio, Aaron Courville | 📕 | Comprehensive MIT Press text covering the mathematical background, modern practice and research frontiers of deep neural networks; long regarded as the field's standard reference. |
 | **Deep Learning and Computational Physics (Lecture Notes)** | Deep Ray, Orazio Pinti & Assad A. Oberai | 💾 | Lecture notes from the University of Southern California that introduce deep learning — MLPs, CNNs, generative models, physics-informed networks and operator learning — through the lens of computational physics. |
-| **Mathematical Theory of the Transformer, Vol. I: Foundations, Rationality, and the Incremental Transformer** | Giansalvo Cirrincione | 💾 | A recent Routledge monograph giving a mathematical treatment of the Transformer architecture, including the author's incremental Transformer. Too new for substantial critical reception. |
+| **Mathematical Theory of the Transformer, Vol. I: Foundations, Rationality, and the Incremental Transformer** | Giansalvo Cirrincione | 💾 | 🔍 A pre-publication draft (Zenodo, headed for MIT Press) of a mathematical treatment of the transformer, built from the author's series of arXiv preprints, including the companion *Hierarchical Kernel Transformer* paper. Gone through in detail with Claude via those seven preprints. |
 | **The Hundred-Page Language Models Book**<br><img src="covers/OL_15131435.jpg" width="60" alt="cover"> | Andriy Burkov | 📕 | A compact introduction to language models, building from ML basics and count-based models through RNNs to Transformers and LLM practice, with code. Follows the well-received format of the author's Hundred-Page Machine Learning Book. (Title inferred from a partly hidden spine.) |
 | **The Little Learner: A Straight Line to Deep Learning**<br><img src="covers/OL_13824426.jpg" width="60" alt="cover"> | Daniel P. Friedman & Anurag Mendhekar | 📕 | MIT Press book in the 'Little' question-and-answer style that builds deep learning concepts from scratch in a Scheme dialect. |
 | **Multimodal Deep Learning** | Akkus et al. | 💾 | A book from an LMU seminar surveying multimodal deep learning: NLP and vision foundations, image-text models, text-to-image generation, and multimodal architectures. |

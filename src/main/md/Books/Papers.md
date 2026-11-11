@@ -27,11 +27,11 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
   - [Programming Languages and Type Theory](#programming-languages-and-type-theory) (25)
   - [Software Design and Engineering](#software-design-and-engineering) (5)
   - [Theory of Computation](#theory-of-computation) (8)
-- **[AI and Machine Learning](#ai-and-machine-learning)** (71)
-  - [Applied ML](#applied-ml) (9)
+- **[AI and Machine Learning](#ai-and-machine-learning)** (75)
+  - [Applied ML](#applied-ml) (10)
   - [Deep Learning](#deep-learning) (14)
-  - [Foundations](#foundations) (2)
-  - [Large Language Models](#large-language-models) (46)
+  - [Foundations](#foundations) (3)
+  - [Large Language Models](#large-language-models) (48)
 - **[Physics and Engineering](#physics-and-engineering)** (4)
   - [Electrical Engineering](#electrical-engineering) (4)
 - **[Linguistics and Languages](#linguistics-and-languages)** (30)
@@ -280,6 +280,7 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 | Paper | Authors | Where | About |
 |-------|---------|-------|-------|
 | **DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning** | Xiong, Hoang & Wang | EMNLP 2017 / arXiv:1707.06690 | Trains a policy-based RL agent in a knowledge-graph embedding space to find multi-hop relational paths for reasoning. |
+| **[How To Use Decision Models for Evals](https://hamel.dev/blog/posts/decision-model-evals/)** | Husain & Saha | Blog post, 2026 | 🔍 Argues for small, trained decision models as cheap, consistent stand-ins for LLM-as-judge in evaluation pipelines, and how to build and validate them. |
 | **iNLTK: Natural Language Toolkit for Indic Languages** | Arora | NLP-OSS Workshop, EMNLP 2020 | Open-source toolkit of pretrained models and augmentation for 13 Indic languages. |
 | **[Mathematical Entities: Corpora and Benchmarks](https://arxiv.org/abs/2406.11577)** | Collard, de Paiva & Subrahmanian | arXiv, 2024 | Provides three annotated corpora of mathematical text (182,397 sentences with POS tags, lemmas and dependency trees) and evaluates NLP models on them. |
 | **[Monolith: Real Time Recommendation System With Collisionless Embedding Table](https://arxiv.org/abs/2209.07663)** | Liu et al. | arXiv, 2022 | Describes ByteDance's Monolith, a real-time recommendation training system using collisionless embedding tables, addressing limits of general-purpose deep learning frameworks. |
@@ -312,6 +313,7 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 
 | Paper | Authors | Where | About |
 |-------|---------|-------|-------|
+| **[Defining and Generating Compositional Structure](https://arxiv.org/abs/2610.20922)** | Elmoznino, Kasetty, Agüera y Arcas, Bengio & Lajoie | arXiv, 2026 | 🔍 Gives a formal, complexity-based definition of compositional structure in representations and a way to generate data with controlled compositionality; read together with its rose-tree follow-up. |
 | **Handbook of Convergence Theorems for (Stochastic) Gradient Methods** | Garrigos & Gower | arXiv:2301.11235, 2023 | Collects convergence proofs for gradient descent, SGD and variants under standard assumptions. |
 | **Heckerthoughts** | Heckerman | arXiv:2302.05449, 2023 | Memoir-style essays on the author's work in probability, Bayesian networks and AI. |
 
@@ -352,6 +354,7 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 | **Scaling Instruction-Finetuned Language Models** | Chung et al. | arXiv:2210.11416, 2022 | Flan-PaLM/Flan-T5: scales instruction finetuning across tasks, model sizes and chain-of-thought data. |
 | **[Self-Organizing Graph Reasoning Evolves into a Critical State for Continuous Discovery Through Structural-Semantic Dynamics](https://arxiv.org/abs/2503.18852)** | Buehler | arXiv, 2025 | Analyses agentic graph-reasoning systems and reports that they evolve toward a critical state in which semantic entropy persistently dominates structural entropy, sustaining discovery. |
 | **Self-Taught Evaluators** | Wang et al. | arXiv, 2024 | Improves LLM-as-a-Judge evaluators without human preference labels, using an iterative self-improvement scheme over synthetic contrasting model outputs. |
+| **[Sparks of Weight-Space Programming](https://rikiyat.github.io/blog/weight-space-programming/)** | Takehi, Teoh, Zhang & Khattab | Blog post (MIT CSAIL), 2026 | 🔍 Reports that frontier LLMs can read a small network's raw weights, infer what they compute and edit them directly without training — e.g. lifting Qwen3.5-0.8B on MATH-500 from 7.9% to 48.1% by changing 0.016% of its weights. |
 | **SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot** | Frantar & Alistarh | ICML 2023 / arXiv:2301.00774 | Shows that GPT-family models such as OPT-175B and BLOOM-176B can be pruned to at least 50% sparsity in one shot without retraining, with minimal accuracy loss. |
 | **Thinking Like Transformers** | Weiss, Goldberg & Yahav | ICML 2021 (arXiv:2106.06981) | Proposes RASP, a programming language modelling the computation of a transformer encoder, and uses it to analyse what transformers can compute. |
 | **Towards a Science of AI Agent Reliability** | Rabanser et al. | arXiv, 2026 | Argues single accuracy metrics are insufficient for AI agents and proposes a holistic reliability profile (consistency across runs, robustness to perturbation, predictable failure, bounded error severity) grounded in safety-critical engineering. |
@@ -360,6 +363,7 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 | **Transcending Scaling Laws with 0.1% Extra Compute** | Tay et al. | arXiv:2210.11399, 2022 | U-PaLM: continued training of PaLM with the UL2 objective (UL2R) for improved scaling. |
 | **[Transformers as Algorithms: Generalization and Implicit Model Selection in In-context Learning](https://arxiv.org/abs/2301.07067)** | Li et al. | arXiv:2301.07067 (ICML 2023) | Treats in-context learning as algorithm learning and gives generalisation bounds. |
 | **UL2: Unifying Language Learning Paradigms** | Tay et al. | arXiv:2205.05131, 2022 | Proposes Mixture-of-Denoisers pretraining that unifies span corruption and causal LM objectives. |
+| **[Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety](https://arxiv.org/abs/2611.08438)** | Barez, Wu, Batra et al. (incl. Geva, Biderman, Bengio) | arXiv, 2026 | 🔍 A broad survey of mechanistic interpretability as a tool for AI safety — what circuit- and feature-level methods can and cannot yet tell us about model internals. (Reviewed from the abstract and overview; arXiv rate-limited the full text.) |
 | **Understanding and Detecting Hallucinations in Neural Machine Translation via Model Introspection** | Xu et al. | TACL (arXiv:2301.07779), 2023 | Analyses source-contribution patterns to detect hallucinated NMT outputs. |
 | **[Understanding LLMs: A Comprehensive Overview from Training to Inference](https://arxiv.org/abs/2401.02038)** | Liu et al. | arXiv, 2024 | Survey of techniques for training and running large language models, from data and architecture to inference. |
 | **Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor** | Honovich et al. | arXiv:2212.09689, 2022 | Builds a large instruction-tuning dataset generated by prompting an LLM, rivalling human-curated data. |
