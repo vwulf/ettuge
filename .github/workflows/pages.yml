@@ -754,6 +754,15 @@ jobs:
                   with open(tech_idx, 'w', encoding='utf-8') as f:
                       f.write(fm(title='Technical', parent='Books', nav_order=2))
                       f.write(tech_body)
+              # Papers.md — sidebar child of Books (research-paper catalog)
+              papers_idx = os.path.join(BOOKSDIR, 'Papers.md')
+              if os.path.exists(papers_idx):
+                  with open(papers_idx, encoding='utf-8') as f:
+                      pap_body = strip_fm(f.read())
+                  pap_body = re.sub(r'\]\(((?!http)[^)]+)\.md\)', r'](\1)', pap_body)
+                  with open(papers_idx, 'w', encoding='utf-8') as f:
+                      f.write(fm(title='Papers', parent='Books', nav_order=3))
+                      f.write(pap_body)
               # nav_exclude all individual book files (pages exist; just hidden from sidebar)
               for sub in ('influential', 'read'):
                   inf_dir = os.path.join(BOOKSDIR, sub)
