@@ -1,14 +1,14 @@
 # Papers
 
-Research papers, theses and technical reports I keep in the Google Drive *Books › Papers* folder, arranged top-down by subject — the same layout as [Technical](Technical.md). Each entry gives the authors, where it appeared, and a line on what it does.
+Research papers, theses and technical reports I keep in the Google Drive *Books › Papers* folder, arranged top-down by subject — the same layout as [Technical](Technical.md). Each entry gives the authors, where it appeared, and a line on what it does. 🔍 marks papers I have gone through in detail with Claude; these link to the published version and may not be in Drive.
 
 ---
 
 ## Overview
 
-- **[Mathematics](#mathematics)** (26)
+- **[Mathematics](#mathematics)** (27)
   - [Algebra](#algebra) (1)
-  - [Analysis and Linear Algebra](#analysis-and-linear-algebra) (4)
+  - [Analysis and Linear Algebra](#analysis-and-linear-algebra) (5)
   - [Category Theory](#category-theory) (7)
   - [Foundations and Logic](#foundations-and-logic) (4)
   - [History of Mathematics](#history-of-mathematics) (6)
@@ -27,18 +27,18 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
   - [Programming Languages and Type Theory](#programming-languages-and-type-theory) (25)
   - [Software Design and Engineering](#software-design-and-engineering) (5)
   - [Theory of Computation](#theory-of-computation) (8)
-- **[AI and Machine Learning](#ai-and-machine-learning)** (69)
+- **[AI and Machine Learning](#ai-and-machine-learning)** (71)
   - [Applied ML](#applied-ml) (9)
-  - [Deep Learning](#deep-learning) (13)
+  - [Deep Learning](#deep-learning) (14)
   - [Foundations](#foundations) (2)
-  - [Large Language Models](#large-language-models) (45)
+  - [Large Language Models](#large-language-models) (46)
 - **[Physics and Engineering](#physics-and-engineering)** (4)
   - [Electrical Engineering](#electrical-engineering) (4)
 - **[Linguistics and Languages](#linguistics-and-languages)** (30)
   - [Dravidian and Kannada Linguistics](#dravidian-and-kannada-linguistics) (6)
   - [Historical Linguistics and Scripts](#historical-linguistics-and-scripts) (15)
   - [Sanskrit and Indo-Aryan Linguistics](#sanskrit-and-indo-aryan-linguistics) (9)
-- **[Other](#other)** (8)
+- **[Other](#other)** (10)
 
 ---
 
@@ -54,6 +54,7 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 
 | Paper | Authors | Where | About |
 |-------|---------|-------|-------|
+| **[All elementary functions from a single operator](https://arxiv.org/abs/2603.21852)** | Odrzywołek | arXiv (cs.SC), 2026 | 🔍 Shows that the single binary operator eml(x, y) = eˣ − ln y, together with the constant 1, generates every elementary function — a "NAND gate" for continuous mathematics. I used it to coin an Ellara Kannada vocabulary for elementary functions. |
 | **Mathematics for Machine Learning: Linear Algebra, Week 1 slides** | DeepLearning.AI | DeepLearning.AI course slides, 2023 | Lecture slides for week 1 of course 1 (linear algebra) of DeepLearning.AI's Mathematics for ML specialization. |
 | **Mathematics for Machine Learning: Linear Algebra, Week 3 slides** | DeepLearning.AI | DeepLearning.AI course slides, 2023 | Lecture slides for week 3 of course 1 (linear algebra) of DeepLearning.AI's Mathematics for ML specialization. |
 | **Mathematics for Machine Learning: Linear Algebra, Week 4 slides** | DeepLearning.AI | DeepLearning.AI course slides, 2023 | Lecture slides for week 4 of course 1 (linear algebra) of DeepLearning.AI's Mathematics for ML specialization. |
@@ -303,6 +304,7 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 | **[The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)** | Frankle & Carbin | ICLR 2019 | Finds that standard pruning uncovers subnetworks whose initialisations let them train effectively, and states the hypothesis that dense networks contain such 'winning ticket' subnetworks. |
 | **Matryoshka Representation Learning** | Kusupati et al. | NeurIPS 2022 | Introduces Matryoshka Representation Learning, which encodes information at multiple granularities so one embedding can be truncated to fit downstream compute constraints. |
 | **Self Supervision Does Not Help Natural Language Supervision at Scale** | Weers et al. | arXiv:2301.07836, 2023 | Finds that adding image self-supervision to CLIP-style training gives no benefit at large scale. |
+| **[SpikingBrain Technical Report: Spiking Brain-inspired Large Models](https://arxiv.org/abs/2509.05276)** | Pan, Feng, Zhuang et al. | arXiv, 2025 | 🔍 Presents SpikingBrain-7B and 76B-A12B: linear-attention / mixture-of-experts models converted from Qwen2.5, using spike-based activations and trained on non-NVIDIA (MetaX) GPUs. I compared it with Hinton's ideas — Forward-Forward, mortal computation, fast weights, event-driven spikes. |
 | **Symbolic Discovery of Optimization Algorithms** | Chen et al. | arXiv:2302.06675, 2023 | Uses program search to discover Lion, a sign-momentum optimizer. |
 | **Understanding Back-Translation at Scale** | Edunov, Ott, Auli & Grangier | EMNLP 2018 / arXiv:1808.09381 | Studies ways to generate synthetic source sentences for back-translation in NMT and finds that sampling or noised beam outputs work best except in low-resource settings. |
 
@@ -342,6 +344,7 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 | **Memorizing Transformers** | Wu et al. | ICLR 2022 | Adds a kNN-retrievable external memory of past key-value pairs so language models can memorise new data at inference time. |
 | **Modern language models refute Chomsky's approach to language** | Piantadosi | Book chapter / LingBuzz preprint, 2023 | Argues that the success of large language models undermines innateness claims of generative linguistics. |
 | **[More Tokens, Lower Precision: Towards the Optimal Token-Precision Trade-off in KV Cache Compression](https://arxiv.org/abs/2412.12706)** | Zhang et al. | arXiv, 2024 | Investigates the trade-off between number of tokens and numeric precision in LLM KV-cache compression, finding that storing more tokens at lower precision (quantized pruning) improves long-context performance. |
+| **[OpenClaw-RL: Train Any Agent Simply by Talking](https://arxiv.org/abs/2603.10165)** | Wang, Chen, Jin et al. | arXiv, 2026 | 🔍 Argues that next-state signals — user replies, tool outputs — are training data agents throw away, and recovers them with binary RL scored by a process-reward judge plus on-policy distillation for token-level hints. The headline 0.17→0.81 gain comes from a simulated setting. Basis of my openclaw-rl skill. |
 | **PaLM: Scaling Language Modeling with Pathways** | Chowdhery et al. | arXiv:2204.02311 (JMLR 2023), 2022 | Describes PaLM, a 540B-parameter dense transformer trained with the Pathways system. |
 | **Parsel: A Unified Natural Language Framework for Algorithmic Reasoning** | Zelikman et al. | arXiv:2212.10561, 2022 | Introduces Parsel, which has code LLMs decompose a hierarchical natural-language function description into parts, implement each, and validate them with tests to solve complex algorithmic tasks. |
 | **[A Primer on the Inner Workings of Transformer-based Language Models](https://arxiv.org/abs/2405.00208)** | Ferrando, Sarti, Bisazza & Costa-jussa | arXiv, 2024 | Concise technical introduction to interpretability techniques for decoder-only Transformer language models and an overview of known internal mechanisms. |
@@ -428,6 +431,8 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 | **Ancient DNA from Protohistoric Period Cambodia indicates that South Asians admixed with local populations as early as 1st–3rd centuries CE** | Changmai et al. | Scientific Reports 12, 2022 | Ancient genomes from Vat Komnou, Cambodia, show South Asian admixture into Mainland Southeast Asian populations by the 1st–3rd centuries CE. |
 | **Ancient DNA reveals pervasive directional selection across West Eurasia** | Akbari et al. | Nature, 2026 | Uses large ancient-DNA samples to distinguish sustained directional selection from shifts due to migration and population structure in West Eurasian populations. |
 | **An Ancient Harappan Genome Lacks Ancestry from Steppe Pastoralists or Iranian Farmers** | Shinde et al. | Cell 179(3), 2019 | Reports a genome from Rakhigarhi in the Indus Valley Civilization with no detectable Steppe or Anatolian/Iranian farmer ancestry, from a population that is the largest source of ancestry for South Asians. |
+| **[Complex peopling history and expansion events inferred from large-scale modern and ancient Y chromosome sequences](https://doi.org/10.1126/sciadv.adu7935)** | He, Wang, Wang et al. | Science Advances, 2026 | 🔍 A large modern-and-ancient Y-chromosome study of China. Modern Indian and South Chinese paternal lines share only a deep FT-M89 trunk (~52–70 thousand years ago), with no Neolithic or later shared lineages; F lineages persist in Guangdong and Yunnan. |
+| **[Crosstalk of Magnesium and Serum Lipids in Dyslipidemia and Associated Disorders: A Systematic Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC8146023/)** |  | Systematic review (PMC), 2021 | 🔍 Reviews the links between magnesium status and serum lipids in dyslipidemia and related disorders; the supplementation evidence rests on 29 randomized controlled trials. |
 | **The Genetic Origin of the Indo-Europeans** | Lazaridis et al. | bioRxiv preprint, 2024 | Ancient-DNA study tracing the ancestry of Indo-European speakers to Caucasus-Lower Volga populations. |
 | **Growing in a Foreign World: For a History of the 'Meluhha Villages' in Mesopotamia in the 3rd Millennium BC** | Vidale | Melammu Symposia 4, 2004 | Archaeological and textual evidence for communities of Indus (Meluhhan) people settled in Mesopotamia in the 3rd millennium BC. |
 | **MCT1-dependent mitochondrial lactate import sustains cardiac metabolism** |  | Nature, 2026 | Reports that the transporter MCT1 imports lactate into heart mitochondria and that this import sustains cardiac energy metabolism. |
