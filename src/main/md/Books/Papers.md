@@ -6,42 +6,49 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 
 ## Overview
 
-- **[Mathematics](#mathematics)** (22)
+- **[Mathematics](#mathematics)** (26)
+  - [Algebra](#algebra) (1)
   - [Analysis and Linear Algebra](#analysis-and-linear-algebra) (4)
   - [Category Theory](#category-theory) (7)
-  - [Foundations and Logic](#foundations-and-logic) (1)
+  - [Foundations and Logic](#foundations-and-logic) (4)
   - [History of Mathematics](#history-of-mathematics) (6)
   - [Recreational Mathematics](#recreational-mathematics) (3)
   - [Topology and Geometry](#topology-and-geometry) (1)
-- **[Computer Science](#computer-science)** (87)
-  - [Algorithms and Data Structures](#algorithms-and-data-structures) (7)
-  - [Compilers and Language Implementation](#compilers-and-language-implementation) (6)
+- **[Computer Science](#computer-science)** (105)
+  - [Algorithms and Data Structures](#algorithms-and-data-structures) (8)
+  - [Compilers and Language Implementation](#compilers-and-language-implementation) (8)
   - [Computer Architecture and Parallelism](#computer-architecture-and-parallelism) (4)
   - [Computer Vision](#computer-vision) (1)
   - [Computing Education](#computing-education) (1)
-  - [Distributed and Data Systems](#distributed-and-data-systems) (7)
-  - [Functional Programming](#functional-programming) (29)
+  - [Distributed and Data Systems](#distributed-and-data-systems) (8)
+  - [Functional Programming](#functional-programming) (35)
   - [Networks and Security](#networks-and-security) (1)
   - [Operating Systems and Systems Programming](#operating-systems-and-systems-programming) (1)
-  - [Programming Languages and Type Theory](#programming-languages-and-type-theory) (19)
+  - [Programming Languages and Type Theory](#programming-languages-and-type-theory) (25)
   - [Software Design and Engineering](#software-design-and-engineering) (5)
-  - [Theory of Computation](#theory-of-computation) (6)
-- **[AI and Machine Learning](#ai-and-machine-learning)** (60)
-  - [Applied ML](#applied-ml) (6)
-  - [Deep Learning](#deep-learning) (12)
+  - [Theory of Computation](#theory-of-computation) (8)
+- **[AI and Machine Learning](#ai-and-machine-learning)** (69)
+  - [Applied ML](#applied-ml) (9)
+  - [Deep Learning](#deep-learning) (13)
   - [Foundations](#foundations) (2)
-  - [Large Language Models](#large-language-models) (40)
+  - [Large Language Models](#large-language-models) (45)
 - **[Physics and Engineering](#physics-and-engineering)** (4)
   - [Electrical Engineering](#electrical-engineering) (4)
-- **[Linguistics and Languages](#linguistics-and-languages)** (19)
-  - [Dravidian and Kannada Linguistics](#dravidian-and-kannada-linguistics) (5)
-  - [Historical Linguistics and Scripts](#historical-linguistics-and-scripts) (7)
-  - [Sanskrit and Indo-Aryan Linguistics](#sanskrit-and-indo-aryan-linguistics) (7)
-- **[Other](#other)** (5)
+- **[Linguistics and Languages](#linguistics-and-languages)** (30)
+  - [Dravidian and Kannada Linguistics](#dravidian-and-kannada-linguistics) (6)
+  - [Historical Linguistics and Scripts](#historical-linguistics-and-scripts) (15)
+  - [Sanskrit and Indo-Aryan Linguistics](#sanskrit-and-indo-aryan-linguistics) (9)
+- **[Other](#other)** (8)
 
 ---
 
 ## Mathematics
+
+### Algebra
+
+| Paper | Authors | Where | About |
+|-------|---------|-------|-------|
+| **Group Algebras and Coding Theory** | Guerreiro | arXiv:1412.8042, 2015 | A survey of how group-algebra techniques, especially idempotents, are used to construct and analyze minimal abelian codes and their minimum weights. |
 
 ### Analysis and Linear Algebra
 
@@ -68,7 +75,10 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 
 | Paper | Authors | Where | About |
 |-------|---------|-------|-------|
+| **Comparison of Two Theorem Provers: Isabelle/HOL and Coq** | Yushkovskiy | arXiv:1808.09701, 2018 | Compares Isabelle/HOL and Coq on their logics, proof styles and usability through worked examples. |
 | **A Lean proof of Fermat's Last Theorem (blueprint)** | Buzzard & Taylor | Project blueprint, 2025 | Blueprint for formalising a proof of Fermat's Last Theorem in Lean, covering the reductions to Frey packages, Galois representations and elliptic curves. |
+| **The Lean Theorem Prover (system description)** | de Moura et al. | CADE-25, 2015 | Describes Lean, an open-source theorem prover from Microsoft Research and CMU with a small trusted kernel based on dependent type theory, meant to bridge interactive and automated theorem proving. |
+| **Number Theory in a Proof Assistant** | Thickstun | Manuscript (github.com/jthickstun/lean), 2017 | Describes formalizing elementary number theory in the Lean proof assistant from a mathematician's point of view, and what the author learned about proof assistants. |
 
 ### History of Mathematics
 
@@ -103,6 +113,7 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 |-------|---------|-------|-------|
 | **Algorithmics** | IFIP Working Group 2.1 |  | Describes algorithmics, deriving efficient programs from high-level specifications by rigorous calculation, and the history and activities of IFIP WG 2.1. |
 | **Calculating path algorithms** | Backhouse, van den Eijnde & van Gasteren | Science of Computer Programming 22, 1994 | Gives calculational derivations, based on the algebra of regular languages, of two abstract path algorithms generalising Warshall/Floyd and Dijkstra/graph search. |
+| **Filtered-DiskANN: Graph Algorithms for Approximate Nearest Neighbor Search with Filters** | Gollapudi et al. | WWW 2023 | Presents graph-based ANN index algorithms (FilteredVamana, StitchedVamana) that support label filters on queries with high recall and throughput. |
 | **Graph Processing Library in Rust** | Bihani & Gagneja | Stanford course project report, 2017 | Explores three approaches to representing and processing graphs in Rust and compares their performance with the C++ SNAP library. |
 | **Ideal Hash Trees** | Bagwell | EPFL technical report, 2001 | Describes Hash Array Mapped Tries (HAMT), hash trees with near-constant insert/search/delete and low memory use, built on Array Mapped Tries. |
 | **[Optimal Bounds for Open Addressing Without Reordering](https://arxiv.org/abs/2501.02305)** | Farach-Colton, Krapivin & Kuszmaul | arXiv, 2025 | Constructs open-addressed hash tables without reordering that achieve much better expected search complexity than previously thought, disproving Yao's conjecture, with matching lower bounds. |
@@ -116,7 +127,9 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 | **[Counting Immutable Beans: Reference Counting Optimized for Purely Functional Programming](https://arxiv.org/abs/1908.05647)** | Ullrich & de Moura | IFL 2019 | Explores reference-counting optimisations such as destructive updates for an eager purely functional language (Lean 4), including borrowed references and inferred borrow annotations. |
 | **LLVM: An Infrastructure for Multi-Stage Optimization** | Lattner | MS thesis, University of Illinois at Urbana-Champaign, 2002 | Presents the design and implementation of LLVM, a compiler infrastructure supporting optimisation across compile, link, install and run time. |
 | **A Mechanically Verified Garbage Collector for OCaml** | Shamsu et al. | 2025 | Presents a mechanically verified garbage collector for OCaml, whose GC has a copying minor heap and an incremental mark-and-sweep major heap. |
+| **Monadic Compiler Calculation** | Bahr & Hutton | ICFP 2022 (PACMPL) | Extends the method of calculating correct compilers to handle divergence by using the partiality monad, covering convergent and divergent behaviour together. |
 | **Retrofitting Parallelism onto OCaml** | Sivaramakrishnan et al. | ICFP 2020 | Describes the design, implementation and evaluation of a mostly-concurrent garbage collector for multicore OCaml while preserving compatibility with existing code. |
+| **SSA Translation is an Abstract Interpretation** | Lemerre | POPL 2023 (PACMPL) | Shows that translation to SSA form can be expressed as an abstract interpretation, which allows the translation to be combined with other static analyses for more precision. |
 | **torch.fx: Practical Program Capture and Transformation for Deep Learning in Python** | Reed et al. | MLSys 2022 (arXiv:2112.08429) | Describes torch.fx, PyTorch's Python-level program capture and transformation toolkit. |
 | **Triton: An Intermediate Language and Compiler for Tiled Neural Network Computations** | Tillet, Kung & Cox | MAPL 2019 | Presents Triton, a tile-based language and compiler for writing efficient GPU kernels for neural networks. |
 
@@ -150,6 +163,7 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 | **Delta Lake: High-Performance ACID Table Storage over Cloud Object Stores** | Armbrust et al. | VLDB 2020 | Describes Delta Lake, an ACID table storage layer over cloud object stores using a transaction log. |
 | **Don't Thrash: How to Cache Your Hash on Flash** | Bender et al. | VLDB 2012 | Presents alternatives to the Bloom filter, starting with the quotient filter, and designs for operating such filters efficiently on flash storage. |
 | **[Flo: a Semantic Foundation for Progressive Stream Processing](https://arxiv.org/abs/2411.08274)** | Laddad, Cheung, Hellerstein & Milano | POPL 2025 | Identifies streaming progress and eager execution as semantic properties shared by streaming languages and formalises them in Flo, a parameterised streaming language with a type system for bounded and unbounded streams. |
+| **Keep CALM and CRDT On** | Laddad et al. | PVLDB 16(4), 2022 | Examines the limitations of CRDTs, especially for queries and consistency, and proposes research directions based on the CALM theorem. |
 | **Structured Interacting Computations (A position paper)** | Cook & Misra | 2008 | Describes the design philosophy of Orc: structuring concurrent programs hierarchically and allowing controlled interaction between subsystems by value passing. |
 | **Workflow Patterns in Orc** | Cook, Patwardhan & Misra | COORDINATION 2006 | Implements van der Aalst's workflow patterns in Orc, a process calculus for orchestrating wide-area computations, as reusable definitions. |
 
@@ -168,6 +182,7 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 | **Design Patterns for Parser Combinators (Functional Pearl)** | Willis & Wu | Haskell Symposium 2021 | Presents reusable patterns for writing parsers in combinator style that keep parsing code simple, separated and maintainable. |
 | **Desugaring Haskell's do-Notation into Applicative Operations** | Marlow, Peyton Jones, Kmett & Mokhov | Haskell Symposium 2016 | Shows how do-notation can be desugared into Applicative operations where possible, implemented as a GHC extension (ApplicativeDo). |
 | **Effect Handlers in Scope** | Wu, Schrijvers & Hinze | Haskell Symposium 2014 | Presents two ways to capture scoping constructs in the syntax of algebraic effect handlers and shows how reordering handlers gives different semantics. |
+| **The F# Computation Expression Zoo** | Petricek & Syme | PADL 2014 | Describes F# computation expressions, a single syntax that covers monads, monoids, applicatives and monad transformers, with examples and formal semantics. |
 | **Fail Faster: Staging and Fast Randomness for High-Performance PBT** | Richey, Cutler, Goldstein & Pierce |  | Measures the performance of property-based-testing generators and removes combinator abstraction overhead with a multi-stage programming technique (Allegro) plus faster sources of randomness. |
 | **Fold and Unfold for Program Semantics** | Hutton | ICFP 1998 | Shows how fold can structure denotational semantics and unfold operational semantics, and how their algebraic properties support reasoning about program semantics. |
 | **Freer Monads, More Extensible Effects** | Kiselyov & Ishii | Haskell Symposium 2015 | Rationally reconstructs extensible effects from free monads to freer monads without a Functor constraint, yielding a faster and more comprehensible extensible-effects library. |
@@ -177,13 +192,18 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 | **Garnishing Parsec with Parsley** | Willis & Wu | Scala Symposium 2018 | Describes Parsley, a Scala parser combinator library that keeps Parsec's style while achieving competitive performance. |
 | **Generalising Monads to Arrows** | Hughes | Science of Computer Programming (2000), 1998 | Introduces arrows, a generalisation of monads, as an interface for combinator libraries whose program fragments do not fit the monadic interface. |
 | **Grisette: Symbolic Compilation as a Functional Programming Library** | Lu & Bodik | POPL 2023 | Haskell library for symbolic compilation to SMT constraints. |
+| **Introduction to Programming with ZIO Functional Effects** | Vasquez | Scalac ebook, 2021 | A short ebook covering pure functions and functional effects and introducing the ZIO data type, its aliases, and a worked example application in Scala. |
+| **An Introduction to the Theory of Lists** | Bird | Oxford PRG Technical Monograph PRG-56, 1986 | Introduces the Bird–Meertens calculus of lists for deriving efficient functional programs by equational reasoning. |
+| **Kan Extensions for Program Optimisation, Or: Art and Dan Explain an Old Trick** | Hinze | MPC 2012 | Shows that absolute Kan extensions and the codensity monad underlie the program optimisation of converting direct-style programs to continuation-passing style. |
 | **Lava: Hardware Design in Haskell** | Bjesse, Claessen, Sheeran & Singh | ICFP 1998 | Presents Lava, a set of Haskell modules for specifying, simulating, verifying and generating hardware circuits, using monads, type classes and higher-order functions. |
 | **Monad Comprehensions: A Versatile Representation for Queries** | Grust | Chapter in The Functional Approach to Data Management (Springer), 2004 | Book chapter arguing monad comprehensions are a uniform query representation for database and collection processing. |
 | **Monads for functional programming** | Wadler | Advanced Functional Programming (Bastad summer school), 1995 | Describes using monads to structure functional programs, with case studies on an evaluator, in-place-update arrays and parsers. |
 | **Parsley: The Fastest Parser Combinator Library in the West** | Willis | MEng dissertation, University of Bristol, 2018 | Dissertation on the design and implementation of Parsley, a high-performance parser combinator library. |
+| **Persistent Software Transactional Memory in Haskell** | Krauter et al. | ICFP 2021 (PACMPL) | Extends Haskell STM to persistent (non-volatile) memory so transactions remain crash-consistent, and evaluates the implementation. |
 | **Scans and Convolutions: A Calculational Proof of Moessner's Theorem** | Hinze | IFL 2008 | Introduces scans and convolutions as corecursion schemes for streams and uses them to give a calculational proof of Paasche's generalisation of Moessner's theorem. |
 | **Species and Functors and Types, Oh My!** | Yorgey | Haskell Symposium 2010 | Teaches the theory of combinatorial species using functional-programming examples and introduces the Haskell species library. |
 | **Stackless Scala With Free Monads** | Bjarnason | Scala Days 2012 | Introduces trampolines in Scala and extends them, via free monads, to eliminate stack use for all method calls, not only tail calls. |
+| **Theory and Practice of Fusion** | Hinze, Harper & James | IFL 2010 | Uses recursive coalgebras to unify the theory of fusion techniques for eliminating intermediate data structures in functional programs. |
 | **A tutorial on the universality and expressiveness of fold** | Hutton | Journal of Functional Programming 9(4), 1999 | Tutorial on the universal property of fold as a proof and definition principle, and on the unexpected expressive power of fold with tuples and first-class functions. |
 | **What You Needa Know about Yoneda: Profunctor Optics and the Yoneda Lemma (Functional Pearl)** | Boisseau & Gibbons | ICFP 2018 | Derives the profunctor representation of optics (lenses, prisms) from the concrete getter/setter representation as an application of the Yoneda Lemma. |
 
@@ -209,14 +229,20 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 | **Characterizing functions mappable over GADTs** |  |  | Develops an algorithm that, given a term of a (deep) GADT type, returns the constraints a function must satisfy to be mappable over it. |
 | **Computational lambda-calculus and monads** | Moggi | LICS 1989 | Gives a calculus based on a categorical semantics of computations that provides a correct basis for proving program equivalence independent of any specific computational model. |
 | **A Denotational Semantics of Inheritance and its Correctness** | Cook & Palsberg | Information and Computation 114(2), 1994 | Presents a denotational model of inheritance as deriving modified versions of recursive definitions and proves it equivalent to an operational method-lookup semantics. |
+| **Dependent Types in Haskell: Theory and Practice** | Eisenberg | PhD thesis, University of Pennsylvania, 2016 | Designs Dependent Haskell, extending GHC's core language and surface syntax with full dependent types, and gives its metatheory. |
 | **[Do Be Do Be Do](https://arxiv.org/abs/1611.09259)** | Lindley, McBride & McLaughlin | POPL 2017 (arXiv) | Presents Frank, a strict functional language with a bidirectional effect type system in which functions generalise to operators that handle effects (multihandlers). |
 | **Elastic Sheet-Defined Functions: Generalising Spreadsheet Functions to Variable-Size Input Arrays** | McCutchen et al. |  | Describes a principled way to generalise spreadsheet sheet-defined functions written over fixed-size arrays into elastic functions that work on inputs of arbitrary size. |
+| **Fixpoints for the Masses: Programming with First-Class Datalog Constraints** | Madsen & Lhoták | OOPSLA 2020 | Proposes first-class Datalog constraints in Flix so Datalog programs can be constructed, composed and solved at run time from a functional language. |
 | **Integrating Functional and Imperative Programming** | Gifford & Lucassen | LFP 1986 | Presents fluent languages with separate functional and imperative sublanguages, checked by a static system that infers both the type and effect class of every expression. |
+| **An Introduction to Algebraic Effects and Handlers** | Pretnar | MFPS 2015 (ENTCS) | A tutorial on algebraic effects and handlers with examples, an operational semantics, a type-and-effect system, and reasoning principles. |
+| **An Introduction to Quantum Programming in Quipper** | Green et al. | RC 2013 / arXiv:1304.5485 | A tutorial introduction to Quipper that implements a quantum algorithm and shows its key language features. |
+| **Modular Formal Verification of Rust Programs with Unsafe Blocks** | Rahimi Foroushaani & Jacobs | KU Leuven technical report / arXiv:2212.12976, 2022 | Presents a VeriFast-based approach to modularly verifying Rust programs that contain unsafe blocks, building on RustBelt semantics. |
 | **Notions of computation and monads** | Moggi | Information and Computation 93, 1991 | Introduces calculi based on a categorical (monadic) semantics of computations that give a correct basis for proving program equivalence across many notions of computation. |
 | **On Understanding Data Abstraction, Revisited** | Cook | OOPSLA 2009 Onward! Essays | Contrasts objects and abstract data types as two distinct forms of data abstraction. |
 | **OrcO: A Concurrency-First Approach to Objects** | Peters, Kitchin, Thywissen & Cook | OOPSLA 2016 | Presents OrcO, an object system for the Orc concurrent language designed with concurrency first. |
 | **A Programmable Programming Language** | Felleisen et al. | Communications of the ACM, 2018 | Argues that language-oriented programming needs programmable programming languages, using Racket as the example. |
 | **The Quantum Effect: A Recipe for QuantumPi** | Carette et al. | arXiv:2302.01885, 2023 | Builds a quantum programming language from two copies of a reversible classical language via free categorical constructions. |
+| **Quipper: A Scalable Quantum Programming Language** | Green et al. | PLDI 2013 / arXiv:1304.3390 | Introduces Quipper, a scalable, functional, higher-order quantum programming language embedded in Haskell for describing large quantum algorithms. |
 | **Reconciling Semantics and Reflection: Formalisms, Protocols, Applications and Architecture** | Rideau | PhD thesis draft, Ecole Nationale Superieure des Telecommunications, 2023 | Proposes an approach to reconciling semantics and reflection in computing systems, distinguishing three dimensions of meta-computation: ante/post (staging), hypo/hyper (semantic implementation and refinement) and back/fore (runtime effect control). |
 | **[Synthesizing Quantum-Circuit Optimizers](https://arxiv.org/abs/2211.09691)** | Xu, Molavi, Pick et al. | PLDI 2023 (arXiv) | Presents an approach that automatically synthesizes verified rewrite rules for quantum-circuit optimizers from a gate set, producing optimizers that match or beat hand-written ones. |
 | **Theorems for free!** | Wadler | FPCA 1989 | Shows how to derive a theorem from the type of any polymorphic function, using Reynolds' abstraction theorem for the polymorphic lambda calculus. |
@@ -237,9 +263,11 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 
 | Paper | Authors | Where | About |
 |-------|---------|-------|-------|
+| **Complexity and Completeness of Finding Another Solution and Its Application to Puzzles** | Yato | Master's thesis, University of Tokyo, 2003 | Defines ASP-completeness, the complexity of finding another solution given one, and proves it for puzzles such as Slitherlink and Cross Sum. |
 | **[Flat Origami is Turing Complete](https://arxiv.org/abs/2309.07932)** | Hull & Zakharevich | arXiv, 2023 | Proves that flat origami, viewed as a computational device, is Turing complete. |
 | **A Fresh Look at the lambda-Calculus** | Accattoli | FSCD 2019 (invited talk) | Bird's-eye view of questions about the untyped lambda-calculus: measuring the complexity of terms, decomposing and implementing evaluation, and how these vary with the evaluation strategy. |
 | **Interaction Combinators** | Lafont | Information and Computation 137, 1997 | Shows that a simple system of three interaction combinators is universal for interaction nets. |
+| **MIP* = RE** | Ji, Natarajan, Vidick, Wright & Yuen | arXiv:2001.04383, 2020 | Proves that the class MIP* of languages decidable by a classical verifier interacting with entangled quantum provers equals RE, which refutes Connes' embedding conjecture. |
 | **[A Programming Language Oriented Approach to Computability](https://arxiv.org/abs/1402.2949)** | Karper | Bachelor thesis, University of Bern, 2013 | Develops computability theory using simple programming languages (FOR and WHILE) and transformations between them. |
 | **[Simulating Time With Square-Root Space](https://arxiv.org/abs/2502.17779)** | Williams | arXiv, 2025 | Shows that every multitape Turing machine running in time t can be simulated in space O(sqrt(t log t)), improving the 50-year-old Hopcroft-Paul-Valiant bound. |
 | **A Tutorial Introduction to the Lambda Calculus** | Rojas | Lecture notes, FU Berlin, 1997 | Short introduction to the lambda calculus showing arithmetic and recursive definitions without named functions. |
@@ -250,11 +278,14 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 
 | Paper | Authors | Where | About |
 |-------|---------|-------|-------|
+| **DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning** | Xiong, Hoang & Wang | EMNLP 2017 / arXiv:1707.06690 | Trains a policy-based RL agent in a knowledge-graph embedding space to find multi-hop relational paths for reasoning. |
 | **iNLTK: Natural Language Toolkit for Indic Languages** | Arora | NLP-OSS Workshop, EMNLP 2020 | Open-source toolkit of pretrained models and augmentation for 13 Indic languages. |
 | **[Mathematical Entities: Corpora and Benchmarks](https://arxiv.org/abs/2406.11577)** | Collard, de Paiva & Subrahmanian | arXiv, 2024 | Provides three annotated corpora of mathematical text (182,397 sentences with POS tags, lemmas and dependency trees) and evaluates NLP models on them. |
 | **[Monolith: Real Time Recommendation System With Collisionless Embedding Table](https://arxiv.org/abs/2209.07663)** | Liu et al. | arXiv, 2022 | Describes ByteDance's Monolith, a real-time recommendation training system using collisionless embedding tables, addressing limits of general-purpose deep learning frameworks. |
 | **MusicLM: Generating Music From Text** | Agostinelli et al. | arXiv:2301.11325, 2023 | Hierarchical sequence-to-sequence model generating high-fidelity music from text descriptions. |
 | **[Pre-training ULMFiT on Synthetically Generated Code-Mixed Data for Hate Speech Detection](https://arxiv.org/abs/2010.02094)** | Arora | HASOC-Dravidian-CodeMix FIRE 2020 | System description for hate-speech detection in Tamil-English and Malayalam-English code-mixed text using ULMFiT pretrained on synthetic data. |
+| **Recommending What Video to Watch Next: A Multitask Ranking System** | Zhao et al. | RecSys 2019 | Describes YouTube's large-scale multitask ranking system, which uses Multi-gate Mixture-of-Experts and a shallow tower to reduce selection bias from implicit feedback. |
+| **Revisiting Low Resource Status of Indian Languages in Machine Translation** | Philip et al. | CODS-COMAD 2021 / arXiv:2008.04860, 2020 | Builds larger parallel corpora for Indian languages by aligning news and government sources, and trains multilingual NMT models that improve on earlier benchmarks. |
 | **[Wu's Method can Boost Symbolic AI to Rival Silver Medalists and AlphaGeometry to Outperform Gold Medalists at IMO Geometry](https://arxiv.org/abs/2404.06405)** | Sinha et al. | arXiv:2404.06405, 2024 | Shows Wu's algebraic method combined with AlphaGeometry solves 27/30 IMO geometry problems. |
 
 ### Deep Learning
@@ -273,6 +304,7 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 | **Matryoshka Representation Learning** | Kusupati et al. | NeurIPS 2022 | Introduces Matryoshka Representation Learning, which encodes information at multiple granularities so one embedding can be truncated to fit downstream compute constraints. |
 | **Self Supervision Does Not Help Natural Language Supervision at Scale** | Weers et al. | arXiv:2301.07836, 2023 | Finds that adding image self-supervision to CLIP-style training gives no benefit at large scale. |
 | **Symbolic Discovery of Optimization Algorithms** | Chen et al. | arXiv:2302.06675, 2023 | Uses program search to discover Lion, a sign-momentum optimizer. |
+| **Understanding Back-Translation at Scale** | Edunov, Ott, Auli & Grangier | EMNLP 2018 / arXiv:1808.09381 | Studies ways to generate synthetic source sentences for back-translation in NMT and finds that sampling or noised beam outputs work best except in low-resource settings. |
 
 ### Foundations
 
@@ -287,6 +319,7 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 |-------|---------|-------|-------|
 | **[Are Language Models Agnostic to Linguistically Grounded Perturbations? A Case Study of Indic Languages](https://arxiv.org/abs/2412.10805)** | Ghosh, Dabre & Bhattacharyya | arXiv, 2024 | Studies whether pretrained language models are robust to linguistically grounded input perturbations across Indic languages and downstream tasks, compared with non-linguistic attacks. |
 | **[Ask, and it shall be given: Turing completeness of prompting](https://arxiv.org/abs/2411.01992)** | Qiu, Xu, Bao & Tong | arXiv, 2024 | Shows that prompting is Turing-complete: a single finite-size Transformer can compute any computable function given a suitable prompt. |
+| **Attention Is All You Need** | Vaswani et al. | NeurIPS 2017 / arXiv:1706.03762 | Introduces the Transformer, a sequence transduction architecture based only on attention, with state-of-the-art translation results. |
 | **[Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)** | Wei et al. | NeurIPS 2022 (arXiv:2201.11903) | Shows that prompting with intermediate reasoning steps markedly improves LLM performance on arithmetic, commonsense and symbolic reasoning. |
 | **A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT** | Li et al. | arXiv:2302.09419, 2023 | Survey of pretrained foundation models across text, image and graph modalities. |
 | **Data Selection for Language Models via Importance Resampling** | Xie et al. | arXiv:2302.03169 (NeurIPS 2023) | Proposes DSIR, selecting pretraining data by importance resampling on hashed n-gram features. |
@@ -298,6 +331,7 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 | **Formal Algorithms for Transformers** | Phuong & Hutter | arXiv:2207.09238, 2022 | Self-contained, mathematically precise pseudocode overview of transformer architectures and training. |
 | **The Future of Programming in the Age of Large Language Models** | Guha & Zorn | CCC/CRA-I Whitepaper, 2025 | Whitepaper on how LLMs are changing software development and computing education, and the research questions this raises. |
 | **[GLM-130B: An Open Bilingual Pre-trained Model](https://arxiv.org/abs/2210.02414)** | Zeng et al. | arXiv:2210.02414 (ICLR 2023), 2022 | Technical report on training an open 130B-parameter English-Chinese language model. |
+| **Improving Language Models by Retrieving from Trillions of Tokens (RETRO)** | Borgeaud et al. | ICML 2022 / arXiv:2112.04426 | Introduces RETRO, which conditions an autoregressive LM on document chunks retrieved from a 2-trillion-token database, matching much larger models with far fewer parameters. |
 | **[IndicGenBench: A Multilingual Benchmark to Evaluate Generation Capabilities of LLMs on Indic Languages](https://arxiv.org/abs/2404.16816)** | Singh et al. | arXiv:2404.16816 (ACL 2024) | Benchmark of generation tasks across 29 Indic languages to evaluate LLMs. |
 | **[Knowledge Mechanisms in Large Language Models: A Survey and Perspective](https://arxiv.org/abs/2407.15017)** | Wang et al. | arXiv, 2024 | Reviews analysis of knowledge mechanisms in LLMs under a taxonomy of knowledge utilisation (memorisation, comprehension, creation) and knowledge evolution. |
 | **[Language Imbalance Can Boost Cross-lingual Generalisation](https://arxiv.org/abs/2404.07982)** | Schafer et al. | arXiv:2404.07982, 2024 | Finds that training with a dominant main language can improve cross-lingual generalisation in language models. |
@@ -309,14 +343,17 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 | **Modern language models refute Chomsky's approach to language** | Piantadosi | Book chapter / LingBuzz preprint, 2023 | Argues that the success of large language models undermines innateness claims of generative linguistics. |
 | **[More Tokens, Lower Precision: Towards the Optimal Token-Precision Trade-off in KV Cache Compression](https://arxiv.org/abs/2412.12706)** | Zhang et al. | arXiv, 2024 | Investigates the trade-off between number of tokens and numeric precision in LLM KV-cache compression, finding that storing more tokens at lower precision (quantized pruning) improves long-context performance. |
 | **PaLM: Scaling Language Modeling with Pathways** | Chowdhery et al. | arXiv:2204.02311 (JMLR 2023), 2022 | Describes PaLM, a 540B-parameter dense transformer trained with the Pathways system. |
+| **Parsel: A Unified Natural Language Framework for Algorithmic Reasoning** | Zelikman et al. | arXiv:2212.10561, 2022 | Introduces Parsel, which has code LLMs decompose a hierarchical natural-language function description into parts, implement each, and validate them with tests to solve complex algorithmic tasks. |
 | **[A Primer on the Inner Workings of Transformer-based Language Models](https://arxiv.org/abs/2405.00208)** | Ferrando, Sarti, Bisazza & Costa-jussa | arXiv, 2024 | Concise technical introduction to interpretability techniques for decoder-only Transformer language models and an overview of known internal mechanisms. |
 | **[Rethinking Reflection in Pre-Training](https://arxiv.org/abs/2504.04022)** | Essential AI | arXiv, 2025 | Introduces deliberate errors into chains-of-thought and shows that language models' ability to recognise and correct them emerges during pre-training and improves with pre-training compute. |
 | **Scaling Instruction-Finetuned Language Models** | Chung et al. | arXiv:2210.11416, 2022 | Flan-PaLM/Flan-T5: scales instruction finetuning across tasks, model sizes and chain-of-thought data. |
 | **[Self-Organizing Graph Reasoning Evolves into a Critical State for Continuous Discovery Through Structural-Semantic Dynamics](https://arxiv.org/abs/2503.18852)** | Buehler | arXiv, 2025 | Analyses agentic graph-reasoning systems and reports that they evolve toward a critical state in which semantic entropy persistently dominates structural entropy, sustaining discovery. |
 | **Self-Taught Evaluators** | Wang et al. | arXiv, 2024 | Improves LLM-as-a-Judge evaluators without human preference labels, using an iterative self-improvement scheme over synthetic contrasting model outputs. |
+| **SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot** | Frantar & Alistarh | ICML 2023 / arXiv:2301.00774 | Shows that GPT-family models such as OPT-175B and BLOOM-176B can be pruned to at least 50% sparsity in one shot without retraining, with minimal accuracy loss. |
 | **Thinking Like Transformers** | Weiss, Goldberg & Yahav | ICML 2021 (arXiv:2106.06981) | Proposes RASP, a programming language modelling the computation of a transformer encoder, and uses it to analyse what transformers can compute. |
 | **Towards a Science of AI Agent Reliability** | Rabanser et al. | arXiv, 2026 | Argues single accuracy metrics are insufficient for AI agents and proposes a holistic reliability profile (consistency across runs, robustness to perturbation, predictable failure, bounded error severity) grounded in safety-critical engineering. |
 | **[Towards Large Language Models as Copilots for Theorem Proving in Lean](https://arxiv.org/abs/2404.12534)** | Song, Yang & Anandkumar | arXiv:2404.12534, 2024 | Introduces Lean Copilot, a framework for running LLM inference inside Lean to suggest tactics and premises. |
+| **Tracr: Compiled Transformers as a Laboratory for Interpretability** | Lindner et al. | NeurIPS 2023 / arXiv:2301.05062 | Introduces Tracr, a compiler from RASP programs to transformer weights, which yields models with known mechanisms as ground truth for interpretability research. |
 | **Transcending Scaling Laws with 0.1% Extra Compute** | Tay et al. | arXiv:2210.11399, 2022 | U-PaLM: continued training of PaLM with the UL2 objective (UL2R) for improved scaling. |
 | **[Transformers as Algorithms: Generalization and Implicit Model Selection in In-context Learning](https://arxiv.org/abs/2301.07067)** | Li et al. | arXiv:2301.07067 (ICML 2023) | Treats in-context learning as algorithm learning and gives generalisation bounds. |
 | **UL2: Unifying Language Learning Paradigms** | Tay et al. | arXiv:2205.05131, 2022 | Proposes Mixture-of-Denoisers pretraining that unifies span corruption and causal LM objectives. |
@@ -346,6 +383,7 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 | **A Bayesian phylogenetic study of the Dravidian language family** | Kolipakam et al. | Royal Society Open Science 5:171504, 2018 | Applies Bayesian phylogenetic inference (BEAST 2) to Dravidian basic vocabulary to estimate the family's subgrouping and an age of about 4,000-5,500 years. |
 | **An Efficient Kannada Dialect Identification Systems using NLP** | Anusha & Aditya | Grenze International Journal of Engineering and Technology | Analyses datasets and features for automatically identifying Kannada dialects, which fall into coastal, northern, southwestern and southern groups. |
 | **Proto-Dravidian Agriculture** | Southworth |  | Uses reconstructed Proto-Dravidian vocabulary for crops, tools and farming practices to infer the agriculture of early Dravidian speakers, aimed at bridging historical linguistics and archaeology. |
+| **Proto-Dravidian Languages in Indus Civilization: Ultraconserved Tooth-word Reveals Deep Ancestry** | Mukhopadhyay | SSRN preprint (later Palgrave Communications 2021), 2020 | Argues that Mesopotamian and Persian words for ivory and elephant were borrowed from a Proto-Dravidian word 'pīlu' used in the Indus civilization and related to the tooth-word '*pal'. |
 | **Rice in Dravidian** | Southworth | Rice 4:142-148, 2012 | Uses linguistic evidence to trace Proto-Dravidian society and its agricultural vocabulary, the movement of Dravidian speakers into South Asia, and their role in rice cultivation. |
 | **Treatment of Case Markers in Sabdamanidarpanam and Tolkappiam: A Comparative Study** | Kodagunti | 2021 | Compares how the traditional grammars of Kannada (Sabdamanidarpana) and Tamil (Tolkappiyam) describe case markers, showing similar forms in the early stages of both languages. |
 
@@ -355,10 +393,18 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 |-------|---------|-------|-------|
 | **The Decipherment of Linear Elamite Writing** | Desset et al. | Zeitschrift fur Assyriologie 112(1), 2022 | Presents a decipherment of Linear Elamite, used in southern Iran c. 2300-1880 BCE, starting from eight inscribed silver beakers published in 2018. |
 | **Drift, Convergence, and the Ergative Cycle** | Kiparsky |  | Examines drift, convergence and cyclic change as problems for the theory of language change, using the evolution of Indo-Iranian case and agreement syntax from nominative/accusative to ergative alignment. |
+| **Gold and 'ratti' signs inscribed on Mohenjo-Daro's gold-assaying needles, fish-sign inscriptions signifying gemstones concentrated near lapidaries: Indus script's taxed commodities** | Mukhopadhyay | SSRN preprint, 2022 | Claims that certain Indus inscriptions record gold and 'ratti' weights and that fish signs denote gemstones, extending the author's taxation reading of the Indus script. |
+| **Guild-based trading, taxation, tax farming, trade and craft licensing, access control: Economic practices of Indus civilization encoded in Indus script** | Mukhopadhyay | SSRN preprint, 2022 | Argues that Indus inscriptions are logographic, that stamp seals were mainly revenue and trade-regulation stamps, and that tablets were licenses for tax collectors and traders. |
+| **The Hybrid Origin of Brāhmī Script from Aramaic, Phoenician and Greek Letters** | Pillai | Indi@logs 10, 93–122, 2023 | Proposes a letter-by-letter derivation of Brāhmī from Aramaic, with contributions from Phoenician and Greek letters. |
+| **Indus Musicians in Mesopotamia: Bull Lyre of Indus Valley and 90 Words that Harappans May Have Spoken** | Vyas | Working draft, 2020 | Argues that Harappan musicians were present in Mesopotamia and links the bull lyre to the Indus Valley, proposing about 90 words that Harappans may have spoken. |
+| **Interrogating Indus inscriptions to unravel their mechanisms of meaning conveyance** | Mukhopadhyay | Palgrave Communications 5, 73, 2019 | An epigraphic analysis arguing that Indus seals and tablets were formalized data carriers, like proto-cuneiform administrative tablets, using document-specific and linguistic signs. |
 | **The Kikkuli Text. Hittite Training Instructions for Chariot Horses in the Second Half of the 2nd Millennium B.C. and Their Interdisciplinary Context** | Raulwing | 2009 | Examines the Hittite Kikkuli horse-training instructions and their philological, linguistic and historical context. |
+| **Linear Elamite Writing** | Desset | The Elamite World (Routledge), ch. 20, 2018 | A survey of the Linear Elamite script: its corpus, history of research, sign inventory and progress toward decipherment. |
+| **Modern Colloquial Eastern Elamite** | McAlpin | Al-Burz 14(1), 64–123, 2022 | Argues that a modern colloquial descendant of Eastern Elamite survives, and presents its phonology, morphology and vocabulary. |
 | **Probabilistic Models of Evolution and Language Change** | Bouchard-Cote | Technical Report UCB/EECS-2010-153 (PhD thesis), UC Berkeley | Develops probabilistic models of evolution applied to language change, such as reconstructing ancestral word forms. |
 | **Proposal for encoding the Indus script in Plane 1 of the UCS** | Everson | ISO/IEC JTC1/SC2/WG2 N1959, 1999 | Working-group proposal to encode the Indus script (386 characters) in Plane 1 of the Universal Character Set. |
 | **Proto-Elamite and Linear Elamite, a Misunderstood Relationship?** | Dahl | 2023 | Argues that Linear Elamite was a new script created in the late 3rd millennium BC, inspired by recovered proto-Elamite tablets and Old Akkadian cuneiform, rather than a continuous development of proto-Elamite. |
+| **Supplementary Materials for: Language trees with sampled ancestors support a hybrid model for the origin of Indo-European languages** | Heggarty et al. | Science 381, eabg0818, 2023 | Supplementary methods, figures and tables for a Bayesian phylogenetic study of Indo-European that uses ancient languages as sampled ancestors and supports a hybrid Caucasus/Steppe origin model. |
 | **Unicode Encoding Proposal for the Indus Script - Early Draft** | Sarkar | Preprint (Zenodo 10.5281/zenodo.7794001), 2023 | Early draft proposal for encoding Indus script signs in Unicode. |
 
 ### Sanskrit and Indo-Aryan Linguistics
@@ -368,7 +414,9 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 | **Data-driven dependency parsing of Vedic Sanskrit** | Hellwig, Nehrdich & Sellmer | Language Resources and Evaluation 57, 2023 | Describes the first data-driven dependency parser for Vedic Sanskrit, testing input feature representations including contextual embeddings and analysing parsing errors. |
 | **The Death of Sanskrit** | Pollock | Comparative Studies in Society and History, 2001 | Examines the decline of Sanskrit as a language of literary and intellectual creativity in precolonial South Asia, against nationalist myths about its history. |
 | **Developments of nasals in early Indo-Aryan: anunasika and anusvara** | Cardona | Tokyo University Linguistic Papers 33, 2013 | Establishes that the anunasika/anusvara distinction drawn by Panini and the phonetic treatises reflects a real linguistic difference between nasalised vowels/nasal stops and a post-vocalic nasal segment. |
+| **In Pāṇini We Trust: Discovering the Algorithm for Rule Conflict Resolution in the Aṣṭādhyāyī** | Rajpopat | PhD thesis, University of Cambridge, 2021 | Argues that Pāṇini's metarule 1.4.2 means choosing the rule that applies to the right-hand operand, which resolves rule conflicts in the Aṣṭādhyāyī without ad hoc exceptions. |
 | **A Mathematical Analysis of Panini's Sivasutras** | Petersen | Journal of Logic, Language and Information 13, 2004 | Gives a set-theoretic argument that Panini's ordering of phonological segments in the Sivasutras is optimal for representing natural classes as intervals. |
+| **On Pāṇini and the Generative Capacity of Contextualized Replacement Systems** | Penn & Kiparsky | COLING 2012 | Re-examines claims about the formal expressive power of Pāṇini's rule system relative to finite-state and context-free formalisms. |
 | **[One Model is All You Need: ByT5-Sanskrit, a Unified Model for Sanskrit NLP Tasks](https://arxiv.org/abs/2409.13920)** | Nehrdich, Hellwig & Keutzer | arXiv, 2024 | Presents ByT5-Sanskrit, a pretrained model for Sanskrit NLP evaluated on word segmentation and Vedic dependency parsing. |
 | **Panini** |  | Handbook chapter (history of phonology) | Describes Panini's grammar of Sanskrit and its goal of a consistent, exhaustive and maximally concise formal analysis, and its phonetic and phonological background. |
 | **Substrate Languages in Old Indo-Aryan (Rgvedic, Middle and Late Vedic)** | Witzel | Electronic Journal of Vedic Studies 5(1), 1999 | Surveys non-Indo-Aryan substrate vocabulary in Vedic texts by region and period, from the Greater Panjab eastwards. |
@@ -377,8 +425,11 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 
 | Paper | Authors | Where | About |
 |-------|---------|-------|-------|
+| **Ancient DNA from Protohistoric Period Cambodia indicates that South Asians admixed with local populations as early as 1st–3rd centuries CE** | Changmai et al. | Scientific Reports 12, 2022 | Ancient genomes from Vat Komnou, Cambodia, show South Asian admixture into Mainland Southeast Asian populations by the 1st–3rd centuries CE. |
 | **Ancient DNA reveals pervasive directional selection across West Eurasia** | Akbari et al. | Nature, 2026 | Uses large ancient-DNA samples to distinguish sustained directional selection from shifts due to migration and population structure in West Eurasian populations. |
+| **An Ancient Harappan Genome Lacks Ancestry from Steppe Pastoralists or Iranian Farmers** | Shinde et al. | Cell 179(3), 2019 | Reports a genome from Rakhigarhi in the Indus Valley Civilization with no detectable Steppe or Anatolian/Iranian farmer ancestry, from a population that is the largest source of ancestry for South Asians. |
 | **The Genetic Origin of the Indo-Europeans** | Lazaridis et al. | bioRxiv preprint, 2024 | Ancient-DNA study tracing the ancestry of Indo-European speakers to Caucasus-Lower Volga populations. |
+| **Growing in a Foreign World: For a History of the 'Meluhha Villages' in Mesopotamia in the 3rd Millennium BC** | Vidale | Melammu Symposia 4, 2004 | Archaeological and textual evidence for communities of Indus (Meluhhan) people settled in Mesopotamia in the 3rd millennium BC. |
 | **MCT1-dependent mitochondrial lactate import sustains cardiac metabolism** |  | Nature, 2026 | Reports that the transporter MCT1 imports lactate into heart mitochondria and that this import sustains cardiac energy metabolism. |
 | **The origin and dispersal of millet cultivation in India** | Singh | Interregional Contacts in the Later Prehistory of Northeastern Africa (Poznan), 1996 | Reviews archaeological evidence for the origin and spread of millet cultivation in India. |
 | **The Persian plateau served as hub for Homo sapiens after the main out of Africa dispersal** | Vallini et al. | Nature Communications, 2024 | Combines genetic and palaeoecological evidence to argue that the Persian plateau hosted the population ancestral to non-Africans between the out-of-Africa dispersal and later expansions. |

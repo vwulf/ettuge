@@ -8,40 +8,42 @@ My textbooks and technical books — the ones on the shelf and the ones in the G
 
 ## Overview
 
-- **[Mathematics](#mathematics)** (55)
-  - [Algebra](#algebra) (3)
-  - [Analysis and Linear Algebra](#analysis-and-linear-algebra) (9)
+- **[Mathematics](#mathematics)** (59)
+  - [Algebra](#algebra) (4)
+  - [Analysis and Linear Algebra](#analysis-and-linear-algebra) (10)
   - [Category Theory](#category-theory) (7)
   - [Discrete Mathematics and Combinatorics](#discrete-mathematics-and-combinatorics) (7)
-  - [Foundations and Logic](#foundations-and-logic) (11)
+  - [Foundations and Logic](#foundations-and-logic) (12)
   - [General and School Mathematics](#general-and-school-mathematics) (1)
+  - [History of Mathematics](#history-of-mathematics) (1)
   - [Probability and Statistics](#probability-and-statistics) (6)
   - [Recreational Mathematics](#recreational-mathematics) (7)
   - [Topology and Geometry](#topology-and-geometry) (4)
-- **[Computer Science](#computer-science)** (88)
+- **[Computer Science](#computer-science)** (93)
   - [Algorithms and Data Structures](#algorithms-and-data-structures) (8)
   - [Compilers and Language Implementation](#compilers-and-language-implementation) (7)
   - [Computer Architecture and Parallelism](#computer-architecture-and-parallelism) (5)
   - [Distributed and Data Systems](#distributed-and-data-systems) (9)
-  - [Functional Programming](#functional-programming) (22)
+  - [Functional Programming](#functional-programming) (24)
   - [Interviews and Career](#interviews-and-career) (4)
   - [Networks and Security](#networks-and-security) (6)
-  - [Operating Systems and Systems Programming](#operating-systems-and-systems-programming) (5)
-  - [Programming Languages and Type Theory](#programming-languages-and-type-theory) (14)
+  - [Operating Systems and Systems Programming](#operating-systems-and-systems-programming) (6)
+  - [Programming Languages and Type Theory](#programming-languages-and-type-theory) (15)
   - [Software Design and Engineering](#software-design-and-engineering) (4)
-  - [Theory of Computation](#theory-of-computation) (4)
-- **[AI and Machine Learning](#ai-and-machine-learning)** (15)
+  - [Theory of Computation](#theory-of-computation) (5)
+- **[AI and Machine Learning](#ai-and-machine-learning)** (17)
   - [Applied ML](#applied-ml) (3)
-  - [Deep Learning](#deep-learning) (6)
-  - [Foundations](#foundations) (6)
-- **[Physics and Engineering](#physics-and-engineering)** (8)
+  - [Deep Learning](#deep-learning) (7)
+  - [Foundations](#foundations) (7)
+- **[Physics and Engineering](#physics-and-engineering)** (9)
   - [Communications and Signal Processing](#communications-and-signal-processing) (2)
   - [Electrical Engineering](#electrical-engineering) (2)
-  - [Physics](#physics) (3)
+  - [Physics](#physics) (4)
   - [Popular Science and History](#popular-science-and-history) (1)
-- **[Linguistics and Languages](#linguistics-and-languages)** (6)
-  - [Dravidian and Kannada Linguistics](#dravidian-and-kannada-linguistics) (2)
+- **[Linguistics and Languages](#linguistics-and-languages)** (8)
+  - [Dravidian and Kannada Linguistics](#dravidian-and-kannada-linguistics) (3)
   - [Japanese](#japanese) (4)
+  - [Writing Systems and Unicode](#writing-systems-and-unicode) (1)
 - **[Other](#other)** (10)
   - [Martial Arts](#martial-arts) (4)
   - [Not technical](#not-technical) (6)
@@ -55,6 +57,7 @@ My textbooks and technical books — the ones on the shelf and the ones in the G
 | Book | Author | Format | About |
 |------|--------|:------:|-------|
 | **A First Course in Abstract Algebra**<br><img src="covers/IMG_0526.jpg" width="60" alt="cover"> | John B. Fraleigh | 📕 | Undergraduate introduction to groups, rings, fields and Galois theory; one of the most widely used first texts in abstract algebra, valued for its gentle pace and many exercises. |
+| **Geometric Algebra Applications Vol. I: Computer Vision, Graphics and Neurocomputing** | Bayro-Corrochano | 💾 | Develops geometric (Clifford) algebra and conformal geometric algebra and applies them to computer vision, graphics, robotics and neural computing. |
 | **Module Theory: An Approach to Linear Algebra**<br><img src="covers/OL_8696464.jpg" width="60" alt="cover"> | T. S. Blyth | 💾 | Develops linear algebra through modules over rings, covering exact sequences, tensor products, the structure theorem for modules over a PID and canonical forms. A respected, rigorous text. |
 | **Universal Algebra**<br><img src="covers/OL_1050485.jpg" width="60" alt="cover"> | P. M. Cohn | 💾 | A classic monograph on the general theory of algebraic structures: varieties, free algebras, lattices and model-theoretic aspects. One of the standard early texts of the field. |
 
@@ -64,6 +67,7 @@ My textbooks and technical books — the ones on the shelf and the ones in the G
 |------|--------|:------:|-------|
 | **Algebra, Topology, Differential Calculus, and Optimization Theory for Computer Science and Machine Learning** | Jean Gallier & Jocelyn Quaintance | 💾 | A very large free text from the University of Pennsylvania covering the mathematics underlying ML, from topology and differential calculus to convex optimization, SVMs and kernel methods. Known for its breadth and rigor. |
 | **Computational Mathematics**<br><img src="covers/IMG_0521.jpg" width="60" alt="cover"> |  | 📕 | A textbook on computational mathematics (numerical methods and computation-oriented mathematics); the specific author and edition could not be identified from the photo. |
+| **The Discrete Algebra of the Fourier Transform** | Peyré | 💾 | Covers discrete Fourier analysis: Fourier transforms on finite groups, the FFT, convolution, and applications to coding and signal processing. |
 | **Div, Grad, Curl, and All That: An Informal Text on Vector Calculus**<br><img src="covers/OL_252648.jpg" width="60" alt="cover"> | H. M. Schey | 💾 | An informal introduction to vector calculus motivated through electrostatics, building divergence, gradient, curl and the integral theorems intuitively. A beloved supplement for physics and engineering students. |
 | **Engineering Mathematics (VTU)**<br><img src="covers/IMG_8586.jpg" width="60" alt="cover"> | D. S. Chandrasekharaiah | 📕 | A Bangalore-published engineering mathematics textbook written to the Visvesvaraya Technological University syllabus, covering calculus, differential equations, transforms and related applied topics. A regional course text with little published review. |
 | **Linear Algebra** | Georgi E. Shilov | 💾 | A classic Soviet textbook (Dover translation) that develops determinants, linear spaces, linear transformations, quadratic forms and Euclidean spaces with rigour and economy. Prized as an inexpensive, thorough second course. The Drive copy is a scan. |
@@ -100,6 +104,7 @@ My textbooks and technical books — the ones on the shelf and the ones in the G
 
 | Book | Author | Format | About |
 |------|--------|:------:|-------|
+| **Homotopy Type Theory: Univalent Foundations of Mathematics** | Univalent Foundations Program | 💾 | The HoTT book: develops type theory with the univalence axiom and higher inductive types as a foundation for mathematics, including homotopy theory, set theory and real numbers. |
 | **A Programmer's Introduction to Mathematics**<br><img src="covers/IMG_0733.jpg" width="60" alt="cover"> | Jeremy Kun | 📕 | Self-published introduction to proofs, sets, graphs, calculus, linear algebra and more, aimed at programmers and paired with code applications; well received by its target readers. |
 | **An Infinite Descent into Pure Mathematics** | Clive Newstead | 💾 | A free introduction to proofs and pure mathematics developed for Carnegie Mellon's transition course, covering logic, sets, number theory, combinatorics and real numbers. Well regarded for clarity. |
 | **Book of Proof**, 3rd | Richard Hammack | 💾 | A free introduction to proof writing covering logic, sets, direct proof, contradiction, induction, relations, functions and cardinality. One of the most widely adopted open textbooks for transition-to-proof courses. |
@@ -117,6 +122,12 @@ My textbooks and technical books — the ones on the shelf and the ones in the G
 | Book | Author | Format | About |
 |------|--------|:------:|-------|
 | **A Text Book of Mathematics for II Year Pre-University Course**<br><img src="covers/IMG_0542.jpg" width="60" alt="cover"> | B. G. Umarani & P. G. Umarani | 📕 | Karnataka second-year PUC mathematics textbook covering the state syllabus (algebra, calculus, coordinate geometry and related topics); a regional exam-preparation text with little published review coverage. |
+
+### History of Mathematics
+
+| Book | Author | Format | About |
+|------|--------|:------:|-------|
+| **A Synopsis of Elementary Results in Pure Mathematics** | Carr | 💾 | A compendium of about 6,000 theorems and formulae in algebra, trigonometry, geometry and calculus with abridged proofs; famous as the book from which Ramanujan learned mathematics. |
 
 ### Probability and Statistics
 
@@ -221,6 +232,7 @@ My textbooks and technical books — the ones on the shelf and the ones in the G
 | **Pearls of Functional Algorithm Design**<br><img src="covers/IMG_0725.jpg" width="60" alt="cover"> | Richard Bird | 📕 | Thirty short chapters deriving efficient Haskell algorithms through equational reasoning; a celebrated showcase of program calculation. |
 | **The pigworker's StackOverflow answers** | Conor McBride | 💾 | A compiled collection of Conor McBride's ("pigworker") StackOverflow answers on Haskell, dependent types, applicative functors and related topics — an "accidental blook". Valued informally for its depth; not a published book. |
 | **Program Design by Calculation** | José N. Oliveira | 💾 | A textbook draft from the University of Minho on deriving programs by algebraic, point-free calculation — functions, relations, catamorphisms and other recursion schemes. A key text of the Bird–Meertens / Algebra of Programming tradition. |
+| **Programming in Lean** | Avigad, de Moura & Roesch | 💾 | An unfinished draft book on using Lean 3 as a programming language and for metaprogramming and tactics. |
 | **Programming in Scala, 5th ed.** | Martin Odersky, Lex Spoon, Bill Venners & Frank Sommers | 💾 | The comprehensive introduction to Scala co-written by the language's creator, updated for Scala 3: syntax, objects, traits, pattern matching, collections, functional programming and the type system. Widely regarded as the definitive Scala book. In Drive as PDF and EPUB. |
 | **Purely Functional Data Structures**<br><img src="covers/IMG_0787.jpg" width="60" alt="cover"> | Chris Okasaki | 📕 | Expanded from Okasaki's thesis, it shows how to design and analyze efficient immutable data structures using laziness and amortization; the classic work on the subject. |
 | **Real World Haskell**<br><img src="covers/IMG_0720.jpg" width="60" alt="cover"> | Bryan O'Sullivan, John Goerzen & Don Stewart | 📕 | O'Reilly book applying Haskell to practical tasks (I/O, parsing, databases, concurrency, testing); influential in bringing Haskell to working programmers, though parts are now dated. |
@@ -228,6 +240,7 @@ My textbooks and technical books — the ones on the shelf and the ones in the G
 | **Scala with Cats** | Noel Welsh & Dave Gurnell | 💾 | Teaches functional abstractions such as monoids, functors, monads, applicatives and traversals through the Cats library, with case studies. A widely recommended free book for typed FP in Scala. |
 | **The Haskell School of Music: From Signals to Symphonies**<br><img src="covers/IMG_0502.jpg" width="60" alt="cover"> | Paul Hudak, Donya Quick | 📕 | Cambridge book teaching Haskell through computer music using the Euterpea library, covering algorithmic composition and signal processing. |
 | **The Science of Functional Programming: A Tutorial, with Examples in Scala** | Sergei Winitzki | 💾 | A long, free textbook deriving functional programming techniques (functors, monads, free structures, typeclasses) from mathematical first principles with Scala examples. Noted for its rigor and proofs, more mathematical than most FP books. |
+| **Thinking with Types: Type-Level Programming in Haskell (sample)** | Maguire | 💾 | Sample chapters of a book on type-level programming in Haskell: kinds, type families, GADTs and related GHC features. |
 | **Zionomicon** | John A. De Goes & Adam Fraser | 💾 | A comprehensive guide to ZIO, the Scala library for typed functional effects, covering fibers, error handling, resources, STM, streams and testing, by ZIO's creator and a core contributor. The main book-length reference for ZIO. |
 
 ### Interviews and Career
@@ -255,6 +268,7 @@ My textbooks and technical books — the ones on the shelf and the ones in the G
 | Book | Author | Format | About |
 |------|--------|:------:|-------|
 | **Advanced Programming in the UNIX Environment**<br><img src="covers/IMG_8588.jpg" width="60" alt="cover"> | W. Richard Stevens | 📕 | A detailed guide to the UNIX system-call interface: files, processes, signals, terminals, IPC and daemons. Regarded as the classic reference for UNIX systems programming. |
+| **Modern Systems Programming with Scala Native** | Whaling | 💾 | Teaches low-level systems programming with Scala Native: pointers and memory, C interop, sockets, HTTP servers, and async I/O with libuv. |
 | **Operating System Concepts**<br><img src="covers/IMG_0340.jpg" width="60" alt="cover"> | Abraham Silberschatz, Peter B. Galvin, Greg Gagne | 📕 | The long-running 'dinosaur book' covering processes, scheduling, synchronization, memory, storage and file systems. One of the most widely adopted undergraduate operating systems textbooks, in print through many editions. |
 | **Operating System Principles**<br><img src="covers/IMG_0511.jpg" width="60" alt="cover"> | Abraham Silberschatz, Peter B. Galvin, Greg Gagne | 📕 | Edition of the long-running 'dinosaur book' on processes, scheduling, memory, file systems and protection; one of the most widely adopted OS textbooks. |
 | **The Little Book of Semaphores**<br><img src="covers/OL_8688806.jpg" width="60" alt="cover"> | Allen B. Downey | 💾 | A free textbook teaching synchronization through a sequence of classical and novel concurrency puzzles solved with semaphores. Popular as a hands-on supplement to operating systems courses. |
@@ -267,6 +281,7 @@ My textbooks and technical books — the ones on the shelf and the ones in the G
 | **Advanced Topics in Types and Programming Languages**<br><img src="covers/OL_150514.jpg" width="60" alt="cover"> | Benjamin C. Pierce (ed.) | 💾 | An edited sequel to TAPL with chapters on substructural types, dependent types, effect systems, module systems, type inference and typed assembly language. A standard graduate-level reference. |
 | **C++ Primer**, 3rd<br><img src="covers/IMG_8578.jpg" width="60" alt="cover"> | Stanley B. Lippman & Josée Lajoie | 📕 | A thorough introduction to C++ updated for the then-new ISO C++98 standard, covering the language, the standard library and templates. A long-standing standard tutorial reference for the language. |
 | **DSLs in Action**<br><img src="covers/IMG_0457.jpg" width="60" alt="cover"> | Debasish Ghosh | 📕 | Manning book on designing internal and external domain-specific languages in Scala, Groovy, Ruby and Clojure, with financial-domain examples. |
+| **Foundations of Probabilistic Programming** | Barthe, Katoen & Silva (eds.) | 💾 | An edited volume on the semantics, verification, analysis and inference of probabilistic programs. |
 | **[MiniLean4: Implementing an Interactive Theorem Prover from Scratch](https://learn.h5i.dev/)** | Hideaki Takahashi | 🌐 | A free interactive online book that builds a small Lean 4-style proof kernel in Rust, compiled to WebAssembly so it runs in the browser. It moves from propositions-as-types and a type checker for propositional logic to natural numbers, inductive types, equality, tactics, reduction and conversion, universes and metatheory. Playgrounds, steppers and trace trees show the kernel at work. No prior type theory or Lean is assumed. Available in English, Japanese and Chinese. |
 | **Practical Foundations for Programming Languages**<br><img src="covers/OL_8513011.jpg" width="60" alt="cover"> | Robert Harper | 💾 | A unified type-theoretic account of programming language concepts (statics, dynamics, polymorphism, effects, concurrency, modules) using structural operational semantics. A demanding standard graduate text. |
 | **Pragmatic Type-Level Design** | Alexander Granin | 💾 | Explores practical type-level programming in Haskell for application design, including type-level DSLs and extensible architectures. A niche, self-published work aimed at experienced Haskell developers. |
@@ -296,6 +311,7 @@ My textbooks and technical books — the ones on the shelf and the ones in the G
 | **Introduction to Automata Theory, Languages, and Computation**<br><img src="covers/IMG_0523.jpg" width="60" alt="cover"> | John E. Hopcroft, Rajeev Motwani, Jeffrey D. Ullman | 📕 | The 'Cinderella book', a standard text on finite automata, grammars, Turing machines, decidability and complexity; later editions with Motwani made it more accessible. |
 | **Lambda-Calculus and Combinators: An Introduction**<br><img src="covers/OL_8684269.jpg" width="60" alt="cover"> | J. Roger Hindley & Jonathan P. Seldin | 💾 | A rigorous introduction to untyped and typed lambda calculus and combinatory logic, covering reduction, computability and type assignment. A standard introductory text. |
 | **The Lambda Calculus: Its Syntax and Semantics** | H. P. Barendregt | 💾 | The standard reference on the untyped lambda calculus (North-Holland, revised 1984), covering conversion, reduction, Böhm trees and models. Encyclopedic and authoritative; the Drive copy is a publisher preview excerpt. |
+| **Mathematics and Computation: A Theory Revolutionizing Technology and Science** | Wigderson | 💾 | A broad survey of computational complexity theory and its connections to mathematics, science and technology. |
 
 ---
 
@@ -318,12 +334,14 @@ My textbooks and technical books — the ones on the shelf and the ones in the G
 | **Mathematical Theory of the Transformer, Vol. I: Foundations, Rationality, and the Incremental Transformer** | Giansalvo Cirrincione | 💾 | A recent Routledge monograph giving a mathematical treatment of the Transformer architecture, including the author's incremental Transformer. Too new for substantial critical reception. |
 | **The Hundred-Page Language Models Book**<br><img src="covers/OL_15131435.jpg" width="60" alt="cover"> | Andriy Burkov | 📕 | A compact introduction to language models, building from ML basics and count-based models through RNNs to Transformers and LLM practice, with code. Follows the well-received format of the author's Hundred-Page Machine Learning Book. (Title inferred from a partly hidden spine.) |
 | **The Little Learner: A Straight Line to Deep Learning**<br><img src="covers/OL_13824426.jpg" width="60" alt="cover"> | Daniel P. Friedman & Anurag Mendhekar | 📕 | MIT Press book in the 'Little' question-and-answer style that builds deep learning concepts from scratch in a Scheme dialect. |
+| **Multimodal Deep Learning** | Akkus et al. | 💾 | A book from an LMU seminar surveying multimodal deep learning: NLP and vision foundations, image-text models, text-to-image generation, and multimodal architectures. |
 | **Understanding Deep Learning** | Simon J. D. Prince | 💾 | A textbook (MIT Press, 2023, free online) covering the ideas behind modern deep learning — supervised learning, network architectures, training, transformers, diffusion models and reinforcement learning — with notably clear diagrams. Very well received as a modern standard text. |
 
 ### Foundations
 
 | Book | Author | Format | About |
 |------|--------|:------:|-------|
+| **Foundations of Reinforcement Learning with Applications in Finance** | Rao & Jelvis | 💾 | Covers Markov decision processes, dynamic programming and RL algorithms, applied to finance problems such as asset allocation, derivatives pricing and hedging, order execution and market making. |
 | **An Introduction to Statistical Learning** | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani | 📕 | Accessible introduction to regression, classification, resampling, trees, SVMs and unsupervised learning with R (later Python) labs; a widely used free textbook. |
 | **Concise Machine Learning** | Jonathan Richard Shewchuk | 💾 | Lecture notes from Shewchuk's Berkeley CS 189 course covering linear classifiers, SVMs, regression, decision theory, PCA, neural networks and more. Known for clear, compact explanations. |
 | **Machine Learning**<br><img src="covers/IMG_0527.jpg" width="60" alt="cover"> |  | 📕 | A general machine learning textbook; the specific author and edition could not be identified from the photo. |
@@ -354,6 +372,7 @@ My textbooks and technical books — the ones on the shelf and the ones in the G
 | Book | Author | Format | About |
 |------|--------|:------:|-------|
 | **Drawing Physics: 2,600 Years of Discovery from Thales to Higgs**<br><img src="covers/OL_14082652.jpg" width="60" alt="cover"> | Don S. Lemons | 📕 | MIT Press survey of 51 key ideas in physics, each explained with a hand-drawn illustration and a short essay; well received as an accessible history. |
+| **Electricity and Magnetism (2nd ed.)** | Bleaney & Bleaney | 💾 | A university physics textbook on electrostatics, currents, magnetism, electromagnetic induction, Maxwell's equations, AC circuits and the magnetic and dielectric properties of matter. |
 | **Learn Physics with Functional Programming**<br><img src="covers/IMG_0529.jpg" width="60" alt="cover"> | Scott N. Walck | 📕 | No Starch Press book teaching Haskell through Newtonian mechanics and electromagnetism simulations; noted for treating physics as code with types. |
 | **The Dialogues: Conversations about the Nature of the Universe**<br><img src="covers/IMG_0572.jpg" width="60" alt="cover"> | Clifford V. Johnson | 📕 | Graphic novel by a theoretical physicist in which pairs of characters discuss cosmology, quantum mechanics and other physics ideas; praised as an inventive work of science communication. |
 
@@ -373,6 +392,7 @@ My textbooks and technical books — the ones on the shelf and the ones in the G
 |------|--------|:------:|-------|
 | **A Generative Grammar of Kannada** | A. K. Ramanujan | 💾 | A. K. Ramanujan's Indiana University doctoral dissertation applying early transformational-generative grammar to Kannada. Of mainly historical and specialist interest; little published criticism exists. |
 | **The Dravidian Languages**<br><img src="covers/OL_354378.jpg" width="60" alt="cover"> | Bhadriraju Krishnamurti | 💾 | A comprehensive comparative and historical study of the Dravidian language family, covering phonology, morphology, syntax and reconstruction of Proto-Dravidian. Regarded as the definitive modern survey of the family. |
+| **A Manual of Modern Kannada** | Zydenbos | 💾 | A course and reference grammar of modern standard Kannada for learners, covering script, pronunciation, grammar, lessons with exercises, and vocabulary. |
 
 ### Japanese
 
@@ -382,6 +402,12 @@ My textbooks and technical books — the ones on the shelf and the ones in the G
 | **The Kodansha Kanji Learner's Course**<br><img src="covers/OL_8552678.jpg" width="60" alt="cover"> | Andrew Scott Conning | 📕 | Sequenced course covering 2,300 kanji with mnemonics and example vocabulary, ordered so components appear before the characters that use them; well regarded among self-learners. |
 | **The Modern English-Nihongo Dictionary (日本語学習英日辞典)** | Nihongo Gakushū Ei-Nichi Jiten editorial committee | 📕 | English-to-Japanese learner's dictionary designed for non-native students of Japanese, with example sentences and usage notes; little published review coverage. |
 | **Understanding Kanji Characters by Their Ancestral Forms**<br><img src="covers/OL_7001034.jpg" width="60" alt="cover"> | Ping-gam Go | 📕 | Explains kanji through their ancient pictographic and seal-script origins; the kanji edition of the author's book on Chinese characters, with limited critical coverage. |
+
+### Writing Systems and Unicode
+
+| Book | Author | Format | About |
+|------|--------|:------:|-------|
+| **The Unicode Standard, Version 15.0 – Core Specification** | Unicode Consortium | 💾 | The core specification of Unicode 15.0: the character model, encoding forms, properties, algorithms, and script-by-script descriptions of the encoded writing systems. |
 
 ---
 
