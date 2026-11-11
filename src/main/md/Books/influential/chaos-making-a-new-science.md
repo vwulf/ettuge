@@ -1,6 +1,8 @@
 # Chaos: Making a New Science
 **Author:** James Gleick | **Published:** 1987
 
+<img src="../covers/OL_94249.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

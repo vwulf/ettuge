@@ -1,6 +1,8 @@
 # Train to Pakistan
 **Author:** Khushwant Singh | **Published:** 1956
 
+<img src="../covers/OL_568646.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

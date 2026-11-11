@@ -1,6 +1,8 @@
 # The Hindus: An Alternative History
 **Author:** Wendy Doniger | **Published:** 2009
 
+<img src="../covers/OL_8332021.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

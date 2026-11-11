@@ -1,6 +1,8 @@
 # The Magic Mountain (Der Zauberberg)
 **Author:** Thomas Mann | **Published:** 1924 | **Language:** German (translated)
 
+<img src="../covers/OL_15010225.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

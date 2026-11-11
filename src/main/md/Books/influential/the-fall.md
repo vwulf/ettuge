@@ -1,6 +1,8 @@
 # The Fall (La Chute)
 **Author:** Albert Camus | **Published:** 1956 | **Language:** French (translated)
 
+<img src="../covers/WP_The_Fall_Camus_novel_.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

@@ -1,6 +1,8 @@
 # Island
 **Author:** Aldous Huxley | **Published:** 1962
 
+<img src="../covers/OL_6517573.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

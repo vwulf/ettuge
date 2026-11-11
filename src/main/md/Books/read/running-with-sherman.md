@@ -1,6 +1,8 @@
 # Running with Sherman: The Donkey with the Heart of a Hero
 **Author:** Christopher McDougall | **Published:** 2019
 
+<img src="../covers/OL_8998310.jpg" width="140" alt="cover">
+
 
 
 ---

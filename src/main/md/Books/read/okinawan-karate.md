@@ -1,6 +1,8 @@
 # Okinawan Karate: Teachers, Styles and Secret Techniques
 **Author:** Mark Bishop | **Published:** 1989
 
+<img src="../covers/IMG_0688.jpg" width="140" alt="cover">
+
 
 
 ---

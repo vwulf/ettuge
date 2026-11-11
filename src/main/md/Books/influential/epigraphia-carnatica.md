@@ -1,6 +1,8 @@
 # Epigraphia Carnatica
 **Author:** Benjamin Lewis Rice | **Published:** 1886–1905 (12 volumes)
 
+<img src="../covers/OL_5577364.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

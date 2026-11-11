@@ -1,6 +1,8 @@
 # From One Cell: A Journey into Life's Origins and the Future of Medicine
 **Author:** Ben Stanger | **Published:** 2023 | **Status:** partially read
 
+<img src="../covers/OL_14612363.jpg" width="140" alt="cover">
+
 
 
 ---

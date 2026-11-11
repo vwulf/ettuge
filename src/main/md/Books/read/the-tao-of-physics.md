@@ -1,6 +1,8 @@
 # The Tao of Physics: An Exploration of the Parallels Between Modern Physics and Eastern Mysticism
 **Author:** Fritjof Capra | **Published:** 1975
 
+<img src="../covers/OL_6981251.jpg" width="140" alt="cover">
+
 
 
 ---

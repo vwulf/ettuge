@@ -1,6 +1,8 @@
 # Tender Is the Night
 **Author:** F. Scott Fitzgerald | **Published:** 1934
 
+<img src="../covers/OL_6984433.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

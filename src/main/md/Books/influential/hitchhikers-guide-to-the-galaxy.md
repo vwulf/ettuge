@@ -1,6 +1,8 @@
 # The Hitchhiker's Guide to the Galaxy
 **Author:** Douglas Adams | **Published:** 1979
 
+<img src="../covers/OL_12986869.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

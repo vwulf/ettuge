@@ -1,6 +1,8 @@
 # There and Back: Photographs from the Edge
 **Author:** Jimmy Chin | **Published:** 2021
 
+<img src="../covers/OL_11551196.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

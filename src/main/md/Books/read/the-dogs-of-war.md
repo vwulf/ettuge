@@ -1,6 +1,8 @@
 # The Dogs of War
 **Author:** Frederick Forsyth | **Published:** 1974
 
+<img src="../covers/OL_4510081.jpg" width="140" alt="cover">
+
 
 
 ---

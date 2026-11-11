@@ -1,6 +1,8 @@
 # The Old Man and the Sea
 **Author:** Ernest Hemingway | **Published:** 1952
 
+<img src="../covers/OL_463307.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

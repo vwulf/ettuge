@@ -1,6 +1,8 @@
 # A Walk in the Park: The True Story of a Spectacular Misadventure in the Grand Canyon
 **Author:** Kevin Fedarko | **Published:** 2024
 
+<img src="../covers/OL_15245357.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

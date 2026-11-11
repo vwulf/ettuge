@@ -1,6 +1,8 @@
 # Infinite Powers: How Calculus Reveals the Secrets of the Universe
 **Author:** Steven Strogatz | **Published:** 2019
 
+<img src="../covers/OL_8796821.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

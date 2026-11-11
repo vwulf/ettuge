@@ -1,6 +1,8 @@
 # Why We Die: The New Science of Aging and the Quest for Immortality
 **Author:** Venki Ramakrishnan | **Published:** 2024
 
+<img src="../covers/OL_15103411.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

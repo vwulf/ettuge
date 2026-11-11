@@ -1,6 +1,8 @@
 # Kodokan Judo
 **Author:** Jigoro Kano | **Published:** 1986
 
+<img src="../covers/IMG_0691.jpg" width="140" alt="cover">
+
 
 
 ---

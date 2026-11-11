@@ -1,6 +1,8 @@
 # Midnight's Children
 **Author:** Salman Rushdie | **Published:** 1981
 
+<img src="../covers/OL_8346713.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

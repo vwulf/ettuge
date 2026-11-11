@@ -1,6 +1,8 @@
 # Tao of Jeet Kune Do
 **Author:** Bruce Lee | **Published:** 1975 (posthumously compiled)
 
+<img src="../covers/OL_4985112.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

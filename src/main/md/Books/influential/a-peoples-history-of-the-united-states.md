@@ -1,6 +1,8 @@
 # A People's History of the United States
 **Author:** Howard Zinn | **Published:** 1980
 
+<img src="../covers/OL_10592817.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

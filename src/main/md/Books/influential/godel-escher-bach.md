@@ -1,6 +1,8 @@
 # Gödel, Escher, Bach: An Eternal Golden Braid
 **Author:** Douglas Hofstadter | **Published:** 1979 | **Status:** partially read
 
+<img src="../covers/OL_14368453.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

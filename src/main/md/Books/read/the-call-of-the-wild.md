@@ -1,6 +1,8 @@
 # The Call of the Wild
 **Author:** Jack London | **Published:** 1903
 
+<img src="../covers/OL_12393037.jpg" width="140" alt="cover">
+
 
 
 ---

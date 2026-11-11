@@ -1,6 +1,8 @@
 # In Spite of the Gods: The Strange Rise of Modern India
 **Author:** Edward Luce | **Published:** 2006
 
+<img src="../covers/OL_242830.jpg" width="140" alt="cover">
+
 
 
 ---
