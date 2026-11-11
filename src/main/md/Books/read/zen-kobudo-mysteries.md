@@ -1,6 +1,8 @@
 # Zen & Kobudo Mysteries: A History of Okinawan Weapons, Te & Karate
 **Author:** Mark Bishop | **Published:** 1996
 
+<img src="../covers/IMG_0684.jpg" width="140" alt="cover">
+
 
 
 ---

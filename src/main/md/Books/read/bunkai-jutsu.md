@@ -1,6 +1,8 @@
 # Bunkai-Jutsu: The Practical Application of Karate Kata
 **Author:** Iain Abernethy | **Published:** 2002
 
+<img src="../covers/IMG_0689.jpg" width="140" alt="cover">
+
 
 
 ---

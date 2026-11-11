@@ -1,6 +1,8 @@
 # The White Tiger
 **Author:** Aravind Adiga | **Published:** 2008
 
+<img src="../covers/OL_2787359.jpg" width="140" alt="cover">
+
 
 
 ---

@@ -1,6 +1,8 @@
 # Zen and the Art of Motorcycle Maintenance
 **Author:** Robert M. Pirsig | **Published:** 1974
 
+<img src="../covers/OL_10673266.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

@@ -1,6 +1,8 @@
 # Ancient Cities of the Indus Valley Civilization
 **Author:** Jonathan Mark Kenoyer | **Published:** 1998
 
+<img src="../covers/OL_128338.jpg" width="140" alt="cover">
+
 
 
 ---

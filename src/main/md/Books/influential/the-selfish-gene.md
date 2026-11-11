@@ -1,6 +1,8 @@
 # The Selfish Gene
 **Author:** Richard Dawkins | **Published:** 1976
 
+<img src="../covers/OL_133936.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

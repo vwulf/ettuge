@@ -1,6 +1,8 @@
 # The Trial (Der Proceß)
 **Author:** Franz Kafka | **Published:** 1925 (posthumously) | **Language:** German (translated)
 
+<img src="../covers/WP_The_Trial.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

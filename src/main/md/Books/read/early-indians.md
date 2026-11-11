@@ -1,6 +1,8 @@
 # Early Indians: The Story of Our Ancestors and Where We Came From
 **Author:** Tony Joseph | **Published:** 2018
 
+<img src="../covers/OL_9363436.jpg" width="140" alt="cover">
+
 
 
 ---

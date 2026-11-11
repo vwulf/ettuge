@@ -1,6 +1,8 @@
 # Karate 1.0: Parameter of an Ancient Martial Art
 **Author:** Andreas Quast | **Published:** 2013
 
+<img src="../covers/IMG_0636.jpg" width="140" alt="cover">
+
 
 
 ---

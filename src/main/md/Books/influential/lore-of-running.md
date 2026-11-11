@@ -1,6 +1,8 @@
 # Lore of Running
 **Author:** Tim Noakes | **Published:** 1985 (4th edition 2003)
 
+<img src="../covers/OL_6801597.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

@@ -1,6 +1,8 @@
 # The People of the Indus
 **Author:** Nikhil Gulati and Jonathan Mark Kenoyer | **Published:** 2016
 
+<img src="../covers/OL_13187424.jpg" width="140" alt="cover">
+
 
 
 ---

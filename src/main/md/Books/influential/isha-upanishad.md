@@ -1,6 +1,8 @@
 # Isha Upanishad (ISOpaniShad)
 **Author:** Unknown (Vedic tradition) | **Period:** c. 800–400 BCE (estimated)
 
+<img src="../covers/OL_10715170.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

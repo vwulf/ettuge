@@ -1,6 +1,8 @@
 # Disclosure
 **Author:** Michael Crichton | **Published:** 1994
 
+<img src="../covers/OL_9253430.jpg" width="140" alt="cover">
+
 
 
 ---

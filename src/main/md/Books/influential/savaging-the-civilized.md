@@ -1,6 +1,8 @@
 # Savaging the Civilized: Verrier Elwin, His Tribals, and India
 **Author:** Ramachandra Guha | **Published:** 1999
 
+<img src="../covers/OL_141113.jpg" width="140" alt="cover">
+
 
 
 ---

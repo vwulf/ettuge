@@ -1,6 +1,8 @@
 # The Day of the Jackal
 **Author:** Frederick Forsyth | **Published:** 1971
 
+<img src="../covers/OL_77394.jpg" width="140" alt="cover">
+
 
 
 ---

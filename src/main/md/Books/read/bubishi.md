@@ -1,6 +1,8 @@
 # Bubishi: The Classic Manual of Combat
 **Author:** Patrick McCarthy (translator) | **Published:** 1995
 
+<img src="../covers/IMG_0399.jpg" width="140" alt="cover">
+
 
 
 ---

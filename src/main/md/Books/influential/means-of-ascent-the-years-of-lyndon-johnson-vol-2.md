@@ -1,6 +1,8 @@
 # Means of Ascent (The Years of Lyndon Johnson, Vol. 2)
 **Author:** Robert A. Caro | **Published:** 1990
 
+<img src="../covers/OL_12869917.jpg" width="140" alt="cover">
+
 
 
 ---

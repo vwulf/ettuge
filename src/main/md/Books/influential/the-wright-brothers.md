@@ -1,6 +1,8 @@
 # The Wright Brothers
 **Author:** David McCullough | **Published:** 2015
 
+<img src="../covers/OL_7317364.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

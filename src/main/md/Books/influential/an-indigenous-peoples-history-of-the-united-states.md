@@ -1,6 +1,8 @@
 # An Indigenous Peoples' History of the United States
 **Author:** Roxanne Dunbar-Ortiz | **Published:** 2014
 
+<img src="../covers/OL_14847171.jpg" width="140" alt="cover">
+
 
 
 ---

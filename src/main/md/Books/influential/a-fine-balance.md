@@ -1,6 +1,8 @@
 # A Fine Balance
 **Author:** Rohinton Mistry | **Published:** 1995
 
+<img src="../covers/OL_8348310.jpg" width="140" alt="cover">
+
 
 
 ---

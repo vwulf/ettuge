@@ -1,6 +1,8 @@
 # Capoeira 100: An Illustrated Guide to the Essential Movements and Techniques
 **Author:** Gerard Taylor | **Published:** 2007
 
+<img src="../covers/OL_847772.jpg" width="140" alt="cover">
+
 
 
 ---

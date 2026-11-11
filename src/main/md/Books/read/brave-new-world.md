@@ -1,6 +1,8 @@
 # Brave New World
 **Author:** Aldous Huxley | **Published:** 1932
 
+<img src="../covers/OL_8231823.jpg" width="140" alt="cover">
+
 
 
 ---

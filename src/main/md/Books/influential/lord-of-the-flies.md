@@ -1,6 +1,8 @@
 # Lord of the Flies
 **Author:** William Golding | **Published:** 1954
 
+<img src="../covers/OL_8684447.jpg" width="140" alt="cover">
+
 
 
 ---

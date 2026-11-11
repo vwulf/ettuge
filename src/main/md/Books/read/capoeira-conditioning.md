@@ -1,6 +1,8 @@
 # Capoeira Conditioning: How to Build Strength, Agility, and Cardiovascular Fitness Using Capoeira Movements
 **Author:** Gerard Taylor | **Published:** 2005
 
+<img src="../covers/OL_847758.jpg" width="140" alt="cover">
+
 
 
 ---

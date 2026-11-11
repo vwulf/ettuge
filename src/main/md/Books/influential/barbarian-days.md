@@ -1,6 +1,8 @@
 # Barbarian Days: A Surfing Life
 **Author:** William Finnegan | **Published:** 2015
 
+<img src="../covers/OL_8904812.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

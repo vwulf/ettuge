@@ -1,6 +1,8 @@
 # Unweaving the Rainbow: Science, Delusion and the Appetite for Wonder
 **Author:** Richard Dawkins | **Published:** 1998
 
+<img src="../covers/OL_99719.jpg" width="140" alt="cover">
+
 
 
 ---

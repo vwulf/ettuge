@@ -1,6 +1,8 @@
 # From the Minds of the Masters: The Inside Thoughts, Tips & Techniques From Modern Karate-Do's Best and Brightest
 **Author:** Jerry Figgiani & Jeff Slutsky | **Published:** 2015
 
+<img src="../covers/IMG_0398.jpg" width="140" alt="cover">
+
 
 
 ---

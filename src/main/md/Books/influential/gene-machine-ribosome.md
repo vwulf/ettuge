@@ -1,6 +1,8 @@
 # The Ribosome: Decoding the Gene Machine (Decoding the Ribosome)
 **Author:** Venkatraman Ramakrishnan | **Published:** 2018 (Gene Machine) | **Note:** *This entry refers to Ramakrishnan's popular account of ribosome research, published as "Gene Machine: The Race to Decipher the Secrets of the Ribosome"*
 
+<img src="../covers/OL_13281602.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

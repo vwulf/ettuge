@@ -1,6 +1,8 @@
 # Animal Farm
 **Author:** George Orwell | **Published:** 1945
 
+<img src="../covers/OL_11261770.jpg" width="140" alt="cover">
+
 
 
 ---

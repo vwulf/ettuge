@@ -1,6 +1,8 @@
 # Why We Sleep: Unlocking the Power of Sleep and Dreams
 **Author:** Matthew Walker | **Published:** 2017
 
+<img src="../covers/OL_8814155.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

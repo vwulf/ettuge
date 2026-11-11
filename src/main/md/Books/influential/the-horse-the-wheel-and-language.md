@@ -1,6 +1,8 @@
 # The Horse, the Wheel and Language: How Bronze-Age Riders from the Eurasian Steppes Shaped the Modern World
 **Author:** David W. Anthony | **Published:** 2007
 
+<img src="../covers/OL_2549072.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

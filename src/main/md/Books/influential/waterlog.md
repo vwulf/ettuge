@@ -1,6 +1,8 @@
 # Waterlog: A Swimmer's Journey Through Britain
 **Author:** Roger Deakin | **Published:** 1999 | **Status:** partially read
 
+<img src="../covers/OL_71712.jpg" width="140" alt="cover">
+
 
 
 ---

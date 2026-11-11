@@ -1,6 +1,8 @@
 # Not a Penny More, Not a Penny Less
 **Author:** Jeffrey Archer | **Published:** 1976
 
+<img src="../covers/OL_14313723.jpg" width="140" alt="cover">
+
 
 
 ---

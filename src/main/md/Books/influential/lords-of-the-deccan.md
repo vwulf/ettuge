@@ -1,6 +1,8 @@
 # Lords of the Deccan: Southern India from the Chalukyas to the Cholas
 **Author:** Anirudh Kanisetti | **Published:** 2022
 
+<img src="../covers/OL_14082892.jpg" width="140" alt="cover">
+
 
 
 ---

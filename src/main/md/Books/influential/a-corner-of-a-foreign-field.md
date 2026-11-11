@@ -1,6 +1,8 @@
 # A Corner of a Foreign Field: The Indian History of a British Sport
 **Author:** Ramachandra Guha | **Published:** 2002
 
+<img src="../covers/OL_198654.jpg" width="140" alt="cover">
+
 ---
 
 ## Summary

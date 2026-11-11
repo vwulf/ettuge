@@ -1,6 +1,8 @@
 # Tales of Okinawa's Great Masters
 **Author:** Shoshin Nagamine (translated by Patrick McCarthy) | **Published:** 2000
 
+<img src="../covers/IMG_0686.jpg" width="140" alt="cover">
+
 
 
 ---
