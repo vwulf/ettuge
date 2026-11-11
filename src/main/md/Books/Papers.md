@@ -6,15 +6,16 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 
 ## Overview
 
-- **[Mathematics](#mathematics)** (30)
+- **[Mathematics](#mathematics)** (38)
   - [Algebra](#algebra) (1)
-  - [Analysis and Linear Algebra](#analysis-and-linear-algebra) (5)
-  - [Category Theory](#category-theory) (10)
-  - [Foundations and Logic](#foundations-and-logic) (4)
-  - [History of Mathematics](#history-of-mathematics) (6)
+  - [Analysis and Linear Algebra](#analysis-and-linear-algebra) (7)
+  - [Category Theory](#category-theory) (12)
+  - [Discrete Mathematics and Combinatorics](#discrete-mathematics-and-combinatorics) (2)
+  - [Foundations and Logic](#foundations-and-logic) (5)
+  - [History of Mathematics](#history-of-mathematics) (7)
   - [Recreational Mathematics](#recreational-mathematics) (3)
   - [Topology and Geometry](#topology-and-geometry) (1)
-- **[Computer Science](#computer-science)** (113)
+- **[Computer Science](#computer-science)** (117)
   - [Algorithms and Data Structures](#algorithms-and-data-structures) (8)
   - [Compilers and Language Implementation](#compilers-and-language-implementation) (8)
   - [Computer Architecture and Parallelism](#computer-architecture-and-parallelism) (4)
@@ -27,7 +28,7 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
   - [Operating Systems and Systems Programming](#operating-systems-and-systems-programming) (1)
   - [Programming Languages and Type Theory](#programming-languages-and-type-theory) (26)
   - [Software Design and Engineering](#software-design-and-engineering) (5)
-  - [Theory of Computation](#theory-of-computation) (8)
+  - [Theory of Computation](#theory-of-computation) (12)
 - **[AI and Machine Learning](#ai-and-machine-learning)** (83)
   - [Applied ML](#applied-ml) (10)
   - [Deep Learning](#deep-learning) (19)
@@ -57,9 +58,11 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 | Paper | Authors | Where | About |
 |-------|---------|-------|-------|
 | **[All elementary functions from a single operator](https://arxiv.org/abs/2603.21852)** | Odrzywołek | arXiv (cs.SC), 2026 | 🔍 Shows that the single binary operator eml(x, y) = eˣ − ln y, together with the constant 1, generates every elementary function — a "NAND gate" for continuous mathematics. I used it to coin an Ellara Kannada vocabulary for elementary functions. |
+| **[Finite-time blowup for the forced Navier–Stokes equations](https://openai.com/index/navier-stokes-solution/)** | OpenAI | OpenAI announcement, 2026 | 🔍 Claims finite-time singularity formation for the forced 3D Navier–Stokes equations; contested over whether the forced case is the Millennium problem and over credit. Compared with Buckmaster–Alpöge work on 3D Euler blowup. |
 | **Mathematics for Machine Learning: Linear Algebra, Week 1 slides** | DeepLearning.AI | DeepLearning.AI course slides, 2023 | Lecture slides for week 1 of course 1 (linear algebra) of DeepLearning.AI's Mathematics for ML specialization. |
 | **Mathematics for Machine Learning: Linear Algebra, Week 3 slides** | DeepLearning.AI | DeepLearning.AI course slides, 2023 | Lecture slides for week 3 of course 1 (linear algebra) of DeepLearning.AI's Mathematics for ML specialization. |
 | **Mathematics for Machine Learning: Linear Algebra, Week 4 slides** | DeepLearning.AI | DeepLearning.AI course slides, 2023 | Lecture slides for week 4 of course 1 (linear algebra) of DeepLearning.AI's Mathematics for ML specialization. |
+| **[The Quasi-Riemann Hypothesis](https://quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019)** | OpenAI | OpenAI manuscript (openai/math), 2026 | 🔍 Two versions: a 199-page, Lean-checked proof of a zero-free region for ζ(s) with Re(s) > 7/8, and a 49-page, unchecked proof of the 11/12 bound. |
 | **[A theory of regularity structures](https://arxiv.org/abs/1303.5113)** | Hairer | Inventiones Mathematicae, 2014 | Introduces regularity structures, a framework for giving meaning to and solving a class of singular stochastic partial differential equations such as the KPZ equation; the work behind Hairer's 2014 Fields Medal. |
 
 ### Category Theory
@@ -67,6 +70,7 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 | Paper | Authors | Where | About |
 |-------|---------|-------|-------|
 | **Category theory for (big) data modeling and model's transformation** | Zhao | PhD thesis, Universite de Haute Alsace, 2019 | Thesis applying category theory to (big) data modelling and transformation between data models. |
+| **[Formalizing Colimits in Cat](https://arxiv.org/abs/2503.20704)** | Carneiro & Riehl | ITP 2025 (LIPIcs) | 🔍 A Lean formalization of colimits in the category of categories, and the practical lessons it teaches about formalizing category theory. |
 | **[Fundamental Components of Deep Learning: A category-theoretic approach](https://arxiv.org/abs/2403.13001)** | Gavranovic | PhD thesis, University of Strathclyde (arXiv:2403.13001), 2024 | Develops a category-theoretic foundation for deep learning based on parametric lenses and optics. |
 | **[Higher category theory](https://arxiv.org/abs/2401.14311)** | Haugseng | Encyclopedia of Mathematical Physics (arXiv), 2024 | Introduction to the homotopical theory of higher categories, motivating the definitions of infinity-categories and (infinity,n)-categories. |
 | **Intro to Category Theory: Natural Transformations** |  | Lecture notes | Lecture notes defining natural transformations as transformations between functors, with examples. |
@@ -76,11 +80,20 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 | **[A synthetic approach to Markov kernels, conditional independence and theorems on sufficient statistics](https://arxiv.org/abs/1908.07021)** | Fritz | Advances in Mathematics, 2020 | 🔍 Develops Markov categories as a synthetic, category-theoretic setting for probability, proving results on conditional independence and sufficient statistics without measure-theoretic detail. |
 | **[Traced monoidal categories](https://doi.org/10.1017/S0305004100074338)** | Joyal, Street & Verity | Mathematical Proceedings of the Cambridge Philosophical Society, 1996 | 🔍 Introduces traced monoidal categories — an abstract account of feedback and loops — and the Int construction that embeds them in compact closed categories. |
 | **Value Iteration is Optic Composition** | Hedges & Rodriguez Sakamoto |  | Shows that value improvement in dynamic programming is composition in a category of optics, as a step toward describing reinforcement learning with parametrised optics. |
+| **[The ∞-cosmos project (blueprint)](https://emilyriehl.github.io/infinity-cosmos/blueprint.pdf)** | Riehl et al. | Lean project, 2024– | 🔍 A collaborative Lean formalization of ∞-category theory via ∞-cosmoi, following Riehl–Verity; read with Riehl's "Prospects for formalizing weak ∞-categories" slides. |
+
+### Discrete Mathematics and Combinatorics
+
+| Paper | Authors | Where | About |
+|-------|---------|-------|-------|
+| **[From small eigenvalues to large cuts, and Chowla's cosine problem](https://arxiv.org/abs/2509.03490)** | Jin, Milojević, Tomon & Zhang | arXiv, 2025 | 🔍 Relates the smallest eigenvalues of Cayley graphs to large cuts and uses MaxCut to bound minima of cosine sums, giving polynomial bounds for Chowla's cosine problem; Bedert gave a parallel proof. |
+| **[Polynomial bounds for the Chowla Cosine Problem](https://arxiv.org/abs/2509.05260)** | Bedert | arXiv, 2025 | 🔍 An independent, parallel proof of polynomial bounds for Chowla's cosine problem. |
 
 ### Foundations and Logic
 
 | Paper | Authors | Where | About |
 |-------|---------|-------|-------|
+| **[ATLAS: autoformalizing 26 open textbooks in Lean](https://arxiv.org/abs/2605.29955)** | Meta | arXiv, 2026 | 🔍 An agentic system that formalized 26 open textbooks (mostly MIT lecture notes) into 45,000+ verified Lean declarations. |
 | **Comparison of Two Theorem Provers: Isabelle/HOL and Coq** | Yushkovskiy | arXiv:1808.09701, 2018 | Compares Isabelle/HOL and Coq on their logics, proof styles and usability through worked examples. |
 | **A Lean proof of Fermat's Last Theorem (blueprint)** | Buzzard & Taylor | Project blueprint, 2025 | Blueprint for formalising a proof of Fermat's Last Theorem in Lean, covering the reductions to Frey packages, Galois representations and elliptic curves. |
 | **The Lean Theorem Prover (system description)** | de Moura et al. | CADE-25, 2015 | Describes Lean, an open-source theorem prover from Microsoft Research and CMU with a small trusted kernel based on dependent type theory, meant to bridge interactive and automated theorem proving. |
@@ -96,6 +109,7 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 | **The ET Interview: Professor C.R. Rao** | Bera | Econometric Theory 19, 2003 | Long interview with statistician C.R. Rao covering his life and career, from joining the Indian Statistical Institute onward. |
 | **Life and Work of Alexander Grothendieck** | Chai & Oort |  | Looks back at Grothendieck's life and his mathematical achievements in the period, roughly 1948-1970, in which he transformed several branches of mathematics. |
 | **Selected Mathematical Reviews related to the work of John Horton Conway** | American Mathematical Society | Bulletin of the AMS 58(3), 2021 | Reprints selected Mathematical Reviews of Conway's major works (ATLAS of Finite Groups, etc.) as a retrospective of his contributions. |
+| **[A Severe Misalignment of AI in Mathematics](https://www.implicator.ai/25-fields-medalists-say-ai-labs-race-to-solve-math-problems-is-harming-mathematics/)** | Tao and 24 other Fields medalists | Statement, 2026 | 🔍 A statement arguing that AI labs' race to announce solutions to famous problems is harming mathematics — swamping referees and misplacing emphasis on headline results. |
 
 ### Recreational Mathematics
 
@@ -283,11 +297,15 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 | Paper | Authors | Where | About |
 |-------|---------|-------|-------|
 | **Complexity and Completeness of Finding Another Solution and Its Application to Puzzles** | Yato | Master's thesis, University of Tokyo, 2003 | Defines ASP-completeness, the complexity of finding another solution given one, and proves it for puzzles such as Slitherlink and Cross Sum. |
+| **[Deterministic n^O(log n) Graph Isomorphism](https://arxiv.org/abs/2611.01399)** | Hajiaghayi & JafariRaviz | arXiv, 2026 | 🔍 A deterministic n^O(log n) graph isomorphism algorithm, shipped with a Lean proof of both correctness and running time. A case study in my Lean-formalization write-up. |
+| **[The Exponential Time Hypothesis is False](https://thenextweb.com/news/openai-exponential-time-hypothesis-false-kakeya-yang-mills)** | OpenAI | OpenAI manuscript (openai/math), 2026 | 🔍 Claims a subexponential algorithm for counting solutions to fixed-width CNF formulas, refuting ETH and with it SETH. Released for scrutiny; verification status as of writing unsettled. |
 | **[Flat Origami is Turing Complete](https://arxiv.org/abs/2309.07932)** | Hull & Zakharevich | arXiv, 2023 | Proves that flat origami, viewed as a computational device, is Turing complete. |
 | **A Fresh Look at the lambda-Calculus** | Accattoli | FSCD 2019 (invited talk) | Bird's-eye view of questions about the untyped lambda-calculus: measuring the complexity of terms, decomposing and implementing evaluation, and how these vary with the evaluation strategy. |
 | **Interaction Combinators** | Lafont | Information and Computation 137, 1997 | Shows that a simple system of three interaction combinators is universal for interaction nets. |
 | **MIP* = RE** | Ji, Natarajan, Vidick, Wright & Yuen | arXiv:2001.04383, 2020 | Proves that the class MIP* of languages decidable by a classical verifier interacting with entangled quantum provers equals RE, which refutes Connes' embedding conjecture. |
 | **[A Programming Language Oriented Approach to Computability](https://arxiv.org/abs/1402.2949)** | Karper | Bachelor thesis, University of Bern, 2013 | Develops computability theory using simple programming languages (FOR and WHILE) and transformations between them. |
+| **[A proof of the Aaronson–Ambainis conjecture](https://psi.inc/research/aaronson-ambainis/)** | PSI (Physical Superintelligence) | Research announcement, 2026 | 🔍 An AI-produced proof of the 2008 Aaronson–Ambainis conjecture with a compact, Comparator-checked Lean formalization. A case study in my Lean-formalization write-up. |
+| **[A proof of the Unique Games Conjecture](https://quantamagazine.org/as-ai-closed-in-on-unique-games-proof-researchers-raced-to-beat-the-machines-20261007)** | OpenAI | OpenAI manuscript (openai/math #102), 2026 | 🔍 A ~50-page claimed proof built on 2-to-2 games and a "latent alphabet gadget", with a Lean verification; a related 2-to-1 conjecture proof appeared alongside it. |
 | **[Simulating Time With Square-Root Space](https://arxiv.org/abs/2502.17779)** | Williams | arXiv, 2025 | Shows that every multitape Turing machine running in time t can be simulated in space O(sqrt(t log t)), improving the 50-year-old Hopcroft-Paul-Valiant bound. |
 | **A Tutorial Introduction to the Lambda Calculus** | Rojas | Lecture notes, FU Berlin, 1997 | Short introduction to the lambda calculus showing arithmetic and recursive definitions without named functions. |
 
