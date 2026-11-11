@@ -6,15 +6,15 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 
 ## Overview
 
-- **[Mathematics](#mathematics)** (27)
+- **[Mathematics](#mathematics)** (30)
   - [Algebra](#algebra) (1)
   - [Analysis and Linear Algebra](#analysis-and-linear-algebra) (5)
-  - [Category Theory](#category-theory) (7)
+  - [Category Theory](#category-theory) (10)
   - [Foundations and Logic](#foundations-and-logic) (4)
   - [History of Mathematics](#history-of-mathematics) (6)
   - [Recreational Mathematics](#recreational-mathematics) (3)
   - [Topology and Geometry](#topology-and-geometry) (1)
-- **[Computer Science](#computer-science)** (112)
+- **[Computer Science](#computer-science)** (113)
   - [Algorithms and Data Structures](#algorithms-and-data-structures) (8)
   - [Compilers and Language Implementation](#compilers-and-language-implementation) (8)
   - [Computer Architecture and Parallelism](#computer-architecture-and-parallelism) (4)
@@ -25,14 +25,14 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
   - [LLM Inference Serving](#llm-inference-serving) (7)
   - [Networks and Security](#networks-and-security) (1)
   - [Operating Systems and Systems Programming](#operating-systems-and-systems-programming) (1)
-  - [Programming Languages and Type Theory](#programming-languages-and-type-theory) (25)
+  - [Programming Languages and Type Theory](#programming-languages-and-type-theory) (26)
   - [Software Design and Engineering](#software-design-and-engineering) (5)
   - [Theory of Computation](#theory-of-computation) (8)
-- **[AI and Machine Learning](#ai-and-machine-learning)** (76)
+- **[AI and Machine Learning](#ai-and-machine-learning)** (83)
   - [Applied ML](#applied-ml) (10)
-  - [Deep Learning](#deep-learning) (14)
+  - [Deep Learning](#deep-learning) (19)
   - [Foundations](#foundations) (3)
-  - [Large Language Models](#large-language-models) (49)
+  - [Large Language Models](#large-language-models) (51)
 - **[Physics and Engineering](#physics-and-engineering)** (4)
   - [Electrical Engineering](#electrical-engineering) (4)
 - **[Linguistics and Languages](#linguistics-and-languages)** (30)
@@ -71,7 +71,10 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 | **[Higher category theory](https://arxiv.org/abs/2401.14311)** | Haugseng | Encyclopedia of Mathematical Physics (arXiv), 2024 | Introduction to the homotopical theory of higher categories, motivating the definitions of infinity-categories and (infinity,n)-categories. |
 | **Intro to Category Theory: Natural Transformations** |  | Lecture notes | Lecture notes defining natural transformations as transformations between functors, with examples. |
 | **Physics, Topology, Logic and Computation: A Rosetta Stone** | Baez & Stay | arXiv, 2009 | Explains, using symmetric monoidal categories, the analogy between Feynman diagrams in physics, cobordisms in topology, proofs in logic and programs in computation. |
+| **[Polynomial Functors: A Mathematical Theory of Interaction](https://arxiv.org/abs/2312.00990)** | Niu & Spivak | Book draft (arXiv), 2023 | 🔍 Develops the category Poly of polynomial functors as a general language for interacting systems — dynamical systems, wiring diagrams, databases and more (drafts circulated from 2021). |
 | **Sheaf Theory** | Centazzo & Vitale | Categorical Foundations (book chapter VII), 2004 | Introductory chapter on sheaf theory, motivated by local-to-global problems in analysis. |
+| **[A synthetic approach to Markov kernels, conditional independence and theorems on sufficient statistics](https://arxiv.org/abs/1908.07021)** | Fritz | Advances in Mathematics, 2020 | 🔍 Develops Markov categories as a synthetic, category-theoretic setting for probability, proving results on conditional independence and sufficient statistics without measure-theoretic detail. |
+| **[Traced monoidal categories](https://doi.org/10.1017/S0305004100074338)** | Joyal, Street & Verity | Mathematical Proceedings of the Cambridge Philosophical Society, 1996 | 🔍 Introduces traced monoidal categories — an abstract account of feedback and loops — and the Int construction that embeds them in compact closed categories. |
 | **Value Iteration is Optic Composition** | Hedges & Rodriguez Sakamoto |  | Shows that value improvement in dynamic programming is composition in a category of optics, as a step toward describing reinforcement learning with parametrised optics. |
 
 ### Foundations and Logic
@@ -248,6 +251,7 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 | **[Do Be Do Be Do](https://arxiv.org/abs/1611.09259)** | Lindley, McBride & McLaughlin | POPL 2017 (arXiv) | Presents Frank, a strict functional language with a bidirectional effect type system in which functions generalise to operators that handle effects (multihandlers). |
 | **Elastic Sheet-Defined Functions: Generalising Spreadsheet Functions to Variable-Size Input Arrays** | McCutchen et al. |  | Describes a principled way to generalise spreadsheet sheet-defined functions written over fixed-size arrays into elastic functions that work on inputs of arbitrary size. |
 | **Fixpoints for the Masses: Programming with First-Class Datalog Constraints** | Madsen & Lhoták | OOPSLA 2020 | Proposes first-class Datalog constraints in Flix so Datalog programs can be constructed, composed and solved at run time from a functional language. |
+| **[Formal verification with Claude: Rocq proofs over RISC-V binaries](https://www.anthropic.com/research/formal-verification)** | Anthropic Frontier Red Team & Theorem | Research post, 2026 | 🔍 Reports Claude generating machine-checked Rocq proofs for 239 OSS-Fuzz entry points across 123 open-source libraries, over compiled RISC-V binaries in a modeled Linux environment. |
 | **Integrating Functional and Imperative Programming** | Gifford & Lucassen | LFP 1986 | Presents fluent languages with separate functional and imperative sublanguages, checked by a static system that infers both the type and effect class of every expression. |
 | **An Introduction to Algebraic Effects and Handlers** | Pretnar | MFPS 2015 (ENTCS) | A tutorial on algebraic effects and handlers with examples, an operational semantics, a type-and-effect system, and reasoning principles. |
 | **An Introduction to Quantum Programming in Quipper** | Green et al. | RC 2013 / arXiv:1304.5485 | A tutorial introduction to Quipper that implements a quantum algorithm and shows its key language features. |
@@ -312,12 +316,17 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 | **Best of Both Worlds: Advantages of Hybrid Graph Sequence Models** | Behrouz et al. | arXiv, 2024 | Presents the Graph Sequence Model framework for applying sequence models (Transformers, linear RNNs) to graphs and analyses their strengths and weaknesses, motivating hybrid models. |
 | **Coinductive guide to inductive transformer heads** | Nemecek | arXiv:2302.01834, 2023 | Argues transformer components can be expressed via combinatorial Hopf algebras. |
 | **Everything is Connected: Graph Neural Networks** | Velickovic | arXiv:2301.08210, 2023 | Short survey of graph neural networks and their foundations. |
+| **[Fourier Neural Operator for Parametric Partial Differential Equations](https://arxiv.org/abs/2010.08895)** | Li et al. | arXiv (ICLR 2021), 2020 | 🔍 Parameterizes the integral kernel of a neural operator in Fourier space, giving fast, resolution-independent solvers for families of PDEs such as Navier–Stokes. |
 | **From Online Softmax to FlashAttention** | Ye | Course note, UW CSE 599M, 2023 | Explains why tiling self-attention is non-trivial and derives the FlashAttention computation from the online softmax trick. |
+| **[Generalized Transformers from Applicative Functors](https://cybercat.institute/2025/02/12/transformers-applicative-functors/)** | Laakkonen | Blog post (Cybercat Institute), 2025 | 🔍 "Funcformer": re-expresses the Transformer with applicative functors so attention can operate over functions, graphs or probability distributions rather than just vectors, using diagrammatic tube notation. |
 | **ImageNet Classification with Deep Convolutional Neural Networks** | Krizhevsky, Sutskever & Hinton | NIPS 2012 | AlexNet: a deep CNN trained on ImageNet that greatly reduced error on ILSVRC. |
 | **KAN or MLP: A Fairer Comparison** | Yu, Yu & Wang | arXiv, 2024 | Compares KAN and MLP models under matched parameters and FLOPs across ML, vision, audio, NLP and symbolic-formula tasks, finding MLP generally better except for symbolic formula representation. |
 | **[KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)** | Liu et al. | arXiv:2404.19756, 2024 | Proposes networks with learnable activation functions on edges, inspired by the Kolmogorov-Arnold representation theorem, as an alternative to MLPs. |
 | **[The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)** | Frankle & Carbin | ICLR 2019 | Finds that standard pruning uncovers subnetworks whose initialisations let them train effectively, and states the hypothesis that dense networks contain such 'winning ticket' subnetworks. |
 | **Matryoshka Representation Learning** | Kusupati et al. | NeurIPS 2022 | Introduces Matryoshka Representation Learning, which encodes information at multiple granularities so one embedding can be truncated to fit downstream compute constraints. |
+| **[Neural Operator: Learning Maps Between Function Spaces](https://arxiv.org/abs/2108.08481)** | Kovachki, Li, Liu et al. | arXiv (JMLR 2023), 2021 | 🔍 Generalizes neural networks to learn operators between infinite-dimensional function spaces, with discretization-invariant architectures for PDE solution maps. |
+| **[On the Anatomy of Attention](https://arxiv.org/abs/2407.02423)** | Khatri, Laakkonen, Liu & Wang-Maścianica | arXiv, 2024 | 🔍 A category-theoretic, diagrammatic account of attention mechanisms that decomposes variants into common building blocks; cited by the Funcformer post. |
+| **[A pattern language for machine learning tasks](https://arxiv.org/abs/2407.02424)** |  | arXiv, 2024 | 🔍 Companion paper proposing a diagrammatic pattern language for specifying machine-learning tasks independently of architecture; cited by the Funcformer post. |
 | **Self Supervision Does Not Help Natural Language Supervision at Scale** | Weers et al. | arXiv:2301.07836, 2023 | Finds that adding image self-supervision to CLIP-style training gives no benefit at large scale. |
 | **[SpikingBrain Technical Report: Spiking Brain-inspired Large Models](https://arxiv.org/abs/2509.05276)** | Pan, Feng, Zhuang et al. | arXiv, 2025 | 🔍 Presents SpikingBrain-7B and 76B-A12B: linear-attention / mixture-of-experts models converted from Qwen2.5, using spike-based activations and trained on non-NVIDIA (MetaX) GPUs. I compared it with Hinton's ideas — Forward-Forward, mortal computation, fast weights, event-driven spikes. |
 | **Symbolic Discovery of Optimization Algorithms** | Chen et al. | arXiv:2302.06675, 2023 | Uses program search to discover Lion, a sign-momentum optimizer. |
@@ -337,9 +346,10 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 |-------|---------|-------|-------|
 | **[Are Language Models Agnostic to Linguistically Grounded Perturbations? A Case Study of Indic Languages](https://arxiv.org/abs/2412.10805)** | Ghosh, Dabre & Bhattacharyya | arXiv, 2024 | Studies whether pretrained language models are robust to linguistically grounded input perturbations across Indic languages and downstream tasks, compared with non-linguistic attacks. |
 | **[Ask, and it shall be given: Turing completeness of prompting](https://arxiv.org/abs/2411.01992)** | Qiu, Xu, Bao & Tong | arXiv, 2024 | Shows that prompting is Turing-complete: a single finite-size Transformer can compute any computable function given a suitable prompt. |
-| **Attention Is All You Need** | Vaswani et al. | NeurIPS 2017 / arXiv:1706.03762 | Introduces the Transformer, a sequence transduction architecture based only on attention, with state-of-the-art translation results. |
+| **Attention Is All You Need** | Vaswani et al. | NeurIPS 2017 / arXiv:1706.03762 | 🔍 Introduces the Transformer, a sequence transduction architecture based only on attention, with state-of-the-art translation results. Cited in the kyo-lambda-rlm design. |
 | **[Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)** | Wei et al. | NeurIPS 2022 (arXiv:2201.11903) | Shows that prompting with intermediate reasoning steps markedly improves LLM performance on arithmetic, commonsense and symbolic reasoning. |
 | **A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT** | Li et al. | arXiv:2302.09419, 2023 | Survey of pretrained foundation models across text, image and graph modalities. |
+| **[Context Language Models](https://arxiv.org/abs/2609.37725)** | Shao, Shen, Yin et al. | arXiv, 2026 | 🔍 Language models that edit their own live context as a file; introduces Suffix Cache Reuse, reported to cut server-side compute by about 35% versus standard SGLang at matched performance. Compared against λ-RLM. |
 | **Data Selection for Language Models via Importance Resampling** | Xie et al. | arXiv:2302.03169 (NeurIPS 2023) | Proposes DSIR, selecting pretraining data by importance resampling on hashed n-gram features. |
 | **[DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437)** | DeepSeek-AI | arXiv, 2024 | Presents DeepSeek-V3, a 671B-parameter Mixture-of-Experts model (37B active per token) using Multi-head Latent Attention, auxiliary-loss-free load balancing and multi-token prediction. |
 | **[DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300)** | Shao et al. | arXiv, 2024 | Introduces DeepSeekMath 7B, pretrained further on 120B math-related tokens, reaching 51.7% on the MATH benchmark; also introduces the GRPO reinforcement learning algorithm. |
@@ -383,6 +393,7 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 | **[Understanding LLMs: A Comprehensive Overview from Training to Inference](https://arxiv.org/abs/2401.02038)** | Liu et al. | arXiv, 2024 | Survey of techniques for training and running large language models, from data and architecture to inference. |
 | **Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor** | Honovich et al. | arXiv:2212.09689, 2022 | Builds a large instruction-tuning dataset generated by prompting an LLM, rivalling human-curated data. |
 | **What Language Model Architecture and Pretraining Objective Work Best for Zero-Shot Generalization?** | Wang et al. | ICML 2022 (arXiv:2204.05832) | Large-scale comparison of LM architectures and objectives for zero-shot generalisation. |
+| **[The Y-Combinator for LLMs: Solving Long-Context Rot with λ-Calculus](https://arxiv.org/abs/2603.20105)** | Roy, Ji, Tutunov, Zimmer & Bou-Ammar | arXiv, 2026 | 🔍 λ-RLM: instead of having the model write control code, a deterministic planner recursively applies a fixed set of pre-verified operators (split, map, filter, reduce) over the prompt and the LM handles only small leaf chunks. Basis of kyo-lambda-rlm. |
 | **[Zep: A Temporal Knowledge Graph Architecture for Agent Memory](https://arxiv.org/abs/2501.13956)** | Rasmussen et al. | arXiv, 2025 | Introduces Zep, a memory layer for LLM agents built on Graphiti, a temporally-aware knowledge graph engine, evaluated on the Deep Memory Retrieval benchmark against MemGPT. |
 
 ## Physics and Engineering
