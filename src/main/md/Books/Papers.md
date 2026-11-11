@@ -14,7 +14,7 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
   - [History of Mathematics](#history-of-mathematics) (6)
   - [Recreational Mathematics](#recreational-mathematics) (3)
   - [Topology and Geometry](#topology-and-geometry) (1)
-- **[Computer Science](#computer-science)** (105)
+- **[Computer Science](#computer-science)** (112)
   - [Algorithms and Data Structures](#algorithms-and-data-structures) (8)
   - [Compilers and Language Implementation](#compilers-and-language-implementation) (8)
   - [Computer Architecture and Parallelism](#computer-architecture-and-parallelism) (4)
@@ -22,16 +22,17 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
   - [Computing Education](#computing-education) (1)
   - [Distributed and Data Systems](#distributed-and-data-systems) (8)
   - [Functional Programming](#functional-programming) (35)
+  - [LLM Inference Serving](#llm-inference-serving) (7)
   - [Networks and Security](#networks-and-security) (1)
   - [Operating Systems and Systems Programming](#operating-systems-and-systems-programming) (1)
   - [Programming Languages and Type Theory](#programming-languages-and-type-theory) (25)
   - [Software Design and Engineering](#software-design-and-engineering) (5)
   - [Theory of Computation](#theory-of-computation) (8)
-- **[AI and Machine Learning](#ai-and-machine-learning)** (75)
+- **[AI and Machine Learning](#ai-and-machine-learning)** (76)
   - [Applied ML](#applied-ml) (10)
   - [Deep Learning](#deep-learning) (14)
   - [Foundations](#foundations) (3)
-  - [Large Language Models](#large-language-models) (48)
+  - [Large Language Models](#large-language-models) (49)
 - **[Physics and Engineering](#physics-and-engineering)** (4)
   - [Electrical Engineering](#electrical-engineering) (4)
 - **[Linguistics and Languages](#linguistics-and-languages)** (30)
@@ -209,6 +210,18 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 | **A tutorial on the universality and expressiveness of fold** | Hutton | Journal of Functional Programming 9(4), 1999 | Tutorial on the universal property of fold as a proof and definition principle, and on the unexpected expressive power of fold with tuples and first-class functions. |
 | **What You Needa Know about Yoneda: Profunctor Optics and the Yoneda Lemma (Functional Pearl)** | Boisseau & Gibbons | ICFP 2018 | Derives the profunctor representation of optics (lenses, prisms) from the concrete getter/setter representation as an application of the Yoneda Lemma. |
 
+### LLM Inference Serving
+
+| Paper | Authors | Where | About |
+|-------|---------|-------|-------|
+| **[Disaggregated Inference: Why the AI Network Is the Product](https://hedgehog.cloud/blog/disaggregated-inference-why-the-ai-network-is-the-product)** | Hedgehog | Blog post, 2026 | 🔍 Argues that once prefill and decode are split across machines, the network fabric moving KV cache between them becomes the core of the inference product. |
+| **[Dynamo Disaggregation: Separating Prefill and Decode for Enhanced Performance](https://docs.nvidia.com/dynamo/latest/design-docs/disaggregated-serving)** | NVIDIA | Design doc | 🔍 NVIDIA Dynamo's design for disaggregated serving: separate prefill and decode workers, conditional disaggregation and KV-cache transfer between them. |
+| **[llm-d: Kubernetes-native distributed inference (disaggregation architecture)](https://docs.vllm.ai/en/stable/deployment/integrations/llm-d/)** | llm-d project | Documentation | 🔍 Architecture for running vLLM at scale on Kubernetes with prefill/decode disaggregation and an inference-aware scheduler. |
+| **[NIXL (NVIDIA Inference Xfer Library): overview and backend guide](https://docs.nvidia.com/nixl/getting-started/overview.md)** | NVIDIA | Documentation | 🔍 The transfer library and plugin API used to move KV-cache blocks between GPUs, hosts and storage in disaggregated inference; backends include UCX, GPUDirect Storage and POSIX. |
+| **[NixlConnector Usage Guide](https://docs.vllm.ai/en/stable/features/nixl_connector_usage/)** | vLLM | Documentation | 🔍 How vLLM splits prefill and decode across separate instances and machines, using NIXL to hand the KV cache from prefill to decode workers. |
+| **[Open Cluster Designs: Aligned AI Inference Fabric Reference Architecture](https://www.opencompute.org/documents/open-cluster-designs-aligned-ai-inference-fabric-reference-architecture-pdf)** | Open Compute Project (Hedgehog) | OCP reference architecture, 2026 | 🔍 An open RoCE network reference architecture for disaggregated AI inference clusters, contributed to OCP by Hedgehog. |
+| **[What is llm-d and why do we need it?](https://www.redhat.com/en/blog/what-llm-d-and-why-do-we-need-it)** | Clyburn & Nuland (Red Hat) | Blog post, 2025 | 🔍 Explains llm-d's endpoint picker, including KV-cache-aware routing: the scheduler indexes cache state across vLLM replicas and sends requests sharing a prefix to the pod that already holds it. |
+
 ### Networks and Security
 
 | Paper | Authors | Where | About |
@@ -351,6 +364,7 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 | **PaLM: Scaling Language Modeling with Pathways** | Chowdhery et al. | arXiv:2204.02311 (JMLR 2023), 2022 | Describes PaLM, a 540B-parameter dense transformer trained with the Pathways system. |
 | **Parsel: A Unified Natural Language Framework for Algorithmic Reasoning** | Zelikman et al. | arXiv:2212.10561, 2022 | Introduces Parsel, which has code LLMs decompose a hierarchical natural-language function description into parts, implement each, and validate them with tests to solve complex algorithmic tasks. |
 | **[A Primer on the Inner Workings of Transformer-based Language Models](https://arxiv.org/abs/2405.00208)** | Ferrando, Sarti, Bisazza & Costa-jussa | arXiv, 2024 | Concise technical introduction to interpretability techniques for decoder-only Transformer language models and an overview of known internal mechanisms. |
+| **[Recursive Language Models](https://arxiv.org/abs/2512.24601)** | Zhang, Kraska & Khattab | arXiv, 2025 | 🔍 Instead of reading a long prompt directly, the model loads it into a Python REPL as a variable and writes code to inspect, split and recursively call itself on the pieces. Behind the prompt-decomposition design in my Kyo agent runtime. |
 | **[Rethinking Reflection in Pre-Training](https://arxiv.org/abs/2504.04022)** | Essential AI | arXiv, 2025 | Introduces deliberate errors into chains-of-thought and shows that language models' ability to recognise and correct them emerges during pre-training and improves with pre-training compute. |
 | **Scaling Instruction-Finetuned Language Models** | Chung et al. | arXiv:2210.11416, 2022 | Flan-PaLM/Flan-T5: scales instruction finetuning across tasks, model sizes and chain-of-thought data. |
 | **[Self-Organizing Graph Reasoning Evolves into a Critical State for Continuous Discovery Through Structural-Semantic Dynamics](https://arxiv.org/abs/2503.18852)** | Buehler | arXiv, 2025 | Analyses agentic graph-reasoning systems and reports that they evolve toward a critical state in which semantic entropy persistently dominates structural entropy, sustaining discovery. |
