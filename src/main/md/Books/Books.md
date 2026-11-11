@@ -1,6 +1,6 @@
 # Books
 
-A cataloged index of my books, in three groups: **Influential** books that have shaped how I think, **Read** books that I valued but that were less formative, and books **On the Shelf** that I haven't read yet. Textbooks have their own catalog: [Technical](Technical.md).
+A cataloged index of my books, in three groups: **Influential** books that have shaped how I think, **Read** books that I valued but that were less formative, and books **On the Shelf** that I haven't read yet. Textbooks have their own catalog, [Technical](Technical.md), and research papers have theirs, [Papers](Papers.md).
 
 Within the influential section, books are organized by author or subject. Each entry links to a dedicated file with a full summary, critical analysis, and personal takeaways.
 
@@ -804,7 +804,7 @@ Books I own (or borrowed) but haven't read yet. For these I note only what criti
 
 ---
 
-*See also: [Technical](Technical.md) — textbooks, physical and digital. [Books-Top.md](Books-Top) — Modern Library Top 100 novels list with summaries.*
+*See also: [Technical](Technical.md) — textbooks, physical and digital. [Papers](Papers.md) — research papers, by subject. [Books-Top.md](Books-Top) — Modern Library Top 100 novels list with summaries.*
 
 ---
 
