@@ -1,30 +1,30 @@
 # Technical
 
-My textbooks and technical books — the ones on the shelf and the ones in the Google Drive *Books* folder — arranged top-down by subject. Textbooks are never really *finished*, so there is no read/unread status here; each entry notes what the book covers and how it is regarded. Research papers have their own catalog: [Papers](Papers.md).
+My textbooks and technical books — the ones on the shelf and the ones in the Google Drive *Books* folder — arranged top-down by subject. Textbooks are never really *finished*, so there is no read/unread status here; each entry notes what the book covers and how it is regarded. Research papers have their own catalog: [Papers](Papers.md). 🔍 marks books I have gone through in detail with Claude.
 
-**Format:** 📕 physical copy · 💾 digital (PDF) · 📕💾 both · 🌐 free online book
+**Format:** 📕 physical copy · 💾 digital (PDF) · 📕💾 both · 🌐 free online book · 🔖 discussed with Claude, not in my collection
 
 ---
 
 ## Overview
 
-- **[Mathematics](#mathematics)** (59)
+- **[Mathematics](#mathematics)** (63)
   - [Algebra](#algebra) (4)
-  - [Analysis and Linear Algebra](#analysis-and-linear-algebra) (10)
-  - [Category Theory](#category-theory) (7)
+  - [Analysis and Linear Algebra](#analysis-and-linear-algebra) (12)
+  - [Category Theory](#category-theory) (8)
   - [Discrete Mathematics and Combinatorics](#discrete-mathematics-and-combinatorics) (7)
   - [Foundations and Logic](#foundations-and-logic) (12)
   - [General and School Mathematics](#general-and-school-mathematics) (1)
   - [History of Mathematics](#history-of-mathematics) (1)
   - [Probability and Statistics](#probability-and-statistics) (6)
   - [Recreational Mathematics](#recreational-mathematics) (7)
-  - [Topology and Geometry](#topology-and-geometry) (4)
-- **[Computer Science](#computer-science)** (93)
+  - [Topology and Geometry](#topology-and-geometry) (5)
+- **[Computer Science](#computer-science)** (94)
   - [Algorithms and Data Structures](#algorithms-and-data-structures) (8)
   - [Compilers and Language Implementation](#compilers-and-language-implementation) (7)
   - [Computer Architecture and Parallelism](#computer-architecture-and-parallelism) (5)
   - [Distributed and Data Systems](#distributed-and-data-systems) (9)
-  - [Functional Programming](#functional-programming) (24)
+  - [Functional Programming](#functional-programming) (25)
   - [Interviews and Career](#interviews-and-career) (4)
   - [Networks and Security](#networks-and-security) (6)
   - [Operating Systems and Systems Programming](#operating-systems-and-systems-programming) (6)
@@ -66,10 +66,12 @@ My textbooks and technical books — the ones on the shelf and the ones in the G
 | Book | Author | Format | About |
 |------|--------|:------:|-------|
 | **Algebra, Topology, Differential Calculus, and Optimization Theory for Computer Science and Machine Learning** | Jean Gallier & Jocelyn Quaintance | 💾 | A very large free text from the University of Pennsylvania covering the mathematics underlying ML, from topology and differential calculus to convex optimization, SVMs and kernel methods. Known for its breadth and rigor. |
+| **Analysis I** | Terence Tao | 🔖 | 🔍 An undergraduate real-analysis text building the number systems from scratch; now accompanied by Tao's own Lean companion formalization. |
 | **Computational Mathematics**<br><img src="covers/IMG_0521.jpg" width="60" alt="cover"> |  | 📕 | A textbook on computational mathematics (numerical methods and computation-oriented mathematics); the specific author and edition could not be identified from the photo. |
 | **The Discrete Algebra of the Fourier Transform** | Peyré | 💾 | Covers discrete Fourier analysis: Fourier transforms on finite groups, the FFT, convolution, and applications to coding and signal processing. |
 | **Div, Grad, Curl, and All That: An Informal Text on Vector Calculus**<br><img src="covers/OL_252648.jpg" width="60" alt="cover"> | H. M. Schey | 💾 | An informal introduction to vector calculus motivated through electrostatics, building divergence, gradient, curl and the integral theorems intuitively. A beloved supplement for physics and engineering students. |
 | **Engineering Mathematics (VTU)**<br><img src="covers/IMG_8586.jpg" width="60" alt="cover"> | D. S. Chandrasekharaiah | 📕 | A Bangalore-published engineering mathematics textbook written to the Visvesvaraya Technological University syllabus, covering calculus, differential equations, transforms and related applied topics. A regional course text with little published review. |
+| **An Introduction to Measure Theory** | Terence Tao | 🔖 | 🔍 A graduate introduction to Lebesgue measure and integration, abstract measure spaces and product measures; free online, and a formalization target in Lean. |
 | **Linear Algebra** | Georgi E. Shilov | 💾 | A classic Soviet textbook (Dover translation) that develops determinants, linear spaces, linear transformations, quadratic forms and Euclidean spaces with rigour and economy. Prized as an inexpensive, thorough second course. The Drive copy is a scan. |
 | **Linear Algebra Done Wrong** | Sergei Treil | 💾 | A free textbook by a Brown University mathematician, written as a rigorous counterpoint to Axler's *Linear Algebra Done Right* — it keeps determinants central and covers spectral theory, inner products and canonical forms. Popular for honors and second courses. |
 | **Linear Algebra for Computer Vision, Robotics, and Machine Learning** | Jean Gallier & Jocelyn Quaintance | 💾 | A rigorous, extensive free treatment of linear algebra and matrix decompositions (SVD, QR, spectral theory) with applications to vision, robotics and ML. A companion to the authors' optimization volume. |
@@ -81,10 +83,11 @@ My textbooks and technical books — the ones on the shelf and the ones in the G
 | Book | Author | Format | About |
 |------|--------|:------:|-------|
 | **Basic Category Theory for Computer Scientists**<br><img src="covers/OL_152263.jpg" width="60" alt="cover"> | Benjamin C. Pierce | 💾 | A short introduction to categories, functors, natural transformations, adjunctions and cartesian closed categories with applications to computing. A popular concise first text for programmers. |
-| **Category Theory for Programmers**<br><img src="covers/IMG_0497.jpg" width="60" alt="cover"> | Bartosz Milewski | 📕 | Book version of Milewski's blog series explaining categories, functors, monads, adjunctions and more with Haskell and C++ examples; a popular entry point for programmers. |
+| **Category Theory for Programmers**<br><img src="covers/IMG_0497.jpg" width="60" alt="cover"> | Bartosz Milewski | 📕 | 🔍 Book version of Milewski's blog series explaining categories, functors, monads, adjunctions and more with Haskell and C++ examples; a popular entry point for programmers. |
 | **Category Theory for Scientists** | David I. Spivak | 💾 | An introduction to category theory for scientists, built around sets, databases (ologs) and practical modelling rather than pure-mathematics examples; the drafts were published by MIT Press as *Category Theory for the Sciences* (2014). Praised as one of the most accessible applied introductions. |
-| **Category Theory in Context**<br><img src="covers/IMG_0496.jpg" width="60" alt="cover"> | Emily Riehl | 📕 | Dover graduate introduction covering categories, universal properties, the Yoneda lemma, limits, adjunctions and monads, with examples drawn from across mathematics; freely available and widely recommended. |
+| **Category Theory in Context**<br><img src="covers/IMG_0496.jpg" width="60" alt="cover"> | Emily Riehl | 📕 | 🔍 Dover graduate introduction covering categories, universal properties, the Yoneda lemma, limits, adjunctions and monads, with examples drawn from across mathematics; freely available and widely recommended. |
 | **Conceptual Mathematics: A First Introduction to Categories**<br><img src="covers/OL_10352229.jpg" width="60" alt="cover"> | F. William Lawvere & Stephen H. Schanuel | 💾 | An elementary, discussion-driven introduction to category theory assuming little background, by one of the field's founders. Praised for its gentle approach, though some readers find its pace slow. |
+| **Elements of ∞-Category Theory** | Emily Riehl & Dominic Verity | 🔖 | 🔍 A model-independent development of (∞,1)-category theory using ∞-cosmoi (Cambridge, 2022); the basis of Riehl's ∞-cosmos Lean formalization project. |
 | **Introducing Category Theory**, 2nd | Peter Smith | 💾 | A freely available, carefully paced introduction to category theory by a Cambridge logician, aimed at self-learners with some mathematical background. Valued for its clarity and leisurely explanations. |
 | **Monoidal Category Theory: Unifying Concepts in Mathematics, Physics, and Computing** | Noson S. Yanofsky | 💾 | A textbook (MIT Press, 2024) that builds from basic categories to monoidal categories and their variations, with short "mini-courses" on topics such as linear algebra, categorical logic and self-referential paradoxes. Aimed at a broad audience across mathematics, physics and computing. Two copies are in Drive: an early draft and the 2024 version. |
 
@@ -158,6 +161,7 @@ My textbooks and technical books — the ones on the shelf and the ones in the G
 |------|--------|:------:|-------|
 | **Algebraic Topology: An Intuitive Approach**<br><img src="covers/OL_621458.jpg" width="60" alt="cover"> | Hajime Sato | 💾 | A concise introduction to homotopy, homology, fiber bundles and related ideas emphasizing intuition over full rigor, translated from Japanese for the AMS. Useful as a gentle overview before more formal texts. |
 | **Geometric Structures on Manifolds** | William M. Goldman | 💾 | A graduate monograph on locally homogeneous (G,X)-structures such as affine and projective structures, developing maps and holonomy. Published in the AMS Graduate Studies series; a standard reference for the topic. |
+| **The Geometry of Fractal Sets** | K. J. Falconer | 🔖 | 🔍 A classic monograph on Hausdorff measure and dimension, densities, projections and Kakeya-type sets — the standard reference behind much of geometric measure theory. |
 | **Homotopy Theory**<br><img src="covers/OL_4955175.jpg" width="60" alt="cover"> | Sze-Tsen Hu | 💾 | A classic early textbook on homotopy theory covering fibre spaces, homotopy groups, obstruction theory and related topics. Historically important, though superseded by later treatments. |
 | **Intuitive Topology**<br><img src="covers/OL_621432.jpg" width="60" alt="cover"> | V. V. Prasolov | 💾 | A short, picture-driven introduction to topological ideas such as knots, surfaces, vector fields and the Euler characteristic, aimed at students with little background. Published in the AMS Mathematical World series. |
 
@@ -172,7 +176,7 @@ My textbooks and technical books — the ones on the shelf and the ones in the G
 | **Algorithm Design**<br><img src="covers/IMG_0536.jpg" width="60" alt="cover"> | Jon Kleinberg & Éva Tardos | 📕 | Algorithms textbook organized around design techniques (greedy, divide and conquer, dynamic programming, network flow, NP-completeness, approximation); praised for motivating each technique through real problems. |
 | **Data Structures and Algorithms**<br><img src="covers/IMG_0732.jpg" width="60" alt="cover"> | Alfred V. Aho, John E. Hopcroft, Jeffrey D. Ullman | 📕 | Classic Addison-Wesley text on abstract data types, sorting, searching, graphs and algorithm analysis, presented with Pascal; a foundational undergraduate reference. |
 | **Data Structures, Algorithms, and Applications in C++**<br><img src="covers/IMG_8579.jpg" width="60" alt="cover"> | Sartaj Sahni | 📕 | An undergraduate data structures text implementing lists, trees, graphs, hashing and sorting in C++, with many applications and exercises. Widely used in university courses, particularly in India. |
-| **Introduction to Algorithms**<br><img src="covers/IMG_0539.jpg" width="60" alt="cover"> | Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein | 📕 | The comprehensive algorithms textbook known as CLRS, covering sorting, data structures, graph algorithms, dynamic programming, NP-completeness and more with rigorous analysis. The most widely used algorithms text in universities worldwide. |
+| **Introduction to Algorithms**<br><img src="covers/IMG_0539.jpg" width="60" alt="cover"> | Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein | 📕 | 🔍 The comprehensive algorithms textbook known as CLRS, covering sorting, data structures, graph algorithms, dynamic programming, NP-completeness and more with rigorous analysis. The most widely used algorithms text in universities worldwide. |
 | **Randomized Algorithms**<br><img src="covers/IMG_0535.jpg" width="60" alt="cover"> | Rajeev Motwani & Prabhakar Raghavan | 📕 | The standard reference on randomized algorithm design and probabilistic analysis, covering tail bounds, Markov chains and applications across computing. |
 | **The Algorithm Design Manual**<br><img src="covers/IMG_0723.jpg" width="60" alt="cover"> | Steven S. Skiena | 📕 | A practical algorithms text pairing design techniques and 'war stories' with a large catalog of standard problems and their known solutions. Popular with practitioners and for interview preparation for its applied, problem-oriented approach. |
 | **The Art of Computer Programming, Volume 3: Sorting and Searching**, Vol. 3<br><img src="covers/IMG_0538.jpg" width="60" alt="cover"> <img src="covers/IMG_0448.jpg" width="60" alt="cover"> | Donald E. Knuth | 📕 | Knuth's exhaustive mathematical treatment of sorting and searching algorithms; part of the series widely considered the definitive work on algorithm analysis. |
@@ -218,6 +222,7 @@ My textbooks and technical books — the ones on the shelf and the ones in the G
 
 | Book | Author | Format | About |
 |------|--------|:------:|-------|
+| **Algorithm Design with Haskell** | Richard Bird & Jeremy Gibbons | 🔖 | 🔍 Develops classic algorithm-design strategies — divide and conquer, greedy, dynamic programming, exhaustive search — by equational reasoning in Haskell (Cambridge, 2020). |
 | **Haskell: The Craft of Functional Programming, 3rd ed.** | Simon Thompson | 💾 | A long-standing introductory textbook on functional programming in Haskell, covering types, recursion, higher-order functions, type classes, lazy evaluation and reasoning about programs. A standard university course text. |
 | **An Introduction to Functional Programming Through Lambda Calculus**<br><img src="covers/OL_8665007.jpg" width="60" alt="cover"> | Greg Michaelson | 💾 | Builds functional programming from the untyped lambda calculus up through data structures, recursion and evaluation strategies, with links to Lisp and ML. Valued as a gentle, self-contained introduction (reprinted by Dover). |
 | **Effect Oriented Programming** | Bill Frasure, Bruce Eckel, James Ward | 💾 | (PDF and EPUB in Drive.) Introduces managing side effects, errors and dependencies as typed effects, with examples in Scala 3 and ZIO. Aimed at practitioners new to effect systems. |
@@ -331,7 +336,7 @@ My textbooks and technical books — the ones on the shelf and the ones in the G
 |------|--------|:------:|-------|
 | **Deep Learning**<br><img src="covers/IMG_0537.jpg" width="60" alt="cover"> | Ian Goodfellow, Yoshua Bengio, Aaron Courville | 📕 | Comprehensive MIT Press text covering the mathematical background, modern practice and research frontiers of deep neural networks; long regarded as the field's standard reference. |
 | **Deep Learning and Computational Physics (Lecture Notes)** | Deep Ray, Orazio Pinti & Assad A. Oberai | 💾 | Lecture notes from the University of Southern California that introduce deep learning — MLPs, CNNs, generative models, physics-informed networks and operator learning — through the lens of computational physics. |
-| **Mathematical Theory of the Transformer, Vol. I: Foundations, Rationality, and the Incremental Transformer** | Giansalvo Cirrincione | 💾 | A recent Routledge monograph giving a mathematical treatment of the Transformer architecture, including the author's incremental Transformer. Too new for substantial critical reception. |
+| **Mathematical Theory of the Transformer, Vol. I: Foundations, Rationality, and the Incremental Transformer** | Giansalvo Cirrincione | 💾 | 🔍 A pre-publication draft (Zenodo, headed for MIT Press) of a mathematical treatment of the transformer, built from the author's series of arXiv preprints, including the companion *Hierarchical Kernel Transformer* paper. Gone through in detail with Claude via those seven preprints. |
 | **The Hundred-Page Language Models Book**<br><img src="covers/OL_15131435.jpg" width="60" alt="cover"> | Andriy Burkov | 📕 | A compact introduction to language models, building from ML basics and count-based models through RNNs to Transformers and LLM practice, with code. Follows the well-received format of the author's Hundred-Page Machine Learning Book. (Title inferred from a partly hidden spine.) |
 | **The Little Learner: A Straight Line to Deep Learning**<br><img src="covers/OL_13824426.jpg" width="60" alt="cover"> | Daniel P. Friedman & Anurag Mendhekar | 📕 | MIT Press book in the 'Little' question-and-answer style that builds deep learning concepts from scratch in a Scheme dialect. |
 | **Multimodal Deep Learning** | Akkus et al. | 💾 | A book from an LMU seminar surveying multimodal deep learning: NLP and vision foundations, image-text models, text-to-image generation, and multimodal architectures. |

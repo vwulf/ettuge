@@ -1,20 +1,21 @@
 # Papers
 
-Research papers, theses and technical reports I keep in the Google Drive *Books › Papers* folder, arranged top-down by subject — the same layout as [Technical](Technical.md). Each entry gives the authors, where it appeared, and a line on what it does.
+Research papers, theses and technical reports I keep in the Google Drive *Books › Papers* folder, arranged top-down by subject — the same layout as [Technical](Technical.md). Each entry gives the authors, where it appeared, and a line on what it does. 🔍 marks papers I have gone through in detail with Claude; these link to the published version and may not be in Drive. 📝 marks papers cited in my own notes, with a link to the write-up.
 
 ---
 
 ## Overview
 
-- **[Mathematics](#mathematics)** (26)
-  - [Algebra](#algebra) (1)
-  - [Analysis and Linear Algebra](#analysis-and-linear-algebra) (4)
-  - [Category Theory](#category-theory) (7)
-  - [Foundations and Logic](#foundations-and-logic) (4)
-  - [History of Mathematics](#history-of-mathematics) (6)
+- **[Mathematics](#mathematics)** (44)
+  - [Algebra](#algebra) (2)
+  - [Analysis and Linear Algebra](#analysis-and-linear-algebra) (7)
+  - [Category Theory](#category-theory) (12)
+  - [Discrete Mathematics and Combinatorics](#discrete-mathematics-and-combinatorics) (2)
+  - [Foundations and Logic](#foundations-and-logic) (10)
+  - [History of Mathematics](#history-of-mathematics) (7)
   - [Recreational Mathematics](#recreational-mathematics) (3)
   - [Topology and Geometry](#topology-and-geometry) (1)
-- **[Computer Science](#computer-science)** (105)
+- **[Computer Science](#computer-science)** (119)
   - [Algorithms and Data Structures](#algorithms-and-data-structures) (8)
   - [Compilers and Language Implementation](#compilers-and-language-implementation) (8)
   - [Computer Architecture and Parallelism](#computer-architecture-and-parallelism) (4)
@@ -22,23 +23,25 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
   - [Computing Education](#computing-education) (1)
   - [Distributed and Data Systems](#distributed-and-data-systems) (8)
   - [Functional Programming](#functional-programming) (35)
+  - [LLM Inference Serving](#llm-inference-serving) (7)
   - [Networks and Security](#networks-and-security) (1)
   - [Operating Systems and Systems Programming](#operating-systems-and-systems-programming) (1)
-  - [Programming Languages and Type Theory](#programming-languages-and-type-theory) (25)
+  - [Programming Languages and Type Theory](#programming-languages-and-type-theory) (26)
   - [Software Design and Engineering](#software-design-and-engineering) (5)
-  - [Theory of Computation](#theory-of-computation) (8)
-- **[AI and Machine Learning](#ai-and-machine-learning)** (69)
-  - [Applied ML](#applied-ml) (9)
-  - [Deep Learning](#deep-learning) (13)
-  - [Foundations](#foundations) (2)
-  - [Large Language Models](#large-language-models) (45)
+  - [Theory of Computation](#theory-of-computation) (14)
+- **[AI and Machine Learning](#ai-and-machine-learning)** (107)
+  - [Applied ML](#applied-ml) (20)
+  - [Deep Learning](#deep-learning) (21)
+  - [Foundations](#foundations) (3)
+  - [Large Language Models](#large-language-models) (63)
 - **[Physics and Engineering](#physics-and-engineering)** (4)
   - [Electrical Engineering](#electrical-engineering) (4)
 - **[Linguistics and Languages](#linguistics-and-languages)** (30)
   - [Dravidian and Kannada Linguistics](#dravidian-and-kannada-linguistics) (6)
   - [Historical Linguistics and Scripts](#historical-linguistics-and-scripts) (15)
   - [Sanskrit and Indo-Aryan Linguistics](#sanskrit-and-indo-aryan-linguistics) (9)
-- **[Other](#other)** (8)
+- **[Other](#other)** (19)
+  - [Health and Nutrition](#health-and-nutrition) (10)
 
 ---
 
@@ -48,15 +51,19 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 
 | Paper | Authors | Where | About |
 |-------|---------|-------|-------|
+| **[A constructive ATLAS of finite simple groups in Lean](https://arxiv.org/abs/2609.35847)** |  | arXiv, 2026 | A constructive, machine-checked ATLAS of the finite simple groups in Lean. 📝 Discussed in my notes: [Lean, Foundations, and the AI Formalization of Mathematics](../FP/lean-ai-formalization.md). |
 | **Group Algebras and Coding Theory** | Guerreiro | arXiv:1412.8042, 2015 | A survey of how group-algebra techniques, especially idempotents, are used to construct and analyze minimal abelian codes and their minimum weights. |
 
 ### Analysis and Linear Algebra
 
 | Paper | Authors | Where | About |
 |-------|---------|-------|-------|
+| **[All elementary functions from a single operator](https://arxiv.org/abs/2603.21852)** | Odrzywołek | arXiv (cs.SC), 2026 | 🔍 Shows that the single binary operator eml(x, y) = eˣ − ln y, together with the constant 1, generates every elementary function — a "NAND gate" for continuous mathematics. I used it to coin an Ellara Kannada vocabulary for elementary functions. |
+| **[Finite-time blowup for the forced Navier–Stokes equations](https://openai.com/index/navier-stokes-solution/)** | OpenAI | OpenAI announcement, 2026 | 🔍 Claims finite-time singularity formation for the forced 3D Navier–Stokes equations; contested over whether the forced case is the Millennium problem and over credit. Compared with Buckmaster–Alpöge work on 3D Euler blowup. |
 | **Mathematics for Machine Learning: Linear Algebra, Week 1 slides** | DeepLearning.AI | DeepLearning.AI course slides, 2023 | Lecture slides for week 1 of course 1 (linear algebra) of DeepLearning.AI's Mathematics for ML specialization. |
 | **Mathematics for Machine Learning: Linear Algebra, Week 3 slides** | DeepLearning.AI | DeepLearning.AI course slides, 2023 | Lecture slides for week 3 of course 1 (linear algebra) of DeepLearning.AI's Mathematics for ML specialization. |
 | **Mathematics for Machine Learning: Linear Algebra, Week 4 slides** | DeepLearning.AI | DeepLearning.AI course slides, 2023 | Lecture slides for week 4 of course 1 (linear algebra) of DeepLearning.AI's Mathematics for ML specialization. |
+| **[The Quasi-Riemann Hypothesis](https://quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019)** | OpenAI | OpenAI manuscript (openai/math), 2026 | 🔍 Two versions: a 199-page, Lean-checked proof of a zero-free region for ζ(s) with Re(s) > 7/8, and a 49-page, unchecked proof of the 11/12 bound. |
 | **[A theory of regularity structures](https://arxiv.org/abs/1303.5113)** | Hairer | Inventiones Mathematicae, 2014 | Introduces regularity structures, a framework for giving meaning to and solving a class of singular stochastic partial differential equations such as the KPZ equation; the work behind Hairer's 2014 Fields Medal. |
 
 ### Category Theory
@@ -64,21 +71,39 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 | Paper | Authors | Where | About |
 |-------|---------|-------|-------|
 | **Category theory for (big) data modeling and model's transformation** | Zhao | PhD thesis, Universite de Haute Alsace, 2019 | Thesis applying category theory to (big) data modelling and transformation between data models. |
+| **[Formalizing Colimits in Cat](https://arxiv.org/abs/2503.20704)** | Carneiro & Riehl | ITP 2025 (LIPIcs) | 🔍 A Lean formalization of colimits in the category of categories, and the practical lessons it teaches about formalizing category theory. |
 | **[Fundamental Components of Deep Learning: A category-theoretic approach](https://arxiv.org/abs/2403.13001)** | Gavranovic | PhD thesis, University of Strathclyde (arXiv:2403.13001), 2024 | Develops a category-theoretic foundation for deep learning based on parametric lenses and optics. |
 | **[Higher category theory](https://arxiv.org/abs/2401.14311)** | Haugseng | Encyclopedia of Mathematical Physics (arXiv), 2024 | Introduction to the homotopical theory of higher categories, motivating the definitions of infinity-categories and (infinity,n)-categories. |
 | **Intro to Category Theory: Natural Transformations** |  | Lecture notes | Lecture notes defining natural transformations as transformations between functors, with examples. |
 | **Physics, Topology, Logic and Computation: A Rosetta Stone** | Baez & Stay | arXiv, 2009 | Explains, using symmetric monoidal categories, the analogy between Feynman diagrams in physics, cobordisms in topology, proofs in logic and programs in computation. |
+| **[Polynomial Functors: A Mathematical Theory of Interaction](https://arxiv.org/abs/2312.00990)** | Niu & Spivak | Book draft (arXiv), 2023 | 🔍 Develops the category Poly of polynomial functors as a general language for interacting systems — dynamical systems, wiring diagrams, databases and more (drafts circulated from 2021). |
 | **Sheaf Theory** | Centazzo & Vitale | Categorical Foundations (book chapter VII), 2004 | Introductory chapter on sheaf theory, motivated by local-to-global problems in analysis. |
+| **[A synthetic approach to Markov kernels, conditional independence and theorems on sufficient statistics](https://arxiv.org/abs/1908.07021)** | Fritz | Advances in Mathematics, 2020 | 🔍 Develops Markov categories as a synthetic, category-theoretic setting for probability, proving results on conditional independence and sufficient statistics without measure-theoretic detail. |
+| **[Traced monoidal categories](https://doi.org/10.1017/S0305004100074338)** | Joyal, Street & Verity | Mathematical Proceedings of the Cambridge Philosophical Society, 1996 | 🔍 Introduces traced monoidal categories — an abstract account of feedback and loops — and the Int construction that embeds them in compact closed categories. |
 | **Value Iteration is Optic Composition** | Hedges & Rodriguez Sakamoto |  | Shows that value improvement in dynamic programming is composition in a category of optics, as a step toward describing reinforcement learning with parametrised optics. |
+| **[The ∞-cosmos project (blueprint)](https://emilyriehl.github.io/infinity-cosmos/blueprint.pdf)** | Riehl et al. | Lean project, 2024– | 🔍 A collaborative Lean formalization of ∞-category theory via ∞-cosmoi, following Riehl–Verity; read with Riehl's "Prospects for formalizing weak ∞-categories" slides. |
+
+### Discrete Mathematics and Combinatorics
+
+| Paper | Authors | Where | About |
+|-------|---------|-------|-------|
+| **[From small eigenvalues to large cuts, and Chowla's cosine problem](https://arxiv.org/abs/2509.03490)** | Jin, Milojević, Tomon & Zhang | arXiv, 2025 | 🔍 Relates the smallest eigenvalues of Cayley graphs to large cuts and uses MaxCut to bound minima of cosine sums, giving polynomial bounds for Chowla's cosine problem; Bedert gave a parallel proof. |
+| **[Polynomial bounds for the Chowla Cosine Problem](https://arxiv.org/abs/2509.05260)** | Bedert | arXiv, 2025 | 🔍 An independent, parallel proof of polynomial bounds for Chowla's cosine problem. |
 
 ### Foundations and Logic
 
 | Paper | Authors | Where | About |
 |-------|---------|-------|-------|
+| **[ATLAS: autoformalizing 26 open textbooks in Lean](https://arxiv.org/abs/2605.29955)** | Meta | arXiv, 2026 | 🔍 An agentic system that formalized 26 open textbooks (mostly MIT lecture notes) into 45,000+ verified Lean declarations. |
 | **Comparison of Two Theorem Provers: Isabelle/HOL and Coq** | Yushkovskiy | arXiv:1808.09701, 2018 | Compares Isabelle/HOL and Coq on their logics, proof styles and usability through worked examples. |
+| **[CSLib](https://arxiv.org/abs/2602.04846)** |  | arXiv, 2026 | White paper for CSLib, a mathlib-style library for computer science in Lean. 📝 Discussed in my notes: [Lean, Foundations, and the AI Formalization of Mathematics](../FP/lean-ai-formalization.md). |
 | **A Lean proof of Fermat's Last Theorem (blueprint)** | Buzzard & Taylor | Project blueprint, 2025 | Blueprint for formalising a proof of Fermat's Last Theorem in Lean, covering the reductions to Frey packages, Galois representations and elliptic curves. |
+| **[Lean Refactor](https://arxiv.org/abs/2605.20244)** |  | arXiv, 2026 | Agents that rewrite Lean code toward mathlib lints, naming and style. 📝 Discussed in my notes: [Lean, Foundations, and the AI Formalization of Mathematics](../FP/lean-ai-formalization.md). |
 | **The Lean Theorem Prover (system description)** | de Moura et al. | CADE-25, 2015 | Describes Lean, an open-source theorem prover from Microsoft Research and CMU with a small trusted kernel based on dependent type theory, meant to bridge interactive and automated theorem proving. |
+| **[MathlibLemma](https://arxiv.org/abs/2602.02561)** |  | arXiv, 2026 | Produced 1,506 checked lemmas but upstreamed only six hand-cleaned ones to mathlib. 📝 Discussed in my notes: [Lean, Foundations, and the AI Formalization of Mathematics](../FP/lean-ai-formalization.md). |
+| **[Multi-agent autoformalization of tensor network theory](https://arxiv.org/abs/2607.07857)** |  | arXiv, 2026 | Multi-agent pipeline that formalizes tensor network theory and refactors toward mathlib style. 📝 Discussed in my notes: [Lean, Foundations, and the AI Formalization of Mathematics](../FP/lean-ai-formalization.md). |
 | **Number Theory in a Proof Assistant** | Thickstun | Manuscript (github.com/jthickstun/lean), 2017 | Describes formalizing elementary number theory in the Lean proof assistant from a mathematician's point of view, and what the author learned about proof assistants. |
+| **[Sphere packing in dimension 8 (formalization)](https://arxiv.org/abs/2604.23468)** |  | arXiv, 2026 | Lean formalization of Viazovska's 8-dimensional sphere packing proof; Math, Inc.'s Gauss agent completed the final stages. 📝 Discussed in my notes: [Lean, Foundations, and the AI Formalization of Mathematics](../FP/lean-ai-formalization.md). |
 
 ### History of Mathematics
 
@@ -90,6 +115,7 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 | **The ET Interview: Professor C.R. Rao** | Bera | Econometric Theory 19, 2003 | Long interview with statistician C.R. Rao covering his life and career, from joining the Indian Statistical Institute onward. |
 | **Life and Work of Alexander Grothendieck** | Chai & Oort |  | Looks back at Grothendieck's life and his mathematical achievements in the period, roughly 1948-1970, in which he transformed several branches of mathematics. |
 | **Selected Mathematical Reviews related to the work of John Horton Conway** | American Mathematical Society | Bulletin of the AMS 58(3), 2021 | Reprints selected Mathematical Reviews of Conway's major works (ATLAS of Finite Groups, etc.) as a retrospective of his contributions. |
+| **[A Severe Misalignment of AI in Mathematics](https://www.implicator.ai/25-fields-medalists-say-ai-labs-race-to-solve-math-problems-is-harming-mathematics/)** | Tao and 24 other Fields medalists | Statement, 2026 | 🔍 A statement arguing that AI labs' race to announce solutions to famous problems is harming mathematics — swamping referees and misplacing emphasis on headline results. |
 
 ### Recreational Mathematics
 
@@ -172,7 +198,7 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 | Paper | Authors | Where | About |
 |-------|---------|-------|-------|
 | **'do' Unchained: Embracing Local Imperativity in a Purely Functional Language (Functional Pearl)** | Ullrich & de Moura | ICFP 2022 | Extends do-notation in Lean 4 with imperative features such as local mutation, early return and loops, translated into monadic code. |
-| **Applicative programming with effects (Functional Pearl)** | McBride & Paterson | Journal of Functional Programming, 2008 | Introduces applicative functors as an abstraction of effectful applicative-style programming weaker than monads, with their laws, generic operations and relation to monads and arrows. |
+| **Applicative programming with effects (Functional Pearl)** | McBride & Paterson | Journal of Functional Programming, 2008 | 🔍 Introduces applicative functors as an abstraction of effectful applicative-style programming weaker than monads, with their laws, generic operations and relation to monads and arrows. |
 | **Arrows and computation** | Paterson | The Fun of Programming (chapter), 2003 | Explores function-like 'notions of computation' through the common arrows interface, its subclasses, and its relation to monads. |
 | **Bringing Back Monad Comprehensions** | Giorgidze et al. | Haskell Symposium 2011 | Describes a GHC extension generalising list-comprehension notation to arbitrary monads, including parallel/zip, SQL-like and grouping clauses. |
 | **Build Systems a la Carte** | Mokhov, Mitchell & Peyton Jones | ICFP 2018 | Offers a systematic, executable framework for developing and comparing build systems, separating their components so they can be recombined into new build systems. |
@@ -207,6 +233,18 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 | **A tutorial on the universality and expressiveness of fold** | Hutton | Journal of Functional Programming 9(4), 1999 | Tutorial on the universal property of fold as a proof and definition principle, and on the unexpected expressive power of fold with tuples and first-class functions. |
 | **What You Needa Know about Yoneda: Profunctor Optics and the Yoneda Lemma (Functional Pearl)** | Boisseau & Gibbons | ICFP 2018 | Derives the profunctor representation of optics (lenses, prisms) from the concrete getter/setter representation as an application of the Yoneda Lemma. |
 
+### LLM Inference Serving
+
+| Paper | Authors | Where | About |
+|-------|---------|-------|-------|
+| **[Disaggregated Inference: Why the AI Network Is the Product](https://hedgehog.cloud/blog/disaggregated-inference-why-the-ai-network-is-the-product)** | Hedgehog | Blog post, 2026 | 🔍 Argues that once prefill and decode are split across machines, the network fabric moving KV cache between them becomes the core of the inference product. |
+| **[Dynamo Disaggregation: Separating Prefill and Decode for Enhanced Performance](https://docs.nvidia.com/dynamo/latest/design-docs/disaggregated-serving)** | NVIDIA | Design doc | 🔍 NVIDIA Dynamo's design for disaggregated serving: separate prefill and decode workers, conditional disaggregation and KV-cache transfer between them. |
+| **[llm-d: Kubernetes-native distributed inference (disaggregation architecture)](https://docs.vllm.ai/en/stable/deployment/integrations/llm-d/)** | llm-d project | Documentation | 🔍 Architecture for running vLLM at scale on Kubernetes with prefill/decode disaggregation and an inference-aware scheduler. |
+| **[NIXL (NVIDIA Inference Xfer Library): overview and backend guide](https://docs.nvidia.com/nixl/getting-started/overview.md)** | NVIDIA | Documentation | 🔍 The transfer library and plugin API used to move KV-cache blocks between GPUs, hosts and storage in disaggregated inference; backends include UCX, GPUDirect Storage and POSIX. |
+| **[NixlConnector Usage Guide](https://docs.vllm.ai/en/stable/features/nixl_connector_usage/)** | vLLM | Documentation | 🔍 How vLLM splits prefill and decode across separate instances and machines, using NIXL to hand the KV cache from prefill to decode workers. |
+| **[Open Cluster Designs: Aligned AI Inference Fabric Reference Architecture](https://www.opencompute.org/documents/open-cluster-designs-aligned-ai-inference-fabric-reference-architecture-pdf)** | Open Compute Project (Hedgehog) | OCP reference architecture, 2026 | 🔍 An open RoCE network reference architecture for disaggregated AI inference clusters, contributed to OCP by Hedgehog. |
+| **[What is llm-d and why do we need it?](https://www.redhat.com/en/blog/what-llm-d-and-why-do-we-need-it)** | Clyburn & Nuland (Red Hat) | Blog post, 2025 | 🔍 Explains llm-d's endpoint picker, including KV-cache-aware routing: the scheduler indexes cache state across vLLM replicas and sends requests sharing a prefix to the pod that already holds it. |
+
 ### Networks and Security
 
 | Paper | Authors | Where | About |
@@ -233,6 +271,7 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 | **[Do Be Do Be Do](https://arxiv.org/abs/1611.09259)** | Lindley, McBride & McLaughlin | POPL 2017 (arXiv) | Presents Frank, a strict functional language with a bidirectional effect type system in which functions generalise to operators that handle effects (multihandlers). |
 | **Elastic Sheet-Defined Functions: Generalising Spreadsheet Functions to Variable-Size Input Arrays** | McCutchen et al. |  | Describes a principled way to generalise spreadsheet sheet-defined functions written over fixed-size arrays into elastic functions that work on inputs of arbitrary size. |
 | **Fixpoints for the Masses: Programming with First-Class Datalog Constraints** | Madsen & Lhoták | OOPSLA 2020 | Proposes first-class Datalog constraints in Flix so Datalog programs can be constructed, composed and solved at run time from a functional language. |
+| **[Formal verification with Claude: Rocq proofs over RISC-V binaries](https://www.anthropic.com/research/formal-verification)** | Anthropic Frontier Red Team & Theorem | Research post, 2026 | 🔍 Reports Claude generating machine-checked Rocq proofs for 239 OSS-Fuzz entry points across 123 open-source libraries, over compiled RISC-V binaries in a modeled Linux environment. |
 | **Integrating Functional and Imperative Programming** | Gifford & Lucassen | LFP 1986 | Presents fluent languages with separate functional and imperative sublanguages, checked by a static system that infers both the type and effect class of every expression. |
 | **An Introduction to Algebraic Effects and Handlers** | Pretnar | MFPS 2015 (ENTCS) | A tutorial on algebraic effects and handlers with examples, an operational semantics, a type-and-effect system, and reasoning principles. |
 | **An Introduction to Quantum Programming in Quipper** | Green et al. | RC 2013 / arXiv:1304.5485 | A tutorial introduction to Quipper that implements a quantum algorithm and shows its key language features. |
@@ -263,12 +302,18 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 
 | Paper | Authors | Where | About |
 |-------|---------|-------|-------|
+| **[Agarwal & Ben-David, quantum query complexity](https://arxiv.org/abs/2410.19062)** | Agarwal & Ben-David | arXiv, 2024 | Follow-up on query-complexity separations between quantum and classical computation. 📝 Discussed in my notes: [Lean, Foundations, and the AI Formalization of Mathematics](../FP/lean-ai-formalization.md). |
 | **Complexity and Completeness of Finding Another Solution and Its Application to Puzzles** | Yato | Master's thesis, University of Tokyo, 2003 | Defines ASP-completeness, the complexity of finding another solution given one, and proves it for puzzles such as Slitherlink and Cross Sum. |
+| **[Deterministic n^O(log n) Graph Isomorphism](https://arxiv.org/abs/2611.01399)** | Hajiaghayi & JafariRaviz | arXiv, 2026 | 🔍 A deterministic n^O(log n) graph isomorphism algorithm, shipped with a Lean proof of both correctness and running time. A case study in my Lean-formalization write-up. |
+| **[The Exponential Time Hypothesis is False](https://thenextweb.com/news/openai-exponential-time-hypothesis-false-kakeya-yang-mills)** | OpenAI | OpenAI manuscript (openai/math), 2026 | 🔍 Claims a subexponential algorithm for counting solutions to fixed-width CNF formulas, refuting ETH and with it SETH. Released for scrutiny; verification status as of writing unsettled. |
 | **[Flat Origami is Turing Complete](https://arxiv.org/abs/2309.07932)** | Hull & Zakharevich | arXiv, 2023 | Proves that flat origami, viewed as a computational device, is Turing complete. |
 | **A Fresh Look at the lambda-Calculus** | Accattoli | FSCD 2019 (invited talk) | Bird's-eye view of questions about the untyped lambda-calculus: measuring the complexity of terms, decomposing and implementing evaluation, and how these vary with the evaluation strategy. |
 | **Interaction Combinators** | Lafont | Information and Computation 137, 1997 | Shows that a simple system of three interaction combinators is universal for interaction nets. |
 | **MIP* = RE** | Ji, Natarajan, Vidick, Wright & Yuen | arXiv:2001.04383, 2020 | Proves that the class MIP* of languages decidable by a classical verifier interacting with entangled quantum provers equals RE, which refutes Connes' embedding conjecture. |
+| **[The need for structure in quantum speedups](https://arxiv.org/abs/0911.0996)** | Aaronson & Ambainis | arXiv, 2009 | Shows that quantum speedups need structure in the problem; total functions allow at most polynomial advantage. 📝 Discussed in my notes: [Lean, Foundations, and the AI Formalization of Mathematics](../FP/lean-ai-formalization.md). |
 | **[A Programming Language Oriented Approach to Computability](https://arxiv.org/abs/1402.2949)** | Karper | Bachelor thesis, University of Bern, 2013 | Develops computability theory using simple programming languages (FOR and WHILE) and transformations between them. |
+| **[A proof of the Aaronson–Ambainis conjecture](https://psi.inc/research/aaronson-ambainis/)** | PSI (Physical Superintelligence) | Research announcement, 2026 | 🔍 An AI-produced proof of the 2008 Aaronson–Ambainis conjecture with a compact, Comparator-checked Lean formalization. A case study in my Lean-formalization write-up. |
+| **[A proof of the Unique Games Conjecture](https://quantamagazine.org/as-ai-closed-in-on-unique-games-proof-researchers-raced-to-beat-the-machines-20261007)** | OpenAI | OpenAI manuscript (openai/math #102), 2026 | 🔍 A ~50-page claimed proof built on 2-to-2 games and a "latent alphabet gadget", with a Lean verification; a related 2-to-1 conjecture proof appeared alongside it. |
 | **[Simulating Time With Square-Root Space](https://arxiv.org/abs/2502.17779)** | Williams | arXiv, 2025 | Shows that every multitape Turing machine running in time t can be simulated in space O(sqrt(t log t)), improving the 50-year-old Hopcroft-Paul-Valiant bound. |
 | **A Tutorial Introduction to the Lambda Calculus** | Rojas | Lecture notes, FU Berlin, 1997 | Short introduction to the lambda calculus showing arithmetic and recursive definitions without named functions. |
 
@@ -278,14 +323,25 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 
 | Paper | Authors | Where | About |
 |-------|---------|-------|-------|
+| **[BhasaAnuvaad Speech Translation Dataset](https://arxiv.org/abs/2411.04699)** |  | arXiv, 2024 | 📝 Discussed in my notes: [Kannada content landscape](../kannaDa/dnsbhat/kannada-content-landscape.md). |
 | **DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning** | Xiong, Hoang & Wang | EMNLP 2017 / arXiv:1707.06690 | Trains a policy-based RL agent in a knowledge-graph embedding space to find multi-hop relational paths for reasoning. |
+| **[Effective Transfer of Knowledge from English to Hindi Wikipedia](https://arxiv.org/abs/2412.05708)** |  | arXiv, 2024 | 📝 Discussed in my notes: [Kannada knowledge-gap analysis](../kannaDa/dnsbhat/kannada-knowledge-gap-analysis.md). |
+| **[Generative AI and LLMs in Language Preservation](https://arxiv.org/abs/2501.11496)** |  | arXiv, 2025 | 📝 Discussed in my notes: [Kannada knowledge-gap analysis](../kannaDa/dnsbhat/kannada-knowledge-gap-analysis.md). |
+| **[How To Use Decision Models for Evals](https://hamel.dev/blog/posts/decision-model-evals/)** | Husain & Saha | Blog post, 2026 | 🔍 Argues for small, trained decision models as cheap, consistent stand-ins for LLM-as-judge in evaluation pipelines, and how to build and validate them. |
 | **iNLTK: Natural Language Toolkit for Indic Languages** | Arora | NLP-OSS Workshop, EMNLP 2020 | Open-source toolkit of pretrained models and augmentation for 13 Indic languages. |
+| **[Kumo Tabular and Jev crash study](https://arxiv.org/abs/2610.10321)** |  | arXiv, 2026 | Crash-data study pairing Kumo Tabular with an LLM to read coded records. 📝 Discussed in my notes: [Decision Points as Effects](../FP/decision-points-as-effects.md). |
+| **[KumoRFM-2](https://arxiv.org/abs/2604.12596)** |  | arXiv, 2026 | Second-generation relational foundation model that predicts directly over multi-table databases. 📝 Discussed in my notes: [Decision Points as Effects](../FP/decision-points-as-effects.md). |
 | **[Mathematical Entities: Corpora and Benchmarks](https://arxiv.org/abs/2406.11577)** | Collard, de Paiva & Subrahmanian | arXiv, 2024 | Provides three annotated corpora of mathematical text (182,397 sentences with POS tags, lemmas and dependency trees) and evaluates NLP models on them. |
+| **[A mechanistic study of tabular foundation models](https://arxiv.org/abs/2605.21288)** |  | arXiv, 2026 | Looks inside tabular foundation models to see what they compute. 📝 Discussed in my notes: [Decision Points as Effects](../FP/decision-points-as-effects.md). |
 | **[Monolith: Real Time Recommendation System With Collisionless Embedding Table](https://arxiv.org/abs/2209.07663)** | Liu et al. | arXiv, 2022 | Describes ByteDance's Monolith, a real-time recommendation training system using collisionless embedding tables, addressing limits of general-purpose deep learning frameworks. |
 | **MusicLM: Generating Music From Text** | Agostinelli et al. | arXiv:2301.11325, 2023 | Hierarchical sequence-to-sequence model generating high-fidelity music from text descriptions. |
 | **[Pre-training ULMFiT on Synthetically Generated Code-Mixed Data for Hate Speech Detection](https://arxiv.org/abs/2010.02094)** | Arora | HASOC-Dravidian-CodeMix FIRE 2020 | System description for hate-speech detection in Tamil-English and Malayalam-English code-mixed text using ULMFiT pretrained on synthetic data. |
 | **Recommending What Video to Watch Next: A Multitask Ranking System** | Zhao et al. | RecSys 2019 | Describes YouTube's large-scale multitask ranking system, which uses Multi-gate Mixture-of-Experts and a shallow tower to reduce selection bias from implicit feedback. |
 | **Revisiting Low Resource Status of Indian Languages in Machine Translation** | Philip et al. | CODS-COMAD 2021 / arXiv:2008.04860, 2020 | Builds larger parallel corpora for Indian languages by aligning news and government sources, and trains multilingual NMT models that improve on earlier benchmarks. |
+| **[TabPFN v2.5 uncertainty study](https://arxiv.org/abs/2606.01427)** |  | arXiv, 2026 | Studies how well TabPFN v2.5 quantifies uncertainty. 📝 Discussed in my notes: [Decision Points as Effects](../FP/decision-points-as-effects.md). |
+| **[TabPFN-2.5](https://arxiv.org/abs/2511.08667)** |  | arXiv, 2025 | TabPFN-2.5: scaling the in-context tabular foundation model to larger datasets. 📝 Discussed in my notes: [Decision Points as Effects](../FP/decision-points-as-effects.md). |
+| **[TabPFN-3.5 Technical Report](https://arxiv.org/abs/2609.17895)** |  | arXiv, 2026 | Technical report for the latest TabPFN in-context tabular foundation model. 📝 Discussed in my notes: [Decision Points as Effects](../FP/decision-points-as-effects.md). |
+| **[WikiGap: Promoting Epistemic Equity](https://arxiv.org/abs/2505.24195)** |  | arXiv, 2025 | 📝 Discussed in my notes: [Kannada content landscape](../kannaDa/dnsbhat/kannada-content-landscape.md). |
 | **[Wu's Method can Boost Symbolic AI to Rival Silver Medalists and AlphaGeometry to Outperform Gold Medalists at IMO Geometry](https://arxiv.org/abs/2404.06405)** | Sinha et al. | arXiv:2404.06405, 2024 | Shows Wu's algebraic method combined with AlphaGeometry solves 27/30 IMO geometry problems. |
 
 ### Deep Learning
@@ -296,20 +352,29 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 | **Best of Both Worlds: Advantages of Hybrid Graph Sequence Models** | Behrouz et al. | arXiv, 2024 | Presents the Graph Sequence Model framework for applying sequence models (Transformers, linear RNNs) to graphs and analyses their strengths and weaknesses, motivating hybrid models. |
 | **Coinductive guide to inductive transformer heads** | Nemecek | arXiv:2302.01834, 2023 | Argues transformer components can be expressed via combinatorial Hopf algebras. |
 | **Everything is Connected: Graph Neural Networks** | Velickovic | arXiv:2301.08210, 2023 | Short survey of graph neural networks and their foundations. |
+| **[Fourier Neural Operator for Parametric Partial Differential Equations](https://arxiv.org/abs/2010.08895)** | Li et al. | arXiv (ICLR 2021), 2020 | 🔍 Parameterizes the integral kernel of a neural operator in Fourier space, giving fast, resolution-independent solvers for families of PDEs such as Navier–Stokes. |
 | **From Online Softmax to FlashAttention** | Ye | Course note, UW CSE 599M, 2023 | Explains why tiling self-attention is non-trivial and derives the FlashAttention computation from the online softmax trick. |
+| **[Generalized Transformers from Applicative Functors](https://cybercat.institute/2025/02/12/transformers-applicative-functors/)** | Laakkonen | Blog post (Cybercat Institute), 2025 | 🔍 "Funcformer": re-expresses the Transformer with applicative functors so attention can operate over functions, graphs or probability distributions rather than just vectors, using diagrammatic tube notation. |
 | **ImageNet Classification with Deep Convolutional Neural Networks** | Krizhevsky, Sutskever & Hinton | NIPS 2012 | AlexNet: a deep CNN trained on ImageNet that greatly reduced error on ILSVRC. |
 | **KAN or MLP: A Fairer Comparison** | Yu, Yu & Wang | arXiv, 2024 | Compares KAN and MLP models under matched parameters and FLOPs across ML, vision, audio, NLP and symbolic-formula tasks, finding MLP generally better except for symbolic formula representation. |
 | **[KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)** | Liu et al. | arXiv:2404.19756, 2024 | Proposes networks with learnable activation functions on edges, inspired by the Kolmogorov-Arnold representation theorem, as an alternative to MLPs. |
 | **[The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)** | Frankle & Carbin | ICLR 2019 | Finds that standard pruning uncovers subnetworks whose initialisations let them train effectively, and states the hypothesis that dense networks contain such 'winning ticket' subnetworks. |
 | **Matryoshka Representation Learning** | Kusupati et al. | NeurIPS 2022 | Introduces Matryoshka Representation Learning, which encodes information at multiple granularities so one embedding can be truncated to fit downstream compute constraints. |
+| **[Neural Operator: Learning Maps Between Function Spaces](https://arxiv.org/abs/2108.08481)** | Kovachki, Li, Liu et al. | arXiv (JMLR 2023), 2021 | 🔍 Generalizes neural networks to learn operators between infinite-dimensional function spaces, with discretization-invariant architectures for PDE solution maps. |
+| **[On the Anatomy of Attention](https://arxiv.org/abs/2407.02423)** | Khatri, Laakkonen, Liu & Wang-Maścianica | arXiv, 2024 | 🔍 A category-theoretic, diagrammatic account of attention mechanisms that decomposes variants into common building blocks; cited by the Funcformer post. |
+| **[A pattern language for machine learning tasks](https://arxiv.org/abs/2407.02424)** |  | arXiv, 2024 | 🔍 Companion paper proposing a diagrammatic pattern language for specifying machine-learning tasks independently of architecture; cited by the Funcformer post. |
 | **Self Supervision Does Not Help Natural Language Supervision at Scale** | Weers et al. | arXiv:2301.07836, 2023 | Finds that adding image self-supervision to CLIP-style training gives no benefit at large scale. |
+| **[SpikingBrain Technical Report: Spiking Brain-inspired Large Models](https://arxiv.org/abs/2509.05276)** | Pan, Feng, Zhuang et al. | arXiv, 2025 | 🔍 Presents SpikingBrain-7B and 76B-A12B: linear-attention / mixture-of-experts models converted from Qwen2.5, using spike-based activations and trained on non-NVIDIA (MetaX) GPUs. I compared it with Hinton's ideas — Forward-Forward, mortal computation, fast weights, event-driven spikes. |
 | **Symbolic Discovery of Optimization Algorithms** | Chen et al. | arXiv:2302.06675, 2023 | Uses program search to discover Lion, a sign-momentum optimizer. |
+| **[Understanding Attention in LLMs](https://arxiv.org/abs/2409.03752)** |  | arXiv, 2024 | 📝 Discussed in my notes: [Reflection: Machine Learning & AI](../Reflection/machine-learning-ai.md). |
 | **Understanding Back-Translation at Scale** | Edunov, Ott, Auli & Grangier | EMNLP 2018 / arXiv:1808.09381 | Studies ways to generate synthetic source sentences for back-translation in NMT and finds that sampling or noised beam outputs work best except in low-resource settings. |
+| **[Understanding Transformer Reasoning on Graph Algorithms (Oct 2024)](https://arxiv.org/abs/2405.18512)** |  | arXiv, 2024 | Research analyzing how transformers internally represent and execute graph algorithms — finding that they implement something structurally similar to breadth-first search in their attention patterns when trained on graph traversal tasks. 📝 Discussed in my notes: [Reflection: Machine Learning & AI](../Reflection/machine-learning-ai.md). |
 
 ### Foundations
 
 | Paper | Authors | Where | About |
 |-------|---------|-------|-------|
+| **[Defining and Generating Compositional Structure](https://arxiv.org/abs/2610.20922)** | Elmoznino, Kasetty, Agüera y Arcas, Bengio & Lajoie | arXiv, 2026 | 🔍 Gives a formal, complexity-based definition of compositional structure in representations and a way to generate data with controlled compositionality; read together with its rose-tree follow-up. |
 | **Handbook of Convergence Theorems for (Stochastic) Gradient Methods** | Garrigos & Gower | arXiv:2301.11235, 2023 | Collects convergence proofs for gradient descent, SGD and variants under standard assumptions. |
 | **Heckerthoughts** | Heckerman | arXiv:2302.05449, 2023 | Memoir-style essays on the author's work in probability, Bayesian networks and AI. |
 
@@ -317,39 +382,55 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 
 | Paper | Authors | Where | About |
 |-------|---------|-------|-------|
+| **[Agentic Reasoning for Large Language Models — Survey](https://arxiv.org/abs/2601.12538)** |  | arXiv, 2026 | Comprehensive survey paper organizing the landscape of agentic LLM reasoning: foundational reasoning (chain-of-thought, reflection), self-evolving reasoning (reinforcement learning, online adaptation), and multi-agent coordination patterns. 📝 Discussed in my notes: [Reflection: Scala & FP](../Reflection/scala-functional-programming.md). |
 | **[Are Language Models Agnostic to Linguistically Grounded Perturbations? A Case Study of Indic Languages](https://arxiv.org/abs/2412.10805)** | Ghosh, Dabre & Bhattacharyya | arXiv, 2024 | Studies whether pretrained language models are robust to linguistically grounded input perturbations across Indic languages and downstream tasks, compared with non-linguistic attacks. |
 | **[Ask, and it shall be given: Turing completeness of prompting](https://arxiv.org/abs/2411.01992)** | Qiu, Xu, Bao & Tong | arXiv, 2024 | Shows that prompting is Turing-complete: a single finite-size Transformer can compute any computable function given a suitable prompt. |
-| **Attention Is All You Need** | Vaswani et al. | NeurIPS 2017 / arXiv:1706.03762 | Introduces the Transformer, a sequence transduction architecture based only on attention, with state-of-the-art translation results. |
+| **Attention Is All You Need** | Vaswani et al. | NeurIPS 2017 / arXiv:1706.03762 | 🔍 Introduces the Transformer, a sequence transduction architecture based only on attention, with state-of-the-art translation results. Cited in the kyo-lambda-rlm design. |
 | **[Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)** | Wei et al. | NeurIPS 2022 (arXiv:2201.11903) | Shows that prompting with intermediate reasoning steps markedly improves LLM performance on arithmetic, commonsense and symbolic reasoning. |
 | **A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT** | Li et al. | arXiv:2302.09419, 2023 | Survey of pretrained foundation models across text, image and graph modalities. |
+| **[Context Language Models](https://arxiv.org/abs/2609.37725)** | Shao, Shen, Yin et al. | arXiv, 2026 | 🔍 Language models that edit their own live context as a file; introduces Suffix Cache Reuse, reported to cut server-side compute by about 35% versus standard SGLang at matched performance. Compared against λ-RLM. |
 | **Data Selection for Language Models via Importance Resampling** | Xie et al. | arXiv:2302.03169 (NeurIPS 2023) | Proposes DSIR, selecting pretraining data by importance resampling on hashed n-gram features. |
+| **[DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948)** | DeepSeek-AI | arXiv, 2025 | The full technical report for DeepSeek-R1 — a reasoning model trained primarily with reinforcement learning (GRPO) that demonstrated that extended chain-of-thought reasoning can be elicited through RL without requiring massive supervised reasoning data. 📝 Discussed in my notes: [Reflection: Machine Learning & AI](../Reflection/machine-learning-ai.md). |
 | **[DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437)** | DeepSeek-AI | arXiv, 2024 | Presents DeepSeek-V3, a 671B-parameter Mixture-of-Experts model (37B active per token) using Multi-head Latent Attention, auxiliary-loss-free load balancing and multi-token prediction. |
 | **[DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300)** | Shao et al. | arXiv, 2024 | Introduces DeepSeekMath 7B, pretrained further on 120B math-related tokens, reaching 51.7% on the MATH benchmark; also introduces the GRPO reinforcement learning algorithm. |
 | **Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP** | Khattab et al. | arXiv:2212.14024, 2023 | DSP framework composing retrieval models and LMs in multi-step pipelines. |
 | **Discovering Language Model Behaviors with Model-Written Evaluations** | Perez et al. | arXiv:2212.09251, 2022 | Uses LMs to generate evaluation datasets and uncovers behaviours such as sycophancy and inverse scaling. |
+| **[DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines](https://arxiv.org/abs/2310.03714)** | Khattab et al. | arXiv, 2023 | 📝 Discussed in my notes: [Reflection: Machine Learning & AI](../Reflection/machine-learning-ai.md). |
 | **[Efficiently Scaling Transformer Inference](https://arxiv.org/abs/2211.05102)** | Pope et al. | arXiv:2211.05102 (MLSys 2023), 2022 | Models and optimises partitioning strategies for efficient large-transformer inference on TPUs. |
 | **Formal Algorithms for Transformers** | Phuong & Hutter | arXiv:2207.09238, 2022 | Self-contained, mathematically precise pseudocode overview of transformer architectures and training. |
 | **The Future of Programming in the Age of Large Language Models** | Guha & Zorn | CCC/CRA-I Whitepaper, 2025 | Whitepaper on how LLMs are changing software development and computing education, and the research questions this raises. |
 | **[GLM-130B: An Open Bilingual Pre-trained Model](https://arxiv.org/abs/2210.02414)** | Zeng et al. | arXiv:2210.02414 (ICLR 2023), 2022 | Technical report on training an open 130B-parameter English-Chinese language model. |
+| **[GPT-5.2 on Olympiad-Level Science — FrontierScience Benchmark (Jan 2026)](https://arxiv.org/abs/2601.21165)** | OpenAI | arXiv, 2026 | An OpenAI paper introducing FrontierScience, a benchmark of expert-level scientific reasoning in physics, chemistry and biology. 📝 Discussed in my notes: [Reflection: Mathematics & Science](../Reflection/mathematics-science.md). |
 | **Improving Language Models by Retrieving from Trillions of Tokens (RETRO)** | Borgeaud et al. | ICML 2022 / arXiv:2112.04426 | Introduces RETRO, which conditions an autoregressive LM on document chunks retrieved from a 2-trillion-token database, matching much larger models with far fewer parameters. |
 | **[IndicGenBench: A Multilingual Benchmark to Evaluate Generation Capabilities of LLMs on Indic Languages](https://arxiv.org/abs/2404.16816)** | Singh et al. | arXiv:2404.16816 (ACL 2024) | Benchmark of generation tasks across 29 Indic languages to evaluate LLMs. |
+| **[Intelligent AI Delegation — Framework](https://arxiv.org/abs/2602.11865)** |  | arXiv, 2026 | Research paper proposing a framework for adaptive task allocation and authority transfer in multi-agent AI systems: how to decide when to delegate to a subagent, how to transfer context, and how to aggregate results with appropriate uncertainty calibration. 📝 Discussed in my notes: [Reflection: Scala & FP](../Reflection/scala-functional-programming.md). |
 | **[Knowledge Mechanisms in Large Language Models: A Survey and Perspective](https://arxiv.org/abs/2407.15017)** | Wang et al. | arXiv, 2024 | Reviews analysis of knowledge mechanisms in LLMs under a taxonomy of knowledge utilisation (memorisation, comprehension, creation) and knowledge evolution. |
 | **[Language Imbalance Can Boost Cross-lingual Generalisation](https://arxiv.org/abs/2404.07982)** | Schafer et al. | arXiv:2404.07982, 2024 | Finds that training with a dominant main language can improve cross-lingual generalisation in language models. |
 | **[Language Models Use Trigonometry to Do Addition](https://arxiv.org/abs/2502.00873)** | Kantamneni & Tegmark | arXiv, 2025 | Reverse-engineers how mid-sized LLMs compute addition, finding numbers represented as a generalised helix manipulated by a 'Clock' algorithm. |
 | **Large Language Models are Zero-Shot Reasoners** | Kojima et al. | NeurIPS 2022 (arXiv:2205.11916) | Shows that adding 'Let's think step by step' elicits zero-shot chain-of-thought reasoning. |
+| **[Large Linguistic Models Paper — Analyzing Theoretical Linguistic Abilities of LLMs](https://arxiv.org/abs/2305.00948)** |  | arXiv, 2023 | 📝 Discussed in my notes: [Reflection: Linguistics](../Reflection/linguistics.md). |
 | **LeanAgent: Lifelong Learning for Formal Theorem Proving** | Kumarappan et al. | arXiv, 2024 | Presents LeanAgent, a lifelong-learning framework for LLM-based theorem proving in Lean that works across multiple evolving mathematical repositories. |
+| **[LLM Reasoning State — State of LLMs Mar 2025](https://arxiv.org/abs/2503.22732)** |  | arXiv, 2025 | 📝 Discussed in my notes: [Reflection: Machine Learning & AI](../Reflection/machine-learning-ai.md). |
 | **Looped Transformers as Programmable Computers** | Giannou et al. | arXiv:2301.13196, 2023 | Shows that a looped transformer with hard-coded weights can emulate a general-purpose computer. |
 | **Memorizing Transformers** | Wu et al. | ICLR 2022 | Adds a kNN-retrievable external memory of past key-value pairs so language models can memorise new data at inference time. |
 | **Modern language models refute Chomsky's approach to language** | Piantadosi | Book chapter / LingBuzz preprint, 2023 | Argues that the success of large language models undermines innateness claims of generative linguistics. |
 | **[More Tokens, Lower Precision: Towards the Optimal Token-Precision Trade-off in KV Cache Compression](https://arxiv.org/abs/2412.12706)** | Zhang et al. | arXiv, 2024 | Investigates the trade-off between number of tokens and numeric precision in LLM KV-cache compression, finding that storing more tokens at lower precision (quantized pruning) improves long-context performance. |
+| **[OpenClaw-RL: Train Any Agent Simply by Talking](https://arxiv.org/abs/2603.10165)** | Wang, Chen, Jin et al. | arXiv, 2026 | 🔍 Argues that next-state signals — user replies, tool outputs — are training data agents throw away, and recovers them with binary RL scored by a process-reward judge plus on-policy distillation for token-level hints. The headline 0.17→0.81 gain comes from a simulated setting. Basis of my openclaw-rl skill. |
+| **[Opportunities and Challenges of LLMs for Low-Resource Languages](https://arxiv.org/abs/2412.04497)** |  | arXiv, 2024 | 📝 Discussed in my notes: [Kannada knowledge-gap analysis](../kannaDa/dnsbhat/kannada-knowledge-gap-analysis.md). |
 | **PaLM: Scaling Language Modeling with Pathways** | Chowdhery et al. | arXiv:2204.02311 (JMLR 2023), 2022 | Describes PaLM, a 540B-parameter dense transformer trained with the Pathways system. |
 | **Parsel: A Unified Natural Language Framework for Algorithmic Reasoning** | Zelikman et al. | arXiv:2212.10561, 2022 | Introduces Parsel, which has code LLMs decompose a hierarchical natural-language function description into parts, implement each, and validate them with tests to solve complex algorithmic tasks. |
 | **[A Primer on the Inner Workings of Transformer-based Language Models](https://arxiv.org/abs/2405.00208)** | Ferrando, Sarti, Bisazza & Costa-jussa | arXiv, 2024 | Concise technical introduction to interpretability techniques for decoder-only Transformer language models and an overview of known internal mechanisms. |
+| **[RAT — Retrieval Augmented Thinking](https://arxiv.org/abs/2403.05313)** |  | arXiv, 2024 | 📝 Discussed in my notes: [Reflection: Machine Learning & AI](../Reflection/machine-learning-ai.md). |
+| **[Recursive Language Models](https://arxiv.org/abs/2512.24601)** | Zhang, Kraska & Khattab | arXiv, 2025 | 🔍 Instead of reading a long prompt directly, the model loads it into a Python REPL as a variable and writes code to inspect, split and recursively call itself on the pieces. Behind the prompt-decomposition design in my Kyo agent runtime. |
 | **[Rethinking Reflection in Pre-Training](https://arxiv.org/abs/2504.04022)** | Essential AI | arXiv, 2025 | Introduces deliberate errors into chains-of-thought and shows that language models' ability to recognise and correct them emerges during pre-training and improves with pre-training compute. |
 | **Scaling Instruction-Finetuned Language Models** | Chung et al. | arXiv:2210.11416, 2022 | Flan-PaLM/Flan-T5: scales instruction finetuning across tasks, model sizes and chain-of-thought data. |
 | **[Self-Organizing Graph Reasoning Evolves into a Critical State for Continuous Discovery Through Structural-Semantic Dynamics](https://arxiv.org/abs/2503.18852)** | Buehler | arXiv, 2025 | Analyses agentic graph-reasoning systems and reports that they evolve toward a critical state in which semantic entropy persistently dominates structural entropy, sustaining discovery. |
 | **Self-Taught Evaluators** | Wang et al. | arXiv, 2024 | Improves LLM-as-a-Judge evaluators without human preference labels, using an iterative self-improvement scheme over synthetic contrasting model outputs. |
+| **[Sparks of Weight-Space Programming](https://rikiyat.github.io/blog/weight-space-programming/)** | Takehi, Teoh, Zhang & Khattab | Blog post (MIT CSAIL), 2026 | 🔍 Reports that frontier LLMs can read a small network's raw weights, infer what they compute and edit them directly without training — e.g. lifting Qwen3.5-0.8B on MATH-500 from 7.9% to 48.1% by changing 0.016% of its weights. |
 | **SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot** | Frantar & Alistarh | ICML 2023 / arXiv:2301.00774 | Shows that GPT-family models such as OPT-175B and BLOOM-176B can be pruned to at least 50% sparsity in one shot without retraining, with minimal accuracy loss. |
+| **[State of LLM Reasoning Models](https://arxiv.org/abs/2501.09686)** |  | arXiv, 2025 | 📝 Discussed in my notes: [Reflection: Machine Learning & AI](../Reflection/machine-learning-ai.md). |
+| **[A State-Update Prompting Strategy for Multi-turn Dialogue](https://arxiv.org/abs/2509.17766)** | Liu | arXiv, 2025 | 📝 Discussed in my notes: [Reflection: Machine Learning & AI](../Reflection/machine-learning-ai.md). |
+| **[Tamil-Llama Paper](https://arxiv.org/abs/2311.05845)** |  | arXiv, 2023 | 📝 Discussed in my notes: [Reflection: Machine Learning & AI](../Reflection/machine-learning-ai.md). |
 | **Thinking Like Transformers** | Weiss, Goldberg & Yahav | ICML 2021 (arXiv:2106.06981) | Proposes RASP, a programming language modelling the computation of a transformer encoder, and uses it to analyse what transformers can compute. |
 | **Towards a Science of AI Agent Reliability** | Rabanser et al. | arXiv, 2026 | Argues single accuracy metrics are insufficient for AI agents and proposes a holistic reliability profile (consistency across runs, robustness to perturbation, predictable failure, bounded error severity) grounded in safety-critical engineering. |
 | **[Towards Large Language Models as Copilots for Theorem Proving in Lean](https://arxiv.org/abs/2404.12534)** | Song, Yang & Anandkumar | arXiv:2404.12534, 2024 | Introduces Lean Copilot, a framework for running LLM inference inside Lean to suggest tactics and premises. |
@@ -357,10 +438,12 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 | **Transcending Scaling Laws with 0.1% Extra Compute** | Tay et al. | arXiv:2210.11399, 2022 | U-PaLM: continued training of PaLM with the UL2 objective (UL2R) for improved scaling. |
 | **[Transformers as Algorithms: Generalization and Implicit Model Selection in In-context Learning](https://arxiv.org/abs/2301.07067)** | Li et al. | arXiv:2301.07067 (ICML 2023) | Treats in-context learning as algorithm learning and gives generalisation bounds. |
 | **UL2: Unifying Language Learning Paradigms** | Tay et al. | arXiv:2205.05131, 2022 | Proposes Mixture-of-Denoisers pretraining that unifies span corruption and causal LM objectives. |
+| **[Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety](https://arxiv.org/abs/2611.08438)** | Barez, Wu, Batra et al. (incl. Geva, Biderman, Bengio) | arXiv, 2026 | 🔍 A broad survey of mechanistic interpretability as a tool for AI safety — what circuit- and feature-level methods can and cannot yet tell us about model internals. (Reviewed from the abstract and overview; arXiv rate-limited the full text.) |
 | **Understanding and Detecting Hallucinations in Neural Machine Translation via Model Introspection** | Xu et al. | TACL (arXiv:2301.07779), 2023 | Analyses source-contribution patterns to detect hallucinated NMT outputs. |
 | **[Understanding LLMs: A Comprehensive Overview from Training to Inference](https://arxiv.org/abs/2401.02038)** | Liu et al. | arXiv, 2024 | Survey of techniques for training and running large language models, from data and architecture to inference. |
 | **Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor** | Honovich et al. | arXiv:2212.09689, 2022 | Builds a large instruction-tuning dataset generated by prompting an LLM, rivalling human-curated data. |
 | **What Language Model Architecture and Pretraining Objective Work Best for Zero-Shot Generalization?** | Wang et al. | ICML 2022 (arXiv:2204.05832) | Large-scale comparison of LM architectures and objectives for zero-shot generalisation. |
+| **[The Y-Combinator for LLMs: Solving Long-Context Rot with λ-Calculus](https://arxiv.org/abs/2603.20105)** | Roy, Ji, Tutunov, Zimmer & Bou-Ammar | arXiv, 2026 | 🔍 λ-RLM: instead of having the model write control code, a deterministic planner recursively applies a fixed set of pre-verified operators (split, map, filter, reduce) over the prompt and the LM handles only small leaf chunks. Basis of kyo-lambda-rlm. |
 | **[Zep: A Temporal Knowledge Graph Architecture for Agent Memory](https://arxiv.org/abs/2501.13956)** | Rasmussen et al. | arXiv, 2025 | Introduces Zep, a memory layer for LLM agents built on Graphiti, a temporally-aware knowledge graph engine, evaluated on the Deep Memory Retrieval benchmark against MemGPT. |
 
 ## Physics and Engineering
@@ -428,8 +511,24 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 | **Ancient DNA from Protohistoric Period Cambodia indicates that South Asians admixed with local populations as early as 1st–3rd centuries CE** | Changmai et al. | Scientific Reports 12, 2022 | Ancient genomes from Vat Komnou, Cambodia, show South Asian admixture into Mainland Southeast Asian populations by the 1st–3rd centuries CE. |
 | **Ancient DNA reveals pervasive directional selection across West Eurasia** | Akbari et al. | Nature, 2026 | Uses large ancient-DNA samples to distinguish sustained directional selection from shifts due to migration and population structure in West Eurasian populations. |
 | **An Ancient Harappan Genome Lacks Ancestry from Steppe Pastoralists or Iranian Farmers** | Shinde et al. | Cell 179(3), 2019 | Reports a genome from Rakhigarhi in the Indus Valley Civilization with no detectable Steppe or Anatolian/Iranian farmer ancestry, from a population that is the largest source of ancestry for South Asians. |
+| **[Complex peopling history and expansion events inferred from large-scale modern and ancient Y chromosome sequences](https://doi.org/10.1126/sciadv.adu7935)** | He, Wang, Wang et al. | Science Advances, 2026 | 🔍 A large modern-and-ancient Y-chromosome study of China. Modern Indian and South Chinese paternal lines share only a deep FT-M89 trunk (~52–70 thousand years ago), with no Neolithic or later shared lineages; F lineages persist in Guangdong and Yunnan. |
+| **[Crosstalk of Magnesium and Serum Lipids in Dyslipidemia and Associated Disorders: A Systematic Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC8146023/)** |  | Systematic review (PMC), 2021 | 🔍 Reviews the links between magnesium status and serum lipids in dyslipidemia and related disorders; the supplementation evidence rests on 29 randomized controlled trials. |
 | **The Genetic Origin of the Indo-Europeans** | Lazaridis et al. | bioRxiv preprint, 2024 | Ancient-DNA study tracing the ancestry of Indo-European speakers to Caucasus-Lower Volga populations. |
 | **Growing in a Foreign World: For a History of the 'Meluhha Villages' in Mesopotamia in the 3rd Millennium BC** | Vidale | Melammu Symposia 4, 2004 | Archaeological and textual evidence for communities of Indus (Meluhhan) people settled in Mesopotamia in the 3rd millennium BC. |
-| **MCT1-dependent mitochondrial lactate import sustains cardiac metabolism** |  | Nature, 2026 | Reports that the transporter MCT1 imports lactate into heart mitochondria and that this import sustains cardiac energy metabolism. |
 | **The origin and dispersal of millet cultivation in India** | Singh | Interregional Contacts in the Later Prehistory of Northeastern Africa (Poznan), 1996 | Reviews archaeological evidence for the origin and spread of millet cultivation in India. |
 | **The Persian plateau served as hub for Homo sapiens after the main out of Africa dispersal** | Vallini et al. | Nature Communications, 2024 | Combines genetic and palaeoecological evidence to argue that the Persian plateau hosted the population ancestral to non-Africans between the out-of-Africa dispersal and later expansions. |
+
+### Health and Nutrition
+
+| Paper | Authors | Where | About |
+|-------|---------|-------|-------|
+| **[Dietary plant-to-animal protein ratio and risk of cardiovascular disease in 3 prospective cohorts](https://pubmed.ncbi.nlm.nih.gov/39631999/)** | Glenn, Wang, Tessier et al. | American Journal of Clinical Nutrition, 2024 | 🔍 In three large US cohorts, a higher ratio of plant to animal protein was associated with lower cardiovascular and especially coronary heart disease risk. (Ran with an editorial by Mariotti.) |
+| **[Dietary Protein Intake and Risk of Type 2 Diabetes in US Men and Women](https://pmc.ncbi.nlm.nih.gov/articles/PMC4832052/)** | Malik et al. | American Journal of Epidemiology, 2016 | 🔍 Higher animal-protein intake was associated with higher type 2 diabetes risk, while replacing animal with vegetable protein was associated with lower risk, in the Nurses' Health Studies and Health Professionals Follow-up Study. |
+| **[Effects of creatine supplementation with and without exercise and diet intervention on body composition, cognitive function, and markers of health in middle-aged and older adults](https://doi.org/10.1080/15502783.2026.2716273)** | Chun, Kreider et al. | JISSN, 2026 | 🔍 Texas A&M trial: creatine increased lean mass and strength in middle-aged and older adults even without exercise; combined with exercise and a calorie-reduced diet it further improved strength and reduced body fat. |
+| **[MCT1-dependent mitochondrial lactate import sustains cardiac metabolism](https://doi.org/10.1038/s41586-026-11182-3)** | Cluntun et al. | Nature, 2026 | 🔍 Shows that the transporter MCT1 imports lactate into heart mitochondria and that this import sustains cardiac energy metabolism — the heart's "backup" fuel route. Read with the accompanying Nature News & Views. |
+| **[Methionine-supplemented longevity diet increases growth hormone, GLP-1, and FGF21; reduces frailty; and promotes healthspan](https://doi.org/10.1016/j.cmet.2026.05.015)** | Fanti et al. (Longo lab) | Cell Metabolism, 2026 | 🔍 Reports that a low-protein, plant-based longevity diet supplemented with methionine raised growth hormone, GLP-1 and FGF21, reduced frailty and promoted healthspan. |
+| **[Optimal dietary patterns for healthy aging](https://doi.org/10.1038/s41591-025-03570-5)** | Tessier et al. | Nature Medicine, 2025 | 🔍 Compares eight dietary-pattern indices over ~30 years of follow-up in two large US cohorts against a composite "healthy aging" outcome (surviving to 70 free of major chronic disease with intact cognitive, physical and mental health); all healthy patterns helped, with the AHEI strongest. |
+| **[Reference Values for DXA-Derived Visceral Adipose Tissue in Adults 40 Years and Older from a European Population: The Tromsø Study 2015–2016](https://doi.org/10.1155/2021/6634536)** |  | Journal of Obesity, 2021 | 🔍 Population reference values (by age and sex) for visceral fat measured by DXA in adults 40+ from the Tromsø Study, for interpreting individual scans. |
+| **[Sitting, squatting, and the evolutionary biology of human inactivity](https://pubmed.ncbi.nlm.nih.gov/32152112/)** | Raichlen et al. | PNAS, 2020 | 🔍 Hadza hunter-gatherers are sedentary for many hours a day but spend much of it squatting or kneeling, which keeps leg muscles more active than chair-sitting — "active rest" as a possible reason their inactivity carries less health cost. |
+| **[Weight gain leads to greater adverse metabolic responses in South Asian compared with white European men: the GlasVEGAS study](https://doi.org/10.1038/s42255-024-01101-z)** | McLaren, Gao, Ghouri et al. | Nature Metabolism, 2024 | 🔍 A controlled weight-gain study: with similar gains, South Asian men showed larger adverse metabolic changes than white European men, linked to differences in where fat is stored and in fat-cell function. (Read via write-ups, not the full paper.) |
+| **[When we sit: textile electromyography identifies decreasing muscle activity and implications for metabolic health](https://jyx.jyu.fi/handle/123456789/114063)** | Brakenridge et al. | npj (Exercise Medicine and Health), 2026 | 🔍 Uses EMG-instrumented shorts to measure leg-muscle activity across the day; muscle activity falls off during prolonged sitting, with ~25 minutes of uninterrupted sitting emerging as a possible tipping point for metabolic health. |
