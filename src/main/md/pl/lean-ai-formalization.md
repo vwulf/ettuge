@@ -1,6 +1,6 @@
 # Lean, Foundations, and the AI Formalization of Mathematics
 
-*Started Nov 1, 2026 · last updated Nov 10, 2026 · Vishwas*
+*Started Nov 1, 2026 · last updated Nov 12, 2026 · Vishwas*
 
 ## Summary
 
@@ -17,6 +17,7 @@ Lean 4 is the de facto platform for AI-assisted formalization of mathematics, an
 - **Nov 2026:** a just-published deterministic n^O(log n) graph isomorphism result arrived with a Lean proof of both correctness and running time, built on Axiom's CFSG.
 - **Nov 6, 2026:** PSI announced an AI-produced proof of the Aaronson–Ambainis conjecture (open since 2008) with a compact, Comparator-checked Lean formalization.
 - **Nov 9–10, 2026:** agent-driven verification reached deployed software (DeepMind's machine-code proofs for Signal; a Lean copy of 16% of CPython that found 418 bugs), and 1,000 Fable 5.2 agents re-formalized FLT in 28.7 hours.
+- **Nov 11–12, 2026:** Axiom formalized Faltings' theorem on its Stacks library; OpenAI's \~1M-line Yang–Mills existence proof was released as Lean only, and Armstrong and Hairer began reverse-engineering a readable proof.
 
 ## 1. Lean's foundational basis
 
@@ -575,6 +576,45 @@ Lean is still niche by repository count, but in the past year it reached the sam
 
 Caveats: GitHub counts are approximate and label repos by majority language; "Lean" includes Lean 3; many new repos are likely small AI experiments; and these measure activity, not production use.
 
+## 17. November 2026: Mordell, Yang–Mills, and making proofs readable
+
+In mid-November two more landmark results arrived in Lean, and the community began working out how humans read million-line AI proofs.
+
+### 17.1 Faltings' theorem (the Mordell conjecture)
+
+On Nov 12, 2026 Axiom [announced](https://axiommath.ai/research/faltings-theorem-formalized/) a [Lean proof](https://github.com/AxiomMath/Mordell) that a smooth projective curve of genus at least 2 over a number field has finitely many rational points. Mordell conjectured it in 1922 and Faltings proved it in 1983; the formalization follows Bombieri's 1990 simplification of Vojta's proof.
+
+- **Size:** \~124K lines in 432 files, AI-written, on mathlib plus \~6.4M lines of Axiom's Stacks library; 506 declarations are tagged with items of Bombieri's paper. Lean v4.35.0; no `sorry`; standard axioms.
+- **Statement fidelity:** besides its own scheme-theoretic statement, it proves verbatim the [LeanEval](https://github.com/leanprover/lean-eval) problem `faltings`, written independently by the Lean community in mathlib-only vocabulary (places, adeles and genus of a function field).
+- **Significance:** the first real test of whether the AI-written Stacks library is reusable, nine days after its release: a Fields-Medal-level theorem in under 2% of the size of what it builds on.
+- **Caveats:** not yet reviewed by humans; it inherits Stacks Frontier's unreviewed status; Comparator and independent kernels are not reported.
+
+### 17.2 Yang–Mills existence
+
+On Nov 11, 2026 the Gross-led panel released OpenAI's Lean source, [`OpenAI-YM-20261028`](https://github.com/yang-mills-group/OpenAI-YM-20261028), without the written proof (reported at 1,147 pages). It claims that for every compact matrix group with simple nonabelian Lie algebra, Wilson lattice Yang–Mills has a continuum limit giving a Wightman QFT on ℝ⁴, with an all-orders OPE and a non-free stress-trace two-point function. It does **not** claim a mass gap, so it is not the Millennium Prize problem, or uniqueness of the volume limit.
+
+- **Size:** \~986K lines in 9,477 files on mathlib; 100,168 declarations reached by the 17 headline theorems; \~787-line trusted statement.
+- **Checks:** the project's own `VerifyJoint` with negative controls; a standalone Comparator run by the Humanise project passed with qualifications (a prebuilt solution, no external kernel).
+- **Main caveat:** Lean v4.32.0, which predates the kernel fixes in v4.33.1 (section 11), and no independent kernel has been run.
+
+**Reverse-engineering it.** [Scott Armstrong's map](https://github.com/scottnarmstrong/yang-mills-informalization) presents the proof at five levels, from the theorem to 32 units with 989 key statements linked to exact Lean lines, plus a 265-page AI-written manuscript draft. It shows that 70% of the code is a Bałaban-type ultraviolet renormalization group. [Martin Hairer's humanise-yang-mills](https://github.com/hairer/humanise-yang-mills) builds on that map to crowd-source a monograph (872-page incomplete draft) with contributors' agents. Fuller detail is in the separate Yang–Mills doc.
+
+### 17.3 Making AI proofs readable
+
+A [guest post on Buzzard's Xena blog](https://xenaproject.wordpress.com/2026/11/11/a-modern-reorganization-of-mathematics/) (ten authors, including Christian Merten and Jiedong Jiang) argues that AI proofs are correct in every step but have no motivation. It proposes presenting mathematics as layers of refinement: humans set strategy and definitions, LLMs fill in key theorems, AI writes and checks the formal bottom layer, and a website links every node to its formal counterpart. Prototypes: a layered Weil conjectures site and a formalization of derived categories and the six operations on the (pro-)étale site.
+
+Armstrong's five-level Yang–Mills map is that idea applied after the fact to a proof released with no explanation at all.
+
+### 17.4 Verification status compared
+
+|  | Aaronson–Ambainis | Mordell | Yang–Mills existence |
+| --- | --- | --- | --- |
+| Lean | \~9K lines | \~124K + Stacks | \~986K |
+| Trusted statement | \~25 lines | LeanEval statement, independently written | \~787 lines, adapted from a prior challenge |
+| Comparator | Yes, with negative controls | Not reported | Yes (by a third party, with qualifications) |
+| Kernel | v4.33.0, plus nanoda and lean4lean | v4.35.0 | v4.32.0 (pre-fix), no independent kernel |
+| Human-readable proof | Paper, reviewed by a named author | Bombieri's paper (the formalization is unreviewed) | None released; being reverse-engineered |
+
 ## References
 
 Sections 1–3 (foundations, HoTT, Rocq) draw on general knowledge of the systems; the rest are linked below.
@@ -658,3 +698,10 @@ Sections 1–3 (foundations, HoTT, Rocq) draw on general knowledge of the system
 - [Egolf, False beliefs about Lean](https://www.egolf.io/lean-false-beliefs.html)
 - [MiniLean4: build a Lean-4-style kernel in Rust](https://learn.h5i.dev/)
 - [Barrett, Standing on the shoulders of giants (&Truth)](https://andtruth.com/blog/shoulders-of-giants/)
+- [Axiom: Faltings' theorem formalized](https://axiommath.ai/research/faltings-theorem-formalized/)
+- [AxiomMath/Mordell repository](https://github.com/AxiomMath/Mordell)
+- [leanprover/lean-eval](https://github.com/leanprover/lean-eval)
+- [yang-mills-group/OpenAI-YM-20261028](https://github.com/yang-mills-group/OpenAI-YM-20261028)
+- [Armstrong, yang-mills-informalization](https://github.com/scottnarmstrong/yang-mills-informalization)
+- [Hairer, humanise-yang-mills](https://github.com/hairer/humanise-yang-mills)
+- [A modern reorganization of mathematics (Xena guest post)](https://xenaproject.wordpress.com/2026/11/11/a-modern-reorganization-of-mathematics/)
