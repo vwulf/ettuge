@@ -15,9 +15,7 @@ Short summaries of the discussions behind the 🔍 entries in [Papers](Papers.md
 
 **One operator for all elementary functions, then Kannada names for it.** Odrzywołek shows that eml(x, y) = eˣ − ln y, together with the constant 1, generates every elementary function. It is the continuous analogue of a NAND gate, with grammar S → 1 | eml(S, S). Since eˣ = eml(x, 1), Euler's formula, cos and sin all reduce to trees of one node. The discussion then turned into an Ellara Kannada coinage exercise: a nine-symbol notation with no Latin letters. ಎ stands for eml, ಇ for the imaginary unit, ಅ for ln and ತಿ (from ತಿಳಿಯದ, "the unknown") for the variable. π is ಸುತ್ತುಪಾಲು, and the trig functions form a ಪಾಲು ("ratio") family: ನೇರಪಾಲು, ಪಕ್ಕಪಾಲು and ತಾಗುಪಾಲು. ತಾಗುಪಾಲು ("touching ratio") keeps the geometric meaning of *tangent* that the English word has lost.
 
-**Chowla's cosine problem, solved twice at once.** Jin, Milojević, Tomon and Zhang go through spectral graph theory: small eigenvalues of Cayley graphs give large cuts, and MaxCut then bounds the minima of cosine sums. Bedert proved polynomial bounds independently. The two proofs appeared within days of each other, by unrelated methods.
-
-**Fractals, measure and Kakeya.** Falconer's *Geometry of Fractal Sets* (Hausdorff dimension, projections, Kakeya-type sets) and Tao's measure-theory text supply the background for recent results in geometric measure theory and PDE. One was the contested claim of finite-time blowup for the forced Navier–Stokes equations. Its comparison with earlier 3D Euler blowup work turned on whether the forced case is the Millennium problem at all.
+**Complexity, number theory and the Millennium problems.** The Unique Games proof, the ETH refutation claim, Chowla and MaxCut, the quasi-Riemann results, Navier–Stokes and Yang–Mills each have their own section in [Math Deep Dives](../Reflection/math-deep-dives.md).
 
 Sources: [Papers › Mathematics](Papers#mathematics), [Technical › Topology and Geometry](Technical#topology-and-geometry).
 
