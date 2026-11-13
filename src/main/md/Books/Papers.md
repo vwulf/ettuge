@@ -1,6 +1,6 @@
 # Papers
 
-Research papers, theses and technical reports I keep in the Google Drive *Books › Papers* folder, arranged top-down by subject — the same layout as [Technical](Technical.md). Each entry gives the authors, where it appeared, and a line on what it does. 🔍 marks papers I have gone through in detail with Claude; these link to the published version and may not be in Drive. 📝 marks papers cited in my own notes, with a link to the write-up.
+Research papers, theses and technical reports I keep in the Google Drive *Books › Papers* folder, arranged top-down by subject — the same layout as [Technical](Technical.md). Each entry gives the authors, where it appeared, and a line on what it does. 🔍 marks papers I have gone through in detail with Claude; these link to the published version and may not be in Drive. 📝 marks papers cited in my own notes, with a link to the write-up. Summaries of the 🔍 discussions are collected in [Deep Dives](Deep-Dives.md).
 
 ---
 
@@ -58,7 +58,7 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 
 | Paper | Authors | Where | About |
 |-------|---------|-------|-------|
-| **[All elementary functions from a single operator](https://arxiv.org/abs/2603.21852)** | Odrzywołek | arXiv (cs.SC), 2026 | 🔍 Shows that the single binary operator eml(x, y) = eˣ − ln y, together with the constant 1, generates every elementary function — a "NAND gate" for continuous mathematics. I used it to coin an Ellara Kannada vocabulary for elementary functions. |
+| **[All elementary functions from a single operator](https://arxiv.org/abs/2603.21852)** | Odrzywołek | arXiv (cs.SC), 2026 | 🔍 Shows that the single binary operator eml(x, y) = eˣ − ln y, together with the constant 1, generates every elementary function — a "NAND gate" for continuous mathematics. I used it to coin an Ellara Kannada vocabulary for elementary functions: ಏ for exp, ಅ for ln, ಎ = ಏ − ಅ for eml itself, ಇ for the imaginary unit, and a trigonometry set built on ಪಾಲು ("ratio"): ನೇರಪಾಲು (sin), ಪಕ್ಕಪಾಲು (cos), ತಾಗುಪಾಲು (tan) and ಸುತ್ತುಪಾಲು (π). |
 | **[Finite-time blowup for the forced Navier–Stokes equations](https://openai.com/index/navier-stokes-solution/)** | OpenAI | OpenAI announcement, 2026 | 🔍 Claims finite-time singularity formation for the forced 3D Navier–Stokes equations; contested over whether the forced case is the Millennium problem and over credit. Compared with Buckmaster–Alpöge work on 3D Euler blowup. |
 | **Mathematics for Machine Learning: Linear Algebra, Week 1 slides** | DeepLearning.AI | DeepLearning.AI course slides, 2023 | Lecture slides for week 1 of course 1 (linear algebra) of DeepLearning.AI's Mathematics for ML specialization. |
 | **Mathematics for Machine Learning: Linear Algebra, Week 3 slides** | DeepLearning.AI | DeepLearning.AI course slides, 2023 | Lecture slides for week 3 of course 1 (linear algebra) of DeepLearning.AI's Mathematics for ML specialization. |

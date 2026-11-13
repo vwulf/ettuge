@@ -75,12 +75,16 @@ jobs:
           cp src/main/scala/kojo/generated.png          docs/FP/
           cp src/main/scala/kojo/ladder_rand_shape.png  docs/FP/
           cp src/main/scala/kojo/with_g.png             docs/FP/
+          # topic buckets — index pages with deep-dive gists (see Pass 6)
+          for f in src/main/md/pl/buckets/*.md; do
+            cp "$f" "docs/FP/bucket-$(basename "$f")"
+          done
 
       - name: Copy Reflection notes into docs/Reflection/
         run: |
           rm -rf docs/Reflection || true
           mkdir -p docs/Reflection
-          for f in src/main/md/self-reflection/2026-02-25_*.md; do
+          for f in src/main/md/self-reflection/2026-*_*.md; do
             dest="docs/Reflection/$(basename "$f" | sed 's/^[0-9-]*_//')"
             cp "$f" "$dest"
           done
@@ -763,6 +767,15 @@ jobs:
                   with open(papers_idx, 'w', encoding='utf-8') as f:
                       f.write(fm(title='Papers', parent='Books', nav_order=3))
                       f.write(pap_body)
+              # Deep-Dives.md — sidebar child of Books (discussion gists behind 🔍 entries)
+              dd_idx = os.path.join(BOOKSDIR, 'Deep-Dives.md')
+              if os.path.exists(dd_idx):
+                  with open(dd_idx, encoding='utf-8') as f:
+                      dd_body = strip_fm(f.read())
+                  dd_body = re.sub(r'\]\(((?!http)[^)]+)\.md\)', r'](\1)', dd_body)
+                  with open(dd_idx, 'w', encoding='utf-8') as f:
+                      f.write(fm(title='Deep Dives', parent='Books', nav_order=4))
+                      f.write(dd_body)
               # nav_exclude all individual book files (pages exist; just hidden from sidebar)
               for sub in ('influential', 'read'):
                   inf_dir = os.path.join(BOOKSDIR, sub)
@@ -775,40 +788,69 @@ jobs:
           FPDIR     = 'docs/FP'
           FP_TITLE  = 'Functional Programming'
 
-          FP_ARTICLES = [
-              ('om-lambda.md',               'ॐλ — Lambda Calculus',       1),
-              ('monoids-and-semigroups.md',  'Monoids and Semigroups',      2),
-              ('hsom.md',                    'rangapura vihAra',            3),
-              ('qsortof.md',                 'Lazy Min-K in Haskell',       4),
-              # qsortof-part2.md is references-only, not yet written — nav_excluded
-              # haskell-types.md not yet complete — nav_excluded
-              ('kumbaLakAyi-kaLLanalla.md',  'ಕಳ್ಳ — Pumpkin Puzzle',       7),
-              ('cloud_flowers_and.md',       'Kojo — Clouds and Flowers',   8),
-              ('lean-ai-formalization.md',   'Lean and AI Formalization',   9),
-              ('decision-points-as-effects.md', 'Decision Points as Effects', 10),
+          # Buckets: (bucket file, sidebar title, nav_order, [(article, title, nav_order), ...])
+          # Bucket pages come from src/main/md/pl/buckets/ and carry the deep-dive gists for
+          # their topic. Article files stay flat in docs/FP/ so existing URLs don't change;
+          # only their parent/grand_parent front matter moves them under a bucket.
+          FP_BUCKETS = [
+              ('bucket-foundations.md', 'Foundations: λ-calculus and Types', 1, [
+                  ('om-lambda.md',                  'ॐλ — Lambda Calculus',        1),
+                  # haskell-types.md not yet complete — nav_excluded
+              ]),
+              ('bucket-algebra-categories.md', 'Algebra and Categories', 2, [
+                  ('monoids-and-semigroups.md',     'Monoids and Semigroups',      1),
+              ]),
+              ('bucket-algorithms.md', 'Algorithms, Functionally', 3, [
+                  ('qsortof.md',                    'Lazy Min-K in Haskell',       1),
+                  # qsortof-part2.md is references-only, not yet written — nav_excluded
+                  ('kumbaLakAyi-kaLLanalla.md',     'ಕಳ್ಳ — Pumpkin Puzzle',       2),
+              ]),
+              ('bucket-effects-llm.md', 'Effects and LLM Systems', 4, [
+                  ('decision-points-as-effects.md', 'Decision Points as Effects',  1),
+              ]),
+              ('bucket-proof-formalization.md', 'Proof and Formalization', 5, [
+                  ('lean-ai-formalization.md',      'Lean and AI Formalization',   1),
+              ]),
+              ('bucket-creative-coding.md', 'Creative Coding', 6, [
+                  ('hsom.md',                       'rangapura vihAra',            1),
+                  ('cloud_flowers_and.md',          'Kojo — Clouds and Flowers',   2),
+              ]),
           ]
+
+          def write_fm(fpath, **fields):
+              with open(fpath, encoding='utf-8') as f:
+                  body = strip_fm(f.read())
+              body = re.sub(r'\]\(((?!http)[^)]+)\.md\)', r'](\1)', body)
+              with open(fpath, 'w', encoding='utf-8') as f:
+                  f.write(fm(**fields))
+                  f.write(body)
+              sidebar_files.add(fpath)
 
           if os.path.isdir(FPDIR):
               # Root index page
               idx_path = os.path.join(FPDIR, 'index.md')
               with open(idx_path, 'w', encoding='utf-8') as f:
                   f.write(fm(title=FP_TITLE, nav_order=5, has_children=True))
-                  f.write('Functional programming explorations in Haskell, Scala, and lambda calculus — '
-                          'including visual programming with Kojo.\n')
+                  f.write('Functional programming explorations in Haskell, Scala, Lean and the lambda calculus, '
+                          'grouped by topic. Each topic page collects the articles and the deep-dive '
+                          'discussions of papers and books behind them.\n\n')
+                  for bfile, btitle, _, _ in FP_BUCKETS:
+                      f.write(f'- [{btitle}]({bfile[:-3]})\n')
+                  f.write('\nOther deep dives (mathematics, ML, inference serving, linguistics, karate, health) '
+                          'are in [Books › Deep Dives](../Books/Deep-Dives).\n')
               sidebar_files.add(idx_path)
 
-              # Front matter for each article
-              for fname, title, nav_order in FP_ARTICLES:
-                  fpath = os.path.join(FPDIR, fname)
-                  if not os.path.exists(fpath):
+              for bfile, btitle, border, articles in FP_BUCKETS:
+                  bpath = os.path.join(FPDIR, bfile)
+                  if not os.path.exists(bpath):
                       continue
-                  with open(fpath, encoding='utf-8') as f:
-                      body = strip_fm(f.read())
-                  body = re.sub(r'\]\(((?!http)[^)]+)\.md\)', r'](\1)', body)
-                  with open(fpath, 'w', encoding='utf-8') as f:
-                      f.write(fm(title=title, parent=FP_TITLE, nav_order=nav_order))
-                      f.write(body)
-                  sidebar_files.add(fpath)
+                  write_fm(bpath, title=btitle, parent=FP_TITLE, nav_order=border, has_children=True)
+                  for fname, title, nav_order in articles:
+                      fpath = os.path.join(FPDIR, fname)
+                      if not os.path.exists(fpath):
+                          continue
+                      write_fm(fpath, title=title, parent=btitle, grand_parent=FP_TITLE,
+                               nav_order=nav_order)
 
           # ── Pass 6b: Tinkering sidebar ────────────────────────────────────────────
           TINKDIR   = 'docs/Tinkering'
@@ -864,6 +906,7 @@ jobs:
               # career-personal.md — filtered for now (too personal)
               # current-events-politics.md — filtered for now
               ('miscellaneous.md',                  'Miscellaneous',               20),
+              ('math-deep-dives.md',                'Math Deep Dives',             21),
           ]
 
           if os.path.isdir(REFLDIR):

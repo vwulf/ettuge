@@ -3,7 +3,7 @@ name: ettuge-pre-deploy-check
 description: >
   Runs a pre-deployment sanity check on the ettuge repository before any git push.
   Use this skill before every deploy — especially after editing _config.yml,
-  pages.yml, REFL_CATS, FP_ARTICLES, adding/removing Reflection source files,
+  pages.yml, REFL_CATS, FP_BUCKETS, adding/removing Reflection source files,
   or editing any cross-link in a book file (full.md, ch*.md, en/summary.md etc.).
   Catches: wrong _config.yml, missing source files, duplicate nav_order values,
   broken Python syntax in CI, search accidentally re-enabled, and ALL broken
@@ -51,7 +51,7 @@ Before committing, run `git diff --stat` and `git diff` and verify:
    - Changes to `docs/_config.yml` → affects the live site ✓
    - Changes to root `_config.yml` → Jekyll IGNORES this file (builds from `docs/`) ✗
 
-2. **REFL_CATS / FP_ARTICLES changes?**
+2. **REFL_CATS / FP_BUCKETS changes?**
    - Every added entry must have a corresponding source file in `src/main/md/self-reflection/`
    - No duplicate nav_order values
 
