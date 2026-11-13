@@ -907,6 +907,7 @@ jobs:
               # current-events-politics.md — filtered for now
               ('miscellaneous.md',                  'Miscellaneous',               20),
               ('math-deep-dives.md',                'Math Deep Dives',             21),
+              ('ellara-kannada-deep-dives.md',      'Ellara Kannada Deep Dives',   22),
           ]
 
           if os.path.isdir(REFLDIR):
