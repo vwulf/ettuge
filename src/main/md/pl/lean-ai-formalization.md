@@ -101,6 +101,8 @@ In 2026 AI agents formalized two of the largest proofs in mathematics, each in u
 
 Other pieces: Meta's AutoformBot formalized 26 open textbooks into 45,000+ verified declarations ([arXiv 2605.29955](https://arxiv.org/html/2605.29955)); a constructive [ATLAS of finite simple groups](https://arxiv.org/pdf/2609.35847) in Lean; an independent [Renaissance Philanthropy CFSG project](https://www.renaissancephilanthropy.org/modular-humanai-approach-to-classification-of-finite-simple-groups) involving a GLS co-author.
 
+**CFSG's statement is itself hard to check.** Per [Buzzard](https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/), the statement of Axiom's CFSG imports over 250K lines in more than 900 files of the AI-generated Tau Ceti library, about 5,600 of them crucial. He knows of no one who has checked the definitions of the sporadic groups, so the strongest evidence the statement is right is that Axiom's code proves it. Statements can need large new definitions in general: a pull request formalizing the Hodge conjecture in DeepMind's Formal Conjectures needs over 10,000 lines on top of mathlib just to state it, because mathlib lacks the cycle class map.
+
 ## 6. How much math is formalized in Lean
 
 Assuming formal statements are eventually verified to match intent: about 0.1% of the research literature by paper count, but most of the undergraduate canon. These are judgment estimates; no one measures this officially.
@@ -165,6 +167,8 @@ The OpenAI and Anthropic open-problem releases mostly add a thin layer of new fo
 - **Narrow pull.** Open-problem work clusters in combinatorics, number theory and group theory, already mathlib's strongest areas.
 
 The benchmark side is also moving to Lean: Epoch's FrontierMath Erdős poses 68 open Erdős problems in Lean.
+
+**How much of OpenAI's 722-paper release is actually formalized** ([Buzzard, Nov 12](https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/)): about 45% (290 papers) have some Lean code, and about 38 of those do not state or prove the paper's main theorem (OpenAI did not claim otherwise). Paper 194 claims Lech's multiplicity conjecture, open since 1960, but its headline Lean theorem is the paper's Corollary 5.4. Three papers without Lean were retracted for a sign error. For most of the papers, the four checks of section 11.1 have not yet been done.
 
 ## 8. Consolidation: getting AI output into mathlib
 
@@ -384,6 +388,15 @@ An AI agent asked only to prove a theorem could plant such a metaprogram; Egolf 
 | Axiom Stacks (section 9) | Not reported |
 
 The full trust stack is therefore four layers: a verified kernel for the logic; diverse kernels for the implementation; Comparator for the pipeline from statement to kernel; and human review for statement fidelity.
+
+**Buzzard's four questions** ([Nov 12, 2026](https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/)) put the same stack as a checklist for any Lean repository, especially AI-generated ones:
+
+1. **Does the Lean statement match the informal one?** The hardest step; see the CFSG and Hodge examples in section 5.
+2. **Does it compile?** Not a given at AI scale: Buzzard could not compile the 13M-line FLT proof until Anthropic lent him a 96-core, 500 GB machine, while OpenAI's 640K-line Navier–Stokes proof compiles on a laptop. Build AI-generated code in a sandbox, since it can run arbitrary code.
+3. **Does the proof prove that statement?** `lake comparator` checks the proved theorem against the trusted statement and allows only the standard axioms.
+4. **Does it exploit a kernel bug?** `lake comparator --paranoid` also rechecks with the independent kernels; the Lean kernel arena records which kernels accept which developments.
+
+**The PDF can disagree with the Lean.** The "Navier–Stokes lost in translation" paper ([arXiv 2610.08144](https://arxiv.org/abs/2610.08144)) found divergences between OpenAI's Navier–Stokes PDF and its Lean proof. Some experts now have AI translate the Lean back into English rather than read the accompanying PDF, which is the approach Armstrong took for Yang–Mills (section 17.2).
 
 **To see how a kernel works:** [MiniLean4](https://learn.h5i.dev/) (Hideaki Takahashi) is a free interactive book that builds a Lean-4-style kernel in under 3,000 lines of dependency-free Rust, compiled to WebAssembly. Its 14 chapters run from propositions-as-types and type checking through inductive types, equality and tactics to substitution, reduction, universes and metatheory, with in-browser playgrounds and live typing derivations.
 
@@ -705,3 +718,5 @@ Sections 1–3 (foundations, HoTT, Rocq) draw on general knowledge of the system
 - [Armstrong, yang-mills-informalization](https://github.com/scottnarmstrong/yang-mills-informalization)
 - [Hairer, humanise-yang-mills](https://github.com/hairer/humanise-yang-mills)
 - [A modern reorganization of mathematics (Xena guest post)](https://xenaproject.wordpress.com/2026/11/11/a-modern-reorganization-of-mathematics/)
+- [Buzzard, And the proof is checked in Lean](https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/)
+- [Navier–Stokes lost in translation (arXiv 2610.08144)](https://arxiv.org/abs/2610.08144)
