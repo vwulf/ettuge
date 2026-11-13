@@ -4,6 +4,7 @@ created: 2026-11-13
 source: Ellara Kannada project sessions on DNS Bhat's books, classical texts and coinage (Mar–Nov 2026)
 ---
 
+<a id="ch1"></a>
 # Ellara Kannada Deep Dives
 
 > Created: 2026-11-13 · Covers Mar–Nov 2026
@@ -14,7 +15,6 @@ The book-by-book catalogue lives under [DNS Bhat](https://vwulf.github.io/ettuge
 
 ---
 
-<a id="ch1"></a>
 ## Pampa's line: gender by referent, and two kinds of "we"
 
 **Pampa's ಮಾನಸರ್ shows that Old Kannada assigns gender by what a word refers to, not by the source word's gender.**
