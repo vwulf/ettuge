@@ -47,6 +47,7 @@ Published at [vwulf.github.io/ettuge/Reflection](https://vwulf.github.io/ettuge/
 | 12 | [Infrastructure & DevOps](./2026-02-25_infrastructure-devops.md) | Nix/NixOS, Kubernetes, Terraform, cloud-native patterns, Rust CLI tools |
 | 13 | [Data Engineering](./2026-02-25_data-engineering.md) | Spark, Flink, Hudi, lakehouse architecture, distributed systems |
 | 21 | [Math Deep Dives](./2026-11-13_math-deep-dives.md) | Close readings of 2026 AI-math papers (UGC, ETH, quasi-RH, Navier–Stokes, Yang–Mills), Goldbach, prime gaps, Riehl, textbook formalization |
+| 22 | [Ellara Kannada Deep Dives](./2026-11-13_ellara-kannada-deep-dives.md) | Ellara Kannada project sessions: Pampa's ಮಾನಸರ್ and clusivity, Bhat's verb counts and auxiliaries, Śrī Rudram, Aiṅkuṟunūṟu 323 in Eke, animal-name etymologies, ಎ-ಎಣಿಕೆ maths notation, karate terms, coinage precedence, pangram |
 
 ### Lifestyle & Personal
 
