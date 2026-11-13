@@ -1,6 +1,6 @@
 # Papers
 
-Research papers, theses and technical reports I keep in the Google Drive *Books › Papers* folder, arranged top-down by subject — the same layout as [Technical](Technical.md). Each entry gives the authors, where it appeared, and a line on what it does. 🔍 marks papers I have gone through in detail with Claude; these link to the published version and may not be in Drive. 📝 marks papers cited in my own notes, with a link to the write-up.
+Research papers, theses and technical reports I keep in the Google Drive *Books › Papers* folder, arranged top-down by subject — the same layout as [Technical](Technical.md). Each entry gives the authors, where it appeared, and a line on what it does. 🔍 marks papers I have gone through in detail with Claude; these link to the published version and may not be in Drive. 📝 marks papers cited in my own notes, with a link to the write-up. Summaries of the 🔍 discussions are collected in [Deep Dives](Deep-Dives.md).
 
 ---
 
