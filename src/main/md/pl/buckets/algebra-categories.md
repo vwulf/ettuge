@@ -22,7 +22,9 @@ The algebraic structures used every day in Scala and Haskell (semigroups, monoid
 **Categories meet machine learning.**
 - *Funcformer* (Laakkonen) rebuilds the transformer from applicative functors, so attention can run over functions, graphs or distributions as well as vectors.
 - *On the Anatomy of Attention* breaks attention variants into shared diagrammatic building blocks. Its companion *pattern language for ML tasks* specifies tasks independently of architecture.
-- *Defining and Generating Compositional Structure* (Elmoznino, Bengio et al.) gives compositionality a complexity-based definition and a way to generate data with controlled compositional structure. It was read together with a rose-tree follow-up.
+
+**Compositional structure can be defined as the extra description length a whole's model needs beyond its parts' models.**
+The paper takes the MDL-optimal model of each part and of the whole, and counts compositional novelty as K(m_x | m_parts). Scored at every node of a decomposition tree, that gives a profile across scales. The tree is a rose tree whose labels concatenate. The profile is a plain fold over it, and the maximal decomposition reduces it to an interval DP over binary splits. Turned into a reward, the measure evolves deeper but smaller string grammars and more unified CPPN images. Still open: the scores depend on the chosen compressor, and nobody knows which decomposition tree is canonical. [Papers › AI and Machine Learning › Foundations](../Books/Papers#foundations)
 
 The common thread: when an LLM system is described compositionally, its parts can be reasoned about separately. That is the premise of the Kyo work in [Effects and LLM Systems](bucket-effects-llm.md).
 
