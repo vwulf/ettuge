@@ -36,7 +36,7 @@ Before committing, run `git diff --stat` and `git diff` and verify:
    - Changes to `docs/_config.yml` → affects the live site ✓
    - Changes to root `_config.yml` → Jekyll IGNORES this file (builds from `docs/`) ✗
 
-2. **REFL_CATS / FP_ARTICLES changes?**
+2. **REFL_CATS / FP_BUCKETS changes?**
    - Every added entry must have a corresponding source file in `src/main/md/self-reflection/`
    - No duplicate nav_order values
 

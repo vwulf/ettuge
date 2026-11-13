@@ -104,21 +104,32 @@ for fname, title, nav_order in refl_cats:
     else:
         nav_orders.append(nav_order)
 
-# ── 7. Parse FP_ARTICLES similarly ───────────────────────────────────────────
-fp_match = re.search(r'FP_ARTICLES\s*=\s*\[(.*?)\]', yml, re.DOTALL)
+# ── 7. Parse FP_BUCKETS (topic buckets → articles) ───────────────────────────
+fp_match = re.search(r'FP_BUCKETS\s*=\s*(\[.*?\n\s*\])\n', yml, re.DOTALL)
 if fp_match:
-    raw = '[' + fp_match.group(1) + ']'
+    raw = '\n'.join(l for l in fp_match.group(1).split('\n') if not l.strip().startswith('#'))
     try:
-        fp_articles = ast.literal_eval(raw)
-        fp_nav = []
-        for fname, title, nav_order in fp_articles:
-            if nav_order in fp_nav:
-                fail(f"FP_ARTICLES: duplicate nav_order {nav_order} ('{title}')")
+        buckets = ast.literal_eval(raw)
+        b_nav = []
+        for bfile, btitle, border, articles in buckets:
+            src_bucket = os.path.join('src/main/md/pl/buckets', bfile.replace('bucket-', '', 1))
+            if os.path.exists(os.path.join(REPO, src_bucket)):
+                ok(f"FP bucket '{btitle}': source exists")
             else:
-                fp_nav.append(nav_order)
-        ok(f"FP_ARTICLES parsed: {len(fp_articles)} entries, nav_orders unique")
+                fail(f"FP bucket '{btitle}': missing {src_bucket}")
+            if border in b_nav:
+                fail(f"FP_BUCKETS: duplicate nav_order {border} ('{btitle}')")
+            b_nav.append(border)
+            a_nav = []
+            for fname, title, nav_order in articles:
+                if nav_order in a_nav:
+                    fail(f"FP bucket '{btitle}': duplicate nav_order {nav_order} ('{title}')")
+                a_nav.append(nav_order)
+        ok(f"FP_BUCKETS parsed: {len(buckets)} buckets, nav_orders unique")
     except Exception as e:
-        warn(f"FP_ARTICLES could not be checked: {e}")
+        warn(f"FP_BUCKETS could not be checked: {e}")
+else:
+    warn("FP_BUCKETS not found in pages.yml")
 
 # ── 8. Python blocks in pages.yml are syntactically valid ────────────────────
 import textwrap
