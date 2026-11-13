@@ -5,6 +5,7 @@ updated: 2026-11-13
 source: deep-dive reading sessions on papers and books (Oct–Nov 2026)
 ---
 
+<a id="ch1"></a>
 # Math Deep Dives
 
 > Created: 2026-11-13 · Covers Oct–Nov 2026
@@ -12,23 +13,22 @@ source: deep-dive reading sessions on papers and books (Oct–Nov 2026)
 These notes come from close readings of papers, preprints and books, mostly the AI-generated mathematics that appeared in autumn 2026. Each entry gives the claim, how the argument works, and what is still open. Most of these results were days or weeks old when they were read and had **not** been refereed, so read every "proof" below as a claim unless the entry says otherwise. Where a repository or PDF was read directly rather than through press coverage, the entry says so.
 
 **Related pages on this site**
-- [Lean and AI Formalization](../FP/lean-ai-formalization.md): Lean's foundations, how much mathematics is formalized, kernel trust, and the case studies (graph isomorphism, Aaronson–Ambainis, Mordell, the Yang–Mills Lean release).
-- [Proof and Formalization](../FP/bucket-proof-formalization.md): short gists on the same theme.
-- [Papers](../Books/Papers.md): the catalogue entries (marked 🔍) for each paper discussed here, under [Analysis and Linear Algebra](../Books/Papers#analysis-and-linear-algebra), [Discrete Mathematics and Combinatorics](../Books/Papers#discrete-mathematics-and-combinatorics), [Category Theory](../Books/Papers#category-theory), [Foundations and Logic](../Books/Papers#foundations-and-logic), [History of Mathematics](../Books/Papers#history-of-mathematics) and [Theory of Computation](../Books/Papers#theory-of-computation).
-- [Deep Dives](../Books/Deep-Dives.md): the cross-topic index of deep dives.
-- [Ellara Kannada Deep Dives › ಎ-ಎಣಿಕೆ](ellara-kannada-deep-dives#ch6): the one-operator (eml) result and its Kannada notation.
+- [Lean and AI Formalization](https://vwulf.github.io/ettuge/FP/lean-ai-formalization): Lean's foundations, how much mathematics is formalized, kernel trust, and the case studies (graph isomorphism, Aaronson–Ambainis, Mordell, the Yang–Mills Lean release).
+- [Proof and Formalization](https://vwulf.github.io/ettuge/FP/bucket-proof-formalization): short gists on the same theme.
+- [Papers](https://vwulf.github.io/ettuge/Books/Papers): the catalogue entries (marked 🔍) for each paper discussed here, under [Analysis and Linear Algebra](https://vwulf.github.io/ettuge/Books/Papers#analysis-and-linear-algebra), [Discrete Mathematics and Combinatorics](https://vwulf.github.io/ettuge/Books/Papers#discrete-mathematics-and-combinatorics), [Category Theory](https://vwulf.github.io/ettuge/Books/Papers#category-theory), [Foundations and Logic](https://vwulf.github.io/ettuge/Books/Papers#foundations-and-logic), [History of Mathematics](https://vwulf.github.io/ettuge/Books/Papers#history-of-mathematics) and [Theory of Computation](https://vwulf.github.io/ettuge/Books/Papers#theory-of-computation).
+- [Deep Dives](https://vwulf.github.io/ettuge/Books/Deep-Dives): the cross-topic index of deep dives.
+- [Ellara Kannada Deep Dives › ಎ-ಎಣಿಕೆ](https://vwulf.github.io/ettuge/Reflection/ellara-kannada-deep-dives/ch6): the one-operator (eml) result and its Kannada notation.
 
 **Contents**
-1. [The OpenAI math release](#ch1)
-2. [Complexity theory](#ch2): Unique Games, semidefinite programming, the ETH refutation, Chowla's cosine problem
-3. [Number theory](#ch3): the quasi-Riemann hypothesis, Siegel zeros, prime gaps, Goldbach
-4. [Millennium problems in mathematical physics](#ch4): Navier–Stokes, Yang–Mills
-5. [Books and formalization](#ch5)
-6. [Themes across the deep dives](#ch6)
+1. [The OpenAI math release](ch1)
+2. [Complexity theory](ch2): Unique Games, semidefinite programming, the ETH refutation, Chowla's cosine problem
+3. [Number theory](ch3): the quasi-Riemann hypothesis, Siegel zeros, prime gaps, Goldbach
+4. [Millennium problems in mathematical physics](ch4): Navier–Stokes, Yang–Mills
+5. [Books and formalization](ch5)
+6. [Themes across the deep dives](ch6)
 
 ---
 
-<a id="ch1"></a>
 ## 1. The OpenAI math release
 
 **On Oct 6, 2026 OpenAI published 722 manuscripts in 372 families, and only about one in five came with a machine-checked proof.**
@@ -40,12 +40,12 @@ Two distinctions run through every entry below:
 - **"Published" is not "verified."** "OpenAI published 722 proofs" was true; "722 proofs were verified" was not.
 - **A Lean proof certifies only the theorem as stated.** Someone still has to check that the formal statement is the claim people care about. That check is called *statement fidelity*.
 
-A later count by Kevin Buzzard (Nov 12) found that about 45% of the papers (290) have *some* Lean code, but about 38 of those don't state or prove the paper's main theorem. Three papers without Lean were retracted over a sign error. Details are in [Lean and AI Formalization › Open-problem releases](../FP/lean-ai-formalization.md). Quanta's count of 377 results, against the repository's 372 families, has never been reconciled. **[→ mathematics; cross-link → machine-learning-ai]**
+A later count by Kevin Buzzard (Nov 12) found that about 45% of the papers (290) have *some* Lean code, but about 38 of those don't state or prove the paper's main theorem. Three papers without Lean were retracted over a sign error. Details are in [Lean and AI Formalization › Open-problem releases](https://vwulf.github.io/ettuge/FP/lean-ai-formalization). Quanta's count of 377 results, against the repository's 372 families, has never been reconciled. **[→ mathematics; cross-link → machine-learning-ai]**
 
 ---
 
 **Twenty-five Fields medalists, Tao among them, warned that the race for headline results is harming mathematics.**
-[Papers › History of Mathematics](../Books/Papers#history-of-mathematics)
+[Papers › History of Mathematics](https://vwulf.github.io/ettuge/Books/Papers#history-of-mathematics)
 
 "A Severe Misalignment of AI in Mathematics" appeared on Terence Tao's blog on Sep 11, a month before the big release. Its signatories include Scholze, Viazovska, Hairer, Maynard and the 2026 medalist Yu Deng. The argument is that labs announcing solutions to famous problems swamp referees and reward headlines over understanding. The October release made the point concrete. Dana Moshkovitz said the Unique Games manuscript was unreadable without AI help. Radziwiłł said both quasi-RH papers would be rejected at any journal for their writing. **[→ mathematics]**
 
@@ -62,7 +62,7 @@ A widely shared video walkthrough of the release was checked line by line agains
 | Turán brick factory, Zarankiewicz, Hill | Exact crossing numbers for complete bipartite and complete graphs, with Lean | Two closed curves in the plane cross an even number of times; this parity fact is encoded as algebraic test polynomials. |
 | Matrix multiplication | ω ≤ 9/4 | Roughly 30 times the progress of the previous 36 years. First an 83-page messy proof, then eight days later a clean 13-page version with Lean. The self-rewrite is the most interesting signal in the release. |
 | Integer multiplication / FFT | Slightly below n log n | Follows Karatsuba, Schönhage–Strassen and Harvey–van der Hoeven, then shaves 1/2¹⁸² off the log exponent. A galactic algorithm: it only helps for numbers too large to store. |
-| Navier–Stokes blowup (forced) | Finite-time singularity | Lots of narrative, little mathematics; see [§4](#ch4). |
+| Navier–Stokes blowup (forced) | Finite-time singularity | Lots of narrative, little mathematics; see [§4](ch4). |
 
 Everything else was named with a one-line claim, including UGC, quasi-RH, BSD and Hodge special cases, Erdős's arithmetic-progression conjecture, Hilbert's 10th over ℚ, Hilbert's 16th, Artin's conjecture and the π exponent. The plane-colouring proof and quasi-RH share no machinery. The first is geometric and topological (unit-distance graphs, the Moser spindle, boundary smoothing). The second is analytic number theory (zero detectors, families of L-functions). **[→ mathematics]**
 
@@ -72,7 +72,7 @@ Everything else was named with a one-line claim, including UGC, quasi-RH, BSD an
 ## 2. Complexity theory
 
 **The Unique Games proof doesn't go through Small-Set Expansion; it repairs the 2-to-2 route with a new nonlinear gadget.**
-[Papers › Theory of Computation](../Books/Papers#theory-of-computation) · <https://github.com/openai/math> (entry 102, read directly)
+[Papers › Theory of Computation](https://vwulf.github.io/ettuge/Books/Papers#theory-of-computation) · <https://github.com/openai/math> (entry 102, read directly)
 
 Entry 102 is "The Unique Games Theorem" (dated Sep 23) plus four companion papers on Max-Cut, Vertex Cover, Min-UnCut and directed feedback vertex set. The model wasn't asked to prove UGC. It was asked to show, without assuming UGC, that the basic SDP threshold is optimal for every CSP, and it reached UGC along the way.
 
@@ -137,7 +137,7 @@ The usual workaround is Burer–Monteiro: write X = VVᵀ with a skinny V and op
 ---
 
 **The ETH refutation is a polynomial-method counting algorithm whose saving is only about √log n in the exponent: a theory result, not a faster SAT solver.**
-[Papers › Theory of Computation](../Books/Papers#theory-of-computation) · [paper.pdf](https://github.com/openai/math/tree/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026) (read directly)
+[Papers › Theory of Computation](https://vwulf.github.io/ettuge/Books/Papers#theory-of-computation) · [paper.pdf](https://github.com/openai/math/tree/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026) (read directly)
 
 Announced Oct 25–26 alongside claimed results on Kakeya/local smoothing and on QCD existence. The 67-page manuscript is dated Oct 17 and revised Oct 25. The Lean development is about 3,977 files and uses only the standard axioms (propext, Quot.sound, Classical.choice).
 
@@ -171,7 +171,7 @@ The key subtlety is that removing ETH deletes *lower bounds* for everything, but
 ---
 
 **Chowla's cosine problem fell to extremal MaxCut on Cayley graphs, not to Unique Games.**
-[Papers › Discrete Mathematics and Combinatorics](../Books/Papers#discrete-mathematics-and-combinatorics) · [arXiv:2509.03490](https://arxiv.org/abs/2509.03490)
+[Papers › Discrete Mathematics and Combinatorics](https://vwulf.github.io/ettuge/Books/Papers#discrete-mathematics-and-combinatorics) · [arXiv:2509.03490](https://arxiv.org/abs/2509.03490)
 
 Chowla asked how far below zero a cosine sum Σ cos(a_i x) over N distinct frequencies must dip. The bridge to graphs is a spectral fact known since the 1970s: the eigenvalues of the Cayley graph of the frequency set are exactly the values the cosine sum takes, so its smallest eigenvalue measures how low the sum goes. Jin, Milojević, Tomon and Zhang's new input is extremal: a K_r-free graph with no very negative eigenvalue must be dominated by cliques. Ilya Shkredov noticed that this left only large cliques in the Cayley graph to rule out. Tomon did that with a translation argument: shifting a clique by 1 gives another clique, and eventually there are more edges than the sparse Cayley graph can hold.
 
@@ -189,7 +189,7 @@ Why it's easy to confuse with UGC: MaxCut is UGC's most famous problem. But UGC 
 ## 3. Number theory
 
 **The quasi-Riemann hypothesis exists as two documents: a long Lean-checked proof of 7/8 and a short human-read proof of 11/12.**
-[Papers › Analysis and Linear Algebra](../Books/Papers#analysis-and-linear-algebra)
+[Papers › Analysis and Linear Algebra](https://vwulf.github.io/ettuge/Books/Papers#analysis-and-linear-algebra)
 
 The main paper is entry 003 of the Oct 6 release, dated Sep 30, 199 pages. It claims that all Dirichlet L-functions and all finite-order Hecke L-functions over ℚ(√−3) have no zeros with Re s > 7/8, which includes ζ. A 49-page companion pushing the bound to 11/12, dated Oct 5, is the only one of the 722 manuscripts that a human edited, and OpenAI won't say who. OpenAI also names this result (with Hodge for CM abelian varieties) as one of two exceptions to its standard automated procedure, so "the AI did it alone" overstates OpenAI's own account.
 
@@ -282,7 +282,7 @@ The deeper point: RH controls how far primes drift from their average density, w
 ## 4. Millennium problems in mathematical physics
 
 **OpenAI's Navier–Stokes blowup is for the forced equations, and the credit question turned on whether it used the same loophole as Buckmaster and Alpöge.**
-[Papers › Analysis and Linear Algebra](../Books/Papers#analysis-and-linear-algebra)
+[Papers › Analysis and Linear Algebra](https://vwulf.github.io/ettuge/Books/Papers#analysis-and-linear-algebra)
 
 On Sep 8, 2026 OpenAI claimed that smooth 3D Navier–Stokes flow can blow up in finite time. It came with an analytic proof and a Lean formalization, produced by about 10,000 coordinating agents over 88 hours. The catch is an external forcing term. Forced blowup does correspond to two of the four alternatives in Clay's official statement, but the problem is officially unsolved. A solution must appear in a refereed journal and survive two years after acceptance before a committee meets, and OpenAI says it won't take the money.
 
@@ -290,7 +290,7 @@ On Sep 8, 2026 OpenAI claimed that smooth 3D Navier–Stokes flow can blow up in
 
 **The credit dispute.** At launch OpenAI officials said their proof followed the "Spanish program", the Córdoba–Martínez-Zoroa forcing approach that Buckmaster and Alpöge also used. Scientific American (Oct 2026) concluded instead that both proofs exploit the same loophole, the allowance for a force, but construct that force differently, so the resemblance is superficial. The paper did change: a 166-page revision added the Córdoba and Martínez-Zoroa citations after Buckmaster's criticism. Alpöge still sees a closer match to another Euler proof of theirs. Since an LLM's reasoning can't be fully inspected, the credit question is likely to stay open.
 
-**Follow-ups.** "Density of Forces Producing Navier–Stokes Blowup" (Sep 22, [arXiv:2609.26790](https://arxiv.org/abs/2609.26790)) builds on the result. Cheskidov, Dai and Palasek's cascade mechanisms ([arXiv:2609.17642](https://arxiv.org/abs/2609.17642)) prove unforced blowup for a dyadic model. A separate effort asks whether the leading-order profile can be computed and tied to an experiment. The open frontier is the unforced case. For the machine-learning side of the same equations, see [Fourier Neural Operators](../Books/Papers#deep-learning) in the catalogue. **[→ mathematics-science; cross-link → machine-learning-ai]**
+**Follow-ups.** "Density of Forces Producing Navier–Stokes Blowup" (Sep 22, [arXiv:2609.26790](https://arxiv.org/abs/2609.26790)) builds on the result. Cheskidov, Dai and Palasek's cascade mechanisms ([arXiv:2609.17642](https://arxiv.org/abs/2609.17642)) prove unforced blowup for a dyadic model. A separate effort asks whether the leading-order profile can be computed and tied to an experiment. The open frontier is the unforced case. For the machine-learning side of the same equations, see [Fourier Neural Operators](https://vwulf.github.io/ettuge/Books/Papers#deep-learning) in the catalogue. **[→ mathematics-science; cross-link → machine-learning-ai]**
 
 ---
 
@@ -308,7 +308,7 @@ Yang–Mills is the non-abelian gauge theory under the Standard Model: a connect
 
 **Reactions.** Baez: potentially huge and a big first step, but not the prize. Peter Woit called omitting the mass gap "intentionally deceptive". He also noted that merely completing Bałaban's argument on a compact torus would be much weaker than it sounds. The Advisory Group on Mathematics and AI demanded immediate release of the proofs. The standing worry is statement fidelity: does the Lean statement encode the OS axioms on ℝ⁴, the right gauge groups and a non-trivial continuum limit?
 
-The November release, and Armstrong's and Hairer's efforts to reverse-engineer a readable proof from it, are covered in [Lean and AI Formalization › November 2026](../FP/lean-ai-formalization.md). Armstrong's map shows that about 70% of the code is a Bałaban-type ultraviolet renormalization group. The release ran on Lean v4.32.0, which predates the kernel fixes, and no independent kernel had been run. **[→ mathematics-science]**
+The November release, and Armstrong's and Hairer's efforts to reverse-engineer a readable proof from it, are covered in [Lean and AI Formalization › November 2026](https://vwulf.github.io/ettuge/FP/lean-ai-formalization). Armstrong's map shows that about 70% of the code is a Bałaban-type ultraviolet renormalization group. The release ran on Lean v4.32.0, which predates the kernel fixes, and no independent kernel had been run. **[→ mathematics-science]**
 
 ---
 
@@ -348,7 +348,7 @@ A quick test of OpenAI's release is whether it closes the open inputs in Section
 ## 5. Books and formalization
 
 **Riehl's two books mark the two halves of category theory in Lean: the 1-categorical core is essentially done, and ∞-categories are just starting.**
-[Papers › Category Theory](../Books/Papers#category-theory) · [∞-cosmos project](https://emilyriehl.github.io/files/cosmos-project.pdf)
+[Papers › Category Theory](https://vwulf.github.io/ettuge/Books/Papers#category-theory) · [∞-cosmos project](https://emilyriehl.github.io/files/cosmos-project.pdf)
 
 ***Category Theory in Context.*** There is no complete formalization. A hobbyist Lean companion, modelled on Tao's *Analysis I* companion, covers only Chapter 1 §§1–4 with solutions. The book wasn't among ATLAS's 26; the only category-theory text there was Etingof's *Tensor Categories*, 60% done. Mathlib's 1-category library already holds almost all of the content: Yoneda, limits and colimits, adjunctions, monads, Kan extensions, abelian and monoidal categories. What's missing is the book itself, its exercises and its order of presentation.
 
@@ -361,12 +361,12 @@ A quick test of OpenAI's release is whether it closes the open inputs in Section
 
 This is the HoTT story in miniature. Lean can't host univalent foundations, so the Lean track axiomatizes on top of classical 1-, 2- and enriched category theory. The synthetic version needs its own proof assistant. The ∞-cosmos project launched in Sep 2024, co-led with Mario Carneiro and Dominic Verity, and the definition of an ∞-cosmos is formalized. Phase two (2025) builds the 2-category of ∞-categories inside an ∞-cosmos. The hard step, proving that quasi-categories form an ∞-cosmos, is still ahead; it is done once, and then every theorem transfers.
 
-A side result: Carneiro and Riehl ([arXiv:2503.20704](https://arxiv.org/abs/2503.20704), ITP 2025) gave the first formalized proof that the nerve functor is a fully faithful right adjoint and that Cat is cocomplete. Surprisingly, this was missing from every proof-assistant library. Riehl names reviewer bandwidth as the bottleneck, which is the same consolidation problem mathlib has with AI output. Mathlib has very little ∞-category theory, so algebraic K-theory, derived and spectral algebraic geometry and the Langlands programme stay out of reach. For the programming side of the same ideas see [Algebra and Categories](../FP/bucket-algebra-categories.md). **[→ mathematics-science; cross-link → scala-functional-programming]**
+A side result: Carneiro and Riehl ([arXiv:2503.20704](https://arxiv.org/abs/2503.20704), ITP 2025) gave the first formalized proof that the nerve functor is a fully faithful right adjoint and that Cat is cocomplete. Surprisingly, this was missing from every proof-assistant library. Riehl names reviewer bandwidth as the bottleneck, which is the same consolidation problem mathlib has with AI output. Mathlib has very little ∞-category theory, so algebraic K-theory, derived and spectral algebraic geometry and the Langlands programme stay out of reach. For the programming side of the same ideas see [Algebra and Categories](https://vwulf.github.io/ettuge/FP/bucket-algebra-categories). **[→ mathematics-science; cross-link → scala-functional-programming]**
 
 ---
 
 **Meta's ATLAS formalized 26 textbooks at 71%, and the gaps fall exactly where mathlib lacks infrastructure.**
-[Papers › Foundations and Logic](../Books/Papers#foundations-and-logic)
+[Papers › Foundations and Logic](https://vwulf.github.io/ettuge/Books/Papers#foundations-and-logic)
 
 AutoformBot, running mostly Opus 4.6, turned 26 open-access textbooks, mostly MIT OpenCourseWare notes, into about 484K lines and 45,000+ declarations. It formalized 2,855 of 4,007 target statements. Analysis came out near complete: Rodriguez's *Real Analysis* 99%, Helgason's *Complex Variables* 97%, Stanley's *Algebraic Combinatorics* 95%. Lie theory, algebraic geometry and manifolds stalled: Etingof's *Representations of Lie Groups* 40%, Minzer's *Boolean Functions* 41%. Sipser's *Theory of Computation* reached 71%.
 
@@ -376,18 +376,18 @@ The paper's own caveats:
 - in a human review of the Stanley book, the two hardest theorems rested on explicit placeholder axioms
 - each book is a standalone project, not integrated into mathlib
 
-The full table is in [Lean and AI Formalization](../FP/lean-ai-formalization.md). **[→ books-literature; cross-link → mathematics]**
+The full table is in [Lean and AI Formalization](https://vwulf.github.io/ettuge/FP/lean-ai-formalization). **[→ books-literature; cross-link → mathematics]**
 
 ---
 
 **Other books in the same thread.**
 - **Tao, *Analysis I*:** has a Lean companion that shifts from hand-built definitions to mathlib's as it goes. His measure-theory book is in progress.
-- **Niu and Spivak, *Polynomial Functors*:** a UW Math AI Lab formalization target ([Papers › Category Theory](../Books/Papers#category-theory)).
+- **Niu and Spivak, *Polynomial Functors*:** a UW Math AI Lab formalization target ([Papers › Category Theory](https://vwulf.github.io/ettuge/Books/Papers#category-theory)).
 - **Falconer, *Geometry of Fractal Sets*:** one targeted theorem formalized.
 - **CLRS:** the first major milestone of CSLib, the new "mathlib for CS". Isabelle has the strongest record for algorithms, and the largest recent AI effort on CLRS used F*, not Lean.
-- **Bird and Gibbons, *Algorithm Design with Haskell*:** a Lean adaptation reimplements its five design principles (divide and conquer, greedy, thinning, dynamic programming, exhaustive search), with refinement proofs between versions. See [Algorithms, Functionally](../FP/bucket-algorithms.md).
+- **Bird and Gibbons, *Algorithm Design with Haskell*:** a Lean adaptation reimplements its five design principles (divide and conquer, greedy, thinning, dynamic programming, exhaustive search), with refinement proofs between versions. See [Algorithms, Functionally](https://vwulf.github.io/ettuge/FP/bucket-algorithms).
 
-Related popular books in the catalogue: [Fermat's Last Theorem](../Books/influential/fermats-last-theorem.md), now itself formalized in Lean, and [Gödel's Proof](../Books/influential/godels-proof.md). **[→ books-literature]**
+Related popular books in the catalogue: [Fermat's Last Theorem](https://vwulf.github.io/ettuge/Books/influential/fermats-last-theorem), now itself formalized in Lean, and [Gödel's Proof](https://vwulf.github.io/ettuge/Books/influential/godels-proof). **[→ books-literature]**
 
 ---
 
