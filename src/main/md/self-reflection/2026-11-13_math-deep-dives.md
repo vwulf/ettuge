@@ -90,33 +90,78 @@ Entry 102 is "The Unique Games Theorem" (dated Sep 23) plus four companion paper
 
 ---
 
-**If UGC holds, a whole table of approximation thresholds becomes as solid as NP-hardness, and no complexity class moves.**
+**How to read the status: when read, the proof was a week old, Lean-verified, and not yet reviewed by any expert.**
 
-UGC says a gap version of Unique Games is NP-hard. That is a hardness statement inside NP, not a relation between classes. What changes is what an algorithm would mean. Before, beating Goemans–Williamson on Max-Cut would only have refuted UGC. Now it would prove P = NP.
+OpenAI announced the proof on Oct 6 as part of the large release. It came with a Lean proof, but in an AI-generated manuscript with no human editing and no independent expert review. Dana Moshkovitz, who spent years working toward the conjecture, said she couldn't read it without AI help. The Lean certificate is strong evidence that *something* is proved. Experts still have to confirm that the formal statement really is UGC as people mean it. Everything below is conditional on that check, and on P ≠ NP. **[→ algorithms-data-structures]**
 
-| Problem | Threshold that becomes NP-hard to beat | Source of the conditional result |
+---
+
+**If UGC holds, the approximation thresholds that were "UGC-hard" become plain NP-hard, so the best known algorithms become provably optimal.**
+
+For two decades a long list of approximation results read "no polynomial-time algorithm does better than X, *assuming UGC*". A proof removes the assumption.
+
+| Problem | Threshold that becomes NP-hard to beat | Source of the conditional result | What it means |
+|---|---|---|---|
+| Every Max-CSP with no perfect solution | The basic SDP plus rounding | Raghavendra 2008 | One generic algorithm is optimal for the whole class, and every CSP's approximation threshold is pinned down exactly |
+| Max-Cut | ≈ 0.878 (Goemans–Williamson) | Khot–Kindler–Mossel–O'Donnell | The 1995 hyperplane-rounding algorithm cannot be improved |
+| Vertex Cover | 2 − ε | Khot–Regev | The trivial algorithm (take both ends of a maximal matching) is optimal |
+| Sparsest Cut, Balanced Separator, Multicut | No constant factor | various | Graph partitioning has no constant-factor approximation |
+| Several scheduling problems | Tight bounds | various | Known algorithms are optimal |
+
+Entry 102 ships four companion papers that derive these consequences directly: Max-Cut, Vertex Cover, Min-UnCut and directed feedback vertex set. That fits how the result came about. The model was asked to show, without assuming UGC, that the basic SDP threshold is optimal for every CSP. UGC was the route it found, not the target it was given. **[→ algorithms-data-structures]**
+
+---
+
+**The conceptual payoff is a "unified theory of approximability": a low-degree SDP becomes the provably best polynomial-time algorithm across a huge range of problems.**
+
+- **SDP and Sum-of-Squares.** Raghavendra's theorem turns a single recipe, solve the basic SDP relaxation and round it, into the optimal algorithm for every CSP. Sum-of-Squares, the hierarchy of larger SDPs, can't do better in polynomial time either. This is the unified picture people hoped UGC would deliver.
+- **Algorithm design.** Hard Unique Games instances still have a subexponential-time algorithm, exp(n^poly(ε)) (Arora–Barak–Steurer). So any reduction from SAT to Unique Games has to blow the instance up by a large polynomial whose degree grows as ε shrinks, or SAT itself would get a subexponential algorithm, contradicting ETH. (ETH itself was claimed false three weeks later; see the entry below. That claim, if it holds, removes this argument's premise but not the proof of UGC.) The proof's structure should show where that blowup happens.
+- **Research directions.** Mark Braverman's point may matter most in the long run. If researchers can extract the key assumptions in the AI proof, varying them could open new directions, so the result isn't "one and done". **[→ algorithms-data-structures]**
+
+---
+
+**No complexity class changes; what changes is what an algorithm would mean.**
+
+UGC says a gap version of Unique Games is NP-hard. That is a hardness statement *inside* NP, not a relation between classes, and it says nothing about P versus NP itself.
+
+| | Before the proof | After |
 |---|---|---|
-| Every Max-CSP | The basic SDP plus rounding is optimal | Raghavendra 2008 |
-| Max-Cut | ≈ 0.878 (Goemans–Williamson) | Khot–Kindler–Mossel–O'Donnell |
-| Vertex Cover | 2 − ε (the trivial algorithm is optimal) | Khot–Regev |
-| Sparsest Cut, Balanced Separator, Multicut | No constant factor | various |
+| A polynomial-time algorithm beating Goemans–Williamson on Max-Cut, or 2 − ε on Vertex Cover | Would refute UGC | Would prove P = NP |
+| The tight approximation thresholds | Conditional on UGC | As solid as NP-hardness itself |
 
-Other consequences:
-- **A new PCP characterization of NP.** Every NP language has a 2-query PCP whose tests are unique constraints. This describes NP in a new way without changing it, much as the PCP theorem did.
-- **A fine-grained one.** Unique Games has a subexponential algorithm, exp(n^poly(ε)) (Arora–Barak–Steurer). Under ETH, a reduction from SAT must therefore blow up instance size by a polynomial whose degree grows as ε shrinks. Khot's suggestion that Unique Games might sit strictly between P and NP-complete is ruled out.
+Two further consequences describe NP or its running times without moving any class:
+- **A new PCP characterization of NP.** Every NP language has a 2-query PCP whose tests are unique constraints. Like the PCP theorem, this describes NP in a new way without changing it.
+- **Fine-grained structure.** The forced polynomial blowup above is a statement about running times, not about which class a problem is in. It also rules out Khot's suggestion that Unique Games might sit strictly between P and NP-complete, since the gap problem is now NP-complete.
 
-**Khot's open problems, after the proof:**
+The same release does claim a genuine class equality, **L = BPL** (randomized logspace equals deterministic logspace), which would complete a long derandomization programme. It doesn't follow from UGC, and like the rest of the release it was unreviewed. **[→ algorithms-data-structures]**
 
-| Problem | Status |
-|---|---|
-| Higher-degree SDPs beating Goemans–Williamson | "No, unless P = NP" (an unconditional Sum-of-Squares integrality gap is still its own result) |
-| Small-Set Expansion | Open. SSE implies UGC, not the reverse. |
-| 2-Lin over ℝ and the junta question (the Khot–Moshkovitz route) | Open as statements. The reasoning summary shows the model tried this route and dropped it. |
-| Small integrality-gap instances (< 2^K) | Open |
+---
 
-Two corrections to a talk summary that was read alongside: n^O(log n) is quasi-polynomial time, not the Arora–Barak–Steurer subexponential bound. And the standard Small-Set Expansion statement compares "some δ-set expands ≤ ε" with "every δ-set expands ≥ 1 − ε", not ½.
+**Against Khot's own list of open problems, the proof settles two and leaves the rest open, because of the route it takes.**
 
-**The neighbouring conjecture.** UGC says nothing about instances with perfect solutions, which is why Khot also posed the 2-to-1 conjecture. OpenAI's release claims that one too, without human review. Independently, Fei, Minzer and Wang proved a 4-to-1 version by hand in September. It settles the decades-old question of whether 3-colourable graphs stay hard to colour with any fixed number of extra colours: they do. The same release also claims L = BPL (randomized logspace equals deterministic logspace), a genuine class equality unrelated to UGC. Braverman's point may matter most in the long run: if the key assumptions in the AI proof can be extracted, varying them could open new directions. **[→ algorithms-data-structures]**
+Khot's talk on UGC listed open problems around the conjecture. With the proof's route in hand, each can be scored:
+
+| Khot's problem | Status after the proof | Why |
+|---|---|---|
+| Intermediate complexity (from the Q&A): is Unique Games strictly between P and NP-complete? | **Settled: no** | The gap problem becomes NP-hard. The subexponential algorithm still stands, so the SAT reduction must have a large polynomial blowup. |
+| OP 4: can higher-degree SDPs beat Goemans–Williamson on Max-Cut? | **Settled: no, unless P = NP** | A degree-K SDP is solvable in polynomial time for fixed K, so beating 0.878 with one would put NP in P. An *unconditional* Sum-of-Squares integrality-gap proof would still be a separate result. |
+| OP 1: Small-Set Expansion | Open | SSE implies UGC, not the reverse, so proving UGC leaves the stronger conjecture and its graph families open. |
+| OP 2 and 3: 2-Lin over ℝ, and the junta question | Open as statements | These were steps on Khot and Moshkovitz's proposed route to UGC. The reasoning summary shows the model tried that route, and subexponential/SSE algorithms, and set both aside. They matter less as a path to UGC but remain interesting in their own right. |
+| OP 5: basic-SDP integrality-gap instances smaller than 2^K | Open | Knowing hard instances exist doesn't show small gap instances exist. |
+
+The question that decided this table was which route the proof takes. Had it gone through Small-Set Expansion, or answered OP 1 or OP 3 along the way, more of the list would have fallen. It goes through 2-to-2 games and the latent alphabet gadget instead, so those problems are untouched.
+
+Two corrections to the summary of the talk that was read alongside:
+- **Time bounds:** n^O(log n) is quasi-polynomial time, not the Arora–Barak–Steurer subexponential bound exp(n^poly(ε)).
+- **SSE statement:** the standard Small-Set Expansion statement compares "some δ-sized set expands ≤ ε" with "every δ-sized set expands ≥ 1 − ε". The summary's ½ may be Khot's simplification in the talk. **[→ algorithms-data-structures]**
+
+---
+
+**UGC covers only instances with no perfect solution; the perfect-completeness cousins were settled separately, one by hand.**
+
+- **The 2-to-1 conjecture.** Khot posed this for instances where every constraint *can* be satisfied, which UGC doesn't address. OpenAI's release claims a proof of it too, again in an AI-generated manuscript with no human editing or expert review.
+- **4-to-1, by hand.** In September, before the release, Fei, Minzer and Wang (Minzer's MIT group) raced out a proof of the weaker 4-to-1 version. It implies that 3-colourable graphs stay hard to colour even with any fixed number of extra colours, a decades-old open problem now settled without AI.
+- **The race.** Quanta framed the episode as researchers racing the machines to the result. Minzer's group got its result out first; the AI release then claimed the full conjectures. **[→ algorithms-data-structures]**
 
 ---
 
