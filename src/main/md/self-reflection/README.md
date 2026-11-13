@@ -46,6 +46,7 @@ Published at [vwulf.github.io/ettuge/Reflection](https://vwulf.github.io/ettuge/
 | 11 | [Algorithms & Data Structures](./2026-02-25_algorithms-data-structures.md) | LeetCode solutions in Scala, competitive programming patterns, CRDTs, compiler design |
 | 12 | [Infrastructure & DevOps](./2026-02-25_infrastructure-devops.md) | Nix/NixOS, Kubernetes, Terraform, cloud-native patterns, Rust CLI tools |
 | 13 | [Data Engineering](./2026-02-25_data-engineering.md) | Spark, Flink, Hudi, lakehouse architecture, distributed systems |
+| 21 | [Math Deep Dives](./2026-11-13_math-deep-dives.md) | Close readings of 2026 AI-math papers (UGC, ETH, quasi-RH, Navier–Stokes, Yang–Mills), Goldbach, prime gaps, Riehl, textbook formalization |
 
 ### Lifestyle & Personal
 

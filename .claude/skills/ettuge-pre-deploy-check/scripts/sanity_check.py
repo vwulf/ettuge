@@ -3,7 +3,7 @@
 ettuge pre-deploy sanity checker.
 Run from the repo root: python3 .claude/skills/ettuge-pre-deploy-check/scripts/sanity_check.py
 """
-import os, re, sys, ast
+import os, re, sys, ast, glob
 
 import subprocess
 # Accept repo path as first arg, or detect via git, or fall back to cwd
@@ -76,9 +76,10 @@ else:
 # ── 4. Every REFL_CATS file has a matching source file ───────────────────────
 nav_orders = []
 for fname, title, nav_order in refl_cats:
-    # Source files are named 2026-02-25_{stem}.md
+    # Source files are named YYYY-MM-DD_{fname}; CI copies 2026-*_*.md
     stem = os.path.splitext(fname)[0]
-    src = os.path.join(REFL_SRC, f'2026-02-25_{fname}')
+    matches = sorted(glob.glob(os.path.join(REFL_SRC, f'2026-*_{fname}')))
+    src = matches[0] if matches else os.path.join(REFL_SRC, f'2026-02-25_{fname}')
     if not os.path.exists(src):
         # Try without date prefix (some files may not have it)
         src2 = os.path.join(REFL_SRC, fname)

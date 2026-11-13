@@ -80,7 +80,7 @@ jobs:
         run: |
           rm -rf docs/Reflection || true
           mkdir -p docs/Reflection
-          for f in src/main/md/self-reflection/2026-02-25_*.md; do
+          for f in src/main/md/self-reflection/2026-*_*.md; do
             dest="docs/Reflection/$(basename "$f" | sed 's/^[0-9-]*_//')"
             cp "$f" "$dest"
           done
@@ -864,6 +864,7 @@ jobs:
               # career-personal.md — filtered for now (too personal)
               # current-events-politics.md — filtered for now
               ('miscellaneous.md',                  'Miscellaneous',               20),
+              ('math-deep-dives.md',                'Math Deep Dives',             21),
           ]
 
           if os.path.isdir(REFLDIR):
