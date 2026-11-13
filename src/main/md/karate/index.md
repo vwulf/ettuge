@@ -51,6 +51,10 @@ I practice at Karate Sunnyvale under Sensei Jordan Du Val, with Sensei Stephen T
 - Martial arts beyond Matsubayashi — a reading and watching list *(later)*
 - Reflections across traditions — Kalaripayattu, silambam, HEMA, judo, tai chi *(long-term, post-test)*
 
+## Part 8 — Reading the sources
+
+- [Reading the sources](50-reading-the-sources): notes on Motobu, Nagamine's two books and Quast, covering the order of kata and application, curriculum as dissent, and what kata names record
+
 ## A note on sources
 
 Where I cite Nagamine, I mean *The Essence of Okinawan Karate-Dō* (Charles E. Tuttle, 1976), translated by Shinzato Katsuhiko. Where I cite historical karate research, I mean Andreas Quast's *A Stroll Along Ryukyu Martial Arts History* and related work, and Patrick McCarthy's *Bubishi* and *Tales of Okinawa's Great Masters* (the latter his translation of Nagamine's second book). Where I cite my teachers, I draw on seminar teaching, email exchanges, and personal instruction over the years.

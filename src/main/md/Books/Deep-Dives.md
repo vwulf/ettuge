@@ -58,9 +58,7 @@ Sources: [Papers › Linguistics and Languages](Papers#linguistics-and-languages
 
 ## Martial Arts
 
-**Reading Nagamine between the lines.** Read alongside Motobu's *My Art of Karate*, Nagamine's *Essence of Okinawan Karate-Do* supports a *honne/tatemae* reading. Writing under postwar political constraints, Nagamine encoded disagreement with the Itosu school-karate trajectory through curriculum rather than argument: keeping Motobu's Naihanchi, citing Motobu's approval of yakusoku kumite, and retaining the full Tomari-te stream.
-
-**Language policy left fingerprints in kata names.** Under the ban on Okinawan in schools, kata taught in the school system acquired Sino-Japanese kanji names, such as Gōjūshiho (五十四歩). Kata passed on informally kept katakana names that point to non-Japanese origins. Uchinaaguchi sound correspondences (o→u, e→i, ki→chi, h→f before a, and more) make many older names legible again. One example: *Shuri* already means castle, so *Shuri-jō* is a cross-language tautology. More in [Karate](../karate/index.md).
+**What the karate sources say between the lines.** Motobu argues about the order in which kata and application are trained. Nagamine shows dissent through curriculum choices under *honne/tatemae*, and *Tales* gives the older masters their full weight. The *hōgen* ban left its mark on kata names, and attested kobudō names show competing Uchinaaguchi sound rules. Each is covered in [Karate › Reading the sources](../karate/50-reading-the-sources).
 
 ## Health and Nutrition
 
