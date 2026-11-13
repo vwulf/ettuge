@@ -19,8 +19,15 @@ The algebraic structures used every day in Scala and Haskell (semigroups, monoid
 - *Markov categories* (Fritz) do probability synthetically. Conditional independence and sufficient statistics become properties of string diagrams, with no measure theory up front.
 - *∞-categories*: Riehl and Verity's *Elements of ∞-Category Theory* develops the theory model-independently through ∞-cosmoi. The ∞-cosmos Lean blueprint and Carneiro and Riehl's *Formalizing Colimits in Cat* show what changes when that mathematics has to be machine-checked (more in [Proof and Formalization](bucket-proof-formalization.md)).
 
+**Transformers need only applicative structure, which gives them a partial denotational semantics.**
+Funcformer rewrites attention and the MLP using only `pair` (the monoidal laxator) and a `counit` that generalises summation, so any applicative can replace `Vector N`. Using the Reader functor `Float -> a` turns dot products into L² inner products and matrix products into integral operators. That places the construction in neural-operator territory, and the post tests it on Poisson's equation. The companion papers on the anatomy of attention and a pattern language for ML tasks give the diagrammatic calculus. Still open: the semantics covers a single forward pass, not the sampling loop built on top of it.
+[Papers › Deep Learning](../Books/Papers#deep-learning) · [Papers › Functional Programming](../Books/Papers#functional-programming)
+
+**A chat loop has the shape of a category, but the proofs stop where the model starts.**
+Take context states as objects and exchanges as morphisms. Skills then act like functors, memory like a coalgebra (Spivak's polynomial functors), the feedback loop like a trace (Joyal–Street–Verity), and sampling like a Markov category (Fritz). That structure is descriptive until the model step has a denotation. Restricting morphisms to size-decreasing transformations, as λ-RLM does, is the piece that makes it provable. Still open: the top layer, the full interpreter with memory and skills.
+[Papers › Category Theory](../Books/Papers#category-theory)
+
 **Categories meet machine learning.**
-- *Funcformer* (Laakkonen) rebuilds the transformer from applicative functors, so attention can run over functions, graphs or distributions as well as vectors.
 - *On the Anatomy of Attention* breaks attention variants into shared diagrammatic building blocks. Its companion *pattern language for ML tasks* specifies tasks independently of architecture.
 
 **Compositional structure can be defined as the extra description length a whole's model needs beyond its parts' models.**

@@ -34,6 +34,10 @@ The model named which game a policy was trained on from its weights alone. It fo
 **Mechanistic interpretability can find signals that behavioral tests miss, but whether it makes models safer is still mostly untested.**
 This survey covers SAEs, circuit discovery with causal checks, probes and training-data attribution. It sorts the field into six research orientations that trade scalability against robustness to deception. It proposes judging explanations on faithfulness, completeness, stability, causal validity and human interpretability, because plausibility alone rewards convincing wrong stories. Its key example is a linear probe catching a planted backdoor at >99% AUROC, which does not show that models can detect deception in general. Reviewed from the abstract and overview, because arXiv rate-limited the full text. [Papers › AI and Machine Learning › Large Language Models](Papers#large-language-models)
 
+**BendTorch's real result is its oracle harness, not its speed.**
+Every training step is checked against PyTorch eager, with the same weights and batches and a per-step tolerance. Only PyTorch eager and BendTorch pass all four workloads. Most framework drift traced to small numeric choices: AdamW bias correction done in float32 instead of double, where epsilon sits, float32 loss summation, and silent TF32. Speed: 3–6× slower than PyTorch on large matrix products (no BLAS), faster on tiny models where dispatch dominates, and a weak GPU path. Still open: the author built both the harness and the fixes for the other frameworks, and it is one machine and one run.
+[Papers › Deep Learning](Papers#deep-learning)
+
 Sources: [Papers › AI and Machine Learning](Papers#ai-and-machine-learning), [Technical › Deep Learning](Technical#deep-learning).
 
 ## LLM Inference Serving
