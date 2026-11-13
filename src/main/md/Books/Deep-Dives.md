@@ -15,7 +15,13 @@ Short summaries of the discussions behind the 🔍 entries in [Papers](Papers.md
 
 **One operator for all elementary functions, then Kannada names for it.** Odrzywołek shows that eml(x, y) = eˣ − ln y, together with the constant 1, generates every elementary function. It is the continuous analogue of a NAND gate, with grammar S → 1 | eml(S, S). Since eˣ = eml(x, 1), Euler's formula, cos and sin all reduce to trees of one node. The discussion then turned into an Ellara Kannada coinage exercise: a nine-symbol notation with no Latin letters. ಏ stands for exp, ಅ for ln, ಎ = ಏ − ಅ for eml itself, ಇ for the imaginary unit and ತಿ (from ತಿಳಿಯದ, "the unknown") for the variable. π is ಸುತ್ತುಪಾಲು, and the trig functions form a ಪಾಲು ("ratio") family: ನೇರಪಾಲು, ಪಕ್ಕಪಾಲು and ತಾಗುಪಾಲು. ತಾಗುಪಾಲು ("touching ratio") keeps the geometric meaning of *tangent* that the English word has lost. The full notation is in [Ellara Kannada Deep Dives](../Reflection/ellara-kannada-deep-dives.md).
 
-**Complexity, number theory and the Millennium problems.** The Unique Games proof, the ETH refutation claim, Chowla and MaxCut, the quasi-Riemann results, Navier–Stokes and Yang–Mills each have their own section in [Math Deep Dives](../Reflection/math-deep-dives.md).
+**Complexity, number theory and the Millennium problems.** Each has its own section in [Math Deep Dives](../Reflection/math-deep-dives.md):
+- [the OpenAI release](../Reflection/math-deep-dives#ch1) (what was verified, and the six results covered in depth)
+- [complexity theory](../Reflection/math-deep-dives#ch2): the Unique Games proof skeleton, SDP, the ETH refutation and which problems inherit it, Chowla via MaxCut
+- [number theory](../Reflection/math-deep-dives#ch3): quasi-RH 7/8 and 11/12, Siegel zeros, prime gaps, Goldbach
+- [mathematical physics](../Reflection/math-deep-dives#ch4): Navier–Stokes and the credit dispute, the two Yang–Mills efforts
+- [books and formalization](../Reflection/math-deep-dives#ch5): Riehl, ATLAS, CLRS
+- [themes across them](../Reflection/math-deep-dives#ch6)
 
 Sources: [Papers › Mathematics](Papers#mathematics), [Technical › Topology and Geometry](Technical#topology-and-geometry).
 
