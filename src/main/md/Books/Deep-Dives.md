@@ -59,14 +59,36 @@ Sources: [Papers › Linguistics and Languages](Papers#linguistics-and-languages
 
 ## Health and Nutrition
 
-The evidence discussed, without personal data:
+These summaries cover only the published evidence and include no personal measurements.
 
-- **Protein source matters more than protein amount** for cardiometabolic risk. In large US cohorts, a higher plant-to-animal protein ratio tracked with lower coronary risk, and replacing animal with vegetable protein tracked with lower type 2 diabetes risk.
-- **Dietary patterns and healthy aging.** Over about 30 years, every healthy pattern helped, and the AHEI was strongest.
-- **Creatine in middle and older age.** It increased lean mass and strength even without exercise, and more when combined with training and diet.
-- **Protein restriction with methionine added back** (Longo lab) raised growth hormone, GLP-1 and FGF21 and reduced frailty in that model.
-- **Sitting physiology.** Hadza squatting is "active rest". Textile EMG shows leg-muscle activity fading during long sitting, with about 25 minutes as a possible tipping point.
-- **Population differences.** In GlasVEGAS, similar weight gain produced worse metabolic changes in South Asian men than in white European men. This is a reason to read DXA visceral-fat values against population reference ranges.
-- **Other threads:** magnesium and serum lipids (a systematic review of 29 RCTs), and MCT1-mediated lactate import as the heart's backup fuel route.
+**Plant-heavy diets with some animal food came out best for healthy aging, and the strictly plant-based index came out worst.**
+Tessier et al. scored eight dietary-pattern indices against a composite "healthy aging" outcome: reaching 70 free of major chronic disease, with cognitive, physical and mental health intact. Every healthy pattern helped. The AHEI was strongest, and the healthful plant-based index (hPDI), which penalises all animal foods, was weakest. That result is the one popular summaries tend to leave out. The data are self-reported food-frequency questionnaires from US health professionals, so the findings are associations. [Papers › Health and Nutrition](Papers#health-and-nutrition)
 
-Sources: [Papers › Health and Nutrition](Papers#health-and-nutrition), [Papers › Other](Papers#other).
+**The plant-to-animal protein benefit for heart disease is a substitution effect, mostly from replacing red and processed meat.**
+In Glenn et al., the highest plant-to-animal protein ratio was associated with about 19% lower cardiovascular risk and about 27% lower coronary risk. Because the exposure is a ratio, the effect depends on which animal protein gets displaced, which is why dairy and fish can look neutral or positive in other analyses. The cohort median moved only from roughly 1:3 to 1:2, so even the top group ate more animal than plant protein. The editorial that ran with it (Mariotti) is still unread. [Papers › Health and Nutrition](Papers#health-and-nutrition)
+
+**Animal protein tracks higher type 2 diabetes risk, but the headline 23% is the result of a swap, not of cutting back.**
+Malik et al. found modestly higher diabetes risk with more animal protein and slightly lower risk with more vegetable protein. Swapping 5% of energy from animal to vegetable protein was associated with about 23% lower risk. That figure is often quoted as a main effect when it is a substitution result. This paper uses the same Nurses' Health Study and Health Professionals cohorts, and largely the same authors, as Tessier and Glenn, so the three are one research programme rather than three independent confirmations. [Papers › Health and Nutrition](Papers#health-and-nutrition)
+
+**Adding methionine back to a low-protein longevity diet targets frailty, not lifespan.**
+Fanti et al. (Longo lab) fed aged, genetically diverse mice a low-protein, plant-based diet with methionine added. Fat mass and frailty fell with no loss of lean mass, IGF-1 dropped, and growth hormone, GLP-1 and FGF21 rose. FGF21 was required for the fat-loss and insulin effects. Maximum lifespan did not change: lifespan and frailty respond to protein along different curves, and methionine is tuned against the frailty curve. The human data are cross-sectional only, the authors disclose patents and a commercial interest, and a human trial is the stated next step. Longo's book *The Longevity Diet* gives the prescriptive version. [Papers › Health and Nutrition](Papers#health-and-nutrition)
+
+**Creatine raised lean mass and strength without exercise, but part of the lean-mass gain is probably water.**
+In the Texas A&M trial (Chun, Kreider et al.), adults aged 45–65 took 10 g/day of creatine or placebo for 12 weeks. Lean mass rose about 1 kg even in people doing no exercise, and strength rose too. Creatine pulls water into muscle and DXA counts that water as lean tissue, so the strength gains are the more convincing result. Two open questions: the exercise arms were self-selected rather than randomised, and an earlier two-year trial in older women found no benefit without resistance training. [Papers › Health and Nutrition](Papers#health-and-nutrition)
+
+**Leg-muscle activity fades within minutes of sitting down, and roughly 25 minutes may be a tipping point.**
+Brakenridge et al. measured thigh-muscle activity in real-world sitting with EMG sensors built into shorts. During continuous sitting, activity decays roughly as a power law: it is present about 10% of the time after ~9 minutes and about 1% after ~26 minutes. People whose sitting bouts were usually under 25 minutes had about 50% more muscle activity per hour of sitting. The study is small (84 people) and observational, and "break every 25 minutes" is an extrapolation, not a tested intervention. [Papers › Health and Nutrition](Papers#health-and-nutrition)
+
+**How you rest matters: squatting and kneeling keep the leg muscles working, and a chair does not.**
+Raichlen et al. found that Hadza hunter-gatherers rest about as many hours a day as office workers, but mostly squatting, kneeling or sitting on the ground. These postures keep the postural muscles lightly active. The authors' "inactivity mismatch" hypothesis says the harm comes from prolonged muscular inactivity, not from rest as such, which is the same mechanism Brakenridge measures. No one has yet tied squat-resting directly to metabolic outcomes. [Papers › Health and Nutrition](Papers#health-and-nutrition)
+
+**DXA visceral-fat readings only mean something against reference values, and those depend on the population and the device.**
+The Tromsø Study gives age- and sex-specific reference values for DXA visceral fat in adults over 40. Each age band has its own median and metabolic-syndrome threshold, and the bands are wide enough that one reading can sit in a different place depending on which band it's compared with. The standard visceral ratio divides by abdominal fat, not total body fat, so the two kinds of percentage can't be compared. The values come from one European cohort on one scanner type, so the trend across a person's own scans tells you more than a single figure. [Papers › Health and Nutrition](Papers#health-and-nutrition)
+
+**At the same weight gain, South Asian men stored more visceral and ectopic fat and lost far more insulin sensitivity than white European men.**
+In GlasVEGAS (McLaren et al.), matched men were overfed to about a 4.5 kg gain. European men put roughly three times more of it into lean tissue. Insulin sensitivity fell about 38% in the South Asian men versus about 7% in the Europeans, consistent with limited room to expand subcutaneous fat, so the excess spills over into the viscera and liver. "More visceral fat at the same BMI" is well established and is why Asian BMI and waist cut-offs are lower. "More of each added kilogram goes to visceral fat" is supported, but exact coefficients are not pinned down. Read via write-ups, not the full paper. [Papers › Health and Nutrition](Papers#health-and-nutrition)
+
+**The heart burns lactate inside its mitochondria, but the paper shows that the pathway is needed, not that more lactate helps.**
+Cluntun et al. show that in mouse heart muscle, the transporter MCT1 imports lactate into mitochondria, where LDHB oxidises it. Glucose oxidation in the cytosol can run at the same time, whereas in most tissues the two fuels compete. Without MCT1, hearts failed to adapt to pressure overload or ischaemia. Knockout mice nonetheless had normal heart function and treadmill capacity, because the pyruvate carrier covers for MCT1 at baseline. The paper has no sufficiency test (no overexpression, lactate supplementation or training), so it does not show that exercise or lactate exposure strengthens the heart. For lactate as a training signal in skeletal muscle, it points to Zhang et al. (*Science Advances*, 2024), still unread. [Papers › Health and Nutrition](Papers#health-and-nutrition)
+
+**Other threads.** A systematic review of 29 RCTs on magnesium and serum lipids. [Papers › Other](Papers#other)
