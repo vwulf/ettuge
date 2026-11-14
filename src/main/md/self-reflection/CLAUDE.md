@@ -37,6 +37,7 @@ This directory contains topic-based derivatives of `self.md` and `self-1.md`, pe
 | `2026-11-13_math-deep-dives.md` | Deep-dive gists of 2026 AI-math papers and math books (not derived from self.md) | Math Deep Dives |
 | `2026-11-13_ellara-kannada-deep-dives.md` | Deep-dive notes from the Ellara Kannada project: DNS Bhat readings, classical texts, coinage (not derived from self.md) | Ellara Kannada Deep Dives |
 | `2026-11-13_fitness-deep-dives.md` | Deep-dive notes from the Fitness project: nutrition, body-composition and exercise-physiology papers, training methods; no personal data (not derived from self.md) | Fitness Deep Dives |
+| `2026-11-13_ai-deep-dives.md` | Deep-dive notes from AI/ML reading sessions: transformer theory, attention as algorithm, interpretability, architecture, training systems, serving and evals; no personal data (not derived from self.md) | AI Deep Dives |
 
 ### Not Published (filtered deliberately)
 
