@@ -34,10 +34,6 @@ This directory contains topic-based derivatives of `self.md` and `self-1.md`, pe
 | `2026-02-25_cricket-sports.md` | Match commentary, IPL analysis, player profiles, sports analytics | Cricket & Sports |
 | `2026-02-25_travel-outdoors.md` | Hiking, adventure sports, Bay Area food, extreme sports | Travel & Outdoors |
 | `2026-02-25_miscellaneous.md` | **Retired stub** — all content redistributed to the 19 files above | Miscellaneous |
-| `2026-11-13_math-deep-dives.md` | Deep-dive gists of 2026 AI-math papers and math books (not derived from self.md) | Math Deep Dives |
-| `2026-11-13_ellara-kannada-deep-dives.md` | Deep-dive notes from the Ellara Kannada project: DNS Bhat readings, classical texts, coinage (not derived from self.md) | Ellara Kannada Deep Dives |
-| `2026-11-13_fitness-deep-dives.md` | Deep-dive notes from the Fitness project: nutrition, body-composition and exercise-physiology papers, training methods; no personal data (not derived from self.md) | Fitness Deep Dives |
-| `2026-11-13_ai-deep-dives.md` | Deep-dive notes from AI/ML reading sessions: transformer theory, attention as algorithm, interpretability, architecture, training systems, serving and evals; no personal data (not derived from self.md) | AI Deep Dives |
 
 ### Not Published (filtered deliberately)
 
@@ -65,3 +61,5 @@ When deriving new files from updated `self.md`/`self-1.md` content:
 2. Add a frontmatter block with `title`, `created`, and `source`.
 3. Group by primary subject domain.
 4. Add a row to the table in `README.md` and this `CLAUDE.md` table above.
+
+> The deep-dive pages (Math, AI, Fitness, Ellara Kannada) moved to `src/main/md/deep-dives/` on 2026-11-13 and publish under the top-level **Deep Dives** section. Reflection keeps the raw, unprocessed notes.

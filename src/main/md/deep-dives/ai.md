@@ -13,12 +13,12 @@ source: deep-dive reading sessions on AI/ML papers, books and posts (Oct–Nov 2
 These notes come from close readings of machine-learning books, papers and blog posts. Most were weeks old when read. Each entry states the claim, how it works, and what is still open. Where only an abstract, an overview or companion preprints were read, the entry says so. Several sources are blog posts or unrefereed preprints, so treat their numbers as the authors' own.
 
 **Related pages on this site**
-- [Deep Dives](https://vwulf.github.io/ettuge/Books/Deep-Dives): the index of all deep dives, across topics.
+- [Deep Dives](https://vwulf.github.io/ettuge/Deep-Dives/): the index of all deep dives, across topics.
 - [Papers › AI and Machine Learning](https://vwulf.github.io/ettuge/Books/Papers#ai-and-machine-learning) and [Technical › Deep Learning](https://vwulf.github.io/ettuge/Books/Technical#deep-learning): the 🔍 catalog entries for everything discussed here.
 - [Effects and LLM Systems](https://vwulf.github.io/ettuge/FP/bucket-effects-llm): λ-RLM, RLM, Context LMs, DSPy as effects, OpenClaw-RL and typed decision models, seen from functional programming.
 - [Decision Points as Effects](https://vwulf.github.io/ettuge/FP/decision-points-as-effects): the rules → decision model → reasoning model cascade, with measured latencies.
 - [Algorithms, Functionally](https://vwulf.github.io/ettuge/FP/bucket-algorithms) and [Algebra and Categories](https://vwulf.github.io/ettuge/FP/bucket-algebra-categories): recursion schemes, applicatives and categorical accounts of attention.
-- [Math Deep Dives › Millennium problems](https://vwulf.github.io/ettuge/Reflection/math-deep-dives/ch4): Navier–Stokes, which neural operators (chapter 5) also target.
+- [Math Deep Dives › Millennium problems](https://vwulf.github.io/ettuge/Deep-Dives/math/ch4): Navier–Stokes, which neural operators (chapter 5) also target.
 - [Machine Learning & AI](https://vwulf.github.io/ettuge/Reflection/machine-learning-ai/ch1): older links and notes on the same field.
 
 **Contents**
@@ -294,7 +294,7 @@ SpikingBrain-7B and 76B-A12B are linear-attention and MoE models converted from 
 **Neural operators learn maps between function spaces, so one trained model works across discretizations.**
 [Papers › Deep Learning](https://vwulf.github.io/ettuge/Books/Papers#deep-learning)
 
-*Neural Operator* (JMLR 2023) generalizes networks to operators between infinite-dimensional function spaces, with discretization-invariant architectures for PDE solution maps. The *Fourier Neural Operator* (ICLR 2021) parameterizes the integral kernel in Fourier space, giving fast, resolution-independent solvers for PDE families such as Navier–Stokes. That links it to the blowup work in [Math Deep Dives › Millennium problems](https://vwulf.github.io/ettuge/Reflection/math-deep-dives/ch4). A fast surrogate is not a proof, though: neural operators approximate smooth solution maps, which is exactly what breaks near a singularity. **[→ machine-learning-ai; cross-link → mathematics]**
+*Neural Operator* (JMLR 2023) generalizes networks to operators between infinite-dimensional function spaces, with discretization-invariant architectures for PDE solution maps. The *Fourier Neural Operator* (ICLR 2021) parameterizes the integral kernel in Fourier space, giving fast, resolution-independent solvers for PDE families such as Navier–Stokes. That links it to the blowup work in [Math Deep Dives › Millennium problems](https://vwulf.github.io/ettuge/Deep-Dives/math/ch4). A fast surrogate is not a proof, though: neural operators approximate smooth solution maps, which is exactly what breaks near a singularity. **[→ machine-learning-ai; cross-link → mathematics]**
 
 ---
 

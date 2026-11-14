@@ -16,8 +16,8 @@ These notes come from close readings of papers, preprints and books, mostly the 
 - [Lean and AI Formalization](https://vwulf.github.io/ettuge/FP/lean-ai-formalization): Lean's foundations, how much mathematics is formalized, kernel trust, and the case studies (graph isomorphism, Aaronson–Ambainis, Mordell, the Yang–Mills Lean release).
 - [Proof and Formalization](https://vwulf.github.io/ettuge/FP/bucket-proof-formalization): short gists on the same theme.
 - [Papers](https://vwulf.github.io/ettuge/Books/Papers): the catalogue entries (marked 🔍) for each paper discussed here, under [Analysis and Linear Algebra](https://vwulf.github.io/ettuge/Books/Papers#analysis-and-linear-algebra), [Discrete Mathematics and Combinatorics](https://vwulf.github.io/ettuge/Books/Papers#discrete-mathematics-and-combinatorics), [Category Theory](https://vwulf.github.io/ettuge/Books/Papers#category-theory), [Foundations and Logic](https://vwulf.github.io/ettuge/Books/Papers#foundations-and-logic), [History of Mathematics](https://vwulf.github.io/ettuge/Books/Papers#history-of-mathematics) and [Theory of Computation](https://vwulf.github.io/ettuge/Books/Papers#theory-of-computation).
-- [Deep Dives](https://vwulf.github.io/ettuge/Books/Deep-Dives): the cross-topic index of deep dives.
-- [Ellara Kannada Deep Dives › ಎ-ಎಣಿಕೆ](https://vwulf.github.io/ettuge/Reflection/ellara-kannada-deep-dives/ch6): the one-operator (eml) result and its Kannada notation.
+- [Deep Dives](https://vwulf.github.io/ettuge/Deep-Dives/): the cross-topic index of deep dives.
+- [Ellara Kannada Deep Dives › ಎ-ಎಣಿಕೆ](https://vwulf.github.io/ettuge/Deep-Dives/ellara-kannada/ch6): the one-operator (eml) result and its Kannada notation.
 
 **Contents**
 1. [The OpenAI math release](ch1)
