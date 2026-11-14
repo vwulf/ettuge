@@ -46,10 +46,10 @@ Sources: [Papers › Mathematics](../Books/Papers#mathematics), [Technical › T
 - [attention as an algorithm](ai/ch2): soft lookup versus DP, semirings, the temperature scale from lookup to join, RASP and Tracr
 - [compositional structure](ai/ch3): the MDL definition, and its decomposition tree as a rose tree
 - [networks as programs](ai/ch4): the mechanistic-interpretability survey and weight-space programming
-- [architecture](ai/ch5): MoE, GQA, MLA, Mamba, diffusion LMs, TTT, Titans, Mixture of Depths, SpikingBrain against Hinton, neural operators
+- [architecture](ai/ch5): MoE, GQA, MLA, Mamba, diffusion LMs, TTT, Titans, Mixture of Depths, SpikingBrain against Hinton, neural operators and what changed since FNO
 - [training at scale](ai/ch6): tensor, pipeline, sequence, context and expert parallelism, ZeRO/FSDP, mixed precision, FlashAttention, checkpointing, how they stack, BendTorch's oracle harness
 - [serving and judging](ai/ch7): disaggregated prefill/decode, decision models (Laya, Jev) versus reasoning models, decision models as eval judges
-- [themes across them](ai/ch8)
+- [themes across them](ai/ch8), including Fourier analysis as a recurring tool
 
 Sources: [Papers › AI and Machine Learning](../Books/Papers#ai-and-machine-learning), [Papers › LLM Inference Serving](../Books/Papers#llm-inference-serving), [Technical › Deep Learning](../Books/Technical#deep-learning).
 
