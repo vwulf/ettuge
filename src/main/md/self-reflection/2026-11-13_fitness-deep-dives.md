@@ -190,6 +190,15 @@ Cardiorespiratory fitness is one of the strongest predictors of all-cause mortal
 
 ---
 
+**For disease risk, the benefit keeps growing until about 3,000–4,000 MET-minutes a week, roughly 900 minutes of brisk walking or its equivalent. That is several times the guideline minimum.**
+Kyu et al. (*BMJ*, 2016) ran a dose-response meta-analysis for the Global Burden of Disease study. It pooled 174 prospective cohort studies of *total* physical activity (leisure, work, transport and household) against breast cancer, colon cancer, diabetes, ischaemic heart disease and ischaemic stroke. The guideline minimum is 600 MET-minutes a week, about 150 minutes of brisk walking (≈4 METs) or 75 minutes of running. Risk kept falling well past that. Most of the gain came by 3,000–4,000 MET-minutes a week, and returns diminished beyond. For diabetes, going from 600 to 3,600 MET-minutes a week cut risk by a further 19%, but going from 9,000 to 12,000 cut it by only 0.6%. Compared with insufficiently active people (<600), the highly active (≥8,000) had 14–28% lower risk across the five diseases.
+
+At 4 METs, 3,600 MET-minutes is 900 minutes a week, which is the origin of a 900-minute weekly target. Watch "intensity minutes" are close to MET-weighted, because vigorous minutes count double, so they roughly track the same quantity. Two caveats. Kyu counts activity in every domain, not just exercise, so 900 minutes of workouts alone is more than the curve needs. And the curve comes from self-reported, observational data.
+
+The mortality picture is flatter. Arem et al. (*JAMA Internal Medicine*, 2015) pooled about 661,000 adults and found 31% lower mortality at one to two times the leisure-time guideline. Mortality benefit topped out at 39% lower around three to five times the guideline (roughly 450–750 moderate minutes a week), with no harm even at ten times. So most of the *survival* benefit arrives early, while *disease-specific* risk keeps improving at higher volumes. The two papers are complementary. Neither shows that the extra volume itself is causal, and the most active people differ in other ways too. **[→ health-fitness]**
+
+---
+
 <a id="ch7"></a>
 ## Interval formats and cross-training
 
@@ -304,7 +313,7 @@ The book's anchor is a large treadmill cohort study (Mandsager et al., 2018), in
 ---
 
 **Zone 2 is the metabolic definition, at about three hours a week, and it builds the machinery for burning fat.**
-Attia adopts Iñigo San Millán's definition: the highest effort you can hold with lactate stable, just below the first threshold. The test he gives is that you can talk, but would rather not. His minimum is about three hours a week, for example four 45-minute sessions, and he does more himself. The rationale is mitochondrial: easy volume builds mitochondrial density and fat oxidation, keeping a person "metabolically flexible" rather than reliant on glucose. This is exactly the third of the three meanings of "Zone 2" in [Training intensity](ch6), and it is why lab thresholds beat watch percentages for setting it. Two limits. First, the mitochondrial argument for Zone 2 *specifically*, as opposed to easy aerobic volume generally, rests largely on athlete data and mechanism. Second, the [heart-lactate paper](ch5) shows how far mechanism can run ahead of training evidence. **[→ health-fitness]**
+Attia adopts Iñigo San Millán's definition: the highest effort you can hold with lactate stable, just below the first threshold. The test he gives is that you can talk, but would rather not. His minimum is about three hours a week, for example four 45-minute sessions, and he does more himself. The upper reference point is professional cyclists, who train for well over 20 hours a week (up to roughly 35 at peak), mostly at this intensity. San Millán and Brooks (*Sports Medicine*, 2018) compared professional cyclists, moderately active men and sedentary men with metabolic syndrome. The professionals kept blood lactate low and fat oxidation high even at high power, while the sedentary group had higher lactate *at rest* than the professionals did while working hard. Pro-level volume isn't realistic for anyone else. The point is direction: the further along the volume curve, the closer the metabolism gets to the fat-burning profile that people with diabetes lack. The rationale is mitochondrial: easy volume builds mitochondrial density and fat oxidation, keeping a person "metabolically flexible" rather than reliant on glucose. This is the metabolic meaning of "Zone 2" in [Training intensity](ch6), and it is why lab thresholds beat watch percentages for setting it. Two limits. First, the mitochondrial argument for Zone 2 *specifically*, as opposed to easy aerobic volume generally, rests largely on athlete data and mechanism. Second, the [heart-lactate paper](ch5) shows how far mechanism can run ahead of training evidence. **[→ health-fitness]**
 
 ---
 
