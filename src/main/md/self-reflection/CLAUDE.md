@@ -10,7 +10,7 @@ This directory contains topic-based derivatives of `self.md` and `self-1.md`, pe
 - **`project-recap.md`** — Project recap covering the four phases: cleanup → categorize → enrich+split → consolidate.
 - **`YYYY-MM-DD_topic.md`** — Individual topic files, all derived from `self.md`/`self-1.md` on 2026-02-25.
 
-### Current Topic Files — Published (22, in sidebar order)
+### Current Topic Files — Published (23, in sidebar order)
 
 | File | Topic | Site title |
 |------|-------|------------|
@@ -36,6 +36,7 @@ This directory contains topic-based derivatives of `self.md` and `self-1.md`, pe
 | `2026-02-25_miscellaneous.md` | **Retired stub** — all content redistributed to the 19 files above | Miscellaneous |
 | `2026-11-13_math-deep-dives.md` | Deep-dive gists of 2026 AI-math papers and math books (not derived from self.md) | Math Deep Dives |
 | `2026-11-13_ellara-kannada-deep-dives.md` | Deep-dive notes from the Ellara Kannada project: DNS Bhat readings, classical texts, coinage (not derived from self.md) | Ellara Kannada Deep Dives |
+| `2026-11-13_fitness-deep-dives.md` | Deep-dive notes from the Fitness project: nutrition, body-composition and exercise-physiology papers, training methods; no personal data (not derived from self.md) | Fitness Deep Dives |
 
 ### Not Published (filtered deliberately)
 

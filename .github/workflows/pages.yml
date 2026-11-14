@@ -908,6 +908,7 @@ jobs:
               ('miscellaneous.md',                  'Miscellaneous',               20),
               ('math-deep-dives.md',                'Math Deep Dives',             21),
               ('ellara-kannada-deep-dives.md',      'Ellara Kannada Deep Dives',   22),
+              ('fitness-deep-dives.md',             'Fitness Deep Dives',          23),
           ]
 
           if os.path.isdir(REFLDIR):
