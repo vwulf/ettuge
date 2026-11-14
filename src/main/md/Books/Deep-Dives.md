@@ -27,34 +27,17 @@ Sources: [Papers › Mathematics](Papers#mathematics), [Technical › Topology a
 
 ## AI and Machine Learning
 
-**Cirrincione's *Mathematical Theory of the Transformer, Vol. I* proves its positional-encoding results, but its claims about the architecture growing itself have gaps.**
-The book is built from seven of the author's arXiv preprints. Its MDS–Hellinger positional encoding and Positional Separation Theorem hold up. The Incremental Transformer (INCRT) adds or prunes attention heads based on eigenvectors that Oja and MCA EXIN rules track online. Its convergence proof claims a monotone Lyapunov function, but pruning can raise it; only a net decrease per grow/prune cycle is shown. Its head-count proof removes two eigen-directions per step while the algorithm adds one head. The "head-channel non-identifiability" claim also looks wrong for BERT-base, whose stacked output projection is square and generically invertible. The book does not show that attention is optimal, and its companion *Hierarchical Kernel Transformer* paper shows a multi-scale kernel beating standard attention. Volume II is still to come. Reviewed via the preprints, not the book PDF. [Technical › Deep Learning](Technical#deep-learning)
+**Transformer theory, attention as an algorithm, interpretability, architecture, training and serving.** Each has its own section in [AI Deep Dives](../Reflection/ai-deep-dives.md):
+- [transformer theory](../Reflection/ai-deep-dives/ch1): Cirrincione's *Mathematical Theory of the Transformer* (INCRT, rank-neutrality, head-channel identifiability, positional encodings) and why none of it shows attention is optimal
+- [attention as an algorithm](../Reflection/ai-deep-dives/ch2): soft lookup versus DP, semirings, the temperature scale from lookup to join, RASP and Tracr
+- [compositional structure](../Reflection/ai-deep-dives/ch3): the MDL definition, and its decomposition tree as a rose tree
+- [networks as programs](../Reflection/ai-deep-dives/ch4): the mechanistic-interpretability survey and weight-space programming
+- [architecture](../Reflection/ai-deep-dives/ch5): MoE, GQA, MLA, Mamba, diffusion LMs, TTT, Titans, Mixture of Depths, SpikingBrain against Hinton, neural operators
+- [training at scale](../Reflection/ai-deep-dives/ch6): tensor, pipeline, sequence, context and expert parallelism, ZeRO/FSDP, mixed precision, FlashAttention, checkpointing, how they stack, BendTorch's oracle harness
+- [serving and judging](../Reflection/ai-deep-dives/ch7): disaggregated prefill/decode, decision models (Laya, Jev) versus reasoning models, decision models as eval judges
+- [themes across them](../Reflection/ai-deep-dives/ch8)
 
-**SpikingBrain vs Hinton's program.** SpikingBrain converts Qwen2.5 into linear-attention and MoE models with "spiking" activations, trained on non-NVIDIA hardware. Against Hinton's ideas (Forward-Forward, mortal computation, fast weights, event-driven neurons) it captures only the energy side of spikes, which is skipping zeros. Training is ordinary backprop, and spikes are introduced only afterward as quantization. Spike *timing* as information, stochastic firing as regularization, and spike-timing-dependent plasticity are all absent. The genuine lineage link is fast-weight memory, which runs through linear attention.
-
-**Neural operators.** Fourier Neural Operators and the general neural-operator framework learn maps between function spaces, so one trained model works across discretizations of a PDE. This connects naturally to the Navier–Stokes thread above.
-
-**A frontier LLM can read and edit a small network's raw weights, but the headline gains come from removing bugs, not adding skill.**
-The model named which game a policy was trained on from its weights alone. It found induction heads without running the network. It also wrote a 1.5M-parameter Go net that beat an equal-sized PPO net trained on 20 million games. The MATH-500 jump came from ablating the direction behind a known looping bug, close to existing directional-ablation methods, and it did not carry over to a model without that bug. The from-scratch networks were reasoned-out rules compiled into weights, much like Tracr done by hand. Spotting sycophancy needed attention patterns, not weights alone. The most useful application may be auditing models for hidden behaviors before deployment. This is a blog post with released logs, not a peer-reviewed paper. [Papers › AI and Machine Learning › Large Language Models](Papers#large-language-models)
-
-**Mechanistic interpretability can find signals that behavioral tests miss, but whether it makes models safer is still mostly untested.**
-This survey covers SAEs, circuit discovery with causal checks, probes and training-data attribution. It sorts the field into six research orientations that trade scalability against robustness to deception. It proposes judging explanations on faithfulness, completeness, stability, causal validity and human interpretability, because plausibility alone rewards convincing wrong stories. Its key example is a linear probe catching a planted backdoor at >99% AUROC, which does not show that models can detect deception in general. Reviewed from the abstract and overview, because arXiv rate-limited the full text. [Papers › AI and Machine Learning › Large Language Models](Papers#large-language-models)
-
-**BendTorch's real result is its oracle harness, not its speed.**
-Every training step is checked against PyTorch eager, with the same weights and batches and a per-step tolerance. Only PyTorch eager and BendTorch pass all four workloads. Most framework drift traced to small numeric choices: AdamW bias correction done in float32 instead of double, where epsilon sits, float32 loss summation, and silent TF32. Speed: 3–6× slower than PyTorch on large matrix products (no BLAS), faster on tiny models where dispatch dominates, and a weak GPU path. Still open: the author built both the harness and the fixes for the other frameworks, and it is one machine and one run.
-[Papers › Deep Learning](Papers#deep-learning)
-
-Sources: [Papers › AI and Machine Learning](Papers#ai-and-machine-learning), [Technical › Deep Learning](Technical#deep-learning).
-
-## LLM Inference Serving
-
-**Disaggregated prefill and decode: the network becomes the product.** Prefill is compute-bound and decode is memory-bandwidth-bound, so modern stacks run them on separate workers. The discussion traced the full path through NVIDIA Dynamo's design, llm-d on Kubernetes, vLLM's NixlConnector and NIXL, and an OCP RoCE reference fabric:
-- the KV cache moves from prefill workers to decode workers over the fabric
-- routing is cache-aware: requests that share a prefix go to the replica that already holds it
-
-Once that transfer is on the critical path, the fabric decides tail latency, which is the sense in which "the network is the product."
-
-Sources: [Papers › LLM Inference Serving](Papers#llm-inference-serving).
+Sources: [Papers › AI and Machine Learning](Papers#ai-and-machine-learning), [Papers › LLM Inference Serving](Papers#llm-inference-serving), [Technical › Deep Learning](Technical#deep-learning).
 
 ## Linguistics and Scripts
 

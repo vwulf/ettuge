@@ -49,6 +49,7 @@ Published at [vwulf.github.io/ettuge/Reflection](https://vwulf.github.io/ettuge/
 | 21 | [Math Deep Dives](./2026-11-13_math-deep-dives.md) | Close readings of 2026 AI-math papers (UGC, ETH, quasi-RH, Navier–Stokes, Yang–Mills), Goldbach, prime gaps, Riehl, textbook formalization |
 | 22 | [Ellara Kannada Deep Dives](./2026-11-13_ellara-kannada-deep-dives.md) | Ellara Kannada project sessions: Pampa's ಮಾನಸರ್ and clusivity, Bhat's verb counts and auxiliaries, Śrī Rudram, Aiṅkuṟunūṟu 323 in Eke, animal-name etymologies, ಎ-ಎಣಿಕೆ maths notation, karate terms, coinage precedence, pangram |
 | 23 | [Fitness Deep Dives](./2026-11-13_fitness-deep-dives.md) | Fitness project sessions: Harvard protein-cohort papers, methionine and frailty, creatine and the DXA water confound, visceral-fat references and GlasVEGAS, sitting and squatting, cardiac lactate, Zone 2 and thresholds, RER, 4×4/sprints/REHIT, erg substitution and critical power |
+| 24 | [AI Deep Dives](./2026-11-13_ai-deep-dives.md) | AI/ML reading sessions: Cirrincione's transformer theory, attention vs DP and RASP, MDL compositionality and rose trees, mechanistic interpretability, weight-space programming, eight architecture ideas, nine training-at-scale systems, BendTorch, disaggregated serving, decision models and evals |
 
 ### Lifestyle & Personal
 
