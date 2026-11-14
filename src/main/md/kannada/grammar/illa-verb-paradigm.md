@@ -78,7 +78,7 @@ All 4 use the negative suffix -ಅದ- · No affirmative non-finite forms exist.
 ## Proto-Dravidian Etymology
 
 - ಇರು ← \*ir- (to be, exist)
-- ಇಲ್ಲ ← \*cil- (to not be)
+- ಇಲ್ಲ ← unverified: an earlier draft gave Proto-Dravidian \*cil-, which I could not source (the usual reconstruction is likely \*il-); check a Dravidian etymological dictionary
 
 Two separate roots — their suppletive pairing is convergent, not genetic.
 
@@ -88,7 +88,7 @@ Two separate roots — their suppletive pairing is convergent, not genetic.
 | Tamil | *illai* |
 | Telugu | *ledu* |
 | Malayalam | *illa* |
-| Tulu | *ijji* |
+| Tulu | *ijji* (unverified) |
 
 ---
 

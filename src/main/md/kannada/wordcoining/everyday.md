@@ -43,7 +43,7 @@ grand_parent: "ಕನ್ನಡ"
 
 ## Greetings and copy
 
-**Rajyotsava wishes.** ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವದ ಶುಭಾಶಯಗಳು → **ಕನ್ನಡ ನಾಡಸುಗ್ಗಿಯ ಹಾರೈಕೆಗಳು** (*kannaDa nADasuggiya hAraikegaLu*). ನಾಡು replaces ರಾಜ್ಯ, ಹಾರೈಕೆ replaces ಶುಭಾಶಯ, and ಸುಗ್ಗಿ ("harvest, abundance") replaces ಉತ್ಸವ. Alternatives: ನಾಡಹಿಗ್ಗು ("the land's joy"), and ನಾಡಹಬ್ಬ, which is a tadbhava of *parva* and is already the usual name for Mysuru Dasara.
+**Rajyotsava wishes.** ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವದ ಶುಭಾಶಯಗಳು → **ಕನ್ನಡ ನಾಡಸುಗ್ಗಿಯ ಹಾರೈಕೆಗಳು** (*kannaDa nADasuggiya hAraikegaLu*). ನಾಡು replaces ರಾಜ್ಯ, ಹಾರೈಕೆ replaces ಶುಭಾಶಯ, and ಸುಗ್ಗಿ ("harvest, abundance") replaces ಉತ್ಸವ. Alternatives: ನಾಡಹಿಗ್ಗು ("the land's joy"), and ನಾಡಹಬ್ಬ, already the usual name for Mysuru Dasara (ಹಬ್ಬ is probably a tadbhava of *parva*, not checked).
 
 **Dosa batter copy:**
 
@@ -56,4 +56,6 @@ grand_parent: "ಕನ್ನಡ"
 
 ---
 
-**Still open:** Bhat's word for "authority", needed for "Greater Bengaluru Authority".
+**Authority** (for "Greater Bengaluru Authority"): Bhat's Book 31 gives ಅಳವಿಗ, ತಿಳಿವಿಗ, ಅರಿಗ.
+
+**Status of every word on this page:** see the [Glossary](chat-glossary). Several entries here are already in Bhat: ಹೊಂದಾಣಿಕೆ, ರೇವು, ಹುಚ್ಚುಹಿಡಿದ (crazy), ನವಿರು ನೂಲು (floss), ಒಸಗೆ (festival). Where he has a word, prefer it. ಕನ್ನಡ ನಾಡೊಸಗೆಯ ಹಾರೈಕೆಗಳು is a better-grounded wording than ನಾಡಸುಗ್ಗಿ, since ಸುಗ್ಗಿ is not Bhat's word for harvest (his is ಕೊಯ್ಲು). ಹಾರೈಕೆ itself is unverified as native; Bhat lists ಕೋರಿಕೆ / ಬಯಕೆ for "wish".

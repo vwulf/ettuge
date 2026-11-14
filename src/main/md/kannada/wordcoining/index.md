@@ -24,6 +24,7 @@ These sessions work through English, Sanskrit-loan, and borrowed terms — repla
 | [Maths — ಎ-ಎಣಿಕೆ](maths) | Elementary functions around the EML operator | ಏ (exp), ಅ (ln), ಎ (eml), ಇ (i), sin → ನೇರಪಾಲು, π → ಸುತ್ತುಪಾಲು |
 | [Śrī Rudram & Ritual Terms](rudram-ritual) | Namakam, opening verse | Rudra → ಗುಡುಗ, namaḥ → ಬಾಗುವೆ, priest → ತಮ್ಮಡಿ (Bhat), portfolio → ಕೆಲಸಕಟ್ಟು |
 | [Physics & Grammar Terms](physics-grammar) | Newtonian mechanics, dimensions, tense–aspect–mood | force → ಒತ್ತಿಗೆ, mass → ಅಡಕ, 3D → ಮುರ್ಹರವು, aspect → ಎಸಕನೋಟ, mood → ಒಳನಿಲುವು |
+| [Glossary: words from this chat](chat-glossary) | All words from the Rudram, physics/grammar and everyday sessions | each word tagged Bhat-attested / existing / coined / unverified; Bhat's ತಮ್ಮಡಿ, ಹೊಂದಾಣಿಕೆ, ರೇವು, ಹರವು, ಒಸಗೆ take precedence |
 | [Everyday Words](everyday) | Single-word requests and short copy | awesome → ಬೆರಗಿನ, floss → ಹಲ್ಲುನೂಲು, port → ರೇವು, Rajyotsava wishes → ಕನ್ನಡ ನಾಡಸುಗ್ಗಿಯ ಹಾರೈಕೆಗಳು |
 
 For the reasoning behind the bigger threads, see [Ellara Kannada Deep Dives](../../Reflection/ellara-kannada-deep-dives.html).

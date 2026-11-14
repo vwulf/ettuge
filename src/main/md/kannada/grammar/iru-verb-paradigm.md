@@ -135,7 +135,7 @@ Bhat: *"ಇರು ಪದಕ್ಕೆ ಅಲ್ಲಗಳೆಯುವ ನಡುರ
 > **Why not `ಇರದೆ` (irade)?**
 > `ಇರದೆ` is the expected negative converb by regular morphology (stem + `-ade`), and it *does* appear in formal and literary Kannada — e.g., *"ಅಲ್ಲಿ ಇರದೆ ಹೋದ"* ("went without staying there"). However, in colloquial and standard modern Kannada, `ಇಲ್ಲದೆ` has displaced it almost entirely. Bhat's 42-count treats the negative converb slot as suppletive from ಇಲ್ಲ, hence `ಇರದೆ` is not counted. The negative *participial* `ಇರದ` (irada) has more currency — *"ಇರದ ದೇವರು"* ("the god who doesn't exist") — which is why it partially survives in the count as form #3.
 
-These are forms of **ಇಲ್ಲ** — a separate word, historically from Proto-Dravidian \*cil, not from \*ir-.
+These are forms of **ಇಲ್ಲ** — a separate word, a separate word from ಇರು (the Proto-Dravidian root given in an earlier draft is unverified).
 
 ---
 
@@ -167,7 +167,7 @@ Bhat's 42 captures only **simplex forms** — one suffix applied directly to the
 
 ಇರು and ಇಲ್ಲ are historically unrelated — two separate Proto-Dravidian roots:
 - ಇರು ← \*ir- (to be, exist)
-- ಇಲ್ಲ ← \*cil- (to not be) → Tamil *illai*, Telugu *ledu*, Malayalam *illa*
+- ಇಲ್ಲ ← root unverified (an earlier draft said \*cil-) → Tamil *illai*, Telugu *ledu*, Malayalam *illa*
 
 Their suppletive relationship in modern Kannada is convergent, not genetic.
 

@@ -38,6 +38,8 @@ Rejected as Sanskrit: ಬಲ (*bala*), ಚಲನ (*calana*), ದ್ರವ್ಯ�
 | 2D | ಇರ್ಹರವು | irharavu |
 | 3D | ಮುರ್ಹರವು | murharavu |
 
+> **Caveat:** ಬೇಗ may be a tadbhava of Sanskrit *vega*; I did not find it in Bhat, and the words built on it (ನಡೆಬೇಗ, ತಿರುಗುಬೇಗ, ಬೇಗಏರಿಕೆ) inherit that doubt. Bhat's ಹರವು (dimension) and ಪೊತ್ತು (tense) are attested; see the [Glossary](chat-glossary).
+
 ## Tense, aspect, mood
 
 These follow Bhat's definitions in Book 32: tense is *when* an event happens, aspect is *how* it unfolds, and mood is the speaker's stance toward whether it is real or required.

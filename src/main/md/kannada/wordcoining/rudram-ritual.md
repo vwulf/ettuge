@@ -75,6 +75,8 @@ Don't confuse ಹೊಸೆ (*hose*, twist) with **ಹಸೆ** (*hase*), the ritu
 
 ---
 
+> **Attestation:** Bhat's Book 31 has ತಮ್ಮಡಿ for priest, and for *success*: ಅನು, ಕೂಡುದಲೆ, ಏಳಿಗೆ, ಗೆಲುವು (prefer these to ನೆರವೇರಿಕೆ). See the [Glossary](chat-glossary) for the status of every word here.
+
 ## Other terms from the session
 
 | English | Kannada | Eke | Breakdown |
