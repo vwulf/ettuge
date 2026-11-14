@@ -962,6 +962,58 @@ jobs:
                                   with open(chfp, 'w', encoding='utf-8') as f:
                                       f.write(updated)
 
+          # ── Pass 7b: Reflection routing tags → links ──────────────────────────────
+          # Entries carry **[→ topic]** routing hints from the topic split. Rendered
+          # raw they look like links that go nowhere. Turn each into a link to the
+          # topic's landing page; drop the tag on its own topic's pages (it says
+          # nothing there); leave tags for unpublished topics as plain text.
+          REFL_TAG_ALIAS = {
+              'scala-fp': 'scala-functional-programming',
+              'algorithms-ds': 'algorithms-data-structures',
+              'world-history': 'world-history-archaeology',
+              'kannada-language-linguistics': 'kannada',
+          }
+          refl_titles = {os.path.splitext(f)[0]: t for f, t, _ in REFL_CATS
+                         if os.path.exists(os.path.join(REFLDIR, f))}
+          # A tag holds one or more labels: "[→ health-fitness]",
+          # "[→ martial-arts; okinawan-karate]", "[→ mathematics; cross-link → machine-learning-ai]".
+          # Every label that names a published topic (other than the page's own) becomes a
+          # link; free-form sub-labels (okinawan-karate, local Bay Area) are dropped.
+          tag_re = re.compile(r'( ?)(\*\*)?\[→ ([^\]\n]+)\](?![(\[])(\*\*)?')
+          n_linked = n_dropped = 0
+          if os.path.isdir(REFLDIR):
+              for walk_root, dirs, files in os.walk(REFLDIR):
+                  for fname in files:
+                      if not fname.endswith('.md') or fname == 'index.md':
+                          continue
+                      fp = os.path.join(walk_root, fname)
+                      rel = os.path.relpath(fp, REFLDIR)
+                      own = os.path.splitext(rel.split(os.sep)[0])[0]
+                      prefix = '../' * rel.count(os.sep)
+                      with open(fp, encoding='utf-8') as f:
+                          text = f.read()
+                      def repl(m):
+                          global n_linked, n_dropped
+                          lb = m.start(3) - 3            # index of '['
+                          if text[lb - 1:lb] == '`':
+                              return m.group(0)           # inside a code span (docs about tags)
+                          seen = []
+                          for tok in re.findall(r'[a-z0-9]+(?:-[a-z0-9]+)*', m.group(3)):
+                              slug = REFL_TAG_ALIAS.get(tok, tok)
+                              if slug in refl_titles and slug != own and slug not in seen:
+                                  seen.append(slug)
+                          if not seen:
+                              n_dropped += 1
+                              return ''
+                          n_linked += 1
+                          links = ', '.join(f'[{refl_titles[t]}]({prefix}{t})' for t in seen)
+                          return f'{m.group(1)}*→ {links}*'
+                      new_text = tag_re.sub(repl, text)
+                      if new_text != text:
+                          with open(fp, 'w', encoding='utf-8') as f:
+                              f.write(new_text)
+          print(f"Reflection routing tags: {n_linked} linked, {n_dropped} dropped (own topic or unpublished).")
+
           # ── Pass 8: nav_exclude all remaining .md files in all docs/ sections ─────
           for scan_root in [KANNADADIR, FPDIR, TINKDIR, REFLDIR]:
               if not os.path.isdir(scan_root):
