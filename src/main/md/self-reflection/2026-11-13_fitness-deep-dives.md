@@ -20,7 +20,8 @@ The papers are catalogued (🔍) under [Papers › Health and Nutrition](https:/
 - [Training intensity: zones, thresholds and tests](ch6)
 - [Interval formats and cross-training](ch7)
 - [Popular sources checked against the papers](ch8)
-- [Reading habits that kept coming up](ch9)
+- [*Outlive* against the papers](ch9)
+- [Reading habits that kept coming up](ch10)
 
 ---
 
@@ -286,6 +287,75 @@ Its claims checked out: short all-out sprint protocols raise VO₂max efficientl
 ---
 
 <a id="ch9"></a>
+## *Outlive* against the papers
+
+Peter Attia's *Outlive* (2023, with Bill Gifford) covers much of the same ground as the papers above. Each entry below takes one of its main claims and sets it beside the evidence in the earlier chapters. The book's own summary and a reader's ten takeaways are in [Books › Outlive](https://vwulf.github.io/ettuge/Books/influential/outlive).
+
+---
+
+**Medicine 3.0: act on risk decades before disease, because all four "horsemen" start early.**
+Attia's framework targets atherosclerotic heart disease, cancer, neurodegeneration and metabolic dysfunction. All four develop over decades, so waiting for a diagnosis is waiting too long. The approach is to measure early and often (apoB, Lp(a), oral glucose tolerance with insulin, liver fat, body composition, VO₂max), then act on the trend. This fits the reading habits in this page: trust the trend in your own repeat measurements over any single reading, and treat population cut-offs as starting points that depend on who you are. Two cautions run the other way. Much of the book's case for acting earlier rests on extrapolating from observational data and mechanism rather than on trials of early intervention, which Attia sometimes concedes. And testing heavily also produces false alarms and incidental findings. **[→ health-fitness]**
+
+---
+
+**VO₂max is the strongest single predictor of all-cause mortality, so aim to be elite for your age, then for two decades younger.**
+The book's anchor is a large treadmill cohort study (Mandsager et al., 2018), in which the least fit had several times the mortality of the most fit. The gap was larger than for smoking or diabetes. Attia's target is the top 2% for your age and sex and then for people 20 years younger, because VO₂max falls roughly 10% a decade and he wants a reserve that still leaves you capable in your eighties. This matches the [training-intensity notes](ch6): the steepest gains come from moving off the bottom, and VO₂max is per kilogram, so fat loss counts as well as fitness. The caveat is that the data are observational. Fit people differ from unfit people in many ways, and no trial has randomised people to high VO₂max. Even so, the dose–response pattern, and the fact that training raises VO₂max, make this one of the book's best-supported claims. **[→ health-fitness]**
+
+---
+
+**Zone 2 is the metabolic definition, at about three hours a week, and it builds the machinery for burning fat.**
+Attia adopts Iñigo San Millán's definition: the highest effort you can hold with lactate stable, just below the first threshold. The test he gives is that you can talk, but would rather not. His minimum is about three hours a week, for example four 45-minute sessions, and he does more himself. The rationale is mitochondrial: easy volume builds mitochondrial density and fat oxidation, keeping a person "metabolically flexible" rather than reliant on glucose. This is exactly the third of the three meanings of "Zone 2" in [Training intensity](ch6), and it is why lab thresholds beat watch percentages for setting it. Two limits. First, the mitochondrial argument for Zone 2 *specifically*, as opposed to easy aerobic volume generally, rests largely on athlete data and mechanism. Second, the [heart-lactate paper](ch5) shows how far mechanism can run ahead of training evidence. **[→ health-fitness]**
+
+---
+
+**One weekly VO₂max session of four-minute intervals is enough to build the peak.**
+The book's VO₂max session is four to six four-minute intervals, each at the hardest pace you can hold steadily for four minutes, with four minutes of easy recovery. That is essentially the Norwegian 4×4, done about once a week on top of the Zone 2 base. This is the roughly 80/20 split in [Interval formats and cross-training](ch7). The pacing advice there applies too: heart rate gets to 90–95% of max by the *end* of a rep, and a fade across reps means the first one was too fast. **[→ health-fitness]**
+
+---
+
+**Strength is a longevity tool, with grip, pulling, hip-hinging and eccentric control as its core.**
+Attia argues that muscle and strength decline steeply with age and inactivity. Falls are the leading cause of injury death in adults over 65 (CDC), and a hip fracture in old age is often the start of a steep decline. His centenarian-decathlon logic works backwards: to carry groceries, climb stairs or lift a grandchild at 90, you need a large reserve at 40 or 50, because strength will fall from wherever it starts. He emphasises grip (dead hangs, carries), pulling, hip-hinging, and controlling the lowering phase of movements, especially going downhill or downstairs. This matches the [ergs-versus-resistance-training table](ch7): ergs and swimming can't replace loaded strength work for muscle and bone, and carries do strength work only when they are heavy and short. **[→ health-fitness]**
+
+---
+
+**Stability is the most neglected pillar.**
+The fourth pillar is stability: controlling force through joints with good posture, breathing and foot and trunk mechanics. The book draws on Dynamic Neuromuscular Stabilization (DNS), a rehabilitation approach that retrains movement patterns from infant development. Attia treats poor stability as the hidden cause of many injuries in otherwise strong, fit people, and as something best learned with a coach because it is hard to see in yourself. This links to [active rest](ch4): squatting and kneeling postures are both "active rest" and stability practice, and both need building up gradually around problem joints. The evidence base for DNS specifically is thinner than for strength or aerobic training. **[→ health-fitness; cross-link → martial-arts]**
+
+---
+
+**Nutrition has three levers (how much, what and when), and protein matters more than any diet label.**
+Attia's nutrition chapters are deliberately non-dogmatic. Energy balance comes first, and food choice and meal timing are tools for getting it right, not ends in themselves. He has moved away from ketogenic eating and long fasts, largely because of concern about losing muscle. His firmest position is protein: at least about 1.6 g/kg a day, spread across meals, more than most people eat. Alcohol gets little defence.
+
+Set against the papers, this is one pole of the [protein tension](ch2). Attia wants muscle and frailty protection now, while Longo and Fanti want low protein for lifespan signalling, with methionine added back only to prevent frailty. The cohort papers add a third point that the calorie-first framing leaves out: for heart disease and diabetes, protein *source* matters at the same total intake, and most of the benefit comes from replacing red and processed meat with plant protein. A practical synthesis is enough protein for muscle, mostly from plants, inside a calorie budget. Strict versions of either camp go further than the evidence. **[→ health-fitness]**
+
+---
+
+**ApoB is the cholesterol number to track, and lowering it early beats lowering it late.**
+The book treats apoB, the protein on every atherogenic particle (LDL, VLDL, IDL and Lp(a)), as the causal driver of atherosclerosis, and lifetime exposure as what matters. Hence his aggressive, early targets, below mainstream guideline thresholds, using statins, ezetimibe or PCSK9 inhibitors as needed. Lp(a) is largely genetic and worth measuring once. Dietary cholesterol has a small effect on blood levels for most people, so the levers are saturated fat, weight and drugs, and raising HDL has not lowered risk in trials. The causal role of apoB is among the best-established findings in cardiology, and a 2022 European consensus statement endorses apoB as a primary lipid target. The specific very-low targets for primary prevention go beyond current trial evidence and should be discussed with a physician. For South Asians, the lower cut-offs in [Body composition](ch3) and the higher average Lp(a) point the same way: work out individual risk early, from family history and an Lp(a) test, rather than assuming average risk. **[→ health-fitness]**
+
+---
+
+**Metabolic health: catch insulin resistance years before glucose rises, and don't expect metformin to do exercise's job.**
+Attia argues that insulin resistance and liver fat appear long before fasting glucose or HbA1c become abnormal, so he uses oral glucose tolerance tests with insulin, and sometimes continuous glucose monitors. He treats HbA1c as useful but imprecise, because it depends on how long red blood cells live. On metformin he is lukewarm. He took it for years, then stopped, citing evidence that it can blunt the gains from training. The randomised trial of metformin for aging (TAME) has not yet reported. That is why "exercise first, drugs as a backstop" is the safer reading. This fits [GlasVEGAS](ch3) and the [sitting notes](ch4): visceral fat and muscle inactivity are among the earliest drivers of insulin resistance, and training and fat loss are the levers. **[→ health-fitness]**
+
+---
+
+**Sleep and emotional health are pillars in their own right.**
+The book gives sleep its own chapter: roughly seven to nine hours, regular timing, and treating sleep problems as medical problems, since poor sleep worsens insulin sensitivity, appetite, training recovery and dementia risk. The emotional-health chapter is the book's most personal. Attia describes his own long struggle and the therapy that helped, and argues that living longer is pointless if those years are unhappy. Neither topic has papers in this collection, but both connect to it. Consistent sleep timing was one of the well-supported parts of the [longevity video](ch8), and recovery is the limit that rules out stacking hard sessions. **[→ health-fitness]**
+
+---
+
+**Where *Outlive* is weakest.**
+- **Evidence:** much of the book extrapolates from observational cohorts, mechanism and Attia's own practice, a point reviewers made. The strongest claims (VO₂max, strength, apoB) are also the best supported. The weaker ones are specific drug and supplement choices.
+- **Cost:** the testing-heavy approach is expensive and assumes access to a willing physician.
+- **Interpretation:** a calorie-first summary can lose the cohort-paper finding that food *source* matters independently of weight.
+- **Author:** in February 2026 Attia left his CBS News contributor role and a corporate science role after released documents showed correspondence with Jeffrey Epstein. He apologised and denied any criminal involvement. This bears on the author's judgement, not on the evidence the book cites, which should be judged on its own terms.
+
+**[→ health-fitness; cross-link → books-literature]**
+
+---
+
+<a id="ch10"></a>
 ## Reading habits that kept coming up
 
 1. **Necessity is not sufficiency.** "Removing X hurts" doesn't mean "adding X helps" (Cluntun).
