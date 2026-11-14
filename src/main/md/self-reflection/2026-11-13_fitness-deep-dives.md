@@ -20,7 +20,8 @@ The papers are catalogued (🔍) under [Papers › Health and Nutrition](https:/
 - [Training intensity: zones, thresholds and tests](ch6)
 - [Interval formats and cross-training](ch7)
 - [Popular sources checked against the papers](ch8)
-- [Reading habits that kept coming up](ch9)
+- [*Outlive* against the papers](ch9)
+- [Reading habits that kept coming up](ch10)
 
 ---
 
@@ -189,6 +190,15 @@ Cardiorespiratory fitness is one of the strongest predictors of all-cause mortal
 
 ---
 
+**For disease risk, the benefit keeps growing until about 3,000–4,000 MET-minutes a week, roughly 900 minutes of brisk walking or its equivalent. That is several times the guideline minimum.**
+Kyu et al. (*BMJ*, 2016) ran a dose-response meta-analysis for the Global Burden of Disease study. It pooled 174 prospective cohort studies of *total* physical activity (leisure, work, transport and household) against breast cancer, colon cancer, diabetes, ischaemic heart disease and ischaemic stroke. The guideline minimum is 600 MET-minutes a week, about 150 minutes of brisk walking (≈4 METs) or 75 minutes of running. Risk kept falling well past that. Most of the gain came by 3,000–4,000 MET-minutes a week, and returns diminished beyond. For diabetes, going from 600 to 3,600 MET-minutes a week cut risk by a further 19%, but going from 9,000 to 12,000 cut it by only 0.6%. Compared with insufficiently active people (<600), the highly active (≥8,000) had 14–28% lower risk across the five diseases.
+
+At 4 METs, 3,600 MET-minutes is 900 minutes a week, which is the origin of a 900-minute weekly target. Watch "intensity minutes" are close to MET-weighted, because vigorous minutes count double, so they roughly track the same quantity. Two caveats. Kyu counts activity in every domain, not just exercise, so 900 minutes of workouts alone is more than the curve needs. And the curve comes from self-reported, observational data.
+
+The mortality picture is flatter. Arem et al. (*JAMA Internal Medicine*, 2015) pooled about 661,000 adults and found 31% lower mortality at one to two times the leisure-time guideline. Mortality benefit topped out at 39% lower around three to five times the guideline (roughly 450–750 moderate minutes a week), with no harm even at ten times. So most of the *survival* benefit arrives early, while *disease-specific* risk keeps improving at higher volumes. The two papers are complementary. Neither shows that the extra volume itself is causal, and the most active people differ in other ways too. **[→ health-fitness]**
+
+---
+
 <a id="ch7"></a>
 ## Interval formats and cross-training
 
@@ -211,7 +221,7 @@ Heart rate lags effort, so the first minute of each rep reads low. Hold a hard p
 ---
 
 **REHIT (two or three 20-second all-out sprints) is a time-efficient, zero-impact VO₂max session, as long as it really is all-out.**
-On a bike or bike erg the protocol is about ten minutes: an easy warm-up, then 20 s all-out, 2 min easy, repeated two or three times, then a cool-down. The effort *is* the stimulus. Most people hold back on a truly maximal 20 seconds and get little from it. The full two-minute recoveries matter, because cutting them drops each sprint's intensity and blunts the adaptation. It is best used *instead of* another VO₂max session, for example as a make-up for a missed week, never on top of one, and kept at least 48 hours from other maximal work. It does not replace easy aerobic volume or strength work. A note from the review discussed: sprint-interval training gives the fastest mitochondrial signal per minute, but on average it does not increase capillary density, which is the job of endurance volume.
+On a bike or bike erg the protocol is about ten minutes: an easy warm-up, then 20 s all-out, 2 min easy, repeated two or three times, then a cool-down. The effort *is* the stimulus. Most people hold back on a truly maximal 20 seconds and get little from it. The full two-minute recoveries matter, because cutting them drops each sprint's intensity and blunts the adaptation. It is best used *instead of* another VO₂max session, for example as a make-up for a missed week, never on top of one, and kept at least 48 hours from other maximal work. It does not replace easy aerobic volume or strength work. Per hour, sprint-interval training gives the biggest mitochondrial and VO₂max return, but it does not raise capillary density, which is the job of endurance volume (see the Mølmen meta-regression below).
 
 On a smart trainer, power is the *feedback*, not the target. A genuine all-out 20 s typically averages several times a rider's easy endurance power. **SIM or free-ride mode** (fixed resistance, uncapped power) suits all-out sprints better than **ERG mode**, which holds a set wattage and so caps the effort. Using one fixed gear avoids mid-sprint shifts and dropped chains. **[→ health-fitness]**
 
@@ -242,6 +252,17 @@ Hypertrophy needs progressive overload, meaning heavier loads near failure, adde
 
 **Loaded carries build strength only when they are heavy and short.**
 A long walk carrying a light kettlebell (under ~10% of body weight, over a mile or two) is a pleasant loaded walk. It is easy aerobic work with some grip and posture, but too light and too long to load trunk muscle or bone. Carries do strength work when treated like lifting sets: heavy load, about 20–40 m per trip, rest between. The **suitcase carry** (one heavy bell on one side) loads the obliques and deep trunk against side-bending. Rack and double carries load the traps, upper back and grip. It is the same tool at the opposite dose. **[→ health-fitness]**
+
+---
+
+**Every intensity grows mitochondria about equally. Sprints do it fastest per hour, and only endurance and high-intensity training raise capillary density.**
+Mølmen, Almquist and Skattebo (*Sports Medicine*, 2025) meta-regressed training studies covering nearly 6,000 participants, comparing endurance training (ET), high-intensity intervals (HIT) and sprint intervals (SIT).
+- **Mitochondria:** content rose by similar amounts in all three: about 23% for ET and about 27% for HIT and SIT. The rise showed up within two weeks and continued for up to 25 weeks with ET. Per hour of training, SIT was about 2.3 times as effective as HIT and 3.9 times as effective as ET. In well-trained people, only SIT still gave significant per-hour gains.
+- **Capillaries:** capillaries *per fibre* rose similarly across all three. Capillary *density* rose only with ET and HIT, with ET giving 5–10% more than the others. Untrained and moderately trained people gained about 10–20%, the gains came within about four weeks and then plateaued, and well-trained people showed no significant change.
+- **VO₂max:** it rose 9–12% with every modality, statistically indistinguishable. Per hour, SIT was about 2.9 times as effective as HIT and about 5 times as effective as ET. Six sessions a week beat four, and four beat two.
+- **Predictors:** baseline fitness was the strongest predictor of how much people adapted. Age, sex and disease status made no significant difference to the mitochondrial response, so the machinery stays trainable into later life.
+
+The usual explanation for the capillary difference is shear stress. Sustained blood flow during long moderate efforts is the stimulus for growing new capillaries. Brief maximal efforts send a strong mitochondrial signal (AMPK, PGC-1α) but don't keep up that flow. This is the reviewers' and commentators' interpretation, not something the meta-regression tests. The practical upshot is that the modalities complement each other. Sprints are the time-efficient lever for mitochondria and VO₂max, and continuous easy volume builds the delivery network that lets those mitochondria sustain long efforts. That is the physiology behind the 80/20 split below and Attia's Zone 2 base plus one hard session. Caveats: the protocols and populations are heterogeneous, and per-hour efficiency is not the same as total adaptation for someone who has the time to do the volume. Read via a summary write-up, not the full paper. **[→ health-fitness]**
 
 ---
 
@@ -286,6 +307,75 @@ Its claims checked out: short all-out sprint protocols raise VO₂max efficientl
 ---
 
 <a id="ch9"></a>
+## *Outlive* against the papers
+
+Peter Attia's *Outlive* (2023, with Bill Gifford) covers much of the same ground as the papers above. Each entry below takes one of its main claims and sets it beside the evidence in the earlier chapters. The book's own summary and a reader's ten takeaways are in [Books › Outlive](https://vwulf.github.io/ettuge/Books/influential/outlive).
+
+---
+
+**Medicine 3.0: act on risk decades before disease, because all four "horsemen" start early.**
+Attia's framework targets atherosclerotic heart disease, cancer, neurodegeneration and metabolic dysfunction. All four develop over decades, so waiting for a diagnosis is waiting too long. The approach is to measure early and often (apoB, Lp(a), oral glucose tolerance with insulin, liver fat, body composition, VO₂max), then act on the trend. This fits the reading habits in this page: trust the trend in your own repeat measurements over any single reading, and treat population cut-offs as starting points that depend on who you are. Two cautions run the other way. Much of the book's case for acting earlier rests on extrapolating from observational data and mechanism rather than on trials of early intervention, which Attia sometimes concedes. And testing heavily also produces false alarms and incidental findings. **[→ health-fitness]**
+
+---
+
+**VO₂max is the strongest single predictor of all-cause mortality, so aim to be elite for your age, then for two decades younger.**
+The book's anchor is a large treadmill cohort study (Mandsager et al., 2018), in which the least fit had several times the mortality of the most fit. The gap was larger than for smoking or diabetes. Attia's target is the top 2% for your age and sex and then for people 20 years younger, because VO₂max falls roughly 10% a decade and he wants a reserve that still leaves you capable in your eighties. This matches the [training-intensity notes](ch6): the steepest gains come from moving off the bottom, and VO₂max is per kilogram, so fat loss counts as well as fitness. The caveat is that the data are observational. Fit people differ from unfit people in many ways, and no trial has randomised people to high VO₂max. Even so, the dose–response pattern, and the fact that training raises VO₂max, make this one of the book's best-supported claims. **[→ health-fitness]**
+
+---
+
+**Zone 2 is the metabolic definition, at about three hours a week, and it builds the machinery for burning fat.**
+Attia adopts Iñigo San Millán's definition: the highest effort you can hold with lactate stable, just below the first threshold. The test he gives is that you can talk, but would rather not. His minimum is about three hours a week, for example four 45-minute sessions, and he does more himself. The upper reference point is professional cyclists, who train for well over 20 hours a week (up to roughly 35 at peak), mostly at this intensity. San Millán and Brooks (*Sports Medicine*, 2018) compared professional cyclists, moderately active men and sedentary men with metabolic syndrome. The professionals kept blood lactate low and fat oxidation high even at high power, while the sedentary group had higher lactate *at rest* than the professionals did while working hard. Pro-level volume isn't realistic for anyone else. The point is direction: the further along the volume curve, the closer the metabolism gets to the fat-burning profile that people with diabetes lack. The rationale is mitochondrial: easy volume builds mitochondrial density and fat oxidation, keeping a person "metabolically flexible" rather than reliant on glucose. This is the metabolic meaning of "Zone 2" in [Training intensity](ch6), and it is why lab thresholds beat watch percentages for setting it. Two limits. First, the mitochondrial argument for Zone 2 *specifically*, as opposed to easy aerobic volume generally, rests largely on athlete data and mechanism. Second, the [heart-lactate paper](ch5) shows how far mechanism can run ahead of training evidence. **[→ health-fitness]**
+
+---
+
+**One weekly VO₂max session of four-minute intervals is enough to build the peak.**
+The book's VO₂max session is four to six four-minute intervals, each at the hardest pace you can hold steadily for four minutes, with four minutes of easy recovery. That is essentially the Norwegian 4×4, done about once a week on top of the Zone 2 base. This is the roughly 80/20 split in [Interval formats and cross-training](ch7). The pacing advice there applies too: heart rate gets to 90–95% of max by the *end* of a rep, and a fade across reps means the first one was too fast. **[→ health-fitness]**
+
+---
+
+**Strength is a longevity tool, with grip, pulling, hip-hinging and eccentric control as its core.**
+Attia argues that muscle and strength decline steeply with age and inactivity. Falls are the leading cause of injury death in adults over 65 (CDC), and a hip fracture in old age is often the start of a steep decline. His centenarian-decathlon logic works backwards: to carry groceries, climb stairs or lift a grandchild at 90, you need a large reserve at 40 or 50, because strength will fall from wherever it starts. He emphasises grip (dead hangs, carries), pulling, hip-hinging, and controlling the lowering phase of movements, especially going downhill or downstairs. This matches the [ergs-versus-resistance-training table](ch7): ergs and swimming can't replace loaded strength work for muscle and bone, and carries do strength work only when they are heavy and short. **[→ health-fitness]**
+
+---
+
+**Stability is the most neglected pillar.**
+The fourth pillar is stability: controlling force through joints with good posture, breathing and foot and trunk mechanics. The book draws on Dynamic Neuromuscular Stabilization (DNS), a rehabilitation approach that retrains movement patterns from infant development. Attia treats poor stability as the hidden cause of many injuries in otherwise strong, fit people, and as something best learned with a coach because it is hard to see in yourself. This links to [active rest](ch4): squatting and kneeling postures are both "active rest" and stability practice, and both need building up gradually around problem joints. The evidence base for DNS specifically is thinner than for strength or aerobic training. **[→ health-fitness; cross-link → martial-arts]**
+
+---
+
+**Nutrition has three levers (how much, what and when), and protein matters more than any diet label.**
+Attia's nutrition chapters are deliberately non-dogmatic. Energy balance comes first, and food choice and meal timing are tools for getting it right, not ends in themselves. He has moved away from ketogenic eating and long fasts, largely because of concern about losing muscle. His firmest position is protein: at least about 1.6 g/kg a day, spread across meals, more than most people eat. Alcohol gets little defence.
+
+Set against the papers, this is one pole of the [protein tension](ch2). Attia wants muscle and frailty protection now, while Longo and Fanti want low protein for lifespan signalling, with methionine added back only to prevent frailty. The cohort papers add a third point that the calorie-first framing leaves out: for heart disease and diabetes, protein *source* matters at the same total intake, and most of the benefit comes from replacing red and processed meat with plant protein. A practical synthesis is enough protein for muscle, mostly from plants, inside a calorie budget. Strict versions of either camp go further than the evidence. **[→ health-fitness]**
+
+---
+
+**ApoB is the cholesterol number to track, and lowering it early beats lowering it late.**
+The book treats apoB, the protein on every atherogenic particle (LDL, VLDL, IDL and Lp(a)), as the causal driver of atherosclerosis, and lifetime exposure as what matters. Hence his aggressive, early targets, below mainstream guideline thresholds, using statins, ezetimibe or PCSK9 inhibitors as needed. Lp(a) is largely genetic and worth measuring once. Dietary cholesterol has a small effect on blood levels for most people, so the levers are saturated fat, weight and drugs, and raising HDL has not lowered risk in trials. The causal role of apoB is among the best-established findings in cardiology, and a 2022 European consensus statement endorses apoB as a primary lipid target. The specific very-low targets for primary prevention go beyond current trial evidence and should be discussed with a physician. For South Asians, the lower cut-offs in [Body composition](ch3) and the higher average Lp(a) point the same way: work out individual risk early, from family history and an Lp(a) test, rather than assuming average risk. **[→ health-fitness]**
+
+---
+
+**Metabolic health: catch insulin resistance years before glucose rises, and don't expect metformin to do exercise's job.**
+Attia argues that insulin resistance and liver fat appear long before fasting glucose or HbA1c become abnormal, so he uses oral glucose tolerance tests with insulin, and sometimes continuous glucose monitors. He treats HbA1c as useful but imprecise, because it depends on how long red blood cells live. On metformin he is lukewarm. He took it for years, then stopped, citing evidence that it can blunt the gains from training. The randomised trial of metformin for aging (TAME) has not yet reported. That is why "exercise first, drugs as a backstop" is the safer reading. This fits [GlasVEGAS](ch3) and the [sitting notes](ch4): visceral fat and muscle inactivity are among the earliest drivers of insulin resistance, and training and fat loss are the levers. **[→ health-fitness]**
+
+---
+
+**Sleep and emotional health are pillars in their own right.**
+The book gives sleep its own chapter: roughly seven to nine hours, regular timing, and treating sleep problems as medical problems, since poor sleep worsens insulin sensitivity, appetite, training recovery and dementia risk. The emotional-health chapter is the book's most personal. Attia describes his own long struggle and the therapy that helped, and argues that living longer is pointless if those years are unhappy. Neither topic has papers in this collection, but both connect to it. Consistent sleep timing was one of the well-supported parts of the [longevity video](ch8), and recovery is the limit that rules out stacking hard sessions. **[→ health-fitness]**
+
+---
+
+**Where *Outlive* is weakest.**
+- **Evidence:** much of the book extrapolates from observational cohorts, mechanism and Attia's own practice, a point reviewers made. The strongest claims (VO₂max, strength, apoB) are also the best supported. The weaker ones are specific drug and supplement choices.
+- **Cost:** the testing-heavy approach is expensive and assumes access to a willing physician.
+- **Interpretation:** a calorie-first summary can lose the cohort-paper finding that food *source* matters independently of weight.
+- **Author:** in February 2026 Attia left his CBS News contributor role and a corporate science role after released documents showed correspondence with Jeffrey Epstein. He apologised and denied any criminal involvement. This bears on the author's judgement, not on the evidence the book cites, which should be judged on its own terms.
+
+**[→ health-fitness; cross-link → books-literature]**
+
+---
+
+<a id="ch10"></a>
 ## Reading habits that kept coming up
 
 1. **Necessity is not sufficiency.** "Removing X hurts" doesn't mean "adding X helps" (Cluntun).

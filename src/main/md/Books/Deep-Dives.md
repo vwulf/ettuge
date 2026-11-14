@@ -81,6 +81,8 @@ Sources: [Papers › Linguistics and Languages](Papers#linguistics-and-languages
 - [lactate and the heart](../Reflection/fitness-deep-dives/ch5): MCT1, necessity versus sufficiency, and what it does and doesn't say about zone training
 - [training intensity](../Reflection/fitness-deep-dives/ch6): what "Zone 2" means, lab versus watch thresholds, RER, watch VO₂max
 - [interval formats and cross-training](../Reflection/fitness-deep-dives/ch7): the 4×4, hill sprints, REHIT, erg substitutions, critical power, ergs versus resistance training
-- [popular sources checked](../Reflection/fitness-deep-dives/ch8) and [reading habits](../Reflection/fitness-deep-dives/ch9)
+- [popular sources checked](../Reflection/fitness-deep-dives/ch8)
+- [*Outlive* against the papers](../Reflection/fitness-deep-dives/ch9): Attia's book set against the evidence above
+- [reading habits](../Reflection/fitness-deep-dives/ch10)
 
 **Other threads.** A systematic review of 29 RCTs on magnesium and serum lipids. [Papers › Other](Papers#other)
