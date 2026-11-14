@@ -1,7 +1,7 @@
 ---
 title: AI Deep Dives
 created: 2026-11-13
-updated: 2026-11-13
+updated: 2026-11-14
 source: deep-dive reading sessions on AI/ML papers, books and posts (Oct–Nov 2026)
 ---
 
@@ -26,10 +26,10 @@ These notes come from close readings of machine-learning books, papers and blog 
 2. [Attention as an algorithm](ch2): lookup, joins, semirings, DP and RASP
 3. [Compositional structure](ch3): an MDL definition, and where rose trees fit
 4. [Networks as programs](ch4): mechanistic interpretability and weight-space programming
-5. [Architecture](ch5): eight architectural ideas, SpikingBrain, neural operators
+5. [Architecture](ch5): eight architectural ideas, SpikingBrain, neural operators and what changed since FNO
 6. [Training at scale](ch6): nine systems techniques, how they compose, and BendTorch
 7. [Serving and judging](ch7): disaggregated inference, decision models, evals
-8. [Themes across the deep dives](ch8)
+8. [Themes across the deep dives](ch8): including Fourier analysis as a recurring tool
 
 ---
 
@@ -298,6 +298,20 @@ SpikingBrain-7B and 76B-A12B are linear-attention and MoE models converted from 
 
 ---
 
+**Since FNO, the field has moved to irregular geometry, transformers, generative rollouts and pretraining, and become more sober about speed-ups.**
+[Operator Learning: Algorithms and Analysis, arXiv:2402.15715](https://arxiv.org/abs/2402.15715) · [A Unifying View of PINNs and Neural Operators, arXiv:2601.14517](https://arxiv.org/abs/2601.14517) · [PDEs in the Age of Machine Learning, arXiv:2603.07655](https://arxiv.org/abs/2603.07655)
+
+This entry is a survey-level overview drawn from recent reviews, not a close reading of each paper.
+
+- **Theory.** FNO is a universal approximator of continuous operators. But its claim to work at any resolution is weaker than first presented, because pointwise nonlinearities alias on a grid. Representation-equivalent neural operators (ReNO) and the Convolutional Neural Operator (CNO) are attempts to make discretization-invariance precise. The 2024 review by Kovachki, Lanthaler and Stuart still describes the theory as incomplete.
+- **Geometry and architecture.** FNO assumes a uniform grid. Geo-FNO, GINO and graph-based operators handle irregular meshes, and transformer operators (OFormer, GNOT, Transolver, UPT) now often beat FNO on 3D and mesh problems. Physics-informed variants such as PINO add the PDE residual to the loss. A 2026 survey argues that PINNs and neural operators approximate the same specification-to-solution map and are not competing paradigms.
+- **Long rollouts.** Step-by-step prediction drifts and becomes unstable. Diffusion-based refinement (PDE-Refiner) and probabilistic operators handle long-horizon and chaotic dynamics better.
+- **Weather is the largest payoff.** FourCastNet (Adaptive FNO) and the spherical FNO came directly from this line. GraphCast, Pangu-Weather, GenCast and Aurora followed, and ML forecast models now run operationally (ECMWF's AIFS).
+- **Foundation models.** Transformers pretrained on many physical systems and fine-tuned with little data: MPP, DPOT, Poseidon, and OmniArch (ICML 2025), which keeps a Fourier encoder-decoder inside a transformer.
+- **Benchmarks and caution.** PDEBench and The Well standardized comparisons. McGreivy and Hakim (*Nature Machine Intelligence*, 2024) found that many reported speed-ups came from weak baselines. A 2026 synthesis puts the difference this way: classical solvers have error bounds derived from the PDE, while ML accuracy depends on how close a problem is to the training data. That gap is why hybrid ML-plus-solver methods get so much attention. **[→ machine-learning-ai; cross-link → mathematics]**
+
+---
+
 <a id="ch6"></a>
 ## 6. Training at scale
 
@@ -431,5 +445,14 @@ This fits the classifier picture above. Calibration and zero-shot accuracy are t
 **"Optimal" always has a frame.** The Transformer book's optimality results hold within a criterion or a chosen threshold. INCRT is minimal relative to θ_w. A probe's 99% AUROC holds for a planted backdoor. A decision model's F1 holds after threshold tuning on one dataset. Every headline number came with a scope, and the scope was where the discussion did its work.
 
 **Memory bandwidth is the recurring constraint.** GQA and MLA shrink the KV cache. Mamba, TTT and Titans replace it with a fixed state. FlashAttention avoids HBM round trips. Disaggregated serving moves the KV cache across a network. Much of the architecture and systems progress is about where the cache lives and how many bytes it costs.
+
+**Fourier analysis keeps coming back.** The Fourier transform diagonalizes operators that commute with a group action: translations on a line or grid, rotations on a sphere. So wherever an architecture builds in a symmetry, a Fourier basis tends to appear.
+- *Position* (chapter 1). RoPE rotates queries and keys at a range of frequencies, so attention scores depend only on relative position. That is a phase shift. Context extension (NTK-aware scaling, YaRN) works by rescaling those frequencies. Sinusoidal encodings, and the Fourier features used in NeRF-style coordinate networks, belong to the same family.
+- *Computation* (chapter 5). The FFT turns a length-n convolution from O(n²) into O(n log n). Long-convolution and state-space models (S4, Hyena, FlashFFTConv) depend on it. FNet replaces attention with a plain FFT and keeps much of BERT's accuracy. FNO and Adaptive FNO mix information in the frequency domain.
+- *How networks learn.* Spectral bias, or the frequency principle: networks fit low frequencies first. That helps explain why they generalize and why they blur fine detail. Diffusion models can be read as spectral autoregression, settling coarse structure before fine detail.
+- *Interpretability* (chapter 4). Small transformers that grok modular addition turn out to implement a discrete Fourier transform internally, adding by rotating phases (Nanda et al., 2023). Pretrained LLMs have been found to represent numbers with Fourier features: low frequencies for magnitude, high frequencies for digits such as the value mod 10.
+- *Beyond grids.* Spectral graph convolutions use Laplacian eigenvectors as a graph Fourier basis. Equivariant networks for molecules and proteins (e3nn, MACE) use spherical harmonics, the Fourier analysis of rotations. Speech models such as Whisper still take log-Mel spectrograms as input.
+
+Categorically, with a group seen as a one-object category, equivariant maps are natural transformations, and Fourier analysis is the change of basis that makes them diagonal. Related categorical notes are in [Algebra and Categories](https://vwulf.github.io/ettuge/FP/bucket-algebra-categories). **[→ machine-learning-ai; cross-link → mathematics]**
 
 **Judge the claim by its evidence.** Sources here range from a proof-based monograph read through its preprints, to an abstract-only survey, to a blog post with released logs, to a single-author benchmark on one machine. Each entry above records which. **[→ machine-learning-ai]**
