@@ -987,15 +987,20 @@ jobs:
           # link; free-form sub-labels (okinawan-karate, local Bay Area) are dropped.
           tag_re = re.compile(r'( ?)(\*\*)?\[→ ([^\]\n]+)\](?![(\[])(\*\*)?')
           n_linked = n_dropped = 0
-          if os.path.isdir(REFLDIR):
-              for walk_root, dirs, files in os.walk(REFLDIR):
+          # Deep Dives pages carry the same tags (they started life in Reflection);
+          # from there the topic pages are one level over, under ../Reflection/.
+          TAG_ROOTS = [(REFLDIR, '', True), ('docs/Deep-Dives', '../Reflection/', False)]
+          for tag_root, tag_base, own_is_topic in TAG_ROOTS:
+              if not os.path.isdir(tag_root):
+                  continue
+              for walk_root, dirs, files in os.walk(tag_root):
                   for fname in files:
                       if not fname.endswith('.md') or fname == 'index.md':
                           continue
                       fp = os.path.join(walk_root, fname)
-                      rel = os.path.relpath(fp, REFLDIR)
-                      own = os.path.splitext(rel.split(os.sep)[0])[0]
-                      prefix = '../' * rel.count(os.sep)
+                      rel = os.path.relpath(fp, tag_root)
+                      own = os.path.splitext(rel.split(os.sep)[0])[0] if own_is_topic else None
+                      prefix = '../' * rel.count(os.sep) + tag_base
                       with open(fp, encoding='utf-8') as f:
                           text = f.read()
                       def repl(m):
@@ -1018,7 +1023,7 @@ jobs:
                       if new_text != text:
                           with open(fp, 'w', encoding='utf-8') as f:
                               f.write(new_text)
-          print(f"Reflection routing tags: {n_linked} linked, {n_dropped} dropped (own topic or unpublished).")
+          print(f"Routing tags (Reflection + Deep Dives): {n_linked} linked, {n_dropped} dropped (own topic or unpublished).")
 
           # ── Pass 7c: Deep Dives (L1) ──────────────────────────────────────────────
           # Processed close readings: a hub (index.md) plus one page per topic, each
@@ -1066,6 +1071,9 @@ jobs:
                       with open(ch1_path, encoding='utf-8') as f:
                           body = strip_fm(f.read())
                       body = re.sub(r'\(ch0\)', '(./)', body)
+                      # ch1 sits one folder deeper than the topic page: lift its
+                      # ../../Reflection/ routing-tag links (Pass 7b) one level.
+                      body = body.replace('](../../Reflection/', '](../Reflection/')
                   else:
                       with open(fpath, encoding='utf-8') as f:
                           body = strip_fm(f.read())
