@@ -46,10 +46,6 @@ Published at [vwulf.github.io/ettuge/Reflection](https://vwulf.github.io/ettuge/
 | 11 | [Algorithms & Data Structures](./2026-02-25_algorithms-data-structures.md) | LeetCode solutions in Scala, competitive programming patterns, CRDTs, compiler design |
 | 12 | [Infrastructure & DevOps](./2026-02-25_infrastructure-devops.md) | Nix/NixOS, Kubernetes, Terraform, cloud-native patterns, Rust CLI tools |
 | 13 | [Data Engineering](./2026-02-25_data-engineering.md) | Spark, Flink, Hudi, lakehouse architecture, distributed systems |
-| 21 | [Math Deep Dives](./2026-11-13_math-deep-dives.md) | Close readings of 2026 AI-math papers (UGC, ETH, quasi-RH, Navier–Stokes, Yang–Mills), Goldbach, prime gaps, Riehl, textbook formalization |
-| 22 | [Ellara Kannada Deep Dives](./2026-11-13_ellara-kannada-deep-dives.md) | Ellara Kannada project sessions: Pampa's ಮಾನಸರ್ and clusivity, Bhat's verb counts and auxiliaries, Śrī Rudram, Aiṅkuṟunūṟu 323 in Eke, animal-name etymologies, ಎ-ಎಣಿಕೆ maths notation, karate terms, coinage precedence, pangram |
-| 23 | [Fitness Deep Dives](./2026-11-13_fitness-deep-dives.md) | Fitness project sessions: Harvard protein-cohort papers, methionine and frailty, creatine and the DXA water confound, visceral-fat references and GlasVEGAS, sitting and squatting, cardiac lactate, Zone 2 and thresholds, RER, 4×4/sprints/REHIT, erg substitution and critical power |
-| 24 | [AI Deep Dives](./2026-11-13_ai-deep-dives.md) | AI/ML reading sessions: Cirrincione's transformer theory, attention vs DP and RASP, MDL compositionality and rose trees, mechanistic interpretability, weight-space programming, eight architecture ideas, nine training-at-scale systems, BendTorch, disaggregated serving, decision models and evals |
 
 ### Lifestyle & Personal
 
@@ -97,3 +93,5 @@ Published at [vwulf.github.io/ettuge/Reflection](https://vwulf.github.io/ettuge/
 ---
 
 *20 published · 2 filtered · source: Signal "self" channel · phases: cleanup → categorize → enrich → split → consolidate → publish*
+
+> The deep-dive pages (Math, AI, Fitness, Ellara Kannada) moved to `src/main/md/deep-dives/` on 2026-11-13 and publish under the top-level **Deep Dives** section. Reflection keeps the raw, unprocessed notes.

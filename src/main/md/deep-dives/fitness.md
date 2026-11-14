@@ -11,7 +11,7 @@ source: Fitness project sessions on nutrition, body-composition and exercise-phy
 
 These notes come from the Fitness project's working sessions: close readings of papers on diet, body composition and exercise metabolism, the training questions that grew out of them, and checks of popular videos against the sources they cite. Each entry gives the claim, how it works, and what is still open. They cover published evidence and general training principles only. Personal measurements, test results and training logs are deliberately left out.
 
-The papers are catalogued (🔍) under [Papers › Health and Nutrition](https://vwulf.github.io/ettuge/Books/Papers#health-and-nutrition), and the other deep dives are under [Deep Dives](https://vwulf.github.io/ettuge/Books/Deep-Dives).
+The papers are catalogued (🔍) under [Papers › Health and Nutrition](https://vwulf.github.io/ettuge/Books/Papers#health-and-nutrition), and the other deep dives are under [Deep Dives](https://vwulf.github.io/ettuge/Deep-Dives/).
 
 - [Diet, protein and longevity](ch2)
 - [Body composition and how it is measured](ch3)

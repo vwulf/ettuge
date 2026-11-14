@@ -8,7 +8,7 @@ Dependent types as a working tool: Lean, mathlib, and the 2026 wave of AI-produc
 
 ## Deep-dive gists
 
-**The pattern behind the 2026 headlines.** Several of the year's AI-produced results arrived as a Lean-checked version alongside a shorter unchecked one. Each also came with disputes over what exactly was proved and over credit, and 25 Fields medalists warned that headline races are distorting the field. Machine checking settles correctness. It doesn't settle significance, readability or attribution. The individual results are covered in [Math Deep Dives](../Reflection/math-deep-dives.md).
+**The pattern behind the 2026 headlines.** Several of the year's AI-produced results arrived as a Lean-checked version alongside a shorter unchecked one. Each also came with disputes over what exactly was proved and over credit, and 25 Fields medalists warned that headline races are distorting the field. Machine checking settles correctness. It doesn't settle significance, readability or attribution. The individual results are covered in [Math Deep Dives](../Deep-Dives/math).
 
 **Autoformalization at scale moves the bottleneck.** Meta's ATLAS turned 26 open textbooks into 45,000+ verified declarations. Tao's *Analysis I* now has a Lean companion, and his measure-theory text is a formalization target. Proving is no longer the scarce step. Curating is: mathlib stays human-reviewed while staging libraries absorb unreviewed AI output.
 

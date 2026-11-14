@@ -49,14 +49,14 @@ Fetch pattern: `https://raw.githubusercontent.com/vwulf/ettuge/master/src/main/m
 | `https://raw.githubusercontent.com/vwulf/ettuge/master/src/main/md/haskell/qsortof-part2.md` | Quicksort exploration part 2 |
 | `https://raw.githubusercontent.com/vwulf/ettuge/master/src/main/md/haskell/rangapura-conversation.md` | Music/Haskell composition conversation |
 | `https://raw.githubusercontent.com/vwulf/ettuge/master/src/main/md/pl/buckets/<topic>.md` | Topic pages with deep-dive gists: `foundations`, `algebra-categories`, `algorithms`, `effects-llm`, `proof-formalization`, `creative-coding` |
-| `https://raw.githubusercontent.com/vwulf/ettuge/master/src/main/md/Books/Deep-Dives.md` | Deep-dive gists outside FP: math, ML, inference serving, linguistics, karate, health |
+| `https://raw.githubusercontent.com/vwulf/ettuge/master/src/main/md/deep-dives/index.md` | Deep Dives hub (topic pages: `deep-dives/{math,ai,fitness,ellara-kannada}.md`): math, ML, inference serving, linguistics, karate, health |
 
 **How to answer FP questions:**
 
 1. Fetch `pl/FP.md` for the overall journey and Scala/ZIO/Kyo perspective.
 2. Fetch the specific `haskell/` file for Haskell-specific questions.
 3. For category theory: check `pl/buckets/algebra-categories.md`, `haskell/monoids-and-semigroups.md` and `pl/FP.md`.
-4. For a paper or book marked 🔍 in Papers/Technical: check the matching `pl/buckets/` page or `Books/Deep-Dives.md`.
+4. For a paper or book marked 🔍 in Papers/Technical: check the matching `pl/buckets/` page or `deep-dives/` page.
 5. Answer in Vishwas's context: he has TA'd Haskell courses, worked with ZIO/Kyo professionally, approaches FP through effect systems and type theory.
 
 **GitHub Pages:** https://vwulf.github.io/ettuge/FP/

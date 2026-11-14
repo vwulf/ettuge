@@ -5,69 +5,60 @@ nav_order: 1
 
 # ettuge
 
-ettuge is a personal knowledge garden sitting at the intersection of language, computation, and reflective reading — all held together by a curiosity about how structure gives rise to meaning.
+ettuge is a personal knowledge garden at the intersection of language, computation and close reading, held together by curiosity about how structure gives rise to meaning.
 
 ---
 
-## ಕನ್ನಡ — Language & DNS Bhat
+## [Deep Dives](Deep-Dives/)
 
-### [Zero Speculation — Dravidian origins of zero](kannaDa/eke/zero-speculation-illustrated.html)
+Close readings of papers and books, written up after the fact. Each entry gives the claim, how it works, and what is still open.
 
-A speculative research essay linking the *puḷḷi* (Tamil virama dot), the possible Dravidian etymology of *śūnya*, and the K-127 Cambodia inscription (683 CE) — the earliest dated zero in stone — to argue that the conceptual and graphic substrate for zero may be substantially older and Dravidian in origin.
-
-### [Eke — a romanisation for Kannada](kannaDa/eke/reference)
-
-Informal Kannada writing on the internet has drifted into a loose collection of ad-hoc conventions. **Eke** (ಏಕೆ) is a principled yet lightweight romanisation scheme bridging the gap between these informal habits and the more rigorous Harvard-Kyoto protocol. It draws on D. N. Shankara Bhat's *Ellara Kannada* movement — which advocates for a written form closer to how the language is actually spoken, dropping aspirated consonants that do not exist in natural Kannada speech. Key conventions: long vowels uppercase (`A I U E O`), retroflexes uppercase (`T D N L S`), diphthongs as sequences (`ay` for ಐ, `av` for ಔ), anusvara always assimilated (never standalone `M`).
-
-### [Dr. D. N. Shankara Bhat — digital archive](kannaDa/dnsbhat/)
-
-Dr. D. N. Shankara Bhat (1931–) is the towering figure in modern Kannada linguistics — winner of the Pampa Award, holder of positions at Stanford, the Max Planck Institute, Oxford, and Deccan College, and the author of 33 known works spanning native Kannada grammar, script reform, historical phonology, word formation, and international typology. His central argument, developed over 50 years, is that Kannada grammar must be built from Kannada's own structure rather than borrowed Sanskrit or English frameworks.
-
-This repository contains a systematic effort to collect, digitise, and make accessible his complete works: YouTube transcripts, blog posts recovered from dnshankarabhat.net via the Wayback Machine, full-text extractions from archive.org, and Sarvam Vision OCR runs on PDF books. Each processed book has companion files — structured Kannada text, Eke romanisation, English summary, and an AI context primer.
+- **[Mathematics](Deep-Dives/math)**: the 2026 AI-math results (Unique Games, the ETH refutation, quasi-RH), complexity and number theory, Navier–Stokes and Yang–Mills, and what Lean checking does and doesn't settle
+- **[AI and Machine Learning](Deep-Dives/ai)**: transformer theory, attention as an algorithm, compositional structure, interpretability and weight-space programming, architecture, training at scale, serving and decision models
+- **[Health and Fitness](Deep-Dives/fitness)**: protein and longevity, body composition and DXA, active rest, lactate and the heart, training intensity, *Outlive* against the papers
+- **[Ellara Kannada](Deep-Dives/ellara-kannada)**: DNS Bhat's grammar applied to Pampa, the two kinds of "we", auxiliaries, a native Rudram verse, Sangam Tamil in Eke, the ಎ-ಎಣಿಕೆ notation
+- **[Karate › Reading the sources](karate/50-reading-the-sources)**: Motobu, Nagamine and Quast, read between the lines
 
 ---
 
-## [Functional Programming](FP/)
+## [CS & AI](FP/)
 
-A running notebook for functional programming ideas, worked out mostly in Haskell but drawing on Scala, lambda calculus, and category theory wherever they illuminate the concept best. Visual programming with Kojo is folded in here too — simple generative code that reminds experienced programmers why they fell in love with the craft.
+Articles and deep dives on programming-language theory, algebra and categories, algorithms, effects in LLM systems, and formal proof, worked out mostly in Haskell, Scala and Lean.
 
-- **[ॐλ — Lambda Calculus](FP/om-lambda)** — Y combinators, fixed points, and the self-reference that turns pure substitution into recursion
-- **[Monoids and Semigroups](FP/monoids-and-semigroups)** — Addition, string concatenation, set merging: the algebraic pattern that underlies composable code
-- **[rangapura vihAra](FP/hsom)** — Using Euterpea (Haskell School of Music) to encode a Carnatic fusion rendition
-- **[Lazy Min-K in Haskell](FP/qsortof)** — Finding the minimum k elements lazily using quickselect
-- **[ಕಳ್ಳ — Pumpkin Puzzle](FP/kumbaLakAyi-kaLLanalla)** — A simple iteration puzzle, solved in Haskell with Kannada script in the source
-- **[Kojo — Clouds and Flowers](FP/cloud_flowers_and)** — Scala turtle graphics: clouds, flowers, random polygons, ladders
+- **[Foundations: λ-calculus and Types](FP/bucket-foundations)**: reduction strategies, fixed points, parsers that terminate
+- **[Algebra and Categories](FP/bucket-algebra-categories)**: monoids, applicatives vs monads, Poly, Markov and traced categories, Funcformer
+- **[Algorithms, Functionally](FP/bucket-algorithms)**: lazy min-k, Bird–Gibbons vs CLRS, recursion schemes
+- **[Effects and LLM Systems](FP/bucket-effects-llm)**: λ-RLM, RLM and Context LMs, DSPy as effects, decision models
+- **[Proof and Formalization](FP/bucket-proof-formalization)**: Lean, autoformalization, Rocq proofs over compiled binaries
+- **[Creative Coding](FP/bucket-creative-coding)**: a Carnatic kriti in Euterpea, Kojo turtle graphics
 
 ---
 
-## [Reflection](Reflection/)
+## [ಕನ್ನಡ — Language and DNS Bhat](kannaDa/)
 
-Personal notes distilled from years of reading, thinking, and bookmarking — exported from a Signal self-channel and organised by topic.
-
-- **[Kannada](Reflection/kannada)** · **[Japanese](Reflection/japanese)** · **[Linguistics](Reflection/linguistics)** · **[Sanskrit](Reflection/sanskrit)**
-- **[Indian History & Culture](Reflection/indian-history-culture)** · **[Scala & FP](Reflection/scala-functional-programming)** · **[Machine Learning & AI](Reflection/machine-learning-ai)**
-- **[Mathematics](Reflection/mathematics)** · **[Mathematics & Science](Reflection/mathematics-science)** · **[World History & Archaeology](Reflection/world-history-archaeology)**
-- **[Algorithms & Data Structures](Reflection/algorithms-data-structures)** · **[Infrastructure & DevOps](Reflection/infrastructure-devops)** · **[Data Engineering](Reflection/data-engineering)**
-- **[Health & Fitness](Reflection/health-fitness)** · **[Martial Arts](Reflection/martial-arts)** · **[Books & Literature](Reflection/books-literature)**
-- **[Arts, Music & Film](Reflection/arts-music-film)** · **[Cricket & Sports](Reflection/cricket-sports)** · **[Travel & Outdoors](Reflection/travel-outdoors)**
+- **[Dr. D. N. Shankara Bhat — digital archive](kannaDa/dnsbhat/)**: all 33 known works by the linguist whose central argument is that Kannada grammar must be built from Kannada's own structure. Transcripts, recovered blog posts and OCR'd books, each with structured Kannada text, Eke romanisation and an English summary.
+- **[Eke — a romanisation for Kannada](kannaDa/eke/reference)**: a lightweight scheme between informal internet habits and Harvard-Kyoto, following Bhat's *Ellara Kannada* in dropping aspirates that natural Kannada speech doesn't have.
+- **[Zero Speculation](kannaDa/eke/zero-speculation-illustrated.html)**: an essay linking the Tamil *puḷḷi*, the possible Dravidian etymology of *śūnya* and the K-127 Cambodia inscription (683 CE) to argue that the substrate for zero may be older and Dravidian.
 
 ---
 
 ## [Karate](karate/)
 
-An ongoing series on the practice of Matsubayashi-ryū karate and kobudō. The pieces are both reference-oriented — kata attribution, terminology, training structure — and reflective. Practice at Karate Sunnyvale since 2008, in the lineage of Shōshin Nagamine through Hanshi Stephen Trombley.
+An ongoing series on Matsubayashi-ryū karate and kobudō: kata attribution, terminology, training structure, and reflections. Practice at Karate Sunnyvale since 2008, in the lineage of Shōshin Nagamine through Hanshi Stephen Trombley.
 
-- **[The 18 kata of Matsubayashi-ryū](karate/10-the-18-kata)** — attribution table: creator, date, and transmission for each of the 18 kata
-- **[Shuri-te and Tomari-te in Matsubayashi](karate/11-shuri-te-and-tomari-te)** — the two streams Nagamine chose to preserve, and why
-- **[Technical vocabulary — a reference](karate/31-terminology)** — stances, strikes, kicks, blocks, principles, and organizational terms with kanji
-- **[The three aspects of a stance](karate/32-the-three-aspects-of-a-stance)** — Nagamine's framework: endurance, stability, mobility, and the Matsubayashi resolution
-- **[Dentō bunkai and ōyō bunkai](karate/34-dento-and-oyo-bunkai)** — formal versus applied kata analysis; Arakaki Hanshi on what senior practice requires
+- **[The 18 kata of Matsubayashi-ryū](karate/10-the-18-kata)** · **[Shuri-te and Tomari-te](karate/11-shuri-te-and-tomari-te)** · **[Technical vocabulary](karate/31-terminology)** · **[Dentō and ōyō bunkai](karate/34-dento-and-oyo-bunkai)** · **[Reading the sources](karate/50-reading-the-sources)**
 
 ---
 
 ## [Books](Books/Books)
 
-A [curated catalog](Books/Books) of books that have genuinely changed how the author thinks, organised by author with inline summaries and individual analyses.
+A [catalog of books](Books/Books) that changed how the author thinks, with summaries and takeaways, plus the [technical shelf](Books/Technical) and the [papers](Books/Papers) behind the deep dives.
+
+---
+
+## [Reflection](Reflection/)
+
+Raw notes: years of reading and bookmarking, exported from a Signal self-channel and sorted by topic but otherwise unprocessed. The processed versions live under Deep Dives.
 
 ---
 

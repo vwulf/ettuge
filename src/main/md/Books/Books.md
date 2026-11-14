@@ -200,7 +200,7 @@ Books that have reshaped how I think, see, or act. Organized by author.
 | [kannaDakke mahAprANa yAke bEDa](influential/kannadakke-mahaprana-yake-beda.md) | Concise advocacy booklet arguing Kannada script does not need its aspirated-stop letters (borrowed from Sanskrit, absent from spoken Kannada). Frames retention as a literacy barrier; surveys script reforms in six other languages; dismantles ten objections. |
 | [nijakku halegannaDa vyAkaraNa entahadu?](influential/nijakku-halegannada-vyakarana-entahadu.md) | Scholarly investigation of Old Kannada grammar — distinguishing genuine Dravidian rules from Sanskrit-imposed categories applied by ancient grammarians like Keshiraja. Shows how both classical and modern Kannada grammars went astray by following Sanskrit models. |
 
-The discussions behind these books are in [Deep Dives › Linguistics and Scripts](Deep-Dives#linguistics-and-scripts).
+The discussions behind these books are in [Deep Dives › Linguistics and Scripts](../Deep-Dives/#linguistics-and-scripts).
 
 ---
 

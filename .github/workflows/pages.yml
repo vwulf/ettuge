@@ -89,6 +89,12 @@ jobs:
             cp "$f" "$dest"
           done
 
+      - name: Copy Deep Dives into docs/Deep-Dives/
+        run: |
+          rm -rf docs/Deep-Dives || true
+          mkdir -p docs/Deep-Dives
+          cp src/main/md/deep-dives/*.md docs/Deep-Dives/
+
       - name: Copy Tinkering posts into docs/Tinkering/
         run: |
           rm -rf docs/Tinkering || true
@@ -359,6 +365,19 @@ jobs:
                   if n:
                       total_ch += n
                       total_files += 1
+          # Split Deep Dives topic pages the same way (index.md is the hub, not split)
+          DOCS_DEEP = 'docs/Deep-Dives'
+          if os.path.isdir(DOCS_DEEP):
+              for fname in sorted(os.listdir(DOCS_DEEP)):
+                  if not fname.endswith('.md') or fname == 'index.md':
+                      continue
+                  fp = os.path.join(DOCS_DEEP, fname)
+                  out_sub = os.path.join(DOCS_DEEP, os.path.splitext(fname)[0])
+                  os.makedirs(out_sub, exist_ok=True)
+                  n = split_file(fp, out_dir=out_sub)
+                  if n:
+                      total_ch += n
+                      total_files += 1
           print(f"Chapter split: {total_ch} chapter pages across {total_files} source files.")
           PYEOF
 
@@ -492,7 +511,7 @@ jobs:
               with open(kannada_index, encoding='utf-8') as f:
                   kn_body = strip_fm(f.read())
               with open(kannada_index, 'w', encoding='utf-8') as f:
-                  f.write(fm(title=KANNADA_TITLE, nav_order=2, has_children=True))
+                  f.write(fm(title=KANNADA_TITLE, nav_order=3, has_children=True))
                   f.write(kn_body)
               sidebar_files.add(kannada_index)
 
@@ -738,7 +757,7 @@ jobs:
               # Fix stale cross-refs to DNS Bhat content
               body = body.replace('../kannada/dnsbhat/', '../kannaDa/dnsbhat/')
               with open(books_index, 'w', encoding='utf-8') as f:
-                  f.write(fm(title='Books', nav_order=4, has_children=True))
+                  f.write(fm(title='Books', nav_order=5, has_children=True))
                   f.write(body)
               # Books-Top.md — sidebar child of Books
               books_top = os.path.join(BOOKSDIR, 'Books-Top.md')
@@ -767,15 +786,6 @@ jobs:
                   with open(papers_idx, 'w', encoding='utf-8') as f:
                       f.write(fm(title='Papers', parent='Books', nav_order=3))
                       f.write(pap_body)
-              # Deep-Dives.md — sidebar child of Books (discussion gists behind 🔍 entries)
-              dd_idx = os.path.join(BOOKSDIR, 'Deep-Dives.md')
-              if os.path.exists(dd_idx):
-                  with open(dd_idx, encoding='utf-8') as f:
-                      dd_body = strip_fm(f.read())
-                  dd_body = re.sub(r'\]\(((?!http)[^)]+)\.md\)', r'](\1)', dd_body)
-                  with open(dd_idx, 'w', encoding='utf-8') as f:
-                      f.write(fm(title='Deep Dives', parent='Books', nav_order=4))
-                      f.write(dd_body)
               # nav_exclude all individual book files (pages exist; just hidden from sidebar)
               for sub in ('influential', 'read'):
                   inf_dir = os.path.join(BOOKSDIR, sub)
@@ -786,7 +796,7 @@ jobs:
 
           # ── Pass 6: Functional Programming sidebar ────────────────────────────────
           FPDIR     = 'docs/FP'
-          FP_TITLE  = 'Functional Programming'
+          FP_TITLE  = 'CS & AI'
 
           # Buckets: (bucket file, sidebar title, nav_order, [(article, title, nav_order), ...])
           # Bucket pages come from src/main/md/pl/buckets/ and carry the deep-dive gists for
@@ -830,14 +840,14 @@ jobs:
               # Root index page
               idx_path = os.path.join(FPDIR, 'index.md')
               with open(idx_path, 'w', encoding='utf-8') as f:
-                  f.write(fm(title=FP_TITLE, nav_order=5, has_children=True))
+                  f.write(fm(title=FP_TITLE, nav_order=4, has_children=True))
                   f.write('Functional programming explorations in Haskell, Scala, Lean and the lambda calculus, '
                           'grouped by topic. Each topic page collects the articles and the deep-dive '
                           'discussions of papers and books behind them.\n\n')
                   for bfile, btitle, _, _ in FP_BUCKETS:
                       f.write(f'- [{btitle}]({bfile[:-3]})\n')
                   f.write('\nOther deep dives (mathematics, ML, inference serving, linguistics, karate, health) '
-                          'are in [Books › Deep Dives](../Books/Deep-Dives).\n')
+                          'are in [Deep Dives](../Deep-Dives/).\n')
               sidebar_files.add(idx_path)
 
               for bfile, btitle, border, articles in FP_BUCKETS:
@@ -906,16 +916,12 @@ jobs:
               # career-personal.md — filtered for now (too personal)
               # current-events-politics.md — filtered for now
               ('miscellaneous.md',                  'Miscellaneous',               20),
-              ('math-deep-dives.md',                'Math Deep Dives',             21),
-              ('ellara-kannada-deep-dives.md',      'Ellara Kannada Deep Dives',   22),
-              ('fitness-deep-dives.md',             'Fitness Deep Dives',          23),
-              ('ai-deep-dives.md',                  'AI Deep Dives',               24),
           ]
 
           if os.path.isdir(REFLDIR):
               idx_path = os.path.join(REFLDIR, 'index.md')
               with open(idx_path, 'w', encoding='utf-8') as f:
-                  f.write(fm(title=REFL_TITLE, nav_order=6, has_children=True))
+                  f.write(fm(title=REFL_TITLE, nav_order=7, has_children=True))
                   f.write('Personal notes distilled from years of reading, thinking, and bookmarking — '
                           'organised by topic.\n')
               sidebar_files.add(idx_path)
@@ -1014,8 +1020,80 @@ jobs:
                               f.write(new_text)
           print(f"Reflection routing tags: {n_linked} linked, {n_dropped} dropped (own topic or unpublished).")
 
+          # ── Pass 7c: Deep Dives (L1) ──────────────────────────────────────────────
+          # Processed close readings: a hub (index.md) plus one page per topic, each
+          # split into chapter pages like Reflection. Old URLs (Books/Deep-Dives and
+          # Reflection/<topic>-deep-dives) redirect here.
+          DEEPDIR    = 'docs/Deep-Dives'
+          DEEP_TITLE = 'Deep Dives'
+          DEEP_CATS = [
+              # (file, sidebar title, nav_order, old Reflection stem)
+              ('math.md',           'Mathematics',             1, 'math-deep-dives'),
+              ('ai.md',             'AI and Machine Learning', 2, 'ai-deep-dives'),
+              ('fitness.md',        'Health and Fitness',      3, 'fitness-deep-dives'),
+              ('ellara-kannada.md', 'Ellara Kannada',          4, 'ellara-kannada-deep-dives'),
+          ]
+
+          def add_redirects(fpath, urls):
+              with open(fpath, encoding='utf-8') as f:
+                  text = f.read()
+              if not text.startswith('---\n') or 'redirect_from:' in text:
+                  return
+              block = 'redirect_from:\n' + ''.join(f'  - {u}\n' for u in urls)
+              with open(fpath, 'w', encoding='utf-8') as f:
+                  f.write('---\n' + block + text[4:])
+
+          if os.path.isdir(DEEPDIR):
+              hub = os.path.join(DEEPDIR, 'index.md')
+              if os.path.exists(hub):
+                  with open(hub, encoding='utf-8') as f:
+                      body = strip_fm(f.read())
+                  body = re.sub(r'\]\(((?!http)[^)]+)\.md\)', r'](\1)', body)
+                  with open(hub, 'w', encoding='utf-8') as f:
+                      f.write(fm(title=DEEP_TITLE, nav_order=2, has_children=True,
+                                 redirect_from=['/Books/Deep-Dives', '/Books/Deep-Dives.html']))
+                      f.write(body)
+                  sidebar_files.add(hub)
+
+              for fname, title, nav_order, old in DEEP_CATS:
+                  fpath = os.path.join(DEEPDIR, fname)
+                  if not os.path.exists(fpath):
+                      continue
+                  stem = os.path.splitext(fname)[0]
+                  ch1_path = os.path.join(DEEPDIR, stem, 'ch1.md')
+                  if os.path.exists(ch1_path):
+                      # Land on ch1 directly; chapter links point into the topic folder
+                      with open(ch1_path, encoding='utf-8') as f:
+                          body = strip_fm(f.read())
+                      body = re.sub(r'\(ch0\)', '(./)', body)
+                  else:
+                      with open(fpath, encoding='utf-8') as f:
+                          body = strip_fm(f.read())
+                  body = re.sub(r'\]\(ch(\d+)\)', lambda m: f']({stem}/ch{m.group(1)})', body)
+                  body = re.sub(r'\]\(((?!http)[^)]+)\.md\)', r'](\1)', body)
+                  with open(fpath, 'w', encoding='utf-8') as f:
+                      f.write(fm(title=title, parent=DEEP_TITLE, nav_order=nav_order,
+                                 redirect_from=[f'/Reflection/{old}', f'/Reflection/{old}.html']))
+                      f.write(body)
+                  sidebar_files.add(fpath)
+
+                  sub_dir = os.path.join(DEEPDIR, stem)
+                  if os.path.isdir(sub_dir):
+                      for chf in sorted(os.listdir(sub_dir)):
+                          if not re.match(r'ch\d+\.md$', chf):
+                              continue
+                          chfp = os.path.join(sub_dir, chf)
+                          with open(chfp, encoding='utf-8') as f:
+                              ch_content = f.read()
+                          updated = re.sub(r'\(ch0\)', f'(../{stem})', ch_content)
+                          if updated != ch_content:
+                              with open(chfp, 'w', encoding='utf-8') as f:
+                                  f.write(updated)
+                          n = os.path.splitext(chf)[0]
+                          add_redirects(chfp, [f'/Reflection/{old}/{n}', f'/Reflection/{old}/{n}.html'])
+
           # ── Pass 8: nav_exclude all remaining .md files in all docs/ sections ─────
-          for scan_root in [KANNADADIR, FPDIR, TINKDIR, REFLDIR]:
+          for scan_root in [KANNADADIR, FPDIR, TINKDIR, REFLDIR, DEEPDIR]:
               if not os.path.isdir(scan_root):
                   continue
               for walk_root, dirs, files in os.walk(scan_root):

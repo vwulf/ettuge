@@ -11,7 +11,7 @@ source: Ellara Kannada project sessions on DNS Bhat's books, classical texts and
 
 These notes come from working sessions in the Ellara Kannada project: close readings of DNS Bhat's books, classical Kannada and Tamil texts, and the coinage work built on them. Each entry gives the claim, how it works, and what is still open. Where a choice was revised along the way, the final choice is given, and the rejected one is named only when the reason matters.
 
-The book-by-book catalogue lives under [DNS Bhat](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/), and the other deep dives under [Deep Dives](https://vwulf.github.io/ettuge/Books/Deep-Dives).
+The book-by-book catalogue lives under [DNS Bhat](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/), and the other deep dives under [Deep Dives](https://vwulf.github.io/ettuge/Deep-Dives/).
 
 ---
 
@@ -158,7 +158,7 @@ The Meluhha "dog" is the animal that a Ur III king, Ibbi-Sin, received as tribut
 | ಗೊ | ಗೊತ್ತಿಲ್ಲದ ("not known") | unknown x |
 | ನೇ, ಪ, ತಾ, ಸು | ನೇರಪಾಲು, ಪಕ್ಕಪಾಲು, ತಾಗುಪಾಲು, ಸುತ್ತುಪಾಲು | sin, cos, tan, π |
 
-Euler's formula becomes ಏ^(ಇ·ತಿ) = ಪ(ತಿ) + ಇ·ನೇ(ತಿ), and with ತಿ = ಸು, ಏ^(ಇ·ಸು) + ೧ = ೦. ನೇರ was chosen over ಎದುರು for sin so the ಎ- prefix stays reserved for the operator. For tan, ತಾಗುಪಾಲು ("touching ratio," from the circle) beat ಓರೆಪಾಲು ("slope ratio," from the triangle). Still open: the Mathematics summary on [Deep Dives](https://vwulf.github.io/ettuge/Books/Deep-Dives) derives ತಿ from ತಿಳಿಯದ and uses it for the variable, while this session used ತಿ for the angle and ಗೊ for the unknown. Pick one.
+Euler's formula becomes ಏ^(ಇ·ತಿ) = ಪ(ತಿ) + ಇ·ನೇ(ತಿ), and with ತಿ = ಸು, ಏ^(ಇ·ಸು) + ೧ = ೦. ನೇರ was chosen over ಎದುರು for sin so the ಎ- prefix stays reserved for the operator. For tan, ತಾಗುಪಾಲು ("touching ratio," from the circle) beat ಓರೆಪಾಲು ("slope ratio," from the triangle). Still open: the Mathematics summary on [Deep Dives](https://vwulf.github.io/ettuge/Deep-Dives/) derives ತಿ from ತಿಳಿಯದ and uses it for the variable, while this session used ತಿ for the angle and ಗೊ for the unknown. Pick one.
 → [Papers › Analysis and Linear Algebra](https://vwulf.github.io/ettuge/Books/Papers#analysis-and-linear-algebra)
 
 ---

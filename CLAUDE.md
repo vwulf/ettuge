@@ -41,11 +41,12 @@ ettuge/
     │   │   ├── Books.md         # Index of influential books (by author, with summaries)
     │   │   ├── Books-Top.md     # Modern Library Top 100 novels list with summaries
     │   │   └── influential/     # Individual book files (Summary, Critical Takeaways, My Takeaways)
+    │   ├── deep-dives/          # Deep Dives (top-level section): index.md hub + math/ai/fitness/ellara-kannada topic pages
     │   ├── haskell/             # Haskell/FP documentation
     │   ├── kojo/                # Kojo programming articles
     │   ├── nihongo/             # Japanese language docs
     │   ├── physics/             # Unified field theory / Advaita philosophy (UniversalConsciousness.md)
-    │   ├── pl/                  # Programming language theory
+    │   ├── pl/                  # CS & AI section (published at /FP/): articles + buckets/ topic pages
     │   └── self-reflection/     # Dated personal reflection documents (index.md + YYYY-MM-DD_topic.md)
     ├── haskell/                 # Haskell source files
     │   ├── euterpea/            # Music composition (rangapura.hs, twinkle.hs)

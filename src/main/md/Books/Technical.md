@@ -1,6 +1,6 @@
 # Technical
 
-My textbooks and technical books — the ones on the shelf and the ones in the Google Drive *Books* folder — arranged top-down by subject. Textbooks are never really *finished*, so there is no read/unread status here; each entry notes what the book covers and how it is regarded. Research papers have their own catalog: [Papers](Papers.md). 🔍 marks books I have gone through in detail with Claude. Summaries of the 🔍 discussions are collected in [Deep Dives](Deep-Dives.md).
+My textbooks and technical books — the ones on the shelf and the ones in the Google Drive *Books* folder — arranged top-down by subject. Textbooks are never really *finished*, so there is no read/unread status here; each entry notes what the book covers and how it is regarded. Research papers have their own catalog: [Papers](Papers.md). 🔍 marks books I have gone through in detail with Claude. Summaries of the 🔍 discussions are collected in [Deep Dives](../Deep-Dives/).
 
 **Format:** 📕 physical copy · 💾 digital (PDF) · 📕💾 both · 🌐 free online book · 🔖 discussed with Claude, not in my collection
 
