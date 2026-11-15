@@ -10,6 +10,10 @@ Close readings of papers and books, written up after the fact. Each entry gives 
 - [Ellara Kannada](ellara-kannada): DNS Bhat's books, Pampa's line, auxiliaries, Rudram, Sangam Tamil in Eke, the ಎ-ಎಣಿಕೆ notation
 - [Karate › Reading the sources](../karate/50-reading-the-sources): Motobu, Nagamine and Quast
 
+Textbooks, broken down from the top: the book in a paragraph, then each chapter, then each section, with the section's pages in the PDF as the last step down.
+
+- [Understanding Deep Learning](understanding-deep-learning) (Prince): 18 chapters and 119 sections, from shallow networks to diffusion models
+
 The [CS & AI](../FP/) section keeps its deep dives next to the articles they belong to:
 
 - [Foundations: λ-calculus and types](../FP/bucket-foundations.md)

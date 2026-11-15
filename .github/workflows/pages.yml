@@ -1037,6 +1037,8 @@ jobs:
               ('ai.md',             'AI and Machine Learning', 2, 'ai-deep-dives'),
               ('fitness.md',        'Health and Fitness',      3, 'fitness-deep-dives'),
               ('ellara-kannada.md', 'Ellara Kannada',          4, 'ellara-kannada-deep-dives'),
+              # Textbook breakdowns: book → chapter → section, leaves point into the PDF
+              ('understanding-deep-learning.md', 'Textbook: Understanding Deep Learning', 5, None),
           ]
 
           def add_redirects(fpath, urls):
@@ -1081,7 +1083,7 @@ jobs:
                   body = re.sub(r'\]\(((?!http)[^)]+)\.md\)', r'](\1)', body)
                   with open(fpath, 'w', encoding='utf-8') as f:
                       f.write(fm(title=title, parent=DEEP_TITLE, nav_order=nav_order,
-                                 redirect_from=[f'/Reflection/{old}', f'/Reflection/{old}.html']))
+                                 **({'redirect_from': [f'/Reflection/{old}', f'/Reflection/{old}.html']} if old else {})))
                       f.write(body)
                   sidebar_files.add(fpath)
 
@@ -1098,7 +1100,8 @@ jobs:
                               with open(chfp, 'w', encoding='utf-8') as f:
                                   f.write(updated)
                           n = os.path.splitext(chf)[0]
-                          add_redirects(chfp, [f'/Reflection/{old}/{n}', f'/Reflection/{old}/{n}.html'])
+                          if old:
+                              add_redirects(chfp, [f'/Reflection/{old}/{n}', f'/Reflection/{old}/{n}.html'])
 
           # ── Pass 8: nav_exclude all remaining .md files in all docs/ sections ─────
           for scan_root in [KANNADADIR, FPDIR, TINKDIR, REFLDIR, DEEPDIR]:
