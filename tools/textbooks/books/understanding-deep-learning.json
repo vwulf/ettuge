@@ -1,0 +1,1509 @@
+{
+ "title": "Understanding Deep Learning",
+ "byline": "Simon J. D. Prince \u00b7 draft of January 23, 2023 (MIT Press)",
+ "note": "This draft predates the published edition, so its numbering differs from the edition on the author\u2019s site. Page numbers are PDF pages (printed page = PDF page \u2212 13). Summaries are in our own words; the text stays in the PDF.",
+ "summary": "Prince builds deep learning from one idea outward: a network is a parameterized family of functions, and training picks one member of that family. With ReLU activations every network is piecewise linear, so the early chapters can draw exactly what shallow and deep networks compute: linear regions, joints and folds of input space. Losses then come from maximum likelihood, fitting from gradient methods, and generalization from bias, variance and double descent. The middle of the book adds the architectures that share parameters or route information: convolutions, residual connections, transformers and graph networks. The last part covers four families of generative models (GANs, normalizing flows, VAEs, diffusion), each framed by what it can and cannot do: sample, evaluate likelihood, or both.",
+ "chapters": [
+  {
+   "title": "1. Introduction",
+   "start": 14,
+   "end": 29,
+   "summary": "What deep learning is, the three settings it is used in, and how the book is organized. It closes with an unusually direct section on the ethics of AI.",
+   "sections": [
+    {
+     "title": "1.1 Supervised learning",
+     "start": 14,
+     "end": 20,
+     "summary": "Supervised learning maps inputs to outputs: regression predicts numbers, classification predicts categories, and structured outputs (text, images, segmentations) are the hard case. Deep networks are introduced as one very flexible family of such mappings.",
+     "terms": [
+      "supervised learning",
+      "regression",
+      "classification",
+      "structured outputs",
+      "deep neural network"
+     ]
+    },
+    {
+     "title": "1.2 Unsupervised learning",
+     "start": 20,
+     "end": 24,
+     "summary": "Unsupervised learning works without labels. Generative models learn to produce new examples like the data, and latent variables give a compact explanation of what varies between examples.",
+     "terms": [
+      "unsupervised learning",
+      "generative model",
+      "latent variables"
+     ]
+    },
+    {
+     "title": "1.3 Reinforcement learning",
+     "start": 24,
+     "end": 25,
+     "summary": "Shows how latent variables also help supervised problems with structured outputs, then introduces reinforcement learning: an agent acts, the world changes, rewards arrive late. Temporal credit assignment and the explore/exploit trade-off are the core difficulties.",
+     "terms": [
+      "latent variables for structured outputs",
+      "reinforcement learning",
+      "temporal credit assignment",
+      "exploration vs exploitation"
+     ]
+    },
+    {
+     "title": "1.4 Structure of book",
+     "start": 25,
+     "end": 26,
+     "summary": "Two worked RL examples (robot locomotion, chess), then the book's roadmap: supervised pipeline first, then specialized architectures, then generative models.",
+     "terms": [
+      "policy network",
+      "book roadmap"
+     ]
+    },
+    {
+     "title": "1.5 Ethics",
+     "start": 26,
+     "end": 28,
+     "summary": "Five concerns are named: bias and fairness, explainability, weaponization, concentration of power, and existential risk. The author argues researchers carry real responsibility for how the technology is used.",
+     "terms": [
+      "AI ethics",
+      "bias and fairness",
+      "explainability",
+      "weaponization",
+      "concentration of power",
+      "existential risk"
+     ]
+    },
+    {
+     "title": "1.6 Other books",
+     "start": 28,
+     "end": 29,
+     "summary": "Continues the ethics discussion (accountability, who funds AI, whether harm can be controlled) and lists complementary books.",
+     "terms": [
+      "accountability",
+      "further reading"
+     ]
+    },
+    {
+     "title": "1.7 How to read this book",
+     "start": 29,
+     "end": 29,
+     "summary": "How each chapter is laid out (main text, notes, problems) and where the background maths lives.",
+     "terms": [
+      "notation",
+      "appendices",
+      "problems"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "2. Supervised learning",
+   "start": 30,
+   "end": 37,
+   "summary": "The whole supervised pipeline on the smallest possible example: a straight line fitted to points.",
+   "sections": [
+    {
+     "title": "2.1 Supervised learning overview",
+     "start": 30,
+     "end": 32,
+     "summary": "A model is an equation with parameters; inference runs it, training searches for parameter values that make predictions match a training set.",
+     "terms": [
+      "model",
+      "parameters",
+      "inference",
+      "training"
+     ]
+    },
+    {
+     "title": "2.2 Linear regression example",
+     "start": 32,
+     "end": 35,
+     "summary": "One input, one output, two parameters. A least-squares loss scores each line, and the loss over all parameter values forms a surface that training walks down.",
+     "terms": [
+      "linear regression",
+      "least squares loss",
+      "loss surface"
+     ]
+    },
+    {
+     "title": "2.3 Summary",
+     "start": 35,
+     "end": 37,
+     "summary": "Training descends the loss surface by gradient; testing on held-out data shows whether the fit generalizes. Too simple a model underfits, too flexible a model overfits.",
+     "terms": [
+      "gradient descent",
+      "testing",
+      "generalization",
+      "underfitting",
+      "overfitting"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "3. Shallow neural networks",
+   "start": 38,
+   "end": 53,
+   "summary": "Networks with one hidden layer, analyzed geometrically. With ReLU they produce piecewise-linear functions, and enough hidden units can approximate anything.",
+   "sections": [
+    {
+     "title": "3.1 Neural network example",
+     "start": 38,
+     "end": 42,
+     "summary": "A 1D network with three hidden units: three linear functions, each clipped by a ReLU, then summed with weights. The result is piecewise linear with joints where units switch on or off.",
+     "terms": [
+      "ReLU",
+      "hidden units",
+      "piecewise linear",
+      "joints"
+     ]
+    },
+    {
+     "title": "3.2 Universal approximation theorem",
+     "start": 42,
+     "end": 43,
+     "summary": "With D hidden units a 1D network has at most D+1 linear regions, and with enough units it can approximate any continuous function on a bounded interval.",
+     "terms": [
+      "universal approximation theorem",
+      "capacity",
+      "linear regions"
+     ]
+    },
+    {
+     "title": "3.3 Multivariate inputs and outputs",
+     "start": 43,
+     "end": 46,
+     "summary": "More outputs share the same joints; more inputs turn the joints into lines or hyperplanes that divide input space into convex polygonal regions.",
+     "terms": [
+      "multivariate inputs",
+      "multivariate outputs",
+      "convex polytopes"
+     ]
+    },
+    {
+     "title": "3.4 Shallow neural networks: general case",
+     "start": 46,
+     "end": 49,
+     "summary": "The general equation for a shallow network with any number of inputs, hidden units and outputs. The count of linear regions grows fast with input dimension.",
+     "terms": [
+      "shallow network equation",
+      "number of linear regions"
+     ]
+    },
+    {
+     "title": "3.5 Terminology",
+     "start": 49,
+     "end": 49,
+     "summary": "Vocabulary: layers, hidden units (neurons), pre-activations and activations, MLP, fully connected.",
+     "terms": [
+      "layers",
+      "neurons",
+      "pre-activations",
+      "activations",
+      "MLP",
+      "fully connected"
+     ]
+    },
+    {
+     "title": "3.6 Summary",
+     "start": 49,
+     "end": 53,
+     "summary": "Recap, then notes on the history and on other activation functions (sigmoid, tanh, leaky ReLU, GELU, Swish and others).",
+     "terms": [
+      "sigmoid",
+      "tanh",
+      "leaky ReLU",
+      "GELU",
+      "Swish",
+      "ELU",
+      "activation functions"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "4. Deep neural networks",
+   "start": 54,
+   "end": 68,
+   "summary": "Why depth helps: composing networks folds input space, so deep networks create far more linear regions per parameter than shallow ones.",
+   "sections": [
+    {
+     "title": "4.1 Composing neural networks",
+     "start": 54,
+     "end": 56,
+     "summary": "Feeding one shallow network into another repeats the second network's function on each piece of the first's output.",
+     "terms": [
+      "network composition"
+     ]
+    },
+    {
+     "title": "4.2 From composing networks to deep networks",
+     "start": 56,
+     "end": 58,
+     "summary": "Composition can be read as folding: the first network maps several input ranges onto the same output range, and the second network's function is applied to all of them at once. The composed network is a special case of a two-layer network.",
+     "terms": [
+      "folding input space",
+      "two-layer network"
+     ]
+    },
+    {
+     "title": "4.3 Deep neural networks",
+     "start": 58,
+     "end": 61,
+     "summary": "The general two-hidden-layer network, and hyperparameters (depth and width) as choices about model capacity.",
+     "terms": [
+      "deep network",
+      "hyperparameters",
+      "depth",
+      "width"
+     ]
+    },
+    {
+     "title": "4.4 Matrix notation",
+     "start": 61,
+     "end": 62,
+     "summary": "Writing a deep network as alternating weight matrices, bias vectors and activations, layer by layer.",
+     "terms": [
+      "weight matrices",
+      "bias vectors",
+      "matrix notation"
+     ]
+    },
+    {
+     "title": "4.5 Shallow vs. deep neural networks",
+     "start": 62,
+     "end": 65,
+     "summary": "Shallow and deep networks can both approximate anything, but deep ones get many more regions per parameter, some functions need exponentially many shallow units, and deep networks handle large structured inputs better. Why they also train and generalize well is left open.",
+     "terms": [
+      "depth efficiency",
+      "linear regions per parameter",
+      "shallow vs deep"
+     ]
+    },
+    {
+     "title": "4.6 Summary",
+     "start": 65,
+     "end": 68,
+     "summary": "Recap of folding, depth efficiency and the open questions.",
+     "terms": [
+      "summary of depth"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "5. Loss functions",
+   "start": 69,
+   "end": 89,
+   "summary": "Where loss functions come from: the network predicts the parameters of a probability distribution over outputs, and training maximizes the likelihood of the data.",
+   "sections": [
+    {
+     "title": "5.1 Maximum likelihood",
+     "start": 69,
+     "end": 72,
+     "summary": "The model outputs distribution parameters; maximum likelihood picks parameters that make the observed outputs probable, and taking logs turns the product over examples into a sum.",
+     "terms": [
+      "maximum likelihood",
+      "log-likelihood",
+      "distribution over outputs"
+     ]
+    },
+    {
+     "title": "5.2 Recipe for constructing loss functions",
+     "start": 72,
+     "end": 73,
+     "summary": "The recipe: choose a distribution suited to the output domain, have the network predict its parameters, minimize negative log-likelihood. Inference returns the most probable output.",
+     "terms": [
+      "negative log-likelihood",
+      "recipe for loss functions",
+      "point estimate"
+     ]
+    },
+    {
+     "title": "5.3 Example 1: univariate regression",
+     "start": 73,
+     "end": 77,
+     "summary": "Assuming normally distributed outputs and predicting only the mean gives least squares. Predicting the variance too gives uncertainty estimates, and making the variance depend on the input gives heteroscedastic regression.",
+     "terms": [
+      "normal distribution",
+      "least squares",
+      "heteroscedastic regression",
+      "uncertainty"
+     ]
+    },
+    {
+     "title": "5.4 Example 2: binary classification",
+     "start": 77,
+     "end": 79,
+     "summary": "A Bernoulli output passed through a logistic sigmoid gives the binary cross-entropy loss.",
+     "terms": [
+      "Bernoulli distribution",
+      "logistic sigmoid",
+      "binary cross-entropy"
+     ]
+    },
+    {
+     "title": "5.5 Example 3: multiclass classification",
+     "start": 79,
+     "end": 81,
+     "summary": "A categorical distribution with a softmax gives the multiclass cross-entropy loss.",
+     "terms": [
+      "categorical distribution",
+      "softmax",
+      "multiclass cross-entropy"
+     ]
+    },
+    {
+     "title": "5.6 Multiple outputs",
+     "start": 81,
+     "end": 83,
+     "summary": "Several outputs are usually treated as independent, so their losses add. A table maps output types (circular, counts, rankings and others) to suitable distributions.",
+     "terms": [
+      "independent outputs",
+      "von Mises",
+      "Poisson",
+      "choosing a distribution"
+     ]
+    },
+    {
+     "title": "5.7 Cross-entropy loss",
+     "start": 83,
+     "end": 85,
+     "summary": "Cross-entropy is the KL divergence between the empirical data distribution and the model, minus a constant, so it is the same objective as negative log-likelihood.",
+     "terms": [
+      "cross-entropy",
+      "KL divergence",
+      "empirical distribution"
+     ]
+    },
+    {
+     "title": "5.8 Summary",
+     "start": 85,
+     "end": 89,
+     "summary": "Recap, then notes on robust losses, mixtures of Gaussians for multimodal outputs, and other distributions.",
+     "terms": [
+      "robust losses",
+      "mixture of Gaussians",
+      "multimodal outputs"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "6. Fitting models",
+   "start": 90,
+   "end": 108,
+   "summary": "How parameters are actually found: gradient descent and the stochastic, momentum-based and adaptive refinements used in practice.",
+   "sections": [
+    {
+     "title": "6.1 Gradient descent",
+     "start": 90,
+     "end": 95,
+     "summary": "Gradient descent steps against the gradient. Linear regression has a convex loss with one minimum; the nonlinear Gabor model shows a loss surface with many.",
+     "terms": [
+      "gradient descent",
+      "line search",
+      "Gabor model",
+      "convexity"
+     ]
+    },
+    {
+     "title": "6.2 Stochastic gradient descent",
+     "start": 95,
+     "end": 98,
+     "summary": "Local minima and saddle points trap plain gradient descent. Stochastic gradient descent uses random batches and epochs, so each step sees a slightly different loss surface.",
+     "terms": [
+      "local minima",
+      "saddle points",
+      "stochastic gradient descent",
+      "batches",
+      "epochs"
+     ]
+    },
+    {
+     "title": "6.3 Momentum",
+     "start": 98,
+     "end": 101,
+     "summary": "SGD's noise helps escape bad regions and is cheap per step. Momentum averages past gradients to smooth the path; Nesterov momentum measures the gradient after the momentum step.",
+     "terms": [
+      "SGD noise",
+      "momentum",
+      "Nesterov accelerated momentum"
+     ]
+    },
+    {
+     "title": "6.4 Adam",
+     "start": 101,
+     "end": 104,
+     "summary": "Adam normalizes each parameter's step by a running estimate of its gradient magnitude, so steep and shallow directions move at similar rates. Bias corrections fix the early estimates.",
+     "terms": [
+      "Adam",
+      "adaptive learning rate",
+      "bias correction"
+     ]
+    },
+    {
+     "title": "6.5 Training algorithm hyperparameters",
+     "start": 104,
+     "end": 104,
+     "summary": "Learning rate, batch size, schedule and momentum are hyperparameters of training, usually tuned by trial.",
+     "terms": [
+      "learning rate",
+      "batch size",
+      "learning rate schedule",
+      "hyperparameter tuning"
+     ]
+    },
+    {
+     "title": "6.6 Summary",
+     "start": 104,
+     "end": 108,
+     "summary": "Recap, then notes on convexity, line search, learning-rate schedules and other optimizers.",
+     "terms": [
+      "AdaGrad",
+      "RMSProp",
+      "optimizers"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "7. Gradients and initialization",
+   "start": 109,
+   "end": 127,
+   "summary": "Two problems specific to neural networks: computing gradients for every parameter efficiently, and initializing so that signals neither explode nor vanish.",
+   "sections": [
+    {
+     "title": "7.1 Problem definitions",
+     "start": 109,
+     "end": 110,
+     "summary": "The setup: total loss is a sum over examples, and training needs its derivative for every weight and bias at every step.",
+     "terms": [
+      "derivatives of the loss",
+      "parameters per layer"
+     ]
+    },
+    {
+     "title": "7.2 Computing derivatives",
+     "start": 110,
+     "end": 117,
+     "summary": "Backpropagation runs a forward pass storing activations, then a backward pass applying the chain rule layer by layer. It is a special case of reverse-mode algorithmic differentiation, which frameworks automate.",
+     "terms": [
+      "backpropagation",
+      "chain rule",
+      "forward pass",
+      "backward pass",
+      "automatic differentiation"
+     ]
+    },
+    {
+     "title": "7.3 Parameter initialization",
+     "start": 117,
+     "end": 121,
+     "summary": "Backprop extends to any computational graph and works on batches as tensors. For initialization, the variance of activations and gradients should stay constant across layers; for ReLU this gives He initialization.",
+     "terms": [
+      "computational graphs",
+      "tensors",
+      "He initialization",
+      "vanishing gradients",
+      "exploding gradients"
+     ]
+    },
+    {
+     "title": "7.4 Example training code",
+     "start": 121,
+     "end": 121,
+     "summary": "When adjacent layers differ in width, averaging the two sizes is a compromise. A short PyTorch listing shows the whole training loop so far.",
+     "terms": [
+      "Glorot initialization",
+      "PyTorch training loop"
+     ]
+    },
+    {
+     "title": "7.5 Summary",
+     "start": 121,
+     "end": 127,
+     "summary": "Recap, then notes on the history of backprop and on initialization schemes.",
+     "terms": [
+      "history of backpropagation",
+      "initialization schemes"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "8. Measuring performance",
+   "start": 128,
+   "end": 147,
+   "summary": "How to measure and explain test error, from the classical bias-variance trade-off to double descent in over-parameterized models.",
+   "sections": [
+    {
+     "title": "8.1 Training a simple model",
+     "start": 128,
+     "end": 130,
+     "summary": "A network trained on the MNIST-1D toy dataset reaches zero training error but much higher test error.",
+     "terms": [
+      "MNIST-1D",
+      "training error",
+      "test error"
+     ]
+    },
+    {
+     "title": "8.2 Sources of error",
+     "start": 130,
+     "end": 134,
+     "summary": "Test error splits into noise (irreducible), bias (the model family can't represent the truth) and variance (the fit depends on which training sample you drew).",
+     "terms": [
+      "noise",
+      "bias",
+      "variance",
+      "test error decomposition"
+     ]
+    },
+    {
+     "title": "8.3 Reducing error",
+     "start": 134,
+     "end": 137,
+     "summary": "More data reduces variance; more capacity reduces bias but raises variance. Classically the best model sits at a trade-off point.",
+     "terms": [
+      "bias-variance trade-off",
+      "more data",
+      "capacity"
+     ]
+    },
+    {
+     "title": "8.4 Double descent",
+     "start": 137,
+     "end": 142,
+     "summary": "Past the point where the model can memorize the training data, test error falls again: double descent. In this regime the question becomes why training picks smooth solutions among many that fit.",
+     "terms": [
+      "double descent",
+      "overparameterization",
+      "interpolation",
+      "implicit regularization"
+     ]
+    },
+    {
+     "title": "8.5 Choosing hyperparameters",
+     "start": 142,
+     "end": 143,
+     "summary": "Hyperparameters are tuned on a separate validation set, never the test set, usually by random or Bayesian search.",
+     "terms": [
+      "validation set",
+      "hyperparameter search",
+      "random search",
+      "Bayesian optimization"
+     ]
+    },
+    {
+     "title": "8.6 Summary",
+     "start": 143,
+     "end": 147,
+     "summary": "Recap, then notes including why high-dimensional spaces behave counterintuitively.",
+     "terms": [
+      "curse of dimensionality",
+      "high-dimensional spaces"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "9. Regularization",
+   "start": 148,
+   "end": 171,
+   "summary": "Techniques that shrink the gap between training and test performance, from explicit penalty terms to the implicit biases of SGD and a long list of heuristics.",
+   "sections": [
+    {
+     "title": "9.1 Explicit regularization",
+     "start": 148,
+     "end": 151,
+     "summary": "Adding a penalty term to the loss, read as a prior over parameters; L2 regularization (weight decay) favors small weights and smoother functions.",
+     "terms": [
+      "regularization",
+      "L2 regularization",
+      "weight decay",
+      "prior"
+     ]
+    },
+    {
+     "title": "9.2 Implicit regularization",
+     "start": 151,
+     "end": 154,
+     "summary": "Finite-step gradient descent behaves like continuous descent on a modified loss that penalizes steep gradients. SGD adds a term favoring places where batches agree, one reason larger learning rates and smaller batches can generalize better.",
+     "terms": [
+      "implicit regularization",
+      "gradient descent",
+      "SGD",
+      "learning rate",
+      "batch size"
+     ]
+    },
+    {
+     "title": "9.3 Heuristics to improve performance",
+     "start": 154,
+     "end": 164,
+     "summary": "Early stopping, ensembling and bagging, dropout, adding noise, Bayesian inference, transfer and multi-task learning, self-supervised pretraining and data augmentation, each explained by how it improves generalization.",
+     "terms": [
+      "early stopping",
+      "ensembling",
+      "bagging",
+      "dropout",
+      "noise injection",
+      "Bayesian inference",
+      "transfer learning",
+      "multi-task learning",
+      "self-supervised learning",
+      "data augmentation"
+     ]
+    },
+    {
+     "title": "9.4 Summary",
+     "start": 164,
+     "end": 171,
+     "summary": "The methods sorted by mechanism: smoother functions, more data, better initialization, or averaging. Notes on sharp versus flat minima.",
+     "terms": [
+      "flat minima",
+      "sharp minima",
+      "taxonomy of regularization"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "10. Convolutional networks",
+   "start": 172,
+   "end": 197,
+   "summary": "Convolutional layers for grid data: weight sharing builds in translation equivariance, which cuts parameters and improves generalization.",
+   "sections": [
+    {
+     "title": "10.1 Invariance and equivariance",
+     "start": 172,
+     "end": 174,
+     "summary": "Images are high-dimensional, nearby pixels are related, and meaning shouldn't change under translation. Equivariance and invariance make the last point precise.",
+     "terms": [
+      "invariance",
+      "equivariance",
+      "translation"
+     ]
+    },
+    {
+     "title": "10.2 Convolutional networks for 1D inputs",
+     "start": 174,
+     "end": 181,
+     "summary": "1D convolution, padding, stride, kernel size and dilation; channels and growing receptive fields; on MNIST-1D a convolutional network beats a fully connected one with far fewer parameters.",
+     "terms": [
+      "1D convolution",
+      "kernel",
+      "padding",
+      "stride",
+      "dilation",
+      "channels",
+      "receptive field"
+     ]
+    },
+    {
+     "title": "10.3 Convolutional networks for 2D inputs",
+     "start": 181,
+     "end": 183,
+     "summary": "The same machinery in two dimensions, with kernels spanning all input channels.",
+     "terms": [
+      "2D convolution",
+      "image data"
+     ]
+    },
+    {
+     "title": "10.4 Downsampling and upsampling",
+     "start": 183,
+     "end": 186,
+     "summary": "Downsampling (subsampling, max and mean pooling, strided convolution), upsampling (duplication, max-unpooling, transposed convolution) and 1\u00d71 convolutions to change channel counts.",
+     "terms": [
+      "downsampling",
+      "max pooling",
+      "upsampling",
+      "transposed convolution",
+      "1x1 convolution"
+     ]
+    },
+    {
+     "title": "10.5 Applications",
+     "start": 186,
+     "end": 191,
+     "summary": "Image classification (AlexNet, VGG on ImageNet), object detection (YOLO) and semantic segmentation with an encoder\u2013decoder network.",
+     "terms": [
+      "image classification",
+      "ImageNet",
+      "AlexNet",
+      "VGG",
+      "object detection",
+      "YOLO",
+      "semantic segmentation"
+     ]
+    },
+    {
+     "title": "10.6 Summary",
+     "start": 191,
+     "end": 197,
+     "summary": "Recap, then notes on the history of CNNs and the steady ImageNet gains.",
+     "terms": [
+      "history of CNNs"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "11. Residual networks",
+   "start": 198,
+   "end": 220,
+   "summary": "Residual connections make very deep networks trainable; batch normalization keeps their activations in check.",
+   "sections": [
+    {
+     "title": "11.1 Sequential processing",
+     "start": 198,
+     "end": 201,
+     "summary": "Simply stacking more layers made results worse. Shattered gradients, where small parameter changes alter the output unpredictably, are one explanation.",
+     "terms": [
+      "shattered gradients",
+      "deeper networks"
+     ]
+    },
+    {
+     "title": "11.2 Residual connections and residual blocks",
+     "start": 201,
+     "end": 204,
+     "summary": "Each block adds a change to its input rather than replacing it, so the network unrolls into many paths of different lengths. Order of operations inside a block matters.",
+     "terms": [
+      "residual connections",
+      "skip connections",
+      "residual blocks"
+     ]
+    },
+    {
+     "title": "11.3 Exploding gradients in residual networks",
+     "start": 204,
+     "end": 205,
+     "summary": "In residual networks the variance of activations grows with each block at initialization, even with He initialization.",
+     "terms": [
+      "variance growth",
+      "exploding gradients"
+     ]
+    },
+    {
+     "title": "11.4 Batch normalization",
+     "start": 205,
+     "end": 207,
+     "summary": "Batch normalization rescales each activation using batch statistics, with learned offset and scale. It stabilizes forward signals, allows higher learning rates and adds a little regularizing noise.",
+     "terms": [
+      "batch normalization",
+      "BatchNorm"
+     ]
+    },
+    {
+     "title": "11.5 Common residual architectures",
+     "start": 207,
+     "end": 210,
+     "summary": "ResNet blocks and bottlenecks, DenseNet's concatenation of earlier layers, and U-Nets and stacked hourglass networks for dense prediction.",
+     "terms": [
+      "ResNet",
+      "bottleneck",
+      "DenseNet",
+      "U-Net",
+      "hourglass network"
+     ]
+    },
+    {
+     "title": "11.6 Why do nets with residual connections perform so well?",
+     "start": 210,
+     "end": 213,
+     "summary": "Residual nets behave partly like ensembles of shallower paths, and their loss surfaces are smoother around minima.",
+     "terms": [
+      "ensemble view of ResNets",
+      "loss surface smoothness"
+     ]
+    },
+    {
+     "title": "11.7 Summary",
+     "start": 213,
+     "end": 220,
+     "summary": "Recap, then notes on other normalization schemes (layer, instance, group norm) and on why residual connections work.",
+     "terms": [
+      "LayerNorm",
+      "instance norm",
+      "group norm"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "12. Transformers",
+   "start": 221,
+   "end": 254,
+   "summary": "Transformers: self-attention lets every token weigh every other, with parameters shared across positions. Covers the architecture and its main uses in language and vision.",
+   "sections": [
+    {
+     "title": "12.1 Processing text data",
+     "start": 221,
+     "end": 222,
+     "summary": "Text is long, variable in length and ambiguous, so a network needs shared parameters and connections whose strength depends on the content.",
+     "terms": [
+      "text data",
+      "parameter sharing"
+     ]
+    },
+    {
+     "title": "12.2 Dot-product self-attention",
+     "start": 222,
+     "end": 227,
+     "summary": "Each output is a weighted sum of value vectors; the weights come from softmaxed dot products between queries and keys, all computed by shared linear maps. In matrix form this is one compact expression.",
+     "terms": [
+      "self-attention",
+      "queries",
+      "keys",
+      "values",
+      "attention weights",
+      "softmax"
+     ]
+    },
+    {
+     "title": "12.3 Extensions to dot-product self-attention",
+     "start": 227,
+     "end": 230,
+     "summary": "Position encodings break the permutation symmetry, scaling the dot products keeps softmax well behaved, and multiple heads attend in parallel.",
+     "terms": [
+      "positional encoding",
+      "scaled dot-product attention",
+      "multi-head attention"
+     ]
+    },
+    {
+     "title": "12.4 Transformer layers",
+     "start": 230,
+     "end": 232,
+     "summary": "A transformer layer: multi-head attention and a per-token MLP, each wrapped in a residual connection, with LayerNorm.",
+     "terms": [
+      "transformer layer",
+      "LayerNorm",
+      "residual connections"
+     ]
+    },
+    {
+     "title": "12.5 Transformers for natural language processing",
+     "start": 232,
+     "end": 233,
+     "summary": "The NLP pipeline: sub-word tokenization (byte-pair encoding), learned embeddings, then a stack of layers in one of three forms: encoder, decoder or encoder-decoder.",
+     "terms": [
+      "tokenization",
+      "byte pair encoding",
+      "embeddings",
+      "encoder",
+      "decoder"
+     ]
+    },
+    {
+     "title": "12.6 Encoder model example: BERT",
+     "start": 233,
+     "end": 236,
+     "summary": "BERT as the encoder example: pretraining by predicting masked tokens, then fine-tuning for classification or tagging.",
+     "terms": [
+      "BERT",
+      "masked language modeling",
+      "fine-tuning"
+     ]
+    },
+    {
+     "title": "12.7 Decoder model example: GPT3",
+     "start": 236,
+     "end": 240,
+     "summary": "GPT-3 as the decoder example: next-token prediction with masked attention, autoregressive generation, and few-shot learning from prompts.",
+     "terms": [
+      "GPT-3",
+      "autoregressive language model",
+      "masked self-attention",
+      "few-shot learning"
+     ]
+    },
+    {
+     "title": "12.8 Encoder-decoder model example: machine translation",
+     "start": 240,
+     "end": 240,
+     "summary": "Machine translation as the encoder-decoder example, with cross-attention from target to source.",
+     "terms": [
+      "encoder-decoder",
+      "machine translation",
+      "cross-attention"
+     ]
+    },
+    {
+     "title": "12.9 Transformers for long sequences",
+     "start": 240,
+     "end": 242,
+     "summary": "Attention cost grows quadratically with length; sparse and local interaction patterns cut the cost.",
+     "terms": [
+      "long sequences",
+      "sparse attention",
+      "quadratic complexity"
+     ]
+    },
+    {
+     "title": "12.10 Transformers for images",
+     "start": 242,
+     "end": 246,
+     "summary": "ImageGPT models pixels autoregressively; ViT treats image patches as tokens; multi-scale transformers like SWIN reintroduce hierarchy.",
+     "terms": [
+      "ImageGPT",
+      "Vision Transformer",
+      "ViT",
+      "SWIN transformer"
+     ]
+    },
+    {
+     "title": "12.11 Summary",
+     "start": 246,
+     "end": 254,
+     "summary": "Recap, then notes on RNNs as the predecessor and on efficient-attention variants.",
+     "terms": [
+      "RNN",
+      "efficient attention"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "13. Graph neural networks",
+   "start": 255,
+   "end": 283,
+   "summary": "Graph neural networks: layers that must be equivariant to node order, and the extra problems of huge or single graphs.",
+   "sections": [
+    {
+     "title": "13.1 What is a graph?",
+     "start": 255,
+     "end": 258,
+     "summary": "Graphs model roads, molecules, circuits and social networks; they can be directed, weighted, hierarchical and more.",
+     "terms": [
+      "graphs",
+      "nodes",
+      "edges",
+      "directed graph"
+     ]
+    },
+    {
+     "title": "13.2 Graph representation",
+     "start": 258,
+     "end": 260,
+     "summary": "A graph is stored as an adjacency matrix plus node and edge embeddings. Powers of the adjacency matrix count walks.",
+     "terms": [
+      "adjacency matrix",
+      "node embeddings",
+      "edge embeddings"
+     ]
+    },
+    {
+     "title": "13.3 Graph neural networks, tasks, and loss functions",
+     "start": 260,
+     "end": 261,
+     "summary": "Node numbering is arbitrary, so a layer must give the same answer under any permutation of the nodes.",
+     "terms": [
+      "permutation equivariance",
+      "node ordering"
+     ]
+    },
+    {
+     "title": "13.4 Tasks and loss functions",
+     "start": 261,
+     "end": 263,
+     "summary": "Graph-level, node-level and edge-prediction tasks, each with its loss.",
+     "terms": [
+      "graph-level tasks",
+      "node classification",
+      "edge prediction"
+     ]
+    },
+    {
+     "title": "13.5 Graph convolutional networks",
+     "start": 263,
+     "end": 266,
+     "summary": "A graph convolutional layer aggregates neighbors' embeddings (multiplying by the adjacency matrix plus identity) and shares weights across the graph.",
+     "terms": [
+      "graph convolutional network",
+      "GCN",
+      "neighborhood aggregation"
+     ]
+    },
+    {
+     "title": "13.6 Example: graph classification",
+     "start": 266,
+     "end": 267,
+     "summary": "Classifying molecules as toxic or not; batches are built by treating many graphs as one disconnected graph.",
+     "terms": [
+      "graph classification",
+      "molecules",
+      "batching graphs"
+     ]
+    },
+    {
+     "title": "13.7 Inductive vs. transductive models",
+     "start": 267,
+     "end": 267,
+     "summary": "Inductive models learn a rule for new graphs; transductive models label the unlabeled nodes of one graph seen during training.",
+     "terms": [
+      "inductive learning",
+      "transductive learning"
+     ]
+    },
+    {
+     "title": "13.8 Transductive learning example: node classification",
+     "start": 267,
+     "end": 271,
+     "summary": "Node classification on one huge graph needs batching via neighborhood sampling or graph partitioning, because receptive fields grow with depth.",
+     "terms": [
+      "neighborhood sampling",
+      "graph partitioning",
+      "large graphs"
+     ]
+    },
+    {
+     "title": "13.9 Layers for graph convolutional networks",
+     "start": 271,
+     "end": 275,
+     "summary": "Design choices inside a layer: treating the node differently from its neighbors, residual connections, mean or Kipf-normalized aggregation, max pooling, and graph attention.",
+     "terms": [
+      "diagonal enhancement",
+      "mean aggregation",
+      "Kipf normalization",
+      "max pooling aggregation",
+      "graph attention network"
+     ]
+    },
+    {
+     "title": "13.10 Edge graphs",
+     "start": 275,
+     "end": 276,
+     "summary": "Turning edges into nodes lets the same machinery work on edge embeddings.",
+     "terms": [
+      "edge graph",
+      "line graph"
+     ]
+    },
+    {
+     "title": "13.11 Summary",
+     "start": 276,
+     "end": 283,
+     "summary": "Recap, then notes on spectral methods, expressiveness and the Weisfeiler\u2013Lehman test.",
+     "terms": [
+      "spectral methods",
+      "Weisfeiler-Lehman test"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "14. Unsupervised learning",
+   "start": 284,
+   "end": 289,
+   "summary": "A short map of unsupervised learning that frames the next four chapters.",
+   "sections": [
+    {
+     "title": "14.1 Taxonomy of unsupervised learning models",
+     "start": 284,
+     "end": 285,
+     "summary": "Models learned without labels; generative models can sample, probabilistic ones also assign likelihoods, latent-variable models map a simple latent space to data.",
+     "terms": [
+      "unsupervised learning taxonomy",
+      "generative models",
+      "probabilistic models"
+     ]
+    },
+    {
+     "title": "14.2 What makes a good generative model?",
+     "start": 285,
+     "end": 287,
+     "summary": "Desired properties: efficient sampling, high quality, coverage of the data, a well-behaved latent space and the ability to evaluate probability. No family has all of them.",
+     "terms": [
+      "sampling",
+      "coverage",
+      "latent space",
+      "likelihood"
+     ]
+    },
+    {
+     "title": "14.3 Quantifying performance",
+     "start": 287,
+     "end": 289,
+     "summary": "Ways to score generative models: test likelihood, Inception score, FID, and manifold-based precision and recall.",
+     "terms": [
+      "test likelihood",
+      "Inception score",
+      "FID",
+      "precision and recall"
+     ]
+    },
+    {
+     "title": "14.4 Summary",
+     "start": 289,
+     "end": 289,
+     "summary": "Recap of the taxonomy and what each later chapter's model can do.",
+     "terms": [
+      "summary of generative models"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "15. Generative Adversarial Networks",
+   "start": 290,
+   "end": 318,
+   "summary": "GANs generate samples by fooling a discriminator. Much of the chapter is about why training is unstable and how to fix it.",
+   "sections": [
+    {
+     "title": "15.1 Discrimination as a signal",
+     "start": 290,
+     "end": 295,
+     "summary": "A generator maps noise to samples and a discriminator learns to tell them from real data; the two play a minimax game. DCGAN made it work for images, but training is hard.",
+     "terms": [
+      "GAN",
+      "generator",
+      "discriminator",
+      "minimax",
+      "DCGAN"
+     ]
+    },
+    {
+     "title": "15.2 Improving stability",
+     "start": 295,
+     "end": 301,
+     "summary": "Mode dropping and collapse; the original loss gives vanishing gradients when the discriminator wins. The Wasserstein distance, from optimal transport, gives a smoother signal and a more stable loss.",
+     "terms": [
+      "mode collapse",
+      "mode dropping",
+      "vanishing gradients",
+      "Wasserstein distance",
+      "optimal transport",
+      "WGAN"
+     ]
+    },
+    {
+     "title": "15.3 Improving quality",
+     "start": 301,
+     "end": 303,
+     "summary": "Progressive growing, minibatch discrimination and truncation of the latent distribution improve image quality and diversity.",
+     "terms": [
+      "progressive growing",
+      "minibatch discrimination",
+      "truncation trick"
+     ]
+    },
+    {
+     "title": "15.4 Conditional generation",
+     "start": 303,
+     "end": 305,
+     "summary": "Conditional GANs and auxiliary-classifier GANs generate samples with chosen attributes.",
+     "terms": [
+      "conditional GAN",
+      "auxiliary classifier GAN"
+     ]
+    },
+    {
+     "title": "15.5 Image translation",
+     "start": 305,
+     "end": 310,
+     "summary": "InfoGAN discovers interpretable attributes on its own; Pix2Pix and CycleGAN translate images between styles, with and without paired examples.",
+     "terms": [
+      "InfoGAN",
+      "Pix2Pix",
+      "CycleGAN",
+      "image translation"
+     ]
+    },
+    {
+     "title": "15.6 StyleGAN",
+     "start": 310,
+     "end": 312,
+     "summary": "StyleGAN injects style vectors and noise at several scales, separating coarse and fine variation.",
+     "terms": [
+      "StyleGAN",
+      "adaptive instance normalization"
+     ]
+    },
+    {
+     "title": "15.7 Summary",
+     "start": 312,
+     "end": 318,
+     "summary": "Recap, then notes on the large GAN literature and evaluation.",
+     "terms": [
+      "GAN literature"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "16. Normalizing flows",
+   "start": 319,
+   "end": 342,
+   "summary": "Normalizing flows transform a simple distribution through invertible layers, so they can both sample and compute exact likelihoods.",
+   "sections": [
+    {
+     "title": "16.1 1D Normalizing flows example",
+     "start": 319,
+     "end": 322,
+     "summary": "A 1D example: probability changes by the slope of the mapping, so an invertible function gives a density you can evaluate in either direction.",
+     "terms": [
+      "change of variables",
+      "normalizing flow"
+     ]
+    },
+    {
+     "title": "16.2 General case",
+     "start": 322,
+     "end": 324,
+     "summary": "In many dimensions the scaling factor is the Jacobian determinant. A deep flow is a stack of invertible layers trained by maximum likelihood.",
+     "terms": [
+      "Jacobian determinant",
+      "invertible network"
+     ]
+    },
+    {
+     "title": "16.3 Invertible network layers",
+     "start": 324,
+     "end": 332,
+     "summary": "Layers must be expressive, invertible and have cheap Jacobians. Linear, elementwise, coupling, autoregressive and inverse-autoregressive flows, then residual flows (iRevNet, iResNet).",
+     "terms": [
+      "linear flows",
+      "elementwise flows",
+      "coupling flows",
+      "autoregressive flows",
+      "inverse autoregressive flows",
+      "iRevNet",
+      "iResNet"
+     ]
+    },
+    {
+     "title": "16.4 Multi-scale flows",
+     "start": 332,
+     "end": 333,
+     "summary": "Multi-scale flows set some latent dimensions aside early to save computation.",
+     "terms": [
+      "multi-scale flows"
+     ]
+    },
+    {
+     "title": "16.5 Applications",
+     "start": 333,
+     "end": 336,
+     "summary": "Density modeling and image synthesis (GLOW), and using a flow to approximate another density model.",
+     "terms": [
+      "density modeling",
+      "GLOW",
+      "image synthesis"
+     ]
+    },
+    {
+     "title": "16.6 Summary",
+     "start": 336,
+     "end": 342,
+     "summary": "Recap, then notes and the open question of why flow samples trail GANs and diffusion.",
+     "terms": [
+      "approximating densities",
+      "flow sample quality"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "17. Variational autoencoders",
+   "start": 343,
+   "end": 364,
+   "summary": "VAEs train a nonlinear latent-variable model by maximizing a lower bound on likelihood, using an encoder to approximate the posterior.",
+   "sections": [
+    {
+     "title": "17.1 Latent variable models",
+     "start": 343,
+     "end": 344,
+     "summary": "The data distribution is modeled by marginalizing over a hidden variable.",
+     "terms": [
+      "latent variable model",
+      "marginalization"
+     ]
+    },
+    {
+     "title": "17.2 Nonlinear latent variable model",
+     "start": 344,
+     "end": 347,
+     "summary": "A mixture of Gaussians as the simple case; then a deep network maps a continuous latent to the data mean, and new samples come from ancestral sampling.",
+     "terms": [
+      "mixture of Gaussians",
+      "nonlinear latent variable model",
+      "ancestral sampling"
+     ]
+    },
+    {
+     "title": "17.3 Training",
+     "start": 347,
+     "end": 350,
+     "summary": "The likelihood integral is intractable, so Jensen's inequality gives the evidence lower bound (ELBO).",
+     "terms": [
+      "evidence lower bound",
+      "ELBO",
+      "Jensen\u2019s inequality"
+     ]
+    },
+    {
+     "title": "17.4 ELBO properties",
+     "start": 350,
+     "end": 352,
+     "summary": "The bound is tight when the auxiliary distribution equals the posterior; it can be read as reconstruction quality minus distance to the prior.",
+     "terms": [
+      "tightness of bound",
+      "reconstruction loss",
+      "KL divergence"
+     ]
+    },
+    {
+     "title": "17.5 Variational approximation",
+     "start": 352,
+     "end": 352,
+     "summary": "Choose a simple (Gaussian) auxiliary distribution and fit it to the true posterior.",
+     "terms": [
+      "variational approximation",
+      "posterior"
+     ]
+    },
+    {
+     "title": "17.6 The variational autoencoder",
+     "start": 352,
+     "end": 355,
+     "summary": "The VAE: an encoder predicts the approximate posterior for each example, and a decoder reconstructs the data from samples.",
+     "terms": [
+      "variational autoencoder",
+      "VAE",
+      "encoder",
+      "decoder"
+     ]
+    },
+    {
+     "title": "17.7 The reparameterization trick",
+     "start": 355,
+     "end": 356,
+     "summary": "The reparameterization trick moves randomness into an input so gradients flow through the sampling step.",
+     "terms": [
+      "reparameterization trick"
+     ]
+    },
+    {
+     "title": "17.8 Applications",
+     "start": 356,
+     "end": 359,
+     "summary": "Estimating sample probability by importance sampling, generation, resynthesis and disentangled latent spaces.",
+     "terms": [
+      "importance sampling",
+      "resynthesis",
+      "disentanglement"
+     ]
+    },
+    {
+     "title": "17.9 Summary",
+     "start": 359,
+     "end": 364,
+     "summary": "Recap, then notes on \u03b2-VAE, other variants and the link to expectation maximization.",
+     "terms": [
+      "beta-VAE",
+      "expectation maximization"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "18. Diffusion models",
+   "start": 365,
+   "end": 388,
+   "summary": "Diffusion models add noise in many small steps and learn to undo them. The ELBO reduces to a simple noise-prediction loss.",
+   "sections": [
+    {
+     "title": "18.1 Overview",
+     "start": 365,
+     "end": 366,
+     "summary": "Like flows the latent has the data's size; like VAEs training uses a lower bound. The encoder is fixed noise addition.",
+     "terms": [
+      "diffusion model",
+      "latent variables",
+      "ELBO"
+     ]
+    },
+    {
+     "title": "18.2 Encoder (forward process)",
+     "start": 366,
+     "end": 372,
+     "summary": "The forward process blends data with Gaussian noise under a schedule. Closed-form diffusion kernels and conditional distributions make every step's distribution computable.",
+     "terms": [
+      "forward process",
+      "noise schedule",
+      "diffusion kernel"
+     ]
+    },
+    {
+     "title": "18.3 Decoder model (reverse process)",
+     "start": 372,
+     "end": 373,
+     "summary": "The decoder approximates each reverse step with a Gaussian whose mean a network predicts.",
+     "terms": [
+      "reverse process",
+      "decoder"
+     ]
+    },
+    {
+     "title": "18.4 Training",
+     "start": 373,
+     "end": 377,
+     "summary": "The ELBO simplifies to a sum of KL terms between Gaussians, giving a least-squares loss and a simple training procedure.",
+     "terms": [
+      "diffusion loss",
+      "training procedure"
+     ]
+    },
+    {
+     "title": "18.5 Reparameterization of loss function",
+     "start": 377,
+     "end": 379,
+     "summary": "Reparameterizing so the network predicts the added noise gives the simplest, best-performing loss.",
+     "terms": [
+      "noise prediction",
+      "reparameterization"
+     ]
+    },
+    {
+     "title": "18.6 Implementation",
+     "start": 379,
+     "end": 384,
+     "summary": "Image diffusion with U-Nets, faster sampling (DDIM and others), classifier and classifier-free guidance, and cascaded text-to-image generation.",
+     "terms": [
+      "U-Net",
+      "DDIM",
+      "classifier guidance",
+      "classifier-free guidance",
+      "cascaded generation",
+      "text-to-image"
+     ]
+    },
+    {
+     "title": "18.7 Summary",
+     "start": 384,
+     "end": 388,
+     "summary": "Recap, then notes on score matching and related views.",
+     "terms": [
+      "score matching"
+     ]
+    }
+   ]
+  }
+ ],
+ "tail": [
+  [
+   "19. Reinforcement learning",
+   "A placeholder in this draft; the chapter was not yet written."
+  ],
+  [
+   "20. Why does deep learning work?",
+   "A placeholder in this draft; the chapter was not yet written."
+  ],
+  [
+   "Appendices",
+   "Notation, probability (expectations and common distributions) and a short maths reference, mostly section headings in this draft."
+  ]
+ ],
+ "url": "https://drive.google.com/file/d/1QAJf3zjp95eBhmwZb3UAlQKPG0iYWgw6/view"
+}

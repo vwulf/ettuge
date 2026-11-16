@@ -1,0 +1,275 @@
+{
+ "title": "Intuitionistic Type Theory",
+ "byline": "Per Martin-L\u00f6f \u00b7 Padua lectures (1980), Bibliopolis 1984, retypeset edition",
+ "note": "A short set of lecture notes, one continuous text with numbered topics rather than chapters. Here it is split into its two halves: what the judgements mean, then the rules for each way of forming sets. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "Martin-L\u00f6f lays out a constructive foundation in which propositions are sets, proofs are their elements and elements are programs. The first half explains what it means to judge that something is a set, an element, or equal, starting from canonical elements and the methods that compute them, then extends this to hypothetical judgements and contexts. The second half gives each type former by the same four rules (formation, introduction, elimination, equality): dependent products, dependent sums, finite sets, disjoint union, identity types, natural numbers, lists, well-founded trees and universes. Along the way logic falls out of the types: the axiom of choice becomes provable, and consistency follows from the meaning explanations.",
+ "chapters": [
+  {
+   "title": "Meaning explanations",
+   "start": 7,
+   "end": 19,
+   "sections": [
+    {
+     "title": "Introductory remarks",
+     "start": 7,
+     "end": 7,
+     "summary": "Logic can be symbolism, foundations, or a branch of mathematics; type theory is offered as foundations and doubles as a programming language.",
+     "terms": [
+      "mathematical logic",
+      "foundations"
+     ]
+    },
+    {
+     "title": "Propositions and judgements",
+     "start": 8,
+     "end": 9,
+     "summary": "A proposition is something that can be proved; a judgement is the act of asserting something about it. The distinction is central.",
+     "terms": [
+      "proposition",
+      "judgement",
+      "assertion"
+     ]
+    },
+    {
+     "title": "Explanations of the forms of judgement",
+     "start": 10,
+     "end": 11,
+     "summary": "Each judgement form reads four ways: set and element, proposition and proof, intention and fulfillment, problem and solution.",
+     "terms": [
+      "forms of judgement",
+      "propositions as types",
+      "BHK interpretation"
+     ]
+    },
+    {
+     "title": "Propositions",
+     "start": 12,
+     "end": 13,
+     "summary": "A set is given by how its canonical elements are formed and when they are equal; an element is a program that computes a canonical element.",
+     "terms": [
+      "canonical elements",
+      "meaning explanations"
+     ]
+    },
+    {
+     "title": "Rules of equality",
+     "start": 14,
+     "end": 14,
+     "summary": "Reflexivity, symmetry, transitivity and the set-equality rules, justified directly from the meanings.",
+     "terms": [
+      "equality rules",
+      "transitivity",
+      "symmetry"
+     ]
+    },
+    {
+     "title": "Hypothetical judgements and substitution rules",
+     "start": 15,
+     "end": 15,
+     "summary": "Judgements under one assumption, and the substitution rules that let you plug in elements.",
+     "terms": [
+      "hypothetical judgement",
+      "substitution"
+     ]
+    },
+    {
+     "title": "Judgements with more than one assumption and contexts",
+     "start": 16,
+     "end": 16,
+     "summary": "Several assumptions form a context, each depending on the earlier ones.",
+     "terms": [
+      "contexts",
+      "dependent assumptions"
+     ]
+    },
+    {
+     "title": "Sets and categories",
+     "start": 17,
+     "end": 18,
+     "summary": "Families of sets, and the distinction between sets and the larger categories of types.",
+     "terms": [
+      "families of sets",
+      "categories"
+     ]
+    },
+    {
+     "title": "General remarks on the rules",
+     "start": 19,
+     "end": 19,
+     "summary": "Every type former is given by four kinds of rule, and each rule is justified by the meaning explanations.",
+     "terms": [
+      "formation rules",
+      "introduction rules",
+      "elimination rules",
+      "equality rules"
+     ]
+    }
+   ],
+   "summary": "The meaning of the four forms of judgement, from propositions and canonical elements to hypothetical judgements, contexts and the pattern every rule follows."
+  },
+  {
+   "title": "The set formers",
+   "start": 19,
+   "end": 57,
+   "sections": [
+    {
+     "title": "Cartesian product of a family of sets",
+     "start": 19,
+     "end": 21,
+     "summary": "The dependent function type \u03a0: \u03bb-abstraction introduces it, application eliminates it, \u03b2-equality connects them.",
+     "terms": [
+      "Pi type",
+      "dependent function",
+      "lambda abstraction",
+      "application"
+     ]
+    },
+    {
+     "title": "Definitional equality",
+     "start": 22,
+     "end": 22,
+     "summary": "Definitional equality is the equality of names that the system computes with, as opposed to proved equality.",
+     "terms": [
+      "definitional equality"
+     ]
+    },
+    {
+     "title": "Applications of the cartesian product",
+     "start": 22,
+     "end": 25,
+     "summary": "\u03a0 gives universal quantification, implication and ordinary function spaces; worked derivations of combinators.",
+     "terms": [
+      "universal quantifier",
+      "implication",
+      "combinators"
+     ]
+    },
+    {
+     "title": "Disjoint union of a family of sets",
+     "start": 26,
+     "end": 27,
+     "summary": "The dependent pair type \u03a3, with pairing and a split eliminator.",
+     "terms": [
+      "Sigma type",
+      "dependent pair"
+     ]
+    },
+    {
+     "title": "Applications of the disjoint union",
+     "start": 28,
+     "end": 32,
+     "summary": "\u03a3 gives existential quantification, conjunction and Cartesian products; real numbers as sequences paired with proofs.",
+     "terms": [
+      "existential quantifier",
+      "conjunction",
+      "Cauchy reals"
+     ]
+    },
+    {
+     "title": "The axiom of choice",
+     "start": 33,
+     "end": 33,
+     "summary": "Under this reading of the quantifiers, the axiom of choice is a theorem with a short constructive proof.",
+     "terms": [
+      "axiom of choice"
+     ]
+    },
+    {
+     "title": "The notion of such that",
+     "start": 34,
+     "end": 34,
+     "summary": "Subsets defined by \u201csuch that\u201d are pairs of an element and a proof of the property.",
+     "terms": [
+      "subset types",
+      "such that"
+     ]
+    },
+    {
+     "title": "Disjoint union of two sets",
+     "start": 35,
+     "end": 36,
+     "summary": "Binary sum A + B with injections and case analysis; it gives disjunction.",
+     "terms": [
+      "disjoint union",
+      "sum type",
+      "disjunction"
+     ]
+    },
+    {
+     "title": "Propositional equality",
+     "start": 37,
+     "end": 40,
+     "summary": "The identity type I(A, a, b) internalizes equality as a set; equality of functions and its limits.",
+     "terms": [
+      "identity type",
+      "propositional equality",
+      "function extensionality"
+     ]
+    },
+    {
+     "title": "Finite sets",
+     "start": 41,
+     "end": 42,
+     "summary": "Finite sets N\u2080, N\u2081, N\u2082 \u2026 given outright; N\u2080 is falsity, N\u2082 the Booleans with if\u2013then\u2013else.",
+     "terms": [
+      "finite sets",
+      "empty type",
+      "Booleans"
+     ]
+    },
+    {
+     "title": "Consistency",
+     "start": 43,
+     "end": 43,
+     "summary": "Consistency (\u22a5 is never true) follows from the meaning explanations, though any metamathematical proof leans on a weaker theory.",
+     "terms": [
+      "consistency"
+     ]
+    },
+    {
+     "title": "Natural numbers",
+     "start": 44,
+     "end": 47,
+     "summary": "Natural numbers with primitive recursion, which also gives proof by induction.",
+     "terms": [
+      "natural numbers",
+      "primitive recursion",
+      "induction"
+     ]
+    },
+    {
+     "title": "Lists",
+     "start": 48,
+     "end": 48,
+     "summary": "Lists with a recursion operator, defined the same way.",
+     "terms": [
+      "lists",
+      "list recursion"
+     ]
+    },
+    {
+     "title": "Wellorderings",
+     "start": 49,
+     "end": 52,
+     "summary": "W-types: well-founded trees that give constructive ordinals and transfinite induction.",
+     "terms": [
+      "W-types",
+      "well-orderings",
+      "transfinite induction"
+     ]
+    },
+    {
+     "title": "Universes",
+     "start": 53,
+     "end": 57,
+     "summary": "Universes: a set of (codes for) sets, closed under the type formers, so sets can be quantified over.",
+     "terms": [
+      "universes"
+     ]
+    }
+   ],
+   "summary": "The type formers, each given by formation, introduction, elimination and equality rules, with the logic and mathematics they encode."
+  }
+ ],
+ "url": "https://drive.google.com/file/d/11p7qWzLE-0zW95B_O5sfUNVhoE4AQXXw/view"
+}

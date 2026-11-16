@@ -1,0 +1,58 @@
+{
+ "title": "Surreal Numbers (opening chapters)",
+ "byline": "Donald E. Knuth \u00b7 Addison-Wesley, 1974 (chapters 1\u20134)",
+ "note": "This PDF holds the first four chapters of Knuth\u2019s novelette. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "Two ex-students on a remote beach dig up a stone carved with Conway\u2019s rules for creating numbers, told like a creation story. Working it out together, they rebuild the theory of surreal numbers from two rules: a number is a pair of sets of earlier numbers, left and right, with nothing on the left at least anything on the right; and an order relation defined recursively in terms of those sets. The real subject is how mathematics is done: translating words into symbols, testing conjectures on small cases, generalizing, and finding a proof by trying to disprove a claim.",
+ "chapters": [
+  {
+   "title": "1. The Rock",
+   "start": 2,
+   "end": 7,
+   "sections": [],
+   "summary": "Bill and Alice, months into living off the grid, find a buried stone whose inscription describes Conway creating zero from two empty sets, then one and minus one.",
+   "terms": [
+    "Conway",
+    "surreal numbers",
+    "creation rules"
+   ]
+  },
+  {
+   "title": "2. Symbols",
+   "start": 8,
+   "end": 13,
+   "sections": [],
+   "summary": "Alice rewrites the stone\u2019s rules in symbols: a number is a pair of sets (left, right), and \u2264 is defined recursively. They check why the empty-set cases make sense.",
+   "terms": [
+    "left set",
+    "right set",
+    "less than or equal",
+    "empty set"
+   ]
+  },
+  {
+   "title": "3. Proofs",
+   "start": 14,
+   "end": 18,
+   "sections": [],
+   "summary": "They suspect the stone\u2019s \u201cequal\u201d means something weaker, \u201clike\u201d, and start proving small facts about the order, then see a general pattern that covers infinitely many cases.",
+   "terms": [
+    "equality of numbers",
+    "proof by generalization"
+   ]
+  },
+  {
+   "title": "4. Bad Numbers",
+   "start": 19,
+   "end": 25,
+   "sections": [],
+   "summary": "Counting the numbers born on the third day leads them to need transitivity. Trying to disprove it with \u201cbad\u201d triples of numbers, they find that each bad triple yields a simpler one, which is impossible, and so prove the law.",
+   "terms": [
+    "third day numbers",
+    "transitivity",
+    "proof by contradiction",
+    "infinite descent"
+   ]
+  }
+ ],
+ "url": "https://drive.google.com/file/d/12G5Lfual51qlzhWrhZqmOUaSUCjIhtBh/view"
+}

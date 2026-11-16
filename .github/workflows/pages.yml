@@ -92,8 +92,9 @@ jobs:
       - name: Copy Deep Dives into docs/Deep-Dives/
         run: |
           rm -rf docs/Deep-Dives || true
-          mkdir -p docs/Deep-Dives
+          mkdir -p docs/Deep-Dives/textbooks
           cp src/main/md/deep-dives/*.md docs/Deep-Dives/
+          cp src/main/md/deep-dives/textbooks/*.md docs/Deep-Dives/textbooks/ 2>/dev/null || true
 
       - name: Copy Tinkering posts into docs/Tinkering/
         run: |
@@ -367,12 +368,14 @@ jobs:
                       total_files += 1
           # Split Deep Dives topic pages the same way (index.md is the hub, not split)
           DOCS_DEEP = 'docs/Deep-Dives'
-          if os.path.isdir(DOCS_DEEP):
-              for fname in sorted(os.listdir(DOCS_DEEP)):
+          for deep_dir in [DOCS_DEEP, os.path.join(DOCS_DEEP, 'textbooks')]:
+              if not os.path.isdir(deep_dir):
+                  continue
+              for fname in sorted(os.listdir(deep_dir)):
                   if not fname.endswith('.md') or fname == 'index.md':
                       continue
-                  fp = os.path.join(DOCS_DEEP, fname)
-                  out_sub = os.path.join(DOCS_DEEP, os.path.splitext(fname)[0])
+                  fp = os.path.join(deep_dir, fname)
+                  out_sub = os.path.join(deep_dir, os.path.splitext(fname)[0])
                   os.makedirs(out_sub, exist_ok=True)
                   n = split_file(fp, out_dir=out_sub)
                   if n:
@@ -1037,8 +1040,6 @@ jobs:
               ('ai.md',             'AI and Machine Learning', 2, 'ai-deep-dives'),
               ('fitness.md',        'Health and Fitness',      3, 'fitness-deep-dives'),
               ('ellara-kannada.md', 'Ellara Kannada',          4, 'ellara-kannada-deep-dives'),
-              # Textbook breakdowns: book → chapter → section, leaves point into the PDF
-              ('understanding-deep-learning.md', 'Textbook: Understanding Deep Learning', 5, None),
           ]
 
           def add_redirects(fpath, urls):
@@ -1062,14 +1063,14 @@ jobs:
                       f.write(body)
                   sidebar_files.add(hub)
 
-              for fname, title, nav_order, old in DEEP_CATS:
-                  fpath = os.path.join(DEEPDIR, fname)
+              def deep_topic(base, fname, title, extra_fm, old=None):
+                  """Topic page lands on ch1; chapter links point into its folder."""
+                  fpath = os.path.join(base, fname)
                   if not os.path.exists(fpath):
-                      continue
+                      return
                   stem = os.path.splitext(fname)[0]
-                  ch1_path = os.path.join(DEEPDIR, stem, 'ch1.md')
+                  ch1_path = os.path.join(base, stem, 'ch1.md')
                   if os.path.exists(ch1_path):
-                      # Land on ch1 directly; chapter links point into the topic folder
                       with open(ch1_path, encoding='utf-8') as f:
                           body = strip_fm(f.read())
                       body = re.sub(r'\(ch0\)', '(./)', body)
@@ -1082,12 +1083,12 @@ jobs:
                   body = re.sub(r'\]\(ch(\d+)\)', lambda m: f']({stem}/ch{m.group(1)})', body)
                   body = re.sub(r'\]\(((?!http)[^)]+)\.md\)', r'](\1)', body)
                   with open(fpath, 'w', encoding='utf-8') as f:
-                      f.write(fm(title=title, parent=DEEP_TITLE, nav_order=nav_order,
+                      f.write(fm(title=title, **extra_fm,
                                  **({'redirect_from': [f'/Reflection/{old}', f'/Reflection/{old}.html']} if old else {})))
                       f.write(body)
                   sidebar_files.add(fpath)
 
-                  sub_dir = os.path.join(DEEPDIR, stem)
+                  sub_dir = os.path.join(base, stem)
                   if os.path.isdir(sub_dir):
                       for chf in sorted(os.listdir(sub_dir)):
                           if not re.match(r'ch\d+\.md$', chf):
@@ -1102,6 +1103,34 @@ jobs:
                           n = os.path.splitext(chf)[0]
                           if old:
                               add_redirects(chfp, [f'/Reflection/{old}/{n}', f'/Reflection/{old}/{n}.html'])
+
+              for fname, title, nav_order, old in DEEP_CATS:
+                  deep_topic(DEEPDIR, fname, title, {'parent': DEEP_TITLE, 'nav_order': nav_order}, old)
+
+              # Textbooks (L2 under Deep Dives): one page per book, broken down
+              # book → chapter → section, each section pointing to its PDF pages.
+              # The book's sidebar title is its page's first H1.
+              TB_DIR, TB_TITLE = os.path.join(DEEPDIR, 'textbooks'), 'Textbooks'
+              tb_hub = os.path.join(TB_DIR, 'index.md')
+              if os.path.exists(tb_hub):
+                  with open(tb_hub, encoding='utf-8') as f:
+                      body = strip_fm(f.read())
+                  body = re.sub(r'\]\(((?!http)[^)]+)\.md\)', r'](\1)', body)
+                  with open(tb_hub, 'w', encoding='utf-8') as f:
+                      f.write(fm(title=TB_TITLE, parent=DEEP_TITLE, nav_order=5, has_children=True))
+                      f.write(body)
+                  sidebar_files.add(tb_hub)
+                  for fname in sorted(os.listdir(TB_DIR)):
+                      if not fname.endswith('.md') or fname == 'index.md':
+                          continue
+                      with open(os.path.join(TB_DIR, fname), encoding='utf-8') as f:
+                          h1 = re.search(r'^# (.+)$', f.read(), re.M)
+                      book = h1.group(1).strip() if h1 else os.path.splitext(fname)[0]
+                      stem = os.path.splitext(fname)[0]
+                      moved = stem in ('understanding-deep-learning',)   # first published one level up
+                      deep_topic(TB_DIR, fname, book,
+                                 {'parent': TB_TITLE, 'grand_parent': DEEP_TITLE,
+                                  **({'redirect_from': [f'/Deep-Dives/{stem}', f'/Deep-Dives/{stem}.html']} if moved else {})})
 
           # ── Pass 8: nav_exclude all remaining .md files in all docs/ sections ─────
           for scan_root in [KANNADADIR, FPDIR, TINKDIR, REFLDIR, DEEPDIR]:
