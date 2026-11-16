@@ -26,10 +26,13 @@ Partial PDFs (samples, excerpts, unfinished drafts) are marked as such on their 
 - [Functional Programming in Lean](functional-programming-in-lean) (David Thrane Christiansen): Lean 4 as a programming language: types, IO, type classes, monads, transformers, dependent types, induction proofs, verified fast code.
 - [Implementing Functional Languages: a tutorial](implementing-functional-languages) (Simon Peyton Jones and David Lester): Building lazy evaluators step by step: template instantiation, G-machine, TIM, parallel G-machine, lambda lifting.
 - [Lambda-Calculus and Combinators](hindley-seldin-lambda-calculus-combinators) (J. Roger Hindley and Jonathan Seldin): λ-calculus and CL side by side: reduction, computability, typing, pure type systems and models.
+- [Learn Programming with OCaml](conchon-filliatre-learn-programming-with-ocaml) (Sylvain Conchon and Jean-Christophe Filliâtre): OCaml through small programs, then classic data structures and algorithms implemented functionally.
 - [Mathematics and Computation](wigderson-mathematics-and-computation) (Avi Wigderson): Panoramic survey of complexity theory, randomness, proofs and its links to mathematics and science.
 - [Modern Systems Programming with Scala Native](scala-native-systems-programming) (Whaling): pointers, processes, libuv, LMDB
 - [Perhaps Not The Answer You Were Expecting](mcbride-perhaps-not-the-answer) (McBride): Stack Overflow answers: applicatives, derivatives, dependent types
+- [Pragmatic Type-Level Design](granin-pragmatic-type-level-design) (Alexander Granin): Type-level programming for application design in Haskell, with Rust and Scala 3 counterparts.
 - [Principles of Eventual Consistency](burckhardt-eventual-consistency) (Burckhardt): histories, abstract executions, CAP, protocols
+- [The Formal Semantics of Programming Languages](winskel-formal-semantics) (Glynn Winskel): Operational, denotational and axiomatic semantics; domain theory, recursive types and concurrency.
 - [The Little Book of Semaphores](little-book-of-semaphores) (Allen B. Downey): Concurrency puzzles solved with semaphores, from classic problems to original ones.
 - [Theorem Proving in Lean 4](theorem-proving-in-lean-4) (Avigad, de Moura, Kong, Ullrich): dependent types, tactics, inductive types, type classes
 - [Type Theory and Functional Programming](thompson-type-theory-functional-programming) (Simon Thompson): Martin-Löf type theory as logic and programming language, with program development and extensions.
@@ -42,15 +45,21 @@ Partial PDFs (samples, excerpts, unfinished drafts) are marked as such on their 
 - [Category Theory for Programmers (Scala edition)](milewski-category-theory-for-programmers) (Bartosz Milewski): Category theory through code: functors, Yoneda, adjunctions, monads, comonads, F-algebras, ends, Kan extensions.
 - [Category Theory for Scientists](spivak-category-theory-for-scientists) (Spivak): ologs, databases, limits, adjoints, monads, operads
 - [Conceptual Mathematics](lawvere-conceptual-mathematics) (F. William Lawvere and Stephen Schanuel): A first course in categories from sets and maps to products, exponentials and toposes.
+- [Geometric Structures on Manifolds](goldman-geometric-structures-on-manifolds) (William M. Goldman): (G,X)-structures: affine and projective geometry, developing maps, completeness, convex projective surfaces.
 - [Graph Theory and Additive Combinatorics](zhao-graph-theory-additive-combinatorics) (Yufei Zhao): Extremal graphs, regularity, pseudorandomness, graph limits, Roth, Freiman and Green–Tao.
 - [Introduction to Logic and to the Methodology of Deductive Sciences](tarski-introduction-to-logic) (Tarski): sentential calculus, classes, relations, axiomatics
 - [Intuitionistic Type Theory](martin-lof-intuitionistic-type-theory) (Martin-Löf): meaning explanations and the type formers
 - [Intuitive Topology](prasolov-intuitive-topology) (Prasolov): knots, homeomorphisms, vector fields, surfaces
 - [Linear Algebra Done Wrong](linear-algebra-done-wrong) (Sergei Treil): Rigorous first course with early determinants, through SVD, quadratic forms, tensors and Jordan form.
 - [Linear Algebra via Exterior Products](linear-algebra-via-exterior-products) (Sergei Winitzki): Coordinate-free linear algebra where determinants, trace and Jordan form come from wedge products.
+- [Linear Algebra, Theory and Applications](kuttler-linear-algebra) (Kenneth Kuttler): Matrix computation and theory: factorizations, canonical forms, spectral theory, SVD, norms, numerics.
 - [Module Theory: An Approach to Linear Algebra](blyth-module-theory) (T. S. Blyth): Linear algebra over rings: exact sequences, projective and injective modules, tensors, PIDs and canonical forms.
 - [Surreal Numbers (opening chapters)](surreal-numbers) (Knuth): Conway’s numbers rediscovered as a story
 - [The Discrete Algebra of the Fourier Transform](discrete-algebra-fourier-transform) (Gabriel Peyré): Fourier analysis on finite groups, the DFT and FFT, finite-field transforms and group representations.
+
+## Linguistics and Languages
+
+- [A Manual of Modern Kannada](zydenbos-manual-of-modern-kannada) (Robert J. Zydenbos): Grammar course in modern written Kannada: 19 lessons from nominal sentences to moods, plus sandhi, numerals and script.
 
 ## Other
 

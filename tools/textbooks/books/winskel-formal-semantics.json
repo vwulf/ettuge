@@ -1,0 +1,956 @@
+{
+ "url": "https://drive.google.com/file/d/12WkGhXZLcw9l6yMqqHBRpUBQ5R1cwxUk/view",
+ "chapters": [
+  {
+   "title": "1 Basic set theory",
+   "start": 22,
+   "end": 31,
+   "sections": [
+    {
+     "title": "1.1 Logical notation",
+     "start": 22,
+     "end": 22,
+     "summary": "Logical notation.",
+     "terms": [
+      "logic notation"
+     ]
+    },
+    {
+     "title": "1.2 Sets",
+     "start": 23,
+     "end": 26,
+     "summary": "Sets and constructions.",
+     "terms": [
+      "sets"
+     ]
+    },
+    {
+     "title": "1.3 Relations and functions",
+     "start": 27,
+     "end": 30,
+     "summary": "Relations and functions.",
+     "terms": [
+      "relations",
+      "functions"
+     ]
+    }
+   ],
+   "summary": "Logic and set-theory notation used later."
+  },
+  {
+   "title": "2 Introduction to operational semantics",
+   "start": 32,
+   "end": 47,
+   "sections": [
+    {
+     "title": "2.1 IMP: a simple imperative language",
+     "start": 32,
+     "end": 33,
+     "summary": "The language IMP.",
+     "terms": [
+      "IMP"
+     ]
+    },
+    {
+     "title": "2.2 The evaluation of arithmetic expressions",
+     "start": 34,
+     "end": 37,
+     "summary": "Evaluating arithmetic expressions.",
+     "terms": [
+      "arithmetic expressions",
+      "evaluation"
+     ]
+    },
+    {
+     "title": "2.3 The evaluation of boolean expressions",
+     "start": 38,
+     "end": 39,
+     "summary": "Boolean expressions.",
+     "terms": [
+      "boolean expressions"
+     ]
+    },
+    {
+     "title": "2.4 The execution of commands",
+     "start": 40,
+     "end": 40,
+     "summary": "Executing commands.",
+     "terms": [
+      "commands",
+      "big-step semantics"
+     ]
+    },
+    {
+     "title": "2.5 A simple proof",
+     "start": 41,
+     "end": 44,
+     "summary": "A first proof about the semantics.",
+     "terms": [
+      "proof"
+     ]
+    },
+    {
+     "title": "2.6 Alternative semantics",
+     "start": 45,
+     "end": 46,
+     "summary": "Small-step alternatives.",
+     "terms": [
+      "small-step semantics"
+     ]
+    }
+   ],
+   "summary": "Big-step operational semantics for IMP."
+  },
+  {
+   "title": "3 Some principles of induction",
+   "start": 48,
+   "end": 61,
+   "sections": [
+    {
+     "title": "3.1 Mathematical induction",
+     "start": 48,
+     "end": 48,
+     "summary": "Mathematical induction.",
+     "terms": [
+      "mathematical induction"
+     ]
+    },
+    {
+     "title": "3.2 Structural induction",
+     "start": 49,
+     "end": 51,
+     "summary": "Structural induction.",
+     "terms": [
+      "structural induction"
+     ]
+    },
+    {
+     "title": "3.3 Well-founded induction",
+     "start": 52,
+     "end": 55,
+     "summary": "Well-founded induction.",
+     "terms": [
+      "well-founded induction"
+     ]
+    },
+    {
+     "title": "3.4 Induction on derivations",
+     "start": 56,
+     "end": 59,
+     "summary": "Induction on derivations.",
+     "terms": [
+      "induction on derivations"
+     ]
+    },
+    {
+     "title": "3.5 Definitions by induction",
+     "start": 60,
+     "end": 60,
+     "summary": "Definitions by induction.",
+     "terms": [
+      "inductive definitions"
+     ]
+    }
+   ],
+   "summary": "Induction principles for reasoning about programs."
+  },
+  {
+   "title": "4 Inductive definitions",
+   "start": 62,
+   "end": 75,
+   "sections": [
+    {
+     "title": "4.1 Rule induction",
+     "start": 62,
+     "end": 64,
+     "summary": "Rule induction.",
+     "terms": [
+      "rule induction"
+     ]
+    },
+    {
+     "title": "4.2 Special rule induction",
+     "start": 65,
+     "end": 65,
+     "summary": "Special rule induction.",
+     "terms": [
+      "special rule induction"
+     ]
+    },
+    {
+     "title": "4.3 Proof rules for operational semantics",
+     "start": 66,
+     "end": 72,
+     "summary": "Proof rules for the semantics.",
+     "terms": [
+      "operational semantics proofs"
+     ]
+    },
+    {
+     "title": "4.4 Operators and their least fixed points",
+     "start": 73,
+     "end": 74,
+     "summary": "Least fixed points of operators.",
+     "terms": [
+      "least fixed point"
+     ]
+    }
+   ],
+   "summary": "Rules, rule induction and least fixed points."
+  },
+  {
+   "title": "5 The denotational semantics of IMP",
+   "start": 76,
+   "end": 97,
+   "sections": [
+    {
+     "title": "5.1 Motivation",
+     "start": 76,
+     "end": 76,
+     "summary": "Why denotations.",
+     "terms": [
+      "motivation"
+     ]
+    },
+    {
+     "title": "5.2 Denotational semantics",
+     "start": 77,
+     "end": 81,
+     "summary": "Meaning functions.",
+     "terms": [
+      "denotational semantics"
+     ]
+    },
+    {
+     "title": "5.3 Equivalence of the semantics",
+     "start": 82,
+     "end": 88,
+     "summary": "Equivalence with operational semantics.",
+     "terms": [
+      "equivalence"
+     ]
+    },
+    {
+     "title": "5.4 Complete partial orders and continuous functions",
+     "start": 89,
+     "end": 94,
+     "summary": "CPOs and continuity.",
+     "terms": [
+      "cpo",
+      "continuous functions",
+      "Kleene fixed point"
+     ]
+    },
+    {
+     "title": "5.5 The Knaster-Tarski Theorem",
+     "start": 95,
+     "end": 95,
+     "summary": "Knaster\u2013Tarski.",
+     "terms": [
+      "Knaster-Tarski"
+     ]
+    }
+   ],
+   "summary": "Denotational semantics of IMP."
+  },
+  {
+   "title": "6 The axiomatic semantics of IMP",
+   "start": 98,
+   "end": 119,
+   "sections": [
+    {
+     "title": "6.1 The idea",
+     "start": 98,
+     "end": 100,
+     "summary": "The idea of assertions.",
+     "terms": [
+      "axiomatic semantics"
+     ]
+    },
+    {
+     "title": "6.2 The assertion language Assn",
+     "start": 101,
+     "end": 104,
+     "summary": "The assertion language.",
+     "terms": [
+      "assertion language"
+     ]
+    },
+    {
+     "title": "6.3 Semantics of assertions",
+     "start": 105,
+     "end": 109,
+     "summary": "Its semantics.",
+     "terms": [
+      "assertion semantics"
+     ]
+    },
+    {
+     "title": "6.4 Proof rules for partial correctness",
+     "start": 110,
+     "end": 111,
+     "summary": "Proof rules.",
+     "terms": [
+      "Hoare rules",
+      "partial correctness"
+     ]
+    },
+    {
+     "title": "6.5 Soundness",
+     "start": 112,
+     "end": 113,
+     "summary": "Soundness.",
+     "terms": [
+      "soundness"
+     ]
+    },
+    {
+     "title": "6.6 Using the Hoare rules: an example",
+     "start": 114,
+     "end": 116,
+     "summary": "A worked example.",
+     "terms": [
+      "example",
+      "loop invariant"
+     ]
+    }
+   ],
+   "summary": "Hoare logic for IMP."
+  },
+  {
+   "title": "7 Completeness of the Hoare rules",
+   "start": 120,
+   "end": 139,
+   "sections": [
+    {
+     "title": "7.1 G del's Incompleteness Theorem",
+     "start": 120,
+     "end": 120,
+     "summary": "G\u00f6del\u2019s incompleteness.",
+     "terms": [
+      "incompleteness"
+     ]
+    },
+    {
+     "title": "7.2 Weakest preconditions and expressiveness",
+     "start": 121,
+     "end": 130,
+     "summary": "Weakest preconditions and expressiveness.",
+     "terms": [
+      "weakest precondition",
+      "expressiveness"
+     ]
+    },
+    {
+     "title": "7.3 Proof of G del's Theorem",
+     "start": 131,
+     "end": 132,
+     "summary": "Proof of G\u00f6del\u2019s theorem.",
+     "terms": [
+      "G\u00f6del"
+     ]
+    },
+    {
+     "title": "7.4 Verification conditions",
+     "start": 133,
+     "end": 135,
+     "summary": "Verification conditions.",
+     "terms": [
+      "verification conditions"
+     ]
+    },
+    {
+     "title": "7.5 Predicate transformers",
+     "start": 136,
+     "end": 137,
+     "summary": "Predicate transformers.",
+     "terms": [
+      "predicate transformers",
+      "Dijkstra"
+     ]
+    }
+   ],
+   "summary": "Relative completeness of Hoare logic."
+  },
+  {
+   "title": "8 Introduction to domain theory",
+   "start": 140,
+   "end": 161,
+   "sections": [
+    {
+     "title": "8.1 Basic definitions",
+     "start": 140,
+     "end": 141,
+     "summary": "Basic definitions.",
+     "terms": [
+      "domain theory",
+      "cpo"
+     ]
+    },
+    {
+     "title": "8.2 Streams: an example",
+     "start": 142,
+     "end": 143,
+     "summary": "Streams example.",
+     "terms": [
+      "streams"
+     ]
+    },
+    {
+     "title": "8.3 Constructions on cpo's",
+     "start": 144,
+     "end": 155,
+     "summary": "Products, functions, lifting, sums.",
+     "terms": [
+      "constructions",
+      "lifting",
+      "function space"
+     ]
+    },
+    {
+     "title": "8.4 A metalanguage",
+     "start": 156,
+     "end": 159,
+     "summary": "A metalanguage for denotations.",
+     "terms": [
+      "metalanguage"
+     ]
+    }
+   ],
+   "summary": "CPOs and constructions on them."
+  },
+  {
+   "title": "9 Recursion equations",
+   "start": 162,
+   "end": 183,
+   "sections": [
+    {
+     "title": "9.1 The language REC",
+     "start": 162,
+     "end": 163,
+     "summary": "The language REC.",
+     "terms": [
+      "REC"
+     ]
+    },
+    {
+     "title": "9.2 Operational semantics of call-by-value",
+     "start": 164,
+     "end": 164,
+     "summary": "CBV operational.",
+     "terms": [
+      "call-by-value"
+     ]
+    },
+    {
+     "title": "9.3 Denotational semantics of call-by-value",
+     "start": 165,
+     "end": 169,
+     "summary": "CBV denotational.",
+     "terms": [
+      "denotational"
+     ]
+    },
+    {
+     "title": "9.4 Equivalence of semantics for call-by-value",
+     "start": 170,
+     "end": 173,
+     "summary": "Equivalence for CBV.",
+     "terms": [
+      "equivalence"
+     ]
+    },
+    {
+     "title": "9.5 Operational semantics of call-by-name",
+     "start": 174,
+     "end": 174,
+     "summary": "CBN operational.",
+     "terms": [
+      "call-by-name"
+     ]
+    },
+    {
+     "title": "9.6 Denotational semantics of call-by-name",
+     "start": 175,
+     "end": 177,
+     "summary": "CBN denotational.",
+     "terms": [
+      "denotational"
+     ]
+    },
+    {
+     "title": "9.7 Equivalence of semantics for call-by-name",
+     "start": 178,
+     "end": 181,
+     "summary": "Equivalence for CBN.",
+     "terms": [
+      "equivalence"
+     ]
+    },
+    {
+     "title": "9.8 Local declarations",
+     "start": 182,
+     "end": 182,
+     "summary": "Local declarations.",
+     "terms": [
+      "let"
+     ]
+    }
+   ],
+   "summary": "Recursive function definitions under two evaluation strategies."
+  },
+  {
+   "title": "10 Techniques for recursion",
+   "start": 184,
+   "end": 203,
+   "sections": [
+    {
+     "title": "10.1 Bekic's Theorem",
+     "start": 184,
+     "end": 186,
+     "summary": "Beki\u010d\u2019s theorem.",
+     "terms": [
+      "Beki\u010d theorem"
+     ]
+    },
+    {
+     "title": "10.2 Fixed-point induction",
+     "start": 187,
+     "end": 194,
+     "summary": "Fixed-point (Scott) induction.",
+     "terms": [
+      "fixed-point induction"
+     ]
+    },
+    {
+     "title": "10.3 Well-founded induction",
+     "start": 195,
+     "end": 196,
+     "summary": "Well-founded induction.",
+     "terms": [
+      "well-founded induction"
+     ]
+    },
+    {
+     "title": "10.4 Well-founded recursion",
+     "start": 197,
+     "end": 199,
+     "summary": "Well-founded recursion.",
+     "terms": [
+      "well-founded recursion"
+     ]
+    },
+    {
+     "title": "10.5 An exercise",
+     "start": 200,
+     "end": 201,
+     "summary": "Exercise.",
+     "terms": [
+      "exercise"
+     ]
+    }
+   ],
+   "summary": "Reasoning about recursive definitions."
+  },
+  {
+   "title": "11 Languages with higher types",
+   "start": 204,
+   "end": 243,
+   "sections": [
+    {
+     "title": "11.1 An eager language",
+     "start": 204,
+     "end": 206,
+     "summary": "An eager language.",
+     "terms": [
+      "eager language"
+     ]
+    },
+    {
+     "title": "11.2 Eager operational semantics",
+     "start": 207,
+     "end": 208,
+     "summary": "Eager operational semantics.",
+     "terms": [
+      "operational"
+     ]
+    },
+    {
+     "title": "11.3 Eager denotational semantics",
+     "start": 209,
+     "end": 210,
+     "summary": "Eager denotational semantics.",
+     "terms": [
+      "denotational"
+     ]
+    },
+    {
+     "title": "11.4 Agreement of eager semantics",
+     "start": 211,
+     "end": 220,
+     "summary": "Their agreement.",
+     "terms": [
+      "adequacy"
+     ]
+    },
+    {
+     "title": "11.5 A lazy language",
+     "start": 221,
+     "end": 221,
+     "summary": "A lazy language.",
+     "terms": [
+      "lazy language"
+     ]
+    },
+    {
+     "title": "11.6 Lazy operational semantics",
+     "start": 222,
+     "end": 223,
+     "summary": "Lazy operational semantics.",
+     "terms": [
+      "operational"
+     ]
+    },
+    {
+     "title": "11.7 Lazy denotational semantics",
+     "start": 224,
+     "end": 224,
+     "summary": "Lazy denotational semantics.",
+     "terms": [
+      "denotational"
+     ]
+    },
+    {
+     "title": "11.8 Agreement of lazy semantics",
+     "start": 225,
+     "end": 229,
+     "summary": "Their agreement.",
+     "terms": [
+      "adequacy"
+     ]
+    },
+    {
+     "title": "11.9 Fixed-point operators",
+     "start": 230,
+     "end": 235,
+     "summary": "Fixed-point operators.",
+     "terms": [
+      "fixed-point operators"
+     ]
+    },
+    {
+     "title": "11.10 Observations and full abstraction",
+     "start": 236,
+     "end": 239,
+     "summary": "Full abstraction.",
+     "terms": [
+      "full abstraction",
+      "observational equivalence"
+     ]
+    },
+    {
+     "title": "11.11 Sums",
+     "start": 240,
+     "end": 241,
+     "summary": "Sum types.",
+     "terms": [
+      "sums"
+     ]
+    }
+   ],
+   "summary": "Higher-order languages, eager and lazy."
+  },
+  {
+   "title": "12 Information systems",
+   "start": 244,
+   "end": 271,
+   "sections": [
+    {
+     "title": "12.1 Recursive types",
+     "start": 244,
+     "end": 245,
+     "summary": "Recursive types motivation.",
+     "terms": [
+      "recursive types"
+     ]
+    },
+    {
+     "title": "12.2 Information systems",
+     "start": 246,
+     "end": 248,
+     "summary": "Information systems.",
+     "terms": [
+      "information systems"
+     ]
+    },
+    {
+     "title": "12.3 Closed families and Scott predomains",
+     "start": 249,
+     "end": 253,
+     "summary": "Closed families and Scott predomains.",
+     "terms": [
+      "Scott predomains"
+     ]
+    },
+    {
+     "title": "12.4 A cpo of information systems",
+     "start": 254,
+     "end": 256,
+     "summary": "A cpo of information systems.",
+     "terms": [
+      "cpo of information systems"
+     ]
+    },
+    {
+     "title": "12.5 Constructions",
+     "start": 257,
+     "end": 269,
+     "summary": "Constructions.",
+     "terms": [
+      "constructions"
+     ]
+    }
+   ],
+   "summary": "Information systems as a way to solve recursive domain equations."
+  },
+  {
+   "title": "13 Recursive types",
+   "start": 272,
+   "end": 317,
+   "sections": [
+    {
+     "title": "13.1 An eager language",
+     "start": 272,
+     "end": 275,
+     "summary": "Eager language.",
+     "terms": [
+      "recursive types"
+     ]
+    },
+    {
+     "title": "13.2 Eager operational semantics",
+     "start": 276,
+     "end": 277,
+     "summary": "Operational semantics.",
+     "terms": [
+      "operational"
+     ]
+    },
+    {
+     "title": "13.3 Eager denotational semantics",
+     "start": 278,
+     "end": 282,
+     "summary": "Denotational semantics.",
+     "terms": [
+      "denotational"
+     ]
+    },
+    {
+     "title": "13.4 Adequacy of eager semantics",
+     "start": 283,
+     "end": 287,
+     "summary": "Adequacy.",
+     "terms": [
+      "adequacy"
+     ]
+    },
+    {
+     "title": "13.5 The eager \u03bb-calculus",
+     "start": 288,
+     "end": 298,
+     "summary": "Eager \u03bb-calculus.",
+     "terms": [
+      "eager lambda calculus"
+     ]
+    },
+    {
+     "title": "13.6 A lazy language",
+     "start": 299,
+     "end": 299,
+     "summary": "Lazy language.",
+     "terms": [
+      "lazy language"
+     ]
+    },
+    {
+     "title": "13.7 Lazy operational semantics",
+     "start": 299,
+     "end": 301,
+     "summary": "Operational.",
+     "terms": [
+      "operational"
+     ]
+    },
+    {
+     "title": "13.8 Lazy denotational semantics",
+     "start": 302,
+     "end": 308,
+     "summary": "Denotational.",
+     "terms": [
+      "denotational"
+     ]
+    },
+    {
+     "title": "13.9 Adequacy of lazy semantics",
+     "start": 309,
+     "end": 310,
+     "summary": "Adequacy.",
+     "terms": [
+      "adequacy"
+     ]
+    },
+    {
+     "title": "13.10 The lazy \u03bb-calculus",
+     "start": 311,
+     "end": 315,
+     "summary": "Lazy \u03bb-calculus.",
+     "terms": [
+      "lazy lambda calculus"
+     ]
+    }
+   ],
+   "summary": "Languages with recursive types."
+  },
+  {
+   "title": "14 Nondeterminism and parallelism",
+   "start": 318,
+   "end": 357,
+   "sections": [
+    {
+     "title": "14.1 Introduction",
+     "start": 318,
+     "end": 318,
+     "summary": "Overview.",
+     "terms": [
+      "nondeterminism"
+     ]
+    },
+    {
+     "title": "14.2 Guarded commands",
+     "start": 319,
+     "end": 323,
+     "summary": "Dijkstra\u2019s guarded commands.",
+     "terms": [
+      "guarded commands"
+     ]
+    },
+    {
+     "title": "14.3 Communicating processes",
+     "start": 324,
+     "end": 328,
+     "summary": "Communicating processes.",
+     "terms": [
+      "communicating processes",
+      "CSP"
+     ]
+    },
+    {
+     "title": "14.4 Milner's CCS",
+     "start": 329,
+     "end": 331,
+     "summary": "Milner\u2019s CCS.",
+     "terms": [
+      "CCS"
+     ]
+    },
+    {
+     "title": "14.5 Pure CCS",
+     "start": 332,
+     "end": 336,
+     "summary": "Pure CCS.",
+     "terms": [
+      "pure CCS",
+      "bisimulation"
+     ]
+    },
+    {
+     "title": "14.6 A specification language",
+     "start": 337,
+     "end": 341,
+     "summary": "A specification language.",
+     "terms": [
+      "specification"
+     ]
+    },
+    {
+     "title": "14.7 The modal \u03bd-calculus",
+     "start": 342,
+     "end": 347,
+     "summary": "The modal \u03bd-calculus.",
+     "terms": [
+      "modal mu-calculus"
+     ]
+    },
+    {
+     "title": "14.8 Local model checking",
+     "start": 348,
+     "end": 355,
+     "summary": "Local model checking.",
+     "terms": [
+      "model checking"
+     ]
+    }
+   ],
+   "summary": "Nondeterminism, communicating processes and modal logic."
+  },
+  {
+   "title": "A Incompleteness and undecidability",
+   "start": 358,
+   "end": 373,
+   "sections": [
+    {
+     "title": "A.1 Computability",
+     "start": 358,
+     "end": 359,
+     "summary": "Computability.",
+     "terms": [
+      "computability"
+     ]
+    },
+    {
+     "title": "A.2 Undecidability",
+     "start": 360,
+     "end": 363,
+     "summary": "Undecidability.",
+     "terms": [
+      "undecidability",
+      "halting"
+     ]
+    },
+    {
+     "title": "A.3 G del's incompleteness theorem",
+     "start": 364,
+     "end": 365,
+     "summary": "G\u00f6del incompleteness.",
+     "terms": [
+      "G\u00f6del incompleteness"
+     ]
+    },
+    {
+     "title": "A.4 A universal program",
+     "start": 366,
+     "end": 367,
+     "summary": "A universal program.",
+     "terms": [
+      "universal program"
+     ]
+    },
+    {
+     "title": "A.5 Matiyasevich's Theorem",
+     "start": 368,
+     "end": 371,
+     "summary": "Matiyasevich\u2019s theorem.",
+     "terms": [
+      "Matiyasevich",
+      "Hilbert tenth problem"
+     ]
+    }
+   ],
+   "summary": "Computability background."
+  }
+ ],
+ "title": "The Formal Semantics of Programming Languages: An Introduction",
+ "byline": "Glynn Winskel \u00b7 MIT Press (Foundations of Computing), 1993",
+ "note": "PDF page = printed page + 21. \u201cFurther reading\u201d sections are not broken out. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "A classic course on giving programming languages precise mathematical meaning. Using a small imperative language (IMP), Winskel presents operational, denotational and axiomatic (Hoare-logic) semantics and proves them consistent, with the induction principles and fixed-point theory needed. He then develops domain theory and applies it to recursion equations, call-by-value and call-by-name, higher-order eager and lazy languages, full abstraction, information systems and recursive types, and closes with nondeterminism and concurrency (guarded commands, CSP-style processes, CCS, the modal \u03bc-calculus and model checking), plus an appendix on undecidability and G\u00f6del incompleteness."
+}
