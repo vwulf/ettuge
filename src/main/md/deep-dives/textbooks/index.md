@@ -24,8 +24,10 @@ Partial PDFs (samples, excerpts, unfinished drafts) are marked as such on their 
 - [Computability, Unsolvability, Randomness](simpson-computability-randomness) (Simpson): recursion theory to Martin-Löf randomness
 - [Distributed Computing Through Combinatorial Topology](distributed-computing-combinatorial-topology) (Herlihy, Kozlov and Rajsbaum): Solvability of distributed tasks as a question about simplicial complexes and their maps.
 - [Effect Oriented Programming](effect-oriented-programming) (Frasure, Eckel, Ward): ZIO effects, layers, typed errors, resilience
+- [Foundations of Probabilistic Programming](foundations-of-probabilistic-programming) (Barthe, Katoen and Silva (eds.)): Semantics and verification of probabilistic programs: measures, couplings, runtimes, martingales, Bayesian logic, QIF.
 - [Functional Programming Strategies in Scala with Cats (draft)](welsh-functional-programming-strategies-scala-with-cats) (Noel Welsh): ADTs, codata, type classes, interpreters, the Cats type classes, and case studies, in Scala 3.
 - [Functional Programming in Lean](functional-programming-in-lean) (David Thrane Christiansen): Lean 4 as a programming language: types, IO, type classes, monads, transformers, dependent types, induction proofs, verified fast code.
+- [Haskell: The Craft of Functional Programming (3rd ed.)](thompson-haskell-craft-of-functional-programming) (Simon Thompson): Haskell from basics to type classes, ADTs, laziness, monads, DSLs and performance, with case studies.
 - [Implementing Functional Languages: a tutorial](implementing-functional-languages) (Simon Peyton Jones and David Lester): Building lazy evaluators step by step: template instantiation, G-machine, TIM, parallel G-machine, lambda lifting.
 - [Lambda-Calculus and Combinators](hindley-seldin-lambda-calculus-combinators) (J. Roger Hindley and Jonathan Seldin): λ-calculus and CL side by side: reduction, computability, typing, pure type systems and models.
 - [Learn Programming with OCaml](conchon-filliatre-learn-programming-with-ocaml) (Sylvain Conchon and Jean-Christophe Filliâtre): OCaml through small programs, then classic data structures and algorithms implemented functionally.
@@ -44,6 +46,7 @@ Partial PDFs (samples, excerpts, unfinished drafts) are marked as such on their 
 
 ## Mathematics
 
+- [An Infinite Descent into Pure Mathematics](newstead-infinite-descent) (Clive Newstead): Intro to proof: logic, sets, functions, induction, relations, then number theory, combinatorics, reals, probability.
 - [Basic Category Theory for Computer Scientists](pierce-basic-category-theory) (Pierce): limits, adjoints, CCCs, domain equations
 - [Book of Proof](hammack-book-of-proof) (Richard Hammack): Transition-to-proofs text: sets, logic, proof techniques, induction, relations, functions, cardinality.
 - [Category Theory for Programmers (Scala edition)](milewski-category-theory-for-programmers) (Bartosz Milewski): Category theory through code: functors, Yoneda, adjunctions, monads, comonads, F-algebras, ends, Kan extensions.
@@ -71,6 +74,7 @@ Partial PDFs (samples, excerpts, unfinished drafts) are marked as such on their 
 ## Other
 
 - [Buku Koleksi Museum Negeri Sumatera Selatan](museum-sumatera-selatan) (Syarifuddin et al.): Srivijaya inscriptions, ceramics, Palembang textiles (Indonesian)
+- [More Than Curious: A Science Memoir](press-more-than-curious) (William H. Press): Memoir: Caltech and Harvard astrophysics, JASON, Numerical Recipes, Los Alamos, PCAST.
 - [Polynomial Times 2026–27](polynomial-times-2026) (Simons Institute): AI and theory, fairness, quantum, SNARGs
 - [The Essential Guide to Mountain and Trials Unicycling](unicycling-mountain-trials) (Holm): trials skills and trail technique
 - [The Kettlebell Code](kettlebell-code) (Dzemaili): mobility, grinds, ballistics and sessions after 40

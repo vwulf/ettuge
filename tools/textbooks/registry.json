@@ -446,5 +446,37 @@
   "Practical Foundations for Programming Languages (2nd ed., abbreviated)",
   "Robert Harper",
   "Statics and dynamics for every language feature: T, PCF, System F, state, control, parallelism, concurrency, modules."
+ ],
+ [
+  "foundations-of-probabilistic-programming",
+  "fpp",
+  "Computer Science",
+  "Foundations of Probabilistic Programming",
+  "Barthe, Katoen and Silva (eds.)",
+  "Semantics and verification of probabilistic programs: measures, couplings, runtimes, martingales, Bayesian logic, QIF."
+ ],
+ [
+  "newstead-infinite-descent",
+  "infdesc",
+  "Mathematics",
+  "An Infinite Descent into Pure Mathematics",
+  "Clive Newstead",
+  "Intro to proof: logic, sets, functions, induction, relations, then number theory, combinatorics, reals, probability."
+ ],
+ [
+  "thompson-haskell-craft-of-functional-programming",
+  "craft3e",
+  "Computer Science",
+  "Haskell: The Craft of Functional Programming (3rd ed.)",
+  "Simon Thompson",
+  "Haskell from basics to type classes, ADTs, laziness, monads, DSLs and performance, with case studies."
+ ],
+ [
+  "press-more-than-curious",
+  "mtc",
+  "Other",
+  "More Than Curious: A Science Memoir",
+  "William H. Press",
+  "Memoir: Caltech and Harvard astrophysics, JASON, Numerical Recipes, Los Alamos, PCAST."
  ]
 ]
