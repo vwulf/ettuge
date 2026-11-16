@@ -342,5 +342,53 @@
   "Category Theory for Programmers (Scala edition)",
   "Bartosz Milewski",
   "Category theory through code: functors, Yoneda, adjunctions, monads, comonads, F-algebras, ends, Kan extensions."
+ ],
+ [
+  "zydenbos-manual-of-modern-kannada",
+  "dravman",
+  "Linguistics and Languages",
+  "A Manual of Modern Kannada",
+  "Robert J. Zydenbos",
+  "Grammar course in modern written Kannada: 19 lessons from nominal sentences to moods, plus sandhi, numerals and script."
+ ],
+ [
+  "winskel-formal-semantics",
+  "winskel",
+  "Computer Science",
+  "The Formal Semantics of Programming Languages",
+  "Glynn Winskel",
+  "Operational, denotational and axiomatic semantics; domain theory, recursive types and concurrency."
+ ],
+ [
+  "goldman-geometric-structures-on-manifolds",
+  "gstom",
+  "Mathematics",
+  "Geometric Structures on Manifolds",
+  "William M. Goldman",
+  "(G,X)-structures: affine and projective geometry, developing maps, completeness, convex projective surfaces."
+ ],
+ [
+  "granin-pragmatic-type-level-design",
+  "ptld",
+  "Computer Science",
+  "Pragmatic Type-Level Design",
+  "Alexander Granin",
+  "Type-level programming for application design in Haskell, with Rust and Scala 3 counterparts."
+ ],
+ [
+  "conchon-filliatre-learn-programming-with-ocaml",
+  "lpo",
+  "Computer Science",
+  "Learn Programming with OCaml",
+  "Sylvain Conchon and Jean-Christophe Filliâtre",
+  "OCaml through small programs, then classic data structures and algorithms implemented functionally."
+ ],
+ [
+  "kuttler-linear-algebra",
+  "linalg-hef",
+  "Mathematics",
+  "Linear Algebra, Theory and Applications",
+  "Kenneth Kuttler",
+  "Matrix computation and theory: factorizations, canonical forms, spectral theory, SVD, norms, numerics."
  ]
 ]

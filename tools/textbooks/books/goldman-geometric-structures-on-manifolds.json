@@ -1,0 +1,788 @@
+{
+ "url": "https://drive.google.com/file/d/10yFnWsD1P7XlTAoeDRTkzP-Ag6PGWq8c/view",
+ "chapters": [
+  {
+   "title": "Chapter 1. Affine geometry",
+   "start": 33,
+   "sections": [
+    {
+     "title": "1.1. Euclidean space",
+     "start": 33,
+     "end": 33,
+     "summary": "Euclidean space.",
+     "terms": [
+      "Euclidean space"
+     ]
+    },
+    {
+     "title": "1.2. Affine space",
+     "start": 34,
+     "end": 37,
+     "summary": "Affine space, parallelism and affine maps.",
+     "terms": [
+      "affine space",
+      "affine transformations"
+     ]
+    },
+    {
+     "title": "1.3. The connection on affine space",
+     "start": 38,
+     "end": 40,
+     "summary": "The flat connection, parallel transport and geodesics.",
+     "terms": [
+      "connection",
+      "parallel transport",
+      "geodesics"
+     ]
+    },
+    {
+     "title": "1.4. Parallel structures",
+     "start": 41,
+     "end": 42,
+     "summary": "Parallel Riemannian and tensor structures.",
+     "terms": [
+      "parallel structures"
+     ]
+    },
+    {
+     "title": "1.5. Affine vector fields",
+     "start": 43,
+     "end": 45,
+     "summary": "Translation and radiant vector fields.",
+     "terms": [
+      "radiant vector field"
+     ]
+    },
+    {
+     "title": "1.6. Affine subspaces",
+     "start": 46,
+     "end": 46,
+     "summary": "Affine subspaces.",
+     "terms": [
+      "affine subspaces"
+     ]
+    },
+    {
+     "title": "1.7. Volume in affine geometry",
+     "start": 46,
+     "end": 47,
+     "summary": "Volume and centers of gravity.",
+     "terms": [
+      "volume",
+      "divergence"
+     ]
+    },
+    {
+     "title": "1.8. Linearizing affine geometry",
+     "start": 48,
+     "end": 50,
+     "summary": "Linearizing affine geometry.",
+     "terms": [
+      "linearization"
+     ]
+    }
+   ],
+   "end": 50,
+   "summary": "Affine space and its connection."
+  },
+  {
+   "title": "Chapter 2. Projective geometry",
+   "start": 51,
+   "sections": [
+    {
+     "title": "2.1. Ideal points",
+     "start": 51,
+     "end": 52,
+     "summary": "Ideal points.",
+     "terms": [
+      "ideal points"
+     ]
+    },
+    {
+     "title": "2.2. Projective subspaces",
+     "start": 53,
+     "end": 55,
+     "summary": "Projective subspaces and affine patches.",
+     "terms": [
+      "projective subspaces"
+     ]
+    },
+    {
+     "title": "2.3. Projective mappings",
+     "start": 56,
+     "end": 60,
+     "summary": "Collineations and singular projective maps.",
+     "terms": [
+      "collineations"
+     ]
+    },
+    {
+     "title": "2.4. Affine patches",
+     "start": 61,
+     "end": 61,
+     "summary": "Affine patches and projective vector fields.",
+     "terms": [
+      "affine patches"
+     ]
+    },
+    {
+     "title": "2.5. Classical projective geometry",
+     "start": 62,
+     "end": 69,
+     "summary": "Cross-ratio and the fundamental theorem.",
+     "terms": [
+      "cross-ratio",
+      "fundamental theorem"
+     ]
+    },
+    {
+     "title": "2.6. Asymptotics of projective transformations",
+     "start": 70,
+     "end": 76,
+     "summary": "Dynamics of projective transformations.",
+     "terms": [
+      "asymptotics",
+      "normality domains"
+     ]
+    }
+   ],
+   "end": 76,
+   "summary": "Projective space and projective maps."
+  },
+  {
+   "title": "Chapter 3. Duality and non-Euclidean geometry",
+   "start": 77,
+   "sections": [
+    {
+     "title": "3.1. Dual projective spaces",
+     "start": 78,
+     "end": 78,
+     "summary": "Dual projective spaces.",
+     "terms": [
+      "duality"
+     ]
+    },
+    {
+     "title": "3.2. Correlations and polarities",
+     "start": 79,
+     "end": 83,
+     "summary": "Polarities, quadrics and elliptic geometry.",
+     "terms": [
+      "polarity",
+      "quadric",
+      "elliptic geometry"
+     ]
+    },
+    {
+     "title": "3.3. Projective model of hyperbolic geometry",
+     "start": 84,
+     "end": 90,
+     "summary": "The projective (Klein) model of hyperbolic geometry.",
+     "terms": [
+      "Klein model",
+      "hyperbolic geometry"
+     ]
+    }
+   ],
+   "end": 90,
+   "summary": "Non-Euclidean geometries inside projective geometry."
+  },
+  {
+   "title": "Chapter 4. Convexity",
+   "start": 91,
+   "sections": [
+    {
+     "title": "4.1. Convex domains and cones",
+     "start": 91,
+     "end": 93,
+     "summary": "Convex cones and domains.",
+     "terms": [
+      "convex cones"
+     ]
+    },
+    {
+     "title": "4.2. The Hilbert metric",
+     "start": 94,
+     "end": 95,
+     "summary": "The Hilbert metric.",
+     "terms": [
+      "Hilbert metric"
+     ]
+    },
+    {
+     "title": "4.3. Vey's semisimplicity theorem",
+     "start": 96,
+     "end": 99,
+     "summary": "Vey\u2019s semisimplicity theorem.",
+     "terms": [
+      "Vey theorem"
+     ]
+    },
+    {
+     "title": "4.4. The Vinberg metric",
+     "start": 100,
+     "end": 107,
+     "summary": "Vinberg\u2019s characteristic function and metric.",
+     "terms": [
+      "Vinberg metric",
+      "characteristic function"
+     ]
+    },
+    {
+     "title": "4.5. Benz\u00e9cri's Compactness Theorem",
+     "start": 108,
+     "end": 117,
+     "summary": "Benz\u00e9cri compactness.",
+     "terms": [
+      "Benz\u00e9cri compactness"
+     ]
+    },
+    {
+     "title": "4.6. Quasi-homogeneous and divisible domains",
+     "start": 118,
+     "end": 122,
+     "summary": "Divisible and quasi-homogeneous domains.",
+     "terms": [
+      "divisible domains"
+     ]
+    }
+   ],
+   "end": 120,
+   "summary": "Convex domains in projective space."
+  },
+  {
+   "title": "Chapter 5. Locally homogeneous geometric structures",
+   "start": 123,
+   "sections": [
+    {
+     "title": "5.1. Geometric atlases",
+     "start": 124,
+     "end": 126,
+     "summary": "Geometric atlases.",
+     "terms": [
+      "(G",
+      "X)-structure",
+      "atlas"
+     ]
+    },
+    {
+     "title": "5.2. Development, holonomy",
+     "start": 127,
+     "end": 132,
+     "summary": "Developing map and holonomy.",
+     "terms": [
+      "developing map",
+      "holonomy"
+     ]
+    },
+    {
+     "title": "5.3. The graph of a geometric structure",
+     "start": 133,
+     "end": 138,
+     "summary": "The graph of a structure and the flat bundle.",
+     "terms": [
+      "flat bundle"
+     ]
+    },
+    {
+     "title": "5.4. The classification of geometric 1-manifolds",
+     "start": 139,
+     "end": 152,
+     "summary": "Classifying geometric 1-manifolds.",
+     "terms": [
+      "1-manifolds",
+      "Hopf circles"
+     ]
+    }
+   ],
+   "end": 152,
+   "summary": "(G,X)-structures in general."
+  },
+  {
+   "title": "Chapter 6. Examples of Geometric Structures",
+   "start": 153,
+   "sections": [
+    {
+     "title": "6.1. The hierarchy of geometries",
+     "start": 154,
+     "end": 157,
+     "summary": "Refining and enlarging geometries.",
+     "terms": [
+      "hierarchy of geometries"
+     ]
+    },
+    {
+     "title": "6.2. Parallel structures in affine geometry",
+     "start": 158,
+     "end": 159,
+     "summary": "Euclidean and parallel affine structures.",
+     "terms": [
+      "flat tori",
+      "Euclidean manifolds"
+     ]
+    },
+    {
+     "title": "6.3. Homogeneous subdomains",
+     "start": 160,
+     "end": 160,
+     "summary": "Projective structures from non-Euclidean geometry.",
+     "terms": [
+      "homogeneous subdomains"
+     ]
+    },
+    {
+     "title": "6.4. Hopf manifolds",
+     "start": 161,
+     "end": 165,
+     "summary": "Hopf manifolds.",
+     "terms": [
+      "Hopf manifolds"
+     ]
+    },
+    {
+     "title": "6.5. Radiant manifolds",
+     "start": 166,
+     "end": 174,
+     "summary": "Radiant manifolds.",
+     "terms": [
+      "radiant manifolds",
+      "suspensions"
+     ]
+    }
+   ],
+   "end": 174,
+   "summary": "Examples of geometric structures."
+  },
+  {
+   "title": "Chapter 7. Classification",
+   "start": 175,
+   "sections": [
+    {
+     "title": "7.1. Marking geometric structures",
+     "start": 175,
+     "end": 176,
+     "summary": "Marked structures.",
+     "terms": [
+      "marking"
+     ]
+    },
+    {
+     "title": "7.2. Deformation spaces of geometric structures",
+     "start": 177,
+     "end": 178,
+     "summary": "Deformation spaces.",
+     "terms": [
+      "deformation space",
+      "Ehresmann-Thurston"
+     ]
+    },
+    {
+     "title": "7.3. Representation varieties",
+     "start": 179,
+     "end": 185,
+     "summary": "Representation varieties and character varieties.",
+     "terms": [
+      "representation variety",
+      "character variety"
+     ]
+    },
+    {
+     "title": "7.4. Fenchel-Nielsen coordinates on Fricke space",
+     "start": 186,
+     "end": 188,
+     "summary": "Fenchel\u2013Nielsen coordinates.",
+     "terms": [
+      "Fenchel-Nielsen coordinates"
+     ]
+    },
+    {
+     "title": "7.5. Open manifolds",
+     "start": 189,
+     "end": 192,
+     "summary": "Open manifolds.",
+     "terms": [
+      "open manifolds"
+     ]
+    }
+   ],
+   "end": 192,
+   "summary": "Deformation spaces and moduli."
+  },
+  {
+   "title": "Chapter 8. Completeness",
+   "start": 193,
+   "sections": [
+    {
+     "title": "8.1. Locally homogeneous Riemannian manifolds",
+     "start": 193,
+     "end": 195,
+     "summary": "Locally homogeneous Riemannian manifolds.",
+     "terms": [
+      "Riemannian",
+      "Hopf-Rinow"
+     ]
+    },
+    {
+     "title": "8.2. Affine structures and connections",
+     "start": 196,
+     "end": 196,
+     "summary": "Affine structures as flat torsion-free connections.",
+     "terms": [
+      "affine connection"
+     ]
+    },
+    {
+     "title": "8.3. Completeness and convexity of affine connections",
+     "start": 197,
+     "end": 201,
+     "summary": "Geodesic completeness and the developing map.",
+     "terms": [
+      "completeness",
+      "developing map"
+     ]
+    },
+    {
+     "title": "8.4. Unipotent holonomy",
+     "start": 202,
+     "end": 203,
+     "summary": "Unipotent holonomy.",
+     "terms": [
+      "unipotent holonomy"
+     ]
+    },
+    {
+     "title": "8.5. Complete affine structures on the 2-torus",
+     "start": 204,
+     "end": 207,
+     "summary": "Complete affine 2-tori.",
+     "terms": [
+      "complete affine tori"
+     ]
+    },
+    {
+     "title": "8.6. Complete affine manifolds",
+     "start": 208,
+     "end": 214,
+     "summary": "Complete affine manifolds.",
+     "terms": [
+      "Auslander conjecture"
+     ]
+    }
+   ],
+   "end": 214,
+   "summary": "When is a geometric structure complete?"
+  },
+  {
+   "title": "Chapter 9. Affine structures on surfaces and the Euler characteristic",
+   "start": 215,
+   "sections": [
+    {
+     "title": "9.1. Benz\u00e9cri's theorem on affine 2-manifolds",
+     "start": 215,
+     "end": 222,
+     "summary": "Benz\u00e9cri\u2019s theorem: only the torus.",
+     "terms": [
+      "Benz\u00e9cri theorem",
+      "Euler characteristic",
+      "Milnor-Wood"
+     ]
+    },
+    {
+     "title": "9.2. Higher dimensions",
+     "start": 223,
+     "end": 230,
+     "summary": "Higher-dimensional Chern conjecture.",
+     "terms": [
+      "Chern conjecture"
+     ]
+    }
+   ],
+   "end": 230,
+   "summary": "Affine structures on surfaces."
+  },
+  {
+   "title": "Chapter 10. Affine structures on Lie groups and algebras",
+   "start": 231,
+   "sections": [
+    {
+     "title": "10.1. \u00c9tale representations and the developing map",
+     "start": 232,
+     "end": 233,
+     "summary": "\u00c9tale representations.",
+     "terms": [
+      "\u00e9tale representation"
+     ]
+    },
+    {
+     "title": "10.2. Two-dimensional commutative associative algebras",
+     "start": 234,
+     "end": 235,
+     "summary": "2D commutative algebras.",
+     "terms": [
+      "associative algebras"
+     ]
+    },
+    {
+     "title": "10.3. Left-invariant connections and left-symmetric algebras",
+     "start": 236,
+     "end": 240,
+     "summary": "Left-symmetric algebras.",
+     "terms": [
+      "left-symmetric algebra"
+     ]
+    },
+    {
+     "title": "10.4. Two-dimensional noncommutative associative algebras",
+     "start": 241,
+     "end": 253,
+     "summary": "2D noncommutative algebras.",
+     "terms": [
+      "noncommutative algebras"
+     ]
+    },
+    {
+     "title": "10.5. Complete affine structures on closed 3-manifolds",
+     "start": 254,
+     "end": 257,
+     "summary": "Complete affine 3-manifolds.",
+     "terms": [
+      "Fried-Goldman classification"
+     ]
+    },
+    {
+     "title": "10.6. Fried's counterexample to Auslander's conjecture",
+     "start": 258,
+     "end": 260,
+     "summary": "Fried\u2019s counterexample.",
+     "terms": [
+      "Auslander conjecture",
+      "counterexample"
+     ]
+    },
+    {
+     "title": "10.7. Solvable 3-dimensional algebras",
+     "start": 261,
+     "end": 261,
+     "summary": "Solvable 3D algebras.",
+     "terms": [
+      "solvable algebras"
+     ]
+    },
+    {
+     "title": "10.8. Incomplete affine 3-manifolds",
+     "start": 262,
+     "end": 266,
+     "summary": "Incomplete affine 3-manifolds.",
+     "terms": [
+      "incomplete structures"
+     ]
+    }
+   ],
+   "end": 266,
+   "summary": "Left-invariant affine structures on Lie groups."
+  },
+  {
+   "title": "Chapter 11. Parallel volume and completeness",
+   "start": 267,
+   "sections": [
+    {
+     "title": "11.1. The volume obstruction",
+     "start": 267,
+     "end": 267,
+     "summary": "The volume obstruction.",
+     "terms": [
+      "parallel volume",
+      "Markus conjecture"
+     ]
+    },
+    {
+     "title": "11.2. Nilpotent holonomy",
+     "start": 268,
+     "end": 269,
+     "summary": "Nilpotent holonomy.",
+     "terms": [
+      "nilpotent holonomy"
+     ]
+    },
+    {
+     "title": "11.3. Smillie's nonexistence theorem",
+     "start": 270,
+     "end": 272,
+     "summary": "Smillie\u2019s nonexistence theorem.",
+     "terms": [
+      "Smillie theorem"
+     ]
+    },
+    {
+     "title": "11.4. Fried's classification of closed similarity manifolds",
+     "start": 273,
+     "end": 284,
+     "summary": "Fried\u2019s classification of similarity manifolds.",
+     "terms": [
+      "similarity manifolds",
+      "Fried"
+     ]
+    }
+   ],
+   "end": 284,
+   "summary": "Parallel volume and Markus\u2019s conjecture."
+  },
+  {
+   "title": "Chapter 12. Hyperbolicity",
+   "start": 285,
+   "sections": [
+    {
+     "title": "12.1. The Kobayashi metric",
+     "start": 286,
+     "end": 288,
+     "summary": "The Kobayashi metric.",
+     "terms": [
+      "Kobayashi metric"
+     ]
+    },
+    {
+     "title": "12.2. Kobayashi hyperbolicity",
+     "start": 289,
+     "end": 298,
+     "summary": "Hyperbolicity.",
+     "terms": [
+      "Kobayashi hyperbolicity"
+     ]
+    },
+    {
+     "title": "12.3. Hessian manifolds",
+     "start": 299,
+     "end": 302,
+     "summary": "Hessian manifolds.",
+     "terms": [
+      "Hessian manifolds"
+     ]
+    }
+   ],
+   "end": 302,
+   "summary": "Kobayashi hyperbolicity for affine and projective manifolds."
+  },
+  {
+   "title": "Chapter 13. Projective structures on surfaces",
+   "start": 303,
+   "sections": [
+    {
+     "title": "13.1. Classification in higer genus",
+     "start": 303,
+     "end": 303,
+     "summary": "Classification in higher genus.",
+     "terms": [
+      "classification"
+     ]
+    },
+    {
+     "title": "13.2. Convex RP2-structures",
+     "start": 304,
+     "end": 309,
+     "summary": "Convex RP\u00b2 structures.",
+     "terms": [
+      "convex projective structures",
+      "Hitchin component"
+     ]
+    },
+    {
+     "title": "13.3. Coordinates for convex structures",
+     "start": 310,
+     "end": 312,
+     "summary": "Coordinates (Goldman parameters).",
+     "terms": [
+      "Goldman coordinates"
+     ]
+    },
+    {
+     "title": "13.4. Pathological developing maps and grafting",
+     "start": 313,
+     "end": 316,
+     "summary": "Exotic developing maps and grafting.",
+     "terms": [
+      "grafting"
+     ]
+    }
+   ],
+   "end": 316,
+   "summary": "Convex projective structures on surfaces."
+  },
+  {
+   "title": "Chapter 14. Complex-projective structures",
+   "start": 317,
+   "sections": [
+    {
+     "title": "14.1. Schwarzian paametrization",
+     "start": 318,
+     "end": 322,
+     "summary": "Schwarzian parametrization.",
+     "terms": [
+      "Schwarzian derivative",
+      "quadratic differentials"
+     ]
+    },
+    {
+     "title": "14.2. Fuchsian holonomy",
+     "start": 323,
+     "end": 326,
+     "summary": "Fuchsian holonomy.",
+     "terms": [
+      "Fuchsian holonomy"
+     ]
+    }
+   ],
+   "end": 326,
+   "summary": "CP\u00b9-structures on surfaces."
+  },
+  {
+   "title": "Chapter 15. Geometric structures on 3-manifolds",
+   "start": 327,
+   "sections": [
+    {
+     "title": "15.1. Higher dimensions: flat conformal and spherical CR-structures",
+     "start": 327,
+     "end": 328,
+     "summary": "Flat conformal and spherical CR structures.",
+     "terms": [
+      "flat conformal structures",
+      "CR structures"
+     ]
+    },
+    {
+     "title": "15.2. Complete affine 3-manifolds",
+     "start": 329,
+     "end": 331,
+     "summary": "Complete affine 3-manifolds.",
+     "terms": [
+      "complete affine 3-manifolds"
+     ]
+    },
+    {
+     "title": "15.3. Margulis spacetimes",
+     "start": 332,
+     "end": 337,
+     "summary": "Margulis spacetimes.",
+     "terms": [
+      "Margulis spacetimes"
+     ]
+    },
+    {
+     "title": "15.4. Dupont's classification of hyperbolic torus bundles",
+     "start": 338,
+     "end": 344,
+     "summary": "Dupont\u2019s classification for hyperbolic torus bundles.",
+     "terms": [
+      "torus bundles",
+      "Dupont"
+     ]
+    }
+   ],
+   "end": 340,
+   "summary": "Geometric structures in dimension three."
+  }
+ ],
+ "title": "Geometric Structures on Manifolds",
+ "byline": "William M. Goldman \u00b7 AMS Graduate Studies in Mathematics 227, 2022 (author\u2019s version, December 2021)",
+ "note": "Exercise and notes subsections are not broken out; only the first level of numbered sections is listed. Appendices are not broken down. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "A graduate text on locally homogeneous geometric structures in the sense of Ehresmann and Thurston: manifolds modeled on a homogeneous space X with transition maps in a Lie group G. Part One develops the model geometries themselves (affine and projective geometry, duality and non-Euclidean geometry as subgeometries, convexity and the Hilbert metric). Part Two sets up (G,X)-structures in general: developing maps and holonomy, examples (Hopf and radiant manifolds), deformation spaces and representation varieties, and completeness. Part Three focuses on affine and projective structures: Euler-characteristic obstructions, affine structures on Lie groups and left-symmetric algebras, parallel volume and Markus\u2019s conjecture, hyperbolicity, convex projective and complex-projective structures on surfaces, and geometric structures on 3-manifolds including Margulis spacetimes."
+}

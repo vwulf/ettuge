@@ -1,0 +1,921 @@
+{
+ "url": "https://drive.google.com/file/d/1f8CW5Md2ZtYH7C8pQCpKsgyHP13EM1aZ/view",
+ "chapters": [
+  {
+   "title": "Preliminaries",
+   "start": 11,
+   "sections": [
+    {
+     "title": "Sets And Set Notation",
+     "start": 11,
+     "end": 11,
+     "summary": "Set notation.",
+     "terms": [
+      "sets"
+     ]
+    },
+    {
+     "title": "Functions",
+     "start": 12,
+     "end": 12,
+     "summary": "Functions.",
+     "terms": [
+      "functions"
+     ]
+    },
+    {
+     "title": "The Number Line And Algebra Of The Real Numbers",
+     "start": 12,
+     "end": 13,
+     "summary": "Real numbers.",
+     "terms": [
+      "real numbers"
+     ]
+    },
+    {
+     "title": "Ordered fields",
+     "start": 14,
+     "end": 14,
+     "summary": "Ordered fields.",
+     "terms": [
+      "ordered field"
+     ]
+    },
+    {
+     "title": "The Complex Numbers",
+     "start": 15,
+     "end": 17,
+     "summary": "Complex numbers.",
+     "terms": [
+      "complex numbers"
+     ]
+    },
+    {
+     "title": "The Fundamental Theorem Of Algebra",
+     "start": 18,
+     "end": 19,
+     "summary": "Fundamental theorem of algebra.",
+     "terms": [
+      "fundamental theorem of algebra"
+     ]
+    },
+    {
+     "title": "Completeness of R",
+     "start": 21,
+     "end": 21,
+     "summary": "Completeness of \u211d.",
+     "terms": [
+      "completeness"
+     ]
+    },
+    {
+     "title": "Well Ordering And Archimedean Property",
+     "start": 22,
+     "end": 23,
+     "summary": "Well-ordering and Archimedean property.",
+     "terms": [
+      "well ordering",
+      "Archimedean"
+     ]
+    },
+    {
+     "title": "Division",
+     "start": 24,
+     "end": 27,
+     "summary": "Division algorithm and gcds.",
+     "terms": [
+      "division algorithm",
+      "gcd"
+     ]
+    },
+    {
+     "title": "Systems Of Equations",
+     "start": 28,
+     "end": 32,
+     "summary": "Linear systems.",
+     "terms": [
+      "linear systems"
+     ]
+    },
+    {
+     "title": "Fn",
+     "start": 34,
+     "end": 34,
+     "summary": "F\u207f.",
+     "terms": [
+      "F^n"
+     ]
+    },
+    {
+     "title": "Algebra in Fn",
+     "start": 34,
+     "end": 34,
+     "summary": "Vector algebra.",
+     "terms": [
+      "vector operations"
+     ]
+    },
+    {
+     "title": "The Inner Product In Fn",
+     "start": 35,
+     "end": 37,
+     "summary": "Inner product.",
+     "terms": [
+      "inner product",
+      "Cauchy-Schwarz"
+     ]
+    },
+    {
+     "title": "What Is Linear Algebra?",
+     "start": 38,
+     "end": 38,
+     "summary": "What linear algebra studies.",
+     "terms": [
+      "linear algebra"
+     ]
+    }
+   ],
+   "end": 38,
+   "summary": "Background: numbers, algebra and F\u207f."
+  },
+  {
+   "title": "Linear Transformations",
+   "start": 39,
+   "sections": [
+    {
+     "title": "Matrices",
+     "start": 39,
+     "end": 53,
+     "summary": "Matrix algebra and inverses.",
+     "terms": [
+      "matrices",
+      "inverse"
+     ]
+    },
+    {
+     "title": "Linear Transformations",
+     "start": 56,
+     "end": 57,
+     "summary": "Linear maps.",
+     "terms": [
+      "linear transformation"
+     ]
+    },
+    {
+     "title": "Some Geometrically Defined Linear Transformations",
+     "start": 58,
+     "end": 60,
+     "summary": "Rotations and projections.",
+     "terms": [
+      "rotations",
+      "projections"
+     ]
+    },
+    {
+     "title": "The Null Space Of A Linear Transformation",
+     "start": 61,
+     "end": 61,
+     "summary": "Null space.",
+     "terms": [
+      "null space"
+     ]
+    },
+    {
+     "title": "Subspaces And Spans",
+     "start": 62,
+     "end": 66,
+     "summary": "Subspaces and span.",
+     "terms": [
+      "subspace",
+      "span",
+      "independence"
+     ]
+    },
+    {
+     "title": "An Application To Matrices",
+     "start": 67,
+     "end": 67,
+     "summary": "An application.",
+     "terms": [
+      "application"
+     ]
+    },
+    {
+     "title": "Matrices And Calculus",
+     "start": 68,
+     "end": 77,
+     "summary": "Matrix calculus and derivatives.",
+     "terms": [
+      "matrix calculus",
+      "Jacobian"
+     ]
+    }
+   ],
+   "end": 84,
+   "summary": "Matrices and linear transformations of F\u207f."
+  },
+  {
+   "title": "Determinants",
+   "start": 85,
+   "sections": [
+    {
+     "title": "Basic Techniques And Properties",
+     "start": 85,
+     "end": 88,
+     "summary": "Computation and properties.",
+     "terms": [
+      "determinant",
+      "cofactor"
+     ]
+    },
+    {
+     "title": "The Mathematical Theory Of Determinants",
+     "start": 91,
+     "end": 103,
+     "summary": "Permutation definition and proofs.",
+     "terms": [
+      "permutations"
+     ]
+    },
+    {
+     "title": "The Cayley Hamilton Theorem",
+     "start": 104,
+     "end": 105,
+     "summary": "Cayley\u2013Hamilton.",
+     "terms": [
+      "Cayley-Hamilton"
+     ]
+    },
+    {
+     "title": "Block Multiplication Of Matrices",
+     "start": 106,
+     "end": 108,
+     "summary": "Block matrices.",
+     "terms": [
+      "block multiplication"
+     ]
+    }
+   ],
+   "end": 112,
+   "summary": "Determinants."
+  },
+  {
+   "title": "Row Operations",
+   "start": 113,
+   "sections": [
+    {
+     "title": "Elementary Matrices",
+     "start": 113,
+     "end": 118,
+     "summary": "Elementary matrices.",
+     "terms": [
+      "elementary matrices"
+     ]
+    },
+    {
+     "title": "The Rank Of A Matrix",
+     "start": 119,
+     "end": 120,
+     "summary": "Rank.",
+     "terms": [
+      "rank"
+     ]
+    },
+    {
+     "title": "The Row Reduced Echelon Form",
+     "start": 121,
+     "end": 123,
+     "summary": "Reduced row echelon form.",
+     "terms": [
+      "RREF"
+     ]
+    },
+    {
+     "title": "Rank And Existence Of Solutions To Linear Systems",
+     "start": 124,
+     "end": 124,
+     "summary": "Solvability.",
+     "terms": [
+      "existence of solutions"
+     ]
+    },
+    {
+     "title": "Fredholm Alternative",
+     "start": 125,
+     "end": 125,
+     "summary": "Fredholm alternative.",
+     "terms": [
+      "Fredholm alternative"
+     ]
+    }
+   ],
+   "end": 130,
+   "summary": "Row reduction and rank."
+  },
+  {
+   "title": "Some Factorizations",
+   "start": 131,
+   "sections": [
+    {
+     "title": "LU Factorization",
+     "start": 131,
+     "end": 131,
+     "summary": "LU factorization.",
+     "terms": [
+      "LU factorization"
+     ]
+    },
+    {
+     "title": "Finding An LU Factorization",
+     "start": 131,
+     "end": 132,
+     "summary": "Computing it.",
+     "terms": [
+      "multiplier method"
+     ]
+    },
+    {
+     "title": "Solving Linear Systems Using An LU Factorization",
+     "start": 133,
+     "end": 133,
+     "summary": "Solving with LU.",
+     "terms": [
+      "forward and back substitution"
+     ]
+    },
+    {
+     "title": "The P LU Factorization",
+     "start": 134,
+     "end": 135,
+     "summary": "PLU.",
+     "terms": [
+      "PLU",
+      "pivoting"
+     ]
+    },
+    {
+     "title": "Justification For The Multiplier Method",
+     "start": 136,
+     "end": 136,
+     "summary": "Why the multiplier method works.",
+     "terms": [
+      "justification"
+     ]
+    },
+    {
+     "title": "Existence For The P LU Factorization",
+     "start": 137,
+     "end": 137,
+     "summary": "Existence of PLU.",
+     "terms": [
+      "existence"
+     ]
+    },
+    {
+     "title": "The QR Factorization",
+     "start": 138,
+     "end": 140,
+     "summary": "QR via Gram\u2013Schmidt/Householder.",
+     "terms": [
+      "QR factorization"
+     ]
+    }
+   ],
+   "end": 144,
+   "summary": "LU and QR factorizations."
+  },
+  {
+   "title": "Spectral Theory",
+   "start": 145,
+   "sections": [
+    {
+     "title": "Eigenvalues And Eigenvectors Of A Matrix",
+     "start": 145,
+     "end": 152,
+     "summary": "Eigenvalues and eigenvectors.",
+     "terms": [
+      "eigenvalues",
+      "eigenvectors"
+     ]
+    },
+    {
+     "title": "Some Applications Of Eigenvalues And Eigenvectors",
+     "start": 153,
+     "end": 155,
+     "summary": "Applications.",
+     "terms": [
+      "applications"
+     ]
+    },
+    {
+     "title": "Schur\u2019s Theorem",
+     "start": 162,
+     "end": 168,
+     "summary": "Schur\u2019s theorem.",
+     "terms": [
+      "Schur theorem"
+     ]
+    },
+    {
+     "title": "Trace And Determinant",
+     "start": 169,
+     "end": 169,
+     "summary": "Trace and determinant.",
+     "terms": [
+      "trace"
+     ]
+    },
+    {
+     "title": "Quadratic Forms",
+     "start": 170,
+     "end": 170,
+     "summary": "Quadratic forms.",
+     "terms": [
+      "quadratic forms"
+     ]
+    },
+    {
+     "title": "Second Derivative Test",
+     "start": 171,
+     "end": 174,
+     "summary": "Second-derivative test.",
+     "terms": [
+      "Hessian",
+      "second derivative test"
+     ]
+    },
+    {
+     "title": "The Estimation Of Eigenvalues",
+     "start": 175,
+     "end": 175,
+     "summary": "Gershgorin estimates.",
+     "terms": [
+      "Gershgorin"
+     ]
+    },
+    {
+     "title": "Advanced Theorems",
+     "start": 176,
+     "end": 178,
+     "summary": "Advanced results.",
+     "terms": [
+      "advanced theorems"
+     ]
+    }
+   ],
+   "end": 188,
+   "summary": "Eigenvalues and spectral theory for matrices."
+  },
+  {
+   "title": "Vector Spaces And Fields",
+   "start": 189,
+   "sections": [
+    {
+     "title": "Vector Space Axioms",
+     "start": 189,
+     "end": 189,
+     "summary": "Axioms.",
+     "terms": [
+      "vector space axioms"
+     ]
+    },
+    {
+     "title": "Subspaces And Bases",
+     "start": 190,
+     "end": 194,
+     "summary": "Subspaces, bases, dimension.",
+     "terms": [
+      "basis",
+      "dimension"
+     ]
+    },
+    {
+     "title": "Lots Of Fields",
+     "start": 195,
+     "end": 208,
+     "summary": "Many fields: field extensions and algebraic numbers.",
+     "terms": [
+      "fields",
+      "field extensions"
+     ]
+    }
+   ],
+   "end": 214,
+   "summary": "Abstract vector spaces over fields."
+  },
+  {
+   "title": "Linear Transformations",
+   "start": 215,
+   "sections": [
+    {
+     "title": "Matrix Multiplication As A Linear Transformation",
+     "start": 215,
+     "end": 215,
+     "summary": "Matrices as maps.",
+     "terms": [
+      "linear maps"
+     ]
+    },
+    {
+     "title": "L (V, W ) As A Vector Space",
+     "start": 215,
+     "end": 216,
+     "summary": "L(V,W) as a space.",
+     "terms": [
+      "L(V",
+      "W)"
+     ]
+    },
+    {
+     "title": "The Matrix Of A Linear Transformation",
+     "start": 217,
+     "end": 227,
+     "summary": "Matrix of a map, change of basis.",
+     "terms": [
+      "matrix representation",
+      "change of basis",
+      "similarity"
+     ]
+    },
+    {
+     "title": "Eigenvalues And Eigenvectors Of Linear Transformations",
+     "start": 228,
+     "end": 228,
+     "summary": "Eigen-theory for maps.",
+     "terms": [
+      "eigenvalues"
+     ]
+    }
+   ],
+   "end": 232,
+   "summary": "Linear transformations between abstract spaces."
+  },
+  {
+   "title": "Canonical Forms",
+   "start": 233,
+   "sections": [
+    {
+     "title": "A Theorem Of Sylvester, Direct Sums",
+     "start": 233,
+     "end": 235,
+     "summary": "Sylvester and direct sums.",
+     "terms": [
+      "direct sum",
+      "Sylvester"
+     ]
+    },
+    {
+     "title": "Direct Sums, Block Diagonal Matrices",
+     "start": 236,
+     "end": 238,
+     "summary": "Block diagonal forms.",
+     "terms": [
+      "block diagonal"
+     ]
+    },
+    {
+     "title": "Cyclic Sets",
+     "start": 239,
+     "end": 242,
+     "summary": "Cyclic sets.",
+     "terms": [
+      "cyclic subspaces"
+     ]
+    },
+    {
+     "title": "Nilpotent Transformations",
+     "start": 243,
+     "end": 245,
+     "summary": "Nilpotent maps.",
+     "terms": [
+      "nilpotent"
+     ]
+    },
+    {
+     "title": "The Jordan Canonical Form",
+     "start": 246,
+     "end": 248,
+     "summary": "Jordan form.",
+     "terms": [
+      "Jordan canonical form"
+     ]
+    },
+    {
+     "title": "The Rational Canonical Form\u2217",
+     "start": 254,
+     "end": 255,
+     "summary": "Rational canonical form.",
+     "terms": [
+      "rational canonical form"
+     ]
+    },
+    {
+     "title": "Uniqueness",
+     "start": 256,
+     "end": 260,
+     "summary": "Uniqueness.",
+     "terms": [
+      "uniqueness"
+     ]
+    }
+   ],
+   "end": 262,
+   "summary": "Canonical forms."
+  },
+  {
+   "title": "Markov Processes",
+   "start": 263,
+   "sections": [
+    {
+     "title": "Regular Markov Matrices",
+     "start": 263,
+     "end": 266,
+     "summary": "Regular Markov matrices and steady states.",
+     "terms": [
+      "Markov matrix",
+      "steady state"
+     ]
+    },
+    {
+     "title": "Migration Matrices",
+     "start": 267,
+     "end": 267,
+     "summary": "Migration models.",
+     "terms": [
+      "migration matrices"
+     ]
+    },
+    {
+     "title": "Absorbing States",
+     "start": 267,
+     "end": 269,
+     "summary": "Absorbing states.",
+     "terms": [
+      "absorbing states"
+     ]
+    }
+   ],
+   "end": 272,
+   "summary": "Markov chains with matrices."
+  },
+  {
+   "title": "Inner Product Spaces",
+   "start": 273,
+   "sections": [
+    {
+     "title": "General Theory",
+     "start": 273,
+     "end": 274,
+     "summary": "General theory.",
+     "terms": [
+      "inner product space"
+     ]
+    },
+    {
+     "title": "The Gram Schmidt Process",
+     "start": 275,
+     "end": 277,
+     "summary": "Gram\u2013Schmidt.",
+     "terms": [
+      "Gram-Schmidt"
+     ]
+    },
+    {
+     "title": "Riesz Representation Theorem",
+     "start": 278,
+     "end": 280,
+     "summary": "Riesz representation.",
+     "terms": [
+      "Riesz representation"
+     ]
+    },
+    {
+     "title": "The Tensor Product Of Two Vectors",
+     "start": 281,
+     "end": 282,
+     "summary": "Tensor products of vectors.",
+     "terms": [
+      "outer product"
+     ]
+    },
+    {
+     "title": "Least Squares",
+     "start": 283,
+     "end": 283,
+     "summary": "Least squares.",
+     "terms": [
+      "least squares"
+     ]
+    },
+    {
+     "title": "Fredholm Alternative Again",
+     "start": 284,
+     "end": 284,
+     "summary": "Fredholm again.",
+     "terms": [
+      "Fredholm alternative"
+     ]
+    },
+    {
+     "title": "The Determinant And Volume",
+     "start": 289,
+     "end": 290,
+     "summary": "Determinants and volume.",
+     "terms": [
+      "volume",
+      "determinant"
+     ]
+    }
+   ],
+   "end": 292,
+   "summary": "Inner product spaces."
+  },
+  {
+   "title": "Self Adjoint Operators",
+   "start": 293,
+   "sections": [
+    {
+     "title": "Simultaneous Diagonalization",
+     "start": 293,
+     "end": 295,
+     "summary": "Simultaneous diagonalization.",
+     "terms": [
+      "simultaneous diagonalization"
+     ]
+    },
+    {
+     "title": "Schur\u2019s Theorem",
+     "start": 296,
+     "end": 297,
+     "summary": "Schur again.",
+     "terms": [
+      "Schur"
+     ]
+    },
+    {
+     "title": "Spectral Theory Of Self Adjoint Operators",
+     "start": 298,
+     "end": 301,
+     "summary": "Spectral theorem.",
+     "terms": [
+      "spectral theorem"
+     ]
+    },
+    {
+     "title": "Positive And Negative Linear Transformations",
+     "start": 302,
+     "end": 303,
+     "summary": "Positive maps.",
+     "terms": [
+      "positive definite"
+     ]
+    },
+    {
+     "title": "The Square Root",
+     "start": 304,
+     "end": 304,
+     "summary": "Square roots.",
+     "terms": [
+      "square root"
+     ]
+    },
+    {
+     "title": "Fractional Powers",
+     "start": 305,
+     "end": 305,
+     "summary": "Fractional powers.",
+     "terms": [
+      "fractional powers"
+     ]
+    },
+    {
+     "title": "Square Roots And Polar Decompositions",
+     "start": 306,
+     "end": 308,
+     "summary": "Polar decomposition.",
+     "terms": [
+      "polar decomposition"
+     ]
+    },
+    {
+     "title": "An Application To Statistics",
+     "start": 309,
+     "end": 310,
+     "summary": "Statistics application.",
+     "terms": [
+      "covariance",
+      "statistics"
+     ]
+    },
+    {
+     "title": "The Singular Value Decomposition",
+     "start": 311,
+     "end": 322,
+     "summary": "SVD.",
+     "terms": [
+      "singular value decomposition"
+     ]
+    }
+   ],
+   "end": 322,
+   "summary": "Self-adjoint operators and their decompositions."
+  },
+  {
+   "title": "Norms",
+   "start": 323,
+   "sections": [
+    {
+     "title": "The p Norms",
+     "start": 329,
+     "end": 330,
+     "summary": "p-norms and operator norms.",
+     "terms": [
+      "p-norm",
+      "operator norm"
+     ]
+    },
+    {
+     "title": "The Condition Number",
+     "start": 331,
+     "end": 332,
+     "summary": "Condition number.",
+     "terms": [
+      "condition number"
+     ]
+    },
+    {
+     "title": "The Spectral Radius",
+     "start": 333,
+     "end": 334,
+     "summary": "Spectral radius.",
+     "terms": [
+      "spectral radius"
+     ]
+    },
+    {
+     "title": "Series And Sequences Of Linear Operators",
+     "start": 335,
+     "end": 339,
+     "summary": "Series of operators.",
+     "terms": [
+      "Neumann series",
+      "matrix exponential"
+     ]
+    },
+    {
+     "title": "Iterative Methods For Linear Systems",
+     "start": 340,
+     "end": 344,
+     "summary": "Jacobi and Gauss\u2013Seidel.",
+     "terms": [
+      "Jacobi",
+      "Gauss-Seidel"
+     ]
+    },
+    {
+     "title": "Theory Of Convergence",
+     "start": 345,
+     "end": 347,
+     "summary": "Convergence theory.",
+     "terms": [
+      "convergence"
+     ]
+    }
+   ],
+   "end": 354,
+   "summary": "Norms and iterative methods."
+  },
+  {
+   "title": "Numerical Methods, Eigenvalues",
+   "start": 355,
+   "sections": [
+    {
+     "title": "The Power Method For Eigenvalues",
+     "start": 355,
+     "end": 368,
+     "summary": "The power method and shifted inverse power.",
+     "terms": [
+      "power method",
+      "inverse iteration"
+     ]
+    },
+    {
+     "title": "The QR Algorithm",
+     "start": 369,
+     "end": 382,
+     "summary": "The QR algorithm.",
+     "terms": [
+      "QR algorithm",
+      "Hessenberg"
+     ]
+    }
+   ],
+   "end": 384,
+   "summary": "Numerical eigenvalue algorithms."
+  }
+ ],
+ "title": "Linear Algebra, Theory and Applications",
+ "byline": "Kenneth Kuttler \u00b7 Saylor Foundation / author\u2019s edition, September 2017 (CC BY)",
+ "note": "PDF page = printed page. Exercise sections and the appendices (positive matrices, functions of matrices, ODEs, compactness, field extensions, selected answers) are not broken down. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "A thorough undergraduate-to-early-graduate linear algebra text that mixes matrix computation with theory and analysis. It starts from preliminaries (complex numbers, the fundamental theorem of algebra, division algorithm, F\u207f), covers matrices and linear maps, determinants with Cayley\u2013Hamilton, row operations and rank, LU and QR factorizations, eigenvalues with Schur\u2019s theorem and Gershgorin estimates, abstract vector spaces and fields, canonical forms (Jordan, rational), Markov chains, inner product spaces and least squares, self-adjoint operators with polar decomposition and SVD, norms and iterative methods, and numerical eigenvalue algorithms (power method, QR)."
+}

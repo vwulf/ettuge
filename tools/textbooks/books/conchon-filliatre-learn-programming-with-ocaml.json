@@ -1,0 +1,685 @@
+{
+ "url": "https://drive.google.com/file/d/1f7DTTU4A2PrdAldORaF-iwX26_UH5VoB/view",
+ "chapters": [
+  {
+   "title": "The Working Environment",
+   "start": 13,
+   "sections": [
+    {
+     "title": "The Compiler and the Interpreter",
+     "start": 13,
+     "end": 13,
+     "summary": "Compiler vs. toplevel.",
+     "terms": [
+      "ocamlc",
+      "ocamlopt",
+      "toplevel"
+     ]
+    },
+    {
+     "title": "A First OCaml Program",
+     "start": 14,
+     "end": 14,
+     "summary": "A first program.",
+     "terms": [
+      "first program"
+     ]
+    },
+    {
+     "title": "Programming Environments",
+     "start": 15,
+     "end": 15,
+     "summary": "Editors and environments.",
+     "terms": [
+      "editors"
+     ]
+    },
+    {
+     "title": "Installing OCaml Libraries",
+     "start": 16,
+     "end": 16,
+     "summary": "opam libraries.",
+     "terms": [
+      "opam"
+     ]
+    }
+   ],
+   "end": 16,
+   "summary": "Setting up and running OCaml."
+  },
+  {
+   "title": "First Steps with OCaml",
+   "start": 17,
+   "sections": [
+    {
+     "title": "Leap Years",
+     "start": 18,
+     "end": 25,
+     "summary": "Conditionals and integers.",
+     "terms": [
+      "if",
+      "integers"
+     ]
+    },
+    {
+     "title": "The Monte-Carlo Method",
+     "start": 26,
+     "end": 36,
+     "summary": "Random numbers and floats.",
+     "terms": [
+      "Monte Carlo",
+      "floats"
+     ]
+    },
+    {
+     "title": "Drawing a Cardioid",
+     "start": 37,
+     "end": 42,
+     "summary": "Graphics.",
+     "terms": [
+      "Graphics",
+      "cardioid"
+     ]
+    },
+    {
+     "title": "The Mandelbrot Set",
+     "start": 43,
+     "end": 49,
+     "summary": "Complex iteration and images.",
+     "terms": [
+      "Mandelbrot"
+     ]
+    },
+    {
+     "title": "Sieve of Eratosthenes",
+     "start": 50,
+     "end": 56,
+     "summary": "Arrays and loops.",
+     "terms": [
+      "sieve of Eratosthenes",
+      "arrays"
+     ]
+    },
+    {
+     "title": "Drawing a Curve",
+     "start": 57,
+     "end": 67,
+     "summary": "Plotting functions.",
+     "terms": [
+      "curve plotting"
+     ]
+    },
+    {
+     "title": "Copying a File",
+     "start": 68,
+     "end": 75,
+     "summary": "Files and buffers.",
+     "terms": [
+      "file I/O"
+     ]
+    },
+    {
+     "title": "Reversing the Order of Lines in a Text",
+     "start": 76,
+     "end": 83,
+     "summary": "Lists and strings.",
+     "terms": [
+      "lists",
+      "reverse"
+     ]
+    },
+    {
+     "title": "Converting Integers from an Arbitrary Base",
+     "start": 84,
+     "end": 92,
+     "summary": "Number bases.",
+     "terms": [
+      "base conversion"
+     ]
+    },
+    {
+     "title": "Breakout without Bricks",
+     "start": 93,
+     "end": 104,
+     "summary": "An interactive game loop.",
+     "terms": [
+      "Breakout",
+      "event loop"
+     ]
+    },
+    {
+     "title": "Logo Turtle",
+     "start": 105,
+     "end": 111,
+     "summary": "Turtle graphics and recursion.",
+     "terms": [
+      "Logo turtle"
+     ]
+    },
+    {
+     "title": "Playing a Musical Score",
+     "start": 112,
+     "end": 121,
+     "summary": "Audio and records.",
+     "terms": [
+      "music",
+      "records"
+     ]
+    },
+    {
+     "title": "Quadtrees",
+     "start": 122,
+     "end": 127,
+     "summary": "Recursive trees.",
+     "terms": [
+      "quadtrees"
+     ]
+    },
+    {
+     "title": "Solving the N-Queens Problem",
+     "start": 128,
+     "end": 140,
+     "summary": "Backtracking with bit sets.",
+     "terms": [
+      "N-queens",
+      "backtracking"
+     ]
+    }
+   ],
+   "end": 154,
+   "summary": "Learning OCaml through fourteen small programs."
+  },
+  {
+   "title": "OCaml Concepts: A Closer Look",
+   "start": 155,
+   "sections": [
+    {
+     "title": "Type-Checking Algorithm",
+     "start": 155,
+     "end": 159,
+     "summary": "Hindley\u2013Milner type inference.",
+     "terms": [
+      "type inference",
+      "Hindley-Milner"
+     ]
+    },
+    {
+     "title": "Runtime Model",
+     "start": 160,
+     "end": 165,
+     "summary": "Values, boxing, stack and heap, GC.",
+     "terms": [
+      "runtime model",
+      "boxing",
+      "garbage collection"
+     ]
+    },
+    {
+     "title": "Analyzing the Execution Time of a Program",
+     "start": 166,
+     "end": 169,
+     "summary": "Complexity analysis.",
+     "terms": [
+      "complexity",
+      "big-O"
+     ]
+    }
+   ],
+   "end": 174,
+   "summary": "How OCaml works under the hood."
+  },
+  {
+   "title": "Arrays",
+   "start": 175,
+   "sections": [
+    {
+     "title": "Resizeable Arrays",
+     "start": 175,
+     "end": 180,
+     "summary": "Amortized resizable arrays.",
+     "terms": [
+      "resizable arrays",
+      "amortization"
+     ]
+    },
+    {
+     "title": "Bit Vectors",
+     "start": 181,
+     "end": 189,
+     "summary": "Bit vectors.",
+     "terms": [
+      "bit vectors"
+     ]
+    },
+    {
+     "title": "Ropes",
+     "start": 190,
+     "end": 206,
+     "summary": "Ropes for long strings.",
+     "terms": [
+      "ropes"
+     ]
+    },
+    {
+     "title": "Persistent Arrays",
+     "start": 207,
+     "end": 210,
+     "summary": "Persistent arrays via rerooting.",
+     "terms": [
+      "persistent arrays"
+     ]
+    }
+   ],
+   "end": 216,
+   "summary": "Array-like structures."
+  },
+  {
+   "title": "Sets and Dictionaries",
+   "start": 217,
+   "sections": [
+    {
+     "title": "Binary Search Trees",
+     "start": 218,
+     "end": 225,
+     "summary": "Binary search trees.",
+     "terms": [
+      "BST"
+     ]
+    },
+    {
+     "title": "AVL Trees",
+     "start": 226,
+     "end": 236,
+     "summary": "AVL balancing.",
+     "terms": [
+      "AVL trees"
+     ]
+    },
+    {
+     "title": "Hash Tables",
+     "start": 237,
+     "end": 247,
+     "summary": "Hash tables.",
+     "terms": [
+      "hash tables"
+     ]
+    },
+    {
+     "title": "Prefix Trees",
+     "start": 248,
+     "end": 257,
+     "summary": "Tries.",
+     "terms": [
+      "tries",
+      "prefix trees"
+     ]
+    },
+    {
+     "title": "Patricia Trees",
+     "start": 258,
+     "end": 269,
+     "summary": "Patricia trees.",
+     "terms": [
+      "Patricia trees"
+     ]
+    }
+   ],
+   "end": 276,
+   "summary": "Sets and maps."
+  },
+  {
+   "title": "Queues",
+   "start": 277,
+   "sections": [
+    {
+     "title": "Imperative Queues",
+     "start": 277,
+     "end": 281,
+     "summary": "Imperative queues.",
+     "terms": [
+      "imperative queue"
+     ]
+    },
+    {
+     "title": "Persistent Queues",
+     "start": 282,
+     "end": 283,
+     "summary": "Persistent queues with two lists.",
+     "terms": [
+      "persistent queue"
+     ]
+    },
+    {
+     "title": "Imperative Priority Queues",
+     "start": 284,
+     "end": 294,
+     "summary": "Binary heaps.",
+     "terms": [
+      "binary heap"
+     ]
+    },
+    {
+     "title": "Persistent Priority Queues",
+     "start": 295,
+     "end": 298,
+     "summary": "Leftist/skew heaps.",
+     "terms": [
+      "leftist heap",
+      "persistent priority queue"
+     ]
+    }
+   ],
+   "end": 304,
+   "summary": "Queues and priority queues."
+  },
+  {
+   "title": "Graphs",
+   "start": 305,
+   "sections": [
+    {
+     "title": "Adjacency Matrix",
+     "start": 307,
+     "end": 310,
+     "summary": "Adjacency matrices.",
+     "terms": [
+      "adjacency matrix"
+     ]
+    },
+    {
+     "title": "Adjacency Lists",
+     "start": 311,
+     "end": 311,
+     "summary": "Adjacency lists.",
+     "terms": [
+      "adjacency list"
+     ]
+    },
+    {
+     "title": "Adjacency Dictionaries",
+     "start": 312,
+     "end": 317,
+     "summary": "Adjacency maps.",
+     "terms": [
+      "adjacency dictionary"
+     ]
+    },
+    {
+     "title": "Performance Comparison",
+     "start": 318,
+     "end": 318,
+     "summary": "Comparing them.",
+     "terms": [
+      "performance"
+     ]
+    }
+   ],
+   "end": 322,
+   "summary": "Representing graphs."
+  },
+  {
+   "title": "Disjoint Sets",
+   "start": 323,
+   "sections": [
+    {
+     "title": "The Basic Idea",
+     "start": 323,
+     "end": 324,
+     "summary": "The idea.",
+     "terms": [
+      "disjoint sets",
+      "union-find"
+     ]
+    },
+    {
+     "title": "Implementation",
+     "start": 325,
+     "end": 328,
+     "summary": "Path compression and union by rank.",
+     "terms": [
+      "path compression",
+      "union by rank"
+     ]
+    }
+   ],
+   "end": 332,
+   "summary": "Union\u2013find."
+  },
+  {
+   "title": "Zippers",
+   "start": 333,
+   "sections": [
+    {
+     "title": "Zippers on Lists",
+     "start": 333,
+     "end": 336,
+     "summary": "List zippers.",
+     "terms": [
+      "zipper"
+     ]
+    },
+    {
+     "title": "Zippers on Trees",
+     "start": 337,
+     "end": 344,
+     "summary": "Tree zippers.",
+     "terms": [
+      "tree zipper"
+     ]
+    },
+    {
+     "title": "Cursors",
+     "start": 345,
+     "end": 347,
+     "summary": "Cursors.",
+     "terms": [
+      "cursor"
+     ]
+    }
+   ],
+   "end": 352,
+   "summary": "Zippers for navigating data."
+  },
+  {
+   "title": "Arithmetic",
+   "start": 353,
+   "sections": [
+    {
+     "title": "Euclid\u2019s Algorithm",
+     "start": 353,
+     "end": 354,
+     "summary": "GCD.",
+     "terms": [
+      "Euclid algorithm"
+     ]
+    },
+    {
+     "title": "Exponentiation by Squaring",
+     "start": 355,
+     "end": 355,
+     "summary": "Fast exponentiation.",
+     "terms": [
+      "exponentiation by squaring"
+     ]
+    },
+    {
+     "title": "Modular Arithmetic",
+     "start": 356,
+     "end": 359,
+     "summary": "Modular arithmetic.",
+     "terms": [
+      "modular arithmetic"
+     ]
+    },
+    {
+     "title": "Matrix Calculus",
+     "start": 360,
+     "end": 362,
+     "summary": "Matrix power (Fibonacci).",
+     "terms": [
+      "matrix exponentiation"
+     ]
+    }
+   ],
+   "end": 366,
+   "summary": "Number-theoretic algorithms."
+  },
+  {
+   "title": "Dynamic Programming and Memoization",
+   "start": 367,
+   "sections": [
+    {
+     "title": "Basic Idea",
+     "start": 367,
+     "end": 370,
+     "summary": "The idea.",
+     "terms": [
+      "memoization"
+     ]
+    },
+    {
+     "title": "Mechanical Memoization",
+     "start": 371,
+     "end": 373,
+     "summary": "Generic memoization with fixpoints.",
+     "terms": [
+      "memo fixpoint"
+     ]
+    },
+    {
+     "title": "Differences between Memoization and Dynamic Programming",
+     "start": 374,
+     "end": 375,
+     "summary": "Memoization vs. DP.",
+     "terms": [
+      "dynamic programming"
+     ]
+    },
+    {
+     "title": "Hash-consing",
+     "start": 376,
+     "end": 381,
+     "summary": "Hash-consing.",
+     "terms": [
+      "hash-consing"
+     ]
+    }
+   ],
+   "end": 384,
+   "summary": "Memoization, dynamic programming and sharing."
+  },
+  {
+   "title": "Sorting Algorithms",
+   "start": 385,
+   "sections": [
+    {
+     "title": "Insertion Sort",
+     "start": 386,
+     "end": 387,
+     "summary": "Insertion sort.",
+     "terms": [
+      "insertion sort"
+     ]
+    },
+    {
+     "title": "Quicksort",
+     "start": 388,
+     "end": 395,
+     "summary": "Quicksort.",
+     "terms": [
+      "quicksort"
+     ]
+    },
+    {
+     "title": "Merge Sort",
+     "start": 396,
+     "end": 402,
+     "summary": "Merge sort.",
+     "terms": [
+      "merge sort"
+     ]
+    },
+    {
+     "title": "Heapsort",
+     "start": 403,
+     "end": 409,
+     "summary": "Heapsort.",
+     "terms": [
+      "heapsort"
+     ]
+    },
+    {
+     "title": "Optimal Complexity",
+     "start": 410,
+     "end": 410,
+     "summary": "Lower bound.",
+     "terms": [
+      "comparison lower bound"
+     ]
+    },
+    {
+     "title": "Experimental Evaluation",
+     "start": 410,
+     "end": 413,
+     "summary": "Benchmarks.",
+     "terms": [
+      "benchmarks"
+     ]
+    }
+   ],
+   "end": 422,
+   "summary": "Sorting."
+  },
+  {
+   "title": "Graph Algorithms",
+   "start": 423,
+   "sections": [
+    {
+     "title": "Breadth-First Search",
+     "start": 423,
+     "end": 425,
+     "summary": "BFS.",
+     "terms": [
+      "breadth-first search"
+     ]
+    },
+    {
+     "title": "Depth-First Search",
+     "start": 426,
+     "end": 428,
+     "summary": "DFS.",
+     "terms": [
+      "depth-first search",
+      "topological sort"
+     ]
+    },
+    {
+     "title": "Shortest Path",
+     "start": 429,
+     "end": 437,
+     "summary": "Dijkstra.",
+     "terms": [
+      "Dijkstra",
+      "shortest path"
+     ]
+    },
+    {
+     "title": "Minimum spanning tree",
+     "start": 438,
+     "end": 441,
+     "summary": "Kruskal and Prim.",
+     "terms": [
+      "minimum spanning tree",
+      "Kruskal",
+      "Prim"
+     ]
+    }
+   ],
+   "end": 444,
+   "summary": "Graph algorithms."
+  }
+ ],
+ "title": "Learn Programming with OCaml: Algorithms and Data Structures",
+ "byline": "Sylvain Conchon and Jean-Christophe Filli\u00e2tre \u00b7 English translation by Urmila Nair, OCaml Software Foundation, February 2025",
+ "note": "PDF page = printed page + 10. Exercise sections are not broken out. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "A two-part book that teaches programming in OCaml and then classic algorithms and data structures. Part I introduces the language through fourteen small, complete programs (leap years, Monte Carlo, the Mandelbrot set, the sieve, file copying, a Breakout clone, Logo turtle, music, quadtrees, N-queens) and then explains type checking, the runtime model and complexity. Part II implements and analyzes data structures and algorithms in a functional-first style: resizable and persistent arrays, bit vectors and ropes; search trees, AVL, hash tables, tries and Patricia trees; imperative and persistent queues and heaps; graph representations; union\u2013find; zippers; arithmetic algorithms; memoization and hash-consing; sorting; and graph algorithms."
+}

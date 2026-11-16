@@ -1,0 +1,443 @@
+{
+ "url": "https://drive.google.com/file/d/1NM0rrnQD-TtN9vawt-_R13Rtril-8L3A/view",
+ "chapters": [
+  {
+   "title": "Chapter 1: Emergent type-level design",
+   "start": 13,
+   "sections": [
+    {
+     "title": "1.1 Approaching the type-level design",
+     "start": 15,
+     "end": 28,
+     "summary": "Types vs. values, pragmatism and the Typed Forms diagrams.",
+     "terms": [
+      "type-level design",
+      "types and values",
+      "Typed Forms diagrams"
+     ]
+    },
+    {
+     "title": "1.2 The foreshadowing of type-level design",
+     "start": 29,
+     "end": 46,
+     "summary": "Generics, type classes, design principles and type-level literals.",
+     "terms": [
+      "generics",
+      "type classes",
+      "type-level literals",
+      "design principles"
+     ]
+    }
+   ],
+   "end": 46,
+   "summary": "What type-level design is and the vocabulary used."
+  },
+  {
+   "title": "Chapter 2: Use case: simple extensibility",
+   "start": 47,
+   "sections": [
+    {
+     "title": "2.1 Extensibility",
+     "start": 48,
+     "end": 57,
+     "summary": "Extensibility mechanisms and extension points.",
+     "terms": [
+      "extensibility",
+      "extension points"
+     ]
+    },
+    {
+     "title": "2.2 Basically extensible application",
+     "start": 58,
+     "end": 76,
+     "summary": "A type-class-based extensible app; storing heterogeneous values by valuefication or existentials.",
+     "terms": [
+      "type class interface",
+      "heterogeneous collections",
+      "existential types",
+      "valuefication"
+     ]
+    }
+   ],
+   "end": 76,
+   "summary": "Extensibility through type classes and heterogeneous storage."
+  },
+  {
+   "title": "Chapter 3: Use case: genericity and customization",
+   "start": 77,
+   "sections": [
+    {
+     "title": "3.1 Type-level genericity",
+     "start": 79,
+     "end": 97,
+     "summary": "Empty ADTs, type applications, kinds, custom kinds, type-level lists.",
+     "terms": [
+      "empty data types",
+      "TypeApplications",
+      "kinds",
+      "DataKinds",
+      "type-level lists"
+     ]
+    },
+    {
+     "title": "3.2 Type-level customization",
+     "start": 98,
+     "end": 111,
+     "summary": "Case-driven design and a customizable type-level eDSL.",
+     "terms": [
+      "case-driven design",
+      "eDSL"
+     ]
+    }
+   ],
+   "end": 111,
+   "summary": "Genericity and customization at the type level."
+  },
+  {
+   "title": "Chapter 4: Use case: enforcing correctness",
+   "start": 112,
+   "sections": [
+    {
+     "title": "4.1 Correctness is about meaning",
+     "start": 113,
+     "end": 117,
+     "summary": "Type safety vs. correctness.",
+     "terms": [
+      "correctness",
+      "type safety"
+     ]
+    },
+    {
+     "title": "4.2 Static integrity",
+     "start": 118,
+     "end": 138,
+     "summary": "Static integrity: stronger domain models, static vs. volatile notions, type-level validators.",
+     "terms": [
+      "static integrity",
+      "type-level validation",
+      "domain modeling"
+     ]
+    }
+   ],
+   "end": 138,
+   "summary": "Using types to enforce correctness."
+  },
+  {
+   "title": "Chapter 5: Application architecture",
+   "start": 140,
+   "sections": [
+    {
+     "title": "5.1 Approaching software architecture",
+     "start": 141,
+     "end": 148,
+     "summary": "Architecture levels and assessment practices.",
+     "terms": [
+      "software architecture",
+      "Double Usage Assessment"
+     ]
+    },
+    {
+     "title": "5.2 Application structure",
+     "start": 149,
+     "end": 163,
+     "summary": "Layered architecture, project structure, where type-level code lives.",
+     "terms": [
+      "layered architecture",
+      "project structure"
+     ]
+    }
+   ],
+   "end": 163,
+   "summary": "Architecture for type-level applications."
+  },
+  {
+   "title": "Chapter 6: Components design",
+   "start": 164,
+   "sections": [
+    {
+     "title": "6.1 Static and dynamic domain models",
+     "start": 165,
+     "end": 178,
+     "summary": "Separate type- and value-level models, Granular Type Selector, static materialization, DTOs.",
+     "terms": [
+      "static model",
+      "dynamic model",
+      "Granular Type Selector",
+      "materialization",
+      "DTO"
+     ]
+    },
+    {
+     "title": "6.2 Two functional interfaces",
+     "start": 179,
+     "end": 191,
+     "summary": "Free monad vs. type-class interfaces; Dynamic Payload pattern.",
+     "terms": [
+      "free monad",
+      "type class interface",
+      "Dynamic Payload"
+     ]
+    }
+   ],
+   "end": 191,
+   "summary": "Designing components with static and dynamic models."
+  },
+  {
+   "title": "Chapter 7: Use case: type-level object-oriented programming",
+   "start": 193,
+   "sections": [
+    {
+     "title": "7.1 Multiparadigm approach",
+     "start": 195,
+     "end": 195,
+     "summary": "Multiparadigm motivation.",
+     "terms": [
+      "multiparadigm"
+     ]
+    },
+    {
+     "title": "7.2 Glimpse of typed object-oriented programming",
+     "start": 195,
+     "end": 201,
+     "summary": "Typed OOP glimpse and the expression problem.",
+     "terms": [
+      "typed OOP",
+      "expression problem"
+     ]
+    },
+    {
+     "title": "7.3 Type-oriented object model",
+     "start": 202,
+     "end": 218,
+     "summary": "A type-oriented object model with scripting and the Typed-Untyped pattern.",
+     "terms": [
+      "object model",
+      "Typed-Untyped pattern"
+     ]
+    }
+   ],
+   "end": 218,
+   "summary": "Type-level object-oriented programming."
+  },
+  {
+   "title": "Chapter 8: Use case: advanced extensibility",
+   "start": 219,
+   "sections": [
+    {
+     "title": "8.1 Advanced type-level design and extensibility",
+     "start": 221,
+     "end": 244,
+     "summary": "Empty parameterized ADTs, type-level interfaces, universal evaluation, type-level lambdas and the expression problem.",
+     "terms": [
+      "type-level interfaces",
+      "evaluation mechanism",
+      "expression problem",
+      "type-level lambdas"
+     ]
+    }
+   ],
+   "end": 244,
+   "summary": "Advanced extensibility with type-level interfaces."
+  },
+  {
+   "title": "Rosetta Stone 1: Rust",
+   "start": 249,
+   "sections": [
+    {
+     "title": "RSC.1.1 Value-level and mixed-level features",
+     "start": 251,
+     "end": 259,
+     "summary": "Newtypes, ADTs, traits, phantom types, generics.",
+     "terms": [
+      "Rust",
+      "newtype",
+      "traits",
+      "phantom types"
+     ]
+    },
+    {
+     "title": "RSC.1.2 Type-level features",
+     "start": 260,
+     "end": 271,
+     "summary": "Const generics, type-level lists and associated types.",
+     "terms": [
+      "type-level literals",
+      "associated types"
+     ]
+    },
+    {
+     "title": "RSC.1.3 Type-level interfaces, extensibility, and domain modeling",
+     "start": 272,
+     "end": 280,
+     "summary": "Existential wrappers and evaluation.",
+     "terms": [
+      "trait objects",
+      "existential wrappers"
+     ]
+    },
+    {
+     "title": "RSC.1.4 Integrity validation",
+     "start": 281,
+     "end": 289,
+     "summary": "Type equality and static asserts.",
+     "terms": [
+      "type equality",
+      "static assert"
+     ]
+    }
+   ],
+   "end": 289,
+   "summary": "The same techniques in Rust."
+  },
+  {
+   "title": "Rosetta Stone 2: Scala 3",
+   "start": 290,
+   "sections": [
+    {
+     "title": "RSC.2.1 Value-level and mixed-level features",
+     "start": 292,
+     "end": 299,
+     "summary": "Opaque types, ADTs, traits and type classes.",
+     "terms": [
+      "Scala 3",
+      "opaque types",
+      "given",
+      "type classes"
+     ]
+    },
+    {
+     "title": "RSC.2.2 Type-level features",
+     "start": 300,
+     "end": 308,
+     "summary": "Singleton literal types, type-level lists, match types.",
+     "terms": [
+      "literal types",
+      "match types"
+     ]
+    },
+    {
+     "title": "RSC.2.3 Type-level interfaces, extensibility, and domain modeling",
+     "start": 309,
+     "end": 316,
+     "summary": "Type-level interfaces and existential wrappers.",
+     "terms": [
+      "existential types"
+     ]
+    },
+    {
+     "title": "RSC.2.4 Integrity validation",
+     "start": 317,
+     "end": 322,
+     "summary": "Validators and type comparison.",
+     "terms": [
+      "type comparison",
+      "validators"
+     ]
+    }
+   ],
+   "end": 322,
+   "summary": "The same techniques in Scala 3."
+  },
+  {
+   "title": "Appendix B: Existential Fight Club",
+   "start": 339,
+   "sections": [
+    {
+     "title": "B.1 Haskell, existentification",
+     "start": 340,
+     "end": 341,
+     "summary": "Haskell existentials.",
+     "terms": [
+      "Haskell existential"
+     ]
+    },
+    {
+     "title": "B.2 Haskell, valuefication",
+     "start": 342,
+     "end": 342,
+     "summary": "Haskell valuefication.",
+     "terms": [
+      "valuefication"
+     ]
+    },
+    {
+     "title": "B.3 Rust, existentification",
+     "start": 343,
+     "end": 344,
+     "summary": "Rust existentials.",
+     "terms": [
+      "Rust dyn trait"
+     ]
+    },
+    {
+     "title": "B.4 Rust, valuefication",
+     "start": 345,
+     "end": 345,
+     "summary": "Rust valuefication.",
+     "terms": [
+      "Rust"
+     ]
+    },
+    {
+     "title": "B.5 C++, object-oriented variant",
+     "start": 346,
+     "end": 348,
+     "summary": "C++ OOP.",
+     "terms": [
+      "C++ virtual"
+     ]
+    },
+    {
+     "title": "B.6 C++, valuefication",
+     "start": 349,
+     "end": 350,
+     "summary": "C++ valuefication.",
+     "terms": [
+      "C++"
+     ]
+    },
+    {
+     "title": "B.7 Scala 2, existentification with implicits",
+     "start": 351,
+     "end": 353,
+     "summary": "Scala 2 implicits.",
+     "terms": [
+      "Scala implicits"
+     ]
+    }
+   ],
+   "end": 353,
+   "summary": "One problem solved with existentials vs. values across languages."
+  },
+  {
+   "title": "Appendix C: The Mythologized Correctness",
+   "start": 354,
+   "sections": [
+    {
+     "title": "C.1 Type safety",
+     "start": 355,
+     "end": 359,
+     "summary": "What type safety does and doesn\u2019t guarantee.",
+     "terms": [
+      "type safety myths"
+     ]
+    },
+    {
+     "title": "C.2 Technical correctness",
+     "start": 360,
+     "end": 371,
+     "summary": "Technical correctness and its limits.",
+     "terms": [
+      "correctness"
+     ]
+    }
+   ],
+   "end": 372,
+   "summary": "A critical look at claims about type safety and correctness."
+  }
+ ],
+ "title": "Pragmatic Type-Level Design",
+ "byline": "Alexander Granin \u00b7 self-published (Leanpub), v1.1.0",
+ "note": "The per-chapter \u201cSummary\u201d subsections, the Typed Forms diagram reference (Appendix A) and the two project appendices (D, E) are not broken out. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "A practical guide to using type-level programming for application design rather than for its own sake, with Haskell as the main language and Rust and Scala 3 counterparts. Granin introduces his \u201cTyped Forms\u201d diagram notation, then works through use cases: extensibility via type classes and existential or \u201cvaluefied\u201d storage, genericity with empty ADTs, kinds and type-level lists, and correctness via static integrity checks and type-level validators. He moves on to application architecture and component design (static vs. dynamic domain models, free monads vs. type-class interfaces, his Granular Type Selector and Dynamic Payload patterns), then advanced cases: type-level object models and the expression problem. \u201cRosetta Stone\u201d chapters map every technique to Rust and Scala 3."
+}
