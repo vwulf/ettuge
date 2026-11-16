@@ -1,0 +1,339 @@
+{
+ "title": "Calculating Compilers",
+ "byline": "Erik Meijer \u00b7 PhD thesis, University of Nijmegen, 1992",
+ "note": "A scanned thesis with an imperfect text layer, so some symbols in the PDF are garbled. Printed page = PDF page \u2212 17; the bibliography (PDF p. 138) and Dutch summary (p. 146) are not broken down. Summaries are in our own words.",
+ "summary": "Meijer\u2019s thesis argues that compilers should be derived, not just verified: start from a denotational semantics of the source language and transform it by equational reasoning, in the Bird\u2013Meertens style, until it becomes code for an abstract machine, so the result is correct by construction. Chapter 1 does this for a small functional language, ending in de Bruijn-indexed stack code. Chapter 2 is the theory, the famous \u201cbananas, lenses, envelopes and barbed wire\u201d paper: catamorphisms, anamorphisms, hylomorphisms and paramorphisms over algebraic data types in CPO, with their laws. The remaining chapters apply the method to Petri-net update schemes, an imperative language with procedures (via continuations, short-circuit evaluation and tail calls), and backtracking with success and failure continuations and cut.",
+ "chapters": [
+  {
+   "title": "1. More Advice on Proving a Compiler Correct: Improve a Correct Compiler",
+   "start": 22,
+   "end": 37,
+   "sections": [
+    {
+     "title": "1.1 The compiler correctness problem",
+     "start": 23,
+     "end": 25,
+     "summary": "Why proving compilers correct after the fact is hard, and why calculating them is better.",
+     "terms": [
+      "compiler correctness"
+     ]
+    },
+    {
+     "title": "1.2\u20131.3 A simple functional language F and its syntax",
+     "start": 26,
+     "end": 27,
+     "summary": "The source language and its syntax.",
+     "terms": [
+      "functional language",
+      "syntax"
+     ]
+    },
+    {
+     "title": "1.4 Semantics: static, standard, spineless, environment",
+     "start": 27,
+     "end": 34,
+     "summary": "Static and dynamic semantics, refined into a spineless, environment-based form.",
+     "terms": [
+      "denotational semantics",
+      "static semantics",
+      "environment"
+     ]
+    },
+    {
+     "title": "1.5 Translating into de Bruijn form",
+     "start": 34,
+     "end": 36,
+     "summary": "Removing variable names to get machine-like code.",
+     "terms": [
+      "de Bruijn indices"
+     ]
+    },
+    {
+     "title": "1.6 Towards a concrete implementation",
+     "start": 36,
+     "end": 37,
+     "summary": "From the derived semantics to an implementation.",
+     "terms": [
+      "abstract machine",
+      "implementation"
+     ]
+    }
+   ],
+   "summary": "Deriving a correct compiler for a small functional language from its semantics."
+  },
+  {
+   "title": "2. Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire",
+   "start": 38,
+   "end": 71,
+   "sections": [
+    {
+     "title": "2.1 The data type of lists",
+     "start": 39,
+     "end": 43,
+     "summary": "Lists and their fold and unfold operators.",
+     "terms": [
+      "lists",
+      "foldr",
+      "unfold"
+     ]
+    },
+    {
+     "title": "2.2 The category CPO",
+     "start": 43,
+     "end": 46,
+     "summary": "The category of complete partial orders as the setting.",
+     "terms": [
+      "CPO",
+      "complete partial order"
+     ]
+    },
+    {
+     "title": "2.3 Functors",
+     "start": 46,
+     "end": 50,
+     "summary": "Functors and their laws.",
+     "terms": [
+      "functors"
+     ]
+    },
+    {
+     "title": "2.4 Algebraic data types",
+     "start": 50,
+     "end": 51,
+     "summary": "Data types as least fixed points of functors.",
+     "terms": [
+      "algebraic data types",
+      "fixed points"
+     ]
+    },
+    {
+     "title": "2.5 Recursion schemes",
+     "start": 51,
+     "end": 61,
+     "summary": "Catamorphisms (bananas), anamorphisms (lenses), hylomorphisms (envelopes) and paramorphisms (barbed wire), with fusion laws.",
+     "terms": [
+      "catamorphism",
+      "anamorphism",
+      "hylomorphism",
+      "paramorphism",
+      "fusion",
+      "recursion schemes"
+     ]
+    },
+    {
+     "title": "2.6 Parametrized types",
+     "start": 61,
+     "end": 64,
+     "summary": "Data types with parameters, like lists of a.",
+     "terms": [
+      "parametrized types"
+     ]
+    },
+    {
+     "title": "2.7 Mutual recursion",
+     "start": 64,
+     "end": 66,
+     "summary": "Mutually recursive types.",
+     "terms": [
+      "mutual recursion"
+     ]
+    },
+    {
+     "title": "2.8 The induction principle for algebraic data types",
+     "start": 66,
+     "end": 67,
+     "summary": "Induction for algebraic data types.",
+     "terms": [
+      "induction principle"
+     ]
+    },
+    {
+     "title": "2.9 Higher-order functions wreck calculations",
+     "start": 67,
+     "end": 69,
+     "summary": "Why higher-order functions complicate the calculus.",
+     "terms": [
+      "higher-order functions"
+     ]
+    },
+    {
+     "title": "2.10\u20132.11 Continuous algebras and conclusions",
+     "start": 69,
+     "end": 71,
+     "summary": "Continuous algebras, and a summary.",
+     "terms": [
+      "continuous algebras"
+     ]
+    }
+   ],
+   "summary": "A calculus of recursion schemes over algebraic data types, the theoretical core."
+  },
+  {
+   "title": "3. From Pr/T-nets to Update Schemes",
+   "start": 72,
+   "end": 81,
+   "sections": [
+    {
+     "title": "3.1 Pr/T nets",
+     "start": 73,
+     "end": 75,
+     "summary": "Predicate/transition nets.",
+     "terms": [
+      "Petri nets",
+      "Pr/T nets"
+     ]
+    },
+    {
+     "title": "3.2 Update schemes",
+     "start": 75,
+     "end": 81,
+     "summary": "Calculating efficient update schemes from net semantics.",
+     "terms": [
+      "update schemes",
+      "program transformation"
+     ]
+    }
+   ],
+   "summary": "Transforming predicate/transition nets into update schemes."
+  },
+  {
+   "title": "4. BNF for Syntax, BMF for Semantics",
+   "start": 82,
+   "end": 109,
+   "sections": [
+    {
+     "title": "4.1\u20134.2 Overview and a simple imperative language W",
+     "start": 82,
+     "end": 89,
+     "summary": "The plan, and a small while-language with its semantics.",
+     "terms": [
+      "imperative language",
+      "while language"
+     ]
+    },
+    {
+     "title": "4.3 Continuation semantics",
+     "start": 89,
+     "end": 94,
+     "summary": "Rewriting the semantics in continuation-passing style.",
+     "terms": [
+      "continuation semantics",
+      "CPS"
+     ]
+    },
+    {
+     "title": "4.4 Expression continuations",
+     "start": 94,
+     "end": 97,
+     "summary": "Continuations for expressions.",
+     "terms": [
+      "expression continuations"
+     ]
+    },
+    {
+     "title": "4.5 Short-circuit evaluation",
+     "start": 97,
+     "end": 101,
+     "summary": "Deriving jumping code for Boolean expressions.",
+     "terms": [
+      "short-circuit evaluation",
+      "jumping code"
+     ]
+    },
+    {
+     "title": "4.6 Adding procedures: from W to C",
+     "start": 101,
+     "end": 108,
+     "summary": "Procedures and the extension to a C-like language.",
+     "terms": [
+      "procedures"
+     ]
+    },
+    {
+     "title": "4.7\u20134.8 Tail-call elimination and a concrete implementation",
+     "start": 108,
+     "end": 109,
+     "summary": "Eliminating tail calls, and the resulting implementation.",
+     "terms": [
+      "tail call elimination"
+     ]
+    }
+   ],
+   "summary": "Deriving an imperative-language compiler with continuations."
+  },
+  {
+   "title": "5. A Taxonomy of Backtracking",
+   "start": 110,
+   "end": 137,
+   "sections": [
+    {
+     "title": "5.1\u20135.3 A calculus of relations, the language B, relational semantics",
+     "start": 111,
+     "end": 115,
+     "summary": "Relations, a backtracking language and its relational meaning.",
+     "terms": [
+      "relational semantics",
+      "backtracking"
+     ]
+    },
+    {
+     "title": "5.4 Success continuations",
+     "start": 115,
+     "end": 117,
+     "summary": "Adding success continuations.",
+     "terms": [
+      "success continuation"
+     ]
+    },
+    {
+     "title": "5.5 Failure continuations",
+     "start": 117,
+     "end": 121,
+     "summary": "Adding failure continuations.",
+     "terms": [
+      "failure continuation"
+     ]
+    },
+    {
+     "title": "5.6 Making recursion explicit",
+     "start": 121,
+     "end": 125,
+     "summary": "Making recursion explicit.",
+     "terms": [
+      "explicit recursion"
+     ]
+    },
+    {
+     "title": "5.7 Introducing the cut",
+     "start": 125,
+     "end": 128,
+     "summary": "Adding Prolog-style cut.",
+     "terms": [
+      "cut",
+      "Prolog"
+     ]
+    },
+    {
+     "title": "5.8 Comparison with other continuation semantics",
+     "start": 128,
+     "end": 129,
+     "summary": "How these relate to other continuation semantics.",
+     "terms": [
+      "continuation semantics"
+     ]
+    },
+    {
+     "title": "5.9\u20135.10 Concrete semantics and recomputing the input",
+     "start": 129,
+     "end": 137,
+     "summary": "A concrete semantics, and recomputing the input instead of storing it.",
+     "terms": [
+      "concrete semantics"
+     ]
+    }
+   ],
+   "summary": "A family of semantics for backtracking derived step by step from a relational one."
+  }
+ ],
+ "url": "https://drive.google.com/file/d/1-YaDtD6k_7x0gClgJdCEjTDcL8ZTWJYb/view"
+}

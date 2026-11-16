@@ -1,0 +1,519 @@
+{
+ "title": "Principles of Eventual Consistency",
+ "byline": "Sebastian Burckhardt \u00b7 Foundations and Trends in Programming Languages, 2014",
+ "note": "The Drive file is named \u201cLinerarity of Consistency\u201d; the book is Burckhardt\u2019s monograph. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "A formal framework for specifying and verifying replicated systems that stay available by letting replicas diverge temporarily. Burckhardt models what clients observe as histories, explains them with abstract executions (visibility and arbitration orders over events), and states consistency guarantees as axioms on those orders. Replicated data types such as counters, registers and sets get precise specifications, and the guarantees are arranged in a hierarchy from basic eventual consistency through causal consistency to sequential consistency and linearizability. The second half gives a pseudocode language and its operational semantics, protocol templates (epidemic, broadcast, global-sequence), a version of the CAP theorem, and correctness proofs connecting implementations to specifications.",
+ "chapters": [
+  {
+   "title": "Introduction",
+   "start": 15,
+   "end": 30,
+   "sections": [
+    {
+     "title": "General Motivation",
+     "start": 17,
+     "end": 19,
+     "summary": "Availability and partition tolerance motivate weaker consistency.",
+     "terms": [
+      "eventual consistency",
+      "availability",
+      "partition tolerance"
+     ]
+    },
+    {
+     "title": "Applications",
+     "start": 20,
+     "end": 21,
+     "summary": "Cloud storage, collaborative editing and mobile apps.",
+     "terms": [
+      "cloud storage",
+      "geo-replication",
+      "collaborative editing"
+     ]
+    },
+    {
+     "title": "Warmup",
+     "start": 22,
+     "end": 28,
+     "summary": "A simple replicated counter and the anomalies clients can see.",
+     "terms": [
+      "replicated counter",
+      "anomalies"
+     ]
+    },
+    {
+     "title": "Overview",
+     "start": 29,
+     "end": 30,
+     "summary": "The book\u2019s structure.",
+     "terms": [
+      "overview"
+     ]
+    }
+   ],
+   "summary": "Why eventual consistency, where it is used, a warm-up example, and the plan of the book."
+  },
+  {
+   "title": "Preliminaries",
+   "start": 31,
+   "end": 40,
+   "sections": [
+    {
+     "title": "Sets and Functions",
+     "start": 31,
+     "end": 35,
+     "summary": "Relations, partial and total orders.",
+     "terms": [
+      "relations",
+      "partial order",
+      "total order"
+     ]
+    },
+    {
+     "title": "Event Graphs",
+     "start": 36,
+     "end": 40,
+     "summary": "Event graphs as the common structure.",
+     "terms": [
+      "event graph"
+     ]
+    }
+   ],
+   "summary": "Mathematical background: relations, orders and event graphs."
+  },
+  {
+   "title": "Consistency Specifications",
+   "start": 41,
+   "end": 50,
+   "sections": [
+    {
+     "title": "Histories",
+     "start": 42,
+     "end": 45,
+     "summary": "What clients observe: operations and results.",
+     "terms": [
+      "history"
+     ]
+    },
+    {
+     "title": "Abstract Executions",
+     "start": 46,
+     "end": 46,
+     "summary": "Visibility and arbitration relations that justify a history.",
+     "terms": [
+      "abstract execution",
+      "visibility",
+      "arbitration"
+     ]
+    },
+    {
+     "title": "Consistency Guarantees",
+     "start": 47,
+     "end": 47,
+     "summary": "Guarantees as conditions on abstract executions.",
+     "terms": [
+      "consistency guarantee",
+      "axioms"
+     ]
+    },
+    {
+     "title": "Background",
+     "start": 48,
+     "end": 50,
+     "summary": "Origins of the approach.",
+     "terms": [
+      "background"
+     ]
+    }
+   ],
+   "summary": "Histories of client operations, abstract executions that explain them, and guarantees as axioms."
+  },
+  {
+   "title": "Replicated Data Types",
+   "start": 51,
+   "end": 62,
+   "sections": [
+    {
+     "title": "Basic Definitions",
+     "start": 51,
+     "end": 52,
+     "summary": "Operations and return values.",
+     "terms": [
+      "data type",
+      "operations"
+     ]
+    },
+    {
+     "title": "Sequential Data Types",
+     "start": 53,
+     "end": 55,
+     "summary": "Specs of sequential types.",
+     "terms": [
+      "sequential specification"
+     ]
+    },
+    {
+     "title": "Replicated Data Types",
+     "start": 56,
+     "end": 60,
+     "summary": "Specs for replicated types such as counters, registers, sets and multi-value registers.",
+     "terms": [
+      "replicated data type",
+      "CRDT",
+      "counter",
+      "register",
+      "OR-set",
+      "multi-value register"
+     ]
+    },
+    {
+     "title": "Return Value Consistency",
+     "start": 61,
+     "end": 62,
+     "summary": "Return values consistent with the visible operations.",
+     "terms": [
+      "return value consistency"
+     ]
+    }
+   ],
+   "summary": "Specifying data types under replication: sequential specs, replicated specs, and return-value consistency."
+  },
+  {
+   "title": "Consistency",
+   "start": 63,
+   "end": 74,
+   "sections": [
+    {
+     "title": "Basic Eventual Consistency",
+     "start": 64,
+     "end": 68,
+     "summary": "Eventual visibility and convergence.",
+     "terms": [
+      "basic eventual consistency",
+      "convergence"
+     ]
+    },
+    {
+     "title": "Causal Consistency",
+     "start": 69,
+     "end": 69,
+     "summary": "Causality-respecting visibility.",
+     "terms": [
+      "causal consistency"
+     ]
+    },
+    {
+     "title": "Strong Models",
+     "start": 70,
+     "end": 72,
+     "summary": "Sequential consistency and linearizability.",
+     "terms": [
+      "sequential consistency",
+      "linearizability"
+     ]
+    },
+    {
+     "title": "Hierarchy of Models",
+     "start": 73,
+     "end": 74,
+     "summary": "The partial order of models.",
+     "terms": [
+      "consistency hierarchy"
+     ]
+    }
+   ],
+   "summary": "The spectrum of guarantees from eventual to causal to strong, and how they relate."
+  },
+  {
+   "title": "Implementations",
+   "start": 75,
+   "end": 94,
+   "sections": [
+    {
+     "title": "Overview",
+     "start": 75,
+     "end": 78,
+     "summary": "Implementation style.",
+     "terms": [
+      "implementations"
+     ]
+    },
+    {
+     "title": "Pseudocode Semantics",
+     "start": 79,
+     "end": 79,
+     "summary": "Meaning of the pseudocode.",
+     "terms": [
+      "pseudocode semantics"
+     ]
+    },
+    {
+     "title": "Counters",
+     "start": 80,
+     "end": 82,
+     "summary": "Replicated counter implementations.",
+     "terms": [
+      "counter implementation"
+     ]
+    },
+    {
+     "title": "Stores",
+     "start": 83,
+     "end": 85,
+     "summary": "Replicated key-value stores.",
+     "terms": [
+      "key-value store"
+     ]
+    },
+    {
+     "title": "Protocol Templates",
+     "start": 86,
+     "end": 94,
+     "summary": "Epidemic, broadcast and global-sequence templates.",
+     "terms": [
+      "protocol templates"
+     ]
+    }
+   ],
+   "summary": "Pseudocode implementations of counters and key-value stores, and reusable protocol templates."
+  },
+  {
+   "title": "Concrete Executions",
+   "start": 95,
+   "end": 106,
+   "sections": [
+    {
+     "title": "Transitions",
+     "start": 95,
+     "end": 96,
+     "summary": "Transition systems.",
+     "terms": [
+      "transition system"
+     ]
+    },
+    {
+     "title": "Trajectories",
+     "start": 97,
+     "end": 98,
+     "summary": "Runs as trajectories.",
+     "terms": [
+      "trajectory"
+     ]
+    },
+    {
+     "title": "Concrete Executions",
+     "start": 99,
+     "end": 100,
+     "summary": "Concrete executions with messages.",
+     "terms": [
+      "concrete execution"
+     ]
+    },
+    {
+     "title": "Observable History",
+     "start": 101,
+     "end": 104,
+     "summary": "Deriving the observable history.",
+     "terms": [
+      "observable history"
+     ]
+    },
+    {
+     "title": "Infinite Executions",
+     "start": 105,
+     "end": 106,
+     "summary": "Liveness over infinite runs.",
+     "terms": [
+      "liveness",
+      "infinite executions"
+     ]
+    }
+   ],
+   "summary": "Operational semantics: transitions, trajectories, observable histories, infinite runs."
+  },
+  {
+   "title": "Protocols",
+   "start": 107,
+   "end": 114,
+   "sections": [
+    {
+     "title": "Role Automata",
+     "start": 107,
+     "end": 108,
+     "summary": "Replicas and clients as role automata.",
+     "terms": [
+      "role automata"
+     ]
+    },
+    {
+     "title": "Transport Guarantees",
+     "start": 109,
+     "end": 110,
+     "summary": "Message delivery assumptions.",
+     "terms": [
+      "transport guarantees",
+      "reliable delivery"
+     ]
+    },
+    {
+     "title": "Protocols",
+     "start": 111,
+     "end": 112,
+     "summary": "Protocol definitions.",
+     "terms": [
+      "protocols"
+     ]
+    },
+    {
+     "title": "Pseudocode Compilation",
+     "start": 113,
+     "end": 114,
+     "summary": "Translating pseudocode into protocols.",
+     "terms": [
+      "pseudocode compilation"
+     ]
+    }
+   ],
+   "summary": "Role automata, transport guarantees, and compiling pseudocode to protocols."
+  },
+  {
+   "title": "Implementability",
+   "start": 115,
+   "end": 124,
+   "sections": [
+    {
+     "title": "CAP",
+     "start": 116,
+     "end": 119,
+     "summary": "A formal CAP theorem: availability under partitions rules out strong consistency.",
+     "terms": [
+      "CAP theorem"
+     ]
+    },
+    {
+     "title": "Progress",
+     "start": 120,
+     "end": 124,
+     "summary": "Progress and liveness guarantees.",
+     "terms": [
+      "progress",
+      "wait-freedom"
+     ]
+    }
+   ],
+   "summary": "What can and cannot be implemented: CAP and progress guarantees."
+  },
+  {
+   "title": "Correctness",
+   "start": 125,
+   "end": 144,
+   "sections": [
+    {
+     "title": "Proof Structure",
+     "start": 125,
+     "end": 126,
+     "summary": "How the correctness proofs are organized.",
+     "terms": [
+      "proof structure",
+      "simulation"
+     ]
+    },
+    {
+     "title": "Epidemic Protocols",
+     "start": 127,
+     "end": 133,
+     "summary": "Epidemic (gossip) protocols.",
+     "terms": [
+      "epidemic protocols",
+      "gossip"
+     ]
+    },
+    {
+     "title": "Broadcast Protocols",
+     "start": 134,
+     "end": 135,
+     "summary": "Reliable-broadcast protocols.",
+     "terms": [
+      "broadcast protocols"
+     ]
+    },
+    {
+     "title": "Global-Sequence Protocols",
+     "start": 136,
+     "end": 144,
+     "summary": "Protocols that agree on a global sequence.",
+     "terms": [
+      "global-sequence protocols",
+      "consensus"
+     ]
+    }
+   ],
+   "summary": "Proof techniques showing that epidemic, broadcast and global-sequence protocols meet their specifications."
+  },
+  {
+   "title": "Related Work",
+   "start": 145,
+   "end": 152,
+   "sections": [
+    {
+     "title": "Distributed Systems",
+     "start": 145,
+     "end": 145,
+     "summary": "Distributed systems.",
+     "terms": [
+      "distributed systems"
+     ]
+    },
+    {
+     "title": "Databases",
+     "start": 146,
+     "end": 147,
+     "summary": "Database isolation.",
+     "terms": [
+      "databases",
+      "isolation levels"
+     ]
+    },
+    {
+     "title": "Shared-Memory Multiprocessors",
+     "start": 148,
+     "end": 148,
+     "summary": "Weak memory models.",
+     "terms": [
+      "memory models"
+     ]
+    },
+    {
+     "title": "Distributed Algorithms",
+     "start": 149,
+     "end": 149,
+     "summary": "Distributed algorithms.",
+     "terms": [
+      "distributed algorithms"
+     ]
+    },
+    {
+     "title": "Verification",
+     "start": 150,
+     "end": 152,
+     "summary": "Verification work.",
+     "terms": [
+      "verification"
+     ]
+    }
+   ],
+   "summary": "How the framework relates to work in distributed systems, databases, memory models, algorithms and verification."
+  },
+  {
+   "title": "Conclusion",
+   "start": 153,
+   "end": 154,
+   "sections": [],
+   "summary": "Summary and open directions.",
+   "terms": [
+    "conclusion"
+   ]
+  }
+ ],
+ "url": "https://drive.google.com/file/d/1KUEAbAgneC5hMhY6mSIHjXVpOxbV2q4N/view"
+}

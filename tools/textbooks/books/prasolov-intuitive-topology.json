@@ -1,0 +1,129 @@
+{
+ "title": "Intuitive Topology",
+ "byline": "V. V. Prasolov \u00b7 AMS Mathematical World 4 (1995); Universities Press India reprint",
+ "note": "Short chapters without numbered sections, so each chapter is a leaf here. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "A short, picture-driven introduction to topology for readers without the formal machinery. It starts with deforming elastic objects and with knots, uses spanning surfaces and a simple diagram invariant to show that the trefoil cannot be untied, and then makes \u201csame shape\u201d precise through homeomorphisms. The second half turns to vector fields: the index of a singular point, the Brouwer fixed-point theorem, why every vector field on a sphere vanishes somewhere, and fixed-point-free and periodic maps. It ends with a tour of two-dimensional surfaces and their classification. Intuition comes first, with proofs sketched where they stay elementary.",
+ "chapters": [
+  {
+   "title": "Foreword",
+   "start": 8,
+   "end": 9,
+   "sections": [],
+   "summary": "Why topology, and why it begins with intuition rather than definitions.",
+   "terms": [
+    "topology",
+    "homeomorphism",
+    "deformation"
+   ]
+  },
+  {
+   "title": "1  Deformations",
+   "start": 10,
+   "end": 15,
+   "sections": [],
+   "summary": "Puzzles about bending and stretching elastic bodies without tearing.",
+   "terms": [
+    "elastic deformation",
+    "puzzles"
+   ]
+  },
+  {
+   "title": "2  Knots and Links",
+   "start": 16,
+   "end": 23,
+   "sections": [],
+   "summary": "Knots and links as closed strings, the trefoil and its mirror image, and link diagrams.",
+   "terms": [
+    "knots",
+    "links",
+    "trefoil",
+    "knot diagram"
+   ]
+  },
+  {
+   "title": "3  Spans of Knots and Links",
+   "start": 24,
+   "end": 37,
+   "sections": [],
+   "summary": "Surfaces whose boundary is a knot (Seifert surfaces), and what they reveal.",
+   "terms": [
+    "spanning surface",
+    "Seifert surface"
+   ]
+  },
+  {
+   "title": "4  A Knot Invariant",
+   "start": 38,
+   "end": 41,
+   "sections": [],
+   "summary": "A number computed from knot diagrams that survives deformations, proving the trefoil is knotted.",
+   "terms": [
+    "knot invariant",
+    "Reidemeister moves",
+    "colorability"
+   ]
+  },
+  {
+   "title": "5  Homeomorphisms",
+   "start": 42,
+   "end": 53,
+   "sections": [],
+   "summary": "Homeomorphism versus deformation (isotopy), with examples of shapes that are the same and different.",
+   "terms": [
+    "homeomorphism",
+    "isotopy"
+   ]
+  },
+  {
+   "title": "6  Vector Fields on the Plane",
+   "start": 54,
+   "end": 71,
+   "sections": [],
+   "summary": "Continuous vector fields, singular points and their index, and the Brouwer fixed-point theorem.",
+   "terms": [
+    "vector field",
+    "singular point",
+    "index",
+    "Brouwer fixed point theorem"
+   ]
+  },
+  {
+   "title": "7  Vector Fields on Two-Dimensional Surfaces",
+   "start": 72,
+   "end": 79,
+   "sections": [],
+   "summary": "Vector fields on the sphere and torus; the hairy-ball result and the sum of indices.",
+   "terms": [
+    "vector fields on the sphere",
+    "hairy ball theorem",
+    "Euler characteristic"
+   ]
+  },
+  {
+   "title": "8  Fixed Point Free and Periodic Homeomorphisms",
+   "start": 80,
+   "end": 89,
+   "sections": [],
+   "summary": "Maps of surfaces with no fixed points, and maps that repeat after finitely many steps.",
+   "terms": [
+    "fixed points",
+    "periodic homeomorphisms"
+   ]
+  },
+  {
+   "title": "9  Two-Dimensional Surfaces",
+   "start": 90,
+   "end": 106,
+   "sections": [],
+   "summary": "Orientable and non-orientable surfaces (M\u00f6bius band, Klein bottle), gluing, and the classification of surfaces.",
+   "terms": [
+    "two-dimensional surfaces",
+    "orientability",
+    "M\u00f6bius band",
+    "Klein bottle",
+    "classification of surfaces"
+   ]
+  }
+ ],
+ "url": "https://drive.google.com/file/d/1-qEba00qJYYa8UQ4xZhwlSQ0HW2FRx6j/view"
+}

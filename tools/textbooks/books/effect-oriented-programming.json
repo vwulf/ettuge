@@ -1,0 +1,652 @@
+{
+ "title": "Effect Oriented Programming",
+ "byline": "Bill Frasure, Bruce Eckel and James Ward \u00b7 Scala 3 and ZIO 2",
+ "note": "Summaries are in our own words; the text stays in the PDF.",
+ "summary": "An introduction to effect systems for working programmers, using Scala 3 and ZIO. An effect is any unpredictable interaction with the outside world (clocks, files, networks, randomness, mutation); wrapping effects as values that describe work instead of doing it gives back control. The book shows what that buys: retries, timeouts, fallbacks and finalizers added without changing the code they wrap; dependencies modeled as layers and wired into a graph; deterministic tests with controllable clocks and randomness; typed failures in place of thrown exceptions; composition with existing Scala types; safe shared state; and resilience patterns such as caching, rate limiting, circuit breaking and hedged requests.",
+ "chapters": [
+  {
+   "title": "1: Preface",
+   "start": 7,
+   "end": 10,
+   "sections": [
+    {
+     "title": "1.1: Scala 3 & ZIO",
+     "start": 7,
+     "end": 7,
+     "summary": "The choice of Scala 3 and ZIO.",
+     "terms": [
+      "Scala 3",
+      "ZIO"
+     ]
+    },
+    {
+     "title": "1.2: Code Examples",
+     "start": 8,
+     "end": 9,
+     "summary": "How the code examples are organized and run.",
+     "terms": [
+      "code examples",
+      "sbt"
+     ]
+    },
+    {
+     "title": "1.3: Acknowledgements",
+     "start": 10,
+     "end": 10,
+     "summary": "Acknowledgements.",
+     "terms": [
+      "acknowledgements"
+     ]
+    }
+   ],
+   "summary": "Why Scala 3 and ZIO, how to run the examples."
+  },
+  {
+   "title": "2: Introduction",
+   "start": 11,
+   "end": 20,
+   "sections": [
+    {
+     "title": "2.1: Types of Effects",
+     "start": 11,
+     "end": 11,
+     "summary": "Kinds of effects, from reading a clock to controlling machinery; effect systems wrap them.",
+     "terms": [
+      "effect",
+      "side effect"
+     ]
+    },
+    {
+     "title": "2.2: Motivation",
+     "start": 12,
+     "end": 13,
+     "summary": "Why software built on raw effects resists change.",
+     "terms": [
+      "motivation"
+     ]
+    },
+    {
+     "title": "2.3: The Pursuit of Adaptability",
+     "start": 14,
+     "end": 14,
+     "summary": "Adaptability as the goal.",
+     "terms": [
+      "adaptability"
+     ]
+    },
+    {
+     "title": "2.4: What's Stopping Us?",
+     "start": 15,
+     "end": 16,
+     "summary": "What blocks it: hidden effects and tangled failure handling.",
+     "terms": [
+      "hidden effects"
+     ]
+    },
+    {
+     "title": "2.5: Managing Effects",
+     "start": 17,
+     "end": 19,
+     "summary": "Treating effects as values that a runtime executes.",
+     "terms": [
+      "effect system",
+      "effects as values"
+     ]
+    },
+    {
+     "title": "2.6: Improving Your Life",
+     "start": 20,
+     "end": 20,
+     "summary": "The practical payoff.",
+     "terms": [
+      "benefits"
+     ]
+    }
+   ],
+   "summary": "What effects are and why unmanaged effects make software hard to change."
+  },
+  {
+   "title": "3: Superpowers",
+   "start": 21,
+   "end": 34,
+   "sections": [
+    {
+     "title": "3.1: Retry",
+     "start": 23,
+     "end": 23,
+     "summary": "Retrying failed effects with schedules.",
+     "terms": [
+      "retry",
+      "Schedule"
+     ]
+    },
+    {
+     "title": "3.2: Modifying Failure",
+     "start": 24,
+     "end": 24,
+     "summary": "Mapping and refining error types.",
+     "terms": [
+      "mapError",
+      "error refinement"
+     ]
+    },
+    {
+     "title": "3.3: Timeout",
+     "start": 25,
+     "end": 25,
+     "summary": "Timeouts.",
+     "terms": [
+      "timeout"
+     ]
+    },
+    {
+     "title": "3.4: Fallback",
+     "start": 26,
+     "end": 26,
+     "summary": "Falling back to alternatives.",
+     "terms": [
+      "orElse",
+      "fallback"
+     ]
+    },
+    {
+     "title": "3.5: Finalization",
+     "start": 27,
+     "end": 27,
+     "summary": "Guaranteed cleanup.",
+     "terms": [
+      "ensuring",
+      "finalization"
+     ]
+    },
+    {
+     "title": "3.6: Timing",
+     "start": 28,
+     "end": 28,
+     "summary": "Measuring how long effects take.",
+     "terms": [
+      "timed"
+     ]
+    },
+    {
+     "title": "3.7: Filtering",
+     "start": 29,
+     "end": 29,
+     "summary": "Filtering results.",
+     "terms": [
+      "filter"
+     ]
+    },
+    {
+     "title": "3.8: Effects are the Sum of Their Parts",
+     "start": 29,
+     "end": 29,
+     "summary": "Combining these behaviors freely.",
+     "terms": [
+      "combinators"
+     ]
+    },
+    {
+     "title": "3.9: Deferred Execution",
+     "start": 30,
+     "end": 34,
+     "summary": "Effects describe work and run only when executed.",
+     "terms": [
+      "deferred execution",
+      "laziness"
+     ]
+    }
+   ],
+   "summary": "Behaviors you can attach to any effect once it is a value."
+  },
+  {
+   "title": "4: Initialization",
+   "start": 35,
+   "end": 55,
+   "sections": [
+    {
+     "title": "4.1: Effects and Dependencies",
+     "start": 35,
+     "end": 35,
+     "summary": "Effects can need services to run.",
+     "terms": [
+      "dependencies",
+      "environment"
+     ]
+    },
+    {
+     "title": "4.2: Defining Dependencies",
+     "start": 36,
+     "end": 36,
+     "summary": "Defining services as traits.",
+     "terms": [
+      "services",
+      "traits"
+     ]
+    },
+    {
+     "title": "4.3: Effects as Dependencies",
+     "start": 37,
+     "end": 37,
+     "summary": "Constructing services with effects.",
+     "terms": [
+      "ZLayer"
+     ]
+    },
+    {
+     "title": "4.4: Providing Dependencies to Effects",
+     "start": 38,
+     "end": 39,
+     "summary": "Supplying dependencies with provide.",
+     "terms": [
+      "provide"
+     ]
+    },
+    {
+     "title": "4.5: Dependencies With Dependencies",
+     "start": 40,
+     "end": 42,
+     "summary": "Services that depend on other services.",
+     "terms": [
+      "layer composition"
+     ]
+    },
+    {
+     "title": "4.6: Naming Dependencies",
+     "start": 43,
+     "end": 43,
+     "summary": "Distinguishing several services of the same type.",
+     "terms": [
+      "named services"
+     ]
+    },
+    {
+     "title": "4.7: Sharing Dependencies",
+     "start": 44,
+     "end": 46,
+     "summary": "Sharing one instance across consumers.",
+     "terms": [
+      "shared layers"
+     ]
+    },
+    {
+     "title": "4.8: The Dependency Graph",
+     "start": 47,
+     "end": 47,
+     "summary": "ZIO builds the dependency graph and reports missing pieces at compile time.",
+     "terms": [
+      "dependency graph"
+     ]
+    },
+    {
+     "title": "4.9: Dependency Cleanup",
+     "start": 48,
+     "end": 48,
+     "summary": "Releasing resources when layers shut down.",
+     "terms": [
+      "scoped resources",
+      "cleanup"
+     ]
+    },
+    {
+     "title": "4.10: Construction Failure",
+     "start": 49,
+     "end": 51,
+     "summary": "Handling failure while constructing a service.",
+     "terms": [
+      "construction failure"
+     ]
+    },
+    {
+     "title": "4.11: External Configuration",
+     "start": 52,
+     "end": 55,
+     "summary": "Loading configuration from outside.",
+     "terms": [
+      "configuration"
+     ]
+    }
+   ],
+   "summary": "Managing dependencies as effects with ZIO layers."
+  },
+  {
+   "title": "5: Testing",
+   "start": 56,
+   "end": 70,
+   "sections": [
+    {
+     "title": "5.1: Basic ZIO Testing",
+     "start": 56,
+     "end": 61,
+     "summary": "Writing tests as effects with ZIO Test.",
+     "terms": [
+      "ZIO Test"
+     ]
+    },
+    {
+     "title": "5.2: Test Dependencies",
+     "start": 62,
+     "end": 63,
+     "summary": "Supplying test implementations of services.",
+     "terms": [
+      "test layers",
+      "mocks"
+     ]
+    },
+    {
+     "title": "5.3: Testing Built-Ins",
+     "start": 64,
+     "end": 70,
+     "summary": "TestClock, TestRandom, TestConsole and other controllable built-ins.",
+     "terms": [
+      "TestClock",
+      "TestRandom",
+      "TestConsole"
+     ]
+    }
+   ],
+   "summary": "Testing effectful code with ZIO Test and its controllable services."
+  },
+  {
+   "title": "6: Failure",
+   "start": 71,
+   "end": 86,
+   "sections": [
+    {
+     "title": "6.1: Throwing Exceptions",
+     "start": 71,
+     "end": 72,
+     "summary": "Problems with thrown exceptions.",
+     "terms": [
+      "exceptions"
+     ]
+    },
+    {
+     "title": "6.2: The Functional Solution",
+     "start": 73,
+     "end": 73,
+     "summary": "Failures as part of the effect type.",
+     "terms": [
+      "typed errors"
+     ]
+    },
+    {
+     "title": "6.3: Failure Types",
+     "start": 73,
+     "end": 74,
+     "summary": "Designing error types with ADTs.",
+     "terms": [
+      "error ADT"
+     ]
+    },
+    {
+     "title": "6.4: Short-Circuiting",
+     "start": 75,
+     "end": 77,
+     "summary": "How a failure stops the rest of a computation.",
+     "terms": [
+      "short-circuiting"
+     ]
+    },
+    {
+     "title": "6.5: Handling Failures",
+     "start": 78,
+     "end": 81,
+     "summary": "Recovering with catch and fold operators.",
+     "terms": [
+      "catchAll",
+      "fold"
+     ]
+    },
+    {
+     "title": "6.6: Multiple Failure Types",
+     "start": 82,
+     "end": 83,
+     "summary": "Combining effects with different error types.",
+     "terms": [
+      "union types",
+      "multiple errors"
+     ]
+    },
+    {
+     "title": "6.7: Handling Thrown Exceptions",
+     "start": 84,
+     "end": 86,
+     "summary": "Wrapping legacy code that throws.",
+     "terms": [
+      "ZIO.attempt"
+     ]
+    }
+   ],
+   "summary": "Failures as typed values instead of exceptions."
+  },
+  {
+   "title": "7: Composability",
+   "start": 87,
+   "end": 111,
+   "sections": [
+    {
+     "title": "7.1: Composing with Effects",
+     "start": 88,
+     "end": 88,
+     "summary": "Effects compose because they are values.",
+     "terms": [
+      "composition"
+     ]
+    },
+    {
+     "title": "7.2: Future",
+     "start": 89,
+     "end": 91,
+     "summary": "Interop with Future.",
+     "terms": [
+      "Future"
+     ]
+    },
+    {
+     "title": "7.3: Option",
+     "start": 92,
+     "end": 93,
+     "summary": "With Option.",
+     "terms": [
+      "Option"
+     ]
+    },
+    {
+     "title": "7.4: Either",
+     "start": 94,
+     "end": 94,
+     "summary": "With Either.",
+     "terms": [
+      "Either"
+     ]
+    },
+    {
+     "title": "7.5: AutoCloseable",
+     "start": 95,
+     "end": 98,
+     "summary": "Resource safety for AutoCloseable.",
+     "terms": [
+      "AutoCloseable",
+      "acquireRelease"
+     ]
+    },
+    {
+     "title": "7.6: Try",
+     "start": 99,
+     "end": 99,
+     "summary": "With Try.",
+     "terms": [
+      "Try"
+     ]
+    },
+    {
+     "title": "7.7: Exceptions",
+     "start": 100,
+     "end": 101,
+     "summary": "With exception-throwing code.",
+     "terms": [
+      "exceptions interop"
+     ]
+    },
+    {
+     "title": "7.8: Slow Functions",
+     "start": 102,
+     "end": 103,
+     "summary": "Wrapping blocking or slow calls.",
+     "terms": [
+      "blocking",
+      "attemptBlocking"
+     ]
+    },
+    {
+     "title": "7.9: Composing an Application",
+     "start": 104,
+     "end": 109,
+     "summary": "Assembling a full application from parts.",
+     "terms": [
+      "application assembly"
+     ]
+    },
+    {
+     "title": "7.10: Effects are Values",
+     "start": 110,
+     "end": 111,
+     "summary": "Recap: effects as values.",
+     "terms": [
+      "effects as values"
+     ]
+    }
+   ],
+   "summary": "How ZIO effects compose with each other and with Future, Option, Either, Try and resources."
+  },
+  {
+   "title": "8: Shared State",
+   "start": 112,
+   "end": 119,
+   "sections": [
+    {
+     "title": "8.1: Unreliable State",
+     "start": 112,
+     "end": 112,
+     "summary": "Races with plain mutable variables.",
+     "terms": [
+      "race conditions",
+      "mutable state"
+     ]
+    },
+    {
+     "title": "8.2: Reliable State",
+     "start": 113,
+     "end": 113,
+     "summary": "Ref for atomic shared state.",
+     "terms": [
+      "Ref"
+     ]
+    },
+    {
+     "title": "8.3: Effects Are Not Allowed",
+     "start": 114,
+     "end": 114,
+     "summary": "Why effects aren\u2019t allowed inside Ref updates.",
+     "terms": [
+      "pure updates"
+     ]
+    },
+    {
+     "title": "8.4: Sneaking in Side Effects",
+     "start": 115,
+     "end": 116,
+     "summary": "Ways side effects can sneak in anyway.",
+     "terms": [
+      "side effects"
+     ]
+    },
+    {
+     "title": "8.5: Reliable Effects",
+     "start": 117,
+     "end": 119,
+     "summary": "Ref.Synchronized for effectful updates.",
+     "terms": [
+      "Ref.Synchronized"
+     ]
+    }
+   ],
+   "summary": "Mutable state shared safely between concurrent effects."
+  },
+  {
+   "title": "9: Resilience",
+   "start": 120,
+   "end": 147,
+   "sections": [
+    {
+     "title": "9.1: Caching",
+     "start": 120,
+     "end": 124,
+     "summary": "Caching results.",
+     "terms": [
+      "caching"
+     ]
+    },
+    {
+     "title": "9.2: Rate Limits",
+     "start": 125,
+     "end": 128,
+     "summary": "Respecting rate limits.",
+     "terms": [
+      "rate limiting"
+     ]
+    },
+    {
+     "title": "9.3: Constraining Concurrent Requests",
+     "start": 129,
+     "end": 131,
+     "summary": "Bounding concurrent requests.",
+     "terms": [
+      "concurrency limits",
+      "semaphore"
+     ]
+    },
+    {
+     "title": "9.4: Circuit Breaking",
+     "start": 132,
+     "end": 135,
+     "summary": "Circuit breakers to stop calling failing services.",
+     "terms": [
+      "circuit breaker"
+     ]
+    },
+    {
+     "title": "9.5: Reducing Worst-Case Latency",
+     "start": 136,
+     "end": 139,
+     "summary": "Hedging requests to cut tail latency.",
+     "terms": [
+      "hedged requests",
+      "tail latency"
+     ]
+    },
+    {
+     "title": "9.6: Test Resilience",
+     "start": 140,
+     "end": 142,
+     "summary": "Testing resilience behavior.",
+     "terms": [
+      "resilience testing"
+     ]
+    },
+    {
+     "title": "9.7: The Ecosystem of Effects",
+     "start": 143,
+     "end": 147,
+     "summary": "The wider ZIO ecosystem of effect libraries.",
+     "terms": [
+      "ZIO ecosystem"
+     ]
+    }
+   ],
+   "summary": "Patterns for keeping services responsive under load and failure."
+  }
+ ],
+ "url": "https://drive.google.com/file/d/1YWYWwxMHolLIN-YJ6qgDgDy2L2x0XKkx/view"
+}

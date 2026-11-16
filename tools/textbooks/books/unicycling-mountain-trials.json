@@ -1,0 +1,231 @@
+{
+ "title": "The Essential Guide to Mountain and Trials Unicycling",
+ "byline": "Kris Holm \u00b7 Gradient Press, first edition 2012",
+ "note": "The PDF lays out two book pages per PDF page, so page ranges here are PDF pages. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "A how-to book by the rider who did most to create off-road unicycling, covering its two disciplines: muni (mountain unicycling on trails) and trials (hopping and balancing over obstacles). After the history of the sport and a detailed guide to equipment, it covers safety and trail ethics, then teaches trials skills in progression (still stands, balance lines, hops, gaps, pedal grabs, drops) and the trail techniques for climbing, descending, braking, technical terrain, bad conditions and geared hubs. It is heavily photographic, with each skill broken into steps and common mistakes.",
+ "chapters": [
+  {
+   "title": "Foreword",
+   "start": 8,
+   "end": 9,
+   "sections": [],
+   "summary": "Endorsement of the sport and the book.",
+   "terms": [
+    "foreword"
+   ]
+  },
+  {
+   "title": "1. The Game of Muni and Trials",
+   "start": 10,
+   "end": 15,
+   "sections": [],
+   "summary": "What muni and trials are and how they developed.",
+   "terms": [
+    "muni",
+    "trials",
+    "history of unicycling"
+   ]
+  },
+  {
+   "title": "2. Equipment",
+   "start": 16,
+   "end": 27,
+   "sections": [],
+   "summary": "Choosing and setting up a unicycle for off-road riding.",
+   "terms": [
+    "saddle",
+    "seatpost",
+    "frame",
+    "brakes",
+    "tires",
+    "rims",
+    "hubs",
+    "cranks",
+    "geared hub"
+   ]
+  },
+  {
+   "title": "3. Safety",
+   "start": 28,
+   "end": 30,
+   "sections": [],
+   "summary": "Protective gear and riding within your limits.",
+   "terms": [
+    "safety gear",
+    "protective equipment"
+   ]
+  },
+  {
+   "title": "4. Ethics",
+   "start": 31,
+   "end": 33,
+   "sections": [],
+   "summary": "Sharing trails responsibly and minimizing impact.",
+   "terms": [
+    "trail ethics"
+   ]
+  },
+  {
+   "title": "5. Unicycle Trials",
+   "start": 34,
+   "end": 61,
+   "sections": [
+    {
+     "title": "Still stands",
+     "start": 35,
+     "end": 36,
+     "summary": "Balancing in place without moving the wheel.",
+     "terms": [
+      "still stand"
+     ]
+    },
+    {
+     "title": "Balance lines",
+     "start": 36,
+     "end": 39,
+     "summary": "Riding narrow lines such as logs and rails.",
+     "terms": [
+      "balance lines"
+     ]
+    },
+    {
+     "title": "Hops",
+     "start": 39,
+     "end": 48,
+     "summary": "Hopping in place, sideways and up onto objects (static and rolling hops, seat in and out).",
+     "terms": [
+      "hopping",
+      "static hop",
+      "rolling hop",
+      "seat-out hopping"
+     ]
+    },
+    {
+     "title": "Gaps",
+     "start": 48,
+     "end": 50,
+     "summary": "Jumping across gaps between objects.",
+     "terms": [
+      "gaps"
+     ]
+    },
+    {
+     "title": "Pedal grabs",
+     "start": 50,
+     "end": 52,
+     "summary": "Landing the pedal on an edge to climb higher obstacles.",
+     "terms": [
+      "pedal grab"
+     ]
+    },
+    {
+     "title": "Drops",
+     "start": 52,
+     "end": 57,
+     "summary": "Riding off ledges and absorbing the landing.",
+     "terms": [
+      "drops"
+     ]
+    },
+    {
+     "title": "Visualization",
+     "start": 57,
+     "end": 61,
+     "summary": "Planning and imagining lines before attempting them.",
+     "terms": [
+      "visualization"
+     ]
+    }
+   ],
+   "summary": "Riding obstacles: the trials skill progression."
+  },
+  {
+   "title": "6. Mountain Unicycling",
+   "start": 62,
+   "end": 84,
+   "sections": [
+    {
+     "title": "Getting started",
+     "start": 63,
+     "end": 67,
+     "summary": "Mounting and riding on rough ground for the first time.",
+     "terms": [
+      "mounting",
+      "getting started"
+     ]
+    },
+    {
+     "title": "Riding uphill",
+     "start": 67,
+     "end": 69,
+     "summary": "Climbing: body position, pedaling and traction.",
+     "terms": [
+      "climbing",
+      "uphill"
+     ]
+    },
+    {
+     "title": "Riding downhill",
+     "start": 69,
+     "end": 73,
+     "summary": "Descending: weight distribution and leg control.",
+     "terms": [
+      "descending",
+      "downhill"
+     ]
+    },
+    {
+     "title": "Braking",
+     "start": 73,
+     "end": 77,
+     "summary": "Using a brake on steep descents.",
+     "terms": [
+      "braking"
+     ]
+    },
+    {
+     "title": "Tips for technically difficult descents",
+     "start": 77,
+     "end": 81,
+     "summary": "Rocks, roots and steps on technical descents.",
+     "terms": [
+      "technical descents"
+     ]
+    },
+    {
+     "title": "Wet, muddy and slippery conditions",
+     "start": 81,
+     "end": 82,
+     "summary": "Riding wet, muddy and slippery trails.",
+     "terms": [
+      "mud",
+      "wet conditions"
+     ]
+    },
+    {
+     "title": "Geared riding",
+     "start": 82,
+     "end": 84,
+     "summary": "Two-speed hubs for faster riding.",
+     "terms": [
+      "geared riding",
+      "two-speed hub"
+     ]
+    }
+   ],
+   "summary": "Riding trails: climbing, descending, braking and difficult terrain."
+  },
+  {
+   "title": "Conclusion and glossary",
+   "start": 85,
+   "end": 89,
+   "sections": [],
+   "summary": "Closing thoughts, glossary of terms, resources.",
+   "terms": [
+    "glossary",
+    "resources"
+   ]
+  }
+ ],
+ "url": "https://drive.google.com/file/d/1medZnh8asqA7GqKQeuJB2ZeP3qgapzwU/view"
+}

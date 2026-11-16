@@ -1,0 +1,517 @@
+{
+ "title": "Deep Learning and Computational Physics (lecture notes)",
+ "byline": "Deep Ray, Orazio Pinti and Assad A. Oberai \u00b7 USC course notes, 2023",
+ "note": "Course notes rather than a polished book; sections often end with questions for the reader. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "These notes teach deep learning to people who already know numerical methods for physics, and keep drawing the parallel between the two. Networks are introduced as function approximators with universal approximation results; ResNets are read as time-stepping schemes, which leads to neural ODEs; convolutions are compared with finite-difference stencils. The physics-specific core is solving PDEs with networks: physics-informed neural networks (PINNs) that put the PDE residual in the loss, then operator networks (DeepONet and the Fourier Neural Operator) that learn the whole map from inputs to solutions. The last chapter adds probability and generative models (GANs) for problems with uncertain or multiple answers.",
+ "chapters": [
+  {
+   "title": "1 Introduction",
+   "start": 5,
+   "end": 9,
+   "sections": [
+    {
+     "title": "1.1 Computational physics",
+     "start": 5,
+     "end": 5,
+     "summary": "Physics-based models: postulate a law, discretize it, solve numerically.",
+     "terms": [
+      "computational physics"
+     ]
+    },
+    {
+     "title": "1.2 Machine learning",
+     "start": 6,
+     "end": 6,
+     "summary": "ML steps: collect data, choose a model, train it on the data.",
+     "terms": [
+      "machine learning workflow"
+     ]
+    },
+    {
+     "title": "1.3 Artificial Intelligence, Machine Learning and Deep Learning",
+     "start": 7,
+     "end": 7,
+     "summary": "Supervised, unsupervised, semi-supervised and reinforcement learning, and where deep learning fits.",
+     "terms": [
+      "supervised learning",
+      "unsupervised learning",
+      "semi-supervised learning",
+      "reinforcement learning"
+     ]
+    },
+    {
+     "title": "1.4 Machine learning and computational physics",
+     "start": 8,
+     "end": 9,
+     "summary": "How ML and physics solvers complement each other, using a self-driving-car pipeline as illustration.",
+     "terms": [
+      "physics-based ML",
+      "semantic segmentation"
+     ]
+    }
+   ],
+   "summary": "Computational physics starts from laws, machine learning from data; the notes motivate combining them."
+  },
+  {
+   "title": "2 Introduction to deep neural networks",
+   "start": 10,
+   "end": 27,
+   "sections": [
+    {
+     "title": "2.1 MLP architecture",
+     "start": 10,
+     "end": 10,
+     "summary": "Layers of neurons, weights and biases, and the network as a composed function.",
+     "terms": [
+      "MLP",
+      "weights",
+      "bias"
+     ]
+    },
+    {
+     "title": "2.2 Activation functions",
+     "start": 11,
+     "end": 13,
+     "summary": "ReLU, leaky ReLU, logistic, tanh and others, with their properties.",
+     "terms": [
+      "ReLU",
+      "leaky ReLU",
+      "logistic",
+      "tanh"
+     ]
+    },
+    {
+     "title": "2.3 Expressivity of a network",
+     "start": 14,
+     "end": 15,
+     "summary": "Universal approximation theorems (Pinkus and others) and why depth helps.",
+     "terms": [
+      "universal approximation theorem",
+      "expressivity"
+     ]
+    },
+    {
+     "title": "2.4 Training, validation and testing of neural networks",
+     "start": 16,
+     "end": 17,
+     "summary": "Loss, training/validation/test splits, and overfitting.",
+     "terms": [
+      "training set",
+      "validation set",
+      "test set",
+      "overfitting"
+     ]
+    },
+    {
+     "title": "2.5 Generalizability",
+     "start": 18,
+     "end": 18,
+     "summary": "Generalization and sensitivity to inputs; regularization.",
+     "terms": [
+      "generalization",
+      "regularization"
+     ]
+    },
+    {
+     "title": "2.6 Gradient descent",
+     "start": 19,
+     "end": 20,
+     "summary": "Gradient descent and its convergence.",
+     "terms": [
+      "gradient descent"
+     ]
+    },
+    {
+     "title": "2.7 Some advanced optimization algorithms",
+     "start": 21,
+     "end": 23,
+     "summary": "Momentum, RMSProp, Adam; mini-batches and epochs.",
+     "terms": [
+      "momentum",
+      "RMSProp",
+      "Adam",
+      "mini-batch",
+      "epoch"
+     ]
+    },
+    {
+     "title": "2.8 Calculating gradients using back-propagation",
+     "start": 24,
+     "end": 25,
+     "summary": "Backpropagation derived layer by layer.",
+     "terms": [
+      "backpropagation"
+     ]
+    },
+    {
+     "title": "2.9 Regression versus classification",
+     "start": 26,
+     "end": 27,
+     "summary": "Losses for regression versus classification (cross-entropy, softmax).",
+     "terms": [
+      "regression",
+      "classification",
+      "cross-entropy",
+      "softmax"
+     ]
+    }
+   ],
+   "summary": "MLPs, activation functions, approximation theorems, training and generalization, optimizers and backpropagation."
+  },
+  {
+   "title": "3 Residual neural networks",
+   "start": 28,
+   "end": 33,
+   "sections": [
+    {
+     "title": "3.1 Vanishing gradients in deep networks",
+     "start": 28,
+     "end": 28,
+     "summary": "Why gradients shrink in very deep networks.",
+     "terms": [
+      "vanishing gradients"
+     ]
+    },
+    {
+     "title": "3.2 ResNets",
+     "start": 29,
+     "end": 29,
+     "summary": "Skip connections let gradients bypass layers.",
+     "terms": [
+      "ResNet",
+      "skip connections"
+     ]
+    },
+    {
+     "title": "3.3 Connections with ODEs",
+     "start": 30,
+     "end": 30,
+     "summary": "A residual block is a forward-Euler step of an ODE.",
+     "terms": [
+      "forward Euler",
+      "ODE"
+     ]
+    },
+    {
+     "title": "3.4 Neural ODEs",
+     "start": 31,
+     "end": 33,
+     "summary": "Taking the step to zero gives neural ODEs: a network defines a vector field integrated by an ODE solver.",
+     "terms": [
+      "neural ODE"
+     ]
+    }
+   ],
+   "summary": "Vanishing gradients, residual networks, and the reading of ResNets as forward-Euler steps of an ODE, leading to neural ODEs."
+  },
+  {
+   "title": "4 Solving PDEs with MLPs",
+   "start": 34,
+   "end": 44,
+   "sections": [
+    {
+     "title": "4.1 Finite difference method",
+     "start": 35,
+     "end": 35,
+     "summary": "Discretize derivatives on a grid and solve a linear system.",
+     "terms": [
+      "finite difference method",
+      "central difference"
+     ]
+    },
+    {
+     "title": "4.2 Spectral collocation method",
+     "start": 36,
+     "end": 38,
+     "summary": "Approximate the solution with global basis functions and enforce the PDE at collocation points.",
+     "terms": [
+      "spectral collocation"
+     ]
+    },
+    {
+     "title": "4.3 Physics-informed neural networks (PINNs)",
+     "start": 39,
+     "end": 40,
+     "summary": "Represent the solution with a network and minimize the PDE residual at collocation points via automatic differentiation.",
+     "terms": [
+      "PINN",
+      "physics-informed neural network",
+      "collocation points"
+     ]
+    },
+    {
+     "title": "4.4 Extending PINNs to a more general PDE",
+     "start": 41,
+     "end": 41,
+     "summary": "Adding boundary conditions as penalty terms and handling general PDEs.",
+     "terms": [
+      "boundary conditions",
+      "penalty"
+     ]
+    },
+    {
+     "title": "4.5 Error analysis for PINNs",
+     "start": 42,
+     "end": 42,
+     "summary": "Sources of error: optimization, collocation sampling and network capacity, with a stability bound.",
+     "terms": [
+      "PINN error analysis"
+     ]
+    },
+    {
+     "title": "4.6 Data assimilation using PINNs",
+     "start": 43,
+     "end": 44,
+     "summary": "Combining PDE residuals with measured data to infer unknown fields or parameters.",
+     "terms": [
+      "data assimilation",
+      "inverse problems"
+     ]
+    }
+   ],
+   "summary": "Classical PDE solvers next to physics-informed neural networks, with error analysis and data assimilation."
+  },
+  {
+   "title": "5 Convolutional Neural Networks",
+   "start": 45,
+   "end": 57,
+   "sections": [
+    {
+     "title": "5.1 Functions and images",
+     "start": 45,
+     "end": 45,
+     "summary": "Images as sampled functions.",
+     "terms": [
+      "images as functions"
+     ]
+    },
+    {
+     "title": "5.2 Convolutions of functions",
+     "start": 45,
+     "end": 46,
+     "summary": "Convolution as a smoothing or differentiating kernel acting on a function.",
+     "terms": [
+      "convolution",
+      "kernel"
+     ]
+    },
+    {
+     "title": "5.3 Discrete convolutions",
+     "start": 47,
+     "end": 48,
+     "summary": "Discrete convolutions on grids.",
+     "terms": [
+      "discrete convolution"
+     ]
+    },
+    {
+     "title": "5.4 Connection to finite differences",
+     "start": 49,
+     "end": 49,
+     "summary": "A convolution kernel is a finite-difference stencil.",
+     "terms": [
+      "finite difference stencil"
+     ]
+    },
+    {
+     "title": "5.5 Convolution layers",
+     "start": 49,
+     "end": 51,
+     "summary": "Kernel size, stride, padding and channels in a convolution layer.",
+     "terms": [
+      "convolution layer",
+      "stride",
+      "padding",
+      "channels"
+     ]
+    },
+    {
+     "title": "5.6 Convolution Neural Network (CNN)",
+     "start": 52,
+     "end": 53,
+     "summary": "Stacking convolutions and pooling into a CNN.",
+     "terms": [
+      "CNN",
+      "pooling"
+     ]
+    },
+    {
+     "title": "5.7 Transpose convolution layers",
+     "start": 54,
+     "end": 56,
+     "summary": "Upsampling with transposed convolutions.",
+     "terms": [
+      "transpose convolution",
+      "upsampling"
+     ]
+    },
+    {
+     "title": "5.8 Image-to-image transformations",
+     "start": 57,
+     "end": 57,
+     "summary": "Encoder\u2013decoder networks mapping one field to another, like source to solution.",
+     "terms": [
+      "image-to-image",
+      "encoder-decoder"
+     ]
+    }
+   ],
+   "summary": "Convolutions of functions and images, their link to finite differences, CNN layers and image-to-image networks."
+  },
+  {
+   "title": "6 Operator Networks",
+   "start": 58,
+   "end": 70,
+   "sections": [
+    {
+     "title": "6.1 The problem with PINNs",
+     "start": 58,
+     "end": 58,
+     "summary": "A PINN must be retrained for each new parameter or input.",
+     "terms": [
+      "PINN limitations"
+     ]
+    },
+    {
+     "title": "6.2 Parametrized PDEs",
+     "start": 58,
+     "end": 58,
+     "summary": "Including the PDE parameters as network inputs.",
+     "terms": [
+      "parametrized PDE"
+     ]
+    },
+    {
+     "title": "6.3 Operators",
+     "start": 59,
+     "end": 59,
+     "summary": "Operators map functions to functions; examples from PDEs.",
+     "terms": [
+      "operator learning"
+     ]
+    },
+    {
+     "title": "6.4 Deep Operator Network (DeepONet) Architecture",
+     "start": 60,
+     "end": 61,
+     "summary": "DeepONet: a branch net for the input function and a trunk net for coordinates, combined like basis expansions.",
+     "terms": [
+      "DeepONet",
+      "branch net",
+      "trunk net"
+     ]
+    },
+    {
+     "title": "6.5 Training DeepONets",
+     "start": 62,
+     "end": 62,
+     "summary": "Training DeepONets on input\u2013output function pairs.",
+     "terms": [
+      "DeepONet training"
+     ]
+    },
+    {
+     "title": "6.6 Error Analysis for DeepONets",
+     "start": 63,
+     "end": 63,
+     "summary": "Universal approximation for operators and error bounds.",
+     "terms": [
+      "operator approximation theorem"
+     ]
+    },
+    {
+     "title": "6.7 Physics-Informed DeepONets",
+     "start": 64,
+     "end": 64,
+     "summary": "Adding the PDE residual to DeepONet training.",
+     "terms": [
+      "physics-informed DeepONet"
+     ]
+    },
+    {
+     "title": "6.8 Fourier Neural Operators - Architecture",
+     "start": 65,
+     "end": 66,
+     "summary": "FNO: layers that act by convolution in Fourier space, motivated by Green\u2019s functions.",
+     "terms": [
+      "Fourier Neural Operator",
+      "FNO",
+      "Green\u2019s function"
+     ]
+    },
+    {
+     "title": "6.9 Discretization of the Fourier Neural Operator",
+     "start": 67,
+     "end": 67,
+     "summary": "Discretizing FNO layers on grids.",
+     "terms": [
+      "FNO discretization"
+     ]
+    },
+    {
+     "title": "6.10 The Use of Fourier Transforms",
+     "start": 68,
+     "end": 70,
+     "summary": "Why FFTs make FNO efficient and resolution-independent.",
+     "terms": [
+      "FFT",
+      "resolution independence"
+     ]
+    }
+   ],
+   "summary": "Learning solution operators for parametrized PDEs: DeepONet and the Fourier Neural Operator."
+  },
+  {
+   "title": "7 Probabilistic Deep Learning",
+   "start": 71,
+   "end": 88,
+   "sections": [
+    {
+     "title": "7.1 Key elements of Probability Theory",
+     "start": 71,
+     "end": 72,
+     "summary": "Sample spaces, probability axioms and conditional probability.",
+     "terms": [
+      "probability axioms",
+      "conditional probability"
+     ]
+    },
+    {
+     "title": "7.2 Random Variables",
+     "start": 73,
+     "end": 79,
+     "summary": "Random variables, densities, expectation, covariance and conditional densities.",
+     "terms": [
+      "random variables",
+      "pdf",
+      "expectation",
+      "covariance"
+     ]
+    },
+    {
+     "title": "7.3 Unsupervised probabilistic deep learning algorithms",
+     "start": 80,
+     "end": 82,
+     "summary": "Generative models learned without labels: GANs and their training algorithm.",
+     "terms": [
+      "GAN",
+      "generative models"
+     ]
+    },
+    {
+     "title": "7.4 Supervised probabilistic deep learning algorithms",
+     "start": 83,
+     "end": 88,
+     "summary": "Conditional generative models for supervised problems such as inverse problems with many solutions.",
+     "terms": [
+      "conditional GAN",
+      "inverse problems",
+      "uncertainty quantification"
+     ]
+    }
+   ],
+   "summary": "Probability basics and probabilistic deep learning: generative models for uncertainty and inverse problems."
+  }
+ ],
+ "url": "https://drive.google.com/file/d/1XAxuWhLy4mMAFmTVJlfGEQFiyI2MP3Go/view"
+}
