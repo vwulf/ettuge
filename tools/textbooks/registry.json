@@ -510,5 +510,21 @@
   "Linear Algebra for Computer Vision, Robotics, and Machine Learning",
   "Jean Gallier and Jocelyn Quaintance",
   "Rigorous, computational linear algebra: factorizations, norms, spectral theory, quaternions, Laplacians, SVD."
+ ],
+ [
+  "odersky-programming-in-scala-5e",
+  "pis5",
+  "Computer Science",
+  "Programming in Scala (5th ed., Scala 3)",
+  "Odersky, Spoon, Venners and Sommers",
+  "The standard Scala 3 book, from basics through traits, patterns, collections, types, givens and typeclasses."
+ ],
+ [
+  "winitzki-science-of-functional-programming",
+  "sofp",
+  "Computer Science",
+  "The Science of Functional Programming",
+  "Sergei Winitzki",
+  "FP derived by symbolic reasoning in Scala: Curry-Howard, functors, monads, applicatives, free constructions, transformers."
  ]
 ]

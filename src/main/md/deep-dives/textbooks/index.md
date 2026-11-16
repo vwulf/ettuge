@@ -38,8 +38,10 @@ Partial PDFs (samples, excerpts, unfinished drafts) are marked as such on their 
 - [Pragmatic Type-Level Design](granin-pragmatic-type-level-design) (Alexander Granin): Type-level programming for application design in Haskell, with Rust and Scala 3 counterparts.
 - [Principles of Eventual Consistency](burckhardt-eventual-consistency) (Burckhardt): histories, abstract executions, CAP, protocols
 - [Programming Well: Abstraction and Design in Computation](shieber-programming-well) (Stuart M. Shieber): CS51 in OCaml: types, higher-order functions, modules, semantics models, laziness, objects, MiniML.
+- [Programming in Scala (5th ed., Scala 3)](odersky-programming-in-scala-5e) (Odersky, Spoon, Venners and Sommers): The standard Scala 3 book, from basics through traits, patterns, collections, types, givens and typeclasses.
 - [The Formal Semantics of Programming Languages](winskel-formal-semantics) (Glynn Winskel): Operational, denotational and axiomatic semantics; domain theory, recursive types and concurrency.
 - [The Little Book of Semaphores](little-book-of-semaphores) (Allen B. Downey): Concurrency puzzles solved with semaphores, from classic problems to original ones.
+- [The Science of Functional Programming](winitzki-science-of-functional-programming) (Sergei Winitzki): FP derived by symbolic reasoning in Scala: Curry-Howard, functors, monads, applicatives, free constructions, transformers.
 - [Theorem Proving in Lean 4](theorem-proving-in-lean-4) (Avigad, de Moura, Kong, Ullrich): dependent types, tactics, inductive types, type classes
 - [Type Theory and Functional Programming](thompson-type-theory-functional-programming) (Simon Thompson): Martin-Löf type theory as logic and programming language, with program development and extensions.
 - [Unix System Programming in OCaml](unix-system-programming-ocaml) (Leroy, Rémy): files, processes, signals, pipes, sockets, threads
