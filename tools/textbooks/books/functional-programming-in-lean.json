@@ -1,18 +1,17 @@
 {
- "title": "Functional Programming in Lean",
- "byline": "David Thrane Christiansen \u00b7 Lean FRO, 2023 (CC BY 4.0); this PDF is a browser print of the online book",
- "note": "The PDF is a 347-page print that stops partway through \u201cProgramming with Dependent Types\u201d (the online book has 461 printed pages). The tactics interlude and the chapter on programming, proving and performance are therefore missing. Per-chapter \u201cSummary\u201d pages are not broken out. Summaries are in our own words; the text stays in the PDF.",
- "summary": "An introduction to Lean 4 as a general-purpose functional programming language, for programmers who want to write real programs rather than proofs. It covers expressions, types, structures, inductive datatypes and polymorphism; compiling and running programs with IO and Lake; type classes, coercions and instance search; monads and do-notation; functors, applicative functors and universes; monad transformers and imperative-style do features; and programming with dependent types and indexed families.",
+ "url": "https://lean-lang.org/functional_programming_in_lean/",
  "chapters": [
   {
    "title": "Getting to Know Lean",
-   "start": 8,
-   "end": 66,
+   "href": "https://lean-lang.org/functional_programming_in_lean/Getting-to-Know-Lean/",
+   "start": null,
+   "end": null,
    "sections": [
     {
      "title": "Evaluating Expressions",
-     "start": 9,
-     "end": 12,
+     "href": "https://lean-lang.org/functional_programming_in_lean/Getting-to-Know-Lean/Evaluating-Expressions/",
+     "start": null,
+     "end": null,
      "summary": "Evaluating expressions with #eval.",
      "terms": [
       "#eval",
@@ -21,8 +20,9 @@
     },
     {
      "title": "Types",
-     "start": 13,
-     "end": 14,
+     "href": "https://lean-lang.org/functional_programming_in_lean/Getting-to-Know-Lean/Types/",
+     "start": null,
+     "end": null,
      "summary": "Types and type annotations.",
      "terms": [
       "types"
@@ -30,8 +30,9 @@
     },
     {
      "title": "Functions and Definitions",
-     "start": 15,
-     "end": 19,
+     "href": "https://lean-lang.org/functional_programming_in_lean/Getting-to-Know-Lean/Functions-and-Definitions/",
+     "start": null,
+     "end": null,
      "summary": "Defining functions and values.",
      "terms": [
       "def",
@@ -40,8 +41,9 @@
     },
     {
      "title": "Structures",
-     "start": 20,
-     "end": 27,
+     "href": "https://lean-lang.org/functional_programming_in_lean/Getting-to-Know-Lean/Structures/",
+     "start": null,
+     "end": null,
      "summary": "Structures and their fields.",
      "terms": [
       "structures"
@@ -49,8 +51,9 @@
     },
     {
      "title": "Datatypes and Patterns",
-     "start": 28,
-     "end": 35,
+     "href": "https://lean-lang.org/functional_programming_in_lean/Getting-to-Know-Lean/Datatypes-and-Patterns/",
+     "start": null,
+     "end": null,
      "summary": "Inductive datatypes and pattern matching.",
      "terms": [
       "inductive types",
@@ -60,8 +63,9 @@
     },
     {
      "title": "Polymorphism",
-     "start": 36,
-     "end": 50,
+     "href": "https://lean-lang.org/functional_programming_in_lean/Getting-to-Know-Lean/Polymorphism/",
+     "start": null,
+     "end": null,
      "summary": "Polymorphic functions and datatypes.",
      "terms": [
       "polymorphism",
@@ -70,10 +74,23 @@
      ]
     },
     {
+     "title": "Characters, Strings, and Slices",
+     "href": "https://lean-lang.org/functional_programming_in_lean/Getting-to-Know-Lean/Characters___-Strings___-and-Slices/",
+     "start": null,
+     "end": null,
+     "summary": "Characters, strings, string slices and matching on them.",
+     "terms": [
+      "Char",
+      "String",
+      "slices"
+     ]
+    },
+    {
      "title": "Additional Conveniences",
-     "start": 51,
-     "end": 63,
-     "summary": "Implicit arguments, pattern matching shorthands and other conveniences.",
+     "href": "https://lean-lang.org/functional_programming_in_lean/Getting-to-Know-Lean/Additional-Conveniences/",
+     "start": null,
+     "end": null,
+     "summary": "Implicit arguments, pattern-matching shorthands and other conveniences.",
      "terms": [
       "implicit arguments",
       "anonymous constructor"
@@ -84,13 +101,15 @@
   },
   {
    "title": "Hello, World!",
-   "start": 67,
-   "end": 96,
+   "href": "https://lean-lang.org/functional_programming_in_lean/Hello___-World___/",
+   "start": null,
+   "end": null,
    "sections": [
     {
      "title": "Running a Program",
-     "start": 68,
-     "end": 72,
+     "href": "https://lean-lang.org/functional_programming_in_lean/Hello___-World___/Running-a-Program/",
+     "start": null,
+     "end": null,
      "summary": "The main function and running with lean --run.",
      "terms": [
       "main",
@@ -99,8 +118,9 @@
     },
     {
      "title": "Step By Step",
-     "start": 73,
-     "end": 78,
+     "href": "https://lean-lang.org/functional_programming_in_lean/Hello___-World___/Step-By-Step/",
+     "start": null,
+     "end": null,
      "summary": "IO actions step by step.",
      "terms": [
       "IO actions",
@@ -109,8 +129,9 @@
     },
     {
      "title": "Starting a Project",
-     "start": 79,
-     "end": 82,
+     "href": "https://lean-lang.org/functional_programming_in_lean/Hello___-World___/Starting-a-Project/",
+     "start": null,
+     "end": null,
      "summary": "Lake projects and packages.",
      "terms": [
       "Lake",
@@ -119,8 +140,9 @@
     },
     {
      "title": "Worked Example: cat",
-     "start": 83,
-     "end": 88,
+     "href": "https://lean-lang.org/functional_programming_in_lean/Hello___-World___/Worked-Example___--cat/",
+     "start": null,
+     "end": null,
      "summary": "A cat clone.",
      "terms": [
       "cat",
@@ -129,8 +151,9 @@
     },
     {
      "title": "Additional Conveniences",
-     "start": 89,
-     "end": 93,
+     "href": "https://lean-lang.org/functional_programming_in_lean/Hello___-World___/Additional-Conveniences/",
+     "start": null,
+     "end": null,
      "summary": "Conveniences such as nested actions.",
      "terms": [
       "nested actions"
@@ -141,8 +164,9 @@
   },
   {
    "title": "Interlude: Propositions, Proofs, and Indexing",
-   "start": 97,
-   "end": 104,
+   "href": "https://lean-lang.org/functional_programming_in_lean/Interlude___-Propositions___-Proofs___-and-Indexing/",
+   "start": null,
+   "end": null,
    "sections": [],
    "summary": "A short introduction to propositions, proofs and safe indexing.",
    "terms": [
@@ -155,13 +179,15 @@
   },
   {
    "title": "Overloading and Type Classes",
-   "start": 105,
-   "end": 157,
+   "href": "https://lean-lang.org/functional_programming_in_lean/Overloading-and-Type-Classes/",
+   "start": null,
+   "end": null,
    "sections": [
     {
      "title": "Positive Numbers",
-     "start": 107,
-     "end": 115,
+     "href": "https://lean-lang.org/functional_programming_in_lean/Overloading-and-Type-Classes/Positive-Numbers/",
+     "start": null,
+     "end": null,
      "summary": "Positive numbers as a running example.",
      "terms": [
       "Pos",
@@ -170,8 +196,9 @@
     },
     {
      "title": "Type Classes and Polymorphism",
-     "start": 116,
-     "end": 119,
+     "href": "https://lean-lang.org/functional_programming_in_lean/Overloading-and-Type-Classes/Type-Classes-and-Polymorphism/",
+     "start": null,
+     "end": null,
      "summary": "Classes and polymorphic functions.",
      "terms": [
       "type classes",
@@ -180,8 +207,9 @@
     },
     {
      "title": "Controlling Instance Search",
-     "start": 120,
-     "end": 124,
+     "href": "https://lean-lang.org/functional_programming_in_lean/Overloading-and-Type-Classes/Controlling-Instance-Search/",
+     "start": null,
+     "end": null,
      "summary": "Instance search and output parameters.",
      "terms": [
       "instance search",
@@ -190,8 +218,9 @@
     },
     {
      "title": "Arrays and Indexing",
-     "start": 125,
-     "end": 129,
+     "href": "https://lean-lang.org/functional_programming_in_lean/Overloading-and-Type-Classes/Arrays-and-Indexing/",
+     "start": null,
+     "end": null,
      "summary": "Arrays and GetElem indexing.",
      "terms": [
       "Array",
@@ -200,8 +229,9 @@
     },
     {
      "title": "Standard Classes",
-     "start": 130,
-     "end": 140,
+     "href": "https://lean-lang.org/functional_programming_in_lean/Overloading-and-Type-Classes/Standard-Classes/",
+     "start": null,
+     "end": null,
      "summary": "Standard classes: BEq, Hashable, Ord, Functor and more.",
      "terms": [
       "BEq",
@@ -212,8 +242,9 @@
     },
     {
      "title": "Coercions",
-     "start": 141,
-     "end": 152,
+     "href": "https://lean-lang.org/functional_programming_in_lean/Overloading-and-Type-Classes/Coercions/",
+     "start": null,
+     "end": null,
      "summary": "Coercions.",
      "terms": [
       "Coe",
@@ -222,8 +253,9 @@
     },
     {
      "title": "Additional Conveniences",
-     "start": 153,
-     "end": 154,
+     "href": "https://lean-lang.org/functional_programming_in_lean/Overloading-and-Type-Classes/Additional-Conveniences/",
+     "start": null,
+     "end": null,
      "summary": "Deriving instances.",
      "terms": [
       "deriving"
@@ -234,13 +266,15 @@
   },
   {
    "title": "Monads",
-   "start": 158,
-   "end": 210,
+   "href": "https://lean-lang.org/functional_programming_in_lean/Monads/",
+   "start": null,
+   "end": null,
    "sections": [
     {
      "title": "One API, Many Applications",
-     "start": 158,
-     "end": 171,
+     "href": "https://lean-lang.org/functional_programming_in_lean/Monads/One-API___-Many-Applications/",
+     "start": null,
+     "end": null,
      "summary": "Option, Except, State and logging as one API.",
      "terms": [
       "Option",
@@ -251,8 +285,9 @@
     },
     {
      "title": "The Monad Type Class",
-     "start": 172,
-     "end": 177,
+     "href": "https://lean-lang.org/functional_programming_in_lean/Monads/The-Monad-Type-Class/",
+     "start": null,
+     "end": null,
      "summary": "The Monad class.",
      "terms": [
       "Monad",
@@ -262,8 +297,9 @@
     },
     {
      "title": "Example: Arithmetic in Monads",
-     "start": 178,
-     "end": 195,
+     "href": "https://lean-lang.org/functional_programming_in_lean/Monads/Example___-Arithmetic-in-Monads/",
+     "start": null,
+     "end": null,
      "summary": "Interpreting arithmetic in different monads.",
      "terms": [
       "arithmetic evaluator"
@@ -271,8 +307,9 @@
     },
     {
      "title": "do-Notation for Monads",
-     "start": 196,
-     "end": 199,
+     "href": "https://lean-lang.org/functional_programming_in_lean/Monads/do--Notation-for-Monads/",
+     "start": null,
+     "end": null,
      "summary": "do-notation.",
      "terms": [
       "do-notation"
@@ -280,8 +317,9 @@
     },
     {
      "title": "The IO Monad",
-     "start": 200,
-     "end": 204,
+     "href": "https://lean-lang.org/functional_programming_in_lean/Monads/The-IO-Monad/",
+     "start": null,
+     "end": null,
      "summary": "How IO is a monad.",
      "terms": [
       "IO monad"
@@ -289,8 +327,9 @@
     },
     {
      "title": "Additional Conveniences",
-     "start": 205,
-     "end": 208,
+     "href": "https://lean-lang.org/functional_programming_in_lean/Monads/Additional-Conveniences/",
+     "start": null,
+     "end": null,
      "summary": "Conveniences.",
      "terms": [
       "conveniences"
@@ -301,13 +340,15 @@
   },
   {
    "title": "Functors, Applicative Functors, and Monads",
-   "start": 211,
-   "end": 255,
+   "href": "https://lean-lang.org/functional_programming_in_lean/Functors___-Applicative-Functors___-and-Monads/",
+   "start": null,
+   "end": null,
    "sections": [
     {
      "title": "Structures and Inheritance",
-     "start": 212,
-     "end": 217,
+     "href": "https://lean-lang.org/functional_programming_in_lean/Functors___-Applicative-Functors___-and-Monads/Structures-and-Inheritance/",
+     "start": null,
+     "end": null,
      "summary": "Structure inheritance.",
      "terms": [
       "structure inheritance"
@@ -315,8 +356,9 @@
     },
     {
      "title": "Applicative Functors",
-     "start": 218,
-     "end": 226,
+     "href": "https://lean-lang.org/functional_programming_in_lean/Functors___-Applicative-Functors___-and-Monads/Applicative-Functors/",
+     "start": null,
+     "end": null,
      "summary": "Applicative functors.",
      "terms": [
       "Applicative",
@@ -325,8 +367,9 @@
     },
     {
      "title": "The Applicative Contract",
-     "start": 227,
-     "end": 234,
+     "href": "https://lean-lang.org/functional_programming_in_lean/Functors___-Applicative-Functors___-and-Monads/The-Applicative-Contract/",
+     "start": null,
+     "end": null,
      "summary": "Applicative laws.",
      "terms": [
       "applicative laws"
@@ -334,8 +377,9 @@
     },
     {
      "title": "Alternatives",
-     "start": 235,
-     "end": 241,
+     "href": "https://lean-lang.org/functional_programming_in_lean/Functors___-Applicative-Functors___-and-Monads/Alternatives/",
+     "start": null,
+     "end": null,
      "summary": "Alternative and failure.",
      "terms": [
       "Alternative",
@@ -344,8 +388,9 @@
     },
     {
      "title": "Universes",
-     "start": 242,
-     "end": 248,
+     "href": "https://lean-lang.org/functional_programming_in_lean/Functors___-Applicative-Functors___-and-Monads/Universes/",
+     "start": null,
+     "end": null,
      "summary": "Universe levels.",
      "terms": [
       "universes",
@@ -354,8 +399,9 @@
     },
     {
      "title": "The Complete Definitions",
-     "start": 249,
-     "end": 253,
+     "href": "https://lean-lang.org/functional_programming_in_lean/Functors___-Applicative-Functors___-and-Monads/The-Complete-Definitions/",
+     "start": null,
+     "end": null,
      "summary": "The full Functor/Applicative/Monad definitions.",
      "terms": [
       "Functor",
@@ -368,13 +414,15 @@
   },
   {
    "title": "Monad Transformers",
-   "start": 256,
-   "end": 305,
+   "href": "https://lean-lang.org/functional_programming_in_lean/Monad-Transformers/",
+   "start": null,
+   "end": null,
    "sections": [
     {
      "title": "Combining IO and Reader",
-     "start": 257,
-     "end": 267,
+     "href": "https://lean-lang.org/functional_programming_in_lean/Monad-Transformers/Combining-IO-and-Reader/",
+     "start": null,
+     "end": null,
      "summary": "ReaderT over IO.",
      "terms": [
       "ReaderT"
@@ -382,8 +430,9 @@
     },
     {
      "title": "A Monad Construction Kit",
-     "start": 268,
-     "end": 280,
+     "href": "https://lean-lang.org/functional_programming_in_lean/Monad-Transformers/A-Monad-Construction-Kit/",
+     "start": null,
+     "end": null,
      "summary": "OptionT, ExceptT, StateT and friends.",
      "terms": [
       "OptionT",
@@ -393,8 +442,9 @@
     },
     {
      "title": "Ordering Monad Transformers",
-     "start": 281,
-     "end": 284,
+     "href": "https://lean-lang.org/functional_programming_in_lean/Monad-Transformers/Ordering-Monad-Transformers/",
+     "start": null,
+     "end": null,
      "summary": "How order of transformers changes behavior.",
      "terms": [
       "transformer ordering"
@@ -402,8 +452,9 @@
     },
     {
      "title": "More do Features",
-     "start": 285,
-     "end": 300,
+     "href": "https://lean-lang.org/functional_programming_in_lean/Monad-Transformers/More-do-Features/",
+     "start": null,
+     "end": null,
      "summary": "Loops, mutable variables and early return in do.",
      "terms": [
       "for loops",
@@ -413,8 +464,9 @@
     },
     {
      "title": "Additional Conveniences",
-     "start": 301,
-     "end": 303,
+     "href": "https://lean-lang.org/functional_programming_in_lean/Monad-Transformers/Additional-Conveniences/",
+     "start": null,
+     "end": null,
      "summary": "Conveniences.",
      "terms": [
       "conveniences"
@@ -424,14 +476,16 @@
    "summary": "Combining effects with monad transformers."
   },
   {
-   "title": "Programming with Dependent Types (partial in this PDF)",
-   "start": 306,
-   "end": 347,
+   "title": "Programming with Dependent Types",
+   "href": "https://lean-lang.org/functional_programming_in_lean/Programming-with-Dependent-Types/",
+   "start": null,
+   "end": null,
    "sections": [
     {
      "title": "Indexed Families",
-     "start": 308,
-     "end": 315,
+     "href": "https://lean-lang.org/functional_programming_in_lean/Programming-with-Dependent-Types/Indexed-Families/",
+     "start": null,
+     "end": null,
      "summary": "Indexed families such as length-indexed vectors.",
      "terms": [
       "indexed families",
@@ -440,8 +494,9 @@
     },
     {
      "title": "The Universe Design Pattern",
-     "start": 316,
-     "end": 324,
+     "href": "https://lean-lang.org/functional_programming_in_lean/Programming-with-Dependent-Types/The-Universe-Design-Pattern/",
+     "start": null,
+     "end": null,
      "summary": "Universes of codes decoded to types.",
      "terms": [
       "universe pattern"
@@ -449,8 +504,9 @@
     },
     {
      "title": "Worked Example: Typed Queries",
-     "start": 325,
-     "end": 345,
+     "href": "https://lean-lang.org/functional_programming_in_lean/Programming-with-Dependent-Types/Worked-Example___-Typed-Queries/",
+     "start": null,
+     "end": null,
      "summary": "A typed query language.",
      "terms": [
       "typed queries",
@@ -459,18 +515,153 @@
     },
     {
      "title": "Indices, Parameters, and Universe Levels",
-     "start": 346,
-     "end": 347,
+     "href": "https://lean-lang.org/functional_programming_in_lean/Programming-with-Dependent-Types/Indices___-Parameters___-and-Universe-Levels/",
+     "start": null,
+     "end": null,
      "summary": "When an argument is an index vs. a parameter.",
      "terms": [
       "indices",
       "parameters",
       "universe levels"
      ]
+    },
+    {
+     "title": "Pitfalls of Programming with Dependent Types",
+     "href": "https://lean-lang.org/functional_programming_in_lean/Programming-with-Dependent-Types/Pitfalls-of-Programming-with-Dependent-Types/",
+     "start": null,
+     "end": null,
+     "summary": "Where dependent types get awkward: definitional equality, rewriting, overly specific types.",
+     "terms": [
+      "pitfalls",
+      "definitional equality",
+      "propositional equality"
+     ]
     }
    ],
    "summary": "Types that depend on values."
+  },
+  {
+   "title": "Interlude: Tactics, Induction, and Proofs",
+   "href": "https://lean-lang.org/functional_programming_in_lean/Interlude___-Tactics___-Induction___-and-Proofs/",
+   "start": null,
+   "end": null,
+   "sections": [],
+   "summary": "Proving things about programs by induction, with tactics.",
+   "terms": [
+    "induction tactic",
+    "recursion and induction",
+    "tactic golf",
+    "induction on lists and trees",
+    "grind tactic"
+   ]
+  },
+  {
+   "title": "Programming, Proving, and Performance",
+   "href": "https://lean-lang.org/functional_programming_in_lean/Programming___-Proving___-and-Performance/",
+   "start": null,
+   "end": null,
+   "sections": [
+    {
+     "title": "Tail Recursion",
+     "href": "https://lean-lang.org/functional_programming_in_lean/Programming___-Proving___-and-Performance/Tail-Recursion/",
+     "start": null,
+     "end": null,
+     "summary": "Accumulator-passing tail recursion.",
+     "terms": [
+      "tail recursion",
+      "accumulator"
+     ]
+    },
+    {
+     "title": "Proving Equivalence",
+     "href": "https://lean-lang.org/functional_programming_in_lean/Programming___-Proving___-and-Performance/Proving-Equivalence/",
+     "start": null,
+     "end": null,
+     "summary": "Proving a tail-recursive version equals the naive one.",
+     "terms": [
+      "equivalence proofs",
+      "induction"
+     ]
+    },
+    {
+     "title": "Arrays and Termination",
+     "href": "https://lean-lang.org/functional_programming_in_lean/Programming___-Proving___-and-Performance/Arrays-and-Termination/",
+     "start": null,
+     "end": null,
+     "summary": "Array loops and termination proofs.",
+     "terms": [
+      "termination",
+      "decreasing_by"
+     ]
+    },
+    {
+     "title": "More Inequalities",
+     "href": "https://lean-lang.org/functional_programming_in_lean/Programming___-Proving___-and-Performance/More-Inequalities/",
+     "start": null,
+     "end": null,
+     "summary": "Proving inequalities (omega and friends).",
+     "terms": [
+      "inequalities",
+      "omega"
+     ]
+    },
+    {
+     "title": "Bounded Numbers",
+     "href": "https://lean-lang.org/functional_programming_in_lean/Programming___-Proving___-and-Performance/Bounded-Numbers/",
+     "start": null,
+     "end": null,
+     "summary": "Fin and bounded numbers.",
+     "terms": [
+      "Fin",
+      "bounded numbers"
+     ]
+    },
+    {
+     "title": "Insertion Sort and Array Mutation",
+     "href": "https://lean-lang.org/functional_programming_in_lean/Programming___-Proving___-and-Performance/Insertion-Sort-and-Array-Mutation/",
+     "start": null,
+     "end": null,
+     "summary": "Insertion sort with in-place array mutation via reference counting.",
+     "terms": [
+      "insertion sort",
+      "in-place mutation",
+      "reference counting"
+     ]
+    },
+    {
+     "title": "Special Types",
+     "href": "https://lean-lang.org/functional_programming_in_lean/Programming___-Proving___-and-Performance/Special-Types/",
+     "start": null,
+     "end": null,
+     "summary": "Runtime representations of special types.",
+     "terms": [
+      "UInt",
+      "runtime representation",
+      "unboxing"
+     ]
+    }
+   ],
+   "summary": "Writing programs that are both fast and proved correct."
+  },
+  {
+   "title": "Next Steps",
+   "href": "https://lean-lang.org/functional_programming_in_lean/Next-Steps/",
+   "start": null,
+   "end": null,
+   "sections": [],
+   "summary": "Where to go next.",
+   "terms": [
+    "Theorem Proving in Lean",
+    "Mathematics in Lean",
+    "Mathlib",
+    "dependent types in CS",
+    "further reading"
+   ]
   }
  ],
- "url": "https://drive.google.com/file/d/1LUhmap5okmULSqrOKLuwniE8cIIPTm9M/view"
+ "title": "Functional Programming in Lean",
+ "byline": "David Thrane Christiansen \u00b7 Lean FRO, current online edition (updated through 2025; code tested with recent Lean 4 releases), CC BY 4.0",
+ "web": true,
+ "note": "There is no official PDF of this book; it is published as a website. This breakdown follows the current online edition, so every section links to its page there instead of a PDF page range. Per-chapter \u201cSummary\u201d pages are not broken out. Summaries are in our own words.",
+ "summary": "An introduction to Lean 4 as a general-purpose functional programming language, for programmers who want to write real programs rather than proofs. It covers expressions, types, structures, inductive datatypes, polymorphism and strings; compiling and running programs with IO and Lake; type classes, coercions and instance search; monads and do-notation; functors, applicative functors and universes; monad transformers and imperative-style do features; programming with dependent types and indexed families; a short course on induction proofs with tactics (including grind); and finally writing fast code that is also proved correct: tail recursion, termination, bounded indices, in-place array mutation and runtime representations."
 }

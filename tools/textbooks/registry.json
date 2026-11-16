@@ -293,7 +293,7 @@
   "Computer Science",
   "Functional Programming in Lean",
   "David Thrane Christiansen",
-  "Lean 4 as a programming language: types, IO, type classes, monads, transformers, dependent types (partial PDF)."
+  "Lean 4 as a programming language: types, IO, type classes, monads, transformers, dependent types, induction proofs, verified fast code."
  ],
  [
   "sutton-barto-reinforcement-learning",
