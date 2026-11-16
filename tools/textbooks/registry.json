@@ -299,9 +299,9 @@
   "sutton-barto-reinforcement-learning",
   "sutton-barto",
   "AI and Machine Learning",
-  "Reinforcement Learning: An Introduction (2nd ed. draft)",
+  "Reinforcement Learning: An Introduction (2nd ed.)",
   "Richard Sutton and Andrew Barto",
-  "Bandits, MDPs, DP, Monte Carlo, TD, eligibility traces, planning and function approximation."
+  "Bandits, MDPs, DP, Monte Carlo, TD, n-step, planning, function approximation, off-policy, traces, policy gradients, psychology, neuroscience."
  ],
  [
   "hindley-seldin-lambda-calculus-combinators",

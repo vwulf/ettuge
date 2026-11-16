@@ -12,7 +12,7 @@ Partial PDFs (samples, excerpts, unfinished drafts) are marked as such on their 
 - [Multimodal Deep Learning](multimodal-deep-learning) (LMU seminar): image–text models: CLIP, DALL-E, diffusion (2023)
 - [Optimization for Machine Learning](gartner-jaggi-optimization-ml) (Gärtner, Jaggi): GD, SGD, proximal, Newton, BFGS, Frank-Wolfe with rates
 - [Prompt Engineering](prompt-engineering) (Boonstra (Google)): sampling settings, prompting techniques, best practices
-- [Reinforcement Learning: An Introduction (2nd ed. draft)](sutton-barto-reinforcement-learning) (Richard Sutton and Andrew Barto): Bandits, MDPs, DP, Monte Carlo, TD, eligibility traces, planning and function approximation.
+- [Reinforcement Learning: An Introduction (2nd ed.)](sutton-barto-reinforcement-learning) (Richard Sutton and Andrew Barto): Bandits, MDPs, DP, Monte Carlo, TD, n-step, planning, function approximation, off-policy, traces, policy gradients, psychology, neuroscience.
 - [Understanding Deep Learning](understanding-deep-learning) (Prince): shallow networks to diffusion models, 18 chapters
 
 ## Computer Science
