@@ -39,6 +39,7 @@ Partial PDFs (samples, excerpts, unfinished drafts) are marked as such on their 
 
 - [Basic Category Theory for Computer Scientists](pierce-basic-category-theory) (Pierce): limits, adjoints, CCCs, domain equations
 - [Book of Proof](hammack-book-of-proof) (Richard Hammack): Transition-to-proofs text: sets, logic, proof techniques, induction, relations, functions, cardinality.
+- [Category Theory for Programmers (Scala edition)](milewski-category-theory-for-programmers) (Bartosz Milewski): Category theory through code: functors, Yoneda, adjunctions, monads, comonads, F-algebras, ends, Kan extensions.
 - [Category Theory for Scientists](spivak-category-theory-for-scientists) (Spivak): ologs, databases, limits, adjoints, monads, operads
 - [Conceptual Mathematics](lawvere-conceptual-mathematics) (F. William Lawvere and Stephen Schanuel): A first course in categories from sets and maps to products, exponentials and toposes.
 - [Graph Theory and Additive Combinatorics](zhao-graph-theory-additive-combinatorics) (Yufei Zhao): Extremal graphs, regularity, pseudorandomness, graph limits, Roth, Freiman and Green–Tao.

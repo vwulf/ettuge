@@ -334,5 +334,13 @@
   "Book of Proof",
   "Richard Hammack",
   "Transition-to-proofs text: sets, logic, proof techniques, induction, relations, functions, cardinality."
+ ],
+ [
+  "milewski-category-theory-for-programmers",
+  "ctfp",
+  "Mathematics",
+  "Category Theory for Programmers (Scala edition)",
+  "Bartosz Milewski",
+  "Category theory through code: functors, Yoneda, adjunctions, monads, comonads, F-algebras, ends, Kan extensions."
  ]
 ]
