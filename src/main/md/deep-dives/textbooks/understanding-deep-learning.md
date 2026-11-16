@@ -1,5 +1,5 @@
 <a id="ch1"></a>
-# Textbook: Understanding Deep Learning
+# Understanding Deep Learning
 
 > Simon J. D. Prince · draft of January 23, 2023 (MIT Press) · [the PDF in Drive](https://drive.google.com/file/d/1QAJf3zjp95eBhmwZb3UAlQKPG0iYWgw6/view)
 
