@@ -1,0 +1,670 @@
+{
+ "title": "Unix System Programming in OCaml",
+ "byline": "Xavier Leroy and Didier R\u00e9my \u00b7 course notes, English edition",
+ "note": "Answers to the exercises (PDF pp. 125\u2013138) are not broken down. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "A course on Unix system programming that uses OCaml\u2019s Unix library, so each system call is seen through a typed functional interface while the concepts stay the classic ones. It covers files and the file system, processes and their lifecycle, signals, pipes and redirection, sockets for network clients and servers, and threads with locks, conditions and events. Most chapters are built around complete working programs: find, cp, tar, a mini-shell, a parallel sieve, a universal client and server, an HTTP relay. Along the way it is candid about the hard parts: buffering costs, race conditions with signals, and the difficulties of combining threads with Unix calls.",
+ "chapters": [
+  {
+   "title": "Introduction",
+   "start": 5,
+   "end": 6,
+   "sections": [],
+   "summary": "Why Unix programming in OCaml: the system interface shown through a safe, high-level language.",
+   "terms": [
+    "Unix",
+    "OCaml",
+    "system programming"
+   ]
+  },
+  {
+   "title": "Generalities",
+   "start": 7,
+   "end": 12,
+   "sections": [
+    {
+     "title": "Modules Sys and Unix",
+     "start": 7,
+     "end": 7,
+     "summary": "The Sys and Unix modules.",
+     "terms": [
+      "Sys module",
+      "Unix module"
+     ]
+    },
+    {
+     "title": "Interface with the calling program",
+     "start": 8,
+     "end": 8,
+     "summary": "Command-line arguments, environment, exit codes.",
+     "terms": [
+      "argv",
+      "exit code",
+      "environment"
+     ]
+    },
+    {
+     "title": "Error handling",
+     "start": 9,
+     "end": 9,
+     "summary": "Unix_error exceptions and handle_unix_error.",
+     "terms": [
+      "Unix_error",
+      "exceptions"
+     ]
+    },
+    {
+     "title": "Library functions",
+     "start": 10,
+     "end": 12,
+     "summary": "Library functions versus raw system calls.",
+     "terms": [
+      "system calls"
+     ]
+    }
+   ],
+   "summary": "The Sys and Unix modules, program arguments and exit codes, Unix errors as exceptions."
+  },
+  {
+   "title": "Files",
+   "start": 13,
+   "end": 44,
+   "sections": [
+    {
+     "title": "The file system",
+     "start": 13,
+     "end": 14,
+     "summary": "Inodes, links and the directory tree.",
+     "terms": [
+      "file system",
+      "inode",
+      "hard link"
+     ]
+    },
+    {
+     "title": "File names and file descriptors",
+     "start": 15,
+     "end": 15,
+     "summary": "Names versus descriptors.",
+     "terms": [
+      "file descriptor"
+     ]
+    },
+    {
+     "title": "Meta-attributes, types and permissions",
+     "start": 15,
+     "end": 18,
+     "summary": "stat, file kinds and permission bits.",
+     "terms": [
+      "stat",
+      "permissions",
+      "file types"
+     ]
+    },
+    {
+     "title": "Operations on directories",
+     "start": 19,
+     "end": 19,
+     "summary": "Reading directories.",
+     "terms": [
+      "directories",
+      "readdir"
+     ]
+    },
+    {
+     "title": "Complete example: search in a file hierarchy",
+     "start": 20,
+     "end": 21,
+     "summary": "A find-like recursive search.",
+     "terms": [
+      "find"
+     ]
+    },
+    {
+     "title": "Opening a file",
+     "start": 22,
+     "end": 23,
+     "summary": "openfile and its flags.",
+     "terms": [
+      "openfile",
+      "open flags"
+     ]
+    },
+    {
+     "title": "Reading and writing",
+     "start": 24,
+     "end": 25,
+     "summary": "read and write on descriptors.",
+     "terms": [
+      "read",
+      "write"
+     ]
+    },
+    {
+     "title": "Closing a descriptor",
+     "start": 26,
+     "end": 26,
+     "summary": "close and descriptor leaks.",
+     "terms": [
+      "close"
+     ]
+    },
+    {
+     "title": "Complete example: file copy",
+     "start": 26,
+     "end": 26,
+     "summary": "A cp clone.",
+     "terms": [
+      "file copy",
+      "cp"
+     ]
+    },
+    {
+     "title": "The cost of system calls and buffers",
+     "start": 27,
+     "end": 28,
+     "summary": "Why system calls are expensive and buffers help.",
+     "terms": [
+      "buffering",
+      "system call cost"
+     ]
+    },
+    {
+     "title": "Complete example: a small input/output library",
+     "start": 29,
+     "end": 31,
+     "summary": "A small buffered I/O library.",
+     "terms": [
+      "buffered I/O library"
+     ]
+    },
+    {
+     "title": "Positioning",
+     "start": 32,
+     "end": 32,
+     "summary": "lseek and file offsets.",
+     "terms": [
+      "lseek"
+     ]
+    },
+    {
+     "title": "Operations specific to certain file types",
+     "start": 33,
+     "end": 35,
+     "summary": "Special files: devices, terminals, symbolic links.",
+     "terms": [
+      "terminals",
+      "devices",
+      "symbolic links"
+     ]
+    },
+    {
+     "title": "Locks on files",
+     "start": 36,
+     "end": 36,
+     "summary": "Advisory file locking.",
+     "terms": [
+      "file locks",
+      "lockf"
+     ]
+    },
+    {
+     "title": "Complete example: recursive copy of files",
+     "start": 36,
+     "end": 37,
+     "summary": "A recursive copy preserving attributes.",
+     "terms": [
+      "recursive copy"
+     ]
+    },
+    {
+     "title": "Complete example: Tape ARchive",
+     "start": 38,
+     "end": 44,
+     "summary": "A tar implementation.",
+     "terms": [
+      "tar"
+     ]
+    }
+   ],
+   "summary": "The file system, descriptors, permissions, directories, reading and writing, buffering, positioning, locks, with find, cp, a buffered I/O library and tar as worked programs."
+  },
+  {
+   "title": "Processes",
+   "start": 45,
+   "end": 52,
+   "sections": [
+    {
+     "title": "Creation of processes",
+     "start": 45,
+     "end": 45,
+     "summary": "fork creates a copy of the process.",
+     "terms": [
+      "fork"
+     ]
+    },
+    {
+     "title": "Complete Example: the command leave",
+     "start": 45,
+     "end": 45,
+     "summary": "The leave command as an example.",
+     "terms": [
+      "process example"
+     ]
+    },
+    {
+     "title": "Awaiting the termination of a process",
+     "start": 46,
+     "end": 47,
+     "summary": "wait and waitpid, zombies.",
+     "terms": [
+      "wait",
+      "waitpid",
+      "zombie"
+     ]
+    },
+    {
+     "title": "Launching a program",
+     "start": 48,
+     "end": 49,
+     "summary": "exec replaces the program.",
+     "terms": [
+      "exec"
+     ]
+    },
+    {
+     "title": "Complete example: a mini-shell",
+     "start": 50,
+     "end": 52,
+     "summary": "A mini-shell combining fork, exec and wait.",
+     "terms": [
+      "shell"
+     ]
+    }
+   ],
+   "summary": "fork, wait and exec, with a mini-shell as the culminating example."
+  },
+  {
+   "title": "Signals",
+   "start": 53,
+   "end": 62,
+   "sections": [
+    {
+     "title": "Default behavior",
+     "start": 53,
+     "end": 53,
+     "summary": "What signals do by default.",
+     "terms": [
+      "signals"
+     ]
+    },
+    {
+     "title": "Using signals",
+     "start": 54,
+     "end": 54,
+     "summary": "Sending and catching signals.",
+     "terms": [
+      "kill",
+      "signal handler"
+     ]
+    },
+    {
+     "title": "Changing the effect of a signal",
+     "start": 55,
+     "end": 56,
+     "summary": "Installing handlers.",
+     "terms": [
+      "sigaction"
+     ]
+    },
+    {
+     "title": "How to mask signals",
+     "start": 57,
+     "end": 57,
+     "summary": "Blocking signals with masks.",
+     "terms": [
+      "signal mask"
+     ]
+    },
+    {
+     "title": "Signals and system calls",
+     "start": 57,
+     "end": 58,
+     "summary": "Interrupted system calls (EINTR).",
+     "terms": [
+      "EINTR"
+     ]
+    },
+    {
+     "title": "The passage of time",
+     "start": 59,
+     "end": 60,
+     "summary": "alarm, sleep and interval timers.",
+     "terms": [
+      "alarm",
+      "timers"
+     ]
+    },
+    {
+     "title": "Problems with signals",
+     "start": 61,
+     "end": 62,
+     "summary": "Race conditions and why signals are fragile.",
+     "terms": [
+      "race conditions"
+     ]
+    }
+   ],
+   "summary": "Signal delivery, handlers, masking, interaction with system calls, timers, and why signals are hard to use correctly."
+  },
+  {
+   "title": "Classical inter-process communication: pipes",
+   "start": 63,
+   "end": 80,
+   "sections": [
+    {
+     "title": "Pipes",
+     "start": 63,
+     "end": 64,
+     "summary": "Pipes between processes.",
+     "terms": [
+      "pipe"
+     ]
+    },
+    {
+     "title": "Complete example: parallel sieve of Eratosthenes",
+     "start": 65,
+     "end": 67,
+     "summary": "A pipeline of processes sieving primes.",
+     "terms": [
+      "sieve of Eratosthenes",
+      "concurrency"
+     ]
+    },
+    {
+     "title": "Named pipes",
+     "start": 68,
+     "end": 68,
+     "summary": "FIFOs in the file system.",
+     "terms": [
+      "named pipe",
+      "FIFO"
+     ]
+    },
+    {
+     "title": "Descriptor redirections",
+     "start": 68,
+     "end": 70,
+     "summary": "dup2 and redirecting standard streams.",
+     "terms": [
+      "dup2",
+      "redirection"
+     ]
+    },
+    {
+     "title": "Complete example: composing N commands",
+     "start": 71,
+     "end": 71,
+     "summary": "Building a pipeline of N commands.",
+     "terms": [
+      "pipeline"
+     ]
+    },
+    {
+     "title": "Input/output multiplexing",
+     "start": 72,
+     "end": 76,
+     "summary": "select for waiting on several descriptors.",
+     "terms": [
+      "select",
+      "multiplexing"
+     ]
+    },
+    {
+     "title": "Miscellaneous: write",
+     "start": 77,
+     "end": 80,
+     "summary": "Partial writes and how write behaves.",
+     "terms": [
+      "partial writes"
+     ]
+    }
+   ],
+   "summary": "Anonymous and named pipes, descriptor redirection, composing pipelines, and multiplexing with select."
+  },
+  {
+   "title": "Modern communication: sockets",
+   "start": 81,
+   "end": 104,
+   "sections": [
+    {
+     "title": "Sockets",
+     "start": 82,
+     "end": 82,
+     "summary": "The socket abstraction.",
+     "terms": [
+      "sockets"
+     ]
+    },
+    {
+     "title": "Socket creation",
+     "start": 83,
+     "end": 83,
+     "summary": "Creating sockets: domains and types.",
+     "terms": [
+      "socket domains",
+      "socket types"
+     ]
+    },
+    {
+     "title": "Addresses",
+     "start": 84,
+     "end": 84,
+     "summary": "Internet and Unix-domain addresses.",
+     "terms": [
+      "addresses"
+     ]
+    },
+    {
+     "title": "Connection to a server",
+     "start": 85,
+     "end": 85,
+     "summary": "connect on the client side.",
+     "terms": [
+      "connect",
+      "client"
+     ]
+    },
+    {
+     "title": "Disconnecting sockets",
+     "start": 85,
+     "end": 85,
+     "summary": "shutdown and close.",
+     "terms": [
+      "shutdown"
+     ]
+    },
+    {
+     "title": "Complete example: the universal client",
+     "start": 85,
+     "end": 86,
+     "summary": "A universal client.",
+     "terms": [
+      "universal client"
+     ]
+    },
+    {
+     "title": "Establishing a service",
+     "start": 87,
+     "end": 89,
+     "summary": "bind, listen and accept on the server side.",
+     "terms": [
+      "bind",
+      "listen",
+      "accept",
+      "server"
+     ]
+    },
+    {
+     "title": "Tuning sockets",
+     "start": 90,
+     "end": 90,
+     "summary": "Socket options.",
+     "terms": [
+      "setsockopt"
+     ]
+    },
+    {
+     "title": "Complete example: the universal server",
+     "start": 90,
+     "end": 91,
+     "summary": "A universal server, forking per connection.",
+     "terms": [
+      "concurrent server",
+      "fork per connection"
+     ]
+    },
+    {
+     "title": "Communication in connectionless mode",
+     "start": 92,
+     "end": 92,
+     "summary": "UDP datagrams.",
+     "terms": [
+      "UDP",
+      "datagrams"
+     ]
+    },
+    {
+     "title": "Low level reads and writes",
+     "start": 93,
+     "end": 93,
+     "summary": "recv and send.",
+     "terms": [
+      "recv",
+      "send"
+     ]
+    },
+    {
+     "title": "High-level primitives",
+     "start": 93,
+     "end": 93,
+     "summary": "establish_server and higher-level helpers.",
+     "terms": [
+      "establish_server"
+     ]
+    },
+    {
+     "title": "Examples of protocols",
+     "start": 94,
+     "end": 97,
+     "summary": "Protocol design examples.",
+     "terms": [
+      "protocols"
+     ]
+    },
+    {
+     "title": "Complete example: http requests",
+     "start": 98,
+     "end": 104,
+     "summary": "Making HTTP requests.",
+     "terms": [
+      "HTTP"
+     ]
+    }
+   ],
+   "summary": "Sockets: addresses, client and server setup, connection-oriented and connectionless communication, and protocol examples up to HTTP."
+  },
+  {
+   "title": "Threads",
+   "start": 105,
+   "end": 122,
+   "sections": [
+    {
+     "title": "Introduction",
+     "start": 105,
+     "end": 105,
+     "summary": "Threads versus processes.",
+     "terms": [
+      "threads"
+     ]
+    },
+    {
+     "title": "Creation and termination of threads",
+     "start": 106,
+     "end": 106,
+     "summary": "Creating and ending threads.",
+     "terms": [
+      "thread creation"
+     ]
+    },
+    {
+     "title": "Waiting",
+     "start": 107,
+     "end": 110,
+     "summary": "Joining and waiting.",
+     "terms": [
+      "join"
+     ]
+    },
+    {
+     "title": "Synchronization among threads: locks",
+     "start": 111,
+     "end": 112,
+     "summary": "Mutexes.",
+     "terms": [
+      "mutex",
+      "locks"
+     ]
+    },
+    {
+     "title": "Complete example: http relay",
+     "start": 113,
+     "end": 114,
+     "summary": "An HTTP relay with threads.",
+     "terms": [
+      "HTTP relay"
+     ]
+    },
+    {
+     "title": "Conditions",
+     "start": 115,
+     "end": 116,
+     "summary": "Condition variables.",
+     "terms": [
+      "condition variables"
+     ]
+    },
+    {
+     "title": "Event-based synchronous communication",
+     "start": 117,
+     "end": 119,
+     "summary": "Event-based communication between threads.",
+     "terms": [
+      "events",
+      "channels"
+     ]
+    },
+    {
+     "title": "Implementation details",
+     "start": 120,
+     "end": 122,
+     "summary": "How threads are implemented in OCaml.",
+     "terms": [
+      "threads implementation"
+     ]
+    }
+   ],
+   "summary": "Threads: creation, joining, mutexes, condition variables, event channels, and how OCaml implements them."
+  },
+  {
+   "title": "Going further",
+   "start": 123,
+   "end": 143,
+   "sections": [],
+   "summary": "Pointers to further topics not covered.",
+   "terms": [
+    "further reading"
+   ]
+  }
+ ],
+ "url": "https://drive.google.com/file/d/1qGKx-lgeaigVY217RV6uuZvgBf6GK_M9/view"
+}

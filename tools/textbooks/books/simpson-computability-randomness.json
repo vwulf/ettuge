@@ -1,0 +1,519 @@
+{
+ "title": "Computability, Unsolvability, Randomness",
+ "byline": "Stephen G. Simpson \u00b7 Penn State lecture notes (2007), draft of February 2009",
+ "note": "Lecture notes taken during a one-semester course; homework sets, comments and solutions are interleaved with the sections and are not broken down separately. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "An undergraduate course in recursion theory that ends at algorithmic randomness. It builds computability from register machines and primitive recursion, defines partial recursive functions with G\u00f6del numbering, the enumeration and parametrization theorems, and proves the halting problem and other natural problems unsolvable, including word problems in group theory and Hilbert\u2019s tenth problem. It then classifies unsolvable problems by the arithmetical hierarchy and by Turing degrees with oracles and the jump. The last third covers Kolmogorov complexity, effectively open and closed sets in Cantor space, Martin-L\u00f6f randomness and its characterization by initial-segment complexity, and advanced results such as the low basis theorem and the Ku\u010dera\u2013G\u00e1cs theorem.",
+ "chapters": [
+  {
+   "title": "1. Computability",
+   "start": 6,
+   "sections": [
+    {
+     "title": "1.1 Computable functions",
+     "start": 6,
+     "end": 8,
+     "summary": "Register machine programs and computable functions.",
+     "terms": [
+      "register machine",
+      "computable function"
+     ]
+    },
+    {
+     "title": "1.2 Composing computable functions",
+     "start": 9,
+     "end": 11,
+     "summary": "Closure under composition.",
+     "terms": [
+      "composition"
+     ]
+    },
+    {
+     "title": "1.3 Computable predicates",
+     "start": 12,
+     "end": 16,
+     "summary": "Computable predicates, bounded quantifiers and the \u03bc-operator.",
+     "terms": [
+      "computable predicate",
+      "mu-operator",
+      "bounded quantifier"
+     ]
+    },
+    {
+     "title": "1.4 Primitive recursion",
+     "start": 17,
+     "end": 19,
+     "summary": "Primitive recursion.",
+     "terms": [
+      "primitive recursion"
+     ]
+    },
+    {
+     "title": "1.5 Prime power coding",
+     "start": 20,
+     "end": 21,
+     "summary": "Coding sequences with prime powers.",
+     "terms": [
+      "prime power coding",
+      "sequence coding"
+     ]
+    },
+    {
+     "title": "1.6 Computable real numbers",
+     "start": 22,
+     "end": 23,
+     "summary": "Computable real numbers.",
+     "terms": [
+      "computable real numbers"
+     ]
+    }
+   ],
+   "end": 23,
+   "summary": "Computable functions via register machines, built up by composition, predicates and primitive recursion."
+  },
+  {
+   "title": "2. Partial recursive functions",
+   "start": 24,
+   "sections": [
+    {
+     "title": "2.1 Partial recursive functions",
+     "start": 24,
+     "end": 25,
+     "summary": "Partial recursive functions and the \u03bc-operator.",
+     "terms": [
+      "partial recursive function"
+     ]
+    },
+    {
+     "title": "2.2 Go\u0308del numbers and indices",
+     "start": 26,
+     "end": 27,
+     "summary": "G\u00f6del numbers and indices of programs.",
+     "terms": [
+      "G\u00f6del number",
+      "index"
+     ]
+    },
+    {
+     "title": "2.3 The Enumeration Theorem",
+     "start": 28,
+     "end": 29,
+     "summary": "The Enumeration Theorem: one universal function enumerates all.",
+     "terms": [
+      "enumeration theorem"
+     ]
+    },
+    {
+     "title": "2.4 The Parametrization Theorem",
+     "start": 30,
+     "end": 31,
+     "summary": "The Parametrization (s-m-n) Theorem.",
+     "terms": [
+      "parametrization theorem",
+      "s-m-n theorem"
+     ]
+    },
+    {
+     "title": "2.5 Universal partial recursive functions",
+     "start": 32,
+     "end": 32,
+     "summary": "Universal partial recursive functions.",
+     "terms": [
+      "universal function"
+     ]
+    }
+   ],
+   "end": 32,
+   "summary": "Partial functions, indices and the basic theorems about effective enumerations."
+  },
+  {
+   "title": "3. Unsolvability",
+   "start": 33,
+   "sections": [
+    {
+     "title": "3.1 Noncomputable sets and functions",
+     "start": 33,
+     "end": 33,
+     "summary": "Diagonal arguments give noncomputable sets.",
+     "terms": [
+      "noncomputable set",
+      "diagonalization"
+     ]
+    },
+    {
+     "title": "3.2 An unsolvable decision problem",
+     "start": 34,
+     "end": 34,
+     "summary": "The halting set K is undecidable.",
+     "terms": [
+      "halting problem",
+      "K"
+     ]
+    },
+    {
+     "title": "3.3 Almost all problems are unsolvable",
+     "start": 35,
+     "end": 35,
+     "summary": "Counting shows almost all functions are noncomputable.",
+     "terms": [
+      "cardinality argument"
+     ]
+    },
+    {
+     "title": "3.4 Unsolvable problems in core mathematics",
+     "start": 36,
+     "end": 38,
+     "summary": "Word problems for groups and other natural unsolvable problems.",
+     "terms": [
+      "word problem",
+      "Boone-Novikov theorem"
+     ]
+    },
+    {
+     "title": "3.5 A remark on Hilbert\u2019s 10th Problem",
+     "start": 39,
+     "end": 39,
+     "summary": "Diophantine sets and Hilbert\u2019s tenth problem.",
+     "terms": [
+      "Hilbert\u2019s tenth problem",
+      "Diophantine set",
+      "MRDP"
+     ]
+    },
+    {
+     "title": "3.6 Many-one reducibility",
+     "start": 40,
+     "end": 42,
+     "summary": "Many-one reducibility as a way to compare problems.",
+     "terms": [
+      "many-one reducibility"
+     ]
+    }
+   ],
+   "end": 42,
+   "summary": "The halting problem and unsolvable problems across mathematics, compared by many-one reducibility."
+  },
+  {
+   "title": "4. The arithmetical hierarchy",
+   "start": 43,
+   "sections": [
+    {
+     "title": "4.1 Definition of the arithmetical hierarchy",
+     "start": 43,
+     "end": 43,
+     "summary": "\u03a3\u2070\u2099, \u03a0\u2070\u2099 and \u0394\u2070\u2099 predicates.",
+     "terms": [
+      "arithmetical hierarchy",
+      "Sigma-n",
+      "Pi-n",
+      "Delta-n"
+     ]
+    },
+    {
+     "title": "4.2 Closure properties",
+     "start": 44,
+     "end": 45,
+     "summary": "Closure under Boolean operations and quantifiers.",
+     "terms": [
+      "closure properties"
+     ]
+    },
+    {
+     "title": "4.3 Distinguishing levels of the hierarchy",
+     "start": 46,
+     "end": 47,
+     "summary": "Each level is strictly larger than the last.",
+     "terms": [
+      "hierarchy theorem"
+     ]
+    },
+    {
+     "title": "4.4 Many-one completeness",
+     "start": 48,
+     "end": 48,
+     "summary": "Complete sets at each level.",
+     "terms": [
+      "many-one complete"
+     ]
+    },
+    {
+     "title": "4.5 Recursively enumerable sets",
+     "start": 49,
+     "end": 50,
+     "summary": "Recursively enumerable sets and their characterizations.",
+     "terms": [
+      "recursively enumerable set"
+     ]
+    },
+    {
+     "title": "4.7 Recursively enumerable sets",
+     "start": 51,
+     "end": 52,
+     "summary": "Simple and creative sets.",
+     "terms": [
+      "simple set",
+      "creative set"
+     ]
+    },
+    {
+     "title": "4.8 Parametrization and uniformity",
+     "start": 53,
+     "end": 55,
+     "summary": "Uniform operations on r.e. sets.",
+     "terms": [
+      "uniformity"
+     ]
+    }
+   ],
+   "end": 55,
+   "summary": "Classifying predicates by quantifier complexity (\u03a3\u2070\u2099, \u03a0\u2070\u2099), complete sets and r.e. sets."
+  },
+  {
+   "title": "5. Oracles and relativization",
+   "start": 56,
+   "sections": [
+    {
+     "title": "5.1 Oracle computation",
+     "start": 56,
+     "end": 57,
+     "summary": "Computing with an oracle.",
+     "terms": [
+      "oracle computation"
+     ]
+    },
+    {
+     "title": "5.2 Relativization",
+     "start": 58,
+     "end": 58,
+     "summary": "Relativizing earlier results.",
+     "terms": [
+      "relativization"
+     ]
+    },
+    {
+     "title": "5.3 Turing degrees",
+     "start": 58,
+     "end": 59,
+     "summary": "Turing reducibility and degrees.",
+     "terms": [
+      "Turing reducibility",
+      "Turing degrees"
+     ]
+    },
+    {
+     "title": "5.4 The Turing jump operator",
+     "start": 60,
+     "end": 61,
+     "summary": "The jump operator and Post\u2019s theorem.",
+     "terms": [
+      "Turing jump",
+      "Post\u2019s theorem"
+     ]
+    },
+    {
+     "title": "5.5 Finite approximation",
+     "start": 62,
+     "end": 65,
+     "summary": "Constructions by finite approximation.",
+     "terms": [
+      "finite extension method"
+     ]
+    },
+    {
+     "title": "5.6 Structure of the Turing degrees",
+     "start": 66,
+     "end": 79,
+     "summary": "Structural facts about the degrees.",
+     "terms": [
+      "structure of Turing degrees"
+     ]
+    }
+   ],
+   "end": 79,
+   "summary": "Computing relative to an oracle, Turing degrees, the jump, and finite-extension constructions."
+  },
+  {
+   "title": "6. Kolmogorov complexity",
+   "start": 80,
+   "sections": [
+    {
+     "title": "6.1 Kolmogorov complexity",
+     "start": 80,
+     "end": 82,
+     "summary": "Plain Kolmogorov complexity and incompressible strings.",
+     "terms": [
+      "Kolmogorov complexity",
+      "incompressible"
+     ]
+    },
+    {
+     "title": "6.2 Prefix-free complexity",
+     "start": 83,
+     "end": 84,
+     "summary": "Prefix-free machines and complexity.",
+     "terms": [
+      "prefix-free complexity"
+     ]
+    },
+    {
+     "title": "6.3 The Kraft/Chaitin Theorem",
+     "start": 85,
+     "end": 89,
+     "summary": "The Kraft\u2013Chaitin theorem for building prefix-free machines.",
+     "terms": [
+      "Kraft-Chaitin theorem"
+     ]
+    }
+   ],
+   "end": 89,
+   "summary": "Plain and prefix-free Kolmogorov complexity and the Kraft\u2013Chaitin theorem."
+  },
+  {
+   "title": "7. The Cantor space",
+   "start": 90,
+   "sections": [
+    {
+     "title": "7.1 Partial recursive functionals, etc",
+     "start": 90,
+     "end": 93,
+     "summary": "Partial recursive functionals on infinite sequences.",
+     "terms": [
+      "partial recursive functional"
+     ]
+    },
+    {
+     "title": "7.3 \u03a301 and \u03a001 sets in 2N and NN",
+     "start": 94,
+     "end": 98,
+     "summary": "\u03a3\u2070\u2081 and \u03a0\u2070\u2081 classes in Cantor and Baire space.",
+     "terms": [
+      "Pi01 class",
+      "Sigma01 class",
+      "Cantor space",
+      "Baire space"
+     ]
+    },
+    {
+     "title": "7.4 Compactness of 2N",
+     "start": 99,
+     "end": 100,
+     "summary": "Compactness of Cantor space.",
+     "terms": [
+      "compactness"
+     ]
+    },
+    {
+     "title": "7.5 \u03a301 and \u03a001 predicates in 2N",
+     "start": 101,
+     "end": 103,
+     "summary": "\u03a3\u2070\u2081 and \u03a0\u2070\u2081 predicates on sequences.",
+     "terms": [
+      "effectively closed set"
+     ]
+    }
+   ],
+   "end": 103,
+   "summary": "Partial recursive functionals and effectively open and closed subsets of 2^\u2115 and \u2115^\u2115."
+  },
+  {
+   "title": "8. Randomness",
+   "start": 104,
+   "sections": [
+    {
+     "title": "8.1 Foundations of mathematics",
+     "start": 104,
+     "end": 104,
+     "summary": "Randomness and the foundations of mathematics.",
+     "terms": [
+      "foundations of mathematics"
+     ]
+    },
+    {
+     "title": "8.2 Definitions of randomness",
+     "start": 105,
+     "end": 108,
+     "summary": "Competing definitions of a random sequence.",
+     "terms": [
+      "algorithmic randomness"
+     ]
+    },
+    {
+     "title": "8.4 Properties of Martin-Lo\u0308f randomness",
+     "start": 109,
+     "end": 118,
+     "summary": "Martin-L\u00f6f tests and their properties, including a universal test.",
+     "terms": [
+      "Martin-L\u00f6f randomness",
+      "universal test"
+     ]
+    },
+    {
+     "title": "8.7 Initial segment complexity",
+     "start": 119,
+     "end": 124,
+     "summary": "Random sequences have high initial-segment prefix complexity (Levin\u2013Schnorr).",
+     "terms": [
+      "Levin-Schnorr theorem",
+      "initial segment complexity"
+     ]
+    }
+   ],
+   "end": 124,
+   "summary": "Why randomness matters for foundations, definitions of randomness, Martin-L\u00f6f randomness and initial-segment complexity."
+  },
+  {
+   "title": "9. Some advanced topics",
+   "start": 125,
+   "sections": [
+    {
+     "title": "9.1 Turing degrees of random sequences",
+     "start": 125,
+     "end": 125,
+     "summary": "Turing degrees containing random sequences.",
+     "terms": [
+      "degrees of random sequences"
+     ]
+    },
+    {
+     "title": "9.2 The Low Basis Theorem",
+     "start": 126,
+     "end": 128,
+     "summary": "The low basis theorem for \u03a0\u2070\u2081 classes.",
+     "terms": [
+      "low basis theorem"
+     ]
+    },
+    {
+     "title": "9.3 Randomness relative to an oracle",
+     "start": 129,
+     "end": 131,
+     "summary": "Randomness relative to an oracle.",
+     "terms": [
+      "relative randomness"
+     ]
+    },
+    {
+     "title": "9.6 The Kuc\u030cera/Ga\u0301cs Theorem",
+     "start": 132,
+     "end": 141,
+     "summary": "Every set is computable from a random sequence (Ku\u010dera\u2013G\u00e1cs).",
+     "terms": [
+      "Ku\u010dera-G\u00e1cs theorem"
+     ]
+    },
+    {
+     "title": "9.11 LR- and LK-reducibility",
+     "start": 142,
+     "end": 150,
+     "summary": "LR- and LK-reducibility.",
+     "terms": [
+      "LR-reducibility",
+      "LK-reducibility"
+     ]
+    }
+   ],
+   "end": 150,
+   "summary": "Degrees of random sequences, the low basis theorem, relative randomness, Ku\u010dera\u2013G\u00e1cs, and LR/LK reducibility."
+  }
+ ],
+ "url": "https://drive.google.com/file/d/127jSBS1xLQJcvq1WIal4DXkrzjp36mFx/view"
+}

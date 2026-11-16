@@ -1,0 +1,209 @@
+{
+ "title": "Buku Koleksi Museum Negeri Sumatera Selatan",
+ "byline": "Syarifuddin, Safitri, Irwanto, Sair, Swasti and Reynaldy \u00b7 Bening Media, 2023 (in Indonesian)",
+ "note": "A collection catalogue of the South Sumatra State Museum in Palembang, written in Indonesian; the summaries here are in English. Printed page = PDF page \u2212 8.",
+ "summary": "A catalogue of the South Sumatra State Museum, organized by exhibition room. After the museum\u2019s history, mission and profile, it walks through roughly seventy objects, each with photographs and a short description. Room I covers prehistory (elephant and shell fossils, burial jars, a cave skeleton, a dugout boat), Chinese trade ceramics from the Tang to the Qing, and finds from the Musi river. Room II holds the core of the collection for historians: the Srivijaya-era Old Malay inscriptions (Kedukan Bukit, Talang Tuo, Telaga Batu, Kota Kapur, Palas Pasemah, Karang Berahi), alongside colonial and Japanese-occupation objects and Hindu-Buddhist stone sculpture. Room III shows Palembang material culture: carved wood, household and fishing implements, batik, jumputan and songket textiles, and wedding costumes.",
+ "chapters": [
+  {
+   "title": "The museum",
+   "start": 9,
+   "end": 22,
+   "sections": [
+    {
+     "title": "History",
+     "start": 9,
+     "end": 12,
+     "summary": "The museum\u2019s founding and development.",
+     "terms": [
+      "Museum Negeri Sumatera Selatan",
+      "Palembang",
+      "history"
+     ]
+    },
+    {
+     "title": "Tasks and functions",
+     "start": 13,
+     "end": 15,
+     "summary": "Collecting, conservation, research and education.",
+     "terms": [
+      "museum functions",
+      "conservation"
+     ]
+    },
+    {
+     "title": "Profile",
+     "start": 16,
+     "end": 20,
+     "summary": "The building and the scope of its collections.",
+     "terms": [
+      "museum profile"
+     ]
+    },
+    {
+     "title": "Vision, mission and location",
+     "start": 21,
+     "end": 22,
+     "summary": "Mission statement and location in Palembang.",
+     "terms": [
+      "vision",
+      "mission",
+      "location"
+     ]
+    }
+   ],
+   "summary": "How the museum was founded, what it is for, and where it is."
+  },
+  {
+   "title": "Exhibition Room I",
+   "start": 23,
+   "end": 46,
+   "sections": [
+    {
+     "title": "Prehistory: fossils, burial jars, the Selabe cave skeleton, dugout canoe",
+     "start": 24,
+     "end": 30,
+     "summary": "Elephant bone and shell fossils, burial jars, the Selabe cave skeleton and a dugout boat.",
+     "terms": [
+      "elephant fossil",
+      "shell fossil",
+      "burial jar",
+      "Gua Selabe",
+      "dugout canoe"
+     ]
+    },
+    {
+     "title": "Chinese ceramics: Tang, Song, Yuan, Ming and Qing bowls and jars",
+     "start": 31,
+     "end": 41,
+     "summary": "Bowls and jars from five Chinese dynasties, evidence of long-distance trade.",
+     "terms": [
+      "Chinese ceramics",
+      "Tang",
+      "Song",
+      "Yuan",
+      "Ming",
+      "Qing"
+     ]
+    },
+    {
+     "title": "Metalwork, coins, beads and a Buddhist bell",
+     "start": 36,
+     "end": 46,
+     "summary": "A machete, metal finds from the Musi riverbed, a lelo cannon, Palembang picis coins, a batik stamp, beads and a Buddhist bell.",
+     "terms": [
+      "golok",
+      "Musi river",
+      "meriam lelo",
+      "picis",
+      "canting cap",
+      "beads",
+      "Buddhist bell"
+     ]
+    }
+   ],
+   "summary": "Prehistoric finds and centuries of Chinese trade goods."
+  },
+  {
+   "title": "Exhibition Room II",
+   "start": 47,
+   "end": 82,
+   "sections": [
+    {
+     "title": "Srivijaya inscriptions",
+     "start": 48,
+     "end": 66,
+     "summary": "Seventh-century Old Malay inscriptions of the Srivijaya kingdom: founding, a park dedication, oaths and curses.",
+     "terms": [
+      "Srivijaya",
+      "Kedukan Bukit",
+      "Talang Tuo",
+      "Telaga Batu",
+      "Kota Kapur",
+      "Palas Pasemah",
+      "Karang Berahi",
+      "Old Malay"
+     ]
+    },
+    {
+     "title": "Dutch colonial and Japanese occupation objects",
+     "start": 67,
+     "end": 75,
+     "summary": "Colonial officials\u2019 equipment, Japanese swords, colonial, occupation and revolution-era currency, a VOC pistol, a gramophone and bottles.",
+     "terms": [
+      "Dutch colonial",
+      "VOC",
+      "Japanese occupation",
+      "currency"
+     ]
+    },
+    {
+     "title": "Stone sculpture and carvings",
+     "start": 76,
+     "end": 82,
+     "summary": "A makara, stone troughs, a statue of a man coiled by a snake, stone mortars and the elephant-rider stone of the Pasemah megaliths.",
+     "terms": [
+      "makara",
+      "megaliths",
+      "Pasemah",
+      "stone sculpture"
+     ]
+    }
+   ],
+   "summary": "Srivijaya inscriptions, objects from the colonial and Japanese periods, and stone sculpture."
+  },
+  {
+   "title": "Exhibition Room III",
+   "start": 83,
+   "end": 109,
+   "sections": [
+    {
+     "title": "Carved wood and household objects",
+     "start": 84,
+     "end": 96,
+     "summary": "Carved beams, trays, rice baskets, fish traps, a winnowing tray, teapots and iron axes.",
+     "terms": [
+      "wood carving",
+      "household objects",
+      "fish traps"
+     ]
+    },
+    {
+     "title": "Textiles and wedding costumes",
+     "start": 97,
+     "end": 104,
+     "summary": "Batik, jumputan tie-dye and songket weaving, Palembang and OKI wedding dress, and a loom.",
+     "terms": [
+      "batik",
+      "jumputan",
+      "songket",
+      "Aesan Gede",
+      "wedding costume",
+      "loom"
+     ]
+    },
+    {
+     "title": "Tools and regalia",
+     "start": 105,
+     "end": 109,
+     "summary": "A coconut grater, spear stands and a ceremonial umbrella.",
+     "terms": [
+      "regalia",
+      "tools"
+     ]
+    }
+   ],
+   "summary": "The everyday and ceremonial culture of South Sumatra."
+  },
+  {
+   "title": "References and acknowledgements",
+   "start": 110,
+   "end": 113,
+   "sections": [],
+   "summary": "Sources and thanks.",
+   "terms": [
+    "references"
+   ]
+  }
+ ],
+ "url": "https://drive.google.com/file/d/18ewNuVPMiorUA1_RMpKY3Lii6TP3c6Ah/view"
+}

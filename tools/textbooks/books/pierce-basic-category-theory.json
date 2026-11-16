@@ -1,0 +1,260 @@
+{
+ "title": "Basic Category Theory for Computer Scientists",
+ "byline": "Benjamin C. Pierce \u00b7 MIT Press, 1991",
+ "note": "Summaries are in our own words; the text stays in the PDF.",
+ "summary": "A compact first course in category theory aimed at programming-language researchers. The first chapter builds the vocabulary from examples in sets, posets and type systems: diagrams, special arrows, initial and terminal objects, products, equalizers, pullbacks, general limits and exponentials. The second adds functors, F-algebras (the categorical view of datatypes and folds), natural transformations and adjunctions. The third shows the payoff in computer science: cartesian closed categories as models of the typed lambda calculus, implicit coercions and generic operators, semantics of programming languages, and solving recursive domain equations. A last chapter is an annotated guide to further reading.",
+ "chapters": [
+  {
+   "title": "1 Basic Constructions\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+   "start": 13,
+   "end": 47,
+   "sections": [
+    {
+     "title": "1.1 Categories\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+     "start": 13,
+     "end": 21,
+     "summary": "Objects, arrows, composition and identities; examples from sets, posets, monoids and types.",
+     "terms": [
+      "category",
+      "objects",
+      "arrows",
+      "composition",
+      "identity"
+     ]
+    },
+    {
+     "title": "1.2 Diagrams\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+     "start": 22,
+     "end": 24,
+     "summary": "Commuting diagrams as the way to state equations.",
+     "terms": [
+      "commutative diagram"
+     ]
+    },
+    {
+     "title": "1.3 Monomorphisms, Epimorphisms, and Isomorphisms\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+     "start": 25,
+     "end": 27,
+     "summary": "Monic, epic and iso arrows as generalized injective, surjective and bijective maps.",
+     "terms": [
+      "monomorphism",
+      "epimorphism",
+      "isomorphism"
+     ]
+    },
+    {
+     "title": "1.4 Initial and Terminal Objects\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+     "start": 28,
+     "end": 28,
+     "summary": "Objects with exactly one arrow out of or into every object.",
+     "terms": [
+      "initial object",
+      "terminal object"
+     ]
+    },
+    {
+     "title": "1.5 Products\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+     "start": 29,
+     "end": 31,
+     "summary": "Products and coproducts defined by universal properties.",
+     "terms": [
+      "product",
+      "coproduct"
+     ]
+    },
+    {
+     "title": "1.6 Universal Constructions\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+     "start": 32,
+     "end": 32,
+     "summary": "The general pattern of universal constructions.",
+     "terms": [
+      "universal property"
+     ]
+    },
+    {
+     "title": "1.7 Equalizers\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+     "start": 33,
+     "end": 33,
+     "summary": "Equalizers as solutions of equations between arrows.",
+     "terms": [
+      "equalizer"
+     ]
+    },
+    {
+     "title": "1.8 Pullbacks\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+     "start": 34,
+     "end": 37,
+     "summary": "Pullbacks, combining products and equalizers.",
+     "terms": [
+      "pullback"
+     ]
+    },
+    {
+     "title": "1.9 Limits\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+     "start": 38,
+     "end": 44,
+     "summary": "Limits and colimits of arbitrary diagrams.",
+     "terms": [
+      "limit",
+      "colimit",
+      "cone"
+     ]
+    },
+    {
+     "title": "1.10 Exponentiation\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+     "start": 45,
+     "end": 47,
+     "summary": "Exponential objects, the categorical function space.",
+     "terms": [
+      "exponential object"
+     ]
+    }
+   ],
+   "summary": "The core constructions, each defined by a universal property and illustrated with examples."
+  },
+  {
+   "title": "2 Functors, Natural Transformations, and Adjoints\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+   "start": 48,
+   "end": 64,
+   "sections": [
+    {
+     "title": "2.1 Functors\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+     "start": 48,
+     "end": 50,
+     "summary": "Functors as structure-preserving maps between categories.",
+     "terms": [
+      "functor"
+     ]
+    },
+    {
+     "title": "2.2 F-Algebras\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+     "start": 51,
+     "end": 52,
+     "summary": "F-algebras and initial algebras, giving datatypes and their fold operators.",
+     "terms": [
+      "F-algebra",
+      "initial algebra",
+      "catamorphism"
+     ]
+    },
+    {
+     "title": "2.3 Natural Transformations\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+     "start": 53,
+     "end": 56,
+     "summary": "Natural transformations as maps between functors that commute with the structure.",
+     "terms": [
+      "natural transformation"
+     ]
+    },
+    {
+     "title": "2.4 Adjoints\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+     "start": 57,
+     "end": 64,
+     "summary": "Adjoint functors, units and counits, with examples.",
+     "terms": [
+      "adjunction",
+      "adjoint functors",
+      "unit",
+      "counit"
+     ]
+    }
+   ],
+   "summary": "Maps between categories and between functors, and adjunctions as the central idea."
+  },
+  {
+   "title": "3 Applications\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+   "start": 65,
+   "end": 84,
+   "sections": [
+    {
+     "title": "3.1 Cartesian Closed Categories\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+     "start": 65,
+     "end": 68,
+     "summary": "Cartesian closed categories correspond to the simply typed lambda calculus.",
+     "terms": [
+      "cartesian closed category",
+      "CCC",
+      "simply typed lambda calculus"
+     ]
+    },
+    {
+     "title": "3.2 Implicit Conversions and Generic Operators\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+     "start": 69,
+     "end": 70,
+     "summary": "Coherent implicit conversions and generic operators described categorically (Reynolds).",
+     "terms": [
+      "implicit conversions",
+      "coercions",
+      "generic operators"
+     ]
+    },
+    {
+     "title": "3.3 Programming Language Semantics\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+     "start": 71,
+     "end": 72,
+     "summary": "Denotational semantics in categorical terms.",
+     "terms": [
+      "denotational semantics"
+     ]
+    },
+    {
+     "title": "3.4 Recursive Domain Equations\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+     "start": 73,
+     "end": 84,
+     "summary": "Solving equations like D \u2245 [D \u2192 D] with limits of chains of embeddings.",
+     "terms": [
+      "recursive domain equations",
+      "domain theory",
+      "inverse limit"
+     ]
+    }
+   ],
+   "summary": "Where categories pay off in programming-language theory."
+  },
+  {
+   "title": "4 Further Reading\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+   "start": 85,
+   "end": 92,
+   "sections": [
+    {
+     "title": "4.1 Textbooks\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+     "start": 85,
+     "end": 85,
+     "summary": "Textbooks.",
+     "terms": [
+      "category theory textbooks"
+     ]
+    },
+    {
+     "title": "4.2 Introductory Articles\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+     "start": 86,
+     "end": 87,
+     "summary": "Introductory articles.",
+     "terms": [
+      "introductory articles"
+     ]
+    },
+    {
+     "title": "4.3 Reference Books\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+     "start": 88,
+     "end": 89,
+     "summary": "Reference books.",
+     "terms": [
+      "reference books"
+     ]
+    },
+    {
+     "title": "4.4 Selected Research Articles\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+     "start": 90,
+     "end": 92,
+     "summary": "Selected research papers.",
+     "terms": [
+      "research articles"
+     ]
+    }
+   ],
+   "summary": "An annotated bibliography grouped by level."
+  }
+ ],
+ "url": "https://drive.google.com/file/d/12-lGN8fT6_L3eR18Y7D9tYuWHzyoXbAj/view"
+}

@@ -54,5 +54,85 @@
   "The Kettlebell Code",
   "Dzemaili",
   "mobility, grinds, ballistics and sessions after 40"
+ ],
+ [
+  "deep-learning-computational-physics",
+  "dl-comp-physics",
+  "AI and Machine Learning",
+  "Deep Learning and Computational Physics",
+  "Ray, Pinti, Oberai",
+  "PINNs, DeepONet, FNO, neural ODEs (lecture notes)"
+ ],
+ [
+  "unicycling-mountain-trials",
+  "unicycling",
+  "Other",
+  "The Essential Guide to Mountain and Trials Unicycling",
+  "Holm",
+  "trials skills and trail technique"
+ ],
+ [
+  "prasolov-intuitive-topology",
+  "intuitive-topology",
+  "Mathematics",
+  "Intuitive Topology",
+  "Prasolov",
+  "knots, homeomorphisms, vector fields, surfaces"
+ ],
+ [
+  "museum-sumatera-selatan",
+  "museum-sumsel",
+  "Other",
+  "Buku Koleksi Museum Negeri Sumatera Selatan",
+  "Syarifuddin et al.",
+  "Srivijaya inscriptions, ceramics, Palembang textiles (Indonesian)"
+ ],
+ [
+  "pierce-basic-category-theory",
+  "pierce-category",
+  "Mathematics",
+  "Basic Category Theory for Computer Scientists",
+  "Pierce",
+  "limits, adjoints, CCCs, domain equations"
+ ],
+ [
+  "unix-system-programming-ocaml",
+  "ocamlunix",
+  "Computer Science",
+  "Unix System Programming in OCaml",
+  "Leroy, Rémy",
+  "files, processes, signals, pipes, sockets, threads"
+ ],
+ [
+  "effect-oriented-programming",
+  "effect-oriented",
+  "Computer Science",
+  "Effect Oriented Programming",
+  "Frasure, Eckel, Ward",
+  "ZIO effects, layers, typed errors, resilience"
+ ],
+ [
+  "simpson-computability-randomness",
+  "cur",
+  "Computer Science",
+  "Computability, Unsolvability, Randomness",
+  "Simpson",
+  "recursion theory to Martin-Löf randomness"
+ ],
+ [
+  "meijer-calculating-compilers",
+  "calculating-compilers",
+  "Computer Science",
+  "Calculating Compilers",
+  "Meijer",
+  "compilers derived from semantics; bananas and lenses"
+ ],
+ [
+  "burckhardt-eventual-consistency",
+  "linearizability",
+  "Computer Science",
+  "Principles of Eventual Consistency",
+  "Burckhardt",
+  "histories, abstract executions, CAP, protocols"
  ]
 ]

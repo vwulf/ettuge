@@ -66,7 +66,7 @@ def clean(t):
     t = re.sub(r'\n(?=[a-z,(])', ' ', t)
     return t
 
-def digest(slug, maxc=420):
+def digest(slug, maxc=300):
     pages = load(slug)
     st = json.load(open(os.path.join(W, slug, 'structure.json')))
     for c in st['chapters']:
@@ -113,7 +113,7 @@ def render(slug):
 
 def build(slug, skip=()):
     """structure.json from outline: depth0 = chapters, depth1 = sections."""
-    ol = [x for x in json.load(open(os.path.join(W, slug, 'outline.json'))) if x[2] and x[0] <= 1 and x[1] not in skip]
+    ol = [[x[0], ' '.join(x[1].split()), x[2]] for x in json.load(open(os.path.join(W, slug, 'outline.json'))) if x[2] and x[0] <= 1]; ol = [x for x in ol if x[1] not in skip]
     n = len(load(slug))
     chs = []
     for i, (d, t, p) in enumerate(ol):
