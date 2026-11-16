@@ -550,5 +550,29 @@
   "Electricity and Magnetism (2nd ed.)",
   "B. I. Bleaney and B. Bleaney",
   "Classic Oxford text: fields, circuits, waves, waveguides, tubes, noise, dielectrics, metals, semiconductors, magnetism, NMR."
+ ],
+ [
+  "rosen-discrete-mathematics",
+  "rosen",
+  "Mathematics",
+  "Discrete Mathematics and Its Applications (8th ed.)",
+  "Kenneth H. Rosen",
+  "Logic, proofs, sets, algorithms, number theory, counting, probability, recurrences, graphs, trees, automata."
+ ],
+ [
+  "unicode-standard-core-spec",
+  "unicode",
+  "Linguistics and Languages",
+  "The Unicode Standard 18.0: Core Specification",
+  "The Unicode Consortium",
+  "Architecture, conformance, properties and script-by-script encoding, including Kannada and other Indic scripts."
+ ],
+ [
+  "carr-synopsis-of-pure-mathematics",
+  "histmath",
+  "Mathematics",
+  "A Synopsis of Elementary Results in Pure Mathematics",
+  "G. S. Carr",
+  "The 1886 compendium Ramanujan learned from: thousands of results in algebra, calculus, geometry, with journal index."
  ]
 ]

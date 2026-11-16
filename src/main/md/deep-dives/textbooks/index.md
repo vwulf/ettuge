@@ -50,12 +50,14 @@ Partial PDFs (samples, excerpts, unfinished drafts) are marked as such on their 
 
 ## Mathematics
 
+- [A Synopsis of Elementary Results in Pure Mathematics](carr-synopsis-of-pure-mathematics) (G. S. Carr): The 1886 compendium Ramanujan learned from: thousands of results in algebra, calculus, geometry, with journal index.
 - [An Infinite Descent into Pure Mathematics](newstead-infinite-descent) (Clive Newstead): Intro to proof: logic, sets, functions, induction, relations, then number theory, combinatorics, reals, probability.
 - [Basic Category Theory for Computer Scientists](pierce-basic-category-theory) (Pierce): limits, adjoints, CCCs, domain equations
 - [Book of Proof](hammack-book-of-proof) (Richard Hammack): Transition-to-proofs text: sets, logic, proof techniques, induction, relations, functions, cardinality.
 - [Category Theory for Programmers (Scala edition)](milewski-category-theory-for-programmers) (Bartosz Milewski): Category theory through code: functors, Yoneda, adjunctions, monads, comonads, F-algebras, ends, Kan extensions.
 - [Category Theory for Scientists](spivak-category-theory-for-scientists) (Spivak): ologs, databases, limits, adjoints, monads, operads
 - [Conceptual Mathematics](lawvere-conceptual-mathematics) (F. William Lawvere and Stephen Schanuel): A first course in categories from sets and maps to products, exponentials and toposes.
+- [Discrete Mathematics and Its Applications (8th ed.)](rosen-discrete-mathematics) (Kenneth H. Rosen): Logic, proofs, sets, algorithms, number theory, counting, probability, recurrences, graphs, trees, automata.
 - [Everything You Always Wanted to Know About Mathematics](sullivan-everything-you-wanted-to-know-about-mathematics) (Brendan W. Sullivan): Conversational intro to proof: induction, sets, logic, relations, functions, cardinality, combinatorics.
 - [Geometric Algebra Applications, Vol. I](bayro-corrochano-geometric-algebra-applications-1) (Eduardo Bayro-Corrochano): Clifford algebra for vision, graphics and neurocomputing: calculus, Lie groups, conformal GA, transforms, applications.
 - [Geometric Structures on Manifolds](goldman-geometric-structures-on-manifolds) (William M. Goldman): (G,X)-structures: affine and projective geometry, developing maps, completeness, convex projective surfaces.
@@ -78,6 +80,7 @@ Partial PDFs (samples, excerpts, unfinished drafts) are marked as such on their 
 
 - [A Manual of Modern Kannada](zydenbos-manual-of-modern-kannada) (Robert J. Zydenbos): Grammar course in modern written Kannada: 19 lessons from nominal sentences to moods, plus sandhi, numerals and script.
 - [The Dravidian Languages](krishnamurti-dravidian-languages) (Bhadriraju Krishnamurti): Comparative survey: Proto-Dravidian phonology, morphology, verb, syntax, lexicon and subgrouping.
+- [The Unicode Standard 18.0: Core Specification](unicode-standard-core-spec) (The Unicode Consortium): Architecture, conformance, properties and script-by-script encoding, including Kannada and other Indic scripts.
 
 ## Physics and Engineering
 

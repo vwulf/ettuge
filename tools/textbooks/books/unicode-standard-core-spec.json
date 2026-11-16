@@ -1,0 +1,2471 @@
+{
+ "url": "https://drive.google.com/file/d/1PI7cBaBnQXheccTGNcJ52oW_0Wlr1cjl/view",
+ "chapters": [
+  {
+   "title": "1 Introduction",
+   "start": 35,
+   "sections": [
+    {
+     "title": "1.1 Coverage",
+     "start": 38,
+     "end": 39,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-1/#G6600"
+    },
+    {
+     "title": "1.2 Design Goals",
+     "start": 40,
+     "end": 41,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-1/#G7110"
+    },
+    {
+     "title": "1.3 Text Handling",
+     "start": 42,
+     "end": 43,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-1/#G9708"
+    }
+   ],
+   "end": 43,
+   "summary": "What Unicode is and its design goals.",
+   "terms": [
+    "Unicode",
+    "coverage",
+    "design goals",
+    "text handling"
+   ],
+   "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-1/"
+  },
+  {
+   "title": "2 General Structure",
+   "start": 44,
+   "sections": [
+    {
+     "title": "2.1 Architectural Context",
+     "start": 45,
+     "end": 48,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-2/#G12888"
+    },
+    {
+     "title": "2.2 Unicode Design Principles",
+     "start": 49,
+     "end": 60,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-2/#G128"
+    },
+    {
+     "title": "2.3 Compatibility Characters",
+     "start": 61,
+     "end": 64,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-2/#G11062"
+    },
+    {
+     "title": "2.4 Code Points and Characters",
+     "start": 65,
+     "end": 68,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-2/#G25564"
+    },
+    {
+     "title": "2.5 Encoding Forms",
+     "start": 69,
+     "end": 75,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-2/#G13708"
+    },
+    {
+     "title": "2.6 Encoding Schemes",
+     "start": 76,
+     "end": 78,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-2/#G19273"
+    },
+    {
+     "title": "2.7 Unicode Strings",
+     "start": 79,
+     "end": 79,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-2/#G18444"
+    },
+    {
+     "title": "2.8 Unicode Allocation",
+     "start": 80,
+     "end": 83,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-2/#G16417"
+    },
+    {
+     "title": "2.9 Details of Allocation",
+     "start": 84,
+     "end": 89,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-2/#G16482"
+    },
+    {
+     "title": "2.10 Writing Direction",
+     "start": 90,
+     "end": 91,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-2/#G6318"
+    },
+    {
+     "title": "2.11 Combining Characters",
+     "start": 92,
+     "end": 99,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-2/#G1708"
+    },
+    {
+     "title": "2.12 Equivalent Sequences",
+     "start": 100,
+     "end": 105,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-2/#G287424"
+    },
+    {
+     "title": "2.13 Special Characters",
+     "start": 106,
+     "end": 107,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-2/#G27981"
+    },
+    {
+     "title": "2.14 Conforming to the Unicode Standard",
+     "start": 108,
+     "end": 110,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-2/#G13854"
+    }
+   ],
+   "end": 110,
+   "summary": "The architecture of the encoding.",
+   "terms": [
+    "code points",
+    "characters vs glyphs",
+    "encoding forms",
+    "UTF-8",
+    "UTF-16",
+    "UTF-32",
+    "planes",
+    "allocation",
+    "writing direction",
+    "combining characters"
+   ],
+   "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-2/"
+  },
+  {
+   "title": "3 Conformance",
+   "start": 111,
+   "sections": [
+    {
+     "title": "3.1 Versions of the Unicode Standard",
+     "start": 112,
+     "end": 117,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-3/#G2131"
+    },
+    {
+     "title": "3.2 Conformance Requirements",
+     "start": 118,
+     "end": 126,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-3/#G29705"
+    },
+    {
+     "title": "3.3 Semantics",
+     "start": 127,
+     "end": 129,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-3/#G19002"
+    },
+    {
+     "title": "3.4 Characters and Encoding",
+     "start": 130,
+     "end": 135,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-3/#G2212"
+    },
+    {
+     "title": "3.5 Properties",
+     "start": 136,
+     "end": 148,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-3/#G43463"
+    },
+    {
+     "title": "3.6 Combination",
+     "start": 149,
+     "end": 163,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-3/#G30602"
+    },
+    {
+     "title": "3.7 Decomposition",
+     "start": 164,
+     "end": 166,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-3/#G729"
+    },
+    {
+     "title": "3.8 Surrogates",
+     "start": 167,
+     "end": 167,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-3/#G2630"
+    },
+    {
+     "title": "3.9 Unicode Encoding Forms",
+     "start": 168,
+     "end": 179,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-3/#G7404"
+    },
+    {
+     "title": "3.10 Unicode Encoding Schemes",
+     "start": 180,
+     "end": 184,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-3/#G28070"
+    },
+    {
+     "title": "3.11 Normalization Forms",
+     "start": 185,
+     "end": 193,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-3/#G49537"
+    },
+    {
+     "title": "3.12 Conjoining Jamo Behavior",
+     "start": 194,
+     "end": 204,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-3/#G24646"
+    },
+    {
+     "title": "3.13 Default Case Algorithms",
+     "start": 205,
+     "end": 213,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-3/#G33992"
+    }
+   ],
+   "end": 213,
+   "summary": "Normative conformance requirements.",
+   "terms": [
+    "conformance",
+    "definitions",
+    "decomposition",
+    "canonical equivalence",
+    "normalization forms",
+    "encoding schemes",
+    "surrogates",
+    "Hangul jamo",
+    "default case algorithms"
+   ],
+   "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-3/"
+  },
+  {
+   "title": "4 Character Properties",
+   "start": 214,
+   "sections": [
+    {
+     "title": "4.1 Unicode Character Database",
+     "start": 216,
+     "end": 218,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-4/#G124718"
+    },
+    {
+     "title": "4.2 Case",
+     "start": 219,
+     "end": 222,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-4/#G124722"
+    },
+    {
+     "title": "4.3 Combining Classes",
+     "start": 223,
+     "end": 226,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-4/#G32493"
+    },
+    {
+     "title": "4.4 Directionality",
+     "start": 227,
+     "end": 227,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-4/#G130746"
+    },
+    {
+     "title": "4.5 General Category",
+     "start": 228,
+     "end": 231,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-4/#G124142"
+    },
+    {
+     "title": "4.6 Numeric Value",
+     "start": 232,
+     "end": 235,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-4/#G124206"
+    },
+    {
+     "title": "4.7 Bidi Mirrored",
+     "start": 236,
+     "end": 237,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-4/#G30078"
+    },
+    {
+     "title": "4.8 Name",
+     "start": 238,
+     "end": 247,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-4/#G2082"
+    },
+    {
+     "title": "4.9 Unicode 1.0 Names",
+     "start": 248,
+     "end": 248,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-4/#G131216"
+    },
+    {
+     "title": "4.10 Letters, Alphabetic, and Ideographic",
+     "start": 249,
+     "end": 249,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-4/#G91002"
+    },
+    {
+     "title": "4.11 Properties for Text Boundaries",
+     "start": 250,
+     "end": 250,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-4/#G124804"
+    },
+    {
+     "title": "4.12 Characters with Unusual Properties",
+     "start": 251,
+     "end": 254,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-4/#G124820"
+    },
+    {
+     "title": "4.13 Characters and Sequences That Should Not Be Emitted",
+     "start": 255,
+     "end": 255,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-4/#G124821"
+    }
+   ],
+   "end": 255,
+   "summary": "Character properties and the UCD.",
+   "terms": [
+    "Unicode Character Database",
+    "case",
+    "combining classes",
+    "Bidi class",
+    "General Category",
+    "numeric values",
+    "names",
+    "text boundaries",
+    "default ignorable"
+   ],
+   "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-4/"
+  },
+  {
+   "title": "5 Implementation Guidelines",
+   "start": 256,
+   "sections": [
+    {
+     "title": "5.1 Data Structures for Character Conversion",
+     "start": 257,
+     "end": 259,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-5/#G11079"
+    },
+    {
+     "title": "5.2 Programming Languages and Data Types",
+     "start": 260,
+     "end": 261,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-5/#G23927"
+    },
+    {
+     "title": "5.3 Unknown and Missing Characters",
+     "start": 262,
+     "end": 263,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-5/#G7730"
+    },
+    {
+     "title": "5.4 Handling Surrogate Pairs in UTF-16",
+     "start": 264,
+     "end": 266,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-5/#G11318"
+    },
+    {
+     "title": "5.5 Handling Numbers",
+     "start": 267,
+     "end": 267,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-5/#G34360"
+    },
+    {
+     "title": "5.6 Normalization",
+     "start": 268,
+     "end": 269,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-5/#G7889"
+    },
+    {
+     "title": "5.7 Compression",
+     "start": 270,
+     "end": 270,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-5/#G518"
+    },
+    {
+     "title": "5.8 Newline Guidelines",
+     "start": 271,
+     "end": 275,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-5/#G10213"
+    },
+    {
+     "title": "5.9 Regular Expressions",
+     "start": 276,
+     "end": 276,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-5/#G12107"
+    },
+    {
+     "title": "5.10 Language Information in Plain Text",
+     "start": 277,
+     "end": 278,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-5/#G11552"
+    },
+    {
+     "title": "5.11 Editing and Selection",
+     "start": 279,
+     "end": 281,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-5/#G3067"
+    },
+    {
+     "title": "5.12 Strategies for Handling Nonspacing Marks",
+     "start": 282,
+     "end": 285,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-5/#G1050"
+    },
+    {
+     "title": "5.13 Rendering Nonspacing Marks",
+     "start": 286,
+     "end": 292,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-5/#G1095"
+    },
+    {
+     "title": "5.14 Locating Text Element Boundaries",
+     "start": 293,
+     "end": 293,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-5/#G780"
+    },
+    {
+     "title": "5.15 Identifiers",
+     "start": 294,
+     "end": 294,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-5/#G3248"
+    },
+    {
+     "title": "5.16 Sorting and Searching",
+     "start": 295,
+     "end": 297,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-5/#G664"
+    },
+    {
+     "title": "5.17 Binary Order",
+     "start": 298,
+     "end": 300,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-5/#G21249"
+    },
+    {
+     "title": "5.18 Case Mappings",
+     "start": 301,
+     "end": 309,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-5/#G21180"
+    },
+    {
+     "title": "5.19 Mapping Compatibility Variants",
+     "start": 310,
+     "end": 311,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-5/#G37346"
+    },
+    {
+     "title": "5.20 Unicode Security",
+     "start": 312,
+     "end": 315,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-5/#G37318"
+    },
+    {
+     "title": "5.21 Ignoring Characters in Processing",
+     "start": 316,
+     "end": 324,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-5/#G40025"
+    },
+    {
+     "title": "5.22 U+FFFD Substitution in Conversion",
+     "start": 325,
+     "end": 325,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-5/#G40630"
+    }
+   ],
+   "end": 325,
+   "summary": "Implementation guidelines.",
+   "terms": [
+    "character conversion",
+    "programming languages",
+    "surrogate handling",
+    "normalization",
+    "line breaking",
+    "regular expressions",
+    "sorting",
+    "identifiers"
+   ],
+   "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-5/"
+  },
+  {
+   "title": "6 Writing Systems and Punctuation",
+   "start": 326,
+   "sections": [
+    {
+     "title": "6.1 Writing Systems",
+     "start": 328,
+     "end": 334,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-6/#G7382"
+    },
+    {
+     "title": "6.2 General Punctuation",
+     "start": 335,
+     "end": 368,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-6/#G7981"
+    }
+   ],
+   "end": 368,
+   "summary": "Writing systems and punctuation.",
+   "terms": [
+    "writing system types",
+    "alphabets",
+    "abjads",
+    "abugidas",
+    "syllabaries",
+    "general punctuation"
+   ],
+   "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-6/"
+  },
+  {
+   "title": "7 Europe-I",
+   "start": 369,
+   "sections": [
+    {
+     "title": "7.1 Latin",
+     "start": 371,
+     "end": 393,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-7/#G4321"
+    },
+    {
+     "title": "7.2 Greek",
+     "start": 394,
+     "end": 402,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-7/#G10832"
+    },
+    {
+     "title": "7.3 Coptic",
+     "start": 403,
+     "end": 406,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-7/#G16256"
+    },
+    {
+     "title": "7.4 Cyrillic",
+     "start": 407,
+     "end": 412,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-7/#G10850"
+    },
+    {
+     "title": "7.5 Glagolitic",
+     "start": 413,
+     "end": 414,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-7/#G15862"
+    },
+    {
+     "title": "7.6 Armenian",
+     "start": 415,
+     "end": 417,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-7/#G3334"
+    },
+    {
+     "title": "7.7 Georgian",
+     "start": 418,
+     "end": 420,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-7/#G3360"
+    },
+    {
+     "title": "7.8 Modifier Letters",
+     "start": 421,
+     "end": 425,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-7/#G15832"
+    },
+    {
+     "title": "7.9 Combining Marks",
+     "start": 426,
+     "end": 439,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-7/#G18195"
+    }
+   ],
+   "end": 439,
+   "summary": "European alphabets I.",
+   "terms": [
+    "Latin",
+    "Greek",
+    "Coptic",
+    "Cyrillic",
+    "Glagolitic",
+    "Armenian",
+    "Georgian",
+    "modifier letters",
+    "combining marks"
+   ],
+   "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-7/"
+  },
+  {
+   "title": "8 Europe-II",
+   "start": 440,
+   "sections": [
+    {
+     "title": "8.1 Linear A",
+     "start": 442,
+     "end": 442,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-8/#G27575"
+    },
+    {
+     "title": "8.2 Linear B",
+     "start": 443,
+     "end": 444,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-8/#G29566"
+    },
+    {
+     "title": "8.3 Cypriot Syllabary",
+     "start": 445,
+     "end": 446,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-8/#G26417"
+    },
+    {
+     "title": "8.4 Cypro-Minoan",
+     "start": 447,
+     "end": 447,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-8/#G39686"
+    },
+    {
+     "title": "8.5 Ancient Anatolian Alphabets",
+     "start": 448,
+     "end": 449,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-8/#G26505"
+    },
+    {
+     "title": "8.6 Old Italic",
+     "start": 450,
+     "end": 452,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-8/#G27379"
+    },
+    {
+     "title": "8.7 Runic",
+     "start": 453,
+     "end": 455,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-8/#G26624"
+    },
+    {
+     "title": "8.8 Old Hungarian",
+     "start": 456,
+     "end": 456,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-8/#G33926"
+    },
+    {
+     "title": "8.9 Gothic",
+     "start": 457,
+     "end": 457,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-8/#G33932"
+    },
+    {
+     "title": "8.10 Elbasan",
+     "start": 458,
+     "end": 459,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-8/#G27032"
+    },
+    {
+     "title": "8.11 Caucasian Albanian",
+     "start": 460,
+     "end": 460,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-8/#G32223"
+    },
+    {
+     "title": "8.12 Vithkuqi",
+     "start": 461,
+     "end": 461,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-8/#G40863"
+    },
+    {
+     "title": "8.13 Todhri",
+     "start": 462,
+     "end": 462,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-8/#G746332"
+    },
+    {
+     "title": "8.14 Old Permic",
+     "start": 463,
+     "end": 464,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-8/#G31220"
+    },
+    {
+     "title": "8.15 Ogham",
+     "start": 465,
+     "end": 466,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-8/#G29182"
+    },
+    {
+     "title": "8.16 Shavian",
+     "start": 467,
+     "end": 467,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-8/#G27260"
+    },
+    {
+     "title": "8.17 Sidetic",
+     "start": 468,
+     "end": 468,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-8/#G27262"
+    }
+   ],
+   "end": 468,
+   "summary": "European and ancient scripts II.",
+   "terms": [
+    "Linear A",
+    "Linear B",
+    "Cypriot",
+    "Old Italic",
+    "Runic",
+    "Gothic",
+    "Ogham",
+    "Shavian"
+   ],
+   "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-8/"
+  },
+  {
+   "title": "9 West Asia-I",
+   "start": 469,
+   "sections": [
+    {
+     "title": "9.1 Hebrew",
+     "start": 471,
+     "end": 478,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-9/#G6528"
+    },
+    {
+     "title": "9.2 Arabic",
+     "start": 479,
+     "end": 513,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-9/#G20596"
+    },
+    {
+     "title": "9.3 Syriac",
+     "start": 514,
+     "end": 524,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-9/#G13005"
+    },
+    {
+     "title": "9.4 Samaritan",
+     "start": 525,
+     "end": 527,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-9/#G34422"
+    },
+    {
+     "title": "9.5 Mandaic",
+     "start": 528,
+     "end": 531,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-9/#G46613"
+    },
+    {
+     "title": "9.6 Yezidi",
+     "start": 532,
+     "end": 533,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-9/#G59804"
+    }
+   ],
+   "end": 533,
+   "summary": "West Asian scripts I.",
+   "terms": [
+    "Hebrew",
+    "Arabic",
+    "Syriac",
+    "Samaritan",
+    "Mandaic",
+    "Yezidi",
+    "bidirectional",
+    "cursive joining"
+   ],
+   "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-9/"
+  },
+  {
+   "title": "10 West Asia-II",
+   "start": 534,
+   "sections": [
+    {
+     "title": "10.1 Old North Arabian",
+     "start": 536,
+     "end": 536,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-10/#G26432"
+    },
+    {
+     "title": "10.2 Old South Arabian",
+     "start": 537,
+     "end": 539,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-10/#G29209"
+    },
+    {
+     "title": "10.3 Phoenician",
+     "start": 540,
+     "end": 541,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-10/#G26686"
+    },
+    {
+     "title": "10.4 Imperial Aramaic",
+     "start": 542,
+     "end": 543,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-10/#G29567"
+    },
+    {
+     "title": "10.5 Manichaean",
+     "start": 544,
+     "end": 547,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-10/#G27561"
+    },
+    {
+     "title": "10.6 Pahlavi and Parthian",
+     "start": 548,
+     "end": 550,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-10/#G32800"
+    },
+    {
+     "title": "10.7 Avestan",
+     "start": 551,
+     "end": 552,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-10/#G29021"
+    },
+    {
+     "title": "10.8 Chorasmian",
+     "start": 553,
+     "end": 553,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-10/#G43165"
+    },
+    {
+     "title": "10.9 Elymaic",
+     "start": 554,
+     "end": 554,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-10/#G41970"
+    },
+    {
+     "title": "10.10 Nabataean",
+     "start": 555,
+     "end": 555,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-10/#G29596"
+    },
+    {
+     "title": "10.11 Palmyrene",
+     "start": 556,
+     "end": 557,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-10/#G29599"
+    },
+    {
+     "title": "10.12 Hatran",
+     "start": 558,
+     "end": 558,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-10/#G34825"
+    }
+   ],
+   "end": 558,
+   "summary": "West Asian historic scripts II.",
+   "terms": [
+    "Phoenician",
+    "Aramaic",
+    "Avestan",
+    "Pahlavi",
+    "Nabataean",
+    "Palmyrene"
+   ],
+   "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-10/"
+  },
+  {
+   "title": "11 Cuneiform and Hieroglyphs",
+   "start": 559,
+   "sections": [
+    {
+     "title": "11.1 Sumero-Akkadian",
+     "start": 560,
+     "end": 565,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-11/#G26852"
+    },
+    {
+     "title": "11.2 Ugaritic",
+     "start": 566,
+     "end": 566,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-11/#G26461"
+    },
+    {
+     "title": "11.3 Old Persian",
+     "start": 567,
+     "end": 567,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-11/#G26474"
+    },
+    {
+     "title": "11.4 Egyptian Hieroglyphs",
+     "start": 568,
+     "end": 582,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-11/#G26607"
+    },
+    {
+     "title": "11.5 Meroitic",
+     "start": 583,
+     "end": 584,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-11/#G26724"
+    },
+    {
+     "title": "11.6 Anatolian Hieroglyphs",
+     "start": 585,
+     "end": 586,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-11/#G27920"
+    }
+   ],
+   "end": 586,
+   "summary": "Cuneiform and hieroglyphs.",
+   "terms": [
+    "Sumero-Akkadian cuneiform",
+    "Ugaritic",
+    "Old Persian",
+    "Egyptian hieroglyphs",
+    "Meroitic",
+    "Anatolian hieroglyphs"
+   ],
+   "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-11/"
+  },
+  {
+   "title": "12 South and Central Asia-I",
+   "start": 587,
+   "sections": [
+    {
+     "title": "12.1 Devanagari",
+     "start": 589,
+     "end": 620,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-12/#G12284"
+    },
+    {
+     "title": "12.2 Bengali (Bangla)",
+     "start": 621,
+     "end": 629,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-12/#G664195"
+    },
+    {
+     "title": "12.3 Gurmukhi",
+     "start": 630,
+     "end": 635,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-12/#G668388"
+    },
+    {
+     "title": "12.4 Gujarati",
+     "start": 636,
+     "end": 638,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-12/#G34334"
+    },
+    {
+     "title": "12.5 Oriya (Odia)",
+     "start": 639,
+     "end": 643,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-12/#G10153"
+    },
+    {
+     "title": "12.6 Tamil",
+     "start": 644,
+     "end": 655,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-12/#G10162"
+    },
+    {
+     "title": "12.7 Telugu",
+     "start": 656,
+     "end": 659,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-12/#G81985"
+    },
+    {
+     "title": "12.8 Kannada",
+     "start": 660,
+     "end": 664,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-12/#G38298"
+    },
+    {
+     "title": "12.9 Malayalam",
+     "start": 665,
+     "end": 675,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-12/#G22346"
+    }
+   ],
+   "end": 675,
+   "summary": "Major Indic scripts.",
+   "terms": [
+    "Devanagari",
+    "Bengali",
+    "Gurmukhi",
+    "Gujarati",
+    "Odia",
+    "Tamil",
+    "Telugu",
+    "Kannada",
+    "Malayalam",
+    "virama",
+    "conjuncts",
+    "dead consonants",
+    "rendering"
+   ],
+   "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-12/"
+  },
+  {
+   "title": "13 South and Central Asia-II",
+   "start": 676,
+   "sections": [
+    {
+     "title": "13.1 Thaana",
+     "start": 679,
+     "end": 680,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-13/#G26451"
+    },
+    {
+     "title": "13.2 Sinhala",
+     "start": 681,
+     "end": 686,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-13/#G26561"
+    },
+    {
+     "title": "13.3 Newa",
+     "start": 687,
+     "end": 689,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-13/#G31609"
+    },
+    {
+     "title": "13.4 Tibetan",
+     "start": 690,
+     "end": 704,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-13/#G31615"
+    },
+    {
+     "title": "13.5 Mongolian",
+     "start": 705,
+     "end": 716,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-13/#G27803"
+    },
+    {
+     "title": "13.6 Limbu",
+     "start": 717,
+     "end": 721,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-13/#G27263"
+    },
+    {
+     "title": "13.7 Meetei Mayek",
+     "start": 722,
+     "end": 724,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-13/#G27615"
+    },
+    {
+     "title": "13.8 Mro",
+     "start": 725,
+     "end": 725,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-13/#G27701"
+    },
+    {
+     "title": "13.9 Warang Citi",
+     "start": 726,
+     "end": 726,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-13/#G27702"
+    },
+    {
+     "title": "13.10 Ol Chiki",
+     "start": 727,
+     "end": 728,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-13/#G29195"
+    },
+    {
+     "title": "13.11 Ol Onal",
+     "start": 729,
+     "end": 730,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-13/#G746334"
+    },
+    {
+     "title": "13.12 Nag Mundari",
+     "start": 731,
+     "end": 732,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-13/#G112439"
+    },
+    {
+     "title": "13.13 Chakma",
+     "start": 733,
+     "end": 734,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-13/#G27486"
+    },
+    {
+     "title": "13.14 Lepcha",
+     "start": 735,
+     "end": 737,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-13/#G27253"
+    },
+    {
+     "title": "13.15 Saurashtra",
+     "start": 738,
+     "end": 739,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-13/#G28198"
+    },
+    {
+     "title": "13.16 Masaram Gondi",
+     "start": 740,
+     "end": 742,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-13/#G33278"
+    },
+    {
+     "title": "13.17 Gunjala Gondi",
+     "start": 743,
+     "end": 744,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-13/#G39306"
+    },
+    {
+     "title": "13.18 Wancho",
+     "start": 745,
+     "end": 745,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-13/#G46061"
+    },
+    {
+     "title": "13.19 Toto",
+     "start": 746,
+     "end": 746,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-13/#G50178"
+    },
+    {
+     "title": "13.20 Tangsa",
+     "start": 747,
+     "end": 747,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-13/#G51897"
+    },
+    {
+     "title": "13.21 Sunuwar",
+     "start": 748,
+     "end": 750,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-13/#G746336"
+    },
+    {
+     "title": "13.22 Gurung Khema",
+     "start": 751,
+     "end": 753,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-13/#G746338"
+    },
+    {
+     "title": "13.23 Kirat Rai",
+     "start": 754,
+     "end": 755,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-13/#G746340"
+    },
+    {
+     "title": "13.24 Tolong Siki",
+     "start": 756,
+     "end": 757,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-13/#G746342"
+    }
+   ],
+   "end": 757,
+   "summary": "South and Central Asian scripts II.",
+   "terms": [
+    "Sinhala",
+    "Tibetan",
+    "Mongolian",
+    "Thaana",
+    "Ol Chiki",
+    "Chakma",
+    "Lepcha",
+    "Masaram Gondi"
+   ],
+   "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-13/"
+  },
+  {
+   "title": "14 South and Central Asia-III",
+   "start": 758,
+   "sections": [
+    {
+     "title": "14.1 Brahmi",
+     "start": 760,
+     "end": 764,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-14/#G39063"
+    },
+    {
+     "title": "14.2 Kharoshthi",
+     "start": 765,
+     "end": 771,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-14/#G38474"
+    },
+    {
+     "title": "14.3 Bhaiksuki",
+     "start": 772,
+     "end": 773,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-14/#G40424"
+    },
+    {
+     "title": "14.4 Phags-pa",
+     "start": 774,
+     "end": 781,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-14/#G40430"
+    },
+    {
+     "title": "14.5 Marchen",
+     "start": 782,
+     "end": 782,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-14/#G38187"
+    },
+    {
+     "title": "14.6 Zanabazar Square",
+     "start": 783,
+     "end": 786,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-14/#G41935"
+    },
+    {
+     "title": "14.7 Soyombo",
+     "start": 787,
+     "end": 788,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-14/#G41941"
+    },
+    {
+     "title": "14.8 Old Turkic",
+     "start": 789,
+     "end": 790,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-14/#G41975"
+    },
+    {
+     "title": "14.9 Old Sogdian",
+     "start": 791,
+     "end": 791,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-14/#G49463"
+    },
+    {
+     "title": "14.10 Sogdian",
+     "start": 792,
+     "end": 793,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-14/#G49476"
+    },
+    {
+     "title": "14.11 Old Uyghur",
+     "start": 794,
+     "end": 795,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-14/#G58161"
+    }
+   ],
+   "end": 795,
+   "summary": "Historic Asian scripts III.",
+   "terms": [
+    "Brahmi",
+    "Kharoshthi",
+    "Phags-pa",
+    "Old Turkic",
+    "Sogdian",
+    "Old Uyghur"
+   ],
+   "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-14/"
+  },
+  {
+   "title": "15 South and Central Asia-IV",
+   "start": 796,
+   "sections": [
+    {
+     "title": "15.1 Syloti Nagri",
+     "start": 799,
+     "end": 800,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-15/#G59104"
+    },
+    {
+     "title": "15.2 Kaithi",
+     "start": 801,
+     "end": 803,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-15/#G69704"
+    },
+    {
+     "title": "15.3 Sharada",
+     "start": 804,
+     "end": 806,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-15/#G81154"
+    },
+    {
+     "title": "15.4 Takri",
+     "start": 807,
+     "end": 808,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-15/#G81184"
+    },
+    {
+     "title": "15.5 Siddham",
+     "start": 809,
+     "end": 811,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-15/#G80829"
+    },
+    {
+     "title": "15.6 Mahajani",
+     "start": 812,
+     "end": 813,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-15/#G89564"
+    },
+    {
+     "title": "15.7 Khojki",
+     "start": 814,
+     "end": 816,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-15/#G81423"
+    },
+    {
+     "title": "15.8 Dogra",
+     "start": 817,
+     "end": 818,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-15/#G100066"
+    },
+    {
+     "title": "15.9 Khudawadi",
+     "start": 819,
+     "end": 820,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-15/#G80879"
+    },
+    {
+     "title": "15.10 Multani",
+     "start": 821,
+     "end": 822,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-15/#G95487"
+    },
+    {
+     "title": "15.11 Tirhuta",
+     "start": 823,
+     "end": 825,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-15/#G95493"
+    },
+    {
+     "title": "15.12 Modi",
+     "start": 826,
+     "end": 829,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-15/#G80897"
+    },
+    {
+     "title": "15.13 Nandinagari",
+     "start": 830,
+     "end": 831,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-15/#G106413"
+    },
+    {
+     "title": "15.14 Grantha",
+     "start": 832,
+     "end": 835,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-15/#G81052"
+    },
+    {
+     "title": "15.15 Dives Akuru",
+     "start": 836,
+     "end": 837,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-15/#G108027"
+    },
+    {
+     "title": "15.16 Ahom",
+     "start": 838,
+     "end": 839,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-15/#G95570"
+    },
+    {
+     "title": "15.17 Sora Sompeng",
+     "start": 840,
+     "end": 840,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-15/#G95556"
+    },
+    {
+     "title": "15.18 Tulu-Tigalari",
+     "start": 841,
+     "end": 846,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-15/#G746412"
+    }
+   ],
+   "end": 846,
+   "summary": "Regional Brahmic scripts IV.",
+   "terms": [
+    "Kaithi",
+    "Sharada",
+    "Takri",
+    "Siddham",
+    "Modi",
+    "Grantha",
+    "Tirhuta",
+    "Tulu-Tigalari",
+    "Ahom"
+   ],
+   "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-15/"
+  },
+  {
+   "title": "16 Southeast Asia-I",
+   "start": 847,
+   "sections": [
+    {
+     "title": "16.1 Thai",
+     "start": 849,
+     "end": 853,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-16/#G46485"
+    },
+    {
+     "title": "16.2 Lao",
+     "start": 854,
+     "end": 857,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-16/#G10988"
+    },
+    {
+     "title": "16.3 Myanmar",
+     "start": 858,
+     "end": 866,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-16/#G24999"
+    },
+    {
+     "title": "16.4 Khmer",
+     "start": 867,
+     "end": 883,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-16/#G64642"
+    },
+    {
+     "title": "16.5 Tai Le",
+     "start": 884,
+     "end": 886,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-16/#G32903"
+    },
+    {
+     "title": "16.6 New Tai Lue",
+     "start": 887,
+     "end": 889,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-16/#G65706"
+    },
+    {
+     "title": "16.7 Tai Tham",
+     "start": 890,
+     "end": 892,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-16/#G53337"
+    },
+    {
+     "title": "16.8 Tai Viet",
+     "start": 893,
+     "end": 895,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-16/#G59747"
+    },
+    {
+     "title": "16.9 Kayah Li",
+     "start": 896,
+     "end": 897,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-16/#G61902"
+    },
+    {
+     "title": "16.10 Cham",
+     "start": 898,
+     "end": 900,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-16/#G55659"
+    },
+    {
+     "title": "16.11 Pahawh Hmong",
+     "start": 901,
+     "end": 903,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-16/#G68320"
+    },
+    {
+     "title": "16.12 Nyiakeng Puachue Hmong",
+     "start": 904,
+     "end": 905,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-16/#G81876"
+    },
+    {
+     "title": "16.13 Pau Cin Hau",
+     "start": 906,
+     "end": 907,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-16/#G68308"
+    },
+    {
+     "title": "16.14 Hanifi Rohingya",
+     "start": 908,
+     "end": 909,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-16/#G73728"
+    },
+    {
+     "title": "16.15 Tai Yo",
+     "start": 910,
+     "end": 916,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-16/#G73729"
+    }
+   ],
+   "end": 916,
+   "summary": "Southeast Asian scripts I.",
+   "terms": [
+    "Thai",
+    "Lao",
+    "Myanmar",
+    "Khmer",
+    "Tai Tham",
+    "Cham",
+    "Hmong"
+   ],
+   "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-16/"
+  },
+  {
+   "title": "17 Southeast Asia-II",
+   "start": 917,
+   "sections": [
+    {
+     "title": "17.1 Philippine Scripts: Tagalog, Hanunóo, Buhid, and Tagbanwa",
+     "start": 918,
+     "end": 921,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-17/#G26433"
+    },
+    {
+     "title": "17.2 Buginese",
+     "start": 922,
+     "end": 923,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-17/#G26727"
+    },
+    {
+     "title": "17.3 Balinese",
+     "start": 924,
+     "end": 931,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-17/#G26759"
+    },
+    {
+     "title": "17.4 Javanese",
+     "start": 932,
+     "end": 935,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-17/#G27153"
+    },
+    {
+     "title": "17.5 Rejang",
+     "start": 936,
+     "end": 937,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-17/#G27208"
+    },
+    {
+     "title": "17.6 Batak",
+     "start": 938,
+     "end": 939,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-17/#G27226"
+    },
+    {
+     "title": "17.7 Sundanese",
+     "start": 940,
+     "end": 942,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-17/#G27244"
+    },
+    {
+     "title": "17.8 Makasar",
+     "start": 943,
+     "end": 944,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-17/#G29334"
+    },
+    {
+     "title": "17.9 Kawi",
+     "start": 945,
+     "end": 950,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-17/#G40419"
+    }
+   ],
+   "end": 950,
+   "summary": "Southeast Asian scripts II.",
+   "terms": [
+    "Baybayin",
+    "Buginese",
+    "Balinese",
+    "Javanese",
+    "Batak",
+    "Sundanese",
+    "Kawi"
+   ],
+   "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-17/"
+  },
+  {
+   "title": "18 East Asia",
+   "start": 951,
+   "sections": [
+    {
+     "title": "18.1 Han",
+     "start": 954,
+     "end": 977,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-18/#G29086"
+    },
+    {
+     "title": "18.2 Ideographic Description Characters",
+     "start": 978,
+     "end": 983,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-18/#G28626"
+    },
+    {
+     "title": "18.3 Bopomofo",
+     "start": 984,
+     "end": 987,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-18/#G22467"
+    },
+    {
+     "title": "18.4 Hiragana and Katakana",
+     "start": 988,
+     "end": 994,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-18/#G22462"
+    },
+    {
+     "title": "18.5 Halfwidth and Fullwidth Forms",
+     "start": 995,
+     "end": 996,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-18/#G37555"
+    },
+    {
+     "title": "18.6 Hangul",
+     "start": 997,
+     "end": 1001,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-18/#G31028"
+    },
+    {
+     "title": "18.7 Yi",
+     "start": 1002,
+     "end": 1005,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-18/#G13042"
+    },
+    {
+     "title": "18.8 Nüshu",
+     "start": 1006,
+     "end": 1006,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-18/#G42061"
+    },
+    {
+     "title": "18.9 Lisu",
+     "start": 1007,
+     "end": 1010,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-18/#G44587"
+    },
+    {
+     "title": "18.10 Miao",
+     "start": 1011,
+     "end": 1012,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-18/#G42236"
+    },
+    {
+     "title": "18.11 Tangut",
+     "start": 1013,
+     "end": 1015,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-18/#G43635"
+    },
+    {
+     "title": "18.12 Khitan Small Script",
+     "start": 1016,
+     "end": 1018,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-18/#G59285"
+    },
+    {
+     "title": "18.13 Jurchen",
+     "start": 1019,
+     "end": 1020,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-18/#G59286"
+    },
+    {
+     "title": "18.14 Seal",
+     "start": 1021,
+     "end": 1023,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-18/#G59287"
+    }
+   ],
+   "end": 1023,
+   "summary": "East Asian scripts.",
+   "terms": [
+    "Han",
+    "CJK unified ideographs",
+    "ideographic description",
+    "Bopomofo",
+    "Hiragana",
+    "Katakana",
+    "Hangul",
+    "Yi",
+    "Tangut",
+    "Khitan",
+    "Nüshu"
+   ],
+   "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-18/"
+  },
+  {
+   "title": "19 Africa",
+   "start": 1024,
+   "sections": [
+    {
+     "title": "19.1 Ethiopic",
+     "start": 1025,
+     "end": 1029,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-19/#G14116"
+    },
+    {
+     "title": "19.2 Osmanya",
+     "start": 1030,
+     "end": 1030,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-19/#G16914"
+    },
+    {
+     "title": "19.3 Tifinagh",
+     "start": 1031,
+     "end": 1034,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-19/#G43184"
+    },
+    {
+     "title": "19.4 N’Ko",
+     "start": 1035,
+     "end": 1041,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-19/#G18603"
+    },
+    {
+     "title": "19.5 Vai",
+     "start": 1042,
+     "end": 1043,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-19/#G18604"
+    },
+    {
+     "title": "19.6 Bamum",
+     "start": 1044,
+     "end": 1045,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-19/#G45398"
+    },
+    {
+     "title": "19.7 Bassa Vah",
+     "start": 1046,
+     "end": 1046,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-19/#G54402"
+    },
+    {
+     "title": "19.8 Mende Kikakui",
+     "start": 1047,
+     "end": 1048,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-19/#G54425"
+    },
+    {
+     "title": "19.9 Adlam",
+     "start": 1049,
+     "end": 1051,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-19/#G56860"
+    },
+    {
+     "title": "19.10 Medefaidrin",
+     "start": 1052,
+     "end": 1052,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-19/#G58353"
+    },
+    {
+     "title": "19.11 Garay",
+     "start": 1053,
+     "end": 1054,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-19/#G746355"
+    },
+    {
+     "title": "19.12 Beria Erfe",
+     "start": 1055,
+     "end": 1055,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-19/#G746359"
+    }
+   ],
+   "end": 1055,
+   "summary": "African scripts.",
+   "terms": [
+    "Ethiopic",
+    "Tifinagh",
+    "N’Ko",
+    "Vai",
+    "Bamum",
+    "Adlam",
+    "Garay"
+   ],
+   "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-19/"
+  },
+  {
+   "title": "20 Americas",
+   "start": 1056,
+   "sections": [
+    {
+     "title": "20.1 Cherokee",
+     "start": 1057,
+     "end": 1059,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-20/#G26612"
+    },
+    {
+     "title": "20.2 Canadian Aboriginal Syllabics",
+     "start": 1060,
+     "end": 1062,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-20/#G26630"
+    },
+    {
+     "title": "20.3 Osage",
+     "start": 1063,
+     "end": 1063,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-20/#G26674"
+    },
+    {
+     "title": "20.4 Deseret",
+     "start": 1064,
+     "end": 1066,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-20/#G27507"
+    }
+   ],
+   "end": 1066,
+   "summary": "Scripts of the Americas.",
+   "terms": [
+    "Cherokee",
+    "Canadian Aboriginal Syllabics",
+    "Osage",
+    "Deseret"
+   ],
+   "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-20/"
+  },
+  {
+   "title": "21 Notational Systems",
+   "start": 1067,
+   "sections": [
+    {
+     "title": "21.1 Braille",
+     "start": 1068,
+     "end": 1070,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-21/#G26597"
+    },
+    {
+     "title": "21.2 Western Musical Symbols",
+     "start": 1071,
+     "end": 1078,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-21/#G26709"
+    },
+    {
+     "title": "21.3 Byzantine Musical Symbols",
+     "start": 1079,
+     "end": 1079,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-21/#G29047"
+    },
+    {
+     "title": "21.4 Znamenny Musical Notation",
+     "start": 1080,
+     "end": 1080,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-21/#G35157"
+    },
+    {
+     "title": "21.5 Ancient Greek Musical Notation",
+     "start": 1081,
+     "end": 1084,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-21/#G26878"
+    },
+    {
+     "title": "21.6 Duployan",
+     "start": 1085,
+     "end": 1086,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-21/#G27643"
+    },
+    {
+     "title": "21.7 Sutton SignWriting",
+     "start": 1087,
+     "end": 1088,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-21/#G28865"
+    }
+   ],
+   "end": 1088,
+   "summary": "Notational systems.",
+   "terms": [
+    "Braille",
+    "musical symbols",
+    "Duployan shorthand",
+    "SignWriting"
+   ],
+   "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-21/"
+  },
+  {
+   "title": "22 Symbols",
+   "start": 1089,
+   "sections": [
+    {
+     "title": "22.1 Currency Symbols",
+     "start": 1091,
+     "end": 1095,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-22/#G13244"
+    },
+    {
+     "title": "22.2 Letterlike Symbols",
+     "start": 1096,
+     "end": 1104,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-22/#G14143"
+    },
+    {
+     "title": "22.3 Numerals",
+     "start": 1105,
+     "end": 1121,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-22/#G12146"
+    },
+    {
+     "title": "22.4 Superscript and Subscript Symbols",
+     "start": 1122,
+     "end": 1123,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-22/#G42931"
+    },
+    {
+     "title": "22.5 Mathematical Symbols",
+     "start": 1124,
+     "end": 1134,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-22/#G51347"
+    },
+    {
+     "title": "22.6 Invisible Mathematical Operators",
+     "start": 1135,
+     "end": 1135,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-22/#G26223"
+    },
+    {
+     "title": "22.7 Technical Symbols",
+     "start": 1136,
+     "end": 1142,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-22/#G12243"
+    },
+    {
+     "title": "22.8 Geometrical Symbols",
+     "start": 1143,
+     "end": 1146,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-22/#G27321"
+    },
+    {
+     "title": "22.9 Miscellaneous Symbols",
+     "start": 1147,
+     "end": 1163,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-22/#G12367"
+    },
+    {
+     "title": "22.10 Enclosed and Square",
+     "start": 1164,
+     "end": 1170,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-22/#G41738"
+    }
+   ],
+   "end": 1170,
+   "summary": "Symbols.",
+   "terms": [
+    "currency symbols",
+    "letterlike symbols",
+    "numerals",
+    "mathematical symbols",
+    "technical symbols",
+    "geometric shapes",
+    "emoji",
+    "dingbats"
+   ],
+   "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-22/"
+  },
+  {
+   "title": "23 Special Areas and Format Characters",
+   "start": 1171,
+   "sections": [
+    {
+     "title": "23.1 Control Codes",
+     "start": 1172,
+     "end": 1174,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-23/#G20365"
+    },
+    {
+     "title": "23.2 Layout Controls",
+     "start": 1175,
+     "end": 1188,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-23/#G12985"
+    },
+    {
+     "title": "23.3 Deprecated Format Characters",
+     "start": 1189,
+     "end": 1191,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-23/#G19593"
+    },
+    {
+     "title": "23.4 Variation Selectors",
+     "start": 1192,
+     "end": 1194,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-23/#G19053"
+    },
+    {
+     "title": "23.5 Private-Use Characters",
+     "start": 1195,
+     "end": 1198,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-23/#G19184"
+    },
+    {
+     "title": "23.6 Surrogates Area",
+     "start": 1199,
+     "end": 1199,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-23/#G24089"
+    },
+    {
+     "title": "23.7 Noncharacters",
+     "start": 1200,
+     "end": 1201,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-23/#G12612"
+    },
+    {
+     "title": "23.8 Specials and the Byte Order Mark (BOM)",
+     "start": 1202,
+     "end": 1209,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-23/#G19635"
+    },
+    {
+     "title": "23.9 Tag Characters",
+     "start": 1210,
+     "end": 1210,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-23/#G30110"
+    }
+   ],
+   "end": 1210,
+   "summary": "Special areas and format characters.",
+   "terms": [
+    "control codes",
+    "zero width joiner",
+    "variation selectors",
+    "private use",
+    "noncharacters",
+    "BOM",
+    "tag characters"
+   ],
+   "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-23/"
+  },
+  {
+   "title": "24 About the Code Charts",
+   "start": 1211,
+   "sections": [
+    {
+     "title": "24.1 Character Names List",
+     "start": 1212,
+     "end": 1228,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-24/#G2841"
+    },
+    {
+     "title": "24.2 CJK and Other Ideographs",
+     "start": 1229,
+     "end": 1233,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-24/#G3563"
+    },
+    {
+     "title": "24.3 Hangul Syllables",
+     "start": 1234,
+     "end": 1234,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-24/#G8005"
+    }
+   ],
+   "end": 1234,
+   "summary": "Reading the code charts.",
+   "terms": [
+    "code charts",
+    "names list",
+    "CJK charts",
+    "Hangul syllables"
+   ],
+   "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-24/"
+  },
+  {
+   "title": "A Notational Conventions",
+   "start": 1235,
+   "sections": [
+    {
+     "title": "A.1 Typographic Conventions",
+     "start": 1236,
+     "end": 1238,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/appendix-a/#G12668"
+    },
+    {
+     "title": "A.2 Extended BNF",
+     "start": 1239,
+     "end": 1241,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/appendix-a/#G7146"
+    },
+    {
+     "title": "A.3 Rendering",
+     "start": 1242,
+     "end": 1242,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/appendix-a/#G7111"
+    }
+   ],
+   "end": 1242,
+   "summary": "Notational conventions.",
+   "terms": [
+    "typographic conventions",
+    "EBNF",
+    "rendering"
+   ],
+   "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/appendix-a/"
+  },
+  {
+   "title": "B Unicode Publications and Resources",
+   "start": 1243,
+   "sections": [
+    {
+     "title": "B.1 The Unicode Consortium",
+     "start": 1244,
+     "end": 1245,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/appendix-b/#G5982"
+    },
+    {
+     "title": "B.2 Unicode Publications",
+     "start": 1246,
+     "end": 1246,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/appendix-b/#G5406"
+    }
+   ],
+   "end": 1246,
+   "summary": "Publications and resources.",
+   "terms": [
+    "Unicode Consortium",
+    "technical reports",
+    "UCD files"
+   ],
+   "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/appendix-b/"
+  },
+  {
+   "title": "C Relationship to ISO/IEC 10646",
+   "start": 1247,
+   "sections": [
+    {
+     "title": "C.1 History",
+     "start": 1248,
+     "end": 1257,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/appendix-c/#G1824"
+    },
+    {
+     "title": "C.2 Encoding Forms in ISO/IEC 10646",
+     "start": 1258,
+     "end": 1258,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/appendix-c/#G8861"
+    },
+    {
+     "title": "C.3 UTF-8 and UTF-16",
+     "start": 1259,
+     "end": 1259,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/appendix-c/#G4651"
+    },
+    {
+     "title": "C.4 Synchronization of the Standards",
+     "start": 1260,
+     "end": 1260,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/appendix-c/#G1864"
+    },
+    {
+     "title": "C.5 Identification of Features for Unicode",
+     "start": 1261,
+     "end": 1261,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/appendix-c/#G1867"
+    },
+    {
+     "title": "C.6 Character Names",
+     "start": 1262,
+     "end": 1262,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/appendix-c/#G5401"
+    },
+    {
+     "title": "C.7 Character Functional Specifications",
+     "start": 1263,
+     "end": 1263,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/appendix-c/#G5447"
+    }
+   ],
+   "end": 1263,
+   "summary": "Unicode and ISO/IEC 10646.",
+   "terms": [
+    "ISO/IEC 10646",
+    "UCS",
+    "synchronization",
+    "character names"
+   ],
+   "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/appendix-c/"
+  },
+  {
+   "title": "D Version History of the Standard",
+   "start": 1264,
+   "sections": [],
+   "end": 1265,
+   "summary": "Version history.",
+   "terms": [
+    "versions",
+    "release history"
+   ],
+   "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/appendix-d/"
+  },
+  {
+   "title": "E Han Unification History",
+   "start": 1266,
+   "sections": [
+    {
+     "title": "E.1 Development of the URO",
+     "start": 1267,
+     "end": 1268,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/appendix-e/#G1281"
+    },
+    {
+     "title": "E.2 Continuing Research on Ideographs",
+     "start": 1269,
+     "end": 1271,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/appendix-e/#G17834"
+    },
+    {
+     "title": "E.3 CJK Sources",
+     "start": 1272,
+     "end": 1272,
+     "summary": "",
+     "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/appendix-e/#G15393"
+    }
+   ],
+   "end": 1272,
+   "summary": "Han unification history.",
+   "terms": [
+    "Han unification",
+    "URO",
+    "CJK sources"
+   ],
+   "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/appendix-e/"
+  },
+  {
+   "title": "F Documentation of CJK Strokes",
+   "start": 1273,
+   "sections": [],
+   "end": 1280,
+   "summary": "CJK strokes.",
+   "terms": [
+    "CJK strokes",
+    "stroke documentation"
+   ],
+   "href": "https://www.unicode.org/versions/Unicode18.0.0/core-spec/appendix-f/"
+  }
+ ],
+ "title": "The Unicode Standard, Version 18.0: Core Specification",
+ "byline": "The Unicode Consortium · September 2026",
+ "note": "Your Drive had version 15.0; this page follows version 18.0, whose PDF was downloaded from unicode.org into the same folder. Since 16.0 the core specification is also published as authoritative HTML, so every chapter and numbered section links to its place there as well as to its PDF pages. Summaries and terms are per chapter. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "The core specification of Unicode: the architecture, conformance rules and implementation guidance for the universal character encoding, followed by script-by-script descriptions of how each writing system is encoded and should be rendered. The first chapters define code points, encoding forms (UTF-8/16/32), normalization, character properties, bidirectional and boundary behavior, and implementation practices. Chapters 7–20 survey the world’s scripts by region, from Latin and Greek through West Asian, Indic and Southeast Asian scripts (including Kannada and the other Brahmic scripts), East Asian ideographs and Hangul, African and American scripts; later chapters cover notational systems, symbols and format characters, and how the code charts are organized."
+}
