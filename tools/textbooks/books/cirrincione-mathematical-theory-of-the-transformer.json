@@ -1,0 +1,2048 @@
+{
+ "url": "https://drive.google.com/file/d/1X1ytTAhoZ4uERo5zD--HQrRZFMenrR0G/view",
+ "chapters": [
+  {
+   "title": "1. Sequences, Embeddings, and Positional Encoding",
+   "start": 37,
+   "sections": [
+    {
+     "title": "From Symbols to Vectors: The Vocabulary and the Embedding Map",
+     "start": 38,
+     "end": 38,
+     "summary": ""
+    },
+    {
+     "title": "The Hidden State Matrix",
+     "start": 39,
+     "end": 39,
+     "summary": ""
+    },
+    {
+     "title": "Positional Encoding: Geometry of Order",
+     "start": 40,
+     "end": 54,
+     "summary": ""
+    },
+    {
+     "title": "Layer Normalisation",
+     "start": 55,
+     "end": 56,
+     "summary": ""
+    },
+    {
+     "title": "The Rank-Neutrality Theorem",
+     "start": 57,
+     "end": 58,
+     "summary": ""
+    },
+    {
+     "title": "Residual Connections and the Cumulative Representation",
+     "start": 59,
+     "end": 60,
+     "summary": ""
+    }
+   ],
+   "end": 63,
+   "summary": "Inputs to attention: embeddings, position and normalization.",
+   "terms": [
+    "embeddings",
+    "hidden state matrix",
+    "sinusoidal positional encoding",
+    "learned positional encoding",
+    "layer normalisation",
+    "rank neutrality",
+    "residual stream"
+   ]
+  },
+  {
+   "title": "2. The Self-Attention Mechanism",
+   "start": 64,
+   "sections": [
+    {
+     "title": "Structure and levels",
+     "start": 65,
+     "end": 65,
+     "summary": ""
+    },
+    {
+     "title": "The Single Attention Head",
+     "start": 65,
+     "end": 75,
+     "summary": ""
+    },
+    {
+     "title": "Positional Encoding in the Score: The Four-Term Expansion",
+     "start": 76,
+     "end": 79,
+     "summary": ""
+    },
+    {
+     "title": "Multi-Head Attention and the Canonical Pair (M,N)",
+     "start": 80,
+     "end": 92,
+     "summary": ""
+    },
+    {
+     "title": "The Feed-Forward Block and the Residual Stream",
+     "start": 93,
+     "end": 96,
+     "summary": ""
+    },
+    {
+     "title": "Computational Cost of the Attention Mechanism",
+     "start": 97,
+     "end": 99,
+     "summary": ""
+    },
+    {
+     "title": "The Structure of M",
+     "start": 100,
+     "end": 108,
+     "summary": ""
+    },
+    {
+     "title": "Empirical Illustrations",
+     "start": 109,
+     "end": 114,
+     "summary": ""
+    },
+    {
+     "title": "For the Specialist: Multi-Scale Attention and the Resolution Problem",
+     "start": 115,
+     "end": 117,
+     "summary": ""
+    }
+   ],
+   "end": 119,
+   "summary": "The attention mechanism dissected.",
+   "terms": [
+    "single head",
+    "score matrix M",
+    "four-term positional expansion",
+    "multi-head attention",
+    "feed-forward block",
+    "computational cost",
+    "empirical illustrations",
+    "multi-scale attention"
+   ]
+  },
+  {
+   "title": "3. BERT: Pre-training, Fine-tuning, and Case Study",
+   "start": 120,
+   "sections": [
+    {
+     "title": "Pre-training: MLM and NSP",
+     "start": 120,
+     "end": 121,
+     "summary": ""
+    },
+    {
+     "title": "Fine-tuning",
+     "start": 122,
+     "end": 122,
+     "summary": ""
+    },
+    {
+     "title": "State of the Art: Rank, MLP, and Beyond",
+     "start": 123,
+     "end": 135,
+     "summary": ""
+    },
+    {
+     "title": "Case Study: SARS-CoV-2 Classification",
+     "start": 136,
+     "end": 138,
+     "summary": ""
+    }
+   ],
+   "end": 139,
+   "summary": "BERT and a case study.",
+   "terms": [
+    "BERT",
+    "masked language modeling",
+    "next sentence prediction",
+    "fine-tuning",
+    "rank collapse",
+    "SARS-CoV-2 classification"
+   ]
+  },
+  {
+   "title": "4. The Symmetric/Antisymmetric Decomposition",
+   "start": 140,
+   "sections": [
+    {
+     "title": "The decomposition",
+     "start": 140,
+     "end": 140,
+     "summary": ""
+    },
+    {
+     "title": "Proposition A: the Reciprocity–Directionality Identity",
+     "start": 141,
+     "end": 141,
+     "summary": ""
+    },
+    {
+     "title": "Theorem B: the Cycle Circulation Theorem",
+     "start": 142,
+     "end": 142,
+     "summary": ""
+    },
+    {
+     "title": "Theorem C: directional energy",
+     "start": 143,
+     "end": 143,
+     "summary": ""
+    },
+    {
+     "title": "Relation with the concurrent work of Saponati et al.",
+     "start": 144,
+     "end": 146,
+     "summary": ""
+    },
+    {
+     "title": "The asymmetry index at initialisation",
+     "start": 147,
+     "end": 148,
+     "summary": ""
+    },
+    {
+     "title": "Parameter type and sequence activity",
+     "start": 149,
+     "end": 149,
+     "summary": ""
+    },
+    {
+     "title": "Numerical verification principles",
+     "start": 150,
+     "end": 150,
+     "summary": ""
+    },
+    {
+     "title": "Dynamics and layer normalisation",
+     "start": 151,
+     "end": 153,
+     "summary": ""
+    }
+   ],
+   "end": 154,
+   "summary": "Splitting M into symmetric and antisymmetric parts.",
+   "terms": [
+    "symmetric-antisymmetric decomposition",
+    "reciprocity",
+    "directionality",
+    "cycle circulation",
+    "directional energy",
+    "asymmetry index"
+   ]
+  },
+  {
+   "title": "5. Post-Softmax Persistence",
+   "start": 155,
+   "sections": [
+    {
+     "title": "Why post-softmax persistence is non-trivial",
+     "start": 155,
+     "end": 155,
+     "summary": ""
+    },
+    {
+     "title": "Related work and positioning",
+     "start": 156,
+     "end": 161,
+     "summary": ""
+    },
+    {
+     "title": "The Antisymmetric Sink Theorem",
+     "start": 162,
+     "end": 163,
+     "summary": ""
+    },
+    {
+     "title": "The Directional Edge Persistence Criterion",
+     "start": 164,
+     "end": 164,
+     "summary": ""
+    },
+    {
+     "title": "Quantitative indices and the four-class taxonomy",
+     "start": 165,
+     "end": 166,
+     "summary": ""
+    },
+    {
+     "title": "Geometric reading of the sink condition",
+     "start": 167,
+     "end": 167,
+     "summary": ""
+    },
+    {
+     "title": "Numerical illustration of the theorems",
+     "start": 167,
+     "end": 171,
+     "summary": ""
+    }
+   ],
+   "end": 178,
+   "summary": "Which pre-softmax structure survives softmax.",
+   "terms": [
+    "attention sinks",
+    "antisymmetric sink theorem",
+    "edge persistence",
+    "taxonomy"
+   ]
+  },
+  {
+   "title": "6. Local Analysis: The Eight Canonical Regimes of Attention",
+   "start": 179,
+   "sections": [
+    {
+     "title": "Local notation",
+     "start": 180,
+     "end": 180,
+     "summary": ""
+    },
+    {
+     "title": "Two classification problems",
+     "start": 181,
+     "end": 181,
+     "summary": ""
+    },
+    {
+     "title": "Prior taxonomies of attention patterns",
+     "start": 182,
+     "end": 186,
+     "summary": ""
+    },
+    {
+     "title": "Unified taxonomy of the eight canonical regimes",
+     "start": 187,
+     "end": 187,
+     "summary": ""
+    },
+    {
+     "title": "Open gate: the identity pattern",
+     "start": 188,
+     "end": 189,
+     "summary": ""
+    },
+    {
+     "title": "Closed gate: the maximal-entropy pattern",
+     "start": 190,
+     "end": 191,
+     "summary": ""
+    },
+    {
+     "title": "Directional gate: the vertical line pattern",
+     "start": 192,
+     "end": 193,
+     "summary": ""
+    },
+    {
+     "title": "Cluster head: the block pattern",
+     "start": 194,
+     "end": 196,
+     "summary": ""
+    },
+    {
+     "title": "Backward contextual gate: the sub-diagonal pattern",
+     "start": 197,
+     "end": 198,
+     "summary": ""
+    },
+    {
+     "title": "Forward contextual gate: the super-diagonal pattern",
+     "start": 199,
+     "end": 200,
+     "summary": ""
+    },
+    {
+     "title": "Instance gate: the pointwise pattern",
+     "start": 201,
+     "end": 201,
+     "summary": ""
+    },
+    {
+     "title": "Inverse directional gate: the horizontal pattern",
+     "start": 202,
+     "end": 202,
+     "summary": ""
+    },
+    {
+     "title": "Pattern composition and linear decomposition",
+     "start": 203,
+     "end": 204,
+     "summary": ""
+    },
+    {
+     "title": "The rank-entropy duality",
+     "start": 205,
+     "end": 206,
+     "summary": ""
+    },
+    {
+     "title": "Relative completeness within the shift-regular grammar",
+     "start": 207,
+     "end": 210,
+     "summary": ""
+    },
+    {
+     "title": "Canonical signatures, projection, and stratification",
+     "start": 211,
+     "end": 220,
+     "summary": ""
+    },
+    {
+     "title": "Pattern emergence: corrected sufficient conditions",
+     "start": 221,
+     "end": 224,
+     "summary": ""
+    },
+    {
+     "title": "Subspace activation and silence: corrected",
+     "start": 225,
+     "end": 227,
+     "summary": ""
+    },
+    {
+     "title": "Minimal replacement statements for the original claims",
+     "start": 228,
+     "end": 230,
+     "summary": ""
+    },
+    {
+     "title": "Synthesis and Handover",
+     "start": 231,
+     "end": 233,
+     "summary": ""
+    }
+   ],
+   "end": 233,
+   "summary": "A taxonomy of eight local attention regimes.",
+   "terms": [
+    "attention patterns",
+    "identity",
+    "uniform",
+    "vertical",
+    "block",
+    "diagonal",
+    "canonical regimes",
+    "pattern completeness"
+   ]
+  },
+  {
+   "title": "7. Global Analysis: Canonical Signatures and Attention Geography",
+   "start": 234,
+   "sections": [
+    {
+     "title": "Signature Geography in BERT",
+     "start": 235,
+     "end": 238,
+     "summary": ""
+    },
+    {
+     "title": "Information Flow Along the Layers",
+     "start": 239,
+     "end": 244,
+     "summary": ""
+    },
+    {
+     "title": "Head-Gauge Symmetry and Channel Non-Identifiability",
+     "start": 245,
+     "end": 247,
+     "summary": ""
+    },
+    {
+     "title": "From local signatures to global geographies",
+     "start": 248,
+     "end": 249,
+     "summary": ""
+    },
+    {
+     "title": "Dictionary coverage recalled",
+     "start": 250,
+     "end": 250,
+     "summary": ""
+    },
+    {
+     "title": "Layer geography",
+     "start": 250,
+     "end": 250,
+     "summary": ""
+    },
+    {
+     "title": "Signature transport across layers",
+     "start": 251,
+     "end": 251,
+     "summary": ""
+    },
+    {
+     "title": "Coarse transition matrices as discretisations",
+     "start": 251,
+     "end": 251,
+     "summary": ""
+    },
+    {
+     "title": "Global observables",
+     "start": 251,
+     "end": 252,
+     "summary": ""
+    },
+    {
+     "title": "Residual amplification and perturbation bounds",
+     "start": 253,
+     "end": 253,
+     "summary": ""
+    },
+    {
+     "title": "Data-dependent Jacobian control",
+     "start": 254,
+     "end": 254,
+     "summary": ""
+    },
+    {
+     "title": "Activation across depth",
+     "start": 255,
+     "end": 255,
+     "summary": ""
+    },
+    {
+     "title": "The all-closed locus",
+     "start": 256,
+     "end": 256,
+     "summary": ""
+    },
+    {
+     "title": "Linearised softmax at the closed locus",
+     "start": 257,
+     "end": 257,
+     "summary": ""
+    },
+    {
+     "title": "Saddle escape and projected signatures",
+     "start": 257,
+     "end": 257,
+     "summary": ""
+    },
+    {
+     "title": "Finite-noise selection",
+     "start": 258,
+     "end": 258,
+     "summary": ""
+    },
+    {
+     "title": "Łojasiewicz convergence and signatures",
+     "start": 259,
+     "end": 259,
+     "summary": ""
+    },
+    {
+     "title": "Layer-coupled structural stability",
+     "start": 259,
+     "end": 259,
+     "summary": ""
+    },
+    {
+     "title": "Empirical validation: BERT-small from scratch",
+     "start": 260,
+     "end": 260,
+     "summary": ""
+    },
+    {
+     "title": "Task dependence of geography",
+     "start": 260,
+     "end": 260,
+     "summary": ""
+    },
+    {
+     "title": "Why backpropagation? A Roberts–Yaida–Hanin perspective",
+     "start": 261,
+     "end": 261,
+     "summary": ""
+    },
+    {
+     "title": "Signature geography as mesoscopic state space",
+     "start": 262,
+     "end": 262,
+     "summary": ""
+    },
+    {
+     "title": "Exploiting attention geography",
+     "start": 262,
+     "end": 264,
+     "summary": ""
+    },
+    {
+     "title": "Replacement map for the old theorems",
+     "start": 265,
+     "end": 265,
+     "summary": ""
+    },
+    {
+     "title": "Hypotheses table",
+     "start": 265,
+     "end": 267,
+     "summary": ""
+    },
+    {
+     "title": "Synthesis",
+     "start": 268,
+     "end": 268,
+     "summary": ""
+    },
+    {
+     "title": "Interpreting the C1–C4 geography",
+     "start": 268,
+     "end": 268,
+     "summary": ""
+    },
+    {
+     "title": "Conjectures and empirical hypotheses",
+     "start": 269,
+     "end": 269,
+     "summary": ""
+    },
+    {
+     "title": "Extended empirical protocol for signature geography",
+     "start": 270,
+     "end": 270,
+     "summary": ""
+    },
+    {
+     "title": "Model comparison",
+     "start": 271,
+     "end": 271,
+     "summary": ""
+    },
+    {
+     "title": "Signature-aware pruning",
+     "start": 272,
+     "end": 272,
+     "summary": ""
+    },
+    {
+     "title": "Distribution shift and robustness",
+     "start": 272,
+     "end": 272,
+     "summary": ""
+    },
+    {
+     "title": "Detailed experimental design for future chapters",
+     "start": 273,
+     "end": 273,
+     "summary": ""
+    },
+    {
+     "title": "Dictionary expansion",
+     "start": 274,
+     "end": 274,
+     "summary": ""
+    },
+    {
+     "title": "Examples of possible missing regimes",
+     "start": 275,
+     "end": 275,
+     "summary": ""
+    },
+    {
+     "title": "Dependency map for later chapters",
+     "start": 275,
+     "end": 275,
+     "summary": ""
+    },
+    {
+     "title": "Metric and transport geometry of signatures",
+     "start": 276,
+     "end": 278,
+     "summary": ""
+    },
+    {
+     "title": "Training-path geometry in signature space",
+     "start": 279,
+     "end": 279,
+     "summary": ""
+    },
+    {
+     "title": "Canonical replacement and dictionary fidelity",
+     "start": 280,
+     "end": 281,
+     "summary": ""
+    },
+    {
+     "title": "Open programme: mean-field geography",
+     "start": 282,
+     "end": 282,
+     "summary": ""
+    },
+    {
+     "title": "A rejected direction: sheaves over the input space",
+     "start": 283,
+     "end": 283,
+     "summary": ""
+    }
+   ],
+   "end": 284,
+   "summary": "Global signature geographies across layers.",
+   "terms": [
+    "signature geography",
+    "layer geography",
+    "head-gauge symmetry",
+    "transport",
+    "transition matrices"
+   ]
+  },
+  {
+   "title": "8. Signature Re-Extraction and Global Information Flow",
+   "start": 285,
+   "sections": [
+    {
+     "title": "From signature geography to information flow",
+     "start": 286,
+     "end": 287,
+     "summary": ""
+    },
+    {
+     "title": "Head-gauge symmetry and parametrisation non-identifiability",
+     "start": 288,
+     "end": 288,
+     "summary": ""
+    },
+    {
+     "title": "Algebraic form of the residual block",
+     "start": 289,
+     "end": 292,
+     "summary": ""
+    },
+    {
+     "title": "The cost of re-extraction",
+     "start": 293,
+     "end": 293,
+     "summary": ""
+    },
+    {
+     "title": "Transport between layer geographies",
+     "start": 293,
+     "end": 294,
+     "summary": ""
+    },
+    {
+     "title": "Transport diagnostics for global information flow",
+     "start": 295,
+     "end": 296,
+     "summary": ""
+    },
+    {
+     "title": "Cone geometry, singular alignment, and entropy control",
+     "start": 297,
+     "end": 297,
+     "summary": ""
+    },
+    {
+     "title": "Margin–entropy control",
+     "start": 298,
+     "end": 298,
+     "summary": ""
+    },
+    {
+     "title": "Conditional entropy proxy decay",
+     "start": 299,
+     "end": 299,
+     "summary": ""
+    },
+    {
+     "title": "Compatibility profiles and transition layers",
+     "start": 300,
+     "end": 300,
+     "summary": ""
+    },
+    {
+     "title": "Compatibility bounds behind the profile",
+     "start": 301,
+     "end": 302,
+     "summary": ""
+    },
+    {
+     "title": "A conditional compatibility theorem",
+     "start": 303,
+     "end": 303,
+     "summary": ""
+    },
+    {
+     "title": "Projecting the compatibility profile onto signature space",
+     "start": 304,
+     "end": 304,
+     "summary": ""
+    },
+    {
+     "title": "Small explanatory experiments",
+     "start": 305,
+     "end": 305,
+     "summary": ""
+    },
+    {
+     "title": "Empirical protocol for a real model",
+     "start": 306,
+     "end": 306,
+     "summary": ""
+    },
+    {
+     "title": "Worked finite-head transport example",
+     "start": 307,
+     "end": 307,
+     "summary": ""
+    },
+    {
+     "title": "Reinterpretation of the older diagnostic figures",
+     "start": 308,
+     "end": 308,
+     "summary": ""
+    },
+    {
+     "title": "Re-extraction, redundancy, and design implications",
+     "start": 309,
+     "end": 309,
+     "summary": ""
+    },
+    {
+     "title": "Synthesis",
+     "start": 309,
+     "end": 309,
+     "summary": ""
+    },
+    {
+     "title": "Interfaces with Subsequent Chapters",
+     "start": 310,
+     "end": 311,
+     "summary": ""
+    }
+   ],
+   "end": 311,
+   "summary": "Information flow and re-extraction of signatures.",
+   "terms": [
+    "residual block",
+    "re-extraction cost",
+    "transport diagnostics",
+    "singular alignment"
+   ]
+  },
+  {
+   "title": "9. Motor Formalism for Signature Dynamics",
+   "start": 312,
+   "sections": [
+    {
+     "title": "Definition and taxonomy of motors",
+     "start": 313,
+     "end": 313,
+     "summary": ""
+    },
+    {
+     "title": "Related work: the surrounding landscape",
+     "start": 314,
+     "end": 316,
+     "summary": ""
+    },
+    {
+     "title": "The masked-language-model head as primary signal motor",
+     "start": 317,
+     "end": 317,
+     "summary": ""
+    },
+    {
+     "title": "The computational graph of one BERT encoder block",
+     "start": 318,
+     "end": 319,
+     "summary": ""
+    },
+    {
+     "title": "Differential anatomy of a BERT block",
+     "start": 320,
+     "end": 320,
+     "summary": ""
+    },
+    {
+     "title": "The feed-forward block as a gated motor transformer",
+     "start": 320,
+     "end": 320,
+     "summary": ""
+    },
+    {
+     "title": "LayerNorm as a structural motor",
+     "start": 321,
+     "end": 322,
+     "summary": ""
+    },
+    {
+     "title": "Self-attention: convex value path and simplex motor",
+     "start": 323,
+     "end": 323,
+     "summary": ""
+    },
+    {
+     "title": "Backpropagation through value, score, query, and key paths",
+     "start": 324,
+     "end": 324,
+     "summary": ""
+    },
+    {
+     "title": "Headwise motor decomposition",
+     "start": 325,
+     "end": 325,
+     "summary": ""
+    },
+    {
+     "title": "Block-level motor synthesis",
+     "start": 325,
+     "end": 325,
+     "summary": ""
+    },
+    {
+     "title": "Motor recursion across stacked blocks",
+     "start": 326,
+     "end": 326,
+     "summary": ""
+    },
+    {
+     "title": "Residual-path approximation",
+     "start": 327,
+     "end": 327,
+     "summary": ""
+    },
+    {
+     "title": "Canonical QK-pair motors and signature variation",
+     "start": 328,
+     "end": 328,
+     "summary": ""
+    },
+    {
+     "title": "Symmetric–antisymmetric score motors",
+     "start": 329,
+     "end": 329,
+     "summary": ""
+    },
+    {
+     "title": "Global S–A pattern maps in the BERT/SARS case study",
+     "start": 330,
+     "end": 331,
+     "summary": ""
+    },
+    {
+     "title": "From S–A maps to signature dynamics",
+     "start": 332,
+     "end": 333,
+     "summary": ""
+    },
+    {
+     "title": "Low-rank local motors",
+     "start": 334,
+     "end": 334,
+     "summary": ""
+    },
+    {
+     "title": "Low-rank batch motors",
+     "start": 334,
+     "end": 334,
+     "summary": ""
+    },
+    {
+     "title": "Motor observables and small experiments",
+     "start": 335,
+     "end": 335,
+     "summary": ""
+    },
+    {
+     "title": "Anisotropy invariant of the value-path motor",
+     "start": 336,
+     "end": 336,
+     "summary": ""
+    },
+    {
+     "title": "Motor anisotropy invariants",
+     "start": 337,
+     "end": 337,
+     "summary": ""
+    },
+    {
+     "title": "Cone- and anisotropy-stratified motor bounds",
+     "start": 338,
+     "end": 338,
+     "summary": ""
+    },
+    {
+     "title": "Interface with the next chapters",
+     "start": 339,
+     "end": 339,
+     "summary": ""
+    },
+    {
+     "title": "Scope and limitations",
+     "start": 340,
+     "end": 340,
+     "summary": ""
+    }
+   ],
+   "end": 341,
+   "summary": "Motors: a formalism for forward and backward dynamics.",
+   "terms": [
+    "motors",
+    "MLM head",
+    "computational graph",
+    "feed-forward as gated motor",
+    "LayerNorm"
+   ]
+  },
+  {
+   "title": "10. Self-Attention Motor Decomposition",
+   "start": 342,
+   "sections": [
+    {
+     "title": "Inputs and outputs of the chapter",
+     "start": 343,
+     "end": 343,
+     "summary": ""
+    },
+    {
+     "title": "The gauge-canonical QK pair",
+     "start": 343,
+     "end": 343,
+     "summary": ""
+    },
+    {
+     "title": "Symmetric–antisymmetric decomposition",
+     "start": 344,
+     "end": 344,
+     "summary": ""
+    },
+    {
+     "title": "Forward score geometry",
+     "start": 344,
+     "end": 344,
+     "summary": ""
+    },
+    {
+     "title": "Interpretation of symmetric and antisymmetric motors",
+     "start": 345,
+     "end": 345,
+     "summary": ""
+    },
+    {
+     "title": "Softmax response and tangent decomposition",
+     "start": 346,
+     "end": 346,
+     "summary": ""
+    },
+    {
+     "title": "Backward score motor and adjoint S–A split",
+     "start": 347,
+     "end": 347,
+     "summary": ""
+    },
+    {
+     "title": "S–A signature velocity",
+     "start": 348,
+     "end": 348,
+     "summary": ""
+    },
+    {
+     "title": "Two-flow dynamics of the S–A decomposition",
+     "start": 349,
+     "end": 352,
+     "summary": ""
+    },
+    {
+     "title": "The S–A/signature diagnostic",
+     "start": 353,
+     "end": 353,
+     "summary": ""
+    },
+    {
+     "title": "BERT/SARS S–A maps revisited",
+     "start": 354,
+     "end": 355,
+     "summary": ""
+    },
+    {
+     "title": "Detailed reading of the SARS v8 trace",
+     "start": 356,
+     "end": 357,
+     "summary": ""
+    },
+    {
+     "title": "S–A interventions",
+     "start": 358,
+     "end": 359,
+     "summary": ""
+    },
+    {
+     "title": "S–A redundancy and crowding",
+     "start": 360,
+     "end": 360,
+     "summary": ""
+    },
+    {
+     "title": "Empirical status of the SARS v8 proof-of-mechanism run",
+     "start": 360,
+     "end": 361,
+     "summary": ""
+    },
+    {
+     "title": "Synthesis",
+     "start": 362,
+     "end": 363,
+     "summary": ""
+    }
+   ],
+   "end": 364,
+   "summary": "Motor decomposition of self-attention.",
+   "terms": [
+    "QK pair",
+    "gauge-canonical",
+    "forward score geometry",
+    "softmax tangent",
+    "backward motor",
+    "signature velocity"
+   ]
+  },
+  {
+   "title": "11. Signature Orbits and Training Dynamics",
+   "start": 365,
+   "sections": [
+    {
+     "title": "Signature Orbits: The Training-Time Object",
+     "start": 366,
+     "end": 366,
+     "summary": ""
+    },
+    {
+     "title": "Saturation, Slack Tightening, and Two-Flow Propagation",
+     "start": 367,
+     "end": 367,
+     "summary": ""
+    },
+    {
+     "title": "Empirical Orbit Atlas: Two SARS Training Traces",
+     "start": 367,
+     "end": 372,
+     "summary": ""
+    },
+    {
+     "title": "The Layer-Wise View: Setup and Observables",
+     "start": 373,
+     "end": 373,
+     "summary": ""
+    },
+    {
+     "title": "The Trajectory of Ma(h,l) in so(d)",
+     "start": 374,
+     "end": 381,
+     "summary": ""
+    },
+    {
+     "title": "Emergence of the S–A Canonical Map from Random Initialisation",
+     "start": 382,
+     "end": 386,
+     "summary": ""
+    },
+    {
+     "title": "The Residual Amplification Mechanism",
+     "start": 387,
+     "end": 389,
+     "summary": ""
+    },
+    {
+     "title": "Layer Rank Decay and the Channel Destruction Cascade",
+     "start": 390,
+     "end": 390,
+     "summary": ""
+    },
+    {
+     "title": "Residual Directional Energy: Definition and Properties",
+     "start": 391,
+     "end": 395,
+     "summary": ""
+    },
+    {
+     "title": "Many Small Heads vs One Large Head: a Computational Analysis",
+     "start": 396,
+     "end": 399,
+     "summary": ""
+    },
+    {
+     "title": "Empirical Predictions",
+     "start": 400,
+     "end": 401,
+     "summary": ""
+    },
+    {
+     "title": "The Coherence Chain Revisited: A Causal Reading",
+     "start": 402,
+     "end": 403,
+     "summary": ""
+    },
+    {
+     "title": "Experimental Validation (Exp. 1–9)",
+     "start": 404,
+     "end": 406,
+     "summary": ""
+    },
+    {
+     "title": "Proofs",
+     "start": 408,
+     "end": 412,
+     "summary": ""
+    }
+   ],
+   "end": 414,
+   "summary": "How signatures form during training.",
+   "terms": [
+    "signature orbits",
+    "saturation",
+    "two-flow propagation",
+    "training traces",
+    "so(d) trajectories",
+    "emergence from initialization"
+   ]
+  },
+  {
+   "title": "12. Sharpness, Activation, and Silence",
+   "start": 415,
+   "sections": [
+    {
+     "title": "From orbits to emergence",
+     "start": 415,
+     "end": 415,
+     "summary": ""
+    },
+    {
+     "title": "Sharpness of pattern emergence",
+     "start": 416,
+     "end": 424,
+     "summary": ""
+    },
+    {
+     "title": "The activation operator",
+     "start": 425,
+     "end": 428,
+     "summary": ""
+    },
+    {
+     "title": "The silence criterion",
+     "start": 429,
+     "end": 432,
+     "summary": ""
+    },
+    {
+     "title": "Subspace activation and eigenplanes",
+     "start": 433,
+     "end": 436,
+     "summary": ""
+    },
+    {
+     "title": "Antisymmetric inevitability for oriented tasks",
+     "start": 437,
+     "end": 444,
+     "summary": ""
+    },
+    {
+     "title": "Possible extensions",
+     "start": 445,
+     "end": 450,
+     "summary": ""
+    },
+    {
+     "title": "Synthesis and Handover",
+     "start": 451,
+     "end": 453,
+     "summary": ""
+    }
+   ],
+   "end": 453,
+   "summary": "When patterns sharpen, activate or fall silent.",
+   "terms": [
+    "sharpness",
+    "activation operator",
+    "silence criterion",
+    "eigenplanes",
+    "antisymmetric inevitability"
+   ]
+  },
+  {
+   "title": "13. Redundancy and Design Principles",
+   "start": 454,
+   "sections": [
+    {
+     "title": "From activation to marginal value",
+     "start": 454,
+     "end": 455,
+     "summary": ""
+    },
+    {
+     "title": "Three notions of redundancy",
+     "start": 456,
+     "end": 458,
+     "summary": ""
+    },
+    {
+     "title": "Functional redundancy and silence",
+     "start": 459,
+     "end": 460,
+     "summary": ""
+    },
+    {
+     "title": "Orbit crowding",
+     "start": 461,
+     "end": 463,
+     "summary": ""
+    },
+    {
+     "title": "Marginal value of a head",
+     "start": 464,
+     "end": 482,
+     "summary": ""
+    },
+    {
+     "title": "A hierarchy of redundancies",
+     "start": 483,
+     "end": 484,
+     "summary": ""
+    },
+    {
+     "title": "Dictionary-geometric framework",
+     "start": 485,
+     "end": 488,
+     "summary": ""
+    },
+    {
+     "title": "Self-sufficiency and feed-forward width",
+     "start": 489,
+     "end": 491,
+     "summary": ""
+    },
+    {
+     "title": "Six design principles",
+     "start": 492,
+     "end": 495,
+     "summary": ""
+    },
+    {
+     "title": "A training criterion for pruning, compression, and growth",
+     "start": 496,
+     "end": 498,
+     "summary": ""
+    },
+    {
+     "title": "Bridge to the rationalised transformer",
+     "start": 499,
+     "end": 499,
+     "summary": ""
+    },
+    {
+     "title": "Synthesis and Outlook",
+     "start": 500,
+     "end": 504,
+     "summary": ""
+    }
+   ],
+   "end": 504,
+   "summary": "Redundant heads and design principles.",
+   "terms": [
+    "redundancy",
+    "orbit crowding",
+    "marginal value of a head",
+    "self-sufficiency",
+    "feed-forward width",
+    "design principles"
+   ]
+  },
+  {
+   "title": "14. The Rationalised Transformer",
+   "start": 505,
+   "sections": [
+    {
+     "title": "Why MHA+MLP is not rationalised",
+     "start": 505,
+     "end": 506,
+     "summary": ""
+    },
+    {
+     "title": "Design requirements",
+     "start": 507,
+     "end": 508,
+     "summary": ""
+    },
+    {
+     "title": "The Rationalised Transformer block",
+     "start": 509,
+     "end": 511,
+     "summary": ""
+    },
+    {
+     "title": "Separate symmetric and antisymmetric update channels",
+     "start": 512,
+     "end": 513,
+     "summary": ""
+    },
+    {
+     "title": "Parameter and FLOP accounting",
+     "start": 514,
+     "end": 515,
+     "summary": ""
+    },
+    {
+     "title": "Universality and subsumption claims",
+     "start": 516,
+     "end": 517,
+     "summary": ""
+    },
+    {
+     "title": "Static control of the signature geography",
+     "start": 518,
+     "end": 521,
+     "summary": ""
+    },
+    {
+     "title": "A concrete static design recipe",
+     "start": 522,
+     "end": 523,
+     "summary": ""
+    },
+    {
+     "title": "Comparison with the standard block",
+     "start": 524,
+     "end": 525,
+     "summary": ""
+    },
+    {
+     "title": "A static programming interface for Transformer design",
+     "start": 526,
+     "end": 528,
+     "summary": ""
+    },
+    {
+     "title": "Fixed-position channel intervention experiment",
+     "start": 529,
+     "end": 532,
+     "summary": ""
+    },
+    {
+     "title": "Minimal empirical illustrations",
+     "start": 533,
+     "end": 536,
+     "summary": ""
+    },
+    {
+     "title": "Implementation variants and safeguards",
+     "start": 537,
+     "end": 540,
+     "summary": ""
+    },
+    {
+     "title": "Resolution of the architectural degrees of freedom",
+     "start": 541,
+     "end": 542,
+     "summary": ""
+    },
+    {
+     "title": "Bridge to INCRT",
+     "start": 543,
+     "end": 546,
+     "summary": ""
+    }
+   ],
+   "end": 546,
+   "summary": "A redesigned “rationalised” Transformer block.",
+   "terms": [
+    "rationalised transformer",
+    "separate symmetric/antisymmetric channels",
+    "FLOPs",
+    "universality",
+    "static design"
+   ]
+  },
+  {
+   "title": "15. INCRT I: From Static Rationalisation to Incremental Growth",
+   "start": 547,
+   "sections": [
+    {
+     "title": "From static rationalisation to incremental growth",
+     "start": 547,
+     "end": 547,
+     "summary": ""
+    },
+    {
+     "title": "The original INCRT as an operational principle",
+     "start": 548,
+     "end": 548,
+     "summary": ""
+    },
+    {
+     "title": "Dynamic variables",
+     "start": 548,
+     "end": 549,
+     "summary": ""
+    },
+    {
+     "title": "Visual summary of the core controller",
+     "start": 550,
+     "end": 550,
+     "summary": ""
+    },
+    {
+     "title": "The INCRT state",
+     "start": 551,
+     "end": 551,
+     "summary": ""
+    },
+    {
+     "title": "From diagnostics to architectural events",
+     "start": 552,
+     "end": 552,
+     "summary": ""
+    },
+    {
+     "title": "Growth, tracking, preservation, and termination",
+     "start": 552,
+     "end": 554,
+     "summary": ""
+    },
+    {
+     "title": "Stability of diagnostic estimates",
+     "start": 555,
+     "end": 555,
+     "summary": ""
+    },
+    {
+     "title": "Coverage residual decrease under growth",
+     "start": 556,
+     "end": 556,
+     "summary": ""
+    },
+    {
+     "title": "Directional-tail preservation",
+     "start": 557,
+     "end": 557,
+     "summary": ""
+    },
+    {
+     "title": "Finite termination",
+     "start": 557,
+     "end": 557,
+     "summary": ""
+    },
+    {
+     "title": "Why the four dynamic hypotheses are sufficient",
+     "start": 558,
+     "end": 558,
+     "summary": ""
+    },
+    {
+     "title": "Alignment with training criteria",
+     "start": 558,
+     "end": 558,
+     "summary": ""
+    },
+    {
+     "title": "Recovered core mechanisms from the original INCRT",
+     "start": 559,
+     "end": 560,
+     "summary": ""
+    },
+    {
+     "title": "Growth criteria",
+     "start": 561,
+     "end": 561,
+     "summary": ""
+    },
+    {
+     "title": "Directional task complexity and minimal head count",
+     "start": 562,
+     "end": 562,
+     "summary": ""
+    },
+    {
+     "title": "Convergence and homeostatic stability",
+     "start": 563,
+     "end": 563,
+     "summary": ""
+    },
+    {
+     "title": "Initialisation and knowledge preservation",
+     "start": 564,
+     "end": 564,
+     "summary": ""
+    },
+    {
+     "title": "A complete core algorithm",
+     "start": 565,
+     "end": 565,
+     "summary": ""
+    },
+    {
+     "title": "Worked four-dimensional example",
+     "start": 566,
+     "end": 566,
+     "summary": ""
+    },
+    {
+     "title": "What INCRT is not",
+     "start": 566,
+     "end": 567,
+     "summary": ""
+    },
+    {
+     "title": "Lyapunov proof sketch for the core controller",
+     "start": 568,
+     "end": 568,
+     "summary": ""
+    },
+    {
+     "title": "Implementation-level event templates",
+     "start": 568,
+     "end": 568,
+     "summary": ""
+    },
+    {
+     "title": "Monitoring windows and two-time-scale operation",
+     "start": 569,
+     "end": 569,
+     "summary": ""
+    },
+    {
+     "title": "Core relationship with training dynamics",
+     "start": 570,
+     "end": 570,
+     "summary": ""
+    },
+    {
+     "title": "Failure-mode case studies",
+     "start": 571,
+     "end": 571,
+     "summary": ""
+    },
+    {
+     "title": "Balance with INCRT II",
+     "start": 571,
+     "end": 571,
+     "summary": ""
+    },
+    {
+     "title": "Geometric picture of the incremental cycle",
+     "start": 572,
+     "end": 572,
+     "summary": ""
+    },
+    {
+     "title": "Phases of an INCRT trajectory",
+     "start": 573,
+     "end": 573,
+     "summary": ""
+    },
+    {
+     "title": "Synthesis of the core chapter",
+     "start": 573,
+     "end": 573,
+     "summary": ""
+    },
+    {
+     "title": "The core INCRT block",
+     "start": 574,
+     "end": 574,
+     "summary": ""
+    },
+    {
+     "title": "The dynamic programming interface",
+     "start": 574,
+     "end": 574,
+     "summary": ""
+    },
+    {
+     "title": "Minimal empirical illustration",
+     "start": 575,
+     "end": 576,
+     "summary": ""
+    },
+    {
+     "title": "Implementation of growth events",
+     "start": 577,
+     "end": 578,
+     "summary": ""
+    },
+    {
+     "title": "Safeguards against dynamic failure modes",
+     "start": 579,
+     "end": 580,
+     "summary": ""
+    },
+    {
+     "title": "Calibration of the dynamic controller",
+     "start": 581,
+     "end": 582,
+     "summary": ""
+    },
+    {
+     "title": "A toy trajectory",
+     "start": 583,
+     "end": 583,
+     "summary": ""
+    },
+    {
+     "title": "A worked single-layer growth calculation",
+     "start": 584,
+     "end": 584,
+     "summary": ""
+    },
+    {
+     "title": "Core empirical protocol",
+     "start": 585,
+     "end": 585,
+     "summary": ""
+    },
+    {
+     "title": "What is deferred to INCRT II",
+     "start": 585,
+     "end": 585,
+     "summary": ""
+    },
+    {
+     "title": "Relationship with the original INCRT formulation",
+     "start": 585,
+     "end": 585,
+     "summary": ""
+    },
+    {
+     "title": "Implementation checklist for a programmer",
+     "start": 586,
+     "end": 586,
+     "summary": ""
+    },
+    {
+     "title": "Remaining conditional points inside the core chapter",
+     "start": 587,
+     "end": 587,
+     "summary": ""
+    },
+    {
+     "title": "From scalar residual diagnostics to signed residual geometry",
+     "start": 588,
+     "end": 591,
+     "summary": ""
+    }
+   ],
+   "end": 592,
+   "summary": "Growing a Transformer incrementally (INCRT I).",
+   "terms": [
+    "INCRT",
+    "incremental growth",
+    "controller",
+    "architectural events",
+    "stability"
+   ]
+  },
+  {
+   "title": "16. INCRT II: Extensions, Guarantees, and Applications",
+   "start": 593,
+   "sections": [
+    {
+     "title": "Role of the second INCRT chapter",
+     "start": 593,
+     "end": 593,
+     "summary": ""
+    },
+    {
+     "title": "Static notation",
+     "start": 594,
+     "end": 594,
+     "summary": ""
+    },
+    {
+     "title": "The compressed-sensing bound",
+     "start": 595,
+     "end": 597,
+     "summary": ""
+    },
+    {
+     "title": "The three-level framework",
+     "start": 598,
+     "end": 607,
+     "summary": ""
+    },
+    {
+     "title": "Persistent task drift and homeostatic equilibrium",
+     "start": 608,
+     "end": 613,
+     "summary": ""
+    },
+    {
+     "title": "Input-conditional task complexity and the optimal expert count",
+     "start": 614,
+     "end": 617,
+     "summary": ""
+    },
+    {
+     "title": "Architectural transfer between related tasks",
+     "start": 618,
+     "end": 620,
+     "summary": ""
+    },
+    {
+     "title": "Adaptive optimisers and the preconditioned gate",
+     "start": 621,
+     "end": 624,
+     "summary": ""
+    },
+    {
+     "title": "PAC guarantees for architecture selection",
+     "start": 625,
+     "end": 627,
+     "summary": ""
+    },
+    {
+     "title": "Beyond orthogonal deflation",
+     "start": 628,
+     "end": 629,
+     "summary": ""
+    },
+    {
+     "title": "Single-time-scale dynamics and Polyak–Ruppert recovery",
+     "start": 630,
+     "end": 634,
+     "summary": ""
+    },
+    {
+     "title": "Indefinite task operators and the signed compressed-sensing bound",
+     "start": 635,
+     "end": 638,
+     "summary": ""
+    },
+    {
+     "title": "Signed spectral stabilisation and INCRT as architecture initialisation",
+     "start": 639,
+     "end": 649,
+     "summary": ""
+    },
+    {
+     "title": "Rank-adaptive heads and the count–rank invariant",
+     "start": 650,
+     "end": 656,
+     "summary": ""
+    },
+    {
+     "title": "Identifiability of the head decomposition",
+     "start": 657,
+     "end": 661,
+     "summary": ""
+    },
+    {
+     "title": "Deployment constraints: minimum budget and quantisation",
+     "start": 662,
+     "end": 668,
+     "summary": ""
+    },
+    {
+     "title": "In-context learning and implicit task estimation",
+     "start": 669,
+     "end": 673,
+     "summary": ""
+    },
+    {
+     "title": "Diffusion models and the time-conditional task family",
+     "start": 674,
+     "end": 679,
+     "summary": ""
+    },
+    {
+     "title": "Conjectures exported to Volume II",
+     "start": 680,
+     "end": 680,
+     "summary": ""
+    }
+   ],
+   "end": 681,
+   "summary": "INCRT extensions and guarantees.",
+   "terms": [
+    "compressed sensing bound",
+    "task drift",
+    "mixture of experts",
+    "architectural transfer",
+    "optimizers"
+   ]
+  },
+  {
+   "title": "17. Spectral Gate Dynamics: Degeneracy Regimes and the Unified Gate",
+   "start": 682,
+   "sections": [
+    {
+     "title": "From continuous time to finite arithmetic",
+     "start": 682,
+     "end": 684,
+     "summary": ""
+    },
+    {
+     "title": "Numerical analysis of the bidirectional gate",
+     "start": 685,
+     "end": 689,
+     "summary": ""
+    },
+    {
+     "title": "Three regimes of spectral degeneracy",
+     "start": 690,
+     "end": 695,
+     "summary": ""
+    },
+    {
+     "title": "Classical spectral methods revisited",
+     "start": 696,
+     "end": 702,
+     "summary": ""
+    },
+    {
+     "title": "A unified gate",
+     "start": 703,
+     "end": 709,
+     "summary": ""
+    },
+    {
+     "title": "Implications, worked examples, and bridge to MHB-G",
+     "start": 710,
+     "end": 719,
+     "summary": ""
+    },
+    {
+     "title": "Towards an optimiser-aware spectral gate",
+     "start": 720,
+     "end": 722,
+     "summary": ""
+    }
+   ],
+   "end": 725,
+   "summary": "Spectral gate dynamics.",
+   "terms": [
+    "spectral degeneracy",
+    "bidirectional gate",
+    "finite precision",
+    "unified gate"
+   ]
+  },
+  {
+   "title": "18. Experimental Validation",
+   "start": 726,
+   "sections": [
+    {
+     "title": "Signed-INCRT stabilisation regime: cross-task validation",
+     "start": 726,
+     "end": 732,
+     "summary": ""
+    },
+    {
+     "title": "Self-architecting MLM pretraining on a reference proteome",
+     "start": 733,
+     "end": 742,
+     "summary": ""
+    },
+    {
+     "title": "Self-architecting attention for Euler–Lagrange control",
+     "start": 743,
+     "end": 751,
+     "summary": ""
+    },
+    {
+     "title": "Self-architecting prototypes for inverse design of geopolymers",
+     "start": 752,
+     "end": 761,
+     "summary": ""
+    }
+   ],
+   "end": 762,
+   "summary": "Experiments.",
+   "terms": [
+    "cross-task validation",
+    "proteome MLM pretraining",
+    "Euler-Lagrange control",
+    "geopolymer inverse design"
+   ]
+  },
+  {
+   "title": "19. Anchored Multi-Head Bilinear Gating: The Recommended Architecture",
+   "start": 763,
+   "sections": [
+    {
+     "title": "Design tensions identified in this monograph",
+     "start": 763,
+     "end": 763,
+     "summary": ""
+    },
+    {
+     "title": "The synthesis question",
+     "start": 764,
+     "end": 765,
+     "summary": ""
+    },
+    {
+     "title": "The Multi-Head Bilinear Gated layer",
+     "start": 766,
+     "end": 770,
+     "summary": ""
+    },
+    {
+     "title": "Symmetry audit of MHB-G and A-MHB-G",
+     "start": 771,
+     "end": 773,
+     "summary": ""
+    },
+    {
+     "title": "Parameter and FLOPs analysis",
+     "start": 774,
+     "end": 775,
+     "summary": ""
+    },
+    {
+     "title": "INCRT-compatible growth of A-MHB-G",
+     "start": 776,
+     "end": 780,
+     "summary": ""
+    },
+    {
+     "title": "Variants that close residual design questions",
+     "start": 781,
+     "end": 781,
+     "summary": ""
+    },
+    {
+     "title": "Related work and position vs SOTA",
+     "start": 782,
+     "end": 783,
+     "summary": ""
+    },
+    {
+     "title": "Empirical illustration",
+     "start": 784,
+     "end": 786,
+     "summary": ""
+    },
+    {
+     "title": "Resolved design issues and residual questions",
+     "start": 787,
+     "end": 788,
+     "summary": ""
+    },
+    {
+     "title": "From incremental growth to spectral architecture design",
+     "start": 789,
+     "end": 789,
+     "summary": ""
+    }
+   ],
+   "end": 791,
+   "summary": "The recommended A-MHB-G architecture.",
+   "terms": [
+    "multi-head bilinear gating",
+    "symmetry audit",
+    "parameter analysis",
+    "INCRT-compatible growth"
+   ]
+  }
+ ],
+ "title": "Mathematical Theory of the Transformer, Volume I: Foundations, Rationality, and the Incremental Transformer",
+ "byline": "Giansalvo Cirrincione · manuscript prepared for MIT Press, 15 May 2026 (Zenodo DOI 10.5281/zenodo.20199413)",
+ "note": "A research monograph with very fine sectioning, so summaries and terms are given per chapter; each section is listed with its PDF page range. Concluding-remarks sections and the four appendices (mathematical background, notation, experimental pipeline, Schatten deflation) are not broken out. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "A mathematical theory of the Transformer’s attention mechanism, built around the bilinear score matrix M = W_Q W_Kᵀ and its split into symmetric and antisymmetric parts. After setting up embeddings, positional encoding, layer norm, multi-head attention and BERT (with a SARS-CoV-2 classification case study), it proves results about reciprocity, directionality and post-softmax persistence, classifies attention heads into eight canonical local regimes and global “signature geographies”, and models information flow with a motor formalism of forward and backward dynamics. It studies how signatures emerge during training (orbits, sharpness, activation, silence), defines notions of head redundancy and design principles, and proposes a “Rationalised Transformer” and an incremental growth controller (INCRT) with guarantees, spectral gate analysis, experiments on proteomes, control and materials design, and a recommended anchored multi-head bilinear gated (A-MHB-G) architecture."
+}

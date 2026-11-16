@@ -526,5 +526,29 @@
   "The Science of Functional Programming",
   "Sergei Winitzki",
   "FP derived by symbolic reasoning in Scala: Curry-Howard, functors, monads, applicatives, free constructions, transformers."
+ ],
+ [
+  "cirrincione-mathematical-theory-of-the-transformer",
+  "gians",
+  "AI and Machine Learning",
+  "Mathematical Theory of the Transformer, Vol. I",
+  "Giansalvo Cirrincione",
+  "Attention via the bilinear score matrix: symmetric/antisymmetric split, head taxonomies, training dynamics, INCRT growth."
+ ],
+ [
+  "bayro-corrochano-geometric-algebra-applications-1",
+  "bayro",
+  "Mathematics",
+  "Geometric Algebra Applications, Vol. I",
+  "Eduardo Bayro-Corrochano",
+  "Clifford algebra for vision, graphics and neurocomputing: calculus, Lie groups, conformal GA, transforms, applications."
+ ],
+ [
+  "bleaney-electricity-and-magnetism",
+  "bleaney",
+  "Physics and Engineering",
+  "Electricity and Magnetism (2nd ed.)",
+  "B. I. Bleaney and B. Bleaney",
+  "Classic Oxford text: fields, circuits, waves, waveguides, tubes, noise, dielectrics, metals, semiconductors, magnetism, NMR."
  ]
 ]

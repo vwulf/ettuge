@@ -1,0 +1,1436 @@
+{
+ "url": "https://drive.google.com/file/d/13RdUiUXLRhWm5J58lWt12D9adNhzyFsr/view",
+ "chapters": [
+  {
+   "title": "1. Electrostatics I",
+   "start": 14,
+   "end": 45,
+   "sections": [
+    {
+     "title": "1.1 The electrical nature of matter",
+     "start": 14,
+     "end": 15,
+     "summary": ""
+    },
+    {
+     "title": "1.2 Coulomb's law and fundamental definitions",
+     "start": 16,
+     "end": 20,
+     "summary": ""
+    },
+    {
+     "title": "1.3 Gauss's theorem",
+     "start": 21,
+     "end": 25,
+     "summary": ""
+    },
+    {
+     "title": "1.4 Electric dipoles",
+     "start": 26,
+     "end": 28,
+     "summary": ""
+    },
+    {
+     "title": "1.5 The theory of isotropic dielectrics",
+     "start": 29,
+     "end": 33,
+     "summary": ""
+    },
+    {
+     "title": "1.6 Properties of capacitors and systems of conductors",
+     "start": 34,
+     "end": 38,
+     "summary": ""
+    },
+    {
+     "title": "1.7 Stress in the electrostatic field",
+     "start": 39,
+     "end": 45,
+     "summary": ""
+    }
+   ],
+   "summary": "Electrostatics I.",
+   "terms": [
+    "charge",
+    "Coulomb law",
+    "electric field",
+    "potential",
+    "Gauss theorem",
+    "dipoles",
+    "dielectrics",
+    "capacitors",
+    "electrostatic stress"
+   ]
+  },
+  {
+   "title": "2. Electrostatics II",
+   "start": 46,
+   "end": 73,
+   "sections": [
+    {
+     "title": "2.1 The equations of Poisson and Laplace",
+     "start": 46,
+     "end": 47,
+     "summary": ""
+    },
+    {
+     "title": "2.2 Solutions of Laplace's equation in spherical coordinates",
+     "start": 48,
+     "end": 50,
+     "summary": ""
+    },
+    {
+     "title": "2.3 The multipole expansion",
+     "start": 51,
+     "end": 56,
+     "summary": ""
+    },
+    {
+     "title": "2.4 Some electrostatic problems",
+     "start": 57,
+     "end": 60,
+     "summary": ""
+    },
+    {
+     "title": "2.5 Electrical images",
+     "start": 61,
+     "end": 64,
+     "summary": ""
+    },
+    {
+     "title": "2.6 Line charges",
+     "start": 65,
+     "end": 67,
+     "summary": ""
+    },
+    {
+     "title": "2.7 Images in dielectrics",
+     "start": 68,
+     "end": 73,
+     "summary": ""
+    }
+   ],
+   "summary": "Electrostatics II.",
+   "terms": [
+    "Poisson equation",
+    "Laplace equation",
+    "spherical harmonics",
+    "multipole expansion",
+    "method of images",
+    "line charges"
+   ]
+  },
+  {
+   "title": "3. Steady currents",
+   "start": 74,
+   "end": 97,
+   "sections": [
+    {
+     "title": "3.1 Introduction",
+     "start": 74,
+     "end": 75,
+     "summary": ""
+    },
+    {
+     "title": "3.2 Flow of current in conductors",
+     "start": 76,
+     "end": 78,
+     "summary": ""
+    },
+    {
+     "title": "3.3 The voltaic circuit",
+     "start": 79,
+     "end": 80,
+     "summary": ""
+    },
+    {
+     "title": "3.4 Resistance networks",
+     "start": 81,
+     "end": 83,
+     "summary": ""
+    },
+    {
+     "title": "3.5 Wheatstone's bridge and the measurement of resistance",
+     "start": 84,
+     "end": 85,
+     "summary": ""
+    },
+    {
+     "title": "3.6 The potentiometer",
+     "start": 86,
+     "end": 87,
+     "summary": ""
+    },
+    {
+     "title": "3.7 Electron optics",
+     "start": 88,
+     "end": 93,
+     "summary": ""
+    },
+    {
+     "title": "3.8 The electrolytic tank",
+     "start": 94,
+     "end": 97,
+     "summary": ""
+    }
+   ],
+   "summary": "Steady currents.",
+   "terms": [
+    "current flow",
+    "Ohm law",
+    "voltaic circuit",
+    "networks",
+    "Wheatstone bridge",
+    "potentiometer",
+    "electron optics"
+   ]
+  },
+  {
+   "title": "4. Properties of electrical conductors",
+   "start": 98,
+   "end": 138,
+   "sections": [
+    {
+     "title": "4.1 Free electrons in metals: classical theory",
+     "start": 98,
+     "end": 100,
+     "summary": ""
+    },
+    {
+     "title": "4.2 Free electrons in metals: quantum theory",
+     "start": 101,
+     "end": 107,
+     "summary": ""
+    },
+    {
+     "title": "4.3 Work function and contact potential",
+     "start": 108,
+     "end": 109,
+     "summary": ""
+    },
+    {
+     "title": "4.4 Emission of electrons from metals",
+     "start": 110,
+     "end": 115,
+     "summary": ""
+    },
+    {
+     "title": "4.5 Thermoelectricity",
+     "start": 116,
+     "end": 121,
+     "summary": ""
+    },
+    {
+     "title": "4.6 Conduction of electricity through liquids",
+     "start": 122,
+     "end": 125,
+     "summary": ""
+    },
+    {
+     "title": "4.7 Voltaic cells",
+     "start": 126,
+     "end": 128,
+     "summary": ""
+    },
+    {
+     "title": "4.8 Conduction of electricity through gases",
+     "start": 129,
+     "end": 135,
+     "summary": ""
+    },
+    {
+     "title": "4.9 Plasma oscillations",
+     "start": 136,
+     "end": 138,
+     "summary": ""
+    }
+   ],
+   "summary": "Conduction in metals, liquids and gases.",
+   "terms": [
+    "free electron theory",
+    "work function",
+    "thermionic emission",
+    "thermoelectricity",
+    "electrolysis",
+    "voltaic cells",
+    "gas discharge",
+    "plasma oscillations"
+   ]
+  },
+  {
+   "title": "5. The magnetic effects of currents and moving charges, and magnetostatics",
+   "start": 139,
+   "end": 170,
+   "sections": [
+    {
+     "title": "5.1 Forces between currents",
+     "start": 139,
+     "end": 142,
+     "summary": ""
+    },
+    {
+     "title": "5.2 Magnetic shells",
+     "start": 143,
+     "end": 147,
+     "summary": ""
+    },
+    {
+     "title": "5.3 Magnetostatics and magnetic media",
+     "start": 148,
+     "end": 151,
+     "summary": ""
+    },
+    {
+     "title": "5.4 Solution of magnetostatic problems",
+     "start": 152,
+     "end": 154,
+     "summary": ""
+    },
+    {
+     "title": "5.5 Steady currents in magnetic media",
+     "start": 155,
+     "end": 160,
+     "summary": ""
+    },
+    {
+     "title": "5.6 Calculation of the magnetic fields of simple circuits",
+     "start": 161,
+     "end": 163,
+     "summary": ""
+    },
+    {
+     "title": "5.7 Moving charges in electric and magnetic fields",
+     "start": 164,
+     "end": 170,
+     "summary": ""
+    }
+   ],
+   "summary": "Magnetic effects of currents; magnetostatics.",
+   "terms": [
+    "Ampère",
+    "Biot-Savart",
+    "magnetic shells",
+    "magnetostatics",
+    "magnetic media",
+    "moving charges"
+   ]
+  },
+  {
+   "title": "6. Electromagnetic induction and varying currents",
+   "start": 171,
+   "end": 191,
+   "sections": [
+    {
+     "title": "6.1 Faraday's laws of electromagnetic induction",
+     "start": 171,
+     "end": 173,
+     "summary": ""
+    },
+    {
+     "title": "6.2 Self-inductance and mutual inductance",
+     "start": 174,
+     "end": 177,
+     "summary": ""
+    },
+    {
+     "title": "6.3 Transient currents in circuits containing inductance, resistance, and capacitance",
+     "start": 178,
+     "end": 184,
+     "summary": ""
+    },
+    {
+     "title": "6.4 Magnetic energy and mechanical forces in inductive circuits",
+     "start": 185,
+     "end": 187,
+     "summary": ""
+    },
+    {
+     "title": "6.5 Magnetic energy in magnetic media",
+     "start": 188,
+     "end": 191,
+     "summary": ""
+    }
+   ],
+   "summary": "Electromagnetic induction.",
+   "terms": [
+    "Faraday law",
+    "inductance",
+    "transients",
+    "energy in magnetic field"
+   ]
+  },
+  {
+   "title": "7. Direct current measurements",
+   "start": 192,
+   "end": 207,
+   "sections": [
+    {
+     "title": "7.1 Galvanometers, ammeters, and voltmeters; the wattmeter",
+     "start": 192,
+     "end": 196,
+     "summary": ""
+    },
+    {
+     "title": "7.2 Galvanometer damping",
+     "start": 197,
+     "end": 198,
+     "summary": ""
+    },
+    {
+     "title": "7.3 The ballistic galvanometer and fluxmeter",
+     "start": 199,
+     "end": 202,
+     "summary": ""
+    },
+    {
+     "title": "7.4 Absolute measurements",
+     "start": 203,
+     "end": 207,
+     "summary": ""
+    }
+   ],
+   "summary": "DC measurements.",
+   "terms": [
+    "galvanometers",
+    "ammeters",
+    "voltmeters",
+    "ballistic galvanometer",
+    "fluxmeter",
+    "absolute measurements"
+   ]
+  },
+  {
+   "title": "8. Magnetic materials and magnetic measurements",
+   "start": 208,
+   "end": 239,
+   "sections": [
+    {
+     "title": "8.1 Origins of magnetism",
+     "start": 208,
+     "end": 210,
+     "summary": ""
+    },
+    {
+     "title": "8.2 Diamagnetism",
+     "start": 211,
+     "end": 213,
+     "summary": ""
+    },
+    {
+     "title": "8.3 Paramagnetism",
+     "start": 214,
+     "end": 216,
+     "summary": ""
+    },
+    {
+     "title": "8.4 Ferromagnetism",
+     "start": 217,
+     "end": 219,
+     "summary": ""
+    },
+    {
+     "title": "8.5 Production of magnetic fields",
+     "start": 220,
+     "end": 226,
+     "summary": ""
+    },
+    {
+     "title": "8.6 Measurement of magnetic fields",
+     "start": 227,
+     "end": 228,
+     "summary": ""
+    },
+    {
+     "title": "8.7 Measurement of susceptibility",
+     "start": 229,
+     "end": 233,
+     "summary": ""
+    },
+    {
+     "title": "8.8 Experimental investigation of the hysteresis curve",
+     "start": 234,
+     "end": 235,
+     "summary": ""
+    },
+    {
+     "title": "8.9 Terrestrial magnetism",
+     "start": 236,
+     "end": 239,
+     "summary": ""
+    }
+   ],
+   "summary": "Magnetic materials and measurements.",
+   "terms": [
+    "diamagnetism",
+    "paramagnetism",
+    "ferromagnetism",
+    "hysteresis",
+    "magnetic field production",
+    "magnetometry"
+   ]
+  },
+  {
+   "title": "9. Alternating current theory",
+   "start": 240,
+   "end": 268,
+   "sections": [
+    {
+     "title": "9.1 Forced oscillations",
+     "start": 240,
+     "end": 243,
+     "summary": ""
+    },
+    {
+     "title": "9.2 Use of vectors and complex numbers",
+     "start": 244,
+     "end": 248,
+     "summary": ""
+    },
+    {
+     "title": "9.3 Tuned circuits",
+     "start": 249,
+     "end": 255,
+     "summary": ""
+    },
+    {
+     "title": "9.4 Coupled resonant circuits",
+     "start": 256,
+     "end": 259,
+     "summary": ""
+    },
+    {
+     "title": "9.5 Low-frequency transformers",
+     "start": 260,
+     "end": 268,
+     "summary": ""
+    }
+   ],
+   "summary": "AC circuit theory.",
+   "terms": [
+    "forced oscillations",
+    "complex impedance",
+    "tuned circuits",
+    "coupled circuits",
+    "transformers"
+   ]
+  },
+  {
+   "title": "10. Electromagnetic waves",
+   "start": 269,
+   "end": 303,
+   "sections": [
+    {
+     "title": "10.1 Maxwell's equations of the electromagnetic field",
+     "start": 269,
+     "end": 272,
+     "summary": ""
+    },
+    {
+     "title": "10.2 Plane waves in isotropic dielectrics",
+     "start": 273,
+     "end": 275,
+     "summary": ""
+    },
+    {
+     "title": "10.3 The Poynting vector of energy flow",
+     "start": 276,
+     "end": 277,
+     "summary": ""
+    },
+    {
+     "title": "10.4 Plane waves in conducting media",
+     "start": 278,
+     "end": 279,
+     "summary": ""
+    },
+    {
+     "title": "10.5 The skin effect",
+     "start": 280,
+     "end": 281,
+     "summary": ""
+    },
+    {
+     "title": "10.6 Reflection and refraction of plane waves at the boundary of two dielectrics",
+     "start": 282,
+     "end": 289,
+     "summary": ""
+    },
+    {
+     "title": "10.7 Reflection from the surface of a metal",
+     "start": 290,
+     "end": 290,
+     "summary": ""
+    },
+    {
+     "title": "10.8 The pressure due to radiation",
+     "start": 291,
+     "end": 293,
+     "summary": ""
+    },
+    {
+     "title": "10.9 Radiation from an oscillating dipole",
+     "start": 294,
+     "end": 303,
+     "summary": ""
+    }
+   ],
+   "summary": "Electromagnetic waves.",
+   "terms": [
+    "Maxwell equations",
+    "plane waves",
+    "Poynting vector",
+    "skin effect",
+    "reflection",
+    "refraction",
+    "radiation"
+   ]
+  },
+  {
+   "title": "11. Filters, transmission lines, and waveguides",
+   "start": 304,
+   "end": 341,
+   "sections": [
+    {
+     "title": "11.1 Elements of filter theory",
+     "start": 304,
+     "end": 309,
+     "summary": ""
+    },
+    {
+     "title": "11.2 Some simple types of filter",
+     "start": 310,
+     "end": 314,
+     "summary": ""
+    },
+    {
+     "title": "11.3 Travelling waves on transmission lines",
+     "start": 315,
+     "end": 318,
+     "summary": ""
+    },
+    {
+     "title": "11.4 Terminated loss-free lines",
+     "start": 319,
+     "end": 323,
+     "summary": ""
+    },
+    {
+     "title": "11.5 Attenuation on lossy lines, and resonant lines",
+     "start": 324,
+     "end": 327,
+     "summary": ""
+    },
+    {
+     "title": "11.6 Guided waves —propagation between two parallel conducting planes",
+     "start": 328,
+     "end": 333,
+     "summary": ""
+    },
+    {
+     "title": "11.7 Waveguides",
+     "start": 334,
+     "end": 341,
+     "summary": ""
+    }
+   ],
+   "summary": "Filters, transmission lines, waveguides.",
+   "terms": [
+    "filters",
+    "transmission lines",
+    "standing waves",
+    "impedance matching",
+    "waveguides",
+    "cavity resonators"
+   ]
+  },
+  {
+   "title": "12. Thermionic vacuum tubes",
+   "start": 342,
+   "end": 363,
+   "sections": [
+    {
+     "title": "12.1 Construction of the thermionic vacuum tube",
+     "start": 342,
+     "end": 343,
+     "summary": ""
+    },
+    {
+     "title": "12.2 The diode",
+     "start": 344,
+     "end": 344,
+     "summary": ""
+    },
+    {
+     "title": "12.3 The three-halves power law",
+     "start": 345,
+     "end": 347,
+     "summary": ""
+    },
+    {
+     "title": "12.4 Uses of the diode",
+     "start": 348,
+     "end": 351,
+     "summary": ""
+    },
+    {
+     "title": "12.5 The triode",
+     "start": 352,
+     "end": 352,
+     "summary": ""
+    },
+    {
+     "title": "12.6 Characteristics of the triode",
+     "start": 353,
+     "end": 355,
+     "summary": ""
+    },
+    {
+     "title": "12.7 Equivalent circuit of the triode",
+     "start": 356,
+     "end": 356,
+     "summary": ""
+    },
+    {
+     "title": "12.8 Input impedance of the triode",
+     "start": 357,
+     "end": 359,
+     "summary": ""
+    },
+    {
+     "title": "12.9 The screen-grid tetrode",
+     "start": 360,
+     "end": 361,
+     "summary": ""
+    },
+    {
+     "title": "12.10 The pentode",
+     "start": 362,
+     "end": 363,
+     "summary": ""
+    }
+   ],
+   "summary": "Vacuum tubes.",
+   "terms": [
+    "diode",
+    "space charge",
+    "three-halves power law",
+    "triode",
+    "tetrode",
+    "pentode"
+   ]
+  },
+  {
+   "title": "13. Applications of thermionic vacuum tubes",
+   "start": 364,
+   "end": 402,
+   "sections": [
+    {
+     "title": "13.1 Audio-frequency voltage amplifiers",
+     "start": 364,
+     "end": 366,
+     "summary": ""
+    },
+    {
+     "title": "13.2 Negative feed-back amplifiers",
+     "start": 367,
+     "end": 367,
+     "summary": ""
+    },
+    {
+     "title": "13.3 Audio -frequency power amplifiers",
+     "start": 368,
+     "end": 376,
+     "summary": ""
+    },
+    {
+     "title": "13.5 Tuned anode and tuned grid oscillators",
+     "start": 377,
+     "end": 380,
+     "summary": ""
+    },
+    {
+     "title": "13.6 Power oscillators",
+     "start": 381,
+     "end": 382,
+     "summary": ""
+    },
+    {
+     "title": "13.7 The Kipp relay and the multivibrator",
+     "start": 383,
+     "end": 387,
+     "summary": ""
+    },
+    {
+     "title": "13.8 Amplitude modulation and detection",
+     "start": 388,
+     "end": 392,
+     "summary": ""
+    },
+    {
+     "title": "13.9 Frequency changing",
+     "start": 393,
+     "end": 395,
+     "summary": ""
+    },
+    {
+     "title": "13.10 Frequency modulation",
+     "start": 396,
+     "end": 398,
+     "summary": ""
+    },
+    {
+     "title": "13.11 Radio receivers",
+     "start": 399,
+     "end": 402,
+     "summary": ""
+    }
+   ],
+   "summary": "Vacuum-tube circuits.",
+   "terms": [
+    "amplifiers",
+    "negative feedback",
+    "power amplifiers",
+    "oscillators",
+    "rectifiers",
+    "modulation"
+   ]
+  },
+  {
+   "title": "14. Thermionic vacuum tubes at very high frequencies",
+   "start": 403,
+   "end": 426,
+   "sections": [
+    {
+     "title": "14.1 Effects of electrode impedance",
+     "start": 403,
+     "end": 405,
+     "summary": ""
+    },
+    {
+     "title": "14.2 Effect of transit time on input conductance",
+     "start": 406,
+     "end": 407,
+     "summary": ""
+    },
+    {
+     "title": "14.3 Modified circuits and tubes for metre and decimetre wavelengths",
+     "start": 408,
+     "end": 412,
+     "summary": ""
+    },
+    {
+     "title": "14.4 The klystron",
+     "start": 413,
+     "end": 417,
+     "summary": ""
+    },
+    {
+     "title": "14.5 The magnetron",
+     "start": 418,
+     "end": 423,
+     "summary": ""
+    },
+    {
+     "title": "14.6 Crystal diodes",
+     "start": 424,
+     "end": 424,
+     "summary": ""
+    },
+    {
+     "title": "14.7 Travelling wave tubes",
+     "start": 425,
+     "end": 426,
+     "summary": ""
+    }
+   ],
+   "summary": "Microwave tubes and devices.",
+   "terms": [
+    "transit time",
+    "klystron",
+    "magnetron",
+    "crystal diodes",
+    "travelling wave tubes"
+   ]
+  },
+  {
+   "title": "15. Alternating current measurements",
+   "start": 427,
+   "end": 464,
+   "sections": [
+    {
+     "title": "15.1 Measurement of voltage, current, and power",
+     "start": 427,
+     "end": 435,
+     "summary": ""
+    },
+    {
+     "title": "15.2 Measurement of impedance at low frequencies",
+     "start": 436,
+     "end": 441,
+     "summary": ""
+    },
+    {
+     "title": "15.3 Measurement of impedance at radio frequencies",
+     "start": 442,
+     "end": 446,
+     "summary": ""
+    },
+    {
+     "title": "15.4 Measurement of frequency and wavelength",
+     "start": 447,
+     "end": 454,
+     "summary": ""
+    },
+    {
+     "title": "15.5 Measurement of dielectric constant",
+     "start": 455,
+     "end": 457,
+     "summary": ""
+    },
+    {
+     "title": "15.6 Measurement of the velocity of radio waves",
+     "start": 458,
+     "end": 464,
+     "summary": ""
+    }
+   ],
+   "summary": "AC measurements.",
+   "terms": [
+    "AC bridges",
+    "impedance measurement",
+    "radio-frequency measurement"
+   ]
+  },
+  {
+   "title": "16. Fluctuations and noise",
+   "start": 465,
+   "end": 487,
+   "sections": [
+    {
+     "title": "16.1 Brownian motion and fluctuations",
+     "start": 465,
+     "end": 466,
+     "summary": ""
+    },
+    {
+     "title": "16.2 Fluctuations in galvanometers",
+     "start": 467,
+     "end": 470,
+     "summary": ""
+    },
+    {
+     "title": "16.3 The relation between resistance noise and thermal radiation",
+     "start": 471,
+     "end": 474,
+     "summary": ""
+    },
+    {
+     "title": "16.4 Shot noise",
+     "start": 475,
+     "end": 478,
+     "summary": ""
+    },
+    {
+     "title": "16.5 Design of receivers for optimum performance (minimum noise figure)",
+     "start": 479,
+     "end": 482,
+     "summary": ""
+    },
+    {
+     "title": "16.6 Measurement of receiver noise",
+     "start": 483,
+     "end": 487,
+     "summary": ""
+    }
+   ],
+   "summary": "Noise.",
+   "terms": [
+    "Brownian motion",
+    "thermal (Johnson) noise",
+    "shot noise",
+    "Nyquist theorem"
+   ]
+  },
+  {
+   "title": "17. Theory of the dielectric constant",
+   "start": 488,
+   "end": 516,
+   "sections": [
+    {
+     "title": "17.1 Molecular structure and the dielectric constant",
+     "start": 488,
+     "end": 489,
+     "summary": ""
+    },
+    {
+     "title": "17.2 Dielectric constant of non-polar gases",
+     "start": 490,
+     "end": 492,
+     "summary": ""
+    },
+    {
+     "title": "17.3 Static dielectric constant of polar gases",
+     "start": 493,
+     "end": 495,
+     "summary": ""
+    },
+    {
+     "title": "17.4 Dispersion in gases",
+     "start": 496,
+     "end": 500,
+     "summary": ""
+    },
+    {
+     "title": "17.5 Static dielectric constants of liquids and solids",
+     "start": 501,
+     "end": 503,
+     "summary": ""
+    },
+    {
+     "title": "17.6 Static dielectric constants of polar liquids",
+     "start": 504,
+     "end": 505,
+     "summary": ""
+    },
+    {
+     "title": "17.7 Radio-frequency dispersion in polar liquids",
+     "start": 506,
+     "end": 510,
+     "summary": ""
+    },
+    {
+     "title": "17.8 Scattering",
+     "start": 511,
+     "end": 516,
+     "summary": ""
+    }
+   ],
+   "summary": "Dielectric constant theory.",
+   "terms": [
+    "polarizability",
+    "Clausius-Mossotti",
+    "polar molecules",
+    "Debye relaxation",
+    "ferroelectrics"
+   ]
+  },
+  {
+   "title": "18. Electrons in metals",
+   "start": 517,
+   "end": 548,
+   "sections": [
+    {
+     "title": "18.1 Kinetics of free electrons in metals",
+     "start": 517,
+     "end": 518,
+     "summary": ""
+    },
+    {
+     "title": "18.2 The energy band approximation",
+     "start": 519,
+     "end": 527,
+     "summary": ""
+    },
+    {
+     "title": "18.3 Conductors and insulators on the band theory",
+     "start": 528,
+     "end": 529,
+     "summary": ""
+    },
+    {
+     "title": "18.4 Specific heat of the conduction electrons",
+     "start": 530,
+     "end": 533,
+     "summary": ""
+    },
+    {
+     "title": "18.5 Electrical and thermal conductivity of metals",
+     "start": 534,
+     "end": 540,
+     "summary": ""
+    },
+    {
+     "title": "18.6 The Hall effect",
+     "start": 541,
+     "end": 541,
+     "summary": ""
+    },
+    {
+     "title": "18.7 Dia- and paramagnetism of conduction electrons",
+     "start": 542,
+     "end": 548,
+     "summary": ""
+    }
+   ],
+   "summary": "Electrons in metals.",
+   "terms": [
+    "band theory",
+    "Fermi surface",
+    "specific heat",
+    "conductivity",
+    "superconductivity"
+   ]
+  },
+  {
+   "title": "19. Semiconductors",
+   "start": 549,
+   "end": 586,
+   "sections": [
+    {
+     "title": "19.1 Intrinsic and extrinsic conductivity",
+     "start": 549,
+     "end": 550,
+     "summary": ""
+    },
+    {
+     "title": "19.2 Elementary and compound semiconductors",
+     "start": 551,
+     "end": 555,
+     "summary": ""
+    },
+    {
+     "title": "19.3 Electron distribution and the Fermi level",
+     "start": 556,
+     "end": 560,
+     "summary": ""
+    },
+    {
+     "title": "19.4 Optical properties",
+     "start": 561,
+     "end": 565,
+     "summary": ""
+    },
+    {
+     "title": "19.5 Transport properties",
+     "start": 566,
+     "end": 572,
+     "summary": ""
+    },
+    {
+     "title": "19.6 Metal-semiconductor junctions",
+     "start": 573,
+     "end": 577,
+     "summary": ""
+    },
+    {
+     "title": "19.7 The p-n junction",
+     "start": 578,
+     "end": 581,
+     "summary": ""
+    },
+    {
+     "title": "19.8 The junction transistor",
+     "start": 582,
+     "end": 586,
+     "summary": ""
+    }
+   ],
+   "summary": "Semiconductors.",
+   "terms": [
+    "intrinsic and extrinsic",
+    "Fermi level",
+    "mobility",
+    "p-n junction",
+    "transistor"
+   ]
+  },
+  {
+   "title": "20. The atomic theory of paramagnetism",
+   "start": 587,
+   "end": 630,
+   "sections": [
+    {
+     "title": "20.1 A general precession theorem",
+     "start": 587,
+     "end": 588,
+     "summary": ""
+    },
+    {
+     "title": "20.2 The vector model of the atom",
+     "start": 589,
+     "end": 597,
+     "summary": ""
+    },
+    {
+     "title": "20.3 Magnetic moments of free atoms",
+     "start": 598,
+     "end": 602,
+     "summary": ""
+    },
+    {
+     "title": "20.4 The measurement of atomic magnetic moments —the Stern- Gerlach experiment",
+     "start": 603,
+     "end": 603,
+     "summary": ""
+    },
+    {
+     "title": "20.5 Curie's law and the approach to saturation",
+     "start": 604,
+     "end": 618,
+     "summary": ""
+    },
+    {
+     "title": "20.8 Susceptibility of paramagnetic solids—strongly bonded com- pounds",
+     "start": 619,
+     "end": 621,
+     "summary": ""
+    },
+    {
+     "title": "20.9 Electronic paramagnetism—a summary",
+     "start": 622,
+     "end": 622,
+     "summary": ""
+    },
+    {
+     "title": "20.10 Nuclear moments and hyperfine structure",
+     "start": 623,
+     "end": 630,
+     "summary": ""
+    }
+   ],
+   "summary": "Paramagnetism.",
+   "terms": [
+    "precession",
+    "vector model",
+    "Landé g-factor",
+    "Curie law",
+    "crystal fields"
+   ]
+  },
+  {
+   "title": "21. Ferromagnetism",
+   "start": 631,
+   "end": 669,
+   "sections": [
+    {
+     "title": "21.1 Exchange interaction between paramagnetic ions",
+     "start": 631,
+     "end": 634,
+     "summary": ""
+    },
+    {
+     "title": "21.2 The Weiss theory of spontaneous magnetization",
+     "start": 635,
+     "end": 638,
+     "summary": ""
+    },
+    {
+     "title": "21.3 Ferromagnetic domains",
+     "start": 639,
+     "end": 646,
+     "summary": ""
+    },
+    {
+     "title": "21.4 The gyromagnetic effect",
+     "start": 647,
+     "end": 649,
+     "summary": ""
+    },
+    {
+     "title": "21.5 Thermal effects in ferromagnetism",
+     "start": 650,
+     "end": 652,
+     "summary": ""
+    },
+    {
+     "title": "21.6 Measurement of the spontaneous magnetization M as a func- tion of temperature",
+     "start": 653,
+     "end": 656,
+     "summary": ""
+    },
+    {
+     "title": "21.7 Foundations of the theory of ferromagnetism",
+     "start": 657,
+     "end": 660,
+     "summary": ""
+    },
+    {
+     "title": "21.8 Spin waves",
+     "start": 661,
+     "end": 662,
+     "summary": ""
+    },
+    {
+     "title": "21.9 Mechanisms of exchange interaction",
+     "start": 663,
+     "end": 669,
+     "summary": ""
+    }
+   ],
+   "summary": "Ferromagnetism.",
+   "terms": [
+    "exchange",
+    "Weiss molecular field",
+    "domains",
+    "gyromagnetic effects",
+    "anisotropy"
+   ]
+  },
+  {
+   "title": "22. Anti-ferromagnetism and ferrimagnetism",
+   "start": 670,
+   "end": 689,
+   "sections": [
+    {
+     "title": "22.1 Anti-ferromagnetism",
+     "start": 670,
+     "end": 671,
+     "summary": ""
+    },
+    {
+     "title": "22.2 The molecular field —two sub-lattice model",
+     "start": 672,
+     "end": 676,
+     "summary": ""
+    },
+    {
+     "title": "22.3 Ferrimagnetism",
+     "start": 677,
+     "end": 682,
+     "summary": ""
+    },
+    {
+     "title": "22.4 The lanthanide ('rare earth') metals",
+     "start": 683,
+     "end": 685,
+     "summary": ""
+    },
+    {
+     "title": "22.5 Neutron diffraction",
+     "start": 686,
+     "end": 689,
+     "summary": ""
+    }
+   ],
+   "summary": "Antiferromagnetism and ferrimagnetism.",
+   "terms": [
+    "Néel",
+    "two-sublattice model",
+    "ferrites",
+    "rare earth metals"
+   ]
+  },
+  {
+   "title": "23. Magnetic resonance",
+   "start": 690,
+   "end": 741,
+   "sections": [
+    {
+     "title": "23.1 The magnetic resonance phenomenon",
+     "start": 690,
+     "end": 693,
+     "summary": ""
+    },
+    {
+     "title": "23.2 Molecular beams and nuclear magnetic resonance",
+     "start": 694,
+     "end": 697,
+     "summary": ""
+    },
+    {
+     "title": "23.3 Nuclear magnetic resonance in bulk material",
+     "start": 698,
+     "end": 701,
+     "summary": ""
+    },
+    {
+     "title": "23.4 Relaxation effects in nuclear magnetic resonance",
+     "start": 702,
+     "end": 704,
+     "summary": ""
+    },
+    {
+     "title": "23.5 Applications of nuclear resonance",
+     "start": 705,
+     "end": 709,
+     "summary": ""
+    },
+    {
+     "title": "23.6 Electron magnetic resonance in atomic beams",
+     "start": 710,
+     "end": 715,
+     "summary": ""
+    },
+    {
+     "title": "23.7 Electron magnetic resonance in solids",
+     "start": 716,
+     "end": 722,
+     "summary": ""
+    },
+    {
+     "title": "23.8 Cyclotron resonance with free charged particles",
+     "start": 723,
+     "end": 729,
+     "summary": ""
+    },
+    {
+     "title": "23.9 Cyclotron resonance of charge carriers in semiconductors",
+     "start": 730,
+     "end": 734,
+     "summary": ""
+    },
+    {
+     "title": "23.10 Azbel-Kaner resonance in metals",
+     "start": 735,
+     "end": 741,
+     "summary": ""
+    }
+   ],
+   "summary": "Magnetic resonance.",
+   "terms": [
+    "NMR",
+    "molecular beams",
+    "relaxation",
+    "ESR",
+    "cyclotron resonance"
+   ]
+  },
+  {
+   "title": "24. Units",
+   "start": 742,
+   "end": 756,
+   "sections": [
+    {
+     "title": "24.1 Unrationalized c.g.s. systems",
+     "start": 742,
+     "end": 745,
+     "summary": ""
+    },
+    {
+     "title": "24.2 Practical units",
+     "start": 746,
+     "end": 746,
+     "summary": ""
+    },
+    {
+     "title": "24.3 The rationalized m.k.s. system",
+     "start": 746,
+     "end": 748,
+     "summary": ""
+    },
+    {
+     "title": "24.4 Conversion factors from rationalized m.k.s. system",
+     "start": 749,
+     "end": 749,
+     "summary": ""
+    },
+    {
+     "title": "24.5 Equivalent equations in unrationalized c.g.s. systems",
+     "start": 750,
+     "end": 756,
+     "summary": ""
+    }
+   ],
+   "summary": "Units.",
+   "terms": [
+    "c.g.s. units",
+    "m.k.s. units",
+    "conversion"
+   ]
+  }
+ ],
+ "title": "Electricity and Magnetism (2nd edition)",
+ "byline": "B. I. Bleaney and B. Bleaney · Oxford, Clarendon Press, 1965",
+ "note": "PDF page = printed page + 13. This is a scanned copy with an OCR text layer; its own contents page for chapters 1–4 is missing, so those sections were recovered from the body text. Summaries and terms are per chapter; each section is listed with its PDF page range. Problems and appendices are not broken out. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "A classic Oxford undergraduate and early-graduate text covering electricity and magnetism from first principles to the physics of materials, in rationalized m.k.s. units. It treats electrostatics and potential theory, steady currents and conduction, magnetostatics, induction and circuits, measurement instruments, magnetic materials, AC theory, Maxwell’s equations and electromagnetic waves, filters, transmission lines and waveguides, vacuum-tube electronics up to microwave devices, and noise; then the microscopic theory of dielectrics, electrons in metals and semiconductors, paramagnetism, ferromagnetism and antiferromagnetism, and magnetic resonance, ending with systems of units."
+}

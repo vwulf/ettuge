@@ -10,6 +10,7 @@ Partial PDFs (samples, excerpts, unfinished drafts) are marked as such on their 
 - [Deep Learning and Computational Physics](deep-learning-computational-physics) (Ray, Pinti, Oberai): PINNs, DeepONet, FNO, neural ODEs (lecture notes)
 - [Foundations of Reinforcement Learning with Applications in Finance](rao-jelvis-rl-in-finance) (Ashwin Rao and Tikhon Jelvis): MDPs, DP, approximate DP and RL algorithms with Python, applied to asset allocation, derivatives and trading.
 - [High-Dimensional Probability](high-dimensional-probability) (Roman Vershynin): Concentration, random matrices, chaining and sparse recovery, each with a data-science application.
+- [Mathematical Theory of the Transformer, Vol. I](cirrincione-mathematical-theory-of-the-transformer) (Giansalvo Cirrincione): Attention via the bilinear score matrix: symmetric/antisymmetric split, head taxonomies, training dynamics, INCRT growth.
 - [Multimodal Deep Learning](multimodal-deep-learning) (LMU seminar): image–text models: CLIP, DALL-E, diffusion (2023)
 - [Optimization for Machine Learning](gartner-jaggi-optimization-ml) (Gärtner, Jaggi): GD, SGD, proximal, Newton, BFGS, Frank-Wolfe with rates
 - [Prompt Engineering](prompt-engineering) (Boonstra (Google)): sampling settings, prompting techniques, best practices
@@ -56,6 +57,7 @@ Partial PDFs (samples, excerpts, unfinished drafts) are marked as such on their 
 - [Category Theory for Scientists](spivak-category-theory-for-scientists) (Spivak): ologs, databases, limits, adjoints, monads, operads
 - [Conceptual Mathematics](lawvere-conceptual-mathematics) (F. William Lawvere and Stephen Schanuel): A first course in categories from sets and maps to products, exponentials and toposes.
 - [Everything You Always Wanted to Know About Mathematics](sullivan-everything-you-wanted-to-know-about-mathematics) (Brendan W. Sullivan): Conversational intro to proof: induction, sets, logic, relations, functions, cardinality, combinatorics.
+- [Geometric Algebra Applications, Vol. I](bayro-corrochano-geometric-algebra-applications-1) (Eduardo Bayro-Corrochano): Clifford algebra for vision, graphics and neurocomputing: calculus, Lie groups, conformal GA, transforms, applications.
 - [Geometric Structures on Manifolds](goldman-geometric-structures-on-manifolds) (William M. Goldman): (G,X)-structures: affine and projective geometry, developing maps, completeness, convex projective surfaces.
 - [Graph Theory and Additive Combinatorics](zhao-graph-theory-additive-combinatorics) (Yufei Zhao): Extremal graphs, regularity, pseudorandomness, graph limits, Roth, Freiman and Green–Tao.
 - [Homotopy Type Theory: Univalent Foundations of Mathematics](hott-book) (Univalent Foundations Program (IAS)): Type theory as homotopy: univalence, HITs, n-types, synthetic homotopy theory, categories, reals.
@@ -76,6 +78,10 @@ Partial PDFs (samples, excerpts, unfinished drafts) are marked as such on their 
 
 - [A Manual of Modern Kannada](zydenbos-manual-of-modern-kannada) (Robert J. Zydenbos): Grammar course in modern written Kannada: 19 lessons from nominal sentences to moods, plus sandhi, numerals and script.
 - [The Dravidian Languages](krishnamurti-dravidian-languages) (Bhadriraju Krishnamurti): Comparative survey: Proto-Dravidian phonology, morphology, verb, syntax, lexicon and subgrouping.
+
+## Physics and Engineering
+
+- [Electricity and Magnetism (2nd ed.)](bleaney-electricity-and-magnetism) (B. I. Bleaney and B. Bleaney): Classic Oxford text: fields, circuits, waves, waveguides, tubes, noise, dielectrics, metals, semiconductors, magnetism, NMR.
 
 ## Other
 

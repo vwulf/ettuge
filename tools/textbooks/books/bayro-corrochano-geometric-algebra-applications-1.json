@@ -1,0 +1,1117 @@
+{
+ "url": "https://drive.google.com/file/d/1LkkEBd4A_GofGPSbejoN_74d9JNduT9l/view",
+ "chapters": [
+  {
+   "title": "1 Geometric Algebra for the Twenty-First Century Cybernetics",
+   "start": 32,
+   "sections": [
+    {
+     "title": "1.1 Cybernetics",
+     "start": 32,
+     "end": 33,
+     "summary": ""
+    },
+    {
+     "title": "1.2 The Roots of Geometry and Algebra",
+     "start": 34,
+     "end": 35,
+     "summary": ""
+    },
+    {
+     "title": "1.3 Geometric Algebra a Unified Mathematical Language",
+     "start": 36,
+     "end": 36,
+     "summary": ""
+    },
+    {
+     "title": "1.4 What does Geometric Algebra Offer for Geometric Computing?",
+     "start": 37,
+     "end": 42,
+     "summary": ""
+    },
+    {
+     "title": "1.5 Solving Problems in Perception and Action Systems",
+     "start": 43,
+     "end": 49,
+     "summary": ""
+    }
+   ],
+   "end": 49,
+   "summary": "Why geometric algebra for perception–action systems.",
+   "terms": [
+    "cybernetics",
+    "geometric algebra",
+    "unified language",
+    "geometric computing"
+   ]
+  },
+  {
+   "title": "2 Introduction to Geometric Algebra",
+   "start": 50,
+   "sections": [
+    {
+     "title": "2.1 History of Geometric Algebra",
+     "start": 50,
+     "end": 51,
+     "summary": ""
+    },
+    {
+     "title": "2.2 What is Geometric Algebra?",
+     "start": 52,
+     "end": 56,
+     "summary": ""
+    },
+    {
+     "title": "2.3 Multivector Products",
+     "start": 57,
+     "end": 68,
+     "summary": ""
+    },
+    {
+     "title": "2.4 Multivector Operations",
+     "start": 69,
+     "end": 74,
+     "summary": ""
+    },
+    {
+     "title": "2.5 Linear Algebra",
+     "start": 75,
+     "end": 75,
+     "summary": ""
+    },
+    {
+     "title": "2.6 Simplexes",
+     "start": 76,
+     "end": 77,
+     "summary": ""
+    }
+   ],
+   "end": 82,
+   "summary": "Foundations of geometric algebra.",
+   "terms": [
+    "history",
+    "multivectors",
+    "geometric product",
+    "inner and outer product",
+    "duality",
+    "reversion",
+    "simplexes"
+   ]
+  },
+  {
+   "title": "3 Differentiation, Linear, and Multilinear Functions in Geometric Algebra",
+   "start": 83,
+   "sections": [
+    {
+     "title": "3.1 Differentiation",
+     "start": 84,
+     "end": 93,
+     "summary": ""
+    },
+    {
+     "title": "3.2 Linear Multivector Functions",
+     "start": 94,
+     "end": 94,
+     "summary": ""
+    },
+    {
+     "title": "3.3 The Determinant",
+     "start": 95,
+     "end": 95,
+     "summary": ""
+    },
+    {
+     "title": "3.4 Adjoints and Inverses",
+     "start": 96,
+     "end": 97,
+     "summary": ""
+    },
+    {
+     "title": "3.5 Eigenvectors and Eigenblades",
+     "start": 98,
+     "end": 100,
+     "summary": ""
+    },
+    {
+     "title": "3.6 Symmetric and Skew-Symmetric Transformations",
+     "start": 101,
+     "end": 101,
+     "summary": ""
+    },
+    {
+     "title": "3.7 Traction Operators: Contraction and Protraction",
+     "start": 102,
+     "end": 103,
+     "summary": ""
+    },
+    {
+     "title": "3.8 Tensors in Geometric Algebra",
+     "start": 104,
+     "end": 113,
+     "summary": ""
+    }
+   ],
+   "end": 116,
+   "summary": "Calculus and multilinear functions.",
+   "terms": [
+    "multivector derivative",
+    "linear functions",
+    "determinant",
+    "adjoint",
+    "eigenblades",
+    "tensors"
+   ]
+  },
+  {
+   "title": "4 Geometric Calculus",
+   "start": 117,
+   "sections": [
+    {
+     "title": "4.1 Vector Manifolds and Tangent Space",
+     "start": 117,
+     "end": 120,
+     "summary": ""
+    },
+    {
+     "title": "4.2 Vector Derivative",
+     "start": 121,
+     "end": 121,
+     "summary": ""
+    },
+    {
+     "title": "4.3 Vector Fields, Grad, Div, Curl, and Monogenic Functions",
+     "start": 122,
+     "end": 122,
+     "summary": ""
+    },
+    {
+     "title": "4.4 Multivector Fields",
+     "start": 123,
+     "end": 124,
+     "summary": ""
+    },
+    {
+     "title": "4.5 The Generalized Gaussian Map",
+     "start": 125,
+     "end": 125,
+     "summary": ""
+    },
+    {
+     "title": "4.6 Second Derivative and the Laplace–Beltrami Operator",
+     "start": 126,
+     "end": 126,
+     "summary": ""
+    },
+    {
+     "title": "4.7 Projection, Shape, Curl, and Spur",
+     "start": 127,
+     "end": 130,
+     "summary": ""
+    },
+    {
+     "title": "4.8 Blade–Laplace Operator",
+     "start": 131,
+     "end": 131,
+     "summary": ""
+    },
+    {
+     "title": "4.9 Geometric Calculus in 2D",
+     "start": 131,
+     "end": 131,
+     "summary": ""
+    },
+    {
+     "title": "4.10 Electromagnetism: The Maxwell Equations",
+     "start": 132,
+     "end": 134,
+     "summary": ""
+    },
+    {
+     "title": "4.11 Spinors, Shrödinger–Pauli, and Dirac Equations",
+     "start": 135,
+     "end": 138,
+     "summary": ""
+    }
+   ],
+   "end": 140,
+   "summary": "Geometric calculus.",
+   "terms": [
+    "vector manifolds",
+    "vector derivative",
+    "monogenic functions",
+    "Laplace-Beltrami",
+    "Maxwell equations",
+    "Dirac equation",
+    "spinors"
+   ]
+  },
+  {
+   "title": "5 Lie Algebras, Lie Groups, and Algebra of Incidence",
+   "start": 141,
+   "sections": [
+    {
+     "title": "5.1 Introduction",
+     "start": 141,
+     "end": 141,
+     "summary": ""
+    },
+    {
+     "title": "5.2 Lie Algebras and Bivector Algebras",
+     "start": 142,
+     "end": 142,
+     "summary": ""
+    },
+    {
+     "title": "5.3 Lie Groups and Lie Algebras of Rotors",
+     "start": 142,
+     "end": 144,
+     "summary": ""
+    },
+    {
+     "title": "5.4 Complex Structures and Unitary Groups",
+     "start": 145,
+     "end": 148,
+     "summary": ""
+    },
+    {
+     "title": "5.5 Geometric Algebra of Reciprocal Null Cones",
+     "start": 149,
+     "end": 161,
+     "summary": ""
+    },
+    {
+     "title": "5.6 The General Linear Group as Spin Group",
+     "start": 162,
+     "end": 166,
+     "summary": ""
+    },
+    {
+     "title": "5.7 The Pinsp(3,3)",
+     "start": 167,
+     "end": 179,
+     "summary": ""
+    },
+    {
+     "title": "5.8 2D Projective Geometry in ℝ3,3",
+     "start": 180,
+     "end": 180,
+     "summary": ""
+    },
+    {
+     "title": "5.9 Horosphere and n-Dimensional Affine Plane",
+     "start": 181,
+     "end": 182,
+     "summary": ""
+    },
+    {
+     "title": "5.10 The General Linear Algebra gl(calN) of the General Linear Lie Group GL(calN)",
+     "start": 183,
+     "end": 194,
+     "summary": ""
+    },
+    {
+     "title": "5.11 The Algebra of Incidence",
+     "start": 195,
+     "end": 200,
+     "summary": ""
+    }
+   ],
+   "end": 209,
+   "summary": "Lie theory in geometric algebra.",
+   "terms": [
+    "Lie algebras",
+    "bivector algebra",
+    "rotors",
+    "unitary groups",
+    "spin groups",
+    "null cones",
+    "projective geometry"
+   ]
+  },
+  {
+   "title": "6 2D, 3D, and 4D Geometric Algebras",
+   "start": 210,
+   "sections": [
+    {
+     "title": "6.1 Complex, Double, and Dual Numbers",
+     "start": 210,
+     "end": 210,
+     "summary": ""
+    },
+    {
+     "title": "6.2 2D Geometric Algebras of the Plane",
+     "start": 211,
+     "end": 212,
+     "summary": ""
+    },
+    {
+     "title": "6.3 3D Geometric Algebra for the Euclidean 3D Space",
+     "start": 213,
+     "end": 218,
+     "summary": ""
+    },
+    {
+     "title": "6.4 Quaternion Algebra",
+     "start": 219,
+     "end": 221,
+     "summary": ""
+    },
+    {
+     "title": "6.5 4D Geometric Algebra for 3D Kinematics",
+     "start": 222,
+     "end": 228,
+     "summary": ""
+    },
+    {
+     "title": "6.6 4D Geometric Algebra for Projective 3D Space",
+     "start": 229,
+     "end": 229,
+     "summary": ""
+    }
+   ],
+   "end": 234,
+   "summary": "Low-dimensional geometric algebras.",
+   "terms": [
+    "complex and dual numbers",
+    "2D and 3D GA",
+    "quaternions",
+    "motor algebra",
+    "projective 4D"
+   ]
+  },
+  {
+   "title": "7 Kinematics of the 2D and 3D Spaces",
+   "start": 235,
+   "sections": [
+    {
+     "title": "7.1 Introduction",
+     "start": 235,
+     "end": 235,
+     "summary": ""
+    },
+    {
+     "title": "7.2 Representation of Points, Lines, and Planes Using 3D Geometric Algebra",
+     "start": 235,
+     "end": 236,
+     "summary": ""
+    },
+    {
+     "title": "7.3 Representation of Points, Lines, and Planes Using Motor Algebra",
+     "start": 237,
+     "end": 237,
+     "summary": ""
+    },
+    {
+     "title": "7.4 Representation of Points, Lines, and Planes Using 4D Geometric Algebra",
+     "start": 238,
+     "end": 238,
+     "summary": ""
+    },
+    {
+     "title": "7.5 Motion of Points, Lines, and Planes in 3D Geometric Algebra",
+     "start": 239,
+     "end": 239,
+     "summary": ""
+    },
+    {
+     "title": "7.6 Motion of Points, Lines, and Planes Using Motor Algebra",
+     "start": 240,
+     "end": 241,
+     "summary": ""
+    },
+    {
+     "title": "7.7 Motion of Points, Lines, and Planes Using 4D Geometric Algebra",
+     "start": 242,
+     "end": 242,
+     "summary": ""
+    },
+    {
+     "title": "7.8 Spatial Velocity of Points, Lines, and Planes",
+     "start": 243,
+     "end": 251,
+     "summary": ""
+    },
+    {
+     "title": "7.9 Incidence Relations Between Points, Lines, and Planes",
+     "start": 252,
+     "end": 253,
+     "summary": ""
+    }
+   ],
+   "end": 257,
+   "summary": "Kinematics with geometric algebra.",
+   "terms": [
+    "points lines planes",
+    "motors",
+    "screw motion",
+    "rigid motion"
+   ]
+  },
+  {
+   "title": "8 Conformal Geometric Algebra",
+   "start": 258,
+   "sections": [
+    {
+     "title": "8.1 Introduction",
+     "start": 258,
+     "end": 273,
+     "summary": ""
+    },
+    {
+     "title": "8.2 The 3D Affine Plane",
+     "start": 274,
+     "end": 276,
+     "summary": ""
+    },
+    {
+     "title": "8.3 The Lie Algebra",
+     "start": 277,
+     "end": 277,
+     "summary": ""
+    },
+    {
+     "title": "8.4 Conformal Transformations",
+     "start": 278,
+     "end": 285,
+     "summary": ""
+    },
+    {
+     "title": "8.5 Ruled Surfaces",
+     "start": 286,
+     "end": 288,
+     "summary": ""
+    }
+   ],
+   "end": 292,
+   "summary": "Conformal geometric algebra.",
+   "terms": [
+    "conformal GA",
+    "spheres",
+    "circles",
+    "conformal transformations",
+    "ruled surfaces"
+   ]
+  },
+  {
+   "title": "9 The Geometric Algebras G6,0,2+, G6,3, G9,3+, G6,0,6+",
+   "start": 293,
+   "sections": [
+    {
+     "title": "9.1 Introduction",
+     "start": 293,
+     "end": 293,
+     "summary": ""
+    },
+    {
+     "title": "9.2 The Double Motor Algebra G6,0,2+",
+     "start": 294,
+     "end": 301,
+     "summary": ""
+    },
+    {
+     "title": "9.3 The Geometric Algebra G6,3",
+     "start": 302,
+     "end": 309,
+     "summary": ""
+    },
+    {
+     "title": "9.4 The Geometric Subalgebras G9,3+ and G6,0,6+",
+     "start": 310,
+     "end": 313,
+     "summary": ""
+    }
+   ],
+   "end": 316,
+   "summary": "Higher-dimensional algebras for lines and quadrics.",
+   "terms": [
+    "double motor algebra",
+    "G6",
+    "3",
+    "G9",
+    "3",
+    "quadrics"
+   ]
+  },
+  {
+   "title": "10 Programming Issues",
+   "start": 317,
+   "sections": [
+    {
+     "title": "10.1 Main Issues for an Efficient Implementation",
+     "start": 317,
+     "end": 318,
+     "summary": ""
+    },
+    {
+     "title": "10.2 Implementation Practicalities",
+     "start": 319,
+     "end": 326,
+     "summary": ""
+    }
+   ],
+   "end": 326,
+   "summary": "Implementing geometric algebra efficiently.",
+   "terms": [
+    "implementation",
+    "performance",
+    "software"
+   ]
+  },
+  {
+   "title": "11 Quaternion–Clifford Fourier and Wavelet Transforms",
+   "start": 327,
+   "sections": [
+    {
+     "title": "11.1 Introduction",
+     "start": 327,
+     "end": 340,
+     "summary": ""
+    },
+    {
+     "title": "11.2 Gabor Filters and Atomic Functions",
+     "start": 341,
+     "end": 349,
+     "summary": ""
+    },
+    {
+     "title": "11.3 Quaternionic Analytic Signal, Monogenic Signal, Hilbert Transform, and Riesz Transform",
+     "start": 350,
+     "end": 356,
+     "summary": ""
+    },
+    {
+     "title": "11.4 Radon Transform of Functionals",
+     "start": 357,
+     "end": 358,
+     "summary": ""
+    },
+    {
+     "title": "11.5 Clifford Fourier Transforms",
+     "start": 359,
+     "end": 361,
+     "summary": ""
+    },
+    {
+     "title": "11.6 From Real to Clifford Wavelet Transforms for Multiresolution Analysis",
+     "start": 362,
+     "end": 378,
+     "summary": ""
+    }
+   ],
+   "end": 380,
+   "summary": "Hypercomplex signal transforms.",
+   "terms": [
+    "quaternion Fourier transform",
+    "Clifford Fourier transform",
+    "Gabor filters",
+    "monogenic signal",
+    "Riesz transform",
+    "Clifford wavelets"
+   ]
+  },
+  {
+   "title": "12 Geometric Algebra of Computer Vision",
+   "start": 381,
+   "sections": [
+    {
+     "title": "12.1 Introduction",
+     "start": 381,
+     "end": 381,
+     "summary": ""
+    },
+    {
+     "title": "12.2 The Geometric Algebras of 3D and 4D Spaces",
+     "start": 382,
+     "end": 388,
+     "summary": ""
+    },
+    {
+     "title": "12.3 The Algebra of Incidence",
+     "start": 389,
+     "end": 391,
+     "summary": ""
+    },
+    {
+     "title": "12.4 Algebra in Projective Space",
+     "start": 392,
+     "end": 394,
+     "summary": ""
+    },
+    {
+     "title": "12.5 Projective Invariants",
+     "start": 395,
+     "end": 399,
+     "summary": ""
+    },
+    {
+     "title": "12.6 Visual Geometry of n-Uncalibrated Cameras",
+     "start": 400,
+     "end": 408,
+     "summary": ""
+    },
+    {
+     "title": "12.7 Calibrated Camera Model and Stereo Vision Using the Conformal Geometric Algebra Framework",
+     "start": 409,
+     "end": 413,
+     "summary": ""
+    },
+    {
+     "title": "12.8 Omnidirectional Vision",
+     "start": 414,
+     "end": 417,
+     "summary": ""
+    },
+    {
+     "title": "12.9 Invariants in the Conformal Space",
+     "start": 418,
+     "end": 422,
+     "summary": ""
+    },
+    {
+     "title": "12.10 Conformal Geometric Algebra Voting Scheme",
+     "start": 423,
+     "end": 425,
+     "summary": ""
+    },
+    {
+     "title": "12.11 Conformal Model for Stereoscopic Perception Systems",
+     "start": 426,
+     "end": 431,
+     "summary": ""
+    }
+   ],
+   "end": 436,
+   "summary": "Geometric algebra for computer vision.",
+   "terms": [
+    "incidence algebra",
+    "projective space",
+    "projective invariants",
+    "multi-view geometry",
+    "camera calibration",
+    "stereo"
+   ]
+  },
+  {
+   "title": "13 Geometric Neurocomputing",
+   "start": 437,
+   "sections": [
+    {
+     "title": "13.1 Introduction",
+     "start": 437,
+     "end": 438,
+     "summary": ""
+    },
+    {
+     "title": "13.2 Real-Valued Neural Networks",
+     "start": 439,
+     "end": 439,
+     "summary": ""
+    },
+    {
+     "title": "13.3 Complex MLP and Quaternionic MLP",
+     "start": 440,
+     "end": 440,
+     "summary": ""
+    },
+    {
+     "title": "13.4 Geometric Algebra Neural Networks",
+     "start": 440,
+     "end": 447,
+     "summary": ""
+    },
+    {
+     "title": "13.5 Geometric Radial Basis Function Networks",
+     "start": 448,
+     "end": 450,
+     "summary": ""
+    },
+    {
+     "title": "13.6 Spherical Radial Basis Function Network",
+     "start": 451,
+     "end": 452,
+     "summary": ""
+    },
+    {
+     "title": "13.7 Quaternion Wavelet Function Network",
+     "start": 453,
+     "end": 455,
+     "summary": ""
+    },
+    {
+     "title": "13.8 Support Vector Machines in Geometric Algebra",
+     "start": 456,
+     "end": 456,
+     "summary": ""
+    },
+    {
+     "title": "13.9 Linear Clifford Support Vector Machines for Classification",
+     "start": 457,
+     "end": 460,
+     "summary": ""
+    },
+    {
+     "title": "13.10 Nonlinear Clifford Support Vector Machines for Classification",
+     "start": 461,
+     "end": 461,
+     "summary": ""
+    },
+    {
+     "title": "13.11 Clifford SVM for Regression",
+     "start": 462,
+     "end": 464,
+     "summary": ""
+    },
+    {
+     "title": "13.12 Real- and Quaternion-Valued Spike Neural Networks",
+     "start": 465,
+     "end": 474,
+     "summary": ""
+    },
+    {
+     "title": "13.13 Rotor or Quaternion Quantum Neural Networks",
+     "start": 475,
+     "end": 498,
+     "summary": ""
+    },
+    {
+     "title": "13.14 Deep Learning Using Geometric Algebra",
+     "start": 499,
+     "end": 504,
+     "summary": ""
+    }
+   ],
+   "end": 507,
+   "summary": "Geometric neural networks.",
+   "terms": [
+    "quaternion MLP",
+    "Clifford neural networks",
+    "geometric RBF networks",
+    "Clifford SVM"
+   ]
+  },
+  {
+   "title": "14 Applications of Lie Filters, Quaternion Fourier, and Wavelet Transforms",
+   "start": 508,
+   "sections": [
+    {
+     "title": "14.1 Lie Filters in the Affine Plane",
+     "start": 508,
+     "end": 511,
+     "summary": ""
+    },
+    {
+     "title": "14.2 Representation of Speech as 2D Signals",
+     "start": 512,
+     "end": 512,
+     "summary": ""
+    },
+    {
+     "title": "14.3 Preprocessing of Speech 2D Representations",
+     "start": 513,
+     "end": 516,
+     "summary": ""
+    },
+    {
+     "title": "14.4 Recognition of French Phonemes Using Neurocomputing",
+     "start": 517,
+     "end": 518,
+     "summary": ""
+    },
+    {
+     "title": "14.5 Application of QWT",
+     "start": 519,
+     "end": 526,
+     "summary": ""
+    },
+    {
+     "title": "14.6 Riesz Transform and Multiresolution Processing",
+     "start": 527,
+     "end": 535,
+     "summary": ""
+    }
+   ],
+   "end": 536,
+   "summary": "Signal-processing applications.",
+   "terms": [
+    "Lie filters",
+    "speech as 2D signals",
+    "phoneme recognition",
+    "quaternion wavelets",
+    "Riesz transform"
+   ]
+  },
+  {
+   "title": "15 Invariants Theory in Computer Vision and Omnidirectional Vision",
+   "start": 537,
+   "sections": [
+    {
+     "title": "15.1 Introduction",
+     "start": 537,
+     "end": 537,
+     "summary": ""
+    },
+    {
+     "title": "15.2 Conics and Pascal's Theorem",
+     "start": 538,
+     "end": 540,
+     "summary": ""
+    },
+    {
+     "title": "15.3 Computing Intrinsic Camera Parameters",
+     "start": 541,
+     "end": 542,
+     "summary": ""
+    },
+    {
+     "title": "15.4 Projective Invariants",
+     "start": 543,
+     "end": 551,
+     "summary": ""
+    },
+    {
+     "title": "15.5 3D Projective Invariants from Multiple Views",
+     "start": 552,
+     "end": 557,
+     "summary": ""
+    },
+    {
+     "title": "15.6 Visually Guided Grasping",
+     "start": 558,
+     "end": 560,
+     "summary": ""
+    },
+    {
+     "title": "15.7 Camera Self-localization",
+     "start": 561,
+     "end": 561,
+     "summary": ""
+    },
+    {
+     "title": "15.8 Projective Depth",
+     "start": 562,
+     "end": 563,
+     "summary": ""
+    },
+    {
+     "title": "15.9 Shape and Motion",
+     "start": 564,
+     "end": 568,
+     "summary": ""
+    },
+    {
+     "title": "15.10 Omnidirectional Vision Landmark Identification Using Projective Invariants",
+     "start": 569,
+     "end": 574,
+     "summary": ""
+    },
+    {
+     "title": "15.11 Conclusions",
+     "start": 575,
+     "end": 575,
+     "summary": ""
+    }
+   ],
+   "end": 575,
+   "summary": "Invariants and omnidirectional vision.",
+   "terms": [
+    "conics",
+    "Pascal theorem",
+    "intrinsic calibration",
+    "projective depth",
+    "visually guided grasping",
+    "omnidirectional vision"
+   ]
+  },
+  {
+   "title": "16 Geometric Algebra Tensor Voting, Hough Transform, Voting and Perception Using Conformal Geometric Algebra",
+   "start": 576,
+   "sections": [
+    {
+     "title": "16.1 Problem Formulation",
+     "start": 576,
+     "end": 579,
+     "summary": ""
+    },
+    {
+     "title": "16.2 Tensor Voting",
+     "start": 580,
+     "end": 587,
+     "summary": ""
+    },
+    {
+     "title": "16.3 Experimental Analysis of Tensor Votings Using Geometric Algebra",
+     "start": 588,
+     "end": 593,
+     "summary": ""
+    },
+    {
+     "title": "16.4 Hough Transform in Conformal Geometric Algebra",
+     "start": 594,
+     "end": 600,
+     "summary": ""
+    },
+    {
+     "title": "16.5 Conformal Geometric Algebra Voting Scheme",
+     "start": 601,
+     "end": 612,
+     "summary": ""
+    },
+    {
+     "title": "16.6 Egomotion, 3D Reconstruction, and Relocalization",
+     "start": 613,
+     "end": 620,
+     "summary": ""
+    },
+    {
+     "title": "16.7 3D Pose Estimation Using Conformal Geometric Algebra",
+     "start": 621,
+     "end": 626,
+     "summary": ""
+    },
+    {
+     "title": "16.8 Conclusions",
+     "start": 627,
+     "end": 628,
+     "summary": ""
+    }
+   ],
+   "end": 628,
+   "summary": "Voting and perception in conformal GA.",
+   "terms": [
+    "tensor voting",
+    "Hough transform",
+    "egomotion",
+    "3D reconstruction",
+    "pose estimation"
+   ]
+  },
+  {
+   "title": "17 Modeling and Registration of Medical Data",
+   "start": 629,
+   "sections": [
+    {
+     "title": "17.1 Background",
+     "start": 629,
+     "end": 630,
+     "summary": ""
+    },
+    {
+     "title": "17.2 Segmentation",
+     "start": 631,
+     "end": 635,
+     "summary": ""
+    },
+    {
+     "title": "17.3 Marching Spheres",
+     "start": 636,
+     "end": 638,
+     "summary": ""
+    },
+    {
+     "title": "17.4 Registration of Two Models",
+     "start": 639,
+     "end": 643,
+     "summary": ""
+    },
+    {
+     "title": "17.5 Conclusions",
+     "start": 644,
+     "end": 645,
+     "summary": ""
+    }
+   ],
+   "end": 645,
+   "summary": "Medical data modeling and registration.",
+   "terms": [
+    "segmentation",
+    "marching spheres",
+    "registration"
+   ]
+  },
+  {
+   "title": "18 Applications in Neurocomputing",
+   "start": 646,
+   "sections": [
+    {
+     "title": "18.1 Experiments Using Geometric Feedforward Neural Networks",
+     "start": 646,
+     "end": 649,
+     "summary": ""
+    },
+    {
+     "title": "18.2 Recognition of 2D and 3D Low-Level Structures",
+     "start": 650,
+     "end": 658,
+     "summary": ""
+    },
+    {
+     "title": "18.3 Experiments Using Clifford Support Vector Machines",
+     "start": 659,
+     "end": 671,
+     "summary": ""
+    }
+   ],
+   "end": 672,
+   "summary": "Experiments with geometric neural networks.",
+   "terms": [
+    "feedforward geometric networks",
+    "low-level structure recognition",
+    "Clifford SVM experiments"
+   ]
+  },
+  {
+   "title": "19 Neurocomputing for 2D Contour and 3D Surface Reconstruction",
+   "start": 673,
+   "sections": [
+    {
+     "title": "19.1 Determining the Shape of an Object",
+     "start": 673,
+     "end": 677,
+     "summary": ""
+    },
+    {
+     "title": "19.2 Experiments",
+     "start": 678,
+     "end": 688,
+     "summary": ""
+    }
+   ],
+   "end": 689,
+   "summary": "Neural shape reconstruction.",
+   "terms": [
+    "contour reconstruction",
+    "surface reconstruction",
+    "neural gas"
+   ]
+  },
+  {
+   "title": "20 Clifford Algebras and Related Algebras",
+   "start": 690,
+   "sections": [
+    {
+     "title": "20.1 Clifford Algebras",
+     "start": 690,
+     "end": 699,
+     "summary": ""
+    },
+    {
+     "title": "20.2 Related Algebras",
+     "start": 700,
+     "end": 730,
+     "summary": ""
+    }
+   ],
+   "end": 730,
+   "summary": "Clifford algebras and relatives.",
+   "terms": [
+    "Clifford algebras",
+    "classification",
+    "related algebras"
+   ]
+  }
+ ],
+ "title": "Geometric Algebra Applications, Vol. I: Computer Vision, Graphics and Neurocomputing",
+ "byline": "Eduardo Bayro-Corrochano · Springer, 2019",
+ "note": "Long and finely sectioned, so summaries and terms are given per chapter; each section is listed with its PDF page range. Exercise and conclusion sections and the front-matter guide are not broken out. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "A large reference on Clifford/geometric algebra as a unified language for geometric computing in robotics, vision and neural networks. Part I develops the mathematics: multivector products and operations, differentiation and multilinear functions, geometric calculus (including Maxwell and Dirac equations), Lie algebras and groups via rotors, 2D–4D algebras, kinematics with motors, conformal geometric algebra and higher algebras, plus implementation issues. Later parts cover quaternion and Clifford Fourier and wavelet transforms, geometric algebra for multi-view and stereo computer vision, geometric neural networks and Clifford SVMs, and applications: Lie filters, speech recognition, projective invariants and omnidirectional vision, tensor voting and Hough transforms in conformal algebra, medical data registration and surface reconstruction."
+}
