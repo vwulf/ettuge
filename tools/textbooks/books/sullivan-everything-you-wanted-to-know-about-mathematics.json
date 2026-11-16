@@ -1,0 +1,455 @@
+{
+ "url": "https://drive.google.com/file/d/1-4eiPhZAdmwP-ed6RJzHCinqdAuJpQMq/view",
+ "chapters": [
+  {
+   "title": "What Is Mathematics?",
+   "start": 13,
+   "sections": [
+    {
+     "title": "Truths and Proofs",
+     "start": 13,
+     "end": 21,
+     "summary": "Truth, proof and mathematical statements.",
+     "terms": [
+      "truth",
+      "proof"
+     ]
+    },
+    {
+     "title": "Exposition Exhibition",
+     "start": 22,
+     "end": 40,
+     "summary": "Exposition: writing proofs clearly.",
+     "terms": [
+      "mathematical writing"
+     ]
+    }
+   ],
+   "end": 100,
+   "summary": "What mathematics and proof are."
+  },
+  {
+   "title": "Mathematical Induction",
+   "start": 101,
+   "sections": [
+    {
+     "title": "Examples and Discussion",
+     "start": 104,
+     "end": 118,
+     "summary": "Worked examples.",
+     "terms": [
+      "induction examples"
+     ]
+    },
+    {
+     "title": "Defining Induction",
+     "start": 119,
+     "end": 128,
+     "summary": "Defining the principle.",
+     "terms": [
+      "principle of induction"
+     ]
+    },
+    {
+     "title": "Two More (Different) Examples",
+     "start": 129,
+     "end": 136,
+     "summary": "Two different kinds of example.",
+     "terms": [
+      "examples"
+     ]
+    },
+    {
+     "title": "Applications",
+     "start": 137,
+     "end": 143,
+     "summary": "Applications.",
+     "terms": [
+      "applications"
+     ]
+    }
+   ],
+   "end": 148,
+   "summary": "Induction, informally."
+  },
+  {
+   "title": "Sets",
+   "start": 149,
+   "sections": [
+    {
+     "title": "The Idea of a ``Set''",
+     "start": 151,
+     "end": 152,
+     "summary": "The idea of a set.",
+     "terms": [
+      "sets"
+     ]
+    },
+    {
+     "title": "Definition and Examples",
+     "start": 153,
+     "end": 163,
+     "summary": "Definitions and examples.",
+     "terms": [
+      "notation"
+     ]
+    },
+    {
+     "title": "Subsets",
+     "start": 164,
+     "end": 171,
+     "summary": "Subsets.",
+     "terms": [
+      "subsets"
+     ]
+    },
+    {
+     "title": "Set Operations",
+     "start": 172,
+     "end": 176,
+     "summary": "Operations.",
+     "terms": [
+      "union",
+      "intersection",
+      "complement"
+     ]
+    },
+    {
+     "title": "Indexed Sets",
+     "start": 177,
+     "end": 185,
+     "summary": "Indexed families.",
+     "terms": [
+      "indexed sets"
+     ]
+    },
+    {
+     "title": "Cartesian Products",
+     "start": 186,
+     "end": 189,
+     "summary": "Cartesian products.",
+     "terms": [
+      "cartesian product"
+     ]
+    },
+    {
+     "title": "Defining the Natural Numbers",
+     "start": 190,
+     "end": 193,
+     "summary": "Defining \u2115.",
+     "terms": [
+      "natural numbers"
+     ]
+    },
+    {
+     "title": "Proofs Involving Sets",
+     "start": 194,
+     "end": 206,
+     "summary": "Proofs about sets.",
+     "terms": [
+      "set proofs"
+     ]
+    }
+   ],
+   "end": 214,
+   "summary": "Sets."
+  },
+  {
+   "title": "Logic",
+   "start": 215,
+   "sections": [
+    {
+     "title": "Mathematical Statements",
+     "start": 217,
+     "end": 225,
+     "summary": "Mathematical statements.",
+     "terms": [
+      "statements"
+     ]
+    },
+    {
+     "title": "Quantifiers: Existential and Universal",
+     "start": 226,
+     "end": 234,
+     "summary": "Quantifiers.",
+     "terms": [
+      "quantifiers"
+     ]
+    },
+    {
+     "title": "Logical Negation of Quantified Statements",
+     "start": 235,
+     "end": 243,
+     "summary": "Negating quantified statements.",
+     "terms": [
+      "negation"
+     ]
+    },
+    {
+     "title": "Logical Connectives",
+     "start": 244,
+     "end": 257,
+     "summary": "Connectives.",
+     "terms": [
+      "connectives"
+     ]
+    },
+    {
+     "title": "Logical Equivalence",
+     "start": 258,
+     "end": 277,
+     "summary": "Logical equivalence.",
+     "terms": [
+      "equivalence"
+     ]
+    },
+    {
+     "title": "Negation of Any Mathematical Statement",
+     "start": 278,
+     "end": 283,
+     "summary": "Negating any statement.",
+     "terms": [
+      "negation"
+     ]
+    },
+    {
+     "title": "Truth Values and Sets",
+     "start": 284,
+     "end": 285,
+     "summary": "Truth sets.",
+     "terms": [
+      "truth sets"
+     ]
+    },
+    {
+     "title": "Writing Proofs: Strategies and Examples",
+     "start": 286,
+     "end": 311,
+     "summary": "Proof strategies.",
+     "terms": [
+      "proof strategies",
+      "contrapositive",
+      "contradiction"
+     ]
+    }
+   ],
+   "end": 320,
+   "summary": "Logic for proofs."
+  },
+  {
+   "title": "Rigorous Mathematical Induction",
+   "start": 321,
+   "sections": [
+    {
+     "title": "Regular Induction",
+     "start": 322,
+     "end": 330,
+     "summary": "Regular induction.",
+     "terms": [
+      "induction"
+     ]
+    },
+    {
+     "title": "Other Variants of Induction",
+     "start": 331,
+     "end": 341,
+     "summary": "Variants.",
+     "terms": [
+      "variants"
+     ]
+    },
+    {
+     "title": "Strong Induction",
+     "start": 342,
+     "end": 356,
+     "summary": "Strong induction.",
+     "terms": [
+      "strong induction"
+     ]
+    },
+    {
+     "title": "Variants of Strong Induction",
+     "start": 357,
+     "end": 365,
+     "summary": "Variants of strong induction.",
+     "terms": [
+      "well-ordering"
+     ]
+    }
+   ],
+   "end": 376,
+   "summary": "Induction, rigorously."
+  },
+  {
+   "title": "Relations and Modular Arithmetic",
+   "start": 377,
+   "sections": [
+    {
+     "title": "Abstract (Binary) Relations",
+     "start": 380,
+     "end": 392,
+     "summary": "Binary relations.",
+     "terms": [
+      "relations"
+     ]
+    },
+    {
+     "title": "Order Relations",
+     "start": 393,
+     "end": 398,
+     "summary": "Order relations.",
+     "terms": [
+      "partial orders"
+     ]
+    },
+    {
+     "title": "Equivalence Relations",
+     "start": 399,
+     "end": 413,
+     "summary": "Equivalence relations.",
+     "terms": [
+      "equivalence classes"
+     ]
+    },
+    {
+     "title": "Modular Arithmetic",
+     "start": 414,
+     "end": 455,
+     "summary": "Modular arithmetic.",
+     "terms": [
+      "congruence",
+      "modular arithmetic"
+     ]
+    }
+   ],
+   "end": 466,
+   "summary": "Relations and modular arithmetic."
+  },
+  {
+   "title": "Functions and Cardinality",
+   "start": 467,
+   "sections": [
+    {
+     "title": "Definition and Examples",
+     "start": 469,
+     "end": 481,
+     "summary": "Definitions and examples.",
+     "terms": [
+      "functions"
+     ]
+    },
+    {
+     "title": "Images and Pre-images",
+     "start": 482,
+     "end": 496,
+     "summary": "Images and preimages.",
+     "terms": [
+      "image",
+      "preimage"
+     ]
+    },
+    {
+     "title": "Properties of Functions",
+     "start": 497,
+     "end": 510,
+     "summary": "Injective, surjective, bijective.",
+     "terms": [
+      "injection",
+      "surjection",
+      "bijection"
+     ]
+    },
+    {
+     "title": "Compositions and Inverses",
+     "start": 511,
+     "end": 521,
+     "summary": "Composition and inverses.",
+     "terms": [
+      "composition",
+      "inverse"
+     ]
+    },
+    {
+     "title": "Cardinality",
+     "start": 522,
+     "end": 556,
+     "summary": "Cardinality and countability.",
+     "terms": [
+      "cardinality",
+      "countable",
+      "Cantor"
+     ]
+    }
+   ],
+   "end": 566,
+   "summary": "Functions and cardinality."
+  },
+  {
+   "title": "Combinatorics",
+   "start": 567,
+   "sections": [
+    {
+     "title": "Basic Counting Principles",
+     "start": 570,
+     "end": 588,
+     "summary": "Counting principles.",
+     "terms": [
+      "sum and product rules"
+     ]
+    },
+    {
+     "title": "Counting Arguments",
+     "start": 589,
+     "end": 622,
+     "summary": "Counting arguments.",
+     "terms": [
+      "permutations",
+      "combinations"
+     ]
+    },
+    {
+     "title": "Counting in Two Ways",
+     "start": 623,
+     "end": 642,
+     "summary": "Double counting.",
+     "terms": [
+      "double counting"
+     ]
+    },
+    {
+     "title": "Selections with Repetition",
+     "start": 643,
+     "end": 651,
+     "summary": "Selections with repetition (stars and bars).",
+     "terms": [
+      "stars and bars"
+     ]
+    },
+    {
+     "title": "Pigeonhole Principle",
+     "start": 652,
+     "end": 656,
+     "summary": "Pigeonhole principle.",
+     "terms": [
+      "pigeonhole"
+     ]
+    },
+    {
+     "title": "Inclusion/Exclusion",
+     "start": 657,
+     "end": 661,
+     "summary": "Inclusion\u2013exclusion.",
+     "terms": [
+      "inclusion-exclusion"
+     ]
+    }
+   ],
+   "end": 670,
+   "summary": "Combinatorics."
+  }
+ ],
+ "title": "Everything You Always Wanted to Know About Mathematics (But Didn\u2019t Even Know to Ask)",
+ "byline": "Brendan W. Sullivan, with John Mackey \u00b7 Carnegie Mellon University, 2013 (thesis-book for CMU\u2019s Concepts of Mathematics)",
+ "note": "Chapter introductions, summaries, exercises, \u201clookahead\u201d sections and the closing list of definitions and theorems are not broken out. Your Drive has three identical copies of this PDF; links go to one. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "A conversational, guided introduction to abstract mathematics and proof-writing written for CMU\u2019s first-year course. Part I teaches how to think mathematically: what mathematics and proof are, induction informally and then rigorously, sets, and logic with quantifiers and negation. Part II applies this to core topics: relations, orders and equivalence relations with modular arithmetic, functions and cardinality, and combinatorics (counting principles, double counting, selections with repetition, pigeonhole and inclusion\u2013exclusion)."
+}

@@ -43,6 +43,7 @@ Partial PDFs (samples, excerpts, unfinished drafts) are marked as such on their 
 - [Theorem Proving in Lean 4](theorem-proving-in-lean-4) (Avigad, de Moura, Kong, Ullrich): dependent types, tactics, inductive types, type classes
 - [Type Theory and Functional Programming](thompson-type-theory-functional-programming) (Simon Thompson): Martin-Löf type theory as logic and programming language, with program development and extensions.
 - [Unix System Programming in OCaml](unix-system-programming-ocaml) (Leroy, Rémy): files, processes, signals, pipes, sockets, threads
+- [Zionomicon](zionomicon) (John A. De Goes, Adam Fraser and Milad Khajavi): ZIO 2 in depth: fibers, concurrency structures, resources, layers, STM, schedules, streams and ZIO Test.
 
 ## Mathematics
 
@@ -52,6 +53,7 @@ Partial PDFs (samples, excerpts, unfinished drafts) are marked as such on their 
 - [Category Theory for Programmers (Scala edition)](milewski-category-theory-for-programmers) (Bartosz Milewski): Category theory through code: functors, Yoneda, adjunctions, monads, comonads, F-algebras, ends, Kan extensions.
 - [Category Theory for Scientists](spivak-category-theory-for-scientists) (Spivak): ologs, databases, limits, adjoints, monads, operads
 - [Conceptual Mathematics](lawvere-conceptual-mathematics) (F. William Lawvere and Stephen Schanuel): A first course in categories from sets and maps to products, exponentials and toposes.
+- [Everything You Always Wanted to Know About Mathematics](sullivan-everything-you-wanted-to-know-about-mathematics) (Brendan W. Sullivan): Conversational intro to proof: induction, sets, logic, relations, functions, cardinality, combinatorics.
 - [Geometric Structures on Manifolds](goldman-geometric-structures-on-manifolds) (William M. Goldman): (G,X)-structures: affine and projective geometry, developing maps, completeness, convex projective surfaces.
 - [Graph Theory and Additive Combinatorics](zhao-graph-theory-additive-combinatorics) (Yufei Zhao): Extremal graphs, regularity, pseudorandomness, graph limits, Roth, Freiman and Green–Tao.
 - [Homotopy Type Theory: Univalent Foundations of Mathematics](hott-book) (Univalent Foundations Program (IAS)): Type theory as homotopy: univalence, HITs, n-types, synthetic homotopy theory, categories, reals.
@@ -60,11 +62,13 @@ Partial PDFs (samples, excerpts, unfinished drafts) are marked as such on their 
 - [Intuitionistic Type Theory](martin-lof-intuitionistic-type-theory) (Martin-Löf): meaning explanations and the type formers
 - [Intuitive Topology](prasolov-intuitive-topology) (Prasolov): knots, homeomorphisms, vector fields, surfaces
 - [Linear Algebra Done Wrong](linear-algebra-done-wrong) (Sergei Treil): Rigorous first course with early determinants, through SVD, quadratic forms, tensors and Jordan form.
+- [Linear Algebra for Computer Vision, Robotics, and Machine Learning](gallier-linear-algebra-vision-robotics-ml) (Jean Gallier and Jocelyn Quaintance): Rigorous, computational linear algebra: factorizations, norms, spectral theory, quaternions, Laplacians, SVD.
 - [Linear Algebra via Exterior Products](linear-algebra-via-exterior-products) (Sergei Winitzki): Coordinate-free linear algebra where determinants, trace and Jordan form come from wedge products.
 - [Linear Algebra, Theory and Applications](kuttler-linear-algebra) (Kenneth Kuttler): Matrix computation and theory: factorizations, canonical forms, spectral theory, SVD, norms, numerics.
 - [Module Theory: An Approach to Linear Algebra](blyth-module-theory) (T. S. Blyth): Linear algebra over rings: exact sequences, projective and injective modules, tensors, PIDs and canonical forms.
 - [Surreal Numbers (opening chapters)](surreal-numbers) (Knuth): Conway’s numbers rediscovered as a story
 - [The Discrete Algebra of the Fourier Transform](discrete-algebra-fourier-transform) (Gabriel Peyré): Fourier analysis on finite groups, the DFT and FFT, finite-field transforms and group representations.
+- [The Riddle of Scheherazade](smullyan-riddle-of-scheherazade) (Raymond M. Smullyan): Logic and recreational puzzles: liars and truth-tellers, coercive logic, Gödel-flavored puzzles, paradoxes.
 
 ## Linguistics and Languages
 

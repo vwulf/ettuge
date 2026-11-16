@@ -1,0 +1,293 @@
+{
+ "url": "https://drive.google.com/file/d/12q2ln1GlijDjUZHo-eyPDhrnMSgAFe0G/view",
+ "chapters": [
+  {
+   "title": "I: The Source",
+   "start": 16,
+   "sections": [],
+   "end": 27,
+   "summary": "The frame story: Scheherazade after the thousand and one nights.",
+   "terms": [
+    "Scheherazade",
+    "Arabian Nights",
+    "frame story"
+   ]
+  },
+  {
+   "title": "II: In Which Is Related How Scheherazade Entertained the King on the Thousand-and-Third Night",
+   "start": 28,
+   "sections": [],
+   "end": 53,
+   "summary": "Opening riddles to keep the king amused.",
+   "terms": [
+    "riddles",
+    "wordplay",
+    "lateral thinking"
+   ]
+  },
+  {
+   "title": "III: Wherein Is Related How Scheherazade Further Entertained the King on the Thousand-and-Fourth Night",
+   "start": 54,
+   "sections": [],
+   "end": 78,
+   "summary": "More riddles and jokes.",
+   "terms": [
+    "riddles",
+    "humor",
+    "puzzles"
+   ]
+  },
+  {
+   "title": "IV: The Thousand-and-Fifth Night, in Which Scheherazade Relates Some Puzzles of Ancient Origin",
+   "start": 79,
+   "sections": [],
+   "end": 99,
+   "summary": "Classic puzzles from Western sources.",
+   "terms": [
+    "classic puzzles",
+    "arrangements",
+    "arithmetic puzzles"
+   ]
+  },
+  {
+   "title": "V: The Thousand-and-Sixth Night, in Which Scheherazade Gives the King Some Problems in Probability",
+   "start": 100,
+   "sections": [],
+   "end": 116,
+   "summary": "Puzzles in probability.",
+   "terms": [
+    "probability",
+    "Bertrand box paradox",
+    "conditional probability"
+   ]
+  },
+  {
+   "title": "VI: The Thousand-and-Seventh Night, in Which Scheherazade Relates Some Exploits of Some of Ali Baba\u2019s Forty Thieves",
+   "start": 117,
+   "sections": [],
+   "end": 136,
+   "summary": "Logic puzzles about Ali Baba\u2019s thieves.",
+   "terms": [
+    "liars",
+    "accusations",
+    "deduction"
+   ]
+  },
+  {
+   "title": "VII: In Which Scheherazade Relates Some More Puzzles on This Thousand-and-Eighth Night and Concludes with a Clever Mathematical Observation",
+   "start": 137,
+   "sections": [],
+   "end": 152,
+   "summary": "Simple arithmetic puzzles and a clever closing problem.",
+   "terms": [
+    "age puzzles",
+    "algebra word problems"
+   ]
+  },
+  {
+   "title": "VIII: In Which Is Related Scheherazade\u2019s Wondrous Account of the Mazdaysians and Aharmanites",
+   "start": 153,
+   "sections": [],
+   "end": 176,
+   "summary": "Truth-tellers and liars: Mazdaysians and Aharmanites.",
+   "terms": [
+    "knights and knaves",
+    "truth-tellers",
+    "liars"
+   ]
+  },
+  {
+   "title": "IX: The Thousand-and-Tenth Night, in Which Scheherazade Gives a Further Account of the Mazdaysians and Aharmanites",
+   "start": 177,
+   "sections": [],
+   "end": 197,
+   "summary": "More Mazdaysian and Aharmanite puzzles.",
+   "terms": [
+    "knights and knaves",
+    "deduction"
+   ]
+  },
+  {
+   "title": "X: In Which Is Related How Scheherazade Entertained the King with Some Special Items on This Thousand-and-Eleventh Night",
+   "start": 198,
+   "sections": [],
+   "end": 216,
+   "summary": "Number tricks and other special items.",
+   "terms": [
+    "number tricks",
+    "divisibility",
+    "1001"
+   ]
+  },
+  {
+   "title": "XI: Scheherazade\u2019s Puzzles and Metapuzzles of the Thousand-and-Twelfth Night",
+   "start": 217,
+   "sections": [],
+   "end": 230,
+   "summary": "Puzzles and metapuzzles.",
+   "terms": [
+    "metapuzzles",
+    "mislabeled boxes",
+    "probability"
+   ]
+  },
+  {
+   "title": "XII: The Thousand-and-Thirteenth Night, in Which Scheherazade Relates the Story of Al-Khizr",
+   "start": 231,
+   "sections": [],
+   "end": 246,
+   "summary": "A quest story with tests of logic (Al-Khizr).",
+   "terms": [
+    "quest puzzles",
+    "logic tests"
+   ]
+  },
+  {
+   "title": "XIII: The Grand Question!",
+   "start": 247,
+   "sections": [],
+   "end": 255,
+   "summary": "The yes/no question that saves Scheherazade.",
+   "terms": [
+    "self-reference",
+    "coercive question",
+    "paradox"
+   ]
+  },
+  {
+   "title": "XIV: Coercive Logic",
+   "start": 256,
+   "sections": [],
+   "end": 284,
+   "summary": "Forcing answers with self-referential questions.",
+   "terms": [
+    "coercive logic",
+    "self-reference"
+   ]
+  },
+  {
+   "title": "XV: Right- and Left-Handed Coercion",
+   "start": 285,
+   "sections": [],
+   "end": 305,
+   "summary": "Coercion with right- and left-handed truth-tellers.",
+   "terms": [
+    "coercive logic",
+    "truth-tellers"
+   ]
+  },
+  {
+   "title": "XVI: The Ultimate in Coercive Logic",
+   "start": 306,
+   "sections": [],
+   "end": 325,
+   "summary": "The strongest forms of coercive logic.",
+   "terms": [
+    "coercive logic",
+    "dilemmas",
+    "offers"
+   ]
+  },
+  {
+   "title": "XVII: Variable Liars",
+   "start": 326,
+   "sections": [],
+   "end": 346,
+   "summary": "Inhabitants who lie on some days and not others.",
+   "terms": [
+    "variable liars",
+    "days of week",
+    "knights and knaves"
+   ]
+  },
+  {
+   "title": "XVIII: Chinese or Japanese?",
+   "start": 347,
+   "sections": [],
+   "end": 366,
+   "summary": "Machines whose yes/no signals are unknown.",
+   "terms": [
+    "ambiguous answers",
+    "yes/no machines",
+    "logic puzzles"
+   ]
+  },
+  {
+   "title": "XIX: Oron and Seth",
+   "start": 367,
+   "sections": [],
+   "end": 384,
+   "summary": "Beliefs that flip on another planet.",
+   "terms": [
+    "belief logic",
+    "Oron and Seth",
+    "epistemic puzzles"
+   ]
+  },
+  {
+   "title": "XX: Which Personality?",
+   "start": 385,
+   "sections": [],
+   "end": 398,
+   "summary": "Twins whose truthfulness depends on mental state.",
+   "terms": [
+    "split personality",
+    "truth-tellers",
+    "questions"
+   ]
+  },
+  {
+   "title": "XXI: Oh No!",
+   "start": 399,
+   "sections": [],
+   "end": 437,
+   "summary": "Three-state cyclic liars.",
+   "terms": [
+    "cyclic states",
+    "liars",
+    "logic puzzles"
+   ]
+  },
+  {
+   "title": "XXII: A Mixed Bag: Some Logic Tricks and Games",
+   "start": 438,
+   "sections": [],
+   "end": 464,
+   "summary": "Assorted logic tricks and games.",
+   "terms": [
+    "logic tricks",
+    "games",
+    "self-reference"
+   ]
+  },
+  {
+   "title": "XXIII: Some Special Problems",
+   "start": 465,
+   "sections": [],
+   "end": 497,
+   "summary": "Puzzles linked to G\u00f6del\u2019s incompleteness theorem.",
+   "terms": [
+    "G\u00f6del incompleteness",
+    "provability",
+    "knights and knaves"
+   ]
+  },
+  {
+   "title": "XXIV: Some Strange Paradoxes!",
+   "start": 498,
+   "sections": [],
+   "end": 536,
+   "summary": "Paradoxes of self-reference.",
+   "terms": [
+    "liar paradox",
+    "Epimenides",
+    "self-reference",
+    "paradoxes"
+   ]
+  }
+ ],
+ "title": "The Riddle of Scheherazade and Other Amazing Puzzles, Ancient and Modern",
+ "byline": "Raymond M. Smullyan \u00b7 Alfred A. Knopf, 1997",
+ "note": "Each chapter is one entry; puzzles are numbered within chapters and their solutions are collected at the back (PDF pp. 538\u2013686, not broken down). Summaries are in our own words; the text stays in the PDF.",
+ "summary": "A puzzle book in two parts. In Book One, Scheherazade, having run out of stories after the thousand and one nights, keeps entertaining the king with riddles, arithmetic and probability puzzles, truth-teller/liar problems about the Mazdaysians and Aharmanites, metapuzzles, and a quest story, ending with the yes-or-no \u201cgrand question\u201d that forces the king to spare her. Book Two turns that trick into \u201ccoercive logic\u201d and moves on to Smullyan\u2019s signature logic worlds: liars who change by day, ambiguous yes/no machines, disoriented planet-dwellers, split personalities, tricks and games, problems related to G\u00f6del\u2019s theorem, and classic paradoxes of self-reference."
+}

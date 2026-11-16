@@ -1,0 +1,2363 @@
+{
+ "url": "https://drive.google.com/file/d/1Mm9QlnS38BmXS47ZiY6Ne1Aw18malK6c/view",
+ "chapters": [
+  {
+   "title": "Foreword by John A. De Goes",
+   "start": 17,
+   "sections": [
+    {
+     "title": "A Brief History of ZIO",
+     "start": 17,
+     "end": 17,
+     "summary": ""
+    },
+    {
+     "title": "The Birth of ZIO",
+     "start": 18,
+     "end": 18,
+     "summary": ""
+    },
+    {
+     "title": "Contentious Concurrency",
+     "start": 18,
+     "end": 18,
+     "summary": ""
+    },
+    {
+     "title": "Typed Errors & Other Evolution",
+     "start": 19,
+     "end": 19,
+     "summary": ""
+    },
+    {
+     "title": "Contributor Growth",
+     "start": 20,
+     "end": 20,
+     "summary": ""
+    },
+    {
+     "title": "Improved Type-Inference",
+     "start": 20,
+     "end": 20,
+     "summary": ""
+    },
+    {
+     "title": "Batteries Included",
+     "start": 21,
+     "end": 21,
+     "summary": ""
+    },
+    {
+     "title": "ZIO Stream",
+     "start": 22,
+     "end": 22,
+     "summary": ""
+    },
+    {
+     "title": "ZIO Environment",
+     "start": 22,
+     "end": 22,
+     "summary": ""
+    },
+    {
+     "title": "Software Transactional Memory",
+     "start": 23,
+     "end": 23,
+     "summary": ""
+    },
+    {
+     "title": "Execution Traces",
+     "start": 24,
+     "end": 24,
+     "summary": ""
+    },
+    {
+     "title": "Summer 2019",
+     "start": 25,
+     "end": 25,
+     "summary": ""
+    },
+    {
+     "title": "ZIO Test",
+     "start": 25,
+     "end": 25,
+     "summary": ""
+    },
+    {
+     "title": "ZLayer",
+     "start": 26,
+     "end": 26,
+     "summary": ""
+    },
+    {
+     "title": "Structured Concurrency",
+     "start": 27,
+     "end": 27,
+     "summary": ""
+    },
+    {
+     "title": "Preparation for ZIO 2.0",
+     "start": 27,
+     "end": 27,
+     "summary": ""
+    },
+    {
+     "title": "Simplification of ZIO Environment and Dependency Injection",
+     "start": 28,
+     "end": 28,
+     "summary": ""
+    },
+    {
+     "title": "ZIO Becomes Composable Resourceful Effect",
+     "start": 28,
+     "end": 28,
+     "summary": ""
+    },
+    {
+     "title": "Service Pattern",
+     "start": 29,
+     "end": 29,
+     "summary": ""
+    },
+    {
+     "title": "Smart Assertions",
+     "start": 29,
+     "end": 29,
+     "summary": ""
+    },
+    {
+     "title": "More Concrete Types",
+     "start": 29,
+     "end": 29,
+     "summary": ""
+    },
+    {
+     "title": "Unified Streaming",
+     "start": 30,
+     "end": 30,
+     "summary": ""
+    },
+    {
+     "title": "Regional Settings and Contextual Scopes",
+     "start": 30,
+     "end": 30,
+     "summary": ""
+    },
+    {
+     "title": "Observability",
+     "start": 30,
+     "end": 30,
+     "summary": ""
+    },
+    {
+     "title": "Performance",
+     "start": 31,
+     "end": 31,
+     "summary": ""
+    },
+    {
+     "title": "ZIO 2.0",
+     "start": 32,
+     "end": 32,
+     "summary": ""
+    },
+    {
+     "title": "What is Next?",
+     "start": 32,
+     "end": 32,
+     "summary": ""
+    },
+    {
+     "title": "Why ZIO",
+     "start": 33,
+     "end": 33,
+     "summary": ""
+    },
+    {
+     "title": "ZIO Alternatives",
+     "start": 33,
+     "end": 33,
+     "summary": ""
+    },
+    {
+     "title": "Zionomicon",
+     "start": 34,
+     "end": 36,
+     "summary": ""
+    }
+   ],
+   "end": 36,
+   "summary": "How ZIO evolved from 1.0 to 2.0 and why.",
+   "terms": [
+    "ZIO history",
+    "ZIO 2.0",
+    "structured concurrency",
+    "ZLayer",
+    "ZIO Test",
+    "alternatives",
+    "Cats Effect"
+   ],
+   "links": [
+    [
+     "Introduction",
+     "https://zio.dev/reference/"
+    ]
+   ]
+  },
+  {
+   "title": "Essentials: First Steps With ZIO",
+   "start": 37,
+   "sections": [
+    {
+     "title": "Functional Effects as Blueprints",
+     "start": 37,
+     "end": 40,
+     "summary": ""
+    },
+    {
+     "title": "Sequential Composition",
+     "start": 41,
+     "end": 42,
+     "summary": ""
+    },
+    {
+     "title": "Other Sequential Operators",
+     "start": 43,
+     "end": 44,
+     "summary": ""
+    },
+    {
+     "title": "ZIO Type Parameters",
+     "start": 45,
+     "end": 48,
+     "summary": ""
+    },
+    {
+     "title": "ZIO Type Aliases",
+     "start": 49,
+     "end": 49,
+     "summary": ""
+    },
+    {
+     "title": "Comparison to Future",
+     "start": 49,
+     "end": 51,
+     "summary": ""
+    },
+    {
+     "title": "More Effect Constructors",
+     "start": 52,
+     "end": 57,
+     "summary": ""
+    },
+    {
+     "title": "Default ZIO Services",
+     "start": 58,
+     "end": 60,
+     "summary": ""
+    },
+    {
+     "title": "Recursion and ZIO",
+     "start": 61,
+     "end": 61,
+     "summary": ""
+    }
+   ],
+   "end": 68,
+   "summary": "Effects as values and the ZIO type.",
+   "terms": [
+    "functional effects",
+    "blueprints",
+    "flatMap",
+    "zip",
+    "ZIO[R",
+    "E",
+    "A]",
+    "type aliases",
+    "Future",
+    "ZIO.attempt",
+    "default services",
+    "recursion"
+   ],
+   "links": [
+    [
+     "ZIO",
+     "https://zio.dev/reference/core/zio/"
+    ]
+   ]
+  },
+  {
+   "title": "Essentials: Testing ZIO Programs",
+   "start": 69,
+   "sections": [
+    {
+     "title": "Writing Simple Programs with ZIO Test",
+     "start": 72,
+     "end": 73,
+     "summary": ""
+    },
+    {
+     "title": "Using Assertions",
+     "start": 74,
+     "end": 75,
+     "summary": ""
+    },
+    {
+     "title": "Test Implementations of Standard ZIO Services",
+     "start": 76,
+     "end": 77,
+     "summary": ""
+    },
+    {
+     "title": "Common Test Aspects",
+     "start": 78,
+     "end": 78,
+     "summary": ""
+    },
+    {
+     "title": "Basic Property-based Testing",
+     "start": 79,
+     "end": 80,
+     "summary": ""
+    }
+   ],
+   "end": 82,
+   "summary": "A first look at ZIO Test.",
+   "terms": [
+    "ZIO Test",
+    "assertions",
+    "TestClock",
+    "test aspects",
+    "property-based testing"
+   ],
+   "links": [
+    [
+     "Writing our first test",
+     "https://zio.dev/reference/test/writing-our-first-test/"
+    ]
+   ]
+  },
+  {
+   "title": "Essentials: The ZIO Error Model",
+   "start": 83,
+   "sections": [
+    {
+     "title": "Exceptions Versus Defects",
+     "start": 83,
+     "end": 84,
+     "summary": ""
+    },
+    {
+     "title": "Cause",
+     "start": 85,
+     "end": 85,
+     "summary": ""
+    },
+    {
+     "title": "Exit",
+     "start": 85,
+     "end": 85,
+     "summary": ""
+    },
+    {
+     "title": "Handling Defects",
+     "start": 86,
+     "end": 86,
+     "summary": ""
+    },
+    {
+     "title": "Converting Errors to Defects",
+     "start": 87,
+     "end": 87,
+     "summary": ""
+    },
+    {
+     "title": "Multiple Failures",
+     "start": 88,
+     "end": 89,
+     "summary": ""
+    },
+    {
+     "title": "Other Useful Error Operators",
+     "start": 90,
+     "end": 90,
+     "summary": ""
+    },
+    {
+     "title": "Combining Effects with Different Errors",
+     "start": 90,
+     "end": 91,
+     "summary": ""
+    },
+    {
+     "title": "Execution Tracing",
+     "start": 92,
+     "end": 92,
+     "summary": ""
+    },
+    {
+     "title": "Dealing With Stacked Errors",
+     "start": 93,
+     "end": 93,
+     "summary": ""
+    },
+    {
+     "title": "Leveraging Typed Errors",
+     "start": 94,
+     "end": 94,
+     "summary": ""
+    }
+   ],
+   "end": 98,
+   "summary": "Typed errors, defects and Cause.",
+   "terms": [
+    "errors vs defects",
+    "Cause",
+    "Exit",
+    "catchAll",
+    "orDie",
+    "multiple failures",
+    "error composition",
+    "execution tracing",
+    "typed errors"
+   ],
+   "links": [
+    [
+     "Error management",
+     "https://zio.dev/reference/error-management/"
+    ],
+    [
+     "Cause",
+     "https://zio.dev/reference/core/cause/"
+    ],
+    [
+     "Exit",
+     "https://zio.dev/reference/core/exit/"
+    ]
+   ]
+  },
+  {
+   "title": "Essentials: Integrating with ZIO",
+   "start": 99,
+   "sections": [
+    {
+     "title": "Integrating with Java",
+     "start": 102,
+     "end": 104,
+     "summary": ""
+    },
+    {
+     "title": "Integrating with Javascript",
+     "start": 105,
+     "end": 105,
+     "summary": ""
+    },
+    {
+     "title": "Integrating with Cats Effect",
+     "start": 106,
+     "end": 107,
+     "summary": ""
+    },
+    {
+     "title": "Integrating with Specific Libraries",
+     "start": 108,
+     "end": 113,
+     "summary": ""
+    }
+   ],
+   "end": 116,
+   "summary": "Interop with Java, JS, Cats Effect and libraries.",
+   "terms": [
+    "Java interop",
+    "CompletableFuture",
+    "Scala.js",
+    "Cats Effect interop",
+    "library integration"
+   ],
+   "links": [
+    [
+     "Java",
+     "https://zio.dev/guides/interop/with-java/"
+    ],
+    [
+     "JavaScript",
+     "https://zio.dev/guides/interop/with-javascript/"
+    ],
+    [
+     "Cats Effect",
+     "https://zio.dev/guides/interop/with-cats-effect/"
+    ],
+    [
+     "Future",
+     "https://zio.dev/guides/interop/with-future/"
+    ]
+   ]
+  },
+  {
+   "title": "Parallelism and Concurrency: The Fiber Model",
+   "start": 117,
+   "sections": [
+    {
+     "title": "Fibers Distinguished from Operating System Threads",
+     "start": 117,
+     "end": 117,
+     "summary": ""
+    },
+    {
+     "title": "Forking Fibers",
+     "start": 118,
+     "end": 118,
+     "summary": ""
+    },
+    {
+     "title": "Joining Fibers",
+     "start": 119,
+     "end": 120,
+     "summary": ""
+    },
+    {
+     "title": "Interrupting Fibers",
+     "start": 121,
+     "end": 122,
+     "summary": ""
+    },
+    {
+     "title": "Fiber Supervision",
+     "start": 123,
+     "end": 124,
+     "summary": ""
+    },
+    {
+     "title": "Locking Effects",
+     "start": 125,
+     "end": 126,
+     "summary": ""
+    }
+   ],
+   "end": 128,
+   "summary": "Fibers.",
+   "terms": [
+    "fibers",
+    "fork",
+    "join",
+    "interrupt",
+    "supervision",
+    "locking to executors"
+   ],
+   "links": [
+    [
+     "Fibers",
+     "https://zio.dev/reference/fiber/"
+    ]
+   ]
+  },
+  {
+   "title": "Parallelism and Concurrency: Concurrency Operators",
+   "start": 129,
+   "sections": [
+    {
+     "title": "The Importance of Concurrency Operators",
+     "start": 129,
+     "end": 129,
+     "summary": ""
+    },
+    {
+     "title": "Race and ZipPar",
+     "start": 129,
+     "end": 129,
+     "summary": ""
+    },
+    {
+     "title": "Variants of ZipPar",
+     "start": 130,
+     "end": 131,
+     "summary": ""
+    },
+    {
+     "title": "Variants of Race",
+     "start": 132,
+     "end": 132,
+     "summary": ""
+    },
+    {
+     "title": "Validation Errors",
+     "start": 133,
+     "end": 133,
+     "summary": ""
+    }
+   ],
+   "end": 136,
+   "summary": "Racing and parallel composition.",
+   "terms": [
+    "race",
+    "zipPar",
+    "foreachPar",
+    "collectAllPar",
+    "validatePar"
+   ],
+   "links": [
+    [
+     "Concurrency",
+     "https://zio.dev/reference/concurrency/"
+    ]
+   ]
+  },
+  {
+   "title": "Parallelism and Concurrency: Fiber Supervision in Depth",
+   "start": 137,
+   "sections": [
+    {
+     "title": "Fork/Join Identity Law",
+     "start": 137,
+     "end": 137,
+     "summary": ""
+    },
+    {
+     "title": "Structured Concurrency",
+     "start": 138,
+     "end": 140,
+     "summary": ""
+    },
+    {
+     "title": "Custom Supervision Strategies",
+     "start": 141,
+     "end": 145,
+     "summary": ""
+    },
+    {
+     "title": "Fire-and-Forget",
+     "start": 146,
+     "end": 146,
+     "summary": ""
+    }
+   ],
+   "end": 148,
+   "summary": "Supervision and structured concurrency.",
+   "terms": [
+    "structured concurrency",
+    "fork/join",
+    "forkDaemon",
+    "custom supervision",
+    "fire-and-forget"
+   ],
+   "links": [
+    [
+     "Fibers",
+     "https://zio.dev/reference/fiber/"
+    ],
+    [
+     "Supervisor",
+     "https://zio.dev/reference/observability/supervisor/"
+    ]
+   ]
+  },
+  {
+   "title": "Parallelism and Concurrency: Interruption in Depth",
+   "start": 149,
+   "sections": [
+    {
+     "title": "Timing of Interruption",
+     "start": 149,
+     "end": 153,
+     "summary": ""
+    },
+    {
+     "title": "Interruptible and Uninterruptible Regions",
+     "start": 154,
+     "end": 155,
+     "summary": ""
+    },
+    {
+     "title": "Composing Interruptibility",
+     "start": 156,
+     "end": 158,
+     "summary": ""
+    },
+    {
+     "title": "Waiting for Interruption",
+     "start": 159,
+     "end": 161,
+     "summary": ""
+    }
+   ],
+   "end": 164,
+   "summary": "Interruption semantics.",
+   "terms": [
+    "interruption",
+    "uninterruptible regions",
+    "interruptibility composition",
+    "await interruption"
+   ],
+   "links": [
+    [
+     "Interruption",
+     "https://zio.dev/reference/interruption/"
+    ]
+   ]
+  },
+  {
+   "title": "Concurrent Structures: Ref - Shared State",
+   "start": 165,
+   "sections": [
+    {
+     "title": "Purely Functional Mutable State",
+     "start": 165,
+     "end": 167,
+     "summary": ""
+    },
+    {
+     "title": "Purely Functional Equivalent of an Atomic Reference",
+     "start": 168,
+     "end": 170,
+     "summary": ""
+    },
+    {
+     "title": "Operations are Atomic but do not Compose Atomically",
+     "start": 171,
+     "end": 171,
+     "summary": ""
+    },
+    {
+     "title": "Ref.Synchronized for Evaluating Effects while Updating",
+     "start": 172,
+     "end": 173,
+     "summary": ""
+    },
+    {
+     "title": "FiberRef for References Specific to each Fiber",
+     "start": 174,
+     "end": 176,
+     "summary": ""
+    }
+   ],
+   "end": 180,
+   "summary": "Ref and FiberRef.",
+   "terms": [
+    "Ref",
+    "atomic updates",
+    "Ref.Synchronized",
+    "FiberRef",
+    "shared state"
+   ],
+   "links": [
+    [
+     "Ref",
+     "https://zio.dev/reference/concurrency/ref/"
+    ],
+    [
+     "Ref.Synchronized",
+     "https://zio.dev/reference/concurrency/refsynchronized/"
+    ],
+    [
+     "FiberRef",
+     "https://zio.dev/reference/state-management/fiberref/"
+    ]
+   ]
+  },
+  {
+   "title": "Concurrent Structures: Promise - Work Synchronization",
+   "start": 181,
+   "sections": [
+    {
+     "title": "Various Ways of Completing Promises",
+     "start": 182,
+     "end": 183,
+     "summary": ""
+    },
+    {
+     "title": "Waiting on a Promise",
+     "start": 184,
+     "end": 184,
+     "summary": ""
+    },
+    {
+     "title": "Promises and Interruption",
+     "start": 185,
+     "end": 185,
+     "summary": ""
+    },
+    {
+     "title": "Combining Ref and Promise for More Complicated Concurrency Scenarios",
+     "start": 186,
+     "end": 187,
+     "summary": ""
+    }
+   ],
+   "end": 190,
+   "summary": "Promise for synchronization.",
+   "terms": [
+    "Promise",
+    "await",
+    "completion",
+    "interruption"
+   ],
+   "links": [
+    [
+     "Promise",
+     "https://zio.dev/reference/concurrency/promise/"
+    ]
+   ]
+  },
+  {
+   "title": "Concurrent Structures: Queue - Work Distribution",
+   "start": 191,
+   "sections": [
+    {
+     "title": "Queues as Generalizations of Promises",
+     "start": 191,
+     "end": 191,
+     "summary": ""
+    },
+    {
+     "title": "Offering and Taking Values from a Queue",
+     "start": 192,
+     "end": 192,
+     "summary": ""
+    },
+    {
+     "title": "Varieties of Queues",
+     "start": 193,
+     "end": 195,
+     "summary": ""
+    },
+    {
+     "title": "Other Combinators on Queues",
+     "start": 196,
+     "end": 197,
+     "summary": ""
+    }
+   ],
+   "end": 200,
+   "summary": "Queues for work distribution.",
+   "terms": [
+    "Queue",
+    "bounded",
+    "dropping",
+    "sliding",
+    "offer",
+    "take"
+   ],
+   "links": [
+    [
+     "Queue",
+     "https://zio.dev/reference/concurrency/queue/"
+    ]
+   ]
+  },
+  {
+   "title": "Concurrent Structures: Hub - Broadcasting",
+   "start": 201,
+   "sections": [
+    {
+     "title": "Hub: An Optimal Solution to the Broadcasting Problem",
+     "start": 202,
+     "end": 203,
+     "summary": ""
+    },
+    {
+     "title": "Creating Hubs",
+     "start": 204,
+     "end": 207,
+     "summary": ""
+    },
+    {
+     "title": "Operators on Hubs",
+     "start": 208,
+     "end": 208,
+     "summary": ""
+    }
+   ],
+   "end": 212,
+   "summary": "Hub for broadcasting.",
+   "terms": [
+    "Hub",
+    "broadcast",
+    "publish",
+    "subscribe"
+   ],
+   "links": [
+    [
+     "Hub",
+     "https://zio.dev/reference/concurrency/hub/"
+    ]
+   ]
+  },
+  {
+   "title": "Concurrent Structures: Semaphore - Work Limiting",
+   "start": 213,
+   "sections": [
+    {
+     "title": "Semaphore Interface",
+     "start": 213,
+     "end": 213,
+     "summary": ""
+    },
+    {
+     "title": "Using Semaphores to Limit Parallelism",
+     "start": 214,
+     "end": 214,
+     "summary": ""
+    },
+    {
+     "title": "Using Semaphore to Implement Operators",
+     "start": 215,
+     "end": 215,
+     "summary": ""
+    },
+    {
+     "title": "Making a Data Structure Safe for Concurrent Access",
+     "start": 216,
+     "end": 217,
+     "summary": ""
+    }
+   ],
+   "end": 218,
+   "summary": "Semaphores for limiting concurrency.",
+   "terms": [
+    "Semaphore",
+    "withPermits",
+    "limiting parallelism"
+   ],
+   "links": [
+    [
+     "Semaphore",
+     "https://zio.dev/reference/concurrency/semaphore/"
+    ]
+   ]
+  },
+  {
+   "title": "Resource Handling: Acquire Release - Safe Resource Handling",
+   "start": 219,
+   "sections": [
+    {
+     "title": "The Limitation of try-finally in Asynchronous Programming",
+     "start": 219,
+     "end": 220,
+     "summary": ""
+    },
+    {
+     "title": "Acquire Release as a Generalization of Try and Finally",
+     "start": 221,
+     "end": 222,
+     "summary": ""
+    },
+    {
+     "title": "The Ensuring Operator",
+     "start": 223,
+     "end": 223,
+     "summary": ""
+    }
+   ],
+   "end": 226,
+   "summary": "acquireRelease and ensuring.",
+   "terms": [
+    "acquireRelease",
+    "bracket",
+    "ensuring",
+    "finalizers"
+   ],
+   "links": [
+    [
+     "Resource management",
+     "https://zio.dev/reference/resource/"
+    ]
+   ]
+  },
+  {
+   "title": "Resource Handling: Scope - Composable Resources",
+   "start": 227,
+   "sections": [
+    {
+     "title": "Reification of Acquire Release",
+     "start": 228,
+     "end": 230,
+     "summary": ""
+    },
+    {
+     "title": "Scope as a Dynamic Scope",
+     "start": 231,
+     "end": 231,
+     "summary": ""
+    },
+    {
+     "title": "Constructing Scoped Resources",
+     "start": 232,
+     "end": 235,
+     "summary": ""
+    },
+    {
+     "title": "Transforming Scoped Resources",
+     "start": 236,
+     "end": 236,
+     "summary": ""
+    },
+    {
+     "title": "Using Scoped Resources",
+     "start": 236,
+     "end": 237,
+     "summary": ""
+    },
+    {
+     "title": "Varieties of Scoped Resources",
+     "start": 238,
+     "end": 238,
+     "summary": ""
+    }
+   ],
+   "end": 242,
+   "summary": "Scope as a composable resource abstraction.",
+   "terms": [
+    "Scope",
+    "ZIO.scoped",
+    "scoped resources",
+    "finalizers"
+   ],
+   "links": [
+    [
+     "Scope",
+     "https://zio.dev/reference/resource/scope/"
+    ]
+   ]
+  },
+  {
+   "title": "Resource Handling: Advanced Scopes",
+   "start": 243,
+   "sections": [
+    {
+     "title": "Scopes Revisited",
+     "start": 243,
+     "end": 244,
+     "summary": ""
+    },
+    {
+     "title": "From Scopes to Resources",
+     "start": 245,
+     "end": 246,
+     "summary": ""
+    },
+    {
+     "title": "Using Resources",
+     "start": 247,
+     "end": 248,
+     "summary": ""
+    },
+    {
+     "title": "Child Scopes",
+     "start": 249,
+     "end": 251,
+     "summary": ""
+    },
+    {
+     "title": "Putting it All Together",
+     "start": 252,
+     "end": 253,
+     "summary": ""
+    }
+   ],
+   "end": 256,
+   "summary": "Advanced scopes and resources.",
+   "terms": [
+    "scopes",
+    "child scopes",
+    "resource management"
+   ],
+   "links": [
+    [
+     "Scope",
+     "https://zio.dev/reference/resource/scope/"
+    ],
+    [
+     "ScopedRef",
+     "https://zio.dev/reference/resource/scopedref/"
+    ]
+   ]
+  },
+  {
+   "title": "Dependency Injection: Essentials",
+   "start": 257,
+   "sections": [
+    {
+     "title": "The Environment Type",
+     "start": 257,
+     "end": 258,
+     "summary": ""
+    },
+    {
+     "title": "Fundamental Operators for Working with the Environment",
+     "start": 259,
+     "end": 260,
+     "summary": ""
+    },
+    {
+     "title": "Typical Uses for the Environment",
+     "start": 261,
+     "end": 261,
+     "summary": ""
+    },
+    {
+     "title": "The Onion Architecture",
+     "start": 262,
+     "end": 266,
+     "summary": ""
+    },
+    {
+     "title": "Layers",
+     "start": 267,
+     "end": 271,
+     "summary": ""
+    },
+    {
+     "title": "Accessors",
+     "start": 272,
+     "end": 273,
+     "summary": ""
+    },
+    {
+     "title": "Service Pattern",
+     "start": 274,
+     "end": 274,
+     "summary": ""
+    },
+    {
+     "title": "Declaring Dependencies via ZIO Environment or Constructor Arguments?",
+     "start": 275,
+     "end": 275,
+     "summary": ""
+    }
+   ],
+   "end": 276,
+   "summary": "ZIO environment and layers.",
+   "terms": [
+    "ZEnvironment",
+    "ZLayer",
+    "service pattern",
+    "onion architecture",
+    "accessors"
+   ],
+   "links": [
+    [
+     "Dependency injection",
+     "https://zio.dev/reference/di/"
+    ],
+    [
+     "ZLayer",
+     "https://zio.dev/reference/contextual/zlayer/"
+    ],
+    [
+     "Service pattern",
+     "https://zio.dev/reference/service-pattern/"
+    ]
+   ]
+  },
+  {
+   "title": "Dependency Injection: Advanced Dependency Injection",
+   "start": 277,
+   "sections": [
+    {
+     "title": "What is ZEnvironment?",
+     "start": 277,
+     "end": 278,
+     "summary": ""
+    },
+    {
+     "title": "Providing Multiple Services of the Same Type",
+     "start": 279,
+     "end": 279,
+     "summary": ""
+    },
+    {
+     "title": "Handling Errors in Layer Construction",
+     "start": 279,
+     "end": 280,
+     "summary": ""
+    },
+    {
+     "title": "Memoization of Dependencies",
+     "start": 281,
+     "end": 283,
+     "summary": ""
+    },
+    {
+     "title": "Automatic ZLayer Derivation",
+     "start": 284,
+     "end": 285,
+     "summary": ""
+    }
+   ],
+   "end": 288,
+   "summary": "Advanced dependency injection.",
+   "terms": [
+    "ZEnvironment",
+    "multiple services",
+    "layer errors",
+    "memoization",
+    "automatic layer derivation"
+   ],
+   "links": [
+    [
+     "ZEnvironment",
+     "https://zio.dev/reference/contextual/zenvironment/"
+    ],
+    [
+     "Layer memoization",
+     "https://zio.dev/reference/di/dependency-memoization/"
+    ],
+    [
+     "Automatic ZLayer derivation",
+     "https://zio.dev/reference/contextual/automatic-zlayer-derivation/"
+    ]
+   ]
+  },
+  {
+   "title": "Software Transactional Memory: Composing Atomicity",
+   "start": 289,
+   "sections": [
+    {
+     "title": "Inability to Compose Atomic Actions with other Concurrency Primitives",
+     "start": 289,
+     "end": 291,
+     "summary": ""
+    },
+    {
+     "title": "Conceptual Description of STM",
+     "start": 292,
+     "end": 293,
+     "summary": ""
+    },
+    {
+     "title": "Using STM",
+     "start": 294,
+     "end": 298,
+     "summary": ""
+    },
+    {
+     "title": "Retrying and Repeating Transactions",
+     "start": 299,
+     "end": 299,
+     "summary": ""
+    },
+    {
+     "title": "Limitations of STM",
+     "start": 299,
+     "end": 301,
+     "summary": ""
+    }
+   ],
+   "end": 304,
+   "summary": "STM basics.",
+   "terms": [
+    "STM",
+    "TRef",
+    "atomically",
+    "retry",
+    "composable transactions"
+   ],
+   "links": [
+    [
+     "STM",
+     "https://zio.dev/reference/stm/"
+    ],
+    [
+     "TRef",
+     "https://zio.dev/reference/stm/tref/"
+    ]
+   ]
+  },
+  {
+   "title": "Software Transactional Memory: STM Data Structures",
+   "start": 305,
+   "sections": [
+    {
+     "title": "Description of STM Data Structures",
+     "start": 306,
+     "end": 318,
+     "summary": ""
+    },
+    {
+     "title": "Creating Your Own STM Data Structures",
+     "start": 319,
+     "end": 323,
+     "summary": ""
+    }
+   ],
+   "end": 326,
+   "summary": "Transactional data structures.",
+   "terms": [
+    "TMap",
+    "TQueue",
+    "TPriorityQueue",
+    "TSet",
+    "custom STM structures"
+   ],
+   "links": [
+    [
+     "TMap",
+     "https://zio.dev/reference/stm/tmap/"
+    ],
+    [
+     "TQueue",
+     "https://zio.dev/reference/stm/tqueue/"
+    ],
+    [
+     "TPriorityQueue",
+     "https://zio.dev/reference/stm/tpriorityqueue/"
+    ],
+    [
+     "TSet",
+     "https://zio.dev/reference/stm/tset/"
+    ],
+    [
+     "TArray",
+     "https://zio.dev/reference/stm/tarray/"
+    ]
+   ]
+  },
+  {
+   "title": "Software Transactional Memory: Advanced STM",
+   "start": 327,
+   "sections": [
+    {
+     "title": "How STM Works Under the Hood",
+     "start": 327,
+     "end": 332,
+     "summary": ""
+    },
+    {
+     "title": "Troubleshooting and Debugging",
+     "start": 333,
+     "end": 334,
+     "summary": ""
+    },
+    {
+     "title": "Optimization",
+     "start": 335,
+     "end": 340,
+     "summary": ""
+    },
+    {
+     "title": "Transaction Control Flows",
+     "start": 341,
+     "end": 341,
+     "summary": ""
+    }
+   ],
+   "end": 344,
+   "summary": "STM internals and tuning.",
+   "terms": [
+    "STM implementation",
+    "debugging",
+    "optimization",
+    "control flow"
+   ],
+   "links": [
+    [
+     "STM",
+     "https://zio.dev/reference/stm/"
+    ]
+   ]
+  },
+  {
+   "title": "Advanced Error Management: Retries",
+   "start": 345,
+   "sections": [
+    {
+     "title": "Limitations of Traditional Retry Operators",
+     "start": 345,
+     "end": 346,
+     "summary": ""
+    },
+    {
+     "title": "Retrying and Repeating with ZIO",
+     "start": 347,
+     "end": 348,
+     "summary": ""
+    },
+    {
+     "title": "Common Schedules",
+     "start": 349,
+     "end": 357,
+     "summary": ""
+    },
+    {
+     "title": "Transforming Schedules",
+     "start": 358,
+     "end": 366,
+     "summary": ""
+    },
+    {
+     "title": "Composing Schedules",
+     "start": 367,
+     "end": 374,
+     "summary": ""
+    },
+    {
+     "title": "Implementation of Schedule",
+     "start": 375,
+     "end": 376,
+     "summary": ""
+    }
+   ],
+   "end": 378,
+   "summary": "Retrying and repeating with Schedule.",
+   "terms": [
+    "Schedule",
+    "retry",
+    "repeat",
+    "exponential backoff",
+    "schedule composition"
+   ],
+   "links": [
+    [
+     "Schedule",
+     "https://zio.dev/reference/schedule/"
+    ],
+    [
+     "Retrying",
+     "https://zio.dev/reference/error-management/recovering/retrying/"
+    ]
+   ]
+  },
+  {
+   "title": "Advanced Error Management: Debugging",
+   "start": 379,
+   "sections": [
+    {
+     "title": "Understanding Execution Flows",
+     "start": 379,
+     "end": 379,
+     "summary": ""
+    },
+    {
+     "title": "Printing Debug Information",
+     "start": 380,
+     "end": 380,
+     "summary": ""
+    },
+    {
+     "title": "Enabling Diagnostic and Debug Logging",
+     "start": 381,
+     "end": 381,
+     "summary": ""
+    },
+    {
+     "title": "Reading Stack Traces",
+     "start": 382,
+     "end": 382,
+     "summary": ""
+    },
+    {
+     "title": "Fiber Dumps",
+     "start": 383,
+     "end": 384,
+     "summary": ""
+    },
+    {
+     "title": "Supervising Fibers",
+     "start": 385,
+     "end": 388,
+     "summary": ""
+    }
+   ],
+   "end": 390,
+   "summary": "Debugging ZIO programs.",
+   "terms": [
+    "debug",
+    "logging",
+    "stack traces",
+    "fiber dumps",
+    "supervisor"
+   ],
+   "links": [
+    [
+     "Supervisor",
+     "https://zio.dev/reference/observability/supervisor/"
+    ],
+    [
+     "Logging",
+     "https://zio.dev/reference/observability/logging/"
+    ],
+    [
+     "Tracing",
+     "https://zio.dev/reference/observability/tracing/"
+    ]
+   ]
+  },
+  {
+   "title": "Advanced Error Management: Best Practices",
+   "start": 391,
+   "sections": [
+    {
+     "title": "Recoverable Errors",
+     "start": 391,
+     "end": 391,
+     "summary": ""
+    },
+    {
+     "title": "Non-recoverable Errors",
+     "start": 392,
+     "end": 401,
+     "summary": ""
+    }
+   ],
+   "end": 404,
+   "summary": "Error-handling best practices.",
+   "terms": [
+    "recoverable errors",
+    "non-recoverable errors",
+    "error modeling"
+   ],
+   "links": [
+    [
+     "Error-management best practices",
+     "https://zio.dev/reference/error-management/best-practices/"
+    ]
+   ]
+  },
+  {
+   "title": "Streaming: First Steps with ZStream",
+   "start": 405,
+   "sections": [
+    {
+     "title": "Streams as Effectful Iterators",
+     "start": 405,
+     "end": 406,
+     "summary": ""
+    },
+    {
+     "title": "Streams as Collections",
+     "start": 407,
+     "end": 409,
+     "summary": ""
+    },
+    {
+     "title": "Constructing Basic Streams",
+     "start": 410,
+     "end": 412,
+     "summary": ""
+    },
+    {
+     "title": "Running Streams",
+     "start": 413,
+     "end": 417,
+     "summary": ""
+    },
+    {
+     "title": "Type Parameters",
+     "start": 418,
+     "end": 418,
+     "summary": ""
+    }
+   ],
+   "end": 420,
+   "summary": "ZStream basics.",
+   "terms": [
+    "ZStream",
+    "effectful iterator",
+    "constructors",
+    "run"
+   ],
+   "links": [
+    [
+     "ZStream",
+     "https://zio.dev/reference/stream/zstream/"
+    ],
+    [
+     "Creating streams",
+     "https://zio.dev/reference/stream/zstream/creating-zio-streams/"
+    ]
+   ]
+  },
+  {
+   "title": "Streaming: Next Steps With ZStream",
+   "start": 421,
+   "sections": [
+    {
+     "title": "Sinks",
+     "start": 425,
+     "end": 428,
+     "summary": ""
+    },
+    {
+     "title": "Pipelines",
+     "start": 429,
+     "end": 430,
+     "summary": ""
+    }
+   ],
+   "end": 432,
+   "summary": "Sinks and pipelines introduced.",
+   "terms": [
+    "ZSink",
+    "ZPipeline"
+   ],
+   "links": [
+    [
+     "ZSink",
+     "https://zio.dev/reference/stream/zsink/"
+    ],
+    [
+     "ZPipeline",
+     "https://zio.dev/reference/stream/zpipeline/"
+    ]
+   ]
+  },
+  {
+   "title": "Channels: Unifying Streams, Sinks, and Pipelines",
+   "start": 433,
+   "sections": [
+    {
+     "title": "Channels",
+     "start": 433,
+     "end": 437,
+     "summary": ""
+    },
+    {
+     "title": "Channel Constructors",
+     "start": 438,
+     "end": 439,
+     "summary": ""
+    },
+    {
+     "title": "Channel Operators",
+     "start": 440,
+     "end": 445,
+     "summary": ""
+    },
+    {
+     "title": "Channel Scopes",
+     "start": 446,
+     "end": 446,
+     "summary": ""
+    }
+   ],
+   "end": 448,
+   "summary": "ZChannel as the unifying abstraction.",
+   "terms": [
+    "ZChannel",
+    "channel constructors",
+    "operators",
+    "scopes"
+   ],
+   "links": [
+    [
+     "ZChannel",
+     "https://zio.dev/reference/stream/zchannel/"
+    ]
+   ]
+  },
+  {
+   "title": "Streaming: Transforming Streams",
+   "start": 449,
+   "sections": [
+    {
+     "title": "Mapping",
+     "start": 449,
+     "end": 451,
+     "summary": ""
+    },
+    {
+     "title": "Transform and Combine",
+     "start": 452,
+     "end": 452,
+     "summary": ""
+    },
+    {
+     "title": "Flattening",
+     "start": 453,
+     "end": 453,
+     "summary": ""
+    },
+    {
+     "title": "Filtering Operators",
+     "start": 454,
+     "end": 454,
+     "summary": ""
+    },
+    {
+     "title": "Collecting (Filter-map)",
+     "start": 454,
+     "end": 454,
+     "summary": ""
+    },
+    {
+     "title": "Grouping",
+     "start": 455,
+     "end": 459,
+     "summary": ""
+    },
+    {
+     "title": "Partitioning",
+     "start": 460,
+     "end": 460,
+     "summary": ""
+    },
+    {
+     "title": "Broadcasting and Distributing",
+     "start": 460,
+     "end": 461,
+     "summary": ""
+    },
+    {
+     "title": "Flow Control and Rate Limiting",
+     "start": 462,
+     "end": 465,
+     "summary": ""
+    }
+   ],
+   "end": 468,
+   "summary": "Transforming streams.",
+   "terms": [
+    "map",
+    "mapZIO",
+    "flatMap",
+    "filter",
+    "collect",
+    "grouping",
+    "partition",
+    "broadcast",
+    "throttle"
+   ],
+   "links": [
+    [
+     "ZStream operations",
+     "https://zio.dev/reference/stream/zstream/operations/"
+    ]
+   ]
+  },
+  {
+   "title": "Streaming: Combining Streams",
+   "start": 469,
+   "sections": [
+    {
+     "title": "Stream Concatenation",
+     "start": 469,
+     "end": 469,
+     "summary": ""
+    },
+    {
+     "title": "Merging Streams",
+     "start": 470,
+     "end": 470,
+     "summary": ""
+    },
+    {
+     "title": "Zipping Streams",
+     "start": 470,
+     "end": 472,
+     "summary": ""
+    },
+    {
+     "title": "Cartesian Product",
+     "start": 473,
+     "end": 473,
+     "summary": ""
+    },
+    {
+     "title": "Fallback Streams",
+     "start": 474,
+     "end": 474,
+     "summary": ""
+    },
+    {
+     "title": "Stateful Stream Combination",
+     "start": 475,
+     "end": 477,
+     "summary": ""
+    },
+    {
+     "title": "Interleaving",
+     "start": 478,
+     "end": 478,
+     "summary": ""
+    }
+   ],
+   "end": 480,
+   "summary": "Combining streams.",
+   "terms": [
+    "concat",
+    "merge",
+    "zip",
+    "cross",
+    "orElse",
+    "interleave"
+   ],
+   "links": [
+    [
+     "ZStream operations",
+     "https://zio.dev/reference/stream/zstream/operations/"
+    ]
+   ]
+  },
+  {
+   "title": "Streaming: Pipelines",
+   "start": 481,
+   "sections": [
+    {
+     "title": "Pipelines as Stream Transformations",
+     "start": 481,
+     "end": 482,
+     "summary": ""
+    },
+    {
+     "title": "Using Pipelines",
+     "start": 483,
+     "end": 485,
+     "summary": ""
+    },
+    {
+     "title": "Constructing Pipelines",
+     "start": 486,
+     "end": 492,
+     "summary": ""
+    }
+   ],
+   "end": 494,
+   "summary": "Pipelines.",
+   "terms": [
+    "ZPipeline",
+    "transformations"
+   ],
+   "links": [
+    [
+     "ZPipeline",
+     "https://zio.dev/reference/stream/zpipeline/"
+    ]
+   ]
+  },
+  {
+   "title": "Streaming: Sinks",
+   "start": 495,
+   "sections": [
+    {
+     "title": "Sinks as Composable Aggregation Strategies",
+     "start": 495,
+     "end": 496,
+     "summary": ""
+    },
+    {
+     "title": "Using Sinks",
+     "start": 497,
+     "end": 502,
+     "summary": ""
+    },
+    {
+     "title": "Combining Sinks",
+     "start": 503,
+     "end": 506,
+     "summary": ""
+    },
+    {
+     "title": "Constructing Sinks",
+     "start": 507,
+     "end": 508,
+     "summary": ""
+    }
+   ],
+   "end": 510,
+   "summary": "Sinks.",
+   "terms": [
+    "ZSink",
+    "aggregation",
+    "combining sinks"
+   ],
+   "links": [
+    [
+     "ZSink",
+     "https://zio.dev/reference/stream/zsink/"
+    ],
+    [
+     "Sink operations",
+     "https://zio.dev/reference/stream/zsink/operations/"
+    ]
+   ]
+  },
+  {
+   "title": "Testing: Basic Testing",
+   "start": 511,
+   "sections": [
+    {
+     "title": "Tests as Effects",
+     "start": 511,
+     "end": 516,
+     "summary": ""
+    },
+    {
+     "title": "Specs as Recursively Nested Collections of Tests",
+     "start": 517,
+     "end": 517,
+     "summary": ""
+    }
+   ],
+   "end": 518,
+   "summary": "ZIO Test fundamentals.",
+   "terms": [
+    "tests as effects",
+    "specs",
+    "suites"
+   ],
+   "links": [
+    [
+     "Spec",
+     "https://zio.dev/reference/test/spec/"
+    ],
+    [
+     "Running tests",
+     "https://zio.dev/reference/test/running-tests/"
+    ]
+   ]
+  },
+  {
+   "title": "Testing: Assertions",
+   "start": 519,
+   "sections": [
+    {
+     "title": "Assertions as Predicates",
+     "start": 519,
+     "end": 524,
+     "summary": ""
+    },
+    {
+     "title": "Common ZIO Assertions",
+     "start": 525,
+     "end": 528,
+     "summary": ""
+    },
+    {
+     "title": "Smart Assertions",
+     "start": 529,
+     "end": 532,
+     "summary": ""
+    }
+   ],
+   "end": 534,
+   "summary": "Assertions.",
+   "terms": [
+    "Assertion",
+    "smart assertions",
+    "assertTrue"
+   ],
+   "links": [
+    [
+     "Assertions",
+     "https://zio.dev/reference/test/assertions/"
+    ],
+    [
+     "Smart assertions",
+     "https://zio.dev/reference/test/assertions/smart-assertions/"
+    ]
+   ]
+  },
+  {
+   "title": "Testing: The Test Environment",
+   "start": 535,
+   "sections": [
+    {
+     "title": "Test Implementation of Standard Services",
+     "start": 535,
+     "end": 546,
+     "summary": ""
+    },
+    {
+     "title": "Accessing the Live Environment",
+     "start": 547,
+     "end": 548,
+     "summary": ""
+    },
+    {
+     "title": "Creating Custom Test Implementations",
+     "start": 549,
+     "end": 553,
+     "summary": ""
+    }
+   ],
+   "end": 554,
+   "summary": "Test environment.",
+   "terms": [
+    "TestClock",
+    "TestConsole",
+    "TestRandom",
+    "live environment"
+   ],
+   "links": [
+    [
+     "Test services",
+     "https://zio.dev/reference/test/services/"
+    ],
+    [
+     "Live",
+     "https://zio.dev/reference/test/services/live/"
+    ]
+   ]
+  },
+  {
+   "title": "Testing: Test Aspects",
+   "start": 555,
+   "sections": [
+    {
+     "title": "Test Aspects as Polymorphic Functions",
+     "start": 558,
+     "end": 558,
+     "summary": ""
+    },
+    {
+     "title": "Ability to Constrain Types",
+     "start": 559,
+     "end": 561,
+     "summary": ""
+    },
+    {
+     "title": "Common Test Aspects",
+     "start": 562,
+     "end": 563,
+     "summary": ""
+    },
+    {
+     "title": "Repeating and Retrying Tests",
+     "start": 564,
+     "end": 570,
+     "summary": ""
+    }
+   ],
+   "end": 572,
+   "summary": "Test aspects.",
+   "terms": [
+    "TestAspect",
+    "repeats",
+    "retries",
+    "timeouts",
+    "platform-specific"
+   ],
+   "links": [
+    [
+     "Test aspects",
+     "https://zio.dev/reference/test/aspects/"
+    ]
+   ]
+  },
+  {
+   "title": "Testing: Using Resources in Tests",
+   "start": 573,
+   "sections": [
+    {
+     "title": "Providing Resources to Tests",
+     "start": 574,
+     "end": 574,
+     "summary": ""
+    },
+    {
+     "title": "Sharing Resources Between Test Iterations",
+     "start": 575,
+     "end": 575,
+     "summary": ""
+    },
+    {
+     "title": "Providing Resources to Test Suites",
+     "start": 576,
+     "end": 576,
+     "summary": ""
+    },
+    {
+     "title": "Sharing Resources Between Tests",
+     "start": 576,
+     "end": 577,
+     "summary": ""
+    }
+   ],
+   "end": 578,
+   "summary": "Resources in tests.",
+   "terms": [
+    "provideLayer",
+    "shared layers",
+    "test resources"
+   ],
+   "links": [
+    [
+     "Sharing layers across files",
+     "https://zio.dev/reference/test/sharing-layers-between-multiple-files/"
+    ],
+    [
+     "within a file",
+     "https://zio.dev/reference/test/sharing-layers-within-the-same-file/"
+    ]
+   ]
+  },
+  {
+   "title": "Testing: Property-Based Testing",
+   "start": 579,
+   "sections": [
+    {
+     "title": "Generators as Streams of Samples",
+     "start": 583,
+     "end": 584,
+     "summary": ""
+    },
+    {
+     "title": "Constructing Generators",
+     "start": 585,
+     "end": 586,
+     "summary": ""
+    },
+    {
+     "title": "Operators on Generators",
+     "start": 587,
+     "end": 593,
+     "summary": ""
+    },
+    {
+     "title": "Random and Deterministic Generators",
+     "start": 594,
+     "end": 597,
+     "summary": ""
+    },
+    {
+     "title": "Samples and Shrinking",
+     "start": 598,
+     "end": 601,
+     "summary": ""
+    }
+   ],
+   "end": 604,
+   "summary": "Property-based testing.",
+   "terms": [
+    "Gen",
+    "generators",
+    "shrinking",
+    "check"
+   ],
+   "links": [
+    [
+     "Property testing",
+     "https://zio.dev/reference/test/property-testing/"
+    ],
+    [
+     "Shrinking",
+     "https://zio.dev/reference/test/property-testing/shrinking/"
+    ]
+   ]
+  },
+  {
+   "title": "Testing: Test Annotations",
+   "start": 605,
+   "sections": [
+    {
+     "title": "Tagging Tests",
+     "start": 605,
+     "end": 605,
+     "summary": ""
+    },
+    {
+     "title": "How Test Annotations Works",
+     "start": 606,
+     "end": 607,
+     "summary": ""
+    },
+    {
+     "title": "Using Test Annotations in Tests",
+     "start": 608,
+     "end": 608,
+     "summary": ""
+    },
+    {
+     "title": "Using Test Annotations in Test Aspects",
+     "start": 609,
+     "end": 610,
+     "summary": ""
+    },
+    {
+     "title": "Implementing Test Annotation Reporter",
+     "start": 611,
+     "end": 611,
+     "summary": ""
+    }
+   ],
+   "end": 612,
+   "summary": "Test annotations.",
+   "terms": [
+    "tagging",
+    "annotations",
+    "reporters"
+   ],
+   "links": [
+    [
+     "Annotating tests",
+     "https://zio.dev/reference/test/aspects/annotating-tests/"
+    ]
+   ]
+  },
+  {
+   "title": "Testing: Reporting",
+   "start": 613,
+   "sections": [
+    {
+     "title": "Gathering Data",
+     "start": 613,
+     "end": 614,
+     "summary": ""
+    },
+    {
+     "title": "Analyzing Data",
+     "start": 615,
+     "end": 615,
+     "summary": ""
+    }
+   ],
+   "end": 616,
+   "summary": "Test reporting.",
+   "terms": [
+    "reporting",
+    "test results"
+   ],
+   "links": [
+    [
+     "Running tests",
+     "https://zio.dev/reference/test/running-tests/"
+    ]
+   ]
+  },
+  {
+   "title": "Applications: Parallel Web Crawler",
+   "start": 617,
+   "sections": [
+    {
+     "title": "Definition of a Parallel Web Crawler",
+     "start": 618,
+     "end": 619,
+     "summary": ""
+    },
+    {
+     "title": "Interacting with Web Data",
+     "start": 620,
+     "end": 623,
+     "summary": ""
+    },
+    {
+     "title": "First Sketch of a Parallel Web Crawler",
+     "start": 624,
+     "end": 626,
+     "summary": ""
+    },
+    {
+     "title": "Making It Testable",
+     "start": 627,
+     "end": 628,
+     "summary": ""
+    },
+    {
+     "title": "Scaling It Up",
+     "start": 629,
+     "end": 633,
+     "summary": ""
+    }
+   ],
+   "end": 634,
+   "summary": "A parallel web crawler application.",
+   "terms": [
+    "web crawler",
+    "parallelism",
+    "testability",
+    "Queue",
+    "Ref"
+   ]
+  },
+  {
+   "title": "Appendix 1: The Scala Type System",
+   "start": 635,
+   "sections": [
+    {
+     "title": "Types And Values",
+     "start": 635,
+     "end": 635,
+     "summary": ""
+    },
+    {
+     "title": "Subtyping",
+     "start": 636,
+     "end": 636,
+     "summary": ""
+    },
+    {
+     "title": "Any and Nothing",
+     "start": 637,
+     "end": 639,
+     "summary": ""
+    },
+    {
+     "title": "Product and Sum Types",
+     "start": 640,
+     "end": 642,
+     "summary": ""
+    },
+    {
+     "title": "Intersection and Union Types",
+     "start": 643,
+     "end": 645,
+     "summary": ""
+    },
+    {
+     "title": "Type Constructors",
+     "start": 646,
+     "end": 647,
+     "summary": ""
+    }
+   ],
+   "end": 648,
+   "summary": "Scala type system essentials.",
+   "terms": [
+    "subtyping",
+    "Any",
+    "Nothing",
+    "union and intersection types",
+    "type constructors"
+   ]
+  },
+  {
+   "title": "Appendix 2: Mastering Variance",
+   "start": 649,
+   "sections": [
+    {
+     "title": "Definition of Variance",
+     "start": 649,
+     "end": 650,
+     "summary": ""
+    },
+    {
+     "title": "Covariance",
+     "start": 651,
+     "end": 654,
+     "summary": ""
+    },
+    {
+     "title": "Contravariance",
+     "start": 655,
+     "end": 658,
+     "summary": ""
+    },
+    {
+     "title": "Invariance",
+     "start": 659,
+     "end": 660,
+     "summary": ""
+    },
+    {
+     "title": "Advanced Variance",
+     "start": 661,
+     "end": 664,
+     "summary": ""
+    }
+   ],
+   "end": 681,
+   "summary": "Variance.",
+   "terms": [
+    "covariance",
+    "contravariance",
+    "invariance",
+    "variance positions"
+   ]
+  }
+ ],
+ "title": "Zionomicon: Master the Dark Art of Creating Scalable, Type-Safe, Concurrent Apps with ZIO",
+ "byline": "John A. De Goes, Adam Fraser and Milad Khajavi · Ziverge, edition of 20 November 2024",
+ "note": "This book is very granular (about 40 chapters and 250 sections), so summaries and terms are given per chapter; each section is still listed with its own PDF page range. Conclusion and exercise sections are not broken out. An older 2021 draft of Zionomicon is also in your Drive and is superseded by this edition. Chapters link to the matching pages of the official ZIO 2 reference at zio.dev, which covers the same APIs (it is separate documentation, not the book’s text). Summaries are in our own words; the text stays in the PDF.",
+ "summary": "The comprehensive guide to ZIO 2 for Scala, by its creator and core contributors. After a history of ZIO, it teaches effects as blueprints, testing, the typed error model and interop; then fibers and structured concurrency, concurrency operators, supervision and interruption; concurrent structures (Ref, Promise, Queue, Hub, Semaphore); resource safety with acquire/release and Scope; dependency injection with ZLayer and ZEnvironment; software transactional memory; retries with Schedule, debugging and error-handling practice; ZStream, channels, pipelines and sinks; ZIO Test in depth (assertions, test environment, aspects, resources, property-based testing, annotations, reporting); a parallel web crawler application; and appendices on Scala’s type system and variance.",
+ "links_label": "zio.dev reference"
+}

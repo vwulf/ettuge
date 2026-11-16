@@ -1,0 +1,1129 @@
+{
+ "url": "https://drive.google.com/file/d/1CBEcgoiWa0IriWJzGwVwt4SDqF_3951m/view",
+ "chapters": [
+  {
+   "title": "Introduction",
+   "start": 13,
+   "sections": [],
+   "end": 16,
+   "summary": "Why linear algebra matters for these fields.",
+   "terms": [
+    "motivation",
+    "applications"
+   ]
+  },
+  {
+   "title": "Vector Spaces, Bases, Linear Maps",
+   "start": 17,
+   "sections": [
+    {
+     "title": "Motivations: Linear Combinations, Linear Independence, Rank",
+     "start": 17,
+     "end": 28,
+     "summary": ""
+    },
+    {
+     "title": "Vector Spaces P",
+     "start": 29,
+     "end": 36,
+     "summary": ""
+    },
+    {
+     "title": "Indexed Families; the Sum Notation i∈I ai",
+     "start": 37,
+     "end": 41,
+     "summary": ""
+    },
+    {
+     "title": "Linear Independence, Subspaces",
+     "start": 42,
+     "end": 48,
+     "summary": ""
+    },
+    {
+     "title": "Bases of a Vector Space",
+     "start": 49,
+     "end": 56,
+     "summary": ""
+    },
+    {
+     "title": "Matrices",
+     "start": 57,
+     "end": 62,
+     "summary": ""
+    },
+    {
+     "title": "Linear Maps",
+     "start": 63,
+     "end": 71,
+     "summary": ""
+    },
+    {
+     "title": "Linear Forms and the Dual Space",
+     "start": 72,
+     "end": 84,
+     "summary": ""
+    }
+   ],
+   "end": 84,
+   "summary": "Vector spaces, bases and linear maps.",
+   "terms": [
+    "vector spaces",
+    "linear combinations",
+    "linear independence",
+    "bases",
+    "linear maps",
+    "quotient spaces",
+    "linear forms"
+   ]
+  },
+  {
+   "title": "Matrices and Linear Maps",
+   "start": 85,
+   "sections": [
+    {
+     "title": "Representation of Linear Maps by Matrices",
+     "start": 85,
+     "end": 89,
+     "summary": ""
+    },
+    {
+     "title": "Composition of Linear Maps and Matrix Multiplication",
+     "start": 90,
+     "end": 95,
+     "summary": ""
+    },
+    {
+     "title": "Change of Basis Matrix",
+     "start": 96,
+     "end": 100,
+     "summary": ""
+    },
+    {
+     "title": "The Effect of a Change of Bases on Matrices",
+     "start": 101,
+     "end": 112,
+     "summary": ""
+    }
+   ],
+   "end": 112,
+   "summary": "Matrices representing linear maps.",
+   "terms": [
+    "matrices",
+    "change of basis",
+    "similarity",
+    "composition"
+   ]
+  },
+  {
+   "title": "Haar Bases, Haar Wavelets, Hadamard Matrices",
+   "start": 113,
+   "sections": [
+    {
+     "title": "Introduction to Signal Compression Using Haar Wavelets",
+     "start": 113,
+     "end": 114,
+     "summary": ""
+    },
+    {
+     "title": "Haar Matrices, Scaling Properties of Haar Wavelets",
+     "start": 115,
+     "end": 119,
+     "summary": ""
+    },
+    {
+     "title": "Kronecker Product Construction of Haar Matrices",
+     "start": 120,
+     "end": 121,
+     "summary": ""
+    },
+    {
+     "title": "Multiresolution Signal Analysis with Haar Bases",
+     "start": 122,
+     "end": 124,
+     "summary": ""
+    },
+    {
+     "title": "Haar Transform for Digital Images",
+     "start": 125,
+     "end": 130,
+     "summary": ""
+    },
+    {
+     "title": "Hadamard Matrices",
+     "start": 131,
+     "end": 138,
+     "summary": ""
+    }
+   ],
+   "end": 138,
+   "summary": "Haar wavelets and Hadamard matrices.",
+   "terms": [
+    "Haar basis",
+    "wavelets",
+    "image compression",
+    "Hadamard matrices"
+   ]
+  },
+  {
+   "title": "Direct Sums, Rank-Nullity Theorem, Affine Maps",
+   "start": 139,
+   "sections": [
+    {
+     "title": "Direct Products",
+     "start": 139,
+     "end": 139,
+     "summary": ""
+    },
+    {
+     "title": "Sums and Direct Sums",
+     "start": 140,
+     "end": 144,
+     "summary": ""
+    },
+    {
+     "title": "Matrices of Linear Maps and Multiplication by Blocks",
+     "start": 145,
+     "end": 157,
+     "summary": ""
+    },
+    {
+     "title": "The Rank-Nullity Theorem; Grassmann’s Relation",
+     "start": 158,
+     "end": 165,
+     "summary": ""
+    },
+    {
+     "title": "Affine Maps",
+     "start": 166,
+     "end": 182,
+     "summary": ""
+    }
+   ],
+   "end": 182,
+   "summary": "Direct sums, rank–nullity and affine maps.",
+   "terms": [
+    "direct sum",
+    "rank-nullity theorem",
+    "projections",
+    "affine maps"
+   ]
+  },
+  {
+   "title": "Determinants",
+   "start": 183,
+   "sections": [
+    {
+     "title": "Permutations, Signature of a Permutation",
+     "start": 183,
+     "end": 187,
+     "summary": ""
+    },
+    {
+     "title": "Alternating Multilinear Maps",
+     "start": 188,
+     "end": 191,
+     "summary": ""
+    },
+    {
+     "title": "Definition of a Determinant",
+     "start": 192,
+     "end": 200,
+     "summary": ""
+    },
+    {
+     "title": "Inverse Matrices and Determinants",
+     "start": 201,
+     "end": 202,
+     "summary": ""
+    },
+    {
+     "title": "Systems of Linear Equations and Determinants",
+     "start": 203,
+     "end": 205,
+     "summary": ""
+    },
+    {
+     "title": "Determinant of a Linear Map",
+     "start": 206,
+     "end": 206,
+     "summary": ""
+    },
+    {
+     "title": "The Cayley–Hamilton Theorem",
+     "start": 206,
+     "end": 211,
+     "summary": ""
+    },
+    {
+     "title": "Permanents",
+     "start": 212,
+     "end": 214,
+     "summary": ""
+    },
+    {
+     "title": "Further Readings",
+     "start": 215,
+     "end": 220,
+     "summary": ""
+    }
+   ],
+   "end": 220,
+   "summary": "Determinants.",
+   "terms": [
+    "determinants",
+    "permutations",
+    "Cramer rule",
+    "characteristic polynomial",
+    "Cayley-Hamilton"
+   ]
+  },
+  {
+   "title": "Gaussian Elimination, LU, Cholesky, Echelon Form",
+   "start": 221,
+   "sections": [
+    {
+     "title": "Motivating Example: Curve Interpolation",
+     "start": 221,
+     "end": 224,
+     "summary": ""
+    },
+    {
+     "title": "Gaussian Elimination",
+     "start": 225,
+     "end": 229,
+     "summary": ""
+    },
+    {
+     "title": "Elementary Matrices and Row Operations",
+     "start": 230,
+     "end": 232,
+     "summary": ""
+    },
+    {
+     "title": "LU -Factorization",
+     "start": 233,
+     "end": 238,
+     "summary": ""
+    },
+    {
+     "title": "P A = LU Factorization",
+     "start": 239,
+     "end": 246,
+     "summary": ""
+    },
+    {
+     "title": "Proof of Theorem 7.5 ~",
+     "start": 247,
+     "end": 251,
+     "summary": ""
+    },
+    {
+     "title": "Dealing with Roundoff Errors; Pivoting Strategies",
+     "start": 252,
+     "end": 253,
+     "summary": ""
+    },
+    {
+     "title": "Gaussian Elimination of Tridiagonal Matrices",
+     "start": 254,
+     "end": 255,
+     "summary": ""
+    },
+    {
+     "title": "SPD Matrices and the Cholesky Decomposition",
+     "start": 256,
+     "end": 264,
+     "summary": ""
+    },
+    {
+     "title": "Reduced Row Echelon Form",
+     "start": 265,
+     "end": 270,
+     "summary": ""
+    },
+    {
+     "title": "RREF, Free Variables, Homogeneous Systems",
+     "start": 271,
+     "end": 273,
+     "summary": ""
+    },
+    {
+     "title": "Uniqueness of RREF",
+     "start": 274,
+     "end": 275,
+     "summary": ""
+    },
+    {
+     "title": "Solving Linear Systems Using RREF",
+     "start": 276,
+     "end": 281,
+     "summary": ""
+    },
+    {
+     "title": "Elementary Matrices and Columns Operations",
+     "start": 282,
+     "end": 282,
+     "summary": ""
+    },
+    {
+     "title": "Transvections and Dilatations ~",
+     "start": 283,
+     "end": 300,
+     "summary": ""
+    }
+   ],
+   "end": 300,
+   "summary": "Solving linear systems.",
+   "terms": [
+    "Gaussian elimination",
+    "LU factorization",
+    "Cholesky",
+    "reduced row echelon form",
+    "transvections"
+   ]
+  },
+  {
+   "title": "Vector Norms and Matrix Norms",
+   "start": 301,
+   "sections": [
+    {
+     "title": "Normed Vector Spaces",
+     "start": 301,
+     "end": 312,
+     "summary": ""
+    },
+    {
+     "title": "Matrix Norms",
+     "start": 313,
+     "end": 317,
+     "summary": ""
+    },
+    {
+     "title": "Subordinate Norms",
+     "start": 318,
+     "end": 324,
+     "summary": ""
+    },
+    {
+     "title": "Inequalities Involving Subordinate Norms",
+     "start": 325,
+     "end": 326,
+     "summary": ""
+    },
+    {
+     "title": "Condition Numbers of Matrices",
+     "start": 327,
+     "end": 335,
+     "summary": ""
+    },
+    {
+     "title": "An Application of Norms: Inconsistent Linear Systems",
+     "start": 336,
+     "end": 336,
+     "summary": ""
+    },
+    {
+     "title": "Limits of Sequences and Series",
+     "start": 337,
+     "end": 339,
+     "summary": ""
+    },
+    {
+     "title": "The Matrix Exponential",
+     "start": 340,
+     "end": 350,
+     "summary": ""
+    }
+   ],
+   "end": 350,
+   "summary": "Norms.",
+   "terms": [
+    "vector norms",
+    "matrix norms",
+    "condition number",
+    "spectral radius"
+   ]
+  },
+  {
+   "title": "Iterative Methods for Solving Linear Systems",
+   "start": 351,
+   "sections": [
+    {
+     "title": "Convergence of Sequences of Vectors and Matrices",
+     "start": 351,
+     "end": 353,
+     "summary": ""
+    },
+    {
+     "title": "Convergence of Iterative Methods",
+     "start": 354,
+     "end": 355,
+     "summary": ""
+    },
+    {
+     "title": "Methods of Jacobi, Gauss–Seidel, and Relaxation",
+     "start": 356,
+     "end": 363,
+     "summary": ""
+    },
+    {
+     "title": "Convergence of the Methods",
+     "start": 364,
+     "end": 366,
+     "summary": ""
+    },
+    {
+     "title": "Convergence Methods for Tridiagonal Matrices",
+     "start": 367,
+     "end": 374,
+     "summary": ""
+    }
+   ],
+   "end": 374,
+   "summary": "Iterative solvers.",
+   "terms": [
+    "Jacobi",
+    "Gauss-Seidel",
+    "relaxation",
+    "convergence"
+   ]
+  },
+  {
+   "title": "The Dual Space and Duality",
+   "start": 375,
+   "sections": [
+    {
+     "title": "The Dual Space E ∗ and Linear Forms",
+     "start": 375,
+     "end": 381,
+     "summary": ""
+    },
+    {
+     "title": "Pairing and Duality Between E and E ∗",
+     "start": 382,
+     "end": 386,
+     "summary": ""
+    },
+    {
+     "title": "The Duality Theorem and Some Consequences",
+     "start": 387,
+     "end": 391,
+     "summary": ""
+    },
+    {
+     "title": "The Bidual and Canonical Pairings",
+     "start": 392,
+     "end": 393,
+     "summary": ""
+    },
+    {
+     "title": "Hyperplanes and Linear Forms",
+     "start": 394,
+     "end": 394,
+     "summary": ""
+    },
+    {
+     "title": "Transpose of a Linear Map and of a Matrix",
+     "start": 395,
+     "end": 399,
+     "summary": ""
+    },
+    {
+     "title": "Properties of the Double Transpose",
+     "start": 400,
+     "end": 401,
+     "summary": ""
+    },
+    {
+     "title": "The Four Fundamental Subspaces",
+     "start": 402,
+     "end": 408,
+     "summary": ""
+    }
+   ],
+   "end": 408,
+   "summary": "Dual spaces.",
+   "terms": [
+    "dual space",
+    "annihilators",
+    "transpose",
+    "hyperplanes"
+   ]
+  },
+  {
+   "title": "Euclidean Spaces",
+   "start": 409,
+   "sections": [
+    {
+     "title": "Inner Products, Euclidean Spaces",
+     "start": 409,
+     "end": 417,
+     "summary": ""
+    },
+    {
+     "title": "Orthogonality and Duality in Euclidean Spaces",
+     "start": 418,
+     "end": 424,
+     "summary": ""
+    },
+    {
+     "title": "Adjoint of a Linear Map",
+     "start": 425,
+     "end": 427,
+     "summary": ""
+    },
+    {
+     "title": "Existence and Construction of Orthonormal Bases",
+     "start": 428,
+     "end": 434,
+     "summary": ""
+    },
+    {
+     "title": "Linear Isometries (Orthogonal Transformations)",
+     "start": 435,
+     "end": 437,
+     "summary": ""
+    },
+    {
+     "title": "The Orthogonal Group, Orthogonal Matrices",
+     "start": 438,
+     "end": 439,
+     "summary": ""
+    },
+    {
+     "title": "The Rodrigues Formula",
+     "start": 440,
+     "end": 442,
+     "summary": ""
+    },
+    {
+     "title": "QR-Decomposition for Invertible Matrices",
+     "start": 443,
+     "end": 447,
+     "summary": ""
+    },
+    {
+     "title": "Some Applications of Euclidean Geometry",
+     "start": 448,
+     "end": 462,
+     "summary": ""
+    }
+   ],
+   "end": 462,
+   "summary": "Euclidean spaces.",
+   "terms": [
+    "inner product",
+    "orthonormal bases",
+    "Gram-Schmidt",
+    "orthogonal group",
+    "isometries"
+   ]
+  },
+  {
+   "title": "QR-Decomposition for Arbitrary Matrices",
+   "start": 463,
+   "sections": [
+    {
+     "title": "Orthogonal Reflections",
+     "start": 463,
+     "end": 467,
+     "summary": ""
+    },
+    {
+     "title": "QR-Decomposition Using Householder Matrices",
+     "start": 468,
+     "end": 484,
+     "summary": ""
+    }
+   ],
+   "end": 484,
+   "summary": "QR decomposition.",
+   "terms": [
+    "QR",
+    "Householder reflections"
+   ]
+  },
+  {
+   "title": "Hermitian Spaces",
+   "start": 485,
+   "sections": [
+    {
+     "title": "Hermitian Spaces, Pre-Hilbert Spaces",
+     "start": 485,
+     "end": 493,
+     "summary": ""
+    },
+    {
+     "title": "Orthogonality, Duality, Adjoint of a Linear Map",
+     "start": 494,
+     "end": 498,
+     "summary": ""
+    },
+    {
+     "title": "Linear Isometries (Also Called Unitary Transformations)",
+     "start": 499,
+     "end": 500,
+     "summary": ""
+    },
+    {
+     "title": "The Unitary Group, Unitary Matrices",
+     "start": 501,
+     "end": 503,
+     "summary": ""
+    },
+    {
+     "title": "Hermitian Reflections and QR-Decomposition",
+     "start": 504,
+     "end": 508,
+     "summary": ""
+    },
+    {
+     "title": "Orthogonal Projections and Involutions",
+     "start": 509,
+     "end": 511,
+     "summary": ""
+    },
+    {
+     "title": "Dual Norms",
+     "start": 512,
+     "end": 524,
+     "summary": ""
+    }
+   ],
+   "end": 524,
+   "summary": "Hermitian spaces.",
+   "terms": [
+    "Hermitian inner product",
+    "unitary group",
+    "orthogonal projections"
+   ]
+  },
+  {
+   "title": "Eigenvectors and Eigenvalues",
+   "start": 525,
+   "sections": [
+    {
+     "title": "Eigenvectors and Eigenvalues of a Linear Map",
+     "start": 525,
+     "end": 532,
+     "summary": ""
+    },
+    {
+     "title": "Reduction to Upper Triangular Form",
+     "start": 533,
+     "end": 536,
+     "summary": ""
+    },
+    {
+     "title": "Location of Eigenvalues",
+     "start": 537,
+     "end": 540,
+     "summary": ""
+    },
+    {
+     "title": "Conditioning of Eigenvalue Problems",
+     "start": 541,
+     "end": 542,
+     "summary": ""
+    },
+    {
+     "title": "Eigenvalues of the Matrix Exponential",
+     "start": 543,
+     "end": 556,
+     "summary": ""
+    }
+   ],
+   "end": 556,
+   "summary": "Eigenvalues and eigenvectors.",
+   "terms": [
+    "eigenvalues",
+    "eigenvectors",
+    "diagonalization",
+    "Schur form",
+    "Gershgorin"
+   ]
+  },
+  {
+   "title": "Unit Quaternions and Rotations in SO(3)",
+   "start": 557,
+   "sections": [
+    {
+     "title": "The Group SU(2) and the Skew Field H of Quaternions",
+     "start": 557,
+     "end": 558,
+     "summary": ""
+    },
+    {
+     "title": "Representation of Rotation in SO(3) By Quaternions in SU(2)",
+     "start": 559,
+     "end": 563,
+     "summary": ""
+    },
+    {
+     "title": "Matrix Representation of the Rotation rq",
+     "start": 564,
+     "end": 565,
+     "summary": ""
+    },
+    {
+     "title": "An Algorithm to Find a Quaternion Representing a Rotation",
+     "start": 566,
+     "end": 568,
+     "summary": ""
+    },
+    {
+     "title": "The Exponential Map exp : su(2) → SU(2)",
+     "start": 569,
+     "end": 571,
+     "summary": ""
+    },
+    {
+     "title": "Quaternion Interpolation ~",
+     "start": 572,
+     "end": 573,
+     "summary": ""
+    },
+    {
+     "title": "Nonexistence of a “Nice” Section from SO(3) to SU(2)",
+     "start": 574,
+     "end": 580,
+     "summary": ""
+    }
+   ],
+   "end": 580,
+   "summary": "Rotations via quaternions.",
+   "terms": [
+    "unit quaternions",
+    "SO(3)",
+    "SU(2)",
+    "exponential map"
+   ]
+  },
+  {
+   "title": "Spectral Theorems",
+   "start": 581,
+   "sections": [
+    {
+     "title": "Introduction",
+     "start": 581,
+     "end": 581,
+     "summary": ""
+    },
+    {
+     "title": "Normal Linear Maps: Eigenvalues and Eigenvectors",
+     "start": 581,
+     "end": 586,
+     "summary": ""
+    },
+    {
+     "title": "Spectral Theorem for Normal Linear Maps",
+     "start": 587,
+     "end": 591,
+     "summary": ""
+    },
+    {
+     "title": "Self-Adjoint and Other Special Linear Maps",
+     "start": 592,
+     "end": 597,
+     "summary": ""
+    },
+    {
+     "title": "Normal and Other Special Matrices",
+     "start": 598,
+     "end": 600,
+     "summary": ""
+    },
+    {
+     "title": "Rayleigh–Ritz Theorems and Eigenvalue Interlacing",
+     "start": 601,
+     "end": 605,
+     "summary": ""
+    },
+    {
+     "title": "The Courant–Fischer Theorem; Perturbation Results",
+     "start": 606,
+     "end": 616,
+     "summary": ""
+    }
+   ],
+   "end": 616,
+   "summary": "Spectral theorems.",
+   "terms": [
+    "normal matrices",
+    "symmetric matrices",
+    "spectral theorem",
+    "Rayleigh quotient",
+    "Courant-Fischer"
+   ]
+  },
+  {
+   "title": "Computing Eigenvalues and Eigenvectors",
+   "start": 617,
+   "sections": [
+    {
+     "title": "The Basic QR Algorithm",
+     "start": 619,
+     "end": 624,
+     "summary": ""
+    },
+    {
+     "title": "Hessenberg Matrices",
+     "start": 625,
+     "end": 630,
+     "summary": ""
+    },
+    {
+     "title": "Making the QR Method More Efficient Using Shifts",
+     "start": 631,
+     "end": 635,
+     "summary": ""
+    },
+    {
+     "title": "Krylov Subspaces; Arnoldi Iteration",
+     "start": 636,
+     "end": 639,
+     "summary": ""
+    },
+    {
+     "title": "GMRES",
+     "start": 640,
+     "end": 640,
+     "summary": ""
+    },
+    {
+     "title": "The Hermitian Case; Lanczos Iteration",
+     "start": 641,
+     "end": 641,
+     "summary": ""
+    },
+    {
+     "title": "Power Methods",
+     "start": 642,
+     "end": 646,
+     "summary": ""
+    }
+   ],
+   "end": 646,
+   "summary": "Numerical eigenvalue methods.",
+   "terms": [
+    "QR algorithm",
+    "Hessenberg",
+    "shifts",
+    "Krylov",
+    "Arnoldi",
+    "Lanczos",
+    "power iteration"
+   ]
+  },
+  {
+   "title": "Graphs and Graph Laplacians; Basic Facts",
+   "start": 647,
+   "sections": [
+    {
+     "title": "Directed Graphs, Undirected Graphs, Weighted Graphs",
+     "start": 650,
+     "end": 656,
+     "summary": ""
+    },
+    {
+     "title": "Laplacian Matrices of Graphs",
+     "start": 657,
+     "end": 660,
+     "summary": ""
+    },
+    {
+     "title": "Normalized Laplacian Matrices of Graphs",
+     "start": 661,
+     "end": 664,
+     "summary": ""
+    },
+    {
+     "title": "Graph Clustering Using Normalized Cuts",
+     "start": 665,
+     "end": 670,
+     "summary": ""
+    }
+   ],
+   "end": 670,
+   "summary": "Graphs and Laplacians.",
+   "terms": [
+    "graph Laplacian",
+    "incidence matrix",
+    "normalized Laplacian"
+   ]
+  },
+  {
+   "title": "Spectral Graph Drawing",
+   "start": 671,
+   "sections": [
+    {
+     "title": "Graph Drawing and Energy Minimization",
+     "start": 671,
+     "end": 673,
+     "summary": ""
+    },
+    {
+     "title": "Examples of Graph Drawings",
+     "start": 674,
+     "end": 680,
+     "summary": ""
+    }
+   ],
+   "end": 680,
+   "summary": "Spectral graph drawing.",
+   "terms": [
+    "spectral drawing",
+    "graph embedding"
+   ]
+  },
+  {
+   "title": "Singular Value Decomposition and Polar Form",
+   "start": 681,
+   "sections": [
+    {
+     "title": "Properties of f ◦ f",
+     "start": 681,
+     "end": 686,
+     "summary": ""
+    },
+    {
+     "title": "Singular Value Decomposition for Square Matrices",
+     "start": 687,
+     "end": 690,
+     "summary": ""
+    },
+    {
+     "title": "Polar Form for Square Matrices",
+     "start": 691,
+     "end": 692,
+     "summary": ""
+    },
+    {
+     "title": "Singular Value Decomposition for Rectangular Matrices",
+     "start": 693,
+     "end": 696,
+     "summary": ""
+    },
+    {
+     "title": "Ky Fan Norms and Schatten Norms",
+     "start": 697,
+     "end": 702,
+     "summary": ""
+    }
+   ],
+   "end": 702,
+   "summary": "Singular value decomposition.",
+   "terms": [
+    "SVD",
+    "polar decomposition"
+   ]
+  },
+  {
+   "title": "Applications of SVD and Pseudo-Inverses",
+   "start": 703,
+   "sections": [
+    {
+     "title": "Least Squares Problems and the Pseudo-Inverse",
+     "start": 703,
+     "end": 709,
+     "summary": ""
+    },
+    {
+     "title": "Properties of the Pseudo-Inverse",
+     "start": 710,
+     "end": 714,
+     "summary": ""
+    },
+    {
+     "title": "Data Compression and SVD",
+     "start": 715,
+     "end": 716,
+     "summary": ""
+    },
+    {
+     "title": "Principal Components Analysis (PCA)",
+     "start": 717,
+     "end": 727,
+     "summary": ""
+    },
+    {
+     "title": "Best Affine Approximation",
+     "start": 728,
+     "end": 736,
+     "summary": ""
+    }
+   ],
+   "end": 736,
+   "summary": "Applications of SVD.",
+   "terms": [
+    "pseudo-inverse",
+    "least squares",
+    "PCA",
+    "best low-rank approximation",
+    "data compression"
+   ]
+  },
+  {
+   "title": "Annihilating Polynomials; Primary Decomposition",
+   "start": 737,
+   "sections": [
+    {
+     "title": "Basic Properties of Polynomials; Ideals, GCD’s",
+     "start": 739,
+     "end": 743,
+     "summary": ""
+    },
+    {
+     "title": "Annihilating Polynomials and the Minimal Polynomial",
+     "start": 744,
+     "end": 744,
+     "summary": ""
+    },
+    {
+     "title": "Minimal Polynomials of Diagonalizable Linear Maps",
+     "start": 745,
+     "end": 747,
+     "summary": ""
+    },
+    {
+     "title": "Commuting Families of Linear Maps",
+     "start": 748,
+     "end": 750,
+     "summary": ""
+    },
+    {
+     "title": "The Primary Decomposition Theorem",
+     "start": 751,
+     "end": 757,
+     "summary": ""
+    },
+    {
+     "title": "Jordan Decomposition",
+     "start": 758,
+     "end": 759,
+     "summary": ""
+    },
+    {
+     "title": "Nilpotent Linear Maps and Jordan Form",
+     "start": 760,
+     "end": 770,
+     "summary": ""
+    }
+   ],
+   "end": 770,
+   "summary": "Polynomials of linear maps.",
+   "terms": [
+    "minimal polynomial",
+    "annihilating polynomial",
+    "primary decomposition",
+    "Jordan form",
+    "nilpotent"
+   ]
+  }
+ ],
+ "title": "Linear Algebra for Computer Vision, Robotics, and Machine Learning",
+ "byline": "Jean Gallier and Jocelyn Quaintance · University of Pennsylvania, version of 6 December 2024 (free online)",
+ "note": "PDF page = printed page. This book is very long, so summaries and terms are given per chapter; each section is still listed with its PDF page range (section titles were parsed from the contents and a few long titles may be missing). Problems sections and the bibliography are not broken out. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "A rigorous, computation-aware linear algebra text aimed at vision, robotics and ML. It covers vector spaces, bases and linear maps, matrices, Haar wavelets and Hadamard matrices, direct sums and affine maps, determinants, Gaussian elimination with LU and Cholesky, vector and matrix norms, iterative solvers, duality, Euclidean and Hermitian spaces with QR via Householder, eigenvalues, quaternions and SO(3), spectral theorems, eigenvalue algorithms (QR iteration, Krylov), graph Laplacians and spectral graph drawing, SVD and polar form with pseudo-inverses, PCA and least squares, and finally annihilating polynomials, primary decomposition and the Jordan form."
+}
