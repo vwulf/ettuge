@@ -1,0 +1,507 @@
+{
+ "title": "Distributed Computing Through Combinatorial Topology",
+ "byline": "Maurice Herlihy, Dmitry Kozlov and Sergio Rajsbaum \u00b7 Morgan Kaufmann, 2013",
+ "note": "Chapter notes, problems and bibliography are not broken out; many chapters have no section entries in the PDF outline, so they appear as single leaves. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "A textbook showing that what fault-tolerant distributed systems can compute is a question about topology. Processes\u2019 possible views form simplicial complexes, protocols are maps between complexes, and a task is solvable exactly when a suitable simplicial map exists. Starting from two-process systems, the book develops the combinatorial topology it needs (complexes, subdivisions, connectivity), characterizes colorless tasks in wait-free, t-resilient, message-passing and Byzantine models, and introduces simulations such as BG. The second half treats general (colored) tasks: manifold protocols, connectivity arguments for consensus and k-set agreement impossibility, the asynchronous computability theorem, renaming and orientation, reductions between shared-memory models, loop agreement classified by the fundamental group, and the immediate snapshot subdivision.",
+ "chapters": [
+  {
+   "title": "1 Introduction",
+   "start": 8,
+   "end": 25,
+   "sections": [
+    {
+     "title": "1.1 Concurrency Everywhere",
+     "start": 8,
+     "end": 13,
+     "summary": "Multicores and networks make concurrency unavoidable.",
+     "terms": [
+      "concurrency",
+      "multicore"
+     ]
+    },
+    {
+     "title": "1.2 Distributed Computing",
+     "start": 14,
+     "end": 16,
+     "summary": "What distributed computing models: processes, failures, communication.",
+     "terms": [
+      "distributed computing",
+      "asynchrony",
+      "crash failures"
+     ]
+    },
+    {
+     "title": "1.3 Two Classic Distributed Computing Problems",
+     "start": 17,
+     "end": 22,
+     "summary": "Coordinated attack and consensus as motivating problems.",
+     "terms": [
+      "two generals",
+      "coordinated attack",
+      "consensus"
+     ]
+    }
+   ],
+   "summary": "Why concurrency matters and two classic problems that frame the book."
+  },
+  {
+   "title": "2 Two-Process Systems",
+   "start": 26,
+   "end": 44,
+   "sections": [],
+   "summary": "Two processes as a warm-up: tasks and protocols as graphs, and why consensus is impossible.",
+   "terms": [
+    "two-process tasks",
+    "graphs",
+    "approximate agreement",
+    "consensus impossibility",
+    "read-write memory",
+    "message passing"
+   ]
+  },
+  {
+   "title": "3 Elements of Combinatorial Topology",
+   "start": 45,
+   "end": 69,
+   "sections": [],
+   "summary": "The topology the book uses: simplicial complexes, maps, subdivisions and connectivity.",
+   "terms": [
+    "simplicial complex",
+    "simplicial map",
+    "chromatic complex",
+    "subdivision",
+    "barycentric subdivision",
+    "carrier map",
+    "connectivity",
+    "Sperner lemma"
+   ]
+  },
+  {
+   "title": "4 Colorless Wait-Free Computation",
+   "start": 70,
+   "end": 96,
+   "sections": [],
+   "summary": "Colorless tasks in the wait-free read-write model and their exact solvability condition.",
+   "terms": [
+    "colorless task",
+    "wait-free",
+    "read-write memory",
+    "barycentric agreement",
+    "set agreement",
+    "colorless protocol complex",
+    "solvability theorem"
+   ]
+  },
+  {
+   "title": "5 Solvability of Colorless Tasks in Different Models",
+   "start": 97,
+   "end": 121,
+   "sections": [],
+   "summary": "How solvability of colorless tasks changes with resilience, objects and message passing.",
+   "terms": [
+    "t-resilience",
+    "message passing",
+    "adversaries",
+    "test-and-set",
+    "shared objects",
+    "colorless computability"
+   ]
+  },
+  {
+   "title": "6 Byzantine-Resilient Colorless Computation",
+   "start": 122,
+   "end": 132,
+   "sections": [
+    {
+     "title": "6.1 Byzantine Failures",
+     "start": 122,
+     "end": 123,
+     "summary": "Byzantine failure model.",
+     "terms": [
+      "Byzantine failures"
+     ]
+    },
+    {
+     "title": "6.2 Byzantine Communication Abstractions",
+     "start": 124,
+     "end": 126,
+     "summary": "Reliable broadcast and related abstractions.",
+     "terms": [
+      "reliable broadcast"
+     ]
+    },
+    {
+     "title": "6.3 Byzantine Set Agreement",
+     "start": 127,
+     "end": 127,
+     "summary": "Set agreement with Byzantine processes.",
+     "terms": [
+      "set agreement"
+     ]
+    },
+    {
+     "title": "6.4 Byzantine Barycentric Agreement",
+     "start": 127,
+     "end": 127,
+     "summary": "Barycentric agreement with Byzantine processes.",
+     "terms": [
+      "barycentric agreement"
+     ]
+    },
+    {
+     "title": "6.5 Byzantine Task Solvability",
+     "start": 128,
+     "end": 129,
+     "summary": "Solvability of colorless tasks under Byzantine failures.",
+     "terms": [
+      "Byzantine task solvability"
+     ]
+    },
+    {
+     "title": "6.6 Byzantine Shared Memory",
+     "start": 130,
+     "end": 130,
+     "summary": "Byzantine shared memory.",
+     "terms": [
+      "Byzantine shared memory"
+     ]
+    }
+   ],
+   "summary": "Colorless computation when some processes are Byzantine."
+  },
+  {
+   "title": "7 Simulations and Reductions",
+   "start": 133,
+   "end": 144,
+   "sections": [
+    {
+     "title": "7.1 Motivation",
+     "start": 133,
+     "end": 134,
+     "summary": "Why reductions are useful.",
+     "terms": [
+      "reductions"
+     ]
+    },
+    {
+     "title": "7.2 Combinatorial Setting",
+     "start": 135,
+     "end": 136,
+     "summary": "Simulations as simplicial maps.",
+     "terms": [
+      "simulation",
+      "combinatorial"
+     ]
+    },
+    {
+     "title": "7.3 Applications",
+     "start": 137,
+     "end": 137,
+     "summary": "Consequences for colorless tasks.",
+     "terms": [
+      "applications"
+     ]
+    },
+    {
+     "title": "7.4 BG Simulation",
+     "start": 138,
+     "end": 140,
+     "summary": "Borowsky\u2013Gafni simulation of t-resilient by wait-free systems.",
+     "terms": [
+      "BG simulation"
+     ]
+    }
+   ],
+   "summary": "Simulating one model in another to transfer results."
+  },
+  {
+   "title": "8 Read-Write Protocols for General Tasks",
+   "start": 145,
+   "end": 161,
+   "sections": [
+    {
+     "title": "8.1 Overview",
+     "start": 145,
+     "end": 145,
+     "summary": "From colorless to colored tasks.",
+     "terms": [
+      "general tasks"
+     ]
+    },
+    {
+     "title": "8.2 Tasks",
+     "start": 146,
+     "end": 147,
+     "summary": "Task definitions with input, output complexes and carrier maps.",
+     "terms": [
+      "task specification"
+     ]
+    },
+    {
+     "title": "8.3 Examples of Tasks",
+     "start": 148,
+     "end": 153,
+     "summary": "Examples: consensus, set agreement, renaming, weak symmetry breaking.",
+     "terms": [
+      "renaming",
+      "weak symmetry breaking"
+     ]
+    },
+    {
+     "title": "8.4 Protocols",
+     "start": 154,
+     "end": 158,
+     "summary": "Layered immediate-snapshot protocols.",
+     "terms": [
+      "layered immediate snapshot",
+      "protocol complex"
+     ]
+    }
+   ],
+   "summary": "General (colored) tasks and read-write protocols for them."
+  },
+  {
+   "title": "9 Manifold Protocols",
+   "start": 162,
+   "end": 185,
+   "sections": [],
+   "summary": "Protocols whose complexes are pseudomanifolds, and impossibility via Sperner-type arguments.",
+   "terms": [
+    "pseudomanifold",
+    "manifold protocol",
+    "Sperner lemma",
+    "set agreement impossibility",
+    "weak symmetry breaking"
+   ]
+  },
+  {
+   "title": "10 Connectivity",
+   "start": 186,
+   "end": 199,
+   "sections": [
+    {
+     "title": "10.1 Consensus and Path Connectivity",
+     "start": 186,
+     "end": 187,
+     "summary": "Consensus fails because the protocol complex is path connected.",
+     "terms": [
+      "consensus impossibility",
+      "path connectivity"
+     ]
+    },
+    {
+     "title": "10.2 Immediate Snapshot Model and Connectivity",
+     "start": 188,
+     "end": 193,
+     "summary": "Immediate snapshot complexes are connected.",
+     "terms": [
+      "immediate snapshot"
+     ]
+    },
+    {
+     "title": "10.3 k-Set agreement and (k\u22121)-connectivity",
+     "start": 194,
+     "end": 194,
+     "summary": "k-set agreement fails because of (k\u22121)-connectivity.",
+     "terms": [
+      "k-set agreement",
+      "k-connectivity"
+     ]
+    },
+    {
+     "title": "10.4 Immediate Snapshot Model and k-Connectivity",
+     "start": 194,
+     "end": 197,
+     "summary": "Higher connectivity of immediate snapshot complexes.",
+     "terms": [
+      "higher connectivity"
+     ]
+    }
+   ],
+   "summary": "Connectivity of protocol complexes as the source of impossibility results."
+  },
+  {
+   "title": "11 Wait-Free Computability for General Tasks",
+   "start": 200,
+   "end": 223,
+   "sections": [],
+   "summary": "The asynchronous computability theorem characterizing wait-free solvable tasks.",
+   "terms": [
+    "asynchronous computability theorem",
+    "wait-free solvability",
+    "chromatic subdivision",
+    "simplicial approximation"
+   ]
+  },
+  {
+   "title": "12 Renaming and Oriented Manifolds",
+   "start": 224,
+   "end": 239,
+   "sections": [],
+   "summary": "Renaming and weak symmetry breaking via orientations of manifolds.",
+   "terms": [
+    "renaming",
+    "oriented manifold",
+    "weak symmetry breaking",
+    "index lemma",
+    "counting"
+   ]
+  },
+  {
+   "title": "13 Task Solvability in Different Models",
+   "start": 240,
+   "end": 264,
+   "sections": [],
+   "summary": "Colored task solvability in models beyond wait-free read-write.",
+   "terms": [
+    "t-resilient",
+    "adversaries",
+    "colored tasks",
+    "model comparisons"
+   ]
+  },
+  {
+   "title": "14 Simulations and Reductions for Colored Tasks",
+   "start": 265,
+   "end": 279,
+   "sections": [
+    {
+     "title": "14.1 Model",
+     "start": 265,
+     "end": 266,
+     "summary": "Model setting.",
+     "terms": [
+      "model"
+     ]
+    },
+    {
+     "title": "14.2 Shared-Memory Models",
+     "start": 267,
+     "end": 268,
+     "summary": "Shared-memory variants.",
+     "terms": [
+      "shared-memory models"
+     ]
+    },
+    {
+     "title": "14.3 Trivial Reductions",
+     "start": 269,
+     "end": 269,
+     "summary": "Easy reductions.",
+     "terms": [
+      "trivial reductions"
+     ]
+    },
+    {
+     "title": "14.4 Layered Snapshot from Read-Write",
+     "start": 269,
+     "end": 270,
+     "summary": "Layered snapshot from read-write.",
+     "terms": [
+      "layered snapshot"
+     ]
+    },
+    {
+     "title": "14.5 Immediate Snapshot from Snapshot",
+     "start": 271,
+     "end": 271,
+     "summary": "Immediate snapshot from snapshot.",
+     "terms": [
+      "immediate snapshot"
+     ]
+    },
+    {
+     "title": "14.6 Immediate Snapshot from Layered Immediate Snapshot",
+     "start": 272,
+     "end": 275,
+     "summary": "Immediate snapshot from layered immediate snapshot.",
+     "terms": [
+      "layered immediate snapshot"
+     ]
+    },
+    {
+     "title": "14.7 Snapshot from Layered Snapshot",
+     "start": 276,
+     "end": 278,
+     "summary": "Snapshot from layered snapshot.",
+     "terms": [
+      "snapshot"
+     ]
+    }
+   ],
+   "summary": "Reductions between shared-memory models for colored tasks."
+  },
+  {
+   "title": "15 Classifying Loop Agreement Tasks",
+   "start": 280,
+   "end": 289,
+   "sections": [
+    {
+     "title": "15.1 The Fundamental Group",
+     "start": 281,
+     "end": 281,
+     "summary": "The fundamental group.",
+     "terms": [
+      "fundamental group"
+     ]
+    },
+    {
+     "title": "15.2 Algebraic Signatures",
+     "start": 282,
+     "end": 283,
+     "summary": "Algebraic signatures of tasks.",
+     "terms": [
+      "algebraic signature"
+     ]
+    },
+    {
+     "title": "15.3 Main Theorem",
+     "start": 284,
+     "end": 286,
+     "summary": "Main classification theorem.",
+     "terms": [
+      "loop agreement"
+     ]
+    },
+    {
+     "title": "15.4 Applications",
+     "start": 287,
+     "end": 287,
+     "summary": "Applications.",
+     "terms": [
+      "applications"
+     ]
+    },
+    {
+     "title": "15.5 Torsion Classes",
+     "start": 288,
+     "end": 288,
+     "summary": "Torsion classes.",
+     "terms": [
+      "torsion"
+     ]
+    }
+   ],
+   "summary": "Loop agreement tasks classified by algebraic topology."
+  },
+  {
+   "title": "16 Immediate Snapshot Subdivisions",
+   "start": 290,
+   "end": 310,
+   "sections": [
+    {
+     "title": "16.1 A Glimpse of Discrete Geometry",
+     "start": 290,
+     "end": 294,
+     "summary": "A first look at discrete geometry.",
+     "terms": [
+      "discrete geometry",
+      "chromatic subdivision"
+     ]
+    }
+   ],
+   "summary": "Discrete-geometry proof that the immediate snapshot complex is a subdivision."
+  }
+ ],
+ "url": "https://drive.google.com/file/d/1xChCxVnGIY2ZcbBMSWjqwFVk779sdVUd/view"
+}

@@ -8,6 +8,7 @@ Partial PDFs (samples, excerpts, unfinished drafts) are marked as such on their 
 
 - [Concise Machine Learning](shewchuk-concise-machine-learning) (Shewchuk): Berkeley CS 189: SVMs to spectral clustering
 - [Deep Learning and Computational Physics](deep-learning-computational-physics) (Ray, Pinti, Oberai): PINNs, DeepONet, FNO, neural ODEs (lecture notes)
+- [High-Dimensional Probability](high-dimensional-probability) (Roman Vershynin): Concentration, random matrices, chaining and sparse recovery, each with a data-science application.
 - [Multimodal Deep Learning](multimodal-deep-learning) (LMU seminar): image–text models: CLIP, DALL-E, diffusion (2023)
 - [Optimization for Machine Learning](gartner-jaggi-optimization-ml) (Gärtner, Jaggi): GD, SGD, proximal, Newton, BFGS, Frank-Wolfe with rates
 - [Prompt Engineering](prompt-engineering) (Boonstra (Google)): sampling settings, prompting techniques, best practices
@@ -19,10 +20,13 @@ Partial PDFs (samples, excerpts, unfinished drafts) are marked as such on their 
 - [Calculating Compilers](meijer-calculating-compilers) (Meijer): compilers derived from semantics; bananas and lenses
 - [Compilers: Course Notes](kiselyov-compilers-notes) (Kiselyov): an OCaml compiler to x86-64 in tagless-final style (first 28 pages)
 - [Computability, Unsolvability, Randomness](simpson-computability-randomness) (Simpson): recursion theory to Martin-Löf randomness
+- [Distributed Computing Through Combinatorial Topology](distributed-computing-combinatorial-topology) (Herlihy, Kozlov and Rajsbaum): Solvability of distributed tasks as a question about simplicial complexes and their maps.
 - [Effect Oriented Programming](effect-oriented-programming) (Frasure, Eckel, Ward): ZIO effects, layers, typed errors, resilience
+- [Implementing Functional Languages: a tutorial](implementing-functional-languages) (Simon Peyton Jones and David Lester): Building lazy evaluators step by step: template instantiation, G-machine, TIM, parallel G-machine, lambda lifting.
 - [Modern Systems Programming with Scala Native](scala-native-systems-programming) (Whaling): pointers, processes, libuv, LMDB
 - [Perhaps Not The Answer You Were Expecting](mcbride-perhaps-not-the-answer) (McBride): Stack Overflow answers: applicatives, derivatives, dependent types
 - [Principles of Eventual Consistency](burckhardt-eventual-consistency) (Burckhardt): histories, abstract executions, CAP, protocols
+- [The Little Book of Semaphores](little-book-of-semaphores) (Allen B. Downey): Concurrency puzzles solved with semaphores, from classic problems to original ones.
 - [Theorem Proving in Lean 4](theorem-proving-in-lean-4) (Avigad, de Moura, Kong, Ullrich): dependent types, tactics, inductive types, type classes
 - [Unix System Programming in OCaml](unix-system-programming-ocaml) (Leroy, Rémy): files, processes, signals, pipes, sockets, threads
 
@@ -33,7 +37,11 @@ Partial PDFs (samples, excerpts, unfinished drafts) are marked as such on their 
 - [Introduction to Logic and to the Methodology of Deductive Sciences](tarski-introduction-to-logic) (Tarski): sentential calculus, classes, relations, axiomatics
 - [Intuitionistic Type Theory](martin-lof-intuitionistic-type-theory) (Martin-Löf): meaning explanations and the type formers
 - [Intuitive Topology](prasolov-intuitive-topology) (Prasolov): knots, homeomorphisms, vector fields, surfaces
+- [Linear Algebra Done Wrong](linear-algebra-done-wrong) (Sergei Treil): Rigorous first course with early determinants, through SVD, quadratic forms, tensors and Jordan form.
+- [Linear Algebra via Exterior Products](linear-algebra-via-exterior-products) (Sergei Winitzki): Coordinate-free linear algebra where determinants, trace and Jordan form come from wedge products.
+- [Module Theory: An Approach to Linear Algebra](blyth-module-theory) (T. S. Blyth): Linear algebra over rings: exact sequences, projective and injective modules, tensors, PIDs and canonical forms.
 - [Surreal Numbers (opening chapters)](surreal-numbers) (Knuth): Conway’s numbers rediscovered as a story
+- [The Discrete Algebra of the Fourier Transform](discrete-algebra-fourier-transform) (Gabriel Peyré): Fourier analysis on finite groups, the DFT and FFT, finite-field transforms and group representations.
 
 ## Other
 

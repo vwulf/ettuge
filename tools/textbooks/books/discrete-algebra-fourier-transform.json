@@ -1,0 +1,391 @@
+{
+ "title": "The Discrete Algebra of the Fourier Transform",
+ "byline": "Gabriel Peyr\u00e9 \u00b7 English translation of \u201cL\u2019alg\u00e8bre discr\u00e8te de la transform\u00e9e de Fourier\u201d",
+ "note": "Exercise solutions and the Matlab/Maple listings at the end (PDF pp. 221\u2013296) are not broken down. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "An algebraic treatment of Fourier analysis in the finite setting. Peyr\u00e9 starts from duality on finite groups (characters, the dual group, Fourier transform and Plancherel), applies it to Gauss sums, the Walsh transform and Poisson summation, and then develops the discrete Fourier transform for signal processing: the FFT, circular convolution, multidimensional transforms, filtering, solving differential equations and fast multiplication. Later chapters extend the idea to the Hartley, Z and fractional Fourier transforms, to transforms over finite fields and rings with error-correcting codes, and finally to linear representations of finite non-abelian groups, characters and their applications.",
+ "chapters": [
+  {
+   "title": "Fourier transform on a finite group",
+   "start": 9,
+   "end": 30,
+   "sections": [
+    {
+     "title": "Dual of a finite group",
+     "start": 9,
+     "end": 12,
+     "summary": "The dual of a finite group.",
+     "terms": [
+      "dual group",
+      "characters"
+     ]
+    },
+    {
+     "title": "Dual of an abelian group",
+     "start": 13,
+     "end": 16,
+     "summary": "Characters of abelian groups and the structure of the dual.",
+     "terms": [
+      "abelian groups"
+     ]
+    },
+    {
+     "title": "Dual of a non-commutative group",
+     "start": 17,
+     "end": 18,
+     "summary": "The non-commutative case.",
+     "terms": [
+      "non-abelian groups"
+     ]
+    },
+    {
+     "title": "Fourier transform",
+     "start": 19,
+     "end": 23,
+     "summary": "Fourier transform, inversion and Plancherel.",
+     "terms": [
+      "Fourier transform",
+      "Plancherel",
+      "inversion"
+     ]
+    }
+   ],
+   "summary": "Characters of finite groups and the Fourier transform they define."
+  },
+  {
+   "title": "Applications of duality on a finite group",
+   "start": 31,
+   "end": 64,
+   "sections": [
+    {
+     "title": "Gaussian sums",
+     "start": 31,
+     "end": 41,
+     "summary": "Quadratic Gauss sums and quadratic reciprocity.",
+     "terms": [
+      "Gauss sums",
+      "quadratic reciprocity"
+     ]
+    },
+    {
+     "title": "Walsh transform",
+     "start": 42,
+     "end": 44,
+     "summary": "The Walsh\u2013Hadamard transform on Boolean cubes.",
+     "terms": [
+      "Walsh transform",
+      "Hadamard"
+     ]
+    },
+    {
+     "title": "Poisson formula",
+     "start": 45,
+     "end": 52,
+     "summary": "The Poisson summation formula and its uses.",
+     "terms": [
+      "Poisson summation"
+     ]
+    }
+   ],
+   "summary": "Number-theoretic and combinatorial applications of duality."
+  },
+  {
+   "title": "Discrete Fourier transform",
+   "start": 65,
+   "end": 92,
+   "sections": [
+    {
+     "title": "The language of signal processing",
+     "start": 65,
+     "end": 65,
+     "summary": "Signals, sampling and spectra.",
+     "terms": [
+      "signal processing",
+      "sampling"
+     ]
+    },
+    {
+     "title": "Fast Fourier transform",
+     "start": 66,
+     "end": 73,
+     "summary": "Cooley\u2013Tukey FFT and its complexity.",
+     "terms": [
+      "FFT",
+      "Cooley-Tukey"
+     ]
+    },
+    {
+     "title": "Circular convolution",
+     "start": 74,
+     "end": 76,
+     "summary": "Circular convolution and the convolution theorem.",
+     "terms": [
+      "circular convolution",
+      "convolution theorem"
+     ]
+    },
+    {
+     "title": "In higher dimension",
+     "start": 77,
+     "end": 79,
+     "summary": "Multidimensional DFTs.",
+     "terms": [
+      "2D DFT"
+     ]
+    },
+    {
+     "title": "Symmetry and discrete transform",
+     "start": 80,
+     "end": 81,
+     "summary": "Symmetric signals and related transforms.",
+     "terms": [
+      "symmetry"
+     ]
+    }
+   ],
+   "summary": "The DFT as used in signal processing, and its fast algorithm."
+  },
+  {
+   "title": "Applications of the discrete Fourier transform",
+   "start": 93,
+   "end": 124,
+   "sections": [
+    {
+     "title": "Link with the Fourier transform on R",
+     "start": 93,
+     "end": 96,
+     "summary": "Approximating the continuous Fourier transform.",
+     "terms": [
+      "Fourier transform on R",
+      "aliasing"
+     ]
+    },
+    {
+     "title": "Filtering",
+     "start": 97,
+     "end": 100,
+     "summary": "Linear filters.",
+     "terms": [
+      "filtering"
+     ]
+    },
+    {
+     "title": "Geometric aspects of filtering",
+     "start": 101,
+     "end": 105,
+     "summary": "Filtering seen geometrically.",
+     "terms": [
+      "geometric filtering"
+     ]
+    },
+    {
+     "title": "Numerical solution of derivative equations by tials",
+     "start": 106,
+     "end": 111,
+     "summary": "Solving differential equations such as Poisson and heat equations spectrally.",
+     "terms": [
+      "spectral methods",
+      "Poisson equation",
+      "heat equation"
+     ]
+    },
+    {
+     "title": "Product calculations",
+     "start": 112,
+     "end": 114,
+     "summary": "Fast polynomial and big-integer multiplication.",
+     "terms": [
+      "fast multiplication",
+      "big integers"
+     ]
+    }
+   ],
+   "summary": "Using the DFT to approximate, filter, solve and multiply."
+  },
+  {
+   "title": "Extension of the notion of Fourier transform",
+   "start": 125,
+   "end": 148,
+   "sections": [
+    {
+     "title": "Hartley transform",
+     "start": 125,
+     "end": 128,
+     "summary": "The real-valued Hartley transform.",
+     "terms": [
+      "Hartley transform"
+     ]
+    },
+    {
+     "title": "Z transform and applications",
+     "start": 129,
+     "end": 135,
+     "summary": "The Z transform for recurrences and filters.",
+     "terms": [
+      "Z transform",
+      "recurrences"
+     ]
+    },
+    {
+     "title": "Vectorial Z Transform",
+     "start": 136,
+     "end": 138,
+     "summary": "A vector version of the Z transform.",
+     "terms": [
+      "vectorial Z transform"
+     ]
+    },
+    {
+     "title": "Fractional Fourier transform",
+     "start": 139,
+     "end": 141,
+     "summary": "The fractional Fourier transform.",
+     "terms": [
+      "fractional Fourier transform"
+     ]
+    }
+   ],
+   "summary": "Other transforms in the same family."
+  },
+  {
+   "title": "Fourier transform with values in a finite field",
+   "start": 149,
+   "end": 178,
+   "sections": [
+    {
+     "title": "Finite field calculations",
+     "start": 149,
+     "end": 152,
+     "summary": "Arithmetic in finite fields and roots of unity.",
+     "terms": [
+      "finite fields",
+      "roots of unity"
+     ]
+    },
+    {
+     "title": "Calculations on a ring",
+     "start": 153,
+     "end": 155,
+     "summary": "Transforms over rings (number-theoretic transforms).",
+     "terms": [
+      "number theoretic transform"
+     ]
+    },
+    {
+     "title": "Application to correction codes",
+     "start": 156,
+     "end": 166,
+     "summary": "Cyclic and BCH codes via the transform.",
+     "terms": [
+      "error-correcting codes",
+      "BCH codes",
+      "cyclic codes"
+     ]
+    },
+    {
+     "title": "Correction codes and duality on a finite abelian group",
+     "start": 167,
+     "end": 171,
+     "summary": "MacWilliams-style duality for codes.",
+     "terms": [
+      "MacWilliams identity",
+      "duality"
+     ]
+    }
+   ],
+   "summary": "Fourier transforms over finite fields and rings, and error-correcting codes."
+  },
+  {
+   "title": "Linear representations of finite groups",
+   "start": 179,
+   "end": 206,
+   "sections": [
+    {
+     "title": "First definitions",
+     "start": 179,
+     "end": 186,
+     "summary": "Representations and their basic constructions.",
+     "terms": [
+      "group representation"
+     ]
+    },
+    {
+     "title": "Invariance and representations",
+     "start": 187,
+     "end": 188,
+     "summary": "Invariant subspaces and irreducibility (Maschke, Schur).",
+     "terms": [
+      "irreducible representation",
+      "Maschke",
+      "Schur lemma"
+     ]
+    },
+    {
+     "title": "Characters",
+     "start": 189,
+     "end": 191,
+     "summary": "Characters and orthogonality.",
+     "terms": [
+      "characters",
+      "orthogonality relations"
+     ]
+    },
+    {
+     "title": "Representations and enumeration",
+     "start": 192,
+     "end": 193,
+     "summary": "Counting with representations.",
+     "terms": [
+      "enumeration"
+     ]
+    },
+    {
+     "title": "Fourier Theory",
+     "start": 194,
+     "end": 198,
+     "summary": "Fourier theory for non-abelian groups.",
+     "terms": [
+      "non-abelian Fourier transform"
+     ]
+    }
+   ],
+   "summary": "Representations of non-abelian finite groups as the general setting for Fourier analysis."
+  },
+  {
+   "title": "Applications of linear representations",
+   "start": 207,
+   "end": 220,
+   "sections": [
+    {
+     "title": "Representation of classic groups",
+     "start": 207,
+     "end": 210,
+     "summary": "Representations of symmetric and dihedral groups.",
+     "terms": [
+      "symmetric group",
+      "dihedral group"
+     ]
+    },
+    {
+     "title": "The question of simplicity",
+     "start": 211,
+     "end": 212,
+     "summary": "Using characters to test simplicity of groups.",
+     "terms": [
+      "simple groups"
+     ]
+    },
+    {
+     "title": "Spectral analysis",
+     "start": 213,
+     "end": 216,
+     "summary": "Spectral analysis of data on groups.",
+     "terms": [
+      "spectral analysis"
+     ]
+    }
+   ],
+   "summary": "Applying representation theory."
+  }
+ ],
+ "url": "https://drive.google.com/file/d/1Jqw9puCT2NbLmpaNk4HOQZCkRtXgPh8W/view"
+}

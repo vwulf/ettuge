@@ -1,0 +1,620 @@
+{
+ "title": "Linear Algebra Done Wrong",
+ "byline": "Sergei Treil \u00b7 Brown University, 2017 edition (free online)",
+ "note": "Review exercises are not broken out. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "A rigorous first course in linear algebra for mathematics majors, \u201cdone wrong\u201d in the sense that it brings in determinants early instead of avoiding them as Axler does. It moves from vector spaces and linear maps through systems of equations, rank and change of basis, to determinants, eigenvalues and diagonalization; then inner product spaces, orthogonal projection, least squares and adjoints; the spectral theorem, polar and singular value decompositions; quadratic forms and Sylvester\u2019s law of inertia; dual spaces and tensors; and finally Cayley\u2013Hamilton, generalized eigenspaces and the Jordan form.",
+ "chapters": [
+  {
+   "title": "Chapter 1. Basic Notions",
+   "start": 11,
+   "end": 48,
+   "sections": [
+    {
+     "title": "1. Vector spaces",
+     "start": 11,
+     "end": 15,
+     "summary": "Axioms and examples of vector spaces.",
+     "terms": [
+      "vector space",
+      "axioms"
+     ]
+    },
+    {
+     "title": "2. Linear combinations, bases.",
+     "start": 16,
+     "end": 21,
+     "summary": "Linear combinations, spanning sets, linear independence and bases.",
+     "terms": [
+      "linear combination",
+      "span",
+      "linear independence",
+      "basis"
+     ]
+    },
+    {
+     "title": "3. Linear Transformations. Matrix\u2013vector multiplication",
+     "start": 22,
+     "end": 26,
+     "summary": "Linear maps and how a matrix acts on a vector.",
+     "terms": [
+      "linear transformation",
+      "matrix-vector product"
+     ]
+    },
+    {
+     "title": "4. Linear transformations as a vector space",
+     "start": 27,
+     "end": 28,
+     "summary": "The space of linear maps.",
+     "terms": [
+      "space of linear maps"
+     ]
+    },
+    {
+     "title": "5. Composition of linear transformations and matrix multiplication.",
+     "start": 29,
+     "end": 33,
+     "summary": "Composition of maps as matrix multiplication.",
+     "terms": [
+      "composition",
+      "matrix multiplication"
+     ]
+    },
+    {
+     "title": "6. Invertible transformations and matrices. Isomorphisms",
+     "start": 34,
+     "end": 39,
+     "summary": "Invertible maps and matrices, and isomorphic spaces.",
+     "terms": [
+      "invertible matrix",
+      "isomorphism"
+     ]
+    },
+    {
+     "title": "7. Subspaces.",
+     "start": 40,
+     "end": 40,
+     "summary": "Subspaces.",
+     "terms": [
+      "subspace"
+     ]
+    },
+    {
+     "title": "8. Application to computer graphics.",
+     "start": 41,
+     "end": 48,
+     "summary": "Rotations, scaling and projective coordinates in computer graphics.",
+     "terms": [
+      "computer graphics",
+      "homogeneous coordinates"
+     ]
+    }
+   ],
+   "summary": "Vector spaces, linear maps and matrices, from first definitions to isomorphisms and subspaces."
+  },
+  {
+   "title": "Chapter 2. Systems of linear equations",
+   "start": 49,
+   "end": 84,
+   "sections": [
+    {
+     "title": "1. Different faces of linear systems.",
+     "start": 49,
+     "end": 49,
+     "summary": "A system as a matrix equation, a vector equation, and a linear map.",
+     "terms": [
+      "linear system"
+     ]
+    },
+    {
+     "title": "2. Solution of a linear system. Echelon and reduced echelon forms",
+     "start": 50,
+     "end": 55,
+     "summary": "Gaussian elimination to echelon and reduced echelon form.",
+     "terms": [
+      "Gaussian elimination",
+      "row echelon form",
+      "reduced row echelon form"
+     ]
+    },
+    {
+     "title": "3. Analyzing the pivots.",
+     "start": 56,
+     "end": 61,
+     "summary": "What pivots say about existence and uniqueness of solutions.",
+     "terms": [
+      "pivots"
+     ]
+    },
+    {
+     "title": "4. Finding the inverse of A by row reduction.",
+     "start": 62,
+     "end": 63,
+     "summary": "Computing an inverse by row reduction.",
+     "terms": [
+      "inverse matrix"
+     ]
+    },
+    {
+     "title": "5. Dimension. Finite-dimensional spaces.",
+     "start": 64,
+     "end": 65,
+     "summary": "Dimension of finite-dimensional spaces.",
+     "terms": [
+      "dimension"
+     ]
+    },
+    {
+     "title": "6. General solution of a linear system.",
+     "start": 66,
+     "end": 68,
+     "summary": "General solution as particular plus homogeneous solution.",
+     "terms": [
+      "general solution",
+      "homogeneous system"
+     ]
+    },
+    {
+     "title": "7. Fundamental subspaces of a matrix. Rank.",
+     "start": 69,
+     "end": 78,
+     "summary": "Column space, null space, row space and rank, and the rank theorem.",
+     "terms": [
+      "rank",
+      "null space",
+      "column space",
+      "row space",
+      "rank-nullity"
+     ]
+    },
+    {
+     "title": "8. Representation of a linear transformation in arbitrary bases. Change of coordinates formula.",
+     "start": 79,
+     "end": 84,
+     "summary": "Matrices of a map in different bases and the change-of-coordinates formula.",
+     "terms": [
+      "change of basis",
+      "similar matrices"
+     ]
+    }
+   ],
+   "summary": "Solving linear systems by row reduction, and what the pivots reveal: dimension, rank and the fundamental subspaces."
+  },
+  {
+   "title": "Chapter 3. Determinants",
+   "start": 85,
+   "end": 108,
+   "sections": [
+    {
+     "title": "1. Introduction.",
+     "start": 85,
+     "end": 85,
+     "summary": "Motivation: volume and invertibility.",
+     "terms": [
+      "determinant",
+      "volume"
+     ]
+    },
+    {
+     "title": "2. What properties determinant should have.",
+     "start": 86,
+     "end": 87,
+     "summary": "The properties a determinant must satisfy (linearity, antisymmetry, normalization).",
+     "terms": [
+      "multilinearity",
+      "alternating"
+     ]
+    },
+    {
+     "title": "3. Constructing the determinant.",
+     "start": 88,
+     "end": 95,
+     "summary": "Building it by row operations.",
+     "terms": [
+      "row operations"
+     ]
+    },
+    {
+     "title": "4. Formal definition. Existence and uniqueness of the determinant.",
+     "start": 96,
+     "end": 99,
+     "summary": "Existence and uniqueness via permutations.",
+     "terms": [
+      "permutations",
+      "existence and uniqueness"
+     ]
+    },
+    {
+     "title": "5. Cofactor expansion.",
+     "start": 100,
+     "end": 105,
+     "summary": "Cofactor expansion and the classical adjugate.",
+     "terms": [
+      "cofactor expansion",
+      "adjugate",
+      "Cramer\u2019s rule"
+     ]
+    },
+    {
+     "title": "6. Minors and rank.",
+     "start": 106,
+     "end": 106,
+     "summary": "Minors and their relation to rank.",
+     "terms": [
+      "minors",
+      "rank"
+     ]
+    }
+   ],
+   "summary": "Determinants built from the properties they must have, then computed by cofactor expansion."
+  },
+  {
+   "title": "Chapter 4. Introduction to spectral theory (eigenvalues and eigenvectors)",
+   "start": 109,
+   "end": 126,
+   "sections": [
+    {
+     "title": "1. Main definitions",
+     "start": 110,
+     "end": 114,
+     "summary": "Eigenvalues, eigenvectors, characteristic polynomial, spectrum.",
+     "terms": [
+      "eigenvalue",
+      "eigenvector",
+      "characteristic polynomial"
+     ]
+    },
+    {
+     "title": "2. Diagonalization.",
+     "start": 115,
+     "end": 126,
+     "summary": "Diagonalization and its criteria, with applications to powers of matrices.",
+     "terms": [
+      "diagonalization",
+      "algebraic multiplicity",
+      "geometric multiplicity"
+     ]
+    }
+   ],
+   "summary": "Eigenvalues and eigenvectors, and when a matrix can be diagonalized."
+  },
+  {
+   "title": "Chapter 5. Inner product spaces",
+   "start": 127,
+   "end": 172,
+   "sections": [
+    {
+     "title": "1. Inner product in R**n and C**n. Inner product spaces.",
+     "start": 127,
+     "end": 134,
+     "summary": "Inner products on real and complex spaces, norms and Cauchy\u2013Schwarz.",
+     "terms": [
+      "inner product",
+      "norm",
+      "Cauchy-Schwarz"
+     ]
+    },
+    {
+     "title": "2. Orthogonality. Orthogonal and orthonormal bases.",
+     "start": 135,
+     "end": 138,
+     "summary": "Orthogonal and orthonormal bases.",
+     "terms": [
+      "orthogonality",
+      "orthonormal basis"
+     ]
+    },
+    {
+     "title": "3. Orthogonal projection and Gram-Schmidt orthogonalization",
+     "start": 139,
+     "end": 145,
+     "summary": "Orthogonal projection and Gram\u2013Schmidt.",
+     "terms": [
+      "orthogonal projection",
+      "Gram-Schmidt"
+     ]
+    },
+    {
+     "title": "4. Least square solution. Formula for the orthogonal projection",
+     "start": 146,
+     "end": 151,
+     "summary": "Least-squares solutions and the projection formula.",
+     "terms": [
+      "least squares",
+      "normal equations"
+     ]
+    },
+    {
+     "title": "5. Adjoint of a linear transformation. Fundamental subspaces revisited.",
+     "start": 152,
+     "end": 155,
+     "summary": "The adjoint and the fundamental subspaces revisited.",
+     "terms": [
+      "adjoint",
+      "fundamental subspaces"
+     ]
+    },
+    {
+     "title": "6. Isometries and unitary operators. Unitary and orthogonal matrices.",
+     "start": 156,
+     "end": 160,
+     "summary": "Isometries, unitary and orthogonal matrices.",
+     "terms": [
+      "isometry",
+      "unitary matrix",
+      "orthogonal matrix"
+     ]
+    },
+    {
+     "title": "7. Rigid motions in R**n",
+     "start": 161,
+     "end": 163,
+     "summary": "Rigid motions of Euclidean space.",
+     "terms": [
+      "rigid motion"
+     ]
+    },
+    {
+     "title": "8. Complexification and decomplexification",
+     "start": 164,
+     "end": 172,
+     "summary": "Moving between real and complex spaces.",
+     "terms": [
+      "complexification"
+     ]
+    }
+   ],
+   "summary": "Inner products, orthogonality and projection, adjoints, and unitary and orthogonal maps."
+  },
+  {
+   "title": "Chapter 6. Structure of operators in inner product spaces.",
+   "start": 173,
+   "end": 206,
+   "sections": [
+    {
+     "title": "1. Upper triangular (Schur) representation of an operator.",
+     "start": 173,
+     "end": 174,
+     "summary": "Every operator is upper triangular in some orthonormal basis (Schur).",
+     "terms": [
+      "Schur decomposition"
+     ]
+    },
+    {
+     "title": "2. Spectral theorem for self-adjoint and normal operators.",
+     "start": 175,
+     "end": 180,
+     "summary": "Self-adjoint and normal operators are unitarily diagonalizable.",
+     "terms": [
+      "spectral theorem",
+      "self-adjoint",
+      "normal operator"
+     ]
+    },
+    {
+     "title": "3. Polar and singular value decompositions.",
+     "start": 181,
+     "end": 188,
+     "summary": "Polar decomposition and the singular value decomposition.",
+     "terms": [
+      "polar decomposition",
+      "SVD",
+      "singular values"
+     ]
+    },
+    {
+     "title": "4. Applications of the singular value decomposition.",
+     "start": 189,
+     "end": 196,
+     "summary": "Uses of the SVD: operator norm, condition number, low-rank approximation.",
+     "terms": [
+      "operator norm",
+      "condition number",
+      "low-rank approximation"
+     ]
+    },
+    {
+     "title": "5. Structure of orthogonal matrices",
+     "start": 197,
+     "end": 202,
+     "summary": "Orthogonal matrices as products of rotations and reflections.",
+     "terms": [
+      "orthogonal matrix",
+      "rotation",
+      "reflection"
+     ]
+    },
+    {
+     "title": "6. Orientation",
+     "start": 203,
+     "end": 206,
+     "summary": "Orientation of bases.",
+     "terms": [
+      "orientation"
+     ]
+    }
+   ],
+   "summary": "How operators look in inner product spaces: Schur form, the spectral theorem, polar decomposition and the SVD."
+  },
+  {
+   "title": "Chapter 7. Bilinear and quadratic forms",
+   "start": 207,
+   "end": 226,
+   "sections": [
+    {
+     "title": "1. Main definition",
+     "start": 207,
+     "end": 209,
+     "summary": "Bilinear and quadratic forms.",
+     "terms": [
+      "bilinear form",
+      "quadratic form"
+     ]
+    },
+    {
+     "title": "2. Diagonalization of quadratic forms",
+     "start": 210,
+     "end": 215,
+     "summary": "Diagonalizing forms by orthogonal change of coordinates or by completing squares.",
+     "terms": [
+      "diagonalization of quadratic forms"
+     ]
+    },
+    {
+     "title": "3. Silvester's Law of Inertia",
+     "start": 216,
+     "end": 217,
+     "summary": "Sylvester\u2019s law of inertia: the signature is invariant.",
+     "terms": [
+      "Sylvester law of inertia",
+      "signature"
+     ]
+    },
+    {
+     "title": "4. Positive definite forms. Minimax characterization of eigenvalues and the Silvester's criterion of positivity",
+     "start": 218,
+     "end": 223,
+     "summary": "Positive definite forms, the minimax characterization of eigenvalues, and Sylvester\u2019s criterion.",
+     "terms": [
+      "positive definite",
+      "minimax",
+      "Courant-Fischer",
+      "Sylvester criterion"
+     ]
+    },
+    {
+     "title": "5. Positive definite forms and inner products",
+     "start": 224,
+     "end": 226,
+     "summary": "Positive definite forms as inner products.",
+     "terms": [
+      "inner product"
+     ]
+    }
+   ],
+   "summary": "Quadratic forms: diagonalizing them, Sylvester\u2019s law of inertia, and positive definiteness."
+  },
+  {
+   "title": "Chapter 8. Dual spaces and tensors",
+   "start": 227,
+   "end": 262,
+   "sections": [
+    {
+     "title": "1. Dual spaces",
+     "start": 227,
+     "end": 233,
+     "summary": "Linear functionals and dual bases.",
+     "terms": [
+      "dual space",
+      "linear functional",
+      "dual basis"
+     ]
+    },
+    {
+     "title": "2. Dual of an inner product space",
+     "start": 234,
+     "end": 236,
+     "summary": "Riesz representation in inner product spaces.",
+     "terms": [
+      "Riesz representation"
+     ]
+    },
+    {
+     "title": "3. Adjoint (dual) transformations and transpose. Fundamental subspace revisited (once more)",
+     "start": 237,
+     "end": 241,
+     "summary": "Dual maps and the transpose; fundamental subspaces once more.",
+     "terms": [
+      "dual map",
+      "transpose"
+     ]
+    },
+    {
+     "title": "4. What is the difference between a space and its dual?",
+     "start": 242,
+     "end": 248,
+     "summary": "Why a space and its dual differ: covariant and contravariant behavior.",
+     "terms": [
+      "covariant",
+      "contravariant"
+     ]
+    },
+    {
+     "title": "5. Multilinear functions. Tensors",
+     "start": 249,
+     "end": 256,
+     "summary": "Multilinear functions and tensors.",
+     "terms": [
+      "multilinear map",
+      "tensor"
+     ]
+    },
+    {
+     "title": "6. Change of coordinates formula for tensors.",
+     "start": 257,
+     "end": 262,
+     "summary": "How tensor coordinates change with the basis.",
+     "terms": [
+      "tensor transformation law"
+     ]
+    }
+   ],
+   "summary": "Dual spaces, the transpose as a dual map, and tensors with their transformation rules."
+  },
+  {
+   "title": "Chapter 9. Advanced spectral theory",
+   "start": 263,
+   "end": 286,
+   "sections": [
+    {
+     "title": "1. Cayley\u2013Hamilton Theorem",
+     "start": 263,
+     "end": 266,
+     "summary": "Every matrix satisfies its characteristic polynomial.",
+     "terms": [
+      "Cayley-Hamilton theorem"
+     ]
+    },
+    {
+     "title": "2. Spectral Mapping Theorem",
+     "start": 267,
+     "end": 268,
+     "summary": "Eigenvalues of p(A) are p of eigenvalues of A.",
+     "terms": [
+      "spectral mapping theorem"
+     ]
+    },
+    {
+     "title": "3. Generalized eigenspaces. Geometric meaning of algebraic multiplicity",
+     "start": 269,
+     "end": 275,
+     "summary": "Generalized eigenspaces and the meaning of algebraic multiplicity.",
+     "terms": [
+      "generalized eigenspace",
+      "algebraic multiplicity"
+     ]
+    },
+    {
+     "title": "4. Structure of nilpotent operators",
+     "start": 276,
+     "end": 281,
+     "summary": "Nilpotent operators and their cyclic structure.",
+     "terms": [
+      "nilpotent operator"
+     ]
+    },
+    {
+     "title": "5. Jordan decomposition theorem",
+     "start": 282,
+     "end": 286,
+     "summary": "The Jordan canonical form.",
+     "terms": [
+      "Jordan canonical form"
+     ]
+    }
+   ],
+   "summary": "Cayley\u2013Hamilton, the spectral mapping theorem, generalized eigenspaces and the Jordan decomposition."
+  }
+ ],
+ "url": "https://drive.google.com/file/d/1BSOH6pFVYgeTvms1OUkhgo8L8BuEiiqK/view"
+}

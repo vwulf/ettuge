@@ -1,0 +1,484 @@
+{
+ "title": "Implementing Functional Languages: a tutorial",
+ "byline": "Simon L. Peyton Jones and David R. Lester \u00b7 Prentice Hall, 1992 (free electronic edition)",
+ "note": "PDF page = printed page + 1. Appendices (utilities module, example Core programs) and chapter conclusions are not broken out. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "A hands-on course in building implementations of lazy functional languages, written as runnable Miranda (easily read as Haskell). It defines a small Core language with a parser and pretty-printer, then builds a sequence of increasingly realistic evaluators, each in numbered \u201cMarks\u201d: a template-instantiation graph reducer, the G-machine (compiling supercombinators to stack code), the Three Instruction Machine (TIM, a spineless closure-based design), and a parallel G-machine. A final chapter covers the front-end transformations that feed them: lambda lifting, Johnsson-style lifting, full laziness and dependency analysis. Every machine is specified as a state transition system, which makes the designs easy to compare.",
+ "chapters": [
+  {
+   "title": "The Core language",
+   "start": 11,
+   "sections": [
+    {
+     "title": "An overview of the Core language",
+     "start": 12,
+     "end": 15,
+     "summary": "What Core contains: supercombinators, let(rec), case, constructors.",
+     "terms": [
+      "Core language",
+      "supercombinators"
+     ]
+    },
+    {
+     "title": "Syntax of the Core language",
+     "start": 16,
+     "end": 16,
+     "summary": "Concrete syntax.",
+     "terms": [
+      "syntax"
+     ]
+    },
+    {
+     "title": "Data types for the Core language",
+     "start": 17,
+     "end": 19,
+     "summary": "The Haskell-style data types for Core programs.",
+     "terms": [
+      "abstract syntax tree"
+     ]
+    },
+    {
+     "title": "A small standard prelude",
+     "start": 20,
+     "end": 20,
+     "summary": "A minimal prelude (I, K, S, compose, twice).",
+     "terms": [
+      "prelude",
+      "SKI"
+     ]
+    },
+    {
+     "title": "A pretty-printer for the Core language",
+     "start": 21,
+     "end": 28,
+     "summary": "A pretty-printer built with an abstract iseq type for efficient layout.",
+     "terms": [
+      "pretty-printer",
+      "iseq"
+     ]
+    },
+    {
+     "title": "A parser for the Core language",
+     "start": 29,
+     "end": 42,
+     "summary": "A lexer and parser written with parser combinators.",
+     "terms": [
+      "parser combinators",
+      "lexer"
+     ]
+    }
+   ],
+   "end": 42,
+   "summary": "Core, a tiny lazy language used throughout, and its front end."
+  },
+  {
+   "title": "Template instantiation",
+   "start": 43,
+   "sections": [
+    {
+     "title": "A review of template instantiation",
+     "start": 43,
+     "end": 48,
+     "summary": "How template instantiation evaluates by rewriting the graph.",
+     "terms": [
+      "template instantiation",
+      "graph reduction"
+     ]
+    },
+    {
+     "title": "State transition systems",
+     "start": 49,
+     "end": 50,
+     "summary": "Describing machines as state transition systems.",
+     "terms": [
+      "state transition system"
+     ]
+    },
+    {
+     "title": "Mark 1: A minimal template instantiation graph reducer",
+     "start": 51,
+     "end": 62,
+     "summary": "A minimal reducer with stack, dump, heap and globals.",
+     "terms": [
+      "spine",
+      "stack",
+      "heap",
+      "dump"
+     ]
+    },
+    {
+     "title": "Mark 2: let(rec) expressions",
+     "start": 63,
+     "end": 63,
+     "summary": "Adding let and letrec.",
+     "terms": [
+      "let",
+      "letrec"
+     ]
+    },
+    {
+     "title": "Mark 3: Adding updating",
+     "start": 64,
+     "end": 65,
+     "summary": "Updating redexes so shared work is not repeated.",
+     "terms": [
+      "updating",
+      "sharing",
+      "indirection"
+     ]
+    },
+    {
+     "title": "Mark 4: Adding arithmetic",
+     "start": 66,
+     "end": 68,
+     "summary": "Arithmetic and strict primitives.",
+     "terms": [
+      "arithmetic primitives"
+     ]
+    },
+    {
+     "title": "Mark 5: Structured data",
+     "start": 69,
+     "end": 74,
+     "summary": "Constructors, case and data structures.",
+     "terms": [
+      "structured data",
+      "constructors"
+     ]
+    },
+    {
+     "title": "Alternative implementations",
+     "start": 75,
+     "end": 76,
+     "summary": "Other ways to build the reducer.",
+     "terms": [
+      "alternative implementations"
+     ]
+    },
+    {
+     "title": "Garbage collection",
+     "start": 77,
+     "end": 83,
+     "summary": "Mark-scan, copying and other collectors for the heap.",
+     "terms": [
+      "garbage collection",
+      "mark-scan",
+      "copying collector"
+     ]
+    }
+   ],
+   "end": 83,
+   "summary": "Graph reduction by instantiating function bodies, step by step."
+  },
+  {
+   "title": "The G-machine",
+   "start": 84,
+   "sections": [
+    {
+     "title": "Introduction to the G-machine",
+     "start": 84,
+     "end": 85,
+     "summary": "Why compile instead of instantiate.",
+     "terms": [
+      "G-machine",
+      "compilation"
+     ]
+    },
+    {
+     "title": "Code sequences for building templates",
+     "start": 86,
+     "end": 89,
+     "summary": "Compilation schemes that build template graphs.",
+     "terms": [
+      "compilation schemes",
+      "SC R C"
+     ]
+    },
+    {
+     "title": "Mark 1: A minimal G-machine",
+     "start": 90,
+     "end": 102,
+     "summary": "A minimal G-machine.",
+     "terms": [
+      "stack machine"
+     ]
+    },
+    {
+     "title": "Mark 2: Making it lazy",
+     "start": 103,
+     "end": 105,
+     "summary": "Adding laziness with updates.",
+     "terms": [
+      "laziness",
+      "update"
+     ]
+    },
+    {
+     "title": "Mark 3: let(rec) expressions",
+     "start": 106,
+     "end": 111,
+     "summary": "let(rec) in compiled code.",
+     "terms": [
+      "letrec"
+     ]
+    },
+    {
+     "title": "Mark 4: Adding primitives",
+     "start": 112,
+     "end": 119,
+     "summary": "Primitive operations.",
+     "terms": [
+      "primitives"
+     ]
+    },
+    {
+     "title": "Mark 5: Towards better handling of arithmetic",
+     "start": 120,
+     "end": 123,
+     "summary": "Avoiding graph building for arithmetic (strict contexts).",
+     "terms": [
+      "strictness",
+      "B scheme"
+     ]
+    },
+    {
+     "title": "Mark 6: Adding data structures",
+     "start": 124,
+     "end": 131,
+     "summary": "Constructors and case in the G-machine.",
+     "terms": [
+      "data structures",
+      "Pack",
+      "CaseJump"
+     ]
+    },
+    {
+     "title": "Mark 7: Further improvements",
+     "start": 132,
+     "end": 141,
+     "summary": "Further refinements toward an efficient machine.",
+     "terms": [
+      "optimizations"
+     ]
+    }
+   ],
+   "end": 143,
+   "summary": "Compiling supercombinators to code for a stack machine."
+  },
+  {
+   "title": "TIM: the three instruction machine",
+   "start": 144,
+   "sections": [
+    {
+     "title": "Background: How TIM works",
+     "start": 144,
+     "end": 151,
+     "summary": "How TIM uses frames and closures instead of a spine.",
+     "terms": [
+      "TIM",
+      "three instruction machine",
+      "frames",
+      "closures"
+     ]
+    },
+    {
+     "title": "Mark 1: A minimal TIM",
+     "start": 152,
+     "end": 161,
+     "summary": "A minimal TIM with Take, Push and Enter.",
+     "terms": [
+      "Take",
+      "Push",
+      "Enter"
+     ]
+    },
+    {
+     "title": "Mark 2: Adding arithmetic",
+     "start": 162,
+     "end": 167,
+     "summary": "Arithmetic with a value stack.",
+     "terms": [
+      "value stack"
+     ]
+    },
+    {
+     "title": "Mark 3: let(rec) expressions",
+     "start": 168,
+     "end": 172,
+     "summary": "let(rec) via frame slots.",
+     "terms": [
+      "letrec"
+     ]
+    },
+    {
+     "title": "Mark 4: Updating",
+     "start": 173,
+     "end": 183,
+     "summary": "Updating with markers.",
+     "terms": [
+      "update markers"
+     ]
+    },
+    {
+     "title": "Mark 5: Structured data",
+     "start": 184,
+     "end": 189,
+     "summary": "Data structures with return continuations.",
+     "terms": [
+      "structured data",
+      "continuations"
+     ]
+    },
+    {
+     "title": "Mark 6: Constant applicative forms and the code store",
+     "start": 190,
+     "end": 192,
+     "summary": "CAFs and code-store handling.",
+     "terms": [
+      "constant applicative forms",
+      "CAF"
+     ]
+    }
+   ],
+   "end": 196,
+   "summary": "The Three Instruction Machine: a spineless, frame-based alternative."
+  },
+  {
+   "title": "A Parallel G-machine",
+   "start": 197,
+   "sections": [
+    {
+     "title": "Introduction",
+     "start": 197,
+     "end": 200,
+     "summary": "Sources of parallelism in lazy programs and the par primitive.",
+     "terms": [
+      "parallel graph reduction",
+      "par"
+     ]
+    },
+    {
+     "title": "Mark 1: A minimal parallel G-machine",
+     "start": 201,
+     "end": 209,
+     "summary": "A minimal parallel G-machine with many tasks.",
+     "terms": [
+      "parallel G-machine"
+     ]
+    },
+    {
+     "title": "Mark 2: The evaluate-and-die model",
+     "start": 210,
+     "end": 212,
+     "summary": "Evaluate-and-die task management.",
+     "terms": [
+      "evaluate-and-die"
+     ]
+    },
+    {
+     "title": "Mark 3: A realistic parallel G-machine",
+     "start": 213,
+     "end": 214,
+     "summary": "A more realistic machine with locking.",
+     "terms": [
+      "locking",
+      "realistic model"
+     ]
+    },
+    {
+     "title": "Mark 4: A better way to handle blocking",
+     "start": 215,
+     "end": 216,
+     "summary": "Better handling of tasks that block on shared nodes.",
+     "terms": [
+      "blocking"
+     ]
+    }
+   ],
+   "end": 217,
+   "summary": "Running graph reduction in parallel."
+  },
+  {
+   "title": "Lambda Lifting",
+   "start": 218,
+   "sections": [
+    {
+     "title": "Introduction",
+     "start": 218,
+     "end": 217,
+     "summary": "Why lambda lifting is needed.",
+     "terms": [
+      "lambda lifting"
+     ]
+    },
+    {
+     "title": "Improving the expr data type",
+     "start": 218,
+     "end": 221,
+     "summary": "Annotating expressions for transformations.",
+     "terms": [
+      "annotated expressions"
+     ]
+    },
+    {
+     "title": "Mark 1: A simple lambda lifter",
+     "start": 222,
+     "end": 230,
+     "summary": "A simple lambda lifter: free variables and abstraction.",
+     "terms": [
+      "free variables"
+     ]
+    },
+    {
+     "title": "Mark 2: Improving the simple lambda lifter",
+     "start": 231,
+     "end": 231,
+     "summary": "Improvements to the simple lifter.",
+     "terms": [
+      "improved lifter"
+     ]
+    },
+    {
+     "title": "Mark 3: Johnsson-style lambda lifting",
+     "start": 232,
+     "end": 236,
+     "summary": "Johnsson\u2019s lifting that adds only free variables as parameters.",
+     "terms": [
+      "Johnsson lambda lifting"
+     ]
+    },
+    {
+     "title": "Mark 4: A separate full laziness pass",
+     "start": 237,
+     "end": 250,
+     "summary": "Full laziness as a separate pass that floats out maximal free expressions.",
+     "terms": [
+      "full laziness",
+      "maximal free expressions"
+     ]
+    },
+    {
+     "title": "Mark 5: Improvements to full laziness",
+     "start": 251,
+     "end": 252,
+     "summary": "Refining full laziness.",
+     "terms": [
+      "full laziness improvements"
+     ]
+    },
+    {
+     "title": "Mark 6: Dependency analysis",
+     "start": 253,
+     "end": 260,
+     "summary": "Dependency analysis to split letrecs into strongly connected components.",
+     "terms": [
+      "dependency analysis",
+      "strongly connected components"
+     ]
+    }
+   ],
+   "end": 262,
+   "summary": "Transforming programs into supercombinators, and full laziness."
+  }
+ ],
+ "url": "https://drive.google.com/file/d/1JtwtruLzgG3QvHB6D5g7CF7_HAea71K2/view"
+}

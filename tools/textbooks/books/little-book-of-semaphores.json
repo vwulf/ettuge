@@ -1,0 +1,575 @@
+{
+ "title": "The Little Book of Semaphores",
+ "byline": "Allen B. Downey \u00b7 Green Tea Press, 2nd edition",
+ "note": "Most problems are presented as puzzle, hint and solution over several pages; the leaves here cover all three. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "A puzzle book for learning concurrent programming with one primitive, the semaphore. After defining semaphores and the execution model, Downey builds the standard patterns (signaling, rendezvous, mutex, multiplex, barriers, queues) and then works through dozens of synchronization problems: the classics (producer\u2013consumer, readers\u2013writers, dining philosophers, cigarette smokers), lesser-known ones (barbershops, Santa Claus, H\u2082O, river crossing, roller coaster) and his own inventions (sushi bar, senate bus, Faneuil Hall). Each problem is posed, hinted and solved in Python-like pseudocode, with attention to deadlock, starvation and fairness. The last chapters translate the ideas into real Python and C with POSIX threads.",
+ "chapters": [
+  {
+   "title": "Introduction",
+   "start": 13,
+   "end": 18,
+   "sections": [
+    {
+     "title": "Synchronization",
+     "start": 13,
+     "end": 13,
+     "summary": "Serialization and mutual exclusion as the two goals.",
+     "terms": [
+      "synchronization",
+      "serialization",
+      "mutual exclusion"
+     ]
+    },
+    {
+     "title": "Execution model",
+     "start": 13,
+     "end": 14,
+     "summary": "The model: threads, interleavings, and what can be assumed.",
+     "terms": [
+      "execution model",
+      "interleaving"
+     ]
+    },
+    {
+     "title": "Serialization with messages",
+     "start": 15,
+     "end": 15,
+     "summary": "Coordinating with messages.",
+     "terms": [
+      "message passing"
+     ]
+    },
+    {
+     "title": "Non-determinism",
+     "start": 16,
+     "end": 16,
+     "summary": "Why concurrent programs are hard to test.",
+     "terms": [
+      "non-determinism"
+     ]
+    },
+    {
+     "title": "Shared variables",
+     "start": 16,
+     "end": 18,
+     "summary": "Shared variables and race conditions.",
+     "terms": [
+      "shared variables",
+      "race condition"
+     ]
+    }
+   ],
+   "summary": "Why synchronization is needed when execution order is non-deterministic."
+  },
+  {
+   "title": "Semaphores",
+   "start": 19,
+   "end": 22,
+   "sections": [
+    {
+     "title": "Definition",
+     "start": 19,
+     "end": 19,
+     "summary": "A counter with wait and signal operations that block when negative.",
+     "terms": [
+      "semaphore",
+      "wait",
+      "signal",
+      "P",
+      "V"
+     ]
+    },
+    {
+     "title": "Syntax",
+     "start": 20,
+     "end": 20,
+     "summary": "The notation used in the book.",
+     "terms": [
+      "notation"
+     ]
+    },
+    {
+     "title": "Why semaphores?",
+     "start": 21,
+     "end": 22,
+     "summary": "Why semaphores make constraints explicit and correct.",
+     "terms": [
+      "rationale"
+     ]
+    }
+   ],
+   "summary": "What a semaphore is and how it is written."
+  },
+  {
+   "title": "Basic synchronization patterns",
+   "start": 23,
+   "end": 66,
+   "sections": [
+    {
+     "title": "Signaling",
+     "start": 23,
+     "end": 23,
+     "summary": "One thread signals another that an event happened.",
+     "terms": [
+      "signaling"
+     ]
+    },
+    {
+     "title": "Sync.py",
+     "start": 24,
+     "end": 24,
+     "summary": "A simulator for running the solutions.",
+     "terms": [
+      "Sync.py",
+      "simulation"
+     ]
+    },
+    {
+     "title": "Rendezvous",
+     "start": 24,
+     "end": 27,
+     "summary": "Two threads wait for each other.",
+     "terms": [
+      "rendezvous"
+     ]
+    },
+    {
+     "title": "Mutex",
+     "start": 28,
+     "end": 30,
+     "summary": "A mutex as a semaphore initialized to one.",
+     "terms": [
+      "mutex"
+     ]
+    },
+    {
+     "title": "Multiplex",
+     "start": 31,
+     "end": 32,
+     "summary": "Allowing up to n threads in a critical section.",
+     "terms": [
+      "multiplex"
+     ]
+    },
+    {
+     "title": "Barrier",
+     "start": 33,
+     "end": 42,
+     "summary": "Making all threads wait until everyone arrives.",
+     "terms": [
+      "barrier",
+      "turnstile"
+     ]
+    },
+    {
+     "title": "Reusable barrier",
+     "start": 43,
+     "end": 56,
+     "summary": "A barrier that can be used repeatedly (two-phase turnstile).",
+     "terms": [
+      "reusable barrier",
+      "two-phase barrier"
+     ]
+    },
+    {
+     "title": "Queue",
+     "start": 57,
+     "end": 66,
+     "summary": "Pairing threads from two queues.",
+     "terms": [
+      "queue",
+      "pairing"
+     ]
+    }
+   ],
+   "summary": "Reusable building blocks for synchronization."
+  },
+  {
+   "title": "Classical synchronization problems",
+   "start": 67,
+   "end": 126,
+   "sections": [
+    {
+     "title": "Producer-consumer problem",
+     "start": 67,
+     "end": 76,
+     "summary": "Bounded buffers between producers and consumers.",
+     "terms": [
+      "producer-consumer",
+      "bounded buffer"
+     ]
+    },
+    {
+     "title": "Readers-writers problem",
+     "start": 77,
+     "end": 92,
+     "summary": "Many readers or one writer, with lightswitch and starvation-free variants.",
+     "terms": [
+      "readers-writers",
+      "lightswitch",
+      "writer starvation"
+     ]
+    },
+    {
+     "title": "No-starve mutex",
+     "start": 93,
+     "end": 98,
+     "summary": "A mutex that never starves a waiting thread (Morris).",
+     "terms": [
+      "no-starve mutex",
+      "Morris algorithm"
+     ]
+    },
+    {
+     "title": "Dining philosophers",
+     "start": 99,
+     "end": 112,
+     "summary": "Philosophers sharing forks without deadlock or starvation.",
+     "terms": [
+      "dining philosophers",
+      "deadlock"
+     ]
+    },
+    {
+     "title": "Cigarette smokers problem",
+     "start": 113,
+     "end": 126,
+     "summary": "Matching agents and smokers who need different ingredients.",
+     "terms": [
+      "cigarette smokers problem"
+     ]
+    }
+   ],
+   "summary": "The textbook problems and their solutions."
+  },
+  {
+   "title": "Less classical synchronization problems",
+   "start": 127,
+   "end": 176,
+   "sections": [
+    {
+     "title": "The dining savages problem",
+     "start": 127,
+     "end": 132,
+     "summary": "Savages eating from a pot that a cook refills.",
+     "terms": [
+      "dining savages"
+     ]
+    },
+    {
+     "title": "The barbershop problem",
+     "start": 133,
+     "end": 138,
+     "summary": "A barber, waiting chairs and customers who leave when full.",
+     "terms": [
+      "barbershop problem"
+     ]
+    },
+    {
+     "title": "The FIFO barbershop",
+     "start": 139,
+     "end": 144,
+     "summary": "Serving customers in arrival order.",
+     "terms": [
+      "FIFO"
+     ]
+    },
+    {
+     "title": "Hilzer's Barbershop problem",
+     "start": 145,
+     "end": 148,
+     "summary": "A larger barbershop with sofa and multiple barbers.",
+     "terms": [
+      "Hilzer barbershop"
+     ]
+    },
+    {
+     "title": "The Santa Claus problem",
+     "start": 149,
+     "end": 154,
+     "summary": "Santa waking for reindeer or groups of elves.",
+     "terms": [
+      "Santa Claus problem"
+     ]
+    },
+    {
+     "title": "Building H2O",
+     "start": 155,
+     "end": 159,
+     "summary": "Combining two hydrogen threads with one oxygen.",
+     "terms": [
+      "H2O",
+      "building molecules"
+     ]
+    },
+    {
+     "title": "River crossing problem",
+     "start": 160,
+     "end": 164,
+     "summary": "Forming boatloads under group constraints.",
+     "terms": [
+      "river crossing"
+     ]
+    },
+    {
+     "title": "The roller coaster problem",
+     "start": 165,
+     "end": 176,
+     "summary": "Passengers and a car that runs only when full.",
+     "terms": [
+      "roller coaster problem"
+     ]
+    }
+   ],
+   "summary": "Less familiar problems that combine the basic patterns."
+  },
+  {
+   "title": "Not-so-classical problems",
+   "start": 177,
+   "end": 194,
+   "sections": [
+    {
+     "title": "The search-insert-delete problem",
+     "start": 177,
+     "end": 181,
+     "summary": "Searchers, inserters and deleters on a shared list.",
+     "terms": [
+      "search-insert-delete",
+      "categorical mutual exclusion"
+     ]
+    },
+    {
+     "title": "The unisex bathroom problem",
+     "start": 182,
+     "end": 188,
+     "summary": "Exclusion between categories without starvation.",
+     "terms": [
+      "unisex bathroom",
+      "starvation"
+     ]
+    },
+    {
+     "title": "Baboon crossing problem",
+     "start": 189,
+     "end": 189,
+     "summary": "Baboons crossing a rope in one direction at a time.",
+     "terms": [
+      "baboon crossing"
+     ]
+    },
+    {
+     "title": "The Modus Hall Problem",
+     "start": 190,
+     "end": 194,
+     "summary": "Tracking which group holds the majority.",
+     "terms": [
+      "Modus Hall",
+      "majority"
+     ]
+    }
+   ],
+   "summary": "Problems that need more careful categorical exclusion."
+  },
+  {
+   "title": "Not remotely classical problems",
+   "start": 195,
+   "end": 250,
+   "sections": [
+    {
+     "title": "The sushi bar problem",
+     "start": 195,
+     "end": 205,
+     "summary": "Seats that empty fully before new diners join.",
+     "terms": [
+      "sushi bar"
+     ]
+    },
+    {
+     "title": "The child care problem",
+     "start": 206,
+     "end": 216,
+     "summary": "Keeping an adult-to-child ratio.",
+     "terms": [
+      "child care",
+      "ratio"
+     ]
+    },
+    {
+     "title": "The room party problem",
+     "start": 217,
+     "end": 222,
+     "summary": "A dean entering a party under conditions.",
+     "terms": [
+      "room party"
+     ]
+    },
+    {
+     "title": "The Senate Bus problem",
+     "start": 223,
+     "end": 230,
+     "summary": "Riders boarding a bus that leaves when full or empty.",
+     "terms": [
+      "Senate Bus"
+     ]
+    },
+    {
+     "title": "The Faneuil Hall problem",
+     "start": 231,
+     "end": 240,
+     "summary": "Immigrants, judges and spectators at a ceremony.",
+     "terms": [
+      "Faneuil Hall"
+     ]
+    },
+    {
+     "title": "Dining Hall problem",
+     "start": 241,
+     "end": 250,
+     "summary": "Students who must not eat alone.",
+     "terms": [
+      "dining hall"
+     ]
+    }
+   ],
+   "summary": "The author\u2019s original problems."
+  },
+  {
+   "title": "Synchronization in Python",
+   "start": 251,
+   "end": 264,
+   "sections": [
+    {
+     "title": "Mutex checker problem",
+     "start": 252,
+     "end": 258,
+     "summary": "Checking that a mutex really excludes.",
+     "terms": [
+      "Python threading",
+      "mutex checker"
+     ]
+    },
+    {
+     "title": "The coke machine problem",
+     "start": 259,
+     "end": 264,
+     "summary": "A coke machine as a bounded buffer.",
+     "terms": [
+      "coke machine",
+      "bounded buffer"
+     ]
+    }
+   ],
+   "summary": "Running the patterns with Python threads."
+  },
+  {
+   "title": "Synchronization in C",
+   "start": 265,
+   "end": 282,
+   "sections": [
+    {
+     "title": "Mutual exclusion",
+     "start": 265,
+     "end": 272,
+     "summary": "Mutual exclusion in C.",
+     "terms": [
+      "C",
+      "pthreads",
+      "mutex"
+     ]
+    },
+    {
+     "title": "Make your own semaphores",
+     "start": 273,
+     "end": 282,
+     "summary": "Building semaphores from mutexes and condition variables.",
+     "terms": [
+      "semaphore implementation",
+      "condition variable"
+     ]
+    }
+   ],
+   "summary": "The same ideas in C with POSIX threads."
+  },
+  {
+   "title": "Cleaning up Python threads",
+   "start": 283,
+   "end": 286,
+   "sections": [
+    {
+     "title": "Semaphore methods",
+     "start": 283,
+     "end": 283,
+     "summary": "Wrapping semaphore methods.",
+     "terms": [
+      "Python semaphore"
+     ]
+    },
+    {
+     "title": "Creating threads",
+     "start": 283,
+     "end": 283,
+     "summary": "Starting threads.",
+     "terms": [
+      "threads"
+     ]
+    },
+    {
+     "title": "Handling keyboard interrupts",
+     "start": 284,
+     "end": 286,
+     "summary": "Exiting cleanly on Ctrl-C.",
+     "terms": [
+      "KeyboardInterrupt"
+     ]
+    }
+   ],
+   "summary": "Utility code for Python examples."
+  },
+  {
+   "title": "Cleaning up POSIX threads",
+   "start": 287,
+   "end": 291,
+   "sections": [
+    {
+     "title": "Compiling Pthread code",
+     "start": 287,
+     "end": 287,
+     "summary": "Compiler flags for pthreads.",
+     "terms": [
+      "pthread compilation"
+     ]
+    },
+    {
+     "title": "Creating threads",
+     "start": 288,
+     "end": 289,
+     "summary": "pthread_create.",
+     "terms": [
+      "pthread_create"
+     ]
+    },
+    {
+     "title": "Joining threads",
+     "start": 290,
+     "end": 290,
+     "summary": "pthread_join.",
+     "terms": [
+      "pthread_join"
+     ]
+    },
+    {
+     "title": "Semaphores",
+     "start": 290,
+     "end": 291,
+     "summary": "POSIX semaphores.",
+     "terms": [
+      "sem_t",
+      "POSIX semaphores"
+     ]
+    }
+   ],
+   "summary": "Utility code for C examples."
+  }
+ ],
+ "url": "https://drive.google.com/file/d/1mo1TxMNkZvsp_l0vkHuT5KNSpQShBkfH/view"
+}

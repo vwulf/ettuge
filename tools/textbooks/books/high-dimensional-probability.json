@@ -1,0 +1,721 @@
+{
+ "title": "High-Dimensional Probability",
+ "byline": "Roman Vershynin \u00b7 Cambridge University Press, 2018 (author\u2019s version)",
+ "note": "End-of-chapter notes are not broken out. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "An introduction to probability in high dimensions aimed at data science. Vershynin builds the toolkit of concentration inequalities (Hoeffding, Chernoff, Bernstein, sub-gaussian and sub-exponential variables), extends it to random vectors and random matrices via nets and covering numbers, and then to dependence (Lipschitz concentration, matrix Bernstein, Hanson\u2013Wright, symmetrization). The second half covers random processes and chaining (Slepian, Sudakov, Dudley, generic chaining, VC dimension), matrix deviation inequalities and their geometry, sparse recovery and the lasso, and Dvoretzky\u2013Milman. Every tool is paired with an application: community detection, covariance estimation, Grothendieck\u2019s inequality and max-cut, Johnson\u2013Lindenstrauss, matrix completion and learning theory.",
+ "chapters": [
+  {
+   "title": "Appetizer: using probability to cover a geometric set",
+   "start": 9,
+   "end": 13,
+   "sections": [],
+   "summary": "A warm-up showing how random sampling covers a convex set (Maurey\u2019s empirical method).",
+   "terms": [
+    "Maurey empirical method",
+    "covering",
+    "convex hull"
+   ]
+  },
+  {
+   "title": "Preliminaries on random variables",
+   "start": 14,
+   "end": 20,
+   "sections": [
+    {
+     "title": "Basic quantities associated with random variables",
+     "start": 14,
+     "end": 14,
+     "summary": "Expectation, variance, moments, L^p norms.",
+     "terms": [
+      "expectation",
+      "variance",
+      "moments"
+     ]
+    },
+    {
+     "title": "Some classical inequalities",
+     "start": 15,
+     "end": 16,
+     "summary": "Jensen, Markov, Chebyshev and other classical inequalities.",
+     "terms": [
+      "Markov inequality",
+      "Chebyshev",
+      "Jensen"
+     ]
+    },
+    {
+     "title": "Limit theorems",
+     "start": 17,
+     "end": 19,
+     "summary": "Law of large numbers and central limit theorem.",
+     "terms": [
+      "law of large numbers",
+      "central limit theorem"
+     ]
+    }
+   ],
+   "summary": "Basic probability needed later."
+  },
+  {
+   "title": "Concentration of sums of independent random variables",
+   "start": 21,
+   "end": 49,
+   "sections": [
+    {
+     "title": "Why concentration inequalities?",
+     "start": 21,
+     "end": 23,
+     "summary": "Why tail bounds beyond the CLT are needed.",
+     "terms": [
+      "concentration inequalities"
+     ]
+    },
+    {
+     "title": "Hoeffding's inequality",
+     "start": 24,
+     "end": 26,
+     "summary": "Hoeffding\u2019s inequality for bounded variables.",
+     "terms": [
+      "Hoeffding inequality"
+     ]
+    },
+    {
+     "title": "Chernoff's inequality",
+     "start": 27,
+     "end": 28,
+     "summary": "Chernoff\u2019s inequality for Bernoulli sums.",
+     "terms": [
+      "Chernoff bound"
+     ]
+    },
+    {
+     "title": "Application: degrees of random graphs",
+     "start": 29,
+     "end": 31,
+     "summary": "Degrees in Erd\u0151s\u2013R\u00e9nyi graphs.",
+     "terms": [
+      "random graphs",
+      "degrees"
+     ]
+    },
+    {
+     "title": "Sub-gaussian distributions",
+     "start": 32,
+     "end": 36,
+     "summary": "Sub-gaussian random variables and the \u03c8\u2082 norm.",
+     "terms": [
+      "sub-gaussian",
+      "psi2 norm"
+     ]
+    },
+    {
+     "title": "General Hoeffding's and Khintchine's inequalities",
+     "start": 37,
+     "end": 39,
+     "summary": "General Hoeffding and Khintchine inequalities.",
+     "terms": [
+      "Khintchine inequality"
+     ]
+    },
+    {
+     "title": "Sub-exponential distributions",
+     "start": 40,
+     "end": 44,
+     "summary": "Sub-exponential variables and the \u03c8\u2081 norm.",
+     "terms": [
+      "sub-exponential",
+      "psi1 norm"
+     ]
+    },
+    {
+     "title": "Bernstein's inequality",
+     "start": 45,
+     "end": 47,
+     "summary": "Bernstein\u2019s inequality.",
+     "terms": [
+      "Bernstein inequality"
+     ]
+    }
+   ],
+   "summary": "Concentration for sums of independent variables."
+  },
+  {
+   "title": "Random vectors in high dimensions",
+   "start": 50,
+   "end": 83,
+   "sections": [
+    {
+     "title": "Concentration of the norm",
+     "start": 51,
+     "end": 52,
+     "summary": "The norm of a random vector concentrates near \u221an.",
+     "terms": [
+      "norm concentration"
+     ]
+    },
+    {
+     "title": "Covariance matrices and principal component analysis",
+     "start": 53,
+     "end": 57,
+     "summary": "Covariance and PCA.",
+     "terms": [
+      "covariance matrix",
+      "PCA"
+     ]
+    },
+    {
+     "title": "Examples of high-dimensional distributions",
+     "start": 58,
+     "end": 63,
+     "summary": "Gaussian, spherical and frame examples.",
+     "terms": [
+      "high-dimensional distributions"
+     ]
+    },
+    {
+     "title": "Sub-gaussian distributions in higher dimensions",
+     "start": 64,
+     "end": 67,
+     "summary": "Sub-gaussian random vectors.",
+     "terms": [
+      "sub-gaussian vectors"
+     ]
+    },
+    {
+     "title": "Application: Grothendieck's inequality and semidefinite programming",
+     "start": 68,
+     "end": 73,
+     "summary": "Grothendieck\u2019s inequality and SDP relaxations.",
+     "terms": [
+      "Grothendieck inequality",
+      "semidefinite programming"
+     ]
+    },
+    {
+     "title": "Application: Maximum cut for graphs",
+     "start": 74,
+     "end": 77,
+     "summary": "Goemans\u2013Williamson max-cut.",
+     "terms": [
+      "max-cut",
+      "Goemans-Williamson"
+     ]
+    },
+    {
+     "title": "Kernel trick, and tightening of Grothendieck's inequality",
+     "start": 78,
+     "end": 81,
+     "summary": "The kernel trick and a sharper Grothendieck constant.",
+     "terms": [
+      "kernel trick"
+     ]
+    }
+   ],
+   "summary": "Random vectors in high dimensions and two applications to optimization."
+  },
+  {
+   "title": "Random matrices",
+   "start": 84,
+   "end": 112,
+   "sections": [
+    {
+     "title": "Preliminaries on matrices",
+     "start": 84,
+     "end": 88,
+     "summary": "Singular values, operator norm and approximation.",
+     "terms": [
+      "singular values",
+      "operator norm"
+     ]
+    },
+    {
+     "title": "Nets, covering numbers and packing numbers",
+     "start": 89,
+     "end": 93,
+     "summary": "\u03b5-nets, covering and packing numbers.",
+     "terms": [
+      "epsilon-net",
+      "covering number",
+      "packing number"
+     ]
+    },
+    {
+     "title": "Application: error correcting codes",
+     "start": 94,
+     "end": 96,
+     "summary": "Bounds for error-correcting codes.",
+     "terms": [
+      "error-correcting codes"
+     ]
+    },
+    {
+     "title": "Upper bounds on random sub-gaussian matrices",
+     "start": 97,
+     "end": 100,
+     "summary": "Upper bounds on sub-gaussian random matrices.",
+     "terms": [
+      "random matrix norm"
+     ]
+    },
+    {
+     "title": "Application: community detection in networks",
+     "start": 101,
+     "end": 104,
+     "summary": "Community detection in the stochastic block model.",
+     "terms": [
+      "stochastic block model",
+      "community detection"
+     ]
+    },
+    {
+     "title": "Two-sided bounds on sub-gaussian matrices",
+     "start": 105,
+     "end": 107,
+     "summary": "Two-sided bounds on singular values.",
+     "terms": [
+      "singular value bounds"
+     ]
+    },
+    {
+     "title": "Application: covariance estimation and clustering",
+     "start": 108,
+     "end": 110,
+     "summary": "Covariance estimation and clustering.",
+     "terms": [
+      "covariance estimation",
+      "clustering"
+     ]
+    }
+   ],
+   "summary": "Norms of random matrices via nets, with applications."
+  },
+  {
+   "title": "Concentration without independence",
+   "start": 113,
+   "end": 142,
+   "sections": [
+    {
+     "title": "Concentration of Lipschitz functions on the sphere",
+     "start": 113,
+     "end": 119,
+     "summary": "Lipschitz functions on the sphere concentrate.",
+     "terms": [
+      "Lipschitz concentration",
+      "sphere"
+     ]
+    },
+    {
+     "title": "Concentration on other metric measure spaces",
+     "start": 120,
+     "end": 125,
+     "summary": "Concentration on other spaces (Gaussian, cube, groups).",
+     "terms": [
+      "Gaussian concentration",
+      "isoperimetry"
+     ]
+    },
+    {
+     "title": "Application: Johnson-Lindenstrauss Lemma",
+     "start": 126,
+     "end": 128,
+     "summary": "The Johnson\u2013Lindenstrauss lemma.",
+     "terms": [
+      "Johnson-Lindenstrauss lemma"
+     ]
+    },
+    {
+     "title": "Matrix Bernstein's inequality",
+     "start": 129,
+     "end": 136,
+     "summary": "Matrix Bernstein for sums of random matrices.",
+     "terms": [
+      "matrix Bernstein inequality"
+     ]
+    },
+    {
+     "title": "Application: community detection in sparse networks",
+     "start": 137,
+     "end": 137,
+     "summary": "Community detection in sparse networks.",
+     "terms": [
+      "sparse networks"
+     ]
+    },
+    {
+     "title": "Application: covariance estimation for general distributions",
+     "start": 138,
+     "end": 140,
+     "summary": "Covariance estimation for general distributions.",
+     "terms": [
+      "covariance estimation"
+     ]
+    }
+   ],
+   "summary": "Concentration for dependent quantities."
+  },
+  {
+   "title": "Quadratic forms, symmetrization and contraction",
+   "start": 143,
+   "end": 163,
+   "sections": [
+    {
+     "title": "Decoupling",
+     "start": 143,
+     "end": 146,
+     "summary": "Decoupling quadratic forms.",
+     "terms": [
+      "decoupling"
+     ]
+    },
+    {
+     "title": "Hanson-Wright Inequality",
+     "start": 147,
+     "end": 150,
+     "summary": "Hanson\u2013Wright inequality.",
+     "terms": [
+      "Hanson-Wright inequality"
+     ]
+    },
+    {
+     "title": "Concentration of anisotropic random vectors",
+     "start": 151,
+     "end": 152,
+     "summary": "Anisotropic random vectors.",
+     "terms": [
+      "anisotropic vectors"
+     ]
+    },
+    {
+     "title": "Symmetrization",
+     "start": 153,
+     "end": 154,
+     "summary": "Symmetrization with Rademacher signs.",
+     "terms": [
+      "symmetrization",
+      "Rademacher"
+     ]
+    },
+    {
+     "title": "Random matrices with non-i.i.d. entries",
+     "start": 155,
+     "end": 156,
+     "summary": "Random matrices with non-i.i.d. entries.",
+     "terms": [
+      "non-iid random matrices"
+     ]
+    },
+    {
+     "title": "Application: matrix completion",
+     "start": 157,
+     "end": 158,
+     "summary": "Matrix completion.",
+     "terms": [
+      "matrix completion"
+     ]
+    },
+    {
+     "title": "Contraction Principle",
+     "start": 159,
+     "end": 161,
+     "summary": "The contraction principle.",
+     "terms": [
+      "contraction principle"
+     ]
+    }
+   ],
+   "summary": "Quadratic forms and techniques for removing dependence."
+  },
+  {
+   "title": "Random processes",
+   "start": 164,
+   "end": 194,
+   "sections": [
+    {
+     "title": "Basic concepts and examples",
+     "start": 164,
+     "end": 167,
+     "summary": "Random processes and examples.",
+     "terms": [
+      "random process",
+      "Gaussian process"
+     ]
+    },
+    {
+     "title": "Slepian's inequality",
+     "start": 168,
+     "end": 174,
+     "summary": "Slepian\u2019s comparison inequality.",
+     "terms": [
+      "Slepian inequality",
+      "Gordon"
+     ]
+    },
+    {
+     "title": "Sharp bounds on Gaussian matrices",
+     "start": 175,
+     "end": 177,
+     "summary": "Sharp bounds on Gaussian matrices.",
+     "terms": [
+      "Gaussian matrices"
+     ]
+    },
+    {
+     "title": "Sudakov's minoration inequality",
+     "start": 178,
+     "end": 179,
+     "summary": "Sudakov\u2019s minoration.",
+     "terms": [
+      "Sudakov minoration"
+     ]
+    },
+    {
+     "title": "Gaussian width",
+     "start": 180,
+     "end": 185,
+     "summary": "Gaussian width.",
+     "terms": [
+      "Gaussian width"
+     ]
+    },
+    {
+     "title": "Stable dimension, stable rank, and Gaussian complexity",
+     "start": 186,
+     "end": 188,
+     "summary": "Stable dimension and stable rank.",
+     "terms": [
+      "stable rank",
+      "Gaussian complexity"
+     ]
+    },
+    {
+     "title": "Random projections of sets",
+     "start": 189,
+     "end": 192,
+     "summary": "Random projections of sets.",
+     "terms": [
+      "random projections"
+     ]
+    }
+   ],
+   "summary": "Gaussian processes and comparison inequalities."
+  },
+  {
+   "title": "Chaining",
+   "start": 195,
+   "end": 236,
+   "sections": [
+    {
+     "title": "Dudley's inequality",
+     "start": 195,
+     "end": 202,
+     "summary": "Dudley\u2019s entropy integral.",
+     "terms": [
+      "Dudley inequality",
+      "entropy integral"
+     ]
+    },
+    {
+     "title": "Application: empirical processes",
+     "start": 203,
+     "end": 207,
+     "summary": "Empirical processes.",
+     "terms": [
+      "empirical processes"
+     ]
+    },
+    {
+     "title": "VC dimension",
+     "start": 208,
+     "end": 219,
+     "summary": "VC dimension.",
+     "terms": [
+      "VC dimension"
+     ]
+    },
+    {
+     "title": "Application: statistical learning theory",
+     "start": 220,
+     "end": 226,
+     "summary": "Statistical learning theory and generalization.",
+     "terms": [
+      "statistical learning theory",
+      "generalization bound"
+     ]
+    },
+    {
+     "title": "Generic chaining",
+     "start": 227,
+     "end": 230,
+     "summary": "Generic chaining.",
+     "terms": [
+      "generic chaining"
+     ]
+    },
+    {
+     "title": "Talagrand's majorizing measure and comparison theorems",
+     "start": 231,
+     "end": 232,
+     "summary": "Talagrand\u2019s majorizing measures.",
+     "terms": [
+      "majorizing measure",
+      "Talagrand"
+     ]
+    },
+    {
+     "title": "Chevet's inequality",
+     "start": 233,
+     "end": 234,
+     "summary": "Chevet\u2019s inequality.",
+     "terms": [
+      "Chevet inequality"
+     ]
+    }
+   ],
+   "summary": "Chaining arguments for suprema of processes."
+  },
+  {
+   "title": "Deviations of random matrices and geometric consequences",
+   "start": 237,
+   "end": 253,
+   "sections": [
+    {
+     "title": "Matrix deviation inequality",
+     "start": 237,
+     "end": 242,
+     "summary": "The matrix deviation inequality.",
+     "terms": [
+      "matrix deviation inequality"
+     ]
+    },
+    {
+     "title": "Random matrices, random projections and covariance estimation",
+     "start": 243,
+     "end": 245,
+     "summary": "Random projections and covariance estimation.",
+     "terms": [
+      "random projection"
+     ]
+    },
+    {
+     "title": "Johnson-Lindenstrauss Lemma for infinite sets",
+     "start": 246,
+     "end": 247,
+     "summary": "Johnson\u2013Lindenstrauss for infinite sets.",
+     "terms": [
+      "Johnson-Lindenstrauss infinite sets"
+     ]
+    },
+    {
+     "title": "Random sections: M* bound and Escape Theorem",
+     "start": 248,
+     "end": 251,
+     "summary": "The M* bound and escape through the mesh.",
+     "terms": [
+      "M* bound",
+      "escape theorem"
+     ]
+    }
+   ],
+   "summary": "A matrix deviation inequality and its geometric consequences."
+  },
+  {
+   "title": "Sparse Recovery",
+   "start": 254,
+   "end": 276,
+   "sections": [
+    {
+     "title": "High-dimensional signal recovery problems",
+     "start": 254,
+     "end": 255,
+     "summary": "The recovery problem.",
+     "terms": [
+      "compressed sensing"
+     ]
+    },
+    {
+     "title": "Signal recovery based on M* bound",
+     "start": 256,
+     "end": 257,
+     "summary": "Recovery from the M* bound.",
+     "terms": [
+      "M* bound"
+     ]
+    },
+    {
+     "title": "Recovery of sparse signals",
+     "start": 258,
+     "end": 261,
+     "summary": "Sparse signals.",
+     "terms": [
+      "sparse recovery"
+     ]
+    },
+    {
+     "title": "Low-rank matrix recovery",
+     "start": 262,
+     "end": 264,
+     "summary": "Low-rank matrices.",
+     "terms": [
+      "low-rank matrix recovery"
+     ]
+    },
+    {
+     "title": "Exact recovery and the restricted isometry property",
+     "start": 265,
+     "end": 270,
+     "summary": "Exact recovery and the restricted isometry property.",
+     "terms": [
+      "restricted isometry property",
+      "RIP"
+     ]
+    },
+    {
+     "title": "Lasso algorithm for sparse regression",
+     "start": 271,
+     "end": 274,
+     "summary": "The lasso.",
+     "terms": [
+      "lasso"
+     ]
+    }
+   ],
+   "summary": "Recovering structured signals from few measurements."
+  },
+  {
+   "title": "Dvoretzky-Milman's Theorem",
+   "start": 277,
+   "end": 287,
+   "sections": [
+    {
+     "title": "Deviations of random matrices with respect to general norms",
+     "start": 277,
+     "end": 279,
+     "summary": "Deviation for general norms.",
+     "terms": [
+      "general norms"
+     ]
+    },
+    {
+     "title": "Johnson-Lindenstrauss embeddings and sharper Chevet inequality",
+     "start": 280,
+     "end": 281,
+     "summary": "Sharper Chevet and JL embeddings.",
+     "terms": [
+      "Johnson-Lindenstrauss embeddings"
+     ]
+    },
+    {
+     "title": "Dvoretzky-Milman's Theorem",
+     "start": 282,
+     "end": 286,
+     "summary": "Dvoretzky\u2013Milman theorem: almost Euclidean sections.",
+     "terms": [
+      "Dvoretzky-Milman theorem"
+     ]
+    }
+   ],
+   "summary": "Random sections of convex bodies."
+  }
+ ],
+ "url": "https://drive.google.com/file/d/1zMSjmausR3YMnY23ZPD6b0kEaqe8kAo8/view"
+}
