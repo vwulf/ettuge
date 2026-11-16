@@ -12,7 +12,7 @@ Partial PDFs (samples, excerpts, unfinished drafts) are marked as such on their 
 - [Multimodal Deep Learning](multimodal-deep-learning) (LMU seminar): image–text models: CLIP, DALL-E, diffusion (2023)
 - [Optimization for Machine Learning](gartner-jaggi-optimization-ml) (Gärtner, Jaggi): GD, SGD, proximal, Newton, BFGS, Frank-Wolfe with rates
 - [Prompt Engineering](prompt-engineering) (Boonstra (Google)): sampling settings, prompting techniques, best practices
-- [Reinforcement Learning: An Introduction (2nd ed. draft)](sutton-barto-reinforcement-learning) (Richard Sutton and Andrew Barto): Bandits, MDPs, DP, Monte Carlo, TD, eligibility traces, planning and function approximation.
+- [Reinforcement Learning: An Introduction (2nd ed.)](sutton-barto-reinforcement-learning) (Richard Sutton and Andrew Barto): Bandits, MDPs, DP, Monte Carlo, TD, n-step, planning, function approximation, off-policy, traces, policy gradients, psychology, neuroscience.
 - [Understanding Deep Learning](understanding-deep-learning) (Prince): shallow networks to diffusion models, 18 chapters
 
 ## Computer Science
@@ -23,7 +23,7 @@ Partial PDFs (samples, excerpts, unfinished drafts) are marked as such on their 
 - [Computability, Unsolvability, Randomness](simpson-computability-randomness) (Simpson): recursion theory to Martin-Löf randomness
 - [Distributed Computing Through Combinatorial Topology](distributed-computing-combinatorial-topology) (Herlihy, Kozlov and Rajsbaum): Solvability of distributed tasks as a question about simplicial complexes and their maps.
 - [Effect Oriented Programming](effect-oriented-programming) (Frasure, Eckel, Ward): ZIO effects, layers, typed errors, resilience
-- [Functional Programming in Lean](functional-programming-in-lean) (David Thrane Christiansen): Lean 4 as a programming language: types, IO, type classes, monads, transformers, dependent types (partial PDF).
+- [Functional Programming in Lean](functional-programming-in-lean) (David Thrane Christiansen): Lean 4 as a programming language: types, IO, type classes, monads, transformers, dependent types, induction proofs, verified fast code.
 - [Implementing Functional Languages: a tutorial](implementing-functional-languages) (Simon Peyton Jones and David Lester): Building lazy evaluators step by step: template instantiation, G-machine, TIM, parallel G-machine, lambda lifting.
 - [Lambda-Calculus and Combinators](hindley-seldin-lambda-calculus-combinators) (J. Roger Hindley and Jonathan Seldin): λ-calculus and CL side by side: reduction, computability, typing, pure type systems and models.
 - [Mathematics and Computation](wigderson-mathematics-and-computation) (Avi Wigderson): Panoramic survey of complexity theory, randomness, proofs and its links to mathematics and science.
@@ -39,6 +39,7 @@ Partial PDFs (samples, excerpts, unfinished drafts) are marked as such on their 
 
 - [Basic Category Theory for Computer Scientists](pierce-basic-category-theory) (Pierce): limits, adjoints, CCCs, domain equations
 - [Book of Proof](hammack-book-of-proof) (Richard Hammack): Transition-to-proofs text: sets, logic, proof techniques, induction, relations, functions, cardinality.
+- [Category Theory for Programmers (Scala edition)](milewski-category-theory-for-programmers) (Bartosz Milewski): Category theory through code: functors, Yoneda, adjunctions, monads, comonads, F-algebras, ends, Kan extensions.
 - [Category Theory for Scientists](spivak-category-theory-for-scientists) (Spivak): ologs, databases, limits, adjoints, monads, operads
 - [Conceptual Mathematics](lawvere-conceptual-mathematics) (F. William Lawvere and Stephen Schanuel): A first course in categories from sets and maps to products, exponentials and toposes.
 - [Graph Theory and Additive Combinatorics](zhao-graph-theory-additive-combinatorics) (Yufei Zhao): Extremal graphs, regularity, pseudorandomness, graph limits, Roth, Freiman and Green–Tao.

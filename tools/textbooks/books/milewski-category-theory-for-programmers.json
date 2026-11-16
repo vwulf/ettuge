@@ -1,0 +1,1544 @@
+{
+ "url": "https://drive.google.com/file/d/1BiqmUxAfQeSnbV87d1UwP8O9y5_VqV3E/view",
+ "chapters": [
+  {
+   "title": "1. Category: The Essence of Composition",
+   "start": 22,
+   "sections": [
+    {
+     "title": "Arrows as Functions",
+     "start": 22,
+     "end": 24,
+     "summary": "Functions as arrows and their composition.",
+     "terms": [
+      "arrows",
+      "morphisms",
+      "composition"
+     ]
+    },
+    {
+     "title": "Properties of Composition",
+     "start": 25,
+     "end": 27,
+     "summary": "Associativity and identities.",
+     "terms": [
+      "associativity",
+      "identity"
+     ]
+    },
+    {
+     "title": "Composition is the Essence of Programming",
+     "start": 28,
+     "end": 29,
+     "summary": "Composition as the core of decomposing problems.",
+     "terms": [
+      "composition",
+      "programming"
+     ]
+    }
+   ],
+   "end": 31,
+   "summary": "Categories as objects and composable arrows, and why composition matters for programming."
+  },
+  {
+   "title": "2. Types and Functions",
+   "start": 32,
+   "sections": [
+    {
+     "title": "Who Needs Types?",
+     "start": 32,
+     "end": 32,
+     "summary": "Why static types help.",
+     "terms": [
+      "static typing"
+     ]
+    },
+    {
+     "title": "Types Are About Composability",
+     "start": 33,
+     "end": 34,
+     "summary": "Types make composition checkable.",
+     "terms": [
+      "composability"
+     ]
+    },
+    {
+     "title": "What Are Types?",
+     "start": 35,
+     "end": 37,
+     "summary": "Types as sets, bottom and partial functions.",
+     "terms": [
+      "types as sets",
+      "bottom"
+     ]
+    },
+    {
+     "title": "Why Do We Need a Mathematical Model?",
+     "start": 38,
+     "end": 40,
+     "summary": "Denotational semantics.",
+     "terms": [
+      "denotational semantics"
+     ]
+    },
+    {
+     "title": "Pure and Dirty Functions",
+     "start": 41,
+     "end": 41,
+     "summary": "Pure vs. effectful functions.",
+     "terms": [
+      "pure functions",
+      "side effects"
+     ]
+    },
+    {
+     "title": "Examples of Types",
+     "start": 42,
+     "end": 45,
+     "summary": "Void, unit, Bool and functions between them.",
+     "terms": [
+      "Void",
+      "unit",
+      "Bool",
+      "absurd"
+     ]
+    }
+   ],
+   "end": 48,
+   "summary": "Types as sets and functions as morphisms."
+  },
+  {
+   "title": "3. Categories Great and Small",
+   "start": 49,
+   "sections": [
+    {
+     "title": "No Objects",
+     "start": 49,
+     "end": 49,
+     "summary": "The empty category.",
+     "terms": [
+      "empty category"
+     ]
+    },
+    {
+     "title": "Simple Graphs",
+     "start": 49,
+     "end": 49,
+     "summary": "Free categories from graphs.",
+     "terms": [
+      "free category",
+      "graphs"
+     ]
+    },
+    {
+     "title": "Orders",
+     "start": 50,
+     "end": 50,
+     "summary": "Preorders, partial and total orders as thin categories.",
+     "terms": [
+      "preorder",
+      "partial order",
+      "thin category"
+     ]
+    },
+    {
+     "title": "Monoid as Set",
+     "start": 51,
+     "end": 55,
+     "summary": "Monoids as sets with an operation.",
+     "terms": [
+      "monoid"
+     ]
+    },
+    {
+     "title": "Monoid as Category",
+     "start": 56,
+     "end": 58,
+     "summary": "A monoid as a one-object category.",
+     "terms": [
+      "monoid as category"
+     ]
+    }
+   ],
+   "end": 60,
+   "summary": "Small examples of categories."
+  },
+  {
+   "title": "4. Kleisli Categories",
+   "start": 61,
+   "sections": [
+    {
+     "title": "The Writer Category",
+     "start": 66,
+     "end": 68,
+     "summary": "Logging functions that return a value plus a log.",
+     "terms": [
+      "Writer",
+      "logging"
+     ]
+    },
+    {
+     "title": "Writer in Haskell",
+     "start": 69,
+     "end": 72,
+     "summary": "Writer in Haskell.",
+     "terms": [
+      "Writer monad"
+     ]
+    },
+    {
+     "title": "Kleisli Categories",
+     "start": 73,
+     "end": 73,
+     "summary": "The general Kleisli construction.",
+     "terms": [
+      "Kleisli category",
+      "fish operator"
+     ]
+    }
+   ],
+   "end": 75,
+   "summary": "Embellished functions and the Kleisli category."
+  },
+  {
+   "title": "5. Products and Coproducts",
+   "start": 76,
+   "sections": [
+    {
+     "title": "Initial Object",
+     "start": 77,
+     "end": 78,
+     "summary": "Initial objects (Void).",
+     "terms": [
+      "initial object",
+      "Void"
+     ]
+    },
+    {
+     "title": "Terminal Object",
+     "start": 79,
+     "end": 80,
+     "summary": "Terminal objects (unit).",
+     "terms": [
+      "terminal object",
+      "unit"
+     ]
+    },
+    {
+     "title": "Duality",
+     "start": 81,
+     "end": 81,
+     "summary": "Duality and opposite categories.",
+     "terms": [
+      "duality",
+      "opposite category"
+     ]
+    },
+    {
+     "title": "Isomorphisms",
+     "start": 81,
+     "end": 82,
+     "summary": "Isomorphisms.",
+     "terms": [
+      "isomorphism"
+     ]
+    },
+    {
+     "title": "Products",
+     "start": 83,
+     "end": 90,
+     "summary": "Products via a universal property.",
+     "terms": [
+      "product",
+      "universal property"
+     ]
+    },
+    {
+     "title": "Coproduct",
+     "start": 91,
+     "end": 94,
+     "summary": "Coproducts and Either.",
+     "terms": [
+      "coproduct",
+      "sum",
+      "Either"
+     ]
+    },
+    {
+     "title": "Asymmetry",
+     "start": 95,
+     "end": 97,
+     "summary": "Why Set is asymmetric.",
+     "terms": [
+      "asymmetry"
+     ]
+    }
+   ],
+   "end": 99,
+   "summary": "Universal constructions: initial, terminal, products, coproducts."
+  },
+  {
+   "title": "6. Simple Algebraic Data Types",
+   "start": 100,
+   "sections": [
+    {
+     "title": "Product Types",
+     "start": 100,
+     "end": 105,
+     "summary": "Tuples and the product monoid.",
+     "terms": [
+      "product types",
+      "tuples"
+     ]
+    },
+    {
+     "title": "Records",
+     "start": 106,
+     "end": 107,
+     "summary": "Records.",
+     "terms": [
+      "records"
+     ]
+    },
+    {
+     "title": "Sum Types",
+     "start": 108,
+     "end": 113,
+     "summary": "Sum types like Maybe and lists.",
+     "terms": [
+      "sum types",
+      "Maybe",
+      "List"
+     ]
+    },
+    {
+     "title": "Algebra of Types",
+     "start": 114,
+     "end": 118,
+     "summary": "Type algebra: semiring laws, lists as solutions to equations.",
+     "terms": [
+      "algebra of types",
+      "semiring"
+     ]
+    }
+   ],
+   "end": 120,
+   "summary": "Algebraic data types as products and sums."
+  },
+  {
+   "title": "7. Functors",
+   "start": 121,
+   "sections": [
+    {
+     "title": "Functors in Programming",
+     "start": 124,
+     "end": 140,
+     "summary": "Maybe, list, reader as functors; fmap and laws.",
+     "terms": [
+      "functor",
+      "fmap",
+      "functor laws",
+      "Maybe",
+      "Reader"
+     ]
+    },
+    {
+     "title": "Functors as Containers",
+     "start": 141,
+     "end": 143,
+     "summary": "Functors as containers.",
+     "terms": [
+      "containers"
+     ]
+    },
+    {
+     "title": "Functor Composition",
+     "start": 144,
+     "end": 147,
+     "summary": "Composing functors.",
+     "terms": [
+      "functor composition",
+      "Cat"
+     ]
+    }
+   ],
+   "end": 148,
+   "summary": "Functors between categories and in code."
+  },
+  {
+   "title": "8. Functoriality",
+   "start": 149,
+   "sections": [
+    {
+     "title": "Bifunctors",
+     "start": 149,
+     "end": 152,
+     "summary": "Bifunctors.",
+     "terms": [
+      "bifunctor"
+     ]
+    },
+    {
+     "title": "Product and Coproduct Bifunctors",
+     "start": 153,
+     "end": 154,
+     "summary": "Product and Either as bifunctors.",
+     "terms": [
+      "product",
+      "coproduct"
+     ]
+    },
+    {
+     "title": "Functorial Algebraic Data Types",
+     "start": 155,
+     "end": 159,
+     "summary": "Building functorial ADTs, Const and Identity.",
+     "terms": [
+      "Const",
+      "Identity",
+      "deriving Functor"
+     ]
+    },
+    {
+     "title": "Functors in C++",
+     "start": 160,
+     "end": 162,
+     "summary": "Functors in C++.",
+     "terms": [
+      "C++ templates"
+     ]
+    },
+    {
+     "title": "The Writer Functor",
+     "start": 163,
+     "end": 165,
+     "summary": "Writer as a functor.",
+     "terms": [
+      "Writer"
+     ]
+    },
+    {
+     "title": "Covariant and Contravariant Functors",
+     "start": 166,
+     "end": 169,
+     "summary": "Contravariant functors and op.",
+     "terms": [
+      "contravariant functor"
+     ]
+    },
+    {
+     "title": "Profunctors",
+     "start": 170,
+     "end": 172,
+     "summary": "Profunctors.",
+     "terms": [
+      "profunctor",
+      "dimap"
+     ]
+    },
+    {
+     "title": "The Hom-Functor",
+     "start": 173,
+     "end": 173,
+     "summary": "The hom-functor.",
+     "terms": [
+      "hom-functor"
+     ]
+    }
+   ],
+   "end": 175,
+   "summary": "Functors of several arguments and variance."
+  },
+  {
+   "title": "9. Function Types",
+   "start": 176,
+   "sections": [
+    {
+     "title": "Universal Construction",
+     "start": 178,
+     "end": 182,
+     "summary": "The universal construction of a function object.",
+     "terms": [
+      "function object",
+      "eval"
+     ]
+    },
+    {
+     "title": "Currying",
+     "start": 183,
+     "end": 186,
+     "summary": "Currying.",
+     "terms": [
+      "currying",
+      "uncurry"
+     ]
+    },
+    {
+     "title": "Exponentials",
+     "start": 187,
+     "end": 187,
+     "summary": "Exponentials.",
+     "terms": [
+      "exponential"
+     ]
+    },
+    {
+     "title": "Cartesian Closed Categories",
+     "start": 188,
+     "end": 188,
+     "summary": "Cartesian closed categories.",
+     "terms": [
+      "cartesian closed category"
+     ]
+    },
+    {
+     "title": "Exponentials and Algebraic Data Types",
+     "start": 189,
+     "end": 192,
+     "summary": "Exponent laws as type isomorphisms.",
+     "terms": [
+      "exponential laws",
+      "type isomorphisms"
+     ]
+    },
+    {
+     "title": "Curry-Howard Isomorphism",
+     "start": 193,
+     "end": 195,
+     "summary": "Curry\u2013Howard.",
+     "terms": [
+      "Curry-Howard isomorphism"
+     ]
+    }
+   ],
+   "end": 196,
+   "summary": "Function objects, currying and cartesian closed categories."
+  },
+  {
+   "title": "10. Natural Transformations",
+   "start": 197,
+   "sections": [
+    {
+     "title": "Polymorphic Functions",
+     "start": 201,
+     "end": 209,
+     "summary": "Polymorphic functions as natural transformations; parametricity.",
+     "terms": [
+      "natural transformation",
+      "polymorphism",
+      "parametricity",
+      "naturality"
+     ]
+    },
+    {
+     "title": "Beyond Naturality",
+     "start": 210,
+     "end": 212,
+     "summary": "Naturality beyond functors.",
+     "terms": [
+      "contravariant"
+     ]
+    },
+    {
+     "title": "Functor Category",
+     "start": 213,
+     "end": 216,
+     "summary": "Functor categories.",
+     "terms": [
+      "functor category"
+     ]
+    },
+    {
+     "title": "2-Categories",
+     "start": 217,
+     "end": 221,
+     "summary": "2-categories and horizontal/vertical composition.",
+     "terms": [
+      "2-category",
+      "horizontal composition",
+      "interchange law"
+     ]
+    }
+   ],
+   "end": 223,
+   "summary": "Natural transformations and functor categories."
+  },
+  {
+   "title": "11. Declarative Programming",
+   "start": 225,
+   "sections": [],
+   "end": 232,
+   "summary": "Why the categorical, declarative view suits programming and physics.",
+   "terms": [
+    "declarative programming",
+    "universal constructions",
+    "composition",
+    "physics"
+   ]
+  },
+  {
+   "title": "12. Limits and Colimits",
+   "start": 233,
+   "sections": [
+    {
+     "title": "Limit as a Natural Isomorphism",
+     "start": 239,
+     "end": 243,
+     "summary": "Limits as cones and natural isomorphisms.",
+     "terms": [
+      "limit",
+      "cone",
+      "diagram"
+     ]
+    },
+    {
+     "title": "Examples of Limits",
+     "start": 244,
+     "end": 251,
+     "summary": "Equalizers and pullbacks.",
+     "terms": [
+      "equalizer",
+      "pullback"
+     ]
+    },
+    {
+     "title": "Colimits",
+     "start": 252,
+     "end": 252,
+     "summary": "Colimits, coequalizers, pushouts.",
+     "terms": [
+      "colimit",
+      "pushout"
+     ]
+    },
+    {
+     "title": "Continuity",
+     "start": 253,
+     "end": 255,
+     "summary": "Continuity of functors.",
+     "terms": [
+      "continuous functor"
+     ]
+    }
+   ],
+   "end": 257,
+   "summary": "Limits and colimits as generalized universal constructions."
+  },
+  {
+   "title": "13. Free Monoids",
+   "start": 258,
+   "sections": [
+    {
+     "title": "Free Monoid in Haskell",
+     "start": 260,
+     "end": 261,
+     "summary": "Lists as free monoids in Haskell.",
+     "terms": [
+      "free monoid",
+      "list"
+     ]
+    },
+    {
+     "title": "Free Monoid Universal Construction",
+     "start": 262,
+     "end": 265,
+     "summary": "The universal property of the free monoid.",
+     "terms": [
+      "universal construction",
+      "forgetful functor"
+     ]
+    }
+   ],
+   "end": 267,
+   "summary": "Free monoids and the list type."
+  },
+  {
+   "title": "14. Representable Functors",
+   "start": 268,
+   "sections": [
+    {
+     "title": "The Hom Functor",
+     "start": 269,
+     "end": 272,
+     "summary": "The hom functor.",
+     "terms": [
+      "hom functor"
+     ]
+    },
+    {
+     "title": "Representable Functors",
+     "start": 273,
+     "end": 279,
+     "summary": "Representable functors and memoization; streams.",
+     "terms": [
+      "representable functor",
+      "tabulate",
+      "index",
+      "memoization"
+     ]
+    }
+   ],
+   "end": 281,
+   "summary": "Functors isomorphic to hom-functors."
+  },
+  {
+   "title": "15. The Yoneda Lemma",
+   "start": 282,
+   "sections": [
+    {
+     "title": "Yoneda in Haskell",
+     "start": 289,
+     "end": 291,
+     "summary": "Yoneda in Haskell: natural transformations from Reader are values.",
+     "terms": [
+      "Yoneda lemma",
+      "Reader"
+     ]
+    },
+    {
+     "title": "Co-Yoneda",
+     "start": 292,
+     "end": 292,
+     "summary": "The co-Yoneda lemma.",
+     "terms": [
+      "co-Yoneda"
+     ]
+    }
+   ],
+   "end": 293,
+   "summary": "The Yoneda lemma."
+  },
+  {
+   "title": "16. Yoneda Embedding",
+   "start": 294,
+   "sections": [
+    {
+     "title": "The Embedding",
+     "start": 296,
+     "end": 296,
+     "summary": "The Yoneda embedding.",
+     "terms": [
+      "Yoneda embedding"
+     ]
+    },
+    {
+     "title": "Application to Haskell",
+     "start": 297,
+     "end": 298,
+     "summary": "Application to Haskell (continuation-passing).",
+     "terms": [
+      "CPS",
+      "Haskell"
+     ]
+    },
+    {
+     "title": "Preorder Example",
+     "start": 299,
+     "end": 300,
+     "summary": "Preorders.",
+     "terms": [
+      "preorder"
+     ]
+    },
+    {
+     "title": "Naturality",
+     "start": 301,
+     "end": 302,
+     "summary": "Naturality.",
+     "terms": [
+      "naturality"
+     ]
+    }
+   ],
+   "end": 303,
+   "summary": "Embedding a category in its functor category."
+  },
+  {
+   "title": "17. It's All About Morphisms",
+   "start": 305,
+   "sections": [
+    {
+     "title": "Functors",
+     "start": 305,
+     "end": 305,
+     "summary": "Functors.",
+     "terms": [
+      "functors"
+     ]
+    },
+    {
+     "title": "Commuting Diagrams",
+     "start": 306,
+     "end": 306,
+     "summary": "Commuting diagrams.",
+     "terms": [
+      "commuting diagrams"
+     ]
+    },
+    {
+     "title": "Natural Transformations",
+     "start": 307,
+     "end": 308,
+     "summary": "Natural transformations.",
+     "terms": [
+      "natural transformations"
+     ]
+    },
+    {
+     "title": "Natural Isomorphisms",
+     "start": 309,
+     "end": 309,
+     "summary": "Natural isomorphisms.",
+     "terms": [
+      "natural isomorphism"
+     ]
+    },
+    {
+     "title": "Hom-Sets",
+     "start": 309,
+     "end": 309,
+     "summary": "Hom-sets.",
+     "terms": [
+      "hom-set"
+     ]
+    },
+    {
+     "title": "Hom-Set Isomorphisms",
+     "start": 310,
+     "end": 310,
+     "summary": "Hom-set isomorphisms.",
+     "terms": [
+      "hom-set isomorphism"
+     ]
+    },
+    {
+     "title": "Asymmetry of Hom-Sets",
+     "start": 311,
+     "end": 311,
+     "summary": "Asymmetry of hom-sets.",
+     "terms": [
+      "asymmetry"
+     ]
+    }
+   ],
+   "end": 312,
+   "summary": "A restatement of the main ideas in terms of morphisms and hom-sets."
+  },
+  {
+   "title": "18. Adjunctions",
+   "start": 313,
+   "sections": [
+    {
+     "title": "Adjunction and Unit/Counit Pair",
+     "start": 314,
+     "end": 319,
+     "summary": "Unit and counit.",
+     "terms": [
+      "adjunction",
+      "unit",
+      "counit"
+     ]
+    },
+    {
+     "title": "Adjunctions and Hom-Sets",
+     "start": 320,
+     "end": 325,
+     "summary": "Adjunction as a hom-set isomorphism.",
+     "terms": [
+      "hom-set adjunction"
+     ]
+    },
+    {
+     "title": "Product from Adjunction",
+     "start": 326,
+     "end": 329,
+     "summary": "Products from an adjunction.",
+     "terms": [
+      "product",
+      "diagonal functor"
+     ]
+    },
+    {
+     "title": "Exponential from Adjunction",
+     "start": 330,
+     "end": 331,
+     "summary": "Exponentials from an adjunction (currying).",
+     "terms": [
+      "exponential",
+      "currying"
+     ]
+    }
+   ],
+   "end": 332,
+   "summary": "Adjunctions, two ways."
+  },
+  {
+   "title": "19. Free/Forgetful Adjunctions",
+   "start": 333,
+   "sections": [
+    {
+     "title": "Some Intuitions",
+     "start": 337,
+     "end": 339,
+     "summary": "Intuitions for free/forgetful pairs.",
+     "terms": [
+      "free functor",
+      "forgetful functor",
+      "free monoid"
+     ]
+    }
+   ],
+   "end": 340,
+   "summary": "Free constructions as left adjoints to forgetful functors."
+  },
+  {
+   "title": "20. Monads: Programmer's Definition",
+   "start": 341,
+   "sections": [
+    {
+     "title": "The Kleisli Category",
+     "start": 343,
+     "end": 346,
+     "summary": "Monads from Kleisli composition.",
+     "terms": [
+      "monad",
+      "Kleisli category"
+     ]
+    },
+    {
+     "title": "Fish Anatomy",
+     "start": 347,
+     "end": 350,
+     "summary": "Unpacking the fish into bind and join.",
+     "terms": [
+      "bind",
+      "join",
+      "return"
+     ]
+    },
+    {
+     "title": "The do Notation",
+     "start": 351,
+     "end": 357,
+     "summary": "do-notation.",
+     "terms": [
+      "do-notation"
+     ]
+    }
+   ],
+   "end": 357,
+   "summary": "Monads as programmers meet them."
+  },
+  {
+   "title": "21. Monads and Effects",
+   "start": 358,
+   "sections": [
+    {
+     "title": "The Problem",
+     "start": 358,
+     "end": 358,
+     "summary": "Partiality, nondeterminism, reader, writer, state, exceptions, continuations, IO as problems.",
+     "terms": [
+      "effects",
+      "purity"
+     ]
+    },
+    {
+     "title": "The Solution",
+     "start": 359,
+     "end": 378,
+     "summary": "The monadic solutions to each.",
+     "terms": [
+      "Maybe",
+      "List",
+      "Reader",
+      "Writer",
+      "State",
+      "Cont",
+      "IO monads"
+     ]
+    }
+   ],
+   "end": 380,
+   "summary": "How monads model effects in pure code."
+  },
+  {
+   "title": "22. Monads Categorically",
+   "start": 381,
+   "sections": [
+    {
+     "title": "Monoidal Categories",
+     "start": 386,
+     "end": 393,
+     "summary": "Monoidal categories.",
+     "terms": [
+      "monoidal category"
+     ]
+    },
+    {
+     "title": "Monoid in a Monoidal Category",
+     "start": 394,
+     "end": 394,
+     "summary": "Monoids inside them.",
+     "terms": [
+      "monoid object"
+     ]
+    },
+    {
+     "title": "Monads as Monoids",
+     "start": 395,
+     "end": 397,
+     "summary": "Monads as monoids in endofunctors.",
+     "terms": [
+      "monad as monoid",
+      "endofunctor"
+     ]
+    },
+    {
+     "title": "Monads from Adjunctions",
+     "start": 398,
+     "end": 402,
+     "summary": "Monads arising from adjunctions (State).",
+     "terms": [
+      "adjunction",
+      "State monad"
+     ]
+    }
+   ],
+   "end": 402,
+   "summary": "Monads as monoids in a category of endofunctors."
+  },
+  {
+   "title": "23. Comonads",
+   "start": 403,
+   "sections": [
+    {
+     "title": "Programming with Comonads",
+     "start": 405,
+     "end": 405,
+     "summary": "Co-Kleisli arrows.",
+     "terms": [
+      "comonad",
+      "co-Kleisli"
+     ]
+    },
+    {
+     "title": "The Product Comonad",
+     "start": 405,
+     "end": 406,
+     "summary": "The product (environment) comonad.",
+     "terms": [
+      "product comonad",
+      "environment"
+     ]
+    },
+    {
+     "title": "Dissecting the Composition",
+     "start": 407,
+     "end": 409,
+     "summary": "extract, duplicate, extend.",
+     "terms": [
+      "extract",
+      "duplicate",
+      "extend"
+     ]
+    },
+    {
+     "title": "The Stream Comonad",
+     "start": 410,
+     "end": 413,
+     "summary": "Streams.",
+     "terms": [
+      "stream comonad"
+     ]
+    },
+    {
+     "title": "Comonad Categorically",
+     "start": 414,
+     "end": 417,
+     "summary": "Comonads categorically.",
+     "terms": [
+      "comonad categorically"
+     ]
+    },
+    {
+     "title": "The Store Comonad",
+     "start": 418,
+     "end": 421,
+     "summary": "Store and its link to lenses.",
+     "terms": [
+      "Store comonad",
+      "lens"
+     ]
+    }
+   ],
+   "end": 422,
+   "summary": "Comonads and context-dependent computation."
+  },
+  {
+   "title": "24. F-Algebras",
+   "start": 423,
+   "sections": [
+    {
+     "title": "Recursion",
+     "start": 427,
+     "end": 430,
+     "summary": "Expressions and fixed points of functors.",
+     "terms": [
+      "recursion",
+      "Fix"
+     ]
+    },
+    {
+     "title": "Category of F-Algebras",
+     "start": 431,
+     "end": 433,
+     "summary": "The category of F-algebras.",
+     "terms": [
+      "F-algebra"
+     ]
+    },
+    {
+     "title": "Natural Numbers",
+     "start": 434,
+     "end": 435,
+     "summary": "Natural numbers as an initial algebra.",
+     "terms": [
+      "natural numbers",
+      "initial algebra",
+      "Lambek"
+     ]
+    },
+    {
+     "title": "Catamorphisms",
+     "start": 436,
+     "end": 437,
+     "summary": "Catamorphisms.",
+     "terms": [
+      "catamorphism"
+     ]
+    },
+    {
+     "title": "Folds",
+     "start": 438,
+     "end": 440,
+     "summary": "Folds on lists.",
+     "terms": [
+      "fold"
+     ]
+    },
+    {
+     "title": "Coalgebras",
+     "start": 441,
+     "end": 445,
+     "summary": "Coalgebras, anamorphisms and streams.",
+     "terms": [
+      "coalgebra",
+      "anamorphism",
+      "terminal coalgebra"
+     ]
+    }
+   ],
+   "end": 446,
+   "summary": "Recursion schemes through F-algebras."
+  },
+  {
+   "title": "25. Algebras for Monads",
+   "start": 447,
+   "sections": [
+    {
+     "title": "T-algebras",
+     "start": 450,
+     "end": 453,
+     "summary": "T-algebras (Eilenberg\u2013Moore).",
+     "terms": [
+      "T-algebra",
+      "Eilenberg-Moore"
+     ]
+    },
+    {
+     "title": "The Kleisli Category",
+     "start": 454,
+     "end": 456,
+     "summary": "The Kleisli category again.",
+     "terms": [
+      "Kleisli category"
+     ]
+    },
+    {
+     "title": "Coalgebras for Comonads",
+     "start": 457,
+     "end": 457,
+     "summary": "Coalgebras for comonads.",
+     "terms": [
+      "coalgebra for comonad"
+     ]
+    },
+    {
+     "title": "Lenses",
+     "start": 457,
+     "end": 460,
+     "summary": "Lenses as Store coalgebras.",
+     "terms": [
+      "lenses"
+     ]
+    }
+   ],
+   "end": 461,
+   "summary": "Algebras for monads and coalgebras for comonads."
+  },
+  {
+   "title": "26. Ends and Coends",
+   "start": 462,
+   "sections": [
+    {
+     "title": "Dinatural Transformations",
+     "start": 464,
+     "end": 465,
+     "summary": "Dinatural transformations.",
+     "terms": [
+      "dinatural transformation"
+     ]
+    },
+    {
+     "title": "Ends",
+     "start": 466,
+     "end": 469,
+     "summary": "Ends.",
+     "terms": [
+      "end"
+     ]
+    },
+    {
+     "title": "Ends as Equalizers",
+     "start": 470,
+     "end": 472,
+     "summary": "Ends as equalizers.",
+     "terms": [
+      "equalizer"
+     ]
+    },
+    {
+     "title": "Natural Transformations as Ends",
+     "start": 473,
+     "end": 474,
+     "summary": "Natural transformations as ends.",
+     "terms": [
+      "natural transformations as ends"
+     ]
+    },
+    {
+     "title": "Coends",
+     "start": 475,
+     "end": 478,
+     "summary": "Coends.",
+     "terms": [
+      "coend"
+     ]
+    },
+    {
+     "title": "Ninja Yoneda Lemma",
+     "start": 479,
+     "end": 480,
+     "summary": "Ninja Yoneda lemma.",
+     "terms": [
+      "ninja Yoneda"
+     ]
+    },
+    {
+     "title": "Profunctor Composition",
+     "start": 481,
+     "end": 482,
+     "summary": "Profunctor composition.",
+     "terms": [
+      "profunctor composition"
+     ]
+    }
+   ],
+   "end": 482,
+   "summary": "Ends, coends and profunctors."
+  },
+  {
+   "title": "27. Kan Extensions",
+   "start": 483,
+   "sections": [
+    {
+     "title": "Right Kan Extension",
+     "start": 486,
+     "end": 487,
+     "summary": "Right Kan extension.",
+     "terms": [
+      "right Kan extension"
+     ]
+    },
+    {
+     "title": "Kan Extension as Adjunction",
+     "start": 488,
+     "end": 489,
+     "summary": "Kan extensions as adjoints.",
+     "terms": [
+      "adjunction"
+     ]
+    },
+    {
+     "title": "Left Kan Extension",
+     "start": 490,
+     "end": 492,
+     "summary": "Left Kan extension.",
+     "terms": [
+      "left Kan extension"
+     ]
+    },
+    {
+     "title": "Kan Extensions as Ends",
+     "start": 493,
+     "end": 495,
+     "summary": "Kan extensions as ends and coends.",
+     "terms": [
+      "ends",
+      "coends"
+     ]
+    },
+    {
+     "title": "Kan Extensions in Haskell",
+     "start": 496,
+     "end": 500,
+     "summary": "Ran and Lan in Haskell.",
+     "terms": [
+      "Ran",
+      "Lan",
+      "Haskell"
+     ]
+    },
+    {
+     "title": "Free Functor",
+     "start": 501,
+     "end": 504,
+     "summary": "The free functor.",
+     "terms": [
+      "free functor"
+     ]
+    }
+   ],
+   "end": 504,
+   "summary": "Kan extensions."
+  },
+  {
+   "title": "28. Enriched Categories",
+   "start": 505,
+   "sections": [
+    {
+     "title": "Why Monoidal Category?",
+     "start": 506,
+     "end": 506,
+     "summary": "Motivation.",
+     "terms": [
+      "enrichment"
+     ]
+    },
+    {
+     "title": "Monoidal Category",
+     "start": 507,
+     "end": 509,
+     "summary": "Monoidal categories.",
+     "terms": [
+      "monoidal category"
+     ]
+    },
+    {
+     "title": "Enriched Category",
+     "start": 510,
+     "end": 511,
+     "summary": "Enriched categories.",
+     "terms": [
+      "enriched category"
+     ]
+    },
+    {
+     "title": "Preorders",
+     "start": 512,
+     "end": 512,
+     "summary": "Preorders as enriched over Bool.",
+     "terms": [
+      "preorders"
+     ]
+    },
+    {
+     "title": "Metric Spaces",
+     "start": 513,
+     "end": 514,
+     "summary": "Metric spaces as enriched categories.",
+     "terms": [
+      "Lawvere metric spaces"
+     ]
+    },
+    {
+     "title": "Enriched Functors",
+     "start": 515,
+     "end": 515,
+     "summary": "Enriched functors.",
+     "terms": [
+      "enriched functors"
+     ]
+    },
+    {
+     "title": "Self Enrichment",
+     "start": 516,
+     "end": 517,
+     "summary": "Self-enrichment.",
+     "terms": [
+      "self-enrichment"
+     ]
+    },
+    {
+     "title": "Relation to 2-Categories",
+     "start": 518,
+     "end": 518,
+     "summary": "Relation to 2-categories.",
+     "terms": [
+      "2-categories"
+     ]
+    }
+   ],
+   "end": 518,
+   "summary": "Categories whose hom-sets are objects of a monoidal category."
+  },
+  {
+   "title": "29. Topoi",
+   "start": 519,
+   "sections": [
+    {
+     "title": "Subobject Classifier",
+     "start": 520,
+     "end": 524,
+     "summary": "Subobject classifiers.",
+     "terms": [
+      "subobject classifier"
+     ]
+    },
+    {
+     "title": "Topos",
+     "start": 525,
+     "end": 525,
+     "summary": "Toposes.",
+     "terms": [
+      "topos"
+     ]
+    },
+    {
+     "title": "Topoi and Logic",
+     "start": 525,
+     "end": 525,
+     "summary": "Internal logic of a topos.",
+     "terms": [
+      "intuitionistic logic"
+     ]
+    }
+   ],
+   "end": 527,
+   "summary": "Topoi as generalized universes of sets."
+  },
+  {
+   "title": "30. Lawvere Theories",
+   "start": 528,
+   "sections": [
+    {
+     "title": "Universal Algebra",
+     "start": 528,
+     "end": 529,
+     "summary": "Universal algebra.",
+     "terms": [
+      "universal algebra"
+     ]
+    },
+    {
+     "title": "Lawvere Theories",
+     "start": 530,
+     "end": 533,
+     "summary": "Lawvere theories.",
+     "terms": [
+      "Lawvere theory"
+     ]
+    },
+    {
+     "title": "Models of Lawvere Theories",
+     "start": 534,
+     "end": 535,
+     "summary": "Models.",
+     "terms": [
+      "models"
+     ]
+    },
+    {
+     "title": "The Theory of Monoids",
+     "start": 536,
+     "end": 536,
+     "summary": "The theory of monoids.",
+     "terms": [
+      "monoids"
+     ]
+    },
+    {
+     "title": "Lawvere Theories and Monads",
+     "start": 537,
+     "end": 539,
+     "summary": "Relation to monads.",
+     "terms": [
+      "monads"
+     ]
+    },
+    {
+     "title": "Monads as Coends",
+     "start": 540,
+     "end": 543,
+     "summary": "Monads as coends.",
+     "terms": [
+      "coends"
+     ]
+    },
+    {
+     "title": "Lawvere Theory of Side Effects",
+     "start": 544,
+     "end": 545,
+     "summary": "Side effects via Lawvere theories.",
+     "terms": [
+      "algebraic effects"
+     ]
+    }
+   ],
+   "end": 547,
+   "summary": "Lawvere theories as categorical universal algebra."
+  },
+  {
+   "title": "31. Monads, Monoids, and Categories",
+   "start": 548,
+   "sections": [
+    {
+     "title": "Bicategories",
+     "start": 548,
+     "end": 553,
+     "summary": "Bicategories.",
+     "terms": [
+      "bicategory"
+     ]
+    },
+    {
+     "title": "Monads",
+     "start": 554,
+     "end": 557,
+     "summary": "Monads in a bicategory; categories as monads in Span.",
+     "terms": [
+      "monads in a bicategory",
+      "spans"
+     ]
+    }
+   ],
+   "end": 558,
+   "summary": "Monads as monads in bicategories, and categories as monads."
+  }
+ ],
+ "title": "Category Theory for Programmers (Scala edition)",
+ "byline": "Bartosz Milewski, Scala examples by Typelevel contributors \u00b7 community LaTeX edition, build v36 (2023), CC BY-SA 4.0",
+ "note": "PDF page = printed page + 21. This is the latest build of the community PDF (hmemcpy/milewski-ctfp-pdf), which also exists in Haskell-only, OCaml and Reason editions; the Scala edition shows Scala next to the Haskell and C++ code. The original text is the blog series on bartoszmilewski.com. \u201cChallenges\u201d and bibliography subsections are not broken out. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "An introduction to category theory aimed at working programmers, told through code. Part One builds the basics from composition: categories, types as sets, Kleisli categories, universal constructions (products, coproducts, exponentials), algebraic data types, functors, bifunctors and profunctors, and natural transformations. Part Two covers limits and colimits, free monoids, representable functors and the Yoneda lemma and embedding. Part Three goes deeper: adjunctions, monads from the programmer\u2019s and the categorical side, comonads, F-algebras and catamorphisms, algebras for monads and lenses, ends and coends, Kan extensions, enriched categories, topoi, Lawvere theories, and monads as monoids in bicategories."
+}

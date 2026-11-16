@@ -293,15 +293,15 @@
   "Computer Science",
   "Functional Programming in Lean",
   "David Thrane Christiansen",
-  "Lean 4 as a programming language: types, IO, type classes, monads, transformers, dependent types (partial PDF)."
+  "Lean 4 as a programming language: types, IO, type classes, monads, transformers, dependent types, induction proofs, verified fast code."
  ],
  [
   "sutton-barto-reinforcement-learning",
   "sutton-barto",
   "AI and Machine Learning",
-  "Reinforcement Learning: An Introduction (2nd ed. draft)",
+  "Reinforcement Learning: An Introduction (2nd ed.)",
   "Richard Sutton and Andrew Barto",
-  "Bandits, MDPs, DP, Monte Carlo, TD, eligibility traces, planning and function approximation."
+  "Bandits, MDPs, DP, Monte Carlo, TD, n-step, planning, function approximation, off-policy, traces, policy gradients, psychology, neuroscience."
  ],
  [
   "hindley-seldin-lambda-calculus-combinators",
@@ -334,5 +334,13 @@
   "Book of Proof",
   "Richard Hammack",
   "Transition-to-proofs text: sets, logic, proof techniques, induction, relations, functions, cardinality."
+ ],
+ [
+  "milewski-category-theory-for-programmers",
+  "ctfp",
+  "Mathematics",
+  "Category Theory for Programmers (Scala edition)",
+  "Bartosz Milewski",
+  "Category theory through code: functors, Yoneda, adjunctions, monads, comonads, F-algebras, ends, Kan extensions."
  ]
 ]
