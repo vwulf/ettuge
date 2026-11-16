@@ -1,0 +1,2500 @@
+{
+ "url": "https://drive.google.com/file/d/1Ig36hpBXfx9JUPp5q9ATy-DEbTT1lEBU/view",
+ "chapters": [
+  {
+   "title": "Introduction",
+   "start": 15,
+   "end": 18,
+   "sections": [
+    {
+     "title": "The categorial imperative",
+     "start": 15,
+     "end": 16,
+     "summary": "The case for categorial thinking.",
+     "terms": [
+      "motivation"
+     ]
+    },
+    {
+     "title": "From a bird's eye view",
+     "start": 17,
+     "end": 17,
+     "summary": "An overview from above.",
+     "terms": [
+      "overview"
+     ]
+    },
+    {
+     "title": "A slow ascent",
+     "start": 18,
+     "end": 18,
+     "summary": "The plan of slow ascent.",
+     "terms": [
+      "plan"
+     ]
+    }
+   ],
+   "summary": "Why study categories and how the book proceeds."
+  },
+  {
+   "title": "Groups, and categories of groups",
+   "start": 19,
+   "end": 34,
+   "sections": [
+    {
+     "title": "Groups defined",
+     "start": 19,
+     "end": 20,
+     "summary": "Group axioms.",
+     "terms": [
+      "group"
+     ]
+    },
+    {
+     "title": "Fixing notation",
+     "start": 21,
+     "end": 21,
+     "summary": "Notation.",
+     "terms": [
+      "notation"
+     ]
+    },
+    {
+     "title": "New groups from old",
+     "start": 21,
+     "end": 24,
+     "summary": "Products and other constructions.",
+     "terms": [
+      "direct product",
+      "quotient"
+     ]
+    },
+    {
+     "title": "Group homomorphisms",
+     "start": 25,
+     "end": 26,
+     "summary": "Homomorphisms.",
+     "terms": [
+      "homomorphism"
+     ]
+    },
+    {
+     "title": "Isomorphisms, automorphisms",
+     "start": 27,
+     "end": 27,
+     "summary": "Isomorphisms and automorphisms.",
+     "terms": [
+      "isomorphism",
+      "automorphism"
+     ]
+    },
+    {
+     "title": "Redefining isomorphisms",
+     "start": 28,
+     "end": 28,
+     "summary": "Isomorphism as invertible homomorphism.",
+     "terms": [
+      "inverse"
+     ]
+    },
+    {
+     "title": "Homomorphisms and constructions",
+     "start": 29,
+     "end": 30,
+     "summary": "Homomorphisms and constructions.",
+     "terms": [
+      "constructions"
+     ]
+    },
+    {
+     "title": "`Identical up to isomorphism'",
+     "start": 31,
+     "end": 31,
+     "summary": "Sameness up to isomorphism.",
+     "terms": [
+      "up to isomorphism"
+     ]
+    },
+    {
+     "title": "Categories of groups",
+     "start": 32,
+     "end": 34,
+     "summary": "Categories of groups.",
+     "terms": [
+      "category of groups"
+     ]
+    }
+   ],
+   "summary": "Groups as a warm-up for categorial ideas."
+  },
+  {
+   "title": "Sets, classes, plurals",
+   "start": 35,
+   "end": 38,
+   "sections": [
+    {
+     "title": "Sets and (virtual) classes",
+     "start": 35,
+     "end": 35,
+     "summary": "Sets vs. virtual classes.",
+     "terms": [
+      "sets",
+      "classes"
+     ]
+    },
+    {
+     "title": "Don't try to eliminate plurals!",
+     "start": 36,
+     "end": 37,
+     "summary": "Defending plural talk.",
+     "terms": [
+      "plurals",
+      "plural logic"
+     ]
+    },
+    {
+     "title": "Why fuss?",
+     "start": 38,
+     "end": 38,
+     "summary": "Why it matters.",
+     "terms": [
+      "foundations"
+     ]
+    }
+   ],
+   "summary": "Foundational worries about collections."
+  },
+  {
+   "title": "Where do categories of groups live?",
+   "start": 39,
+   "end": 48,
+   "sections": [
+    {
+     "title": "One `generous arena' in which to pursue group theory",
+     "start": 39,
+     "end": 41,
+     "summary": "A generous set-theoretic arena.",
+     "terms": [
+      "set theory",
+      "universe"
+     ]
+    },
+    {
+     "title": "Alternative implementations?",
+     "start": 42,
+     "end": 45,
+     "summary": "Alternative implementations.",
+     "terms": [
+      "implementations"
+     ]
+    },
+    {
+     "title": "`The' category of groups?",
+     "start": 46,
+     "end": 48,
+     "summary": "Is there one category of groups?",
+     "terms": [
+      "Grp",
+      "uniqueness"
+     ]
+    }
+   ],
+   "summary": "What framework hosts the category of groups?"
+  },
+  {
+   "title": "Categories in general",
+   "start": 49,
+   "end": 63,
+   "sections": [
+    {
+     "title": "The very idea of a category",
+     "start": 49,
+     "end": 51,
+     "summary": "Objects, arrows, composition.",
+     "terms": [
+      "category"
+     ]
+    },
+    {
+     "title": "Identity arrows",
+     "start": 52,
+     "end": 52,
+     "summary": "Identities.",
+     "terms": [
+      "identity"
+     ]
+    },
+    {
+     "title": "Monoids and pre-ordered collections",
+     "start": 53,
+     "end": 54,
+     "summary": "Monoids and preorders as categories.",
+     "terms": [
+      "monoid",
+      "preorder"
+     ]
+    },
+    {
+     "title": "Some rather sparse categories",
+     "start": 55,
+     "end": 56,
+     "summary": "Sparse categories.",
+     "terms": [
+      "discrete categories"
+     ]
+    },
+    {
+     "title": "More categories",
+     "start": 57,
+     "end": 58,
+     "summary": "More examples.",
+     "terms": [
+      "examples"
+     ]
+    },
+    {
+     "title": "The category of sets",
+     "start": 59,
+     "end": 60,
+     "summary": "Set.",
+     "terms": [
+      "Set"
+     ]
+    },
+    {
+     "title": "Yet more examples",
+     "start": 61,
+     "end": 63,
+     "summary": "Further examples.",
+     "terms": [
+      "Grp",
+      "Top",
+      "Vect"
+     ]
+    }
+   ],
+   "summary": "The definition of category and many examples."
+  },
+  {
+   "title": "Diagrams, informally",
+   "start": 64,
+   "end": 67,
+   "sections": [
+    {
+     "title": "Diagrams, in two senses",
+     "start": 64,
+     "end": 64,
+     "summary": "Two senses of diagram.",
+     "terms": [
+      "diagram"
+     ]
+    },
+    {
+     "title": "Commutative diagrams",
+     "start": 65,
+     "end": 66,
+     "summary": "Commuting diagrams.",
+     "terms": [
+      "commutative diagram"
+     ]
+    },
+    {
+     "title": "A revised definition",
+     "start": 67,
+     "end": 67,
+     "summary": "A revised definition.",
+     "terms": [
+      "definition"
+     ]
+    }
+   ],
+   "summary": "Diagrams and commutativity."
+  },
+  {
+   "title": "Categories beget categories",
+   "start": 68,
+   "end": 76,
+   "sections": [
+    {
+     "title": "Subcategories, products, quotients",
+     "start": 68,
+     "end": 70,
+     "summary": "Subcategories, products, quotients.",
+     "terms": [
+      "subcategory",
+      "product category",
+      "quotient category"
+     ]
+    },
+    {
+     "title": "Duality",
+     "start": 71,
+     "end": 72,
+     "summary": "Opposites and duality.",
+     "terms": [
+      "duality",
+      "opposite category"
+     ]
+    },
+    {
+     "title": "Slice categories",
+     "start": 73,
+     "end": 74,
+     "summary": "Slices.",
+     "terms": [
+      "slice category"
+     ]
+    },
+    {
+     "title": "Arrow categories, and categories of variable sets",
+     "start": 75,
+     "end": 76,
+     "summary": "Arrow categories and variable sets.",
+     "terms": [
+      "arrow category"
+     ]
+    }
+   ],
+   "summary": "Constructing new categories."
+  },
+  {
+   "title": "Kinds of arrows",
+   "start": 77,
+   "end": 90,
+   "sections": [
+    {
+     "title": "Monomorphisms, epimorphisms",
+     "start": 77,
+     "end": 79,
+     "summary": "Monomorphisms and epimorphisms.",
+     "terms": [
+      "monomorphism",
+      "epimorphism"
+     ]
+    },
+    {
+     "title": "Inverses",
+     "start": 80,
+     "end": 82,
+     "summary": "Sections and retractions.",
+     "terms": [
+      "inverse",
+      "section",
+      "retraction"
+     ]
+    },
+    {
+     "title": "Some more \u2013 less memorable? \u2013 terminology",
+     "start": 83,
+     "end": 83,
+     "summary": "Split monos/epis and more terms.",
+     "terms": [
+      "split mono",
+      "bimorphism"
+     ]
+    },
+    {
+     "title": "Isomorphisms",
+     "start": 84,
+     "end": 86,
+     "summary": "Isomorphisms.",
+     "terms": [
+      "isomorphism"
+     ]
+    },
+    {
+     "title": "Isomorphic objects",
+     "start": 87,
+     "end": 87,
+     "summary": "Isomorphic objects.",
+     "terms": [
+      "isomorphic objects"
+     ]
+    },
+    {
+     "title": "A couple more theorems",
+     "start": 88,
+     "end": 89,
+     "summary": "Further theorems.",
+     "terms": [
+      "theorems"
+     ]
+    },
+    {
+     "title": "Groups as categories, and groupoids",
+     "start": 90,
+     "end": 90,
+     "summary": "Groups and groupoids as categories.",
+     "terms": [
+      "groupoid"
+     ]
+    }
+   ],
+   "summary": "Monos, epis, isos and friends."
+  },
+  {
+   "title": "Initial and terminal objects",
+   "start": 91,
+   "end": 98,
+   "sections": [
+    {
+     "title": "Initial and terminal defined",
+     "start": 91,
+     "end": 93,
+     "summary": "Definitions.",
+     "terms": [
+      "initial",
+      "terminal object"
+     ]
+    },
+    {
+     "title": "Uniqueness up to unique isomorphism",
+     "start": 94,
+     "end": 94,
+     "summary": "Uniqueness up to unique isomorphism.",
+     "terms": [
+      "uniqueness"
+     ]
+    },
+    {
+     "title": "Elements",
+     "start": 95,
+     "end": 95,
+     "summary": "Elements as arrows from 1.",
+     "terms": [
+      "global elements"
+     ]
+    },
+    {
+     "title": "Separators and well-pointed categories",
+     "start": 96,
+     "end": 96,
+     "summary": "Separators and well-pointedness.",
+     "terms": [
+      "separator",
+      "well-pointed"
+     ]
+    },
+    {
+     "title": "`Generalized elements'",
+     "start": 97,
+     "end": 97,
+     "summary": "Generalized elements.",
+     "terms": [
+      "generalized elements"
+     ]
+    },
+    {
+     "title": "`And what about arrows to 0?'",
+     "start": 98,
+     "end": 98,
+     "summary": "Arrows into 0.",
+     "terms": [
+      "initial object"
+     ]
+    }
+   ],
+   "summary": "Initial and terminal objects."
+  },
+  {
+   "title": "Pairs and products, pre-categorially",
+   "start": 99,
+   "end": 105,
+   "sections": [
+    {
+     "title": "Ways of pairing numbers",
+     "start": 99,
+     "end": 100,
+     "summary": "Pairing numbers.",
+     "terms": [
+      "pairing functions"
+     ]
+    },
+    {
+     "title": "Pairing schemes more generally",
+     "start": 101,
+     "end": 103,
+     "summary": "Pairing schemes.",
+     "terms": [
+      "pairing schemes"
+     ]
+    },
+    {
+     "title": "Defining products, pre-categorially",
+     "start": 104,
+     "end": 105,
+     "summary": "Products defined by pairing.",
+     "terms": [
+      "product"
+     ]
+    }
+   ],
+   "summary": "Products before category theory."
+  },
+  {
+   "title": "Categorial products and coproducts",
+   "start": 106,
+   "end": 118,
+   "sections": [
+    {
+     "title": "Products defined categorially",
+     "start": 106,
+     "end": 107,
+     "summary": "The universal property.",
+     "terms": [
+      "product",
+      "universal property"
+     ]
+    },
+    {
+     "title": "Examples",
+     "start": 108,
+     "end": 109,
+     "summary": "Examples.",
+     "terms": [
+      "examples"
+     ]
+    },
+    {
+     "title": "Products as terminal objects",
+     "start": 110,
+     "end": 111,
+     "summary": "Products as terminal cones.",
+     "terms": [
+      "terminal object"
+     ]
+    },
+    {
+     "title": "Uniqueness up to unique isomorphism",
+     "start": 112,
+     "end": 113,
+     "summary": "Uniqueness.",
+     "terms": [
+      "uniqueness"
+     ]
+    },
+    {
+     "title": "Notation for mediating arrows",
+     "start": 114,
+     "end": 114,
+     "summary": "Mediating-arrow notation.",
+     "terms": [
+      "mediating arrow"
+     ]
+    },
+    {
+     "title": "Two general comments",
+     "start": 115,
+     "end": 115,
+     "summary": "Comments.",
+     "terms": [
+      "remarks"
+     ]
+    },
+    {
+     "title": "Coproducts",
+     "start": 115,
+     "end": 118,
+     "summary": "Coproducts.",
+     "terms": [
+      "coproduct"
+     ]
+    }
+   ],
+   "summary": "Products and coproducts categorially."
+  },
+  {
+   "title": "Products more generally",
+   "start": 119,
+   "end": 121,
+   "sections": [
+    {
+     "title": "Ternary products",
+     "start": 119,
+     "end": 119,
+     "summary": "Ternary.",
+     "terms": [
+      "ternary products"
+     ]
+    },
+    {
+     "title": "More finite products",
+     "start": 120,
+     "end": 120,
+     "summary": "Finite.",
+     "terms": [
+      "finite products"
+     ]
+    },
+    {
+     "title": "Infinite products",
+     "start": 121,
+     "end": 121,
+     "summary": "Infinite.",
+     "terms": [
+      "infinite products"
+     ]
+    }
+   ],
+   "summary": "n-ary and infinite products."
+  },
+  {
+   "title": "Binary products explored",
+   "start": 122,
+   "end": 130,
+   "sections": [
+    {
+     "title": "Four simple theorems, and a non-theorem",
+     "start": 123,
+     "end": 125,
+     "summary": "Basic theorems and a non-theorem.",
+     "terms": [
+      "product theorems"
+     ]
+    },
+    {
+     "title": "Two more theorems on mediating arrows",
+     "start": 126,
+     "end": 126,
+     "summary": "Mediating-arrow theorems.",
+     "terms": [
+      "mediating arrows"
+     ]
+    },
+    {
+     "title": "Products in Set/X.",
+     "start": 127,
+     "end": 127,
+     "summary": "Products in slices.",
+     "terms": [
+      "slice category"
+     ]
+    },
+    {
+     "title": "Arrows between two products",
+     "start": 128,
+     "end": 130,
+     "summary": "Arrows between products.",
+     "terms": [
+      "product of arrows"
+     ]
+    }
+   ],
+   "summary": "Theorems about binary products."
+  },
+  {
+   "title": "Groups in categories",
+   "start": 131,
+   "end": 136,
+   "sections": [
+    {
+     "title": "Instead of binary functions",
+     "start": 131,
+     "end": 131,
+     "summary": "Arrows instead of binary functions.",
+     "terms": [
+      "group object"
+     ]
+    },
+    {
+     "title": "Internal groups in Set, Top and Man",
+     "start": 132,
+     "end": 133,
+     "summary": "Groups in Set, Top and Man.",
+     "terms": [
+      "topological groups",
+      "Lie groups"
+     ]
+    },
+    {
+     "title": "Groups in Grp",
+     "start": 134,
+     "end": 135,
+     "summary": "Groups in Grp (abelian).",
+     "terms": [
+      "Eckmann-Hilton"
+     ]
+    },
+    {
+     "title": "The story continues \u2026",
+     "start": 136,
+     "end": 136,
+     "summary": "Outlook.",
+     "terms": [
+      "outlook"
+     ]
+    }
+   ],
+   "summary": "Internal group objects."
+  },
+  {
+   "title": "Quotients, pre-categorially",
+   "start": 137,
+   "end": 141,
+   "sections": [
+    {
+     "title": "Equivalence relations",
+     "start": 137,
+     "end": 138,
+     "summary": "Equivalence relations.",
+     "terms": [
+      "equivalence relation"
+     ]
+    },
+    {
+     "title": "Quotient schemes again",
+     "start": 139,
+     "end": 140,
+     "summary": "Quotient schemes.",
+     "terms": [
+      "quotient"
+     ]
+    },
+    {
+     "title": "A key result about quotients to carry forward",
+     "start": 141,
+     "end": 141,
+     "summary": "A key result.",
+     "terms": [
+      "universal property"
+     ]
+    }
+   ],
+   "summary": "Quotients before category theory."
+  },
+  {
+   "title": "Equalizers and co-equalizers",
+   "start": 142,
+   "end": 150,
+   "sections": [
+    {
+     "title": "Forks and equalizers defined",
+     "start": 142,
+     "end": 142,
+     "summary": "Forks and equalizers.",
+     "terms": [
+      "equalizer"
+     ]
+    },
+    {
+     "title": "Examples of equalizers",
+     "start": 143,
+     "end": 144,
+     "summary": "Examples.",
+     "terms": [
+      "examples"
+     ]
+    },
+    {
+     "title": "Uniqueness up to unique isomorphism",
+     "start": 145,
+     "end": 146,
+     "summary": "Uniqueness.",
+     "terms": [
+      "uniqueness"
+     ]
+    },
+    {
+     "title": "Co-forks and co-equalizers defined",
+     "start": 149,
+     "end": 149,
+     "summary": "Coforks and coequalizers.",
+     "terms": [
+      "coequalizer"
+     ]
+    },
+    {
+     "title": "Examples of co-equalizers",
+     "start": 150,
+     "end": 150,
+     "summary": "Examples.",
+     "terms": [
+      "examples"
+     ]
+    }
+   ],
+   "summary": "Equalizers and coequalizers."
+  },
+  {
+   "title": "Exponentials",
+   "start": 151,
+   "end": 159,
+   "sections": [
+    {
+     "title": "Instead of binary functions, again",
+     "start": 151,
+     "end": 152,
+     "summary": "Currying motivation.",
+     "terms": [
+      "currying"
+     ]
+    },
+    {
+     "title": "Exponentials in categories",
+     "start": 153,
+     "end": 153,
+     "summary": "Exponentials defined.",
+     "terms": [
+      "exponential"
+     ]
+    },
+    {
+     "title": "Some categories with exponentials",
+     "start": 153,
+     "end": 154,
+     "summary": "Examples.",
+     "terms": [
+      "Set",
+      "Pos"
+     ]
+    },
+    {
+     "title": "Another example of a category with exponentials",
+     "start": 155,
+     "end": 155,
+     "summary": "Another example.",
+     "terms": [
+      "example"
+     ]
+    },
+    {
+     "title": "Uniqueness up to unique isomorphism",
+     "start": 156,
+     "end": 156,
+     "summary": "Uniqueness.",
+     "terms": [
+      "uniqueness"
+     ]
+    },
+    {
+     "title": "Further general results about exponentials",
+     "start": 157,
+     "end": 158,
+     "summary": "General results.",
+     "terms": [
+      "results"
+     ]
+    },
+    {
+     "title": "`And what is the dual construction?'",
+     "start": 159,
+     "end": 159,
+     "summary": "The dual.",
+     "terms": [
+      "co-exponential"
+     ]
+    }
+   ],
+   "summary": "Exponential objects."
+  },
+  {
+   "title": "Cartesian closed categories",
+   "start": 160,
+   "end": 164,
+   "sections": [
+    {
+     "title": "A definition and some initial results",
+     "start": 160,
+     "end": 161,
+     "summary": "Definition and first results.",
+     "terms": [
+      "cartesian closed category"
+     ]
+    },
+    {
+     "title": "Degeneracy",
+     "start": 163,
+     "end": 164,
+     "summary": "Degenerate CCCs.",
+     "terms": [
+      "degeneracy"
+     ]
+    }
+   ],
+   "summary": "Cartesian closed categories."
+  },
+  {
+   "title": "Limits and colimits defined",
+   "start": 165,
+   "end": 174,
+   "sections": [
+    {
+     "title": "Cones over diagrams",
+     "start": 165,
+     "end": 166,
+     "summary": "Cones over diagrams.",
+     "terms": [
+      "cone"
+     ]
+    },
+    {
+     "title": "Limits",
+     "start": 167,
+     "end": 167,
+     "summary": "Limits.",
+     "terms": [
+      "limit"
+     ]
+    },
+    {
+     "title": "Uniqueness up to unique isomorphism",
+     "start": 168,
+     "end": 169,
+     "summary": "Uniqueness.",
+     "terms": [
+      "uniqueness"
+     ]
+    },
+    {
+     "title": "Cocones and colimits",
+     "start": 173,
+     "end": 174,
+     "summary": "Cocones and colimits.",
+     "terms": [
+      "colimit"
+     ]
+    }
+   ],
+   "summary": "Limits and colimits."
+  },
+  {
+   "title": "Pullbacks and pushouts",
+   "start": 175,
+   "end": 187,
+   "sections": [
+    {
+     "title": "Pullbacks defined",
+     "start": 175,
+     "end": 175,
+     "summary": "Pullbacks defined.",
+     "terms": [
+      "pullback"
+     ]
+    },
+    {
+     "title": "Examples",
+     "start": 176,
+     "end": 178,
+     "summary": "Examples.",
+     "terms": [
+      "examples"
+     ]
+    },
+    {
+     "title": "More on pullbacks and products",
+     "start": 179,
+     "end": 179,
+     "summary": "Pullbacks and products.",
+     "terms": [
+      "products"
+     ]
+    },
+    {
+     "title": "Pullbacks, monos, equalizers",
+     "start": 180,
+     "end": 181,
+     "summary": "Pullbacks, monos and equalizers.",
+     "terms": [
+      "monos",
+      "equalizers"
+     ]
+    },
+    {
+     "title": "Pushouts",
+     "start": 185,
+     "end": 187,
+     "summary": "Pushouts.",
+     "terms": [
+      "pushout"
+     ]
+    }
+   ],
+   "summary": "Pullbacks and pushouts."
+  },
+  {
+   "title": "The existence of limits",
+   "start": 188,
+   "end": 196,
+   "sections": [
+    {
+     "title": "The key theorems stated",
+     "start": 188,
+     "end": 188,
+     "summary": "The completeness theorems.",
+     "terms": [
+      "finite completeness"
+     ]
+    },
+    {
+     "title": "Products plus equalizers imply pullbacks",
+     "start": 189,
+     "end": 190,
+     "summary": "Pullbacks from products and equalizers.",
+     "terms": [
+      "pullbacks"
+     ]
+    },
+    {
+     "title": "Deriving the finite completeness theorem",
+     "start": 191,
+     "end": 193,
+     "summary": "Finite completeness.",
+     "terms": [
+      "finite limits"
+     ]
+    },
+    {
+     "title": "Deriving the variant completeness theorem",
+     "start": 194,
+     "end": 194,
+     "summary": "A variant.",
+     "terms": [
+      "variant"
+     ]
+    },
+    {
+     "title": "Infinite limits",
+     "start": 195,
+     "end": 195,
+     "summary": "Infinite limits.",
+     "terms": [
+      "infinite limits"
+     ]
+    },
+    {
+     "title": "Dualizing again",
+     "start": 196,
+     "end": 196,
+     "summary": "Duals.",
+     "terms": [
+      "cocompleteness"
+     ]
+    }
+   ],
+   "summary": "When do all limits exist?"
+  },
+  {
+   "title": "Subobjects",
+   "start": 197,
+   "end": 203,
+   "sections": [
+    {
+     "title": "Subsets revisited",
+     "start": 197,
+     "end": 197,
+     "summary": "Subsets revisited.",
+     "terms": [
+      "subsets"
+     ]
+    },
+    {
+     "title": "Subobjects and monic arrows",
+     "start": 198,
+     "end": 199,
+     "summary": "Subobjects as classes of monos.",
+     "terms": [
+      "subobject",
+      "monic"
+     ]
+    },
+    {
+     "title": "Ordering subobjects",
+     "start": 200,
+     "end": 200,
+     "summary": "Ordering.",
+     "terms": [
+      "order"
+     ]
+    },
+    {
+     "title": "How many subobjects?",
+     "start": 201,
+     "end": 201,
+     "summary": "Counting subobjects.",
+     "terms": [
+      "size"
+     ]
+    },
+    {
+     "title": "Another way of thinking of subobjects?",
+     "start": 202,
+     "end": 202,
+     "summary": "Alternative views.",
+     "terms": [
+      "alternatives"
+     ]
+    },
+    {
+     "title": "Images",
+     "start": 203,
+     "end": 203,
+     "summary": "Images.",
+     "terms": [
+      "image"
+     ]
+    }
+   ],
+   "summary": "Subobjects."
+  },
+  {
+   "title": "Subobject classifiers",
+   "start": 204,
+   "end": 217,
+   "sections": [
+    {
+     "title": "Motivation",
+     "start": 204,
+     "end": 205,
+     "summary": "Motivation from characteristic functions.",
+     "terms": [
+      "characteristic function"
+     ]
+    },
+    {
+     "title": "Defining a subobject classifier (\u03a9, \u22a4)",
+     "start": 206,
+     "end": 206,
+     "summary": "Defining (\u03a9, \u22a4).",
+     "terms": [
+      "subobject classifier",
+      "Omega"
+     ]
+    },
+    {
+     "title": "\u22a4, \u22a5, and \u00ac",
+     "start": 206,
+     "end": 207,
+     "summary": "\u22a4, \u22a5 and \u00ac.",
+     "terms": [
+      "true",
+      "false",
+      "negation"
+     ]
+    },
+    {
+     "title": "An instructive example",
+     "start": 208,
+     "end": 209,
+     "summary": "An example.",
+     "terms": [
+      "example"
+     ]
+    },
+    {
+     "title": "Four general theorems about subobject classifiers",
+     "start": 210,
+     "end": 212,
+     "summary": "General theorems.",
+     "terms": [
+      "theorems"
+     ]
+    },
+    {
+     "title": "Another way of looking at subobject classifiers",
+     "start": 213,
+     "end": 213,
+     "summary": "Another view.",
+     "terms": [
+      "power objects"
+     ]
+    },
+    {
+     "title": "Which categories have subobject classifiers?",
+     "start": 213,
+     "end": 213,
+     "summary": "Which categories have them.",
+     "terms": [
+      "existence"
+     ]
+    },
+    {
+     "title": "A digression on duals",
+     "start": 214,
+     "end": 214,
+     "summary": "Duals.",
+     "terms": [
+      "duals"
+     ]
+    },
+    {
+     "title": "Another example?",
+     "start": 214,
+     "end": 217,
+     "summary": "Another example.",
+     "terms": [
+      "example"
+     ]
+    }
+   ],
+   "summary": "Subobject classifiers."
+  },
+  {
+   "title": "Functors introduced",
+   "start": 220,
+   "end": 231,
+   "sections": [
+    {
+     "title": "Functors defined",
+     "start": 220,
+     "end": 221,
+     "summary": "Definition.",
+     "terms": [
+      "functor"
+     ]
+    },
+    {
+     "title": "Some elementary examples of functors",
+     "start": 222,
+     "end": 224,
+     "summary": "Elementary examples.",
+     "terms": [
+      "examples"
+     ]
+    },
+    {
+     "title": "Three endofunctors",
+     "start": 225,
+     "end": 226,
+     "summary": "Endofunctors.",
+     "terms": [
+      "endofunctor"
+     ]
+    },
+    {
+     "title": "Another functor involving products",
+     "start": 227,
+     "end": 227,
+     "summary": "A product functor.",
+     "terms": [
+      "product functor"
+     ]
+    },
+    {
+     "title": "A functor from Set to Mon",
+     "start": 228,
+     "end": 228,
+     "summary": "Free monoid functor.",
+     "terms": [
+      "free monoid"
+     ]
+    },
+    {
+     "title": "Contravariance",
+     "start": 229,
+     "end": 229,
+     "summary": "Contravariance.",
+     "terms": [
+      "contravariant functor"
+     ]
+    },
+    {
+     "title": "Functors and opposite categories",
+     "start": 230,
+     "end": 231,
+     "summary": "Opposites.",
+     "terms": [
+      "opposite"
+     ]
+    }
+   ],
+   "summary": "Functors."
+  },
+  {
+   "title": "What functors can do",
+   "start": 232,
+   "end": 240,
+   "sections": [
+    {
+     "title": "Images assembled by a functor needn't be categories",
+     "start": 232,
+     "end": 232,
+     "summary": "Functor images.",
+     "terms": [
+      "image of functor"
+     ]
+    },
+    {
+     "title": "Preserving and reflecting",
+     "start": 232,
+     "end": 233,
+     "summary": "Preserving and reflecting.",
+     "terms": [
+      "preserve",
+      "reflect"
+     ]
+    },
+    {
+     "title": "Faithful, full, and essentially surjective functors",
+     "start": 234,
+     "end": 236,
+     "summary": "Faithful, full, essentially surjective.",
+     "terms": [
+      "faithful",
+      "full",
+      "essentially surjective"
+     ]
+    },
+    {
+     "title": "An example from topology",
+     "start": 237,
+     "end": 238,
+     "summary": "A topology example.",
+     "terms": [
+      "topology"
+     ]
+    },
+    {
+     "title": "An afterword on the idea of concrete categories",
+     "start": 239,
+     "end": 240,
+     "summary": "Concrete categories.",
+     "terms": [
+      "concrete category"
+     ]
+    }
+   ],
+   "summary": "Properties of functors."
+  },
+  {
+   "title": "Functors, diagrams, and limits",
+   "start": 241,
+   "end": 247,
+   "sections": [
+    {
+     "title": "Diagrams redefined as functors",
+     "start": 241,
+     "end": 243,
+     "summary": "Diagrams as functors.",
+     "terms": [
+      "diagram as functor"
+     ]
+    },
+    {
+     "title": "Preserving limits",
+     "start": 244,
+     "end": 244,
+     "summary": "Preservation.",
+     "terms": [
+      "limit preservation"
+     ]
+    },
+    {
+     "title": "A limit preservation theorem",
+     "start": 245,
+     "end": 245,
+     "summary": "A preservation theorem.",
+     "terms": [
+      "theorem"
+     ]
+    },
+    {
+     "title": "Reflecting limits",
+     "start": 246,
+     "end": 247,
+     "summary": "Reflection.",
+     "terms": [
+      "limit reflection"
+     ]
+    }
+   ],
+   "summary": "Functors and limits."
+  },
+  {
+   "title": "Functors and comma categories",
+   "start": 248,
+   "end": 253,
+   "sections": [
+    {
+     "title": "Comma categories defined",
+     "start": 248,
+     "end": 249,
+     "summary": "Definition.",
+     "terms": [
+      "comma category"
+     ]
+    },
+    {
+     "title": "Three types of comma category",
+     "start": 250,
+     "end": 252,
+     "summary": "Slices, coslices and arrow categories as cases.",
+     "terms": [
+      "slice",
+      "coslice"
+     ]
+    },
+    {
+     "title": "An application: free monoids again",
+     "start": 253,
+     "end": 253,
+     "summary": "Free monoids again.",
+     "terms": [
+      "free monoid"
+     ]
+    }
+   ],
+   "summary": "Comma categories."
+  },
+  {
+   "title": "Hom-sets (and some matters of size)",
+   "start": 254,
+   "end": 259,
+   "sections": [
+    {
+     "title": "Defining categories again",
+     "start": 254,
+     "end": 256,
+     "summary": "Hom-set-based definition.",
+     "terms": [
+      "hom-set"
+     ]
+    },
+    {
+     "title": "Where do hom-sets live?",
+     "start": 257,
+     "end": 257,
+     "summary": "Where hom-sets live.",
+     "terms": [
+      "size"
+     ]
+    },
+    {
+     "title": "Hom-sets, officially?",
+     "start": 258,
+     "end": 259,
+     "summary": "Local smallness.",
+     "terms": [
+      "locally small"
+     ]
+    }
+   ],
+   "summary": "Hom-sets and size."
+  },
+  {
+   "title": "Hom-functors",
+   "start": 260,
+   "end": 264,
+   "sections": [
+    {
+     "title": "Two kinds of hom-functors",
+     "start": 260,
+     "end": 261,
+     "summary": "Covariant and contravariant.",
+     "terms": [
+      "hom-functor"
+     ]
+    },
+    {
+     "title": "Points of view",
+     "start": 262,
+     "end": 262,
+     "summary": "Viewpoints.",
+     "terms": [
+      "viewpoints"
+     ]
+    },
+    {
+     "title": "Covariant hom-functors preserve limits",
+     "start": 262,
+     "end": 263,
+     "summary": "Hom-functors preserve limits.",
+     "terms": [
+      "limit preservation"
+     ]
+    },
+    {
+     "title": "A dual result?",
+     "start": 264,
+     "end": 264,
+     "summary": "The dual.",
+     "terms": [
+      "dual"
+     ]
+    }
+   ],
+   "summary": "Hom-functors."
+  },
+  {
+   "title": "Natural isomorphisms",
+   "start": 265,
+   "end": 282,
+   "sections": [
+    {
+     "title": "Natural isomorphisms between functors defined",
+     "start": 265,
+     "end": 266,
+     "summary": "Definition.",
+     "terms": [
+      "natural isomorphism"
+     ]
+    },
+    {
+     "title": "Some basic properties",
+     "start": 267,
+     "end": 268,
+     "summary": "Properties.",
+     "terms": [
+      "properties"
+     ]
+    },
+    {
+     "title": "Why `natural'?",
+     "start": 269,
+     "end": 271,
+     "summary": "Why natural.",
+     "terms": [
+      "naturality"
+     ]
+    },
+    {
+     "title": "More examples of natural isomorphisms",
+     "start": 272,
+     "end": 275,
+     "summary": "Examples.",
+     "terms": [
+      "examples"
+     ]
+    },
+    {
+     "title": "Another basic property of isomorphic functors",
+     "start": 276,
+     "end": 277,
+     "summary": "Further property.",
+     "terms": [
+      "property"
+     ]
+    },
+    {
+     "title": "Unnatural and natural isomorphisms between objects",
+     "start": 278,
+     "end": 280,
+     "summary": "Natural vs. unnatural isomorphisms.",
+     "terms": [
+      "double dual"
+     ]
+    },
+    {
+     "title": "An `Eilenberg/Mac Lane Thesis'?",
+     "start": 281,
+     "end": 282,
+     "summary": "An Eilenberg\u2013Mac Lane thesis.",
+     "terms": [
+      "Eilenberg-Mac Lane"
+     ]
+    }
+   ],
+   "summary": "Natural isomorphisms."
+  },
+  {
+   "title": "Natural transformations",
+   "start": 283,
+   "end": 292,
+   "sections": [
+    {
+     "title": "Natural transformations defined",
+     "start": 283,
+     "end": 284,
+     "summary": "Definition.",
+     "terms": [
+      "natural transformation"
+     ]
+    },
+    {
+     "title": "Some examples",
+     "start": 285,
+     "end": 287,
+     "summary": "Examples.",
+     "terms": [
+      "examples"
+     ]
+    },
+    {
+     "title": "Horizontal composition of natural transformations",
+     "start": 288,
+     "end": 290,
+     "summary": "Horizontal composition.",
+     "terms": [
+      "horizontal composition"
+     ]
+    },
+    {
+     "title": "Cones as natural transformations",
+     "start": 291,
+     "end": 292,
+     "summary": "Cones as natural transformations.",
+     "terms": [
+      "cones"
+     ]
+    }
+   ],
+   "summary": "Natural transformations."
+  },
+  {
+   "title": "Isomorphic categories, equivalent categories",
+   "start": 293,
+   "end": 304,
+   "sections": [
+    {
+     "title": "Isomorphic categories",
+     "start": 293,
+     "end": 294,
+     "summary": "Isomorphic categories.",
+     "terms": [
+      "isomorphic categories"
+     ]
+    },
+    {
+     "title": "Intuitively equivalent but non-isomorphic categories",
+     "start": 295,
+     "end": 297,
+     "summary": "Equivalent but non-isomorphic.",
+     "terms": [
+      "equivalence examples"
+     ]
+    },
+    {
+     "title": "Equivalent categories",
+     "start": 298,
+     "end": 300,
+     "summary": "Equivalence defined.",
+     "terms": [
+      "equivalence of categories"
+     ]
+    },
+    {
+     "title": "Why equivalence is the categorially nicer notion",
+     "start": 301,
+     "end": 301,
+     "summary": "Why equivalence is better.",
+     "terms": [
+      "principle of equivalence"
+     ]
+    },
+    {
+     "title": "Skeletons and evil",
+     "start": 302,
+     "end": 304,
+     "summary": "Skeletons and \u201cevil\u201d.",
+     "terms": [
+      "skeleton",
+      "evil"
+     ]
+    }
+   ],
+   "summary": "Isomorphism vs. equivalence of categories."
+  },
+  {
+   "title": "Categories of categories",
+   "start": 305,
+   "end": 308,
+   "sections": [
+    {
+     "title": "A definition, and some tame categories of categories",
+     "start": 305,
+     "end": 305,
+     "summary": "Definitions and examples.",
+     "terms": [
+      "Cat"
+     ]
+    },
+    {
+     "title": "A universal category?",
+     "start": 306,
+     "end": 306,
+     "summary": "A universal category?",
+     "terms": [
+      "universal category"
+     ]
+    },
+    {
+     "title": "Cat, CAT and CAT?",
+     "start": 307,
+     "end": 308,
+     "summary": "Cat vs. CAT.",
+     "terms": [
+      "size",
+      "CAT"
+     ]
+    }
+   ],
+   "summary": "Categories of categories."
+  },
+  {
+   "title": "Functor categories",
+   "start": 309,
+   "end": 316,
+   "sections": [
+    {
+     "title": "Functor categories officially defined",
+     "start": 309,
+     "end": 309,
+     "summary": "Definition.",
+     "terms": [
+      "functor category"
+     ]
+    },
+    {
+     "title": "Four simple examples",
+     "start": 310,
+     "end": 311,
+     "summary": "Examples.",
+     "terms": [
+      "examples"
+     ]
+    },
+    {
+     "title": "Hom-functors from functor categories",
+     "start": 312,
+     "end": 313,
+     "summary": "Hom-functors on functor categories.",
+     "terms": [
+      "hom-functors"
+     ]
+    },
+    {
+     "title": "Categories of diagrams and limit functors",
+     "start": 314,
+     "end": 316,
+     "summary": "Diagram categories and limit functors.",
+     "terms": [
+      "limit functor"
+     ]
+    }
+   ],
+   "summary": "Functor categories."
+  },
+  {
+   "title": "The Yoneda Embedding",
+   "start": 317,
+   "end": 328,
+   "sections": [
+    {
+     "title": "Natural transformations between hom-functors",
+     "start": 317,
+     "end": 320,
+     "summary": "Natural transformations between hom-functors.",
+     "terms": [
+      "hom-functors"
+     ]
+    },
+    {
+     "title": "The Restricted Yoneda Lemma",
+     "start": 321,
+     "end": 321,
+     "summary": "A restricted Yoneda lemma.",
+     "terms": [
+      "restricted Yoneda"
+     ]
+    },
+    {
+     "title": "The Yoneda Embedding, the Yoneda Principle",
+     "start": 322,
+     "end": 324,
+     "summary": "Embedding and Yoneda principle.",
+     "terms": [
+      "Yoneda embedding",
+      "Yoneda principle"
+     ]
+    },
+    {
+     "title": "Yoneda meets Cayley",
+     "start": 325,
+     "end": 325,
+     "summary": "Cayley\u2019s theorem.",
+     "terms": [
+      "Cayley theorem"
+     ]
+    },
+    {
+     "title": "Putting the Yoneda Principle to work",
+     "start": 326,
+     "end": 326,
+     "summary": "Applying the principle.",
+     "terms": [
+      "applications"
+     ]
+    },
+    {
+     "title": "``Friendship is everything''",
+     "start": 327,
+     "end": 328,
+     "summary": "\u201cFriendship is everything\u201d.",
+     "terms": [
+      "relational view"
+     ]
+    }
+   ],
+   "summary": "The Yoneda embedding."
+  },
+  {
+   "title": "The Yoneda Lemma",
+   "start": 329,
+   "end": 335,
+   "sections": [
+    {
+     "title": "Onwards to the full Yoneda Lemma!",
+     "start": 329,
+     "end": 329,
+     "summary": "Generalizing.",
+     "terms": [
+      "Yoneda lemma"
+     ]
+    },
+    {
+     "title": "The generalizing move",
+     "start": 330,
+     "end": 331,
+     "summary": "The key move.",
+     "terms": [
+      "generalization"
+     ]
+    },
+    {
+     "title": "Making it all natural",
+     "start": 332,
+     "end": 334,
+     "summary": "Naturality.",
+     "terms": [
+      "naturality"
+     ]
+    },
+    {
+     "title": "Putting everything together",
+     "start": 335,
+     "end": 335,
+     "summary": "Assembling the proof.",
+     "terms": [
+      "proof"
+     ]
+    }
+   ],
+   "summary": "The full Yoneda lemma."
+  },
+  {
+   "title": "Representables and universal elements",
+   "start": 336,
+   "end": 346,
+   "sections": [
+    {
+     "title": "Representable functors",
+     "start": 336,
+     "end": 336,
+     "summary": "Representables.",
+     "terms": [
+      "representable functor"
+     ]
+    },
+    {
+     "title": "Two elementary examples",
+     "start": 337,
+     "end": 338,
+     "summary": "Simple examples.",
+     "terms": [
+      "examples"
+     ]
+    },
+    {
+     "title": "More examples of representables",
+     "start": 339,
+     "end": 341,
+     "summary": "More examples.",
+     "terms": [
+      "examples"
+     ]
+    },
+    {
+     "title": "Universal elements",
+     "start": 342,
+     "end": 343,
+     "summary": "Universal elements.",
+     "terms": [
+      "universal element"
+     ]
+    },
+    {
+     "title": "Limits and exponentials as universal elements",
+     "start": 344,
+     "end": 346,
+     "summary": "Limits and exponentials as universal elements.",
+     "terms": [
+      "limits",
+      "exponentials"
+     ]
+    }
+   ],
+   "summary": "Representable functors and universal elements."
+  },
+  {
+   "title": "Galois connections",
+   "start": 347,
+   "end": 358,
+   "sections": [
+    {
+     "title": "Posets: some probably unnecessary reminders",
+     "start": 347,
+     "end": 347,
+     "summary": "Posets reminder.",
+     "terms": [
+      "posets"
+     ]
+    },
+    {
+     "title": "A first example of a Galois connection",
+     "start": 348,
+     "end": 349,
+     "summary": "A first example.",
+     "terms": [
+      "example"
+     ]
+    },
+    {
+     "title": "Galois connections defined",
+     "start": 350,
+     "end": 352,
+     "summary": "Definition.",
+     "terms": [
+      "Galois connection"
+     ]
+    },
+    {
+     "title": "Galois connections re-defined",
+     "start": 353,
+     "end": 353,
+     "summary": "Alternative definition.",
+     "terms": [
+      "alternative definition"
+     ]
+    },
+    {
+     "title": "Some basic results about Galois connections",
+     "start": 354,
+     "end": 355,
+     "summary": "Basic results.",
+     "terms": [
+      "results"
+     ]
+    },
+    {
+     "title": "Isomorphisms and closures",
+     "start": 356,
+     "end": 356,
+     "summary": "Closures.",
+     "terms": [
+      "closure operators"
+     ]
+    },
+    {
+     "title": "Syntax and semantics briefly revisited",
+     "start": 357,
+     "end": 358,
+     "summary": "Syntax and semantics.",
+     "terms": [
+      "syntax-semantics duality"
+     ]
+    }
+   ],
+   "summary": "Galois connections as adjunctions between posets."
+  },
+  {
+   "title": "Adjunctions introduced",
+   "start": 359,
+   "end": 371,
+   "sections": [
+    {
+     "title": "Adjoint functors: a first definition",
+     "start": 359,
+     "end": 360,
+     "summary": "First definition.",
+     "terms": [
+      "adjunction"
+     ]
+    },
+    {
+     "title": "Examples",
+     "start": 361,
+     "end": 365,
+     "summary": "Examples.",
+     "terms": [
+      "free-forgetful",
+      "examples"
+     ]
+    },
+    {
+     "title": "Naturality",
+     "start": 366,
+     "end": 366,
+     "summary": "Naturality.",
+     "terms": [
+      "naturality"
+     ]
+    },
+    {
+     "title": "An alternative definition",
+     "start": 367,
+     "end": 369,
+     "summary": "Unit\u2013counit definition.",
+     "terms": [
+      "unit",
+      "counit"
+     ]
+    },
+    {
+     "title": "Isomorphism, equivalence, adjointness",
+     "start": 370,
+     "end": 371,
+     "summary": "Isomorphism, equivalence, adjointness.",
+     "terms": [
+      "equivalence"
+     ]
+    }
+   ],
+   "summary": "Adjunctions."
+  },
+  {
+   "title": "Five basic theorems",
+   "start": 372,
+   "end": 379,
+   "sections": [
+    {
+     "title": "Two definitions again",
+     "start": 372,
+     "end": 373,
+     "summary": "Definitions again.",
+     "terms": [
+      "definitions"
+     ]
+    },
+    {
+     "title": "Another definition?",
+     "start": 374,
+     "end": 374,
+     "summary": "Another definition.",
+     "terms": [
+      "universal arrows"
+     ]
+    },
+    {
+     "title": "Uniqueness and composition",
+     "start": 375,
+     "end": 376,
+     "summary": "Uniqueness and composition.",
+     "terms": [
+      "uniqueness",
+      "composition"
+     ]
+    },
+    {
+     "title": "Equivalences and adjunctions again",
+     "start": 377,
+     "end": 379,
+     "summary": "Equivalences as adjunctions.",
+     "terms": [
+      "adjoint equivalence"
+     ]
+    }
+   ],
+   "summary": "Basic theorems about adjoints."
+  },
+  {
+   "title": "Adjunctions explored",
+   "start": 380,
+   "end": 394,
+   "sections": [
+    {
+     "title": "Adjunctions and comma categories",
+     "start": 380,
+     "end": 382,
+     "summary": "Via comma categories.",
+     "terms": [
+      "comma categories"
+     ]
+    },
+    {
+     "title": "Adjunctions and fully faithful functors",
+     "start": 383,
+     "end": 384,
+     "summary": "And fully faithful functors.",
+     "terms": [
+      "reflective subcategory"
+     ]
+    },
+    {
+     "title": "Adjunctions and representables",
+     "start": 385,
+     "end": 385,
+     "summary": "And representables.",
+     "terms": [
+      "representables"
+     ]
+    },
+    {
+     "title": "Right adjoints preserve limits (`RAPL')",
+     "start": 386,
+     "end": 387,
+     "summary": "Right adjoints preserve limits.",
+     "terms": [
+      "RAPL"
+     ]
+    },
+    {
+     "title": "Limit (non)preservation: a few examples",
+     "start": 388,
+     "end": 389,
+     "summary": "Examples of (non)preservation.",
+     "terms": [
+      "examples"
+     ]
+    },
+    {
+     "title": "An afterword on monads",
+     "start": 390,
+     "end": 392,
+     "summary": "Monads, briefly.",
+     "terms": [
+      "monads"
+     ]
+    },
+    {
+     "title": "Further questions",
+     "start": 393,
+     "end": 394,
+     "summary": "Open questions.",
+     "terms": [
+      "further questions"
+     ]
+    }
+   ],
+   "summary": "Adjunctions further."
+  },
+  {
+   "title": "Toposes: defined, with examples",
+   "start": 396,
+   "end": 400,
+   "sections": [
+    {
+     "title": "Defining an elementary topos",
+     "start": 396,
+     "end": 396,
+     "summary": "Definition.",
+     "terms": [
+      "elementary topos"
+     ]
+    },
+    {
+     "title": "A note on our definition",
+     "start": 397,
+     "end": 397,
+     "summary": "Notes on the definition.",
+     "terms": [
+      "definition"
+     ]
+    },
+    {
+     "title": "A few initial examples",
+     "start": 397,
+     "end": 398,
+     "summary": "First examples.",
+     "terms": [
+      "Set",
+      "presheaves"
+     ]
+    },
+    {
+     "title": "Toposes beget toposes",
+     "start": 399,
+     "end": 400,
+     "summary": "Slices and other constructions.",
+     "terms": [
+      "slice topos"
+     ]
+    }
+   ],
+   "summary": "Elementary toposes."
+  },
+  {
+   "title": "Two useful facts about toposes",
+   "start": 401,
+   "end": 409,
+   "sections": [
+    {
+     "title": "Power objects",
+     "start": 401,
+     "end": 403,
+     "summary": "Power objects.",
+     "terms": [
+      "power object"
+     ]
+    },
+    {
+     "title": "Proving that Y is a power object for Y",
+     "start": 404,
+     "end": 405,
+     "summary": "Proof for a key case.",
+     "terms": [
+      "proof"
+     ]
+    },
+    {
+     "title": "Epi-mono factorization in a topos",
+     "start": 406,
+     "end": 409,
+     "summary": "Epi\u2013mono factorization.",
+     "terms": [
+      "epi-mono factorization"
+     ]
+    }
+   ],
+   "summary": "Power objects and factorization."
+  },
+  {
+   "title": "Natural numbers objects",
+   "start": 410,
+   "end": 419,
+   "sections": [
+    {
+     "title": "NNOs defined",
+     "start": 410,
+     "end": 412,
+     "summary": "Definition.",
+     "terms": [
+      "natural numbers object"
+     ]
+    },
+    {
+     "title": "Proving that a NNO has an infinite object",
+     "start": 413,
+     "end": 414,
+     "summary": "NNOs give infinite objects.",
+     "terms": [
+      "infinite object"
+     ]
+    },
+    {
+     "title": "The Dedekind-Peano postulates",
+     "start": 415,
+     "end": 415,
+     "summary": "Dedekind\u2013Peano axioms.",
+     "terms": [
+      "Peano axioms"
+     ]
+    },
+    {
+     "title": "Recursion",
+     "start": 416,
+     "end": 419,
+     "summary": "Recursion.",
+     "terms": [
+      "recursion"
+     ]
+    }
+   ],
+   "summary": "Natural numbers objects."
+  },
+  {
+   "title": "A very little logic in a topos",
+   "start": 420,
+   "end": 430,
+   "sections": [
+    {
+     "title": "Negation, conjunction, disjunction",
+     "start": 420,
+     "end": 422,
+     "summary": "Connective arrows.",
+     "terms": [
+      "negation",
+      "conjunction",
+      "disjunction"
+     ]
+    },
+    {
+     "title": "A conditional arrow",
+     "start": 423,
+     "end": 423,
+     "summary": "Implication.",
+     "terms": [
+      "implication"
+     ]
+    },
+    {
+     "title": "Some logical laws, but not double negation",
+     "start": 424,
+     "end": 425,
+     "summary": "Intuitionistic laws, no double negation elimination.",
+     "terms": [
+      "intuitionistic logic"
+     ]
+    },
+    {
+     "title": "Varieties of internal logic",
+     "start": 426,
+     "end": 427,
+     "summary": "Kinds of internal logic.",
+     "terms": [
+      "internal logic"
+     ]
+    }
+   ],
+   "summary": "Internal logic of a topos."
+  },
+  {
+   "title": "Subobjects, intersections, unions, etc.",
+   "start": 431,
+   "end": 443,
+   "sections": [
+    {
+     "title": "The intersection and union of subobjects defined",
+     "start": 431,
+     "end": 432,
+     "summary": "Intersections and unions.",
+     "terms": [
+      "intersection",
+      "union"
+     ]
+    },
+    {
+     "title": "Alternative definitions?",
+     "start": 433,
+     "end": 433,
+     "summary": "Alternatives.",
+     "terms": [
+      "alternatives"
+     ]
+    },
+    {
+     "title": "Intersections, unions, and order",
+     "start": 434,
+     "end": 434,
+     "summary": "Order.",
+     "terms": [
+      "lattice"
+     ]
+    },
+    {
+     "title": "Some more theorems about intersections and unions",
+     "start": 435,
+     "end": 436,
+     "summary": "More theorems.",
+     "terms": [
+      "theorems"
+     ]
+    },
+    {
+     "title": "Another construction on subobjects",
+     "start": 437,
+     "end": 437,
+     "summary": "Another construction.",
+     "terms": [
+      "construction"
+     ]
+    }
+   ],
+   "summary": "Operations on subobjects."
+  },
+  {
+   "title": "Complements of subobjects",
+   "start": 444,
+   "end": 452,
+   "sections": [
+    {
+     "title": "Complements: three definitions",
+     "start": 444,
+     "end": 445,
+     "summary": "Three definitions.",
+     "terms": [
+      "complement"
+     ]
+    },
+    {
+     "title": "Complements interrelated",
+     "start": 446,
+     "end": 446,
+     "summary": "Relations.",
+     "terms": [
+      "relations"
+     ]
+    },
+    {
+     "title": "Complements via \u22a4 and \u22a5",
+     "start": 447,
+     "end": 448,
+     "summary": "Complements via \u22a4 and \u22a5.",
+     "terms": [
+      "negation"
+     ]
+    },
+    {
+     "title": "Relative pseudo-complements",
+     "start": 449,
+     "end": 449,
+     "summary": "Relative pseudo-complements.",
+     "terms": [
+      "relative pseudo-complement"
+     ]
+    },
+    {
+     "title": "Lattices and their logics",
+     "start": 449,
+     "end": 452,
+     "summary": "Heyting and Boolean lattices.",
+     "terms": [
+      "Heyting algebra",
+      "Boolean algebra"
+     ]
+    }
+   ],
+   "summary": "Complements and pseudo-complements."
+  },
+  {
+   "title": "Well-pointed toposes",
+   "start": 453,
+   "end": 458,
+   "sections": [
+    {
+     "title": "Well-pointedness and its implications",
+     "start": 453,
+     "end": 454,
+     "summary": "Well-pointedness.",
+     "terms": [
+      "well-pointed topos"
+     ]
+    },
+    {
+     "title": "Members of subobjects",
+     "start": 455,
+     "end": 456,
+     "summary": "Members of subobjects.",
+     "terms": [
+      "members"
+     ]
+    },
+    {
+     "title": "Contrasts",
+     "start": 457,
+     "end": 458,
+     "summary": "Contrasts with general toposes.",
+     "terms": [
+      "contrasts"
+     ]
+    }
+   ],
+   "summary": "Well-pointed toposes."
+  },
+  {
+   "title": "Classical arenas and ETCS",
+   "start": 459,
+   "end": 460,
+   "sections": [],
+   "summary": "Classical toposes and Lawvere\u2019s ETCS.",
+   "terms": [
+    "ETCS",
+    "elementary theory of the category of sets",
+    "Lawvere",
+    "Boolean topos"
+   ]
+  }
+ ],
+ "title": "Introducing Category Theory (2nd edition)",
+ "byline": "Peter Smith \u00b7 Logic Matters, version 2.1, 2025 (free PDF)",
+ "note": "Short \u201cChallenges!\u201d and \u201cResponses\u201d subsections are not broken out; the interlude and bibliography are not covered. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "A slow-paced, carefully motivated introduction to category theory for philosophers, logicians and mathematics students, by a logician known for teaching texts. Smith starts from categories of groups and questions about sets, classes and size, then builds the elementary theory: arrows and their kinds, initial and terminal objects, products and coproducts (first \u201cpre-categorially\u201d), internal groups, equalizers, exponentials and cartesian closed categories, limits and colimits, pullbacks and the existence of limits, subobjects and subobject classifiers. The middle part covers functors, comma categories, hom-functors, natural transformations, equivalence of categories, functor categories, Yoneda and representables, Galois connections and adjunctions. The final part introduces elementary toposes: power objects, natural numbers objects, internal logic, subobject lattices, complements, well-pointedness and ETCS."
+}

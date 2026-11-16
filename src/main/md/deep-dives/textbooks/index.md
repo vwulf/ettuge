@@ -32,6 +32,7 @@ Partial PDFs (samples, excerpts, unfinished drafts) are marked as such on their 
 - [Perhaps Not The Answer You Were Expecting](mcbride-perhaps-not-the-answer) (McBride): Stack Overflow answers: applicatives, derivatives, dependent types
 - [Pragmatic Type-Level Design](granin-pragmatic-type-level-design) (Alexander Granin): Type-level programming for application design in Haskell, with Rust and Scala 3 counterparts.
 - [Principles of Eventual Consistency](burckhardt-eventual-consistency) (Burckhardt): histories, abstract executions, CAP, protocols
+- [Programming Well: Abstraction and Design in Computation](shieber-programming-well) (Stuart M. Shieber): CS51 in OCaml: types, higher-order functions, modules, semantics models, laziness, objects, MiniML.
 - [The Formal Semantics of Programming Languages](winskel-formal-semantics) (Glynn Winskel): Operational, denotational and axiomatic semantics; domain theory, recursive types and concurrency.
 - [The Little Book of Semaphores](little-book-of-semaphores) (Allen B. Downey): Concurrency puzzles solved with semaphores, from classic problems to original ones.
 - [Theorem Proving in Lean 4](theorem-proving-in-lean-4) (Avigad, de Moura, Kong, Ullrich): dependent types, tactics, inductive types, type classes
@@ -47,6 +48,7 @@ Partial PDFs (samples, excerpts, unfinished drafts) are marked as such on their 
 - [Conceptual Mathematics](lawvere-conceptual-mathematics) (F. William Lawvere and Stephen Schanuel): A first course in categories from sets and maps to products, exponentials and toposes.
 - [Geometric Structures on Manifolds](goldman-geometric-structures-on-manifolds) (William M. Goldman): (G,X)-structures: affine and projective geometry, developing maps, completeness, convex projective surfaces.
 - [Graph Theory and Additive Combinatorics](zhao-graph-theory-additive-combinatorics) (Yufei Zhao): Extremal graphs, regularity, pseudorandomness, graph limits, Roth, Freiman and Green–Tao.
+- [Introducing Category Theory (2nd ed.)](smith-introducing-category-theory) (Peter Smith): Slow, careful intro: limits, exponentials, functors, Yoneda, adjunctions, elementary toposes.
 - [Introduction to Logic and to the Methodology of Deductive Sciences](tarski-introduction-to-logic) (Tarski): sentential calculus, classes, relations, axiomatics
 - [Intuitionistic Type Theory](martin-lof-intuitionistic-type-theory) (Martin-Löf): meaning explanations and the type formers
 - [Intuitive Topology](prasolov-intuitive-topology) (Prasolov): knots, homeomorphisms, vector fields, surfaces
@@ -60,6 +62,7 @@ Partial PDFs (samples, excerpts, unfinished drafts) are marked as such on their 
 ## Linguistics and Languages
 
 - [A Manual of Modern Kannada](zydenbos-manual-of-modern-kannada) (Robert J. Zydenbos): Grammar course in modern written Kannada: 19 lessons from nominal sentences to moods, plus sandhi, numerals and script.
+- [The Dravidian Languages](krishnamurti-dravidian-languages) (Bhadriraju Krishnamurti): Comparative survey: Proto-Dravidian phonology, morphology, verb, syntax, lexicon and subgrouping.
 
 ## Other
 
