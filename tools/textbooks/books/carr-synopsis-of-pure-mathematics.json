@@ -1,0 +1,210 @@
+{
+ "url": "https://drive.google.com/file/d/18qqOT2vtrnCgZ6adlnbcnfnrN4Apy26U/view",
+ "chapters": [
+  {
+   "title": "Mathematical tables and units",
+   "start": 45,
+   "end": 76,
+   "sections": [],
+   "summary": "Numerical tables and units.",
+   "terms": [
+    "mathematical tables",
+    "units",
+    "CGS system",
+    "constants"
+   ]
+  },
+  {
+   "title": "Algebra",
+   "start": 77,
+   "end": 158,
+   "sections": [],
+   "summary": "Algebra.",
+   "terms": [
+    "algebra",
+    "series",
+    "binomial theorem",
+    "determinants",
+    "continued fractions",
+    "convergence",
+    "partitions"
+   ]
+  },
+  {
+   "title": "Theory of equations",
+   "start": 159,
+   "end": 205,
+   "sections": [],
+   "summary": "Theory of equations.",
+   "terms": [
+    "theory of equations",
+    "roots",
+    "Newton method",
+    "Sturm theorem",
+    "symmetric functions",
+    "cubic and quartic"
+   ]
+  },
+  {
+   "title": "Plane trigonometry",
+   "start": 206,
+   "end": 228,
+   "sections": [],
+   "summary": "Plane trigonometry.",
+   "terms": [
+    "trigonometry",
+    "identities",
+    "de Moivre",
+    "series for pi"
+   ]
+  },
+  {
+   "title": "Spherical trigonometry",
+   "start": 229,
+   "end": 238,
+   "sections": [],
+   "summary": "Spherical trigonometry.",
+   "terms": [
+    "spherical trigonometry",
+    "spherical triangles",
+    "Napier rules"
+   ]
+  },
+  {
+   "title": "Elementary geometry",
+   "start": 239,
+   "end": 276,
+   "sections": [],
+   "summary": "Euclidean geometry.",
+   "terms": [
+    "elementary geometry",
+    "Euclid",
+    "triangles",
+    "circles",
+    "polyhedra"
+   ]
+  },
+  {
+   "title": "Geometrical conics",
+   "start": 277,
+   "end": 300,
+   "sections": [],
+   "summary": "Conics by synthetic geometry.",
+   "terms": [
+    "conics",
+    "parabola",
+    "ellipse",
+    "hyperbola",
+    "poles and polars"
+   ]
+  },
+  {
+   "title": "Differential calculus",
+   "start": 301,
+   "end": 359,
+   "sections": [],
+   "summary": "Differential calculus.",
+   "terms": [
+    "differentiation",
+    "Taylor series",
+    "Maclaurin",
+    "maxima and minima",
+    "curvature",
+    "envelopes"
+   ]
+  },
+  {
+   "title": "Integral calculus",
+   "start": 360,
+   "end": 484,
+   "sections": [],
+   "summary": "Integral calculus.",
+   "terms": [
+    "integration",
+    "definite integrals",
+    "gamma function",
+    "beta function",
+    "elliptic integrals",
+    "multiple integrals",
+    "tables of integrals"
+   ]
+  },
+  {
+   "title": "Calculus of variations",
+   "start": 485,
+   "end": 503,
+   "sections": [],
+   "summary": "Calculus of variations.",
+   "terms": [
+    "calculus of variations",
+    "Euler-Lagrange equation"
+   ]
+  },
+  {
+   "title": "Differential equations",
+   "start": 504,
+   "end": 589,
+   "sections": [],
+   "summary": "Differential equations.",
+   "terms": [
+    "ordinary differential equations",
+    "linear equations",
+    "partial differential equations",
+    "series solutions"
+   ]
+  },
+  {
+   "title": "Calculus of finite differences",
+   "start": 590,
+   "end": 604,
+   "sections": [],
+   "summary": "Finite differences.",
+   "terms": [
+    "finite differences",
+    "interpolation",
+    "summation"
+   ]
+  },
+  {
+   "title": "Plane coordinate geometry",
+   "start": 605,
+   "end": 788,
+   "sections": [],
+   "summary": "Plane analytic geometry.",
+   "terms": [
+    "coordinate geometry",
+    "conics",
+    "trilinear coordinates",
+    "curves"
+   ]
+  },
+  {
+   "title": "Solid coordinate geometry",
+   "start": 789,
+   "end": 884,
+   "sections": [],
+   "summary": "Solid analytic geometry.",
+   "terms": [
+    "solid geometry",
+    "quadric surfaces",
+    "curvature of surfaces"
+   ]
+  },
+  {
+   "title": "Index to papers in the mathematical journals",
+   "start": 885,
+   "end": 1062,
+   "sections": [],
+   "summary": "Index to journal papers.",
+   "terms": [
+    "index",
+    "mathematical journals",
+    "bibliography"
+   ]
+  }
+ ],
+ "title": "A Synopsis of Elementary Results in Pure Mathematics (Carr\u2019s Synopsis)",
+ "byline": "G. S. Carr \u00b7 Francis Hodgson, London, 1886 (scanned copy)",
+ "note": "A 19th-century compendium of about 6,000 numbered results with abridged proofs, famous as the book from which Srinivasa Ramanujan taught himself mathematics. This is a scan with a poor OCR text layer and no outline, so it is broken down only into its subject sections (located by running headers); article numbers and finer sections are not listed. Summaries are in our own words.",
+ "summary": "G. S. Carr compiled this synopsis as a crammer\u2019s reference for Cambridge students: thousands of formulas and theorems stated tersely with brief demonstrations, arranged by subject and numbered for cross-reference, plus a large index to papers in the mathematical journals of the day. Its compressed, proof-sketch style is often credited with shaping Ramanujan\u2019s way of recording results. It spans algebra, theory of equations, plane and spherical trigonometry, Euclidean geometry and conics, differential and integral calculus (with extensive tables of integrals), calculus of variations, differential equations, finite differences, and plane and solid coordinate geometry."
+}

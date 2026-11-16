@@ -1,0 +1,665 @@
+{
+ "url": "https://drive.google.com/file/d/1aLju6_JArwf_2KL8iq7Q1NNakLHYgkil/view",
+ "chapters": [
+  {
+   "title": "1 The Foundations: Logic and Proofs",
+   "start": 24,
+   "sections": [
+    {
+     "title": "1.1 Propositional Logic",
+     "start": 24,
+     "end": 39,
+     "summary": ""
+    },
+    {
+     "title": "1.2 Applications of Propositional Logic",
+     "start": 40,
+     "end": 48,
+     "summary": ""
+    },
+    {
+     "title": "1.3 Propositional Equivalences",
+     "start": 49,
+     "end": 62,
+     "summary": ""
+    },
+    {
+     "title": "1.4 Predicates and Quantifiers",
+     "start": 63,
+     "end": 82,
+     "summary": ""
+    },
+    {
+     "title": "1.5 Nested Quantifiers",
+     "start": 83,
+     "end": 95,
+     "summary": ""
+    },
+    {
+     "title": "1.6 Rules of Inference",
+     "start": 96,
+     "end": 106,
+     "summary": ""
+    },
+    {
+     "title": "1.7 Introduction to Proofs",
+     "start": 107,
+     "end": 118,
+     "summary": ""
+    },
+    {
+     "title": "1.8 Proof Methods and Strategy",
+     "start": 119,
+     "end": 137,
+     "summary": ""
+    }
+   ],
+   "end": 143,
+   "summary": "Logic and proofs.",
+   "terms": [
+    "propositional logic",
+    "logical equivalence",
+    "predicates",
+    "quantifiers",
+    "rules of inference",
+    "proof methods",
+    "contrapositive",
+    "contradiction"
+   ]
+  },
+  {
+   "title": "2 Basic Structures: Sets, Functions, Sequences, Sums, and Matrices",
+   "start": 144,
+   "sections": [
+    {
+     "title": "2.1 Sets",
+     "start": 144,
+     "end": 155,
+     "summary": ""
+    },
+    {
+     "title": "2.2 Set Operations",
+     "start": 156,
+     "end": 169,
+     "summary": ""
+    },
+    {
+     "title": "2.3 Functions",
+     "start": 170,
+     "end": 187,
+     "summary": ""
+    },
+    {
+     "title": "2.4 Sequences and Summations",
+     "start": 188,
+     "end": 201,
+     "summary": ""
+    },
+    {
+     "title": "2.5 Cardinality of Sets",
+     "start": 202,
+     "end": 210,
+     "summary": ""
+    },
+    {
+     "title": "2.6 Matrices",
+     "start": 211,
+     "end": 217,
+     "summary": ""
+    }
+   ],
+   "end": 223,
+   "summary": "Sets, functions, sequences, sums and matrices.",
+   "terms": [
+    "sets",
+    "set operations",
+    "functions",
+    "sequences",
+    "summations",
+    "cardinality",
+    "countability",
+    "matrices"
+   ]
+  },
+  {
+   "title": "3 Algorithms",
+   "start": 224,
+   "sections": [
+    {
+     "title": "3.1 Algorithms",
+     "start": 224,
+     "end": 238,
+     "summary": ""
+    },
+    {
+     "title": "3.2 The Growth of Functions",
+     "start": 239,
+     "end": 253,
+     "summary": ""
+    },
+    {
+     "title": "3.3 Complexity of Algorithms",
+     "start": 254,
+     "end": 266,
+     "summary": ""
+    }
+   ],
+   "end": 273,
+   "summary": "Algorithms and complexity.",
+   "terms": [
+    "algorithms",
+    "searching",
+    "sorting",
+    "big-O",
+    "big-Theta",
+    "complexity"
+   ]
+  },
+  {
+   "title": "4 Number Theory and Cryptography",
+   "start": 274,
+   "sections": [
+    {
+     "title": "4.1 Divisibility and Modular Arithmetic",
+     "start": 274,
+     "end": 282,
+     "summary": ""
+    },
+    {
+     "title": "4.2 Integer Representations and Algorithms",
+     "start": 283,
+     "end": 293,
+     "summary": ""
+    },
+    {
+     "title": "4.3 Primes and Greatest Common Divisors",
+     "start": 294,
+     "end": 312,
+     "summary": ""
+    },
+    {
+     "title": "4.4 Solving Congruences",
+     "start": 313,
+     "end": 325,
+     "summary": ""
+    },
+    {
+     "title": "4.5 Applications of Congruences",
+     "start": 326,
+     "end": 332,
+     "summary": ""
+    },
+    {
+     "title": "4.6 Cryptography",
+     "start": 333,
+     "end": 346,
+     "summary": ""
+    }
+   ],
+   "end": 353,
+   "summary": "Number theory and cryptography.",
+   "terms": [
+    "divisibility",
+    "modular arithmetic",
+    "base conversion",
+    "primes",
+    "gcd",
+    "congruences",
+    "Chinese remainder theorem",
+    "RSA"
+   ]
+  },
+  {
+   "title": "5 Induction and Recursion",
+   "start": 354,
+   "sections": [
+    {
+     "title": "5.1 Mathematical Induction",
+     "start": 354,
+     "end": 376,
+     "summary": ""
+    },
+    {
+     "title": "5.2 Strong Induction and Well-Ordering",
+     "start": 377,
+     "end": 387,
+     "summary": ""
+    },
+    {
+     "title": "5.3 Recursive Definitions and Structural Induction",
+     "start": 388,
+     "end": 403,
+     "summary": ""
+    },
+    {
+     "title": "5.4 Recursive Algorithms",
+     "start": 404,
+     "end": 415,
+     "summary": ""
+    },
+    {
+     "title": "5.5 Program Correctness",
+     "start": 416,
+     "end": 420,
+     "summary": ""
+    }
+   ],
+   "end": 427,
+   "summary": "Induction and recursion.",
+   "terms": [
+    "mathematical induction",
+    "strong induction",
+    "well-ordering",
+    "recursive definitions",
+    "structural induction",
+    "recursive algorithms",
+    "program correctness"
+   ]
+  },
+  {
+   "title": "6 Counting",
+   "start": 428,
+   "sections": [
+    {
+     "title": "6.1 The Basics of Counting",
+     "start": 428,
+     "end": 442,
+     "summary": ""
+    },
+    {
+     "title": "6.2 The Pigeonhole Principle",
+     "start": 443,
+     "end": 450,
+     "summary": ""
+    },
+    {
+     "title": "6.3 Permutations and Combinations",
+     "start": 451,
+     "end": 459,
+     "summary": ""
+    },
+    {
+     "title": "6.4 Binomial Coefficients and Identities",
+     "start": 460,
+     "end": 467,
+     "summary": ""
+    },
+    {
+     "title": "6.5 Generalized Permutations and Combinations",
+     "start": 468,
+     "end": 479,
+     "summary": ""
+    },
+    {
+     "title": "6.6 Generating Permutations and Combinations",
+     "start": 480,
+     "end": 483,
+     "summary": ""
+    }
+   ],
+   "end": 491,
+   "summary": "Counting.",
+   "terms": [
+    "product rule",
+    "sum rule",
+    "pigeonhole principle",
+    "permutations",
+    "combinations",
+    "binomial theorem",
+    "Pascal identity"
+   ]
+  },
+  {
+   "title": "7 Discrete Probability",
+   "start": 492,
+   "sections": [
+    {
+     "title": "7.1 An Introduction to Discrete Probability",
+     "start": 492,
+     "end": 499,
+     "summary": ""
+    },
+    {
+     "title": "7.2 Probability Theory",
+     "start": 500,
+     "end": 516,
+     "summary": ""
+    },
+    {
+     "title": "7.3 Bayes’ Theorem",
+     "start": 517,
+     "end": 525,
+     "summary": ""
+    },
+    {
+     "title": "7.4 Expected Value and Variance",
+     "start": 526,
+     "end": 542,
+     "summary": ""
+    }
+   ],
+   "end": 549,
+   "summary": "Discrete probability.",
+   "terms": [
+    "probability",
+    "conditional probability",
+    "independence",
+    "Bayes theorem",
+    "expected value",
+    "variance"
+   ]
+  },
+  {
+   "title": "8 Advanced Counting Techniques",
+   "start": 550,
+   "sections": [
+    {
+     "title": "8.1 Applications of Recurrence Relations",
+     "start": 550,
+     "end": 562,
+     "summary": ""
+    },
+    {
+     "title": "8.2 Solving Linear Recurrence Relations",
+     "start": 563,
+     "end": 575,
+     "summary": ""
+    },
+    {
+     "title": "8.3 Divide-and-Conquer Algorithms and Recurrence Relations",
+     "start": 576,
+     "end": 585,
+     "summary": ""
+    },
+    {
+     "title": "8.4 Generating Functions",
+     "start": 586,
+     "end": 601,
+     "summary": ""
+    },
+    {
+     "title": "8.5 Inclusion–Exclusion",
+     "start": 602,
+     "end": 607,
+     "summary": ""
+    },
+    {
+     "title": "8.6 Applications of Inclusion–Exclusion",
+     "start": 608,
+     "end": 614,
+     "summary": ""
+    }
+   ],
+   "end": 621,
+   "summary": "Advanced counting.",
+   "terms": [
+    "recurrence relations",
+    "linear recurrences",
+    "divide and conquer",
+    "master theorem",
+    "generating functions",
+    "inclusion-exclusion",
+    "derangements"
+   ]
+  },
+  {
+   "title": "9 Relations",
+   "start": 622,
+   "sections": [
+    {
+     "title": "9.1 Relations and Their Properties",
+     "start": 622,
+     "end": 633,
+     "summary": ""
+    },
+    {
+     "title": "9.2 n-ary Relations and Their Applications",
+     "start": 634,
+     "end": 643,
+     "summary": ""
+    },
+    {
+     "title": "9.3 Representing Relations",
+     "start": 644,
+     "end": 650,
+     "summary": ""
+    },
+    {
+     "title": "9.4 Closures of Relations",
+     "start": 651,
+     "end": 660,
+     "summary": ""
+    },
+    {
+     "title": "9.5 Equivalence Relations",
+     "start": 661,
+     "end": 672,
+     "summary": ""
+    },
+    {
+     "title": "9.6 Partial Orderings",
+     "start": 673,
+     "end": 687,
+     "summary": ""
+    }
+   ],
+   "end": 695,
+   "summary": "Relations.",
+   "terms": [
+    "relations",
+    "n-ary relations",
+    "databases",
+    "matrix representation",
+    "closures",
+    "Warshall algorithm",
+    "equivalence relations",
+    "partial orders",
+    "lattices"
+   ]
+  },
+  {
+   "title": "10 Graphs",
+   "start": 696,
+   "sections": [
+    {
+     "title": "10.1 Graphs and Graph Models",
+     "start": 696,
+     "end": 707,
+     "summary": ""
+    },
+    {
+     "title": "10.2 Graph Terminology and Special Types of Graphs",
+     "start": 708,
+     "end": 725,
+     "summary": ""
+    },
+    {
+     "title": "10.3 Representing Graphs and Graph Isomorphism",
+     "start": 726,
+     "end": 736,
+     "summary": ""
+    },
+    {
+     "title": "10.4 Connectivity",
+     "start": 737,
+     "end": 750,
+     "summary": ""
+    },
+    {
+     "title": "10.5 Euler and Hamilton Paths",
+     "start": 751,
+     "end": 765,
+     "summary": ""
+    },
+    {
+     "title": "10.6 Shortest-Path Problems",
+     "start": 766,
+     "end": 775,
+     "summary": ""
+    },
+    {
+     "title": "10.7 Planar Graphs",
+     "start": 776,
+     "end": 784,
+     "summary": ""
+    },
+    {
+     "title": "10.8 Graph Coloring",
+     "start": 785,
+     "end": 793,
+     "summary": ""
+    }
+   ],
+   "end": 803,
+   "summary": "Graphs.",
+   "terms": [
+    "graph models",
+    "terminology",
+    "isomorphism",
+    "connectivity",
+    "Euler paths",
+    "Hamilton paths",
+    "Dijkstra",
+    "planar graphs",
+    "graph coloring"
+   ]
+  },
+  {
+   "title": "11 Trees",
+   "start": 804,
+   "sections": [
+    {
+     "title": "11.1 Introduction to Trees",
+     "start": 804,
+     "end": 815,
+     "summary": ""
+    },
+    {
+     "title": "11.2 Applications of Trees",
+     "start": 816,
+     "end": 830,
+     "summary": ""
+    },
+    {
+     "title": "11.3 Tree Traversal",
+     "start": 831,
+     "end": 843,
+     "summary": ""
+    },
+    {
+     "title": "11.4 Spanning Trees",
+     "start": 844,
+     "end": 857,
+     "summary": ""
+    },
+    {
+     "title": "11.5 Minimum Spanning Trees",
+     "start": 858,
+     "end": 863,
+     "summary": ""
+    }
+   ],
+   "end": 869,
+   "summary": "Trees.",
+   "terms": [
+    "trees",
+    "binary search trees",
+    "decision trees",
+    "Huffman codes",
+    "traversal",
+    "spanning trees",
+    "minimum spanning trees",
+    "Prim",
+    "Kruskal"
+   ]
+  },
+  {
+   "title": "12 Boolean Algebra",
+   "start": 870,
+   "sections": [
+    {
+     "title": "12.1 Boolean Functions",
+     "start": 870,
+     "end": 877,
+     "summary": ""
+    },
+    {
+     "title": "12.2 Representing Boolean Functions",
+     "start": 878,
+     "end": 880,
+     "summary": ""
+    },
+    {
+     "title": "12.3 Logic Gates",
+     "start": 881,
+     "end": 886,
+     "summary": ""
+    },
+    {
+     "title": "12.4 Minimization of Circuits",
+     "start": 887,
+     "end": 901,
+     "summary": ""
+    }
+   ],
+   "end": 907,
+   "summary": "Boolean algebra.",
+   "terms": [
+    "Boolean functions",
+    "sum of products",
+    "logic gates",
+    "Karnaugh maps",
+    "Quine-McCluskey"
+   ]
+  },
+  {
+   "title": "13 Modeling Computation",
+   "start": 908,
+   "sections": [
+    {
+     "title": "13.1 Languages and Grammars",
+     "start": 908,
+     "end": 919,
+     "summary": ""
+    },
+    {
+     "title": "13.2 Finite-State Machines with Output",
+     "start": 920,
+     "end": 926,
+     "summary": ""
+    },
+    {
+     "title": "13.3 Finite-State Machines with No Output",
+     "start": 927,
+     "end": 939,
+     "summary": ""
+    },
+    {
+     "title": "13.4 Language Recognition",
+     "start": 940,
+     "end": 949,
+     "summary": ""
+    },
+    {
+     "title": "13.5 Turing Machines",
+     "start": 950,
+     "end": 960,
+     "summary": ""
+    }
+   ],
+   "end": 965,
+   "summary": "Models of computation.",
+   "terms": [
+    "grammars",
+    "finite-state machines",
+    "regular expressions",
+    "Kleene theorem",
+    "Turing machines"
+   ]
+  }
+ ],
+ "title": "Discrete Mathematics and Its Applications (8th edition)",
+ "byline": "Kenneth H. Rosen · McGraw-Hill Education, 2019",
+ "note": "Summaries and terms are given per chapter; each section is listed with its PDF page range. End-of-chapter material, appendices and answers are not broken out. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "The most widely used discrete mathematics textbook for computer science students. It covers logic and proof methods, sets, functions, sequences and matrices, algorithms and their complexity, number theory and cryptography, induction and recursion, counting, discrete probability, recurrences and generating functions, relations, graphs and trees, Boolean algebra and circuits, and models of computation from grammars and finite-state machines to Turing machines."
+}
