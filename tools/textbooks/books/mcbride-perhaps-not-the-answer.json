@@ -1,0 +1,1116 @@
+{
+ "title": "Perhaps Not The Answer You Were Expecting But You Asked For It",
+ "byline": "Conor McBride \u00b7 \u201can accidental blook\u201d of Stack Overflow answers, October 2019",
+ "note": "A compilation of Stack Overflow answers grouped by theme. Each section is one answer, listed under the question it answers; only the chapters are summarized. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "Conor McBride (\u201cpigworker\u201d on Stack Overflow) collected his answers into a book. Read in sequence they form an unusual course in typed functional programming: Haskell\u2019s corners, recursion schemes, applicative functors and why they compose when monads do not, the calculus of datatypes (derivatives as one-hole contexts, zippers and comonads), dependently typed programming in Haskell with GADTs, singletons and type families, and finally type theory itself. The tone is playful and the arguments are precise.",
+ "chapters": [
+  {
+   "title": "Haskell Curiosities",
+   "start": 7,
+   "end": 48,
+   "sections": [
+    {
+     "title": "What is () in Haskell, exactly?",
+     "start": 7,
+     "end": 7,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "What does () mean in Haskell?",
+     "start": 8,
+     "end": 8,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Implement the function lines in Haskell",
+     "start": 9,
+     "end": 9,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Boolean Expression evaluation (subtle type error)",
+     "start": 9,
+     "end": 9,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Purely functional data structures for text editors",
+     "start": 10,
+     "end": 11,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "What are some motivating examples for Cofree CoMonad in Haskell?",
+     "start": 12,
+     "end": 14,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Find indices of things in lists",
+     "start": 15,
+     "end": 15,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "How do I extend this mergeWords function to any number of strings?",
+     "start": 15,
+     "end": 15,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Example of UndecidableInstances yielding nonterminating typecheck",
+     "start": 16,
+     "end": 16,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Why do 3 and x (which was assigned 3) have different inferred types in Haskell?",
+     "start": 17,
+     "end": 17,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Use case for rank-3 (or higher) polymorphism?",
+     "start": 18,
+     "end": 18,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Why don't Haskell compilers facilitate deterministic memory management?",
+     "start": 19,
+     "end": 19,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "How does ArrowLoop work? Also, mfix?",
+     "start": 19,
+     "end": 19,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "What does mean in a type signature?",
+     "start": 20,
+     "end": 20,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Meaning of Double and Floating point?",
+     "start": 21,
+     "end": 21,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Haskell terminology: meaning of type vs. data type, are they synonyms?",
+     "start": 22,
+     "end": 22,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Can you formulate the Bubble sort as a monoid or semigroup?",
+     "start": 23,
+     "end": 23,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Is this a correctly implemented mergesort in Haskell?",
+     "start": 24,
+     "end": 25,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Haskell type system nuances (ambiguity)",
+     "start": 26,
+     "end": 26,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Understanding a case of Haskell Type Ambiguity",
+     "start": 27,
+     "end": 27,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Why does Haskell use instead of =?",
+     "start": 27,
+     "end": 27,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Is it possible to make a type an instance of a class if its type parameters are in the wrong order?",
+     "start": 28,
+     "end": 28,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Functor type variables for Flip data type",
+     "start": 29,
+     "end": 29,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Why does product [] return 1?",
+     "start": 30,
+     "end": 30,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Minimum of Two Maybes",
+     "start": 30,
+     "end": 30,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Is the equivalent of Haskell's Foldable and Traversable simply a sequence in Clojure?",
+     "start": 31,
+     "end": 31,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "How do you keep track of multiple properties of a string without traversing it multiple times?",
+     "start": 32,
+     "end": 32,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Checking whether a binary tree is a binary search tree",
+     "start": 33,
+     "end": 33,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Finding a leaf with value x in a binary tree",
+     "start": 33,
+     "end": 33,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Taking from a list until encountering a duplicate",
+     "start": 34,
+     "end": 34,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "RankNTypes and PolyKinds (quantifier alternation issues)",
+     "start": 35,
+     "end": 35,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "How to write this case expression with the view pattern syntax?",
+     "start": 36,
+     "end": 36,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Recursive Type Families",
+     "start": 36,
+     "end": 37,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Determine whether a value is a function in Haskell",
+     "start": 38,
+     "end": 38,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Automatic Functor Instance (not)",
+     "start": 38,
+     "end": 38,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "How do I apply the first partial function that works in Haskell?",
+     "start": 39,
+     "end": 39,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "`Zipping' a plain list with a nested list",
+     "start": 39,
+     "end": 40,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Bunched accumulations",
+     "start": 41,
+     "end": 41,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Functor on Phantom Type",
+     "start": 42,
+     "end": 42,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Creating an Interpreter (with store) in Haskell",
+     "start": 43,
+     "end": 44,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Existential type wrappers necessity",
+     "start": 45,
+     "end": 45,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Non-linear Patterns in Type-Level Functions",
+     "start": 46,
+     "end": 46,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Initial algebra for rose trees",
+     "start": 46,
+     "end": 48,
+     "summary": "",
+     "terms": []
+    }
+   ],
+   "summary": "Short, opinionated answers on Haskell basics and oddities: the unit type, numeric defaulting, ambiguity, folds and monoids, rank-n types, cofree comonads, purely functional editors, and initial algebras for rose trees."
+  },
+  {
+   "title": "Pattern Matching",
+   "start": 49,
+   "end": 54,
+   "sections": [
+    {
+     "title": "Algorithm for typechecking ML-like pattern matching?",
+     "start": 49,
+     "end": 49,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Haskell Pattern Matching",
+     "start": 50,
+     "end": 50,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Complex pattern matching",
+     "start": 51,
+     "end": 51,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "How to return an element before I entered?",
+     "start": 52,
+     "end": 52,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Buzzard Bazooka Zoom",
+     "start": 52,
+     "end": 53,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Why +\u2013+ is not allowed in pattern matching?",
+     "start": 54,
+     "end": 54,
+     "summary": "",
+     "terms": []
+    }
+   ],
+   "summary": "How pattern matching works, from typechecking ML-style patterns to why some patterns are disallowed."
+  },
+  {
+   "title": "Recursion",
+   "start": 55,
+   "end": 68,
+   "sections": [
+    {
+     "title": "What are paramorphisms?",
+     "start": 55,
+     "end": 55,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Why can you reverse list with foldl, but not with foldr in Haskell",
+     "start": 56,
+     "end": 58,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Can fold be used to create infinite lists?",
+     "start": 59,
+     "end": 59,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "How do I give a Functor instance to a datatype built for general recursion schemes?",
+     "start": 59,
+     "end": 60,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Are there (term-transforming) morphisms in Haskell?",
+     "start": 61,
+     "end": 61,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Is this Fibonacci sequence function recursive?",
+     "start": 62,
+     "end": 62,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Can someone explain this lazy Fibonacci solution?",
+     "start": 63,
+     "end": 63,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Monoidal folds on fixed points",
+     "start": 64,
+     "end": 64,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "List Created Evaluating List Elements",
+     "start": 65,
+     "end": 65,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Functions of GADTs",
+     "start": 66,
+     "end": 68,
+     "summary": "",
+     "terms": []
+    }
+   ],
+   "summary": "Folds and recursion schemes: paramorphisms, why foldl and foldr differ, lazy infinite structures, and monoidal folds over fixed points."
+  },
+  {
+   "title": "Applicative Functors",
+   "start": 69,
+   "end": 94,
+   "sections": [
+    {
+     "title": "Where to find programming exercises for applicative functors?",
+     "start": 69,
+     "end": 70,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "N-ary tree traversal",
+     "start": 71,
+     "end": 75,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Partial application of functions and currying, how to make a better code instead of a lot of maps?",
+     "start": 76,
+     "end": 76,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Translating monad to applicative",
+     "start": 77,
+     "end": 77,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Applicatives compose, monads don't",
+     "start": 78,
+     "end": 78,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Examples Separating Functor, Applicative and Monad",
+     "start": 79,
+     "end": 79,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Parsec: Applicatives vs Monads",
+     "start": 80,
+     "end": 80,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Refactoring do notation into applicative style",
+     "start": 81,
+     "end": 81,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Zip with default values instead of dropping values?",
+     "start": 82,
+     "end": 82,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "sum3 with zipWith3 in Haskell",
+     "start": 82,
+     "end": 82,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "What is the 'Const' applicative functor useful for?",
+     "start": 83,
+     "end": 83,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Applicative instance for free monad",
+     "start": 83,
+     "end": 83,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Examples of a monad whose Applicative part can be better optimized than the Monad part",
+     "start": 84,
+     "end": 84,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "How arbitrary is the \u201cap\u201d implementation for monads?",
+     "start": 85,
+     "end": 85,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Applicative without a functor (for arrays)",
+     "start": 85,
+     "end": 85,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Does this simple Haskell function already have a well-known name? (strength)",
+     "start": 86,
+     "end": 86,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "The Kids are all Right",
+     "start": 87,
+     "end": 87,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Why is((,) r) a Functor that is NOT an Applicative?",
+     "start": 87,
+     "end": 87,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Applicative Rewriting (for reader)",
+     "start": 88,
+     "end": 88,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Serialised Diagonalisation",
+     "start": 89,
+     "end": 89,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Applicative style for infix operators?",
+     "start": 89,
+     "end": 89,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Where is the Monoid in Applicative?",
+     "start": 89,
+     "end": 92,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Applicatives from Monoids including min and max",
+     "start": 93,
+     "end": 94,
+     "summary": "",
+     "terms": []
+    }
+   ],
+   "summary": "The applicative-functor answers: how applicatives differ from monads, why they compose, Const and zippy applicatives, applicatives from monoids, and traversals."
+  },
+  {
+   "title": "Monads",
+   "start": 95,
+   "end": 104,
+   "sections": [
+    {
+     "title": "Why we use monadic functions a mb",
+     "start": 95,
+     "end": 95,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Monads with Join instead of Bind",
+     "start": 96,
+     "end": 96,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Using return versus not using return in the list monad",
+     "start": 97,
+     "end": 97,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Example showing monads don't compose",
+     "start": 98,
+     "end": 98,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "The Pause monad",
+     "start": 98,
+     "end": 99,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Haskell monad return arbitrary data type",
+     "start": 100,
+     "end": 100,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Should I avoid using Monad fail?",
+     "start": 100,
+     "end": 100,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Why isn't Kleisli an instance of Monoid?",
+     "start": 101,
+     "end": 101,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Monads at the prompt?",
+     "start": 102,
+     "end": 102,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Is this a case to use liftM?",
+     "start": 102,
+     "end": 103,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Zappy colists do not form a monad",
+     "start": 104,
+     "end": 104,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Haskell io-streams and forever produces no output to stdout",
+     "start": 104,
+     "end": 104,
+     "summary": "",
+     "terms": []
+    }
+   ],
+   "summary": "Monads explained through join, examples of non-composition, the Pause monad, and why zippy colists are not a monad."
+  },
+  {
+   "title": "Differential Calculus for Types",
+   "start": 105,
+   "end": 148,
+   "sections": [
+    {
+     "title": "Find the preceding element of an element in list",
+     "start": 105,
+     "end": 105,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Splitting a List",
+     "start": 106,
+     "end": 107,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "nub as a List Comprehension",
+     "start": 108,
+     "end": 108,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "How to make a binary tree zipper an instance of Comonad?",
+     "start": 109,
+     "end": 114,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "What's the absurd function in Data.Void useful for?",
+     "start": 115,
+     "end": 116,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Writing cojoin or cobind for n-dimensional grids",
+     "start": 117,
+     "end": 121,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Zipper Comonads, Generically",
+     "start": 122,
+     "end": 130,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Traversable and zippers: necessity and sufficiency",
+     "start": 131,
+     "end": 131,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "How to write this (funny filter) function idiomatically?",
+     "start": 131,
+     "end": 131,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Computing a term of a list depending on all previous terms",
+     "start": 132,
+     "end": 136,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Reasonable Comonad implementations (for nonempty lists)",
+     "start": 137,
+     "end": 139,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Representable (or Naperian) Functors",
+     "start": 140,
+     "end": 142,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Tries as Naperian Functors; Matching via their Derivatives",
+     "start": 143,
+     "end": 148,
+     "summary": "",
+     "terms": []
+    }
+   ],
+   "summary": "McBride\u2019s derivative of a datatype as its type of one-hole contexts: zippers, comonads on grids and trees, traversability, and Naperian (representable) functors."
+  },
+  {
+   "title": "Dependently Typed Haskell",
+   "start": 149,
+   "end": 192,
+   "sections": [
+    {
+     "title": "Dependently typed language best suited to \u201creal world\u201d programming?",
+     "start": 149,
+     "end": 149,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Why not be dependently typed?",
+     "start": 149,
+     "end": 153,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Simple dependent type example in Haskell for Dummies. How are they useful in practice in Haskell? Why should I care about dependent types ?",
+     "start": 154,
+     "end": 154,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Haskell singletons: What do we gain with SNat?",
+     "start": 155,
+     "end": 155,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Motivation for limitation on data kind promotion",
+     "start": 156,
+     "end": 156,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "What is an indexed monad?",
+     "start": 157,
+     "end": 159,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Fixpoints of functors on indexed sets",
+     "start": 160,
+     "end": 160,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Why is the type system refusing my seemingly valid program?",
+     "start": 161,
+     "end": 163,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Is it possible to program and check invarants in Haskell?",
+     "start": 164,
+     "end": 165,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Why is typecase a bad thing?",
+     "start": 166,
+     "end": 166,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Why can't I pattern match on a type family?",
+     "start": 166,
+     "end": 166,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Positive integer type",
+     "start": 167,
+     "end": 167,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Test if a value matches a constructor",
+     "start": 168,
+     "end": 168,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Difference between Haskell and Idris: Reflection of Runtime/Compiletime in the type universes",
+     "start": 169,
+     "end": 169,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Why GADT/existential data constructors cannot be used in lazy patterns?",
+     "start": 170,
+     "end": 170,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Can GADTs be used to prove type inequalities in GHC?",
+     "start": 171,
+     "end": 171,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Implementing a zipper for length-indexed lists",
+     "start": 171,
+     "end": 173,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Monoid for integers modulo",
+     "start": 174,
+     "end": 175,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Are there non-trivial Foldable or Traversable instances that don't look like containers?",
+     "start": 176,
+     "end": 176,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Are GHC's Type Famlies An Example of System F-omega?",
+     "start": 177,
+     "end": 177,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "How to derive Eq for a GADT with a non-* kinded phantom type parameter",
+     "start": 178,
+     "end": 178,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Do all Type Classes in Haskell Have a Category Theoretic Analogue?",
+     "start": 179,
+     "end": 179,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Haskell type resolution in Type Classes (Generator, Comonad)",
+     "start": 180,
+     "end": 180,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Prove idempotency of type-level disjunction",
+     "start": 181,
+     "end": 181,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Recursively defined instances and constraints",
+     "start": 182,
+     "end": 183,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "How can I get the length of dependently typed interval?",
+     "start": 184,
+     "end": 184,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "How to make catamorphisms work with parameterized/indexed types?",
+     "start": 185,
+     "end": 185,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Constraining Constructors in a Signature",
+     "start": 186,
+     "end": 186,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Standard name of a sum type like Either but for 3 cases?",
+     "start": 187,
+     "end": 187,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "How to specify the type for a heterogenous collection in a GADT formulated AST?",
+     "start": 188,
+     "end": 188,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Type-threaded heterogenous lists and defaulting(?) with type families?",
+     "start": 189,
+     "end": 189,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Constructor that lifts (via DataKinds) to A",
+     "start": 189,
+     "end": 189,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "How should the general type of a ``lemma'' function be understood?",
+     "start": 189,
+     "end": 192,
+     "summary": "",
+     "terms": []
+    }
+   ],
+   "summary": "Dependent types in Haskell: singletons, data kinds, indexed monads, GADTs, type families, and how Haskell compares with Idris and Agda."
+  },
+  {
+   "title": "Type Theory",
+   "start": 193,
+   "end": 213,
+   "sections": [
+    {
+     "title": "What is the combinatory logic equivalent of intuitionistic type theory?",
+     "start": 193,
+     "end": 197,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Do Hask or Agda have equalisers?",
+     "start": 198,
+     "end": 199,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Why do we need containers?",
+     "start": 200,
+     "end": 203,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "To what extent are Applicative/Monad instances uniquely determined?",
+     "start": 204,
+     "end": 205,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Pattern matching in Observational Type Theory",
+     "start": 206,
+     "end": 206,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Provable coherence in OTT",
+     "start": 207,
+     "end": 207,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "How to solve goals with invalid type equalities in Coq?",
+     "start": 208,
+     "end": 209,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Is it possible to express the type of balanced untagged binary trees on the calculus of constructions?",
+     "start": 210,
+     "end": 210,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Agda-like programming in Coq/Proof General?",
+     "start": 211,
+     "end": 213,
+     "summary": "",
+     "terms": []
+    }
+   ],
+   "summary": "Answers from type theory proper: containers, equalisers, combinatory logic for intuitionistic type theory, observational type theory, and Coq and Agda practice."
+  }
+ ],
+ "url": "https://drive.google.com/file/d/12qqWokXjZCH5qFZf9Zl99SP_QRLtqCLB/view"
+}

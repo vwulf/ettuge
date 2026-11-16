@@ -1,0 +1,135 @@
+{
+ "title": "An Introduction to Functional Programming Through Lambda Calculus",
+ "byline": "Greg Michaelson \u00b7 Addison-Wesley, 1988 (author\u2019s electronic edition)",
+ "note": "Chapters only; answers to exercises (PDF pp. 216\u2013241) are not broken down. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "A gentle course that teaches functional programming by building it inside the pure \u03bb-calculus. Starting from nothing but abstraction and application, Michaelson encodes booleans, conditionals, natural numbers, recursion via a fixed-point combinator, typed values, lists, strings, records and trees, introducing friendlier notation only after each construction is understood. He then compares evaluation strategies (normal order, applicative order, lazy evaluation) and finally shows how the same ideas look in two real languages, Standard ML and LISP.",
+ "chapters": [
+  {
+   "title": "1. Introduction",
+   "start": 3,
+   "end": 11,
+   "sections": [],
+   "summary": "Names and values, why execution order matters less in functional languages, and the mathematical and historical roots of functional programming.",
+   "terms": [
+    "functional programming",
+    "imperative programming",
+    "execution order",
+    "history"
+   ]
+  },
+  {
+   "title": "2. Lambda Calculus",
+   "start": 12,
+   "end": 38,
+   "sections": [],
+   "summary": "Pure \u03bb-calculus: expressions, \u03b2-reduction, and building functions such as identity, application and pairs.",
+   "terms": [
+    "lambda calculus",
+    "beta reduction",
+    "lambda expression",
+    "pairs"
+   ]
+  },
+  {
+   "title": "3. Conditions, Booleans and Integers",
+   "start": 39,
+   "end": 50,
+   "sections": [],
+   "summary": "Booleans, conditionals and natural numbers encoded as \u03bb-terms, with simplified notation introduced along the way.",
+   "terms": [
+    "Church booleans",
+    "conditional",
+    "Church numerals"
+   ]
+  },
+  {
+   "title": "4. Recursion and Arithmetic",
+   "start": 51,
+   "end": 67,
+   "sections": [],
+   "summary": "Recursion through a fixed-point combinator, and arithmetic defined recursively on encoded numbers.",
+   "terms": [
+    "fixed point combinator",
+    "Y combinator",
+    "recursion",
+    "arithmetic"
+   ]
+  },
+  {
+   "title": "5. Types",
+   "start": 68,
+   "end": 88,
+   "sections": [],
+   "summary": "Adding run-time type checking to the encodings so that ill-typed operations can be detected.",
+   "terms": [
+    "types",
+    "typed encodings",
+    "type checking"
+   ]
+  },
+  {
+   "title": "6. Lists and Strings",
+   "start": 89,
+   "end": 119,
+   "sections": [],
+   "summary": "Lists and strings built from pairs, with list functions, mapping and searching.",
+   "terms": [
+    "lists",
+    "strings",
+    "map",
+    "list functions"
+   ]
+  },
+  {
+   "title": "7. Composite Values and Trees",
+   "start": 120,
+   "end": 144,
+   "sections": [],
+   "summary": "Records, tuples, binary trees and the functions over them, written in the book\u2019s notation.",
+   "terms": [
+    "records",
+    "tuples",
+    "binary trees"
+   ]
+  },
+  {
+   "title": "8. Evaluation",
+   "start": 145,
+   "end": 159,
+   "sections": [],
+   "summary": "Normal-order versus applicative-order reduction, lazy evaluation, and their consequences.",
+   "terms": [
+    "normal order",
+    "applicative order",
+    "lazy evaluation",
+    "call by need"
+   ]
+  },
+  {
+   "title": "9. Functional Programming in Standard ML",
+   "start": 160,
+   "end": 186,
+   "sections": [],
+   "summary": "The same ideas in Standard ML: types, pattern matching, lists, higher-order functions and type inference.",
+   "terms": [
+    "Standard ML",
+    "pattern matching",
+    "type inference",
+    "polymorphism"
+   ]
+  },
+  {
+   "title": "10. Functional Programming and LISP",
+   "start": 187,
+   "end": 215,
+   "sections": [],
+   "summary": "The same ideas in LISP: S-expressions, list processing, and LISP\u2019s functional subset.",
+   "terms": [
+    "LISP",
+    "S-expressions",
+    "list processing"
+   ]
+  }
+ ],
+ "url": "https://drive.google.com/file/d/1j0lUd0GSneAMx0DWGqHoW78KSM_Wu_sN/view"
+}

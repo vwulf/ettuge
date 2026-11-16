@@ -1,0 +1,227 @@
+{
+ "title": "Modern Systems Programming with Scala Native",
+ "byline": "Richard Whaling \u00b7 Pragmatic Bookshelf, 2020 (P1.0)",
+ "note": "Summaries are in our own words; the text stays in the PDF.",
+ "summary": "Whaling teaches systems programming in Scala by compiling to native code with Scala Native, which gives direct access to C\u2019s memory model and the POSIX APIs without a JVM. Part I works at the level of C: raw input and output, pointers, structs and manual heap allocation, a hand-written HTTP client, a minimal shell built on fork and exec, and a blocking TCP server. Part II rebuilds those tools on modern foundations: an event loop on libuv, futures and asynchronous patterns for distributed programs, streaming pipes over files and sockets, an embedded key-value database (LMDB) for durability, and finally composing it all into networked services. An appendix sets up the toolchain on macOS or in Docker.",
+ "chapters": [
+  {
+   "title": "Systems Programming in the Twenty-First Century",
+   "start": 18,
+   "end": 23,
+   "sections": [
+    {
+     "title": "What Is Systems Programming?",
+     "start": 18,
+     "end": 18,
+     "summary": "Definitions and scope.",
+     "terms": [
+      "systems programming"
+     ]
+    },
+    {
+     "title": "Moving Toward Modern Systems Programming",
+     "start": 19,
+     "end": 19,
+     "summary": "From C to modern systems languages.",
+     "terms": [
+      "C",
+      "modern systems languages"
+     ]
+    },
+    {
+     "title": "Why Scala Native?",
+     "start": 20,
+     "end": 21,
+     "summary": "Why Scala Native: native performance with Scala\u2019s abstractions.",
+     "terms": [
+      "Scala Native",
+      "LLVM"
+     ]
+    },
+    {
+     "title": "What Makes Scala Native Different",
+     "start": 22,
+     "end": 23,
+     "summary": "What differs from Scala on the JVM.",
+     "terms": [
+      "JVM differences"
+     ]
+    }
+   ],
+   "summary": "What systems programming means today and why a high-level language compiled to native code fits it."
+  },
+  {
+   "title": "Part I\u2014Foundations of Systems Programming",
+   "start": 24,
+   "end": 118,
+   "sections": [
+    {
+     "title": "1. The Basics: Input and Output",
+     "start": 25,
+     "end": 45,
+     "summary": "Reading and writing with C\u2019s stdio from Scala, strings as pointers.",
+     "terms": [
+      "stdio",
+      "CString",
+      "Ptr",
+      "I/O"
+     ]
+    },
+    {
+     "title": "2. Arrays, Structs, and the Heap",
+     "start": 46,
+     "end": 64,
+     "summary": "Pointer arithmetic, arrays, structs, malloc and manual memory management, with a large-data sorting example.",
+     "terms": [
+      "pointers",
+      "structs",
+      "malloc",
+      "heap",
+      "qsort"
+     ]
+    },
+    {
+     "title": "3. Writing a Simple HTTP Client",
+     "start": 65,
+     "end": 87,
+     "summary": "A minimal HTTP client written directly against sockets.",
+     "terms": [
+      "HTTP client",
+      "sockets"
+     ]
+    },
+    {
+     "title": "4. Managing Processes: A Deconstructed Shell",
+     "start": 88,
+     "end": 103,
+     "summary": "fork, exec, wait and pipes, assembled into a small shell.",
+     "terms": [
+      "fork",
+      "exec",
+      "wait",
+      "pipe",
+      "shell"
+     ]
+    },
+    {
+     "title": "5. Writing a Server the Old-Fashioned Way",
+     "start": 104,
+     "end": 118,
+     "summary": "A blocking TCP server in the classic style.",
+     "terms": [
+      "TCP server",
+      "blocking I/O"
+     ]
+    }
+   ],
+   "summary": "C-style programming in Scala: I/O, memory, a network client, processes and a server."
+  },
+  {
+   "title": "Part II\u2014Modern Systems Programming",
+   "start": 119,
+   "end": 223,
+   "sections": [
+    {
+     "title": "6. Doing I/O Right, with Event Loops",
+     "start": 120,
+     "end": 146,
+     "summary": "Non-blocking I/O with libuv and its event loop.",
+     "terms": [
+      "libuv",
+      "event loop",
+      "non-blocking I/O"
+     ]
+    },
+    {
+     "title": "7. Functions and Futures: Patterns for Distributed Services",
+     "start": 147,
+     "end": 170,
+     "summary": "Futures and callbacks for distributed work.",
+     "terms": [
+      "futures",
+      "callbacks",
+      "async"
+     ]
+    },
+    {
+     "title": "8. Streaming with Pipes and Files",
+     "start": 171,
+     "end": 191,
+     "summary": "Streaming data through pipes from files and sockets.",
+     "terms": [
+      "streaming",
+      "pipes",
+      "backpressure"
+     ]
+    },
+    {
+     "title": "9. Durability: An Embedded Key-Value Database with LMDB",
+     "start": 192,
+     "end": 204,
+     "summary": "Persisting data with an embedded LMDB key-value store.",
+     "terms": [
+      "LMDB",
+      "key-value store",
+      "durability"
+     ]
+    },
+    {
+     "title": "10. Services: Encapsulation and Abstraction for Modern Designs",
+     "start": 205,
+     "end": 223,
+     "summary": "Building networked services with clean abstractions.",
+     "terms": [
+      "services",
+      "abstraction"
+     ]
+    }
+   ],
+   "summary": "Asynchronous I/O, futures, streams, persistence and services on top of an event loop."
+  },
+  {
+   "title": "A1. Setting Up the Environment",
+   "start": 224,
+   "end": 229,
+   "sections": [
+    {
+     "title": "Running Scala Native on Mac OS",
+     "start": 224,
+     "end": 224,
+     "summary": "macOS setup.",
+     "terms": [
+      "macOS"
+     ]
+    },
+    {
+     "title": "Why Use Containers?",
+     "start": 225,
+     "end": 225,
+     "summary": "Why use containers.",
+     "terms": [
+      "containers"
+     ]
+    },
+    {
+     "title": "Installing and Configuring Docker",
+     "start": 226,
+     "end": 226,
+     "summary": "Docker installation.",
+     "terms": [
+      "Docker"
+     ]
+    },
+    {
+     "title": "Running Scala Native in Docker",
+     "start": 227,
+     "end": 229,
+     "summary": "Building and running in Docker.",
+     "terms": [
+      "Docker build"
+     ]
+    }
+   ],
+   "summary": "Installing Scala Native locally or running it in Docker."
+  }
+ ],
+ "url": "https://drive.google.com/file/d/1uaUINnw9-U9ZBLA8OoqtxfN_H4I65T67/view"
+}

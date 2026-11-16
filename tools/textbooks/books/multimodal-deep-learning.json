@@ -1,0 +1,232 @@
+{
+ "title": "Multimodal Deep Learning",
+ "byline": "Akkus, Chu, Dani, Ebert et al. (LMU Munich seminar booklet) \u00b7 arXiv 2301.04856, January 2023",
+ "note": "A student-written seminar booklet, each section by different authors; its state of the art is early 2023. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "A survey of deep learning that combines text and images, written by students in an LMU Munich seminar. It first reviews the state of the art separately in NLP (word embeddings to transformers and large language models) and computer vision (CNNs to vision transformers and self-supervised learning), with the datasets and benchmarks for each. The main part covers multimodal architectures in both directions: image captioning, text-to-image generation (DALL-E, diffusion models), images grounding language models, text supervising vision models (CLIP), and joint models of both modalities. Further chapters extend to audio and video, mixing structured data with text and images, multipurpose models like Gato and Perceiver, and generative art.",
+ "chapters": [
+  {
+   "title": "1 Introduction",
+   "start": 9,
+   "end": 12,
+   "sections": [
+    {
+     "title": "1.1 Introduction to Multimodal Deep Learning",
+     "start": 9,
+     "end": 9,
+     "summary": "Why combine modalities.",
+     "terms": [
+      "multimodal deep learning"
+     ]
+    },
+    {
+     "title": "1.2 Outline of the Booklet",
+     "start": 10,
+     "end": 12,
+     "summary": "Booklet outline.",
+     "terms": [
+      "outline"
+     ]
+    }
+   ],
+   "summary": "What multimodal deep learning is and how the booklet is organized."
+  },
+  {
+   "title": "2 Introducing the modalities",
+   "start": 13,
+   "end": 88,
+   "sections": [
+    {
+     "title": "2.1 State-of-the-art in NLP",
+     "start": 15,
+     "end": 38,
+     "summary": "Word embeddings, transformers, BERT, GPT and scaling.",
+     "terms": [
+      "word2vec",
+      "transformer",
+      "BERT",
+      "GPT",
+      "language models"
+     ]
+    },
+    {
+     "title": "2.2 State-of-the-art in Computer Vision",
+     "start": 39,
+     "end": 59,
+     "summary": "CNNs, ResNets, vision transformers and self-supervised vision.",
+     "terms": [
+      "CNN",
+      "ResNet",
+      "ViT",
+      "self-supervised learning"
+     ]
+    },
+    {
+     "title": "2.3 Resources and Benchmarks for NLP, CV and multimodal tasks",
+     "start": 60,
+     "end": 88,
+     "summary": "Datasets and benchmarks for NLP, vision and multimodal tasks.",
+     "terms": [
+      "benchmarks",
+      "ImageNet",
+      "GLUE",
+      "COCO",
+      "datasets"
+     ]
+    }
+   ],
+   "summary": "The unimodal foundations: NLP and computer vision, and the benchmarks for each."
+  },
+  {
+   "title": "3 Multimodal architectures",
+   "start": 89,
+   "end": 186,
+   "sections": [
+    {
+     "title": "3.1 Image2Text",
+     "start": 92,
+     "end": 105,
+     "summary": "Image captioning with encoder\u2013decoder and transformer models.",
+     "terms": [
+      "image captioning",
+      "Image2Text"
+     ]
+    },
+    {
+     "title": "3.2 Text2Image",
+     "start": 106,
+     "end": 130,
+     "summary": "Text-to-image generation: GANs, DALL-E, diffusion and Imagen.",
+     "terms": [
+      "text-to-image",
+      "DALL-E",
+      "diffusion",
+      "Imagen",
+      "Stable Diffusion"
+     ]
+    },
+    {
+     "title": "3.3 Images supporting Language Models",
+     "start": 131,
+     "end": 151,
+     "summary": "Visual grounding for language models.",
+     "terms": [
+      "visual grounding",
+      "vision-language"
+     ]
+    },
+    {
+     "title": "3.4 Text supporting Vision Models",
+     "start": 152,
+     "end": 164,
+     "summary": "Vision models trained with text supervision, such as CLIP.",
+     "terms": [
+      "CLIP",
+      "contrastive learning",
+      "zero-shot"
+     ]
+    },
+    {
+     "title": "3.5 Models for both modalities",
+     "start": 165,
+     "end": 186,
+     "summary": "Joint models of both modalities such as Flamingo and data2vec.",
+     "terms": [
+      "Flamingo",
+      "data2vec",
+      "VilBERT",
+      "unified models"
+     ]
+    }
+   ],
+   "summary": "Architectures that link text and images in either direction or jointly."
+  },
+  {
+   "title": "4 Further Topics",
+   "start": 187,
+   "end": 240,
+   "sections": [
+    {
+     "title": "4.1 Including Further Modalities",
+     "start": 187,
+     "end": 202,
+     "summary": "Adding audio, video and other modalities.",
+     "terms": [
+      "audio",
+      "video",
+      "further modalities"
+     ]
+    },
+    {
+     "title": "4.2 Structured + Unstructured Data",
+     "start": 203,
+     "end": 214,
+     "summary": "Combining structured (tabular) data with unstructured text and images.",
+     "terms": [
+      "tabular data",
+      "structured data"
+     ]
+    },
+    {
+     "title": "4.3 Multipurpose Models",
+     "start": 215,
+     "end": 231,
+     "summary": "Generalist models such as Gato, Perceiver and Pathways.",
+     "terms": [
+      "Gato",
+      "Perceiver",
+      "Pathways",
+      "generalist models"
+     ]
+    },
+    {
+     "title": "4.4 Generative Art",
+     "start": 232,
+     "end": 240,
+     "summary": "Generative art with text-to-image models.",
+     "terms": [
+      "generative art",
+      "prompting"
+     ]
+    }
+   ],
+   "summary": "More modalities, tabular data, generalist models and generative art."
+  },
+  {
+   "title": "5 Conclusion",
+   "start": 241,
+   "end": 242,
+   "sections": [],
+   "summary": "Closing remarks.",
+   "terms": [
+    "conclusion"
+   ]
+  },
+  {
+   "title": "6 Epilogue",
+   "start": 243,
+   "end": 272,
+   "sections": [
+    {
+     "title": "6.1 New influential architectures",
+     "start": 243,
+     "end": 243,
+     "summary": "Influential architectures published after the booklet.",
+     "terms": [
+      "new architectures"
+     ]
+    },
+    {
+     "title": "6.2 Creating videos",
+     "start": 244,
+     "end": 272,
+     "summary": "Text-to-video generation.",
+     "terms": [
+      "video generation"
+     ]
+    }
+   ],
+   "summary": "Developments after writing: new architectures and video generation."
+  }
+ ],
+ "url": "https://drive.google.com/file/d/16K_kCgK9HfJtcI0spXRZnLON3yk_fub9/view"
+}

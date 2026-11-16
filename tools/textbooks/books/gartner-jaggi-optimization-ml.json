@@ -1,0 +1,555 @@
+{
+ "title": "Optimization for Machine Learning (lecture notes)",
+ "byline": "Bernd G\u00e4rtner (ETH) and Martin Jaggi (EPFL) \u00b7 CS-439, Spring 2023",
+ "note": "Course notes; PDF page = printed page + 1. Exercises at the end of each chapter are not broken down. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "A proof-oriented course on the first-order and second-order methods behind machine-learning training. After a self-contained chapter on convex sets and functions, each chapter takes one algorithm and proves how many steps it needs under which assumptions: gradient descent for Lipschitz, smooth and strongly convex objectives (with Nesterov acceleration), projected and proximal variants for constraints and nonsmooth regularizers, subgradient and stochastic gradient descent, what can still be said for nonconvex functions, Newton and quasi-Newton (BFGS) methods, coordinate descent, and the projection-free Frank\u2013Wolfe algorithm. The recurring pattern is a short \u201cvanilla analysis\u201d sharpened by each extra assumption into a better rate.",
+ "chapters": [
+  {
+   "title": "1. Theory of Convex Functions",
+   "start": 3,
+   "end": 39,
+   "sections": [
+    {
+     "title": "1.1 Mathematical Background",
+     "start": 5,
+     "end": 10,
+     "summary": "Notation, Cauchy\u2013Schwarz, spectral norm, mean value theorem, differentiability.",
+     "terms": [
+      "Cauchy-Schwarz",
+      "spectral norm",
+      "mean value theorem",
+      "Jacobian"
+     ]
+    },
+    {
+     "title": "1.2 Convex sets",
+     "start": 11,
+     "end": 13,
+     "summary": "Convex sets and the mean value inequality.",
+     "terms": [
+      "convex set"
+     ]
+    },
+    {
+     "title": "1.3 Convex functions",
+     "start": 14,
+     "end": 21,
+     "summary": "Convex functions and first- and second-order characterizations.",
+     "terms": [
+      "convex function",
+      "first-order condition",
+      "second-order condition",
+      "Hessian"
+     ]
+    },
+    {
+     "title": "1.4 Minimizing convex functions",
+     "start": 22,
+     "end": 26,
+     "summary": "Global minima of convex functions, strict convexity, least squares, constraints.",
+     "terms": [
+      "global minimum",
+      "strict convexity",
+      "least squares",
+      "constrained minimization"
+     ]
+    },
+    {
+     "title": "1.5 Existence of a minimizer",
+     "start": 27,
+     "end": 28,
+     "summary": "Sublevel sets and the Weierstrass theorem.",
+     "terms": [
+      "sublevel set",
+      "Weierstrass theorem"
+     ]
+    },
+    {
+     "title": "1.6 Examples",
+     "start": 29,
+     "end": 39,
+     "summary": "Worked examples: digit recognition and an admissions model.",
+     "terms": [
+      "examples"
+     ]
+    }
+   ],
+   "summary": "Calculus and linear-algebra background, convex sets and functions, their characterizations, and when minimizers exist."
+  },
+  {
+   "title": "2. Gradient Descent",
+   "start": 39,
+   "end": 62,
+   "sections": [
+    {
+     "title": "2.1 Overview",
+     "start": 40,
+     "end": 41,
+     "summary": "Why gradient descent, and its setting.",
+     "terms": [
+      "gradient descent"
+     ]
+    },
+    {
+     "title": "2.2 The algorithm",
+     "start": 42,
+     "end": 42,
+     "summary": "The update rule.",
+     "terms": [
+      "step size"
+     ]
+    },
+    {
+     "title": "2.3 Vanilla analysis",
+     "start": 43,
+     "end": 44,
+     "summary": "A one-page analysis that the later results refine.",
+     "terms": [
+      "vanilla analysis"
+     ]
+    },
+    {
+     "title": "2.4 Lipschitz convex functions: O(1/\u03b52) steps",
+     "start": 45,
+     "end": 46,
+     "summary": "O(1/\u03b5\u00b2) steps for Lipschitz convex functions.",
+     "terms": [
+      "Lipschitz convex",
+      "O(1/\u03b5\u00b2)"
+     ]
+    },
+    {
+     "title": "2.5 Smooth convex functions: O(1/\u03b5) steps",
+     "start": 47,
+     "end": 54,
+     "summary": "O(1/\u03b5) steps for smooth convex functions.",
+     "terms": [
+      "smooth convex",
+      "L-smooth",
+      "O(1/\u03b5)"
+     ]
+    },
+    {
+     "title": "2.7 Interlude",
+     "start": 55,
+     "end": 62,
+     "summary": "An interlude, then Nesterov acceleration and linear rates under strong convexity.",
+     "terms": [
+      "Nesterov acceleration",
+      "strong convexity",
+      "linear convergence"
+     ]
+    }
+   ],
+   "summary": "The basic method and its convergence rates under increasingly strong assumptions, plus acceleration."
+  },
+  {
+   "title": "3. Projected and Proximal Gradient Descent",
+   "start": 62,
+   "end": 78,
+   "sections": [
+    {
+     "title": "3.1 The Algorithm",
+     "start": 63,
+     "end": 63,
+     "summary": "Projected gradient descent.",
+     "terms": [
+      "projected gradient descent"
+     ]
+    },
+    {
+     "title": "3.2 Bounded gradients: O(1/\u03b52) steps",
+     "start": 64,
+     "end": 64,
+     "summary": "Rate with bounded gradients.",
+     "terms": [
+      "bounded gradients"
+     ]
+    },
+    {
+     "title": "3.3 Smooth convex functions: O(1/\u03b5) steps",
+     "start": 65,
+     "end": 67,
+     "summary": "Rate for smooth functions.",
+     "terms": [
+      "smoothness"
+     ]
+    },
+    {
+     "title": "3.4 Smooth and strongly convex functions: O(log(1/\u03b5))",
+     "start": 68,
+     "end": 69,
+     "summary": "Linear rate for smooth strongly convex functions.",
+     "terms": [
+      "strong convexity"
+     ]
+    },
+    {
+     "title": "3.5 Projecting onto \u21131-balls",
+     "start": 70,
+     "end": 73,
+     "summary": "Fast projection onto \u21131 balls.",
+     "terms": [
+      "l1-ball projection"
+     ]
+    },
+    {
+     "title": "3.6 Proximal gradient descent",
+     "start": 74,
+     "end": 78,
+     "summary": "Proximal gradient descent for composite objectives such as the lasso.",
+     "terms": [
+      "proximal gradient descent",
+      "proximal operator",
+      "lasso",
+      "ISTA"
+     ]
+    }
+   ],
+   "summary": "Handling constraints by projection and nonsmooth terms by proximal steps."
+  },
+  {
+   "title": "4. Subgradient Descent",
+   "start": 78,
+   "end": 89,
+   "sections": [
+    {
+     "title": "4.1 Subgradients",
+     "start": 79,
+     "end": 80,
+     "summary": "Subgradients of convex functions.",
+     "terms": [
+      "subgradient",
+      "subdifferential"
+     ]
+    },
+    {
+     "title": "4.2 Differentiability of convex functions",
+     "start": 81,
+     "end": 81,
+     "summary": "Convex functions are differentiable almost everywhere.",
+     "terms": [
+      "differentiability almost everywhere"
+     ]
+    },
+    {
+     "title": "4.3 The algorithm",
+     "start": 82,
+     "end": 82,
+     "summary": "The subgradient method.",
+     "terms": [
+      "subgradient method"
+     ]
+    },
+    {
+     "title": "4.4 Lipschitz convex functions: O(1/\u03b52) steps",
+     "start": 82,
+     "end": 82,
+     "summary": "O(1/\u03b5\u00b2) for Lipschitz functions.",
+     "terms": [
+      "Lipschitz functions"
+     ]
+    },
+    {
+     "title": "4.5 Tame strong convexity: O(1/\u03b5) steps",
+     "start": 83,
+     "end": 85,
+     "summary": "Better rates with strong convexity.",
+     "terms": [
+      "strong convexity"
+     ]
+    },
+    {
+     "title": "4.6 Optimality of first-order methods",
+     "start": 86,
+     "end": 89,
+     "summary": "Lower bounds showing these rates are optimal for first-order methods.",
+     "terms": [
+      "lower bounds",
+      "first-order oracle"
+     ]
+    }
+   ],
+   "summary": "Gradient descent for nondifferentiable convex functions, and lower bounds for first-order methods."
+  },
+  {
+   "title": "5. Stochastic Gradient Descent",
+   "start": 89,
+   "end": 97,
+   "sections": [
+    {
+     "title": "5.1 The algorithm",
+     "start": 90,
+     "end": 90,
+     "summary": "SGD with one sampled gradient per step.",
+     "terms": [
+      "stochastic gradient descent",
+      "SGD"
+     ]
+    },
+    {
+     "title": "5.2 Unbiasedness",
+     "start": 91,
+     "end": 91,
+     "summary": "Unbiased gradient estimates.",
+     "terms": [
+      "unbiased estimator"
+     ]
+    },
+    {
+     "title": "5.3 Bounded stochastic gradients: O(1/\u03b52) steps",
+     "start": 92,
+     "end": 92,
+     "summary": "Rate with bounded stochastic gradients.",
+     "terms": [
+      "bounded variance"
+     ]
+    },
+    {
+     "title": "5.4 Tame strong convexity: O(1/\u03b5) steps",
+     "start": 93,
+     "end": 93,
+     "summary": "Rate with strong convexity.",
+     "terms": [
+      "strong convexity"
+     ]
+    },
+    {
+     "title": "5.5 Stochastic Subgradient Descent",
+     "start": 94,
+     "end": 94,
+     "summary": "Stochastic subgradient descent.",
+     "terms": [
+      "stochastic subgradient"
+     ]
+    },
+    {
+     "title": "5.6 Mini-batch variants",
+     "start": 94,
+     "end": 97,
+     "summary": "Mini-batches to reduce variance.",
+     "terms": [
+      "mini-batch"
+     ]
+    }
+   ],
+   "summary": "Noisy gradient estimates from samples: rates and mini-batching."
+  },
+  {
+   "title": "6. Nonconvex functions",
+   "start": 97,
+   "end": 116,
+   "sections": [
+    {
+     "title": "6.1 Smooth functions",
+     "start": 99,
+     "end": 103,
+     "summary": "Convergence to stationary points for smooth nonconvex functions.",
+     "terms": [
+      "nonconvex optimization",
+      "stationary point"
+     ]
+    },
+    {
+     "title": "6.2 Trajectory analysis",
+     "start": 104,
+     "end": 116,
+     "summary": "Trajectory-based analyses of specific nonconvex problems.",
+     "terms": [
+      "trajectory analysis"
+     ]
+    }
+   ],
+   "summary": "What gradient descent guarantees without convexity, and trajectory analyses."
+  },
+  {
+   "title": "7. Newton\u2019s Method",
+   "start": 116,
+   "end": 128,
+   "sections": [
+    {
+     "title": "7.2 Newton\u2019s method for optimization",
+     "start": 119,
+     "end": 120,
+     "summary": "Newton\u2019s method as minimizing a local quadratic model.",
+     "terms": [
+      "Newton\u2019s method"
+     ]
+    },
+    {
+     "title": "7.3 Once you\u2019re close, you\u2019re there. . .",
+     "start": 121,
+     "end": 128,
+     "summary": "Quadratic convergence once close to the optimum.",
+     "terms": [
+      "quadratic convergence"
+     ]
+    }
+   ],
+   "summary": "Second-order steps and local quadratic convergence."
+  },
+  {
+   "title": "8. Quasi-Newton Methods",
+   "start": 128,
+   "end": 146,
+   "sections": [
+    {
+     "title": "8.1 The secant method",
+     "start": 129,
+     "end": 130,
+     "summary": "The secant method in one dimension.",
+     "terms": [
+      "secant method"
+     ]
+    },
+    {
+     "title": "8.2 The secant condition",
+     "start": 131,
+     "end": 131,
+     "summary": "The secant condition for Hessian approximations.",
+     "terms": [
+      "secant condition"
+     ]
+    },
+    {
+     "title": "8.3 Quasi-Newton methods",
+     "start": 131,
+     "end": 131,
+     "summary": "Quasi-Newton updates including BFGS.",
+     "terms": [
+      "quasi-Newton",
+      "BFGS"
+     ]
+    },
+    {
+     "title": "8.4 Greenstadt\u2019s approach (Optional Material)",
+     "start": 132,
+     "end": 146,
+     "summary": "Greenstadt\u2019s derivation (optional).",
+     "terms": [
+      "Greenstadt"
+     ]
+    }
+   ],
+   "summary": "Approximating the Hessian from gradient differences: secant methods and BFGS."
+  },
+  {
+   "title": "9. Coordinate Descent",
+   "start": 146,
+   "end": 161,
+   "sections": [
+    {
+     "title": "9.1 Overview",
+     "start": 147,
+     "end": 147,
+     "summary": "Motivation for coordinate methods.",
+     "terms": [
+      "coordinate descent"
+     ]
+    },
+    {
+     "title": "9.2 Alternative analysis of gradient descent",
+     "start": 147,
+     "end": 148,
+     "summary": "Re-deriving gradient-descent rates in a new way.",
+     "terms": [
+      "gradient descent analysis"
+     ]
+    },
+    {
+     "title": "9.3 Coordinate-wise smoothness",
+     "start": 149,
+     "end": 149,
+     "summary": "Smoothness per coordinate.",
+     "terms": [
+      "coordinate-wise smoothness"
+     ]
+    },
+    {
+     "title": "9.4 Coordinate descent algorithms",
+     "start": 150,
+     "end": 158,
+     "summary": "Random, greedy and cyclic coordinate rules and their rates.",
+     "terms": [
+      "randomized coordinate descent",
+      "greedy coordinate descent"
+     ]
+    },
+    {
+     "title": "9.5 Summary",
+     "start": 159,
+     "end": 161,
+     "summary": "Summary of rates.",
+     "terms": [
+      "rates summary"
+     ]
+    }
+   ],
+   "summary": "Updating one coordinate at a time, with coordinate-wise smoothness."
+  },
+  {
+   "title": "10. The Frank-Wolfe Algorithm",
+   "start": 161,
+   "end": 181,
+   "sections": [
+    {
+     "title": "10.1 Overview",
+     "start": 162,
+     "end": 162,
+     "summary": "Why avoid projections.",
+     "terms": [
+      "Frank-Wolfe",
+      "conditional gradient"
+     ]
+    },
+    {
+     "title": "10.2 The Algorithm",
+     "start": 163,
+     "end": 164,
+     "summary": "The Frank\u2013Wolfe step via a linear minimization oracle.",
+     "terms": [
+      "linear minimization oracle"
+     ]
+    },
+    {
+     "title": "10.3 On linear minimization oracles",
+     "start": 165,
+     "end": 166,
+     "summary": "Oracles for common constraint sets.",
+     "terms": [
+      "LMO"
+     ]
+    },
+    {
+     "title": "10.4 Duality gap \u2014 A certificate for optimization",
+     "start": 167,
+     "end": 167,
+     "summary": "The duality gap as a stopping certificate.",
+     "terms": [
+      "duality gap"
+     ]
+    },
+    {
+     "title": "10.5 Convergence in O(1/\u03b5) steps",
+     "start": 168,
+     "end": 174,
+     "summary": "O(1/\u03b5) convergence.",
+     "terms": [
+      "convergence rate"
+     ]
+    },
+    {
+     "title": "10.6 Sparsity, extensions and use cases",
+     "start": 175,
+     "end": 181,
+     "summary": "Sparse iterates and applications.",
+     "terms": [
+      "sparsity"
+     ]
+    }
+   ],
+   "summary": "Projection-free optimization over constraint sets via linear minimization."
+  }
+ ],
+ "url": "https://drive.google.com/file/d/129pKy5xEIoYN036tVqiGPKff23K1lDqr/view"
+}

@@ -1,0 +1,337 @@
+{
+ "title": "Concise Machine Learning",
+ "byline": "Jonathan Richard Shewchuk \u00b7 UC Berkeley CS 189/289A lecture notes, Spring 2024",
+ "note": "Lecture notes compiled into one report, one chapter per lecture (no numbered sections); PDF page = printed page + 6. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "Shewchuk\u2019s notes for Berkeley\u2019s undergraduate machine learning course, written with his characteristic geometric pictures and blunt asides. They move from linear classifiers (perceptron, hard- and soft-margin SVMs) through decision theory and Gaussian discriminant analysis (QDA, LDA) to regression (least squares, logistic, ridge, lasso) and the bias\u2013variance decomposition, then decision trees and random forests, kernels, neural networks and CNNs. The unsupervised part covers PCA, the SVD, clustering and high-dimensional geometry, followed by learning theory, boosting and nearest-neighbor methods with k-d trees, and two bonus lectures on spectral graph clustering and latent factor analysis.",
+ "chapters": [
+  {
+   "title": "Lecture 1: Introduction",
+   "start": 7,
+   "sections": [],
+   "end": 12,
+   "summary": "Classification, validation, overfitting, and what the course covers.",
+   "terms": [
+    "classification",
+    "validation",
+    "overfitting"
+   ]
+  },
+  {
+   "title": "Lecture 2: Linear Classifiers and Perceptrons",
+   "start": 13,
+   "sections": [],
+   "end": 18,
+   "summary": "Decision boundaries, linear classifiers, and the perceptron\u2019s goal.",
+   "terms": [
+    "linear classifier",
+    "decision boundary",
+    "perceptron"
+   ]
+  },
+  {
+   "title": "Lecture 3: Perceptron Learning; Maximum Margin Classifiers",
+   "start": 19,
+   "sections": [],
+   "end": 23,
+   "summary": "The perceptron algorithm and the hard-margin SVM.",
+   "terms": [
+    "perceptron algorithm",
+    "hard-margin SVM",
+    "maximum margin"
+   ]
+  },
+  {
+   "title": "Lecture 4: Soft-Margin Support Vector Machines; Features",
+   "start": 24,
+   "sections": [],
+   "end": 30,
+   "summary": "Slack variables for non-separable data, and adding features to get nonlinear boundaries.",
+   "terms": [
+    "soft-margin SVM",
+    "slack variables",
+    "feature engineering"
+   ]
+  },
+  {
+   "title": "Lecture 5: Machine Learning Abstractions and Numerical Optimization",
+   "start": 31,
+   "sections": [],
+   "end": 36,
+   "summary": "How ML problems decompose into model, objective and optimizer; gradient descent, Newton and convex programs.",
+   "terms": [
+    "gradient descent",
+    "Newton\u2019s method",
+    "convex optimization",
+    "linear program",
+    "quadratic program"
+   ]
+  },
+  {
+   "title": "Lecture 6: Decision Theory; Generative and Discriminative Models",
+   "start": 37,
+   "sections": [],
+   "end": 41,
+   "summary": "Bayes risk, loss functions, and generative versus discriminative models.",
+   "terms": [
+    "decision theory",
+    "Bayes risk",
+    "generative model",
+    "discriminative model"
+   ]
+  },
+  {
+   "title": "Lecture 7: Gaussian Discriminant Analysis, including QDA and LDA",
+   "start": 42,
+   "sections": [],
+   "end": 46,
+   "summary": "Fitting Gaussians per class: QDA and LDA decision boundaries.",
+   "terms": [
+    "QDA",
+    "LDA",
+    "Gaussian discriminant analysis"
+   ]
+  },
+  {
+   "title": "Lecture 8: Eigenvectors and the (Anisotropic) Multivariate Normal Distribution",
+   "start": 47,
+   "sections": [],
+   "end": 52,
+   "summary": "Eigenvectors, quadratic forms and the anisotropic multivariate normal.",
+   "terms": [
+    "eigenvectors",
+    "multivariate normal",
+    "covariance"
+   ]
+  },
+  {
+   "title": "Lecture 9: Anisotropic Gaussians: Maximum Likelihood Estimation, QDA, and LDA",
+   "start": 53,
+   "sections": [],
+   "end": 59,
+   "summary": "Maximum likelihood for anisotropic Gaussians, applied to QDA and LDA.",
+   "terms": [
+    "maximum likelihood estimation",
+    "QDA",
+    "LDA"
+   ]
+  },
+  {
+   "title": "Lecture 10: Regression, including Least-Squares Linear and Logistic Regression",
+   "start": 60,
+   "sections": [],
+   "end": 64,
+   "summary": "Least-squares linear regression and logistic regression.",
+   "terms": [
+    "least squares",
+    "linear regression",
+    "logistic regression"
+   ]
+  },
+  {
+   "title": "Lecture 11: More Regression; Newton\u2019s Method; ROC Curves",
+   "start": 65,
+   "sections": [],
+   "end": 70,
+   "summary": "Weighted and polynomial regression, Newton\u2019s method for logistic regression, ROC curves.",
+   "terms": [
+    "Newton\u2019s method",
+    "ROC curve",
+    "weighted regression"
+   ]
+  },
+  {
+   "title": "Lecture 12: Statistical Justifications; the Bias-Variance Decomposition",
+   "start": 71,
+   "sections": [],
+   "end": 76,
+   "summary": "Regression as maximum likelihood and MAP; bias, variance and noise.",
+   "terms": [
+    "MAP",
+    "bias-variance decomposition"
+   ]
+  },
+  {
+   "title": "Lecture 13: Shrinkage: Ridge Regression, Subset Selection, and Lasso",
+   "start": 77,
+   "sections": [],
+   "end": 81,
+   "summary": "Ridge regression, subset selection and the lasso.",
+   "terms": [
+    "ridge regression",
+    "lasso",
+    "subset selection"
+   ]
+  },
+  {
+   "title": "Lecture 14: Decision Trees",
+   "start": 82,
+   "sections": [],
+   "end": 86,
+   "summary": "Building decision trees by greedy splitting on information gain.",
+   "terms": [
+    "decision tree",
+    "entropy",
+    "information gain"
+   ]
+  },
+  {
+   "title": "Lecture 15: More Decision Trees, Ensemble Learning, and Random Forests",
+   "start": 87,
+   "sections": [],
+   "end": 94,
+   "summary": "Pruning, multivariate splits, bagging, random forests and ensembles.",
+   "terms": [
+    "random forest",
+    "bagging",
+    "ensemble learning",
+    "pruning"
+   ]
+  },
+  {
+   "title": "Lecture 16: The Kernel Trick",
+   "start": 95,
+   "sections": [],
+   "end": 99,
+   "summary": "Kernelized algorithms and common kernels, including the Gaussian.",
+   "terms": [
+    "kernel trick",
+    "Gaussian kernel",
+    "kernel perceptron"
+   ]
+  },
+  {
+   "title": "Lecture 17: Neural Networks",
+   "start": 100,
+   "sections": [],
+   "end": 106,
+   "summary": "Feedforward networks and backpropagation.",
+   "terms": [
+    "neural network",
+    "backpropagation"
+   ]
+  },
+  {
+   "title": "Lecture 18: Vanishing Gradients; ReLUs; Output Units and Losses; Neurobiology",
+   "start": 107,
+   "sections": [],
+   "end": 113,
+   "summary": "Vanishing gradients, ReLU, output units and losses, and the neuroscience behind neural nets.",
+   "terms": [
+    "vanishing gradients",
+    "ReLU",
+    "softmax",
+    "cross-entropy"
+   ]
+  },
+  {
+   "title": "Lecture 19: Better Neural Network Training; Convolutional Neural Networks",
+   "start": 114,
+   "sections": [],
+   "end": 121,
+   "summary": "Training heuristics (initialization, momentum, normalization) and convolutional networks.",
+   "terms": [
+    "CNN",
+    "momentum",
+    "batch normalization",
+    "initialization"
+   ]
+  },
+  {
+   "title": "Lecture 20: Unsupervised Learning and Principal Components Analysis",
+   "start": 122,
+   "sections": [],
+   "end": 130,
+   "summary": "Unsupervised learning and principal components analysis.",
+   "terms": [
+    "unsupervised learning",
+    "PCA"
+   ]
+  },
+  {
+   "title": "Lecture 21: The Singular Value Decomposition; Clustering",
+   "start": 131,
+   "sections": [],
+   "end": 138,
+   "summary": "The SVD, and clustering with k-means and hierarchical methods.",
+   "terms": [
+    "SVD",
+    "k-means",
+    "hierarchical clustering"
+   ]
+  },
+  {
+   "title": "Lecture 22: High Dimensions; Random Projection; the Pseudoinverse",
+   "start": 139,
+   "sections": [],
+   "end": 143,
+   "summary": "Behavior of high-dimensional data, random projection and the pseudoinverse.",
+   "terms": [
+    "high dimensions",
+    "random projection",
+    "Johnson-Lindenstrauss",
+    "pseudoinverse"
+   ]
+  },
+  {
+   "title": "Lecture 23: Learning Theory",
+   "start": 144,
+   "sections": [],
+   "end": 149,
+   "summary": "Generalization bounds, VC dimension and dichotomies.",
+   "terms": [
+    "learning theory",
+    "VC dimension",
+    "generalization bound"
+   ]
+  },
+  {
+   "title": "Lecture 24: Boosting; Nearest Neighbor Classification",
+   "start": 150,
+   "sections": [],
+   "end": 154,
+   "summary": "AdaBoost, and nearest-neighbor classification.",
+   "terms": [
+    "AdaBoost",
+    "boosting",
+    "k-nearest neighbors"
+   ]
+  },
+  {
+   "title": "Lecture 25: Nearest Neighbor Algorithms: Voronoi Diagrams and k-d Trees",
+   "start": 155,
+   "sections": [],
+   "end": 159,
+   "summary": "Exact and approximate nearest-neighbor search with Voronoi diagrams and k-d trees.",
+   "terms": [
+    "Voronoi diagram",
+    "k-d tree",
+    "nearest neighbor search"
+   ]
+  },
+  {
+   "title": "A. Bonus Lecture: Spectral Graph Clustering",
+   "start": 160,
+   "sections": [],
+   "end": 167,
+   "summary": "Graph partitioning via the Fiedler vector and normalized cuts.",
+   "terms": [
+    "spectral clustering",
+    "Fiedler vector",
+    "normalized cut",
+    "graph Laplacian"
+   ]
+  },
+  {
+   "title": "B. Bonus Lecture: Multiple Eigenvectors; Latent Factor Analysis",
+   "start": 168,
+   "sections": [],
+   "end": 174,
+   "summary": "Spectral clustering with several eigenvectors, and latent factor analysis.",
+   "terms": [
+    "latent factor analysis",
+    "spectral clustering"
+   ]
+  }
+ ],
+ "url": "https://drive.google.com/file/d/1-0ritizBiXATR96iC8Dri0vjPaYchvZ9/view"
+}

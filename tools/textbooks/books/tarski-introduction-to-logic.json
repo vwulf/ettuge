@@ -1,0 +1,149 @@
+{
+ "title": "Introduction to Logic and to the Methodology of Deductive Sciences",
+ "byline": "Alfred Tarski \u00b7 Oxford University Press (English edition)",
+ "note": "Summaries are in our own words; the text stays in the PDF.",
+ "summary": "Tarski\u2019s classic introduction for readers without mathematical training. The first part teaches elementary logic as the language of mathematics: variables and quantifiers, the sentential calculus with truth tables and laws of inference, identity, the calculus of classes, and relations (including functions and order), then explains the deductive method itself: primitive terms, axioms, definitions, proofs, models, consistency, completeness and independence. The second part applies all of this by axiomatizing a small theory of order and addition for numbers, examining its methodological properties, and extending it toward the real numbers.",
+ "chapters": [
+  {
+   "title": "First Part Elements of Logic. Deductive Method",
+   "start": 16,
+   "end": 167,
+   "sections": [
+    {
+     "title": "I. On the Use of Variables",
+     "start": 17,
+     "end": 31,
+     "summary": "Constants and variables, sentential functions, quantifiers and free versus bound variables.",
+     "terms": [
+      "variables",
+      "constants",
+      "sentential function",
+      "quantifiers",
+      "bound variable"
+     ]
+    },
+    {
+     "title": "II. On the Sentential Calculus",
+     "start": 32,
+     "end": 67,
+     "summary": "Connectives, truth tables, tautologies, rules of inference and the sentential calculus.",
+     "terms": [
+      "sentential calculus",
+      "truth tables",
+      "tautology",
+      "modus ponens",
+      "implication"
+     ]
+    },
+    {
+     "title": "III. On the Theory of Identity",
+     "start": 68,
+     "end": 81,
+     "summary": "Laws of identity, equality of designations, and numerical quantifiers.",
+     "terms": [
+      "identity",
+      "equality"
+     ]
+    },
+    {
+     "title": "IV. On the Theory of Classes",
+     "start": 82,
+     "end": 100,
+     "summary": "Classes, membership, inclusion, operations on classes, and the empty and universal class.",
+     "terms": [
+      "class",
+      "membership",
+      "subset",
+      "union",
+      "intersection",
+      "empty class"
+     ]
+    },
+    {
+     "title": "V. On the Theory of Relations",
+     "start": 101,
+     "end": 132,
+     "summary": "Relations, their properties, functions, one-to-one correspondence and cardinality.",
+     "terms": [
+      "relations",
+      "reflexive",
+      "symmetric",
+      "transitive",
+      "function",
+      "cardinality"
+     ]
+    },
+    {
+     "title": "VI. On the Deductive Method",
+     "start": 133,
+     "end": 167,
+     "summary": "Primitive terms, axioms, definitions, proofs, models and interpretations, consistency, completeness, decidability.",
+     "terms": [
+      "deductive method",
+      "axioms",
+      "primitive terms",
+      "definitions",
+      "proof",
+      "model",
+      "consistency",
+      "completeness",
+      "independence"
+     ]
+    }
+   ],
+   "summary": "Logic as the foundation of deductive reasoning, from variables to the axiomatic method."
+  },
+  {
+   "title": "Second Part Applications of Logic and Methodology in Constructing Mathematical Theories",
+   "start": 168,
+   "end": 265,
+   "sections": [
+    {
+     "title": "VII. Construction of a Mathematical Theory: Laws of Order for Numbers",
+     "start": 169,
+     "end": 182,
+     "summary": "Axioms for the order relation on numbers, and theorems derived from them.",
+     "terms": [
+      "order relation",
+      "axioms of order"
+     ]
+    },
+    {
+     "title": "VIII. Construction of a Mathematical Theory: Laws of Addition and Subtraction",
+     "start": 183,
+     "end": 206,
+     "summary": "Axioms for addition and subtraction, with derived laws.",
+     "terms": [
+      "addition",
+      "subtraction",
+      "group axioms"
+     ]
+    },
+    {
+     "title": "IX. Methodological Considerations on the Constructed Theory",
+     "start": 207,
+     "end": 229,
+     "summary": "Independence of axioms, consistency, and other properties of the constructed theory.",
+     "terms": [
+      "independence",
+      "consistency",
+      "metatheory"
+     ]
+    },
+    {
+     "title": "X. Extension of the Constructed Theory. Foundations of Arithmetic of Real Numbers",
+     "start": 230,
+     "end": 265,
+     "summary": "Extending the theory to multiplication and the real numbers, with completeness and continuity.",
+     "terms": [
+      "real numbers",
+      "continuity",
+      "axiomatization"
+     ]
+    }
+   ],
+   "summary": "A worked axiomatic theory of numbers and what it shows about the method."
+  }
+ ],
+ "url": "https://drive.google.com/file/d/1Kq0R8Zk1q39NUtMzO5QAPvkDjS_roRCP/view"
+}

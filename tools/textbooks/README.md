@@ -24,4 +24,4 @@ One skill per subject, not per book: its SKILL.md routes between the books (whic
 
 Order: smallest first, text-extractable before scans. DNS Bhat books are excluded (covered in full elsewhere on the site).
 
-Needs OCR (deferred): uchinaaguchi-martial-arts-handbook-v1, Sato's Algebraic Topology, Schey's Div Grad Curl, Ramanujan's Kannada grammar, hu2, Shilov's Linear Algebra, Cohn's Universal Algebra, the Rig-Veda scan, slpj-book-1987, Pierce's ATTAPL.
+Needs OCR (deferred): uchinaaguchi-martial-arts-handbook-v1, Dravidian Gods in Modern Hinduism (spaced-out OCR layer), Sato's Algebraic Topology, Schey's Div Grad Curl, Ramanujan's Kannada grammar, hu2, Shilov's Linear Algebra, Cohn's Universal Algebra, the Rig-Veda scan, slpj-book-1987, Pierce's ATTAPL.
