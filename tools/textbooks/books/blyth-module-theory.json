@@ -1,0 +1,275 @@
+{
+ "title": "Module Theory: An Approach to Linear Algebra",
+ "byline": "T. S. Blyth \u00b7 2nd edition 1990, electronic edition 2018 (CC BY 4.0)",
+ "note": "PDF page = printed page + 5. The book has no numbered sections, so each chapter is one leaf. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "An algebra-first treatment of linear algebra that works with modules over rings and specializes to vector spaces when the ring is a field. Blyth covers submodules, morphisms and exact sequences, isomorphism theorems and chain conditions, products and coproducts, free and projective modules, duality, matrices, inner product spaces, injective and semisimple modules, the Jacobson radical, tensor products and flatness, tensor and exterior algebras with determinants, the structure of finitely generated modules over a PID, and finally canonical forms (rational, Jordan) and diagonalization of normal transformations.",
+ "chapters": [
+  {
+   "title": "1. Modules; vector spaces; algebras",
+   "start": 6,
+   "end": 11,
+   "sections": [],
+   "summary": "Definitions of modules, vector spaces and algebras, with examples.",
+   "terms": [
+    "module",
+    "ring",
+    "vector space",
+    "algebra",
+    "unitary ring"
+   ]
+  },
+  {
+   "title": "2. Submodules; intersections and sums",
+   "start": 12,
+   "end": 17,
+   "sections": [],
+   "summary": "Submodules, intersections, sums and generated submodules.",
+   "terms": [
+    "submodule",
+    "sum",
+    "intersection",
+    "lattice of submodules",
+    "generating set"
+   ]
+  },
+  {
+   "title": "3. Morphisms; exact sequences",
+   "start": 18,
+   "end": 32,
+   "sections": [],
+   "summary": "Module homomorphisms, kernels and images, and exact sequences.",
+   "terms": [
+    "morphism",
+    "kernel",
+    "image",
+    "exact sequence",
+    "short exact sequence",
+    "five lemma",
+    "snake lemma"
+   ]
+  },
+  {
+   "title": "4. Quotient modules; isomorphism theorems",
+   "start": 33,
+   "end": 43,
+   "sections": [],
+   "summary": "Quotient modules and the isomorphism theorems.",
+   "terms": [
+    "quotient module",
+    "isomorphism theorems",
+    "correspondence theorem"
+   ]
+  },
+  {
+   "title": "5. Chain conditions; Jordan\u2013H\u00f6lder towers",
+   "start": 44,
+   "end": 52,
+   "sections": [],
+   "summary": "Noetherian and Artinian conditions and composition series.",
+   "terms": [
+    "Noetherian",
+    "Artinian",
+    "chain conditions",
+    "composition series",
+    "Jordan-H\u00f6lder theorem"
+   ]
+  },
+  {
+   "title": "6. Products and coproducts",
+   "start": 53,
+   "end": 70,
+   "sections": [],
+   "summary": "Products, coproducts and direct sums by universal properties.",
+   "terms": [
+    "product",
+    "coproduct",
+    "direct sum",
+    "universal property",
+    "split exact sequence"
+   ]
+  },
+  {
+   "title": "7. Free modules; bases",
+   "start": 71,
+   "end": 86,
+   "sections": [],
+   "summary": "Free modules, bases and dimension.",
+   "terms": [
+    "free module",
+    "basis",
+    "rank",
+    "dimension",
+    "invariant basis number"
+   ]
+  },
+  {
+   "title": "8. Groups of morphisms; projective modules",
+   "start": 87,
+   "end": 102,
+   "sections": [],
+   "summary": "Hom groups and projective modules.",
+   "terms": [
+    "Hom functor",
+    "projective module",
+    "exactness of Hom"
+   ]
+  },
+  {
+   "title": "9. Duality; transposition",
+   "start": 103,
+   "end": 111,
+   "sections": [],
+   "summary": "Dual modules and transposed morphisms.",
+   "terms": [
+    "dual module",
+    "transpose",
+    "annihilator",
+    "double dual"
+   ]
+  },
+  {
+   "title": "10. Matrices; linear equations",
+   "start": 112,
+   "end": 129,
+   "sections": [],
+   "summary": "Matrices of morphisms, rank and linear equations.",
+   "terms": [
+    "matrix",
+    "change of basis",
+    "rank",
+    "linear equations",
+    "row reduction"
+   ]
+  },
+  {
+   "title": "11. Inner product spaces",
+   "start": 130,
+   "end": 142,
+   "sections": [],
+   "summary": "Inner product spaces, orthogonality and adjoints.",
+   "terms": [
+    "inner product",
+    "orthogonality",
+    "Gram-Schmidt",
+    "adjoint"
+   ]
+  },
+  {
+   "title": "12. Injective modules",
+   "start": 143,
+   "end": 150,
+   "sections": [],
+   "summary": "Injective modules and divisible groups.",
+   "terms": [
+    "injective module",
+    "Baer criterion",
+    "divisible group",
+    "injective hull"
+   ]
+  },
+  {
+   "title": "13. Simple and semisimple modules",
+   "start": 151,
+   "end": 161,
+   "sections": [],
+   "summary": "Simple and semisimple modules and rings.",
+   "terms": [
+    "simple module",
+    "semisimple module",
+    "Schur lemma",
+    "Wedderburn-Artin"
+   ]
+  },
+  {
+   "title": "14. The Jacobson radical",
+   "start": 162,
+   "end": 168,
+   "sections": [],
+   "summary": "The Jacobson radical and Nakayama\u2019s lemma.",
+   "terms": [
+    "Jacobson radical",
+    "Nakayama lemma"
+   ]
+  },
+  {
+   "title": "15. Tensor products; flat modules; regular rings",
+   "start": 169,
+   "end": 187,
+   "sections": [],
+   "summary": "Tensor products of modules, flatness and von Neumann regular rings.",
+   "terms": [
+    "tensor product",
+    "flat module",
+    "regular ring",
+    "adjunction"
+   ]
+  },
+  {
+   "title": "16. Tensor algebras",
+   "start": 188,
+   "end": 202,
+   "sections": [],
+   "summary": "Tensor algebras and symmetric algebras.",
+   "terms": [
+    "tensor algebra",
+    "symmetric algebra",
+    "graded algebra"
+   ]
+  },
+  {
+   "title": "17. Exterior algebras; determinants",
+   "start": 203,
+   "end": 226,
+   "sections": [],
+   "summary": "Exterior algebras and determinants defined through them.",
+   "terms": [
+    "exterior algebra",
+    "alternating maps",
+    "determinant"
+   ]
+  },
+  {
+   "title": "18. Modules over a principal ideal domain; finitely generated abelian groups",
+   "start": 227,
+   "end": 247,
+   "sections": [],
+   "summary": "Finitely generated modules over a PID and the classification of abelian groups.",
+   "terms": [
+    "principal ideal domain",
+    "torsion module",
+    "invariant factors",
+    "elementary divisors",
+    "finitely generated abelian groups"
+   ]
+  },
+  {
+   "title": "19. Vector space decomposition theorems; canonical forms under similarity",
+   "start": 248,
+   "end": 271,
+   "sections": [],
+   "summary": "Decomposing a vector space under an operator and canonical forms.",
+   "terms": [
+    "primary decomposition",
+    "cyclic decomposition",
+    "rational canonical form",
+    "Jordan form",
+    "similarity"
+   ]
+  },
+  {
+   "title": "20. Diagonalisation; normal transformations",
+   "start": 272,
+   "end": 305,
+   "sections": [],
+   "summary": "Diagonalizability, normal transformations and the spectral theorem.",
+   "terms": [
+    "diagonalization",
+    "normal transformation",
+    "spectral theorem",
+    "self-adjoint",
+    "unitary"
+   ]
+  }
+ ],
+ "url": "https://drive.google.com/file/d/12dZQ039nTi2mc65o8wk0jKXEgwdTE0fj/view"
+}

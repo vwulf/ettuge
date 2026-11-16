@@ -1,0 +1,431 @@
+{
+ "title": "Linear Algebra via Exterior Products",
+ "byline": "Sergei Winitzki \u00b7 2010 edition (GNU FDL)",
+ "note": "Appendices (complex numbers, permutations, matrices, license) are not broken down. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "A coordinate-free course in linear algebra for physicists and mathematicians that does nearly everything with the exterior (wedge) product instead of matrices. After vector spaces, duals and tensor products, it introduces exterior powers and uses them to define determinants, the trace and the characteristic polynomial as basis-independent objects, then derives Cramer\u2019s rule, Vandermonde determinants, Cayley\u2013Hamilton, functions of operators, the Jacobi and Liouville formulas and the Jordan form. A final chapter adds a scalar product: orthogonality, Hodge-style duality, antisymmetric operators and Pfaffians.",
+ "chapters": [
+  {
+   "title": "0 Introduction and summary",
+   "start": 11,
+   "end": 20,
+   "sections": [
+    {
+     "title": "0.1 Notation",
+     "start": 11,
+     "end": 12,
+     "summary": "Notation.",
+     "terms": [
+      "notation"
+     ]
+    },
+    {
+     "title": "0.2 Sample quiz problems",
+     "start": 13,
+     "end": 14,
+     "summary": "Sample problems.",
+     "terms": [
+      "quiz problems"
+     ]
+    },
+    {
+     "title": "0.3 A list of results",
+     "start": 15,
+     "end": 20,
+     "summary": "Summary of results.",
+     "terms": [
+      "results"
+     ]
+    }
+   ],
+   "summary": "Notation, a quiz of the kind of problems the book solves, and a list of its results."
+  },
+  {
+   "title": "1 Linear algebra without coordinates",
+   "start": 21,
+   "end": 82,
+   "sections": [
+    {
+     "title": "1.1 Vector spaces",
+     "start": 21,
+     "end": 35,
+     "summary": "Abstract vector spaces.",
+     "terms": [
+      "vector space"
+     ]
+    },
+    {
+     "title": "1.2 Linear maps in vector spaces",
+     "start": 36,
+     "end": 42,
+     "summary": "Linear maps.",
+     "terms": [
+      "linear map"
+     ]
+    },
+    {
+     "title": "1.3 Subspaces",
+     "start": 43,
+     "end": 44,
+     "summary": "Subspaces.",
+     "terms": [
+      "subspace"
+     ]
+    },
+    {
+     "title": "1.4 Isomorphisms of vector spaces",
+     "start": 45,
+     "end": 45,
+     "summary": "Isomorphisms.",
+     "terms": [
+      "isomorphism"
+     ]
+    },
+    {
+     "title": "1.5 Direct sum of vector spaces",
+     "start": 46,
+     "end": 46,
+     "summary": "Direct sums.",
+     "terms": [
+      "direct sum"
+     ]
+    },
+    {
+     "title": "1.6 Dual (conjugate) vector space",
+     "start": 47,
+     "end": 54,
+     "summary": "Dual spaces and covectors.",
+     "terms": [
+      "dual space",
+      "covector"
+     ]
+    },
+    {
+     "title": "1.7 Tensor product of vector spaces",
+     "start": 55,
+     "end": 62,
+     "summary": "Tensor products.",
+     "terms": [
+      "tensor product"
+     ]
+    },
+    {
+     "title": "1.8 Linear maps and tensors",
+     "start": 63,
+     "end": 74,
+     "summary": "Linear maps as tensors in V\u2297V*.",
+     "terms": [
+      "tensor",
+      "linear operator"
+     ]
+    },
+    {
+     "title": "1.9 Index notation for tensors",
+     "start": 75,
+     "end": 78,
+     "summary": "Index notation.",
+     "terms": [
+      "index notation",
+      "Einstein summation"
+     ]
+    },
+    {
+     "title": "1.10 Dirac notation for vectors and covectors",
+     "start": 79,
+     "end": 82,
+     "summary": "Dirac bra-ket notation.",
+     "terms": [
+      "Dirac notation",
+      "bra-ket"
+     ]
+    }
+   ],
+   "summary": "Vector spaces, maps, duals and tensors without choosing coordinates."
+  },
+  {
+   "title": "2 Exterior product",
+   "start": 83,
+   "end": 116,
+   "sections": [
+    {
+     "title": "2.1 Motivation",
+     "start": 83,
+     "end": 87,
+     "summary": "Why oriented areas and volumes motivate the wedge product.",
+     "terms": [
+      "oriented area",
+      "volume"
+     ]
+    },
+    {
+     "title": "2.2 Exterior product",
+     "start": 88,
+     "end": 94,
+     "summary": "Definition and rules of the exterior product.",
+     "terms": [
+      "exterior product",
+      "wedge product"
+     ]
+    },
+    {
+     "title": "2.3 Properties of spaces kV",
+     "start": 95,
+     "end": 116,
+     "summary": "Dimension and bases of \u2227\u1d4fV, and linear dependence via wedges.",
+     "terms": [
+      "exterior power",
+      "linear independence"
+     ]
+    }
+   ],
+   "summary": "The exterior product and the spaces \u2227\u1d4fV."
+  },
+  {
+   "title": "3 Basic applications",
+   "start": 117,
+   "end": 164,
+   "sections": [
+    {
+     "title": "3.1 Determinants through permutations: the hard way",
+     "start": 117,
+     "end": 118,
+     "summary": "The classical permutation formula, for comparison.",
+     "terms": [
+      "permutations",
+      "Leibniz formula"
+     ]
+    },
+    {
+     "title": "3.2 The space NV and oriented volume",
+     "start": 119,
+     "end": 123,
+     "summary": "The top power \u2227\u1d3aV and oriented volume.",
+     "terms": [
+      "top exterior power",
+      "oriented volume"
+     ]
+    },
+    {
+     "title": "3.3 Determinants of operators",
+     "start": 124,
+     "end": 129,
+     "summary": "The determinant of an operator as its action on \u2227\u1d3aV.",
+     "terms": [
+      "determinant"
+     ]
+    },
+    {
+     "title": "3.4 Determinants of square tables",
+     "start": 130,
+     "end": 135,
+     "summary": "Determinants of matrices.",
+     "terms": [
+      "matrix determinant"
+     ]
+    },
+    {
+     "title": "3.5 Solving linear equations",
+     "start": 136,
+     "end": 142,
+     "summary": "Cramer\u2019s rule and solving systems.",
+     "terms": [
+      "Cramer\u2019s rule"
+     ]
+    },
+    {
+     "title": "3.6 Vandermonde matrix",
+     "start": 143,
+     "end": 146,
+     "summary": "The Vandermonde determinant.",
+     "terms": [
+      "Vandermonde matrix"
+     ]
+    },
+    {
+     "title": "3.7 Multilinear actions in exterior powers",
+     "start": 147,
+     "end": 150,
+     "summary": "How operators act on exterior powers.",
+     "terms": [
+      "exterior power of operator"
+     ]
+    },
+    {
+     "title": "3.8 Trace",
+     "start": 151,
+     "end": 154,
+     "summary": "The trace as a derivation on \u2227\u1d3aV.",
+     "terms": [
+      "trace"
+     ]
+    },
+    {
+     "title": "3.9 Characteristic polynomial",
+     "start": 155,
+     "end": 164,
+     "summary": "The characteristic polynomial and its coefficients.",
+     "terms": [
+      "characteristic polynomial"
+     ]
+    }
+   ],
+   "summary": "Determinants, trace and characteristic polynomial from exterior powers."
+  },
+  {
+   "title": "4 Advanced applications",
+   "start": 165,
+   "end": 222,
+   "sections": [
+    {
+     "title": "4.1 The space N-1V",
+     "start": 165,
+     "end": 169,
+     "summary": "The space \u2227\u1d3a\u207b\u00b9V.",
+     "terms": [
+      "N-1 exterior power"
+     ]
+    },
+    {
+     "title": "4.2 Algebraic complement (adjoint) and beyond",
+     "start": 170,
+     "end": 179,
+     "summary": "The algebraic complement (adjugate) and generalizations.",
+     "terms": [
+      "adjugate",
+      "algebraic complement"
+     ]
+    },
+    {
+     "title": "4.3 Cayley-Hamilton theorem and beyond",
+     "start": 180,
+     "end": 182,
+     "summary": "Cayley\u2013Hamilton and its extensions.",
+     "terms": [
+      "Cayley-Hamilton theorem"
+     ]
+    },
+    {
+     "title": "4.4 Functions of operators",
+     "start": 183,
+     "end": 195,
+     "summary": "Functions of operators via polynomials and power series.",
+     "terms": [
+      "functions of operators",
+      "matrix exponential"
+     ]
+    },
+    {
+     "title": "4.5 Formulas of Jacobi and Liouville",
+     "start": 196,
+     "end": 203,
+     "summary": "Jacobi\u2019s formula and Liouville\u2019s formula for determinants of exponentials.",
+     "terms": [
+      "Jacobi formula",
+      "Liouville formula"
+     ]
+    },
+    {
+     "title": "4.6 Jordan canonical form",
+     "start": 204,
+     "end": 213,
+     "summary": "The Jordan canonical form.",
+     "terms": [
+      "Jordan canonical form"
+     ]
+    },
+    {
+     "title": "4.7 * Construction of projectors onto Jordan cells",
+     "start": 214,
+     "end": 222,
+     "summary": "Projectors onto Jordan cells (optional).",
+     "terms": [
+      "projectors"
+     ]
+    }
+   ],
+   "summary": "Further results: adjugates, Cayley\u2013Hamilton, functions of operators and the Jordan form."
+  },
+  {
+   "title": "5 Scalar product",
+   "start": 223,
+   "end": 270,
+   "sections": [
+    {
+     "title": "5.1 Vector spaces with scalar product",
+     "start": 223,
+     "end": 231,
+     "summary": "Scalar products and orthonormal bases.",
+     "terms": [
+      "scalar product",
+      "orthonormal basis"
+     ]
+    },
+    {
+     "title": "5.2 Orthogonal subspaces",
+     "start": 232,
+     "end": 236,
+     "summary": "Orthogonal complements.",
+     "terms": [
+      "orthogonal complement"
+     ]
+    },
+    {
+     "title": "5.3 Orthogonal transformations",
+     "start": 237,
+     "end": 239,
+     "summary": "Orthogonal transformations.",
+     "terms": [
+      "orthogonal transformation"
+     ]
+    },
+    {
+     "title": "5.4 Applications of exterior product",
+     "start": 240,
+     "end": 249,
+     "summary": "Volumes, cross products and distances via wedges.",
+     "terms": [
+      "cross product",
+      "Hodge star"
+     ]
+    },
+    {
+     "title": "5.5 Scalar product in kV",
+     "start": 250,
+     "end": 255,
+     "summary": "The induced scalar product on \u2227\u1d4fV.",
+     "terms": [
+      "scalar product on exterior powers"
+     ]
+    },
+    {
+     "title": "5.6 Scalar product for complex spaces",
+     "start": 256,
+     "end": 260,
+     "summary": "Hermitian products on complex spaces.",
+     "terms": [
+      "Hermitian product"
+     ]
+    },
+    {
+     "title": "5.7 Antisymmetric operators",
+     "start": 261,
+     "end": 263,
+     "summary": "Antisymmetric operators.",
+     "terms": [
+      "antisymmetric operator"
+     ]
+    },
+    {
+     "title": "5.8 * Pfaffians",
+     "start": 264,
+     "end": 270,
+     "summary": "Pfaffians (optional).",
+     "terms": [
+      "Pfaffian"
+     ]
+    }
+   ],
+   "summary": "Adding a scalar product: orthogonality, duality and antisymmetric operators."
+  }
+ ],
+ "url": "https://drive.google.com/file/d/10gYZxIrH4CT-B8qRWfh34aHL-JWDksFM/view"
+}

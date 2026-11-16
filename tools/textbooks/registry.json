@@ -206,5 +206,69 @@
   "Category Theory for Scientists",
   "Spivak",
   "ologs, databases, limits, adjoints, monads, operads"
+ ],
+ [
+  "linear-algebra-done-wrong",
+  "ladw",
+  "Mathematics",
+  "Linear Algebra Done Wrong",
+  "Sergei Treil",
+  "Rigorous first course with early determinants, through SVD, quadratic forms, tensors and Jordan form."
+ ],
+ [
+  "little-book-of-semaphores",
+  "semaphores",
+  "Computer Science",
+  "The Little Book of Semaphores",
+  "Allen B. Downey",
+  "Concurrency puzzles solved with semaphores, from classic problems to original ones."
+ ],
+ [
+  "implementing-functional-languages",
+  "student",
+  "Computer Science",
+  "Implementing Functional Languages: a tutorial",
+  "Simon Peyton Jones and David Lester",
+  "Building lazy evaluators step by step: template instantiation, G-machine, TIM, parallel G-machine, lambda lifting."
+ ],
+ [
+  "discrete-algebra-fourier-transform",
+  "daft",
+  "Mathematics",
+  "The Discrete Algebra of the Fourier Transform",
+  "Gabriel Peyré",
+  "Fourier analysis on finite groups, the DFT and FFT, finite-field transforms and group representations."
+ ],
+ [
+  "linear-algebra-via-exterior-products",
+  "linalg-ebook",
+  "Mathematics",
+  "Linear Algebra via Exterior Products",
+  "Sergei Winitzki",
+  "Coordinate-free linear algebra where determinants, trace and Jordan form come from wedge products."
+ ],
+ [
+  "high-dimensional-probability",
+  "hdp",
+  "AI and Machine Learning",
+  "High-Dimensional Probability",
+  "Roman Vershynin",
+  "Concentration, random matrices, chaining and sparse recovery, each with a data-science application."
+ ],
+ [
+  "blyth-module-theory",
+  "module-theory",
+  "Mathematics",
+  "Module Theory: An Approach to Linear Algebra",
+  "T. S. Blyth",
+  "Linear algebra over rings: exact sequences, projective and injective modules, tensors, PIDs and canonical forms."
+ ],
+ [
+  "distributed-computing-combinatorial-topology",
+  "dc-topology",
+  "Computer Science",
+  "Distributed Computing Through Combinatorial Topology",
+  "Herlihy, Kozlov and Rajsbaum",
+  "Solvability of distributed tasks as a question about simplicial complexes and their maps."
  ]
 ]
