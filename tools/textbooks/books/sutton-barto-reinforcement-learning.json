@@ -1,0 +1,859 @@
+{
+ "title": "Reinforcement Learning: An Introduction (2nd edition draft)",
+ "byline": "Richard S. Sutton and Andrew G. Barto \u00b7 MIT Press; this PDF is an early \u201cin progress\u201d draft of the second edition",
+ "note": "PDF page = printed page + 14. This draft predates the published 2018 edition: several chapters (off-policy approximation, psychology, neuroscience) are one-page placeholders and are left out here, and the later chapters differ from the final book. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "The standard introduction to reinforcement learning: an agent learning by trial and error to maximize reward. Part I covers tabular methods: bandits and exploration, finite MDPs and the Bellman equations, dynamic programming, Monte Carlo methods, temporal-difference learning (Sarsa, Q-learning), eligibility traces and TD(\u03bb), and planning with learned models (Dyna, prioritized sweeping, MCTS). Part II extends value prediction and control to function approximation and introduces actor\u2013critic and average-reward methods. A case-study chapter covers TD-Gammon, Samuel\u2019s checkers player, the acrobot, elevator dispatching, channel allocation and job-shop scheduling.",
+ "chapters": [
+  {
+   "title": "The Reinforcement Learning Problem",
+   "start": 15,
+   "sections": [
+    {
+     "title": "Reinforcement Learning",
+     "start": 16,
+     "end": 18,
+     "summary": "Learning from interaction to maximize reward.",
+     "terms": [
+      "reinforcement learning"
+     ]
+    },
+    {
+     "title": "Examples",
+     "start": 19,
+     "end": 20,
+     "summary": "Examples from games, robotics and biology.",
+     "terms": [
+      "examples"
+     ]
+    },
+    {
+     "title": "Elements of Reinforcement Learning",
+     "start": 21,
+     "end": 22,
+     "summary": "Policy, reward, value function and model.",
+     "terms": [
+      "policy",
+      "reward signal",
+      "value function",
+      "model"
+     ]
+    },
+    {
+     "title": "Limitations and Scope",
+     "start": 23,
+     "end": 23,
+     "summary": "What is and is not covered.",
+     "terms": [
+      "scope",
+      "evolutionary methods"
+     ]
+    },
+    {
+     "title": "An Extended Example: Tic-Tac-Toe",
+     "start": 24,
+     "end": 28,
+     "summary": "Learning tic-tac-toe with a value table.",
+     "terms": [
+      "tic-tac-toe",
+      "temporal difference"
+     ]
+    },
+    {
+     "title": "History of Reinforcement Learning",
+     "start": 30,
+     "end": 38,
+     "summary": "Optimal control, trial-and-error learning and TD learning as historical threads.",
+     "terms": [
+      "history",
+      "optimal control",
+      "Bellman",
+      "law of effect"
+     ]
+    }
+   ],
+   "end": 44,
+   "summary": "What reinforcement learning is and where it came from."
+  },
+  {
+   "title": "Multi-arm Bandits",
+   "start": 45,
+   "sections": [
+    {
+     "title": "An n-Armed Bandit Problem",
+     "start": 46,
+     "end": 46,
+     "summary": "The k-armed bandit.",
+     "terms": [
+      "multi-armed bandit"
+     ]
+    },
+    {
+     "title": "Action-Value Methods",
+     "start": 47,
+     "end": 49,
+     "summary": "Estimating action values; \u03b5-greedy.",
+     "terms": [
+      "action values",
+      "epsilon-greedy"
+     ]
+    },
+    {
+     "title": "Incremental Implementation",
+     "start": 50,
+     "end": 51,
+     "summary": "Incremental averages.",
+     "terms": [
+      "incremental update"
+     ]
+    },
+    {
+     "title": "Tracking a Nonstationary Problem",
+     "start": 52,
+     "end": 52,
+     "summary": "Constant step sizes for changing problems.",
+     "terms": [
+      "nonstationary",
+      "step size"
+     ]
+    },
+    {
+     "title": "Optimistic Initial Values",
+     "start": 53,
+     "end": 54,
+     "summary": "Optimistic initial values.",
+     "terms": [
+      "optimistic initialization"
+     ]
+    },
+    {
+     "title": "Upper-Confidence-Bound Action Selection",
+     "start": 55,
+     "end": 55,
+     "summary": "UCB action selection.",
+     "terms": [
+      "upper confidence bound"
+     ]
+    },
+    {
+     "title": "Gradient Bandits",
+     "start": 56,
+     "end": 59,
+     "summary": "Gradient bandit algorithms.",
+     "terms": [
+      "gradient bandit",
+      "softmax"
+     ]
+    },
+    {
+     "title": "Associative Search (Contextual Bandits)",
+     "start": 60,
+     "end": 60,
+     "summary": "Contextual bandits.",
+     "terms": [
+      "contextual bandits"
+     ]
+    }
+   ],
+   "end": 66,
+   "summary": "Balancing exploration and exploitation in a single-state problem."
+  },
+  {
+   "title": "Finite Markov Decision Processes",
+   "start": 67,
+   "sections": [
+    {
+     "title": "The Agent\u2013Environment Interface",
+     "start": 67,
+     "end": 70,
+     "summary": "Agent, environment, states, actions, rewards.",
+     "terms": [
+      "agent-environment interface"
+     ]
+    },
+    {
+     "title": "Goals and Rewards",
+     "start": 71,
+     "end": 72,
+     "summary": "The reward hypothesis.",
+     "terms": [
+      "reward hypothesis"
+     ]
+    },
+    {
+     "title": "Returns",
+     "start": 73,
+     "end": 74,
+     "summary": "Returns and discounting.",
+     "terms": [
+      "return",
+      "discounting"
+     ]
+    },
+    {
+     "title": "Unified Notation for Episodic and Continuing Tasks",
+     "start": 75,
+     "end": 75,
+     "summary": "Episodic vs. continuing tasks.",
+     "terms": [
+      "episodic",
+      "continuing"
+     ]
+    },
+    {
+     "title": "The Markov Property",
+     "start": 76,
+     "end": 80,
+     "summary": "The Markov property.",
+     "terms": [
+      "Markov property"
+     ]
+    },
+    {
+     "title": "Markov Decision Processes",
+     "start": 81,
+     "end": 83,
+     "summary": "MDP dynamics.",
+     "terms": [
+      "MDP",
+      "transition probabilities"
+     ]
+    },
+    {
+     "title": "Value Functions",
+     "start": 84,
+     "end": 88,
+     "summary": "State and action value functions and Bellman equations.",
+     "terms": [
+      "value function",
+      "Bellman equation"
+     ]
+    },
+    {
+     "title": "Optimal Value Functions",
+     "start": 89,
+     "end": 92,
+     "summary": "Optimal values and Bellman optimality.",
+     "terms": [
+      "optimal value function",
+      "Bellman optimality"
+     ]
+    },
+    {
+     "title": "Optimality and Approximation",
+     "start": 93,
+     "end": 93,
+     "summary": "Why exact optimality is impractical.",
+     "terms": [
+      "approximation"
+     ]
+    }
+   ],
+   "end": 102,
+   "summary": "The formal problem: finite Markov decision processes."
+  },
+  {
+   "title": "Dynamic Programming",
+   "start": 103,
+   "sections": [
+    {
+     "title": "Policy Evaluation",
+     "start": 104,
+     "end": 107,
+     "summary": "Iterative policy evaluation.",
+     "terms": [
+      "policy evaluation"
+     ]
+    },
+    {
+     "title": "Policy Improvement",
+     "start": 108,
+     "end": 109,
+     "summary": "Policy improvement theorem.",
+     "terms": [
+      "policy improvement"
+     ]
+    },
+    {
+     "title": "Policy Iteration",
+     "start": 110,
+     "end": 111,
+     "summary": "Policy iteration.",
+     "terms": [
+      "policy iteration"
+     ]
+    },
+    {
+     "title": "Value Iteration",
+     "start": 112,
+     "end": 114,
+     "summary": "Value iteration.",
+     "terms": [
+      "value iteration"
+     ]
+    },
+    {
+     "title": "Asynchronous Dynamic Programming",
+     "start": 115,
+     "end": 117,
+     "summary": "Asynchronous DP.",
+     "terms": [
+      "asynchronous dynamic programming"
+     ]
+    },
+    {
+     "title": "Generalized Policy Iteration",
+     "start": 118,
+     "end": 119,
+     "summary": "Generalized policy iteration.",
+     "terms": [
+      "generalized policy iteration"
+     ]
+    },
+    {
+     "title": "Efficiency of Dynamic Programming",
+     "start": 120,
+     "end": 120,
+     "summary": "Efficiency.",
+     "terms": [
+      "efficiency",
+      "curse of dimensionality"
+     ]
+    }
+   ],
+   "end": 126,
+   "summary": "Computing optimal policies when the model is known."
+  },
+  {
+   "title": "Monte Carlo Methods",
+   "start": 127,
+   "sections": [
+    {
+     "title": "Monte Carlo Prediction",
+     "start": 128,
+     "end": 132,
+     "summary": "First-visit and every-visit prediction.",
+     "terms": [
+      "Monte Carlo prediction"
+     ]
+    },
+    {
+     "title": "Monte Carlo Estimation of Action Values",
+     "start": 133,
+     "end": 133,
+     "summary": "Estimating action values.",
+     "terms": [
+      "action values"
+     ]
+    },
+    {
+     "title": "Monte Carlo Control",
+     "start": 134,
+     "end": 137,
+     "summary": "MC control with exploring starts.",
+     "terms": [
+      "exploring starts"
+     ]
+    },
+    {
+     "title": "Monte Carlo Control without Exploring Starts",
+     "start": 138,
+     "end": 140,
+     "summary": "On-policy control with soft policies.",
+     "terms": [
+      "epsilon-soft",
+      "on-policy"
+     ]
+    },
+    {
+     "title": "Off-policy Prediction via Importance Sampling",
+     "start": 141,
+     "end": 146,
+     "summary": "Importance sampling for off-policy prediction.",
+     "terms": [
+      "importance sampling",
+      "off-policy"
+     ]
+    },
+    {
+     "title": "Incremental Implementation",
+     "start": 147,
+     "end": 148,
+     "summary": "Incremental implementation.",
+     "terms": [
+      "weighted importance sampling"
+     ]
+    },
+    {
+     "title": "Off-Policy Monte Carlo Control",
+     "start": 149,
+     "end": 149,
+     "summary": "Off-policy MC control.",
+     "terms": [
+      "off-policy control"
+     ]
+    },
+    {
+     "title": "Importance Sampling on Truncated Returns",
+     "start": 150,
+     "end": 151,
+     "summary": "Truncated-return importance sampling.",
+     "terms": [
+      "truncated returns"
+     ]
+    }
+   ],
+   "end": 156,
+   "summary": "Learning values from complete sampled episodes."
+  },
+  {
+   "title": "Temporal-Difference Learning",
+   "start": 157,
+   "sections": [
+    {
+     "title": "TD Prediction",
+     "start": 157,
+     "end": 161,
+     "summary": "TD(0) prediction.",
+     "terms": [
+      "TD(0)",
+      "TD error"
+     ]
+    },
+    {
+     "title": "Advantages of TD Prediction Methods",
+     "start": 162,
+     "end": 164,
+     "summary": "Why TD often beats MC.",
+     "terms": [
+      "bootstrapping"
+     ]
+    },
+    {
+     "title": "Optimality of TD(0)",
+     "start": 165,
+     "end": 167,
+     "summary": "Batch TD and certainty equivalence.",
+     "terms": [
+      "batch updating",
+      "certainty equivalence"
+     ]
+    },
+    {
+     "title": "Sarsa: On-Policy TD Control",
+     "start": 168,
+     "end": 170,
+     "summary": "Sarsa.",
+     "terms": [
+      "Sarsa"
+     ]
+    },
+    {
+     "title": "Q-Learning: Off-Policy TD Control",
+     "start": 171,
+     "end": 173,
+     "summary": "Q-learning.",
+     "terms": [
+      "Q-learning"
+     ]
+    },
+    {
+     "title": "Games, Afterstates, and Other Special Cases",
+     "start": 174,
+     "end": 174,
+     "summary": "Afterstates and special cases.",
+     "terms": [
+      "afterstates"
+     ]
+    }
+   ],
+   "end": 180,
+   "summary": "Bootstrapping from estimates: temporal-difference learning."
+  },
+  {
+   "title": "Eligibility Traces",
+   "start": 181,
+   "sections": [
+    {
+     "title": "n-Step TD Prediction",
+     "start": 182,
+     "end": 185,
+     "summary": "n-step returns.",
+     "terms": [
+      "n-step TD"
+     ]
+    },
+    {
+     "title": "The Forward View of TD(\u03bb)",
+     "start": 186,
+     "end": 190,
+     "summary": "\u03bb-returns (forward view).",
+     "terms": [
+      "lambda-return",
+      "forward view"
+     ]
+    },
+    {
+     "title": "The Backward View of TD(\u03bb)",
+     "start": 191,
+     "end": 194,
+     "summary": "Eligibility traces (backward view).",
+     "terms": [
+      "eligibility traces",
+      "backward view"
+     ]
+    },
+    {
+     "title": "Equivalences of Forward and Backward Views",
+     "start": 195,
+     "end": 196,
+     "summary": "When the views agree.",
+     "terms": [
+      "equivalence"
+     ]
+    },
+    {
+     "title": "Sarsa(\u03bb)",
+     "start": 197,
+     "end": 199,
+     "summary": "Sarsa(\u03bb).",
+     "terms": [
+      "Sarsa(\u03bb)"
+     ]
+    },
+    {
+     "title": "Watkins\u2019s Q(\u03bb)",
+     "start": 200,
+     "end": 201,
+     "summary": "Watkins\u2019s Q(\u03bb).",
+     "terms": [
+      "Watkins Q(\u03bb)"
+     ]
+    },
+    {
+     "title": "Off-policy Eligibility Traces using Importance Sampling",
+     "start": 202,
+     "end": 202,
+     "summary": "Off-policy traces.",
+     "terms": [
+      "off-policy traces"
+     ]
+    },
+    {
+     "title": "Implementation Issues",
+     "start": 203,
+     "end": 203,
+     "summary": "Implementation.",
+     "terms": [
+      "implementation"
+     ]
+    },
+    {
+     "title": "Variable \u03bb",
+     "start": 204,
+     "end": 204,
+     "summary": "Variable \u03bb.",
+     "terms": [
+      "variable lambda"
+     ]
+    }
+   ],
+   "end": 208,
+   "summary": "Unifying TD and Monte Carlo with eligibility traces."
+  },
+  {
+   "title": "Planning and Learning with Tabular Methods",
+   "start": 209,
+   "sections": [
+    {
+     "title": "Models and Planning",
+     "start": 209,
+     "end": 211,
+     "summary": "Models and planning.",
+     "terms": [
+      "model-based",
+      "planning"
+     ]
+    },
+    {
+     "title": "Integrating Planning, Acting, and Learning",
+     "start": 212,
+     "end": 216,
+     "summary": "Dyna architecture.",
+     "terms": [
+      "Dyna-Q"
+     ]
+    },
+    {
+     "title": "When the Model Is Wrong",
+     "start": 217,
+     "end": 219,
+     "summary": "Coping with wrong models (Dyna-Q+).",
+     "terms": [
+      "model error",
+      "exploration bonus"
+     ]
+    },
+    {
+     "title": "Prioritized Sweeping",
+     "start": 220,
+     "end": 223,
+     "summary": "Prioritized sweeping.",
+     "terms": [
+      "prioritized sweeping"
+     ]
+    },
+    {
+     "title": "Full vs. Sample Backups",
+     "start": 224,
+     "end": 226,
+     "summary": "Expected vs. sample backups.",
+     "terms": [
+      "full vs sample backups"
+     ]
+    },
+    {
+     "title": "Trajectory Sampling",
+     "start": 227,
+     "end": 230,
+     "summary": "Trajectory sampling.",
+     "terms": [
+      "trajectory sampling"
+     ]
+    },
+    {
+     "title": "Heuristic Search",
+     "start": 231,
+     "end": 233,
+     "summary": "Heuristic search.",
+     "terms": [
+      "heuristic search"
+     ]
+    },
+    {
+     "title": "Monte Carlo Tree Search",
+     "start": 234,
+     "end": 234,
+     "summary": "Monte Carlo tree search.",
+     "terms": [
+      "MCTS"
+     ]
+    }
+   ],
+   "end": 238,
+   "summary": "Integrating planning with learning in tabular methods."
+  },
+  {
+   "title": "On-policy Approximation of Action Values",
+   "start": 239,
+   "sections": [
+    {
+     "title": "Value Prediction with Function Approximation",
+     "start": 240,
+     "end": 242,
+     "summary": "Value prediction with approximation.",
+     "terms": [
+      "function approximation"
+     ]
+    },
+    {
+     "title": "Gradient-Descent Methods",
+     "start": 243,
+     "end": 245,
+     "summary": "Gradient and semi-gradient methods.",
+     "terms": [
+      "gradient descent",
+      "semi-gradient"
+     ]
+    },
+    {
+     "title": "Linear Methods",
+     "start": 246,
+     "end": 254,
+     "summary": "Linear methods, coarse and tile coding, RBFs.",
+     "terms": [
+      "linear features",
+      "tile coding",
+      "coarse coding",
+      "RBF"
+     ]
+    },
+    {
+     "title": "Control with Function Approximation",
+     "start": 255,
+     "end": 260,
+     "summary": "Control with approximation (e.g. mountain car).",
+     "terms": [
+      "control",
+      "mountain car"
+     ]
+    },
+    {
+     "title": "Should We Bootstrap?",
+     "start": 261,
+     "end": 262,
+     "summary": "Bootstrapping versus Monte Carlo under approximation.",
+     "terms": [
+      "bootstrapping"
+     ]
+    }
+   ],
+   "end": 268,
+   "summary": "Function approximation for prediction and control."
+  },
+  {
+   "title": "Policy Approximation",
+   "start": 271,
+   "sections": [
+    {
+     "title": "Actor\u2013Critic Methods",
+     "start": 271,
+     "end": 272,
+     "summary": "Actor\u2013critic methods.",
+     "terms": [
+      "actor-critic"
+     ]
+    },
+    {
+     "title": "Eligibility Traces for Actor\u2013Critic Methods",
+     "start": 273,
+     "end": 273,
+     "summary": "Traces for actor\u2013critic.",
+     "terms": [
+      "eligibility traces"
+     ]
+    },
+    {
+     "title": "R-Learning and the Average-Reward Setting",
+     "start": 274,
+     "end": 282,
+     "summary": "R-learning and average reward.",
+     "terms": [
+      "R-learning",
+      "average reward"
+     ]
+    }
+   ],
+   "end": 282,
+   "summary": "Learning policies directly."
+  },
+  {
+   "title": "Applications and Case Studies",
+   "start": 287,
+   "sections": [
+    {
+     "title": "TD-Gammon",
+     "start": 287,
+     "end": 292,
+     "summary": "TD-Gammon.",
+     "terms": [
+      "TD-Gammon",
+      "backgammon"
+     ]
+    },
+    {
+     "title": "Samuel\u2019s Checkers Player",
+     "start": 293,
+     "end": 295,
+     "summary": "Samuel\u2019s checkers player.",
+     "terms": [
+      "Samuel checkers"
+     ]
+    },
+    {
+     "title": "The Acrobot",
+     "start": 296,
+     "end": 299,
+     "summary": "Acrobot swing-up.",
+     "terms": [
+      "acrobot"
+     ]
+    },
+    {
+     "title": "Elevator Dispatching",
+     "start": 300,
+     "end": 304,
+     "summary": "Elevator dispatching.",
+     "terms": [
+      "elevator dispatching"
+     ]
+    },
+    {
+     "title": "Dynamic Channel Allocation",
+     "start": 305,
+     "end": 308,
+     "summary": "Channel allocation in cellular systems.",
+     "terms": [
+      "dynamic channel allocation"
+     ]
+    },
+    {
+     "title": "Job-Shop Scheduling",
+     "start": 309,
+     "end": 316,
+     "summary": "Job-shop scheduling.",
+     "terms": [
+      "job-shop scheduling"
+     ]
+    }
+   ],
+   "end": 316,
+   "summary": "Case studies of RL applied to real problems."
+  },
+  {
+   "title": "Prospects",
+   "start": 317,
+   "sections": [
+    {
+     "title": "The Unified View",
+     "start": 317,
+     "end": 319,
+     "summary": "The unified view of RL methods.",
+     "terms": [
+      "unified view"
+     ]
+    },
+    {
+     "title": "State Estimation",
+     "start": 320,
+     "end": 320,
+     "summary": "State estimation under partial observability.",
+     "terms": [
+      "POMDP",
+      "state estimation"
+     ]
+    },
+    {
+     "title": "Temporal Abstraction",
+     "start": 320,
+     "end": 320,
+     "summary": "Temporal abstraction and options.",
+     "terms": [
+      "options",
+      "temporal abstraction"
+     ]
+    },
+    {
+     "title": "Predictive Representations",
+     "start": 320,
+     "end": 320,
+     "summary": "Predictive state representations.",
+     "terms": [
+      "predictive representations"
+     ]
+    },
+    {
+     "title": "Other Frontier Dimensions",
+     "start": 320,
+     "end": 324,
+     "summary": "Other frontiers.",
+     "terms": [
+      "frontiers"
+     ]
+    }
+   ],
+   "end": 324,
+   "summary": "Open directions."
+  }
+ ],
+ "url": "https://drive.google.com/file/d/15cJp-WoqoqiflM0OPxmgOYLXqhYIOL1v/view"
+}

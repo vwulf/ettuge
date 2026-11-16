@@ -1,0 +1,195 @@
+{
+ "title": "Book of Proof",
+ "byline": "Richard Hammack \u00b7 3rd edition, 2018 (free online)",
+ "note": "Solutions to odd-numbered exercises (PDF pp. 304\u2013375) are not broken down. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "A transition-to-proofs textbook that teaches how to read and write mathematical proofs. It starts with sets, logic and counting, then covers the standard techniques for conditional statements (direct, contrapositive, contradiction), other kinds of statements (if-and-only-if, existence, uniqueness), proofs about sets, disproof by counterexample and mathematical induction, and finally relations, functions, a chapter of \u03b5\u2013\u03b4 proofs in calculus, and cardinality of sets including Cantor\u2019s theorem.",
+ "chapters": [
+  {
+   "title": "I Fundamentals",
+   "start": 13,
+   "end": 122,
+   "sections": [
+    {
+     "title": "Sets",
+     "start": 15,
+     "end": 45,
+     "summary": "Sets, set-builder notation, Cartesian products, power sets, unions and Venn diagrams.",
+     "terms": [
+      "sets",
+      "set-builder notation",
+      "Cartesian product",
+      "power set",
+      "Venn diagram"
+     ]
+    },
+    {
+     "title": "Logic",
+     "start": 46,
+     "end": 76,
+     "summary": "Statements, connectives, truth tables, quantifiers and negation.",
+     "terms": [
+      "logic",
+      "truth tables",
+      "quantifiers",
+      "negation"
+     ]
+    },
+    {
+     "title": "Counting",
+     "start": 77,
+     "end": 122,
+     "summary": "Counting: lists, factorials, combinations, binomial theorem, inclusion\u2013exclusion, pigeonhole.",
+     "terms": [
+      "counting",
+      "combinations",
+      "binomial theorem",
+      "inclusion-exclusion",
+      "pigeonhole"
+     ]
+    }
+   ],
+   "summary": "The language of sets, logic and counting."
+  },
+  {
+   "title": "II How to Prove Conditional Statements",
+   "start": 123,
+   "end": 156,
+   "sections": [
+    {
+     "title": "Direct Proof",
+     "start": 125,
+     "end": 139,
+     "summary": "Direct proof.",
+     "terms": [
+      "direct proof"
+     ]
+    },
+    {
+     "title": "Contrapositive Proof",
+     "start": 140,
+     "end": 148,
+     "summary": "Contrapositive proof and congruence.",
+     "terms": [
+      "contrapositive",
+      "congruence"
+     ]
+    },
+    {
+     "title": "Proof by Contradiction",
+     "start": 149,
+     "end": 156,
+     "summary": "Proof by contradiction.",
+     "terms": [
+      "proof by contradiction"
+     ]
+    }
+   ],
+   "summary": "Proving if\u2013then statements."
+  },
+  {
+   "title": "III More on Proof",
+   "start": 157,
+   "end": 210,
+   "sections": [
+    {
+     "title": "Proving Non-Conditional Statements",
+     "start": 159,
+     "end": 168,
+     "summary": "If-and-only-if, existence and uniqueness proofs.",
+     "terms": [
+      "iff",
+      "existence",
+      "uniqueness"
+     ]
+    },
+    {
+     "title": "Proofs Involving Sets",
+     "start": 169,
+     "end": 183,
+     "summary": "Proving set inclusions and equalities.",
+     "terms": [
+      "subset proofs",
+      "set equality"
+     ]
+    },
+    {
+     "title": "Disproof",
+     "start": 184,
+     "end": 191,
+     "summary": "Counterexamples.",
+     "terms": [
+      "counterexample",
+      "disproof"
+     ]
+    },
+    {
+     "title": "Mathematical Induction",
+     "start": 192,
+     "end": 210,
+     "summary": "Induction, strong induction and the Fibonacci sequence.",
+     "terms": [
+      "mathematical induction",
+      "strong induction"
+     ]
+    }
+   ],
+   "summary": "Proving other statements and disproving."
+  },
+  {
+   "title": "IV Relations, Functions and Cardinality",
+   "start": 211,
+   "end": 302,
+   "sections": [
+    {
+     "title": "Relations",
+     "start": 213,
+     "end": 234,
+     "summary": "Relations, equivalence relations and partitions.",
+     "terms": [
+      "relations",
+      "equivalence relation",
+      "partition"
+     ]
+    },
+    {
+     "title": "Functions",
+     "start": 235,
+     "end": 255,
+     "summary": "Functions, injections, surjections, bijections, composition and inverses.",
+     "terms": [
+      "function",
+      "injective",
+      "surjective",
+      "bijective",
+      "inverse"
+     ]
+    },
+    {
+     "title": "Proofs in Calculus",
+     "start": 256,
+     "end": 280,
+     "summary": "Limits and continuity proved with \u03b5 and \u03b4.",
+     "terms": [
+      "epsilon-delta",
+      "limits",
+      "continuity"
+     ]
+    },
+    {
+     "title": "Cardinality of Sets",
+     "start": 281,
+     "end": 302,
+     "summary": "Countable and uncountable sets, Cantor\u2013Bernstein.",
+     "terms": [
+      "cardinality",
+      "countable",
+      "Cantor theorem",
+      "Cantor-Bernstein"
+     ]
+    }
+   ],
+   "summary": "Relations, functions and the sizes of sets."
+  }
+ ],
+ "url": "https://drive.google.com/file/d/126YJ4snIabrXmXGNyASX9oREaHLiJKyu/view"
+}

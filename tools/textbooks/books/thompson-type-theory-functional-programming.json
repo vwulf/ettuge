@@ -1,0 +1,686 @@
+{
+ "title": "Type Theory and Functional Programming",
+ "byline": "Simon Thompson \u00b7 Addison-Wesley, 1991; author\u2019s free edition, 1999",
+ "note": "PDF page = printed page + 13. Bibliography and rule tables are not broken down. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "An introduction to Martin-L\u00f6f\u2019s constructive type theory as both a logic and a programming language. After background on logic, the \u03bb-calculus and constructive mathematics, Thompson presents the theory through the Curry\u2013Howard correspondence: propositions as types and proofs as programs, with rules for connectives, quantifiers, natural numbers, trees and equality. He then explores its metatheory (normalization, equality, universes, well-founded types), applies it to program development and verification (quicksort, vectors, the Polish flag, program transformation), and surveys extensions such as subset and quotient types, inductive and coinductive types and partial objects, ending with foundations and related work.",
+ "chapters": [
+  {
+   "title": "Introduction",
+   "start": 14,
+   "sections": [],
+   "end": 19,
+   "summary": "Why combine logic and programming: correctness and constructive reasoning.",
+   "terms": [
+    "program correctness",
+    "constructive logic",
+    "propositions as types",
+    "Martin-L\u00f6f type theory"
+   ]
+  },
+  {
+   "title": "Introduction to Logic",
+   "start": 20,
+   "sections": [
+    {
+     "title": "Propositional Logic",
+     "start": 21,
+     "end": 28,
+     "summary": "Natural deduction rules for connectives.",
+     "terms": [
+      "natural deduction",
+      "propositional logic"
+     ]
+    },
+    {
+     "title": "Predicate Logic",
+     "start": 29,
+     "end": 41,
+     "summary": "Quantifiers, variables and substitution.",
+     "terms": [
+      "predicate logic",
+      "quantifiers",
+      "substitution"
+     ]
+    }
+   ],
+   "end": 41,
+   "summary": "Natural deduction for propositional and predicate logic."
+  },
+  {
+   "title": "Functional Programming and \u03bb-Calculi",
+   "start": 42,
+   "sections": [
+    {
+     "title": "Functional Programming",
+     "start": 43,
+     "end": 44,
+     "summary": "Functional programming ideas.",
+     "terms": [
+      "functional programming"
+     ]
+    },
+    {
+     "title": "The untyped \u03bb-calculus",
+     "start": 45,
+     "end": 48,
+     "summary": "Untyped \u03bb-calculus.",
+     "terms": [
+      "untyped lambda calculus"
+     ]
+    },
+    {
+     "title": "Evaluation",
+     "start": 49,
+     "end": 52,
+     "summary": "Reduction and evaluation.",
+     "terms": [
+      "reduction",
+      "evaluation"
+     ]
+    },
+    {
+     "title": "Convertibility",
+     "start": 53,
+     "end": 53,
+     "summary": "Convertibility.",
+     "terms": [
+      "convertibility"
+     ]
+    },
+    {
+     "title": "Expressiveness",
+     "start": 54,
+     "end": 54,
+     "summary": "Expressiveness.",
+     "terms": [
+      "expressiveness"
+     ]
+    },
+    {
+     "title": "Typed \u03bb-calculus",
+     "start": 55,
+     "end": 57,
+     "summary": "Simply typed \u03bb-calculus.",
+     "terms": [
+      "typed lambda calculus"
+     ]
+    },
+    {
+     "title": "Strong normalisation",
+     "start": 58,
+     "end": 62,
+     "summary": "Strong normalization.",
+     "terms": [
+      "strong normalization"
+     ]
+    },
+    {
+     "title": "Further type constructors: the product",
+     "start": 63,
+     "end": 65,
+     "summary": "Product types.",
+     "terms": [
+      "product type"
+     ]
+    },
+    {
+     "title": "Base Types: Natural Numbers",
+     "start": 66,
+     "end": 67,
+     "summary": "Natural numbers.",
+     "terms": [
+      "natural numbers"
+     ]
+    },
+    {
+     "title": "General Recursion",
+     "start": 68,
+     "end": 68,
+     "summary": "General recursion.",
+     "terms": [
+      "general recursion"
+     ]
+    },
+    {
+     "title": "Evaluation revisited",
+     "start": 69,
+     "end": 71,
+     "summary": "Evaluation strategies.",
+     "terms": [
+      "lazy",
+      "strict evaluation"
+     ]
+    }
+   ],
+   "end": 71,
+   "summary": "Functional programming and the \u03bb-calculus, typed and untyped."
+  },
+  {
+   "title": "Constructive Mathematics",
+   "start": 72,
+   "sections": [],
+   "end": 79,
+   "summary": "Constructive mathematics and the BHK interpretation.",
+   "terms": [
+    "constructive mathematics",
+    "intuitionism",
+    "BHK interpretation",
+    "Bishop"
+   ]
+  },
+  {
+   "title": "Introduction to Type Theory",
+   "start": 80,
+   "sections": [
+    {
+     "title": "Propositional Logic: an Informal View",
+     "start": 82,
+     "end": 83,
+     "summary": "Propositional logic informally.",
+     "terms": [
+      "informal logic"
+     ]
+    },
+    {
+     "title": "Judgements, Proofs and Derivations",
+     "start": 84,
+     "end": 85,
+     "summary": "Judgements and derivations.",
+     "terms": [
+      "judgements",
+      "derivations"
+     ]
+    },
+    {
+     "title": "The Rules for Propositional Calculus",
+     "start": 86,
+     "end": 90,
+     "summary": "Rules for the propositional connectives.",
+     "terms": [
+      "introduction",
+      "elimination rules"
+     ]
+    },
+    {
+     "title": "The Curry Howard Isomorphism",
+     "start": 91,
+     "end": 95,
+     "summary": "The Curry\u2013Howard isomorphism.",
+     "terms": [
+      "Curry-Howard isomorphism"
+     ]
+    },
+    {
+     "title": "Some examples",
+     "start": 96,
+     "end": 100,
+     "summary": "Worked examples.",
+     "terms": [
+      "examples"
+     ]
+    },
+    {
+     "title": "Quantifiers",
+     "start": 101,
+     "end": 108,
+     "summary": "\u03a0 and \u03a3 for quantifiers.",
+     "terms": [
+      "dependent types",
+      "Pi",
+      "Sigma"
+     ]
+    },
+    {
+     "title": "Base Types",
+     "start": 109,
+     "end": 112,
+     "summary": "Base types.",
+     "terms": [
+      "base types"
+     ]
+    },
+    {
+     "title": "The natural numbers",
+     "start": 113,
+     "end": 117,
+     "summary": "Natural numbers and primitive recursion.",
+     "terms": [
+      "natural numbers",
+      "recursion"
+     ]
+    },
+    {
+     "title": "Well-founded types \u2014 trees",
+     "start": 118,
+     "end": 121,
+     "summary": "Well-founded trees.",
+     "terms": [
+      "W-types",
+      "trees"
+     ]
+    },
+    {
+     "title": "Equality",
+     "start": 122,
+     "end": 129,
+     "summary": "The identity type I.",
+     "terms": [
+      "identity type",
+      "equality"
+     ]
+    },
+    {
+     "title": "Convertibility",
+     "start": 130,
+     "end": 137,
+     "summary": "Convertibility.",
+     "terms": [
+      "convertibility"
+     ]
+    }
+   ],
+   "end": 137,
+   "summary": "The core of Martin-L\u00f6f type theory."
+  },
+  {
+   "title": "Exploring Type Theory",
+   "start": 138,
+   "sections": [
+    {
+     "title": "Assumptions",
+     "start": 139,
+     "end": 142,
+     "summary": "Handling assumptions.",
+     "terms": [
+      "assumptions"
+     ]
+    },
+    {
+     "title": "Naming and abbreviations",
+     "start": 143,
+     "end": 145,
+     "summary": "Definitions and abbreviations.",
+     "terms": [
+      "definitions"
+     ]
+    },
+    {
+     "title": "Revising the rules",
+     "start": 146,
+     "end": 151,
+     "summary": "Revised rules.",
+     "terms": [
+      "rules"
+     ]
+    },
+    {
+     "title": "Derivability",
+     "start": 152,
+     "end": 156,
+     "summary": "Derivability.",
+     "terms": [
+      "derivability"
+     ]
+    },
+    {
+     "title": "Computation",
+     "start": 157,
+     "end": 165,
+     "summary": "Computation and normal forms.",
+     "terms": [
+      "computation"
+     ]
+    },
+    {
+     "title": "TT0c: Normalisation and its corollaries",
+     "start": 166,
+     "end": 175,
+     "summary": "Normalization and consequences.",
+     "terms": [
+      "normalization"
+     ]
+    },
+    {
+     "title": "Equalities and Identities",
+     "start": 176,
+     "end": 180,
+     "summary": "Equalities and identities.",
+     "terms": [
+      "equality",
+      "identity"
+     ]
+    },
+    {
+     "title": "Different Equalities",
+     "start": 181,
+     "end": 186,
+     "summary": "Kinds of equality (definitional, propositional, extensional).",
+     "terms": [
+      "intensional",
+      "extensional equality"
+     ]
+    },
+    {
+     "title": "Universes",
+     "start": 187,
+     "end": 191,
+     "summary": "Universes.",
+     "terms": [
+      "universes"
+     ]
+    },
+    {
+     "title": "Well-founded types",
+     "start": 192,
+     "end": 201,
+     "summary": "General well-founded types.",
+     "terms": [
+      "W-types"
+     ]
+    },
+    {
+     "title": "Expressibility",
+     "start": 202,
+     "end": 203,
+     "summary": "Expressibility.",
+     "terms": [
+      "expressibility"
+     ]
+    },
+    {
+     "title": "The Curry Howard Isomorphism?",
+     "start": 204,
+     "end": 207,
+     "summary": "Limits of Curry\u2013Howard.",
+     "terms": [
+      "Curry-Howard"
+     ]
+    }
+   ],
+   "end": 207,
+   "summary": "Metatheory and refinements of the theory."
+  },
+  {
+   "title": "Applying Type Theory",
+   "start": 208,
+   "sections": [
+    {
+     "title": "Recursion",
+     "start": 209,
+     "end": 219,
+     "summary": "Recursion forms.",
+     "terms": [
+      "recursion"
+     ]
+    },
+    {
+     "title": "A Case Study \u2013 Quicksort",
+     "start": 220,
+     "end": 226,
+     "summary": "Quicksort derived with its proof.",
+     "terms": [
+      "quicksort"
+     ]
+    },
+    {
+     "title": "Dependent types and quantifiers",
+     "start": 227,
+     "end": 238,
+     "summary": "Dependent types and quantifiers in programs.",
+     "terms": [
+      "dependent types"
+     ]
+    },
+    {
+     "title": "A Case Study \u2013 Vectors",
+     "start": 239,
+     "end": 242,
+     "summary": "Length-indexed vectors.",
+     "terms": [
+      "vectors"
+     ]
+    },
+    {
+     "title": "Proof Extraction; Top-Down Proof",
+     "start": 243,
+     "end": 246,
+     "summary": "Extracting programs from proofs.",
+     "terms": [
+      "proof extraction"
+     ]
+    },
+    {
+     "title": "Program Development \u2013 Polish National Flag",
+     "start": 247,
+     "end": 250,
+     "summary": "The Polish national flag problem.",
+     "terms": [
+      "Polish flag",
+      "program development"
+     ]
+    },
+    {
+     "title": "Program Transformation",
+     "start": 251,
+     "end": 259,
+     "summary": "Program transformation.",
+     "terms": [
+      "program transformation"
+     ]
+    },
+    {
+     "title": "Imperative Programming",
+     "start": 260,
+     "end": 261,
+     "summary": "Imperative programs.",
+     "terms": [
+      "imperative programming"
+     ]
+    },
+    {
+     "title": "Examples in the literature",
+     "start": 262,
+     "end": 265,
+     "summary": "Examples from the literature.",
+     "terms": [
+      "literature"
+     ]
+    }
+   ],
+   "end": 265,
+   "summary": "Using type theory to write and verify programs."
+  },
+  {
+   "title": "Augmenting Type Theory",
+   "start": 266,
+   "sections": [
+    {
+     "title": "Background",
+     "start": 268,
+     "end": 273,
+     "summary": "Background on extensions.",
+     "terms": [
+      "extensions"
+     ]
+    },
+    {
+     "title": "The subset type",
+     "start": 274,
+     "end": 277,
+     "summary": "Subset types.",
+     "terms": [
+      "subset type"
+     ]
+    },
+    {
+     "title": "Propositions not types",
+     "start": 278,
+     "end": 280,
+     "summary": "Separating propositions from types.",
+     "terms": [
+      "propositions vs types"
+     ]
+    },
+    {
+     "title": "Are subsets necessary?",
+     "start": 281,
+     "end": 285,
+     "summary": "Whether subsets are needed.",
+     "terms": [
+      "subsets"
+     ]
+    },
+    {
+     "title": "Quotient or Congruence Types",
+     "start": 286,
+     "end": 290,
+     "summary": "Quotient types.",
+     "terms": [
+      "quotient types",
+      "setoids"
+     ]
+    },
+    {
+     "title": "Case Study \u2013 The Real Numbers",
+     "start": 291,
+     "end": 293,
+     "summary": "Constructive reals.",
+     "terms": [
+      "real numbers"
+     ]
+    },
+    {
+     "title": "Strengthened rules; polymorphism",
+     "start": 294,
+     "end": 298,
+     "summary": "Polymorphism and strengthened rules.",
+     "terms": [
+      "polymorphism"
+     ]
+    },
+    {
+     "title": "Well-founded recursion",
+     "start": 299,
+     "end": 304,
+     "summary": "Well-founded recursion.",
+     "terms": [
+      "well-founded recursion"
+     ]
+    },
+    {
+     "title": "Well-founded recursion in type theory",
+     "start": 305,
+     "end": 310,
+     "summary": "Well-founded recursion inside type theory.",
+     "terms": [
+      "accessibility"
+     ]
+    },
+    {
+     "title": "Inductive types",
+     "start": 311,
+     "end": 315,
+     "summary": "Inductive types.",
+     "terms": [
+      "inductive types"
+     ]
+    },
+    {
+     "title": "Co-inductions",
+     "start": 316,
+     "end": 321,
+     "summary": "Coinductive types.",
+     "terms": [
+      "coinduction",
+      "streams"
+     ]
+    },
+    {
+     "title": "Partial Objects and Types",
+     "start": 322,
+     "end": 322,
+     "summary": "Partial objects.",
+     "terms": [
+      "partial functions"
+     ]
+    },
+    {
+     "title": "Modelling",
+     "start": 323,
+     "end": 327,
+     "summary": "Modelling.",
+     "terms": [
+      "models"
+     ]
+    }
+   ],
+   "end": 327,
+   "summary": "Extensions to the basic theory."
+  },
+  {
+   "title": "Foundations",
+   "start": 328,
+   "sections": [
+    {
+     "title": "Proof Theory",
+     "start": 328,
+     "end": 333,
+     "summary": "Proof theory: normalization and consistency.",
+     "terms": [
+      "proof theory"
+     ]
+    },
+    {
+     "title": "Model Theory",
+     "start": 334,
+     "end": 336,
+     "summary": "Model theory.",
+     "terms": [
+      "model theory"
+     ]
+    },
+    {
+     "title": "A General Framework for Logics",
+     "start": 337,
+     "end": 338,
+     "summary": "Logical frameworks.",
+     "terms": [
+      "logical framework"
+     ]
+    },
+    {
+     "title": "The Inversion Principle",
+     "start": 339,
+     "end": 343,
+     "summary": "The inversion principle.",
+     "terms": [
+      "inversion principle"
+     ]
+    }
+   ],
+   "end": 343,
+   "summary": "Proof-theoretic and model-theoretic foundations."
+  },
+  {
+   "title": "Conclusions",
+   "start": 344,
+   "sections": [
+    {
+     "title": "Related Work",
+     "start": 344,
+     "end": 349,
+     "summary": "Comparison with Nuprl, Coq, LF and other systems.",
+     "terms": [
+      "Nuprl",
+      "Coq",
+      "ALF",
+      "related work"
+     ]
+    }
+   ],
+   "end": 351,
+   "summary": "Related systems and closing thoughts."
+  }
+ ],
+ "url": "https://drive.google.com/file/d/11zXscPa64bEsame74QbWo_pIIPpmeyjL/view"
+}

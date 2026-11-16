@@ -1,0 +1,821 @@
+{
+ "title": "Lambda-Calculus and Combinators: An Introduction",
+ "byline": "J. Roger Hindley and Jonathan P. Seldin \u00b7 Cambridge University Press, 2008",
+ "note": "\u201cFurther reading\u201d notes, the appendix on care of combinators, and answers to exercises are not broken out. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "The standard introduction to the two classic formalisms of computation by substitution, developed side by side. It defines \u03bb-terms and combinatory logic, \u03b2- and weak reduction, fixed points and B\u00f6hm\u2019s theorem, shows both represent exactly the recursive functions and that their equality is undecidable, and treats extensionality and the precise correspondence between \u03bb and CL. The second half is on types: Church-style and Curry-style simple typing, subject reduction, principal types, propositions-as-types, and generalized (dependent, pure) type systems; then models: combinatory algebras, \u03bb-models and Scott\u2019s D\u221e. Appendices prove confluence and strong normalization.",
+ "chapters": [
+  {
+   "title": "1 The lambda-calculus",
+   "start": 15,
+   "end": 34,
+   "sections": [
+    {
+     "title": "1A Introduction",
+     "start": 15,
+     "end": 18,
+     "summary": "Motivation and notation.",
+     "terms": [
+      "lambda-calculus"
+     ]
+    },
+    {
+     "title": "1B Term-structure and substitution",
+     "start": 19,
+     "end": 24,
+     "summary": "Term structure, free and bound variables, substitution.",
+     "terms": [
+      "terms",
+      "free variables",
+      "substitution"
+     ]
+    },
+    {
+     "title": "1C beta-reduction",
+     "start": 25,
+     "end": 29,
+     "summary": "\u03b2-reduction and the Church\u2013Rosser theorem.",
+     "terms": [
+      "beta-reduction",
+      "Church-Rosser",
+      "normal form"
+     ]
+    },
+    {
+     "title": "1D beta-equality",
+     "start": 30,
+     "end": 32,
+     "summary": "\u03b2-equality.",
+     "terms": [
+      "beta-equality"
+     ]
+    }
+   ],
+   "summary": "Terms, substitution, \u03b2-reduction and \u03b2-equality."
+  },
+  {
+   "title": "2 Combinatory logic",
+   "start": 35,
+   "end": 46,
+   "sections": [
+    {
+     "title": "2A Introduction to CL",
+     "start": 35,
+     "end": 37,
+     "summary": "S, K and I.",
+     "terms": [
+      "combinatory logic",
+      "S K I"
+     ]
+    },
+    {
+     "title": "2B Weak reduction",
+     "start": 38,
+     "end": 39,
+     "summary": "Weak reduction.",
+     "terms": [
+      "weak reduction"
+     ]
+    },
+    {
+     "title": "2C Abstraction in CL",
+     "start": 40,
+     "end": 42,
+     "summary": "Simulating abstraction with combinators.",
+     "terms": [
+      "bracket abstraction"
+     ]
+    },
+    {
+     "title": "2D Weak equality",
+     "start": 43,
+     "end": 45,
+     "summary": "Weak equality.",
+     "terms": [
+      "weak equality"
+     ]
+    }
+   ],
+   "summary": "Combinatory logic: computation without bound variables."
+  },
+  {
+   "title": "3 The power of lambda and combinators",
+   "start": 47,
+   "end": 60,
+   "sections": [
+    {
+     "title": "3A Introduction",
+     "start": 47,
+     "end": 47,
+     "summary": "Overview.",
+     "terms": [
+      "expressive power"
+     ]
+    },
+    {
+     "title": "3B The fixed-point theorem",
+     "start": 48,
+     "end": 49,
+     "summary": "Fixed-point combinators such as Y.",
+     "terms": [
+      "fixed-point combinator",
+      "Y combinator"
+     ]
+    },
+    {
+     "title": "3C Bohm\u2019s theorem",
+     "start": 50,
+     "end": 53,
+     "summary": "B\u00f6hm\u2019s separability theorem.",
+     "terms": [
+      "B\u00f6hm theorem"
+     ]
+    },
+    {
+     "title": "3D The quasi-leftmost-reduction theorem",
+     "start": 54,
+     "end": 56,
+     "summary": "Leftmost reduction finds normal forms.",
+     "terms": [
+      "leftmost reduction",
+      "normalization"
+     ]
+    },
+    {
+     "title": "3E History and interpretation",
+     "start": 57,
+     "end": 60,
+     "summary": "History and interpretations.",
+     "terms": [
+      "history"
+     ]
+    }
+   ],
+   "summary": "Fixed points, B\u00f6hm\u2019s theorem and normalizing strategies."
+  },
+  {
+   "title": "4 Representing the computable functions",
+   "start": 61,
+   "end": 76,
+   "sections": [
+    {
+     "title": "4A Introduction",
+     "start": 61,
+     "end": 63,
+     "summary": "Church numerals.",
+     "terms": [
+      "Church numerals"
+     ]
+    },
+    {
+     "title": "4B Primitive recursive functions",
+     "start": 64,
+     "end": 69,
+     "summary": "Primitive recursive functions.",
+     "terms": [
+      "primitive recursion"
+     ]
+    },
+    {
+     "title": "4C Recursive functions",
+     "start": 70,
+     "end": 74,
+     "summary": "Minimization and recursive functions.",
+     "terms": [
+      "recursive functions",
+      "minimization"
+     ]
+    },
+    {
+     "title": "4D Abstract numerals and Z",
+     "start": 75,
+     "end": 76,
+     "summary": "Abstract numerals.",
+     "terms": [
+      "numerals"
+     ]
+    }
+   ],
+   "summary": "\u03bb and CL compute exactly the partial recursive functions."
+  },
+  {
+   "title": "5 The undecidability theorem",
+   "start": 77,
+   "end": 82,
+   "sections": [],
+   "summary": "Equality of terms is undecidable (Scott\u2013Curry theorem).",
+   "terms": [
+    "undecidability",
+    "Scott-Curry theorem",
+    "Rice theorem"
+   ]
+  },
+  {
+   "title": "6 The formal theories \u03bb\u03b2 and CLw",
+   "start": 83,
+   "end": 89,
+   "sections": [
+    {
+     "title": "6A The definitions of the theories",
+     "start": 83,
+     "end": 85,
+     "summary": "Definitions of the theories.",
+     "terms": [
+      "formal theories"
+     ]
+    },
+    {
+     "title": "6B First-order theories",
+     "start": 86,
+     "end": 86,
+     "summary": "Comparison with first-order theories.",
+     "terms": [
+      "first-order theories"
+     ]
+    },
+    {
+     "title": "6C Equivalence of theories",
+     "start": 87,
+     "end": 89,
+     "summary": "Equivalence between them.",
+     "terms": [
+      "equivalence"
+     ]
+    }
+   ],
+   "summary": "\u03bb\u03b2 and CLw as formal equational theories."
+  },
+  {
+   "title": "7 Extensionality in lambda-calculus",
+   "start": 90,
+   "end": 95,
+   "sections": [
+    {
+     "title": "7A Extensional equality",
+     "start": 90,
+     "end": 92,
+     "summary": "Extensional equality.",
+     "terms": [
+      "extensionality"
+     ]
+    },
+    {
+     "title": "7B lambdaeta-reduction in lambda-calculus",
+     "start": 93,
+     "end": 95,
+     "summary": "\u03b7-reduction.",
+     "terms": [
+      "eta-reduction"
+     ]
+    }
+   ],
+   "summary": "Extensionality in the \u03bb-calculus."
+  },
+  {
+   "title": "8 Extensionality in combinatory logic",
+   "start": 96,
+   "end": 105,
+   "sections": [
+    {
+     "title": "8A Extensional equality",
+     "start": 96,
+     "end": 98,
+     "summary": "Extensional equality in CL.",
+     "terms": [
+      "extensional equality"
+     ]
+    },
+    {
+     "title": "8B Axioms for extensionality in CL",
+     "start": 99,
+     "end": 102,
+     "summary": "Axioms that make CL extensional.",
+     "terms": [
+      "combinatory axioms"
+     ]
+    },
+    {
+     "title": "8C Strong reduction",
+     "start": 103,
+     "end": 105,
+     "summary": "Strong reduction.",
+     "terms": [
+      "strong reduction"
+     ]
+    }
+   ],
+   "summary": "Extensionality in combinatory logic."
+  },
+  {
+   "title": "9 Correspondence between lambda and CL",
+   "start": 106,
+   "end": 120,
+   "sections": [
+    {
+     "title": "9A Introduction",
+     "start": 106,
+     "end": 108,
+     "summary": "Translations both ways.",
+     "terms": [
+      "translation"
+     ]
+    },
+    {
+     "title": "9B The extensional equalities",
+     "start": 109,
+     "end": 113,
+     "summary": "Matching the extensional theories.",
+     "terms": [
+      "extensional correspondence"
+     ]
+    },
+    {
+     "title": "9C New abstraction algorithms in CL",
+     "start": 114,
+     "end": 115,
+     "summary": "Better abstraction algorithms.",
+     "terms": [
+      "abstraction algorithms"
+     ]
+    },
+    {
+     "title": "9D Combinatory beta-equality",
+     "start": 116,
+     "end": 120,
+     "summary": "Combinatory \u03b2-equality.",
+     "terms": [
+      "combinatory beta-equality"
+     ]
+    }
+   ],
+   "summary": "How closely \u03bb and CL correspond."
+  },
+  {
+   "title": "10 Simple typing, Church-style",
+   "start": 121,
+   "end": 132,
+   "sections": [
+    {
+     "title": "10A Simple types",
+     "start": 121,
+     "end": 122,
+     "summary": "Simple types.",
+     "terms": [
+      "simple types"
+     ]
+    },
+    {
+     "title": "10B Typed lambda-calculus",
+     "start": 123,
+     "end": 128,
+     "summary": "Typed \u03bb-calculus.",
+     "terms": [
+      "typed lambda-calculus",
+      "Church-style"
+     ]
+    },
+    {
+     "title": "10C Typed CL",
+     "start": 129,
+     "end": 132,
+     "summary": "Typed CL.",
+     "terms": [
+      "typed CL"
+     ]
+    }
+   ],
+   "summary": "Simple types attached to terms, Church-style."
+  },
+  {
+   "title": "11 Simple typing, Curry-style in CL",
+   "start": 133,
+   "end": 172,
+   "sections": [
+    {
+     "title": "11A Introduction",
+     "start": 133,
+     "end": 135,
+     "summary": "Assigning types to untyped terms.",
+     "terms": [
+      "type assignment"
+     ]
+    },
+    {
+     "title": "11B The system TA\u2192C",
+     "start": 136,
+     "end": 139,
+     "summary": "The system TA\u2192C.",
+     "terms": [
+      "TA\u2192C"
+     ]
+    },
+    {
+     "title": "11C Subject-construction",
+     "start": 140,
+     "end": 140,
+     "summary": "Subject construction.",
+     "terms": [
+      "subject construction"
+     ]
+    },
+    {
+     "title": "11D Abstraction",
+     "start": 141,
+     "end": 143,
+     "summary": "Abstraction.",
+     "terms": [
+      "abstraction"
+     ]
+    },
+    {
+     "title": "11E Subject-reduction",
+     "start": 144,
+     "end": 147,
+     "summary": "Subject reduction.",
+     "terms": [
+      "subject reduction"
+     ]
+    },
+    {
+     "title": "11F Typable CL-terms",
+     "start": 148,
+     "end": 150,
+     "summary": "Which CL-terms are typable.",
+     "terms": [
+      "typability"
+     ]
+    },
+    {
+     "title": "11G Link with Church\u2019s approach",
+     "start": 151,
+     "end": 151,
+     "summary": "Relation to Church\u2019s style.",
+     "terms": [
+      "Church vs Curry"
+     ]
+    },
+    {
+     "title": "11H Principal types",
+     "start": 152,
+     "end": 156,
+     "summary": "Principal types and the type-inference algorithm.",
+     "terms": [
+      "principal type",
+      "Hindley-Milner"
+     ]
+    },
+    {
+     "title": "11I Adding new axioms",
+     "start": 157,
+     "end": 160,
+     "summary": "Extra axioms.",
+     "terms": [
+      "axioms"
+     ]
+    },
+    {
+     "title": "11J Propositions-as-types and normalization",
+     "start": 161,
+     "end": 172,
+     "summary": "Propositions-as-types and normalization.",
+     "terms": [
+      "Curry-Howard",
+      "normalization"
+     ]
+    }
+   ],
+   "summary": "Curry-style type assignment for combinatory logic."
+  },
+  {
+   "title": "12 Simple typing, Curry-style in lambda",
+   "start": 173,
+   "end": 193,
+   "sections": [
+    {
+     "title": "12A The system TA\u2192lambda",
+     "start": 173,
+     "end": 178,
+     "summary": "The system TA\u2192\u03bb.",
+     "terms": [
+      "TA\u2192\u03bb"
+     ]
+    },
+    {
+     "title": "12B Basic properties of TA\u2192lambda",
+     "start": 179,
+     "end": 183,
+     "summary": "Basic properties.",
+     "terms": [
+      "subject reduction"
+     ]
+    },
+    {
+     "title": "12C Typable lambda-terms",
+     "start": 184,
+     "end": 186,
+     "summary": "Typable \u03bb-terms.",
+     "terms": [
+      "typability"
+     ]
+    },
+    {
+     "title": "12D Propositions-as-types and normalization",
+     "start": 187,
+     "end": 189,
+     "summary": "Propositions-as-types and normalization.",
+     "terms": [
+      "Curry-Howard",
+      "strong normalization"
+     ]
+    },
+    {
+     "title": "12E The equality-rule Eq",
+     "start": 190,
+     "end": 191,
+     "summary": "The equality rule.",
+     "terms": [
+      "equality rule"
+     ]
+    }
+   ],
+   "summary": "Curry-style type assignment for \u03bb-terms."
+  },
+  {
+   "title": "13 Generalizations of typing",
+   "start": 194,
+   "end": 233,
+   "sections": [
+    {
+     "title": "13A Introduction",
+     "start": 194,
+     "end": 194,
+     "summary": "Overview.",
+     "terms": [
+      "generalized typing"
+     ]
+    },
+    {
+     "title": "13B Dependent function types, introduction",
+     "start": 195,
+     "end": 196,
+     "summary": "Dependent function types.",
+     "terms": [
+      "dependent types",
+      "Pi types"
+     ]
+    },
+    {
+     "title": "13C Basic generalized typing, Curry-style in lambda",
+     "start": 197,
+     "end": 200,
+     "summary": "Curry-style generalized typing.",
+     "terms": [
+      "Curry-style"
+     ]
+    },
+    {
+     "title": "13D Deductive rules to define types",
+     "start": 201,
+     "end": 204,
+     "summary": "Rules for defining types.",
+     "terms": [
+      "type formation rules"
+     ]
+    },
+    {
+     "title": "13E Church-style typing in lambda",
+     "start": 205,
+     "end": 215,
+     "summary": "Church-style typing, the \u03bb-cube and PTSs.",
+     "terms": [
+      "pure type systems",
+      "lambda cube"
+     ]
+    },
+    {
+     "title": "13F Normalization in PTSs",
+     "start": 216,
+     "end": 222,
+     "summary": "Normalization in PTSs.",
+     "terms": [
+      "normalization"
+     ]
+    },
+    {
+     "title": "13G Propositions-as-types",
+     "start": 223,
+     "end": 230,
+     "summary": "Propositions-as-types in richer systems.",
+     "terms": [
+      "Curry-Howard"
+     ]
+    },
+    {
+     "title": "13H PTSs with equality",
+     "start": 231,
+     "end": 233,
+     "summary": "PTSs with equality.",
+     "terms": [
+      "equality"
+     ]
+    }
+   ],
+   "summary": "Dependent types and pure type systems."
+  },
+  {
+   "title": "14 Models of CL",
+   "start": 234,
+   "end": 242,
+   "sections": [
+    {
+     "title": "14A Applicative structures",
+     "start": 234,
+     "end": 236,
+     "summary": "Applicative structures.",
+     "terms": [
+      "applicative structure"
+     ]
+    },
+    {
+     "title": "14B Combinatory algebras",
+     "start": 237,
+     "end": 242,
+     "summary": "Combinatory algebras.",
+     "terms": [
+      "combinatory algebra"
+     ]
+    }
+   ],
+   "summary": "Models of combinatory logic."
+  },
+  {
+   "title": "15 Models of lambda-calculus",
+   "start": 243,
+   "end": 260,
+   "sections": [
+    {
+     "title": "15A The definition of lambda-model",
+     "start": 243,
+     "end": 249,
+     "summary": "\u03bb-models defined.",
+     "terms": [
+      "lambda-model"
+     ]
+    },
+    {
+     "title": "15B Syntax-free definitions",
+     "start": 250,
+     "end": 255,
+     "summary": "Syntax-free characterizations.",
+     "terms": [
+      "syntax-free definition"
+     ]
+    },
+    {
+     "title": "15C General properties of lambda-models",
+     "start": 256,
+     "end": 260,
+     "summary": "General properties.",
+     "terms": [
+      "properties"
+     ]
+    }
+   ],
+   "summary": "Models of the \u03bb-calculus."
+  },
+  {
+   "title": "16 Scott's D\u221e and other models",
+   "start": 261,
+   "end": 289,
+   "sections": [
+    {
+     "title": "16A Introduction: complete partial orders",
+     "start": 261,
+     "end": 265,
+     "summary": "Complete partial orders.",
+     "terms": [
+      "cpo",
+      "domain theory"
+     ]
+    },
+    {
+     "title": "16B Continuous functions",
+     "start": 266,
+     "end": 269,
+     "summary": "Continuous functions.",
+     "terms": [
+      "Scott continuity"
+     ]
+    },
+    {
+     "title": "16C The construction of D\u221e",
+     "start": 270,
+     "end": 280,
+     "summary": "Building D\u221e as an inverse limit.",
+     "terms": [
+      "D-infinity",
+      "inverse limit"
+     ]
+    },
+    {
+     "title": "16E D\u221e is a lambda-model",
+     "start": 281,
+     "end": 284,
+     "summary": "Proof that D\u221e is a \u03bb-model.",
+     "terms": [
+      "lambda-model"
+     ]
+    },
+    {
+     "title": "16F Some other models",
+     "start": 285,
+     "end": 288,
+     "summary": "Other models (P\u03c9, filter models).",
+     "terms": [
+      "P\u03c9",
+      "graph model",
+      "filter model"
+     ]
+    }
+   ],
+   "summary": "Scott\u2019s D\u221e and other models."
+  },
+  {
+   "title": "Appendix A1 Bound variables and alpha-conversion",
+   "start": 290,
+   "end": 295,
+   "sections": [],
+   "summary": "Careful treatment of bound variables and \u03b1-conversion.",
+   "terms": [
+    "bound variables",
+    "alpha-conversion",
+    "variable capture"
+   ]
+  },
+  {
+   "title": "Appendix A2 Confluence proofs",
+   "start": 296,
+   "end": 306,
+   "sections": [
+    {
+     "title": "A2A Confluence of beta-reduction",
+     "start": 296,
+     "end": 302,
+     "summary": "Confluence of \u03b2 via parallel reduction.",
+     "terms": [
+      "confluence",
+      "parallel reduction",
+      "Tait-Martin-L\u00f6f"
+     ]
+    },
+    {
+     "title": "A2B Confluence of other reductions",
+     "start": 303,
+     "end": 306,
+     "summary": "Confluence of other reductions.",
+     "terms": [
+      "other reductions"
+     ]
+    }
+   ],
+   "summary": "Proofs of confluence."
+  },
+  {
+   "title": "Appendix A3 Strong normalization proofs",
+   "start": 307,
+   "end": 336,
+   "sections": [
+    {
+     "title": "A3A Simply typed lambda-calculus",
+     "start": 308,
+     "end": 310,
+     "summary": "Simply typed \u03bb (reducibility).",
+     "terms": [
+      "strong normalization",
+      "reducibility",
+      "Tait"
+     ]
+    },
+    {
+     "title": "A3B Simply typed CL",
+     "start": 311,
+     "end": 312,
+     "summary": "Simply typed CL.",
+     "terms": [
+      "typed CL"
+     ]
+    },
+    {
+     "title": "A3C Arithmetical system",
+     "start": 313,
+     "end": 318,
+     "summary": "An arithmetical system (G\u00f6del\u2019s T).",
+     "terms": [
+      "G\u00f6del T"
+     ]
+    }
+   ],
+   "summary": "Proofs of strong normalization."
+  }
+ ],
+ "url": "https://drive.google.com/file/d/11oKmzk-KIelEu9bUgNIul3_19Ne6Gbce/view"
+}
