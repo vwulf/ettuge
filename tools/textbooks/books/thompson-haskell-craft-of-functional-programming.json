@@ -1,0 +1,1516 @@
+{
+ "url": "https://drive.google.com/file/d/1CkaCtIK52HUPBShoELp57GDXcZ8hZ5w7/view",
+ "chapters": [
+  {
+   "title": "Introducing functional programming",
+   "start": 20,
+   "sections": [
+    {
+     "title": "Computers and modelling",
+     "start": 21,
+     "end": 21,
+     "summary": "Computers and modelling.",
+     "terms": [
+      "modelling"
+     ]
+    },
+    {
+     "title": "What is a function?",
+     "start": 22,
+     "end": 22,
+     "summary": "Functions.",
+     "terms": [
+      "function"
+     ]
+    },
+    {
+     "title": "Pictures and functions",
+     "start": 23,
+     "end": 23,
+     "summary": "Pictures and functions.",
+     "terms": [
+      "Pictures"
+     ]
+    },
+    {
+     "title": "Types",
+     "start": 24,
+     "end": 25,
+     "summary": "Types.",
+     "terms": [
+      "types"
+     ]
+    },
+    {
+     "title": "The Haskell programming language",
+     "start": 26,
+     "end": 26,
+     "summary": "Haskell.",
+     "terms": [
+      "Haskell"
+     ]
+    },
+    {
+     "title": "Expressions and evaluation",
+     "start": 27,
+     "end": 27,
+     "summary": "Expressions and evaluation.",
+     "terms": [
+      "evaluation"
+     ]
+    },
+    {
+     "title": "Definitions",
+     "start": 28,
+     "end": 29,
+     "summary": "Definitions.",
+     "terms": [
+      "definitions"
+     ]
+    },
+    {
+     "title": "Function definitions",
+     "start": 30,
+     "end": 32,
+     "summary": "Function definitions.",
+     "terms": [
+      "function definitions"
+     ]
+    },
+    {
+     "title": "Types and functional programming",
+     "start": 33,
+     "end": 33,
+     "summary": "Types and FP.",
+     "terms": [
+      "type checking"
+     ]
+    },
+    {
+     "title": "Calculation and evaluation",
+     "start": 34,
+     "end": 34,
+     "summary": "Calculation.",
+     "terms": [
+      "calculation"
+     ]
+    },
+    {
+     "title": "The essence of Haskell programming",
+     "start": 35,
+     "end": 35,
+     "summary": "The essence of Haskell programming.",
+     "terms": [
+      "essence"
+     ]
+    },
+    {
+     "title": "Domain-specific languages",
+     "start": 36,
+     "end": 36,
+     "summary": "DSLs.",
+     "terms": [
+      "DSL"
+     ]
+    },
+    {
+     "title": "Two models of Pictures",
+     "start": 37,
+     "end": 40,
+     "summary": "Two models of Pictures.",
+     "terms": [
+      "Pictures models"
+     ]
+    },
+    {
+     "title": "Tests, properties and proofs",
+     "start": 41,
+     "end": 45,
+     "summary": "Tests, properties and proofs.",
+     "terms": [
+      "QuickCheck",
+      "properties"
+     ]
+    }
+   ],
+   "end": 45,
+   "summary": "What functional programming is, with pictures as an example."
+  },
+  {
+   "title": "Getting started with Haskell and GHCi",
+   "start": 46,
+   "sections": [
+    {
+     "title": "A first Haskell program",
+     "start": 46,
+     "end": 46,
+     "summary": "A first program.",
+     "terms": [
+      "first program"
+     ]
+    },
+    {
+     "title": "Using Haskell in practice",
+     "start": 47,
+     "end": 47,
+     "summary": "Haskell in practice.",
+     "terms": [
+      "practice"
+     ]
+    },
+    {
+     "title": "Using GHCi",
+     "start": 48,
+     "end": 51,
+     "summary": "GHCi.",
+     "terms": [
+      "GHCi"
+     ]
+    },
+    {
+     "title": "The standard prelude and the Haskell libraries",
+     "start": 52,
+     "end": 52,
+     "summary": "The Prelude and libraries.",
+     "terms": [
+      "Prelude"
+     ]
+    },
+    {
+     "title": "Modules",
+     "start": 53,
+     "end": 53,
+     "summary": "Modules.",
+     "terms": [
+      "modules"
+     ]
+    },
+    {
+     "title": "A second example: pictures",
+     "start": 54,
+     "end": 57,
+     "summary": "Pictures.",
+     "terms": [
+      "pictures"
+     ]
+    },
+    {
+     "title": "Errors and error messages",
+     "start": 58,
+     "end": 59,
+     "summary": "Errors.",
+     "terms": [
+      "error messages"
+     ]
+    }
+   ],
+   "end": 59,
+   "summary": "Using GHC and GHCi."
+  },
+  {
+   "title": "Basic types and definitions",
+   "start": 60,
+   "sections": [
+    {
+     "title": "The Booleans: Bool",
+     "start": 60,
+     "end": 63,
+     "summary": "Bool.",
+     "terms": [
+      "Bool"
+     ]
+    },
+    {
+     "title": "The integers: Integer and Int",
+     "start": 64,
+     "end": 65,
+     "summary": "Integer and Int.",
+     "terms": [
+      "Integer",
+      "Int"
+     ]
+    },
+    {
+     "title": "Overloading",
+     "start": 66,
+     "end": 66,
+     "summary": "Overloading.",
+     "terms": [
+      "overloading"
+     ]
+    },
+    {
+     "title": "Guards",
+     "start": 67,
+     "end": 70,
+     "summary": "Guards.",
+     "terms": [
+      "guards"
+     ]
+    },
+    {
+     "title": "Characters and strings",
+     "start": 71,
+     "end": 74,
+     "summary": "Char and String.",
+     "terms": [
+      "Char",
+      "String"
+     ]
+    },
+    {
+     "title": "Floating-point numbers: Float",
+     "start": 75,
+     "end": 78,
+     "summary": "Float.",
+     "terms": [
+      "Float"
+     ]
+    },
+    {
+     "title": "Syntax",
+     "start": 79,
+     "end": 85,
+     "summary": "Syntax and layout.",
+     "terms": [
+      "layout",
+      "syntax"
+     ]
+    }
+   ],
+   "end": 85,
+   "summary": "Basic types and definitions."
+  },
+  {
+   "title": "Designing and writing programs",
+   "start": 86,
+   "sections": [
+    {
+     "title": "Where do I start? Designing a program in Haskell",
+     "start": 86,
+     "end": 90,
+     "summary": "Where to start.",
+     "terms": [
+      "design"
+     ]
+    },
+    {
+     "title": "Solving a problem in steps: local definitions",
+     "start": 91,
+     "end": 97,
+     "summary": "Local definitions.",
+     "terms": [
+      "where",
+      "let"
+     ]
+    },
+    {
+     "title": "Defining types for ourselves: enumerated types",
+     "start": 98,
+     "end": 99,
+     "summary": "Enumerated types.",
+     "terms": [
+      "enumerated types"
+     ]
+    },
+    {
+     "title": "Recursion",
+     "start": 100,
+     "end": 103,
+     "summary": "Recursion.",
+     "terms": [
+      "recursion"
+     ]
+    },
+    {
+     "title": "Primitive recursion in practice",
+     "start": 104,
+     "end": 106,
+     "summary": "Primitive recursion.",
+     "terms": [
+      "primitive recursion"
+     ]
+    },
+    {
+     "title": "Extended exercise: pictures",
+     "start": 107,
+     "end": 108,
+     "summary": "Pictures exercise.",
+     "terms": [
+      "pictures"
+     ]
+    },
+    {
+     "title": "General forms of recursion",
+     "start": 109,
+     "end": 111,
+     "summary": "General recursion.",
+     "terms": [
+      "general recursion"
+     ]
+    },
+    {
+     "title": "Program testing",
+     "start": 112,
+     "end": 117,
+     "summary": "Testing.",
+     "terms": [
+      "testing",
+      "QuickCheck"
+     ]
+    }
+   ],
+   "end": 117,
+   "summary": "Designing and writing programs."
+  },
+  {
+   "title": "Data types, tuples and lists",
+   "start": 118,
+   "sections": [
+    {
+     "title": "Introducing tuples and lists",
+     "start": 118,
+     "end": 119,
+     "summary": "Introducing tuples and lists.",
+     "terms": [
+      "tuples",
+      "lists"
+     ]
+    },
+    {
+     "title": "Tuple types",
+     "start": 120,
+     "end": 123,
+     "summary": "Tuple types.",
+     "terms": [
+      "tuple types"
+     ]
+    },
+    {
+     "title": "Introducing algebraic types",
+     "start": 124,
+     "end": 129,
+     "summary": "Algebraic types.",
+     "terms": [
+      "algebraic types"
+     ]
+    },
+    {
+     "title": "Our approach to lists",
+     "start": 130,
+     "end": 130,
+     "summary": "Approach to lists.",
+     "terms": [
+      "lists"
+     ]
+    },
+    {
+     "title": "Lists in Haskell",
+     "start": 130,
+     "end": 131,
+     "summary": "Lists in Haskell.",
+     "terms": [
+      "list syntax"
+     ]
+    },
+    {
+     "title": "List comprehensions",
+     "start": 132,
+     "end": 137,
+     "summary": "List comprehensions.",
+     "terms": [
+      "list comprehensions"
+     ]
+    },
+    {
+     "title": "A library database",
+     "start": 138,
+     "end": 143,
+     "summary": "A library database.",
+     "terms": [
+      "database example"
+     ]
+    }
+   ],
+   "end": 143,
+   "summary": "Tuples, lists and algebraic types."
+  },
+  {
+   "title": "Programming with lists",
+   "start": 144,
+   "sections": [
+    {
+     "title": "Generic functions: polymorphism",
+     "start": 144,
+     "end": 146,
+     "summary": "Polymorphism.",
+     "terms": [
+      "polymorphism"
+     ]
+    },
+    {
+     "title": "Haskell list functions in the Prelude",
+     "start": 147,
+     "end": 149,
+     "summary": "Prelude list functions.",
+     "terms": [
+      "Prelude functions"
+     ]
+    },
+    {
+     "title": "Finding your way around the Haskell libraries",
+     "start": 150,
+     "end": 156,
+     "summary": "Finding library functions (Hoogle).",
+     "terms": [
+      "Hoogle"
+     ]
+    },
+    {
+     "title": "The Picture example: implementation",
+     "start": 157,
+     "end": 161,
+     "summary": "Implementing Pictures.",
+     "terms": [
+      "Pictures"
+     ]
+    },
+    {
+     "title": "Extended exercise: alternative implementations of pictures",
+     "start": 162,
+     "end": 166,
+     "summary": "Alternative Pictures.",
+     "terms": [
+      "alternatives"
+     ]
+    },
+    {
+     "title": "Extended exercise: positioned pictures",
+     "start": 167,
+     "end": 169,
+     "summary": "Positioned pictures.",
+     "terms": [
+      "positioned pictures"
+     ]
+    },
+    {
+     "title": "Extended exercise: supermarket billing",
+     "start": 170,
+     "end": 174,
+     "summary": "Supermarket billing.",
+     "terms": [
+      "billing"
+     ]
+    },
+    {
+     "title": "Extended exercise: cards and card games",
+     "start": 175,
+     "end": 179,
+     "summary": "Card games.",
+     "terms": [
+      "cards"
+     ]
+    }
+   ],
+   "end": 179,
+   "summary": "Programming with lists."
+  },
+  {
+   "title": "Defining functions over lists",
+   "start": 180,
+   "sections": [
+    {
+     "title": "Pattern matching revisited",
+     "start": 180,
+     "end": 181,
+     "summary": "Pattern matching.",
+     "terms": [
+      "pattern matching"
+     ]
+    },
+    {
+     "title": "Lists and list patterns",
+     "start": 182,
+     "end": 184,
+     "summary": "List patterns.",
+     "terms": [
+      "list patterns"
+     ]
+    },
+    {
+     "title": "Primitive recursion over lists",
+     "start": 185,
+     "end": 185,
+     "summary": "Primitive recursion on lists.",
+     "terms": [
+      "primitive recursion"
+     ]
+    },
+    {
+     "title": "Finding primitive recursive definitions",
+     "start": 186,
+     "end": 191,
+     "summary": "Finding definitions.",
+     "terms": [
+      "design"
+     ]
+    },
+    {
+     "title": "General recursions over lists",
+     "start": 192,
+     "end": 194,
+     "summary": "General recursion on lists.",
+     "terms": [
+      "general recursion"
+     ]
+    },
+    {
+     "title": "Example: text processing",
+     "start": 195,
+     "end": 201,
+     "summary": "Text processing.",
+     "terms": [
+      "text processing"
+     ]
+    }
+   ],
+   "end": 201,
+   "summary": "Defining functions over lists."
+  },
+  {
+   "title": "Playing the game: I/O in Haskell",
+   "start": 202,
+   "sections": [
+    {
+     "title": "Rock - Paper - Scissors: strategies",
+     "start": 202,
+     "end": 205,
+     "summary": "Rock\u2013paper\u2013scissors strategies.",
+     "terms": [
+      "strategies"
+     ]
+    },
+    {
+     "title": "Why is I/O an issue?",
+     "start": 206,
+     "end": 206,
+     "summary": "Why I/O is special.",
+     "terms": [
+      "purity"
+     ]
+    },
+    {
+     "title": "The basics of input/output",
+     "start": 207,
+     "end": 209,
+     "summary": "Basic I/O.",
+     "terms": [
+      "IO"
+     ]
+    },
+    {
+     "title": "The do notation",
+     "start": 210,
+     "end": 213,
+     "summary": "do notation.",
+     "terms": [
+      "do notation"
+     ]
+    },
+    {
+     "title": "Loops and recursion",
+     "start": 214,
+     "end": 216,
+     "summary": "Loops and recursion.",
+     "terms": [
+      "loops"
+     ]
+    },
+    {
+     "title": "Rock - Paper - Scissors: playing the game",
+     "start": 217,
+     "end": 221,
+     "summary": "Playing the game.",
+     "terms": [
+      "game"
+     ]
+    }
+   ],
+   "end": 221,
+   "summary": "I/O in Haskell."
+  },
+  {
+   "title": "Reasoning about programs",
+   "start": 222,
+   "sections": [
+    {
+     "title": "Understanding definitions",
+     "start": 223,
+     "end": 223,
+     "summary": "Understanding definitions.",
+     "terms": [
+      "definitions"
+     ]
+    },
+    {
+     "title": "Testing and proof",
+     "start": 224,
+     "end": 225,
+     "summary": "Testing vs. proof.",
+     "terms": [
+      "testing",
+      "proof"
+     ]
+    },
+    {
+     "title": "Definedness, termination and finiteness",
+     "start": 226,
+     "end": 226,
+     "summary": "Definedness and termination.",
+     "terms": [
+      "termination"
+     ]
+    },
+    {
+     "title": "A little logic",
+     "start": 227,
+     "end": 227,
+     "summary": "Logic.",
+     "terms": [
+      "logic"
+     ]
+    },
+    {
+     "title": "Induction",
+     "start": 228,
+     "end": 231,
+     "summary": "Induction.",
+     "terms": [
+      "structural induction"
+     ]
+    },
+    {
+     "title": "Further examples of proofs by induction",
+     "start": 232,
+     "end": 236,
+     "summary": "More induction proofs.",
+     "terms": [
+      "proofs"
+     ]
+    },
+    {
+     "title": "Generalizing the proof goal",
+     "start": 237,
+     "end": 241,
+     "summary": "Generalizing goals.",
+     "terms": [
+      "generalization"
+     ]
+    }
+   ],
+   "end": 241,
+   "summary": "Proof about programs."
+  },
+  {
+   "title": "Generalization: patterns of computation",
+   "start": 242,
+   "sections": [
+    {
+     "title": "Patterns of computation over lists",
+     "start": 243,
+     "end": 244,
+     "summary": "Patterns over lists.",
+     "terms": [
+      "patterns"
+     ]
+    },
+    {
+     "title": "Higher-order functions: functions as arguments",
+     "start": 245,
+     "end": 250,
+     "summary": "Functions as arguments (map, filter).",
+     "terms": [
+      "map",
+      "filter"
+     ]
+    },
+    {
+     "title": "Folding and primitive recursion",
+     "start": 251,
+     "end": 254,
+     "summary": "Folding.",
+     "terms": [
+      "foldr"
+     ]
+    },
+    {
+     "title": "Generalizing: splitting up lists",
+     "start": 255,
+     "end": 256,
+     "summary": "Splitting lists.",
+     "terms": [
+      "splitting"
+     ]
+    },
+    {
+     "title": "Case studies revisited",
+     "start": 257,
+     "end": 259,
+     "summary": "Case studies revisited.",
+     "terms": [
+      "case studies"
+     ]
+    }
+   ],
+   "end": 259,
+   "summary": "Patterns of computation and higher-order functions."
+  },
+  {
+   "title": "Higher-order functions",
+   "start": 260,
+   "sections": [
+    {
+     "title": "Operators: function composition and application",
+     "start": 261,
+     "end": 264,
+     "summary": "Composition and application operators.",
+     "terms": [
+      "composition",
+      "$"
+     ]
+    },
+    {
+     "title": "Expressions for functions: lambda abstractions",
+     "start": 265,
+     "end": 267,
+     "summary": "Lambda abstractions.",
+     "terms": [
+      "lambda"
+     ]
+    },
+    {
+     "title": "Partial application",
+     "start": 268,
+     "end": 271,
+     "summary": "Partial application.",
+     "terms": [
+      "partial application"
+     ]
+    },
+    {
+     "title": "Under the hood: curried functions",
+     "start": 272,
+     "end": 276,
+     "summary": "Currying.",
+     "terms": [
+      "currying"
+     ]
+    },
+    {
+     "title": "Defining higher-order functions",
+     "start": 277,
+     "end": 281,
+     "summary": "Defining higher-order functions.",
+     "terms": [
+      "higher-order functions"
+     ]
+    },
+    {
+     "title": "Verification and general functions",
+     "start": 282,
+     "end": 293,
+     "summary": "Verification of general functions.",
+     "terms": [
+      "verification"
+     ]
+    }
+   ],
+   "end": 293,
+   "summary": "Higher-order functions in depth."
+  },
+  {
+   "title": "Developing higher-order programs",
+   "start": 294,
+   "sections": [
+    {
+     "title": "Revisiting the Picture example",
+     "start": 294,
+     "end": 297,
+     "summary": "Pictures revisited.",
+     "terms": [
+      "Pictures"
+     ]
+    },
+    {
+     "title": "Functions as data: strategy combinators",
+     "start": 298,
+     "end": 299,
+     "summary": "Strategy combinators.",
+     "terms": [
+      "strategy combinators"
+     ]
+    },
+    {
+     "title": "Functions as data: recognising regular expressions",
+     "start": 300,
+     "end": 303,
+     "summary": "Regular expression recognizers.",
+     "terms": [
+      "regular expressions"
+     ]
+    },
+    {
+     "title": "Case studies: functions as data",
+     "start": 304,
+     "end": 305,
+     "summary": "Functions as data.",
+     "terms": [
+      "functions as data"
+     ]
+    },
+    {
+     "title": "Example: creating an index",
+     "start": 306,
+     "end": 312,
+     "summary": "Building an index.",
+     "terms": [
+      "index"
+     ]
+    },
+    {
+     "title": "Development in practice",
+     "start": 313,
+     "end": 315,
+     "summary": "Development practice.",
+     "terms": [
+      "development"
+     ]
+    },
+    {
+     "title": "Understanding programs",
+     "start": 316,
+     "end": 319,
+     "summary": "Understanding programs.",
+     "terms": [
+      "program understanding"
+     ]
+    }
+   ],
+   "end": 319,
+   "summary": "Developing higher-order programs."
+  },
+  {
+   "title": "Overloading, type classes and type checking",
+   "start": 320,
+   "sections": [
+    {
+     "title": "Why overloading?",
+     "start": 320,
+     "end": 320,
+     "summary": "Why overloading.",
+     "terms": [
+      "overloading"
+     ]
+    },
+    {
+     "title": "Introducing classes",
+     "start": 321,
+     "end": 324,
+     "summary": "Classes.",
+     "terms": [
+      "type classes"
+     ]
+    },
+    {
+     "title": "Signatures and instances",
+     "start": 325,
+     "end": 332,
+     "summary": "Signatures and instances.",
+     "terms": [
+      "instances"
+     ]
+    },
+    {
+     "title": "A tour of the built-in Haskell classes",
+     "start": 333,
+     "end": 341,
+     "summary": "Built-in classes.",
+     "terms": [
+      "Eq",
+      "Ord",
+      "Show",
+      "Num"
+     ]
+    },
+    {
+     "title": "Type checking and type inference: an overview",
+     "start": 342,
+     "end": 343,
+     "summary": "Type inference overview.",
+     "terms": [
+      "type inference"
+     ]
+    },
+    {
+     "title": "Monomorphic type checking",
+     "start": 344,
+     "end": 345,
+     "summary": "Monomorphic checking.",
+     "terms": [
+      "monomorphic"
+     ]
+    },
+    {
+     "title": "Polymorphic type checking",
+     "start": 346,
+     "end": 354,
+     "summary": "Polymorphic checking (unification).",
+     "terms": [
+      "unification"
+     ]
+    },
+    {
+     "title": "Type checking and classes",
+     "start": 355,
+     "end": 357,
+     "summary": "Checking with classes.",
+     "terms": [
+      "class constraints"
+     ]
+    }
+   ],
+   "end": 357,
+   "summary": "Type classes and type checking."
+  },
+  {
+   "title": "Algebraic types",
+   "start": 358,
+   "sections": [
+    {
+     "title": "Algebraic type definitions revisited",
+     "start": 359,
+     "end": 360,
+     "summary": "Definitions revisited.",
+     "terms": [
+      "algebraic types"
+     ]
+    },
+    {
+     "title": "Recursive algebraic types",
+     "start": 361,
+     "end": 368,
+     "summary": "Recursive types.",
+     "terms": [
+      "recursive types",
+      "trees"
+     ]
+    },
+    {
+     "title": "Polymorphic algebraic types",
+     "start": 369,
+     "end": 372,
+     "summary": "Polymorphic types.",
+     "terms": [
+      "polymorphic types"
+     ]
+    },
+    {
+     "title": "Modelling program errors",
+     "start": 373,
+     "end": 376,
+     "summary": "Modelling errors (Maybe, Either).",
+     "terms": [
+      "Maybe",
+      "Either"
+     ]
+    },
+    {
+     "title": "Design with algebraic data types",
+     "start": 377,
+     "end": 381,
+     "summary": "Design.",
+     "terms": [
+      "design"
+     ]
+    },
+    {
+     "title": "Algebraic types and type classes",
+     "start": 382,
+     "end": 386,
+     "summary": "Types and classes.",
+     "terms": [
+      "deriving",
+      "instances"
+     ]
+    },
+    {
+     "title": "Reasoning about algebraic types",
+     "start": 387,
+     "end": 393,
+     "summary": "Reasoning about algebraic types.",
+     "terms": [
+      "structural induction"
+     ]
+    }
+   ],
+   "end": 393,
+   "summary": "Algebraic data types."
+  },
+  {
+   "title": "Case study: Huffman codes",
+   "start": 394,
+   "sections": [
+    {
+     "title": "Modules in Haskell",
+     "start": 394,
+     "end": 397,
+     "summary": "Modules.",
+     "terms": [
+      "modules"
+     ]
+    },
+    {
+     "title": "Modular design",
+     "start": 398,
+     "end": 398,
+     "summary": "Modular design.",
+     "terms": [
+      "modular design"
+     ]
+    },
+    {
+     "title": "Coding and decoding",
+     "start": 399,
+     "end": 401,
+     "summary": "Coding and decoding.",
+     "terms": [
+      "encoding"
+     ]
+    },
+    {
+     "title": "Implementation \u2013 I",
+     "start": 402,
+     "end": 404,
+     "summary": "Implementation I.",
+     "terms": [
+      "implementation"
+     ]
+    },
+    {
+     "title": "Building Huffman trees",
+     "start": 405,
+     "end": 405,
+     "summary": "Building Huffman trees.",
+     "terms": [
+      "Huffman trees"
+     ]
+    },
+    {
+     "title": "Design",
+     "start": 406,
+     "end": 407,
+     "summary": "Design.",
+     "terms": [
+      "design"
+     ]
+    },
+    {
+     "title": "Implementation \u2013 II",
+     "start": 408,
+     "end": 415,
+     "summary": "Implementation II.",
+     "terms": [
+      "implementation"
+     ]
+    }
+   ],
+   "end": 415,
+   "summary": "Case study: Huffman coding."
+  },
+  {
+   "title": "Abstract data types",
+   "start": 416,
+   "sections": [
+    {
+     "title": "Type representations",
+     "start": 416,
+     "end": 417,
+     "summary": "Representations.",
+     "terms": [
+      "representation"
+     ]
+    },
+    {
+     "title": "The Haskell abstract data type mechanism",
+     "start": 418,
+     "end": 421,
+     "summary": "Haskell\u2019s ADT mechanism.",
+     "terms": [
+      "abstract types",
+      "modules"
+     ]
+    },
+    {
+     "title": "Queues",
+     "start": 422,
+     "end": 425,
+     "summary": "Queues.",
+     "terms": [
+      "queues"
+     ]
+    },
+    {
+     "title": "Design",
+     "start": 426,
+     "end": 427,
+     "summary": "Design.",
+     "terms": [
+      "design"
+     ]
+    },
+    {
+     "title": "Simulation",
+     "start": 428,
+     "end": 429,
+     "summary": "Simulation.",
+     "terms": [
+      "simulation"
+     ]
+    },
+    {
+     "title": "Implementing the simulation",
+     "start": 430,
+     "end": 433,
+     "summary": "Implementing the simulation.",
+     "terms": [
+      "implementation"
+     ]
+    },
+    {
+     "title": "Search trees",
+     "start": 434,
+     "end": 439,
+     "summary": "Search trees.",
+     "terms": [
+      "binary search trees"
+     ]
+    },
+    {
+     "title": "Sets",
+     "start": 440,
+     "end": 445,
+     "summary": "Sets.",
+     "terms": [
+      "sets"
+     ]
+    },
+    {
+     "title": "Relations and graphs",
+     "start": 446,
+     "end": 457,
+     "summary": "Relations and graphs.",
+     "terms": [
+      "relations",
+      "graphs"
+     ]
+    }
+   ],
+   "end": 457,
+   "summary": "Abstract data types."
+  },
+  {
+   "title": "Lazy programming",
+   "start": 458,
+   "sections": [
+    {
+     "title": "Lazy evaluation",
+     "start": 459,
+     "end": 460,
+     "summary": "Lazy evaluation.",
+     "terms": [
+      "lazy evaluation"
+     ]
+    },
+    {
+     "title": "Calculation rules and lazy evaluation",
+     "start": 461,
+     "end": 463,
+     "summary": "Calculation rules.",
+     "terms": [
+      "calculation rules"
+     ]
+    },
+    {
+     "title": "List comprehensions revisited",
+     "start": 464,
+     "end": 471,
+     "summary": "Comprehensions revisited.",
+     "terms": [
+      "list comprehensions"
+     ]
+    },
+    {
+     "title": "Data-directed programming",
+     "start": 472,
+     "end": 475,
+     "summary": "Data-directed programming.",
+     "terms": [
+      "data-directed"
+     ]
+    },
+    {
+     "title": "Case study: parsing expressions",
+     "start": 476,
+     "end": 486,
+     "summary": "Parsing expressions.",
+     "terms": [
+      "parser combinators"
+     ]
+    },
+    {
+     "title": "Infinite lists",
+     "start": 487,
+     "end": 492,
+     "summary": "Infinite lists.",
+     "terms": [
+      "infinite lists"
+     ]
+    },
+    {
+     "title": "Why infinite lists?",
+     "start": 493,
+     "end": 495,
+     "summary": "Why infinite lists.",
+     "terms": [
+      "streams"
+     ]
+    },
+    {
+     "title": "Case study: simulation",
+     "start": 496,
+     "end": 497,
+     "summary": "Simulation.",
+     "terms": [
+      "simulation"
+     ]
+    },
+    {
+     "title": "Proof revisited",
+     "start": 498,
+     "end": 505,
+     "summary": "Proofs revisited.",
+     "terms": [
+      "proof"
+     ]
+    }
+   ],
+   "end": 505,
+   "summary": "Laziness."
+  },
+  {
+   "title": "Programming with monads",
+   "start": 506,
+   "sections": [
+    {
+     "title": "I/O programming",
+     "start": 506,
+     "end": 508,
+     "summary": "I/O programming.",
+     "terms": [
+      "IO"
+     ]
+    },
+    {
+     "title": "Further I/O",
+     "start": 509,
+     "end": 511,
+     "summary": "Further I/O.",
+     "terms": [
+      "files"
+     ]
+    },
+    {
+     "title": "The calculator",
+     "start": 512,
+     "end": 514,
+     "summary": "A calculator.",
+     "terms": [
+      "calculator"
+     ]
+    },
+    {
+     "title": "The do notation revisited",
+     "start": 515,
+     "end": 516,
+     "summary": "do revisited.",
+     "terms": [
+      "do notation"
+     ]
+    },
+    {
+     "title": "Monads: languages for functional programming",
+     "start": 517,
+     "end": 523,
+     "summary": "Monads as languages.",
+     "terms": [
+      "monads"
+     ]
+    },
+    {
+     "title": "Example: monadic computation over trees",
+     "start": 524,
+     "end": 531,
+     "summary": "Monadic computation over trees.",
+     "terms": [
+      "State",
+      "tree traversal"
+     ]
+    }
+   ],
+   "end": 531,
+   "summary": "Programming with monads."
+  },
+  {
+   "title": "Domain-Specific Languages",
+   "start": 532,
+   "sections": [
+    {
+     "title": "Programming languages everywhere",
+     "start": 532,
+     "end": 534,
+     "summary": "Languages everywhere.",
+     "terms": [
+      "DSL"
+     ]
+    },
+    {
+     "title": "Why DSLs in Haskell?",
+     "start": 535,
+     "end": 535,
+     "summary": "Why Haskell for DSLs.",
+     "terms": [
+      "embedding"
+     ]
+    },
+    {
+     "title": "Shallow and deep Embeddings",
+     "start": 536,
+     "end": 539,
+     "summary": "Shallow vs. deep embeddings.",
+     "terms": [
+      "shallow",
+      "deep embedding"
+     ]
+    },
+    {
+     "title": "A DSL for regular expressions",
+     "start": 540,
+     "end": 544,
+     "summary": "A regex DSL.",
+     "terms": [
+      "regular expressions"
+     ]
+    },
+    {
+     "title": "Monadic DSLs",
+     "start": 545,
+     "end": 546,
+     "summary": "Monadic DSLs.",
+     "terms": [
+      "monadic DSL"
+     ]
+    },
+    {
+     "title": "DSLs for computation: generating data in QuickCheck",
+     "start": 547,
+     "end": 552,
+     "summary": "QuickCheck generators as a DSL.",
+     "terms": [
+      "QuickCheck",
+      "Gen"
+     ]
+    },
+    {
+     "title": "Taking it further",
+     "start": 553,
+     "end": 555,
+     "summary": "Further.",
+     "terms": [
+      "further"
+     ]
+    }
+   ],
+   "end": 555,
+   "summary": "Domain-specific languages."
+  },
+  {
+   "title": "Time and space behaviour",
+   "start": 556,
+   "sections": [
+    {
+     "title": "Complexity of functions",
+     "start": 556,
+     "end": 560,
+     "summary": "Complexity of functions.",
+     "terms": [
+      "complexity"
+     ]
+    },
+    {
+     "title": "The complexity of calculations",
+     "start": 561,
+     "end": 564,
+     "summary": "Complexity of calculations.",
+     "terms": [
+      "cost"
+     ]
+    },
+    {
+     "title": "Implementations of sets",
+     "start": 565,
+     "end": 565,
+     "summary": "Set implementations.",
+     "terms": [
+      "sets"
+     ]
+    },
+    {
+     "title": "Space behaviour",
+     "start": 566,
+     "end": 568,
+     "summary": "Space behaviour.",
+     "terms": [
+      "space leaks"
+     ]
+    },
+    {
+     "title": "Folding revisited",
+     "start": 569,
+     "end": 575,
+     "summary": "Folding revisited (foldl vs foldr).",
+     "terms": [
+      "foldl",
+      "foldr",
+      "strictness"
+     ]
+    },
+    {
+     "title": "Avoiding recomputation: memoization",
+     "start": 576,
+     "end": 581,
+     "summary": "Memoization.",
+     "terms": [
+      "memoization",
+      "dynamic programming"
+     ]
+    }
+   ],
+   "end": 581,
+   "summary": "Time and space behaviour."
+  }
+ ],
+ "title": "Haskell: The Craft of Functional Programming (3rd edition)",
+ "byline": "Simon Thompson \u00b7 Addison-Wesley 2011; free CC BY-NC-ND PDF, 2023",
+ "note": "PDF page = printed page + 19. This free 2023 PDF is still the current version; the author plans a revised interactive online edition. Exercises and the appendices (imperative vs. functional, glossary, operators, practicalities, GHCi errors, project ideas) are not broken out. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "A first course in functional programming with Haskell that stresses the craft of designing, testing and reasoning about programs rather than language features. Using a running Pictures example and other case studies, it moves from basic types, definitions and recursion through tuples, lists and list comprehensions, I/O with a rock\u2013paper\u2013scissors game, and proof by induction, to higher-order functions and patterns of computation, type classes and type inference, algebraic and abstract data types (Huffman codes, queues, search trees, sets, graphs), lazy and infinite structures with a parsing case study, monads, domain-specific languages including QuickCheck generators, and time and space behaviour."
+}

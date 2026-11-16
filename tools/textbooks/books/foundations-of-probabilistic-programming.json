@@ -1,0 +1,720 @@
+{
+ "url": "https://drive.google.com/file/d/1aNogWuvf46m9qNFtlssG5eUKKzxOiqnl/view",
+ "chapters": [
+  {
+   "title": "1 Semantics of Probabilistic Programming: A Gentle Introduction",
+   "start": 17,
+   "end": 58,
+   "sections": [
+    {
+     "title": "Measure theory: What you need to know",
+     "start": 21,
+     "end": 30,
+     "summary": "The measure theory needed.",
+     "terms": [
+      "measure theory",
+      "sigma-algebra",
+      "Lebesgue integral"
+     ]
+    },
+    {
+     "title": "Semantics of a simple imperative probabilistic language",
+     "start": 31,
+     "end": 58,
+     "summary": "Semantics of a simple imperative probabilistic language.",
+     "terms": [
+      "imperative probabilistic language",
+      "denotational semantics",
+      "Kozen"
+     ]
+    }
+   ],
+   "summary": "A gentle introduction to the semantics of probabilistic programs."
+  },
+  {
+   "title": "2 Probabilistic Programs as Measures",
+   "start": 59,
+   "end": 90,
+   "sections": [
+    {
+     "title": "Informal semantics for probabilistic programming",
+     "start": 60,
+     "end": 70,
+     "summary": "Informal semantics with sampling and scoring.",
+     "terms": [
+      "sample",
+      "score",
+      "observe"
+     ]
+    },
+    {
+     "title": "Introduction to measurability issues",
+     "start": 71,
+     "end": 77,
+     "summary": "Measurability issues with higher-order functions.",
+     "terms": [
+      "measurability",
+      "Borel"
+     ]
+    },
+    {
+     "title": "Formal semantics of probabilistic programs as measures",
+     "start": 78,
+     "end": 85,
+     "summary": "Formal semantics as measures (s-finite kernels).",
+     "terms": [
+      "s-finite kernels"
+     ]
+    },
+    {
+     "title": "Reasoning with measures",
+     "start": 86,
+     "end": 86,
+     "summary": "Reasoning with measures.",
+     "terms": [
+      "equational reasoning"
+     ]
+    },
+    {
+     "title": "Other approaches to semantics and open questions",
+     "start": 87,
+     "end": 90,
+     "summary": "Other approaches and open questions.",
+     "terms": [
+      "quasi-Borel spaces"
+     ]
+    }
+   ],
+   "summary": "Programs as measures, and the measurability problems."
+  },
+  {
+   "title": "3 An Application of Computable Distributions to the Semantics of Probabilistic Programs",
+   "start": 91,
+   "end": 136,
+   "sections": [
+    {
+     "title": "Computability Revisited",
+     "start": 93,
+     "end": 97,
+     "summary": "Computability over reals.",
+     "terms": [
+      "computable analysis"
+     ]
+    },
+    {
+     "title": "A Library for Computable Distributions",
+     "start": 98,
+     "end": 104,
+     "summary": "A library of computable distributions.",
+     "terms": [
+      "computable distributions"
+     ]
+    },
+    {
+     "title": "Mathematical Structures for Modeling the Library",
+     "start": 105,
+     "end": 118,
+     "summary": "Domain-theoretic structures.",
+     "terms": [
+      "domains"
+     ]
+    },
+    {
+     "title": "A Semantics for a Core Language",
+     "start": 119,
+     "end": 127,
+     "summary": "Semantics for a core language.",
+     "terms": [
+      "semantics"
+     ]
+    },
+    {
+     "title": "Bayesian Inference",
+     "start": 128,
+     "end": 131,
+     "summary": "Bayesian inference computably.",
+     "terms": [
+      "Bayesian inference",
+      "conditioning"
+     ]
+    }
+   ],
+   "summary": "Computable distributions as a semantic basis."
+  },
+  {
+   "title": "4 On Probabilistic \u03bb-Calculi",
+   "start": 137,
+   "end": 160,
+   "sections": [
+    {
+     "title": "A Bird\u2019s Eye View on Probabilistic Lambda Calculi",
+     "start": 140,
+     "end": 141,
+     "summary": "Overview of design choices.",
+     "terms": [
+      "probabilistic lambda calculus"
+     ]
+    },
+    {
+     "title": "A Typed \u03bb-Calculus with Binary Probabilistic Choice",
+     "start": 142,
+     "end": 153,
+     "summary": "A typed \u03bb-calculus with binary choice and its operational semantics.",
+     "terms": [
+      "typed calculus",
+      "binary choice"
+     ]
+    },
+    {
+     "title": "Sampling and Conditioning",
+     "start": 154,
+     "end": 160,
+     "summary": "Sampling and conditioning.",
+     "terms": [
+      "sampling",
+      "conditioning"
+     ]
+    }
+   ],
+   "summary": "Probabilistic \u03bb-calculi."
+  },
+  {
+   "title": "5 Probabilistic Couplings from Program Logics",
+   "start": 161,
+   "end": 200,
+   "sections": [
+    {
+     "title": "Couplings and liftings: definitions and basic properties",
+     "start": 165,
+     "end": 171,
+     "summary": "Couplings and liftings.",
+     "terms": [
+      "coupling",
+      "lifting"
+     ]
+    },
+    {
+     "title": "Proof by coupling",
+     "start": 172,
+     "end": 172,
+     "summary": "Proof by coupling.",
+     "terms": [
+      "proof by coupling"
+     ]
+    },
+    {
+     "title": "A formal logic for coupling proofs",
+     "start": 173,
+     "end": 184,
+     "summary": "pRHL, a program logic for couplings.",
+     "terms": [
+      "probabilistic relational Hoare logic"
+     ]
+    },
+    {
+     "title": "Constructing couplings, formally",
+     "start": 185,
+     "end": 192,
+     "summary": "Constructing couplings formally.",
+     "terms": [
+      "coupling construction"
+     ]
+    }
+   ],
+   "summary": "Relational verification with couplings."
+  },
+  {
+   "title": "6 Expected Runtime Analysis by Program Verification",
+   "start": 201,
+   "end": 236,
+   "sections": [
+    {
+     "title": "Probabilistic Programs",
+     "start": 204,
+     "end": 206,
+     "summary": "Probabilistic guarded commands.",
+     "terms": [
+      "pGCL"
+     ]
+    },
+    {
+     "title": "Semantic Intricacies",
+     "start": 207,
+     "end": 208,
+     "summary": "Semantic subtleties (positive almost-sure termination).",
+     "terms": [
+      "almost-sure termination"
+     ]
+    },
+    {
+     "title": "The Expected Runtime Calculus",
+     "start": 209,
+     "end": 212,
+     "summary": "The ert calculus.",
+     "terms": [
+      "expected runtime transformer"
+     ]
+    },
+    {
+     "title": "Proof Rules for Loops",
+     "start": 213,
+     "end": 224,
+     "summary": "Proof rules for loops.",
+     "terms": [
+      "loop invariants"
+     ]
+    },
+    {
+     "title": "Application: Bayesian networks",
+     "start": 225,
+     "end": 228,
+     "summary": "Bayesian network sampling runtime.",
+     "terms": [
+      "Bayesian networks"
+     ]
+    }
+   ],
+   "summary": "Reasoning about expected running time."
+  },
+  {
+   "title": "7 Termination Analysis of Probabilistic Programs with Martingales",
+   "start": 237,
+   "end": 274,
+   "sections": [
+    {
+     "title": "Theoretical Foundations for Bounded Termination",
+     "start": 246,
+     "end": 253,
+     "summary": "Theory of bounded termination.",
+     "terms": [
+      "ranking supermartingales"
+     ]
+    },
+    {
+     "title": "Algorithms for Proving Bounded Termination",
+     "start": 254,
+     "end": 256,
+     "summary": "Algorithms (ranking supermartingales).",
+     "terms": [
+      "algorithms",
+      "linear programming"
+     ]
+    },
+    {
+     "title": "Beyond Bounded Termination",
+     "start": 257,
+     "end": 267,
+     "summary": "Beyond bounded termination.",
+     "terms": [
+      "almost-sure termination"
+     ]
+    }
+   ],
+   "summary": "Termination analysis with supermartingales."
+  },
+  {
+   "title": "8 Quantitative Analysis of Programs with Probabilities and Concentration of Measure Inequalities",
+   "start": 275,
+   "end": 310,
+   "sections": [
+    {
+     "title": "Quantitative Analysis: Problem and Approaches",
+     "start": 280,
+     "end": 283,
+     "summary": "The analysis problem and approaches.",
+     "terms": [
+      "quantitative analysis"
+     ]
+    },
+    {
+     "title": "Concentration of Measure Inequalities: a Primer",
+     "start": 284,
+     "end": 293,
+     "summary": "Concentration of measure primer.",
+     "terms": [
+      "Chernoff",
+      "Hoeffding"
+     ]
+    },
+    {
+     "title": "Control Deterministic Computations",
+     "start": 294,
+     "end": 302,
+     "summary": "Control-deterministic programs.",
+     "terms": [
+      "control-deterministic"
+     ]
+    },
+    {
+     "title": "Super-martingales and Concentration of Measure",
+     "start": 303,
+     "end": 305,
+     "summary": "Supermartingales and Azuma-type bounds.",
+     "terms": [
+      "Azuma inequality",
+      "martingales"
+     ]
+    }
+   ],
+   "summary": "Quantitative analysis via concentration inequalities."
+  },
+  {
+   "title": "9 The Logical Essentials of Bayesian Reasoning",
+   "start": 311,
+   "end": 348,
+   "sections": [
+    {
+     "title": "Perspectives",
+     "start": 313,
+     "end": 318,
+     "summary": "Perspectives.",
+     "terms": [
+      "channel-based probability"
+     ]
+    },
+    {
+     "title": "States and predicates",
+     "start": 319,
+     "end": 322,
+     "summary": "States and predicates.",
+     "terms": [
+      "states",
+      "predicates",
+      "validity"
+     ]
+    },
+    {
+     "title": "Conditioning",
+     "start": 323,
+     "end": 325,
+     "summary": "Conditioning.",
+     "terms": [
+      "conditioning"
+     ]
+    },
+    {
+     "title": "Bayesian inference via state/predicate transformation",
+     "start": 326,
+     "end": 330,
+     "summary": "Inference via state/predicate transformers.",
+     "terms": [
+      "state transformers",
+      "predicate transformers"
+     ]
+    },
+    {
+     "title": "Inference in Bayesian networks",
+     "start": 331,
+     "end": 336,
+     "summary": "Inference in Bayesian networks.",
+     "terms": [
+      "Bayesian networks"
+     ]
+    },
+    {
+     "title": "String diagrams for Bayesian probability",
+     "start": 337,
+     "end": 338,
+     "summary": "String diagrams.",
+     "terms": [
+      "string diagrams"
+     ]
+    },
+    {
+     "title": "From joint states to Bayesian networks",
+     "start": 339,
+     "end": 343,
+     "summary": "From joint states to networks.",
+     "terms": [
+      "disintegration"
+     ]
+    }
+   ],
+   "summary": "A logical and categorical account of Bayesian reasoning."
+  },
+  {
+   "title": "10 Quantitative Equational Reasoning",
+   "start": 349,
+   "end": 376,
+   "sections": [
+    {
+     "title": "Equational Logic",
+     "start": 351,
+     "end": 356,
+     "summary": "Classical equational logic.",
+     "terms": [
+      "equational logic"
+     ]
+    },
+    {
+     "title": "Quantitative Equational Logic",
+     "start": 362,
+     "end": 365,
+     "summary": "Quantitative equational logic.",
+     "terms": [
+      "quantitative equational theories",
+      "metric spaces"
+     ]
+    },
+    {
+     "title": "Examples",
+     "start": 366,
+     "end": 372,
+     "summary": "Examples (Kantorovich metric).",
+     "terms": [
+      "Kantorovich metric",
+      "examples"
+     ]
+    }
+   ],
+   "summary": "Equational logic with distances."
+  },
+  {
+   "title": "11 Probabilistic Abstract Interpretation: Sound Inference and Application to Privacy",
+   "start": 377,
+   "end": 406,
+   "sections": [
+    {
+     "title": "Quantitative Properties",
+     "start": 378,
+     "end": 379,
+     "summary": "Quantitative properties.",
+     "terms": [
+      "quantitative properties"
+     ]
+    },
+    {
+     "title": "Distribution Semantics",
+     "start": 380,
+     "end": 385,
+     "summary": "Distribution semantics.",
+     "terms": [
+      "distribution semantics"
+     ]
+    },
+    {
+     "title": "Abstraction",
+     "start": 386,
+     "end": 388,
+     "summary": "Abstraction.",
+     "terms": [
+      "abstraction"
+     ]
+    },
+    {
+     "title": "Sound Domains with Conditioning",
+     "start": 389,
+     "end": 390,
+     "summary": "Sound domains with conditioning.",
+     "terms": [
+      "probabilistic polyhedra",
+      "conditioning"
+     ]
+    },
+    {
+     "title": "Abstract Semantics",
+     "start": 391,
+     "end": 396,
+     "summary": "Abstract semantics.",
+     "terms": [
+      "abstract semantics"
+     ]
+    },
+    {
+     "title": "Privacy Monitor",
+     "start": 397,
+     "end": 398,
+     "summary": "A privacy monitor.",
+     "terms": [
+      "privacy",
+      "knowledge-based security"
+     ]
+    }
+   ],
+   "summary": "Abstract interpretation for probabilistic inference and privacy."
+  },
+  {
+   "title": "12 Quantitative Information Flow with Monads in Haskell",
+   "start": 407,
+   "end": 464,
+   "sections": [
+    {
+     "title": "QIF and hyper-distributions",
+     "start": 418,
+     "end": 424,
+     "summary": "QIF and hyper-distributions.",
+     "terms": [
+      "quantitative information flow",
+      "hyper-distributions"
+     ]
+    },
+    {
+     "title": "A concrete programming language Kuifje, and its semantics",
+     "start": 425,
+     "end": 434,
+     "summary": "The Kuifje language and its semantics.",
+     "terms": [
+      "Kuifje",
+      "monads"
+     ]
+    },
+    {
+     "title": "Hyper-distributions: from leaked values",
+     "start": 435,
+     "end": 440,
+     "summary": "Hyper-distributions and leakage.",
+     "terms": [
+      "leakage"
+     ]
+    },
+    {
+     "title": "Case Studies",
+     "start": 441,
+     "end": 449,
+     "summary": "Case studies.",
+     "terms": [
+      "case studies"
+     ]
+    }
+   ],
+   "summary": "Quantitative information flow in Haskell."
+  },
+  {
+   "title": "13 Luck: A Probabilistic Language for Testing",
+   "start": 465,
+   "end": 504,
+   "sections": [
+    {
+     "title": "Luck by Example",
+     "start": 469,
+     "end": 473,
+     "summary": "Luck by example.",
+     "terms": [
+      "Luck"
+     ]
+    },
+    {
+     "title": "Semantics of Core Luck",
+     "start": 474,
+     "end": 490,
+     "summary": "Core semantics.",
+     "terms": [
+      "property-based testing",
+      "generators"
+     ]
+    },
+    {
+     "title": "Implementation",
+     "start": 491,
+     "end": 492,
+     "summary": "Implementation.",
+     "terms": [
+      "implementation"
+     ]
+    },
+    {
+     "title": "Evaluation",
+     "start": 493,
+     "end": 496,
+     "summary": "Evaluation.",
+     "terms": [
+      "evaluation"
+     ]
+    }
+   ],
+   "summary": "Luck: a language for test-data generators."
+  },
+  {
+   "title": "14 Tabular: Probabilistic Inference from the Spreadsheet",
+   "start": 505,
+   "end": 548,
+   "sections": [
+    {
+     "title": "Introduction and Examples",
+     "start": 507,
+     "end": 513,
+     "summary": "Introduction and examples.",
+     "terms": [
+      "Tabular"
+     ]
+    },
+    {
+     "title": "Syntax of Tabular",
+     "start": 514,
+     "end": 520,
+     "summary": "Syntax.",
+     "terms": [
+      "syntax"
+     ]
+    },
+    {
+     "title": "Reduction to Core Tabular",
+     "start": 521,
+     "end": 529,
+     "summary": "Reduction to Core Tabular.",
+     "terms": [
+      "core language"
+     ]
+    },
+    {
+     "title": "Type System",
+     "start": 530,
+     "end": 544,
+     "summary": "Type system.",
+     "terms": [
+      "type system"
+     ]
+    }
+   ],
+   "summary": "Tabular: Bayesian models in spreadsheets."
+  },
+  {
+   "title": "15 Programming Unreliable Hardware",
+   "start": 549,
+   "end": 583,
+   "sections": [
+    {
+     "title": "Example",
+     "start": 553,
+     "end": 561,
+     "summary": "An example.",
+     "terms": [
+      "approximate computing"
+     ]
+    },
+    {
+     "title": "Language Semantics",
+     "start": 562,
+     "end": 566,
+     "summary": "Language semantics.",
+     "terms": [
+      "semantics"
+     ]
+    },
+    {
+     "title": "Semantics of Quantitative Reliability",
+     "start": 567,
+     "end": 569,
+     "summary": "Quantitative reliability semantics.",
+     "terms": [
+      "reliability"
+     ]
+    },
+    {
+     "title": "Reliability Analysis",
+     "start": 570,
+     "end": 578,
+     "summary": "Reliability analysis.",
+     "terms": [
+      "Rely analysis"
+     ]
+    }
+   ],
+   "summary": "Reasoning about programs on unreliable hardware."
+  }
+ ],
+ "title": "Foundations of Probabilistic Programming",
+ "byline": "Gilles Barthe, Joost-Pieter Katoen and Alexandra Silva (eds.) \u00b7 Cambridge University Press, 2020 (open access)",
+ "note": "An edited volume of 15 contributed chapters. Introduction, conclusion and related-work sections are not broken out. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "A survey volume on the theory of probabilistic programs, from the semantics of languages with random choice and conditioning to methods for verifying and analyzing them. It covers measure-theoretic and computable semantics, probabilistic \u03bb-calculi, relational verification with couplings, expected-runtime calculi, termination via martingales, concentration-of-measure analysis, a logical/categorical account of Bayesian reasoning, quantitative equational reasoning, probabilistic abstract interpretation for privacy, quantitative information flow in Haskell, and three applied languages: Luck for property-based testing generators, Tabular for spreadsheet inference, and Rely for reasoning about unreliable hardware."
+}

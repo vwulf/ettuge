@@ -1,0 +1,731 @@
+{
+ "url": "https://drive.google.com/file/d/1uk2E1vOOiOb5uuWrx1inygjBGpK9f2_i/view",
+ "chapters": [
+  {
+   "title": "Family and childhood",
+   "start": 11,
+   "end": 56,
+   "sections": [
+    {
+     "title": "1. DNA",
+     "start": 11,
+     "end": 15,
+     "summary": "Personal genomics advising as a way into family history.",
+     "terms": [
+      "23andMe",
+      "personal genetics"
+     ]
+    },
+    {
+     "title": "2. New Americans",
+     "start": 16,
+     "end": 19,
+     "summary": "Immigrant grandparents fleeing the Russian Empire.",
+     "terms": [
+      "immigration"
+     ]
+    },
+    {
+     "title": "3. Lamont",
+     "start": 20,
+     "end": 25,
+     "summary": "His father\u2019s path into geophysics at Lamont.",
+     "terms": [
+      "Lamont",
+      "geophysics",
+      "Frank Press"
+     ]
+    },
+    {
+     "title": "4. To California",
+     "start": 26,
+     "end": 31,
+     "summary": "The family\u2019s move to Caltech.",
+     "terms": [
+      "Caltech"
+     ]
+    },
+    {
+     "title": "5. Altadena",
+     "start": 32,
+     "end": 37,
+     "summary": "Life in Altadena.",
+     "terms": [
+      "Altadena"
+     ]
+    },
+    {
+     "title": "6. Projects",
+     "start": 38,
+     "end": 46,
+     "summary": "School and early projects.",
+     "terms": [
+      "school"
+     ]
+    },
+    {
+     "title": "7. Boy Scout",
+     "start": 47,
+     "end": 50,
+     "summary": "Scouting.",
+     "terms": [
+      "Boy Scouts"
+     ]
+    },
+    {
+     "title": "8. High School",
+     "start": 51,
+     "end": 56,
+     "summary": "High school in the 1960s.",
+     "terms": [
+      "high school",
+      "Kennedy"
+     ]
+    }
+   ],
+   "summary": "Origins and a Pasadena-area childhood."
+  },
+  {
+   "title": "Harvard undergraduate years",
+   "start": 57,
+   "end": 95,
+   "sections": [
+    {
+     "title": "9. Getting to Harvard",
+     "start": 57,
+     "end": 62,
+     "summary": "Summer lab jobs and admission.",
+     "terms": [
+      "national labs",
+      "internships"
+     ]
+    },
+    {
+     "title": "10. Radio Days",
+     "start": 63,
+     "end": 69,
+     "summary": "The student radio station WHRB.",
+     "terms": [
+      "WHRB"
+     ]
+    },
+    {
+     "title": "11. Sophomoric",
+     "start": 70,
+     "end": 74,
+     "summary": "Sophomore life.",
+     "terms": [
+      "Harvard houses"
+     ]
+    },
+    {
+     "title": "12. Coursework",
+     "start": 75,
+     "end": 79,
+     "summary": "Physics coursework (Ramsey\u2019s quantum mechanics).",
+     "terms": [
+      "Norman Ramsey",
+      "quantum mechanics"
+     ]
+    },
+    {
+     "title": "13. Professors",
+     "start": 80,
+     "end": 87,
+     "summary": "Influential professors.",
+     "terms": [
+      "professors"
+     ]
+    },
+    {
+     "title": "14. Graduating",
+     "start": 88,
+     "end": 95,
+     "summary": "Graduation and graduate-school plans.",
+     "terms": [
+      "graduation",
+      "Hertz Fellowship"
+     ]
+    }
+   ],
+   "summary": "College at Harvard."
+  },
+  {
+   "title": "Graduate school: Livermore and Caltech",
+   "start": 96,
+   "end": 169,
+   "sections": [
+    {
+     "title": "15. Livermore",
+     "start": 96,
+     "end": 104,
+     "summary": "Draft deferment and Livermore summers.",
+     "terms": [
+      "Livermore"
+     ]
+    },
+    {
+     "title": "16. Teller",
+     "start": 105,
+     "end": 115,
+     "summary": "Edward Teller and Lowell Wood.",
+     "terms": [
+      "Edward Teller",
+      "Star Wars"
+     ]
+    },
+    {
+     "title": "17. Gravitational Waves",
+     "start": 116,
+     "end": 120,
+     "summary": "Early gravitational-wave work.",
+     "terms": [
+      "gravitational waves"
+     ]
+    },
+    {
+     "title": "18. Kip",
+     "start": 121,
+     "end": 127,
+     "summary": "Kip Thorne\u2019s group.",
+     "terms": [
+      "Kip Thorne"
+     ]
+    },
+    {
+     "title": "19. Black Holes",
+     "start": 128,
+     "end": 132,
+     "summary": "Black holes as theory in 1971.",
+     "terms": [
+      "black holes",
+      "Teukolsky equation"
+     ]
+    },
+    {
+     "title": "20. Feynman",
+     "start": 133,
+     "end": 138,
+     "summary": "Feynman and Gell-Mann.",
+     "terms": [
+      "Feynman",
+      "Gell-Mann"
+     ]
+    },
+    {
+     "title": "21. Chandrasekhar",
+     "start": 139,
+     "end": 147,
+     "summary": "Chandrasekhar.",
+     "terms": [
+      "Chandrasekhar"
+     ]
+    },
+    {
+     "title": "22. Motivation",
+     "start": 148,
+     "end": 154,
+     "summary": "Burbidge, Fowler and motivation.",
+     "terms": [
+      "Burbidge",
+      "Fowler"
+     ]
+    },
+    {
+     "title": "23. I.O.T.A.",
+     "start": 155,
+     "end": 164,
+     "summary": "Partnership with Saul Teukolsky.",
+     "terms": [
+      "Teukolsky"
+     ]
+    },
+    {
+     "title": "24. Les Houches",
+     "start": 165,
+     "end": 169,
+     "summary": "Les Houches summer school.",
+     "terms": [
+      "Les Houches"
+     ]
+    }
+   ],
+   "summary": "Livermore and Caltech graduate school."
+  },
+  {
+   "title": "First jobs: Princeton to Harvard tenure",
+   "start": 170,
+   "end": 230,
+   "sections": [
+    {
+     "title": "25. Job, No Job",
+     "start": 170,
+     "end": 177,
+     "summary": "The job search.",
+     "terms": [
+      "job market"
+     ]
+    },
+    {
+     "title": "26. Resolution",
+     "start": 178,
+     "end": 185,
+     "summary": "Resolution via Caltech.",
+     "terms": [
+      "Caltech"
+     ]
+    },
+    {
+     "title": "27. Zel\u2019dovich",
+     "start": 186,
+     "end": 192,
+     "summary": "Meeting Zel\u2019dovich at the IAU.",
+     "terms": [
+      "Zel\u2019dovich",
+      "IAU"
+     ]
+    },
+    {
+     "title": "28. Princeton",
+     "start": 193,
+     "end": 202,
+     "summary": "Unhappy years at Princeton.",
+     "terms": [
+      "Princeton"
+     ]
+    },
+    {
+     "title": "29. Metrics",
+     "start": 203,
+     "end": 211,
+     "summary": "Settling into teaching and research.",
+     "terms": [
+      "assistant professor"
+     ]
+    },
+    {
+     "title": "30. Ticket Out",
+     "start": 212,
+     "end": 217,
+     "summary": "A way out.",
+     "terms": [
+      "offers"
+     ]
+    },
+    {
+     "title": "31. Tenures",
+     "start": 218,
+     "end": 223,
+     "summary": "Tenure at Harvard.",
+     "terms": [
+      "tenure"
+     ]
+    },
+    {
+     "title": "32. New Colleagues",
+     "start": 224,
+     "end": 230,
+     "summary": "Harvard astronomy\u2019s history and colleagues.",
+     "terms": [
+      "Harvard College Observatory",
+      "CfA"
+     ]
+    }
+   ],
+   "summary": "Princeton and the move to Harvard."
+  },
+  {
+   "title": "Harvard, JASON and Numerical Recipes",
+   "start": 231,
+   "end": 373,
+   "sections": [
+    {
+     "title": "33. Jimmy Carter",
+     "start": 231,
+     "end": 237,
+     "summary": "His father as Carter\u2019s science advisor.",
+     "terms": [
+      "Carter",
+      "science advisor"
+     ]
+    },
+    {
+     "title": "34. Protvino",
+     "start": 238,
+     "end": 245,
+     "summary": "A Soviet visit to Protvino.",
+     "terms": [
+      "Protvino",
+      "USSR"
+     ]
+    },
+    {
+     "title": "35. Academics",
+     "start": 246,
+     "end": 249,
+     "summary": "Department hiring politics.",
+     "terms": [
+      "hiring"
+     ]
+    },
+    {
+     "title": "36. Academic Politics",
+     "start": 250,
+     "end": 256,
+     "summary": "University politics.",
+     "terms": [
+      "academic politics"
+     ]
+    },
+    {
+     "title": "37. Committees",
+     "start": 257,
+     "end": 264,
+     "summary": "National committees.",
+     "terms": [
+      "committees"
+     ]
+    },
+    {
+     "title": "38. JASON",
+     "start": 265,
+     "end": 272,
+     "summary": "JASON summer studies.",
+     "terms": [
+      "JASON"
+     ]
+    },
+    {
+     "title": "39. Green Apples",
+     "start": 273,
+     "end": 282,
+     "summary": "Research slump and recovery.",
+     "terms": [
+      "research"
+     ]
+    },
+    {
+     "title": "40. JASON Again",
+     "start": 283,
+     "end": 289,
+     "summary": "More JASON.",
+     "terms": [
+      "JASON"
+     ]
+    },
+    {
+     "title": "41. Chairman",
+     "start": 290,
+     "end": 296,
+     "summary": "Chairing Harvard astronomy.",
+     "terms": [
+      "department chair"
+     ]
+    },
+    {
+     "title": "42. Numerical Recipes",
+     "start": 297,
+     "end": 303,
+     "summary": "Writing Numerical Recipes.",
+     "terms": [
+      "Numerical Recipes",
+      "scientific computing"
+     ]
+    },
+    {
+     "title": "43. Nukes and Spooks",
+     "start": 304,
+     "end": 313,
+     "summary": "Nuclear weapons and intelligence work.",
+     "terms": [
+      "nuclear weapons",
+      "intelligence"
+     ]
+    },
+    {
+     "title": "44. Sea Stories",
+     "start": 314,
+     "end": 326,
+     "summary": "Navy advising.",
+     "terms": [
+      "Navy"
+     ]
+    },
+    {
+     "title": "45. The Grove",
+     "start": 327,
+     "end": 334,
+     "summary": "Bohemian Grove and JASON skits.",
+     "terms": [
+      "Bohemian Grove"
+     ]
+    },
+    {
+     "title": "46. Boxes",
+     "start": 335,
+     "end": 347,
+     "summary": "Battles with CfA leadership.",
+     "terms": [
+      "CfA"
+     ]
+    },
+    {
+     "title": "47. Tryouts",
+     "start": 348,
+     "end": 361,
+     "summary": "Being the token young person.",
+     "terms": [
+      "national committees"
+     ]
+    },
+    {
+     "title": "48. Evangelist",
+     "start": 362,
+     "end": 373,
+     "summary": "Promoting scientific computing.",
+     "terms": [
+      "computational science"
+     ]
+    }
+   ],
+   "summary": "Harvard, JASON and Numerical Recipes."
+  },
+  {
+   "title": "The 1990s: computing and national service",
+   "start": 374,
+   "end": 423,
+   "sections": [
+    {
+     "title": "49. Global Grid",
+     "start": 374,
+     "end": 384,
+     "summary": "Grid computing and computer science.",
+     "terms": [
+      "computer science",
+      "grid"
+     ]
+    },
+    {
+     "title": "50. Far Out",
+     "start": 385,
+     "end": 396,
+     "summary": "A tongue-in-cheek account of a claimed SETI detection.",
+     "terms": [
+      "SETI",
+      "radio signals"
+     ]
+    },
+    {
+     "title": "51. Computers",
+     "start": 397,
+     "end": 406,
+     "summary": "Numerical Recipes second editions and new languages.",
+     "terms": [
+      "Numerical Recipes",
+      "Fortran",
+      "C"
+     ]
+    },
+    {
+     "title": "52. Sea Duty",
+     "start": 407,
+     "end": 417,
+     "summary": "Chief of Naval Operations panel.",
+     "terms": [
+      "Navy"
+     ]
+    },
+    {
+     "title": "53. Arrived",
+     "start": 418,
+     "end": 423,
+     "summary": "A Washington advisory circuit.",
+     "terms": [
+      "JASON",
+      "IDA",
+      "NRO"
+     ]
+    }
+   ],
+   "summary": "Computing and national service in the 1990s."
+  },
+  {
+   "title": "Los Alamos",
+   "start": 424,
+   "end": 503,
+   "sections": [
+    {
+     "title": "54. Uprooting",
+     "start": 424,
+     "end": 429,
+     "summary": "Moving to LANL.",
+     "terms": [
+      "Los Alamos"
+     ]
+    },
+    {
+     "title": "55. Harmony",
+     "start": 430,
+     "end": 440,
+     "summary": "New Mexico\u2019s social landscape.",
+     "terms": [
+      "New Mexico"
+     ]
+    },
+    {
+     "title": "56. Senior Executive",
+     "start": 441,
+     "end": 451,
+     "summary": "The senior executive team.",
+     "terms": [
+      "management"
+     ]
+    },
+    {
+     "title": "57. Wen Ho Lee",
+     "start": 452,
+     "end": 462,
+     "summary": "The Wen Ho Lee affair.",
+     "terms": [
+      "Wen Ho Lee"
+     ]
+    },
+    {
+     "title": "58. Cerro Grande",
+     "start": 463,
+     "end": 471,
+     "summary": "The Cerro Grande fire.",
+     "terms": [
+      "Cerro Grande fire"
+     ]
+    },
+    {
+     "title": "59. Hard Drives",
+     "start": 472,
+     "end": 480,
+     "summary": "The missing hard drives.",
+     "terms": [
+      "hard drives",
+      "security"
+     ]
+    },
+    {
+     "title": "60. The Process",
+     "start": 481,
+     "end": 488,
+     "summary": "Lab governance processes.",
+     "terms": [
+      "governance"
+     ]
+    },
+    {
+     "title": "61. The Fall",
+     "start": 489,
+     "end": 495,
+     "summary": "Leadership turnover.",
+     "terms": [
+      "University of California"
+     ]
+    },
+    {
+     "title": "62. Nanos",
+     "start": 496,
+     "end": 503,
+     "summary": "Working under Pete Nanos.",
+     "terms": [
+      "Nanos"
+     ]
+    }
+   ],
+   "summary": "Deputy director at Los Alamos."
+  },
+  {
+   "title": "Later years: arms control, PCAST and after",
+   "start": 504,
+   "end": 569,
+   "sections": [
+    {
+     "title": "63. Innocents Abroad",
+     "start": 504,
+     "end": 514,
+     "summary": "NAS CISAC Track-Two arms-control dialogues.",
+     "terms": [
+      "CISAC",
+      "arms control",
+      "track two"
+     ]
+    },
+    {
+     "title": "64. Transitions",
+     "start": 515,
+     "end": 523,
+     "summary": "Leaving the deputy directorship for a statistics research group.",
+     "terms": [
+      "statistics",
+      "career transition"
+     ]
+    },
+    {
+     "title": "65. PCAST",
+     "start": 524,
+     "end": 532,
+     "summary": "Joining Obama\u2019s PCAST.",
+     "terms": [
+      "PCAST"
+     ]
+    },
+    {
+     "title": "66. Obama",
+     "start": 533,
+     "end": 541,
+     "summary": "Meetings with President Obama.",
+     "terms": [
+      "Obama"
+     ]
+    },
+    {
+     "title": "67. Alice and Bob",
+     "start": 542,
+     "end": 547,
+     "summary": "Recreational cryptography (Alice and Bob).",
+     "terms": [
+      "cryptography",
+      "prisoner dilemma"
+     ]
+    },
+    {
+     "title": "68. Elections",
+     "start": 548,
+     "end": 555,
+     "summary": "Elections and Szil\u00e1rd.",
+     "terms": [
+      "elections"
+     ]
+    },
+    {
+     "title": "69. Trumped",
+     "start": 556,
+     "end": 562,
+     "summary": "2016 and its aftermath.",
+     "terms": [
+      "2016 election"
+     ]
+    },
+    {
+     "title": "70. COVID and Beyond",
+     "start": 563,
+     "end": 569,
+     "summary": "COVID and after.",
+     "terms": [
+      "COVID-19"
+     ]
+    }
+   ],
+   "summary": "Later career and public service."
+  }
+ ],
+ "title": "More Than Curious: A Science Memoir",
+ "byline": "William H. Press \u00b7 Darwin-Finch Publishing, 2023 (Creative Commons)",
+ "note": "A memoir, not a textbook: its 70 short chapters are grouped here into eight periods of the author\u2019s life, which are our grouping, not the book\u2019s. Summaries stick to the science, institutions and public events described. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "The memoir of astrophysicist and computational scientist William Press, co-author of Numerical Recipes, told through people and institutions he saw up close. It runs from his family\u2019s \u00e9migr\u00e9 roots and a Caltech-faculty childhood in Altadena, through Harvard, weapons-lab summers at Livermore with Edward Teller, and graduate work at Caltech with Kip Thorne on black holes and gravitational waves alongside Feynman and Chandrasekhar; then Princeton, a long Harvard career as astronomy chair and in JASON defense advising, the making of Numerical Recipes, the shift of science to computing, deputy directorship of Los Alamos during the Wen Ho Lee affair and the Cerro Grande fire, arms-control dialogues, and service on President Obama\u2019s PCAST, ending with the COVID era."
+}
