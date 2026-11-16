@@ -478,5 +478,37 @@
   "More Than Curious: A Science Memoir",
   "William H. Press",
   "Memoir: Caltech and Harvard astrophysics, JASON, Numerical Recipes, Los Alamos, PCAST."
+ ],
+ [
+  "smullyan-riddle-of-scheherazade",
+  "smullyan",
+  "Mathematics",
+  "The Riddle of Scheherazade",
+  "Raymond M. Smullyan",
+  "Logic and recreational puzzles: liars and truth-tellers, coercive logic, Gödel-flavored puzzles, paradoxes."
+ ],
+ [
+  "sullivan-everything-you-wanted-to-know-about-mathematics",
+  "bws",
+  "Mathematics",
+  "Everything You Always Wanted to Know About Mathematics",
+  "Brendan W. Sullivan",
+  "Conversational intro to proof: induction, sets, logic, relations, functions, cardinality, combinatorics."
+ ],
+ [
+  "zionomicon",
+  "zio",
+  "Computer Science",
+  "Zionomicon",
+  "John A. De Goes, Adam Fraser and Milad Khajavi",
+  "ZIO 2 in depth: fibers, concurrency structures, resources, layers, STM, schedules, streams and ZIO Test."
+ ],
+ [
+  "gallier-linear-algebra-vision-robotics-ml",
+  "linalgI",
+  "Mathematics",
+  "Linear Algebra for Computer Vision, Robotics, and Machine Learning",
+  "Jean Gallier and Jocelyn Quaintance",
+  "Rigorous, computational linear algebra: factorizations, norms, spectral theory, quaternions, Laplacians, SVD."
  ]
 ]

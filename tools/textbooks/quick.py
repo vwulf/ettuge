@@ -10,3 +10,12 @@ def Q(slug, meta, chapters):
         if c[1]: tt.append([[y.strip() for y in g.split(',') if y.strip()] for g in c[2].split(';')])
         else: tt.append([y.strip() for y in c[2].split(',') if y.strip()])
     add_terms(slug, tt)
+def QL(slug, meta, chapters):
+    """Light mode for very granular books: chapters = (summary, 'chapter terms comma list'); sections keep titles only."""
+    import json, os
+    st=json.load(open(f'/home/claude/tb/work/{slug}/structure.json'))
+    assemble(slug, meta, [c[0] for c in chapters], [['' for _ in c['sections']] for c in st['chapters']])
+    p=f'/home/claude/tb/work/{slug}/book.json'; bk=json.load(open(p))
+    for c,(sm,tt) in zip(bk['chapters'],chapters): c['terms']=[x.strip() for x in tt.split(',') if x.strip()]
+    json.dump(bk,open(p,'w'),indent=1,ensure_ascii=False)
+    from tool import render; render(slug)
