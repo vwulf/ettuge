@@ -438,5 +438,13 @@
   "Foundations of Reinforcement Learning with Applications in Finance",
   "Ashwin Rao and Tikhon Jelvis",
   "MDPs, DP, approximate DP and RL algorithms with Python, applied to asset allocation, derivatives and trading."
+ ],
+ [
+  "harper-practical-foundations-for-programming-languages",
+  "pfpl2",
+  "Computer Science",
+  "Practical Foundations for Programming Languages (2nd ed., abbreviated)",
+  "Robert Harper",
+  "Statics and dynamics for every language feature: T, PCF, System F, state, control, parallelism, concurrency, modules."
  ]
 ]

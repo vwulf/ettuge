@@ -32,6 +32,7 @@ Partial PDFs (samples, excerpts, unfinished drafts) are marked as such on their 
 - [Mathematics and Computation](wigderson-mathematics-and-computation) (Avi Wigderson): Panoramic survey of complexity theory, randomness, proofs and its links to mathematics and science.
 - [Modern Systems Programming with Scala Native](scala-native-systems-programming) (Whaling): pointers, processes, libuv, LMDB
 - [Perhaps Not The Answer You Were Expecting](mcbride-perhaps-not-the-answer) (McBride): Stack Overflow answers: applicatives, derivatives, dependent types
+- [Practical Foundations for Programming Languages (2nd ed., abbreviated)](harper-practical-foundations-for-programming-languages) (Robert Harper): Statics and dynamics for every language feature: T, PCF, System F, state, control, parallelism, concurrency, modules.
 - [Pragmatic Type-Level Design](granin-pragmatic-type-level-design) (Alexander Granin): Type-level programming for application design in Haskell, with Rust and Scala 3 counterparts.
 - [Principles of Eventual Consistency](burckhardt-eventual-consistency) (Burckhardt): histories, abstract executions, CAP, protocols
 - [Programming Well: Abstraction and Design in Computation](shieber-programming-well) (Stuart M. Shieber): CS51 in OCaml: types, higher-order functions, modules, semantics models, laziness, objects, MiniML.
