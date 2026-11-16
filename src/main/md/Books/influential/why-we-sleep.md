@@ -22,6 +22,9 @@ The book became a bestseller and sparked significant public conversation about s
 - **REM sleep and emotional processing:** Walker's account of REM sleep's role in emotional memory processing—"overnight therapy"—is well-supported and has practical implications for understanding PTSD, anxiety, and emotional resilience.
 - **Circadian biology:** The book's treatment of circadian rhythms—including the catastrophic effects of artificial light on melatonin and the pathological mismatch between teenage circadian phase and school start times—is among its most policy-relevant sections.
 - **Public health framing:** Whatever its specific inaccuracies, *Why We Sleep* succeeded in moving sleep from a personal lifestyle choice to a public health issue in the popular imagination. The societal consequences of this framing shift are real.
+- **Sleep apnea as a cardiometabolic disease:** each obstructive episode drops blood oxygen and ends in a brief arousal that triggers a fight-or-flight surge: sympathetic activation, spikes in heart rate and blood pressure, and stress hormones. This repeats many times an hour, all night. Over years it drives hypertension, insulin resistance and higher HbA1c, and atrial fibrillation. It is also common and mostly undiagnosed. This mechanism is well established independently of the book.
+- **Alcohol and caffeine harm sleep in different ways:** alcohol is a sedative rather than a sleep aid. It fragments the second half of the night and suppresses REM. Caffeine has a half-life of roughly five to six hours, so an afternoon coffee still reduces deep non-REM sleep at bedtime, even if you fall asleep easily. Sleeping pills and anaesthesia likewise produce sedation or unconsciousness, not natural sleep architecture.
+- **What holds up and what doesn't:** the near-universality of sleep holds up well: sleep-like states have now been shown even in jellyfish and nematode worms. The causal rankings hold up less well. "Sleep matters more than exercise" and the claims linking sleep to ageing are among the points the Guzey critique and later reviewers dispute. Sleep loss is one contributor to ageing and dementia, but the arrows run both ways: amyloid build-up itself degrades deep sleep. Excessive daytime sleepiness predicts later dementia partly because it can be an early symptom of it (reverse causation).
 
 ---
 
@@ -31,6 +34,22 @@ The book became a bestseller and sparked significant public conversation about s
 2. The glymphatic system revelations changed how I think about what sleep is for: it is not rest from activity but the active maintenance of the biological machinery that makes activity possible.
 3. The chapters on REM sleep and dreaming—particularly the theory that REM re-processes emotional memories to extract their informational content while reducing their emotional charge—are among the most interesting, though also among the most speculative.
 4. Reading the Guzey critique alongside the book is actually more valuable than reading either alone: it taught me to distinguish robust findings from oversold claims, and to ask what the actual effect sizes are behind alarming statistics.
+5. It is surprising that essentially every animal studied sleeps, despite how dangerous it is to be unconscious. Evolution kept it anyway.
+6. Sleep apnea's effect on cardiovascular disease and diabetes (HbA1c) runs through panic-waking: every choking episode ends in a fight-or-flight arousal, many times a night.
+7. Going to sleep earlier gives better-quality sleep than going to sleep later, even for a lifelong night owl.
+8. Sleep quality declines with age.
+9. Alcohol and caffeine affect different kinds of sleep: alcohol suppresses REM and fragments the night, and caffeine eats into deep sleep.
+10. Sleep drives long-term memory and skill formation.
+11. From personal experience: I remember nothing from exams I wrote after cramming and losing sleep, unlike subjects I studied slowly over a long time.
+12. Sleep is as important as exercise, if not more.
+13. Screens, ADD and stress-induced thought loops all disrupt sleep.
+14. Sleep affects the next day's exercise performance.
+15. Reasons to get a sleep test: high blood pressure, high HbA1c, high visceral fat, daytime drowsiness, snoring or teeth grinding.
+16. No disease leaves good sleep alone.
+17. Sleep and anaesthesia are fundamentally different.
+18. Needing less sleep as we age is a myth. What actually happens is that hormonal changes take away our ability to get enough sleep.
+19. Open question: is ageing primarily the result of lower-quality sleep?
+20. Excessive daytime sleeping is linked to dementia.
 
 ---
 
@@ -40,3 +59,4 @@ The book became a bestseller and sparked significant public conversation about s
 - [Wikipedia — Matthew Walker (scientist)](https://en.wikipedia.org/wiki/Matthew_Walker_(scientist))
 - [Goodreads — Why We Sleep](https://www.goodreads.com/book/show/34466963-why-we-sleep)
 - [Alexey Guzey's critique of Why We Sleep](https://guzey.com/books/why-we-sleep/)
+- Related: the sleep entry in [Deep Dives › Health and Fitness › *Outlive* against the papers](https://vwulf.github.io/ettuge/Deep-Dives/fitness/ch9)
