@@ -1,8 +1,8 @@
 {
  "title": "Unix System Programming in OCaml",
- "byline": "Xavier Leroy and Didier R\u00e9my \u00b7 course notes, English edition",
- "note": "Answers to the exercises (PDF pp. 125\u2013138) are not broken down. Summaries are in our own words; the text stays in the PDF.",
- "summary": "A course on Unix system programming that uses OCaml\u2019s Unix library, so each system call is seen through a typed functional interface while the concepts stay the classic ones. It covers files and the file system, processes and their lifecycle, signals, pipes and redirection, sockets for network clients and servers, and threads with locks, conditions and events. Most chapters are built around complete working programs: find, cp, tar, a mini-shell, a parallel sieve, a universal client and server, an HTTP relay. Along the way it is candid about the hard parts: buffering costs, race conditions with signals, and the difficulties of combining threads with Unix calls.",
+ "byline": "Xavier Leroy and Didier Rémy · course notes, English edition",
+ "note": "Answers to the exercises (PDF pp. 125–138) are not broken down. Each chapter and section also links to the free HTML edition on ocaml.github.io. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "A course on Unix system programming that uses OCaml’s Unix library, so each system call is seen through a typed functional interface while the concepts stay the classic ones. It covers files and the file system, processes and their lifecycle, signals, pipes and redirection, sockets for network clients and servers, and threads with locks, conditions and events. Most chapters are built around complete working programs: find, cp, tar, a mini-shell, a parallel sieve, a universal client and server, an HTTP relay. Along the way it is candid about the hard parts: buffering costs, race conditions with signals, and the difficulties of combining threads with Unix calls.",
  "chapters": [
   {
    "title": "Introduction",
@@ -14,7 +14,8 @@
     "Unix",
     "OCaml",
     "system programming"
-   ]
+   ],
+   "href": "https://ocaml.github.io/ocamlunix/intro.html"
   },
   {
    "title": "Generalities",
@@ -29,7 +30,8 @@
      "terms": [
       "Sys module",
       "Unix module"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/generalities.html#sec4"
     },
     {
      "title": "Interface with the calling program",
@@ -40,7 +42,8 @@
       "argv",
       "exit code",
       "environment"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/generalities.html#sec5"
     },
     {
      "title": "Error handling",
@@ -50,7 +53,8 @@
      "terms": [
       "Unix_error",
       "exceptions"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/generalities.html#sec7"
     },
     {
      "title": "Library functions",
@@ -59,10 +63,12 @@
      "summary": "Library functions versus raw system calls.",
      "terms": [
       "system calls"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/generalities.html#sec8"
     }
    ],
-   "summary": "The Sys and Unix modules, program arguments and exit codes, Unix errors as exceptions."
+   "summary": "The Sys and Unix modules, program arguments and exit codes, Unix errors as exceptions.",
+   "href": "https://ocaml.github.io/ocamlunix/generalities.html#sec3"
   },
   {
    "title": "Files",
@@ -78,7 +84,8 @@
       "file system",
       "inode",
       "hard link"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/files.html#sec12"
     },
     {
      "title": "File names and file descriptors",
@@ -87,7 +94,8 @@
      "summary": "Names versus descriptors.",
      "terms": [
       "file descriptor"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/files.html#sec13"
     },
     {
      "title": "Meta-attributes, types and permissions",
@@ -98,7 +106,8 @@
       "stat",
       "permissions",
       "file types"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/files.html#sec14"
     },
     {
      "title": "Operations on directories",
@@ -108,7 +117,8 @@
      "terms": [
       "directories",
       "readdir"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/files.html#sec18"
     },
     {
      "title": "Complete example: search in a file hierarchy",
@@ -117,7 +127,8 @@
      "summary": "A find-like recursive search.",
      "terms": [
       "find"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/files.html#sec20"
     },
     {
      "title": "Opening a file",
@@ -127,7 +138,8 @@
      "terms": [
       "openfile",
       "open flags"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/files.html#sec25"
     },
     {
      "title": "Reading and writing",
@@ -137,7 +149,8 @@
      "terms": [
       "read",
       "write"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/files.html#sec28"
     },
     {
      "title": "Closing a descriptor",
@@ -146,7 +159,8 @@
      "summary": "close and descriptor leaks.",
      "terms": [
       "close"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/files.html#sec32"
     },
     {
      "title": "Complete example: file copy",
@@ -156,7 +170,8 @@
      "terms": [
       "file copy",
       "cp"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/files.html#sec33"
     },
     {
      "title": "The cost of system calls and buffers",
@@ -166,7 +181,8 @@
      "terms": [
       "buffering",
       "system call cost"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/files.html#sec36"
     },
     {
      "title": "Complete example: a small input/output library",
@@ -175,7 +191,8 @@
      "summary": "A small buffered I/O library.",
      "terms": [
       "buffered I/O library"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/files.html#sec37"
     },
     {
      "title": "Positioning",
@@ -184,7 +201,8 @@
      "summary": "lseek and file offsets.",
      "terms": [
       "lseek"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/files.html#sec40"
     },
     {
      "title": "Operations specific to certain file types",
@@ -195,7 +213,8 @@
       "terminals",
       "devices",
       "symbolic links"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/files.html#sec44"
     },
     {
      "title": "Locks on files",
@@ -205,7 +224,8 @@
      "terms": [
       "file locks",
       "lockf"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/files.html#sec50"
     },
     {
      "title": "Complete example: recursive copy of files",
@@ -214,7 +234,8 @@
      "summary": "A recursive copy preserving attributes.",
      "terms": [
       "recursive copy"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/files.html#sec51"
     },
     {
      "title": "Complete example: Tape ARchive",
@@ -223,10 +244,12 @@
      "summary": "A tar implementation.",
      "terms": [
       "tar"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/files.html#sec54"
     }
    ],
-   "summary": "The file system, descriptors, permissions, directories, reading and writing, buffering, positioning, locks, with find, cp, a buffered I/O library and tar as worked programs."
+   "summary": "The file system, descriptors, permissions, directories, reading and writing, buffering, positioning, locks, with find, cp, a buffered I/O library and tar as worked programs.",
+   "href": "https://ocaml.github.io/ocamlunix/files.html#sec11"
   },
   {
    "title": "Processes",
@@ -240,7 +263,8 @@
      "summary": "fork creates a copy of the process.",
      "terms": [
       "fork"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/processes.html#sec67"
     },
     {
      "title": "Complete Example: the command leave",
@@ -249,7 +273,8 @@
      "summary": "The leave command as an example.",
      "terms": [
       "process example"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/processes.html#sec68"
     },
     {
      "title": "Awaiting the termination of a process",
@@ -260,7 +285,8 @@
       "wait",
       "waitpid",
       "zombie"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/processes.html#sec69"
     },
     {
      "title": "Launching a program",
@@ -269,7 +295,8 @@
      "summary": "exec replaces the program.",
      "terms": [
       "exec"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/processes.html#sec71"
     },
     {
      "title": "Complete example: a mini-shell",
@@ -278,10 +305,12 @@
      "summary": "A mini-shell combining fork, exec and wait.",
      "terms": [
       "shell"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/processes.html#sec75"
     }
    ],
-   "summary": "fork, wait and exec, with a mini-shell as the culminating example."
+   "summary": "fork, wait and exec, with a mini-shell as the culminating example.",
+   "href": "https://ocaml.github.io/ocamlunix/processes.html#sec66"
   },
   {
    "title": "Signals",
@@ -295,7 +324,8 @@
      "summary": "What signals do by default.",
      "terms": [
       "signals"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/signals.html#sec79"
     },
     {
      "title": "Using signals",
@@ -305,7 +335,8 @@
      "terms": [
       "kill",
       "signal handler"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/signals.html#sec80"
     },
     {
      "title": "Changing the effect of a signal",
@@ -314,7 +345,8 @@
      "summary": "Installing handlers.",
      "terms": [
       "sigaction"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/signals.html#sec81"
     },
     {
      "title": "How to mask signals",
@@ -323,7 +355,8 @@
      "summary": "Blocking signals with masks.",
      "terms": [
       "signal mask"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/signals.html#sec87"
     },
     {
      "title": "Signals and system calls",
@@ -332,7 +365,8 @@
      "summary": "Interrupted system calls (EINTR).",
      "terms": [
       "EINTR"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/signals.html#sec88"
     },
     {
      "title": "The passage of time",
@@ -342,7 +376,8 @@
      "terms": [
       "alarm",
       "timers"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/signals.html#sec91"
     },
     {
      "title": "Problems with signals",
@@ -351,10 +386,12 @@
      "summary": "Race conditions and why signals are fragile.",
      "terms": [
       "race conditions"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/signals.html#sec98"
     }
    ],
-   "summary": "Signal delivery, handlers, masking, interaction with system calls, timers, and why signals are hard to use correctly."
+   "summary": "Signal delivery, handlers, masking, interaction with system calls, timers, and why signals are hard to use correctly.",
+   "href": "https://ocaml.github.io/ocamlunix/signals.html#sec78"
   },
   {
    "title": "Classical inter-process communication: pipes",
@@ -368,7 +405,8 @@
      "summary": "Pipes between processes.",
      "terms": [
       "pipe"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/pipes.html#sec100"
     },
     {
      "title": "Complete example: parallel sieve of Eratosthenes",
@@ -378,7 +416,8 @@
      "terms": [
       "sieve of Eratosthenes",
       "concurrency"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/pipes.html#sec102"
     },
     {
      "title": "Named pipes",
@@ -388,7 +427,8 @@
      "terms": [
       "named pipe",
       "FIFO"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/pipes.html#sec107"
     },
     {
      "title": "Descriptor redirections",
@@ -398,7 +438,8 @@
      "terms": [
       "dup2",
       "redirection"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/pipes.html#sec108"
     },
     {
      "title": "Complete example: composing N commands",
@@ -407,7 +448,8 @@
      "summary": "Building a pipeline of N commands.",
      "terms": [
       "pipeline"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/pipes.html#sec114"
     },
     {
      "title": "Input/output multiplexing",
@@ -417,7 +459,8 @@
      "terms": [
       "select",
       "multiplexing"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/pipes.html#sec115"
     },
     {
      "title": "Miscellaneous: write",
@@ -426,10 +469,12 @@
      "summary": "Partial writes and how write behaves.",
      "terms": [
       "partial writes"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/pipes.html#sec118"
     }
    ],
-   "summary": "Anonymous and named pipes, descriptor redirection, composing pipelines, and multiplexing with select."
+   "summary": "Anonymous and named pipes, descriptor redirection, composing pipelines, and multiplexing with select.",
+   "href": "https://ocaml.github.io/ocamlunix/pipes.html#sec99"
   },
   {
    "title": "Modern communication: sockets",
@@ -443,7 +488,8 @@
      "summary": "The socket abstraction.",
      "terms": [
       "sockets"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/sockets.html#sec120"
     },
     {
      "title": "Socket creation",
@@ -453,7 +499,8 @@
      "terms": [
       "socket domains",
       "socket types"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/sockets.html#sec121"
     },
     {
      "title": "Addresses",
@@ -462,7 +509,8 @@
      "summary": "Internet and Unix-domain addresses.",
      "terms": [
       "addresses"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/sockets.html#sec122"
     },
     {
      "title": "Connection to a server",
@@ -472,7 +520,8 @@
      "terms": [
       "connect",
       "client"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/sockets.html#sec124"
     },
     {
      "title": "Disconnecting sockets",
@@ -481,7 +530,8 @@
      "summary": "shutdown and close.",
      "terms": [
       "shutdown"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/sockets.html#sec125"
     },
     {
      "title": "Complete example: the universal client",
@@ -490,7 +540,8 @@
      "summary": "A universal client.",
      "terms": [
       "universal client"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/sockets.html#sec126"
     },
     {
      "title": "Establishing a service",
@@ -502,7 +553,8 @@
       "listen",
       "accept",
       "server"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/sockets.html#sec127"
     },
     {
      "title": "Tuning sockets",
@@ -511,7 +563,8 @@
      "summary": "Socket options.",
      "terms": [
       "setsockopt"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/sockets.html#sec128"
     },
     {
      "title": "Complete example: the universal server",
@@ -521,7 +574,8 @@
      "terms": [
       "concurrent server",
       "fork per connection"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/sockets.html#sec130"
     },
     {
      "title": "Communication in connectionless mode",
@@ -531,7 +585,8 @@
      "terms": [
       "UDP",
       "datagrams"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/sockets.html#sec132"
     },
     {
      "title": "Low level reads and writes",
@@ -541,7 +596,8 @@
      "terms": [
       "recv",
       "send"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/sockets.html#sec133"
     },
     {
      "title": "High-level primitives",
@@ -550,7 +606,8 @@
      "summary": "establish_server and higher-level helpers.",
      "terms": [
       "establish_server"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/sockets.html#sec134"
     },
     {
      "title": "Examples of protocols",
@@ -559,7 +616,8 @@
      "summary": "Protocol design examples.",
      "terms": [
       "protocols"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/sockets.html#sec135"
     },
     {
      "title": "Complete example: http requests",
@@ -568,10 +626,12 @@
      "summary": "Making HTTP requests.",
      "terms": [
       "HTTP"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/sockets.html#sec142"
     }
    ],
-   "summary": "Sockets: addresses, client and server setup, connection-oriented and connectionless communication, and protocol examples up to HTTP."
+   "summary": "Sockets: addresses, client and server setup, connection-oriented and connectionless communication, and protocol examples up to HTTP.",
+   "href": "https://ocaml.github.io/ocamlunix/sockets.html#sec119"
   },
   {
    "title": "Threads",
@@ -585,7 +645,8 @@
      "summary": "Threads versus processes.",
      "terms": [
       "threads"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/threads.html#sec150"
     },
     {
      "title": "Creation and termination of threads",
@@ -594,7 +655,8 @@
      "summary": "Creating and ending threads.",
      "terms": [
       "thread creation"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/threads.html#sec152"
     },
     {
      "title": "Waiting",
@@ -603,7 +665,8 @@
      "summary": "Joining and waiting.",
      "terms": [
       "join"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/threads.html#sec153"
     },
     {
      "title": "Synchronization among threads: locks",
@@ -613,7 +676,8 @@
      "terms": [
       "mutex",
       "locks"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/threads.html#sec158"
     },
     {
      "title": "Complete example: http relay",
@@ -622,7 +686,8 @@
      "summary": "An HTTP relay with threads.",
      "terms": [
       "HTTP relay"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/threads.html#sec161"
     },
     {
      "title": "Conditions",
@@ -631,7 +696,8 @@
      "summary": "Condition variables.",
      "terms": [
       "condition variables"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/threads.html#sec164"
     },
     {
      "title": "Event-based synchronous communication",
@@ -641,7 +707,8 @@
      "terms": [
       "events",
       "channels"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/threads.html#sec167"
     },
     {
      "title": "Implementation details",
@@ -650,10 +717,12 @@
      "summary": "How threads are implemented in OCaml.",
      "terms": [
       "threads implementation"
-     ]
+     ],
+     "href": "https://ocaml.github.io/ocamlunix/threads.html#sec170"
     }
    ],
-   "summary": "Threads: creation, joining, mutexes, condition variables, event channels, and how OCaml implements them."
+   "summary": "Threads: creation, joining, mutexes, condition variables, event channels, and how OCaml implements them.",
+   "href": "https://ocaml.github.io/ocamlunix/threads.html#sec149"
   },
   {
    "title": "Going further",
@@ -663,7 +732,8 @@
    "summary": "Pointers to further topics not covered.",
    "terms": [
     "further reading"
-   ]
+   ],
+   "href": "https://ocaml.github.io/ocamlunix/more.html"
   }
  ],
  "url": "https://drive.google.com/file/d/1qGKx-lgeaigVY217RV6uuZvgBf6GK_M9/view"
