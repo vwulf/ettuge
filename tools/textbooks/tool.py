@@ -86,7 +86,7 @@ def render(slug):
     bk = json.load(open(os.path.join(W, slug, 'book.json')))
     url = bk['url']
     web = bk.get('web')
-    loc = (lambda x: f'[read online]({x["href"]})') if web else (lambda x: f'{pr(x["start"], x["end"])} in [the PDF]({url})')
+    loc = (lambda x: f'[read online]({x["href"]})') if web else (lambda x: f'{pr(x["start"], x["end"])} in [the PDF]({url})' + (f' · [read online]({x["href"]})' if x.get('href') else ''))
     L = [f'<a id="ch1"></a>\n# {bk["title"]}\n', f'> {bk["byline"]} · ' + (f'[the online book]({url})' if web else f'[the PDF in Drive]({url})') + '\n']
     if bk.get('note'): L.append(bk['note'] + '\n')
     L.append(f'## The book in one paragraph\n\n{bk["summary"]}\n')
@@ -102,7 +102,7 @@ def render(slug):
         L.append('')
     for i, c in enumerate(chs, 1):
         L.append('\n---\n' if i == 1 else f'\n---\n\n<a id="ch{i}"></a>')
-        L.append(f'## {c["title"]}\n\n' + ('' if web else f'*{pr(c["start"], c["end"])}*\n\n') + f'{c["summary"]}\n')
+        L.append(f'## {c["title"]}\n\n' + ('' if web else f'*{pr(c["start"], c["end"])}*' + (f' · [read online]({c["href"]})' if c.get('href') else '') + '\n\n') + f'{c["summary"]}\n')
         for s in c.get('sections', []):
             terms = f'  \n*Terms:* {", ".join(s["terms"])}' if s.get('terms') else ''
             L.append(f'**{s["title"]}**  \n{s["summary"]}{terms}  \n→ {loc(s)}\n')

@@ -1,7 +1,7 @@
 {
  "title": "Theorem Proving in Lean 4",
- "byline": "Jeremy Avigad, Leonardo de Moura, Soonho Kong and Sebastian Ullrich \u00b7 Lean 4 edition",
- "note": "This PDF is a browser print of the online book, so it has no table of contents or printed page numbers; chapter ranges here are PDF pages. Sections are not broken out. Summaries are in our own words; the text stays in the PDF.",
+ "byline": "Jeremy Avigad, Leonardo de Moura, Soonho Kong and Sebastian Ullrich · Lean 4 edition",
+ "note": "This PDF is a browser print of the online book, so it has no table of contents or printed page numbers; chapter ranges here are PDF pages. Sections are not broken out. Each chapter also links to the free online edition on lean-lang.org, which may be newer than this PDF. Summaries are in our own words; the text stays in the PDF.",
  "summary": "The standard introduction to proving theorems in Lean 4. It teaches the dependent type theory underneath Lean (the Calculus of Inductive Constructions with universes) and uses propositions-as-types throughout: a proof is a term, logical connectives and quantifiers are types, and equality is an inductive family. With that foundation it covers term-mode proofs, tactic proofs, the practicalities of working in Lean, inductive types and recursion (structural and well-founded), structures, type classes, conv mode, and the axioms (propositional and function extensionality, quotients, choice) together with their computational cost.",
  "chapters": [
   {
@@ -9,19 +9,20 @@
    "start": 1,
    "end": 3,
    "sections": [],
-   "summary": "Computers in proof: automated versus interactive theorem proving, and Lean\u2019s place among them.",
+   "summary": "Computers in proof: automated versus interactive theorem proving, and Lean’s place among them.",
    "terms": [
     "interactive theorem proving",
     "automated theorem proving",
     "Lean 4"
-   ]
+   ],
+   "href": "https://lean-lang.org/theorem_proving_in_lean4/Introduction/"
   },
   {
    "title": "2. Dependent Type Theory",
    "start": 4,
    "end": 22,
    "sections": [],
-   "summary": "Lean\u2019s type theory from simple types to dependent types: definitions, variables, sections, namespaces and implicit arguments.",
+   "summary": "Lean’s type theory from simple types to dependent types: definitions, variables, sections, namespaces and implicit arguments.",
    "terms": [
     "dependent type theory",
     "simple type theory",
@@ -31,7 +32,8 @@
     "implicit arguments",
     "#check",
     "#eval"
-   ]
+   ],
+   "href": "https://lean-lang.org/theorem_proving_in_lean4/Dependent-Type-Theory/"
   },
   {
    "title": "3. Propositions and Proofs",
@@ -47,7 +49,8 @@
     "negation",
     "classical logic",
     "Classical.em"
-   ]
+   ],
+   "href": "https://lean-lang.org/theorem_proving_in_lean4/Propositions-and-Proofs/"
   },
   {
    "title": "4. Quantifiers and Equality",
@@ -62,7 +65,8 @@
     "Eq.subst",
     "rewriting",
     "calc"
-   ]
+   ],
+   "href": "https://lean-lang.org/theorem_proving_in_lean4/Quantifiers-and-Equality/"
   },
   {
    "title": "5. Tactics",
@@ -80,7 +84,8 @@
     "cases",
     "induction",
     "tactic combinators"
-   ]
+   ],
+   "href": "https://lean-lang.org/theorem_proving_in_lean4/Tactics/"
   },
   {
    "title": "6. Interacting with Lean",
@@ -95,7 +100,8 @@
     "notation",
     "coercions",
     "set_option"
-   ]
+   ],
+   "href": "https://lean-lang.org/theorem_proving_in_lean4/Interacting-with-Lean/"
   },
   {
    "title": "7. Inductive Types",
@@ -109,7 +115,8 @@
     "recursors",
     "enumerated types",
     "indexed families"
-   ]
+   ],
+   "href": "https://lean-lang.org/theorem_proving_in_lean4/Inductive-Types/"
   },
   {
    "title": "8. Induction and Recursion",
@@ -123,7 +130,8 @@
     "well-founded recursion",
     "mutual recursion",
     "dependent pattern matching"
-   ]
+   ],
+   "href": "https://lean-lang.org/theorem_proving_in_lean4/Induction-and-Recursion/"
   },
   {
    "title": "9. Structures and Records",
@@ -136,7 +144,8 @@
     "projections",
     "inheritance",
     "anonymous constructor"
-   ]
+   ],
+   "href": "https://lean-lang.org/theorem_proving_in_lean4/Structures-and-Records/"
   },
   {
    "title": "10. Type Classes",
@@ -151,7 +160,8 @@
     "outParam",
     "default instances",
     "coercions"
-   ]
+   ],
+   "href": "https://lean-lang.org/theorem_proving_in_lean4/Type-Classes/"
   },
   {
    "title": "11. The Conversion Tactic Mode",
@@ -162,7 +172,8 @@
    "terms": [
     "conv mode",
     "rewriting subterms"
-   ]
+   ],
+   "href": "https://lean-lang.org/theorem_proving_in_lean4/The-Conversion-Tactic-Mode/"
   },
   {
    "title": "12. Axioms and Computation",
@@ -178,7 +189,8 @@
     "axiom of choice",
     "Classical.choice",
     "noncomputable"
-   ]
+   ],
+   "href": "https://lean-lang.org/theorem_proving_in_lean4/Axioms-and-Computation/"
   }
  ],
  "url": "https://drive.google.com/file/d/10fv1H-P3lHBOn8_d1XdfErqupQxiCDAi/view"

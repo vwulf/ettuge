@@ -1,7 +1,7 @@
 {
  "title": "Multimodal Deep Learning",
- "byline": "Akkus, Chu, Dani, Ebert et al. (LMU Munich seminar booklet) \u00b7 arXiv 2301.04856, January 2023",
- "note": "A student-written seminar booklet, each section by different authors; its state of the art is early 2023. Summaries are in our own words; the text stays in the PDF.",
+ "byline": "Akkus, Chu, Dani, Ebert et al. (LMU Munich seminar booklet) · arXiv 2301.04856, January 2023",
+ "note": "A student-written seminar booklet, each section by different authors; its state of the art is early 2023. Each chapter and section also links to the free online (bookdown) edition. Summaries are in our own words; the text stays in the PDF.",
  "summary": "A survey of deep learning that combines text and images, written by students in an LMU Munich seminar. It first reviews the state of the art separately in NLP (word embeddings to transformers and large language models) and computer vision (CNNs to vision transformers and self-supervised learning), with the datasets and benchmarks for each. The main part covers multimodal architectures in both directions: image captioning, text-to-image generation (DALL-E, diffusion models), images grounding language models, text supervising vision models (CLIP), and joint models of both modalities. Further chapters extend to audio and video, mixing structured data with text and images, multipurpose models like Gato and Perceiver, and generative art.",
  "chapters": [
   {
@@ -16,7 +16,8 @@
      "summary": "Why combine modalities.",
      "terms": [
       "multimodal deep learning"
-     ]
+     ],
+     "href": "https://slds-lmu.github.io/seminar_multimodal_dl/introduction.html#introduction-to-multimodal-deep-learning"
     },
     {
      "title": "1.2 Outline of the Booklet",
@@ -25,10 +26,12 @@
      "summary": "Booklet outline.",
      "terms": [
       "outline"
-     ]
+     ],
+     "href": "https://slds-lmu.github.io/seminar_multimodal_dl/introduction.html#outline-of-the-booklet"
     }
    ],
-   "summary": "What multimodal deep learning is and how the booklet is organized."
+   "summary": "What multimodal deep learning is and how the booklet is organized.",
+   "href": "https://slds-lmu.github.io/seminar_multimodal_dl/introduction.html"
   },
   {
    "title": "2 Introducing the modalities",
@@ -46,7 +49,8 @@
       "BERT",
       "GPT",
       "language models"
-     ]
+     ],
+     "href": "https://slds-lmu.github.io/seminar_multimodal_dl/c01-00-intro-modalities.html#c01-01-sota-nlp"
     },
     {
      "title": "2.2 State-of-the-art in Computer Vision",
@@ -58,7 +62,8 @@
       "ResNet",
       "ViT",
       "self-supervised learning"
-     ]
+     ],
+     "href": "https://slds-lmu.github.io/seminar_multimodal_dl/c01-00-intro-modalities.html#c01-02-sota-cv"
     },
     {
      "title": "2.3 Resources and Benchmarks for NLP, CV and multimodal tasks",
@@ -71,10 +76,12 @@
       "GLUE",
       "COCO",
       "datasets"
-     ]
+     ],
+     "href": "https://slds-lmu.github.io/seminar_multimodal_dl/c01-00-intro-modalities.html#c01-03-benchmarks"
     }
    ],
-   "summary": "The unimodal foundations: NLP and computer vision, and the benchmarks for each."
+   "summary": "The unimodal foundations: NLP and computer vision, and the benchmarks for each.",
+   "href": "https://slds-lmu.github.io/seminar_multimodal_dl/c01-00-intro-modalities.html"
   },
   {
    "title": "3 Multimodal architectures",
@@ -85,11 +92,12 @@
      "title": "3.1 Image2Text",
      "start": 92,
      "end": 105,
-     "summary": "Image captioning with encoder\u2013decoder and transformer models.",
+     "summary": "Image captioning with encoder–decoder and transformer models.",
      "terms": [
       "image captioning",
       "Image2Text"
-     ]
+     ],
+     "href": "https://slds-lmu.github.io/seminar_multimodal_dl/c02-00-multimodal.html#c02-01-img2text"
     },
     {
      "title": "3.2 Text2Image",
@@ -102,7 +110,8 @@
       "diffusion",
       "Imagen",
       "Stable Diffusion"
-     ]
+     ],
+     "href": "https://slds-lmu.github.io/seminar_multimodal_dl/c02-00-multimodal.html#c02-02-text2img"
     },
     {
      "title": "3.3 Images supporting Language Models",
@@ -112,7 +121,8 @@
      "terms": [
       "visual grounding",
       "vision-language"
-     ]
+     ],
+     "href": "https://slds-lmu.github.io/seminar_multimodal_dl/c02-00-multimodal.html#c02-03-img-support-text"
     },
     {
      "title": "3.4 Text supporting Vision Models",
@@ -123,7 +133,8 @@
       "CLIP",
       "contrastive learning",
       "zero-shot"
-     ]
+     ],
+     "href": "https://slds-lmu.github.io/seminar_multimodal_dl/c02-00-multimodal.html#c02-04-text-support-img"
     },
     {
      "title": "3.5 Models for both modalities",
@@ -135,10 +146,12 @@
       "data2vec",
       "VilBERT",
       "unified models"
-     ]
+     ],
+     "href": "https://slds-lmu.github.io/seminar_multimodal_dl/c02-00-multimodal.html#c02-05-text-plus-img"
     }
    ],
-   "summary": "Architectures that link text and images in either direction or jointly."
+   "summary": "Architectures that link text and images in either direction or jointly.",
+   "href": "https://slds-lmu.github.io/seminar_multimodal_dl/c02-00-multimodal.html"
   },
   {
    "title": "4 Further Topics",
@@ -154,7 +167,8 @@
       "audio",
       "video",
       "further modalities"
-     ]
+     ],
+     "href": "https://slds-lmu.github.io/seminar_multimodal_dl/c03-00-further.html#c03-01-further-modalities"
     },
     {
      "title": "4.2 Structured + Unstructured Data",
@@ -164,7 +178,8 @@
      "terms": [
       "tabular data",
       "structured data"
-     ]
+     ],
+     "href": "https://slds-lmu.github.io/seminar_multimodal_dl/c03-00-further.html#c03-02-structured-unstructured"
     },
     {
      "title": "4.3 Multipurpose Models",
@@ -176,7 +191,8 @@
       "Perceiver",
       "Pathways",
       "generalist models"
-     ]
+     ],
+     "href": "https://slds-lmu.github.io/seminar_multimodal_dl/c03-00-further.html#c03-03-multi-purpose"
     },
     {
      "title": "4.4 Generative Art",
@@ -186,10 +202,12 @@
      "terms": [
       "generative art",
       "prompting"
-     ]
+     ],
+     "href": "https://slds-lmu.github.io/seminar_multimodal_dl/c03-00-further.html#c03-04-usecase"
     }
    ],
-   "summary": "More modalities, tabular data, generalist models and generative art."
+   "summary": "More modalities, tabular data, generalist models and generative art.",
+   "href": "https://slds-lmu.github.io/seminar_multimodal_dl/c03-00-further.html"
   },
   {
    "title": "5 Conclusion",
@@ -199,7 +217,8 @@
    "summary": "Closing remarks.",
    "terms": [
     "conclusion"
-   ]
+   ],
+   "href": "https://slds-lmu.github.io/seminar_multimodal_dl/conclusion-1.html"
   },
   {
    "title": "6 Epilogue",
@@ -213,7 +232,8 @@
      "summary": "Influential architectures published after the booklet.",
      "terms": [
       "new architectures"
-     ]
+     ],
+     "href": "https://slds-lmu.github.io/seminar_multimodal_dl/epilogue.html#new-influential-architectures"
     },
     {
      "title": "6.2 Creating videos",
@@ -222,10 +242,12 @@
      "summary": "Text-to-video generation.",
      "terms": [
       "video generation"
-     ]
+     ],
+     "href": "https://slds-lmu.github.io/seminar_multimodal_dl/epilogue.html#creating-videos"
     }
    ],
-   "summary": "Developments after writing: new architectures and video generation."
+   "summary": "Developments after writing: new architectures and video generation.",
+   "href": "https://slds-lmu.github.io/seminar_multimodal_dl/epilogue.html"
   }
  ],
  "url": "https://drive.google.com/file/d/16K_kCgK9HfJtcI0spXRZnLON3yk_fub9/view"

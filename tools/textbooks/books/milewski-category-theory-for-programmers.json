@@ -14,7 +14,8 @@
       "arrows",
       "morphisms",
       "composition"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2014/11/04/category-the-essence-of-composition/#:~:text=Arrows%20as%20Functions,-Is%20this%20already"
     },
     {
      "title": "Properties of Composition",
@@ -24,7 +25,8 @@
      "terms": [
       "associativity",
       "identity"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2014/11/04/category-the-essence-of-composition/#:~:text=Properties%20of%20Composition,-There%20are%20two"
     },
     {
      "title": "Composition is the Essence of Programming",
@@ -34,11 +36,13 @@
      "terms": [
       "composition",
       "programming"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2014/11/04/category-the-essence-of-composition/#:~:text=Composition%20is%20the%20Essence%20of%20Programming,-Functional%20programmers%20have"
     }
    ],
    "end": 31,
-   "summary": "Categories as objects and composable arrows, and why composition matters for programming."
+   "summary": "Categories as objects and composable arrows, and why composition matters for programming.",
+   "href": "https://bartoszmilewski.com/2014/11/04/category-the-essence-of-composition/"
   },
   {
    "title": "2. Types and Functions",
@@ -51,7 +55,8 @@
      "summary": "Why static types help.",
      "terms": [
       "static typing"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2014/11/24/types-and-functions/#:~:text=Who%20Needs%20Types%3F,-There%20seems%20to"
     },
     {
      "title": "Types Are About Composability",
@@ -60,7 +65,8 @@
      "summary": "Types make composition checkable.",
      "terms": [
       "composability"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2014/11/24/types-and-functions/#:~:text=Types%20Are%20About%20Composability,-Category%20theory%20is"
     },
     {
      "title": "What Are Types?",
@@ -70,7 +76,8 @@
      "terms": [
       "types as sets",
       "bottom"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2014/11/24/types-and-functions/#:~:text=What%20Are%20Types%3F,-The%20simplest%20intuition"
     },
     {
      "title": "Why Do We Need a Mathematical Model?",
@@ -79,7 +86,8 @@
      "summary": "Denotational semantics.",
      "terms": [
       "denotational semantics"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2014/11/24/types-and-functions/#:~:text=Why%20Do%20We%20Need%20a%20Mathematical%20Model%3F,-As%20a%20programmer"
     },
     {
      "title": "Pure and Dirty Functions",
@@ -89,7 +97,8 @@
      "terms": [
       "pure functions",
       "side effects"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2014/11/24/types-and-functions/#:~:text=Pure%20and%20Dirty%20Functions,-The%20things%20we"
     },
     {
      "title": "Examples of Types",
@@ -101,11 +110,13 @@
       "unit",
       "Bool",
       "absurd"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2014/11/24/types-and-functions/#:~:text=Examples%20of%20Types,-Once%20you%20realize"
     }
    ],
    "end": 48,
-   "summary": "Types as sets and functions as morphisms."
+   "summary": "Types as sets and functions as morphisms.",
+   "href": "https://bartoszmilewski.com/2014/11/24/types-and-functions/"
   },
   {
    "title": "3. Categories Great and Small",
@@ -118,7 +129,8 @@
      "summary": "The empty category.",
      "terms": [
       "empty category"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2014/12/05/categories-great-and-small/#:~:text=No%20Objects,-The%20most%20trivial"
     },
     {
      "title": "Simple Graphs",
@@ -128,7 +140,8 @@
      "terms": [
       "free category",
       "graphs"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2014/12/05/categories-great-and-small/#:~:text=Simple%20Graphs,-You%20can%20build"
     },
     {
      "title": "Orders",
@@ -139,7 +152,8 @@
       "preorder",
       "partial order",
       "thin category"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2014/12/05/categories-great-and-small/#:~:text=Orders,-And%20now%20for"
     },
     {
      "title": "Monoid as Set",
@@ -148,7 +162,8 @@
      "summary": "Monoids as sets with an operation.",
      "terms": [
       "monoid"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2014/12/05/categories-great-and-small/#:~:text=Monoid%20as%20Set,-Monoid%20is%20an"
     },
     {
      "title": "Monoid as Category",
@@ -157,11 +172,13 @@
      "summary": "A monoid as a one-object category.",
      "terms": [
       "monoid as category"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2014/12/05/categories-great-and-small/#:~:text=Monoid%20as%20Category,-That%20was%20the"
     }
    ],
    "end": 60,
-   "summary": "Small examples of categories."
+   "summary": "Small examples of categories.",
+   "href": "https://bartoszmilewski.com/2014/12/05/categories-great-and-small/"
   },
   {
    "title": "4. Kleisli Categories",
@@ -175,7 +192,8 @@
      "terms": [
       "Writer",
       "logging"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2014/12/23/kleisli-categories/#:~:text=The%20Writer%20Category,-The%20idea%20of"
     },
     {
      "title": "Writer in Haskell",
@@ -184,7 +202,8 @@
      "summary": "Writer in Haskell.",
      "terms": [
       "Writer monad"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2014/12/23/kleisli-categories/#:~:text=Writer%20in%20Haskell,-The%20same%20thing"
     },
     {
      "title": "Kleisli Categories",
@@ -194,11 +213,13 @@
      "terms": [
       "Kleisli category",
       "fish operator"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2014/12/23/kleisli-categories/#:~:text=Kleisli%20Categories"
     }
    ],
    "end": 75,
-   "summary": "Embellished functions and the Kleisli category."
+   "summary": "Embellished functions and the Kleisli category.",
+   "href": "https://bartoszmilewski.com/2014/12/23/kleisli-categories/"
   },
   {
    "title": "5. Products and Coproducts",
@@ -212,7 +233,8 @@
      "terms": [
       "initial object",
       "Void"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/01/07/products-and-coproducts/#:~:text=Initial%20Object,-The%20simplest%20shape"
     },
     {
      "title": "Terminal Object",
@@ -222,7 +244,8 @@
      "terms": [
       "terminal object",
       "unit"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/01/07/products-and-coproducts/#:~:text=Terminal%20Object,-Let%E2%80%99s%20continue%20with"
     },
     {
      "title": "Duality",
@@ -232,7 +255,8 @@
      "terms": [
       "duality",
       "opposite category"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/01/07/products-and-coproducts/#:~:text=Duality,-You%20can%E2%80%99t%20help"
     },
     {
      "title": "Isomorphisms",
@@ -241,7 +265,8 @@
      "summary": "Isomorphisms.",
      "terms": [
       "isomorphism"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/01/07/products-and-coproducts/#:~:text=Isomorphisms,-As%20programmers%20we"
     },
     {
      "title": "Products",
@@ -251,7 +276,8 @@
      "terms": [
       "product",
       "universal property"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/01/07/products-and-coproducts/#:~:text=Products,-The%20next%20universal"
     },
     {
      "title": "Coproduct",
@@ -262,7 +288,8 @@
       "coproduct",
       "sum",
       "Either"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/01/07/products-and-coproducts/#:~:text=Coproduct,-Like%20every%20construction"
     },
     {
      "title": "Asymmetry",
@@ -271,11 +298,13 @@
      "summary": "Why Set is asymmetric.",
      "terms": [
       "asymmetry"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/01/07/products-and-coproducts/#:~:text=Asymmetry,-We%E2%80%99ve%20seen%20two"
     }
    ],
    "end": 99,
-   "summary": "Universal constructions: initial, terminal, products, coproducts."
+   "summary": "Universal constructions: initial, terminal, products, coproducts.",
+   "href": "https://bartoszmilewski.com/2015/01/07/products-and-coproducts/"
   },
   {
    "title": "6. Simple Algebraic Data Types",
@@ -289,7 +318,8 @@
      "terms": [
       "product types",
       "tuples"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/01/13/simple-algebraic-data-types/#:~:text=Product%20Types,-The%20canonical%20implementation"
     },
     {
      "title": "Records",
@@ -298,7 +328,8 @@
      "summary": "Records.",
      "terms": [
       "records"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/01/13/simple-algebraic-data-types/#:~:text=Records"
     },
     {
      "title": "Sum Types",
@@ -309,7 +340,8 @@
       "sum types",
       "Maybe",
       "List"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/01/13/simple-algebraic-data-types/#:~:text=Sum%20Types,-Just%20as%20the"
     },
     {
      "title": "Algebra of Types",
@@ -319,11 +351,13 @@
      "terms": [
       "algebra of types",
       "semiring"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/01/13/simple-algebraic-data-types/#:~:text=Algebra%20of%20Types,-Taken%20separately%20product"
     }
    ],
    "end": 120,
-   "summary": "Algebraic data types as products and sums."
+   "summary": "Algebraic data types as products and sums.",
+   "href": "https://bartoszmilewski.com/2015/01/13/simple-algebraic-data-types/"
   },
   {
    "title": "7. Functors",
@@ -340,7 +374,8 @@
       "functor laws",
       "Maybe",
       "Reader"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/01/20/functors/#:~:text=Functors%20in%20Programming,-Let%E2%80%99s%20get%20down"
     },
     {
      "title": "Functors as Containers",
@@ -349,7 +384,8 @@
      "summary": "Functors as containers.",
      "terms": [
       "containers"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/01/20/functors/#:~:text=Functors%20as%20Containers,-We%E2%80%99ve%20seen%20some"
     },
     {
      "title": "Functor Composition",
@@ -359,11 +395,13 @@
      "terms": [
       "functor composition",
       "Cat"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/01/20/functors/#:~:text=Functor%20Composition,-It%E2%80%99s%20not%20hard"
     }
    ],
    "end": 148,
-   "summary": "Functors between categories and in code."
+   "summary": "Functors between categories and in code.",
+   "href": "https://bartoszmilewski.com/2015/01/20/functors/"
   },
   {
    "title": "8. Functoriality",
@@ -376,7 +414,8 @@
      "summary": "Bifunctors.",
      "terms": [
       "bifunctor"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/02/03/functoriality/#:~:text=Bifunctors,-Since%20functors%20are"
     },
     {
      "title": "Product and Coproduct Bifunctors",
@@ -386,7 +425,8 @@
      "terms": [
       "product",
       "coproduct"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/02/03/functoriality/#:~:text=Product%20and%20Coproduct%20Bifunctors,-An%20important%20example"
     },
     {
      "title": "Functorial Algebraic Data Types",
@@ -397,7 +437,8 @@
       "Const",
       "Identity",
       "deriving Functor"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/02/03/functoriality/#:~:text=Functorial%20Algebraic%20Data%20Types,-We%E2%80%99ve%20seen%20several"
     },
     {
      "title": "Functors in C++",
@@ -406,7 +447,8 @@
      "summary": "Functors in C++.",
      "terms": [
       "C++ templates"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/02/03/functoriality/#:~:text=Functors%20in%20C%2B%2B,-If%20you%20are"
     },
     {
      "title": "The Writer Functor",
@@ -415,7 +457,8 @@
      "summary": "Writer as a functor.",
      "terms": [
       "Writer"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/02/03/functoriality/#:~:text=The%20Writer%20Functor,-I%20promised%20that"
     },
     {
      "title": "Covariant and Contravariant Functors",
@@ -424,7 +467,8 @@
      "summary": "Contravariant functors and op.",
      "terms": [
       "contravariant functor"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/02/03/functoriality/#:~:text=Covariant%20and%20Contravariant%20Functors,-Now%20that%20we%E2%80%99ve"
     },
     {
      "title": "Profunctors",
@@ -434,7 +478,8 @@
      "terms": [
       "profunctor",
       "dimap"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/02/03/functoriality/#:~:text=Profunctors,-We%E2%80%99ve%20seen%20that"
     },
     {
      "title": "The Hom-Functor",
@@ -443,11 +488,13 @@
      "summary": "The hom-functor.",
      "terms": [
       "hom-functor"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/02/03/functoriality/#:~:text=The%20Hom-Functor,-The%20above%20examples"
     }
    ],
    "end": 175,
-   "summary": "Functors of several arguments and variance."
+   "summary": "Functors of several arguments and variance.",
+   "href": "https://bartoszmilewski.com/2015/02/03/functoriality/"
   },
   {
    "title": "9. Function Types",
@@ -461,7 +508,8 @@
      "terms": [
       "function object",
       "eval"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/03/13/function-types/#:~:text=Universal%20Construction,-Let%E2%80%99s%20forget%20for"
     },
     {
      "title": "Currying",
@@ -471,7 +519,8 @@
      "terms": [
       "currying",
       "uncurry"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/03/13/function-types/#:~:text=Currying"
     },
     {
      "title": "Exponentials",
@@ -480,7 +529,8 @@
      "summary": "Exponentials.",
      "terms": [
       "exponential"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/03/13/function-types/#:~:text=Exponentials,-In%20mathematical%20literature"
     },
     {
      "title": "Cartesian Closed Categories",
@@ -489,7 +539,8 @@
      "summary": "Cartesian closed categories.",
      "terms": [
       "cartesian closed category"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/03/13/function-types/#:~:text=Cartesian%20Closed%20Categories,-Although%20I%20will"
     },
     {
      "title": "Exponentials and Algebraic Data Types",
@@ -499,20 +550,23 @@
      "terms": [
       "exponential laws",
       "type isomorphisms"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/03/13/function-types/#:~:text=Exponentials%20and%20Algebraic%20Data%20Types,-The%20interpretation%20of"
     },
     {
      "title": "Curry-Howard Isomorphism",
      "start": 193,
      "end": 195,
-     "summary": "Curry\u2013Howard.",
+     "summary": "Curry–Howard.",
      "terms": [
       "Curry-Howard isomorphism"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/03/13/function-types/#:~:text=Curry-Howard%20Isomorphism,-I%20have%20already"
     }
    ],
    "end": 196,
-   "summary": "Function objects, currying and cartesian closed categories."
+   "summary": "Function objects, currying and cartesian closed categories.",
+   "href": "https://bartoszmilewski.com/2015/03/13/function-types/"
   },
   {
    "title": "10. Natural Transformations",
@@ -528,7 +582,8 @@
       "polymorphism",
       "parametricity",
       "naturality"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/04/07/natural-transformations/#:~:text=Polymorphic%20Functions,-We%20talked%20about"
     },
     {
      "title": "Beyond Naturality",
@@ -537,7 +592,8 @@
      "summary": "Naturality beyond functors.",
      "terms": [
       "contravariant"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/04/07/natural-transformations/#:~:text=Beyond%20Naturality,-A%20parametrically%20polymorphic"
     },
     {
      "title": "Functor Category",
@@ -546,7 +602,8 @@
      "summary": "Functor categories.",
      "terms": [
       "functor category"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/04/07/natural-transformations/#:~:text=Functor%20Category,-Now%20that%20we"
     },
     {
      "title": "2-Categories",
@@ -557,11 +614,13 @@
       "2-category",
       "horizontal composition",
       "interchange law"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/04/07/natural-transformations/#:~:text=2-Categories,-With%20that%20out"
     }
    ],
    "end": 223,
-   "summary": "Natural transformations and functor categories."
+   "summary": "Natural transformations and functor categories.",
+   "href": "https://bartoszmilewski.com/2015/04/07/natural-transformations/"
   },
   {
    "title": "11. Declarative Programming",
@@ -574,7 +633,8 @@
     "universal constructions",
     "composition",
     "physics"
-   ]
+   ],
+   "href": "https://bartoszmilewski.com/2015/04/15/category-theory-and-declarative-programming/"
   },
   {
    "title": "12. Limits and Colimits",
@@ -589,7 +649,8 @@
       "limit",
       "cone",
       "diagram"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/04/15/limits-and-colimits/#:~:text=Limit%20as%20a%20Natural%20Isomorphism,-There%20is%20still"
     },
     {
      "title": "Examples of Limits",
@@ -599,7 +660,8 @@
      "terms": [
       "equalizer",
       "pullback"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/04/15/limits-and-colimits/#:~:text=Examples%20of%20Limits,-We%E2%80%99ve%20seen%20that"
     },
     {
      "title": "Colimits",
@@ -609,7 +671,8 @@
      "terms": [
       "colimit",
       "pushout"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/04/15/limits-and-colimits/#:~:text=Colimits,-Just%20like%20all"
     },
     {
      "title": "Continuity",
@@ -618,11 +681,13 @@
      "summary": "Continuity of functors.",
      "terms": [
       "continuous functor"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/04/15/limits-and-colimits/#:~:text=Continuity,-I%20said%20previously"
     }
    ],
    "end": 257,
-   "summary": "Limits and colimits as generalized universal constructions."
+   "summary": "Limits and colimits as generalized universal constructions.",
+   "href": "https://bartoszmilewski.com/2015/04/15/limits-and-colimits/"
   },
   {
    "title": "13. Free Monoids",
@@ -636,7 +701,8 @@
      "terms": [
       "free monoid",
       "list"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/07/21/free-monoids/#:~:text=Free%20Monoid%20in%20Haskell,-A%20two%20element"
     },
     {
      "title": "Free Monoid Universal Construction",
@@ -646,11 +712,13 @@
      "terms": [
       "universal construction",
       "forgetful functor"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/07/21/free-monoids/#:~:text=Free%20Monoid%20Universal%20Construction,-If%20you%20recall"
     }
    ],
    "end": 267,
-   "summary": "Free monoids and the list type."
+   "summary": "Free monoids and the list type.",
+   "href": "https://bartoszmilewski.com/2015/07/21/free-monoids/"
   },
   {
    "title": "14. Representable Functors",
@@ -663,7 +731,8 @@
      "summary": "The hom functor.",
      "terms": [
       "hom functor"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/07/29/representable-functors/#:~:text=The%20Hom%20Functor,-Every%20category%20comes"
     },
     {
      "title": "Representable Functors",
@@ -675,11 +744,13 @@
       "tabulate",
       "index",
       "memoization"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/07/29/representable-functors/#:~:text=Representable%20Functors"
     }
    ],
    "end": 281,
-   "summary": "Functors isomorphic to hom-functors."
+   "summary": "Functors isomorphic to hom-functors.",
+   "href": "https://bartoszmilewski.com/2015/07/29/representable-functors/"
   },
   {
    "title": "15. The Yoneda Lemma",
@@ -693,7 +764,8 @@
      "terms": [
       "Yoneda lemma",
       "Reader"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/09/01/the-yoneda-lemma/#:~:text=Yoneda%20in%20Haskell,-We%20have%20already"
     },
     {
      "title": "Co-Yoneda",
@@ -702,11 +774,13 @@
      "summary": "The co-Yoneda lemma.",
      "terms": [
       "co-Yoneda"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/09/01/the-yoneda-lemma/#:~:text=Co-Yoneda,-As%20usual%20we"
     }
    ],
    "end": 293,
-   "summary": "The Yoneda lemma."
+   "summary": "The Yoneda lemma.",
+   "href": "https://bartoszmilewski.com/2015/09/01/the-yoneda-lemma/"
   },
   {
    "title": "16. Yoneda Embedding",
@@ -719,7 +793,8 @@
      "summary": "The Yoneda embedding.",
      "terms": [
       "Yoneda embedding"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/10/28/yoneda-embedding/#:~:text=The%20Embedding,-The%20contravariant%20functor"
     },
     {
      "title": "Application to Haskell",
@@ -729,7 +804,8 @@
      "terms": [
       "CPS",
       "Haskell"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/10/28/yoneda-embedding/#:~:text=Application%20to%20Haskell,-In%20Haskell%20the"
     },
     {
      "title": "Preorder Example",
@@ -738,7 +814,8 @@
      "summary": "Preorders.",
      "terms": [
       "preorder"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/10/28/yoneda-embedding/#:~:text=Preorder%20Example,-This%20example%20was"
     },
     {
      "title": "Naturality",
@@ -747,11 +824,13 @@
      "summary": "Naturality.",
      "terms": [
       "naturality"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/10/28/yoneda-embedding/#:~:text=Naturality,-The%20Yoneda%20lemma"
     }
    ],
    "end": 303,
-   "summary": "Embedding a category in its functor category."
+   "summary": "Embedding a category in its functor category.",
+   "href": "https://bartoszmilewski.com/2015/10/28/yoneda-embedding/"
   },
   {
    "title": "17. It's All About Morphisms",
@@ -764,7 +843,8 @@
      "summary": "Functors.",
      "terms": [
       "functors"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/11/17/its-all-about-morphisms/#:~:text=Functors,-To%20begin%20with"
     },
     {
      "title": "Commuting Diagrams",
@@ -773,7 +853,8 @@
      "summary": "Commuting diagrams.",
      "terms": [
       "commuting diagrams"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/11/17/its-all-about-morphisms/#:~:text=Commuting%20Diagrams,-A%20lot%20of"
     },
     {
      "title": "Natural Transformations",
@@ -782,7 +863,8 @@
      "summary": "Natural transformations.",
      "terms": [
       "natural transformations"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/11/17/its-all-about-morphisms/#:~:text=Natural%20Transformations,-In%20general%20natural"
     },
     {
      "title": "Natural Isomorphisms",
@@ -791,7 +873,8 @@
      "summary": "Natural isomorphisms.",
      "terms": [
       "natural isomorphism"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/11/17/its-all-about-morphisms/#:~:text=Natural%20Isomorphisms,-A%20natural%20isomorphism"
     },
     {
      "title": "Hom-Sets",
@@ -800,7 +883,8 @@
      "summary": "Hom-sets.",
      "terms": [
       "hom-set"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/11/17/its-all-about-morphisms/#:~:text=Hom-Sets,-But%20what%20are"
     },
     {
      "title": "Hom-Set Isomorphisms",
@@ -809,7 +893,8 @@
      "summary": "Hom-set isomorphisms.",
      "terms": [
       "hom-set isomorphism"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/11/17/its-all-about-morphisms/#:~:text=Hom-Set%20Isomorphisms,-A%20lot%20of"
     },
     {
      "title": "Asymmetry of Hom-Sets",
@@ -818,11 +903,13 @@
      "summary": "Asymmetry of hom-sets.",
      "terms": [
       "asymmetry"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2015/11/17/its-all-about-morphisms/#:~:text=Asymmetry%20of%20Hom-Sets,-There%20is%20one"
     }
    ],
    "end": 312,
-   "summary": "A restatement of the main ideas in terms of morphisms and hom-sets."
+   "summary": "A restatement of the main ideas in terms of morphisms and hom-sets.",
+   "href": "https://bartoszmilewski.com/2015/11/17/its-all-about-morphisms/"
   },
   {
    "title": "18. Adjunctions",
@@ -837,7 +924,8 @@
       "adjunction",
       "unit",
       "counit"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2016/04/18/adjunctions/#:~:text=Adjunction%20and%20Unit%2FCounit%20Pair,-When%20we%20talk"
     },
     {
      "title": "Adjunctions and Hom-Sets",
@@ -846,7 +934,8 @@
      "summary": "Adjunction as a hom-set isomorphism.",
      "terms": [
       "hom-set adjunction"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2016/04/18/adjunctions/#:~:text=Adjunctions%20and%20Hom-Sets,-There%20is%20an"
     },
     {
      "title": "Product from Adjunction",
@@ -856,7 +945,8 @@
      "terms": [
       "product",
       "diagonal functor"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2016/04/18/adjunctions/#:~:text=Product%20from%20Adjunction,-We%20have%20previously"
     },
     {
      "title": "Exponential from Adjunction",
@@ -866,11 +956,13 @@
      "terms": [
       "exponential",
       "currying"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2016/04/18/adjunctions/#:~:text=Exponential%20from%20Adjunction"
     }
    ],
    "end": 332,
-   "summary": "Adjunctions, two ways."
+   "summary": "Adjunctions, two ways.",
+   "href": "https://bartoszmilewski.com/2016/04/18/adjunctions/"
   },
   {
    "title": "19. Free/Forgetful Adjunctions",
@@ -885,11 +977,13 @@
       "free functor",
       "forgetful functor",
       "free monoid"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2016/06/15/freeforgetful-adjunctions/#:~:text=Some%20Intuitions,-What%20follows%20are"
     }
    ],
    "end": 340,
-   "summary": "Free constructions as left adjoints to forgetful functors."
+   "summary": "Free constructions as left adjoints to forgetful functors.",
+   "href": "https://bartoszmilewski.com/2016/06/15/freeforgetful-adjunctions/"
   },
   {
    "title": "20. Monads: Programmer's Definition",
@@ -903,7 +997,8 @@
      "terms": [
       "monad",
       "Kleisli category"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2016/11/21/monads-programmers-definition/#:~:text=The%20Kleisli%20Category,-We%20have%20previously"
     },
     {
      "title": "Fish Anatomy",
@@ -914,7 +1009,8 @@
       "bind",
       "join",
       "return"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2016/11/21/monads-programmers-definition/#:~:text=Fish%20Anatomy,-When%20implementing%20the"
     },
     {
      "title": "The do Notation",
@@ -923,11 +1019,13 @@
      "summary": "do-notation.",
      "terms": [
       "do-notation"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2016/11/21/monads-programmers-definition/#:~:text=The%20do%20Notation,-One%20way%20of"
     }
    ],
    "end": 357,
-   "summary": "Monads as programmers meet them."
+   "summary": "Monads as programmers meet them.",
+   "href": "https://bartoszmilewski.com/2016/11/21/monads-programmers-definition/"
   },
   {
    "title": "21. Monads and Effects",
@@ -941,7 +1039,8 @@
      "terms": [
       "effects",
       "purity"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2016/11/30/monads-and-effects/#:~:text=The%20Problem"
     },
     {
      "title": "The Solution",
@@ -956,11 +1055,13 @@
       "State",
       "Cont",
       "IO monads"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2016/11/30/monads-and-effects/#:~:text=The%20Solution,-First%20let%E2%80%99s%20analyze"
     }
    ],
    "end": 380,
-   "summary": "How monads model effects in pure code."
+   "summary": "How monads model effects in pure code.",
+   "href": "https://bartoszmilewski.com/2016/11/30/monads-and-effects/"
   },
   {
    "title": "22. Monads Categorically",
@@ -973,7 +1074,8 @@
      "summary": "Monoidal categories.",
      "terms": [
       "monoidal category"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2016/12/27/monads-categorically/#:~:text=Monoidal%20Categories,-Let%E2%80%99s%20go%20back"
     },
     {
      "title": "Monoid in a Monoidal Category",
@@ -982,7 +1084,8 @@
      "summary": "Monoids inside them.",
      "terms": [
       "monoid object"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2016/12/27/monads-categorically/#:~:text=Monoid%20in%20a%20Monoidal%20Category,-We%20are%20now"
     },
     {
      "title": "Monads as Monoids",
@@ -992,7 +1095,8 @@
      "terms": [
       "monad as monoid",
       "endofunctor"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2016/12/27/monads-categorically/#:~:text=Monads%20as%20Monoids,-Monoidal%20structures%20pop"
     },
     {
      "title": "Monads from Adjunctions",
@@ -1002,11 +1106,13 @@
      "terms": [
       "adjunction",
       "State monad"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2016/12/27/monads-categorically/#:~:text=Monads%20from%20Adjunctions"
     }
    ],
    "end": 402,
-   "summary": "Monads as monoids in a category of endofunctors."
+   "summary": "Monads as monoids in a category of endofunctors.",
+   "href": "https://bartoszmilewski.com/2016/12/27/monads-categorically/"
   },
   {
    "title": "23. Comonads",
@@ -1020,7 +1126,8 @@
      "terms": [
       "comonad",
       "co-Kleisli"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/01/02/comonads/#:~:text=Programming%20with%20Comonads,-Let%E2%80%99s%20compare%20the"
     },
     {
      "title": "The Product Comonad",
@@ -1030,7 +1137,8 @@
      "terms": [
       "product comonad",
       "environment"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/01/02/comonads/#:~:text=The%20Product%20Comonad,-Remember%20the%20reader"
     },
     {
      "title": "Dissecting the Composition",
@@ -1041,7 +1149,8 @@
       "extract",
       "duplicate",
       "extend"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/01/02/comonads/#:~:text=Dissecting%20the%20Composition,-Continuing%20the%20process"
     },
     {
      "title": "The Stream Comonad",
@@ -1050,7 +1159,8 @@
      "summary": "Streams.",
      "terms": [
       "stream comonad"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/01/02/comonads/#:~:text=The%20Stream%20Comonad,-This%20process%20of"
     },
     {
      "title": "Comonad Categorically",
@@ -1059,7 +1169,8 @@
      "summary": "Comonads categorically.",
      "terms": [
       "comonad categorically"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/01/02/comonads/#:~:text=Comonad%20Categorically,-Defining%20a%20comonad"
     },
     {
      "title": "The Store Comonad",
@@ -1069,11 +1180,13 @@
      "terms": [
       "Store comonad",
       "lens"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/01/02/comonads/#:~:text=The%20Store%20Comonad,-Another%20important%20example"
     }
    ],
    "end": 422,
-   "summary": "Comonads and context-dependent computation."
+   "summary": "Comonads and context-dependent computation.",
+   "href": "https://bartoszmilewski.com/2017/01/02/comonads/"
   },
   {
    "title": "24. F-Algebras",
@@ -1087,7 +1200,8 @@
      "terms": [
       "recursion",
       "Fix"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/02/28/f-algebras/#:~:text=Recursion,-One%20way%20to"
     },
     {
      "title": "Category of F-Algebras",
@@ -1096,7 +1210,8 @@
      "summary": "The category of F-algebras.",
      "terms": [
       "F-algebra"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/02/28/f-algebras/#:~:text=Category%20of%20F-Algebras,-Here%E2%80%99s%20the%20oldest"
     },
     {
      "title": "Natural Numbers",
@@ -1107,7 +1222,8 @@
       "natural numbers",
       "initial algebra",
       "Lambek"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/02/28/f-algebras/#:~:text=Natural%20Numbers,-Natural%20numbers%20can"
     },
     {
      "title": "Catamorphisms",
@@ -1116,7 +1232,8 @@
      "summary": "Catamorphisms.",
      "terms": [
       "catamorphism"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/02/28/f-algebras/#:~:text=Catamorphisms,-Let%E2%80%99s%20rewrite%20the"
     },
     {
      "title": "Folds",
@@ -1125,7 +1242,8 @@
      "summary": "Folds on lists.",
      "terms": [
       "fold"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/02/28/f-algebras/#:~:text=Folds,-A%20list%20of"
     },
     {
      "title": "Coalgebras",
@@ -1136,11 +1254,13 @@
       "coalgebra",
       "anamorphism",
       "terminal coalgebra"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/02/28/f-algebras/#:~:text=Coalgebras,-As%20usual%20we"
     }
    ],
    "end": 446,
-   "summary": "Recursion schemes through F-algebras."
+   "summary": "Recursion schemes through F-algebras.",
+   "href": "https://bartoszmilewski.com/2017/02/28/f-algebras/"
   },
   {
    "title": "25. Algebras for Monads",
@@ -1150,11 +1270,12 @@
      "title": "T-algebras",
      "start": 450,
      "end": 453,
-     "summary": "T-algebras (Eilenberg\u2013Moore).",
+     "summary": "T-algebras (Eilenberg–Moore).",
      "terms": [
       "T-algebra",
       "Eilenberg-Moore"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/03/14/algebras-for-monads/#:~:text=T-algebras,-Since%20mathematicians%20prefer"
     },
     {
      "title": "The Kleisli Category",
@@ -1163,7 +1284,8 @@
      "summary": "The Kleisli category again.",
      "terms": [
       "Kleisli category"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/03/14/algebras-for-monads/#:~:text=The%20Kleisli%20Category,-We%E2%80%99ve%20seen%20the"
     },
     {
      "title": "Coalgebras for Comonads",
@@ -1172,7 +1294,8 @@
      "summary": "Coalgebras for comonads.",
      "terms": [
       "coalgebra for comonad"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/03/14/algebras-for-monads/#:~:text=Coalgebras%20for%20Comonads,-Analogous%20constructions%20can"
     },
     {
      "title": "Lenses",
@@ -1181,11 +1304,13 @@
      "summary": "Lenses as Store coalgebras.",
      "terms": [
       "lenses"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/03/14/algebras-for-monads/#:~:text=Lenses,-Let%E2%80%99s%20go%20back"
     }
    ],
    "end": 461,
-   "summary": "Algebras for monads and coalgebras for comonads."
+   "summary": "Algebras for monads and coalgebras for comonads.",
+   "href": "https://bartoszmilewski.com/2017/03/14/algebras-for-monads/"
   },
   {
    "title": "26. Ends and Coends",
@@ -1198,7 +1323,8 @@
      "summary": "Dinatural transformations.",
      "terms": [
       "dinatural transformation"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/03/29/ends-and-coends/#:~:text=Dinatural%20Transformations,-Since%20profunctors%20are"
     },
     {
      "title": "Ends",
@@ -1207,7 +1333,8 @@
      "summary": "Ends.",
      "terms": [
       "end"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/03/29/ends-and-coends/#:~:text=Ends,-We%20are%20now"
     },
     {
      "title": "Ends as Equalizers",
@@ -1216,7 +1343,8 @@
      "summary": "Ends as equalizers.",
      "terms": [
       "equalizer"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/03/29/ends-and-coends/#:~:text=Ends%20as%20Equalizers,-The%20commutation%20condition"
     },
     {
      "title": "Natural Transformations as Ends",
@@ -1225,7 +1353,8 @@
      "summary": "Natural transformations as ends.",
      "terms": [
       "natural transformations as ends"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/03/29/ends-and-coends/#:~:text=Natural%20Transformations%20as%20Ends,-The%20most%20important"
     },
     {
      "title": "Coends",
@@ -1234,7 +1363,8 @@
      "summary": "Coends.",
      "terms": [
       "coend"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/03/29/ends-and-coends/#:~:text=Coends,-As%20expected%20the"
     },
     {
      "title": "Ninja Yoneda Lemma",
@@ -1243,7 +1373,8 @@
      "summary": "Ninja Yoneda lemma.",
      "terms": [
       "ninja Yoneda"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/03/29/ends-and-coends/#:~:text=Ninja%20Yoneda%20Lemma,-The%20set%20of"
     },
     {
      "title": "Profunctor Composition",
@@ -1252,11 +1383,13 @@
      "summary": "Profunctor composition.",
      "terms": [
       "profunctor composition"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/03/29/ends-and-coends/#:~:text=Profunctor%20Composition,-Let%E2%80%99s%20explore%20further"
     }
    ],
    "end": 482,
-   "summary": "Ends, coends and profunctors."
+   "summary": "Ends, coends and profunctors.",
+   "href": "https://bartoszmilewski.com/2017/03/29/ends-and-coends/"
   },
   {
    "title": "27. Kan Extensions",
@@ -1269,7 +1402,8 @@
      "summary": "Right Kan extension.",
      "terms": [
       "right Kan extension"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/04/17/kan-extensions/#:~:text=Right%20Kan%20Extension,-The%20right%20Kan"
     },
     {
      "title": "Kan Extension as Adjunction",
@@ -1278,7 +1412,8 @@
      "summary": "Kan extensions as adjoints.",
      "terms": [
       "adjunction"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/04/17/kan-extensions/#:~:text=Kan%20Extension%20as%20Adjunction,-Now%20suppose%20that"
     },
     {
      "title": "Left Kan Extension",
@@ -1287,7 +1422,8 @@
      "summary": "Left Kan extension.",
      "terms": [
       "left Kan extension"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/04/17/kan-extensions/#:~:text=Left%20Kan%20Extension"
     },
     {
      "title": "Kan Extensions as Ends",
@@ -1297,7 +1433,8 @@
      "terms": [
       "ends",
       "coends"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/04/17/kan-extensions/#:~:text=Kan%20Extensions%20as%20Ends,-The%20real%20power"
     },
     {
      "title": "Kan Extensions in Haskell",
@@ -1308,7 +1445,8 @@
       "Ran",
       "Lan",
       "Haskell"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/04/17/kan-extensions/#:~:text=Kan%20Extensions%20in%20Haskell,-The%20end%20coend"
     },
     {
      "title": "Free Functor",
@@ -1317,11 +1455,13 @@
      "summary": "The free functor.",
      "terms": [
       "free functor"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/04/17/kan-extensions/#:~:text=Free%20Functor,-An%20interesting%20application"
     }
    ],
    "end": 504,
-   "summary": "Kan extensions."
+   "summary": "Kan extensions.",
+   "href": "https://bartoszmilewski.com/2017/04/17/kan-extensions/"
   },
   {
    "title": "28. Enriched Categories",
@@ -1334,7 +1474,8 @@
      "summary": "Motivation.",
      "terms": [
       "enrichment"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/05/13/enriched-categories/#:~:text=Why%20Monoidal%20Category%3F,-When%20constructing%20an"
     },
     {
      "title": "Monoidal Category",
@@ -1343,7 +1484,8 @@
      "summary": "Monoidal categories.",
      "terms": [
       "monoidal category"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/05/13/enriched-categories/#:~:text=Monoidal%20Category,-We%E2%80%99ve%20talked%20about"
     },
     {
      "title": "Enriched Category",
@@ -1352,7 +1494,8 @@
      "summary": "Enriched categories.",
      "terms": [
       "enriched category"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/05/13/enriched-categories/#:~:text=Enriched%20Category"
     },
     {
      "title": "Preorders",
@@ -1361,7 +1504,8 @@
      "summary": "Preorders as enriched over Bool.",
      "terms": [
       "preorders"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/05/13/enriched-categories/#:~:text=Preorders,-A%20preorder%20is"
     },
     {
      "title": "Metric Spaces",
@@ -1370,7 +1514,8 @@
      "summary": "Metric spaces as enriched categories.",
      "terms": [
       "Lawvere metric spaces"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/05/13/enriched-categories/#:~:text=Metric%20Spaces,-An%20interesting%20example"
     },
     {
      "title": "Enriched Functors",
@@ -1379,7 +1524,8 @@
      "summary": "Enriched functors.",
      "terms": [
       "enriched functors"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/05/13/enriched-categories/#:~:text=Enriched%20Functors,-The%20definition%20of"
     },
     {
      "title": "Self Enrichment",
@@ -1388,7 +1534,8 @@
      "summary": "Self-enrichment.",
      "terms": [
       "self-enrichment"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/05/13/enriched-categories/#:~:text=Self%20Enrichment,-A%20closed%20symmetric"
     },
     {
      "title": "Relation to 2-Categories",
@@ -1397,11 +1544,13 @@
      "summary": "Relation to 2-categories.",
      "terms": [
       "2-categories"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/05/13/enriched-categories/#:~:text=Relation%20to%202-Categories,-I%20talked%20about"
     }
    ],
    "end": 518,
-   "summary": "Categories whose hom-sets are objects of a monoidal category."
+   "summary": "Categories whose hom-sets are objects of a monoidal category.",
+   "href": "https://bartoszmilewski.com/2017/05/13/enriched-categories/"
   },
   {
    "title": "29. Topoi",
@@ -1414,7 +1563,8 @@
      "summary": "Subobject classifiers.",
      "terms": [
       "subobject classifier"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/07/22/topoi/#:~:text=Subobject%20Classifier,-Let%E2%80%99s%20start%20by"
     },
     {
      "title": "Topos",
@@ -1423,7 +1573,8 @@
      "summary": "Toposes.",
      "terms": [
       "topos"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/07/22/topoi/#:~:text=Topos,-A%20topos%20is"
     },
     {
      "title": "Topoi and Logic",
@@ -1432,11 +1583,13 @@
      "summary": "Internal logic of a topos.",
      "terms": [
       "intuitionistic logic"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/07/22/topoi/#:~:text=Topoi%20and%20Logic,-In%20set%20theory"
     }
    ],
    "end": 527,
-   "summary": "Topoi as generalized universes of sets."
+   "summary": "Topoi as generalized universes of sets.",
+   "href": "https://bartoszmilewski.com/2017/07/22/topoi/"
   },
   {
    "title": "30. Lawvere Theories",
@@ -1449,7 +1602,8 @@
      "summary": "Universal algebra.",
      "terms": [
       "universal algebra"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/08/26/lawvere-theories/#:~:text=Universal%20Algebra,-There%20are%20many"
     },
     {
      "title": "Lawvere Theories",
@@ -1458,7 +1612,8 @@
      "summary": "Lawvere theories.",
      "terms": [
       "Lawvere theory"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/08/26/lawvere-theories/#:~:text=Lawvere%20Theories"
     },
     {
      "title": "Models of Lawvere Theories",
@@ -1467,7 +1622,8 @@
      "summary": "Models.",
      "terms": [
       "models"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/08/26/lawvere-theories/#:~:text=Models%20of%20Lawvere%20Theories,-The%20key%20to"
     },
     {
      "title": "The Theory of Monoids",
@@ -1476,7 +1632,8 @@
      "summary": "The theory of monoids.",
      "terms": [
       "monoids"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/08/26/lawvere-theories/#:~:text=The%20Theory%20of%20Monoids,-The%20simplest%20nontrivial"
     },
     {
      "title": "Lawvere Theories and Monads",
@@ -1485,7 +1642,8 @@
      "summary": "Relation to monads.",
      "terms": [
       "monads"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/08/26/lawvere-theories/#:~:text=Lawvere%20Theories%20and%20Monads,-As%20you%20may"
     },
     {
      "title": "Monads as Coends",
@@ -1494,7 +1652,8 @@
      "summary": "Monads as coends.",
      "terms": [
       "coends"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/08/26/lawvere-theories/#:~:text=Monads%20as%20Coends,-Let%E2%80%99s%20explore%20the"
     },
     {
      "title": "Lawvere Theory of Side Effects",
@@ -1503,11 +1662,13 @@
      "summary": "Side effects via Lawvere theories.",
      "terms": [
       "algebraic effects"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/08/26/lawvere-theories/#:~:text=Lawvere%20Theory%20of%20Side%20Effects,-Since%20there%20is"
     }
    ],
    "end": 547,
-   "summary": "Lawvere theories as categorical universal algebra."
+   "summary": "Lawvere theories as categorical universal algebra.",
+   "href": "https://bartoszmilewski.com/2017/08/26/lawvere-theories/"
   },
   {
    "title": "31. Monads, Monoids, and Categories",
@@ -1520,7 +1681,8 @@
      "summary": "Bicategories.",
      "terms": [
       "bicategory"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/09/06/monads-monoids-and-categories/#:~:text=Bicategories,-One%20of%20the"
     },
     {
      "title": "Monads",
@@ -1530,15 +1692,17 @@
      "terms": [
       "monads in a bicategory",
       "spans"
-     ]
+     ],
+     "href": "https://bartoszmilewski.com/2017/09/06/monads-monoids-and-categories/#:~:text=Monads,-By%20now%20you"
     }
    ],
    "end": 558,
-   "summary": "Monads as monads in bicategories, and categories as monads."
+   "summary": "Monads as monads in bicategories, and categories as monads.",
+   "href": "https://bartoszmilewski.com/2017/09/06/monads-monoids-and-categories/"
   }
  ],
  "title": "Category Theory for Programmers (Scala edition)",
- "byline": "Bartosz Milewski, Scala examples by Typelevel contributors \u00b7 community LaTeX edition, build v36 (2023), CC BY-SA 4.0",
- "note": "PDF page = printed page + 21. This is the latest build of the community PDF (hmemcpy/milewski-ctfp-pdf), which also exists in Haskell-only, OCaml and Reason editions; the Scala edition shows Scala next to the Haskell and C++ code. The original text is the blog series on bartoszmilewski.com. \u201cChallenges\u201d and bibliography subsections are not broken out. Summaries are in our own words; the text stays in the PDF.",
- "summary": "An introduction to category theory aimed at working programmers, told through code. Part One builds the basics from composition: categories, types as sets, Kleisli categories, universal constructions (products, coproducts, exponentials), algebraic data types, functors, bifunctors and profunctors, and natural transformations. Part Two covers limits and colimits, free monoids, representable functors and the Yoneda lemma and embedding. Part Three goes deeper: adjunctions, monads from the programmer\u2019s and the categorical side, comonads, F-algebras and catamorphisms, algebras for monads and lenses, ends and coends, Kan extensions, enriched categories, topoi, Lawvere theories, and monads as monoids in bicategories."
+ "byline": "Bartosz Milewski, Scala examples by Typelevel contributors · community LaTeX edition, build v36 (2023), CC BY-SA 4.0",
+ "note": "PDF page = printed page + 21. This is the latest build of the community PDF (hmemcpy/milewski-ctfp-pdf), which also exists in Haskell-only, OCaml and Reason editions; the Scala edition shows Scala next to the Haskell and C++ code. The same text is online as Bartosz Milewski’s blog series (Haskell and C++ only): each chapter links to its post, and each section links straight to its heading there. “Challenges” and bibliography subsections are not broken out. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "An introduction to category theory aimed at working programmers, told through code. Part One builds the basics from composition: categories, types as sets, Kleisli categories, universal constructions (products, coproducts, exponentials), algebraic data types, functors, bifunctors and profunctors, and natural transformations. Part Two covers limits and colimits, free monoids, representable functors and the Yoneda lemma and embedding. Part Three goes deeper: adjunctions, monads from the programmer’s and the categorical side, comonads, F-algebras and catamorphisms, algebras for monads and lenses, ends and coends, Kan extensions, enriched categories, topoi, Lawvere theories, and monads as monoids in bicategories."
 }
