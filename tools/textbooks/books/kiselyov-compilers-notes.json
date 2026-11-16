@@ -1,0 +1,117 @@
+{
+ "title": "Compilers: Course Notes",
+ "byline": "Oleg Kiselyov \u00b7 November 2024 (the first 28 pages)",
+ "note": "This PDF holds only the opening of the notes: the table of contents runs to section 4.12 on page 72, but the file stops early in chapter 4. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "A hands-on compilers course in which students build, in OCaml, a compiler from Tiger\u2032 (a Pascal-like language with nested functions) to real x86-64 machine code that runs on their laptops. Kiselyov grows the compiler one language feature at a time, each step driven by tests written first, and builds it in tagless-final style: the source language is an OCaml signature, and interpreters, pretty-printers, transformations and the code generator are all just different implementations of it. The file covers the setup, what a compiler is, the tagless-final warm-up, and the first real step: compiling integer literals to assembly.",
+ "chapters": [
+  {
+   "title": "Introduction",
+   "start": 3,
+   "end": 6,
+   "sections": [
+    {
+     "title": "Prerequisites",
+     "start": 3,
+     "end": 3,
+     "summary": "Students should know some programming language theory and enough OCaml to follow modules and functors.",
+     "terms": [
+      "OCaml",
+      "prerequisites"
+     ]
+    },
+    {
+     "title": "Development environment",
+     "start": 3,
+     "end": 5,
+     "summary": "Linux or macOS on x86-64 (or an emulator), the OCaml toolchain, and Git for every exercise.",
+     "terms": [
+      "x86-64",
+      "Git",
+      "development environment"
+     ]
+    },
+    {
+     "title": "Exercises and Grading",
+     "start": 6,
+     "end": 6,
+     "summary": "Each week: write tests for a new feature, then extend the compiler until they pass.",
+     "terms": [
+      "test-driven development",
+      "exercises"
+     ]
+    }
+   ],
+   "summary": "Course goals (a real compiler, plus test-driven development and version control), the required OCaml and Git setup, and how weekly exercises are graded."
+  },
+  {
+   "title": "What is a compiler?",
+   "start": 7,
+   "end": 10,
+   "sections": [
+    {
+     "title": "Incremental approach",
+     "start": 10,
+     "end": 10,
+     "summary": "Each new language feature is added in a small step that keeps the compiler working end to end.",
+     "terms": [
+      "Tiger language",
+      "incremental compiler"
+     ]
+    }
+   ],
+   "summary": "A compiler explained by translating one Tiger\u2032 program by hand, and the plan to grow the language incrementally."
+  },
+  {
+   "title": "Introduction to tagless-final style and OCaml reminder",
+   "start": 11,
+   "end": 18,
+   "sections": [
+    {
+     "title": "A simple embedded DSL and its interpreters and transformers",
+     "start": 12,
+     "end": 15,
+     "summary": "The language is a module signature; evaluation and pretty-printing are modules implementing it, and a transformer (here, negating literals) is a functor from one implementation to another.",
+     "terms": [
+      "tagless-final",
+      "embedded DSL",
+      "interpreter",
+      "transformer",
+      "functor"
+     ]
+    },
+    {
+     "title": "Separate compilation: making a project",
+     "start": 16,
+     "end": 18,
+     "summary": "Splitting the code into files and modules and building it as a project.",
+     "terms": [
+      "separate compilation",
+      "OCaml modules"
+     ]
+    }
+   ],
+   "summary": "The tagless-final style on a tiny language of integers and addition: one signature, many interpreters and transformers."
+  },
+  {
+   "title": "Making the compiler",
+   "start": 19,
+   "end": 28,
+   "sections": [
+    {
+     "title": "The simplest source language",
+     "start": 19,
+     "end": 28,
+     "summary": "Printing an integer in assembly, assembly treated as an embedded DSL, testing the generated executables, and the build setup.",
+     "terms": [
+      "x86-64 assembly",
+      "code generation",
+      "compiler testing",
+      "build system"
+     ]
+    }
+   ],
+   "summary": "The first compiler step: the smallest source language compiled to x86-64 assembly, with tests and a build system."
+  }
+ ],
+ "url": "https://drive.google.com/file/d/1BiiOWoRcSxJrGONJw38aEYdhx-0WaOgw/view"
+}

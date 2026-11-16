@@ -102,8 +102,10 @@ def render(slug):
         L.append('\n---\n' if i == 1 else f'\n---\n\n<a id="ch{i}"></a>')
         L.append(f'## {c["title"]}\n\n*{pr(c["start"], c["end"])}*\n\n{c["summary"]}\n')
         for s in c.get('sections', []):
-            L.append(f'**{s["title"]}**  \n{s["summary"]}  \n→ {pr(s["start"], s["end"])} in [the PDF]({url})\n')
+            terms = f'  \n*Terms:* {", ".join(s["terms"])}' if s.get('terms') else ''
+            L.append(f'**{s["title"]}**  \n{s["summary"]}{terms}  \n→ {pr(s["start"], s["end"])} in [the PDF]({url})\n')
         if not c.get('sections'):
+            if c.get('terms'): L.append(f'*Terms:* {", ".join(c["terms"])}\n')
             L.append(f'→ {pr(c["start"], c["end"])} in [the PDF]({url})\n')
     os.makedirs(OUT, exist_ok=True)
     open(os.path.join(OUT, slug + '.md'), 'w').write('\n'.join(L) + '\n')
@@ -134,6 +136,17 @@ def assemble(slug, meta, ch_summ, sec_summ):
     bk = dict(meta, chapters=st['chapters'], url=f"https://drive.google.com/file/d/{ids[slug]}/view")
     json.dump(bk, open(os.path.join(W, slug, 'book.json'), 'w'), indent=1)
     render(slug)
+
+def add_terms(slug, ch_terms):
+    """ch_terms: per chapter, a list of term lists (one per section), or a flat list for a sectionless chapter."""
+    p = os.path.join(W, slug, 'book.json'); bk = json.load(open(p))
+    assert len(ch_terms) == len(bk['chapters']), (slug, len(ch_terms), len(bk['chapters']))
+    for c, t in zip(bk['chapters'], ch_terms):
+        if c.get('sections'):
+            assert len(t) == len(c['sections']), (slug, c['title'], len(t), len(c['sections']))
+            for s_, tt in zip(c['sections'], t): s_['terms'] = tt
+        else: c['terms'] = t
+    json.dump(bk, open(p, 'w'), indent=1); render(slug)
 
 if __name__ == '__main__':
     a = sys.argv[1:]

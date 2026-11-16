@@ -26,6 +26,8 @@ A kettlebell coach’s case that people over 40 should train with a few versatil
 
 A personal story of a career crisis that led the author to kettlebells, and the argument for short, home-based training over gym machines after 40.
 
+*Terms:* training after 40, home training
+
 → PDF pp. 4–9 in [the PDF](https://drive.google.com/file/d/1-99cv-5N-zXZ1Kn2WvwjrUMsETrSXUD2/view)
 
 
@@ -37,6 +39,8 @@ A personal story of a career crisis that led the author to kettlebells, and the 
 *PDF pp. 10–15*
 
 Mobility first: drills with a stick and light weights to open the hips, shoulders and spine and learn the basic patterns.
+
+*Terms:* mobility, hip hinge, goblet squat, shoulder health
 
 → PDF pp. 10–15 in [the PDF](https://drive.google.com/file/d/1-99cv-5N-zXZ1Kn2WvwjrUMsETrSXUD2/view)
 
@@ -50,6 +54,8 @@ Mobility first: drills with a stick and light weights to open the hips, shoulder
 
 The main lifts: grinds (press, goblet squat, reverse lunge), ballistics (swing variants, clean, snatch), and carries.
 
+*Terms:* press, squat, reverse lunge, swing, clean, snatch, loaded carries
+
 → PDF pp. 16–23 in [the PDF](https://drive.google.com/file/d/1-99cv-5N-zXZ1Kn2WvwjrUMsETrSXUD2/view)
 
 
@@ -62,6 +68,8 @@ The main lifts: grinds (press, goblet squat, reverse lunge), ballistics (swing v
 
 Putting it together into sessions: warm-up, activation, main work and finisher, with weights by level.
 
+*Terms:* warm-up, workout structure, kettlebell weights
+
 → PDF pp. 24–28 in [the PDF](https://drive.google.com/file/d/1-99cv-5N-zXZ1Kn2WvwjrUMsETrSXUD2/view)
 
 
@@ -73,6 +81,8 @@ Putting it together into sessions: warm-up, activation, main work and finisher, 
 *PDF pp. 29–33*
 
 What the book left out (double-bell work and more), encouragement to keep going, and the reference list.
+
+*Terms:* double kettlebell, references
 
 → PDF pp. 29–33 in [the PDF](https://drive.google.com/file/d/1-99cv-5N-zXZ1Kn2WvwjrUMsETrSXUD2/view)
 

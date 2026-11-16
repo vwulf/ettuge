@@ -1,0 +1,332 @@
+{
+ "title": "Prompt Engineering",
+ "byline": "Lee Boonstra \u00b7 Google whitepaper, v7 (2025)",
+ "note": "A practitioner\u2019s whitepaper written around Gemini on Vertex AI, with each technique shown as a filled-in prompt table (goal, model, temperature, top-K/top-P, prompt, output). Summaries are in our own words; the text stays in the PDF.",
+ "summary": "Prompting is treated as an engineering loop: pick a model, set the sampling configuration, choose a technique, and record every attempt. The paper first explains the output controls (length, temperature, top-K, top-P) and how they interact, including the repetition loops that extreme settings cause. It then walks through the standard techniques, from zero- and few-shot through system, contextual and role prompts, step-back prompting, chain of thought, self-consistency, tree of thoughts, ReAct, automatic prompt engineering and prompts for writing, explaining, translating and debugging code. The last part is a list of habits: give examples, keep it simple, say what you want rather than what you don\u2019t, use variables, structured output and schemas, and document attempts in a standard template.",
+ "chapters": [
+  {
+   "title": "Introduction and output configuration",
+   "start": 6,
+   "end": 12,
+   "sections": [
+    {
+     "title": "Introduction",
+     "start": 6,
+     "end": 6,
+     "summary": "Anyone can write a prompt, but getting reliable output depends on wording, examples, structure and model settings together.",
+     "terms": [
+      "prompt",
+      "LLM input"
+     ]
+    },
+    {
+     "title": "Prompt engineering",
+     "start": 7,
+     "end": 7,
+     "summary": "Prompt engineering is iterative design of the input so the model predicts the output you want; it works best with direct access to model settings.",
+     "terms": [
+      "prompt engineering",
+      "Vertex AI"
+     ]
+    },
+    {
+     "title": "Output length",
+     "start": 8,
+     "end": 8,
+     "summary": "Limiting output tokens only cuts generation off; it doesn\u2019t make the model concise, so the prompt must ask for brevity too.",
+     "terms": [
+      "output length",
+      "token limit"
+     ]
+    },
+    {
+     "title": "Sampling controls",
+     "start": 9,
+     "end": 12,
+     "summary": "Temperature, top-K and top-P each restrict which tokens can be sampled, and they combine; the paper gives starting values and warns that very low or very high settings cause repetition loops.",
+     "terms": [
+      "temperature",
+      "top-K",
+      "top-P",
+      "sampling",
+      "repetition loop"
+     ]
+    }
+   ],
+   "summary": "What a prompt is, why the paper uses the API rather than the chat app, and the sampling settings that shape every output."
+  },
+  {
+   "title": "Prompting techniques",
+   "start": 13,
+   "end": 53,
+   "sections": [
+    {
+     "title": "General prompting / zero shot",
+     "start": 13,
+     "end": 14,
+     "summary": "A plain instruction with no examples; works for simple tasks and is the baseline.",
+     "terms": [
+      "zero-shot prompting"
+     ]
+    },
+    {
+     "title": "One-shot & few-shot",
+     "start": 15,
+     "end": 17,
+     "summary": "One or a few examples show the format and the pattern; the examples should be varied and high quality.",
+     "terms": [
+      "one-shot prompting",
+      "few-shot prompting"
+     ]
+    },
+    {
+     "title": "System, contextual and role prompting",
+     "start": 18,
+     "end": 24,
+     "summary": "System prompts set the task and output format, contextual prompts give background, role prompts give a voice; JSON output is recommended for structure.",
+     "terms": [
+      "system prompt",
+      "contextual prompt",
+      "role prompt",
+      "JSON output"
+     ]
+    },
+    {
+     "title": "Step-back prompting",
+     "start": 25,
+     "end": 28,
+     "summary": "First ask a broader question, then feed its answer into the specific task, to bring relevant background into play.",
+     "terms": [
+      "step-back prompting"
+     ]
+    },
+    {
+     "title": "Chain of Thought (CoT)",
+     "start": 29,
+     "end": 31,
+     "summary": "Asking for step-by-step reasoning improves answers on reasoning tasks, especially combined with few-shot examples; it costs more tokens.",
+     "terms": [
+      "chain of thought",
+      "CoT"
+     ]
+    },
+    {
+     "title": "Self-consistency",
+     "start": 32,
+     "end": 35,
+     "summary": "Sample several reasoning paths at higher temperature and take the majority answer.",
+     "terms": [
+      "self-consistency",
+      "majority voting"
+     ]
+    },
+    {
+     "title": "Tree of Thoughts (ToT)",
+     "start": 36,
+     "end": 36,
+     "summary": "Explore a tree of intermediate thoughts rather than a single chain, for problems that need search.",
+     "terms": [
+      "tree of thoughts",
+      "ToT"
+     ]
+    },
+    {
+     "title": "ReAct (reason & act)",
+     "start": 37,
+     "end": 39,
+     "summary": "Interleave reasoning with tool calls (for example, search), observing results before the next step.",
+     "terms": [
+      "ReAct",
+      "tool use",
+      "agents"
+     ]
+    },
+    {
+     "title": "Automatic Prompt Engineering",
+     "start": 40,
+     "end": 41,
+     "summary": "Use a model to generate candidate prompts, score them, and keep the best.",
+     "terms": [
+      "automatic prompt engineering",
+      "APE"
+     ]
+    },
+    {
+     "title": "Code prompting",
+     "start": 42,
+     "end": 53,
+     "summary": "Prompts for writing, explaining, translating and debugging code, with the caution that generated code must be read and tested.",
+     "terms": [
+      "code generation",
+      "code explanation",
+      "code translation",
+      "debugging"
+     ]
+    }
+   ],
+   "summary": "The main prompting techniques, each with a worked prompt and its configuration."
+  },
+  {
+   "title": "Best Practices",
+   "start": 54,
+   "end": 65,
+   "sections": [
+    {
+     "title": "Provide examples",
+     "start": 54,
+     "end": 54,
+     "summary": "Examples are the most effective single tool.",
+     "terms": [
+      "examples"
+     ]
+    },
+    {
+     "title": "Design with simplicity",
+     "start": 55,
+     "end": 55,
+     "summary": "Short, clear prompts with action verbs work better than complex ones.",
+     "terms": [
+      "simplicity",
+      "action verbs"
+     ]
+    },
+    {
+     "title": "Be specific about the output",
+     "start": 56,
+     "end": 56,
+     "summary": "State the desired output precisely.",
+     "terms": [
+      "output specification"
+     ]
+    },
+    {
+     "title": "Use Instructions over Constraints",
+     "start": 56,
+     "end": 57,
+     "summary": "Positive instructions tend to work better than lists of prohibitions.",
+     "terms": [
+      "instructions vs constraints"
+     ]
+    },
+    {
+     "title": "Control the max token length",
+     "start": 58,
+     "end": 58,
+     "summary": "Cap output length in the configuration or ask for it in the prompt.",
+     "terms": [
+      "max tokens"
+     ]
+    },
+    {
+     "title": "Use variables in prompts",
+     "start": 58,
+     "end": 58,
+     "summary": "Variables make prompts reusable across inputs.",
+     "terms": [
+      "prompt variables",
+      "templates"
+     ]
+    },
+    {
+     "title": "Experiment with input formats and writing styles",
+     "start": 59,
+     "end": 59,
+     "summary": "Wording, style and prompt type all change results, so try variants.",
+     "terms": [
+      "input format",
+      "writing style"
+     ]
+    },
+    {
+     "title": "For few-shot prompting with classification tasks, mix up the classes",
+     "start": 59,
+     "end": 59,
+     "summary": "In few-shot classification, shuffle the order of classes so the model doesn\u2019t learn the order.",
+     "terms": [
+      "few-shot classification",
+      "class order"
+     ]
+    },
+    {
+     "title": "Adapt to model updates",
+     "start": 60,
+     "end": 60,
+     "summary": "Retest prompts when the model changes.",
+     "terms": [
+      "model updates"
+     ]
+    },
+    {
+     "title": "Experiment with output formats",
+     "start": 60,
+     "end": 60,
+     "summary": "Structured formats like JSON reduce hallucination and make output parseable.",
+     "terms": [
+      "structured output",
+      "JSON"
+     ]
+    },
+    {
+     "title": "JSON Repair",
+     "start": 61,
+     "end": 61,
+     "summary": "JSON is verbose and can be cut off; repair libraries fix truncated output.",
+     "terms": [
+      "JSON repair"
+     ]
+    },
+    {
+     "title": "Working with Schemas",
+     "start": 62,
+     "end": 62,
+     "summary": "JSON Schemas can structure the input too, focusing the model on the relevant fields.",
+     "terms": [
+      "JSON Schema",
+      "structured input"
+     ]
+    },
+    {
+     "title": "Experiment together with other prompt engineers",
+     "start": 63,
+     "end": 63,
+     "summary": "Compare prompts written by several people.",
+     "terms": [
+      "collaboration"
+     ]
+    },
+    {
+     "title": "CoT Best practices",
+     "start": 64,
+     "end": 64,
+     "summary": "For chain of thought: put the answer after the reasoning, extract it separately, and use temperature 0.",
+     "terms": [
+      "CoT best practices",
+      "temperature 0"
+     ]
+    },
+    {
+     "title": "Document the various prompt attempts",
+     "start": 64,
+     "end": 65,
+     "summary": "Log every attempt (goal, model, settings, prompt, output) in a standard table so results can be compared.",
+     "terms": [
+      "prompt documentation",
+      "prompt log"
+     ]
+    }
+   ],
+   "summary": "Practical habits for writing, testing and maintaining prompts."
+  },
+  {
+   "title": "Summary",
+   "start": 66,
+   "end": 68,
+   "sections": [],
+   "summary": "A recap, the prompt-documentation template, and references.",
+   "terms": [
+    "prompt documentation template"
+   ]
+  }
+ ],
+ "url": "https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view"
+}

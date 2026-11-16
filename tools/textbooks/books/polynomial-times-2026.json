@@ -1,0 +1,119 @@
+{
+ "title": "Polynomial Times, 2026\u201327 (Issue 2)",
+ "byline": "Simons Institute for the Theory of Computing \u00b7 annual magazine",
+ "note": "A magazine, so each article is a chapter. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "The Simons Institute\u2019s annual magazine, this year centered on how AI is changing theoretical computer science. The lead feature reports a workshop where theorists weighed AI-generated proofs, including resolved long-standing conjectures and the disputed Navier\u2013Stokes announcement, against the view that mathematics exists to build human understanding. The rest covers algorithmic fairness and law, post-quantum security proofs, rapid progress toward fault-tolerant quantum computing with neutral atoms, succinct proofs (SNARGs) for NP, a portrait of a founder of computational biology, and the year\u2019s research programs.",
+ "chapters": [
+  {
+   "title": "Letter from the Director",
+   "start": 5,
+   "end": 6,
+   "sections": [],
+   "summary": "The director introduces an issue focused on AI\u2019s impact on the field and new funding for that work.",
+   "terms": [
+    "Simons Institute"
+   ]
+  },
+  {
+   "title": "Theoretical Computer Science Meets Its AI Moment",
+   "start": 7,
+   "end": 12,
+   "sections": [],
+   "summary": "Theorists debate what AI-produced results (Matrix Spencer, Koml\u00f3s, the contested Navier\u2013Stokes claim) mean for doing mathematics, framed by Thurston\u2019s view that the product of mathematics is understanding, not theorems.",
+   "terms": [
+    "AI-generated proofs",
+    "Navier-Stokes",
+    "Koml\u00f3s conjecture",
+    "Matrix Spencer conjecture",
+    "Thurston"
+   ]
+  },
+  {
+   "title": "Algorithms, Society, and the Law",
+   "start": 13,
+   "end": 14,
+   "sections": [],
+   "summary": "The Institute\u2019s Law and Society fellows and their workshop on AI governance with policymakers and researchers.",
+   "terms": [
+    "AI governance",
+    "law and society"
+   ]
+  },
+  {
+   "title": "A Conversation About Algorithmic Fairness",
+   "start": 15,
+   "end": 21,
+   "sections": [],
+   "summary": "Kannan, Kleinberg, Reingold and Vohra discuss how definitions of fairness developed, from fair division to predictive algorithms, why fairness criteria conflict, and how the field relates to law and AI alignment.",
+   "terms": [
+    "algorithmic fairness",
+    "fair division",
+    "calibration",
+    "risk scores"
+   ]
+  },
+  {
+   "title": "A Portrait of Nick Spooner",
+   "start": 22,
+   "end": 24,
+   "sections": [],
+   "summary": "Nick Spooner\u2019s work on proving that post-quantum cryptographic proof systems are actually secure.",
+   "terms": [
+    "post-quantum security",
+    "proof systems"
+   ]
+  },
+  {
+   "title": "Fault-Tolerant Quantum Computing with Neutral Atoms",
+   "start": 25,
+   "end": 30,
+   "sections": [],
+   "summary": "How neutral-atom hardware, atom transport and more efficient error-correcting codes have brought fault-tolerant quantum computing closer than expected.",
+   "terms": [
+    "fault-tolerant quantum computing",
+    "neutral atoms",
+    "quantum error correction",
+    "logical qubits"
+   ]
+  },
+  {
+   "title": "The Proof Behind the Proof: SNARGs for NP",
+   "start": 31,
+   "end": 37,
+   "sections": [],
+   "summary": "Kalai and Jain explain succinct non-interactive arguments: why NP can\u2019t have short unconditional proofs, how cryptography gets around this, and new routes to SNARGs for NP via proof complexity.",
+   "terms": [
+    "SNARGs",
+    "succinct arguments",
+    "NP",
+    "proof complexity",
+    "Ethereum"
+   ]
+  },
+  {
+   "title": "A Portrait of Dan Gusfield",
+   "start": 38,
+   "end": 39,
+   "sections": [],
+   "summary": "Dan Gusfield\u2019s role in founding algorithmic computational biology, including perfect phylogeny, and as an expositor.",
+   "terms": [
+    "computational biology",
+    "perfect phylogeny"
+   ]
+  },
+  {
+   "title": "This Year\u2019s Research Programs",
+   "start": 40,
+   "end": 42,
+   "sections": [],
+   "summary": "The 2026\u201327 programs: pseudorandomness and high-dimensional expansion, spectral theory beyond graphs, and symmetry in constraint satisfaction.",
+   "terms": [
+    "pseudorandomness",
+    "high-dimensional expanders",
+    "spectral graph theory",
+    "constraint satisfaction"
+   ]
+  }
+ ],
+ "url": "https://drive.google.com/file/d/1TgqHhYYN2b-OU5bD9FPZweSB_6HRJ--M/view"
+}

@@ -30,6 +30,8 @@ The Simons Institute’s annual magazine, this year centered on how AI is changi
 
 The director introduces an issue focused on AI’s impact on the field and new funding for that work.
 
+*Terms:* Simons Institute
+
 → PDF pp. 5–6 in [the PDF](https://drive.google.com/file/d/1TgqHhYYN2b-OU5bD9FPZweSB_6HRJ--M/view)
 
 
@@ -41,6 +43,8 @@ The director introduces an issue focused on AI’s impact on the field and new f
 *PDF pp. 7–12*
 
 Theorists debate what AI-produced results (Matrix Spencer, Komlós, the contested Navier–Stokes claim) mean for doing mathematics, framed by Thurston’s view that the product of mathematics is understanding, not theorems.
+
+*Terms:* AI-generated proofs, Navier-Stokes, Komlós conjecture, Matrix Spencer conjecture, Thurston
 
 → PDF pp. 7–12 in [the PDF](https://drive.google.com/file/d/1TgqHhYYN2b-OU5bD9FPZweSB_6HRJ--M/view)
 
@@ -54,6 +58,8 @@ Theorists debate what AI-produced results (Matrix Spencer, Komlós, the conteste
 
 The Institute’s Law and Society fellows and their workshop on AI governance with policymakers and researchers.
 
+*Terms:* AI governance, law and society
+
 → PDF pp. 13–14 in [the PDF](https://drive.google.com/file/d/1TgqHhYYN2b-OU5bD9FPZweSB_6HRJ--M/view)
 
 
@@ -65,6 +71,8 @@ The Institute’s Law and Society fellows and their workshop on AI governance wi
 *PDF pp. 15–21*
 
 Kannan, Kleinberg, Reingold and Vohra discuss how definitions of fairness developed, from fair division to predictive algorithms, why fairness criteria conflict, and how the field relates to law and AI alignment.
+
+*Terms:* algorithmic fairness, fair division, calibration, risk scores
 
 → PDF pp. 15–21 in [the PDF](https://drive.google.com/file/d/1TgqHhYYN2b-OU5bD9FPZweSB_6HRJ--M/view)
 
@@ -78,6 +86,8 @@ Kannan, Kleinberg, Reingold and Vohra discuss how definitions of fairness develo
 
 Nick Spooner’s work on proving that post-quantum cryptographic proof systems are actually secure.
 
+*Terms:* post-quantum security, proof systems
+
 → PDF pp. 22–24 in [the PDF](https://drive.google.com/file/d/1TgqHhYYN2b-OU5bD9FPZweSB_6HRJ--M/view)
 
 
@@ -89,6 +99,8 @@ Nick Spooner’s work on proving that post-quantum cryptographic proof systems a
 *PDF pp. 25–30*
 
 How neutral-atom hardware, atom transport and more efficient error-correcting codes have brought fault-tolerant quantum computing closer than expected.
+
+*Terms:* fault-tolerant quantum computing, neutral atoms, quantum error correction, logical qubits
 
 → PDF pp. 25–30 in [the PDF](https://drive.google.com/file/d/1TgqHhYYN2b-OU5bD9FPZweSB_6HRJ--M/view)
 
@@ -102,6 +114,8 @@ How neutral-atom hardware, atom transport and more efficient error-correcting co
 
 Kalai and Jain explain succinct non-interactive arguments: why NP can’t have short unconditional proofs, how cryptography gets around this, and new routes to SNARGs for NP via proof complexity.
 
+*Terms:* SNARGs, succinct arguments, NP, proof complexity, Ethereum
+
 → PDF pp. 31–37 in [the PDF](https://drive.google.com/file/d/1TgqHhYYN2b-OU5bD9FPZweSB_6HRJ--M/view)
 
 
@@ -114,6 +128,8 @@ Kalai and Jain explain succinct non-interactive arguments: why NP can’t have s
 
 Dan Gusfield’s role in founding algorithmic computational biology, including perfect phylogeny, and as an expositor.
 
+*Terms:* computational biology, perfect phylogeny
+
 → PDF pp. 38–39 in [the PDF](https://drive.google.com/file/d/1TgqHhYYN2b-OU5bD9FPZweSB_6HRJ--M/view)
 
 
@@ -125,6 +141,8 @@ Dan Gusfield’s role in founding algorithmic computational biology, including p
 *PDF pp. 40–42*
 
 The 2026–27 programs: pseudorandomness and high-dimensional expansion, spectral theory beyond graphs, and symmetry in constraint satisfaction.
+
+*Terms:* pseudorandomness, high-dimensional expanders, spectral graph theory, constraint satisfaction
 
 → PDF pp. 40–42 in [the PDF](https://drive.google.com/file/d/1TgqHhYYN2b-OU5bD9FPZweSB_6HRJ--M/view)
 

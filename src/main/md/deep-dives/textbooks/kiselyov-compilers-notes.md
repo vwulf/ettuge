@@ -27,14 +27,17 @@ Course goals (a real compiler, plus test-driven development and version control)
 
 **Prerequisites**  
 Students should know some programming language theory and enough OCaml to follow modules and functors.  
+*Terms:* OCaml, prerequisites  
 → PDF p. 3 in [the PDF](https://drive.google.com/file/d/1BiiOWoRcSxJrGONJw38aEYdhx-0WaOgw/view)
 
 **Development environment**  
 Linux or macOS on x86-64 (or an emulator), the OCaml toolchain, and Git for every exercise.  
+*Terms:* x86-64, Git, development environment  
 → PDF pp. 3–5 in [the PDF](https://drive.google.com/file/d/1BiiOWoRcSxJrGONJw38aEYdhx-0WaOgw/view)
 
 **Exercises and Grading**  
 Each week: write tests for a new feature, then extend the compiler until they pass.  
+*Terms:* test-driven development, exercises  
 → PDF p. 6 in [the PDF](https://drive.google.com/file/d/1BiiOWoRcSxJrGONJw38aEYdhx-0WaOgw/view)
 
 
@@ -49,6 +52,7 @@ A compiler explained by translating one Tiger′ program by hand, and the plan t
 
 **Incremental approach**  
 Each new language feature is added in a small step that keeps the compiler working end to end.  
+*Terms:* Tiger language, incremental compiler  
 → PDF p. 10 in [the PDF](https://drive.google.com/file/d/1BiiOWoRcSxJrGONJw38aEYdhx-0WaOgw/view)
 
 
@@ -63,10 +67,12 @@ The tagless-final style on a tiny language of integers and addition: one signatu
 
 **A simple embedded DSL and its interpreters and transformers**  
 The language is a module signature; evaluation and pretty-printing are modules implementing it, and a transformer (here, negating literals) is a functor from one implementation to another.  
+*Terms:* tagless-final, embedded DSL, interpreter, transformer, functor  
 → PDF pp. 12–15 in [the PDF](https://drive.google.com/file/d/1BiiOWoRcSxJrGONJw38aEYdhx-0WaOgw/view)
 
 **Separate compilation: making a project**  
 Splitting the code into files and modules and building it as a project.  
+*Terms:* separate compilation, OCaml modules  
 → PDF pp. 16–18 in [the PDF](https://drive.google.com/file/d/1BiiOWoRcSxJrGONJw38aEYdhx-0WaOgw/view)
 
 
@@ -81,5 +87,6 @@ The first compiler step: the smallest source language compiled to x86-64 assembl
 
 **The simplest source language**  
 Printing an integer in assembly, assembly treated as an embedded DSL, testing the generated executables, and the build setup.  
+*Terms:* x86-64 assembly, code generation, compiler testing, build system  
 → PDF pp. 19–28 in [the PDF](https://drive.google.com/file/d/1BiiOWoRcSxJrGONJw38aEYdhx-0WaOgw/view)
 

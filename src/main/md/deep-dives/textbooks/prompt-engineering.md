@@ -27,18 +27,22 @@ What a prompt is, why the paper uses the API rather than the chat app, and the s
 
 **Introduction**  
 Anyone can write a prompt, but getting reliable output depends on wording, examples, structure and model settings together.  
+*Terms:* prompt, LLM input  
 → PDF p. 6 in [the PDF](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
 
 **Prompt engineering**  
 Prompt engineering is iterative design of the input so the model predicts the output you want; it works best with direct access to model settings.  
+*Terms:* prompt engineering, Vertex AI  
 → PDF p. 7 in [the PDF](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
 
 **Output length**  
 Limiting output tokens only cuts generation off; it doesn’t make the model concise, so the prompt must ask for brevity too.  
+*Terms:* output length, token limit  
 → PDF p. 8 in [the PDF](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
 
 **Sampling controls**  
 Temperature, top-K and top-P each restrict which tokens can be sampled, and they combine; the paper gives starting values and warns that very low or very high settings cause repetition loops.  
+*Terms:* temperature, top-K, top-P, sampling, repetition loop  
 → PDF pp. 9–12 in [the PDF](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
 
 
@@ -53,42 +57,52 @@ The main prompting techniques, each with a worked prompt and its configuration.
 
 **General prompting / zero shot**  
 A plain instruction with no examples; works for simple tasks and is the baseline.  
+*Terms:* zero-shot prompting  
 → PDF pp. 13–14 in [the PDF](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
 
 **One-shot & few-shot**  
 One or a few examples show the format and the pattern; the examples should be varied and high quality.  
+*Terms:* one-shot prompting, few-shot prompting  
 → PDF pp. 15–17 in [the PDF](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
 
 **System, contextual and role prompting**  
 System prompts set the task and output format, contextual prompts give background, role prompts give a voice; JSON output is recommended for structure.  
+*Terms:* system prompt, contextual prompt, role prompt, JSON output  
 → PDF pp. 18–24 in [the PDF](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
 
 **Step-back prompting**  
 First ask a broader question, then feed its answer into the specific task, to bring relevant background into play.  
+*Terms:* step-back prompting  
 → PDF pp. 25–28 in [the PDF](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
 
 **Chain of Thought (CoT)**  
 Asking for step-by-step reasoning improves answers on reasoning tasks, especially combined with few-shot examples; it costs more tokens.  
+*Terms:* chain of thought, CoT  
 → PDF pp. 29–31 in [the PDF](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
 
 **Self-consistency**  
 Sample several reasoning paths at higher temperature and take the majority answer.  
+*Terms:* self-consistency, majority voting  
 → PDF pp. 32–35 in [the PDF](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
 
 **Tree of Thoughts (ToT)**  
 Explore a tree of intermediate thoughts rather than a single chain, for problems that need search.  
+*Terms:* tree of thoughts, ToT  
 → PDF p. 36 in [the PDF](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
 
 **ReAct (reason & act)**  
 Interleave reasoning with tool calls (for example, search), observing results before the next step.  
+*Terms:* ReAct, tool use, agents  
 → PDF pp. 37–39 in [the PDF](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
 
 **Automatic Prompt Engineering**  
 Use a model to generate candidate prompts, score them, and keep the best.  
+*Terms:* automatic prompt engineering, APE  
 → PDF pp. 40–41 in [the PDF](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
 
 **Code prompting**  
 Prompts for writing, explaining, translating and debugging code, with the caution that generated code must be read and tested.  
+*Terms:* code generation, code explanation, code translation, debugging  
 → PDF pp. 42–53 in [the PDF](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
 
 
@@ -103,62 +117,77 @@ Practical habits for writing, testing and maintaining prompts.
 
 **Provide examples**  
 Examples are the most effective single tool.  
+*Terms:* examples  
 → PDF p. 54 in [the PDF](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
 
 **Design with simplicity**  
 Short, clear prompts with action verbs work better than complex ones.  
+*Terms:* simplicity, action verbs  
 → PDF p. 55 in [the PDF](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
 
 **Be specific about the output**  
 State the desired output precisely.  
+*Terms:* output specification  
 → PDF p. 56 in [the PDF](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
 
 **Use Instructions over Constraints**  
 Positive instructions tend to work better than lists of prohibitions.  
+*Terms:* instructions vs constraints  
 → PDF pp. 56–57 in [the PDF](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
 
 **Control the max token length**  
 Cap output length in the configuration or ask for it in the prompt.  
+*Terms:* max tokens  
 → PDF p. 58 in [the PDF](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
 
 **Use variables in prompts**  
 Variables make prompts reusable across inputs.  
+*Terms:* prompt variables, templates  
 → PDF p. 58 in [the PDF](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
 
 **Experiment with input formats and writing styles**  
 Wording, style and prompt type all change results, so try variants.  
+*Terms:* input format, writing style  
 → PDF p. 59 in [the PDF](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
 
 **For few-shot prompting with classification tasks, mix up the classes**  
 In few-shot classification, shuffle the order of classes so the model doesn’t learn the order.  
+*Terms:* few-shot classification, class order  
 → PDF p. 59 in [the PDF](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
 
 **Adapt to model updates**  
 Retest prompts when the model changes.  
+*Terms:* model updates  
 → PDF p. 60 in [the PDF](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
 
 **Experiment with output formats**  
 Structured formats like JSON reduce hallucination and make output parseable.  
+*Terms:* structured output, JSON  
 → PDF p. 60 in [the PDF](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
 
 **JSON Repair**  
 JSON is verbose and can be cut off; repair libraries fix truncated output.  
+*Terms:* JSON repair  
 → PDF p. 61 in [the PDF](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
 
 **Working with Schemas**  
 JSON Schemas can structure the input too, focusing the model on the relevant fields.  
+*Terms:* JSON Schema, structured input  
 → PDF p. 62 in [the PDF](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
 
 **Experiment together with other prompt engineers**  
 Compare prompts written by several people.  
+*Terms:* collaboration  
 → PDF p. 63 in [the PDF](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
 
 **CoT Best practices**  
 For chain of thought: put the answer after the reasoning, extract it separately, and use temperature 0.  
+*Terms:* CoT best practices, temperature 0  
 → PDF p. 64 in [the PDF](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
 
 **Document the various prompt attempts**  
 Log every attempt (goal, model, settings, prompt, output) in a standard table so results can be compared.  
+*Terms:* prompt documentation, prompt log  
 → PDF pp. 64–65 in [the PDF](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
 
 
@@ -170,6 +199,8 @@ Log every attempt (goal, model, settings, prompt, output) in a standard table so
 *PDF pp. 66–68*
 
 A recap, the prompt-documentation template, and references.
+
+*Terms:* prompt documentation template
 
 → PDF pp. 66–68 in [the PDF](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
 

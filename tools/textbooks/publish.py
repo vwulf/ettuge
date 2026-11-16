@@ -1,8 +1,11 @@
 import json,os,shutil,collections
 R=json.load(open('tools/textbooks/registry.json'))
-D='src/main/md/deep-dives/textbooks'
+D='/home/claude/ettuge/src/main/md/deep-dives/textbooks'
 for slug,work,cat,title,auth,blurb in R:
-    if work: shutil.copy(f'/home/claude/tb/out/{work}.md', f'{D}/{slug}.md')
+    if work:
+        shutil.copy(f'/home/claude/tb/out/{work}.md', f'{D}/{slug}.md')
+        os.makedirs('tools/textbooks/books', exist_ok=True)
+        shutil.copy(f'/home/claude/tb/work/{work}/book.json', f'tools/textbooks/books/{slug}.json')
 by=collections.OrderedDict()
 order=['AI and Machine Learning','Computer Science','Mathematics','Linguistics and Languages','Physics and Engineering','Other']
 for c in order: by[c]=[]

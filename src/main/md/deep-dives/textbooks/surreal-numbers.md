@@ -25,6 +25,8 @@ Two ex-students on a remote beach dig up a stone carved with Conway’s rules fo
 
 Bill and Alice, months into living off the grid, find a buried stone whose inscription describes Conway creating zero from two empty sets, then one and minus one.
 
+*Terms:* Conway, surreal numbers, creation rules
+
 → PDF pp. 2–7 in [the PDF](https://drive.google.com/file/d/12G5Lfual51qlzhWrhZqmOUaSUCjIhtBh/view)
 
 
@@ -36,6 +38,8 @@ Bill and Alice, months into living off the grid, find a buried stone whose inscr
 *PDF pp. 8–13*
 
 Alice rewrites the stone’s rules in symbols: a number is a pair of sets (left, right), and ≤ is defined recursively. They check why the empty-set cases make sense.
+
+*Terms:* left set, right set, less than or equal, empty set
 
 → PDF pp. 8–13 in [the PDF](https://drive.google.com/file/d/12G5Lfual51qlzhWrhZqmOUaSUCjIhtBh/view)
 
@@ -49,6 +53,8 @@ Alice rewrites the stone’s rules in symbols: a number is a pair of sets (left,
 
 They suspect the stone’s “equal” means something weaker, “like”, and start proving small facts about the order, then see a general pattern that covers infinitely many cases.
 
+*Terms:* equality of numbers, proof by generalization
+
 → PDF pp. 14–18 in [the PDF](https://drive.google.com/file/d/12G5Lfual51qlzhWrhZqmOUaSUCjIhtBh/view)
 
 
@@ -60,6 +66,8 @@ They suspect the stone’s “equal” means something weaker, “like”, and s
 *PDF pp. 19–25*
 
 Counting the numbers born on the third day leads them to need transitivity. Trying to disprove it with “bad” triples of numbers, they find that each bad triple yields a simpler one, which is impossible, and so prove the law.
+
+*Terms:* third day numbers, transitivity, proof by contradiction, infinite descent
 
 → PDF pp. 19–25 in [the PDF](https://drive.google.com/file/d/12G5Lfual51qlzhWrhZqmOUaSUCjIhtBh/view)
 

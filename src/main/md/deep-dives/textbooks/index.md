@@ -12,14 +12,10 @@ Partial PDFs (samples, excerpts, unfinished drafts) are marked as such on their 
 ## Computer Science
 
 - [Compilers: Course Notes](kiselyov-compilers-notes) (Kiselyov): an OCaml compiler to x86-64 in tagless-final style (first 28 pages)
-- [Programming in Lean](programming-in-lean) (Avigad, de Moura, Roesch): monads and tactic writing in Lean 3 (unfinished)
-- [The Lambda Calculus (preview)](barendregt-lambda-calculus-preview) (Barendregt): publisher sample: contents and the start of chapter 1
-- [Thinking with Types (sample)](thinking-with-types-sample) (Maguire): the algebra of types, variance, GADTs
 
 ## Mathematics
 
 - [Intuitionistic Type Theory](martin-lof-intuitionistic-type-theory) (Martin-Löf): meaning explanations and the type formers
-- [Monoidal Category Theory (opening chapters)](yanofsky-monoidal-category-theory) (Yanofsky): why monoidal categories, and sets as a warm-up
 - [Surreal Numbers (opening chapters)](surreal-numbers) (Knuth): Conway’s numbers rediscovered as a story
 
 ## Other

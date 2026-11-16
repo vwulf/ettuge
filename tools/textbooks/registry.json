@@ -1,13 +1,58 @@
 [
- ["understanding-deep-learning", null, "AI and Machine Learning", "Understanding Deep Learning", "Prince", "shallow networks to diffusion models, 18 chapters"],
- ["prompt-engineering", "prompt-engineering", "AI and Machine Learning", "Prompt Engineering", "Boonstra (Google)", "sampling settings, prompting techniques, best practices"],
- ["kiselyov-compilers-notes", "compiler-notes", "Computer Science", "Compilers: Course Notes", "Kiselyov", "an OCaml compiler to x86-64 in tagless-final style (first 28 pages)"],
- ["barendregt-lambda-calculus-preview", "lambda-preview", "Computer Science", "The Lambda Calculus (preview)", "Barendregt", "publisher sample: contents and the start of chapter 1"],
- ["programming-in-lean", "programming-in-lean", "Computer Science", "Programming in Lean", "Avigad, de Moura, Roesch", "monads and tactic writing in Lean 3 (unfinished)"],
- ["thinking-with-types-sample", "thinking-with-types", "Computer Science", "Thinking with Types (sample)", "Maguire", "the algebra of types, variance, GADTs"],
- ["martin-lof-intuitionistic-type-theory", "martin-lof", "Mathematics", "Intuitionistic Type Theory", "Martin-Löf", "meaning explanations and the type formers"],
- ["yanofsky-monoidal-category-theory", "mc-beginning", "Mathematics", "Monoidal Category Theory (opening chapters)", "Yanofsky", "why monoidal categories, and sets as a warm-up"],
- ["surreal-numbers", "surreal", "Mathematics", "Surreal Numbers (opening chapters)", "Knuth", "Conway’s numbers rediscovered as a story"],
- ["polynomial-times-2026", "polynomial-times", "Other", "Polynomial Times 2026–27", "Simons Institute", "AI and theory, fairness, quantum, SNARGs"],
- ["kettlebell-code", "kettlebell", "Other", "The Kettlebell Code", "Dzemaili", "mobility, grinds, ballistics and sessions after 40"]
+ [
+  "understanding-deep-learning",
+  "understanding-deep-learning",
+  "AI and Machine Learning",
+  "Understanding Deep Learning",
+  "Prince",
+  "shallow networks to diffusion models, 18 chapters"
+ ],
+ [
+  "prompt-engineering",
+  "prompt-engineering",
+  "AI and Machine Learning",
+  "Prompt Engineering",
+  "Boonstra (Google)",
+  "sampling settings, prompting techniques, best practices"
+ ],
+ [
+  "kiselyov-compilers-notes",
+  "compiler-notes",
+  "Computer Science",
+  "Compilers: Course Notes",
+  "Kiselyov",
+  "an OCaml compiler to x86-64 in tagless-final style (first 28 pages)"
+ ],
+ [
+  "martin-lof-intuitionistic-type-theory",
+  "martin-lof",
+  "Mathematics",
+  "Intuitionistic Type Theory",
+  "Martin-Löf",
+  "meaning explanations and the type formers"
+ ],
+ [
+  "surreal-numbers",
+  "surreal",
+  "Mathematics",
+  "Surreal Numbers (opening chapters)",
+  "Knuth",
+  "Conway’s numbers rediscovered as a story"
+ ],
+ [
+  "polynomial-times-2026",
+  "polynomial-times",
+  "Other",
+  "Polynomial Times 2026–27",
+  "Simons Institute",
+  "AI and theory, fairness, quantum, SNARGs"
+ ],
+ [
+  "kettlebell-code",
+  "kettlebell",
+  "Other",
+  "The Kettlebell Code",
+  "Dzemaili",
+  "mobility, grinds, ballistics and sessions after 40"
+ ]
 ]
