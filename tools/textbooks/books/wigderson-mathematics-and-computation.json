@@ -1,0 +1,1119 @@
+{
+ "title": "Mathematics and Computation",
+ "byline": "Avi Wigderson \u00b7 Princeton University Press, 2019 (author\u2019s online draft, August 2019)",
+ "note": "The long reference list is not broken down. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "A panoramic tour of the theory of computation written for mathematicians and curious scientists rather than specialists. Wigderson surveys computational complexity (P, NP, reductions, circuits and lower bounds, proof complexity), the role of randomness (pseudo-randomness, derandomization, expanders, extractors), interactive and probabilistically checkable proofs, quantum and arithmetic complexity, and models of limited resources (space, communication, online, learning, cryptography, distributed computing). A long interlude shows concrete two-way traffic between complexity and fields from number theory to invariant theory, and the epilogue argues that computation is a lens on all of science.",
+ "chapters": [
+  {
+   "title": "Introduction",
+   "start": 17,
+   "end": 26,
+   "sections": [
+    {
+     "title": "On the interactions of math and computation",
+     "start": 17,
+     "end": 19,
+     "summary": "Historical and conceptual links between mathematics and computing.",
+     "terms": [
+      "mathematics and computation"
+     ]
+    },
+    {
+     "title": "Computational complexity theory",
+     "start": 20,
+     "end": 20,
+     "summary": "What complexity theory asks.",
+     "terms": [
+      "complexity theory"
+     ]
+    },
+    {
+     "title": "The nature, purpose, and style of this book",
+     "start": 21,
+     "end": 21,
+     "summary": "The book\u2019s aims and informal style.",
+     "terms": [
+      "style"
+     ]
+    },
+    {
+     "title": "Who is this book for?",
+     "start": 21,
+     "end": 21,
+     "summary": "Intended readers.",
+     "terms": [
+      "audience"
+     ]
+    },
+    {
+     "title": "Organization of the book",
+     "start": 22,
+     "end": 25,
+     "summary": "A chapter-by-chapter guide.",
+     "terms": [
+      "organization"
+     ]
+    },
+    {
+     "title": "Notation and conventions",
+     "start": 26,
+     "end": 26,
+     "summary": "Notation.",
+     "terms": [
+      "notation"
+     ]
+    }
+   ],
+   "summary": "Why math and computation are intertwined, and how the book is organized."
+  },
+  {
+   "title": "Prelude: Computation, undecidability, and limits to mathematical knowledge",
+   "start": 27,
+   "end": 30,
+   "sections": [],
+   "summary": "Turing, G\u00f6del and the limits of what can be computed or proved.",
+   "terms": [
+    "undecidability",
+    "halting problem",
+    "Turing machine",
+    "G\u00f6del incompleteness",
+    "Hilbert program"
+   ]
+  },
+  {
+   "title": "Computational complexity 101: The basics, P, and NP",
+   "start": 31,
+   "end": 52,
+   "sections": [
+    {
+     "title": "Motivating examples",
+     "start": 31,
+     "end": 32,
+     "summary": "Examples of easy and hard problems.",
+     "terms": [
+      "examples"
+     ]
+    },
+    {
+     "title": "Efficient computation and the class P",
+     "start": 33,
+     "end": 35,
+     "summary": "Polynomial time and the class P.",
+     "terms": [
+      "P",
+      "polynomial time"
+     ]
+    },
+    {
+     "title": "Efficient verification and the class NP",
+     "start": 36,
+     "end": 38,
+     "summary": "Efficient verification and NP.",
+     "terms": [
+      "NP",
+      "verification"
+     ]
+    },
+    {
+     "title": "The P vs. NP question: Its meaning and importance",
+     "start": 39,
+     "end": 41,
+     "summary": "Why P vs. NP matters.",
+     "terms": [
+      "P vs NP"
+     ]
+    },
+    {
+     "title": "The class coNP, the NP vs. coNP question, and efficiently characterizable structures",
+     "start": 42,
+     "end": 44,
+     "summary": "coNP and efficient characterizations.",
+     "terms": [
+      "coNP",
+      "good characterization"
+     ]
+    },
+    {
+     "title": "Reductions: A partial order of computational difficulty",
+     "start": 45,
+     "end": 45,
+     "summary": "Reductions.",
+     "terms": [
+      "reductions"
+     ]
+    },
+    {
+     "title": "Completeness: Problems capturing complexity classes",
+     "start": 46,
+     "end": 46,
+     "summary": "Complete problems.",
+     "terms": [
+      "completeness"
+     ]
+    },
+    {
+     "title": "NP-completeness",
+     "start": 46,
+     "end": 47,
+     "summary": "The Cook\u2013Levin theorem.",
+     "terms": [
+      "NP-completeness",
+      "Cook-Levin"
+     ]
+    },
+    {
+     "title": "Some NP-complete problems",
+     "start": 48,
+     "end": 48,
+     "summary": "Classic NP-complete problems.",
+     "terms": [
+      "SAT",
+      "3-coloring"
+     ]
+    },
+    {
+     "title": "The nature and impact of NP-completeness",
+     "start": 49,
+     "end": 52,
+     "summary": "The impact of NP-completeness across sciences.",
+     "terms": [
+      "impact"
+     ]
+    }
+   ],
+   "summary": "The core definitions of efficient computation and verification."
+  },
+  {
+   "title": "Problems and classes inside (and around) NP",
+   "start": 53,
+   "end": 63,
+   "sections": [
+    {
+     "title": "Other types of computational problems and complexity classes",
+     "start": 53,
+     "end": 53,
+     "summary": "Search, optimization, counting and their classes.",
+     "terms": [
+      "search problems",
+      "#P"
+     ]
+    },
+    {
+     "title": "Between P and NP",
+     "start": 54,
+     "end": 55,
+     "summary": "Factoring, graph isomorphism and Ladner\u2019s theorem.",
+     "terms": [
+      "Ladner theorem",
+      "graph isomorphism",
+      "factoring"
+     ]
+    },
+    {
+     "title": "Constraint satisfaction problems (CSPs)",
+     "start": 56,
+     "end": 58,
+     "summary": "CSPs and dichotomy theorems.",
+     "terms": [
+      "CSP",
+      "dichotomy"
+     ]
+    },
+    {
+     "title": "Average-case complexity",
+     "start": 59,
+     "end": 59,
+     "summary": "Hardness on average.",
+     "terms": [
+      "average-case complexity"
+     ]
+    },
+    {
+     "title": "One-way functions, trap-door functions, and cryptography",
+     "start": 60,
+     "end": 63,
+     "summary": "One-way functions and cryptography.",
+     "terms": [
+      "one-way functions",
+      "trapdoor",
+      "cryptography"
+     ]
+    }
+   ],
+   "summary": "Search, counting and other problem types, and what lies between P and NP."
+  },
+  {
+   "title": "Lower bounds, Boolean circuits, and attacks on P vs. NP",
+   "start": 64,
+   "end": 72,
+   "sections": [
+    {
+     "title": "Diagonalization and relativization",
+     "start": 64,
+     "end": 64,
+     "summary": "Diagonalization and the relativization barrier.",
+     "terms": [
+      "diagonalization",
+      "relativization"
+     ]
+    },
+    {
+     "title": "Boolean circuits",
+     "start": 65,
+     "end": 72,
+     "summary": "Circuit lower bounds, natural proofs and restricted models.",
+     "terms": [
+      "Boolean circuits",
+      "lower bounds",
+      "natural proofs",
+      "monotone circuits"
+     ]
+    }
+   ],
+   "summary": "Why proving lower bounds is hard and what circuits reveal."
+  },
+  {
+   "title": "Proof complexity",
+   "start": 73,
+   "end": 85,
+   "sections": [
+    {
+     "title": "The pigeonhole principle\u2014a motivating example",
+     "start": 75,
+     "end": 75,
+     "summary": "The pigeonhole principle as a hard tautology.",
+     "terms": [
+      "pigeonhole principle"
+     ]
+    },
+    {
+     "title": "Propositional proof systems and NP vs. coNP",
+     "start": 76,
+     "end": 76,
+     "summary": "Proof systems and NP vs. coNP.",
+     "terms": [
+      "propositional proof systems",
+      "Cook-Reckhow"
+     ]
+    },
+    {
+     "title": "Concrete proof systems",
+     "start": 77,
+     "end": 83,
+     "summary": "Resolution, Frege, cutting planes and algebraic systems.",
+     "terms": [
+      "resolution",
+      "Frege",
+      "cutting planes"
+     ]
+    },
+    {
+     "title": "Proof complexity vs. circuit complexity",
+     "start": 84,
+     "end": 85,
+     "summary": "Links between proof and circuit lower bounds.",
+     "terms": [
+      "proof complexity vs circuit complexity"
+     ]
+    }
+   ],
+   "summary": "How long must proofs of tautologies be?"
+  },
+  {
+   "title": "Randomness in computation",
+   "start": 86,
+   "end": 97,
+   "sections": [
+    {
+     "title": "The power of randomness in algorithms",
+     "start": 86,
+     "end": 87,
+     "summary": "Randomized algorithms such as polynomial identity testing.",
+     "terms": [
+      "randomized algorithms",
+      "BPP",
+      "polynomial identity testing"
+     ]
+    },
+    {
+     "title": "The weakness of randomness in algorithms",
+     "start": 88,
+     "end": 90,
+     "summary": "Hardness versus randomness and derandomization.",
+     "terms": [
+      "derandomization",
+      "hardness vs randomness"
+     ]
+    },
+    {
+     "title": "Computational pseudo-randomness and pseudo-random generators",
+     "start": 91,
+     "end": 97,
+     "summary": "Pseudo-random generators from hard functions.",
+     "terms": [
+      "pseudo-random generators"
+     ]
+    }
+   ],
+   "summary": "What randomness buys algorithms, and why it may be unnecessary."
+  },
+  {
+   "title": "Abstract pseudo-randomness",
+   "start": 98,
+   "end": 112,
+   "sections": [
+    {
+     "title": "Motivating examples",
+     "start": 98,
+     "end": 98,
+     "summary": "Examples.",
+     "terms": [
+      "pseudo-randomness"
+     ]
+    },
+    {
+     "title": "General pseudo-random properties and finding hay in haystacks",
+     "start": 99,
+     "end": 99,
+     "summary": "Finding explicit objects with random-like properties.",
+     "terms": [
+      "explicit constructions"
+     ]
+    },
+    {
+     "title": "The Riemann hypothesis",
+     "start": 100,
+     "end": 101,
+     "summary": "The Riemann hypothesis as a pseudo-randomness statement.",
+     "terms": [
+      "Riemann hypothesis"
+     ]
+    },
+    {
+     "title": "P vs. NP",
+     "start": 102,
+     "end": 102,
+     "summary": "P vs. NP in the same light.",
+     "terms": [
+      "P vs NP"
+     ]
+    },
+    {
+     "title": "Computational pseudo-randomness and de-randomization",
+     "start": 103,
+     "end": 104,
+     "summary": "Derandomization.",
+     "terms": [
+      "derandomization"
+     ]
+    },
+    {
+     "title": "Quasi-random graphs",
+     "start": 105,
+     "end": 105,
+     "summary": "Quasi-random graphs.",
+     "terms": [
+      "quasi-random graphs"
+     ]
+    },
+    {
+     "title": "Expanders",
+     "start": 106,
+     "end": 108,
+     "summary": "Expander graphs.",
+     "terms": [
+      "expanders"
+     ]
+    },
+    {
+     "title": "Structure vs. pseudo-randomness",
+     "start": 109,
+     "end": 112,
+     "summary": "The structure-versus-randomness dichotomy.",
+     "terms": [
+      "structure vs randomness"
+     ]
+    }
+   ],
+   "summary": "Pseudo-randomness as a unifying idea across mathematics."
+  },
+  {
+   "title": "Weak random sources and randomness extractors",
+   "start": 113,
+   "end": 118,
+   "sections": [
+    {
+     "title": "Min-entropy and randomness extractors",
+     "start": 114,
+     "end": 115,
+     "summary": "Min-entropy and extractors.",
+     "terms": [
+      "min-entropy",
+      "randomness extractor"
+     ]
+    },
+    {
+     "title": "Explicit constructions of extractors",
+     "start": 116,
+     "end": 117,
+     "summary": "Explicit extractor constructions.",
+     "terms": [
+      "explicit constructions"
+     ]
+    },
+    {
+     "title": "Structured weak sources, and deterministic extractors",
+     "start": 118,
+     "end": 118,
+     "summary": "Deterministic extractors for structured sources.",
+     "terms": [
+      "deterministic extractors"
+     ]
+    }
+   ],
+   "summary": "Purifying imperfect sources of randomness."
+  },
+  {
+   "title": "Randomness and interaction in proofs",
+   "start": 119,
+   "end": 129,
+   "sections": [
+    {
+     "title": "Interactive proof systems",
+     "start": 120,
+     "end": 121,
+     "summary": "Interactive proofs and IP = PSPACE.",
+     "terms": [
+      "interactive proofs",
+      "IP=PSPACE"
+     ]
+    },
+    {
+     "title": "Zero-knowledge proof systems",
+     "start": 122,
+     "end": 124,
+     "summary": "Zero-knowledge proofs.",
+     "terms": [
+      "zero-knowledge"
+     ]
+    },
+    {
+     "title": "Probabilistically checkable proofs (PCPs), and hardness of approximation",
+     "start": 125,
+     "end": 126,
+     "summary": "The PCP theorem and hardness of approximation.",
+     "terms": [
+      "PCP theorem",
+      "hardness of approximation"
+     ]
+    },
+    {
+     "title": "Perspective and impact",
+     "start": 127,
+     "end": 129,
+     "summary": "Their influence.",
+     "terms": [
+      "impact"
+     ]
+    }
+   ],
+   "summary": "Proofs that use interaction and randomness."
+  },
+  {
+   "title": "Quantum computing",
+   "start": 130,
+   "end": 139,
+   "sections": [
+    {
+     "title": "Building a quantum computer",
+     "start": 133,
+     "end": 133,
+     "summary": "Physical challenges.",
+     "terms": [
+      "quantum computer"
+     ]
+    },
+    {
+     "title": "Quantum proofs, quantum Hamiltonian complexity, and dynamics",
+     "start": 134,
+     "end": 136,
+     "summary": "QMA and Hamiltonian complexity.",
+     "terms": [
+      "QMA",
+      "local Hamiltonian"
+     ]
+    },
+    {
+     "title": "Quantum interactive proofs, and testing quantum mechanics",
+     "start": 137,
+     "end": 137,
+     "summary": "Quantum interactive proofs and testing quantum mechanics.",
+     "terms": [
+      "quantum interactive proofs"
+     ]
+    },
+    {
+     "title": "Quantum randomness: Certification and expansion",
+     "start": 138,
+     "end": 139,
+     "summary": "Certified randomness.",
+     "terms": [
+      "certified randomness"
+     ]
+    }
+   ],
+   "summary": "Quantum computation from the complexity viewpoint."
+  },
+  {
+   "title": "Arithmetic complexity",
+   "start": 140,
+   "end": 150,
+   "sections": [
+    {
+     "title": "Motivation: Univariate polynomials",
+     "start": 140,
+     "end": 140,
+     "summary": "Univariate examples.",
+     "terms": [
+      "arithmetic complexity"
+     ]
+    },
+    {
+     "title": "Basic definitions, questions, and results",
+     "start": 140,
+     "end": 141,
+     "summary": "Arithmetic circuits and formulas.",
+     "terms": [
+      "arithmetic circuits"
+     ]
+    },
+    {
+     "title": "The complexity of basic polynomials",
+     "start": 142,
+     "end": 145,
+     "summary": "Determinant, permanent and matrix multiplication.",
+     "terms": [
+      "determinant",
+      "permanent",
+      "matrix multiplication"
+     ]
+    },
+    {
+     "title": "Reductions and completeness, VP and VNP",
+     "start": 146,
+     "end": 147,
+     "summary": "VP vs. VNP.",
+     "terms": [
+      "VP",
+      "VNP",
+      "Valiant"
+     ]
+    },
+    {
+     "title": "Restricted models",
+     "start": 148,
+     "end": 150,
+     "summary": "Restricted models.",
+     "terms": [
+      "restricted models"
+     ]
+    }
+   ],
+   "summary": "The complexity of computing polynomials."
+  },
+  {
+   "title": "Interlude: Concrete interactions between math and computational complexity",
+   "start": 151,
+   "end": 169,
+   "sections": [
+    {
+     "title": "Number theory",
+     "start": 151,
+     "end": 152,
+     "summary": "Number theory.",
+     "terms": [
+      "number theory"
+     ]
+    },
+    {
+     "title": "Combinatorial geometry",
+     "start": 153,
+     "end": 153,
+     "summary": "Combinatorial geometry.",
+     "terms": [
+      "combinatorial geometry"
+     ]
+    },
+    {
+     "title": "Operator theory",
+     "start": 154,
+     "end": 154,
+     "summary": "Operator theory (Kadison\u2013Singer).",
+     "terms": [
+      "Kadison-Singer"
+     ]
+    },
+    {
+     "title": "Metric geometry",
+     "start": 155,
+     "end": 155,
+     "summary": "Metric embeddings.",
+     "terms": [
+      "metric embeddings"
+     ]
+    },
+    {
+     "title": "Group theory",
+     "start": 156,
+     "end": 157,
+     "summary": "Group theory.",
+     "terms": [
+      "group theory"
+     ]
+    },
+    {
+     "title": "Statistical physics",
+     "start": 158,
+     "end": 159,
+     "summary": "Statistical physics.",
+     "terms": [
+      "statistical physics"
+     ]
+    },
+    {
+     "title": "Analysis and probability",
+     "start": 160,
+     "end": 162,
+     "summary": "Analysis and probability.",
+     "terms": [
+      "Fourier analysis"
+     ]
+    },
+    {
+     "title": "Lattice theory",
+     "start": 163,
+     "end": 164,
+     "summary": "Lattices.",
+     "terms": [
+      "lattices"
+     ]
+    },
+    {
+     "title": "Invariant theory",
+     "start": 165,
+     "end": 169,
+     "summary": "Invariant theory and GCT.",
+     "terms": [
+      "invariant theory",
+      "geometric complexity theory"
+     ]
+    }
+   ],
+   "summary": "Concrete results where complexity meets other fields."
+  },
+  {
+   "title": "Space complexity: Modeling limited memory",
+   "start": 170,
+   "end": 176,
+   "sections": [
+    {
+     "title": "Basic space complexity",
+     "start": 170,
+     "end": 171,
+     "summary": "L, PSPACE and Savitch\u2019s theorem.",
+     "terms": [
+      "space complexity",
+      "Savitch"
+     ]
+    },
+    {
+     "title": "Streaming and sketching",
+     "start": 172,
+     "end": 173,
+     "summary": "Streaming algorithms and sketches.",
+     "terms": [
+      "streaming",
+      "sketching"
+     ]
+    },
+    {
+     "title": "Finite automata and counting",
+     "start": 174,
+     "end": 176,
+     "summary": "Automata and counting.",
+     "terms": [
+      "finite automata"
+     ]
+    }
+   ],
+   "summary": "Computation with limited memory."
+  },
+  {
+   "title": "Communication complexity: Modeling information bottlenecks",
+   "start": 177,
+   "end": 194,
+   "sections": [
+    {
+     "title": "Basic definitions and results",
+     "start": 177,
+     "end": 179,
+     "summary": "Two-party protocols and rank, fooling sets.",
+     "terms": [
+      "communication complexity"
+     ]
+    },
+    {
+     "title": "Applications",
+     "start": 180,
+     "end": 187,
+     "summary": "Applications to circuits, data structures, streaming.",
+     "terms": [
+      "applications"
+     ]
+    },
+    {
+     "title": "Interactive information theory and coding theory",
+     "start": 188,
+     "end": 194,
+     "summary": "Information complexity and interactive coding.",
+     "terms": [
+      "information complexity",
+      "interactive coding"
+     ]
+    }
+   ],
+   "summary": "Lower bounds from limited communication."
+  },
+  {
+   "title": "On-line algorithms: Coping with an unknown future",
+   "start": 195,
+   "end": 200,
+   "sections": [
+    {
+     "title": "Paging, caching, and the k-server problem",
+     "start": 196,
+     "end": 196,
+     "summary": "Competitive analysis of paging and k-server.",
+     "terms": [
+      "online algorithms",
+      "competitive ratio",
+      "paging",
+      "k-server"
+     ]
+    },
+    {
+     "title": "Expert advice, portfolio management, repeated games, and the multiplicative weights algorithm",
+     "start": 197,
+     "end": 200,
+     "summary": "Experts and multiplicative weights.",
+     "terms": [
+      "multiplicative weights",
+      "experts"
+     ]
+    }
+   ],
+   "summary": "Decisions without knowing the future."
+  },
+  {
+   "title": "Computational learning theory, AI, and beyond",
+   "start": 201,
+   "end": 217,
+   "sections": [
+    {
+     "title": "Classifying hyperplanes: A motivating example",
+     "start": 202,
+     "end": 203,
+     "summary": "Learning a separating hyperplane.",
+     "terms": [
+      "perceptron"
+     ]
+    },
+    {
+     "title": "Classification/Identification: Some choices and modeling issues",
+     "start": 204,
+     "end": 204,
+     "summary": "Modeling choices for learning.",
+     "terms": [
+      "learning models"
+     ]
+    },
+    {
+     "title": "Identification in the limit: A linguistic/recursion theoretic approach",
+     "start": 205,
+     "end": 207,
+     "summary": "Gold\u2019s identification in the limit.",
+     "terms": [
+      "identification in the limit"
+     ]
+    },
+    {
+     "title": "Probably, approximately correct (PAC) learning: A statistical approach",
+     "start": 208,
+     "end": 217,
+     "summary": "PAC learning, VC dimension, boosting.",
+     "terms": [
+      "PAC learning",
+      "VC dimension",
+      "boosting"
+     ]
+    }
+   ],
+   "summary": "Learning theory from computational and statistical angles."
+  },
+  {
+   "title": "Cryptography: Modeling secrets and lies, knowledge and trust",
+   "start": 218,
+   "end": 233,
+   "sections": [
+    {
+     "title": "The ambitions of modern cryptography",
+     "start": 218,
+     "end": 218,
+     "summary": "What modern crypto aims for.",
+     "terms": [
+      "cryptography"
+     ]
+    },
+    {
+     "title": "Information theory vs. complexity theory: Take 1",
+     "start": 219,
+     "end": 219,
+     "summary": "Shannon secrecy vs. computational secrecy.",
+     "terms": [
+      "perfect secrecy"
+     ]
+    },
+    {
+     "title": "The axioms of modern, complexity-based cryptography",
+     "start": 219,
+     "end": 219,
+     "summary": "One-way functions as axioms.",
+     "terms": [
+      "one-way functions"
+     ]
+    },
+    {
+     "title": "Cryptographic definitions",
+     "start": 220,
+     "end": 221,
+     "summary": "Defining security.",
+     "terms": [
+      "security definitions"
+     ]
+    },
+    {
+     "title": "Probabilistic encryption",
+     "start": 222,
+     "end": 222,
+     "summary": "Probabilistic encryption.",
+     "terms": [
+      "probabilistic encryption"
+     ]
+    },
+    {
+     "title": "Basic paradigms for security definitions",
+     "start": 223,
+     "end": 226,
+     "summary": "Simulation-based definitions.",
+     "terms": [
+      "simulation paradigm"
+     ]
+    },
+    {
+     "title": "Secure multi-party computation",
+     "start": 227,
+     "end": 228,
+     "summary": "Secure multi-party computation.",
+     "terms": [
+      "secure multiparty computation"
+     ]
+    },
+    {
+     "title": "Information theory vs. complexity theory: Take 2",
+     "start": 229,
+     "end": 229,
+     "summary": "Revisiting information vs. complexity.",
+     "terms": [
+      "information theoretic"
+     ]
+    },
+    {
+     "title": "More recent advances",
+     "start": 230,
+     "end": 231,
+     "summary": "FHE, obfuscation and other advances.",
+     "terms": [
+      "homomorphic encryption",
+      "obfuscation"
+     ]
+    },
+    {
+     "title": "Physical attacks",
+     "start": 232,
+     "end": 232,
+     "summary": "Side-channel attacks.",
+     "terms": [
+      "side channels"
+     ]
+    },
+    {
+     "title": "The complexity of factoring",
+     "start": 233,
+     "end": 233,
+     "summary": "The difficulty of factoring.",
+     "terms": [
+      "factoring"
+     ]
+    }
+   ],
+   "summary": "Complexity-based cryptography."
+  },
+  {
+   "title": "Distributed computing: Coping with asynchrony",
+   "start": 234,
+   "end": 247,
+   "sections": [
+    {
+     "title": "High-level modeling issues",
+     "start": 234,
+     "end": 235,
+     "summary": "Modeling issues.",
+     "terms": [
+      "distributed models"
+     ]
+    },
+    {
+     "title": "Sharing resources and the dining philosophers problem",
+     "start": 236,
+     "end": 237,
+     "summary": "Dining philosophers.",
+     "terms": [
+      "dining philosophers"
+     ]
+    },
+    {
+     "title": "Coordination: Consensus and Byzantine generals",
+     "start": 238,
+     "end": 239,
+     "summary": "Consensus and Byzantine agreement.",
+     "terms": [
+      "consensus",
+      "Byzantine generals"
+     ]
+    },
+    {
+     "title": "Renaming, k-set agreement, and beyond",
+     "start": 240,
+     "end": 245,
+     "summary": "Renaming and k-set agreement via topology.",
+     "terms": [
+      "renaming",
+      "k-set agreement",
+      "topology"
+     ]
+    },
+    {
+     "title": "Local synchronous coloring",
+     "start": 246,
+     "end": 247,
+     "summary": "Local coloring.",
+     "terms": [
+      "local algorithms",
+      "coloring"
+     ]
+    }
+   ],
+   "summary": "Distributed computing as coping with uncertainty and asynchrony."
+  },
+  {
+   "title": "Epilogue: A broader perspective of ToC",
+   "start": 248,
+   "end": 281,
+   "sections": [
+    {
+     "title": "Close collaborations and interactions",
+     "start": 249,
+     "end": 253,
+     "summary": "Collaborations with other sciences.",
+     "terms": [
+      "interdisciplinary"
+     ]
+    },
+    {
+     "title": "What is computation?",
+     "start": 254,
+     "end": 254,
+     "summary": "What counts as computation.",
+     "terms": [
+      "computation"
+     ]
+    },
+    {
+     "title": "ToC methodology",
+     "start": 255,
+     "end": 257,
+     "summary": "ToC\u2019s methodology.",
+     "terms": [
+      "methodology"
+     ]
+    },
+    {
+     "title": "The computational complexity lens on the sciences",
+     "start": 258,
+     "end": 268,
+     "summary": "Computation as a lens on biology, physics, economics and more.",
+     "terms": [
+      "sciences"
+     ]
+    },
+    {
+     "title": "Conceptual contributions; or, algorithms and philosophy",
+     "start": 269,
+     "end": 270,
+     "summary": "Philosophical contributions.",
+     "terms": [
+      "philosophy"
+     ]
+    },
+    {
+     "title": "Algorithms and technology",
+     "start": 271,
+     "end": 272,
+     "summary": "Technology.",
+     "terms": [
+      "technology"
+     ]
+    },
+    {
+     "title": "Some important challenges of ToC",
+     "start": 273,
+     "end": 277,
+     "summary": "Open challenges.",
+     "terms": [
+      "open problems"
+     ]
+    },
+    {
+     "title": "K\u201312 education",
+     "start": 278,
+     "end": 279,
+     "summary": "Education.",
+     "terms": [
+      "education"
+     ]
+    },
+    {
+     "title": "The ToC community",
+     "start": 280,
+     "end": 281,
+     "summary": "The research community.",
+     "terms": [
+      "community"
+     ]
+    }
+   ],
+   "summary": "The theory of computation in a wider frame."
+  }
+ ],
+ "url": "https://drive.google.com/file/d/1eLYGv4VWu9qOWTEvj6uxuCP6RtFqyHtx/view"
+}

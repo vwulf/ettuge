@@ -1,0 +1,773 @@
+{
+ "title": "Graph Theory and Additive Combinatorics",
+ "byline": "Yufei Zhao \u00b7 Cambridge University Press, 2023 (author\u2019s version)",
+ "note": "Exercise lists inside chapters are not broken out. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "A graduate text built around the parallels between extremal graph theory and additive combinatorics, organized by the question of when dense structures must contain patterns like triangles or arithmetic progressions. It covers Tur\u00e1n-type problems, the regularity method and removal lemmas, pseudorandom graphs and spectral methods, graph limits (graphons), homomorphism inequalities, Fourier-analytic and polynomial proofs of Roth\u2019s theorem, Freiman\u2019s theorem on sets with small doubling, the sum-product problem, and the Green\u2013Tao theorem via the transference principle.",
+ "chapters": [
+  {
+   "title": "0 Appetizer: Triangles and Equations",
+   "start": 17,
+   "end": 26,
+   "sections": [
+    {
+     "title": "0.1 Schur's Theorem",
+     "start": 17,
+     "end": 20,
+     "summary": "Monochromatic solutions to x + y = z.",
+     "terms": [
+      "Schur theorem"
+     ]
+    },
+    {
+     "title": "0.2 Progressions",
+     "start": 21,
+     "end": 24,
+     "summary": "Van der Waerden and Szemer\u00e9di theorems.",
+     "terms": [
+      "arithmetic progressions",
+      "van der Waerden",
+      "Szemer\u00e9di"
+     ]
+    },
+    {
+     "title": "0.3 What's Next in the Book?",
+     "start": 25,
+     "end": 26,
+     "summary": "Roadmap.",
+     "terms": [
+      "overview"
+     ]
+    }
+   ],
+   "summary": "Schur\u2019s theorem and progressions as a preview of the book\u2019s themes."
+  },
+  {
+   "title": "1 Forbidding a Subgraph",
+   "start": 27,
+   "end": 68,
+   "sections": [
+    {
+     "title": "1.1 Forbidding a Triangle: Mantel's Theorem",
+     "start": 28,
+     "end": 29,
+     "summary": "Mantel\u2019s theorem.",
+     "terms": [
+      "Mantel theorem"
+     ]
+    },
+    {
+     "title": "1.2 Forbidding a Clique: Tur\u00e1n's Theorem",
+     "start": 30,
+     "end": 34,
+     "summary": "Tur\u00e1n\u2019s theorem.",
+     "terms": [
+      "Tur\u00e1n theorem"
+     ]
+    },
+    {
+     "title": "1.3 Tur\u00e1n Density and Supersaturation",
+     "start": 35,
+     "end": 37,
+     "summary": "Tur\u00e1n density and supersaturation.",
+     "terms": [
+      "Tur\u00e1n density",
+      "supersaturation"
+     ]
+    },
+    {
+     "title": "1.4 Forbidding a Complete Bipartite Graph: K\u0151v\u00e1ri\u2013S\u00f3s\u2013Tur\u00e1n Theorem",
+     "start": 38,
+     "end": 42,
+     "summary": "K\u0151v\u00e1ri\u2013S\u00f3s\u2013Tur\u00e1n for bipartite graphs.",
+     "terms": [
+      "K\u0151v\u00e1ri-S\u00f3s-Tur\u00e1n",
+      "Zarankiewicz"
+     ]
+    },
+    {
+     "title": "1.5 Forbidding a General Subgraph: Erd\u0151s\u2013Stone\u2013Simonovits Theorem",
+     "start": 43,
+     "end": 46,
+     "summary": "Erd\u0151s\u2013Stone\u2013Simonovits.",
+     "terms": [
+      "Erd\u0151s-Stone-Simonovits"
+     ]
+    },
+    {
+     "title": "1.6 Forbidding a Cycle",
+     "start": 47,
+     "end": 48,
+     "summary": "Even cycles.",
+     "terms": [
+      "even cycles"
+     ]
+    },
+    {
+     "title": "1.7 Forbidding a Sparse Bipartite Graph: Dependent Random Choice",
+     "start": 49,
+     "end": 52,
+     "summary": "Dependent random choice.",
+     "terms": [
+      "dependent random choice"
+     ]
+    },
+    {
+     "title": "1.8 Lower Bound Constructions: Overview",
+     "start": 53,
+     "end": 53,
+     "summary": "Overview of lower-bound constructions.",
+     "terms": [
+      "lower bounds"
+     ]
+    },
+    {
+     "title": "1.9 Randomized Constructions",
+     "start": 54,
+     "end": 55,
+     "summary": "Random constructions.",
+     "terms": [
+      "probabilistic method",
+      "deletion"
+     ]
+    },
+    {
+     "title": "1.10 Algebraic Constructions",
+     "start": 56,
+     "end": 61,
+     "summary": "Algebraic constructions.",
+     "terms": [
+      "algebraic constructions",
+      "norm graphs"
+     ]
+    },
+    {
+     "title": "1.11 Randomized Algebraic Constructions",
+     "start": 62,
+     "end": 68,
+     "summary": "Randomized algebraic constructions.",
+     "terms": [
+      "random polynomials"
+     ]
+    }
+   ],
+   "summary": "Extremal graphs that avoid a given subgraph."
+  },
+  {
+   "title": "2 Graph Regularity Method",
+   "start": 69,
+   "end": 106,
+   "sections": [
+    {
+     "title": "2.1 Szemer\u00e9di's Graph Regularity Lemma",
+     "start": 70,
+     "end": 77,
+     "summary": "Regularity lemma and energy increment.",
+     "terms": [
+      "regularity lemma",
+      "energy increment"
+     ]
+    },
+    {
+     "title": "2.2 Triangle Counting Lemma",
+     "start": 78,
+     "end": 79,
+     "summary": "Counting triangles in regular pairs.",
+     "terms": [
+      "counting lemma"
+     ]
+    },
+    {
+     "title": "2.3 Triangle Removal Lemma",
+     "start": 80,
+     "end": 82,
+     "summary": "Triangle removal lemma.",
+     "terms": [
+      "triangle removal lemma"
+     ]
+    },
+    {
+     "title": "2.4 Graph Theoretic Proof of Roth's Theorem",
+     "start": 83,
+     "end": 85,
+     "summary": "Roth\u2019s theorem via graphs.",
+     "terms": [
+      "Roth theorem"
+     ]
+    },
+    {
+     "title": "2.5 Large 3-AP-Free Sets: Behrend's Construction",
+     "start": 86,
+     "end": 87,
+     "summary": "Behrend\u2019s 3-AP-free sets.",
+     "terms": [
+      "Behrend construction"
+     ]
+    },
+    {
+     "title": "2.6 Graph Counting and Removal Lemmas",
+     "start": 88,
+     "end": 91,
+     "summary": "General counting and removal.",
+     "terms": [
+      "graph removal lemma"
+     ]
+    },
+    {
+     "title": "2.8 Induced Graph Removal and Strong Regularity",
+     "start": 93,
+     "end": 99,
+     "summary": "Induced removal and strong regularity.",
+     "terms": [
+      "induced removal",
+      "strong regularity"
+     ]
+    },
+    {
+     "title": "2.9 Graph Property Testing",
+     "start": 100,
+     "end": 101,
+     "summary": "Property testing.",
+     "terms": [
+      "property testing"
+     ]
+    },
+    {
+     "title": "2.10 Hypergraph Removal and Szemer\u00e9di's Theorem",
+     "start": 102,
+     "end": 102,
+     "summary": "Hypergraph removal and Szemer\u00e9di\u2019s theorem.",
+     "terms": [
+      "hypergraph removal",
+      "Szemer\u00e9di theorem"
+     ]
+    },
+    {
+     "title": "2.11 Hypergraph Regularity",
+     "start": 103,
+     "end": 106,
+     "summary": "Hypergraph regularity.",
+     "terms": [
+      "hypergraph regularity"
+     ]
+    }
+   ],
+   "summary": "Szemer\u00e9di\u2019s regularity lemma and what it proves."
+  },
+  {
+   "title": "3 Pseudorandom Graphs",
+   "start": 107,
+   "end": 146,
+   "sections": [
+    {
+     "title": "3.1 Quasirandom Graphs",
+     "start": 108,
+     "end": 118,
+     "summary": "Chung\u2013Graham\u2013Wilson quasirandomness.",
+     "terms": [
+      "quasirandom graphs",
+      "Chung-Graham-Wilson"
+     ]
+    },
+    {
+     "title": "3.2 Expander Mixing Lemma",
+     "start": 119,
+     "end": 122,
+     "summary": "Expander mixing lemma.",
+     "terms": [
+      "expander mixing lemma"
+     ]
+    },
+    {
+     "title": "3.3 Abelian Cayley Graphs and Eigenvalues",
+     "start": 123,
+     "end": 126,
+     "summary": "Cayley graphs of abelian groups and characters.",
+     "terms": [
+      "Cayley graphs",
+      "eigenvalues"
+     ]
+    },
+    {
+     "title": "3.4 Quasirandom Groups",
+     "start": 127,
+     "end": 133,
+     "summary": "Quasirandom groups (Gowers).",
+     "terms": [
+      "quasirandom groups"
+     ]
+    },
+    {
+     "title": "3.5 Quasirandom Cayley Graphs and Grothendieck's Inequality",
+     "start": 134,
+     "end": 137,
+     "summary": "Grothendieck\u2019s inequality and Cayley graphs.",
+     "terms": [
+      "Grothendieck inequality"
+     ]
+    },
+    {
+     "title": "3.6 Second Eigenvalue: Alon\u2013Boppana Bound",
+     "start": 138,
+     "end": 146,
+     "summary": "Alon\u2013Boppana bound on the second eigenvalue.",
+     "terms": [
+      "Alon-Boppana",
+      "Ramanujan graphs"
+     ]
+    }
+   ],
+   "summary": "When do graphs behave like random graphs?"
+  },
+  {
+   "title": "4 Graph Limits",
+   "start": 147,
+   "end": 178,
+   "sections": [
+    {
+     "title": "4.1 Graphons",
+     "start": 148,
+     "end": 150,
+     "summary": "Graphons.",
+     "terms": [
+      "graphon"
+     ]
+    },
+    {
+     "title": "4.2 Cut Distance",
+     "start": 151,
+     "end": 154,
+     "summary": "Cut norm and cut distance.",
+     "terms": [
+      "cut distance"
+     ]
+    },
+    {
+     "title": "4.3 Homomorphism Density",
+     "start": 155,
+     "end": 156,
+     "summary": "Homomorphism densities.",
+     "terms": [
+      "homomorphism density"
+     ]
+    },
+    {
+     "title": "4.4 W-Random Graphs",
+     "start": 157,
+     "end": 159,
+     "summary": "Sampling W-random graphs.",
+     "terms": [
+      "W-random graph"
+     ]
+    },
+    {
+     "title": "4.5 Counting Lemma",
+     "start": 160,
+     "end": 161,
+     "summary": "Counting lemma for graphons.",
+     "terms": [
+      "counting lemma"
+     ]
+    },
+    {
+     "title": "4.6 Weak Regularity Lemma",
+     "start": 162,
+     "end": 165,
+     "summary": "Weak (Frieze\u2013Kannan) regularity.",
+     "terms": [
+      "weak regularity",
+      "Frieze-Kannan"
+     ]
+    },
+    {
+     "title": "4.7 Martingale Convergence Theorem",
+     "start": 166,
+     "end": 168,
+     "summary": "Martingale convergence.",
+     "terms": [
+      "martingale convergence"
+     ]
+    },
+    {
+     "title": "4.8 Compactness of the Graphon Space",
+     "start": 169,
+     "end": 171,
+     "summary": "Compactness of graphon space.",
+     "terms": [
+      "compactness"
+     ]
+    },
+    {
+     "title": "4.9 Equivalence of Convergence",
+     "start": 172,
+     "end": 178,
+     "summary": "Equivalence of convergence notions.",
+     "terms": [
+      "left convergence"
+     ]
+    }
+   ],
+   "summary": "Limits of dense graph sequences as graphons."
+  },
+  {
+   "title": "5 Graph Homomorphism Inequalities",
+   "start": 179,
+   "end": 218,
+   "sections": [
+    {
+     "title": "5.1 Edge vs. Triangle Densities",
+     "start": 182,
+     "end": 186,
+     "summary": "Edge versus triangle densities and Razborov\u2019s result.",
+     "terms": [
+      "edge-triangle density",
+      "Razborov"
+     ]
+    },
+    {
+     "title": "5.2 Cauchy\u2013Schwarz",
+     "start": 187,
+     "end": 194,
+     "summary": "Cauchy\u2013Schwarz proofs and Sidorenko\u2019s conjecture.",
+     "terms": [
+      "Cauchy-Schwarz",
+      "Sidorenko conjecture"
+     ]
+    },
+    {
+     "title": "5.3 H\u00f6lder",
+     "start": 195,
+     "end": 203,
+     "summary": "H\u00f6lder-type inequalities.",
+     "terms": [
+      "H\u00f6lder inequality"
+     ]
+    },
+    {
+     "title": "5.4 Lagrangian",
+     "start": 204,
+     "end": 207,
+     "summary": "Lagrangian methods.",
+     "terms": [
+      "Lagrangian"
+     ]
+    },
+    {
+     "title": "5.5 Entropy",
+     "start": 208,
+     "end": 218,
+     "summary": "Entropy methods.",
+     "terms": [
+      "entropy method"
+     ]
+    }
+   ],
+   "summary": "Inequalities between subgraph densities."
+  },
+  {
+   "title": "6 Forbidding 3-Term Arithmetic Progressions",
+   "start": 219,
+   "end": 252,
+   "sections": [
+    {
+     "title": "6.1 Fourier Analysis in Finite Field Vector Spaces",
+     "start": 219,
+     "end": 223,
+     "summary": "Fourier analysis on \ud835\udd3d\u209a\u207f.",
+     "terms": [
+      "Fourier analysis finite fields"
+     ]
+    },
+    {
+     "title": "6.2 Roth's Theorem in the Finite Field Model",
+     "start": 224,
+     "end": 229,
+     "summary": "Meshulam\u2019s density increment.",
+     "terms": [
+      "Roth theorem finite field",
+      "density increment"
+     ]
+    },
+    {
+     "title": "6.3 Fourier Analysis in the Integers",
+     "start": 230,
+     "end": 231,
+     "summary": "Fourier analysis on \u2124.",
+     "terms": [
+      "Fourier analysis integers"
+     ]
+    },
+    {
+     "title": "6.4 Roth's Theorem in the Integers",
+     "start": 232,
+     "end": 237,
+     "summary": "Roth\u2019s theorem in the integers.",
+     "terms": [
+      "Roth theorem"
+     ]
+    },
+    {
+     "title": "6.5 Polynomial Method",
+     "start": 238,
+     "end": 241,
+     "summary": "Cap sets via the slice-rank polynomial method.",
+     "terms": [
+      "cap set",
+      "slice rank",
+      "polynomial method"
+     ]
+    },
+    {
+     "title": "6.6 Arithmetic Regularity",
+     "start": 242,
+     "end": 247,
+     "summary": "Arithmetic regularity.",
+     "terms": [
+      "arithmetic regularity"
+     ]
+    },
+    {
+     "title": "6.7 Popular Common Difference",
+     "start": 248,
+     "end": 252,
+     "summary": "Popular common differences.",
+     "terms": [
+      "popular differences"
+     ]
+    }
+   ],
+   "summary": "Roth\u2019s theorem via Fourier analysis and the polynomial method."
+  },
+  {
+   "title": "7 Structure of Set Addition",
+   "start": 253,
+   "end": 288,
+   "sections": [
+    {
+     "title": "7.1 Sets of Small Doubling: Freiman's Theorem",
+     "start": 254,
+     "end": 255,
+     "summary": "Statement and examples.",
+     "terms": [
+      "Freiman theorem",
+      "small doubling"
+     ]
+    },
+    {
+     "title": "7.2 Sumset Calculus I: Ruzsa Triangle Inequality",
+     "start": 256,
+     "end": 256,
+     "summary": "Ruzsa triangle inequality.",
+     "terms": [
+      "Ruzsa triangle inequality"
+     ]
+    },
+    {
+     "title": "7.3 Sumset Calculus II: Pl\u00fcnnecke's Inequality",
+     "start": 257,
+     "end": 259,
+     "summary": "Pl\u00fcnnecke\u2019s inequality.",
+     "terms": [
+      "Pl\u00fcnnecke inequality"
+     ]
+    },
+    {
+     "title": "7.4 Covering Lemma",
+     "start": 260,
+     "end": 260,
+     "summary": "Ruzsa covering lemma.",
+     "terms": [
+      "covering lemma"
+     ]
+    },
+    {
+     "title": "7.5 Freiman's Theorem in Groups with Bounded Exponent",
+     "start": 261,
+     "end": 262,
+     "summary": "The bounded-exponent case.",
+     "terms": [
+      "bounded exponent"
+     ]
+    },
+    {
+     "title": "7.6 Freiman Homomorphisms",
+     "start": 263,
+     "end": 264,
+     "summary": "Freiman homomorphisms.",
+     "terms": [
+      "Freiman homomorphism"
+     ]
+    },
+    {
+     "title": "7.7 Modeling Lemma",
+     "start": 265,
+     "end": 266,
+     "summary": "Ruzsa modeling.",
+     "terms": [
+      "modeling lemma"
+     ]
+    },
+    {
+     "title": "7.8 Iterated Sumsets: Bogolyubov's Lemma",
+     "start": 267,
+     "end": 270,
+     "summary": "Bogolyubov\u2019s lemma.",
+     "terms": [
+      "Bogolyubov lemma"
+     ]
+    },
+    {
+     "title": "7.9 Geometry of Numbers",
+     "start": 271,
+     "end": 273,
+     "summary": "Geometry of numbers.",
+     "terms": [
+      "geometry of numbers",
+      "Minkowski"
+     ]
+    },
+    {
+     "title": "7.10 Finding a GAP in a Bohr Set",
+     "start": 274,
+     "end": 275,
+     "summary": "GAPs in Bohr sets.",
+     "terms": [
+      "Bohr sets",
+      "generalized arithmetic progressions"
+     ]
+    },
+    {
+     "title": "7.11 Proof of Freiman's Theorem",
+     "start": 276,
+     "end": 276,
+     "summary": "Assembling the proof.",
+     "terms": [
+      "proof"
+     ]
+    },
+    {
+     "title": "7.12 Polynomial Freiman\u2013Ruzsa Conjecture",
+     "start": 277,
+     "end": 279,
+     "summary": "The polynomial Freiman\u2013Ruzsa conjecture.",
+     "terms": [
+      "polynomial Freiman-Ruzsa"
+     ]
+    },
+    {
+     "title": "7.13 Additive Energy and the Balog\u2013Szemer\u00e9di\u2013Gowers Theorem",
+     "start": 280,
+     "end": 288,
+     "summary": "Additive energy and Balog\u2013Szemer\u00e9di\u2013Gowers.",
+     "terms": [
+      "additive energy",
+      "Balog-Szemer\u00e9di-Gowers"
+     ]
+    }
+   ],
+   "summary": "Freiman\u2019s theorem: sets with small sumsets are structured."
+  },
+  {
+   "title": "8 Sum-Product Problem",
+   "start": 289,
+   "end": 298,
+   "sections": [
+    {
+     "title": "8.1 Multiplication Table Problem",
+     "start": 290,
+     "end": 290,
+     "summary": "The Erd\u0151s multiplication table problem.",
+     "terms": [
+      "multiplication table"
+     ]
+    },
+    {
+     "title": "8.2 Crossing Number Inequality and Point-Line Incidences",
+     "start": 291,
+     "end": 294,
+     "summary": "Crossing numbers and Szemer\u00e9di\u2013Trotter.",
+     "terms": [
+      "crossing number",
+      "Szemer\u00e9di-Trotter",
+      "incidences"
+     ]
+    },
+    {
+     "title": "8.3 Sum-Product via Multiplicative Energy",
+     "start": 295,
+     "end": 298,
+     "summary": "Elekes and multiplicative energy proofs.",
+     "terms": [
+      "sum-product",
+      "multiplicative energy",
+      "Elekes"
+     ]
+    }
+   ],
+   "summary": "A set cannot have both small sumset and small product set."
+  },
+  {
+   "title": "9 Progressions in Sparse Pseudorandom Sets",
+   "start": 299,
+   "end": 322,
+   "sections": [
+    {
+     "title": "9.1 Green\u2013Tao Theorem",
+     "start": 299,
+     "end": 300,
+     "summary": "Statement and strategy.",
+     "terms": [
+      "Green-Tao theorem",
+      "primes"
+     ]
+    },
+    {
+     "title": "9.2 Relative Szemer\u00e9di Theorem",
+     "start": 301,
+     "end": 304,
+     "summary": "Szemer\u00e9di\u2019s theorem relative to a pseudorandom majorant.",
+     "terms": [
+      "relative Szemer\u00e9di"
+     ]
+    },
+    {
+     "title": "9.3 Transference Principle",
+     "start": 305,
+     "end": 305,
+     "summary": "Transference.",
+     "terms": [
+      "transference principle"
+     ]
+    },
+    {
+     "title": "9.4 Dense Model Theorem",
+     "start": 306,
+     "end": 311,
+     "summary": "Dense model theorem.",
+     "terms": [
+      "dense model theorem"
+     ]
+    },
+    {
+     "title": "9.5 Sparse Counting Lemma",
+     "start": 312,
+     "end": 318,
+     "summary": "Sparse counting lemma.",
+     "terms": [
+      "sparse counting lemma"
+     ]
+    },
+    {
+     "title": "9.6 Proof of the Relative Roth Theorem",
+     "start": 319,
+     "end": 322,
+     "summary": "Proof of the relative Roth theorem.",
+     "terms": [
+      "relative Roth"
+     ]
+    }
+   ],
+   "summary": "Green\u2013Tao: primes contain long progressions."
+  }
+ ],
+ "url": "https://drive.google.com/file/d/1TU9mMseMt4FaipDfv3OLeNCEjXY0Ix2Z/view"
+}

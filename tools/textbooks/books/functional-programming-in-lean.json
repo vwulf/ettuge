@@ -1,0 +1,476 @@
+{
+ "title": "Functional Programming in Lean",
+ "byline": "David Thrane Christiansen \u00b7 Lean FRO, 2023 (CC BY 4.0); this PDF is a browser print of the online book",
+ "note": "The PDF is a 347-page print that stops partway through \u201cProgramming with Dependent Types\u201d (the online book has 461 printed pages). The tactics interlude and the chapter on programming, proving and performance are therefore missing. Per-chapter \u201cSummary\u201d pages are not broken out. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "An introduction to Lean 4 as a general-purpose functional programming language, for programmers who want to write real programs rather than proofs. It covers expressions, types, structures, inductive datatypes and polymorphism; compiling and running programs with IO and Lake; type classes, coercions and instance search; monads and do-notation; functors, applicative functors and universes; monad transformers and imperative-style do features; and programming with dependent types and indexed families.",
+ "chapters": [
+  {
+   "title": "Getting to Know Lean",
+   "start": 8,
+   "end": 66,
+   "sections": [
+    {
+     "title": "Evaluating Expressions",
+     "start": 9,
+     "end": 12,
+     "summary": "Evaluating expressions with #eval.",
+     "terms": [
+      "#eval",
+      "expressions"
+     ]
+    },
+    {
+     "title": "Types",
+     "start": 13,
+     "end": 14,
+     "summary": "Types and type annotations.",
+     "terms": [
+      "types"
+     ]
+    },
+    {
+     "title": "Functions and Definitions",
+     "start": 15,
+     "end": 19,
+     "summary": "Defining functions and values.",
+     "terms": [
+      "def",
+      "functions"
+     ]
+    },
+    {
+     "title": "Structures",
+     "start": 20,
+     "end": 27,
+     "summary": "Structures and their fields.",
+     "terms": [
+      "structures"
+     ]
+    },
+    {
+     "title": "Datatypes and Patterns",
+     "start": 28,
+     "end": 35,
+     "summary": "Inductive datatypes and pattern matching.",
+     "terms": [
+      "inductive types",
+      "pattern matching",
+      "recursion"
+     ]
+    },
+    {
+     "title": "Polymorphism",
+     "start": 36,
+     "end": 50,
+     "summary": "Polymorphic functions and datatypes.",
+     "terms": [
+      "polymorphism",
+      "List",
+      "Option"
+     ]
+    },
+    {
+     "title": "Additional Conveniences",
+     "start": 51,
+     "end": 63,
+     "summary": "Implicit arguments, pattern matching shorthands and other conveniences.",
+     "terms": [
+      "implicit arguments",
+      "anonymous constructor"
+     ]
+    }
+   ],
+   "summary": "Lean\u2019s basic language: values, types, functions and data."
+  },
+  {
+   "title": "Hello, World!",
+   "start": 67,
+   "end": 96,
+   "sections": [
+    {
+     "title": "Running a Program",
+     "start": 68,
+     "end": 72,
+     "summary": "The main function and running with lean --run.",
+     "terms": [
+      "main",
+      "IO"
+     ]
+    },
+    {
+     "title": "Step By Step",
+     "start": 73,
+     "end": 78,
+     "summary": "IO actions step by step.",
+     "terms": [
+      "IO actions",
+      "do"
+     ]
+    },
+    {
+     "title": "Starting a Project",
+     "start": 79,
+     "end": 82,
+     "summary": "Lake projects and packages.",
+     "terms": [
+      "Lake",
+      "project"
+     ]
+    },
+    {
+     "title": "Worked Example: cat",
+     "start": 83,
+     "end": 88,
+     "summary": "A cat clone.",
+     "terms": [
+      "cat",
+      "streams"
+     ]
+    },
+    {
+     "title": "Additional Conveniences",
+     "start": 89,
+     "end": 93,
+     "summary": "Conveniences such as nested actions.",
+     "terms": [
+      "nested actions"
+     ]
+    }
+   ],
+   "summary": "Writing and running programs with side effects."
+  },
+  {
+   "title": "Interlude: Propositions, Proofs, and Indexing",
+   "start": 97,
+   "end": 104,
+   "sections": [],
+   "summary": "A short introduction to propositions, proofs and safe indexing.",
+   "terms": [
+    "propositions",
+    "proofs",
+    "decide",
+    "simp",
+    "array indexing"
+   ]
+  },
+  {
+   "title": "Overloading and Type Classes",
+   "start": 105,
+   "end": 157,
+   "sections": [
+    {
+     "title": "Positive Numbers",
+     "start": 107,
+     "end": 115,
+     "summary": "Positive numbers as a running example.",
+     "terms": [
+      "Pos",
+      "OfNat"
+     ]
+    },
+    {
+     "title": "Type Classes and Polymorphism",
+     "start": 116,
+     "end": 119,
+     "summary": "Classes and polymorphic functions.",
+     "terms": [
+      "type classes",
+      "instances"
+     ]
+    },
+    {
+     "title": "Controlling Instance Search",
+     "start": 120,
+     "end": 124,
+     "summary": "Instance search and output parameters.",
+     "terms": [
+      "instance search",
+      "outParam"
+     ]
+    },
+    {
+     "title": "Arrays and Indexing",
+     "start": 125,
+     "end": 129,
+     "summary": "Arrays and GetElem indexing.",
+     "terms": [
+      "Array",
+      "GetElem"
+     ]
+    },
+    {
+     "title": "Standard Classes",
+     "start": 130,
+     "end": 140,
+     "summary": "Standard classes: BEq, Hashable, Ord, Functor and more.",
+     "terms": [
+      "BEq",
+      "Hashable",
+      "Ord",
+      "Functor"
+     ]
+    },
+    {
+     "title": "Coercions",
+     "start": 141,
+     "end": 152,
+     "summary": "Coercions.",
+     "terms": [
+      "Coe",
+      "coercions"
+     ]
+    },
+    {
+     "title": "Additional Conveniences",
+     "start": 153,
+     "end": 154,
+     "summary": "Deriving instances.",
+     "terms": [
+      "deriving"
+     ]
+    }
+   ],
+   "summary": "Overloading with type classes."
+  },
+  {
+   "title": "Monads",
+   "start": 158,
+   "end": 210,
+   "sections": [
+    {
+     "title": "One API, Many Applications",
+     "start": 158,
+     "end": 171,
+     "summary": "Option, Except, State and logging as one API.",
+     "terms": [
+      "Option",
+      "Except",
+      "State",
+      "Writer"
+     ]
+    },
+    {
+     "title": "The Monad Type Class",
+     "start": 172,
+     "end": 177,
+     "summary": "The Monad class.",
+     "terms": [
+      "Monad",
+      "bind",
+      "pure"
+     ]
+    },
+    {
+     "title": "Example: Arithmetic in Monads",
+     "start": 178,
+     "end": 195,
+     "summary": "Interpreting arithmetic in different monads.",
+     "terms": [
+      "arithmetic evaluator"
+     ]
+    },
+    {
+     "title": "do-Notation for Monads",
+     "start": 196,
+     "end": 199,
+     "summary": "do-notation.",
+     "terms": [
+      "do-notation"
+     ]
+    },
+    {
+     "title": "The IO Monad",
+     "start": 200,
+     "end": 204,
+     "summary": "How IO is a monad.",
+     "terms": [
+      "IO monad"
+     ]
+    },
+    {
+     "title": "Additional Conveniences",
+     "start": 205,
+     "end": 208,
+     "summary": "Conveniences.",
+     "terms": [
+      "conveniences"
+     ]
+    }
+   ],
+   "summary": "Monads as a common interface for effects."
+  },
+  {
+   "title": "Functors, Applicative Functors, and Monads",
+   "start": 211,
+   "end": 255,
+   "sections": [
+    {
+     "title": "Structures and Inheritance",
+     "start": 212,
+     "end": 217,
+     "summary": "Structure inheritance.",
+     "terms": [
+      "structure inheritance"
+     ]
+    },
+    {
+     "title": "Applicative Functors",
+     "start": 218,
+     "end": 226,
+     "summary": "Applicative functors.",
+     "terms": [
+      "Applicative",
+      "seq"
+     ]
+    },
+    {
+     "title": "The Applicative Contract",
+     "start": 227,
+     "end": 234,
+     "summary": "Applicative laws.",
+     "terms": [
+      "applicative laws"
+     ]
+    },
+    {
+     "title": "Alternatives",
+     "start": 235,
+     "end": 241,
+     "summary": "Alternative and failure.",
+     "terms": [
+      "Alternative",
+      "orElse"
+     ]
+    },
+    {
+     "title": "Universes",
+     "start": 242,
+     "end": 248,
+     "summary": "Universe levels.",
+     "terms": [
+      "universes",
+      "Type u"
+     ]
+    },
+    {
+     "title": "The Complete Definitions",
+     "start": 249,
+     "end": 253,
+     "summary": "The full Functor/Applicative/Monad definitions.",
+     "terms": [
+      "Functor",
+      "Applicative",
+      "Monad hierarchy"
+     ]
+    }
+   ],
+   "summary": "The hierarchy from Functor to Monad."
+  },
+  {
+   "title": "Monad Transformers",
+   "start": 256,
+   "end": 305,
+   "sections": [
+    {
+     "title": "Combining IO and Reader",
+     "start": 257,
+     "end": 267,
+     "summary": "ReaderT over IO.",
+     "terms": [
+      "ReaderT"
+     ]
+    },
+    {
+     "title": "A Monad Construction Kit",
+     "start": 268,
+     "end": 280,
+     "summary": "OptionT, ExceptT, StateT and friends.",
+     "terms": [
+      "OptionT",
+      "ExceptT",
+      "StateT"
+     ]
+    },
+    {
+     "title": "Ordering Monad Transformers",
+     "start": 281,
+     "end": 284,
+     "summary": "How order of transformers changes behavior.",
+     "terms": [
+      "transformer ordering"
+     ]
+    },
+    {
+     "title": "More do Features",
+     "start": 285,
+     "end": 300,
+     "summary": "Loops, mutable variables and early return in do.",
+     "terms": [
+      "for loops",
+      "mut",
+      "return"
+     ]
+    },
+    {
+     "title": "Additional Conveniences",
+     "start": 301,
+     "end": 303,
+     "summary": "Conveniences.",
+     "terms": [
+      "conveniences"
+     ]
+    }
+   ],
+   "summary": "Combining effects with monad transformers."
+  },
+  {
+   "title": "Programming with Dependent Types (partial in this PDF)",
+   "start": 306,
+   "end": 347,
+   "sections": [
+    {
+     "title": "Indexed Families",
+     "start": 308,
+     "end": 315,
+     "summary": "Indexed families such as length-indexed vectors.",
+     "terms": [
+      "indexed families",
+      "Vect"
+     ]
+    },
+    {
+     "title": "The Universe Design Pattern",
+     "start": 316,
+     "end": 324,
+     "summary": "Universes of codes decoded to types.",
+     "terms": [
+      "universe pattern"
+     ]
+    },
+    {
+     "title": "Worked Example: Typed Queries",
+     "start": 325,
+     "end": 345,
+     "summary": "A typed query language.",
+     "terms": [
+      "typed queries",
+      "database"
+     ]
+    },
+    {
+     "title": "Indices, Parameters, and Universe Levels",
+     "start": 346,
+     "end": 347,
+     "summary": "When an argument is an index vs. a parameter.",
+     "terms": [
+      "indices",
+      "parameters",
+      "universe levels"
+     ]
+    }
+   ],
+   "summary": "Types that depend on values."
+  }
+ ],
+ "url": "https://drive.google.com/file/d/1LUhmap5okmULSqrOKLuwniE8cIIPTm9M/view"
+}

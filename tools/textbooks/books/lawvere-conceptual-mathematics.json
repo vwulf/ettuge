@@ -1,0 +1,459 @@
+{
+ "title": "Conceptual Mathematics: A First Introduction to Categories",
+ "byline": "F. William Lawvere and Stephen H. Schanuel \u00b7 Cambridge University Press, 2nd edition 2009",
+ "note": "Tests, quizzes and short summary pages between sessions are not broken out. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "A gentle first course in category theory that assumes only high-school algebra, built from \u201cArticles\u201d that set out ideas and classroom \u201cSessions\u201d that work through them with students. Starting from sets and maps, it develops composition, isomorphisms, sections, retractions and idempotents (with Brouwer\u2019s fixed-point theorem as an application), then categories of structured sets such as endomaps, dynamical systems and graphs, universal mapping properties (terminal and initial objects, products, sums, distributive and linear categories), and finally exponentials, cartesian closed categories, subobjects, truth values and toposes.",
+ "chapters": [
+  {
+   "title": "Session 1. Galileo and multiplication of objects",
+   "start": 20,
+   "end": 27,
+   "sections": [
+    {
+     "title": "1. Introduction",
+     "start": 20,
+     "end": 20,
+     "summary": "Introduction.",
+     "terms": [
+      "introduction"
+     ]
+    },
+    {
+     "title": "2. Galileo and the flight of a bird",
+     "start": 20,
+     "end": 23,
+     "summary": "A bird\u2019s flight decomposed into horizontal and vertical maps.",
+     "terms": [
+      "product",
+      "Galileo"
+     ]
+    },
+    {
+     "title": "3. Other examples of multiplication of objects",
+     "start": 24,
+     "end": 27,
+     "summary": "Further examples of multiplying objects.",
+     "terms": [
+      "multiplication of objects"
+     ]
+    }
+   ],
+   "summary": "Galileo\u2019s analysis of motion as a product of objects, motivating the categorical viewpoint."
+  },
+  {
+   "title": "Part I: The category of sets",
+   "start": 28,
+   "end": 53,
+   "sections": [
+    {
+     "title": "Article I. Sets, maps, composition: A first example of a category",
+     "start": 30,
+     "end": 37,
+     "summary": "The data and laws of a category.",
+     "terms": [
+      "category",
+      "objects",
+      "maps",
+      "composition",
+      "identity"
+     ]
+    },
+    {
+     "title": "Session 2: Sets, maps and composition",
+     "start": 39,
+     "end": 47,
+     "summary": "Working with sets, maps and composition.",
+     "terms": [
+      "sets and maps"
+     ]
+    },
+    {
+     "title": "Session 3: Composing maps and counting maps",
+     "start": 48,
+     "end": 53,
+     "summary": "Composing and counting maps.",
+     "terms": [
+      "counting maps"
+     ]
+    }
+   ],
+   "summary": "Sets, maps and composition as the first example of a category."
+  },
+  {
+   "title": "Part II: The algebra of composition",
+   "start": 54,
+   "end": 149,
+   "sections": [
+    {
+     "title": "Article II. Isomorphisms: Retractions, sections, idempotents, automorphisms",
+     "start": 56,
+     "end": 75,
+     "summary": "Isomorphisms, retractions, sections, idempotents, automorphisms.",
+     "terms": [
+      "isomorphism",
+      "retraction",
+      "section",
+      "idempotent",
+      "automorphism"
+     ]
+    },
+    {
+     "title": "Session 4. Division of maps: Isomorphisms",
+     "start": 77,
+     "end": 84,
+     "summary": "Isomorphisms as invertible maps.",
+     "terms": [
+      "inverse"
+     ]
+    },
+    {
+     "title": "Session 5. Division of maps: Sections and retractions",
+     "start": 85,
+     "end": 97,
+     "summary": "Sections and retractions.",
+     "terms": [
+      "section",
+      "retraction",
+      "determination",
+      "choice"
+     ]
+    },
+    {
+     "title": "Session 6. Two general aspects or uses of maps",
+     "start": 98,
+     "end": 102,
+     "summary": "Maps as figures and as properties.",
+     "terms": [
+      "figures",
+      "properties"
+     ]
+    },
+    {
+     "title": "Session 7. Isomorphisms and coordinates",
+     "start": 103,
+     "end": 107,
+     "summary": "Isomorphisms as coordinate systems.",
+     "terms": [
+      "coordinates"
+     ]
+    },
+    {
+     "title": "Session 8. Pictures of a map making its features evident",
+     "start": 108,
+     "end": 115,
+     "summary": "Picturing maps.",
+     "terms": [
+      "internal diagrams"
+     ]
+    },
+    {
+     "title": "Session 9. Retracts and idempotents",
+     "start": 116,
+     "end": 124,
+     "summary": "Retracts and idempotents.",
+     "terms": [
+      "retract",
+      "idempotent splitting"
+     ]
+    },
+    {
+     "title": "Composition of opposed maps",
+     "start": 131,
+     "end": 132,
+     "summary": "Pairs of opposed maps.",
+     "terms": [
+      "opposed maps"
+     ]
+    },
+    {
+     "title": "Session 10. Brouwer 's theorems",
+     "start": 137,
+     "end": 149,
+     "summary": "Brouwer\u2019s fixed-point and retraction theorems.",
+     "terms": [
+      "Brouwer fixed point theorem",
+      "retraction theorem"
+     ]
+    }
+   ],
+   "summary": "The algebra of composition: when maps can be \u201cdivided\u201d."
+  },
+  {
+   "title": "Part III: Categories of structured sets",
+   "start": 150,
+   "end": 227,
+   "sections": [
+    {
+     "title": "Article III. Examples of categories: Directed graphs and other structures",
+     "start": 152,
+     "end": 168,
+     "summary": "Endomaps, graphs and their maps.",
+     "terms": [
+      "endomaps",
+      "directed graphs",
+      "reflexive graphs"
+     ]
+    },
+    {
+     "title": "Session 11. Ascending to categories of richer structures",
+     "start": 169,
+     "end": 177,
+     "summary": "Categories of richer structures.",
+     "terms": [
+      "structured sets"
+     ]
+    },
+    {
+     "title": "Session 12. Categories of diagrams",
+     "start": 178,
+     "end": 182,
+     "summary": "Diagrams, dynamical systems and family trees.",
+     "terms": [
+      "dynamical systems",
+      "automata"
+     ]
+    },
+    {
+     "title": "Session 13. Monoids",
+     "start": 183,
+     "end": 186,
+     "summary": "Monoids.",
+     "terms": [
+      "monoids"
+     ]
+    },
+    {
+     "title": "Session 14. Maps preserve positive properties",
+     "start": 187,
+     "end": 191,
+     "summary": "Maps preserve positive properties.",
+     "terms": [
+      "positive properties"
+     ]
+    },
+    {
+     "title": "Session 15. Objectification of properties in dynamical systems",
+     "start": 192,
+     "end": 203,
+     "summary": "Naming elements and periods by maps.",
+     "terms": [
+      "objectification",
+      "periodic points"
+     ]
+    },
+    {
+     "title": "Session 16. Idempotents, involutions, and graphs",
+     "start": 204,
+     "end": 212,
+     "summary": "Idempotents, involutions, graphs.",
+     "terms": [
+      "involutions",
+      "graph maps"
+     ]
+    },
+    {
+     "title": "Session 17. Some uses of graphs",
+     "start": 213,
+     "end": 220,
+     "summary": "Paths, diagram shapes, commuting diagrams.",
+     "terms": [
+      "paths",
+      "commuting diagrams"
+     ]
+    },
+    {
+     "title": "Session 18. Review of Test 2",
+     "start": 222,
+     "end": 227,
+     "summary": "Review session.",
+     "terms": [
+      "review"
+     ]
+    }
+   ],
+   "summary": "Categories whose objects are sets with structure."
+  },
+  {
+   "title": "Part IV: Elementary universal mapping properties",
+   "start": 228,
+   "end": 327,
+   "sections": [
+    {
+     "title": "Article IV. Universal mapping properties: Terminal and initial objects; Product and sum of a pair of objects",
+     "start": 230,
+     "end": 241,
+     "summary": "Terminal and initial objects, products, sums.",
+     "terms": [
+      "universal mapping property",
+      "terminal",
+      "initial",
+      "product",
+      "sum"
+     ]
+    },
+    {
+     "title": "Session 19. Terminal objects",
+     "start": 242,
+     "end": 246,
+     "summary": "Terminal objects.",
+     "terms": [
+      "terminal object"
+     ]
+    },
+    {
+     "title": "Session 20. Points of an object",
+     "start": 247,
+     "end": 252,
+     "summary": "Points as maps from the terminal object.",
+     "terms": [
+      "points"
+     ]
+    },
+    {
+     "title": "Session 21. Products in categories",
+     "start": 253,
+     "end": 261,
+     "summary": "Products in a category.",
+     "terms": [
+      "product"
+     ]
+    },
+    {
+     "title": "Session 22. Universal mapping properties. Incidence relations",
+     "start": 262,
+     "end": 270,
+     "summary": "Incidence relations.",
+     "terms": [
+      "incidence"
+     ]
+    },
+    {
+     "title": "Session 23. More on universal mapping properties",
+     "start": 271,
+     "end": 277,
+     "summary": "Computing products.",
+     "terms": [
+      "calculating products"
+     ]
+    },
+    {
+     "title": "Session 24. Uniqueness of products and definition of sum",
+     "start": 278,
+     "end": 285,
+     "summary": "Uniqueness of products; sums.",
+     "terms": [
+      "uniqueness",
+      "coproduct"
+     ]
+    },
+    {
+     "title": "Session 25. Labelings and products of graphs",
+     "start": 286,
+     "end": 292,
+     "summary": "Products of graphs.",
+     "terms": [
+      "graph products"
+     ]
+    },
+    {
+     "title": "Session 26. Distributive categories and linear categories",
+     "start": 293,
+     "end": 300,
+     "summary": "Distributive and linear categories.",
+     "terms": [
+      "distributive category",
+      "linear category",
+      "matrices"
+     ]
+    },
+    {
+     "title": "Session 27. Examples of universal constructions",
+     "start": 301,
+     "end": 311,
+     "summary": "Universal constructions.",
+     "terms": [
+      "universal constructions"
+     ]
+    },
+    {
+     "title": "Session 28. The category of pointed sets",
+     "start": 312,
+     "end": 315,
+     "summary": "Pointed sets as non-distributive.",
+     "terms": [
+      "pointed sets"
+     ]
+    },
+    {
+     "title": "Session 29. Binary operations and diagonal arguments",
+     "start": 319,
+     "end": 327,
+     "summary": "Binary operations and Cantor\u2019s diagonal argument.",
+     "terms": [
+      "diagonal argument",
+      "Cantor"
+     ]
+    }
+   ],
+   "summary": "Universal mapping properties."
+  },
+  {
+   "title": "Part V: Higher universal mapping properties",
+   "start": 328,
+   "end": 369,
+   "sections": [
+    {
+     "title": "Article V. Map objects: Exponentiation",
+     "start": 330,
+     "end": 336,
+     "summary": "Map objects (exponentials).",
+     "terms": [
+      "exponential",
+      "map object"
+     ]
+    },
+    {
+     "title": "Session 30. Exponentiation",
+     "start": 337,
+     "end": 344,
+     "summary": "Function spaces and the laws of exponents.",
+     "terms": [
+      "cartesian closed category",
+      "laws of exponents"
+     ]
+    },
+    {
+     "title": "Session 31. Map object versus product",
+     "start": 345,
+     "end": 351,
+     "summary": "Map object versus product.",
+     "terms": [
+      "currying"
+     ]
+    },
+    {
+     "title": "Session 32. Subobjects, logic, and truth",
+     "start": 352,
+     "end": 360,
+     "summary": "Subobjects, truth and the truth-value object.",
+     "terms": [
+      "subobject classifier",
+      "truth values"
+     ]
+    },
+    {
+     "title": "Session 33. Parts of an object: Toposes",
+     "start": 361,
+     "end": 369,
+     "summary": "Parts of objects and toposes.",
+     "terms": [
+      "topos",
+      "logic"
+     ]
+    }
+   ],
+   "summary": "Exponentials, subobjects, truth values and toposes."
+  }
+ ],
+ "url": "https://drive.google.com/file/d/12QG-QTJS3xEvn8fwlog55FMwsGzHwMo2/view"
+}

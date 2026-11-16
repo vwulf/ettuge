@@ -270,5 +270,69 @@
   "Distributed Computing Through Combinatorial Topology",
   "Herlihy, Kozlov and Rajsbaum",
   "Solvability of distributed tasks as a question about simplicial complexes and their maps."
+ ],
+ [
+  "wigderson-mathematics-and-computation",
+  "toc-book",
+  "Computer Science",
+  "Mathematics and Computation",
+  "Avi Wigderson",
+  "Panoramic survey of complexity theory, randomness, proofs and its links to mathematics and science."
+ ],
+ [
+  "zhao-graph-theory-additive-combinatorics",
+  "gtac",
+  "Mathematics",
+  "Graph Theory and Additive Combinatorics",
+  "Yufei Zhao",
+  "Extremal graphs, regularity, pseudorandomness, graph limits, Roth, Freiman and Green–Tao."
+ ],
+ [
+  "functional-programming-in-lean",
+  "fp-lean",
+  "Computer Science",
+  "Functional Programming in Lean",
+  "David Thrane Christiansen",
+  "Lean 4 as a programming language: types, IO, type classes, monads, transformers, dependent types (partial PDF)."
+ ],
+ [
+  "sutton-barto-reinforcement-learning",
+  "sutton-barto",
+  "AI and Machine Learning",
+  "Reinforcement Learning: An Introduction (2nd ed. draft)",
+  "Richard Sutton and Andrew Barto",
+  "Bandits, MDPs, DP, Monte Carlo, TD, eligibility traces, planning and function approximation."
+ ],
+ [
+  "hindley-seldin-lambda-calculus-combinators",
+  "hindley-seldin",
+  "Computer Science",
+  "Lambda-Calculus and Combinators",
+  "J. Roger Hindley and Jonathan Seldin",
+  "λ-calculus and CL side by side: reduction, computability, typing, pure type systems and models."
+ ],
+ [
+  "lawvere-conceptual-mathematics",
+  "lawvere",
+  "Mathematics",
+  "Conceptual Mathematics",
+  "F. William Lawvere and Stephen Schanuel",
+  "A first course in categories from sets and maps to products, exponentials and toposes."
+ ],
+ [
+  "thompson-type-theory-functional-programming",
+  "ttfp",
+  "Computer Science",
+  "Type Theory and Functional Programming",
+  "Simon Thompson",
+  "Martin-Löf type theory as logic and programming language, with program development and extensions."
+ ],
+ [
+  "hammack-book-of-proof",
+  "main-logic",
+  "Mathematics",
+  "Book of Proof",
+  "Richard Hammack",
+  "Transition-to-proofs text: sets, logic, proof techniques, induction, relations, functions, cardinality."
  ]
 ]
