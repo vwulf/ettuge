@@ -3,7 +3,7 @@
 
 > John A. De Goes, Adam Fraser and Milad Khajavi · Ziverge, edition of 20 November 2024 · [the PDF in Drive](https://drive.google.com/file/d/1Mm9QlnS38BmXS47ZiY6Ne1Aw18malK6c/view)
 
-This book is very granular (about 40 chapters and 250 sections), so summaries and terms are given per chapter; each section is still listed with its own PDF page range. Conclusion and exercise sections are not broken out. An older 2021 draft of Zionomicon is also in your Drive and is superseded by this edition. Summaries are in our own words; the text stays in the PDF.
+This book is very granular (about 40 chapters and 250 sections), so summaries and terms are given per chapter; each section is still listed with its own PDF page range. Conclusion and exercise sections are not broken out. An older 2021 draft of Zionomicon is also in your Drive and is superseded by this edition. Chapters link to the matching pages of the official ZIO 2 reference at zio.dev, which covers the same APIs (it is separate documentation, not the book’s text). Summaries are in our own words; the text stays in the PDF.
 
 ## The book in one paragraph
 
@@ -63,6 +63,8 @@ The comprehensive guide to ZIO 2 for Scala, by its creator and core contributors
 *PDF pp. 17–36*
 
 How ZIO evolved from 1.0 to 2.0 and why.
+
+zio.dev reference: [Introduction](https://zio.dev/reference/)
 
 *Terms:* ZIO history, ZIO 2.0, structured concurrency, ZLayer, ZIO Test, alternatives, Cats Effect
 
@@ -166,6 +168,8 @@ How ZIO evolved from 1.0 to 2.0 and why.
 
 Effects as values and the ZIO type.
 
+zio.dev reference: [ZIO](https://zio.dev/reference/core/zio/)
+
 *Terms:* functional effects, blueprints, flatMap, zip, ZIO[R, E, A], type aliases, Future, ZIO.attempt, default services, recursion
 
 **Functional Effects as Blueprints**  
@@ -205,6 +209,8 @@ Effects as values and the ZIO type.
 
 A first look at ZIO Test.
 
+zio.dev reference: [Writing our first test](https://zio.dev/reference/test/writing-our-first-test/)
+
 *Terms:* ZIO Test, assertions, TestClock, test aspects, property-based testing
 
 **Writing Simple Programs with ZIO Test**  
@@ -231,6 +237,8 @@ A first look at ZIO Test.
 *PDF pp. 83–98*
 
 Typed errors, defects and Cause.
+
+zio.dev reference: [Error management](https://zio.dev/reference/error-management/), [Cause](https://zio.dev/reference/core/cause/), [Exit](https://zio.dev/reference/core/exit/)
 
 *Terms:* errors vs defects, Cause, Exit, catchAll, orDie, multiple failures, error composition, execution tracing, typed errors
 
@@ -277,6 +285,8 @@ Typed errors, defects and Cause.
 
 Interop with Java, JS, Cats Effect and libraries.
 
+zio.dev reference: [Java](https://zio.dev/guides/interop/with-java/), [JavaScript](https://zio.dev/guides/interop/with-javascript/), [Cats Effect](https://zio.dev/guides/interop/with-cats-effect/), [Future](https://zio.dev/guides/interop/with-future/)
+
 *Terms:* Java interop, CompletableFuture, Scala.js, Cats Effect interop, library integration
 
 **Integrating with Java**  
@@ -300,6 +310,8 @@ Interop with Java, JS, Cats Effect and libraries.
 *PDF pp. 117–128*
 
 Fibers.
+
+zio.dev reference: [Fibers](https://zio.dev/reference/fiber/)
 
 *Terms:* fibers, fork, join, interrupt, supervision, locking to executors
 
@@ -331,6 +343,8 @@ Fibers.
 
 Racing and parallel composition.
 
+zio.dev reference: [Concurrency](https://zio.dev/reference/concurrency/)
+
 *Terms:* race, zipPar, foreachPar, collectAllPar, validatePar
 
 **The Importance of Concurrency Operators**  
@@ -358,6 +372,8 @@ Racing and parallel composition.
 
 Supervision and structured concurrency.
 
+zio.dev reference: [Fibers](https://zio.dev/reference/fiber/), [Supervisor](https://zio.dev/reference/observability/supervisor/)
+
 *Terms:* structured concurrency, fork/join, forkDaemon, custom supervision, fire-and-forget
 
 **Fork/Join Identity Law**  
@@ -382,6 +398,8 @@ Supervision and structured concurrency.
 
 Interruption semantics.
 
+zio.dev reference: [Interruption](https://zio.dev/reference/interruption/)
+
 *Terms:* interruption, uninterruptible regions, interruptibility composition, await interruption
 
 **Timing of Interruption**  
@@ -405,6 +423,8 @@ Interruption semantics.
 *PDF pp. 165–180*
 
 Ref and FiberRef.
+
+zio.dev reference: [Ref](https://zio.dev/reference/concurrency/ref/), [Ref.Synchronized](https://zio.dev/reference/concurrency/refsynchronized/), [FiberRef](https://zio.dev/reference/state-management/fiberref/)
 
 *Terms:* Ref, atomic updates, Ref.Synchronized, FiberRef, shared state
 
@@ -433,6 +453,8 @@ Ref and FiberRef.
 
 Promise for synchronization.
 
+zio.dev reference: [Promise](https://zio.dev/reference/concurrency/promise/)
+
 *Terms:* Promise, await, completion, interruption
 
 **Various Ways of Completing Promises**  
@@ -456,6 +478,8 @@ Promise for synchronization.
 *PDF pp. 191–200*
 
 Queues for work distribution.
+
+zio.dev reference: [Queue](https://zio.dev/reference/concurrency/queue/)
 
 *Terms:* Queue, bounded, dropping, sliding, offer, take
 
@@ -481,6 +505,8 @@ Queues for work distribution.
 
 Hub for broadcasting.
 
+zio.dev reference: [Hub](https://zio.dev/reference/concurrency/hub/)
+
 *Terms:* Hub, broadcast, publish, subscribe
 
 **Hub: An Optimal Solution to the Broadcasting Problem**  
@@ -501,6 +527,8 @@ Hub for broadcasting.
 *PDF pp. 213–218*
 
 Semaphores for limiting concurrency.
+
+zio.dev reference: [Semaphore](https://zio.dev/reference/concurrency/semaphore/)
 
 *Terms:* Semaphore, withPermits, limiting parallelism
 
@@ -526,6 +554,8 @@ Semaphores for limiting concurrency.
 
 acquireRelease and ensuring.
 
+zio.dev reference: [Resource management](https://zio.dev/reference/resource/)
+
 *Terms:* acquireRelease, bracket, ensuring, finalizers
 
 **The Limitation of try-finally in Asynchronous Programming**  
@@ -546,6 +576,8 @@ acquireRelease and ensuring.
 *PDF pp. 227–242*
 
 Scope as a composable resource abstraction.
+
+zio.dev reference: [Scope](https://zio.dev/reference/resource/scope/)
 
 *Terms:* Scope, ZIO.scoped, scoped resources, finalizers
 
@@ -577,6 +609,8 @@ Scope as a composable resource abstraction.
 
 Advanced scopes and resources.
 
+zio.dev reference: [Scope](https://zio.dev/reference/resource/scope/), [ScopedRef](https://zio.dev/reference/resource/scopedref/)
+
 *Terms:* scopes, child scopes, resource management
 
 **Scopes Revisited**  
@@ -603,6 +637,8 @@ Advanced scopes and resources.
 *PDF pp. 257–276*
 
 ZIO environment and layers.
+
+zio.dev reference: [Dependency injection](https://zio.dev/reference/di/), [ZLayer](https://zio.dev/reference/contextual/zlayer/), [Service pattern](https://zio.dev/reference/service-pattern/)
 
 *Terms:* ZEnvironment, ZLayer, service pattern, onion architecture, accessors
 
@@ -640,6 +676,8 @@ ZIO environment and layers.
 
 Advanced dependency injection.
 
+zio.dev reference: [ZEnvironment](https://zio.dev/reference/contextual/zenvironment/), [Layer memoization](https://zio.dev/reference/di/dependency-memoization/), [Automatic ZLayer derivation](https://zio.dev/reference/contextual/automatic-zlayer-derivation/)
+
 *Terms:* ZEnvironment, multiple services, layer errors, memoization, automatic layer derivation
 
 **What is ZEnvironment?**  
@@ -666,6 +704,8 @@ Advanced dependency injection.
 *PDF pp. 289–304*
 
 STM basics.
+
+zio.dev reference: [STM](https://zio.dev/reference/stm/), [TRef](https://zio.dev/reference/stm/tref/)
 
 *Terms:* STM, TRef, atomically, retry, composable transactions
 
@@ -694,6 +734,8 @@ STM basics.
 
 Transactional data structures.
 
+zio.dev reference: [TMap](https://zio.dev/reference/stm/tmap/), [TQueue](https://zio.dev/reference/stm/tqueue/), [TPriorityQueue](https://zio.dev/reference/stm/tpriorityqueue/), [TSet](https://zio.dev/reference/stm/tset/), [TArray](https://zio.dev/reference/stm/tarray/)
+
 *Terms:* TMap, TQueue, TPriorityQueue, TSet, custom STM structures
 
 **Description of STM Data Structures**  
@@ -711,6 +753,8 @@ Transactional data structures.
 *PDF pp. 327–344*
 
 STM internals and tuning.
+
+zio.dev reference: [STM](https://zio.dev/reference/stm/)
 
 *Terms:* STM implementation, debugging, optimization, control flow
 
@@ -735,6 +779,8 @@ STM internals and tuning.
 *PDF pp. 345–378*
 
 Retrying and repeating with Schedule.
+
+zio.dev reference: [Schedule](https://zio.dev/reference/schedule/), [Retrying](https://zio.dev/reference/error-management/recovering/retrying/)
 
 *Terms:* Schedule, retry, repeat, exponential backoff, schedule composition
 
@@ -766,6 +812,8 @@ Retrying and repeating with Schedule.
 
 Debugging ZIO programs.
 
+zio.dev reference: [Supervisor](https://zio.dev/reference/observability/supervisor/), [Logging](https://zio.dev/reference/observability/logging/), [Tracing](https://zio.dev/reference/observability/tracing/)
+
 *Terms:* debug, logging, stack traces, fiber dumps, supervisor
 
 **Understanding Execution Flows**  
@@ -796,6 +844,8 @@ Debugging ZIO programs.
 
 Error-handling best practices.
 
+zio.dev reference: [Error-management best practices](https://zio.dev/reference/error-management/best-practices/)
+
 *Terms:* recoverable errors, non-recoverable errors, error modeling
 
 **Recoverable Errors**  
@@ -813,6 +863,8 @@ Error-handling best practices.
 *PDF pp. 405–420*
 
 ZStream basics.
+
+zio.dev reference: [ZStream](https://zio.dev/reference/stream/zstream/), [Creating streams](https://zio.dev/reference/stream/zstream/creating-zio-streams/)
 
 *Terms:* ZStream, effectful iterator, constructors, run
 
@@ -841,6 +893,8 @@ ZStream basics.
 
 Sinks and pipelines introduced.
 
+zio.dev reference: [ZSink](https://zio.dev/reference/stream/zsink/), [ZPipeline](https://zio.dev/reference/stream/zpipeline/)
+
 *Terms:* ZSink, ZPipeline
 
 **Sinks**  
@@ -858,6 +912,8 @@ Sinks and pipelines introduced.
 *PDF pp. 433–448*
 
 ZChannel as the unifying abstraction.
+
+zio.dev reference: [ZChannel](https://zio.dev/reference/stream/zchannel/)
 
 *Terms:* ZChannel, channel constructors, operators, scopes
 
@@ -882,6 +938,8 @@ ZChannel as the unifying abstraction.
 *PDF pp. 449–468*
 
 Transforming streams.
+
+zio.dev reference: [ZStream operations](https://zio.dev/reference/stream/zstream/operations/)
 
 *Terms:* map, mapZIO, flatMap, filter, collect, grouping, partition, broadcast, throttle
 
@@ -922,6 +980,8 @@ Transforming streams.
 
 Combining streams.
 
+zio.dev reference: [ZStream operations](https://zio.dev/reference/stream/zstream/operations/)
+
 *Terms:* concat, merge, zip, cross, orElse, interleave
 
 **Stream Concatenation**  
@@ -955,6 +1015,8 @@ Combining streams.
 
 Pipelines.
 
+zio.dev reference: [ZPipeline](https://zio.dev/reference/stream/zpipeline/)
+
 *Terms:* ZPipeline, transformations
 
 **Pipelines as Stream Transformations**  
@@ -975,6 +1037,8 @@ Pipelines.
 *PDF pp. 495–510*
 
 Sinks.
+
+zio.dev reference: [ZSink](https://zio.dev/reference/stream/zsink/), [Sink operations](https://zio.dev/reference/stream/zsink/operations/)
 
 *Terms:* ZSink, aggregation, combining sinks
 
@@ -1000,6 +1064,8 @@ Sinks.
 
 ZIO Test fundamentals.
 
+zio.dev reference: [Spec](https://zio.dev/reference/test/spec/), [Running tests](https://zio.dev/reference/test/running-tests/)
+
 *Terms:* tests as effects, specs, suites
 
 **Tests as Effects**  
@@ -1017,6 +1083,8 @@ ZIO Test fundamentals.
 *PDF pp. 519–534*
 
 Assertions.
+
+zio.dev reference: [Assertions](https://zio.dev/reference/test/assertions/), [Smart assertions](https://zio.dev/reference/test/assertions/smart-assertions/)
 
 *Terms:* Assertion, smart assertions, assertTrue
 
@@ -1039,6 +1107,8 @@ Assertions.
 
 Test environment.
 
+zio.dev reference: [Test services](https://zio.dev/reference/test/services/), [Live](https://zio.dev/reference/test/services/live/)
+
 *Terms:* TestClock, TestConsole, TestRandom, live environment
 
 **Test Implementation of Standard Services**  
@@ -1059,6 +1129,8 @@ Test environment.
 *PDF pp. 555–572*
 
 Test aspects.
+
+zio.dev reference: [Test aspects](https://zio.dev/reference/test/aspects/)
 
 *Terms:* TestAspect, repeats, retries, timeouts, platform-specific
 
@@ -1084,6 +1156,8 @@ Test aspects.
 
 Resources in tests.
 
+zio.dev reference: [Sharing layers across files](https://zio.dev/reference/test/sharing-layers-between-multiple-files/), [within a file](https://zio.dev/reference/test/sharing-layers-within-the-same-file/)
+
 *Terms:* provideLayer, shared layers, test resources
 
 **Providing Resources to Tests**  
@@ -1107,6 +1181,8 @@ Resources in tests.
 *PDF pp. 579–604*
 
 Property-based testing.
+
+zio.dev reference: [Property testing](https://zio.dev/reference/test/property-testing/), [Shrinking](https://zio.dev/reference/test/property-testing/shrinking/)
 
 *Terms:* Gen, generators, shrinking, check
 
@@ -1135,6 +1211,8 @@ Property-based testing.
 
 Test annotations.
 
+zio.dev reference: [Annotating tests](https://zio.dev/reference/test/aspects/annotating-tests/)
+
 *Terms:* tagging, annotations, reporters
 
 **Tagging Tests**  
@@ -1161,6 +1239,8 @@ Test annotations.
 *PDF pp. 613–616*
 
 Test reporting.
+
+zio.dev reference: [Running tests](https://zio.dev/reference/test/running-tests/)
 
 *Terms:* reporting, test results
 

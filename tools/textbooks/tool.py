@@ -103,6 +103,7 @@ def render(slug):
     for i, c in enumerate(chs, 1):
         L.append('\n---\n' if i == 1 else f'\n---\n\n<a id="ch{i}"></a>')
         L.append(f'## {c["title"]}\n\n' + ('' if web else f'*{pr(c["start"], c["end"])}*' + (f' · [read online]({c["href"]})' if c.get('href') else '') + '\n\n') + f'{c["summary"]}\n')
+        if c.get('links'): L.append(f'{bk.get("links_label", "See also")}: ' + ', '.join(f'[{a}]({u})' for a, u in c['links']) + '\n')
         if c.get('sections') and c.get('terms'): L.append(f'*Terms:* {", ".join(c["terms"])}\n')
         for s in c.get('sections', []):
             terms = f'  \n*Terms:* {", ".join(s["terms"])}' if s.get('terms') else ''

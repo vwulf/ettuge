@@ -196,6 +196,12 @@
     "ZIO Test",
     "alternatives",
     "Cats Effect"
+   ],
+   "links": [
+    [
+     "Introduction",
+     "https://zio.dev/reference/"
+    ]
    ]
   },
   {
@@ -272,6 +278,12 @@
     "ZIO.attempt",
     "default services",
     "recursion"
+   ],
+   "links": [
+    [
+     "ZIO",
+     "https://zio.dev/reference/core/zio/"
+    ]
    ]
   },
   {
@@ -317,6 +329,12 @@
     "TestClock",
     "test aspects",
     "property-based testing"
+   ],
+   "links": [
+    [
+     "Writing our first test",
+     "https://zio.dev/reference/test/writing-our-first-test/"
+    ]
    ]
   },
   {
@@ -402,6 +420,20 @@
     "error composition",
     "execution tracing",
     "typed errors"
+   ],
+   "links": [
+    [
+     "Error management",
+     "https://zio.dev/reference/error-management/"
+    ],
+    [
+     "Cause",
+     "https://zio.dev/reference/core/cause/"
+    ],
+    [
+     "Exit",
+     "https://zio.dev/reference/core/exit/"
+    ]
    ]
   },
   {
@@ -441,6 +473,24 @@
     "Scala.js",
     "Cats Effect interop",
     "library integration"
+   ],
+   "links": [
+    [
+     "Java",
+     "https://zio.dev/guides/interop/with-java/"
+    ],
+    [
+     "JavaScript",
+     "https://zio.dev/guides/interop/with-javascript/"
+    ],
+    [
+     "Cats Effect",
+     "https://zio.dev/guides/interop/with-cats-effect/"
+    ],
+    [
+     "Future",
+     "https://zio.dev/guides/interop/with-future/"
+    ]
    ]
   },
   {
@@ -493,6 +543,12 @@
     "interrupt",
     "supervision",
     "locking to executors"
+   ],
+   "links": [
+    [
+     "Fibers",
+     "https://zio.dev/reference/fiber/"
+    ]
    ]
   },
   {
@@ -538,6 +594,12 @@
     "foreachPar",
     "collectAllPar",
     "validatePar"
+   ],
+   "links": [
+    [
+     "Concurrency",
+     "https://zio.dev/reference/concurrency/"
+    ]
    ]
   },
   {
@@ -577,6 +639,16 @@
     "forkDaemon",
     "custom supervision",
     "fire-and-forget"
+   ],
+   "links": [
+    [
+     "Fibers",
+     "https://zio.dev/reference/fiber/"
+    ],
+    [
+     "Supervisor",
+     "https://zio.dev/reference/observability/supervisor/"
+    ]
    ]
   },
   {
@@ -615,6 +687,12 @@
     "uninterruptible regions",
     "interruptibility composition",
     "await interruption"
+   ],
+   "links": [
+    [
+     "Interruption",
+     "https://zio.dev/reference/interruption/"
+    ]
    ]
   },
   {
@@ -660,6 +738,20 @@
     "Ref.Synchronized",
     "FiberRef",
     "shared state"
+   ],
+   "links": [
+    [
+     "Ref",
+     "https://zio.dev/reference/concurrency/ref/"
+    ],
+    [
+     "Ref.Synchronized",
+     "https://zio.dev/reference/concurrency/refsynchronized/"
+    ],
+    [
+     "FiberRef",
+     "https://zio.dev/reference/state-management/fiberref/"
+    ]
    ]
   },
   {
@@ -698,6 +790,12 @@
     "await",
     "completion",
     "interruption"
+   ],
+   "links": [
+    [
+     "Promise",
+     "https://zio.dev/reference/concurrency/promise/"
+    ]
    ]
   },
   {
@@ -738,6 +836,12 @@
     "sliding",
     "offer",
     "take"
+   ],
+   "links": [
+    [
+     "Queue",
+     "https://zio.dev/reference/concurrency/queue/"
+    ]
    ]
   },
   {
@@ -770,6 +874,12 @@
     "broadcast",
     "publish",
     "subscribe"
+   ],
+   "links": [
+    [
+     "Hub",
+     "https://zio.dev/reference/concurrency/hub/"
+    ]
    ]
   },
   {
@@ -807,6 +917,12 @@
     "Semaphore",
     "withPermits",
     "limiting parallelism"
+   ],
+   "links": [
+    [
+     "Semaphore",
+     "https://zio.dev/reference/concurrency/semaphore/"
+    ]
    ]
   },
   {
@@ -839,6 +955,12 @@
     "bracket",
     "ensuring",
     "finalizers"
+   ],
+   "links": [
+    [
+     "Resource management",
+     "https://zio.dev/reference/resource/"
+    ]
    ]
   },
   {
@@ -889,6 +1011,12 @@
     "ZIO.scoped",
     "scoped resources",
     "finalizers"
+   ],
+   "links": [
+    [
+     "Scope",
+     "https://zio.dev/reference/resource/scope/"
+    ]
    ]
   },
   {
@@ -932,6 +1060,16 @@
     "scopes",
     "child scopes",
     "resource management"
+   ],
+   "links": [
+    [
+     "Scope",
+     "https://zio.dev/reference/resource/scope/"
+    ],
+    [
+     "ScopedRef",
+     "https://zio.dev/reference/resource/scopedref/"
+    ]
    ]
   },
   {
@@ -995,6 +1133,20 @@
     "service pattern",
     "onion architecture",
     "accessors"
+   ],
+   "links": [
+    [
+     "Dependency injection",
+     "https://zio.dev/reference/di/"
+    ],
+    [
+     "ZLayer",
+     "https://zio.dev/reference/contextual/zlayer/"
+    ],
+    [
+     "Service pattern",
+     "https://zio.dev/reference/service-pattern/"
+    ]
    ]
   },
   {
@@ -1040,6 +1192,20 @@
     "layer errors",
     "memoization",
     "automatic layer derivation"
+   ],
+   "links": [
+    [
+     "ZEnvironment",
+     "https://zio.dev/reference/contextual/zenvironment/"
+    ],
+    [
+     "Layer memoization",
+     "https://zio.dev/reference/di/dependency-memoization/"
+    ],
+    [
+     "Automatic ZLayer derivation",
+     "https://zio.dev/reference/contextual/automatic-zlayer-derivation/"
+    ]
    ]
   },
   {
@@ -1085,6 +1251,16 @@
     "atomically",
     "retry",
     "composable transactions"
+   ],
+   "links": [
+    [
+     "STM",
+     "https://zio.dev/reference/stm/"
+    ],
+    [
+     "TRef",
+     "https://zio.dev/reference/stm/tref/"
+    ]
    ]
   },
   {
@@ -1112,6 +1288,28 @@
     "TPriorityQueue",
     "TSet",
     "custom STM structures"
+   ],
+   "links": [
+    [
+     "TMap",
+     "https://zio.dev/reference/stm/tmap/"
+    ],
+    [
+     "TQueue",
+     "https://zio.dev/reference/stm/tqueue/"
+    ],
+    [
+     "TPriorityQueue",
+     "https://zio.dev/reference/stm/tpriorityqueue/"
+    ],
+    [
+     "TSet",
+     "https://zio.dev/reference/stm/tset/"
+    ],
+    [
+     "TArray",
+     "https://zio.dev/reference/stm/tarray/"
+    ]
    ]
   },
   {
@@ -1150,6 +1348,12 @@
     "debugging",
     "optimization",
     "control flow"
+   ],
+   "links": [
+    [
+     "STM",
+     "https://zio.dev/reference/stm/"
+    ]
    ]
   },
   {
@@ -1201,6 +1405,16 @@
     "repeat",
     "exponential backoff",
     "schedule composition"
+   ],
+   "links": [
+    [
+     "Schedule",
+     "https://zio.dev/reference/schedule/"
+    ],
+    [
+     "Retrying",
+     "https://zio.dev/reference/error-management/recovering/retrying/"
+    ]
    ]
   },
   {
@@ -1252,6 +1466,20 @@
     "stack traces",
     "fiber dumps",
     "supervisor"
+   ],
+   "links": [
+    [
+     "Supervisor",
+     "https://zio.dev/reference/observability/supervisor/"
+    ],
+    [
+     "Logging",
+     "https://zio.dev/reference/observability/logging/"
+    ],
+    [
+     "Tracing",
+     "https://zio.dev/reference/observability/tracing/"
+    ]
    ]
   },
   {
@@ -1277,6 +1505,12 @@
     "recoverable errors",
     "non-recoverable errors",
     "error modeling"
+   ],
+   "links": [
+    [
+     "Error-management best practices",
+     "https://zio.dev/reference/error-management/best-practices/"
+    ]
    ]
   },
   {
@@ -1321,6 +1555,16 @@
     "effectful iterator",
     "constructors",
     "run"
+   ],
+   "links": [
+    [
+     "ZStream",
+     "https://zio.dev/reference/stream/zstream/"
+    ],
+    [
+     "Creating streams",
+     "https://zio.dev/reference/stream/zstream/creating-zio-streams/"
+    ]
    ]
   },
   {
@@ -1345,6 +1589,16 @@
    "terms": [
     "ZSink",
     "ZPipeline"
+   ],
+   "links": [
+    [
+     "ZSink",
+     "https://zio.dev/reference/stream/zsink/"
+    ],
+    [
+     "ZPipeline",
+     "https://zio.dev/reference/stream/zpipeline/"
+    ]
    ]
   },
   {
@@ -1383,6 +1637,12 @@
     "channel constructors",
     "operators",
     "scopes"
+   ],
+   "links": [
+    [
+     "ZChannel",
+     "https://zio.dev/reference/stream/zchannel/"
+    ]
    ]
   },
   {
@@ -1456,6 +1716,12 @@
     "partition",
     "broadcast",
     "throttle"
+   ],
+   "links": [
+    [
+     "ZStream operations",
+     "https://zio.dev/reference/stream/zstream/operations/"
+    ]
    ]
   },
   {
@@ -1514,6 +1780,12 @@
     "cross",
     "orElse",
     "interleave"
+   ],
+   "links": [
+    [
+     "ZStream operations",
+     "https://zio.dev/reference/stream/zstream/operations/"
+    ]
    ]
   },
   {
@@ -1544,6 +1816,12 @@
    "terms": [
     "ZPipeline",
     "transformations"
+   ],
+   "links": [
+    [
+     "ZPipeline",
+     "https://zio.dev/reference/stream/zpipeline/"
+    ]
    ]
   },
   {
@@ -1581,6 +1859,16 @@
     "ZSink",
     "aggregation",
     "combining sinks"
+   ],
+   "links": [
+    [
+     "ZSink",
+     "https://zio.dev/reference/stream/zsink/"
+    ],
+    [
+     "Sink operations",
+     "https://zio.dev/reference/stream/zsink/operations/"
+    ]
    ]
   },
   {
@@ -1606,6 +1894,16 @@
     "tests as effects",
     "specs",
     "suites"
+   ],
+   "links": [
+    [
+     "Spec",
+     "https://zio.dev/reference/test/spec/"
+    ],
+    [
+     "Running tests",
+     "https://zio.dev/reference/test/running-tests/"
+    ]
    ]
   },
   {
@@ -1637,6 +1935,16 @@
     "Assertion",
     "smart assertions",
     "assertTrue"
+   ],
+   "links": [
+    [
+     "Assertions",
+     "https://zio.dev/reference/test/assertions/"
+    ],
+    [
+     "Smart assertions",
+     "https://zio.dev/reference/test/assertions/smart-assertions/"
+    ]
    ]
   },
   {
@@ -1669,6 +1977,16 @@
     "TestConsole",
     "TestRandom",
     "live environment"
+   ],
+   "links": [
+    [
+     "Test services",
+     "https://zio.dev/reference/test/services/"
+    ],
+    [
+     "Live",
+     "https://zio.dev/reference/test/services/live/"
+    ]
    ]
   },
   {
@@ -1708,6 +2026,12 @@
     "retries",
     "timeouts",
     "platform-specific"
+   ],
+   "links": [
+    [
+     "Test aspects",
+     "https://zio.dev/reference/test/aspects/"
+    ]
    ]
   },
   {
@@ -1745,6 +2069,16 @@
     "provideLayer",
     "shared layers",
     "test resources"
+   ],
+   "links": [
+    [
+     "Sharing layers across files",
+     "https://zio.dev/reference/test/sharing-layers-between-multiple-files/"
+    ],
+    [
+     "within a file",
+     "https://zio.dev/reference/test/sharing-layers-within-the-same-file/"
+    ]
    ]
   },
   {
@@ -1789,6 +2123,16 @@
     "generators",
     "shrinking",
     "check"
+   ],
+   "links": [
+    [
+     "Property testing",
+     "https://zio.dev/reference/test/property-testing/"
+    ],
+    [
+     "Shrinking",
+     "https://zio.dev/reference/test/property-testing/shrinking/"
+    ]
    ]
   },
   {
@@ -1832,6 +2176,12 @@
     "tagging",
     "annotations",
     "reporters"
+   ],
+   "links": [
+    [
+     "Annotating tests",
+     "https://zio.dev/reference/test/aspects/annotating-tests/"
+    ]
    ]
   },
   {
@@ -1856,6 +2206,12 @@
    "terms": [
     "reporting",
     "test results"
+   ],
+   "links": [
+    [
+     "Running tests",
+     "https://zio.dev/reference/test/running-tests/"
+    ]
    ]
   },
   {
@@ -2001,6 +2357,7 @@
  ],
  "title": "Zionomicon: Master the Dark Art of Creating Scalable, Type-Safe, Concurrent Apps with ZIO",
  "byline": "John A. De Goes, Adam Fraser and Milad Khajavi · Ziverge, edition of 20 November 2024",
- "note": "This book is very granular (about 40 chapters and 250 sections), so summaries and terms are given per chapter; each section is still listed with its own PDF page range. Conclusion and exercise sections are not broken out. An older 2021 draft of Zionomicon is also in your Drive and is superseded by this edition. Summaries are in our own words; the text stays in the PDF.",
- "summary": "The comprehensive guide to ZIO 2 for Scala, by its creator and core contributors. After a history of ZIO, it teaches effects as blueprints, testing, the typed error model and interop; then fibers and structured concurrency, concurrency operators, supervision and interruption; concurrent structures (Ref, Promise, Queue, Hub, Semaphore); resource safety with acquire/release and Scope; dependency injection with ZLayer and ZEnvironment; software transactional memory; retries with Schedule, debugging and error-handling practice; ZStream, channels, pipelines and sinks; ZIO Test in depth (assertions, test environment, aspects, resources, property-based testing, annotations, reporting); a parallel web crawler application; and appendices on Scala’s type system and variance."
+ "note": "This book is very granular (about 40 chapters and 250 sections), so summaries and terms are given per chapter; each section is still listed with its own PDF page range. Conclusion and exercise sections are not broken out. An older 2021 draft of Zionomicon is also in your Drive and is superseded by this edition. Chapters link to the matching pages of the official ZIO 2 reference at zio.dev, which covers the same APIs (it is separate documentation, not the book’s text). Summaries are in our own words; the text stays in the PDF.",
+ "summary": "The comprehensive guide to ZIO 2 for Scala, by its creator and core contributors. After a history of ZIO, it teaches effects as blueprints, testing, the typed error model and interop; then fibers and structured concurrency, concurrency operators, supervision and interruption; concurrent structures (Ref, Promise, Queue, Hub, Semaphore); resource safety with acquire/release and Scope; dependency injection with ZLayer and ZEnvironment; software transactional memory; retries with Schedule, debugging and error-handling practice; ZStream, channels, pipelines and sinks; ZIO Test in depth (assertions, test environment, aspects, resources, property-based testing, annotations, reporting); a parallel web crawler application; and appendices on Scala’s type system and variance.",
+ "links_label": "zio.dev reference"
 }
