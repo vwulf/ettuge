@@ -1,0 +1,1797 @@
+{
+ "url": "https://drive.google.com/file/d/1Fb74dzEJ17KaajLtWVRldrzBJfpMqkxd/view",
+ "chapters": [
+  {
+   "title": "A Scalable Language",
+   "start": 43,
+   "sections": [
+    {
+     "title": "A language that grows on you",
+     "start": 44,
+     "end": 46,
+     "summary": ""
+    },
+    {
+     "title": "What makes Scala scalable?",
+     "start": 47,
+     "end": 50,
+     "summary": ""
+    },
+    {
+     "title": "Why Scala?",
+     "start": 51,
+     "end": 57,
+     "summary": ""
+    },
+    {
+     "title": "Scala's roots",
+     "start": 58,
+     "end": 58,
+     "summary": ""
+    }
+   ],
+   "end": 60,
+   "summary": "Why Scala and what makes it scalable.",
+   "terms": [
+    "scalability",
+    "object-functional",
+    "Scala roots",
+    "Java interop"
+   ],
+   "links": [
+    [
+     "Scala features",
+     "https://docs.scala-lang.org/scala3/book/scala-features.html"
+    ],
+    [
+     "Why Scala 3",
+     "https://docs.scala-lang.org/scala3/book/why-scala-3.html"
+    ]
+   ]
+  },
+  {
+   "title": "First Steps in Scala",
+   "start": 61,
+   "sections": [
+    {
+     "title": "Learn to use the Scala REPL",
+     "start": 61,
+     "end": 62,
+     "summary": ""
+    },
+    {
+     "title": "Define some variables",
+     "start": 63,
+     "end": 64,
+     "summary": ""
+    },
+    {
+     "title": "Define some functions",
+     "start": 65,
+     "end": 66,
+     "summary": ""
+    },
+    {
+     "title": "Write some Scala scripts",
+     "start": 67,
+     "end": 67,
+     "summary": ""
+    },
+    {
+     "title": "Loop with while; decide with if",
+     "start": 68,
+     "end": 70,
+     "summary": ""
+    },
+    {
+     "title": "Iterate with foreach and for-do",
+     "start": 71,
+     "end": 72,
+     "summary": ""
+    }
+   ],
+   "end": 73,
+   "summary": "First programs at the REPL and in scripts.",
+   "terms": [
+    "REPL",
+    "val",
+    "var",
+    "def",
+    "scripts",
+    "while",
+    "if",
+    "foreach",
+    "for"
+   ],
+   "links": [
+    [
+     "The REPL",
+     "https://docs.scala-lang.org/scala3/book/taste-repl.html"
+    ],
+    [
+     "Variables and data types",
+     "https://docs.scala-lang.org/scala3/book/taste-vars-data-types.html"
+    ],
+    [
+     "Control structures",
+     "https://docs.scala-lang.org/scala3/book/taste-control-structures.html"
+    ]
+   ]
+  },
+  {
+   "title": "Next Steps in Scala",
+   "start": 74,
+   "sections": [
+    {
+     "title": "Parameterize arrays with types",
+     "start": 74,
+     "end": 77,
+     "summary": ""
+    },
+    {
+     "title": "Use lists",
+     "start": 78,
+     "end": 82,
+     "summary": ""
+    },
+    {
+     "title": "Use tuples",
+     "start": 83,
+     "end": 83,
+     "summary": ""
+    },
+    {
+     "title": "Use sets and maps",
+     "start": 84,
+     "end": 87,
+     "summary": ""
+    },
+    {
+     "title": "Learn to recognize the functional style",
+     "start": 88,
+     "end": 90,
+     "summary": ""
+    },
+    {
+     "title": "Transform with map and for-yield",
+     "start": 91,
+     "end": 93,
+     "summary": ""
+    }
+   ],
+   "end": 94,
+   "summary": "Arrays, lists, tuples, sets, maps and functional style.",
+   "terms": [
+    "Array",
+    "List",
+    "tuples",
+    "Set",
+    "Map",
+    "functional style",
+    "map",
+    "for-yield"
+   ],
+   "links": [
+    [
+     "Collections",
+     "https://docs.scala-lang.org/scala3/book/taste-collections.html"
+    ],
+    [
+     "Functions",
+     "https://docs.scala-lang.org/scala3/book/taste-functions.html"
+    ]
+   ]
+  },
+  {
+   "title": "Classes and Objects",
+   "start": 95,
+   "sections": [
+    {
+     "title": "Classes, fields, and methods",
+     "start": 95,
+     "end": 98,
+     "summary": ""
+    },
+    {
+     "title": "Semicolon inference",
+     "start": 99,
+     "end": 99,
+     "summary": ""
+    },
+    {
+     "title": "Singleton objects",
+     "start": 100,
+     "end": 102,
+     "summary": ""
+    },
+    {
+     "title": "Case classes",
+     "start": 103,
+     "end": 104,
+     "summary": ""
+    },
+    {
+     "title": "A Scala application",
+     "start": 105,
+     "end": 106,
+     "summary": ""
+    }
+   ],
+   "end": 107,
+   "summary": "Classes, singleton objects and case classes.",
+   "terms": [
+    "class",
+    "fields",
+    "methods",
+    "semicolon inference",
+    "object",
+    "companion",
+    "case class",
+    "main"
+   ],
+   "links": [
+    [
+     "Domain modeling tools",
+     "https://docs.scala-lang.org/scala3/book/domain-modeling-tools.html"
+    ],
+    [
+     "Singleton objects",
+     "https://docs.scala-lang.org/scala3/book/taste-objects.html"
+    ]
+   ]
+  },
+  {
+   "title": "Basic Types and Operations",
+   "start": 108,
+   "sections": [
+    {
+     "title": "Some basic types",
+     "start": 108,
+     "end": 108,
+     "summary": ""
+    },
+    {
+     "title": "Literals",
+     "start": 109,
+     "end": 113,
+     "summary": ""
+    },
+    {
+     "title": "String interpolation",
+     "start": 114,
+     "end": 115,
+     "summary": ""
+    },
+    {
+     "title": "Operators are methods",
+     "start": 116,
+     "end": 118,
+     "summary": ""
+    },
+    {
+     "title": "Arithmetic operations",
+     "start": 119,
+     "end": 119,
+     "summary": ""
+    },
+    {
+     "title": "Relational and logical operations",
+     "start": 120,
+     "end": 120,
+     "summary": ""
+    },
+    {
+     "title": "Bitwise operations",
+     "start": 121,
+     "end": 121,
+     "summary": ""
+    },
+    {
+     "title": "Object equality",
+     "start": 122,
+     "end": 123,
+     "summary": ""
+    },
+    {
+     "title": "Operator precedence and associativity",
+     "start": 124,
+     "end": 126,
+     "summary": ""
+    },
+    {
+     "title": "Rich operations",
+     "start": 127,
+     "end": 127,
+     "summary": ""
+    }
+   ],
+   "end": 128,
+   "summary": "Basic types, literals and operators.",
+   "terms": [
+    "Int",
+    "String",
+    "literals",
+    "string interpolation",
+    "operators as methods",
+    "equality",
+    "precedence",
+    "rich wrappers"
+   ],
+   "links": [
+    [
+     "A first look at types",
+     "https://docs.scala-lang.org/scala3/book/first-look-at-types.html"
+    ],
+    [
+     "String interpolation",
+     "https://docs.scala-lang.org/scala3/book/string-interpolation.html"
+    ]
+   ]
+  },
+  {
+   "title": "Functional Objects",
+   "start": 129,
+   "sections": [
+    {
+     "title": "A specification for class Rational",
+     "start": 129,
+     "end": 129,
+     "summary": ""
+    },
+    {
+     "title": "Constructing a Rational",
+     "start": 130,
+     "end": 131,
+     "summary": ""
+    },
+    {
+     "title": "Reimplementing the toString method",
+     "start": 132,
+     "end": 132,
+     "summary": ""
+    },
+    {
+     "title": "Checking preconditions",
+     "start": 133,
+     "end": 133,
+     "summary": ""
+    },
+    {
+     "title": "Adding fields",
+     "start": 134,
+     "end": 135,
+     "summary": ""
+    },
+    {
+     "title": "Self references",
+     "start": 136,
+     "end": 136,
+     "summary": ""
+    },
+    {
+     "title": "Auxiliary constructors",
+     "start": 136,
+     "end": 137,
+     "summary": ""
+    },
+    {
+     "title": "Private fields and methods",
+     "start": 138,
+     "end": 138,
+     "summary": ""
+    },
+    {
+     "title": "Defining operators",
+     "start": 139,
+     "end": 140,
+     "summary": ""
+    },
+    {
+     "title": "Identifiers in Scala",
+     "start": 141,
+     "end": 143,
+     "summary": ""
+    },
+    {
+     "title": "Method overloading",
+     "start": 144,
+     "end": 145,
+     "summary": ""
+    },
+    {
+     "title": "Extension methods",
+     "start": 146,
+     "end": 146,
+     "summary": ""
+    },
+    {
+     "title": "A word of caution",
+     "start": 147,
+     "end": 147,
+     "summary": ""
+    }
+   ],
+   "end": 148,
+   "summary": "Designing an immutable Rational class.",
+   "terms": [
+    "Rational",
+    "require",
+    "auxiliary constructors",
+    "operators",
+    "identifiers",
+    "overloading",
+    "extension methods"
+   ],
+   "links": [
+    [
+     "OOP modeling",
+     "https://docs.scala-lang.org/scala3/book/domain-modeling-oop.html"
+    ]
+   ]
+  },
+  {
+   "title": "Built-in Control Structures",
+   "start": 149,
+   "sections": [
+    {
+     "title": "If expressions",
+     "start": 150,
+     "end": 150,
+     "summary": ""
+    },
+    {
+     "title": "While loops",
+     "start": 151,
+     "end": 153,
+     "summary": ""
+    },
+    {
+     "title": "For expressions",
+     "start": 154,
+     "end": 158,
+     "summary": ""
+    },
+    {
+     "title": "Exception handling with try expressions",
+     "start": 159,
+     "end": 162,
+     "summary": ""
+    },
+    {
+     "title": "Match expressions",
+     "start": 163,
+     "end": 163,
+     "summary": ""
+    },
+    {
+     "title": "Living without break and continue",
+     "start": 164,
+     "end": 165,
+     "summary": ""
+    },
+    {
+     "title": "Variable scope",
+     "start": 166,
+     "end": 168,
+     "summary": ""
+    },
+    {
+     "title": "Refactoring imperative-style code",
+     "start": 169,
+     "end": 170,
+     "summary": ""
+    }
+   ],
+   "end": 171,
+   "summary": "if, while, for, try and match as expressions.",
+   "terms": [
+    "if",
+    "while",
+    "for expressions",
+    "try",
+    "match",
+    "no break/continue",
+    "scope"
+   ],
+   "links": [
+    [
+     "Control structures",
+     "https://docs.scala-lang.org/scala3/book/control-structures.html"
+    ]
+   ]
+  },
+  {
+   "title": "Functions and Closures",
+   "start": 172,
+   "sections": [
+    {
+     "title": "Methods",
+     "start": 172,
+     "end": 172,
+     "summary": ""
+    },
+    {
+     "title": "Local functions",
+     "start": 173,
+     "end": 174,
+     "summary": ""
+    },
+    {
+     "title": "First-class functions",
+     "start": 175,
+     "end": 175,
+     "summary": ""
+    },
+    {
+     "title": "Short forms of function literals",
+     "start": 176,
+     "end": 176,
+     "summary": ""
+    },
+    {
+     "title": "Placeholder syntax",
+     "start": 177,
+     "end": 177,
+     "summary": ""
+    },
+    {
+     "title": "Partially applied functions",
+     "start": 178,
+     "end": 180,
+     "summary": ""
+    },
+    {
+     "title": "Closures",
+     "start": 181,
+     "end": 182,
+     "summary": ""
+    },
+    {
+     "title": "Special function call forms",
+     "start": 183,
+     "end": 185,
+     "summary": ""
+    },
+    {
+     "title": "``SAM'' types",
+     "start": 186,
+     "end": 187,
+     "summary": ""
+    },
+    {
+     "title": "Tail recursion",
+     "start": 188,
+     "end": 190,
+     "summary": ""
+    }
+   ],
+   "end": 191,
+   "summary": "Functions and closures.",
+   "terms": [
+    "local functions",
+    "function literals",
+    "placeholder syntax",
+    "partial application",
+    "closures",
+    "SAM types",
+    "tail recursion"
+   ],
+   "links": [
+    [
+     "Anonymous functions",
+     "https://docs.scala-lang.org/scala3/book/fun-anonymous-functions.html"
+    ],
+    [
+     "Function variables",
+     "https://docs.scala-lang.org/scala3/book/fun-function-variables.html"
+    ],
+    [
+     "Eta expansion",
+     "https://docs.scala-lang.org/scala3/book/fun-eta-expansion.html"
+    ]
+   ]
+  },
+  {
+   "title": "Control Abstraction",
+   "start": 192,
+   "sections": [
+    {
+     "title": "Reducing code duplication",
+     "start": 192,
+     "end": 195,
+     "summary": ""
+    },
+    {
+     "title": "Simplifying client code",
+     "start": 196,
+     "end": 197,
+     "summary": ""
+    },
+    {
+     "title": "Currying",
+     "start": 198,
+     "end": 198,
+     "summary": ""
+    },
+    {
+     "title": "Writing new control structures",
+     "start": 199,
+     "end": 201,
+     "summary": ""
+    },
+    {
+     "title": "By-name parameters",
+     "start": 202,
+     "end": 203,
+     "summary": ""
+    }
+   ],
+   "end": 205,
+   "summary": "Building your own control abstractions.",
+   "terms": [
+    "higher-order functions",
+    "currying",
+    "by-name parameters",
+    "loan pattern"
+   ],
+   "links": [
+    [
+     "Higher-order functions",
+     "https://docs.scala-lang.org/scala3/book/fun-hofs.html"
+    ],
+    [
+     "Methods returning functions",
+     "https://docs.scala-lang.org/scala3/book/fun-write-method-returns-function.html"
+    ]
+   ]
+  },
+  {
+   "title": "Composition and Inheritance",
+   "start": 206,
+   "sections": [
+    {
+     "title": "A two-dimensional layout library",
+     "start": 206,
+     "end": 206,
+     "summary": ""
+    },
+    {
+     "title": "Abstract classes",
+     "start": 207,
+     "end": 207,
+     "summary": ""
+    },
+    {
+     "title": "Defining parameterless methods",
+     "start": 208,
+     "end": 210,
+     "summary": ""
+    },
+    {
+     "title": "Extending classes",
+     "start": 211,
+     "end": 212,
+     "summary": ""
+    },
+    {
+     "title": "Overriding methods and fields",
+     "start": 213,
+     "end": 213,
+     "summary": ""
+    },
+    {
+     "title": "Defining parametric fields",
+     "start": 214,
+     "end": 215,
+     "summary": ""
+    },
+    {
+     "title": "Invoking superclass constructors",
+     "start": 216,
+     "end": 216,
+     "summary": ""
+    },
+    {
+     "title": "Using override modifiers",
+     "start": 217,
+     "end": 218,
+     "summary": ""
+    },
+    {
+     "title": "Polymorphism and dynamic binding",
+     "start": 219,
+     "end": 220,
+     "summary": ""
+    },
+    {
+     "title": "Declaring final members",
+     "start": 221,
+     "end": 221,
+     "summary": ""
+    },
+    {
+     "title": "Using composition and inheritance",
+     "start": 222,
+     "end": 223,
+     "summary": ""
+    },
+    {
+     "title": "Implementing above, beside, and toString",
+     "start": 224,
+     "end": 225,
+     "summary": ""
+    },
+    {
+     "title": "Defining a factory object",
+     "start": 226,
+     "end": 227,
+     "summary": ""
+    },
+    {
+     "title": "Heighten and widen",
+     "start": 228,
+     "end": 229,
+     "summary": ""
+    },
+    {
+     "title": "Putting it all together",
+     "start": 230,
+     "end": 232,
+     "summary": ""
+    }
+   ],
+   "end": 233,
+   "summary": "Composition vs. inheritance via a layout library.",
+   "terms": [
+    "abstract classes",
+    "parameterless methods",
+    "override",
+    "parametric fields",
+    "polymorphism",
+    "final",
+    "factory objects"
+   ],
+   "links": [
+    [
+     "OOP modeling",
+     "https://docs.scala-lang.org/scala3/book/domain-modeling-oop.html"
+    ]
+   ]
+  },
+  {
+   "title": "Traits",
+   "start": 234,
+   "sections": [
+    {
+     "title": "How traits work",
+     "start": 234,
+     "end": 236,
+     "summary": ""
+    },
+    {
+     "title": "Thin versus rich interfaces",
+     "start": 237,
+     "end": 238,
+     "summary": ""
+    },
+    {
+     "title": "Traits as stackable modifications",
+     "start": 239,
+     "end": 242,
+     "summary": ""
+    },
+    {
+     "title": "Why not multiple inheritance?",
+     "start": 243,
+     "end": 247,
+     "summary": ""
+    },
+    {
+     "title": "Trait parameters",
+     "start": 248,
+     "end": 249,
+     "summary": ""
+    }
+   ],
+   "end": 250,
+   "summary": "Traits.",
+   "terms": [
+    "traits",
+    "rich interfaces",
+    "stackable modifications",
+    "linearization",
+    "trait parameters"
+   ],
+   "links": [
+    [
+     "Domain modeling tools",
+     "https://docs.scala-lang.org/scala3/book/domain-modeling-tools.html"
+    ],
+    [
+     "OOP modeling",
+     "https://docs.scala-lang.org/scala3/book/domain-modeling-oop.html"
+    ]
+   ]
+  },
+  {
+   "title": "Packages, Imports, and Exports",
+   "start": 251,
+   "sections": [
+    {
+     "title": "Putting code in packages",
+     "start": 251,
+     "end": 251,
+     "summary": ""
+    },
+    {
+     "title": "Concise access to related code",
+     "start": 252,
+     "end": 255,
+     "summary": ""
+    },
+    {
+     "title": "Imports",
+     "start": 256,
+     "end": 258,
+     "summary": ""
+    },
+    {
+     "title": "Implicit imports",
+     "start": 259,
+     "end": 259,
+     "summary": ""
+    },
+    {
+     "title": "Access modifiers",
+     "start": 260,
+     "end": 264,
+     "summary": ""
+    },
+    {
+     "title": "Top-level definitions",
+     "start": 265,
+     "end": 265,
+     "summary": ""
+    },
+    {
+     "title": "Exports",
+     "start": 266,
+     "end": 268,
+     "summary": ""
+    }
+   ],
+   "end": 269,
+   "summary": "Packages, imports, access and exports.",
+   "terms": [
+    "packages",
+    "imports",
+    "access modifiers",
+    "top-level definitions",
+    "export clauses"
+   ],
+   "links": [
+    [
+     "Packaging and imports",
+     "https://docs.scala-lang.org/scala3/book/packaging-imports.html"
+    ],
+    [
+     "Export clauses",
+     "https://docs.scala-lang.org/scala3/reference/other-new-features/export.html"
+    ]
+   ]
+  },
+  {
+   "title": "Pattern Matching",
+   "start": 270,
+   "sections": [
+    {
+     "title": "A simple example",
+     "start": 270,
+     "end": 273,
+     "summary": ""
+    },
+    {
+     "title": "Kinds of patterns",
+     "start": 274,
+     "end": 283,
+     "summary": ""
+    },
+    {
+     "title": "Pattern guards",
+     "start": 284,
+     "end": 284,
+     "summary": ""
+    },
+    {
+     "title": "Pattern overlaps",
+     "start": 285,
+     "end": 286,
+     "summary": ""
+    },
+    {
+     "title": "Sealed classes",
+     "start": 287,
+     "end": 288,
+     "summary": ""
+    },
+    {
+     "title": "Pattern matching Options",
+     "start": 289,
+     "end": 290,
+     "summary": ""
+    },
+    {
+     "title": "Patterns everywhere",
+     "start": 291,
+     "end": 294,
+     "summary": ""
+    },
+    {
+     "title": "A larger example",
+     "start": 295,
+     "end": 302,
+     "summary": ""
+    }
+   ],
+   "end": 303,
+   "summary": "Pattern matching.",
+   "terms": [
+    "patterns",
+    "guards",
+    "sealed classes",
+    "Option",
+    "case sequences",
+    "expression simplifier"
+   ],
+   "links": [
+    [
+     "Control structures (match)",
+     "https://docs.scala-lang.org/scala3/book/control-structures.html"
+    ]
+   ]
+  },
+  {
+   "title": "Working with Lists",
+   "start": 304,
+   "sections": [
+    {
+     "title": "List literals",
+     "start": 304,
+     "end": 304,
+     "summary": ""
+    },
+    {
+     "title": "The List type",
+     "start": 305,
+     "end": 305,
+     "summary": ""
+    },
+    {
+     "title": "Constructing lists",
+     "start": 305,
+     "end": 305,
+     "summary": ""
+    },
+    {
+     "title": "Basic operations on lists",
+     "start": 306,
+     "end": 306,
+     "summary": ""
+    },
+    {
+     "title": "List patterns",
+     "start": 307,
+     "end": 308,
+     "summary": ""
+    },
+    {
+     "title": "First-order methods on class List",
+     "start": 309,
+     "end": 319,
+     "summary": ""
+    },
+    {
+     "title": "Higher-order methods on class List",
+     "start": 320,
+     "end": 326,
+     "summary": ""
+    },
+    {
+     "title": "Methods of the List object",
+     "start": 327,
+     "end": 328,
+     "summary": ""
+    },
+    {
+     "title": "Processing multiple lists together",
+     "start": 329,
+     "end": 330,
+     "summary": ""
+    },
+    {
+     "title": "Understanding Scala's type inference algorithm",
+     "start": 331,
+     "end": 333,
+     "summary": ""
+    }
+   ],
+   "end": 334,
+   "summary": "Programming with lists.",
+   "terms": [
+    "List",
+    "cons",
+    "list patterns",
+    "first-order methods",
+    "higher-order methods",
+    "foldLeft",
+    "type inference"
+   ],
+   "links": [
+    [
+     "Collection types",
+     "https://docs.scala-lang.org/scala3/book/collections-classes.html"
+    ],
+    [
+     "Collection methods",
+     "https://docs.scala-lang.org/scala3/book/collections-methods.html"
+    ]
+   ]
+  },
+  {
+   "title": "Working with Other Collections",
+   "start": 335,
+   "sections": [
+    {
+     "title": "Sequences",
+     "start": 335,
+     "end": 338,
+     "summary": ""
+    },
+    {
+     "title": "Sets and maps",
+     "start": 339,
+     "end": 345,
+     "summary": ""
+    },
+    {
+     "title": "Selecting mutable versus immutable collections",
+     "start": 346,
+     "end": 347,
+     "summary": ""
+    },
+    {
+     "title": "Initializing collections",
+     "start": 348,
+     "end": 350,
+     "summary": ""
+    },
+    {
+     "title": "Tuples",
+     "start": 351,
+     "end": 352,
+     "summary": ""
+    }
+   ],
+   "end": 354,
+   "summary": "Other collections.",
+   "terms": [
+    "Seq",
+    "ListBuffer",
+    "ArrayBuffer",
+    "Set",
+    "Map",
+    "mutable vs immutable",
+    "tuples"
+   ],
+   "links": [
+    [
+     "Collection types",
+     "https://docs.scala-lang.org/scala3/book/collections-classes.html"
+    ]
+   ]
+  },
+  {
+   "title": "Mutable Objects",
+   "start": 355,
+   "sections": [
+    {
+     "title": "What makes an object mutable?",
+     "start": 355,
+     "end": 356,
+     "summary": ""
+    },
+    {
+     "title": "Reassignable variables and properties",
+     "start": 357,
+     "end": 360,
+     "summary": ""
+    },
+    {
+     "title": "Case study: Discrete event simulation",
+     "start": 361,
+     "end": 361,
+     "summary": ""
+    },
+    {
+     "title": "A language for digital circuits",
+     "start": 362,
+     "end": 364,
+     "summary": ""
+    },
+    {
+     "title": "The Simulation API",
+     "start": 365,
+     "end": 368,
+     "summary": ""
+    },
+    {
+     "title": "Circuit Simulation",
+     "start": 369,
+     "end": 375,
+     "summary": ""
+    }
+   ],
+   "end": 377,
+   "summary": "Mutable objects and a discrete-event simulation.",
+   "terms": [
+    "mutable state",
+    "getters and setters",
+    "discrete event simulation",
+    "digital circuits"
+   ]
+  },
+  {
+   "title": "Scala's Hierarchy",
+   "start": 378,
+   "sections": [
+    {
+     "title": "Scala's class hierarchy",
+     "start": 378,
+     "end": 381,
+     "summary": ""
+    },
+    {
+     "title": "How primitives are implemented",
+     "start": 382,
+     "end": 383,
+     "summary": ""
+    },
+    {
+     "title": "Bottom types",
+     "start": 384,
+     "end": 384,
+     "summary": ""
+    },
+    {
+     "title": "Defining your own value classes",
+     "start": 385,
+     "end": 387,
+     "summary": ""
+    },
+    {
+     "title": "Intersection types",
+     "start": 388,
+     "end": 388,
+     "summary": ""
+    },
+    {
+     "title": "Union types",
+     "start": 389,
+     "end": 391,
+     "summary": ""
+    },
+    {
+     "title": "Transparent traits",
+     "start": 392,
+     "end": 392,
+     "summary": ""
+    }
+   ],
+   "end": 393,
+   "summary": "The class hierarchy and special types.",
+   "terms": [
+    "Any",
+    "AnyVal",
+    "AnyRef",
+    "Nothing",
+    "Null",
+    "value classes",
+    "intersection types",
+    "union types",
+    "transparent traits"
+   ],
+   "links": [
+    [
+     "A first look at types",
+     "https://docs.scala-lang.org/scala3/book/first-look-at-types.html"
+    ],
+    [
+     "Intersection types",
+     "https://docs.scala-lang.org/scala3/book/types-intersection.html"
+    ],
+    [
+     "Union types",
+     "https://docs.scala-lang.org/scala3/book/types-union.html"
+    ]
+   ]
+  },
+  {
+   "title": "Type Parameterization",
+   "start": 394,
+   "sections": [
+    {
+     "title": "Functional queues",
+     "start": 394,
+     "end": 396,
+     "summary": ""
+    },
+    {
+     "title": "Information hiding",
+     "start": 397,
+     "end": 399,
+     "summary": ""
+    },
+    {
+     "title": "Variance annotations",
+     "start": 400,
+     "end": 404,
+     "summary": ""
+    },
+    {
+     "title": "Checking variance annotations",
+     "start": 405,
+     "end": 407,
+     "summary": ""
+    },
+    {
+     "title": "Lower bounds",
+     "start": 408,
+     "end": 408,
+     "summary": ""
+    },
+    {
+     "title": "Contravariance",
+     "start": 409,
+     "end": 412,
+     "summary": ""
+    },
+    {
+     "title": "Upper bounds",
+     "start": 413,
+     "end": 414,
+     "summary": ""
+    }
+   ],
+   "end": 415,
+   "summary": "Type parameters and variance.",
+   "terms": [
+    "generic types",
+    "information hiding",
+    "variance annotations",
+    "covariance",
+    "contravariance",
+    "lower bounds",
+    "upper bounds"
+   ],
+   "links": [
+    [
+     "Generics",
+     "https://docs.scala-lang.org/scala3/book/types-generics.html"
+    ],
+    [
+     "Variance",
+     "https://docs.scala-lang.org/scala3/book/types-variance.html"
+    ]
+   ]
+  },
+  {
+   "title": "Enums",
+   "start": 416,
+   "sections": [
+    {
+     "title": "Enumerated data types",
+     "start": 416,
+     "end": 419,
+     "summary": ""
+    },
+    {
+     "title": "Algebraic data types",
+     "start": 420,
+     "end": 421,
+     "summary": ""
+    },
+    {
+     "title": "Generalized ADTs",
+     "start": 422,
+     "end": 422,
+     "summary": ""
+    },
+    {
+     "title": "What makes ADTs algebraic",
+     "start": 423,
+     "end": 426,
+     "summary": ""
+    }
+   ],
+   "end": 427,
+   "summary": "Enums and algebraic data types.",
+   "terms": [
+    "enum",
+    "ADTs",
+    "GADTs"
+   ],
+   "links": [
+    [
+     "ADTs and GADTs",
+     "https://docs.scala-lang.org/scala3/book/types-adts-gadts.html"
+    ],
+    [
+     "Enums (reference)",
+     "https://docs.scala-lang.org/scala3/reference/enums/enums.html"
+    ]
+   ]
+  },
+  {
+   "title": "Abstract Members",
+   "start": 428,
+   "sections": [
+    {
+     "title": "A quick tour of abstract members",
+     "start": 428,
+     "end": 428,
+     "summary": ""
+    },
+    {
+     "title": "Type members",
+     "start": 429,
+     "end": 429,
+     "summary": ""
+    },
+    {
+     "title": "Abstract vals",
+     "start": 430,
+     "end": 430,
+     "summary": ""
+    },
+    {
+     "title": "Abstract vars",
+     "start": 430,
+     "end": 431,
+     "summary": ""
+    },
+    {
+     "title": "Initializing abstract vals",
+     "start": 432,
+     "end": 438,
+     "summary": ""
+    },
+    {
+     "title": "Abstract types",
+     "start": 439,
+     "end": 440,
+     "summary": ""
+    },
+    {
+     "title": "Path-dependent types",
+     "start": 441,
+     "end": 443,
+     "summary": ""
+    },
+    {
+     "title": "Refinement types",
+     "start": 444,
+     "end": 444,
+     "summary": ""
+    },
+    {
+     "title": "Case study: Currencies",
+     "start": 445,
+     "end": 452,
+     "summary": ""
+    }
+   ],
+   "end": 454,
+   "summary": "Abstract members and path-dependent types.",
+   "terms": [
+    "abstract types",
+    "abstract vals",
+    "lazy vals",
+    "path-dependent types",
+    "refinement types"
+   ],
+   "links": [
+    [
+     "OOP modeling",
+     "https://docs.scala-lang.org/scala3/book/domain-modeling-oop.html"
+    ],
+    [
+     "Dependent function types",
+     "https://docs.scala-lang.org/scala3/book/types-dependent-function.html"
+    ]
+   ]
+  },
+  {
+   "title": "Givens",
+   "start": 455,
+   "sections": [
+    {
+     "title": "How it works",
+     "start": 455,
+     "end": 458,
+     "summary": ""
+    },
+    {
+     "title": "Parameterized given types",
+     "start": 459,
+     "end": 463,
+     "summary": ""
+    },
+    {
+     "title": "Anonymous givens",
+     "start": 464,
+     "end": 464,
+     "summary": ""
+    },
+    {
+     "title": "Parameterized givens as typeclasses",
+     "start": 465,
+     "end": 467,
+     "summary": ""
+    },
+    {
+     "title": "Given imports",
+     "start": 468,
+     "end": 468,
+     "summary": ""
+    },
+    {
+     "title": "Rules for context parameters",
+     "start": 469,
+     "end": 471,
+     "summary": ""
+    },
+    {
+     "title": "When multiple givens apply",
+     "start": 472,
+     "end": 473,
+     "summary": ""
+    },
+    {
+     "title": "Debugging givens",
+     "start": 474,
+     "end": 475,
+     "summary": ""
+    }
+   ],
+   "end": 476,
+   "summary": "Givens and context parameters.",
+   "terms": [
+    "given",
+    "using",
+    "context parameters",
+    "given imports",
+    "ambiguity"
+   ],
+   "links": [
+    [
+     "Context parameters",
+     "https://docs.scala-lang.org/scala3/book/ca-context-parameters.html"
+    ],
+    [
+     "Given imports",
+     "https://docs.scala-lang.org/scala3/book/ca-given-imports.html"
+    ]
+   ]
+  },
+  {
+   "title": "Extension Methods",
+   "start": 477,
+   "sections": [
+    {
+     "title": "The basics",
+     "start": 477,
+     "end": 479,
+     "summary": ""
+    },
+    {
+     "title": "Generic extensions",
+     "start": 480,
+     "end": 480,
+     "summary": ""
+    },
+    {
+     "title": "Collective extensions",
+     "start": 481,
+     "end": 483,
+     "summary": ""
+    },
+    {
+     "title": "Using a typeclass",
+     "start": 484,
+     "end": 485,
+     "summary": ""
+    },
+    {
+     "title": "Extension methods for givens",
+     "start": 486,
+     "end": 489,
+     "summary": ""
+    },
+    {
+     "title": "Where Scala looks for extension methods",
+     "start": 490,
+     "end": 490,
+     "summary": ""
+    }
+   ],
+   "end": 492,
+   "summary": "Extension methods.",
+   "terms": [
+    "extension methods",
+    "generic extensions",
+    "collective extensions",
+    "typeclass syntax"
+   ],
+   "links": [
+    [
+     "Extension methods",
+     "https://docs.scala-lang.org/scala3/book/ca-extension-methods.html"
+    ]
+   ]
+  },
+  {
+   "title": "Typeclasses",
+   "start": 493,
+   "sections": [
+    {
+     "title": "Why typeclasses?",
+     "start": 493,
+     "end": 497,
+     "summary": ""
+    },
+    {
+     "title": "Context bounds",
+     "start": 498,
+     "end": 500,
+     "summary": ""
+    },
+    {
+     "title": "Main methods",
+     "start": 501,
+     "end": 504,
+     "summary": ""
+    },
+    {
+     "title": "Multiversal equality",
+     "start": 505,
+     "end": 510,
+     "summary": ""
+    },
+    {
+     "title": "Implicit conversions",
+     "start": 511,
+     "end": 513,
+     "summary": ""
+    },
+    {
+     "title": "Typeclass case study: JSON serialization",
+     "start": 514,
+     "end": 522,
+     "summary": ""
+    }
+   ],
+   "end": 524,
+   "summary": "Typeclasses in Scala 3.",
+   "terms": [
+    "typeclasses",
+    "context bounds",
+    "@main",
+    "multiversal equality",
+    "CanEqual",
+    "implicit conversions",
+    "JSON serialization"
+   ],
+   "links": [
+    [
+     "Type classes",
+     "https://docs.scala-lang.org/scala3/book/ca-type-classes.html"
+    ],
+    [
+     "Context bounds",
+     "https://docs.scala-lang.org/scala3/book/ca-context-bounds.html"
+    ],
+    [
+     "Multiversal equality",
+     "https://docs.scala-lang.org/scala3/book/ca-multiversal-equality.html"
+    ],
+    [
+     "Implicit conversions",
+     "https://docs.scala-lang.org/scala3/book/ca-implicit-conversions.html"
+    ]
+   ]
+  },
+  {
+   "title": "Collections in Depth",
+   "start": 525,
+   "sections": [
+    {
+     "title": "Mutable and immutable collections",
+     "start": 526,
+     "end": 527,
+     "summary": ""
+    },
+    {
+     "title": "Collections consistency",
+     "start": 528,
+     "end": 529,
+     "summary": ""
+    },
+    {
+     "title": "Trait Iterable",
+     "start": 530,
+     "end": 536,
+     "summary": ""
+    },
+    {
+     "title": "The sequence traits Seq, IndexedSeq, and LinearSeq",
+     "start": 537,
+     "end": 543,
+     "summary": ""
+    },
+    {
+     "title": "Sets",
+     "start": 544,
+     "end": 547,
+     "summary": ""
+    },
+    {
+     "title": "Maps",
+     "start": 548,
+     "end": 551,
+     "summary": ""
+    },
+    {
+     "title": "Concrete immutable collection classes",
+     "start": 552,
+     "end": 558,
+     "summary": ""
+    },
+    {
+     "title": "Concrete mutable collection classes",
+     "start": 559,
+     "end": 563,
+     "summary": ""
+    },
+    {
+     "title": "Arrays",
+     "start": 564,
+     "end": 567,
+     "summary": ""
+    },
+    {
+     "title": "Strings",
+     "start": 568,
+     "end": 568,
+     "summary": ""
+    },
+    {
+     "title": "Performance characteristics",
+     "start": 569,
+     "end": 570,
+     "summary": ""
+    },
+    {
+     "title": "Equality",
+     "start": 571,
+     "end": 571,
+     "summary": ""
+    },
+    {
+     "title": "Views",
+     "start": 572,
+     "end": 575,
+     "summary": ""
+    },
+    {
+     "title": "Iterators",
+     "start": 576,
+     "end": 583,
+     "summary": ""
+    },
+    {
+     "title": "Creating collections from scratch",
+     "start": 584,
+     "end": 585,
+     "summary": ""
+    },
+    {
+     "title": "Conversions between Java and Scala collections",
+     "start": 586,
+     "end": 587,
+     "summary": ""
+    }
+   ],
+   "end": 588,
+   "summary": "The collections library in depth.",
+   "terms": [
+    "Iterable",
+    "Seq",
+    "Set",
+    "Map",
+    "immutable and mutable collections",
+    "Array",
+    "String",
+    "performance",
+    "views",
+    "Iterator"
+   ],
+   "links": [
+    [
+     "Collections overview (2.13+)",
+     "https://docs.scala-lang.org/overviews/collections-2.13/introduction.html"
+    ],
+    [
+     "Performance characteristics",
+     "https://docs.scala-lang.org/overviews/collections-2.13/performance-characteristics.html"
+    ]
+   ]
+  },
+  {
+   "title": "Assertions and Tests",
+   "start": 589,
+   "sections": [
+    {
+     "title": "Assertions",
+     "start": 589,
+     "end": 590,
+     "summary": ""
+    },
+    {
+     "title": "Testing in Scala",
+     "start": 591,
+     "end": 591,
+     "summary": ""
+    },
+    {
+     "title": "Informative failure reports",
+     "start": 592,
+     "end": 593,
+     "summary": ""
+    },
+    {
+     "title": "Tests as specifications",
+     "start": 594,
+     "end": 596,
+     "summary": ""
+    },
+    {
+     "title": "Property-based testing",
+     "start": 597,
+     "end": 598,
+     "summary": ""
+    },
+    {
+     "title": "Organizing and running tests",
+     "start": 599,
+     "end": 599,
+     "summary": ""
+    }
+   ],
+   "end": 600,
+   "summary": "Assertions and testing.",
+   "terms": [
+    "assert",
+    "ensuring",
+    "ScalaTest",
+    "specifications",
+    "property-based testing",
+    "ScalaCheck"
+   ]
+  }
+ ],
+ "title": "Programming in Scala (5th edition, Scala 3)",
+ "byline": "Martin Odersky, Lex Spoon, Bill Venners and Frank Sommers · Artima, 2021",
+ "note": "This book is long and granular, so summaries and terms are given per chapter; each section is still listed with its PDF page range. Conclusion sections, the glossary, bibliography and index are not broken out. Chapters also link to the matching pages of the official Scala 3 documentation at docs.scala-lang.org (separate documentation, not the book’s text). Summaries are in our own words; the text stays in the PDF.",
+ "summary": "The standard Scala book by the language’s designer, updated for Scala 3. It introduces the language from the REPL and scripts through classes, objects and basic types, builds functional objects (Rational), and covers control structures, functions and closures, control abstraction, composition and inheritance, traits, packages/imports/exports and pattern matching. It then treats lists and other collections, mutable objects with a circuit-simulation case study, the type hierarchy including union and intersection types, type parameterization and variance, enums and ADTs, abstract members and path-dependent types, and Scala 3’s contextual abstractions: givens, extension methods and typeclasses with derivation-style examples, before a deep tour of the collections library and testing.",
+ "links_label": "Scala 3 docs"
+}

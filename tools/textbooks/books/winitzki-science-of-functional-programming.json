@@ -1,0 +1,817 @@
+{
+ "url": "https://drive.google.com/file/d/1w6tmvwtlcT0XxiZ98cRwMdww0G8BW3AY/view",
+ "chapters": [
+  {
+   "title": "1 Mathematical formulas as code. I. Nameless functions",
+   "start": 25,
+   "sections": [
+    {
+     "title": "1.1 Translating mathematics into code",
+     "start": 25,
+     "end": 30,
+     "summary": ""
+    },
+    {
+     "title": "1.2 Aggregating data from sequences",
+     "start": 31,
+     "end": 32,
+     "summary": ""
+    },
+    {
+     "title": "1.3 Filtering and truncating a sequence",
+     "start": 33,
+     "end": 33,
+     "summary": ""
+    },
+    {
+     "title": "1.4 Examples",
+     "start": 34,
+     "end": 36,
+     "summary": ""
+    },
+    {
+     "title": "1.7 Discussion",
+     "start": 40,
+     "end": 48,
+     "summary": ""
+    }
+   ],
+   "end": 48,
+   "summary": "Functions as formulas and anonymous functions.",
+   "terms": [
+    "nameless functions",
+    "map",
+    "filter",
+    "aggregation",
+    "sum",
+    "product"
+   ]
+  },
+  {
+   "title": "2 Mathematical formulas as code. II. Mathematical induction",
+   "start": 49,
+   "sections": [
+    {
+     "title": "2.1 Tuple types",
+     "start": 49,
+     "end": 65,
+     "summary": ""
+    },
+    {
+     "title": "2.2 Converting a sequence into a single value",
+     "start": 66,
+     "end": 82,
+     "summary": ""
+    },
+    {
+     "title": "2.3 Generating a sequence from a single value",
+     "start": 83,
+     "end": 84,
+     "summary": ""
+    },
+    {
+     "title": "2.4 Transforming a sequence into another sequence",
+     "start": 85,
+     "end": 86,
+     "summary": ""
+    }
+   ],
+   "end": 108,
+   "summary": "Induction, recursion and folds.",
+   "terms": [
+    "tuples",
+    "foldLeft",
+    "recursion",
+    "unfold",
+    "scan",
+    "tail recursion",
+    "mathematical induction"
+   ]
+  },
+  {
+   "title": "3 The logic of types. I. Disjunctive types",
+   "start": 109,
+   "sections": [
+    {
+     "title": "3.1 Scala's ``case classes''",
+     "start": 109,
+     "end": 114,
+     "summary": ""
+    },
+    {
+     "title": "3.2 Disjunctive types",
+     "start": 115,
+     "end": 129,
+     "summary": ""
+    },
+    {
+     "title": "3.3 Lists and trees as recursive disjunctive types",
+     "start": 130,
+     "end": 141,
+     "summary": ""
+    }
+   ],
+   "end": 154,
+   "summary": "Case classes and disjunctive (sum) types.",
+   "terms": [
+    "case classes",
+    "sealed traits",
+    "Either",
+    "Option",
+    "recursive types",
+    "lists",
+    "trees"
+   ]
+  },
+  {
+   "title": "4 The logic of types. II. Curried functions",
+   "start": 155,
+   "sections": [
+    {
+     "title": "4.1 Functions that return functions",
+     "start": 155,
+     "end": 160,
+     "summary": ""
+    },
+    {
+     "title": "4.2 Fully parametric functions",
+     "start": 161,
+     "end": 168,
+     "summary": ""
+    },
+    {
+     "title": "4.3 Symbolic calculations with nameless functions",
+     "start": 169,
+     "end": 175,
+     "summary": ""
+    }
+   ],
+   "end": 190,
+   "summary": "Currying and fully parametric functions.",
+   "terms": [
+    "curried functions",
+    "parametric polymorphism",
+    "symbolic calculations"
+   ]
+  },
+  {
+   "title": "5 The logic of types. III. The Curry-Howard correspondence",
+   "start": 191,
+   "sections": [
+    {
+     "title": "5.1 Values computed by fully parametric functions",
+     "start": 191,
+     "end": 202,
+     "summary": ""
+    },
+    {
+     "title": "5.2 The logic of CH-propositions",
+     "start": 203,
+     "end": 229,
+     "summary": ""
+    },
+    {
+     "title": "5.3 Equivalence of types",
+     "start": 230,
+     "end": 251,
+     "summary": ""
+    }
+   ],
+   "end": 276,
+   "summary": "Types as propositions.",
+   "terms": [
+    "Curry-Howard",
+    "CH-propositions",
+    "type equivalence",
+    "type isomorphisms",
+    "implementability"
+   ]
+  },
+  {
+   "title": "Essay: Towards functional data engineering with Scala",
+   "start": 277,
+   "sections": [
+    {
+     "title": "Data is math",
+     "start": 277,
+     "end": 277,
+     "summary": ""
+    },
+    {
+     "title": "Functional programming is math",
+     "start": 278,
+     "end": 278,
+     "summary": ""
+    },
+    {
+     "title": "The power of abstraction",
+     "start": 279,
+     "end": 279,
+     "summary": ""
+    },
+    {
+     "title": "Scala is Java on math",
+     "start": 280,
+     "end": 280,
+     "summary": ""
+    }
+   ],
+   "end": 284,
+   "summary": "Essay: data engineering as applied mathematics.",
+   "terms": [
+    "functional data engineering",
+    "Scala",
+    "abstraction"
+   ]
+  },
+  {
+   "title": "6 Functors and contrafunctors",
+   "start": 285,
+   "sections": [
+    {
+     "title": "6.1 Practical use",
+     "start": 285,
+     "end": 321,
+     "summary": ""
+    },
+    {
+     "title": "6.2 Laws and structure",
+     "start": 322,
+     "end": 342,
+     "summary": ""
+    },
+    {
+     "title": "6.4 Further developments",
+     "start": 345,
+     "end": 348,
+     "summary": ""
+    }
+   ],
+   "end": 348,
+   "summary": "Functors and contrafunctors.",
+   "terms": [
+    "functor laws",
+    "contrafunctors",
+    "profunctors",
+    "functor constructions"
+   ]
+  },
+  {
+   "title": "7 Reasoning about code. Techniques of symbolic derivation",
+   "start": 349,
+   "sections": [
+    {
+     "title": "7.1 This book's notation for code",
+     "start": 349,
+     "end": 356,
+     "summary": ""
+    },
+    {
+     "title": "7.2 Derivation techniques",
+     "start": 357,
+     "end": 368,
+     "summary": ""
+    }
+   ],
+   "end": 368,
+   "summary": "Notation and techniques for deriving code.",
+   "terms": [
+    "code notation",
+    "symbolic derivation",
+    "equational reasoning"
+   ]
+  },
+  {
+   "title": "8 Typeclasses and functions of types",
+   "start": 369,
+   "sections": [
+    {
+     "title": "8.1 Motivation and first examples",
+     "start": 369,
+     "end": 371,
+     "summary": ""
+    },
+    {
+     "title": "8.2 Implementing typeclasses",
+     "start": 372,
+     "end": 390,
+     "summary": ""
+    },
+    {
+     "title": "8.3 Deriving typeclass instances via structural analysis",
+     "start": 391,
+     "end": 429,
+     "summary": ""
+    },
+    {
+     "title": "8.5 Further developments",
+     "start": 444,
+     "end": 462,
+     "summary": ""
+    }
+   ],
+   "end": 462,
+   "summary": "Typeclasses and type-level functions.",
+   "terms": [
+    "typeclasses",
+    "instances",
+    "structural derivation",
+    "higher-kinded types"
+   ]
+  },
+  {
+   "title": "9 Computations in functor blocks. I. Filterable functors and contrafunctors",
+   "start": 463,
+   "sections": [
+    {
+     "title": "9.1 Practical uses of filtering",
+     "start": 463,
+     "end": 478,
+     "summary": ""
+    },
+    {
+     "title": "9.2 Laws and structure",
+     "start": 479,
+     "end": 522,
+     "summary": ""
+    },
+    {
+     "title": "9.4 Further developments",
+     "start": 531,
+     "end": 544,
+     "summary": ""
+    }
+   ],
+   "end": 544,
+   "summary": "Filterable functors.",
+   "terms": [
+    "filterable functors",
+    "withFilter",
+    "laws",
+    "contrafunctors"
+   ]
+  },
+  {
+   "title": "10 Computations in functor blocks. II. Semi-monads and monads",
+   "start": 545,
+   "sections": [
+    {
+     "title": "10.1 Practical use of monads",
+     "start": 545,
+     "end": 582,
+     "summary": ""
+    },
+    {
+     "title": "10.2 Laws of semi-monads and monads",
+     "start": 583,
+     "end": 624,
+     "summary": ""
+    },
+    {
+     "title": "10.3 Further developments",
+     "start": 625,
+     "end": 642,
+     "summary": ""
+    }
+   ],
+   "end": 642,
+   "summary": "Semi-monads and monads.",
+   "terms": [
+    "flatMap",
+    "monad laws",
+    "semi-monads",
+    "monad constructions",
+    "Kleisli"
+   ]
+  },
+  {
+   "title": "11 Applicative functors and contrafunctors",
+   "start": 643,
+   "sections": [
+    {
+     "title": "11.1 Motivation and first examples",
+     "start": 643,
+     "end": 647,
+     "summary": ""
+    },
+    {
+     "title": "11.2 Practical use of applicative functors",
+     "start": 648,
+     "end": 665,
+     "summary": ""
+    },
+    {
+     "title": "11.3 Laws and structure of applicative functors",
+     "start": 666,
+     "end": 697,
+     "summary": ""
+    },
+    {
+     "title": "11.4 Applicative contrafunctors and profunctors",
+     "start": 698,
+     "end": 719,
+     "summary": ""
+    }
+   ],
+   "end": 734,
+   "summary": "Applicative functors and contrafunctors.",
+   "terms": [
+    "applicative laws",
+    "zip",
+    "map2",
+    "applicative profunctors"
+   ]
+  },
+  {
+   "title": "12 Traversable functors",
+   "start": 735,
+   "sections": [
+    {
+     "title": "12.1 Motivation",
+     "start": 735,
+     "end": 737,
+     "summary": ""
+    },
+    {
+     "title": "12.2 Practical use of folding and traversing operations",
+     "start": 738,
+     "end": 765,
+     "summary": ""
+    },
+    {
+     "title": "12.3 Laws and structure",
+     "start": 766,
+     "end": 802,
+     "summary": ""
+    }
+   ],
+   "end": 820,
+   "summary": "Traversable functors.",
+   "terms": [
+    "foldMap",
+    "traverse",
+    "traversable laws"
+   ]
+  },
+  {
+   "title": "Essay: Software engineers and software artisans",
+   "start": 821,
+   "sections": [
+    {
+     "title": "Engineering disciplines",
+     "start": 821,
+     "end": 821,
+     "summary": ""
+    },
+    {
+     "title": "Artisanship: Trades and crafts",
+     "start": 822,
+     "end": 822,
+     "summary": ""
+    },
+    {
+     "title": "Programmers today are artisans, not engineers",
+     "start": 822,
+     "end": 825,
+     "summary": ""
+    },
+    {
+     "title": "Towards true engineering in software",
+     "start": 826,
+     "end": 827,
+     "summary": ""
+    },
+    {
+     "title": "Does software need engineers, or are artisans sufficient?",
+     "start": 828,
+     "end": 830,
+     "summary": ""
+    }
+   ],
+   "end": 830,
+   "summary": "Essay: programmers as artisans vs. engineers.",
+   "terms": [
+    "software engineering",
+    "craft"
+   ]
+  },
+  {
+   "title": "Essay: Declarative programming as a silver bullet",
+   "start": 831,
+   "sections": [
+    {
+     "title": "The silver bullets we know and love",
+     "start": 831,
+     "end": 832,
+     "summary": ""
+    },
+    {
+     "title": "What is ``declarative programming''",
+     "start": 833,
+     "end": 835,
+     "summary": ""
+    },
+    {
+     "title": "Specification languages",
+     "start": 836,
+     "end": 836,
+     "summary": ""
+    },
+    {
+     "title": "How to use the silver bullet today: make your own DSL",
+     "start": 837,
+     "end": 838,
+     "summary": ""
+    },
+    {
+     "title": "Conclusion",
+     "start": 839,
+     "end": 842,
+     "summary": ""
+    }
+   ],
+   "end": 842,
+   "summary": "Essay: declarative programming and DSLs.",
+   "terms": [
+    "declarative programming",
+    "DSL",
+    "specification languages"
+   ]
+  },
+  {
+   "title": "13 Free typeclass constructions",
+   "start": 843,
+   "sections": [
+    {
+     "title": "13.1 Motivation for the free monad: create a DSL in five stages",
+     "start": 843,
+     "end": 859,
+     "summary": ""
+    },
+    {
+     "title": "13.2 Different encodings of the free monad",
+     "start": 860,
+     "end": 869,
+     "summary": ""
+    },
+    {
+     "title": "13.3 Free constructions for other typeclasses",
+     "start": 870,
+     "end": 883,
+     "summary": ""
+    },
+    {
+     "title": "13.4 Advanced applications",
+     "start": 884,
+     "end": 884,
+     "summary": ""
+    },
+    {
+     "title": "13.5 Laws of free constructions",
+     "start": 884,
+     "end": 906,
+     "summary": ""
+    },
+    {
+     "title": "13.6 Slides",
+     "start": 907,
+     "end": 916,
+     "summary": ""
+    },
+    {
+     "title": "13.7 Properties of free constructions",
+     "start": 917,
+     "end": 920,
+     "summary": ""
+    },
+    {
+     "title": "13.8 Working with quantified types",
+     "start": 921,
+     "end": 931,
+     "summary": ""
+    },
+    {
+     "title": "13.9 Discussion",
+     "start": 932,
+     "end": 936,
+     "summary": ""
+    }
+   ],
+   "end": 936,
+   "summary": "Free constructions.",
+   "terms": [
+    "free monad",
+    "DSL",
+    "encodings",
+    "free applicative",
+    "free functor",
+    "laws of free constructions"
+   ]
+  },
+  {
+   "title": "14 Computations in functor blocks. III. Monad transformers",
+   "start": 937,
+   "sections": [
+    {
+     "title": "14.1 Practical use",
+     "start": 937,
+     "end": 970,
+     "summary": ""
+    },
+    {
+     "title": "14.2 Laws of monad transformers",
+     "start": 971,
+     "end": 991,
+     "summary": ""
+    },
+    {
+     "title": "14.3 Common properties of compositional transformers",
+     "start": 992,
+     "end": 1008,
+     "summary": ""
+    },
+    {
+     "title": "14.4 Composed-inside transformers. Linear monads",
+     "start": 1009,
+     "end": 1018,
+     "summary": ""
+    },
+    {
+     "title": "14.5 Composed-outside transformers. Rigid monads",
+     "start": 1019,
+     "end": 1031,
+     "summary": ""
+    },
+    {
+     "title": "14.6 Transformers for some monad constructions",
+     "start": 1032,
+     "end": 1049,
+     "summary": ""
+    },
+    {
+     "title": "14.7 Transformers for recursive monads",
+     "start": 1050,
+     "end": 1082,
+     "summary": ""
+    },
+    {
+     "title": "14.8 Incomplete transformers",
+     "start": 1083,
+     "end": 1098,
+     "summary": ""
+    },
+    {
+     "title": "14.9 Further developments",
+     "start": 1099,
+     "end": 1142,
+     "summary": ""
+    }
+   ],
+   "end": 1142,
+   "summary": "Monad transformers in depth.",
+   "terms": [
+    "monad transformers",
+    "laws",
+    "composed-inside",
+    "composed-outside",
+    "linear monads",
+    "rigid monads",
+    "recursive monads"
+   ]
+  },
+  {
+   "title": "15 Summary of the book",
+   "start": 1143,
+   "sections": [
+    {
+     "title": "15.1 Main points and results by chapter",
+     "start": 1143,
+     "end": 1144,
+     "summary": ""
+    },
+    {
+     "title": "15.2 Topics not covered in this book",
+     "start": 1145,
+     "end": 1146,
+     "summary": ""
+    },
+    {
+     "title": "15.3 Additional exercises and problems",
+     "start": 1147,
+     "end": 1156,
+     "summary": ""
+    }
+   ],
+   "end": 1156,
+   "summary": "Summary and open topics.",
+   "terms": [
+    "summary",
+    "topics not covered",
+    "exercises"
+   ]
+  },
+  {
+   "title": "``Applied functional type theory'': A proposal",
+   "start": 1157,
+   "sections": [
+    {
+     "title": "AFTT is not covered by courses in computer science",
+     "start": 1157,
+     "end": 1158,
+     "summary": ""
+    },
+    {
+     "title": "AFTT is not category theory, type theory, or formal logic",
+     "start": 1159,
+     "end": 1164,
+     "summary": ""
+    }
+   ],
+   "end": 1164,
+   "summary": "A proposal for “applied functional type theory”.",
+   "terms": [
+    "applied functional type theory",
+    "curriculum"
+   ]
+  },
+  {
+   "title": "Essay: Why category theory is useful in functional programming",
+   "start": 1165,
+   "sections": [
+    {
+     "title": "A ``types/functions'' category for a programming language",
+     "start": 1165,
+     "end": 1165,
+     "summary": ""
+    },
+    {
+     "title": "The use of endofunctors",
+     "start": 1166,
+     "end": 1166,
+     "summary": ""
+    },
+    {
+     "title": "The use of natural transformations",
+     "start": 1167,
+     "end": 1167,
+     "summary": ""
+    },
+    {
+     "title": "Other properties of the ``types/functions'' category",
+     "start": 1168,
+     "end": 1168,
+     "summary": ""
+    },
+    {
+     "title": "Some useful sub-categories of endofunctors",
+     "start": 1169,
+     "end": 1170,
+     "summary": ""
+    },
+    {
+     "title": "Category theory and the laws of FP idioms",
+     "start": 1171,
+     "end": 1190,
+     "summary": ""
+    }
+   ],
+   "end": 1190,
+   "summary": "Essay: why category theory helps FP.",
+   "terms": [
+    "category theory",
+    "endofunctors",
+    "natural transformations"
+   ]
+  },
+  {
+   "title": "C Parametricity theorem and naturality laws",
+   "start": 1191,
+   "sections": [
+    {
+     "title": "C.1 Practical use of parametricity properties",
+     "start": 1194,
+     "end": 1201,
+     "summary": ""
+    },
+    {
+     "title": "C.2 Relational formulation of parametricity",
+     "start": 1202,
+     "end": 1250,
+     "summary": ""
+    }
+   ],
+   "end": 1250,
+   "summary": "Parametricity and naturality laws.",
+   "terms": [
+    "parametricity",
+    "relational parametricity",
+    "naturality laws",
+    "free theorems"
+   ]
+  }
+ ],
+ "title": "The Science of Functional Programming: A Tutorial, with Examples in Scala",
+ "byline": "Sergei Winitzki · version of 4 September 2024, lulu.com (GNU FDL)",
+ "note": "At about 1,300 pages, summaries and terms are given per chapter; each numbered section is still listed with its PDF page range. Exercise, summary and solved-example subsections and appendices other than C are not broken out. There is no HTML edition. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "A mathematically rigorous course in functional programming that derives FP idioms and their laws by symbolic reasoning, with Scala code. The introductory part treats functions as formulas, induction and recursion, disjunctive types, curried and fully parametric functions, and the Curry–Howard correspondence with type isomorphisms. The intermediate part develops functors and contrafunctors, a notation for deriving code, typeclasses and their structural derivation, filterable functors, monads, applicatives and traversables, proving laws and building instances systematically. The advanced part covers free typeclass constructions (free monads, applicatives) and an extensive theory of monad transformers. Essays argue for “applied functional type theory”, and an appendix proves parametricity and naturality laws."
+}
