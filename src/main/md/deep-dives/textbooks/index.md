@@ -8,6 +8,7 @@ Partial PDFs (samples, excerpts, unfinished drafts) are marked as such on their 
 
 - [Concise Machine Learning](shewchuk-concise-machine-learning) (Shewchuk): Berkeley CS 189: SVMs to spectral clustering
 - [Deep Learning and Computational Physics](deep-learning-computational-physics) (Ray, Pinti, Oberai): PINNs, DeepONet, FNO, neural ODEs (lecture notes)
+- [Foundations of Reinforcement Learning with Applications in Finance](rao-jelvis-rl-in-finance) (Ashwin Rao and Tikhon Jelvis): MDPs, DP, approximate DP and RL algorithms with Python, applied to asset allocation, derivatives and trading.
 - [High-Dimensional Probability](high-dimensional-probability) (Roman Vershynin): Concentration, random matrices, chaining and sparse recovery, each with a data-science application.
 - [Multimodal Deep Learning](multimodal-deep-learning) (LMU seminar): image–text models: CLIP, DALL-E, diffusion (2023)
 - [Optimization for Machine Learning](gartner-jaggi-optimization-ml) (Gärtner, Jaggi): GD, SGD, proximal, Newton, BFGS, Frank-Wolfe with rates
@@ -23,6 +24,7 @@ Partial PDFs (samples, excerpts, unfinished drafts) are marked as such on their 
 - [Computability, Unsolvability, Randomness](simpson-computability-randomness) (Simpson): recursion theory to Martin-Löf randomness
 - [Distributed Computing Through Combinatorial Topology](distributed-computing-combinatorial-topology) (Herlihy, Kozlov and Rajsbaum): Solvability of distributed tasks as a question about simplicial complexes and their maps.
 - [Effect Oriented Programming](effect-oriented-programming) (Frasure, Eckel, Ward): ZIO effects, layers, typed errors, resilience
+- [Functional Programming Strategies in Scala with Cats (draft)](welsh-functional-programming-strategies-scala-with-cats) (Noel Welsh): ADTs, codata, type classes, interpreters, the Cats type classes, and case studies, in Scala 3.
 - [Functional Programming in Lean](functional-programming-in-lean) (David Thrane Christiansen): Lean 4 as a programming language: types, IO, type classes, monads, transformers, dependent types, induction proofs, verified fast code.
 - [Implementing Functional Languages: a tutorial](implementing-functional-languages) (Simon Peyton Jones and David Lester): Building lazy evaluators step by step: template instantiation, G-machine, TIM, parallel G-machine, lambda lifting.
 - [Lambda-Calculus and Combinators](hindley-seldin-lambda-calculus-combinators) (J. Roger Hindley and Jonathan Seldin): λ-calculus and CL side by side: reduction, computability, typing, pure type systems and models.
@@ -48,6 +50,7 @@ Partial PDFs (samples, excerpts, unfinished drafts) are marked as such on their 
 - [Conceptual Mathematics](lawvere-conceptual-mathematics) (F. William Lawvere and Stephen Schanuel): A first course in categories from sets and maps to products, exponentials and toposes.
 - [Geometric Structures on Manifolds](goldman-geometric-structures-on-manifolds) (William M. Goldman): (G,X)-structures: affine and projective geometry, developing maps, completeness, convex projective surfaces.
 - [Graph Theory and Additive Combinatorics](zhao-graph-theory-additive-combinatorics) (Yufei Zhao): Extremal graphs, regularity, pseudorandomness, graph limits, Roth, Freiman and Green–Tao.
+- [Homotopy Type Theory: Univalent Foundations of Mathematics](hott-book) (Univalent Foundations Program (IAS)): Type theory as homotopy: univalence, HITs, n-types, synthetic homotopy theory, categories, reals.
 - [Introducing Category Theory (2nd ed.)](smith-introducing-category-theory) (Peter Smith): Slow, careful intro: limits, exponentials, functors, Yoneda, adjunctions, elementary toposes.
 - [Introduction to Logic and to the Methodology of Deductive Sciences](tarski-introduction-to-logic) (Tarski): sentential calculus, classes, relations, axiomatics
 - [Intuitionistic Type Theory](martin-lof-intuitionistic-type-theory) (Martin-Löf): meaning explanations and the type formers

@@ -414,5 +414,29 @@
   "Introducing Category Theory (2nd ed.)",
   "Peter Smith",
   "Slow, careful intro: limits, exponentials, functors, Yoneda, adjunctions, elementary toposes."
+ ],
+ [
+  "hott-book",
+  "hott",
+  "Mathematics",
+  "Homotopy Type Theory: Univalent Foundations of Mathematics",
+  "Univalent Foundations Program (IAS)",
+  "Type theory as homotopy: univalence, HITs, n-types, synthetic homotopy theory, categories, reals."
+ ],
+ [
+  "welsh-functional-programming-strategies-scala-with-cats",
+  "swc",
+  "Computer Science",
+  "Functional Programming Strategies in Scala with Cats (draft)",
+  "Noel Welsh",
+  "ADTs, codata, type classes, interpreters, the Cats type classes, and case studies, in Scala 3."
+ ],
+ [
+  "rao-jelvis-rl-in-finance",
+  "mlbook",
+  "AI and Machine Learning",
+  "Foundations of Reinforcement Learning with Applications in Finance",
+  "Ashwin Rao and Tikhon Jelvis",
+  "MDPs, DP, approximate DP and RL algorithms with Python, applied to asset allocation, derivatives and trading."
  ]
 ]

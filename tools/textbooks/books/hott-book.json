@@ -1,0 +1,1125 @@
+{
+ "url": "https://drive.google.com/file/d/1fymq_3-J4FqK7iffzsDBFHRo_yveTWq9/view",
+ "chapters": [
+  {
+   "title": "Introduction",
+   "start": 13,
+   "sections": [],
+   "end": 28,
+   "summary": "Why univalent foundations, and an overview.",
+   "terms": [
+    "univalent foundations",
+    "homotopy type theory",
+    "univalence axiom",
+    "Voevodsky",
+    "overview"
+   ]
+  },
+  {
+   "title": "1 Type theory",
+   "start": 29,
+   "sections": [
+    {
+     "title": "1.1 Type theory versus set theory",
+     "start": 29,
+     "end": 32,
+     "summary": "Types vs. sets as foundations.",
+     "terms": [
+      "type theory vs set theory"
+     ]
+    },
+    {
+     "title": "1.2 Function types",
+     "start": 33,
+     "end": 35,
+     "summary": "Function types.",
+     "terms": [
+      "function types"
+     ]
+    },
+    {
+     "title": "1.3 Universes and families",
+     "start": 36,
+     "end": 36,
+     "summary": "Universes and type families.",
+     "terms": [
+      "universes",
+      "type families"
+     ]
+    },
+    {
+     "title": "1.4 Dependent function types (\u03a0-types)",
+     "start": 37,
+     "end": 37,
+     "summary": "\u03a0-types.",
+     "terms": [
+      "dependent functions",
+      "Pi"
+     ]
+    },
+    {
+     "title": "1.5 Product types",
+     "start": 38,
+     "end": 41,
+     "summary": "Product types.",
+     "terms": [
+      "products"
+     ]
+    },
+    {
+     "title": "1.6 Dependent pair types (\u03a3-types)",
+     "start": 42,
+     "end": 44,
+     "summary": "\u03a3-types.",
+     "terms": [
+      "Sigma types",
+      "dependent pairs"
+     ]
+    },
+    {
+     "title": "1.7 Coproduct types",
+     "start": 45,
+     "end": 45,
+     "summary": "Coproducts.",
+     "terms": [
+      "coproduct"
+     ]
+    },
+    {
+     "title": "1.8 The type of booleans",
+     "start": 46,
+     "end": 47,
+     "summary": "Booleans.",
+     "terms": [
+      "booleans"
+     ]
+    },
+    {
+     "title": "1.9 The natural numbers",
+     "start": 48,
+     "end": 50,
+     "summary": "Natural numbers.",
+     "terms": [
+      "natural numbers",
+      "induction"
+     ]
+    },
+    {
+     "title": "1.10 Pattern matching and recursion",
+     "start": 51,
+     "end": 52,
+     "summary": "Pattern matching and recursion.",
+     "terms": [
+      "recursion principles"
+     ]
+    },
+    {
+     "title": "1.11 Propositions as types",
+     "start": 53,
+     "end": 58,
+     "summary": "Propositions as types.",
+     "terms": [
+      "Curry-Howard"
+     ]
+    },
+    {
+     "title": "1.12 Identity types",
+     "start": 59,
+     "end": 65,
+     "summary": "Identity types.",
+     "terms": [
+      "identity types",
+      "path induction"
+     ]
+    }
+   ],
+   "end": 70,
+   "summary": "Informal dependent type theory."
+  },
+  {
+   "title": "2 Homotopy type theory",
+   "start": 71,
+   "sections": [
+    {
+     "title": "2.1 Types are higher groupoids",
+     "start": 74,
+     "end": 82,
+     "summary": "Types as higher groupoids.",
+     "terms": [
+      "higher groupoids",
+      "paths"
+     ]
+    },
+    {
+     "title": "2.2 Functions are functors",
+     "start": 83,
+     "end": 83,
+     "summary": "Functions act on paths.",
+     "terms": [
+      "ap",
+      "functoriality"
+     ]
+    },
+    {
+     "title": "2.3 Type families are fibrations",
+     "start": 83,
+     "end": 86,
+     "summary": "Families as fibrations, transport.",
+     "terms": [
+      "transport",
+      "fibrations"
+     ]
+    },
+    {
+     "title": "2.4 Homotopies and equivalences",
+     "start": 87,
+     "end": 90,
+     "summary": "Homotopies and equivalences.",
+     "terms": [
+      "homotopy",
+      "equivalence"
+     ]
+    },
+    {
+     "title": "2.5 The higher groupoid structure of type formers",
+     "start": 91,
+     "end": 91,
+     "summary": "Paths in type formers.",
+     "terms": [
+      "characterizing path spaces"
+     ]
+    },
+    {
+     "title": "2.6 Cartesian product types",
+     "start": 92,
+     "end": 94,
+     "summary": "Products.",
+     "terms": [
+      "products"
+     ]
+    },
+    {
+     "title": "2.7 \u03a3-types",
+     "start": 95,
+     "end": 96,
+     "summary": "\u03a3-types.",
+     "terms": [
+      "Sigma"
+     ]
+    },
+    {
+     "title": "2.8 The unit type",
+     "start": 97,
+     "end": 97,
+     "summary": "Unit.",
+     "terms": [
+      "unit"
+     ]
+    },
+    {
+     "title": "2.9 \u03a0-types and the function extensionality axiom",
+     "start": 98,
+     "end": 100,
+     "summary": "\u03a0-types and function extensionality.",
+     "terms": [
+      "function extensionality"
+     ]
+    },
+    {
+     "title": "2.10 Universes and the univalence axiom",
+     "start": 101,
+     "end": 101,
+     "summary": "Universes and univalence.",
+     "terms": [
+      "univalence axiom"
+     ]
+    },
+    {
+     "title": "2.11 Identity type",
+     "start": 102,
+     "end": 103,
+     "summary": "Identity types.",
+     "terms": [
+      "identity type"
+     ]
+    },
+    {
+     "title": "2.12 Coproducts",
+     "start": 104,
+     "end": 106,
+     "summary": "Coproducts.",
+     "terms": [
+      "coproducts"
+     ]
+    },
+    {
+     "title": "2.13 Natural numbers",
+     "start": 107,
+     "end": 108,
+     "summary": "Natural numbers.",
+     "terms": [
+      "natural numbers"
+     ]
+    },
+    {
+     "title": "2.14 Example: equality of structures",
+     "start": 109,
+     "end": 111,
+     "summary": "Example: equality of structures.",
+     "terms": [
+      "structure identity"
+     ]
+    },
+    {
+     "title": "2.15 Universal properties",
+     "start": 112,
+     "end": 113,
+     "summary": "Universal properties.",
+     "terms": [
+      "universal properties"
+     ]
+    }
+   ],
+   "end": 118,
+   "summary": "The homotopical reading of type theory."
+  },
+  {
+   "title": "3 Sets and logic",
+   "start": 119,
+   "sections": [
+    {
+     "title": "3.1 Sets and n-types",
+     "start": 119,
+     "end": 120,
+     "summary": "Sets and n-types.",
+     "terms": [
+      "sets",
+      "h-levels"
+     ]
+    },
+    {
+     "title": "3.2 Propositions as types?",
+     "start": 121,
+     "end": 122,
+     "summary": "Why not all types are propositions.",
+     "terms": [
+      "propositions as types"
+     ]
+    },
+    {
+     "title": "3.3 Mere propositions",
+     "start": 123,
+     "end": 124,
+     "summary": "Mere propositions.",
+     "terms": [
+      "mere propositions"
+     ]
+    },
+    {
+     "title": "3.4 Classical vs. intuitionistic logic",
+     "start": 125,
+     "end": 125,
+     "summary": "Classical vs. intuitionistic logic.",
+     "terms": [
+      "LEM",
+      "classical logic"
+     ]
+    },
+    {
+     "title": "3.5 Subsets and propositional resizing",
+     "start": 126,
+     "end": 127,
+     "summary": "Subsets and resizing.",
+     "terms": [
+      "subsets",
+      "propositional resizing"
+     ]
+    },
+    {
+     "title": "3.6 The logic of mere propositions",
+     "start": 128,
+     "end": 128,
+     "summary": "Logic of mere propositions.",
+     "terms": [
+      "logic"
+     ]
+    },
+    {
+     "title": "3.7 Propositional truncation",
+     "start": 129,
+     "end": 129,
+     "summary": "Propositional truncation.",
+     "terms": [
+      "propositional truncation"
+     ]
+    },
+    {
+     "title": "3.8 The axiom of choice",
+     "start": 130,
+     "end": 131,
+     "summary": "Axiom of choice.",
+     "terms": [
+      "axiom of choice"
+     ]
+    },
+    {
+     "title": "3.9 The principle of unique choice",
+     "start": 132,
+     "end": 132,
+     "summary": "Unique choice.",
+     "terms": [
+      "unique choice"
+     ]
+    },
+    {
+     "title": "3.10 When are propositions truncated?",
+     "start": 133,
+     "end": 134,
+     "summary": "When are propositions truncated?",
+     "terms": [
+      "truncation"
+     ]
+    },
+    {
+     "title": "3.11 Contractibility",
+     "start": 135,
+     "end": 137,
+     "summary": "Contractibility.",
+     "terms": [
+      "contractible types"
+     ]
+    }
+   ],
+   "end": 140,
+   "summary": "Sets, mere propositions and logic."
+  },
+  {
+   "title": "4 Equivalences",
+   "start": 141,
+   "sections": [
+    {
+     "title": "4.1 Quasi-inverses",
+     "start": 141,
+     "end": 143,
+     "summary": "Quasi-inverses.",
+     "terms": [
+      "quasi-inverse"
+     ]
+    },
+    {
+     "title": "4.2 Half adjoint equivalences",
+     "start": 144,
+     "end": 147,
+     "summary": "Half-adjoint equivalences.",
+     "terms": [
+      "half adjoint equivalence"
+     ]
+    },
+    {
+     "title": "4.3 Bi-invertible maps",
+     "start": 148,
+     "end": 148,
+     "summary": "Bi-invertible maps.",
+     "terms": [
+      "bi-invertible map"
+     ]
+    },
+    {
+     "title": "4.4 Contractible fibers",
+     "start": 148,
+     "end": 148,
+     "summary": "Contractible fibers.",
+     "terms": [
+      "contractible fibers"
+     ]
+    },
+    {
+     "title": "4.5 On the definition of equivalences",
+     "start": 149,
+     "end": 149,
+     "summary": "Why these definitions.",
+     "terms": [
+      "isEquiv as proposition"
+     ]
+    },
+    {
+     "title": "4.6 Surjections and embeddings",
+     "start": 150,
+     "end": 150,
+     "summary": "Surjections and embeddings.",
+     "terms": [
+      "surjection",
+      "embedding"
+     ]
+    },
+    {
+     "title": "4.7 Closure properties of equivalences",
+     "start": 151,
+     "end": 153,
+     "summary": "Closure properties.",
+     "terms": [
+      "2-out-of-3"
+     ]
+    },
+    {
+     "title": "4.8 The object classifier",
+     "start": 154,
+     "end": 155,
+     "summary": "The object classifier.",
+     "terms": [
+      "object classifier"
+     ]
+    },
+    {
+     "title": "4.9 Univalence implies function extensionality",
+     "start": 156,
+     "end": 157,
+     "summary": "Univalence implies function extensionality.",
+     "terms": [
+      "funext from univalence"
+     ]
+    }
+   ],
+   "end": 160,
+   "summary": "Coherent notions of equivalence."
+  },
+  {
+   "title": "5 Induction",
+   "start": 161,
+   "sections": [
+    {
+     "title": "5.1 Introduction to inductive types",
+     "start": 161,
+     "end": 163,
+     "summary": "Inductive types introduced.",
+     "terms": [
+      "inductive types"
+     ]
+    },
+    {
+     "title": "5.2 Uniqueness of inductive types",
+     "start": 164,
+     "end": 165,
+     "summary": "Uniqueness up to equivalence.",
+     "terms": [
+      "uniqueness"
+     ]
+    },
+    {
+     "title": "5.3 W-types",
+     "start": 166,
+     "end": 168,
+     "summary": "W-types.",
+     "terms": [
+      "W-types"
+     ]
+    },
+    {
+     "title": "5.4 Inductive types are initial algebras",
+     "start": 169,
+     "end": 171,
+     "summary": "Initial algebras.",
+     "terms": [
+      "initial algebra"
+     ]
+    },
+    {
+     "title": "5.5 Homotopy-inductive types",
+     "start": 172,
+     "end": 175,
+     "summary": "Homotopy-inductive types.",
+     "terms": [
+      "homotopy-initial"
+     ]
+    },
+    {
+     "title": "5.6 The general syntax of inductive definitions",
+     "start": 176,
+     "end": 179,
+     "summary": "General syntax.",
+     "terms": [
+      "syntax"
+     ]
+    },
+    {
+     "title": "5.7 Generalizations of inductive types",
+     "start": 180,
+     "end": 181,
+     "summary": "Generalizations.",
+     "terms": [
+      "inductive families",
+      "induction-recursion"
+     ]
+    },
+    {
+     "title": "5.8 Identity types and identity systems",
+     "start": 182,
+     "end": 185,
+     "summary": "Identity systems.",
+     "terms": [
+      "identity systems"
+     ]
+    }
+   ],
+   "end": 190,
+   "summary": "Inductive types."
+  },
+  {
+   "title": "6 Higher inductive types",
+   "start": 191,
+   "sections": [
+    {
+     "title": "6.1 Introduction",
+     "start": 191,
+     "end": 192,
+     "summary": "Motivation.",
+     "terms": [
+      "HITs"
+     ]
+    },
+    {
+     "title": "6.2 Induction principles and dependent paths",
+     "start": 193,
+     "end": 196,
+     "summary": "Induction principles and dependent paths.",
+     "terms": [
+      "dependent paths"
+     ]
+    },
+    {
+     "title": "6.3 The interval",
+     "start": 197,
+     "end": 198,
+     "summary": "The interval.",
+     "terms": [
+      "interval"
+     ]
+    },
+    {
+     "title": "6.4 Circles and spheres",
+     "start": 199,
+     "end": 200,
+     "summary": "Circles and spheres.",
+     "terms": [
+      "circle S1",
+      "spheres"
+     ]
+    },
+    {
+     "title": "6.5 Suspensions",
+     "start": 201,
+     "end": 203,
+     "summary": "Suspensions.",
+     "terms": [
+      "suspension"
+     ]
+    },
+    {
+     "title": "6.6 Cell complexes",
+     "start": 204,
+     "end": 204,
+     "summary": "Cell complexes (torus).",
+     "terms": [
+      "torus",
+      "cell complexes"
+     ]
+    },
+    {
+     "title": "6.7 Hubs and spokes",
+     "start": 205,
+     "end": 206,
+     "summary": "Hubs and spokes.",
+     "terms": [
+      "hubs and spokes"
+     ]
+    },
+    {
+     "title": "6.8 Pushouts",
+     "start": 207,
+     "end": 209,
+     "summary": "Pushouts.",
+     "terms": [
+      "pushouts"
+     ]
+    },
+    {
+     "title": "6.9 Truncations",
+     "start": 210,
+     "end": 212,
+     "summary": "Truncations as HITs.",
+     "terms": [
+      "truncation"
+     ]
+    },
+    {
+     "title": "6.10 Quotients",
+     "start": 213,
+     "end": 217,
+     "summary": "Set quotients.",
+     "terms": [
+      "quotients"
+     ]
+    },
+    {
+     "title": "6.11 Algebra",
+     "start": 218,
+     "end": 222,
+     "summary": "Algebra (free groups).",
+     "terms": [
+      "free groups"
+     ]
+    },
+    {
+     "title": "6.12 The flattening lemma",
+     "start": 223,
+     "end": 227,
+     "summary": "The flattening lemma.",
+     "terms": [
+      "flattening lemma"
+     ]
+    },
+    {
+     "title": "6.13 The general syntax of higher inductive definitions",
+     "start": 228,
+     "end": 229,
+     "summary": "General syntax.",
+     "terms": [
+      "syntax"
+     ]
+    }
+   ],
+   "end": 232,
+   "summary": "Higher inductive types."
+  },
+  {
+   "title": "7 Homotopy n-types",
+   "start": 233,
+   "sections": [
+    {
+     "title": "7.1 Definition of n-types",
+     "start": 233,
+     "end": 236,
+     "summary": "n-types.",
+     "terms": [
+      "n-types"
+     ]
+    },
+    {
+     "title": "7.2 Uniqueness of identity proofs and Hedberg's theorem",
+     "start": 237,
+     "end": 239,
+     "summary": "UIP and Hedberg\u2019s theorem.",
+     "terms": [
+      "Hedberg theorem",
+      "UIP"
+     ]
+    },
+    {
+     "title": "7.3 Truncations",
+     "start": 240,
+     "end": 245,
+     "summary": "n-truncations.",
+     "terms": [
+      "truncation"
+     ]
+    },
+    {
+     "title": "7.4 Colimits of n-types",
+     "start": 246,
+     "end": 249,
+     "summary": "Colimits of n-types.",
+     "terms": [
+      "colimits"
+     ]
+    },
+    {
+     "title": "7.5 Connectedness",
+     "start": 250,
+     "end": 254,
+     "summary": "Connectedness.",
+     "terms": [
+      "n-connected maps"
+     ]
+    },
+    {
+     "title": "7.6 Orthogonal factorization",
+     "start": 255,
+     "end": 258,
+     "summary": "Orthogonal factorization systems.",
+     "terms": [
+      "factorization systems"
+     ]
+    },
+    {
+     "title": "7.7 Modalities",
+     "start": 259,
+     "end": 263,
+     "summary": "Modalities.",
+     "terms": [
+      "modalities"
+     ]
+    }
+   ],
+   "end": 270,
+   "summary": "Truncation levels and connectedness."
+  },
+  {
+   "title": "8 Homotopy theory",
+   "start": 271,
+   "sections": [
+    {
+     "title": "8.1 \u03c0\u2081(S\u00b9)",
+     "start": 274,
+     "end": 282,
+     "summary": "The fundamental group of the circle is \u2124.",
+     "terms": [
+      "pi1 of circle",
+      "encode-decode"
+     ]
+    },
+    {
+     "title": "8.2 Connectedness of suspensions",
+     "start": 283,
+     "end": 283,
+     "summary": "Connectedness of suspensions.",
+     "terms": [
+      "suspension connectivity"
+     ]
+    },
+    {
+     "title": "8.3 \u03c0_(k\u2264n) of an n-connected space and \u03c0_(k<n)(S\u207f)",
+     "start": 284,
+     "end": 284,
+     "summary": "Low homotopy groups of spheres.",
+     "terms": [
+      "homotopy groups of spheres"
+     ]
+    },
+    {
+     "title": "8.4 Fiber sequences and the long exact sequence",
+     "start": 285,
+     "end": 288,
+     "summary": "Fiber sequences and long exact sequences.",
+     "terms": [
+      "fiber sequence",
+      "long exact sequence"
+     ]
+    },
+    {
+     "title": "8.5 The Hopf fibration",
+     "start": 289,
+     "end": 294,
+     "summary": "Hopf fibration.",
+     "terms": [
+      "Hopf fibration"
+     ]
+    },
+    {
+     "title": "8.6 The Freudenthal suspension theorem",
+     "start": 295,
+     "end": 300,
+     "summary": "Freudenthal suspension theorem.",
+     "terms": [
+      "Freudenthal suspension"
+     ]
+    },
+    {
+     "title": "8.7 The van Kampen theorem",
+     "start": 301,
+     "end": 309,
+     "summary": "van Kampen.",
+     "terms": [
+      "van Kampen"
+     ]
+    },
+    {
+     "title": "8.8 Whitehead's theorem and Whitehead's principle",
+     "start": 310,
+     "end": 313,
+     "summary": "Whitehead\u2019s theorem and principle.",
+     "terms": [
+      "Whitehead theorem"
+     ]
+    },
+    {
+     "title": "8.9 A general statement of the encode-decode method",
+     "start": 314,
+     "end": 314,
+     "summary": "The encode\u2013decode method in general.",
+     "terms": [
+      "encode-decode method"
+     ]
+    },
+    {
+     "title": "8.10 Additional Results",
+     "start": 315,
+     "end": 315,
+     "summary": "Further results.",
+     "terms": [
+      "further results"
+     ]
+    }
+   ],
+   "end": 318,
+   "summary": "Synthetic homotopy theory."
+  },
+  {
+   "title": "9 Category theory",
+   "start": 319,
+   "sections": [
+    {
+     "title": "9.1 Categories and precategories",
+     "start": 320,
+     "end": 322,
+     "summary": "Precategories and categories.",
+     "terms": [
+      "precategory",
+      "univalent category"
+     ]
+    },
+    {
+     "title": "9.2 Functors and transformations",
+     "start": 323,
+     "end": 326,
+     "summary": "Functors and transformations.",
+     "terms": [
+      "functors"
+     ]
+    },
+    {
+     "title": "9.3 Adjunctions",
+     "start": 327,
+     "end": 327,
+     "summary": "Adjunctions.",
+     "terms": [
+      "adjunctions"
+     ]
+    },
+    {
+     "title": "9.4 Equivalences",
+     "start": 328,
+     "end": 332,
+     "summary": "Equivalences.",
+     "terms": [
+      "equivalence of categories"
+     ]
+    },
+    {
+     "title": "9.5 The Yoneda lemma",
+     "start": 333,
+     "end": 336,
+     "summary": "Yoneda.",
+     "terms": [
+      "Yoneda lemma"
+     ]
+    },
+    {
+     "title": "9.6 Strict categories",
+     "start": 337,
+     "end": 337,
+     "summary": "Strict categories.",
+     "terms": [
+      "strict categories"
+     ]
+    },
+    {
+     "title": "9.7 \u2020-categories",
+     "start": 337,
+     "end": 337,
+     "summary": "\u2020-categories.",
+     "terms": [
+      "dagger categories"
+     ]
+    },
+    {
+     "title": "9.8 The structure identity principle",
+     "start": 338,
+     "end": 340,
+     "summary": "Structure identity principle.",
+     "terms": [
+      "structure identity principle"
+     ]
+    },
+    {
+     "title": "9.9 The Rezk completion",
+     "start": 341,
+     "end": 348,
+     "summary": "Rezk completion.",
+     "terms": [
+      "Rezk completion"
+     ]
+    }
+   ],
+   "end": 352,
+   "summary": "Univalent category theory."
+  },
+  {
+   "title": "10 Set theory",
+   "start": 353,
+   "sections": [
+    {
+     "title": "10.1 The category of sets",
+     "start": 353,
+     "end": 361,
+     "summary": "The category of sets as a \u03a0W-pretopos.",
+     "terms": [
+      "category of sets",
+      "ETCS"
+     ]
+    },
+    {
+     "title": "10.2 Cardinal numbers",
+     "start": 362,
+     "end": 364,
+     "summary": "Cardinals.",
+     "terms": [
+      "cardinal numbers"
+     ]
+    },
+    {
+     "title": "10.3 Ordinal numbers",
+     "start": 365,
+     "end": 370,
+     "summary": "Ordinals.",
+     "terms": [
+      "ordinal numbers"
+     ]
+    },
+    {
+     "title": "10.4 Classical well-orderings",
+     "start": 371,
+     "end": 373,
+     "summary": "Classical well-ordering under choice.",
+     "terms": [
+      "well-ordering",
+      "choice"
+     ]
+    },
+    {
+     "title": "10.5 The cumulative hierarchy",
+     "start": 374,
+     "end": 379,
+     "summary": "The cumulative hierarchy V as a HIT.",
+     "terms": [
+      "cumulative hierarchy"
+     ]
+    }
+   ],
+   "end": 384,
+   "summary": "Set theory in univalent foundations."
+  },
+  {
+   "title": "11 Real numbers",
+   "start": 385,
+   "sections": [
+    {
+     "title": "11.1 The field of rational numbers",
+     "start": 386,
+     "end": 386,
+     "summary": "Rationals as an ordered field.",
+     "terms": [
+      "rational numbers"
+     ]
+    },
+    {
+     "title": "11.2 Dedekind reals",
+     "start": 386,
+     "end": 392,
+     "summary": "Dedekind reals.",
+     "terms": [
+      "Dedekind reals"
+     ]
+    },
+    {
+     "title": "11.3 Cauchy reals",
+     "start": 393,
+     "end": 411,
+     "summary": "Cauchy reals as a higher inductive-inductive type.",
+     "terms": [
+      "Cauchy reals",
+      "HIIT"
+     ]
+    },
+    {
+     "title": "11.4 Comparison of Cauchy and Dedekind reals",
+     "start": 412,
+     "end": 412,
+     "summary": "Comparing them.",
+     "terms": [
+      "comparison"
+     ]
+    },
+    {
+     "title": "11.5 Compactness of the interval",
+     "start": 413,
+     "end": 418,
+     "summary": "Compactness of [0,1].",
+     "terms": [
+      "compactness"
+     ]
+    },
+    {
+     "title": "11.6 The surreal numbers",
+     "start": 419,
+     "end": 430,
+     "summary": "Surreal numbers.",
+     "terms": [
+      "surreal numbers"
+     ]
+    }
+   ],
+   "end": 436,
+   "summary": "Constructive analysis."
+  },
+  {
+   "title": "A Formal type theory",
+   "start": 437,
+   "sections": [
+    {
+     "title": "A.1 The first presentation",
+     "start": 439,
+     "end": 442,
+     "summary": "First presentation (judgments and rules).",
+     "terms": [
+      "formal type theory",
+      "judgments"
+     ]
+    },
+    {
+     "title": "A.2 The second presentation",
+     "start": 443,
+     "end": 449,
+     "summary": "Second presentation (with explicit equality).",
+     "terms": [
+      "definitional equality"
+     ]
+    },
+    {
+     "title": "A.3 Homotopy type theory",
+     "start": 450,
+     "end": 450,
+     "summary": "Rules specific to HoTT.",
+     "terms": [
+      "univalence",
+      "HIT rules"
+     ]
+    },
+    {
+     "title": "A.4 Basic metatheory",
+     "start": 451,
+     "end": 452,
+     "summary": "Basic metatheory.",
+     "terms": [
+      "metatheory"
+     ]
+    }
+   ],
+   "end": 453,
+   "summary": "Formal presentations of the type theory."
+  }
+ ],
+ "title": "Homotopy Type Theory: Univalent Foundations of Mathematics",
+ "byline": "The Univalent Foundations Program, Institute for Advanced Study \u00b7 2013 (online build 1270-g3f17b85), CC BY-SA",
+ "note": "The book is maintained on GitHub with nightly builds; content has been stable since 2013 apart from corrections. Exercises and chapter notes are not broken out. There is no official HTML edition. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "The collaborative \u201cHoTT book\u201d that set out univalent foundations: Martin-L\u00f6f dependent type theory read homotopically, where types are spaces (\u221e-groupoids), identity proofs are paths, and the univalence axiom makes equivalent types equal. Part I develops the foundations: basic type theory, the homotopical reading of identity types and function extensionality, sets and mere propositions with propositional truncation, the theory of equivalences, inductive types as initial algebras, higher inductive types (circles, spheres, pushouts, truncations, quotients) and homotopy n-types with connectedness and modalities. Part II applies this to mathematics: synthetic homotopy theory (\u03c0\u2081(S\u00b9), Freudenthal, Hopf fibration, van Kampen), univalent category theory and the Rezk completion, set theory with cardinals and ordinals, and constructive real numbers (Dedekind and Cauchy reals) plus surreal numbers. An appendix gives formal presentations of the theory."
+}
