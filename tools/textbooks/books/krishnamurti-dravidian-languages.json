@@ -1,0 +1,792 @@
+{
+ "url": "https://drive.google.com/file/d/1oyC6dkTRBfzzliEwvViZ7oFCk_5TSpDV/view",
+ "chapters": [
+  {
+   "title": "1. Introduction",
+   "start": 7,
+   "end": 53,
+   "sections": [
+    {
+     "title": "1.1 The name Dravidian",
+     "start": 7,
+     "end": 7,
+     "summary": "Origin of the term Dravidian.",
+     "terms": [
+      "Dravida",
+      "Caldwell"
+     ]
+    },
+    {
+     "title": "1.2 Dravidians: prehistory and culture",
+     "start": 8,
+     "end": 21,
+     "summary": "Prehistory, archaeology and culture.",
+     "terms": [
+      "prehistory",
+      "Indus civilization",
+      "culture"
+     ]
+    },
+    {
+     "title": "1.3 The Dravidian languages as a family",
+     "start": 22,
+     "end": 24,
+     "summary": "Establishing the family.",
+     "terms": [
+      "language family"
+     ]
+    },
+    {
+     "title": "1.4 Names of languages and geographical distribution",
+     "start": 25,
+     "end": 32,
+     "summary": "Language names and where they are spoken.",
+     "terms": [
+      "languages",
+      "distribution",
+      "subgroups"
+     ]
+    },
+    {
+     "title": "1.5 Typological features of Dravidian",
+     "start": 33,
+     "end": 35,
+     "summary": "Typological traits.",
+     "terms": [
+      "typology",
+      "agglutinative",
+      "SOV"
+     ]
+    },
+    {
+     "title": "1.6 Dravidian studies, past and present",
+     "start": 36,
+     "end": 40,
+     "summary": "History of Dravidian studies.",
+     "terms": [
+      "Dravidian studies",
+      "Burrow",
+      "Emeneau",
+      "DEDR"
+     ]
+    },
+    {
+     "title": "1.7 Dravidian and Indo-Aryan",
+     "start": 41,
+     "end": 48,
+     "summary": "Dravidian\u2013Indo-Aryan contact and convergence.",
+     "terms": [
+      "Indo-Aryan contact",
+      "retroflexion",
+      "areal features"
+     ]
+    },
+    {
+     "title": "1.8 Affinity between Dravidian and languages outside India",
+     "start": 49,
+     "end": 53,
+     "summary": "Proposed links outside India (Elamite, Uralic, etc.).",
+     "terms": [
+      "Elamo-Dravidian",
+      "Uralic",
+      "external relations"
+     ]
+    }
+   ],
+   "summary": "The family, its speakers and its study."
+  },
+  {
+   "title": "2. Phonology: descriptive",
+   "start": 54,
+   "end": 83,
+   "sections": [
+    {
+     "title": "2.2 Vowels",
+     "start": 55,
+     "end": 57,
+     "summary": "Vowel systems and length.",
+     "terms": [
+      "vowels"
+     ]
+    },
+    {
+     "title": "2.3 Consonants",
+     "start": 58,
+     "end": 63,
+     "summary": "Consonants, including retroflexes and laterals.",
+     "terms": [
+      "consonants",
+      "retroflex",
+      "alveolar"
+     ]
+    },
+    {
+     "title": "2.4 Suprasegmental features",
+     "start": 64,
+     "end": 65,
+     "summary": "Stress and other suprasegmentals.",
+     "terms": [
+      "suprasegmentals",
+      "stress"
+     ]
+    },
+    {
+     "title": "2.5 Sandhi or morphophonemics",
+     "start": 66,
+     "end": 83,
+     "summary": "Sandhi.",
+     "terms": [
+      "sandhi",
+      "morphophonemics"
+     ]
+    }
+   ],
+   "summary": "Sound systems of the modern languages."
+  },
+  {
+   "title": "3. The writing systems of the major literary languages",
+   "start": 84,
+   "end": 95,
+   "sections": [
+    {
+     "title": "3.1 Origins",
+     "start": 84,
+     "end": 84,
+     "summary": "Br\u0101hm\u012b origins.",
+     "terms": [
+      "Brahmi",
+      "Tamil-Brahmi"
+     ]
+    },
+    {
+     "title": "3.2 Telugu\u2013Kannada script",
+     "start": 84,
+     "end": 89,
+     "summary": "The shared Telugu\u2013Kannada script.",
+     "terms": [
+      "Telugu-Kannada script"
+     ]
+    },
+    {
+     "title": "3.3 Tamil and Malaya\u0304lam scripts",
+     "start": 90,
+     "end": 92,
+     "summary": "Tamil and Malayalam scripts and Grantha.",
+     "terms": [
+      "Tamil script",
+      "Malayalam",
+      "Grantha"
+     ]
+    },
+    {
+     "title": "3.4 Writing in non-literary languages",
+     "start": 93,
+     "end": 95,
+     "summary": "Writing unwritten languages.",
+     "terms": [
+      "non-literary languages",
+      "scripts"
+     ]
+    }
+   ],
+   "summary": "Scripts of the literary languages."
+  },
+  {
+   "title": "4. Phonology: historical and comparative",
+   "start": 96,
+   "end": 184,
+   "sections": [
+    {
+     "title": "4.1 The phonemes of Proto-Dravidian",
+     "start": 96,
+     "end": 96,
+     "summary": "The Proto-Dravidian phoneme inventory.",
+     "terms": [
+      "Proto-Dravidian phonemes"
+     ]
+    },
+    {
+     "title": "4.2 Phonotactics",
+     "start": 96,
+     "end": 98,
+     "summary": "Syllable and root canons.",
+     "terms": [
+      "phonotactics",
+      "root canon"
+     ]
+    },
+    {
+     "title": "4.3 Proto-Dravidian morphophonemics",
+     "start": 99,
+     "end": 103,
+     "summary": "Morphophonemic alternations.",
+     "terms": [
+      "morphophonemics"
+     ]
+    },
+    {
+     "title": "4.4 Historical phonology: vowels",
+     "start": 104,
+     "end": 124,
+     "summary": "Vowel changes in daughter languages (e.g. umlaut, lowering).",
+     "terms": [
+      "vowel changes",
+      "umlaut"
+     ]
+    },
+    {
+     "title": "4.5 Historical phonology: consonants",
+     "start": 125,
+     "end": 178,
+     "summary": "Consonant changes (e.g. *c- loss, *k- palatalization, apical displacement in South-Central).",
+     "terms": [
+      "consonant changes",
+      "palatalization",
+      "apical displacement",
+      "laryngeal"
+     ]
+    }
+   ],
+   "summary": "Reconstructing Proto-Dravidian sounds and their history."
+  },
+  {
+   "title": "5. Word formation: roots, stems, formatives, derivational suffixes",
+   "start": 185,
+   "end": 210,
+   "sections": [
+    {
+     "title": "5.1 Structure of roots and formatives",
+     "start": 185,
+     "end": 186,
+     "summary": "(C)V(C) roots plus formatives.",
+     "terms": [
+      "roots",
+      "formatives"
+     ]
+    },
+    {
+     "title": "5.2 Variability of formative suffixes",
+     "start": 187,
+     "end": 187,
+     "summary": "Variable formatives.",
+     "terms": [
+      "formative variation"
+     ]
+    },
+    {
+     "title": "5.3 Primary derivative suffixes as earlier inflectional suffixes",
+     "start": 188,
+     "end": 189,
+     "summary": "Formatives as old inflections.",
+     "terms": [
+      "inflectional origin"
+     ]
+    },
+    {
+     "title": "5.4 Case studies",
+     "start": 190,
+     "end": 200,
+     "summary": "Case studies.",
+     "terms": [
+      "case studies"
+     ]
+    },
+    {
+     "title": "5.5 Earlier studies on stem formatives",
+     "start": 201,
+     "end": 201,
+     "summary": "Earlier scholarship.",
+     "terms": [
+      "stem formatives research"
+     ]
+    },
+    {
+     "title": "5.6 Stem formatives in nouns",
+     "start": 202,
+     "end": 202,
+     "summary": "Noun stem formatives.",
+     "terms": [
+      "noun stems"
+     ]
+    },
+    {
+     "title": "5.7 Phonological changes in Proto-Dravidian roots",
+     "start": 203,
+     "end": 204,
+     "summary": "Sound changes in roots.",
+     "terms": [
+      "root changes"
+     ]
+    },
+    {
+     "title": "5.8 Derivational suffixes",
+     "start": 205,
+     "end": 205,
+     "summary": "Derivational suffixes.",
+     "terms": [
+      "derivational suffixes"
+     ]
+    },
+    {
+     "title": "5.9 Compounds",
+     "start": 206,
+     "end": 210,
+     "summary": "Compounds.",
+     "terms": [
+      "compounds"
+     ]
+    }
+   ],
+   "summary": "Roots, stem formatives and derivation."
+  },
+  {
+   "title": "6. Nominals: nouns, pronouns, numerals and time and place adverbs",
+   "start": 211,
+   "end": 282,
+   "sections": [
+    {
+     "title": "6.2 Gender and number: identification and definition",
+     "start": 211,
+     "end": 222,
+     "summary": "Gender\u2013number systems (male/non-male, human/non-human).",
+     "terms": [
+      "gender",
+      "number",
+      "rational/non-rational"
+     ]
+    },
+    {
+     "title": "6.3 Cases",
+     "start": 223,
+     "end": 248,
+     "summary": "Cases and case markers.",
+     "terms": [
+      "case system",
+      "accusative",
+      "dative"
+     ]
+    },
+    {
+     "title": "6.4 Pronouns",
+     "start": 249,
+     "end": 263,
+     "summary": "Personal, reflexive and demonstrative pronouns, inclusive/exclusive.",
+     "terms": [
+      "pronouns",
+      "inclusive-exclusive",
+      "reflexive"
+     ]
+    },
+    {
+     "title": "6.5 Numerals",
+     "start": 264,
+     "end": 271,
+     "summary": "Numerals.",
+     "terms": [
+      "numerals"
+     ]
+    },
+    {
+     "title": "6.6 Quantifiers",
+     "start": 272,
+     "end": 272,
+     "summary": "Quantifiers.",
+     "terms": [
+      "quantifiers"
+     ]
+    },
+    {
+     "title": "6.7 Pronominalized nouns",
+     "start": 273,
+     "end": 274,
+     "summary": "Pronominalized nouns.",
+     "terms": [
+      "pronominalized nouns"
+     ]
+    }
+   ],
+   "summary": "The nominal system."
+  },
+  {
+   "title": "7. The verb",
+   "start": 283,
+   "end": 393,
+   "sections": [
+    {
+     "title": "7.2 The verbal base",
+     "start": 284,
+     "end": 284,
+     "summary": "The verbal base.",
+     "terms": [
+      "verbal base"
+     ]
+    },
+    {
+     "title": "7.3 Intransitive, transitive and causative stems",
+     "start": 285,
+     "end": 296,
+     "summary": "Transitivity and causatives (NP/NPP alternations).",
+     "terms": [
+      "transitive",
+      "causative"
+     ]
+    },
+    {
+     "title": "7.4 Tense",
+     "start": 297,
+     "end": 312,
+     "summary": "Tense morphemes.",
+     "terms": [
+      "tense",
+      "past",
+      "non-past"
+     ]
+    },
+    {
+     "title": "7.5 Pronominal suffixes (gnp markers)",
+     "start": 313,
+     "end": 317,
+     "summary": "Personal (gnp) endings.",
+     "terms": [
+      "gnp markers"
+     ]
+    },
+    {
+     "title": "7.6 Finite verbs in the past and non-past",
+     "start": 318,
+     "end": 335,
+     "summary": "Past and non-past finite verbs.",
+     "terms": [
+      "finite verb"
+     ]
+    },
+    {
+     "title": "7.7 Non-finite verbs: past-stem based",
+     "start": 336,
+     "end": 343,
+     "summary": "Past-stem non-finites (converbs, relative participles).",
+     "terms": [
+      "past participle",
+      "converb"
+     ]
+    },
+    {
+     "title": "7.8 Non-finite verbs: non-past-stem based",
+     "start": 344,
+     "end": 346,
+     "summary": "Non-past non-finites.",
+     "terms": [
+      "non-past participle"
+     ]
+    },
+    {
+     "title": "7.9 Non-finite verbs: the infinitive",
+     "start": 347,
+     "end": 353,
+     "summary": "Infinitives.",
+     "terms": [
+      "infinitive"
+     ]
+    },
+    {
+     "title": "7.10 Negation in finite and non-finite verbs",
+     "start": 354,
+     "end": 362,
+     "summary": "Negation.",
+     "terms": [
+      "negative conjugation"
+     ]
+    },
+    {
+     "title": "7.11 Other simple finite verbs",
+     "start": 363,
+     "end": 367,
+     "summary": "Other finite forms (imperative, optative).",
+     "terms": [
+      "imperative",
+      "optative"
+     ]
+    },
+    {
+     "title": "7.12 Durative or progressive (in present/past) in some languages",
+     "start": 368,
+     "end": 370,
+     "summary": "Progressive.",
+     "terms": [
+      "durative"
+     ]
+    },
+    {
+     "title": "7.13 Serial verbs",
+     "start": 371,
+     "end": 375,
+     "summary": "Serial verbs.",
+     "terms": [
+      "serial verbs"
+     ]
+    },
+    {
+     "title": "7.14 Compound verb stems",
+     "start": 376,
+     "end": 378,
+     "summary": "Compound stems.",
+     "terms": [
+      "compound verbs"
+     ]
+    },
+    {
+     "title": "7.15 Complex predicates and auxiliary verbs",
+     "start": 379,
+     "end": 393,
+     "summary": "Complex predicates and auxiliaries.",
+     "terms": [
+      "auxiliaries",
+      "complex predicates"
+     ]
+    }
+   ],
+   "summary": "The Dravidian verb."
+  },
+  {
+   "title": "8. Adjectives, adverbs and clitics",
+   "start": 394,
+   "end": 425,
+   "sections": [
+    {
+     "title": "8.2 Adjectives",
+     "start": 394,
+     "end": 411,
+     "summary": "Adjectives (few true adjectives).",
+     "terms": [
+      "adjectives"
+     ]
+    },
+    {
+     "title": "8.3 Adverbs",
+     "start": 412,
+     "end": 417,
+     "summary": "Adverbs.",
+     "terms": [
+      "adverbs"
+     ]
+    },
+    {
+     "title": "8.4 Clitics",
+     "start": 418,
+     "end": 425,
+     "summary": "Clitics such as emphatic, interrogative and inclusive.",
+     "terms": [
+      "clitics",
+      "-\u0113",
+      "-\u014d",
+      "-um"
+     ]
+    }
+   ],
+   "summary": "Minor word classes."
+  },
+  {
+   "title": "9. Syntax",
+   "start": 426,
+   "end": 475,
+   "sections": [
+    {
+     "title": "9.2 Simple sentences",
+     "start": 426,
+     "end": 445,
+     "summary": "Simple sentences, word order and case frames.",
+     "terms": [
+      "simple sentence",
+      "SOV"
+     ]
+    },
+    {
+     "title": "9.3 Complex sentences",
+     "start": 446,
+     "end": 459,
+     "summary": "Complex sentences with non-finite clauses and quotatives.",
+     "terms": [
+      "complex sentence",
+      "relative clause",
+      "quotative"
+     ]
+    },
+    {
+     "title": "9.4 Compound sentences (coordination)",
+     "start": 460,
+     "end": 462,
+     "summary": "Coordination.",
+     "terms": [
+      "coordination"
+     ]
+    },
+    {
+     "title": "9.5 Minor sentences",
+     "start": 463,
+     "end": 464,
+     "summary": "Minor sentences.",
+     "terms": [
+      "minor sentences"
+     ]
+    },
+    {
+     "title": "9.6 Sentence negation",
+     "start": 465,
+     "end": 468,
+     "summary": "Sentence negation.",
+     "terms": [
+      "negation"
+     ]
+    },
+    {
+     "title": "9.7 Reflexivity and reciprocality",
+     "start": 469,
+     "end": 471,
+     "summary": "Reflexives and reciprocals.",
+     "terms": [
+      "reflexive",
+      "reciprocal"
+     ]
+    },
+    {
+     "title": "9.8 Anaphora",
+     "start": 472,
+     "end": 473,
+     "summary": "Anaphora.",
+     "terms": [
+      "anaphora"
+     ]
+    }
+   ],
+   "summary": "Sentence structure."
+  },
+  {
+   "title": "10. Lexicon",
+   "start": 476,
+   "end": 494,
+   "sections": [
+    {
+     "title": "10.2 Indo-Aryan loanwords in South Dravidian I and II",
+     "start": 476,
+     "end": 479,
+     "summary": "Indo-Aryan loans in South Dravidian.",
+     "terms": [
+      "Indo-Aryan loanwords"
+     ]
+    },
+    {
+     "title": "10.3 Phonological principles governing loanwords from Indo-Aryan",
+     "start": 480,
+     "end": 483,
+     "summary": "Rules adapting Sanskrit/Prakrit loans.",
+     "terms": [
+      "loanword phonology",
+      "tatsama",
+      "tadbhava"
+     ]
+    },
+    {
+     "title": "10.4 Loanwords from Perso-Arabic sources",
+     "start": 484,
+     "end": 484,
+     "summary": "Persian and Arabic loans.",
+     "terms": [
+      "Perso-Arabic"
+     ]
+    },
+    {
+     "title": "10.5 Loanwords from western languages: Portuguese and English",
+     "start": 484,
+     "end": 484,
+     "summary": "Portuguese and English loans.",
+     "terms": [
+      "Portuguese",
+      "English loanwords"
+     ]
+    },
+    {
+     "title": "10.6 Neologisms",
+     "start": 485,
+     "end": 488,
+     "summary": "Neologisms.",
+     "terms": [
+      "neologisms",
+      "purism"
+     ]
+    },
+    {
+     "title": "10.7 Structured semantic fields",
+     "start": 489,
+     "end": 490,
+     "summary": "Semantic fields.",
+     "terms": [
+      "semantic fields"
+     ]
+    },
+    {
+     "title": "10.8 Strategies of expressives",
+     "start": 491,
+     "end": 494,
+     "summary": "Expressives (onomatopoeia, echo words).",
+     "terms": [
+      "expressives",
+      "echo words"
+     ]
+    }
+   ],
+   "summary": "Vocabulary history and loanwords."
+  },
+  {
+   "title": "11. Conclusion: a summary and overview",
+   "start": 495,
+   "end": 508,
+   "sections": [
+    {
+     "title": "11.2 Earlier attempts at subgrouping the Dravidian languages",
+     "start": 495,
+     "end": 497,
+     "summary": "Earlier subgrouping proposals.",
+     "terms": [
+      "subgrouping history"
+     ]
+    },
+    {
+     "title": "11.3 The subgrouping adopted in this book",
+     "start": 498,
+     "end": 506,
+     "summary": "Krishnamurti\u2019s subgrouping (South I, South II, Central, North).",
+     "terms": [
+      "South Dravidian I",
+      "South-Central",
+      "Central",
+      "North Dravidian"
+     ]
+    },
+    {
+     "title": "11.4 The antiquity of Proto-Dravidian and formation of SD I and II",
+     "start": 507,
+     "end": 507,
+     "summary": "Antiquity of Proto-Dravidian.",
+     "terms": [
+      "time depth",
+      "glottochronology"
+     ]
+    },
+    {
+     "title": "11.5 Desiderata",
+     "start": 508,
+     "end": 508,
+     "summary": "Open research directions.",
+     "terms": [
+      "desiderata"
+     ]
+    }
+   ],
+   "summary": "Subgrouping and the time depth of the family."
+  }
+ ],
+ "title": "The Dravidian Languages",
+ "byline": "Bhadriraju Krishnamurti \u00b7 Cambridge Language Surveys, Cambridge University Press, 2003",
+ "note": "This PDF is a reflowed text copy, so its page numbers do not match the printed book; the PDF page ranges here are for this file. Chapter introductions and conclusions are not broken out, and the bibliography and indexes are not covered. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "The standard one-volume survey of the Dravidian family by its leading comparativist. Krishnamurti introduces the name, prehistory and distribution of some 26 languages and their contact with Indo-Aryan, then gives descriptive phonology and the history of the Telugu\u2013Kannada and Tamil\u2013Malayalam scripts. The core is comparative reconstruction: Proto-Dravidian phonemes, phonotactics and sound changes; roots, formatives and derivation; nominal morphology (gender\u2013number, cases, pronouns, numerals); the verb (stems, transitivity and causatives, tense, personal endings, finite and non-finite forms, negation, serial and compound verbs); adjectives, adverbs and clitics; syntax; and the lexicon including loanwords and expressives. It closes with his subgrouping of the family into South I, South II, Central and North Dravidian and the antiquity of Proto-Dravidian."
+}

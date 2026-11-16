@@ -390,5 +390,29 @@
   "Linear Algebra, Theory and Applications",
   "Kenneth Kuttler",
   "Matrix computation and theory: factorizations, canonical forms, spectral theory, SVD, norms, numerics."
+ ],
+ [
+  "krishnamurti-dravidian-languages",
+  "dravlang",
+  "Linguistics and Languages",
+  "The Dravidian Languages",
+  "Bhadriraju Krishnamurti",
+  "Comparative survey: Proto-Dravidian phonology, morphology, verb, syntax, lexicon and subgrouping."
+ ],
+ [
+  "shieber-programming-well",
+  "abstraction",
+  "Computer Science",
+  "Programming Well: Abstraction and Design in Computation",
+  "Stuart M. Shieber",
+  "CS51 in OCaml: types, higher-order functions, modules, semantics models, laziness, objects, MiniML."
+ ],
+ [
+  "smith-introducing-category-theory",
+  "smithcat",
+  "Mathematics",
+  "Introducing Category Theory (2nd ed.)",
+  "Peter Smith",
+  "Slow, careful intro: limits, exponentials, functors, Yoneda, adjunctions, elementary toposes."
  ]
 ]

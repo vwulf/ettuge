@@ -1,0 +1,1258 @@
+{
+ "url": "https://drive.google.com/file/d/1FAELLCIIZ0Fm4_7lwV4PsTy4iotiw-sT/view",
+ "chapters": [
+  {
+   "title": "Introduction",
+   "start": 19,
+   "end": 28,
+   "sections": [
+    {
+     "title": "An extended example: greatest common divisor",
+     "start": 21,
+     "end": 23,
+     "summary": "Developing a GCD function.",
+     "terms": [
+      "gcd example"
+     ]
+    },
+    {
+     "title": "Programming as design",
+     "start": 24,
+     "end": 25,
+     "summary": "Design as the core skill.",
+     "terms": [
+      "design"
+     ]
+    },
+    {
+     "title": "The OCaml programming language",
+     "start": 26,
+     "end": 27,
+     "summary": "Why OCaml.",
+     "terms": [
+      "OCaml"
+     ]
+    },
+    {
+     "title": "Tools and skills for design",
+     "start": 28,
+     "end": 28,
+     "summary": "Tools for design.",
+     "terms": [
+      "tools"
+     ]
+    }
+   ],
+   "summary": "Programming as design, illustrated with GCD."
+  },
+  {
+   "title": "A Cook's tour of OCaml",
+   "start": 29,
+   "end": 30,
+   "sections": [],
+   "summary": "A quick tour of the language.",
+   "terms": [
+    "OCaml overview"
+   ]
+  },
+  {
+   "title": "Expressions and the linguistics of programming languages",
+   "start": 31,
+   "end": 40,
+   "sections": [
+    {
+     "title": "Specifying syntactic structure with rules",
+     "start": 31,
+     "end": 33,
+     "summary": "Grammar rules for syntax.",
+     "terms": [
+      "BNF",
+      "grammar"
+     ]
+    },
+    {
+     "title": "Disambiguating ambiguous expressions",
+     "start": 34,
+     "end": 35,
+     "summary": "Ambiguity, precedence and associativity.",
+     "terms": [
+      "ambiguity",
+      "precedence"
+     ]
+    },
+    {
+     "title": "Abstract and concrete syntax",
+     "start": 36,
+     "end": 36,
+     "summary": "Abstract vs. concrete syntax.",
+     "terms": [
+      "abstract syntax"
+     ]
+    },
+    {
+     "title": "Expressing your intentions",
+     "start": 37,
+     "end": 40,
+     "summary": "Writing to express intent.",
+     "terms": [
+      "readability"
+     ]
+    }
+   ],
+   "summary": "Syntax and how expressions are structured."
+  },
+  {
+   "title": "Values and types",
+   "start": 41,
+   "end": 50,
+   "sections": [
+    {
+     "title": "OCaml expressions have values",
+     "start": 41,
+     "end": 43,
+     "summary": "Evaluation to values.",
+     "terms": [
+      "values"
+     ]
+    },
+    {
+     "title": "OCaml expressions have types",
+     "start": 44,
+     "end": 47,
+     "summary": "Types and type checking.",
+     "terms": [
+      "types",
+      "type inference"
+     ]
+    },
+    {
+     "title": "The unit type",
+     "start": 48,
+     "end": 48,
+     "summary": "unit.",
+     "terms": [
+      "unit"
+     ]
+    },
+    {
+     "title": "Functions are themselves values",
+     "start": 48,
+     "end": 50,
+     "summary": "Functions as first-class values.",
+     "terms": [
+      "first-class functions"
+     ]
+    }
+   ],
+   "summary": "Values and static types."
+  },
+  {
+   "title": "Naming and scope",
+   "start": 51,
+   "end": 58,
+   "sections": [
+    {
+     "title": "Variables are names for values",
+     "start": 51,
+     "end": 51,
+     "summary": "Variables name values.",
+     "terms": [
+      "variables"
+     ]
+    },
+    {
+     "title": "The type of a let-bound variable can be inferred",
+     "start": 52,
+     "end": 52,
+     "summary": "Type inference for let.",
+     "terms": [
+      "inference"
+     ]
+    },
+    {
+     "title": "let expressions are expressions",
+     "start": 52,
+     "end": 52,
+     "summary": "let as an expression.",
+     "terms": [
+      "let-in"
+     ]
+    },
+    {
+     "title": "Naming to avoid duplication",
+     "start": 53,
+     "end": 54,
+     "summary": "Naming to avoid repetition.",
+     "terms": [
+      "irredundancy"
+     ]
+    },
+    {
+     "title": "Scope",
+     "start": 55,
+     "end": 56,
+     "summary": "Lexical scope.",
+     "terms": [
+      "lexical scope"
+     ]
+    },
+    {
+     "title": "Global naming and top-level let",
+     "start": 57,
+     "end": 58,
+     "summary": "Top-level definitions.",
+     "terms": [
+      "top-level let"
+     ]
+    }
+   ],
+   "summary": "let-binding and scope."
+  },
+  {
+   "title": "Functions",
+   "start": 59,
+   "end": 76,
+   "sections": [
+    {
+     "title": "Function application",
+     "start": 60,
+     "end": 60,
+     "summary": "Application.",
+     "terms": [
+      "application"
+     ]
+    },
+    {
+     "title": "Multiple arguments and currying",
+     "start": 61,
+     "end": 61,
+     "summary": "Currying.",
+     "terms": [
+      "currying"
+     ]
+    },
+    {
+     "title": "Defining anonymous functions",
+     "start": 62,
+     "end": 62,
+     "summary": "fun expressions.",
+     "terms": [
+      "anonymous functions"
+     ]
+    },
+    {
+     "title": "Named functions",
+     "start": 63,
+     "end": 66,
+     "summary": "Named functions.",
+     "terms": [
+      "let functions"
+     ]
+    },
+    {
+     "title": "Function abstraction and irredundancy",
+     "start": 67,
+     "end": 68,
+     "summary": "Abstraction to remove redundancy.",
+     "terms": [
+      "abstraction"
+     ]
+    },
+    {
+     "title": "Defining recursive functions",
+     "start": 69,
+     "end": 71,
+     "summary": "Recursion.",
+     "terms": [
+      "recursion"
+     ]
+    },
+    {
+     "title": "Unit testing",
+     "start": 72,
+     "end": 75,
+     "summary": "Unit tests.",
+     "terms": [
+      "unit testing"
+     ]
+    }
+   ],
+   "summary": "Functions, recursion and testing."
+  },
+  {
+   "title": "Structured data and composite types",
+   "start": 77,
+   "end": 94,
+   "sections": [
+    {
+     "title": "Tuples",
+     "start": 77,
+     "end": 78,
+     "summary": "Tuples.",
+     "terms": [
+      "tuples"
+     ]
+    },
+    {
+     "title": "Pattern matching for decomposing data structures",
+     "start": 79,
+     "end": 82,
+     "summary": "Pattern matching.",
+     "terms": [
+      "pattern matching"
+     ]
+    },
+    {
+     "title": "Lists",
+     "start": 83,
+     "end": 89,
+     "summary": "Lists.",
+     "terms": [
+      "lists"
+     ]
+    },
+    {
+     "title": "Records",
+     "start": 90,
+     "end": 91,
+     "summary": "Records.",
+     "terms": [
+      "records"
+     ]
+    },
+    {
+     "title": "Comparative summary",
+     "start": 92,
+     "end": 94,
+     "summary": "Comparison.",
+     "terms": [
+      "comparison"
+     ]
+    }
+   ],
+   "summary": "Tuples, lists and records."
+  },
+  {
+   "title": "Higher-order functions and functional programming",
+   "start": 95,
+   "end": 106,
+   "sections": [
+    {
+     "title": "The map abstraction",
+     "start": 95,
+     "end": 96,
+     "summary": "map.",
+     "terms": [
+      "map"
+     ]
+    },
+    {
+     "title": "Partial application",
+     "start": 97,
+     "end": 99,
+     "summary": "Partial application.",
+     "terms": [
+      "partial application"
+     ]
+    },
+    {
+     "title": "The fold abstraction",
+     "start": 100,
+     "end": 101,
+     "summary": "fold.",
+     "terms": [
+      "fold_left",
+      "fold_right"
+     ]
+    },
+    {
+     "title": "The filter abstraction",
+     "start": 102,
+     "end": 102,
+     "summary": "filter.",
+     "terms": [
+      "filter"
+     ]
+    },
+    {
+     "title": "Problem section: Credit card numbers and the Luhn check",
+     "start": 103,
+     "end": 104,
+     "summary": "Luhn checksum exercise.",
+     "terms": [
+      "Luhn algorithm"
+     ]
+    }
+   ],
+   "summary": "Higher-order functional programming."
+  },
+  {
+   "title": "Polymorphism and generic programming",
+   "start": 107,
+   "end": 116,
+   "sections": [
+    {
+     "title": "Polymorphism",
+     "start": 108,
+     "end": 108,
+     "summary": "Polymorphic types.",
+     "terms": [
+      "polymorphism"
+     ]
+    },
+    {
+     "title": "Polymorphic map",
+     "start": 109,
+     "end": 109,
+     "summary": "Polymorphic map.",
+     "terms": [
+      "polymorphic map"
+     ]
+    },
+    {
+     "title": "Regaining explicit types",
+     "start": 110,
+     "end": 111,
+     "summary": "Annotations.",
+     "terms": [
+      "type annotations"
+     ]
+    },
+    {
+     "title": "The List library",
+     "start": 112,
+     "end": 112,
+     "summary": "The List library.",
+     "terms": [
+      "List module"
+     ]
+    },
+    {
+     "title": "Problem section: Function composition",
+     "start": 113,
+     "end": 113,
+     "summary": "Composition.",
+     "terms": [
+      "function composition"
+     ]
+    },
+    {
+     "title": "Weak type variables",
+     "start": 114,
+     "end": 114,
+     "summary": "Weak type variables and the value restriction.",
+     "terms": [
+      "weak type variables",
+      "value restriction"
+     ]
+    }
+   ],
+   "summary": "Parametric polymorphism."
+  },
+  {
+   "title": "Handling anomalous conditions",
+   "start": 117,
+   "end": 136,
+   "sections": [
+    {
+     "title": "A non-solution: Error values",
+     "start": 118,
+     "end": 118,
+     "summary": "Why sentinel error values fail.",
+     "terms": [
+      "error values"
+     ]
+    },
+    {
+     "title": "Option types",
+     "start": 119,
+     "end": 121,
+     "summary": "Option types.",
+     "terms": [
+      "option"
+     ]
+    },
+    {
+     "title": "Exceptions",
+     "start": 122,
+     "end": 130,
+     "summary": "Exceptions.",
+     "terms": [
+      "exceptions"
+     ]
+    },
+    {
+     "title": "Options or exceptions?",
+     "start": 131,
+     "end": 131,
+     "summary": "Choosing between them.",
+     "terms": [
+      "option vs exception"
+     ]
+    },
+    {
+     "title": "Unit testing with exceptions",
+     "start": 132,
+     "end": 133,
+     "summary": "Testing exceptions.",
+     "terms": [
+      "testing"
+     ]
+    }
+   ],
+   "summary": "Dealing with errors."
+  },
+  {
+   "title": "Algebraic data types",
+   "start": 137,
+   "end": 154,
+   "sections": [
+    {
+     "title": "Built-in composite types as algebraic types",
+     "start": 139,
+     "end": 139,
+     "summary": "Built-ins as ADTs.",
+     "terms": [
+      "variant types"
+     ]
+    },
+    {
+     "title": "Example: Boolean document search",
+     "start": 140,
+     "end": 145,
+     "summary": "Boolean document search.",
+     "terms": [
+      "document search"
+     ]
+    },
+    {
+     "title": "Example: Dictionaries",
+     "start": 146,
+     "end": 148,
+     "summary": "Dictionaries.",
+     "terms": [
+      "dictionaries"
+     ]
+    },
+    {
+     "title": "Example: Arithmetic expressions",
+     "start": 149,
+     "end": 150,
+     "summary": "Arithmetic expressions.",
+     "terms": [
+      "expression trees"
+     ]
+    },
+    {
+     "title": "Problem section: Binary trees",
+     "start": 151,
+     "end": 152,
+     "summary": "Binary trees.",
+     "terms": [
+      "binary trees"
+     ]
+    }
+   ],
+   "summary": "Algebraic data types."
+  },
+  {
+   "title": "Abstract data types and modular programming",
+   "start": 155,
+   "end": 194,
+   "sections": [
+    {
+     "title": "Modules",
+     "start": 158,
+     "end": 158,
+     "summary": "Modules.",
+     "terms": [
+      "modules"
+     ]
+    },
+    {
+     "title": "A queue module",
+     "start": 159,
+     "end": 161,
+     "summary": "A queue module.",
+     "terms": [
+      "queue"
+     ]
+    },
+    {
+     "title": "Signatures hide extra components",
+     "start": 162,
+     "end": 164,
+     "summary": "Signatures that hide.",
+     "terms": [
+      "signatures",
+      "information hiding"
+     ]
+    },
+    {
+     "title": "Modules with polymorphic components",
+     "start": 165,
+     "end": 165,
+     "summary": "Polymorphic modules.",
+     "terms": [
+      "polymorphic modules"
+     ]
+    },
+    {
+     "title": "Abstract data types and programming for change",
+     "start": 166,
+     "end": 180,
+     "summary": "ADTs and change.",
+     "terms": [
+      "abstraction barrier"
+     ]
+    },
+    {
+     "title": "A dictionary module",
+     "start": 181,
+     "end": 184,
+     "summary": "A dictionary module.",
+     "terms": [
+      "dictionary"
+     ]
+    },
+    {
+     "title": "Alternative methods for defining signatures and modules",
+     "start": 185,
+     "end": 187,
+     "summary": "Other ways to define signatures and modules (functors).",
+     "terms": [
+      "functors",
+      "module types"
+     ]
+    },
+    {
+     "title": "Library Modules",
+     "start": 188,
+     "end": 188,
+     "summary": "Library modules.",
+     "terms": [
+      "standard library"
+     ]
+    },
+    {
+     "title": "Problem section: Image manipulation",
+     "start": 189,
+     "end": 189,
+     "summary": "Image manipulation.",
+     "terms": [
+      "image processing"
+     ]
+    },
+    {
+     "title": "Problem section: An abstract data type for intervals",
+     "start": 190,
+     "end": 190,
+     "summary": "Intervals ADT.",
+     "terms": [
+      "intervals"
+     ]
+    },
+    {
+     "title": "Problem section: Mobiles",
+     "start": 191,
+     "end": 193,
+     "summary": "Mobiles.",
+     "terms": [
+      "mobiles"
+     ]
+    }
+   ],
+   "summary": "Modules, signatures and abstract data types."
+  },
+  {
+   "title": "Semantics: The substitution model",
+   "start": 195,
+   "end": 222,
+   "sections": [
+    {
+     "title": "Semantics of arithmetic expressions",
+     "start": 197,
+     "end": 200,
+     "summary": "Arithmetic.",
+     "terms": [
+      "substitution semantics"
+     ]
+    },
+    {
+     "title": "Semantics of local naming",
+     "start": 201,
+     "end": 203,
+     "summary": "Local naming.",
+     "terms": [
+      "let"
+     ]
+    },
+    {
+     "title": "Defining substitution",
+     "start": 204,
+     "end": 206,
+     "summary": "Defining substitution and free variables.",
+     "terms": [
+      "free variables",
+      "capture"
+     ]
+    },
+    {
+     "title": "Implementing a substitution semantics",
+     "start": 207,
+     "end": 211,
+     "summary": "Implementing an evaluator.",
+     "terms": [
+      "interpreter"
+     ]
+    },
+    {
+     "title": "Problem section: Semantics of booleans and conditionals",
+     "start": 212,
+     "end": 212,
+     "summary": "Booleans and conditionals.",
+     "terms": [
+      "conditionals"
+     ]
+    },
+    {
+     "title": "Semantics of function application",
+     "start": 212,
+     "end": 217,
+     "summary": "Function application.",
+     "terms": [
+      "beta reduction"
+     ]
+    },
+    {
+     "title": "Substitution semantics of recursion",
+     "start": 218,
+     "end": 220,
+     "summary": "Recursion.",
+     "terms": [
+      "recursion"
+     ]
+    }
+   ],
+   "summary": "A substitution model of evaluation."
+  },
+  {
+   "title": "Efficiency, complexity, and recurrences",
+   "start": 223,
+   "end": 246,
+   "sections": [
+    {
+     "title": "The need for an abstract notion of efficiency",
+     "start": 224,
+     "end": 224,
+     "summary": "Why abstract measures.",
+     "terms": [
+      "efficiency"
+     ]
+    },
+    {
+     "title": "Two sorting functions",
+     "start": 225,
+     "end": 226,
+     "summary": "Insertion vs. merge sort.",
+     "terms": [
+      "sorting"
+     ]
+    },
+    {
+     "title": "Empirical efficiency",
+     "start": 227,
+     "end": 228,
+     "summary": "Timing experiments.",
+     "terms": [
+      "empirical timing"
+     ]
+    },
+    {
+     "title": "Big-O notation",
+     "start": 229,
+     "end": 233,
+     "summary": "Big-O.",
+     "terms": [
+      "big-O"
+     ]
+    },
+    {
+     "title": "Recurrence equations",
+     "start": 234,
+     "end": 245,
+     "summary": "Recurrence equations.",
+     "terms": [
+      "recurrences"
+     ]
+    },
+    {
+     "title": "Problem section: Complexity of the Luhn check",
+     "start": 246,
+     "end": 246,
+     "summary": "Luhn complexity.",
+     "terms": [
+      "complexity"
+     ]
+    }
+   ],
+   "summary": "Measuring efficiency."
+  },
+  {
+   "title": "Mutable state and imperative programming",
+   "start": 247,
+   "end": 270,
+   "sections": [
+    {
+     "title": "References",
+     "start": 249,
+     "end": 253,
+     "summary": "References.",
+     "terms": [
+      "ref"
+     ]
+    },
+    {
+     "title": "Other primitive mutable data types",
+     "start": 254,
+     "end": 254,
+     "summary": "Mutable arrays and strings.",
+     "terms": [
+      "arrays",
+      "bytes"
+     ]
+    },
+    {
+     "title": "References and mutation",
+     "start": 255,
+     "end": 257,
+     "summary": "Aliasing and mutation.",
+     "terms": [
+      "aliasing"
+     ]
+    },
+    {
+     "title": "Mutable lists",
+     "start": 258,
+     "end": 259,
+     "summary": "Mutable lists.",
+     "terms": [
+      "mutable lists"
+     ]
+    },
+    {
+     "title": "Imperative queues",
+     "start": 260,
+     "end": 265,
+     "summary": "Imperative queues.",
+     "terms": [
+      "imperative queues"
+     ]
+    },
+    {
+     "title": "Hash tables",
+     "start": 266,
+     "end": 269,
+     "summary": "Hash tables.",
+     "terms": [
+      "hash tables"
+     ]
+    }
+   ],
+   "summary": "Mutable state."
+  },
+  {
+   "title": "Loops and procedural programming",
+   "start": 271,
+   "end": 284,
+   "sections": [
+    {
+     "title": "Loops require impurity",
+     "start": 272,
+     "end": 272,
+     "summary": "Why loops need state.",
+     "terms": [
+      "loops"
+     ]
+    },
+    {
+     "title": "Recursion versus iteration",
+     "start": 273,
+     "end": 274,
+     "summary": "Iteration vs. recursion, tail calls.",
+     "terms": [
+      "tail recursion"
+     ]
+    },
+    {
+     "title": "Saving data structure space",
+     "start": 275,
+     "end": 277,
+     "summary": "Space savings.",
+     "terms": [
+      "space"
+     ]
+    },
+    {
+     "title": "In-place sorting",
+     "start": 278,
+     "end": 282,
+     "summary": "In-place sorting.",
+     "terms": [
+      "in-place sort"
+     ]
+    }
+   ],
+   "summary": "Loops and procedural style."
+  },
+  {
+   "title": "Infinite data structures and lazy programming",
+   "start": 285,
+   "end": 302,
+   "sections": [
+    {
+     "title": "Delaying computation",
+     "start": 285,
+     "end": 286,
+     "summary": "Delaying with thunks.",
+     "terms": [
+      "delayed computation"
+     ]
+    },
+    {
+     "title": "Streams",
+     "start": 287,
+     "end": 290,
+     "summary": "Streams.",
+     "terms": [
+      "streams"
+     ]
+    },
+    {
+     "title": "Lazy recomputation and thunks",
+     "start": 291,
+     "end": 293,
+     "summary": "Memoized laziness.",
+     "terms": [
+      "Lazy.t",
+      "memoization"
+     ]
+    },
+    {
+     "title": "Application: Approximating",
+     "start": 294,
+     "end": 295,
+     "summary": "Approximating \u03c0 and sqrt.",
+     "terms": [
+      "approximation"
+     ]
+    },
+    {
+     "title": "Problem section: Circuits and boolean streams",
+     "start": 296,
+     "end": 296,
+     "summary": "Circuits with boolean streams.",
+     "terms": [
+      "circuits"
+     ]
+    },
+    {
+     "title": "A unit testing framework",
+     "start": 297,
+     "end": 300,
+     "summary": "A test framework.",
+     "terms": [
+      "testing"
+     ]
+    },
+    {
+     "title": "A brief history of laziness",
+     "start": 301,
+     "end": 301,
+     "summary": "History of laziness.",
+     "terms": [
+      "laziness history"
+     ]
+    }
+   ],
+   "summary": "Laziness and infinite data."
+  },
+  {
+   "title": "Extension and object-oriented programming",
+   "start": 303,
+   "end": 320,
+   "sections": [
+    {
+     "title": "Drawing graphical elements",
+     "start": 304,
+     "end": 307,
+     "summary": "Drawing shapes example.",
+     "terms": [
+      "graphics"
+     ]
+    },
+    {
+     "title": "Objects introduced",
+     "start": 308,
+     "end": 310,
+     "summary": "Objects.",
+     "terms": [
+      "objects"
+     ]
+    },
+    {
+     "title": "Object-oriented terminology and syntax",
+     "start": 311,
+     "end": 312,
+     "summary": "OO terminology.",
+     "terms": [
+      "methods",
+      "classes"
+     ]
+    },
+    {
+     "title": "Inheritance",
+     "start": 313,
+     "end": 315,
+     "summary": "Inheritance.",
+     "terms": [
+      "inheritance"
+     ]
+    },
+    {
+     "title": "Subtyping",
+     "start": 316,
+     "end": 318,
+     "summary": "Subtyping.",
+     "terms": [
+      "subtyping"
+     ]
+    },
+    {
+     "title": "Problem section: Object-oriented counters",
+     "start": 319,
+     "end": 319,
+     "summary": "Counters exercise.",
+     "terms": [
+      "counters"
+     ]
+    }
+   ],
+   "summary": "Objects and extensibility."
+  },
+  {
+   "title": "Semantics: The environment model",
+   "start": 321,
+   "end": 340,
+   "sections": [
+    {
+     "title": "Review of substitution semantics",
+     "start": 321,
+     "end": 321,
+     "summary": "Review.",
+     "terms": [
+      "substitution review"
+     ]
+    },
+    {
+     "title": "Environment semantics",
+     "start": 322,
+     "end": 330,
+     "summary": "Environment semantics.",
+     "terms": [
+      "environment semantics",
+      "closures"
+     ]
+    },
+    {
+     "title": "Conditionals and booleans",
+     "start": 331,
+     "end": 331,
+     "summary": "Conditionals.",
+     "terms": [
+      "conditionals"
+     ]
+    },
+    {
+     "title": "Recursion",
+     "start": 332,
+     "end": 333,
+     "summary": "Recursion and closures.",
+     "terms": [
+      "recursion"
+     ]
+    },
+    {
+     "title": "Implementing environment semantics",
+     "start": 334,
+     "end": 334,
+     "summary": "Implementation.",
+     "terms": [
+      "implementation"
+     ]
+    },
+    {
+     "title": "Semantics of mutable storage",
+     "start": 335,
+     "end": 339,
+     "summary": "Mutable storage.",
+     "terms": [
+      "store",
+      "mutation"
+     ]
+    }
+   ],
+   "summary": "An environment model of evaluation."
+  },
+  {
+   "title": "Concurrency",
+   "start": 341,
+   "end": 360,
+   "sections": [
+    {
+     "title": "Sequential, concurrent, and parallel computation",
+     "start": 342,
+     "end": 342,
+     "summary": "Sequential, concurrent, parallel.",
+     "terms": [
+      "concurrency",
+      "parallelism"
+     ]
+    },
+    {
+     "title": "Dependencies",
+     "start": 343,
+     "end": 343,
+     "summary": "Dependencies.",
+     "terms": [
+      "dependencies"
+     ]
+    },
+    {
+     "title": "Threads",
+     "start": 344,
+     "end": 346,
+     "summary": "Threads.",
+     "terms": [
+      "threads"
+     ]
+    },
+    {
+     "title": "Interthread communication",
+     "start": 347,
+     "end": 349,
+     "summary": "Communication.",
+     "terms": [
+      "communication"
+     ]
+    },
+    {
+     "title": "Futures",
+     "start": 350,
+     "end": 351,
+     "summary": "Futures.",
+     "terms": [
+      "futures"
+     ]
+    },
+    {
+     "title": "Futures are not enough",
+     "start": 352,
+     "end": 355,
+     "summary": "Limits of futures.",
+     "terms": [
+      "limits"
+     ]
+    },
+    {
+     "title": "Locks",
+     "start": 356,
+     "end": 358,
+     "summary": "Locks.",
+     "terms": [
+      "locks",
+      "mutex"
+     ]
+    },
+    {
+     "title": "Deadlock",
+     "start": 359,
+     "end": 360,
+     "summary": "Deadlock.",
+     "terms": [
+      "deadlock"
+     ]
+    }
+   ],
+   "summary": "Concurrency basics."
+  },
+  {
+   "title": "Final project: Implementing MiniML",
+   "start": 361,
+   "end": 376,
+   "sections": [
+    {
+     "title": "Overview",
+     "start": 361,
+     "end": 362,
+     "summary": "Overview.",
+     "terms": [
+      "MiniML"
+     ]
+    },
+    {
+     "title": "Implementing a substitution semantics for MiniML",
+     "start": 363,
+     "end": 367,
+     "summary": "Substitution semantics.",
+     "terms": [
+      "substitution evaluator"
+     ]
+    },
+    {
+     "title": "Implementing an environment semantics for MiniML",
+     "start": 368,
+     "end": 370,
+     "summary": "Environment semantics.",
+     "terms": [
+      "environment evaluator",
+      "dynamic scope",
+      "lexical scope"
+     ]
+    },
+    {
+     "title": "Extending the language",
+     "start": 371,
+     "end": 374,
+     "summary": "Extensions.",
+     "terms": [
+      "extensions"
+     ]
+    },
+    {
+     "title": "Submitting the project",
+     "start": 375,
+     "end": 375,
+     "summary": "Submission.",
+     "terms": [
+      "submission"
+     ]
+    },
+    {
+     "title": "Alternative final projects",
+     "start": 376,
+     "end": 376,
+     "summary": "Alternatives.",
+     "terms": [
+      "alternatives"
+     ]
+    }
+   ],
+   "summary": "Building a MiniML interpreter."
+  }
+ ],
+ "title": "Programming Well: Abstraction and Design in Computation",
+ "byline": "Stuart M. Shieber \u00b7 draft textbook for Harvard CS51, \u00a9 2025",
+ "note": "PDF page = printed page. The \u201cSupplementary material\u201d notes, problem sets, mathematical background, style guide and exercise solutions at the back are not broken down. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "The textbook for Harvard\u2019s CS51, teaching programming as a design discipline organized around abstraction, using OCaml. It covers expressions and syntax, values and types, naming and scope, functions and currying, structured data and pattern matching, higher-order functions (map, fold, filter), polymorphism, options and exceptions, algebraic and abstract data types with modules and signatures, a substitution-model semantics, complexity and recurrences, mutable state and imperative structures, loops, laziness and streams, objects and inheritance, an environment-model semantics, and concurrency. A final project builds an interpreter for MiniML."
+}
