@@ -1,0 +1,872 @@
+{
+ "url": "https://drive.google.com/file/d/12qqysiJLSvgCE3RrzPV5KY8YDgg9mDL4/view",
+ "chapters": [
+  {
+   "title": "Three Levels for Thinking About Code",
+   "start": 23,
+   "sections": [],
+   "end": 24,
+   "summary": "Three levels for reasoning about code.",
+   "terms": [
+    "strategies",
+    "levels of abstraction",
+    "reasoning about code"
+   ]
+  },
+  {
+   "title": "Functional Programming",
+   "start": 25,
+   "sections": [],
+   "end": 36,
+   "summary": "What functional programming means here.",
+   "terms": [
+    "functional programming",
+    "local reasoning",
+    "composition",
+    "purity"
+   ]
+  },
+  {
+   "title": "Algebraic Data Types",
+   "start": 37,
+   "sections": [
+    {
+     "title": "Building Algebraic Data Types",
+     "start": 38,
+     "end": 38,
+     "summary": "Products and sums.",
+     "terms": [
+      "algebraic data types"
+     ]
+    },
+    {
+     "title": "Algebraic Data Types in Scala",
+     "start": 39,
+     "end": 44,
+     "summary": "Encoding in Scala 3 (enums, case classes).",
+     "terms": [
+      "enum",
+      "case class"
+     ]
+    },
+    {
+     "title": "Structural Recursion",
+     "start": 45,
+     "end": 57,
+     "summary": "Structural recursion.",
+     "terms": [
+      "structural recursion",
+      "fold"
+     ]
+    },
+    {
+     "title": "Structural Corecursion",
+     "start": 58,
+     "end": 67,
+     "summary": "Structural corecursion (unfold).",
+     "terms": [
+      "corecursion",
+      "unfold"
+     ]
+    },
+    {
+     "title": "The Algebra of Algebraic Data Types",
+     "start": 68,
+     "end": 70,
+     "summary": "The algebra of ADTs.",
+     "terms": [
+      "algebra of types"
+     ]
+    }
+   ],
+   "end": 74,
+   "summary": "Modeling data with ADTs and recursion schemes."
+  },
+  {
+   "title": "Objects as Codata",
+   "start": 75,
+   "sections": [
+    {
+     "title": "Data and Codata",
+     "start": 76,
+     "end": 78,
+     "summary": "Data vs. codata.",
+     "terms": [
+      "codata"
+     ]
+    },
+    {
+     "title": "Codata in Scala",
+     "start": 79,
+     "end": 81,
+     "summary": "Codata as traits/functions.",
+     "terms": [
+      "traits",
+      "functions"
+     ]
+    },
+    {
+     "title": "Structural Recursion and Corecursion for Codata",
+     "start": 82,
+     "end": 93,
+     "summary": "Recursion and corecursion on codata.",
+     "terms": [
+      "streams",
+      "corecursion"
+     ]
+    },
+    {
+     "title": "Relating Data and Codata",
+     "start": 94,
+     "end": 100,
+     "summary": "Converting between data and codata.",
+     "terms": [
+      "church encoding"
+     ]
+    },
+    {
+     "title": "Data and Codata Extensibility",
+     "start": 101,
+     "end": 103,
+     "summary": "Extensibility trade-offs (expression problem).",
+     "terms": [
+      "expression problem",
+      "extensibility"
+     ]
+    }
+   ],
+   "end": 108,
+   "summary": "Codata: objects defined by what you can do with them."
+  },
+  {
+   "title": "Contextual Abstraction",
+   "start": 109,
+   "sections": [
+    {
+     "title": "The Mechanics of Contextual Abstraction",
+     "start": 110,
+     "end": 117,
+     "summary": "given and using.",
+     "terms": [
+      "given",
+      "using",
+      "implicits"
+     ]
+    },
+    {
+     "title": "Anatomy of a Type Class",
+     "start": 118,
+     "end": 123,
+     "summary": "Anatomy of a type class.",
+     "terms": [
+      "type class anatomy"
+     ]
+    },
+    {
+     "title": "Type Class Composition",
+     "start": 124,
+     "end": 125,
+     "summary": "Composing instances.",
+     "terms": [
+      "instance derivation"
+     ]
+    },
+    {
+     "title": "What Type Classes Are",
+     "start": 126,
+     "end": 127,
+     "summary": "What type classes are.",
+     "terms": [
+      "type classes"
+     ]
+    },
+    {
+     "title": "Type Classes and Variance",
+     "start": 130,
+     "end": 135,
+     "summary": "Variance and type classes.",
+     "terms": [
+      "variance"
+     ]
+    }
+   ],
+   "end": 138,
+   "summary": "Type classes via Scala 3 contextual abstraction."
+  },
+  {
+   "title": "Reified Interpreters",
+   "start": 139,
+   "sections": [
+    {
+     "title": "Regular Expressions",
+     "start": 140,
+     "end": 148,
+     "summary": "A regular-expression example.",
+     "terms": [
+      "regular expressions"
+     ]
+    },
+    {
+     "title": "Interpreters and Reification",
+     "start": 149,
+     "end": 151,
+     "summary": "Reifying programs as data and interpreting them.",
+     "terms": [
+      "reification",
+      "interpreter"
+     ]
+    },
+    {
+     "title": "Tail Recursive Interpreters",
+     "start": 152,
+     "end": 168,
+     "summary": "Making interpreters tail recursive.",
+     "terms": [
+      "tail recursion",
+      "trampolining"
+     ]
+    }
+   ],
+   "end": 174,
+   "summary": "Interpreters by reification."
+  },
+  {
+   "title": "Using Cats",
+   "start": 175,
+   "sections": [
+    {
+     "title": "Quick Start",
+     "start": 175,
+     "end": 175,
+     "summary": "Quick start.",
+     "terms": [
+      "Cats setup"
+     ]
+    },
+    {
+     "title": "Using Cats",
+     "start": 176,
+     "end": 178,
+     "summary": "Imports, instances, syntax.",
+     "terms": [
+      "imports",
+      "syntax"
+     ]
+    },
+    {
+     "title": "Example: Eq",
+     "start": 179,
+     "end": 184,
+     "summary": "The Eq type class.",
+     "terms": [
+      "Eq"
+     ]
+    }
+   ],
+   "end": 184,
+   "summary": "Getting started with Cats."
+  },
+  {
+   "title": "Monoids and Semigroups",
+   "start": 185,
+   "sections": [
+    {
+     "title": "Definition of a Monoid",
+     "start": 187,
+     "end": 187,
+     "summary": "Monoid laws.",
+     "terms": [
+      "monoid"
+     ]
+    },
+    {
+     "title": "Definition of a Semigroup",
+     "start": 188,
+     "end": 189,
+     "summary": "Semigroups.",
+     "terms": [
+      "semigroup"
+     ]
+    },
+    {
+     "title": "Monoids in Cats",
+     "start": 190,
+     "end": 192,
+     "summary": "Cats instances and syntax.",
+     "terms": [
+      "Cats Monoid",
+      "|+|"
+     ]
+    },
+    {
+     "title": "Applications of Monoids",
+     "start": 193,
+     "end": 193,
+     "summary": "Uses: big data, distributed systems.",
+     "terms": [
+      "applications"
+     ]
+    }
+   ],
+   "end": 196,
+   "summary": "Monoid and Semigroup."
+  },
+  {
+   "title": "Functors",
+   "start": 197,
+   "sections": [
+    {
+     "title": "Examples of Functors",
+     "start": 197,
+     "end": 198,
+     "summary": "Examples: List, Option, Either, Future.",
+     "terms": [
+      "functor"
+     ]
+    },
+    {
+     "title": "More Examples of Functors",
+     "start": 199,
+     "end": 203,
+     "summary": "Function composition as map.",
+     "terms": [
+      "function composition"
+     ]
+    },
+    {
+     "title": "Definition of a Functor",
+     "start": 204,
+     "end": 204,
+     "summary": "Definition and laws.",
+     "terms": [
+      "functor laws"
+     ]
+    },
+    {
+     "title": "Aside: Higher Kinds and Type Constructors",
+     "start": 205,
+     "end": 206,
+     "summary": "Higher kinds.",
+     "terms": [
+      "higher-kinded types"
+     ]
+    },
+    {
+     "title": "Functors in Cats",
+     "start": 207,
+     "end": 210,
+     "summary": "Functor in Cats.",
+     "terms": [
+      "Cats Functor"
+     ]
+    },
+    {
+     "title": "Contravariant and Invariant Functors",
+     "start": 211,
+     "end": 217,
+     "summary": "Contravariant and invariant functors.",
+     "terms": [
+      "contravariant",
+      "invariant"
+     ]
+    },
+    {
+     "title": "Contravariant and Invariant in Cats",
+     "start": 218,
+     "end": 219,
+     "summary": "Cats Contravariant/Invariant.",
+     "terms": [
+      "contramap",
+      "imap"
+     ]
+    },
+    {
+     "title": "Aside: Partial Unification",
+     "start": 220,
+     "end": 223,
+     "summary": "Partial unification.",
+     "terms": [
+      "partial unification"
+     ]
+    }
+   ],
+   "end": 226,
+   "summary": "Functors and their variants."
+  },
+  {
+   "title": "Monads",
+   "start": 227,
+   "sections": [
+    {
+     "title": "What is a Monad?",
+     "start": 227,
+     "end": 233,
+     "summary": "Definition and laws.",
+     "terms": [
+      "monad",
+      "flatMap"
+     ]
+    },
+    {
+     "title": "Monads in Cats",
+     "start": 234,
+     "end": 237,
+     "summary": "Cats Monad and syntax.",
+     "terms": [
+      "Cats Monad"
+     ]
+    },
+    {
+     "title": "The Identity Monad",
+     "start": 238,
+     "end": 239,
+     "summary": "Id.",
+     "terms": [
+      "Id"
+     ]
+    },
+    {
+     "title": "Either",
+     "start": 240,
+     "end": 246,
+     "summary": "Either.",
+     "terms": [
+      "Either"
+     ]
+    },
+    {
+     "title": "Aside: Error Handling and MonadError",
+     "start": 247,
+     "end": 251,
+     "summary": "MonadError.",
+     "terms": [
+      "MonadError"
+     ]
+    },
+    {
+     "title": "The Eval Monad",
+     "start": 252,
+     "end": 259,
+     "summary": "Eval for stack safety.",
+     "terms": [
+      "Eval"
+     ]
+    },
+    {
+     "title": "The Writer Monad",
+     "start": 260,
+     "end": 265,
+     "summary": "Writer.",
+     "terms": [
+      "Writer"
+     ]
+    },
+    {
+     "title": "The Reader Monad",
+     "start": 266,
+     "end": 270,
+     "summary": "Reader.",
+     "terms": [
+      "Reader"
+     ]
+    },
+    {
+     "title": "The State Monad",
+     "start": 271,
+     "end": 277,
+     "summary": "State.",
+     "terms": [
+      "State"
+     ]
+    },
+    {
+     "title": "Defining Custom Monads",
+     "start": 278,
+     "end": 280,
+     "summary": "Custom monads and tailRecM.",
+     "terms": [
+      "tailRecM"
+     ]
+    }
+   ],
+   "end": 282,
+   "summary": "Monads in Cats."
+  },
+  {
+   "title": "Monad Transformers",
+   "start": 283,
+   "sections": [
+    {
+     "title": "A Transformative Example",
+     "start": 285,
+     "end": 286,
+     "summary": "A worked example of stacking effects.",
+     "terms": [
+      "monad composition",
+      "example"
+     ]
+    },
+    {
+     "title": "Monad Transformers in Cats",
+     "start": 287,
+     "end": 293,
+     "summary": "Cats transformers (OptionT, EitherT).",
+     "terms": [
+      "OptionT",
+      "EitherT"
+     ]
+    }
+   ],
+   "end": 296,
+   "summary": "Stacking monads with transformers."
+  },
+  {
+   "title": "Semigroupal and Applicative",
+   "start": 297,
+   "sections": [
+    {
+     "title": "Semigroupal",
+     "start": 299,
+     "end": 300,
+     "summary": "Semigroupal.",
+     "terms": [
+      "Semigroupal",
+      "product"
+     ]
+    },
+    {
+     "title": "Apply Syntax",
+     "start": 301,
+     "end": 303,
+     "summary": "mapN apply syntax.",
+     "terms": [
+      "mapN"
+     ]
+    },
+    {
+     "title": "Semigroupal Applied to Different Types",
+     "start": 304,
+     "end": 307,
+     "summary": "Behavior for different types.",
+     "terms": [
+      "Either",
+      "Future"
+     ]
+    },
+    {
+     "title": "Parallel",
+     "start": 308,
+     "end": 310,
+     "summary": "Parallel.",
+     "terms": [
+      "Parallel"
+     ]
+    },
+    {
+     "title": "Apply and Applicative",
+     "start": 311,
+     "end": 313,
+     "summary": "Apply and Applicative.",
+     "terms": [
+      "Applicative"
+     ]
+    }
+   ],
+   "end": 316,
+   "summary": "Combining independent effects."
+  },
+  {
+   "title": "Foldable and Traverse",
+   "start": 317,
+   "sections": [
+    {
+     "title": "Foldable",
+     "start": 317,
+     "end": 323,
+     "summary": "Foldable.",
+     "terms": [
+      "Foldable",
+      "foldLeft",
+      "foldRight"
+     ]
+    },
+    {
+     "title": "Traverse",
+     "start": 324,
+     "end": 331,
+     "summary": "Traverse and sequence.",
+     "terms": [
+      "Traverse",
+      "traverse",
+      "sequence"
+     ]
+    }
+   ],
+   "end": 336,
+   "summary": "Folding and traversing."
+  },
+  {
+   "title": "Indexed Types",
+   "start": 337,
+   "sections": [
+    {
+     "title": "Phantom Types",
+     "start": 338,
+     "end": 340,
+     "summary": "Phantom types.",
+     "terms": [
+      "phantom types"
+     ]
+    },
+    {
+     "title": "Indexed Codata",
+     "start": 341,
+     "end": 351,
+     "summary": "Indexed codata.",
+     "terms": [
+      "indexed codata"
+     ]
+    },
+    {
+     "title": "Indexed Data",
+     "start": 352,
+     "end": 352,
+     "summary": "Indexed data (GADTs).",
+     "terms": [
+      "GADTs"
+     ]
+    }
+   ],
+   "end": 352,
+   "summary": "Using types to track state at compile time."
+  },
+  {
+   "title": "Tagless Final Interpreters",
+   "start": 353,
+   "sections": [],
+   "end": 354,
+   "summary": "Tagless final (placeholder in this draft).",
+   "terms": [
+    "tagless final"
+   ]
+  },
+  {
+   "title": "Optimizing Interpreters and Compilers",
+   "start": 355,
+   "sections": [
+    {
+     "title": "Algebraic Manipulation",
+     "start": 355,
+     "end": 364,
+     "summary": "Algebraic simplification.",
+     "terms": [
+      "algebraic optimization"
+     ]
+    },
+    {
+     "title": "From Continuations to Stacks",
+     "start": 365,
+     "end": 369,
+     "summary": "CPS to explicit stacks.",
+     "terms": [
+      "continuations",
+      "stacks"
+     ]
+    },
+    {
+     "title": "Compilers and Virtual Machines",
+     "start": 370,
+     "end": 371,
+     "summary": "Compiling to a virtual machine.",
+     "terms": [
+      "compilers",
+      "virtual machines"
+     ]
+    },
+    {
+     "title": "From Interpreter to Stack Machine",
+     "start": 372,
+     "end": 380,
+     "summary": "From interpreter to stack machine.",
+     "terms": [
+      "stack machine"
+     ]
+    }
+   ],
+   "end": 388,
+   "summary": "Making interpreters faster."
+  },
+  {
+   "title": "Case Study: Testing Asynchronous Code",
+   "start": 389,
+   "sections": [
+    {
+     "title": "Abstracting over Type Constructors",
+     "start": 391,
+     "end": 391,
+     "summary": "Abstracting over type constructors.",
+     "terms": [
+      "higher-kinded abstraction"
+     ]
+    },
+    {
+     "title": "Abstracting over Monads",
+     "start": 392,
+     "end": 392,
+     "summary": "Abstracting over monads.",
+     "terms": [
+      "Id for testing"
+     ]
+    }
+   ],
+   "end": 394,
+   "summary": "Testing async code by abstracting effects."
+  },
+  {
+   "title": "Case Study: Map-Reduce",
+   "start": 395,
+   "sections": [
+    {
+     "title": "Parallelizing map and fold",
+     "start": 395,
+     "end": 396,
+     "summary": "Parallelizing map and fold.",
+     "terms": [
+      "map-reduce"
+     ]
+    },
+    {
+     "title": "Implementing foldMap",
+     "start": 397,
+     "end": 398,
+     "summary": "foldMap.",
+     "terms": [
+      "foldMap"
+     ]
+    },
+    {
+     "title": "Parallelising foldMap",
+     "start": 399,
+     "end": 403,
+     "summary": "Parallel foldMap.",
+     "terms": [
+      "parallelism",
+      "Future"
+     ]
+    }
+   ],
+   "end": 404,
+   "summary": "Parallel map-reduce with monoids."
+  },
+  {
+   "title": "Case Study: Data Validation",
+   "start": 405,
+   "sections": [
+    {
+     "title": "Sketching the Library Structure",
+     "start": 406,
+     "end": 408,
+     "summary": "Library structure.",
+     "terms": [
+      "validation"
+     ]
+    },
+    {
+     "title": "The Check Datatype",
+     "start": 409,
+     "end": 409,
+     "summary": "Check type.",
+     "terms": [
+      "Check"
+     ]
+    },
+    {
+     "title": "Basic Combinators",
+     "start": 410,
+     "end": 410,
+     "summary": "Combinators.",
+     "terms": [
+      "combinators"
+     ]
+    },
+    {
+     "title": "Transforming Data",
+     "start": 411,
+     "end": 416,
+     "summary": "Transforming data.",
+     "terms": [
+      "Predicate"
+     ]
+    },
+    {
+     "title": "Kleislis",
+     "start": 417,
+     "end": 420,
+     "summary": "Kleisli arrows.",
+     "terms": [
+      "Kleisli"
+     ]
+    }
+   ],
+   "end": 422,
+   "summary": "A validation library."
+  },
+  {
+   "title": "Case Study: CRDTs",
+   "start": 423,
+   "sections": [
+    {
+     "title": "Eventual Consistency",
+     "start": 423,
+     "end": 423,
+     "summary": "Eventual consistency.",
+     "terms": [
+      "eventual consistency"
+     ]
+    },
+    {
+     "title": "The GCounter",
+     "start": 424,
+     "end": 427,
+     "summary": "GCounter.",
+     "terms": [
+      "GCounter"
+     ]
+    },
+    {
+     "title": "Generalisation",
+     "start": 428,
+     "end": 430,
+     "summary": "Generalizing with bounded semilattices.",
+     "terms": [
+      "bounded semilattice"
+     ]
+    },
+    {
+     "title": "Abstracting GCounter to a Type Class",
+     "start": 431,
+     "end": 432,
+     "summary": "A type class.",
+     "terms": [
+      "type class"
+     ]
+    },
+    {
+     "title": "Abstracting a Key Value Store",
+     "start": 433,
+     "end": 434,
+     "summary": "Key-value stores.",
+     "terms": [
+      "key-value store"
+     ]
+    }
+   ],
+   "end": 436,
+   "summary": "CRDTs via type classes."
+  }
+ ],
+ "title": "Functional Programming Strategies in Scala with Cats (draft)",
+ "byline": "Noel Welsh, building on Scala with Cats by Dave Pereira-Gurnell and Noel Welsh \u00b7 draft of June 2024, CC BY-SA 4.0",
+ "note": "This free draft has since been superseded by the paid, still-in-progress book \u201cFunctional Programming Strategies\u201d; the original Scala with Cats remains free online at scalawithcats.com. Exercise solutions (Part V) are not broken down. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "An expanded rewrite of Scala with Cats that organizes functional programming around reusable \u201cstrategies\u201d as well as Cats type classes, using Scala 3. Part I lays foundations: algebraic data types with structural recursion and corecursion, objects as codata, contextual abstraction with givens and type classes, and reified interpreters. Part II is the classic Cats tour: monoids and semigroups, functors (including contravariant and invariant), monads (Id, Either, Eval, Writer, Reader, State, custom), monad transformers, Semigroupal/Applicative and Parallel, Foldable and Traverse. Part III covers indexed types and interpreter optimization down to stack machines, and Part IV keeps the case studies: testing async code, map-reduce, data validation and CRDTs."
+}

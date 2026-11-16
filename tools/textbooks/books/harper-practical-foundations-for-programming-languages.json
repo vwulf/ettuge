@@ -1,0 +1,383 @@
+{
+ "url": "https://drive.google.com/file/d/1mRhdbups_JDtjYUR4-frV1Bhxr94NuEO/view",
+ "chapters": [
+  {
+   "title": "I Judgments and Rules",
+   "start": 17,
+   "sections": [
+    {
+     "title": "Abstract Syntax",
+     "start": 19,
+     "end": 28,
+     "summary": "Abstract syntax trees and abstract binding trees, with \u03b1-equivalence and substitution.",
+     "terms": [
+      "abstract binding trees",
+      "alpha-equivalence",
+      "substitution"
+     ]
+    },
+    {
+     "title": "Inductive Definitions",
+     "start": 29,
+     "end": 38,
+     "summary": "Inductive definitions by rules, rule induction, mutual and simultaneous definitions.",
+     "terms": [
+      "inductive definitions",
+      "rule induction"
+     ]
+    },
+    {
+     "title": "Hypothetical and General Judgments",
+     "start": 39,
+     "end": 48,
+     "summary": "Hypothetical and general judgments, structural properties, derivability vs. admissibility.",
+     "terms": [
+      "hypothetical judgments",
+      "admissibility",
+      "derivability"
+     ]
+    }
+   ],
+   "end": 48,
+   "summary": "Syntax and judgments as the basis for everything."
+  },
+  {
+   "title": "II Statics and Dynamics",
+   "start": 49,
+   "sections": [
+    {
+     "title": "Statics",
+     "start": 51,
+     "end": 56,
+     "summary": "Typing rules for a simple expression language.",
+     "terms": [
+      "statics",
+      "typing judgment"
+     ]
+    },
+    {
+     "title": "Dynamics",
+     "start": 57,
+     "end": 66,
+     "summary": "Structural (transition) dynamics, contextual dynamics.",
+     "terms": [
+      "structural dynamics",
+      "contextual dynamics"
+     ]
+    },
+    {
+     "title": "Type Safety",
+     "start": 67,
+     "end": 71,
+     "summary": "Type safety via preservation and progress, run-time errors.",
+     "terms": [
+      "type safety",
+      "progress",
+      "preservation"
+     ]
+    }
+   ],
+   "end": 71,
+   "summary": "How to specify and prove a language safe."
+  },
+  {
+   "title": "III Total Functions",
+   "start": 72,
+   "sections": [
+    {
+     "title": "System T of Higher-Order Recursion",
+     "start": 75,
+     "end": 82,
+     "summary": "System T: recursion over naturals, definability and termination. The draft also has chapters on function definitions and values (PDF pp. 87\u201394).",
+     "terms": [
+      "System T",
+      "G\u00f6del T",
+      "primitive recursion",
+      "termination",
+      "definability"
+     ]
+    }
+   ],
+   "end": 82,
+   "summary": "Total functions with primitive recursion (G\u00f6del\u2019s T)."
+  },
+  {
+   "title": "IV Finite Data Types",
+   "start": 83,
+   "sections": [
+    {
+     "title": "Product Types",
+     "start": 85,
+     "end": 90,
+     "summary": "Nullary and binary products, tuples.",
+     "terms": [
+      "product types",
+      "unit"
+     ]
+    },
+    {
+     "title": "Sum Types",
+     "start": 91,
+     "end": 98,
+     "summary": "Nullary and binary sums, case analysis, booleans and options.",
+     "terms": [
+      "sum types",
+      "void",
+      "case analysis"
+     ]
+    }
+   ],
+   "end": 98,
+   "summary": "Products and sums."
+  },
+  {
+   "title": "V Types and Propositions",
+   "start": 99,
+   "sections": [],
+   "end": 100,
+   "summary": "Propositions as types (constructive and classical logic). Omitted from this abbreviated edition; the 2012 draft covers it in [harper.pdf](https://drive.google.com/file/d/1iPLmHYy13bzVoFAgqyKtLzwTzsyDGZw6/view) at PDF pp. 305\u2013330.",
+   "terms": [
+    "constructive logic",
+    "classical logic",
+    "Curry-Howard",
+    "propositions as types"
+   ]
+  },
+  {
+   "title": "VI Infinite Data Types",
+   "start": 101,
+   "sections": [],
+   "end": 102,
+   "summary": "Inductive, coinductive and recursive types. Omitted from this abbreviated edition; the 2012 draft covers it in [harper.pdf](https://drive.google.com/file/d/1iPLmHYy13bzVoFAgqyKtLzwTzsyDGZw6/view) at PDF pp. 139\u2013164.",
+   "terms": [
+    "inductive types",
+    "coinductive types",
+    "generic programming",
+    "polynomial functors"
+   ]
+  },
+  {
+   "title": "VII Variable Types",
+   "start": 103,
+   "sections": [
+    {
+     "title": "System F of Polymorphic Types",
+     "start": 105,
+     "end": 114,
+     "summary": "System F: polymorphic types, impredicativity, definability, parametricity sketch. Abstract types and constructors/kinds are in the draft (PDF pp. 209\u2013230).",
+     "terms": [
+      "System F",
+      "polymorphism",
+      "impredicativity",
+      "parametricity"
+     ]
+    }
+   ],
+   "end": 114,
+   "summary": "Polymorphism and abstraction."
+  },
+  {
+   "title": "VIII Partiality and Recursive Types",
+   "start": 115,
+   "sections": [
+    {
+     "title": "System PCF of Recursive Functions",
+     "start": 117,
+     "end": 126,
+     "summary": "PCF: general recursion, fixed points, definability of partial functions. Recursive types are in the draft (PDF pp. 155\u2013164).",
+     "terms": [
+      "PCF",
+      "general recursion",
+      "fixed point",
+      "partiality"
+     ]
+    }
+   ],
+   "end": 126,
+   "summary": "General recursion and partiality."
+  },
+  {
+   "title": "IX Dynamic Types",
+   "start": 127,
+   "sections": [],
+   "end": 128,
+   "summary": "Dynamic typing as unityped static typing. Omitted from this abbreviated edition; the 2012 draft covers it in [harper.pdf](https://drive.google.com/file/d/1iPLmHYy13bzVoFAgqyKtLzwTzsyDGZw6/view) at PDF pp. 165\u2013194.",
+   "terms": [
+    "untyped lambda calculus",
+    "dynamic typing",
+    "hybrid typing",
+    "unitype"
+   ]
+  },
+  {
+   "title": "X Subtyping",
+   "start": 129,
+   "sections": [],
+   "end": 131,
+   "summary": "Subtyping. Omitted from this abbreviated edition; the 2012 draft covers it in [harper.pdf](https://drive.google.com/file/d/1iPLmHYy13bzVoFAgqyKtLzwTzsyDGZw6/view) at PDF pp. 231\u2013256.",
+   "terms": [
+    "subtyping",
+    "variance",
+    "subsumption",
+    "singleton kinds"
+   ]
+  },
+  {
+   "title": "XI Dynamic Dispatch",
+   "start": 132,
+   "sections": [],
+   "end": 134,
+   "summary": "Dynamic dispatch and objects. Omitted from this abbreviated edition; the 2012 draft covers it in [harper.pdf](https://drive.google.com/file/d/1iPLmHYy13bzVoFAgqyKtLzwTzsyDGZw6/view) at PDF pp. 257\u2013274.",
+   "terms": [
+    "dynamic dispatch",
+    "method matrix",
+    "inheritance",
+    "classes"
+   ]
+  },
+  {
+   "title": "XII Control Flow",
+   "start": 135,
+   "sections": [
+    {
+     "title": "Control Stacks",
+     "start": 137,
+     "end": 144,
+     "summary": "A stack machine (K machine) and its correctness.",
+     "terms": [
+      "control stack",
+      "K machine"
+     ]
+    },
+    {
+     "title": "Exceptions",
+     "start": 145,
+     "end": 150,
+     "summary": "Exceptions: raising and handling, exception values. Continuations are in the draft (PDF pp. 295\u2013304).",
+     "terms": [
+      "exceptions",
+      "handlers"
+     ]
+    }
+   ],
+   "end": 150,
+   "summary": "Control stacks and exceptions."
+  },
+  {
+   "title": "XIII Symbolic Data",
+   "start": 151,
+   "sections": [],
+   "end": 152,
+   "summary": "Symbols, fluid binding and dynamic classification. Omitted from this abbreviated edition; the 2012 draft covers it in [harper.pdf](https://drive.google.com/file/d/1iPLmHYy13bzVoFAgqyKtLzwTzsyDGZw6/view) at PDF pp. 331\u2013356.",
+   "terms": [
+    "symbols",
+    "fluid binding",
+    "dynamic classification",
+    "gensym"
+   ]
+  },
+  {
+   "title": "XIV Mutable State",
+   "start": 153,
+   "sections": [
+    {
+     "title": "Modernized Algol",
+     "start": 155,
+     "end": 166,
+     "summary": "Modernized Algol: commands vs. expressions, assignables, scoping.",
+     "terms": [
+      "Modernized Algol",
+      "assignables",
+      "commands"
+     ]
+    },
+    {
+     "title": "Assignable References",
+     "start": 167,
+     "end": 177,
+     "summary": "References as values, scope-free assignables, safety. Laziness and polarization are in the draft (PDF pp. 383\u2013404).",
+     "terms": [
+      "references",
+      "free assignables"
+     ]
+    }
+   ],
+   "end": 177,
+   "summary": "Mutable state."
+  },
+  {
+   "title": "XV Parallelism",
+   "start": 178,
+   "sections": [
+    {
+     "title": "Nested Parallelism",
+     "start": 180,
+     "end": 195,
+     "summary": "Nested parallelism, cost dynamics, work and span, Brent\u2019s theorem. Futures and speculation are in the draft (PDF pp. 421\u2013430).",
+     "terms": [
+      "parallelism",
+      "cost semantics",
+      "work",
+      "span",
+      "Brent theorem"
+     ]
+    }
+   ],
+   "end": 195,
+   "summary": "Parallelism and cost."
+  },
+  {
+   "title": "XVI Concurrency and Distribution",
+   "start": 196,
+   "sections": [
+    {
+     "title": "Concurrent Algol",
+     "start": 198,
+     "end": 208,
+     "summary": "Concurrent Algol: processes, channels and communication in an Algol-style language. The process calculus and Distributed Algol chapters are in the draft (PDF pp. 433\u2013474).",
+     "terms": [
+      "Concurrent Algol",
+      "processes",
+      "channels"
+     ]
+    }
+   ],
+   "end": 208,
+   "summary": "Concurrency."
+  },
+  {
+   "title": "XVII Modularity",
+   "start": 209,
+   "sections": [],
+   "end": 210,
+   "summary": "Modules, linking, signatures and type classes. Omitted from this abbreviated edition; the 2012 draft covers it in [harper.pdf](https://drive.google.com/file/d/1iPLmHYy13bzVoFAgqyKtLzwTzsyDGZw6/view) at PDF pp. 475\u2013512.",
+   "terms": [
+    "modules",
+    "linking",
+    "signatures",
+    "type classes",
+    "hierarchy",
+    "parameterization"
+   ]
+  },
+  {
+   "title": "XVIII Equational Reasoning",
+   "start": 211,
+   "sections": [],
+   "end": 213,
+   "summary": "Equational reasoning and parametricity. Omitted from this abbreviated edition; the 2012 draft covers it in [harper.pdf](https://drive.google.com/file/d/1iPLmHYy13bzVoFAgqyKtLzwTzsyDGZw6/view) at PDF pp. 513\u2013564.",
+   "terms": [
+    "equational reasoning",
+    "observational equivalence",
+    "logical relations",
+    "parametricity",
+    "process equivalence",
+    "bisimulation"
+   ]
+  }
+ ],
+ "title": "Practical Foundations for Programming Languages (2nd edition, abbreviated)",
+ "byline": "Robert Harper \u00b7 Cambridge University Press, 2016; abbreviated online edition with corrections, from the author\u2019s site",
+ "note": "The free online edition keeps all 18 parts but only 17 of the printed book\u2019s chapters; omitted parts appear here as single entries that point to the corresponding chapters in the 2012 pre-publication draft, which is also in your Drive (harper.pdf). The appendices are not broken down. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "Harper\u2019s framework for defining and analyzing programming languages with type theory: every feature is given a statics (typing judgments) and a dynamics (transition rules), and type safety is proved as progress plus preservation. The book builds from abstract binding trees and inductive definitions through total and partial functional languages (System T, PCF), finite and infinite data types, polymorphism (System F) and abstract types, dynamic typing as a special case of static typing, subtyping and dynamic dispatch, control (stacks, exceptions, continuations), symbols, mutable state (Modernized Algol, references), parallelism and cost semantics, concurrency (process calculus, Concurrent Algol), modules, and equational reasoning and parametricity. The abbreviated online edition includes the core chapters of each of these threads."
+}

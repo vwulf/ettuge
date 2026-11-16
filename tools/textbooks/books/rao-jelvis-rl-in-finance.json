@@ -1,0 +1,1359 @@
+{
+ "url": "https://drive.google.com/file/d/1nUB9DgHDI5pAGhUdNHuvAWWpsykO53BV/view",
+ "chapters": [
+  {
+   "title": "1. Overview",
+   "start": 17,
+   "end": 34,
+   "sections": [
+    {
+     "title": "Learning Reinforcement Learning",
+     "start": 17,
+     "end": 17,
+     "summary": "Approach to learning RL.",
+     "terms": [
+      "learning RL"
+     ]
+    },
+    {
+     "title": "What You Will Learn from This Book",
+     "start": 18,
+     "end": 18,
+     "summary": "Topics.",
+     "terms": [
+      "contents"
+     ]
+    },
+    {
+     "title": "Expected Background to Read This Book",
+     "start": 19,
+     "end": 19,
+     "summary": "Prerequisites.",
+     "terms": [
+      "prerequisites"
+     ]
+    },
+    {
+     "title": "Decluttering the Jargon Linked to Reinforcement Learning",
+     "start": 20,
+     "end": 21,
+     "summary": "Sorting out RL/DP/ML jargon.",
+     "terms": [
+      "terminology"
+     ]
+    },
+    {
+     "title": "Introduction to the Markov Decision Process (MDP) Framework",
+     "start": 22,
+     "end": 24,
+     "summary": "MDP framework.",
+     "terms": [
+      "MDP framework"
+     ]
+    },
+    {
+     "title": "Real-World Problems That Fit the MDP Framework",
+     "start": 25,
+     "end": 25,
+     "summary": "Real-world MDPs.",
+     "terms": [
+      "applications"
+     ]
+    },
+    {
+     "title": "The Inherent Difficulty in Solving MDPs",
+     "start": 25,
+     "end": 26,
+     "summary": "Why MDPs are hard.",
+     "terms": [
+      "curse of dimensionality"
+     ]
+    },
+    {
+     "title": "Value Function, Bellman Equations, Dynamic Programming and RL",
+     "start": 27,
+     "end": 28,
+     "summary": "Value functions, Bellman equations, DP and RL.",
+     "terms": [
+      "Bellman equations"
+     ]
+    },
+    {
+     "title": "Outline of Chapters",
+     "start": 29,
+     "end": 34,
+     "summary": "Chapter outline.",
+     "terms": [
+      "outline"
+     ]
+    }
+   ],
+   "summary": "What the book covers and the MDP framework."
+  },
+  {
+   "title": "2. Programming and Design",
+   "start": 35,
+   "end": 58,
+   "sections": [
+    {
+     "title": "Code Design",
+     "start": 35,
+     "end": 35,
+     "summary": "Design principles.",
+     "terms": [
+      "code design"
+     ]
+    },
+    {
+     "title": "Environment Setup",
+     "start": 36,
+     "end": 36,
+     "summary": "Setup.",
+     "terms": [
+      "environment"
+     ]
+    },
+    {
+     "title": "Classes and Interfaces",
+     "start": 37,
+     "end": 47,
+     "summary": "Distribution interfaces, dataclasses, type checking, generics.",
+     "terms": [
+      "Distribution",
+      "abstract classes",
+      "type hints"
+     ]
+    },
+    {
+     "title": "Abstracting over Computation",
+     "start": 48,
+     "end": 53,
+     "summary": "First-class functions and iterative algorithms.",
+     "terms": [
+      "higher-order functions",
+      "iterate",
+      "converge"
+     ]
+    }
+   ],
+   "summary": "Python code design for the book\u2019s library."
+  },
+  {
+   "title": "3. Markov Processes",
+   "start": 59,
+   "sections": [
+    {
+     "title": "The Concept of State in a Process",
+     "start": 59,
+     "end": 59,
+     "summary": "State.",
+     "terms": [
+      "state"
+     ]
+    },
+    {
+     "title": "Understanding Markov Property from Stock Price Examples",
+     "start": 59,
+     "end": 65,
+     "summary": "Markov property via stock prices.",
+     "terms": [
+      "Markov property"
+     ]
+    },
+    {
+     "title": "Formal Definitions for Markov Processes",
+     "start": 66,
+     "end": 69,
+     "summary": "Definitions.",
+     "terms": [
+      "Markov process"
+     ]
+    },
+    {
+     "title": "Stock Price Examples Modeled as Markov Processes",
+     "start": 70,
+     "end": 70,
+     "summary": "Stock price models.",
+     "terms": [
+      "random walk",
+      "mean reversion"
+     ]
+    },
+    {
+     "title": "Finite Markov Processes",
+     "start": 71,
+     "end": 72,
+     "summary": "Finite MPs.",
+     "terms": [
+      "finite Markov process"
+     ]
+    },
+    {
+     "title": "Simple Inventory Example",
+     "start": 73,
+     "end": 75,
+     "summary": "Inventory example.",
+     "terms": [
+      "inventory example"
+     ]
+    },
+    {
+     "title": "Stationary Distribution of a Markov Process",
+     "start": 76,
+     "end": 78,
+     "summary": "Stationary distributions.",
+     "terms": [
+      "stationary distribution"
+     ]
+    },
+    {
+     "title": "Formalism of Markov Reward Processes",
+     "start": 79,
+     "end": 81,
+     "summary": "MRPs.",
+     "terms": [
+      "Markov reward process"
+     ]
+    },
+    {
+     "title": "Simple Inventory Example as a Markov Reward Process",
+     "start": 82,
+     "end": 83,
+     "summary": "Inventory as MRP.",
+     "terms": [
+      "inventory MRP"
+     ]
+    },
+    {
+     "title": "Finite Markov Reward Processes",
+     "start": 84,
+     "end": 84,
+     "summary": "Finite MRPs.",
+     "terms": [
+      "finite MRP"
+     ]
+    },
+    {
+     "title": "Simple Inventory Example as a Finite Markov Reward Process",
+     "start": 85,
+     "end": 87,
+     "summary": "Inventory as finite MRP.",
+     "terms": [
+      "inventory"
+     ]
+    },
+    {
+     "title": "Value Function of a Markov Reward Process",
+     "start": 88,
+     "end": 89,
+     "summary": "MRP value functions.",
+     "terms": [
+      "value function",
+      "Bellman equation"
+     ]
+    }
+   ],
+   "end": 92,
+   "summary": "Markov processes and reward processes."
+  },
+  {
+   "title": "4. Markov Decision Processes",
+   "start": 93,
+   "sections": [
+    {
+     "title": "Simple Inventory Example: How Much to Order?",
+     "start": 93,
+     "end": 93,
+     "summary": "Inventory ordering decision.",
+     "terms": [
+      "inventory"
+     ]
+    },
+    {
+     "title": "The Difficulty of Sequential Decisioning Under Uncertainty",
+     "start": 94,
+     "end": 94,
+     "summary": "Difficulty of sequential decisions.",
+     "terms": [
+      "sequential decisions"
+     ]
+    },
+    {
+     "title": "Formal Definition of a Markov Decision Process",
+     "start": 95,
+     "end": 96,
+     "summary": "MDP definition.",
+     "terms": [
+      "MDP"
+     ]
+    },
+    {
+     "title": "Policy",
+     "start": 97,
+     "end": 99,
+     "summary": "Policies.",
+     "terms": [
+      "policy"
+     ]
+    },
+    {
+     "title": "[Markov Decision Process, Policy] := Markov Reward Process",
+     "start": 100,
+     "end": 101,
+     "summary": "MDP plus policy gives an MRP.",
+     "terms": [
+      "MRP from MDP"
+     ]
+    },
+    {
+     "title": "Simple Inventory Example with Unlimited Capacity (Infinite State/Action Space)",
+     "start": 102,
+     "end": 102,
+     "summary": "Infinite inventory example.",
+     "terms": [
+      "infinite state space"
+     ]
+    },
+    {
+     "title": "Finite Markov Decision Processes",
+     "start": 103,
+     "end": 105,
+     "summary": "Finite MDPs.",
+     "terms": [
+      "finite MDP"
+     ]
+    },
+    {
+     "title": "Simple Inventory Example as a Finite Markov Decision Process",
+     "start": 106,
+     "end": 108,
+     "summary": "Inventory as finite MDP.",
+     "terms": [
+      "inventory MDP"
+     ]
+    },
+    {
+     "title": "MDP Value Function for a Fixed Policy",
+     "start": 109,
+     "end": 111,
+     "summary": "Policy value functions.",
+     "terms": [
+      "Bellman expectation equation"
+     ]
+    },
+    {
+     "title": "Optimal Value Function and Optimal Policies",
+     "start": 112,
+     "end": 115,
+     "summary": "Optimal values and policies.",
+     "terms": [
+      "optimal policy",
+      "Bellman optimality"
+     ]
+    },
+    {
+     "title": "Variants and Extensions of MDPs",
+     "start": 116,
+     "end": 121,
+     "summary": "Variants.",
+     "terms": [
+      "POMDP",
+      "variants"
+     ]
+    }
+   ],
+   "end": 122,
+   "summary": "Markov decision processes."
+  },
+  {
+   "title": "5. Dynamic Programming Algorithms",
+   "start": 123,
+   "sections": [
+    {
+     "title": "Planning versus Learning",
+     "start": 123,
+     "end": 123,
+     "summary": "Planning vs. learning.",
+     "terms": [
+      "planning"
+     ]
+    },
+    {
+     "title": "Usage of the Term Dynamic Programming",
+     "start": 123,
+     "end": 124,
+     "summary": "Meaning of DP.",
+     "terms": [
+      "DP"
+     ]
+    },
+    {
+     "title": "Fixed-Point Theory",
+     "start": 125,
+     "end": 128,
+     "summary": "Fixed-point theory and contractions.",
+     "terms": [
+      "Banach fixed point"
+     ]
+    },
+    {
+     "title": "Bellman Policy Operator and Policy Evaluation Algorithm",
+     "start": 129,
+     "end": 131,
+     "summary": "Policy evaluation.",
+     "terms": [
+      "policy evaluation"
+     ]
+    },
+    {
+     "title": "Greedy Policy",
+     "start": 132,
+     "end": 132,
+     "summary": "Greedy policy.",
+     "terms": [
+      "greedy policy"
+     ]
+    },
+    {
+     "title": "Policy Improvement",
+     "start": 133,
+     "end": 135,
+     "summary": "Policy improvement.",
+     "terms": [
+      "policy improvement theorem"
+     ]
+    },
+    {
+     "title": "Policy Iteration Algorithm",
+     "start": 136,
+     "end": 137,
+     "summary": "Policy iteration.",
+     "terms": [
+      "policy iteration"
+     ]
+    },
+    {
+     "title": "Bellman Optimality Operator and Value Iteration Algorithm",
+     "start": 138,
+     "end": 140,
+     "summary": "Value iteration.",
+     "terms": [
+      "value iteration"
+     ]
+    },
+    {
+     "title": "Optimal Policy from Optimal Value Function",
+     "start": 141,
+     "end": 142,
+     "summary": "Extracting policies.",
+     "terms": [
+      "optimal policy"
+     ]
+    },
+    {
+     "title": "Revisiting the Simple Inventory Example",
+     "start": 143,
+     "end": 143,
+     "summary": "Inventory revisited.",
+     "terms": [
+      "example"
+     ]
+    },
+    {
+     "title": "Generalized Policy Iteration",
+     "start": 144,
+     "end": 146,
+     "summary": "GPI.",
+     "terms": [
+      "GPI"
+     ]
+    },
+    {
+     "title": "Asynchronous Dynamic Programming",
+     "start": 147,
+     "end": 148,
+     "summary": "Asynchronous DP.",
+     "terms": [
+      "asynchronous DP"
+     ]
+    },
+    {
+     "title": "Finite-Horizon Dynamic Programming: Backward Induction",
+     "start": 149,
+     "end": 153,
+     "summary": "Backward induction.",
+     "terms": [
+      "backward induction"
+     ]
+    },
+    {
+     "title": "Dynamic Pricing for End-of-Life/End-of-Season of a Product",
+     "start": 154,
+     "end": 157,
+     "summary": "Dynamic pricing example.",
+     "terms": [
+      "dynamic pricing"
+     ]
+    },
+    {
+     "title": "Generalization to Non-Tabular Algorithms",
+     "start": 158,
+     "end": 158,
+     "summary": "Toward non-tabular.",
+     "terms": [
+      "generalization"
+     ]
+    }
+   ],
+   "end": 160,
+   "summary": "Dynamic programming."
+  },
+  {
+   "title": "6. Function Approximation and Approximate Dynamic Programming",
+   "start": 161,
+   "sections": [
+    {
+     "title": "Function Approximation",
+     "start": 162,
+     "end": 165,
+     "summary": "FunctionApprox interface.",
+     "terms": [
+      "function approximation"
+     ]
+    },
+    {
+     "title": "Linear Function Approximation",
+     "start": 166,
+     "end": 171,
+     "summary": "Linear approximation.",
+     "terms": [
+      "linear regression"
+     ]
+    },
+    {
+     "title": "Neural Network Function Approximation",
+     "start": 172,
+     "end": 182,
+     "summary": "Neural networks.",
+     "terms": [
+      "deep neural network"
+     ]
+    },
+    {
+     "title": "Tabular as a Form of FunctionApprox",
+     "start": 183,
+     "end": 185,
+     "summary": "Tabular as a special case.",
+     "terms": [
+      "tabular"
+     ]
+    },
+    {
+     "title": "Approximate Policy Evaluation",
+     "start": 186,
+     "end": 187,
+     "summary": "Approximate policy evaluation.",
+     "terms": [
+      "approximate policy evaluation"
+     ]
+    },
+    {
+     "title": "Approximate Value Iteration",
+     "start": 188,
+     "end": 188,
+     "summary": "Approximate value iteration.",
+     "terms": [
+      "approximate value iteration"
+     ]
+    },
+    {
+     "title": "Finite-Horizon Approximate Policy Evaluation",
+     "start": 188,
+     "end": 189,
+     "summary": "Finite-horizon evaluation.",
+     "terms": [
+      "finite horizon"
+     ]
+    },
+    {
+     "title": "Finite-Horizon Approximate Value Iteration",
+     "start": 190,
+     "end": 190,
+     "summary": "Finite-horizon VI.",
+     "terms": [
+      "backward induction"
+     ]
+    },
+    {
+     "title": "Finite-Horizon Approximate Q-Value Iteration",
+     "start": 190,
+     "end": 191,
+     "summary": "Finite-horizon Q-VI.",
+     "terms": [
+      "Q-value iteration"
+     ]
+    },
+    {
+     "title": "How to Construct the Non-Terminal States Distribution",
+     "start": 192,
+     "end": 192,
+     "summary": "Sampling non-terminal states.",
+     "terms": [
+      "state distribution"
+     ]
+    }
+   ],
+   "end": 196,
+   "summary": "Function approximation and approximate DP."
+  },
+  {
+   "title": "7. Utility Theory",
+   "start": 197,
+   "sections": [
+    {
+     "title": "Introduction to the Concept of Utility",
+     "start": 197,
+     "end": 197,
+     "summary": "Utility concept.",
+     "terms": [
+      "utility"
+     ]
+    },
+    {
+     "title": "A Simple Financial Example",
+     "start": 198,
+     "end": 198,
+     "summary": "Example.",
+     "terms": [
+      "example"
+     ]
+    },
+    {
+     "title": "The Shape of the Utility function",
+     "start": 199,
+     "end": 200,
+     "summary": "Concavity and risk aversion.",
+     "terms": [
+      "concave utility"
+     ]
+    },
+    {
+     "title": "Calculating the Risk-Premium",
+     "start": 201,
+     "end": 202,
+     "summary": "Risk premium.",
+     "terms": [
+      "risk premium",
+      "certainty equivalent"
+     ]
+    },
+    {
+     "title": "Constant Absolute Risk-Aversion (CARA)",
+     "start": 203,
+     "end": 203,
+     "summary": "CARA.",
+     "terms": [
+      "CARA",
+      "exponential utility"
+     ]
+    },
+    {
+     "title": "A Portfolio Application of CARA",
+     "start": 204,
+     "end": 204,
+     "summary": "CARA portfolio.",
+     "terms": [
+      "portfolio"
+     ]
+    },
+    {
+     "title": "Constant Relative Risk-Aversion (CRRA)",
+     "start": 205,
+     "end": 205,
+     "summary": "CRRA.",
+     "terms": [
+      "CRRA",
+      "power utility"
+     ]
+    },
+    {
+     "title": "A Portfolio Application of CRRA",
+     "start": 206,
+     "end": 207,
+     "summary": "CRRA portfolio.",
+     "terms": [
+      "portfolio"
+     ]
+    }
+   ],
+   "end": 208,
+   "summary": "Utility and risk aversion."
+  },
+  {
+   "title": "8. Dynamic Asset-Allocation and Consumption",
+   "start": 209,
+   "sections": [
+    {
+     "title": "Optimization of Personal Finance",
+     "start": 209,
+     "end": 210,
+     "summary": "Personal finance as optimization.",
+     "terms": [
+      "consumption-investment"
+     ]
+    },
+    {
+     "title": "Merton's Portfolio Problem and Solution",
+     "start": 211,
+     "end": 215,
+     "summary": "Merton\u2019s problem and solution.",
+     "terms": [
+      "Merton portfolio problem",
+      "HJB"
+     ]
+    },
+    {
+     "title": "Developing Intuition for the Solution to Merton's Portfolio Problem",
+     "start": 216,
+     "end": 218,
+     "summary": "Intuition.",
+     "terms": [
+      "intuition"
+     ]
+    },
+    {
+     "title": "A Discrete-Time Asset-Allocation Example",
+     "start": 219,
+     "end": 222,
+     "summary": "Discrete-time example as MDP.",
+     "terms": [
+      "discrete-time asset allocation",
+      "ADP"
+     ]
+    },
+    {
+     "title": "Porting to Real-World",
+     "start": 223,
+     "end": 229,
+     "summary": "Real-world porting.",
+     "terms": [
+      "real-world"
+     ]
+    }
+   ],
+   "end": 232,
+   "summary": "Asset allocation and consumption over time."
+  },
+  {
+   "title": "9. Derivatives Pricing and Hedging",
+   "start": 233,
+   "sections": [
+    {
+     "title": "A Brief Introduction to Derivatives",
+     "start": 233,
+     "end": 235,
+     "summary": "Derivatives basics.",
+     "terms": [
+      "derivatives"
+     ]
+    },
+    {
+     "title": "Notation for the Single-Period Simple Setting",
+     "start": 236,
+     "end": 236,
+     "summary": "Single-period notation.",
+     "terms": [
+      "notation"
+     ]
+    },
+    {
+     "title": "Portfolios, Arbitrage and Risk-Neutral Probability Measure",
+     "start": 237,
+     "end": 238,
+     "summary": "Arbitrage and risk-neutral measure.",
+     "terms": [
+      "arbitrage",
+      "risk-neutral probability"
+     ]
+    },
+    {
+     "title": "First Fundamental Theorem of Asset Pricing (1st FTAP)",
+     "start": 239,
+     "end": 239,
+     "summary": "1st FTAP.",
+     "terms": [
+      "first fundamental theorem"
+     ]
+    },
+    {
+     "title": "Second Fundamental Theorem of Asset Pricing (2nd FTAP)",
+     "start": 240,
+     "end": 241,
+     "summary": "2nd FTAP.",
+     "terms": [
+      "second fundamental theorem",
+      "completeness"
+     ]
+    },
+    {
+     "title": "Derivatives Pricing in Single-Period Setting",
+     "start": 242,
+     "end": 253,
+     "summary": "Single-period pricing.",
+     "terms": [
+      "pricing"
+     ]
+    },
+    {
+     "title": "Derivatives Pricing in Multi-Period/Continuous-Time",
+     "start": 254,
+     "end": 255,
+     "summary": "Multi-period and continuous time.",
+     "terms": [
+      "binomial tree",
+      "Black-Scholes"
+     ]
+    },
+    {
+     "title": "Optimal Exercise of American Options Cast as a Finite MDP",
+     "start": 256,
+     "end": 262,
+     "summary": "American options as finite MDPs.",
+     "terms": [
+      "American options"
+     ]
+    },
+    {
+     "title": "Generalizing to Optimal-Stopping Problems",
+     "start": 263,
+     "end": 264,
+     "summary": "Optimal stopping.",
+     "terms": [
+      "optimal stopping"
+     ]
+    },
+    {
+     "title": "Pricing/Hedging in an Incomplete Market Cast as an MDP",
+     "start": 265,
+     "end": 267,
+     "summary": "Incomplete-market pricing as an MDP.",
+     "terms": [
+      "incomplete markets",
+      "utility indifference"
+     ]
+    }
+   ],
+   "end": 268,
+   "summary": "Pricing and hedging derivatives."
+  },
+  {
+   "title": "10. Order-Book Trading Algorithms",
+   "start": 269,
+   "sections": [
+    {
+     "title": "Basics of Order Book and Price Impact",
+     "start": 270,
+     "end": 277,
+     "summary": "Order books and price impact.",
+     "terms": [
+      "order book",
+      "price impact"
+     ]
+    },
+    {
+     "title": "Optimal Execution of a Market Order",
+     "start": 278,
+     "end": 290,
+     "summary": "Optimal execution (Bertsimas\u2013Lo).",
+     "terms": [
+      "optimal execution"
+     ]
+    },
+    {
+     "title": "Optimal Market-Making",
+     "start": 291,
+     "end": 301,
+     "summary": "Optimal market-making (Avellaneda\u2013Stoikov).",
+     "terms": [
+      "market making"
+     ]
+    }
+   ],
+   "end": 304,
+   "summary": "Trading with limit order books."
+  },
+  {
+   "title": "11. Monte-Carlo and Temporal-Difference for Prediction",
+   "start": 305,
+   "sections": [
+    {
+     "title": "Overview of the Reinforcement Learning Approach",
+     "start": 305,
+     "end": 306,
+     "summary": "RL approach.",
+     "terms": [
+      "RL"
+     ]
+    },
+    {
+     "title": "RL for Prediction",
+     "start": 307,
+     "end": 307,
+     "summary": "Prediction problem.",
+     "terms": [
+      "prediction"
+     ]
+    },
+    {
+     "title": "Monte-Carlo (MC) Prediction",
+     "start": 308,
+     "end": 314,
+     "summary": "MC prediction.",
+     "terms": [
+      "Monte Carlo"
+     ]
+    },
+    {
+     "title": "Temporal-Difference (TD) Prediction",
+     "start": 315,
+     "end": 318,
+     "summary": "TD prediction.",
+     "terms": [
+      "TD(0)"
+     ]
+    },
+    {
+     "title": "TD versus MC",
+     "start": 319,
+     "end": 330,
+     "summary": "TD vs. MC.",
+     "terms": [
+      "bias-variance"
+     ]
+    },
+    {
+     "title": "TD(\u03bb) Prediction",
+     "start": 331,
+     "end": 340,
+     "summary": "TD(\u03bb).",
+     "terms": [
+      "TD(\u03bb)",
+      "eligibility traces"
+     ]
+    }
+   ],
+   "end": 342,
+   "summary": "Model-free prediction."
+  },
+  {
+   "title": "12. Monte-Carlo and Temporal-Difference for Control",
+   "start": 343,
+   "sections": [
+    {
+     "title": "Refresher on Generalized Policy Iteration (GPI)",
+     "start": 343,
+     "end": 343,
+     "summary": "GPI refresher.",
+     "terms": [
+      "GPI"
+     ]
+    },
+    {
+     "title": "GPI with Evaluation as Monte-Carlo",
+     "start": 344,
+     "end": 346,
+     "summary": "MC evaluation in GPI.",
+     "terms": [
+      "MC control"
+     ]
+    },
+    {
+     "title": "GLIE Monte-Carlo Control",
+     "start": 347,
+     "end": 352,
+     "summary": "GLIE MC control.",
+     "terms": [
+      "GLIE"
+     ]
+    },
+    {
+     "title": "SARSA",
+     "start": 353,
+     "end": 358,
+     "summary": "SARSA.",
+     "terms": [
+      "SARSA"
+     ]
+    },
+    {
+     "title": "SARSA(\u03bb)",
+     "start": 359,
+     "end": 359,
+     "summary": "SARSA(\u03bb).",
+     "terms": [
+      "SARSA(\u03bb)"
+     ]
+    },
+    {
+     "title": "Off-Policy Control",
+     "start": 360,
+     "end": 372,
+     "summary": "Off-policy control and Q-learning.",
+     "terms": [
+      "Q-learning",
+      "importance sampling"
+     ]
+    },
+    {
+     "title": "Conceptual Linkage between DP and TD Algorithms",
+     "start": 373,
+     "end": 374,
+     "summary": "DP\u2013TD links.",
+     "terms": [
+      "DP and TD"
+     ]
+    },
+    {
+     "title": "Convergence of RL Algorithms",
+     "start": 375,
+     "end": 376,
+     "summary": "Convergence.",
+     "terms": [
+      "convergence"
+     ]
+    }
+   ],
+   "end": 378,
+   "summary": "Model-free control."
+  },
+  {
+   "title": "13. Batch RL, Experience-Replay, DQN, LSPI, Gradient TD",
+   "start": 379,
+   "sections": [
+    {
+     "title": "Batch RL and Experience-Replay",
+     "start": 380,
+     "end": 382,
+     "summary": "Batch RL and experience replay.",
+     "terms": [
+      "batch RL",
+      "experience replay"
+     ]
+    },
+    {
+     "title": "A Generic Implementation of Experience-Replay",
+     "start": 383,
+     "end": 383,
+     "summary": "Generic replay.",
+     "terms": [
+      "replay buffer"
+     ]
+    },
+    {
+     "title": "Least-Squares RL Prediction",
+     "start": 384,
+     "end": 389,
+     "summary": "Least-squares prediction (LSTD).",
+     "terms": [
+      "LSTD"
+     ]
+    },
+    {
+     "title": "Q-Learning with Experience-Replay",
+     "start": 390,
+     "end": 392,
+     "summary": "Q-learning with replay and DQN.",
+     "terms": [
+      "DQN"
+     ]
+    },
+    {
+     "title": "Least-Squares Policy Iteration (LSPI)",
+     "start": 393,
+     "end": 399,
+     "summary": "LSPI.",
+     "terms": [
+      "LSPI"
+     ]
+    },
+    {
+     "title": "RL for Optimal Exercise of American Options",
+     "start": 400,
+     "end": 402,
+     "summary": "Optimal exercise of American options.",
+     "terms": [
+      "American options"
+     ]
+    },
+    {
+     "title": "Value Function Geometry",
+     "start": 403,
+     "end": 408,
+     "summary": "Value function geometry.",
+     "terms": [
+      "Bellman error",
+      "projected Bellman error"
+     ]
+    },
+    {
+     "title": "Gradient Temporal-Difference (Gradient TD)",
+     "start": 409,
+     "end": 409,
+     "summary": "Gradient TD.",
+     "terms": [
+      "gradient TD"
+     ]
+    }
+   ],
+   "end": 412,
+   "summary": "Batch and stable RL methods."
+  },
+  {
+   "title": "14. Policy Gradient Algorithms",
+   "start": 413,
+   "sections": [
+    {
+     "title": "Advantages and Disadvantages of Policy Gradient Algorithms",
+     "start": 414,
+     "end": 414,
+     "summary": "Pros and cons.",
+     "terms": [
+      "policy gradient"
+     ]
+    },
+    {
+     "title": "Policy Gradient Theorem",
+     "start": 415,
+     "end": 418,
+     "summary": "Policy gradient theorem.",
+     "terms": [
+      "policy gradient theorem"
+     ]
+    },
+    {
+     "title": "Score Function for Canonical Policy Functions",
+     "start": 419,
+     "end": 419,
+     "summary": "Score functions for softmax and Gaussian policies.",
+     "terms": [
+      "score function"
+     ]
+    },
+    {
+     "title": "REINFORCE Algorithm (Monte-Carlo Policy Gradient)",
+     "start": 420,
+     "end": 422,
+     "summary": "REINFORCE.",
+     "terms": [
+      "REINFORCE"
+     ]
+    },
+    {
+     "title": "Optimal Asset Allocation (Revisited)",
+     "start": 423,
+     "end": 427,
+     "summary": "Asset allocation revisited.",
+     "terms": [
+      "asset allocation"
+     ]
+    },
+    {
+     "title": "Actor-Critic and Variance Reduction",
+     "start": 428,
+     "end": 432,
+     "summary": "Actor\u2013critic and variance reduction.",
+     "terms": [
+      "actor-critic",
+      "baseline"
+     ]
+    },
+    {
+     "title": "Overcoming Bias with Compatible Function Approximation",
+     "start": 433,
+     "end": 435,
+     "summary": "Compatible function approximation.",
+     "terms": [
+      "compatible function approximation"
+     ]
+    },
+    {
+     "title": "Policy Gradient Methods in Practice",
+     "start": 436,
+     "end": 438,
+     "summary": "Practical methods.",
+     "terms": [
+      "natural gradient",
+      "PPO"
+     ]
+    },
+    {
+     "title": "Evolutionary Strategies",
+     "start": 439,
+     "end": 440,
+     "summary": "Evolutionary strategies.",
+     "terms": [
+      "evolution strategies"
+     ]
+    }
+   ],
+   "end": 444,
+   "summary": "Policy gradient methods."
+  },
+  {
+   "title": "15. Multi-Armed Bandits: Exploration versus Exploitation",
+   "start": 445,
+   "sections": [
+    {
+     "title": "Introduction to the Multi-Armed Bandit Problem",
+     "start": 445,
+     "end": 448,
+     "summary": "Problem statement.",
+     "terms": [
+      "multi-armed bandit"
+     ]
+    },
+    {
+     "title": "Simple Algorithms",
+     "start": 449,
+     "end": 451,
+     "summary": "Simple algorithms (\u03b5-greedy).",
+     "terms": [
+      "epsilon-greedy"
+     ]
+    },
+    {
+     "title": "Lower Bound",
+     "start": 452,
+     "end": 452,
+     "summary": "Lai\u2013Robbins lower bound.",
+     "terms": [
+      "regret lower bound"
+     ]
+    },
+    {
+     "title": "Upper Confidence Bound Algorithms",
+     "start": 453,
+     "end": 457,
+     "summary": "UCB.",
+     "terms": [
+      "UCB"
+     ]
+    },
+    {
+     "title": "Probability Matching",
+     "start": 458,
+     "end": 461,
+     "summary": "Thompson sampling.",
+     "terms": [
+      "Thompson sampling"
+     ]
+    },
+    {
+     "title": "Gradient Bandits",
+     "start": 462,
+     "end": 464,
+     "summary": "Gradient bandits.",
+     "terms": [
+      "gradient bandit"
+     ]
+    },
+    {
+     "title": "Horse Race",
+     "start": 465,
+     "end": 467,
+     "summary": "Comparing algorithms.",
+     "terms": [
+      "comparison"
+     ]
+    },
+    {
+     "title": "Information State Space MDP",
+     "start": 468,
+     "end": 469,
+     "summary": "Information-state MDP.",
+     "terms": [
+      "Gittins",
+      "information state"
+     ]
+    },
+    {
+     "title": "Extending to Contextual Bandits and RL Control",
+     "start": 470,
+     "end": 471,
+     "summary": "Contextual bandits.",
+     "terms": [
+      "contextual bandits"
+     ]
+    }
+   ],
+   "end": 472,
+   "summary": "Bandits."
+  },
+  {
+   "title": "16. Blending Learning and Planning",
+   "start": 473,
+   "sections": [
+    {
+     "title": "Planning versus Learning",
+     "start": 473,
+     "end": 476,
+     "summary": "Planning vs. learning.",
+     "terms": [
+      "model-based RL"
+     ]
+    },
+    {
+     "title": "Decision-Time Planning",
+     "start": 477,
+     "end": 477,
+     "summary": "Decision-time planning.",
+     "terms": [
+      "decision-time planning"
+     ]
+    },
+    {
+     "title": "Monte-Carlo Tree-Search (MCTS)",
+     "start": 478,
+     "end": 478,
+     "summary": "MCTS.",
+     "terms": [
+      "MCTS"
+     ]
+    },
+    {
+     "title": "Adaptive Multi-Stage Sampling",
+     "start": 479,
+     "end": 482,
+     "summary": "Adaptive multi-stage sampling.",
+     "terms": [
+      "AMS"
+     ]
+    }
+   ],
+   "end": 484,
+   "summary": "Combining models and learning."
+  },
+  {
+   "title": "17. Summary and Real-World Considerations",
+   "start": 485,
+   "sections": [
+    {
+     "title": "RL in the Real-World",
+     "start": 489,
+     "end": 494,
+     "summary": "RL in the real world.",
+     "terms": [
+      "real-world RL",
+      "practical considerations"
+     ]
+    }
+   ],
+   "end": 494,
+   "summary": "Lessons and practice."
+  }
+ ],
+ "title": "Foundations of Reinforcement Learning with Applications in Finance",
+ "byline": "Ashwin Rao and Tikhon Jelvis \u00b7 CRC Press / Chapman & Hall, 2022 (authors\u2019 free PDF)",
+ "note": "Short appendix chapters (moment generating functions, portfolio theory, stochastic calculus, HJB, Black\u2013Scholes, affine spaces, conjugate priors) and per-chapter key-takeaway sections are not broken out. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "A Stanford-course textbook that teaches reinforcement learning from Markov processes up, with Python implementations built on careful abstractions and with finance as the running application area. After an overview and a chapter on code design, Module I covers Markov processes, MRPs and MDPs, dynamic programming, and function approximation with approximate DP. Module II casts financial problems as MDPs: utility theory, Merton-style asset allocation, derivatives pricing and hedging (including American options and incomplete markets), and order-book execution and market-making. Module III presents RL algorithms: MC and TD prediction and control, batch methods (experience replay, DQN, LSPI, gradient TD) and policy gradients. Module IV covers bandits, blending learning with planning (MCTS) and real-world considerations."
+}
