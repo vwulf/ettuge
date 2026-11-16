@@ -85,7 +85,9 @@ def pr(a, b):
 def render(slug):
     bk = json.load(open(os.path.join(W, slug, 'book.json')))
     url = bk['url']
-    L = [f'<a id="ch1"></a>\n# {bk["title"]}\n', f'> {bk["byline"]} · [the PDF in Drive]({url})\n']
+    web = bk.get('web')
+    loc = (lambda x: f'[read online]({x["href"]})') if web else (lambda x: f'{pr(x["start"], x["end"])} in [the PDF]({url})')
+    L = [f'<a id="ch1"></a>\n# {bk["title"]}\n', f'> {bk["byline"]} · ' + (f'[the online book]({url})' if web else f'[the PDF in Drive]({url})') + '\n']
     if bk.get('note'): L.append(bk['note'] + '\n')
     L.append(f'## The book in one paragraph\n\n{bk["summary"]}\n')
     chs = bk['chapters']
@@ -100,13 +102,13 @@ def render(slug):
         L.append('')
     for i, c in enumerate(chs, 1):
         L.append('\n---\n' if i == 1 else f'\n---\n\n<a id="ch{i}"></a>')
-        L.append(f'## {c["title"]}\n\n*{pr(c["start"], c["end"])}*\n\n{c["summary"]}\n')
+        L.append(f'## {c["title"]}\n\n' + ('' if web else f'*{pr(c["start"], c["end"])}*\n\n') + f'{c["summary"]}\n')
         for s in c.get('sections', []):
             terms = f'  \n*Terms:* {", ".join(s["terms"])}' if s.get('terms') else ''
-            L.append(f'**{s["title"]}**  \n{s["summary"]}{terms}  \n→ {pr(s["start"], s["end"])} in [the PDF]({url})\n')
+            L.append(f'**{s["title"]}**  \n{s["summary"]}{terms}  \n→ {loc(s)}\n')
         if not c.get('sections'):
             if c.get('terms'): L.append(f'*Terms:* {", ".join(c["terms"])}\n')
-            L.append(f'→ {pr(c["start"], c["end"])} in [the PDF]({url})\n')
+            L.append(f'→ {loc(c)}\n')
     os.makedirs(OUT, exist_ok=True)
     open(os.path.join(OUT, slug + '.md'), 'w').write('\n'.join(L) + '\n')
     print('wrote', os.path.join(OUT, slug + '.md'), sum(len(x.split()) for x in L), 'words')
@@ -133,7 +135,7 @@ def assemble(slug, meta, ch_summ, sec_summ):
         assert len(ss) == len(c['sections']), (c['title'], len(ss), len(c['sections']))
         for s, x in zip(c['sections'], ss): s['summary'] = x
     assert len(ch_summ) == len(st['chapters']), (len(ch_summ), len(st['chapters']))
-    bk = dict(meta, chapters=st['chapters'], url=f"https://drive.google.com/file/d/{ids[slug]}/view")
+    bk = dict(dict(url=f"https://drive.google.com/file/d/{ids.get(slug)}/view"), chapters=st["chapters"], **meta)
     json.dump(bk, open(os.path.join(W, slug, 'book.json'), 'w'), indent=1)
     render(slug)
 

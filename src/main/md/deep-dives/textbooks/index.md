@@ -23,7 +23,7 @@ Partial PDFs (samples, excerpts, unfinished drafts) are marked as such on their 
 - [Computability, Unsolvability, Randomness](simpson-computability-randomness) (Simpson): recursion theory to Martin-Löf randomness
 - [Distributed Computing Through Combinatorial Topology](distributed-computing-combinatorial-topology) (Herlihy, Kozlov and Rajsbaum): Solvability of distributed tasks as a question about simplicial complexes and their maps.
 - [Effect Oriented Programming](effect-oriented-programming) (Frasure, Eckel, Ward): ZIO effects, layers, typed errors, resilience
-- [Functional Programming in Lean](functional-programming-in-lean) (David Thrane Christiansen): Lean 4 as a programming language: types, IO, type classes, monads, transformers, dependent types (partial PDF).
+- [Functional Programming in Lean](functional-programming-in-lean) (David Thrane Christiansen): Lean 4 as a programming language: types, IO, type classes, monads, transformers, dependent types, induction proofs, verified fast code.
 - [Implementing Functional Languages: a tutorial](implementing-functional-languages) (Simon Peyton Jones and David Lester): Building lazy evaluators step by step: template instantiation, G-machine, TIM, parallel G-machine, lambda lifting.
 - [Lambda-Calculus and Combinators](hindley-seldin-lambda-calculus-combinators) (J. Roger Hindley and Jonathan Seldin): λ-calculus and CL side by side: reduction, computability, typing, pure type systems and models.
 - [Mathematics and Computation](wigderson-mathematics-and-computation) (Avi Wigderson): Panoramic survey of complexity theory, randomness, proofs and its links to mathematics and science.
