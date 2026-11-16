@@ -1,0 +1,318 @@
+{
+ "title": "Category Theory for Scientists",
+ "byline": "David I. Spivak \u00b7 arXiv 1302.6946 (old version of the MIT Press book), 2013",
+ "note": "The arXiv draft of what became Category Theory for the Sciences. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "Spivak introduces category theory to scientists outside mathematics, using ologs (ontology logs: knowledge as labeled boxes and arrows) and database schemas as running examples alongside the usual algebra. It starts with sets and functions, building products, coproducts, limits and colimits concretely in Set, then studies monoids, groups, graphs and orders as categories before naming categories and functors outright. The core chapter covers functors, natural transformations, the equivalence between categories and database schemas, and limits; the last covers adjunctions, functor categories and the Yoneda lemma, monads, and operads as a language for composing systems.",
+ "chapters": [
+  {
+   "title": "1 Introduction",
+   "start": 7,
+   "end": 14,
+   "sections": [
+    {
+     "title": "1.1 A brief history of category theory",
+     "start": 9,
+     "end": 9,
+     "summary": "Where category theory came from.",
+     "terms": [
+      "history of category theory"
+     ]
+    },
+    {
+     "title": "1.2 Intention of this book",
+     "start": 10,
+     "end": 11,
+     "summary": "Aim: a language for science.",
+     "terms": [
+      "applied category theory"
+     ]
+    },
+    {
+     "title": "1.3 What is requested from the student",
+     "start": 12,
+     "end": 12,
+     "summary": "Background and exercises.",
+     "terms": [
+      "prerequisites"
+     ]
+    },
+    {
+     "title": "1.4 Category theory references",
+     "start": 12,
+     "end": 12,
+     "summary": "Other references.",
+     "terms": [
+      "references"
+     ]
+    },
+    {
+     "title": "1.5 Acknowledgments",
+     "start": 12,
+     "end": 14,
+     "summary": "Acknowledgments.",
+     "terms": [
+      "acknowledgments"
+     ]
+    }
+   ],
+   "summary": "A short history, the book\u2019s purpose, and what it asks of readers."
+  },
+  {
+   "title": "2 The category of sets",
+   "start": 15,
+   "end": 68,
+   "sections": [
+    {
+     "title": "2.1 Sets and functions",
+     "start": 15,
+     "end": 21,
+     "summary": "Sets and functions.",
+     "terms": [
+      "sets",
+      "functions"
+     ]
+    },
+    {
+     "title": "2.2 Commutative diagrams",
+     "start": 22,
+     "end": 22,
+     "summary": "Commutative diagrams.",
+     "terms": [
+      "commutative diagram"
+     ]
+    },
+    {
+     "title": "2.3 Ologs",
+     "start": 23,
+     "end": 31,
+     "summary": "Ologs: knowledge representation with boxes and arrows.",
+     "terms": [
+      "olog",
+      "ontology log",
+      "knowledge representation"
+     ]
+    },
+    {
+     "title": "2.4 Products and coproducts",
+     "start": 32,
+     "end": 40,
+     "summary": "Products and coproducts.",
+     "terms": [
+      "product",
+      "coproduct"
+     ]
+    },
+    {
+     "title": "2.5 Finite limits in Set",
+     "start": 41,
+     "end": 48,
+     "summary": "Pullbacks and other finite limits.",
+     "terms": [
+      "pullback",
+      "finite limits"
+     ]
+    },
+    {
+     "title": "2.6 Finite colimits in Set",
+     "start": 49,
+     "end": 55,
+     "summary": "Pushouts and other finite colimits.",
+     "terms": [
+      "pushout",
+      "finite colimits"
+     ]
+    },
+    {
+     "title": "2.7 Other notions in Set",
+     "start": 56,
+     "end": 68,
+     "summary": "Further constructions in Set.",
+     "terms": [
+      "exponentials",
+      "characteristic function",
+      "subobject"
+     ]
+    }
+   ],
+   "summary": "Sets, functions, diagrams and ologs, with limits and colimits computed in Set."
+  },
+  {
+   "title": "3 Categories and functors, without admitting it",
+   "start": 69,
+   "end": 112,
+   "sections": [
+    {
+     "title": "3.1 Monoids",
+     "start": 69,
+     "end": 81,
+     "summary": "Monoids and their actions.",
+     "terms": [
+      "monoid",
+      "monoid action"
+     ]
+    },
+    {
+     "title": "3.2 Groups",
+     "start": 82,
+     "end": 85,
+     "summary": "Groups and group actions.",
+     "terms": [
+      "group",
+      "group action"
+     ]
+    },
+    {
+     "title": "3.3 Graphs",
+     "start": 86,
+     "end": 92,
+     "summary": "Graphs and graph homomorphisms.",
+     "terms": [
+      "graph",
+      "graph homomorphism"
+     ]
+    },
+    {
+     "title": "3.4 Orders",
+     "start": 93,
+     "end": 101,
+     "summary": "Preorders and partial orders.",
+     "terms": [
+      "preorder",
+      "partial order"
+     ]
+    },
+    {
+     "title": "3.5 Databases: schemas and instances",
+     "start": 102,
+     "end": 112,
+     "summary": "Database schemas and their instances.",
+     "terms": [
+      "database schema",
+      "instance"
+     ]
+    }
+   ],
+   "summary": "Monoids, groups, graphs, orders and database schemas, studied as categories before the word is used."
+  },
+  {
+   "title": "4 Basic category theory",
+   "start": 113,
+   "end": 200,
+   "sections": [
+    {
+     "title": "4.1 Categories and Functors",
+     "start": 113,
+     "end": 128,
+     "summary": "Definitions and examples of categories and functors.",
+     "terms": [
+      "category",
+      "functor"
+     ]
+    },
+    {
+     "title": "4.2 Categories and functors commonly arising in mathematics",
+     "start": 129,
+     "end": 142,
+     "summary": "Common categories across mathematics.",
+     "terms": [
+      "Set",
+      "Grp",
+      "Top",
+      "Cat"
+     ]
+    },
+    {
+     "title": "4.3 Natural transformations",
+     "start": 143,
+     "end": 164,
+     "summary": "Natural transformations, including equivalences.",
+     "terms": [
+      "natural transformation",
+      "equivalence of categories"
+     ]
+    },
+    {
+     "title": "4.4 Categories and schemas are equivalent, CatSch",
+     "start": 165,
+     "end": 168,
+     "summary": "Categories are the same as database schemas.",
+     "terms": [
+      "schema",
+      "category equivalence"
+     ]
+    },
+    {
+     "title": "4.5 Limits and colimits",
+     "start": 169,
+     "end": 191,
+     "summary": "Limits and colimits in general.",
+     "terms": [
+      "limit",
+      "colimit"
+     ]
+    },
+    {
+     "title": "4.6 Other notions in Cat",
+     "start": 192,
+     "end": 200,
+     "summary": "Further notions such as slice categories and Grothendieck constructions.",
+     "terms": [
+      "slice category",
+      "Grothendieck construction"
+     ]
+    }
+   ],
+   "summary": "Categories, functors, natural transformations, schemas, limits and colimits."
+  },
+  {
+   "title": "5 Categories at work",
+   "start": 201,
+   "end": 267,
+   "sections": [
+    {
+     "title": "5.1 Adjoint functors",
+     "start": 201,
+     "end": 217,
+     "summary": "Adjunctions with database and logic examples.",
+     "terms": [
+      "adjunction",
+      "adjoint functors"
+     ]
+    },
+    {
+     "title": "5.2 Categories of functors",
+     "start": 218,
+     "end": 234,
+     "summary": "Functor categories, presheaves and the Yoneda lemma.",
+     "terms": [
+      "functor category",
+      "presheaf",
+      "Yoneda lemma"
+     ]
+    },
+    {
+     "title": "5.3 Monads",
+     "start": 235,
+     "end": 246,
+     "summary": "Monads, including Kleisli categories, applied to effects.",
+     "terms": [
+      "monad",
+      "Kleisli category"
+     ]
+    },
+    {
+     "title": "5.4 Operads",
+     "start": 247,
+     "end": 267,
+     "summary": "Operads for composing systems from parts.",
+     "terms": [
+      "operad",
+      "composition"
+     ]
+    }
+   ],
+   "summary": "Adjoints, functor categories, monads and operads."
+  }
+ ],
+ "url": "https://drive.google.com/file/d/1uWXMxetXOQd8QmMZ1OX6ZctMhJCFDXry/view"
+}

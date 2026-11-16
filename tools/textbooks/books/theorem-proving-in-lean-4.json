@@ -1,0 +1,185 @@
+{
+ "title": "Theorem Proving in Lean 4",
+ "byline": "Jeremy Avigad, Leonardo de Moura, Soonho Kong and Sebastian Ullrich \u00b7 Lean 4 edition",
+ "note": "This PDF is a browser print of the online book, so it has no table of contents or printed page numbers; chapter ranges here are PDF pages. Sections are not broken out. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "The standard introduction to proving theorems in Lean 4. It teaches the dependent type theory underneath Lean (the Calculus of Inductive Constructions with universes) and uses propositions-as-types throughout: a proof is a term, logical connectives and quantifiers are types, and equality is an inductive family. With that foundation it covers term-mode proofs, tactic proofs, the practicalities of working in Lean, inductive types and recursion (structural and well-founded), structures, type classes, conv mode, and the axioms (propositional and function extensionality, quotients, choice) together with their computational cost.",
+ "chapters": [
+  {
+   "title": "1. Introduction",
+   "start": 1,
+   "end": 3,
+   "sections": [],
+   "summary": "Computers in proof: automated versus interactive theorem proving, and Lean\u2019s place among them.",
+   "terms": [
+    "interactive theorem proving",
+    "automated theorem proving",
+    "Lean 4"
+   ]
+  },
+  {
+   "title": "2. Dependent Type Theory",
+   "start": 4,
+   "end": 22,
+   "sections": [],
+   "summary": "Lean\u2019s type theory from simple types to dependent types: definitions, variables, sections, namespaces and implicit arguments.",
+   "terms": [
+    "dependent type theory",
+    "simple type theory",
+    "universes",
+    "definitions",
+    "namespaces",
+    "implicit arguments",
+    "#check",
+    "#eval"
+   ]
+  },
+  {
+   "title": "3. Propositions and Proofs",
+   "start": 23,
+   "end": 40,
+   "sections": [],
+   "summary": "Propositions as types: proofs as terms, the logical connectives, and classical reasoning as an extra axiom.",
+   "terms": [
+    "propositions as types",
+    "Curry-Howard",
+    "conjunction",
+    "disjunction",
+    "negation",
+    "classical logic",
+    "Classical.em"
+   ]
+  },
+  {
+   "title": "4. Quantifiers and Equality",
+   "start": 41,
+   "end": 58,
+   "sections": [],
+   "summary": "The universal and existential quantifiers, equality, rewriting and calculational proofs.",
+   "terms": [
+    "universal quantifier",
+    "existential quantifier",
+    "equality",
+    "Eq.subst",
+    "rewriting",
+    "calc"
+   ]
+  },
+  {
+   "title": "5. Tactics",
+   "start": 59,
+   "end": 86,
+   "sections": [],
+   "summary": "Building proofs interactively with tactics: intro, apply, exact, rw, simp, cases, induction, and combinators.",
+   "terms": [
+    "tactics",
+    "intro",
+    "apply",
+    "exact",
+    "rw",
+    "simp",
+    "cases",
+    "induction",
+    "tactic combinators"
+   ]
+  },
+  {
+   "title": "6. Interacting with Lean",
+   "start": 87,
+   "end": 106,
+   "sections": [],
+   "summary": "Practical Lean: imports, sections, namespaces, attributes, notation, coercions and settings.",
+   "terms": [
+    "imports",
+    "sections",
+    "attributes",
+    "notation",
+    "coercions",
+    "set_option"
+   ]
+  },
+  {
+   "title": "7. Inductive Types",
+   "start": 107,
+   "end": 134,
+   "sections": [],
+   "summary": "Defining inductive types (enumerations, structures, recursive and indexed families) and their eliminators.",
+   "terms": [
+    "inductive types",
+    "constructors",
+    "recursors",
+    "enumerated types",
+    "indexed families"
+   ]
+  },
+  {
+   "title": "8. Induction and Recursion",
+   "start": 135,
+   "end": 164,
+   "sections": [],
+   "summary": "Pattern matching, structural and well-founded recursion, mutual and nested recursion, and dependent pattern matching.",
+   "terms": [
+    "pattern matching",
+    "structural recursion",
+    "well-founded recursion",
+    "mutual recursion",
+    "dependent pattern matching"
+   ]
+  },
+  {
+   "title": "9. Structures and Records",
+   "start": 165,
+   "end": 170,
+   "sections": [],
+   "summary": "Structures as single-constructor inductive types, with projections, inheritance and anonymous constructor notation.",
+   "terms": [
+    "structures",
+    "projections",
+    "inheritance",
+    "anonymous constructor"
+   ]
+  },
+  {
+   "title": "10. Type Classes",
+   "start": 171,
+   "end": 189,
+   "sections": [],
+   "summary": "Type classes for overloading and canonical structures: instances, defaults, outParams, coercions and instance resolution.",
+   "terms": [
+    "type classes",
+    "instances",
+    "instance resolution",
+    "outParam",
+    "default instances",
+    "coercions"
+   ]
+  },
+  {
+   "title": "11. The Conversion Tactic Mode",
+   "start": 190,
+   "end": 194,
+   "sections": [],
+   "summary": "The conv mode for rewriting inside specific subterms of a goal.",
+   "terms": [
+    "conv mode",
+    "rewriting subterms"
+   ]
+  },
+  {
+   "title": "12. Axioms and Computation",
+   "start": 195,
+   "end": 211,
+   "sections": [],
+   "summary": "Propositional extensionality, function extensionality, quotients and choice, and what they do to computation.",
+   "terms": [
+    "propext",
+    "funext",
+    "quotients",
+    "Quot",
+    "axiom of choice",
+    "Classical.choice",
+    "noncomputable"
+   ]
+  }
+ ],
+ "url": "https://drive.google.com/file/d/10fv1H-P3lHBOn8_d1XdfErqupQxiCDAi/view"
+}

@@ -134,5 +134,77 @@
   "Principles of Eventual Consistency",
   "Burckhardt",
   "histories, abstract executions, CAP, protocols"
+ ],
+ [
+  "shewchuk-concise-machine-learning",
+  "concise-ml",
+  "AI and Machine Learning",
+  "Concise Machine Learning",
+  "Shewchuk",
+  "Berkeley CS 189: SVMs to spectral clustering"
+ ],
+ [
+  "gartner-jaggi-optimization-ml",
+  "ml-lecture-notes",
+  "AI and Machine Learning",
+  "Optimization for Machine Learning",
+  "Gärtner, Jaggi",
+  "GD, SGD, proximal, Newton, BFGS, Frank-Wolfe with rates"
+ ],
+ [
+  "multimodal-deep-learning",
+  "multimodal",
+  "AI and Machine Learning",
+  "Multimodal Deep Learning",
+  "LMU seminar",
+  "image–text models: CLIP, DALL-E, diffusion (2023)"
+ ],
+ [
+  "theorem-proving-in-lean-4",
+  "tpil4",
+  "Computer Science",
+  "Theorem Proving in Lean 4",
+  "Avigad, de Moura, Kong, Ullrich",
+  "dependent types, tactics, inductive types, type classes"
+ ],
+ [
+  "mcbride-perhaps-not-the-answer",
+  "pigworker",
+  "Computer Science",
+  "Perhaps Not The Answer You Were Expecting",
+  "McBride",
+  "Stack Overflow answers: applicatives, derivatives, dependent types"
+ ],
+ [
+  "michaelson-lambda-calculus",
+  "michaelson-lambda",
+  "Computer Science",
+  "An Introduction to Functional Programming Through Lambda Calculus",
+  "Michaelson",
+  "encodings, evaluation, SML and LISP"
+ ],
+ [
+  "scala-native-systems-programming",
+  "scala-native",
+  "Computer Science",
+  "Modern Systems Programming with Scala Native",
+  "Whaling",
+  "pointers, processes, libuv, LMDB"
+ ],
+ [
+  "tarski-introduction-to-logic",
+  "tarski-logic",
+  "Mathematics",
+  "Introduction to Logic and to the Methodology of Deductive Sciences",
+  "Tarski",
+  "sentential calculus, classes, relations, axiomatics"
+ ],
+ [
+  "spivak-category-theory-for-scientists",
+  "spivak-ct4s",
+  "Mathematics",
+  "Category Theory for Scientists",
+  "Spivak",
+  "ologs, databases, limits, adjoints, monads, operads"
  ]
 ]
