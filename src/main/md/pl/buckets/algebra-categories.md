@@ -12,6 +12,17 @@ The algebraic structures used every day in Scala and Haskell (semigroups, monoid
 
 **Two ways into category theory.** Milewski's *Category Theory for Programmers* starts from code: types as objects, functions as arrows, monads as composition of effectful functions. Riehl's *Category Theory in Context* starts from mathematics: universal properties, Yoneda, limits and adjunctions, with examples from algebra and topology. They work best read together. Milewski supplies the intuition, and Riehl explains why the definitions are the right ones.
 
+**The Yoneda lemma says that a polymorphic function out of `a -> x` is determined by a single value, the one it produces from `id`.**
+Milewski's version is the simplest one. Take a functor `F` and a natural transformation `α : C(a, −) → F`, which in Haskell is a polymorphic function `forall x. (a -> x) -> f x`. Feed it `id :: a -> a` and you get one value of type `f a`. Naturality then fixes everything else: for any `h :: a -> x`, `α h = fmap h (α id)`. So the function has no freedom beyond the choice of that one value, and `[C, Set](C(a, −), F) ≅ F a`. Read in code, `forall x. (a -> x) -> f x` is the same as `f a`. You can only produce an `f x` by `fmap`-ing `h` over a value you already had.
+- **Objects are known by their relationships.** Taking `F = C(b, −)` gives the Yoneda embedding: maps `C(a, −) → C(b, −)` are exactly arrows `b → a`. An object is determined up to isomorphism by the arrows out of it, the way a type is determined by what you can do with it.
+- **CPS.** With `F = Identity`, `forall r. (a -> r) -> r` is the same as `a`. This is the continuation-passing transform, and the codensity monad of the Kan extensions gist below is the same trick applied to a whole monad.
+- **Co-Yoneda.** The dual says `exists x. (x -> a, f x)` is the same as `f a`. Storing the function next to the value turns any type constructor into a functor for free and fuses chains of `fmap` into one, which is the free functor `FreeF`.
+- **As an end.** The Ninja Yoneda lemma writes the same fact as `∫_x Set(C(a, x), F x) ≅ F a`. This formula is what turns a Kan extension's universal property into an explicit end.
+
+The payoff for programmers is Boisseau and Gibbons' *What You Needa Know about Yoneda*, which derives profunctor optics from plain getter/setter lenses by applying the lemma twice.
+Reading in CTFP: [ch. 15 The Yoneda Lemma](../Deep-Dives/textbooks/milewski-category-theory-for-programmers/ch15) → [ch. 16 Yoneda Embedding](../Deep-Dives/textbooks/milewski-category-theory-for-programmers/ch16) → [ch. 26 Ends (Ninja Yoneda)](../Deep-Dives/textbooks/milewski-category-theory-for-programmers/ch26).
+[Papers › Functional Programming](../Books/Papers#functional-programming)
+
 **Kan extensions are the adjoints of precomposition, which is why so many other concepts turn out to be special cases of them.**
 Given `D : I → C` and `K : I → A`, the right Kan extension `Ran_K D` is the best functor `F : A → C` with a natural transformation `F ∘ K → D`. The left extension `Lan_K D` has its transformation pointing the other way. The universal property makes `Ran_K` right adjoint to precomposition `− ∘ K`, and `Lan_K` left adjoint. Every universal construction is an adjoint to some kind of restriction, so the named concepts come out of special choices of the inputs:
 - `A = 1`: precomposition is then the diagonal `Δ`, so `Ran` is the limit and `Lan` the colimit.
