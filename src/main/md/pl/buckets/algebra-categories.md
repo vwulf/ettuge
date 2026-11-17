@@ -77,6 +77,45 @@ Where to read it:
 - Milewski, *CTFP*, [ch. 14 Representable Functors](../Deep-Dives/textbooks/milewski-category-theory-for-programmers/ch14), pp. 273–279, for the programmer's side of representability
 - HoTT book, [ch. 9 › 9.5 The Yoneda lemma](../Deep-Dives/textbooks/hott-book/ch10), pp. 333–336, for the univalent version
 
+**An adjunction says that a function out of what `F` builds is the same as a function into what `G` observes. It is the best approximation to an inverse when no inverse exists.**
+`F ⊣ G` means `Hom(F a, b) ≅ Hom(a, G b)`, natural in `a` and `b`. Seven idioms that programmers already use are this one isomorphism:
+- **Currying.** `(−, s) ⊣ (s -> −)` gives `((a, s) -> b) ≅ (a -> s -> b)`. The unit `a -> s -> (a, s)` pairs a value with the state, and the counit `(s -> b, s) -> b` is `eval`. Every adjunction yields a monad `G ∘ F` and a comonad `F ∘ G`, and here they are `s -> (a, s)`, the State monad, and `(s -> a, s)`, the Store comonad behind lenses.
+- **Free ⊣ forgetful.** A monoid homomorphism `[a] -> m` is the same as a function `a -> m`, which is `foldMap`. One level up, `f ~> m` into a monad extends uniquely to `Free f ~> m`, which is `foldFree`. Free-monad and free-applicative interpreters only need cases for the primitive operations because of this.
+- **Products, sums and case analysis.** Products are right adjoint to duplication, `(c -> a, c -> b) ≅ c -> (a, b)`, which is `&&&`. Sums are left adjoint, `(Either a b -> c) ≅ (a -> c, b -> c)`, which is `either`. Pattern matching uses a left adjoint.
+- **Quantifiers.** `(exists x. f x) -> r ≅ forall x. (f x -> r)`, which is why consuming an existential means writing a polymorphic function.
+- **Laws for free.** Left adjoints preserve sums and right adjoints preserve products, so `(a, Either b c) ≅ Either (a, b) (a, c)` and `s -> (a, b) ≅ (s -> a, s -> b)` need no proof.
+- **Galois connections.** Between orders, `x * n ≤ y ⇔ x ≤ y div n` specifies `div` without an algorithm. Mu and Oliveira's *Programming from Galois Connections* calculates programs this way, splitting a specification into an easy adjoint and an optimal one. Abstract interpretation rests on the same idea.
+- **Recursion schemes.** Hinze's adjoint folds insert a left adjoint into the recursive equation, which covers accumulating folds, mutumorphisms (and so zygomorphisms) and generalised folds. Adjoint unfolds use a right adjoint.
+
+*Which side carries more information?* Neither, as a rule. "Free" means least information: `[a]` holds nothing but `a` and formal sequences with no equations imposed, so it assumes the least, while `U` keeps the elements and drops the operation. What is lost is measured by the unit `η : a → G(F a)` and the counit `ε : F(G b) → b`. For lists, `a → [a]` adds formal words and `[m] → m` forgets which word produced the element, so a round trip loses something both ways. `G` is fully faithful exactly when the counit is an isomorphism (a reflection), `F` is fully faithful exactly when the unit is (a coreflection), and both together make an equivalence. The free side is not always the richer one:
+- The inclusion `ℤ ↪ ℝ` has left adjoint `ceiling` and right adjoint `floor`. The inclusion is lossless and both adjoints lose information.
+- The forgetful functor `Top → Set` is right adjoint to discrete spaces and left adjoint to indiscrete ones, so it sits in the middle.
+- The direct image `∃f` is left adjoint to preimage and forgets which points mapped where.
+- In currying, nothing is forgotten and neither side is free.
+
+The better reading: the left adjoint gives the most general, least constrained solution and preserves colimits (sums, unions, gluing). The right adjoint gives the most complete compatible solution and preserves limits (products, intersections, constraints).
+
+*Fourier and Laplace* are not adjunctions in the interesting sense, but they sit close to three of them.
+- **Operator adjoints, where the name comes from.** On `L²(ℝ)`, Plancherel makes Fourier unitary, so `⟨Ff, g⟩ = ⟨f, F⁻¹g⟩`: the inverse transform is the Hilbert-space adjoint. Kan named adjoint functors after `⟨Fx, y⟩ = ⟨x, Gy⟩`. As functors between time-domain and frequency-domain signals, `F` and `F⁻¹` form an adjoint equivalence in both directions, with identity unit and counit. It is a genuine adjunction, but there is nothing to approximate. The Laplace transform on `L²(0, ∞)` is a bounded self-adjoint operator (its kernel `e^{−st}` is symmetric, and its norm is `√π`) with no bounded inverse.
+- **A representable duality.** For a locally compact abelian group, `Ĝ = Hom(G, U(1))` is a contravariant representable functor, with the circle in the role `2` plays for powersets. Pontryagin duality makes it an equivalence, and the Fourier transform is its linearization. The convolution theorem says the transform is monoidal, taking convolution to pointwise product. Laplace is the same construction on the monoid `(ℝ≥0, +)`, whose characters `e^{−st}` form a half-plane. Monoids have no Pontryagin duality, so Laplace is injective but not an equivalence, and inverting it takes a contour integral. Mellin is Fourier on the multiplicative group `ℝ>0`.
+- **Integral transforms as kernels.** `(Tf)(y) = ∫ K(x, y) f(x) dx` has the transposed kernel as its adjoint. Categorified, the kernel is a span or profunctor, and in algebraic geometry the Fourier–Mukai transform between derived categories has left and right adjoints given by the dual kernel. Mukai's original, for an abelian variety and its dual, is an equivalence.
+
+*In signal processing* the non-trivial adjunctions are the lossy pairs around Fourier:
+- Upsampling by inserting zeros is the operator adjoint of downsampling, `⟨↓x, y⟩ = ⟨x, ↑y⟩`, and filter banks and wavelets are built on that pair.
+- Inclusion of band-limited signals has the low-pass projection as its adjoint, the least-squares best approximation.
+- Sinc reconstruction `R` and sampling `S` satisfy `S ∘ R = id`, and `R ∘ S` is the projection onto band-limited signals. That is a reflection, and Nyquist–Shannon says when nothing is lost.
+- The synthesis operators of the short-time Fourier and wavelet transforms are the adjoints of analysis. They are inverses only for tight frames, and a dual frame repairs the gap otherwise.
+
+So Fourier is an adjunction with nothing to gain, and the adjunctions that matter in practice are the lossy ones, which carry the best-approximation guarantees.
+
+Where to read it:
+- Milewski, *CTFP*, [ch. 18 Adjunctions](../Deep-Dives/textbooks/milewski-category-theory-for-programmers/ch18), pp. 313–332 (unit and counit, hom-sets, product and exponential from adjunctions); [ch. 19 Free/Forgetful Adjunctions](../Deep-Dives/textbooks/milewski-category-theory-for-programmers/ch19), pp. 333–340; [ch. 22 › Monads from Adjunctions](../Deep-Dives/textbooks/milewski-category-theory-for-programmers/ch22), pp. 398–402
+- Smith, *Introducing Category Theory*, [ch. 38 Galois connections](../Deep-Dives/textbooks/smith-introducing-category-theory/ch38), pp. 347–358; [ch. 39 Adjunctions introduced](../Deep-Dives/textbooks/smith-introducing-category-theory/ch39), pp. 359–371, including *Isomorphism, equivalence, adjointness*; [ch. 41 Adjunctions explored](../Deep-Dives/textbooks/smith-introducing-category-theory/ch41), pp. 380–394, including *Adjunctions and fully faithful functors* and *Right adjoints preserve limits*
+- Pierce, *Basic Category Theory for Computer Scientists*, [ch. 2 › 2.4 Adjoints](../Deep-Dives/textbooks/pierce-basic-category-theory/ch2), pp. 57–64
+- Spivak, *Category Theory for Scientists*, [ch. 5 › 5.1 Adjoint functors](../Deep-Dives/textbooks/spivak-category-theory-for-scientists/ch5), pp. 201–217
+
+Papers: [Hinze, *Adjoint Folds and Unfolds—An Extended Study* (SCP 2013)](https://www.cs.ox.ac.uk/ralf.hinze/publications/SCP-78-11.pdf) · [Hinze and Wu, *Unifying Structured Recursion Schemes: An Extended Study* (JFP 2016)](https://core.ac.uk/download/73982371.pdf) · [Mu and Oliveira, *Programming from Galois Connections* (JLAP 2012)](https://scm.iis.sinica.edu.tw/home/2012/programming-from-galois-connections-2/)
+
 **Kan extensions are the adjoints of precomposition, which is why so many other concepts turn out to be special cases of them.**
 Given `D : I → C` and `K : I → A`, the right Kan extension `Ran_K D` is the best functor `F : A → C` with a natural transformation `F ∘ K → D`. The left extension `Lan_K D` has its transformation pointing the other way. The universal property makes `Ran_K` right adjoint to precomposition `− ∘ K`, and `Lan_K` left adjoint. Every universal construction is an adjoint to some kind of restriction, so the named concepts come out of special choices of the inputs:
 - `A = 1`: precomposition is then the diagonal `Δ`, so `Ran` is the limit and `Lan` the colimit.
