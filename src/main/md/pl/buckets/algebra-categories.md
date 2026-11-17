@@ -34,6 +34,21 @@ The reverse also holds: Kan extensions are computed by ends, which are limits, s
 Reading path through CTFP: [limits](../Deep-Dives/textbooks/milewski-category-theory-for-programmers/ch12) → [Yoneda](../Deep-Dives/textbooks/milewski-category-theory-for-programmers/ch15) → [adjunctions](../Deep-Dives/textbooks/milewski-category-theory-for-programmers/ch18) → [ends](../Deep-Dives/textbooks/milewski-category-theory-for-programmers/ch26) → [Kan extensions](../Deep-Dives/textbooks/milewski-category-theory-for-programmers/ch27).
 [Papers › Category Theory](../Books/Papers#category-theory) · [Math Deep Dives › Books and formalization](../Deep-Dives/math/ch5)
 
+**In a one-object category, Yoneda is Cayley's theorem and Kan extensions are induced representations.**
+A group `G` is a category with one object, whose arrows are the group elements. A functor from it to `Set` is a `G`-set, and the hom-functor is `G` acting on itself by left multiplication (the regular action). The two gists above then read as group theory:
+- **Yoneda:** a `G`-equivariant map `G → X` is fixed by where it sends `e`. If `e ↦ x`, then `g ↦ g·x`, the orbit map, so `Hom_G(G, X) ≅ X`.
+- **Yoneda embedding:** with `X = G`, the equivariant maps `G → G` are the right multiplications, so `G` embeds in the permutations of its own elements. That is Cayley's theorem.
+- **Representations:** with vector spaces in place of sets, Yoneda says `Hom_G(k[G], V) ≅ V`, so the group algebra is the free representation on one generator.
+- **Kan extensions:** for a subgroup `H ⊆ G`, restricting a representation from `G` to `H` is precomposition. Its left adjoint, the left Kan extension, is induction, and its right adjoint is coinduction. Frobenius reciprocity, `Hom_G(Ind V, W) ≅ Hom_H(V, Res W)`, is that adjunction.
+
+Riehl's preface makes the point directly: Frobenius reciprocity, transitivity of induction and the explicit formula for an induced representation hold for any left Kan extension. Character tables, by contrast, are not formal consequences. Orbit–stabilizer drops out of the same picture: the orbit map factors through `G/Stab(x)`.
+References:
+- Smith, *Introducing Category Theory*, [ch. 35 The Yoneda Embedding › Yoneda meets Cayley](../Deep-Dives/textbooks/smith-introducing-category-theory/ch35), p. 325
+- Spivak, *Category Theory for Scientists*, [ch. 3 › 3.2 Groups](../Deep-Dives/textbooks/spivak-category-theory-for-scientists/ch3), pp. 82–85 (groups and group actions)
+- Milewski, *CTFP*, [ch. 3 › Monoid as Category](../Deep-Dives/textbooks/milewski-category-theory-for-programmers/ch3), pp. 56–58
+- Riehl, [*Category Theory in Context*](https://math.jhu.edu/~eriehl/context.pdf), ch. 2 (Yoneda) and ch. 6 (Kan extensions), with the preface note on induced representations
+- [Wikipedia, Yoneda lemma](https://en.wikipedia.org/wiki/Yoneda_lemma), which calls the lemma a vast generalisation of Cayley's theorem
+
 **Poly: one language for interacting systems.** Niu and Spivak treat polynomial functors as interfaces: positions are what a system can show, and directions are what it can receive at each position. Dynamical systems, wiring diagrams and databases are then all morphisms in one category. The interface changes with the mode a system is in, which is what makes Poly look like a natural home for effect handlers and agent protocols.
 
 **Feedback, probability and higher structure.**

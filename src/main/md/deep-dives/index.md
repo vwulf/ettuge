@@ -17,7 +17,7 @@ Textbooks, broken down from the top: the book in a paragraph, then each chapter,
 The [CS & AI](../FP/) section keeps its deep dives next to the articles they belong to:
 
 - [Foundations: λ-calculus and types](../FP/bucket-foundations.md)
-- [Algebra and Categories](../FP/bucket-algebra-categories.md): applicatives, Yoneda, Kan extensions, Poly, Markov and traced categories, categories in ML
+- [Algebra and Categories](../FP/bucket-algebra-categories.md): applicatives, Yoneda, Kan extensions, Yoneda and Kan for groups, Poly, Markov and traced categories, categories in ML
 - [Algorithms, Functionally](../FP/bucket-algorithms.md)
 - [Effects and LLM Systems](../FP/bucket-effects-llm.md): λ-RLM, RLM, DSPy as effects, OpenClaw-RL, languages for agents
 - [Proof and Formalization](../FP/bucket-proof-formalization.md): Lean and the 2026 AI-proof wave
