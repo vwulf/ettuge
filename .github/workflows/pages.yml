@@ -721,6 +721,7 @@ jobs:
               ('mADu-verb-paradigm', 'ಮಾಡು — Regular Verb (36 forms)', 1, 'mADu-illustrated.html'),
               ('iru-verb-paradigm',  'ಇರು — to be (42 forms)',          2, 'iru-illustrated.html'),
               ('illa-verb-paradigm', 'ಇಲ್ಲ — Negator (5 forms)',        3, 'illa-illustrated.html'),
+              ('tense-aspect-mood',  'Tense, Aspect, Mood: Bhat vs Chomsky', 4, None),
           ]
           if os.path.isdir(GRAMMARDIR):
               # Root index page — L2 under ಕನ್ನಡ
