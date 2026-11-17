@@ -12,6 +12,36 @@ The algebraic structures used every day in Scala and Haskell (semigroups, monoid
 
 **Two ways into category theory.** Milewski's *Category Theory for Programmers* starts from code: types as objects, functions as arrows, monads as composition of effectful functions. Riehl's *Category Theory in Context* starts from mathematics: universal properties, Yoneda, limits and adjunctions, with examples from algebra and topology. They work best read together. Milewski supplies the intuition, and Riehl explains why the definitions are the right ones.
 
+**A representable functor is one with a generic example. Every other example is that one specialized along a map.**
+`F : C → Set` is representable when `F ≅ Hom(a, −)` for some object `a`. Yoneda (next gist) says the isomorphism is fixed by one universal element `u ∈ F(a)`, the image of `id_a`, and every element of every `F(X)` is `F(f)(u)` for exactly one `f : a → X`.
+
+*In programming,* representable functors are containers of fixed shape: `f x ≅ (Rep -> x)`, where `Rep` is the type of positions.
+- `Pair a ≅ Bool -> a`, `Stream a ≅ Nat -> a`, `Vec n a ≅ Fin n -> a`, and infinite binary trees are indexed by paths. `Maybe` and `List` are not representable, because their shape varies and `Nothing` has no position.
+- `tabulate` and `index` make the functor secretly `Reader Rep`, so `zip`, `Applicative` and `Monad` come for free.
+- Turning `Rep -> x` into a data structure is memoization (Hinze's *Memo functions, polytypically!*, Elliott's memo tries). Gibbons' *APLicative Programming with Naperian Functors* builds typed multidimensional arrays this way, with transpose as a swap of indices.
+- `f x ≅ x^Rep`, so `Rep` behaves like a logarithm of `f`, which is why McBride calls these functors Naperian.
+
+*In mathematics,* the representing object is a classifier:
+- The elements of a group are maps `ℤ → G`, and the elements of a ring are maps `ℤ[x] → R`. The generic element is `x`, and every element of every ring is `x` specialized by a map.
+- Subsets are maps to `2`, so the powerset functor is `Hom(−, 2)`. In a topos, `2` becomes the subobject classifier.
+- Rank-n vector bundles on `X` are maps into a Grassmannian, and cohomology classes are maps into `K(G, n)`. The representing space carries the universal bundle or class, and everything else is pulled back from it.
+- Universal properties are representability: `A × B` represents pairs of maps, the tensor product represents bilinear maps, and the free group on `S` represents functions out of `S`.
+
+*Recursive datatypes* connect through polynomial functors, or containers. A datatype is a fixpoint of `P(x) = Σ_{s ∈ S} x^{E(s)}`, with shapes `s` and positions `E(s)`, and a representable functor is the case with one shape. Finite lists and trees vary in shape, so they are sums of representables, one per shape (Abbott, Altenkirch and Ghani, *Containers*). Infinite codata with fixed branching is representable, and its positions form an inductive type: the final coalgebra of `X ↦ a × F X`, with `F` represented by `R`, is represented by `List R`, the paths into it.
+- `Stream a = νX. a × X ≅ Nat -> a`, and `Nat = μX. 1 + X` is the fold side.
+- `νX. a × X × X ≅ [Bool] -> a` for infinite binary trees.
+- Rose trees whose children form a stream give `νX. a × Stream X ≅ [Nat] -> a`. Finite rose trees `μX. a × List X` are not representable.
+
+Hinze's *Generalizing Generalized Tries* turns this around: every inductive key type `K` has a trie functor `T_K` with `T_K v ≅ K -> v`, computed by the laws of exponents (`1 -> v ≅ v`, `(K₁ + K₂) -> v ≅ (K₁ -> v) × (K₂ -> v)`, `(K₁ × K₂) -> v ≅ K₁ -> K₂ -> v`). Data built by folds are the representing objects, and their memo tables are the representable functors. `Traversable` fits the same picture: finitary containers are traversable (Jaskelioff and Rypacek), and O'Connor and Jaskelioff showed the converse, so traversing works shape by shape on each shape's representable piece.
+
+Where to read it:
+- Milewski, *CTFP*, [ch. 14 Representable Functors](../Deep-Dives/textbooks/milewski-category-theory-for-programmers/ch14), pp. 273–279
+- Smith, *Introducing Category Theory*, [ch. 37 Representables and universal elements](../Deep-Dives/textbooks/smith-introducing-category-theory/ch37), pp. 336–341
+- McBride, *Perhaps Not the Answer*, [ch. 6](../Deep-Dives/textbooks/mcbride-perhaps-not-the-answer/ch6): *Representable (or Naperian) Functors*, pp. 140–142, and *Tries as Naperian Functors; Matching via their Derivatives*, pp. 143–148; [ch. 8](../Deep-Dives/textbooks/mcbride-perhaps-not-the-answer/ch8): *Why do we need containers?*, pp. 200–203
+- Winitzki, *SOFP*, [ch. 3 › 3.3 Lists and trees as recursive disjunctive types](../Deep-Dives/textbooks/winitzki-science-of-functional-programming/ch3), pp. 130–141, and [ch. 12 Traversable functors](../Deep-Dives/textbooks/winitzki-science-of-functional-programming/ch13), pp. 738–765
+
+Papers: [Hinze, *Generalizing Generalized Tries* (JFP 2000)](https://www.cs.ox.ac.uk/people/ralf.hinze/publications/GGTries/index.html) · [Gibbons, *APLicative Programming with Naperian Functors* (ESOP 2017)](https://www.cs.ox.ac.uk/people/jeremy.gibbons/publications/aplicative.pdf) · [Abbott, Altenkirch and Ghani, *Containers: Constructing Strictly Positive Types* (TCS 2005)](https://people.cs.nott.ac.uk/psztxa/publ/cont-tcs.pdf) · [Jaskelioff and Rypacek, *An Investigation of the Laws of Traversals* (MSFP 2012)](https://arxiv.org/abs/1202.2919) · [O'Connor, *On the Static Nature of Traversals*](https://r6.ca/blog/20121209T182914Z.html)
+
 **The Yoneda lemma says that a polymorphic function out of `a -> x` is determined by a single value, the one it produces from `id`.**
 Milewski's version is the simplest one. Take a functor `F` and a natural transformation `α : C(a, −) → F`, which in Haskell is a polymorphic function `forall x. (a -> x) -> f x`. Feed it `id :: a -> a` and you get one value of type `f a`. Naturality then fixes everything else: for any `h :: a -> x`, `α h = fmap h (α id)`. So the function has no freedom beyond the choice of that one value, and `[C, Set](C(a, −), F) ≅ F a`. Read in code, `forall x. (a -> x) -> f x` is the same as `f a`. You can only produce an `f x` by `fmap`-ing `h` over a value you already had.
 - **Objects are known by their relationships.** Taking `F = C(b, −)` gives the Yoneda embedding: maps `C(a, −) → C(b, −)` are exactly arrows `b → a`. An object is determined up to isomorphism by the arrows out of it, the way a type is determined by what you can do with it.
