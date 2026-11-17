@@ -12,6 +12,17 @@ The algebraic structures used every day in Scala and Haskell (semigroups, monoid
 
 **Two ways into category theory.** Milewski's *Category Theory for Programmers* starts from code: types as objects, functions as arrows, monads as composition of effectful functions. Riehl's *Category Theory in Context* starts from mathematics: universal properties, Yoneda, limits and adjunctions, with examples from algebra and topology. They work best read together. Milewski supplies the intuition, and Riehl explains why the definitions are the right ones.
 
+**Kan extensions are the adjoints of precomposition, which is why so many other concepts turn out to be special cases of them.**
+Given `D : I → C` and `K : I → A`, the right Kan extension `Ran_K D` is the best functor `F : A → C` with a natural transformation `F ∘ K → D`. The left extension `Lan_K D` has its transformation pointing the other way. The universal property makes `Ran_K` right adjoint to precomposition `− ∘ K`, and `Lan_K` left adjoint. Every universal construction is an adjoint to some kind of restriction, so the named concepts come out of special choices of the inputs:
+- `A = 1`: precomposition is then the diagonal `Δ`, so `Ran` is the limit and `Lan` the colimit.
+- `D = Id`: `Ran_K Id` is the left adjoint of `K`, provided `K` preserves it.
+- `D = K`: `Ran_K K` is the codensity monad. It is a monad for the same reason `x/x` composes with itself.
+- `C = Set`: Yoneda gives the end formula `Ran_K D a ≅ ∫_i Set(A(a, K i), D i)`, and a coend for `Lan`. These are Haskell's `Ran` and `Lan`, and the free functor `FreeF` is a `Lan`.
+
+The reverse also holds: Kan extensions are computed by ends, which are limits, so they add no expressive power. What they give is the general statement of the problem. Mac Lane's slogan "all concepts are Kan extensions" gets a rigorous treatment in Riehl's *Category Theory in Context*, ch. 6. The programming payoff is Hinze's *Kan Extensions for Program Optimisation*, which shows that rewriting a program in continuation-passing style is moving it into the codensity monad.
+Reading path through CTFP: [limits](../Deep-Dives/textbooks/milewski-category-theory-for-programmers/ch12) → [Yoneda](../Deep-Dives/textbooks/milewski-category-theory-for-programmers/ch15) → [adjunctions](../Deep-Dives/textbooks/milewski-category-theory-for-programmers/ch18) → [ends](../Deep-Dives/textbooks/milewski-category-theory-for-programmers/ch26) → [Kan extensions](../Deep-Dives/textbooks/milewski-category-theory-for-programmers/ch27).
+[Papers › Category Theory](../Books/Papers#category-theory) · [Math Deep Dives › Books and formalization](../Deep-Dives/math/ch5)
+
 **Poly: one language for interacting systems.** Niu and Spivak treat polynomial functors as interfaces: positions are what a system can show, and directions are what it can receive at each position. Dynamical systems, wiring diagrams and databases are then all morphisms in one category. The interface changes with the mode a system is in, which is what makes Poly look like a natural home for effect handlers and agent protocols.
 
 **Feedback, probability and higher structure.**
