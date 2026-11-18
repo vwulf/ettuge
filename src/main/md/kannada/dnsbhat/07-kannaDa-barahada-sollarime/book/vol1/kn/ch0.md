@@ -9,7 +9,7 @@ nav_order: 107
 **ಪ್ರಕಟಣೆ:** 2010
 **ಮೂಲ:** PDF (Google Drive) — OCR ಶುದ್ಧೀಕೃತ ಪ್ರತಿ
 
-> [← ಸೂಚಿ](../../../README) | ಇಂಗ್ಲಿಶ್ ವಿಶ್ಲೇಷಣೆ: [en](../../en/summary) | Eke: [eke](../eke/full)
+> [← ಸೂಚಿ](../../../) | ಇಂಗ್ಲಿಶ್ ವಿಶ್ಲೇಷಣೆ: [en](../../en/summary) | Eke: [eke](../eke/full)
 
 
 

@@ -11,7 +11,7 @@ redirect_from:
 **prakaTaNe:** 2012, bASAprakASana, heggoDu
 **mUla:** PDF (Google Drive) — Baraha phAnT → Unicode parivartan
 
-> [← sUci](../../../README) | ingliS viSlESaNe: [en](../../en/summary) | kannaDa: [kn](../kn/full)
+> [← sUci](../../../) | ingliS viSlESaNe: [en](../../en/summary) | kannaDa: [kn](../kn/full)
 
 ---
 
@@ -478,4 +478,4 @@ paDu pada (passive auxiliary): avanu hoDeyapaTTa; kalla maDiyapaTTu. paDu pada b
 
 ---
 
-[← sUci](../../../README)
+[← sUci](../../../)

@@ -9,7 +9,7 @@ nav_order: 107030
 **ಪ್ರಕಟಣೆ:** 2012, ಬಾಶಾಪ್ರಕಾಶನ, ಹೆಗ್ಗೋಡು
 **ಮೂಲ:** PDF (Google Drive) — Baraha ಫಾಂಟ್ → Unicode ಪರಿವರ್ತನೆ
 
-> [← ಸೂಚಿ](../../../README) | ಇಂಗ್ಲಿಶ್ ವಿಶ್ಲೇಷಣೆ: [en](../../en/summary) | Eke: [eke](../eke/full)
+> [← ಸೂಚಿ](../../../) | ಇಂಗ್ಲಿಶ್ ವಿಶ್ಲೇಷಣೆ: [en](../../en/summary) | Eke: [eke](../eke/full)
 
 ---
 

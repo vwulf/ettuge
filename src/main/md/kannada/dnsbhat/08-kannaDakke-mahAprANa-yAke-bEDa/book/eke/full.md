@@ -9,7 +9,7 @@ redirect_from:
 **saraNi:** arimeya cuTuku kaDatagaLu – ೩
 **prakaTaNe:** ೨೦೧೭, navakarnATaka prakASana, bengaLUru
 
-> [← sUci](../../README) | ingliS viSlEShaNe: [en](../en/summary) | kannaDa: [kn](../kn/full)
+> [← sUci](../../) | ingliS viSlEShaNe: [en](../en/summary) | kannaDa: [kn](../kn/full)
 
 > mUla pustakada sampUrNa paThya: [`raw.md`](../kn/raw)
 

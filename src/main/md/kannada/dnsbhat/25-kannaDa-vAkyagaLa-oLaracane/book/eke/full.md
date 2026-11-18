@@ -8,7 +8,7 @@ redirect_from:
 **lEkhakaru:** Di. en. Sankara bhaT
 **mUla:** PDF (Google Drive) — OCR SuddhIkxta prati
 
-> [← sUci](../../README) | ingliS viSlEShaNe: [en](../en/summary) | kannaDa: [kn](../kn/full)
+> [← sUci](../../) | ingliS viSlEShaNe: [en](../en/summary) | kannaDa: [kn](../kn/full)
 
 ## pariviDi
 - [adhyAya 1 — pIThike](#adhyAya-1)

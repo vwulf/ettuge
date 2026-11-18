@@ -13,7 +13,7 @@ redirect_from:
 **Language:** Kannada
 **Source quality:** PDF (Google Drive) — Baraha font → Unicode conversion
 
-> [← Index](../../../README) | Kannada: [kn](../../kn/full) | Eke: [eke](../../eke/full)
+> [← Index](../../../) | Kannada: [kn](../../kn/full) | Eke: [eke](../../eke/full)
 
 ---
 
@@ -278,4 +278,4 @@ The chapter analyses Kannada's two-way demonstrative system built on the proxima
 
 ---
 
-[← Index](../../../README)
+[← Index](../../../)

@@ -7,7 +7,7 @@ redirect_from:
 **lEkhakaru:** Di. en. Sankara bhaT
 **mAlike:** Di.en.Sankara bhaT nuDiyarime mAlike
 
-> [← sUci](../../README) | ingliS viSlEShaNe: [en](../en/summary) | kannaDa: [kn](../kn/full)
+> [← sUci](../../) | ingliS viSlEShaNe: [en](../en/summary) | kannaDa: [kn](../kn/full)
 
 ---
 
