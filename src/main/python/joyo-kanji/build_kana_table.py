@@ -69,8 +69,8 @@ def load_index():
             if "(" not in kun and "-" not in kun:
                 reads.add(kun)
         for s in reads:
-            idx.setdefault(s, []).append((r["f"] or 9999, r["k"]))
-    return {s: [k for _, k in sorted(v)] for s, v in idx.items()}
+            idx.setdefault(s, []).append((r["f"] or 9999, r["g"], r["k"]))
+    return {s: [k for *_, k in sorted(v)] for s, v in idx.items()}
 
 IDX = load_index()
 JOYO = {r["k"] for r in json.load(open(DATA, encoding="utf8"))}
@@ -79,12 +79,31 @@ def link(text):
     """wrap every jōyō kanji in a link to its entry on the jōyō kanji page"""
     return "".join(f"[{c}](joyo-kanji#{c})" if c in JOYO else c for c in text)
 
-def kanji_for(hira):
+SHOW = 5          # kanji shown in a table cell; the rest are in the full list below
+FULL = []         # (anchor, kana, eke, [kanji]) in table order, for the full list
+
+def kanji_for(hira, eke=None):
+    """All jōyō kanji whose reading is exactly `hira` (a string, or a list of spellings).
+    The cell shows the SHOW most frequent; a '+N' link jumps to the full list."""
     if hira is None:
         return X
-    if hira in HAND:
-        return link(HAND[hira])
-    return link(", ".join(IDX.get(hira, [])[:2]))
+    spellings = hira if isinstance(hira, list) else [hira]
+    found = []
+    for sp in spellings:
+        for k in IDX.get(sp, []):
+            if k not in found:
+                found.append(k)
+    extra = [h for h in HAND.get(spellings[0], "").split(", ") if h and h not in found]
+    if not found and not extra:
+        return " "
+    cell = " ".join(link(k) for k in found[:SHOW])
+    if len(found) > SHOW:
+        anchor = "r-" + eke
+        FULL.append((anchor, "・".join(spellings), eke, found))
+        cell += f" [+{len(found) - SHOW}](#{anchor})"
+    if extra:
+        cell += (" · " if found else "") + ", ".join(link(e) for e in extra)
+    return cell
 
 def cells(raw, v):
     """raw cell -> (hiragana, katakana, hiragana-for-lookup) for short and long"""
@@ -106,7 +125,7 @@ def block(eke, base, raw5, label=None):
         for long in (False, True):
             h, k, look = cells(raw, v)[long]
             ek.append(eke + (v.upper() if long else v))
-            hi.append(h); ka.append(k); kj.append(kanji_for(look))
+            hi.append(h); ka.append(k); kj.append(kanji_for(look, eke + (v.upper() if long else v)))
             kn.append(kn_syl(base, v, long))
     ottu = "್" + base if len(base) == 1 else X
     head = [
@@ -132,7 +151,7 @@ def main():
         ["Eke", X, X] + ["a", "A", "i", "I", "u", "U", "e", "E", "o", "O"],
         ["hiragAna", X, X] + ["あ", "ああ", "い", "いい", "う", "うう", "え", "ええ・えい", "お", "おお・おう"],
         ["katakAna", X, X] + ["ア", "アー", "イ", "イー", "ウ", "ウー", "エ", "エー", "オ", "オー"],
-        ["kAnji", X, X] + [kanji_for(s) for s in ["あ", "ああ", "い", "いい", "う", "うう", "え", "えい", "お", "おお"]],
+        ["kAnji", X, X] + [kanji_for(sp, e) for sp, e in zip(["あ", "ああ", "い", "いい", "う", "うう", "え", ["ええ", "えい"], "お", ["おお", "おう"]], ["a", "A", "i", "I", "u", "U", "e", "E", "o", "O"])],
         ["kannaDa", X, X] + list("ಅಆಇಈಉಊಎಏಒಓ"),
     ]
     blank = md_row([""] * len(hdr))
@@ -148,7 +167,7 @@ def main():
             "- Long vowels: katakana adds ー (カー). Hiragana doubles the vowel for *a i u* (かあ きい くう) but usually writes long *e* as えい (けい) and long *o* as おう (こう); ええ and おお also occur (ねえ, 大 おお).",
             "- ふ is between ಹು and ಫ಼ು (a soft *f* made with both lips), so it sits in the *f* block; ホゥ is the loanword spelling for a true *hu*.",
             "- ತ್ಸ (つ), ಫ಼ (ふ) and ಜ಼ (ざ行) have no native Kannada akshara; Eke reserves *f* and *z* for such borrowed sounds.",
-            "- kAnji: a common kanji read with exactly that kana; empty where no jōyō kanji has that reading. Click a kanji to open its entry on the [jōyō kanji page](joyo-kanji).",
+            "- kAnji: every jōyō kanji read with exactly that kana — the most common first; **+N** jumps to the full list at the bottom of the page. Empty where no jōyō kanji has that reading. Kanji after a · are earlier hand picks that are not exact jōyō readings (お母さん's 母 for かあ, 紀伊 for きい). Click a kanji to open its entry on the [jōyō kanji page](joyo-kanji).",
             ""]
     # yoon
     out += ["## ಯ ottu — contracted sounds (yōon)", "",
@@ -160,7 +179,7 @@ def main():
             for long in (False, True):
                 hira = row + sm + (LONG_KANA[v] if long else "")
                 kata = h2k(row + sm) + ("ー" if long else "")
-                out.append(md_row([eke + (v.upper() if long else v), hira, kata, kanji_for(hira),
+                out.append(md_row([eke + (v.upper() if long else v), hira, kata, kanji_for(hira, eke + (v.upper() if long else v)),
                                    base + "್ಯ" + (KN_SIGN_L if long else KN_SIGN)[v]]))
     out += ["", "ちゃ じゃ しゃ (c, j, S) are in the main table — Kannada ಚ ಜ ಶ already carry the *y* glide.", ""]
     # n
@@ -191,6 +210,13 @@ def main():
     ]:
         out.append(md_row([eke, hira, h2k(hira), kn, link(ex)]))
     out += ["", "っ doubles only *k s S t c ts p*. Kannada also doubles ಗ ಜ ದ ಬ ನ ಮ ಲ (ಅಗ್ಗ, ಅಮ್ಮ…), which Japanese writes only in loanwords (ベッド *beddo*, バッグ *baggu*) or with ん + kana (*mm* = んま: あんま).", ""]
+    out += ["## Every jōyō kanji by exact reading", "",
+            f"Where a sound has more than {SHOW} kanji, the table shows the {SHOW} most common and links here for the rest. "
+            "Each list is every jōyō kanji with exactly that reading (an on'yomi, or a kun'yomi that is a whole word), most common first. "
+            "Readings come from KANJIDIC, which also lists rare readings beyond the official jōyō table, so a few kanji appear under unusual sounds (区 under こう).", ""]
+    for anchor, kana, eke, ks in FULL:
+        out.append(f'<a id="{anchor}"></a>**{kana}** `{eke}` ({len(ks)}): ' + " ".join(link(k) for k in ks))
+        out.append("")
     open(OUT, "w", encoding="utf8").write("\n".join(out))
     print("wrote", OUT)
 
