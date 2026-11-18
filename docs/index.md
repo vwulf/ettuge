@@ -17,7 +17,17 @@ Close readings of papers and books, written up after the fact. Each entry gives 
 - **[AI and Machine Learning](Deep-Dives/ai)**: transformer theory, attention as an algorithm, compositional structure, interpretability and weight-space programming, architecture, training at scale, serving and decision models
 - **[Health and Fitness](Deep-Dives/fitness)**: protein and longevity, body composition and DXA, active rest, lactate and the heart, training intensity, *Outlive* against the papers
 - **[Ellara Kannada](Deep-Dives/ellara-kannada)**: DNS Bhat's grammar applied to Pampa, the two kinds of "we", auxiliaries, a native Rudram verse, Sangam Tamil in Eke, the ಎ-ಎಣಿಕೆ notation
+- **[Textbooks](Deep-Dives/textbooks/)**: more than 70 textbooks broken down book → chapter → section → PDF pages, grouped by subject
 - **[Karate › Reading the sources](karate/50-reading-the-sources)**: Motobu, Nagamine and Quast, read between the lines
+
+---
+
+## [ಕನ್ನಡ — Language and DNS Bhat](kannaDa/)
+
+- **[Dr. D. N. Shankara Bhat — digital archive](kannaDa/dnsbhat/)**: all 33 known works by the linguist whose central argument is that Kannada grammar must be built from Kannada's own structure. Transcripts, recovered blog posts and OCR'd books, each with structured Kannada text, Eke romanisation and an English summary.
+- **[Eke — a romanisation for Kannada](kannaDa/eke/reference)**: a lightweight scheme between informal internet habits and Harvard-Kyoto, following Bhat's *Ellara Kannada* in dropping aspirates that natural Kannada speech doesn't have.
+- **[Grammar](kannaDa/grammar/)**: illustrated verb paradigms (ಮಾಡು, ಇರು, ಇಲ್ಲ) and Bhat's framework compared with others.
+- **[Zero Speculation](kannaDa/eke/zero-speculation-illustrated.html)**: an essay linking the Tamil *puḷḷi*, the possible Dravidian etymology of *śūnya* and the K-127 Cambodia inscription (683 CE) to argue that the substrate for zero may be older and Dravidian.
 
 ---
 
@@ -34,11 +44,9 @@ Articles and deep dives on programming-language theory, algebra and categories, 
 
 ---
 
-## [ಕನ್ನಡ — Language and DNS Bhat](kannaDa/)
+## [Books](Books/Books)
 
-- **[Dr. D. N. Shankara Bhat — digital archive](kannaDa/dnsbhat/)**: all 33 known works by the linguist whose central argument is that Kannada grammar must be built from Kannada's own structure. Transcripts, recovered blog posts and OCR'd books, each with structured Kannada text, Eke romanisation and an English summary.
-- **[Eke — a romanisation for Kannada](kannaDa/eke/reference)**: a lightweight scheme between informal internet habits and Harvard-Kyoto, following Bhat's *Ellara Kannada* in dropping aspirates that natural Kannada speech doesn't have.
-- **[Zero Speculation](kannaDa/eke/zero-speculation-illustrated.html)**: an essay linking the Tamil *puḷḷi*, the possible Dravidian etymology of *śūnya* and the K-127 Cambodia inscription (683 CE) to argue that the substrate for zero may be older and Dravidian.
+A [catalog of books](Books/Books) that changed how the author thinks, with summaries and takeaways, plus the [technical shelf](Books/Technical) and the [papers](Books/Papers) behind the deep dives.
 
 ---
 
@@ -50,15 +58,21 @@ An ongoing series on Matsubayashi-ryū karate and kobudō: kata attribution, ter
 
 ---
 
-## [Books](Books/Books)
-
-A [catalog of books](Books/Books) that changed how the author thinks, with summaries and takeaways, plus the [technical shelf](Books/Technical) and the [papers](Books/Papers) behind the deep dives.
-
----
-
 ## [Reflection](Reflection/)
 
 Raw notes: years of reading and bookmarking, exported from a Signal self-channel and sorted by topic but otherwise unprocessed. The processed versions live under Deep Dives.
+
+---
+
+## [Tinkering](Tinkering/)
+
+Hardware and making posts, starting with a Diwali postmortem on a clap-activated diya.
+
+---
+
+## [日本語](nihongo/)
+
+The Japanese writing system, read through Kannada: every kana beside its matching ಕನ್ನಡ akshara and Eke spelling, and a searchable page of all 2,136 jōyō kanji.
 
 ---
 
