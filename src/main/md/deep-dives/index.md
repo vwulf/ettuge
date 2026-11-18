@@ -7,7 +7,7 @@ Close readings of papers and books, written up after the fact. Each entry gives 
 - [Mathematics](math): the 2026 AI-math results, complexity theory, number theory, the Millennium problems, and formalization
 - [AI and Machine Learning](ai): transformer theory, attention as an algorithm, interpretability, architecture, training at scale, serving
 - [Health and Fitness](fitness): diet and protein, body composition, active rest, lactate, training intensity, *Outlive* against the papers
-- [Ellara Kannada](ellara-kannada): DNS Bhat's books, Pampa's line, auxiliaries, Rudram, Sangam Tamil in Eke, the ಎ-ಎಣಿಕೆ notation
+- [Ellara Kannada](ellara-kannada): DNS Bhat's books, Pampa's line, auxiliaries, Rudram, Sangam Tamil in Eke, the ಎ-ಎಣಿಕೆ notation, tense-aspect-mood against Chomsky
 - [Karate › Reading the sources](../karate/50-reading-the-sources): Motobu, Nagamine and Quast
 
 Textbooks, broken down from the top: the book in a paragraph, then each chapter, then each section, with the section's pages in the PDF as the last step down.
@@ -61,7 +61,7 @@ Sources: [Papers › AI and Machine Learning](../Books/Papers#ai-and-machine-lea
 
 **DNS Bhat's corpus.** All 33 of Bhat's books are catalogued under [DNS Bhat](../kannaDa/dnsbhat/). The deep dives returned repeatedly to his central claim: Kannada grammar has been described through Sanskrit (and later English) categories, which hide its Dravidian structure.
 
-**Ellara Kannada.** Pampa's ಮಾನಸರ್ and the two kinds of "we" in the same line, Bhat's verb counts and the missing auxiliaries, a native Śrī Rudram verse, *Aiṅkuṟunūṟu* 323 in Eke, the dhole/ಕಿರುಬ/ಚಿರತೆ etymologies, the ಎ-ಎಣಿಕೆ maths notation, karate terms, coinage precedence and the pangram each have their own section in [Ellara Kannada Deep Dives](ellara-kannada).
+**Ellara Kannada.** Pampa's ಮಾನಸರ್ and the two kinds of "we" in the same line, Bhat's verb counts and the missing auxiliaries, a native Śrī Rudram verse, *Aiṅkuṟunūṟu* 323 in Eke, the dhole/ಕಿರುಬ/ಚಿರತೆ etymologies, the ಎ-ಎಣಿಕೆ maths notation, karate terms, coinage precedence, the pangram, and Bhat's tense-aspect-mood typology against Chomsky (with Japanese and Sanskrit case studies) each have their own section in [Ellara Kannada Deep Dives](ellara-kannada).
 
 **Where did zero's dot come from?** The hypothesis is that abugida scripts already had a visible "nothing in this slot" mark, the Tamil-Brāhmī puḷḷi, before positional zero appears in inscriptions, and that this was the conceptual precondition. Tamil kept additive numerals because it already had a native absence marker. Kannada adopted ೦ late, around the time its virama became consistently visible. The follow-up asked whether the earliest Indosphere zero, a Cambodian inscription, owes more to a Kadamba/Pallava-Grantha line than to Tamil-Brāhmī. See the [illustrated write-up](../kannaDa/eke/zero-speculation-illustrated.html).
 

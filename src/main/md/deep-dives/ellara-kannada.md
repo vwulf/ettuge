@@ -202,3 +202,12 @@ The working order is to coin independently, then check against Bhat's lists and 
 **One four-line verse aims to cover the whole ellara-kannaDa sound inventory, with no aspirates, ಷ or ಱ.**
 The verse tells of a guard who shoots at a monkey; the monkey stumbles at the town festival and hits Shiva's bull. Sanskrit loans were swapped out to keep it native and to fill gaps: ಕಣೆ replaced ಬಾಣ, ಹೊತ್ತಿನಲ್ಲಿ replaced ದಿನ, and ಮಂಗನಿಗೆ supplied the ಂಗ cluster. Coverage was checked with a script that keeps independent vowels separate from vowel signs. Still open: ಈ, ಐ and ಔ (ಙ and ಞ set aside), and line 3 runs about 21–22 aksharas against a target of about 17. The earlier version is on the [Eke examples page](https://vwulf.github.io/ettuge/kannaDa/eke/examples.html).
 → [Technical › Writing Systems and Unicode](https://vwulf.github.io/ettuge/Books/Technical#writing-systems-and-unicode)
+
+---
+
+<a id="ch10"></a>
+## Tense, aspect and mood: Bhat against Chomsky
+
+**Bhat ranks tense, aspect and mood within each language, and Kannada's backbone is tense; Chomsky's tradition gives every clause the same skeleton.**
+On Bhat's four criteria (grammaticalisation, obligatoriness, systematicity, pervasiveness), Kannada's past/non-past runs through the finite verb, the participles, the three converbs and the verbal nouns. Aspect comes from optional vector verbs, and mood from auxiliaries like ಬೇಕು and ಬಹುದು. Cinque's universal hierarchy and Ritter and Wiltschko's anchoring slot are the generative counterparts; Dahl's grams and Bybee's one-way paths are the typological ones. Two case studies test the model. Modern Japanese shares Kannada's clause-building devices and two-way tense, but fails Bhat's adjective and foregrounding predictions, and its tense grew out of aspect. Vedic Sanskrit was aspect-prominent with rich mood, so the kāla scheme Keśirāja imported never fit Kannada. Proposed terms: ಮುಂಚೂಣಿ (prominence), ಬೆನ್ನೆಸಕ (vector verb). Still open: whether Bhat's Ch. 6 classifies Japanese, and a full read of Book 14 Ch. 9. The full write-up is [Tense, Aspect, Mood](https://vwulf.github.io/ettuge/kannaDa/grammar/tense-aspect-mood).
+→ [Technical › Dravidian and Kannada Linguistics](https://vwulf.github.io/ettuge/Books/Technical#dravidian-and-kannada-linguistics)
