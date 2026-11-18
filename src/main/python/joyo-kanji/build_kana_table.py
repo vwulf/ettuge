@@ -73,13 +73,18 @@ def load_index():
     return {s: [k for _, k in sorted(v)] for s, v in idx.items()}
 
 IDX = load_index()
+JOYO = {r["k"] for r in json.load(open(DATA, encoding="utf8"))}
+
+def link(text):
+    """wrap every jōyō kanji in a link to its entry on the jōyō kanji page"""
+    return "".join(f"[{c}](joyo-kanji#{c})" if c in JOYO else c for c in text)
 
 def kanji_for(hira):
     if hira is None:
         return X
     if hira in HAND:
-        return HAND[hira]
-    return ", ".join(IDX.get(hira, [])[:2])
+        return link(HAND[hira])
+    return link(", ".join(IDX.get(hira, [])[:2]))
 
 def cells(raw, v):
     """raw cell -> (hiragana, katakana, hiragana-for-lookup) for short and long"""
@@ -143,7 +148,7 @@ def main():
             "- Long vowels: katakana adds ー (カー). Hiragana doubles the vowel for *a i u* (かあ きい くう) but usually writes long *e* as えい (けい) and long *o* as おう (こう); ええ and おお also occur (ねえ, 大 おお).",
             "- ふ is between ಹು and ಫ಼ು (a soft *f* made with both lips), so it sits in the *f* block; ホゥ is the loanword spelling for a true *hu*.",
             "- ತ್ಸ (つ), ಫ಼ (ふ) and ಜ಼ (ざ行) have no native Kannada akshara; Eke reserves *f* and *z* for such borrowed sounds.",
-            "- kAnji: a common kanji read with exactly that kana; empty where no jōyō kanji has that reading. See the [jōyō kanji page](joyo-kanji) for every kanji.",
+            "- kAnji: a common kanji read with exactly that kana; empty where no jōyō kanji has that reading. Click a kanji to open its entry on the [jōyō kanji page](joyo-kanji).",
             ""]
     # yoon
     out += ["## ಯ ottu — contracted sounds (yōon)", "",
@@ -169,7 +174,7 @@ def main():
         ("a vowel, y, w", "nasal vowel", "n", "金曜 きんよう · kinyO", "ಕಿನ್ಯೋ"),
         ("end of word", "ɴ", "n", "本 ほん · hon", "ಹೊಂ"),
     ]:
-        out.append(md_row([before, sound, eke, ex, kn]))
+        out.append(md_row([before, sound, eke, link(ex), kn]))
     out.append("")
     # gemination
     out += ["## っ — doubled consonants (ottu of the same letter)", "",
@@ -184,7 +189,7 @@ def main():
         ("tts", "っつ", "ತ್ತ್ಸು", "三つ みっつ · mittsu · ಮಿತ್ತ್ಸು"),
         ("pp", "っぱ っぴ っぷ っぺ っぽ", "ಪ್ಪ ಪ್ಪಿ ಪ್ಪು ಪ್ಪೆ ಪ್ಪೊ", "一杯 いっぱい · ippai · ಇಪ್ಪಇ"),
     ]:
-        out.append(md_row([eke, hira, h2k(hira), kn, ex]))
+        out.append(md_row([eke, hira, h2k(hira), kn, link(ex)]))
     out += ["", "っ doubles only *k s S t c ts p*. Kannada also doubles ಗ ಜ ದ ಬ ನ ಮ ಲ (ಅಗ್ಗ, ಅಮ್ಮ…), which Japanese writes only in loanwords (ベッド *beddo*, バッグ *baggu*) or with ん + kana (*mm* = んま: あんま).", ""]
     open(OUT, "w", encoding="utf8").write("\n".join(out))
     print("wrote", OUT)
