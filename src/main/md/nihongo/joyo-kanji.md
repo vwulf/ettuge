@@ -193,7 +193,7 @@ a.jk-big:hover { outline:2px solid #555; }
   const KNWIKT = "https://kn.wiktionary.org/wiki/";
   const wl = (term, text, title) =>
     `<a href="${JAWIKT}${encodeURIComponent(term)}" target="_blank" rel="noopener" title="${title || term + " — Wiktionary (日本語)"}">${text}</a>`;
-  // kun'yomi entry -> written word: まな(ぶ) -> 学ぶ ; ひと- -> 一 ; -び -> 日
+  /* kun'yomi entry -> written word: まな(ぶ) -> 学ぶ ; ひと- -> 一 ; -び -> 日 */
   const kunWord = (k, kun) => { const m = kun.replace(/-/g, "").match(/\(([^)]*)\)/); return k + (m ? m[1] : ""); };
 
   function rowsFor(kana, roma, ek, kn, word) {
