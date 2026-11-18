@@ -109,6 +109,12 @@ jobs:
           mkdir -p docs/karate
           cp src/main/md/karate/*.md docs/karate/
 
+      - name: Copy Japanese (nihongo) pages into docs/nihongo/
+        run: |
+          rm -rf docs/nihongo || true
+          mkdir -p docs/nihongo
+          cp src/main/md/nihongo/*.md src/main/md/nihongo/*.json docs/nihongo/
+
       - name: Split book chapters into paginated pages
         run: |
           python3 - <<'PYEOF'
