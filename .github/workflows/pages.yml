@@ -196,8 +196,9 @@ jobs:
               ch_anchor_map = {}
               for _i, (ch_num, _pfx, pos) in enumerate(positions):
                   _end = positions[_i+1][2] if _i+1 < len(positions) else len(body)
-                  for _a in re.findall(r'<a id="((?:sec|sub)-[\d-]+)"', body[pos:_end]):
-                      sec_map[_a] = 'ch' + str(ch_num)
+                  # Any explicit anchor inside the chapter (sec-N-M, sub-N-M-K, bib, …)
+                  for _a in re.findall(r'<a id="([^"]+)"', body[pos:_end]):
+                      sec_map.setdefault(_a, 'ch' + str(ch_num))
                   # Map the chapter anchor itself (e.g. adhyAya-1 → ch1)
                   for _a in re.findall(r'<a id="([^"]+)"', body[pos:pos+50]):
                       ch_anchor_map[_a] = 'ch' + str(ch_num)

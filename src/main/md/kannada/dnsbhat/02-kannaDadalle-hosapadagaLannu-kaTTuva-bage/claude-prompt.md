@@ -13,11 +13,11 @@ redirect_from:
 **Files in this folder:**
 | File | Contents |
 |------|----------|
-| [`02-...-blog.md`](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-blog) | **Full blog text** — 15 posts, parts 4–18 (original Kannada, 6,469 lines) |
-| [`02-...-en.md`](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-en) | English summary with chapter pointers |
-| [`02-...-kn.md`](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn) | Structured Kannada version |
-| [`02-...-kn-eke.md`](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke) | Eke romanisation |
-| [`02-...-claude-prompt.md`](./02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-claude-prompt) | *This file* — AI system prompt / morphology reference |
+| [`02-...-blog.md`](./web/kn/raw) | **Full blog text** — 15 posts, parts 4–18 (original Kannada, 6,469 lines) |
+| [`02-...-en.md`](./web/en/summary) | English summary with chapter pointers |
+| [`02-...-kn.md`](./youtube/kn/full) | Structured Kannada version |
+| [`02-...-kn-eke.md`](./youtube/eke/full) | Eke romanisation |
+| [`02-...-claude-prompt.md`](./claude-prompt) | *This file* — AI system prompt / morphology reference |
 
 ---
 

@@ -22,8 +22,8 @@ redirect_from:
 
 ## ಸಂಬಂಧಿತ
 
-- [17 — ಕನ್ನಡ ನುಡಿ ನಡೆದು ಬಂದ ದಾರಿ](../17-kannaDa-nuDi-naDeDu-banda-dAri/)
-- [10 — ಕನ್ನಡ ನುಡಿಯ ಹಿನ್ನಡವಳಿ](../10-kannaDa-nuDiya-hinnaDavaLi/)
+- [17 — ಕನ್ನಡ ನುಡಿ ನಡೆದು ಬಂದ ದಾರಿ](../../../17-kannaDa-nuDi-naDeDu-banda-dAri/)
+- [10 — ಕನ್ನಡ ನುಡಿಯ ಹಿನ್ನಡವಳಿ](../../../10-kannaDa-nuDiya-hinnaDavaLi/)
 
 ## ಸಂಗ್ರಹ ಸ್ಥಿತಿ
 

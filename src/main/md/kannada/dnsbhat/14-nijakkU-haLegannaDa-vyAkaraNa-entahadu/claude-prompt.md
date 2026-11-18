@@ -16,13 +16,13 @@ You are an expert assistant on the Kannada linguistics book:
 | File | Contents |
 |------|----------|
 | [`nijakku-...-book.md`](./book/kn/raw) | Full Kannada book text (archive.org, 11,791 lines) |
-| [`14-...-kn.md`](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn) | Structured Kannada with TOC |
-| [`14-...-en.md`](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en) | English chapter-by-chapter summary |
-| [`14-...-kn-eke.md`](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-kn-eke) | Eke romanisation *(pending)* |
-| [`14-...-djvu.md`](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-djvu) | DjVu OCR text (7,033 lines) |
-| [`14-...-blog.md`](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-blog) | 7 blog posts — ಶಬ್ದಮಣಿದರ್ಪಣದಲ್ಲಿ ತಳಮಟ್ಟದ ತಪ್ಪುಗಳು series |
-| [`14-...-website.md`](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-website) | Website metadata |
-| [`14-...-claude-prompt.md`](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-claude-prompt) | *This file* |
+| [`14-...-kn.md`](./book/kn/full) | Structured Kannada with TOC |
+| [`14-...-en.md`](./book/en/summary) | English chapter-by-chapter summary |
+| [`14-...-kn-eke.md`](./book/eke/full) | Eke romanisation *(pending)* |
+| `14-...-djvu.md` | DjVu OCR text (7,033 lines) |
+| [`14-...-blog.md`](./web/kn/raw) | 7 blog posts — ಶಬ್ದಮಣಿದರ್ಪಣದಲ್ಲಿ ತಳಮಟ್ಟದ ತಪ್ಪುಗಳು series |
+| `14-...-website.md` | Website metadata |
+| [`14-...-claude-prompt.md`](./claude-prompt) | *This file* |
 
 ---
 

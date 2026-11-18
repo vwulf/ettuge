@@ -5,7 +5,7 @@
 **Read by:** Malati Bhat (listed), but see critical note
 **Published:** date unknown
 **Source quality:** ⚠️ Very partial — Parts 1–2 unavailable; Parts 3–4 contain readable content but appear to be a commentary series, not a book reading
-**Transcript:** [`youtube/kn/full.md`](../kn/full.md)
+**Transcript:** [`youtube/kn/full.md`](../kn/full)
 
 > **Source Limitations:** No `description-raw.md` is available for Book 13 — no Wayback Machine page was retrieved for this title. The overview below is based entirely on the 4-part YouTube transcript, of which only Part 3 contains genuinely readable content. Parts 1 and 4 are duplicates of each other (same text verbatim) and appear to contain content from a different video or series entirely. Part 2 is completely unavailable. Critically: the readable parts (3 and 4) refer to Shankara Bhat and his works in the **third person** ("ಶಂಕರಭಟ್ಟರ ಪುಸ್ತಕ", "ಶಂಕರಭಟ್ಟರ ಕೃತಿ") — indicating this series is **not** Malati Bhat reading Bhat's own text, but rather one or more commentators discussing Bhat's work. The nature and full content of this book remain uncertain.
 

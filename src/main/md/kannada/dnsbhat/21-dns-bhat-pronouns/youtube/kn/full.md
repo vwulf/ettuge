@@ -14,7 +14,7 @@ redirect_from:
 **Publisher:** Oxford University Press (Oxford Studies in Typology and Linguistic Theory)
 **ISBN:** 978-0-19-823952-5
 **Pages:** ~296
-**Google Drive:** [DNS-Bhat-Pronouns-Oxford.pdf](../../../../../../../../../Library/CloudStorage/GoogleDrive-vishwasms@gmail.com/My%20Drive/Books/DNS-Bhat/DNS-Bhat-Pronouns-Oxford.pdf)
+**Google Drive:** DNS-Bhat-Pronouns-Oxford.pdf
 
 ---
 
@@ -56,5 +56,5 @@ Dravidian pronoun systems, including:
 - The inclusive/exclusive *we* distinction in Kannada
 - The Kannada case system as it applies to pronouns
 
-See [01 — Idu Kannadade Vyakarana](../01-idu-kannaDaddE-vyAkaraNa/) for his
+See [01 — Idu Kannadade Vyakarana](../../../01-idu-kannaDaddE-vyAkaraNa/) for his
 Kannada-language treatment of the pronoun system using native Kannada terminology.

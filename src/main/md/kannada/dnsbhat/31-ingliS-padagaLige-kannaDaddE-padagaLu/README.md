@@ -11,15 +11,15 @@
 
 | File | Contents |
 |------|----------|
-| [`book/kn/raw.md`](./book/kn/raw.md) | Raw OCR text (Nudi→Unicode via wx_decode.py) — do not edit; ~30–40% of English headword entries have `(cid:...)` artifacts |
-| [`book/en/summary.md`](./book/en/summary.md) | English summary: dictionary structure, word-formation methodology, sample entries (A and Z sections) |
+| [`book/kn/raw.md`](./book/kn/raw) | Raw OCR text (Nudi→Unicode via wx_decode.py) — do not edit; ~30–40% of English headword entries have `(cid:...)` artifacts |
+| [`book/en/summary.md`](./book/en/summary) | English summary: dictionary structure, word-formation methodology, sample entries (A and Z sections) |
 
 ---
 
 ## Where to Start
 
-- **Overview?** → [`book/en/summary.md`](./book/en/summary.md) — structure, methodology, sample entries
-- **Full raw text?** → [`book/kn/raw.md`](./book/kn/raw.md) — Kannada text with OCR artifacts
+- **Overview?** → [`book/en/summary.md`](./book/en/summary) — structure, methodology, sample entries
+- **Full raw text?** → [`book/kn/raw.md`](./book/kn/raw) — Kannada text with OCR artifacts
 
 ---
 
@@ -29,4 +29,4 @@ The PDF was typeset in Nudi legacy font. The wx_decode.py conversion recovers Ka
 
 ---
 
-[← Back to catalogue](../README.md)
+[← Back to catalogue](../)

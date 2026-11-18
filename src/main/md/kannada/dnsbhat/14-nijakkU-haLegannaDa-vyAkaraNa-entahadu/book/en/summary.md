@@ -605,9 +605,9 @@ The final section situates the book within the broader project of Dravidian ling
 | [`nijakku-...-book.md`](../kn/raw) | Full Kannada book text (archive.org, 11,791 lines) |
 | [`14-...-kn.md`](../kn/full) | Structured Kannada with TOC and section anchors |
 | [`14-...-kn-eke.md`](../eke/full) | Eke romanisation |
-| [`14-...-djvu.md`](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-djvu) | DjVu OCR text (alternative source) |
+| `14-...-djvu.md` | DjVu OCR text (alternative source) |
 | [`14-...-blog.md`](../../web/kn/raw) | 7 blog posts — ಶಬ್ದಮಣಿದರ್ಪಣ critique series |
-| [`14-...-claude-prompt.md`](./14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-claude-prompt) | AI assistant prompt for Q&A about this book |
+| [`14-...-claude-prompt.md`](../../claude-prompt) | AI assistant prompt for Q&A about this book |
 | [Internet Archive](https://archive.org/details/arn.nijakkuhaleganna0000dnsh) | Original PDF + DjVu source |
 
 ---
@@ -616,9 +616,9 @@ The final section situates the book within the broader project of Dravidian ling
 
 | Related Book | Connection |
 |---|---|
-| [01 — Idu Kannadade Vyakarana](../01-idu-kannaDaddE-vyAkaraNa/) | The positive grammar that corrects the errors diagnosed here; synthesises Dravidian-first approach |
-| [07 — Kannada Barahada Sollarime](../07-kannaDa-barahada-sollarime/) | The modern comprehensive grammar reform that Book 14 historically contextualises |
-| [08 — Kannadakke Mahaprana Yake Beda](../08-kannaDakke-mahAprANa-yAke-bEDa/) | Historical argument: when/why Sanskrit letters entered Kannada writing |
-| [03 — Kannada Padagala Olarachane](../03-kannaDa-padagaLa-oLaracane/) | Word structure / morphology — the Dravidian-correct framework Book 14 argues for |
-| [22 — Sound Change](../22-sound-change/) | Theoretical backbone: comparative method used to evaluate Old Kannada phonology |
+| [01 — Idu Kannadade Vyakarana](../../../01-idu-kannaDaddE-vyAkaraNa/) | The positive grammar that corrects the errors diagnosed here; synthesises Dravidian-first approach |
+| [07 — Kannada Barahada Sollarime](../../../07-kannaDa-barahada-sollarime/) | The modern comprehensive grammar reform that Book 14 historically contextualises |
+| [08 — Kannadakke Mahaprana Yake Beda](../../../08-kannaDakke-mahAprANa-yAke-bEDa/) | Historical argument: when/why Sanskrit letters entered Kannada writing |
+| [03 — Kannada Padagala Olarachane](../../../03-kannaDa-padagaLa-oLaracane/) | Word structure / morphology — the Dravidian-correct framework Book 14 argues for |
+| [22 — Sound Change](../../../22-sound-change/) | Theoretical backbone: comparative method used to evaluate Old Kannada phonology |
 | [Blog series in this folder](../../web/kn/raw) | 7-part companion blog posts specifically on Shabdamani Darpana errors |

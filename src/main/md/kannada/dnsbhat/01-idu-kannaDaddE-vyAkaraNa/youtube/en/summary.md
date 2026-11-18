@@ -10,7 +10,7 @@ redirect_from:
 **Read by:** Malati Bhat (ಮಾಲತಿ ಭಟ್), daughter of D. N. Shankara Bhat
 **Published:** 2021 (single-volume consolidation) · 253 pages
 **Source quality:** Excellent — Malati Bhat reading the full book text directly; transcript is dense but fully readable. Three-part series with minimal ASR errors. The table of contents read aloud in Part 1 gives the full 19-chapter structure.
-**Transcript:** [`youtube/kn/full.md`](../kn/full.md)
+**Transcript:** [`youtube/kn/full.md`](../kn/full)
 
 ---
 
@@ -24,7 +24,7 @@ redirect_from:
 
 ### Part 1 — Preface: Why Kannada Needs Its Own Grammar
 [Watch on YouTube](https://www.youtube.com/watch?v=wBaRf2lMGic)
-[Transcript →](../kn/full.md#part-1)
+[Transcript →](../kn/full#part-1)
 
 - **The core complaint:** Current school grammars of Kannada are not genuine Kannada grammars — instead of describing the rules by which Kannada words, word-groups, and sentences are formed, they attempt to apply Sanskrit (Pāṇinian) or English grammar rules to Kannada. Bhat showed this twenty years earlier in his book *Kannadakke Beku KannaDaddE VyAkaraNa*, and then spent 2010–2019 writing what a genuine Kannada grammar actually looks like across seven volumes of *Kannada Barahada Sollarime*. The present book consolidates all seven volumes into one
 - **Grammar is not foreign:** Grammar simply makes explicit the unconscious rules that every speaker already uses fluently. Every Kannada speaker correctly chooses among *ge / ige / ke* (dative suffix variants) without being taught a rule — grammar states what that rule is. The conjunctive participle (*-u/-i* form) can only join clauses with the same agent — *Rāju manege bandu ūTa māDida* is correct; *Rāju manege bandu Jānaki ūTa māDiDaLu* is wrong — and every speaker knows this without explicit instruction
@@ -33,7 +33,7 @@ redirect_from:
 
 ### Part 2 — The Structure of Written Kannada: Letters, Words, and Word-Classes
 [Watch on YouTube](https://www.youtube.com/watch?v=h5VFWQQfPO8)
-[Transcript →](../kn/full.md#part-2)
+[Transcript →](../kn/full#part-2)
 
 - **Three levels of grammatical structure (§1.2):** Letters (*bariges*) → words (*padagaLu*) → word-groups/phrases (*padakanteagaLu*) → sentences (*vākyagaLu*). Within words: derivation by suffixes (*ottugaLu*) and compounding (*jōDu padagaLu*). Words inflect (*padarūpagaLu*) to signal grammatical roles
 - **The 31-letter inventory of *ellara kannaDa*:** Standard written Kannada uses exactly 31 phonemic letters — 10 vowels (*tereyu/igi*) and 21 consonants (*muccuyuLi*). This system deliberately excludes Sanskrit aspirate consonants (*mahāprāṇa*) and the retroflex sibilant *ṣa*
@@ -46,7 +46,7 @@ redirect_from:
 
 ### Part 3 — Word-Forms and Sentence Structure
 [Watch on YouTube](https://www.youtube.com/watch?v=6EBf9mJG4qI)
-[Transcript →](../kn/full.md#part-3)
+[Transcript →](../kn/full#part-3)
 
 - **Inflectional word-forms (*padarūpagaLu*) (§1.2.7):** Nouns inflect for case: *mara* (nominative), *maravanu* (accusative), *maradinda* (ablative), *marakke* (dative), *maradalli* (locative), *marada* (genitive). Verbs inflect far more richly: *hatTida* (past, masc. agent), *hatTitu* (past, non-human), *hatTuttade* (present/future), *hatTali* (hortative), *hatTisidaru* (causative past)
 - **Phrase structure (*padakanteagaLa iTTaLa*) (§1.2.8):** A sentence must be analyzed at the phrase level, not the word level. *cikka huDuga hattu roTTi tinda* groups as [*cikka huDuga*] + [*hattu roTTi*] + *tinda*. Structural ambiguity arises when the same words can group differently, as in *huli bāyige bidda Dhanada karu kūgāDuttide* (two readings depending on whether *huli bāyige bidda* modifies *Dhana* or *karu*)
@@ -83,8 +83,8 @@ redirect_from:
 | Book | Connection |
 |------|-----------|
 | [07 — Kannada Barahada Sollarime](../../../07-kannaDa-barahada-sollarime/) | Direct source: Book 01 is the consolidated, revised single-volume edition of the 7-volume *Sollarime* series (2010–2019); Book 07 contains the original full text with greater detail |
-| [02 — Kannada Padagala OLaracane](../../02-kannaDa-padagaLa-oLaracane/) | Structural complement: Book 02 describes internal word structure (*iTTaLa*) in greater depth than the overview in Book 01 Ch. 2–3 |
-| [14 — Nijakku HaLegannaDA VyAkaraNa Entahadu](../../../14-nijakku-haLegannaDa-vyAkaraNa-entahadu/) | Historical complement: shows the history of Sanskrit-grammar imposition on Kannada that Book 01 argues against |
+| [03 — ಕನ್ನಡ ಪದಗಳ ಒಳರಚನೆ](../../../03-kannaDa-padagaLa-oLaracane/) | Structural complement: Book 03 describes internal word structure (*iTTaLa*) in greater depth than the overview in Book 01 Ch. 2–3 |
+| [14 — Nijakku HaLegannaDA VyAkaraNa Entahadu](../../../14-nijakkU-haLegannaDa-vyAkaraNa-entahadu/) | Historical complement: shows the history of Sanskrit-grammar imposition on Kannada that Book 01 argues against |
 | [08 — KannaDakke MahAprANa Yake BEDa](../../../08-kannaDakke-mahAprANa-yAke-bEDa/) | Focused application of Book 01's spelling reform #2: the argument for removing aspirate (*mahāprāṇa*) letters from the Kannada script |
 
 ---
@@ -94,4 +94,4 @@ redirect_from:
 - **YouTube Part 1:** <https://www.youtube.com/watch?v=wBaRf2lMGic>
 - **YouTube Part 2:** <https://www.youtube.com/watch?v=h5VFWQQfPO8>
 - **YouTube Part 3:** <https://www.youtube.com/watch?v=6EBf9mJG4qI>
-- **Transcript (Kannada):** [`youtube/kn/full.md`](../kn/full.md)
+- **Transcript (Kannada):** [`youtube/kn/full.md`](../kn/full)

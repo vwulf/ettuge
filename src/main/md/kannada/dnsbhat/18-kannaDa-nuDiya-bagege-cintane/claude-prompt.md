@@ -77,10 +77,10 @@ For AI assistants working in this repository, these posts are a key source of DN
 
 | File | Description |
 |------|-------------|
-| [18-kannaDa-nuDiya-bagege-cintane-blog.md](./18-kannaDa-nuDiya-bagege-cintane-blog) | Source: all 13 blog posts in Kannada |
-| [18-kannaDa-nuDiya-bagege-cintane-en.md](./18-kannaDa-nuDiya-bagege-cintane-en) | English summaries with key terms |
-| [18-kannaDa-nuDiya-bagege-cintane-kn-eke.md](./18-kannaDa-nuDiya-bagege-cintane-kn-eke) | Eke romanisation companion |
-| [18-kannaDa-nuDiya-bagege-cintane-claude-prompt.md](./18-kannaDa-nuDiya-bagege-cintane-claude-prompt) | This file: AI assistant overview |
+| [18-kannaDa-nuDiya-bagege-cintane-blog.md](./web/kn/raw) | Source: all 13 blog posts in Kannada |
+| [18-kannaDa-nuDiya-bagege-cintane-en.md](./web/en/summary) | English summaries with key terms |
+| [18-kannaDa-nuDiya-bagege-cintane-kn-eke.md](./web/eke/full) | Eke romanisation companion |
+| [18-kannaDa-nuDiya-bagege-cintane-claude-prompt.md](./claude-prompt) | This file: AI assistant overview |
 
 ---
 

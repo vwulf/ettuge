@@ -221,11 +221,11 @@ redirect_from:
 
 | Related Book | Connection |
 |---|---|
-| [05 — Mathina Olaguttu](../05-mAtina-oLaguTTu/) | Directly related: Book 05 is an introduction to linguistics aimed at general readers — speech vs. writing is a recurring theme there too; Book 04 provides the full argument for why the confusion between them matters |
-| [07 — Kannadada Sollarime](../07-kannaDa-barahada-sollarime/) | Provides the full grammatical framework for Kannada — Book 04's argument about Kannada's distinctness from Sanskrit grammar is grounded in Sollarime's analysis |
-| [08 — Kannadakke Mahaprana Yake Beda](../08-kannaDakke-mahAprANa-yAke-bEDa/) | Directly extends Book 04's spelling reform argument: aspirate (*mahāprāṇa*) letters from Sanskrit are unnecessary in Kannada speech and writing — the most focused application of Book 04's principles |
-| [09 — Havyaka Kannada](../09-havyaka-kannaDa/) | Illustrates the speech-writing distinction in practice: Havyaka preserves spoken Kannada features that written Kannada has lost, vindicating DNS Bhat's argument that speech is the primary system |
-| [14 — Nijakku Halegannada Vyakarana Entahadu](../14-nijakkU-haLegannaDa-vyAkaraNa-entahadu/) | Old Kannada grammar — shows how Kannada's written tradition began and how it evolved separately from speech |
+| [05 — Mathina Olaguttu](../../../05-mAtina-oLaguTTu/) | Directly related: Book 05 is an introduction to linguistics aimed at general readers — speech vs. writing is a recurring theme there too; Book 04 provides the full argument for why the confusion between them matters |
+| [07 — Kannadada Sollarime](../../../07-kannaDa-barahada-sollarime/) | Provides the full grammatical framework for Kannada — Book 04's argument about Kannada's distinctness from Sanskrit grammar is grounded in Sollarime's analysis |
+| [08 — Kannadakke Mahaprana Yake Beda](../../../08-kannaDakke-mahAprANa-yAke-bEDa/) | Directly extends Book 04's spelling reform argument: aspirate (*mahāprāṇa*) letters from Sanskrit are unnecessary in Kannada speech and writing — the most focused application of Book 04's principles |
+| [09 — Havyaka Kannada](../../../09-havyaka-kannaDa/) | Illustrates the speech-writing distinction in practice: Havyaka preserves spoken Kannada features that written Kannada has lost, vindicating DNS Bhat's argument that speech is the primary system |
+| [14 — Nijakku Halegannada Vyakarana Entahadu](../../../14-nijakkU-haLegannaDa-vyAkaraNa-entahadu/) | Old Kannada grammar — shows how Kannada's written tradition began and how it evolved separately from speech |
 
 ---
 

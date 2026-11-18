@@ -33,7 +33,7 @@ The book's central argument is that ordinary people hold many misconceptions abo
 ### Part One — ಭಾಷೆಯ ಸ್ವರೂಪ (The Nature of Language)
 - [1.1 No language is superior or inferior](#11-no-language-is-superior-or-inferior)
 - [1.2 The birth and death of languages](#12-the-birth-and-death-of-languages)
-- [1.3 Old and new in languages — language change](#13-old-and-new-in-languages)
+- [1.3 Old and new in languages — language change](#13-old-and-new-in-languages--language-change)
 - [1.4 Linguistic freedom](#14-linguistic-freedom)
 - [1.5 Is language logical?](#15-is-language-logical)
 - [1.6 Tense (present tense)](#16-tense)
@@ -49,12 +49,12 @@ The book's central argument is that ordinary people hold many misconceptions abo
 - [2.7 Teaching English to Kannada children](#27-teaching-english-to-kannada-children)
 - [2.8 The help of grammar in language learning](#28-the-help-of-grammar-in-language-learning)
 - [2.9 How many pages can you read per hour?](#29-how-many-pages-can-you-read-per-hour)
-- [2.10 Why don't people read even when they can?](#210-why-dont-people-read)
+- [2.10 Why don't people read even when they can?](#210-why-dont-people-read-even-when-they-can)
 
 ### Part Three — ಮಾತು ಮತ್ತು ಬರಹ (Speech and Writing)
 - [3.1 A photograph of speech](#31-a-photograph-of-speech)
 - [3.2 Should India have a single script?](#32-should-india-have-a-single-script)
-- [3.3 The survival of the *ri* character (ಋ)](#33-the-survival-of-ri)
+- [3.3 The survival of the *ri* character (ಋ)](#33-the-survival-of-the-ri-character-ಋ)
 - [3.4 Turkey's script revolution](#34-turkeys-script-revolution)
 - [3.5 A "new script" for Kannada](#35-a-new-script-for-kannada)
 - [3.6 Language and writing](#36-language-and-writing)
@@ -64,7 +64,7 @@ The book's central argument is that ordinary people hold many misconceptions abo
 - [4.2 The dialects of Kannada](#42-the-dialects-of-kannada)
 - [4.3 The grammatical tradition of Kannada](#43-the-grammatical-tradition-of-kannada)
 - [4.4 A century of Kannada grammar research](#44-a-century-of-kannada-grammar-research)
-- [4.5 When the great Sanskrit scholars erred](#45-when-the-sanskrit-scholars-erred)
+- [4.5 When the great Sanskrit scholars erred](#45-when-the-great-sanskrit-scholars-erred)
 - [4.6 Creating technical vocabulary](#46-creating-technical-vocabulary)
 
 ### Part Five — ಜಗತ್ತಿನ ಭಾಷೆಗಳು (Languages of the World)
@@ -291,4 +291,4 @@ The book closes by returning to its opening theme: ordinary people know less abo
 *Cross-links:*
 - [Kannada source text (kn)](../kn/raw)
 - [Eke romanisation (kn-eke)](../eke/full)
-- [AI system prompt](./27-bhASheya-bagge-claude-prompt)
+- [AI system prompt](../../claude-prompt)

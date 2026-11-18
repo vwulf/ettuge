@@ -8,7 +8,7 @@
 **Subject:** Havyaka Kannada dialect
 **Source:** DjVu scan (archive.org)
 
-> DjVu source: [`20-havyaka-outline-grammar-djvu.md`](./20-havyaka-outline-grammar-djvu)
+> DjVu source: `20-havyaka-outline-grammar-djvu.md`
 
 ---
 
@@ -332,11 +332,11 @@ The grammar concludes with a classified vocabulary (glossary), providing Havyaka
 
 | File | Contents |
 |------|----------|
-| [`20-havyaka-outline-grammar-djvu.md`](./20-havyaka-outline-grammar-djvu) | DjVu OCR text (raw, with OCR errors) |
+| `20-havyaka-outline-grammar-djvu.md` | DjVu OCR text (raw, with OCR errors) |
 | [`20-havyaka-outline-grammar-en.md`](./summary) | *This file* — English chapter summaries |
-| [`20-havyaka-outline-grammar-website.md`](./20-havyaka-outline-grammar-website) | Website metadata |
-| [`20-havyaka-outline-grammar-claude-prompt.md`](./20-havyaka-outline-grammar-claude-prompt) | AI prompt |
-| [`20-havyaka-outline-grammar.md`](./20-havyaka-outline-grammar) | Collection overview |
+| `20-havyaka-outline-grammar-website.md` | Website metadata |
+| [`20-havyaka-outline-grammar-claude-prompt.md`](../../claude-prompt) | AI prompt |
+| [`20-havyaka-outline-grammar.md`](../../) | Collection overview |
 | [Internet Archive](https://archive.org/details/unset0000unse_a3v7) | Original DjVu source |
 
 ---
@@ -345,12 +345,12 @@ The grammar concludes with a classified vocabulary (glossary), providing Havyaka
 
 | Related Book | Connection |
 |---|---|
-| [09 — Havyaka Kannada](../09-havyaka-kannaDa/) | Companion Kannada-language popular work on the same dialect by the same author |
-| [19 — The Koraga Language](../19-the-koraga-language/) | Companion 1971 monograph from the same fieldwork period and same Deccan College series |
-| [03 — Kannada Padagala Olarachane](../03-kannaDa-padagaLa-oLaracane/) | Bhat's word-morphology framework, applicable to the nominal derivation described here |
-| [25 — Kannada Vakyagala Olarachane](../25-kannaDa-vAkyagaLa-oLaracane/) | Bhat's sentence-structure framework, relevant to the syntax section |
-| [24 — Grammatical Relations](../24-grammatical-relations/) | Theoretical framework Bhat later developed, rooted in fieldwork like this |
+| [09 — Havyaka Kannada](../../../09-havyaka-kannaDa/) | Companion Kannada-language popular work on the same dialect by the same author |
+| [19 — The Koraga Language](../../../19-the-koraga-language/) | Companion 1971 monograph from the same fieldwork period and same Deccan College series |
+| [03 — Kannada Padagala Olarachane](../../../03-kannaDa-padagaLa-oLaracane/) | Bhat's word-morphology framework, applicable to the nominal derivation described here |
+| [25 — Kannada Vakyagala Olarachane](../../../25-kannaDa-vAkyagaLa-oLaracane/) | Bhat's sentence-structure framework, relevant to the syntax section |
+| [24 — Grammatical Relations](../../../24-grammatical-relations/) | Theoretical framework Bhat later developed, rooted in fieldwork like this |
 
 ---
 
-*This document is an English-language summary of D. N. Shankara Bhat's* An Outline Grammar of Havyaka *(1971), based on the DjVu OCR source. The full OCR text (with errors) is in [`20-havyaka-outline-grammar-djvu.md`](./20-havyaka-outline-grammar-djvu).*
+*This document is an English-language summary of D. N. Shankara Bhat's* An Outline Grammar of Havyaka *(1971), based on the DjVu OCR source. The full OCR text (with errors) is in `20-havyaka-outline-grammar-djvu.md`.*

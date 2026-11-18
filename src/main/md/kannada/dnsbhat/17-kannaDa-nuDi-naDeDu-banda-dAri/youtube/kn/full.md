@@ -29,9 +29,9 @@ redirect_from:
 
 ## ಸಂಬಂಧಿತ
 
-- [10 — ಕನ್ನಡ ನುಡಿಯ ಹಿನ್ನಡವಳಿ](../10-kannaDa-nuDiya-hinnaDavaLi/)
-- [12 — ಕನ್ನಡ ಭಾಷೆಯ ಕಲ್ಪಿತ ಚರಿತ್ರೆ](../12-kannaDa-bhASheya-kalpita-caritre/)
-- [18 — ಕನ್ನಡ ನುಡಿಯ ಬಗೆಗೆ ಚಿಂತನೆ](../18-kannaDa-nuDiya-bagege-cintane/)
+- [10 — ಕನ್ನಡ ನುಡಿಯ ಹಿನ್ನಡವಳಿ](../../../10-kannaDa-nuDiya-hinnaDavaLi/)
+- [12 — ಕನ್ನಡ ಭಾಷೆಯ ಕಲ್ಪಿತ ಚರಿತ್ರೆ](../../../12-kannaDa-bhASheya-kalpita-caritre/)
+- [18 — ಕನ್ನಡ ನುಡಿಯ ಬಗೆಗೆ ಚಿಂತನೆ](../../../18-kannaDa-nuDiya-bagege-cintane/)
 
 ## ಸಂಗ್ರಹ ಸ್ಥಿತಿ
 

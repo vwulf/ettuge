@@ -24,8 +24,8 @@ redirect_from:
 
 - **ಪ್ರಕಾಶಕರು:** ಡಾ. ಡಿ. ಎನ್. ಶಂಕರ ಬಟ್ ಅವರ ವೆಬ್‌ಸೈಟ್
 - **ಸಂಬಂಧಿತ ಹೊತ್ತಗೆಗಳು:**
-  - [02 — ಕನ್ನಡದಲ್ಲಿ ಹೊಸಪದಗಳನ್ನು ಕಟ್ಟುವ ಬಗೆ](../02-kannaDadalle-hosapadagaLannu-kaTTuva-bage/)
-  - [16 — ಸಂಸ್ಕೃತ ಪದಗಳಿಗೆ ಕನ್ನಡದ್ದೇ ಪದಗಳು](../16-nuDiyarimeya-padagaLige-kannaDaddE-padagaLu/)
+  - [02 — ಕನ್ನಡದಲ್ಲಿ ಹೊಸಪದಗಳನ್ನು ಕಟ್ಟುವ ಬಗೆ](../../../02-kannaDadalle-hosapadagaLannu-kaTTuva-bage/)
+  - [16 — ಸಂಸ್ಕೃತ ಪದಗಳಿಗೆ ಕನ್ನಡದ್ದೇ ಪದಗಳು](../../../16-nuDiyarimeya-padagaLige-kannaDaddE-padagaLu/)
 
 ## ವಿಶಯ
 

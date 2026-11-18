@@ -184,10 +184,10 @@ This book introduces the Havyaka Kannada dialect spoken in Puttur, South Kanara,
 
 | Related Book | Connection |
 |---|---|
-| [14 — Nijakku Halegannada Vyakarana Entahadu](../14-nijakkU-haLegannaDa-vyAkaraNa-entahadu/) | Old Kannada grammar analysis — directly relevant to Havyaka's archaic features discussed here |
-| [08 — Kannadakke Mahaprana Yake Beda](../08-kannaDakke-mahAprANa-yAke-bEDa/) | Phonological reform argument — Havyaka already drops aspiration, validating Bhat's reform |
-| [04 — Mathu Matthu Barahada Naduvina Gondala](../04-mAtu-mattu-barahada-naDuvina-gondala/) | Speech vs writing distinction — Havyaka preserves spoken features that written Kannada has lost |
-| [07 — Kannadada Sollarime](../07-kannaDa-barahada-sollarime/) | Kannada grammar framework — foundational for understanding the morphological analysis here |
+| [14 — Nijakku Halegannada Vyakarana Entahadu](../../../14-nijakkU-haLegannaDa-vyAkaraNa-entahadu/) | Old Kannada grammar analysis — directly relevant to Havyaka's archaic features discussed here |
+| [08 — Kannadakke Mahaprana Yake Beda](../../../08-kannaDakke-mahAprANa-yAke-bEDa/) | Phonological reform argument — Havyaka already drops aspiration, validating Bhat's reform |
+| [04 — Mathu Matthu Barahada Naduvina Gondala](../../../04-mAtu-mattu-barahada-naDuvina-gondala/) | Speech vs writing distinction — Havyaka preserves spoken features that written Kannada has lost |
+| [07 — Kannadada Sollarime](../../../07-kannaDa-barahada-sollarime/) | Kannada grammar framework — foundational for understanding the morphological analysis here |
 
 ---
 

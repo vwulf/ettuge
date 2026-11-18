@@ -342,4 +342,4 @@ The chapter and book conclude (12.5 ತಿರುಳು) with an acknowledgement 
 *See also:*
 - *DNS Bhat word formation methodology:* [DNS_BHAT_WORD_FORMATION_PROMPT.md](../../README)
 - *DNS Bhat books analysis:* [dns-bhat-analysis.md](../../../dns-bhat-analysis)
-- *Book 03 (morphology):* [03/book/en/summary](../../03-kannaDa-padagaLa-oLaracane/book/en/summary)
+- *Book 03 (morphology):* [03/book/en/summary](../../../03-kannaDa-padagaLa-oLaracane/book/en/summary)

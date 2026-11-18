@@ -11,19 +11,19 @@
 
 | File | Contents |
 |------|----------|
-| [`book/kn/raw.md`](./book/kn/raw.md) | Raw OCR text (Nudi→Unicode via wx_decode.py) — do not edit |
-| [`book/kn/full.md`](./book/kn/full.md) | Structured Kannada text with 10-chapter TOC + `<a id>` anchors |
-| [`book/en/summary.md`](./book/en/summary.md) | Chapter-by-chapter English summary with key concepts table |
-| [`book/eke/full.md`](./book/eke/full.md) | Eke romanisation with TOC and all 10 chapters |
+| [`book/kn/raw.md`](./book/kn/raw) | Raw OCR text (Nudi→Unicode via wx_decode.py) — do not edit |
+| [`book/kn/full.md`](./book/kn/full) | Structured Kannada text with 10-chapter TOC + `<a id>` anchors |
+| [`book/en/summary.md`](./book/en/summary) | Chapter-by-chapter English summary with key concepts table |
+| [`book/eke/full.md`](./book/eke/full) | Eke romanisation with TOC and all 10 chapters |
 
 ---
 
 ## Where to Start
 
-- **Don't read Kannada?** → [`book/en/summary.md`](./book/en/summary.md) — English summary
-- **Want the phonetics?** → [`book/eke/full.md`](./book/eke/full.md) — Eke romanisation
-- **Full Kannada text?** → [`book/kn/full.md`](./book/kn/full.md)
+- **Don't read Kannada?** → [`book/en/summary.md`](./book/en/summary) — English summary
+- **Want the phonetics?** → [`book/eke/full.md`](./book/eke/full) — Eke romanisation
+- **Full Kannada text?** → [`book/kn/full.md`](./book/kn/full)
 
 ---
 
-[← Back to catalogue](../README.md)
+[← Back to catalogue](../)

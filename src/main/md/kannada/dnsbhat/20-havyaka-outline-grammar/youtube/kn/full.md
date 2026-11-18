@@ -12,7 +12,7 @@ nav_order: 120
 **Publisher:** Deccan College Postgraduate and Research Institute, Poona
 **Series:** Linguistic Survey of India Series, No. 5 (Code: LSI 151)
 **Pages:** ~151
-**Google Drive:** [09-havyaka-outline-grammar-1971.pdf](../../../../../../../../../Library/CloudStorage/GoogleDrive-vishwasms@gmail.com/My%20Drive/Books/DNS-Bhat/09-havyaka-outline-grammar-1971.pdf)
+**Google Drive:** 09-havyaka-outline-grammar-1971.pdf
 **Source:** Internet Archive (`unset0000unse_a3v7`)
 
 ---
@@ -68,5 +68,5 @@ the DjVu OCR text (may contain OCR errors).
 
 ## Related Works
 
-- [09 — Havyaka Kannada (popular Kannada version)](../09-havyaka-kannaDa/)
-- [19 — The Koraga Language](../19-the-koraga-language/) *(companion 1971 work)*
+- [09 — Havyaka Kannada (popular Kannada version)](../../../09-havyaka-kannaDa/)
+- [19 — The Koraga Language](../../../19-the-koraga-language/) *(companion 1971 work)*

@@ -9,8 +9,8 @@ title: "kannaDa barahavannu saripaDisONa — Eke"
 **prakaTaNe:** 2006 (modalaneya accu); 2009 (eraDaneya accu)  
 **prakASakaru:** bASAprakASana, heggoDAU, sAgara
 
-> mUla paThya (kannaDa lipi): [`../kn/full.md`](../kn/full.md)  
-> ingliS viSlEShaNe: [`../en/summary.md`](../en/summary.md)
+> mUla paThya (kannaDa lipi): [`../kn/full.md`](../kn/full)  
+> ingliS viSlEShaNe: [`../en/summary.md`](../en/summary)
 
 ---
 

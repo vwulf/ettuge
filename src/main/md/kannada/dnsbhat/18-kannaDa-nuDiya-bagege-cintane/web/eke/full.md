@@ -7,7 +7,7 @@ redirect_from:
 
 > **lEkhakaru:** DA. Di. en. Sankara baT  
 > **prakaTaNe:** dnshankarabhat.net (2014–2024)  
-> **sambandhita grantha:** [18 — kannaDa nuDiya bagege cintane](18-kannaDa-nuDiya-bagege-cintane)  
+> **sambandhita grantha:** [18 — kannaDa nuDiya bagege cintane](../../)  
 > **sangraha:** 13 bhAgagaLu labhya (saraNi sankhye: [11, 2, 3, 10, 14, 18, 20, 23, 27, 28, 29, 33, 35])
 
 ---

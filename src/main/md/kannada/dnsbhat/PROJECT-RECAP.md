@@ -56,7 +56,7 @@ His central argument, developed over 50 years: **Kannada grammar must be built f
 
 ## The Catalogue: 33 Known Works
 
-The full registry is in [`README.md`](./README.md). Summary:
+The full registry is in [`README.md`](./). Summary:
 
 | # | Short Title | Language | Key Topic | Text Status | Processed |
 |---|-------------|----------|-----------|-------------|-----------|

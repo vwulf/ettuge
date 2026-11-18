@@ -11,9 +11,9 @@
 
 | File | Contents |
 |------|----------|
-| [`youtube/kn/full.md`](./youtube/kn/full.md) | YouTube transcripts — Kannada — 23 parts (P1, P2, 1–21); 14 parts unavailable |
-| [`youtube/en/summary.md`](./youtube/en/summary.md) | English summary — quality assessment + available content |
-| [`claude-prompt.md`](./claude-prompt.md) | AI context primer |
+| [`youtube/kn/full.md`](./youtube/kn/full) | YouTube transcripts — Kannada — 23 parts (P1, P2, 1–21); 14 parts unavailable |
+| [`youtube/en/summary.md`](./youtube/en/summary) | English summary — quality assessment + available content |
+| [`claude-prompt.md`](./claude-prompt) | AI context primer |
 
 ---
 
@@ -26,4 +26,4 @@ The YouTube series was previously mis-shelved inside Book 07's folder. This is i
 
 ---
 
-[← Back to catalogue](../README.md)
+[← Back to catalogue](../)

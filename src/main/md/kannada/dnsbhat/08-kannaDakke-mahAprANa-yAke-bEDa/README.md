@@ -33,4 +33,4 @@ This was the **first fully structured book** in this collection and served as th
 
 ---
 
-[← Back to catalogue](../README.md)
+[← Back to catalogue](../)

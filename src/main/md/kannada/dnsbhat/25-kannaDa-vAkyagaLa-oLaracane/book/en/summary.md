@@ -287,4 +287,4 @@ The chapter surveys how Kannada's tense system (past/non-past for action verbs, 
 
 ---
 
-*This document is an English-language overview of D. N. Shankara Bhat's* ಕನ್ನಡ ವಾಕ್ಯಗಳ ಒಳರಚನೆ *(2004, 3rd edition 2012), based on the original Kannada text. The Kannada text can be read in the companion file* [25-kannaDa-vAkyagaLa-oLaracane-book.md](../kn/raw). *For the sister volume on word structure, see* [03-kannaDa-padagaLa-oLaracane-en.md](../../03-kannaDa-padagaLa-oLaracane/book/en/summary).
+*This document is an English-language overview of D. N. Shankara Bhat's* ಕನ್ನಡ ವಾಕ್ಯಗಳ ಒಳರಚನೆ *(2004, 3rd edition 2012), based on the original Kannada text. The Kannada text can be read in the companion file* [25-kannaDa-vAkyagaLa-oLaracane-book.md](../kn/raw). *For the sister volume on word structure, see* [03-kannaDa-padagaLa-oLaracane-en.md](../../../03-kannaDa-padagaLa-oLaracane/book/en/summary).

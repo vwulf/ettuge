@@ -12,7 +12,7 @@ title: "Kannada's Own Words for English Words — English Summary"
 **Pages:** 487
 **Source quality:** PDF (Nudi font → wx_decode.py conversion; English headwords partially garbled as `(cid:...)` artifacts; Kannada definitions mostly clean)
 
-> [← Back to folder](./../../README.md) | Kannada raw text: [book/kn/raw.md](../kn/raw.md)
+> [← Back to folder](../../) | Kannada raw text: [book/kn/raw.md](../kn/raw)
 
 ---
 
@@ -40,9 +40,9 @@ This is an earlier and more opinionated companion to Book 15 (*Inglish Kannada P
     - [3.4 Compound words and reduplication](#sec-compound)
   - [4. What makes this different from other dictionaries](#sec-difference)
 - [The A–Z Dictionary](#dictionary)
-  - [A](#dict-A)
-  - [B](#dict-B)
-  - [C through Z](#dict-CZ)
+  - [A](#dictionary)
+  - [B](#dictionary)
+  - [C through Z](#dictionary)
 - [Cross-References to Other DNS Bhat Works](#cross-refs)
 
 ---
@@ -195,7 +195,7 @@ The PDF was typeset in Nudi legacy font. After wx_decode.py conversion:
 - **Kannada definitions and examples**: mostly clean (~95%)
 - **English headwords**: many are clean (especially short common words), but many entries have `(cid:...)` artifacts in the English-word-side of entries — approximately 30–40% of entries are partially affected
 - **Part-of-speech abbreviations**: sometimes appear as garbled Nudi characters or Devanagari-like fragments (the PDF used multiple embedded fonts)
-- The raw decoded file at [`../kn/raw.md`](../kn/raw.md) preserves all content as-is; a future OCR pass or manual correction could restore the garbled headwords
+- The raw decoded file at [`../kn/raw.md`](../kn/raw) preserves all content as-is; a future OCR pass or manual correction could restore the garbled headwords
 
 ---
 
@@ -205,8 +205,8 @@ The PDF was typeset in Nudi legacy font. After wx_decode.py conversion:
 
 | Related Book | Connection |
 |---|---|
-| [15 — ಇಂಗ್ಲಿಶ್ ಕನ್ನಡ ಪದನೆರಕೆ](../15-ingliS-kannaDa-padanerake/) | The later, comprehensive (730pp, 2015) collaborative version of the same dictionary project — A–Z coverage with wider team |
-| [08 — ಕನ್ನಡಕ್ಕೆ ಮಹಾಪ್ರಾಣ ಯಾಕೆ ಬೇಡ](../08-kannaDakke-mahAprANa-yAke-bEDa/) | The linguistic argument underlying why Bhat avoids Sanskrit-borrowed *mahāprāṇa* consonants in new coinages |
-| [30 — ಕನ್ನಡ ಬರಹವನ್ನು ಸರಿಪಡಿಸೋಣ](../30-kannaDa-barahavannu-saripaDisONa/) | Script reform companion — explains the *hosa baraha* script Bhat uses throughout this dictionary |
-| [14 — ನಿಜಕ್ಕೂ ಹಳೆಗನ್ನಡ ವ್ಯಾಕರಣ ಎಂತಹದು](../14-nijakkU-haLegannaDa-vyAkaraNa-entahadu/) | Grammar framework — describes the native Kannada suffix system that underlies all the word formations in this dictionary |
-| [02 — ಕನ್ನಡ ನುಡಿಯ ಒಳರಚನೆ](../02-kannaDa-nuDiya-oLaracane/) | Structural analysis of Kannada — the theoretical basis for understanding what is "native" to Kannada vs. borrowed |
+| [15 — ಇಂಗ್ಲಿಶ್ ಕನ್ನಡ ಪದನೆರಕೆ](../../../15-ingliS-kannaDa-padanerake/) | The later, comprehensive (730pp, 2015) collaborative version of the same dictionary project — A–Z coverage with wider team |
+| [08 — ಕನ್ನಡಕ್ಕೆ ಮಹಾಪ್ರಾಣ ಯಾಕೆ ಬೇಡ](../../../08-kannaDakke-mahAprANa-yAke-bEDa/) | The linguistic argument underlying why Bhat avoids Sanskrit-borrowed *mahāprāṇa* consonants in new coinages |
+| [30 — ಕನ್ನಡ ಬರಹವನ್ನು ಸರಿಪಡಿಸೋಣ](../../../30-kannaDa-barahavannu-saripaDisONa/) | Script reform companion — explains the *hosa baraha* script Bhat uses throughout this dictionary |
+| [14 — ನಿಜಕ್ಕೂ ಹಳೆಗನ್ನಡ ವ್ಯಾಕರಣ ಎಂತಹದು](../../../14-nijakkU-haLegannaDa-vyAkaraNa-entahadu/) | Grammar framework — describes the native Kannada suffix system that underlies all the word formations in this dictionary |
+| [03 — ಕನ್ನಡ ಪದಗಳ ಒಳರಚನೆ](../../../03-kannaDa-padagaLa-oLaracane/) | Structural analysis of Kannada — the theoretical basis for understanding what is "native" to Kannada vs. borrowed |

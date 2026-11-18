@@ -55,10 +55,10 @@ redirect_from:
 
 ## ಸಂಬಂಧಿತ
 
-- [22 — Sound Change (English textbook)](../22-sound-change/) — ಇದೇ ವಿಶಯದ ಇಂಗ್ಲಿಶ್ ಗ್ರಂಥ
-- [08 — ಕನ್ನಡಕ್ಕೆ ಮಹಾಪ್ರಾಣ ಯಾಕೆ ಬೇಡ?](../08-kannaDakke-mahAprANa-yAke-bEDa/) — ಅನ್ವಯ: ಮಹಾಪ್ರಾಣ ವಿಲೀನ
-- [14 — ನಿಜಕ್ಕೂ ಹಳಗನ್ನಡ ವ್ಯಾಕರಣ](../14-nijakkU-haLegannaDa-vyAkaraNa-entahadu/) — ಹಳಗನ್ನಡ ಉಲಿ ವ್ಯವಸ್ಥೆ
-- [19 — The Koraga Language](../19-the-koraga-language/) — ದ್ರಾವಿಡ ತುಲನಾತ್ಮಕ ಉಲಿ ವಿಶ್ಲೇಷಣೆ
+- [22 — Sound Change (English textbook)](../../../22-sound-change/) — ಇದೇ ವಿಶಯದ ಇಂಗ್ಲಿಶ್ ಗ್ರಂಥ
+- [08 — ಕನ್ನಡಕ್ಕೆ ಮಹಾಪ್ರಾಣ ಯಾಕೆ ಬೇಡ?](../../../08-kannaDakke-mahAprANa-yAke-bEDa/) — ಅನ್ವಯ: ಮಹಾಪ್ರಾಣ ವಿಲೀನ
+- [14 — ನಿಜಕ್ಕೂ ಹಳಗನ್ನಡ ವ್ಯಾಕರಣ](../../../14-nijakkU-haLegannaDa-vyAkaraNa-entahadu/) — ಹಳಗನ್ನಡ ಉಲಿ ವ್ಯವಸ್ಥೆ
+- [19 — The Koraga Language](../../../19-the-koraga-language/) — ದ್ರಾವಿಡ ತುಲನಾತ್ಮಕ ಉಲಿ ವಿಶ್ಲೇಷಣೆ
 
 ## ಸಂಗ್ರಹ ಸ್ಥಿತಿ
 
