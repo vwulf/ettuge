@@ -105,7 +105,8 @@ def eke(kana):
             cons = EKE_C.get(t[1], t[1])
             out.append(cons + (EKE_V[t[2]] if t[3] else t[2]))
         elif t[0] == "N":
-            out.append("n")
+            nxt = toks[n + 1] if n + 1 < len(toks) else None
+            out.append("m" if nxt and nxt[0] == "m" and nxt[1] in ("p", "b", "m") else "n")
         elif t[0] == "Q":
             nxt = toks[n + 1] if n + 1 < len(toks) else None
             if nxt and nxt[0] == "m" and nxt[1]:
