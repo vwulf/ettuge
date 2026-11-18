@@ -1,79 +1,66 @@
 # ettuge
 
-[ettuge](https://github.com/vwulf/ettuge/) is a personal knowledge garden sitting at the intersection of language, computation, and creativity. It collects explorations in Kannada linguistics, functional programming, visual art, and reflective reading — all held together by a curiosity about how structure gives rise to meaning.
+ettuge is a personal knowledge garden at the intersection of language, computation and close reading, held together by curiosity about how structure gives rise to meaning.
 
-All readable documents live under [`src/main/md`](https://github.com/vwulf/ettuge/blob/master/src/main/md). What follows is a guided tour through the most interesting stops.
-
----
-
-## Reflection & Books
-
-### [Self reflection](https://github.com/vwulf/ettuge/blob/master/src/main/md/self-reflection/README.md)
-
-A large, sprawling personal notes file — links, snippets, ideas, and observations accumulated from 2021 to 2024 — has been distilled into topic-based files here. Subjects range across Kannada linguistics and Indian history, functional programming and machine learning, mathematics and algorithms, infrastructure and health. Think of it as a public externalisation of a working mind: not polished essays, but the connective tissue between reading, thinking, and building.
-
-### [Books](https://github.com/vwulf/ettuge/blob/master/src/main/md/Books/Books.md)
-
-A curated catalog of books that have genuinely changed how the author thinks — organized by author with inline summaries and links to individual files containing deeper analysis and personal takeaways. The list spans Western fiction (Camus, Hemingway, Fitzgerald), Kannada and Indian literature, classical Indian texts, D. N. Shankara Bhat's linguistics works, science, history, mathematics, and martial arts. It is as much a record of an intellectual biography as it is a reading list.
+**Read it at [vwulf.github.io/ettuge](https://vwulf.github.io/ettuge/).** This repository holds the sources: Markdown under [`src/main/md`](src/main/md), which a GitHub Actions workflow turns into the site. The sections below follow the site's sidebar, in the same order.
 
 ---
 
-## Functional Programming, Category Theory & Programming Languages
+## [Deep Dives](https://vwulf.github.io/ettuge/Deep-Dives/)
 
-This repository doubles as a running notebook for functional programming ideas, worked out mostly in Haskell but drawing on Scala, lambda calculus, and category theory wherever they illuminate the concept best.
+Close readings of papers and books, written up after the fact. Each entry gives the claim, how it works, and what is still open. Source: [`src/main/md/deep-dives`](src/main/md/deep-dives).
 
-### [Forays into FP](https://github.com/vwulf/ettuge/blob/master/src/main/md/pl/FP.md)
+- **[Mathematics](https://vwulf.github.io/ettuge/Deep-Dives/math)**: the 2026 AI-math results (Unique Games, the ETH refutation, quasi-RH), complexity and number theory, Navier–Stokes and Yang–Mills, and what Lean checking does and doesn't settle
+- **[AI and Machine Learning](https://vwulf.github.io/ettuge/Deep-Dives/ai)**: transformer theory, attention as an algorithm, compositional structure, interpretability, architecture, training at scale, serving and decision models
+- **[Health and Fitness](https://vwulf.github.io/ettuge/Deep-Dives/fitness)**: protein and longevity, body composition and DXA, active rest, lactate and the heart, training intensity, *Outlive* against the papers
+- **[Ellara Kannada](https://vwulf.github.io/ettuge/Deep-Dives/ellara-kannada)**: DNS Bhat's grammar applied to Pampa, the two kinds of "we", auxiliaries, Sangam Tamil in Eke, the ಎ-ಎಣಿಕೆ notation, tense–aspect–mood against Chomsky
+- **[Textbooks](https://vwulf.github.io/ettuge/Deep-Dives/textbooks/)**: more than 70 textbooks broken down book → chapter → section → PDF pages, grouped by subject (AI and ML, computer science, mathematics, linguistics, physics)
+- **[Karate › Reading the sources](https://vwulf.github.io/ettuge/karate/50-reading-the-sources)**: Motobu, Nagamine and Quast, read between the lines
 
-Every programmer who has spent time in imperative languages and then stumbled into functional programming knows the disorientation: the vocabulary is familiar but the grammar is completely different. This piece traces one such journey — from C++ templates and Python comprehensions, through Scala at a startup, to the slowly-dawning realization that functional programming requires rethinking what "programming" means at all. It is a good place to start if you want context for the more technical pieces that follow.
+## [ಕನ್ನಡ — Language and DNS Bhat](https://vwulf.github.io/ettuge/kannaDa/)
 
-### [Reading types in Haskell](https://github.com/vwulf/ettuge/blob/master/src/main/md/haskell/reflection.md)
+Source: [`src/main/md/kannada`](src/main/md/kannada).
 
-Types are Haskell's primary language for stating intentions. This is a hands-on session transcript that walks through how to *read* types interactively — using the GHC interpreter as a conversation partner — rather than just accepting what the compiler infers. Even Kannada characters (ಅ, ಆ, …) are fed to the type-checker, turning the exercise into a small celebration of Unicode and the universality of Haskell's type system.
+- **[Dr. D. N. Shankara Bhat — digital archive](https://vwulf.github.io/ettuge/kannaDa/dnsbhat/)**: all 33 known works by the linguist whose central argument is that Kannada grammar must be built from Kannada's own structure. Transcripts, recovered blog posts and OCR'd books, each with structured Kannada text, Eke romanisation and an English summary. The [catalogue](src/main/md/kannada/dnsbhat/README.md) gives each book's status, and the [project recap](docs/dnsbhat/PROJECT-RECAP.md) documents the pipeline: OCR, legacy-font decoding, cross-link audits and Eke romanisation.
+- **[Eke — a romanisation for Kannada](https://vwulf.github.io/ettuge/kannaDa/eke/reference)**: a lightweight scheme between informal internet habits and Harvard-Kyoto, following Bhat's *Ellara Kannada* in dropping aspirates that natural Kannada speech doesn't have. Full specification: [`Eke.md`](src/main/md/kannada/Eke.md).
+- **[Grammar](https://vwulf.github.io/ettuge/kannaDa/grammar/)**: illustrated verb paradigms (ಮಾಡು, ಇರು, ಇಲ್ಲ) and Bhat's framework compared with others.
+- **[Zero Speculation](https://vwulf.github.io/ettuge/kannaDa/eke/zero-speculation-illustrated.html)**: an essay linking the Tamil *puḷḷi*, the possible Dravidian etymology of *śūnya* and the K-127 Cambodia inscription (683 CE) to argue that the substrate for zero may be older and Dravidian.
 
-### [Morphisms, diamonds and kannaDa](https://github.com/vwulf/ettuge/blob/master/src/main/md/haskell/%E0%B2%95%E0%B2%B3%E0%B3%8D%E0%B2%B3.md)
+## [CS & AI](https://vwulf.github.io/ettuge/FP/)
 
-A puzzle from a recreational mathematics book becomes the staging ground for an excursion into morphisms — the structure-preserving maps that category theory places at the centre of everything. The code is in Haskell; the puzzle is stated in the style of Scheherazade; and the Kannada title hints that the thief in the story is none other than the diamond itself. Language, mathematics, and storytelling braid together here more tightly than you might expect.
+Articles and deep dives on programming-language theory, algebra and categories, algorithms, effects in LLM systems and formal proof, worked out mostly in Haskell, Scala and Lean. Sources: [`src/main/md/pl`](src/main/md/pl) (topic pages in [`pl/buckets`](src/main/md/pl/buckets)), [`haskell`](src/main/md/haskell) and [`kojo`](src/main/md/kojo).
 
-### [Monoids are everywhere](https://github.com/vwulf/ettuge/blob/master/src/main/md/haskell/monoids-and-semigroups.md)
+- **[Foundations: λ-calculus and Types](https://vwulf.github.io/ettuge/FP/bucket-foundations)**: ॐλ, reduction strategies, fixed points, parsers that terminate
+- **[Algebra and Categories](https://vwulf.github.io/ettuge/FP/bucket-algebra-categories)**: monoids, applicatives vs monads, representable functors, Yoneda, Kan extensions, adjunctions, Poly, Markov and traced categories, Funcformer
+- **[Algorithms, Functionally](https://vwulf.github.io/ettuge/FP/bucket-algorithms)**: lazy min-k, the ಕಳ್ಳ pumpkin puzzle, Bird–Gibbons vs CLRS, recursion schemes
+- **[Effects and LLM Systems](https://vwulf.github.io/ettuge/FP/bucket-effects-llm)**: λ-RLM, RLM and Context LMs, DSPy as effects, decision models, languages for agents
+- **[Proof and Formalization](https://vwulf.github.io/ettuge/FP/bucket-proof-formalization)**: Lean, autoformalization, Rocq proofs over compiled binaries
+- **[Creative Coding](https://vwulf.github.io/ettuge/FP/bucket-creative-coding)**: *rangapura vihAra* in Euterpea, Kojo turtle graphics
 
-Addition of integers. Concatenation of strings. Merging of sets. These all look different on the surface, but each is an instance of the same algebraic pattern: a semigroup (an associative operation) and, if a neutral element exists, a monoid. This piece makes the case — with concrete numeric examples — that these abstractions are not academic overhead but practical design tools that let you write generic, composable code. Once you see monoids everywhere, you cannot unsee them.
+## [Books](https://vwulf.github.io/ettuge/Books/Books)
 
-### [A lazy take on (un)fold](https://github.com/vwulf/ettuge/blob/master/src/main/md/haskell/qsortof.md)
+A [catalog of books](src/main/md/Books/Books.md) that changed how the author thinks, with summaries and takeaways. Alongside it are the [technical shelf](src/main/md/Books/Technical.md) and the [papers](src/main/md/Books/Papers.md) behind the deep dives, marked 🔍.
 
-Finding the *k* smallest elements of a list sounds like a job for sorting — but sorting does more work than necessary. This exploration starts with a one-liner in *Real World Haskell*, digs into the difference between `foldl`, `foldl'`, and `foldr`, and ends up with a lazy quicksort whose elegance lies in doing exactly as much work as the caller demands and no more. A good illustration of why laziness is not just a performance trick but a different way of thinking about computation.
+## [Karate](https://vwulf.github.io/ettuge/karate/)
 
-### [rangapura vihAra](https://github.com/vwulf/ettuge/blob/master/src/main/md/haskell/hsom.md)
+An ongoing series on Matsubayashi-ryū karate and kobudō: kata attribution, terminology, training structure and reflections. Source: [`src/main/md/karate`](src/main/md/karate).
 
-What happens when you use a functional programming DSL to compose music? This piece follows the Euterpea library (*Haskell School of Music*) from "Twinkle Twinkle Little Star" to an attempt at encoding a Carnatic fusion rendition of *Rangapura Vihara* — a bhairavi raga piece that straddles classical and contemporary sensibilities. Music theory and Haskell type theory turn out to share a surprising amount of vocabulary.
+## [Reflection](https://vwulf.github.io/ettuge/Reflection/)
 
-### [ॐλ](https://github.com/vwulf/ettuge/blob/master/src/main/md/pl/%E0%A5%90%CE%BB.md)
+Raw notes: years of reading and bookmarking, exported from a Signal self-channel and sorted by topic but otherwise unprocessed. The processed versions live under Deep Dives. Source: [`src/main/md/self-reflection`](src/main/md/self-reflection).
 
-Lambda calculus is the bedrock beneath every functional language — a system so minimal (just abstraction and application) that it can express anything computable. This piece keeps returning to that bedrock: Y combinators, reduction strategies (WHNF, HNF, NF), the difference between eager and lazy evaluation, and the fixed points that turn self-referential expressions into recursion. The title pairs the Sanskrit *ॐ* (the primordial sound, implying wholeness) with *λ* (the symbol of abstraction), suggesting that in the lambda calculus, as in non-dual philosophy, all distinctions ultimately reduce to one.
+## [Tinkering](https://vwulf.github.io/ettuge/Tinkering/)
 
----
+Hardware and making posts, starting with a Diwali postmortem on a clap-activated diya. Source: [`src/main/md/tinkering`](src/main/md/tinkering).
 
-## Language & DNS Bhat
+## [日本語](https://vwulf.github.io/ettuge/nihongo/)
 
-### [Eke — a romanization proposal for Kannada](https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/Eke.md)
-
-Informal Kannada writing on the internet has drifted into a loose collection of ad-hoc conventions. *Eke* (ಏಕೆ) is a principled yet lightweight romanization scheme designed by Vishwas, bridging the gap between these informal habits and the more rigorous Harvard-Kyoto protocol. It draws on the principles of D. N. Shankara Bhat's *Ellara Kannada* movement and the *Hosabaraha* orthography — which advocate for a written form closer to how the language is actually spoken, dropping aspirated consonants that do not exist in natural speech. Whether you type Kannada on a phone or a terminal, Eke offers a consistent, typable representation that stays faithful to the spoken word.
-
-### [Dr. D. N. Shankara Bhat — digital archive](https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/dnsbhat/)
-
-Dr. D. N. Shankara Bhat (1931–) is the towering figure in modern Kannada linguistics — winner of the Pampa Award, holder of positions at Stanford, the Max Planck Institute, Oxford, and Deccan College, and the author of 29 known works spanning native Kannada grammar, script reform, historical phonology, word formation, and international typology. His central argument, developed over 50 years, is that Kannada grammar must be built from Kannada's own structure rather than borrowed Sanskrit or English frameworks.
-
-This repository contains a systematic effort to collect, digitise, and make accessible his complete works: YouTube transcripts, blog posts recovered from dnshankarabhat.net via the Wayback Machine, full-text extractions from archive.org, and Sarvam Vision OCR runs on 8 PDFs using the `kn-IN` model (totalling ~1.9 million Kannada Unicode characters). Each processed book has four companion files — a structured Kannada text, an Eke romanisation, an English summary, and an AI context primer. The [portal](https://vwulf.github.io/ettuge/) & [book catalogue](https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/dnsbhat/README.md) covers all 29 works with collection status; the [project recap](https://github.com/vwulf/ettuge/blob/master/src/main/md/kannada/dnsbhat/PROJECT-RECAP.md) documents the full pipeline — OCR, WX font decoding, cross-link audit, and Eke romanisation methodology.
-
----
-
-## Visual Creativity
-
-### [Kojo](https://github.com/vwulf/ettuge/blob/master/src/main/md/kojo/cloud_flowers_and.md)
-
-Kojo is a Scala-based learning environment that descends from Logo — the turtle-graphics language that introduced a generation of children to programming through drawing. This section collects generated images: clouds and flowers, random polygons, ladder patterns, and a worm. The code is simple enough for a beginner and playful enough to remind experienced programmers why they fell in love with the craft. Kojo also serves as a gentle on-ramp to Scala's functional idioms in a visual context.
+The Japanese writing system, read through Kannada: every kana beside its matching ಕನ್ನಡ akshara and Eke spelling, and a searchable page of all 2,136 jōyō kanji. Source: [`src/main/md/nihongo`](src/main/md/nihongo).
 
 ---
 
-## Deep Dive
+## How the site is built
 
-For a full map of the repository — its directory structure, active development threads, tooling, and the DNS Bhat methodology that underpins the Kannada translation work — see the [project guide](https://github.com/vwulf/ettuge/blob/master/CLAUDE.md).
+- **Workflow:** [`.github/workflows/pages.yml`](.github/workflows/pages.yml) copies the sources into `docs/`, splits long pages into chapters, writes the sidebar front matter and builds with Jekyll ([just-the-docs](https://just-the-docs.com/)). Source files carry no front matter unless their section says otherwise.
+- **Before pushing:** `python3 .claude/skills/ettuge-pre-deploy-check/scripts/sanity_check.py` checks the config, the sidebar orders and the source files the workflow expects.
+- **For contributors and Claude sessions:** [`CLAUDE.md`](CLAUDE.md) has the full project guide: directory layout, the DNS Bhat methodology, Eke rules and the transcript pipeline.
