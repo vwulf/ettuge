@@ -5,7 +5,7 @@
 **Read by:** Malati Bhat
 **Published:** 2019 · 104 pages
 **Source quality:** ⚠️ Mostly garbled live-lecture auto-captions; no prose recoverable from transcripts
-**Transcript:** [`youtube/kn/full.md`](../kn/full.md)
+**Transcript:** [`youtube/kn/full.md`](../kn/full)
 
 > **Source Limitations:** The overview below is drawn primarily from the book's website description (`description-raw.md` from the Wayback Machine archive of dnshankarabhat.net). The 21-part YouTube transcript series (Parts P1, P2, 1–19) is essentially unusable: 9 parts are completely unavailable, and the remaining parts are garbled auto-captions mixing Hindi fragments, random proper nouns, and mis-identified audio. No sustained prose from the book can be recovered from the transcripts. Only scattered keyword signals (ವ್ಯಾಕರಣ, ಇಂಗ್ಲಿಷ್ ಮಾಧ್ಯಮ, ಜಪಾನ್/ಚೀನ/ಕೊರಿಯಾ) confirm the general topic. Content marked "from transcript" below represents keyword inference only, not recovered text.
 

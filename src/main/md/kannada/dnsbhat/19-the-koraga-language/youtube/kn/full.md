@@ -14,7 +14,7 @@ redirect_from:
 **Publisher:** Deccan College Postgraduate and Research Institute, Poona
 **Pages:** 123
 **Website:** [dnshankarabhat.net](https://dnshankarabhat.net/the-koraga-language/) *(archived snapshot available)*
-**Google Drive:** [the-koraga-language.pdf](../../../../../../../../../Library/CloudStorage/GoogleDrive-vishwasms@gmail.com/My%20Drive/Books/DNS-Bhat/the-koraga-language.pdf)
+**Google Drive:** the-koraga-language.pdf
 **Archive.org:** Not yet found — check `koraga language.pdf` in Books folder
 
 ---
@@ -60,6 +60,6 @@ This is one of DNS Bhat's early English-language academic works, documenting an 
 
 ## Related Works
 
-- [09 — Havyaka Kannada](../09-havyaka-kannaDa/) *(another regional language study)*
-- [20 — Havyaka Outline Grammar 1971](../20-havyaka-outline-grammar/) *(companion academic work from same year)*
-- [21 — Pronouns (Oxford)](../21-dns-bhat-pronouns/) *(later major academic work)*
+- [09 — Havyaka Kannada](../../../09-havyaka-kannaDa/) *(another regional language study)*
+- [20 — Havyaka Outline Grammar 1971](../../../20-havyaka-outline-grammar/) *(companion academic work from same year)*
+- [21 — Pronouns (Oxford)](../../../21-dns-bhat-pronouns/) *(later major academic work)*

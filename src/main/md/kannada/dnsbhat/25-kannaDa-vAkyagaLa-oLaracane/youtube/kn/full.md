@@ -36,9 +36,9 @@ redirect_from:
 
 ## ಸಂಬಂಧಿತ
 
-- [01 — ಇದು ಕನ್ನಡದ್ದೇ ವ್ಯಾಕರಣ](../01-idu-kannaDaddE-vyAkaraNa/) — ವ್ಯಾಕರಣ ಚೌಕಟ್ಟು
-- [03 — ಕನ್ನಡ ಪದಗಳ ಒಳರಚನೆ](../03-kannaDa-padagaLa-oLaracane/) — ಪದ ಮಟ್ಟ
-- [24 — Grammatical Relations](../24-grammatical-relations/) — ಸಾರ್ವಲೌಕಿಕ ವಾದ
+- [01 — ಇದು ಕನ್ನಡದ್ದೇ ವ್ಯಾಕರಣ](../../../01-idu-kannaDaddE-vyAkaraNa/) — ವ್ಯಾಕರಣ ಚೌಕಟ್ಟು
+- [03 — ಕನ್ನಡ ಪದಗಳ ಒಳರಚನೆ](../../../03-kannaDa-padagaLa-oLaracane/) — ಪದ ಮಟ್ಟ
+- [24 — Grammatical Relations](../../../24-grammatical-relations/) — ಸಾರ್ವಲೌಕಿಕ ವಾದ
 
 ## ಸಂಗ್ರಹ ಸ್ಥಿತಿ
 

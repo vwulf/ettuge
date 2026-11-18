@@ -13,7 +13,7 @@ nav_order: 132
 **Pages:** 198 (+ front matter)
 **Source quality:** Clean digital PDF; full text extractable
 
-> [← Back to folder](./../../README.md)
+> [← Back to folder](../../)
 
 ---
 
@@ -455,8 +455,8 @@ A major section examining how the same surface distinction is interpreted differ
 
 | Related Book | Connection |
 |---|---|
-| [08 — ಕನ್ನಡಕ್ಕೆ ಮಹಾಪ್ರಾಣ ಯಾಕೆ ಬೇಡ](../08-kannaDakke-mahAprANa-yAke-bEDa/) | This typological work is the academic foundation for the *mahāprāṇa* argument: Kannada is tense-prominent Dravidian and its grammar reflects that, not Sanskrit's mood/aspect systems |
-| [14 — ನಿಜಕ್ಕೂ ಹಳೆಗನ್ನಡ ವ್ಯಾಕರಣ ಎಂತಹದು](../14-nijakkU-haLegannaDa-vyAkaraNa-entahadu/) | Direct application: the grammar of Old Kannada should be analysed using tense-prominence framework, not Sanskrit *vibhakti*-based grammar |
-| [18 — ಕನ್ನಡ ನುಡಿಯ ಬಗೆಗೆ ಚಿಂತನೆ](../18-kannaDa-nuDiya-bagege-cintane/) | Popularization of the same arguments for general Kannada-speaking audience |
-| [02 — ಕನ್ನಡ ನುಡಿಯ ಒಳರಚನೆ](../02-kannaDa-nuDiya-oLaracane/) | Structural description of Kannada that applies the tense-prominence framework to native Kannada grammar |
-| [04 — ಮಾತು ಮತ್ತು ಬರಹದ ನಡುವಿನ ಗೊಂದಲ](../04-mAtu-mattu-barahada-naDuvina-gondala/) | The confusion between speech and writing connects to the confusion between Sanskrit-based and Kannada-based grammatical descriptions |
+| [08 — ಕನ್ನಡಕ್ಕೆ ಮಹಾಪ್ರಾಣ ಯಾಕೆ ಬೇಡ](../../../08-kannaDakke-mahAprANa-yAke-bEDa/) | This typological work is the academic foundation for the *mahāprāṇa* argument: Kannada is tense-prominent Dravidian and its grammar reflects that, not Sanskrit's mood/aspect systems |
+| [14 — ನಿಜಕ್ಕೂ ಹಳೆಗನ್ನಡ ವ್ಯಾಕರಣ ಎಂತಹದು](../../../14-nijakkU-haLegannaDa-vyAkaraNa-entahadu/) | Direct application: the grammar of Old Kannada should be analysed using tense-prominence framework, not Sanskrit *vibhakti*-based grammar |
+| [18 — ಕನ್ನಡ ನುಡಿಯ ಬಗೆಗೆ ಚಿಂತನೆ](../../../18-kannaDa-nuDiya-bagege-cintane/) | Popularization of the same arguments for general Kannada-speaking audience |
+| [03 — ಕನ್ನಡ ಪದಗಳ ಒಳರಚನೆ](../../../03-kannaDa-padagaLa-oLaracane/) | Structural description of Kannada that applies the tense-prominence framework to native Kannada grammar |
+| [04 — ಮಾತು ಮತ್ತು ಬರಹದ ನಡುವಿನ ಗೊಂದಲ](../../../04-mAtu-mattu-barahada-naDuvina-gondala/) | The confusion between speech and writing connects to the confusion between Sanskrit-based and Kannada-based grammatical descriptions |

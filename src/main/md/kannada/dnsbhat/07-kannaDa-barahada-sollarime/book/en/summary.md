@@ -39,7 +39,7 @@ redirect_from:
   - [1.2 The Many Varieties of Kannada](#12-the-many-varieties-of-kannada)
   - [1.3 Speech and Writing](#13-speech-and-writing)
   - [1.4 The Writing System](#14-the-writing-system)
-  - [1.5–1.7 Sounds, Letters, Sandhi, Punctuation](#15-17-sounds-letters-sandhi-punctuation)
+  - [1.5–1.7 Sounds, Letters, Sandhi, Punctuation](#1517-sounds-letters-sandhi-punctuation)
 - [Chapter 2 — Word Structure: Nouns (ಪದಗಳ ಇಟ್ಟಳ: ಹೆಸರುಪದಗಳು)](#chapter-2--word-structure-nouns)
   - [2.1 Overview](#21-overview)
   - [2.2 Sandhi Rules](#22-sandhi-rules)
@@ -50,10 +50,10 @@ redirect_from:
   - [3.2 Verbs](#32-verbs)
   - [3.3 Compound Verbs](#33-compound-verbs)
   - [3.4 Qualifiers](#34-qualifiers)
-  - [3.5–3.6 Demonstratives, Numerals, Loanwords](#35-36-demonstratives-numerals-loanwords)
+  - [3.5–3.6 Demonstratives, Numerals, Loanwords](#3536-demonstratives-numerals-loanwords)
 - [Chapter 4 — Inflectional Forms (ಪದರೂಪಗಳ ಇಟ್ಟಳ)](#chapter-4--inflectional-forms)
   - [4.2 Verb Forms](#42-verb-forms)
-  - [4.3–4.7 Finite Forms, Tense, Agreement, Non-Finite Forms](#43-47-finite-forms-tense-agreement-and-non-finite-forms)
+  - [4.3–4.7 Finite Forms, Tense, Agreement, Non-Finite Forms](#4347-finite-forms-tense-agreement-and-non-finite-forms)
   - [4.8 Noun Forms and Case Suffixes](#48-noun-forms-and-case-suffixes)
 
 **Volume 2** — Verb Usage, Noun Phrase Structure
@@ -61,10 +61,10 @@ redirect_from:
 - [Chapter 5 — Verb Usage (ಎಸಕಪದಗಳ ಬಳಕೆ)](#chapter-5--verb-usage)
   - [5.1 Overview of Verb Forms and Auxiliaries](#51-overview-of-verb-forms-and-auxiliaries)
   - [5.2 Tense Reference](#52-tense-reference)
-  - [5.3–5.5 Aspect, Modality, Negation](#53-55-aspect-modality-and-negation)
+  - [5.3–5.5 Aspect, Modality, Negation](#5355-aspect-modality-and-negation)
 - [Chapter 6 — Noun Phrase Structure (ಪದಕಂತೆಗಳ ಇಟ್ಟಳ)](#chapter-6--noun-phrase-structure)
-  - [6.1–6.3 Verb Arguments and Semantic Roles](#61-63-verb-arguments-and-semantic-roles)
-  - [6.4–6.6 Case Semantics](#64-66-case-semantics)
+  - [6.1–6.3 Verb Arguments and Semantic Roles](#6163-verb-arguments-and-semantic-roles)
+  - [6.4–6.6 Case Semantics](#6466-case-semantics)
 
 **Volume 3** — Syntax Part 1 → [Full summary: vol3/en/summary](../vol3/en/summary)
 
@@ -389,4 +389,4 @@ For chapter-by-chapter detail, see the dedicated **[Volume 4 English summary](..
 
 ---
 
-*This document is an English-language overview of D. N. Shankara Bhat's* ಕನ್ನಡ ಬರಹದ ಸೊಲ್ಲರಿಮೆ *(2010–2019, 7 volumes; 4 available digitally). Volume 1 full text: [vol1/kn/full](../vol1/kn/full). Volume 2 full text: [vol2/kn/full](../vol2/kn/full). Volume 3 full text and detailed summary: [vol3/kn/full](../vol3/kn/full) · [vol3/en/summary](../vol3/en/summary). Volume 4 full text and detailed summary: [vol4/kn/full](../vol4/kn/full) · [vol4/en/summary](../vol4/en/summary). For the related one-volume grammar see* [Book 33 — ಕನ್ನಡ ಸೊಲ್ಲರಿಮೆ](../../33-kannaDa-sollarime/). *For other DNS Bhat books in this collection, see the* [dnsbhat directory](../../README).
+*This document is an English-language overview of D. N. Shankara Bhat's* ಕನ್ನಡ ಬರಹದ ಸೊಲ್ಲರಿಮೆ *(2010–2019, 7 volumes; 4 available digitally). Volume 1 full text: [vol1/kn/full](../vol1/kn/full). Volume 2 full text: [vol2/kn/full](../vol2/kn/full). Volume 3 full text and detailed summary: [vol3/kn/full](../vol3/kn/full) · [vol3/en/summary](../vol3/en/summary). Volume 4 full text and detailed summary: [vol4/kn/full](../vol4/kn/full) · [vol4/en/summary](../vol4/en/summary). For the related one-volume grammar see* [Book 33 — ಕನ್ನಡ ಸೊಲ್ಲರಿಮೆ](../../../33-kannaDa-sollarime/). *For other DNS Bhat books in this collection, see the* [dnsbhat directory](../../README).

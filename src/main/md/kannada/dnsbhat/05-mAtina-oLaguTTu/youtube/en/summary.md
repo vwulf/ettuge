@@ -107,7 +107,7 @@ redirect_from:
   - Example: *kere* (lake) → *keri* in Dharwad Kannada (vowel lowering, *a→i* shift in final position)
   - Nanjangud Kannada drops the *h-* sound: *hOgu* → *Ogu*, *hELu* → *ELu*
   - These variations are systematic, not random — each dialect has its own regular rules
-- **Part 18**: Verb paradigm variation across dialects — tense forms differ systematically. Coastal dialect verb forms diverge from standard *bareha kannaDa* forms in predictable ways; this parallels what DNS Bhat examines in depth in the Havyaka Kannada book ([Book 09](../../../09-havyaka-kannaDa/book/en/summary))
+- **Part 18**: Verb paradigm variation across dialects — tense forms differ systematically. Coastal dialect verb forms diverge from standard *bareha kannaDa* forms in predictable ways; this parallels what DNS Bhat examines in depth in the Havyaka Kannada book ([Book 09](../../../09-havyaka-kannaDa/youtube/en/summary))
 - **Part 19**: Further dialect comparisons — north Karnataka vs. south Karnataka phonological contrasts
 - Parts 20–21 continue this comparative framework by zooming out to the level of language families (see Theme 5)
 
@@ -235,10 +235,10 @@ redirect_from:
 
 | Related Book | Connection |
 |---|---|
-| [04 — Mathu Matthu Barahada Naduvina Gondala](../../../04-mAtu-mattu-barahada-naDuvina-gondala/book/en/summary) | Directly extends this book's speech-vs-writing theme; argues the confusion between spoken and written language causes policy errors in Kannada |
+| [04 — Mathu Matthu Barahada Naduvina Gondala](../../../04-mAtu-mattu-barahada-naDuvina-gondala/youtube/en/summary) | Directly extends this book's speech-vs-writing theme; argues the confusion between spoken and written language causes policy errors in Kannada |
 | [07 — Kannadada Sollarime](../../../07-kannaDa-barahada-sollarime/book/en/summary) | Provides the full grammatical framework for Kannada word classes and syntax that this book introduces accessibly |
 | [08 — Kannadakke Mahaprana Yake Beda](../../../08-kannaDakke-mahAprANa-yAke-bEDa/book/en/summary) | Extends the argument about Sanskrit borrowing and aspirate distinction: Kannada doesn't need Sanskrit's mahaprana letters |
-| [09 — Havyaka Kannada](../../../09-havyaka-kannaDa/book/en/summary) | Deep-dive into dialect variation — the Havyaka case study elaborates the dialectology introduced here in Theme 4 |
+| [09 — Havyaka Kannada](../../../09-havyaka-kannaDa/youtube/en/summary) | Deep-dive into dialect variation — the Havyaka case study elaborates the dialectology introduced here in Theme 4 |
 | [14 — Nijakku Halegannada Vyakarana Entahadu](../../../14-nijakkU-haLegannaDa-vyAkaraNa-entahadu/book/en/summary) | Old Kannada grammar — the historical layer that underlies the phonological changes discussed here |
 
 ---

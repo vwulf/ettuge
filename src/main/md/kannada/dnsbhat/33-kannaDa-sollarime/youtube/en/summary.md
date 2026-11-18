@@ -5,7 +5,7 @@
 **Read by:** Malati Bhat
 **Published:** Unknown · Pages: Unknown · **PDF:** Not available
 **Source quality:** ⚠️ Mostly garbled live-lecture auto-captions; ~14 of 23 parts unavailable
-**Transcript:** [`youtube/kn/full.md`](../kn/full.md)
+**Transcript:** [`youtube/kn/full.md`](../kn/full)
 
 > **Source Limitations:** No book text (PDF, OCR, or blog) exists for this title. The YouTube
 > transcript is a live-lecture series with heavy ASR errors — the same pattern as Books 06, 10, 11.
@@ -40,7 +40,7 @@ This YouTube lecture series presents DNS Bhat's Kannada grammar in 23 parts (P1,
 | 1 | [Watch](https://www.youtube.com/watch?v=...) | ❌/⚠️ See transcript |
 | 2–21 | Various | Mix of unavailable and garbled parts |
 
-*(For per-part YouTube links, see [`youtube/kn/full.md`](../kn/full.md))*
+*(For per-part YouTube links, see [`youtube/kn/full.md`](../kn/full))*
 
 ---
 
@@ -64,4 +64,4 @@ This YouTube lecture series presents DNS Bhat's Kannada grammar in 23 parts (P1,
 |------|-----------|
 | [07 — kannaDa barahada sollarime](../../../07-kannaDa-barahada-sollarime/) | Related 7-volume grammar with same Dravidian framework; has OCR text for vols 1+2 |
 | [01 — idu kannaDaddE vyAkaraNa](../../../01-idu-kannaDaddE-vyAkaraNa/) | 2021 single-volume consolidation of Book 07 — best source for the grammar framework |
-| [28 — kannaDakke bEku kannaDaddE vyAkaraNa](../../28-kannaDakke-bEku/) | Earlier shorter grammar (2000/2013) — possible predecessor |
+| [28 — kannaDakke bEku kannaDaddE vyAkaraNa](../../../28-kannaDakke-bEku/) | Earlier shorter grammar (2000/2013) — possible predecessor |

@@ -29,7 +29,7 @@ redirect_from:
 <a id="preface"></a>
 
 ## munnuDi — triSanku padagaLa toDaku
-[↑ oLapiDige hintirugi](#oLapiDi)
+[↑ oLapiDige hintirugi](#olapidi)
 
 ---
 
@@ -57,7 +57,7 @@ nijakkU ingliSina yAva padakku sATiyAguvanTaha padavannu kannadaDallEnE unTumADa
 <a id="conventions"></a>
 
 ## irusarikegaLu — niyamgaLu
-[↑ oLapiDige hintirugi](#oLapiDi)
+[↑ oLapiDige hintirugi](#olapidi)
 
 ---
 
@@ -98,7 +98,7 @@ I padanerakeya vacanasaraNigaLu:
 <a id="entries"></a>
 
 ## A–Az padagaLu — mUla kaDatada Eke romanISanu
-[↑ oLapiDige hintirugi](#oLapiDi)
+[↑ oLapiDige hintirugi](#olapidi)
 
 ---
 

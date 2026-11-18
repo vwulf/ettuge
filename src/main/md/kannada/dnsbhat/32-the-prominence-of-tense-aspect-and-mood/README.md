@@ -11,13 +11,13 @@
 
 | File | Contents |
 |------|----------|
-| [`book/en/summary.md`](./book/en/summary.md) | Chapter-by-chapter English summary with key concepts table and cross-references |
+| [`book/en/summary.md`](./book/en/summary) | Chapter-by-chapter English summary with key concepts table and cross-references |
 
 ---
 
 ## Where to Start
 
-- **Overview and summaries?** → [`book/en/summary.md`](./book/en/summary.md) — full chapter-by-chapter analysis
+- **Overview and summaries?** → [`book/en/summary.md`](./book/en/summary) — full chapter-by-chapter analysis
 
 ---
 
@@ -27,4 +27,4 @@ This is an English-language academic monograph (no kn or eke files needed). The 
 
 ---
 
-[← Back to catalogue](../README.md)
+[← Back to catalogue](../)

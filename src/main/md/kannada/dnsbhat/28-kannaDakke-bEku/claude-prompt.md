@@ -161,9 +161,9 @@ The book is organised as a guided chapter-by-chapter tour through the major gram
 ---
 
 **Related books in this series:**
-- [Book 03 — ಕನ್ನಡ ಪದಗಳ ಒಳರಚನೆ (Internal Structure of Kannada Words)](../03-kannaDa-padagaLa-oLaracane/03-kannaDa-padagaLa-oLaracane-claude-prompt)
-- [Book 25 — ಕನ್ನಡ ವಾಕ್ಯಗಳ ಒಳರಚನೆ (Internal Structure of Kannada Sentences)](../25-kannaDa-vAkyagaLa-oLaracane/25-kannaDa-vAkyagaLa-oLaracane-claude-prompt)
-- [Book 29 — ಕನ್ನಡ ವ್ಯಾಕರಣ ಯಾಕೆ ಬೇಕು? (Why Do We Need Kannada Grammar?)](../29-kannaDa-vyAkaraNa-yAke-bEku/29-kannaDa-vyAkaraNa-yAke-bEku-claude-prompt)
+- [Book 03 — ಕನ್ನಡ ಪದಗಳ ಒಳರಚನೆ (Internal Structure of Kannada Words)](../03-kannaDa-padagaLa-oLaracane/claude-prompt)
+- [Book 25 — ಕನ್ನಡ ವಾಕ್ಯಗಳ ಒಳರಚನೆ (Internal Structure of Kannada Sentences)](../25-kannaDa-vAkyagaLa-oLaracane/claude-prompt)
+- [Book 29 — ಕನ್ನಡ ವ್ಯಾಕರಣ ಯಾಕೆ ಬೇಕು? (Why Do We Need Kannada Grammar?)](../29-kannaDa-vyAkaraNa-yAke-bEku/claude-prompt)
 
 11. **Chapter pages (Phase 33):** The Kannada source is split into individual chapter pages on GitHub Pages. Fetch specific chapters rather than loading the full book — chapters are lightweight and avoid token exhaustion when answering focused questions:
    - **Chapter index (ch0):** `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/28-kannaDakke-bEku/book/kn/ch0`

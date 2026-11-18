@@ -10,7 +10,7 @@ redirect_from:
 **Read by:** Malati Bhat (ಮಾಲತಿ ಭಟ್)
 **Published:** 1995 (1st print) · 136 pages
 **Source quality:** Good — Malati Bhat reading the full book text; transcript is short (91 lines) and covers the book's introductory material and two detailed phonological examples. The comparative method section (Part 2) is well-preserved with explicit word-pair tables. Deeper chapters of the book (Proto-Dravidian reconstruction, Proto-Kannada, full dialect evolution analysis) are not covered in the transcript.
-**Transcript:** [`youtube/kn/full.md`](../kn/full.md)
+**Transcript:** [`youtube/kn/full.md`](../kn/full)
 
 ---
 
@@ -24,7 +24,7 @@ redirect_from:
 
 ### Part 1 — Written History and Its Limitations
 [Watch on YouTube](https://www.youtube.com/watch?v=soIzNPvrYRw)
-[Transcript →](../kn/full.md#part-1)
+[Transcript →](../kn/full#part-1)
 
 - **Two methods announced (ಮುನ್ನೋಟ):** To discover what the history of Kannada is like, two methods are available — *likhita caritre* and *kalpita caritre*. Each approaches the language's past from a different vantage point, each with strengths and limitations; both should be used as complements
 - **Writing *likhita caritre*:** Classify all Kannada writings century by century — poems (*padya*), prose (*gadya*), mixed (*campu*), plays (*nāTaka*), inscriptions (*śāsana*) — compare them, and identify how Kannada changed between periods. Kannada inscriptions going back ~1,500 years provide the raw material; court poetry from successive dynasties adds depth
@@ -38,7 +38,7 @@ redirect_from:
 
 ### Part 2 — Comparative Method, Internal Reconstruction, and Sound Change Examples
 [Watch on YouTube](https://www.youtube.com/watch?v=T75Y9U8lYn8)
-[Transcript →](../kn/full.md#part-2)
+[Transcript →](../kn/full#part-2)
 
 - **Two methods for *kalpita caritre*:** The **comparative method** (*tulanAtmaka vidhAna*) and the **internal reconstruction method** (*Antarika vidhAna*). The comparative method is the primary tool; internal reconstruction is more limited in scope but complements it. The internal method uses morphological alternations within a single language to infer an earlier stage without comparing it to relatives
 - **Comparative method explained:** Compare two related languages, list all systematic differences, and explain each difference as the result of a sound change that occurred in the history of one of the languages after they diverged from their common ancestor. The reconstructed common ancestor is a *kalpita nuDi* — an inferred, hypothetical language never directly attested
@@ -113,8 +113,8 @@ The transcript covers the book's introduction (Part 1: both methods, limitations
 
 | Book | Connection |
 |------|-----------|
-| [10 — Kannada NuDiya HinnaDAvaLi](../../10-kannaDa-nuDiya-hinnaDAvaLi/) | The natural companion: Book 10 presents the full reconstructed history of Kannada in detail; Book 12 is the methodological introduction explaining *how* such reconstruction works |
-| [02 — Kannada NuDiya OLaracane](../../02-kannaDa-nuDiya-oLaracane/) | Book 02 describes the synchronic internal structure of Kannada — the phonology and morphology that provide the raw material for comparative reconstructions demonstrated in Book 12 |
+| [10 — Kannada NuDiya HinnaDAvaLi](../../../10-kannaDa-nuDiya-hinnaDavaLi/) | The natural companion: Book 10 presents the full reconstructed history of Kannada in detail; Book 12 is the methodological introduction explaining *how* such reconstruction works |
+| [03 — ಕನ್ನಡ ಪದಗಳ ಒಳರಚನೆ](../../../03-kannaDa-padagaLa-oLaracane/) | Book 03 describes the synchronic internal structure of Kannada — the phonology and morphology that provide the raw material for comparative reconstructions demonstrated in Book 12 |
 | [04 — MAtu Mattu Barahada NaDuvina Gondala](../../../04-mAtu-mattu-barahada-naDuvina-gondala/) | Book 04's argument that spoken language is primary and writing is secondary grounds Book 12's critique of written-history limitations: inscriptions capture only a fragment of speech |
 
 ---
@@ -123,4 +123,4 @@ The transcript covers the book's introduction (Part 1: both methods, limitations
 
 - **YouTube Part 1:** <https://www.youtube.com/watch?v=soIzNPvrYRw>
 - **YouTube Part 2:** <https://www.youtube.com/watch?v=T75Y9U8lYn8>
-- **Transcript (Kannada):** [`youtube/kn/full.md`](../kn/full.md)
+- **Transcript (Kannada):** [`youtube/kn/full.md`](../kn/full)

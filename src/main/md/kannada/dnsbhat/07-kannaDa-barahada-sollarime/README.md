@@ -34,4 +34,4 @@
 
 ---
 
-[← Back to catalogue](../README.md)
+[← Back to catalogue](../)

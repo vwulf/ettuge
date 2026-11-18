@@ -45,6 +45,6 @@ redirect_from:
 
 ## ಸಂಬಂಧಿತ
 
-- [15 — ಇಂಗ್ಲಿಶ್ ಕನ್ನಡ ಪದನೆರಕೆ](../15-ingliS-kannaDa-padanerake/)
-- [02 — ಕನ್ನಡದಲ್ಲಿ ಹೊಸಪದಗಳನ್ನು ಕಟ್ಟುವ ಬಗೆ](../02-kannaDadalle-hosapadagaLannu-kaTTuva-bage/)
-- [01 — ಇದು ಕನ್ನಡದ್ದೇ ವ್ಯಾಕರಣ](../01-idu-kannaDaddE-vyAkaraNa/)
+- [15 — ಇಂಗ್ಲಿಶ್ ಕನ್ನಡ ಪದನೆರಕೆ](../../../15-ingliS-kannaDa-padanerake/)
+- [02 — ಕನ್ನಡದಲ್ಲಿ ಹೊಸಪದಗಳನ್ನು ಕಟ್ಟುವ ಬಗೆ](../../../02-kannaDadalle-hosapadagaLannu-kaTTuva-bage/)
+- [01 — ಇದು ಕನ್ನಡದ್ದೇ ವ್ಯಾಕರಣ](../../../01-idu-kannaDaddE-vyAkaraNa/)

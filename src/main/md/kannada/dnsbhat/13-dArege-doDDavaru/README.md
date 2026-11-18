@@ -11,10 +11,10 @@
 
 | File | Contents |
 |------|----------|
-| [`youtube/kn/full.md`](./youtube/kn/full.md) | YouTube transcripts — Kannada — 4 parts (Parts 1–2 unavailable or mismatched; Part 3 readable; Part 4 duplicate of Part 1) |
-| [`youtube/en/summary.md`](./youtube/en/summary.md) | English summary with honest transcript quality assessment and part-by-part notes |
-| [`claude-prompt.md`](./claude-prompt.md) | Condensed prompt context for Claude sessions — includes critical speaker note |
+| [`youtube/kn/full.md`](./youtube/kn/full) | YouTube transcripts — Kannada — 4 parts (Parts 1–2 unavailable or mismatched; Part 3 readable; Part 4 duplicate of Part 1) |
+| [`youtube/en/summary.md`](./youtube/en/summary) | English summary with honest transcript quality assessment and part-by-part notes |
+| [`claude-prompt.md`](./claude-prompt) | Condensed prompt context for Claude sessions — includes critical speaker note |
 
 ---
 
-[← Back to catalogue](../README.md)
+[← Back to catalogue](../)

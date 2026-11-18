@@ -754,8 +754,8 @@ Applied analysis of negation from Parts 11–12 to specific English prefix vocab
 
 ## Cross-References
 
-- [Kannada section index →](02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn)
-- [Eke romanisation →](02-kannaDadalle-hosapadagaLannu-kaTTuva-bage-kn-eke)
-- [YouTube playlist — all 52 parts](02-kannaDadalle-hosapadagaLannu-kaTTuva-bage)
-- [DNS Bhat Word Formation Prompt (derived from this book)](../DNS_BHAT_WORD_FORMATION_PROMPT)
+- [Kannada section index →](../../youtube/kn/full)
+- [Eke romanisation →](../../youtube/eke/full)
+- [YouTube playlist — all 52 parts](../../)
+- DNS Bhat Word Formation Prompt (derived from this book)
 - [Author's website](http://dnshankarabhat.net/dr-d-n-shankara-bhat/)

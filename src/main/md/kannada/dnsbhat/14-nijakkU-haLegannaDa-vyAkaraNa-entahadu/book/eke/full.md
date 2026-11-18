@@ -9426,7 +9426,7 @@ spIjar‌, je. es‌. ೧೮೬೬. Sanskrit Syntax. Leyden: E.J.Brill.
 
 ## samparka konDigaLu
 
-- [ingliS viSlEShaNe →](14-nijakkU-haLegannaDa-vyAkaraNa-entahadu-en)
+- [ingliS viSlEShaNe →](../en/summary)
 - [mUla pustaka →](../kn/raw)
 - [lEkhakara tANa](http://dnshankarabhat.net/)
 - [inTarneT Arkayv](https://archive.org/details/arn.nijakkuhaleganna0000dnsh)

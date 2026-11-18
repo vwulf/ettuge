@@ -5,7 +5,7 @@
 **Read by:** Malati Bhat
 **Published:** date unknown
 **Source quality:** ❌ Almost entirely unavailable or garbled — 20 of 25 parts have no transcript at all
-**Transcript:** [`youtube/kn/full.md`](../kn/full.md)
+**Transcript:** [`youtube/kn/full.md`](../kn/full)
 
 > **Source Limitations:** No usable book description was retrieved for Book 11 specifically — the `description-raw.md` file in this directory contains a Wayback Machine page for Book 30 (ಕನ್ನಡ ಬರಹವನ್ನು ಸರಿಪಡಿಸೋಣ), not Book 11. The 25-part YouTube transcript series is the worst-transcribed of all four books assessed: 20 of 25 parts are completely unavailable, Part 19's transcript was explicitly disabled by the uploader, Part 2 pulled a wrong video (Arabic content), and Parts 1 and 13 are identical garbled text, likely from a mismatched video. The overview below is inferred entirely from: (a) the book title, (b) comparison with Book 30 Chapter 5 which has an identically titled chapter, and (c) the single partially readable fragment (Part 8). No prose from the book has been recovered.
 

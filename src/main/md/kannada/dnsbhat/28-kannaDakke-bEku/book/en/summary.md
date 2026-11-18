@@ -262,5 +262,5 @@ The chapter calls for a new direction: high school grammar teaching should focus
 *This document is an English-language overview of D. N. Shankara Bhat's* ಕನ್ನಡಕ್ಕೆ ಬೇಕು ಕನ್ನಡದ್ದೇ ವ್ಯಾಕರಣ *(2000/2013), based on the original Kannada text. The Kannada text can be read in the companion file* [28-kannaDakke-bEku-book.md](../kn/raw).
 
 **Related books in this series:**
-- [Book 03 — ಕನ್ನಡ ಪದಗಳ ಒಳರಚನೆ (Internal Structure of Kannada Words)](../../03-kannaDa-padagaLa-oLaracane/book/en/summary)
-- [Book 29 — ಕನ್ನಡ ವ್ಯಾಕರಣ ಯಾಕೆ ಬೇಕು? (Why Do We Need Kannada Grammar?)](../../29-kannaDa-vyAkaraNa-yAke-bEku/book/en/summary)
+- [Book 03 — ಕನ್ನಡ ಪದಗಳ ಒಳರಚನೆ (Internal Structure of Kannada Words)](../../../03-kannaDa-padagaLa-oLaracane/book/en/summary)
+- [Book 29 — ಕನ್ನಡ ವ್ಯಾಕರಣ ಯಾಕೆ ಬೇಕು? (Why Do We Need Kannada Grammar?)](../../../29-kannaDa-vyAkaraNa-yAke-bEku/book/en/summary)

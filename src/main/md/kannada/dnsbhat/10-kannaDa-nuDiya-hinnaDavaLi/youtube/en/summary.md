@@ -5,7 +5,7 @@
 **Read by:** Malati Bhat
 **Published:** 2016 (first edition) · 95 pages
 **Source quality:** ⚠️ Mostly garbled live-lecture auto-captions; no prose recoverable from transcripts
-**Transcript:** [`youtube/kn/full.md`](../kn/full.md)
+**Transcript:** [`youtube/kn/full.md`](../kn/full)
 
 > **Source Limitations:** The overview below is drawn primarily from the book's website description (`description-raw.md` from the Wayback Machine archive of dnshankarabhat.net, snapshot 20170214230554). The 14-part YouTube transcript series (Parts P1, P2, 1, 2, 4–12; Part 3 absent) is essentially unusable: 5 parts are completely unavailable, and the remaining 9 are garbled live-lecture auto-captions with severe Hindi/wrong-language interference. No sustained prose from the book can be recovered. Only scattered keyword signals confirm the general topic. Content marked "from transcript fragments" below represents keyword inference only, not recovered text. This book was revised from Bhat's earlier 1979 work *Kannaḍa Bhāṣeya Sankshipta Charitre* and incorporates material from his 2007 book *Kannaḍa Nuḍi Naḍedu Banda Dāri* (Book 17 in this catalogue).
 

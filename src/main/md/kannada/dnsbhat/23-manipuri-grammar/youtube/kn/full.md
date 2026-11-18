@@ -37,9 +37,9 @@ linguists who read Kannada.
 
 ## Related Works
 
-- [21 — Pronouns (Oxford)](../21-dns-bhat-pronouns/) — typological framework
-- [22 — Sound Change](../22-sound-change/) — uses Tibeto-Burman examples
-- [24 — Grammatical Relations](../24-grammatical-relations/) — universal grammar arguments
+- [21 — Pronouns (Oxford)](../../../21-dns-bhat-pronouns/) — typological framework
+- [22 — Sound Change](../../../22-sound-change/) — uses Tibeto-Burman examples
+- [24 — Grammatical Relations](../../../24-grammatical-relations/) — universal grammar arguments
 
 ## Collection Status
 

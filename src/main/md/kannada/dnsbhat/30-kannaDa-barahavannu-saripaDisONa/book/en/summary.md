@@ -11,7 +11,7 @@ title: "Let us Rectify Written Kannada — English Summary"
 **Language:** Kannada · **Pages:** 382  
 **Source quality:** Full text (Nudi PDF → wx_decode Unicode conversion)
 
-[ಕನ್ನಡ →](../kn/full.md) | [Eke →](../eke/full.md)
+[ಕನ್ನಡ →](../kn/full) | [Eke →](../eke/full)
 
 ---
 
@@ -42,7 +42,7 @@ Bhat argues that Kannada writing is unnecessarily complex, creating a barrier th
 
 ## Chapter 1 — Overview (ಮುನ್ನೋಟ)
 
-[ಕನ್ನಡ →](../kn/full.md#ch1)
+[ಕನ್ನಡ →](../kn/full#ch1)
 
 - Kannada writing must become the property of *all* Kannadigas, not just the upper classes — this is the motivation for the book.
 - Two obstacles: (1) the script has too many letters — 50 vs. the 31 actually needed for native Kannada, (2) Sanskrit-derived words dominate written Kannada, making it alien to ordinary speakers.
@@ -56,7 +56,7 @@ Bhat argues that Kannada writing is unnecessarily complex, creating a barrier th
 
 ## Chapter 2 — Kannada Did Not Descend from Sanskrit (ಕನ್ನಡ ನುಡಿ ಸಂಸ್ಕ್ರುತದಿಂದ ಬೆಳೆದು ಬಂದಿಲ್ಲ)
 
-[ಕನ್ನಡ →](../kn/full.md#ch2)
+[ಕನ್ನಡ →](../kn/full#ch2)
 
 - Establishes the Dravidian genealogy of Kannada through comparative linguistics: Kannada belongs to the Dravidian family (Tamil, Telugu, Malayalam…), not Indo-Aryan (Sanskrit, Hindi, Marathi…).
 - The *language family* concept: related languages share systematic sound correspondences in basic vocabulary and grammar. Kannada and Sanskrit share borrowed vocabulary but not systematic grammatical structure.
@@ -71,7 +71,7 @@ Bhat argues that Kannada writing is unnecessarily complex, creating a barrier th
 
 *Part One: Script Revolution*
 
-[ಕನ್ನಡ →](../kn/full.md#ch3)
+[ಕನ್ನಡ →](../kn/full#ch3)
 
 - The core problem: Kannada forces writers to retain Sanskrit spellings for borrowed words (ಕೃಷ್ಣ not ಕ್ರುಶ್ಣ; ವಿಷ not ವಿಶ), even though speakers pronounce them differently. This adds ~19 extra letters to the script.
 - Cross-linguistic comparison: Tamil, Malayalam, Punjabi, and Sindhi all handle Sanskrit loans differently — most have abandoned strict Sanskrit spelling. English spelling is also notoriously irregular (§3.4.1).
@@ -84,7 +84,7 @@ Bhat argues that Kannada writing is unnecessarily complex, creating a barrier th
 
 ## Chapter 4 — A 'New Script' for Kannada (ಕನ್ನಡಕ್ಕೊಂದು 'ಹೊಸ ಬರಹ')
 
-[ಕನ್ನಡ →](../kn/full.md#ch4)
+[ಕನ್ನಡ →](../kn/full#ch4)
 
 - Proposes the specific reforms of *hosa baraha* (the simplified orthography Bhat himself uses in this book and others):
   - §4.2.1 Aspirates (mahāprāṇa): ಖ→ಕ, ಘ→ಗ, ಛ→ಚ etc. — 10 letters eliminated
@@ -104,7 +104,7 @@ Bhat argues that Kannada writing is unnecessarily complex, creating a barrier th
 
 *Part Two: Word Revolution*
 
-[ಕನ್ನಡ →](../kn/full.md#ch5)
+[ಕನ್ನಡ →](../kn/full#ch5)
 
 - The *other* reform: not just letters, but words. Kannada writing is saturated with Sanskrit-derived terms that ordinary speakers neither know nor use.
 - §5.1: Why this habit formed — historical prestige of Sanskrit; §5.1.2: The habit causes confusion (readers must learn two vocabularies); §5.1.3: Speech–writing gap again.
@@ -117,7 +117,7 @@ Bhat argues that Kannada writing is unnecessarily complex, creating a barrier th
 
 ## Chapter 6 — Sanskrit Words in Kannada Texts (ಕನ್ನಡ ಬರಹಗಳಲ್ಲಿ ಸಂಸ್ಕ್ರುತ ಪದಗಳು)
 
-[ಕನ್ನಡ →](../kn/full.md#ch6)
+[ಕನ್ನಡ →](../kn/full#ch6)
 
 - An empirical survey of Sanskrit word density in different text types: ordinary speech (§6.2), newspapers (§6.3), new coinages (§6.4), popular science writing (§6.5), adult literacy materials (§6.6).
 - Finding: Sanskrit density varies widely. Popular science writing and adult literacy materials — the texts most need to reach ordinary people — contain the *highest* Sanskrit density.
@@ -129,7 +129,7 @@ Bhat argues that Kannada writing is unnecessarily complex, creating a barrier th
 
 ## Chapter 7 — Sanskrit Words in Science Writing (ವಿಜ್ನಾನ ಬರಹಗಳಲ್ಲಿ ಸಂಸ್ಕ್ರುತ ಪದಗಳು)
 
-[ಕನ್ನಡ →](../kn/full.md#ch7)
+[ಕನ್ನಡ →](../kn/full#ch7)
 
 - §7.1 Three approaches to science terminology: pure Sanskrit derivation, hybrid forms, or native Kannada coinage. Bhat argues for the third.
 - §7.3 *Triśaṅku* words — half-Sanskrit, half-Kannada hybrids that fit neither grammar system well. These create the worst of both worlds.
@@ -142,7 +142,7 @@ Bhat argues that Kannada writing is unnecessarily complex, creating a barrier th
 
 ## Chapter 8 — Using Kannada Affixes (ಕನ್ನಡ ಪ್ರತ್ಯಯಗಳ ಬಳಕೆ)
 
-[ಕನ್ನಡ →](../kn/full.md#ch8)
+[ಕನ್ನಡ →](../kn/full#ch8)
 
 - §8.1: Kannada has its own rich suffix system (ಒಟ್ಟು/oṭṭu) — the tools for word formation are already in the language.
 - §8.2: Problem of ambiguity when Sanskrit-derived adjective forms are used in Kannada contexts — word-class confusion.
@@ -156,7 +156,7 @@ Bhat argues that Kannada writing is unnecessarily complex, creating a barrier th
 
 ## Chapter 9 — Using Kannada Words (ಕನ್ನಡ ಪದಗಳ ಬಳಕೆ)
 
-[ಕನ್ನಡ →](../kn/full.md#ch9)
+[ಕನ್ನಡ →](../kn/full#ch9)
 
 - §9.2: Can Kannada words substitute for Sanskrit/Latin scientific terminology? Yes — §9.2.1 shows Sanskrit itself borrowed from Dravidian in the opposite direction; §9.2.3 Old Kannada has rich vocabulary that can be revived.
 - §9.2.5 Spoken Kannada words: everyday vocabulary provides the foundation for technical terms.
@@ -169,7 +169,7 @@ Bhat argues that Kannada writing is unnecessarily complex, creating a barrier th
 
 ## Chapter 10 — Conclusion (ಮುಕ್ತಾಯ)
 
-[ಕನ್ನಡ →](../kn/full.md#ch10)
+[ಕನ್ನಡ →](../kn/full#ch10)
 
 - §10.1–10.2: Summary of needed changes in Kannada writing (script level) and the Kannada script itself.
 - §10.3: The case for native Kannada vocabulary — the reforms are complementary: simpler script + native words together make written Kannada accessible.
@@ -199,9 +199,9 @@ Bhat argues that Kannada writing is unnecessarily complex, creating a barrier th
 
 | Related Book | Connection |
 |---|---|
-| [08 — Kannadakke Mahaprana Yake Beda](../../08-kannaDakke-mahAprANa-yAke-bEDa/) | The *mahāprāṇa* argument is Ch. 4.2.1 of this book, expanded to the full script system |
-| [11 — Kannada Barahada Padasamasye](../../11-kannaDa-barahada-padasamasye/) | Companion: spelling problems in depth |
-| [04 — Matu mattu Barahada Gondala](../../04-mAtu-mattu-barahada-naDuvina-gondala/) | Speech vs. writing: the theoretical foundation of §4.3 |
-| [31 — Inglish Padagalige Kannadadde Padagalu](../../31-ingliS-padagaLige-kannaDaddE-padagaLu/) | Practical glossary companion to the *pada-krānti* argument |
-| [16 — Nudiyarimeya Padagalige Kannadadde Padagalu](../../16-nuDiyarimeya-padagaLige-kannaDaddE-padagaLu/) | Linguistics-specific vocabulary reform |
-| [28 — Kannadakke Beku Kannadade Vyakarana](../../28-kannaDakke-bEku/) | Script and grammar reform as linked projects |
+| [08 — Kannadakke Mahaprana Yake Beda](../../../08-kannaDakke-mahAprANa-yAke-bEDa/) | The *mahāprāṇa* argument is Ch. 4.2.1 of this book, expanded to the full script system |
+| [11 — Kannada Barahada Padasamasye](../../../11-kannaDa-barahada-padasamasye/) | Companion: spelling problems in depth |
+| [04 — Matu mattu Barahada Gondala](../../../04-mAtu-mattu-barahada-naDuvina-gondala/) | Speech vs. writing: the theoretical foundation of §4.3 |
+| [31 — Inglish Padagalige Kannadadde Padagalu](../../../31-ingliS-padagaLige-kannaDaddE-padagaLu/) | Practical glossary companion to the *pada-krānti* argument |
+| [16 — Nudiyarimeya Padagalige Kannadadde Padagalu](../../../16-nuDiyarimeya-padagaLige-kannaDaddE-padagaLu/) | Linguistics-specific vocabulary reform |
+| [28 — Kannadakke Beku Kannadade Vyakarana](../../../28-kannaDakke-bEku/) | Script and grammar reform as linked projects |
