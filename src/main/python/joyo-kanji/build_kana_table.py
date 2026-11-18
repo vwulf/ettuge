@@ -28,8 +28,10 @@ X = "❌"
 ROWS = [
     ("k", "ಕ", ["か", "き", "く", "け", "こ"]),
     ("g", "ಗ", ["が", "ぎ", "ぐ", "げ", "ご"]),
+    ("G", "ಙ", [None] * 5),
     ("c", "ಚ", ["ちゃ", "ち", "ちゅ", "ちぇ", "ちょ"]),
-    ("j", "ಜ", ["じゃ", "じ", "じゅ", "じぇ", "じょ"]),
+    ("j", "ಜ", ["じゃ", "じ・ぢ", "じゅ", "じぇ", "じょ"]),
+    ("Y", "ಞ", ["にゃ", "に", "にゅ", "[ニェ]", "にょ"]),
     ("T", "ಟ", [None] * 5),
     ("D", "ಡ", [None] * 5),
     ("N", "ಣ", [None] * 5),
@@ -44,10 +46,10 @@ ROWS = [
     ("y", "ಯ", ["や", None, "ゆ", "[イェ]", "よ"]),
     ("r", "ರ", ["ら", "り", "る", "れ", "ろ"]),
     ("l", "ಲ", [None] * 5),
-    ("v", "ವ", ["わ", "[ウィ]", None, "[ウェ]", "[ウォ]"]),
+    ("v", "ವ", [("わ", "ワ・ヴァ"), ("ゐ", "ヰ・ウィ・ヴィ"), (None, "ヴ"), ("ゑ", "ヱ・ウェ・ヴェ"), ("を", "ヲ・ウォ・ヴォ")]),
     ("S", "ಶ", ["しゃ", "し", "しゅ", "しぇ", "しょ"]),
     ("s", "ಸ", ["さ", "[スィ]", "す", "せ", "そ"]),
-    ("z", "ಜ಼", ["ざ", "[ズィ]", "ず", "ぜ", "ぞ"]),
+    ("z", "ಜ಼", ["ざ", "[ズィ]", "ず・づ", "ぜ", "ぞ"]),
     ("h", "ಹ", ["は", "ひ", "[ホゥ]", "へ", "ほ"]),
     ("L", "ಳ", [None] * 5),
 ]
@@ -105,16 +107,27 @@ def kanji_for(hira, eke=None):
         cell += (" · " if found else "") + ", ".join(link(e) for e in extra)
     return cell
 
+ARCHAIC = set("ゐゑを")
+
 def cells(raw, v):
-    """raw cell -> (hiragana, katakana, hiragana-for-lookup) for short and long"""
+    """raw cell -> ((hira, kata, lookup), (hira, kata, lookup)) for the short and long vowel.
+    raw is hiragana (alternates joined by ・), "[カタカナ]" for loanword-only kana,
+    a (hiragana or None, katakana) pair, or None."""
     if raw is None:
         return (X, X, None), (X, X, None)
-    if raw.startswith("["):
-        kata = raw.strip("[]")
-        return (X, kata, None), (X, kata + "ー", None)
-    short_h = raw
-    long_h = raw + LONG_KANA[v]
-    return (short_h, h2k(short_h), short_h), (long_h, h2k(raw) + "ー", long_h)
+    if isinstance(raw, str) and raw.startswith("["):
+        raw = (None, raw.strip("[]"))
+    if isinstance(raw, str):
+        raw = (raw, "・".join(h2k(x) for x in raw.split("・")))
+    hira, kata = raw
+    kl = "・".join(x + "ー" for x in kata.split("・") if x not in ("ヰ", "ヱ", "ヲ"))
+    if not hira:
+        return (X, kata, None), (X, kl, None)
+    alts = hira.split("・")
+    if ARCHAIC & set(hira):
+        return (hira, kata, alts), (X, kl, None)
+    long_alts = [x + LONG_KANA[v] for x in alts]
+    return (hira, kata, alts), ("・".join(long_alts), kl, long_alts)
 
 def kn_syl(base, v, long):
     return base + (KN_SIGN_L if long else KN_SIGN)[v]
@@ -162,9 +175,12 @@ def main():
         for r in block(eke, base, raw5):
             out.append(md_row(r))
     out += ["", "**Reading the table**", "",
-            "- ❌ — Japanese has no such sound. Kannada's retroflexes ಟ ಡ ಣ ಳ have no kana; Japanese has a single *r* (ら行) that covers both ರ and ಲ.",
+            "- ❌ — Japanese has no such sound. ಋ, the visarga ಃ and the aspirated mahaprANa letters (ಖ ಘ ಛ ಝ ಠ ಢ ಥ ಧ ಫ ಭ) have no kana at all, since Japanese has no aspirated consonants. ಙ appears only as ん before *k*/*g* (see ん below). Kannada's retroflexes ಟ ಡ ಣ ಳ have no kana; Japanese has a single *r* (ら行) that covers both ರ and ಲ.",
             "- Katakana in a cell with ❌ under hiragana (ティ, ファ, ウォ…) is a loanword-only spelling, used for foreign words.",
             "- Long vowels: katakana adds ー (カー). Hiragana doubles the vowel for *a i u* (かあ きい くう) but usually writes long *e* as えい (けい) and long *o* as おう (こう); ええ and おお also occur (ねえ, 大 おお).",
+            "- ぢ and づ are spelling variants of じ and ず, used where the sound comes from ち/つ (鼻血 はなぢ, 続く つづく).",
+            "- ವ row: ヴ (ヴァ ヴィ ヴェ ヴォ) spells a true *v* in loanwords; ゐ ゑ (ヰ ヱ) are archaic *wi*/*we*; を is the object particle, now said *o*.",
+            "- ಞ: Japanese に is palatal, so に and にゃ にゅ にょ are ಞಿ and ಞ ಞು ಞೊ.",
             "- ふ is between ಹು and ಫ಼ು (a soft *f* made with both lips), so it sits in the *f* block; ホゥ is the loanword spelling for a true *hu*.",
             "- ತ್ಸ (つ), ಫ಼ (ふ) and ಜ಼ (ざ行) have no native Kannada akshara; Eke reserves *f* and *z* for such borrowed sounds.",
             "- kAnji: every jōyō kanji read with exactly that kana — the most common first; **+N** jumps to the full list at the bottom of the page. Empty where no jōyō kanji has that reading. Kanji after a · are earlier hand picks that are not exact jōyō readings (お母さん's 母 for かあ, 紀伊 for きい). Click a kanji to open its entry on the [jōyō kanji page](joyo-kanji).",
@@ -173,7 +189,7 @@ def main():
     out += ["## ಯ ottu — contracted sounds (yōon)", "",
             "Small ゃ ゅ ょ after an *i*-row kana gives the ಯ ottu: き + ゃ = きゃ = ಕ್ಯ.", "",
             md_row(["**Eke**", "**hiragAna**", "**katakAna**", "**kAnji**", "**kannaDa**"]), "|---|---|---|---|---|"]
-    for eke, base, row in [("ky", "ಕ", "き"), ("gy", "ಗ", "ぎ"), ("ny", "ನ", "に"), ("hy", "ಹ", "ひ"),
+    for eke, base, row in [("ky", "ಕ", "き"), ("gy", "ಗ", "ぎ"), ("hy", "ಹ", "ひ"),
                            ("by", "ಬ", "び"), ("py", "ಪ", "ぴ"), ("my", "ಮ", "み"), ("ry", "ರ", "り")]:
         for v, sm in zip("auo", "ゃゅょ"):
             for long in (False, True):
@@ -181,7 +197,8 @@ def main():
                 kata = h2k(row + sm) + ("ー" if long else "")
                 out.append(md_row([eke + (v.upper() if long else v), hira, kata, kanji_for(hira, eke + (v.upper() if long else v)),
                                    base + "್ಯ" + (KN_SIGN_L if long else KN_SIGN)[v]]))
-    out += ["", "ちゃ じゃ しゃ (c, j, S) are in the main table — Kannada ಚ ಜ ಶ already carry the *y* glide.", ""]
+    out += ["", "ちゃ じゃ しゃ (c, j, S) and にゃ (ಞ) are in the main table: Kannada ಚ ಜ ಶ ಞ already carry the *y* glide. "
+            "Japanese に is itself palatal, so にゃ にゅ にょ are ಞ ಞು ಞೊ rather than ನ್ಯ.", ""]
     # n
     out += ["## ん — the moraic nasal (ಂ)", "",
             "ん takes the place of a nasal before the next sound, just like the anusvAra ಂ, and Eke writes it the same way.", "",
@@ -210,6 +227,38 @@ def main():
     ]:
         out.append(md_row([eke, hira, h2k(hira), kn, link(ex)]))
     out += ["", "っ doubles only *k s S t c ts p*. Kannada also doubles ಗ ಜ ದ ಬ ನ ಮ ಲ (ಅಗ್ಗ, ಅಮ್ಮ…), which Japanese writes only in loanwords (ベッド *beddo*, バッグ *baggu*) or with ん + kana (*mm* = んま: あんま).", ""]
+    # ai / au
+    out += ["## ಐ and ಔ — two kana in Japanese", "",
+            "Japanese has no single kana for ಐ or ಔ: it writes the two vowels separately (あい, あお/あう), each a beat of its own.", "",
+            md_row(["**Eke**", "**hiragAna**", "**katakAna**", "**kAnji**", "**kannaDa**"]), "|---|---|---|---|---|"]
+    A_ROW = [("", "", "あ"), ("k", "ಕ", "か"), ("g", "ಗ", "が"), ("s", "ಸ", "さ"), ("z", "ಜ಼", "ざ"), ("t", "ತ", "た"),
+             ("d", "ದ", "だ"), ("n", "ನ", "な"), ("h", "ಹ", "は"), ("b", "ಬ", "ば"), ("p", "ಪ", "ぱ"), ("m", "ಮ", "ま"),
+             ("y", "ಯ", "や"), ("r", "ರ", "ら"), ("v", "ವ", "わ")]
+    for eke, base, a in A_ROW:
+        kj = kanji_for([a + "い"], eke + "ai")
+        if eke and not kj.strip():
+            continue
+        out.append(md_row([eke + "ai", a + "い", h2k(a) + "イ", kj, base + "ೈ" if base else "ಐ"]))
+    for eke, base, a in A_ROW:
+        kj = kanji_for([a + "お", a + "う"], eke + "au")
+        if eke and not kj.strip():
+            continue
+        out.append(md_row([eke + "au", a + "お・" + a + "う", h2k(a) + "オ・" + h2k(a) + "ウ", kj, base + "ೌ" if base else "ಔ"]))
+    out += ["", "Japanese *au* inside a word became *ō* long ago (かう → こう), so ಔ survives mostly across word parts: 青 あお, 顔 かお, 会う あう.", ""]
+    # rare loanword kana
+    out += ["## Rarer kana", "",
+            md_row(["**Kana**", "**Eke**", "**kannaDa**", "**Used in**"]), "|---|---|---|---|"]
+    for kana, eke, kn, use in [
+        ("クァ クィ クェ クォ", "kva kvi kve kvo", "ಕ್ವ ಕ್ವಿ ಕ್ವೆ ಕ್ವೊ", "foreign names (クォーク *quark*)"),
+        ("グァ", "gva", "ಗ್ವ", "グァム *Guam*"),
+        ("テュ・デュ", "tyu dyu", "ತ್ಯು ದ್ಯು", "デュエット *duet*"),
+        ("フュ・ヴュ", "fyu vyu", "ಫ಼್ಯು ವ್ಯು", "フュージョン *fusion*"),
+        ("ヵ ヶ", "ka ka/ga", "ಕ", "counters: 一ヶ月 *ikkagetsu* (one month), 霞ヶ関 *kasumigaseki*"),
+        ("ゝ ゞ ヽ ヾ", "—", "—", "repeat the kana before (ゞ adds voicing): いすゞ *isuzu*, こゝろ *kokoro*"),
+        ("々", "—", "—", "repeat the kanji before: 人々 *hitobito*, 時々 *tokidoki*"),
+    ]:
+        out.append(md_row([kana, f"`{eke}`" if eke != "—" else eke, kn, use]))
+    out.append("")
     out += ["## Every jōyō kanji by exact reading", "",
             f"Where a sound has more than {SHOW} kanji, the table shows the {SHOW} most common and links here for the rest. "
             "Each list is every jōyō kanji with exactly that reading (an on'yomi, or a kun'yomi that is a whole word), most common first. "

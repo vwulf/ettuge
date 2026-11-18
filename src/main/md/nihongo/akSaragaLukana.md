@@ -28,6 +28,12 @@ Every Japanese kana set beside the Kannada akshara that sounds closest, with its
 | kAnji | ❌ | ❌ | [画](joyo-kanji#画) [夏](joyo-kanji#夏) [我](joyo-kanji#我) [賀](joyo-kanji#賀) [雅](joyo-kanji#雅) [+4](#r-ga) · 蛾 |   | [議](joyo-kanji#議) [疑](joyo-kanji#疑) [義](joyo-kanji#義) [技](joyo-kanji#技) [儀](joyo-kanji#儀) [+9](#r-gi) |   | [求](joyo-kanji#求) [工](joyo-kanji#工) [供](joyo-kanji#供) [具](joyo-kanji#具) [愚](joyo-kanji#愚) [+3](#r-gu) | [宮](joyo-kanji#宮) [遇](joyo-kanji#遇) [隅](joyo-kanji#隅) [偶](joyo-kanji#偶) | [外](joyo-kanji#外) [下](joyo-kanji#下) [解](joyo-kanji#解) [夏](joyo-kanji#夏) [戯](joyo-kanji#戯) [+2](#r-ge) | [迎](joyo-kanji#迎) [児](joyo-kanji#児) [芸](joyo-kanji#芸) [鯨](joyo-kanji#鯨) [詣](joyo-kanji#詣) | [後](joyo-kanji#後) [五](joyo-kanji#五) [期](joyo-kanji#期) [午](joyo-kanji#午) [語](joyo-kanji#語) [+12](#r-go) | [合](joyo-kanji#合) [業](joyo-kanji#業) [強](joyo-kanji#強) [格](joyo-kanji#格) [楽](joyo-kanji#楽) [+7](#r-gO) |
 | kannaDa | ್ಗ | ಗ್ | ಗ | ಗಾ | ಗಿ | ಗೀ | ಗು | ಗೂ | ಗೆ | ಗೇ | ಗೊ | ಗೋ |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| Eke | G | G | Ga | GA | Gi | GI | Gu | GU | Ge | GE | Go | GO |
+| hiragAna | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| katakAna | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| kAnji | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| kannaDa | ್ಙ | ಙ್ | ಙ | ಙಾ | ಙಿ | ಙೀ | ಙು | ಙೂ | ಙೆ | ಙೇ | ಙೊ | ಙೋ |
+|   |   |   |   |   |   |   |   |   |   |   |   |   |
 | Eke | c | c | ca | cA | ci | cI | cu | cU | ce | cE | co | cO |
 | hiragAna | ❌ | ❌ | ちゃ | ちゃあ | ち | ちい | ちゅ | ちゅう | ちぇ | ちぇい | ちょ | ちょう |
 | katakAna | ❌ | ❌ | チャ | チャー | チ | チー | チュ | チュー | チェ | チェー | チョ | チョー |
@@ -35,10 +41,16 @@ Every Japanese kana set beside the Kannada akshara that sounds closest, with its
 | kannaDa | ್ಚ | ಚ್ | ಚ | ಚಾ | ಚಿ | ಚೀ | ಚು | ಚೂ | ಚೆ | ಚೇ | ಚೊ | ಚೋ |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | Eke | j | j | ja | jA | ji | jI | ju | jU | je | jE | jo | jO |
-| hiragAna | ❌ | ❌ | じゃ | じゃあ | じ | じい | じゅ | じゅう | じぇ | じぇい | じょ | じょう |
-| katakAna | ❌ | ❌ | ジャ | ジャー | ジ | ジー | ジュ | ジュー | ジェ | ジェー | ジョ | ジョー |
+| hiragAna | ❌ | ❌ | じゃ | じゃあ | じ・ぢ | じい・ぢい | じゅ | じゅう | じぇ | じぇい | じょ | じょう |
+| katakAna | ❌ | ❌ | ジャ | ジャー | ジ・ヂ | ジー・ヂー | ジュ | ジュー | ジェ | ジェー | ジョ | ジョー |
 | kAnji | ❌ | ❌ | [写](joyo-kanji#写) [邪](joyo-kanji#邪) [蛇](joyo-kanji#蛇) |   | [二](joyo-kanji#二) [時](joyo-kanji#時) [事](joyo-kanji#事) [自](joyo-kanji#自) [地](joyo-kanji#地) [+21](#r-ji) |   | [入](joyo-kanji#入) [受](joyo-kanji#受) [授](joyo-kanji#授) [従](joyo-kanji#従) [就](joyo-kanji#就) [+6](#r-ju) | [十](joyo-kanji#十) [重](joyo-kanji#重) [住](joyo-kanji#住) [従](joyo-kanji#従) [充](joyo-kanji#充) [+7](#r-jU) |   |   | [女](joyo-kanji#女) [助](joyo-kanji#助) [除](joyo-kanji#除) [序](joyo-kanji#序) [徐](joyo-kanji#徐) [+2](#r-jo) | [上](joyo-kanji#上) [定](joyo-kanji#定) [場](joyo-kanji#場) [成](joyo-kanji#成) [情](joyo-kanji#情) [+24](#r-jO) |
 | kannaDa | ್ಜ | ಜ್ | ಜ | ಜಾ | ಜಿ | ಜೀ | ಜು | ಜೂ | ಜೆ | ಜೇ | ಜೊ | ಜೋ |
+|   |   |   |   |   |   |   |   |   |   |   |   |   |
+| Eke | Y | Y | Ya | YA | Yi | YI | Yu | YU | Ye | YE | Yo | YO |
+| hiragAna | ❌ | ❌ | にゃ | にゃあ | に | にい | にゅ | にゅう | ❌ | ❌ | にょ | にょう |
+| katakAna | ❌ | ❌ | ニャ | ニャー | ニ | ニー | ニュ | ニュー | ニェ | ニェー | ニョ | ニョー |
+| kAnji | ❌ | ❌ | [若](joyo-kanji#若) |   | [二](joyo-kanji#二) [児](joyo-kanji#児) [荷](joyo-kanji#荷) [仁](joyo-kanji#仁) [丹](joyo-kanji#丹) [+4](#r-Yi) |   |   | [入](joyo-kanji#入) [柔](joyo-kanji#柔) [乳](joyo-kanji#乳) | ❌ | ❌ | [女](joyo-kanji#女) [如](joyo-kanji#如) | [女](joyo-kanji#女) [尿](joyo-kanji#尿) [溺](joyo-kanji#溺) |
+| kannaDa | ್ಞ | ಞ್ | ಞ | ಞಾ | ಞಿ | ಞೀ | ಞು | ಞೂ | ಞೆ | ಞೇ | ಞೊ | ಞೋ |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | Eke | T | T | Ta | TA | Ti | TI | Tu | TU | Te | TE | To | TO |
 | hiragAna | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
@@ -125,9 +137,9 @@ Every Japanese kana set beside the Kannada akshara that sounds closest, with its
 | kannaDa | ್ಲ | ಲ್ | ಲ | ಲಾ | ಲಿ | ಲೀ | ಲು | ಲೂ | ಲೆ | ಲೇ | ಲೊ | ಲೋ |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | Eke | v | v | va | vA | vi | vI | vu | vU | ve | vE | vo | vO |
-| hiragAna | ❌ | ❌ | わ | わあ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| katakAna | ❌ | ❌ | ワ | ワー | ウィ | ウィー | ❌ | ❌ | ウェ | ウェー | ウォ | ウォー |
-| kAnji | ❌ | ❌ | [和](joyo-kanji#和) [話](joyo-kanji#話) [環](joyo-kanji#環) [輪](joyo-kanji#輪) [羽](joyo-kanji#羽) [+2](#r-va) |   | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| hiragAna | ❌ | ❌ | わ | わあ | ゐ | ❌ | ❌ | ❌ | ゑ | ❌ | を | ❌ |
+| katakAna | ❌ | ❌ | ワ・ヴァ | ワー・ヴァー | ヰ・ウィ・ヴィ | ウィー・ヴィー | ヴ | ヴー | ヱ・ウェ・ヴェ | ウェー・ヴェー | ヲ・ウォ・ヴォ | ウォー・ヴォー |
+| kAnji | ❌ | ❌ | [和](joyo-kanji#和) [話](joyo-kanji#話) [環](joyo-kanji#環) [輪](joyo-kanji#輪) [羽](joyo-kanji#羽) [+2](#r-va) |   |   | ❌ | ❌ | ❌ |   | ❌ |   | ❌ |
 | kannaDa | ್ವ | ವ್ | ವ | ವಾ | ವಿ | ವೀ | ವು | ವೂ | ವೆ | ವೇ | ವೊ | ವೋ |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | Eke | S | S | Sa | SA | Si | SI | Su | SU | Se | SE | So | SO |
@@ -143,8 +155,8 @@ Every Japanese kana set beside the Kannada akshara that sounds closest, with its
 | kannaDa | ್ಸ | ಸ್ | ಸ | ಸಾ | ಸಿ | ಸೀ | ಸು | ಸೂ | ಸೆ | ಸೇ | ಸೊ | ಸೋ |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | Eke | z | z | za | zA | zi | zI | zu | zU | ze | zE | zo | zO |
-| hiragAna | ❌ | ❌ | ざ | ざあ | ❌ | ❌ | ず | ずう | ぜ | ぜい | ぞ | ぞう |
-| katakAna | ❌ | ❌ | ザ | ザー | ズィ | ズィー | ズ | ズー | ゼ | ゼー | ゾ | ゾー |
+| hiragAna | ❌ | ❌ | ざ | ざあ | ❌ | ❌ | ず・づ | ずう・づう | ぜ | ぜい | ぞ | ぞう |
+| katakAna | ❌ | ❌ | ザ | ザー | ズィ | ズィー | ズ・ヅ | ズー・ヅー | ゼ | ゼー | ゾ | ゾー |
 | kAnji | ❌ | ❌ | [座](joyo-kanji#座) [挫](joyo-kanji#挫) |   | ❌ | ❌ | [事](joyo-kanji#事) [手](joyo-kanji#手) [頭](joyo-kanji#頭) [図](joyo-kanji#図) [豆](joyo-kanji#豆) [+1](#r-zu) |   | [是](joyo-kanji#是) | [勢](joyo-kanji#勢) [税](joyo-kanji#税) [説](joyo-kanji#説) |   | [三](joyo-kanji#三) [増](joyo-kanji#増) [象](joyo-kanji#象) [造](joyo-kanji#造) [蔵](joyo-kanji#蔵) [+7](#r-zO) |
 | kannaDa | ❌ | ಜ಼್ | ಜ಼ | ಜ಼ಾ | ಜ಼ಿ | ಜ಼ೀ | ಜ಼ು | ಜ಼ೂ | ಜ಼ೆ | ಜ಼ೇ | ಜ಼ೊ | ಜ಼ೋ |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
@@ -162,9 +174,12 @@ Every Japanese kana set beside the Kannada akshara that sounds closest, with its
 
 **Reading the table**
 
-- ❌ — Japanese has no such sound. Kannada's retroflexes ಟ ಡ ಣ ಳ have no kana; Japanese has a single *r* (ら行) that covers both ರ and ಲ.
+- ❌ — Japanese has no such sound. ಋ, the visarga ಃ and the aspirated mahaprANa letters (ಖ ಘ ಛ ಝ ಠ ಢ ಥ ಧ ಫ ಭ) have no kana at all, since Japanese has no aspirated consonants. ಙ appears only as ん before *k*/*g* (see ん below). Kannada's retroflexes ಟ ಡ ಣ ಳ have no kana; Japanese has a single *r* (ら行) that covers both ರ and ಲ.
 - Katakana in a cell with ❌ under hiragana (ティ, ファ, ウォ…) is a loanword-only spelling, used for foreign words.
 - Long vowels: katakana adds ー (カー). Hiragana doubles the vowel for *a i u* (かあ きい くう) but usually writes long *e* as えい (けい) and long *o* as おう (こう); ええ and おお also occur (ねえ, 大 おお).
+- ぢ and づ are spelling variants of じ and ず, used where the sound comes from ち/つ (鼻血 はなぢ, 続く つづく).
+- ವ row: ヴ (ヴァ ヴィ ヴェ ヴォ) spells a true *v* in loanwords; ゐ ゑ (ヰ ヱ) are archaic *wi*/*we*; を is the object particle, now said *o*.
+- ಞ: Japanese に is palatal, so に and にゃ にゅ にょ are ಞಿ and ಞ ಞು ಞೊ.
 - ふ is between ಹು and ಫ಼ು (a soft *f* made with both lips), so it sits in the *f* block; ホゥ is the loanword spelling for a true *hu*.
 - ತ್ಸ (つ), ಫ಼ (ふ) and ಜ಼ (ざ行) have no native Kannada akshara; Eke reserves *f* and *z* for such borrowed sounds.
 - kAnji: every jōyō kanji read with exactly that kana — the most common first; **+N** jumps to the full list at the bottom of the page. Empty where no jōyō kanji has that reading. Kanji after a · are earlier hand picks that are not exact jōyō readings (お母さん's 母 for かあ, 紀伊 for きい). Click a kanji to open its entry on the [jōyō kanji page](joyo-kanji).
@@ -187,12 +202,6 @@ Small ゃ ゅ ょ after an *i*-row kana gives the ಯ ottu: き + ゃ = きゃ =
 | gyU | ぎゅう | ギュー | [牛](joyo-kanji#牛) | ಗ್ಯೂ |
 | gyo | ぎょ | ギョ | [御](joyo-kanji#御) [漁](joyo-kanji#漁) [魚](joyo-kanji#魚) | ಗ್ಯೊ |
 | gyO | ぎょう | ギョー | [行](joyo-kanji#行) [業](joyo-kanji#業) [形](joyo-kanji#形) [仰](joyo-kanji#仰) [凝](joyo-kanji#凝) [+1](#r-gyO) | ಗ್ಯೋ |
-| nya | にゃ | ニャ | [若](joyo-kanji#若) | ನ್ಯ |
-| nyA | にゃあ | ニャー |   | ನ್ಯಾ |
-| nyu | にゅ | ニュ |   | ನ್ಯು |
-| nyU | にゅう | ニュー | [入](joyo-kanji#入) [柔](joyo-kanji#柔) [乳](joyo-kanji#乳) | ನ್ಯೂ |
-| nyo | にょ | ニョ | [女](joyo-kanji#女) [如](joyo-kanji#如) | ನ್ಯೊ |
-| nyO | にょう | ニョー | [女](joyo-kanji#女) [尿](joyo-kanji#尿) [溺](joyo-kanji#溺) | ನ್ಯೋ |
 | hya | ひゃ | ヒャ |   | ಹ್ಯ |
 | hyA | ひゃあ | ヒャー |   | ಹ್ಯಾ |
 | hyu | ひゅ | ヒュ |   | ಹ್ಯು |
@@ -224,7 +233,7 @@ Small ゃ ゅ ょ after an *i*-row kana gives the ಯ ottu: き + ゃ = きゃ =
 | ryo | りょ | リョ | [旅](joyo-kanji#旅) [慮](joyo-kanji#慮) [虜](joyo-kanji#虜) [呂](joyo-kanji#呂) [侶](joyo-kanji#侶) | ರ್ಯೊ |
 | ryO | りょう | リョー | [領](joyo-kanji#領) [両](joyo-kanji#両) [料](joyo-kanji#料) [量](joyo-kanji#量) [良](joyo-kanji#良) [+14](#r-ryO) | ರ್ಯೋ |
 
-ちゃ じゃ しゃ (c, j, S) are in the main table — Kannada ಚ ಜ ಶ already carry the *y* glide.
+ちゃ じゃ しゃ (c, j, S) and にゃ (ಞ) are in the main table: Kannada ಚ ಜ ಶ ಞ already carry the *y* glide. Japanese に is itself palatal, so にゃ にゅ にょ are ಞ ಞು ಞೊ rather than ನ್ಯ.
 
 ## ん — the moraic nasal (ಂ)
 
@@ -253,6 +262,43 @@ A small っ (ッ) doubles the consonant after it — the Kannada ottu of the sam
 | pp | っぱ っぴ っぷ っぺ っぽ | ッパ ッピ ップ ッペ ッポ | ಪ್ಪ ಪ್ಪಿ ಪ್ಪು ಪ್ಪೆ ಪ್ಪೊ | [一](joyo-kanji#一)[杯](joyo-kanji#杯) いっぱい · ippai · ಇಪ್ಪಇ |
 
 っ doubles only *k s S t c ts p*. Kannada also doubles ಗ ಜ ದ ಬ ನ ಮ ಲ (ಅಗ್ಗ, ಅಮ್ಮ…), which Japanese writes only in loanwords (ベッド *beddo*, バッグ *baggu*) or with ん + kana (*mm* = んま: あんま).
+
+## ಐ and ಔ — two kana in Japanese
+
+Japanese has no single kana for ಐ or ಔ: it writes the two vowels separately (あい, あお/あう), each a beat of its own.
+
+| **Eke** | **hiragAna** | **katakAna** | **kAnji** | **kannaDa** |
+|---|---|---|---|---|
+| ai | あい | アイ | [間](joyo-kanji#間) [愛](joyo-kanji#愛) [哀](joyo-kanji#哀) [藍](joyo-kanji#藍) [挨](joyo-kanji#挨) [+1](#r-ai) | ಐ |
+| kai | かい | カイ | [会](joyo-kanji#会) [回](joyo-kanji#回) [開](joyo-kanji#開) [改](joyo-kanji#改) [界](joyo-kanji#界) [+28](#r-kai) | ಕೈ |
+| gai | がい | ガイ | [外](joyo-kanji#外) [害](joyo-kanji#害) [街](joyo-kanji#街) [概](joyo-kanji#概) [涯](joyo-kanji#涯) [+7](#r-gai) | ಗೈ |
+| sai | さい | サイ | [最](joyo-kanji#最) [済](joyo-kanji#済) [際](joyo-kanji#際) [西](joyo-kanji#西) [歳](joyo-kanji#歳) [+26](#r-sai) | ಸೈ |
+| zai | ざい | ザイ | [在](joyo-kanji#在) [財](joyo-kanji#財) [材](joyo-kanji#材) [罪](joyo-kanji#罪) [剤](joyo-kanji#剤) | ಜ಼ೈ |
+| tai | たい | タイ | [大](joyo-kanji#大) [対](joyo-kanji#対) [代](joyo-kanji#代) [体](joyo-kanji#体) [来](joyo-kanji#来) [+20](#r-tai) | ತೈ |
+| dai | だい | ダイ | [大](joyo-kanji#大) [内](joyo-kanji#内) [代](joyo-kanji#代) [題](joyo-kanji#題) [第](joyo-kanji#第) [+5](#r-dai) | ದೈ |
+| nai | ない | ナイ | [内](joyo-kanji#内) [奈](joyo-kanji#奈) [没](joyo-kanji#没) [泥](joyo-kanji#泥) | ನೈ |
+| hai | はい | ハイ | [配](joyo-kanji#配) [敗](joyo-kanji#敗) [背](joyo-kanji#背) [廃](joyo-kanji#廃) [抜](joyo-kanji#抜) [+7](#r-hai) | ಹೈ |
+| bai | ばい | バイ | [売](joyo-kanji#売) [買](joyo-kanji#買) [倍](joyo-kanji#倍) [枚](joyo-kanji#枚) [梅](joyo-kanji#梅) [+8](#r-bai) | ಬೈ |
+| mai | まい | マイ | [米](joyo-kanji#米) [毎](joyo-kanji#毎) [舞](joyo-kanji#舞) [枚](joyo-kanji#枚) [埋](joyo-kanji#埋) [+2](#r-mai) | ಮೈ |
+| rai | らい | ライ | [来](joyo-kanji#来) [塁](joyo-kanji#塁) [頼](joyo-kanji#頼) [瀬](joyo-kanji#瀬) [礼](joyo-kanji#礼) [+1](#r-rai) | ರೈ |
+| vai | わい | ワイ | [賄](joyo-kanji#賄) | ವೈ |
+| au | あお・あう | アオ・アウ | [青](joyo-kanji#青) | ಔ |
+| kau | かお・かう | カオ・カウ | [顔](joyo-kanji#顔) | ಕೌ |
+| nau | なお・なう | ナオ・ナウ | [尚](joyo-kanji#尚) [猶](joyo-kanji#猶) | ನೌ |
+
+Japanese *au* inside a word became *ō* long ago (かう → こう), so ಔ survives mostly across word parts: 青 あお, 顔 かお, 会う あう.
+
+## Rarer kana
+
+| **Kana** | **Eke** | **kannaDa** | **Used in** |
+|---|---|---|---|
+| クァ クィ クェ クォ | `kva kvi kve kvo` | ಕ್ವ ಕ್ವಿ ಕ್ವೆ ಕ್ವೊ | foreign names (クォーク *quark*) |
+| グァ | `gva` | ಗ್ವ | グァム *Guam* |
+| テュ・デュ | `tyu dyu` | ತ್ಯು ದ್ಯು | デュエット *duet* |
+| フュ・ヴュ | `fyu vyu` | ಫ಼್ಯು ವ್ಯು | フュージョン *fusion* |
+| ヵ ヶ | `ka ka/ga` | ಕ | counters: 一ヶ月 *ikkagetsu* (one month), 霞ヶ関 *kasumigaseki* |
+| ゝ ゞ ヽ ヾ | — | — | repeat the kana before (ゞ adds voicing): いすゞ *isuzu*, こゝろ *kokoro* |
+| 々 | — | — | repeat the kanji before: 人々 *hitobito*, 時々 *tokidoki* |
 
 ## Every jōyō kanji by exact reading
 
@@ -302,7 +348,7 @@ Where a sound has more than 5 kanji, the table shows the 5 most common and links
 
 <a id="r-cO"></a>**ちょう** `cO` (33): [長](joyo-kanji#長) [場](joyo-kanji#場) [調](joyo-kanji#調) [重](joyo-kanji#重) [朝](joyo-kanji#朝) [提](joyo-kanji#提) [町](joyo-kanji#町) [条](joyo-kanji#条) [張](joyo-kanji#張) [登](joyo-kanji#登) [超](joyo-kanji#超) [聴](joyo-kanji#聴) [庁](joyo-kanji#庁) [徴](joyo-kanji#徴) [塚](joyo-kanji#塚) [挑](joyo-kanji#挑) [鳥](joyo-kanji#鳥) [兆](joyo-kanji#兆) [潮](joyo-kanji#潮) [懲](joyo-kanji#懲) [丁](joyo-kanji#丁) [頂](joyo-kanji#頂) [帳](joyo-kanji#帳) [彫](joyo-kanji#彫) [釣](joyo-kanji#釣) [畳](joyo-kanji#畳) [跳](joyo-kanji#跳) [澄](joyo-kanji#澄) [眺](joyo-kanji#眺) [腸](joyo-kanji#腸) [弔](joyo-kanji#弔) [貼](joyo-kanji#貼) [嘲](joyo-kanji#嘲)
 
-<a id="r-ji"></a>**じ** `ji` (26): [二](joyo-kanji#二) [時](joyo-kanji#時) [事](joyo-kanji#事) [自](joyo-kanji#自) [地](joyo-kanji#地) [治](joyo-kanji#治) [持](joyo-kanji#持) [次](joyo-kanji#次) [示](joyo-kanji#示) [仕](joyo-kanji#仕) [字](joyo-kanji#字) [除](joyo-kanji#除) [辞](joyo-kanji#辞) [児](joyo-kanji#児) [寺](joyo-kanji#寺) [似](joyo-kanji#似) [茨](joyo-kanji#茨) [耳](joyo-kanji#耳) [稚](joyo-kanji#稚) [滋](joyo-kanji#滋) [磁](joyo-kanji#磁) [慈](joyo-kanji#慈) [侍](joyo-kanji#侍) [餌](joyo-kanji#餌) [弐](joyo-kanji#弐) [璽](joyo-kanji#璽)
+<a id="r-ji"></a>**じ・ぢ** `ji` (26): [二](joyo-kanji#二) [時](joyo-kanji#時) [事](joyo-kanji#事) [自](joyo-kanji#自) [地](joyo-kanji#地) [治](joyo-kanji#治) [持](joyo-kanji#持) [次](joyo-kanji#次) [示](joyo-kanji#示) [仕](joyo-kanji#仕) [字](joyo-kanji#字) [除](joyo-kanji#除) [辞](joyo-kanji#辞) [児](joyo-kanji#児) [寺](joyo-kanji#寺) [似](joyo-kanji#似) [茨](joyo-kanji#茨) [耳](joyo-kanji#耳) [稚](joyo-kanji#稚) [滋](joyo-kanji#滋) [磁](joyo-kanji#磁) [慈](joyo-kanji#慈) [侍](joyo-kanji#侍) [餌](joyo-kanji#餌) [弐](joyo-kanji#弐) [璽](joyo-kanji#璽)
 
 <a id="r-ju"></a>**じゅ** `ju` (11): [入](joyo-kanji#入) [受](joyo-kanji#受) [授](joyo-kanji#授) [従](joyo-kanji#従) [就](joyo-kanji#就) [習](joyo-kanji#習) [需](joyo-kanji#需) [樹](joyo-kanji#樹) [寿](joyo-kanji#寿) [呪](joyo-kanji#呪) [儒](joyo-kanji#儒)
 
@@ -311,6 +357,8 @@ Where a sound has more than 5 kanji, the table shows the 5 most common and links
 <a id="r-jo"></a>**じょ** `jo` (7): [女](joyo-kanji#女) [助](joyo-kanji#助) [除](joyo-kanji#除) [序](joyo-kanji#序) [徐](joyo-kanji#徐) [如](joyo-kanji#如) [叙](joyo-kanji#叙)
 
 <a id="r-jO"></a>**じょう** `jO` (29): [上](joyo-kanji#上) [定](joyo-kanji#定) [場](joyo-kanji#場) [成](joyo-kanji#成) [情](joyo-kanji#情) [常](joyo-kanji#常) [状](joyo-kanji#状) [条](joyo-kanji#条) [乗](joyo-kanji#乗) [盛](joyo-kanji#盛) [静](joyo-kanji#静) [承](joyo-kanji#承) [城](joyo-kanji#城) [譲](joyo-kanji#譲) [縄](joyo-kanji#縄) [娘](joyo-kanji#娘) [丈](joyo-kanji#丈) [浄](joyo-kanji#浄) [壌](joyo-kanji#壌) [剰](joyo-kanji#剰) [蒸](joyo-kanji#蒸) [畳](joyo-kanji#畳) [冗](joyo-kanji#冗) [醸](joyo-kanji#醸) [錠](joyo-kanji#錠) [尉](joyo-kanji#尉) [嬢](joyo-kanji#嬢) [捻](joyo-kanji#捻) [溺](joyo-kanji#溺)
+
+<a id="r-Yi"></a>**に** `Yi` (9): [二](joyo-kanji#二) [児](joyo-kanji#児) [荷](joyo-kanji#荷) [仁](joyo-kanji#仁) [丹](joyo-kanji#丹) [泥](joyo-kanji#泥) [尼](joyo-kanji#尼) [餌](joyo-kanji#餌) [弐](joyo-kanji#弐)
 
 <a id="r-ta"></a>**た** `ta` (8): [田](joyo-kanji#田) [多](joyo-kanji#多) [他](joyo-kanji#他) [太](joyo-kanji#太) [駄](joyo-kanji#駄) [誰](joyo-kanji#誰) [唾](joyo-kanji#唾) [汰](joyo-kanji#汰)
 
@@ -400,7 +448,7 @@ Where a sound has more than 5 kanji, the table shows the 5 most common and links
 
 <a id="r-sO"></a>**そう** `sO` (48): [相](joyo-kanji#相) [総](joyo-kanji#総) [世](joyo-kanji#世) [争](joyo-kanji#争) [送](joyo-kanji#送) [想](joyo-kanji#想) [早](joyo-kanji#早) [蔵](joyo-kanji#蔵) [捜](joyo-kanji#捜) [走](joyo-kanji#走) [将](joyo-kanji#将) [装](joyo-kanji#装) [創](joyo-kanji#創) [葬](joyo-kanji#葬) [層](joyo-kanji#層) [繰](joyo-kanji#繰) [喪](joyo-kanji#喪) [草](joyo-kanji#草) [宗](joyo-kanji#宗) [贈](joyo-kanji#贈) [操](joyo-kanji#操) [双](joyo-kanji#双) [扱](joyo-kanji#扱) [奏](joyo-kanji#奏) [騒](joyo-kanji#騒) [倉](joyo-kanji#倉) [窓](joyo-kanji#窓) [掃](joyo-kanji#掃) [曽](joyo-kanji#曽) [箱](joyo-kanji#箱) [奨](joyo-kanji#奨) [滝](joyo-kanji#滝) [荘](joyo-kanji#荘) [遭](joyo-kanji#遭) [巣](joyo-kanji#巣) [桑](joyo-kanji#桑) [壮](joyo-kanji#壮) [僧](joyo-kanji#僧) [槽](joyo-kanji#槽) [燥](joyo-kanji#燥) [挿](joyo-kanji#挿) [曹](joyo-kanji#曹) [爪](joyo-kanji#爪) [藻](joyo-kanji#藻) [霜](joyo-kanji#霜) [爽](joyo-kanji#爽) [痩](joyo-kanji#痩) [踪](joyo-kanji#踪)
 
-<a id="r-zu"></a>**ず** `zu` (6): [事](joyo-kanji#事) [手](joyo-kanji#手) [頭](joyo-kanji#頭) [図](joyo-kanji#図) [豆](joyo-kanji#豆) [呪](joyo-kanji#呪)
+<a id="r-zu"></a>**ず・づ** `zu` (6): [事](joyo-kanji#事) [手](joyo-kanji#手) [頭](joyo-kanji#頭) [図](joyo-kanji#図) [豆](joyo-kanji#豆) [呪](joyo-kanji#呪)
 
 <a id="r-zO"></a>**ぞう** `zO` (12): [三](joyo-kanji#三) [増](joyo-kanji#増) [象](joyo-kanji#象) [造](joyo-kanji#造) [蔵](joyo-kanji#蔵) [雑](joyo-kanji#雑) [像](joyo-kanji#像) [臓](joyo-kanji#臓) [贈](joyo-kanji#贈) [曽](joyo-kanji#曽) [憎](joyo-kanji#憎) [曹](joyo-kanji#曹)
 
@@ -431,3 +479,23 @@ Where a sound has more than 5 kanji, the table shows the 5 most common and links
 <a id="r-ryU"></a>**りゅう** `ryU` (9): [立](joyo-kanji#立) [流](joyo-kanji#流) [留](joyo-kanji#留) [隆](joyo-kanji#隆) [柳](joyo-kanji#柳) [竜](joyo-kanji#竜) [粒](joyo-kanji#粒) [硫](joyo-kanji#硫) [瑠](joyo-kanji#瑠)
 
 <a id="r-ryO"></a>**りょう** `ryO` (19): [領](joyo-kanji#領) [両](joyo-kanji#両) [料](joyo-kanji#料) [量](joyo-kanji#量) [良](joyo-kanji#良) [郎](joyo-kanji#郎) [療](joyo-kanji#療) [僚](joyo-kanji#僚) [了](joyo-kanji#了) [養](joyo-kanji#養) [漁](joyo-kanji#漁) [竜](joyo-kanji#竜) [糧](joyo-kanji#糧) [霊](joyo-kanji#霊) [寮](joyo-kanji#寮) [陵](joyo-kanji#陵) [涼](joyo-kanji#涼) [猟](joyo-kanji#猟) [瞭](joyo-kanji#瞭)
+
+<a id="r-ai"></a>**あい** `ai` (6): [間](joyo-kanji#間) [愛](joyo-kanji#愛) [哀](joyo-kanji#哀) [藍](joyo-kanji#藍) [挨](joyo-kanji#挨) [曖](joyo-kanji#曖)
+
+<a id="r-kai"></a>**かい** `kai` (33): [会](joyo-kanji#会) [回](joyo-kanji#回) [開](joyo-kanji#開) [改](joyo-kanji#改) [界](joyo-kanji#界) [解](joyo-kanji#解) [画](joyo-kanji#画) [海](joyo-kanji#海) [階](joyo-kanji#階) [介](joyo-kanji#介) [壊](joyo-kanji#壊) [街](joyo-kanji#街) [絵](joyo-kanji#絵) [届](joyo-kanji#届) [掛](joyo-kanji#掛) [戒](joyo-kanji#戒) [快](joyo-kanji#快) [皆](joyo-kanji#皆) [械](joyo-kanji#械) [悔](joyo-kanji#悔) [懐](joyo-kanji#懐) [拐](joyo-kanji#拐) [怪](joyo-kanji#怪) [灰](joyo-kanji#灰) [刈](joyo-kanji#刈) [貝](joyo-kanji#貝) [塊](joyo-kanji#塊) [蓋](joyo-kanji#蓋) [楷](joyo-kanji#楷) [潰](joyo-kanji#潰) [詮](joyo-kanji#詮) [諧](joyo-kanji#諧) [骸](joyo-kanji#骸)
+
+<a id="r-gai"></a>**がい** `gai` (12): [外](joyo-kanji#外) [害](joyo-kanji#害) [街](joyo-kanji#街) [概](joyo-kanji#概) [涯](joyo-kanji#涯) [該](joyo-kanji#該) [刈](joyo-kanji#刈) [慨](joyo-kanji#慨) [劾](joyo-kanji#劾) [蓋](joyo-kanji#蓋) [崖](joyo-kanji#崖) [骸](joyo-kanji#骸)
+
+<a id="r-sai"></a>**さい** `sai` (31): [最](joyo-kanji#最) [済](joyo-kanji#済) [際](joyo-kanji#際) [西](joyo-kanji#西) [歳](joyo-kanji#歳) [再](joyo-kanji#再) [裁](joyo-kanji#裁) [切](joyo-kanji#切) [財](joyo-kanji#財) [崎](joyo-kanji#崎) [催](joyo-kanji#催) [細](joyo-kanji#細) [殺](joyo-kanji#殺) [採](joyo-kanji#採) [妻](joyo-kanji#妻) [債](joyo-kanji#債) [載](joyo-kanji#載) [埼](joyo-kanji#埼) [災](joyo-kanji#災) [祭](joyo-kanji#祭) [斎](joyo-kanji#斎) [斉](joyo-kanji#斉) [彩](joyo-kanji#彩) [菜](joyo-kanji#菜) [栽](joyo-kanji#栽) [才](joyo-kanji#才) [砕](joyo-kanji#砕) [宰](joyo-kanji#宰) [凄](joyo-kanji#凄) [塞](joyo-kanji#塞) [采](joyo-kanji#采)
+
+<a id="r-tai"></a>**たい** `tai` (25): [大](joyo-kanji#大) [対](joyo-kanji#対) [代](joyo-kanji#代) [体](joyo-kanji#体) [来](joyo-kanji#来) [台](joyo-kanji#台) [態](joyo-kanji#態) [待](joyo-kanji#待) [退](joyo-kanji#退) [太](joyo-kanji#太) [隊](joyo-kanji#隊) [帯](joyo-kanji#帯) [逮](joyo-kanji#逮) [替](joyo-kanji#替) [貸](joyo-kanji#貸) [滞](joyo-kanji#滞) [袋](joyo-kanji#袋) [泰](joyo-kanji#泰) [耐](joyo-kanji#耐) [怠](joyo-kanji#怠) [胎](joyo-kanji#胎) [堆](joyo-kanji#堆) [戴](joyo-kanji#戴) [諦](joyo-kanji#諦) [汰](joyo-kanji#汰)
+
+<a id="r-dai"></a>**だい** `dai` (10): [大](joyo-kanji#大) [内](joyo-kanji#内) [代](joyo-kanji#代) [題](joyo-kanji#題) [第](joyo-kanji#第) [提](joyo-kanji#提) [台](joyo-kanji#台) [奈](joyo-kanji#奈) [袋](joyo-kanji#袋) [弟](joyo-kanji#弟)
+
+<a id="r-hai"></a>**はい** `hai` (12): [配](joyo-kanji#配) [敗](joyo-kanji#敗) [背](joyo-kanji#背) [廃](joyo-kanji#廃) [抜](joyo-kanji#抜) [排](joyo-kanji#排) [俳](joyo-kanji#俳) [杯](joyo-kanji#杯) [輩](joyo-kanji#輩) [肺](joyo-kanji#肺) [拝](joyo-kanji#拝) [灰](joyo-kanji#灰)
+
+<a id="r-bai"></a>**ばい** `bai` (13): [売](joyo-kanji#売) [買](joyo-kanji#買) [倍](joyo-kanji#倍) [枚](joyo-kanji#枚) [梅](joyo-kanji#梅) [賠](joyo-kanji#賠) [培](joyo-kanji#培) [貝](joyo-kanji#貝) [殻](joyo-kanji#殻) [媒](joyo-kanji#媒) [陪](joyo-kanji#陪) [唄](joyo-kanji#唄) [昧](joyo-kanji#昧)
+
+<a id="r-mai"></a>**まい** `mai` (7): [米](joyo-kanji#米) [毎](joyo-kanji#毎) [舞](joyo-kanji#舞) [枚](joyo-kanji#枚) [埋](joyo-kanji#埋) [妹](joyo-kanji#妹) [昧](joyo-kanji#昧)
+
+<a id="r-rai"></a>**らい** `rai` (6): [来](joyo-kanji#来) [塁](joyo-kanji#塁) [頼](joyo-kanji#頼) [瀬](joyo-kanji#瀬) [礼](joyo-kanji#礼) [雷](joyo-kanji#雷)
