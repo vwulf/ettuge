@@ -5,7 +5,7 @@ redirect_from:
   - /dnsbhat/07-kannadada-sollarime/07-kannadada-sollarime-vol3-en
 ---
 
-> [← Index](../../../README) | Kannada: [kn](../../kn/full) | Eke: [eke](../../eke/full)
+> [← Index](../../../) | Kannada: [kn](../../kn/full) | Eke: [eke](../../eke/full)
 
 # Kannada Barahada Sollarime — Volume 3: English Summary
 

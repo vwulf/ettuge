@@ -10,7 +10,7 @@ redirect_from:
 **prakaTaNe:** 2010
 **mUla:** PDF (Google Drive) — OCR SuddhIkxta prati
 
-> [← sUci](../../../README) | ingliS viSlEShaNe: [en](../../en/summary) | kannaDa: [kn](../kn/full)
+> [← sUci](../../../) | ingliS viSlEShaNe: [en](../../en/summary) | kannaDa: [kn](../kn/full)
 
 
 

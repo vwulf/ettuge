@@ -11,7 +11,7 @@ redirect_from:
 **prakaTaNe:** —, bASAprakASana, heggoDu
 **mUla:** PDF (Google Drive) — Baraha phAnT → Unicode parivartan
 
-> [← sUci](../../../README) | ingliS viSlESaNe: [en](../../en/summary) | kannaDa: [kn](../kn/full)
+> [← sUci](../../../) | ingliS viSlESaNe: [en](../../en/summary) | kannaDa: [kn](../kn/full)
 
 ---
 
@@ -882,4 +882,4 @@ tOrUpadagaLa mukhya lacaNegaLannu I adhyAyadalli vivarisalAyitu: i-/A- mUlada rU
 
 ---
 
-[← sUci](../../../README)
+[← sUci](../../../)

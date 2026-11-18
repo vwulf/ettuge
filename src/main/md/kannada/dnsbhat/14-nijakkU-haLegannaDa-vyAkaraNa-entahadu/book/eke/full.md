@@ -8,7 +8,7 @@ redirect_from:
 **lEkhakaru:** Di. en. Sankara bhaT
 **prakaTaNe:** ೨೦೦೫ (modala mudraNa)
 
-> [← sUci](../../README) | ingliS viSlEShaNe: [en](../en/summary) | kannaDa: [kn](../kn/full)
+> [← sUci](../../) | ingliS viSlEShaNe: [en](../en/summary) | kannaDa: [kn](../kn/full)
 
 > mUla pustakada sampUrNa paThya: [`raw.md`](../kn/raw)
 

@@ -170,7 +170,7 @@ The book's central purpose is to correct widespread popular misconceptions about
 9. **Repository source (Phase 17):** A clean structured Kannada source file `27-bhASheya-bagge-kn.md` is available from the Sarvam Vision OCR pipeline. It has a ಒಳಪಿಡಿ TOC restructured in Phase 17 with `<a id="adhyAya-N">` anchors. The Eke romanisation file `27-bhASheya-bagge-kn-eke.md` mirrors the same structure. There are no citation-mark issues in this book — it does not use DNS Bhat's backtick-apostrophe typographic convention.
 
 
-10. **Repository source (Phase 19):** The kn.md already had 221 anchors (5 part-N, 32 sec-N-M, 184 sub-N-M-K). Phase 19 added `[Eke →]` cross-links after every sec/sub anchor in kn.md and `[ಕನ್ನಡ →]` links in kn-eke.md. Header has `[← ಸೂಚಿ](./README)` index back-link. Part anchors use `part-N` format; section and subsection use `sec-N-M` / `sub-N-M-K`.
+10. **Repository source (Phase 19):** The kn.md already had 221 anchors (5 part-N, 32 sec-N-M, 184 sub-N-M-K). Phase 19 added `[Eke →]` cross-links after every sec/sub anchor in kn.md and `[ಕನ್ನಡ →]` links in kn-eke.md. Header has `[← ಸೂಚಿ](./)` index back-link. Part anchors use `part-N` format; section and subsection use `sec-N-M` / `sub-N-M-K`.
 
 11. **Chapter pages (Phase 33):** The Kannada source is split into individual chapter pages on GitHub Pages. Fetch specific chapters rather than loading the full book — chapters are lightweight and avoid token exhaustion when answering focused questions:
    - **Chapter index (ch0):** `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/27-bhASheya-bagge/book/kn/ch0`

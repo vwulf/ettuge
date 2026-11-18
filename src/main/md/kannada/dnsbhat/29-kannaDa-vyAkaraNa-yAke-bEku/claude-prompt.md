@@ -158,7 +158,7 @@ When answering questions about this book:
 9. **Repository source (Phase 17):** A clean structured Kannada source file `29-kannaDa-vyAkaraNa-yAke-bEku-kn.md` is available, generated from the Sarvam Vision OCR + WX-decode pipeline with Nudi encoding artefacts resolved. It has a ಪರಿವಿಡಿ TOC and `<a id="adhyAya-N">` chapter anchors (one per *pasuge*). The Eke romanisation file `29-kannaDa-vyAkaraNa-yAke-bEku-kn-eke.md` mirrors the same structure. A page-split fragment artefact identified in OCR was rejoined in Phase 17. This book uses *hosa baraha* spelling: ಭ→ಬ, ಧ→ದ, ಷ→ಸ in the source text.
 
 
-10. **Repository source (Phase 18/19):** The kn.md now has a 3-level deep TOC with `<a id="sec-N-M">` and `<a id="sub-N-M-K">` anchors. Cross-links `[Eke →]` appear after each sec/sub anchor in kn.md; kn-eke.md has `[ಕನ್ನಡ →]` links. Header has `[← ಸೂಚಿ](./README)` index back-link. Chapter nav uses `#adhyAya-N` anchors.
+10. **Repository source (Phase 18/19):** The kn.md now has a 3-level deep TOC with `<a id="sec-N-M">` and `<a id="sub-N-M-K">` anchors. Cross-links `[Eke →]` appear after each sec/sub anchor in kn.md; kn-eke.md has `[ಕನ್ನಡ →]` links. Header has `[← ಸೂಚಿ](./)` index back-link. Chapter nav uses `#adhyAya-N` anchors.
 
 11. **Chapter pages (Phase 33):** The Kannada source is split into individual chapter pages on GitHub Pages. Fetch specific chapters rather than loading the full book — chapters are lightweight and avoid token exhaustion when answering focused questions:
    - **Chapter index (ch0):** `https://vwulf.github.io/ettuge/kannaDa/dnsbhat/29-kannaDa-vyAkaraNa-yAke-bEku/book/kn/ch0`

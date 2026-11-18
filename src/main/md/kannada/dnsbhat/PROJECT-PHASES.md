@@ -4,7 +4,7 @@ nav_exclude: true
 ---
 
 # DNS Bhat Ettuge Project — Phase History
-*Phases 35 → 1, newest first. Full project context: [PROJECT-RECAP.md](./PROJECT-RECAP.md)*
+*Phases 35 → 1, newest first. Full project context: [PROJECT-RECAP](/ettuge/kannaDa/dnsbhat/PROJECT-RECAP)*
 
 ---
 
@@ -479,7 +479,7 @@ NN-slug/
 - ಪರಿವಿಡಿ TOC in each kn.md extended to list all three levels (chapter → section → subsection)
 - Cross-links inserted after every sec/sub anchor: `[Eke →](./SLUG-kn-eke#sec-N-M)` in kn.md; `[ಕನ್ನಡ →](./SLUG-kn#sec-N-M)` in kn-eke.md
 - Chapter nav fragments corrected to `#adhyAya-N` throughout
-- Index back-links added to all kn.md headers: `[← ಸೂಚಿ](./README)` and `[← sUci](./README)` in kn-eke.md
+- Index back-links added to all kn.md headers: `[← ಸೂಚಿ](./)` and `[← sUci](./)` in kn-eke.md
 - kn-eke.md self-referential header links corrected (were pointing to wrong file)
 
 ---

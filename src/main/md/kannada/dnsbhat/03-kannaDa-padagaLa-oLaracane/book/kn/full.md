@@ -8,7 +8,7 @@ redirect_from:
 **ಲೇಖಕರು:** ಡಿ. ಎನ್. ಶಂಕರ ಭಟ್
 **ಮೂಲ:** PDF (Sarvam Vision OCR) — OCR ಶುದ್ಧೀಕೃತ ಪ್ರತಿ
 
-> [← ಸೂಚಿ](../../README) | ಇಂಗ್ಲಿಶ್ ವಿಶ್ಲೇಷಣೆ: [en](../en/summary) | Eke: [eke](../eke/full)
+> [← ಸೂಚಿ](../../) | ಇಂಗ್ಲಿಶ್ ವಿಶ್ಲೇಷಣೆ: [en](../en/summary) | Eke: [eke](../eke/full)
 
 
 
