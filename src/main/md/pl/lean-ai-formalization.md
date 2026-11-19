@@ -1,6 +1,6 @@
 # Lean, Foundations, and the AI Formalization of Mathematics
 
-*Started Nov 1, 2026 · last updated Nov 12, 2026 · Vishwas*
+*Started Nov 1, 2026 · last updated Nov 19, 2026 · Vishwas*
 
 ## Summary
 
@@ -60,6 +60,28 @@ Rocq (formerly Coq) has a more conservative kernel, which keeps it HoTT-compatib
 | Recursion in kernel | Recursors only | `fix`/`match` with a syntactic guard condition |
 | HoTT | Incompatible | Coq-HoTT library works (avoids `Prop`, uses `-indices-matter`, univalence as axiom) |
 | Main math library | mathlib (\~2M+ lines) | Mathematical Components, UniMath, Coq-HoTT |
+
+### 3.1 Beyond Lean and Rocq: who finds the witness?
+
+Erik Meijer (Nov 2026) sorts the ways of connecting specifications, proofs and executable code by one question: who finds the witness, the value that satisfies the specification?
+
+| Approach | Examples | How the witness is found | Proof |
+| --- | --- | --- | --- |
+| Program, then prove | Lean, Dafny | A human (or AI) writes the algorithm | Written alongside, erased before running |
+| Program calculation | Squiggol / Bird–Meertens | Calculated from an obviously correct but slow program by fusion, promotion and similar laws | Each equational step is the proof |
+| Proof extraction and refinement | Rocq extraction to OCaml, Isabelle/HOL data refinement | Read off a constructive proof of ∃, or refined stepwise from an abstract spec | Written first; the program comes out of it |
+| Proof search as execution | Prolog and logic programming | Found at run time by unification and resolution | The search itself |
+
+His case for logic programming is that only it lets you state what makes a witness valid and leave finding it to execution. The boundaries are blurrier than the table suggests:
+
+- **Lean does extraction too.** An existential in `Type` (a subtype or Σ-type) carries a computable witness; one in `Prop` is erased. The Prop/Type split is exactly the line between the two. In Lean and Rocq alike, proofs that use classical choice yield no program.
+- **Lean already does program calculation.** Its `@[csimp]` lemmas (section 15.3) prove an obviously correct definition such as `foldr` equal to a fast tail-recursive one, which the compiler then substitutes. FAD (section 10.3) ports Bird & Gibbons' calculational *Algorithm Design with Haskell* to Lean.
+- **Lean also does proof search,** in `decide`, `omega`, `aesop` and `grind`, but at compile time, keeping only the result.
+- **Search and checking can combine:** λProlog and Twelf run proof search whose result is a proof term checked by a logical framework.
+
+**The price of searching at run time.** "A permutation that is ordered" is a perfect specification of sorting and an O(n!) program. For hard problems the search space is the problem, and taming it (clause order, cuts, constraints, tabling) means designing the algorithm again inside the search strategy, which is the gap Squiggol exists to close. Prolog's depth-first search can loop on valid queries, and cut and negation-as-failure are not logical; miniKanren, constraint logic programming, Datalog and SMT-backed solvers exist to restore the declarative promise. Logic programming wins where the search space is small or well-structured: type inference, program analysis, configuration.
+
+**The 2026 answer: AI finds the witness.** In the first three approaches the witness and proof are now increasingly found by agents at development time (sections 5, 9 and 14), and Lean's kernel checks the result. That moves human effort to where logic programming puts it, stating what makes a witness valid. The remaining difference is whether search runs once, offline, with a checked result, or every time the program runs, with the search strategy trusted.
 
 ## 4. AI + mathematicians: why Lean, and the HoTT question
 
