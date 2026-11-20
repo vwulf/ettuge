@@ -111,13 +111,23 @@ The AI-for-math industry has standardized on Lean 4 and mathlib; Rocq barely fig
 
 ## 5. Landmark formalizations, 2025–2026
 
-In 2026 AI agents formalized two of the largest proofs in mathematics, each in under a month; both artifacts dwarf mathlib.
+From September to November 2026, AI agents formalized most of the landmark theorems of 20th-century number theory and arithmetic geometry, each in weeks; the largest artifacts dwarf mathlib, and most have had little human review. Rows are newest first; the claimed RH/GRH proof is still under review.
 
 | Date | Result | Who | Scale and notes |
 | --- | --- | --- | --- |
-| Oct 2026 | [Classification of Finite Simple Groups](https://www.unite.ai/?p=495307) | Axiom Math, agent swarms | 24 days; \~43.1M lines, 2.05M declarations, 715 sources; follows the first-generation proof; found an error in a published argument for the unbalanced group theorem |
-| Aug 2026 | [FormaTheoria CFSG components](https://alphaxiv.org/abs/2608.10894v1) | Qiuzhen-CFSG | \~994K lines; through Bender–Suzuki, including Feit–Thompson; \~1.2M lines later reused by Axiom |
+| Nov 20, 2026 | [Riemann hypothesis and GRH (claimed)](https://alpo.ge/remark.pdf) | Levent Alpöge with Claude | \~17.4M lines, 175K files; no written proof; statement checked by Glazer, compiled by Sutherland; under review (section 18) |
+| Nov 13, 2026 | Weil conjectures; Hilbert's tenth over rings of integers | Google, Teamwork-LEAP agents (Gemini) | \~1.8M and \~919K lines; sizes from secondary coverage (section 18) |
+| Nov 12, 2026 | [Faltings' theorem (Mordell conjecture)](https://axiommath.ai/research/faltings-theorem-formalized/) | Axiom | \~124K lines on its Stacks library; proves the independent LeanEval statement; unreviewed (section 17.1) |
+| Nov 11, 2026 | [Yang–Mills existence](https://github.com/yang-mills-group/OpenAI-YM-20261028) | OpenAI (released by the Gross panel) | \~986K lines; no mass gap; no written proof; pre-fix kernel (section 17.2) |
+| Nov 10, 2026 | [Signal protocol at the machine-code level](https://deepmind.google/blog/introducing-alphaproof-code/) | Google DeepMind, AlphaProof Code | \~6.5M lines of proof about the compiled AArch64 binary; first protocol-level security proofs for unmodified deployed code (section 14) |
+| Nov 6, 2026 | [Weil conjectures, all four](https://axiommath.ai/research/the-weil-conjectures-formalized-in-lean/) | Axiom | On its Stacks library; Riemann hypothesis part via Laumon's route |
+| Nov 3, 2026 | [The Stacks Project](https://stacks.axiommath.ai/) | Axiom | \~18M lines; \~97% of results; \~99% unreviewed (section 9) |
+| Nov 2026 | [FLT, re-run](https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/) | 1,000 Claude Fable 5.2 agents | 28.7 hours; about a seventh of the original size (section 14.4) |
+| Oct 26, 2026 | [Classification of Finite Simple Groups](https://www.unite.ai/?p=495307) | Axiom, agent swarms | 24 days; \~43.1M lines, 2.05M declarations, 715 sources; found an error in a published argument; statement's sporadic-group definitions unchecked |
+| Oct 2026 | Quasi-Riemann hypothesis (no zeros with Re s > 7/8) | OpenAI | \~500K lines; accepted by two kernels in an independent rerun; the human-read 11/12 argument is not formalized |
 | Sep 2026 | [Fermat's Last Theorem](https://anthropic.com/research/formalizing-fermats-last-theorem) | Anthropic (Claude agents) | 11 days; \~13M lines; only Lean's three standard axioms; Buzzard reviewed; built on mathlib, Imperial's FLT project and flt-regular |
+| Sep 8, 2026 | Navier–Stokes blowup with forcing | OpenAI (\~10,000 agents, 88 hours) | \~640K lines; forced case only; a later paper found the PDF diverging from the Lean |
+| Aug 2026 | [FormaTheoria CFSG components](https://alphaxiv.org/abs/2608.10894v1) | Qiuzhen-CFSG | \~994K lines; through Bender–Suzuki, including Feit–Thompson; \~1.2M lines later reused by Axiom |
 | Feb 2026 | [Sphere packing in dimension 8](https://arxiv.org/html/2604.23468v3) | Hariharan–Viazovska project + Math, Inc. Gauss | Gauss completed the final stages; codebase grew from \~20K to 80K lines, refactored to 60K |
 | Sep 2025 | Strong Prime Number Theorem | Math, Inc. Gauss | 3 weeks; \~25K lines, 1,000+ theorems; completed the Tao–Kontorovich challenge |
 | 2025 | Carleson's theorem | Human-led project | Major harmonic analysis result |
@@ -193,10 +203,15 @@ The OpenAI and Anthropic open-problem releases mostly add a thin layer of new fo
 
 | Date | Release | Formalization |
 | --- | --- | --- |
+| Nov 20, 2026 | [Alpöge with Claude: Riemann hypothesis and GRH (claimed)](https://alpo.ge/remark.pdf); a human-written GRH draft by Masullo appeared the same day | Lean only (\~17.4M lines), no written proof; Masullo's draft is not formalized |
+| Nov 18, 2026 | [GPT-6.2 Astra: first formalization of the Smoktunowicz gap theorem](https://www.vals.ai/blogs/smoktunowicz-gap-theorem) | \~1,800 lines in 94 minutes, by a new route; independent kernel replay |
+| Nov 6, 2026 | [PSI: Aaronson–Ambainis conjecture](https://psi.inc/research/aaronson-ambainis/) | \~9.4K lines on mathlib; Comparator with negative controls; independent kernels (section 13) |
+| Nov 5, 2026 | [Hajiaghayi & JafariRaviz: graph isomorphism in n^O(log n)](https://github.com/mahdi-jfri/GraphIsomorphismLog2) | \~457K lines, including the running time on a machine model; Comparator not yet run (section 12) |
+| Oct 26, 2026 | [OpenAI: Yang–Mills existence, ETH refutation, Kakeya](https://openai.com/index/building-scientific-understanding-with-academic-communities/) | Yang–Mills Lean released Nov 11 (section 17.2) |
+| Oct 6, 2026 | [OpenAI: 722 manuscripts in 372 families](https://github.com/openai/math), including quasi-RH 7/8 and claimed matrix multiplication ω ≤ 9/4 | \~290 papers have some Lean; \~38 of those miss the main theorem (see below) |
 | Aug 10, 2026 | [Anthropic: zeta zeros on the critical line](https://tech-insider.org/anthropic-claude-riemann-hypothesis-breakthrough-2026/), lower bound raised from 41.6% to 67.2% | Formalized in Lean |
 | Aug 1, 2026 | [OpenAI Astra: ten problems open ≥10 years](https://www.implicator.ai/openai-astra-10-math-problems-lean-proofs.md) (non-sofic groups, Erdős 146/180/183, others) | Lean 4 certificates on GitHub (`openai/ten-proofs`), built on mathlib |
 | May 2026 | OpenAI disproof of the Erdős unit-distance conjecture; Claude Mythos reportedly found a short proof days later | Partial |
-| Later 2026 | OpenAI: 722 papers on 377 open problems | Lean coverage not confirmed |
 
 **Effect on coverage**
 
@@ -204,6 +219,7 @@ The OpenAI and Anthropic open-problem releases mostly add a thin layer of new fo
 - **Prerequisites are the real gain.** A paper can cite a known result; a Lean proof must derive it ([Epoch](https://epoch.ai/latest/announcing-frontiermath-erdos)). Missing mathlib material gets built along the way.
 - **Mostly not reusable yet.** That infrastructure sits in one-off repos with ad hoc definitions.
 - **Narrow pull.** Open-problem work clusters in combinatorics, number theory and group theory, already mathlib's strongest areas.
+- **The RH claim breaks this pattern.** Because it assumes nothing, the 17.4M-line archive formalizes whole fields along the way (automorphic forms on unitary groups, Galois representations, Arakelov geometry, resolution of singularities). If it holds, an open-problem proof becomes the largest single expansion of formalized mathematics so far, though as monolithic code outside mathlib.
 
 The benchmark side is also moving to Lean: Epoch's FrontierMath Erdős poses 68 open Erdős problems in Lean.
 
