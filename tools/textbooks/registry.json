@@ -574,5 +574,37 @@
   "A Synopsis of Elementary Results in Pure Mathematics",
   "G. S. Carr",
   "The 1886 compendium Ramanujan learned from: thousands of results in algebra, calculus, geometry, with journal index."
+ ],
+ [
+  "plotkin-pretnar-handling-algebraic-effects",
+  "plotkin-pretnar-handling-algebraic-effects",
+  "Computer Science",
+  "Handling Algebraic Effects",
+  "Gordon D. Plotkin & Matija Pretnar",
+  "Effect handlers as homomorphisms out of free models: the calculus, examples, semantics and handler correctness."
+ ],
+ [
+  "leijen-koka-row-polymorphic-effects",
+  "leijen-koka-row-polymorphic-effects",
+  "Computer Science",
+  "Koka: Programming with Row-polymorphic Effect Types",
+  "Daan Leijen",
+  "Inferred effect rows with duplicate labels: Koka's type system, semantics and soundness of exn, div and st."
+ ],
+ [
+  "leijen-structured-asynchrony-algebraic-effects",
+  "leijen-structured-asynchrony-algebraic-effects",
+  "Computer Science",
+  "Structured Asynchrony with Algebraic Effects",
+  "Daan Leijen",
+  "async/await, interleaving, cancellation, promises and ambient state as a Koka library of effect handlers."
+ ],
+ [
+  "leijen-type-directed-compilation-row-typed-effects",
+  "leijen-type-directed-compilation-row-typed-effects",
+  "Computer Science",
+  "Algebraic Effects for Functional Programming (Type Directed Compilation of Row-Typed Algebraic Effects)",
+  "Daan Leijen",
+  "Koka's handlers end to end: row-typed inference, semantics, soundness, and a type-directed selective CPS compilation."
  ]
 ]

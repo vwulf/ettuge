@@ -1,0 +1,198 @@
+{
+ "url": "https://drive.google.com/file/d/1E6HBgCW-nH0H3gBZPRlfBogy3kJYIHn7/view",
+ "chapters": [
+  {
+   "title": "1. Introduction",
+   "start": 1,
+   "end": 1,
+   "sections": [],
+   "summary": "The argument: effect handlers subsume control features (exceptions, iterators, backtracking, async) that languages usually build in, so async can be a library.",
+   "terms": [
+    "algebraic effect handlers",
+    "async-await as a library",
+    "control-flow abstractions",
+    "Koka"
+   ]
+  },
+  {
+   "title": "2. Overview",
+   "start": 1,
+   "end": 4,
+   "sections": [
+    {
+     "title": "2.1. Exceptions as Algebraic Effects",
+     "start": 2,
+     "end": 2,
+     "summary": "Exceptions as Algebraic Effects",
+     "terms": [
+      "exceptions",
+      "effect declaration",
+      "handle",
+      "no resumption"
+     ]
+    },
+    {
+     "title": "2.2. Resuming Operations",
+     "start": 3,
+     "end": 3,
+     "summary": "Resuming Operations",
+     "terms": [
+      "resume",
+      "continuation",
+      "return clause"
+     ]
+    },
+    {
+     "title": "2.3. State",
+     "start": 3,
+     "end": 3,
+     "summary": "State",
+     "terms": [
+      "state handler",
+      "get/put",
+      "parameterised handler"
+     ]
+    },
+    {
+     "title": "2.4. Iterators",
+     "start": 4,
+     "end": 4,
+     "summary": "Iterators",
+     "terms": [
+      "iterators",
+      "yield",
+      "generators"
+     ]
+    },
+    {
+     "title": "2.5. Multiple Resumptions",
+     "start": 4,
+     "end": 4,
+     "summary": "Multiple Resumptions",
+     "terms": [
+      "multiple resumptions",
+      "nondeterminism",
+      "backtracking",
+      "multi-shot continuations"
+     ]
+    }
+   ],
+   "summary": "A quick course in Koka handlers: declaring effects and operations, handlers that resume or abort, state as a handler, iterators, and handlers that resume more than once."
+  },
+  {
+   "title": "3. Asynchronous Programming",
+   "start": 5,
+   "end": 10,
+   "sections": [
+    {
+     "title": "3.1. An Asynchronous Effect",
+     "start": 5,
+     "end": 5,
+     "summary": "An Asynchronous Effect",
+     "terms": [
+      "async effect",
+      "await operation",
+      "callbacks",
+      "Node.js event loop"
+     ]
+    },
+    {
+     "title": "3.2. Implementing an asynchronous handler",
+     "start": 5,
+     "end": 5,
+     "summary": "Implementing an asynchronous handler",
+     "terms": [
+      "async handler",
+      "CPS",
+      "resuming from callbacks"
+     ]
+    },
+    {
+     "title": "3.3. Interleaving",
+     "start": 6,
+     "end": 6,
+     "summary": "Interleaving",
+     "terms": [
+      "interleaving",
+      "block-scoped concurrency",
+      "safe state encapsulation",
+      "handler context sharing"
+     ]
+    },
+    {
+     "title": "3.4. Cancellation",
+     "start": 7,
+     "end": 9,
+     "summary": "Cancellation",
+     "terms": [
+      "cancellation",
+      "cancelable",
+      "timeout",
+      "releasing resources",
+      "finally"
+     ]
+    },
+    {
+     "title": "3.5. Promises",
+     "start": 10,
+     "end": 10,
+     "summary": "Promises",
+     "terms": [
+      "promises",
+      "resolve",
+      "awaiters"
+     ]
+    },
+    {
+     "title": "3.6. Ambient Programming",
+     "start": 10,
+     "end": 10,
+     "summary": "Ambient Programming",
+     "terms": [
+      "ambient state",
+      "strand-local state",
+      "implicit context"
+     ]
+    }
+   ],
+   "summary": "Async as an effect: an await operation handled on the event loop, then structured features built on it: interleaving with safely encapsulated state, cancellation and resource release, promises, and ambient state."
+  },
+  {
+   "title": "4. Semantics",
+   "start": 11,
+   "end": 13,
+   "sections": [
+    {
+     "title": "4.1. Operational semantics",
+     "start": 12,
+     "end": 12,
+     "summary": "Operational semantics",
+     "terms": [
+      "operational semantics",
+      "handle reduction",
+      "evaluation contexts",
+      "handled operations",
+      "row types"
+     ]
+    },
+    {
+     "title": "4.2. Comparison with Delimited Continuations",
+     "start": 12,
+     "end": 13,
+     "summary": "Comparison with Delimited Continuations",
+     "terms": [
+      "delimited continuations",
+      "shift/reset",
+      "control/prompt",
+      "expressiveness"
+     ]
+    }
+   ],
+   "summary": "A typed core calculus for handlers: syntax, row-typed effects (as in the Koka MSFP paper), typing rules, an operational semantics, and how handlers relate to delimited continuations (shift/reset)."
+  }
+ ],
+ "title": "Structured Asynchrony with Algebraic Effects",
+ "byline": "Daan Leijen \u00b7 Microsoft Research technical report MSR-TR-2017-21 (2017)",
+ "note": "PDF pages match the report\u2019s pages (1\u201314). The conclusion and references are not broken out. This is not the POPL 2017 *Type Directed Compilation of Row-Typed Algebraic Effects* paper, which is still missing from Drive. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "Shows that async/await needs no compiler support once a language has algebraic effect handlers. After a tour of handlers in Koka (exceptions, resumable operations, state, iterators, multiple resumptions), the report builds an async effect whose handler sits on the Node.js event loop, then adds block-scoped interleaving, cancellation with resource release, timeouts, promises and ambient state that is local to one strand of asynchronous execution. It closes with a small typed calculus and operational semantics for handlers and compares them with delimited continuations. Close in spirit to how Kyo implements Async, Abort and resource safety as handled effects."
+}

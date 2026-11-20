@@ -1,0 +1,287 @@
+{
+ "url": "https://drive.google.com/file/d/1B-IN0-kxK9n0DewlaGueafUirDe_wMGl/view",
+ "chapters": [
+  {
+   "title": "1. Introduction",
+   "start": 1,
+   "end": 2,
+   "sections": [],
+   "summary": "Motivation and contributions: effects should be visible in types and inferred automatically, using row polymorphism with duplicate labels, with a semantic (not merely syntactic) meaning.",
+   "terms": [
+    "effect types",
+    "effect inference",
+    "Hindley-Milner",
+    "row polymorphism",
+    "duplicate labels",
+    "contributions"
+   ]
+  },
+  {
+   "title": "2. Overview",
+   "start": 2,
+   "end": 10,
+   "sections": [
+    {
+     "title": "2.1. Effect types",
+     "start": 3,
+     "end": 3,
+     "summary": "Effect types",
+     "terms": [
+      "function type (\u03c41..\u03c4n) \u2192 \u03b5 \u03c4",
+      "strict semantics",
+      "uncurried application"
+     ]
+    },
+    {
+     "title": "2.2. Basic effects",
+     "start": 3,
+     "end": 4,
+     "summary": "Basic effects",
+     "terms": [
+      "total",
+      "exn",
+      "div",
+      "pure",
+      "st",
+      "io",
+      "ndet",
+      "effect aliases"
+     ]
+    },
+    {
+     "title": "2.3. Polymorphic effects",
+     "start": 4,
+     "end": 5,
+     "summary": "Polymorphic effects",
+     "terms": [
+      "effect polymorphism",
+      "map",
+      "open effect rows",
+      "\u03bc variables",
+      "union types avoided"
+     ]
+    },
+    {
+     "title": "2.4. Duplicate effects",
+     "start": 5,
+     "end": 6,
+     "summary": "Duplicate effects",
+     "terms": [
+      "duplicate labels",
+      "\u27e8exn",
+      "exn\u27e9",
+      "scoped labels",
+      "Wand",
+      "lacks constraints",
+      "presence flags",
+      "inject",
+      "catch typing"
+     ]
+    },
+    {
+     "title": "2.5. Heap effects",
+     "start": 6,
+     "end": 7,
+     "summary": "Heap effects",
+     "terms": [
+      "ref",
+      "heap type variable h",
+      "st\u27e8h\u27e9",
+      "run",
+      "runST",
+      "local state encapsulation"
+     ]
+    },
+    {
+     "title": "2.6. Heap safety",
+     "start": 7,
+     "end": 7,
+     "summary": "Heap safety",
+     "terms": [
+      "value restriction",
+      "let-polymorphism with references",
+      "imperative type variables"
+     ]
+    },
+    {
+     "title": "2.7. Divergence",
+     "start": 7,
+     "end": 8,
+     "summary": "Divergence",
+     "terms": [
+      "div effect",
+      "termination checker",
+      "Landin\u2019s knot",
+      "reading functions from the heap"
+     ]
+    },
+    {
+     "title": "2.8. Koka in practice",
+     "start": 8,
+     "end": 10,
+     "summary": "Koka in practice",
+     "terms": [
+      "Madoko Markdown processor",
+      "inferred totality",
+      "tier-splitting",
+      "client/server effects"
+     ]
+    }
+   ],
+   "summary": "A tour of the language: effect-annotated function types, the basic effects and their aliases, polymorphic effects in higher-order functions, why duplicate labels help, heap effects and their encapsulation, safe state with let-polymorphism, divergence, and experience writing real programs."
+  },
+  {
+   "title": "3. The type system",
+   "start": 10,
+   "end": 14,
+   "sections": [
+    {
+     "title": "3.1. Type rules",
+     "start": 11,
+     "end": 13,
+     "summary": "Type rules",
+     "terms": [
+      "kinds",
+      "effect rows",
+      "effect equivalence",
+      "EQ-SWAP",
+      "typing rules",
+      "APP",
+      "LET",
+      "GEN",
+      "RUN",
+      "CATCH",
+      "ALLOC",
+      "READ",
+      "WRITE",
+      "THROW",
+      "FIX",
+      "principal types"
+     ]
+    },
+    {
+     "title": "3.2. Simplifying types",
+     "start": 13,
+     "end": 14,
+     "summary": "Simplifying types",
+     "terms": [
+      "open effects",
+      "closed effects",
+      "simplifying inferred types",
+      "identity function typing"
+     ]
+    }
+   ],
+   "summary": "The formal system: kinds for values, effect rows, effect constants and heaps; effect equivalence up to reordering; and the declarative typing rules, including run and catch."
+  },
+  {
+   "title": "4. Semantics of effects",
+   "start": 14,
+   "end": 16,
+   "sections": [
+    {
+     "title": "4.1. Reductions",
+     "start": 15,
+     "end": 16,
+     "summary": "Reductions",
+     "terms": [
+      "reduction semantics",
+      "heap binding hp \u03c6",
+      "MERGE",
+      "LIFT",
+      "RUN rules",
+      "evaluation contexts",
+      "answers",
+      "strict evaluation"
+     ]
+    }
+   ],
+   "summary": "Operational semantics with explicit heap binders: values and answers, reduction rules for exceptions, references and run, and evaluation contexts for strict evaluation."
+  },
+  {
+   "title": "5. Semantic soundness",
+   "start": 16,
+   "end": 19,
+   "sections": [
+    {
+     "title": "5.1. Subject reduction",
+     "start": 16,
+     "end": 18,
+     "summary": "Subject reduction",
+     "terms": [
+      "subject reduction",
+      "stateful effects lemma",
+      "ST-EXTEND",
+      "progress"
+     ]
+    },
+    {
+     "title": "5.2. Faulty expressions",
+     "start": 18,
+     "end": 19,
+     "summary": "Faulty expressions",
+     "terms": [
+      "faulty expressions",
+      "escaping references",
+      "state errors",
+      "type safety"
+     ]
+    }
+   ],
+   "summary": "Type soundness in the Wright\u2013Felleisen style: subject reduction (with a lemma that state cannot be silently discarded) and the absence of faulty expressions, including escaping references."
+  },
+  {
+   "title": "6. Effectful semantics",
+   "start": 19,
+   "end": 20,
+   "sections": [],
+   "summary": "Theorems giving effects semantic meaning: without exn there are no uncaught exceptions, without st no observable heap, and without div evaluation terminates (via a logical relation).",
+   "terms": [
+    "effect soundness",
+    "exception safety",
+    "purity theorem",
+    "divergence theorem",
+    "termination",
+    "logical relation",
+    "reducibility"
+   ]
+  },
+  {
+   "title": "7. Related work",
+   "start": 20,
+   "end": 21,
+   "sections": [],
+   "summary": "Comparison with earlier effect systems, monadic approaches, region inference and Lindley\u2013Cheney\u2019s row-based effects.",
+   "terms": [
+    "related work",
+    "effect systems",
+    "Lucassen-Gifford",
+    "monads and effects",
+    "region inference",
+    "Lindley-Cheney",
+    "Links",
+    "presence/absence flags"
+   ]
+  },
+  {
+   "title": "Appendix A. Type inference",
+   "start": 25,
+   "end": 27,
+   "sections": [],
+   "summary": "The inference algorithm: a syntax-directed system, algorithmic rules, and unification for types and effect rows, sound and complete with respect to the declarative rules.",
+   "terms": [
+    "type inference algorithm",
+    "syntax-directed rules",
+    "unification",
+    "effect row unification",
+    "UNI-EFF",
+    "principal types",
+    "soundness and completeness"
+   ]
+  }
+ ],
+ "title": "Koka: Programming with Row-polymorphic Effect Types",
+ "byline": "Daan Leijen \u00b7 MSFP 2014, EPTCS 153, pp. 100\u2013126 (arXiv:1406.2061)",
+ "note": "PDF page N is printed page N+99. References (PDF pp. 22\u201324) are not broken out. This paper predates Koka\u2019s algebraic effect handlers: effects here are built-in (exn, div, st), and handlers arrive in Leijen\u2019s later papers. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "An ML-like language whose function types carry an inferred effect row, so total, partial, divergent and stateful code are told apart by type. The key design choice is row polymorphism with duplicate labels: effect rows are equal up to reordering but \u27e8exn, exn\u27e9 is not \u27e8exn\u27e9, which keeps Hindley\u2013Milner inference principal without lacks constraints or presence flags and gives catch a natural type. The paper gives the type system, a reduction semantics with scoped heaps, and soundness proofs showing the effects mean something: no exn means no uncaught exceptions, no div means termination, and run safely encapsulates local state (like runST) while making the ML value restriction unnecessary."
+}

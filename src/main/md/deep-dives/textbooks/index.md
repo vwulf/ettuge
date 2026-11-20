@@ -19,6 +19,7 @@ Partial PDFs (samples, excerpts, unfinished drafts) are marked as such on their 
 
 ## Computer Science
 
+- [Algebraic Effects for Functional Programming (Type Directed Compilation of Row-Typed Algebraic Effects)](leijen-type-directed-compilation-row-typed-effects) (Daan Leijen): Koka's handlers end to end: row-typed inference, semantics, soundness, and a type-directed selective CPS compilation.
 - [An Introduction to Functional Programming Through Lambda Calculus](michaelson-lambda-calculus) (Michaelson): encodings, evaluation, SML and LISP
 - [Calculating Compilers](meijer-calculating-compilers) (Meijer): compilers derived from semantics; bananas and lenses
 - [Compilers: Course Notes](kiselyov-compilers-notes) (Kiselyov): an OCaml compiler to x86-64 in tagless-final style (first 28 pages)
@@ -28,8 +29,10 @@ Partial PDFs (samples, excerpts, unfinished drafts) are marked as such on their 
 - [Foundations of Probabilistic Programming](foundations-of-probabilistic-programming) (Barthe, Katoen and Silva (eds.)): Semantics and verification of probabilistic programs: measures, couplings, runtimes, martingales, Bayesian logic, QIF.
 - [Functional Programming Strategies in Scala with Cats (draft)](welsh-functional-programming-strategies-scala-with-cats) (Noel Welsh): ADTs, codata, type classes, interpreters, the Cats type classes, and case studies, in Scala 3.
 - [Functional Programming in Lean](functional-programming-in-lean) (David Thrane Christiansen): Lean 4 as a programming language: types, IO, type classes, monads, transformers, dependent types, induction proofs, verified fast code.
+- [Handling Algebraic Effects](plotkin-pretnar-handling-algebraic-effects) (Gordon D. Plotkin & Matija Pretnar): Effect handlers as homomorphisms out of free models: the calculus, examples, semantics and handler correctness.
 - [Haskell: The Craft of Functional Programming (3rd ed.)](thompson-haskell-craft-of-functional-programming) (Simon Thompson): Haskell from basics to type classes, ADTs, laziness, monads, DSLs and performance, with case studies.
 - [Implementing Functional Languages: a tutorial](implementing-functional-languages) (Simon Peyton Jones and David Lester): Building lazy evaluators step by step: template instantiation, G-machine, TIM, parallel G-machine, lambda lifting.
+- [Koka: Programming with Row-polymorphic Effect Types](leijen-koka-row-polymorphic-effects) (Daan Leijen): Inferred effect rows with duplicate labels: Koka's type system, semantics and soundness of exn, div and st.
 - [Lambda-Calculus and Combinators](hindley-seldin-lambda-calculus-combinators) (J. Roger Hindley and Jonathan Seldin): λ-calculus and CL side by side: reduction, computability, typing, pure type systems and models.
 - [Learn Programming with OCaml](conchon-filliatre-learn-programming-with-ocaml) (Sylvain Conchon and Jean-Christophe Filliâtre): OCaml through small programs, then classic data structures and algorithms implemented functionally.
 - [Mathematics and Computation](wigderson-mathematics-and-computation) (Avi Wigderson): Panoramic survey of complexity theory, randomness, proofs and its links to mathematics and science.
@@ -40,6 +43,7 @@ Partial PDFs (samples, excerpts, unfinished drafts) are marked as such on their 
 - [Principles of Eventual Consistency](burckhardt-eventual-consistency) (Burckhardt): histories, abstract executions, CAP, protocols
 - [Programming Well: Abstraction and Design in Computation](shieber-programming-well) (Stuart M. Shieber): CS51 in OCaml: types, higher-order functions, modules, semantics models, laziness, objects, MiniML.
 - [Programming in Scala (5th ed., Scala 3)](odersky-programming-in-scala-5e) (Odersky, Spoon, Venners and Sommers): The standard Scala 3 book, from basics through traits, patterns, collections, types, givens and typeclasses.
+- [Structured Asynchrony with Algebraic Effects](leijen-structured-asynchrony-algebraic-effects) (Daan Leijen): async/await, interleaving, cancellation, promises and ambient state as a Koka library of effect handlers.
 - [The Formal Semantics of Programming Languages](winskel-formal-semantics) (Glynn Winskel): Operational, denotational and axiomatic semantics; domain theory, recursive types and concurrency.
 - [The Little Book of Semaphores](little-book-of-semaphores) (Allen B. Downey): Concurrency puzzles solved with semaphores, from classic problems to original ones.
 - [The Science of Functional Programming](winitzki-science-of-functional-programming) (Sergei Winitzki): FP derived by symbolic reasoning in Scala: Curry-Howard, functors, monads, applicatives, free constructions, transformers.
