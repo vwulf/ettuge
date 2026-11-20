@@ -1,6 +1,6 @@
 # Decision Points as Effects: Model-Backed Decisions in Kyo Pipelines
 
-*Pre-design doc · started Oct 17, 2026 · last updated Oct 27, 2026 · Vishwas*
+*Pre-design doc · started Oct 17, 2026 · last updated Nov 19, 2026 · Vishwas*
 
 ## Summary
 
@@ -277,6 +277,19 @@ Demotion is automatic: low confidence or a failed check routes the case back up,
 **Caveats.** All LFM3 figures are Liquid's own. The blog names no license (earlier Liquid models carried a revenue cap) and no Indic languages. Earlier Liquid d1 needed calibration in independent evals while d1-ultra did not, so check d1-2B before promoting anything to it.
 
 Sources: [Introducing LFM3](https://www.liquid.ai/blog/lfm3), [LFM3 family explained](https://www.orcarouter.ai/blog/lfm3-family-release-tri-hybrid), [Hamel and Saha on decision-model evals](https://hamel.dev/blog/posts/decision-model-evals/).
+
+**Hosted options for the deoptimization target (November 2026).** Google's Gemini 4 Neon is a hosted mid-tier reasoning model, between Gemini Carbon (hardest long-horizon work) and Hydrogen (fast everyday tasks). It has four thinking levels (high is the default, xhigh the strongest), a 1M-token context, and spreadsheet, PDF, chart, audio and video input. It is a candidate for the reasoning tier only: Google describes no typed outputs or calibrated probabilities, and no open weights or on-device version.
+
+|  | Gemini 4 Neon | Claude Opus 5.5 (rates used in this doc's agent-cost estimates) |
+| --- | --- | --- |
+| Input, per million tokens | $3 | $4 |
+| Cached input, per million tokens | $0.15 | $0.20 |
+| Output, per million tokens | $15 | $20 |
+| Artificial Analysis Intelligence Index | 61 at xhigh (#3) | 58 (cited in October) |
+
+At the same token counts, list rates are 25% lower, assuming similar cache-write pricing, which Google did not publish. Google also claims 32% lower cost per task than Carbon at high and 50–80% below competing frontier models, but cost per task depends on how many tokens each model spends thinking, so measure on the actual workload. Thinking levels give the deoptimization tier a dial: high for routine residue, xhigh for the hardest cases. Google published no latency figures and mentions no Kannada or other Indic languages; all figures are Google's own.
+
+Source: [Introducing Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/).
 
 ## Worked example: Claude Code's advisor tool
 
