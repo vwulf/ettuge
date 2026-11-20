@@ -1,6 +1,6 @@
 # Lean, Foundations, and the AI Formalization of Mathematics
 
-*Started Nov 1, 2026 · last updated Nov 19, 2026 · Vishwas*
+*Started Nov 1, 2026 · last updated Nov 20, 2026 · Vishwas*
 
 ## Summary
 
@@ -18,6 +18,7 @@ Lean 4 is the de facto platform for AI-assisted formalization of mathematics, an
 - **Nov 6, 2026:** PSI announced an AI-produced proof of the Aaronson–Ambainis conjecture (open since 2008) with a compact, Comparator-checked Lean formalization.
 - **Nov 9–10, 2026:** agent-driven verification reached deployed software (DeepMind's machine-code proofs for Signal; a Lean copy of 16% of CPython that found 418 bugs), and 1,000 Fable 5.2 agents re-formalized FLT in 28.7 hours.
 - **Nov 11–12, 2026:** Axiom formalized Faltings' theorem on its Stacks library; OpenAI's \~1M-line Yang–Mills existence proof was released as Lean only, and Armstrong and Hairer began reverse-engineering a readable proof.
+- **Nov 13–20, 2026:** Alpöge and Claude claimed RH and GRH as a 17.4M-line Lean archive with no written proof; Axiom and Google independently formalized the Weil conjectures.
 
 ## 1. Lean's foundational basis
 
@@ -169,6 +170,22 @@ mathlib itself is \~2M+ lines with roughly 280,000 theorems ([Lean Zulip](https:
 Coverage is strongest where mathlib grew up (algebra, number theory, analysis) and weakest in geometric and applied areas with heavy definitions.
 
 **Does CFSG cover most of group theory?** No. It classifies only the simple building blocks; the extension problem (how they assemble into arbitrary finite groups) is wide open, and infinite, geometric, Lie, algebraic and profinite group theory are largely untouched. Its main payoff is unlocking the many results proved "assuming CFSG".
+
+**Update, Nov 20, 2026.** The table above reflects early November. Since then, kernel-checked research artifacts (mostly AI-written, unreviewed and outside mathlib) have moved these rows:
+
+| Area | Research, Nov 1 | Research, Nov 20 | What moved it |
+| --- | --- | --- | --- |
+| Algebraic geometry | Very low | High, if unreviewed | Stacks Project (\~97% of results), Mordell, Weil conjectures (Axiom and Google); the RH archive adds resolution of singularities, vanishing theorems and Shimura-variety compactifications |
+| Number theory | Medium | High | FLT, Mordell, quasi-RH 7/8, Weil RH over finite fields, Hilbert's tenth over rings of integers; if it holds, RH/GRH |
+| Representation theory | Very low | Medium, all inside the RH archive | Theta lifts on unitary groups, local Langlands for GL\_n, automorphic forms |
+| Arithmetic geometry (Arakelov, p-adic Hodge) | \~None | Present, all inside the RH archive | Bost slopes, Moriwaki; Grothendieck–Messing, prismatic Dieudonné |
+| Finite group theory | Medium | High, with a statement caveat | CFSG (sporadic group definitions unchecked) |
+| Harmonic analysis | Low | Low–Medium | Carleson, Mizohata–Takeuchi power-loss theorem, 3D Bochner–Riesz |
+| PDE | Very low | Low–Medium | Forced Navier–Stokes blowup (\~640K lines) |
+| Mathematical physics | Very low | Low–Medium | Yang–Mills existence (\~986K lines, pre-fix kernel); relativistic Vlasov–Maxwell library |
+| Complexity theory | Low | Medium | Graph isomorphism with a proven running time, Aaronson–Ambainis |
+
+Unchanged: point-set topology, linear algebra and real analysis were already near complete; differential geometry, algebraic topology, dynamical systems and statistics remain weak; higher category theory awaits the ∞-cosmos work. By paper count the research literature is still well under 1% formalized, but if RH holds, the load-bearing theorems of 20th-century number theory and arithmetic geometry (FLT, Mordell, Weil, the Stacks Project, RH/GRH) are now in Lean. Section 18 has the announcements behind this update.
 
 ## 7. Open-problem releases and their effect on coverage
 
@@ -650,6 +667,43 @@ Armstrong's five-level Yang–Mills map is that idea applied after the fact to a
 | Kernel | v4.33.0, plus nanoda and lean4lean | v4.35.0 | v4.32.0 (pre-fix), no independent kernel |
 | Human-readable proof | Paper, reviewed by a named author | Bombieri's paper (the formalization is unreviewed) | None released; being reverse-engineered |
 
+## 18. November 13–20, 2026: RH, Weil, and a week of announcements
+
+The week after the Mordell and Yang–Mills releases brought a claimed Lean proof of the Riemann hypothesis, two independent formalizations of the Weil conjectures, and a steady stream of smaller results.
+
+### 18.1 The Riemann hypothesis and GRH (claimed)
+
+On Nov 20, Levent Alpöge (Anthropic) released a four-page note, ["Remark"](https://alpo.ge/remark.pdf), claiming that he and Claude found a proof of RH and of GRH for Dirichlet L-functions. There is no paper: the proof is a Lean archive of about 17.4M lines in 175,000 files on Lean v4.33.1 (after the kernel fixes), "formalized without assumptions". Alpöge estimates an informal write-up would run past 250,000 pages.
+
+- **Checks so far:** Elliot Glazer confirmed the formal statement is GRH, stated with mathlib's own `riemannZeta` and Dirichlet L-functions (Buzzard's question 1). Andrew Sutherland compiled it independently (question 2). Comparator and independent kernels (questions 3 and 4) were not yet reported; review is under way on the Lean Zulip. No human has read the argument.
+- **What it had to formalize:** automorphic forms and theta lifts on unitary groups, local Langlands for GL\_n, Galois representations built from unitary Shimura varieties, Arakelov geometry (Bost, Moriwaki), p-adic Hodge theory (Grothendieck–Messing, prismatic Dieudonné), resolution of singularities in characteristic zero, and Kawamata–Viehweg and Nadel vanishing.
+- **A human rival the same day:** AMS president Ravi Vakil released a draft proof of GRH by Alessandro Masullo, described as human-only, reviewed privately for months by Brian Conrad, and not formalized.
+
+The two GRH claims arrived in opposite shapes: one machine-checked with no readable proof, one readable with no machine check. A fuller account is on the [Deep Dives number theory page](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3).
+
+### 18.2 Other announcements
+
+| Date | Result | Who | Notes |
+| --- | --- | --- | --- |
+| Nov 19 | Mizohata–Takeuchi power-loss theorem | Hannah Cairo and coauthors | Passed Comparator; registered in Palomar ([repo](https://github.com/VjekoKovac/lean-mt)) |
+| Nov 19 | Read's invariant-subspace counterexample on ℓ¹ | Zayn Blore, with Claude Code | Proves DeepMind's Formal Conjectures statement; the Hilbert-space case stays open ([repo](https://github.com/zblore/fc-read-l1)) |
+| Nov 19 | Gonshor's 1986 surreal birthday conjecture | Codex agents, directed by Dan Abramov | Comparator plus independent kernels ([repo](https://github.com/gaearon/gonshor-birthday)) |
+| Nov 18 | Smoktunowicz gap theorem (first formalization) | GPT-6.2 Astra, alone | \~1,800 lines in 94 minutes for $22; new route avoiding three results missing from mathlib; Vals AI Autoform-Hard ([post](https://www.vals.ai/blogs/smoktunowicz-gap-theorem)) |
+| Nov 17 | QCCDCert, a verified trapped-ion quantum compiler | Ye et al. | Avoids 11 defects found in three earlier compilers ([arXiv 2611.23469](https://arxiv.org/abs/2611.23469)) |
+| Nov 16 | EPR tactic for Lean | Henrik Böving | Solves 97% of Veil's EPR verification conditions, on par with Z3 ([PR](https://github.com/leanprover/lean4/pull/16468)) |
+| Nov 15 | Plasma-solver certification | Zhu & Wu | Uses OpenAI's Lean Vlasov–Maxwell library; found errors in WarpX and Smilei ([arXiv 2611.23319](https://arxiv.org/abs/2611.23319)) |
+| Nov 13–14 | Weil conjectures; Hilbert's tenth over rings of integers; Birkhoff conjecture (statement only) | Google, Teamwork-LEAP on Antigravity (Gemini) | Weil \~1.8M lines from 28,800 subagent calls (Deligne's results); Hilbert's tenth \~919K lines; also cited the 50M-line Courtade–Kumar proof ([AI Weekly](https://aiweekly.co/alerts/googles-antigravity-teamwork-multi-agent-system-formalizes-weil-hilberts-10th)) |
+| Nov 6 | Weil conjectures, all four | Axiom | On its Stacks library; RH part via Laumon's Fourier-transform route; no `sorry`, standard axioms ([post](https://axiommath.ai/research/the-weil-conjectures-formalized-in-lean/)) |
+
+Google's primary blog does not itemize the Weil and Hilbert's tenth results, so their sizes come from secondary coverage.
+
+### 18.3 What the week shows
+
+- **Independent formalizations of the same theorem.** Axiom (Nov 6) and Google (Nov 13) each formalized the Weil conjectures, by different routes. Two independent artifacts are a check on each other's statements, which helps with statement fidelity.
+- **Infrastructure is forming.** Comparator is becoming routine for small results (Mizohata–Takeuchi, Gonshor). Tao's [Palomar registry](https://runtimewire.com/article/palomar-lean-proof-registry-ai-mathematics) records fixed snapshots of AI-assisted Lean results and compares formal statements against informal descriptions. Vals AI's Autoform-Hard benchmark (56 research-level tasks) has the top models at 48–49.
+- **Smaller is now cheap.** A first formalization of a 2006 ring-theory theorem took one model 94 minutes and $22, by a new route that sidestepped missing mathlib infrastructure.
+- **The largest claims carry the least checking.** RH (17.4M lines) has had a statement check and one compile; the small results have Comparator and multiple kernels.
+
 ## References
 
 Sections 1–3 (foundations, HoTT, Rocq) draw on general knowledge of the systems; the rest are linked below.
@@ -742,3 +796,10 @@ Sections 1–3 (foundations, HoTT, Rocq) draw on general knowledge of the system
 - [A modern reorganization of mathematics (Xena guest post)](https://xenaproject.wordpress.com/2026/11/11/a-modern-reorganization-of-mathematics/)
 - [Buzzard, And the proof is checked in Lean](https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/)
 - [Navier–Stokes lost in translation (arXiv 2610.08144)](https://arxiv.org/abs/2610.08144)
+- [Alpöge, Remark (RH/GRH)](https://alpo.ge/remark.pdf)
+- [Tomodovodoo/Riemann (17.4M-line mirror)](https://github.com/Tomodovodoo/Riemann)
+- [Axiom: The Weil conjectures, formalized in Lean](https://axiommath.ai/research/the-weil-conjectures-formalized-in-lean/)
+- [AI Weekly: Google Antigravity /teamwork formalizes Weil and Hilbert's 10th](https://aiweekly.co/alerts/googles-antigravity-teamwork-multi-agent-system-formalizes-weil-hilberts-10th)
+- [Vals AI: Smoktunowicz gap theorem](https://www.vals.ai/blogs/smoktunowicz-gap-theorem)
+- [Lean Weekly](https://leanweekly.news/)
+- [RuntimeWire: Palomar registry](https://runtimewire.com/article/palomar-lean-proof-registry-ai-mathematics)
