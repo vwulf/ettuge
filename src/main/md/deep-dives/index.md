@@ -4,7 +4,7 @@ Close readings of papers and books, written up after the fact. Each entry gives 
 
 ## Topics
 
-- [Mathematics](math): the 2026 AI-math results, complexity theory, number theory, the Millennium problems, and formalization
+- [Mathematics](math): the 2026 AI-math results, complexity theory, number theory (quasi-RH and the claimed RH proof), the Millennium problems, and formalization
 - [AI and Machine Learning](ai): transformer theory, attention as an algorithm, interpretability, architecture, training at scale, serving
 - [Health and Fitness](fitness): diet and protein, body composition, active rest, lactate, training intensity, *Outlive* against the papers
 - [Ellara Kannada](ellara-kannada): DNS Bhat's books, Pampa's line, auxiliaries, Rudram, Sangam Tamil in Eke, the ಎ-ಎಣಿಕೆ notation, tense-aspect-mood against Chomsky
@@ -36,7 +36,7 @@ The short summaries below link into the topic pages.
 **Complexity, number theory and the Millennium problems.** Each has its own section in [Math Deep Dives](math):
 - [the OpenAI release](math/ch1) (what was verified, and the six results covered in depth)
 - [complexity theory](math/ch2): the Unique Games proof skeleton, SDP, the ETH refutation and which problems inherit it, Chowla via MaxCut
-- [number theory](math/ch3): quasi-RH 7/8 and 11/12, Siegel zeros, prime gaps, Goldbach
+- [number theory](math/ch3): quasi-RH 7/8 and 11/12, Siegel zeros, the two Nov 20 GRH claims (Alpöge with Claude in Lean only; Masullo's human draft), prime gaps, Goldbach
 - [mathematical physics](math/ch4): Navier–Stokes and the credit dispute, the two Yang–Mills efforts
 - [books and formalization](math/ch5): Riehl, ATLAS, CLRS
 - [themes across them](math/ch6)
