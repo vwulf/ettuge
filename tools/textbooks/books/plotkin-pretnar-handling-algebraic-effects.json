@@ -1,0 +1,323 @@
+{
+ "url": "https://drive.google.com/file/d/1VbtjAEiQXtUtykIekL3khhD0OmA_mdMd/view",
+ "chapters": [
+  {
+   "title": "Introduction",
+   "start": 1,
+   "end": 2,
+   "sections": [],
+   "summary": "Why handlers: exceptions are the one algebraic effect whose standard construct (catching) is not an operation, and the paper sets out to generalise that construct to all effects, with semantics as homomorphisms from free models.",
+   "terms": [
+    "algebraic effects",
+    "effect handlers",
+    "free model",
+    "homomorphism",
+    "exception handlers",
+    "deconstructor vs operation"
+   ]
+  },
+  {
+   "title": "1. Exception Handlers",
+   "start": 3,
+   "end": 4,
+   "sections": [
+    {
+     "title": "1.1. Simple handling construct",
+     "start": 3,
+     "end": 3,
+     "summary": "Simple handling construct",
+     "terms": [
+      "try/catch",
+      "raise",
+      "exception handler"
+     ]
+    },
+    {
+     "title": "1.2. Extended handling construct",
+     "start": 4,
+     "end": 4,
+     "summary": "Extended handling construct",
+     "terms": [
+      "Benton-Kennedy",
+      "handled with ... to x",
+      "success continuation"
+     ]
+    },
+    {
+     "title": "1.3. Handling arbitrary algebraic effects",
+     "start": 5,
+     "end": 5,
+     "summary": "Handling arbitrary algebraic effects",
+     "terms": [
+      "operation clauses",
+      "continuation k",
+      "arbitrary operations",
+      "generalisation"
+     ]
+    }
+   ],
+   "summary": "Exceptions first: from a simple try/catch to Benton\u2013Kennedy style handling with a success continuation, then the leap to handling arbitrary operations."
+  },
+  {
+   "title": "2. Syntax",
+   "start": 5,
+   "end": 12,
+   "sections": [
+    {
+     "title": "2.1. Signatures",
+     "start": 5,
+     "end": 5,
+     "summary": "Signatures",
+     "terms": [
+      "signature",
+      "operation op : \u03b1 \u21dd \u03b2",
+      "parameter type",
+      "arity type",
+      "base types",
+      "function symbols"
+     ]
+    },
+    {
+     "title": "2.2. Types",
+     "start": 6,
+     "end": 6,
+     "summary": "Types",
+     "terms": [
+      "value types",
+      "computation types",
+      "call-by-push-value",
+      "U and F",
+      "handler type"
+     ]
+    },
+    {
+     "title": "2.3. Terms",
+     "start": 7,
+     "end": 8,
+     "summary": "Terms",
+     "terms": [
+      "handler",
+      "op_x(k) \u21a6 M",
+      "handled with",
+      "generic effects",
+      "thunks"
+     ]
+    },
+    {
+     "title": "2.4. Typing judgements",
+     "start": 9,
+     "end": 9,
+     "summary": "Typing judgements",
+     "terms": [
+      "typing judgements",
+      "value and computation contexts",
+      "well-typed handlers"
+     ]
+    },
+    {
+     "title": "2.5. Abbreviations",
+     "start": 10,
+     "end": 12,
+     "summary": "Abbreviations",
+     "terms": [
+      "syntactic sugar",
+      "sequencing",
+      "lambda"
+     ]
+    }
+   ],
+   "summary": "The calculus: signatures of operations with parameter and arity types, a call-by-push-value split between value and computation types, terms including handlers and the handling construct, typing rules, and derived forms."
+  },
+  {
+   "title": "3. Examples",
+   "start": 13,
+   "end": 17,
+   "sections": [
+    {
+     "title": "3.1. Explicit Nondeterminism",
+     "start": 13,
+     "end": 13,
+     "summary": "Explicit Nondeterminism",
+     "terms": [
+      "nondeterminism",
+      "choice",
+      "collecting all results",
+      "list handler"
+     ]
+    },
+    {
+     "title": "3.2. CCS",
+     "start": 14,
+     "end": 14,
+     "summary": "CCS",
+     "terms": [
+      "CCS",
+      "process calculus",
+      "synchronisation",
+      "restriction as handler"
+     ]
+    },
+    {
+     "title": "3.3. Interactive input and output (I/O)",
+     "start": 14,
+     "end": 15,
+     "summary": "Interactive input and output (I/O)",
+     "terms": [
+      "input/output",
+      "read",
+      "write",
+      "interactive I/O",
+      "buffering"
+     ]
+    },
+    {
+     "title": "3.4. Timeout",
+     "start": 16,
+     "end": 16,
+     "summary": "Timeout",
+     "terms": [
+      "timeout",
+      "clock",
+      "interrupting computations"
+     ]
+    },
+    {
+     "title": "3.5. Rollback",
+     "start": 16,
+     "end": 16,
+     "summary": "Rollback",
+     "terms": [
+      "rollback",
+      "state",
+      "transactions",
+      "restoring state on failure"
+     ]
+    },
+    {
+     "title": "3.6. Stream redirection",
+     "start": 17,
+     "end": 17,
+     "summary": "Stream redirection",
+     "terms": [
+      "stream redirection",
+      "pipes",
+      "redirecting output to input"
+     ]
+    }
+   ],
+   "summary": "Six worked handlers that show the range of the construct beyond exceptions."
+  },
+  {
+   "title": "4. Semantics",
+   "start": 18,
+   "end": 25,
+   "sections": [
+    {
+     "title": "4.1. Effect theories",
+     "start": 18,
+     "end": 20,
+     "summary": "Effect theories",
+     "terms": [
+      "effect theory",
+      "equations",
+      "templates",
+      "Lawvere theory",
+      "state equations",
+      "nondeterminism equations"
+     ]
+    },
+    {
+     "title": "4.2. Interpreting effect theories",
+     "start": 21,
+     "end": 21,
+     "summary": "Interpreting effect theories",
+     "terms": [
+      "models",
+      "free model",
+      "monad from theory",
+      "interpretation of signature"
+     ]
+    },
+    {
+     "title": "4.3. Interpreting values and computations",
+     "start": 22,
+     "end": 25,
+     "summary": "Interpreting values and computations",
+     "terms": [
+      "denotational semantics",
+      "handler as model",
+      "unique homomorphism",
+      "handling semantics",
+      "adequacy"
+     ]
+    }
+   ],
+   "summary": "Denotational semantics: effect theories (operations plus equations over templates), their interpretation as models, and the meaning of values and computations, with handling as the induced homomorphism."
+  },
+  {
+   "title": "5. Reasoning about handlers",
+   "start": 26,
+   "end": 27,
+   "sections": [],
+   "summary": "A logic for reasoning about handlers, including when a handler is correct: its operation clauses are defined and respect the equations of the effect theory.",
+   "terms": [
+    "handler correctness",
+    "respecting equations",
+    "reasoning",
+    "equational logic",
+    "empty handler",
+    "definedness"
+   ]
+  },
+  {
+   "title": "6. Deciding handler correctness",
+   "start": 28,
+   "end": 29,
+   "sections": [],
+   "summary": "How hard it is to check correctness: for simple signatures, deciding correctness of a single handler is \u03a02-complete, and \u03a31-complete for uniformly simple families of handlers.",
+   "terms": [
+    "decidability",
+    "handler correctness",
+    "\u03a02-complete",
+    "\u03a31-complete",
+    "simple signature",
+    "uniformly simple handlers",
+    "finite equational theory"
+   ]
+  },
+  {
+   "title": "7. Recursion",
+   "start": 30,
+   "end": 32,
+   "sections": [],
+   "summary": "Adding recursion: models become pointed \u03c9-cpos, free models come from a left adjoint to the forgetful functor, and the standard semantic monads reappear.",
+   "terms": [
+    "recursion",
+    "\u03c9-cpo",
+    "pointed cpo",
+    "strict continuous homomorphism",
+    "left adjoint",
+    "free model functor",
+    "locally continuous",
+    "exceptions monad"
+   ]
+  },
+  {
+   "title": "Appendix A. Decidability of handler correctness",
+   "start": 33,
+   "end": 36,
+   "sections": [],
+   "summary": "The proofs behind the decidability results of Section 6.",
+   "terms": [
+    "decidability proof",
+    "\u03a02-completeness",
+    "\u03a31-completeness",
+    "reduction"
+   ]
+  }
+ ],
+ "title": "Handling Algebraic Effects",
+ "byline": "Gordon D. Plotkin & Matija Pretnar \u00b7 Logical Methods in Computer Science 9(4:23), 2013 (arXiv:1312.1399)",
+ "note": "PDF pages match the printed journal pages (1\u201336). Conclusion, acknowledgments and references are not broken out. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "The paper that turned exception handlers into a general construct for every algebraic effect. Effects are given by operations plus equations (an effect theory); a computation is an element of the free model of that theory, and a handler supplies another model, so handling is the unique homomorphism out of the free model. The authors build this into a call-by-push-value calculus with value and computation types, show handlers for nondeterminism, CCS, I/O, timeout, rollback and stream redirection, give a denotational semantics, and study when a handler is correct (respects the equations): undecidable in general, with exact complexity bounds for simple signatures. A final section adds recursion over \u03c9-cpos."
+}

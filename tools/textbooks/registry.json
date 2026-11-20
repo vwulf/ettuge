@@ -574,5 +574,21 @@
   "A Synopsis of Elementary Results in Pure Mathematics",
   "G. S. Carr",
   "The 1886 compendium Ramanujan learned from: thousands of results in algebra, calculus, geometry, with journal index."
+ ],
+ [
+  "plotkin-pretnar-handling-algebraic-effects",
+  "plotkin-pretnar-handling-algebraic-effects",
+  "Computer Science",
+  "Handling Algebraic Effects",
+  "Gordon D. Plotkin & Matija Pretnar",
+  "Effect handlers as homomorphisms out of free models: the calculus, examples, semantics and handler correctness."
+ ],
+ [
+  "leijen-koka-row-polymorphic-effects",
+  "leijen-koka-row-polymorphic-effects",
+  "Computer Science",
+  "Koka: Programming with Row-polymorphic Effect Types",
+  "Daan Leijen",
+  "Inferred effect rows with duplicate labels: Koka's type system, semantics and soundness of exn, div and st."
  ]
 ]
