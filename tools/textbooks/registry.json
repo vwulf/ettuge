@@ -590,5 +590,13 @@
   "Koka: Programming with Row-polymorphic Effect Types",
   "Daan Leijen",
   "Inferred effect rows with duplicate labels: Koka's type system, semantics and soundness of exn, div and st."
+ ],
+ [
+  "leijen-structured-asynchrony-algebraic-effects",
+  "leijen-structured-asynchrony-algebraic-effects",
+  "Computer Science",
+  "Structured Asynchrony with Algebraic Effects",
+  "Daan Leijen",
+  "async/await, interleaving, cancellation, promises and ambient state as a Koka library of effect handlers."
  ]
 ]

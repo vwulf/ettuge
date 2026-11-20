@@ -42,6 +42,7 @@ Partial PDFs (samples, excerpts, unfinished drafts) are marked as such on their 
 - [Principles of Eventual Consistency](burckhardt-eventual-consistency) (Burckhardt): histories, abstract executions, CAP, protocols
 - [Programming Well: Abstraction and Design in Computation](shieber-programming-well) (Stuart M. Shieber): CS51 in OCaml: types, higher-order functions, modules, semantics models, laziness, objects, MiniML.
 - [Programming in Scala (5th ed., Scala 3)](odersky-programming-in-scala-5e) (Odersky, Spoon, Venners and Sommers): The standard Scala 3 book, from basics through traits, patterns, collections, types, givens and typeclasses.
+- [Structured Asynchrony with Algebraic Effects](leijen-structured-asynchrony-algebraic-effects) (Daan Leijen): async/await, interleaving, cancellation, promises and ambient state as a Koka library of effect handlers.
 - [The Formal Semantics of Programming Languages](winskel-formal-semantics) (Glynn Winskel): Operational, denotational and axiomatic semantics; domain theory, recursive types and concurrency.
 - [The Little Book of Semaphores](little-book-of-semaphores) (Allen B. Downey): Concurrency puzzles solved with semaphores, from classic problems to original ones.
 - [The Science of Functional Programming](winitzki-science-of-functional-programming) (Sergei Winitzki): FP derived by symbolic reasoning in Scala: Curry-Howard, functors, monads, applicatives, free constructions, transformers.
