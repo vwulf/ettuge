@@ -142,11 +142,13 @@ Assuming formal statements are eventually verified to match intent: about 0.1% o
 
 **Overall**
 
-| Slice of math | Rough share formalized |
-| --- | --- |
-| Research literature (by paper count; denominator \~4M+ MathSciNet items) | \~0.1%; up to \~0.5% counting papers pulled in as dependencies |
-| Standard graduate canon | \~40–60% |
-| Standard undergraduate canon | \~80–90% |
+| Slice of math | In mathlib or a reviewed project | Kernel-checked anywhere (as of Nov 20, 2026) |
+| --- | --- | --- |
+| Research literature (by paper count; denominator \~4M+ MathSciNet items) | \~0.1%; up to \~0.5% counting papers pulled in as dependencies | \~0.1–0.3% strict; up to \~1% counting dependencies |
+| Standard graduate canon | \~40–60% | \~60–70% |
+| Standard undergraduate canon | \~80–90% | \~85–90% |
+
+**Why the two columns diverged in November 2026.** Most new coverage sits in unreviewed AI monoliths outside mathlib. On a strict paper count they barely register, but each absorbs a large literature: CFSG's 715 sources, the Stacks Project, Weil and Deligne, and, if it holds, the RH archive's automorphic forms and Shimura varieties. The graduate-canon jump comes mainly from algebraic geometry (the Stacks Project) plus ATLAS's 26 textbooks; differential geometry, algebraic topology, PDE and stochastic analysis remain thin. The jump is fragile, since Stacks is \~99% unreviewed and Mordell and Weil build on it. The RH archive is excluded until Comparator and independent kernels confirm it; accepted, it could add more formalized graduate-to-research material than everything else this year. Paper counts also miss where coverage really moved: if RH holds, most major 20th-century theorems of number theory and arithmetic geometry are kernel-checked (see the area update below).
 
 mathlib itself is \~2M+ lines with roughly 280,000 theorems ([Lean Zulip](https://leanprover-community.github.io/archive/stream/287929-mathlib4/topic/2.20million.html)). The FLT and CFSG proofs are each many times larger and sit outside it.
 
