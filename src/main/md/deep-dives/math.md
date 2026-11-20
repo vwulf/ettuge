@@ -1,7 +1,7 @@
 ---
 title: Math Deep Dives
 created: 2026-11-13
-updated: 2026-11-13
+updated: 2026-11-20
 source: deep-dive reading sessions on papers and books (Oct–Nov 2026)
 ---
 
@@ -22,7 +22,7 @@ These notes come from close readings of papers, preprints and books, mostly the 
 **Contents**
 1. [The OpenAI math release](ch1)
 2. [Complexity theory](ch2): Unique Games, semidefinite programming, the ETH refutation, Chowla's cosine problem
-3. [Number theory](ch3): the quasi-Riemann hypothesis, Siegel zeros, prime gaps, Goldbach
+3. [Number theory](ch3): the quasi-Riemann hypothesis, Siegel zeros, the claimed proof of RH and GRH, prime gaps, Goldbach
 4. [Millennium problems in mathematical physics](ch4): Navier–Stokes, Yang–Mills
 5. [Books and formalization](ch5)
 6. [Themes across the deep dives](ch6)
@@ -279,6 +279,53 @@ A Siegel zero would be a single real zero β of L(s, χ), for a real character �
 
 ---
 
+**On Nov 20, 2026 Levent Alpöge (Anthropic) claimed a proof of RH and GRH, found with Claude and released only as an axiom-free Lean archive.**
+<https://alpo.ge/remark.pdf>
+
+**The claim.** A four-page note, "Remark", says that he and Claude found a proof of the Riemann hypothesis, that the method gives the Generalized Riemann Hypothesis for Dirichlet L-functions, and that he expects the Extended RH (Dedekind zetas) with more time. There is no paper. The proof is a Lean archive in 14 parts (`lean.tar.gz.part01` … `part14`), "formalized without assumptions". Alpöge says an informal write-up would run past 250,000 pages, so he chose not to post "a massive unreadable travesty of slop". The final step, GRH, is dated Nov 16. He credits Claude with the technical work near the end and says he hasn't yet mastered large parts of the mathematics it uses, especially automorphic forms on higher-rank groups.
+
+**Status on the first day.**
+- Elliot Glazer checked that the formal statement in the archive is GRH, which answers the statement-fidelity question first. He put the chance of a Lean bug below 1%.
+- Andrew Sutherland (MIT) compiled the archive independently and called it historic.
+- Lean experts are reviewing it on the Lean Zulip, where Thomas Bloom pointed people. That review is the first real verdict.
+- No human has read the argument, because there is no argument to read yet, only Lean.
+
+**What to check in the Lean.**
+- `#print axioms` on the main theorem shows only `propext`, `Classical.choice` and `Quot.sound`.
+- The statement uses Mathlib's own `riemannZeta` and `DirichletCharacter.LFunction`, and the vendored Mathlib is unmodified.
+- No `native_decide` (which adds `Lean.ofReduceBool`) and no `implemented_by` tricks.
+- Independent kernels (nanoda, lean4lean) accept it, as with the quasi-RH rerun.
+
+**The deduction chain**, as a Claude Fable reading of the archive maps it. "No Dirichlet L-function vanishes for Re s > 1/2" gives RH by a short standard step. That nonvanishing is deduced from three inputs:
+
+| Input | What it is | Where it sits in Alpöge's timeline |
+|---|---|---|
+| A growth bound on Galois cohomology | H¹(o_E[1/ℓ], Q_ℓ/Z_ℓ(−e)) for subfields of cyclotomic fields, Sha-like groups | Step 17: the classes twisting can't kill, fought with "a significant weakening of Vandiver" |
+| A covolume bound | Arakelov geometry: arithmetic Hilbert–Samuel, Moriwaki's bigness theorem | Steps 13 and 18: Bost's slope inequality, covolumes of theta-series lattices |
+| Theta integrals on unitary groups | Iterated theta lifts, GGP/Bessel periods, local Langlands for GL_n | Steps 7–12: lifts U(X₀) → … → U(X_m), seesaw and Rallis |
+
+The cohomology bound is proved by what looks like an automorphy-lifting argument. It uses Galois representations attached to regular algebraic polarized cuspidal representations of GL_n over CM fields, base change, Jacquet–Shalika, Clozel's purity, Bernstein–Zelevinsky, the main theorem of CM and Deligne–Ribet. Those Galois representations are not assumed. The archive builds them from a geometric construction for unitary groups (Eichler–Shimura, crystalline above ℓ) plus theta lifts, apparently not the route in the literature. Because nothing is axiomatized, resolution of singularities in characteristic zero, toroidal compactifications of Siegel varieties, Kawamata–Viehweg and Nadel vanishing, Grothendieck–Messing and prismatic Dieudonné theory all had to be proved inside the project.
+
+**How the inputs might combine.** This is a reading of the note, not of the Lean, and may be wrong in its details.
+1. **Positivity.** The Weil (Guinand–Weil) explicit formula turns "no zeros with Re s > 1 − η" into positivity of a functional W on test functions. The note's step 6: W(1_(0,1] + X^η·1_(0,1/X]) ≥ 0 gives no zeros past 1 − η.
+2. **A determinant.** The positivity comes from a Gram-type determinant, the "Stepanov determinant". Stepanov's elementary proof of RH for curves over F_q builds an auxiliary polynomial vanishing to high multiplicity at every rational point; the count gives q + O(√q).
+3. **Multiplicity from theta lifts.** Over ℤ multiplicity has no obvious meaning ("differentiating whole numbers"). Each theta lift in a chain between totally definite unitary groups plays the part of one more order of vanishing. For a von Mangoldt sum of length X, the chain length is about √X, which is the same optimisation that sets Stepanov's multiplicity near √q.
+4. **Paying for each lift.** Done naively, the argument stalls at 2/3 (step 14). Getting to 1/2 needs the lifted periods to be highly divisible (Chowla–Selberg, Weyl, Siegel mass; steps 9, 10, 15). Obstructions to divisibility are Galois cohomology classes, hence the Vandiver-type bound. The Bost slopes turn divisibility into a size bound: the integrality-against-size contradiction of transcendence theory. An Iwasawa tower chosen with Behrend's construction (step 19) supplies the averaging.
+
+**How it descends from quasi-RH.** Alpöge reads OpenAI's Siegel-zero argument (the sixth-power echoes above) as "Stepanov without multiplicity". Seeing that, plus a sign-only proof of the Weil and Deligne bounds (his qN = Mk + R), convinced him RH would fall. In this reading quasi-RH is the multiplicity-one case: one copy of the walk, an exponent strictly below 1. The full proof is the multiplicity-√X case. He expects much shorter arguments soon, and calls the Behrend step "obviously going to be unnecessary".
+
+**If it holds.** The right-hand column of the 7/8 table above becomes unconditional: square-root error terms, Cramér's √p log p for large gaps, deterministic Miller–Rabin with (log n)² witnesses. Twin primes and binary Goldbach don't follow, for the reasons in the next entry.
+
+**A separate, human claim the same day.** A few hours after Alpöge's note, AMS president Ravi Vakil (Stanford) released on his blog a draft *proposed proof of GRH* by Alessandro Masullo, described as all human, with no AI. Masullo co-wrote lecture notes with Brian Conrad on the étale cohomology of number fields, and Conrad has been reviewing the argument privately for months; Vakil says it is "so far looking good". Vakil had planned a year at Stanford to polish it before circulating it to experts, and instead asked the community to check it, formalize it and fill small gaps. It is an unpolished draft, not formalized, and its method hasn't been publicly summarized, though it appears to take a different route from Alpöge's. Glazer's comment was that sitting on results until they are fully checked is no longer a stable equilibrium. If both hold, priority is an open question; Clay's rules require two years after publication and general acceptance before any prize.
+
+So on Nov 20 there were two independent GRH claims in opposite shapes: one machine-checked with no readable proof, one readable with no machine check. **[→ mathematics]**
+
+**Context.** This is the year's starkest case of the "two versions" pattern: here there is only the machine-checked version, and the readable one doesn't exist yet. Alpöge says the timing of the announcement was constrained and that he chose to release before waiting further. He was earlier on the Claude result raising the share of zeros proved on the critical line from 41.6% to 67.2% (Aug), and on the Buckmaster–Alpöge forced Navier–Stokes work. **[→ mathematics; cross-link → machine-learning-ai]**
+
+Sources: [Alpöge, "Remark"](https://alpo.ge/remark.pdf), [OfficeChai: Vakil and Masullo](https://officechai.com/ai/hours-after-alpoges-ai-assisted-riemann-hypothesis-proof-ams-president-ravi-vakil-rushes-out-a-rival-all-human-proof-by-alessandro-masullo/), [Scientific American](https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/), [OfficeChai: reactions](https://officechai.com/ai/how-mathematicians-have-reacted-to-claimed-riemann-hypothesis-proof-by-anthropics-levent-alpoge/), [Pillitteri](https://pasqualepillitteri.it/en/news/35468/riemann-hypothesis-proof-claude-alpoge).
+
+---
+
 **Bounded prime gaps are driven by the level of distribution, so RH and quasi-RH don't help; large gaps are where zeros matter.**
 
 | Bound | Who, when | Status |
@@ -440,11 +487,11 @@ Related popular books in the catalogue: [Fermat's Last Theorem](https://vwulf.gi
 ## 6. Themes across the deep dives
 
 **Machine checking settles correctness, not meaning, readability or credit.** The same pattern recurred across the results:
-- **Two versions.** A long Lean-checked document sat beside a short unchecked one that humans actually read (quasi-RH, matrix multiplication).
+- **Two versions.** A long Lean-checked document sat beside a short unchecked one that humans actually read (quasi-RH, matrix multiplication). GRH on Nov 20 split the two across claimants: Alpöge's Lean-only archive and Masullo's human draft.
 - **Statement fidelity.** Is the formal statement ETH as people mean it? Is the Lean Yang–Mills theorem on ℝ⁴ or a torus? Are the OS axioms encoded faithfully?
 - **Credit.** Navier–Stokes and Buckmaster–Alpöge.
 - **Readability.** Moshkovitz on UGC, Radziwiłł on quasi-RH.
 
 **Old tools, new combinations.** The landmark proofs mostly assembled existing machinery in combinations nobody had tried. Quasi-RH used a family of L-functions that had been overlooked. UGC used the 2-to-2 inverse theorem plus a new gadget. Chowla used a 1970s spectral fact plus extremal MaxCut. Yang–Mills completed Bałaban's 1980s programme. Experts' main surprise was that the existing toolkits were already strong enough.
 
-**Where the walls still are.** The parity barrier blocks twin primes and binary Goldbach whatever happens to RH. Small-Set Expansion stays open after UGC. The unforced Navier–Stokes equations and the Yang–Mills mass gap are untouched. In each case the AI results moved the boundary right up to a known obstruction without crossing it. **[→ mathematics]**
+**Where the walls still are.** The parity barrier blocks twin primes and binary Goldbach whatever happens to RH, including the Nov 20 claim. Small-Set Expansion stays open after UGC. The unforced Navier–Stokes equations and the Yang–Mills mass gap are untouched. In each case the AI results moved the boundary right up to a known obstruction without crossing it. **[→ mathematics]**
