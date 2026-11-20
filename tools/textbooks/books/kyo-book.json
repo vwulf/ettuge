@@ -1,0 +1,2417 @@
+{
+ "url": "https://getkyo.io/latest/",
+ "title": "Kyo: a book-style guide to the documentation",
+ "web": true,
+ "links_label": "getkyo.io",
+ "byline": "Kyo maintainers (Flavio Brasil and contributors) · getkyo.io, documentation for v1.0.0-RC7 (September 2026), Apache 2.0",
+ "note": "Kyo has no book; its documentation is the set of per-module READMEs published at getkyo.io. This page arranges that documentation like a book, in a suggested reading order: the introduction, the core modules, writing styles, concurrency, testing, then applications. Every section links straight to its heading on getkyo.io (the latest release). Terms under each section are its sub-headings in the docs. Summaries are in our own words.",
+ "summary": "Kyo is a Scala 3 toolkit built on algebraic effects. A computation has type A < S: it produces an A once every effect in the row S has been handled, and S is an intersection type, so effects combine in any order and each handler removes one. Pure effects (Abort, Env, Var, Choice, Emit, Stream) live in kyo-prelude; kyo-core adds Sync, Async, fibers, Scope and concurrency primitives; kyo-kernel exposes the machinery (ArrowEffect, ContextEffect, handlers with continuations) for writing new effects. Around that core sit direct-style and combinator dialects, STM and actors, a work-stealing scheduler, a test framework, derived schemas, HTTP, typed LLM programs (kyo-ai) and bridges to ZIO and other runtimes.",
+ "chapters": [
+  {
+   "title": "Introduction: the pending type",
+   "start": null,
+   "end": null,
+   "links": [
+    [
+     "Overview",
+     "https://getkyo.io/latest/"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Getting Started",
+     "href": "https://getkyo.io/latest/#getting-started",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "The pending type",
+     "href": "https://getkyo.io/latest/#the-pending-type",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Imports: all you need is import kyo.*",
+     "href": "https://getkyo.io/latest/#imports-all-you-need-is-import-kyo",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Composing computations: map, flatMap, and for",
+     "href": "https://getkyo.io/latest/#composing-computations-map-flatmap-and-for",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Composing many computations: sequential vs parallel",
+     "href": "https://getkyo.io/latest/#composing-many-computations-sequential-vs-parallel",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "The shape of an effect",
+     "href": "https://getkyo.io/latest/#the-shape-of-an-effect",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Effect ordering",
+     "href": "https://getkyo.io/latest/#effect-ordering",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Idiomatic style: monadic by default",
+     "href": "https://getkyo.io/latest/#idiomatic-style-monadic-by-default",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Platforms",
+     "href": "https://getkyo.io/latest/#platforms",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Coming from ZIO or Cats Effect",
+     "href": "https://getkyo.io/latest/#coming-from-zio-or-cats-effect",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Drop-in scheduler for ZIO, Pekko, Finagle",
+     "href": "https://getkyo.io/latest/#drop-in-scheduler-for-zio-pekko-finagle",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    }
+   ],
+   "summary": "How Kyo programs are shaped: the type A < S (a result A still owing the effects in S), the single import, composing with map/flatMap/for, sequential versus parallel collection operations, what an effect and its handler look like, and why the order you handle effects in changes the result. Also platforms, the translation table for ZIO and Cats Effect users, and using Kyo’s scheduler under other runtimes.",
+   "terms": []
+  },
+  {
+   "title": "kyo-data: low-allocation values",
+   "start": null,
+   "end": null,
+   "links": [
+    [
+     "kyo-data",
+     "https://getkyo.io/latest/kyo-data/"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Portable path matching",
+     "href": "https://getkyo.io/latest/kyo-data/#portable-path-matching",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Optional and fallible values",
+     "href": "https://getkyo.io/latest/kyo-data/#optional-and-fallible-values",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Working with optional values",
+      "Modeling success and failure",
+      "Pattern matching on the result",
+      "Recovering from specific errors",
+      "Narrowing to expected failures only"
+     ]
+    },
+    {
+     "title": "Sequences, maps, and identifiers",
+     "href": "https://getkyo.io/latest/kyo-data/#sequences-maps-and-identifiers",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Slicing without copying",
+      "Storing primitives without boxing",
+      "Chunk vs Span: when to use which",
+      "Mapping keys to values",
+      "Building incrementally",
+      "Binary-to-text encoding",
+      "Identifiers and UUIDs"
+     ]
+    },
+    {
+     "title": "Time and scheduling",
+     "href": "https://getkyo.io/latest/kyo-data/#time-and-scheduling",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Time spans",
+      "Points in time",
+      "Retry and periodic policies"
+     ]
+    },
+    {
+     "title": "Storage sizes",
+     "href": "https://getkyo.io/latest/kyo-data/#storage-sizes",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Records and named fields",
+     "href": "https://getkyo.io/latest/kyo-data/#records-and-named-fields",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Building a record",
+      "Records from case classes",
+      "Updating, mapping, and zipping",
+      "Reified field descriptors",
+      "Compile-time staging per field",
+      "Library-author tooling"
+     ]
+    },
+    {
+     "title": "Type identity at runtime",
+     "href": "https://getkyo.io/latest/kyo-data/#type-identity-at-runtime",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Compile-time-derived tags",
+      "Union- and intersection-aware tags",
+      "Array element tags",
+      "Choosing a tag",
+      "Heterogeneous maps",
+      "Compile-time literals as runtime values",
+      "Rejecting intersection types in evidence"
+     ]
+    },
+    {
+     "title": "Rendering and formatting",
+     "href": "https://getkyo.io/latest/kyo-data/#rendering-and-formatting",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Customizable rendering",
+      "Terminal color and formatting"
+     ]
+    },
+    {
+     "title": "Putting it together",
+     "href": "https://getkyo.io/latest/kyo-data/#putting-it-together",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Reading values from configuration",
+     "href": "https://getkyo.io/latest/kyo-data/#reading-values-from-configuration",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Call-site context and exceptions",
+     "href": "https://getkyo.io/latest/kyo-data/#call-site-context-and-exceptions",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Compile-time-captured source position",
+      "Exceptions with frame context"
+     ]
+    }
+   ],
+   "summary": "The value types everything else returns: Maybe instead of Option, Result instead of Either/Try, Chunk and Span for sequences, Dict, durations, instants and schedules, typed records, type tags and rendering. Opaque types keep them allocation-free; usable without the effect system.",
+   "terms": []
+  },
+  {
+   "title": "kyo-prelude: pure effects and handlers",
+   "start": null,
+   "end": null,
+   "links": [
+    [
+     "kyo-prelude",
+     "https://getkyo.io/latest/kyo-prelude/"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Failure and recovery",
+     "href": "https://getkyo.io/latest/kyo-prelude/#failure-and-recovery",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Declaring a failure",
+      "Lifting standard types",
+      "Handling failure: run, recover, fold",
+      "Run variants that drop panic",
+      "Recover-only-failure vs fold-and-rethrow",
+      "Observing a failure without consuming it",
+      "Singleton-typed errors"
+     ]
+    },
+    {
+     "title": "Dependencies",
+     "href": "https://getkyo.io/latest/kyo-prelude/#dependencies",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Reading the environment",
+      "Providing values directly",
+      "Wiring with layers"
+     ]
+    },
+    {
+     "title": "Contextual values",
+     "href": "https://getkyo.io/latest/kyo-prelude/#contextual-values",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Inheritable vs non-inheritable",
+      "Scoped override and update"
+     ]
+    },
+    {
+     "title": "Mutable state",
+     "href": "https://getkyo.io/latest/kyo-prelude/#mutable-state",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Discharging state: run vs runTuple",
+      "Isolation strategies"
+     ]
+    },
+    {
+     "title": "Branching computations",
+     "href": "https://getkyo.io/latest/kyo-prelude/#branching-computations",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Introducing branches",
+      "Killing a branch",
+      "Collect all vs stream"
+     ]
+    },
+    {
+     "title": "Streaming",
+     "href": "https://getkyo.io/latest/kyo-prelude/#streaming",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Building a stream",
+      "Transforming",
+      "Composing streams: zip, concat, into",
+      "Consuming: run, fold, foreach",
+      "Threading effects through a stream: handle",
+      "Reusable transducers: Pipe",
+      "Reusable consumers: Sink",
+      "Low-level: Emit and Poll",
+      "Isolation strategies for streaming effects"
+     ]
+    },
+    {
+     "title": "Memoization",
+     "href": "https://getkyo.io/latest/kyo-prelude/#memoization",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Validation",
+     "href": "https://getkyo.io/latest/kyo-prelude/#validation",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Batching",
+     "href": "https://getkyo.io/latest/kyo-prelude/#batching",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Aspect-oriented interception",
+     "href": "https://getkyo.io/latest/kyo-prelude/#aspect-oriented-interception",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Sequencing collections over any effect: Kyo.*",
+     "href": "https://getkyo.io/latest/kyo-prelude/#sequencing-collections-over-any-effect-kyo",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Putting it together",
+     "href": "https://getkyo.io/latest/kyo-prelude/#putting-it-together",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    }
+   ],
+   "summary": "The pure, handler-based effects: Abort for typed failure, Env and Local for dependencies and context, Var for state, Choice for non-determinism, Emit/Poll and Stream for streaming, Memo, validation, batching and aspects. Each handler (Abort.run, Env.run, Var.run …) removes its effect from the row, which is the algebraic-effects picture in practice.",
+   "terms": []
+  },
+  {
+   "title": "kyo-core: Sync, Async and the fiber runtime",
+   "start": null,
+   "end": null,
+   "links": [
+    [
+     "kyo-core",
+     "https://getkyo.io/latest/kyo-core/"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "From values to programs: Sync, Async, and KyoApp",
+     "href": "https://getkyo.io/latest/kyo-core/#from-values-to-programs-sync-async-and-kyoapp",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Suspending side effects with Sync",
+      "Adding fibers with Async",
+      "Running an application"
+     ]
+    },
+    {
+     "title": "Structured concurrency",
+     "href": "https://getkyo.io/latest/kyo-core/#structured-concurrency",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "First success vs first finish",
+      "Gathering bounded successful results",
+      "Bounded-concurrency collection ops",
+      "Parallel n-way join",
+      "Explicit fibers (advanced)"
+     ]
+    },
+    {
+     "title": "Resource safety",
+     "href": "https://getkyo.io/latest/kyo-core/#resource-safety",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Choosing the tool",
+      "acquireRelease, acquire, and ensure",
+      "Closing a scope",
+      "Fibers and scopes",
+      "Where the guarantee starts and stops"
+     ]
+    },
+    {
+     "title": "Talking between fibers",
+     "href": "https://getkyo.io/latest/kyo-core/#talking-between-fibers",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Bounded MPMC buffers",
+      "Lock-free queues with overflow policies",
+      "Broadcast fan-out",
+      "ID-multiplexed request/response (advanced)"
+     ]
+    },
+    {
+     "title": "Coordinating work",
+     "href": "https://getkyo.io/latest/kyo-core/#coordinating-work",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Latch: asymmetric countdown",
+      "Gate: symmetric multi-party barrier",
+      "Meter: mutex, semaphore, rate limiter",
+      "Admission: load shedding at the boundary",
+      "Signal: reactive value with change streams"
+     ]
+    },
+    {
+     "title": "Shared mutable state",
+     "href": "https://getkyo.io/latest/kyo-core/#shared-mutable-state",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Atomic primitives",
+      "Contention-optimized counters",
+      "Bounded caches and memoization"
+     ]
+    },
+    {
+     "title": "Time, deadlines, retries",
+     "href": "https://getkyo.io/latest/kyo-core/#time-deadlines-retries",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Clock.now vs Clock.nowMonotonic",
+      "Measuring elapsed time and tracking deadlines",
+      "Scheduling recurring work",
+      "Deterministic time for tests",
+      "Retry",
+      "Timeout"
+     ]
+    },
+    {
+     "title": "Files, processes, and the OS",
+     "href": "https://getkyo.io/latest/kyo-core/#files-processes-and-the-os",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Ambient services",
+     "href": "https://getkyo.io/latest/kyo-core/#ambient-services",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Console",
+      "UUID generation",
+      "Random",
+      "Log"
+     ]
+    },
+    {
+     "title": "Cross-cutting errors",
+     "href": "https://getkyo.io/latest/kyo-core/#cross-cutting-errors",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Metrics and stream bridges",
+     "href": "https://getkyo.io/latest/kyo-core/#metrics-and-stream-bridges",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Stat: metrics registry",
+      "StreamCoreExtensions",
+      "StreamCompression (JVM only)"
+     ]
+    },
+    {
+     "title": "Putting it together",
+     "href": "https://getkyo.io/latest/kyo-core/#putting-it-together",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Low-level extension points",
+     "href": "https://getkyo.io/latest/kyo-core/#low-level-extension-points",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    }
+   ],
+   "summary": "The runtime layer: Sync for suspended side effects, Async for fibers, races and structured cancellation, KyoApp as the entry point; Scope for resources; channels, queues and hubs between fibers; latches, gates, meters, admission control and signals for coordination; atomics and caches; clocks, retries, timeouts and schedules; files and processes; console, random and logging; metrics and stream bridges.",
+   "terms": []
+  },
+  {
+   "title": "kyo-kernel: how effects are built",
+   "start": null,
+   "end": null,
+   "links": [
+    [
+     "kyo-kernel",
+     "https://getkyo.io/latest/kyo-kernel/"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "A < S: the pending type",
+     "href": "https://getkyo.io/latest/kyo-kernel/#a-s-the-pending-type",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Composing computations",
+      "Plain values are computations already",
+      "Nesting, and flatten",
+      "Running",
+      "Printing"
+     ]
+    },
+    {
+     "title": "Declaring an effect",
+     "href": "https://getkyo.io/latest/kyo-kernel/#declaring-an-effect",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "ArrowEffect: operations with an input and an answer",
+      "An effect whose operations answer at different types",
+      "ContextEffect: a value bound around the computation"
+     ]
+    },
+    {
+     "title": "Answering an effect",
+     "href": "https://getkyo.io/latest/kyo-kernel/#answering-an-effect",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "handleCont: the continuation in hand",
+      "handleContRepeated: applying the continuation more than once",
+      "handleLoop: one answer per occurrence",
+      "handleLoopState: carrying state between occurrences",
+      "Performing effects while handling",
+      "The *With variants: fusing the region's continuation",
+      "ContextEffect.handle: binding a value for a scope",
+      "handle: reading a stack of handlers left to right",
+      "Arrow: a transformation you can hold",
+      "head and tail: why an arrow exposes its own composition",
+      "Region.NoEscape: the continuation cannot leave its region"
+     ]
+    },
+    {
+     "title": "Failure and resources",
+     "href": "https://getkyo.io/latest/kyo-kernel/#failure-and-resources",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Recovery is a clause, not a wrapper",
+      "ensureMap: no gap between a value and what it owes",
+      "Bracket: acquire, use, release",
+      "A released scope, entered again",
+      "EffectTrace: what a failure carries out"
+     ]
+    },
+    {
+     "title": "Iteration",
+     "href": "https://getkyo.io/latest/kyo-kernel/#iteration",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Loop: the general loops",
+      "Loop.Outcome: what a round answers with",
+      "The shapes that need no state"
+     ]
+    },
+    {
+     "title": "Sequential collection operations",
+     "href": "https://getkyo.io/latest/kyo-kernel/#sequential-collection-operations",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Mapping over a collection",
+      "Selecting and folding",
+      "Splitting and branching",
+      "The collection types, and where the concurrent variants live"
+     ]
+    },
+    {
+     "title": "Isolate: crossing an execution boundary",
+     "href": "https://getkyo.io/latest/kyo-kernel/#isolate-crossing-an-execution-boundary",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "The three type parameters",
+      "The three phases",
+      "run: the three phases composed",
+      "nest: holding the restore back",
+      "Composing and obtaining instances",
+      "What the bindings themselves decide"
+     ]
+    },
+    {
+     "title": "Mask: hiding an effect from inner handlers",
+     "href": "https://getkyo.io/latest/kyo-kernel/#mask-hiding-an-effect-from-inner-handlers",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Putting it together",
+     "href": "https://getkyo.io/latest/kyo-kernel/#putting-it-together",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    }
+   ],
+   "summary": "For effect authors: the pending type itself, declaring effects with ArrowEffect (an operation takes an input and is answered with an output) and ContextEffect (a value bound around the computation), answering them with handlers that hold the continuation (and may resume it more than once), failure and brackets at the kernel level, loops, Isolate for carrying effect state across execution boundaries, and Mask for hiding an effect from inner handlers. Read alongside Plotkin–Pretnar and Leijen in this library.",
+   "terms": []
+  },
+  {
+   "title": "kyo-direct: direct style",
+   "start": null,
+   "end": null,
+   "links": [
+    [
+     "kyo-direct",
+     "https://getkyo.io/latest/kyo-direct/"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Writing effects in direct style",
+     "href": "https://getkyo.io/latest/kyo-direct/#writing-effects-in-direct-style",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "direct",
+      ".now",
+      ".later"
+     ]
+    },
+    {
+     "title": "What direct rejects, and what to use instead",
+     "href": "https://getkyo.io/latest/kyo-direct/#what-direct-rejects-and-what-to-use-instead",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Bare T < S as a statement",
+      "Shared mutable state",
+      "One-shot caching and memoization",
+      "def containing .now",
+      "Catching and raising failures",
+      "Thread coordination",
+      "Nested class / trait / object"
+     ]
+    },
+    {
+     "title": "Higher-order calls and lazy structures",
+     "href": "https://getkyo.io/latest/kyo-direct/#higher-order-calls-and-lazy-structures",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Shift-aware methods",
+      "Lazy structures: Stream"
+     ]
+    },
+    {
+     "title": "Error diagnostics",
+     "href": "https://getkyo.io/latest/kyo-direct/#error-diagnostics",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Putting it together",
+     "href": "https://getkyo.io/latest/kyo-direct/#putting-it-together",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Cross-platform",
+     "href": "https://getkyo.io/latest/kyo-direct/#cross-platform",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    }
+   ],
+   "summary": "Write effectful code as straight-line Scala inside direct { … }, marking each effect with .now (or .later); a macro rewrites it into flatMap chains. Covers what the macro rejects and why, higher-order calls, and its error messages.",
+   "terms": []
+  },
+  {
+   "title": "kyo-combinators: fluent operators",
+   "start": null,
+   "end": null,
+   "links": [
+    [
+     "kyo-combinators",
+     "https://getkyo.io/latest/kyo-combinators/"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Construction",
+     "href": "https://getkyo.io/latest/kyo-combinators/#construction",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Lifting plain values and side-effects",
+      "Async primitives",
+      "Lifting standard-library types",
+      "Resource lifecycle (constructing the resource)",
+      "Env constructors (reading dependencies)",
+      "Parallel fan-out",
+      "Emit and Poll",
+      "Logging"
+     ]
+    },
+    {
+     "title": "Sequencing and combining",
+     "href": "https://getkyo.io/latest/kyo-combinators/#sequencing-and-combining",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Sequential zip: *>, <*, <*>",
+      "tap: side-effect on the success value",
+      "when / unless: conditional execution"
+     ]
+    },
+    {
+     "title": "Repetition",
+     "href": "https://getkyo.io/latest/kyo-combinators/#repetition",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "repeat: by count or schedule",
+      "repeatWhile / repeatUntil: predicate-driven",
+      "forever: infinite repetition",
+      "delay: postpone before running"
+     ]
+    },
+    {
+     "title": "Error handling",
+     "href": "https://getkyo.io/latest/kyo-combinators/#error-handling",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "result: handle to a Result",
+      "recover and recoverSome: replace failures",
+      "foldAbort / foldAbortOrThrow: fold over outcome",
+      "mapAbort and swapAbort: transform the error type",
+      "orPanic / orThrow / unpanic: collapse to panic or back",
+      "abortToChoiceDrop, abortToAbsent, abortToThrowable: route to other effects",
+      "retry: re-run on failure",
+      "forAbort[E1]: handle one branch of a union",
+      "PanicException: the panic wrapper"
+     ]
+    },
+    {
+     "title": "Optionality (Absent)",
+     "href": "https://getkyo.io/latest/kyo-combinators/#optionality-absent",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "maybe: handle to Maybe[A]",
+      "Routing absence to other effects"
+     ]
+    },
+    {
+     "title": "Concurrency and forking",
+     "href": "https://getkyo.io/latest/kyo-combinators/#concurrency-and-forking",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "fork, forkUnscoped, forkUsing",
+      "Parallel zip: &>, <&, <&>",
+      "Fiber#join and Fiber#await"
+     ]
+    },
+    {
+     "title": "Non-determinism (Choice)",
+     "href": "https://getkyo.io/latest/kyo-combinators/#non-determinism-choice",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "handleChoice: handle to Seq[A]",
+      "filterChoice: drop branches by predicate",
+      "choiceDropToAbsent, choiceDropToThrowable, choiceDropToFailure"
+     ]
+    },
+    {
+     "title": "Emit, streaming, and conversion",
+     "href": "https://getkyo.io/latest/kyo-combinators/#emit-streaming-and-conversion",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "handleEmit, handleEmitDiscarding, foreachEmit",
+      "emitToChannel: pipe to a Channel[A]",
+      "emitChunked: re-emit as chunks",
+      "Convert to Stream",
+      "unwrapStream: flatten an effectful stream"
+     ]
+    },
+    {
+     "title": "Resource lifecycle",
+     "href": "https://getkyo.io/latest/kyo-combinators/#resource-lifecycle",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "ensuring and ensuringError"
+     ]
+    },
+    {
+     "title": "Dependency injection (Env)",
+     "href": "https://getkyo.io/latest/kyo-combinators/#dependency-injection-env",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "provideValue and Kyo.provideFor: supply a single dependency",
+      "provideLayer: supply via a Layer",
+      "provide: supply all required Env with multiple layers"
+     ]
+    },
+    {
+     "title": "Putting it together",
+     "href": "https://getkyo.io/latest/kyo-combinators/#putting-it-together",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    }
+   ],
+   "summary": "ZIO-style postfix operators over the existing effects: constructing computations, sequencing and zipping, repetition, error handling and narrowing with forAbort, optional values, forking, Choice, streaming conversions, resources and Env.",
+   "terms": []
+  },
+  {
+   "title": "kyo-stm: software transactional memory",
+   "start": null,
+   "end": null,
+   "links": [
+    [
+     "kyo-stm",
+     "https://getkyo.io/latest/kyo-stm/"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Transactional references",
+     "href": "https://getkyo.io/latest/kyo-stm/#transactional-references",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "TRef: single-cell state",
+      "TRef.initWith: allocate and use in one shot",
+      "TMap: keyed state with per-value concurrency",
+      "TChunk: transactional sequence",
+      "TTable: record store with auto IDs",
+      "TTable.Indexed: compile-time-checked queries"
+     ]
+    },
+    {
+     "title": "Running a transaction",
+     "href": "https://getkyo.io/latest/kyo-stm/#running-a-transaction",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "STM.run: commit a transaction",
+      "STM.run: custom retry schedule",
+      "STM.retry and STM.retryIf: abort and reschedule",
+      "Nested STM.run"
+     ]
+    },
+    {
+     "title": "What may run inside a transaction",
+     "href": "https://getkyo.io/latest/kyo-stm/#what-may-run-inside-a-transaction",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Side effects: after commit, not inside",
+      "Isolate requirement",
+      "Anti-starvation: barging"
+     ]
+    },
+    {
+     "title": "Low-level escape hatches",
+     "href": "https://getkyo.io/latest/kyo-stm/#low-level-escape-hatches",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "TRef.Unsafe.init: allocate outside any orchestration"
+     ]
+    },
+    {
+     "title": "When a transaction gives up",
+     "href": "https://getkyo.io/latest/kyo-stm/#when-a-transaction-gives-up",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "FailedTransaction"
+     ]
+    }
+   ],
+   "summary": "Transactional references and collections (TRef, TMap, TChunk, TTable), running and retrying transactions, what effects are allowed inside one, low-level escape hatches, and what happens when a transaction gives up.",
+   "terms": []
+  },
+  {
+   "title": "kyo-actor: typed actors",
+   "start": null,
+   "end": null,
+   "links": [
+    [
+     "kyo-actor",
+     "https://getkyo.io/latest/kyo-actor/"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Defining an actor's behavior",
+     "href": "https://getkyo.io/latest/kyo-actor/#defining-an-actor-s-behavior",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Actor.receiveAll: run until the mailbox closes",
+      "Actor.receiveMax: process a fixed count, then return",
+      "Actor.receiveLoop (no state)",
+      "Actor.receiveLoop with state",
+      "Actor.Context[A]"
+     ]
+    },
+    {
+     "title": "Starting and driving an actor",
+     "href": "https://getkyo.io/latest/kyo-actor/#starting-and-driving-an-actor",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Actor.run",
+      "Actor.defaultCapacity: the bounded mailbox (default 128)",
+      "The Actor[E, A, B] handle",
+      "send, trySend, ask"
+     ]
+    },
+    {
+     "title": "Talking to other actors and to yourself",
+     "href": "https://getkyo.io/latest/kyo-actor/#talking-to-other-actors-and-to-yourself",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Actor.self and Actor.selfWith",
+      "Actor.reenqueue",
+      "Subject#ask: a one-shot reply channel per request"
+     ]
+    },
+    {
+     "title": "Subjects: anything that receives messages",
+     "href": "https://getkyo.io/latest/kyo-actor/#subjects-anything-that-receives-messages",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Actor.Subject.noop",
+      "Actor.Subject.init(promise)",
+      "Actor.Subject.init(channel)",
+      "Actor.Subject.init(queue)",
+      "Actor.Subject.init(send, trySend)"
+     ]
+    },
+    {
+     "title": "Supervision and lifecycle",
+     "href": "https://getkyo.io/latest/kyo-actor/#supervision-and-lifecycle",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Parent-child scope inheritance",
+      "Closing an actor",
+      "Supervision is handler composition, not a strategy API"
+     ]
+    },
+    {
+     "title": "Publish/Subscribe",
+     "href": "https://getkyo.io/latest/kyo-actor/#publish-subscribe",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "PubSub: push-based publish/subscribe",
+     "href": "https://getkyo.io/latest/kyo-actor/#pubsub-push-based-publish-subscribe",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "PubSub.init: plain concurrent fan-out",
+      "PubSub.linearized: total order across subscribers",
+      "Subject.contramap: subscribing an actor with a sum message type",
+      "PubSub API summary"
+     ]
+    },
+    {
+     "title": "Request/Reply",
+     "href": "https://getkyo.io/latest/kyo-actor/#request-reply",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Job dispatcher with a worker pool",
+     "href": "https://getkyo.io/latest/kyo-actor/#job-dispatcher-with-a-worker-pool",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Worked example: a bank, step by step",
+     "href": "https://getkyo.io/latest/kyo-actor/#worked-example-a-bank-step-by-step",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Stage 0: a single account actor",
+      "Stage 1: concurrent ATM clients",
+      "Stage 2: observe transactions with a PubSub",
+      "Stage 3: a second observer via contramap",
+      "Stage 4: consistent order across observers with PubSub.linearized"
+     ]
+    }
+   ],
+   "summary": "Actors as receive loops over a private mailbox: defining behaviour, starting and messaging them, ask, Subjects as any message sink, supervision by composition, publish/subscribe, request/reply, a worker-pool dispatcher, and a worked bank example.",
+   "terms": []
+  },
+  {
+   "title": "kyo-scheduler: the work-stealing scheduler",
+   "start": null,
+   "end": null,
+   "links": [
+    [
+     "kyo-scheduler",
+     "https://getkyo.io/latest/kyo-scheduler/"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Getting started",
+     "href": "https://getkyo.io/latest/kyo-scheduler/#getting-started",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Submitting a task",
+      "Bridging to standard executors"
+     ]
+    },
+    {
+     "title": "Cooperative tasks and time slicing",
+     "href": "https://getkyo.io/latest/kyo-scheduler/#cooperative-tasks-and-time-slicing",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "A custom Task",
+      "Yield hooks",
+      "Opting in to interruption"
+     ]
+    },
+    {
+     "title": "Admission control",
+     "href": "https://getkyo.io/latest/kyo-scheduler/#admission-control",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Random rejection",
+      "Keyed rejection (sticky within a rotation window)",
+      "Random vs keyed: when to use which",
+      "Reading the current admission percentage"
+     ]
+    },
+    {
+     "title": "Adaptive concurrency and blocking compensation",
+     "href": "https://getkyo.io/latest/kyo-scheduler/#adaptive-concurrency-and-blocking-compensation",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Triggering an immediate scan"
+     ]
+    },
+    {
+     "title": "Configuration and tuning",
+     "href": "https://getkyo.io/latest/kyo-scheduler/#configuration-and-tuning",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Scheduler-wide config",
+      "Constructing a non-singleton scheduler"
+     ]
+    },
+    {
+     "title": "Loom and virtual threads",
+     "href": "https://getkyo.io/latest/kyo-scheduler/#loom-and-virtual-threads",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Monitoring (kyo-scheduler top)",
+     "href": "https://getkyo.io/latest/kyo-scheduler/#monitoring-kyo-scheduler-top",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Rendering as a table",
+      "Exposing the status via JMX",
+      "Periodic console dump in-process"
+     ]
+    },
+    {
+     "title": "Lifecycle and ops",
+     "href": "https://getkyo.io/latest/kyo-scheduler/#lifecycle-and-ops",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "flush()",
+      "shutdown()",
+      "flush() vs shutdown()",
+      "Cross-classloader singletons"
+     ]
+    },
+    {
+     "title": "Cross-platform notes",
+     "href": "https://getkyo.io/latest/kyo-scheduler/#cross-platform-notes",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Scala.js",
+      "Scala Native"
+     ]
+    },
+    {
+     "title": "Extending the scheduler",
+     "href": "https://getkyo.io/latest/kyo-scheduler/#extending-the-scheduler",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Thread factories",
+      "Self-check harness"
+     ]
+    },
+    {
+     "title": "Putting it together",
+     "href": "https://getkyo.io/latest/kyo-scheduler/#putting-it-together",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    }
+   ],
+   "summary": "The standalone scheduler under Kyo’s fibers: time-sliced cooperative tasks, admission control under overload, blocking detection that grows the pool, tuning, Loom and virtual threads, monitoring, and extension points.",
+   "terms": []
+  },
+  {
+   "title": "kyo-test: testing",
+   "start": null,
+   "end": null,
+   "links": [
+    [
+     "kyo-test",
+     "https://getkyo.io/latest/kyo-test/"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Writing a suite",
+     "href": "https://getkyo.io/latest/kyo-test/#writing-a-suite",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Test[S] and the baseline",
+      "Groups (-) and leaves (in): two operators, no inference"
+     ]
+    },
+    {
+     "title": "Assertions",
+     "href": "https://getkyo.io/latest/kyo-test/#assertions",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "assert: the power-assert",
+      "fail, cancel, and assume: steering the outcome",
+      "intercept: expected exceptions",
+      "assertEventually: eventual consistency",
+      "typeCheck: compile-time assertions",
+      "Asserting inside a helper: AssertScope"
+     ]
+    },
+    {
+     "title": "Decorating tests",
+     "href": "https://getkyo.io/latest/kyo-test/#decorating-tests",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Selection: focus, ignore, only, tagged, slow",
+      "Lifecycle: pendingUntilFixed",
+      "Resilience and timing: timeout, retry, flaky, times",
+      "Platform: jvm/js/native/wasm, notX, onlyX"
+     ]
+    },
+    {
+     "title": "Per-test and per-suite setup",
+     "href": "https://getkyo.io/latest/kyo-test/#per-test-and-per-suite-setup",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      ".handle: discharge an extra effect",
+      "aroundLeaf and the suite hooks"
+     ]
+    },
+    {
+     "title": "Property-based testing",
+     "href": "https://getkyo.io/latest/kyo-test/#property-based-testing",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Gen: generators with shrinking",
+      "Shrink: custom generators"
+     ]
+    },
+    {
+     "title": "Write meaningful tests: no-assertion enforcement",
+     "href": "https://getkyo.io/latest/kyo-test/#write-meaningful-tests-no-assertion-enforcement",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Snapshot testing",
+     "href": "https://getkyo.io/latest/kyo-test/#snapshot-testing",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "assertSchemaSnapshot: schema-based snapshots",
+      "assertGoldenSnapshot: golden snapshots over a generated spread"
+     ]
+    },
+    {
+     "title": "Running and selecting tests",
+     "href": "https://getkyo.io/latest/kyo-test/#running-and-selecting-tests",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "CLI flags",
+      "RunConfig, TestFilter, Verbosity: the programmatic equivalents",
+      "Outcomes and counters",
+      "Reporters"
+     ]
+    },
+    {
+     "title": "Build wiring",
+     "href": "https://getkyo.io/latest/kyo-test/#build-wiring",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    }
+   ],
+   "summary": "Kyo’s own test framework: suites as trees of groups and leaves whose bodies are Kyo computations, assertions, decorators, setup, property-based and snapshot testing, mandatory assertions, and build wiring.",
+   "terms": []
+  },
+  {
+   "title": "kyo-schema: derived schemas",
+   "start": null,
+   "end": null,
+   "links": [
+    [
+     "kyo-schema",
+     "https://getkyo.io/latest/kyo-schema/"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Module layout",
+     "href": "https://getkyo.io/latest/kyo-schema/#module-layout",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Installation",
+     "href": "https://getkyo.io/latest/kyo-schema/#installation",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Schemas: the single source of truth",
+     "href": "https://getkyo.io/latest/kyo-schema/#schemas-the-single-source-of-truth",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Serialization",
+     "href": "https://getkyo.io/latest/kyo-schema/#serialization",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "JSON",
+      "Ion",
+      "BSON",
+      "YAML",
+      "Protobuf",
+      "MsgPack",
+      "Built-in Types",
+      "Custom Types",
+      "Validating smart constructors"
+     ]
+    },
+    {
+     "title": "Annotations",
+     "href": "https://getkyo.io/latest/kyo-schema/#annotations",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Renaming and aliases",
+      "Omitting fields",
+      "Sum representations",
+      "Custom field codecs",
+      "Protobuf field numbers",
+      "Reading annotations back"
+     ]
+    },
+    {
+     "title": "Validation",
+     "href": "https://getkyo.io/latest/kyo-schema/#validation",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Constraints",
+      "Custom Checks",
+      "Running Validation",
+      "JSON Schema",
+      "Ion Schema"
+     ]
+    },
+    {
+     "title": "Navigation and lenses",
+     "href": "https://getkyo.io/latest/kyo-schema/#navigation-and-lenses",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Reading and writing one field",
+      "Navigating into collections",
+      "Walking every field",
+      "Metadata Accessors"
+     ]
+    },
+    {
+     "title": "Reshaping schemas",
+     "href": "https://getkyo.io/latest/kyo-schema/#reshaping-schemas",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "drop / rename / add / select / flatten",
+      "Serializing transformed schemas",
+      "Per-field wire transforms"
+     ]
+    },
+    {
+     "title": "Type Conversion",
+     "href": "https://getkyo.io/latest/kyo-schema/#type-conversion",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Transform-aware Conversion"
+     ]
+    },
+    {
+     "title": "Comparison and Mutation",
+     "href": "https://getkyo.io/latest/kyo-schema/#comparison-and-mutation",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Comparing two values",
+      "Batching mutations",
+      "Diffs as data"
+     ]
+    },
+    {
+     "title": "Constructing values with Builder",
+     "href": "https://getkyo.io/latest/kyo-schema/#constructing-values-with-builder",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Ordering and Equality",
+     "href": "https://getkyo.io/latest/kyo-schema/#ordering-and-equality",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Structural Introspection",
+     "href": "https://getkyo.io/latest/kyo-schema/#structural-introspection",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Docs, examples, deprecation",
+      "The runtime type and value trees"
+     ]
+    },
+    {
+     "title": "Custom Formats",
+     "href": "https://getkyo.io/latest/kyo-schema/#custom-formats",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "The Codec trait",
+      "The event model",
+      "A minimal codec",
+      "Safety limits"
+     ]
+    },
+    {
+     "title": "Exceptions",
+     "href": "https://getkyo.io/latest/kyo-schema/#exceptions",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Putting it together",
+     "href": "https://getkyo.io/latest/kyo-schema/#putting-it-together",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Cross-platform behavior",
+     "href": "https://getkyo.io/latest/kyo-schema/#cross-platform-behavior",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    }
+   ],
+   "summary": "One derives Schema gives serialization (JSON, YAML, Protobuf, MessagePack and more), validation, lenses, reshaping, structural conversion, diffs, builders, ordering and introspection; usable standalone on top of kyo-data. Also what kyo-ai uses to derive JSON schemas for typed LLM results.",
+   "terms": []
+  },
+  {
+   "title": "kyo-http: HTTP client and server",
+   "start": null,
+   "end": null,
+   "links": [
+    [
+     "kyo-http",
+     "https://getkyo.io/latest/kyo-http/"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Getting Started",
+     "href": "https://getkyo.io/latest/kyo-http/#getting-started",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Making Requests (the client)",
+     "href": "https://getkyo.io/latest/kyo-http/#making-requests-the-client",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Making Requests",
+      "Side-Effect Operations",
+      "Error Handling",
+      "Streaming",
+      "Multipart Uploads",
+      "Configuration",
+      "Retries",
+      "Custom Instances"
+     ]
+    },
+    {
+     "title": "Serving Requests (the server)",
+     "href": "https://getkyo.io/latest/kyo-http/#serving-requests-the-server",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Handling Requests",
+      "Streaming",
+      "Configuration",
+      "TLS",
+      "Transport Tuning"
+     ]
+    },
+    {
+     "title": "Describing Endpoints with Routes",
+     "href": "https://getkyo.io/latest/kyo-http/#describing-endpoints-with-routes",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Paths",
+      "Typed Fields",
+      "Request and Response Fields",
+      "Route Handlers",
+      "Domain Errors",
+      "Filters",
+      "Custom Codecs",
+      "Primitive Types"
+     ]
+    },
+    {
+     "title": "Error Handling",
+     "href": "https://getkyo.io/latest/kyo-http/#error-handling-2",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Short-Circuit Responses",
+      "Client Errors",
+      "Response Helpers"
+     ]
+    },
+    {
+     "title": "WebSockets and Raw Connections",
+     "href": "https://getkyo.io/latest/kyo-http/#websockets-and-raw-connections",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "WebSockets",
+      "Raw Connections"
+     ]
+    },
+    {
+     "title": "OpenAPI in Both Directions",
+     "href": "https://getkyo.io/latest/kyo-http/#openapi-in-both-directions",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Routes to Spec",
+      "Spec to Routes"
+     ]
+    },
+    {
+     "title": "Feature Flags over HTTP",
+     "href": "https://getkyo.io/latest/kyo-http/#feature-flags-over-http",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Cross-Platform",
+     "href": "https://getkyo.io/latest/kyo-http/#cross-platform",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Migrating from kyo-sttp and kyo-tapir",
+     "href": "https://getkyo.io/latest/kyo-http/#migrating-from-kyo-sttp-and-kyo-tapir",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Client: kyo-sttp → HttpClient",
+      "Server: tapir endpoint → HttpRoute",
+      "Server: NettyKyoServer → HttpServer",
+      "Errors: StatusCode → HttpResponse.halt / .error",
+      "JSON: zio-json → Schema",
+      "Cheat sheet"
+     ]
+    },
+    {
+     "title": "Demos",
+     "href": "https://getkyo.io/latest/kyo-http/#demos",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    }
+   ],
+   "summary": "A cross-platform HTTP client and server with typed routes, error handling, WebSockets, OpenAPI generated from and into routes, feature flags over HTTP, and migration from kyo-sttp and kyo-tapir.",
+   "terms": []
+  },
+  {
+   "title": "kyo-ai: typed LLM programs",
+   "start": null,
+   "end": null,
+   "links": [
+    [
+     "kyo-ai",
+     "https://getkyo.io/latest/kyo-ai/"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "The trio: LLM, AI, Agent",
+     "href": "https://getkyo.io/latest/kyo-ai/#the-trio-llm-ai-agent",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "One-shot generation",
+     "href": "https://getkyo.io/latest/kyo-ai/#one-shot-generation",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Typed results",
+     "href": "https://getkyo.io/latest/kyo-ai/#typed-results",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Instances that remember",
+     "href": "https://getkyo.io/latest/kyo-ai/#instances-that-remember",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Tools and the automatic loop",
+     "href": "https://getkyo.io/latest/kyo-ai/#tools-and-the-automatic-loop",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Tools from an MCP server"
+     ]
+    },
+    {
+     "title": "Shaping generation: prompts, thoughts, modes",
+     "href": "https://getkyo.io/latest/kyo-ai/#shaping-generation-prompts-thoughts-modes",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Prompts",
+      "Thoughts",
+      "Modes",
+      "Composing binders"
+     ]
+    },
+    {
+     "title": "Long-lived agents",
+     "href": "https://getkyo.io/latest/kyo-ai/#long-lived-agents",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Streaming",
+     "href": "https://getkyo.io/latest/kyo-ai/#streaming",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Not every backend streams incrementally"
+     ]
+    },
+    {
+     "title": "Decisions",
+     "href": "https://getkyo.io/latest/kyo-ai/#decisions",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Which model decides"
+     ]
+    },
+    {
+     "title": "Parallel generation",
+     "href": "https://getkyo.io/latest/kyo-ai/#parallel-generation",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Tracking usage",
+     "href": "https://getkyo.io/latest/kyo-ai/#tracking-usage",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Controlling conversation state",
+     "href": "https://getkyo.io/latest/kyo-ai/#controlling-conversation-state",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Configuration and providers",
+     "href": "https://getkyo.io/latest/kyo-ai/#configuration-and-providers",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Reasoning",
+      "Output ceilings",
+      "Declaring a model",
+      "The providers"
+     ]
+    },
+    {
+     "title": "Conversation data types",
+     "href": "https://getkyo.io/latest/kyo-ai/#conversation-data-types",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "What this removes",
+     "href": "https://getkyo.io/latest/kyo-ai/#what-this-removes",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "How it works",
+     "href": "https://getkyo.io/latest/kyo-ai/#how-it-works",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "Demos",
+     "href": "https://getkyo.io/latest/kyo-ai/#demos",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    }
+   ],
+   "summary": "LLM calls as typed values: the LLM/AI/Agent trio, one-shot and typed generation, instances that keep a conversation, tools with an automatic call loop, prompts, thoughts and modes, long-lived agents, streaming, decisions, parallel generation, usage tracking, conversation state, providers, and how it works inside. The module the kyo-lambda-rlm work builds on.",
+   "terms": []
+  },
+  {
+   "title": "kyo-zio: ZIO interop",
+   "start": null,
+   "end": null,
+   "links": [
+    [
+     "kyo-zio",
+     "https://getkyo.io/latest/kyo-zio/"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Lifting and running effects",
+     "href": "https://getkyo.io/latest/kyo-zio/#lifting-and-running-effects",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Lifting a ZIO into Kyo",
+      "Running a Kyo as ZIO",
+      "ZIO environments are rejected at compile time",
+      "Failure ordering at the boundary",
+      "Cancellation semantics on ZIOs.run"
+     ]
+    },
+    {
+     "title": "Streaming interop (ZStream)",
+     "href": "https://getkyo.io/latest/kyo-zio/#streaming-interop-zstream",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Lifting a ZStream into Kyo",
+      "Scoping and finalizers",
+      "Running a Kyo Stream as ZStream",
+      "Round-tripping"
+     ]
+    },
+    {
+     "title": "Dependency layers (ZLayer)",
+     "href": "https://getkyo.io/latest/kyo-zio/#dependency-layers-zlayer",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Lifting a ZLayer into Kyo",
+      "Running a Kyo Layer as ZLayer",
+      "When to use which"
+     ]
+    },
+    {
+     "title": "Failure and interruption translation",
+     "href": "https://getkyo.io/latest/kyo-zio/#failure-and-interruption-translation",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Exit.toResult and Result.toExit",
+      "Cause.toError and Result.Error.toCause",
+      "Interruption as panic"
+     ]
+    }
+   ],
+   "summary": "Moving between Kyo and ZIO: lifting and running effects in both directions, ZStream interop, ZLayer interop, and how failures and interruption translate.",
+   "terms": []
+  },
+  {
+   "title": "More modules",
+   "start": null,
+   "end": null,
+   "sections": [
+    {
+     "title": "kyo-system",
+     "href": "https://getkyo.io/latest/kyo-system/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Command",
+      "FileSystemException",
+      "Path",
+      "Process",
+      "System"
+     ]
+    },
+    {
+     "title": "kyo-system-doltfs",
+     "href": "https://getkyo.io/latest/kyo-system-doltfs/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "FileSystem"
+     ]
+    },
+    {
+     "title": "kyo-sql",
+     "href": "https://getkyo.io/latest/kyo-sql/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "DB"
+     ]
+    },
+    {
+     "title": "kyo-sql-postgres",
+     "href": "https://getkyo.io/latest/kyo-sql-postgres/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "COPY",
+      "LISTEN",
+      "NOTIFY"
+     ]
+    },
+    {
+     "title": "kyo-sql-mysql",
+     "href": "https://getkyo.io/latest/kyo-sql-mysql/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "LOAD DATA LOCAL INFILE"
+     ]
+    },
+    {
+     "title": "kyo-sql-sqlite",
+     "href": "https://getkyo.io/latest/kyo-sql-sqlite/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "kyo-sql-dolt",
+     "href": "https://getkyo.io/latest/kyo-sql-dolt/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "kyo-sql-doltlite",
+     "href": "https://getkyo.io/latest/kyo-sql-doltlite/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "kyo-schema-json",
+     "href": "https://getkyo.io/latest/kyo-schema-json/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Json.Lines",
+      "Jsonl"
+     ]
+    },
+    {
+     "title": "kyo-schema-protobuf",
+     "href": "https://getkyo.io/latest/kyo-schema-protobuf/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      ".proto",
+      "Protobuf.encode",
+      "decode"
+     ]
+    },
+    {
+     "title": "kyo-schema-msgpack",
+     "href": "https://getkyo.io/latest/kyo-schema-msgpack/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "MsgPack.encode",
+      "decode"
+     ]
+    },
+    {
+     "title": "kyo-schema-bson",
+     "href": "https://getkyo.io/latest/kyo-schema-bson/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Bson.encode",
+      "decode"
+     ]
+    },
+    {
+     "title": "kyo-schema-ion",
+     "href": "https://getkyo.io/latest/kyo-schema-ion/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Ion",
+      "IonBinary"
+     ]
+    },
+    {
+     "title": "kyo-schema-yaml",
+     "href": "https://getkyo.io/latest/kyo-schema-yaml/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Yaml.encode",
+      "decode"
+     ]
+    },
+    {
+     "title": "kyo-config",
+     "href": "https://getkyo.io/latest/kyo-config/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "kyo-flow",
+     "href": "https://getkyo.io/latest/kyo-flow/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "kyo-ui",
+     "href": "https://getkyo.io/latest/kyo-ui/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "kyo-markdown",
+     "href": "https://getkyo.io/latest/kyo-markdown/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "kyo-i18n",
+     "href": "https://getkyo.io/latest/kyo-i18n/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      ".ftl",
+      "Signal",
+      "t"
+     ]
+    },
+    {
+     "title": "kyo-caliban",
+     "href": "https://getkyo.io/latest/kyo-caliban/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "kyo-zio-test",
+     "href": "https://getkyo.io/latest/kyo-zio-test/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "KyoSpecAbstract",
+      "KyoSpecDefault",
+      "Spec",
+      "zio-test"
+     ]
+    },
+    {
+     "title": "kyo-offheap",
+     "href": "https://getkyo.io/latest/kyo-offheap/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "calloc",
+      "free"
+     ]
+    },
+    {
+     "title": "kyo-parse",
+     "href": "https://getkyo.io/latest/kyo-parse/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Parse[Char] & Parse[Int]"
+     ]
+    },
+    {
+     "title": "kyo-pod",
+     "href": "https://getkyo.io/latest/kyo-pod/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "kyo-slack",
+     "href": "https://getkyo.io/latest/kyo-slack/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "dsl"
+     ]
+    },
+    {
+     "title": "kyo-browser",
+     "href": "https://getkyo.io/latest/kyo-browser/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "readableContent"
+     ]
+    },
+    {
+     "title": "kyo-jsonrpc",
+     "href": "https://getkyo.io/latest/kyo-jsonrpc/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "kyo-mcp",
+     "href": "https://getkyo.io/latest/kyo-mcp/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "kyo-lsp",
+     "href": "https://getkyo.io/latest/kyo-lsp/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "kyo-compiler",
+     "href": "https://getkyo.io/latest/kyo-compiler/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "kyo-aeron",
+     "href": "https://getkyo.io/latest/kyo-aeron/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Topic"
+     ]
+    },
+    {
+     "title": "kyo-net",
+     "href": "https://getkyo.io/latest/kyo-net/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "kyo-ffi",
+     "href": "https://getkyo.io/latest/kyo-ffi/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "kyo-tasty",
+     "href": "https://getkyo.io/latest/kyo-tasty/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "kyo-stats-registry",
+     "href": "https://getkyo.io/latest/kyo-stats-registry/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "TraceExporter"
+     ]
+    },
+    {
+     "title": "kyo-stats-otlp",
+     "href": "https://getkyo.io/latest/kyo-stats-otlp/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "traceparent"
+     ]
+    },
+    {
+     "title": "kyo-stats-machine",
+     "href": "https://getkyo.io/latest/kyo-stats-machine/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "kyo.Stat"
+     ]
+    },
+    {
+     "title": "kyo-logging-jpl",
+     "href": "https://getkyo.io/latest/kyo-logging-jpl/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "java.lang.System.Logger",
+      "kyo.Log"
+     ]
+    },
+    {
+     "title": "kyo-logging-slf4j",
+     "href": "https://getkyo.io/latest/kyo-logging-slf4j/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "kyo.Log"
+     ]
+    },
+    {
+     "title": "kyo-compat",
+     "href": "https://getkyo.io/latest/kyo-compat/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "kyo.compat.*"
+     ]
+    },
+    {
+     "title": "kyo-reactive-streams",
+     "href": "https://getkyo.io/latest/kyo-reactive-streams/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "Publisher",
+      "Stream",
+      "Subscriber"
+     ]
+    },
+    {
+     "title": "kyo-case-app",
+     "href": "https://getkyo.io/latest/kyo-case-app/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "run { options => ... }"
+     ]
+    },
+    {
+     "title": "kyo-doctest",
+     "href": "https://getkyo.io/latest/kyo-doctest/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "sbt doctest"
+     ]
+    },
+    {
+     "title": "kyo-scheduler-zio",
+     "href": "https://getkyo.io/latest/kyo-scheduler-zio/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "KyoSchedulerZIORuntime.default",
+      "extends KyoSchedulerZIOAppDefault"
+     ]
+    },
+    {
+     "title": "kyo-scheduler-pekko",
+     "href": "https://getkyo.io/latest/kyo-scheduler-pekko/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": []
+    },
+    {
+     "title": "kyo-scheduler-finagle",
+     "href": "https://getkyo.io/latest/kyo-scheduler-finagle/",
+     "start": null,
+     "end": null,
+     "summary": "",
+     "terms": [
+      "-Dcom.twitter.finagle.exp.scheduler=kyo"
+     ]
+    }
+   ],
+   "summary": "The rest of the ecosystem, one page each on getkyo.io: system access, SQL drivers, schema codecs, config and feature flags, durable workflows, UI, i18n, GraphQL, parsing, containers, chat bots, browser automation, JSON-RPC, MCP and LSP, networking, FFI, TASTy, observability, compatibility bridges, and scheduler drop-ins for ZIO, Pekko and Finagle.",
+   "terms": []
+  }
+ ]
+}

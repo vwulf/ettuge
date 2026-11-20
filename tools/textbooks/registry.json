@@ -606,5 +606,13 @@
   "Algebraic Effects for Functional Programming (Type Directed Compilation of Row-Typed Algebraic Effects)",
   "Daan Leijen",
   "Koka's handlers end to end: row-typed inference, semantics, soundness, and a type-directed selective CPS compilation."
+ ],
+ [
+  "kyo-book",
+  "kyo-book",
+  "Computer Science",
+  "Kyo: a book-style guide to the documentation",
+  "Kyo maintainers (getkyo.io)",
+  "The getkyo.io module docs arranged as a book: A < S, prelude and core effects, kernel, styles, concurrency, schema, HTTP, AI, interop."
  ]
 ]
