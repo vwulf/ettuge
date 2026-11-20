@@ -1,0 +1,261 @@
+{
+ "url": "https://drive.google.com/file/d/1_xFD6DeBNmMuHHqDf9H9jkTYWgZPLblW/view",
+ "chapters": [
+  {
+   "title": "1. Introduction",
+   "start": 1,
+   "end": 1,
+   "sections": [],
+   "summary": "Why handlers, and what is new: practical algebraic effects with row-typed inference and an efficient compilation scheme.",
+   "terms": [
+    "algebraic effect handlers",
+    "Koka",
+    "contributions",
+    "compiled implementation"
+   ]
+  },
+  {
+   "title": "2. Overview",
+   "start": 1,
+   "end": 5,
+   "sections": [
+    {
+     "title": "2.1. Exceptions as Algebraic Effects",
+     "start": 2,
+     "end": 2,
+     "summary": "Exceptions as Algebraic Effects",
+     "terms": [
+      "exceptions",
+      "raise",
+      "handler without resume"
+     ]
+    },
+    {
+     "title": "2.2. State: Resuming Operations",
+     "start": 2,
+     "end": 2,
+     "summary": "State: Resuming Operations",
+     "terms": [
+      "state",
+      "get/put",
+      "resume",
+      "parameterised handler"
+     ]
+    },
+    {
+     "title": "2.3. Iterators",
+     "start": 3,
+     "end": 3,
+     "summary": "Iterators",
+     "terms": [
+      "iterators",
+      "yield"
+     ]
+    },
+    {
+     "title": "2.4. Ambiguity: Multiple Resumptions",
+     "start": 3,
+     "end": 3,
+     "summary": "Ambiguity: Multiple Resumptions",
+     "terms": [
+      "ambiguity",
+      "flip",
+      "multiple resumptions",
+      "backtracking"
+     ]
+    },
+    {
+     "title": "2.5. Asynchronous Programming",
+     "start": 4,
+     "end": 4,
+     "summary": "Asynchronous Programming",
+     "terms": [
+      "async",
+      "await",
+      "callbacks"
+     ]
+    },
+    {
+     "title": "2.6. Domain Specific Effects: Parsing",
+     "start": 4,
+     "end": 5,
+     "summary": "Domain Specific Effects: Parsing",
+     "terms": [
+      "parser effect",
+      "many",
+      "choice",
+      "combinators via handlers"
+     ]
+    }
+   ],
+   "summary": "Handlers by example: exceptions, state as resumption, iterators, nondeterminism by resuming more than once, async, and a domain-specific parser effect."
+  },
+  {
+   "title": "3. Type Rules",
+   "start": 6,
+   "end": 7,
+   "sections": [
+    {
+     "title": "3.1. Type Inference",
+     "start": 6,
+     "end": 6,
+     "summary": "Type Inference",
+     "terms": [
+      "type rules",
+      "handler typing",
+      "row types",
+      "duplicate labels",
+      "effect inference"
+     ]
+    },
+    {
+     "title": "3.2. Simplifying Types",
+     "start": 7,
+     "end": 7,
+     "summary": "Simplifying Types",
+     "terms": [
+      "simplifying effect types",
+      "open/closed rows",
+      "polymorphic effects"
+     ]
+    },
+    {
+     "title": "3.3. Type Inference",
+     "start": 7,
+     "end": 7,
+     "summary": "Type Inference",
+     "terms": [
+      "inference algorithm",
+      "principal types"
+     ]
+    }
+   ],
+   "summary": "The type system extended to handlers: effect rows with duplicate labels, inference, and simplification of polymorphic effect types (also needed for efficient compilation)."
+  },
+  {
+   "title": "4. Operational Semantics",
+   "start": 7,
+   "end": 9,
+   "sections": [
+    {
+     "title": "4.1. Optimizing Tail-Resumptions",
+     "start": 8,
+     "end": 8,
+     "summary": "Optimizing Tail-Resumptions",
+     "terms": [
+      "tail-resumptive operations",
+      "optimisation",
+      "no continuation capture"
+     ]
+    },
+    {
+     "title": "4.2. Comparison with Delimited Continuations",
+     "start": 8,
+     "end": 8,
+     "summary": "Comparison with Delimited Continuations",
+     "terms": [
+      "delimited continuations",
+      "shift/reset",
+      "expressiveness"
+     ]
+    },
+    {
+     "title": "4.3. Soundness: Well Typed Effect Handlers Cannot Go Wrong",
+     "start": 9,
+     "end": 9,
+     "summary": "Soundness: Well Typed Effect Handlers Cannot Go Wrong",
+     "terms": [
+      "soundness",
+      "subject reduction",
+      "progress"
+     ]
+    },
+    {
+     "title": "4.4. Faulty Expressions",
+     "start": 9,
+     "end": 9,
+     "summary": "Faulty Expressions",
+     "terms": [
+      "faulty expressions",
+      "unhandled operations"
+     ]
+    }
+   ],
+   "summary": "Dynamic semantics of handlers, a cheap path for tail-resumptive operations, the relation to delimited continuations, and soundness: well-typed handlers cannot go wrong."
+  },
+  {
+   "title": "5. Compilation",
+   "start": 10,
+   "end": 12,
+   "sections": [
+    {
+     "title": "5.1. A Type-Directed Selective CPS Translation.",
+     "start": 10,
+     "end": 10,
+     "summary": "A Type-Directed Selective CPS Translation.",
+     "terms": [
+      "selective CPS",
+      "type-directed translation",
+      "translation rules",
+      "JavaScript",
+      "JVM"
+     ]
+    },
+    {
+     "title": "5.2. Opening: Non-CPS to CPS",
+     "start": 11,
+     "end": 11,
+     "summary": "Opening: Non-CPS to CPS",
+     "terms": [
+      "opening",
+      "lifting direct code into CPS"
+     ]
+    },
+    {
+     "title": "5.3. Closing: CPS to Non-CPS",
+     "start": 11,
+     "end": 12,
+     "summary": "Closing: CPS to Non-CPS",
+     "terms": [
+      "closing",
+      "polymorphic duplication",
+      "assuming identity"
+     ]
+    },
+    {
+     "title": "5.4. The Runtime System",
+     "start": 12,
+     "end": 12,
+     "summary": "The Runtime System",
+     "terms": [
+      "runtime system",
+      "handler stack",
+      "continuations"
+     ]
+    }
+   ],
+   "summary": "Compiling handlers without runtime stack control: a type-directed selective CPS translation that leaves total code direct, coercions between CPS and non-CPS code, polymorphic duplication, and the runtime."
+  },
+  {
+   "title": "6. Related Work",
+   "start": 12,
+   "end": 13,
+   "sections": [],
+   "summary": "How this compares with Eff, Frank, Links, Multicore OCaml, monadic encodings and other handler implementations.",
+   "terms": [
+    "related work",
+    "Eff",
+    "Frank",
+    "Links",
+    "Multicore OCaml",
+    "effect libraries",
+    "data types \u00e0 la carte",
+    "monads"
+   ]
+  }
+ ],
+ "title": "Algebraic Effects for Functional Programming",
+ "byline": "Daan Leijen \u00b7 Microsoft Research technical report MSR-TR-2016-29 (December 2016 update); extended version of \u201cType Directed Compilation of Row-Typed Algebraic Effects\u201d, POPL 2017",
+ "note": "PDF pages match the report\u2019s pages (1\u201314). The conclusion and references are not broken out. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "An end-to-end account of algebraic effect handlers in a compiled language. Leijen shows in Koka how handlers cover exceptions, state, iterators, backtracking, async and parsers; extends Koka\u2019s row-typed effect inference (with duplicate labels) to user-defined effects and handlers, plus a new way to simplify polymorphic effect types; gives an operational semantics with a soundness proof and an optimisation for tail-resumptive operations; and compiles handlers to JavaScript and the JVM with a type-directed selective CPS translation, so only effectful code pays for continuations. The typed, compiled counterpart to the Plotkin\u2013Pretnar theory, and the closest published design to Kyo\u2019s A < S."
+}

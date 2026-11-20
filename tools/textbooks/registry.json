@@ -598,5 +598,13 @@
   "Structured Asynchrony with Algebraic Effects",
   "Daan Leijen",
   "async/await, interleaving, cancellation, promises and ambient state as a Koka library of effect handlers."
+ ],
+ [
+  "leijen-type-directed-compilation-row-typed-effects",
+  "leijen-type-directed-compilation-row-typed-effects",
+  "Computer Science",
+  "Algebraic Effects for Functional Programming (Type Directed Compilation of Row-Typed Algebraic Effects)",
+  "Daan Leijen",
+  "Koka's handlers end to end: row-typed inference, semantics, soundness, and a type-directed selective CPS compilation."
  ]
 ]

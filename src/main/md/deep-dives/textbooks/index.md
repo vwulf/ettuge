@@ -19,6 +19,7 @@ Partial PDFs (samples, excerpts, unfinished drafts) are marked as such on their 
 
 ## Computer Science
 
+- [Algebraic Effects for Functional Programming (Type Directed Compilation of Row-Typed Algebraic Effects)](leijen-type-directed-compilation-row-typed-effects) (Daan Leijen): Koka's handlers end to end: row-typed inference, semantics, soundness, and a type-directed selective CPS compilation.
 - [An Introduction to Functional Programming Through Lambda Calculus](michaelson-lambda-calculus) (Michaelson): encodings, evaluation, SML and LISP
 - [Calculating Compilers](meijer-calculating-compilers) (Meijer): compilers derived from semantics; bananas and lenses
 - [Compilers: Course Notes](kiselyov-compilers-notes) (Kiselyov): an OCaml compiler to x86-64 in tagless-final style (first 28 pages)
