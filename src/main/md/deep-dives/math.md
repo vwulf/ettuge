@@ -19,19 +19,58 @@ These notes come from close readings of papers, preprints and books, mostly the 
 - [Deep Dives](https://vwulf.github.io/ettuge/Deep-Dives/): the cross-topic index of deep dives.
 - [Ellara Kannada Deep Dives › ಎ-ಎಣಿಕೆ](https://vwulf.github.io/ettuge/Deep-Dives/ellara-kannada/ch6): the one-operator (eml) result and its Kannada notation.
 
-**Contents**
-1. [The OpenAI math release](ch1)
-2. [Complexity theory](ch2): Unique Games, semidefinite programming, the ETH refutation, Chowla's cosine problem
-3. [Number theory](ch3): the quasi-Riemann hypothesis, Siegel zeros, the claimed proof of RH and GRH, prime gaps, Goldbach
-4. [Millennium problems in mathematical physics](ch4): Navier–Stokes, Yang–Mills
-5. [Books and formalization](ch5)
-6. [Themes across the deep dives](ch6)
+**Index** (every entry has a ¶ link for sharing)
+
+1. [The OpenAI math release](https://vwulf.github.io/ettuge/Deep-Dives/math/ch1)
+    - [OpenAI published 722 manuscripts; about one in five machine-checked](https://vwulf.github.io/ettuge/Deep-Dives/math/ch1#openai-release)
+    - [Twenty-five Fields medalists warn about headline-chasing](https://vwulf.github.io/ettuge/Deep-Dives/math/ch1#fields-medalists)
+    - [The six results that got real attention](https://vwulf.github.io/ettuge/Deep-Dives/math/ch1#six-results)
+2. [Complexity theory](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2)
+    - [The Unique Games proof and its nonlinear gadget](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#unique-games)
+    - [How to read the UGC proof's status](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#ugc-status)
+    - [If UGC holds: UGC-hard becomes NP-hard](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#ugc-consequences)
+    - [A unified theory of approximability](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#unified-approximability)
+    - [No complexity class changes](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#what-changes)
+    - [Khot's open problems: two settled](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#khot-open-problems)
+    - [The perfect-completeness cousins](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#perfect-completeness)
+    - [Semidefinite programming in theory and practice](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#sdp)
+    - [The ETH refutation](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#eth-refutation)
+    - [Chowla's cosine problem](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#chowla-cosine)
+3. [Number theory](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3)
+    - [The quasi-Riemann hypothesis: 7/8 in Lean, 11/12 for humans](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#quasi-rh)
+    - [Why a 7/8 wall suffices for most "assume RH" proofs](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#quasi-rh-applications)
+    - [How Siegel zeros fell](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#siegel-zeros)
+    - [Alpöge's proof of RH and GRH, found with Claude in Lean](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#rh-claim)
+    - [Status on the first day](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#rh-status-day-one)
+    - [Status on Nov 21: the community mirror and five statements](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#rh-status-nov-21)
+    - [Verified by the Lean and Mathlib communities](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#rh-verified)
+    - [What to check in the Lean](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#rh-lean-checklist)
+    - [The deduction chain](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#rh-deduction-chain)
+    - [How the inputs might combine](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#rh-how-it-combines)
+    - [How it descends from quasi-RH](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#rh-from-quasi-rh)
+    - [What follows](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#rh-consequences)
+    - [Masullo's separate human GRH draft](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#masullo-grh)
+    - [Context](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#rh-context)
+    - [Prime gaps: level of distribution, not zeros](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#prime-gaps)
+    - [Goldbach](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#goldbach)
+4. [Millennium problems in mathematical physics](https://vwulf.github.io/ettuge/Deep-Dives/math/ch4)
+    - [Navier–Stokes blowup and the credit dispute](https://vwulf.github.io/ettuge/Deep-Dives/math/ch4#navier-stokes)
+    - [Yang–Mills: existence without the mass gap](https://vwulf.github.io/ettuge/Deep-Dives/math/ch4#yang-mills)
+    - [The Sussman–Alpöge Bałaban completion](https://vwulf.github.io/ettuge/Deep-Dives/math/ch4#sussman-alpoge)
+5. [Books and formalization](https://vwulf.github.io/ettuge/Deep-Dives/math/ch5)
+    - [Riehl's two books in Lean](https://vwulf.github.io/ettuge/Deep-Dives/math/ch5#riehl)
+    - [Meta's ATLAS: 26 textbooks at 71%](https://vwulf.github.io/ettuge/Deep-Dives/math/ch5#atlas)
+    - [Other books in the same thread](https://vwulf.github.io/ettuge/Deep-Dives/math/ch5#other-books)
+6. [Themes across the deep dives](https://vwulf.github.io/ettuge/Deep-Dives/math/ch6)
+    - [Machine checking settles correctness, not meaning](https://vwulf.github.io/ettuge/Deep-Dives/math/ch6#themes-verification)
+    - [Old tools, new combinations](https://vwulf.github.io/ettuge/Deep-Dives/math/ch6#themes-old-tools)
+    - [Where the walls still are](https://vwulf.github.io/ettuge/Deep-Dives/math/ch6#themes-walls)
 
 ---
 
 ## 1. The OpenAI math release
 
-**On Oct 6, 2026 OpenAI published 722 manuscripts in 372 families, and only about one in five came with a machine-checked proof.**
+<a id="openai-release"></a>**On Oct 6, 2026 OpenAI published 722 manuscripts in 372 families, and only about one in five came with a machine-checked proof.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch1#openai-release)
 <https://github.com/openai/math>
 
 The `openai/math` repository appeared with 722 manuscripts grouped into 372 families. They were written by an internal model that OpenAI has not named, priced or put behind an API. The repo's own formalization manifest listed 162 entries, so roughly one manuscript in five had a Lean proof in the public tree. OpenAI itself says the results are at different stages of verification. Issues are disabled and pull requests are limited to collaborators, so outsiders can't report errors there.
@@ -44,14 +83,14 @@ A later count by Kevin Buzzard (Nov 12) found that about 45% of the papers (290)
 
 ---
 
-**Twenty-five Fields medalists, Tao among them, warned that the race for headline results is harming mathematics.**
+<a id="fields-medalists"></a>**Twenty-five Fields medalists, Tao among them, warned that the race for headline results is harming mathematics.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch1#fields-medalists)
 [Papers › History of Mathematics](https://vwulf.github.io/ettuge/Books/Papers#history-of-mathematics)
 
 "A Severe Misalignment of AI in Mathematics" appeared on Terence Tao's blog on Sep 11, a month before the big release. Its signatories include Scholze, Viazovska, Hairer, Maynard and the 2026 medalist Yu Deng. The argument is that labs announcing solutions to famous problems swamp referees and reward headlines over understanding. The October release made the point concrete. Dana Moshkovitz said the Unique Games manuscript was unreadable without AI help. Radziwiłł said both quasi-RH papers would be rejected at any journal for their writing. **[→ mathematics]**
 
 ---
 
-**Only six results got real mathematical attention in the popular coverage; the rest were one-line claims.**
+<a id="six-results"></a>**Only six results got real mathematical attention in the popular coverage; the rest were one-line claims.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch1#six-results)
 
 A widely shared video walkthrough of the release was checked line by line against sources. It treated six results in some depth:
 
@@ -71,7 +110,7 @@ Everything else was named with a one-line claim, including UGC, quasi-RH, BSD an
 <a id="ch2"></a>
 ## 2. Complexity theory
 
-**The Unique Games proof doesn't go through Small-Set Expansion; it repairs the 2-to-2 route with a new nonlinear gadget.**
+<a id="unique-games"></a>**The Unique Games proof doesn't go through Small-Set Expansion; it repairs the 2-to-2 route with a new nonlinear gadget.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#unique-games)
 [Papers › Theory of Computation](https://vwulf.github.io/ettuge/Books/Papers#theory-of-computation) · <https://github.com/openai/math> (entry 102, read directly)
 
 Entry 102 is "The Unique Games Theorem" (dated Sep 23) plus four companion papers on Max-Cut, Vertex Cover, Min-UnCut and directed feedback vertex set. The model wasn't asked to prove UGC. It was asked to show, without assuming UGC, that the basic SDP threshold is optimal for every CSP, and it reached UGC along the way.
@@ -90,13 +129,13 @@ Entry 102 is "The Unique Games Theorem" (dated Sep 23) plus four companion paper
 
 ---
 
-**How to read the status: when read, the proof was a week old, Lean-verified, and not yet reviewed by any expert.**
+<a id="ugc-status"></a>**How to read the status: when read, the proof was a week old, Lean-verified, and not yet reviewed by any expert.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#ugc-status)
 
 OpenAI announced the proof on Oct 6 as part of the large release. It came with a Lean proof, but in an AI-generated manuscript with no human editing and no independent expert review. Dana Moshkovitz, who spent years working toward the conjecture, said she couldn't read it without AI help. The Lean certificate is strong evidence that *something* is proved. Experts still have to confirm that the formal statement really is UGC as people mean it. Everything below is conditional on that check, and on P ≠ NP. **[→ algorithms-data-structures]**
 
 ---
 
-**If UGC holds, the approximation thresholds that were "UGC-hard" become plain NP-hard, so the best known algorithms become provably optimal.**
+<a id="ugc-consequences"></a>**If UGC holds, the approximation thresholds that were "UGC-hard" become plain NP-hard, so the best known algorithms become provably optimal.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#ugc-consequences)
 
 For two decades a long list of approximation results read "no polynomial-time algorithm does better than X, *assuming UGC*". A proof removes the assumption.
 
@@ -112,7 +151,7 @@ Entry 102 ships four companion papers that derive these consequences directly: M
 
 ---
 
-**The conceptual payoff is a "unified theory of approximability": a low-degree SDP becomes the provably best polynomial-time algorithm across a huge range of problems.**
+<a id="unified-approximability"></a>**The conceptual payoff is a "unified theory of approximability": a low-degree SDP becomes the provably best polynomial-time algorithm across a huge range of problems.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#unified-approximability)
 
 - **SDP and Sum-of-Squares.** Raghavendra's theorem turns a single recipe, solve the basic SDP relaxation and round it, into the optimal algorithm for every CSP. Sum-of-Squares, the hierarchy of larger SDPs, can't do better in polynomial time either. This is the unified picture people hoped UGC would deliver.
 - **Algorithm design.** Hard Unique Games instances still have a subexponential-time algorithm, exp(n^poly(ε)) (Arora–Barak–Steurer). So any reduction from SAT to Unique Games has to blow the instance up by a large polynomial whose degree grows as ε shrinks, or SAT itself would get a subexponential algorithm, contradicting ETH. (ETH itself was claimed false three weeks later; see the entry below. That claim, if it holds, removes this argument's premise but not the proof of UGC.) The proof's structure should show where that blowup happens.
@@ -120,7 +159,7 @@ Entry 102 ships four companion papers that derive these consequences directly: M
 
 ---
 
-**No complexity class changes; what changes is what an algorithm would mean.**
+<a id="what-changes"></a>**No complexity class changes; what changes is what an algorithm would mean.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#what-changes)
 
 UGC says a gap version of Unique Games is NP-hard. That is a hardness statement *inside* NP, not a relation between classes, and it says nothing about P versus NP itself.
 
@@ -137,7 +176,7 @@ The same release does claim a genuine class equality, **L = BPL** (randomized lo
 
 ---
 
-**Against Khot's own list of open problems, the proof settles two and leaves the rest open, because of the route it takes.**
+<a id="khot-open-problems"></a>**Against Khot's own list of open problems, the proof settles two and leaves the rest open, because of the route it takes.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#khot-open-problems)
 
 Khot's talk on UGC listed open problems around the conjecture. With the proof's route in hand, each can be scored:
 
@@ -157,7 +196,7 @@ Two corrections to the summary of the talk that was read alongside:
 
 ---
 
-**UGC covers only instances with no perfect solution; the perfect-completeness cousins were settled separately, one by hand.**
+<a id="perfect-completeness"></a>**UGC covers only instances with no perfect solution; the perfect-completeness cousins were settled separately, one by hand.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#perfect-completeness)
 
 - **The 2-to-1 conjecture.** Khot posed this for instances where every constraint *can* be satisfied, which UGC doesn't address. OpenAI's release claims a proof of it too, again in an AI-generated manuscript with no human editing or expert review.
 - **4-to-1, by hand.** In September, before the release, Fei, Minzer and Wang (Minzer's MIT group) raced out a proof of the weaker 4-to-1 version. It implies that 3-colourable graphs stay hard to colour even with any fixed number of extra colours, a decades-old open problem now settled without AI.
@@ -165,7 +204,7 @@ Two corrections to the summary of the talk that was read alongside:
 
 ---
 
-**Semidefinite programming is the algorithmic half of the UGC story: it is provably the best possible algorithm in theory, and a niche tool in practice.**
+<a id="sdp"></a>**Semidefinite programming is the algorithmic half of the UGC story: it is provably the best possible algorithm in theory, and a niche tool in practice.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#sdp)
 
 An SDP optimizes over a symmetric matrix X ⪰ 0 subject to linear constraints. Equivalently, X is a Gram matrix with X_ij = ⟨v_i, v_j⟩. SDPs are convex, so they are solvable to any precision in polynomial time. For Max-Cut, relax each ±1 label to a unit vector and maximize Σ(1 − ⟨v_i, v_j⟩)/2 over the edges. Goemans–Williamson then round with a random hyperplane, and the guaranteed loss is the 0.878 factor. UGC makes "solve the basic SDP, then round" optimal for every CSP. Sum-of-Squares is the hierarchy of ever-larger SDPs.
 
@@ -181,7 +220,7 @@ The usual workaround is Burer–Monteiro: write X = VVᵀ with a skinny V and op
 
 ---
 
-**The ETH refutation is a polynomial-method counting algorithm whose saving is only about √log n in the exponent: a theory result, not a faster SAT solver.**
+<a id="eth-refutation"></a>**The ETH refutation is a polynomial-method counting algorithm whose saving is only about √log n in the exponent: a theory result, not a faster SAT solver.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#eth-refutation)
 [Papers › Theory of Computation](https://vwulf.github.io/ettuge/Books/Papers#theory-of-computation) · [paper.pdf](https://github.com/openai/math/tree/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026) (read directly)
 
 Announced Oct 25–26 alongside claimed results on Kakeya/local smoothing and on QCD existence. The 67-page manuscript is dated Oct 17 and revised Oct 25. The Lean development is about 3,977 files and uses only the standard axioms (propext, Quot.sound, Classical.choice).
@@ -215,7 +254,7 @@ The key subtlety is that removing ETH deletes *lower bounds* for everything, but
 
 ---
 
-**Chowla's cosine problem fell to extremal MaxCut on Cayley graphs, not to Unique Games.**
+<a id="chowla-cosine"></a>**Chowla's cosine problem fell to extremal MaxCut on Cayley graphs, not to Unique Games.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#chowla-cosine)
 [Papers › Discrete Mathematics and Combinatorics](https://vwulf.github.io/ettuge/Books/Papers#discrete-mathematics-and-combinatorics) · [arXiv:2509.03490](https://arxiv.org/abs/2509.03490)
 
 Chowla asked how far below zero a cosine sum Σ cos(a_i x) over N distinct frequencies must dip. The bridge to graphs is a spectral fact known since the 1970s: the eigenvalues of the Cayley graph of the frequency set are exactly the values the cosine sum takes, so its smallest eigenvalue measures how low the sum goes. Jin, Milojević, Tomon and Zhang's new input is extremal: a K_r-free graph with no very negative eigenvalue must be dominated by cliques. Ilya Shkredov noticed that this left only large cliques in the Cayley graph to rule out. Tomon did that with a translation argument: shifting a clique by 1 gives another clique, and eventually there are more edges than the sparse Cayley graph can hold.
@@ -233,7 +272,7 @@ Why it's easy to confuse with UGC: MaxCut is UGC's most famous problem. But UGC 
 <a id="ch3"></a>
 ## 3. Number theory
 
-**The quasi-Riemann hypothesis exists as two documents: a long Lean-checked proof of 7/8 and a short human-read proof of 11/12.**
+<a id="quasi-rh"></a>**The quasi-Riemann hypothesis exists as two documents: a long Lean-checked proof of 7/8 and a short human-read proof of 11/12.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#quasi-rh)
 [Papers › Analysis and Linear Algebra](https://vwulf.github.io/ettuge/Books/Papers#analysis-and-linear-algebra)
 
 The main paper is entry 003 of the Oct 6 release, dated Sep 30, 199 pages. It claims that all Dirichlet L-functions and all finite-order Hecke L-functions over ℚ(√−3) have no zeros with Re s > 7/8, which includes ζ. A 49-page companion pushing the bound to 11/12, dated Oct 5, is the only one of the 722 manuscripts that a human edited, and OpenAI won't say who. OpenAI also names this result (with Hodge for CM abelian varieties) as one of two exceptions to its standard automated procedure, so "the AI did it alone" overstates OpenAI's own account.
@@ -250,7 +289,7 @@ The main paper is entry 003 of the Oct 6 release, dated Sep 30, 199 pages. It cl
 
 ---
 
-**A wall at 7/8 is enough for most "assume RH" proofs, because they need a power saving, not the exact line 1/2.**
+<a id="quasi-rh-applications"></a>**A wall at 7/8 is enough for most "assume RH" proofs, because they need a power saving, not the exact line 1/2.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#quasi-rh-applications)
 
 The explicit formula writes prime counts as a main term plus waves x^ρ, one per zero, each of size x^(Re ρ). The classical zero-free region narrows with height and saves only about exp(√log x). A fixed wall caps every wave, giving for example ψ(x) = x + O(x^(7/8+ε)). Any power saving δ > 0 lets most arguments run; RH gives δ = 1/2 and this gives δ = 1/8. The half-plane holds for every Dirichlet L-function at once with no exceptional zero. So primes in progressions mod q get power-saving errors that stay useful while q is a small power of x.
 
@@ -265,7 +304,7 @@ The explicit formula writes prime counts as a main term plus waves x^ρ, one per
 
 ---
 
-**Siegel zeros weren't attacked head-on; they fall out because the new method never uses positivity near s = 1.**
+<a id="siegel-zeros"></a>**Siegel zeros weren't attacked head-on; they fall out because the new method never uses positivity near s = 1.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#siegel-zeros)
 
 A Siegel zero would be a single real zero β of L(s, χ), for a real character χ mod q, lying within about c/log q of 1. It survived a century because the classical zero-free region comes from the positivity of 3 + 4cos θ + cos 2θ, which compares L(σ, χ₀)³ L(σ, χ)⁴ L(σ, χ²). For a real χ, χ² is principal, so the third factor is essentially ζ with its pole at 1. That pole masks a real zero near 1, and every improvement built on positivity inherits the blind spot. The new proof caps Σ μ(n)χ(n) at about x^(7/8) for every character, real or complex. A zero at β would force growth like x^β. Dirichlet characters lift to ℚ(√−3), where the L-function factors as L(s, χ)·L(s, χχ₋₃). So a Dirichlet zero beyond 7/8 would be a Hecke zero in the forbidden half-plane. This Dirichlet statement is inside the Lean scope.
 
@@ -279,31 +318,31 @@ A Siegel zero would be a single real zero β of L(s, χ), for a real character �
 
 ---
 
-**On Nov 20, 2026 Levent Alpöge (Anthropic) claimed a proof of RH and GRH, found with Claude and released only as an axiom-free Lean archive.**
+<a id="rh-claim"></a>**On Nov 20, 2026 Levent Alpöge (Anthropic) released a proof of RH and GRH, found with Claude as an axiom-free Lean archive; the Lean community declared it verified the next day.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#rh-claim)
 <https://alpo.ge/remark.pdf>
 
 **The claim.** A four-page note, "Remark", says that he and Claude found a proof of the Riemann hypothesis, that the method gives the Generalized Riemann Hypothesis for Dirichlet L-functions, and that he expects the Extended RH (Dedekind zetas) with more time. There is no paper. The proof is a Lean archive in 14 parts (`lean.tar.gz.part01` … `part14`), "formalized without assumptions". Alpöge says an informal write-up would run past 250,000 pages, so he chose not to post "a massive unreadable travesty of slop". The final step, GRH, is dated Nov 16. He credits Claude with the technical work near the end and says he hasn't yet mastered large parts of the mathematics it uses, especially automorphic forms on higher-rank groups.
 
-**Status on the first day.**
+<a id="rh-status-day-one"></a>**Status on the first day.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#rh-status-day-one)
 - Elliot Glazer checked that the formal statement in the archive is GRH, which answers the statement-fidelity question first. He put the chance of a Lean bug below 1%.
 - Andrew Sutherland (MIT) compiled the archive independently and called it historic.
 - Lean experts are reviewing it on the Lean Zulip, where Thomas Bloom pointed people. That review is the first real verdict.
 - No human has read the argument, because there is no argument to read yet, only Lean.
 
-**Status on Nov 21.**
+<a id="rh-status-nov-21"></a>**Status on Nov 21.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#rh-status-nov-21)
 - The archive is mirrored, unmodified, at [leanprover-community/riemann-hypothesis](https://github.com/leanprover-community/riemann-hypothesis) and is now community maintained. It adds comparator infrastructure: `src/Challenge.lean` states the theorems against Mathlib alone, and the submission is built in a network-free sandbox and compared against that clean export. The project is pinned to Lean v4.33.1, the comparator runs on v4.36.0, and a full run needs about 100 GB of disk and hours of compute.
 - `Main.lean` proves five statements: Mathlib's `RiemannHypothesis`; the same written out for `riemannZeta`; L(χ, s) ≠ 0 for Re s > 1/2 for every Dirichlet character (excluding the trivial character's pole at s = 1); every zero of L(χ, s) in the strip 0 < Re s < 1 has real part 1/2; and the same for primitive characters. That is RH plus Dirichlet GRH, not the number-field version (ERH) that class-group algorithms and Koiran's Nullstellensatz result need.
-- The proof is reported as accepted by all the independent kernels. The **paranoid** pipeline was still pending: exporting the statement from a clean clone before any submission code runs, then replaying the whole export in a fresh checker without trusting anything the build stored. That pipeline guards against build-time code tampering with the environment, which a kernel check alone doesn't rule out. If it passes, the remaining trust is in Mathlib's definitions of `riemannZeta` and `DirichletCharacter.LFunction`.
+- <a id="rh-verified"></a>**Verified (Nov 21).** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#rh-verified) A [joint statement by the Lean and Mathlib communities](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/), endorsed by the Lean FRO and the Mathlib Initiative, says they have full confidence that both the statement and the proof are correct. On their four criteria: the target is Mathlib's vetted `RiemannHypothesis`; dozens of people compiled the roughly 17-million-line library and reproduced the same raw proof export; two independent tools (`comparator` and `con-leche --compare`) confirmed that the proved theorem matches the Mathlib-only statement; and the export was accepted by Lean's kernel, by `con-leche` and `con-ron` (which come with a formal proof, relative to set theory, that they can't accept a false proof), and by several third-party checkers in other languages. All checks ran on an inert export, so code in the proof sources couldn't interfere, which is the guarantee the paranoid pipeline was meant to give. Drew Sutherland maintains an [overview](https://math.mit.edu/~drew/grh/). What remains is explaining the new ideas to mathematicians; there is no blueprint or curated informal version yet.
 - Dozens of verbose informal "proofs" reverse-engineered from the Lean appeared within a day. None is a community-curated account, and most paraphrase declaration names.
 - Alexis Plascencia's [field guide](https://alexisdpc.github.io/riemann/) is a source-linked reading of the archive, and says plainly that it hasn't built or audited the Lean or checked that named theorems match their classical versions. Its outline: a critical-line lemma from the functional equation; a Landau argument turning a prime-sum error bound on long intervals into nonvanishing; that bound from cohomology "windows" over cyclotomic subfields, local divisibility, theta matching and finite Fourier inversion; and a chain of about √x stages chosen to balance the costs. The prime-sum/Landau step refines the positivity reading below.
 
-**What to check in the Lean.**
+<a id="rh-lean-checklist"></a>**What to check in the Lean.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#rh-lean-checklist)
 - `#print axioms` on the main theorem shows only `propext`, `Classical.choice` and `Quot.sound`.
 - The statement uses Mathlib's own `riemannZeta` and `DirichletCharacter.LFunction`, and the vendored Mathlib is unmodified.
 - No `native_decide` (which adds `Lean.ofReduceBool`) and no `implemented_by` tricks.
 - Independent kernels (nanoda, lean4lean) accept it, as with the quasi-RH rerun.
 
-**The deduction chain**, as a Claude Fable reading of the archive maps it. "No Dirichlet L-function vanishes for Re s > 1/2" gives RH by a short standard step. That nonvanishing is deduced from three inputs:
+<a id="rh-deduction-chain"></a>**The deduction chain** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#rh-deduction-chain), as a Claude Fable reading of the archive maps it. "No Dirichlet L-function vanishes for Re s > 1/2" gives RH by a short standard step. That nonvanishing is deduced from three inputs:
 
 | Input | What it is | Where it sits in Alpöge's timeline |
 |---|---|---|
@@ -313,27 +352,27 @@ A Siegel zero would be a single real zero β of L(s, χ), for a real character �
 
 The cohomology bound is proved by what looks like an automorphy-lifting argument. It uses Galois representations attached to regular algebraic polarized cuspidal representations of GL_n over CM fields, base change, Jacquet–Shalika, Clozel's purity, Bernstein–Zelevinsky, the main theorem of CM and Deligne–Ribet. Those Galois representations are not assumed. The archive builds them from a geometric construction for unitary groups (Eichler–Shimura, crystalline above ℓ) plus theta lifts, apparently not the route in the literature. Because nothing is axiomatized, resolution of singularities in characteristic zero, toroidal compactifications of Siegel varieties, Kawamata–Viehweg and Nadel vanishing, Grothendieck–Messing and prismatic Dieudonné theory all had to be proved inside the project.
 
-**How the inputs might combine.** This is a reading of the note, not of the Lean, and may be wrong in its details.
+<a id="rh-how-it-combines"></a>**How the inputs might combine.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#rh-how-it-combines) This is a reading of the note, not of the Lean, and may be wrong in its details.
 1. **Positivity.** The Weil (Guinand–Weil) explicit formula turns "no zeros with Re s > 1 − η" into positivity of a functional W on test functions. The note's step 6: W(1_(0,1] + X^η·1_(0,1/X]) ≥ 0 gives no zeros past 1 − η.
 2. **A determinant.** The positivity comes from a Gram-type determinant, the "Stepanov determinant". Stepanov's elementary proof of RH for curves over F_q builds an auxiliary polynomial vanishing to high multiplicity at every rational point; the count gives q + O(√q).
 3. **Multiplicity from theta lifts.** Over ℤ multiplicity has no obvious meaning ("differentiating whole numbers"). Each theta lift in a chain between totally definite unitary groups plays the part of one more order of vanishing. For a von Mangoldt sum of length X, the chain length is about √X, which is the same optimisation that sets Stepanov's multiplicity near √q.
 4. **Paying for each lift.** Done naively, the argument stalls at 2/3 (step 14). Getting to 1/2 needs the lifted periods to be highly divisible (Chowla–Selberg, Weyl, Siegel mass; steps 9, 10, 15). Obstructions to divisibility are Galois cohomology classes, hence the Vandiver-type bound. The Bost slopes turn divisibility into a size bound: the integrality-against-size contradiction of transcendence theory. An Iwasawa tower chosen with Behrend's construction (step 19) supplies the averaging.
 
-**How it descends from quasi-RH.** Alpöge reads OpenAI's Siegel-zero argument (the sixth-power echoes above) as "Stepanov without multiplicity". Seeing that, plus a sign-only proof of the Weil and Deligne bounds (his qN = Mk + R), convinced him RH would fall. In this reading quasi-RH is the multiplicity-one case: one copy of the walk, an exponent strictly below 1. The full proof is the multiplicity-√X case. He expects much shorter arguments soon, and calls the Behrend step "obviously going to be unnecessary".
+<a id="rh-from-quasi-rh"></a>**How it descends from quasi-RH.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#rh-from-quasi-rh) Alpöge reads OpenAI's Siegel-zero argument (the sixth-power echoes above) as "Stepanov without multiplicity". Seeing that, plus a sign-only proof of the Weil and Deligne bounds (his qN = Mk + R), convinced him RH would fall. In this reading quasi-RH is the multiplicity-one case: one copy of the walk, an exponent strictly below 1. The full proof is the multiplicity-√X case. He expects much shorter arguments soon, and calls the Behrend step "obviously going to be unnecessary".
 
-**If it holds.** The right-hand column of the 7/8 table above becomes unconditional: square-root error terms, Cramér's √p log p for large gaps, deterministic Miller–Rabin with (log n)² witnesses. Twin primes and binary Goldbach don't follow, for the reasons in the next entry.
+<a id="rh-consequences"></a>**What follows.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#rh-consequences) The right-hand column of the 7/8 table above becomes unconditional: square-root error terms, Cramér's √p log p for large gaps, deterministic Miller–Rabin with (log n)² witnesses. Twin primes and binary Goldbach don't follow, for the reasons in the next entry.
 
-**A separate, human claim the same day.** A few hours after Alpöge's note, AMS president Ravi Vakil (Stanford) released on his blog a draft *proposed proof of GRH* by Alessandro Masullo, described as all human, with no AI. Masullo co-wrote lecture notes with Brian Conrad on the étale cohomology of number fields, and Conrad has been reviewing the argument privately for months; Vakil says it is "so far looking good". Vakil had planned a year at Stanford to polish it before circulating it to experts, and instead asked the community to check it, formalize it and fill small gaps. It is an unpolished draft, not formalized, and its method hasn't been publicly summarized, though it appears to take a different route from Alpöge's. Glazer's comment was that sitting on results until they are fully checked is no longer a stable equilibrium. If both hold, priority is an open question; Clay's rules require two years after publication and general acceptance before any prize.
+<a id="masullo-grh"></a>**A separate, human claim the same day.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#masullo-grh) A few hours after Alpöge's note, AMS president Ravi Vakil (Stanford) released on his blog a draft *proposed proof of GRH* by Alessandro Masullo, described as all human, with no AI. Masullo co-wrote lecture notes with Brian Conrad on the étale cohomology of number fields, and Conrad has been reviewing the argument privately for months; Vakil says it is "so far looking good". Vakil had planned a year at Stanford to polish it before circulating it to experts, and instead asked the community to check it, formalize it and fill small gaps. It is an unpolished draft, not formalized, and its method hasn't been publicly summarized, though it appears to take a different route from Alpöge's. Glazer's comment was that sitting on results until they are fully checked is no longer a stable equilibrium. If both hold, priority is an open question; Clay's rules require two years after publication and general acceptance before any prize.
 
 So on Nov 20 there were two independent GRH claims in opposite shapes: one machine-checked with no readable proof, one readable with no machine check. **[→ mathematics]**
 
-**Context.** This is the year's starkest case of the "two versions" pattern: here there is only the machine-checked version, and the readable one doesn't exist yet. Alpöge says the timing of the announcement was constrained and that he chose to release before waiting further. He was earlier on the Claude result raising the share of zeros proved on the critical line from 41.6% to 67.2% (Aug), and on the Buckmaster–Alpöge forced Navier–Stokes work. **[→ mathematics; cross-link → machine-learning-ai]**
+<a id="rh-context"></a>**Context.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#rh-context) This is the year's starkest case of the "two versions" pattern: here there is only the machine-checked version, and the readable one doesn't exist yet. Alpöge says the timing of the announcement was constrained and that he chose to release before waiting further. He was earlier on the Claude result raising the share of zeros proved on the critical line from 41.6% to 67.2% (Aug), and on the Buckmaster–Alpöge forced Navier–Stokes work. **[→ mathematics; cross-link → machine-learning-ai]**
 
 Sources: [Alpöge, "Remark"](https://alpo.ge/remark.pdf), [community mirror](https://github.com/leanprover-community/riemann-hypothesis), [Plascencia's field guide](https://alexisdpc.github.io/riemann/), [OfficeChai: Vakil and Masullo](https://officechai.com/ai/hours-after-alpoges-ai-assisted-riemann-hypothesis-proof-ams-president-ravi-vakil-rushes-out-a-rival-all-human-proof-by-alessandro-masullo/), [Scientific American](https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/), [OfficeChai: reactions](https://officechai.com/ai/how-mathematicians-have-reacted-to-claimed-riemann-hypothesis-proof-by-anthropics-levent-alpoge/), [Pillitteri](https://pasqualepillitteri.it/en/news/35468/riemann-hypothesis-proof-claude-alpoge).
 
 ---
 
-**Bounded prime gaps are driven by the level of distribution, so RH and quasi-RH don't help; large gaps are where zeros matter.**
+<a id="prime-gaps"></a>**Bounded prime gaps are driven by the level of distribution, so RH and quasi-RH don't help; large gaps are where zeros matter.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#prime-gaps)
 
 | Bound | Who, when | Status |
 |---|---|---|
@@ -352,7 +391,7 @@ The deeper point: RH controls how far primes drift from their average density, w
 
 ---
 
-**Goldbach sits exactly at the threshold between two summands and three: with a spare variable to average over, the problem becomes tractable.**
+<a id="goldbach"></a>**Goldbach sits exactly at the threshold between two summands and three: with a spare variable to average over, the problem becomes tractable.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#goldbach)
 
 **Where it stands.**
 - **Ternary Goldbach is solved:** Vinogradov (1937) for large odd n, then Helfgott (2013) for every odd n > 5.
@@ -380,7 +419,7 @@ The deeper point: RH controls how far primes drift from their average density, w
 <a id="ch4"></a>
 ## 4. Millennium problems in mathematical physics
 
-**OpenAI's Navier–Stokes blowup is for the forced equations, and the credit question turned on whether it used the same loophole as Buckmaster and Alpöge.**
+<a id="navier-stokes"></a>**OpenAI's Navier–Stokes blowup is for the forced equations, and the credit question turned on whether it used the same loophole as Buckmaster and Alpöge.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch4#navier-stokes)
 [Papers › Analysis and Linear Algebra](https://vwulf.github.io/ettuge/Books/Papers#analysis-and-linear-algebra)
 
 On Sep 8, 2026 OpenAI claimed that smooth 3D Navier–Stokes flow can blow up in finite time. It came with an analytic proof and a Lean formalization, produced by about 10,000 coordinating agents over 88 hours. The catch is an external forcing term. Forced blowup does correspond to two of the four alternatives in Clay's official statement, but the problem is officially unsolved. A solution must appear in a refereed journal and survive two years after acceptance before a committee meets, and OpenAI says it won't take the money.
@@ -393,7 +432,7 @@ On Sep 8, 2026 OpenAI claimed that smooth 3D Navier–Stokes flow can blow up in
 
 ---
 
-**OpenAI claims only the existence half of Yang–Mills; the mass gap, which the Clay prize requires, isn't claimed.**
+<a id="yang-mills"></a>**OpenAI claims only the existence half of Yang–Mills; the mass gap, which the Clay prize requires, isn't claimed.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch4#yang-mills)
 
 Yang–Mills is the non-abelian gauge theory under the Standard Model: a connection on a principal G-bundle, with G = SU(3) for the strong force. The Clay problem has two parts. **Existence** asks for quantum Yang–Mills on ℝ⁴ satisfying the Wightman or Osterwalder–Schrader axioms. **Mass gap** asks for a proof that the lightest excitation (a glueball) has positive mass, which is why the strong force is short-range. Most experts consider the mass gap the hard part.
 
@@ -411,7 +450,7 @@ The November release, and Armstrong's and Hairer's efforts to reverse-engineer a
 
 ---
 
-**The Sussman–Alpöge repository is a conditional, openly gappy, Claude-written completion of Bałaban's program for SU(2): the likely shape of what OpenAI did, published three weeks earlier.**
+<a id="sussman-alpoge"></a>**The Sussman–Alpöge repository is a conditional, openly gappy, Claude-written completion of Bałaban's program for SU(2): the likely shape of what OpenAI did, published three weeks earlier.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch4#sussman-alpoge)
 <https://github.com/ethanwsussman/Yang--Mills-LLM-experiment> (read directly)
 
 Ethan Sussman proposed the project and Levent Alpöge guided Claude through it; the repo is dated Oct 6, 2026. Bałaban's 1985–89 renormalization-group papers are a roadmap to existence, abandoned because finishing them needed more work than seemed humanly feasible. The bet is that LLMs can supply that work. As a warm-up, Codex reproduced Dimock's QED3 construction and extended it to infinite volume with the OS axioms; the authors believe it is essentially correct. A YM3 folder covers the easier 3D case.
@@ -446,7 +485,7 @@ A quick test of OpenAI's release is whether it closes the open inputs in Section
 <a id="ch5"></a>
 ## 5. Books and formalization
 
-**Riehl's two books mark the two halves of category theory in Lean: the 1-categorical core is essentially done, and ∞-categories are just starting.**
+<a id="riehl"></a>**Riehl's two books mark the two halves of category theory in Lean: the 1-categorical core is essentially done, and ∞-categories are just starting.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch5#riehl)
 [Papers › Category Theory](https://vwulf.github.io/ettuge/Books/Papers#category-theory) · [∞-cosmos project](https://emilyriehl.github.io/files/cosmos-project.pdf)
 
 ***Category Theory in Context.*** There is no complete formalization. A hobbyist Lean companion, modelled on Tao's *Analysis I* companion, covers only Chapter 1 §§1–4 with solutions. The book wasn't among ATLAS's 26; the only category-theory text there was Etingof's *Tensor Categories*, 60% done. Mathlib's 1-category library already holds almost all of the content: Yoneda, limits and colimits, adjunctions, monads, Kan extensions, abelian and monoidal categories. What's missing is the book itself, its exercises and its order of presentation.
@@ -464,7 +503,7 @@ A side result: Carneiro and Riehl ([arXiv:2503.20704](https://arxiv.org/abs/2503
 
 ---
 
-**Meta's ATLAS formalized 26 textbooks at 71%, and the gaps fall exactly where mathlib lacks infrastructure.**
+<a id="atlas"></a>**Meta's ATLAS formalized 26 textbooks at 71%, and the gaps fall exactly where mathlib lacks infrastructure.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch5#atlas)
 [Papers › Foundations and Logic](https://vwulf.github.io/ettuge/Books/Papers#foundations-and-logic)
 
 AutoformBot, running mostly Opus 4.6, turned 26 open-access textbooks, mostly MIT OpenCourseWare notes, into about 484K lines and 45,000+ declarations. It formalized 2,855 of 4,007 target statements. Analysis came out near complete: Rodriguez's *Real Analysis* 99%, Helgason's *Complex Variables* 97%, Stanley's *Algebraic Combinatorics* 95%. Lie theory, algebraic geometry and manifolds stalled: Etingof's *Representations of Lie Groups* 40%, Minzer's *Boolean Functions* 41%. Sipser's *Theory of Computation* reached 71%.
@@ -479,7 +518,7 @@ The full table is in [Lean and AI Formalization](https://vwulf.github.io/ettuge/
 
 ---
 
-**Other books in the same thread.**
+<a id="other-books"></a>**Other books in the same thread.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch5#other-books)
 - **Tao, *Analysis I*:** has a Lean companion that shifts from hand-built definitions to mathlib's as it goes. His measure-theory book is in progress.
 - **Niu and Spivak, *Polynomial Functors*:** a UW Math AI Lab formalization target ([Papers › Category Theory](https://vwulf.github.io/ettuge/Books/Papers#category-theory)).
 - **Falconer, *Geometry of Fractal Sets*:** one targeted theorem formalized.
@@ -493,12 +532,12 @@ Related popular books in the catalogue: [Fermat's Last Theorem](https://vwulf.gi
 <a id="ch6"></a>
 ## 6. Themes across the deep dives
 
-**Machine checking settles correctness, not meaning, readability or credit.** The same pattern recurred across the results:
+<a id="themes-verification"></a>**Machine checking settles correctness, not meaning, readability or credit.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch6#themes-verification) The same pattern recurred across the results:
 - **Two versions.** A long Lean-checked document sat beside a short unchecked one that humans actually read (quasi-RH, matrix multiplication). GRH on Nov 20 split the two across claimants: Alpöge's Lean-only archive and Masullo's human draft.
 - **Statement fidelity.** Is the formal statement ETH as people mean it? Is the Lean Yang–Mills theorem on ℝ⁴ or a torus? Are the OS axioms encoded faithfully?
 - **Credit.** Navier–Stokes and Buckmaster–Alpöge.
 - **Readability.** Moshkovitz on UGC, Radziwiłł on quasi-RH.
 
-**Old tools, new combinations.** The landmark proofs mostly assembled existing machinery in combinations nobody had tried. Quasi-RH used a family of L-functions that had been overlooked. UGC used the 2-to-2 inverse theorem plus a new gadget. Chowla used a 1970s spectral fact plus extremal MaxCut. Yang–Mills completed Bałaban's 1980s programme. Experts' main surprise was that the existing toolkits were already strong enough.
+<a id="themes-old-tools"></a>**Old tools, new combinations.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch6#themes-old-tools) The landmark proofs mostly assembled existing machinery in combinations nobody had tried. Quasi-RH used a family of L-functions that had been overlooked. UGC used the 2-to-2 inverse theorem plus a new gadget. Chowla used a 1970s spectral fact plus extremal MaxCut. Yang–Mills completed Bałaban's 1980s programme. Experts' main surprise was that the existing toolkits were already strong enough.
 
-**Where the walls still are.** The parity barrier blocks twin primes and binary Goldbach whatever happens to RH, including the Nov 20 claim. Small-Set Expansion stays open after UGC. The unforced Navier–Stokes equations and the Yang–Mills mass gap are untouched. In each case the AI results moved the boundary right up to a known obstruction without crossing it. **[→ mathematics]**
+<a id="themes-walls"></a>**Where the walls still are.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch6#themes-walls) The parity barrier blocks twin primes and binary Goldbach whatever happens to RH, including the Nov 20 claim. Small-Set Expansion stays open after UGC. The unforced Navier–Stokes equations and the Yang–Mills mass gap are untouched. In each case the AI results moved the boundary right up to a known obstruction without crossing it. **[→ mathematics]**
