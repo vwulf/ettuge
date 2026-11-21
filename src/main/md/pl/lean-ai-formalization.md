@@ -70,6 +70,8 @@ Lean 4 is the de facto platform for AI-assisted formalization of mathematics, an
 - **Nov 11–12, 2026:** Axiom formalized Faltings' theorem on its Stacks library; OpenAI's \~1M-line Yang–Mills existence proof was released as Lean only, and Armstrong and Hairer began reverse-engineering a readable proof.
 - **Nov 13–21, 2026:** Alpöge and Claude released a 17.4M-line Lean proof of RH and GRH with no written proof, and on Nov 21 the Lean and Mathlib communities, endorsed by the Lean FRO, certified the RH proof correct; Axiom and Google independently formalized the Weil conjectures.
 
+**Companion page:** the [Math Deep Dives](https://vwulf.github.io/ettuge/Deep-Dives/math) work through the mathematics behind many results here (UGC, quasi-RH, RH and GRH, Navier–Stokes, Yang–Mills, the formalized textbooks). Sections below link the matching entries.
+
 [↑ Contents](#contents)
 
 ## 1. Lean's foundational basis {#s1}
@@ -167,6 +169,8 @@ The AI-for-math industry has standardized on Lean 4 and mathlib; Rocq barely fig
 - Higher categories are modelled classically via simplicial sets and quasi-categories (e.g. Riehl's ∞-cosmos project), not synthetic HoTT.
 - Synthetic HoTT and univalent foundations remain a separate niche in Cubical Agda, Coq-HoTT and UniMath.
 
+**Deep dives:** [Riehl's two books in Lean](https://vwulf.github.io/ettuge/Deep-Dives/math/ch5#riehl) · [Other books in the same thread](https://vwulf.github.io/ettuge/Deep-Dives/math/ch5#other-books)
+
 [↑ Contents](#contents)
 
 ## 5. Landmark formalizations, 2025–2026 {#s5}
@@ -195,6 +199,8 @@ From September to November 2026, AI agents formalized most of the landmark theor
 Other pieces: Meta's AutoformBot formalized 26 open textbooks into 45,000+ verified declarations ([arXiv 2605.29955](https://arxiv.org/html/2605.29955)); a constructive [ATLAS of finite simple groups](https://arxiv.org/pdf/2609.35847) in Lean; an independent [Renaissance Philanthropy CFSG project](https://www.renaissancephilanthropy.org/modular-humanai-approach-to-classification-of-finite-simple-groups) involving a GLS co-author.
 
 **CFSG's statement is itself hard to check.** Per [Buzzard](https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/), the statement of Axiom's CFSG imports over 250K lines in more than 900 files of the AI-generated Tau Ceti library, about 5,600 of them crucial. He knows of no one who has checked the definitions of the sporadic groups, so the strongest evidence the statement is right is that Axiom's code proves it. Statements can need large new definitions in general: a pull request formalizing the Hodge conjecture in DeepMind's Formal Conjectures needs over 10,000 lines on top of mathlib just to state it, because mathlib lacks the cycle class map.
+
+**Deep dives:** [RH and GRH, found with Claude in Lean](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#rh-claim) · [Navier–Stokes blowup](https://vwulf.github.io/ettuge/Deep-Dives/math/ch4#navier-stokes) · [Yang–Mills existence](https://vwulf.github.io/ettuge/Deep-Dives/math/ch4#yang-mills) · [Meta's ATLAS](https://vwulf.github.io/ettuge/Deep-Dives/math/ch5#atlas)
 
 [↑ Contents](#contents)
 
@@ -261,6 +267,8 @@ Coverage is strongest where mathlib grew up (algebra, number theory, analysis) a
 
 Unchanged: point-set topology, linear algebra and real analysis were already near complete; differential geometry, algebraic topology, dynamical systems and statistics remain weak; higher category theory awaits the ∞-cosmos work. By paper count the research literature is still well under 1% formalized, but with RH certified, the load-bearing theorems of 20th-century number theory and arithmetic geometry (FLT, Mordell, Weil, the Stacks Project, RH/GRH) are now in Lean. Section 18 has the announcements behind this update.
 
+**Deep dives:** [Meta's ATLAS: 26 textbooks at 71%](https://vwulf.github.io/ettuge/Deep-Dives/math/ch5#atlas) · [Riehl's two books in Lean](https://vwulf.github.io/ettuge/Deep-Dives/math/ch5#riehl) · [What follows from RH](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#rh-consequences) · [Where the walls still are](https://vwulf.github.io/ettuge/Deep-Dives/math/ch6#themes-walls)
+
 [↑ Contents](#contents)
 
 ## 7. Open-problem releases and their effect on coverage {#s7}
@@ -290,6 +298,8 @@ The OpenAI and Anthropic open-problem releases mostly add a thin layer of new fo
 The benchmark side is also moving to Lean: Epoch's FrontierMath Erdős poses 68 open Erdős problems in Lean.
 
 **How much of OpenAI's 722-paper release is actually formalized** ([Buzzard, Nov 12](https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/)): about 45% (290 papers) have some Lean code, and about 38 of those do not state or prove the paper's main theorem (OpenAI did not claim otherwise). Paper 194 claims Lech's multiplicity conjecture, open since 1960, but its headline Lean theorem is the paper's Corollary 5.4. Three papers without Lean were retracted for a sign error. For most of the papers, the four checks of section 11.1 have not yet been done.
+
+**Deep dives:** [The OpenAI release](https://vwulf.github.io/ettuge/Deep-Dives/math/ch1#openai-release) · [The six results that got attention](https://vwulf.github.io/ettuge/Deep-Dives/math/ch1#six-results) · [The Fields medalists' warning](https://vwulf.github.io/ettuge/Deep-Dives/math/ch1#fields-medalists) · [Unique Games](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#unique-games) · [The ETH refutation](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#eth-refutation) · [Quasi-RH 7/8](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#quasi-rh) · [Siegel zeros](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#siegel-zeros)
 
 [↑ Contents](#contents)
 
@@ -529,6 +539,8 @@ The full trust stack is therefore four layers: a verified kernel for the logic; 
 
 **To see how a kernel works:** [MiniLean4](https://learn.h5i.dev/) (Hideaki Takahashi) is a free interactive book that builds a Lean-4-style kernel in under 3,000 lines of dependency-free Rust, compiled to WebAssembly. Its 14 chapters run from propositions-as-types and type checking through inductive types, equality and tactics to substitution, reduction, universes and metatheory, with in-browser playgrounds and live typing derivations.
 
+**Deep dives:** [Machine checking settles correctness, not meaning](https://vwulf.github.io/ettuge/Deep-Dives/math/ch6#themes-verification) · [What to check in the RH Lean](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#rh-lean-checklist)
+
 [↑ Contents](#contents)
 
 ## 12. Case study: graph isomorphism in n^O(log n), with a proven running time {#s12}
@@ -753,6 +765,8 @@ On Nov 11, 2026 the Gross-led panel released OpenAI's Lean source, [`OpenAI-YM-2
 
 **Reverse-engineering it.** [Scott Armstrong's map](https://github.com/scottnarmstrong/yang-mills-informalization) presents the proof at five levels, from the theorem to 32 units with 989 key statements linked to exact Lean lines, plus a 265-page AI-written manuscript draft. It shows that 70% of the code is a Bałaban-type ultraviolet renormalization group. [Martin Hairer's humanise-yang-mills](https://github.com/hairer/humanise-yang-mills) builds on that map to crowd-source a monograph (872-page incomplete draft) with contributors' agents. Fuller detail is in the separate Yang–Mills doc.
 
+**Deep dives:** [Yang–Mills: existence without the mass gap](https://vwulf.github.io/ettuge/Deep-Dives/math/ch4#yang-mills) · [The Sussman–Alpöge Bałaban completion](https://vwulf.github.io/ettuge/Deep-Dives/math/ch4#sussman-alpoge)
+
 ### 17.3 Making AI proofs readable {#s17-3}
 
 A [guest post on Buzzard's Xena blog](https://xenaproject.wordpress.com/2026/11/11/a-modern-reorganization-of-mathematics/) (ten authors, including Christian Merten and Jiedong Jiang) argues that AI proofs are correct in every step but have no motivation. It proposes presenting mathematics as layers of refinement: humans set strategy and definitions, LLMs fill in key theorems, AI writes and checks the formal bottom layer, and a website links every node to its formal counterpart. Prototypes: a layered Weil conjectures site and a formalization of derived categories and the six operations on the (pro-)étale site.
@@ -784,6 +798,8 @@ On Nov 20, Levent Alpöge (Anthropic) released a four-page note, ["Remark"](http
 - **A human rival the same day:** AMS president Ravi Vakil released a draft proof of GRH by Alessandro Masullo, described as human-only, reviewed privately for months by Brian Conrad, and not formalized.
 
 The two GRH claims arrived in opposite shapes: one machine-checked and now certified, with no readable proof, one readable with no machine check. A fuller account is on the [Deep Dives number theory page](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3).
+
+**Deep dives:** [The claim](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#rh-claim) · [Verified by the Lean and Mathlib communities](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#rh-verified) · [What to check in the Lean](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#rh-lean-checklist) · [The deduction chain](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#rh-deduction-chain) · [How it descends from quasi-RH](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#rh-from-quasi-rh) · [What follows](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#rh-consequences) · [Masullo's human GRH draft](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#masullo-grh)
 
 ### 18.2 Other announcements {#s18-2}
 
