@@ -1,6 +1,6 @@
 # Lean, Foundations, and the AI Formalization of Mathematics
 
-*Started Nov 1, 2026 · last updated Nov 20, 2026 · Vishwas*
+*Started Nov 1, 2026 · last updated Nov 21, 2026 · Vishwas*
 
 <!-- section-index:begin -->
 ## Contents {#contents}
@@ -43,8 +43,8 @@
   - [17.2 Yang–Mills existence](#s17-2)
   - [17.3 Making AI proofs readable](#s17-3)
   - [17.4 Verification status compared](#s17-4)
-- [18. November 13–20, 2026: RH, Weil, and a week of announcements](#s18)
-  - [18.1 The Riemann hypothesis and GRH (claimed)](#s18-1)
+- [18. November 13–21, 2026: RH, Weil, and a week of announcements](#s18)
+  - [18.1 The Riemann hypothesis and GRH (certified Nov 21)](#s18-1)
   - [18.2 Other announcements](#s18-2)
   - [18.3 What the week shows](#s18-3)
 - [References](#references)
@@ -68,7 +68,7 @@ Lean 4 is the de facto platform for AI-assisted formalization of mathematics, an
 - **Nov 6, 2026:** PSI announced an AI-produced proof of the Aaronson–Ambainis conjecture (open since 2008) with a compact, Comparator-checked Lean formalization.
 - **Nov 9–10, 2026:** agent-driven verification reached deployed software (DeepMind's machine-code proofs for Signal; a Lean copy of 16% of CPython that found 418 bugs), and 1,000 Fable 5.2 agents re-formalized FLT in 28.7 hours.
 - **Nov 11–12, 2026:** Axiom formalized Faltings' theorem on its Stacks library; OpenAI's \~1M-line Yang–Mills existence proof was released as Lean only, and Armstrong and Hairer began reverse-engineering a readable proof.
-- **Nov 13–20, 2026:** Alpöge and Claude claimed RH and GRH as a 17.4M-line Lean archive with no written proof; Axiom and Google independently formalized the Weil conjectures.
+- **Nov 13–21, 2026:** Alpöge and Claude released a 17.4M-line Lean proof of RH and GRH with no written proof, and on Nov 21 the Lean and Mathlib communities, endorsed by the Lean FRO, certified the RH proof correct; Axiom and Google independently formalized the Weil conjectures.
 
 [↑ Contents](#contents)
 
@@ -171,11 +171,11 @@ The AI-for-math industry has standardized on Lean 4 and mathlib; Rocq barely fig
 
 ## 5. Landmark formalizations, 2025–2026 {#s5}
 
-From September to November 2026, AI agents formalized most of the landmark theorems of 20th-century number theory and arithmetic geometry, each in weeks; the largest artifacts dwarf mathlib, and most have had little human review. Rows are newest first; the claimed RH/GRH proof is still under review.
+From September to November 2026, AI agents formalized most of the landmark theorems of 20th-century number theory and arithmetic geometry, each in weeks; the largest artifacts dwarf mathlib, and most have had little human review. Rows are newest first; the RH proof was certified by the Lean and Mathlib communities on Nov 21, though no human-readable proof exists yet.
 
 | Date | Result | Who | Scale and notes |
 | --- | --- | --- | --- |
-| Nov 20, 2026 | [Riemann hypothesis and GRH (claimed)](https://alpo.ge/remark.pdf) | Levent Alpöge with Claude | \~17.4M lines, 175K files; no written proof; statement checked by Glazer, compiled by Sutherland; under review (section 18) |
+| Nov 20, 2026 | [Riemann hypothesis and GRH](https://alpo.ge/remark.pdf) | Levent Alpöge with Claude | \~17.4M lines, 175K files; no written proof; certified Nov 21 by the Lean and Mathlib communities (Comparator, Lean's kernel, con-leche, con-ron and third-party checkers); no human-readable proof (section 18) |
 | Nov 13, 2026 | Weil conjectures; Hilbert's tenth over rings of integers | Google, Teamwork-LEAP agents (Gemini) | \~1.8M and \~919K lines; sizes from secondary coverage (section 18) |
 | Nov 12, 2026 | [Faltings' theorem (Mordell conjecture)](https://axiommath.ai/research/faltings-theorem-formalized/) | Axiom | \~124K lines on its Stacks library; proves the independent LeanEval statement; unreviewed (section 17.1) |
 | Nov 11, 2026 | [Yang–Mills existence](https://github.com/yang-mills-group/OpenAI-YM-20261028) | OpenAI (released by the Gross panel) | \~986K lines; no mass gap; no written proof; pre-fix kernel (section 17.2) |
@@ -204,13 +204,13 @@ Assuming formal statements are eventually verified to match intent: about 0.1% o
 
 **Overall**
 
-| Slice of math | In mathlib or a reviewed project | Kernel-checked anywhere (as of Nov 20, 2026) |
+| Slice of math | In mathlib or a reviewed project | Kernel-checked anywhere (as of Nov 21, 2026) |
 | --- | --- | --- |
-| Research literature (by paper count; denominator \~4M+ MathSciNet items) | \~0.1%; up to \~0.5% counting papers pulled in as dependencies | \~0.1–0.3% strict; up to \~1% counting dependencies |
+| Research literature (by paper count; denominator \~4M+ MathSciNet items) | \~0.1%; up to \~0.5% counting papers pulled in as dependencies | \~0.1–0.3% strict; up to \~1–2% counting dependencies, now including the certified RH archive |
 | Standard graduate canon | \~40–60% | \~60–70% |
 | Standard undergraduate canon | \~80–90% | \~85–90% |
 
-**Why the two columns diverged in November 2026.** Most new coverage sits in unreviewed AI monoliths outside mathlib. On a strict paper count they barely register, but each absorbs a large literature: CFSG's 715 sources, the Stacks Project, Weil and Deligne, and, if it holds, the RH archive's automorphic forms and Shimura varieties. The graduate-canon jump comes mainly from algebraic geometry (the Stacks Project) plus ATLAS's 26 textbooks; differential geometry, algebraic topology, PDE and stochastic analysis remain thin. The jump is fragile, since Stacks is \~99% unreviewed and Mordell and Weil build on it. The RH archive is excluded until Comparator and independent kernels confirm it; accepted, it could add more formalized graduate-to-research material than everything else this year. Paper counts also miss where coverage really moved: if RH holds, most major 20th-century theorems of number theory and arithmetic geometry are kernel-checked (see the area update below).
+**Why the two columns diverged in November 2026.** Most new coverage sits in unreviewed AI monoliths outside mathlib. On a strict paper count they barely register, but each absorbs a large literature: CFSG's 715 sources, the Stacks Project, Weil and Deligne, and the RH archive's automorphic forms and Shimura varieties. The graduate-canon jump comes mainly from algebraic geometry (the Stacks Project) plus ATLAS's 26 textbooks; differential geometry, algebraic topology, PDE and stochastic analysis remain thin. The jump is fragile, since Stacks is \~99% unreviewed and Mordell and Weil build on it. Since its certification on Nov 21 the RH archive counts in the second column. It adds more formalized research-level material than everything else this year, but none of it is in mathlib or human-reviewed, so the first column does not move. Paper counts also miss where coverage really moved: with RH certified, most major 20th-century theorems of number theory and arithmetic geometry are kernel-checked (see the area update below).
 
 mathlib itself is \~2M+ lines with roughly 280,000 theorems ([Lean Zulip](https://leanprover-community.github.io/archive/stream/287929-mathlib4/topic/2.20million.html)). The FLT and CFSG proofs are each many times larger and sit outside it.
 
@@ -250,7 +250,7 @@ Coverage is strongest where mathlib grew up (algebra, number theory, analysis) a
 | Area | Research, Nov 1 | Research, Nov 20 | What moved it |
 | --- | --- | --- | --- |
 | Algebraic geometry | Very low | High, if unreviewed | Stacks Project (\~97% of results), Mordell, Weil conjectures (Axiom and Google); the RH archive adds resolution of singularities, vanishing theorems and Shimura-variety compactifications |
-| Number theory | Medium | High | FLT, Mordell, quasi-RH 7/8, Weil RH over finite fields, Hilbert's tenth over rings of integers; if it holds, RH/GRH |
+| Number theory | Medium | High | FLT, Mordell, quasi-RH 7/8, Weil RH over finite fields, Hilbert's tenth over rings of integers; RH (certified Nov 21) and GRH for Dirichlet L-functions |
 | Representation theory | Very low | Medium, all inside the RH archive | Theta lifts on unitary groups, local Langlands for GL\_n, automorphic forms |
 | Arithmetic geometry (Arakelov, p-adic Hodge) | \~None | Present, all inside the RH archive | Bost slopes, Moriwaki; Grothendieck–Messing, prismatic Dieudonné |
 | Finite group theory | Medium | High, with a statement caveat | CFSG (sporadic group definitions unchecked) |
@@ -259,7 +259,7 @@ Coverage is strongest where mathlib grew up (algebra, number theory, analysis) a
 | Mathematical physics | Very low | Low–Medium | Yang–Mills existence (\~986K lines, pre-fix kernel); relativistic Vlasov–Maxwell library |
 | Complexity theory | Low | Medium | Graph isomorphism with a proven running time, Aaronson–Ambainis |
 
-Unchanged: point-set topology, linear algebra and real analysis were already near complete; differential geometry, algebraic topology, dynamical systems and statistics remain weak; higher category theory awaits the ∞-cosmos work. By paper count the research literature is still well under 1% formalized, but if RH holds, the load-bearing theorems of 20th-century number theory and arithmetic geometry (FLT, Mordell, Weil, the Stacks Project, RH/GRH) are now in Lean. Section 18 has the announcements behind this update.
+Unchanged: point-set topology, linear algebra and real analysis were already near complete; differential geometry, algebraic topology, dynamical systems and statistics remain weak; higher category theory awaits the ∞-cosmos work. By paper count the research literature is still well under 1% formalized, but with RH certified, the load-bearing theorems of 20th-century number theory and arithmetic geometry (FLT, Mordell, Weil, the Stacks Project, RH/GRH) are now in Lean. Section 18 has the announcements behind this update.
 
 [↑ Contents](#contents)
 
@@ -269,7 +269,7 @@ The OpenAI and Anthropic open-problem releases mostly add a thin layer of new fo
 
 | Date | Release | Formalization |
 | --- | --- | --- |
-| Nov 20, 2026 | [Alpöge with Claude: Riemann hypothesis and GRH (claimed)](https://alpo.ge/remark.pdf); a human-written GRH draft by Masullo appeared the same day | Lean only (\~17.4M lines), no written proof; Masullo's draft is not formalized |
+| Nov 20, 2026 | [Alpöge with Claude: Riemann hypothesis and GRH](https://alpo.ge/remark.pdf); a human-written GRH draft by Masullo appeared the same day | Lean only (\~17.4M lines), certified by the Lean and Mathlib communities on Nov 21; no written proof; Masullo's draft is not formalized |
 | Nov 18, 2026 | [GPT-6.2 Astra: first formalization of the Smoktunowicz gap theorem](https://www.vals.ai/blogs/smoktunowicz-gap-theorem) | \~1,800 lines in 94 minutes, by a new route; independent kernel replay |
 | Nov 6, 2026 | [PSI: Aaronson–Ambainis conjecture](https://psi.inc/research/aaronson-ambainis/) | \~9.4K lines on mathlib; Comparator with negative controls; independent kernels (section 13) |
 | Nov 5, 2026 | [Hajiaghayi & JafariRaviz: graph isomorphism in n^O(log n)](https://github.com/mahdi-jfri/GraphIsomorphismLog2) | \~457K lines, including the running time on a machine model; Comparator not yet run (section 12) |
@@ -285,7 +285,7 @@ The OpenAI and Anthropic open-problem releases mostly add a thin layer of new fo
 - **Prerequisites are the real gain.** A paper can cite a known result; a Lean proof must derive it ([Epoch](https://epoch.ai/latest/announcing-frontiermath-erdos)). Missing mathlib material gets built along the way.
 - **Mostly not reusable yet.** That infrastructure sits in one-off repos with ad hoc definitions.
 - **Narrow pull.** Open-problem work clusters in combinatorics, number theory and group theory, already mathlib's strongest areas.
-- **The RH claim breaks this pattern.** Because it assumes nothing, the 17.4M-line archive formalizes whole fields along the way (automorphic forms on unitary groups, Galois representations, Arakelov geometry, resolution of singularities). If it holds, an open-problem proof becomes the largest single expansion of formalized mathematics so far, though as monolithic code outside mathlib.
+- **The RH claim breaks this pattern.** Because it assumes nothing, the 17.4M-line archive formalizes whole fields along the way (automorphic forms on unitary groups, Galois representations, Arakelov geometry, resolution of singularities). Now certified, an open-problem proof is the largest single expansion of formalized mathematics so far, though as monolithic code outside mathlib.
 
 The benchmark side is also moving to Lean: Epoch's FrontierMath Erdős poses 68 open Erdős problems in Lean.
 
@@ -771,19 +771,19 @@ Armstrong's five-level Yang–Mills map is that idea applied after the fact to a
 
 [↑ Contents](#contents)
 
-## 18. November 13–20, 2026: RH, Weil, and a week of announcements {#s18}
+## 18. November 13–21, 2026: RH, Weil, and a week of announcements {#s18}
 
 The week after the Mordell and Yang–Mills releases brought a claimed Lean proof of the Riemann hypothesis, two independent formalizations of the Weil conjectures, and a steady stream of smaller results.
 
-### 18.1 The Riemann hypothesis and GRH (claimed) {#s18-1}
+### 18.1 The Riemann hypothesis and GRH (certified Nov 21) {#s18-1}
 
 On Nov 20, Levent Alpöge (Anthropic) released a four-page note, ["Remark"](https://alpo.ge/remark.pdf), claiming that he and Claude found a proof of RH and of GRH for Dirichlet L-functions. There is no paper: the proof is a Lean archive of about 17.4M lines in 175,000 files on Lean v4.33.1 (after the kernel fixes), "formalized without assumptions". Alpöge estimates an informal write-up would run past 250,000 pages.
 
-- **Checks so far:** Elliot Glazer confirmed the formal statement is GRH, stated with mathlib's own `riemannZeta` and Dirichlet L-functions (Buzzard's question 1). Andrew Sutherland compiled it independently (question 2). Comparator and independent kernels (questions 3 and 4) were not yet reported; review is under way on the Lean Zulip. No human has read the argument.
+- **Checks:** Elliot Glazer confirmed the formal statement is GRH, stated with mathlib's own `riemannZeta` and Dirichlet L-functions (Buzzard's question 1). Andrew Sutherland compiled it independently (question 2). On Nov 21 the Lean and Mathlib communities, endorsed by the Lean FRO and the Mathlib Initiative, certified that both the statement and the proof of RH are correct. Dozens of people rebuilt the library and got the same proof export. Comparator and con-leche --compare confirmed the proved theorem matches mathlib's RiemannHypothesis (question 3). Lean's kernel, the verified con-leche and con-ron, and several third-party checkers accepted the export (question 4). All checks ran on an inert export, so code in the sources could not interfere. The statement names only RH, though the community's Comparator setup also checks the GRH theorems. No human has read the argument yet; explaining its new ideas is the next job.
 - **What it had to formalize:** automorphic forms and theta lifts on unitary groups, local Langlands for GL\_n, Galois representations built from unitary Shimura varieties, Arakelov geometry (Bost, Moriwaki), p-adic Hodge theory (Grothendieck–Messing, prismatic Dieudonné), resolution of singularities in characteristic zero, and Kawamata–Viehweg and Nadel vanishing.
 - **A human rival the same day:** AMS president Ravi Vakil released a draft proof of GRH by Alessandro Masullo, described as human-only, reviewed privately for months by Brian Conrad, and not formalized.
 
-The two GRH claims arrived in opposite shapes: one machine-checked with no readable proof, one readable with no machine check. A fuller account is on the [Deep Dives number theory page](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3).
+The two GRH claims arrived in opposite shapes: one machine-checked and now certified, with no readable proof, one readable with no machine check. A fuller account is on the [Deep Dives number theory page](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3).
 
 ### 18.2 Other announcements {#s18-2}
 
@@ -806,7 +806,7 @@ Google's primary blog does not itemize the Weil and Hilbert's tenth results, so 
 - **Independent formalizations of the same theorem.** Axiom (Nov 6) and Google (Nov 13) each formalized the Weil conjectures, by different routes. Two independent artifacts are a check on each other's statements, which helps with statement fidelity.
 - **Infrastructure is forming.** Comparator is becoming routine for small results (Mizohata–Takeuchi, Gonshor). Tao's [Palomar registry](https://runtimewire.com/article/palomar-lean-proof-registry-ai-mathematics) records fixed snapshots of AI-assisted Lean results and compares formal statements against informal descriptions. Vals AI's Autoform-Hard benchmark (56 research-level tasks) has the top models at 48–49.
 - **Smaller is now cheap.** A first formalization of a 2006 ring-theory theorem took one model 94 minutes and $22, by a new route that sidestepped missing mathlib infrastructure.
-- **The largest claims carry the least checking.** RH (17.4M lines) has had a statement check and one compile; the small results have Comparator and multiple kernels.
+- **The largest claim got the most checking.** Within a day, RH (17.4M lines) passed every check the small results had: Comparator, the verified kernels and dozens of independent builds.
 
 [↑ Contents](#contents)
 
@@ -903,6 +903,10 @@ Sections 1–3 (foundations, HoTT, Rocq) draw on general knowledge of the system
 - [Buzzard, And the proof is checked in Lean](https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/)
 - [Navier–Stokes lost in translation (arXiv 2610.08144)](https://arxiv.org/abs/2610.08144)
 - [Alpöge, Remark (RH/GRH)](https://alpo.ge/remark.pdf)
+- [Lean and Mathlib communities, Lean verification of the Riemann Hypothesis (Nov 21, 2026)](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
+- [leanprover-community/riemann-hypothesis: Comparator setup and mirror](https://github.com/leanprover-community/riemann-hypothesis)
+- [Drew Sutherland, RH/GRH overview](https://math.mit.edu/~drew/grh/)
+- [Scientific American, The AI Riemann hypothesis proof is true, independent mathematicians confirm](https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/)
 - [Tomodovodoo/Riemann (17.4M-line mirror)](https://github.com/Tomodovodoo/Riemann)
 - [Axiom: The Weil conjectures, formalized in Lean](https://axiommath.ai/research/the-weil-conjectures-formalized-in-lean/)
 - [AI Weekly: Google Antigravity /teamwork formalizes Weil and Hilbert's 10th](https://aiweekly.co/alerts/googles-antigravity-teamwork-multi-agent-system-formalizes-weil-hilberts-10th)
