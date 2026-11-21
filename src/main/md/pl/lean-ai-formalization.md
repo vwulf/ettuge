@@ -765,7 +765,7 @@ On Nov 11, 2026 the Gross-led panel released OpenAI's Lean source, [`OpenAI-YM-2
 
 **Reverse-engineering it.** [Scott Armstrong's map](https://github.com/scottnarmstrong/yang-mills-informalization) presents the proof at five levels, from the theorem to 32 units with 989 key statements linked to exact Lean lines, plus a 265-page AI-written manuscript draft. It shows that 70% of the code is a Bałaban-type ultraviolet renormalization group. [Martin Hairer's humanise-yang-mills](https://github.com/hairer/humanise-yang-mills) builds on that map to crowd-source a monograph (872-page incomplete draft) with contributors' agents. Fuller detail is in the separate Yang–Mills doc.
 
-**Deep dives:** [Yang–Mills: existence without the mass gap](https://vwulf.github.io/ettuge/Deep-Dives/math/ch4#yang-mills) · [The Sussman–Alpöge Bałaban completion](https://vwulf.github.io/ettuge/Deep-Dives/math/ch4#sussman-alpoge)
+**Deep dives:** [Yang–Mills: existence without the mass gap](https://vwulf.github.io/ettuge/Deep-Dives/math/ch4#yang-mills) · [The committee verdict and the November dispute](https://vwulf.github.io/ettuge/Deep-Dives/math/ch4#ym-verdict) · [The Sussman–Alpöge Bałaban completion](https://vwulf.github.io/ettuge/Deep-Dives/math/ch4#sussman-alpoge) · [Yang–Mills and holography](https://vwulf.github.io/ettuge/Deep-Dives/math/ch4#ym-holography)
 
 ### 17.3 Making AI proofs readable {#s17-3}
 

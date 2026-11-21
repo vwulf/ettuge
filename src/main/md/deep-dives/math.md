@@ -56,7 +56,9 @@ These notes come from close readings of papers, preprints and books, mostly the 
 4. [Millennium problems in mathematical physics](https://vwulf.github.io/ettuge/Deep-Dives/math/ch4)
     - [Navier–Stokes blowup and the credit dispute](https://vwulf.github.io/ettuge/Deep-Dives/math/ch4#navier-stokes)
     - [Yang–Mills: existence without the mass gap](https://vwulf.github.io/ettuge/Deep-Dives/math/ch4#yang-mills)
+    - [The committee verdict and the November dispute](https://vwulf.github.io/ettuge/Deep-Dives/math/ch4#ym-verdict)
     - [The Sussman–Alpöge Bałaban completion](https://vwulf.github.io/ettuge/Deep-Dives/math/ch4#sussman-alpoge)
+    - [Yang–Mills, AdS/CFT and celestial holography](https://vwulf.github.io/ettuge/Deep-Dives/math/ch4#ym-holography)
 5. [Books and formalization](https://vwulf.github.io/ettuge/Deep-Dives/math/ch5)
     - [Riehl's two books in Lean](https://vwulf.github.io/ettuge/Deep-Dives/math/ch5#riehl)
     - [Meta's ATLAS: 26 textbooks at 71%](https://vwulf.github.io/ettuge/Deep-Dives/math/ch5#atlas)
@@ -442,18 +444,38 @@ Yang–Mills is the non-abelian gauge theory under the Standard Model: a connect
 | Sep 18 | QCD-related proof (Yang–Mills plus quarks, beyond the Clay problem) |
 | Oct 16 | Lean formalization finished |
 | Oct 26 | Announced with Kakeya/local smoothing and the ETH refutation; artifacts withheld for a panel of David Gross, Douglas, Jaffe (who co-wrote the Clay statement with Witten), Klebanov and Nekrasov |
-| Nov 11 | Panel releases the Lean source only (~986K lines, 9,477 files), with no written proof |
+| Nov 10 | Panel releases its validation, a 35-page assessment and the Lean source (~986K lines, 9,477 files); the 1,147-page written proof stays private (some outlets date the code release Nov 11) |
 
 **Reactions.** Baez: potentially huge and a big first step, but not the prize. Peter Woit called omitting the mass gap "intentionally deceptive". He also noted that merely completing Bałaban's argument on a compact torus would be much weaker than it sounds. The Advisory Group on Mathematics and AI demanded immediate release of the proofs. The standing worry is statement fidelity: does the Lean statement encode the OS axioms on ℝ⁴, the right gauge groups and a non-trivial continuum limit?
 
-The November release, and Armstrong's and Hairer's efforts to reverse-engineer a readable proof from it, are covered in [Lean and AI Formalization › November 2026](https://vwulf.github.io/ettuge/FP/lean-ai-formalization). Armstrong's map shows that about 70% of the code is a Bałaban-type ultraviolet renormalization group. The release ran on Lean v4.32.0, which predates the kernel fixes, and no independent kernel had been run. **[→ mathematics-science]**
+The November release, and Armstrong's and Hairer's efforts to reverse-engineer a readable proof from it, are covered in [Lean and AI Formalization › November 2026](https://vwulf.github.io/ettuge/FP/lean-ai-formalization). Armstrong's map shows that about 70% of the code is a Bałaban-type ultraviolet renormalization group. The release ran on Lean v4.32.0, which predates the kernel fixes, and no independent kernel had been run.
+
+Bałaban's programme is specific to lattice gauge theory. He did not work on Navier–Stokes, and the two Millennium entries here share AI provers, not methods. **[→ mathematics-science]**
+
+---
+
+<a id="ym-verdict"></a>**The Gross panel judged the Lean code a proof of pure Yang–Mills existence, but said it doesn't yet understand the proof, and critics dispute whether "existence" alone meets Clay's statement.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch4#ym-verdict)
+
+**The verdict (Nov 10).** The assessment judges the construction to be Yang–Mills under an existence criterion that doesn't require a precise description of the vacuum. It calls this "the group's judgment, subject to wider scrutiny", and says the work "supplies no evidence for or against" a mass gap. The panel stresses it is not ruling on the Clay prize. ([Scientific American](https://www.scientificamerican.com/article/openais-shepherds-affirm-blockbuster-physics-result/), [Dataconomy](https://dataconomy.com/2026/11/12/nobel-panel-validates-openais-yang-mills-existence-proof/), [Kingy AI](https://kingy.ai/blog/openai-yang-mills-proof-mass-gap/))
+- OpenAI's original `jointExistence` target left out the links to the lattice construction, so the judgment rests on a stronger `combined_acceptance` target.
+- The panel used OpenAI's Astra model to help read the code.
+- The short-distance check covers one scalar interface, not every field and axiom.
+- Nothing was said about the QCD or Standard Model claims. A Nov 4 submission covering them is reportedly not yet assessed.
+
+**What is proved,** per Armstrong's map: lattice spacing to zero on 4D tori, then infinite volume along a subsequence, giving smooth correlations on ℝ⁴. These split into phases, and a selected phase reconstructs a Wightman-type theory. Uniqueness of the limit, clustering and the mass gap are not claimed.
+
+**The November dispute.**
+- **Woit, "[The Yang-Mills Publicity Stunt](https://www.math.columbia.edu/~woit/wordpress/?p=15986)" (Nov 11).** The Jaffe–Witten statement doesn't count weak existence unless properties like the mass gap are also shown, so on that reading even the existence half isn't solved. The "completion of the Standard Model" may only mean a minimal SU(5) grand unified theory without a Higgs, which disagrees with experiment. Keeping the written proof private makes no sense now that the code is public.
+- **The theorists' statement.** A large group of prominent theorists published a statement at hep-open-release.org against withholding results like this one.
+- **Craig's blog post.** OpenAI's new science blog opened with Nathaniel Craig on chiral gauge theory, built on the existence proof. He calls the construction "a candidate for" a theory and hasn't shown reflection positivity. A preprint (arXiv:2611.20084) argues such constructions can't have it at finite lattice spacing.
+- **Kalai vs Woit (Nov 15).** Gil Kalai called it a major advance that the "hype" framing misses. Woit replied that the problem is the false claim to have proved the existence part. **[→ mathematics-science]**
 
 ---
 
 <a id="sussman-alpoge"></a>**The Sussman–Alpöge repository is a conditional, openly gappy, Claude-written completion of Bałaban's program for SU(2): the likely shape of what OpenAI did, published three weeks earlier.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch4#sussman-alpoge)
 <https://github.com/ethanwsussman/Yang--Mills-LLM-experiment> (read directly)
 
-Ethan Sussman proposed the project and Levent Alpöge guided Claude through it; the repo is dated Oct 6, 2026. Bałaban's 1985–89 renormalization-group papers are a roadmap to existence, abandoned because finishing them needed more work than seemed humanly feasible. The bet is that LLMs can supply that work. As a warm-up, Codex reproduced Dimock's QED3 construction and extended it to infinite volume with the OS axioms; the authors believe it is essentially correct. A YM3 folder covers the easier 3D case.
+Ethan Sussman proposed the project and Levent Alpöge guided Claude through it; the repo is dated Oct 6, 2026. It is an independent academic project that used Claude, not an Anthropic effort; Anthropic has announced no Yang–Mills work of its own. Bałaban's 1985–89 renormalization-group papers are a roadmap to existence, abandoned because finishing them needed more work than seemed humanly feasible. The bet is that LLMs can supply that work. As a warm-up, Codex reproduced Dimock's QED3 construction and extended it to infinite volume with the OS axioms; the authors believe it is essentially correct. A YM3 folder covers the easier 3D case.
 
 **"Theorem 0"** (a 153-page draft), for SU(2) with Wilson's lattice action on periodic tori:
 - running-coupling bounds matching the one-loop asymptotic-freedom law
@@ -471,14 +493,26 @@ Ethan Sussman proposed the project and Levent Alpöge guided Claude through it; 
 
 | | OpenAI | Sussman–Alpöge |
 |---|---|---|
-| Date | Oct 26 (Lean released Nov 11) | Oct 6 |
+| Who | OpenAI in-house | Two mathematicians prompting Claude |
+| Date | Oct 26 (Lean released Nov 10) | Oct 6 |
 | Model | Unreleased internal model | Claude (Codex for the QED3 warm-up) |
 | Scope | All compact groups with simple nonabelian Lie algebra; QCD claimed | SU(2) pure Yang–Mills |
 | Status | Claimed unconditional | Explicitly conditional, gaps listed |
-| Verification | Lean (claimed), panel review | LLM review, partial hand checks |
+| Verification | ~986K lines of Lean; Gross panel affirmed existence Nov 10 | LLM review, partial hand checks |
+| Openness | Withheld two weeks; written proof still private | Raw output and draft public from the start |
 | Mass gap | Not claimed | Not claimed |
 
-A quick test of OpenAI's release is whether it closes the open inputs in Section 9 of this draft, and whether it covers ℝ⁴ with full O(4) invariance rather than a torus. **[→ mathematics-science]**
+A quick test of OpenAI's release is whether it closes the open inputs in Section 9 of this draft, and whether it covers ℝ⁴ with full O(4) invariance rather than a torus. The released code answers part of this: ℝ⁴ is reached, but only along a subsequence. **[→ mathematics-science]**
+
+---
+
+<a id="ym-holography"></a>**AdS/CFT and celestial holography both lean on Yang–Mills, but neither rests on the existence proof, and the bridge to either runs through the mass gap.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch4#ym-holography)
+
+**AdS/CFT.** Maldacena's founding example equates N=4 super-Yang–Mills with string theory on AdS₅×S⁵, so the boundary theory is literally a gauge theory. But N=4 SYM is conformal: its coupling doesn't run, so it has no asymptotic freedom and no mass gap. Bałaban's method depends on asymptotic freedom, so the OpenAI construction doesn't reach N=4 SYM, whose rigorous construction remains open. Holographic models of confining theories (Witten 1998, Sakai–Sugimoto) give a mass gap and glueball spectra on the gravity side, as conjecture rather than proof.
+
+**Celestial holography** recasts 4D flat-space scattering as a 2D CFT on the celestial sphere. Its Yang–Mills inputs are perturbative or classical: soft gluon theorems and large gauge symmetries, Parke–Taylor/MHV amplitudes, and self-dual Yang–Mills with its w₁₊∞ algebra (Costello–Paquette). It assumes massless gluons reach infinity. With a mass gap, pure Yang–Mills has only massive glueballs asymptotically.
+
+**Where the proof could connect.** It supplies Osterwalder–Schrader/Wightman foundations and an OPE with error bounds, the kind of local-operator data CFT people use. It gives no S-matrix: rigorous scattering theory (Haag–Ruelle) needs a mass gap to define particles. **[→ mathematics-science]**
 
 ---
 

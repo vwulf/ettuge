@@ -37,7 +37,7 @@ The short summaries below link into the topic pages.
 - [the OpenAI release](math/ch1) (what was verified, and the six results covered in depth)
 - [complexity theory](math/ch2): the Unique Games proof skeleton, SDP, the ETH refutation and which problems inherit it, Chowla via MaxCut
 - [number theory](math/ch3): quasi-RH 7/8 and 11/12, Siegel zeros, [the Nov 20 proof of RH and GRH](math/ch3#rh-claim) (Alpöge with Claude, Lean-verified Nov 21; [Masullo's human draft](math/ch3#masullo-grh)), prime gaps, Goldbach
-- [mathematical physics](math/ch4): Navier–Stokes and the credit dispute, the two Yang–Mills efforts
+- [mathematical physics](math/ch4): Navier–Stokes and the credit dispute, the two Yang–Mills efforts, the Gross panel's verdict and the dispute after it, links to holography
 - [books and formalization](math/ch5): Riehl, ATLAS, CLRS
 - [themes across them](math/ch6)
 
