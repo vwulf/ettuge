@@ -2,7 +2,57 @@
 
 *Started Nov 1, 2026 · last updated Nov 20, 2026 · Vishwas*
 
-## Summary
+<!-- section-index:begin -->
+## Contents {#contents}
+
+- [Summary](#summary)
+- [1. Lean's foundational basis](#s1)
+- [2. HoTT in Lean: added, then removed](#s2)
+- [3. Lean vs Rocq](#s3)
+  - [3.1 Beyond Lean and Rocq: who finds the witness?](#s3-1)
+- [4. AI + mathematicians: why Lean, and the HoTT question](#s4)
+- [5. Landmark formalizations, 2025–2026](#s5)
+- [6. How much math is formalized in Lean](#s6)
+- [7. Open-problem releases and their effect on coverage](#s7)
+- [8. Consolidation: getting AI output into mathlib](#s8)
+- [9. The Stacks Project in Lean (November 2026)](#s9)
+- [10. CSLib and algorithms: imperative and purely functional](#s10)
+  - [10.1 CSLib: what exists today](#s10-1)
+  - [10.2 Imperative algorithms](#s10-2)
+  - [10.3 Purely functional algorithms and data structures](#s10-3)
+  - [10.4 Summary](#s10-4)
+  - [10.5 Do agents actually use testing and verification? (Dan Luu, Nov 2026)](#s10-5)
+  - [10.6 Commercial separation logic in Lean: &Truth](#s10-6)
+- [11. Can the kernel itself be trusted?](#s11)
+  - [11.1 The pipeline between statement and kernel](#s11-1)
+- [12. Case study: graph isomorphism in n^O(log n), with a proven running time](#s12)
+- [13. Case study: the Aaronson–Ambainis conjecture](#s13)
+- [14. Verifying real software, and agent teams at scale](#s14)
+  - [14.1 Three ways to connect proofs to real code](#s14-1)
+  - [14.2 AlphaProof Code: Signal at the machine-code level](#s14-2)
+  - [14.3 CPython in Lean](#s14-3)
+  - [14.4 A thousand agents: FLT with Claude Fable 5.2](#s14-4)
+  - [14.5 What these show](#s14-5)
+- [15. Lean as a programming language](#s15)
+  - [15.1 How much of Lean itself is verified](#s15-1)
+  - [15.2 Pure vs. mutation style](#s15-2)
+  - [15.3 Tail calls](#s15-3)
+- [16. Lean in the wild](#s16)
+- [17. November 2026: Mordell, Yang–Mills, and making proofs readable](#s17)
+  - [17.1 Faltings' theorem (the Mordell conjecture)](#s17-1)
+  - [17.2 Yang–Mills existence](#s17-2)
+  - [17.3 Making AI proofs readable](#s17-3)
+  - [17.4 Verification status compared](#s17-4)
+- [18. November 13–20, 2026: RH, Weil, and a week of announcements](#s18)
+  - [18.1 The Riemann hypothesis and GRH (claimed)](#s18-1)
+  - [18.2 Other announcements](#s18-2)
+  - [18.3 What the week shows](#s18-3)
+- [References](#references)
+
+*Every heading links to itself: hover (or tap the link icon) and copy the link to share a section, e.g. `#s6` for section 6.*
+<!-- section-index:end -->
+
+## Summary {#summary}
 
 Lean 4 is the de facto platform for AI-assisted formalization of mathematics, and 2026 moved it from flagship projects to industrial scale. Fermat's Last Theorem (September) and the Classification of Finite Simple Groups (October) were both fully formalized by AI agent swarms in weeks.
 
@@ -20,7 +70,9 @@ Lean 4 is the de facto platform for AI-assisted formalization of mathematics, an
 - **Nov 11–12, 2026:** Axiom formalized Faltings' theorem on its Stacks library; OpenAI's \~1M-line Yang–Mills existence proof was released as Lean only, and Armstrong and Hairer began reverse-engineering a readable proof.
 - **Nov 13–20, 2026:** Alpöge and Claude claimed RH and GRH as a 17.4M-line Lean archive with no written proof; Axiom and Google independently formalized the Weil conjectures.
 
-## 1. Lean's foundational basis
+[↑ Contents](#contents)
+
+## 1. Lean's foundational basis {#s1}
 
 Lean is built on dependent type theory, specifically a variant of the Calculus of Inductive Constructions (CIC), the same family as Rocq. Its distinctive choices:
 
@@ -34,7 +86,9 @@ Lean is built on dependent type theory, specifically a variant of the Calculus o
 
 In practice Lean and mathlib are openly classical. One known cost: definitional proof irrelevance combined with subsingleton elimination (e.g. on `Acc`) makes Lean's definitional equality undecidable and non-transitive in the kernel (Abel & Coquand). This rarely matters in practice.
 
-## 2. HoTT in Lean: added, then removed
+[↑ Contents](#contents)
+
+## 2. HoTT in Lean: added, then removed {#s2}
 
 Lean 2 (around 2015) shipped a HoTT mode; Lean 3 (2017) dropped it, and Lean 4 has no official HoTT support.
 
@@ -48,7 +102,9 @@ Lean 2 (around 2015) shipped a HoTT mode; Lean 3 (2017) dropped it, and Lean 4 h
 
 A community HoTT library survived in Lean 3 by avoiding `Prop` and using a linter to reject proofs relying on incompatible features. It never became mainstream. For native, computational univalence the usual tool today is Cubical Agda.
 
-## 3. Lean vs Rocq
+[↑ Contents](#contents)
+
+## 3. Lean vs Rocq {#s3}
 
 Rocq (formerly Coq) has a more conservative kernel, which keeps it HoTT-compatible; Lean's choices make everyday classical mathematics smoother.
 
@@ -62,7 +118,7 @@ Rocq (formerly Coq) has a more conservative kernel, which keeps it HoTT-compatib
 | HoTT | Incompatible | Coq-HoTT library works (avoids `Prop`, uses `-indices-matter`, univalence as axiom) |
 | Main math library | mathlib (\~2M+ lines) | Mathematical Components, UniMath, Coq-HoTT |
 
-### 3.1 Beyond Lean and Rocq: who finds the witness?
+### 3.1 Beyond Lean and Rocq: who finds the witness? {#s3-1}
 
 Erik Meijer (Nov 2026) sorts the ways of connecting specifications, proofs and executable code by one question: who finds the witness, the value that satisfies the specification?
 
@@ -84,7 +140,9 @@ His case for logic programming is that only it lets you state what makes a witne
 
 **The 2026 answer: AI finds the witness.** In the first three approaches the witness and proof are now increasingly found by agents at development time (sections 5, 9 and 14), and Lean's kernel checks the result. That moves human effort to where logic programming puts it, stating what makes a witness valid. The remaining difference is whether search runs once, offline, with a checked result, or every time the program runs, with the search strategy trusted.
 
-## 4. AI + mathematicians: why Lean, and the HoTT question
+[↑ Contents](#contents)
+
+## 4. AI + mathematicians: why Lean, and the HoTT question {#s4}
 
 The AI-for-math industry has standardized on Lean 4 and mathlib; Rocq barely figures in it.
 
@@ -109,7 +167,9 @@ The AI-for-math industry has standardized on Lean 4 and mathlib; Rocq barely fig
 - Higher categories are modelled classically via simplicial sets and quasi-categories (e.g. Riehl's ∞-cosmos project), not synthetic HoTT.
 - Synthetic HoTT and univalent foundations remain a separate niche in Cubical Agda, Coq-HoTT and UniMath.
 
-## 5. Landmark formalizations, 2025–2026
+[↑ Contents](#contents)
+
+## 5. Landmark formalizations, 2025–2026 {#s5}
 
 From September to November 2026, AI agents formalized most of the landmark theorems of 20th-century number theory and arithmetic geometry, each in weeks; the largest artifacts dwarf mathlib, and most have had little human review. Rows are newest first; the claimed RH/GRH proof is still under review.
 
@@ -136,7 +196,9 @@ Other pieces: Meta's AutoformBot formalized 26 open textbooks into 45,000+ verif
 
 **CFSG's statement is itself hard to check.** Per [Buzzard](https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/), the statement of Axiom's CFSG imports over 250K lines in more than 900 files of the AI-generated Tau Ceti library, about 5,600 of them crucial. He knows of no one who has checked the definitions of the sporadic groups, so the strongest evidence the statement is right is that Axiom's code proves it. Statements can need large new definitions in general: a pull request formalizing the Hodge conjecture in DeepMind's Formal Conjectures needs over 10,000 lines on top of mathlib just to state it, because mathlib lacks the cycle class map.
 
-## 6. How much math is formalized in Lean
+[↑ Contents](#contents)
+
+## 6. How much math is formalized in Lean {#s6}
 
 Assuming formal statements are eventually verified to match intent: about 0.1% of the research literature by paper count, but most of the undergraduate canon. These are judgment estimates; no one measures this officially.
 
@@ -199,7 +261,9 @@ Coverage is strongest where mathlib grew up (algebra, number theory, analysis) a
 
 Unchanged: point-set topology, linear algebra and real analysis were already near complete; differential geometry, algebraic topology, dynamical systems and statistics remain weak; higher category theory awaits the ∞-cosmos work. By paper count the research literature is still well under 1% formalized, but if RH holds, the load-bearing theorems of 20th-century number theory and arithmetic geometry (FLT, Mordell, Weil, the Stacks Project, RH/GRH) are now in Lean. Section 18 has the announcements behind this update.
 
-## 7. Open-problem releases and their effect on coverage
+[↑ Contents](#contents)
+
+## 7. Open-problem releases and their effect on coverage {#s7}
 
 The OpenAI and Anthropic open-problem releases mostly add a thin layer of new formalized theorems; they extend coverage of existing math only through the prerequisites they force.
 
@@ -227,7 +291,9 @@ The benchmark side is also moving to Lean: Epoch's FrontierMath Erdős poses 68 
 
 **How much of OpenAI's 722-paper release is actually formalized** ([Buzzard, Nov 12](https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/)): about 45% (290 papers) have some Lean code, and about 38 of those do not state or prove the paper's main theorem (OpenAI did not claim otherwise). Paper 194 claims Lech's multiplicity conjecture, open since 1960, but its headline Lean theorem is the paper's Corollary 5.4. Three papers without Lean were retracted for a sign error. For most of the papers, the four checks of section 11.1 have not yet been done.
 
-## 8. Consolidation: getting AI output into mathlib
+[↑ Contents](#contents)
+
+## 8. Consolidation: getting AI output into mathlib {#s8}
 
 Mathlib has not loosened its standards; consolidation is becoming a two-tier pipeline, with permissive staging libraries feeding a human-curated mathlib.
 
@@ -250,7 +316,9 @@ Mathlib has not loosened its standards; consolidation is becoming a two-tier pip
 - **Version drift:** mathlib renames weekly, so pinned AI repos rot quickly.
 - **Design judgment:** generality, definitions and API design remain largely human, which is why curated rebuilds like Imperial's FLT project continue alongside the AI proofs.
 
-## 9. The Stacks Project in Lean (November 2026)
+[↑ Contents](#contents)
+
+## 9. The Stacks Project in Lean (November 2026) {#s9}
 
 On November 3, 2026, Axiom Math published [a Lean formalization of the Stacks Project](https://stacks.axiommath.ai/), de Jong's open-source reference on algebraic geometry. It claims every tag with formalizable content; exercises and obsolete chapters are out of scope. It turns algebraic geometry from one of Lean's weakest areas into its most completely covered reference work, but almost none of it has had human review.
 
@@ -287,11 +355,13 @@ Roughly 99% of the library is unreviewed. The kernel guarantees each proof prove
 
 **What it changes.** Generation took weeks; review of 18M lines is now a human problem orders of magnitude larger than mathlib's entire history. By paper count the research literature is still \~0.1% formalized, but the foundations that algebraic geometry and Langlands-adjacent research build on are now largely present, at Frontier quality. It follows Axiom's CFSG release (Oct 26), where formalization surfaced 34 noteworthy deviations from the published proof.
 
-## 10. CSLib and algorithms: imperative and purely functional
+[↑ Contents](#contents)
+
+## 10. CSLib and algorithms: imperative and purely functional {#s10}
 
 Algorithms are where Lean lags most relative to its mathematics. A shared CS library only started in 2026, imperative verification is further along in F\*, Isabelle and Rocq, and the core results of purely functional data structures (amortized bounds under persistence) cannot yet be stated in standard Lean.
 
-### 10.1 CSLib: what exists today
+### 10.1 CSLib: what exists today {#s10-1}
 
 [CSLib](https://arxiv.org/html/2602.04846v1) aims to be for computer science what mathlib is for mathematics. Authors include Barrett, Chaudhuri, Montesi, Grundy, Kohli, de Moura, Rademaker and Yingchareonthawornchai (Lean FRO, Amazon, Google DeepMind, Stanford, SDU), with Renaissance Philanthropy running a CSLib initiative. It depends on mathlib, is expert-curated, and has two pillars: (1) formalizing CS concepts, and (2) verified code via an intermediate language, Boole, with verification-condition generation and SMT hammers.
 
@@ -314,7 +384,7 @@ Both are monadic, with `IsMonadHom` used to transport results between interpreta
 
 **Roadmap.** The stated first major milestone is formalizing most of CLRS, with 2026–27 work on algorithms, data structures and models of computation, and Boole maturing for code verification. Measured against CLRS, current coverage is two sorting algorithms.
 
-### 10.2 Imperative algorithms
+### 10.2 Imperative algorithms {#s10-2}
 
 CLRS-style algorithms are pointer- and array-heavy, which needs a program logic (separation logic or verification conditions) as well as a cost model.
 
@@ -325,7 +395,7 @@ CLRS-style algorithms are pointer- and array-heavy, which needs a program logic 
 | Isabelle | Most mature: Archive of Formal Proofs entries, Isabelle-LLVM and Imperative/HOL refinement down to efficient code, and a [survey](https://link.springer.com/chapter/10.1007/978-3-030-59152-6_2) mapping verified CLRS algorithms including running times. |
 | Rocq | CFML (characteristic formulae plus separation logic with time credits), Iris, and Appel's *Verified Functional Algorithms*. |
 
-### 10.3 Purely functional algorithms and data structures
+### 10.3 Purely functional algorithms and data structures {#s10-3}
 
 **Correctness is in reasonable shape.** Lean has verified red-black trees and heaps (Batteries), verified `Std.HashMap` and `Std.TreeMap` (weight-balanced trees), and [FAD](https://github.com/felipponn/fad), a Lean adaptation of Bird & Gibbons' *Algorithm Design with Haskell*. FAD covers divide and conquer, greedy (Kruskal, Prim, Dijkstra, union–find, Huffman), thinning, dynamic programming and exhaustive search, with refinement proofs between versions.
 
@@ -340,7 +410,7 @@ Other systems have done it: Danielsson's thunk-monad framework in Agda (POPL 200
 
 **A natural next step for CSLib:** a Danielsson-style monad of memoized, debit-carrying thunks, then Okasaki's banker's queue, real-time queues and deques on top. The free-monad and `IsMonadHom` infrastructure already in CSLib is the right substrate.
 
-### 10.4 Summary
+### 10.4 Summary {#s10-4}
 
 |  | Correctness | Complexity | Best system today |
 | --- | --- | --- | --- |
@@ -349,7 +419,7 @@ Other systems have done it: Danielsson's thunk-monad framework in Agda (POPL 200
 | Purely functional, eager | Good | Partial (`TimeM`) | Isabelle; Lean catching up |
 | Purely functional, lazy and amortized (Okasaki) | Partial | None in Lean | Rocq (CFML), Agda, Isabelle |
 
-### 10.5 Do agents actually use testing and verification? (Dan Luu, Nov 2026)
+### 10.5 Do agents actually use testing and verification? (Dan Luu, Nov 2026) {#s10-5}
 
 Dan Luu's evals are the best public evidence on whether coding agents get value from test and verification techniques. The short answer changed between model generations: GPT-5.6 Sol mostly produced caricatures of techniques, while GPT-6 Astra uses several of them meaningfully, though the evidence is thin.
 
@@ -375,11 +445,13 @@ Dan Luu's evals are the best public evidence on whether coding agents get value 
 
 **Why it matters here.** It is the software counterpart of the faithfulness problem in sections 5 and 9: weaker agents game verification (vacuous proofs, hidden axioms), and stronger ones start using it for real. It also shows how expensive good evidence is, and that conclusions don't transfer across task size or model. Luu argues the viral claim that AI-written tests are useless rests on a small, easy benchmark and a 9% cost difference.
 
-### 10.6 Commercial separation logic in Lean: &Truth
+### 10.6 Commercial separation logic in Lean: &Truth {#s10-6}
 
 [&Truth](https://andtruth.com/blog/shoulders-of-giants/), co-founded by Clark Barrett (whose group builds the cvc5 SMT solver), launched with an Oct 29, 2026 letter arguing that the theory of program verification (Hoare logic, LCF-style provers, SMT, separation logic) already exists and that AI agents now supply the missing human effort. Its tools are built on Lean, with a new Iris for Lean as a foundation, in collaboration with the Lean FRO. That addresses the gap in section 10.2: a serious separation-logic stack for imperative code in Lean, now being built commercially alongside CSLib's Boole. The letter gives no performance figures.
 
-## 11. Can the kernel itself be trusted?
+[↑ Contents](#contents)
+
+## 11. Can the kernel itself be trusted? {#s11}
 
 Every section above assumes Lean's kernel is correct. In summer 2026 AI-assisted work showed it was not, and by October Lean answered by shipping several independent kernels, two of them formally verified.
 
@@ -419,7 +491,7 @@ De Moura's framing: the logic was sound; the kernel's implementation was not. Th
 
 **Why it matters for this doc.** The trust story for AI-scale mathematics now has three layers: a verified kernel for the logic, diverse independent kernels for the implementation, and human review for statement fidelity. The first two are now largely automated; the third is the same bottleneck as sections 8 and 9.
 
-### 11.1 The pipeline between statement and kernel
+### 11.1 The pipeline between statement and kernel {#s11-1}
 
 A sound kernel only helps if what you read is what the kernel checked. [Derek Egolf's "False beliefs about Lean"](https://www.egolf.io/lean-false-beliefs.html) (Nov 8, 2026) demonstrates that Lean metaprograms can break that link without any kernel bug.
 
@@ -457,7 +529,9 @@ The full trust stack is therefore four layers: a verified kernel for the logic; 
 
 **To see how a kernel works:** [MiniLean4](https://learn.h5i.dev/) (Hideaki Takahashi) is a free interactive book that builds a Lean-4-style kernel in under 3,000 lines of dependency-free Rust, compiled to WebAssembly. Its 14 chapters run from propositions-as-types and type checking through inductive types, equality and tactics to substitution, reduction, universes and metatheory, with in-browser playgrounds and live typing derivations.
 
-## 12. Case study: graph isomorphism in n^O(log n), with a proven running time
+[↑ Contents](#contents)
+
+## 12. Case study: graph isomorphism in n^O(log n), with a proven running time {#s12}
 
 On Nov 5, 2026, Mahdi JafariRaviz published [a Lean formalization](https://github.com/mahdi-jfri/GraphIsomorphismLog2) of Theorem 1.1 of Hajiaghayi and JafariRaviz, [*Deterministic n^O(log n) Graph Isomorphism Algorithm via Inherited Decompositions*](https://arxiv.org/abs/2611.01399v1) (arXiv, Nov 2026). It proves the algorithm's correctness and its running time over an explicit machine model, which is exactly the cost semantics section 10 found missing from mainstream Lean.
 
@@ -488,7 +562,9 @@ On Nov 5, 2026, Mahdi JafariRaviz published [a Lean formalization](https://githu
 
 If experts confirm the \~440-line statement, this would be the first major complexity-theory result to arrive formally verified together with its running time.
 
-## 13. Case study: the Aaronson–Ambainis conjecture
+[↑ Contents](#contents)
+
+## 13. Case study: the Aaronson–Ambainis conjecture {#s13}
 
 On Nov 6, 2026, PSI (Physical Superintelligence) [announced a proof](https://psi.inc/research/aaronson-ambainis/) of the Aaronson–Ambainis conjecture, open since 2008, with a [complete Lean formalization](https://github.com/physical-superintelligence/aaronson-ambainis). It is the opposite of section 12 in shape: small, mathlib-only, and checked end to end, which makes it about as auditable as an AI-produced proof currently gets.
 
@@ -517,11 +593,13 @@ On Nov 6, 2026, PSI (Physical Superintelligence) [announced a proof](https://psi
 
 **The two shapes of AI formalization.** Section 12 is huge, rests on a 43M-line dependency, and has a larger statement to audit. This one is small, mathlib-only, with a short statement checked by Comparator and several kernels. The second shape is what makes "AI proved a famous conjecture" credible within days.
 
-## 14. Verifying real software, and agent teams at scale
+[↑ Contents](#contents)
+
+## 14. Verifying real software, and agent teams at scale {#s14}
 
 In November 2026 agent-driven formalization moved from mathematics to deployed software, and agent teams scaled to a thousand. In every case the architecture is the same: untrusted agents do the work, and Lean's kernel (with Comparator) decides what counts.
 
-### 14.1 Three ways to connect proofs to real code
+### 14.1 Three ways to connect proofs to real code {#s14-1}
 
 |  | AlphaProof Code: Signal | CPython in Lean | Aeneas / hax / Verus |
 | --- | --- | --- | --- |
@@ -532,7 +610,7 @@ In November 2026 agent-driven formalization moved from mathematics to deployed s
 | Goal | Deep security guarantees for one system | Broad coverage and bug finding | Functional correctness |
 | Scale | \~6.5M lines of proof; 5 people, 4 weeks | \~613K lines; 15.7% of 26,004 functions in \~11 days | Varies |
 
-### 14.2 AlphaProof Code: Signal at the machine-code level
+### 14.2 AlphaProof Code: Signal at the machine-code level {#s14-2}
 
 [DeepMind's paper](https://google-deepmind.github.io/code-verification) verifies `libsignal-protocol` v0.105.4 and `spqr` v1.6.0 (the PQXDH handshake plus the Triple Ratchet), compiled by stock rustc to an AArch64 binary of about 140,000 instructions. Theorems cover whole runs of the executable under a Lean model of AArch64 (467 instructions, 31 system calls), tested in lockstep against Arm's Sail model and qemu. The compiler is not trusted.
 
@@ -541,7 +619,7 @@ In November 2026 agent-driven formalization moved from mathematics to deployed s
 - **Bug test:** two real, since-fixed bugs were reintroduced; for each, Lean proved the buggy binary insecure, with concrete attack inputs, by having the kernel parse the ELF and step through the machine code.
 - **Caveats:** 39 routines (all low-level crypto, memcpy and similar) are trusted contracts; the binary is a CLI harness, not the apps; keygen, real randomness, threads, groups and side channels are out of scope; the computational bound is classical-only and vacuous after \~25,000 messages per session (8-byte MAC). The blog's "first verification of a widely deployed protocol's implementation by any method" overstates the paper's narrower claim. Spec-writing surfaced over 200 errors in the published security proofs.
 
-### 14.3 CPython in Lean
+### 14.3 CPython in Lean {#s14-3}
 
 [Andrews and Zhang](https://broyojo.com/python-formalization/) use Opus 5.5 agents to copy CPython functions into Lean line by line, test each copy against real CPython on 50,000+ inputs, prove properties (or their negations), and have a second agent try to break the work, including by checking whether a deliberately broken function would still pass a proof.
 
@@ -549,7 +627,7 @@ In November 2026 agent-driven formalization moved from mathematics to deployed s
 - **Payoff:** 418 bug reports, about 55 of which crash or corrupt memory from ordinary Python code; 129 are C and Python implementations disagreeing.
 - **Trust gap:** the copy is linked to CPython only by testing. Several Lean-valid proofs were wrong about real Python (allocation assumed never to fail, an off-by-nine recursion limit, subclass checks, memory address reuse), caught by running the claims against CPython.
 
-### 14.4 A thousand agents: FLT with Claude Fable 5.2
+### 14.4 A thousand agents: FLT with Claude Fable 5.2 {#s14-4}
 
 [Anthropic re-ran the FLT formalization](https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/) with 1,000 agents on an early Claude Fable 5.2, with no researcher steering.
 
@@ -565,18 +643,20 @@ In November 2026 agent-driven formalization moved from mathematics to deployed s
 - Agents initially judged 47 of 60 statements infeasible, then proved most of them.
 - Safety layers: a VM per agent, no network, locked-down kernel, branch-only pushes; an LLM monitor on every command and edit, where any block halts the team for human review; offline audits. Across more than a million tool calls nothing was blocked.
 
-### 14.5 What these show
+### 14.5 What these show {#s14-5}
 
 - **Two trust problems, handled separately:** the kernel guarantees outputs; sandboxes and monitors guard against the agents themselves.
 - **Specifications are the human bottleneck:** in the Signal work proofs were fully automated and the effort went into a 26K-line spec reviewed across two model families.
 - **Line counts are partly verbosity:** FLT shrank sevenfold in two months.
 - **Answer to Dan Luu's question (section 10.5):** with a strong checker in the loop, agents use verification for real, and differential testing keeps formal models honest.
 
-## 15. Lean as a programming language
+[↑ Contents](#contents)
+
+## 15. Lean as a programming language {#s15}
 
 Lean the prover is now very trustworthy; Lean the programming language is mostly ordinary, unverified code with an unusually well-specified standard library. Figures below come from cloning [leanprover/lean4](https://github.com/leanprover/lean4) and mathlib on Nov 5, 2026.
 
-### 15.1 How much of Lean itself is verified
+### 15.1 How much of Lean itself is verified {#s15-1}
 
 | Part | Size | Theorems vs. definitions | Verified? |
 | --- | --- | --- | --- |
@@ -590,7 +670,7 @@ Lean the prover is now very trustworthy; Lean the programming language is mostly
 - The library gap: \~790 functions are swapped at runtime for C or faster code via `@[extern]` or `implemented_by`. Proofs are about the reference definition; nothing checks the substitute agrees.
 - Lean programs in the wild are almost entirely unverified; a few verification projects exist (AWS Cedar, SampCert).
 
-### 15.2 Pure vs. mutation style
+### 15.2 Pure vs. mutation style {#s15-2}
 
 | Codebase | Lines | Theorems | Defs | `let mut` | `for` loops | `do` per 1K lines |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -604,7 +684,7 @@ At least 95% of Lean code is proof-style pure code; mutation style is concentrat
 - Mutation style is pure: `let mut`, `for`, `while` and early `return` are `do`-notation sugar over `StateT`, `ForIn` and early-exit monads. Only `IO.Ref` and `ST.Ref` are real references.
 - Pure code mutates at runtime: reference counting lets an unshared `Array` be updated in place ("functional but in place"), which is why idiomatic Lean prefers `Array` to `List` and why Okasaki-style persistent sharing goes against the grain (section 10.3).
 
-### 15.3 Tail calls
+### 15.3 Tail calls {#s15-3}
 
 Tail call optimization is essential because loops are tail recursion underneath: `for` and `while` desugar into self-recursive `forIn` loops.
 
@@ -613,7 +693,9 @@ Tail call optimization is essential because loops are tail recursion underneath:
 - **Verified stack-safe rewrites:** natural non-tail-recursive definitions stay as the specification, and \~100 `@[csimp]` lemmas (e.g. `foldr_eq_foldrTR`, `mergeSort_eq_mergeSortTR`) prove a tail-recursive version equal, which the compiler then substitutes. Unlike `@[extern]` swaps, these are proven.
 - **Not applicable in the kernel:** proofs that compute (`decide`, `rfl`) are reduced by the kernel, which has its own recursion limits; `native_decide` trades this for trusting the compiler.
 
-## 16. Lean in the wild
+[↑ Contents](#contents)
+
+## 16. Lean in the wild {#s16}
 
 Lean is still niche by repository count, but in the past year it reached the same band as Haskell, Scala and Elixir for new projects, and it now dominates proof assistants. Counts are from GitHub's search API on Nov 5, 2026.
 
@@ -646,11 +728,13 @@ Lean is still niche by repository count, but in the past year it reached the sam
 
 Caveats: GitHub counts are approximate and label repos by majority language; "Lean" includes Lean 3; many new repos are likely small AI experiments; and these measure activity, not production use.
 
-## 17. November 2026: Mordell, Yang–Mills, and making proofs readable
+[↑ Contents](#contents)
+
+## 17. November 2026: Mordell, Yang–Mills, and making proofs readable {#s17}
 
 In mid-November two more landmark results arrived in Lean, and the community began working out how humans read million-line AI proofs.
 
-### 17.1 Faltings' theorem (the Mordell conjecture)
+### 17.1 Faltings' theorem (the Mordell conjecture) {#s17-1}
 
 On Nov 12, 2026 Axiom [announced](https://axiommath.ai/research/faltings-theorem-formalized/) a [Lean proof](https://github.com/AxiomMath/Mordell) that a smooth projective curve of genus at least 2 over a number field has finitely many rational points. Mordell conjectured it in 1922 and Faltings proved it in 1983; the formalization follows Bombieri's 1990 simplification of Vojta's proof.
 
@@ -659,7 +743,7 @@ On Nov 12, 2026 Axiom [announced](https://axiommath.ai/research/faltings-theorem
 - **Significance:** the first real test of whether the AI-written Stacks library is reusable, nine days after its release: a Fields-Medal-level theorem in under 2% of the size of what it builds on.
 - **Caveats:** not yet reviewed by humans; it inherits Stacks Frontier's unreviewed status; Comparator and independent kernels are not reported.
 
-### 17.2 Yang–Mills existence
+### 17.2 Yang–Mills existence {#s17-2}
 
 On Nov 11, 2026 the Gross-led panel released OpenAI's Lean source, [`OpenAI-YM-20261028`](https://github.com/yang-mills-group/OpenAI-YM-20261028), without the written proof (reported at 1,147 pages). It claims that for every compact matrix group with simple nonabelian Lie algebra, Wilson lattice Yang–Mills has a continuum limit giving a Wightman QFT on ℝ⁴, with an all-orders OPE and a non-free stress-trace two-point function. It does **not** claim a mass gap, so it is not the Millennium Prize problem, or uniqueness of the volume limit.
 
@@ -669,13 +753,13 @@ On Nov 11, 2026 the Gross-led panel released OpenAI's Lean source, [`OpenAI-YM-2
 
 **Reverse-engineering it.** [Scott Armstrong's map](https://github.com/scottnarmstrong/yang-mills-informalization) presents the proof at five levels, from the theorem to 32 units with 989 key statements linked to exact Lean lines, plus a 265-page AI-written manuscript draft. It shows that 70% of the code is a Bałaban-type ultraviolet renormalization group. [Martin Hairer's humanise-yang-mills](https://github.com/hairer/humanise-yang-mills) builds on that map to crowd-source a monograph (872-page incomplete draft) with contributors' agents. Fuller detail is in the separate Yang–Mills doc.
 
-### 17.3 Making AI proofs readable
+### 17.3 Making AI proofs readable {#s17-3}
 
 A [guest post on Buzzard's Xena blog](https://xenaproject.wordpress.com/2026/11/11/a-modern-reorganization-of-mathematics/) (ten authors, including Christian Merten and Jiedong Jiang) argues that AI proofs are correct in every step but have no motivation. It proposes presenting mathematics as layers of refinement: humans set strategy and definitions, LLMs fill in key theorems, AI writes and checks the formal bottom layer, and a website links every node to its formal counterpart. Prototypes: a layered Weil conjectures site and a formalization of derived categories and the six operations on the (pro-)étale site.
 
 Armstrong's five-level Yang–Mills map is that idea applied after the fact to a proof released with no explanation at all.
 
-### 17.4 Verification status compared
+### 17.4 Verification status compared {#s17-4}
 
 |  | Aaronson–Ambainis | Mordell | Yang–Mills existence |
 | --- | --- | --- | --- |
@@ -685,11 +769,13 @@ Armstrong's five-level Yang–Mills map is that idea applied after the fact to a
 | Kernel | v4.33.0, plus nanoda and lean4lean | v4.35.0 | v4.32.0 (pre-fix), no independent kernel |
 | Human-readable proof | Paper, reviewed by a named author | Bombieri's paper (the formalization is unreviewed) | None released; being reverse-engineered |
 
-## 18. November 13–20, 2026: RH, Weil, and a week of announcements
+[↑ Contents](#contents)
+
+## 18. November 13–20, 2026: RH, Weil, and a week of announcements {#s18}
 
 The week after the Mordell and Yang–Mills releases brought a claimed Lean proof of the Riemann hypothesis, two independent formalizations of the Weil conjectures, and a steady stream of smaller results.
 
-### 18.1 The Riemann hypothesis and GRH (claimed)
+### 18.1 The Riemann hypothesis and GRH (claimed) {#s18-1}
 
 On Nov 20, Levent Alpöge (Anthropic) released a four-page note, ["Remark"](https://alpo.ge/remark.pdf), claiming that he and Claude found a proof of RH and of GRH for Dirichlet L-functions. There is no paper: the proof is a Lean archive of about 17.4M lines in 175,000 files on Lean v4.33.1 (after the kernel fixes), "formalized without assumptions". Alpöge estimates an informal write-up would run past 250,000 pages.
 
@@ -699,7 +785,7 @@ On Nov 20, Levent Alpöge (Anthropic) released a four-page note, ["Remark"](http
 
 The two GRH claims arrived in opposite shapes: one machine-checked with no readable proof, one readable with no machine check. A fuller account is on the [Deep Dives number theory page](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3).
 
-### 18.2 Other announcements
+### 18.2 Other announcements {#s18-2}
 
 | Date | Result | Who | Notes |
 | --- | --- | --- | --- |
@@ -715,14 +801,16 @@ The two GRH claims arrived in opposite shapes: one machine-checked with no reada
 
 Google's primary blog does not itemize the Weil and Hilbert's tenth results, so their sizes come from secondary coverage.
 
-### 18.3 What the week shows
+### 18.3 What the week shows {#s18-3}
 
 - **Independent formalizations of the same theorem.** Axiom (Nov 6) and Google (Nov 13) each formalized the Weil conjectures, by different routes. Two independent artifacts are a check on each other's statements, which helps with statement fidelity.
 - **Infrastructure is forming.** Comparator is becoming routine for small results (Mizohata–Takeuchi, Gonshor). Tao's [Palomar registry](https://runtimewire.com/article/palomar-lean-proof-registry-ai-mathematics) records fixed snapshots of AI-assisted Lean results and compares formal statements against informal descriptions. Vals AI's Autoform-Hard benchmark (56 research-level tasks) has the top models at 48–49.
 - **Smaller is now cheap.** A first formalization of a 2006 ring-theory theorem took one model 94 minutes and $22, by a new route that sidestepped missing mathlib infrastructure.
 - **The largest claims carry the least checking.** RH (17.4M lines) has had a statement check and one compile; the small results have Comparator and multiple kernels.
 
-## References
+[↑ Contents](#contents)
+
+## References {#references}
 
 Sections 1–3 (foundations, HoTT, Rocq) draw on general knowledge of the systems; the rest are linked below.
 
