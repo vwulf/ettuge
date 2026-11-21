@@ -1,7 +1,7 @@
 ---
 title: Math Deep Dives
 created: 2026-11-13
-updated: 2026-11-20
+updated: 2026-11-21
 source: deep-dive reading sessions on papers and books (Oct–Nov 2026)
 ---
 
@@ -290,6 +290,13 @@ A Siegel zero would be a single real zero β of L(s, χ), for a real character �
 - Lean experts are reviewing it on the Lean Zulip, where Thomas Bloom pointed people. That review is the first real verdict.
 - No human has read the argument, because there is no argument to read yet, only Lean.
 
+**Status on Nov 21.**
+- The archive is mirrored, unmodified, at [leanprover-community/riemann-hypothesis](https://github.com/leanprover-community/riemann-hypothesis) and is now community maintained. It adds comparator infrastructure: `src/Challenge.lean` states the theorems against Mathlib alone, and the submission is built in a network-free sandbox and compared against that clean export. The project is pinned to Lean v4.33.1, the comparator runs on v4.36.0, and a full run needs about 100 GB of disk and hours of compute.
+- `Main.lean` proves five statements: Mathlib's `RiemannHypothesis`; the same written out for `riemannZeta`; L(χ, s) ≠ 0 for Re s > 1/2 for every Dirichlet character (excluding the trivial character's pole at s = 1); every zero of L(χ, s) in the strip 0 < Re s < 1 has real part 1/2; and the same for primitive characters. That is RH plus Dirichlet GRH, not the number-field version (ERH) that class-group algorithms and Koiran's Nullstellensatz result need.
+- The proof is reported as accepted by all the independent kernels. The **paranoid** pipeline was still pending: exporting the statement from a clean clone before any submission code runs, then replaying the whole export in a fresh checker without trusting anything the build stored. That pipeline guards against build-time code tampering with the environment, which a kernel check alone doesn't rule out. If it passes, the remaining trust is in Mathlib's definitions of `riemannZeta` and `DirichletCharacter.LFunction`.
+- Dozens of verbose informal "proofs" reverse-engineered from the Lean appeared within a day. None is a community-curated account, and most paraphrase declaration names.
+- Alexis Plascencia's [field guide](https://alexisdpc.github.io/riemann/) is a source-linked reading of the archive, and says plainly that it hasn't built or audited the Lean or checked that named theorems match their classical versions. Its outline: a critical-line lemma from the functional equation; a Landau argument turning a prime-sum error bound on long intervals into nonvanishing; that bound from cohomology "windows" over cyclotomic subfields, local divisibility, theta matching and finite Fourier inversion; and a chain of about √x stages chosen to balance the costs. The prime-sum/Landau step refines the positivity reading below.
+
 **What to check in the Lean.**
 - `#print axioms` on the main theorem shows only `propext`, `Classical.choice` and `Quot.sound`.
 - The statement uses Mathlib's own `riemannZeta` and `DirichletCharacter.LFunction`, and the vendored Mathlib is unmodified.
@@ -322,7 +329,7 @@ So on Nov 20 there were two independent GRH claims in opposite shapes: one machi
 
 **Context.** This is the year's starkest case of the "two versions" pattern: here there is only the machine-checked version, and the readable one doesn't exist yet. Alpöge says the timing of the announcement was constrained and that he chose to release before waiting further. He was earlier on the Claude result raising the share of zeros proved on the critical line from 41.6% to 67.2% (Aug), and on the Buckmaster–Alpöge forced Navier–Stokes work. **[→ mathematics; cross-link → machine-learning-ai]**
 
-Sources: [Alpöge, "Remark"](https://alpo.ge/remark.pdf), [OfficeChai: Vakil and Masullo](https://officechai.com/ai/hours-after-alpoges-ai-assisted-riemann-hypothesis-proof-ams-president-ravi-vakil-rushes-out-a-rival-all-human-proof-by-alessandro-masullo/), [Scientific American](https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/), [OfficeChai: reactions](https://officechai.com/ai/how-mathematicians-have-reacted-to-claimed-riemann-hypothesis-proof-by-anthropics-levent-alpoge/), [Pillitteri](https://pasqualepillitteri.it/en/news/35468/riemann-hypothesis-proof-claude-alpoge).
+Sources: [Alpöge, "Remark"](https://alpo.ge/remark.pdf), [community mirror](https://github.com/leanprover-community/riemann-hypothesis), [Plascencia's field guide](https://alexisdpc.github.io/riemann/), [OfficeChai: Vakil and Masullo](https://officechai.com/ai/hours-after-alpoges-ai-assisted-riemann-hypothesis-proof-ams-president-ravi-vakil-rushes-out-a-rival-all-human-proof-by-alessandro-masullo/), [Scientific American](https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/), [OfficeChai: reactions](https://officechai.com/ai/how-mathematicians-have-reacted-to-claimed-riemann-hypothesis-proof-by-anthropics-levent-alpoge/), [Pillitteri](https://pasqualepillitteri.it/en/news/35468/riemann-hypothesis-proof-claude-alpoge).
 
 ---
 
