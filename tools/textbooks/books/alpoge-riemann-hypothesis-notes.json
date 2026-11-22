@@ -10,13 +10,14 @@
      "title": "The main theorem",
      "start": 15,
      "end": 15,
-     "summary": "The theorem: every nontrivial zero of \u03b6 and of every Dirichlet L-function lies on Re s = 1/2; proved relative to 20 black boxes, of which the book fully proves only a few",
+     "summary": "The theorem: every nontrivial zero of ζ and of every Dirichlet L-function lies on Re s = 1/2; proved relative to 20 black boxes, of which the book fully proves only a few",
      "terms": [
       "Riemann hypothesis",
       "GRH Dirichlet",
       "main theorem",
       "black boxes"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=15"
     },
     {
      "title": "The idea of the argument",
@@ -29,7 +30,8 @@
       "Chebyshev binomial bound",
       "smoothed Chebyshev function",
       "von Mangoldt"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=16"
     },
     {
      "title": "The structure of the proof",
@@ -42,30 +44,33 @@
       "theta lifts",
       "slope inequality",
       "Sha bound"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=17"
     },
     {
      "title": "What is proved in these notes",
      "start": 19,
      "end": 19,
-     "summary": "What kind of argument each statement gets, and the two main open points: matching the window exponents of the Sha bound and the host supply, and an unproved \u00e9tale-vanishing hypothesis in the sign-only model",
+     "summary": "What kind of argument each statement gets, and the two main open points: matching the window exponents of the Sha bound and the host supply, and an unproved étale-vanishing hypothesis in the sign-only model",
      "terms": [
       "proof kinds",
       "open points",
       "window exponents"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=19"
     },
     {
      "title": "Prerequisites and conventions",
      "start": 20,
      "end": 20,
-     "summary": "Background assumed: curves and Riemann\u2013Roch, \u2113-adic cohomology for the sign-only part, analytic number theory, Hermitian lattices, theta correspondence, Shimura varieties, Galois cohomology",
+     "summary": "Background assumed: curves and Riemann–Roch, ℓ-adic cohomology for the sign-only part, analytic number theory, Hermitian lattices, theta correspondence, Shimura varieties, Galois cohomology",
      "terms": [
       "prerequisites",
-      "Riemann\u2013Roch",
+      "Riemann–Roch",
       "theta correspondence",
-      "Poitou\u2013Tate"
-     ]
+      "Poitou–Tate"
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=20"
     },
     {
      "title": "Organization of the notes",
@@ -74,22 +79,25 @@
      "summary": "Reading order and the chapter-to-step map (Figure I.1)",
      "terms": [
       "reading map"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=20"
     },
     {
      "title": "AI and Software Discussion",
      "start": 21,
      "end": 22,
-     "summary": "AI disclosure: drafted and assembled by Claude Fable 5.2 and Claude Opus 5.5 in Claude Code on 20\u201321 Nov 2026; no human review",
+     "summary": "AI disclosure: drafted and assembled by Claude Fable 5.2 and Claude Opus 5.5 in Claude Code on 20–21 Nov 2026; no human review",
      "terms": [
       "AI disclosure",
       "Claude Fable",
       "Claude Opus",
       "no human review"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=21"
     }
    ],
-   "summary": "States the main theorem (RH plus GRH for Dirichlet L-functions), sketches the idea and the four-part structure of the proof, and is explicit that the notes explain the argument rather than verify it."
+   "summary": "States the main theorem (RH plus GRH for Dirichlet L-functions), sketches the idea and the four-part structure of the proof, and is explicit that the notes explain the argument rather than verify it.",
+   "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=15"
   },
   {
    "title": "Chapter 1. The basic idea",
@@ -100,40 +108,43 @@
      "title": "1.1. Stepanov's method over a finite field",
      "start": 23,
      "end": 26,
-     "summary": "Stepanov\u2013Bombieri bound N \u2264 q + (2g+1)\u221aq: an auxiliary function built by Riemann\u2013Roch linear algebra vanishes to order m (a power of p) at each rational point; counting zeros against poles, with m \u2248 \u221aq",
+     "summary": "Stepanov–Bombieri bound N ≤ q + (2g+1)√q: an auxiliary function built by Riemann–Roch linear algebra vanishes to order m (a power of p) at each rational point; counting zeros against poles, with m ≈ √q",
      "terms": [
       "Stepanov method",
       "Bombieri",
       "Weil bound",
-      "Riemann\u2013Roch",
+      "Riemann–Roch",
       "auxiliary function",
       "multiplicity"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=23"
     },
     {
      "title": "1.2. The dictionary",
      "start": 27,
      "end": 27,
-     "summary": "The dictionary curve \u2194 integers: points \u2194 primes, multiplicity \u2194 divisibility, poles \u2194 archimedean size, zeros = poles \u2194 product formula / slope inequality, Frobenius power \u2194 chain of theta lifts",
+     "summary": "The dictionary curve ↔ integers: points ↔ primes, multiplicity ↔ divisibility, poles ↔ archimedean size, zeros = poles ↔ product formula / slope inequality, Frobenius power ↔ chain of theta lifts",
      "terms": [
       "dictionary",
       "product formula",
       "slope inequality",
       "Frobenius"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=27"
     },
     {
      "title": "1.3. The quantity to bound",
      "start": 28,
      "end": 33,
-     "summary": "The quantity to bound: the smoothed Chebyshev function G_\u03b6, its Mellin transform, and Landau's theorem showing a one-sided bound G_\u03b6(x) \u2264 x^\u03b8 forces \u03b6 \u2260 0 for Re s > \u03b8; why the curve analogue fails (Pringsheim)",
+     "summary": "The quantity to bound: the smoothed Chebyshev function G_ζ, its Mellin transform, and Landau's theorem showing a one-sided bound G_ζ(x) ≤ x^θ forces ζ ≠ 0 for Re s > θ; why the curve analogue fails (Pringsheim)",
      "terms": [
-      "smoothed Chebyshev function G_\u03b6",
+      "smoothed Chebyshev function G_ζ",
       "Mellin transform",
       "Landau theorem",
       "one-sided bound",
       "Pringsheim"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=28"
     },
     {
      "title": "1.4. Divisibility is at most size",
@@ -147,18 +158,20 @@
       "Hermitian lattice",
       "Arakelov degree",
       "Bost slope inequality"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=34"
     },
     {
      "title": "1.5. Multiplicity is the bottleneck",
      "start": 39,
      "end": 39,
-     "summary": "Why one CM abelian variety stalls at 3/4 and why the exponent 1/2 forces a multiplicity m \u2248 \u221ax",
+     "summary": "Why one CM abelian variety stalls at 3/4 and why the exponent 1/2 forces a multiplicity m ≈ √x",
      "terms": [
       "exponent 3/4",
-      "chain length \u221ax",
+      "chain length √x",
       "exponent budget"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=39"
     },
     {
      "title": "1.6. Theta lifts instead of differentiating integers",
@@ -172,7 +185,8 @@
       "Gross",
       "Rallis inner product",
       "seesaw"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=40"
     },
     {
      "title": "1.7. What the outline omits, and where to read on",
@@ -182,15 +196,17 @@
      "terms": [
       "host fields",
       "congruence defects",
-      "Tate\u2013Shafarevich",
+      "Tate–Shafarevich",
       "Vandiver"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=43"
     }
    ],
-   "summary": "An informal overview of the whole argument by analogy with Stepanov's proof, with proofs of only the elementary steps and pointers to where each step is developed."
+   "summary": "An informal overview of the whole argument by analogy with Stepanov's proof, with proofs of only the elementary steps and pointers to where each step is developed.",
+   "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=23"
   },
   {
-   "title": "Chapter 2. The function-field model: Stepanov\u2013Bombieri and the sign-only proof",
+   "title": "Chapter 2. The function-field model: Stepanov–Bombieri and the sign-only proof",
    "start": 45,
    "end": 108,
    "sections": [
@@ -198,14 +214,15 @@
      "title": "2.1. Setting",
      "start": 46,
      "end": 48,
-     "summary": "Function fields over F_q, places, divisors, Riemann\u2013Roch; Weil's theorem as the target",
+     "summary": "Function fields over F_q, places, divisors, Riemann–Roch; Weil's theorem as the target",
      "terms": [
       "function field",
       "place",
       "divisor",
-      "Riemann\u2013Roch",
+      "Riemann–Roch",
       "Weil theorem"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=46"
     },
     {
      "title": "2.2. The zeta function",
@@ -217,19 +234,21 @@
       "L-polynomial",
       "functional equation",
       "reciprocal roots"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=49"
     },
     {
      "title": "2.3. The upper bound",
      "start": 52,
      "end": 63,
-     "summary": "The upper bound N \u2264 q + (2g+1)\u221aq via an adapted basis and the auxiliary section (Bombieri's theorem); the square-root error is forced by the method",
+     "summary": "The upper bound N ≤ q + (2g+1)√q via an adapted basis and the auxiliary section (Bombieri's theorem); the square-root error is forced by the method",
      "terms": [
       "Bombieri theorem",
       "auxiliary section",
       "adapted basis",
       "square-root barrier"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=52"
     },
     {
      "title": "2.4. Route 1: the lower bound by Galois averaging",
@@ -240,27 +259,30 @@
       "Galois averaging",
       "twists",
       "lower bound"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=64"
     },
     {
      "title": "2.5. The Riemann hypothesis",
      "start": 70,
      "end": 70,
-     "summary": "Combining both bounds to get |\u03b1_i| = \u221aq, i.e. RH for curves",
+     "summary": "Combining both bounds to get |α_i| = √q, i.e. RH for curves",
      "terms": [
       "Riemann hypothesis for curves"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=70"
     },
     {
-     "title": "2.6. Route 2: a one-sided bound and a Landau\u2013Pringsheim lemma",
+     "title": "2.6. Route 2: a one-sided bound and a Landau–Pringsheim lemma",
      "start": 71,
      "end": 79,
-     "summary": "Route 2: a one-sided bound plus a Landau\u2013Pringsheim lemma, and why it corresponds to a lower bound on point counts (the sign reversal)",
+     "summary": "Route 2: a one-sided bound plus a Landau–Pringsheim lemma, and why it corresponds to a lower bound on point counts (the sign reversal)",
      "terms": [
-      "Landau\u2013Pringsheim lemma",
+      "Landau–Pringsheim lemma",
       "one-sided bound",
       "sign reversal"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=71"
     },
     {
      "title": "2.7. Stepanov's derivative form over a prime field",
@@ -270,7 +292,8 @@
      "terms": [
       "Stepanov derivative form",
       "prime field"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=80"
     },
     {
      "title": "2.8. The sign-only identity qN = M^k + R",
@@ -282,7 +305,8 @@
       "qN = M^k + R",
       "path quadric",
       "Gauss sum"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=85"
     },
     {
      "title": "2.9. Iterated Parseval: the bound on R",
@@ -291,7 +315,8 @@
      "summary": "Bounding R by iterated Parseval",
      "terms": [
       "iterated Parseval"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=88"
     },
     {
      "title": "2.10. The sign-only theorem",
@@ -300,9 +325,10 @@
      "summary": "The sign-only theorem, conditional on two cohomological hypotheses; one fails for the quadric as written for some k",
      "terms": [
       "conditional theorem",
-      "\u00e9tale cohomology",
+      "étale cohomology",
       "hypothesis H2"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=91"
     },
     {
      "title": "2.11. Multiplicity versus sign",
@@ -311,7 +337,8 @@
      "summary": "Multiplicity versus sign as two different resources",
      "terms": [
       "multiplicity versus sign"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=96"
     },
     {
      "title": "2.12. What the identity is for",
@@ -322,17 +349,19 @@
       "O(2 n)",
       "Katz",
       "Gabber hypersurface"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=99"
     },
     {
-     "title": "2.13. Dictionary with Alp\u00f6ge's argument",
+     "title": "2.13. Dictionary with Alpöge's argument",
      "start": 102,
      "end": 103,
-     "summary": "Dictionary with Alp\u00f6ge's argument: where the analogy is exact, loose or broken",
+     "summary": "Dictionary with Alpöge's argument: where the analogy is exact, loose or broken",
      "terms": [
       "dictionary",
       "analogy"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=102"
     },
     {
      "title": "2.14. Remarks and questions",
@@ -342,10 +371,12 @@
      "terms": [
       "Weil positivity",
       "open questions"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=104"
     }
    ],
-   "summary": "The finite-field model in full: a complete Stepanov\u2013Bombieri proof of RH for curves, then a conditional reconstruction of Alp\u00f6ge's 'sign-only' argument, ending in a dictionary that rates how well each step transfers to the integers."
+   "summary": "The finite-field model in full: a complete Stepanov–Bombieri proof of RH for curves, then a conditional reconstruction of Alpöge's 'sign-only' argument, ending in a dictionary that rates how well each step transfers to the integers.",
+   "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=45"
   },
   {
    "title": "Chapter 3. The argument assembled",
@@ -361,7 +392,8 @@
       "main theorem",
       "Lean final statements",
       "Mathlib riemannZeta"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=109"
     },
     {
      "title": "3.2. The skeleton of the proof",
@@ -372,7 +404,8 @@
       "skeleton",
       "smoothed Chebyshev",
       "windows"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=110"
     },
     {
      "title": "3.3. The vocabulary of the black boxes",
@@ -387,7 +420,8 @@
       "packages",
       "families",
       "ties"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=111"
     },
     {
      "title": "3.4. Black box: Galois representations",
@@ -397,7 +431,8 @@
      "terms": [
       "Galois representations",
       "weak local Langlands"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=115"
     },
     {
      "title": "3.5. Black box: the Sha bound on windows",
@@ -406,7 +441,8 @@
      "summary": "Black box: the Sha bound on windows",
      "terms": [
       "Sha bound on windows"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=116"
     },
     {
      "title": "3.6. Black box: the supply of hosts",
@@ -416,7 +452,8 @@
      "terms": [
       "host supply",
       "good pairs"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=117"
     },
     {
      "title": "3.7. Black box: the covolume bound",
@@ -425,7 +462,8 @@
      "summary": "Black box: the covolume bound",
      "terms": [
       "covolume bound"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=118"
     },
     {
      "title": "3.8. Black box: packages, Green's parametrisation, tied families",
@@ -436,17 +474,19 @@
       "packages",
       "Green parametrisation",
       "tied families"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=119"
     },
     {
      "title": "3.9. Black box: the Chebyshev inequality on windows",
      "start": 121,
      "end": 125,
-     "summary": "Black box: the Chebyshev inequality on windows, with the m \u2248 \u221ax bookkeeping",
+     "summary": "Black box: the Chebyshev inequality on windows, with the m ≈ √x bookkeeping",
      "terms": [
       "Chebyshev inequality on windows",
-      "m \u2248 \u221ax"
-     ]
+      "m ≈ √x"
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=121"
     },
     {
      "title": "3.10. Black box: the windowed Landau criterion",
@@ -455,7 +495,8 @@
      "summary": "Black box: the windowed Landau criterion",
      "terms": [
       "windowed Landau criterion"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=126"
     },
     {
      "title": "3.11. Black box: from a half-plane to the critical line",
@@ -466,7 +507,8 @@
       "imprimitive characters",
       "functional equation",
       "critical line"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=127"
     },
     {
      "title": "3.12. Proof of the main theorem",
@@ -475,7 +517,8 @@
      "summary": "The six-step proof of the main theorem from the boxes",
      "terms": [
       "proof of main theorem"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=127"
     },
     {
      "title": "3.13. Chebyshev's comparison and the function-field model",
@@ -484,7 +527,8 @@
      "summary": "Chebyshev's comparison as the common thread with the function-field model",
      "terms": [
       "Chebyshev comparison"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=130"
     },
     {
      "title": "3.14. The status of the inputs",
@@ -496,10 +540,12 @@
       "Table 3.3",
       "open points",
       "schematic definitions"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=133"
     }
    ],
-   "summary": "States the main theorem and proves it in a few lines from twenty black boxes, each restated with its role and the chapter that treats it, then records exactly what the book does and does not establish for each."
+   "summary": "States the main theorem and proves it in a few lines from twenty black boxes, each restated with its role and the chapter that treats it, then records exactly what the book does and does not establish for each.",
+   "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=109"
   },
   {
    "title": "Chapter 4. Smoothed Chebyshev functions and a windowed Landau criterion",
@@ -507,14 +553,15 @@
    "end": 148,
    "sections": [
     {
-     "title": "4.1. Conventions for Chapters 3\u201312",
+     "title": "4.1. Conventions for Chapters 3–12",
      "start": 139,
      "end": 139,
-     "summary": "Conventions for Chapters 3\u201312: attributions and the four kinds of proof block",
+     "summary": "Conventions for Chapters 3–12: attributions and the four kinds of proof block",
      "terms": [
       "proof kinds",
       "attribution conventions"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=139"
     },
     {
      "title": "4.2. Smoothed Chebyshev functions",
@@ -524,7 +571,8 @@
      "terms": [
       "twisted Chebyshev function",
       "normalisation"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=140"
     },
     {
      "title": "4.3. The windowed Landau criterion",
@@ -535,7 +583,8 @@
       "windowed Landau criterion",
       "Laplace transform",
       "Mellin transform"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=141"
     },
     {
      "title": "4.4. Levels",
@@ -547,7 +596,8 @@
       "kept characters",
       "positive weights",
       "real zeros"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=145"
     },
     {
      "title": "4.5. From a half-plane to the critical line",
@@ -558,10 +608,12 @@
       "functional equation",
       "critical line",
       "imprimitive characters"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=146"
     }
    ],
-   "summary": "The analytic end: a one-sided bound for a positive combination of smoothed twisted Chebyshev functions, assumed only on windows [Y, Y^(1+\u03b4)], already forces a zero-free half-plane."
+   "summary": "The analytic end: a one-sided bound for a positive combination of smoothed twisted Chebyshev functions, assumed only on windows [Y, Y^(1+δ)], already forces a zero-free half-plane.",
+   "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=139"
   },
   {
    "title": "Chapter 5. Host fields and averaging over auxiliary primes",
@@ -572,13 +624,14 @@
      "title": "5.1. Frames and hosts",
      "start": 149,
      "end": 150,
-     "summary": "Frames and host fields: abelian CM fields containing an imaginary quadratic field, built from \u03c8 and auxiliary primes q, d",
+     "summary": "Frames and host fields: abelian CM fields containing an imaginary quadratic field, built from ψ and auxiliary primes q, d",
      "terms": [
       "host field",
       "CM field",
       "imaginary quadratic field",
       "frame"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=149"
     },
     {
      "title": "5.2. Kept and bounded characters",
@@ -588,7 +641,8 @@
      "terms": [
       "kept characters",
       "bounded characters"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=151"
     },
     {
      "title": "5.3. Scales and the explicit-formula condition",
@@ -598,7 +652,8 @@
      "terms": [
       "scales",
       "explicit formula"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=153"
     },
     {
      "title": "5.4. Averaging over the auxiliary prime",
@@ -610,7 +665,8 @@
       "averaging",
       "good pairs",
       "head sum"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=155"
     },
     {
      "title": "5.5. The strength of the analytic input",
@@ -619,12 +675,14 @@
      "summary": "How strong the analytic input is, and which classical results it cites; one uniformity constant is not reconstructed",
      "terms": [
       "analytic input",
-      "L'(1 \u03c7)/L(1 \u03c7)",
+      "L'(1 χ)/L(1 χ)",
       "uniformity"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=159"
     }
    ],
-   "summary": "Builds the CM host fields in which a primitive character \u03c8 is placed, and controls the unwanted characters of their Galois groups by averaging over two auxiliary primes."
+   "summary": "Builds the CM host fields in which a primitive character ψ is placed, and controls the unwanted characters of their Galois groups by averaging over two auxiliary primes.",
+   "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=149"
   },
   {
    "title": "Chapter 6. The balance identity and Fourier analysis on the Galois group",
@@ -641,7 +699,8 @@
       "Legendre formula",
       "Fourier analysis on Galois group",
       "orthogonality"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=163"
     },
     {
      "title": "6.2. Thick and thin weights",
@@ -651,7 +710,8 @@
      "terms": [
       "thick weights",
       "thin weights"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=169"
     },
     {
      "title": "6.3. Averaging over shifts and top places",
@@ -663,10 +723,12 @@
       "top places",
       "core bound",
       "square root"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=171"
     }
    ],
-   "summary": "Proves the balance identity, which writes a Legendre-type prime sum as a main term plus twisted Chebyshev functions, and outlines the core bound that turns a bound on the prime sum into a bound on the combination G."
+   "summary": "Proves the balance identity, which writes a Legendre-type prime sum as a main term plus twisted Chebyshev functions, and outlines the core bound that turns a bound on the prime sum into a bound on the combination G.",
+   "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=163"
   },
   {
    "title": "Chapter 7. Hermitian lattices, the theta tower and slope records",
@@ -677,12 +739,13 @@
      "title": "7.1. The tower of unitary groups and the theta chain",
      "start": 177,
      "end": 179,
-     "summary": "The tower of Hermitian spaces and the theta chain U(X_0) \u2192 \u2026 \u2192 U(X_m)",
+     "summary": "The tower of Hermitian spaces and the theta chain U(X_0) → … → U(X_m)",
      "terms": [
       "unitary group tower",
       "theta chain",
       "Hermitian space"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=177"
     },
     {
      "title": "7.2. Hermitian lattices and slopes",
@@ -694,7 +757,8 @@
       "slope",
       "Bost inequality",
       "packages"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=180"
     },
     {
      "title": "7.3. The slope record",
@@ -704,7 +768,8 @@
      "terms": [
       "slope record",
       "size datum"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=182"
     },
     {
      "title": "7.4. The frame theorem",
@@ -714,18 +779,20 @@
      "terms": [
       "frame theorem",
       "frame operator"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=187"
     },
     {
      "title": "7.5. The archimedean side",
      "start": 190,
      "end": 190,
-     "summary": "The archimedean side: Stirling terms and a Chowla\u2013Selberg-type CM period",
+     "summary": "The archimedean side: Stirling terms and a Chowla–Selberg-type CM period",
      "terms": [
       "archimedean side",
       "Stirling",
-      "Chowla\u2013Selberg period"
-     ]
+      "Chowla–Selberg period"
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=190"
     },
     {
      "title": "7.6. The finite side",
@@ -736,10 +803,12 @@
       "finite side",
       "Bessel period",
       "divisor bound"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=191"
     }
    ],
-   "summary": "The geometric side: the tower of unitary groups and the chain of theta lifts over a host field, Hermitian lattices and their slopes, and the 'slope record' through which the geometry reaches the analysis."
+   "summary": "The geometric side: the tower of unitary groups and the chain of theta lifts over a host field, Hermitian lattices and their slopes, and the 'slope record' through which the geometry reaches the analysis.",
+   "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=177"
   },
   {
    "title": "Chapter 8. Families and the covolume bound",
@@ -755,7 +824,8 @@
       "families",
       "closed properties",
       "thresholds"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=193"
     },
     {
      "title": "8.2. The covolume bound",
@@ -765,24 +835,27 @@
      "terms": [
       "covolume bound",
       "integral automorphic forms"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=194"
     },
     {
      "title": "8.3. How arithmetic geometry enters",
      "start": 197,
      "end": 200,
-     "summary": "How arithmetic geometry enters: integral models and toroidal compactifications of Shimura varieties, arithmetic Hilbert\u2013Samuel, Moriwaki's bigness theorem, vanishing theorems; each used in a specific, sometimes weakened form; the proof is not reproduced",
+     "summary": "How arithmetic geometry enters: integral models and toroidal compactifications of Shimura varieties, arithmetic Hilbert–Samuel, Moriwaki's bigness theorem, vanishing theorems; each used in a specific, sometimes weakened form; the proof is not reproduced",
      "terms": [
       "arithmetic geometry",
       "Shimura variety",
       "toroidal compactification",
-      "arithmetic Hilbert\u2013Samuel",
+      "arithmetic Hilbert–Samuel",
       "Moriwaki bigness",
       "Arakelov geometry"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=197"
     }
    ],
-   "summary": "Collects packages into families and states the covolume bound for lattices of integral automorphic forms, the single place where arithmetic geometry enters."
+   "summary": "Collects packages into families and states the covolume bound for lattices of integral automorphic forms, the single place where arithmetic geometry enters.",
+   "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=193"
   },
   {
    "title": "Chapter 9. The Chebyshev inequality on windows",
@@ -797,7 +870,8 @@
      "terms": [
       "window hypotheses",
       "ties"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=201"
     },
     {
      "title": "9.2. The gap bound",
@@ -808,18 +882,20 @@
       "gap bound",
       "slope clauses",
       "cancellation"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=204"
     },
     {
      "title": "9.3. The square-root bookkeeping",
      "start": 207,
      "end": 207,
-     "summary": "The square-root bookkeeping that picks m \u2248 \u221ax",
+     "summary": "The square-root bookkeeping that picks m ≈ √x",
      "terms": [
       "square-root bookkeeping",
       "chain length m",
       "balance x/m"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=207"
     },
     {
      "title": "9.4. The Chebyshev inequality on windows",
@@ -829,13 +905,15 @@
      "terms": [
       "Chebyshev inequality on windows",
       "exponent 1/2"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=208"
     }
    ],
-   "summary": "Proves the Chebyshev inequality on windows: for a family tied at every large scale, G(x) \u2264 x^(1/2+O(\u03b5)); the exponent 1/2 is the balance of x/m against m at m = \u221ax."
+   "summary": "Proves the Chebyshev inequality on windows: for a family tied at every large scale, G(x) ≤ x^(1/2+O(ε)); the exponent 1/2 is the balance of x/m against m at m = √x.",
+   "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=201"
   },
   {
-   "title": "Chapter 10. Tate\u2013Shafarevich groups of Tate twists",
+   "title": "Chapter 10. Tate–Shafarevich groups of Tate twists",
    "start": 211,
    "end": 228,
    "sections": [
@@ -845,12 +923,13 @@
      "end": 213,
      "summary": "The groups and the bound",
      "terms": [
-      "Tate\u2013Shafarevich",
+      "Tate–Shafarevich",
       "Tate twist",
       "Galois cohomology",
       "Selmer",
       "congruence defects"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=211"
     },
     {
      "title": "10.2. Eigenspaces and the case split",
@@ -861,7 +940,8 @@
       "eigenspaces",
       "case split",
       "complex conjugation"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=214"
     },
     {
      "title": "10.3. The minus part",
@@ -870,7 +950,8 @@
      "summary": "The minus part",
      "terms": [
       "minus part"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=217"
     },
     {
      "title": "10.4. The plus part",
@@ -882,7 +963,8 @@
       "Vandiver conjecture",
       "Greenberg conjecture",
       "Kato vanishing"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=219"
     },
     {
      "title": "10.5. The Sha bound on windows",
@@ -892,13 +974,15 @@
      "terms": [
       "Sha bound on windows",
       "pigeonhole"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=225"
     }
    ],
-   "summary": "States a uniform bound for Tate\u2013Shafarevich groups of the Tate twists Q_\u2113/Z_\u2113(\u2212e) over host fields, which controls the congruence defects of the theta chain; it holds only on windows."
+   "summary": "States a uniform bound for Tate–Shafarevich groups of the Tate twists Q_ℓ/Z_ℓ(−e) over host fields, which controls the congruence defects of the theta chain; it holds only on windows.",
+   "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=211"
   },
   {
-   "title": "Chapter 11. Galois representations and local\u2013global compatibility",
+   "title": "Chapter 11. Galois representations and local–global compatibility",
    "start": 229,
    "end": 236,
    "sections": [
@@ -910,11 +994,12 @@
      "terms": [
       "Galois representations",
       "weak local Langlands",
-      "local\u2013global compatibility",
+      "local–global compatibility",
       "CM field",
       "polarized cuspidal",
       "Caraiani"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=229"
     },
     {
      "title": "11.2. A proposition on compact groups",
@@ -924,7 +1009,8 @@
      "terms": [
       "compact groups",
       "eigenvalues"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=234"
     },
     {
      "title": "11.3. What the Sha bound uses",
@@ -933,10 +1019,12 @@
      "summary": "Exactly what the Sha bound needs from this chapter",
      "terms": [
       "Sha bound inputs"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=236"
     }
    ],
-   "summary": "States the Galois-theoretic input: weak local Langlands maps and a truncated local\u2013global compatibility for regular algebraic polarized cuspidal representations over CM fields, which the archive proves rather than assumes."
+   "summary": "States the Galois-theoretic input: weak local Langlands maps and a truncated local–global compatibility for regular algebraic polarized cuspidal representations over CM fields, which the archive proves rather than assumes.",
+   "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=229"
   },
   {
    "title": "Chapter 12. Existence of families",
@@ -952,7 +1040,8 @@
       "host supply",
       "windows",
       "scale"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=237"
     },
     {
      "title": "12.2. Green's parametrization",
@@ -963,7 +1052,8 @@
       "Green parametrisation",
       "cuspidal characters",
       "GL_n(F_p)"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=240"
     },
     {
      "title": "12.3. Admissible families",
@@ -973,7 +1063,8 @@
      "terms": [
       "admissible families",
       "tied families"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=241"
     },
     {
      "title": "12.4. Zero-freeness for primitive characters",
@@ -982,7 +1073,8 @@
      "summary": "Zero-freeness for primitive characters",
      "terms": [
       "zero-free primitive characters"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=244"
     },
     {
      "title": "12.5. What this chapter supplies to the main proof",
@@ -991,10 +1083,12 @@
      "summary": "What the chapter supplies to the main proof",
      "terms": [
       "summary"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=245"
     }
    ],
-   "summary": "The existence results: host fields on windows, Green's parametrisation, admissible families, and from them zero-freeness of L(s, \u03c8) for primitive \u03c8 in Re s > 1/2."
+   "summary": "The existence results: host fields on windows, Green's parametrisation, admissible families, and from them zero-freeness of L(s, ψ) for primitive ψ in Re s > 1/2.",
+   "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=237"
   },
   {
    "title": "Appendix A. Software and AI methods",
@@ -1008,7 +1102,8 @@
      "summary": "Typesetting",
      "terms": [
       "typesetting"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=250"
     },
     {
      "title": "A.2. Agent management",
@@ -1019,7 +1114,8 @@
       "agent management",
       "subagents",
       "Claude Code"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=251"
     },
     {
      "title": "A.3. Natural language proofs",
@@ -1028,16 +1124,18 @@
      "summary": "Natural-language proofs and what the agents drafted",
      "terms": [
       "natural language proofs"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=252"
     },
     {
      "title": "A.4. Adversarial reviews",
      "start": 253,
      "end": 253,
-     "summary": "Adversarial reviews (Chapters 1\u20133 had one AI review; 4\u201312 none as chapters)",
+     "summary": "Adversarial reviews (Chapters 1–3 had one AI review; 4–12 none as chapters)",
      "terms": [
       "adversarial review"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=253"
     },
     {
      "title": "A.5. AI assisted computations",
@@ -1046,7 +1144,8 @@
      "summary": "AI-assisted computations, such as brute-force checks on small curves",
      "terms": [
       "Python checks"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=254"
     },
     {
      "title": "A.6. AI statement generation",
@@ -1055,7 +1154,8 @@
      "summary": "AI statement generation",
      "terms": [
       "statement generation"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=255"
     },
     {
      "title": "A.7. Proofreading and adversarial review",
@@ -1065,7 +1165,8 @@
      "terms": [
       "proofreading",
       "agent-originated results"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=255"
     },
     {
      "title": "A.8. Literature review",
@@ -1076,7 +1177,8 @@
       "literature review",
       "zbMATH",
       "novelty"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=257"
     },
     {
      "title": "A.9. Formalization",
@@ -1086,7 +1188,8 @@
      "terms": [
       "Lean archive static reading",
       "meta code"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=258"
     },
     {
      "title": "A.10. Record keeping and token accounting",
@@ -1096,14 +1199,16 @@
      "terms": [
       "token accounting",
       "cost"
-     ]
+     ],
+     "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=259"
     }
    ],
-   "summary": "How the book was made: agents, models, sources, reviews, computations, literature checks, the static reading of the Lean archive, and token accounting."
+   "summary": "How the book was made: agents, models, sources, reviews, computations, literature checks, the static reading of the Lean archive, and token accounting.",
+   "href": "https://tdupu.github.io/riemann-public/riemann-book.pdf#page=249"
   }
  ],
- "title": "Notes on Alp\u00f6ge's Proof of the Riemann Hypothesis",
- "byline": "AI-generated lecture notes (Claude Fable 5.2 and Claude Opus 5.5 in Claude Code), printed by Taylor Dupuy \u00b7 21 November 2026",
- "note": "PDF page = printed page + 14 (printed page 1, the start of the Introduction, is PDF page 15). The preface (PDF 7) and Alp\u00f6ge's four-page note, which the book reproduces in full (PDF 9\u201314), are not broken out; nor is the bibliography (PDF 263\u2013271). **Read with care:** the book says on its first page that AI agents wrote it, that no human has reviewed it, and that it does not verify the argument or the Lean archive. It proves the main theorem only relative to twenty black boxes, and gives complete proofs for just a few of them (its Table 3.3, PDF 135). Its account of the archive comes from reading the Lean source as text; the archive was not built. The Lean archive itself was declared verified by the Lean and Mathlib communities on 21 November; see [Math Deep Dives \u203a RH](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#rh-verified). Summaries are in our own words; the text stays in the PDF.",
- "summary": "The first book-length account of Levent Alp\u00f6ge's Lean-only proof of RH and GRH for Dirichlet L-functions, written for professional mathematicians and graduate students within a day of the release. It is organised top-down. Chapter 1 explains the idea through Stepanov's elementary proof of RH for curves over finite fields: a function vanishing to order m at every rational point is weighed against its poles. Over the integers the product formula plays the part of 'zeros equal poles' ('divisibility is at most size'), and a chain of about \u221ax theta lifts between definite unitary groups supplies the missing multiplicity. Chapter 2 gives the finite-field model in full (Stepanov\u2013Bombieri), plus a conditional reconstruction of the 'sign-only' identity qN = M^k + R from Alp\u00f6ge's footnote. Chapter 3 states the main theorem and proves it from twenty black boxes. Chapters 4\u201312 treat those boxes: a windowed Landau criterion for smoothed Chebyshev functions, CM host fields and averaging over auxiliary primes, the balance identity, Hermitian lattices with Bost slopes and the theta tower, the covolume bound (where arithmetic geometry enters), the Chebyshev inequality on windows (where the exponent 1/2 comes from balancing x/m against m), Tate\u2013Shafarevich groups of Tate twists, Galois representations with truncated local\u2013global compatibility, and the existence of families. An appendix documents the agents, reviews and token costs. The book is careful about what it does not establish: it marks every statement as a full proof, an outline of Alp\u00f6ge's route, a description of inputs or an explanatory sketch, and lists the points it leaves open."
+ "title": "Notes on Alpöge's Proof of the Riemann Hypothesis",
+ "byline": "AI-generated lecture notes (Claude Fable 5.2 and Claude Opus 5.5 in Claude Code), printed by Taylor Dupuy · 21 November 2026 · [original PDF](https://tdupu.github.io/riemann-public/riemann-book.pdf)",
+ "note": "PDF page = printed page + 14 (printed page 1, the start of the Introduction, is PDF page 15). The preface (PDF 7) and Alpöge's four-page note, which the book reproduces in full (PDF 9–14), are not broken out; nor is the bibliography (PDF 263–271). **Read with care:** the book says on its first page that AI agents wrote it, that no human has reviewed it, and that it does not verify the argument or the Lean archive. It proves the main theorem only relative to twenty black boxes, and gives complete proofs for just a few of them (its Table 3.3, PDF 135). Its account of the archive comes from reading the Lean source as text; the archive was not built. The Lean archive itself was declared verified by the Lean and Mathlib communities on 21 November; see [Math Deep Dives › RH](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#rh-verified). The public original is at [tdupu.github.io/riemann-public](https://tdupu.github.io/riemann-public/riemann-book.pdf); it is the same file as the Drive copy (same name, date and contents), and each chapter and section below links straight to its page there. Summaries are in our own words; the text stays in the PDF.",
+ "summary": "The first book-length account of Levent Alpöge's Lean-only proof of RH and GRH for Dirichlet L-functions, written for professional mathematicians and graduate students within a day of the release. It is organised top-down. Chapter 1 explains the idea through Stepanov's elementary proof of RH for curves over finite fields: a function vanishing to order m at every rational point is weighed against its poles. Over the integers the product formula plays the part of 'zeros equal poles' ('divisibility is at most size'), and a chain of about √x theta lifts between definite unitary groups supplies the missing multiplicity. Chapter 2 gives the finite-field model in full (Stepanov–Bombieri), plus a conditional reconstruction of the 'sign-only' identity qN = M^k + R from Alpöge's footnote. Chapter 3 states the main theorem and proves it from twenty black boxes. Chapters 4–12 treat those boxes: a windowed Landau criterion for smoothed Chebyshev functions, CM host fields and averaging over auxiliary primes, the balance identity, Hermitian lattices with Bost slopes and the theta tower, the covolume bound (where arithmetic geometry enters), the Chebyshev inequality on windows (where the exponent 1/2 comes from balancing x/m against m), Tate–Shafarevich groups of Tate twists, Galois representations with truncated local–global compatibility, and the existence of families. An appendix documents the agents, reviews and token costs. The book is careful about what it does not establish: it marks every statement as a full proof, an outline of Alpöge's route, a description of inputs or an explanatory sketch, and lists the points it leaves open."
 }
