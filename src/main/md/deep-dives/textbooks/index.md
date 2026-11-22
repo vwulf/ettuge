@@ -77,6 +77,7 @@ Partial PDFs (samples, excerpts, unfinished drafts) are marked as such on their 
 - [Linear Algebra via Exterior Products](linear-algebra-via-exterior-products) (Sergei Winitzki): Coordinate-free linear algebra where determinants, trace and Jordan form come from wedge products.
 - [Linear Algebra, Theory and Applications](kuttler-linear-algebra) (Kenneth Kuttler): Matrix computation and theory: factorizations, canonical forms, spectral theory, SVD, norms, numerics.
 - [Module Theory: An Approach to Linear Algebra](blyth-module-theory) (T. S. Blyth): Linear algebra over rings: exact sequences, projective and injective modules, tensors, PIDs and canonical forms.
+- [Notes on Alpöge's Proof of the Riemann Hypothesis](alpoge-riemann-hypothesis-notes) (AI-generated (Claude), printed by Taylor Dupuy): Lecture notes on the Lean-only RH/GRH proof: Stepanov's method as the model, the proof from twenty black boxes, then the tools; unreviewed.
 - [Surreal Numbers (opening chapters)](surreal-numbers) (Knuth): Conway’s numbers rediscovered as a story
 - [The Discrete Algebra of the Fourier Transform](discrete-algebra-fourier-transform) (Gabriel Peyré): Fourier analysis on finite groups, the DFT and FFT, finite-field transforms and group representations.
 - [The Riddle of Scheherazade](smullyan-riddle-of-scheherazade) (Raymond M. Smullyan): Logic and recreational puzzles: liars and truth-tellers, coercive logic, Gödel-flavored puzzles, paradoxes.

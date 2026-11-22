@@ -1,0 +1,1109 @@
+{
+ "url": "https://drive.google.com/file/d/1TFLiyKCINPw1_B5mBFz3X3K3W8qfiSX7/view",
+ "chapters": [
+  {
+   "title": "Introduction",
+   "start": 15,
+   "end": 22,
+   "sections": [
+    {
+     "title": "The main theorem",
+     "start": 15,
+     "end": 15,
+     "summary": "The theorem: every nontrivial zero of \u03b6 and of every Dirichlet L-function lies on Re s = 1/2; proved relative to 20 black boxes, of which the book fully proves only a few",
+     "terms": [
+      "Riemann hypothesis",
+      "GRH Dirichlet",
+      "main theorem",
+      "black boxes"
+     ]
+    },
+    {
+     "title": "The idea of the argument",
+     "start": 16,
+     "end": 16,
+     "summary": "The idea: Stepanov's zeros-against-poles over F_q, its integer analogue via the product formula (Chebyshev's binomial bound as the multiplicity-one case), and a one-sided bound on a smoothed Chebyshev function as the target",
+     "terms": [
+      "Stepanov method",
+      "product formula",
+      "Chebyshev binomial bound",
+      "smoothed Chebyshev function",
+      "von Mangoldt"
+     ]
+    },
+    {
+     "title": "The structure of the proof",
+     "start": 17,
+     "end": 18,
+     "summary": "Four parts: the analytic end (windowed Landau criterion), the inequality (host fields, balance identity, theta tower, covolume, gap bound), the arithmetic inputs (Sha bound, Galois representations) and existence of families",
+     "terms": [
+      "windowed Landau criterion",
+      "host fields",
+      "theta lifts",
+      "slope inequality",
+      "Sha bound"
+     ]
+    },
+    {
+     "title": "What is proved in these notes",
+     "start": 19,
+     "end": 19,
+     "summary": "What kind of argument each statement gets, and the two main open points: matching the window exponents of the Sha bound and the host supply, and an unproved \u00e9tale-vanishing hypothesis in the sign-only model",
+     "terms": [
+      "proof kinds",
+      "open points",
+      "window exponents"
+     ]
+    },
+    {
+     "title": "Prerequisites and conventions",
+     "start": 20,
+     "end": 20,
+     "summary": "Background assumed: curves and Riemann\u2013Roch, \u2113-adic cohomology for the sign-only part, analytic number theory, Hermitian lattices, theta correspondence, Shimura varieties, Galois cohomology",
+     "terms": [
+      "prerequisites",
+      "Riemann\u2013Roch",
+      "theta correspondence",
+      "Poitou\u2013Tate"
+     ]
+    },
+    {
+     "title": "Organization of the notes",
+     "start": 20,
+     "end": 20,
+     "summary": "Reading order and the chapter-to-step map (Figure I.1)",
+     "terms": [
+      "reading map"
+     ]
+    },
+    {
+     "title": "AI and Software Discussion",
+     "start": 21,
+     "end": 22,
+     "summary": "AI disclosure: drafted and assembled by Claude Fable 5.2 and Claude Opus 5.5 in Claude Code on 20\u201321 Nov 2026; no human review",
+     "terms": [
+      "AI disclosure",
+      "Claude Fable",
+      "Claude Opus",
+      "no human review"
+     ]
+    }
+   ],
+   "summary": "States the main theorem (RH plus GRH for Dirichlet L-functions), sketches the idea and the four-part structure of the proof, and is explicit that the notes explain the argument rather than verify it."
+  },
+  {
+   "title": "Chapter 1. The basic idea",
+   "start": 23,
+   "end": 44,
+   "sections": [
+    {
+     "title": "1.1. Stepanov's method over a finite field",
+     "start": 23,
+     "end": 26,
+     "summary": "Stepanov\u2013Bombieri bound N \u2264 q + (2g+1)\u221aq: an auxiliary function built by Riemann\u2013Roch linear algebra vanishes to order m (a power of p) at each rational point; counting zeros against poles, with m \u2248 \u221aq",
+     "terms": [
+      "Stepanov method",
+      "Bombieri",
+      "Weil bound",
+      "Riemann\u2013Roch",
+      "auxiliary function",
+      "multiplicity"
+     ]
+    },
+    {
+     "title": "1.2. The dictionary",
+     "start": 27,
+     "end": 27,
+     "summary": "The dictionary curve \u2194 integers: points \u2194 primes, multiplicity \u2194 divisibility, poles \u2194 archimedean size, zeros = poles \u2194 product formula / slope inequality, Frobenius power \u2194 chain of theta lifts",
+     "terms": [
+      "dictionary",
+      "product formula",
+      "slope inequality",
+      "Frobenius"
+     ]
+    },
+    {
+     "title": "1.3. The quantity to bound",
+     "start": 28,
+     "end": 33,
+     "summary": "The quantity to bound: the smoothed Chebyshev function G_\u03b6, its Mellin transform, and Landau's theorem showing a one-sided bound G_\u03b6(x) \u2264 x^\u03b8 forces \u03b6 \u2260 0 for Re s > \u03b8; why the curve analogue fails (Pringsheim)",
+     "terms": [
+      "smoothed Chebyshev function G_\u03b6",
+      "Mellin transform",
+      "Landau theorem",
+      "one-sided bound",
+      "Pringsheim"
+     ]
+    },
+    {
+     "title": "1.4. Divisibility is at most size",
+     "start": 34,
+     "end": 38,
+     "summary": "Divisibility is at most size: Taylor coefficients of CM theta functions divisible to Legendre-type orders at inert primes; Hermitian lattices, Arakelov degree and Bost's slope inequality",
+     "terms": [
+      "CM theta function",
+      "Legendre formula",
+      "inert primes",
+      "Hermitian lattice",
+      "Arakelov degree",
+      "Bost slope inequality"
+     ]
+    },
+    {
+     "title": "1.5. Multiplicity is the bottleneck",
+     "start": 39,
+     "end": 39,
+     "summary": "Why one CM abelian variety stalls at 3/4 and why the exponent 1/2 forces a multiplicity m \u2248 \u221ax",
+     "terms": [
+      "exponent 3/4",
+      "chain length \u221ax",
+      "exponent budget"
+     ]
+    },
+    {
+     "title": "1.6. Theta lifts instead of differentiating integers",
+     "start": 40,
+     "end": 42,
+     "summary": "Theta lifts between definite unitary groups (Gross's algebraic modular forms) as the integer substitute for 'differentiating integers'; each lift collects the forced divisibility again",
+     "terms": [
+      "theta lift",
+      "unitary group",
+      "algebraic modular forms",
+      "Gross",
+      "Rallis inner product",
+      "seesaw"
+     ]
+    },
+    {
+     "title": "1.7. What the outline omits, and where to read on",
+     "start": 43,
+     "end": 44,
+     "summary": "What the outline leaves out: host fields, congruence defects bounded by Sha groups, Galois representations, existence of families; not a verification",
+     "terms": [
+      "host fields",
+      "congruence defects",
+      "Tate\u2013Shafarevich",
+      "Vandiver"
+     ]
+    }
+   ],
+   "summary": "An informal overview of the whole argument by analogy with Stepanov's proof, with proofs of only the elementary steps and pointers to where each step is developed."
+  },
+  {
+   "title": "Chapter 2. The function-field model: Stepanov\u2013Bombieri and the sign-only proof",
+   "start": 45,
+   "end": 108,
+   "sections": [
+    {
+     "title": "2.1. Setting",
+     "start": 46,
+     "end": 48,
+     "summary": "Function fields over F_q, places, divisors, Riemann\u2013Roch; Weil's theorem as the target",
+     "terms": [
+      "function field",
+      "place",
+      "divisor",
+      "Riemann\u2013Roch",
+      "Weil theorem"
+     ]
+    },
+    {
+     "title": "2.2. The zeta function",
+     "start": 49,
+     "end": 51,
+     "summary": "The zeta function, its rationality and functional equation, the L-polynomial and reciprocal roots",
+     "terms": [
+      "zeta function",
+      "L-polynomial",
+      "functional equation",
+      "reciprocal roots"
+     ]
+    },
+    {
+     "title": "2.3. The upper bound",
+     "start": 52,
+     "end": 63,
+     "summary": "The upper bound N \u2264 q + (2g+1)\u221aq via an adapted basis and the auxiliary section (Bombieri's theorem); the square-root error is forced by the method",
+     "terms": [
+      "Bombieri theorem",
+      "auxiliary section",
+      "adapted basis",
+      "square-root barrier"
+     ]
+    },
+    {
+     "title": "2.4. Route 1: the lower bound by Galois averaging",
+     "start": 64,
+     "end": 69,
+     "summary": "Route 1 to the lower bound: Galois averaging over twists of a cover, as Bombieri does",
+     "terms": [
+      "Galois averaging",
+      "twists",
+      "lower bound"
+     ]
+    },
+    {
+     "title": "2.5. The Riemann hypothesis",
+     "start": 70,
+     "end": 70,
+     "summary": "Combining both bounds to get |\u03b1_i| = \u221aq, i.e. RH for curves",
+     "terms": [
+      "Riemann hypothesis for curves"
+     ]
+    },
+    {
+     "title": "2.6. Route 2: a one-sided bound and a Landau\u2013Pringsheim lemma",
+     "start": 71,
+     "end": 79,
+     "summary": "Route 2: a one-sided bound plus a Landau\u2013Pringsheim lemma, and why it corresponds to a lower bound on point counts (the sign reversal)",
+     "terms": [
+      "Landau\u2013Pringsheim lemma",
+      "one-sided bound",
+      "sign reversal"
+     ]
+    },
+    {
+     "title": "2.7. Stepanov's derivative form over a prime field",
+     "start": 80,
+     "end": 84,
+     "summary": "Stepanov's original derivative form over a prime field",
+     "terms": [
+      "Stepanov derivative form",
+      "prime field"
+     ]
+    },
+    {
+     "title": "2.8. The sign-only identity qN = M^k + R",
+     "start": 85,
+     "end": 87,
+     "summary": "The sign-only identity qN = M^k + R for a weighted count on a path quadric",
+     "terms": [
+      "sign-only identity",
+      "qN = M^k + R",
+      "path quadric",
+      "Gauss sum"
+     ]
+    },
+    {
+     "title": "2.9. Iterated Parseval: the bound on R",
+     "start": 88,
+     "end": 90,
+     "summary": "Bounding R by iterated Parseval",
+     "terms": [
+      "iterated Parseval"
+     ]
+    },
+    {
+     "title": "2.10. The sign-only theorem",
+     "start": 91,
+     "end": 95,
+     "summary": "The sign-only theorem, conditional on two cohomological hypotheses; one fails for the quadric as written for some k",
+     "terms": [
+      "conditional theorem",
+      "\u00e9tale cohomology",
+      "hypothesis H2"
+     ]
+    },
+    {
+     "title": "2.11. Multiplicity versus sign",
+     "start": 96,
+     "end": 98,
+     "summary": "Multiplicity versus sign as two different resources",
+     "terms": [
+      "multiplicity versus sign"
+     ]
+    },
+    {
+     "title": "2.12. What the identity is for",
+     "start": 99,
+     "end": 101,
+     "summary": "What the identity is for, and the O(2, n) observation in the note",
+     "terms": [
+      "O(2 n)",
+      "Katz",
+      "Gabber hypersurface"
+     ]
+    },
+    {
+     "title": "2.13. Dictionary with Alp\u00f6ge's argument",
+     "start": 102,
+     "end": 103,
+     "summary": "Dictionary with Alp\u00f6ge's argument: where the analogy is exact, loose or broken",
+     "terms": [
+      "dictionary",
+      "analogy"
+     ]
+    },
+    {
+     "title": "2.14. Remarks and questions",
+     "start": 104,
+     "end": 108,
+     "summary": "Remarks and open questions, including the positivity Weil uses and this route avoids",
+     "terms": [
+      "Weil positivity",
+      "open questions"
+     ]
+    }
+   ],
+   "summary": "The finite-field model in full: a complete Stepanov\u2013Bombieri proof of RH for curves, then a conditional reconstruction of Alp\u00f6ge's 'sign-only' argument, ending in a dictionary that rates how well each step transfers to the integers."
+  },
+  {
+   "title": "Chapter 3. The argument assembled",
+   "start": 109,
+   "end": 138,
+   "sections": [
+    {
+     "title": "3.1. The main theorem",
+     "start": 109,
+     "end": 109,
+     "summary": "Theorem 3.1.1 for all Dirichlet characters; how the archive's final Lean statements relate to it (Mathlib's definitions, primitive characters upstream)",
+     "terms": [
+      "main theorem",
+      "Lean final statements",
+      "Mathlib riemannZeta"
+     ]
+    },
+    {
+     "title": "3.2. The skeleton of the proof",
+     "start": 110,
+     "end": 110,
+     "summary": "The skeleton: a one-sided bound for character-weighted smoothed Chebyshev functions on long windows",
+     "terms": [
+      "skeleton",
+      "smoothed Chebyshev",
+      "windows"
+     ]
+    },
+    {
+     "title": "3.3. The vocabulary of the black boxes",
+     "start": 111,
+     "end": 114,
+     "summary": "Vocabulary: levels, windows, scales, hosts, packages, families, ties",
+     "terms": [
+      "levels",
+      "windows",
+      "scales",
+      "hosts",
+      "packages",
+      "families",
+      "ties"
+     ]
+    },
+    {
+     "title": "3.4. Black box: Galois representations",
+     "start": 115,
+     "end": 115,
+     "summary": "Black box: Galois representations and weak local Langlands maps",
+     "terms": [
+      "Galois representations",
+      "weak local Langlands"
+     ]
+    },
+    {
+     "title": "3.5. Black box: the Sha bound on windows",
+     "start": 116,
+     "end": 116,
+     "summary": "Black box: the Sha bound on windows",
+     "terms": [
+      "Sha bound on windows"
+     ]
+    },
+    {
+     "title": "3.6. Black box: the supply of hosts",
+     "start": 117,
+     "end": 117,
+     "summary": "Black box: supply of hosts and good pairs of auxiliary primes",
+     "terms": [
+      "host supply",
+      "good pairs"
+     ]
+    },
+    {
+     "title": "3.7. Black box: the covolume bound",
+     "start": 118,
+     "end": 118,
+     "summary": "Black box: the covolume bound",
+     "terms": [
+      "covolume bound"
+     ]
+    },
+    {
+     "title": "3.8. Black box: packages, Green's parametrisation, tied families",
+     "start": 119,
+     "end": 120,
+     "summary": "Black box: packages, Green's parametrisation, tied families",
+     "terms": [
+      "packages",
+      "Green parametrisation",
+      "tied families"
+     ]
+    },
+    {
+     "title": "3.9. Black box: the Chebyshev inequality on windows",
+     "start": 121,
+     "end": 125,
+     "summary": "Black box: the Chebyshev inequality on windows, with the m \u2248 \u221ax bookkeeping",
+     "terms": [
+      "Chebyshev inequality on windows",
+      "m \u2248 \u221ax"
+     ]
+    },
+    {
+     "title": "3.10. Black box: the windowed Landau criterion",
+     "start": 126,
+     "end": 126,
+     "summary": "Black box: the windowed Landau criterion",
+     "terms": [
+      "windowed Landau criterion"
+     ]
+    },
+    {
+     "title": "3.11. Black box: from a half-plane to the critical line",
+     "start": 127,
+     "end": 127,
+     "summary": "Black box: primitive to imprimitive characters and the functional equation",
+     "terms": [
+      "imprimitive characters",
+      "functional equation",
+      "critical line"
+     ]
+    },
+    {
+     "title": "3.12. Proof of the main theorem",
+     "start": 127,
+     "end": 129,
+     "summary": "The six-step proof of the main theorem from the boxes",
+     "terms": [
+      "proof of main theorem"
+     ]
+    },
+    {
+     "title": "3.13. Chebyshev's comparison and the function-field model",
+     "start": 130,
+     "end": 132,
+     "summary": "Chebyshev's comparison as the common thread with the function-field model",
+     "terms": [
+      "Chebyshev comparison"
+     ]
+    },
+    {
+     "title": "3.14. The status of the inputs",
+     "start": 133,
+     "end": 138,
+     "summary": "Status of the inputs: Table 3.3 of proof kinds, schematic definitions, static scans of the archive, and the list of open points",
+     "terms": [
+      "status of inputs",
+      "Table 3.3",
+      "open points",
+      "schematic definitions"
+     ]
+    }
+   ],
+   "summary": "States the main theorem and proves it in a few lines from twenty black boxes, each restated with its role and the chapter that treats it, then records exactly what the book does and does not establish for each."
+  },
+  {
+   "title": "Chapter 4. Smoothed Chebyshev functions and a windowed Landau criterion",
+   "start": 139,
+   "end": 148,
+   "sections": [
+    {
+     "title": "4.1. Conventions for Chapters 3\u201312",
+     "start": 139,
+     "end": 139,
+     "summary": "Conventions for Chapters 3\u201312: attributions and the four kinds of proof block",
+     "terms": [
+      "proof kinds",
+      "attribution conventions"
+     ]
+    },
+    {
+     "title": "4.2. Smoothed Chebyshev functions",
+     "start": 140,
+     "end": 140,
+     "summary": "Smoothed Chebyshev functions twisted by Dirichlet characters and their normalisation",
+     "terms": [
+      "twisted Chebyshev function",
+      "normalisation"
+     ]
+    },
+    {
+     "title": "4.3. The windowed Landau criterion",
+     "start": 141,
+     "end": 144,
+     "summary": "The windowed Landau criterion, proved in outline via Taylor coefficients of a Laplace transform; its novelty is left as a question",
+     "terms": [
+      "windowed Landau criterion",
+      "Laplace transform",
+      "Mellin transform"
+     ]
+    },
+    {
+     "title": "4.4. Levels",
+     "start": 145,
+     "end": 145,
+     "summary": "Levels: finite sets of primitive characters closed under inversion, with positive weights so real zeros all push one way",
+     "terms": [
+      "levels",
+      "kept characters",
+      "positive weights",
+      "real zeros"
+     ]
+    },
+    {
+     "title": "4.5. From a half-plane to the critical line",
+     "start": 146,
+     "end": 148,
+     "summary": "From the half-plane Re s > 1/2 to the critical line, via Euler factors and the functional equation",
+     "terms": [
+      "functional equation",
+      "critical line",
+      "imprimitive characters"
+     ]
+    }
+   ],
+   "summary": "The analytic end: a one-sided bound for a positive combination of smoothed twisted Chebyshev functions, assumed only on windows [Y, Y^(1+\u03b4)], already forces a zero-free half-plane."
+  },
+  {
+   "title": "Chapter 5. Host fields and averaging over auxiliary primes",
+   "start": 149,
+   "end": 162,
+   "sections": [
+    {
+     "title": "5.1. Frames and hosts",
+     "start": 149,
+     "end": 150,
+     "summary": "Frames and host fields: abelian CM fields containing an imaginary quadratic field, built from \u03c8 and auxiliary primes q, d",
+     "terms": [
+      "host field",
+      "CM field",
+      "imaginary quadratic field",
+      "frame"
+     ]
+    },
+    {
+     "title": "5.2. Kept and bounded characters",
+     "start": 151,
+     "end": 152,
+     "summary": "Kept versus bounded characters of the host's Galois group",
+     "terms": [
+      "kept characters",
+      "bounded characters"
+     ]
+    },
+    {
+     "title": "5.3. Scales and the explicit-formula condition",
+     "start": 153,
+     "end": 154,
+     "summary": "Scales and the explicit-formula condition",
+     "terms": [
+      "scales",
+      "explicit formula"
+     ]
+    },
+    {
+     "title": "5.4. Averaging over the auxiliary prime",
+     "start": 155,
+     "end": 158,
+     "summary": "Averaging over the auxiliary prime: head sums and boxes, and why most pairs (q, d) are good",
+     "terms": [
+      "auxiliary primes",
+      "averaging",
+      "good pairs",
+      "head sum"
+     ]
+    },
+    {
+     "title": "5.5. The strength of the analytic input",
+     "start": 159,
+     "end": 162,
+     "summary": "How strong the analytic input is, and which classical results it cites; one uniformity constant is not reconstructed",
+     "terms": [
+      "analytic input",
+      "L'(1 \u03c7)/L(1 \u03c7)",
+      "uniformity"
+     ]
+    }
+   ],
+   "summary": "Builds the CM host fields in which a primitive character \u03c8 is placed, and controls the unwanted characters of their Galois groups by averaging over two auxiliary primes."
+  },
+  {
+   "title": "Chapter 6. The balance identity and Fourier analysis on the Galois group",
+   "start": 163,
+   "end": 176,
+   "sections": [
+    {
+     "title": "6.1. The additive model and arithmetic data",
+     "start": 163,
+     "end": 168,
+     "summary": "The additive model and the arithmetic data; the balance identity by orthogonality of characters on the Galois group",
+     "terms": [
+      "balance identity",
+      "Legendre formula",
+      "Fourier analysis on Galois group",
+      "orthogonality"
+     ]
+    },
+    {
+     "title": "6.2. Thick and thin weights",
+     "start": 169,
+     "end": 170,
+     "summary": "Thick and thin weights coming from the theta tower's geometry",
+     "terms": [
+      "thick weights",
+      "thin weights"
+     ]
+    },
+    {
+     "title": "6.3. Averaging over shifts and top places",
+     "start": 171,
+     "end": 176,
+     "summary": "Averaging over shifts and top places; the core Chebyshev bound and where the square root appears",
+     "terms": [
+      "averaging over shifts",
+      "top places",
+      "core bound",
+      "square root"
+     ]
+    }
+   ],
+   "summary": "Proves the balance identity, which writes a Legendre-type prime sum as a main term plus twisted Chebyshev functions, and outlines the core bound that turns a bound on the prime sum into a bound on the combination G."
+  },
+  {
+   "title": "Chapter 7. Hermitian lattices, the theta tower and slope records",
+   "start": 177,
+   "end": 192,
+   "sections": [
+    {
+     "title": "7.1. The tower of unitary groups and the theta chain",
+     "start": 177,
+     "end": 179,
+     "summary": "The tower of Hermitian spaces and the theta chain U(X_0) \u2192 \u2026 \u2192 U(X_m)",
+     "terms": [
+      "unitary group tower",
+      "theta chain",
+      "Hermitian space"
+     ]
+    },
+    {
+     "title": "7.2. Hermitian lattices and slopes",
+     "start": 180,
+     "end": 181,
+     "summary": "Hermitian lattices, slopes and Bost's slope inequality; packages of automorphic data",
+     "terms": [
+      "Hermitian lattice",
+      "slope",
+      "Bost inequality",
+      "packages"
+     ]
+    },
+    {
+     "title": "7.3. The slope record",
+     "start": 182,
+     "end": 186,
+     "summary": "The slope record: the list of sizes and inequalities the analysis uses",
+     "terms": [
+      "slope record",
+      "size datum"
+     ]
+    },
+    {
+     "title": "7.4. The frame theorem",
+     "start": 187,
+     "end": 189,
+     "summary": "The frame theorem: a rank-weighted comparison of many source lattices with one target lattice",
+     "terms": [
+      "frame theorem",
+      "frame operator"
+     ]
+    },
+    {
+     "title": "7.5. The archimedean side",
+     "start": 190,
+     "end": 190,
+     "summary": "The archimedean side: Stirling terms and a Chowla\u2013Selberg-type CM period",
+     "terms": [
+      "archimedean side",
+      "Stirling",
+      "Chowla\u2013Selberg period"
+     ]
+    },
+    {
+     "title": "7.6. The finite side",
+     "start": 191,
+     "end": 192,
+     "summary": "The finite side: Bessel-type periods and the forced divisibility at inert primes",
+     "terms": [
+      "finite side",
+      "Bessel period",
+      "divisor bound"
+     ]
+    }
+   ],
+   "summary": "The geometric side: the tower of unitary groups and the chain of theta lifts over a host field, Hermitian lattices and their slopes, and the 'slope record' through which the geometry reaches the analysis."
+  },
+  {
+   "title": "Chapter 8. Families and the covolume bound",
+   "start": 193,
+   "end": 200,
+   "sections": [
+    {
+     "title": "8.1. Families and closed properties",
+     "start": 193,
+     "end": 193,
+     "summary": "Families and closed properties: constants fixed before the family is chosen",
+     "terms": [
+      "families",
+      "closed properties",
+      "thresholds"
+     ]
+    },
+    {
+     "title": "8.2. The covolume bound",
+     "start": 194,
+     "end": 196,
+     "summary": "The covolume bound and the order in which it fixes its objects",
+     "terms": [
+      "covolume bound",
+      "integral automorphic forms"
+     ]
+    },
+    {
+     "title": "8.3. How arithmetic geometry enters",
+     "start": 197,
+     "end": 200,
+     "summary": "How arithmetic geometry enters: integral models and toroidal compactifications of Shimura varieties, arithmetic Hilbert\u2013Samuel, Moriwaki's bigness theorem, vanishing theorems; each used in a specific, sometimes weakened form; the proof is not reproduced",
+     "terms": [
+      "arithmetic geometry",
+      "Shimura variety",
+      "toroidal compactification",
+      "arithmetic Hilbert\u2013Samuel",
+      "Moriwaki bigness",
+      "Arakelov geometry"
+     ]
+    }
+   ],
+   "summary": "Collects packages into families and states the covolume bound for lattices of integral automorphic forms, the single place where arithmetic geometry enters."
+  },
+  {
+   "title": "Chapter 9. The Chebyshev inequality on windows",
+   "start": 201,
+   "end": 210,
+   "sections": [
+    {
+     "title": "9.1. Window hypotheses and ties",
+     "start": 201,
+     "end": 203,
+     "summary": "Window hypotheses and ties between families and slope records",
+     "terms": [
+      "window hypotheses",
+      "ties"
+     ]
+    },
+    {
+     "title": "9.2. The gap bound",
+     "start": 204,
+     "end": 206,
+     "summary": "The gap bound: upper and lower slope clauses cancel the heights",
+     "terms": [
+      "gap bound",
+      "slope clauses",
+      "cancellation"
+     ]
+    },
+    {
+     "title": "9.3. The square-root bookkeeping",
+     "start": 207,
+     "end": 207,
+     "summary": "The square-root bookkeeping that picks m \u2248 \u221ax",
+     "terms": [
+      "square-root bookkeeping",
+      "chain length m",
+      "balance x/m"
+     ]
+    },
+    {
+     "title": "9.4. The Chebyshev inequality on windows",
+     "start": 208,
+     "end": 210,
+     "summary": "The inequality itself, as linear arithmetic once the gap bound is in place",
+     "terms": [
+      "Chebyshev inequality on windows",
+      "exponent 1/2"
+     ]
+    }
+   ],
+   "summary": "Proves the Chebyshev inequality on windows: for a family tied at every large scale, G(x) \u2264 x^(1/2+O(\u03b5)); the exponent 1/2 is the balance of x/m against m at m = \u221ax."
+  },
+  {
+   "title": "Chapter 10. Tate\u2013Shafarevich groups of Tate twists",
+   "start": 211,
+   "end": 228,
+   "sections": [
+    {
+     "title": "10.1. The groups and the bound",
+     "start": 211,
+     "end": 213,
+     "summary": "The groups and the bound",
+     "terms": [
+      "Tate\u2013Shafarevich",
+      "Tate twist",
+      "Galois cohomology",
+      "Selmer",
+      "congruence defects"
+     ]
+    },
+    {
+     "title": "10.2. Eigenspaces and the case split",
+     "start": 214,
+     "end": 216,
+     "summary": "Eigenspaces under the abelian Galois group and the case split by the sign of complex conjugation (proved in full)",
+     "terms": [
+      "eigenspaces",
+      "case split",
+      "complex conjugation"
+     ]
+    },
+    {
+     "title": "10.3. The minus part",
+     "start": 217,
+     "end": 218,
+     "summary": "The minus part",
+     "terms": [
+      "minus part"
+     ]
+    },
+    {
+     "title": "10.4. The plus part",
+     "start": 219,
+     "end": 224,
+     "summary": "The plus part, where bounds of Vandiver/Greenberg strength are needed and no published result of that strength is known; a Kato-type vanishing theorem is used without outline",
+     "terms": [
+      "plus part",
+      "Vandiver conjecture",
+      "Greenberg conjecture",
+      "Kato vanishing"
+     ]
+    },
+    {
+     "title": "10.5. The Sha bound on windows",
+     "start": 225,
+     "end": 228,
+     "summary": "The Sha bound on windows by a pigeonhole argument, which is why everything else must work on windows",
+     "terms": [
+      "Sha bound on windows",
+      "pigeonhole"
+     ]
+    }
+   ],
+   "summary": "States a uniform bound for Tate\u2013Shafarevich groups of the Tate twists Q_\u2113/Z_\u2113(\u2212e) over host fields, which controls the congruence defects of the theta chain; it holds only on windows."
+  },
+  {
+   "title": "Chapter 11. Galois representations and local\u2013global compatibility",
+   "start": 229,
+   "end": 236,
+   "sections": [
+    {
+     "title": "11.1. Weak local Langlands maps and truncated compatibility",
+     "start": 229,
+     "end": 233,
+     "summary": "Weak local Langlands maps and truncated compatibility (asks less than the published theorems); outline of the construction",
+     "terms": [
+      "Galois representations",
+      "weak local Langlands",
+      "local\u2013global compatibility",
+      "CM field",
+      "polarized cuspidal",
+      "Caraiani"
+     ]
+    },
+    {
+     "title": "11.2. A proposition on compact groups",
+     "start": 234,
+     "end": 235,
+     "summary": "A proposition on compact groups used in building the representations, stated without outline",
+     "terms": [
+      "compact groups",
+      "eigenvalues"
+     ]
+    },
+    {
+     "title": "11.3. What the Sha bound uses",
+     "start": 236,
+     "end": 236,
+     "summary": "Exactly what the Sha bound needs from this chapter",
+     "terms": [
+      "Sha bound inputs"
+     ]
+    }
+   ],
+   "summary": "States the Galois-theoretic input: weak local Langlands maps and a truncated local\u2013global compatibility for regular algebraic polarized cuspidal representations over CM fields, which the archive proves rather than assumes."
+  },
+  {
+   "title": "Chapter 12. Existence of families",
+   "start": 237,
+   "end": 248,
+   "sections": [
+    {
+     "title": "12.1. The supply of hosts",
+     "start": 237,
+     "end": 239,
+     "summary": "Supply of hosts on windows; whether the scale changes between the Sha windows and the host windows is left open",
+     "terms": [
+      "host supply",
+      "windows",
+      "scale"
+     ]
+    },
+    {
+     "title": "12.2. Green's parametrization",
+     "start": 240,
+     "end": 240,
+     "summary": "Green's parametrisation of cuspidal characters of GL_n(F_p), used only for local types",
+     "terms": [
+      "Green parametrisation",
+      "cuspidal characters",
+      "GL_n(F_p)"
+     ]
+    },
+    {
+     "title": "12.3. Admissible families",
+     "start": 241,
+     "end": 243,
+     "summary": "Admissible families and tied families",
+     "terms": [
+      "admissible families",
+      "tied families"
+     ]
+    },
+    {
+     "title": "12.4. Zero-freeness for primitive characters",
+     "start": 244,
+     "end": 244,
+     "summary": "Zero-freeness for primitive characters",
+     "terms": [
+      "zero-free primitive characters"
+     ]
+    },
+    {
+     "title": "12.5. What this chapter supplies to the main proof",
+     "start": 245,
+     "end": 248,
+     "summary": "What the chapter supplies to the main proof",
+     "terms": [
+      "summary"
+     ]
+    }
+   ],
+   "summary": "The existence results: host fields on windows, Green's parametrisation, admissible families, and from them zero-freeness of L(s, \u03c8) for primitive \u03c8 in Re s > 1/2."
+  },
+  {
+   "title": "Appendix A. Software and AI methods",
+   "start": 249,
+   "end": 262,
+   "sections": [
+    {
+     "title": "A.1. Typesetting",
+     "start": 250,
+     "end": 250,
+     "summary": "Typesetting",
+     "terms": [
+      "typesetting"
+     ]
+    },
+    {
+     "title": "A.2. Agent management",
+     "start": 251,
+     "end": 251,
+     "summary": "Agent management: a coordinating session with subagents",
+     "terms": [
+      "agent management",
+      "subagents",
+      "Claude Code"
+     ]
+    },
+    {
+     "title": "A.3. Natural language proofs",
+     "start": 252,
+     "end": 252,
+     "summary": "Natural-language proofs and what the agents drafted",
+     "terms": [
+      "natural language proofs"
+     ]
+    },
+    {
+     "title": "A.4. Adversarial reviews",
+     "start": 253,
+     "end": 253,
+     "summary": "Adversarial reviews (Chapters 1\u20133 had one AI review; 4\u201312 none as chapters)",
+     "terms": [
+      "adversarial review"
+     ]
+    },
+    {
+     "title": "A.5. AI assisted computations",
+     "start": 254,
+     "end": 254,
+     "summary": "AI-assisted computations, such as brute-force checks on small curves",
+     "terms": [
+      "Python checks"
+     ]
+    },
+    {
+     "title": "A.6. AI statement generation",
+     "start": 255,
+     "end": 255,
+     "summary": "AI statement generation",
+     "terms": [
+      "statement generation"
+     ]
+    },
+    {
+     "title": "A.7. Proofreading and adversarial review",
+     "start": 255,
+     "end": 256,
+     "summary": "Proofreading and adversarial review; results that originated with the agents",
+     "terms": [
+      "proofreading",
+      "agent-originated results"
+     ]
+    },
+    {
+     "title": "A.8. Literature review",
+     "start": 257,
+     "end": 257,
+     "summary": "Literature review against zbMATH, Crossref and arXiv; no prior occurrence found for the windowed Landau criterion",
+     "terms": [
+      "literature review",
+      "zbMATH",
+      "novelty"
+     ]
+    },
+    {
+     "title": "A.9. Formalization",
+     "start": 258,
+     "end": 258,
+     "summary": "Formalization: the archive read as text, not built; it contains meta code, mechanical assembly and in-archive proofs of about 190 named theorems",
+     "terms": [
+      "Lean archive static reading",
+      "meta code"
+     ]
+    },
+    {
+     "title": "A.10. Record keeping and token accounting",
+     "start": 259,
+     "end": 262,
+     "summary": "Record keeping and token accounting by task",
+     "terms": [
+      "token accounting",
+      "cost"
+     ]
+    }
+   ],
+   "summary": "How the book was made: agents, models, sources, reviews, computations, literature checks, the static reading of the Lean archive, and token accounting."
+  }
+ ],
+ "title": "Notes on Alp\u00f6ge's Proof of the Riemann Hypothesis",
+ "byline": "AI-generated lecture notes (Claude Fable 5.2 and Claude Opus 5.5 in Claude Code), printed by Taylor Dupuy \u00b7 21 November 2026",
+ "note": "PDF page = printed page + 14 (printed page 1, the start of the Introduction, is PDF page 15). The preface (PDF 7) and Alp\u00f6ge's four-page note, which the book reproduces in full (PDF 9\u201314), are not broken out; nor is the bibliography (PDF 263\u2013271). **Read with care:** the book says on its first page that AI agents wrote it, that no human has reviewed it, and that it does not verify the argument or the Lean archive. It proves the main theorem only relative to twenty black boxes, and gives complete proofs for just a few of them (its Table 3.3, PDF 135). Its account of the archive comes from reading the Lean source as text; the archive was not built. The Lean archive itself was declared verified by the Lean and Mathlib communities on 21 November; see [Math Deep Dives \u203a RH](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#rh-verified). Summaries are in our own words; the text stays in the PDF.",
+ "summary": "The first book-length account of Levent Alp\u00f6ge's Lean-only proof of RH and GRH for Dirichlet L-functions, written for professional mathematicians and graduate students within a day of the release. It is organised top-down. Chapter 1 explains the idea through Stepanov's elementary proof of RH for curves over finite fields: a function vanishing to order m at every rational point is weighed against its poles. Over the integers the product formula plays the part of 'zeros equal poles' ('divisibility is at most size'), and a chain of about \u221ax theta lifts between definite unitary groups supplies the missing multiplicity. Chapter 2 gives the finite-field model in full (Stepanov\u2013Bombieri), plus a conditional reconstruction of the 'sign-only' identity qN = M^k + R from Alp\u00f6ge's footnote. Chapter 3 states the main theorem and proves it from twenty black boxes. Chapters 4\u201312 treat those boxes: a windowed Landau criterion for smoothed Chebyshev functions, CM host fields and averaging over auxiliary primes, the balance identity, Hermitian lattices with Bost slopes and the theta tower, the covolume bound (where arithmetic geometry enters), the Chebyshev inequality on windows (where the exponent 1/2 comes from balancing x/m against m), Tate\u2013Shafarevich groups of Tate twists, Galois representations with truncated local\u2013global compatibility, and the existence of families. An appendix documents the agents, reviews and token costs. The book is careful about what it does not establish: it marks every statement as a full proof, an outline of Alp\u00f6ge's route, a description of inputs or an explanatory sketch, and lists the points it leaves open."
+}

@@ -614,5 +614,13 @@
   "Kyo: a book-style guide to the documentation",
   "Kyo maintainers (getkyo.io)",
   "The getkyo.io module docs arranged as a book: A < S, prelude and core effects, kernel, styles, concurrency, schema, HTTP, AI, interop."
+ ],
+ [
+  "alpoge-riemann-hypothesis-notes",
+  "riemann",
+  "Mathematics",
+  "Notes on Alpöge's Proof of the Riemann Hypothesis",
+  "AI-generated (Claude), printed by Taylor Dupuy",
+  "Lecture notes on the Lean-only RH/GRH proof: Stepanov's method as the model, the proof from twenty black boxes, then the tools; unreviewed."
  ]
 ]
