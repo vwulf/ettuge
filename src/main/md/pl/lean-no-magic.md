@@ -1,6 +1,6 @@
 # No Magic: Proving 1 + 2 + … + n = n(n+1)/2 from Paper to Lean's Kernel
 
-*Started Nov 22, 2026 · last updated Nov 23, 2026 · Vishwas*
+*Started Nov 22, 2026 · last updated Nov 24, 2026 · Vishwas*
 
 > **Work in progress.** The Lean code below was written against core Lean 4 but has **not yet been compiled**. Lemma names and argument orders may need small fixes. This page will be refined once the code has been run in a current toolchain.
 
@@ -141,6 +141,17 @@ Two details are worth noticing.
 **The goal for k + 1 is `(k + 1) * (k + 1 + 1)`, and the `calc` ends in `(k + 1) * (k + 2)`.** Lean accepts the match because `k + 1 + 1` and `k + 2` compute to the same number. Again, no step is waved through; the computation is checked.
 
 **Why not Mathlib?** With Mathlib, the last four `calc` steps collapse into `rw [Nat.mul_add, ih]; ring`. That is shorter, but `ring` hides the algebra, and here the algebra is the point. If a core lemma name has changed in your toolchain, `exact?` will find the current one.
+
+**The same theorem in *Mathematics in Lean*.** Avigad and Massot's textbook proves this exact formula in its section on induction and recursion ([§5.2](https://leanprover-community.github.io/mathematics_in_lean/C05_Elementary_Number_Theory.html#induction-and-recursion); [our breakdown](../Deep-Dives/textbooks/mathematics-in-lean/ch5)), as the theorem `sum_id`. Its strategy is the one used here: clear the division first, then induct on the doubled statement. Three things differ, and each is a trade of transparency for reach:
+
+| This article | *Mathematics in Lean*, `sum_id` |
+| --- | --- |
+| Our own `sumTo`, two equations | Mathlib's `∑ i ∈ range (n + 1), i`, a sum over a finite set |
+| Divide at the end, with `Nat.mul_div_cancel_left` | Divide at the start: `Nat.div_eq_of_eq_mul_right` turns the goal into the doubled form |
+| Unfold the sum by `rfl` | Unfold it by the lemma `Finset.sum_range_succ` |
+| Spell out the algebra in `calc` | Rewrite with `mul_add` and the hypothesis, then `ring` |
+
+Underneath, both elaborate to a `Nat.rec` term that the same kernel checks. The Mathlib version simply asks you to trust more library code on the way: the definition of finite sums, the lemma that peels off the last term, and the `ring` decision procedure. Nothing there is magic either; it is just more of it. *Mathematics in Lean* is the natural place to learn that style, since it teaches formalization the way Mathlib does it, starting from calculation and the logical connectives.
 
 [↑ Contents](#contents)
 
@@ -419,5 +430,6 @@ Every layer is math, described in a way a machine can check. The tactics, the el
 - [Calculus of constructions](https://en.wikipedia.org/wiki/Calculus_of_constructions), Wikipedia, General traits
 - [Lean and AI Formalization](lean-ai-formalization.md), §1 (foundations) and §11 (kernel trust)
 - [MiniLean4](https://learn.h5i.dev/), Hideaki Takahashi: a Lean-style kernel in Rust, built up chapter by chapter
+- [Mathematics in Lean](../Deep-Dives/textbooks/mathematics-in-lean), Jeremy Avigad and Patrick Massot, textbook breakdown; §5.2 proves this article's theorem with Mathlib (`sum_id`), chapter 3 teaches the connectives of [section 4](#s4) as proof moves, and §6.3 builds inductive types like `Nat` from scratch ([online](https://leanprover-community.github.io/mathematics_in_lean/))
 - [Functional Programming in Lean](../Deep-Dives/textbooks/functional-programming-in-lean), textbook breakdown; chapter 3 (propositions and proofs) and chapter 9 (tactics and induction) are the natural next reading
 - Mario Carneiro, *The Type Theory of Lean* (MS thesis, Carnegie Mellon, 2019)
