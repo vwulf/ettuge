@@ -76,6 +76,7 @@ Partial PDFs (samples, excerpts, unfinished drafts) are marked as such on their 
 - [Linear Algebra for Computer Vision, Robotics, and Machine Learning](gallier-linear-algebra-vision-robotics-ml) (Jean Gallier and Jocelyn Quaintance): Rigorous, computational linear algebra: factorizations, norms, spectral theory, quaternions, Laplacians, SVD.
 - [Linear Algebra via Exterior Products](linear-algebra-via-exterior-products) (Sergei Winitzki): Coordinate-free linear algebra where determinants, trace and Jordan form come from wedge products.
 - [Linear Algebra, Theory and Applications](kuttler-linear-algebra) (Kenneth Kuttler): Matrix computation and theory: factorizations, canonical forms, spectral theory, SVD, norms, numerics.
+- [Mathematics in Lean](mathematics-in-lean) (Avigad, Massot): Formalizing mathematics in Lean 4 with Mathlib: calculation, logic, sets, number theory, combinatorics, structures and hierarchies, algebra, linear algebra, topology, calculus, measure theory.
 - [Module Theory: An Approach to Linear Algebra](blyth-module-theory) (T. S. Blyth): Linear algebra over rings: exact sequences, projective and injective modules, tensors, PIDs and canonical forms.
 - [Notes on Alpöge's Proof of the Riemann Hypothesis](alpoge-riemann-hypothesis-notes) (AI-generated (Claude), printed by Taylor Dupuy): Lecture notes on the Lean-only RH/GRH proof: Stepanov's method as the model, the proof from twenty black boxes, then the tools; unreviewed.
 - [Surreal Numbers (opening chapters)](surreal-numbers) (Knuth): Conway’s numbers rediscovered as a story
