@@ -1,7 +1,7 @@
 ---
 title: Math Deep Dives
 created: 2026-11-13
-updated: 2026-11-21
+updated: 2026-11-25
 source: deep-dive reading sessions on papers and books (Oct–Nov 2026)
 ---
 
@@ -36,6 +36,10 @@ These notes come from close readings of papers, preprints and books, mostly the 
     - [Semidefinite programming in theory and practice](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#sdp)
     - [The ETH refutation](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#eth-refutation)
     - [Chowla's cosine problem](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#chowla-cosine)
+    - [A Euclidean geometry on the tensor spectrum](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#tensor-spectrum)
+    - [ω = 9/4: the upper bound held, the lower bound is the shock](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#matmul-nine-fourths)
+    - [The Fourier transform needs N√log N linear gates](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#fft-sqrt-log)
+    - [VP ≠ VNP, twice in one day](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#vp-vnp)
 3. [Number theory](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3)
     - [The quasi-Riemann hypothesis: 7/8 in Lean, 11/12 for humans](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#quasi-rh)
     - [Why a 7/8 wall suffices for most "assume RH" proofs](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#quasi-rh-applications)
@@ -53,6 +57,7 @@ These notes come from close readings of papers, preprints and books, mostly the 
     - [Context](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#rh-context)
     - [Prime gaps: level of distribution, not zeros](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#prime-gaps)
     - [Goldbach](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#goldbach)
+    - [Factoring in proven L[1/3], and the rumor](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#factoring-l13)
 4. [Millennium problems in mathematical physics](https://vwulf.github.io/ettuge/Deep-Dives/math/ch4)
     - [Navier–Stokes blowup and the credit dispute](https://vwulf.github.io/ettuge/Deep-Dives/math/ch4#navier-stokes)
     - [Yang–Mills: existence without the mass gap](https://vwulf.github.io/ettuge/Deep-Dives/math/ch4#yang-mills)
@@ -104,6 +109,8 @@ A widely shared video walkthrough of the release was checked line by line agains
 | Matrix multiplication | ω ≤ 9/4 | Roughly 30 times the progress of the previous 36 years. First an 83-page messy proof, then eight days later a clean 13-page version with Lean. The self-rewrite is the most interesting signal in the release. |
 | Integer multiplication / FFT | Slightly below n log n | Follows Karatsuba, Schönhage–Strassen and Harvey–van der Hoeven, then shaves 1/2¹⁸² off the log exponent. A galactic algorithm: it only helps for numbers too large to store. |
 | Navier–Stokes blowup (forced) | Finite-time singularity | Lots of narrative, little mathematics; see [§4](ch4). |
+
+Two of these rows moved on Nov 24: OpenAI added a matching lower bound for ω and a tight √log N bound for the Fourier transform; see [§2](ch2#matmul-nine-fourths).
 
 Everything else was named with a one-line claim, including UGC, quasi-RH, BSD and Hodge special cases, Erdős's arithmetic-progression conjecture, Hilbert's 10th over ℚ, Hilbert's 16th, Artin's conjecture and the π exponent. The plane-colouring proof and quasi-RH share no machinery. The first is geometric and topological (unit-distance graphs, the Moser spindle, boundary smoothing). The second is analytic number theory (zero detectors, families of L-functions). **[→ mathematics]**
 
@@ -271,6 +278,77 @@ Why it's easy to confuse with UGC: MaxCut is UGC's most famous problem. But UGC 
 
 ---
 
+<a id="tensor-spectrum"></a>**One new tool sits under three of the Nov 24 results: a Euclidean geometry on Strassen's asymptotic spectrum of tensors.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#tensor-spectrum)
+[Papers › Theory of Computation](https://vwulf.github.io/ettuge/Books/Papers#theory-of-computation) · <https://github.com/openai/math/blob/main/history.md> (family 379)
+
+On Nov 24 OpenAI added seven manuscripts as one family: "Euclidean geometry in the asymptotic spectrum of tensors", plus applications to Valiant's hierarchy, circuit lower bounds for the permanent and Hamiltonian cycle, the Fourier transform, integer multiplication on tapes, the matrix multiplication exponent and sunflowers. Strassen's spectrum is the set of monotone, multiplicative, normalized functions on tensors; by his duality theorem, asymptotic rank and asymptotic restriction are decided by those functions. The new paper reportedly turns spectral points into distances and asks when those distances are Euclidean. Anthropic's independent VP ≠ VNP proof (Nov 23) runs on the same idea, which is the strongest sign that it is real. It also means the results below rise or fall together: if the framework has a gap, most of them do.
+
+This is the exception to the "old tools, new combinations" pattern in [§6](ch6#themes-old-tools). The upper bounds came from recombining known machinery; the lower bounds need a genuinely new invariant. **[→ mathematics; cross-link → algorithms-data-structures]**
+
+---
+
+<a id="matmul-nine-fourths"></a>**OpenAI claims ω = 9/4 exactly: the October upper bound has held up, and the November lower bound would end the hope that ω = 2.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#matmul-nine-fourths)
+[Papers › Theory of Computation](https://vwulf.github.io/ettuge/Books/Papers#theory-of-computation) · [arXiv:2610.30054](https://arxiv.org/abs/2610.30054) · [arXiv:2611.09716](https://arxiv.org/abs/2611.09716) · [arXiv:2610.28627](https://arxiv.org/abs/2610.28627)
+
+ω is the least τ such that n × n matrices multiply in O(n^τ) field operations, equivalently the growth rate of the rank of the tensor ⟨n,n,n⟩.
+
+| Year | Bound | Route |
+|---|---|---|
+| 2026 (Nov 24) | ω ≥ 9/4, so ω = 9/4 | OpenAI, Euclidean spectral point (claimed) |
+| 2026 (Oct) | ω ≤ 9/4 | OpenAI, polynomial-multiplication degenerations |
+| 2026 (Sep) | ω < 2.258 over ℂ | OpenAI, same route |
+| 2025 | ω < 2.371339 | Alman, Duan, Vassilevska Williams et al., laser method |
+| 1969 | ω ≤ 2.81 | Strassen, 7 products for 2 × 2 |
+
+**The upper bound.** Fifty years of progress came from Coppersmith–Winograd tensors and the laser method, which have known barriers well above 2.3. OpenAI instead degenerated polynomial multiplication tensors into matrix multiplication and used the asymptotic spectrum to turn inequalities into an exponent; the argument is non-constructive. Humans re-derived it within weeks: an exposition over every field with barrier results ([2610.30054](https://arxiv.org/abs/2610.30054)), a "tensor value" proof by Doğan, Lysikov, Sakabe and Walter ([2611.09716](https://arxiv.org/abs/2611.09716)), an explicit Strassen-style block identity ([2610.28627](https://arxiv.org/abs/2610.28627)), and an extension to ω over ℤ ([2611.04175](https://arxiv.org/abs/2611.04175)).
+
+**The lower bound.** The 111-page Nov 24 manuscript claims that for every n ≥ 2 any formal arithmetic circuit for the n × n product needs at least ⌈n^(9/4)/2⌉ multiplication or division gates, with additions free, and that the asymptotic rank of ⟨n,n,n⟩ is exactly n^(9/4). For a × b by b × c products, border and asymptotic rank are at least max{ab, bc, ca, (abc)^(3/4)}. The proof is by contradiction: an exponent below 9/4 would let many independent instances be compressed repeatedly, which the new spectral point forbids.
+
+**Why it's a shock.** Every earlier lower-bound technique (flattenings, Koszul, border apolarity) tops out near 3n² and cannot lift ω above 2. Beating that needs a spectral point separating ⟨n,n,n⟩ from n², and Strassen's own conjecture that tight tensors have minimal asymptotic rank said none exists; the claim refutes it. It changes no GPU kernel: the count is exact algebraic multiplications, and fast algorithms only pay off at astronomical n.
+
+**What to check.** That "formal arithmetic circuit" and asymptotic rank are stated in Lean as in Bürgisser–Clausen–Shokrollahi, and that the new function really is monotone under degeneration and multiplicative under tensor product. **[→ algorithms-data-structures; cross-link → mathematics]**
+
+---
+
+<a id="fft-sqrt-log"></a>**OpenAI claims the Fourier transform needs exactly N(log N)^(1/2+o(1)) linear gates: Cooley–Tukey is beaten, and nothing can beat the new bound.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#fft-sqrt-log)
+[Papers › Theory of Computation](https://vwulf.github.io/ettuge/Books/Papers#theory-of-computation) · <https://github.com/openai/math/tree/main/preprints/The-logarithmic-exponent-of-finite-Fourier-transforms-November-24-2026>
+
+**The model.** A gate computes au + bv from two earlier values, with arbitrary field constants and unlimited reuse; no products of variables. The field needs the right roots of unity and N must be invertible. This is the unrestricted linear-circuit model. The claim, for any finite abelian group of order N: c·N√(log N) ≤ L(DFT_N) ≤ C_ε·N(log N)^(1/2+ε). It covers inverse transforms, J transforms batched in one circuit (bounds scale by J even with cross-mixing), and the same exponent for formal polynomial multiplication. A sibling paper does integer multiplication on multitape machines, where Harvey–van der Hoeven's n log n was thought optimal.
+
+**Why both halves surprise.**
+- **Upper.** Morgenstern (1973) proved Ω(N log N) for bounded-coefficient circuits, so the new circuits must use large constants, which numerical analysts avoid for stability. That explains why nobody found them. C_ε grows as ε → 0, so a clean O(N√log N) is still open.
+- **Lower.** No superlinear lower bound was known for any explicit linear map in this model; earlier N log N bounds needed bounded coefficients or banned reuse. Valiant's rigidity programme aimed at exactly this and stalled for decades.
+
+The older October result in [§1](ch1#six-results) shaved only 1/2¹⁸² off the log exponent for integer multiplication; this halves it for the transform. FFTW and cuFFT are unaffected: floating point punishes large constants. **[→ algorithms-data-structures; cross-link → mathematics]**
+
+---
+
+<a id="vp-vnp"></a>**Anthropic and OpenAI each claimed VP ≠ VNP over every field on Nov 23, four hours apart, with Lean proofs; the open question is whether the Lean definitions are the real ones.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#vp-vnp)
+[Papers › Theory of Computation](https://vwulf.github.io/ettuge/Books/Papers#theory-of-computation) · <https://github.com/anthropics/formal-math> · <https://github.com/openai/math>
+
+**The question (Valiant, 1979).** VP is polynomial families of polynomial degree with polynomial-size arithmetic circuits; the determinant is in it. VNP is exponential sums of VP polynomials over Boolean assignments; the permanent is complete for it outside characteristic 2. VP ≠ VNP says the permanent has no polynomial-size circuit. Boolean separations would imply it over suitable fields, not conversely, so it does not settle P vs NP. Before this week the best general lower bound for the m × m permanent was about m² log m.
+
+| | Anthropic (Claude) | OpenAI |
+|---|---|---|
+| Paper | "VP ≠ VNP over every field", 70 pp | "VP and VNP are different", 30 pp; subsumed Nov 24 |
+| Bound | permanent > m^(c(log m)^(1/3)) gates, i.e. exp(Ω(log^(4/3) m)) | exp(Ω(log^(5/4) n)) for border circuits; Lean proves > n^C for every C |
+| Hard family | permanent (char ≠ 2); Hamiltonian cycle polynomial (every field) | explicit multilinear VNP-complete family; permanent and Hamiltonian cycle |
+| Approximate circuits | yes: VNP ⊄ closure of VP | in the paper, not in Lean |
+| Lean | 324 files, about 73k lines; Comparator plus the independent nanoda kernel | reported about 440k lines |
+
+On Nov 24 OpenAI pushed on to the whole hierarchy, VF ⊊ VBP ⊊ VP ⊊ VNP over every field, using a grid state-sum polynomial needing n^Ω((log n)^(1/12)) size. The repo notes its result was obtained on Nov 6.
+
+**Anthropic's proof shape.**
+1. Reduce: a small permanent circuit gives a small circuit for an auxiliary polynomial, so bound that.
+2. Measure circuits through tensors, with spectral points defining distances.
+3. Split on a field-dependent dichotomy. **Flat case:** distances are Euclidean and a size bound follows. **Contracting case:** distances fall short of Euclidean by a fixed factor, and the argument ends in a diagonalization.
+4. Show one case holds over every field, without saying which, even over ℝ.
+5. In characteristic 2, where permanent = determinant, use the Hamiltonian cycle polynomial.
+
+**What to check.** Statement fidelity first: Anthropic's README says no machine checks that the 98-line `Statement.lean` says what is claimed, and no human has read either proof. Second, the contracting case ends in diagonalization, which the paper has not analysed against relativization- or algebrization-style barriers or algebraic natural proofs. Both bounds are quasipolynomial, far below the conjectured exponential. **[→ algorithms-data-structures; cross-link → mathematics]**
+
+---
+
 <a id="ch3"></a>
 ## 3. Number theory
 
@@ -416,6 +494,29 @@ The deeper point: RH controls how far primes drift from their average density, w
 | Thin prime sets | Ternary still holds for Piatetski-Shapiro and digit-restricted primes |
 
 "Every n is a sum of two primes" fails for odd n whenever n − 2 is composite. 11 is the first failure, followed by 17, 23, 27, 29, 35, 37. Almost all odd numbers fail, which is why the conjecture is stated for evens. **[→ mathematics]**
+
+---
+
+<a id="factoring-l13"></a>**Google's Cogentic agent claims the first proven L[1/3] factoring algorithm, which is a theorem about provability, not a threat to RSA; the polynomial-time rumor has no public evidence.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#factoring-l13)
+[Papers › Theory of Computation](https://vwulf.github.io/ettuge/Books/Papers#theory-of-computation) · Google Research GitHub, Cogentic folder (Nov 25)
+
+L_N[α, c] = exp((c + o(1))(ln N)^α (ln ln N)^(1−α)); α = 0 is polynomial in log N, α = 1 exponential. The number field sieve reaches L[1/3, 1.923] only by assuming that certain polynomial values are smooth as often as random numbers. Nobody could prove that, so rigorous algorithms stalled at Lenstra–Pomerance's L[1/2, 1] (1992) for 34 years.
+
+Rough cost as log₂ of the formula with o(1) dropped (order of magnitude only):
+
+| Method | Bound | Status | RSA-1024 | RSA-2048 |
+|---|---|---|---|---|
+| Number field sieve | L[1/3, 1.923] | heuristic | ~2^87 | ~2^117 |
+| Lenstra–Pomerance (1992) | L[1/2, 1] | proven, randomized | ~2^98 | ~2^146 |
+| Cogentic (Nov 25, 2026) | L[1/3, 105] | claimed proven, Las Vegas | ~2^4738 | ~2^6382 |
+| Cogentic, deterministic | exp(3(ln N)^(3/4)) | claimed proven | ~2^595 | ~2^1001 |
+| Trial division | √N | proven | 2^512 | 2^1024 |
+
+With constant 105 the new algorithm is slower than trial division at real key sizes; the content is that the sieve's *shape* is now a theorem. It certifies each prime factor with AKS, so it never errs. Public summaries don't say how it avoids the smoothness heuristic, and an unconditional smoothness estimate of that kind would be a major result in its own right.
+
+The same commit has five more papers: deterministic factoring (also quadratic nonresidues in L[1/2], against Burgess), discrete logs in small-characteristic fields in (pn)^o(log n), an exact polynomial-time 1/5-approximate bimatrix Nash equilibrium, log-rank communication complexity O(r^(1/2 − 5×10⁻⁶)), and edge reconstruction for graphs with m ≥ 1000n edges. The Lean files are promised "in a companion submission" and were not public; there is no outside review, and each README says the only human input was the prompt.
+
+**The rumor.** A Nov 21 post claimed a polynomial-time classical factoring algorithm was "close", naming no team or method. Scott Aaronson said on Nov 24–25 that he is nearly certain from several sources that Anthropic and/or OpenAI hold cryptographic "bombshells", but much less sure that fast factoring is one. Neither lab has commented. Post-quantum schemes (ML-KEM, ML-DSA) don't rest on factoring. **[→ mathematics; cross-link → algorithms-data-structures]**
 
 ---
 
@@ -573,6 +674,6 @@ Related popular books in the catalogue: [Fermat's Last Theorem](https://vwulf.gi
 - **Credit.** Navier–Stokes and Buckmaster–Alpöge.
 - **Readability.** Moshkovitz on UGC, Radziwiłł on quasi-RH.
 
-<a id="themes-old-tools"></a>**Old tools, new combinations.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch6#themes-old-tools) The landmark proofs mostly assembled existing machinery in combinations nobody had tried. Quasi-RH used a family of L-functions that had been overlooked. UGC used the 2-to-2 inverse theorem plus a new gadget. Chowla used a 1970s spectral fact plus extremal MaxCut. Yang–Mills completed Bałaban's 1980s programme. Experts' main surprise was that the existing toolkits were already strong enough.
+<a id="themes-old-tools"></a>**Old tools, new combinations.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch6#themes-old-tools) The landmark proofs mostly assembled existing machinery in combinations nobody had tried. Quasi-RH used a family of L-functions that had been overlooked. UGC used the 2-to-2 inverse theorem plus a new gadget. Chowla used a 1970s spectral fact plus extremal MaxCut. Yang–Mills completed Bałaban's 1980s programme. Experts' main surprise was that the existing toolkits were already strong enough. The Nov 23–24 lower bounds are the exception: ω = 9/4, the Fourier bound and VP ≠ VNP all need a new invariant, the [Euclidean tensor spectrum](ch2#tensor-spectrum).
 
 <a id="themes-walls"></a>**Where the walls still are.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch6#themes-walls) The parity barrier blocks twin primes and binary Goldbach whatever happens to RH, including the Nov 20 claim. Small-Set Expansion stays open after UGC. The unforced Navier–Stokes equations and the Yang–Mills mass gap are untouched. In each case the AI results moved the boundary right up to a known obstruction without crossing it. **[→ mathematics]**

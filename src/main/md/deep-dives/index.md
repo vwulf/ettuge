@@ -4,7 +4,7 @@ Close readings of papers and books, written up after the fact. Each entry gives 
 
 ## Topics
 
-- [Mathematics](math): the 2026 AI-math results, complexity theory, number theory (quasi-RH and the Lean-verified RH proof), the Millennium problems, and formalization
+- [Mathematics](math): the 2026 AI-math results, complexity theory (ω = 9/4, the √log N Fourier bound, VP ≠ VNP), proven L[1/3] factoring, number theory (quasi-RH and the Lean-verified RH proof), the Millennium problems, and formalization
 - [AI and Machine Learning](ai): transformer theory, attention as an algorithm, interpretability, architecture, training at scale, serving
 - [Health and Fitness](fitness): diet and protein, body composition, active rest, lactate, training intensity, *Outlive* against the papers
 - [Ellara Kannada](ellara-kannada): DNS Bhat's books, Pampa's line, auxiliaries, Rudram, Sangam Tamil in Eke, the ಎ-ಎಣಿಕೆ notation, tense-aspect-mood against Chomsky
@@ -35,8 +35,8 @@ The short summaries below link into the topic pages.
 
 **Complexity, number theory and the Millennium problems.** Each has its own section in [Math Deep Dives](math):
 - [the OpenAI release](math/ch1) (what was verified, and the six results covered in depth)
-- [complexity theory](math/ch2): the Unique Games proof skeleton, SDP, the ETH refutation and which problems inherit it, Chowla via MaxCut
-- [number theory](math/ch3): quasi-RH 7/8 and 11/12, Siegel zeros, [the Nov 20 proof of RH and GRH](math/ch3#rh-claim) (Alpöge with Claude, Lean-verified Nov 21; [Masullo's human draft](math/ch3#masullo-grh)), prime gaps, Goldbach
+- [complexity theory](math/ch2): the Unique Games proof skeleton, SDP, the ETH refutation and which problems inherit it, Chowla via MaxCut, and the Nov 23–24 lower bounds from a [Euclidean tensor spectrum](math/ch2#tensor-spectrum): [ω = 9/4](math/ch2#matmul-nine-fourths), [the Fourier transform at N√log N](math/ch2#fft-sqrt-log), [VP ≠ VNP](math/ch2#vp-vnp)
+- [number theory](math/ch3): quasi-RH 7/8 and 11/12, Siegel zeros, [the Nov 20 proof of RH and GRH](math/ch3#rh-claim) (Alpöge with Claude, Lean-verified Nov 21; [Masullo's human draft](math/ch3#masullo-grh)), prime gaps, Goldbach, [Google's proven L[1/3] factoring and the polynomial-time rumor](math/ch3#factoring-l13)
 - [mathematical physics](math/ch4): Navier–Stokes and the credit dispute, the two Yang–Mills efforts, the Gross panel's verdict and the dispute after it, links to holography
 - [books and formalization](math/ch5): Riehl, ATLAS, CLRS
 - [themes across them](math/ch6)

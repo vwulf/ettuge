@@ -15,7 +15,7 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
   - [History of Mathematics](#history-of-mathematics) (7)
   - [Recreational Mathematics](#recreational-mathematics) (3)
   - [Topology and Geometry](#topology-and-geometry) (1)
-- **[Computer Science](#computer-science)** (119)
+- **[Computer Science](#computer-science)** (124)
   - [Algorithms and Data Structures](#algorithms-and-data-structures) (8)
   - [Compilers and Language Implementation](#compilers-and-language-implementation) (8)
   - [Computer Architecture and Parallelism](#computer-architecture-and-parallelism) (4)
@@ -28,7 +28,7 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
   - [Operating Systems and Systems Programming](#operating-systems-and-systems-programming) (1)
   - [Programming Languages and Type Theory](#programming-languages-and-type-theory) (26)
   - [Software Design and Engineering](#software-design-and-engineering) (5)
-  - [Theory of Computation](#theory-of-computation) (14)
+  - [Theory of Computation](#theory-of-computation) (19)
 - **[AI and Machine Learning](#ai-and-machine-learning)** (107)
   - [Applied ML](#applied-ml) (20)
   - [Deep Learning](#deep-learning) (21)
@@ -303,12 +303,15 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 | Paper | Authors | Where | About |
 |-------|---------|-------|-------|
 | **[Agarwal & Ben-David, quantum query complexity](https://arxiv.org/abs/2410.19062)** | Agarwal & Ben-David | arXiv, 2024 | Follow-up on query-complexity separations between quantum and classical computation. 📝 Discussed in my notes: [Lean, Foundations, and the AI Formalization of Mathematics](../FP/lean-ai-formalization.md). |
+| **[Circuit lower bounds for Hamiltonian cycle and the permanent; Paths, trees and grids separate Valiant's hierarchy](https://github.com/openai/math)** | OpenAI | OpenAI manuscripts (openai/math), 2026 | 🔍 Claims VF ⊊ VBP ⊊ VP ⊊ VNP over every field, subsuming OpenAI's Nov 23 "VP and VNP are different". Lean-formalized; not yet reviewed. 📝 [Math Deep Dives › VP ≠ VNP](../Deep-Dives/math/ch2#vp-vnp). |
 | **Complexity and Completeness of Finding Another Solution and Its Application to Puzzles** | Yato | Master's thesis, University of Tokyo, 2003 | Defines ASP-completeness, the complexity of finding another solution given one, and proves it for puzzles such as Slitherlink and Cross Sum. |
 | **[Deterministic n^O(log n) Graph Isomorphism](https://arxiv.org/abs/2611.01399)** | Hajiaghayi & JafariRaviz | arXiv, 2026 | 🔍 A deterministic n^O(log n) graph isomorphism algorithm, shipped with a Lean proof of both correctness and running time. A case study in my Lean-formalization write-up. |
 | **[The Exponential Time Hypothesis is False](https://thenextweb.com/news/openai-exponential-time-hypothesis-false-kakeya-yang-mills)** | OpenAI | OpenAI manuscript (openai/math), 2026 | 🔍 Claims a subexponential algorithm for counting solutions to fixed-width CNF formulas, refuting ETH and with it SETH. Released for scrutiny; verification status as of writing unsettled. |
 | **[Flat Origami is Turing Complete](https://arxiv.org/abs/2309.07932)** | Hull & Zakharevich | arXiv, 2023 | Proves that flat origami, viewed as a computational device, is Turing complete. |
 | **A Fresh Look at the lambda-Calculus** | Accattoli | FSCD 2019 (invited talk) | Bird's-eye view of questions about the untyped lambda-calculus: measuring the complexity of terms, decomposing and implementing evaluation, and how these vary with the evaluation strategy. |
 | **Interaction Combinators** | Lafont | Information and Computation 137, 1997 | Shows that a simple system of three interaction combinators is universal for interaction nets. |
+| **[The logarithmic exponent of finite Fourier transforms](https://github.com/openai/math/tree/main/preprints/The-logarithmic-exponent-of-finite-Fourier-transforms-November-24-2026)** | OpenAI | OpenAI manuscript (openai/math), 2026 | 🔍 Claims the DFT needs exactly N(log N)^(1/2+o(1)) linear gates with arbitrary constants, beating Cooley–Tukey with a matching lower bound. 📝 [Math Deep Dives › Fourier](../Deep-Dives/math/ch2#fft-sqrt-log). |
+| **[The matrix multiplication exponent is nine fourths](https://github.com/openai/math)** | OpenAI | OpenAI manuscript (openai/math), 2026 | 🔍 Adds a lower bound matching OpenAI's October ω ≤ 9/4, claiming ω = 9/4 over every field and refuting ω = 2. 📝 [Math Deep Dives › ω = 9/4](../Deep-Dives/math/ch2#matmul-nine-fourths). |
 | **MIP* = RE** | Ji, Natarajan, Vidick, Wright & Yuen | arXiv:2001.04383, 2020 | Proves that the class MIP* of languages decidable by a classical verifier interacting with entangled quantum provers equals RE, which refutes Connes' embedding conjecture. |
 | **[The need for structure in quantum speedups](https://arxiv.org/abs/0911.0996)** | Aaronson & Ambainis | arXiv, 2009 | Shows that quantum speedups need structure in the problem; total functions allow at most polynomial advantage. 📝 Discussed in my notes: [Lean, Foundations, and the AI Formalization of Mathematics](../FP/lean-ai-formalization.md). |
 | **[A Programming Language Oriented Approach to Computability](https://arxiv.org/abs/1402.2949)** | Karper | Bachelor thesis, University of Bern, 2013 | Develops computability theory using simple programming languages (FOR and WHILE) and transformations between them. |
@@ -316,6 +319,8 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 | **[A proof of the Unique Games Conjecture](https://quantamagazine.org/as-ai-closed-in-on-unique-games-proof-researchers-raced-to-beat-the-machines-20261007)** | OpenAI | OpenAI manuscript (openai/math #102), 2026 | 🔍 A ~50-page claimed proof built on 2-to-2 games and a "latent alphabet gadget", with a Lean verification; a related 2-to-1 conjecture proof appeared alongside it. |
 | **[Simulating Time With Square-Root Space](https://arxiv.org/abs/2502.17779)** | Williams | arXiv, 2025 | Shows that every multitape Turing machine running in time t can be simulated in space O(sqrt(t log t)), improving the 50-year-old Hopcroft-Paul-Valiant bound. |
 | **A Tutorial Introduction to the Lambda Calculus** | Rojas | Lecture notes, FU Berlin, 1997 | Short introduction to the lambda calculus showing arithmetic and recursive definitions without named functions. |
+| **Unconditional Integer Factorization in Time L_N[1/3, O(1)]** | Cogentic (Google Research, Gemini 4) | Google Research GitHub, 2026 | 🔍 Claims a zero-error factoring algorithm in proven expected time L_N[1/3, 105], against the rigorous L[1/2] of 1992; no RSA impact. Lean promised, not yet public. 📝 [Math Deep Dives › Factoring](../Deep-Dives/math/ch3#factoring-l13). |
+| **[VP ≠ VNP over every field](https://github.com/anthropics/formal-math)** | Claude (Anthropic) | Anthropic formal-math repository, 2026 | 🔍 Claims the m × m permanent needs more than m^(c(log m)^(1/3)) gates, separating VP from VNP; Lean-formalized, not yet human-checked. 📝 [Math Deep Dives › VP ≠ VNP](../Deep-Dives/math/ch2#vp-vnp). |
 
 ## AI and Machine Learning
 
