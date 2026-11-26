@@ -1,0 +1,20 @@
+# Verso literate-site configuration (`lake query :literateHtml`).
+landing_page = "NoMagicCompile"
+order = ["NoMagicCompile", "NoMagic"]
+hide_commands = ["import"]
+show_output = ["#eval", "#check", "#print", "#reduce", "run_meta", "set_option", "example"]
+docstrings_as_text = true
+exclude = ["NoMagicCompile.Checks"]
+
+[order_children]
+"NoMagicCompile" = [
+  "NoMagicCompile.S1_Surface",
+  "NoMagicCompile.S2_Notation",
+  "NoMagicCompile.S3_Tactics",
+  "NoMagicCompile.S4_Recursion",
+  "NoMagicCompile.S5_Primitives",
+  "NoMagicCompile.S6_CurryHoward",
+  "NoMagicCompile.S7_Computation",
+  "NoMagicCompile.S8_Kernel",
+  "NoMagicCompile.S9_Checkers",
+]

@@ -7,3 +7,10 @@ name = "NoMagic"
 
 [[lean_lib]]
 name = "NoMagicCompile"
+
+# Documentation only: Verso renders the libraries above as literate web pages
+# (`lake query :literateHtml`). The proofs themselves import nothing from it.
+[[require]]
+name = "verso"
+git = "https://github.com/leanprover/verso"
+rev = "v4.36.0"

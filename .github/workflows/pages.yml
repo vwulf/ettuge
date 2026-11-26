@@ -1183,6 +1183,35 @@ jobs:
         env:
           JEKYLL_ENV: production
 
+      # ── No Magic: literate Lean pages (Verso) ─────────────────────────────────
+      # Builds src/main/lean/no-magic (which also enforces every #guard_msgs in it)
+      # and renders its modules as literate HTML with Verso. The HTML is copied into
+      # the built site after Jekyll, so Jekyll never processes it. Failures here
+      # don't block the rest of the site's deploy.
+      - name: Set up Lean for No Magic
+        id: lean
+        continue-on-error: true
+        uses: leanprover/lean-action@v1
+        with:
+          lake-package-directory: src/main/lean/no-magic
+          auto-config: "false"
+          build: "false"
+          test: "false"
+          lint: "false"
+          use-mathlib-cache: "false"
+
+      - name: Build No Magic literate pages
+        if: steps.lean.outcome == 'success'
+        continue-on-error: true
+        working-directory: src/main/lean/no-magic
+        run: |
+          out=$(lake query :literateHtml | tail -n 1)
+          echo "Verso output: $out"
+          dest="$GITHUB_WORKSPACE/docs/_site/FP/no-magic-literate"
+          mkdir -p "$dest"
+          cp -R "$out"/. "$dest"/
+          ls "$dest" | head
+
       - name: Index with Pagefind
         run: npx --yes pagefind --site docs/_site
 
