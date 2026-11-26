@@ -41,7 +41,7 @@ ettuge/
     │   │   ├── Books.md         # Index of influential books (by author, with summaries)
     │   │   ├── Books-Top.md     # Modern Library Top 100 novels list with summaries
     │   │   └── influential/     # Individual book files (Summary, Critical Takeaways, My Takeaways)
-    │   ├── deep-dives/          # Deep Dives (top-level section): index.md hub + math/ai/fitness/ellara-kannada topic pages
+    │   ├── deep-dives/          # Deep Dives (top-level section): index.md hub + math/ai/fitness/ellara-kannada/physics topic pages
     │   ├── haskell/             # Haskell/FP documentation
     │   ├── kojo/                # Kojo programming articles
     │   ├── nihongo/             # Japanese language docs

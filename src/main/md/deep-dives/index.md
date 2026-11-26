@@ -5,6 +5,7 @@ Close readings of papers and books, written up after the fact. Each entry gives 
 ## Topics
 
 - [Mathematics](math): the 2026 AI-math results, complexity theory, number theory (quasi-RH and the Lean-verified RH proof), the Millennium problems, and formalization
+- [Physics](physics): Chandrasekaran's null-cone quantization of 4D gravity (finite-dimensional causal diamonds, Bekenstein–Hawking entropy and Sen's log correction)
 - [AI and Machine Learning](ai): transformer theory, attention as an algorithm, interpretability, architecture, training at scale, serving
 - [Health and Fitness](fitness): diet and protein, body composition, active rest, lactate, training intensity, *Outlive* against the papers
 - [Ellara Kannada](ellara-kannada): DNS Bhat's books, Pampa's line, auxiliaries, Rudram, Sangam Tamil in Eke, the ಎ-ಎಣಿಕೆ notation, tense-aspect-mood against Chomsky
@@ -42,6 +43,17 @@ The short summaries below link into the topic pages.
 - [themes across them](math/ch6)
 
 Sources: [Papers › Mathematics](../Books/Papers#mathematics), [Technical › Topology and Geometry](../Books/Technical#topology-and-geometry).
+
+## Physics
+
+**Quantum gravity from the null cone.** Chandrasekaran's Nov 2026 preprint quantizes 4D vacuum gravity without a background or an expansion in G_N, using causal diamonds whose boundaries are light cones. The key mechanism is a gravitational clock: shear always delays a light ray from reaching a given area, so a cap on the clock caps both the corner area and the radiation. From this the paper argues that a bounded diamond has a finite-dimensional Hilbert space. The corner boost weight gives the Bekenstein–Hawking entropy at finite G_N, and the one-loop log correction for Schwarzschild comes out as Sen's 106/45 (212/45 in a length variable). The paper is unrefereed, was written with GPT-6 Astra, and its finite-dimension proof is the step to scrutinize. Each part has its own section in [Physics Deep Dives](physics):
+- [the paper in brief](physics/ch1): the claims, the status, and why null cones
+- [how the construction works](physics/ch2): edge modes, the clock, the JT warm-up, observables before states, gluing
+- [what it claims to derive](physics/ch3): a finite graviton-pair amplitude, finite dimension, the entropy and Sen check, topology as a null state, the semiclassical limit, Lorentzian axioms
+- [what is shown, argued and open](physics/ch4)
+- [background for reading it](physics/ch5): a glossary
+
+Sources: [Papers › Physics and Engineering](../Books/Papers#physics-and-engineering).
 
 ## AI and Machine Learning
 
