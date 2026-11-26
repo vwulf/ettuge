@@ -1,8 +1,8 @@
 # No Magic: Proving 1 + 2 + … + n = n(n+1)/2 from Paper to Lean's Kernel
 
-*Started Nov 22, 2026 · last updated Nov 23, 2026 · Vishwas*
+*Started Nov 22, 2026 · last updated Nov 26, 2026 · Vishwas*
 
-> **Work in progress.** The Lean code below was written against core Lean 4 but has **not yet been compiled**. Lemma names and argument orders may need small fixes. This page will be refined once the code has been run in a current toolchain.
+> **Work in progress.** The Lean code below compiles without errors on Lean 4.7.0 and 4.13.0-rc3 (core Lean only, no Mathlib), checked Nov 26, 2026. Still to do: check the inaccessible-cardinals claim in [6.1](#s6-1) against Carneiro's thesis.
 
 <!-- section-index:begin -->
 ## Contents {#contents}
@@ -116,7 +116,7 @@ theorem sumTo_eq (n : Nat) : sumTo n = n * (n + 1) / 2 := by
   rw [← two_mul_sumTo n, Nat.mul_div_cancel_left (sumTo n) (by decide : 0 < 2)]
 
 #eval sumTo 100          -- 5050
-#print axioms sumTo_eq   -- lists every axiom the proof depends on
+#print axioms sumTo_eq   -- 'sumTo_eq' depends on axioms: [propext]
 ```
 
 Each piece maps to one move on paper:
@@ -140,7 +140,9 @@ Two details are worth noticing.
 
 **The goal for k + 1 is `(k + 1) * (k + 1 + 1)`, and the `calc` ends in `(k + 1) * (k + 2)`.** Lean accepts the match because `k + 1 + 1` and `k + 2` compute to the same number. Again, no step is waved through; the computation is checked.
 
-**Why not Mathlib?** With Mathlib, the last four `calc` steps collapse into `rw [Nat.mul_add, ih]; ring`. That is shorter, but `ring` hides the algebra, and here the algebra is the point. If a core lemma name has changed in your toolchain, `exact?` will find the current one.
+**One axiom, and where it comes from.** `#print axioms` reports exactly one axiom, `propext` (two propositions that imply each other are equal). It does not come from the induction. `sumTo`, the `rfl` base case, `Nat.mul_add` and `Nat.mul_comm` use no axioms at all. It comes in through the core library's own proofs of `Nat.add_mul` and `Nat.mul_div_cancel_left`. There is no `Classical.choice`, so the proof is constructive.
+
+**Why not Mathlib?** With Mathlib, the last four `calc` steps collapse into `rw [Nat.mul_add, ih]; ring`. That is shorter, but `ring` hides the algebra, and here the algebra is the point.
 
 [↑ Contents](#contents)
 
@@ -262,7 +264,7 @@ The correspondence is not a metaphor. Each logical connective *is* a type former
 
 **Two further properties of Lean's logic matter here.**
 
-- **It is constructive at the core.** A proof of "A or B" must say which. Classical reasoning, such as the law of excluded middle, comes from three named axioms: `propext`, `Quot.sound` and `Classical.choice` ([Lean and AI Formalization §1](lean-ai-formalization.md#s1)). `#print axioms` tells you which of them a proof used. A proof like ours, about computable functions on `Nat`, needs little or none of this.
+- **It is constructive at the core.** A proof of "A or B" must say which. Classical reasoning, such as the law of excluded middle, comes from three named axioms: `propext`, `Quot.sound` and `Classical.choice` ([Lean and AI Formalization §1](lean-ai-formalization.md#s1)). `#print axioms` tells you which of them a proof used. Ours uses only `propext`, and only through two library lemmas ([section 2](#s2)).
 - **Types are stratified.** `Prop` is `Sort 0`, `Type` is `Sort 1`, and so on up. The hierarchy is there for consistency. If `Type` were allowed to contain itself, you could build a term of type `False` (Hurkens' paradox; [MiniLean4](https://learn.h5i.dev/), Appendix C), and every statement would be provable.
 
 So "is this proof valid?" becomes "does this term have this type?" That question can be answered mechanically, and [section 5](#s5) shows how.
