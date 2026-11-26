@@ -622,5 +622,21 @@
   "Notes on Alpöge's Proof of the Riemann Hypothesis",
   "AI-generated (Claude), printed by Taylor Dupuy",
   "Lecture notes on the Lean-only RH/GRH proof: Stepanov's method as the model, the proof from twenty black boxes, then the tools; unreviewed."
+ ],
+ [
+  "mathematics-in-lean",
+  "mil",
+  "Mathematics",
+  "Mathematics in Lean",
+  "Avigad, Massot",
+  "Formalizing mathematics in Lean 4 with Mathlib: calculation, logic, sets, number theory, combinatorics, structures and hierarchies, algebra, linear algebra, topology, calculus, measure theory."
+ ],
+ [
+  "carroll-something-deeply-hidden",
+  "carroll-something-deeply-hidden",
+  "Physics and Engineering",
+  "Something Deeply Hidden",
+  "Sean Carroll",
+  "Quantum mechanics from the wave function up: entanglement, Bell, decoherence and Many-Worlds, the Born rule, rival interpretations, and emergent spacetime from entanglement."
  ]
 ]

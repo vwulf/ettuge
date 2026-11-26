@@ -1,0 +1,785 @@
+{
+ "url": "https://leanprover-community.github.io/mathematics_in_lean/",
+ "chapters": [
+  {
+   "title": "Introduction",
+   "href": "https://leanprover-community.github.io/mathematics_in_lean/C01_Introduction.html",
+   "start": null,
+   "end": null,
+   "sections": [
+    {
+     "title": "Getting Started",
+     "href": "https://leanprover-community.github.io/mathematics_in_lean/C01_Introduction.html#getting-started",
+     "start": null,
+     "end": null,
+     "summary": "Installing Lean 4, VS Code and the mathematics_in_lean repository; working from a copy of the exercise files and comparing with the solutions folder.",
+     "terms": [
+      "installation",
+      "VS Code",
+      "Lake",
+      "Mathlib",
+      "exercises",
+      "solutions"
+     ]
+    },
+    {
+     "title": "Overview",
+     "href": "https://leanprover-community.github.io/mathematics_in_lean/C01_Introduction.html#overview",
+     "start": null,
+     "end": null,
+     "summary": "What the book covers and its style: Lean as a language for mathematics, the infoview, and the habit of checking each step interactively.",
+     "terms": [
+      "dependent type theory",
+      "infoview",
+      "#check",
+      "#eval",
+      "goals"
+     ]
+    }
+   ],
+   "summary": "How to install Lean, Mathlib and the exercise files, and how the book is meant to be read: with the editor open, doing exercises."
+  },
+  {
+   "title": "Basics",
+   "href": "https://leanprover-community.github.io/mathematics_in_lean/C02_Basics.html",
+   "start": null,
+   "end": null,
+   "sections": [
+    {
+     "title": "Calculating",
+     "href": "https://leanprover-community.github.io/mathematics_in_lean/C02_Basics.html#calculating",
+     "start": null,
+     "end": null,
+     "summary": "Rewriting with rw, chaining equations with calc, and the ring tactic for commutative-ring identities over the reals.",
+     "terms": [
+      "rw",
+      "calc",
+      "ring",
+      "nth_rewrite",
+      "mul_comm",
+      "mul_assoc"
+     ]
+    },
+    {
+     "title": "Proving Identities in Algebraic Structures",
+     "href": "https://leanprover-community.github.io/mathematics_in_lean/C02_Basics.html#proving-identities-in-algebraic-structures",
+     "start": null,
+     "end": null,
+     "summary": "Proving identities from the axioms of a ring or group, with variables and sections, to see what ring automates.",
+     "terms": [
+      "ring axioms",
+      "Group",
+      "variable",
+      "section",
+      "namespace"
+     ]
+    },
+    {
+     "title": "Using Theorems and Lemmas",
+     "href": "https://leanprover-community.github.io/mathematics_in_lean/C02_Basics.html#using-theorems-and-lemmas",
+     "start": null,
+     "end": null,
+     "summary": "Applying library theorems with apply and exact, inequalities with le_trans and friends, and the linarith, norm_num and positivity tactics; min, max, abs and divisibility.",
+     "terms": [
+      "apply",
+      "exact",
+      "le_trans",
+      "linarith",
+      "norm_num",
+      "positivity",
+      "exp_le_exp",
+      "abs"
+     ]
+    },
+    {
+     "title": "More examples using apply and rw",
+     "href": "https://leanprover-community.github.io/mathematics_in_lean/C02_Basics.html#more-examples-using-apply-and-rw",
+     "start": null,
+     "end": null,
+     "summary": "More practice with apply and rw on min, max, absolute value, gcd and lcm, and on lattices of divisibility.",
+     "terms": [
+      "min",
+      "max",
+      "abs",
+      "Nat.gcd",
+      "Nat.lcm",
+      "dvd"
+     ]
+    },
+    {
+     "title": "Proving Facts about Algebraic Structures",
+     "href": "https://leanprover-community.github.io/mathematics_in_lean/C02_Basics.html#proving-facts-about-algebraic-structures",
+     "start": null,
+     "end": null,
+     "summary": "Proving facts in partial orders, lattices, ordered rings and metric spaces from their axioms; reading Mathlib's class structure.",
+     "terms": [
+      "PartialOrder",
+      "Lattice",
+      "inf",
+      "sup",
+      "OrderedRing",
+      "MetricSpace",
+      "dist"
+     ]
+    }
+   ],
+   "summary": "Proving things by calculation: rewriting with equations, using library lemmas, and the first look at how algebraic structures are organized."
+  },
+  {
+   "title": "Logic",
+   "href": "https://leanprover-community.github.io/mathematics_in_lean/C03_Logic.html",
+   "start": null,
+   "end": null,
+   "sections": [
+    {
+     "title": "Implication and the Universal Quantifier",
+     "href": "https://leanprover-community.github.io/mathematics_in_lean/C03_Logic.html#implication-and-the-universal-quantifier",
+     "start": null,
+     "end": null,
+     "summary": "Proving and using \u2200 and \u2192: intro, apply, and definitions that unfold to quantified statements, such as bounds and monotonicity.",
+     "terms": [
+      "intro",
+      "apply",
+      "\u2200",
+      "\u2192",
+      "upper bound",
+      "Monotone",
+      "dsimp"
+     ]
+    },
+    {
+     "title": "The Existential Quantifier",
+     "href": "https://leanprover-community.github.io/mathematics_in_lean/C03_Logic.html#the-existential-quantifier",
+     "start": null,
+     "end": null,
+     "summary": "Proving \u2203 with use and using it with rcases or obtain; worked examples with bounds and surjectivity.",
+     "terms": [
+      "use",
+      "rcases",
+      "obtain",
+      "\u2203",
+      "anonymous constructor"
+     ]
+    },
+    {
+     "title": "Negation",
+     "href": "https://leanprover-community.github.io/mathematics_in_lean/C03_Logic.html#negation",
+     "start": null,
+     "end": null,
+     "summary": "Negation as implication to False: by_contra, push_neg, contrapose, absurd and exfalso, and classical reasoning.",
+     "terms": [
+      "\u00ac",
+      "False",
+      "by_contra",
+      "push_neg",
+      "contrapose",
+      "exfalso",
+      "absurd",
+      "Classical"
+     ]
+    },
+    {
+     "title": "Conjunction and Iff",
+     "href": "https://leanprover-community.github.io/mathematics_in_lean/C03_Logic.html#conjunction-and-iff",
+     "start": null,
+     "end": null,
+     "summary": "Proving and destructuring \u2227 and \u2194: constructor, anonymous constructor notation, rcases patterns, and iff lemmas in rewriting.",
+     "terms": [
+      "\u2227",
+      "\u2194",
+      "constructor",
+      "\u27e8_",
+      "_\u27e9",
+      "Iff.intro",
+      "rcases patterns"
+     ]
+    },
+    {
+     "title": "Disjunction",
+     "href": "https://leanprover-community.github.io/mathematics_in_lean/C03_Logic.html#disjunction",
+     "start": null,
+     "end": null,
+     "summary": "Proving \u2228 with left and right, case splits with rcases, and excluded middle via by_cases.",
+     "terms": [
+      "\u2228",
+      "left",
+      "right",
+      "Or.elim",
+      "by_cases",
+      "em"
+     ]
+    },
+    {
+     "title": "Sequences and Convergence",
+     "href": "https://leanprover-community.github.io/mathematics_in_lean/C03_Logic.html#sequences-and-convergence",
+     "start": null,
+     "end": null,
+     "summary": "Putting it together: the \u03b5\u2013N definition of convergence, uniqueness of limits, and sums and products of convergent sequences.",
+     "terms": [
+      "ConvergesTo",
+      "\u03b5\u2013N",
+      "limit uniqueness",
+      "convergent sequences"
+     ]
+    }
+   ],
+   "summary": "The logical connectives as moves in a proof: how to prove and how to use each of \u2200, \u2192, \u2203, \u00ac, \u2227, \u2194 and \u2228, ending with limits of sequences."
+  },
+  {
+   "title": "Sets and Functions",
+   "href": "https://leanprover-community.github.io/mathematics_in_lean/C04_Sets_and_Functions.html",
+   "start": null,
+   "end": null,
+   "sections": [
+    {
+     "title": "Sets",
+     "href": "https://leanprover-community.github.io/mathematics_in_lean/C04_Sets_and_Functions.html#sets",
+     "start": null,
+     "end": null,
+     "summary": "Sets in Mathlib as predicates: membership, subset, intersection, union, complement, set-builder notation and indexed unions and intersections; ext and the mem lemmas.",
+     "terms": [
+      "Set",
+      "\u2208",
+      "\u2286",
+      "\u2229",
+      "\u222a",
+      "complement",
+      "set-builder",
+      "\u22c3",
+      "\u22c2",
+      "ext",
+      "mem_setOf"
+     ]
+    },
+    {
+     "title": "Functions",
+     "href": "https://leanprover-community.github.io/mathematics_in_lean/C04_Sets_and_Functions.html#functions",
+     "start": null,
+     "end": null,
+     "summary": "Images and preimages, injectivity and surjectivity, inverse functions and their construction with choice; Cantor's theorem on surjections to the power set.",
+     "terms": [
+      "image",
+      "preimage",
+      "Injective",
+      "Surjective",
+      "invFun",
+      "Classical.choose",
+      "Cantor"
+     ]
+    },
+    {
+     "title": "The Schr\u00f6der-Bernstein Theorem",
+     "href": "https://leanprover-community.github.io/mathematics_in_lean/C04_Sets_and_Functions.html#the-schroder-bernstein-theorem",
+     "start": null,
+     "end": null,
+     "summary": "A formal proof that injections both ways give a bijection, built by iterating the two maps and choosing on the image.",
+     "terms": [
+      "Schr\u00f6der\u2013Bernstein",
+      "bijection",
+      "injection",
+      "piecewise function"
+     ]
+    }
+   ],
+   "summary": "Sets as predicates on a type, functions between types, and a full formal proof of the Schr\u00f6der\u2013Bernstein theorem."
+  },
+  {
+   "title": "Elementary Number Theory",
+   "href": "https://leanprover-community.github.io/mathematics_in_lean/C05_Elementary_Number_Theory.html",
+   "start": null,
+   "end": null,
+   "sections": [
+    {
+     "title": "Irrational Roots",
+     "href": "https://leanprover-community.github.io/mathematics_in_lean/C05_Elementary_Number_Theory.html#irrational-roots",
+     "start": null,
+     "end": null,
+     "summary": "Irrationality of \u221a2 and of roots of primes, coprimality, primes, and a counting argument with prime factorizations.",
+     "terms": [
+      "irrational",
+      "\u221a2",
+      "Nat.Coprime",
+      "Nat.Prime",
+      "factorization",
+      "even_of_even_sqr"
+     ]
+    },
+    {
+     "title": "Induction and Recursion",
+     "href": "https://leanprover-community.github.io/mathematics_in_lean/C05_Elementary_Number_Theory.html#induction-and-recursion",
+     "start": null,
+     "end": null,
+     "summary": "Natural numbers as an inductive type; factorial and Fibonacci by recursion; induction proofs; finite sums with Finset.sum_range_succ, including the proof that 1 + \u22ef + n = n(n+1)/2 by doubling and dividing.",
+     "terms": [
+      "Nat",
+      "induction",
+      "recursion",
+      "fac",
+      "fib",
+      "Finset.range",
+      "\u2211",
+      "sum_range_succ",
+      "sum_id",
+      "ring",
+      "omega"
+     ]
+    },
+    {
+     "title": "Infinitely Many Primes",
+     "href": "https://leanprover-community.github.io/mathematics_in_lean/C05_Elementary_Number_Theory.html#infinitely-many-primes",
+     "start": null,
+     "end": null,
+     "summary": "Euclid's proof by factorials and by finite sets; strong induction for prime factors; infinitely many primes congruent to 3 mod 4.",
+     "terms": [
+      "Euclid",
+      "infinitely many primes",
+      "strong induction",
+      "Finset",
+      "filter",
+      "primes 3 mod 4"
+     ]
+    },
+    {
+     "title": "More Induction",
+     "href": "https://leanprover-community.github.io/mathematics_in_lean/C05_Elementary_Number_Theory.html#more-induction",
+     "start": null,
+     "end": null,
+     "summary": "Further forms of induction: structural recursion with several base cases, strong induction and generalizing the hypothesis, applied to Fibonacci-style definitions.",
+     "terms": [
+      "strong induction",
+      "generalizing",
+      "pattern-matching proofs",
+      "Fibonacci"
+     ]
+    }
+   ],
+   "summary": "Number theory as a testing ground for induction, recursion and finite sums: irrationality, the sum formula, and infinitely many primes."
+  },
+  {
+   "title": "Discrete Mathematics",
+   "href": "https://leanprover-community.github.io/mathematics_in_lean/C06_Discrete_Mathematics.html",
+   "start": null,
+   "end": null,
+   "sections": [
+    {
+     "title": "Finsets and Fintypes",
+     "href": "https://leanprover-community.github.io/mathematics_in_lean/C06_Discrete_Mathematics.html#finsets-and-fintypes",
+     "start": null,
+     "end": null,
+     "summary": "Finite sets (Finset) and finite types (Fintype): operations, filter, image, sums and products, cardinality, and induction over a finset.",
+     "terms": [
+      "Finset",
+      "Fintype",
+      "DecidableEq",
+      "filter",
+      "image",
+      "card",
+      "Finset.induction_on",
+      "univ"
+     ]
+    },
+    {
+     "title": "Counting Arguments",
+     "href": "https://leanprover-community.github.io/mathematics_in_lean/C06_Discrete_Mathematics.html#counting-arguments",
+     "start": null,
+     "end": null,
+     "summary": "Counting by products, disjoint unions, images and sums; double counting and the pigeonhole principle.",
+     "terms": [
+      "card_product",
+      "card_union_of_disjoint",
+      "card_image_of_injective",
+      "double counting",
+      "pigeonhole"
+     ]
+    },
+    {
+     "title": "Inductively Defined Types",
+     "href": "https://leanprover-community.github.io/mathematics_in_lean/C06_Discrete_Mathematics.html#inductively-defined-types",
+     "start": null,
+     "end": null,
+     "summary": "Custom inductive types (lists, binary trees, propositional formulas), defined by structural recursion and reasoned about by induction.",
+     "terms": [
+      "inductive types",
+      "List",
+      "BinTree",
+      "PropForm",
+      "structural recursion",
+      "induction"
+     ]
+    }
+   ],
+   "summary": "Finite combinatorics in Mathlib, and how to define and reason about one's own inductive types."
+  },
+  {
+   "title": "Structures",
+   "href": "https://leanprover-community.github.io/mathematics_in_lean/C07_Structures.html",
+   "start": null,
+   "end": null,
+   "sections": [
+    {
+     "title": "Defining structures",
+     "href": "https://leanprover-community.github.io/mathematics_in_lean/C07_Structures.html#defining-structures",
+     "start": null,
+     "end": null,
+     "summary": "Declaring structures with fields, constructors and projections; extensionality, and proving properties of points and of a standard simplex.",
+     "terms": [
+      "structure",
+      "fields",
+      "projections",
+      "@[ext]",
+      "anonymous constructor"
+     ]
+    },
+    {
+     "title": "Algebraic Structures",
+     "href": "https://leanprover-community.github.io/mathematics_in_lean/C07_Structures.html#algebraic-structures",
+     "start": null,
+     "end": null,
+     "summary": "Algebraic structures (groups and others) as structures and type classes; instances, and why instance search matters.",
+     "terms": [
+      "class",
+      "instance",
+      "Group",
+      "AddGroup",
+      "type class inference"
+     ]
+    },
+    {
+     "title": "Building the Gaussian Integers",
+     "href": "https://leanprover-community.github.io/mathematics_in_lean/C07_Structures.html#building-the-gaussian-integers",
+     "start": null,
+     "end": null,
+     "summary": "Defining the Gaussian integers \u2124[i] as a structure, giving it a commutative-ring instance, and proving a Euclidean division property.",
+     "terms": [
+      "Gaussian integers",
+      "GaussInt",
+      "CommRing instance",
+      "norm",
+      "Euclidean domain"
+     ]
+    }
+   ],
+   "summary": "How mathematical objects with several components are defined in Lean: structures, algebraic structures as classes, and a worked example."
+  },
+  {
+   "title": "Hierarchies",
+   "href": "https://leanprover-community.github.io/mathematics_in_lean/C08_Hierarchies.html",
+   "start": null,
+   "end": null,
+   "sections": [
+    {
+     "title": "Basics",
+     "href": "https://leanprover-community.github.io/mathematics_in_lean/C08_Hierarchies.html#basics",
+     "start": null,
+     "end": null,
+     "summary": "Classes that carry data versus classes that carry properties; extends, to_additive, and forgetful inheritance with default fields to avoid bad diamonds.",
+     "terms": [
+      "class extends",
+      "to_additive",
+      "forgetful inheritance",
+      "diamonds",
+      "default fields"
+     ]
+    },
+    {
+     "title": "Morphisms",
+     "href": "https://leanprover-community.github.io/mathematics_in_lean/C08_Hierarchies.html#morphisms",
+     "start": null,
+     "end": null,
+     "summary": "Morphisms as predicates versus bundled structures; coercion to functions, morphism classes with outParam, and DFunLike.",
+     "terms": [
+      "MonoidHom",
+      "bundled morphisms",
+      "CoeFun",
+      "MonoidHomClass",
+      "outParam",
+      "DFunLike"
+     ]
+    },
+    {
+     "title": "Sub-objects",
+     "href": "https://leanprover-community.github.io/mathematics_in_lean/C08_Hierarchies.html#sub-objects",
+     "start": null,
+     "end": null,
+     "summary": "Sub-objects with SetLike, submonoid classes for shared lemmas, the lattice of sub-objects, and quotients by setoids.",
+     "terms": [
+      "Submonoid",
+      "SetLike",
+      "SubmonoidClass",
+      "\u2293",
+      "\u2294",
+      "Setoid",
+      "quotient",
+      "HasQuotient"
+     ]
+    }
+   ],
+   "summary": "How Mathlib builds hierarchies of classes without duplication or diamonds, bundles morphisms, and treats sub-objects and quotients."
+  },
+  {
+   "title": "Groups and Rings",
+   "href": "https://leanprover-community.github.io/mathematics_in_lean/C09_Groups_and_Rings.html",
+   "start": null,
+   "end": null,
+   "sections": [
+    {
+     "title": "Monoids and Groups",
+     "href": "https://leanprover-community.github.io/mathematics_in_lean/C09_Groups_and_Rings.html#monoids-and-groups",
+     "start": null,
+     "end": null,
+     "summary": "Monoids and groups, homomorphisms and isomorphisms, subgroups and lattices of subgroups, concrete groups, group actions, quotient groups, and results such as Lagrange and Sylow.",
+     "terms": [
+      "Monoid",
+      "Group",
+      "MonoidHom",
+      "MulEquiv",
+      "Subgroup",
+      "MulAction",
+      "orbit",
+      "stabilizer",
+      "quotient group",
+      "Lagrange",
+      "Sylow"
+     ]
+    },
+    {
+     "title": "Rings",
+     "href": "https://leanprover-community.github.io/mathematics_in_lean/C09_Groups_and_Rings.html#rings",
+     "start": null,
+     "end": null,
+     "summary": "Rings, units, ring morphisms, ideals and quotients, the Chinese remainder theorem, algebras and polynomials.",
+     "terms": [
+      "Ring",
+      "CommRing",
+      "units",
+      "RingHom",
+      "Ideal",
+      "quotient ring",
+      "Chinese remainder theorem",
+      "Algebra",
+      "Polynomial"
+     ]
+    }
+   ],
+   "summary": "Mathlib's algebra in practice: monoids, groups and their actions, and rings, ideals and polynomials."
+  },
+  {
+   "title": "Linear algebra",
+   "href": "https://leanprover-community.github.io/mathematics_in_lean/C10_Linear_Algebra.html",
+   "start": null,
+   "end": null,
+   "sections": [
+    {
+     "title": "Vector spaces and linear maps",
+     "href": "https://leanprover-community.github.io/mathematics_in_lean/C10_Linear_Algebra.html#vector-spaces-and-linear-maps",
+     "start": null,
+     "end": null,
+     "summary": "Vector spaces as modules over a field; linear maps, their sums and composites, and linear equivalences.",
+     "terms": [
+      "Module",
+      "vector space",
+      "LinearMap",
+      "\u2192\u2097",
+      "LinearEquiv"
+     ]
+    },
+    {
+     "title": "Subspaces and quotients",
+     "href": "https://leanprover-community.github.io/mathematics_in_lean/C10_Linear_Algebra.html#subspaces-and-quotients",
+     "start": null,
+     "end": null,
+     "summary": "Subspaces, their lattice, images and preimages under linear maps, and quotient spaces.",
+     "terms": [
+      "Submodule",
+      "span",
+      "map",
+      "comap",
+      "quotient space"
+     ]
+    },
+    {
+     "title": "Endomorphisms",
+     "href": "https://leanprover-community.github.io/mathematics_in_lean/C10_Linear_Algebra.html#endomorphisms",
+     "start": null,
+     "end": null,
+     "summary": "Endomorphisms, polynomials applied to them, eigenvalues and eigenvectors, and the Cayley\u2013Hamilton theorem.",
+     "terms": [
+      "Module.End",
+      "aeval",
+      "eigenvalue",
+      "eigenvector",
+      "Cayley\u2013Hamilton"
+     ]
+    },
+    {
+     "title": "Matrices, bases and dimension",
+     "href": "https://leanprover-community.github.io/mathematics_in_lean/C10_Linear_Algebra.html#matrices-bases-and-dimension",
+     "start": null,
+     "end": null,
+     "summary": "Matrices, bases and coordinates, the matrix of a linear map, and finite dimension and rank.",
+     "terms": [
+      "Matrix",
+      "Basis",
+      "LinearMap.toMatrix",
+      "finrank",
+      "dimension"
+     ]
+    }
+   ],
+   "summary": "Linear algebra as Mathlib states it: modules over a field, maps, subspaces, endomorphisms, and matrices with bases."
+  },
+  {
+   "title": "Topology",
+   "href": "https://leanprover-community.github.io/mathematics_in_lean/C11_Topology.html",
+   "start": null,
+   "end": null,
+   "sections": [
+    {
+     "title": "Filters",
+     "href": "https://leanprover-community.github.io/mathematics_in_lean/C11_Topology.html#filters",
+     "start": null,
+     "end": null,
+     "summary": "Filters and the Tendsto relation as a single way to talk about limits, neighborhoods and \"eventually\"; the filter API.",
+     "terms": [
+      "Filter",
+      "Tendsto",
+      "atTop",
+      "\ud835\udcdd",
+      "Eventually",
+      "\u2200\u1da0",
+      "Frequently"
+     ]
+    },
+    {
+     "title": "Metric spaces",
+     "href": "https://leanprover-community.github.io/mathematics_in_lean/C11_Topology.html#metric-spaces",
+     "start": null,
+     "end": null,
+     "summary": "Metric spaces: balls, open and closed sets, continuity, compactness, uniform continuity and completeness.",
+     "terms": [
+      "MetricSpace",
+      "ball",
+      "IsOpen",
+      "IsClosed",
+      "Continuous",
+      "IsCompact",
+      "UniformContinuous",
+      "Cauchy",
+      "complete"
+     ]
+    },
+    {
+     "title": "Topological spaces",
+     "href": "https://leanprover-community.github.io/mathematics_in_lean/C11_Topology.html#topological-spaces",
+     "start": null,
+     "end": null,
+     "summary": "Topological spaces: neighborhoods, continuity, separation, compactness, and how filters tie these together.",
+     "terms": [
+      "TopologicalSpace",
+      "nhds",
+      "continuity",
+      "separation axioms",
+      "compactness"
+     ]
+    }
+   ],
+   "summary": "Topology the Mathlib way: filters as the unifying notion of limit, then metric and general topological spaces."
+  },
+  {
+   "title": "Differential Calculus",
+   "href": "https://leanprover-community.github.io/mathematics_in_lean/C12_Differential_Calculus.html",
+   "start": null,
+   "end": null,
+   "sections": [
+    {
+     "title": "Elementary Differential Calculus",
+     "href": "https://leanprover-community.github.io/mathematics_in_lean/C12_Differential_Calculus.html#elementary-differential-calculus",
+     "start": null,
+     "end": null,
+     "summary": "Derivatives of real functions: HasDerivAt, deriv, the sum rule, Rolle's theorem and the mean value theorem, and simp for computing derivatives.",
+     "terms": [
+      "HasDerivAt",
+      "DifferentiableAt",
+      "deriv",
+      "Rolle",
+      "mean value theorem"
+     ]
+    },
+    {
+     "title": "Differential Calculus in Normed Spaces",
+     "href": "https://leanprover-community.github.io/mathematics_in_lean/C12_Differential_Calculus.html#differential-calculus-in-normed-spaces",
+     "start": null,
+     "end": null,
+     "summary": "Normed spaces and continuous linear maps, the operator norm, big-O and little-o comparisons, the Fr\u00e9chet derivative, smoothness and the local inverse theorem.",
+     "terms": [
+      "NormedSpace",
+      "continuous linear map",
+      "operator norm",
+      "IsBigO",
+      "IsLittleO",
+      "HasFDerivAt",
+      "fderiv",
+      "ContDiff",
+      "inverse function theorem"
+     ]
+    }
+   ],
+   "summary": "Derivatives, first for real functions and then for maps between normed spaces."
+  },
+  {
+   "title": "Integration and Measure Theory",
+   "href": "https://leanprover-community.github.io/mathematics_in_lean/C13_Integration_and_Measure_Theory.html",
+   "start": null,
+   "end": null,
+   "sections": [
+    {
+     "title": "Elementary Integration",
+     "href": "https://leanprover-community.github.io/mathematics_in_lean/C13_Integration_and_Measure_Theory.html#elementary-integration",
+     "start": null,
+     "end": null,
+     "summary": "Interval integrals on the reals, the fundamental theorem of calculus, and convolution.",
+     "terms": [
+      "intervalIntegral",
+      "\u222b",
+      "fundamental theorem of calculus",
+      "convolution"
+     ]
+    },
+    {
+     "title": "Measure Theory",
+     "href": "https://leanprover-community.github.io/mathematics_in_lean/C13_Integration_and_Measure_Theory.html#measure-theory",
+     "start": null,
+     "end": null,
+     "summary": "\u03c3-algebras, measurable sets, measures and outer measures, and \"almost everywhere\" statements.",
+     "terms": [
+      "MeasurableSpace",
+      "MeasurableSet",
+      "Measure",
+      "almost everywhere",
+      "\u2200\u1d50"
+     ]
+    },
+    {
+     "title": "Integration",
+     "href": "https://leanprover-community.github.io/mathematics_in_lean/C13_Integration_and_Measure_Theory.html#integration",
+     "start": null,
+     "end": null,
+     "summary": "The Bochner integral for Banach-space-valued functions, dominated convergence, Fubini, convolution and change of variables.",
+     "terms": [
+      "Bochner integral",
+      "dominated convergence",
+      "Fubini",
+      "integral_prod",
+      "change of variables"
+     ]
+    }
+   ],
+   "summary": "Integration on intervals, measure theory, and the general Bochner integral."
+  }
+ ],
+ "web": true,
+ "title": "Mathematics in Lean",
+ "byline": "Jeremy Avigad and Patrick Massot \u00b7 current online edition (v4.34.0, 2020\u20132025, Lean 4 and Mathlib), CC BY 4.0",
+ "note": "The book is published as a website (with exercise files in the companion repository leanprover-community/mathematics_in_lean), so every section links to its place in the current online edition instead of a PDF page range. The older Lean 3 edition (with Kevin Buzzard and Robert Y. Lewis) is superseded and not broken out. It can also be read with an AI reading companion on [ChapterPal](https://www.chapterpal.com/book/fd356955-a80d-4490-aa0b-b0e01bfe65bb/mathematics-in-lean). Summaries are in our own words.",
+ "summary": "A hands-on course in formalizing ordinary mathematics in Lean 4 with Mathlib, written for mathematicians rather than programmers. It starts with rewriting and calculation in rings and orders, then teaches the logical connectives as proof moves (intro, apply, rcases, use, by_contra), sets and functions, and elementary number theory with induction and recursion, including the formula 1 + \u22ef + n = n(n+1)/2. The middle chapters treat finite sets and counting, inductive types, and how structures, classes and algebraic hierarchies are designed in Mathlib (bundled morphisms, sub-objects, quotients); later chapters apply all of this to groups and rings, linear algebra, topology through filters, differential calculus in normed spaces, and measure theory and integration. Each section comes with exercises meant to be done in VS Code alongside the text."
+}

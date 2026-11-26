@@ -3,6 +3,8 @@
 
 <img src="../covers/IMG_0453.jpg" width="140" alt="cover">
 
+> **Chapter-by-chapter breakdown:** [Something Deeply Hidden in Deep Dives › Textbooks](https://vwulf.github.io/ettuge/Deep-Dives/textbooks/carroll-something-deeply-hidden) — every chapter split into topics with summaries, search terms and PDF page ranges.
+
 ---
 
 ## Summary

@@ -2,7 +2,7 @@ import json,os,shutil,collections
 R=json.load(open('tools/textbooks/registry.json'))
 D='/home/claude/ettuge/src/main/md/deep-dives/textbooks'
 for slug,work,cat,title,auth,blurb in R:
-    if work:
+    if work and os.path.exists(f"/home/claude/tb/out/{work}.md"):
         shutil.copy(f'/home/claude/tb/out/{work}.md', f'{D}/{slug}.md')
         os.makedirs('tools/textbooks/books', exist_ok=True)
         shutil.copy(f'/home/claude/tb/work/{work}/book.json', f'tools/textbooks/books/{slug}.json')
