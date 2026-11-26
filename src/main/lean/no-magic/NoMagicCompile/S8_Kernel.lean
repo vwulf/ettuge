@@ -25,12 +25,11 @@ def kernelVerdict (decl : Declaration) : MetaM MessageData := do
 def twoTimesSumTo (k : Nat) : MetaM Expr :=
   mkAppM ``HMul.hMul #[toExpr (2 : Nat), mkApp (mkConst ``NoMagic.sumTo) (toExpr k)]
 
--- 1. The stored proof term of `two_mul_sumTo'`, resubmitted under a new name.
-/--
-info: ∀ (n : Nat), 2 * sumTo n = n * (n + 1)
-kernel accepted
+/-!
+**1. The article's proof, straight to the kernel.** Take the stored proof term of
+`two_mul_sumTo'` and resubmit it under a new name.
 -/
-#guard_msgs in
+
 run_meta do
   let some ci := (← getEnv).find? ``NoMagic.two_mul_sumTo' | throwError "missing"
   let decl := .thmDecl {
@@ -38,27 +37,21 @@ run_meta do
     type := ci.type, value := ci.value! (allowOpaque := true) }
   logInfo m!"{ci.type}\n{← kernelVerdict decl}"
 
--- 2. A false claim, `2 * sumTo 3 = 13`, "proved" by `Eq.refl _`.
-/--
-info: 2 * sumTo 3 = 13
-kernel rejected: (kernel) declaration type mismatch, 'NoMagicCompile.bogus' has type
-  2 * sumTo 3 = 2 * sumTo 3
-but it is expected to have type
-  2 * sumTo 3 = 13
+/-!
+**2. A false claim.** `2 * sumTo 3 = 13`, "proved" by `Eq.refl _`. The kernel
+computes the left side and refuses.
 -/
-#guard_msgs in
+
 run_meta do
   let lhs ← twoTimesSumTo 3
   let type ← mkEq lhs (toExpr (13 : Nat))
   let decl := .thmDecl { name := `NoMagicCompile.bogus, levelParams := [], type, value := ← mkEqRefl lhs }
   logInfo m!"{type}\n{← kernelVerdict decl}"
 
--- 3. The true claim `2 * sumTo 3 = 12`, with the same one-word proof.
-/--
-info: 2 * sumTo 3 = 12
-kernel accepted
+/-!
+**3. The true claim.** `2 * sumTo 3 = 12`, with the same one-word proof, is accepted.
 -/
-#guard_msgs in
+
 run_meta do
   let lhs ← twoTimesSumTo 3
   let type ← mkEq lhs (toExpr (12 : Nat))

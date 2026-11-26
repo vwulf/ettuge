@@ -10,27 +10,29 @@ reduce to one value.
 
 open NoMagic
 
-/-- info: 10 -/
-#guard_msgs in #reduce sumTo 4
+#reduce sumTo 4
+#reduce 2 * sumTo 3
 
-/-- info: 12 -/
-#guard_msgs in #reduce 2 * sumTo 3
-
--- β: apply a function to its argument.
+/-! **β:** apply a function to its argument. -/
 example : (fun m : Nat => 2 * m) 5 = 10 := rfl
 
--- δ + ι: unfold `sumTo`, then run the recursor on `k + 1 = Nat.succ k`.
+/-! **δ + ι:** unfold `sumTo`, then run the recursor on `k + 1 = Nat.succ k`. -/
 example (k : Nat) : sumTo (k + 1) = sumTo k + (k + 1) := rfl
 
--- ι directly on `Nat.rec`.
+/-! **ι** directly on `Nat.rec`. -/
 example (z : Nat) (s : Nat → Nat → Nat) (k : Nat) :
     Nat.rec (motive := fun _ => Nat) z s (k + 1)
       = s k (Nat.rec (motive := fun _ => Nat) z s k) := rfl
 
--- The base case of the article's proof.
+/-! The base case of the article's proof. -/
 example : 2 * sumTo 0 = 0 * (0 + 1) := rfl
 
--- A false equation is rejected: `sumTo 3` reduces to 6, not 7.
+/-!
+**A false equation is rejected.** `sumTo 3` reduces to 6, not 7, so `Eq.refl 7`
+does not have the claimed type. `#guard_msgs` records the error Lean reports,
+so this file still builds.
+-/
+
 /--
 error: Type mismatch
   Eq.refl 7

@@ -16,11 +16,11 @@ lake check --paranoid   # ...and through every bundled independent checker
 can be run with `--inadvisably-no-sandbox`, which is reasonable only for code
 you wrote yourself, like this project.
 
-What every checker is also asked: which axioms does the proof rest on? The
-answer below is the whole list.
+Every checker is also asked which axioms the proof rests on. This is the whole
+list: one axiom, `propext`, which comes from the core library's proofs of
+`Nat.add_mul` and `Nat.mul_div_cancel_left`. There is no `Classical.choice`.
 -/
 
 open NoMagic
 
-/-- info: 'NoMagic.sumTo_eq' depends on axioms: [propext] -/
-#guard_msgs in #print axioms sumTo_eq
+#print axioms sumTo_eq
