@@ -3,7 +3,7 @@
 
 > Sean Carroll · Dutton, 2019 · [the PDF in Drive](https://drive.google.com/file/d/1zo8cfl9ECZU8EKyQ1CSGVzENAJHHY4mD/view)
 
-A popular-science book treated here as a textbook. The book has fourteen chapters in three parts (Spooky, Splitting, Spacetime) plus prologue, epilogue and an appendix; its chapters have unnamed section breaks only, so the sections below are our own topical divisions, with page ranges in the PDF (this ebook carries no printed page numbers). Further reading, references and index are not broken out. See also the [review page](https://vwulf.github.io/ettuge/Books/influential/something-deeply-hidden). Summaries are in our own words; the text stays in the PDF.
+A popular-science book treated here as a textbook. The book has fourteen chapters in three parts (Spooky, Splitting, Spacetime) plus prologue, epilogue and an appendix; its chapters have unnamed section breaks only, so the sections below are our own topical divisions, with page ranges in the PDF (this ebook carries no printed page numbers). Further reading, references and index are not broken out. See also the [review page](https://vwulf.github.io/ettuge/Books/influential/something-deeply-hidden). Related deep dives: [Physics Deep Dives](https://vwulf.github.io/ettuge/Deep-Dives/physics) (null-cone quantum gravity, entropy from the corner of a diamond) and [Math Deep Dives › Yang–Mills](https://vwulf.github.io/ettuge/Deep-Dives/math/ch4#yang-mills) (the existence proof and its [links to holography](https://vwulf.github.io/ettuge/Deep-Dives/math/ch4#ym-holography)). Summaries are in our own words; the text stays in the PDF.
 
 ## The book in one paragraph
 

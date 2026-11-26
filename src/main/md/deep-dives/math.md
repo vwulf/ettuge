@@ -441,6 +441,8 @@ On Sep 8, 2026 OpenAI claimed that smooth 3D Navier–Stokes flow can blow up in
 
 Yang–Mills is the non-abelian gauge theory under the Standard Model: a connection on a principal G-bundle, with G = SU(3) for the strong force. The Clay problem has two parts. **Existence** asks for quantum Yang–Mills on ℝ⁴ satisfying the Wightman or Osterwalder–Schrader axioms. **Mass gap** asks for a proof that the lightest excitation (a glueball) has positive mass, which is why the strong force is short-range. Most experts consider the mass gap the hard part.
 
+For a gentler path into the physics, Carroll's *Something Deeply Hidden* treats [quantum field theory as a wave function of field configurations](https://vwulf.github.io/ettuge/Deep-Dives/textbooks/carroll-something-deeply-hidden/ch13). Its appendix covers [loops, renormalization and Wilson's renormalization group](https://vwulf.github.io/ettuge/Deep-Dives/textbooks/carroll-something-deeply-hidden/ch17), the idea Bałaban's programme makes rigorous.
+
 | Date | Milestone |
 |---|---|
 | Sep 9, 2026 | Natural-language existence proof generated |
@@ -511,7 +513,7 @@ A quick test of OpenAI's release is whether it closes the open inputs in Section
 
 <a id="ym-holography"></a>**AdS/CFT and celestial holography both lean on Yang–Mills, but neither rests on the existence proof, and the bridge to either runs through the mass gap.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch4#ym-holography)
 
-**AdS/CFT.** Maldacena's founding example equates N=4 super-Yang–Mills with string theory on AdS₅×S⁵, so the boundary theory is literally a gauge theory. But N=4 SYM is conformal: its coupling doesn't run, so it has no asymptotic freedom and no mass gap. Bałaban's method depends on asymptotic freedom, so the OpenAI construction doesn't reach N=4 SYM, whose rigorous construction remains open. Holographic models of confining theories (Witten 1998, Sakai–Sugimoto) give a mass gap and glueball spectra on the gravity side, as conjecture rather than proof.
+**AdS/CFT.** Maldacena's founding example equates N=4 super-Yang–Mills with string theory on AdS₅×S⁵, so the boundary theory is literally a gauge theory. But N=4 SYM is conformal: its coupling doesn't run, so it has no asymptotic freedom and no mass gap. Bałaban's method depends on asymptotic freedom, so the OpenAI construction doesn't reach N=4 SYM, whose rigorous construction remains open. Holographic models of confining theories (Witten 1998, Sakai–Sugimoto) give a mass gap and glueball spectra on the gravity side, as conjecture rather than proof. Carroll gives a non-technical account of [holography, Bekenstein entropy and AdS/CFT](https://vwulf.github.io/ettuge/Deep-Dives/textbooks/carroll-something-deeply-hidden/ch15) in *Something Deeply Hidden*.
 
 **Celestial holography** recasts 4D flat-space scattering as a 2D CFT on the celestial sphere. Its Yang–Mills inputs are perturbative or classical: soft gluon theorems and large gauge symmetries, Parke–Taylor/MHV amplitudes, and self-dual Yang–Mills with its w₁₊∞ algebra (Costello–Paquette). It assumes massless gluons reach infinity. With a mass gap, pure Yang–Mills has only massive glueballs asymptotically.
 
