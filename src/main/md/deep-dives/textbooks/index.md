@@ -92,6 +92,7 @@ Partial PDFs (samples, excerpts, unfinished drafts) are marked as such on their 
 ## Physics and Engineering
 
 - [Electricity and Magnetism (2nd ed.)](bleaney-electricity-and-magnetism) (B. I. Bleaney and B. Bleaney): Classic Oxford text: fields, circuits, waves, waveguides, tubes, noise, dielectrics, metals, semiconductors, magnetism, NMR.
+- [Something Deeply Hidden](carroll-something-deeply-hidden) (Sean Carroll): Quantum mechanics from the wave function up: entanglement, Bell, decoherence and Many-Worlds, the Born rule, rival interpretations, and emergent spacetime from entanglement.
 
 ## Other
 
