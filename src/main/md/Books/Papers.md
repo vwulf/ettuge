@@ -34,8 +34,9 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
   - [Deep Learning](#deep-learning) (21)
   - [Foundations](#foundations) (3)
   - [Large Language Models](#large-language-models) (63)
-- **[Physics and Engineering](#physics-and-engineering)** (4)
+- **[Physics and Engineering](#physics-and-engineering)** (5)
   - [Electrical Engineering](#electrical-engineering) (4)
+  - [Quantum Gravity](#quantum-gravity) (1)
 - **[Linguistics and Languages](#linguistics-and-languages)** (30)
   - [Dravidian and Kannada Linguistics](#dravidian-and-kannada-linguistics) (6)
   - [Historical Linguistics and Scripts](#historical-linguistics-and-scripts) (15)
@@ -461,6 +462,12 @@ Research papers, theses and technical reports I keep in the Google Drive *Books 
 | **Linear symmetric self-selecting 14-bit kinetic molecular memristors** | Sharma et al. | Nature, 2024 | Reports molecular memristors with 14-bit resolution and linear, symmetric behaviour aimed at high-precision neuromorphic computing. |
 | **Multiply accumulate operations in memristor crossbar arrays for analog computing** | Chen, Li, Li & Miao | Journal of Semiconductors 42, 2021 | Brief review of mapping analog matrices onto memristor crossbars to perform parallel multiply-accumulate operations via Ohm's and Kirchhoff's laws, covering neural-network accelerators and numerical computing. |
 | **XMAP: Programming Memristor Crossbars for Analog Matrix-Vector Multiplication: Towards High Precision using Representable Matrices** | Uysal, Zhang, Jha & Ewetz | IEEE TCAD, 2020 | Proposes XMAP, a framework for mapping arbitrary matrices onto memristor crossbars to improve the precision of analog matrix-vector multiplication despite parasitics and device variation. |
+
+### Quantum Gravity
+
+| Paper | Authors | Where | About |
+|-------|---------|-------|-------|
+| **[An algebraic quantization of gravity from the null cone](https://arxiv.org/abs/2611.34924)** | Chandrasekaran | arXiv, 2026 | 🔍 Quantizes 4D vacuum general relativity at finite G_N from free data on the light cones bounding causal diamonds, gluing diamonds into a Lorentzian path integral. Argues that a bounded diamond has a finite-dimensional Hilbert space, derives the Bekenstein–Hawking entropy from the corner boost and matches Sen's one-loop log correction for Schwarzschild. Unrefereed; written with GPT-6 Astra. [Deep dive](../Deep-Dives/physics/ch1). |
 
 ## Linguistics and Languages
 

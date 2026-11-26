@@ -1,0 +1,1362 @@
+{
+ "url": "https://drive.google.com/file/d/1zo8cfl9ECZU8EKyQ1CSGVzENAJHHY4mD/view",
+ "chapters": [
+  {
+   "title": "Prologue: Don’t Be Afraid",
+   "start": 12,
+   "end": 17,
+   "summary": "Carroll's charge sheet against his own profession: quantum mechanics is the most successful theory we have, yet physicists cannot say what it describes, and the field has treated that gap as unimportant. He sets out the book's three claims and its three-part route.",
+   "sections": [
+    {
+     "title": "Physicists don’t understand quantum mechanics",
+     "start": 12,
+     "end": 15,
+     "summary": "QM underlies chemistry, solid-state physics and every semiconductor, yet its basic question — what a wave function is and what happens in a measurement — is unanswered. Physicists use it as a reliable black box; foundations work earns no jobs, grants or prestige, and the measurement problem is taught as settled when it is not.",
+     "terms": [
+      "measurement problem",
+      "foundations of quantum mechanics",
+      "shut up and calculate",
+      "wave function",
+      "sociology of physics"
+     ]
+    },
+    {
+     "title": "Three messages and the road map",
+     "start": 16,
+     "end": 17,
+     "summary": "The book argues (1) QM can and should be understood, (2) the Everett / Many-Worlds formulation is the simplest and most promising way to do so, and (3) taking the wave function seriously reshapes how we approach quantum gravity, where spacetime itself may emerge from entanglement. Part One covers the basics, Part Two branching, Part Three spacetime.",
+     "terms": [
+      "Many-Worlds",
+      "Everett",
+      "emergent spacetime",
+      "quantum gravity",
+      "entanglement"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Part One · 1. What’s Going On: Looking at the Quantum World",
+   "start": 19,
+   "end": 32,
+   "summary": "Contrasts classical and quantum mechanics at the level of 'recipes'. Classical physics has a state (positions and momenta) and a deterministic law; quantum physics replaces the state with a wave function and adds special rules for measurement, which is where the trouble starts.",
+   "sections": [
+    {
+     "title": "The 'spooky' reputation and the book's plan",
+     "start": 19,
+     "end": 21,
+     "summary": "Einstein's 'spukhaft' label and the flood of 'quantum' self-help titles. Carroll's stance: prize clarity over mystery; present the experimental facts first, then the Many-Worlds sketch, then the history, out of chronological order.",
+     "terms": [
+      "spooky action",
+      "quantum mysticism",
+      "pedagogy"
+     ]
+    },
+    {
+     "title": "Classical mechanics: state and determinism",
+     "start": 21,
+     "end": 23,
+     "summary": "Newton's Principia reduces an object to position and velocity changing under forces. The state of a system is its positions and momenta (phase space); given forces, the future follows exactly — Laplace's demon. Two quiet moves: what exists (particles, fields) and what can be measured are the same thing.",
+     "terms": [
+      "Newtonian mechanics",
+      "Principia",
+      "position",
+      "momentum",
+      "phase space",
+      "determinism",
+      "Laplace's demon"
+     ]
+    },
+    {
+     "title": "Measurement and the wave function",
+     "start": 24,
+     "end": 27,
+     "summary": "In QM what we observe (discrete outcomes, e.g. an electron found at one place) is not what the theory says exists (a wave function spread over possibilities). Outcomes are predicted only probabilistically: each possible result has a complex amplitude, and its probability is the amplitude squared — the Born rule.",
+     "terms": [
+      "wave function",
+      "amplitude",
+      "probability",
+      "Born rule",
+      "complex numbers",
+      "quantization of observables"
+     ]
+    },
+    {
+     "title": "Textbook rules: collapse and Copenhagen",
+     "start": 28,
+     "end": 32,
+     "summary": "Side-by-side recipes. Classical: set up the state, evolve with Newton's laws. Quantum textbook: evolve the wave function with the Schrödinger equation, but when measured it collapses to one outcome with Born-rule probability. Calling this 'the Copenhagen interpretation' hides that no one agrees on what measurement or an observer is. Footnote on squaring complex numbers (modulus squared).",
+     "terms": [
+      "Schrödinger equation",
+      "wave function collapse",
+      "Copenhagen interpretation",
+      "measurement postulate",
+      "modulus squared"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "2. The Courageous Formulation: Austere Quantum Mechanics",
+   "start": 33,
+   "end": 47,
+   "summary": "Introduces Many-Worlds as 'austere quantum mechanics' (AQM): keep only the wave function and the Schrödinger equation, drop the collapse postulate, and see what follows. The many worlds are not added; they were in the formalism all along.",
+   "sections": [
+    {
+     "title": "Shut up and calculate; Solvay 1927 and the Bohr–Einstein debates",
+     "start": 33,
+     "end": 37,
+     "summary": "Mermin's slogan for textbook attitudes. The 1927 Solvay Conference begins Einstein–Bohr exchanges. Key distinction: epistemic (wave function as knowledge, like a probability distribution in statistical mechanics) versus ontic (wave function as reality). Einstein lost in the popular telling, but his complaint — QM is incomplete — was about realism, not determinism.",
+     "terms": [
+      "Mermin",
+      "Solvay Conference",
+      "Bohr–Einstein debates",
+      "epistemic vs ontic",
+      "incompleteness",
+      "statistical mechanics analogy"
+     ]
+    },
+    {
+     "title": "Austere QM: the wave function is reality",
+     "start": 38,
+     "end": 40,
+     "summary": "Two commitments: the wave function directly represents reality, and it always obeys the Schrödinger equation. A system's state is a superposition of every possible measurement outcome; 'where is the electron really?' has no answer beyond the wave function.",
+     "terms": [
+      "austere quantum mechanics",
+      "superposition",
+      "ontology",
+      "quantum state",
+      "Born"
+     ]
+    },
+    {
+     "title": "The quantum/classical divide and the observer in superposition",
+     "start": 41,
+     "end": 43,
+     "summary": "If atoms are quantum, cameras and people made of atoms should be too. Treat measurement as an ordinary physical interaction: the camera ends up in a superposition correlated with the electron (entangled with it). Replace 'camera' with 'you' and the observer too is in a superposition of having seen each result.",
+     "terms": [
+      "quantum-classical divide",
+      "Heisenberg cut",
+      "measuring apparatus",
+      "entanglement",
+      "observer"
+     ]
+    },
+    {
+     "title": "Everett’s move: worlds from the formalism",
+     "start": 44,
+     "end": 45,
+     "summary": "Hugh Everett (1957): stop resisting; each component of the entangled superposition is a separate world, each containing an observer who sees a definite outcome. Nothing is added to QM — hence the 'courageous' formulation.",
+     "terms": [
+      "Hugh Everett",
+      "relative state",
+      "branching",
+      "many worlds",
+      "courageous formulation"
+     ]
+    },
+    {
+     "title": "Open questions and the alternatives",
+     "start": 45,
+     "end": 47,
+     "summary": "Issues the book must face: when and why does the wave function split, why probabilities follow the Born rule, and whether the theory is 'empirically adequate'. The alternatives preview: add collapse, add hidden variables, or treat the wave function epistemically. Footnote on the Matthew Effect in quote attribution.",
+     "terms": [
+      "branching",
+      "Born rule",
+      "empirical adequacy",
+      "dynamical collapse",
+      "hidden variables",
+      "epistemic interpretations",
+      "Matthew Effect"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "3. Why Would Anybody Think This? How Quantum Mechanics Came to Be",
+   "start": 48,
+   "end": 69,
+   "summary": "A semi-historical account of how the classical picture of particles plus fields broke down between 1900 and 1927, and how particles and fields were unified into a single wave function.",
+   "sections": [
+    {
+     "title": "Atoms and electrons",
+     "start": 48,
+     "end": 51,
+     "summary": "From Democritus to Dalton's chemical atoms (1803), Thomson's electron and Rutherford's nucleus. Nuclei provide mass; electrons in orbit account for all of chemistry.",
+     "terms": [
+      "atomism",
+      "Dalton",
+      "electron",
+      "Thomson",
+      "Rutherford",
+      "nucleus",
+      "chemistry"
+     ]
+    },
+    {
+     "title": "Fields and the late-19th-century picture",
+     "start": 52,
+     "end": 54,
+     "summary": "Nineteenth-century physics needed fields as well as particles: Maxwell's electromagnetic field, with light as an electromagnetic wave produced by shaken charges. By 1900 a complete theory seemed close.",
+     "terms": [
+      "fields",
+      "Maxwell's equations",
+      "electromagnetism",
+      "light as a wave",
+      "classical physics"
+     ]
+    },
+    {
+     "title": "Planck and Einstein: quanta of light",
+     "start": 54,
+     "end": 57,
+     "summary": "Planck's constant (energy proportional to frequency) and Planck units from h, G and c. Einstein's 1905 proposal that light itself comes in particle-like quanta (photons), explaining the photoelectric effect despite Maxwell's waves.",
+     "terms": [
+      "Planck's constant",
+      "black-body radiation",
+      "Planck units",
+      "photon",
+      "photoelectric effect",
+      "Einstein 1905"
+     ]
+    },
+    {
+     "title": "Atomic stability and Bohr’s orbits",
+     "start": 57,
+     "end": 60,
+     "summary": "A classical orbiting electron should radiate and spiral into the nucleus in a tiny fraction of a second (like planets emitting gravitational waves). Bohr's 1913 model allows only certain orbits; jumps between them emit light at definite frequencies, matching spectral lines. The 'old quantum theory' worked but no one was happy.",
+     "terms": [
+      "atomic stability",
+      "Bohr model",
+      "quantized orbits",
+      "quantum jumps",
+      "spectral lines",
+      "old quantum theory"
+     ]
+    },
+    {
+     "title": "Matrix mechanics and the Copenhagen circle",
+     "start": 60,
+     "end": 62,
+     "summary": "Heisenberg, Born, Jordan and Pauli build matrix mechanics around observable quantities only. The Copenhagen school's views were never uniform; note on Heisenberg's wartime role and on the lack of Nobel prizes for foundations.",
+     "terms": [
+      "matrix mechanics",
+      "Heisenberg",
+      "Born",
+      "Jordan",
+      "Pauli",
+      "Copenhagen school"
+     ]
+    },
+    {
+     "title": "Matter waves and Schrödinger’s wave function",
+     "start": 63,
+     "end": 66,
+     "summary": "De Broglie (1924) gives electrons a wave; Schrödinger (1926) writes the equation for the 'wave function'. 'Quantum' does not mean pixelated: discreteness arises like the discrete notes of a vibrating string. Schrödinger's wave mechanics was received warmly; the Copenhagen youngsters were less gracious.",
+     "terms": [
+      "de Broglie",
+      "matter waves",
+      "Schrödinger",
+      "wave mechanics",
+      "standing waves",
+      "quantization as vibration modes"
+     ]
+    },
+    {
+     "title": "The Hamiltonian, the Schrödinger equation and Born’s probabilities",
+     "start": 67,
+     "end": 69,
+     "summary": "The Schrödinger equation: the rate of change of the wave function is set by the Hamiltonian (energy) acting on it; know the Hamiltonian and you know the dynamics. Free wave functions spread out and do not look like particles, so Born proposed that their squared amplitude gives probabilities of finding a particle. Chapter recap.",
+     "terms": [
+      "Hamiltonian",
+      "Schrödinger equation",
+      "wave packet spreading",
+      "Born rule",
+      "probability interpretation",
+      "Schrödinger's cat"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "4. What Cannot Be Known, Because It Does Not Exist: Uncertainty and Complementarity",
+   "start": 70,
+   "end": 90,
+   "summary": "Recasts the uncertainty principle as a fact about what wave functions are, not about clumsy measurements, then builds the mathematical picture used for the rest of the book: spins, qubits, and wave functions as vectors in Hilbert space.",
+   "sections": [
+    {
+     "title": "The uncertainty principle",
+     "start": 70,
+     "end": 74,
+     "summary": "Position and momentum are not properties an electron has but things we can observe. A wave function sharply peaked in position is a mixture of many wavelengths (momenta), and one with a single wavelength is spread over all space — so no state has both definite. This is not ignorance of a hidden truth.",
+     "terms": [
+      "Heisenberg uncertainty principle",
+      "position",
+      "momentum",
+      "wavelength",
+      "wave packet",
+      "Fourier tradeoff"
+     ]
+    },
+    {
+     "title": "Quantum logic, briefly",
+     "start": 74,
+     "end": 75,
+     "summary": "Birkhoff and von Neumann's quantum logic rejects the distributive law for propositions about quantum systems; Carroll thinks classical logic is fine when applied correctly and the oddity lies in states, not logic.",
+     "terms": [
+      "quantum logic",
+      "distributive law",
+      "Birkhoff",
+      "von Neumann"
+     ]
+    },
+    {
+     "title": "The double-slit experiment",
+     "start": 76,
+     "end": 80,
+     "summary": "Pellets through slits give two bands; water waves give an interference pattern. Electrons arrive one by one as dots yet build up an interference pattern — unless detectors at the slits record which way they went, which destroys the interference. Ignorance cannot cause interference, so the wave function is real.",
+     "terms": [
+      "double-slit experiment",
+      "interference",
+      "which-path information",
+      "wave-particle duality",
+      "detectors"
+     ]
+    },
+    {
+     "title": "Spin and Stern–Gerlach magnets",
+     "start": 81,
+     "end": 84,
+     "summary": "Spin is quantized: along any chosen axis an electron is found spin-up or spin-down (right-hand rule picture). Sequential Stern–Gerlach magnets show that a vertically spin-up electron, measured horizontally, splits fifty-fifty — spin along different axes cannot all be definite.",
+     "terms": [
+      "spin",
+      "Stern–Gerlach experiment",
+      "quantized angular momentum",
+      "spin-up",
+      "spin-down",
+      "sequential measurements"
+     ]
+    },
+    {
+     "title": "Qubits and wave functions as vectors",
+     "start": 85,
+     "end": 88,
+     "summary": "A qubit's state is a·(up) + b·(down) with complex amplitudes. Treat states as vectors: up and down are perpendicular basis vectors of a two-dimensional Hilbert space, and every state has length one. By Pythagoras the squared components sum to one, which is why probabilities are amplitudes squared.",
+     "terms": [
+      "qubit",
+      "Hilbert space",
+      "vector space",
+      "basis",
+      "orthogonality",
+      "normalization",
+      "unit vector",
+      "Pythagorean theorem",
+      "Born rule"
+     ]
+    },
+    {
+     "title": "Complementarity as rotated bases",
+     "start": 88,
+     "end": 90,
+     "summary": "Different observables correspond to different sets of axes in Hilbert space; the up/down and right/left bases are rotated 45° relative to each other. A state aligned with one basis is a superposition in the other — the geometric origin of the uncertainty principle and Bohr's complementarity.",
+     "terms": [
+      "observables",
+      "change of basis",
+      "complementarity",
+      "incompatible observables",
+      "uncertainty principle"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "5. Entangled Up in Blue: Wave Functions of Many Parts",
+   "start": 91,
+   "end": 105,
+   "summary": "There is one wave function for the whole system, not one per particle. This chapter defines entanglement, walks through EPR and Bell's theorem, and shows that quantum mechanics is nonlocal in a precise sense while still forbidding faster-than-light signals.",
+   "sections": [
+    {
+     "title": "Scattering electrons and the wave function of many particles",
+     "start": 91,
+     "end": 94,
+     "summary": "Two electrons that collide have correlated outcomes because momentum is conserved: observing one tells you about the other. A multi-particle wave function assigns an amplitude to every configuration of all particles at once (configuration space) — ultimately one wave function of the universe for ~10^88 particles.",
+     "terms": [
+      "entanglement",
+      "configuration space",
+      "wave function of the universe",
+      "momentum conservation",
+      "multi-particle states"
+     ]
+    },
+    {
+     "title": "Two qubits: product states and entangled states",
+     "start": 95,
+     "end": 96,
+     "summary": "Alice and Bob each hold one qubit. A state with both spin-up is unentangled; a superposition of (up,up) and (down,down) is entangled: Alice's result fixes Bob's. In textbook language her measurement collapses the shared state; in Many-Worlds it branches.",
+     "terms": [
+      "two-qubit state",
+      "product state",
+      "entangled state",
+      "Bell state",
+      "Alice and Bob",
+      "correlation"
+     ]
+    },
+    {
+     "title": "No signaling",
+     "start": 97,
+     "end": 98,
+     "summary": "Entanglement seems to conflict with relativity, but Alice cannot choose her outcome, so Bob sees random results until they compare notes classically. No information travels faster than light.",
+     "terms": [
+      "no-signaling theorem",
+      "special relativity",
+      "faster than light",
+      "nonlocal correlations"
+     ]
+    },
+    {
+     "title": "The EPR argument",
+     "start": 99,
+     "end": 101,
+     "summary": "Einstein, Podolsky and Rosen (1935) assume locality and 'elements of reality': since Alice can predict Bob's result in either basis without disturbing it, both values must exist beforehand, so QM is incomplete. Bohr's quick reply was widely thought to have settled it, though its content is unclear. Public reaction and Einstein's dislike of the paper's framing.",
+     "terms": [
+      "EPR paradox",
+      "Einstein–Podolsky–Rosen",
+      "locality",
+      "elements of reality",
+      "incompleteness",
+      "Bohr's reply"
+     ]
+    },
+    {
+     "title": "Bell’s theorem and its tests",
+     "start": 101,
+     "end": 105,
+     "summary": "John Bell (1964): any local hidden-variable theory obeys an inequality on correlations measured along different axes; QM predicts violations. Experiments since the 1970s confirm QM. Loopholes include superdeterminism (our measurement choices are correlated in advance), tested by choosing settings with light from distant stars. Many-Worlds evades Bell because outcomes are not single.",
+     "terms": [
+      "Bell's theorem",
+      "Bell inequality",
+      "local hidden variables",
+      "nonlocality",
+      "experimental tests",
+      "superdeterminism",
+      "free choice loophole",
+      "cosmic Bell test"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Part Two · 6. Splitting the Universe: Decoherence and Parallel Worlds",
+   "start": 107,
+   "end": 122,
+   "summary": "The core chapter on Many-Worlds: how Everett arrived at it at Princeton, how measurement becomes entanglement, and how decoherence explains why branches stop interfering and look like separate classical worlds.",
+   "sections": [
+    {
+     "title": "After EPR: Wheeler, Princeton and quantum gravity",
+     "start": 107,
+     "end": 110,
+     "summary": "Foundations went quiet after 1935 and were seen as an old man's hobby. John Wheeler at Princeton — 'radically conservative' — pushes into quantum gravity, where there is no outside observer to collapse the wave function of the universe.",
+     "terms": [
+      "John Wheeler",
+      "Princeton",
+      "radical conservatism",
+      "quantum gravity",
+      "quantum cosmology"
+     ]
+    },
+    {
+     "title": "Everett and the wave function of the universe",
+     "start": 110,
+     "end": 111,
+     "summary": "Hugh Everett III, Wheeler's student, asks how to apply QM to a self-contained universe with no external measurer, and concludes the measurement rules must follow from the Schrödinger equation alone.",
+     "terms": [
+      "Hugh Everett III",
+      "universal wave function",
+      "closed system",
+      "no external observer"
+     ]
+    },
+    {
+     "title": "Measurement as entanglement",
+     "start": 112,
+     "end": 114,
+     "summary": "Write the apparatus as a quantum system with ready/up/down states. Linearity of the Schrödinger equation turns spin superposition plus ready apparatus into an entangled superposition of (up, saw-up) and (down, saw-down). Alternatives all contort to avoid accepting this as the full description.",
+     "terms": [
+      "measurement apparatus",
+      "pointer states",
+      "linearity",
+      "entangled superposition",
+      "relative state"
+     ]
+    },
+    {
+     "title": "Decoherence",
+     "start": 114,
+     "end": 117,
+     "summary": "H. Dieter Zeh (1970): the apparatus inevitably entangles with its environment (air molecules, photons). Once that happens the branches can no longer interfere — decoherence — explaining why wave functions seem to collapse and when branching happens.",
+     "terms": [
+      "decoherence",
+      "environment",
+      "Hans Dieter Zeh",
+      "interference",
+      "apparent collapse"
+     ]
+    },
+    {
+     "title": "What counts as a world",
+     "start": 117,
+     "end": 119,
+     "summary": "A world is a branch of the wave function that has decohered and evolves independently of the others. A measurement is any interaction that entangles a system with the environment; an observer can be an earthworm, a microscope or a rock — consciousness plays no role.",
+     "terms": [
+      "branch",
+      "world",
+      "measurement",
+      "observer",
+      "consciousness irrelevant"
+     ]
+    },
+    {
+     "title": "Everett’s thesis and its reception",
+     "start": 119,
+     "end": 122,
+     "summary": "Everett's 'amoeba with a life tree' draft; Wheeler's pressure to tone it down to placate Bohr; the Copenhagen rejection; Everett leaves physics for defense work. Bryce DeWitt revives the idea and a 1973 collection gives it the name 'Many-Worlds Interpretation'; Deutsch and others carry it on.",
+     "terms": [
+      "Everett thesis",
+      "relative-state formulation",
+      "Bryce DeWitt",
+      "Many-Worlds Interpretation",
+      "history of physics"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "7. Order and Randomness: Where Probability Comes From",
+   "start": 123,
+   "end": 142,
+   "summary": "If Many-Worlds is deterministic and every outcome happens, what do probabilities mean, and why do they follow the Born rule? Carroll answers with self-locating uncertainty and derives the Born rule from a symmetry principle.",
+   "sections": [
+    {
+     "title": "The problem of probability in Many-Worlds",
+     "start": 123,
+     "end": 128,
+     "summary": "Wittgenstein's joke about how the Earth would look if the sun went round it. In a single-world theory probability is just frequency or credence about one outcome; in Many-Worlds both outcomes occur, raising the 'incoherence problem' (what is the probability of?) and the 'quantitative problem' (why amplitude squared?). The book's 'random number' thought experiment spawning many textual variants.",
+     "terms": [
+      "probability problem",
+      "incoherence problem",
+      "quantitative problem",
+      "determinism",
+      "Born rule"
+     ]
+    },
+    {
+     "title": "What probability means: frequency vs credence",
+     "start": 129,
+     "end": 130,
+     "summary": "Frequentist probability (long-run fractions) versus Bayesian credence (degrees of belief, e.g. a team winning a championship). Many-Worlds needs the credence notion.",
+     "terms": [
+      "frequentism",
+      "Bayesian probability",
+      "credence",
+      "degrees of belief"
+     ]
+    },
+    {
+     "title": "Personal identity across branches",
+     "start": 131,
+     "end": 133,
+     "summary": "Before and after branching, who is 'you'? Following Derek Parfit, identity is psychological continuity (Relation R); in Many-Worlds one person becomes several future people, each continuous with the past one.",
+     "terms": [
+      "personal identity",
+      "Derek Parfit",
+      "Relation R",
+      "psychological continuity",
+      "branching selves"
+     ]
+    },
+    {
+     "title": "Self-locating uncertainty",
+     "start": 133,
+     "end": 134,
+     "summary": "Decoherence is extremely fast, so there is a moment after branching when observers on each branch exist but do not yet know which branch they are on. Probability is uncertainty about one's own location in the wave function.",
+     "terms": [
+      "self-locating uncertainty",
+      "post-measurement uncertainty",
+      "indexical uncertainty",
+      "decoherence timescale"
+     ]
+    },
+    {
+     "title": "Deriving the Born rule: branch counting and epistemic separability",
+     "start": 134,
+     "end": 139,
+     "summary": "Arbitrary measures (Albert's 'fatness measure') and naive branch counting fail; counting is inconsistent because extra measurements change the count. Instead require that credences not depend on what happens in distant parts of the universe (Epistemic Separability Principle). Splitting unequal branches into equal-amplitude pieces then forces probabilities equal to amplitude squared.",
+     "terms": [
+      "branch counting",
+      "fatness measure",
+      "David Albert",
+      "Epistemic Separability Principle",
+      "ESP",
+      "Born rule derivation",
+      "Sebens–Carroll",
+      "equal-amplitude branches"
+     ]
+    },
+    {
+     "title": "Decision theory and other derivations",
+     "start": 140,
+     "end": 142,
+     "summary": "Deutsch and Wallace derive the Born rule from axioms of rational decision-making: a rational agent in a branching universe must weight outcomes by amplitude squared. Zurek's envariance offers another route. Showing we must act 'as if' probabilities hold is enough.",
+     "terms": [
+      "decision theory",
+      "Deutsch–Wallace theorem",
+      "rational agent",
+      "utility",
+      "Zurek",
+      "envariance"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "8. Does This Ontological Commitment Make Me Look Fat? A Socratic Dialogue on Quantum Puzzles",
+   "start": 143,
+   "end": 164,
+   "summary": "A dialogue in which Alice, a physicist, answers her skeptical father's objections to Many-Worlds over drinks. The chapter is a catalog of standard objections and replies.",
+   "sections": [
+    {
+     "title": "Extravagance and ontology",
+     "start": 143,
+     "end": 146,
+     "summary": "Isn't positing countless worlds extravagant? Reply: the theory's postulates are minimal; the worlds come automatically. Hilbert space is the same size in every version of QM. The real difficulty is the reverse: the formalism is so lean that mapping it onto experience takes work.",
+     "terms": [
+      "ontological parsimony",
+      "Occam's razor",
+      "Hilbert space",
+      "lean formalism"
+     ]
+    },
+    {
+     "title": "Falsifiability and testability",
+     "start": 147,
+     "end": 149,
+     "summary": "Popper's criterion: Many-Worlds is falsifiable through its postulates (e.g., find a collapse). Unobservable consequences, like galaxies beyond our horizon, are accepted when a well-tested theory predicts them.",
+     "terms": [
+      "Karl Popper",
+      "falsifiability",
+      "testability",
+      "unobservable entities",
+      "scientific method"
+     ]
+    },
+    {
+     "title": "Entropy, branching and the arrow of time",
+     "start": 149,
+     "end": 152,
+     "summary": "Why does branching only go toward the future? Because the early universe had low entropy (Boltzmann), and branching tracks increasing entanglement entropy; von Neumann's quantum entropy mirrors classical ignorance entropy.",
+     "terms": [
+      "arrow of time",
+      "entropy",
+      "low-entropy past hypothesis",
+      "Boltzmann",
+      "von Neumann entropy",
+      "entanglement entropy"
+     ]
+    },
+    {
+     "title": "How many worlds are there?",
+     "start": 152,
+     "end": 156,
+     "summary": "Branches are emergent, coarse-grained descriptions, not fundamental, so their number is not sharply defined (Wallace's analogy to counting experiences). Hilbert space may be infinite-dimensional, or very large but finite; even a generous overestimate of branchings fits.",
+     "terms": [
+      "number of worlds",
+      "emergent branches",
+      "coarse-graining",
+      "David Wallace",
+      "Hilbert space dimension",
+      "finite vs infinite"
+     ]
+    },
+    {
+     "title": "Does everything happen?",
+     "start": 157,
+     "end": 158,
+     "summary": "No: only what the Schrödinger equation produces, with weights. Branches with absurd histories (fifty spin-ups in a row) exist but with tiny weight.",
+     "terms": [
+      "everything possible happens",
+      "low-weight branches",
+      "maverick branches"
+     ]
+    },
+    {
+     "title": "Branching is local and relativity-friendly",
+     "start": 159,
+     "end": 161,
+     "summary": "Branching spreads outward from the interaction at or below light speed rather than happening simultaneously everywhere, so it does not conflict with special relativity; distant observers cannot tell whether they have 'branched yet'.",
+     "terms": [
+      "local branching",
+      "special relativity",
+      "light cone",
+      "Bell nonlocality"
+     ]
+    },
+    {
+     "title": "Conservation of energy",
+     "start": 162,
+     "end": 162,
+     "summary": "Where does the energy for new worlds come from? Energy is computed from the whole wave function; each branch's energy counts weighted by its squared amplitude, so the total is conserved.",
+     "terms": [
+      "conservation of energy",
+      "branch weights",
+      "expectation value"
+     ]
+    },
+    {
+     "title": "Does she believe it?",
+     "start": 163,
+     "end": 164,
+     "summary": "Alice's honest credence: Many-Worlds is the best current bet; what matters is caring about the question.",
+     "terms": [
+      "credence",
+      "scientific attitude"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "9. Other Ways: Alternatives to Many-Worlds",
+   "start": 165,
+   "end": 187,
+   "summary": "A fair tour of the main rivals, each of which modifies, supplements or reinterprets the wave function to avoid many worlds, and of what each costs.",
+   "sections": [
+    {
+     "title": "The sociology of foundations",
+     "start": 165,
+     "end": 167,
+     "summary": "David Albert's graduate-school experience, David Bohm's exile and Everett's exit from physics illustrate how foundations work was discouraged. Many-Worlds' virtue is the simplicity of its postulates; all else is commentary.",
+     "terms": [
+      "David Albert",
+      "David Bohm",
+      "foundations of physics",
+      "academic culture"
+     ]
+    },
+    {
+     "title": "Modifying the Schrödinger equation",
+     "start": 167,
+     "end": 168,
+     "summary": "Schrödinger hoped his equation would describe everything. Steven Weinberg's nonlinear modification preserves total probability, but its simplest form allows faster-than-light signaling between entangled particles; patches exist but the idea has not caught on.",
+     "terms": [
+      "nonlinear quantum mechanics",
+      "Steven Weinberg",
+      "modified dynamics"
+     ]
+    },
+    {
+     "title": "Dynamical collapse: GRW and Penrose",
+     "start": 169,
+     "end": 173,
+     "summary": "GRW theory (Ghirardi, Rimini, Weber): each particle's wave function spontaneously localizes at a tiny random rate, but collapses cascade in macroscopic objects. Issues: collapse tails, a parameter-laden rule tied to particles rather than fields, possible energy non-conservation; testable via low-temperature experiments. Penrose's gravity-induced collapse. These amount to Everett plus a branch-pruning process.",
+     "terms": [
+      "dynamical collapse",
+      "spontaneous collapse",
+      "GRW theory",
+      "Ghirardi–Rimini–Weber",
+      "continuous spontaneous localization",
+      "tails problem",
+      "Penrose objective reduction",
+      "testable predictions"
+     ]
+    },
+    {
+     "title": "Hidden variables: von Neumann’s ‘proof’ and Bohm’s revival",
+     "start": 174,
+     "end": 176,
+     "summary": "Add variables (e.g., particle positions) beyond the wave function. Von Neumann's no-go proof assumed too much, as Grete Hermann pointed out and Bell later emphasized. Bohm (1952), after political troubles drove him abroad, revived de Broglie's pilot wave.",
+     "terms": [
+      "hidden variables",
+      "von Neumann no-go theorem",
+      "Grete Hermann",
+      "pilot wave",
+      "David Bohm",
+      "de Broglie"
+     ]
+    },
+    {
+     "title": "Bohmian mechanics at work",
+     "start": 177,
+     "end": 181,
+     "summary": "Particles with definite positions are guided by the wave function; in the double-slit experiment each particle goes through one slit while the wave goes through both. Starting particles in a Born-rule distribution keeps it so ('quantum equilibrium'). Guidance is explicitly nonlocal and fits uneasily with relativity and with field theory; critics call it 'Many-Worlds in denial'.",
+     "terms": [
+      "Bohmian mechanics",
+      "de Broglie–Bohm theory",
+      "guidance equation",
+      "quantum equilibrium",
+      "nonlocality",
+      "relativity problem",
+      "many-worlds in denial"
+     ]
+    },
+    {
+     "title": "Epistemic approaches: QBism",
+     "start": 182,
+     "end": 185,
+     "summary": "Treat the wave function as an agent's personal degrees of belief. QBism (Fuchs, Schack, Caves, Mermin) uses Bayesian updating; measurement just updates beliefs. It offers insights into quantum information, but leaves open what reality is.",
+     "terms": [
+      "epistemic interpretation",
+      "psi-epistemic",
+      "QBism",
+      "quantum Bayesianism",
+      "Christopher Fuchs",
+      "Rüdiger Schack",
+      "Carlton Caves",
+      "Bayesian inference"
+     ]
+    },
+    {
+     "title": "Choosing among approaches",
+     "start": 186,
+     "end": 187,
+     "summary": "The tradeoff between underlying simplicity (Everett) and closeness to observed phenomena (others). Personal style decides weighting; Wallace's verdict that Everett is the only interpretive strategy that fits physics as practiced, especially quantum field theory.",
+     "terms": [
+      "theory choice",
+      "simplicity",
+      "empirical adequacy",
+      "interpretations comparison"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "10. The Human Side: Living and Thinking in a Quantum Universe",
+   "start": 188,
+   "end": 205,
+   "summary": "What, if anything, Many-Worlds changes about decisions, ethics, free will and consciousness. Mostly: very little, once branch weights are taken into account.",
+   "sections": [
+    {
+     "title": "Quantum decision-making",
+     "start": 188,
+     "end": 189,
+     "summary": "The 'Universe Splitter' app uses a quantum measurement to choose between options, creating worlds in which each choice is made; this does not increase anything worth having.",
+     "terms": [
+      "Universe Splitter",
+      "quantum random number generator",
+      "decisions"
+     ]
+    },
+    {
+     "title": "Quantum suicide and immortality",
+     "start": 190,
+     "end": 192,
+     "summary": "If a device kills you on one branch, some version always survives. Carroll's reply: you are allowed to care about branches you won't experience, so quantum Russian roulette is as bad as it seems; don't take bets that lose on branch weight.",
+     "terms": [
+      "quantum suicide",
+      "quantum immortality",
+      "quantum Russian roulette"
+     ]
+    },
+    {
+     "title": "Ethics across branches",
+     "start": 192,
+     "end": 195,
+     "summary": "Should we value total or weighted utility across branches? Weight each branch by its Born-rule measure (as with energy); deontological ethics is largely unaffected. A tongue-in-cheek 'QUMaD' rule shows why naive branch counting leads to absurdities.",
+     "terms": [
+      "ethics",
+      "utilitarianism",
+      "Born-rule weighting",
+      "deontology",
+      "moral decisions",
+      "QUMaD"
+     ]
+    },
+    {
+     "title": "Agents and decisions as emergent and classical",
+     "start": 195,
+     "end": 197,
+     "summary": "People can be described as particles obeying the Schrödinger equation or as agents with choices; both descriptions are valid at their own level. Decisions in brains are classical processes; branching does not create choices.",
+     "terms": [
+      "emergence",
+      "levels of description",
+      "agency",
+      "classical brain processes"
+     ]
+    },
+    {
+     "title": "Free will",
+     "start": 197,
+     "end": 199,
+     "summary": "Free will versus determinism is the wrong pairing; determinism is opposed to indeterminism. Many-Worlds is deterministic yet not predictable for those inside it. Compatibilism: free will is real as an emergent, useful concept like tables and temperature.",
+     "terms": [
+      "free will",
+      "determinism",
+      "indeterminism",
+      "compatibilism",
+      "emergent concepts"
+     ]
+    },
+    {
+     "title": "Consciousness and the measurement problem",
+     "start": 200,
+     "end": 205,
+     "summary": "Rejects the idea that consciousness collapses the wave function. Physicalism: consciousness arises from brains, which are ordinary physical systems. Wigner's consciousness-causes-collapse, dualism, idealism and panpsychism are considered and found unnecessary; reality exists independently of observers.",
+     "terms": [
+      "consciousness",
+      "physicalism",
+      "dualism",
+      "consciousness causes collapse",
+      "Wigner",
+      "idealism",
+      "panpsychism",
+      "mind-body problem"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Part Three · 11. Why Is There Space? Emergence and Locality",
+   "start": 207,
+   "end": 220,
+   "summary": "Begins the program of finding space and gravity inside quantum mechanics rather than quantizing classical gravity. Introduces emergence, explains why the world looks classical in some bases and not others, and identifies locality of interactions as the key.",
+   "sections": [
+    {
+     "title": "Gravity resists quantization: start from the quantum",
+     "start": 207,
+     "end": 210,
+     "summary": "Other forces are fine as quantized classical field theories; gravity is not. Rather than quantize general relativity, start with an abstract wave function and Schrödinger equation and ask how spacetime could emerge — the Many-Worlds approach needs no added superstructure.",
+     "terms": [
+      "quantization",
+      "quantum gravity",
+      "general relativity",
+      "emergent spacetime",
+      "top-down approach"
+     ]
+    },
+    {
+     "title": "Locality",
+     "start": 210,
+     "end": 211,
+     "summary": "Locality — things interact only with nearby things and nothing travels faster than light — is a defining feature of space in relativistic physics.",
+     "terms": [
+      "locality",
+      "special relativity",
+      "causal structure"
+     ]
+    },
+    {
+     "title": "Emergent worlds and effective descriptions",
+     "start": 211,
+     "end": 215,
+     "summary": "Worlds are emergent: a higher-level description that throws away information yet remains predictive. Branches are carved from the wave function in the right way when each obeys approximately classical laws, e.g. Newtonian gravity for rocket flights. Emergence is special, not automatic.",
+     "terms": [
+      "emergence",
+      "coarse-graining",
+      "effective theory",
+      "quasi-classical branches",
+      "higher-level descriptions"
+     ]
+    },
+    {
+     "title": "Why position, not momentum?",
+     "start": 215,
+     "end": 217,
+     "summary": "In Hamiltonian mechanics position and momentum are symmetric, and configuration space is huge, yet we live in three-dimensional space. The symmetry is broken by dynamical locality: interactions depend on positions.",
+     "terms": [
+      "Hamiltonian mechanics",
+      "position-momentum symmetry",
+      "configuration space",
+      "dynamical locality"
+     ]
+    },
+    {
+     "title": "Schrödinger’s cat and the preferred basis",
+     "start": 217,
+     "end": 220,
+     "summary": "A cat and a sleeping-gas version of the thought experiment. Why do branches look like 'awake' or 'asleep' rather than superpositions of them? Because those states are localized in space, and interactions with the environment are local — decoherence picks the pointer basis.",
+     "terms": [
+      "Schrödinger's cat",
+      "preferred basis problem",
+      "pointer basis",
+      "decoherence",
+      "environment-induced superselection"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "12. A World of Vibrations: Quantum Field Theory",
+   "start": 221,
+   "end": 236,
+   "summary": "Quantum field theory as the wave function of field configurations. Particles are excitations of fields, empty space has rich structure, and the vacuum is highly entangled — the raw material for emergent geometry.",
+   "sections": [
+    {
+     "title": "Action at a distance and the rise of fields",
+     "start": 221,
+     "end": 223,
+     "summary": "Newton's discomfort with gravity acting instantly at a distance; fields fix it. The 'Core Theory' (Standard Model plus gravity) is built from fields; quantizing a classical field theory in preexisting space is the usual route.",
+     "terms": [
+      "action at a distance",
+      "Newton",
+      "fields",
+      "Core Theory",
+      "Standard Model"
+     ]
+    },
+    {
+     "title": "From particle wave functions to field wave functions",
+     "start": 223,
+     "end": 226,
+     "summary": "For many particles there is one wave function on configuration space. In QFT, the wave function assigns amplitudes to every configuration of the field: waviness on top of waviness.",
+     "terms": [
+      "quantum field theory",
+      "field configuration",
+      "wave functional",
+      "classical field vs wave function"
+     ]
+    },
+    {
+     "title": "Modes, the vacuum and particles",
+     "start": 226,
+     "end": 229,
+     "summary": "Decompose a field into vibrational modes with quantized energies; the state with every mode at lowest energy is the vacuum. One quantum of excitation looks like a particle. Electrons, quarks and photons are vibrations of their fields.",
+     "terms": [
+      "modes",
+      "harmonic oscillator",
+      "quantized energy levels",
+      "vacuum state",
+      "particles as excitations"
+     ]
+    },
+    {
+     "title": "Vacuum energy and the cosmological constant",
+     "start": 229,
+     "end": 231,
+     "summary": "Empty space has energy, measured as the accelerating expansion of the universe. Adding zero-point energies up to a Planck-scale cutoff gives an answer ~10^122 too big — the cosmological constant problem.",
+     "terms": [
+      "vacuum energy",
+      "zero-point energy",
+      "cosmological constant",
+      "dark energy",
+      "accelerating universe",
+      "cosmological constant problem"
+     ]
+    },
+    {
+     "title": "‘Quantum fluctuations’ and whether particles are really there",
+     "start": 232,
+     "end": 233,
+     "summary": "Nothing in the vacuum fluctuates; the term describes the spread of possible measurement outcomes in a stationary state. Particle number depends on how and where one observes — particles are what the theory looks like under particular kinds of observation.",
+     "terms": [
+      "quantum fluctuations",
+      "vacuum",
+      "particle number",
+      "observer dependence"
+     ]
+    },
+    {
+     "title": "The entangled vacuum",
+     "start": 234,
+     "end": 236,
+     "summary": "Divide space into regions: the vacuum is entangled across every boundary, and unentangling them would cost infinite energy. Each region's Hilbert space is infinite-dimensional in QFT. The Reeh–Schlieder theorem: poking a local region can, in principle, produce any state.",
+     "terms": [
+      "vacuum entanglement",
+      "area law",
+      "Hilbert space of a region",
+      "Reeh–Schlieder theorem",
+      "degrees of freedom"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "13. Breathing in Empty Space: Finding Gravity within Quantum Mechanics",
+   "start": 237,
+   "end": 256,
+   "summary": "Carroll's own research program: start from a vector in Hilbert space and a Hamiltonian, find locality and a way to split into subsystems, use entanglement between pieces to define distances, and recover something like Einstein's equation. Time is handled through clocks inside the universe.",
+   "sections": [
+    {
+     "title": "Where QFT ends",
+     "start": 237,
+     "end": 238,
+     "summary": "QFT accounts for every experiment, but gravity is missing. The goal: understand when branches of the wave function look like quantum fields propagating in a curved spacetime.",
+     "terms": [
+      "quantum field theory",
+      "curved spacetime",
+      "semiclassical gravity"
+     ]
+    },
+    {
+     "title": "General relativity in brief",
+     "start": 238,
+     "end": 241,
+     "summary": "Spacetime unifies space and time; observers divide it differently. Einstein's equation relates curvature to energy and momentum (Wheeler: matter tells spacetime how to curve, spacetime tells matter how to move). There is no preferred way to identify points across different geometries (sphere vs torus), complicating quantization.",
+     "terms": [
+      "general relativity",
+      "spacetime",
+      "curvature",
+      "Einstein's equation",
+      "Wheeler",
+      "background independence",
+      "topology"
+     ]
+    },
+    {
+     "title": "Why quantum gravity is hard",
+     "start": 242,
+     "end": 244,
+     "summary": "Gravity is ~10^43 times weaker than electric repulsion, so data are scarce. Effective field theory of gravity works at low energies. Main approaches: string theory and loop quantum gravity; conceptual problems may not be fixed by technical progress.",
+     "terms": [
+      "quantum gravity",
+      "weakness of gravity",
+      "effective field theory",
+      "string theory",
+      "loop quantum gravity",
+      "Planck scale"
+     ]
+    },
+    {
+     "title": "Entropy and entanglement entropy",
+     "start": 244,
+     "end": 246,
+     "summary": "Boltzmann entropy counts arrangements; entanglement entropy measures how much a subsystem is entangled with the rest. In Many-Worlds an observer's branch can look like a mixed state.",
+     "terms": [
+      "Boltzmann entropy",
+      "entanglement entropy",
+      "von Neumann entropy",
+      "mixed states",
+      "subsystems"
+     ]
+    },
+    {
+     "title": "Jacobson: Einstein’s equation from entanglement",
+     "start": 247,
+     "end": 248,
+     "summary": "Ted Jacobson (1995): assuming entropy proportional to the area bounding a region and applying thermodynamics, Einstein's equation follows. Changing a region's entanglement changes its geometry.",
+     "terms": [
+      "Ted Jacobson",
+      "thermodynamics of spacetime",
+      "area law",
+      "Einstein equation of state",
+      "entanglement first law"
+     ]
+    },
+    {
+     "title": "Finding subsystems and locality inside Hilbert space",
+     "start": 248,
+     "end": 251,
+     "summary": "With only a state and a Hamiltonian, which way of factoring Hilbert space into subsystems is right? The one in which interactions are local: each degree of freedom interacts with a few others, forming a network that is the skeleton of space.",
+     "terms": [
+      "Hilbert space factorization",
+      "tensor product structure",
+      "locality from Hamiltonian",
+      "degrees of freedom",
+      "quantum mereology"
+     ]
+    },
+    {
+     "title": "Distance from entanglement: emergent geometry",
+     "start": 251,
+     "end": 253,
+     "summary": "Define distance by mutual information: strongly entangled degrees of freedom are close, weakly entangled ones far. Carroll's 2016 and 2018 papers with Cao and Michalakis: geometry emerges and, under perturbation, curves in a way consistent with Jacobson's reasoning — a promising but partial result.",
+     "terms": [
+      "mutual information",
+      "emergent geometry",
+      "entanglement and distance",
+      "ChunJun Cao",
+      "Spyridon Michalakis",
+      "space from Hilbert space"
+     ]
+    },
+    {
+     "title": "The problem of time",
+     "start": 253,
+     "end": 256,
+     "summary": "Maybe time also emerges. The Wheeler–DeWitt equation says the universe's total state does not evolve. Page and Wootters: entangle a clock subsystem with the rest; conditioned on clock readings, the rest appears to evolve. Time as 'what the clock reads in this part of the wave function'. Nods to ER=EPR.",
+     "terms": [
+      "problem of time",
+      "Wheeler–DeWitt equation",
+      "Page–Wootters mechanism",
+      "emergent time",
+      "clocks",
+      "timeless universe",
+      "ER=EPR"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "14. Beyond Space and Time: Holography, Black Holes, and the Limits of Locality",
+   "start": 257,
+   "end": 270,
+   "summary": "Black holes show that the simple 'nearest-neighbor' picture of emergent space is incomplete: gravity is holographic, and its degrees of freedom are not localized in space.",
+   "sections": [
+    {
+     "title": "Hawking radiation",
+     "start": 257,
+     "end": 260,
+     "summary": "Hawking (1974) applied QFT in curved spacetime: black holes emit thermal radiation, small ones are hotter, and they slowly evaporate. Temperature formula on his gravestone.",
+     "terms": [
+      "Stephen Hawking",
+      "Hawking radiation",
+      "black hole temperature",
+      "evaporation",
+      "QFT in curved spacetime"
+     ]
+    },
+    {
+     "title": "The information-loss puzzle",
+     "start": 260,
+     "end": 262,
+     "summary": "If radiation is purely thermal, information about what fell in is lost, violating unitarity. Most physicists think information escapes, and expect the explanation to reveal quantum gravity.",
+     "terms": [
+      "black hole information paradox",
+      "unitarity",
+      "information conservation",
+      "thermal radiation"
+     ]
+    },
+    {
+     "title": "Bekenstein entropy: area, not volume",
+     "start": 262,
+     "end": 265,
+     "summary": "Bekenstein (another Wheeler student) argued black holes have entropy proportional to horizon area. Unlike QFT entanglement entropy it is finite. Black holes are the maximum-entropy objects in a region, implying a finite number of degrees of freedom — including for our cosmological horizon.",
+     "terms": [
+      "Jacob Bekenstein",
+      "Bekenstein–Hawking entropy",
+      "horizon area",
+      "maximum entropy",
+      "holographic bound",
+      "Bousso",
+      "de Sitter horizon",
+      "finite Hilbert space"
+     ]
+    },
+    {
+     "title": "The holographic principle and the black hole interior",
+     "start": 265,
+     "end": 267,
+     "summary": "Physics of a three-dimensional region may be encoded on its two-dimensional boundary ('t Hooft, Susskind). Whether the interior of a black hole exists independently becomes subtle.",
+     "terms": [
+      "holographic principle",
+      "'t Hooft",
+      "Susskind",
+      "black hole interior",
+      "degrees of freedom on the boundary"
+     ]
+    },
+    {
+     "title": "AdS/CFT",
+     "start": 267,
+     "end": 268,
+     "summary": "Maldacena (1997): gravity in anti–de Sitter space is equivalent to a conformal field theory without gravity on its boundary. Ryu–Takayanagi and Van Raamsdonk link boundary entanglement to bulk geometry. But our universe has positive vacuum energy — AdS/CFT is the brightest streetlight, not necessarily where the keys are.",
+     "terms": [
+      "AdS/CFT",
+      "Maldacena",
+      "anti–de Sitter space",
+      "conformal field theory",
+      "Ryu–Takayanagi formula",
+      "Van Raamsdonk",
+      "entanglement builds geometry"
+     ]
+    },
+    {
+     "title": "Horizon complementarity and firewalls",
+     "start": 268,
+     "end": 270,
+     "summary": "Infalling and distant observers tell different but consistent stories (black hole complementarity); the firewall argument challenges this. Lesson: locality is emergent and breaks down near horizons; Many-Worlds may help, though many quantum-gravity researchers don't yet think so.",
+     "terms": [
+      "black hole complementarity",
+      "firewall paradox",
+      "event horizon",
+      "locality breakdown",
+      "nonlocality in quantum gravity"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Epilogue: Everything Is Quantum",
+   "start": 271,
+   "end": 273,
+   "summary": "What Einstein might have thought of Many-Worlds: repelled, but drawn to its realism and determinism. The book's title comes from Einstein's childhood compass and his conviction that something deeply hidden lies behind things. Quantum technology (computing, cryptography, information) is pushing physicists to take foundations seriously; the classical world is an approximation and everything is quantum.",
+   "sections": [],
+   "terms": [
+    "Einstein",
+    "realism",
+    "compass anecdote",
+    "quantum computing",
+    "quantum information",
+    "quantum foundations revival"
+   ]
+  },
+  {
+   "title": "Appendix: The Story of Virtual Particles",
+   "start": 274,
+   "end": 282,
+   "summary": "The particle-centred view of QFT that working physicists use, explained in contrast to the book's vacuum-centred treatment: Feynman diagrams, virtual particles, loops, renormalization and effective field theory.",
+   "sections": [
+    {
+     "title": "Feynman diagrams as stories",
+     "start": 274,
+     "end": 276,
+     "summary": "When fields are weakly interacting we can describe processes in particle language; Feynman diagrams (e.g., electron and positron annihilating into a photon) are bookkeeping for calculations, not literal histories.",
+     "terms": [
+      "Feynman diagrams",
+      "perturbation theory",
+      "particle interactions",
+      "electron-positron annihilation"
+     ]
+    },
+    {
+     "title": "Virtual particles",
+     "start": 276,
+     "end": 278,
+     "summary": "Internal lines represent 'virtual particles' that need not obey normal energy-mass relations; really they are field modes, not particles popping in and out of existence.",
+     "terms": [
+      "virtual particles",
+      "off-shell",
+      "field modes",
+      "quantum fluctuations misnomer"
+     ]
+    },
+    {
+     "title": "Loops and infinities",
+     "start": 278,
+     "end": 280,
+     "summary": "Closed loops let virtual particles carry any momentum, so naive sums diverge. Even an isolated particle is dressed by a cloud of virtual particles, shifting its measured mass and charge.",
+     "terms": [
+      "loop diagrams",
+      "ultraviolet divergences",
+      "self-energy",
+      "dressed particles",
+      "vacuum polarization"
+     ]
+    },
+    {
+     "title": "Renormalization and effective field theory",
+     "start": 280,
+     "end": 282,
+     "summary": "Kenneth Wilson (1970s): divergences come from high energies; impose a cutoff and the low-energy physics becomes insensitive to what happens beyond it. Effective field theory explains why physics is predictive and why high-energy physics is hard to probe.",
+     "terms": [
+      "renormalization",
+      "Kenneth Wilson",
+      "cutoff",
+      "renormalization group",
+      "effective field theory",
+      "decoupling"
+     ]
+    }
+   ]
+  }
+ ],
+ "title": "Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime",
+ "byline": "Sean Carroll · Dutton, 2019",
+ "note": "A popular-science book treated here as a textbook. The book has fourteen chapters in three parts (Spooky, Splitting, Spacetime) plus prologue, epilogue and an appendix; its chapters have unnamed section breaks only, so the sections below are our own topical divisions, with page ranges in the PDF (this ebook carries no printed page numbers). Further reading, references and index are not broken out. See also the [review page](https://vwulf.github.io/ettuge/Books/influential/something-deeply-hidden). Summaries are in our own words; the text stays in the PDF.",
+ "summary": "Sean Carroll argues that quantum mechanics is not inherently mysterious; physicists have simply refused to ask what it describes. Part One builds the essentials — wave functions, the Born rule, uncertainty as geometry of vectors in Hilbert space, spin, entanglement, EPR and Bell — and introduces 'austere' quantum mechanics: the wave function plus the Schrödinger equation and nothing else. Part Two shows how decoherence turns that single wave function into effectively separate, branching classical worlds (Everett's Many-Worlds), how probability and the Born rule arise from self-locating uncertainty, answers standard objections in a dialogue, compares the rivals (GRW collapse, Bohmian mechanics, QBism), and draws out consequences for ethics, free will and consciousness. Part Three turns to quantum field theory and gravity: rather than quantizing general relativity, start from an abstract quantum state and recover space from entanglement (distance from mutual information, Einstein's equation à la Jacobson), time from internal clocks, and confront holography, black-hole entropy and AdS/CFT. An appendix explains virtual particles and renormalization.",
+ "tail": [
+  [
+   "Further Reading, References",
+   "PDF pp. 285–291: book list and chapter-by-chapter citations."
+  ]
+ ]
+}
