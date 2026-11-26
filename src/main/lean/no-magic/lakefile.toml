@@ -1,6 +1,9 @@
 name = "no-magic"
 version = "0.1.0"
-defaultTargets = ["NoMagic"]
+defaultTargets = ["NoMagic", "NoMagicCompile"]
 
 [[lean_lib]]
 name = "NoMagic"
+
+[[lean_lib]]
+name = "NoMagicCompile"
