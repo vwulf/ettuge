@@ -2,7 +2,7 @@
 
 *Started Nov 22, 2026 · last updated Nov 26, 2026 · Vishwas*
 
-> **Work in progress.** The Lean code below compiles without errors on Lean 4.7.0 and 4.13.0-rc3 (core Lean only, no Mathlib), checked Nov 26, 2026. Still to do: check the inaccessible-cardinals claim in [6.1](#s6-1) against Carneiro's thesis.
+> **Work in progress.** The Lean code below builds with Lean 4.36.0 (core Lean only, no Mathlib), checked Nov 26, 2026. It lives in the repo as a Lake project, [`src/main/lean/no-magic`](https://github.com/vwulf/ettuge/tree/master/src/main/lean/no-magic), whose build also checks the `#print axioms` results quoted below. Still to do: check the inaccessible-cardinals claim in [6.1](#s6-1) against Carneiro's thesis.
 
 <!-- section-index:begin -->
 ## Contents {#contents}

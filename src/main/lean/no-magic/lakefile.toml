@@ -1,0 +1,6 @@
+name = "no-magic"
+version = "0.1.0"
+defaultTargets = ["NoMagic"]
+
+[[lean_lib]]
+name = "NoMagic"
