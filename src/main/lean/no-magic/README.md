@@ -20,6 +20,22 @@ lake build       # elan fetches the Lean version in ./lean-toolchain on first us
 
 Without Nix, install [elan](https://github.com/leanprover/elan) and run `lake build`.
 
+## Literate pages
+
+The same files render as a literate website: `/-! … -/` comments become prose,
+code becomes highlighted code with hover types, and `#check`/`#print`/`#reduce`
+output is shown inline. The site's deploy workflow publishes it at
+<https://vwulf.github.io/ettuge/FP/no-magic-literate/>. To build it locally:
+
+```sh
+lake query :literateHtml   # prints the output directory
+```
+
+This uses [Verso](https://github.com/leanprover/verso), a documentation-only
+dependency (pinned to the tag matching `lean-toolchain`). The proofs import
+nothing from it. `literate.toml` sets the landing page, the page order and which
+commands show their output. Verso is large, so the first build takes a while.
+
 To replay everything through Lean's independent checkers as well:
 
 ```sh
@@ -39,6 +55,7 @@ own library and the paranoid check takes a while.
 | `NoMagic.lean` | Library root |
 | `NoMagic/SumFormula.lean` | `sumTo`, the tactic proof, the `Nat.rec` term proof, `sumTo_eq` |
 | `flake.nix` | Nix dev shell providing elan |
+| `literate.toml` | Verso literate-site settings: landing page, order, visible output |
 | `NoMagicCompile.lean` | Root of the companion library |
 | `NoMagicCompile/S1_Surface.lean` | What you write: notation, implicit arguments, tactics |
 | `NoMagicCompile/S2_Notation.lean` | Notation removed: `HMul.hMul`, instances, `OfNat` numerals |
