@@ -16,6 +16,7 @@ on:
       - "src/main/lean/no-magic/NoMagic/**"
       - "src/main/lean/no-magic/NoMagic.lean"
       - "src/main/lean/no-magic/lean-toolchain"
+      - "src/main/lean/minilean/**"
       - ".github/workflows/no-magic-check.yml"
   workflow_dispatch:
 
@@ -74,3 +75,21 @@ jobs:
       - name: lake check --paranoid
         working-directory: ${{ env.PROOFS_DIR }}
         run: lake check --paranoid
+
+  # MiniLean: building the project runs MiniLean's own kernel on the sum formula
+  # (MiniLean/Prelude.lean) and on the declarations it must refuse
+  # (MiniLean/Rejections.lean).
+  minilean:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build MiniLean (checks every proof with MiniLean's kernel)
+        uses: leanprover/lean-action@v1
+        with:
+          lake-package-directory: src/main/lean/minilean
+          auto-config: "false"
+          build: "true"
+          test: "false"
+          lint: "false"
+          use-mathlib-cache: "false"
