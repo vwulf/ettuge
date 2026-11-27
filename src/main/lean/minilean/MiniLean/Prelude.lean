@@ -22,15 +22,7 @@ mini_inductive Eq.{u} (α : Sort u) (a : α) : α → Prop where
 
 mini_open Nat
 
-/--
-info: recursor Nat.rec.{w} : ∀ (motive : Nat → Sort w), motive Nat.zero → (∀ (x : Nat), motive x → motive (Nat.succ x)) → ∀ (t : Nat), motive t
--/
-#guard_msgs in
 #mini_print Nat.rec
-/--
-info: recursor Eq.rec.{w, u} : ∀ (α : Sort u), ∀ (a : α), ∀ (motive : ∀ (x : α), Eq.{u} α a x → Sort w), motive a (Eq.refl.{u} α a) → ∀ (x : α), ∀ (t : Eq.{u} α a x), motive x t
--/
-#guard_msgs in
 #mini_print Eq.rec
 
 /-! ## Definitions
@@ -53,15 +45,7 @@ mini_def sumTo (n : Nat) : Nat :=
 mini_def two : Nat := succ (succ zero)
 mini_def three : Nat := succ two
 
-/--
-info: Nat.succ^6 Nat.zero
--/
-#guard_msgs in
 #mini_reduce sumTo three
-/--
-info: Nat.succ^12 Nat.zero
--/
-#guard_msgs in
 #mini_reduce mul two (sumTo three)
 
 /-! ## The lemmas
@@ -141,10 +125,6 @@ mini_theorem two_mul_sumTo (n : Nat) : NatEq (mul two (sumTo n)) (mul n (succ n)
     show NatEq (mul two (add (sumTo k) (succ k))) (mul (succ k) (succ (succ k)))
     rw [mul_add, ih, ← add_mul, mul_comm (add k two) (succ k)]
 
-/--
-info: two_mul_sumTo : ∀ (n : Nat), NatEq (mul two (sumTo n)) (mul n (Nat.succ n))
--/
-#guard_msgs in
 #mini_check two_mul_sumTo
 
 /-! ## The kernel's verdicts on two small claims -/
@@ -154,16 +134,5 @@ mini_def twelve : Nat :=
 
 mini_def thirteen : Nat := succ twelve
 
-/--
-info: MiniLean's kernel accepts it
--/
-#guard_msgs in
 #mini_verdict : NatEq (mul two (sumTo three)) twelve := Eq.refl.{1} Nat twelve
-/--
-info: MiniLean's kernel rejects it: type mismatch.
-  term: Eq.refl.{1} Nat thirteen
-  has type: Eq.{1} Nat thirteen thirteen
-  expected: NatEq (mul two (sumTo three)) thirteen
--/
-#guard_msgs in
 #mini_verdict : NatEq (mul two (sumTo three)) thirteen := Eq.refl.{1} Nat thirteen

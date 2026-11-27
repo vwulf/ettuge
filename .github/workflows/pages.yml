@@ -1214,6 +1214,27 @@ jobs:
           cp -R "$out"/. "$dest"/
           ls "$dest" | head
 
+      # ── No Magic, implemented: MiniLean's literate pages (Verso) ─────────────
+      # Builds src/main/lean/minilean (MiniLean's kernel checks the sum formula and
+      # refuses the bad declarations) and renders it as literate HTML.
+      - name: Cache MiniLean build
+        uses: actions/cache@v4
+        with:
+          path: src/main/lean/minilean/.lake
+          key: minilean-lake-${{ hashFiles('src/main/lean/minilean/lake-manifest.json', 'src/main/lean/minilean/lean-toolchain') }}
+
+      - name: Build MiniLean literate pages
+        if: steps.lean.outcome == 'success'
+        continue-on-error: true
+        working-directory: src/main/lean/minilean
+        run: |
+          out=$(lake query :literateHtml | tail -n 1)
+          echo "Verso output: $out"
+          dest="$GITHUB_WORKSPACE/docs/_site/FP/minilean-literate"
+          mkdir -p "$dest"
+          cp -R "$out"/. "$dest"/
+          ls "$dest" | head
+
       - name: Index with Pagefind
         run: npx --yes pagefind --site docs/_site
 

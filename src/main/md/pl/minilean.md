@@ -2,7 +2,7 @@
 
 *Started Nov 26, 2026 · last updated Nov 26, 2026 · Vishwas*
 
-> **Work in progress.** MiniLean now exists: [`src/main/lean/minilean`](https://github.com/vwulf/ettuge/tree/master/src/main/lean/minilean), about 1,350 lines of Lean 4. It builds with Lean 4.36.0, and the build checks every proof on this page with MiniLean's own kernel. Still to come: the companion described in [section 8](#s8).
+> **Work in progress.** MiniLean now exists: [`src/main/lean/minilean`](https://github.com/vwulf/ettuge/tree/master/src/main/lean/minilean), about 1,400 lines of Lean 4. It builds with Lean 4.36.0, and the build checks every proof on this page with MiniLean's own kernel. Its companion, [No Magic, implemented](https://vwulf.github.io/ettuge/FP/minilean-literate/), walks the sum formula through MiniLean stage by stage, with the kernel's source alongside.
 
 <!-- section-index:begin -->
 ## Contents {#contents}
@@ -18,7 +18,7 @@
   - [5.3 The theorem](#s5-3)
 - [6. The DSL](#s6)
 - [7. What the kernel refuses](#s7)
-- [8. What comes next](#s8)
+- [8. The companion, and what comes next](#s8)
 - [References](#references)
 
 *Every heading links to itself: hover (or tap the link icon) and copy the link to share a section.*
@@ -28,7 +28,7 @@
 
 [No Magic](lean-no-magic.md) followed one theorem, 1 + 2 + ⋯ + n = n(n+1)/2, down from a hand proof to Lean's kernel. Its claim was that every layer is ordinary mathematics. Its [companion](https://vwulf.github.io/ettuge/FP/no-magic-literate/) let Lean show each layer. But the last layer, the kernel, was still Lean's own: a large C++ program you are asked to trust, or to replace with one of five independent checkers you are also asked to trust.
 
-This page takes the next step. It builds a **MiniLean**: a type checker for a small dependent type theory, written in Lean 4, following Hideaki Takahashi's book [MiniLean4](https://learn.h5i.dev/). The book builds such a kernel in Rust in under three thousand lines, with no dependencies. MiniLean's trusted kernel is about 740 lines of Lean, small enough to read in an afternoon. It checks the *same* theorem, defined and proved from nothing.
+This page takes the next step. It builds a **MiniLean**: a type checker for a small dependent type theory, written in Lean 4, following Hideaki Takahashi's book [MiniLean4](https://learn.h5i.dev/). The book builds such a kernel in Rust in under three thousand lines, with no dependencies. MiniLean's trusted kernel is about 745 lines of Lean, small enough to read in an afternoon. It checks the *same* theorem, defined and proved from nothing.
 
 The comparison is the point. Section 3 lists, row by row, what Lean 4 has and MiniLean leaves out. Every row MiniLean leaves out is something that makes Lean pleasant to use. None of them is needed to check the proof.
 
@@ -49,18 +49,18 @@ Writing it in Lean 4 rather than Rust has two benefits for this series:
 
 ## 2. What MiniLean is {#s2}
 
-MiniLean follows the structure of the MiniLean4 book. Each part below is one module of the implementation, with its size. The first four are the trusted kernel (about 740 lines). The rest is front end, which the kernel does not trust (about 600 lines).
+MiniLean follows the structure of the MiniLean4 book. Each part below is one module of the implementation, with its size. The first four are the trusted kernel (about 745 lines). The rest is front end, which the kernel does not trust (about 650 lines).
 
 1. **Universes** (book chapter 13; `Level.lean`, 110 lines). Levels built from `0`, successor, `max`, `imax` and parameters, so `Prop = Sort 0` and `Type = Sort 1`. The hierarchy is what blocks Hurkens' paradox (book Appendix C). Two levels are equal when they have the same value for every value of their parameters; trying values up to a bound set by the levels' constants decides it.
 2. **Terms** (chapters 2 and 11; `Expr.lean`, 180 lines). Sorts, bound variables as de Bruijn indices, constants, application, λ and Π. To go under a binder, the checker replaces its bound variable with a fresh *free* variable, so every term it works on has no dangling indices and substitution never needs to shift them. (This "locally nameless" style is what Lean's kernel does too.)
 3. **The environment** (`Env.lean`, 62 lines). An ordered list of definitions, theorems, inductive types, constructors and recursors. Nothing joins it except through the kernel's checks.
-4. **The kernel** (chapters 3, 5, 7–9 and 12; `Kernel.lean`, 385 lines).
+4. **The kernel** (chapters 3, 5, 7–9 and 12; `Kernel.lean`, 393 lines).
     - `whnf` reduces by β (apply a function), δ (unfold a definition) and ι (run a recursor on a constructor). `isDefEq` reduces both sides and compares.
     - `infer` computes a term's type, one case per typing rule.
     - `addInductive` checks an inductive declaration and *generates* its recursor and ι-rule by the book's fixed recipe. `Nat` and `Eq` are just two such declarations.
 5. **Names** (`Surface.lean`, 68 lines). Resolves each name to a bound variable, a local or a constant.
 6. **Tactics** (chapter 10; `Tactic.lean`, 240 lines). `intro`, `exact`, `refl`, `show`, `induction` and `rw`. Each turns a goal into new goals plus a way to build the old goal's proof from theirs. Tactics are outside the trusted part: the kernel checks the term they build.
-7. **The DSL** (`DSL.lean`, 289 lines). Lean 4 commands that feed all of the above (section 6).
+7. **The DSL** (`DSL.lean`, 338 lines). Lean 4 commands that feed all of the above (section 6).
 
 There is deliberately no elaborator, unifier, type-class search, pattern-match compiler or axiom. Section 6 explains how terms are written without them.
 
@@ -91,7 +91,7 @@ MiniLean against Lean 4.36, the version the No Magic project builds with. "Kerne
 | Type classes and instances | yes | none | front end |
 | Tactics | hundreds, user-extensible | `intro`, `exact`, `refl`, `show`, `induction`, `rw` | front end |
 | Surface language | Lean's parser and elaborator | a Lean 4 DSL (section 6) | front end |
-| Implementation | C++ kernel, Lean front end | Lean 4, one Lake project: a 740-line kernel and a 600-line front end | both |
+| Implementation | C++ kernel, Lean front end | Lean 4, one Lake project: a 745-line kernel and a 650-line front end | both |
 | Independent checkers | five, run by `lake check --paranoid` | none; MiniLean is itself a second checker for this one proof | both |
 | Consistency | modelled in ZFC plus inaccessible cardinals (Carneiro) | consistency of the book's core system: book Appendix D | both |
 
@@ -286,9 +286,9 @@ A checker that accepts everything is useless. [`MiniLean/Rejections.lean`](https
 
 [↑ Contents](#contents)
 
-## 8. What comes next {#s8}
+## 8. The companion, and what comes next {#s8}
 
-1. **A second companion, "No Magic, implemented".** The first companion showed Lean's *output* at each stage. This one will show MiniLean's *code* for each stage, each with a trace of what it does to the sum formula: the substitution function behind β, `whnf` and `iota?` behind computation, the recursor generator behind induction, the tactics as term builders, and `infer` and `isDefEq` as the kernel.
+1. **The companion, [No Magic, implemented](https://vwulf.github.io/ettuge/FP/minilean-literate/)**, now exists. The first companion showed Lean's *output* at each stage; this one shows MiniLean doing each stage, with `#mini_trace` printing every β, δ and ι step, and the source of every kernel module on the same site.
 2. **Later, perhaps:** translate Lean's own proof term into MiniLean and check it there. That would mean handling numerals, instances and `Nat.brecOn`, so it is a project of its own.
 
 [↑ Contents](#contents)

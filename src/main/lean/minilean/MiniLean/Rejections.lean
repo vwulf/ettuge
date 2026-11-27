@@ -1,24 +1,13 @@
-import MiniLean.DSL
+import MiniLean.Prelude
 
 /-!
 # What the kernel refuses
 
 A checker that accepts everything is useless. Each declaration below is wrong
 in a different way, and MiniLean must reject it. `#guard_msgs` pins the exact
-rejection, so this file builds only if every one is refused.
+rejection, so this file builds only if every one is refused. It uses the
+prelude's `Nat`, `Eq` and `add`.
 -/
-
-mini_inductive Nat : Type where
-  | zero : Nat
-  | succ : Nat → Nat
-
-mini_inductive Eq.{u} (α : Sort u) (a : α) : α → Prop where
-  | refl : Eq.{u} α a a
-
-mini_open Nat
-
-mini_def add (m n : Nat) : Nat :=
-  Nat.rec.{1} (λ (k : Nat) => Nat) m (λ (k ih : Nat) => succ ih) n
 
 /-! A false equation, "proved" by computation: `n + 0` reduces to `n`, not `n + 1`.
 With a proof term the kernel itself refuses it. -/
