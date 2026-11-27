@@ -6,6 +6,7 @@ Dependent types as a working tool: Lean, mathlib, and the 2026 wave of AI-produc
 
 - [Lean and AI Formalization](lean-ai-formalization.md) — Lean's foundations, the HoTT question, how much math is formalized, consolidation into mathlib, and case studies.
 - [No Magic: Proving 1 + 2 + … + n = n(n+1)/2 from Paper to Lean's Kernel](lean-no-magic.md) *(work in progress; Lean code checked)* Companion: [No Magic, compiled](https://vwulf.github.io/ettuge/FP/no-magic-literate/), the same proof shown stage by stage as literate Lean, from surface syntax down to the kernel. — one theorem followed down: hand proof, Lean proof, elaboration to `Nat.rec`, Curry–Howard, the kernel's check, and who checks the checker.
+- [MiniLean: The No Magic Proof in a Kernel You Can Read](minilean.md) *(work in progress)* — a planned small type checker written in Lean 4, after the MiniLean4 book; a feature-by-feature comparison with Lean 4, and the sum formula proved from an empty environment with no axioms.
 
 ## Deep-dive gists
 
