@@ -2,7 +2,7 @@
 
 *Started Nov 22, 2026 · last updated Nov 26, 2026 · Vishwas*
 
-> **Work in progress.** The Lean code below builds with Lean 4.36.0 (core Lean only, no Mathlib), checked Nov 26, 2026. It lives in the repo as a Lake project, [`src/main/lean/no-magic`](https://github.com/vwulf/ettuge/tree/master/src/main/lean/no-magic), whose build also checks the `#print axioms` results quoted below. Its companion, [No Magic, compiled](https://vwulf.github.io/ettuge/FP/no-magic-literate/), walks the same proof down through every layer as literate Lean, with Lean's own output at each step. A follow-up, [MiniLean](minilean.md), plans the same proof in a small kernel written in Lean 4. Still to do: check the inaccessible-cardinals claim in [6.1](#s6-1) against Carneiro's thesis.
+> **Work in progress.** The Lean code below builds with Lean 4.36.0 (core Lean only, no Mathlib), checked Nov 26, 2026. It lives in the repo as a Lake project, [`src/main/lean/no-magic`](https://github.com/vwulf/ettuge/tree/master/src/main/lean/no-magic), whose build also checks the `#print axioms` results quoted below. Its companion, [No Magic, compiled](https://vwulf.github.io/ettuge/FP/no-magic-literate/), walks the same proof down through every layer as literate Lean, with Lean's own output at each step. A follow-up, [MiniLean](minilean.md), checks the same proof with a small type checker written in Lean 4, and its companion, [No Magic, implemented](https://vwulf.github.io/ettuge/FP/minilean-literate/), shows the code that does each step. Notes marked **MiniLean** below point to the matching part. Still to do: check the inaccessible-cardinals claim in [6.1](#s6-1) against Carneiro's thesis.
 
 <!-- section-index:begin -->
 ## Contents {#contents}
@@ -39,6 +39,8 @@ We take it through six stages:
 4. See why a term's type is a logical statement, and why a well-typed term is a proof (Curry–Howard).
 5. See how Lean's kernel checks the term, by running a type-checking algorithm.
 6. Ask who checks the kernel, and find that the answer ends in set theory, which is to say in mathematics.
+
+Each stage also has a second, smaller version. [MiniLean](minilean.md) is a type checker written in Lean 4, after Hideaki Takahashi's book [MiniLean4](https://learn.h5i.dev/). It proves the same theorem from an empty environment, and its trusted part is about 745 lines, short enough to read. Notes marked **MiniLean** point to the matching part of it.
 
 This matters more in 2026 than it used to. AI systems now write Lean proofs at scale. Agents produced a roughly 13-million-line formalization of Fermat's Last Theorem in September 2026, and a claimed Riemann hypothesis result arrived with a Lean proof on November 20 (see [Lean and AI Formalization](lean-ai-formalization.md)). Nobody reads 13 million lines. What makes such a proof worth anything is the type checker described below, and that checker contains nothing mysterious.
 
@@ -86,6 +88,8 @@ The last line is P(k + 1), because (k + 1) + 1 = k + 2.
 - the meaning of "=", including that you may replace equals by equals.
 
 On paper, a reader takes these on trust. Lean makes each one an explicit object, and that is the whole difference.
+
+> **MiniLean:** these five things are, quite literally, the first declarations in MiniLean's prelude: `Nat`, `sumTo`, the generated `Nat.rec`, nine lemmas about + and ×, and `Eq` with its recursor ([MiniLean §5](minilean.md#s5)).
 
 [↑ Contents](#contents)
 
@@ -144,6 +148,8 @@ Two details are worth noticing.
 
 **Why not Mathlib?** With Mathlib, the last four `calc` steps collapse into `rw [Nat.mul_add, ih]; ring`. That is shorter, but `ring` hides the algebra, and here the algebra is the point.
 
+> **MiniLean:** goes one step further and drops the library too. `mul_add`, `add_mul` and `mul_comm` are proved in the same file, each by one induction, so the finished proof uses no axioms at all, not even `propext` ([MiniLean §5.2](minilean.md#s5-2)).
+
 **The same theorem in *Mathematics in Lean*.** Avigad and Massot's textbook proves this exact formula in its section on induction and recursion ([§5.2](https://leanprover-community.github.io/mathematics_in_lean/C05_Elementary_Number_Theory.html#induction-and-recursion); [our breakdown](../Deep-Dives/textbooks/mathematics-in-lean/ch5)), as the theorem `sum_id`. Its strategy is the one used here: clear the division first, then induct on the doubled statement. Three things differ, and each is a trade of transparency for reach:
 
 | This article | *Mathematics in Lean*, `sum_id` |
@@ -188,7 +194,11 @@ Nat.rec : {motive : Nat → Sort u} →
 
 Read `motive` as a proposition about n, and this is exactly the principle of induction. Read it as a data type, and it is primitive recursion. Same object, two readings. Induction is not an extra axiom in Lean; it comes from what it means for `Nat` to be *generated* by `zero` and `succ`. ([MiniLean4](https://learn.h5i.dev/), chapters 7–8, builds this recipe in Rust.)
 
+> **MiniLean:** the same recipe, in Lean: `addInductive` in [`MiniLean.Kernel`](https://vwulf.github.io/ettuge/FP/minilean-literate/MiniLean/Kernel/) generates `Nat.rec` and `Eq.rec` from the two declarations, and they come out identical to Lean's ([walkthrough stage 4](https://vwulf.github.io/ettuge/FP/minilean-literate/MiniLean/Walkthrough/S4_Recursors/), [stage 5](https://vwulf.github.io/ettuge/FP/minilean-literate/MiniLean/Walkthrough/S5_Primitives/)).
+
 **Definitions compile down to recursors.** The kernel knows only recursors. Pattern matching and recursion are translated into them before checking ([Lean and AI Formalization §1](lean-ai-formalization.md#s1)). So `sumTo` becomes a `Nat.rec` application (via a helper, `Nat.brecOn`, itself defined with `Nat.rec`).
+
+> **MiniLean:** has no pattern matching, so there is nothing to compile: `sumTo` is written with `Nat.rec` from the start ([stage 4](https://vwulf.github.io/ettuge/FP/minilean-literate/MiniLean/Walkthrough/S4_Recursors/)).
 
 **Equality is an inductive type too.**
 
@@ -198,6 +208,8 @@ inductive Eq : α → α → Prop where
 ```
 
 There is only one way to build a proof of `a = b`: `Eq.refl a`, which needs `a` and `b` to be the same. `rfl` is that constructor. "Replace equals by equals", which `rw` does, is `Eq`'s recursor. `calc` chains steps with `Eq.trans`, a two-line theorem proved from the recursor.
+
+> **MiniLean:** its `rw` builds exactly such an `Eq.rec` term. [Stage 3](https://vwulf.github.io/ettuge/FP/minilean-literate/MiniLean/Walkthrough/S3_Tactics/) prints the whole proof term of `zero_add`: `induction` became `Nat.rec`, and each `rw` an `Eq.rec`.
 
 **The whole proof as one term.** Without tactics, the induction proof is a direct application of `Nat.rec`:
 
@@ -249,6 +261,8 @@ Read it inside out and it is the hand proof. `Nat.rec` is induction. `rfl` is th
 
 Everything in the untrusted zone can be replaced, rewritten, or written by an AI. None of it can make a false proof pass, because its only output is a term that the kernel checks.
 
+> **MiniLean:** draws the same line in its source. Four modules are trusted (`Level`, `Expr`, `Env` and `Kernel`, about 745 lines). Name resolution, the tactics and the DSL are not (about 650 lines): everything they produce is checked ([MiniLean §2](minilean.md#s2)).
+
 [↑ Contents](#contents)
 
 ## 4. Why a type is a statement and a term is a proof {#s4}
@@ -280,6 +294,8 @@ The correspondence is not a metaphor. Each logical connective *is* a type former
 
 So "is this proof valid?" becomes "does this term have this type?" That question can be answered mechanically, and [section 5](#s5) shows how.
 
+> **MiniLean:** the same picture with a single binder, Π. [Stage 6](https://vwulf.github.io/ettuge/FP/minilean-literate/MiniLean/Walkthrough/S6_CurryHoward/) checks that `∀ (n : Nat), NatEq n n` is a `Prop` and that `Type : Sort 2`. Declaring `Type : Type` is refused ([MiniLean §7](minilean.md#s7)).
+
 [↑ Contents](#contents)
 
 ## 5. How the kernel checks the proof {#s5}
@@ -308,6 +324,8 @@ In logical terms, the first rule says that to prove ∀ x, B, you prove B for an
 
 Lean's kernel adds two practical extras: number literals are computed with fast big-integer arithmetic instead of unary `succ` chains, and any two proofs of the same proposition count as equal (definitional proof irrelevance).
 
+> **MiniLean:** has only β, δ and ι, with no literals and no proof irrelevance. Its `#mini_trace` prints every step: [stage 7](https://vwulf.github.io/ettuge/FP/minilean-literate/MiniLean/Walkthrough/S7_Computation/) shows `add two two` taking δ, β, β, ι, β, β and stopping at `Nat.succ …`.
+
 **Checking `two_mul_sumTo'` by hand.** Here is what the kernel does with the term from [section 3](#s3):
 
 1. **Look up `Nat.rec`.** Its type is the induction principle. Plugging in the motive m ↦ (2 · sumTo m = m(m + 1)) fixes what the two cases must prove (rule app, plus β).
@@ -316,6 +334,8 @@ Lean's kernel adds two practical extras: number literals are computed with fast 
 4. **Check the result.** `Nat.rec … n` has type `motive n`, which β-reduces to `2 * sumTo n = n * (n + 1)`, the type the theorem claims. Accepted.
 
 No step needs insight. Each is a lookup, a substitution, or a reduction followed by a syntactic comparison. That is why a kernel can be small. The MiniLean4 book builds one for this type theory, with its tactics and parser, in under three thousand lines of Rust with no dependencies ([MiniLean4](https://learn.h5i.dev/)). Its core idea: tactics only produce terms for the kernel to check, so a bug outside the kernel can stop a proof but should not let a false theorem through.
+
+> **MiniLean:** is such a kernel, written in Lean 4. `infer` in [`MiniLean.Kernel`](https://vwulf.github.io/ettuge/FP/minilean-literate/MiniLean/Kernel/) has one case per typing rule above, `isDefEq` is the conversion rule, and `whnfStep?` takes one β, δ or ι step. [Stage 8](https://vwulf.github.io/ettuge/FP/minilean-literate/MiniLean/Walkthrough/S8_Kernel/) shows its verdicts: it accepts 2 · sumTo 3 = 12, rejects 13, and rejects a true lemma offered as a proof of the wrong statement.
 
 **One honest wrinkle.** In theory, Lean's definitional equality is not fully decidable. Proof irrelevance interacts with certain inductive types in a way that can make the check fail to terminate or behave non-transitively (Abel and Coquand). In practice this almost never arises ([Lean and AI Formalization §1](lean-ai-formalization.md#s1)). When it does, the kernel rejects or times out. It does not accept a false proof.
 
@@ -350,6 +370,8 @@ Source: [Lean and AI Formalization §11](lean-ai-formalization.md#s11). The epis
 | Official (`leanchecker`) | C++ | Tested; built with a hardened allocator |
 
 Source: [Lean and AI Formalization §11](lean-ai-formalization.md#s11). `lake check --paranoid` runs them all. con-leche checks all of Mathlib in about 100 seconds on eight threads.
+
+> **MiniLean:** is one more independent checker for this particular proof: written separately, with no shared code, and small enough to read. A checker must also refuse, so its [rejection tests](minilean.md#s7) pin five refusals: a false equation, `Type : Type`, a non-positive type, an oversized field, and data computed from a proof of a disjunction ([stage 9](https://vwulf.github.io/ettuge/FP/minilean-literate/MiniLean/Walkthrough/S9_Checkers/)).
 
 **Isn't Lean checking Lean circular?** Partly, and the circle is small and can be inspected. con-leche's correctness proof is a Lean proof, so it was itself checked by a kernel. What that proof shows is a mathematical statement: "whatever this checker accepts has a set-theoretic model". The remaining trust is narrow and spelled out:
 
@@ -418,11 +440,13 @@ Followed all the way down, "Lean proved 1 + 2 + ⋯ + n = n(n + 1)/2" unpacks in
 1. The theorem is a **type**, built from Π, `Eq` and `Nat`.
 2. The proof is a **term**, built from `Nat.rec` (induction), `Eq.refl` (equality) and a few lemmas that are themselves terms of the same kind.
 3. Each of those primitives is **generated by a fixed recipe** from two short inductive declarations. Induction comes from what `Nat` is; it is not assumed separately.
-4. The kernel **checks** the term with a handful of typing rules and reductions. It is a small, deterministic algorithm, simple enough to write in a few thousand lines.
+4. The kernel **checks** the term with a handful of typing rules and reductions. It is a small, deterministic algorithm. [MiniLean](minilean.md)'s version is about 745 lines of Lean.
 5. The kernel's **correctness** is a theorem: con-leche accepts only what has a model in set theory, and that proof was itself machine-checked.
 6. The **logic's consistency** rests on set theory, the same foundation that paper mathematics uses.
 
 Every layer is math, described in a way a machine can check. The tactics, the elaborator, the editor and the AI that may have written the proof all sit *outside* this chain. They can make finding a proof easier or harder, but they cannot make a false proof pass. What is left to trust is set theory, a small amount of code checked several independent ways, and your own reading of the statement. That is less than a paper proof asks you to trust.
+
+To see each of these layers as running code, follow the same proof through [MiniLean](minilean.md) and its companion, [No Magic, implemented](https://vwulf.github.io/ettuge/FP/minilean-literate/).
 
 [↑ Contents](#contents)
 
@@ -432,6 +456,9 @@ Every layer is math, described in a way a machine can check. The tactics, the el
 - [Calculus of constructions](https://en.wikipedia.org/wiki/Calculus_of_constructions), Wikipedia, General traits
 - [Lean and AI Formalization](lean-ai-formalization.md), §1 (foundations) and §11 (kernel trust)
 - [MiniLean4](https://learn.h5i.dev/), Hideaki Takahashi: a Lean-style kernel in Rust, built up chapter by chapter
+- [MiniLean: The No Magic Proof in a Kernel You Can Read](minilean.md): this proof, checked by a small type checker written in Lean 4, with a feature-by-feature comparison to Lean
+- [No Magic, implemented](https://vwulf.github.io/ettuge/FP/minilean-literate/): the companion, walking the proof through MiniLean stage by stage, with every kernel module's source
+- [No Magic, compiled](https://vwulf.github.io/ettuge/FP/no-magic-literate/): the companion for this article, one stage per page, with Lean's own output
 - [Mathematics in Lean](../Deep-Dives/textbooks/mathematics-in-lean), Jeremy Avigad and Patrick Massot, textbook breakdown; §5.2 proves this article's theorem with Mathlib (`sum_id`), chapter 3 teaches the connectives of [section 4](#s4) as proof moves, and §6.3 builds inductive types like `Nat` from scratch ([online](https://leanprover-community.github.io/mathematics_in_lean/))
 - [Functional Programming in Lean](../Deep-Dives/textbooks/functional-programming-in-lean), textbook breakdown; chapter 3 (propositions and proofs) and chapter 9 (tactics and induction) are the natural next reading
 - Mario Carneiro, *The Type Theory of Lean* (MS thesis, Carnegie Mellon, 2019)
