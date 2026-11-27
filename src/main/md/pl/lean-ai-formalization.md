@@ -1,6 +1,6 @@
 # Lean, Foundations, and the AI Formalization of Mathematics
 
-*Started Nov 1, 2026 · last updated Nov 21, 2026 · Vishwas*
+*Started Nov 1, 2026 · last updated Nov 27, 2026 · Vishwas*
 
 <!-- section-index:begin -->
 ## Contents {#contents}
@@ -47,6 +47,7 @@
   - [18.1 The Riemann hypothesis and GRH (certified Nov 21)](#s18-1)
   - [18.2 Other announcements](#s18-2)
   - [18.3 What the week shows](#s18-3)
+- [19. November 21–27, 2026: a shorter RH proof, and circuit lower bounds](#s19)
 - [References](#references)
 
 *Every heading links to itself: hover (or tap the link icon) and copy the link to share a section, e.g. `#s6` for section 6.*
@@ -69,8 +70,11 @@ Lean 4 is the de facto platform for AI-assisted formalization of mathematics, an
 - **Nov 9–10, 2026:** agent-driven verification reached deployed software (DeepMind's machine-code proofs for Signal; a Lean copy of 16% of CPython that found 418 bugs), and 1,000 Fable 5.2 agents re-formalized FLT in 28.7 hours.
 - **Nov 11–12, 2026:** Axiom formalized Faltings' theorem on its Stacks library; OpenAI's \~1M-line Yang–Mills existence proof was released as Lean only, and Armstrong and Hairer began reverse-engineering a readable proof.
 - **Nov 13–21, 2026:** Alpöge and Claude released a 17.4M-line Lean proof of RH and GRH with no written proof, and on Nov 21 the Lean and Mathlib communities, endorsed by the Lean FRO, certified the RH proof correct; Axiom and Google independently formalized the Weil conjectures.
+- **Nov 23–25, 2026:** Claude rewrote the RH proof in \~300K lines (a \~76K compact edition too), and Anthropic and OpenAI both claimed VP ≠ VNP with Lean proofs whose definitions are not yet checked (section 19).
 
 **Companion page:** the [Math Deep Dives](https://vwulf.github.io/ettuge/Deep-Dives/math) work through the mathematics behind many results here (UGC, quasi-RH, RH and GRH, Navier–Stokes, Yang–Mills, the formalized textbooks). Sections below link the matching entries.
+
+**New to Lean? Start here.** [No Magic](https://vwulf.github.io/ettuge/FP/lean-no-magic) follows one theorem, 1 + 2 + … + n = n(n+1)/2, from a paper proof to Lean's kernel. It shows what "proved" means, why a type is a statement and a term is a proof, and who checks the checker. [MiniLean](https://vwulf.github.io/ettuge/FP/minilean) then rebuilds the same proof in a small kernel (about 1,400 lines of Lean) that you can read end to end. Both build in CI with Lean 4.36.0, and their compiled companions show every stage: [No Magic, compiled](https://vwulf.github.io/ettuge/FP/no-magic-literate/) and [MiniLean, implemented](https://vwulf.github.io/ettuge/FP/minilean-literate/). Sections 1, 11 and 15 build on them. For where trust stands, read [Thomas Hales' guest post on Tao's blog](https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/) (Oct 9, 2026). It is the best human-written overview of what Lean guarantees, the summer soundness bugs, independent and verified kernels, open gaps in Lean's metatheory, and why statement fidelity needs a human audit.
 
 [↑ Contents](#contents)
 
@@ -87,6 +91,8 @@ Lean is built on dependent type theory, specifically a variant of the Calculus o
 | Axioms | `propext`, `Quot.sound`, `Classical.choice`; excluded middle follows via Diaconescu |
 
 In practice Lean and mathlib are openly classical. One known cost: definitional proof irrelevance combined with subsingleton elimination (e.g. on `Acc`) makes Lean's definitional equality undecidable and non-transitive in the kernel (Abel & Coquand). This rarely matters in practice.
+
+**Worked example:** [No Magic §4, why a type is a statement and a term is a proof](https://vwulf.github.io/ettuge/FP/lean-no-magic#s4), and [§6.1, why Lean is not ZFC](https://vwulf.github.io/ettuge/FP/lean-no-magic#s6-1), show these foundations on one small theorem.
 
 [↑ Contents](#contents)
 
@@ -474,7 +480,7 @@ Every section above assumes Lean's kernel is correct. In summer 2026 AI-assisted
 | Jul 30–Aug 20 | OpenAI (Daniel Selsam) runs security-focused AI over the kernel until it reports no further issues; several more implementation bugs are found and fixed. |
 | Aug 1, Aug 24 | De Moura publishes postmortems; the second also covers runtime exploits (reference-count overflow, a GMP build issue) that nanoda rejected. |
 | Aug 21 | Lean v4.33.1 ships the fixes. |
-| Oct 9 | Thomas Hales' guest post on Tao's blog: what mathematicians should check after Lean accepts a proof. |
+| Oct 9 | [Thomas Hales' guest post on Tao's blog](https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/): what mathematicians should check after Lean accepts a proof. |
 | Oct 15 | Lean v4.35.0 ships with verified kernels. |
 
 De Moura's framing: the logic was sound; the kernel's implementation was not. The bugs were found by researchers with frontier models rather than attackers, which Hales reads as a good sign.
@@ -500,6 +506,10 @@ De Moura's framing: the logic was sound; the kernel's implementation was not. Th
 **Scaling is the open problem.** External checkers don't yet scale to today's projects (FLT 13M+ lines, Tau Ceti 3M+, General Courtade–Kumar 50M+, Axiom's CFSG 43M and Stacks 18M). Binary export formats and incremental external checking are needed.
 
 **Why it matters for this doc.** The trust story for AI-scale mathematics now has three layers: a verified kernel for the logic, diverse independent kernels for the implementation, and human review for statement fidelity. The first two are now largely automated; the third is the same bottleneck as sections 8 and 9.
+
+**Human overview:** [Hales, "What mathematicians should know about the Lean theorem prover: questions of reliability and AI"](https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/) (guest post on Tao's blog, Oct 9, 2026) covers this section's ground for working mathematicians. He holds that no Lean proof should be believed until the kernel checks it, or accepted until a human audits statement fidelity. He lists about 25 independent kernels and Con-Leche's relative consistency proof, and notes that no complete public consistency proof of Lean's type theory exists yet.
+
+**Worked example:** [No Magic §5, how the kernel checks the proof](https://vwulf.github.io/ettuge/FP/lean-no-magic#s5), and [§6, who checks the checker](https://vwulf.github.io/ettuge/FP/lean-no-magic#s6), walk through one kernel check by hand. [MiniLean §7](https://vwulf.github.io/ettuge/FP/minilean#s7) shows what a small kernel refuses.
 
 ### 11.1 The pipeline between statement and kernel {#s11-1}
 
@@ -765,7 +775,7 @@ On Nov 11, 2026 the Gross-led panel released OpenAI's Lean source, [`OpenAI-YM-2
 
 **Reverse-engineering it.** [Scott Armstrong's map](https://github.com/scottnarmstrong/yang-mills-informalization) presents the proof at five levels, from the theorem to 32 units with 989 key statements linked to exact Lean lines, plus a 265-page AI-written manuscript draft. It shows that 70% of the code is a Bałaban-type ultraviolet renormalization group. [Martin Hairer's humanise-yang-mills](https://github.com/hairer/humanise-yang-mills) builds on that map to crowd-source a monograph (872-page incomplete draft) with contributors' agents. Fuller detail is in the separate Yang–Mills doc.
 
-**Deep dives:** [Yang–Mills: existence without the mass gap](https://vwulf.github.io/ettuge/Deep-Dives/math/ch4#yang-mills) · [The committee verdict and the November dispute](https://vwulf.github.io/ettuge/Deep-Dives/math/ch4#ym-verdict) · [The Sussman–Alpöge Bałaban completion](https://vwulf.github.io/ettuge/Deep-Dives/math/ch4#sussman-alpoge) · [Yang–Mills and holography](https://vwulf.github.io/ettuge/Deep-Dives/math/ch4#ym-holography)
+**Deep dives:** [Yang–Mills: existence without the mass gap](https://vwulf.github.io/ettuge/Deep-Dives/math/ch4#yang-mills) · [The Sussman–Alpöge Bałaban completion](https://vwulf.github.io/ettuge/Deep-Dives/math/ch4#sussman-alpoge)
 
 ### 17.3 Making AI proofs readable {#s17-3}
 
@@ -823,6 +833,26 @@ Google's primary blog does not itemize the Weil and Hilbert's tenth results, so 
 - **Infrastructure is forming.** Comparator is becoming routine for small results (Mizohata–Takeuchi, Gonshor). Tao's [Palomar registry](https://runtimewire.com/article/palomar-lean-proof-registry-ai-mathematics) records fixed snapshots of AI-assisted Lean results and compares formal statements against informal descriptions. Vals AI's Autoform-Hard benchmark (56 research-level tasks) has the top models at 48–49.
 - **Smaller is now cheap.** A first formalization of a 2006 ring-theory theorem took one model 94 minutes and $22, by a new route that sidestepped missing mathlib infrastructure.
 - **The largest claim got the most checking.** Within a day, RH (17.4M lines) passed every check the small results had: Comparator, the verified kernels and dozens of independent builds.
+
+[↑ Contents](#contents)
+
+## 19. November 21–27, 2026: a shorter RH proof, and circuit lower bounds {#s19}
+
+The week after the RH certification brought a 50-fold shorter RH proof and Lean-backed claims on three classic lower-bound problems in algebraic complexity. For the new results the open question is statement fidelity: whether the Lean definitions are the standard ones.
+
+| Date | Result | Lean status |
+| --- | --- | --- |
+| Nov 25 | [RH/GRH rewrite](https://github.com/lsernau/grh-lean), written by Claude: a readable edition (\~300K lines of code) and a compact one (\~76K) | Authors report acceptance by nanoda, con-leche, con-ron and Comparator with the three standard axioms; the community has not repeated its review |
+| Nov 25 | Google's Cogentic agent: first proven L\[1/3\] factoring algorithm, plus five more papers | Lean files promised "in a companion submission", not public |
+| Nov 24 | OpenAI: ω = 9/4 exactly, by a matching lower bound for formal arithmetic circuits | Lean reported for division-free circuits; no independent check yet |
+| Nov 24 | OpenAI: the Fourier transform needs N(log N)^(1/2+o(1)) linear gates; also VF ⊊ VBP ⊊ VP ⊊ VNP | Lean status not stated; no outside review yet |
+| Nov 23 | VP ≠ VNP over every field, claimed separately by Anthropic and OpenAI four hours apart | Anthropic: 324 files, \~73K lines, Comparator plus nanoda; OpenAI: \~440K lines reported. No one has checked that the statements match Valiant's definitions |
+
+- **The RH proof shrank.** The rewrite keeps Alpöge's method but replaces the arithmetic-geometry covolume bound with simpler arguments. Alpöge's original, the version the community certified, now sits on its own branch. A [four-page riemann-rev note](https://nasqret.github.io/riemann-rev/summary/grh-condensed-summary.pdf) maps the compact edition; no mathematician has read either edition through.
+- **New definitions are the new risk.** RH used mathlib's vetted `RiemannHypothesis`. VP, VNP and circuit size have no mathlib definitions, so each lab wrote its own; Anthropic's README says nothing checks that its 98-line `Statement.lean` says what is claimed. This is Buzzard's question 1 again (section 11.1).
+- **Coverage (section 6) barely moves.** These are new theorems, not existing literature; only the RH rewrite adds a second, far smaller route to material already counted.
+
+**Deep dives:** [The RH rewrite](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#rh-rewrite) · [VP ≠ VNP](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#vp-vnp) · [ω = 9/4](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#matmul-nine-fourths) · [The Euclidean tensor spectrum behind them](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#tensor-spectrum) · [Fourier transform in N√log N](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#fft-sqrt-log) · [L\[1/3\] factoring](https://vwulf.github.io/ettuge/Deep-Dives/math/ch3#factoring-l13)
 
 [↑ Contents](#contents)
 
@@ -885,7 +915,7 @@ Sections 1–3 (foundations, HoTT, Rocq) draw on general knowledge of the system
 - [Dan Luu, How well do agents use test and verification techniques?](https://danluu.com/agentic-testing/)
 - [De Moura, Lean now ships with verified kernels (Oct 15, 2026)](https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/)
 - [GIGAZINE: Collatz disproof exposes Lean kernel bug #14576](https://gigazine.net/gsc_news/en/20260803-collatz-lean-kernel-bug)
-- [Summary of Hales' guest post on Lean trust (Chinese translation)](https://braindetox.kr/zh/posts/tao_what_mathematicians_should_know_lean_trust_ai_2026.html)
+- [Summary of Hales' guest post on Lean trust (Chinese translation; original: terrytao.wordpress.com, Oct 9, 2026)](https://braindetox.kr/zh/posts/tao_what_mathematicians_should_know_lean_trust_ai_2026.html)
 - [Science: AI is shaking up math. But can its proofs be trusted? (not read: paywalled to my tools)](https://www.science.org/content/article/ai-shaking-math-can-its-proofs-be-trusted)
 
 **Graph isomorphism and Lean as a language**
@@ -918,6 +948,10 @@ Sections 1–3 (foundations, HoTT, Rocq) draw on general knowledge of the system
 - [A modern reorganization of mathematics (Xena guest post)](https://xenaproject.wordpress.com/2026/11/11/a-modern-reorganization-of-mathematics/)
 - [Buzzard, And the proof is checked in Lean](https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/)
 - [Navier–Stokes lost in translation (arXiv 2610.08144)](https://arxiv.org/abs/2610.08144)
+- [Thomas Hales, What mathematicians should know about the Lean theorem prover: questions of reliability and AI (guest post on Terence Tao's blog, Oct 9, 2026)](https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/)
+- [No Magic: Proving 1 + 2 + … + n = n(n+1)/2 from paper to Lean's kernel](https://vwulf.github.io/ettuge/FP/lean-no-magic) and [MiniLean](https://vwulf.github.io/ettuge/FP/minilean) (beginner entry points on this site)
+- [lsernau/grh-lean: the condensed RH/GRH proof (Nov 25, 2026)](https://github.com/lsernau/grh-lean)
+- [anthropics/formal-math: VP ≠ VNP (Nov 23, 2026)](https://github.com/anthropics/formal-math)
 - [Alpöge, Remark (RH/GRH)](https://alpo.ge/remark.pdf)
 - [Lean and Mathlib communities, Lean verification of the Riemann Hypothesis (Nov 21, 2026)](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
 - [leanprover-community/riemann-hypothesis: Comparator setup and mirror](https://github.com/leanprover-community/riemann-hypothesis)
