@@ -1,7 +1,7 @@
 ---
 title: Math Deep Dives
 created: 2026-11-13
-updated: 2026-11-25
+updated: 2026-11-27
 source: deep-dive reading sessions on papers and books (Oct–Nov 2026)
 ---
 
@@ -37,6 +37,9 @@ These notes come from close readings of papers, preprints and books, mostly the 
     - [The ETH refutation](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#eth-refutation)
     - [Chowla's cosine problem](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#chowla-cosine)
     - [A Euclidean geometry on the tensor spectrum](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#tensor-spectrum)
+    - [The hard step: Euclidean flats over every field](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#tensor-spectrum-proof)
+    - [How ω, Fourier and VP ≠ VNP use it](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#tensor-spectrum-uses)
+    - [What to check in the tensor spectrum](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#tensor-spectrum-checks)
     - [ω = 9/4: the upper bound held, the lower bound is the shock](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#matmul-nine-fourths)
     - [The Fourier transform needs N√log N linear gates](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#fft-sqrt-log)
     - [VP ≠ VNP, twice in one day](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#vp-vnp)
@@ -279,12 +282,73 @@ Why it's easy to confuse with UGC: MaxCut is UGC's most famous problem. But UGC 
 
 ---
 
-<a id="tensor-spectrum"></a>**One new tool sits under three of the Nov 24 results: a Euclidean geometry on Strassen's asymptotic spectrum of tensors.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#tensor-spectrum)
+<a id="tensor-spectrum"></a>**One new tool sits under three of the Nov 24 results: tensor costs that follow Euclidean geometry, built inside Strassen's asymptotic spectrum.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#tensor-spectrum)
 [Papers › Theory of Computation](https://vwulf.github.io/ettuge/Books/Papers#theory-of-computation) · <https://github.com/openai/math/blob/main/history.md> (family 379)
 
-On Nov 24 OpenAI added seven manuscripts as one family: "Euclidean geometry in the asymptotic spectrum of tensors", plus applications to Valiant's hierarchy, circuit lower bounds for the permanent and Hamiltonian cycle, the Fourier transform, integer multiplication on tapes, the matrix multiplication exponent and sunflowers. Strassen's spectrum is the set of monotone, multiplicative, normalized functions on tensors; by his duality theorem, asymptotic rank and asymptotic restriction are decided by those functions. The new paper reportedly turns spectral points into distances and asks when those distances are Euclidean. Anthropic's independent VP ≠ VNP proof (Nov 23) runs on the same idea, which is the strongest sign that it is real. It also means the results below rise or fall together: if the framework has a gap, most of them do.
+On Nov 24 OpenAI added seven manuscripts as one family: "Euclidean geometry in the asymptotic spectrum of tensors", plus applications to Valiant's hierarchy, circuit lower bounds for the permanent and Hamiltonian cycle, the Fourier transform, integer multiplication on tapes, the matrix multiplication exponent and sunflowers. The results below rise or fall together: if the framework has a gap, most of them do. This entry and the three after it come from reading the main paper's abstract, full introduction, README and bibliography directly (Nov 24 edition); its body sections and the companion papers have not been read yet.
+
+**The setup.**
+- **Tensors with positions.** Work over any field. Each index of a tensor is placed at a point, a *site*, in a real Hilbert space. Several indices may share a site; grouping them per site gives an ordinary tensor with one factor per site.
+- **Spectral points.** Strassen's asymptotic spectrum is the set of functions F on tensors that are nonnegative, send the unit tensor to 1, cannot increase under restriction (independent linear maps at each site), and are multiplicative under ⊗ and additive under ⊕. By his duality theorem, these functions decide asymptotic rank and asymptotic restriction.
+- **Prices.** A price is a positive multiple of log₂ F(T). Prices of independent pieces add, and a restriction can only lower the price.
+- **Pieces to price.** A *binary wire* is the 2 × 2 identity shared by two sites. A *shared label* with q values on a site set S is the unit (GHZ) tensor Σⱼ eⱼ⊗…⊗eⱼ. The *mean width* W(S) is the Gaussian mean width of the convex hull of S, normalized so a segment's width is its length; for a triangle it is half the perimeter.
+
+**The invariant (Theorem 1.1).** Over every field and Hilbert space there is one compatible price assignment in which a wire between u and v costs ‖u − v‖ and a shared label with q values on S costs W(S)·log₂ q. On each finite site set S it equals W(S)·log₂ F_S for a genuine spectral point F_S; adding unused sites changes nothing; and prices depend only on distances between labelled sites, scaling linearly when the placement is dilated.
+
+**What follows from it.**
+- Price is a seminorm on placements up to translation, and moving sites toward each other can only lower it.
+- Copying a label to a new site z costs at most (W(S ∪ {z}) − W(S))·log₂ q, so copies placed on segments are free.
+- A graph tensor costs Σ (edge length)·log₂(edge dimension).
+- The mean-width formula is forced: any compatible spectral system in which wires cost Euclidean length on a whole flat gives the same shared-label value.
+- A real spectral point is needed. Averaging cut ranks gets the wire lengths and mean width right but is not additive under ⊕: in the paper's square example the geometric-mean rank is √2 on each piece, so additivity would need 2√2, but the direct sum has rank 3. That breaks a four-point inequality every genuine price satisfies.
+
+**What it bounds.** If T restricts or degenerates, even asymptotically, to S, then S's price is at most T's in every placement. A rank-R unit tensor is a shared label, so log₂ R ≥ H(T)/W(S) for every placement: lower bounds come from placements where a tensor is expensive relative to the mean width of its sites.
 
 This is the exception to the "old tools, new combinations" pattern in [§6](ch6#themes-old-tools). The upper bounds came from recombining known machinery; the lower bounds need a genuinely new invariant. **[→ mathematics; cross-link → algorithms-data-structures]**
+
+---
+
+<a id="tensor-spectrum-proof"></a>**The load-bearing step is Theorem 1.2: Euclidean "flats" of every dimension exist over every field, proved by contradiction through a diagonal argument.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#tensor-spectrum-proof)
+
+A *spectral flat* of dimension d is a copy of ℝᵈ with compatible spectral prices in which wires cost Euclidean length. Theorem 1.2 says one exists in every finite dimension over every field, and Theorem 1.1 is derived from it.
+
+**Part I, the geometry of prices.**
+1. Wire prices satisfy the triangle inequality, and sites can be inserted along segments.
+2. Exterior algebra makes prices convex in a common parameter.
+3. A shifted crossing identity, using Clifford algebras, gives nonpositive curvature in Alexandrov's sense. The crossing decompositions are credited to Khoruzhii and to Appendix B of Anthropic's 3-SAT preprint.
+4. On a flat, interior sites are free; a copying inequality then fixes segments and triangles.
+5. Polytope support functions are approximated by triangle ones, which yields the mean width; concentration on high-dimensional frames gives a single system on any Hilbert space.
+
+**Parts II and III, existence of flats.**
+1. Field transfer reduces any failure to a finite field whose largest flat dimension is some k ≥ 1.
+2. Corners of a (k+1)-cube are excluded, using bounded-degree port graphs and Mendel and Naor's nonlinear spectral calculus to control mean squared distances.
+3. Exact networks are compressed with tagged-permutation gates, built from local tests with borrowed wires, an exact routing identity, and an approximation with O(2ʰ h^(1+ε)) trivalent vertices.
+4. A collapse theorem: a bounded-degree computation of size V with few external bits has an approximation of amortized size at most V/(log V)^A.
+5. A diagonal argument on a universal weighted grid computation then makes the error exceed a strict bound. The paper cites Williams' algorithms-to-lower-bounds method as precedent.
+
+**Lean scope.** The README says the formal development identifies the price of a shared bit with normalized mean width *on a convex Euclidean chart with jointly convex diagonal prices*. That is a conditional piece of Part I, not Theorem 1.2. **[→ mathematics]**
+
+---
+
+<a id="tensor-spectrum-uses"></a>**How the three claims use it: the naive triangle argument gives only ω ≥ 2, and everything past that is in the companion papers.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#tensor-spectrum-uses)
+
+- **ω.** ⟨n,n,n⟩ is a triangle of three independent wires of dimension n, so its price is the perimeter times log₂ n; a rank-r unit tensor on the same sites costs half the perimeter times log₂ r. That forces r ≥ n², which is only ω ≥ 2. The 9/4 comes from the companion "The matrix multiplication exponent is nine fourths", via spectral comparison and network compression. The introduction relates the shared-leg copying argument of OpenAI's October upper-bound paper to its own copying bound, so ω = 9/4 is that upper bound plus the new lower bound ([below](#matmul-nine-fourths)).
+- **The Fourier transform.** The introduction says high-dimensional placements tell apart the cuts of arithmetic computations, and that spectral comparison plus network compression gives circuit lower bounds. Presumably the DFT's inputs and outputs are placed so many cuts carry high price, and a small linear circuit compresses to a network too cheap to pay for them; that inference is unchecked against the companion ([below](#fft-sqrt-log)).
+- **VP ≠ VNP.** The companions "Paths, trees and grids separate Valiant's hierarchy" and "Circuit lower bounds for Hamiltonian cycle and the permanent" carry it; the titles suggest formulas, branching programs and circuits are told apart by the cut geometry of trees, paths and grids ([below](#vp-vnp)).
+- **How independent is Anthropic's VP ≠ VNP?** Its flat/contracting dichotomy has the same shape as this paper's flats-by-contradiction, and this paper credits part of its curvature argument to an Anthropic preprint. Shared ingredients make the agreement weaker evidence than "two independent proofs" suggests.
+
+Also named as applications: an exponential sunflower bound and integer multiplication on tapes. **[→ algorithms-data-structures; cross-link → mathematics]**
+
+---
+
+<a id="tensor-spectrum-checks"></a>**What to check: monotonicity under degeneration comes for free, so the real question is whether these spectral points exist over every field.** [¶](https://vwulf.github.io/ettuge/Deep-Dives/math/ch2#tensor-spectrum-checks)
+
+1. **Monotonicity under degeneration.** A degeneration implies an asymptotic restriction, and every spectral point respects asymptotic restriction, so a genuine F_S is automatically monotone under degeneration. The paper takes closure of its price bounds under degeneration from the polynomial sublevel method of Christandl, Hoeberechts, Nieuwboer, Vrana and Zuiddam (STOC 2025, "Asymptotic tensor rank is characterized by polynomials"), which is outside, refereed work. The worry moves to whether F_S is a spectral point at all: additive under ⊕, multiplicative under ⊗, compatible across site sets. *Falsified by:* small explicit tensors (over 𝔽₂, say) and a placement where the claimed prices break additivity or the four-point inequality, or a degeneration T → S with S priced above T.
+2. **Theorem 1.2 over every field.** *Falsified by:* a field, especially a small finite one, whose flat dimension is bounded, or a gap in the collapse theorem. Compressing every bounded-degree computation to V/(log V)^A amortized size is a strong statement in itself, so check it doesn't prove too much against known tight results such as sorting networks.
+3. **Field transfer.** *Falsified by:* a property that holds in every finite characteristic but fails in characteristic 0, or the reverse.
+4. **Lean scope.** *Falsified by:* an axiom or unproved placeholder standing in for the existence theorem, or the convexity hypotheses doing the work Theorem 1.2 is supposed to do.
+5. **Sanity of the rectangular bound.** For n × n by n × n^α the claim gives max{n², n^(1.5+0.75α)}, which stays n² up to α = 2/3, so it doesn't clash with the known dual exponent of about 0.32. *Falsified by:* any known algorithm beating one of the claimed bounds.
+6. **Barriers.** The lower bounds end in diagonalization against a universal computation; check how that avoids relativization and natural-proofs style barriers. **[→ mathematics; cross-link → algorithms-data-structures]**
 
 ---
 
@@ -307,7 +371,7 @@ This is the exception to the "old tools, new combinations" pattern in [§6](ch6#
 
 **Why it's a shock.** Every earlier lower-bound technique (flattenings, Koszul, border apolarity) tops out near 3n² and cannot lift ω above 2. Beating that needs a spectral point separating ⟨n,n,n⟩ from n², and Strassen's own conjecture that tight tensors have minimal asymptotic rank said none exists; the claim refutes it. It changes no GPU kernel: the count is exact algebraic multiplications, and fast algorithms only pay off at astronomical n.
 
-**What to check.** That "formal arithmetic circuit" and asymptotic rank are stated in Lean as in Bürgisser–Clausen–Shokrollahi, and that the new function really is monotone under degeneration and multiplicative under tensor product. **[→ algorithms-data-structures; cross-link → mathematics]**
+**What to check.** That "formal arithmetic circuit" and asymptotic rank are stated in Lean as in Bürgisser–Clausen–Shokrollahi, and that the new function is a genuine spectral point over every field; monotonicity under degeneration then comes for free ([what to check](#tensor-spectrum-checks)). **[→ algorithms-data-structures; cross-link → mathematics]**
 
 ---
 
