@@ -1,0 +1,67 @@
+name: No Magic — independent kernel check
+
+# Replays the No Magic proofs through every checker bundled with Lean
+# (`lake check --paranoid`: Lean's paranoid kernel, lean4lean, nanoda,
+# con-leche, con-ron) inside the bubblewrap sandbox.
+#
+# Only the proofs are checked (the NoMagic library). The companion stage pages
+# (NoMagicCompile) import all of `Lean`, which makes the export ~170k
+# declarations and the run take hours, and the Verso dependency is only for
+# documentation. So the job copies NoMagic into a minimal Lake package first.
+
+on:
+  push:
+    branches: ["master"]
+    paths:
+      - "src/main/lean/no-magic/NoMagic/**"
+      - "src/main/lean/no-magic/NoMagic.lean"
+      - "src/main/lean/no-magic/lean-toolchain"
+      - ".github/workflows/no-magic-check.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  paranoid:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install bubblewrap (the lake check sandbox)
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq bubblewrap
+          # Ubuntu 24.04 blocks unprivileged user namespaces through AppArmor;
+          # bwrap needs them.
+          sudo sysctl -w kernel.apparmor_restrict_unprivileged_userns=0 || true
+
+      - name: Make a proofs-only Lake package
+        run: |
+          src=src/main/lean/no-magic
+          dst="$RUNNER_TEMP/no-magic-proofs"
+          mkdir -p "$dst"
+          cp -R "$src/NoMagic" "$src/NoMagic.lean" "$src/lean-toolchain" "$dst/"
+          cat > "$dst/lakefile.toml" <<'TOML'
+          name = "no-magic-proofs"
+          defaultTargets = ["NoMagic"]
+
+          [[lean_lib]]
+          name = "NoMagic"
+          TOML
+          echo "PROOFS_DIR=$dst" >> "$GITHUB_ENV"
+
+      - name: Set up Lean and build
+        uses: leanprover/lean-action@v1
+        with:
+          lake-package-directory: ${{ env.PROOFS_DIR }}
+          auto-config: "false"
+          build: "true"
+          test: "false"
+          lint: "false"
+          use-mathlib-cache: "false"
+
+      - name: lake check --paranoid
+        working-directory: ${{ env.PROOFS_DIR }}
+        run: lake check --paranoid
