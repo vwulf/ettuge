@@ -50,6 +50,15 @@ jobs:
           [[lean_lib]]
           name = "NoMagic"
           TOML
+          # No dependencies, but lean-action and lake check both need a manifest.
+          cat > "$dst/lake-manifest.json" <<'JSON'
+          {"version": "1.3.0",
+           "packagesDir": ".lake/packages",
+           "packages": [],
+           "name": "«no-magic-proofs»",
+           "lakeDir": ".lake",
+           "fixedToolchain": false}
+          JSON
           echo "PROOFS_DIR=$dst" >> "$GITHUB_ENV"
 
       - name: Set up Lean and build
