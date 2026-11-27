@@ -4,3 +4,10 @@ defaultTargets = ["MiniLean"]
 
 [[lean_lib]]
 name = "MiniLean"
+
+# Documentation only: Verso renders the library as literate web pages
+# (`lake query :literateHtml`). MiniLean imports nothing from it.
+[[require]]
+name = "verso"
+git = "https://github.com/leanprover/verso"
+rev = "v4.36.0"

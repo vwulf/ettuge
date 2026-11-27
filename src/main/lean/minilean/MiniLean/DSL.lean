@@ -19,9 +19,10 @@ Everything after that is MiniLean's own: `Raw.toExpr` resolves names, the
 tactics build a term, and the kernel decides. If the kernel rejects a
 declaration, the Lean build fails at that line.
 
-The MiniLean environment lives in a Lean environment extension. It is not
-saved between files, so a development that uses these commands lives in a
-single file.
+The MiniLean environment lives in a persistent Lean environment extension:
+each MiniLean declaration is saved in its Lean module, so a file that imports
+`MiniLean.Prelude` can use `Nat`, `add` and the lemmas. (An imported declaration
+was checked by MiniLean's kernel when its own file was built.)
 -/
 
 namespace MiniLean.DSL
@@ -33,10 +34,30 @@ structure State where
   opens : List MiniLean.Name := []
   deriving Inhabited
 
-initialize stateExt : EnvExtension State ← registerEnvExtension (pure {})
+/-- What a module records: a declaration the kernel accepted, or a `mini_open`. -/
+inductive Entry where
+  | decl (n : MiniLean.Name) (c : MiniLean.ConstInfo)
+  | opn (n : MiniLean.Name)
+  deriving Inhabited
+
+def State.apply (s : State) : Entry → State
+  | .decl n c => { s with env := s.env.add n c }
+  | .opn n => { s with opens := s.opens ++ [n] }
+
+initialize stateExt : SimplePersistentEnvExtension Entry State ←
+  registerSimplePersistentEnvExtension {
+    addEntryFn := State.apply
+    addImportedFn := fun mods => mods.foldl (fun s es => es.foldl State.apply s) {}
+  }
 
 def getState : CommandElabM State := return stateExt.getState (← Lean.getEnv)
-def setState (s : State) : CommandElabM Unit := modifyEnv (stateExt.setState · s)
+def addEntry (e : Entry) : CommandElabM Unit := modifyEnv (stateExt.addEntry · e)
+
+/-- Record the declarations that a kernel call added to the environment. -/
+def commitEnv (newEnv : MiniLean.Env) : CommandElabM Unit := do
+  let old := (← getState).env.consts.size
+  for (n, c) in newEnv.consts.extract old newEnv.consts.size do
+    addEntry (.decl n c)
 
 /-! ## Syntax -/
 
@@ -87,6 +108,8 @@ syntax (name := miniOpen) "mini_open " ident : command
 syntax (name := miniCheck) "#mini_check " mini_term : command
 syntax (name := miniReduce) "#mini_reduce " mini_term : command
 syntax (name := miniPrint) "#mini_print " ident : command
+syntax (name := miniTrace) "#mini_trace " mini_term : command
+syntax (name := miniExpr) "#mini_expr " mini_term : command
 syntax (name := miniVerdict) "#mini_verdict " mini_binder* " : " mini_term " := " mini_term : command
 
 /-! ## From syntax to `Raw` -/
@@ -185,7 +208,7 @@ def toLps (us : Option (Array (TSyntax `ident))) : List MiniLean.Name :=
       ctors := ctors.push (name ++ "." ++ nameOf ⟨c⟩, ty)
     let s ← getState
     let env ← ok stx (MiniLean.addInductive s.env name lps params.length type ctors.toList)
-    setState { s with env }
+    commitEnv env
   | _ => throwUnsupportedSyntax
 
 @[command_elab miniDef] def elabDef : CommandElab := fun stx => do
@@ -196,7 +219,7 @@ def toLps (us : Option (Array (TSyntax `ident))) : List MiniLean.Name :=
     let value ← resolve stx (MiniLean.Raw.binders false bs (← toRaw v))
     let s ← getState
     let env ← ok stx (MiniLean.addDefinition s.env (nameOf n) (toLps (us.map (·.getElems))) type value)
-    setState { s with env }
+    commitEnv env
   | _ => throwUnsupportedSyntax
 
 @[command_elab miniTheorem] def elabTheorem : CommandElab := fun stx => do
@@ -207,7 +230,7 @@ def toLps (us : Option (Array (TSyntax `ident))) : List MiniLean.Name :=
     let proof ← resolve stx (MiniLean.Raw.binders false bs (← toRaw p))
     let s ← getState
     let env ← ok stx (MiniLean.addTheorem s.env (nameOf n) [] type proof)
-    setState { s with env }
+    commitEnv env
   | _ => throwUnsupportedSyntax
 
 @[command_elab miniTheoremBy] def elabTheoremBy : CommandElab := fun stx => do
@@ -221,14 +244,13 @@ def toLps (us : Option (Array (TSyntax `ident))) : List MiniLean.Name :=
     let proof ← ok stx (← runM (MiniLean.prove s.opens type tacs))
     -- the tactics' proof term goes to the kernel like any other
     let env ← ok stx (MiniLean.addTheorem s.env (nameOf n) [] type proof)
-    setState { s with env }
+    commitEnv env
   | _ => throwUnsupportedSyntax
 
 @[command_elab miniOpen] def elabOpen : CommandElab := fun stx => do
   match stx with
   | `(mini_open $n) =>
-    let s ← getState
-    setState { s with opens := s.opens ++ [nameOf n] }
+    addEntry (.opn (nameOf n))
   | _ => throwUnsupportedSyntax
 
 @[command_elab miniCheck] def elabCheck : CommandElab := fun stx => do
@@ -284,6 +306,33 @@ partial def nf (e : MiniLean.Expr) : MiniLean.M MiniLean.Expr := do
     match MiniLean.addTheorem s.env "_verdict" [] type proof with
     | .ok _ => logInfo "MiniLean's kernel accepts it"
     | .error msg => logInfo s!"MiniLean's kernel rejects it: {msg}"
+  | _ => throwUnsupportedSyntax
+
+/-- Show each head-reduction step (β, δ, ι) that `whnf` takes, up to `limit` steps. -/
+@[command_elab miniTrace] def elabTrace : CommandElab := fun stx => do
+  match stx with
+  | `(#mini_trace $t) =>
+    let e ← resolve stx (← toRaw t)
+    let msg ← ok stx (← runM do
+      discard <| MiniLean.infer e
+      let mut cur := e
+      let mut lines : Array String := #[s!"  {← MiniLean.pp e}"]
+      for _ in [0:100] do
+        match ← MiniLean.whnfStep? cur with
+        | some (rule, next) =>
+          cur := next
+          lines := lines.push s!"⟶ {rule}\n  {← MiniLean.pp next}"
+        | none => break
+      return "\n".intercalate lines.toList)
+    logInfo msg
+  | _ => throwUnsupportedSyntax
+
+/-- Show the term as the kernel stores it: constructors of `MiniLean.Expr`, with de Bruijn indices. -/
+@[command_elab miniExpr] def elabExpr : CommandElab := fun stx => do
+  match stx with
+  | `(#mini_expr $t) =>
+    let e ← resolve stx (← toRaw t)
+    logInfo (toString (repr e))
   | _ => throwUnsupportedSyntax
 
 end MiniLean.DSL

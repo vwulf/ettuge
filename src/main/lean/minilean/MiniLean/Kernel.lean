@@ -66,26 +66,34 @@ def mkLam := mkBinders false
 
 mutual
 
-/-- Weak head normal form: reduce the head of `e` by β, δ and ι until none applies. -/
-partial def whnf (e : Expr) : M Expr := do
+/--
+One reduction step at the head of `e`, if one applies, with the name of the
+rule used:
+* β: `(λ x, b) a` becomes `b` with `a` for `x`;
+* δ: a defined constant is replaced by its value;
+* ι: a recursor applied to a constructor runs one step.
+-/
+partial def whnfStep? (e : Expr) : M (Option (String × Expr)) := do
   match e.getAppFn with
   | .lam _ _ body =>
     let args := e.getAppArgs
     if h : 0 < args.size then
-      -- β: (λ x, b) a  ⟶  b[a/x]
-      whnf (Expr.mkAppN (body.instantiate1 args[0]) (args.extract 1 args.size))
-    else return e
+      return some ("β", Expr.mkAppN (body.instantiate1 args[0]) (args.extract 1 args.size))
+    else return none
   | .const n ls =>
     match (← getEnv).find? n with
     | some (.defn lps _ v) =>
-      -- δ: unfold a definition
-      whnf (Expr.mkAppN (v.instantiateLevels lps ls) e.getAppArgs)
+      return some (s!"δ {n}", Expr.mkAppN (v.instantiateLevels lps ls) e.getAppArgs)
     | some (.recursor _ _ ind np ni ctors _) =>
-      match ← iota? n ls ind np ni ctors e.getAppArgs with
-      | some e' => whnf e'
-      | none => return e
-    | _ => return e
-  | _ => return e
+      return (← iota? n ls ind np ni ctors e.getAppArgs).map (s!"ι {n}", ·)
+    | _ => return none
+  | _ => return none
+
+/-- Weak head normal form: take head steps (β, δ, ι) until none applies. -/
+partial def whnf (e : Expr) : M Expr := do
+  match ← whnfStep? e with
+  | some (_, e') => whnf e'
+  | none => return e
 
 /--
 ι: a recursor applied to a constructor. The recursor's arguments are, in order,

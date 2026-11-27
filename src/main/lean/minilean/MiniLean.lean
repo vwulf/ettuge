@@ -7,3 +7,5 @@ import MiniLean.Tactic
 import MiniLean.DSL
 import MiniLean.Prelude
 import MiniLean.Rejections
+import MiniLean.Checks
+import MiniLean.Walkthrough

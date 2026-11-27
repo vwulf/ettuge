@@ -1,0 +1,35 @@
+# Verso literate-site configuration (`lake query :literateHtml`).
+landing_page = "MiniLean.Walkthrough"
+hide_commands = ["import"]
+show_output = ["#mini_check", "#mini_reduce", "#mini_print", "#mini_trace", "#mini_expr", "#mini_verdict"]
+docstrings_as_text = true
+exclude = ["MiniLean.Checks"]
+
+[order_children]
+"MiniLean" = [
+  "MiniLean.Walkthrough",
+  "MiniLean.Level",
+  "MiniLean.Expr",
+  "MiniLean.Env",
+  "MiniLean.Kernel",
+  "MiniLean.Surface",
+  "MiniLean.Tactic",
+  "MiniLean.DSL",
+  "MiniLean.Prelude",
+  "MiniLean.Rejections",
+]
+"MiniLean.Walkthrough" = [
+  "MiniLean.Walkthrough.S1_Surface",
+  "MiniLean.Walkthrough.S2_Names",
+  "MiniLean.Walkthrough.S3_Tactics",
+  "MiniLean.Walkthrough.S4_Recursors",
+  "MiniLean.Walkthrough.S5_Primitives",
+  "MiniLean.Walkthrough.S6_CurryHoward",
+  "MiniLean.Walkthrough.S7_Computation",
+  "MiniLean.Walkthrough.S8_Kernel",
+  "MiniLean.Walkthrough.S9_Checkers",
+]
+
+[metadata]
+title = "No Magic, implemented"
+description = "The sum formula checked by MiniLean, a small type checker written in Lean 4, stage by stage"
