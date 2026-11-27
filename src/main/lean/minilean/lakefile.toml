@@ -1,0 +1,6 @@
+name = "minilean"
+version = "0.1.0"
+defaultTargets = ["MiniLean"]
+
+[[lean_lib]]
+name = "MiniLean"
