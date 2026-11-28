@@ -125,12 +125,6 @@ partial def rwInfo (opens : List MiniLean.Name) (g : Goal) (rev : Bool) (rule : 
     M (Array String) := MiniLean.inGoal g do
   let h ← MiniLean.elabIn g opens rule
   let ht ← MiniLean.infer h
-  let rec openRule (t : Expr) (mvs : List Nat) : M (List Nat × Expr) := do
-    match ← MiniLean.whnf t with
-    | .pi x d b => MiniLean.withLocal ("?" ++ x) d fun v => do
-        let .fvar id := v | unreachable!
-        openRule (b.instantiate1 v) (mvs ++ [id])
-    | t' => return (mvs, t')
   -- pattern variables are printed inside their own scope, so collect the lines there
   let rec go (t : Expr) (mvs : List Nat) : M (Array String) := do
     match ← MiniLean.whnf t with
@@ -151,7 +145,6 @@ partial def rwInfo (opens : List MiniLean.Name) (g : Goal) (rev : Bool) (rule : 
       lines := lines.push s!"{ind}  motive    {← pp (.lam "b" (inst α) body)}  (the goal, with b for each match)"
       lines := lines.push s!"{ind}  new goal  {← pp (body.instantiate1 (inst dst))}  (the motive applied to {← pp (inst dst)})"
       return lines
-  discard <| openRule ht []
   go ht []
 
 /--
