@@ -34,6 +34,8 @@ open MiniLean (Raw Expr Goal Tac M pp)
 inductive Tree where
   | node (label : String) (kids : List Tree)
 
+instance : Inhabited Tree := ⟨.node "" []⟩
+
 partial def Tree.render (t : Tree) (ind : String := "") : List String :=
   match t with
   | .node l ks => (ind ++ l) :: ks.flatMap (·.render (ind ++ "  "))
@@ -41,23 +43,23 @@ partial def Tree.render (t : Tree) (ind : String := "") : List String :=
 def levels (ls : List MiniLean.Level) : String :=
   ".{" ++ ", ".intercalate (ls.map toString) ++ "}"
 
-partial def Raw.tree : Raw → Tree
+partial def rawTree : Raw → Tree
   | .ident n none => .node ("ident " ++ n) []
   | .ident n (some ls) => .node ("ident " ++ n ++ levels ls) []
-  | .app f a => .node "app" [Raw.tree f, Raw.tree a]
-  | .lam x t b => .node ("lam " ++ x) [Raw.tree t, Raw.tree b]
-  | .pi x t b => .node ("pi " ++ x) [Raw.tree t, Raw.tree b]
+  | .app f a => .node "app" [rawTree f, rawTree a]
+  | .lam x t b => .node ("lam " ++ x) [rawTree t, rawTree b]
+  | .pi x t b => .node ("pi " ++ x) [rawTree t, rawTree b]
   | .sort l => .node ("sort " ++ toString l) []
 
-partial def Expr.tree : Expr → Tree
+partial def exprTree : Expr → Tree
   | .bvar i => .node ("bvar " ++ toString i) []
   | .fvar i => .node ("fvar " ++ toString i) []
   | .sort l => .node ("sort " ++ toString l) []
   | .const n [] => .node ("const " ++ n) []
   | .const n ls => .node ("const " ++ n ++ levels ls) []
-  | .app f a => .node "app" [Expr.tree f, Expr.tree a]
-  | .lam x t b => .node ("lam " ++ x) [Expr.tree t, Expr.tree b]
-  | .pi x t b => .node ("pi " ++ x) [Expr.tree t, Expr.tree b]
+  | .app f a => .node "app" [exprTree f, exprTree a]
+  | .lam x t b => .node ("lam " ++ x) [exprTree t, exprTree b]
+  | .pi x t b => .node ("pi " ++ x) [exprTree t, exprTree b]
 
 /-- A `Raw` term written back as source, for printing tactics. -/
 partial def Raw.src : Raw → String
@@ -93,12 +95,12 @@ syntax (name := miniKernel) "#mini_kernel " num ppSpace ident : command
 
 @[command_elab miniRaw] def elabRaw : CommandElab := fun stx => do
   match stx with
-  | `(#mini_raw $t) => logInfo ("\n".intercalate (Raw.tree (← toRaw t)).render)
+  | `(#mini_raw $t) => logInfo ("\n".intercalate (rawTree (← toRaw t)).render)
   | _ => throwUnsupportedSyntax
 
 @[command_elab miniDb] def elabDb : CommandElab := fun stx => do
   match stx with
-  | `(#mini_db $t) => logInfo ("\n".intercalate (Expr.tree (← resolve stx (← toRaw t))).render)
+  | `(#mini_db $t) => logInfo ("\n".intercalate (exprTree (← resolve stx (← toRaw t))).render)
   | _ => throwUnsupportedSyntax
 
 /-! ## Tactics, one at a time -/
