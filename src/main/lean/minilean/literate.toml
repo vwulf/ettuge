@@ -1,13 +1,15 @@
 # Verso literate-site configuration (`lake query :literateHtml`).
 landing_page = "MiniLean.Walkthrough"
 hide_commands = ["import"]
-show_output = ["#mini_check", "#mini_reduce", "#mini_print", "#mini_trace", "#mini_expr", "#mini_verdict"]
+show_output = ["#mini_check", "#mini_reduce", "#mini_print", "#mini_trace", "#mini_expr", "#mini_verdict",
+  "#mini_syntax", "#mini_raw", "#mini_db", "#mini_tactics", "#mini_defeq", "#mini_infer", "#mini_kernel"]
 docstrings_as_text = true
 exclude = ["MiniLean.Checks"]
 
 [order_children]
 "MiniLean" = [
   "MiniLean.Walkthrough",
+  "MiniLean.StepByStep",
   "MiniLean.Level",
   "MiniLean.Expr",
   "MiniLean.Env",
@@ -17,6 +19,7 @@ exclude = ["MiniLean.Checks"]
   "MiniLean.DSL",
   "MiniLean.Prelude",
   "MiniLean.Rejections",
+  "MiniLean.Explain",
 ]
 "MiniLean.Walkthrough" = [
   "MiniLean.Walkthrough.S1_Surface",

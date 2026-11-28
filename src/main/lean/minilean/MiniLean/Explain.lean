@@ -178,7 +178,9 @@ partial def solveLog (opens : List MiniLean.Name) (ind : String) (next : Nat) :
       let mut lines := #[s!"{ind}{Tac.src t}", s!"{ind}  on    ?{k}  {← goalLine g}"] ++ info
       for (sg, i) in subgoals.zip labels do
         lines := lines.push s!"{ind}  new   ?{i}  {← goalLine sg}"
-      if subgoals.isEmpty then lines := lines.push s!"{ind}  new   (none: ?{k} is closed)"
+      if subgoals.isEmpty then
+        let why := if t matches .rw _ then "the new goal holds by refl, so " else ""
+        lines := lines.push s!"{ind}  new   (none: {why}?{k} is closed)"
       lines := lines.push s!"{ind}  ?{k} := {piece}"
       let (subproofs, ts', next', l1) ← solveLog opens ind (next + subgoals.length) ts (subgoals.zip labels)
       let (restProofs, ts'', next'', l2) ← solveLog opens ind next' ts' gs

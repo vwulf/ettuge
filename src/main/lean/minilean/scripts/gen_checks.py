@@ -2,7 +2,8 @@
 """Regenerate MiniLean/Checks.lean: pin every output the literate pages show.
 
 Runs each page through `lake env lean --json`, matches every info message to
-the single-line `#mini_…` command that produced it, and writes that command
+the `#mini_…` command that produced it (with any indented
+continuation lines), and writes that command
 inside `#guard_msgs` with its expected output. Run from src/main/lean/minilean
 after changing a page or the kernel's printing, then review the diff.
 """
@@ -12,10 +13,12 @@ import sys
 from pathlib import Path
 
 PAGES = ["MiniLean/Prelude.lean"] + sorted(
-    str(p) for p in Path("MiniLean/Walkthrough").glob("S*.lean"))
+    str(p) for p in Path("MiniLean/Walkthrough").glob("S*.lean")) + [
+    "MiniLean/StepByStep.lean"]
 
 HEADER = '''import MiniLean.Prelude
 import MiniLean.Walkthrough
+import MiniLean.StepByStep
 
 /-!
 # Pinned outputs
@@ -45,7 +48,12 @@ def outputs(page):
         line = msg["pos"]["line"]
         cmd = lines[line - 1]
         if not cmd.startswith("#mini_"):
-            sys.exit(f"{page}:{line}: output from a command that is not a one-line #mini_ command")
+            sys.exit(f"{page}:{line}: output from a command that is not a #mini_ command")
+        # a command continues on the indented lines after it (a tactic block)
+        i = line
+        while i < len(lines) and lines[i].startswith(" "):
+            cmd += "\n" + lines[i]
+            i += 1
         found.append((cmd, msg["data"].rstrip("\n")))
     return found
 
