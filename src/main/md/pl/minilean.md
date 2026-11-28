@@ -1,6 +1,6 @@
 # MiniLean: The No Magic Proof in a Kernel You Can Read
 
-*Started Nov 26, 2026 · last updated Nov 26, 2026 · Vishwas*
+*Started Nov 26, 2026 · last updated Nov 28, 2026 · Vishwas*
 
 > **Work in progress.** MiniLean now exists: [`src/main/lean/minilean`](https://github.com/vwulf/ettuge/tree/master/src/main/lean/minilean), about 1,400 lines of Lean 4. It builds with Lean 4.36.0, and the build checks every proof on this page with MiniLean's own kernel. Its companion, [No Magic, implemented](https://vwulf.github.io/ettuge/FP/minilean-literate/), walks the sum formula through MiniLean stage by stage, with the kernel's source alongside.
 
@@ -10,6 +10,7 @@
 - [Summary](#summary)
 - [1. Why a smaller Lean](#s1)
 - [2. What MiniLean is](#s2)
+  - [2.1 MiniLean keywords used in this article](#s2-1)
 - [3. MiniLean and Lean 4, side by side](#s3)
 - [4. The No Magic stages, in MiniLean](#s4)
 - [5. The sum formula, from nothing](#s5)
@@ -63,6 +64,52 @@ MiniLean follows the structure of the MiniLean4 book. Each part below is one mod
 7. **The DSL** (`DSL.lean`, 338 lines). Lean 4 commands that feed all of the above (section 6).
 
 There is deliberately no elaborator, unifier, type-class search, pattern-match compiler or axiom. Section 6 explains how terms are written without them.
+
+### 2.1 MiniLean keywords used in this article {#s2-1}
+
+The same idea as the [keywords table in No Magic](lean-no-magic.md#s2-1), for MiniLean. The last column gives the nearest Lean 4 form, so you can read MiniLean code next to the Lean version.
+
+**Terms**
+
+| Keyword | What it does | Lean 4 |
+| --- | --- | --- |
+| `Prop`, `Type`, `Sort u` | the universes: `Prop` is `Sort 0`, `Type` is `Sort 1` | same |
+| `name.{u, v}` | gives a constant's universe levels explicitly, as in `Eq.{1}` or `Nat.rec.{1}`. MiniLean never infers them | same syntax, but Lean usually infers the levels |
+| `f a b` | application: `f` applied to `a`, then to `b` | same |
+| `A → B` | function type; a `∀` whose body does not mention the variable | same |
+| `λ (x : A) => t` | a function. The binder type must be written | `fun x => t`; the type can often be left out |
+| `∀ (x : A), B` | dependent function type: a proof of it is a function from `x` to a proof of `B` | same; the type can often be left out |
+| `(x y : A)` | explicit arguments, after a name or in `λ` and `∀`. MiniLean has no implicit `{x}` or instance `[x]` arguments, so every argument is written | also `{x}` and `[inst]` |
+
+**Commands**
+
+| Keyword | What it does | Lean 4 |
+| --- | --- | --- |
+| `mini_inductive` | declares an inductive type. The kernel checks positivity and universes, then generates `I.rec` | `inductive` |
+| `mini_def` | declares a definition. No pattern matching or recursive calls: recursion is written with `I.rec` | `def` |
+| `mini_theorem … := term` | declares a theorem proved by a term | `theorem` |
+| `mini_theorem … := by …` | declares a theorem proved by a tactic script | `theorem … := by …` |
+| `mini_open I` | lets `I.c` be written `c` | `open I` |
+| `#mini_check t` | shows the type the kernel infers for `t` | `#check` |
+| `#mini_reduce t` | shows the normal form of `t` | `#reduce` |
+| `#mini_print name` | shows a declaration: its type, and its value or recursor | `#print` |
+| `#mini_trace t` | shows each β, δ or ι step that `whnf` takes on `t` | nothing built in |
+| `#mini_expr t` | shows `t` as the kernel stores it, with de Bruijn indices | nothing built in |
+| `#mini_verdict … := term` | reports whether the kernel accepts the term, without failing the build | an `example` checked with `#guard_msgs` |
+| `#guard_msgs` | Lean's own command, used here to pin each output above, so the build fails if one changes | same |
+
+**Tactics**
+
+| Keyword | What it does | Lean 4 |
+| --- | --- | --- |
+| `by` | starts a tactic script | same |
+| `intro x y` | moves `∀` variables or `→` premises into the context, by name | same |
+| `exact t` | closes the goal with the term `t` | same |
+| `refl` | closes `Eq a b` when `a` and `b` compute to the same term; builds `Eq.refl` | `rfl` |
+| `show T` | replaces the goal with `T`, after checking that `T` is definitionally equal to it | same |
+| `induction n` | splits the goal into one goal per constructor of `n`'s type and builds `I.rec`. In each step goal, `intro k ih` names the variable and the induction hypothesis | `induction n with \| zero => … \| succ k ih => …` |
+| `rw [h, ← h']` | rewrites with `h` left to right, then `h'` right to left; builds `Eq.rec`, and closes the goal by `refl` if it can. Finds the first match by plain one-way matching, so arguments sometimes have to be given (`mul_comm (add k two) (succ k)`) | same, but Lean finds the match by unification |
+| `·` | focuses on the first remaining goal | same |
 
 [↑ Contents](#contents)
 
@@ -255,16 +302,9 @@ Lines marked ≡ cost nothing: the kernel checks them by computing. Lines marked
 
 ## 6. The DSL {#s6}
 
-MiniLean has no parser of its own. Lean 4's parser reads a small set of commands, and [`MiniLean/DSL.lean`](https://github.com/vwulf/ettuge/blob/master/src/main/lean/minilean/MiniLean/DSL.lean) turns them into MiniLean terms:
+MiniLean has no parser of its own. Lean 4's parser reads a small set of commands, and [`MiniLean/DSL.lean`](https://github.com/vwulf/ettuge/blob/master/src/main/lean/minilean/MiniLean/DSL.lean) turns them into MiniLean terms.
 
-| Command | Does |
-| --- | --- |
-| `mini_inductive I.{u} (params) : type where \| c : type …` | declare an inductive type; the kernel checks it and generates `I.rec` |
-| `mini_def f (binders) : type := term` | declare a definition |
-| `mini_theorem t (binders) : statement := term` or `:= by …` | declare a theorem, by a term or a tactic script |
-| `mini_open I` | let `I.c` be written `c` |
-| `#mini_check`, `#mini_reduce`, `#mini_print` | show a type, a normal form, or a declaration |
-| `#mini_verdict (binders) : statement := term` | report the kernel's verdict without failing the build |
+The commands are `mini_inductive`, `mini_def`, `mini_theorem`, `mini_open` and the `#mini_…` display commands; [§2.1](#s2-1) lists each one with its Lean 4 counterpart.
 
 The tactics are `intro`, `exact`, `refl`, `show`, `induction` and `rw`, with `·` to focus on a goal. They do no unification. `rw` finds the first instance of an equation's left-hand side by plain one-way matching, so occasionally it has to be told which instance to use: `mul_comm (add k two) (succ k)` in the theorem above.
 
