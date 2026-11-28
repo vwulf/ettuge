@@ -119,6 +119,41 @@ def goalLine (g : Goal) : M String := MiniLean.inGoal g do
     ls := ls ++ [s!"{l.name} : {← pp l.type}"]
   return ", ".intercalate ls ++ (if ls.isEmpty then "" else " ") ++ s!"⊢ {← pp g.target}"
 
+/-- What `rwOne` computes for one rule, retraced for display: the equation, the
+instance it found, the motive it abstracted, and the new goal. -/
+partial def rwInfo (opens : List MiniLean.Name) (g : Goal) (rev : Bool) (rule : Raw) (ind : String) :
+    M (Array String) := MiniLean.inGoal g do
+  let h ← MiniLean.elabIn g opens rule
+  let ht ← MiniLean.infer h
+  let rec openRule (t : Expr) (mvs : List Nat) : M (List Nat × Expr) := do
+    match ← MiniLean.whnf t with
+    | .pi x d b => MiniLean.withLocal ("?" ++ x) d fun v => do
+        let .fvar id := v | unreachable!
+        openRule (b.instantiate1 v) (mvs ++ [id])
+    | t' => return (mvs, t')
+  -- pattern variables are printed inside their own scope, so collect the lines there
+  let rec go (t : Expr) (mvs : List Nat) : M (Array String) := do
+    match ← MiniLean.whnf t with
+    | .pi x d b => MiniLean.withLocal ("?" ++ x) d fun v => do
+        let .fvar id := v | unreachable!
+        go (b.instantiate1 v) (mvs ++ [id])
+    | stmt => do
+      let some (_, α, l, r) ← MiniLean.asEq? stmt | throw "rw: not an equation"
+      let (src, dst) := if rev then (r, l) else (l, r)
+      let mut lines := #[s!"{ind}  rule      {← pp h} : {← pp ht}"]
+      lines := lines.push s!"{ind}  equation  {← pp l} = {← pp r}, used {if rev then "right to left" else "left to right"}"
+      unless mvs.isEmpty do
+        lines := lines.push s!"{ind}  pattern variables (the rule's ∀s): {mvs.length}"
+      let some σ := MiniLean.findMatch mvs src g.target | throw "rw: no instance"
+      let inst := MiniLean.replaceFVars σ
+      lines := lines.push s!"{ind}  find      {← pp (inst src)}  (first match in the goal, outermost first)"
+      let body := MiniLean.abstractTerm (inst src) 0 g.target
+      lines := lines.push s!"{ind}  motive    {← pp (.lam "b" (inst α) body)}  (the goal, with b for each match)"
+      lines := lines.push s!"{ind}  new goal  {← pp (body.instantiate1 (inst dst))}  (the motive applied to {← pp (inst dst)})"
+      return lines
+  discard <| openRule ht []
+  go ht []
+
 /--
 `MiniLean.solve`, with a record of each step. Each goal carries a label `?k`;
 `next` is the next free label. Returns the proofs, the leftover tactics, the
@@ -136,12 +171,18 @@ partial def solveLog (opens : List MiniLean.Name) (ind : String) (next : Nat) :
       unless leftover.isEmpty do throw "· : the goal was solved before the end of this block"
       let (rest, ts', next, l2) ← solveLog opens ind next ts gs
       return (ps[0]! :: rest, ts', next, #[line] ++ l1 ++ l2)
+    | .rw (r :: r2 :: rest) =>
+      -- show a rewrite with several rules as one step per rule (the same term)
+      solveLog opens ind next (.rw [r] :: .rw (r2 :: rest) :: ts) ((g, k) :: gs)
     | _ =>
+      let info ← match t with
+        | .rw [(rev, r)] => rwInfo opens g rev r ind
+        | _ => pure #[]
       let (subgoals, build) ← MiniLean.runTac opens t g
       let labels := (List.range subgoals.length).map (next + ·)
       let holes := labels.map fun i => Expr.const s!"?{i}" []
       let piece ← MiniLean.inGoal g (pp (build holes))
-      let mut lines := #[s!"{ind}{Tac.src t}", s!"{ind}  on    ?{k}  {← goalLine g}"]
+      let mut lines := #[s!"{ind}{Tac.src t}", s!"{ind}  on    ?{k}  {← goalLine g}"] ++ info
       for (sg, i) in subgoals.zip labels do
         lines := lines.push s!"{ind}  new   ?{i}  {← goalLine sg}"
       if subgoals.isEmpty then lines := lines.push s!"{ind}  new   (none: ?{k} is closed)"
