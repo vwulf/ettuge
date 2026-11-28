@@ -65,6 +65,8 @@ MiniLean follows the structure of the MiniLean4 book. Each part below is one mod
 
 There is deliberately no elaborator, unifier, type-class search, pattern-match compiler or axiom. Section 6 explains how terms are written without them.
 
+> **Step by step:** [How a Theorem Prover Is Written](minilean-step-by-step.md) follows one proof through these modules in the order they run: the DSL and Lean's parser ([§1–2](minilean-step-by-step.md#s1)), names to de Bruijn indices ([§3](minilean-step-by-step.md#s3)), tactics as goal-to-goals-plus-builder functions ([§5](minilean-step-by-step.md#s5)), the kernel's `infer`, `whnf` and `isDefEq` ([§6](minilean-step-by-step.md#s6)), and the environment ([§7](minilean-step-by-step.md#s7)). Its [pipeline table](minilean-step-by-step.md#pipeline) names the function behind each step.
+
 ### 2.1 MiniLean keywords used in this article {#s2-1}
 
 The same idea as the [keywords table in No Magic](lean-no-magic.md#s2-1), for MiniLean. The last column gives the nearest Lean 4 form, so you can read MiniLean code next to the Lean version.
@@ -168,6 +170,8 @@ The companion walked through nine stages. Here is what each becomes when the che
 
 So the MiniLean companion will be shorter in some places and deeper in others. Stages 2 and 4 vanish. Stages 5, 7 and 8 stop being outputs to look at and become functions to read.
 
+> **Step by step:** the same stages, traced through the code for one proof: surface syntax down to `Expr` in [§1–3](minilean-step-by-step.md#s1); tactics becoming terms in [§5.2](minilean-step-by-step.md#s5-2), with `induction` reading its goals off `Nat.rec`'s type in [§5.3](minilean-step-by-step.md#s5-3); computation, each β, δ and ι step, in [§5.4](minilean-step-by-step.md#s5-4); the kernel alone in [§6](minilean-step-by-step.md#s6).
+
 [↑ Contents](#contents)
 
 ## 5. The sum formula, from nothing {#s5}
@@ -216,6 +220,8 @@ mini_def two : Nat := succ (succ zero)
 
 `add` and `mul` recurse on their second argument, as Lean's do, so `add m zero` reduces to `m` and `mul m (succ n)` to `add (mul m n) m`. MiniLean computes with them: `#mini_reduce mul two (sumTo three)` prints `Nat.succ^12 Nat.zero`. (The printer abbreviates long `succ` chains; the term itself is twelve nested `succ`s.)
 
+> **Step by step:** how `add zero zero` reduces to `zero`, one δ, β or ι step at a time, and the `whnfStep?` code that takes each step: [§5.4](minilean-step-by-step.md#s5-4).
+
 ### 5.2 The lemmas {#s5-2}
 
 Lean's library supplied `Nat.mul_add`, `Nat.add_mul` and `Nat.mul_comm`. In MiniLean each is proved by induction, with the addition facts it rests on:
@@ -244,6 +250,8 @@ mini_theorem mul_add (a b c : Nat) : NatEq (mul a (add b c)) (add (mul a b) (mul
 ```
 
 The base case is `refl`: both sides compute to `mul a b`. In the step, `show` restates the goal in a form the kernel accepts by computation (it checks that the new statement is definitionally equal to the old), so that `rw` can find the subterms it needs.
+
+> **Step by step:** what `refl`, `show` and `rw` do in the code ([§5.3](minilean-step-by-step.md#s5-3)), and why `show` has to come before `rw`: `rw` matches syntactically, and the subterm it needs appears only after the restatement ([§5.4](minilean-step-by-step.md#s5-4)).
 
 ### 5.3 The theorem {#s5-3}
 
@@ -285,6 +293,8 @@ Lines marked ≡ cost nothing: the kernel checks them by computing. Lines marked
 
 `induction` became `Nat.rec`. `rw [ih]` became an `Eq.rec` (transport), wrapped around a second `Eq.rec` that flips `ih` around. Nothing else is in it: no axiom, no lemma from anywhere else.
 
+> **Step by step:** how this term is assembled, one tactic and one hole at a time ([§5.2](minilean-step-by-step.md#s5-2)), and the kernel's derivation that checks it ([§6.2](minilean-step-by-step.md#s6-2)).
+
 **The kernel's verdicts** on the claims that stage 8 of the companion tested on Lean:
 
 ```text
@@ -298,11 +308,15 @@ Lines marked ≡ cost nothing: the kernel checks them by computing. Lines marked
     expected: NatEq (mul two (sumTo three)) thirteen
 ```
 
+> **Step by step:** what `addTheorem` checks, in order ([§6.1](minilean-step-by-step.md#s6-1)), and where the kernel computes: every "definitionally equal" in its derivation is a run of `isDefEq` ([§6.3](minilean-step-by-step.md#s6-3)).
+
 [↑ Contents](#contents)
 
 ## 6. The DSL {#s6}
 
 MiniLean has no parser of its own. Lean 4's parser reads a small set of commands, and [`MiniLean/DSL.lean`](https://github.com/vwulf/ettuge/blob/master/src/main/lean/minilean/MiniLean/DSL.lean) turns them into MiniLean terms.
+
+> **Step by step:** the `Syntax` tree Lean's parser builds, how `toRaw` turns it into `Raw`, and how `Raw.toExpr` resolves names ([§1–3](minilean-step-by-step.md#s1)); how tactic syntax becomes a list of `Tac`s ([§4](minilean-step-by-step.md#s4)). The display commands used there (`#mini_tactics`, `#mini_kernel` and others) are in [`MiniLean/Explain.lean`](https://github.com/vwulf/ettuge/blob/master/src/main/lean/minilean/MiniLean/Explain.lean).
 
 The commands are `mini_inductive`, `mini_def`, `mini_theorem`, `mini_open` and the `#mini_…` display commands; [§2.1](#s2-1) lists each one with its Lean 4 counterpart.
 
@@ -323,6 +337,8 @@ A checker that accepts everything is useless. [`MiniLean/Rejections.lean`](https
 | `Bad` with `mk : (Bad → Nat) → Bad` | a non-positive type allows non-termination, and so a proof of anything | strict positivity: `Bad` may only appear as a field's whole type |
 | `Big : Type` with `mk : Type → Big` | storing a `Type` inside a `Type` breaks the universe hierarchy | a field lives in a universe larger than `Big`'s |
 | `Or (a b : Prop)` with two constructors | a proof of `a ∨ b` must not be used to compute data | allowed, but `Or.rec` can only eliminate into `Prop` |
+
+> **Step by step:** for contrast, a declaration that passes: `addTheorem`'s checks on `zero_add`, one by one, with the kernel's derivation ([§6](minilean-step-by-step.md#s6)).
 
 [↑ Contents](#contents)
 
