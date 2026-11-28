@@ -9,6 +9,7 @@ stage produced. They call the same functions the `mini_…` commands call
 (`toRaw`, `Raw.toExpr`, `runTac`, `whnf`, `isDefEq`, `infer`), print the
 intermediate results, and add nothing to the environment.
 
+* `#mini_syntax t`: the `Syntax` tree that Lean's parser builds.
 * `#mini_raw t`: the `Raw` tree that the DSL builds from Lean's syntax.
 * `#mini_db t`: the `Expr` after name resolution, bound variables as de Bruijn indices.
 * `#mini_tactics (binders) : statement := by …`: run a script one tactic at a
@@ -86,12 +87,18 @@ partial def Tac.src : Tac → String
 
 /-! ## Syntax -/
 
+syntax (name := miniSyntax) "#mini_syntax " mini_term : command
 syntax (name := miniRaw) "#mini_raw " mini_term : command
 syntax (name := miniDb) "#mini_db " mini_term : command
 syntax (name := miniTactics) "#mini_tactics " mini_binder* " : " mini_term " := " "by " miniTacticSeq : command
 syntax (name := miniDefeq) "#mini_defeq " mini_term " =?= " mini_term : command
 syntax (name := miniInfer) "#mini_infer " num ppSpace mini_term : command
 syntax (name := miniKernel) "#mini_kernel " num ppSpace ident : command
+
+@[command_elab miniSyntax] def elabSyntax : CommandElab := fun stx => do
+  match stx with
+  | `(#mini_syntax $t) => logInfo (toString t.raw)
+  | _ => throwUnsupportedSyntax
 
 @[command_elab miniRaw] def elabRaw : CommandElab := fun stx => do
   match stx with
@@ -285,10 +292,10 @@ partial def inferLog (fuel : Nat) (ind : String) (e : Expr) : M (Expr × Array S
       let l ← MiniLean.ensureSort type
       lines := lines.push s!"3. ensureSort statement: {← pp type} : Sort {l}"
       lines := lines.push s!"   level {l} is 0, so the statement is a proposition ✓"
-      lines := lines.push "4. check proof statement: infer the proof's type"
+      lines := lines.push "4. check (proof) (statement): first infer the proof's type"
       let (ty, lp) ← inferLog n.getNat "   " proof
       lines := lines ++ lp
-      lines := lines.push "5. isDefEq (inferred type) (statement)"
+      lines := lines.push "5. then isDefEq (inferred type) (statement)"
       let (r, ld) ← defeqLog "   " ty type
       unless r && (← MiniLean.isDefEq ty type) do throw "the proof does not have the statement's type"
       lines := lines ++ ld
