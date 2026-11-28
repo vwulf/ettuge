@@ -2,7 +2,7 @@
 
 *Started Nov 26, 2026 · last updated Nov 26, 2026 · Vishwas*
 
-> **Work in progress.** MiniLean now exists: [`src/main/lean/minilean`](https://github.com/vwulf/ettuge/tree/master/src/main/lean/minilean), about 1,400 lines of Lean 4. It builds with Lean 4.36.0, and the build checks every proof on this page with MiniLean's own kernel. Its companion, [No Magic, implemented](https://vwulf.github.io/ettuge/FP/minilean-literate/), walks the sum formula through MiniLean stage by stage, with the kernel's source alongside.
+> **Work in progress.** MiniLean now exists: [`src/main/lean/minilean`](https://github.com/vwulf/ettuge/tree/master/src/main/lean/minilean), about 1,400 lines of Lean 4. It builds with Lean 4.36.0, and the build checks every proof on this page with MiniLean's own kernel. Its companion, [No Magic, implemented](https://vwulf.github.io/ettuge/FP/minilean-literate/), walks the sum formula through MiniLean stage by stage, with the kernel's source alongside. [How a Theorem Prover Is Written](minilean-step-by-step.md) goes one level deeper: it follows one proof through MiniLean's code, function by function.
 
 <!-- section-index:begin -->
 ## Contents {#contents}
@@ -289,7 +289,8 @@ A checker that accepts everything is useless. [`MiniLean/Rejections.lean`](https
 ## 8. The companion, and what comes next {#s8}
 
 1. **The companion, [No Magic, implemented](https://vwulf.github.io/ettuge/FP/minilean-literate/)**, now exists. The first companion showed Lean's *output* at each stage; this one shows MiniLean doing each stage, with `#mini_trace` printing every β, δ and ι step, and the source of every kernel module on the same site.
-2. **Later, perhaps:** translate Lean's own proof term into MiniLean and check it there. That would mean handling numerals, instances and `Nat.brecOn`, so it is a project of its own.
+2. **[How a Theorem Prover Is Written](minilean-step-by-step.md)** follows one proof, `zero_add`, through MiniLean's code one function at a time, from Lean's parser to the kernel's derivation, with the real output of each step.
+3. **Later, perhaps:** translate Lean's own proof term into MiniLean and check it there. That would mean handling numerals, instances and `Nat.brecOn`, so it is a project of its own.
 
 [↑ Contents](#contents)
 

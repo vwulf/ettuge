@@ -1,5 +1,6 @@
 import MiniLean.Prelude
 import MiniLean.Walkthrough
+import MiniLean.StepByStep
 
 /-!
 # Pinned outputs
@@ -327,3 +328,213 @@ info: inductive type Eq.{u} : ∀ (α : Sort u), α → α → Prop
 -/
 #guard_msgs in
 #mini_print Eq
+
+/-! ## `MiniLean/StepByStep.lean` -/
+
+/--
+info: (MiniLean.DSL.«mini_term∀_,_»
+ "∀"
+ [(MiniLean.DSL.«mini_binder(_:_)» "(" [`n] ":" (MiniLean.DSL.mini_term_ `Nat) ")")]
+ ","
+ (MiniLean.DSL.mini_term___
+  (MiniLean.DSL.mini_term___
+   (MiniLean.DSL.mini_term_ `NatEq)
+   (MiniLean.DSL.«mini_term(_)»
+    "("
+    (MiniLean.DSL.mini_term___
+     (MiniLean.DSL.mini_term___ (MiniLean.DSL.mini_term_ `add) (MiniLean.DSL.mini_term_ `zero))
+     (MiniLean.DSL.mini_term_ `n))
+    ")"))
+  (MiniLean.DSL.mini_term_ `n)))
+-/
+#guard_msgs in
+#mini_syntax ∀ (n : Nat), NatEq (add zero n) n
+
+/--
+info: pi n
+  ident Nat
+  app
+    app
+      ident NatEq
+      app
+        app
+          ident add
+          ident zero
+        ident n
+    ident n
+-/
+#guard_msgs in
+#mini_raw ∀ (n : Nat), NatEq (add zero n) n
+
+/--
+info: pi n
+  const Nat
+  app
+    app
+      const NatEq
+      app
+        app
+          const add
+          const Nat.zero
+        bvar 0
+    bvar 0
+-/
+#guard_msgs in
+#mini_db ∀ (n : Nat), NatEq (add zero n) n
+
+/--
+info: ∀ (n : Nat), NatEq (add Nat.zero n) n : Prop
+-/
+#guard_msgs in
+#mini_check ∀ (n : Nat), NatEq (add zero n) n
+
+/--
+info: tactics: intro n; induction n; · refl; · intro k; intro ih; show NatEq (succ (add zero k)) (succ k); rw [ih]
+
+intro n
+  on    ?0  ⊢ ∀ (n : Nat), NatEq (add Nat.zero n) n
+  new   ?1  n : Nat ⊢ NatEq (add Nat.zero n) n
+  ?0 := λ (n : Nat) => ?1
+induction n
+  on    ?1  n : Nat ⊢ NatEq (add Nat.zero n) n
+  new   ?2  ⊢ NatEq (add Nat.zero Nat.zero) Nat.zero
+  new   ?3  ⊢ ∀ (x : Nat), NatEq (add Nat.zero x) x → NatEq (add Nat.zero (Nat.succ x)) (Nat.succ x)
+  ?1 := Nat.rec.{0} (λ (n : Nat) => NatEq (add Nat.zero n) n) ?2 ?3 n
+· focus on ?2
+  refl
+    on    ?2  ⊢ NatEq (add Nat.zero Nat.zero) Nat.zero
+    new   (none: ?2 is closed)
+    ?2 := Eq.refl.{1} Nat (add Nat.zero Nat.zero)
+· focus on ?3
+  intro k
+    on    ?3  ⊢ ∀ (x : Nat), NatEq (add Nat.zero x) x → NatEq (add Nat.zero (Nat.succ x)) (Nat.succ x)
+    new   ?4  k : Nat ⊢ NatEq (add Nat.zero k) k → NatEq (add Nat.zero (Nat.succ k)) (Nat.succ k)
+    ?3 := λ (k : Nat) => ?4
+  intro ih
+    on    ?4  k : Nat ⊢ NatEq (add Nat.zero k) k → NatEq (add Nat.zero (Nat.succ k)) (Nat.succ k)
+    new   ?5  k : Nat, ih : NatEq (add Nat.zero k) k ⊢ NatEq (add Nat.zero (Nat.succ k)) (Nat.succ k)
+    ?4 := λ (ih : NatEq (add Nat.zero k) k) => ?5
+  show NatEq (succ (add zero k)) (succ k)
+    on    ?5  k : Nat, ih : NatEq (add Nat.zero k) k ⊢ NatEq (add Nat.zero (Nat.succ k)) (Nat.succ k)
+    new   ?6  k : Nat, ih : NatEq (add Nat.zero k) k ⊢ NatEq (Nat.succ (add Nat.zero k)) (Nat.succ k)
+    ?5 := ?6
+  rw [ih]
+    on    ?6  k : Nat, ih : NatEq (add Nat.zero k) k ⊢ NatEq (Nat.succ (add Nat.zero k)) (Nat.succ k)
+    rule      ih : NatEq (add Nat.zero k) k
+    equation  add Nat.zero k = k, used left to right
+    find      add Nat.zero k  (first match in the goal, outermost first)
+    motive    λ (b : Nat) => NatEq (Nat.succ b) (Nat.succ k)  (the goal, with b for each match)
+    new goal  NatEq (Nat.succ k) (Nat.succ k)  (the motive applied to k)
+    new   (none: the new goal holds by refl, so ?6 is closed)
+    ?6 := Eq.rec.{0, 1} Nat k (λ (b : Nat) => λ (h : Eq.{1} Nat k b) => NatEq (Nat.succ b) (Nat.succ k)) (Eq.refl.{1} Nat (Nat.succ k)) (add Nat.zero k) (Eq.rec.{0, 1} Nat (add Nat.zero k) (λ (b : Nat) => λ (h : Eq.{1} Nat (add Nat.zero k) b) => Eq.{1} Nat b (add Nat.zero k)) (Eq.refl.{1} Nat (add Nat.zero k)) k ih)
+
+?0 := λ (n : Nat) => Nat.rec.{0} (λ (n1 : Nat) => NatEq (add Nat.zero n1) n1) (Eq.refl.{1} Nat (add Nat.zero Nat.zero)) (λ (k : Nat) => λ (ih : NatEq (add Nat.zero k) k) => Eq.rec.{0, 1} Nat k (λ (b : Nat) => λ (h : Eq.{1} Nat k b) => NatEq (Nat.succ b) (Nat.succ k)) (Eq.refl.{1} Nat (Nat.succ k)) (add Nat.zero k) (Eq.rec.{0, 1} Nat (add Nat.zero k) (λ (b : Nat) => λ (h : Eq.{1} Nat (add Nat.zero k) b) => Eq.{1} Nat b (add Nat.zero k)) (Eq.refl.{1} Nat (add Nat.zero k)) k ih)) n
+-/
+#guard_msgs in
+#mini_tactics (n : Nat) : NatEq (add zero n) n := by
+  induction n
+  · refl
+  · intro k ih
+    show NatEq (succ (add zero k)) (succ k)
+    rw [ih]
+
+/--
+info:   add Nat.zero Nat.zero
+⟶ δ add
+  (λ (m : Nat) => λ (n : Nat) => Nat.rec.{1} (λ (k : Nat) => Nat) m (λ (k : Nat) => λ (ih : Nat) => Nat.succ ih) n) Nat.zero Nat.zero
+⟶ β
+  (λ (n : Nat) => Nat.rec.{1} (λ (k : Nat) => Nat) Nat.zero (λ (k : Nat) => λ (ih : Nat) => Nat.succ ih) n) Nat.zero
+⟶ β
+  Nat.rec.{1} (λ (k : Nat) => Nat) Nat.zero (λ (k : Nat) => λ (ih : Nat) => Nat.succ ih) Nat.zero
+⟶ ι Nat.rec
+  Nat.zero
+-/
+#guard_msgs in
+#mini_trace add zero zero
+
+/--
+info: ∀ (k : Nat), NatEq (Nat.succ (add Nat.zero k)) (Nat.succ k)  ≟  ∀ (k : Nat), NatEq (add Nat.zero (Nat.succ k)) (Nat.succ k)
+  both binders: compare the types, then the bodies
+  Nat  ≟  Nat
+    identical ✓
+  NatEq (Nat.succ (add Nat.zero k)) (Nat.succ k)  ≟  NatEq (add Nat.zero (Nat.succ k)) (Nat.succ k)
+    whnf left   ⟶ Eq.{1} Nat (Nat.succ (add Nat.zero k)) (Nat.succ k)
+    whnf right  ⟶ Eq.{1} Nat (add Nat.zero (Nat.succ k)) (Nat.succ k)
+    stuck; same head Eq.{1}: compare the 3 arguments
+    Nat  ≟  Nat
+      identical ✓
+    Nat.succ (add Nat.zero k)  ≟  add Nat.zero (Nat.succ k)
+      whnf right  ⟶ Nat.succ (Nat.rec.{1} (λ (k : Nat) => Nat) Nat.zero (λ (k : Nat) => λ (ih : Nat) => Nat.succ ih) k)
+      stuck; same head Nat.succ: compare the 1 arguments
+      add Nat.zero k  ≟  Nat.rec.{1} (λ (k : Nat) => Nat) Nat.zero (λ (k : Nat) => λ (ih : Nat) => Nat.succ ih) k
+        whnf left   ⟶ Nat.rec.{1} (λ (k : Nat) => Nat) Nat.zero (λ (k : Nat) => λ (ih : Nat) => Nat.succ ih) k
+        identical ✓
+    Nat.succ k  ≟  Nat.succ k
+      identical ✓
+-/
+#guard_msgs in
+#mini_defeq ∀ (k : Nat), NatEq (succ (add zero k)) (succ k) =?= ∀ (k : Nat), NatEq (add zero (succ k)) (succ k)
+
+/--
+info: addTheorem zero_add
+1. checkFresh: no earlier declaration is named zero_add
+2. checkLevelParams: universe parameters [], none undeclared
+3. ensureSort statement: ∀ (n : Nat), NatEq (add Nat.zero n) n : Sort imax (1) (0)
+   level imax (1) (0) is 0, so the statement is a proposition ✓
+4. check (proof) (statement): first infer the proof's type
+   λ (n : Nat) =>   open n as a free variable, infer the body
+     Nat.rec.{0} (λ (n : Nat) => NatEq (add Nat.zero n) n) (Eq.refl.{1} Nat (add Nat.zero Nat.zero)) (λ (k : Nat) => λ (ih : NatEq (add Nat.zero k) k) => Eq.rec.{0, 1} Nat k (λ (b : Nat) => λ (h : Eq.{1} Nat k b) => NatEq (Nat.succ b) (Nat.succ k)) (Eq.refl.{1} Nat (Nat.succ k)) (add Nat.zero k) (Eq.rec.{0, 1} Nat (add Nat.zero k) (λ (b : Nat) => λ (h : Eq.{1} Nat (add Nat.zero k) b) => Eq.{1} Nat b (add Nat.zero k)) (Eq.refl.{1} Nat (add Nat.zero k)) k ih)) n
+       head  Nat.rec.{0} : ∀ (motive : Nat → Prop), motive Nat.zero → (∀ (x : Nat), motive x → motive (Nat.succ x)) → ∀ (t : Nat), motive t
+       arg 1  λ (n : Nat) => NatEq (add Nat.zero n) n
+         has type  Nat → Prop
+         expected  Nat → Prop
+         identical ✓
+       arg 2  Eq.refl.{1} Nat (add Nat.zero Nat.zero)
+         has type  Eq.{1} Nat (add Nat.zero Nat.zero) (add Nat.zero Nat.zero)
+         expected  (λ (n : Nat) => NatEq (add Nat.zero n) n) Nat.zero
+         definitionally equal ✓
+       arg 3  λ (k : Nat) => λ (ih : NatEq (add Nat.zero k) k) => Eq.rec.{0, 1} Nat k (λ (b : Nat) => λ (h : Eq.{1} Nat k b) => NatEq (Nat.succ b) (Nat.succ k)) (Eq.refl.{1} Nat (Nat.succ k)) (add Nat.zero k) (Eq.rec.{0, 1} Nat (add Nat.zero k) (λ (b : Nat) => λ (h : Eq.{1} Nat (add Nat.zero k) b) => Eq.{1} Nat b (add Nat.zero k)) (Eq.refl.{1} Nat (add Nat.zero k)) k ih)
+         has type  ∀ (k : Nat), ∀ (ih : NatEq (add Nat.zero k) k), (λ (b : Nat) => λ (h : Eq.{1} Nat k b) => NatEq (Nat.succ b) (Nat.succ k)) (add Nat.zero k) (Eq.rec.{0, 1} Nat (add Nat.zero k) (λ (b : Nat) => λ (h : Eq.{1} Nat (add Nat.zero k) b) => Eq.{1} Nat b (add Nat.zero k)) (Eq.refl.{1} Nat (add Nat.zero k)) k ih)
+         expected  ∀ (x : Nat), (λ (n : Nat) => NatEq (add Nat.zero n) n) x → (λ (n : Nat) => NatEq (add Nat.zero n) n) (Nat.succ x)
+         definitionally equal ✓
+       arg 4  n
+         has type  Nat
+         expected  Nat
+         identical ✓
+       type  (λ (n : Nat) => NatEq (add Nat.zero n) n) n
+     type  ∀ (n : Nat), (λ (n1 : Nat) => NatEq (add Nat.zero n1) n1) n
+5. then isDefEq (inferred type) (statement)
+   ∀ (n : Nat), (λ (n1 : Nat) => NatEq (add Nat.zero n1) n1) n  ≟  ∀ (n : Nat), NatEq (add Nat.zero n) n
+     both binders: compare the types, then the bodies
+     Nat  ≟  Nat
+       identical ✓
+     (λ (n : Nat) => NatEq (add Nat.zero n) n) n  ≟  NatEq (add Nat.zero n) n
+       whnf left   ⟶ Eq.{1} Nat (add Nat.zero n) n
+       whnf right  ⟶ Eq.{1} Nat (add Nat.zero n) n
+       identical ✓
+6. env.add zero_add (theorem: its proof is never unfolded)
+-/
+#guard_msgs in
+#mini_kernel 0 zero_add
+
+/--
+info: Eq.{1} Nat (add Nat.zero Nat.zero) (add Nat.zero Nat.zero)  ≟  (λ (n : Nat) => NatEq (add Nat.zero n) n) Nat.zero
+  whnf right  ⟶ Eq.{1} Nat (add Nat.zero Nat.zero) Nat.zero
+  stuck; same head Eq.{1}: compare the 3 arguments
+  Nat  ≟  Nat
+    identical ✓
+  add Nat.zero Nat.zero  ≟  add Nat.zero Nat.zero
+    identical ✓
+  add Nat.zero Nat.zero  ≟  Nat.zero
+    whnf left   ⟶ Nat.zero
+    identical ✓
+-/
+#guard_msgs in
+#mini_defeq Eq.{1} Nat (add zero zero) (add zero zero) =?= (λ (n : Nat) => NatEq (add zero n) n) zero
+
+/--
+info: theorem zero_add : ∀ (n : Nat), NatEq (add Nat.zero n) n :=
+  λ (n : Nat) => Nat.rec.{0} (λ (n1 : Nat) => NatEq (add Nat.zero n1) n1) (Eq.refl.{1} Nat (add Nat.zero Nat.zero)) (λ (k : Nat) => λ (ih : NatEq (add Nat.zero k) k) => Eq.rec.{0, 1} Nat k (λ (b : Nat) => λ (h : Eq.{1} Nat k b) => NatEq (Nat.succ b) (Nat.succ k)) (Eq.refl.{1} Nat (Nat.succ k)) (add Nat.zero k) (Eq.rec.{0, 1} Nat (add Nat.zero k) (λ (b : Nat) => λ (h : Eq.{1} Nat (add Nat.zero k) b) => Eq.{1} Nat b (add Nat.zero k)) (Eq.refl.{1} Nat (add Nat.zero k)) k ih)) n
+-/
+#guard_msgs in
+#mini_print zero_add

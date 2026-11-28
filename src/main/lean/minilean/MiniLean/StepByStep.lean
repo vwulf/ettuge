@@ -208,8 +208,16 @@ Three things to see in it:
 
 `addTheorem` returns a new environment with one more entry, a `thm`. The DSL
 records it in a Lean environment extension (`commitEnv`), so later declarations,
-and later files, can use `zero_add` as a constant. A theorem's proof is stored
-but never unfolded: `whnfStep?` only unfolds `defn`s. What was stored:
+and later files, can use `zero_add` as a constant. Used as a rewrite rule, its
+`∀` becomes a pattern variable, which matching fills in:
+-/
+
+#mini_tactics (m : Nat) : NatEq m (add zero m) := by
+  rw [zero_add]
+
+/-!
+A theorem's proof is stored but never unfolded: `whnfStep?` only unfolds
+`defn`s. What was stored:
 -/
 
 #mini_print zero_add
