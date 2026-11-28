@@ -237,7 +237,7 @@ partial def inferLog (fuel : Nat) (ind : String) (e : Expr) : M (Expr × Array S
       let .pi _ d b := t' | throw "inferLog: not a function type"
       let (ta, la) ← if fuel > 0 && !(a matches .fvar _ | .const .. | .sort _)
         then inferLog (fuel - 1) (ind ++ "    ") a
-        else return (← MiniLean.infer a, #[])
+        else pure (← MiniLean.infer a, #[])
       lines := lines.push s!"{ind}  arg {i + 1}  {← pp a}"
       lines := lines ++ la
       lines := lines.push s!"{ind}    has type  {← pp ta}"
