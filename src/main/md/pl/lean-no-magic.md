@@ -10,6 +10,7 @@
 - [Summary](#summary)
 - [1. The proof by hand](#s1)
 - [2. The same proof in Lean](#s2)
+  - [2.1 Lean keywords used in this article](#s2-1)
 - [3. What the Lean program turns into](#s3)
 - [4. Why a type is a statement and a term is a proof](#s4)
 - [5. How the kernel checks the proof](#s5)
@@ -117,7 +118,10 @@ theorem two_mul_sumTo (n : Nat) : 2 * sumTo n = n * (n + 1) := by
 
 -- Divide at the end: S(n) = n(n+1)/2
 theorem sumTo_eq (n : Nat) : sumTo n = n * (n + 1) / 2 := by
-  rw [← two_mul_sumTo n, Nat.mul_div_cancel_left (sumTo n) (by decide : 0 < 2)]
+  have two_pos : 0 < 2 := by decide
+  calc sumTo n
+      = 2 * sumTo n / 2 := (Nat.mul_div_cancel_left (sumTo n) two_pos).symm
+    _ = n * (n + 1) / 2 := by rw [two_mul_sumTo n]
 
 #eval sumTo 100          -- 5050
 #print axioms sumTo_eq   -- 'sumTo_eq' depends on axioms: [propext]
@@ -136,13 +140,45 @@ Each piece maps to one move on paper:
 | Distributivity | `Nat.mul_add`, `Nat.add_mul` |
 | Use the induction hypothesis | `rw [ih]` rewrites `2 * sumTo k` to `k * (k + 1)` |
 | Commutativity | `Nat.mul_comm` |
-| Divide by 2 | `Nat.mul_div_cancel_left` |
+| Divide by 2 | `calc`: multiply and divide by 2 (`Nat.mul_div_cancel_left`), then substitute (`rw [two_mul_sumTo n]`) |
 
 Two details are worth noticing.
 
 **`rfl` does real work.** In the base case, `rfl` claims that `2 * sumTo 0` and `0 * (0 + 1)` are the same. Lean accepts this by *computing* both sides to `0`. The same is true of the first `calc` step, where `sumTo (k + 1)` computes to `sumTo k + (k + 1)` by the definition. Computation is part of the logic, and [section 5](#s5) explains how.
 
 **The goal for k + 1 is `(k + 1) * (k + 1 + 1)`, and the `calc` ends in `(k + 1) * (k + 2)`.** Lean accepts the match because `k + 1 + 1` and `k + 2` compute to the same number. Again, no step is waved through; the computation is checked.
+
+**Dividing at the end: `sumTo_eq`.** The hand proof ends "since 2 · S(n) = n(n + 1), divide by 2". The `calc` in `sumTo_eq` does exactly that, in two steps:
+
+```text
+sumTo n = 2 * sumTo n / 2     multiply and divide by 2: Nat.mul_div_cancel_left, read backwards
+        = n * (n + 1) / 2     rw [two_mul_sumTo n]: replace 2 * sumTo n by n * (n + 1)
+```
+
+The first step uses a lemma from Lean's core library:
+
+```lean
+protected theorem Nat.mul_div_cancel_left (m : Nat) {n : Nat} (H : 0 < n) : n * m / n = m
+```
+
+Read it as: for any `m`, and any positive `n`, n · m / n = m. Three details:
+
+- `(m : Nat)` is an *explicit* argument, so we pass `sumTo n`. `{n : Nat}`, in braces, is *implicit*: Lean works it out from the other arguments. Here it reads it off the type of `two_pos : 0 < 2`, so `n` is `2`.
+- `H : 0 < n` is a hypothesis: a proof the caller must supply. It is needed because Lean defines division by zero on `Nat` to be zero (`5 / 0 = 0`), so 0 · m / 0 = m would be false for any m ≠ 0. `have two_pos : 0 < 2 := by decide` supplies it; `decide` proves a statement like `0 < 2` by computing whether it is true.
+- The lemma says `2 * sumTo n / 2 = sumTo n`, but the `calc` step runs the other way, so `.symm` flips it.
+
+**Where the lemma comes from.** Lean defines division on natural numbers by repeated subtraction: count how many times y can be taken from x. `Nat.mul_div_cancel_left` is the end of a short chain of proofs built on that definition, in Lean's core library (`Init/Data/Nat/Div/Basic.lean`, Lean 4.36):
+
+| Lemma | Statement | Proved by |
+| --- | --- | --- |
+| `Nat.div_eq` | x / y = if 0 < y ∧ y ≤ x then (x − y) / y + 1 else 0 | the definition: subtract y once and count it |
+| `Nat.add_div_right` | (x + z) / z = x / z + 1, if 0 < z | one step of the definition |
+| `Nat.add_mul_div_left` | (x + y · z) / y = x / y + z, if 0 < y | induction on z, using `add_div_right` at each step |
+| `Nat.add_mul_div_right` | (x + y · z) / z = x / z + y, if 0 < z | the previous line, with the product commuted |
+| `Nat.mul_div_cancel` | m · n / n = m, if 0 < n | the previous line with x = 0, then 0 + a = a and 0 / n = 0 |
+| `Nat.mul_div_cancel_left` | n · m / n = m, if 0 < n | `rw [Nat.mul_comm, Nat.mul_div_cancel _ H]`: swap the factors, then use the previous line |
+
+So "divide by 2" reaches back, through one induction, to division as repeated subtraction. `#print axioms Nat.mul_div_cancel_left` lists `propext`, so this chain is one of the two places the proof's single axiom comes from.
 
 **One axiom, and where it comes from.** `#print axioms` reports exactly one axiom, `propext` (two propositions that imply each other are equal). It does not come from the induction. `sumTo`, the `rfl` base case, `Nat.mul_add` and `Nat.mul_comm` use no axioms at all. It comes in through the core library's own proofs of `Nat.add_mul` and `Nat.mul_div_cancel_left`. There is no `Classical.choice`, so the proof is constructive.
 
@@ -160,6 +196,31 @@ Two details are worth noticing.
 | Spell out the algebra in `calc` | Rewrite with `mul_add` and the hypothesis, then `ring` |
 
 Underneath, both elaborate to a `Nat.rec` term that the same kernel checks. The Mathlib version simply asks you to trust more library code on the way: the definition of finite sums, the lemma that peels off the last term, and the `ring` decision procedure. Nothing there is magic either; it is just more of it. *Mathematics in Lean* is the natural place to learn that style, since it teaches formalization the way Mathlib does it, starting from calculation and the logical connectives.
+
+### 2.1 Lean keywords used in this article {#s2-1}
+
+| Keyword | What it does | Used in |
+| --- | --- | --- |
+| `def f : A → B` | defines a function or value; the kernel may unfold it (δ-reduction, [section 5](#s5)) | `sumTo` |
+| `theorem t (x : A) : P := proof` | states proposition `P` and proves it; the proof is checked once and never unfolded | every theorem |
+| `(x : A)` / `{x : A}` | explicit argument (you pass it) / implicit argument (Lean works it out) | `Nat.mul_div_cancel_left` |
+| `by` | switch from writing a proof term to running tactics, which build the term | `two_mul_sumTo`, `sumTo_eq` |
+| `induction n with \| zero => … \| succ k ih => …` | proof by induction, one case per constructor; `ih` names the induction hypothesis | `two_mul_sumTo` |
+| `rfl` | "both sides are the same": accepted when they compute to the same value | base case, first `calc` step |
+| `calc a = b := p₁` then `_ = c := p₂` | a chain of equations; `_` is the previous right-hand side, and Lean joins the steps with `Eq.trans` | step case, `sumTo_eq` |
+| `rw [h]` | rewrite: replace the left side of equation `h` by its right side in the goal, then try `rfl` | `rw [ih]`, `rw [two_mul_sumTo n]` |
+| `rw [← h]` | rewrite right to left: replace the right side of `h` by its left side | — |
+| `have h : P := proof` | prove an intermediate fact and give it a name | `two_pos` |
+| `decide` | prove a statement such as `0 < 2` by computing whether it is true | `two_pos` |
+| `h.symm`, `h.trans h'` | flip an equation; chain two equations | `sumTo_eq`, term proof ([section 3](#s3)) |
+| `congrArg f h` | from `a = b`, get `f a = f b` | term proof ([section 3](#s3)) |
+| `fun x => e` | a function (λ) | term proof ([section 3](#s3)) |
+| `show T from e` | state the type `e` should have; checked up to computation | term proof ([section 3](#s3)) |
+| `(e : T)` | type ascription: check that `e` has type `T` | `(rfl : 2 * sumTo 0 = …)` |
+| `Nat.rec (motive := …)` | the recursor: induction itself, as a term; `(motive := …)` passes an argument by name | term proof ([section 3](#s3)) |
+| `#eval`, `#check`, `#print` | compute a value; show a type; show a definition or proof | sections 2–5 |
+| `#print axioms t` | list every axiom the proof of `t` depends on | `sumTo_eq` |
+| `ring` (Mathlib) | prove an equation in a commutative ring automatically | "Why not Mathlib?" |
 
 [↑ Contents](#contents)
 

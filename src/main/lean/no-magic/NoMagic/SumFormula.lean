@@ -27,7 +27,10 @@ theorem two_mul_sumTo (n : Nat) : 2 * sumTo n = n * (n + 1) := by
 
 /-- Divide at the end: `S(n) = n(n+1)/2`. -/
 theorem sumTo_eq (n : Nat) : sumTo n = n * (n + 1) / 2 := by
-  rw [← two_mul_sumTo n, Nat.mul_div_cancel_left (sumTo n) (by decide : 0 < 2)]
+  have two_pos : 0 < 2 := by decide
+  calc sumTo n
+      = 2 * sumTo n / 2 := (Nat.mul_div_cancel_left (sumTo n) two_pos).symm
+    _ = n * (n + 1) / 2 := by rw [two_mul_sumTo n]
 
 /-- The same proof with no tactics: a direct application of `Nat.rec`. -/
 theorem two_mul_sumTo' (n : Nat) : 2 * sumTo n = n * (n + 1) :=
