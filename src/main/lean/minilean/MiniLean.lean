@@ -9,3 +9,5 @@ import MiniLean.Prelude
 import MiniLean.Rejections
 import MiniLean.Checks
 import MiniLean.Walkthrough
+import MiniLean.Explain
+import MiniLean.StepByStep

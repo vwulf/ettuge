@@ -60,6 +60,7 @@ jobs:
           cp src/main/md/pl/lean-ai-formalization.md docs/FP/
           cp src/main/md/pl/lean-no-magic.md docs/FP/
           cp src/main/md/pl/minilean.md docs/FP/
+          cp src/main/md/pl/minilean-step-by-step.md docs/FP/
           cp src/main/md/pl/decision-points-as-effects.md docs/FP/
           cp src/main/md/pl/decision-cascade.png src/main/md/pl/latency-ladder.png docs/FP/
           # haskell/
@@ -835,6 +836,7 @@ jobs:
                   ('lean-ai-formalization.md',      'Lean and AI Formalization',   1),
                   ('lean-no-magic.md',              'No Magic: Sum Formula to Kernel (WIP)', 2),
                   ('minilean.md',                   'MiniLean: No Magic in a Small Kernel (WIP)', 3),
+                  ('minilean-step-by-step.md',      'MiniLean, Step by Step (WIP)', 4),
               ]),
               ('bucket-creative-coding.md', 'Creative Coding', 6, [
                   ('hsom.md',                       'rangapura vihAra',            1),
