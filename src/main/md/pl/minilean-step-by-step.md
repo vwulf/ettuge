@@ -588,16 +588,33 @@ The step case (argument 3) is the same kind of check, longer. After β-reducing 
 
 `addTheorem` returns a new environment with one more entry, `.thm [] type proof`. An environment is just an ordered array of declarations ([`Env.lean`](https://github.com/vwulf/ettuge/blob/master/src/main/lean/minilean/MiniLean/Env.lean)), and nothing joins it except through the kernel's `add…` functions.
 
-The DSL then records the new entry in a Lean environment extension (`commitEnv`). That is how a later `mini_theorem`, or a later file importing the prelude, sees `zero_add`: the entry was checked when its own file was built. In `add_comm`, `rw [zero_add]` uses it as a constant with one pattern variable:
+The DSL then records the new entry in a Lean environment extension (`commitEnv`). That is how a later `mini_theorem`, or a later file importing the prelude, sees `zero_add`: the entry was checked when its own file was built. Used as a rewrite rule, as in `add_comm`'s base case, its `∀` becomes a pattern variable `?n`, which matching fills in with `m`:
 
 ```text
+#mini_tactics (m : Nat) : NatEq m (add zero m) := by
   rw [zero_add]
-    on    ?5  m : Nat ⊢ NatEq m (add Nat.zero m)
-    rule      zero_add : ∀ (n : Nat), NatEq (add Nat.zero n) n
-    equation  add Nat.zero ?n = ?n, used left to right
-    pattern variables (the rule's ∀s): 1
-    find      add Nat.zero m  (first match in the goal, outermost first)
+
+tactics: intro m; rw [zero_add]
+
+intro m
+  on    ?0  ⊢ ∀ (m : Nat), NatEq m (add Nat.zero m)
+  new   ?1  m : Nat ⊢ NatEq m (add Nat.zero m)
+  ?0 := λ (m : Nat) => ?1
+rw [zero_add]
+  on    ?1  m : Nat ⊢ NatEq m (add Nat.zero m)
+  rule      zero_add : ∀ (n : Nat), NatEq (add Nat.zero n) n
+  equation  add Nat.zero ?n = ?n, used left to right
+  pattern variables (the rule's ∀s): 1
+  find      add Nat.zero m  (first match in the goal, outermost first)
+  motive    λ (b : Nat) => NatEq m b  (the goal, with b for each match)
+  new goal  NatEq m m  (the motive applied to m)
+  new   (none: the new goal holds by refl, so ?1 is closed)
+  ?1 := Eq.rec.{0, 1} Nat m (λ (b : Nat) => λ (h : Eq.{1} Nat m b) => NatEq m b) (Eq.refl.{1} Nat m) (add Nat.zero m) (Eq.rec.{0, 1} Nat (add Nat.zero m) (λ (b : Nat) => λ (h : Eq.{1} Nat (add Nat.zero m) b) => Eq.{1} Nat b (add Nat.zero m)) (Eq.refl.{1} Nat (add Nat.zero m)) m (zero_add m))
+
+?0 := λ (m : Nat) => Eq.rec.{0, 1} Nat m (λ (b : Nat) => λ (h : Eq.{1} Nat m b) => NatEq m b) (Eq.refl.{1} Nat m) (add Nat.zero m) (Eq.rec.{0, 1} Nat (add Nat.zero m) (λ (b : Nat) => λ (h : Eq.{1} Nat (add Nat.zero m) b) => Eq.{1} Nat b (add Nat.zero m)) (Eq.refl.{1} Nat (add Nat.zero m)) m (zero_add m))
 ```
+
+In the term, the lemma appears as `zero_add m`: the constant applied to the value matching found for `?n`. The kernel will check that application like any other, using the statement stored for `zero_add`.
 
 A theorem is stored but never unfolded: `whnfStep?` unfolds only `.defn` entries. Its proof could be replaced by any other proof of the same statement without changing anything downstream. What was stored:
 

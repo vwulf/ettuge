@@ -533,6 +533,30 @@ info: Eq.{1} Nat (add Nat.zero Nat.zero) (add Nat.zero Nat.zero)  ≟  (λ (n : 
 #mini_defeq Eq.{1} Nat (add zero zero) (add zero zero) =?= (λ (n : Nat) => NatEq (add zero n) n) zero
 
 /--
+info: tactics: intro m; rw [zero_add]
+
+intro m
+  on    ?0  ⊢ ∀ (m : Nat), NatEq m (add Nat.zero m)
+  new   ?1  m : Nat ⊢ NatEq m (add Nat.zero m)
+  ?0 := λ (m : Nat) => ?1
+rw [zero_add]
+  on    ?1  m : Nat ⊢ NatEq m (add Nat.zero m)
+  rule      zero_add : ∀ (n : Nat), NatEq (add Nat.zero n) n
+  equation  add Nat.zero ?n = ?n, used left to right
+  pattern variables (the rule's ∀s): 1
+  find      add Nat.zero m  (first match in the goal, outermost first)
+  motive    λ (b : Nat) => NatEq m b  (the goal, with b for each match)
+  new goal  NatEq m m  (the motive applied to m)
+  new   (none: the new goal holds by refl, so ?1 is closed)
+  ?1 := Eq.rec.{0, 1} Nat m (λ (b : Nat) => λ (h : Eq.{1} Nat m b) => NatEq m b) (Eq.refl.{1} Nat m) (add Nat.zero m) (Eq.rec.{0, 1} Nat (add Nat.zero m) (λ (b : Nat) => λ (h : Eq.{1} Nat (add Nat.zero m) b) => Eq.{1} Nat b (add Nat.zero m)) (Eq.refl.{1} Nat (add Nat.zero m)) m (zero_add m))
+
+?0 := λ (m : Nat) => Eq.rec.{0, 1} Nat m (λ (b : Nat) => λ (h : Eq.{1} Nat m b) => NatEq m b) (Eq.refl.{1} Nat m) (add Nat.zero m) (Eq.rec.{0, 1} Nat (add Nat.zero m) (λ (b : Nat) => λ (h : Eq.{1} Nat (add Nat.zero m) b) => Eq.{1} Nat b (add Nat.zero m)) (Eq.refl.{1} Nat (add Nat.zero m)) m (zero_add m))
+-/
+#guard_msgs in
+#mini_tactics (m : Nat) : NatEq m (add zero m) := by
+  rw [zero_add]
+
+/--
 info: theorem zero_add : ∀ (n : Nat), NatEq (add Nat.zero n) n :=
   λ (n : Nat) => Nat.rec.{0} (λ (n1 : Nat) => NatEq (add Nat.zero n1) n1) (Eq.refl.{1} Nat (add Nat.zero Nat.zero)) (λ (k : Nat) => λ (ih : NatEq (add Nat.zero k) k) => Eq.rec.{0, 1} Nat k (λ (b : Nat) => λ (h : Eq.{1} Nat k b) => NatEq (Nat.succ b) (Nat.succ k)) (Eq.refl.{1} Nat (Nat.succ k)) (add Nat.zero k) (Eq.rec.{0, 1} Nat (add Nat.zero k) (λ (b : Nat) => λ (h : Eq.{1} Nat (add Nat.zero k) b) => Eq.{1} Nat b (add Nat.zero k)) (Eq.refl.{1} Nat (add Nat.zero k)) k ih)) n
 -/
